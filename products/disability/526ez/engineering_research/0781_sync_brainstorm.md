@@ -116,21 +116,27 @@ Additionally, The 'Continue' Button now has conditional behavior.
 
 ---
 
+### Add Event Skeleton Preflow & Choice (L)
+
+<img width="814" alt="Screenshot 2024-11-08 at 10 06 14 AM" src="https://github.com/user-attachments/assets/ec5723cf-a346-4142-8753-b0a5da8bee1b">
+
+Entry Point: 3.4, 3.5, 3.6
+
+Exit Points: TBD (based on selection)
+
+#### Acceptance Criteria
+
+- As a user visting 3.4, I see a placeholder with navigation (Continue to 3.5)
+- As a user navigating to 3.5 I see a placeholder with navigation (Continue to 3.6)
+- Asd a user navigating to 3.6 I see four choices for event type
+  - <img width="303" alt="Screenshot 2024-11-08 at 10 08 47 AM" src="https://github.com/user-attachments/assets/e66e7617-4796-4d83-9f33-97bbf6479668">
+  - Selections here must be persisted to the correct data solutions (FE / BE)
+- Continue button has conditional routing based on selections made (See Design Tiles for details)
+
+---
 
 
-
-## Event Intro / Type Choice: 1 sprint
-- add 3.4 blank placeholder page. 
-  - can click continue
-    - routes to 3.5 placeholder
-- add 3.5 blank placeholder page. 
-  - can click continue
-    - routes to 3.6 choice placeholder page
-- add 3.6 Event Type
-  - displays 4 check boxes
-  - adds logic to handle routing based on selection in these check boxes
-
-## Event to add / List & Loop page: 1 sprint
+### Event to add / List & Loop page: 1 sprint
 - placeholder list for added events. no style, should look at storage solution for list of 'events
 - option to add a new event
   - routes to 3.8 (add event) form blank placeholder
