@@ -3,7 +3,7 @@
 | --------------------------------------------------- | ----------------- | -------- | ----------------------------------------------------------------- |
 | contact email address                               | VA Profile        | true     |                                                                   |
 | preferred name                                      | VA Profile        | true     |                                                                   |
-| gender                                              | VA Profile        | true     |                                                                   |
+| gender identity                                     | VA Profile        | true     |                                                                   |
 | mailing address                                     | VA Profile        | true     |                                                                   |
 | home address                                        | VA Profile        | true     |                                                                   |
 | home phone                                          | VA Profile        | true     |                                                                   |
