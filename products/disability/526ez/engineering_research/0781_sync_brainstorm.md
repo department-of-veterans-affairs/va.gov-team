@@ -32,6 +32,7 @@ Backend specific, no front end entry / exit
 - should mimic logic in
   - [0781 transform](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/pdf_fill/forms/va210781.rb)
   - [0781a transform](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/pdf_fill/forms/va210781a.rb)
+- TBD check with the team, get edge cases, possible complications
 
 ---
 
