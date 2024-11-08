@@ -1,50 +1,34 @@
-# IA Design for [Product/page name]
-**STATUS: [In progress/In review/Complete]**
+# IA Design for merging the 'Find a Yellow Ribbon school' into the 'GI Bill school comparison'
+**STATUS: [In progress]**
 
-**Team:** [Team name]
+**Team:** EDM team
 
-**CAIA Intake ticket:**
+**People:**
+- EDM PM: Cassidy Beach and Theresa Simeone
+- EDM UX: Sneha Kulkarni
+- CAIA IA: Sam Walker
 
-**IA Tracker:** 
+**CAIA Intake ticket: [92367](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92367)**
+
+**IA Tracker: [95206](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95206)** 
 
 **On this page:**
-- [User/page flows](#flows)
 - [Page structure](#map)
-- [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
 - [Redirects](#redirects)
 - [Staged Rollout](#stagedrollout)
 
-
-## <a name="flows"></a>User/page flows <br>
-*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
-
-
 ## <a name="map"></a>Page structure<br>
-*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
+*Illustration and/or description of changes to the overall IA of VA.gov (i.e. a site map).* 
+See the [IA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726160591523/80254437f9b1756df32f7e73ba96ad8fd6bfbdc4?sender=u40d6eca98d1446001ef20655) for this work, for the details shown in this spec.
 
+On moving all data from the 'Yellow Ribbon school finder' into the 'GI Bill school comparsion', the Yellow Ribbon finder should be deleted from the left nav of the Education hub.
+<img width="939" alt="YR 1" src="https://github.com/user-attachments/assets/a9be2a6e-91a5-45e1-9a82-77e995f8e739">
 
-
-## <a name="url"></a>URLs and breadcrumbs
-*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
-
-
-**1) Page name - Existing/New**
-- URL:
-- Breadcrumb: 
-- Notes: 
-
-**2) Page name - Existing/New**
-- URL:
-- Breadcrumb: 
-- Notes: 
-
-### Sub-URLs
 
 ## <a name="nav"></a>Entry points <br>
 
 ### Primary entry point
-_Most of the time this is the CTA on a tool static landing page - this may be an action link that goes directly to the new feature, or it may be part of a sign in widget.  For forms or features that don't have a static landing page, it may be on a different core page, such as the "How to apply" page, or it may be a navigation component (top, left) or a header/footer/home page link. This is the only entry point that HAS to be implemented to launch when a team goes through staging review._
 
 **1) Page/menu name** - Add/Modify/Remove
 - Placement description: 
@@ -62,24 +46,26 @@ _Any additional locations that the page should be navigable from such as the "Ab
 - Notes:
 
 ### Crosslinks
-_Not required. Links in content or in related links sections of other pages that point to this feature. This includes places where an existing crosslink may need to be updated. This section is not intended to capture every crosslinking placement, it is only to capture placements identified during the IA design process for reference.  Crosslinks are primarily identified by the content team and stakeholders.  The content team will be responsible for finding all existing referring links that may need to be updated._
+_Not required. Links in content or in related links sections of other pages that point to this feature._
 
-**1. Link on a specific page** - Add/Modify/Remove
-- Placement description: 
-- Link label:
-- Link destination: 
-- Notes: 
+**1. Link on the [Yellow Ribbon Program](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/) page** - Modify
+- Placement description: Update the link text and redirect the current text-link. 
+- Link label: 'Find schools that offer the Yellow Ribbon Program this year.' or TBD
+- Link destination: https://www.va.gov/education/gi-bill-comparison-tool
+![YR 4](https://github.com/user-attachments/assets/04090a8e-8ca6-4463-b3a5-814eb2cd5133)
+
+
+**1. Three links on the [Yellow Ribbon FAQ](https://www.va.gov/resources/yellow-ribbon-program-faqs/) page** - Modify
+- Placement description: Update the link text and redirect the current text-link. Link description could also be updated.
+- Link destination: https://www.va.gov/education/gi-bill-comparison-tool
+![YR 3](https://github.com/user-attachments/assets/d46adba3-e6b5-43db-87ab-08eeee1a05bd)
+
 
  
 ### <a name="bestbets"></a>Best Bets<br>
 *Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find content and features that are not easily found or not ranking well in search. Existing best bets must be removed or updated when links/URLs change.*
+<img width="586" alt="YR 5" src="https://github.com/user-attachments/assets/adcacd49-6e44-479c-8f1d-2d9c88158612">
 
-**1. Page name** - Add/Modify/Remove
-- Title: [H1 of page]
-- Link:
-- Description: [Meta description of page]
-- Additional keywords *(Misspellings or phrases that are not an exact match to the title or description)*
-  - [keyword]
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
@@ -87,7 +73,7 @@ _Not required. Links in content or in related links sections of other pages that
 
 Current URL | Redirect to | Notes
 --- | --- | ---
- |  | 
+https://www.va.gov/education/yellow-ribbon-participating-schools/ | https://www.va.gov/education/gi-bill-comparison-tool | 
  
 
 
