@@ -63,9 +63,11 @@ Data collection will be remote. We will use Zoom.
 
 [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2024-11-MR-SM-RX-usability-study/conversation-guide.md)
 
-[Link to prototype](https://www.figma.com/proto/SGP1z2LejUWqDZyT61po5J/Medical-Records---Phase-1?page-id=9865%3A41799&node-id=9865-77308&node-type=frame&viewport=800%2C3241%2C0.25&t=VByBxJf8ebh5wTWx-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=9865%3A77308&show-proto-sidebar=1)
+[Link to mobile prototype](https://www.figma.com/proto/SGP1z2LejUWqDZyT61po5J/Medical-Records---Phase-1?node-id=11764-21653&node-type=frame&t=L6hXstnl2Q64Whv3-0&scaling=min-zoom&content-scaling=fixed&page-id=9865%3A41799&starting-point-node-id=11764%3A21653&show-proto-sidebar=1)
 
-[Link to Codespace]
+[Link to desktop prototype](https://www.figma.com/proto/SGP1z2LejUWqDZyT61po5J/Medical-Records---Phase-1?node-id=11764-21653&node-type=frame&t=L6hXstnl2Q64Whv3-0&scaling=min-zoom&content-scaling=fixed&page-id=9865%3A41799&starting-point-node-id=11764%3A21653&show-proto-sidebar=1)
+
+[Link to Codespace](https://jubilant-space-palm-tree-wpw45v5g9562p6q-3001.app.github.dev/my-health/secure-messages/inbox/)
 
 ## **Recruitment**
 
@@ -220,11 +222,11 @@ Please make sure that ALL participants are willing to complete the session **on 
 
 | **Day** | **Team Availability** | **Time Slots (Eastern Time Zone)** |
 | --- | --- | --- |
-| Monday | November 18, 2024 | 8:00am – 5:00pm |
-| Tuesday | November 19, 2024 | 8:00am – 5:00pm |
-| Wednesday | November 20, 2024 | 8:00am – 4:00pm. |
-| Thursday | November 21, 2024 | 8:00am – 5:00pm |
-| Friday | November 22, 2024 | 8:00am – 12:00pm |
+| Monday | November 18, 2024 | 8:30am – 5:00pm |
+| Tuesday | November 19, 2024 | 8:30am – 5:00pm |
+| Wednesday | November 20, 2024 | 8:30am – 4:00pm. |
+| Thursday | November 21, 2024 | 8:30am – 5:00pm |
+| Friday | November 22, 2024 | 8:30am – 12:00pm |
 
 Note: Please do not schedule more than 4 sessions per day.
 
