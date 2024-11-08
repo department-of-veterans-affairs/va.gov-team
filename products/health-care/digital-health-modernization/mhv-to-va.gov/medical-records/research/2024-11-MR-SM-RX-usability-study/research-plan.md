@@ -63,7 +63,7 @@ Data collection will be remote. We will use Zoom.
 
 [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2024-11-MR-SM-RX-usability-study/conversation-guide.md)
 
-[Link to prototype](url goes here)
+[Link to prototype](https://www.figma.com/proto/SGP1z2LejUWqDZyT61po5J/Medical-Records---Phase-1?page-id=9865%3A41799&node-id=9865-77308&node-type=frame&viewport=800%2C3241%2C0.25&t=VByBxJf8ebh5wTWx-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=9865%3A77308&show-proto-sidebar=1)
 
 [Link to Codespace]
 
