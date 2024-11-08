@@ -187,11 +187,11 @@ For this study, we are explicitly not recruiting assistive technology users due 
 
 ## **Team Roles**
 
-- Moderator: Anne Costello (anne.costello@bylight.com), Ade Ajayi (adebolanle.ajayi@bylight.net) _please note different domain for Ade_
+- Moderator: Anne Costello, Ade Ajayi
 - Research guide writing and task development: Anne Costello
 - Participant recruiting & screening: Perigean
 - Project point of contact: Anne Costello
 - Participant(s) for pilot test: TBD
 - Accessibility specialist: N/A
-- Note-takers: Lexi Wunder (alexia.wunder@bylight.com), Harrison Amelang (harrison.amelang@bylight.com)
-- Observers: Coulton Bunney ([Coulton.bunney@va.gov](mailto:Coulton.bunney@va.gov)), Robyn Singleton ([robyn.singleton@va.gov](mailto:robyn.singleton@va.gov))
+- Note-takers: Lexi Wunder, Harrison Amelang
+- Observers: Coulton Bunney, Robyn Singleton
