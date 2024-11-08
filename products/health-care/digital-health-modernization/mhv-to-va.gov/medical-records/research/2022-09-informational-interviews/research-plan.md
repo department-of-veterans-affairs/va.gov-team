@@ -86,7 +86,7 @@ Participants: Internal subject matter experts (10-12 total interviews, start wit
 
 **Data focus:**
 * 1-2 engineers and technical staff from MHV team 
-  * MHV engineering lead: Barry Egbert (barry.egbert@blueguardianit.com)
+  * MHV engineering lead: Barry Egbert 
   * PHR lead dev: Muazzam Khan 
   * Tech lead/API experts: Patrick Vinograd and Dave Mazik
   * Health APIs team at Lighthouse: Bryan Schoefield (tech lead)  
@@ -97,24 +97,24 @@ Participants: Internal subject matter experts (10-12 total interviews, start wit
 **Policies, laws, and product history focus:**
 * 1-2 Product owners from MHV
   * Health data product line: Lichelle Bain
-  * Head of MHV: Theresa Hancock (Theresa.Hancock@va.gov)
+  * Head of MHV: Theresa Hancock 
   * SME for medical records: New hire coming in Sept-Oct (per Dr. Evans), Rich Beaudoin?
 * 1-2 Technical staff from MHV
   * David/Boomer Rawlins?
 * 1-2 Design staff from MHV
   * Bobby Bailey and Arienne Walters
 * 1 per record area - Clinical staff from VA
-  * Clinical Informatics: Kellie Condon (kellie.condon@va.gov), Jonathan Nebeker
+  * Clinical Informatics: Kellie Condon, Jonathan Nebeker
   * Pathology and labs: Thomas Haugen?
 * 1-2 Legal experts from VA
-  * Privacy: Stephania  Griffin (Stephania.griffin@va.gov), Margaret (Peggy) Pugh 
-  * HR Policy Workgroup: Dr. Christine Erickson (christine.erickson@va.gov)
+  * Privacy: Stephania  Griffin, Margaret (Peggy) Pugh 
+  * HR Policy Workgroup: Dr. Christine Erickson 
 * (Maybe) 1-2 Technical staff from VistA
   * Lauryl (previous research lead on Medical Records) mentioned that this one is important because this one will give us answers for how we might change things. Other people can mostly give us answers for how things current work. 
 
 **Usability (internal SMEs):**
 * 1-2 Product owners from MHV
-  * Health data product line: Lichelle Bain (lichelle.bain@va.gov) 
+  * Health data product line: Lichelle Bain 
   * MHV Search My Record: Rich Beaudoin
   * MHV records section: Bresha Lipscomb, Carnetta Scruggs (knows about VistA)
 * 1-2 Design staff from MHV
