@@ -13,13 +13,17 @@ This is just to get things functional. It does not take into account writting te
 
 ## Workable Chunks
 
-Each of these can be built and deployed esentially as 'sub apps' that start and end at predefined routes. 'Predefined route'
+Each of these can be built and deployed esentially as 'sub apps' that start and end at predefined routes. 'Predefined route'. 'Exit Points' are considered to be outside scope, we simply need the routing to lead a user to that endpoint. Exit Points *should not* be placeholder pages, just empty URLs. This will allow us to avoid merge conflicts
 
 ---
 
-### Flipper Protected Entry Point
-#### Description
-Set up a bare bones entry point to the new flow. 
+### Flipper Protected Entry Point (M)
+
+Entry Point: TBD
+
+Exit Point: 2.1
+
+Set up a bare bones entry point to the new flow. There 
 
 #### Acceptance Criteria
 - IF a flipper is on AND a user does not have a started application
@@ -31,15 +35,15 @@ Set up a bare bones entry point to the new flow.
 
 ---
 
-### Choice Page V1
+### Screener Page Skeleton (L)
+
+<img width="278" alt="Screenshot 2024-11-08 at 9 48 21 AM" src="https://github.com/user-attachments/assets/08bf938d-a3c5-408a-b1a0-65c449fdee08">
 
 Estimated Entry Point: 2.1 
 
 Estimated Exit Point(s): 3.4, 3.3, 3.1d
 
-TYPE: data & routing (no style)
-
-### Acceptance Criteria
+#### Acceptance Criteria
 
 As a userArriving at the correct endpoint (see endpoint doc)
 
@@ -50,36 +54,70 @@ As a userArriving at the correct endpoint (see endpoint doc)
 - Selecting any permutation of these choices and clicking 'continue' or 'back' will result in the correct routing behavior as defined in the Design Tiles doc. This is the 'routing' portion.
 - Any selection of options should be correctly persisted to the appropriate solutions (BE / FE)
 
+---
 
-## Pre-form routing: 1 sprint
-- where the entry point is the first page a vet would see if the flipper was on (2.1)
-  - 2.1 (screener page)
-    - checkboxes to select. combinations and resulting routing defined in above layout doc
-      - PTSD
-      - Hearing Loss
-      - Not Claiming
-    - 'Submit' button or link
-  - 3.1 (start page)
-    - options to click
-      - start (will become form 'box' with status in later work)
-        - clicking this routes to 3.2 placeholder
-      - continue
-        - clicking this does nothing (error will be added later)
-  - 3.2 (choice page)
-    - route to blank place holder
+### Choice Page Skeleton (L)
 
-## Form start routing / opt out logic: 1 sprint
-- where entry point is defined as page 3.2
-  - radio select for 
-    - Complete online
-      - routes to blank 3.4 mental health placeholder
-    - upload
-      - routes to blank 3.3 upload placeholder page
-    - Opt out
-      - sets relevant info in React store to ensure form flow is skipped
-        - no idea what this is
-      - routes to start page, displays placholder indicating user has 'opted out' (style not important yet)
-      - backend request?
+<img width="309" alt="Screenshot 2024-11-08 at 9 47 34 AM" src="https://github.com/user-attachments/assets/45f2423c-db79-4fb8-b86e-2319c87e9971">
+
+Entry Point: 3.2
+
+Exit Point(s): 3.1*, 3.3
+
+#### Acceptance Criteria
+
+- As a user visting this page, I should see 3 'Choice' options (unstyled)
+- Selection will be stored in the correct data solutions (FE / BE)
+  - NOTE this work must make this selection availabe to other FE componenets, as it will unblock subsequent work
+ 
+---
+
+### PDF Upload Page Skeleton & PDF Storage (L)
+
+<img width="363" alt="Screenshot 2024-11-08 at 9 53 04 AM" src="https://github.com/user-attachments/assets/2c5cf249-1cb8-4901-9e04-f7fc1caaf067">
+
+Entry Point: 3.3
+
+Exit Point(s): TBD (where does a user get routed after they upload a PDF?)
+
+Special Requirement: This should upload the PDF all the way to the correct storage solution (S3?) meaning there is a FE skeleton as well as an API and 3rd party requirement.
+
+#### Acceptance Criteria
+
+- As a user visting this page, I am presented with an option to upload a PDF
+- Uploading this PDF stores and persists it to the correct data solution
+
+---
+
+### Start Page Skeleton (L)
+
+**BLOCKED**: this requires the 'choice page'. The Choice page ticket defines the storage of data that the Form Tile and Continue Button in this ticket will require for their routing
+
+<img width="255" alt="Screenshot 2024-11-08 at 9 39 06 AM" src="https://github.com/user-attachments/assets/b5f48ca3-1899-4b84-812d-57fb64e87e4b">
+
+Entry Point: 3.1*
+
+Exit Point: 3.2, Opt Out Modal / ??? (if someone opts out, where do they go after the modal?)
+
+This page reads the status of the users form from the data solution and presents the Form Tile states
+- option to start (3.2)
+- option to continue (3.2)
+- option to edit (if complete) (TBD? start of form or summary?)
+
+Additionally, The 'Continue' Button now has conditional behavior.
+
+- IF a user has opted out
+  - THEN show them the opt out confirmation modal
+  - modal routs to TBD (where do they go after they opt out?)
+- ELSE IF a user has an incomplete form (not opted out is implicit here)
+  - THEY they are prompted to complete their form
+- ELSE
+  - THEN they are routed to the next page (TBD, what comes after??)
+
+---
+
+
+
 
 ## Event Intro / Type Choice: 1 sprint
 - add 3.4 blank placeholder page. 
