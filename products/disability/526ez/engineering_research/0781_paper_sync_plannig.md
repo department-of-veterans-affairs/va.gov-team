@@ -63,63 +63,14 @@ The other kind is **content complete** testing. This encopmases everything cover
 
 ### Screener Page Skeleton
 
-#### Status
+[Ticket](https://github.com/department-of-veterans-affairs/vets-api/issues/19366)
 
-Estimate: L
-
-Workability: ready / needs refinement
-
-Testibility: skeleton
-
-#### Dependencies
-
-- deploy fondational InProgressForms integration
-
-#### Description 
-
-<img width="278" alt="Screenshot 2024-11-08 at 9 48 21 AM" src="https://github.com/user-attachments/assets/08bf938d-a3c5-408a-b1a0-65c449fdee08">
-
-Estimated Entry Point: 2.1 
-
-Estimated Exit Point(s): 3.4, 3.3, 3.1d
-
-Add a skeleton screener page per the design docs to unblock all functionality. No content or style requirements.
-
-#### Acceptance Criteria
-
-- As a user arriving at the correct endpoint (see endpoint doc)
-  - I am presented with the following
-    - 3 choice checkboxes
-    - navigation options
-  - Selecting any permutation of these choices and clicking `Continue` will result in the routing defined in the [Design Tiles](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=9250-77233&node-type=section&t=cq2aZY2Q6NtYsS5V-0) document.
-  - Navigating away from the page and returning to it should persist my previous choices
-    - TBD: confirm this with design
 
 ---
 
 ### Screner Page Content
 
-#### Status
-
-Estimate: S
-
-Workability: blocked
-
-Testibility: content complete
-
-#### Dependencies
-
-- skeleton deployment
-
-#### Description 
-
-- see blocker 
-
-#### Acceptance Criteria
-
-- As a user I can review a content complete version of this page
-- As a tester I can investigate if this page meets accessiblity requirements
-
+[Ticket](https://github.com/department-of-veterans-affairs/vets-api/issues/19367)
 
 
 ---
