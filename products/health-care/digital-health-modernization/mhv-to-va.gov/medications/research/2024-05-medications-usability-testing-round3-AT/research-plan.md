@@ -337,18 +337,18 @@ Note: Please do not schedule more than 4 sessions per day.
 
 ## **Team Roles**
 
-Moderator: Anne Kennedy (<anne.costello@bylight.com>)
+Moderator: Anne Kennedy 
 
 Research guide writing and task development: Anne Kennedy
 
 Participant recruiting & screening: Perigean
 
-Project point of contact: Anne Costello Kennedy ([anne.costello@bylight.com](mailto:anne.costello@bylight.com))
+Project point of contact: Anne Costello Kennedy 
 
 Accessibility specialist: CAIA team
 
 Participants for pilot test: TBD – we will do this ourselves, thank you.
 
-Note-takers: Scott Tyrcha (<scott.tyrcha@bylight.com>)
+Note-takers: Scott Tyrcha 
 
-Observers: Kay Lawyer ([katherine.lawyer@va.gov](mailto:katherine.lawyer@va.gov)), Robyn Singleton ([robyn.singleton@va.gov](mailto:robyn.singleton@va.gov)), Kaitlin Fink ([kaitlin.fink@va.gov](mailto:kaitlin.fink@va.gov)), Lexi Wunder (<alexia.wunder@bylight.com>)
+Observers: Kay Lawyer, Robyn Singleton, Kaitlin Fink, Lexi Wunder
