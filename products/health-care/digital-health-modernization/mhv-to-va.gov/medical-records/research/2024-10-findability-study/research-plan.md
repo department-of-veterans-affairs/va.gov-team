@@ -173,18 +173,18 @@ Note: Please do not schedule more than 4 sessions per day.
 
 ## Team Roles
 
-Moderator: Mel Stern ([melissa.stern@bylight.net](mailto:melissa.stern@bylight.net))
+Moderator: Mel Stern 
 
 Research guide writing and task development: Anne Kennedy, Mel Stern, Melissa Ashton
 
 Participant recruiting & screening: Perigean
 
-Project point of contact: Mel Stern ([melissa.stern@bylight.net](mailto:melissa.stern@bylight.net))
+Project point of contact: Mel Stern 
 
 Accessibility specialist: N/A
 
 Participants for pilot test: TBD – we will do this ourselves, thank you.
 
-Note-takers: Melissa Ashton (<melissa.ashton@bylight.com>)
+Note-takers: Melissa Ashton 
 
-Observers: Marci McGuire (<marci.mcguire@va.gov>), Kaitlin Fink ([kaitlin.fink@va.gov](mailto:kaitlin.fink@va.gov)), Anne Costello Kennedy ([anne.costello@bylight.com](mailto:anne.costello@bylight.com)), Lexi Wunder ([alexia.wunder@bylight.com](mailto:alexia.wunder@bylight.com)), Scott Tyrcha ([scott.tyrcha@bylight.com](mailto:scott.tyrcha@bylight.com))
+Observers: Marci McGuire, Kaitlin Fink, Anne Costello Kennedy, Lexi Wunder, Scott Tyrcha
