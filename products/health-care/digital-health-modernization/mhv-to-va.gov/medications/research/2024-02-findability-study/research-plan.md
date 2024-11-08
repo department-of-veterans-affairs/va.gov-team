@@ -187,10 +187,10 @@ We will schedule 24 Veterans for an expected completion rate of 18 sessions.
 
 Please list the people who will be serving in each role.
 
-- Moderator: Ade Ajayi ([adebolanle.ajayi@bylight.net](mailto:adebolanle.ajayi@bylight.net))
+- Moderator: Ade Ajayi 
 - Research guide writing and task development: Ade Ajayi
 - Participant recruiting & screening:Perigean
-- Project point of contact: Ade Ajayi & Anne Costello ([anne.costello@bylight.com](mailto:anne.costello@bylight.com))
+- Project point of contact: Ade Ajayi & Anne Costello 
 - Participants for pilot test: TBD – we will do this ourselves, thank you.
-- Note-takers: Harrison Amelang ([Harrison.amelang@bylight.com](mailto:Harrison.amelang@bylight.com))
-- Observers: Kay Lawyer ([katherine.lawyer@va.gov](mailto:katherine.lawyer@va.gov)), Kaitlin Fink ([kaitlin.fink@va.gov](mailto:kaitlin.fink@va.gov)), Robyn Singleton ([robyn.singleton@va.gov](mailto:robyn.singleton@va.gov))
+- Note-takers: Harrison Amelang 
+- Observers: Kay Lawyer, Kaitlin Fink, Robyn Singleton 
