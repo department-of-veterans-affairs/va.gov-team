@@ -43,54 +43,19 @@ The other kind is **content complete** testing. This encopmases everything cover
 
 ### FE / BE Forms boilerplate and POC
 
-[Ticket](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/7?pane=issue&itemId=86581305)
+[Ticket](https://github.com/department-of-veterans-affairs/vets-api/issues/19363)
 
 ---
 
 ### JSON to PDF transformation service 
 
-[Ticket](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/7?pane=issue&itemId=86581328)
+[Ticket](https://github.com/department-of-veterans-affairs/vets-api/issues/19364)
 
 ---
 
 ### Flipper Protected FE Entry Point
 
-#### Status
-
-Estimate: M
-
-Workability: ready 
-
-Testability: skeleton 
-
-#### Dependencies
-
-none
-
-#### Description
-
-Entry Point: start of new flow, exact location TBD by developer
-
-Exit Point: 2.1
-
-Set up a bare bones entry point to the new flow on the FE. This will handle the display logic from the flipper, which incorportates wether or not this is a new submission
-
-#### Acceptance Criteria
-
-- I navigate to the application entry point (TBD)
-  - As a user with no existing 526 submission
-    - With the flipper ON
-      - I see the placeholder page for the new form flow
-    - With the flipper OFF
-      - I see the old flow
-  - As a user with an existing 526 submission
-    - I see the old flow
-
-#### Deployments
-
-- FE:
-  - Leverage flipper object to display placeholder page
-  - add FE tests
+[Ticket](https://github.com/department-of-veterans-affairs/vets-api/issues/19365)
 
 
 ---
