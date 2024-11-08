@@ -158,11 +158,11 @@ If needed:
 
 
 ## **Team Roles**
-- Moderator: Anne Costello (anne.costello@bylight.com)
+- Moderator: Anne Costello 
 - Research guide writing and task development: Anne Costello
 - Participant recruiting & screening: Perigean
 - Project point of contact: Anne Costello
 - Participant(s) for pilot test: TBD - we will do this ourselves, thank you
 - Accessibility specialist: N/A
-- Note-takers:Joel Calumpong (joel.calumpong@bylight.com)
-- Observers: Coulton Bunney ([Coulton.bunney@va.gov](mailto:Coulton.bunney@va.gov)), Robyn Singleton ([robyn.singleton@va.gov](mailto:robyn.singleton@va.gov))
+- Note-takers:Joel Calumpong 
+- Observers: Coulton Bunney, Robyn Singleton
