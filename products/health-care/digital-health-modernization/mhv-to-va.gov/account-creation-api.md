@@ -39,21 +39,21 @@ This API will automatically create an MHV-ID for any Veteran who does not alread
 <img width="903" alt="Screenshot 2024-11-08 at 4 03 00 PM" src="https://github.com/user-attachments/assets/032e00b7-480f-41e0-9d37-b5784270b8be">
 <img width="579" alt="Screenshot 2024-11-08 at 4 03 08 PM" src="https://github.com/user-attachments/assets/e7b6e826-df40-4a17-aa59-85704d8aadde">
 
- ## UX approach
+## UX approach
 From the section above, we determined that two "types" of errors can be thrown: 
 1. Errors that the API implementation should handle in the background
 2. Errors that require user-action
 
 ### Questions/Considerations
-* Q: How should we handle background error failures with the API and communciate this to the end-user?
+* **Q: How should we handle background error failures with the API and communciate this to the end-user?**
   * _need to follow-up with MHV Access + Portals team for clarity_
-* Q: How should we communicate user-action required errors to users?
+* **Q: How should we communicate user-action required errors to users?**
   * Cartography team has validated with MHV Portals + Access Team that there are four of these errors. We propose designing a single alert that will conditionally reveal the unique error code in the heading text & body text of the alert.
-* Q: How can we ensure that helpdesk coordinators are prepared to help with API-related errors if users call about these problems?
+* **Q: How can we ensure that helpdesk coordinators are prepared to help with API-related errors if users call about these problems?**
   * The MHV Access + Portals team needs us to specify the exact error code to the user in a front-end facing alert so that the code can be communicated to My HealtheVet helpdesk coordinators for effective and efficient triaging of the problem to the correct level of support. The team has mapped these issues to four unique 8xx codes, but we need to validate with Identity that these codes are available on the VA.gov FE for use; and if not - we need to request that they be remapped to available 8xx identifiers by the Identity team, and communicate that back to Carnetta's team. 
-* Q: Where should any alerts related to API errors be surfaced in order to meet users at the right places, from whatever entry point they access first?
+* **Q: Where should any alerts related to API errors be surfaced in order to meet users at the right places, from whatever entry point they access first?**
   * We need to surface alerts on the My HealtheVet on VA.gov landing page, as well as the affected applications themselves: medical records, medications, and secure messages.
-* Q: What do the affected applications (Messages, Medications, and Medical Records) currently do when users who don’t have access permissions try to access?
+* **Q: What do the affected applications (Messages, Medications, and Medical Records) currently do when users who don’t have access permissions try to access?**
   * Cartography team is not sure about the current approach of each team to handling users who do not have access to their applications. We will ask these teams to communicate their current-state approachto evaluate if all apps are already consistent, or if different approaches exist today before proceeding with architectural recommendations for alert placement.
  
 ### Working concepts
