@@ -317,11 +317,11 @@ Note: Please do not schedule more than 4 sessions per day.
 
 Please list the people who will be serving in each role.
 
-- Moderator: Ade Ajayi (adebolanle.ajayi@bylight.net)
+- Moderator: Ade Ajayi 
 - Research guide writing and task development: Ade Ajayi
 - Participant recruiting & screening: Perigean
-- Project point of contact: Ade Ajayi & Anne Costello (anne.costello@bylight.com)
-- Accessibility specialist: Angela Fowler (Angela.fowler@va.gov)
+- Project point of contact: Ade Ajayi & Anne Costello 
+- Accessibility specialist: Angela Fowler 
 - Participants for pilot test: TBD – we will do this ourselves, thank you.
-- Note-takers: Emily Taylor (emily.taylor@bylight.net)
-- Observers: Coulton Bunney (Coulton.bunney@va.gov), Robyn Singleton ([robyn.singleton@va.gov](mailto:robyn.singleton@va.gov)) Janie Tankard-Carnock (jane.t.carnock@omb.eop.gov)
+- Note-takers: Emily Taylor 
+- Observers: Coulton Bunney, Robyn Singleton, Janie Tankard-Carnock 
