@@ -36,13 +36,15 @@ This API will automatically create an MHV-ID for any Veteran who does not alread
   * Sara Sterkenburg - information architect
 
  ## API errors
+<img width="903" alt="Screenshot 2024-11-08 at 4 03 00 PM" src="https://github.com/user-attachments/assets/032e00b7-480f-41e0-9d37-b5784270b8be">
+<img width="579" alt="Screenshot 2024-11-08 at 4 03 08 PM" src="https://github.com/user-attachments/assets/e7b6e826-df40-4a17-aa59-85704d8aadde">
 
  ## UX approach
 From the section above, we determined that two "types" of errors can be thrown: 
 1. Errors that the API implementation should handle in the background
 2. Errors that require user-action
 
-The UX approach involves a few considerations: 
+### Questions/Considerations
 * Q: How should we handle background error failures with the API and communciate this to the end-user?
   * _need to follow-up with MHV Access + Portals team for clarity_
 * Q: How should we communicate user-action required errors to users?
@@ -52,4 +54,14 @@ The UX approach involves a few considerations:
 * Q: Where should any alerts related to API errors be surfaced in order to meet users at the right places, from whatever entry point they access first?
   * We need to surface alerts on the My HealtheVet on VA.gov landing page, as well as the affected applications themselves: medical records, medications, and secure messages.
 * Q: What do the affected applications (Messages, Medications, and Medical Records) currently do when users who don’t have access permissions try to access?
-  * Cartography team is not sure about the current approach of each team to handling users who do not have access to their applications. We will ask these teams to communicate their current-state approachto evaluate if all apps are already consistent, or if different approaches exist today before proceeding with architectural recommendations for alert placement. 
+  * Cartography team is not sure about the current approach of each team to handling users who do not have access to their applications. We will ask these teams to communicate their current-state approachto evaluate if all apps are already consistent, or if different approaches exist today before proceeding with architectural recommendations for alert placement.
+ 
+### Working concepts
+Primary entry point: 
+* My HealtheVet on VA.gov home page: 
+ 
+Side-door entry points: 
+* Secondary navigation links
+* Health care benefit hub pages for the affected health tool applications
+* Cross-links from other unaffected health tool applications
+* Medications, Medical Records, and Secure Messages links
