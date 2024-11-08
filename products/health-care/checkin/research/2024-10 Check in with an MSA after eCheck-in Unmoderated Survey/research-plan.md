@@ -7,7 +7,7 @@ For decades, when a patient was checked in, clinical staff rightfully assumed th
 
 With the introduction of eCheck-in in early 2022, Veterans could check in remotely from their smartphones, initially, 15 minutes before their appointment, which has since increased to 45 minutes due to feedback that, 1) Veterans are often told by clinicians and MSAs to arrive even earlier to their appointments, and 2) cellular signal, which is required to complete eCheck-in, can more often be problematic once inside VA health facilities.
 
-Completing eCheck-in shows the patient as checked in within VistA and VSE-CS (i.e., both staff-facing applications), but Veterans do not have to be physically in the clinic waiting room at the time of completion, which is a mental model and process change for clinic staff.
+Completing eCheck-in shows the patient as checked in within VistA and VSE-CS (i.e., both staff-facing applications), but some Veterans were found to not be physically in the clinic waiting room at the time of completion, which is a mental model and process change for clinic staff.
 
 As part of improvements to the PCI experience, we’ll be piloting Veteran-facing changes that clearly outline the steps involved in check-in and include a new step for Veterans to let a staff member know they’ve arrived once they complete their online check-in. These changes will be paired with changes to the staff-facing process that aim to further streamline the process for MSAs and clinicians.
 
