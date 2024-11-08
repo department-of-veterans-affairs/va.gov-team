@@ -91,7 +91,7 @@ Special Requirement: This should upload the PDF all the way to the correct stora
 
 ### Start Page Skeleton (L)
 
-**BLOCKED**: this requires the 'choice page'. The Choice page ticket defines the storage of data that the Form Tile and Continue Button in this ticket will require for their routing
+**BLOCKED**: this requires the 'Choice Page Skeleton'. The Choice Page ticket defines the storage of data that the Form Tile and Continue Button in this ticket will require for their routing
 
 <img width="255" alt="Screenshot 2024-11-08 at 9 39 06 AM" src="https://github.com/user-attachments/assets/b5f48ca3-1899-4b84-812d-57fb64e87e4b">
 
