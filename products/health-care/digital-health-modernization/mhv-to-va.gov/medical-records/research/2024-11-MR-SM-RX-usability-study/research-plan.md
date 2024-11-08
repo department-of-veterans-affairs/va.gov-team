@@ -65,7 +65,7 @@ Data collection will be remote. We will use Zoom.
 
 [Link to mobile prototype](https://www.figma.com/proto/SGP1z2LejUWqDZyT61po5J/Medical-Records---Phase-1?node-id=11764-21653&node-type=frame&t=L6hXstnl2Q64Whv3-0&scaling=min-zoom&content-scaling=fixed&page-id=9865%3A41799&starting-point-node-id=11764%3A21653&show-proto-sidebar=1)
 
-[Link to desktop prototype](https://www.figma.com/proto/SGP1z2LejUWqDZyT61po5J/Medical-Records---Phase-1?node-id=11764-21653&node-type=frame&t=L6hXstnl2Q64Whv3-0&scaling=min-zoom&content-scaling=fixed&page-id=9865%3A41799&starting-point-node-id=11764%3A21653&show-proto-sidebar=1)
+[Link to desktop prototype](https://www.figma.com/proto/SGP1z2LejUWqDZyT61po5J/Medical-Records---Phase-1?node-id=11764-21766&node-type=frame&t=L6hXstnl2Q64Whv3-0&scaling=min-zoom&content-scaling=fixed&page-id=9865%3A41799&starting-point-node-id=11764%3A21766&show-proto-sidebar=1)
 
 [Link to Codespace](https://jubilant-space-palm-tree-wpw45v5g9562p6q-3001.app.github.dev/my-health/secure-messages/inbox/)
 
