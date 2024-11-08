@@ -1,4 +1,4 @@
-# 0781 paper sync work breakdown
+# 0781 Paper Sync Planning 
 
 **This is a WIP, unrefined document. It is not a source of truth**. It is just my best estimates as to how long the work will take, and how we could break it down.
 
@@ -7,14 +7,34 @@
 This document references pages by number as defined in [this layout](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=9250-79571&node-type=section&t=coFOPPvO8yrT5Pcq-0)
 
 ## Strategy
-Esentially we roll through this from top to bottom, adding functionality. If that's 3 devs, then we simply pick up the next chunk. When we hit the bottom we go back and roll through adding content. As long as the routes are set in stone, this should all be pretty plug and play
 
-This is just to get things functional. It does not take into account writting tests, accessibility testing, any advanced styling, rollout, etc.
+### Task Categories 
+
+- **ready**. This is a chunk of work anyone can start on immediately
+- **blocked**. This work has dependencies to *start* development.
+- **soft blocked**. This work has dependencies to *complete* development. These tickets can still be started at anytime.
+- **needs refinement**. This label will indicate that there is an open question for either Engineering, Product, Design, OCTO, or any other relevant party.
+- **skeleton**. This is foundational work that handles the basic structure of pages and conditional routing from each link / button / selection that appears on that page.
+- **content complete**. This is a chunk of work that is unblocked by completion of a **skelleton** ticket. This is the addition of all content, styling, and accessiblity requirements to a page.
+- **content partial**. There is only one of these. In order to unblock testing of the very first page of the flow, we need to complete some foundational work on the very last page. This will unblock testing of 'Complete' and 'Opt Out' functionality in the [Form Tile on page 3.1c](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=9250-77233&node-type=section&t=cq2aZY2Q6NtYsS5V-0). 
+
+### Order of Operations
+
+1. Open conversations for **needs refinement** tickets 
+2. Begin development of JSON to PDF converter ASAP. A working PDF converter will define our *form schema*, which is a univeral **soft blocker** on the rest of this work.
+3. Begin 'rolling development' on **skeleton** tickets.
+4. As **skeleton** tickets are completed, **content** tickets will become unblocked. When there is an unblocked **content** ticket, the next available developer will go back and complete this ticket.
+
+### Non-Developer Testing
+
+There are two kinds of testing we aim to unblock for (developers, but also) product and design.  The first is the **skeleton test**. This is a click through (or automated) test where conditional logic can be tested. It may also be possible to handle some accessibility testing with **skeleton tests** but I defer to the experts on that. This work is unblocked by completion of a **skelleton** ticket.
+
+The other kind is **content complete** testing. This encopmases everything covered in **skelleton testing**, plus the ability to ensure content is accurate and styled to correctly, **and** that accessiblity requirements are met on a page-by-page basis. These tests are unblocked by completion of **content** tickets
+
 
 ## Workable Chunks
 
-Each of these can be built and deployed esentially as 'sub apps' that start and end at predefined routes. 'Predefined route'. 'Exit Points' are considered to be outside scope, we simply need the routing to lead a user to that endpoint. Exit Points *should not* be placeholder pages, just empty URLs. This will allow us to avoid merge conflicts
-
+These chunks are designed to be completed
 
 ---
 
