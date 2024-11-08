@@ -23,7 +23,6 @@ This research fits into these points of a Veteran's Journey:
 - Retiring
 - Aging
 
-&nbsp;
 
 ## **Research Goals**
 
@@ -62,8 +61,11 @@ Data collection will be remote. We will use Zoom.
 
 ### **Research materials**
 
-- \[Link to conversation guide\](url goes here)
-- \[Link to prototype\](url goes here)
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2024-11-MR-SM-RX-usability-study/conversation-guide.md)
+
+[Link to prototype](url goes here)
+
+[Link to Codespace]
 
 ## **Recruitment**
 
