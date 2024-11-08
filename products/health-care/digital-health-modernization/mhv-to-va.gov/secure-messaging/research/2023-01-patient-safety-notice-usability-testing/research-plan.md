@@ -136,13 +136,13 @@ Feb.  7, 2023 | 8:00 am - 12:00 pm; 1:30 - 3:00 pm; 4:00 - 5:00 pm
 
 ## Team Roles	
 Please list the people who will be serving in each role. 	
-- Moderator:	Anne Costello (anne.costello@bylight.com)
+- Moderator:	Anne Costello 
 - Research guide writing and task development:	Anne Costello
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Anne Costello
 - Participants for pilot test:	Emily Taylor, JB Walters
-- Note-takers: Joel Calumpong (joel.calumpong@bylight.com)
-- Observers:	Jonathan Nelson (jonathan.nelson@adhocteam.us); Coulton Bunney (coulton.bunney@va.gov); Marci McGuire (marci.mcguire@adhocteam.us), Jessica Robertson (jessica.robertson@bylight.com), Lauren Alexanderson (Lauren.Alexanderson@va.gov), all others to sign up via sign up list. 
+- Note-takers: Joel Calumpong 
+- Observers:	Jonathan Nelson; Coulton Bunney; Marci McGuire, Jessica Robertson, Lauren Alexanderson, all others to sign up via sign up list. 
 
 ## Approvals
 - Reviewed and approved by Shane Strassberg on (under review)
