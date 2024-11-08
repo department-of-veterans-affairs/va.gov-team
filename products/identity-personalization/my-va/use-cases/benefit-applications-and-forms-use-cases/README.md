@@ -24,7 +24,7 @@ There are two different types of content that can be shown in the Benefit applic
 The data for saved applications is gathered from the same API as the main user call. Therefore, there are no errors specific to just this section. If the main user call fails, the entire My VA page displays an error (MPI error).
 
 ## Flow diagrams:
-- [User flow for benefit application drafts on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A7642&mode=design&t=CREOF8xG3jKa75nz-1)
+- [User flow for benefit applications and forms (including drafts) on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A7642&mode=design&t=CREOF8xG3jKa75nz-1)
 
 ## Overview of Submitted Forms:
 
