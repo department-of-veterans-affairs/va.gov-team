@@ -58,7 +58,6 @@ Story Details:<br>
 **Description**
 This story is to look at the [Component Name] Component to determine any technical complexity we will need to account for during development. 
 
-
 **Important links**
 - [Current documentation]()
 - [Current primary code location]()
@@ -72,7 +71,6 @@ This story is to look at the [Component Name] Component to determine any technic
 - [Handoff notes]()
 
 **Acceptance Criteria**
-<!-- Add a checkbox for each item required to fulfill the user story/issue. -->  
 
 -  [ ] Determine the variants needed for the component 
      - [ ] Update implementation ticket based on findings
@@ -111,3 +109,151 @@ Practice: **front-end**<br>
 Story Estimate: **5**<br>
 Story Title: **[Component Name] - Component Storybook** <br>
 Story Details:<br>
+**Description**
+Create Storybook for the new component.  
+
+**Acceptance Criteria**
+- [ ]  New Storybook stories published and working as expected
+- [ ]  Give Jessica links for doc site
+- [ ]  Add link to documentation site
+
+____________________________________________________________________________________
+#### Step 6:
+Practice: **UX**<br>
+Dependent on Step 5
+Story Estimate: **2**<br>
+Story Title: **[Component Name] - Visual QA** <br>
+Story Details:<br>
+**Description**
+Once the Checkbox group component is available in Storybook, Jessica will complete visual QA and create tickets for any additional work.
+
+**Acceptance Criteria**
+- [ ] Review component against Figma component
+     - [ ] Typography
+     - [ ] Colors
+          - [ ] Light mode
+          - [ ] Dark mode
+     - [ ] Padding
+          - [ ] Check that strokes are included in Autolayout. Otherwise, the padding will not match between design and code.
+     - [ ] Alignment
+     - [ ] States
+
+     - [ ] Icons
+     - [ ] Behavior
+- [ ] Make any updates to documentation based on findings
+- [ ] Create follow-on tickets
+
+
+____________________________________________________________________________________
+#### Step 7:
+Practice: **Accessibility**<br>
+Dependent on Step 6
+Story Estimate: **2**<br>
+Story Title: **[Component Name] - Accessibility Review** <br>
+Story Details:<br>
+**Description**
+As part of this story we want to: <!-- List the desired outcome(s) for this ticket -->  
+
+- Once the Checkbox Group component is available in Storybook, Brea will complete an accessibility review and create tickets for any additional work.
+
+**Acceptance Criteria**
+-  [ ] Review [Component Name] component for and accessibility issues
+-  [ ] Create Bug tickets for any changes needed
+
+**Accessibility Audit Checklist**
+- [ ] Verify that the component scales with increased font sizes and with display zoom enabled.
+- [ ] Verify that the component passes color contrast minimums.
+- [ ] Verify that no screenreader issues exist.
+- [ ] Verify that the component works with a keyboard and that there are no keyboard traps.
+- [ ] Verify that the component works with Voice Access / Switch Control.
+- [ ] Verify that the overall structure is accessible (headings are properly labeled, etc.).
+- [ ] Verify that any error messaging displays properly / as expected.
+- [ ] Verify that any tappable areas (links, buttons, etc.) meet target size minimums.
+
+
+____________________________________________________________________________________
+#### Step 8:
+Practice: **front-end**<br>
+Story Estimate: **3**<br>
+Story Title: **[Component Name] - Analytics Support** <br>
+Story Details:<br>
+**Description**
+As an owner of the app, I want to have access to the interaction analytics of the RadioButton component, so that I can make data-based decisions.
+
+As part of this story we want to allow the [Component Name] to pass analytics data to the app
+
+**Acceptance Criteria**
+- [ ] Determine if analytics are needed
+- [ ] Add function passthroughs for apps to be able to log analytics based on interactions handled by the [Component Name] component
+
+
+____________________________________________________________________________________
+#### Step 9:
+Practice: **UX**<br>
+Story Estimate: **2**<br>
+Story Title: **[Component Name] - Publish Component to Figma and Doc Site** <br>
+Story Details:<br>
+**Description**
+After the component is built in Storybook and reviewed by UX and Accessibility, we need to update the component documentation.
+
+**Acceptance Criteria**
+- [ ] Update Figma
+   - [ ] Update documentation link
+   - [ ] Publish component
+- [ ] Update doc site
+   - [ ] Update Storybook and Figma links in [Component Name] documentation in Design System section
+   - [ ] Remove [Component Name] documentation from [Flagship section](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Flagship%20design%20library/Components/Overview)
+     
+
+____________________________________________________________________________________
+#### Step 10:
+Practice: **front-end**<br>
+Story Estimate: **5**<br>
+Story Title: **[Component Name] - Unit Tests** <br>
+Story Details:<br>
+**Description**
+As an eng, I want to know if my changes break the RadioButton component, so that I don't break things.
+
+**Acceptance Criteria**
+-  [ ] create unit tests for the [Component Name] component
+
+Use Cases:
+
+
+____________________________________________________________________________________
+#### Step 11:
+Practice: **front-end**<br>
+Story Estimate: **1**<br>
+Story Title: **[Component Name] - Add to linting pkg** <br>
+Story Details:<br>
+**Description**
+Update the linting package to issue deprecation notices for [Old Component Name].
+
+Note: This ticket should be completed after all other essential tickets for creation of the component.
+
+**Acceptance Criteria**
+- [ ] Update linting package to throw deprecation warnings for the following flagship component(s):
+  - [ ] [Old Component Name]
+- [ ] Create an alpha build to test in flagship it'll behave correctly
+- [ ] Update linting package version locally to be one minor version lower than the components package version that released the component (so on publish in main it'll align versions correctly)
+
+
+____________________________________________________________________________________
+#### Step 12:
+Practice: **Product**<br>
+Story Estimate: **1**<br>
+Story Title: **[Component Name] - Flagship Work Setup** <br>
+Story Details:<br>
+**Description**
+This is a ticket for Product to create an epic and work with the Flagship team to plan the work.
+
+
+**Notes**
+- [added by Front-End and UX - any things specific to implementing this new component such as design considerations or technical guidance]
+
+**Acceptance Criteria**
+-  [ ]   An Epic has been created for the app teams to install the new component
+-  [ ]   Dev adds implementation details to ticket
+-  [ ]   UX adds design implementation details to ticket
+
+
