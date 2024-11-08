@@ -6,18 +6,50 @@
 
 This document references pages by number as defined in [this layout](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=9250-79571&node-type=section&t=coFOPPvO8yrT5Pcq-0)
 
-### Strategy
+## Strategy
 Esentially we roll through this from top to bottom, adding functionality. If that's 3 devs, then we simply pick up the next chunk. When we hit the bottom we go back and roll through adding content. As long as the routes are set in stone, this should all be pretty plug and play
 
 This is just to get things functional. It does not take into account writting tests, accessibility testing, any advanced styling, rollout, etc.
 
-### Workable Chunks
+## Workable Chunks
 
-Each of these can be built and deployed esentially as 'sub apps' that start and end at predefined routes. 
+Each of these can be built and deployed esentially as 'sub apps' that start and end at predefined routes. 'Predefined route'
 
-## Build data storage 'solution': 1 sprint
-- define where form data is stored
-- ensure we have a FE API writing service / React store / Database harmony
+
+
+### Flipper Protected Entry Point
+#### Description
+Set up a bare bones entry point to the new flow. 
+
+#### Acceptance Criteria
+- IF a flipper is on AND a user does not have a started application
+- they will enter the new flow
+- their entry to the new flow will be persisted in the database
+
+#### Deliverable
+- A testable, flipper based entry point deployed in staging
+
+
+
+### Choice Page V1
+
+Estimated Entry Point: 2.1 
+
+Estimated Exit Point(s): 3.4, 3.3, 3.1d
+
+TYPE: data & routing (no style)
+
+### Acceptance Criteria
+
+As a userArriving at the correct endpoint (see endpoint doc)
+
+- I am presented with the following
+  - 3 choice checkboxes
+  - continue button
+  - back button
+- Selecting any permutation of these choices and clicking 'continue' or 'back' will result in the correct routing behavior as defined in the Design Tiles doc. This is the 'routing' portion.
+- Any selection of options should be correctly persisted to the appropriate solutions (BE / FE)
+
 
 ## Pre-form routing: 1 sprint
 - where the entry point is the first page a vet would see if the flipper was on (2.1)
