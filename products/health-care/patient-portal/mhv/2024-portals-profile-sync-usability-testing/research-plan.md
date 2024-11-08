@@ -172,11 +172,11 @@ Additional days if needed
 
 ## **Team Roles**
 
-- Moderator: Ade Ajayi (Adebolanle.ajayi@bylight.net), Anne Costello Kennedy (anne.costello@bylight.com)
+- Moderator: Ade Ajayi, Anne Costello Kennedy 
 - Research guide writing and task development: Anne Costello Kennedy
 - Participant recruiting & screening: Perigean
-- Project point of contact: Anne Costello Kennedy (anne.costello@bylight.com)
+- Project point of contact: Anne Costello Kennedy 
 - Participant(s) for pilot test: TBD
 - Accessibility specialist: N/A
-- Note-takers: Ben Caldwell ([Benjamin.Caldwell@bylight.net](mailto:Benjamin.Caldwell@bylight.net))
-- Observers: Joel Calumpong (Joel.Calumpong@bylight.com)
+- Note-takers: Ben Caldwell 
+- Observers: Joel Calumpong 
