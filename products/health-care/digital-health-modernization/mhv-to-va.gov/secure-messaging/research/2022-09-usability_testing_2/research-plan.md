@@ -344,13 +344,13 @@ Note: Please do not schedule more than 4 sessions per day.
 
 ## Team Roles	
 Please list the people who will be serving in each role. 	
-- Moderator:	Anne Costello (anne.costello@bylight.com)
+- Moderator:	Anne Costello 
 - Research guide writing and task development:	Anne Costello
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Anne Costello
 - Participants for pilot test:	TBD
 - Note-takers: Alexia Wunder
-- Observers:	Jonathan Nelson (jonathan.nelson@adhocteam.us); Coulton Bunney (coulton.bunney@va.gov); Marci McGuire (marci.mcguire@adhocteam.us), Jenny Wang (Yizhen.Wang@va.gov), Alexia Wunder (alexia.wunder@bylight.com), Lauren Alexanderson (Lauren.Alexanderson@va.gov), all others to sign up via sign up list. 
+- Observers:	Jonathan Nelson; Coulton Bunney; Marci McGuire, Jenny Wang, Alexia Wunder, Lauren Alexanderson, all others to sign up via sign up list. 
 
 ## Approvals
 - Reviewed and approved by Coulton Bunney (PO) (10/17/2022)
