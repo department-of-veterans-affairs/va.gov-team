@@ -179,14 +179,13 @@ Note: Please do not schedule more than 4 sessions per day.
 **Team Roles**
 
 Please list the people who will be serving in each role.
-
-- Moderator: Bob Lewis (bobbie.lewis@bylight.com)
+- Moderator: Bob Lewis
 - Research guide writing and task development: Bob Lewis
 - Participant recruiting & screening: Perigean
 - Project point of contact: Bob Lewis
 - Participant(s) for pilot test: TBD
-- Note-takers: Merry Green ([merry.green@bylight.com](mailto:merry.green@bylight.com)), Harrison Amelang ([harrison.amelang@bylight.com](mailto:harrison.amelang@bylight.com)), Arienne Walters ([arienne.walters@bylight.com](mailto:arienne.walters@bylight.com))
-- Observers: Merry Green ([merry.green@bylight.com](mailto:merry.green@bylight.com)), Harrison Amelang ([harrison.amelang@bylight.com](mailto:harrison.amelang@bylight.com)), Arienne Walters ([arienne.walters@bylight.com](mailto:arienne.walters@bylight.com))
+- Note-takers: Merry Green, Harrison Amelang, Arienne Walters 
+- Observers: Merry Green, Harrison Amelang, Arienne Walters 
 
 **Approvals**
 
