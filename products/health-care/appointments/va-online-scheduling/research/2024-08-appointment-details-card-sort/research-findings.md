@@ -1,6 +1,6 @@
 # Research findings - Appointments details card sort
 
-[DRAFT]
+[Review Mural synthesis board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727209108365/e76c7c8623cb3a1339cb918a1ce3319baedd7339)
 
 ## Breakdown of category organization
 
