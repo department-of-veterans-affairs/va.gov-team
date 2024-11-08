@@ -10,7 +10,12 @@ See the [VA Organigram](https://app.mural.co/t/departmentofveteransaffairs9999/m
 
 Our mission is to create an accessible, modern, and secure online system for [Accredited Representatives](https://www.va.gov/resources/va-accredited-representative-faqs/). This system is called the **Accredited Representative Portal (ARP)**. Through ARP, we aim to streamline the use of digital forms, providing a faster and smoother experience for both representatives and the Veterans they serve, ultimately improving the overall VA experience.
 
-We have focused on 3 main features or work streams within ARP: [Form 21a digitization (representative accreditation)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md), [Form 21-22 (power of attorney) accept/decline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21-22-power-of-attorney.md), and [contact information updates for accredited representatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/contact-information-updates.md). Because there were many external dependencies that influenced which feature(s) might be released first, we designed each of these features separately, knowing that eventually they would live together within ARP, along with other features like claims management. 
+We have focused on 3 main features or work streams within ARP: 
+- [Form 21-22 (power of attorney) accept/decline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21-22-power-of-attorney.md)
+- [contact information updates for accredited representatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/contact-information-updates.md)
+- [Form 21a digitization (representative accreditation)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md)
+
+Because there were many external dependencies that influenced which feature(s) might be released first, we designed each of these features separately, knowing that eventually they would live together within ARP, along with other features like claims management. 
 
 ## Where to find our work
 
@@ -58,20 +63,18 @@ In addition to the above content, the below files may be helpful in understandin
 
 ## Next Steps
 - Recommended next steps for each work stream are listed on the overview page for each respective work stream:
-  - [Form 21a digitization (representative accreditation)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md)
   - [Form 21-22 (power of attorney) accept/decline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21-22-power-of-attorney.md)
   - [Contact information updates for accredited representatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/contact-information-updates.md) 
+  - [Form 21a digitization (representative accreditation)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md)
 - Also see the [High-Level Next Steps for ARF Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/docs/2024-9-ARF-engineering-next-steps.md) page
 
 ## The Team
-
-### Core Members
 
 - **Product Owner:** Jennifer Bertsch - [jennifer.bertsch@va.gov](mailto:jennifer.bertsch@va.gov)
 - **Engineering Lead:** Sam Raudabaugh - [samuel.raudabaugh@va.gov](mailto:samuel.raudabaugh@va.gov)
 - **Design Lead:** Lesley Ropp - [lesley.ropp@va.gov](mailto:lesley.ropp@va.gov)
 - **Product Manager:** Candi Lemoine - [candi.lemoine@oddball.io](mailto:candi.lemoine@oddball.io)
-- View the [full ARF team roster](https://github.com/orgs/department-of-veterans-affairs/projects/947/views/4)
+- [Full ARF team roster](https://github.com/orgs/department-of-veterans-affairs/projects/947/views/4)
 - View the [Stakeholder Engagement Tracker](https://dvagov.sharepoint.com/:x:/s/vaabdvro/EQgtn4jarAlBrIzHbxXaRnsBwyQxcNxleqUfl6QEAuaxTA?e=kCEQav) (Sharepoint) and [Rep Facing Stakeholder Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696447082781/01a5c0865df77c97693ac51b36a61a989c8f9fba?sender=u2a4240a640b257ce33545495) (Mural)
 
 ### Stay Connected
