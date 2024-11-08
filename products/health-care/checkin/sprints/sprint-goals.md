@@ -25,6 +25,8 @@
         - 🟦 [Implement RedisClient: Implement #get method to retrieve the access_token](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96003)
         - 🟦 [Implement token method in EPSService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96410)
         - 🟦 [Implement get_appointments method in EPSAppointmentService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96411)
+    - 🟥 [Create Userflows for Asynchronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96417) 
+    - 🟥 [Add annotations for referral and requests link behavior](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96632)
 - **Travel Claims for Past Appts**
     - 🟪 [Update Appointment Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94372)
     - 🟥 [[DESIGN] Create error state for when travel link cannot be retrieved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96578)
