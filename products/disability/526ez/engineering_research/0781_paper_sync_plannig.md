@@ -8,15 +8,20 @@ This document references pages by number as defined in [this layout](https://www
 
 ## Strategy
 
-### Task Categories 
+### Workability Categories 
 
-- **ready**. This is a chunk of work anyone can start on immediately
-- **blocked**. This work has dependencies to *start* development.
-- **soft blocked**. This work has dependencies to *complete* development. These tickets can still be started at anytime.
-- **needs refinement**. This label will indicate that there is an open question for either Engineering, Product, Design, OCTO, or any other relevant party.
-- **skeleton**. This is foundational work that handles the basic structure of pages and conditional routing from each link / button / selection that appears on that page.
+- **ready**. This is a chunk of work anyone can start on immediately.
+- **blocked**. This work has code dependencies blocking the *start* of development.
+- **soft blocked**. This work has code dependencies blocking *completion* of development. These can be started.
+- **needs refinement**. This work has open questions blocking the *start* of development.
+- **soft needs refinement**. This work has open questions blocking the *completion* of development. These can be started.
+
+### Testability Categories
+
+- **foundational**. This is backend or FE to BE integration work that will not involve visible, test-user facing changes.
+- **skeleton**. This is test user-facing work that handles the basic structure of pages and conditional routing from each link / button / selection that appears on that page.
+- **partial skeleton**. There is only one of these. In order to unblock testing of the very first page of the flow, we need to complete some foundational work on the very last page. This will unblock testing of 'Complete' and 'Opt Out' functionality in the [Form Tile on page 3.1c](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=9250-77233&node-type=section&t=cq2aZY2Q6NtYsS5V-0).
 - **content complete**. This is a chunk of work that is unblocked by completion of a **skelleton** ticket. This is the addition of all content, styling, and accessiblity requirements to a page.
-- **content partial**. There is only one of these. In order to unblock testing of the very first page of the flow, we need to complete some foundational work on the very last page. This will unblock testing of 'Complete' and 'Opt Out' functionality in the [Form Tile on page 3.1c](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=9250-77233&node-type=section&t=cq2aZY2Q6NtYsS5V-0). 
 
 ### Order of Operations
 
@@ -34,47 +39,78 @@ The other kind is **content complete** testing. This encopmases everything cover
 
 ## Workable Chunks
 
-These chunks are designed to be completed
+---
+
+### FE / BE Forms boilerplate and POC
+
+[Ticket](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/7?pane=issue&itemId=86581305)
 
 ---
 
-TODO: spike writing / reading In progress form 
+### JSON to PDF transformation service 
+
+[Ticket](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/7?pane=issue&itemId=86581328)
 
 ---
 
-### JSON to PDF transformation service XL
+### Flipper Protected FE Entry Point
 
-Backend specific, no front end entry / exit
+#### Status
 
-#### Acceptance Criteria
+Estimate: M
 
-- Create service to injest JSON and return a PDF based on new JSON schema
-- should mimic logic in
-  - [0781 transform](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/pdf_fill/forms/va210781.rb)
-  - [0781a transform](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/pdf_fill/forms/va210781a.rb)
-- TBD check with the team, get edge cases, possible complications
+Workability: ready 
 
----
+Testability: skeleton 
 
-### Flipper Protected Entry Point (M)
+#### Dependencies
 
-Entry Point: TBD
+none
+
+#### Description
+
+Entry Point: start of new flow, exact location TBD by developer
 
 Exit Point: 2.1
 
-Set up a bare bones entry point to the new flow. There 
+Set up a bare bones entry point to the new flow on the FE. This will handle the display logic from the flipper, which incorportates wether or not this is a new submission
 
 #### Acceptance Criteria
-- IF a flipper is on AND a user does not have a started application
-- they will enter the new flow
-- their entry to the new flow will be persisted in the database
 
-#### Deliverable
-- A testable, flipper based entry point deployed in staging
+- I navigate to the application entry point (TBD)
+  - As a user with no existing 526 submission
+    - With the flipper ON
+      - I see the placeholder page for the new form flow
+    - With the flipper OFF
+      - I see the old flow
+  - As a user with an existing 526 submission
+    - I see the old flow
+
+#### Deployments
+
+- FE:
+  - Leverage flipper object to display placeholder page
+  - add FE tests
+
 
 ---
 
-### Screener Page Skeleton (L)
+
+### Screener Page Skeleton
+
+#### Status
+
+Estimate: L
+
+Workability: ready / needs refinement
+
+Testibility: skeleton
+
+#### Dependencies
+
+- deploy fondational InProgressForms integration
+
+#### Description 
 
 <img width="278" alt="Screenshot 2024-11-08 at 9 48 21 AM" src="https://github.com/user-attachments/assets/08bf938d-a3c5-408a-b1a0-65c449fdee08">
 
@@ -82,20 +118,58 @@ Estimated Entry Point: 2.1
 
 Estimated Exit Point(s): 3.4, 3.3, 3.1d
 
+Add a skeleton screener page per the design docs to unblock all functionality. No content or style requirements.
+
 #### Acceptance Criteria
 
-As a userArriving at the correct endpoint (see endpoint doc)
-
-- I am presented with the following
-  - 3 choice checkboxes
-  - continue button
-  - back button
-- Selecting any permutation of these choices and clicking 'continue' or 'back' will result in the correct routing behavior as defined in the Design Tiles doc. This is the 'routing' portion.
-- Any selection of options should be correctly persisted to the appropriate solutions (BE / FE)
+- As a user arriving at the correct endpoint (see endpoint doc)
+  - I am presented with the following
+    - 3 choice checkboxes
+    - navigation options
+  - Selecting any permutation of these choices and clicking `Continue` will result in the routing defined in the [Design Tiles](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=9250-77233&node-type=section&t=cq2aZY2Q6NtYsS5V-0) document.
+  - Navigating away from the page and returning to it should persist my previous choices
+    - TBD: confirm this with design
 
 ---
 
-### Choice Page Skeleton (L)
+### Screner Page Content
+
+#### Status
+
+Estimate: S
+
+Workability: blocked
+
+Testibility: content complete
+
+#### Dependencies
+
+- skeleton deployment
+
+#### Description 
+
+- see blocker 
+
+#### Acceptance Criteria
+
+- As a user I can review a content complete version of this page
+- As a tester I can investigate if this page meets accessiblity requirements
+
+
+
+---
+
+### Choice Page Skeleton
+
+#### Status
+
+Estimate: L
+
+Workability: ready
+
+Testability: skeleton
+
+#### Description
 
 <img width="309" alt="Screenshot 2024-11-08 at 9 47 34 AM" src="https://github.com/user-attachments/assets/45f2423c-db79-4fb8-b86e-2319c87e9971">
 
@@ -108,10 +182,43 @@ Exit Point(s): 3.1*, 3.3
 - As a user visting this page, I should see 3 'Choice' options (unstyled)
 - Selection will be stored in the correct data solutions (FE / BE)
   - NOTE this work must make this selection availabe to other FE componenets, as it will unblock subsequent work
- 
+
 ---
 
-### PDF Upload Page Skeleton & PDF Storage (L)
+### Choice Page Content
+
+#### Status
+
+Estimate: S
+
+Workability: blocked
+
+Testability: content complete
+
+#### Acceptance Criteria
+
+- As a user I can review a content complete version of this page
+- As a tester I can investigate if this page meets accessiblity requirements
+
+
+
+
+---
+
+### PDF Upload Page Skeleton & PDF Storage 
+
+**TODO: should i split out the actual data storage portion of this?? probably...**
+
+#### Status
+
+Estimate: L
+
+Workability: ready
+
+Testability: skeleton
+
+
+#### Description
 
 <img width="363" alt="Screenshot 2024-11-08 at 9 53 04 AM" src="https://github.com/user-attachments/assets/2c5cf249-1cb8-4901-9e04-f7fc1caaf067">
 
@@ -119,20 +226,54 @@ Entry Point: 3.3
 
 Exit Point(s): TBD (where does a user get routed after they upload a PDF?)
 
-Special Requirement: This should upload the PDF all the way to the correct storage solution (S3?) meaning there is a FE skeleton as well as an API and 3rd party requirement.
+#### Acceptance Criteria
+
+- As a user visting this page
+  - I am presented with an option to upload a PDF
+  - My PDF upload should upload successfully
+  - My PDF upload should be visible upon returning to this page
+
+- As a developer
+  - I can confirm that upload PDFs are stored in the correct storage solution
+
+
+### PDF Upload Page Content
+
+#### Status
+
+Estimate: S
+
+Workability: blocked
+
+Testability: content complete
 
 #### Acceptance Criteria
 
-- As a user visting this page, I am presented with an option to upload a PDF
-- Uploading this PDF stores and persists it to the correct data solution
+- As a user I can review a content complete version of this page
+- As a tester I can investigate if this page meets accessiblity requirements
+
+
+
+
+
+
+[START HERE] - below this line needs more work ---------
 
 ---
 
-### Start Page Skeleton (L)
+### Start Page Skeleton 
 
-**BLOCKED**: this requires the 'Choice Page Skeleton'. The Choice Page ticket defines the storage of data that the Form Tile and Continue Button in this ticket will require for their routing.
+#### Status
 
-**OUT OF SCOPE** Routing based on form state will be handled by 'Completion Choice and Top Level routing Skeleton'
+Estimate: L
+
+Workability: blocked by 'Choice Page Skeleton'
+
+Testability: partial skeleton
+
+#### Description
+
+**OUT OF SCOPE:** Routing based on form state will be handled by 'Completion Choice and Top Level routing Skeleton'
 
 <img width="255" alt="Screenshot 2024-11-08 at 9 39 06 AM" src="https://github.com/user-attachments/assets/b5f48ca3-1899-4b84-812d-57fb64e87e4b">
 
@@ -141,6 +282,7 @@ Entry Point: 3.1*
 Exit Point: 3.2, Opt Out Modal / ??? (if someone opts out, where do they go after the modal?)
 
 This page reads the status of the users form from the data solution and presents the Form Tile states
+
 - option to start (3.2)
 - option to continue (3.2)
 - option to edit (if complete) (TBD? start of form or summary?)
@@ -155,6 +297,11 @@ Additionally, The 'Continue' Button now has conditional behavior.
 - ELSE
   - THEN they are routed to the next page (TBD, what comes after??)
   - NOTE: this will be a stubbed out condition. Final realization of this will be implemented by solving the **OUT OF SCOPE** condition in a later ticket
+
+
+
+
+
 
 ---
 
