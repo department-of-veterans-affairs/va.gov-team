@@ -1,10 +1,10 @@
 # My VA: Benefit Applications and Forms Use Cases
 
-**Last updated:** November 6, 2024 - updated to reflect updates with form status tracking
+**Last updated:** November 8, 2024 - updated to reflect updates with form status tracking
 
 There are two different types of content that can be shown in the Benefit application and forms section of My VA: 
 - __Drafts__
-- __Submitted forms (that are supported)__
+- __Submitted applications and forms (that are supported)__
 
 ## Overview of Drafts:
 
@@ -15,8 +15,8 @@ There are two different types of content that can be shown in the Benefit applic
 
 ## Common use cases:
 
-- [User has a benefit application draft saved but not yet submitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-application-drafts-use-cases.md/user-has-applications-drafts.md)
-- [User has no benefit application drafts saved](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-application-drafts-use-cases.md/user-has-no-application-drafts.md)
+- [User has a benefit application or form draft saved but not yet submitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-application-drafts-use-cases.md/user-has-applications-drafts.md)
+- [User has no benefit applications and/or forms being tracked, or drafts saved](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-application-drafts-use-cases.md/user-has-no-application-drafts.md)
 
 ## Edge cases:
 
