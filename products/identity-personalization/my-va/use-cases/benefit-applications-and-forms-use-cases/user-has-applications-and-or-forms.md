@@ -17,9 +17,9 @@ For LOA3 users who sign in and have a [**supported** benefit application or form
   - (If action needed ONLY: an error alert)
 - This card is always displayed on the left hand side of the page on desktop (a single column)
 - If a user has multiple benefit application, forms, or drafts saved, they will see a card for each of them in this section and they are stacked vertically for both desktop and mobile
-- Uses the [card component](https://design.va.gov/components/card) from the VA design system.
-- [Desktop mockups, from left to right](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1233-60863&t=h5JX191NQ2q0JjVp-1)
-- [Mobile mockup, from left to right](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-46257&t=h5JX191NQ2q0JjVp-1)
+  - Uses the [card component](https://design.va.gov/components/card) from the VA design system.
+  - [Desktop mockups, from left to right](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1233-60863&t=h5JX191NQ2q0JjVp-1)
+  - [Mobile mockup, from left to right](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-46257&t=h5JX191NQ2q0JjVp-1)
 - A user will also see at the bottom of the section an accordion component that is titled "If you can't find your application or form", with explanation as to why a user may not see their form appear in this section.
   - [Desktop mockup](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1231-49126&t=TWmq9bh0GmkgDdwH-1)
   - [Mobile mockup](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1260-37414&t=TWmq9bh0GmkgDdwH-1)
