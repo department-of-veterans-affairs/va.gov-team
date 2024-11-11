@@ -128,7 +128,41 @@ Q. Can a user schedule into time slots that aren't associated with a provider?
        - Note: Time slots may have a secondary resource, such as a room or machine, but we don't know if that information should be exposed to the Veteran.
 
   
+## Design Decisions
 
+### Replace Request Limit Reached Alert
+Replace the current alert informing Veterans that they are over the request limit with a simpler alert directing them to call to schedule.
+
+### Reasoning
+The current alert is lengthy and confusing, asking Veterans to cancel a previous request to make a new one, which may imply they don’t need their existing request. This could be misleading, as each request likely has a purpose. Instead, the alert should focus on a clear action Veterans can take: calling to schedule their appointment.
+
+---
+
+## Direct Veterans to the Request Flow in Specific Scenarios
+
+Instead of displaying the “Which provider do you want to schedule with?” screen, direct Veterans to the request flow in the following situations:
+
+1. **No Available Time Slots for Established Provider(s):**
+   - Established providers have no available slots in the next 13 months.
+   - Request option is enabled.
+
+2. **Direct Scheduling Disabled:**
+   - DS is disabled.
+   - Request option is enabled.
+   - Veteran recently had an appointment with a provider for this type of care (TOC) at this facility.
+
+3. **Direct Scheduling Enabled, No Recent Appointment:**
+   - DS is enabled.
+   - Request option is enabled.
+   - Veteran has not had a recent appointment at this facility.
+
+4. **Direct Scheduling and Requests Enabled, No Recent Encounter:**
+   - DS is enabled.
+   - Request option is available.
+   - Veteran has not had a recent encounter with any provider for this TOC at this facility.
+
+### Reasoning
+These scenarios prioritize sending Veterans directly to the request flow when scheduling options are unavailable. This approach focuses on available actions.
 
 
 
