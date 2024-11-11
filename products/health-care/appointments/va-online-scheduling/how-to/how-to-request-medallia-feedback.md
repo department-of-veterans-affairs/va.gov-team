@@ -40,9 +40,9 @@ Yes
 
 All in one file, on one tab
 
-
 **Word Cloud**
-No
+
+None
 
 **VA Email Address(es)**
 
@@ -58,8 +58,8 @@ No
 |   41  | 10-06-2024 | 10-12-2024 | Leah De La Costa     | [94897](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94897)         |Completed        |
 |   42  | 10-13-2024 | 10-19-2024 | Leah De La Costa     | [95322](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95322), [95752](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95752)         |Completed      |
 |   43  | 10-20-2024 | 10-26-2024 |Leah De La Costa              | [95752](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95752), [95951](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95951)           |Completed       |
-|   44  | 10-27-2024 | 11-02-2024 | Peter Russo  | [95957](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95957)         |  In Progress   |
-|   45  | 11-03-2024 | 11-09-2024 | Peter Russo  | []()         |        |
+|   44  | 10-27-2024 | 11-02-2024 | Peter Russo  | [95957](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95957)         |  Completed  |
+|   45  | 11-03-2024 | 11-09-2024 | Peter Russo  | [96840](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96840)         |   In Progress     |
 |   46  | 11-10-2024 | 11-16-2024 | Peter Russo  | []()         |        |
 |   47  | 11-17-2024 | 11-23-2024 | Peter Russo  | []()         |        |
 |   48  | 11-24-2024 | 11-30-2024 | Peter Russo  | []()         |        |
