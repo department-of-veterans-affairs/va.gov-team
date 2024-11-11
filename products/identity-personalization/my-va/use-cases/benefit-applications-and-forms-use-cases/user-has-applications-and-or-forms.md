@@ -1,4 +1,4 @@
-# My VA Benefit Applications and Forms Use Cases: User has a benefit application or form submitted
+# My VA Benefit Applications and Forms Use Cases: User has submitted a benefit application and/or form(s)
 
 **Last updated:** November 11, 2024
 
