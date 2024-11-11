@@ -8,7 +8,7 @@ For LOA3 users who sign in and have a [**_Supported_** benefit application or fo
 
 ## UX
 - Any logged in LOA1 or LOA3 user can see the Benefit applications and forms section on My VA.
-- When a user has submitted a supported application or form, they will see a card in this section that tells them:
+- When a user has submitted a [supported application or form](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/forms-status-on-My-VA#the-mvp-will-target-the-following-forms), they will see a card in this section that tells them:
   - Current step in the submission process (submission in progress, received, or action needed)
   - Form name
   - Form code
