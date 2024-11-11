@@ -1,4 +1,4 @@
-# Designing for the VA Mobile App  
+# Designing for the VA Mobile App: Getting Started  
 
 Last updated: Nov 6, 2024
 
