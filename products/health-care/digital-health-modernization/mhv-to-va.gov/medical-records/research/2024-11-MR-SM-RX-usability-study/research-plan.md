@@ -238,7 +238,7 @@ Research guide writing and task development: Anne Costello Kennedy, Mel Stern
 
 Participant recruiting & screening: Perigean
 
-Project point of contact: Anne Costello Kennedy
+Project point of contact: Anne Costello Kennedy anne.costello@bylight.com
 
 Accessibility specialist: N/A
 
