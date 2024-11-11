@@ -21,8 +21,10 @@ For LOA3 users who sign in and have a [**_Supported_** benefit application or fo
 - [Desktop mockups, from left to right](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1233-60863&t=h5JX191NQ2q0JjVp-1)
 - [Mobile mockup, from left to right](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-46257&t=h5JX191NQ2q0JjVp-1)
 
+For more details on the user experience, appearance, variations, and error handling, [consult the FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md).
+
 ## How to reproduce
-- Find a staging user who has a benefit application draft in the [benefit application drafts staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#saved-applications-section).
-- Log into staging.va.gov with a test user who has a saved benefit application draft.
+- Find a staging user who has a supported benefit application or form 
+- Log into staging.va.gov with a test user who has a supported benefit application or form that has been submitted within the last 60 days.
 - Once logged in, you will be redirected to My VA.
-- Verify that you see a card for the saved application in this section and that it links to the page where the user can continue the application.
+- Verify that you see a card for the benefit application or form in this section.
