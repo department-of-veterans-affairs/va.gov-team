@@ -41,26 +41,22 @@ This API will automatically create an MHV-ID for any Veteran who does not alread
 
 ## UX approach
 From the section above, we determined that two "types" of errors can be thrown: 
-1. Errors that the API implementation should handle in the background
+1. Background errors
+  * In terms of handling these errors on VA.gov, it's looking like the FE applications (Medications, Medical records, and Secure Messages) will need to determine how to handle background errors; but we need to discuss further what this could or should look like. 
 2. Errors that require user-action
-
-### Questions/Considerations
-* **Q: How should we handle background error failures with the API and communciate this to the end-user?**
-  * _need to follow-up with MHV Access + Portals team for clarity_
-* **Q: How should we communicate user-action required errors to users?**
   * Cartography team has validated with MHV Portals + Access Team that there are four of these errors. We propose designing a single alert that will conditionally reveal the unique error code in the heading text & body text of the alert.
-* **Q: How can we ensure that helpdesk coordinators are prepared to help with API-related errors if users call about these problems?**
-  * The MHV Access + Portals team needs us to specify the exact error code to the user in a front-end facing alert so that the code can be communicated to My HealtheVet helpdesk coordinators for effective and efficient triaging of the problem to the correct level of support. The team has mapped these issues to four unique 8xx codes, but we need to validate with Identity that these codes are available on the VA.gov FE for use; and if not - we need to request that they be remapped to available 8xx identifiers by the Identity team, and communicate that back to Carnetta's team. 
-* **Q: Where should any alerts related to API errors be surfaced in order to meet users at the right places, from whatever entry point they access first?**
-  * We need to surface alerts on the My HealtheVet on VA.gov landing page, as well as the affected applications themselves: medical records, medications, and secure messages.
-* **Q: What do the affected applications (Messages, Medications, and Medical Records) currently do when users who don’t have access permissions try to access?**
-  * Cartography team is not sure about the current approach of each team to handling users who do not have access to their applications. We will ask these teams to communicate their current-state approachto evaluate if all apps are already consistent, or if different approaches exist today before proceeding with architectural recommendations for alert placement.
+  * The MHV Access + Portals team needs us to specify the exact error code to the user in a front-end facing alert so that the code can be communicated to My HealtheVet helpdesk coordinators for effective and efficient triaging of the problem to the correct level of support. The team has mapped these issues to four unique 8xx codes,
+  * We have validated with the identity team that these codes are available to use on the VA.gov FE - and we will use the numbers as provided. No remapping is needed.
+
+### Potential entry points & user routing in error states
+We plan to surface alerts on the My HealtheVet on VA.gov landing page, as well as the affected applications themselves: medical records, medications, and secure messages.
+
+Cartography team is not sure about the current approach of each team to handling users who do not have access to their applications. We will ask these teams to communicate their current-state approachto evaluate if all apps are already consistent, or if different approaches exist today before proceeding with architectural recommendations for alert placement.
  
-### Working concepts
-Primary entry point: 
-* My HealtheVet on VA.gov home page: 
+**Primary entry point:**
+* My HealtheVet on VA.gov home page
  
-Side-door entry points: 
+**Side-door entry points to the affected apps:**
 * Secondary navigation links
 * Health care benefit hub pages for the affected health tool applications
 * Cross-links from other unaffected health tool applications
