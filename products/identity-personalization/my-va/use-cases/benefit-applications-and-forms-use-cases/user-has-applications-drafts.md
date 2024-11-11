@@ -16,6 +16,8 @@ For LOA3 users who sign in and have a benefit application draft saved (or multip
 - [Desktop mockup](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26447&t=D9AmNbDyzhvCGW9h-1)
 - [Mobile mockup](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1264-32620&t=D9AmNbDyzhvCGW9h-1)
 
+For more details on the user experience, appearance, variations, and error handling, [consult the FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md).
+
 ## How to reproduce
 - Find a staging user who has a benefit application draft in the [benefit application drafts staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#saved-applications-section).
 - Log into staging.va.gov with a test user who has a saved benefit application draft.
