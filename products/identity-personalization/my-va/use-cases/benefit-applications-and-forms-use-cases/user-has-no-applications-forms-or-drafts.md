@@ -11,6 +11,8 @@ For LOA3 users who sign in and have no benefit application drafts saved, they wi
 - [Desktop mockup](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1231-49126&t=TWmq9bh0GmkgDdwH-1)
 - [Mobile mockup](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1260-37414&t=TWmq9bh0GmkgDdwH-1)
 
+For more details on the user experience, appearance, variations, and error handling, [consult the FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md).
+
 ## How to reproduce
 - Find a staging user who does not have any benefit application drafts in the [benefit application drafts staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#saved-applications-section).
 - Log into staging.va.gov with a test user who has no benefit application drafts saved.
