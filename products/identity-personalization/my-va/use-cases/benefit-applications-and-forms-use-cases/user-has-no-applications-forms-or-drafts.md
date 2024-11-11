@@ -1,6 +1,6 @@
-# My VA Benefit Applications and Forms Use Case: User has no benefit application drafts saved
+# My VA Benefit Applications and Forms Use Case: User has no benefit applications, forms, or drafts saved
 
-**Last updated:** Nov 3, 2024 - updated text
+**Last updated:** Nov 11, 2024 - now includes use case of no applications or forms, as well as no drafts 
 
 For LOA3 users who sign in and have no benefit application drafts saved, they will see text stating that they have no benefit application drafts to show.
 
@@ -15,4 +15,4 @@ For LOA3 users who sign in and have no benefit application drafts saved, they wi
 - Find a staging user who does not have any benefit application drafts in the [benefit application drafts staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#saved-applications-section).
 - Log into staging.va.gov with a test user who has no benefit application drafts saved.
 - Once logged in, you will be redirected to My VA.
-- Verify that you see text stating that there are no benefit applications or forms to show.
+- Verify that you see text stating that there are no benefit applications, forms, or drafts to show.
