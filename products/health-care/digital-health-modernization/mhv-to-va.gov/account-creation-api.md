@@ -1,6 +1,6 @@
 # My HealtheVet on VA.gov: Account Creation API  - Discovery
 
-This document gives an overview of the Cartography Team's discovery work around the API architecture and the user-facing alerts, routing, and ux decisions that may be needed related to the API once implemented. 
+This document gives an overview of the Cartography Team's discovery work around the API architecture and the user-facing alerts, routing, and ux decisions that may be needed related to the MHV account creation API once implemented. 
 
 ## Overview
 The account creation API seeks to solve a current-state problem, where user first-time users of My HealtheVet cannot directly access three of the "big four" health tools (medications, medical records, or secure messages) on VA.gov without first manually registering for an MHV-ID on the National Portal website by filling out a digital registration form. 
