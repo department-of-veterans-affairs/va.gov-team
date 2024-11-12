@@ -48,8 +48,3 @@ Complete the form and tasks then click create.
 The items in this checklist are for Platform to complete. If you are ready to close the ticket and the Platform Checklist section has not been completed, please reach out to Platform via the guidance provided in [Getting help from Platform in Slack](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html).
 - [ ] New VFS team member has been added to the VFS Team Roster located in [Atlas](https://www.va.gov/atlas/)
 - [ ] New VFS team member has been added to the vets.gov-write GitHub team
-
----
-
-## Tasks for off-boarding of teammates
-- [ ] Review [process for when a teammate leaves](https://depo-platform-documentation.scrollhelp.site/getting-started/offboarding)
