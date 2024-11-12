@@ -21,41 +21,59 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + It's a petty short form, so we're not expecting any significant coding challenges (knock on wood)
 - [ ] Backend changes
     + Does the project introduce any new or unusual infrastructure dependencies?
+      + No, we will be using an existing VBA integration. There will be a new API endpoint we submit to.
     + Do you need to poll any APIs for status?
-    + Are you handling all failure and error cases while in custody of your users's data?
+      + No, we plan to use retries and an exhaustion block in the event of an error. 
+    + Are you handling all failure and error cases while in custody of your user's data?
+      + Yes, we plan to handle errors gracefully.
 - [ ] Internal API changes
     + List new or modified APIs in `vets-api`
+      + It will use an existing VBA integration. We do not have an endpoint or data contract yet.
     + Are you deprecating or removing any APIs?
+      + No
     + Do you have API documentation?
+      + No, not yet. The API is in development and they do not have docs currently.
     + Describe expected call patterns
+      + Vet submits form to new vets-api endpoint, form data routes through controller to VBA service, persist form in Redis for retries or debugging, submit form to VBA.
 - [ ] External API changes
     + List new or modified APIs for upstream or external systems
-      + We will be utilizing existing VBA endpoints to submit this new data. 
+      + We will be utilizing an existing VBA integration to submit this data, we do not have the endpoint just yet. 
     + Describe expected call patterns
+      + After the request comes into the controller, Data goes to a new VBA service, persist form in Redis for retries, submit form to VBA.
     + What PII or PHI will be transmitted to/from the external systems?
       + Veteran name, address, SSN, selected debt information
 - [ ] Background jobs
     + List any required background processing
+      + We plan to use a Sidekiq job to submit and retry the form in the event of an error.
     + Describe error and dead letter handling
+      + We will use Redis to store the form data in the event of an error and job exhaustion.
 - [ ] Data storage
     + Describe new or modified databases, tables or columns
+      + No database storage will be used. We plan to use Redis to store form data though.
     + Describe indexes and constraints
+      + N/A
     + Identify PII and PHI and where and how it will be stored, processed, expired and deleted
+      + We plan to store PII in redis and then delete after successful submission.
 - [x] Libraries and dependencies
     + [VA Forms Library](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview)
 - [ ] Metrics, logging, observability, alerting
     + Monitoring submissions is key, with alerts if there's an issue with submitting to `vets-api`
+      + We will log to datadog successful and unsuccessful submissions. We will add a Datadog widgets for success ratio. We will also add an alert for submission errors. 
 - [ ] Infrastructure and network changes
     + List any changes or additions
+      + N/A
 - [ ] Test strategy
-    + We will utilize Cypess for e2e testing and include unit tests for helpers & custom components. 
+    + We will utilize Cypress for e2e testing and include unit tests for helpers & custom components. 
     + We can leverage our existing test users for this new application
 - [ ] Rollout plan
     + List scope of any feature flags
+      + Feature flag will enable and disable form availability in the event of an issue.
     + Identify other teams to coordinate with
+      + We will coordinate with the VBA/DMC team to see how submission data looks.
     + Describe rollback plan
+      + We will disable the feature flag removing the form from the site if necessary.
 - [x] Internal administration tasks
-    + Likely no regular maintenance or admin tasks that need to be  completed regularly.
+    + Likely no regular maintenance or admin tasks that need to be completed regularly.
 - [ ] Security
     + What questions do you have regarding items on the security checklist?
     + Are there any other security concerns about your project that you want to discuss?
