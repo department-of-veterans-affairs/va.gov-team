@@ -10,6 +10,7 @@ There will be some manual work to bring our issues over and preserve some data.
 You can add multiple issues and pull requests from your project and use filters, such as label:bug, to narrow down your search.
 
 From the Sprint Board you can bulk add issues to a specific column by clicking the 'Add Item' button at the bottom of the column.  A row will appear at the bottom of the screen, click +, then 'Add item from repository'.
+
 ![Screenshot 2024-11-12 at 9 28 42 AM](https://github.com/user-attachments/assets/18740375-f1e6-45f2-baad-7eb333696691)
 
 ![Screenshot 2024-11-12 at 9 28 58 AM](https://github.com/user-attachments/assets/304c4b94-bc22-45eb-876c-ae770dacb996)
@@ -26,7 +27,7 @@ Unfortunately the filtering to remove Closed issues does not seem to work on thi
 Once you have selected the issues to import, click 'Add selected items'.  
 Also unfortunately, only 25 items can be added at a time, so you will have to go through this process multiple times to add all issues from your team.
 
-See this [GHP guide](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project#bulk-adding-issues-and-pull-requests) for additional info.
+See this [GHP guide](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project#bulk-adding-issues-and-pull-requests) for additional info on batch issue adding.
 
 The issues will take a moment to be brought into GHP.  Once they are included, they will appear at the bottom of the column to which you added them.  You can then manually set the following values.
 ### The fields that will need to be manually set within GHP are:
