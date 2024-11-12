@@ -37,9 +37,9 @@
       - 🟨 [Renew `vista-api-alb-prod` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/677)
 - **Community Care Direct Scheduling**
     - FE STEP 1 - Mock Data
-        - 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
         - [**0 points left**] 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
-        - [**2 points left**]🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
+        - [**2 points left**] 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
+        - [**2 points left**] 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
         - 🟩 [Integrate referral mock ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96439)
     - FE STEP 2 - Appointments Page
         - [**2 points left**]🟩 [Create Task Card Component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95265)
@@ -57,8 +57,8 @@
         - 🟦 [Implement get_appointments method in EPSAppointmentService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96411)
     - 🟥 [Create Userflows for Asynchronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96417) 
 - **Travel Claims for Past Appts**
-    - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
-    - 🟥 [Create error state for when travel link cannot be retrieved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96578)
+    - [**0 points left**] 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
+    - 🟥 [[DESIGN] Create error state for when travel link cannot be retrieved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96578)
     - 🟥 [[DESIGN] Change appointment details page content to reflect updated mileage-only travel policy](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96784)
 - **Pre-Check-in - VAHB**
     - 🟥 [Complete initial onboarding for working in VAHB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94639)
@@ -69,7 +69,6 @@
     - 🟥 [Kick off Unmoderated Study with Perigean & Monitor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95475)    
 - **Tech Debt & Analytics**
     - 🟩 [Change Tagalog Content Based on Feedback from SD](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96861)
-    - 🟥 [[Design Debt] VADS spacing updated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96429)
     - 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96180)
     - 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
 </details>
