@@ -5,8 +5,16 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
-## 11/6/24
-*   F
+## 11/20/24
+*   Figma transition
+    *   constraints:
+        *   1 folder
+        *   memory issues with many files
+            *   Do we want to bring over graveyard files?
+    *   timing
+        *   Week of 11/18 - move files within AH Figma
+        *   Week of 11/25 - work with IT to move files to VA Figma
+        *   Week of 12/2 - clean up files in VA Figma
 
   
 ## 10/23/24
