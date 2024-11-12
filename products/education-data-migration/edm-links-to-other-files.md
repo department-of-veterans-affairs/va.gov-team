@@ -7,6 +7,7 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 ## Yellow Ribbon Tool
 - [Collaboration Cycle for Education Data Migration, Yellow Ribbon Tool #90888](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90888)
 - [CAIA Intake for Yellow Ribbon Tool #92367](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92367)
+- [Design Intent - IA Feedback #96852](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96852#event-15254368406)
 
 ## WEAMS Public 
 - [Collaboration Cycle for Education Data Migration, WEAMS Public #90889](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90889)
