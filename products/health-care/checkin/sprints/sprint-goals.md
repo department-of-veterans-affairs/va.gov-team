@@ -90,7 +90,7 @@
         - 🚧 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
     - FE STEP 2 - Appointments Page
         - 🚧 🟩 [Create Task Card Component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95265)
-        - 🟩 [Add Review requests and referrals (x) link behind feature flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95300)
+        - ✔️ 🟩 [Add Review requests and referrals (x) link behind feature flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95300)
     - BE STEP 1 - Implement EPSAppointmentsService
         - 🚧 🟦 [Implement EPSAppointmentsService base class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96000)
         - 🟦 [Implement ClaimsToken class (using the pattern for Lorota::ClaimsToken)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96001)
