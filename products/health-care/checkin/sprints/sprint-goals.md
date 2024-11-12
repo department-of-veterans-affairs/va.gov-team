@@ -85,7 +85,7 @@
 - **Community Care Direct Scheduling**
     - **Sprint Goals: FE - Set up mock data and begin updates to the Appointments page; BE - set up EPS appt service**
     - FE STEP 1 - Mock Data
-        - 🚧 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
+        - ✔️ 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
         - 🚧 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
         - 🚧 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
     - FE STEP 2 - Appointments Page
