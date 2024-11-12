@@ -1,13 +1,21 @@
 # Running Design and Research Agenda
 
 ## November 12 2024
-- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
 	- Agenda Topics
  		- FMP claims research report
      		- MBI# designs/ questions for the OHI Cert
 
 
          - ### Notes
+		- FMP Claims Research Report:
+			- Don't want to post FMP as research report in GH because we didn’t do exclusive research for FMP
+			- It seems almost like a copy of the claims report. Try to reformat as a key takeaways doc that points people back to the CHAMPVA research
+			- Next steps for this is to pull out finding/recommendations, what tickets need to be created and any gaps that we may need to think about. This can done during our regular design syncs
+		- OHI MBI #
+			- We still need to collect the copies of the cards for now
+			-  Medicare Part A and B users should always use one ID #. If someone has 2 separate ID#s for Part and Part B it may be an edge case. 
+			- We need to know what numbers stakeholders need if a bene has an Advantage plan. Create a backlog ticket to talk about the MBI numbers with the stakeholders. 
 
 ## November 04 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
