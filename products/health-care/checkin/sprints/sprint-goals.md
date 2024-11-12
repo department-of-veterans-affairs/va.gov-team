@@ -26,7 +26,7 @@
 
 ## SPRINT 20 - 11/13/2024-11/26/2024
 - **Production Support**
-    - ❗ 🟦🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96179)
+    - ❗ 🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96179)
     - **Move to New AWS Instance**
       - 🟨 [[DevOps] Create Pull-Requests to Modify Vets-API DEV Infrastructure to Read Secrets from CHIP #712](https://github.com/department-of-veterans-affairs/checkin-devops/issues/712)
       - 🟨 [[DevOps] Determine how to deploy changes to Dev Vets-API Applications Manifest and Platform EKS Dev Cluster #684](https://github.com/department-of-veterans-affairs/checkin-devops/issues/684)
