@@ -40,7 +40,6 @@
         - 🟩 [Hook up to the mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95269)
         - 🟩 [Unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95270)
     - FE STEP 4 - Schedule an Appointment with your Provider Page
-        - 🟩 [Hook up to mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95271)
         - 🟩 [Fix a few page details](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95272)
     - BE STEP 1 - Implement EPSAppointments
         - [**2 points left**] 🟦 [Implement EPSAppointmentsService base class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96000)
