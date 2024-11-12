@@ -1,5 +1,14 @@
 # Running Design and Research Agenda
 
+## November 12 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
+	- Agenda Topics
+ 		- FMP claims research report
+     		- MBI# designs/ questions for the OHI Cert
+
+
+         - ### Notes
+
 ## November 04 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
 	- Agenda Topics
