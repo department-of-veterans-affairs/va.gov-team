@@ -37,6 +37,7 @@
         - [**2 points left**]🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
         - 🟩 [Integrate referral mock ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96439)
     - FE STEP 2 - Appointments Page
+        - [**2 points left**]🟩 [Create Task Card Component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95265)
         - 🟩 [Create the referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95266)
     - FE STEP 3 - Referral For Page
         - 🟩 [Hook up to the mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95269)
@@ -84,7 +85,7 @@
         - 🚧 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
         - 🚧 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
     - FE STEP 2 - Appointments Page
-        - 🟩 [Create Task Card Component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95265)
+        - 🚧 🟩 [Create Task Card Component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95265)
         - 🟩 [Add Review requests and referrals (x) link behind feature flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95300)
     - BE STEP 1 - Implement EPSAppointmentsService
         - 🚧 🟦 [Implement EPSAppointmentsService base class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96000)
