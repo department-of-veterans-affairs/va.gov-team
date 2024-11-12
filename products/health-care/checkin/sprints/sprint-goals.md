@@ -73,7 +73,7 @@
 </details>
 
 ## SPRINT 19 - 10/30/2024-11/12/2024
-**NOTE: A lot of tickets rolled over this sprint because of (1) a lot of unknowns with CC work and exposure to new code and (2) travel schedule of OCTO leads that made them unavailable to review**
+**NOTE: A lot of tickets rolled over this sprint because of (1) a lot of unknowns & continuous adjusting with CC work, (2) exposure to new code (appointments/VAOS) and (2) travel schedule of OCTO leads that made them unavailable to review**
 - **Production Support**
     - ❗ 🟦🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94768)
     - **Move to New AWS Instance**
