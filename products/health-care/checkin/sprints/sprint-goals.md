@@ -42,6 +42,7 @@
         - 🟩 [Hook up to mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95271)
         - 🟩 [Fix a few page details](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95272)
     - BE STEP 1 - Implement EPSAppointments
+        - [**2 points left**] 🟦 [Implement EPSAppointmentsService base class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96000)
         - 🟦 [Implement RedisClient: Implement #get method to retrieve the access_token](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96003)
         - 🟦 [Implement token method in EPSService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96410)
         - 🟦 [Implement get_appointments method in EPSAppointmentService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96411)
@@ -84,7 +85,7 @@
         - 🟩 [Create Task Card Component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95265)
         - 🟩 [Add Review requests and referrals (x) link behind feature flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95300)
     - BE STEP 1 - Implement EPSAppointmentsService
-        - 🟦 [Implement EPSAppointmentsService base class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96000)
+        - 🚧 🟦 [Implement EPSAppointmentsService base class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96000)
         - 🟦 [Implement ClaimsToken class (using the pattern for Lorota::ClaimsToken)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96001)
         - 🟦 [Implement RedisClient: Implement #save method to save the access_toke #96002](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2395999&pane=issue&itemId=85114168&issue=department-of-veterans-affairs%7Cva.gov-team%7C96002)
     - 🟫 [SPIKE: Do we need an empty state when there are no referrals on the new Referrals and requests page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94443)
