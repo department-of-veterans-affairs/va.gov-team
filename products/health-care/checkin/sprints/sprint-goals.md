@@ -33,6 +33,8 @@
 - **Community Care Direct Scheduling**
     - FE STEP 1 - Mock Data
         - 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
+        - [**0 points left**] 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
+        - [**2 points left**]🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
         - 🟩 [Integrate referral mock ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96439)
     - FE STEP 2 - Appointments Page
         - 🟩 [Create the referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95266)
@@ -78,8 +80,8 @@
 - **Community Care Direct Scheduling**
     - **Sprint Goals: FE - Set up mock data and begin updates to the Appointments page; BE - set up EPS appt service**
     - FE STEP 1 - Mock Data
-        - 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
-        - 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
+        - 🚧 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
+        - 🚧 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
         - 🚧 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
     - FE STEP 2 - Appointments Page
         - 🟩 [Create Task Card Component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95265)
