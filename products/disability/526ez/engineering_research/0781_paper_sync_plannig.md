@@ -6,6 +6,11 @@
 
 This document references pages by number as defined in [this layout](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=9250-79571&node-type=section&t=coFOPPvO8yrT5Pcq-0)
 
+## Resources
+
+- ['Design Tiles' in Figma](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=9250-79571&node-type=section&t=7Ox44uttWClS9Np0-0)
+- [URL to Design Tile mappings (and more)](https://docs.google.com/spreadsheets/d/1pdJ5W-dJ56ysxrtkWl8d6Rsurf2nxXDqb8-7C9oGwcg/edit?gid=997035058#gid=997035058)
+
 ## Strategy
 
 ### Workability Categories 
