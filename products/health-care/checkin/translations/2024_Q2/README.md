@@ -25,6 +25,6 @@
 - [Q2 2024 - Spanish_2024-08-27_16-44-03 updated.pdf](https://github.com/user-attachments/files/17133881/Q2.2024.-.Spanish_2024-08-27_16-44-03.updated.pdf) - received on 9/25/2024
 
 ### Tagalog
-- [Q2 2024 - Tagalog_2024-10-18_12-14-36 (1).pdf](https://github.com/user-attachments/files/17717871/Q2.2024.-.Tagalog_2024-10-18_12-14-36.1.pdf)
+- [Q2 2024 - Tagalog_2024-10-18_12-14-36 (1).pdf](https://github.com/user-attachments/files/17717871/Q2.2024.-.Tagalog_2024-10-18_12-14-36.1.pdf) - received on 11/12/2024
 
 
