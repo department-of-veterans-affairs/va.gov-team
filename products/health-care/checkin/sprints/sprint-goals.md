@@ -2,6 +2,26 @@
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ⬛ VAHB 🟧 VeText 🟫 Appts ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over ⏱️ Dependency
 
 <details>
+<summary>SPRINT 21 - 11/27/2024-12/10/2024 FUTURE TENTATIVE</summary>
+
+## SPRINT 21 - 11/27/2024-12/10/202
+- **Production Support**
+    - ❗ 🟦🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96179)
+    - **Move to New AWS Instance**
+      - TBD
+- **Community Care Direct Scheduling**
+    - TBD
+- **Travel Claims for Past Appts**
+    - TBD
+- **Pre-Check-in - VAHB**
+    - TBD
+- **Check in with staff after checking in**
+    - TBD
+- **Tech Debt & Analytics**
+    - 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96180)    
+</details>
+
+<details>
 <summary>SPRINT 20 - 11/13/2024-11/26/2024 FUTURE TENTATIVE</summary>
 
 ## SPRINT 20 - 11/13/2024-11/26/2024
