@@ -31,6 +31,7 @@
       - TBD
 - **Community Care Direct Scheduling**
     - FE STEP 1 - Mock Data
+        - 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
         - 🟩 [Integrate referral mock ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96439)
     - FE STEP 2 - Appointments Page
         - 🟩 [Create the referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95266)
@@ -48,6 +49,7 @@
     - 🟥 [Create Userflows for Asynchronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96417) 
     - 🟥 [Add annotations for referral and requests link behavior](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96632)
 - **Travel Claims for Past Appts**
+    - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
     - 🟥 [Create error state for when travel link cannot be retrieved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96578)
     - 🟥 [Change appointment details page content to reflect updated mileage-only travel policy](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96784)
 - **Pre-Check-in - VAHB**
@@ -78,7 +80,7 @@
     - FE STEP 1 - Mock Data
         - 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
         - 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
-        - 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
+        - 🚧 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
     - FE STEP 2 - Appointments Page
         - 🟩 [Create Task Card Component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95265)
         - 🟩 [Add Review requests and referrals (x) link behind feature flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95300)
@@ -91,7 +93,7 @@
     - **Sprint Goals: Finish FE work knowing we are blocked with integrating with BE**
     - Rolled over from last sprint
         - ✔️ 🟩 [[FE] - Modify appointments api call to retrieve travel claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
-        - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
+        - 🚧 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
 - **Check in with staff after checking in**
     - **Sprint Goals: Conduct unmoderated study and address design intent feedback**
     - 🟥 [[Research] Submit unmoderated survey research materials to Shane and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95704)
