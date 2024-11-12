@@ -9,16 +9,12 @@ assignees: ''
 ## Welcome and introduction
 Welcome to the Department of Veterans Affairs (VA) Veteran Facing Services (VFS) team.
 
-As a new VFS team member, you will be working in the web ecosystem we call the VA.gov Platform (or "**The Platform,**" for short). The tasks on this list are designed to provide you with access to technologies, and maintain professional and legal compliance between VA.gov and its various contractors.
-
-Complete the tasks and click create.
+Complete the form and tasks then click create.
 
 **Note:** this ticket should not be submitted/created until after you receive access to the appropriate repos. You will receive an email titled “USAccess PIV Sponsored” when your access is ready.
 
 
-## Adminsitrative tasks
-
-### General
+## Tasks for everyone
 - [ ] Add your name to the ticket title
 - [ ] Complete these fields:
  - Name: <input type="text" id="name" name="name"/>
@@ -39,16 +35,21 @@ Complete the tasks and click create.
 - [ ] Are you a Veteran? Consider adding your name to the [Veterans willing to help VA teams with product testing](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md) document
 - [ ] Complete the educational tasks (placeholder for page on PW... verbiage may change depending on that page)
 
-### Practice area specific
-
-#### Front-end and back-end Engineers
+## Tasks for Front-end and Back-end Engineers
 - [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
 
-#### Product Managers & Delivery Managers
+## Tasks for Product Managers & Delivery Managers
 - [ ] [Schedule a PM intro via Calendly](https://calendly.com/collaboration-cycle/product-manager-intro) with Shira Goodman (Platform Governance Team PM).
 - [ ] If your team is new, please complete the [New VFS Team ticket](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSteams). If you're joining an existing team, you can skip this step.
 
-## Platform Checklist
+---
+
+## Tasks for Platform
 The items in this checklist are for Platform to complete. If you are ready to close the ticket and the Platform Checklist section has not been completed, please reach out to Platform via the guidance provided in [Getting help from Platform in Slack](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html).
 - [ ] New VFS team member has been added to the VFS Team Roster located in [Atlas](https://www.va.gov/atlas/)
 - [ ] New VFS team member has been added to the vets.gov-write GitHub team
+
+---
+
+## Tasks for off-boarding of teammates
+- [ ] Review [process for when a teammate leaves](https://depo-platform-documentation.scrollhelp.site/getting-started/offboarding)
