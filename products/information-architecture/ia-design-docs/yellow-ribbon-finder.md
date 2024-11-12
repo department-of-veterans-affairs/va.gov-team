@@ -33,7 +33,7 @@ On moving all data from the 'Yellow Ribbon school finder' into the 'GI Bill scho
 **1) Page/menu name** - Modify
 - Placement description: Select the 'Offers Yellow Ribbon program' checkbox in the 'GI BIll comparison tool' search flow (or similar, if the final design updates the controls or labels in the search flow).
 - Link label: TBD whether final design keeps the current checkbox and label, or makes updates
-- Link destination: program-level search results
+- Link destination: program-level search results, url will vary by search inputs.
 - Notes: This is the navigational entry point to *access the data formerly contained in* the 'Find a Yellow Ribbon school' tool. Since the page for the tool is going away, and the data is getting moved into the 'GI Bill school comparison' tool, this is not an entry point to *only* Yellow Ribbon data.
 ![YR 6](https://github.com/user-attachments/assets/56d590ce-097d-43c9-8b56-b7622950be65)
 
