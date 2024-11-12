@@ -22,7 +22,7 @@
 
 ### 10 minutes before the session
 
-- Start a thread in #feedback-backchannel
+- Start a thread in [#feedback-backchannel](https://dsva.slack.com/archives/C40B45NJK)
 - Sign into Perigean’s Zoom and start the meeting (review their email for login details)
 - Check Zoom settings and make sure participants have permission to share
 - Change your name in Zoom
