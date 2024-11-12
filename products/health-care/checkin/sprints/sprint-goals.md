@@ -56,7 +56,7 @@
         - 🟦 [Implement get_appointments method in EPSAppointmentService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96411)
     - 🟥 [Create Userflows for Asynchronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96417) 
 - **Travel Claims for Past Appts**
-    - [**0 points left**] 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
+    - [**1 points left**] 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
     - 🟥 [[DESIGN] Create error state for when travel link cannot be retrieved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96578)
     - 🟥 [[DESIGN] Change appointment details page content to reflect updated mileage-only travel policy](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96784)
 - **Pre-Check-in - VAHB**
