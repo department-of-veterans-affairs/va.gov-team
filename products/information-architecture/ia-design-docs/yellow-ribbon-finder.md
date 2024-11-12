@@ -22,7 +22,7 @@
 *Illustration and/or description of changes to the overall IA of VA.gov (i.e. a site map).* 
 See the [IA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726160591523/80254437f9b1756df32f7e73ba96ad8fd6bfbdc4?sender=u40d6eca98d1446001ef20655) for this work, for the details shown in this spec.
 
-On moving all data from the 'Yellow Ribbon school finder' into the 'GI Bill school comparsion', the Yellow Ribbon tool should be deleted from the left nav of the Education hub.
+On moving all data from the 'Yellow Ribbon school finder' tool into the 'GI Bill school comparsion' tool, the Yellow Ribbon tool should be deleted from the left nav of the Education hub.
 <img width="939" alt="YR 1" src="https://github.com/user-attachments/assets/a9be2a6e-91a5-45e1-9a82-77e995f8e739">
 
 
@@ -31,7 +31,7 @@ On moving all data from the 'Yellow Ribbon school finder' into the 'GI Bill scho
 ### Primary entry point
 
 **1) Page/menu name** - Modify
-- Placement description: Select the 'Offers Yellow Ribbon program' checkbox in the 'GI BIll comparison tool' search flow (or similar, if the final design updates the controls or labels in the search flow).
+- Placement description: Select the 'Offers Yellow Ribbon program' checkbox in the 'GI BIll school comparison' tool's search flow (or similar, if the final design updates the controls or labels in the search flow).
 - Link label: TBD whether final design keeps the current checkbox and label, or makes updates
 - Link destination: program-level search results, url will vary by search inputs.
 - Notes: This is the navigational entry point to *access the data formerly contained in* the 'Find a Yellow Ribbon school' tool. Since the page for the tool is going away, and the data is getting moved into the 'GI Bill school comparison' tool, this is not an entry point to *only* Yellow Ribbon data.
@@ -42,15 +42,13 @@ On moving all data from the 'Yellow Ribbon school finder' into the 'GI Bill scho
 **1. Education hub page** - Remove
 - Placement description: Education hub page 'More information and resources' section
 - Link label: Find a Yellow Ribbon school
-- Link destination: va.gov/education/yellow-ribbon-participating-schools/
-- Notes: Remove this item (both the header link and the explanation text) from the section.
+- Notes: Remove both the header link and the explanation text for the Yellow Ribbon tool from the section.
 ![YR 9](https://github.com/user-attachments/assets/b1e0d530-0052-496e-829b-a0cbb75d1e3e)
 
 **2. Education left nav** - Remove
 - Placement description: Education left nav 'More resources' section
 - Link label: Find a Yellow Ribbon school
-- Link destination: va.gov/education/yellow-ribbon-participating-schools/
-- Notes: Remove this from the nav.
+- Notes: Remove tool from the left nav.
 ![YR 9](https://github.com/user-attachments/assets/b411f46e-cc38-4574-9c32-1ea30da3e592)
 
 ### Crosslinks
