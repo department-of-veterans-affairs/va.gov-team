@@ -57,21 +57,17 @@ The other kind is **content complete** testing. This encopmases everything cover
 
 [Ticket](https://github.com/department-of-veterans-affairs/vets-api/issues/19365)
 
-
 ---
-
 
 ### Screener Page Skeleton
 
 [Ticket](https://github.com/department-of-veterans-affairs/vets-api/issues/19366)
-
 
 ---
 
 ### Screner Page Content
 
 [Ticket](https://github.com/department-of-veterans-affairs/vets-api/issues/19367)
-
 
 ---
 
