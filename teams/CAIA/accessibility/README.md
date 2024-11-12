@@ -1,5 +1,4 @@
 # CAIA: Accessibility
-[Access an A11Y](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/README.md#how-to-contact-us)
 
 ## Our goal
 Our goal is to empower teams to deliver the most accessible products possible for Veterans. We do this by providing teams with insights, training, and support as accessibility subject matter experts.
