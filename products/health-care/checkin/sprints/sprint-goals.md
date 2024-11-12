@@ -30,6 +30,11 @@
     - **Move to New AWS Instance**
       - 🟨 [[DevOps] Create Pull-Requests to Modify Vets-API DEV Infrastructure to Read Secrets from CHIP #712](https://github.com/department-of-veterans-affairs/checkin-devops/issues/712)
       - 🟨 [[DevOps] Determine how to deploy changes to Dev Vets-API Applications Manifest and Platform EKS Dev Cluster #684](https://github.com/department-of-veterans-affairs/checkin-devops/issues/684)
+      - 🟨 [[DevOps] Create a PoC CloudWatch Synthetics Canary](https://github.com/department-of-veterans-affairs/checkin-devops/issues/346)
+      - 🟨 [Implement monitoring to detect orphaned Elastic Network Interfaces (ENIs) across all VPCs.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/700)
+      - 🟨 [Add a document for dsvagovcloud infrastructure that Check-In Experience uses/creates/needs and document Route 53 and fwdproxy CHIP API resources](https://github.com/department-of-veterans-affairs/checkin-devops/issues/659)
+      - 🟨 [Renew `vista-api-prod` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/676)
+      - 🟨 [Renew `vista-api-alb-prod` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/677)
 - **Community Care Direct Scheduling**
     - FE STEP 1 - Mock Data
         - 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
