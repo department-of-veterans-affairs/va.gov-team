@@ -109,7 +109,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 11/4/2024-11/6/2024 - 2 days
+     - 01/6/20248 - 1 day
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 10%, approximately 65 page views per day
 
@@ -127,7 +127,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 11/6/2024
+     - 01/7/2024-01/8/2024 - 2 days
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25%, about 162 users per day
 
@@ -145,7 +145,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 11/7/2024-11/12/2024
+     - 01/9/2024-01/13/2024 - 4 days
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 50%, about 325 users per day
 
@@ -163,7 +163,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 11/12/2024
+     - 01/13/2024
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 100%, about 650 users per day
 
