@@ -50,6 +50,7 @@
 - **Travel Claims for Past Appts**
     - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
     - 🟥 [Create error state for when travel link cannot be retrieved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96578)
+    - 🟥 [[DESIGN] Change appointment details page content to reflect updated mileage-only travel policy](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96784)
 - **Pre-Check-in - VAHB**
     - 🟥 [Complete initial onboarding for working in VAHB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94639)
     - 🟥 [Create User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94232)
