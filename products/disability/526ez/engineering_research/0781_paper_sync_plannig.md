@@ -46,7 +46,7 @@ These chunks start very small and modular, then get larger as we go. There are t
 
 ### Note on ticket order
 
-Tickets are numbered, e.g. `[0781 PS] (1) ...` and `[0781 PS] (2) ...`. These numbers indicate **the order in which they will become unblocked**, so in this example, ticket `(2)` can be done once ticket `(1)` is complete. There are some exceptions, such as the JSON to PDF transform service. These are blocked by their lower numbers, but do not block higher numbers and are indicated with an `-UB`, i.e. `(2-UB)`.
+Tickets are numbered, e.g. `[0781 PS] (1) ...` and `[0781 PS] (2) ...`. This is to preserve my suggested working order in case they get moved around. They sometimes indicate a blocker / blocked relationship, but not always. For that information look inside the ticket. Blockers will be noted at the top.
 
 The tickets are arranged from top (first) to bottom (last) in the order I feel we should work on them. They are also arranged in a manner that will unblock click through testing as quickly as possible. I strongly suggest we work them in the order they are in when possible, including finishing batches of 'skeleton' tickets before rolling back to do 'content' tickets.
 
