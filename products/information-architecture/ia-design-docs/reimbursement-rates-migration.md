@@ -19,14 +19,13 @@
 
 
 ## <a name="map"></a>Page structure<br>
-*The screenshots from this spec, and additional draft IA notes, are available in [this Mural]*
+*The screenshots from this spec, and additional draft IA notes, are available in [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1729183095781/13879f018516bd9dd354f278919b5a9c101a0f1f?wid=136-1729183109815).*
 Sitemap notes for this scope of work:
 - A new info page will replace the 'GI Bill school comparison' tool in level-3 of the page heirarchy. This will be a Drupal page.
 - The new info page will provide links to three level-4 pages:
-  - the existing 'GI Bill school comparison' search tool, moved one spot down in the page heirarchy. This will be a team-maintained tool.
-  - a new 'License and Certification reimbursement rates' search tool. This will be a team-maintained tool.
-  - a new 'National tests reimbursement rates' page, that will contain list data. This will be a team-maintained page, so that Education can update rates at their discretion.
-(https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1729183095781/13879f018516bd9dd354f278919b5a9c101a0f1f?wid=136-1729183109815).*
+  1. the existing 'GI Bill school comparison' search tool, moved one spot down in the page heirarchy. This will be a team-maintained tool.
+  2. a new 'License and Certification reimbursement rates' search tool. This will be a team-maintained tool.
+  3. a new 'National tests reimbursement rates' page, that will contain list data. This will be a team-maintained page, so that Education can update rates at their discretion.*
 ![Tests 1](https://github.com/user-attachments/assets/79221c01-e409-4423-8f27-12d786c1a4fe)
 
 
@@ -69,12 +68,9 @@ _Most of the time this is the CTA on a tool static landing page. For forms or fe
 **1) New 'GI Bill school comparison and test rates' info page** - Add/Modify/Remove
 - Placement description: Info page will have links to all three sub-pages
 - Link labels
-  - GI Bill comparison tool
-    - va.gov/education/gi-bill-schools-and-rates/school-comparison-tool/
-  - License and Certification reimbursement rates
-    - va.gov/education/gi-bill-schools-and-rates/license-and-certification-rates/
-  - National test reimbursement rates
-    - va.gov/education/gi-bill-schools-and-rates/national-test-rates
+  - GI Bill comparison tool - va.gov/education/gi-bill-schools-and-rates/school-comparison-tool/
+  - License and Certification reimbursement rates - va.gov/education/gi-bill-schools-and-rates/license-and-certification-rates/
+  - National test reimbursement rates - va.gov/education/gi-bill-schools-and-rates/national-test-rates
 ![Tests 2](https://github.com/user-attachments/assets/b9671a84-f99b-48c8-8544-18d216561c06)
 
 
