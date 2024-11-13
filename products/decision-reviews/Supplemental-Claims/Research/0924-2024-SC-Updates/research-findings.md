@@ -273,6 +273,12 @@ Out of 11 participants, 8 tested a flow where they made edits to evidence when t
 
 Make updates based on recommendations, and consider a better evidence collection flow.
 
+## **Who we talked to**
+
+We talked to two cohorts of research participants. 1 cohort of 5 Veterans using assitive technology. 1 cohort of 6 Veterans not using assitive technology.
+
+[Recruitment tracker](#)
+
 ## **Further research needed**
 
 * Evidence gathering and list+loop pattern.
@@ -281,6 +287,4 @@ Make updates based on recommendations, and consider a better evidence collection
 
 * Digital evidence upload process
 
-## **Who we talked to**
 
-Recruitment tracker
