@@ -214,19 +214,19 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
 
 ###### Pay attention for if the participant:
 
-7. Was able to complete the task? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
+1. Was able to complete the task? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
 
-8. Was able to discover what we intended?
+2. Was able to discover what we intended?
 
-9. Had difficulty navigating. If so, what made it difficult?
+3. Had difficulty navigating. If so, what made it difficult?
 
-10. Ran into any errors? Which error and why did they come up?
+4. Ran into any errors? Which error and why did they come up?
 
-11. Was ever confused?
+5. Was ever confused?
 
-12. Experienced anything that they were not expecting?
+6. Experienced anything that they were not expecting?
 
-13. Was the participant triggered by anything in the experience?
+7. Was the participant triggered by anything in the experience?
 
 
 ##### Task 6: Review home address information
@@ -242,21 +242,21 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
 
 ###### Pay attention for if the participant:
 
-14. Was able to complete the task? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
+1. Was able to complete the task? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
 
-15. Was able to discover what we intended?
+2. Was able to discover what we intended?
 
-16. Had difficulty navigating. If so, what made it difficult?
+3. Had difficulty navigating. If so, what made it difficult?
 
-17. Ran into any errors? Which error and why did they come up?
+4. Ran into any errors? Which error and why did they come up?
 
-18. Was ever confused?
+5. Was ever confused?
 
-19. Experienced anything that they were not expecting?
+6. Experienced anything that they were not expecting?
 
-20. Was the participant triggered by anything in the experience?
+7. Was the participant triggered by anything in the experience?
 
-Task 6: Evaluate confirmation page
+Task 7: Evaluate confirmation page
 
 If the participant has not yet completed the form to get to the final page, prompt them to go ahead and do so.
 
@@ -267,6 +267,11 @@ If the participant has not yet completed the form to get to the final page, prom
 - What will the contact information you shared be used?
 
 - If you wanted to review or update the information you updated in the future, how would you do that?
+  
+- What step would you take from this page?
+  
+- How would you update your notifications?
+
 
 * How would you rank this confirmation that your info has been updated from 1(very helpful and user friendly) to 5 (very difficult)
 
