@@ -6,6 +6,18 @@ Date: 10/2024
 
 Eileen Chi [eileen.chi@coforma.io](mailto:eileen.chi@coforma.io)
 
+**Jump to:**
+
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/0924-2024-SC-Updates/research-findings.md#hypotheses-and-conclusions)
+
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/0924-2024-SC-Updates/research-findings.md#key-findings)
+
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/0924-2024-SC-Updates/research-findings.md#recommendations)
+
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/0924-2024-SC-Updates/research-findings.md#who-we-talked-to)
+
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/0924-2024-SC-Updates/research-findings.md#further-research-needed)
+
 ## **Background**
 
 Updates have been made to the 20-0995 form, which includes introduction of several optional new sections and fields.
