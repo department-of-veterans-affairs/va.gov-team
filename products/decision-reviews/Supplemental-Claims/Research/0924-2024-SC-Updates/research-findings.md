@@ -167,6 +167,7 @@ Half of the participants experienced friction with the notice of evidence needed
 * Veterans were unclear what a Vet Center or Department of Defense military treatment facility (MTF) is.  
 * Veterans would choose Vet Center until they see Vet Healthcare Center, and realize they’re two different types of locations.
 
+> “What is a VA Vet Center?” P6
 > “Department of Defense military treatment facility. I’m not sure what that is. That a base you would go to, and a medical clinic on a base? I’m not sure what that is.” P10  
 > “I think the thing that I learned early when I was applying for it back in the early 2000s was that there was no connection between the Department of Defense and the VA.” P8
 
