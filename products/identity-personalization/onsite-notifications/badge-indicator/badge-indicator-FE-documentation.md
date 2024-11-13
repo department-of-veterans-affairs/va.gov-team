@@ -48,11 +48,18 @@ With some error scenarios, it's possible secure messaging access may still be po
 
 ### Content
 
-Alert
+**Badge Indicator:**
 
-Badge Indicator
+How the count of the badge indicator is displayed varies, depending on the quantity of unread messages:
+1 or 2 digit: "1" to "99"
+3 digit (100 or more messages): "99+"
 
+**Associated link:**
+"Go to your inbox"
 
+**Alert (error scenario)**
+
+"You may not be able to access your messages right now. Check back later."
 
 ---
 
@@ -66,7 +73,8 @@ Badge Indicator
 
 **Flow chart**
 
-<img width="4206" alt="Flow Chart" src="https://github.com/user-attachments/assets/68314736-d111-471b-a9d4-3cc8fc66f28b">
+<img width="4206" alt="Flow Chart" src="https://github.com/user-attachments/assets/951d9fdf-0f08-4cba-a2f4-ba1bd62a0b36">
+
 
 ### Visual specifications
 
@@ -99,7 +107,7 @@ The aria text has variations depending on the number of unread messages/other un
 - 1 item: "Go to your inbox. You have 1 new message."
 - 2-99 items: "Go to your inbox. You have # new messages."
 - More than 99 items: "Go to your inbox. You have more than 99 new messages."
-- If no count can be displayed: N/A (warning alert appears in Health care without a badge indicator)
+- If no count can be displayed: "Go to your inbox. We can't tell how many new messages you have at this time."
 
 **Positioning**
 - The "Go to your inbox" link should always appear first in the stack of health care links. The stack of links appears on the lefthand side on desktop if the user does not upcoming appointments. Otherwise, it appears on the righthand side on desktop.
