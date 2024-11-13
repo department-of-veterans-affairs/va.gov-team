@@ -2,6 +2,10 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Streamlined Waiver, Debt Resolution Team**
 
+UX Team: 
+
+**Charlotte Cesana - UX Researcher & Moderator, Megan Gayle - UX Researcher/Designer, Joseph Lee - UX Designer**
+
 Date: 08/17/2023
 
 
