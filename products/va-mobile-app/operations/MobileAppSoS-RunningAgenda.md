@@ -29,6 +29,7 @@
 * **Experience Team Requests Review**
   * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
 * Walk-ons
+  * Figma transition work taking priority for design folks
 
 ## 10/30/24
 * **Epics Review**
