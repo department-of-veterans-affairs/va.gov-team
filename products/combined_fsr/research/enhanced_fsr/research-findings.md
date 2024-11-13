@@ -2,6 +2,10 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Enhanced Financial Status Report, Debt Resolution Team**
 
+UX Team: 
+
+**Charlotte Cesana - UX Researcher & Moderator, Megan Gayle - UX Researcher/Designer, Joseph Lee - UX Designer**
+
 Date: 06/01/2023
 
 **Jump to:**
