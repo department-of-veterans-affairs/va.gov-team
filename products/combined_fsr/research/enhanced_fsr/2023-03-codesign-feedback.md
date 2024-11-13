@@ -1,4 +1,5 @@
 
+
 ## Co-design Feedback Summary and Findings
 We spoke to 6 Veterans who work for the VA. Some Veterans worked directly with debt management. Veterans were asked about their service history, thoughts on debt management, and to interact with a shortened Financial Status Report form prototype. The Veterans we spoke to are a special sample, and not representative of the diversity of all Veterans. 
 Codesign sessions are a part of the human centered design (HCD) famework, where users (Veterans) are placed at the center of the design process, in order to build an experience that meets their needs. The sessions are conversational and collaborative. It is important to get end Veteran feedback early and often. 
@@ -81,4 +82,6 @@ At least that's what I've found in my travels. Those are my thoughts." P5
  _After hearing feedback from a participant that they would pay their debt:_
 -   Ask for participants income and whether they have experienced bankruptcy during formal usability screener
 -   After asking participant's understanding of the form, tell them this is for Veterans experiencing financial hardship
+
+UX Team: **Charlotte Cesana - UX Researcher, Megan Gayle - UX Researcher/Designer, Joseph Lee - UX Designer**
 
