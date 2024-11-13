@@ -46,11 +46,9 @@ These chunks start very small and modular, then get larger as we go. There are t
 
 ### Note on ticket order
 
-Tickets are numbered, e.g. `[0781 PS] (1) ...` and `[0781 PS] (2) ...`. This is to preserve my suggested working order in case they get moved around. They sometimes indicate a blocker / blocked relationship, but not always. For that information look inside the ticket. Blockers will be noted at the top.
+Tickets are numbered, e.g. `[0781 PS] (1) ...` and `[0781 PS] (2) ...`. This is to preserve my suggested working order in case they get moved around. They sometimes indicate a blocker / blocked relationship, but not always. For that information look inside the ticket where blockers will be called out. There are multiple of most numbers; these tickets can be thought of as a 'layer' of work that can be done in parallel.
 
-The tickets are arranged from top (first) to bottom (last) in the order I feel we should work on them. They are also arranged in a manner that will unblock click through testing as quickly as possible. I strongly suggest we work them in the order they are in when possible, including finishing batches of 'skeleton' tickets before rolling back to do 'content' tickets.
-
-If there are blockers for any chunk of work, they are noted in the blocked ticket. E.g. we need the JSON schema before we can implement the FE / BE Form boilerplate to save data _into_ that schema, and we need the FE / BE boilerplate to unblock almost all of the form components that interact with the DB. Therefor the ticket for the FE / BE boiler plate will have a big section at the top about this blocker.
+They are also arranged in a manner that will unblock click through testing as quickly as possible. I strongly suggest we work them in the order they are in when possible, including finishing batches of 'skeleton' tickets before rolling back to do 'content' tickets.
 
 ### Note on 'Skeleton' vs 'Content' tickets
 
