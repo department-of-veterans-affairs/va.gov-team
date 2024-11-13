@@ -36,7 +36,7 @@ _(For uses outside of Health care and My VA, error messaging using alerts may ma
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2850-45132&t=xr9SwjaLf9FYMxCT-1)
 
-[Mobile](
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2622-33921&t=xr9SwjaLf9FYMxCT-1)
 
 ### If inbox access is likely available
 
@@ -44,7 +44,7 @@ With some error scenarios, it's possible secure messaging access may still be po
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2799-35365&t=xr9SwjaLf9FYMxCT-1)
 
-[Mobile](
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2930-12014&t=xr9SwjaLf9FYMxCT-1)
 
 ### Content
 
