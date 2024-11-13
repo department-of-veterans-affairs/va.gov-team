@@ -55,6 +55,7 @@ How the count of the badge indicator is displayed varies, depending on the quant
 3 digit (100 or more messages): "99+"
 
 **Associated link:**
+
 "Go to your inbox"
 
 **Alert (error scenario)**
