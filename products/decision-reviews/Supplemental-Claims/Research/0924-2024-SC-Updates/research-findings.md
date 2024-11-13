@@ -282,7 +282,8 @@ Make updates based on recommendations, and consider a better evidence collection
 
 We talked to two cohorts of research participants. 1 cohort of 5 Veterans using assitive technology. 1 cohort of 6 Veterans not using assitive technology.
 
-[Recruitment tracker](#)
+[Supplemental Claims 2024 updates Recruitment tracker.pdf](https://github.com/user-attachments/files/17739301/Supplemental.Claims.2024.updates.Recruitment.tracker.pdf)
+
 
 ## **Further research needed**
 
