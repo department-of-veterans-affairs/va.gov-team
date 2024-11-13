@@ -26,7 +26,7 @@ Sitemap notes for this scope of work:
   1. the existing 'GI Bill school comparison' search tool, moved one spot down in the page heirarchy. This will be a team-maintained tool.
   2. a new 'License and Certification reimbursement rates' search tool. This will be a team-maintained tool.
   3. a new 'National tests reimbursement rates' page, that will contain list data. This will be a team-maintained page, so that Education can update rates at their discretion.*
-![Tests 1](https://github.com/user-attachments/assets/79221c01-e409-4423-8f27-12d786c1a4fe)
+![Tests 11](https://github.com/user-attachments/assets/c85576d5-c4e9-428c-aba0-cec4cf0b4d71)
 
 
 
