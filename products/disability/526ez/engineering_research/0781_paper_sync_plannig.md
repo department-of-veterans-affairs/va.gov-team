@@ -46,6 +46,8 @@ These chunks start very small and modular, then get larger as we go. There are t
 
 ### Note on ticket order
 
+Tickets are numbered, e.g. `[0781 PS] (1) ...` and `[0781 PS] (2) ...`. These numbers indicate **the order in which they will become unblocked**, so in this example, ticket `(2)` can be done once ticket `(1)` is complete. There are some exceptions, such as the JSON to PDF transform service. These are blocked by their lower numbers, but do not block higher numbers and are indicated with an `-UB`, i.e. `(2-UB)`.
+
 The tickets are arranged from top (first) to bottom (last) in the order I feel we should work on them. They are also arranged in a manner that will unblock click through testing as quickly as possible. I strongly suggest we work them in the order they are in when possible, including finishing batches of 'skeleton' tickets before rolling back to do 'content' tickets.
 
 If there are blockers for any chunk of work, they are noted in the blocked ticket. E.g. we need the JSON schema before we can implement the FE / BE Form boilerplate to save data _into_ that schema, and we need the FE / BE boilerplate to unblock almost all of the form components that interact with the DB. Therefor the ticket for the FE / BE boiler plate will have a big section at the top about this blocker.
