@@ -255,7 +255,7 @@ Out of 11 participants, 8 tested a flow where they made edits to evidence when t
 
 ## **Recommendations**
 
-1. Look into the accessibility issues that could occur with JAWS users
+1. Determine if usability issues with JAWS is replicable and pervasive across forms.
 
 2. Keep the initial MST question and add language to clarify that the question is optional and does not impact the Veteran’s claim.
 
