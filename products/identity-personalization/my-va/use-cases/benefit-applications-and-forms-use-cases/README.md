@@ -1,10 +1,12 @@
 # My VA: Benefit Applications and Forms Use Cases
 
-**Last updated:** November 8, 2024 - updated to reflect updates with form status tracking
+**Last updated:** November 13, 2024 - updated links
 
 There are two different types of content that can be shown in the Benefit application and forms section of My VA: 
 - __Drafts__
 - __Submitted applications and forms (that are supported)__
+
+In addition, the section may have neither drafts nor forms. 
 
 ## Overview of Drafts:
 
@@ -15,8 +17,9 @@ There are two different types of content that can be shown in the Benefit applic
 
 ## Common use cases:
 
-- [User has a benefit application or form draft saved but not yet submitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-application-drafts-use-cases.md/user-has-applications-drafts.md)
-- [User has no benefit applications and/or forms being tracked, or drafts saved](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-application-drafts-use-cases.md/user-has-no-application-drafts.md)
+- [User has a benefit application or form draft saved but not yet submitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-applications-drafts.md)
+- [User has a benefit application or form that's been submitted and is trackable](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-applications-and-or-forms.md)
+- [User has no benefit applications and/or forms being tracked, or drafts saved](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-no-applications-forms-or-drafts.md)
 
 ## Edge cases:
 
