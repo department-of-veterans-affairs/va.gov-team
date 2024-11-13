@@ -35,7 +35,8 @@ The MHV team has created an api called the MHV account creation API which the VA
 9. Vets-api MUST write to a new frontend serializer for the storage of the MHV attributes
 10. Vets-api MUST look for a temporary ICN and show the user an error if a non-temporary active ICN is not present.
     1. va.gov frontend MUST show an error message to the user stating there was an issue processing their user attributes, refer them to the help desk. Make this a new error code number so that we can inform the helpdesk to forward the issue onto IAM for a temporary ICN user.
-11. Vets-api MUST update the MHV related values within the user redis cache after a successful mhv account creation api call 
+11. Vets-api MUST update the MHV related values within the user redis cache after a successful mhv account creation api call
+12. Vets-api MUST make a method available that allows internal vets-api applications to get a status of the MHV account creation API call made during user authentication.
 
 ## Host Endpoints
 
