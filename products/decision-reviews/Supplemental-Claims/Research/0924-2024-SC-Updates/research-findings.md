@@ -229,7 +229,7 @@ Out of 11 participants, 8 tested a flow where they made edits to evidence when t
 
    * A Veteran received a notice that they had to give authorization despite uploading their own records
 
-     > “I have to authorize. I also tried to send them my version that I downloaded. That wasn't acceptable, and until I had to reach out to the provider who already is providing this to the VA. Now they want more, you know. Now they want a summation or something. I don't know.” 13
+     > “I have to authorize. I also tried to send them my version that I downloaded. That wasn't acceptable, and until I had to reach out to the provider who already is providing this to the VA. Now they want more, you know. Now they want a summation or something. I don't know.” P13
 
    * Veterans spend a long time asking for records to be retrieved, only to be given the wrong records.
 
