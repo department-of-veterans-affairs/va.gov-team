@@ -117,10 +117,12 @@ JAWS users had a hard time operating form controls since there were issues such 
 3 out of 4 Veterans with a claim related to MST did not understand the purpose of the MST notification, and either chose to decline or revoke their previous decision. 
 
 * Two participants mentioned the question felt sudden and out-of-place, and were concerned that it affected their claim.   
-* One mentioned that they’ve provided details about MST, but haven’t seen any changes to their claim. “To me this seems convoluted. I don't understand why that would be a thing. In my experience, I've let my provider know. But there's not been any more actionable things that she has done towards that experience.” P11  
-* Another mentioned that they’re afraid that noting that they had MST would cause delays to their claim. “It just seems like it's gonna it's  an indicator to slow things down. Because, just like okay, or you know, if it's handled by a special group or whatever it's an indicator, it's gonna add that indicator” P13  
+* One mentioned that they’ve provided details about MST, but haven’t seen any changes to their claim.
+> “To me this seems convoluted. I don't understand why that would be a thing. In my experience, I've let my provider know. But there's not been any more actionable things that she has done towards that experience.” P11  
+* Another mentioned that they’re afraid that noting that they had MST would cause delays to their claim.
+> “It just seems like it's gonna it's an indicator to slow things down. Because, just like okay, or you know, if it's handled by a special group or whatever it's an indicator, it's gonna add that indicator” P13  
 * Two weren’t sure why the notifications question was being asked again when they already gave an answer within the initial claim.  
-* “I don't know, because, even though I submitted and it was approved like there's no rating. But the only services I've noticed, for it was like group meetings and therapy, and that's it. So if I had to do it again I probably wouldn’t do it because it wasn’t much benefit from it except for therapy and then those support groups can be a little stressful. So they weren’t that helpful.” P3
+> “I don't know, because, even though I submitted and it was approved like there's no rating. But the only services I've noticed, for it was like group meetings and therapy, and that's it. So if I had to do it again I probably wouldn’t do it because it wasn’t much benefit from it except for therapy and then those support groups can be a little stressful. So they weren’t that helpful.” P3
 
 ### **Finding 3**
 
@@ -134,7 +136,7 @@ Veterans without MST were able to understand the initial question, but a few wer
 
 Half of the participants experienced friction with the notice of evidence needed.
 
-* Three Veterans using assistive technology struggled with the presumptive conditions alert, since it wasn’t announced as an alert, but they know it could be closed.  
+* Three Veterans using assistive technology experienced friction with the presumptive conditions alert, since it wasn’t announced as an alert, but the close button was announced.  
 * One struggled with the language in the alert stating that they can submit “this form” within the PACT alert, but didn’t realize it was referring to the 0995\.  
 * One clicked through the link for the notice of evidence needed, and couldn’t find their way back to the form from the new tab.  
 * One mentioned that the Supplemental Claim is being submitted within the year, so they shouldn’t have to verify that they’ve read the notice.
@@ -210,11 +212,7 @@ Out of 11 participants, 8 tested a flow where they made edits to evidence when t
 
    > “I get the size, but I don’t get the width and the height” P13
 
-5. Veterans responded to the progress stepper positively, until they saw that the section/chapter number did not change between pages.
-
-   > “Is it still step 4 of 5? Wow, 4 of 5 is long\!” P4
-
-6. Veterans that went through the non-VA medical records flow felt inclined to give an answer to the limiting consent page when it was not required.
+5. Veterans that went through the non-VA medical records flow felt inclined to give an answer to the limiting consent page when it was not required.
 
    * P8 caught that he was limiting information and removed it from the evidence summary screen
 
