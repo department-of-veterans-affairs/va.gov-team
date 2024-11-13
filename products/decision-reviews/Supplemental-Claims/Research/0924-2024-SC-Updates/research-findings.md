@@ -124,6 +124,9 @@ JAWS users had a hard time operating form controls since there were issues such 
 * One JAWS user made a selection, only for it to be changed because it dragged the selection to the next option as he was navigating.  
 * Both were eventually able to find workarounds, but voiced frustration.
 
+> "Well, there's no edit boxes on this paper. If they were, I would be able to select. [...] Okay, for me, I would hear a popping sound was like that. And it would say edit." P4
+> "And when you click one they'll have to click that button.And then, when you move off of the button.it still thinks it's got a button down. For the next time you light on a button. It's going to turn that one on. [...] I guess some people have heard enough complaints about what Jaws does, as the most screen readers do.but they straighten that problem out, and I don't know how to do that, but that it's it's like, say, I didn't catch it until I sat down and went to my cell phone number, and it was automatically checked." P6
+
 ### **Finding 2**
 
 3 out of 4 Veterans with a claim related to MST did not understand the purpose of the MST notification, and either chose to decline or revoke their previous decision.
