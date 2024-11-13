@@ -6,13 +6,10 @@ labels: platform-orientation, new-vfs-team-member, platform-tech-team-support
 assignees: ''
 ---
 
-## Welcome and introduction
-Welcome to the Department of Veterans Affairs (VA) Veteran Facing Services (VFS) team.
-
-Complete the form and tasks then click create.
+## How to complete this template
+Complete the tasks, then click the create button.
 
 **Note:** this ticket should not be submitted/created until after you receive access to the appropriate repos. You will receive an email titled “USAccess PIV Sponsored” when your access is ready.
-
 
 ## Tasks for everyone
 - [ ] Add your name to the ticket title
