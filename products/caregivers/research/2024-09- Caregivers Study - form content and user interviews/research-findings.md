@@ -4,7 +4,7 @@
 
 Date: November 2024
 
-[Angela Agosto] [angela.agosto@adhocteam.us], [Jessica Stump] [jessica.stump@adhocteam.us]
+[Angela Agosto](angela.agosto@adhocteam.us), [Jessica Stump](jessica.stump@adhocteam.us)
 
 [Research readout](https://docs.google.com/presentation/d/1fTJCUoxGOa7o3UaOfDEiXxKN2XG4wecwfzbZb3UeL28/edit#slide=id.gbf0559dc8d_0_15)
 
