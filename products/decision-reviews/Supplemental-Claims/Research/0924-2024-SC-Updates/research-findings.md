@@ -1,4 +1,4 @@
-# **(WIP) Supplemental Claims \- 2024 Updates Findings**
+# **Supplemental Claims \- 2024 Updates Findings**
 
 Office of the CTO \- Digital Experience (OCTO-DE), Benefits Decision Reviews
 
