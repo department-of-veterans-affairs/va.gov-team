@@ -281,10 +281,11 @@ We talked to two cohorts of research participants. 1 cohort of 5 Veterans using 
 
 ## **Further research needed**
 
-* Evidence gathering and list+loop pattern.
-
-* Determining the types of evidence needed to file a Supplemental Claim
-
+* Evidence gathering and list+loop pattern
 * Digital evidence upload process
+* Determining the types of evidence needed to file a Supplemental Claim
+* Research with Veterans experiencing or at risk of homelessness
+
+
 
 
