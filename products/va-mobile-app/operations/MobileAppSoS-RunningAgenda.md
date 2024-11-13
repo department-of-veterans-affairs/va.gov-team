@@ -23,7 +23,7 @@
 |-------| ---------|
 |13 | 9 |
 
-## 10/30/24
+## 11/13/24
 * **Epics Review**
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
 * **Experience Team Requests Review**
