@@ -249,9 +249,9 @@ Out of 11 participants, 8 tested a flow where they made edits to evidence when t
 
 5. Veterans that went through the non-VA medical records flow felt inclined to give an answer to the limiting consent page when it was not required.
 
-   * P8 caught that he was limiting information and removed it from the evidence summary screen
+   * One Veteran caught that they were limiting information, and removed it from the evidence summary screen.
 
-   * P10 put “no” in the limiting consent box, and did not realize that it was labeled as “added a limitation”
+   * Another Veteran wrote “no” in the limiting consent box, but did not realize that it was labeled as “added a limitation”.
 
 ## **Recommendations**
 
@@ -259,15 +259,17 @@ Out of 11 participants, 8 tested a flow where they made edits to evidence when t
 
 2. Keep the initial MST question and add language to clarify that the question is optional and does not impact the Veteran’s claim.
 
-3. Possibly remove the presumptive conditions alert. It’s clear to Veterans in the form that it covers PACT Act, and the alert was causing unnecessary friction.
+3. Possibly remove the presumptive conditions alert within the form.
+   - It’s clear to Veterans within the introduction of the form that it covers PACT Act. Including the alert mid-form to re-emphasize presumptive conditions causes unnecessary friction, especially for Veterans who use screen readers.
 
-4. Adjust the wording around types of facilities to clarify the meaning.
+5. Adjust the wording around types of facilities to provide more information and clarity.
 
-5. Adjust the visual design around the memorable date hint.
+6. Adjust the hint for the optional memorable date.
 
-6. Revisit the list-and-loop pattern to create a clearer editing flow.
+7. Adjust the limiting consent screen to either make clearer that not providing input is an option, or position question to de-emphasize input.
 
-   1. Adjust the add new evidence link to clarify that it will also bring them back in the flow, which edits their information
+8. Revisit the list-and-loop pattern to create a clearer editing flow.
+   - Adjust the add new evidence link to clarify that it will also bring them back in the flow, which edits their information
 
 ## **Next Steps**
 
