@@ -1,11 +1,14 @@
-# IA Design for [Product/page name]
-**STATUS: [In progress/In review/Complete]**
+# IA Design for Reimbursement rates - WEAMS Public data migration
+**STATUS: [In progress]**
 
-**Team:** [Team name]
+- **Team:** EDM
+- **PM:** Cassidy Beach
+- **Designer:** Sneha Kulkarni
+- **CAIA IA:** Sam Walker
+  
+**[CAIA Intake ticket: 92369](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92369)**
 
-**CAIA Intake ticket:**
-
-**IA Tracker:** 
+**[IA Tracker:95208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95208)** 
 
 **On this page:**
 - [User/page flows](#flows)
