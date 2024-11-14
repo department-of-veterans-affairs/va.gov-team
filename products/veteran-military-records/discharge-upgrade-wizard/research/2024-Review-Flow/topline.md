@@ -37,7 +37,7 @@ We talked to 10 Veterans.
 
 **Most participants understand the updated review page and how it relates to the questions they answered.**
 - Most participants didn't comment on updated answers on the review screen and continued to the results page with no questions.
-- Four participants noticed the alert on the review page that their answer was saved.
+- Four participants noticed the alert on the review page that their answer was updated.
 
 **Some participants found the questions confusing or lacking information.**
 - Two participants wanted to select multiple reasons for changing discharge paperwork.
