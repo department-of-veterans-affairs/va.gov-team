@@ -16,10 +16,10 @@ We need to update sign-in, ID-verification, and Cerner-OH routing alerts on all 
 Timeline: updates must be shipped by mid-December 2024
 
 Tasks
-- [ ] Update initial sign-in widgets on the pages listed above (under "affected pages") to match new VADS versions
-- [ ] Update ID-verification alerts on those same pages to match new VADS versions
+- [ ] Update initial sign-in widgets on the pages listed above (under "affected pages") to match [new VADS versions](https://design.va.gov/components/alert/alert-sign-in/)
+- [ ] Update ID-verification alerts on those same pages to match [new VADS versions](https://design.va.gov/components/alert/alert-sign-in/)
 - [ ] Remove OH/Cerner routing alerts for appointments unauth page
-- [ ] Ensure OH/Cerner routing alerts are in place on unauth pages for Secure messages, Medications, and Medical Records 
+- [ ] Ensure OH/Cerner routing alerts are in place on unauth pages for Secure messages, Medications, and Medical Records - _these alerts will need to be updated to reflect recent guidance and suggestions from the governance team that was given to the appointments team. Cartography will create an abstracted version of this alert as a template to follow._
 
 **Note:** _These updates should align with updates to health care URLs on the My VA page. But updates to URLs on benefit hub pages will not take place until the second quarter of 2025. See Phase 2 plan below._
 
