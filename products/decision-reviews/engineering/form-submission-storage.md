@@ -26,7 +26,7 @@ Once these records are stored, several hourly jobs fetch the latest form status 
 * [DecisionReview::SavedClaimNodStatusUpdaterJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/decision_review/saved_claim_nod_status_updater_job.rb)
 * [DecisionReview::SavedClaimScStatusUpdaterJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/decision_review/saved_claim_sc_status_updater_job.rb)
 
-When a form has moved to the final success state (`complete`), a timestamp is set (`delete_date`) to schedule the future deletion of the record.
+When a form has moved to the final success state (`complete`) along with all of the associated evidence (`vbms`), a timestamp is set (`delete_date`) to schedule the future deletion of the record.
 
 Another scheduled job [DecisionReview::DeleteSavedClaimRecordsJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/decision_review/delete_saved_claim_records_job.rb) checks for any records that has a `delete_date` in the past and deletes them from the database.
 
