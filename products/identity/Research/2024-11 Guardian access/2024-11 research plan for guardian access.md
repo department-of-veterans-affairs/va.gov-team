@@ -2,7 +2,7 @@
 
 ## **Background**
 
-Court Appointed Guardians are legally designated individuals responsible for managing the care or personal affairs of Veterans who are unable to do so for themselves due to incapacity or disability. We are looking at both short-term and long-term solutions to enable guardian access to VA services on behalf of veterans
+Court Appointed Guardians are legally designated individuals responsible for managing the care or personal affairs of Veterans who are unable to do so for themselves due to incapacity or disability. We are looking at both short-term and long-term solutions to enable guardian access to VA services on behalf of Veterans
 
 * [product info](https://docs.google.com/document/d/123ZPnTLfpjIOn3nFoOeMW5LGo5c7nKUA_HEF6m6dOqo/edit?tab=t.0#heading=h.z7tap4bgvhyp)
 
@@ -13,37 +13,37 @@ Court Appointed Guardians are legally designated individuals responsible for man
 
 ### **Veteran Journey**
 
-Securely accessing VA online services on behalf of a veteran that isn’t oneself can happen at any stage in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf). But may be most likely to initiate in “starting up,” “taking care of myself,” and “aging.” The updated Sign-in page and modal will apply to everyone who signs into VA online and uses the authenticated experience.
+Securely accessing VA online services on behalf of a Veteran that isn’t oneself can happen at any stage in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf). But may be most likely to initiate in “starting up,” “taking care of myself,” and “aging.” The updated Sign-in page and modal will apply to everyone who signs into VA online and uses the authenticated experience.
 
 ## **Research Goals**
 
-* Discover how delegates access VA.gov on behalf of veterans  
+* Discover how delegates access VA.gov on behalf of Veterans  
   * Specifically interested in court appointed guardians user group, their needs and hurdles  
 * Explore how folks might be interested in interacting with audit logs  
 * Answer questions about and otherwise verify our understanding of the complete user journey
 
 **Outcome**  
-Learn about the process of how guardians gain access to veteran’s VA account and information. The focus is anything from the point of being appointed by a court through acting on behalf of a veteran for VA business and though no longer being a guardian for a veteran
+Learn about the process of how guardians gain access to Veteran’s VA account and information. The focus is anything from the point of being appointed by a court through acting on behalf of a Veteran for VA business and though no longer being a guardian for a Veteran
 
 ### **Research questions**
 
-- How do guardians get connected to a veteran through the VA after being court appointed?  
-- How do guardians learn about how to sign into a veteran’s account whom they are guardian over?  
-- What is the process for deregistering as a guardian for a veteran with the VA?  
+- How do guardians get connected to a Veteran through the VA after being court appointed?  
+- How do guardians learn about how to sign into a Veteran’s account whom they are guardian over?  
+- What is the process for deregistering as a guardian for a Veteran with the VA?  
 - When delegate users who can sign in on behalf of someone else instead sign into their personal account, would they want to see only their personal activity log or also the log of actions they do on behalf of others?  
 - 
 
 ### **Hypotheses**
 
-- H1: After being appointed by a court, a guardian must file paperwork with the VA in order to act on behalf of a veteran for VA business  
-- H2: Someone at the VA explains to a new guardian the process of how to interact with the VA to conduct business on behalf of a veteran  
+- H1: After being appointed by a court, a guardian must file paperwork with the VA in order to act on behalf of a Veteran for VA business  
+- H2: Someone at the VA explains to a new guardian the process of how to interact with the VA to conduct business on behalf of a Veteran  
 - H3: 
 
 ## **Methodology**
 
 Interview VA personnel who help establish guardian access
 
-Interview guardians who have or have had guardian access over a veteran
+Interview guardians who have or have had guardian access over a Veteran
 
 ### **Research materials**
 
@@ -74,7 +74,7 @@ All participants:
 In addition our primary product criteria includes:
 
 * Must be a VA employee  
-* Must be in a position where they help guardians who are working on behalf of veterans
+* Must be in a position where they help guardians who are working on behalf of Veterans
 
 #### **Cohort 2: 6 guardians for at least 5 completed sessions**
 
@@ -89,19 +89,19 @@ All participants:
 
 In addition our primary product criteria includes:
 
-* Must be some type of Guardian or caregiver in charge of a veterans health and/or financials  
+* Must be some type of Guardian or caregiver in charge of a Veterans health and/or financials  
 * Preference to Court appointed guardians
 
 ### **Screener questions**
 
 Cohort 1 screener questions:
 
-1. Do you ever help court appointed guardians gain access to a veteran’s VA account?
+1. Do you ever help court appointed guardians gain access to a Veteran’s VA account?
 
 Cohort 2 screener questions:
 
-1. Have you been legally appointed as a guardian over a veteran’s health or financials?  
-2. Do you manage or help a veteran manage their health or finances?
+1. Have you been legally appointed as a guardian over a Veteran’s health or financials?  
+2. Do you manage or help a Veteran manage their health or finances?
 
 ## **Timeline**
 
