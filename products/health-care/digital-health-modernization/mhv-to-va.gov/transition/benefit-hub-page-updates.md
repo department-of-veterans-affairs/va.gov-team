@@ -26,7 +26,10 @@ Tasks
 ## Phase 2 updates: 
 Timeline: updates should be made between Feb-Mar 2025
 
-- [ ] Update content on pages to match names of tools as they are used in My HealtheVet on VA.gov & better speak to the new experience 
+- [ ] Update content on pages to match names of tools as they are used in My HealtheVet on VA.gov & better speak to the new experience
+  * Secure messaging --> secure messages
+  * Health records --> medical records
+  * Pharmacy --> medications
 - [ ] Consolidate the two medical records pages into one
 - [ ] Remove Cerner/OH routing alerts from medications, secure messages, and Medical records unauth pages
 - [ ] Update the links to My HealtheVet (that are revealed behind Sign-in and ID-verification widgets) to point to the new My HealtheVet on VA.gov tools.
