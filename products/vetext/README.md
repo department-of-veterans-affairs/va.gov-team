@@ -53,6 +53,7 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 **Michael Olasin** | Oddball | Software Engineer
 **Marian Lumba** | Oddball | Software Engineer
 **Sarit Das** | Oddball | Software Engineer
+**Chris Murphy** | Oddball | Software Engineer
 **Chris Horton** | Oddball | Senior Product Manager
 **Jeremy Britt** | Oddball | Senior DevOps Engineer
 **Andrew Fattorusso** | Oddball | DevOps Engineer
