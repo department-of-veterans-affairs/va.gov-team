@@ -30,14 +30,13 @@ Learn about the process of how guardians gain access to Veteran’s VA account a
 - How do guardians get connected to a Veteran through the VA after being court appointed?  
 - How do guardians learn about how to sign into a Veteran’s account whom they are guardian over?  
 - What is the process for deregistering as a guardian for a Veteran with the VA?  
-- When delegate users who can sign in on behalf of someone else instead sign into their personal account, would they want to see only their personal activity log or also the log of actions they do on behalf of others?  
-- 
+- What are delegate users’ needs and expectations around audit logs?
 
 ### **Hypotheses**
 
 - H1: After being appointed by a court, a guardian must file paperwork with the VA in order to act on behalf of a Veteran for VA business  
 - H2: Someone at the VA explains to a new guardian the process of how to interact with the VA to conduct business on behalf of a Veteran  
-- H3: 
+- H3: Guardians with new guardianship over a Veteran without an MHV account are being told they aren’t eligible to access benefits online for the Veteran they’re responsible for.
 
 ## **Methodology**
 
@@ -161,8 +160,8 @@ Plan for the week of ##
   * [clayton.zook@oddball.io](mailto:clayton.zook@oddball.io)  
   * [charlye@bluetiger.digital](mailto:charlye@bluetiger.digital)  
   * [megan@bluetiger.digital](mailto:megan@bluetiger.digital)	  
-  * samara.strauss@va.gov  
-  * [thomas.black2@va.gov](mailto:thomas.black2@va.gov)  
+  * samara.strauss@  
+  * thomas.black2@  
   * joelle.wells@oddball.io
 
     
