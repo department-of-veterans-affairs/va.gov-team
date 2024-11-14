@@ -1,4 +1,4 @@
-# Research Plan for [Public Websites, Discharge Upgrade Wizard, October 2024]
+# Research Plan for Public Websites, Discharge Upgrade Wizard, October 2024
 ## Background
 The Discharge Upgrade Wizard is part of the unauthenticated experience and uses a [wizard pattern](https://design.va.gov/patterns/wizards) to guide Veterans through an optimized series of questions based on their circumstances. The wizard pattern has been deprecated by the Design System team and is being updated to the recommended [sub task pattern](https://design.va.gov/patterns/help-users-to/complete-a-sub-task). This pattern allows Veterans to check and edit their answers at the end of the flow. We’re enhancing the current edit flow to account for the branching logic in this wizard and help Veterans understand why they may need to answer more questions after editing an answer.
 
@@ -162,6 +162,7 @@ session.
 
 ### Research sessions
 - Planned dates of research: Oct 22 - Nov 1, 2024
+- Update: This research ran from Oct 22 - Nov 7, 2024
 
 ### Length of sessions
 - Session length: 1 hour
@@ -194,7 +195,7 @@ Please list the people who will be serving in each role.
 - Participant(s) for pilot test: Bryan Thompson and Sarah Koomson
 - Accessibility specialist (for sessions where support for assistive technology may be needed): Laura Flannery (laura.flannery@civicactions.com)
 - Note-takers: Perigean
-- Observers: TBD
+- Observers: Will need to sign up so we can limit the number of observers per session, and Jordan will add them to the invites that she receives from Perigean. The Sitewide and Veteran Facing Forms teams have been invited to observe. 
 
 ## Approvals
 - Amanda Klausmeier (VA UX lead) on October 8, 2024
