@@ -50,7 +50,7 @@ Summary: other ways the account creation process differed between CSPs.
 
 ## All findings
 
-[Link to all detailed findings](https://www.figma.com/design/kjhHcpanHjaEGPcT7Oe5uC/User-flows-for-modern-CSP-account-creation?node-id=30-471&t=ffMhAEMmIpX7wHbh-4).
+[Link to all detailed findings](https://www.figma.com/design/kjhHcpanHjaEGPcT7Oe5uC/User-flows-for-modern-CSP-account-creation?node-id=30-457&t=nGBolF7UdIem4LOC-4).
 
 # Next steps
 
