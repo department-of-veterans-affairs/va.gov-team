@@ -35,3 +35,5 @@ Timeline: updates should be made between Feb-Mar 2025
   * Medical records - needs to point to: `va.gov/my-health/medical-records/`
  
 
+## Notes
+* 11/14/2024 - We initially wanted to remove OH/Cerner routing alerts for all of the "big four" tools during Phase 1, but realized that since 3/4 of them still link back to the national portal (all except for appointments), this would mean routing many users of the My VA Health portal back to the MHV Classic portal first before they see the correct routing links. Instead, we have decided to remove OH/Cerner routing alerts from the appointments page only in Phase 1 - since that page already prioritizes the MHV on VA.gov version. The rest will be addressed in Phase 2. 
