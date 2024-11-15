@@ -61,8 +61,6 @@ We conducted remote moderated usability testing over Zoom from October 22-Novemb
    - MOSTLY TRUE: Most participants understood the purpose of the results page and the information it provided. One participant expressed that the information on the page was very general and not specific to the discharge upgrade reason they gave.
 5. Veterans will find the content of the questions relevant to their understanding of a Discharge Upgrade and how it applies to them.
    - MOSTLY TRUE: Most participants didn't comment on the questions or felt that they were clear. Some participants found a couple of the questions confusing or lacking information.
-  
----TBD---
 
 ## Key Findings
 
@@ -110,14 +108,14 @@ Labels: label 1, label 2
 - Most participants didn't comment on additional questions being asked, but were able to edit questions with ease.
 - Four participants noticed the alert on question pages that indicated more may be asked.
 
-> "So it does say here, 'changing your answer may lead to new set of questions', which would be no problem."
+> "So it does say here, 'changing your answer may lead to new set of questions', which would be no problem." (p5)
 
 ![Screenshot 2024-11-15 at 1 19 18 PM](https://github.com/user-attachments/assets/5c520e40-a3f9-4567-8d0e-383559b7f40b)
 
 When selecting an answer to edit on the review screen, this alert will appear on any the intial question. New questions that show after selecting Continue don't have this alert. Only one participant opened this alert to reveal additional text that read "If you change your answer to this question, you may be asked for more information to ensure that we provide you with the best results."
 
 Most participants were asked to edit the answers to the two questions described in Finding 1. Editing the answers caused 1-3 additional questions to appear in the flow. 
-- Three participants commented on having to answer additional questions. 
+- Three participants noticed they had to answer additional questions. 
 - One participant noticed that they were being asked the "Did you complete a period of service in which your character of service was Honorable or General Under Honorable Conditions?" question that appears at the end of the flow again. 
 
 > "It goes back to one of the questions we answered. I guess that changed the whole outcome of it." (p5)
@@ -125,8 +123,6 @@ Most participants were asked to edit the answers to the two questions described 
 **3. Most participants understand the updated review page and how it relates to the questions they answered.**
 
 Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 - Most participants didn't comment on updated answers on the review screen and continued to the results page with no questions.
 - Four participants noticed the alert on the review page that their answer was updated.
@@ -144,10 +140,78 @@ _List all labels that apply to this finding from the [research repository label 
 
 This alert appears on the review screen after an answer has been edited. Although four participants noticed this alert, none of them opened it to reveal additional text. 
 
+**4. Some participants found the questions confusing or lacking information.**
+
+Labels: label 1, label 2 
+
+- Two participants wanted to select multiple reasons for changing discharge paperwork.
+- Three participants were confused by the prior service question.
+
+> "So I wanted to put that, but also put this right here, but it only lets me choose one. That's kind of frustrating." (p6)
+
+> "There were three different things why I had requested to upgrade. So I guess I would have to make the distinction of what I felt was most important. But if I picked the wrong one, then maybe that process would have been delayed even longer or might not have gone through." (p10)
+
+> "I might try to get help for somebody to explain [prior service question] to me" (p5)
+
+![Screenshot 2024-11-15 at 3 32 15 PM](https://github.com/user-attachments/assets/b8509cd0-d9de-451b-aca1-1d93d7b1f60f)
+
+Two participants wanted to select multiple responses to this question. One of the participants remembered being able to select multiple reasons on the form when they had applied for a discharge upgrade in the past and was confused why they couldn't select multiple reasons now. 
+
+![Screenshot 2024-11-15 at 3 31 35 PM](https://github.com/user-attachments/assets/ab429c62-35eb-45b4-ba32-1f08ae2063d1)
+
+Three participants found this question confusing. One of those participants pointed out that they previously had a character of service that was General Under Honorable Conditions. They noticed the word "general" in the question, but became confused when they didn't see the word in any of the answers. The other two participants found the wording confusing in general, but did were able to answer the question. 
+
+**5. Some participants commented on the results screen content.**
+
+Labels: label 1, label 2 
+
+- Three participants said there was too much content on the page.
+- Two participants said they wanted more info on buddy statements.
+- One participant expressed that the info on the page was very general and not specific to the discharge upgrade reason they gave.
+
+> "It's a lot to take in." (p12)
+
+> "It's a long page, so maybe if there was a way to collapse more of the page to bring it down. it can kind of be a word wall without that ability to collapse it." (p14)
+
+> "I would print this page just for my information." (p11)
+
+Three participants said there was too much content on the page. 
+- One participant used a screen reader (Speechify) to help break down the content on the page and reduce the cognitive load. This participant only used the screen reader on the start and results screens. They didn't need to use it on the question or review screens, indicating that the content on those pages wasn't overwhelming.
+- Four participants said their next step would be to print out the page. This could indicate that there is too much information to digest at once. 
+
+![Screenshot 2024-11-15 at 4 51 38 PM](https://github.com/user-attachments/assets/1ca62f3f-50c8-4bbc-b78f-1f4784b1968b)
+
+> "I know for a fact that buddy statements carry a lot of weight. I know that because I had couple with my disability claim. They carry a lot of weight but it doesn't really say that in here." (p3)
+
+Two participants said they wanted more info on buddy statements. 
+- One participant wanted examples of written buddy statements and an estimate of how many were needed.
+- One participant wanted more emphasis on how improtant buddy statements are. 
+
+One participant expressed that the info on the page was very general and not specific to the discharge upgrade reason they gave.
+
+> "I guess it's helpful if you're starting out at square one and have no idea what you're doing. By this point, most Veterans, at least most Veterans who are under the age of 50, have already visisted online forums or went to their local VFW or American Legion and have already got direction and paperwork from someone else that does this for them." (p3)
+
+---TBD---
+
+**6. Some participants wanted a different submission process.**
+
+Labels: label 1, label 2 
+
+- Three participants wanted to submit their form online instead of mailing it in.
+- Three participants said the form would be difficult to fill out. One participant expressed frustration that the answers they gave in the wizard didn't help fill out the form.
+- Three paricipants would like more communication about the process after submitting their form.
+
+> "This would be a lot of work."
+
+> "It's too bad that you can't do it online." (p4)
+
+> "Most vets don't trust the mail. There's been too many things getting messed up in the mail for us." (p3)
+
+
+
 ## Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
 
 ## Recommendations
 
