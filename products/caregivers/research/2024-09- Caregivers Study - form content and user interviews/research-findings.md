@@ -261,7 +261,7 @@ Issues were observed on some browsers/devices with the autofill browser function
 **Supporting video:**
 
 
-**Secondary Finding 2: The county field was mostly answered correctly by most Veterans and Caregivers.**
+**Secondary Finding 2: The county field was answered correctly by most Veterans and Caregivers.**
 
 Labels: DSC: Address block, DSP: Ask users for addresses
 
