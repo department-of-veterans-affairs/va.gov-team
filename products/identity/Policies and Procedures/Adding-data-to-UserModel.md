@@ -4,7 +4,7 @@
 To maintain a scalable, efficient, and maintainable architecture, this policy outlines guidelines for handling user data. Specifically, it aims to prevent unnecessary additions to the UserModel by promoting the creation of new endpoints and tables.
 
 ## Scope
-This policy applies to all engineers working in the UserModel in vets-api
+This policy applies to all current and future solutions working in the UserModel of vets-api
 
 ## Principles
 
