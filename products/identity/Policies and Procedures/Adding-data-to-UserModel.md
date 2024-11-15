@@ -32,7 +32,7 @@ Exceptions will be made on a case-by-case basis by OCTO Identity team that meets
 The consequences of not adhering to the following policy has the potential to increase maintenance complexity (technical debt), increase attack surface (reduced security posture), and/or reduce system efficiency (performance).
 
 ## Review and Revision
-This policy will be reviewed and revised annually or as needed by an OCTO Identity Team Lead.
+This policy will be reviewed and revised annually or as needed by an OCTO Identity Team.
 
 ## Approval:
 Approved by [Name], [Title], [Date]
