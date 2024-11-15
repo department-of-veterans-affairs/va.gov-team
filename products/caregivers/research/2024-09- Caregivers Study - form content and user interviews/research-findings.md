@@ -121,34 +121,124 @@ Out of 21 total participants:
 > _P12: "I tell you, they keep that Caregivers program a big secret. Anyone you ask they say 'go see this person, go see that person.'"_ <br>
 
 
+**Finding 2: Veterans and Caregivers had mixed comfortability with and ease of signing the form.**
 
-**Finding 2**
+Labels: DSP: Form feedback; DSP: Ask users for signature 
 
-Labels: label 1, label 2 
+Veterans and Caregivers were somewhat split on whether they feel comfortable signing the 10-10CG without all parties present, and many participants struggled to sign the form without errors. Caregivers were more comfortable with completing the form alone than Veterans.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+* 4 out of 13 Caregivers and 5 out of 8 Veterans were not comfortable or unsure of signing for people not physically present.
+* 7 Caregivers and 2 Veterans expressed that they would pause to contact the people they were signing the form for or wait until they could be present, and 2 participants specifically mentioned wanting to save the form and come back to it.
+* 5 Caregivers and 2 Veterans got errors when signing the form because what they typed didn't perfectly match the names they entered in the form. For some this was very difficult to correct and trying to determine what was missing was sometimes just a period or a space.
 
-Brief description
+**Supporting behaviors:**
 
-> _Supporting data: Quote here_
+* P7 had trouble signing the form because of discrepancies in upper case and lower case letter and the suffix needed to be exact.
+  
+* P31 was on mobile and got an error in the signature fields because there was an extra space at the end of two of the signatures. They tried to go back and fix it according to the errors and ultimately weren’t able to get the errors to go away. They said “Okay, I’m stuck.” They tried to refresh the page thinking it was a system issue. It was not clear that the extra space at the end of the names was causing the errors.
 
-> _Supporting data: Quote here_
+**Supporting visual:**
+
+![Screenshot 2024-11-13 at 12 50 04 PM](https://github.com/user-attachments/assets/1dc060ee-3c68-4b05-a909-67c250d9f3be)
+
+**Supporting quotes:**
+
+> _P5: "Oh - he needs to be here now." [When participant saw that the secondary caregiver needs to sign the review page]_ <br>
+
+> _P6: "I don't like this to be honest because anybody could put this information in."_ <br>
+
+> _P34: "It's kind of like with government stuff, you wanna be careful that you're not getting yourself in trouble by doing something and swearing that you're the one that did it." "...Here I would've like to have said it's not the Veteran that's filling it out." [Did not have any documents listed to sign as legal rep]_ <br>
 
 
-**Finding 3**
+**Finding 3: Users said content was “just enough” but called out items that needed more clarification.**
 
-Labels: label 1, label 2 
+Labels: TREND: Content, SPG: Blind/Visually Impaired
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+At the end of the study, we asked participants if they felt the amount of information in the form was “too little", "too much," or "just enough." 
 
-Brief description
+* While 10 out of 13 Caregivers and 6 out of 8 Veterans said the form contained "just enough" information, 14 participants expressed wanting more information about the program and/or primary and secondary caregiver benefits throughout the sessions.
+* 9 participants were confused about the requirements and benefits of secondary caregivers in particular.
+* 3 participants expressed confusion and/or wanting to know more about the stipend aspect of the caregiver program.
+* Both AT participants expressed confusion about ADLs (activities of daily living) and concern that blindness was not listed as an ADL.
 
-> _Supporting data: Quote here_
+**Supporting quotes:**
 
-> _Supporting data: Quote here_
+> _P5: "I'm not gonna apply for a program where I'm gonna get $20 a month."_ <br>
+
+> _P27: "I would hope that the program itself was equitable across the board. In the past, the caregiver program wasn't equitable to the blind. The standards that they were using were standards for sighted people, and not for blind people. They didn't make any distinctions. For example, they ask if you can put food in your mouth, and in case of fire, can you find your way out? Things like that and that's not a question that you would be asking a blind person."_ <br>
+
+> _P22: “I’d be stressed about those two items [facility + secondary caregiver]. It would definitely agitate my stress level. There's no way I'd be submitting this form right now. I'd be clicking the back button and looking for that Need Help thing."_ <br>
+
+**Finding 4: The facility search functionality was difficult and confusing for some users.**
+
+Labels: DSP: Ask users for a single response, DSP: Show more options, PRDT: Facilities
+
+We specifically wanted to test the new facility search functionality in this study. This allows users to type in a zip code, state, city, or facility name and instructs them to select a facility from a list that populates from the search. 
+Both Caregivers and Veterans struggled with the search functionality and results. The search button click was often skipped (continue button clicked instead) resulting in errors and the user not understanding why. The search results themselves were also confusing when addresses and facility names did not meet expectations.
+
+* 6 out of 13 caregivers were confused by the facility search results they were provided and expressed that they weren’t what they expected and/or they weren’t initially able to find their facility in the list.
+* 4 of 8 Veterans had issues with missing the search button and not initially loading facility results.
+* All participants seemed to understand that they should enter the facility where the Veteran receives care.
+* The average facility rating by Veterans was 3.75 out of 5 and for Caregivers was 4.33 out of 5.
+* 1 Veteran mentioned the facility could be known based off of Veteran ID/SSN.
+
+**Supporting behaviors:**
+
+* P3: Gets error for city, state zip search and decides to redo search with VHA medical center name. This produces search results.
+
+* P14: When going back to do a new search, they were surprised that it didn't retain their original facility selection.
+
+**Supporting quotes:**
+
+> _P14: "This gives the user more agency but it also makes it harder. A lot of people like my dad would say ‘this is too hard, I’ll just go to Tricare.’"_ <br>
+
+> _P32: [Typed in a zip code and hit the Continue button instead of search and got an error. He was confused.] "I would pause on the application until I find out what's going on with it"._ <br>
+
+> _P26: "If Tampa's not enough information, what the hell do I gotta put there?" [mobile, did not click search button]_ <br>
+
+> _P14: "You are asking for the county to bring a care team to the Veteran right? If you have this information already, you could definitely have...an under-the-hood program here that lists facilities that are in a 50 mile or 100 mile radius of that address I typed in." "You're making me do the work when I just gave you a whole bunch of privacy info about us."_ <br>
+
+**Supporting video clip:**
+
+https://github.com/user-attachments/assets/526e3484-7657-4126-97cd-98f8afaee4e7
+
+**Finding 5: Veterans and Caregivers differ on facilities confirmation page content clarity.**
+
+Labels: PRDT: Facilities
+
+In the facility selection step of the form, if the user selects a facility that doesn’t have caregiver support (which is the case for most VA clinics), then they will see a facility confirmation page after their selection that explains that they will be assigned a nearby facility for caregiver support. The confirmation page lists that facility name and address.
+About half of Caregivers felt the confirmation page needed more scannable explanation or were confused, and all Veterans who arrived at the confirmation page said it was clear and understandable to them.
+
+* 7 of 13 Caregivers some level of confusion on the confirmation page. Some Caregivers thought it wasn’t clearly explained why they would be assigned a different location for caregiver support and most participants didn’t understand the page until reading through every word.
+* 5 of 5 Veterans who got to confirmation page thought it was clear/understandable.
+* 3 of 8 Veterans selected the parent facility and did not see the confirmation page.
+
+**Supporting behaviors:**
+
+* P12: When they got to the facility confirmation screen which showed a different facility for caregiver support since they selected a clinic, they thought they should go back and change the facility to the caregiver support one listed so they did.
+
+* P33: Participant didn’t notice the assigned caregiver support facility at first. He thought it was just a confirmation page. Then when he did read through the page he was very confused if he should go back and change the facility. Ultimately he decided to just continue and see what happened next.
+
+**Supporting quotes:**
+
+**Cohort 1 (Caregivers)**
+
+> _P18: "Now this makes sense, [but] beginning of the caregiver journey I'd have no idea what this means. Knowing what I know, very confusing, [I'd rate it a] 1 [out of 5]."_ <br>
+
+> _P6: "I'm confused now because it populated two different locations."_ <br>
+
+> _P7: "Well I don't really know what to think of that [the assigned caregiver support facility]. I don't believe that's anything I have control over, right? That's an automated, prefilled thing. I just get sent to whoever they decide is gonna be my facility support. I don't really have a choice about that, do I?"_ <br>
+
+> _P14: "You could explain why this is different than the one they selected. An average user would probably say, why are they different? That was my first thought, oh they're different, and then I had to read that paragraph."_ <br>
+
+**Cohort 2 (Veterans)**
+
+> _P32: "The caregiver facility (Lebanon) on the confirmation page is the one I was trying to find anyway." He understands that this location is where they will be supporting the caregivers._ <br>
+
+> _P21: "Yeah, that's good to double check that it's the right clinic." Moves on._ <br>
 
 
-## Additional Insights
+## Secondary Findings
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
