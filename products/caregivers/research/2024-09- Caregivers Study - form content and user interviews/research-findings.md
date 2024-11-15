@@ -289,7 +289,7 @@ The _county_ field was mostly answered easily and correctly by users. However, s
 ![Home address (1)](https://github.com/user-attachments/assets/3a6462c2-846d-48c5-9170-4aadd9fd81bb)
 
 
-**Secondary Finding 3: Not conclusive but users seemed to be fairly clear on whose information they were entering in the form.**
+**Secondary Finding 3: Not conclusive, but users seemed to be fairly clear on whose information they were entering in the form.**
 
 Labels: AUD: Caregivers, AUD: Family member, AUD: Veteran, DSC: Labels, DSP: Ask users for names, TREND: Content
 
@@ -317,7 +317,7 @@ The 10-10CG form requires information from multiple people - the Veteran, the Pr
 ![SSN in name](https://github.com/user-attachments/assets/83fc4d0d-586c-42a1-a09d-874bfb6729ef)
 
 
-**Secondary Finding 4: Automation/pre-fill was requested by some users unprompted.**
+**Secondary Finding 4: Automation/prefill was requested by some users unprompted.**
 
 Labels: DSC: Text input, DSP: Help users know when there info is prefilled
 
@@ -348,7 +348,7 @@ Caregivers expressed some confusion around the documents or process required to 
 
 **Cohort 1 (Caregivers**
 * 7 of 13 Caregivers mentioned some sort of confusion about the Sign as Representative documents needed
-* 7 of 13 Caregivers mentioned the VA forms listed as Sign as Representative documents to upload as a confusion point - they were not sure if they had which VA form or not
+* 7 of 13 Caregivers mentioned the VA forms listed as Sign as Representative documents to upload as a confusion point - they were not familiar with all the VA forms and unsure if they had any of them
 * 6 of 13 Caregivers indicated they have one or more of the documents listed
 * 2 of 13 Caregivers said they would download a VA form and upload at that point in the CG form
 * 2 of 13 Caregivers stated they thought POA was needed to apply for the program
