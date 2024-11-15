@@ -3,26 +3,37 @@ const axiosRetry = require('axios-retry');
 
 const {
   GOV_TEAM_TOKEN,
-  GITHUB_REPOSITORY,
-  PROJECT_NUMBER,
-  ISSUE_TITLE
 } = process.env;
 
-
-const [owner, _] = GITHUB_REPOSITORY.split('/');
-
 const axiosInstance = axios.create({
-  baseURL: 'https://api.github.com/graphql',
+  baseURL: "https://api.github.com/graphql",
   headers: {
     Authorization: `Bearer ${GOV_TEAM_TOKEN}`,
-    'Content-Type': 'application/json'
-  }
+    "Content-Type": "application/json",
+    "GraphQL-Features": "sub_issues",
+  },
 });
 
 axiosRetry(axiosInstance, {
-  retries: 5,
-  retryDelay: axiosRetry.exponentialDelay
-})
+  retries: 5, retryDelay: axiosRetry.exponentialDelay
+});
+
+async function getProjectId2(owner, projectNumber) {
+  const query = `
+    query ProjectID {
+      organization(login: "${owner}"){
+        projectV2(number: ${projectNumber}) {
+          id
+        }
+      }
+    }
+  `;
+
+  const { data: { data: { organization: { projectV2 } } } } = await axiosInstance.post('',
+      { query },
+    )
+  return projectV2.id;
+}
 
 async function getBoardFields(projectId) {
   const query = `
@@ -42,6 +53,13 @@ async function getBoardFields(projectId) {
               ... on ProjectV2IterationField {
                 id
                 name
+                configuration {
+                iterations {
+                  id
+                  title
+                  startDate
+                }
+            }
               }
               ... on ProjectV2Field {
                 id
@@ -80,63 +98,18 @@ async function getBoardFields(projectId) {
   return fields;
 }
 
-async function getPOSyncField(projectId) {
+// like Points, Sprint
+async function getProjectField(projectId, fieldName) {
   const fields = await getBoardFields(projectId);
   for (const field of fields) {
-    if (field.name === 'PO Sync') {
+    if (field.name === fieldName) {
       return field;
     }
   }
-  throw new Error('could not find PO Sync id');
+  throw new Error(`could not find the ${fieldName} id`);
 }
 
-async function updateIssue(projectId, itemId, fieldId, optionId) {
-  const mutation = `
-    mutation UpdateField($projectId: ID!, $itemId: ID!, $fieldId: ID!, $optionId: String!) {
-      updateProjectV2ItemFieldValue(input: {
-        projectId: $projectId,
-        itemId: $itemId,
-        fieldId: $fieldId,
-        value: {
-          singleSelectOptionId: $optionId
-        }
-      }
-    ) {
-      projectV2Item {
-        id
-      }
-    }
-  }`;
-  await axiosInstance.post('',
-    {
-      query: mutation,
-      variables: {
-        projectId,
-        itemId,
-        fieldId,
-        optionId
-      }
-    },
-  );
-}
-
-async function getProjectId2() {
-  const query = `
-    query ProjectID {
-      organization(login: "${owner}"){
-        projectV2(number: ${PROJECT_NUMBER}) {
-          id
-        }
-      }
-    }
-  `;
-
-  const { data: { data: { organization: { projectV2 } } } } = await axiosInstance.post('',
-      { query },
-    )
-  return projectV2.id;
-}
-
+// get all the issues
 async function getProjectItems(projectId) {
   const query = `
     query GetProjectItems($projectId: ID!, $after: String) {
@@ -185,23 +158,47 @@ async function getProjectItems(projectId) {
   return items;
 }
 
+// get a specific issue
 async function getItemId(projectId, title) {
   const items = await getProjectItems(projectId);
   const [{ id }] = items.filter(item => item.content.title === title);
   return id;
 }
 
-async function main() {
-  try {
-    const projectId = await getProjectId2();
-    const { id: fieldId, options} = await getPOSyncField(projectId);
-    const [{id: optionId}] = options.filter(option => option.name === 'Approved');
-    const itemId = await getItemId(projectId, ISSUE_TITLE);
-    await updateIssue(projectId, itemId, fieldId, optionId);
-  } catch (error) {
-    console.log(error);
-    process.exit(1);
-  }
+//update a field value
+async function updateIssue(projectId, itemId, fieldId, optionId, iterationField=false) {
+  const mutation = `
+    mutation UpdateField($projectId: ID!, $itemId: ID!, $fieldId: ID!, $optionId: String!) {
+      updateProjectV2ItemFieldValue(input: {
+        projectId: $projectId,
+        itemId: $itemId,
+        fieldId: $fieldId,
+        value: {
+          ${iterationField ? 'iterationId' : 'singleSelectOptionId'}: $optionId
+        }
+      }
+    ) {
+      projectV2Item {
+        id
+      }
+    }
+  }`;
+  await axiosInstance.post('',
+    {
+      query: mutation,
+      variables: {
+        projectId,
+        itemId,
+        fieldId,
+        optionId
+      }
+    },
+  );
 }
 
-main();
+module.exports  = {
+  getProjectId2,
+  getProjectField,
+  getItemId,
+  updateIssue
+}
