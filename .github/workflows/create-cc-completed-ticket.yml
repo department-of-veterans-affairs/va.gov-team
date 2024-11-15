@@ -22,7 +22,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '18'
+          node-version: '22'
 
       - name: Install dependencies
         run: |
@@ -30,10 +30,9 @@ jobs:
 
       - name: Run  script
         env:
-          ZENHUB_API_KEY: ${{ secrets.ZENHUB_API_KEY }}
-          GOV_TEAM_BOARD_ID: ${{ secrets.GOV_TEAM_BOARD_ID }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GOV_TEAM_TOKEN: ${{ secrets.GOV_TEAM_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           EVENT_LABEL: ${{ github.event.label.name }}
+          GOV_TEAM_PROJECT_BOARD_NUMBER: 1491
 
-        run: node ./scripts/github-actions/create-cc-completed-ticket.js
+        run: node ./scripts/github-actions/gov-team/create-cc-completed-ticket.js

@@ -19,7 +19,7 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '20'
+        node-version: '22'
 
     - name: Install dependencies
       run: |
@@ -31,4 +31,4 @@ jobs:
         PROJECT_NUMBER: 998
         ISSUE_TITLE: ${{ github.event.issue.title }}
 
-      run: node ./scripts/github-actions/po-sync.js
+      run: node ./scripts/github-actions/gov-team/po-sync.js
