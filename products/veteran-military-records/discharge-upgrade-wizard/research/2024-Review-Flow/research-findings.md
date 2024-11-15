@@ -66,71 +66,83 @@ We conducted remote moderated usability testing over Zoom from October 22-Novemb
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. All participants were able to navigate the edit flow.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
+2. Most participants understand that they may be asked to answer additional questions.
 
-1. Finding one
+3. Most participants understand the updated review page and how it relates to the questions they answered.
 
-2. Finding two
+4. Some participants found the questions confusing or lacking information.
 
-3. Finding three
+5. Some participants commented on the amount of content on the results page.
 
-4. Finding four
+6. Some participants wanted an alternative submission process.
 
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
-
+7. Some participants wanted clearer information on the results page.
 
 ## Details of Findings 
 
 _For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
 
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+**1. All participants were able to navigate the edit flow.**
 
+Labels: label 1, label 2 
 
-**Finding 1**
+- All participants were able to edit questions with no difficulty.
+- All participants understood how to navigate the Back/Continue button functionality when editing answers.
+- Three participants weren't asked to complete the task where they needed to use the Back button after editing an answer, but had no difficulty navigating the wizard in general.
+
+> "That's super easy." (p11)
+
+> "It’s worded very well and like I said, you click on a page and it's not just a bunch of questions all clumped together. There's a section and then you click continue and so on and so forth. Then, like you showed me with the review, you can click back and fix your answers if they were wrong. So things very good." (p4)
+
+Most participants were asked to edit the answers to two questions. 
+- The first task asked participants to edit their year of discharge to 2009. Editing the year to 2009 reveals one new, additional question asking their month of discharge. All participants were able to complete this task.
+     - One participant had already selected 2009 when answering the question the first time. This participant was asked to edit their year of discharge to 2010. They didn't comment on the alert or the month of discharge question no longer showing on the review screen.
+- The second task asked participants to edit their answer to say that they **have** previously applied for and been denied a discharge upgrade for their period of service. Editing this answer reveals 1-3 new, additional questions. During the task, the participant was asked mid-flow to go back to a previous question and change the answer. This tested the Back/Continue button functionality while going through the edit flow. All participants were able to complete this task.
+     - Three participants weren't asked to complete this task due to their answers to other questions in the wizard. Due to branching logic, this changed the amount of questions they saw and the Back button couldn't be tested. However, they had no difficulty navigating the wizard in general.
+
+**2. Most participants understand that they may be asked to answer additional questions.**
+
+Labels: label 1, label 2 
+
+- Most participants didn't comment on additional questions being asked, but were able to edit questions with ease.
+- Four participants noticed the alert on question pages that indicated more may be asked.
+
+> "So it does say here, 'changing your answer may lead to new set of questions', which would be no problem."
+
+![Screenshot 2024-11-15 at 1 19 18 PM](https://github.com/user-attachments/assets/5c520e40-a3f9-4567-8d0e-383559b7f40b)
+
+When selecting an answer to edit on the review screen, this alert will appear on any the intial question. New questions that show after selecting Continue don't have this alert. Only one participant opened this alert to reveal additional text that read "If you change your answer to this question, you may be asked for more information to ensure that we provide you with the best results."
+
+Most participants were asked to edit the answers to the two questions described in Finding 1. Editing the answers caused 1-3 additional questions to appear in the flow. 
+- Three participants commented on having to answer additional questions. 
+- One participant noticed that they were being asked the "Did you complete a period of service in which your character of service was Honorable or General Under Honorable Conditions?" question that appears at the end of the flow again. 
+
+> "It goes back to one of the questions we answered. I guess that changed the whole outcome of it." (p5)
+
+**3. Most participants understand the updated review page and how it relates to the questions they answered.**
 
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+- Most participants didn't comment on updated answers on the review screen and continued to the results page with no questions.
+- Four participants noticed the alert on the review page that their answer was updated.
+- One participant would like to be able to save their answers. 
 
-> _Supporting data: Quote here_
+> After seeing alert on review screen: "See, that answers my question about my information being saved." (p5)
 
-> _Supporting data: Quote here_
+> After seeing alert on review screen: "So that was updated." (p4)
 
+> After screen reader read the alert on the review screen: "It just told me my information was updated." (p7)
 
-**Finding 2**
+> "Will this page be saved? So I can just come back and wouldn't have to do the process over again because that could be frustrating." (p5)
 
-Labels: label 1, label 2 
+![Screenshot 2024-11-15 at 3 04 49 PM](https://github.com/user-attachments/assets/6d3116b6-e2ca-4117-912c-d26be33a7bf9)
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 3**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
+This alert appears on the review screen after an answer has been edited. Although four participants noticed this alert, none of them opened it to reveal additional text. 
 
 ## Additional Insights
 
