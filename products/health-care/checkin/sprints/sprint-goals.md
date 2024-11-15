@@ -21,9 +21,6 @@
     - 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96180)    
 </details>
 
-<details>
-<summary>SPRINT 20 - 11/13/2024-11/26/2024 FUTURE TENTATIVE</summary>
-
 ## SPRINT 20 - 11/13/2024-11/26/2024
 - **Production Support**
     - ❗ 🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96179)
@@ -70,7 +67,6 @@
     - 🟩 [Change Tagalog Content Based on Feedback from SD](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96861)
     - 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96180)
     - 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
-</details>
 
 ## SPRINT 19 - 10/30/2024-11/12/2024
 **NOTE: A lot of tickets rolled over this sprint because of (1) a lot of unknowns & continuous adjusting with CC work, (2) exposure to new code (appointments/VAOS) and (2) travel schedule of OCTO leads that made them unavailable to review**
