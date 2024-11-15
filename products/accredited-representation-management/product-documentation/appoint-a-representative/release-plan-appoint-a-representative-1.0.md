@@ -14,7 +14,6 @@ Feature Toggle:
 #### Technical Preparation
 - [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
 - [ ] Unit tests and E2E tests are complete
-- [ ] QA by Michael + ARM team
 - [ ] Enable backend feature flag `use_veteran_models_for_appoint`
 - [ ] Any third party services ready for use (frontend or backend) ❓
 - [ ] Any lingering issues that are needed to address prior to rollout?
@@ -23,7 +22,7 @@ Feature Toggle:
 - [ ] The react widget has been added to the landing page
 - [ ] Entry points are ready to be redirected to the landing page ❓
 
-#### Go/No Go meeting 3/5/2024 at 12:30p ET
+#### Go/No Go meeting **TBD**
 - [ ] review the release plan with your team.
 - [ ] review the plan with your DEPO/OCTO representative.
 
@@ -55,12 +54,12 @@ While we cannot think of any events that would be critical enough to merit a rol
 ## Staged Rollout Details
 
 - Rollout date range: TBD ❓
-- Limited production access will be controlled through the frontend feature toggle `find_a_representative_enabled` ❓
+- Limited production access to the Appoint a Representative application AND the related entry point on our landing page will be controlled through the frontend feature toggle `find_a_representative_enabled` ❓
 - Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed above)
 
 
 ## Staged Rollout Schedule
-**Go/No Go meeting 3/5/2024 at 12:30p ET**
+**Go/No Go meeting TBD**
 1. Stage A: 10% of users on 3/11 (Monday) ❓
 2. Stage B: 100% of users on 3/13 (Wednesday) + launch best bets for an initial boost to visibility ❓
 3. Stage C: Implement redirects on 3/18 (Monday) for an added boost to visibility ❓
