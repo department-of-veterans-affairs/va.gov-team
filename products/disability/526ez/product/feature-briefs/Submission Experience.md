@@ -123,8 +123,26 @@ Ensure [result] for [persona]
 ## 6.3 Reduce Duplicate Submissions
 TBC
 
-## 6.4 Submission Status on VA.gov
-TBC
+## 6.4 Submission Status on MyVA
+After a Veteran clicks submit, and before the appliation appears in Claim Status Tool Veterans have nowhere on va.gov to view the current status of their application. This creates a gap for the Veteran where they may feel confused or less confident in the submission process, as handled by VA. MyVA and Claims Status Tool are both established touchpoints for Veterans, but today MyVA isn't used as such. Today, if the Veteran visited MyVA while they have a 526 in progress, they would see a "Draft" status in the upper left hand corner of the VA Form 21-526EZ card within the "Benefit Application Drafts" section. However, once the 526 is submitted, the card disappears because the application is no longer in a draft status and there is no MyVA card that appears with an application status listed.
+
+## 6.4.1 Success
+* Veterans have the information they need to get help from the contact center
+* Veterans have greater confidence in the submission process
+* Veterans can find the status of their submission on VA.gov (MyVA)
+
+## 6.6.2 Out of Scope
+* Claim Status Tool 
+
+## 6.4.3 Risks and Challenges
+* MyVA retrieves records from the form_submissions table and, for each form, use the benefits_intake_uuid to retrieve the status via the LH Benefits Intake API
+* MyVA displays a user's list of form submissions along with their statuses on the My VA dashboard page, but MyVA doesn't actively poll for updates
+* MyVA provides application statuses by using the SubmissionStatusesController controller method
+* MyVA shows status for only the forms specified in the controller method
+* 526 is not one of the forms specified in the SubmissionStatusesController controller method, which MyVA owns
+* MyVA plans to add more forms in the future, but the timeline for 526 is unclear
+* Thus, feasibility of displaying an up-to-date submission status on a MyVA card is unclear due to unknown timing of 526 being included in the list of specfied forms
+
 
 ## 6.5 Reduce Submission Burden
 TBC
