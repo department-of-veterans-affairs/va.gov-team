@@ -131,7 +131,7 @@ After a Veteran clicks submit, and before the appliation appears in Claim Status
 * Veterans have greater confidence in the submission process
 * Veterans can find the status of their submission on VA.gov (MyVA)
 
-## 6.6.2 Out of Scope
+## 6.4.2 Out of Scope
 * Claim Status Tool 
 
 ## 6.4.3 Risks and Challenges
@@ -145,7 +145,16 @@ After a Veteran clicks submit, and before the appliation appears in Claim Status
 * The MyVA/Profile team is currently working to understand if changes to MyVA would require DEBX to go through Collaboration Cycle
 * For changes in the near term, MyVA/Profile team would more likely be involved
 * MyVA/Profile team is considering how to enable other teams to develop under their guidance, support for this is a ways off
+* How to handle duplicate submissions are something that we'll need to figure out
+* Form 526 is not saved to the form_submissions table. We can put it in there, but to it will be complicated to retroactively add people's submissions. Perhaps we don't do this.
+* 526 primary path submission do not go to benefits intake api. They go straight to vbms. Only the backup path goes to benefits intake.
 
+## 6.4.4 Possible Solutions
+One approach we could take would be to make an adapter to get the 526 and add it on to the response from the SubmissionStatusesController. We can retrieve status in this way:
+- Primary path: VBMS itself via LH get claim endpoint using its submitted claim id
+- Backup path: Benefits intake api, much like the controller is doing now
+
+We're already using the [Lighthouse Benefits Claims API](https://developer.va.gov/explore/api/benefits-claims/docs?version=current) that returns claim status. Using this would be the easiest route, but it's unclear if this endpoint uses VBMS for status or where status comes from. The documentation reads "A 200 response means that the claim was successfully submitted by the API. It does not mean VA has received the claim." Since we're using the LH synchronous endpoint, this establishes the claim in VBMS right away. We believe the "Pending" status indicates it was recieved and it looks like there is also a "Claim Received" but by nature of us having the the submitted/established claim id from VBMS, we know it was received but it doesn't say if the 526 pdf made it into the Veteran's eFolder.
 
 ## 6.5 Reduce Submission Burden
 TBC
