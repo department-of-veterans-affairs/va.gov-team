@@ -48,4 +48,5 @@ _Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https:
   _Decided by Product Manager Lindsay Li-Smith and confirmed by Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1730138410652169))._
 - **11/7/2024**: Decided that 21-22 POA requests will be stored only on va.gov for our digital submission pilot, and we will re-evaluate what to do after that this winter/spring.\
   _Communicated by Product Owner Jennifer Bertsch ([Slack message]([https://dsva.slack.com/archives/C05L6HSJLHM/p1730138410652169](https://dsva.slack.com/archives/C06ABHUNBRS/p1731014665850609))) and [documented in Sharepoint](https://dvagov.sharepoint.com/sites/vaabdvro/_layouts/15/doc.aspx?sourcedoc={452af769-fcc8-4312-8c52-4623360d31a9}&action=edit)._
-
+- **11/5/2024**: Decided that if Field 19a of the 21-22a form is authorized, we will check the box but leave the open input (to name the organization/firm) blank, for the attorney or claims agent to fill in when they receive the form for signing/submitting. This is because we are unsure of what to fill in and we don't want to enter anything incorrect.\
+  _Decided by Product Manager Lindsay Li-Smith ([Slack message]([https://dsva.slack.com/archives/C05L6HSJLHM/p1731689344772139?thread_ts=1731688117.981769&cid=C05L6HSJLHM)._
