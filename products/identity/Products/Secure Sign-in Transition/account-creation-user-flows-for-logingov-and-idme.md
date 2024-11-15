@@ -35,7 +35,7 @@ This audit documents the user flow for creating a new Login.gov and ID.me accoun
 - The same phone number I used to set up MFA failed to pass identity verification. Volunteers at in-person signup days confirmed through [Login.gov](http://login.gov/) Help Desk:
     - User's name and phone # must typically match public records check
     - If name on [Login.gov](http://login.gov/) account doesn't match phone accountholder doesn't match, it will likely get denied UNLESS user has had the phone for at a minimum 2 years (but sometimes longer).
-    -   Note: in  my case, I've had this phone number for 20 years and it failed to pass.
+        -   Note: in  my case, I've had this phone number for 20 years and it failed to pass.
     - Having multiple lines under varying names can also cause denial in verification.
 - When identity verification isn't successful on Login.gov, users who need to verify in person can do so at their local US Postal Service. To search for USPS locations, users are **required to search with all of the following fields** instead of just address or zip code.
   - Address
