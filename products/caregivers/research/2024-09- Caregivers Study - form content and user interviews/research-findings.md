@@ -538,40 +538,59 @@ Process + Sections of Board
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
-
+* [Staging link for 10-10CG form](https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction)
+* Confirmation page - [Desktop Figma Prototype](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2930-67957&node-type=instance&t=EUUhWg1tjIgVWLwc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A4727&starting-point-node-id=2930%3A67957) and [Mobile Figma Prototype](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2955-74725&node-type=frame&t=tfDFLSTq0UpPFaWA-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A4727&starting-point-node-id=2955%3A74725&show-proto-sidebar=1)
 
 ## Other supporting documents created
 
-e.g. user flows, personas, etc.
+* [Key findings in relation to PCAFC Journey Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726173728303/0cf8beb343b2e2ed0a84d4afc9732e3bf40d3ad0?wid=0-1726175882515)
+* [Pre-research planning + desk research](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721340803913/0adab3113f083b21f225142fa83d28296648e31c)
 
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+* [Post-July 2024 UX Backlog: desk research + opportunity planning](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721340803913/0adab3113f083b21f225142fa83d28296648e31c)
+* Traffic paths + sources prior to EZ intro page (used chart in Datadog)
+    * [https://www.caregiver.va.gov/](https://www.caregiver.va.gov/) | VA Caregiver Support Program
+    * [https://www.caregiver.va.gov/support/support_benefits.asp](https://www.caregiver.va.gov/support/support_benefits.asp) | Program of Comprehensive Assistance for Family Caregivers (PCAFC)
+    * [https://www.caregiver.va.gov/support/new_csc_page.asp](https://www.caregiver.va.gov/support/new_csc_page.asp) | Caregiver Support Program Teams
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+Cohort 1 criteria:
 
-We talked to **x participants.**
+* Must identify role as "caregiver"
+* We aimed to recruit newer caregivers (enrolled in the past year or so) so we had Perigean gather dates of caregiver enrollment and choose the newest caregivers they got responses from.
+* 7 participants who specified that they are enrolled as a caregiver in the Program of Comprehensive Assistance for Family Caregivers (PCAFC). The rest of the participants were a mix of yes or no to that screener question.
+* We'd asked to have some pairs of caregiver + Veteran in the study, but it wasn't a requirement to qualify for the study.
+
+Cohort 2 criteria:
+
+* Must identify role as "Veteran"
+* Must have a disability rating of 70% or higher AND must require some assistance from others to complete daily activities
+* Recruit four assistive tech users - at least two completed AT sessions are needed for this study to be complete
+
+
+We talked to **21 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Pilot: 1 Veteran (cohort 1 convo guide)
+* Cohort 1: 13 Caregivers (9 no shows)
+* Cohort 2: 7 Veterans (4 no shows)
 
+Reported being enrolled in the program: 6 of 13 Caregivers, 2 of 8 Veterans
+
+* Veterans: 13 (cohort 1 also identifying as a Veteran)
+* Caregivers: 13
+* Family members of a Veteran: 8
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 9
+* Female: 11
+* Not on roster/tracker: 1
 
 
 LGBTQ+:
@@ -581,68 +600,76 @@ LGBTQ+:
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 10
+* Tablet: 2
+* Smart phone: 9
+* Assistive Technology: 2
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
+* 25-34: 0
+* 35-44: 3
+* 45-54: 4
+* 55-64: 6
+* 65+: 8
 * Unknown: x
 
 
 Education:
 * High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* Some college (no degree): 5
+* Associate's degree, trade certificate or vocational training: 5
+* Bachelor's degree: 4
+* Master's degree: 3
+* Doctorate degree: 2
+* Unknown: 0
 
 
 Geographic location:
 * Urban: x
 * Rural: x
-* Unknown: x
+* Unknown: 21
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 13
+* Black: 2
+* Hispanic: 2
+* Biracial: 1
+* Asian: 4
+* Native: 0
+* Self-describe/prefer not to answer: 2
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: Unknown
+* AT beginner: 0
+* AT advanced user: 2
+* Desktop screen reader: 1
+* Mobile screen reader: 1
+* Magnification/Zoom: 1
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
+_[VA recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?gid=1351635261#gid=1351635261)_
 
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Unknown for all participants
+    * LGBTQ+
+    * Geographic location/Rural
+    * Cognitive disability
+    * Other than honorable discharge
+    * Immigrant origin
+    * Expat (living abroad)
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+
+* Race: 
+    * Hispanic, Latino, or Spanish origin 
+    * Native, American Indian or Alaskan Native
+
+![Screenshot 2024-11-06 at 7 52 04 AM](https://github.com/user-attachments/assets/6de8b3e4-7050-4da7-a5b9-552617bdce3b)
+
