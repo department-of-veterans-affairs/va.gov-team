@@ -115,7 +115,9 @@ Out of 21 total participants:
 * The majority of participants found information about the caregiver program before applying on VA.gov, through word of mouth from other Veterans and Caregivers, and through their medical providers. The website is the primary place people are looking for a comprehensive description of the program and eligibility criteria.
 
 > _P21: "I would want to know right away if I qualify or not - whether to start the form or not."_ <br>
+
 > _P3: "I don't understand the two different types of programs. There's the paid side and the unpaid side (the general, basic program I'm a part of). I wanted to apply for the stipend side. When I was denied (the stipend) I was confused about it. The only thing I could say about applying is trying to understand EXACTLY what I'm applying for, and make it clear there's two sides to the program."_ <br>
+
 > _P12: "I tell you, they keep that Caregivers program a big secret. Anyone you ask they say 'go see this person, go see that person.'"_ <br>
 
 
