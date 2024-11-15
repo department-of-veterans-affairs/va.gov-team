@@ -142,6 +142,9 @@ After a Veteran clicks submit, and before the appliation appears in Claim Status
 * 526 is not one of the forms specified in the SubmissionStatusesController controller method, which MyVA owns
 * MyVA plans to add more forms in the future, but the timeline for 526 is unclear
 * Thus, feasibility of displaying an up-to-date submission status on a MyVA card is unclear due to unknown timing of 526 being included in the list of specfied forms
+* The MyVA/Profile team is currently working to understand if changes to MyVA would require DEBX to go through Collaboration Cycle
+* For changes in the near term, MyVA/Profile team would more likely be involved
+* MyVA/Profile team is considering how to enable other teams to develop under their guidance, support for this is a ways off
 
 
 ## 6.5 Reduce Submission Burden
