@@ -181,7 +181,7 @@ Hello,
 
 Thank you for agreeing to take part in this VA online research activity.
 
-This activity usually takes about 10-15 minutes to complete. You can start anytime from your smartphone, laptop, or any device with an Internet connection. We'll guide you through each task in the activity.
+This activity usually takes about 15-20 minutes to complete. You can start anytime from your smartphone, laptop, or any device with an Internet connection. We'll guide you through each task in the activity.
 
 We won't share any information or feedback linked to your name or other personal details.
 
