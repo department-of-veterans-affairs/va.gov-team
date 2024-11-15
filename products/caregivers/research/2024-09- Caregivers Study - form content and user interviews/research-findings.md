@@ -102,17 +102,22 @@ We recruited 2 cohorts of participants:
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+**Finding 1: Veterans and Caregivers want more clarity on eligibility and benefits before applying.**
 
-Labels: label 1, label 2 
+Labels: TREND: Content 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Both Veterans and Caregivers expressed confusion and frustration with determining exactly what the caregiver program entails, understanding their eligibility status before applying, and wanting more clarity on the benefits of the program.
 
-Brief description
+Out of 21 total participants:
 
-> _Supporting data: Quote here_
+* 11 participants said they would want to know or would check if they are eligible for the program before completing the form.
+* 10 participants expressed confusion about the caregiver program and what it entails in general.
+* The majority of participants found information about the caregiver program before applying on VA.gov, through word of mouth from other Veterans and Caregivers, and through their medical providers. The website is the primary place people are looking for a comprehensive description of the program and eligibility criteria.
 
-> _Supporting data: Quote here_
+> _P21: "I would want to know right away if I qualify or not - whether to start the form or not."_
+> _P3: "I don't understand the two different types of programs. There's the paid side and the unpaid side (the general, basic program I'm a part of). I wanted to apply for the stipend side. When I was denied (the stipend) I was confused about it. The only thing I could say about applying is trying to understand EXACTLY what I'm applying for, and make it clear there's two sides to the program."_
+> _P12: "I tell you, they keep that Caregivers program a big secret. Anyone you ask they say 'go see this person, go see that person.'"_
+
 
 
 **Finding 2**
