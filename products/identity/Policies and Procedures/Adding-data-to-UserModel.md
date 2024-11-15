@@ -35,7 +35,7 @@ The consequences of not adhering to the following policy has the potential to in
 This policy will be reviewed and revised annually or as needed by an OCTO Identity Team.
 
 ## Approval:
-Approved by [Name], [Title], [Date]
+Approved by Thomas Black, OCTO Identity Product Owner, Nov 2024
 
 ## Version History:
 1.0, 11/15/2024, UserModel policy creation
