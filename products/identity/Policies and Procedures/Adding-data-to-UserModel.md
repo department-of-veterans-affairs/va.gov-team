@@ -22,12 +22,6 @@ Before adding new data to the UserModel the following criteria must be met:
 ### Recommended alternatives
 - Create new endpoints and/or new tables
 
-## Exceptions
-Exceptions will be made on a case-by-case basis by OCTO Identity team that meets the following criteria:
-
-- The feature MUST be time-sensitive OR business-critical
-- The feature MUST be a temporary accomodation
-
 ## Consequences of Non-Adherence
 The consequences of not adhering to the following policy has the potential to increase maintenance complexity (technical debt), increase attack surface (reduced security posture), and/or reduce system efficiency (performance).
 
