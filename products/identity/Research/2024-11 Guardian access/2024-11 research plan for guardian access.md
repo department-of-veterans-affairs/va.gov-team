@@ -29,7 +29,7 @@ Learn about the process of how guardians gain access to Veteran’s VA account a
 
 - How do guardians get connected to a Veteran through the VA after being court appointed?  
 - How do guardians learn about how to sign into a Veteran’s account whom they are guardian over?  
-- What is the process for deregistering as a guardian for a Veteran with the VA?  
+- What is the VA process for deregistering or offboarding as a guardian for a Veteran?  
 - What are delegate users’ needs and expectations around audit logs?
 
 ### **Hypotheses**
