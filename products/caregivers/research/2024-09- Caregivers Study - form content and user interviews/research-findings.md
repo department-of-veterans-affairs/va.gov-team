@@ -98,10 +98,6 @@ We recruited 2 cohorts of participants:
 
 ## Details of Findings 
 
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
 **Finding 1: Veterans and Caregivers want more clarity on eligibility and benefits before applying.**
 
 Labels: TREND: Content 
@@ -240,7 +236,148 @@ About half of Caregivers felt the confirmation page needed more scannable explan
 
 ## Secondary Findings
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+**Secondary Finding 1: Autofill caused issues on some browsers and devices - noted on Apple/Safari.**
+
+Labels: DSC: Address block, DSC: Form controls; DSP: Error messages, DSP: Form feedback
+
+Issues were observed on some browsers/devices with the autofill browser functionality not working as expected. In most situations the form field would show an error as if the field was left blank (along with yellow/blue shading in the form field) and was confusing to users. In one instance, no error was shown and using the browser refresh button, the user reset the form and was sent back to the form introduction page. Users had to type manually or add spaces as a work-around to get the empty state error message to go away. 
+
+* 4 of 8 Veterans tried to use their browser default autofill functionality and had issues.
+* 1 of 13 Caregivers had issues with the autofill and did not see an error (refreshed page to try and correct and ended up starting the form over from the introduction page).
+* 5 of 13 Caregivers successfully used autofill.
+
+**Supporting behaviors:**
+
+* P22: Autofill caused errors to pop up. She had to add a space after each name.
+* P27: Struggled with autofill on the address page and the form would not accept autofilled data. [Safari, desktop - Sequoia OS]
+* P31: No issues with autofill on pulling in family information, like sisters. [Chrome, Mobile, Android]
+
+**Supporting quotes:**
+
+> _P12: Uses browser pre-fill for Veteran's home address - says they "always check to make sure the information pre-fills correctly" (in this case, the state entered incorrectly)_ <br>
+
+> _P32: Used autofill for first name and it throws an error when he tries to continue. Doesn't know why this happened. Using an iPhone and Safari; "I think software is up to date."_ <br>
+
+**Supporting video:**
+
+
+**Secondary Finding 2: The county field was mostly answered correctly by both Veterans and Caregivers.**
+
+Labels: DSC: Address block, DSP: Ask users for addresses
+
+The _county_ field was mostly answered easily and correctly by users. However, some took pause or initially read as country until they read the error message. 
+
+* 11 of 13 Caregivers entered a county correctly.
+* 2 of 13 Caregivers entered USA initially (one with "United state" variation got through, one corrected after error).
+* 7 of 8 Veterans entered county name correctly/easily.
+* 1 of 8 Veterans initially entered USA and received a validation error.
+
+**Supporting behaviors:**
+
+* P22: Entered in county but finds additional info component confusing/distracting.
+* P7: Paused at county but didn't say why, entered county correctly.
+
+
+**Supporting quote:**
+
+> _P5: Opened additional info about county and said "Oh okay this is for me - to connect me with resources to take better care of my spouse."_ <br>
+
+**Supporting visuals:**
+
+![Home address](https://github.com/user-attachments/assets/90cb5746-d0b9-400d-8d82-15128e8d9513)
+
+![Home address (1)](https://github.com/user-attachments/assets/3a6462c2-846d-48c5-9170-4aadd9fd81bb)
+
+
+**Secondary Finding 3: Not conclusive but users seemed to be fairly clear on whose information they were entering in the form.**
+
+Labels: AUD: Caregivers, AUD: Family member, AUD: Veteran, DSC: Labels, DSP: Ask users for names, TREND: Content
+
+The 10-10CG form requires information from multiple people - the Veteran, the Primary Caregiver and up to two Secondary Caregivers - and it was **not conclusive** if the slight confusion observed was due to form usability or due to the option that participants could use fake information during the study. 
+
+
+* 6 of 8 Veterans had no issues with information placement.
+* 1 of 8 Veterans had confusion with SSN placement (put SSN in first name field).
+* 5 of 13 Caregivers mixed up who's information was being asked for/entered at some point in the form - between Veteran to Caregiver. 
+
+**Supporting behavior:**
+
+* P26: Put his SSN in "Veteran's first name" field (got confused by hint text). Then when he got to SSN he said "SSN, I just did that" (entered in first name field previously).
+
+
+**Supporting quotes:**
+
+> _P12: "When they did CHAMPVA, you didn't know who the form was talking about (the spouse or the Veteran). This is much easier. Much more self explanatory."_ <br>
+
+> _P2: "I would repeat myself asking for my information again?" [Enters own info in Veteran step and comment is on Primary Caregiver add step (he reported being a Secondary)]_ <br>
+
+
+**Supporting visual:**
+
+![SSN in name](https://github.com/user-attachments/assets/83fc4d0d-586c-42a1-a09d-874bfb6729ef)
+
+
+**Secondary Finding 4: Automation/pre-fill was requested by some users unprompted.**
+
+Labels: DSC: Text input, DSP: Help users know when there info is prefilled
+
+There were a few instances where users suggested unprompted that the information could be prefilled based off of what was previously entered or known about the Veteran. Caregivers mentioned there is usually a preferred facility for the Veteran already or they make their decision based on what is closest to their address. 
+
+* 1 of 8 Veterans mentioned the county should be prefilled based on address just entered.
+* 1 of 8 Veterans mentioned you should be able to pre fill the Veteran's information based of their Benefit ID.
+* 4 of 13 Caregivers mentioned they would select a facility based on location/proximity to them.
+* 4 of 13 Caregivers stated Veterans already have a preferred facility.
+
+**Supporting behavior:**
+
+* P14: She was annoyed that she had to go off page to find the zip code for the VA facility they always use.
+
+
+**Supporting quotes:**
+
+> _P14: "So you're making me do the work when I just gave you a bunch of privacy info about us." (asking for county and facility after they entered in SSN and address) "It'd be nice if it corresponded to the address that you already entered in the previous step."_ <br>
+
+> _P24: Mentioned the Veteran Benefit ID number (8 numbers), expects it to be on this form. "It is not, it should be. If you have this number, all of this stuff would be pre-loaded."_ <br>
+
+
+**Secondary Finding 5: VA forms listed under the Sign as Representative step caused some confusion with participants.**
+
+Labels: AUD: Caregivers; AUD: Family members; AUD: VSOs
+
+Caregivers expressed some confusion around the documents or process required to sign as representative - and some of those who had a POA stated it might be easier to select the Veteran sign for themselves as they were with them most of the time anyways. Most Veterans stated they would sign for themselves, but two mentioned going through a VSO or that their spouse would need to upload their document when applying.
+
+**Cohort 1 (Caregivers**
+* 7 of 13 Caregivers mentioned some sort of confusion about the Sign as Representative documents needed
+* 7 of 13 Caregivers mentioned the VA forms listed as Sign as Representative documents to upload as a confusion point - they were not sure if they had which VA form or not
+* 6 of 13 Caregivers indicated they have one or more of the documents listed
+* 2 of 13 Caregivers said they would download a VA form and upload at that point in the CG form
+* 2 of 13 Caregivers stated they thought POA was needed to apply for the program
+
+**Cohort 2 (Veterans)**
+* 6 of 8 Veterans would sign for themselves (not POA)
+* 2 of 8 Veterans would go VSO route, or spouse as POA, and they would sign/upload documents
+* 1 of 8 Veterans was confused if a POA was required or not to even apply
+
+**Supporting behavior:**
+
+* P34: Would've looked up the VA forms online and filled them out and signed them and then uploaded that
+
+
+**Supporting quotes:**
+
+> _P33: "I would have to scan all this stuff first." The Alternative Signer Cert seems to be the simplest one to him to sign and upload. [would download, complete, sign and upload a VA form]_<br>
+
+> _P18: As far as documentation...I do have now, I have the power of attorney and I have everything here.You guys aren’t gonna like this but a VSO advised me to sign as the Veteran on the initial application."_<br>
+
+> _P7: I am not the LEGAL representative, I am his VA rep, what does that mean?_<br>
+
+> _P31: "if I had any other forms on the list, I would upload those as well. I like redundancy."_<br>
+
+> _P34: "I'm trying to think what I would've used. I'm in the system as being able to act on his behalf but the legal document I have is power of medical."_<br>
+
+**Supporting visual:**
+
+![Screenshot 2024-11-11 at 11 47 07 AM](https://github.com/user-attachments/assets/2c295531-61b2-46c9-baa1-e7c3c9feae1f)
 
 
 ## Recommendations
