@@ -382,36 +382,158 @@ Caregivers expressed some confusion around the documents or process required to 
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+**Recommendation 1: Revisit content and resource link placement within the form around program definition, eligibility and application process.**
+_Related to: Key Finding 1 + Key Finding 3_
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+The biggest concern users had in usability testing was around eligibility and general program information, but users said the amount of content in the form was just enough. Therefore, we recommend adding links to further information within the form so users who are confused about topics such as eligibility, stipends, caregiver qualifications, and more can get information specific to their concerns where it is most relevant. Some of this detailed information lives outside of VA.gov on external VA sites.
+
+As a result, we plan to:
+* Revisit content updates for the following pages to address eligibility, stipend and caregiver qualifications:
+    * CG form introduction page
+    * Confirmation page
+* Create a content inventory of found existing content/links we would recommend be used on the CG form pages (example: a bullet of content around stipends with a link out to the fact sheet).
+    * Work with CAIA partners to collaboration on getting more of this information onto VA.gov
+* Discuss with stakeholders:
+    * How can we better set expectation for applicants about the program process?
+    * How much information should be provided to help clarify the process without adding more confusion?
+* Include content about roles and who needs to be involved should be on the introduction page before users start the form.
+    * What are VA’s expectations when it comes to filling out and signing the form? Is it okay for people to sign for others or should everyone involved be present?
+    * Call this out in the gather information step: gather people/signers 
+* Break up the Sign as Representative content so it is scannable and addresses that it’s not a requirement - the Veteran can sign for themselves.
+
+**Recommendation 2: Explore updating content to add in clarifying information around secondary caregivers and their benefits.**
+_Related to: Key Finding 1 + Key Finding 2_
+
+Our findings showed general confusion around secondary caregiver definitions and benefits. We would like to explore content updates and explanatory links to provide for users who aren’t familiar with the concept of secondary VA caregivers.
+
+As a result, we plan to:
+* Revisit caregiver clarification epic (in backlog).
+* Revisit content and work with CAIA to help clarify on the _Add a Primary and Add a Secondary Caregiver_ questions.
+* Provide additional explanation of the difference between primary and secondary caregivers, placement before and/or within form.
+
+**Recommendation 3: Make updates to facility search functionality and content to help alleviate search errors observed.**
+_Related to: Key Finding 4_
+
+Both Caregivers and Veterans struggled with the facility search functionality so we will be making improvements to this step of the form before launching the new facility search updates.
+
+As a result, we plan to:
+* Address process in the content/label of needing to search as step 1 before they are able to choose from a list.
+* Update the search button on mobile to include word "search," not just a magnifying glass icon as it currently is.
+
+**Recommendation 4: Explore auto-recommend options for facility selection flow.**
+_Related to: Key Finding 4 + Secondary Finding 4_
+
+Since users struggled with the usability of the facility search step and some users commented that we should be able to suggest some nearby facilities, we’d like to explore making facility recommendations for the user based on (most likely) the Veteran’s home address. We’ll still need to give the user an easy way to start a new search in case the Veteran receives care somewhere not near their home address.
+
+**Recommendation 5a: Make updates to the statement of truth component of the form to alleviate usability issues with signing the form.**
+_Related to: Key Finding 2_
+
+Many users struggled to sign the form in the review step because the text input needs to perfectly match the names entered in previous steps of the form. This caused a lot of frustration and confusion for users while not serving the purpose of making sure the form was securely completed and signed. 
+
+Therefore, we plan to:
+
+* Update the existing statement of truth component:
+    * Remove custom statement of truth components and replace with Platform version
+    * Utilize auto-fill functionality for all signers except Statement of Representative
+
+**Recommendation 5b: Discuss questions with stakeholders regarding multiple people signing the form.**
+_Related to: Key Finding 2_
+
+Some participants seemed surprised when they got to the review page and realized others should be present to sign. We’d like to explore a better experience to the form flow for multiple people needing to sign online or have their information included.
+
+Therefore, we plan to:
+
+* Explore moving who is present/signing question or sign as representative question up in the form flow so we can require only that person to sign the form.
+
+* Stay aware of and in support of future component improvements
+   * An [experimental ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3253) has been opened by another team for signing forms by multiple people at different times. We will be watching if this can have future impact on the 10-10CG form.
+
+**Recommendation 6: Research and identify why we saw users have problems with autofill in the form. Implement workarounds as directed by the design system team.**
+_Related to: Secondary Finding 1_
+
+We saw three users try to use autofill in the form and the form didn’t detect that they had entered anything in the fields. We have asked around to other product teams and found that this issue is likely specifically with Safari browsers and VADS has suggested a workaround that we should implement.
+
+* Platform guidance on [Storybook](https://design.va.gov/storybook/?path=/docs/uswds-va-text-input--docs#autocomplete) for workaround:
+
+> Note: on Safari (Mac or iOS), when using "Shift + Command + A" to autofill a field, no input event is fired, which means that any handler passed to onInput will not fire. This can result in errors on form submission, because from the component's perspective the autofilled field is empty. A suggested workaround is to synchronize field state with component state on submit by passing handlers to VaTextInput.
+
+* [File a request with the VADS design system team](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/new/choose)
+
+**Recommendation 7: Revisit the “County” field content and explore possible autofill functionality.**
+_Related to: Secondary Finding 2_
+
+Most users successfully completed the “county” field but many paused since this is not standard in asking for addresses, and a couple entered a country instead of a county.
+
+* Low priority: look into early 2025 since the recent content updates and validation has alleviated most of the errors. 
+* Add "United state" to validation list in the interim and determine if others should be added as well.
+* Longer term: Explore what can be prefilled based off of a list or previous home address entered.
+* Don't recommend adding country to the top of the address block at this time.
+
+**Recommendation 8: Make content updates to the Sign as Representative step/page to clarify that no form is required and explain why a Caregiver should upload one of the forms if they already have it on-hand.**
+_Related to: Secondary Finding 5_
+
+There was confusion and concern around signing as a representative for many of our Caregiver participants. Some Caregivers weren’t sure what some of the VA forms in the list were and several were concerned that there would be a problem if they couldn’t upload any of those documents.
+Therefore, we plan to:
+
+* Clarify with stakeholders: 
+    * What should Caregivers do if they don't have any of those documents listed?
+    * What is the best thing for a Caregiver to do if they have multiple documents in the list? What would be most helpful for the business?
+    * Who should be uploading VA forms at this step and what should there instructions be?
+* Make changes to content:
+    * Knowing a Caregiver may not have any of the documents listed but would rather not lie and say they’re the Veteran, have stakeholders help us decide what to tell users to do in this situation.
+    * Tell a user what to do if they have multiple documents in the list.
+* Long term: Explore placement of this question within the form flow. 
+    * Asking who is completing the form could be earlier in the form flow without discouraging or preventing people from applying. 
+    * Look at how other teams address this scenario at the beginning of a form, like the IVC team.
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+* Implement workaround for Safari autofill issue.
+* Make updates to facility search before implementing changes in production.
+* Meet with stakeholders to ask follow-up questions called out in recommendations and show our proposed solutions.
+* Update statement of truth component to use platform library version and not custom version that is there currently. 
+* Make content suggestions based on what we discuss and learn from our stakeholders and work with CAIA to finalize new content.
+* Define longer term changes and prioritize in backlog, such as new statement of truth patterns and user flow changes.
 
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+* Unknown for all participants
+    * LGBTQ+
+    * Geographic location/Rural
+    * Cognitive disability
+    * Other than honorable discharge
+    * Immigrant origin
+    * Expat (living abroad)
 
+
+* Race: 
+    * Hispanic, Latino, or Spanish origin 
+    * Native, American Indian or Alaskan Native
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/research/2024-09-%20Caregivers%20Study%20-%20form%20content%20and%20user%20interviews/research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide - Cohort 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/research/2024-09-%20Caregivers%20Study%20-%20form%20content%20and%20user%20interviews/convo-guide-cohort1.md)
 
-[Interview transcripts](link here)
+[Conversation guide - Cohort 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/research/2024-09-%20Caregivers%20Study%20-%20form%20content%20and%20user%20interviews/convo-guide-cohort2.md)
+
+[Zoom transcripts folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/research/2024-09-%20Caregivers%20Study%20-%20form%20content%20and%20user%20interviews/transcripts-notes)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726173728303/0cf8beb343b2e2ed0a84d4afc9732e3bf40d3ad0)
+
+Process + Sections of Board
+
+1. Notes + direct observations
+2. Session summaries by participant
+3. Research questions table view
+4. Tagging and thematic synthesis 
+5. Key findings summary cards
 
 
 ## Pages and applications used
