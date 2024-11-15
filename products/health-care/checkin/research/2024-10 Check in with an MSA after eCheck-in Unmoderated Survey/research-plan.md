@@ -1,7 +1,5 @@
 # Research Plan - Check in with an MSA after eCheck-in Unmoderated Survey
 
-_[DRAFT]_
-
 ## Background
 For decades, when a patient was checked in, clinical staff rightfully assumed that a patient had, most importantly, arrived, checked in with MSAs, and was now sitting in the clinic waiting room ready to be called back for their appointment.
 
