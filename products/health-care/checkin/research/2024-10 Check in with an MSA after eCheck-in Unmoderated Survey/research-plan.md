@@ -89,45 +89,45 @@ The tests will be conducted online at the participant’s leisure.
 
 **Cohort A: 9 Veterans age 18–24**
 - Group 1 (5 participants age 18–24)
-  - [Link for Cohort A/Group 1]()
+  - [Link for Cohort A/Group 1](https://dj540s05.optimalworkshop.com/questions/4043d036909c7ea5a2f33dbc99ad1de4?tag=a)
 - Group 2 (4 participants age 18–24)
-  - [Link for Cohort A/Group 2]()
+  - [Link for Cohort A/Group 2](https://dj540s05.optimalworkshop.com/questions/69f615416b6bb02d55ea4a9b9b2f7ee9?tag=a)
 
 **Cohort B: 9 Veterans age 25–34**
 - Group 1 (4 participants age 25–34)
-  - [Link for Cohort B/Group 1]() 
+  - [Link for Cohort B/Group 1](https://dj540s05.optimalworkshop.com/questions/4043d036909c7ea5a2f33dbc99ad1de4?tag=b) 
 - Group 2 (5 participants age 25–34)
-  - [Link for Cohort B/Group 2]()
+  - [Link for Cohort B/Group 2](https://dj540s05.optimalworkshop.com/questions/69f615416b6bb02d55ea4a9b9b2f7ee9?tag=b)
 
 **Cohort C: 9 Veterans age 35–44**
 - Group 1 (5 participants age 35–44)
-  - [Link for Cohort C/Group 1]() 
+  - [Link for Cohort C/Group 1](https://dj540s05.optimalworkshop.com/questions/4043d036909c7ea5a2f33dbc99ad1de4?tag=c) 
 - Group 2 (4 participants age 35–44)
-  - [Link for Cohort C/Group 2]() 
+  - [Link for Cohort C/Group 2](https://dj540s05.optimalworkshop.com/questions/69f615416b6bb02d55ea4a9b9b2f7ee9?tag=c) 
 
 **Cohort D: 9 Veterans age 45–54**
 - Group 1 (4 participants age 45–54)
-  - [Link for Cohort D/Group 1]()
+  - [Link for Cohort D/Group 1](https://dj540s05.optimalworkshop.com/questions/4043d036909c7ea5a2f33dbc99ad1de4?tag=d)
 - Group 2 (5 participants age 45–54)
-  - [Link for Cohort D/Group 2]() 
+  - [Link for Cohort D/Group 2](https://dj540s05.optimalworkshop.com/questions/69f615416b6bb02d55ea4a9b9b2f7ee9?tag=d) 
 
 **Cohort E: 9 Veterans age 55–64**
 - Group 1 (5 participants age 55–64)
-  - [Link for Cohort E/Group 1]()
+  - [Link for Cohort E/Group 1](https://dj540s05.optimalworkshop.com/questions/4043d036909c7ea5a2f33dbc99ad1de4?tag=e)
 - Group 2 (4 participants age 55–64)
-  - [Link for Cohort E/Group 2]() 
+  - [Link for Cohort E/Group 2](https://dj540s05.optimalworkshop.com/questions/69f615416b6bb02d55ea4a9b9b2f7ee9?tag=e) 
 
 **Cohort F: 9 Veterans age 65–74**
 - Group 1 (4 participants age 65–74)
-  - [Link for Cohort F/Group 1]()
+  - [Link for Cohort F/Group 1](https://dj540s05.optimalworkshop.com/questions/4043d036909c7ea5a2f33dbc99ad1de4?tag=f)
 - Group 2 (5 participants age 65–74)
-  - [Link for Cohort F/Group 2]() 
+  - [Link for Cohort F/Group 2](https://dj540s05.optimalworkshop.com/questions/69f615416b6bb02d55ea4a9b9b2f7ee9?tag=f) 
 
 **Cohort G: 9 Veterans age 75 +**
 - Group 1 (5 participants age 75 +)
-  - [Link for Cohort G/Group 1]()
+  - [Link for Cohort G/Group 1](https://dj540s05.optimalworkshop.com/questions/4043d036909c7ea5a2f33dbc99ad1de4?tag=g)
 - Group 2 (4 participants age 75 +)
-  - [Link for Cohort G/Group 2]()
+  - [Link for Cohort G/Group 2](https://dj540s05.optimalworkshop.com/questions/69f615416b6bb02d55ea4a9b9b2f7ee9?tag=g)
 
 
 ### Secondary criteria (must-haves)
@@ -149,13 +149,23 @@ The tests will be conducted online at the participant’s leisure.
 ## Timeline
 
 ### Pilot session
-- 
+- Complete
 
 ### Kickoff with Perigean
 
 Availability:
-- **[DATE]**
-  - Available between [TIME]
+- **Tuesday, November 19th**
+  - Available between 12pm - 2pm EST
+ 
+- **Wednesday, November 20th**
+  - Available between 11am - 11:30am EST and between 4:30pm - 5:00pm EST
+
+- **Thursday, November 21st**
+  - Available between 1:30pm - 3pm EST and between 3:30pm - 5pm EST
+
+- **Friday, November 22nd**
+  - Available between 11am - 1pm EST and between 2 - 3pm EST
+
 
 ### Start date
 Flexible; based on Perigean's schedule to begin email recruitment
