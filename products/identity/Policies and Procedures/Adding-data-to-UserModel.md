@@ -15,9 +15,9 @@ This policy applies to all current and future solutions working in the UserModel
 ## Guidelines
 
 Before adding new data to the UserModel the following criteria must be met:
-- Engineer(s) must provide a clear reasoning for the addition of new data to the UserModel
-- Engineer(s) must have considered all available alternatives
-- Engineer(s) must have consulted with OCTO Identity for review and approval
+- App Teams must provide a clear reason for the addition of new data to the UserModel, specifically why can't this be handled in a different model
+- App Teams must have considered all available alternatives
+- App Teams must have consulted with OCTO Identity for review and approval
 
 ### Recommended alternatives
 - Create new endpoints and/or new tables
