@@ -38,8 +38,8 @@ Thorough testing in the staging environment will be done for each type of upload
 For the BDD release, we want to start by setting the feature flipper to send 1% of BDD uploads to Lighthouse. 
 After successfully passing the testing plan, we will then increase usage to 5%, 50%, then 100%.
 
-- **Release date for 1%:** Thursday Oct 24
-- **Release date for 5%:** Monday Oct 28
+- **Release date for 1%:** Thursday Oct 24 
+- **Release date for 5%:** Monday Oct 28 
 - **Release date for 50%:** Thursday Oct 31
 - **Release date for 100%:** Wednesday Nov 6
 
@@ -49,19 +49,19 @@ For the 0781 release, we want to start by setting the feature flipper to send 1%
 After successfully passing the testing plan, we will then increase usage to 5%, 50%, then 100%.
 
 - **Release date for 1%:** Wednesday Nov 13
-- **Release date for 5%:** Friday Nov 15
-- **Release date for 50%:** Tuesday Nov 19
-- **Release date for 100%:** Thursday Nov 21
+- **Release date for 5%:** ~Friday Nov 15~ Monday Nov 18
+- **Release date for 50%:** ~Tuesday Nov 19~ TBD, week of Nov 18
+- **Release date for 100%:** ~Thursday Nov 21~ TBD
 
 
 ### Veteran Evidence Uploads 
 For the Evidence Upload release, we want to start by setting the feature flipper to send 1% of uploads to Lighthouse. 
 After successfully passing the testing plan, we will then increase usage to 5%, 50%, then 100%.
 
-- **Release date for 1%:** Monday Nov 18
-- **Release date for 5%:** Thursday Nov 21
-- **Release date for 50%:** Monday Nov 25 (Thanksgiving break between here and next step)
-- **Release date for 100%:** Monday Dec 2
+- **Release date for 1%:** ~Monday Nov 18~ TBD, week of Nov 18
+- **Release date for 5%:** ~Thursday Nov 21~ TBD
+- **Release date for 50%:** ~Monday Nov 25 (Thanksgiving break between here and next step)~ TBD
+- **Release date for 100%:** ~Monday Dec 2~ TBD
 
 
 **Team members:**
