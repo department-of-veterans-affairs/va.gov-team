@@ -76,7 +76,7 @@ The tests will be conducted online at the participant’s leisure.
 - [Survey outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2024-10%20Check%20in%20with%20an%20MSA%20after%20eCheck-in%20Unmoderated%20Survey/survey-outline.md)
 
 ## Recruitment
-7 cohorts, 9 participants each, total 63 responses. Minimum threshold of 45 completed responses
+7 cohorts, 9 participants each, total 63 responses. Minimum threshold of 35 completed responses.
 
 ### Primary criteria (must-haves)
 
