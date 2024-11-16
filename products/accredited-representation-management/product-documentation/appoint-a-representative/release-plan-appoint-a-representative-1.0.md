@@ -9,12 +9,14 @@ Feature Toggle:
 ### Validation
 
 #### Platform Preparation
-- [ ] Are all Collaboration Cycle touchpoints complete?
+- [ ] All "launch blocking" items from Staging Review have been addressed
+- [ ] Contact Center Review is complete
+- [ ] Privacy, Security, IA Readiness Review is complete
 
 #### Technical Preparation
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
-- [ ] Unit tests and E2E tests are complete
 - [ ] Enable backend feature flag `use_veteran_models_for_appoint`
+- [ ] Enable backend feature flag `appoint_a_representative_enable_pdf` ❓
+- [ ] Enable backend feature flag `appoint_a_representative_enable_api` ❓
 - [ ] Any third party services ready for use (frontend or backend) ❓
 - [ ] Any lingering issues that are needed to address prior to rollout?
 
@@ -35,7 +37,7 @@ Feature Toggle:
 While we cannot think of any events that would be critical enough to merit a rollback, the following rollback process has been outlined just in case we need it.
 
 **The rollback process is:**
-1. Turn off the frontend feature toggle `find_a_representative_enable_frontend` ❓
+1. Turn off the frontend feature toggle `appoint_a_representative_enable_frontend` 
    1. Submit a PR
 2. Alert the team in [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM) that the rollback process has been initiated
    1. Include any details as to what triggered the rollback
@@ -54,16 +56,18 @@ While we cannot think of any events that would be critical enough to merit a rol
 ## Staged Rollout Details
 
 - Rollout date range: TBD ❓
-- Limited production access to the Appoint a Representative application AND the related entry point on our landing page will be controlled through the frontend feature toggle `find_a_representative_enabled` ❓
+- Limited production access to the Appoint a Representative application AND the related entry point on our landing page will be controlled through the frontend feature toggle `appoint_a_representative_enable_frontend` ❓
 - Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed above)
 
 
 ## Staged Rollout Schedule
 **Go/No Go meeting TBD**
 1. Stage A: 10% of users on 3/11 (Monday) ❓
-2. Stage B: 100% of users on 3/13 (Wednesday) + launch best bets for an initial boost to visibility ❓
-3. Stage C: Implement redirects on 3/18 (Monday) for an added boost to visibility ❓
-4. Stage D: Begin entry point work on 3/20 (Wednesday) so pages point directly to the [Accredited Rep landing page](=(https://www.va.gov/get-help-from-accredited-representative/) ❓
+2. Stage B: 50% of users on 
+3. Stage C: 100% of users on 3/13 (Wednesday) + launch best bets for an initial boost to visibility ❓
+4. Stage D: Begin entry point work on 3/20 (Wednesday) so pages point directly to the [Accredited Rep landing page](=(https://www.va.gov/get-help-from-accredited-representative/appoint-rep) ❓
+
+❄️ Code Freeze: 12/20/2024 ❄️
 
 *** 
 
