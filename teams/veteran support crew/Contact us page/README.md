@@ -14,5 +14,5 @@ The `Content, Information Architecture, and Editor Experiences Crew` and `Core V
 |:--|:--|:--|:--|
 |Danielle Thierry|Crew lead|Content, Information Architecture, and Editor Experiences Crew|danielle.thierry@va.gov|
 |Beth Potts|Content lead|Content, Information Architecture, and Editor Experiences Crew|beth.potts@va.gov|
-|Chante Lantos-Swett|Crew lead|Core Veteran Experiences Crew|chante.lantosswett@va.gov|
-|Becky Phung|Designer/Product Owner |Core Veteran Experiences Crew|becky.phung@va.gov|
+|Chante Lantos-Swett|Product lead|Core Veteran Experiences Crew|chante.lantosswett@va.gov|
+|Becky Phung|Design/Product lead |Core Veteran Experiences Crew|becky.phung@va.gov|
