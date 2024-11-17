@@ -6,19 +6,29 @@
 
 ## SPRINT 21 - 11/27/2024-12/10/202
 - **Production Support**
-    - ❗ 🟦🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96179)
+    - ❗ 🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97293)
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
-    - TBD
+    - FE STEP 4 - Schedule an Appointment with your Provider Page
+        - Unit tests #95274
+        - Hook up to mock data #95271
+    - FE STEP 5 - Review Your Appointment Details Page
+        - Create Review your appointment details page #95281
+        - On confirm, create appointment #95278
+    - BE STEP 1 - Implement EPSAppointmentsService
+        - Implement merge_eps_appointments method in AppointmentsService #96412
+        - Implement create_draft_appointment method #96413
+        - Implement create_appointment method #96414
 - **Travel Claims for Past Appts**
-    - TBD
+    - Handle error state when travel link cannot be retrieved #96580
+    - Change appointment details page content to reflect updated mileage-only travel policy #96865
 - **Pre-Check-in - VAHB**
     - TBD
 - **Check in with staff after checking in**
     - TBD
 - **Tech Debt & Analytics**
-    - 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96180)    
+    - 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97294)    
 </details>
 
 ## SPRINT 20 - 11/13/2024-11/26/2024
