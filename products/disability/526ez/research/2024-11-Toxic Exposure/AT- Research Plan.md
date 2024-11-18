@@ -477,10 +477,11 @@ Desktop- AT TE Usability Testing Pilot: November 21, 1:30-3:000pm EST
 
 * Buffer time between sessions: 30 minutes
 
-* Maximum Sessions per day: 2 sessions per day
+* Maximum Sessions per day: 2 sessions per day (please only 1 session for 12/2)
 
 ### **Availability**
 
+  Monday 12/2: 9-10:30, 11-12:30, 1-2:30, EST
   Tuesday 12/3: 9-10:30, 11-12:30, 1-2:30 EST
 
   Wednesday 12/4: 1-2:30 EST
