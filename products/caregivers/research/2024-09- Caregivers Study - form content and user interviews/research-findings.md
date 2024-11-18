@@ -137,7 +137,7 @@ Veterans and Caregivers were somewhat split on whether they feel comfortable sig
 
 | ![Screenshot 2024-11-13 at 12 50 04 PM](https://github.com/user-attachments/assets/1dc060ee-3c68-4b05-a909-67c250d9f3be) |
 |:--:|
-| *Description* |
+| *Error message that appeared when a user's entry didn't perfectly match the Primary Caregiver name previously entered in the form* |
 
 **Supporting quotes:**
 
@@ -198,7 +198,9 @@ Both Caregivers and Veterans struggled with the search functionality and results
 
 **Supporting video clip:**
 
-https://github.com/user-attachments/assets/526e3484-7657-4126-97cd-98f8afaee4e7
+| https://github.com/user-attachments/assets/526e3484-7657-4126-97cd-98f8afaee4e7 |
+|:--:|
+| *Video of a user entering "Tampa" for a facility and trying to continue onto the next page without realizing they need to search first. They see an error message appear.* |
 
 ### Finding 5: Veterans and Caregivers differ on facilities confirmation page content clarity.
 
@@ -262,6 +264,7 @@ Issues were observed on some browsers/devices with the autofill browser function
 
 **Supporting video:**
 
+TK
 
 ### Secondary Finding 2: The county field was answered correctly by most Veterans and Caregivers.
 
@@ -286,9 +289,13 @@ The _county_ field was mostly answered easily and correctly by users. However, s
 
 **Supporting visuals:**
 
-![Home address](https://github.com/user-attachments/assets/90cb5746-d0b9-400d-8d82-15128e8d9513)
-
-![Home address (1)](https://github.com/user-attachments/assets/3a6462c2-846d-48c5-9170-4aadd9fd81bb)
+| ![Home address](https://github.com/user-attachments/assets/90cb5746-d0b9-400d-8d82-15128e8d9513)| 
+|:--:|
+| *County field with additional info expanded* |
+<br>
+| ![Home address (1)](https://github.com/user-attachments/assets/3a6462c2-846d-48c5-9170-4aadd9fd81bb) |
+|:--:|
+| *County field with error message when field is left blank that says "Enter a county"* |
 
 
 ### Secondary Finding 3: Not conclusive, but users seemed to be fairly clear on whose information they were entering in the form.
@@ -316,7 +323,9 @@ The 10-10CG form requires information from multiple people - the Veteran, the Pr
 
 **Supporting visual:**
 
-![SSN in name](https://github.com/user-attachments/assets/83fc4d0d-586c-42a1-a09d-874bfb6729ef)
+| ![SSN in name](https://github.com/user-attachments/assets/83fc4d0d-586c-42a1-a09d-874bfb6729ef) |
+|:--:|
+| *A user entered their social security number in the first name field by mistake and did not notice it* |
 
 
 ### Secondary Finding 4: Automation/prefill was requested by some users unprompted.
@@ -379,7 +388,9 @@ Caregivers expressed some confusion around the documents or process required to 
 
 **Supporting visual:**
 
-![Screenshot 2024-11-11 at 11 47 07 AM](https://github.com/user-attachments/assets/2c295531-61b2-46c9-baa1-e7c3c9feae1f)
+| ![Screenshot 2024-11-11 at 11 47 07 AM](https://github.com/user-attachments/assets/2c295531-61b2-46c9-baa1-e7c3c9feae1f)|
+|:--:|
+| *List of VA forms in the Sign as a Representative step that a Caregiver can upload to support their eligibility to be a Caregiver for the specified Veteran* |
 
 
 ## Recommendations
