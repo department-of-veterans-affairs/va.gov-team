@@ -41,6 +41,19 @@ puts "total failures: #{failures.count}"
 puts "4. lighthouse failures #{lighthouse_failures.count}"
 te_records = lighthouse_primary + lighthouse_backup + lighthouse_failures
 puts "1. lighthouse total: #{te_records.count}"
+
+
+lighthouse_backup_ipf = lighthouse_backup.select{ |s| s.form['form526']['form526']['startedFormVersion'] == '2019'}
+puts "lighthouse backup IPF #{lighthouse_backup_ipf.count}"
+lighthouse_ipf_failures = lighthouse_failures.select{|s| s.form['form526']['form526']['startedFormVersion'] == '2019'}
+puts "lighthouse failures IPF #{lighthouse_ipf_failures.count}"
+
+lh_primary_test = []
+lh_primary_ipf = lighthouse_primary.find_in_batches do |group| 
+	puts "--- group.count"
+	group.select {|s| lh_primary_test << s.id if s.form['form526']['form526']['startedFormVersion'] == '2019'; puts "done"}
+	end
+puts "lighthouse_primary_ipf #{lh_primary_test.count}"
 ```
 And draft a message using this template with the output for numbers 1-4. 
 
@@ -57,12 +70,17 @@ Lighthouse total submissions: (#1)
 
 ##### Primary Path Submissions
 N% used the Lighthouse primary path (2,993) (#2)
+Of those 2,993 primary path submissions, X were In-Progress Forms (TE 1.1).
+
 
 ##### Backup Path Submissions
 N% used the Lighthouse backup path (68) (#3)
+Of those 68 backup submissions, x% (y) were In-Progress Forms (TE 1.1)
 
 ##### Failures
 N% of Lighthouse submissions failed (14) (#4)
+0% of Lighthouse In-Progress Forms (TE 1.1) failed (0)
+
 
 #### Technical Notes:
 Here, add notes about technical fixes, issues we're experiencing, details for remediating them
