@@ -185,7 +185,7 @@ Two participants noted that Space Force was missing from the list of branch opti
 > "I don't know how to get back to the instructions without filling out the application all over again" (p12)
 
 Three participants gave feedback that there was too much content on the results page. 
-- Four participants said their next step would be to print out the page. This could indicate that there is too much information to digest at once. One participant wanted to be able to save the results screen and instructions.
+- Four participants said their next step would be to print out the page. This could indicate that there is too much information to digest at once. One participant wanted to be able to save the results page and instructions.
 - One participant used a screen reader (Speechify) to help break down the content on the page and reduce the cognitive load. This participant only used the screen reader on the start and results pages. They didn't need to use it on the question or review pages, suggesting that the content on those pages wasn't overwhelming.
 
 ![Screenshot 2024-11-15 at 4 51 38 PM](https://github.com/user-attachments/assets/1ca62f3f-50c8-4bbc-b78f-1f4784b1968b)
