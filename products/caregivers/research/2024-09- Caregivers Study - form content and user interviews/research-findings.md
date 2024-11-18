@@ -383,7 +383,7 @@ Caregivers expressed some confusion around the documents or process required to 
 ## Recommendations
 
 ### Recommendation 1: Revisit content and resource link placement within the form around program definition, eligibility and application process.
-_Related to: [Key Finding 1](#Finding-1-Veterans-and-Caregivers-want-more-clarity-on-eligibility-and-benefits-before-applying) + [Key Finding 3]()_
+_Related to: [Key Finding 1](#Finding-1-Veterans-and-Caregivers-want-more-clarity-on-eligibility-and-benefits-before-applying) + [Key Finding 3](#Finding-3-Users-said-content-was-just-enough-but-called-out-items-that-needed-more-clarification)_
 
 The biggest concern users had in usability testing was around eligibility and general program information, but users said the amount of content in the form was just enough. Therefore, we recommend adding links to further information within the form so users who are confused about topics such as eligibility, stipends, caregiver qualifications, and more can get information specific to their concerns where it is most relevant. Some of this detailed information lives outside of VA.gov on external VA sites.
 
@@ -402,7 +402,7 @@ As a result, we plan to:
 * Break up the Sign as Representative content so it is scannable and addresses that it’s not a requirement - the Veteran can sign for themselves.
 
 ### Recommendation 2: Explore updating content to add in clarifying information around secondary caregivers and their benefits.
-_Related to: Key Finding 1 + Key Finding 2_
+_Related to: [Key Finding 1](#Finding-1-Veterans-and-Caregivers-want-more-clarity-on-eligibility-and-benefits-before-applying) + [Key Finding 2](#Finding-2-Veterans-and-Caregivers-had-mixed-comfortability-with-and-ease-of-signing-the-form)_
 
 Our findings showed general confusion around secondary caregiver definitions and benefits. We would like to explore content updates and explanatory links to provide for users who aren’t familiar with the concept of secondary VA caregivers.
 
@@ -412,7 +412,7 @@ As a result, we plan to:
 * Provide additional explanation of the difference between primary and secondary caregivers, placement before and/or within form.
 
 ### Recommendation 3: Make updates to facility search functionality and content to help alleviate search errors observed.
-_Related to: Key Finding 4_
+_Related to: [Key Finding 4](#Finding-4-The-facility-search-functionality-was-difficult-and-confusing-for-some-users)_
 
 Both Caregivers and Veterans struggled with the facility search functionality so we will be making improvements to this step of the form before launching the new facility search updates.
 
@@ -421,12 +421,12 @@ As a result, we plan to:
 * Update the search button on mobile to include word "search," not just a magnifying glass icon as it currently is.
 
 ### Recommendation 4: Explore auto-recommend options for facility selection flow.
-_Related to: Key Finding 4 + Secondary Finding 4_
+_Related to: [Key Finding 4](#Finding-4-The-facility-search-functionality-was-difficult-and-confusing-for-some-users) + [Secondary Finding 4](#Secondary-Finding-4-Automation/prefill-was-requested-by-some-users-unprompted)_
 
 Since users struggled with the usability of the facility search step and some users commented that we should be able to suggest some nearby facilities, we’d like to explore making facility recommendations for the user based on (most likely) the Veteran’s home address. We’ll still need to give the user an easy way to start a new search in case the Veteran receives care somewhere not near their home address.
 
 ### Recommendation 5a: Make updates to the statement of truth component of the form to alleviate usability issues with signing the form.
-_Related to: Key Finding 2_
+_Related to: [Key Finding 2](#Finding-2-Veterans-and-Caregivers-had-mixed-comfortability-with-and-ease-of-signing-the-form)_
 
 Many users struggled to sign the form in the review step because the text input needs to perfectly match the names entered in previous steps of the form. This caused a lot of frustration and confusion for users while not serving the purpose of making sure the form was securely completed and signed. 
 
@@ -437,7 +437,7 @@ Therefore, we plan to:
     * Utilize auto-fill functionality for all signers except Statement of Representative
 
 ### Recommendation 5b: Discuss questions with stakeholders regarding multiple people signing the form.
-_Related to: Key Finding 2_
+_Related to: [Key Finding 2](#Finding-2-Veterans-and-Caregivers-had-mixed-comfortability-with-and-ease-of-signing-the-form)_
 
 Some participants seemed surprised when they got to the review page and realized others should be present to sign. We’d like to explore a better experience to the form flow for multiple people needing to sign online or have their information included.
 
