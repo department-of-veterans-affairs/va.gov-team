@@ -1,4 +1,4 @@
-# **AT Toxic Exposure Evaluative Research Study Plan** 
+# **Assistive Tech - Toxic Exposure Evaluative Research Study Plan** 
 
 Disability Benefits Team 1, November 2024
 
