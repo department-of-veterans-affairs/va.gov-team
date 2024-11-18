@@ -42,7 +42,7 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 
   ## 
 
-  ## **Research Goals**
+## **Research Goals**
 
   Note: These goals match those in the non-AT study, but emphasize the experience of using assistive technology. 
 
@@ -458,11 +458,11 @@ Recruit **2** Veterans who are daily users of screen magnification technology **
 
    
 
- ## **Timeline**
+## **Timeline**
 
    Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
-   ### **Prepare**
+### **Prepare**
 
    When will the thing you are testing be finalized? Ideally it’s ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
@@ -488,7 +488,7 @@ Desktop- AT TE Usability Testing Pilot: November 21, 1:30-3:000pm EST
 
 * Maximum Sessions per day: 2 sessions per day
 
-  ### **Availability**
+### **Availability**
 
   Tuesday 12/3: 9-10:30, 11-12:30, 1-2:30 EST
 
@@ -504,7 +504,7 @@ Desktop- AT TE Usability Testing Pilot: November 21, 1:30-3:000pm EST
 
   Wednesday 12/11: 9-10:30, 11-12:30, 1-2:30, 3-4:30 EST
 
-  ## **Team Roles**
+## **Team Roles**
 
 Please do not include email addresses in this section. We previously required email addresses. VA’s GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. [VA.gov](http://va.gov/) email addresses cannot be in public repositories.
 
