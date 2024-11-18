@@ -137,19 +137,9 @@ Remote on Zoom
 
 ### **Research materials**
 
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan – prior to submitting a recruitment request.*
+* \[Link to conversation guide\]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Conversation%20Guide.md))
 
-Provide a link to any materials you need to run your study, including any materials needed for setup and recruitment.
-
-For moderated interviews:
-
-* \[Link to conversation guide\](url goes here)
-
-  For moderated usability tests:
-
-* \[Link to conversation guide\](url goes here)
-
-* \[Link to prototype\](url goes here)
+* Link to prototype- Testing in staging; TE is already in production. 
 
   ## 
 
