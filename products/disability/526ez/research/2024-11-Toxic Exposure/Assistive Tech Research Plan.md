@@ -14,7 +14,7 @@ We are also testing an alert that appears on the review and submit page for Vete
 
 To date, these designs have not been tested with Veterans who use assistive technology– adding to the importance of the study.
 
-\[Link to product brief\](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/toxic-exposure-initiative-brief.md).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/toxic-exposure-initiative-brief.md).
 
 ### 
 
@@ -51,7 +51,7 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 
 3. Assess confidence and satisfaction Veterans who use assistive technology feel when answering toxic exposure questions. 
 
-   ### **Outcome**
+### **Outcome**
 
    Research will help us prioritize changes to the toxic exposure flow that will make our form more accessible to a variety of AT users. Insights gathered will inform post-MVP enhancements to the feature. The study will also provide insight into the accessibility and efficacy of the IPF alert, which has not been tested. These learnings will be relevant to other teams using the component for releases in the future. 
 
@@ -122,13 +122,13 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 
   ## 
 
- ## **Methodology**
+  ## **Methodology**
 
   We plan on conducting 90-minute moderated usability sessions with AT users on staging. 
 
   ### 
 
-## **Location**
+  ### **Location**
 
 Remote on Zoom
 
@@ -136,12 +136,21 @@ Remote on Zoom
 
 ### **Research materials**
 
+*Note: your OCTO/VA lead must review and approve all research materials – including this plan – prior to submitting a recruitment request.*
+
+Provide a link to any materials you need to run your study, including any materials needed for setup and recruitment.
+
+For moderated interviews:
+
+* \[Link to conversation guide\](url goes here)
+
   For moderated usability tests:
 
 * \[Link to conversation guide\](url goes here)
 
 * \[Link to prototype\](url goes here)
 
+  ## 
 
 ## **Recruitment**
 
@@ -449,11 +458,11 @@ Recruit **2** Veterans who are daily users of screen magnification technology **
 
    
 
-## **Timeline**
+ ## **Timeline**
 
    Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
-### **Prepare**
+   ### **Prepare**
 
    When will the thing you are testing be finalized? Ideally it’s ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
@@ -471,7 +480,7 @@ Desktop- AT TE Usability Testing Pilot: November 21, 1:30-3:000pm EST
 
 * 12/3-11 
 
-  ### **Length of sessions**
+### **Length of sessions**
 
 * Session length: 90 minutes
 
@@ -516,4 +525,3 @@ Accessibility specialist (for sessions where support for assistive technology ma
 Note-takers: Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawson, and DBEX 1 Team
 
 Observers: Disability Benefits Team 1 and 2, OCTO stakeholders. Will share broadly on DSVA slack
-
