@@ -383,7 +383,7 @@ Caregivers expressed some confusion around the documents or process required to 
 ## Recommendations
 
 ### Recommendation 1: Revisit content and resource link placement within the form around program definition, eligibility and application process.
-_Related to: [Key Finding 1](#key-finding-1) + [Key Finding 3](#key-finding-3)_
+_Related to: [Key Finding 1](###key-finding-1) + [Key Finding 3](###key-finding-3)_
 
 The biggest concern users had in usability testing was around eligibility and general program information, but users said the amount of content in the form was just enough. Therefore, we recommend adding links to further information within the form so users who are confused about topics such as eligibility, stipends, caregiver qualifications, and more can get information specific to their concerns where it is most relevant. Some of this detailed information lives outside of VA.gov on external VA sites.
 
