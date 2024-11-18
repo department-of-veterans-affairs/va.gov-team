@@ -17,9 +17,9 @@
     - FE STEP 4 - Schedule an Appointment with your Provider Page
         - Unit tests #95274
         - Hook up to mock data #95271
-    - FE STEP 5 - Review Your Appointment Details Page
-        - Create Review your appointment details page #95281
-        - On confirm, create appointment #95278
+    - FE STEP 6 - Community Care Complete page
+        - Create Complete page #95282
+        - Create started time stamp and calculate time to complete on submit. #96815
     - BE STEP 1 - Implement EPSAppointmentsService
         - Implement merge_eps_appointments method in AppointmentsService #96412
         - Implement create_draft_appointment method #96413
