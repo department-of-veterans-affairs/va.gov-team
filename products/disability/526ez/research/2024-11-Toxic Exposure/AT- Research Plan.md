@@ -46,10 +46,11 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 
   Note: These goals match those in the non-AT study, but emphasize the experience of using assistive technology. 
 
-1. Assess the usability of the toxic exposure flow, identifying barriers for Veterans who use assistive technology.  
+1. Assess the usability of the toxic exposure flow, identifying barriers for Veterans who use assistive technology.
+  
 2. Determine if Veterans who use assistive technology understand that the form has changed and that they can navigate to and add data for TE.
 
-3. Assess confidence and satisfaction Veterans who use assistive technology feel when answering toxic exposure questions. 
+3. Assess how confident Veterans who use assistive technology feel about their answers to toxic exposure questions. 
 
 ### **Outcome**
 
