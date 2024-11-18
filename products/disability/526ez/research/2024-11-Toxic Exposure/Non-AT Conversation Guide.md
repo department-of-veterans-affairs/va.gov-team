@@ -2,22 +2,16 @@
 
 ## **Day of the session**
 
-* ## Use [\#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
-
-* ## Mute your Slack notifications.
-
-* ## Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [\#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+* Use [\#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.  
+* Mute your Slack notifications.  
+* Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [\#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
 ## **Starting the session**
 
-* ## In the Attendees section, make sure everyone except the participant is on mute.
-
-* ## In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-
-* ## Check your screen sharing setup and share permissions for participants.
-
-* ## When the participant is ready, begin the session with the following intro\*
-
+* In the Attendees section, make sure everyone except the participant is on mute.  
+* In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked  
+* Check your screen sharing setup and share permissions for participants.  
+* When the participant is ready, begin the session with the following intro\*  
 * Have staging link, user id, and password ready
 
 ---
@@ -234,6 +228,8 @@ For this final task, I would like for you to imagine that you made a mistake whi
 *  If you had a magic wand and could improve one thing about the section, what would you change and why?  
 * Is there anything else you'd like to share about your experience using the form with \[AT tool\]?
 
+---
+
 ## **Thank-You and Closing \- 5 minutes**
 
 Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
@@ -241,6 +237,8 @@ Well, we really appreciate you taking the time to share your thoughts with us to
 Thanks\! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again, and enjoy the rest of your day\!
+
+## ---
 
 ## **Emergency Exit**
 
