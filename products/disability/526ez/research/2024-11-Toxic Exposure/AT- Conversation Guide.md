@@ -159,9 +159,11 @@ Okay, you should now be on the disability benefits application. We’re going to
 3. Ok the page has loaded, now navigate to “Continue your application” button   
 4. The page is loading   
 5. Now you’re on the intent to file page, press continue. You do not need to read anything on this page.   
-6. Ok now are on the right page. 
+6. Ok, now are on the right page.
 
-## ---
+---
+
+## 
 
 ## **First Task: \[Concept Test- Review and Submit alert\] \- 10 minutes**
 
@@ -178,6 +180,7 @@ Task: Review the screen and let me know when you are ready to submit your claim.
 * If you were to click on the link, where would you expect it to take you? 
 
 *Look out for: Misunderstanding of the alert content, understanding of eligibility, rationale for opting in or out*  
+
 ---
 
 ## **Second Task: \[Navigate from alert to TE questions\] \- 5 minutes**
@@ -191,7 +194,7 @@ Task: Navigate to the new questions that were added to the form.
 * Where did the link take you? Is this where you expected to go?  
 * If you wanted to navigate back to the review and submit page, how would you do it? Talk me through it\!
 
-*Look out for: Issues finding the link, confusion around location in the form*  
+*Look out for: Issues finding the link, confusion around location in the form*
 ---
 
 ## **Third Task: \[Opt in to Toxic Exposure\] \- 5 minutes**
@@ -277,7 +280,7 @@ Task:  Complete the questions about toxic exposure in the disability compensatio
   
 ---
 
-**Fifth task: \[Edit response from summary screen\] \- 10 minutes**
+## **Fifth task: \[Edit response from summary screen\] \- 10 minutes**
 
 For this final task, I would like for you to imagine that you made a mistake while entering a location or date. 
 
@@ -295,7 +298,7 @@ For this final task, I would like for you to imagine that you made a mistake whi
 
 ---
 
-**Wrap-up Questions- 5-10 minutes**
+## **Wrap-up Questions- 5-10 minutes**
 
 * Please rate your experience with responding to toxic exposure questions.   
   * Very bad  
