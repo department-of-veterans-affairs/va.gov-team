@@ -1,4 +1,4 @@
-# **Non-Assistive Tech- Toxic Exposure Evaluative Research Study Plan** 
+# **Non-Assistive Tech - Toxic Exposure Evaluative Research Study Plan** 
 
 Disability Benefits Team 1, November 2024
 
@@ -42,10 +42,6 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 
   ## **Research Goals**
 
-  What are you trying to learn from this research?
-
-  *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.*
-
 * Evaluate the usability of the toxic exposure flow.
 
 * Determine if Veterans understand that the form has changed and that they can navigate to and add data for TE. 
@@ -69,7 +65,7 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 
 * Which questions or terminology are confusing to users or hard to answer? 
 
-* How do users respond to the one-thing-per-page design approach? Do users with a higher screen count experience greater fatigue than users with a shorter flow? 
+* Do users with a higher screen count experience greater fatigue than users with a shorter flow? 
 
 * Do the users in the study experience any difficulties updating responses from the summary screen?
 
@@ -120,7 +116,7 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 
   ### **Location**
 
-Remote on Zoom
+      Remote on Zoom
 
 ### 
 
@@ -239,13 +235,13 @@ Recruit 6 Veterans for 4 completes (Note: This study will run in parallel with a
 
   ### **Availability**
 
-  Monday 12/2: 9-10, 11-12, 1-2, 3-4
+  Monday 12/2: 9-10, 11-12, 1-2, 3-4 EST
 
-  Tuesday 12/3: 9-10, 11-12, 1-2, 3-4
+  Tuesday 12/3: 9-10, 11-12, 1-2, 3-4 EST
 
-  Wednesday 12/4: 9-10, 11-12, 2-3, 
+  Wednesday 12/4: 9-10, 11-12, 2-3, EST
 
-  Thursday 12/5: 9-10, 11-12, 1-2, 3-4
+  Thursday 12/5: 9-10, 11-12, 1-2, 3-4 EST
 
 ## 
 
@@ -256,19 +252,19 @@ Recruit 6 Veterans for 4 completes (Note: This study will run in parallel with a
   Please list the names of people in each role. In the Slack study channel, send an email and primary phone number for the moderator. Send emails only for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
 
-  Moderator: Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawson, Steven Straily  Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawson
+  Moderator: Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawson, Steven Straily 
 
-  Research guide writing and task development (usually but not always same as moderator): Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawson, Steven Straily Evelyn Hilbrich Davis and HCD Team
+  Research guide writing and task development (usually but not always same as moderator): Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawson, Steven Straily 
 
-  Participant recruiting & screening: Perigean \+ Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawson, Steven Straily Evelyn Hilbrich Davis
+  Participant recruiting & screening: Perigean \+ Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawson, Steven Straily 
 
-  Project point of contact: Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawson, Steven Straily Evelyn Hilbrich Davis
+  Project point of contact: Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawson, Steven Straily 
 
-  Participant(s) for pilot test: TBD \- Perigean with support from Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawson, Steven Straily HCD team
+  Participant(s) for pilot test: TBD \- Perigean with support from Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawson, Steven Straily 
 
   Accessibility specialist (for sessions where support for assistive technology may be needed): N/A
 
-  Note-takers: Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawson, Steven Straily Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawnson
+  Note-takers: Evelyn Hilbrich Davis, Maya Carroll, Lauren Dawson, Steven Straily 
 
   Observers: Disability Benefits Team 1 and 2, OCTO stakeholders. Will share broadly on DSVA slack
 
