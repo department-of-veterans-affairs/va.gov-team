@@ -1,6 +1,6 @@
 # **Non-Assistive Tech - Toxic Exposure Evaluative Research Study Plan** 
 
-Disability Benefits Team 1, November 2024
+## Disability Benefits Team 1, November 2024
 
 ## **Background**
 
@@ -12,7 +12,7 @@ The TE design was first tested in July 2023 and updated following research and c
 
 We are also testing an alert that appears on the review and submit page for Veterans who have an In Progress Form that was started before the rollout. The alert informs Veterans that new questions about toxic exposure have been added and provides a link to the TE questions for Veterans interested in completing the section. 
 
-\[Link to product brief\](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/toxic-exposure-initiative-brief.md).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/toxic-exposure-initiative-brief.md).
 
 ### 
 
