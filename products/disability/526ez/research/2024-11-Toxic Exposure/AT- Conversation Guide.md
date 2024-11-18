@@ -2,13 +2,10 @@
 
 ## **Day of the session**
 
-* ## Review \[screen reader instructions and troubleshooting during research guidance\](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur)
-
-* ## Use [\#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
-
-* ## Mute your Slack notifications.
-
-* ## Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [\#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+* Review \[screen reader instructions and troubleshooting during research guidance\](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur)  
+* Use [\#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.  
+* Mute your Slack notifications.  
+* Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [\#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
 ## **10 minutes before the session**
 
@@ -18,16 +15,11 @@
 
 ## **Starting the session**
 
-* ## Let in accessibility specialist
-
-* ## In the Attendees section, make sure everyone except the participant is on mute.
-
-* ## In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-
-* ## Check your screen sharing setup and share permissions for participants.
-
-* ## When the participant is ready, begin the session with the following intro\*
-
+* Let in accessibility specialist  
+* In the Attendees section, make sure everyone except the participant is on mute.  
+* In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked  
+* Check your screen sharing setup and share permissions for participants.  
+* When the participant is ready, begin the session with the following intro\*  
 * If the participant doesn’t arrive after 2 minutes, slack Perigean in study channel.  
 * If the participant is a no-show, inform team and Perigean.   
 * Strategies to pause or stop, borrowed from Tyler 
@@ -63,6 +55,8 @@ Thanks for joining us today\!  My name is \[FACILITATOR\] and \[NOTETAKER\] is t
 
 * I have started recording. I’d like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
+---
+
 ## **Warm-up Questions \- 10 minutes**
 
 Before we look at the website, let’s start with a few background questions.
@@ -84,7 +78,11 @@ Thanks for sharing that information\! I’d also like to learn more about how yo
 * Do you have experience using \[name of AT\] to fill out online forms with VA in the past?  
   * What was that experience like for you? 
 
-Unfortunately, you do not qualify for this study. We appreciate your time, but need to end this session now. 
+### **If the participant isn't using assistive technology**
+
+Thanks for letting me know. Unfortunately, this particular research study is focused on assistive technology. Since you don't use assistive technology, we'll have to end the session now. We'll hopefully see you back here again for another study. Thanks for your time\!
+
+---
 
 ## **Technology set-up \- 10-20 minutes**
 
@@ -162,6 +160,8 @@ Okay, you should now be on the disability benefits application. We’re going to
 4. The page is loading   
 5. Now you’re on the intent to file page, press continue. You do not need to read anything on this page.   
 6. Ok now are on the right page. 
+
+## ---
 
 ## **First Task: \[Concept Test- Review and Submit alert\] \- 10 minutes**
 
@@ -332,7 +332,7 @@ Thanks\! Lastly, Perigean will be sending you a thank you note with a little blu
 
 Thank you so much again, and enjoy the rest of your day\!
 
-## 
+## ---
 
 ## **Emergency Exit**
 
