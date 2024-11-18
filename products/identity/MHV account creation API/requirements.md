@@ -19,24 +19,24 @@ The MHV team has created an api called the MHV account creation API which the VA
     2. Values optional for API request:
         1. CSP supplied email
 2. The cache that stores the result of the MHV account creation API MUST expire every 24 hours. The next user authenticated action MUST make a fresh call to the MHV account creation API to ensure there is fresh data loaded into the cache from the response.
-    3. This is to ensure if there is an update to the users MHV account information we get the latest data, such as updated access to secure messaging.
-2. Vets-api MUST use a signed JWT created by vets-api STS to the MHV team and the JWT MUST contain the proper user ICN value and format
-3. Vets-api MUST not call the MHV account creation API for a user who cannot successfully login to the VA.gov portal.
+    1. This is to ensure if there is an update to the users MHV account information we get the latest data, such as updated access to secure messaging.
+3. Vets-api MUST use a signed JWT created by vets-api STS to the MHV team and the JWT MUST contain the proper user ICN value and format
+4. Vets-api MUST not call the MHV account creation API for a user who cannot successfully login to the VA.gov portal.
     1. Note: if the user has a date of death or otherwise account blocking flag, the user will not be able to login and the MHV account creation api should be impossible/not allowed to be called.
     2. If a user has not accepted terms and conditions they cannot login and also therefore should not be able to have an MHV account creation api process initiated for them.
-4. Vets-api MUST ensure the ICN used to generate the JWT is not deprecated
+5. Vets-api MUST ensure the ICN used to generate the JWT is not deprecated
     1. Note: calling MPI at the start of the sidekiq job to get an updated ICN if it's available is the likely solution here.
-5. Vets-api MUST ensure the ICN used to call the MHV APIs matches the ICN within the JWT used to call the MHV APIs
-6. Vets-api MUST ensure the ICN used to call the MHV APIs is not deprecated
+6. Vets-api MUST ensure the ICN used to call the MHV APIs matches the ICN within the JWT used to call the MHV APIs
+7. Vets-api MUST ensure the ICN used to call the MHV APIs is not deprecated
     1. Note: the JWT used to get the token to call the API will be different which is why this is an explicitly called out requirement
-7. Vets-api MUST log all requests, responses, and errors from the MHV account creation API
-8. Vets-api MUST log all requests, responses, and errors for all JWT actions associated with the account creation API
+8. Vets-api MUST log all requests, responses, and errors from the MHV account creation API
+9. Vets-api MUST log all requests, responses, and errors for all JWT actions associated with the account creation API
     1. Logs MUST at least include icn, session id, user uuid
-9. Vets-api MUST write to a new frontend serializer for the storage of the MHV attributes
-10. Vets-api MUST look for a temporary ICN and show the user an error if a non-temporary active ICN is not present.
+10. Vets-api MUST write to a new frontend serializer for the storage of the MHV attributes
+11. Vets-api MUST look for a temporary ICN and show the user an error if a non-temporary active ICN is not present.
     1. va.gov frontend MUST show an error message to the user stating there was an issue processing their user attributes, refer them to the help desk. Make this a new error code number so that we can inform the helpdesk to forward the issue onto IAM for a temporary ICN user.
-11. Vets-api MUST update the MHV related values within the user redis cache after a successful mhv account creation api call
-12. Vets-api MUST make a method available that allows internal vets-api applications to get a status of the MHV account creation API call made during user authentication.
+12. Vets-api MUST update the MHV related values within the user redis cache after a successful mhv account creation api call
+13. Vets-api MUST make a method available that allows internal vets-api applications to get a status of the MHV account creation API call made during user authentication.
 
 ## Host Endpoints
 
