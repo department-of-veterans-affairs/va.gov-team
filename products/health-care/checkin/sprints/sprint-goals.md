@@ -49,7 +49,7 @@
       - 🟨 [Renew `vista-api-alb-prod` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/677)
 - **Community Care Direct Scheduling**
     - FE STEP 1 - Mock Data
-        - [**2 points left**] 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
+        - ~[**2 points left**] 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)~
         - [**2 points left**] 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
         - 🟩 [Integrate referral mock ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96439)
     - FE STEP 2 - Appointments Page
