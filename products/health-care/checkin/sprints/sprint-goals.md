@@ -10,6 +10,7 @@
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
+    - 🟥 [Create Wireframe & Content for Aynsychronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96418)
     - FE STEP 4 - Schedule an Appointment with your Provider Page
         - Unit tests #95274
         - Hook up to mock data #95271
@@ -24,7 +25,7 @@
     - Handle error state when travel link cannot be retrieved #96580
     - Change appointment details page content to reflect updated mileage-only travel policy #96865
 - **Pre-Check-in - VAHB**
-    - TBD
+    - 🟥 [Create wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94167)
 - **Check in with staff after checking in**
     - TBD
 - **Tech Debt & Analytics**
