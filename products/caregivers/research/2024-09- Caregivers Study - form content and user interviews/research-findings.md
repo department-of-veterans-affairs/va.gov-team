@@ -198,8 +198,13 @@ Both Caregivers and Veterans struggled with the search functionality and results
 
 **Supporting video clip:**
 
-https://github.com/user-attachments/assets/526e3484-7657-4126-97cd-98f8afaee4e7
-<br>
+
+
+https://github.com/user-attachments/assets/167ea758-fa35-4342-9283-64d074ed938c
+
+
+
+
 _Video of a user entering "Tampa" for a facility and trying to continue onto the next page without realizing they need to search first. They see an error message appear._
 
 ### Finding 5: Veterans and Caregivers differ on facilities confirmation page content clarity.
