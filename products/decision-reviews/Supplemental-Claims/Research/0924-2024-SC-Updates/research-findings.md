@@ -282,7 +282,7 @@ Make updates based on recommendations, and consider a better evidence collection
 
 We talked to two cohorts of research participants. 1 cohort of 5 Veterans using assitive technology. 1 cohort of 6 Veterans not using assitive technology.
 
-[Supplemental Claims 2024 updates Recruitment tracker.pdf](https://github.com/user-attachments/files/17739301/Supplemental.Claims.2024.updates.Recruitment.tracker.pdf)
+[Supplemental Claims 2024 updates Recruitment tracker.pdf]([https://github.com/user-attachments/files/17739301/Supplemental.Claims.2024.updates.Recruitment.tracker.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/0924-2024-SC-Updates/Supplemental%20Claims%202024%20updates%20Recruitment%20tracker.pdf))
 
 
 ## **Further research needed**
