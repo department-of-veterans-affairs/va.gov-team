@@ -78,10 +78,11 @@ In Fall 2023, a CEDAR team was hired to [digitize 15 forms](https://github.com/d
   - Expiration: Not shown
   - *Curious if there are other Spina Bifida appliations we need to digitize*
   - Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/spina-bifida)
-9.	*Decision Review Request Board Appeal (Notice of Disagreement)  - VA Form 10182*
-  - [Notice of disagreement on VA.gov](https://www.va.gov/find-forms/about-form-10182/) (benefits only, so far)
+9. Decision Review Request Board Appeal (Notice of Disagreement)  - VA Form 10182*
+  - [Notice of disagreement on VA.gov](https://www.va.gov/find-forms/about-form-10182/) 
   - Expiration: 03/31/2025
-  - THis form exists today on va.gov, but only has a pathway for benefits NODs to be filed. We would propose to update this flow and how/where we submit the data to allow for health care NODs to be filed as well. Deeper discovery needed on this.
+  - The IVC appeals team receive board requests through the CMP, an online mailbox that the Board of Veterans Appeals uses to route documents they receive in their mail to appropriate agencies. The 10182 form actually
+ goes the board first, then they upload it to the CMP.  We download them and add in the needed documentation to form the board review packet, and then re-upload them there for the board to review. 
   - [Existing github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews) 
 10.	*Decision Review [Request Higher-Level review](https://www.va.gov/decision-reviews/higher-level-review/) - VA Form 20-0996*
   - Latest PDF: [VA Form 20-0996 on VA.gov](https://www.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/start)
