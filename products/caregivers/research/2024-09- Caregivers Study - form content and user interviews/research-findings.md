@@ -449,7 +449,7 @@ Therefore, we plan to:
    * An [experimental ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3253) has been opened by another team for signing forms by multiple people at different times. We will be watching if this can have future impact on the 10-10CG form.
 
 ### Recommendation 6: Research and identify why we saw users have problems with autofill in the form. Implement workarounds as directed by the design system team.
-_Related to: Secondary Finding 1_
+_Related to: [Secondary Finding 1](#Secondary-Finding-1-Autofill-caused-issues-on-some-browsers-and-devices-noted-on-AppleSafari)_
 
 We saw three users try to use autofill in the form and the form didn’t detect that they had entered anything in the fields. We have asked around to other product teams and found that this issue is likely specifically with Safari browsers and VADS has suggested a workaround that we should implement.
 
@@ -460,7 +460,7 @@ We saw three users try to use autofill in the form and the form didn’t detect 
 * [File a request with the VADS design system team](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/new/choose)
 
 ### Recommendation 7: Revisit the “County” field content and explore possible autofill functionality.
-_Related to: Secondary Finding 2_
+_Related to: [Secondary Finding 2](#Secondary-Finding-2-The-county-field-was-answered-correctly-by-most-Veterans-and-Caregivers)_
 
 Most users successfully completed the “county” field but many paused since this is not standard in asking for addresses, and a couple entered a country instead of a county.
 
@@ -470,7 +470,7 @@ Most users successfully completed the “county” field but many paused since t
 * Don't recommend adding country to the top of the address block at this time.
 
 ### Recommendation 8: Make content updates to the Sign as Representative step/page to clarify that no form is required and explain why a Caregiver should upload one of the forms if they already have it on-hand.
-_Related to: Secondary Finding 5_
+_Related to: [Secondary Finding 5](#Secondary-Finding-5-VA-forms-listed-under-the-Sign-as-Representative-step-caused-some-confusion-with-participants)_
 
 There was confusion and concern around signing as a representative for many of our Caregiver participants. Some Caregivers weren’t sure what some of the VA forms in the list were and several were concerned that there would be a problem if they couldn’t upload any of those documents.
 Therefore, we plan to:
