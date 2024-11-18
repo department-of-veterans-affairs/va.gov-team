@@ -10,7 +10,7 @@
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
-    - 🟥 [Create Wireframe & Content for Aynsychronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96418)
+    - 🟥 🟫 [Create Wireframe & Content for Aynsychronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96418)
     - FE STEP 4 - Schedule an Appointment with your Provider Page
         - Unit tests #95274
         - Hook up to mock data #95271
