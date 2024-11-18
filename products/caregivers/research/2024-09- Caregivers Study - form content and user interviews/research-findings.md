@@ -344,23 +344,23 @@ There were a few instances where users suggested unprompted that the information
 
 Labels: AUD: Caregivers; AUD: Family members; AUD: VSOs
 
-Caregivers expressed some confusion around the documents or process required to sign as representative - and some of those who had a POA stated it might be easier to select the Veteran sign for themselves as they were with them most of the time anyways. Most Veterans stated they would sign for themselves, but two mentioned going through a VSO or that their spouse would need to upload their document when applying.
+Caregivers expressed some confusion around the documents or process required to sign as representative - and some of those who had a POA stated it might be easier to select the Veteran sign for themselves as they were with them most of the time anyway. Most Veterans stated they would sign for themselves, but two mentioned going through a VSO or that their spouse would need to upload their document when applying.
 
 **Cohort 1 (Caregivers**
-* 7 of 13 Caregivers mentioned some sort of confusion about the Sign as Representative documents needed
-* 7 of 13 Caregivers mentioned the VA forms listed as Sign as Representative documents to upload as a confusion point - they were not familiar with all the VA forms and unsure if they had any of them
-* 6 of 13 Caregivers indicated they have one or more of the documents listed
-* 2 of 13 Caregivers said they would download a VA form and upload at that point in the CG form
-* 2 of 13 Caregivers stated they thought POA was needed to apply for the program
+* 7 of 13 Caregivers mentioned some sort of confusion about the Sign as Representative documents needed.
+* 7 of 13 Caregivers mentioned the VA forms listed as Sign as Representative documents to upload as a confusion point - they were not familiar with all the VA forms and unsure if they had any of them.
+* 6 of 13 Caregivers indicated they have one or more of the documents listed.
+* 2 of 13 Caregivers said they would download a VA form and upload it at that point in the CG form.
+* 2 of 13 Caregivers stated they thought POA was needed to apply for the program.
 
 **Cohort 2 (Veterans)**
-* 6 of 8 Veterans would sign for themselves (not POA)
-* 2 of 8 Veterans would go VSO route, or spouse as POA, and they would sign/upload documents
-* 1 of 8 Veterans was confused if a POA was required or not to even apply
+* 6 of 8 Veterans would sign for themselves (not POA).
+* 2 of 8 Veterans would go VSO route, or spouse as POA, and they would sign/upload documents.
+* 1 of 8 Veterans was confused if a POA was required or not to apply.
 
 **Supporting behavior:**
 
-* P34: Would've looked up the VA forms online and filled them out and signed them and then uploaded that
+* P34: Would've looked up the VA forms online and filled them out and signed them and then uploaded that.
 
 
 **Supporting quotes:**
