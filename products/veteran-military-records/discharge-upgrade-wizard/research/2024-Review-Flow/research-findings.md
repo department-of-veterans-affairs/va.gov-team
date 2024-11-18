@@ -79,7 +79,7 @@ We conducted remote moderated usability testing over Zoom from October 22-Novemb
 
 **1. All participants were able to navigate the edit flow.**
 
-*Labels: PRDT: Discharge-upgrade-wizard, AUD: Veterans, DSC: Experimental, DSP: Sub-task, DSP: Wizards, VETJNY: Getting out Military*
+*Labels: PRDT: Discharge-upgrade-wizard, DSC: Experimental, DSP: Sub-task, DSP: Wizards*
 
 - All participants were able to edit questions with no difficulty.
 - All participants understood how to navigate the Back/Continue button functionality when editing answers.
@@ -154,7 +154,7 @@ One participant wasn't sure where the Back button would navigate to. They were c
 
 ![Screenshot 2024-11-15 at 3 31 35 PM](https://github.com/user-attachments/assets/ab429c62-35eb-45b4-ba32-1f08ae2063d1)
 
-Three participants found the wording of the prior service confusing. One of those participants pointed out that they previously had a character of service that was General Under Honorable Conditions. They noticed the word "general" in the question, but became confused when they didn't see the word in any of the answers. The other two participants found the wording confusing in general, but were able to answer the question. 
+Three participants found the wording of the prior service question confusing. One of those participants pointed out that they previously had a character of service that was General Under Honorable Conditions. They noticed the word "general" in the question, but became confused when they didn't see the word in any of the answers. The other two participants found the wording confusing in general, but were able to answer the question. 
 
 > "So I wanted to put that, but also put this right here, but it only lets me choose one. That's kind of frustrating." (p6)
 
@@ -194,7 +194,7 @@ Three participants gave feedback that there was too much content on the results 
 
 Two participants said they wanted more info on buddy statements. 
 - One participant wanted examples of written buddy statements and an estimate of how many were needed.
-- One participant wanted more emphasis on how improtant buddy statements are. 
+- One participant wanted more emphasis on how important buddy statements are. 
 
 > "I guess it's helpful if you're starting out at square one and have no idea what you're doing. By this point, most Veterans, at least most Veterans who are under the age of 50, have already visisted online forums or went to their local VFW or American Legion and have already got direction and paperwork from someone else that does this for them." (p3)
 
@@ -246,11 +246,39 @@ This study had three participants who used assistive technology, one used a scre
 
 ## Recommendations
 
-* Change year of discharge dropdown to an input field
+### For wizard design and functionality
+* Change year of discharge dropdown to an input field.
     * VA Design System guidelines suggest to consider a different component when there are more than 15 options in the dropdown.
     * [Guidelines for select component](https://design.va.gov/components/form/select)
-* Recommendation 2
-    * _Supporting evidence_
+* Allow users to select multiple reasons for changing their discharge paperwork.
+    * Two participants wanted to select multiple responses to why they wanted to change their discharge paperwork. One of the participants remembered being able to select multiple reasons on Form 149 when they had applied for a discharge upgrade in the past.
+* Make areas of the results page collapsable.
+    * Hiding information on the page would reduce cognitive load.
+    * Three participants gave feedback that there was too much content on the results page.
+
+### For wizard content
+* Reword the prior service question.
+    * The prior service question asks "Did you complete a period of service in which your character of service was Honorable or General Under Honorable Conditions?"
+    * Add the word "general" to the answers since this is mentioned in the question. One participant noticed the word "general" in the question, but became confused when they didn't see the word in any of the answers. 
+    * Two participants found the wording confusing to this question.
+* Add Space Force to the list of branch options or state what to select instead.
+    * Two participants noted that Space Force was missing from the list of branch options.
+* Add more wording to the Get Started action link on the start page.
+    * One participant using a screen magnifier missed this link.
+    * Adding more words could make this link be more noticeable.
+* Add more information about buddy statements to results page.
+    * One participant wanted examples of written buddy statements and an estimate of how many were needed.
+    * One participant wanted more emphasis on how improtant buddy statements are.
+* Add more information to the results page that's specific to the reason for wanting a discharge upgrade.
+    * This could also be boilerplate text that users can copy into Form 149 to help them fill it out.
+    * Three participants expressed concerns that Form 149 was confusing, had a lot of content, and would be difficult to fill out on their own.
+    * One participant expressed that the info on the page was very general and not specific to the discharge upgrade reason they gave.    
+
+### For submission process
+* Allow users to submit form online.
+    * Three participants wanted to submit their form online instead of mailing it in.
+* Update users on where they're at in the process after submitting their form.
+    * Three paricipants would like more communication about the discharge upgrade process after submitting their form.
 
 
 ## Next Steps
@@ -259,7 +287,7 @@ This study had three participants who used assistive technology, one used a scre
 
 ## Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/research-plan.md))
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/research-plan.md)
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/conversation-guide.md)
 
@@ -288,8 +316,6 @@ This study had three participants who used assistive technology, one used a scre
 ## Who we talked to 
 
 **Recruitment criteria**
-
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
 We talked to **10 participants.**
 
