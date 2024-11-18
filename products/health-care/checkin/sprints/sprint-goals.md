@@ -11,6 +11,7 @@
       - TBD
 - **Community Care Direct Scheduling**
     - 🟥 🟫 [Create Wireframe & Content for Aynsychronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96418)
+    - 🟥 [Add annotations for referral and requests link behavior #96632](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96632)
     - FE STEP 4 - Schedule an Appointment with your Provider Page
         - Unit tests #95274
         - Hook up to mock data #95271
@@ -29,7 +30,8 @@
 - **Check in with staff after checking in**
     - TBD
 - **Tech Debt & Analytics**
-    - 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97294)    
+    - 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97294)
+    - 🟥 [[Design artifact] Migrate released feature page wireframes into the Production Figma file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96913) 
 </details>
 
 ## SPRINT 20 - 11/13/2024-11/26/2024
