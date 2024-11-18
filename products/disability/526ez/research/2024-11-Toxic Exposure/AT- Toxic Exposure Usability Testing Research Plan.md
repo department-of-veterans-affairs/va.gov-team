@@ -122,13 +122,13 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 
   ## 
 
-  ## **Methodology**
+ ## **Methodology**
 
   We plan on conducting 90-minute moderated usability sessions with AT users on staging. 
 
   ### 
 
-  ### **Location**
+## **Location**
 
 Remote on Zoom
 
@@ -136,21 +136,12 @@ Remote on Zoom
 
 ### **Research materials**
 
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan – prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for setup and recruitment.
-
-For moderated interviews:
-
-* \[Link to conversation guide\](url goes here)
-
   For moderated usability tests:
 
 * \[Link to conversation guide\](url goes here)
 
 * \[Link to prototype\](url goes here)
 
-  ## 
 
 ## **Recruitment**
 
