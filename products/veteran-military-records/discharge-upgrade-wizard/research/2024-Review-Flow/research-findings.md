@@ -128,6 +128,7 @@ Labels: label 1, label 2
 - Most participants didn't comment on updated answers on the review screen and continued to the results page with no questions.
 - Four participants noticed the alert on the review page that their answer was updated.
 - One participant would like to be able to save their answers.
+- One participant wasn't sure where the Back button would navigate to.
 
 > "I like the fact that I'm able to look and see the answers on one page that I've completed so far." (p8)
 
@@ -143,13 +144,18 @@ Labels: label 1, label 2
 
 This alert appears on the review screen after an answer has been edited. Although four participants noticed this alert, none of them opened it to reveal additional text. 
 
+> "[Back button is] a bit unnecessary on this page." (p12)
+
+One participant wasn't sure where the Back button would navigate to. They were concerned if going back would take them to the beginning, resulting in losing answers, does it go to his last edit page, the last question answered on the whole DUW?
+
+
 **4. Some participants found the questions confusing or lacking information.**
 
 Labels: label 1, label 2 
 
 - Two participants wanted to select multiple reasons for changing discharge paperwork.
 - Three participants were confused by the prior service question.
-- One participant noted that Space Force was missing from the list of military branch options. 
+- One participant noted that Space Force was missing from the list of military branch options.
 
 > "So I wanted to put that, but also put this right here, but it only lets me choose one. That's kind of frustrating." (p6)
 
@@ -179,9 +185,11 @@ Labels: label 1, label 2
 
 > "I would print this page just for my information." (p11)
 
+> "I don't know how to get back to the instructions without filling out the application all over again" (p12)
+
 Three participants said there was too much content on the page. 
 - One participant used a screen reader (Speechify) to help break down the content on the page and reduce the cognitive load. This participant only used the screen reader on the start and results screens. They didn't need to use it on the question or review screens, indicating that the content on those pages wasn't overwhelming.
-- Four participants said their next step would be to print out the page. This could indicate that there is too much information to digest at once. 
+- Four participants said their next step would be to print out the page. This could indicate that there is too much information to digest at once. One participant wanted to be able to save the results screen and instructions.
 
 ![Screenshot 2024-11-15 at 4 51 38 PM](https://github.com/user-attachments/assets/1ca62f3f-50c8-4bbc-b78f-1f4784b1968b)
 
@@ -221,8 +229,6 @@ Three participants expressed concerns that Form 149 was confusing, had a lot of 
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
 1. Assistive technology users were able to complete all tasks. 
 
 > "It's going to be accessible for a visually impaired Veteran." (p7)
@@ -235,12 +241,15 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 > “I think what worked well was the flow of the questions and how easy it was to answer the questions. There wasn't like a whole lot of box requesting text.” (p12)
 
+2. Assistive technology users had trouble with the action link on the start screen
+- One participant using a screen magnifier missed this link
+- One participant using a screen reader believed that this was the bottom of the page
+
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
+* Change year of discharge dropdown to an input field
+    * VA Design System guidelines suggest to consider a different component when there are more than 15 options in the dropdown.
+    * [Guidelines for select component](https://design.va.gov/components/form/select)
 * Recommendation 2
     * _Supporting evidence_
 
@@ -248,12 +257,6 @@ _Put together initial recommendations here based on your findings along with sup
 ## Next Steps
 
 - Present readout to project stakeholders
-
-
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
 
 ## Appendix
 
@@ -290,6 +293,10 @@ _If there are demographics that were not included in this study or you discovere
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
 We talked to **10 participants.**
+
+Discharge upgrade:
+* Previously applied: 4
+* Hasn't applied: 6 
 
 Audience segment:
 * Veterans: 10
