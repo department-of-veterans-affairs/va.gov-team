@@ -61,7 +61,7 @@ None
 |   43  | 10-20-2024 | 10-26-2024 | Leah De La Costa | [95752](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95752), [95951](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95951) | Completed |
 |   44  | 10-27-2024 | 11-02-2024 | Peter Russo | [95957](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95957) | Completed |
 |   45  | 11-03-2024 | 11-09-2024 | Peter Russo | [96840](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96840) | Completed |
-|   46  | 11-10-2024 | 11-16-2024 | Peter Russo | []()         |        |
+|   46  | 11-10-2024 | 11-16-2024 | Peter Russo | [97312](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97312) | In Progress       |
 |   47  | 11-17-2024 | 11-23-2024 | Peter Russo | []()         |        |
 |   48  | 11-24-2024 | 11-30-2024 | Peter Russo | []()         |        |
 |   49  | 12-01-2024 | 12-07-2024 | Peter Russo | []()         |        |
