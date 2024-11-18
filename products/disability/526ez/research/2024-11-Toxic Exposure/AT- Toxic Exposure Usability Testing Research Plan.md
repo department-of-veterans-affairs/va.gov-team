@@ -179,7 +179,7 @@ Recruit 12 Veterans for 6 completes. We have divided our participants into 3 coh
   * 2 Veterans, 1 complete
 
 
-#### **Cohort 1- Screen reader users**
+### **Cohort 1- Screen reader users**
 
 Recruit **6** participants who are daily users of screen readers **for a minimum of 3 completed sessions.** 
 
@@ -213,7 +213,7 @@ Recruit **6** participants who are daily users of screen readers **for a minimum
 
 * Mix of experience filing for disability benefits online using VA.gov
 
-#### **Cohort 2- Alternative navigation users**
+### **Cohort 2- Alternative navigation users**
 
 **Primary criteria** 
 
@@ -242,7 +242,7 @@ Recruit **4** Veterans who are daily users of alternative navigation **for a min
 
 * Mix of experience filing for disability benefits online using VA.gov
 
-#### **Cohort 3: Screen magnification users**
+### **Cohort 3: Screen magnification users**
 
 **Primary criteria**
 
@@ -266,7 +266,7 @@ Recruit **2** Veterans who are daily users of screen magnification technology **
 
 * Mix of experience filing for disability benefits online using VA.gov
 
-### **Screener Questions**
+## **Screener Questions**
 
 **General VA Questions** (include w/ all cohorts)
 
@@ -296,7 +296,7 @@ Recruit **2** Veterans who are daily users of screen magnification technology **
 
 * No
 
-#### **Cohort 1 Questions \- Screen reader users**
+### **Cohort 1 Questions \- Screen reader users**
 
 1. Do you need to use a screen reader to access websites or applications? For example, VoiceOver, TalkBack, or JAWS.
 
@@ -354,7 +354,7 @@ Recruit **2** Veterans who are daily users of screen magnification technology **
 
    * Open text box
 
-#### **Cohort 2 Questions \-Alternative navigation users**
+### **Cohort 2 Questions \-Alternative navigation users**
 
 1. Do you need to use alternative navigation tools to access websites or applications? For example, switch systems, Dragon, Voice Control or a sip and puff device.
 
@@ -416,7 +416,7 @@ Recruit **2** Veterans who are daily users of screen magnification technology **
 
    * Open text box
 
-#### **Cohort 3 Questions- Screen magnification users**
+### **Cohort 3 Questions- Screen magnification users**
 
 1. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device?
 
@@ -458,11 +458,11 @@ Recruit **2** Veterans who are daily users of screen magnification technology **
 
    
 
-   ## **Timeline**
+## **Timeline**
 
    Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
-   ### **Prepare**
+### **Prepare**
 
    When will the thing you are testing be finalized? Ideally it’s ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
