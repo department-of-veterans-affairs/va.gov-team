@@ -421,7 +421,7 @@ As a result, we plan to:
 * Update the search button on mobile to include word "search," not just a magnifying glass icon as it currently is.
 
 ### Recommendation 4: Explore auto-recommend options for facility selection flow.
-_Related to: [Key Finding 4](#Finding-4-The-facility-search-functionality-was-difficult-and-confusing-for-some-users) + [Secondary Finding 4](#Secondary-Finding-4-Automation-prefill-was-requested-by-some-users-unprompted)_
+_Related to: [Key Finding 4](#Finding-4-The-facility-search-functionality-was-difficult-and-confusing-for-some-users) + [Secondary Finding 4](#Secondary-Finding-4-Automationprefill-was-requested-by-some-users-unprompted)_
 
 Since users struggled with the usability of the facility search step and some users commented that we should be able to suggest some nearby facilities, we’d like to explore making facility recommendations for the user based on (most likely) the Veteran’s home address. We’ll still need to give the user an easy way to start a new search in case the Veteran receives care somewhere not near their home address.
 
