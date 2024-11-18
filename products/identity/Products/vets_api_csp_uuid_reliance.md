@@ -3,12 +3,16 @@
 ## Audit Query Results
 
 ### `current_user.uuid` - 69 results - 47 files
+
 ### `current_user&.uuid` - 22 results - 13 files
+
 ### `(?<!current_)user.uuid` - 603 results - 188 files
+
 ### `idme_uuid` - 197 results - 51 files
+
 ### `logingov_uuid` - 142 results - 48 files
 
-    excluded: vendor/,index.html,spec/,log/
+    excluded files: vendor/, index.html, spec/, log/
 
 ## Core Identity Code
 
@@ -30,14 +34,16 @@
 ### User Identity
 
 - `vets-api/app/services/sign_in/user_loader.rb`
+- `vets-api/lib/saml/user_attributes/base.rb`
 - uses idme_uuid / logingov_uuid to create UserIdentity
-vets-api/lib/saml/user_attributes/base.rb
 - looks up UserIdentity with idme_uuid
+- impact: moderate
 
 ### SignIn AttributeValidator
 
 - `vets-api/app/services/sign_in/attribute_validator.rb`
 - checks for presence of logingov_uuid, idme_uuid, mhv_uuid, dslogon_uuid
+- impact: moderate
 
 ### SignIn CredentialLeveLCreator
 
@@ -131,103 +137,133 @@ vets-api/lib/saml/user_attributes/base.rb
 
 ### HigherLevelReviews
 
-vets-api/app/controllers/v1/higher_level_reviews_controller.rb
+- `vets-api/app/controllers/v1/higher_level_reviews_controller.rb`
 - creates "AppealSubmission" using user_uuid, also uses user_account
 - impact: moderate
 
 ### SupplementalClaims
 
-vets-api/app/controllers/v1/supplemental_claims_controller.rb
+- `vets-api/app/controllers/v1/supplemental_claims_controller.rb`
 - creates "AppealSubmission" using user_uuid, also uses user_account
 - impact: moderate
 
 ### AppealSubmissions
 
-vets-api/app/models/appeal_submission.rb
+- `vets-api/app/models/appeal_submission.rb`
 - creates "AppealSubmission" using user_uuid, also uses user_account
 - impact: moderate
 
 ### MHVLoggingService
 
-vets-api/app/services/mhv_logging_service.rb
+- `vets-api/app/services/mhv_logging_service.rb`
 - enqueues "MHV::AuditLoginJob" using user_uuid to look up user again
 - impact: low
 
 ### DebtsAPI
 
-vets-api/modules/debts_api/app/controllers/debts_api/v0/financial_status_reports_controller.rb
+- `vets-api/modules/debts_api/app/controllers/debts_api/v0/financial_status_reports_controller.rb`
 - uses user_uuid to look up "DebtsApi::V0::Form5655Submission" & attempt to run "DebtsApi::V0::FsrRehydrationService"
 - impact: moderate
 
 ### Mobile
-vets-api/modules/mobile/app/controllers/mobile/v0/awards_controller.rb
+
+#### Awards
+
+- `vets-api/modules/mobile/app/controllers/mobile/v0/awards_controller.rb`
 - uses user_uuid for "Mobile::V0::Award" id
 - impact: low
 
-vets-api/modules/mobile/app/controllers/mobile/v0/payment_information_controller.rb
+#### PaymentInformation
+
+- `vets-api/modules/mobile/app/controllers/mobile/v0/payment_information_controller.rb`
 - create "Mobile::V0::PaymentInformation" & legacy creation methods using user_uuid
 - impact: low
 
-vets-api/modules/mobile/app/controllers/mobile/v0/users_controller.rb
+#### Users
 
-vets-api/modules/mobile/app/controllers/mobile/v1/users_controller.rb
+- `vets-api/modules/mobile/app/controllers/mobile/v0/users_controller.rb`
+- `vets-api/modules/mobile/app/controllers/mobile/v1/users_controller.rb`
 - uses user_uuid to enqueue a job & attempt to look up "IAMUser"/"User" with it
 - same for "Vet360LinkingJob"
 - impact: moderate
 
-vets-api/modules/mobile/app/models/mobile/v0/adapters/facility_info.rb
+#### FaciltyInfo
+
+- `vets-api/modules/mobile/app/models/mobile/v0/adapters/facility_info.rb`
 - create "Mobile::V0::FacilityInfo" using user_uuid
 - impact: low
 
 ### EducationCareerCounselingClaims
-vets-api/app/controllers/v0/education_career_counseling_claims_controller.rb
+
+- `vets-api/app/controllers/v0/education_career_counseling_claims_controller.rb`
 - uses user_uuid to look up User for purpose of sending an email
 - impact: low
 
 ### BGS
-vets-api/lib/bgs/service.rb
+
+- `vets-api/lib/bgs/service.rb`
 - uses user.uuid (after user.icn) to create new BGS::Services
 - impact: low
 
 ### DebtManagementCenter
-vets-api/lib/debt_management_center/debts_service.rb
+
+- `vets-api/lib/debt_management_center/debts_service.rb`
 - uses user.uuid to find/create/cache DebtManagementCenter::DebtStore
 - impact: low
 
 ### KMS Encryption
-vets-api/app/controllers/v0/veteran_readiness_employment_claims_controller.rb
+
+#### VeteranReadinessEmploymentClaims
+
+- `vets-api/app/controllers/v0/veteran_readiness_employment_claims_controller.rb`
 - user_uuid included in encrypted_user for VRE::Submit1900Job call
 - impact: low
 
-vets-api/app/models/dependents_application.rb
+#### DependentsApplication
+
+- `vets-api/app/models/dependents_application.rb`
 - user_uuid included in encrypted_user for EVSS::DependentsApplicationJob call
 - impact: low
 
-vets-api/lib/form1010_ezr/service.rb
+#### Form1010EZR
+
+- `vets-api/lib/form1010_ezr/service.rb`
 - user_uuid included in HCA::EzrSubmissionJob & HealthCareApplication::LOCKBOX.encryption
 
 ## ID.me & Login.gov UUID usage
 
-vets-api/app/policies/demographics_policy.rb
+### DemographicsPolicy
+
+- `vets-api/app/policies/demographics_policy.rb`
 - checks for idme_uuid/logingov_uuid to determine access
 - impact: moderate
 
-vets-api/app/policies/va_profile_policy.rb
+### VAProfilePolicy
+
+- `vets-api/app/policies/va_profile_policy.rb`
 - checks for vet360id, then idme_uuid/logingov_uuid to determine access to V2
 - impact: low
 
-vets-api/app/services/identity/account_creator.rb
-- checks for sec_id/idme_uuid/logingov_uuid, uses one of them to create an "Account"
-- impact: moderate
+### AccountCreator
 
-vets-api/modules/claims_api/app/models/claims_api/veteran.rb
+- `vets-api/app/services/identity/account_creator.rb`
+- checks for sec_id/idme_uuid/logingov_uuid, uses one of them to create an "Account"
+- impact: low/none if Account is deprecated
+
+### ClaimsAPI
+
+- `vets-api/modules/claims_api/app/models/claims_api/veteran.rb`
 - pulls idme_uuid/logingov_uuid from UserIdentity
 - impact: unknown
 
-vets-api/modules/test_user_dashboard/app/services/test_user_dashboard/create_test_user_account.rb
+### TUD
+
+- `vets-api/modules/test_user_dashboard/app/services/test_user_dashboard/create_test_user_account.rb`
 - test user account creation requires idme_uuid/logingov_uuid
 - impact: low
 
-vets-api/rakelib/login.rake
+### Login Rakefile
+
+- `vets-api/rakelib/login.rake`
 - uses idme_uuid/logingov_uuid to pass as User uuid to look up a user
 - impact: low
