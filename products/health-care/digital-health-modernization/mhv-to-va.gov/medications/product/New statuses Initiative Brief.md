@@ -72,12 +72,12 @@
 #### "Pending" Status Details 
 - Pending prescriptions are medications ordered by a VA facility but not yet dispensed or accepted by the pharmacy.
 - In the source code they are listed as PD.  We return Pending medications with an “Order type” of NEW ORDER, HOLD, or RENEW.   It disregards values DISCONTINUED (EDIT), DISCONTINUED, and REFILL REQUEST. Uses API 4821: PEN^PSO5241.
-- These prescriptions are usually accepted or dispensed by the pharmacy within 24-72 hours but could take up to 7 days from the date it was ordered.
+- A HOLD is placed on a pending order when the pharmacist has questions (E.g. drug-drug interaction and pharmacist is waiting to here from doctor before processing it and also informs other pharmacy staff why its on hold). There could be a delay in processing these Rx until the pharmacist has resolved the issue. 
+- Pending prescriptions are usually accepted or dispensed by the pharmacy within 24-72 hours but could take up to 7 days from the date it was ordered.
 - The old Rx will be grouped/associated with the pending one (being renewed) to indicate to the user that the new prescription is process and they do not need to take action at this time.
 - For the list view we need to show:
   - Medication name *drug name unless not available, show Orderable Item
   - Prescription number
-  - number of refills left
   - Status
   - [descriptive information about the status]
 - There should be a details page for pending prescriptions that includes all data fields including instructions, etc. But need to show a disclaimer that this information could change.
