@@ -38,14 +38,14 @@ Dispute debt form will live under /manage-va-debt/ on the same level as the 5655
 
 ### Sub-URLs
 
-/introduction
-/personal-information
-/contact-information
-/select-debt
-/existence-or-amount
-/dispute-reason
-/review-and-submit
-/confirmation
+- /introduction
+- /personal-information
+- /contact-information
+- /select-debt
+- /existence-or-amount
+- /dispute-reason
+- /review-and-submit
+- /confirmation
 
 Follow guidance for list-and-loop URLs here: https://design.va.gov/components/url-standards/
 
