@@ -19,7 +19,7 @@ The MHV team has created an api called the MHV account creation API which the VA
     2. Values optional for API request:
         1. CSP supplied email
 2. The cache that stores the result of the MHV account creation API MUST expire every 24 hours. The next user authenticated action MUST make a fresh call to the MHV account creation API to ensure there is fresh data loaded into the cache from the response.
-   3. This is to ensure if there is an update to the users MHV account information we get the latest data, such as updated access to secure messaging.
+    3. This is to ensure if there is an update to the users MHV account information we get the latest data, such as updated access to secure messaging.
 2. Vets-api MUST use a signed JWT created by vets-api STS to the MHV team and the JWT MUST contain the proper user ICN value and format
 3. Vets-api MUST not call the MHV account creation API for a user who cannot successfully login to the VA.gov portal.
     1. Note: if the user has a date of death or otherwise account blocking flag, the user will not be able to login and the MHV account creation api should be impossible/not allowed to be called.
