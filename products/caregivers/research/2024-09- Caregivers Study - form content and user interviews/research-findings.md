@@ -198,9 +198,9 @@ Both Caregivers and Veterans struggled with the search functionality and results
 
 **Supporting video clip:**
 
-| https://github.com/user-attachments/assets/526e3484-7657-4126-97cd-98f8afaee4e7 |
-|:--:|
-| *Video of a user entering "Tampa" for a facility and trying to continue onto the next page without realizing they need to search first. They see an error message appear.* |
+https://github.com/user-attachments/assets/526e3484-7657-4126-97cd-98f8afaee4e7
+<br>
+_Video of a user entering "Tampa" for a facility and trying to continue onto the next page without realizing they need to search first. They see an error message appear._
 
 ### Finding 5: Veterans and Caregivers differ on facilities confirmation page content clarity.
 
@@ -292,7 +292,9 @@ The _county_ field was mostly answered easily and correctly by users. However, s
 | ![Home address](https://github.com/user-attachments/assets/90cb5746-d0b9-400d-8d82-15128e8d9513)| 
 |:--:|
 | *County field with additional info expanded* |
+
 <br>
+
 | ![Home address (1)](https://github.com/user-attachments/assets/3a6462c2-846d-48c5-9170-4aadd9fd81bb) |
 |:--:|
 | *County field with error message when field is left blank that says "Enter a county"* |
