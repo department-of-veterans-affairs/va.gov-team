@@ -124,9 +124,9 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 
 For moderated usability tests:
 
-* \[Link to conversation guide\](url goes here)
+* \[Link to conversation guide\]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Conversation%20Guide.md))
 
-* \[Link to prototype\](url goes here)
+* Link to prototype- We will be testing in staging; Toxic exposure is already in production. 
 
   ## **Recruitment**
 
