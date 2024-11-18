@@ -135,7 +135,9 @@ Veterans and Caregivers were somewhat split on whether they feel comfortable sig
 
 **Supporting visual:**
 
-![Screenshot 2024-11-13 at 12 50 04 PM](https://github.com/user-attachments/assets/1dc060ee-3c68-4b05-a909-67c250d9f3be)
+| ![Screenshot 2024-11-13 at 12 50 04 PM](https://github.com/user-attachments/assets/1dc060ee-3c68-4b05-a909-67c250d9f3be) |
+|:--:|
+| *Description* |
 
 **Supporting quotes:**
 
