@@ -1,6 +1,6 @@
-# **Assistive Tech - Toxic Exposure Evaluative Research Study Plan** 
+# **Assistive Tech [AT]- Toxic Exposure Evaluative Study Research Plan** 
 
-Disability Benefits Team 1, November 2024
+## Disability Benefits Team 1, November 2024
 
 ## **Background**
 
