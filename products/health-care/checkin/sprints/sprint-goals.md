@@ -10,23 +10,23 @@
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
-    - 🟥 🟫 [Create Wireframe & Content for Aynsychronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96418)
+    - 🟥🟫 [Create Wireframe & Content for Aynsychronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96418)
     - 🟥 [Add annotations for referral and requests link behavior #96632](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96632)
     - 🟥 (Placeholder) determine Veteran-facing UAT plan
     - 🟥 [Create 301 redirect ticket #93947](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93947)
     - FE STEP 4 - Schedule an Appointment with your Provider Page
-        - Unit tests #95274
-        - Hook up to mock data #95271
+        - 🟩[Unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95274)
+        - 🟩 [Hook up to mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95271)
     - FE STEP 6 - Community Care Complete page
-        - Create Complete page #95282
-        - Create started time stamp and calculate time to complete on submit. #96815
+        - 🟩 [Create Complete page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95282)
+        - 🟩 [Create started time stamp and calculate time to complete on submit.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96815)
     - BE STEP 1 - Implement EPSAppointmentsService
-        - Implement merge_eps_appointments method in AppointmentsService #96412
-        - Implement create_draft_appointment method #96413
-        - Implement create_appointment method #96414
+        - 🟦[Implement merge_eps_appointments method in AppointmentsService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96412)
+        - 🟦 [Implement create_draft_appointment method](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96413)
+        - 🟦 [Implement create_appointment method](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96414)
 - **Travel Claims for Past Appts**
-    - Handle error state when travel link cannot be retrieved #96580
-    - Change appointment details page content to reflect updated mileage-only travel policy #96865
+    - 🟩 [Handle error state when travel link cannot be retrieved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96580)
+    - 🟩 [Change appointment details page content to reflect updated mileage-only travel policy](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96865)
 - **Pre-Check-in - VAHB**
     - 🟥 [Create wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94167)
 - **Check in with staff after checking in**
