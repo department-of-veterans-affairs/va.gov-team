@@ -81,7 +81,7 @@
     - 🟥 [Kick off Unmoderated Study with Perigean & Monitor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95475)    
 - **Tech Debt & Analytics**
     - 🟩 [Change Tagalog Content Based on Feedback from SD](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96861)
-    - 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96180)
+    - ✔️ 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96180)
     - 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
 
 ## SPRINT 19 - 10/30/2024-11/12/2024
