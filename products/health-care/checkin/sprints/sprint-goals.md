@@ -75,13 +75,13 @@
 - **Travel Claims for Past Appts**
     - [**1 points left**] 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
     - 🟥 [[DESIGN] Create error state for when travel link cannot be retrieved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96578)
-    - 🟥 [[DESIGN] Change appointment details page content to reflect updated mileage-only travel policy](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96784)
+    - ✔️ 🟥 [[DESIGN] Change appointment details page content to reflect updated mileage-only travel policy](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96784)
 - **Pre-Check-in - VAHB**
     - 🟥 [Complete initial onboarding for working in VAHB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94639)
     - 🟥 [Create User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94232)
 - **Check in with staff after checking in**
     - 🟩 [Update Check-in to tell Veterans to go up to MSAs 5 min after appointment time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96034)
-    - 🟥 [[Research] Submit unmoderated survey research materials to Shane and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95704)
+    - ✔️ 🟥 [[Research] Submit unmoderated survey research materials to Shane and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95704)
     - 🟥 [Kick off Unmoderated Study with Perigean & Monitor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95475)    
 - **Tech Debt & Analytics**
     - 🟩 [Change Tagalog Content Based on Feedback from SD](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96861)
