@@ -1,5 +1,5 @@
 
-# Product Outline: A11 Intercept Survey 2.0
+# A11 Intercept Survey 2.0
 
 ## Overview
 The A11 intercept survey serves as the global feedback tool, randomly presented to users across VA.gov. It provides a mechanism for collecting user feedback on various VA.gov experiences and establishes a baseline for customer satisfaction to track progress over time.
