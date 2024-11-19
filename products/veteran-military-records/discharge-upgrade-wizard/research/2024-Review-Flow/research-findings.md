@@ -6,7 +6,7 @@ Date: 11/14/2024
 
 Jordan Wood [jordan.wood@civicactions.com]
 
-Research readout (When available)
+Research readout (when available)
 
 **Jump to:**
 
@@ -300,7 +300,7 @@ This study had three participants who used assistive technology, one used a scre
 
 - [Mural board affinity mapping](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1729200163955/46aa9b3e2cfc9462b4fc8084a29cfcd6109e40ed?sender=u01810f3edbfc878c08be5925)
 
-- Synthesis spreadsheet (when available)
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/DUW%20review%20flow%20data%20analysis.xlsx)
 
 
 ## Pages and applications used
