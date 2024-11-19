@@ -44,7 +44,7 @@ It is critical that redirect requests are thoughtfully planned out, and carefull
 Redirects should be requested at least 2 weeks in advance to ensure they are properly vetted and the implementation team can plan for the work. 
 
 ### Process
-1.	Create an issue using the [Redirect, URL change, or vanity URL request issue template in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) at least 2 weeks prior to desired launch date
+1.	Create an issue using the [Redirect, URL change, or vanity URL request issue template in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=redirect-request.md) at least 2 weeks prior to desired launch date
 2.	IA will review and communicate any questions or changes, and assign over to the implementation team
     - Review will include ensuring a proper destination is selected, any casing issues are identitified, and direction for child pages is determined (if applicable)
     - IA will update the issue with any additional direction or updates needed 	
