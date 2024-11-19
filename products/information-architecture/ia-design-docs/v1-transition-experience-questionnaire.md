@@ -67,12 +67,4 @@ No redirects needed since this is a net-new tool
 We could look into a best bet that might make sense, but unlikely that users are going to be searching for careers-specific explorer tool
 
 ## <a name="stagedrollout"></a>Staged Rollout<br>
-*Is the team planning a staged rollout? Pages/sections that can't have a widget: find a form pages, within accordions, hub pages*
-
-**[Which static page has the widget, ie the main entry point?]**
-
-
-
-
-<hr>
-<hr>
+The team is not going to do a staged rollout.
