@@ -11,7 +11,7 @@ We will include two Medallia surveys in the Ask VA flow, an intercept survey and
 Both surveys are shown in modals. We will add these surveys to ask.va.gov (to establish a baseline) and Ask VA on VA.gov at va.gov/contact-us/ask-va.
 
 Jump to: 
-- [Interept survey](#intercept-survey)
+- [Intercept survey](#intercept-survey)
 - [Feedback survey](#feedback-survey)
 
 ## Intercept survey
