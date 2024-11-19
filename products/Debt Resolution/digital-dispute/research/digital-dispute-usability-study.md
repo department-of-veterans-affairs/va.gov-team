@@ -172,7 +172,7 @@ What do you intend to learn and measure from this study? Think through these pro
 
 Hypothesis 1
 
--   Based on previous research with forms, including the FSR (both MVP and enhanced), and the Streamlined Waiver, we have iterated on the form design structure and UI. Since we are pulling directly from these valited forms for the digital dispute, we hypothesize that Veterans will be able to easily understand and navigate the digital dispute.
+-   Based on previous research with forms, including the FSR (both MVP and enhanced), and the Streamlined Waiver, we have iterated on the form design structure and UI. Since we are pulling directly from these validated forms for the digital dispute, we hypothesize that Veterans will be able to easily understand and navigate the digital dispute.
     
 
 Hypothesis 2
