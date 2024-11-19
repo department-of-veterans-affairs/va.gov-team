@@ -38,7 +38,7 @@ Thank you for volunteering for Sign Up Day at [LOCATION] on [DATE]. As a part of
 
 Please find the metrics spreadsheet attached to this email and fill out all of the response fields after your Sign Up Day event. Send us your results no later [DATE ONE WEEK AFTER SIGN UP DAY] to sign.in.transition@va.gov. If you have any questions in the meantime, do not hesitate to reach out to us at sign.in.transition@va.gov.
 
-Thank you for your hardwork and dedication to helping Veterans in person.
+Thank you for your hard work and dedication to helping Veterans in person.
 
 Sincerely,
 [NAME]
