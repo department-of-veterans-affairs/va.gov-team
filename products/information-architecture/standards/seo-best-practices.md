@@ -72,7 +72,7 @@ Your work on VA.gov contributes to the digital modernization and web brand conso
 
 **Redirects**
 - There are different ways to implement a redirect if you are retiring or moving a page within the site. Properly implemented redirects help SEO by transferring “link juice”  to the new URL instead leaving search value and ranking with an old URL.  That said, there are a number of technical solutions for implementing redirects, each with their own complexity and implications.
-- If you are looking to redirect a URL/page, please refer to our our [redirect request process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md). The platform team will help identify the appropriate solution, vet the request, and forward on to the correct implementation team.
+- If you are looking to redirect a URL/page, please refer to our our [redirect request process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/redirects.md). The platform team will help identify the appropriate solution, vet the request, and forward on to the correct implementation team.
 
 **Canonical URLs**
 - A canonical URL indicates to search engines that a specific URL is the same as another URL, and allows you to specify which URL is preferred.   
