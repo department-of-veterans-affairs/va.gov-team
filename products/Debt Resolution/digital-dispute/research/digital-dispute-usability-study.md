@@ -18,7 +18,7 @@ Briefly describe the background of your product. Consider:
 If a Veteran has a VA debt that they would like to dispute there is currently no formalized process for them to follow. Disputes can currently be submitted in a variety of formats (verbal, written, etc.) and the information required is not clearly defined. This experience can be confusing for Veterans and inefficient as additional information may need to be collected from the Veteran for the VA to process the dispute effectively. We will be launching the form for VBA only for this initial launch but it will eventually include both VBA and VHA debt. **(per product brief)**
 
   
-The Veteran filling out the digital dispute form is one aspect of the experience spanning 6 screens per debt disputed. The UI and design patterns will mirror the FSR and Streamlined Waver forms, which are much longer forms and have been enhanced and validated for optimized usability. Another aspect is the Veteran understanding the next steps and what to expect once they submit the form. Finally, the possibility of silent errors raises the necessity of an alternate user flow should there be a form submission error, which will trigger an email alerting the Veteran of an error and what steps to take next.
+The Veteran filling out the digital dispute form is one aspect of the experience spanning 6 screens per debt disputed. The UI and design patterns will mirror the FSR and Streamlined Waver forms, which are much longer forms and have been enhanced and validated for optimized usability. One key difference in the digital dispute form will be the use of a minimal header. Another aspect is the Veteran understanding the next steps and what to expect once they submit the form. Finally, the possibility of silent errors raises the necessity of an alternate user flow should there be a form submission error, which will trigger an email alerting the Veteran of an error and what steps to take next.
 
 Steps are being taken to minimize this possibility, and the team has prepared a different feedback mechanism should a silent error occur, ensuring the Veteran is aware that their submission was not successful and what they need to do next.
 
@@ -89,8 +89,10 @@ Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to
  ### 1. To understand the usability of digital dispute.
     
 ### 2. To understand the comprehension of digital dispute, associated confirmation email, and error response email.
-    
-### 3. To surface concerns that Veterans might have with the digital dispute that we are not aware of.
+
+### 3. To understand Veterans’ comprehension of the entire user journey which includes the service design aspect: from completion of the form, receipt of confirmation email, and letters in the mail communicating receipt of form and decision on dispute
+
+### 4. To surface concerns that Veterans might have with the digital dispute that we are not aware of.
     
 
   
@@ -149,18 +151,22 @@ Consider bucketing research questions under research goals. For each question, t
 3.  How understandable are the personal information, contact information, debt selection and reason for disputing the debt(s) pages?
     
 4.  How understandable is the reason for the dispute page?
+
+5. How does the minimal header affect their experience with the form? 
     
-5.  How clear is the submission message? What do they understand to be next steps? How clear is the associated submission email? What concerns do they have, if any?
+6. How clear is the submission message? What do they understand to be the next steps? How clear is the associated submission email? What concerns do they have, if any?
     
-6.  How clear is the error message? What do they understand to be next steps? How clear is the associated error email? What concerns do they have, if any?
-    
+7.  How clear is the error message? What do they understand to be next steps? How clear is the associated error email? What concerns do they have, if any?
+
+### To understand Veterans’ comprehension of the entire user journey which includes the service design aspect: from completion of the form, receipt of email, and letters in the mail
+
+8. What are Veterans feedback on the entire user journey? 
 
 
 ### To surface concerns that Veterans might have with the digital dispute that we are not aware of.
 
   
-
-7.  Can Veterans summarize the takeaways of next steps and what is expected of them after going through the digital dispute?
+9.  Can Veterans summarize the takeaways of next steps and what is expected of them after going through the digital dispute?
     
 
 ### Hypothesis
@@ -172,13 +178,18 @@ What do you intend to learn and measure from this study? Think through these pro
 
 Hypothesis 1
 
--   Based on previous research with forms, including the FSR (both MVP and enhanced), and the Streamlined Waiver, we have iterated on the form design structure and UI. Since we are pulling directly from these validated forms for the digital dispute, we hypothesize that Veterans will be able to easily understand and navigate the digital dispute.
+-   Based on previous research with forms, including the FSR (both MVP and enhanced), and the Streamlined Waiver, we have iterated on the form design structure and UI. Since we are pulling directly from these validated forms for the digital dispute, we hypothesize that Veterans will be able to easily understand and navigate the digital dispute. We hypothesize that the minimal header may enhance participants’ ability to focus on the task at hand and contribute to a frictionless experience. 
+
     
 
 Hypothesis 2
 
 
--   Veterans will receive 2 letters once they submit the digital dispute. The first will inform them of the receipt of the dispute, and the second will inform them of the decision on the dispute. We hypothesize that this information will be clear to Veterans based on their review of the unauthenticated page, the submission confirmation message, and the confirmation email.
+-   The entire user journey from completion of the form, receipt of email, and letters in the mail will be clear. The information on the submission page and email will clearly explain expectations and next steps to the Veteran. 
+
+-   Further context: 
+Veterans will receive 2 letters once they submit the digital dispute. The first will inform them of the receipt of the dispute, and the second will inform them of the decision on the dispute. We hypothesize that this information will be clear to Veterans based on their review of the unauthenticated page, the submission confirmation message, and the confirmation email. 
+
     
 
   
