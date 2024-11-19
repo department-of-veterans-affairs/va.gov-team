@@ -4,7 +4,7 @@ _concise context_
 ## Impact if Not Implemented
 _what will happen? What’s happening now?_
 
-## Recommendation: <Thing we’re recommending>
+## Recommendation: _Thing we’re recommending_
 _concise description here_
 
 ### Pros
