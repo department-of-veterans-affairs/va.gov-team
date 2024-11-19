@@ -64,7 +64,7 @@ No redirects needed since this is a net-new tool
 
 
 ## <a name="bestbets"></a>Best Bets<br>
-We could look into a best bet that might make sense, but unlikely that users are going to be searching for careers-specific explorer tool
+We could look into a best bet that might make sense, but unlikely that users are going to be searching for careers-specific explorer tool. Our current best bet strategy is to keep the best bet on the getting-started-at-VA R+S page, rather than creating an additional one for the questionnaire. 
 
 ## <a name="stagedrollout"></a>Staged Rollout<br>
 The team is not going to do a staged rollout.
