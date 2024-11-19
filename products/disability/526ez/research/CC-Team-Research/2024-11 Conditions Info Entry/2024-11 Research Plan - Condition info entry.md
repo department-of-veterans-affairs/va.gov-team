@@ -193,7 +193,7 @@ We will recruit 12 Veterans for:
 
 - minimum of 1 session with a screen magnification user
 
-We would like to request a kickoff call with Perigean. Requested date/time: TBD 
+We would like to request a kickoff call with Perigean. Requested date/time: Monday 11/25, after 10AM PST 
 
 
 ### **Recruitment criteria**
