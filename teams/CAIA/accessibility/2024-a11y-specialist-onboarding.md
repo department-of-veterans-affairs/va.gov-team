@@ -269,7 +269,7 @@ Anyone working at the VA, with access to the DSVA slack channel, can become an a
 ### Tooling
 Learn what [tools we use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/tools-we-use.md) to audit products on VA.gov. The list includes various plugins, extensions, and applications.
 
-We also recommend installing the new [VA page checker Chrome extension](https://github.com/Mottie/va-page-checker), which highlights design system components and accessibility issues on VA.gov pages.
+We also recommend installing the new [VA page checker Chrome extension](https://chromewebstore.google.com/detail/va-page-checker/bohcdnelkeimoooidokojkcjdaahjbkb?pli=1), which highlights design system components and accessibility issues on VA.gov pages.
 
 (**Note:** If you have a GFE Windows PC, you can install JAWS with a VA 508 Office license. Open a [ServiceNow ticket](https://yourit.va.gov/sp?id=va_sc_subcat%E2%8A%82id=a7ff40ec1b352850a25d0d08ec4bcb6f) to create a JAWS installation request.)
 
