@@ -241,11 +241,7 @@ Out of 11 participants, 8 tested a flow where they made edits to evidence when t
 
      > “Those DoD records were, you know, you had to get them separately. I once took 3 years to get my records, and when I opened up the disk it was somebody else's records with my name on it. So I had to do another 3 years” P8
 
-3. Veterans responded positively to the multiple summary pages, and areas where they can make edits
-
-   > “But I do like how, throughout, by the time you get to this, this page, this page right here your stuff should be on the money, because it gives you so many options so many times to edit.” P2
-
-4. The digital upload process is still a source of friction for digital submissions.
+3. The digital upload process is still a source of friction for digital submissions.
 
    > “I had to learn all this the hard way” P8
 
@@ -253,7 +249,7 @@ Out of 11 participants, 8 tested a flow where they made edits to evidence when t
 
    > “I get the size, but I don’t get the width and the height” P13
 
-5. Veterans that went through the non-VA medical records flow felt inclined to give an answer to the limiting consent page when it was not required.
+4. Veterans that went through the non-VA medical records flow felt inclined to give an answer to the limiting consent page when it was not required.
 
    * One Veteran caught that they were limiting information, and removed it from the evidence summary screen.
 
