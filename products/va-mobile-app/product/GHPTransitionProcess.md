@@ -18,7 +18,8 @@ From the Sprint Board you can bulk add issues to a specific column by clicking t
 Ensure the va-mobile-app repository is selected in the dropdown.  All issues with the exception of Design System issues will be in this repo.
 ![Screenshot 2024-11-12 at 9 29 14 AM](https://github.com/user-attachments/assets/d000cda3-67be-45b9-895a-3ae1138ac6d2)
 
-Filter the issues by pasting this into the filter input: **"is:issue label:[your team's label]"**
+Filter the issues by pasting this into the filter input: **"is:issue label:[your team's label]"** 
+NOTE: When searching by label, if your label is more than 1 word, you should surround the label text with quotation marks, i.e. label:"you team's label" instead of label:your team's label 
 ![Screenshot 2024-11-12 at 10 45 11 AM](https://github.com/user-attachments/assets/3b1869b0-d3ca-4d89-9067-e42454e5466a)
 
 Unfortunately the filtering to remove Closed issues does not seem to work on this search, so you can either select all and include the Closed ones and then move them to the Closed Sprint Status, or not include them in the import to the Project by not selecting the checkbox next to any purple circle issues.
