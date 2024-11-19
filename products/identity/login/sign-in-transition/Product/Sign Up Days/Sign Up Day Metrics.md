@@ -34,7 +34,7 @@ Email:
 
 Hello [NAME],
 
-Thank you for volunteering for Sign Up Day at [LOCATION] on [DATE]. As a part of this event, the Secure Sign In Transition team asks that you report on our Sign Up Day metrics so we may capture the event's engagment with Veterans and impact on the transition to the Office of the Chief of Technology Office. By reporting on these metrics to OCTO, we will also ensure that Veterans and VA staff are supported throughout this transition.
+Thank you for volunteering for Sign Up Day at [LOCATION] on [DATE]. As a part of this event, the Secure Sign In Transition team asks that you report on our Sign Up Day metrics so we may capture the event's engagement with Veterans and impact on the transition to the Office of the Chief of Technology Office. By reporting on these metrics to OCTO, we will also ensure that Veterans and VA staff are supported throughout this transition.
 
 Please find the metrics spreadsheet attached to this email and fill out all of the response fields after your Sign Up Day event. Send us your results no later [DATE ONE WEEK AFTER SIGN UP DAY] to sign.in.transition@va.gov. If you have any questions in the meantime, do not hesitate to reach out to us at sign.in.transition@va.gov.
 
@@ -64,7 +64,7 @@ Email:
 
 Hello [NAME],
 
-Thank you for volunteering for Sign Up Day at [LOCATION] on [DATE]. We hope your event went well and we appreciate your efforts to help Veterans in-person. We ask that you report on our Sign Up Day metrics by [DATE] so we may capture the event's engagment and impact to the Office of the Chief of Technology Office. By reporting on these metrics to OCTO, we will ensure Veterans and VA staff are supported throughout this transition.
+Thank you for volunteering for Sign Up Day at [LOCATION] on [DATE]. We hope your event went well and we appreciate your efforts to help Veterans in-person. We ask that you report on our Sign Up Day metrics by [DATE] so we may capture the event's engagement and impact to the Office of the Chief of Technology Office. By reporting on these metrics to OCTO, we will ensure Veterans and VA staff are supported throughout this transition.
 
 Please find the metrics spreadsheet attached to this email, fill out all of the response fields, and send your filled out spreadsheet to sign.in.transition@va.gov by [DATE].
 
