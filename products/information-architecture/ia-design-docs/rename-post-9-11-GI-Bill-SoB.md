@@ -43,7 +43,7 @@
 
 Current URL | Redirect to | Notes
 --- | --- | ---
-va.gov/education/gi-bill/post-9-11/ch-33-benefit/status | va.gov/education/check-post-9-11-gi-bill-benefits/status/ | Authenticated tool
+va.gov/education/gi-bill/post-9-11/ch-33-benefit/status | va.gov/education/check-remaining-post-9-11-gi-bill-benefits/status/ | Authenticated tool
 va.gov/education/gi-bill/post-9-11/ch-33-benefit/status/print/ | va.gov/education/your-post-9-11-gi-bill-benefits/print/ | Print view
  
 
