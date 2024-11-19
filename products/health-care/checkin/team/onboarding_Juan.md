@@ -81,8 +81,14 @@ Example: In the Travel Pay for Past Appointments (VAHB) initiative, the mobile d
 - **Feedback on mentoring:**
   - Mentoring was minimal and did not help all that much. 
 
-- Feedback on mobile team ceremonies: (anything around if you got what you needed, to help you with onboarding, any imporvements to make it more productive for you as onbordee, what communication type worked the best? ceremonies? slack ? or etc) 
-  - xyz 
+- **Feedback on mobile team ceremonies:** 
+  - **Slack communication**: Relying solely on Slack for updates proved insufficient. Important changes, such as the introduction of a new process, were not effectively communicated. While these updates could have been shared in team ceremonies, the UAE engineer was not included in ceremonies after the first two weeks of onboarding.
+  - **Missed ceremonies:** Initially, the UAE engineer attended stand-ups during the first two weeks. However, after that, no further invitations were sent. Regular participation in stand-ups (at least once a week) would have helped the engineer stay aligned, especially on process changes.
+  - **Staying up to date:** Although Slack was suggested as the primary tool for staying informed about the mobile team, it lacked sufficient detail. The engineer often had to review pull requests independently to track technical changes, as Slack did not provide adequate visibility into updates to the mobile repository.
+  - **Response times:** Asynchronous responses via Slack were timely and appropriate for the nature of the work.
+  - **Ticket comments:** Comments on tickets were constructive, productive, and typically received within 24 hours, which facilitated progress effectively.
+  - **Suggestion for a Notification Process/Forum for Mobile Updates:** To improve collaboration and streamline the development process, the mobile team could establish a **notification system or forum dedicated to sharing critical updates related to mobile processes**. 
+
 - What would help with speeding up the onboarding?
   - xyz
 - Feedback on tools (or any suggestions re tools):
