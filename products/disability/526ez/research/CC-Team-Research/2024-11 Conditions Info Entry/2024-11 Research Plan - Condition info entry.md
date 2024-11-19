@@ -161,7 +161,7 @@ Provide a link to any materials you need to run your study, including any materi
 
 For moderated usability tests:
 
-1. \[Link to conversation guide]\(url goes here)
+1. \[Link to conversation guide]\(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2024-11%20Conditions%20Info%20Entry/2024-11%20Conversation%20Guide%20-%20Conditions%20info%20entry.md)
 
 2. \[Link to mock-ups of what we will test in staging]\(https\://www\.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/(526ez)-Condition-information-entry?node-id=324-9662\&node-type=canvas\&t=GDUqm69UjZoNKgNM-0)
 
