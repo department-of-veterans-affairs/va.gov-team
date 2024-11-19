@@ -78,7 +78,7 @@ Additionally, the deployment process lacks transparency in key areas. Currently,
 **Impact:**While the structured process ensures thorough quality checks and coordinated releases, these delays and gaps in communication can impact our ability to track progress effectively and address priorities in a timely manner. Exploring ways to streamline the QA and deployment pipeline, as well as improve visibility into release schedules and post-deployment updates, would enhance efficiency and team alignment.
 
   
-- Feedback about mentoring: (anything around if you got what you needed, if the guide and response was helpful, any imporvements to make it more productive, what communication type worked the best? ceremonies? slack ? or etc) 
+- **Feedback about mentoring:**
   - Mentoring was minimal and did not help all that much. 
 
 - Feedback about mobile team ceremonies: (anything around if you got what you needed, to help you with onboarding, any imporvements to make it more productive for you as onbordee, what communication type worked the best? ceremonies? slack ? or etc) 
