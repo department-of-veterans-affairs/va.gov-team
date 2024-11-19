@@ -43,7 +43,9 @@ While automated testing may catch issues with semantics, it is a good idea to do
 * [headingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi) - this extension audits the heading structure of a web page and generates a document map of headings.
 * [Web Developer](https://chrispederick.com/work/web-developer/) - a browser extension that adds various web developer tools that allow you to turn off images, turn off styling (CSS), disable JavaScript, and other actions to help test for accessibility.
 * [What has focus](https://codepen.io/svinkle/pen/WgYRxq) - a bookmarklet that helps determine what element currently has active focus.
-* [Highlight VA web components](https://codepen.io/briandeconinck/pen/gOqMEdX) - a bookmarklet that highlights web components from the VA design system. Useful for identifying known patterns.
+* Ensure that products are using VADS components with:
+     * [Highlight VA web components](https://codepen.io/briandeconinck/pen/gOqMEdX) - a bookmarklet that highlights web components from the VA design system. Useful for identifying known patterns.
+     * [VA page checker](https://chromewebstore.google.com/detail/va-page-checker/bohcdnelkeimoooidokojkcjdaahjbkb) - a Chrome extension that highlights VADS components, missing components, and accessibility issues.
 
 ### Screen Readers
 These can help to convey content to blind people, and partially-sighted users and can even be helpful for people with reading disorders. Testing with these can aid in the evaluation of plain language and the overall experience of screen reader users.
