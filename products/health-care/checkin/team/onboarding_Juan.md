@@ -70,22 +70,21 @@ Example: In the Travel Pay for Past Appointments (VAHB) initiative, the mobile d
   - Any PR that needs changes, even if they are small changes, takes significantly longer to get reviewed 2+ additional days. 
   - It might be better to get a PR into peoples radar by just asking for a review as soon as the PR is ready via slack.
   - QA takes about 1 day after code is reviwed.
-  - Process is fine but not ideal due to significant time needed for review. 
+  - Process is fine but not ideal due to significant time needed for review.
+  
+- **PROD Deployment process:** 
+After our engineering and development work is complete, there is a notable delay in getting the feature fully live due to the QA process and deployment scheduling. Once the code is finalized, it goes into a designated branch tied to pre-scheduled deployments. This means that **the end-to-end process, from development completion to production release, can take anywhere from 2 to 6 weeks**.
+Additionally, the deployment process lacks transparency in key areas. Currently, there is no centralized location where we can double-check when specific features are scheduled to go live. Moreover, after deployment, there is no notification detailing which features have been released. While there is an automated Slack message mentioning the version of the code that went live, it does not specify the features included in that release.
+**Impact:**While the structured process ensures thorough quality checks and coordinated releases, these delays and gaps in communication can impact our ability to track progress effectively and address priorities in a timely manner. Exploring ways to streamline the QA and deployment pipeline, as well as improve visibility into release schedules and post-deployment updates, would enhance efficiency and team alignment.
 
   
 - Feedback about mentoring: (anything around if you got what you needed, if the guide and response was helpful, any imporvements to make it more productive, what communication type worked the best? ceremonies? slack ? or etc) 
   - Mentoring was minimal and did not help all that much. 
-  -
-  -
+
 - Feedback about mobile team ceremonies: (anything around if you got what you needed, to help you with onboarding, any imporvements to make it more productive for you as onbordee, what communication type worked the best? ceremonies? slack ? or etc) 
   - xyz 
-  -
-  -
 - What would help with speeding up the onboarding?
   - xyz
-  -
 - Feedback on tools (or any suggestions re tools):
   - xyz
-- Feedback on the development process:
-  - xyz
-  - 
+
