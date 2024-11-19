@@ -1,28 +1,35 @@
 
-# Product Outline: Combined VA Debt Portal
+# Product Outline: A11 Intercept Survey 2.0
 
 ## Overview
-
+The A11 intercept survey serves as the global feedback tool, randomly presented to users across VA.gov. It provides a mechanism for collecting user feedback on various VA.gov experiences and establishes a baseline for customer satisfaction to track progress over time.
 
 
 ## Problem Statement
+While the survey aligns with OMB guidelines for feedback collection, it falls short in enabling VFS teams to easily access and utilize the data for their own metrics and product improvements.
 
+We believe there is an opportunity to design and implement an enhanced survey experience with improved questions. This updated approach would not only maintain high survey participation but also generate higher-quality feedback, better supporting actionable insights for VA.gov's ongoing development.
 
-
- 
 ## Desired User Outcomes
-
-- 
+- Increased survey completion rate - Users feel motivated to complete the survey without frustration. 
+- Minimal disruption - the survey feels unobtrusive and does not hinder a user from completing their task (benefits application, prescription refills, etc.)
+- Accessible design - the survey is fully accessible for users of all abilities.
+- Ease of use - Survey is intuitive and quick, requiring minimal effort to complete. 
 
 ## Undesired User Outcomes
-- 
+- Survey fatigue - users are overwhelmed by repeated or obtrusive survey prompts and begin ignoring them.
+- Dispruptive - survey impacts the user journey in a significant and negative way.
+- Incomplete responses - abandoning the survey halfway
 
 ## Desired Business Outcomes
-
-- 
+- Increased survey response rate
+- Increased CSAT score in line with OCTO OKRs
+- Higher quality / more complete data on user satisfaction
 
 ## Undesired Business Outcomes
-
+- Lower quality data / rise in incomplete surveys
+- Decreased survey engagement
+- Data bias - survey methodology skews data leading to unrepresentative feedback 
 
 ---
 ## Measuring Success
