@@ -65,4 +65,4 @@ Reach out to CAIA accessibility specialists through our [#sitewide-content-acces
 To start formally working with CAIA accessibility specialists, submit a [Sitewide Content, Accessibility, and IA intake form ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2CNaomiPMC&labels=sitewide+CAIA&projects=&template=sitewide-CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E) in GitHub.
 
 ### Attend CAIA office hours
-You can also reach us by attending our weekly office hours on Tuesdays at 4 PM Eastern on [Zoom](https://coformaco.zoom.us/j/83992174780?pwd=Tk1jZ0o3MWxLcHFMWTM1S3ZrcytqUT09).
+You can also reach us by attending our weekly office hours on Tuesdays at 4 PM Eastern on Zoom. Sign up for a time slot on our [office hours Slack canvas](https://dsva.slack.com/docs/T03FECE8V/F06JTSH7CHZ).
