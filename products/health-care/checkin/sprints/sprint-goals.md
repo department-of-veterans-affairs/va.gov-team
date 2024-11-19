@@ -9,11 +9,12 @@
     - ❗ 🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97293)
     - **Move to New AWS Instance**
       - TBD
-- **Community Care Direct Scheduling**
-    - 🟥🟫 [Create Wireframe & Content for Aynsychronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96418)
+- **Community Care Direct Scheduling**   
     - 🟥 [Add annotations for referral and requests link behavior #96632](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96632)
     - 🟥 (Placeholder) determine Veteran-facing UAT plan
     - 🟥 [Create 301 redirect ticket #93947](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93947)
+    - NOTIFICATIONS
+       - 🟥🟫 [Create Wireframe & Content for Aynsychronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96418)
     - FE STEP 4 - Schedule an Appointment with your Provider Page
         - 🟩[Unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95274)
         - 🟩 [Hook up to mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95271)
