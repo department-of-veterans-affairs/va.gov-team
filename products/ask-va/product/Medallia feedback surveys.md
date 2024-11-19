@@ -1,11 +1,10 @@
 # Medallia feedback surveys: Trigger events and questions
 Updated by @beckyphung on: November 19, 2024
 
-11/19 update: We've decided to not move forward with the intercept survey on ask.va.gov.
-
 ## Background
 We will include two Medallia surveys in the Ask VA flow, an intercept survey and a feedback button. 
 
+- **11/19 update**: We've decided to not move forward with the intercept survey on ask.va.gov.
 - The intercept survey on va.gov/contact-us/ask-va will interrupt 5% of users based on a triggering event (a step in the flow). 
 - The feedback button on both the current and new front-end will show a feedback survey (2 questions) when a user clicks on the feedback button, which will be available on all pages.
 
