@@ -101,19 +101,19 @@ Most participants were asked to complete two tasks where they needed to edit the
 - Most participants didn't comment on additional questions being asked, but were able to edit questions with ease.
 - Four participants noticed the alert on question pages that indicated more may be asked.
 
-> "So it does say here, 'changing your answer may lead to new set of questions', which would be no problem." (p5)
+> "So it does say here, 'changing your answer may lead to a new set of questions', which would be no problem." (p5)
 
 ![Screenshot 2024-11-15 at 1 19 18 PM](https://github.com/user-attachments/assets/5c520e40-a3f9-4567-8d0e-383559b7f40b)
 
-After selecting an answer to edit on the review page, this alert will appear on any the intial, chosen question. New questions that show after selecting Continue will not have this alert. Although four participants noticed the alert, only one participant opened it to reveal additional text that read "If you change your answer to this question, you may be asked for more information to ensure that we provide you with the best results."
+After selecting an answer to edit on the review page, this alert will appear on the chosen question. New questions that show after selecting Continue will not have this alert. Although four participants noticed the alert, only one participant opened it to reveal additional text that read "If you change your answer to this question, you may be asked for more information to ensure that we provide you with the best results."
 
 > "It goes back to one of the questions we answered. I guess that changed the whole outcome of it." (p5)
 
-> "Interesting that it only asked for month when you changed the year to 2009." (p10)
+> "Interesting that it only asked for the month when you changed the year to 2009." (p10)
 
 Most participants were asked to complete two tasks where they needed to edit their answers to questions. Editing the answers caused 1-3 additional questions to appear in the flow (additional details are in Finding 1).
 - Two participants noticed additional questions, but didn't comment on the alert. 
-- One participant noticed that they were being asked the "Did you complete a period of service in which your character of service was Honorable or General Under Honorable Conditions?" question for a second time. This question reappered for most participants that edited their answers. 
+- One participant noticed that they were being asked the "Did you complete a period of service in which your character of service was Honorable or General Under Honorable Conditions?" question for a second time. This question reappeared for most participants that edited their answers. 
 
 **3. Most participants understand the updated review page and how it relates to the questions they answered.**
 
@@ -126,9 +126,9 @@ Most participants were asked to complete two tasks where they needed to edit the
 
 > "I like the fact that I'm able to look and see the answers on one page that I've completed so far." (p8)
 
-> After seeing alert: "See, that answers my question about my information being saved." (p5)
+> After seeing the alert: "See, that answers my question about my information being saved." (p5)
 
-> After screen reader read the alert: "It just told me my information was updated." (p7)
+> After the screen reader read the alert: "It just told me my information was updated." (p7)
 
 ![Screenshot 2024-11-15 at 3 04 49 PM](https://github.com/user-attachments/assets/6d3116b6-e2ca-4117-912c-d26be33a7bf9)
 
@@ -162,7 +162,7 @@ Three participants found the wording of the prior service question confusing. On
 
 ![Screenshot 2024-11-15 at 3 32 15 PM](https://github.com/user-attachments/assets/b8509cd0-d9de-451b-aca1-1d93d7b1f60f)
 
-Two participants wanted to select multiple responses to why they wanted to change their discharge paperwork. One of the participants remembered being able to select multiple reasons on Form 149 when they had applied for a discharge upgrade in the past. 
+Two participants wanted to select multiple responses to why they wanted to change their discharge paperwork. One of the participants remembered being able to select multiple reasons on the form when they had applied for a discharge upgrade in the past. 
 
 ![Screenshot 2024-11-18 at 2 49 45 PM](https://github.com/user-attachments/assets/f58e969f-e917-4b42-8b5a-a4de1eecef63)
 
@@ -196,7 +196,7 @@ Two participants said they wanted more info on buddy statements.
 - One participant wanted examples of written buddy statements and an estimate of how many were needed.
 - One participant wanted more emphasis on how important buddy statements are. 
 
-> "I guess it's helpful if you're starting out at square one and have no idea what you're doing. By this point, most Veterans, at least most Veterans who are under the age of 50, have already visisted online forums or went to their local VFW or American Legion and have already got direction and paperwork from someone else that does this for them." (p3)
+> "I guess it's helpful if you're starting out at square one and have no idea what you're doing. By this point, most Veterans, at least most Veterans who are under the age of 50, have already visited online forums or went to their local VFW or American Legion and have already got direction and paperwork from someone else that does this for them." (p3)
 
 One participant expressed that the info on the page was very general and not specific to the discharge upgrade reason they gave.
 
@@ -206,7 +206,7 @@ One participant expressed that the info on the page was very general and not spe
 
 - Three participants wanted to submit their form online instead of mailing it in.
 - Three participants said the form would be difficult to fill out. One participant expressed frustration that the answers they gave in the wizard didn't help fill out the form.
-- Three paricipants would like more communication about the discharge upgrade process after submitting their form.
+- Three participants would like more communication about the discharge upgrade process after submitting their form.
 
 > "It's too bad that you can't do it online." (p4)
 
@@ -220,9 +220,9 @@ Other participants wanted more transparency after their form was submitted. They
 
 > "This would be a lot of work." (p8)
 
-> ""It just gives me a blank generic DoD 149. It would be really damn cool it it actually filled in the parts we've already given you." (p3)
+> ""It just gives me a blank generic DoD 149. It would be really damn cool if it actually filled in the parts we've already given you." (p3)
 
-Three participants expressed concerns that Form 149 was confusing, had a lot of content, and would be difficult to fill out on their own. One participant said that they would like to see information they inputted into the wizard on the form. 
+Three participants expressed concerns that the form was confusing, had a lot of content, and would be difficult to fill out on their own. One participant said that they would like to see information they inputted into the wizard on the form. 
 
 ## Additional Insights
 
@@ -242,7 +242,7 @@ This study had three participants who used assistive technology, one used a scre
 
 > "I like the big buttons and that it just gives you a little paragraph to work with at a time." (p4)
 
-> “I think what worked well was the flow of the questions and how easy it was to answer the questions. There wasn't like a whole lot of box requesting text.” (p12)
+> “I think what worked well was the flow of the questions and how easy it was to answer the questions. There wasn't a whole lot of boxes requesting text.” (p12)
 
 ## Recommendations
 
@@ -251,7 +251,7 @@ This study had three participants who used assistive technology, one used a scre
     * VA Design System guidelines suggest to consider a different component when there are more than 15 options in the dropdown.
     * [Guidelines for select component](https://design.va.gov/components/form/select)
 * Allow users to select multiple reasons for changing their discharge paperwork.
-    * Two participants wanted to select multiple responses to why they wanted to change their discharge paperwork. One of the participants remembered being able to select multiple reasons on Form 149 when they had applied for a discharge upgrade in the past.
+    * Two participants wanted to select multiple responses to why they wanted to change their discharge paperwork. One of the participants remembered being able to select multiple reasons on the form when they had applied for a discharge upgrade in the past.
 * Make areas of the results page collapsable.
     * Hiding information on the page would reduce cognitive load.
     * Three participants gave feedback that there was too much content on the results page.
@@ -266,19 +266,19 @@ This study had three participants who used assistive technology, one used a scre
 * Add more wording to the Get Started action link on the start page.
     * One participant using a screen magnifier missed this link.
     * Adding more words could make this link be more noticeable.
-* Add more information about buddy statements to results page.
+* Add more information about buddy statements to the results page.
     * One participant wanted examples of written buddy statements and an estimate of how many were needed.
-    * One participant wanted more emphasis on how improtant buddy statements are.
+    * One participant wanted more emphasis on how important buddy statements are.
 * Add more information to the results page that's specific to the reason for wanting a discharge upgrade.
-    * This could also be boilerplate text that users can copy into Form 149 to help them fill it out.
-    * Three participants expressed concerns that Form 149 was confusing, had a lot of content, and would be difficult to fill out on their own.
+    * This could also be boilerplate text that users can copy into the form to help them fill it out.
+    * Three participants expressed concerns that the form was confusing, had a lot of content, and would be difficult to fill out on their own.
     * One participant expressed that the info on the page was very general and not specific to the discharge upgrade reason they gave.    
 
 ### For submission process
-* Allow users to submit form online.
+* Allow users to submit the form online.
     * Three participants wanted to submit their form online instead of mailing it in.
 * Update users on where they're at in the process after submitting their form.
-    * Three paricipants would like more communication about the discharge upgrade process after submitting their form.
+    * Three participants would like more communication about the discharge upgrade process after submitting their form.
 
 
 ## Next Steps
@@ -291,7 +291,7 @@ This study had three participants who used assistive technology, one used a scre
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/conversation-guide.md)
 
-[Conversation guide for assisteive technology users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/conversation-guide-at.md)
+[Conversation guide for assistive technology users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/conversation-guide-at.md)
 
 
 ## Tools used for Synthesis
@@ -310,7 +310,7 @@ This study had three participants who used assistive technology, one used a scre
 
 ## Secondary research
 
-[Seconday research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/secondary-research.md)
+[Secondary research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/secondary-research.md)
 
 
 ## Who we talked to 
