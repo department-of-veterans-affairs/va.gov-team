@@ -276,7 +276,8 @@ We most want to speak to:
 
 - Primary recruitment criteria will be Veterans that have VBA overpayment debt and (if possible) feel that they don’t owe this debt or the amount is not correct
 
-- Primary criteria (must-haves)
+**Primary criteria (must-haves)**
+
 - 8 Veterans interviewed, please recruit 12 Veterans
 - All participants must be Veterans
 - All have a computer, tablet, or smartphone and be willing to be complete their session on one of those devices
@@ -296,13 +297,21 @@ We most want to speak to:
 Note: The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants with VA debt.
 
 At least 2 of 12 people who use a screen reader
+
 At least 6 of 12 people must identify as Black, Hispanic/Latina/Latinx, Asian, or Native American
+
 At least 6 of 12 people must identify as having a cognitive consideration
+
 At least 5 of 12 people must identify as other than male
+
 At least 3 of 12 people are without a degree or professional certificate 
+
 At least 4 of 12 people are under 35
+
 At least 4 of 12 people are over 55
-At least 4 of 12 people who identify as gay, lesbian, bisexual, or transgender
+
+At least 4 of 12 people who identify as gay, lesbian, bisexual, or transgender (LGBTQ+)
+
 At least 3 of 12 non-native English speakers
 
 
@@ -314,72 +323,97 @@ At least 2 of 12 people who live in a major metropolitan area
 
 ### Screener
 
-1. VA debt
+**1. VA debt**
 
 Please select what applies to you (Check all that apply)
 
 I currently have a fully unpaid or partially unpaid VA benefits overpayment debt (disability compensation, education or pension benefits overpayments)
+
 I had a VA benefits overpayment debt in the last 4 years (disability compensation, education or pension benefits overpayments) and it has been fully repaid
+
 I have not had a VA benefits overpayment debt in the last 4 years (does not qualify)
 
-2. Amount of debt
+**2. Amount of debt**
 
 Please select the amount of the debt for the highest VA debt you have had in the last 4 years
+
 	The debt I had or currently have is in the range of $1 - $99
+ 
 	The debt I had or currently have is in the range of $100 - $500
+ 
 	The debt I had or currently have is in the range of $501 - $1,000
+ 
 	The debt I had or currently have is over $1,000
 
 
-3. What is your perspective on this VA debt
+**3. What is your perspective on this VA debt**
 
 What is your perspective on this VA benefits overpayment debt? 
 
 Please select what applies to you (Check all that apply)
+
 	I don’t think I owe this debt to VA
+ 
 	I don’t think the amount is correct on this debt
+ 
 	I can’t afford this debt
+ 
 	None of these apply to me
+ 
 	Decline to answer this question
 
-4. Experiences of financial hardship
+
+**4. Experiences of financial hardship**
 Please select the statement(s) that apply to you: (Check all that apply)
  
 I am currently experiencing financial hardship.
+
 I have experienced financial hardship in the past.
+
 I have never experienced financial hardship.  
 
 
-5. LGBTQ+
+**5. LGBTQ+**
 Do you identify as a member of the LGBTQ+ community?
 We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
 
 Yes
+
 No
+
 Decline to answer
 
 
-6. Cognitive consideration
+**6. Cognitive consideration**
 Has a medical professional ever diagnosed you with a cognitive disorder? Some examples include PTSD, Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, Traumatic brain injury
 
 Yes
+
 No
+
 Decline to answer
 
 
-7. What is your annual household income level?
+**7. What is your annual household income level?**
 
 $0 - $25K
+
 $25K - 49.9K
+
 $50K - 74.9K
+
 $75K - 99.9K
+
 $100K - 149.9K
+
 $150K - $199.9K
+
 Over $200K
 
 
 
-8. Level of education
+**8. Level of education**
+
 What is the highest degree or level of school you have completed?
 
 Less than a High School diploma
