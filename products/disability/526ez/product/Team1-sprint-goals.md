@@ -22,10 +22,10 @@ Nov 20 - Dec 3, 2024
 #### We'll know we've achieved the goal when:
 - Implementation plans are demonstrated by having user stories in the backlog that the team could pick up, aside from needed changes to the overflow page. Future discovery for ancillary forms and evidence are also planned.
 
-### Goal 4: Wrap up the Toxic Exposure release and prepare for the usability research study.
+### Goal 4: Prepare for the usability research study.
 
 #### We'll know we've achieved the goal when:
-- We are ready for usability sessions starting 12/2. Pilot studies are complete. Research sessions are scheduled and CAIA/observers/notetakers have signed up for sessions. Data management material is ready and HCD is aligned on approach for synthesis. OMB component is updated. Confirm that all 526 submissions are now using LH synchronous submit endpoints. Work to remove feature toggles and cleanup tests is scheduled for a future sprint. Application and GA metrics for 1.1 are shared with OCTO on 11/25.
+- We are ready for usability sessions starting 12/2. Pilot studies are complete. Research sessions are scheduled and CAIA/observers/notetakers have signed up for sessions. Data management material is ready and HCD is aligned on approach for synthesis. OMB component is updated. Application and GA metrics for 1.1 are shared with OCTO on 11/25.
 
 ### Goal 5: Identify any custom components and legacy react widgets in use within the Disabilities chapter.
 
