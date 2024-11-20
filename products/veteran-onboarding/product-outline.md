@@ -76,7 +76,7 @@ The initial phase will be rolled out to welcome Veterans who have not created a 
 - All development will initially be behind a Feature Flag, which we can control the initial rollout to
 - New Users will be determined by the account age
 - The onboarding experience will appear for all accounts that are flagged as new, a User does not need to take any action to access this experience but they will be able to dismiss it.
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [Link to Release Plan][(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/release-plan.md)
 
 ## Launch Dates
 - *Target Launch Date*
