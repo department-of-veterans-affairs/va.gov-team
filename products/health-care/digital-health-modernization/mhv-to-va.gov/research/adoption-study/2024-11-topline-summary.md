@@ -37,7 +37,9 @@ the challenges associated with switching to the new portal?
 
 ## Initial Findings
 
-**Research question 1**: Are CTAs to try out the new MHV portal effective? Do users notice them
+**Research questions**
+
+1. Are CTAs to try out the new MHV portal effective? Do users notice them
 and understand what they're saying?
 
 Participants repeatedly scrolled past the "Try-me" banners on the My HealtheVet national portal. 
@@ -86,27 +88,33 @@ URL: A few participants utilized the URL to orient themselves, but they found th
 
 > "I know I'm in MHV because I scroll up and it's there (looking at My HealtheVet logo but then notcies VA.gov in URL) it's a little confusing. I'm not techy so maybe they're linked. I signed into MHV, but this says VA.gov. Did they already switch?" - P13
 
-**Research question 2**: Once users try out the new portal, do they understand how to return?
+2. Once users try out the new portal, do they understand how to return?
 
 While participants identified ways to access My HealtheVet on VA.gov (such as using bookmarks), the sessions did not definitively establish their ability to navigate back to My HealtheVet on VA.gov. 
 
-**Research question 3**: Are changes made to the national portal language or tools causing confusion?
+3.  Are changes made to the national portal language or tools causing confusion?
 
-Participants did not comment on language (e.g., "Pharmacy" to "Medications") and seemingly understood the in-tool experiences. However, there was some confusion with naming "My HealtheVet" both on VA.gov and the national portal. (see above) 
-
-**Research question 4**: What challenges or hiccups are users encountering on the new portal?
+Participants did not comment on language (e.g., "Pharmacy" to "Medications") and seemingly understood the in-tool experiences. The confusion arose with naming My HealtheVet in two places (see above). 
 
 
+4.  What challenges or hiccups are users encountering on the new portal?
 
-**Research question 5**: What are positive changes that users notice while using the new portal?
+Further analysis is needed - They expected to be able to schedule directly under appointments. 
 
-**Research question 6**: How much do users care about what the new MHV offers them?
+
+5.  What are positive changes that users notice while using the new portal?
+
+Participants highlighted several positive aspects, including a streamlined experience, easy access to community care appointment information, and the convenience of having everything in one place.
+
+> 
+
+6. How much do users care about what the new MHV offers them?
 
 
 
 ## Other takeaways 
 
-9. All participants attempted to locate CPAP supplies under Medications 
+7. All participants attempted to locate CPAP supplies under Medications 
    - Participants associated needing a prescription with CPAP supplies and therefore looked under Medications. 
    - Participants may have also perceived the four navigation links as the only options during the study.  
 
