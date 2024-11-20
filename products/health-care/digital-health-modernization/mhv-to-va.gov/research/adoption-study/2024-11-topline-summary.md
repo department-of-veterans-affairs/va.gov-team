@@ -96,11 +96,9 @@ While participants identified ways to access My HealtheVet on VA.gov (such as us
 
 Participants did not comment on language (e.g., "Pharmacy" to "Medications") and seemingly understood the in-tool experiences. The confusion arose with naming My HealtheVet in two places (see above). 
 
-
 4.  What challenges or hiccups are users encountering on the new portal?
 
 Further analysis is needed - They expected to be able to schedule directly under appointments. 
-
 
 5.  What are positive changes that users notice while using the new portal?
 
@@ -108,15 +106,14 @@ Participants highlighted several positive aspects, including a streamlined exper
 
 > 
 
+
 6. How much do users care about what the new MHV offers them?
 
-
+ Further is needed - they expect to have the same functionality as the national portal
 
 ## Other takeaways 
 
-7. All participants attempted to locate CPAP supplies under Medications 
-   - Participants associated needing a prescription with CPAP supplies and therefore looked under Medications. 
-   - Participants may have also perceived the four navigation links as the only options during the study.  
+7. Secondary Navigation: Participants utilized the Secondary Navigation, both to identify where they were at within the health portal and as a navigation tool.
 
-10. Most participants expected an intermediate landing page (a broader landing page where they could choose where to go) before arriving on a specific secure message.  
-    - Several participants seem confused about coming into My HealtheVet through a side door (an email). Further analysis is needed if it was the narrative around the study or the mental model of participants (email from My HealtheVet > landing page experience first).  
+> "very fluid" - P9
+
