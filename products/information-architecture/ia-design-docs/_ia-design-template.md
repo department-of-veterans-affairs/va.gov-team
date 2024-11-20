@@ -57,7 +57,9 @@ _Any additional locations that the page should be navigable from such as the "Ab
 **1. Add/Modify/Remove page/menu name** - 
 - Placement description: 
 - Link label:
-- Link destination: 
+- Link destination:
+- Who will update (IA, content, product team):
+- When will this entry point go live (at launch? After staged rollout? after some designated time?):
 - Notes:
 
 ### Crosslinks
@@ -66,7 +68,9 @@ _Not required. Links in content or in related links sections of other pages that
 **1. Add/Modify/Remove link on a specific page** - 
 - Placement description: 
 - Link label:
-- Link destination: 
+- Link destination:
+- Who will update (IA, content, product team):
+- When will this entry point go live (at launch? After staged rollout? after some designated time?):
 - Notes: 
 
 ## <a name="launchstuff"></a>Launch coordination activities <br>
@@ -94,7 +98,9 @@ Current URL | Redirect to | Notes
 ### Staged rollout
 *Is the team planning a staged rollout? Roll-outs hidden behind a flipper flag need a static page to place a sign in widget or CTA on. Pages/sections where a sign in widget can't be implemented - find a form pages, within accordions, hub pages*
 
-Which static page has the widget, ie the main entry point? 
+1. What is the team's staged rollout plan?
+2. Which page will have the widget that controls views?
+3. Does the team need to manage search-engine results during rollout?
 
 
 
