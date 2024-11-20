@@ -26,9 +26,9 @@ Feature Toggle:
 
 #### Go/No Go meeting **TBD**
 - [ ] review the release plan with your team.
-- [ ] review the plan with your DEPO/OCTO representative.
+- [ ] review the plan with your OCTO representative.
 
-**Verdict: ❓**
+**Verdict:🔮**
 
 ***
 
@@ -59,15 +59,14 @@ While we cannot think of any events that would be critical enough to merit a rol
 - Limited production access to the Appoint a Representative application AND the related entry point on our landing page will be controlled through the frontend feature toggle `appoint_a_representative_enable_frontend` ❓
 - Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed above)
 
+❄️ Code Freeze: 12/20/2024 ❄️
 
 ## Staged Rollout Schedule
-**Go/No Go meeting TBD**
-1. Stage A: 10% of users on 3/11 (Monday) ❓
-2. Stage B: 50% of users on 
-3. Stage C: 100% of users on 3/13 (Wednesday) + launch best bets for an initial boost to visibility ❓
-4. Stage D: Begin entry point work on 3/20 (Wednesday) so pages point directly to the [Accredited Rep landing page](=(https://www.va.gov/get-help-from-accredited-representative/appoint-rep) ❓
-
-❄️ Code Freeze: 12/20/2024 ❄️
+**Go/No Go meeting Friday January 3, 2025**
+1. Stage A: 10% of users on 1/6 (Monday) 
+2. Stage B: 50% of users on 1/8 (Wednesday)
+3. Stage C: 100% of users on 1/13 (Monday) + launch best bets for an initial boost to visibility 
+4. Stage D: Entry points and redirects on ❓ to increase visibility of the [Appoint a Representative indroduction page](=(https://www.va.gov/get-help-from-accredited-representative/appoint-rep/introduction) ❓
 
 *** 
 
@@ -78,23 +77,17 @@ The following metrics will be considered before advancing rollout to the next st
 1. Errors in Sentry (or Datadog?) ❓
 2. Other errors?
 
-### Stage A Results (3/11-3/13)
+### Stage A Results (Jan 6-8, 2025)
 
 1. Errors in Sentry: no errors on the fetching of rep information for search results, and the reporting of outdated information
 3. Are console errors still happening on page click? not seeing any console errors, if there are they will be picked up with error monitoring (Sentry)
 4. What changes (if any) need to be implemented before proceeding to the next rollout stage? nothing at this time, ready to move into Stage B
 
-### Stage B Results (3/13-3/18)
+### Stage B Results (Jan 8-13, 2025)
 
 1. Errors in Sentry: no errors on the fetching of rep information for search results, and the reporting of outdated information
 2. Are console errors still happening on page click? not seeing any console errors, if there are they will be picked up with error monitoring (Sentry)
 3. What changes (if any) need to be implemented before proceeding to the next rollout stage? nothing at this time, ready to move into Stage C
-
-### Stage C Results (3/18-3/20)
-
-1. Errors in Sentry: no errors on the fetching of rep information for search results, and the reporting of outdated information
-2. Are console errors still happening on page click? not seeing any console errors, if there are they will be picked up with error monitoring (Sentry)
-3. What changes (if any) need to be implemented before proceeding to the next rollout stage? nothing at this time, ready to move into Stage D
 
 ## Post Launch Metrics
 
@@ -105,52 +98,26 @@ _Link to DOMO dashboards TBD_
 3. [User engagement](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p176188361/_u.date00=20240312&_u.date01=20240318&_.useg=user0ChHUWxaSUWm-5ocHKwm0Q,user_5CvEnKiSOmYYMHT8kTpQQ,builtin1&overview-dimensionSummary.selectedGroup=system&overview-dimensionSummary.selectedDimension=analytics.browser/) (segmented by Find a Rep users vs. all users of VA.gov)
 4. [Event Tracking](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20240311&_u.date01=20240413&_.useg=&_r.drilldown=analytics.pagePath:www.va.gov~2Fget-help-from-accredited-representative~2Ffind-rep~2F,analytics.eventCategory:Interactions&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-graphOptions.selected=analytics.nthDay/)
 
-### 1-Week Results (3/11-3/20)
+### 1-Week Results (Jan 13-19, 2025)
 
 1. **Errors in Sentry**: no errors on the fetching of rep information for search results, and the reporting of outdated information
-3. **User reports of outdated information**: 1 report for a representative's phone number and address on 3/12/2024
 12. **Contact Center calls (MyVA411)**: none
-13. **Feedback survey submmissions (Medallia)**: 1 submission for the Find a Rep product page on 3/20/2024 -- submitter indicated "no" to the question "Were you able to do your task today?" and for "What task were you trying to do today?" they said "Find a representative."  They also gave a "1" for their overall satisfaction with the site. 
+13. **Feedback survey submmissions (Medallia)**: 
 
 **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** nothing at this time
 
-**Landing page and product page traffic:**
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/4fa293c9-3daa-452d-9157-1a71d3cbcd86)
+**OKRs:**
 
-**Search experience traffic on product page:**
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/84a5b6fd-74cc-4d88-8b14-eb642a61bb7a)
 
-**Navigation to the landing page:**
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/44e34dbe-b250-4d00-8982-c97dc3e7ef44)
-
-**Navigation to the product page:**
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/94794ab9-5851-4230-abe1-c03165716719)
-
-**User engagement:**
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/8aa58f91-3874-4482-bf25-94c215561e52)
-
-**Event Tracking:**
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/8af361d4-7bd2-4797-9313-b7757194eb2f)
-
-### 1-Month Results (3/11-4/13)
+### 1-Month Results (Jan 13 - Feb 12, 2025)
 
 1. **Errors in Sentry**: no errors on the fetching of rep information for search results, and the reporting of outdated information
-2. **User reports of outdated information**: Out of 9,322 total users there were 4 reports of outdated information -- 2 phone numbers reported (for separate representatives), 1 email address reported, 1 other reported with the comment “contact information”
 3. **Contact Center calls (MyVA411)**: none
 4. **Feedback survey submmissions (Medallia)**:
-   1. Out of 43,043 users interacting with the landing page, there were 2 survey submissions:
-      1. 1 had a positive experience: “The site provides what I need” _5-star rating of VA.gov Experience_
-      2. 1 indicated they were unable to do their task of “Trying to get hold of somebody to find the status of my claim” _Neither satisfied nor dissatisfied_
-   2. Out of 18,320 users interacting with the Find a Representative page, there were 5 survey submissions:
-      1. 2 had a negative experience:
-         1. “Your information on local Accredited VSO’s in San Angelo TX 76903 is out of date.  Laura Serrano is no longer working as a VSO and you don’t have the 2 new people listed at all.” _2-star rating of VA.gov Experience_
-         2. “It is too difficult to sign in.  I have a government CAC.  Why do I need a CAC and a password.” _1-star rating of VA.gov Experience_
-      2. 3 indicated they were unable to do their task of:
-         1. “Get help filing for VA increase” _Not at all satisfied_
-         2. ”Find a VA Accredited Rep” _Not at all satisfied_
-         3. “I have vet medical benefits now” _Very satisfied_
 
 **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?**  
+
+**OKRs:**
 
 
 ## Post-Launch Questions
