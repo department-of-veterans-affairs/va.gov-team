@@ -90,7 +90,7 @@ We recruited 2 cohorts of participants:
 ## Key Findings
 
 1. Veterans and Caregivers want more clarity on eligibility and benefits before applying.
-2. Veterans and Caregivers had mixed comfortability with and ease of signing the form.
+2. Veterans and Caregivers had mixed comfortability and ease when signing the form.
 3. Users said content was “just enough” but called out items that needed more clarification.
 4. The facility search functionality was difficult / confusing for some users.
 5. Veterans and Caregivers differ on facilities confirmation page content clarity.
@@ -117,7 +117,7 @@ Out of 21 total participants:
 > _P12: "I tell you, they keep that Caregivers program a big secret. Anyone you ask they say 'go see this person, go see that person.'"_ <br>
 
 
-### Finding 2: Veterans and Caregivers had mixed comfortability with and ease of signing the form.
+### Finding 2: Veterans and Caregivers had mixed comfortability and ease when signing the form.
 
 Labels: DSP: Form feedback; DSP: Ask users for signature 
 
