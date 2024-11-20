@@ -64,13 +64,31 @@ Participants repeatedly scrolled past the "Try-me" banners on the My HealtheVet 
 
 > No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
 
-**Participants generally were able to conceptualize and explain the transition happening between MHV and VA.gov. However, participants were unclear how the changes will affect their use of My HealtheVet.Uncertainly such as having to sign in again and functionality were potential blockers for participants.** 
+**Participants generally were able to conceptualize and explain the transition happening between MHV and VA.gov. However, participants were unclear how the changes will affect their use of My HealtheVet. Uncertainly such as having to sign in again and functionality were potential blockers for participants.** 
 
 > "I think it will take me to VA.gov, but I wonder if it will make me login again." - P10
 
-> "I won't come to Va.gov until it's fully functional. Now I have to click one more time to go back. Nobody wants to turn backward" - P 13
+> "I won't come to Va.gov until it's fully functional. Now I have to click one more time to go back. Nobody wants to turn backward." - P 13
+
+> "There is no driver to make me want to click on that, especially when everything is still available as an option" - P2
+
+**Once attempting to accomplish tasks, participants (even those able to conceptualize the transition) often conflated and confused the My HealtheVet national portal and My HealtheVet on VA.gov.**
+
+Possible reasons: 
+Naming: 
+Participants were confused by naming My HealtheVet both on VA.gov and the national portal. 
+URL: 
+A few participants looked to the URL to orient themselves
+
+> "I know I'm in MHV because I scroll up and it's there (looking at My HealtheVet logo but then notcies VA.gov in URL) it's a little confusing. I'm not techy so maybe they're linked. I signed into MHV, but this says VA.gov. Did they already switch?" - P13
+
+Navigation: Inconsistency in navigation. Where links on My VA pointed to the national portal, compared to secondary navigation, breadcrumbs, and global header 
+
+
 
 **Research question 2**: Once users try out the new portal, do they understand how to return?
+
+**
 
 **Research question 3**: Are changes made to the national portal language or tools causing confusion?
 
