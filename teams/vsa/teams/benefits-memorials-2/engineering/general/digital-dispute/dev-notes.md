@@ -6,7 +6,8 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
 - [ ] **URL name** - must have to really start dev work
   - Generally decided with CAIA input
 - [x] Form name (in `vets-website`)
-  - `digital-dispute` seems the most reasonable
+  - ~~`digital-dispute` seems the most reasonable~~
+  - `dispute-debt` so it's a little more specific?
 - [ ] Form submission destination (in `vets-api`)
 - [ ] Background jobs? (`vets-api`)
 - [ ] Data storage? (`vets-api`)
