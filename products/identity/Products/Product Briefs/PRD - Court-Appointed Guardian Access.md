@@ -57,7 +57,7 @@ Currently, these guardians are unable to create new accounts to manage their Vet
 
 ## **High-level Solution:**
 
-### ** Short-term Solution:**
+### **Short-term Solution:**
   * Retain MHV functionality for existing guardians.
   * Update the VA.gov sign-in page to:
     * Remove the MHV button.
