@@ -77,7 +77,7 @@ _Most of the time this is the CTA on a tool static landing page (a sign in widge
       - **Children of women vietnam veterans: https://www.va.gov/family-and-caregiver-benefits/health-and-disability/children-of-women-vietnam-veterans/**
   - **Get - Additional benefits or services(H3)**
       - Tricare: Not updating in Phase 2A
-      - CITI Program: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp
+      - **CITI Program: http://va.gov/resources/getting-care-through-champva**
       - Respite care: https://www.caregiver.va.gov/support/Respite.asp
       - Program of general caregiver support services: https://www.caregiver.va.gov/Care_Caregivers.asp
   - **Manage(H2)**
@@ -91,8 +91,9 @@ _Most of the time this is the CTA on a tool static landing page (a sign in widge
       - **R+S: Meds by Mail: http://va.gov/resources/meds-by-mail-for-champva-and-other-programs**
       - Fisher House Program: https://www.socialwork.va.gov/fisher.asp
       - **R+S: Getting care through champva: http://va.gov/resources/getting-care-through-champva**
-      - The PACT Act and your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
       - **R+S: Getting care for spina bifida and other birth defects: http://va.gov/resources/getting-care-for-spina-bifida-and-other-birth-defects**
+      - The PACT Act and your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
+      
   - **Related Benefits and Services**
       - no changes in phase 2 
 
