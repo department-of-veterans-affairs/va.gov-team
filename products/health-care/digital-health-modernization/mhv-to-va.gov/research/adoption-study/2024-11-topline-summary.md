@@ -68,6 +68,7 @@ Participants repeatedly scrolled past the "Try-me" banners on the My HealtheVet 
 
 > "I think it will take me to VA.gov, but I wonder if it will make me login again." - P10
 
+> "I won't come to Va.gov until it's fully functional. Now I have to click one more time to go back. Nobody wants to turn backward" - P 13
 
 **Research question 2**: Once users try out the new portal, do they understand how to return?
 
