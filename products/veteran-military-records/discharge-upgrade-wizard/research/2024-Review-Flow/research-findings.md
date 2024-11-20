@@ -98,7 +98,7 @@ Most participants were asked to complete two tasks where they needed to edit the
 
 *Labels: DSC: Alert - Expandable, DSP: Wizards*
 
-- Most participants didn't comment on additional questions being asked, but were able to edit questions with ease.
+- Most participants had no feedback on additional questions being asked, but were able to edit questions with ease.
 - Four participants noticed the alert on question pages that indicated more may be asked.
 
 > "So it does say here, 'changing your answer may lead to a new set of questions', which would be no problem." (p5)
