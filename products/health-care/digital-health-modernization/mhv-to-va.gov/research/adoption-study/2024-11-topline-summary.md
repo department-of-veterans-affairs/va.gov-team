@@ -88,13 +88,15 @@ URL: A few participants utilized the URL to orient themselves, but they found th
 
 **Research question 2**: Once users try out the new portal, do they understand how to return?
 
-**Partipants were able to 
+While participants identified ways to access My HealtheVet on VA.gov (such as using bookmarks), the sessions did not definitively establish their ability to navigate back to My HealtheVet on VA.gov. 
 
 **Research question 3**: Are changes made to the national portal language or tools causing confusion?
 
-
+Participants did not comment on language (e.g., "Pharmacy" to "Medications") and seemingly understood the in-tool experiences. However, there was some confusion with naming "My HealtheVet" both on VA.gov and the national portal. (see above) 
 
 **Research question 4**: What challenges or hiccups are users encountering on the new portal?
+
+
 
 **Research question 5**: What are positive changes that users notice while using the new portal?
 
