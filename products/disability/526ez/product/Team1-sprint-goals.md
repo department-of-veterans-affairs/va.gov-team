@@ -5,7 +5,7 @@ Nov 20 - Dec 3, 2024
 
 - [Watch Dog of Watch Dogs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/monitors/%5BZSF%5D%20DBEX%20Teams%20SOP%20(Standard%20Operating%20Procedure)%20for%20monitor%20and%20alert%20response.md): @aurora-a-k-a-lightning 
 
-### Goal 1: Prepare the New Confirmation Page and Received Email features for release and complete the necessary Platform touchpoints required to complete Staging Review.
+### Goal 1: Prepare the New Confirmation Page and Received Email features for release and complete the prep work required to complete Staging Review.
 
 #### We'll know we've achieved the goal when:
 - All required artifacts are prepared for Staging Review and it’s scheduled.
@@ -15,15 +15,15 @@ Nov 20 - Dec 3, 2024
 #### We'll know we've achieved the goal when:
 - OCTO and VBA approve a demo of the working solution. A draft PR is ready to merge
 
-### Goal 3: Determine how (both technical feasibility and design) Veterans will download a completed 526 PDF of their submission on the Confirmation page and what will the Veteran experience be like?
+### Goal 3: Determine how (both technical feasibility and design) Veterans will download a completed 526 PDF of their submission on the Confirmation page and what will the Veteran experience be like.
 
 #### We'll know we've achieved the goal when:
-- Implementation plans are demonstrated by having user stories in the backlog that the team could pick up, aside from needed changes to the overflow page. Technical discovery for ancillary forms and evidence are also planned
+- Implementation plans are demonstrated by having user stories in the backlog that the team could pick up, aside from needed changes to the overflow page. Future discovery for ancillary forms and evidence are also planned.
 
 ### Goal 4: Wrap up the Toxic Exposure release and prepare for the usability research study.
 
 #### We'll know we've achieved the goal when:
-- We are ready for usability sessions starting 12/2. Pilot studies are complete. Research sessions are scheduled and CAIA/observers/notetakers have signed up for sessions. Data management material is ready and HCD is aligned on approach for synthesis. In Flipper Admin, the feature flags we used are gone. OMB component is updated. Confirm that all 526 submissions are now using LH synchronous submit endpoints.
+- We are ready for usability sessions starting 12/2. Pilot studies are complete. Research sessions are scheduled and CAIA/observers/notetakers have signed up for sessions. Data management material is ready and HCD is aligned on approach for synthesis. OMB component is updated. Confirm that all 526 submissions are now using LH synchronous submit endpoints. Work to remove feature toggles and cleanup tests is scheduled for a future sprint. Application and GA metrics for 1.1 are shared with OCTO on 11/25.
 
 ### Goal 5: Identify any custom components and legacy react widgets in use within the Disabilities chapter.
 
