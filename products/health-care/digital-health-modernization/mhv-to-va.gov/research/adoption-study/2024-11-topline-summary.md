@@ -33,7 +33,7 @@ the challenges associated with switching to the new portal?
     - The journey between MHV National portal and MHV on VA.gov was disjoined and introduced confusion. 
 
 - Users will be interested in what we’ve decided are the most important or useful differentiators between the two portals but only those with a great deal of MHV experience will seem excited about the changes.
-    - Not sure: Participants were excited about having benefits, health care, and other VA information in one place. Also, managing Community Care appointments was positive for participants. 
+    - True: Participants were excited about having benefits, health care, and other VA information in one place. Also, managing Community Care appointments and direct scheduling were positives for participants. 
 
 ## Initial Findings
 
