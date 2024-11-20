@@ -4,6 +4,7 @@ Sprint 24: 11/19/24 - 12/02/24
 ## 📅 Upcoming Dates  & 🏖️ PTO
 * Drew PTO 11/27-11/29/24
 * Devin PTO 11/29/24
+* Clayton PTO 11/29/24
 
 
 ## 📣 Announcements
