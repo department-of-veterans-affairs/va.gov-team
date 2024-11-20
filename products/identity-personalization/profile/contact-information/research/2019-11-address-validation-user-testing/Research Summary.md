@@ -1,8 +1,8 @@
 # Address Validation & Override: User Testing
 
-### [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/user%20testing/Research%20Plan.md)
+### [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/research/2019-11-address-validation-user-testing/Research%20Plan.md)
 
-### [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/user%20testing/Conversation%20Guide_Samara.md)
+### [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/research/2019-11-address-validation-user-testing/Conversation%20Guide_Samara.md)
 
 ### [Prototype](https://vsateams.invisionapp.com/share/34UP5BMUAJF#/391945409_1-_Intro_Screen)
 
