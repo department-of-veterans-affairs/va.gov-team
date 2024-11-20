@@ -117,3 +117,6 @@ Participants highlighted several positive aspects, including a streamlined exper
 
 > "very fluid" - P9
 
+8. 6 of 10 participants relied on a web search to locate My HealtheVet National Portal
+
+> 
