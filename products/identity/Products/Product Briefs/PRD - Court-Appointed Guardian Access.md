@@ -57,6 +57,15 @@ Currently, these guardians are unable to create new accounts to manage their Vet
 
 ## **High-level Solution:**
 
+* Short-term Solution:
+  * Retain MHV functionality for existing guardians.
+  * Update the VA.gov sign-in page to:
+    * Remove the MHV button.
+    * Add a link for court-appointed guardians to access their existing accounts.
+
+* Out of Scope:
+  * Developing or implementing a process for new guardians to create accounts.
+
 ### **Assumptions, Bets, & Decision Log** – 
 
 * Only court-appointed guardians are included; fiduciaries, caregivers, and others are excluded.  
