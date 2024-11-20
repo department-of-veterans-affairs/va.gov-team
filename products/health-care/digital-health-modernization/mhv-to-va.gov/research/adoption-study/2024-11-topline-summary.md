@@ -25,7 +25,9 @@ VA.gov?
 the challenges associated with switching to the new portal?
 
 ### Hypothesis
-- The majority of our users do not know that MHV is moving over to VA.gov, even directly after using the national portal. Many of them do not know what this change would or could mean for them outside of understanding that this change will pose a challenge to them that theywould prefer to avoid.
+- The majority of our users do not know that MHV is moving over to VA.gov, even directly after using the national portal. Many of them do not know what this change would or could mean for them outside of understanding that this change will pose a challenge to them that they would prefer to avoid.
+    - Partially true: Participants were able to conceptualize the My HealtheVet to VA.gov migration to some extent. However, perceived challenges, such as sign-in/learning a new thing were potential blockers. 
+      
 - The guidance to try MHV on VA.gov is unclear and the user journey to get to MHV on VA.gov is disjointed and confusing.
 - Users will be interested in what we’ve decided are the most important or useful differentiators between the two portals but only those with a great deal of MHV experience will seem excited about the changes.
 
