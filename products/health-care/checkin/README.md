@@ -143,7 +143,7 @@
 - [eCheck-in](https://yourit.va.gov/kb_view.do?sys_kb_id=07548a9787478dd03502b889cebb3587&sysparm_rank=2&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
 
 ## Engineering
-- Code Repositories
+- Code Repositories (or search [here](https://github.com/search?q=org%3Adepartment-of-veterans-affairs%20topic%3Acheck-in-experience&type=repositories))
   - [vets-website](https://github.com/department-of-veterans-affairs/vets-website)
   - [vets-api](https://github.com/department-of-veterans-affairs/vets-api)
   - [CHIP API](https://github.com/department-of-veterans-affairs/chip)
@@ -162,7 +162,7 @@
   - [cie-iam-manager](https://github.com/department-of-veterans-affairs/cie-iam-manager/): Terraform configuration for managing IAM roles, policies, and other access control resources in the `vaec-cie` AWS account.
   - [cie-system-tests](https://github.com/department-of-veterans-affairs/cie-system-tests/): Automated tests that leverage the known-working code of CHIP and LoROTA to validate the infrastructure in the `vaec-cie` AWS account.
   - [cie-terraform-modules](https://github.com/department-of-veterans-affairs/cie-terraform-modules/): Terraform modules that can be reused across Check-In Experience projects.
-  - [cie-test](https://github.com/department-of-veterans-affairs/cie-test/): A test repository without any real content, just used to validate Terraform modules that act on a specified repository.
+  - [cie-test-repo](https://github.com/department-of-veterans-affairs/cie-test/): A test repository without any real content, just used to validate Terraform modules that act on a specified repository.
   - [cie-upstream-api](https://github.com/department-of-veterans-affairs/cie-upstream-api/): Terraform module for managing an "upstream" API for CHIP and LoROTA to interact with Vista API, BTSSS, and other APIs.
   - [cie-utility-api](https://github.com/department-of-veterans-affairs/cie-utility-api/): Terraform module for managing a "utility" API that exposes endpoints useful for debugging and interacting with the deployed instances of CHIP and LoROTA.
 - [Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/architecture-diagrams)
