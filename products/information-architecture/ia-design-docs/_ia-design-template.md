@@ -87,12 +87,6 @@ Current URL | Redirect to | Notes
 *Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find content and features that are not easily found or not ranking well in search. Existing best bets must be removed or updated when links/URLs change.*
 
 **1. Add/Modify/Remove Page name best bet** - 
-- Title: [H1 of page]
-- Link:
-- Description: [Meta description of page]
-- Additional keywords *(Misspellings or phrases that are not an exact match to the title or description)*
-  - [keyword]
-
 
 
 ### Staged rollout
