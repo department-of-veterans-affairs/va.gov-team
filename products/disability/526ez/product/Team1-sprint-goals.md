@@ -10,10 +10,12 @@ Nov 20 - Dec 3, 2024
 #### We'll know we've achieved the goal when:
 - All required artifacts are prepared for Staging Review and it’s scheduled.
 
+### Goal: Investigation & Fix: Allow Service End Date more than 180 days in the future
+
 ### Goal 2: Complete development of the 5103 language alerts and Claim Certification / Signature Component to ensure Veterans are notified of any evidence needed to support their disability claim and enable them to sign the 526 form digitally. Both features are tested as working in a local environment.
 
 #### We'll know we've achieved the goal when:
-- OCTO and VBA approve a demo of the working solution. A draft PR is ready to merge
+- OCTO and VBA approve a demo of the working solution.
 
 ### Goal 3: Determine how (both technical feasibility and design) Veterans will download a completed 526 PDF of their submission on the Confirmation page and what will the Veteran experience be like.
 
