@@ -50,12 +50,13 @@ www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/how-to-apply/
   - Notes: The 'How to apply' page will serve as informational and the 'Apply for' page will be that actual application
 <img width="714" alt="Screenshot 2023-03-01 at 2 44 29 PM" src="https://user-images.githubusercontent.com/122128479/222260801-d24cbd0f-66d2-494c-a906-84a6f4d4effa.png">
+  - Implementation notes: As of 11/20/2/24 this is in place
 
 2. Housing assistance hub - Add
   - Placement description: Under 'Get Veterans housing assistance grants' as the 3rd option
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
-  - Notes: 
+  - Notes: As of 11/20/2/24 this is *still needed*
   
 ![Screenshot 2023-03-01 at 6 40 51 PM](https://user-images.githubusercontent.com/122128479/222300205-91cd8fcc-f0cb-4f5d-b4ea-81476e2da0d8.png)
 
@@ -64,18 +65,19 @@ www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
   - Notes: eBenefits is being sunset in June 2024
+  - Implementation notes: As of 11/20/2/24 this is in place
  
 4. [Disability housing grants for Veterans](https://www.va.gov/housing-assistance/disability-housing-grants/) - Modify
   - Placement description: Replace link label text so that it refers to the online application rather than to eBenefits
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
-  - Notes:
+  - Notes: - Implementation notes: As of 11/20/2/24 this navigation is in place, but links to this page still use the SHA and SAH accronyms.
 
 5. Housing assistance left nav - Add
   - Placement description: Under 'Housing grants' as the 2nd option
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
-  - Notes: 
+  - Notes: As of 11/20/2/24 this is *still needed*
  <img width="446" alt="Screenshot 2023-03-01 at 2 52 40 PM" src="https://user-images.githubusercontent.com/122128479/222262424-d2ed2ba0-4b82-4d62-9e59-c1dc83481e7e.png">
 
  
@@ -83,7 +85,7 @@ www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech
   - Placement description: Under 'Get Veterans housing grants' column as the 4th option (bottom)
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
-  - Notes: 
+  - Notes:  As of 11/20/2/24 this is *still needed*
  
 ![Screenshot 2023-03-01 at 6 37 44 PM](https://user-images.githubusercontent.com/122128479/222299846-57c4bcf0-ab07-4a55-a3a7-69f3a5e5e4a4.png)
 
