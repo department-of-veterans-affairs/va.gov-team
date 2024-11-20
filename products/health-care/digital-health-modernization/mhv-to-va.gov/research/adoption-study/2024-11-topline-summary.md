@@ -1,11 +1,11 @@
 # MHV on VA.gov secondary navigation comparison research - Topline Summary
-February 7, 2024
+Nov 18, 2024
 
 Jonathan Nelson, Kat Brinley, Florence McCafferty, Sara Sterkenburg, : VA.gov Cartography team
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/adoption-study/Research-plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/conversation-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/adoption-study/conversation-guide.md)
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
 
@@ -17,53 +17,35 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 Note: We will gather numbers for appropriate findings during final synthesis
 
+## Research Goals	
+- What hinders our users from discovering and returning to MHV on VA.gov?
+- What unintentional friction are our users encountering on MHV on 
+VA.gov?
+- What information about new features on VA.gov might counter-balance
+the challenges associated with switching to the new portal?
+
+### Hypothesis
+- The majority of our users do not know that MHV is moving over to VA.gov, even directly after using the national portal. Many of them do not know what this change would or could mean for them outside of understanding that this change will pose a challenge to them that theywould prefer to avoid.
+- The guidance to try MHV on VA.gov is unclear and the user journey to get to MHV on VA.gov is disjointed and confusing.
+- Users will be interested in what we’ve decided are the most important or useful differentiators between the two portals but only those with a great deal of MHV experience will seem excited about the changes.
+
 ## Initial Findings
 
-**Research question 1**
+**Research question 1**: Are CTAs to try out the new MHV portal effective? Do users notice them
+and understand what they're saying?
 
-1. Participants’ ability to navigate easily and quickly to the four main tools of the health portal - Medications, Appointments, Secure Messaging, and Medical Records - was significantly improved when they were not required to open a dropdown to navigation on mobile devices. 
-<br />
 
-2. Most participants (on mobile) found the persistent navigation/icon design (Prototype B) easier to navigate within the health portal compared to the collapsible menu (Prototype A). 
-   - Participants noticed and utilized the persistent navigation/icon design to navigate the health portal. 
-   - Participants struggled, for a variety of reasons, with the collapsed navigation (Prototype A). 
-     - Some participants did not seem to notice the menu 
-     - Some participants did not come back to the menu after engaging with it 
-   - A couple of the participants stated that persistent navigation/icon design (Prototype B) was “much improved” and “significantly easier.” 
-<br />
+**Research question 2**: Once users try out the new portal, do they understand how to return?
 
-3. The majority of participants did not differentiate between desktop designs. However, further analysis is needed to evaluate the effectiveness of using  “Home” (Prototype A) rather than  “My HealtheVet” (Prototype B) as a means of returning to the My HealtheVet landing page. 
-<br />
+**Research question 3**: Are changes made to the national portal language or tools causing confusion?
 
-4. Most participants did not recognize the "My HealtheVet" link text as clickable in Prototype B on both mobile and desktop designs which hindered their discovery and exploration of the landing page.
-   - Some participants found alternative routes to the MyHealtheVet landing page (e.g. breadcrumbs). 
-<br />
+**Research question 4**: What challenges or hiccups are users encountering on the new portal?
 
-5. Some participants utilized the breadcrumb with “Back” text on tool landing pages as a strategy to navigate to the My HealtheVet home landing page. 
-   - Most of these participants were able to complete the tasks.
-   - This does not seem to affect their ability to succeed in tasks negatively. 
-<br />
+**Research question 5**: What are positive changes that users notice while using the new portal?
 
-6. Participants did not seem to notice or be impacted by the use of abbreviations on mobile with the persistent navigation/icon design (Prototype B). 
-   - Participants quickly engaged with abbreviated labels with little hesitation. 
-   - When asked about the meaning of each icon, all participants correctly identified the tool names and accurately anticipated the types of information associated with each icon. 
-   - One participant who utilized assistive technology heard “apps” when reading “appts” but was still able to complete appropriate tasks.  
-<br />
+**Research question 6**: How much do users care about what the new MHV offers them?
 
-**Research Question 2**
 
-7. The navigation bar (on mobile and desktop) contributed to a strong "sense of place” for most participants. 
-   - Most participants were aware they were within a health portal.
-   - Few participants navigated to the global header as their first instinct to complete tasks with either prototype. 
-   - Participants did not clearly distinguish between My HealtheVet and VA.gov 
-   - When participants did veer to other navigation options (e.g., main VA.gov menu) they were mostly isolated to mobile sessions (Prototype A) 
-
-**Research Question 3**
-
-8. All participants struggled to complete tasks outside of the health portal/not specifically named within the secondary navigation (e.g., Order CPAP supplies/file a claim for travel reimbursement). 
-   - Participants may have perceived the four navigation links as the only options, especially on Prototype B, in which an important 5th option (navigating to the My HealtheVet land page) was not seen as a link. 
-   - The association of CPAP supplies with Medications was clear among all participants. Even when participants successfully navigated to the landing page, they did not always scroll to find CPAP supplies, choosing instead to stop at the Medications box.  
-   - When Travel pay was introduced as an alternative task, participants did not demonstrate a clear connection to any of the four tools but continued to struggled to complete the task. 
 
 ## Other takeaways 
 
