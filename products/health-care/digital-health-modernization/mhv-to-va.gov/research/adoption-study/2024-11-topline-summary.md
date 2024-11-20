@@ -44,21 +44,21 @@ Participants repeatedly scrolled past the "Try-me" banners on the My HealtheVet 
 
 **Possible reasons:**
 
-- Participants are focused on accomplishing task/goals 
+**Participants are focused on accomplishing task/goals**
 
 > "If I've already made it this far to the page, I don't care about all this. I"m already where I was trying to be" - P2
 
 > "Hmm..no, i usually scroll really fast and went right down to my appointments. - P13
 
-- Participants often had multiple/stacked banners/alerts seemingly blending into each other which caused some confusion. 
+**Participants often had multiple/stacked banners/alerts seemingly blending into each other which caused some confusion.**
 
 > "3 boxes all the same color makes it seem like these are all the same information." - P2
 
-- Some participants skimmed the first banner on the page and language like "retiring MHV" password seemed to add confusion. 
+**Some participants skimmed the first banner on the page and language like "retiring MHV" password seemed to add confusion.**
 
 > "And then at once point, it's giving you the option to cancel your MHV. But if you do that you can't get into any of this stuff . So why are they doing that?" - P12
 
-- Some participants felt that the banners/alerts did not apply to them 
+**Some participants felt that the banners/alerts did not apply to them.**
 
 > "I have all these banners here and I tend to ignore them."  - P9
 
