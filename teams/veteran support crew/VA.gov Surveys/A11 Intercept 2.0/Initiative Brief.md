@@ -10,23 +10,23 @@ While the survey aligns with OMB guidelines for feedback collection, it falls sh
 
 We believe there is an opportunity to design and implement an enhanced survey experience with improved questions and methodology. This updated approach would not only maintain high survey participation but also generate higher-quality feedback, better supporting actionable insights for VA.gov's ongoing development.
 
-## Desired User Outcomes
+### Desired User Outcomes
 - Increased survey completion rate - Users feel motivated to complete the survey without frustration. 
 - Minimal disruption - the survey feels unobtrusive and does not hinder a user from completing their task (benefits application, prescription refills, etc.)
 - Accessible design - the survey is fully accessible for users of all abilities.
 - Ease of use - Survey is intuitive and quick, requiring minimal effort to complete. 
 
-## Undesired User Outcomes
+### Undesired User Outcomes
 - Survey fatigue - users are overwhelmed by repeated or obtrusive survey prompts and begin ignoring them.
 - Dispruptive - survey impacts the user journey in a significant and negative way.
 - Incomplete responses - abandoning the survey halfway
 
-## Desired Business Outcomes
+### Desired Business Outcomes
 - Increased survey response rate
 - Increased CSAT score in line with OCTO OKRs
 - Higher quality / more complete data on user satisfaction
 
-## Undesired Business Outcomes
+### Undesired Business Outcomes
 - Lower quality data / rise in incomplete surveys
 - Decreased survey engagement
 - Data bias - survey methodology skews data leading to unrepresentative feedback 
