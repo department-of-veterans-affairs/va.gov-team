@@ -15,9 +15,12 @@ Currently, these guardians are unable to create new accounts to manage their Vet
 **Short-term:**
 
 * Court-appointed guardians must access Veterans' services through VA.gov.  
-* A process for new guardians must allow seamless account creation and access.  
 * MHV will remain operational until a sustainable long-term solution is implemented.  
 * VA staff need clear processes to assist guardians across all facilities efficiently.
+
+### **Out of Scope:**
+
+* Providing a pathway for new guardians to create accounts via VA.gov or other credentialing systems.
 
 **Long-term:**
 
@@ -32,11 +35,9 @@ Currently, these guardians are unable to create new accounts to manage their Vet
 * Desired:  
   * Short-term:  
   * Existing guardians are able to access their Veteran’s Affairs through VA.gov.  
-  * A pathway is established for new guardians to gain access through VA.gov.  
   * VA staff can efficiently support guardians in accessing services.  
 * Undesired:  
-  * Guardians lose access after January 31, 2025, disrupting care for Veterans.  
-  * Delays for new guardians occur due to a lack of clear onboarding processes.  
+  * Guardians lose access after January 31, 2025, disrupting care for Veterans.   
   * Unauthorized access compromises data integrity and trust, making it difficult to prioritize legitimate guardians.  
   * VA staff are overwhelmed by manual processes, leading to delays and inconsistent service.  
   * Inconsistent service across facilities causes confusion and frustration for guardians.  
@@ -46,7 +47,7 @@ Currently, these guardians are unable to create new accounts to manage their Vet
 
 ### **Success Metrics** – 
 
-* Volume of MHV account creations and logins after reopen  
+* Volume of MHV logins after reopen  
   * This could be an (indirect) indicator of guardian participation but will likely capture some non-guardian use  
 * Reduction in guardian complaints   
   * Fewer complaints would suggest guardians are able to create an account and sign in  
@@ -62,22 +63,25 @@ Currently, these guardians are unable to create new accounts to manage their Vet
   * We cannot reliably identify who the guardians are.  
 * Compliance requirements, including OGC review, are deferred to meet the January 31, 2025, deadline. This creates future risks of policy challenges and non-compliance that must be addressed later.  
 * Outreach efforts depend on each facility’s staffing and readiness, causing potential delays.  
-* \*MHV account creation will reopen exclusively for guardians, with the risk of non-guardians gaining access \- MAYBE no timeline yet  
-* Login.gov and ID.me will not be integrated in this phase, MHV sign-in method will remain open beyond Jan 31, 2025 and until a long-term solution is in place \- MAYBE no timeline yet  
+* Login.gov and ID.me will not be integrated in this phase, MHV sign-in method will remain open beyond Jan 31, 2025 and until a long-term solution is in place  
   * Access Options:  
-    * “Public” link on VA.gov: Ensures availability but risks unauthorized access, complicating tracking legitimate guardians \- MUST BE  
-    * Private URL through VA facilities: Reduces unauthorized access but burdens VA staff and creates a poor user experience by requiring in-person visits. \- NO  
-      * Mass email to say to court-appointed guardian  
+    * “Public” link on VA.gov: Ensures availability but risks unauthorized access, complicating tracking legitimate guardians
 * DS Logon will not be used as an alternative since it is deprecating September 2025\.  
 * The focus is on continuity for existing guardians and establishing access easily for new guardians.  
 * Guardianship status may not always be current or verified, creating risks of expired or misused access.
 
-### **Dependencies** – 
+### **Risks & Dependencies** – 
 
-* VA staff availability and readiness are required to support guardian access requests.  
-* MHV infrastructure must remain functional through the January 31, 2025 transition.  
-* Local VA facilities are responsible for outreach and access setup.  
-* Temporary solutions must not prevent progress toward a sustainable long-term plan.
+*Risks:
+ *Excluding a solution for new guardians could lead to public criticism, legal challenges, or  dissatisfaction from advocacy groups.
+ *The public-facing link for existing guardians risks misuse by individuals without legitimate credentials, compromising data security.
+ *If MHV experiences technical issues or outages, existing guardians may lose access before the long-term solution is ready.
+
+*Dependencies:
+ * VA staff availability and readiness are required to support guardian access requests.  
+ * MHV infrastructure must remain functional through the January 31, 2025 transition.  
+ * Local VA facilities are responsible for outreach and access setup.  
+ * Temporary solutions must not prevent progress toward a sustainable long-term plan.
 
 ### **Launch or Implementation Strategy** – 
 
