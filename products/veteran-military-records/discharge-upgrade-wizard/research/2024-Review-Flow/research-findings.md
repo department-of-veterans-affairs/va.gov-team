@@ -227,14 +227,13 @@ Three participants expressed concerns that the form was confusing, had a lot of 
 ## Additional Insights
 
 **1. Assistive technology users were able to answer all questions and complete editing tasks.**
+     - This study had three participants who used assistive technology, one used a screen magnifier and two used screen readers. All three participants were able to navigate the sub task pattern, answer questions, and edit them. 
 
 > "It's going to be accessible for a visually impaired Veteran." (p7)
 
-This study had three participants who used assistive technology, one used a screen magnifier and two used screen readers. All three participants were able to navigate the sub-task pattern, answer questions, and edit them. 
-
 **2. Assistive technology users had difficulty with the action link on the start page.**
-- One participant using a screen magnifier missed this link
-- One participant using a screen reader believed that this was the bottom of the page
+- One participant using a screen magnifier missed this link.
+- One participant using a screen reader believed that this was the bottom of the page.
 
 **3. The sub task pattern was easy to use.**
 - Participants noted that they liked the big buttons and seeing only one question per page. For the Discharge Upgrade Wizard specifically, they liked the simple yes/no or multiple choice questions in favor of needing any input fields.
@@ -247,37 +246,36 @@ This study had three participants who used assistive technology, one used a scre
 ## Recommendations
 
 ### For wizard design and functionality
-* Change year of discharge dropdown to an input field.
+* Consider changing the year of discharge dropdown to an input field.
     * VA Design System guidelines suggest to consider a different component when there are more than 15 options in the dropdown.
     * [Guidelines for select component](https://design.va.gov/components/form/select)
-* Allow users to select multiple reasons for changing their discharge paperwork.
+* Consider allowing users to select multiple reasons for changing their discharge paperwork.
     * Two participants wanted to select multiple responses to why they wanted to change their discharge paperwork. One of the participants remembered being able to select multiple reasons on the form when they had applied for a discharge upgrade in the past.
-* Make areas of the results page collapsable.
-    * Hiding information on the page would reduce cognitive load.
+* Consider how to condense content on the results page.
     * Three participants gave feedback that there was too much content on the results page.
+    * One participant suggested collapsing content in an accordion or hiding content on the page would make it feel less overwhelming.
+ * Consider how to emphasize the Get Started action link on the start page.
+    * One participant using a screen magnifier missed this link.
 
 ### For wizard content
-* Reword the prior service question.
+* Consider rewording the prior service question.
     * The prior service question asks "Did you complete a period of service in which your character of service was Honorable or General Under Honorable Conditions?"
-    * Add the word "general" to the answers since this is mentioned in the question. One participant noticed the word "general" in the question, but became confused when they didn't see the word in any of the answers. 
+    * One participant noticed the word "general" in the question, but became confused when they didn't see the word in any of the answers. 
     * Two participants found the wording confusing to this question.
-* Add Space Force to the list of branch options or state what to select instead.
+* Consider adding Space Force to the list of branch options or state what to select instead.
     * Two participants noted that Space Force was missing from the list of branch options.
-* Add more wording to the Get Started action link on the start page.
-    * One participant using a screen magnifier missed this link.
-    * Adding more words could make this link be more noticeable.
-* Add more information about buddy statements to the results page.
+* Consider adding more information about buddy statements to the results page.
     * One participant wanted examples of written buddy statements and an estimate of how many were needed.
     * One participant wanted more emphasis on how important buddy statements are.
-* Add more information to the results page that's specific to the reason for wanting a discharge upgrade.
-    * This could also be boilerplate text that users can copy into the form to help them fill it out.
+* Consider adding more information to the results page that's specific to the reason for wanting a discharge upgrade.
     * Three participants expressed concerns that the form was confusing, had a lot of content, and would be difficult to fill out on their own.
-    * One participant expressed that the info on the page was very general and not specific to the discharge upgrade reason they gave.    
+    * One participant expressed that the info on the page was very general and not specific to the discharge upgrade reason they gave.
+    * One participant suggested adding boilerplate text that users can copy into the form to help them fill it out.
 
 ### For submission process
-* Allow users to submit the form online.
+* Consider allowing users to submit the form online.
     * Three participants wanted to submit their form online instead of mailing it in.
-* Update users on where they're at in the process after submitting their form.
+* Consider how to update users on where they're at in the discharge upgrade process.
     * Three participants would like more communication about the discharge upgrade process after submitting their form.
 
 
