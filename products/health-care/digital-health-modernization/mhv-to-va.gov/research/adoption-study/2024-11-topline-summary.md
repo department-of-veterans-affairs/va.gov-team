@@ -64,6 +64,11 @@ Participants repeatedly scrolled past the "Try-me" banners on the My HealtheVet 
 
 > No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
 
+**Participants generally were able to conceptualize and explain the transition happening between MHV and VA.gov. However, participants were unclear how the changes will affect their use of My HealtheVet.Uncertainly such as having to sign in again and functionality were potential blockers for participants.** 
+
+> "I think it will take me to VA.gov, but I wonder if it will make me login again." - P10
+
+
 **Research question 2**: Once users try out the new portal, do they understand how to return?
 
 **Research question 3**: Are changes made to the national portal language or tools causing confusion?
