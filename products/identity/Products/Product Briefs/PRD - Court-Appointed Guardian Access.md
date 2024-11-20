@@ -63,7 +63,7 @@ Currently, these guardians are unable to create new accounts to manage their Vet
     * Remove the MHV button.
     * Add a link for court-appointed guardians to access their existing accounts.
 
-      * Out of Scope:
+      * Out of Scope for Short-term solution:
         * Developing or implementing a process for new guardians to create accounts.
 
 ### **Assumptions, Bets, & Decision Log** – 
