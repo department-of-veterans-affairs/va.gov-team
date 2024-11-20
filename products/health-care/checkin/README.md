@@ -158,6 +158,7 @@
   - [cie-downstream-api](https://github.com/department-of-veterans-affairs/cie-downstream-api/): Terraform module for managing a "downstream" API for services to interact with CHIP and LoROTA.
   - [cie-dsva-iac](https://github.com/department-of-veterans-affairs/cie-dsva-iac/): Terraform configuration for managing Check-In Experience resources within the `dsvagovcloud` AWS account.
   - [cie-github-actions](https://github.com/department-of-veterans-affairs/cie-github-actions/): GitHub Actions that can be reused across Check-In Experience projects.
+  - [cie-github-repos](https://github.com/department-of-veterans-affairs/cie-github-repos/): Terraform configuration for managing Check-In Experience GitHub repositories.
   - [cie-iam-manager](https://github.com/department-of-veterans-affairs/cie-iam-manager/): Terraform configuration for managing IAM roles, policies, and other access control resources in the `vaec-cie` AWS account.
   - [cie-system-tests](https://github.com/department-of-veterans-affairs/cie-system-tests/): Automated tests that leverage the known-working code of CHIP and LoROTA to validate the infrastructure in the `vaec-cie` AWS account.
   - [cie-terraform-modules](https://github.com/department-of-veterans-affairs/cie-terraform-modules/): Terraform modules that can be reused across Check-In Experience projects.
