@@ -4,14 +4,13 @@
 
 **VA NETWORK VERSION**
 
-Version: 3
+Version: 4
 
-Published Date: 10/23/2024
+Published Date: 11/20/2024
 
 Last Updated By: Christine Julian
 
-Update(s) Made: Added cloudfare failure troubleshooting templated
-response & Refusal to Share SSN, updated escalation pathway guidance.
+Update(s) Made: Added templates for Virtual Training Events, Users section updated requirements, updated clause in HBHC & CAG templates, added a signature w/ resources, added general response template. Updated escalation guidance.
 
 The following is a collection of common requests & standardized
 responses to utilize while managing the SSIT Support Inbox.
@@ -27,6 +26,12 @@ Support](https://dvagov-my.sharepoint.com/:w:/r/personal/christine_julian_va_gov
 **Established:** 9/16/2024
 
 **Users:** VA Staff
+
+*Please note all emails related to MHV issues, including all emails generally coming from or forwarded by Carnetta Scruggs are currently to be escalated to the POs to take on (these are typically related to MHV issues) 
+ 
+MHV Coordinators: Are the primary users of this inbox, and are the designated local staff to support Veterans during this transition. If you receive a support request from a VA clinical staff member please put them in touch with their local MHV Coordinator to work directly with the Veteran on additional troubleshooting guidance.  
+ 
+You can search for MHV Coordinators by location [here](https://dvagov.sharepoint.com/:x:/r/sites/IdentityTeam/Shared%20Documents/Sign%20in%20transition%20(VA%20and%20contractors)/MHV_VAMC_POCs_for_web__2024_09_30_24.xlsx?d=wc50086d3e30f4da6b37e6d6ab279d105&csf=1&web=1&e=g95h3I) 
 
 **Receivers:** 9/16-10/4 Jeannette Bruno: Director, Change Management
 Office of the CTO  
@@ -99,6 +104,196 @@ teams.
 
 To Report Feedback
 
+# Responses
+
+## Signature
+Sincerely, 
+
+[name] 
+
+Secure Sign-In Transition Team | VA Department of Veteran Affairs 
+
+Training & Troubleshooting Resources 
+
+[For VA Staff](https://vaww.oit.va.gov/prepare-for-sign-in-changes/) : OIT Site (many helpful guides & additional resources for troubleshooting) 
+
+[For Veterans](https://www.va.gov/initiatives/prepare-for-vas-secure-sign-in-changes/): Information about the change & guides to create and verify their account. 
+
+# Escalation Pathways
+
+When forwarding escalations please also respond to the sender with the
+following message...
+
+Hello \[name\],
+
+Thank you for bringing this to our attention. I have forwarded it to the
+\[team\] to escalate this further. They will let you know what is needed
+to resolve this issue.
+
+Sincerely,  
+\[Name\]  
+Secure Sign-In Transition Team \| VA
+
+- If external teams respond with additional updates forward on to the
+  original sender of the issue for visibility.
+
+## Internal SIT Escalations
+
+Forward email w/ request/need to SIT Product Owners CCing all three
+below...  
+  
+Jeannette Bruno + Samara Strauss+ Tom Black  
+jeannette.bruno@va.gov
+
+[[samara.strauss@va.gov]](mailto:samara.strauss@va.gov)
+
+tom.black2@va.gov
+
+## ID.me Escalations {#id.me-escalations}
+
+Be sure we are submitting as much info to ID.me as possible so they can effectively locate the case on their end to get to a quick resolution.  
+
+[Only share with Jess after gathering all the relevant
+information.] Forward email with request/need to (the ID.me team
+will reach out to the Veteran directly to resolve open issues)  
+  
+Jessica Guglielmini
+
+[[jessica.guglielmini@id.me]](mailto:jessica.guglielmini@id.me)
+
+Hello Jessica,
+
+I need to open a support ticket for this Veteran with ID.me Please find
+the attached information.
+
+Veteran Name:
+
+Veteran Email:
+
+Veteran Phone Number:
+
+Provider:
+
+Issue Description:
+
+Ticket Number & Date of Submission:
+
+Sincerely,
+
+\[name\]
+
+Secure Sign-In Transition Team \| VA  
+  
+**ID.me support contact information**
+
+### 
+
+- **Help articles for common issues:** [[ID.me\'s help
+  center]](https://help.id.me/)
+  ([[https://help.id.me/]](https://help.id.me/))
+
+- **Help center support for VA only:** 877-327-0022 (Monday-Friday, 8:00
+  a.m. to 8:00 p.m. ET). Select option 1 and follow the prompts. Note
+  that wait times may vary. Please **do not** give this number out
+  publicly. This number is only for VA staff and Veterans and giving the
+  number out will cause longer wait times for Veterans.
+
+- **Online support:**
+
+  - **Chabot ("Roy"):** Go to [[ID.me\'s help
+    center]](about:blank)
+    ([[https://help.id.me/]{.underline}](https://help.id.me/)). The chat
+    bot will prompt you to engage.
+
+  - **Submit a support ticket:** Go to [[Contact Support
+    (id.me)]](https://help.id.me/hc/en-us/p/contact_support)
+    ([[https://help.id.me/hc/en-us/p/contact_support]{.underline}](https://help.id.me/hc/en-us/p/contact_support)).
+    Select **Submit a ticket** to get started. This has to be done by the user directly, tickets cannot be opened on behalf of another individual.
+
+## Login.gov Escalations {#login.gov-escalations}
+
+The [[Login.gov]{](http://login.gov/) team typically does not
+follow up directly with the Veteran unless there was a call into their
+Help Desk to create a ticket or someone created a ticket for the
+Veteran.
+
+If a ticket submission is not provided submit one via the [[Login.gov contact
+page]{](https://login.gov/contact/#report-an-issue) on behalf
+of the Veteran (using the info provided you in the inbox and from the Veterans email) and then
+letting the [[Login.gov]](http://login.gov/) team know in
+their weekly email share.  
+
+Forward email with the applicable ticket information and the
+request/need to all three contacts below.
+
+Sierra Stewart Q2AABG  
+[[sierra.stewart@gsa.gov]](mailto:sierra.stewart@gsa.gov)  
+  
+Trevor Sinclair QUD-C  
+[[trevor.sinclair@gsa.gov]](mailto:trevor.sinclair@gsa.gov)
+
+Gabriel Vorleto QQ2-C
+
+[[gabriel.vorleto@gsa.gov]](mailto:gabriel.vorleto@gsa.gov)
+
+I need to escalate this support ticket on behalf of this Veteran with Login.gov Please find the attached information.
+
+Veteran Name:
+
+Veteran Email:
+
+Veteran Phone Number:
+
+Provider:
+
+Issue Description:
+
+Ticket Number & Date of Submission:
+
+Sincerely,
+
+\[name\]
+
+Secure Sign-In Transition Team \| VA
+
+### **Login.gov support contact information** {#login.gov-support-contact-information}
+
+### 
+
+- **Help articles for common issues:** [[Login.gov's help
+  center]](http://www.login.gov/help)
+  ([[www.login.gov/help]](http://www.login.gov/help))
+
+- **Help center support:** 844.875.6446. Note that the support help desk
+  staff can provider is often limited. Please **do not** give this
+  number out. Help desk staff is limited in capacity and giving the
+  number out will result in longer wait times for Veterans.
+
+- **Online support:** [[Login.gov's contact us
+  page]{](https://www.login.gov/contact/#get-in-touch)
+  ([[www.login.gov/contact/#get-in-touch]{](http://www.login.gov/contact/#get-in-touch))
+
+## MHV Escalations
+
+Forward email with request/need to the internal leadership. If
+determined appropriate they may ask you forward it to the MHV contact
+below (the MHV team will reach out to the Veteran directly to resolve
+open issues).
+
+Carnetta Scruggs
+
+carnetta.scruggs@va.gov
+
+MyVA411 Help Desk
+
+1-800-698-2411
+
+Hours: 24/7  
+  
+If you need an interpreter: Call 800-698-2411 and select 0. We'll
+connect you witha VA call center agent. Tell the agent that you want a
+language interpreter to join the call.
+
 # Common Issues/Requests
 
 ## General
@@ -146,44 +341,56 @@ Secure Sign-In Transition Team \| VA
 \*Unique edge case the POs are bringing to OCTO/OIT/VHA leadership to
 discuss how we might better serve this population.
 
-Hello \[name\],
+Hello [name], 
 
-The VA is currently working on improved solutions for court-appointed
-guardians during this transition. In the meantime, please encourage
-**only** this specific audience (they must have legal authority on file
-with the VA as a court-appointed guardian or conservator) to keep using
-their MHV Premium account and reassure them that we will provide further
-direction as soon as a solution is in place.
+  The VA is currently working on improved solutions for court-appointed guardians during this transition. In the meantime, please encourage only this specific audience (they must have legal authority on file with the VA as a court-appointed guardian or conservator) to keep using their MHV Premium account and reassure them that we will provide further direction as soon as a solution is in place. 
 
-We will continue to provide updates as we have them.
+  We also want to ensure Veterans and their caregivers are aware that they will still continue to be able to manage their benefits in-person or by phone.  We will share your experience with our leadership and continue to provide updates as we have them. Thank you for sharing this information with us. 
 
-Sincerely,
+Sincerely, 
 
-\[Name\]  
-Secure Sign-In Transition Team \| VA
+[Name] 
+Secure Sign-In Transition Team | VA 
 
 ### Home Bound Primary Care (HBPC)
 
 \*Unique edge case the POs are bringing to OCTO/OIT/VHA leadership to
 discuss how we might better serve this population.
 
-Hello \[name\],
+Hello [name], 
 
-The VA is currently working on improved solutions for home bound primary
-care during this transition. Depending on what kinds of ID/documents
-they have, they may be able to do a trusted referee call from home
-(assuming they have access to a smart phone or other device that can
-support a video call). People can use their Veteran Health ID card as
-their photo ID, should they have one.
+  The VA is currently working on improved solutions for home based primary care during this transition. Depending on what kinds of ID/documents they have, they may be able to do a trusted referee video call from home (assuming they have access to a smart phone or other device that can support a video call). People can use their Veteran Health ID card as their photo ID, should they have one. 
 
-We will share your experience with our leadership and continue to
-provide updates as we have them. Thank you for sharing this information
-with us.
+  We also want to ensure Veterans and their caregivers are aware that they will still continue to be able to manage their benefits in-person or by phone.  We will share your experience with our leadership and continue to provide updates as we have them. Thank you for sharing this information with us. 
 
-Sincerely,
+Sincerely, 
 
-\[Name\]  
-Secure Sign-In Transition Team \| VA
+[Name] 
+Secure Sign-In Transition Team | VA 
+
+
+If additional health or related CAG/POA information is shared about the Veteran as well you can use the following template. 
+
+Hello [name], 
+
+  Thank you so much for the additional support you are and continue to provide this Veteran and their caregiver. The VA is currently working on improved solutions for home bound primary care & those with court-appointed guardians or power of attorney during this transition. In the meantime, please encourage only this specific audience (they must have legal authority on file with the VA as a court-appointed guardian or conservator) to keep using their MHV Premium account and reassure them that we will provide further direction as soon as a solution is in place.  
+ 
+  We also want to ensure Veterans and their caregivers are aware that they will still continue to be able to manage their benefits in-person or by phone.  We will share your experience with our leadership and continue to provide updates as we have them. Thank you for sharing this information with us. 
+
+Sincerely, 
+
+[Name] 
+Secure Sign-In Transition Team | VA 
+
+### Blind Veteran Access Issues 
+
+MHV site has some known challenges with accessible navigation so there will not be a singular tool to resolve this issue. 
+
+Possible routes: 
+
+- Connecting Veteran to the BVA (blinded veterans association) or the VA 508 office asap for someone to help them out 
+- Alistair in 508 office does amazing work 
+- Forward this issue to Martha Wilkes on #accessibility-help as she is the accessibility liaison at the VA 
 
 ### No Valid ID
 
@@ -744,6 +951,17 @@ Sincerely,
 \[Name\]  
 Secure Sign-In Transition Team \| VA
 
+## Virtual Training Events 
+
+Hello [name], 
+
+ We are happy to partner with you and host a virtual training event in your area to support the sign-in transition. I have forwarded this to our coordinators. A member of our team will be reaching out with additional information to coordinate the event.  
+
+Sincerely, 
+
+[Name] 
+Secure Sign-In Transition Team | VA
+
 ## Local Staffing Concerns
 
 Hello \[name\],
@@ -802,205 +1020,3 @@ improvements. We have shared with the broader team.
 Sincerely,  
 \[Name\]  
 Secure Sign-In Transition Team \| VA
-
-# Escalation Pathways
-
-When forwarding escalations please also respond to the sender with the
-following message...
-
-Hello \[name\],
-
-Thank you for bringing this to our attention. I have forwarded it to the
-\[team\] to escalate this further. We will let you know what is needed
-to resolve this issue.
-
-Sincerely,  
-\[Name\]  
-Secure Sign-In Transition Team \| VA
-
-- If external teams respond with additional updates forward on to the
-  original sender of the issue for visibility.
-
-## Internal SIT Escalations
-
-Forward email w/ request/need to SIT Product Owners CCing all three
-below...  
-  
-Jeannette Bruno + Samara Strauss+ Tom Black  
-jeannette.bruno@va.gov
-
-[[samara.strauss@va.gov]](mailto:samara.strauss@va.gov)
-
-tom.black2@va.gov
-
-## ID.me Escalations {#id.me-escalations}
-
-[In order for ID.me to resolve the issue with the Veteran, we need to
-ensure proper troubleshooting was done (e.g. ID.me help desk called,
-ticket submitted).]
-
-[We need to be sure we are submitting as much info to ID.me as possible
-so they can effectively locate the case on their end to get to a quick
-resolution.]
-
-[Only share with Jess after gathering all the relevant
-information.] Forward email with request/need to (the ID.me team
-will reach out to the Veteran directly to resolve open issues)  
-  
-Jessica Guglielmini
-
-[[jessica.guglielmini@id.me]](mailto:jessica.guglielmini@id.me)
-
-Hello Jessica,
-
-I need to open a support ticket for this Veteran with ID.me Please find
-the attached information.
-
-Veteran Name:
-
-Veteran Email:
-
-Veteran Phone Number:
-
-Provider:
-
-Issue Description:
-
-Ticket Number & Date of Submission:
-
-Sincerely,
-
-\[name\]
-
-Secure Sign-In Transition Team \| VA  
-  
-**ID.me support contact information**
-
-### 
-
-- **Help articles for common issues:** [[ID.me\'s help
-  center]](https://help.id.me/)
-  ([[https://help.id.me/]](https://help.id.me/))
-
-- **Help center support for VA only:** 877-327-0022 (Monday-Friday, 8:00
-  a.m. to 8:00 p.m. ET). Select option 1 and follow the prompts. Note
-  that wait times may vary. Please **do not** give this number out
-  publicly. This number is only for VA staff and Veterans and giving the
-  number out will cause longer wait times for Veterans.
-
-- **Online support:**
-
-  - **Chabot ("Roy"):** Go to [[ID.me\'s help
-    center]](about:blank)
-    ([[https://help.id.me/]{.underline}](https://help.id.me/)). The chat
-    bot will prompt you to engage.
-
-  - **Submit a support ticket:** Go to [[Contact Support
-    (id.me)]](https://help.id.me/hc/en-us/p/contact_support)
-    ([[https://help.id.me/hc/en-us/p/contact_support]{.underline}](https://help.id.me/hc/en-us/p/contact_support)).
-    Select **Submit a ticket** to get started.
-
-## Login.gov Escalations {#login.gov-escalations}
-
-The [[Login.gov]{](http://login.gov/) team typically does not
-follow up directly with the Veteran unless there was a call into their
-Help Desk to create a ticket or someone created a ticket for the
-Veteran.
-
-Encourage VA staff to submit a ticket for the Veteran but in cases where
-they are pushing back you can submit one via the [[Login.gov contact
-page]{](https://login.gov/contact/#report-an-issue) on behalf
-of the Veteran (using the info provided you in the inbox) and then
-letting the [[Login.gov]](http://login.gov/) team know in
-their weekly email share.  
-  
-**Before escalating anything to the [Login.gov](http://login.gov/)
-team**, they asked that we do these 2 things:
-
-- 1\. Ask the MHV coordinator to review the End User Resources PDF
-  before passing on coordinator requests (the two pager with links to
-  help center articles) or the End User Guide PDF (the super long step
-  by step with screen captures PDF). These were shared with them via a
-  list serv from the MHV team.
-
-  [[Login.gov End User
-  Guide]](https://dvagov-my.sharepoint.com/:b:/r/personal/christine_julian_va_gov/Documents/SSIT%20Support%20Materials/Login.gov/Login.gov%20End%20User%20Guide%20(October%202024).pdf?csf=1&web=1&e=QTx2XS)
-
-  [[Login.gov Help Center End User
-  Guide]](https://dvagov-my.sharepoint.com/:b:/r/personal/christine_julian_va_gov/Documents/SSIT%20Support%20Materials/Login.gov/Login.gov%20Help%20Center%20End%20User%20Resources%20(October%202024).pdf?csf=1&web=1&e=0MjnA1)
-
-  2\. If the two PDFs do not answer their question, then send those
-  requests onto the Login.gov contacts weekly, when weekly reporting is
-  gathered
-
-Forward email with the applicable ticket information and the
-request/need to all three contacts below.
-
-Sierra Stewart Q2AABG  
-[[sierra.stewart@gsa.gov]](mailto:sierra.stewart@gsa.gov)  
-  
-Trevor Sinclair QUD-C  
-[[trevor.sinclair@gsa.gov]](mailto:trevor.sinclair@gsa.gov)
-
-Gabriel Vorleto QQ2-C
-
-[[gabriel.vorleto@gsa.gov]](mailto:gabriel.vorleto@gsa.gov)
-
-I need to open a support ticket for this Veteran with Login.gov Please
-find the attached information.
-
-Veteran Name:
-
-Veteran Email:
-
-Veteran Phone Number:
-
-Provider:
-
-Issue Description:
-
-Ticket Number & Date of Submission:
-
-Sincerely,
-
-\[name\]
-
-Secure Sign-In Transition Team \| VA
-
-### **Login.gov support contact information** {#login.gov-support-contact-information}
-
-### 
-
-- **Help articles for common issues:** [[Login.gov's help
-  center]](http://www.login.gov/help)
-  ([[www.login.gov/help]](http://www.login.gov/help))
-
-- **Help center support:** 844.875.6446. Note that the support help desk
-  staff can provider is often limited. Please **do not** give this
-  number out. Help desk staff is limited in capacity and giving the
-  number out will result in longer wait times for Veterans.
-
-- **Online support:** [[Login.gov's contact us
-  page]{](https://www.login.gov/contact/#get-in-touch)
-  ([[www.login.gov/contact/#get-in-touch]{](http://www.login.gov/contact/#get-in-touch))
-
-## MHV Escalations
-
-Forward email with request/need to the internal leadership. If
-determined appropriate they may ask you forward it to the MHV contact
-below (the MHV team will reach out to the Veteran directly to resolve
-open issues).
-
-Carnetta Scruggs
-
-carnetta.scruggs@va.gov
-
-MyVA411 Help Desk
-
-1-800-698-2411
-
-Hours: 24/7  
-  
-If you need an interpreter: Call 800-698-2411 and select 0. We'll
-connect you witha VA call center agent. Tell the agent that you want a
-language interpreter to join the call.
