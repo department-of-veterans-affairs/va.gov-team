@@ -8,7 +8,7 @@ The A11 intercept survey serves as the global feedback tool, randomly presented 
 ## Problem Statement
 While the survey aligns with OMB guidelines for feedback collection, it falls short in enabling VFS teams to easily access and utilize the data for their own metrics and product improvements.
 
-We believe there is an opportunity to design and implement an enhanced survey experience with improved questions. This updated approach would not only maintain high survey participation but also generate higher-quality feedback, better supporting actionable insights for VA.gov's ongoing development.
+We believe there is an opportunity to design and implement an enhanced survey experience with improved questions and methodology. This updated approach would not only maintain high survey participation but also generate higher-quality feedback, better supporting actionable insights for VA.gov's ongoing development.
 
 ## Desired User Outcomes
 - Increased survey completion rate - Users feel motivated to complete the survey without frustration. 
