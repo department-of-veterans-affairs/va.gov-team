@@ -17,6 +17,7 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
 - [User flow](https://www.figma.com/design/D8tfoPhUZlqBUomMTxzkQb/Dispute-Form-(VHA-VBA)?node-id=1-339&node-type=section&t=goKw5ro0hQI1r0kX-0)  
 - **[CAIA Mural with url definitions and other helpful stuffs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1731461600152/93a4a19b003f01b86534471cb686f81bf073e4a2)**
   - **[Platform URL Guidance](https://design.va.gov/components/url-standards/)**
+- **[Slack thread on minimal header](https://dsva.slack.com/archives/C044AGZFG2W/p1727979260362549)**
 
 ### Collab cycle touchpoints 
 - [Collaboration Cycle Overview](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/overview)
