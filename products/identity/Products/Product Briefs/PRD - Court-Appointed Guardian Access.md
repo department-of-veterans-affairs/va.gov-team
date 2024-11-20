@@ -83,29 +83,22 @@ Currently, these guardians are unable to create new accounts to manage their Vet
   * Local VA facilities are responsible for outreach and access setup.  
   * Temporary solutions must not prevent progress toward a sustainable long-term plan.
 
-### **Launch or Implementation Strategy** – 
+### **Implementation Strategy** – 
 
 * Stakeholder alignment  
-  * VA POs and leadership must agree to the technical solution.  
-* ***\*\*In Progress***
-
-### **Processes** – 
-
-* Onboarding for New Guardians:  
-  * Guardians submit documentation to VA facilities for verification in-person.  
-  * Approved guardians receive access credentials through (actually unsure what the process was/will be).  
-* Authentication and Login Management:  
-  * Existing guardians continue logging in through MHV (accessed through either private URL or on sign-in page)  
-  * New guardians use created credentials for authentication (accessed through either private URL or on sign-in page)  
-* Access Auditing and Data Tracking:  
-  * Track logins, account creation, and usage patterns\* for future transition planning.
+  * VA POs and leadership must agree to the technical solution.
+  * Processes
+    * Authentication and Login Management:  
+    * Existing guardians continue logging in through MHV (accessed through either private URL or on sign-in page)  
+  * Access Auditing and Data Tracking:  
+    * Track logins, account creation, and usage patterns\* for future transition planning.
 
 ### **Use Cases & User Stories** – 
 
 * Use Case 1: Existing Guardian Maintaining Access  
   * Existing guardian continues to manage a veteran’s records through MHV using the MHV sign-in method to ensure there is no disruption in care.  
     * *As an existing court-appointed guardian, I need uninterrupted access to my veteran’s records through MHV so that I can continue providing care without delays.*  
-* Use Case 2: New Guardian Onboarding through MHV Account Creation  
+* (Out of scope for short-term solution) Use Case 2: New Guardian Onboarding through MHV Account Creation  
   * A new guardian completes the MHV account creation process to gain access to the veteran’s records and begin managing their care.  
     * *As a new court-appointed guardian**,** I need a way to create an MHV account and access the veteran’s record so that I can begin managing their care promptly and without delays.*
 
