@@ -23,12 +23,12 @@ Only orange circled items are launching in 2A
 ## <a name="url"></a>URLs and breadcrumbs
 
 **1) Spina bifida - New**
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/spina-bifida-agent-orangeTBD
+- URL: https://www.va.gov/family-and-caregiver-benefits/health-and-disability/spina-bifida-agent-orange/
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > [H1]
 - Notes: URL is TBD finalizing H1
 
 **2) Children of women vietnam veterans - New**
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/children-of-women-vietnam-veteransTBD
+- URL: https://www.va.gov/family-and-caregiver-benefits/health-and-disability/children-of-women-vietnam-veterans/
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > [H1]
 - Notes: URL is TBD finalizing H1
 
