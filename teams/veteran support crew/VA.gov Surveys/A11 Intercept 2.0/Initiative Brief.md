@@ -50,9 +50,10 @@ We believe there is an opportunity to design and implement an enhanced survey ex
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
+What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
+#### 2025 Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
+1.1: Improve satisfaction with our web and mobile products by 5 points.
 
 ---
 
