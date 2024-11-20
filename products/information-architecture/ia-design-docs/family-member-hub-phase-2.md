@@ -40,23 +40,19 @@ Only orange circled items are launching in 2A
 - URL: https://www.va.gov/resources/how-to-file-a-champva-claim/
 - Breadcrumb: NA - determined by Drupal
 
-**5) R+S: TRICARE  - New**
-- URL: BLOCKED in phase 2a by SME review
-- Breadcrumb: NA - determined by Drupal
-
-**6) R+S: Getting care for spina bifida and other birth defects - New**
+**5) R+S: Getting care for spina bifida and other birth defects - New**
 - URL: 
 - Breadcrumb: NA - determined by Drupal
 
-**7) R+S: Filing a claim for spina bifida and other birth defects - New**
+**6) R+S: Filing a claim for spina bifida and other birth defects - New**
 - URL: https://www.va.gov/resources/how-to-file-a-claim-for-spina-bifida-or-other-birth-defects/
 - Breadcrumb: NA - determined by Drupal
 
-**8) R+S: Meds by Mail for CHAMPVA and other family member programs - New**
+**7) R+S: Meds by Mail for CHAMPVA and other family member programs - New**
 - URL: https://www.va.gov/resources/meds-by-mail-for-champva-and-other-family-member-programs/
 - Breadcrumb: NA - determined by Drupal
 
-**9) R+S: Meds by Mail medication list - New**
+**8) R+S: Meds by Mail medication list - New**
 - URL: https://www.va.gov/resources/prescription-medications-covered-through-meds-by-mail/
 - Breadcrumb: NA - determined by Drupal
 
