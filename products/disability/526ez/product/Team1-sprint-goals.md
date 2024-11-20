@@ -1,8 +1,9 @@
 # Sprint goals for Benefits Disability Experience Team 1 (DBEX-TREX)
 
-
 ## Sprint 11 Goals
 Nov 20 - Dec 3, 2024
+
+- [Watch Dog of Watch Dogs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/monitors/%5BZSF%5D%20DBEX%20Teams%20SOP%20(Standard%20Operating%20Procedure)%20for%20monitor%20and%20alert%20response.md): @aurora-a-k-a-lightning 
 
 ### Goal 1: Prepare the New Confirmation Page and Received Email features for release and complete the necessary Platform touchpoints required to complete Staging Review.
 
