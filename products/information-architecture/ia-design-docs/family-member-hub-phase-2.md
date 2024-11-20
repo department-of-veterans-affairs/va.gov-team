@@ -73,8 +73,8 @@ _Most of the time this is the CTA on a tool static landing page (a sign in widge
       - VA Dental Insurance Program: https://www.va.gov/health-care/about-va-health-benefits/dental-care/dental-insurance/
       - PCAFC: https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/
       - Camp Lejeune: https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/#benefits-for-families-who-live
-      - **Spina Bifida: va.gov/family-and-caregiver-benefits/health-and-disability/spina-bifida-agent-orange**
-      - **Children of women vietnam veterans: va.gov/family-and-caregiver-benefits/health-and-disability/children-of-women-vietnam-veterans (TBD)**
+      - **Spina Bifida: https://www.va.gov/family-and-caregiver-benefits/health-and-disability/spina-bifida-agent-orange/**
+      - **Children of women vietnam veterans: https://www.va.gov/family-and-caregiver-benefits/health-and-disability/children-of-women-vietnam-veterans/**
   - **Get - Additional benefits or services(H3)**
       - Tricare: Not updating in Phase 2A
       - CITI Program: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp
