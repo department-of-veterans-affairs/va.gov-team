@@ -37,7 +37,7 @@ Nov 20 - Dec 3, 2024
 #### We'll know we've achieved the goal when:
 - The top three prioritized items are planned on the product roadmap with activities designated for each item.
 
-### Goal 7: How will Veterans check the status of their submission on VA.gov and what might that experience be like?
+### Goal 7: Discovery: How will Veterans check the status of their submission on VA.gov and what might that experience be like?
 
 #### We'll know we've achieved the goal when:
 - Mocks for MyVA and CST are created as required, and implementation plans are demonstrated by having user stories in the backlog that the team could pick up, barring any dependencies. Only AC is required for these tickets.
