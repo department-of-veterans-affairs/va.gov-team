@@ -38,7 +38,7 @@ Nov 20 - Dec 3, 2024
 ### Goal 7: How will Veterans check the status of their submission on VA.gov and what might that experience be like?
 
 #### We'll know we've achieved the goal when:
-- Mocks for MyVA and CST are created as required, and implementation plans are demonstrated by having user stories in the backlog that the team could pick up, barring any dependencies.
+- Mocks for MyVA and CST are created as required, and implementation plans are demonstrated by having user stories in the backlog that the team could pick up, barring any dependencies. Only AC is required for these tickets.
 
 ### Goal 8: Prepare for the Rated Disabilities migration.
 
