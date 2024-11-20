@@ -73,15 +73,15 @@ Currently, these guardians are unable to create new accounts to manage their Vet
 ### **Risks & Dependencies** – 
 
 * Risks:
- * Excluding a solution for new guardians could lead to public criticism, legal challenges, or  dissatisfaction from advocacy groups.
- * The public-facing link for existing guardians risks misuse by individuals without legitimate credentials, compromising data security.
- * If MHV experiences technical issues or outages, existing guardians may lose access before the long-term solution is ready.
+  * Excluding a solution for new guardians could lead to public criticism, legal challenges, or  dissatisfaction from advocacy groups.
+  * The public-facing link for existing guardians risks misuse by individuals without legitimate credentials, compromising data security.
+  * If MHV experiences technical issues or outages, existing guardians may lose access before the long-term solution is ready.
 
 * Dependencies:
- * VA staff availability and readiness are required to support guardian access requests.  
- * MHV infrastructure must remain functional through the January 31, 2025 transition.  
- * Local VA facilities are responsible for outreach and access setup.  
- * Temporary solutions must not prevent progress toward a sustainable long-term plan.
+  * VA staff availability and readiness are required to support guardian access requests.  
+  * MHV infrastructure must remain functional through the January 31, 2025 transition.  
+  * Local VA facilities are responsible for outreach and access setup.  
+  * Temporary solutions must not prevent progress toward a sustainable long-term plan.
 
 ### **Launch or Implementation Strategy** – 
 
