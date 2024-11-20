@@ -41,7 +41,7 @@ Only orange circled items are launching in 2A
 - Breadcrumb: NA - determined by Drupal
 
 **5) R+S: Getting care for spina bifida and other birth defects - New**
-- URL: 
+- URL: https://www.va.gov/resources/getting-care-for-spina-bifida-and-other-birth-defects/
 - Breadcrumb: NA - determined by Drupal
 
 **6) R+S: Filing a claim for spina bifida and other birth defects - New**
