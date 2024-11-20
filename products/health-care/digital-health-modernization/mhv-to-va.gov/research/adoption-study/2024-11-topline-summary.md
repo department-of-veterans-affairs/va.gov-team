@@ -74,21 +74,23 @@ Participants repeatedly scrolled past the "Try-me" banners on the My HealtheVet 
 
 **Once attempting to accomplish tasks, participants (even those able to conceptualize the transition) often conflated and confused the My HealtheVet national portal and My HealtheVet on VA.gov.**
 
-Possible reasons: 
-Naming: 
-Participants were confused by naming My HealtheVet both on VA.gov and the national portal. 
-URL: 
-A few participants looked to the URL to orient themselves
+Some possible reasons: 
+
+Naming: Some participants were confused by naming My HealtheVet both on VA.gov and the national portal. 
+
+> "It's confusing that its still called this, but it's different. I think it would be less confusing if it was just different"** - P1 
+
+Navigation: Some participants did not utilize My HealtheVet in the global header, authenticated menu, and secondary navigation because of the expectation it would take them back to the national portal. Other participants used health links in My VA thinking they would stay on VA.gov. 
+
+> Find quote
+
+URL: A few participants utilized the URL to orient themselves
 
 > "I know I'm in MHV because I scroll up and it's there (looking at My HealtheVet logo but then notcies VA.gov in URL) it's a little confusing. I'm not techy so maybe they're linked. I signed into MHV, but this says VA.gov. Did they already switch?" - P13
 
-Navigation: Inconsistency in navigation. Where links on My VA pointed to the national portal, compared to secondary navigation, breadcrumbs, and global header 
-
-
-
 **Research question 2**: Once users try out the new portal, do they understand how to return?
 
-**
+**Partipants were able to 
 
 **Research question 3**: Are changes made to the national portal language or tools causing confusion?
 
