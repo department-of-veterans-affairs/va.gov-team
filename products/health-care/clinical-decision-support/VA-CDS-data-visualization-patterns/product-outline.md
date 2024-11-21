@@ -127,24 +127,25 @@ tbd
 #### Communications
 
 - Team Name: Data Visualization Patterns
+- GitHub Project: link tbd once migrated off [ZenHub](https://app.zenhub.com/workspaces/clinical-design-system-63755854c6c0470010f99e60/board), sharing VA Clinicial design system board 
 - GitHub Label: `data-viz-patterns` 
 - Slack channel: #clinical-design-system-public (shared with core VA CDS)
+- [VA CDS design system documentation - wiki](https://verbose-goggles-59mgm8y.pages.github.io/)
+- VA CDS [Storybook](https://crispy-succotash-9k23jen.pages.github.io/?path=/docs/components-accordion--docs)
+- GitHub [repo](https://github.com/department-of-veterans-affairs/clinical-design-system)
+- Figma: currently on Thoughtworks account, contact Annie Conn
 
 #### Team Members
 
-<details>
- - VA Product Owner Lead: Amanda Klausmeier
+ - VA Product Owner: Amanda Klausmeier
  - Product Manager: Ann Laidlaw
  - Design: Annie Conn
  - Research: Ben Nguyen
  - Engineering: Helene McCarron, SangMee Specht
  - Accessibility: Anish Kshatriya
-</details>
 
 
 #### Stakeholders
 
-<details>
 - Office/Department: Clinical Decision Support Collaborative (CDSC), OCTO/VA Design System, GSA/USWDS
 - Stakeholders: Peter Koutsovitis and Shane Elliot (CDSC Product owners), Matt Dingee (VADS), Kevin Hoffman (VADS), Dan Williams (USWDS) 
-</details>
