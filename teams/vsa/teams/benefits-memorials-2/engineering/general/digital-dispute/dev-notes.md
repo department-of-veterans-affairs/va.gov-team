@@ -10,6 +10,7 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
 	- [ ] `/personal-information`
  	- [ ] `/contact-information`
   	  - [ ] Need clarification on which phone number to list
+     	  - [ ] Update to new design pattern
 	- [ ] `/debt-selection`
 	- [ ] `/existence-or-amount`
 	- [ ] `/dispute-reason`
