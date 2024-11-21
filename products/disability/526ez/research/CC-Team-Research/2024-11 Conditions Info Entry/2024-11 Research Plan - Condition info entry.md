@@ -215,7 +215,7 @@ We would like to request a kickoff call with Perigean. Requested date/time: Mond
 
   - 3 Experienced screen reader users
 
-- Mix of NVDA, JAWS, VoiceOver (Apple), Talkback (Android)
+- Mix of NVDA, JAWS, VoiceOver (Apple), Talkback (Android), Physical magnification tool 
 
 **Cohort 2: Alternative navigation** 
 
@@ -389,7 +389,7 @@ We would like to request a kickoff call with Perigean. Requested date/time: Mond
 
 **Cohort 3: Low vision - magnification users**
 
-1. Do you use a screen magnifier or magnification software when using your mobile or desktop device?
+1. Do you use a screen magnifier, magnification software, or physical magnifying glass when using your mobile or desktop device?
 
    1. No \[Remove]
 
@@ -404,10 +404,11 @@ We would like to request a kickoff call with Perigean. Requested date/time: Mond
    3. Windows Magnifier
 
    4. Android Magnification
+   5. Physical magnifying glass
 
-   5. Other screen magnifier (Please specify): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+   6. Other screen magnifier (Please specify): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-   6. I prefer not to answer
+   7. I prefer not to answer
 
 3. If you answered Yes, how frequently do you use screen magnification?
 
