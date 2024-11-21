@@ -33,24 +33,56 @@ We believe there is an opportunity to design and implement an enhanced survey ex
 
 ---
 ## Current State
-[Overview of current A11 intercept]
+### Targeting parameters:
+
+- Loyalty factor of 60 second or longer session
+- 5% of users who hit the loyalty factor
+- Based on sessions, not users
+- Pop up window
+- If a user declines an invitation, does not intercept for 90 days
+- If a user submits a form, does not intercept for 90 days
+
+### Content:
+
+**1. Please rate your experience with VA.gov today.**
+
+- Very bad
+- Somewhat bad
+- Neither bad nor good
+- Somewhat good
+- Very good
+
+**2. Why did you select that rating? (Open text box)**
+
+**3. How did this interaction change your trust in Veterans Affairs?**
+
+- Decreased my trust
+- Somewhat decreased my trust
+- Neither increased nor decreased my trust
+- Somewhat increased my trust
+- Increased my trust
+
+**4. How much do you trust Veterans Affairs to fulfill our country’s commitment to Veterans?**
+
+- High level of distrust
+- Modest level of distrust
+- Neither trust or distrust
+- Modest level of trust
+- High level of trust
 
 ---
 ## Measuring Success
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
-
+- Percentage of VA.gov users providing feedback
+- Percentage of VFS teams with surveys
+- % Change in CSAT Scores
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+- **TBD**
 
 ### Objectives and Key results (OKRs)
-What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 #### 2025 Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 1.1: Improve satisfaction with our web and mobile products by 5 points.
@@ -58,7 +90,13 @@ What are the measurable targets you're aiming for that delivers value for Vetera
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+#### User / Design Assumptions
+- Survey methodology matters - timing and context for when users are presented with the survey will impact response rates / data quality.
+- Users have limited time / patience - visitors to VA.gov are task-focused and may not want to spend significant time on surveys.
+- Refining the questions we ask may result in better survey response quality. 
+#### Project / Operational Assumptions
+- VSignals will be able to work efficiently with our team to create a global intercept survey. **[Biggest risk / blocker]**
+- We have the ability to create reports around Medallia data, integrated with existing analytics tools.
 
 ## Solution Approach
 
@@ -67,18 +105,11 @@ What are the measurable targets you're aiming for that delivers value for Vetera
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
-
 --- 
 
 ## Launch Dates
-- *Target Launch Date*
-- *Actual Launch Date* 
-  - tbd
-- *Post Launch Evaluation*
+- **Target**: TBD
+- **Actual**: TBD
 
 
 ---
@@ -104,7 +135,7 @@ What are the measurable targets you're aiming for that delivers value for Vetera
 <details>
 
 - Team Name: Veteran Support Crew
-- GitHub Label: vsa-debt
+- GitHub Label: 
 - Slack channel: 
 
 
