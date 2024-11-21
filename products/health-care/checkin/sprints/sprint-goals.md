@@ -33,11 +33,10 @@
     - 🟩 [Change appointment details page content to reflect updated mileage-only travel policy](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96865)
 - **Pre-Check-in - VAHB**
     - 🟥 [Create wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94167)
-- **Check in with staff after checking in**
-    - 🟥 [Synthesize Research #95473](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95473)
 - **Tech Debt & Analytics**
     - 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97294)
-    - 🟥 [[Design artifact] Migrate released feature page wireframes into the Production Figma file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96913) 
+    - 🟥 [Update Production Figma file to reflect no Pre-check-in/Check-in for VVC and CVT](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97567)
+    - 🟥 [[Design artifact] Migrate released feature page wireframes into the Production Figma file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96913)
 </details>
 
 ## SPRINT 20 - 11/13/2024-11/26/2024
