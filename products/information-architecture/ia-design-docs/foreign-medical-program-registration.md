@@ -56,18 +56,18 @@ The registration form will live below the /foreign-medical-program general infor
 
 ![Screenshot 2024-05-31 at 1 51 27 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/fd91591a-2296-42e3-9a0a-00e003ed90e6) 
 
-3. **Add link/section '[How to file a VA foreign medical program claim'](https://www.va.gov/resources/how-to-file-a-va-foreign-medical-program-claim/)**
+4. **Add link/section '[How to file a VA foreign medical program claim'](https://www.va.gov/resources/how-to-file-a-va-foreign-medical-program-claim/)**
   - Placement description: Add link and information about registering (because you have to register before you can submit a claim, and it doesn't say anything about that here.)
   - Link label: TBD by content
   - Link destination: Probably https://www.va.gov/health-care/foreign-medical-program/, but content can confirm
 
-4. **Modify link/section of '[Getting care through the Foreign Medical Program'](https://www.va.gov/resources/getting-care-through-the-foreign-medical-program/)**
+5. **Modify link/section of '[Getting care through the Foreign Medical Program'](https://www.va.gov/resources/getting-care-through-the-foreign-medical-program/)**
   - Placement description: In the accordion 'Does FMP cover COVID-19 vaccines', there is an instruction to submit paper registration form. We should confirm whether this process changes with the online form, and make sure to update this section if so.
   - Link label: TBD by content
   - Link destination: Probably va.gov/health-care/foreign-medical-program/register-form-10-7959f-1/, but content can confirm 
 
 
-4. **Modify benefits.gov FMP page - NOT SURE!**
+6. **Modify benefits.gov FMP page - NOT SURE!**
   - Placement description: TBD by content
   - Link label: TBD by content
   - Link destination: va.gov/health-care/foreign-medical-program/register-form-10-7959f-1/
