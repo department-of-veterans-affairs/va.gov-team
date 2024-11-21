@@ -67,8 +67,8 @@ Efforts to inform this iteration with Veteran feedback
 
 
 ## Design
-[Figma](https://www.figma.com/design/cg8VNnxFOxw7lb10FVHpi5/VA-Resources-support-template?node-id=198-5737&node-type=section&t=G7yoxBvukRBiwCbI-0)
-Experimental Design [Ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3423)
+- [Figma](https://www.figma.com/design/cg8VNnxFOxw7lb10FVHpi5/VA-Resources-support-template?node-id=198-5737&node-type=section&t=G7yoxBvukRBiwCbI-0)
+- Experimental Design [Ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3423)
 
 ### Drupal UX
 
@@ -79,22 +79,24 @@ Experimental Design [Ticket](https://github.com/department-of-veterans-affairs/v
 - user permissions vs Section/Organization
 
 ### Tag categories
-- Which categories will be available?
-- Which categories will be required in Drupal UX?
-- Which categories will be available in front end for filtering?
+- **Q:Which categories will be available, required in Drupal UX, and available in front end for filtering?**
+    - A: [See proposed tag categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1/tag-categories.md)
 
 ### UX behavior
-- If multiple filters are used in search, do they expand or reduce search results (i.e., when (hypothetical) tags for both `Careers and Employment` and `Education and training` are chosen, do search results include articles tagged with either cateogry or only those which are tagged with both?)
+- **Q: If multiple filters are used in search, do they expand or reduce search results (i.e., when (hypothetical) tags for both `Careers and Employment` and `Education and training` are chosen, do search results include articles tagged with either cateogry or only those which are tagged with both?)**
+    - A: Within a tag group (i.e. benefit, topic, audience), multiple selections are treated as an "or".
+         - i.e., Veteran OR service member, Disability OR Pension
+    - Across tag groups, selections are treated as an "and".
+         - i.e., Veteran AND Disability
+    - A search term is considered an "and" when used in addition to filter selections.
+         - i.e., Filter by Veteran AND my search term "payment". This allows me to search for anything tagged Veteran OR service member AND has a tag of pension OR disability AND matches my search term "payment".
 
 ### Governance
-- What criteria determines the topics/categories available for browsing via the landing page?
-  - What is the maximum number of categories to be displayed? 
-- What criteria determines links displayed as Featured?
-  - Do featued links direct to individual pages or pre-filtered search results?
-- What criteria determines which topics are available for filtering?
-  - What is the maximum number of filters?
-- What criteria is used to determine when a new topic can be added?
-- Can topics be deprecated? If so, by what criteria?
+- **Q: What criteria determines the topics/categories/featured content links? available for browsing via the landing page?
+   - A: See [Landing page goverance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1/tag-categories-and-governance.md#landing-page-governance)
+- **Q: Do featued links direct to individual pages or pre-filtered search results?**
+
+
 
 
 ## Measuring Success
