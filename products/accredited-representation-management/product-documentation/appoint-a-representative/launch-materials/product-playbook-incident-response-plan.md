@@ -2,7 +2,7 @@
 
 ## Product Description
 
-**Product Overview:** [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/product-outline-find-a-representative.md)
+**Product Overview:** [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/product-outline-appoint-a-representative.md)
 
 ## Contacts
 
@@ -16,36 +16,30 @@
 
 ### Outage Contacts:
 
-- Accredited Representation Management team Lead Engineer: Holden Hinkle, holden.hinkle@oddball.io
-- Accredited Representation Management team Frontend Engineer: Colin O'Sullivan, colin.osullivan@adhocteam.us
+- Accredited Representation Management team Tech Lead: Holden Hinkle, holden.hinkle@oddball.io
+- Accredited Representation Management team Backend Engineer: Josh Fike, josh.fike@oddball.io
 - Accredited Representation Management team Backend Engineer : Jonathan VanCourt, jonathan.vancourt@adhocteam.us
+- Accredited Representation Management team Frontend Engineer: Colin O'Sullivan, colin.osullivan@adhocteam.us
 
 ## Troubleshooting
 
 ### Errors and Metrics
 
-This section will focus on how to identify and measure errors and performance metrics for the "Find a Representative" feature.
+Errors and performance metrics for the 'Appoint a Representative' feature are captured through Sentry and Datadog respectively.
 
 #### Error Logging
 
-- **Sentry Integration:** Ensure Sentry is properly integrated into both vets-api and vets-website. Sentry will capture any runtime errors, performance issues, or exceptions in the application.
-- **Error Alerts:** Set up Sentry alerts to notify the team via email or Slack when critical errors occur or when error rates exceed a predefined threshold (NOTIFICATIONS HAVE NOT BEEN SETUP YET).
-- **Error Types and Frequencies:** Regularly review error logs to identify common or recurring issues. Pay special attention to error types, frequencies, and the severity of impacts on users.
+- **Sentry Integration:** Sentry captures any runtime errors and exceptions in the application.
 
 #### Performance Metrics
 
-- **Datadog Monitoring:** Utilize Datadog to monitor the application's performance. Track metrics like response times, server load, and API call frequencies.
-- **Thresholds and Anomalies:** Set performance thresholds in Datadog. Receive alerts when metrics fall outside of these thresholds, indicating potential performance issues (NOTIFICATIONS HAVE NO BEEN SETUP YET).
-- **User Journey Tracking:** Monitor key user journeys to ensure the feature is performing as expected. This can include tracking the success rate of searches for accredited representatives.
+- **Datadog Monitoring:** Datadog monitors the application's performance -- it track metrics like response times, server load, and API call frequencies.
 
-#### Feedback Loop
-
-- **User Feedback:** Incorporate user feedback regarding the "Find a Representative" feature provided through the 'Feedback' widget on the VA.gov website.
-- **Analytics:** Use Google Analytics to track user engagement and behavior on the "Find a Representative" feature pages. This will help in understanding how users interact with the feature and where they might encounter issues.
+- **ARM's Datadog Service:** ARM's Datadog service is called [_representation-management_](https://vagov.ddog-gov.com/apm/services/representation-management/operations/rack.request/resources?dependencyMap=qson%3A%28data%3A%28telemetrySelection%3Aall_sources%29%2Cversion%3A%210%29&deployments=qson%3A%28data%3A%28hits%3A%28selected%3Aversion_count%29%2Cerrors%3A%28selected%3Aversion_count%29%2Clatency%3A%28selected%3Ap95%29%2CtopN%3A%215%29%2Cversion%3A%210%29&env=eks-prod&fromUser=false&groupMapByOperation=null&isInferred=false&panels=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&resources=qson%3A%28data%3A%28visible%3A%21t%2Chits%3A%28selected%3Atotal%29%2Cerrors%3A%28selected%3Atotal%29%2Clatency%3A%28selected%3Ap95%29%2CtopN%3A%215%29%2Cversion%3A%211%29&summary=qson%3A%28data%3A%28visible%3A%21t%2Cchanges%3A%28%29%2Cerrors%3A%28selected%3Acount%29%2Chits%3A%28selected%3Acount%29%2Clatency%3A%28selected%3Alatency%2Cslot%3A%28agg%3A95%29%2Cdistribution%3A%28isLogScale%3A%21f%29%2CshowTraceOutliers%3A%21t%29%2Csublayer%3A%28slot%3A%28layers%3Aservice%29%2Cselected%3Apercentage%29%2ClagMetrics%3A%28selectedMetric%3A%21s%2CselectedGroupBy%3A%21s%29%29%2Cversion%3A%211%29&start=1732205570609&end=1732209170609&paused=true) and is part of the [_OCTO Benefits Portfolio_](https://vagov.ddog-gov.com/organization-settings/teams/02d65116-27e9-11ee-ad54-da7ad0900007/benefits) team.
 
 ### Issue Investigation Steps
 
-This section outlines the steps to investigate and resolve issues related to the "Find a Representative" feature.
+This section outlines the steps to investigate and resolve issues related to the "Appoint a Representative" feature.
 
 #### Initial Assessment
 
@@ -67,61 +61,9 @@ This section outlines the steps to investigate and resolve issues related to the
 
 ### Flipper Features and Rollback
 
-- Enables Find a Representative tool - `find_a_representative_enabled`
-- Enables Find a Representative frontend - `find_a_representative_enable_frontend`
-- Enables Flag a Representative feature for Find a Representative tool - `find_a_representative_flag_results_enabled`
-
-### How to Get All Flagged Rep Data From Production
-
-If you have access to vets-api production, connect to a pod terminal, run `bundle exec rails console`, then copy/paste the following script. If you don't have access to vets-api production, contact Platform Support via the 'Office of CTO @ VA #vfs-platform-support' Slack channel and ask them to run it for you.
-
-```ruby
-require 'csv'
-
-data = RepresentationManagement::FlaggedVeteranRepresentativeContactData.all.map do |record|
-  [record.id, record.ip_address, record.representative_id, record.flag_type, record.flagged_value, record.created_at, record.updated_at, record.flagged_value_updated_at]
-end
-
-sorted_data = data.sort_by { |record| record[0] }
-
-headers = ['ID', 'IP Address', 'Representative ID', 'Flag Type', 'Flagged Value', 'Created At', 'Updated At', 'Flagged Value Updated At']
-
-def push_to_csv(file_name_number, headers, sorted_data_chunk)
-  CSV.open("flagged_data-#{file_name_number}.csv", 'wb') do |csv|
-    csv << headers
-
-    sorted_data_chunk.each do |row|
-      csv << row
-    end
-  end
-end
-
-file_name_number = 1
-
-sorted_data.each_slice(500) do |chunk|
-  push_to_csv(file_name_number, headers, chunk)
-  file_path = File.expand_path("flagged_data-#{file_name_number}.csv")
-  puts "CSV file created successfully. Download it from: #{file_path}"
-  file_name_number += 1
-end
-```
-
-This will create a number of csv files. The output will look like this:
-
-```
-CSV file created successfully. Download it from: /app/flagged_data-1.csv
-CSV file created successfully. Download it from: /app/flagged_data-2.csv
-```
-
-Once the script has run, exit the Rails console and run the following command for each csv file created, like this:
-
-```shell
-cat /app/flagged_data-1.csv
-cat /app/flagged_data-2.csv
-# etc
-```
-
-Each time you `cat` the file, select the output, copy it, and email it via a onceler link (https://onceler.app.cloud.gov/) to the VA.gov email address that belongs to the person requesting the data.
+- Enables Appoint a Representative frontend - `appoint_a_representative_enable_frontend`
+- Enables Appoint a Representative PDF generation endpoint - `appoint_a_representative_enable_pdf`
+- Use the original veteran_x models to power Appoint a Rep entity search - `use_veteran_models_for_appoint`
 
 ## Security
 
