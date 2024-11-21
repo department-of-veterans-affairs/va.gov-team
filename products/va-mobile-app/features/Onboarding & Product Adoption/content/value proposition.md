@@ -36,3 +36,23 @@ _**Comparing Veteran vs. team perspectives**_
 _**Drafting and getting feedback/approval**_
 
 
+
+## Important parts of value prop
+
+Third-person version
+With the VA: Health and Benefits app, (specific about what part of the VA ecosystem we’re talking about)
+Veterans (our core users base)
+can manage the VA health care and benefits (nod to VA omnichannel)
+tasks (do a “quick” VA thing vs learning all the VA things)
+they do most often (just what’s needed, not everything; personalized)
+—all in one simple app. (“all in one place,” a “simple, easy-to-use” experience; another nod to VA omnichannel)
+
+Second-person version
+
+Manage your VA health care and benefits (personalized, nod to VA omnichannel)
+tasks (do a “quick” VA thing vs learning all the VA things)
+you do most often (just what’s needed, not everything; personalized)
+—all in one simple app. (“all in one place,” a “simple, easy-to-use” experience; another nod to VA omnichannel)
+
+
+
