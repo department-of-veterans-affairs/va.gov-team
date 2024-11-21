@@ -37,9 +37,6 @@ assignees: ''
 #### Automated Testing
 <!-- Indicate the requirement for automated testing beyond unit tests -->
 
-#### Accessibility (A11y) Testing 
-<!-- Confirm that accessibility testing is completed -->
-
 #### Documentation
 <!-- Ensure relevant documentation is created or updated -->
 
