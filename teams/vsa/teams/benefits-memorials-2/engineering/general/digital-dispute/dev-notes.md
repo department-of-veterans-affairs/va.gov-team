@@ -9,13 +9,16 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
   - [ ] Find other places that might fail
 - [ ] Refine (style and complete)
 	- [ ] Introduction page
-	- [ ] `/personal-information` 
+	- [ ] `/personal-information`
+ 	- [ ] `/contact-information`
+  	  - [ ] Need clarification on which phone number to list
 	- [ ] `/debt-selection`
 	- [ ] `/existence-or-amount`
 	- [ ] `/dispute-reason`
 	- [ ] Review & Submit
 	- [ ] Confirmation page `
 - [ ] `transform` for submission
+- [ ] LOA messaging - including alert? 
 - [ ] `vets-json-schema` repo update (finalize need for ssn) *needed for launch*
 - [ ] `submission` definition (see 5655)
 - [ ] `downtime` section (see 5655?)
