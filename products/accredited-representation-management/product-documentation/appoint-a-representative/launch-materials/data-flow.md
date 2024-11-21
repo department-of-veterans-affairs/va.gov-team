@@ -2,6 +2,8 @@
 
 ## What data is collected or used, and where, including information such as credentials used by this system?
 
+View the 'Appoint a Representative' data flow chart [here](../images/products/accredited-representation-management/product-documentation/appoint-a-representative/launch-materials/images/appoint-a-rep-data-flow.png).
+
 ### Data Source: Lighthouse Benefits Claims API
 
 The [Lighthouse Benefits Claims API](https://developer.va.gov/explore/api/benefits-claims/docs?version=current) has an endpoint - `/veterans/{veteranId}/power-of-attorney` - which returns a veteran's Power of Attorney (POA).
@@ -13,34 +15,6 @@ The `representation_management` Ruby on Rails engine in the `/modules` directory
 If the user is authenticated, the `representation_management` endpoint makes a request to the Lighthouse Benefits Claims API `power-of-attorney` endpoint which responds with the user's POA or an empty response if the user doesn't have a POA.
 
 ### Data Source: Postgres Tables in vets-api
-
-Additional information for the POA is retrieved from either the `veteran_representatives` or the `veteran_organizations` Postgres vets-api tables depending on the type of POA a user has. The following information is serialized and returned to vets-website:
-
-- `address_line_1`
-- `address_line_2`
-- `address_line_3`
-- `address_type`
-- `city`
-- `country_name`
-- `country_code_iso3`
-- `county_name`
-- `province`
-- `international_postal_code`
-- `state_code`
-- `zip_code`
-- `zip_suffix`
-- `phone`
-- `type`
-- `name`
-- `email` (if the POA is an attorney or claims agent)
-
-#### Where the Data Is Used
-
-The data is displayed in the "Representative Status Widget" for the logged-in user.
-
-## Where is the data stored and how, including information such as any encryption used?
-
-The data retrieved from the Lighthouse Benefits Claims API and Postgres tables is used in real-time to populate the Representative Status Widget and is not stored for any duration beyond the scope of the session. No long-term storage or persistence of this data occurs within our systems.
 
 All data transmissions are secured with HTTPS, ensuring that the information remains encrypted during transit. This approach not only protects the data integrity but also aligns with best practices for data security and privacy.
 
