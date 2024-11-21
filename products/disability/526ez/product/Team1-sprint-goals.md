@@ -5,45 +5,31 @@ Nov 20 - Dec 3, 2024
 
 - [Watch Dog of Watch Dogs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/monitors/%5BZSF%5D%20DBEX%20Teams%20SOP%20(Standard%20Operating%20Procedure)%20for%20monitor%20and%20alert%20response.md): @aurora-a-k-a-lightning 
 
-### Goal 1: Prepare the New Confirmation Page and Received Email features for release and complete the prep work required to complete Staging Review.
+### Goal 1: Prepare for the Rated Disabilities migration.
+
+#### We'll know we've achieved the goal when:
+- Tests in Staging have been performed and we understand the feasibility of migrating this endpoint and how we'll plan to do it.
+
+### Goal 2: Prepare the New Confirmation Page and Received Email features for release and complete the prep work required to complete Staging Review.
 
 #### We'll know we've achieved the goal when:
 - All required artifacts are prepared for Staging Review and it’s scheduled.
 
-### Goal 2: Complete development of the 5103 language alerts and Claim Certification / Signature Component to ensure Veterans are notified of any evidence needed to support their disability claim and enable them to sign the 526 form digitally. Both features are tested as working in a local environment.
-
-#### We'll know we've achieved the goal when:
-- OCTO and VBA approve a demo of the working solution.
-
-~### Goal 3: Determine how (both technical feasibility and design) Veterans will download a completed 526 PDF of their submission on the Confirmation page and what will the Veteran experience be like.~
-
-~#### We'll know we've achieved the goal when:~
-~- Implementation plans are demonstrated by having user stories in the backlog that the team could pick up, aside from needed changes to the overflow page. Future discovery for ancillary forms and evidence are also planned.~
-
-### Goal 4: Prepare for the usability research study.
+### Goal 3: Prepare for the Toxic Exposure usability research study.
 
 #### We'll know we've achieved the goal when:
 - We are ready for usability sessions starting 12/2. Pilot studies are complete. Research sessions are scheduled and CAIA/observers/notetakers have signed up for sessions. Data management material is ready and HCD is aligned on approach for synthesis. OMB component is updated. Application and GA metrics for 1.1 are shared with OCTO on 11/25.
 
-~### Goal 5: Identify any custom components and legacy react widgets in use within the Disabilities chapter.~
+### Goal 4: Complete development of the 5103 language alerts and Claim Certification / Signature Component to ensure Veterans are notified of any evidence needed to support their disability claim and enable them to sign the 526 form digitally. Both features are tested as working in a local environment.
 
-~#### We'll know we've achieved the goal when:~
-~- A list of any custom components or legacy widgets in use within the Disabilities chapter is created.~
+#### We'll know we've achieved the goal when:
+- OCTO and VBA approve a demo of the working solution.
 
-### Goal 6: Create a plan to bring the 526 into compliance with the 2022 paper form.
+### Goal 5: Create a plan to bring the 526 into compliance with the 2022 paper form.
 
 #### We'll know we've achieved the goal when:
 - The top three prioritized items are planned on the product roadmap with activities designated for each item.
 
-~### Goal 7: Discovery: How will Veterans check the status of their submission on VA.gov and what might that experience be like?~
-
-~#### We'll know we've achieved the goal when:~
-~- Mocks for MyVA and CST are created as required, and implementation plans are demonstrated by having user stories in the backlog that the team could pick up, barring any dependencies. Only AC is required for these tickets.~
-
-### Goal 8: Prepare for the Rated Disabilities migration.
-
-#### We'll know we've achieved the goal when:
-- Tests in Staging have been performed and we understand the feasibility of migrating this endpoint and how we'll plan to do it.
 
 ---
 ## Sprint 10 Goals
