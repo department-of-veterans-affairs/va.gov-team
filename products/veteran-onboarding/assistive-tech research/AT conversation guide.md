@@ -91,9 +91,9 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
   - to email it to you, 
 
   - or to read the link to you to type into your browser?\
-    \[share link, make sure to use a shortlink with a “plain language” slug ([bit.ly/TheTest](http://bit.ly/TheTest), for example)]
+    \[share link, make sure to use a shortlink with a “plain language” slug (staging.VA.gov]
 
-- Now I will send you the login details for the first account we will access. Send link to LOA1 account
+- Now I will send you the login details for the first account we will access. Send test login information of the LOA1 account
 
 
 #### **Section 3: Usability tasks - 30 minutes**
