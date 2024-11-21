@@ -38,10 +38,10 @@ Prior to launch VBA will release a promotional campaign with a combination of th
 - [Live June 2024] In partnership with MPI, VA Notify prepares an opt in cache prior to each monthly payment processing event by mapping opt ins to the applicable beneficiary identifier, which will be found in the payment event received from BIP.
 - [Live August 2024] VA Notify sends texts during courtesy hours each month to avoid disturbing the Veteran too early or late in the day. Because we do not know the recipient's timezone, we've established a time window that will support Hawaii through Eastern timezones: 1pm - 9pm ET. Each month, texts will start sending on the 22nd. If there are too many notifiable events to send all texts in a single day, VA Notify will continue sending texts during the courtesy hours until the end of the month. The financial system processes recurring payments on varying days each month and the schedule may vary year to year. The payment processing dates appears to range from the 15th to the 21st, which is why we don't start sending texts until the 22nd. 
 - [Live 7/19/2024] CAIA published a Q&A for this new feature with guidance on opt in here: https://www.va.gov/va-payment-history/
+- [Live 10/28/2024] Opt-in confirmation SMS was added to improve Veteran's experience. The text message is now being sent to the Veteran upon opting-in in the VA.gov portal, confirming their enrollment in Comp and Pen messaging and informing them about their first notification. The Depending on the opt-in date - before or after the 10th of the month, enrollment text will specify current or next month respectively.
 
 ## Potential Future Ideas
 - Additional Payment Type Notifications
-- Opt in confirmation texts with conditional guidance on when they will begin receiving texts
 
 ## Launch Activites
 - [x] VA Notify to test workflow with Production Data, notifications disabled at this point
