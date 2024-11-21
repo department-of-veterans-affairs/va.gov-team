@@ -1,5 +1,5 @@
 ---
-name: ARF Engineering Feature Issue
+name: ARF Engineering Feature Issue - Front End
 about: Feature issue template for the ARF Engineering team
 title: ''
 labels: ['accredited-rep-facing', 'arf-eng']
