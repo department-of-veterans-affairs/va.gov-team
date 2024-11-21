@@ -4,7 +4,9 @@ Our team aims to create patterns for the clinician experience that can be shared
 
 ## Problem Statement
 How might we update existing, or create new patterns to improve clinician experiences in a way that is adaptable by VADS, USWDS, and other federal agencies? We expect these new patterns will reduce clinician cognitive load and increase quality of the Veteran patient experience. 
- 
+
+[What is the difference between components, templates, and patterns?](https://design.va.gov/patterns/#what-is-the-difference-between-components-templates-and-patterns) VADS has clear definitions and expectations that is adopted by the VA CDS. 
+
 ## Desired User Outcomes
 - Simple displays of a single variable/data point
 - Complex displays of multivariate data
