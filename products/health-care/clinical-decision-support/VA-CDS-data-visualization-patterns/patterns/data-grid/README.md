@@ -1,4 +1,3 @@
-
 ## Background
 Add user story, problem statement, and background summary here. 
 
@@ -74,3 +73,6 @@ We believe this pattern should consist of:
 - Contact(s): Matt Dingee (VADS), Kevin Hoffman (VADS), Dan Williams (USWDS)
  
 </details>
+
+
+[USWDS feature request template](https://github.com/uswds/uswds/issues/new?template=feature_request.yaml)
