@@ -3,11 +3,9 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
 
 
 ## TODO - after initial commit
+### Each will need their own ticket
 - [ ] Convert to minimal header
-- [ ] **SENTRY LOGGING**
-  - [ ] Error on submissions is probably most important
-  - [ ] Find other places that might fail
-- [ ] Refine (style and complete)
+- [ ] Refine: Style & Complete (one ticket each)
 	- [ ] Introduction page
 	- [ ] `/personal-information`
  	- [ ] `/contact-information`
@@ -17,15 +15,18 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
 	- [ ] `/dispute-reason`
 	- [ ] Review & Submit
 	- [ ] Confirmation page `
-- [ ] `transform` for submission
+- One ticket for transform & submit stuffs
+  - [ ] `transform` for submission
+  - [ ] `submission` definition (see 5655)
+  - [ ] Include Sentry logging and alert message
 - [ ] LOA messaging - including alert? 
 - [ ] `vets-json-schema` repo update (finalize need for ssn) *needed for launch*
-- [ ] `submission` definition (see 5655)
 - [ ] `downtime` section (see 5655?)
-- [ ] `savedFormMessages` 
-- [ ] `saveInProgress` (messages)
 - [ ] `getHelp` aka Need Help?
-- [ ] `customText`? (see 5655 for examples)
+- One ticket for messaging/custom text
+  - [ ] `savedFormMessages` 
+  - [ ] `saveInProgress` (messages)
+  - [ ] `customText`? (see 5655 for examples)
 
 ### Need from design
 - [ ] Error messaging 
