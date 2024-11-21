@@ -46,6 +46,10 @@
         * Links to Designs
     * JIRA
         * [Team Board](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=8181&view=planning.nodetail&selectedIssue=MHV-61637&epics=visible&issueLimit=100#)
+    * GH Projects
+        * [Team Board](https://github.com/orgs/department-of-veterans-affairs/projects/1544/)
+        * [Sprintosaurus](https://va-reports.boehs.com/)
+        * [Setup Guide](https://dsva.slack.com/docs/T03FECE8V/F07TR9N5XRT)
     * [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/)
     * Monitoring and Performance
       * [Medical Records zero silent failures checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/monitoring/zero-silent-failures-checklist.md)
@@ -67,12 +71,16 @@
           - [Landing Page/Navigation Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90137)
           - [Plain Language Triage Group](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89985)
         * Closed
-          - [Secure Messaging Initital Launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51115)
+          - [Secure Messaging Initial Launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51115)
     * Documentation
     * Figma
         * Links to Designs
     * JIRA
         * [Team Board](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=1094&view=planning.nodetail&epics=visible&issueLimit=100&selectedEpic=MHV-57849#)
+    * GH Projects
+        * [Team Board](https://github.com/orgs/department-of-veterans-affairs/projects/1545)
+        * [Sprintosaurus](https://va-reports.boehs.com/)
+        * [Setup Guide](https://dsva.slack.com/docs/T03FECE8V/F07TR9N5XRT)
     * [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research)
       
 
