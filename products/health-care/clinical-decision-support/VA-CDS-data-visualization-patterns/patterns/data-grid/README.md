@@ -59,7 +59,7 @@ We believe this pattern should consist of:
 <details>
 
 - Team Name: Data Visualization Patterns
-- GitHub Label(s): 
+- GitHub Label(s): `data-viz-patterns` 
 - Slack channel: clinical-design-system-public
 - Product POCs: Amanda Klausmeier (VA Product Owner), Ann Laidlaw (Coforma Product Manager)
 
@@ -69,9 +69,8 @@ We believe this pattern should consist of:
 #### Stakeholders
 <details>
   
-- Office/Department: Clinical Decision Support Collaborative, VA Design System, USDS/USWDS
-- Contact(s): Matt Dingee (VADS), Kevin Hoffman (VADS), Dan Williams (USWDS)
- 
+- Office/Department(s): Clinical Decision Support Collaborative, VA Design System, USDS/USWDS
+- Contacts: Peter Koutsovitis and Shane Elliot (CDSC Product owners), Matt Dingee (VADS), Kevin Hoffman (VADS), Dan Williams (USWDS) 
 </details>
 
 
