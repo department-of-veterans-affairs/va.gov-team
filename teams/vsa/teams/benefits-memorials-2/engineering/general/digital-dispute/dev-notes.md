@@ -1,25 +1,42 @@
 # Digital Dispute form 
 I think ideally we stick with as much vanilla form system stuff as we can. I do believe there's generic platform components for both Veteran Info and Contact information, so we can even leverage those for this new app instead of lifting from FSR. Besides that it's looking like a radio button and text input field with varying copy depending on radio button selection. 
 
-## Stuff we need 
-- [ ] **Initial designs**
-- [ ] **URL name** - must have to really start dev work
-  - Generally decided with CAIA input
-- [x] Form name (in `vets-website`)
-  - ~~`digital-dispute` seems the most reasonable~~
-  - `dispute-debt` so it's a little more specific?
-- [ ] Form submission destination (in `vets-api`)
-- [ ] Background jobs? (`vets-api`)
-- [ ] Data storage? (`vets-api`)
+
+## TODO - after initial commit
+- [ ] Convert to minimal header
+- [ ] Refine (style and complete)
+	- [ ] Introduction page
+	- [ ] `/personal-information` 
+	- [ ] `/debt-selection`
+	- [ ] `/existence-or-amount`
+	- [ ] `/dispute-reason`
+	- [ ] Review & Submit
+	- [ ] Confirmation page `
+- [ ] `transform` for submission
+- [ ] `vets-json-schema` repo update (finalize need for ssn) *needed for launch*
+- [ ] `submission` definition (see 5655)
+- [ ] `downtime` section (see 5655?)
+- [ ] `savedFormMessages` 
+- [ ] `saveInProgress` (messages)
+- [ ] `getHelp` aka Need Help?
+- [ ] `customText`? (see 5655 for examples)
+
+### Need from design
+- [ ] Error messaging 
+	- [ ] `/existence-or-amount` (neither option is selected selected)
+	- [ ] `/dispute-reason` (no text entered)
+	- [ ] Failure to submit (`/review-and-submit`)
+	- [ ] Error fetching debts `/debt-selection` (currently using FSR for debts only)
 
 ## Helpful links
 ### Designs
 - [Figma mockups](https://www.figma.com/design/D8tfoPhUZlqBUomMTxzkQb/Dispute-Form-(VHA-VBA)?node-id=19-220&node-type=canvas&t=SBl5HnEgdHTYujeY-0)
-- [User flow](https://www.figma.com/design/D8tfoPhUZlqBUomMTxzkQb/Dispute-Form-(VHA-VBA)?node-id=1-339&node-type=section&t=goKw5ro0hQI1r0kX-0)  
+
 - **[CAIA Mural with url definitions and other helpful stuffs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1731461600152/93a4a19b003f01b86534471cb686f81bf073e4a2)**
   - **[Platform URL Guidance](https://design.va.gov/components/url-standards/)**
 - **[Slack thread on minimal header](https://dsva.slack.com/archives/C044AGZFG2W/p1727979260362549)**
-
+- [High level User flow](https://www.figma.com/design/D8tfoPhUZlqBUomMTxzkQb/Dispute-Form-(VHA-VBA)?node-id=1-339&node-type=section&t=goKw5ro0hQI1r0kX-0)
+  
 ### Collab cycle touchpoints 
 - [Collaboration Cycle Overview](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/overview)
   - [Architecture Intent](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/architecture-intent) - first meeting devs are proper involved in
@@ -38,4 +55,15 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
   - What's the respondent burden of this form in minutes?
   - What's the benefit description for this form?
   - See **Stuff we need** above
-## Questions that need answers
+
+
+## Stuff we need to start
+- [x] **Initial designs**
+- [x] **URL name** - must have to really start dev work
+  - Generally decided with CAIA input
+- [x] Form name (in `vets-website`)
+  - ~~`digital-dispute` seems the most reasonable~~
+  - `dispute-debt` so it's a little more specific?
+- [x] Form submission destination (in `vets-api`)
+- [x] Background jobs? (`vets-api`)
+- [x] Data storage? (`vets-api`)
