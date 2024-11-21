@@ -27,20 +27,17 @@
 - [Research plan ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Research/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Research/conversation-guide.md)
 - North Star and KPIs for the product
-- Authenticated test-user logins, when applicable. **_Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository_**
 - Product URL(s)
      - [Staging](https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction)
      - [Production](https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-10-10cg-facility-selection.md)
 - [Finalized design](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2478-18708&node-type=SECTION&t=LIbnyXIFEnPa5jZz-0)
 - [Content brief](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55327)
-- Regression test plans
+- [Regression test plans](https://dsvavsp.testrail.io/index.php?/runs/view/6235)
 - TestRail 
-     - Test cases
-     - Test plans
-- Technical diagrams (architecture diagram, sequence diagram)
-- Any new publicly-exposed endpoints
-- Any new interactions with dependent VA backends
+     - [Test plans](https://dsvavsp.testrail.io/index.php?/plans/view/6233)
+- [Technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10CG%20Sequence%20Diagram.md) (architecture diagram, sequence diagram)
+- [Endpoint Monitoring playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Endpoint%20Monitoring%20%26%20Zero%20Silent%20Failures/10-10CG%20Monitor%20Playbook.md)
 - [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/10-10CG%20Facility%20Selection%20-%20Release%20Plan.md)
 - Product guide for contact center
 
@@ -87,24 +84,24 @@
      - [x] Engineers work with Designers on any questions/clarifications
      - [x] Present to team for validation
      - [ ] Present to Stakeholders for validation
-- [ ] Complete QA and Accessibility QA
-- [ ] Engage downstream system team for End-to-End QA coordination
-     - [ ] Create E2E use cases and document results
+- [x] Complete QA and Accessibility QA
+- [x] Engage downstream system team for End-to-End QA coordination
+     - [x] Create E2E use cases and document results
      - [ ] Obtain signoff from downstream system team
 - [ ] Request Analytics review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket
      - [ ] Review findings with the team
      - [ ] Create tickets for work to be completed before launch
-- [ ] Create Usability and/or UAT research plan and conversation guide
-- [ ] Request Research Plan review
-- [ ] Schedule Usability/UAT sessions with Perigean
-- [ ] Conduct Usability/UAT sessions
-     - [ ] Synthesize research findings, if needed (not usually needed for UAT)
-     - [ ] Review findings with the team
-     - [ ] Make any necessary tickets/changes for design and/or development
+- [x] Create Usability and/or UAT research plan and conversation guide
+- [x] Request Research Plan review
+- [x] Schedule Usability/UAT sessions with Perigean
+- [x] Conduct Usability/UAT sessions
+     - [x] Synthesize research findings, if needed (not usually needed for UAT)
+     - [x] Review findings with the team
+     - [x] Make any necessary tickets/changes for design and/or development
 - [ ] Complete any Design and/or Development work from Usability/UAT sessions
 - [ ] Update Error matrix documentation with any new error states
-- [ ] Update any FE and/or BE Engineering documentation
+- [x] Update any FE and/or BE Engineering documentation
 - [ ] Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] Update Contact Center guide
 - [ ] Submit Contact Center guide review ticket
