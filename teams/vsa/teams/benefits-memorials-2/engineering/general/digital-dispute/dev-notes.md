@@ -4,6 +4,9 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
 
 ## TODO - after initial commit
 - [ ] Convert to minimal header
+- [ ] **SENTRY LOGGING**
+  - [ ] Error on submissions is probably most important
+  - [ ] Find other places that might fail
 - [ ] Refine (style and complete)
 	- [ ] Introduction page
 	- [ ] `/personal-information` 
