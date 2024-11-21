@@ -36,7 +36,7 @@ We believe there is an opportunity to design and implement an enhanced survey ex
 ### Targeting parameters:
 
 - Loyalty factor of 60 second or longer session
-- 5% of users who hit the loyalty factor
+- 25% of users who hit the loyalty factor
 - Based on sessions, not users
 - Pop up window
 - If a user declines an invitation, does not intercept for 90 days
