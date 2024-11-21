@@ -9,28 +9,17 @@ assignees: ''
 
 ### Description
 
-#### User Story or Problem Statement
-<!-- Outline the user story or the problem being addressed -->
-
-#### Implementation Details
-<!-- Describe how the feature or solution should be implemented -->
 
 #### Mockups/Designs
 <!-- Include any available mockups or design elements -->
 - [ Component ](link)
 
-#### Prerequisites/Dependencies
-<!-- List any prerequisites or dependencies -->
-
 #### Blockers
 <!-- Identify any potential obstacles -->
 
-#### Specifications
-<!-- Detail the technical specifications required -->
-
-### Acceptance Criteria
+### Acceptance Criteria/Conditions of Satisfaction
 <!-- Specify criteria for ticket completion -->
-- [ ]
+- [ ] 
 
 #### Accessibility (A11y) Testing 
 - Refer to existing [VA design system](https://design.va.gov/components/form/)
@@ -46,9 +35,3 @@ assignees: ''
  <label for="lastName"...>Last Name</label> <input id="lastName"... />
 - test with a screen reader 
   - Voiceover is built in with mac, use NVDA for windows
-
-#### Documentation
-<!-- Ensure relevant documentation is created or updated -->
-
-#### PII/PHI Security
-<!-- Verify that personally identifiable information/protected health information is secure -->
