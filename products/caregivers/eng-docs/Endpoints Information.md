@@ -7,4 +7,4 @@ See also [VA.gov Product Directory](https://depo-platform-documentation.scrollhe
 |v0/user/| Identity team |
 |v0/caregivers_assistance_claims| 10-10 team|
 |v0/form1010cg/attachments | 10-10 team|
-|v1/facilities/va| Lighthouse team maybe? (unsure)|
+|/v0/caregivers_assistance_claims/facilities| 10-10 team|
