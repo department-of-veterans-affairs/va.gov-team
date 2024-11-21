@@ -16,7 +16,7 @@ We believe there is an opportunity to design and implement an enhanced survey ex
 - Accessible design - the survey is fully accessible for users of all abilities.
 - Ease of use - Survey is intuitive and quick, requiring minimal effort to complete. 
 
-### Undesired User Outcomes
+#### Undesired User Outcomes
 - Survey fatigue - users are overwhelmed by repeated or obtrusive survey prompts and begin ignoring them.
 - Dispruptive - survey impacts the user journey in a significant and negative way.
 - Incomplete responses - abandoning the survey halfway
@@ -26,7 +26,7 @@ We believe there is an opportunity to design and implement an enhanced survey ex
 - Increased CSAT score in line with OCTO OKRs
 - Higher quality / more complete data on user satisfaction
 
-### Undesired Business Outcomes
+#### Undesired Business Outcomes
 - Lower quality data / rise in incomplete surveys
 - Decreased survey engagement
 - Data bias - survey methodology skews data leading to unrepresentative feedback 
