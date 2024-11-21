@@ -1,7 +1,7 @@
 # MHV on VA.gov Adoption of My HealtheVet on VA.gov - Topline Summary
 Nov 18, 2024
 
-Jonathan Nelson, Kat Brinley, Florence McCafferty, Sara Sterkenburg, : VA.gov Cartography team
+Jonathan Nelson: VA.gov Cartography team
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/adoption-study/Research-plan.md)
 
@@ -42,9 +42,9 @@ the challenges associated with switching to the new portal?
 1. Are CTAs to try out the new MHV portal effective? Do users notice them
 and understand what they're saying?
 
-Effectiveness of CTAs: Our research revealed low engagement with prominent "Try Me" banners on the MHV national portal. Participants frequently scrolled past these banners. 
+**Effectiveness of CTAs: Our research revealed low engagement with prominent "Try Me" banners on the MHV national portal. Participants frequently scrolled past these banners.**
 
-**Possible reasons:**
+Possible reasons:
 
 **Task-focused behavior:**
 
@@ -66,7 +66,7 @@ Effectiveness of CTAs: Our research revealed low engagement with prominent "Try 
 
 > No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
 
-**Participants generally were able to conceptualize and explain the transition happening between MHV and VA.gov. However, participants were unclear how the changes will affect their use of My HealtheVet. Uncertainly such as having to sign in again and functionality were potential blockers for participants.** 
+**Understanding the Transition: While participants generally understood the concept of the MHV to VA.gov transition, significant uncertainty remained regarding its practical implications. Concerns centered around potential disruptions to established workflows, including the need for repeated logins and possible loss of functionality.**
 
 > "I think it will take me to VA.gov, but I wonder if it will make me login again." - P10
 
@@ -74,49 +74,60 @@ Effectiveness of CTAs: Our research revealed low engagement with prominent "Try 
 
 > "There is no driver to make me want to click on that, especially when everything is still available as an option" - P2
 
-**Once attempting to accomplish tasks, participants (even those able to conceptualize the transition) often conflated and confused the My HealtheVet national portal and My HealtheVet on VA.gov.**
+**Navigational Challenges: Even those able to conceptualize transition, participants frequently conflated the MHV national portal and MHV on VA.gov.** 
 
-Some possible reasons: 
+This confusion stemmed from several factors:
 
-Naming: Some participants were confused by naming My HealtheVet both on VA.gov and the national portal. 
+**Naming conventions**: The consistent use of "My HealtheVet" for both platforms created ambiguity for participants. 
 
-> "It's confusing that its still called this, but it's different. I think it would be less confusing if it was just different"** - P1 
+> "It's confusing that it's still called this, but it's different. I think it would be less confusing if it was just different"** - P1 
 
-Navigation: The expectation that My HealtheVet links (in the global header, authenticated menu, and secondary navigation) would redirect to the national portal, and the belief that health links within My VA would keep users on VA.gov, led to navigational confusion among some participants.
+**Navigation inconsistencies:** Misunderstandings about link behavior—expecting MHV links to redirect to the national portal and vice-versa—led to significant navigational difficulties.
 
-URL: A few participants utilized the URL to orient themselves, but they found the VA.gov content within the MHV national portal URL confusing.
+The expectation that My HealtheVet links (in the global header, authenticated menu, and secondary navigation) would redirect to the national portal, and the belief that health links within My VA would keep users on VA.gov, led to navigational confusion among most participants.
 
-> "I know I'm in MHV because I scroll up and it's there (looking at My HealtheVet logo but then notcies VA.gov in URL) it's a little confusing. I'm not techy so maybe they're linked. I signed into MHV, but this says VA.gov. Did they already switch?" - P13
+**URL reliance and confusion:** A few participants some relied on URLs for orientation, the integration of VA.gov within the MHV national portal URL proved confusing. 
+
+> "I know I'm in MHV because I scroll up and it's there (looking at My HealtheVet logo but then notices VA.gov in URL) it's a little confusing. I'm not techy so maybe they're linked. I signed into MHV, but this says VA.gov. Did they already switch?" - P13
 
 2. Once users try out the new portal, do they understand how to return?
 
-While participants identified ways to access My HealtheVet on VA.gov (such as using bookmarks), the sessions did not definitively establish their ability to navigate back to My HealtheVet on VA.gov. 
+**While participants identified ways to access My HealtheVet on VA.gov in the future (such as using bookmarks), the sessions did not definitively establish their ability to navigate back to My HealtheVet on VA.gov and often participants voiced circuitous routes to return.**
 
 3.  Are changes made to the national portal language or tools causing confusion?
 
-Participants did not comment on language (e.g., "Pharmacy" to "Medications") and seemingly understood the in-tool experiences. The confusion arose with naming My HealtheVet in two places (see above). 
+Further analysis is needed - Participants did not comment on language (e.g., "Pharmacy" to "Medications") and understood the in-tool experiences. The confusion arose with naming My HealtheVet in two places (see above). 
 
 4.  What challenges or hiccups are users encountering on the new portal?
 
 Further analysis is needed - They expected to be able to schedule directly under appointments. 
 
-5.  What are positive changes that users notice while using the new portal?
+5.  What are positive changes that users notice while using the new portal?/6. How much do users care about what the new MHV offers them?
 
-Participants highlighted several positive aspects, including a streamlined experience, easy access to community care appointment information, and the convenience of having everything in one place.
+**Participants positively noted the streamlined experience, access to community care information, and the consolidation of services within VA.gov. 
 
-> 
+> "Mainly just because of how easier it was to get to compared to the old version for me." - P1 participant has trouble with remembering how to spell/say My HealtheVet)
 
+> "Have info in one centralized area and not having to hunt for things...Once VA finishes Medical Records, you'll have all the documents you need." - P5 
 
-6. How much do users care about what the new MHV offers them?
+> "Streamlined options all on one site." - P9
 
- Further is needed - they expect to have the same functionality as the national portal
+> "To me, you all are trying to improve our care...including community care." - P10
 
-## Other takeaways 
+**The secondary navigation proved effective for both orientation and navigation across tools.** 
 
-7. Secondary Navigation: Participants utilized the Secondary Navigation, both to identify where they were at within the health portal and as a navigation tool.
+9 of the 10 participants used the secondary navigation to establish a "sense of place" and/or move between tools. 
 
 > "very fluid" - P9
 
-8. 6 of 10 participants relied on a web search to locate My HealtheVet National Portal
+> "This does look like the newer version of things (looking at secondary navigation) This is the newer version because the top there. The icons, the style is different" - P12
 
-> 
+## Other takeaways 
+
+8. 6 of 10 participants utilized a web search to locate the My HealtheVet national portal, indicating challenges associated with the site's naming convention. 
+
+> "I can never remember 'My HealtheVet' The whole 'evet' part just throws me off, I don't know why" - P1
+
+Participants noted VA.gov was easier to remember 
+
+> "VA.gov is a lot easier to remember." - P11
