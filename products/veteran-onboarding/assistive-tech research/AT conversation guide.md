@@ -13,7 +13,7 @@ Fall 2024
 
 2. Complete any project-specific setup tasks for this study:
 
-3. Ensure both mobile and desktop links are ready to be shared in chat
+3. Ensure staging links are ready to be shared in chat
 
 4. Ensure that test user accounts are set up correctly
 
@@ -40,9 +40,7 @@ Fall 2024
 
 ### When the participant joins:
 
-Objective: Validate which AT will be used and which device will be used.
-
-- Thanks for joining us today! My name is Raquel. Today we're going to talk about first time interactions with VA.gov. Our discussion will help the team determine if there are any accessibility concerns we need to address.
+- Thanks for joining us today! My name is Raquel. It's very nice to meet you. Today we're going to talk about first time interactions with VA.gov. Our discussion will help the team determine if there are any accessibility concerns we need to address.
 
 
 #### **Intro - 5 minutes**
@@ -64,11 +62,13 @@ As we begin there are a few things I would like to start off with:
 
 #### **Section 1: Warm-up Questions - 5 minutes**
 
-Moderator: Before we look at the website, let’s start with a few warm-up questions so that we can get to know you and the type of tech you use.
+Moderator: Before we look at the website, let’s talk a little more about the assistive tech and device you are using today.
 
 1. What type of device will you use for this test?
+
 2. What browser will you be using? (chrome, safari, edge, etc)
 
+Great, thanks for letting us know!
 
 ***
 
@@ -77,10 +77,11 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
 
 ##### **Review**
 
-- During our session today, I am going to have you imagine that you have just created a VA.gov account and you are logging in for the first time. I will share login information for you to log in with.
+- During our session today, I am going to have you imagine that you have just created a VA.gov account and you are logging in for the first time. I will share login information for you to log in with. 
 
-* Before I send you the first test user login information, I would like to ask you to share your screen. I can walk you through how to start the screen share 
-[Help participant screen share]
+* Before I send you the first test user login information, I would like to ask you to share your screen. I can walk you through how to start the screen share 
+
+\[Help participant screen share]
 
 - Great, I’m seeing your screen.
 
@@ -91,9 +92,9 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
   - to email it to you, 
 
   - or to read the link to you to type into your browser?\
-    \[share link, make sure to use a shortlink with a “plain language” slug (staging.VA.gov]
+    \[share link, make sure to use a shortlink with a “plain language” slug (staging.VA.gov)]
 
-- Now I will send you the login details for the first account we will access. Send test login information of the LOA1 account
+- Now I will send you the login details for the first account we will access. Send log in information to LOA1 account
 
 
 #### **Section 3: Usability tasks - 30 minutes**
@@ -109,43 +110,41 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
 
 ###### Pay attention for if the participant:
 
-1. Was able to discover what we intended?
+1. Was able to discover what benefit they would get out of VA.gov?
 
-2. had difficulty navigating. Why?
+2. If the participant had difficulty navigating. Why?
 
-3. Runs into any errors? Which error and why did they come up?
+3. If the participant ran into any errors? Which error and why did they come up?
 
-4. Was ever confused?
-
-5. Experienced anything that they were not expecting?
-
-6. Was the participant triggered by anything in the experience?
+4. Experienced anything that they were not expecting?
 
 
 ##### Task 2: My VA: Interacting with the “Contact information missing” alert
 
-- Now I will send you the login details for the first account we will access. (Send link to LOA3 account with missing phone number and email address)
+- Now I will send you another set of login details. (Send link to LOA3 account with missing phone number and email address)
 
-- Logout of the account that you are in and use the login information I just sent to log into this new account
+- Logout of the account that you are in and use the login information I just sent to log into this new account.
 
-* Now that you are logged in, imagine that you have just verified your account after seeing the welcome message.
+* Now that you verified your account on a previous visit and you are now logging in to your verified account.
 
-- Walk me through your next steps. Do not take any actions without first sharing what steps you would take.
+- Walk me through your next steps. Navigate around the page but do not take any actions without first sharing what steps you would take.
 
 - Did you see what you were expecting on this page?
 
 
 ###### Pay attention for if the participant:
 
-1. Navigated quickly to the “add contact information alert”? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
+1. Did the participant understand what the information alert was saying?
 
-2. Did they understand how to take action in the alert?
+2. Did the participant navigate quickly to the “add contact information alert”? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
 
-3. Had difficulty navigating. If so, what made it difficult?
+3. Did they understand how to take action in the alert?
 
-4. Ran into any errors? Which error and why did they come up?
+4. Did the participant have difficulty navigating? If so, what made it difficult?
 
-5. Experienced anything that they were not expecting?
+5. Did the participant run into any errors? Which error and why did they come up?
+
+6. Did the participant experience anything that they were not expecting?
 
 
 ##### Task 3: Navigate to update contact info (Via alert or profile)
@@ -161,19 +160,7 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
 
 ###### Pay attention for if the participant:
 
-1. Was able to complete the task? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
-
-2. Was able to discover what we intended?
-
-3. Had difficulty navigating. If so, what made it difficult?
-
-4. Ran into any errors? Which error and why did they come up?
-
-5. Was ever confused?
-
-6. Experienced anything that they were not expecting?
-
-7. Was the participant triggered by anything in the experience?
+1. Did the participant need to be prompted to update their contact information?
 
 
 ##### Task 4: Update/edit phone number information
@@ -186,48 +173,42 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
 
 * How would you rank editing your **phone number** from 1(very helpful and user friendly) to 5 (very difficult)
 
+**Prompt the participant to click the update button if they have not already done so.**
+
 
 ###### Pay attention for if the participant:
 
-1. Was able to complete the task? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
+1. Was the participant able to update their phone number? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
 
-2. Had difficulty navigating? If so, what made it difficult?
+2. Did the participant have difficulty navigating? If so, what made it difficult?
 
-3. Ran into any errors? Which error and why did they come up?
+3. Did the participant run into any errors? Which error and why did they come up?
 
-4. Was ever confused?
-
-5. Experienced anything that they were not expecting?
-
-6. Was the participant triggered by anything in the experience?
+4. Did the participant experience anything that they were not expecting?
 
 
 ##### Task 5: Update/edit email address information
 
 - Review this page, sharing any thoughts as you do so.
 
-- What actions, if any, would you take on this page?
+- Are there any other actions, if any, would you take on this page?
 
 - Go ahead and update your **email address**
 
 * How would you rank editing your **email address** from 1(very helpful and user friendly) to 5 (very difficult)
 
+**Prompt the participant to click the update button if they have not already done so.**
+
 
 ###### Pay attention for if the participant:
 
-1. Was able to complete the task? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
+1. Was able to update their email address? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
 
-2. Was able to discover what we intended?
+2. Did the participant have difficulty navigating? If so, what made it difficult?
 
-3. Had difficulty navigating. If so, what made it difficult?
+3. Did the participant run into any errors? Which error and why did they come up?
 
-4. Ran into any errors? Which error and why did they come up?
-
-5. Was ever confused?
-
-6. Experienced anything that they were not expecting?
-
-7. Was the participant triggered by anything in the experience?
+4. DId the participant experience anything that they were not expecting?
 
 
 ##### Task 6: Review home address information
@@ -236,60 +217,49 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
 
 - What actions, if any, would you take on this page?
 
-- Go ahead and update your phone number
+- Go ahead and update your **address.**
 
 * How would you rank editing your contact information from 1(very helpful and user friendly) to 5 (very difficult)
+
+* Now click the update button (if the participant did not already do that)
 
 
 ###### Pay attention for if the participant:
 
-1. Was able to complete the task? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
+5. Was able to update their address? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
 
-2. Was able to discover what we intended?
+6. Did the participant have difficulty navigating? If so, what made it difficult?
 
-3. Had difficulty navigating. If so, what made it difficult?
+7. Did the participant run into any errors? Which error and why did they come up?
 
-4. Ran into any errors? Which error and why did they come up?
+8. Did the participant experience anything that they were not expecting?
 
-5. Was ever confused?
-
-6. Experienced anything that they were not expecting?
-
-7. Was the participant triggered by anything in the experience?
+**Prompt the participant to now move on from this page if they had not already done so.**
 
 Task 7: Evaluate confirmation page
 
-If the participant has not yet completed the form to get to the final page, prompt them to go ahead and do so.
-
 - Take a moment to review this page and the information provided.
 
-- What is the alert telling you?
-
-- What will the contact information you shared be used?
+- What will the contact information you shared be used for?
 
 - If you wanted to review or update the information you updated in the future, how would you do that?
-  
-- What step would you take from this page?
-  
-- How would you update your notifications?
 
+- What step would you take from this page?
 
 * How would you rank this confirmation that your info has been updated from 1(very helpful and user friendly) to 5 (very difficult)
 
 
 ###### Pay attention for if the participant:
 
-1. Was able to discover what we intended?
+1. Was the participant interested in reviewing notifications?
 
-2. Had difficulty navigating. If so, what made it difficult?
+2. Did the participant know where to navigate next?
 
-3. Ran into any errors? Which error and why did they come up?
+3. Did the participant have difficulty navigating? If so, what made it difficult?
 
-4. Was ever confused?
+4. Did the participant run into any errors? Which error and why did they come up?
 
-5. Experienced anything that they were not expecting?
-
-6. Was the participant triggered by anything in the experience?
+5. Did the participant experience anything that they were not expecting?
 
 ***
 
