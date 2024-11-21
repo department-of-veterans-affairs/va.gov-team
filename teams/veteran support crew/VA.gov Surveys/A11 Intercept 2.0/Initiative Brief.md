@@ -18,7 +18,7 @@ We believe there is an opportunity to design and implement an enhanced survey ex
 
 #### Undesired User Outcomes
 - Survey fatigue - users are overwhelmed by repeated or obtrusive survey prompts and begin ignoring them.
-- Dispruptive - survey impacts the user journey in a significant and negative way.
+- Disruptive - survey impacts the user journey in a significant and negative way.
 - Incomplete responses - abandoning the survey halfway
 
 ### Desired Business Outcomes
