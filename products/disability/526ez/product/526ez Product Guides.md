@@ -20,7 +20,7 @@ Follow steps in [request-contact-center-review](https://github.com/department-of
 to create a ticket. Update the change logs within the docs and on this page with ticket number. If updating both docs at the same time, a single ticket is ok.<br><br>
 4. Contact Center team reviews the docs <br>
 Make any requested changes and update in sharepoint. They will typically look through each change and approve or comment on the change.<br><br>
-5. Complete!<br>Contact Center team attaches the approved version to the ticket.
+5. Complete!<br>Contact Center team attaches the approved version to the ticket.<br>Delete any drafts from sharepoint and update the change log below to remove 'In Progress'
 
 ## Some best practices and tips
 - Both guides should be updated at the same time to keep them in sync, unless there is a change that impacts only one of the two flows.
@@ -44,6 +44,7 @@ Make any requested changes and update in sharepoint. They will typically look th
 |8/28/24 |4.2|[#91656](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/2?filterQuery=&sliceBy%5Bvalue%5D=nnicholas7&pane=issue&itemId=76716622)|Disability Experience Team 2|0781 Post-Submission Failure Email|
 |9/12/24 |4.3 -In progress|[#89474](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89474) [89576](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89576)|Disability Experience Team 2|ITF and Missing Information Error Messages|
 |10/11/24 |4.4 -In progress|[#94161](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94161)|Disability Experience Team 2|526 Failure Email Message|
+|11/21/24|In Progress|[#97216](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97216)|Disability Experience Team 1|Submission Experience|
 
 
 ## 526 BDD Product Guide Ticket History
@@ -57,3 +58,4 @@ Make any requested changes and update in sharepoint. They will typically look th
 |8/28/24 |3.2|[#91656](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/2?filterQuery=&sliceBy%5Bvalue%5D=nnicholas7&pane=issue&itemId=76716622)|Disability Experience Team 2|0781 Post-Submission Failure Email|
 |9/12/24 |3.3 -In progress|[#89474](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89474) [89576](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89576)|Disability Experience Team 2|ITF and Missing Information Error Messages|
 |10/11/24 |3.4 -In progress|[#94161](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94161)|Disability Experience Team 2|526 Failure Email Message|
+|11/21/24|In Progress|[#97216](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97216)|Disability Experience Team 1|Submission Experience|
