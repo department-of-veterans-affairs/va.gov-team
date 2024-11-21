@@ -12,7 +12,7 @@ The following tag categories are proposed and will be validated during Veteran r
 | Topic | Optional, Select 0 or many | Y using "or" logic | Y | <ul><li> Sign in and profile </li><li> Payments and debt </li><li> Decision reviews and appeals </li><li> Claims and claim status </li><li> Records and documents </li><li> Community care </li></ul> |
 | Featured content | Not a selectable tag | N | Visible on R&S landing page only | TBD |
 
-### LLanding page governance 
+### Landing page governance 
 
 | Tag category | Min/Max | Sort order | Rules | Curation | Deprecation | 
 | --- | :---: | :---:  | --- | --- | --- |
