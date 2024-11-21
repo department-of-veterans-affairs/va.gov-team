@@ -34,7 +34,7 @@ The registration form will live below the /foreign-medical-program general infor
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
 
 
-1. **Modify Left Nav**
+1. **Modify Left Nav** - implemented 11/21
   - Placement description: nested under 'Foreign Medical Program'
   - Link label: TBD based on H1, probably something like 'Register now'
   - Link destination: va.gov/health-care/foreign-medical-program/register-form-10-7959f-1/
