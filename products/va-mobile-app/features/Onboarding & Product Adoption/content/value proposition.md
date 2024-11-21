@@ -1,8 +1,11 @@
 # Value proposition
 
+Third-person version: With the VA: Health and Benefits app, Veterans can manage the VA health care and benefits tasks they do most often—all in one simple app.
+
+Second-person version: Manage the VA health care and benefits tasks you do most often—all in one simple app.
 
 
-## Overview
+## Background
 
 In July 2024, the VA Mobile App team began a discovery phase on improving the app's user onboarding and product adoption. As part of this work, we documented our current end-to-end onboarding experience and performed a gap analysis against industry best practices. One of the main problems we identified was that we weren't communciating anything about the value of the app to Veterans. Instead, we were often just speaking to specific features. 
 
