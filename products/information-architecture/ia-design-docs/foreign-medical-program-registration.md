@@ -42,7 +42,7 @@ The registration form will live below the /foreign-medical-program general infor
 ![Screenshot 2024-05-31 at 1 47 13 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/cd59f863-e61b-4709-a811-fe32c684a4c4)
 
 
-2. **Modify [FMP static drupal page](https://www.va.gov/health-care/foreign-medical-program/)**
+2. **Modify [FMP static drupal page](https://www.va.gov/health-care/foreign-medical-program/)** - implemented
   - Placement description: TBD by content
   - Link label: TBD by content
   - Link destination: va.gov/health-care/foreign-medical-program/register-form-10-7959f-1/
