@@ -15,7 +15,7 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
 	- [ ] `/dispute-reason`
 	- [ ] Review & Submit
 	- [ ] Confirmation page `
-- One ticket for transform & submit stuffs
+- [ ] One ticket for transform & submit stuffs
   - [ ] `transform` for submission
   - [ ] `submission` definition (see 5655)
   - [ ] Include Sentry logging and alert message
@@ -23,7 +23,7 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
 - [ ] `vets-json-schema` repo update (finalize need for ssn) *needed for launch*
 - [ ] `downtime` section (see 5655?)
 - [ ] `getHelp` aka Need Help?
-- One ticket for messaging/custom text
+- [ ] One ticket for messaging/custom text
   - [ ] `savedFormMessages` 
   - [ ] `saveInProgress` (messages)
   - [ ] `customText`? (see 5655 for examples)
