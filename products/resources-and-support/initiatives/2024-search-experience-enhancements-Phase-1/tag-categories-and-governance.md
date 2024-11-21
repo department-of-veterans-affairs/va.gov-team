@@ -14,9 +14,9 @@ The following tag categories are proposed and will be validated during Veteran r
 
 ### LLanding page governance 
 
-| Tag category | Min/Max | Sort order | Rules | Curation | 
-| --- | :---: | :---:  | --- | --- |
-| Benefit | TBD | Alpha | Should be included automatically |  |
-| Topics | TBD | Alpha | Tag based, cannot overlap with Featured content | Rubric TBD | 
-| Featured content | 3 | TBD | NOT Tag based, can be used to test future topics but cannot overlap with topics | Rubric TBD |
+| Tag category | Min/Max | Sort order | Rules | Curation | Deprecation | 
+| --- | :---: | :---:  | --- | --- | --- |
+| Benefit | TBD | Alpha | Should be included automatically |  | | 
+| Topics | TBD | Alpha | Tag based, cannot overlap with Featured content | Rubric TBD | |
+| Featured content | 3 | TBD | NOT Tag based, can be used to test future topics but cannot overlap with topics | Rubric TBD | |
 
