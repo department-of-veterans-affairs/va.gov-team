@@ -40,7 +40,7 @@ Fall 2024
 
 ### When the participant joins:
 
-Validate which AT will be used and which device will be used.
+Objective: Validate which AT will be used and which device will be used.
 
 - Thanks for joining us today! My name is Raquel. Today we're going to talk about first time interactions with VA.gov. Our discussion will help the team determine if there are any accessibility concerns we need to address.
 
@@ -64,9 +64,11 @@ As we begin there are a few things I would like to start off with:
 
 #### **Section 1: Warm-up Questions - 5 minutes**
 
-Moderator: Before we look at the website, let’s start with a few warm-up questions so that we can get to know you.
+Moderator: Before we look at the website, let’s start with a few warm-up questions so that we can get to know you and the type of tech you use.
 
-1. What type of assistive technology will you use for this test?
+1. What type of device will you use for this test?
+2. What browser will you be using? (chrome, safari, edge, etc)
+
 
 ***
 
