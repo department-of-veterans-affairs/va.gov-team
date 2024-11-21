@@ -176,8 +176,7 @@
 
 ### Incident Response Info
 - The 1010CG form is currently in production
-- We are going to begin calling an existing API (Facilities API)
-- XXXXXX We are changing how the facility list is retrieved (MORE INFO WILL BE NEEDED HERE)
+- The new paginated request endpoint is /v0/carefivers_assistance_claims/facilities
 - 1010CG [Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
 
 ### Timeline 
