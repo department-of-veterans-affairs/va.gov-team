@@ -77,11 +77,10 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
 
 ##### **Review**
 
-- During our session today, I am going to have you imagine that you have just created a VA.gov account and you are logging in for the first time. During this study I will share a link and login information for two different test users.I will share a link and provide a test user for you to use for this study.
+- During our session today, I am going to have you imagine that you have just created a VA.gov account and you are logging in for the first time. During this study I will share login information for two different test users.
 
-* Before I send you the link, I would like to ask you to share your screen. I can walk you through how to start the screen share 
-
-\[Help participant screen share]
+* Before I send you the first test user login information, I would like to ask you to share your screen. I can walk you through how to start the screen share 
+[Help participant screen share]
 
 - Great, I’m seeing your screen.
 
