@@ -13,14 +13,14 @@ Feature Toggle/flag:
 - [ ] Contact Center Review is complete
 - [ ] Privacy, Security, IA Readiness Review is complete
 
+#### Content Preparation
+- [ ] The react widget has been added to the landing page
+- [ ] Entry points are ready to be redirected to the landing page ❓
+
 #### Technical Preparation
 - [ ] Enable backend feature flag `use_veteran_models_for_appoint` to use the legacy tables (since the Accreditation API is not yet available)
 - [ ] Enable backend feature flag `appoint_a_representative_enable_pdf` to allow for searching for representatives in Appoint, generating the PDF, and sending the email notification.
 - [ ] Any lingering issues that are needed to address prior to rollout?
-
-#### Content Preparation
-- [ ] The react widget has been added to the landing page
-- [ ] Entry points are ready to be redirected to the landing page ❓
 
 #### Go/No Go meeting **TBD**
 - [ ] review the release plan with your team.
