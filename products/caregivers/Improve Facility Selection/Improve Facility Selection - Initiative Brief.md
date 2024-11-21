@@ -166,7 +166,8 @@
 
 - [Kickoff ticket #51980](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/51980)
   - [x] Design Intent 3/20/2023
-  - [ ] Research Review
+  - [x] [Research Review](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/674) 9/10/2024
+  - [x] Architecture Intent review (NEW step - added in October 2024) 11/26/2024
   - [ ] IA Review
   - [ ] Midpoint Review
   - [ ] Staging Review
