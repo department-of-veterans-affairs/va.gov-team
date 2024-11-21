@@ -3,8 +3,8 @@
 
 ### Development
 
-Feature Toggle:
-`find_a_representative_enabled`❓ will be disabled prior to staged rollout and will be enabled to an increasing % of users during the staged rollout. This will control visibility of both our Appoint a Representative product and it's related entry point on the CAIA landing page
+Feature Toggle/flag:
+`appoint_a_representative_enable_frontend` will be disabled prior to staged rollout and will be enabled to an increasing % of users during the staged rollout. This will control visibility of both our Appoint a Representative product and it's related entry point on the CAIA landing page
 
 ### Validation
 
@@ -14,10 +14,8 @@ Feature Toggle:
 - [ ] Privacy, Security, IA Readiness Review is complete
 
 #### Technical Preparation
-- [ ] Enable backend feature flag `use_veteran_models_for_appoint`
-- [ ] Enable backend feature flag `appoint_a_representative_enable_pdf` ❓
-- [ ] Enable backend feature flag `appoint_a_representative_enable_api` ❓
-- [ ] Any third party services ready for use (frontend or backend) ❓
+- [ ] Enable backend feature flag `use_veteran_models_for_appoint` to use the legacy tables (since the Accreditation API is not yet available)
+- [ ] Enable backend feature flag `appoint_a_representative_enable_pdf` to allow for searching for representatives in Appoint, generating the PDF, and sending the email notification.
 - [ ] Any lingering issues that are needed to address prior to rollout?
 
 #### Content Preparation
