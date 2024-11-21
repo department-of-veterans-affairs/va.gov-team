@@ -14,7 +14,6 @@
     - 🟥 [Create Wireframes for OH Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97420)
 - **Community Care Direct Scheduling**   
     - 🟥 [Add annotations for referral and requests link behavior #96632](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96632)
-    - 🟥 [Create 301 redirect ticket #93947](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93947)
     - TESTING
         - 🟥 [Determine Veteran-facing UAT plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97424)
     - NOTIFICATIONS
