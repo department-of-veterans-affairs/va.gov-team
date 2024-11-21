@@ -42,17 +42,17 @@ the challenges associated with switching to the new portal?
 1. Are CTAs to try out the new MHV portal effective? Do users notice them
 and understand what they're saying?
 
-Participants repeatedly scrolled past the "Try-me" banners on the My HealtheVet national portal. 
+Effectiveness of CTAs: Our research revealed low engagement with prominent "Try Me" banners on the MHV national portal. Participants frequently scrolled past these banners. 
 
 **Possible reasons:**
 
-**Participants are focused on accomplishing task/goals**
+**Task-focused behavior:**
 
 > "If I've already made it this far to the page, I don't care about all this. I"m already where I was trying to be" - P2
 
 > "Hmm..no, i usually scroll really fast and went right down to my appointments. - P13
 
-**Participants often had multiple/stacked banners/alerts seemingly blending into each other which caused some confusion.**
+**Banner overload**
 
 > "3 boxes all the same color makes it seem like these are all the same information." - P2
 
@@ -60,7 +60,7 @@ Participants repeatedly scrolled past the "Try-me" banners on the My HealtheVet 
 
 > "And then at once point, it's giving you the option to cancel your MHV. But if you do that you can't get into any of this stuff . So why are they doing that?" - P12
 
-**Some participants felt that the banners/alerts did not apply to them.**
+**Precieved irrelevant massaging**
 
 > "I have all these banners here and I tend to ignore them."  - P9
 
