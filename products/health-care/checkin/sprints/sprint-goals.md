@@ -64,27 +64,27 @@
     - FE STEP 4 - Schedule an Appointment with your Provider Page
         - 🟩 [Fix a few page details](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95272)
     - BE STEP 1 - Implement EPSAppointments
-        - [**2 points left**] 🟦 [Implement EPSAppointmentsService base class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96000)
-        - [**0 points left**] 🟦 [Implement RedisClient: Implement #save method to save the access_toke #96002](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2395999&pane=issue&itemId=85114168&issue=department-of-veterans-affairs%7Cva.gov-team%7C96002)
-        - 🟦 [Implement RedisClient: Implement #get method to retrieve the access_token](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96003)
+        - ✔️ [**2 points left**] 🟦 [Implement EPSAppointmentsService base class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96000)
+        - ✔️ [**0 points left**] 🟦 [Implement RedisClient: Implement #save method to save the access_toke #96002](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2395999&pane=issue&itemId=85114168&issue=department-of-veterans-affairs%7Cva.gov-team%7C96002)
+        - ✔️ 🟦 [Implement RedisClient: Implement #get method to retrieve the access_token](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96003)
         - 🟦 [Implement token method in EPSService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96410)
         - 🟦 [Implement get_appointments method in EPSAppointmentService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96411)
     - 🟥 [Create Userflows for Asynchronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96417) 
 - **Travel Claims for Past Appts**
-    - [**1 points left**] 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
+    - ✔️ [**1 points left**] 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
     - 🟥 [[DESIGN] Create error state for when travel link cannot be retrieved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96578)
     - ✔️ 🟥 [[DESIGN] Change appointment details page content to reflect updated mileage-only travel policy](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96784)
 - **Pre-Check-in - VAHB**
     - 🟥 [Complete initial onboarding for working in VAHB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94639)
     - 🟥 [Create User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94232)
 - **Check in with staff after checking in**
-    - 🟩 [Update Check-in to tell Veterans to go up to MSAs 5 min after appointment time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96034)
+    - ✔️ 🟩 [Update Check-in to tell Veterans to go up to MSAs 5 min after appointment time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96034)
     - ✔️ 🟥 [[Research] Submit unmoderated survey research materials to Shane and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95704)
     - 🟥 [Kick off Unmoderated Study with Perigean & Monitor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95475)    
 - **Tech Debt & Analytics**
-    - 🟩 [Change Tagalog Content Based on Feedback from SD](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96861)
+    - ✔️ 🟩 [Change Tagalog Content Based on Feedback from SD](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96861)
     - ✔️ 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96180)
-    - 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
+    - ✔️ 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
 
 ## SPRINT 19 - 10/30/2024-11/12/2024
 **NOTE: A lot of tickets rolled over this sprint because of (1) a lot of unknowns & continuous adjusting with CC work, (2) exposure to new code (appointments/VAOS) and (2) travel schedule of OCTO leads that made them unavailable to review**
