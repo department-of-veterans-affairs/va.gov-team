@@ -2,6 +2,8 @@
 
 VAMCs are comprised of many features, mostly deriving from Drupal. Major features include: 
 * VAMC System
+  * Lovell
+  * Manila
 * VAMC Facility
 * VAMC Health Services
 * VAMC Facility Health Service
@@ -15,8 +17,6 @@ VAMCs are comprised of many features, mostly deriving from Drupal. Major feature
 * VAMC Register for Care
 * VAMC Policies
 * VAMC Police
-* Lovell
-* Manila
 
 
 ## Centralized Content
