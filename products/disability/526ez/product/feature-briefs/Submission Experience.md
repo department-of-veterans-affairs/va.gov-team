@@ -144,19 +144,29 @@ Many Veterans file a claim that includes ancillary forms and uploaded evidence, 
 * Direct changes to MyVA and CST. We may partner with them to include a copy of the Veteran’s claim insofar is feasilble and viable, but we do not control these applications or have direct influence over their roadmap.
 
 ### 6.4.3 Risks and Challenges
-* Direct changes to MyVA and CST are not possible. We may partner with them to include a copy of the Veteran’s claim insofar is feasilble and viable, but we do not control these applications or have direct influence over their roadmap.
-* Form statuses on MyVA show status for only the forms specified in the SubmissionStatusesController controller method
-* 526 is not one of the forms specified in this controller method, which my VA owns
-* MyVA retrieves records from the form_submissions table and, for each form, uses the benefits_intake_uuid to retrieve the status via the LH Benefits Intake API
-* MyVA displays a user's list of form submissions along with their statuses on the MyVA dashboard page, but MyVA doesn't actively poll for updates
-* MyVA plans to add more forms in the future, but the timeline for 526 is unclear
-* Thus, feasibility of displaying an up-to-date submission status on a MyVA card is unclear due to unknown timing of 526 being included in the list of specfied forms
-* The MyVA/Profile team is currently working to understand if changes to MyVA would require DEBX to go through Collaboration Cycle
-* For changes in the near term, MyVA/Profile team would more likely be involved
-* MyVA/Profile team is considering how to enable other teams to develop under their guidance, support for this is a ways off
-* How to handle duplicate submissions are something that we'll need to figure out
-* Form 526 is not saved to the form_submissions table. We can put it in there, but to it will be complicated to retroactively add people's submissions. Perhaps we don't do this.
-* 526 primary path submission do not go to benefits intake api. They go straight to vbms. Only the backup path goes to benefits intake.
+
+**MyVA Dashboard Limitations**
+- Cannot directly modify MyVA codebase
+- MyVA only shows forms listed in their SubmissionStatusesController
+- Form 526 not currently included in MyVA's form list
+- Status updates require form data in form_submissions table
+
+**Data Flow Complexities**
+- Primary submissions go directly to VBMS, via LH Claims endpoint
+- Backup submissions use Benefits Intake API
+- MyVA pulls status via Benefits Intake API only
+- No automatic status polling implemented
+
+**Implementation Barriers**
+- Adding Form 526 requires MyVA team's timeline/approval
+- Duplicate submission handling not defined
+- Collaboration Cycle requirements unclear
+
+**Key Dependencies:**
+- MyVA team's development roadmap
+- Access to form_submissions table
+- Integration with both VBMS and Benefits Intake API
+- MyVA team's guidance for development
 
 ### 6.4.4 Possible Solutions
 One approach we could take would be to make an adapter to get the 526 and add it on to the response from the SubmissionStatusesController. We can retrieve status in this way:
