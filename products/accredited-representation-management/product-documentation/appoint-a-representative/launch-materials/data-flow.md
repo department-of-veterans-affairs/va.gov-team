@@ -1,6 +1,6 @@
 # Appoint a Representative Data Flow
 
-View the 'Appoint a Representative' data flow chart [here](../images/products/accredited-representation-management/product-documentation/appoint-a-representative/launch-materials/images/appoint-a-rep-data-flow.png).
+View the 'Appoint a Representative' data flow chart [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/launch-materials/images/appoint-a-rep-data-flow.png).
 
 ## What data is collected or used, and where, including information such as credentials used by this system?
 
