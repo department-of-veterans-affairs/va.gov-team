@@ -12,37 +12,48 @@ I copied this checklist from [this GitHub doc](https://github.com/department-of-
 - [Next steps](#next-steps)
 
 ## Start
-
-* [x] Do you know when your application shipped to production?
+* [ ] Do you know when your application shipped to production?
   * If not, use Github to determine, roughly, when your application shipped to users.
-  * 💬 Our application isn't currently shipped to production yet. We're expecting to ship April 9 ([see Mural timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12)).
-* [x] Did your application use the same APIs when it shipped as it does today?
+  * 💬 **Our application isn't currently shipped to production yet. We're expecting to ship April 9 ([see Mural timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12)).**
+* [ ] Did your application use the same APIs when it shipped as it does today?
   * If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
-  * 💬 See message above. Here's a [list of the APIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/silent-failures-and-datadog.md) we'll be using.
+  * 💬 **See message above. Here's a [list of the APIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/silent-failures-and-datadog.md) we'll be using.**
 ## Monitoring
 
 * [ ] Do you monitor the API that you submit to via Datadog? 
   * If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
+  * 💬 **We will set up monitoring in Datadog when we ship to VA.gov.**
+  * ❓ **Plan for setting up Datadog monitoring? Ticket?**
 * [ ] Does your Datadog monitoring use the appropriate tagging?
   * If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
+  * 💬 **We will use appropriate tagging when we ship to VA.gov.**
+  * ❓ **What tags should we create? Plan for setting up tags? Ticket?**
 * [ ] Do errors detected by Datadog go into a Slack notifications channel?
   * If not, start directing errors in Datadog to a dedicated Slack channel. See [#veteran-facing-forms-notifications](https://dsva.slack.com/archives/C063SM22J3H) for an example.
+  * 💬 **We will create the Slack channel #ask-va-notifications to direct errors to.**
+  * ❓ **Plan for setting up Slack channel? Ticket?**
 * [ ] Does more than one person look at the Slack notifications channel containing errors on a daily basis? 
   * If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
+  * 💬 **We will create the Slack channel #ask-va-notifications to direct errors to.**
+  * ❓ **Ticket?**
 * [ ] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there? 
   * If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
+  * 💬 **We will develop a process to monitor #ask-va-notifications.**
+  * ❓ **Plan for developing process? Ticket?**
 
 ⚠️ **Failure to have endpoint monitoring in place is a blocking QA standard at Staging review as of 9/10/24.** If you answered no to any of the questions above, you will be blocked from shipping at the Staging review touchpoint in Collab Cycle.
 
 ## Reporting errors
-
 * [ ] Have you filed issues for errors that are appearing in Datadog / Slack?
   * If not, then start filing Github issues for new categories of errors following [this guidance](#file-silent-errors-issues-in-github)
+  * 💬 **We will file issues for errors that appear in Datadog and #ask-va-notifications.**
+  * ❓ **Plan for filing issues on our team? Who's responsible? Ticket?**
 * [ ] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
   * If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
+  * 💬 **We will define fatal errors and how to communicate them to the end user by UI or email.**
+  * ❓ **Plan for defining fatal error? Plan for communicating to user by UI or email? Ticket?**
 
 ## Documentation
-
 * [ ] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record? 
   * If not, then [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram) that captures this information. 
 * [ ] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
