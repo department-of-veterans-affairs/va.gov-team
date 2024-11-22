@@ -4,7 +4,7 @@
 
 Janelle Finnerty, janelle.finnerty@oddball.io
 
-[Research readout](https://dvagov.sharepoint.com/:v:/s/vaabdvro/ESK1vTSqG8xPpogUEUJCkFEBgxEwov3NdHfBFcLFAD58rw?e=E8LC2N)
+[Research readout](https://dvagov.sharepoint.com/:f:/s/vaabdvro/EoZwFyTALzhMkCrB8p-s-LwB8tO63jan2dWtEaDQaiojfg?e=vdyRY5)
 
 Jump to:
 
