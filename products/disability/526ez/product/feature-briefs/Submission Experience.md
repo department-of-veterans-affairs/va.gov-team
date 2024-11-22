@@ -1,4 +1,4 @@
-# Sub Ex Init Brief 11/20
+# Submission Experience Initiative Brief
 
 # 1. Purpose
 The purpose of this document is to describe and build alignment for what problems we aim to solve, why they are important to solve, and how we plan to improve the Veteran submission experience. It’s a living document which serves as the source of truth and a communication tool for keeping stakeholders informed about the Submission Experience initiative.
