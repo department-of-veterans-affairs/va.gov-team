@@ -309,7 +309,6 @@ For today’s final task, I’d like you to return to the review and submit page
 **Post-task questions**
 
 * On a scale of 1 to 5, how difficult or easy was it to complete this task? With 1 being very difficult and 5 being very easy?  
-* On a scale of 1 to 5, how confident are you that your answers are accurate? With 1 being not confident and 5 being very confident?  
 * Is there anything else you would do before submitting the form?
 
 ---
