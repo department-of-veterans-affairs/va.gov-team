@@ -28,3 +28,6 @@ These ride along with the header:
 * vets-website application that harnesses the API to show banner updates in real-ish time
 
 We will move the existing content-build of VAMC banners with Situation updates behind a CMS feature toggle, and deprecate that code after real-time banner launch.
+
+## Collab cycle
+https://github.com/department-of-veterans-affairs/va.gov-team/issues/96762
