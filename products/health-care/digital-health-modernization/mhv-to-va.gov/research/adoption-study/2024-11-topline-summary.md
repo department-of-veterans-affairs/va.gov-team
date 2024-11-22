@@ -124,7 +124,7 @@ Further analysis is needed - They expected to be able to schedule directly under
 
 ## Other takeaways 
 
-8. 6 of 10 participants utilized a web search to locate the My HealtheVet national portal, indicating challenges associated with the site's naming convention. 
+8. 7 of 10 participants utilized a web search to locate the My HealtheVet national portal, indicating challenges associated with the site's naming convention. 
 
 > "I can never remember 'My HealtheVet' The whole 'evet' part just throws me off, I don't know why" - P1
 
