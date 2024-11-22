@@ -659,6 +659,58 @@ _\*_[_Data from VBA_](https://dvagov.sharepoint.com/:x:/s/vaabdvro/EWXd8j_Wm3xAi
 1. To be determined based on next steps discussed by the team.
 
 
+
+## **Appendix**<a id="appendix"></a>
+
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-10-VSO-VAbenefits-interviews/research-plan.md)
+
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-10-VSO-VAbenefits-interviews/conversation-guide.md)
+
+- [Support documentation](https://dvagov.sharepoint.com/:f:/s/vaabdvro/Esq_o_NQsAhFlPb5eLnwd68BG-hkfZaWB09jhMQBS5TfoQ?e=E69Dbs)
+
+
+### **Tools used for Synthesis**
+
+- [EnjoyHQ](https://app.enjoyhq.com/sh/pj/3225a38e-70ee-47a2-901b-6b575c18743b)
+
+- [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727812599650/c31988abba10956de9f901a4af255cee92631aa0?sender=u36b374887f74c9a3de2d0750)
+
+
+### **Pages and Applications Used**
+
+- None
+
+
+### **Other Supporting Documents Created**
+
+- None
+
+
+### **Secondary Research**
+
+- [GitHub research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research)
+
+- VA Form 21-4138
+
+  - [VA Form 21-4138 Designs](https://www.figma.com/design/w2tRlZ5qJSOF968XoWzBRg/Staging-%7C-21-4138---Submit-a-statement-to-support-a-claim?t=cSwlM64pc0u7g2jO-0)
+
+  - [VSO VA Form 21-4138 Research](https://dvagov.sharepoint.com/:b:/s/vaabdvro/EZFzIfLNLOpBkDoQUvqoYukBaM7NMlafmc9Q7SyKZiNvVQ?e=osSgHY)
+
+- Tool Demos
+
+  - [All representative tools](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7BB03E2748-5445-44E0-9F5B-AD8C57DBDF02%7D\&file=Comparative%20Analysis.xlsx\&action=default\&mobileredirect=true)
+
+  - [All SEP demo information](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?csf=1\&web=1\&e=esHqnH\&CID=e230353d%2Dc1d9%2D4a6b%2Dba25%2Dc6c38fbf0052\&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947\&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representative%20Facing%2FPOA%2021%2D22%2F2024%5F01%20Current%20State%20Analysis%2FSEP\&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72)
+
+  - [VBMS demo video](https://dvagov.sharepoint.com/:v:/s/vaabdvro/Ecu9_EgRZwpPgt7jd0l4j6kB8eClpSSvdQNGE3zyMaEeHA?e=quhspB)
+
+  - [VBMS walkthrough notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/2024-01%20Current%20State%20Analysis/VBMS-walkthrough-notes.md)
+
+- [PDF accessibility laws](https://open.substack.com/pub/deptcivicthings/p/the-elephant-in-the-new-accessibility?r=364ebj\&utm_campaign=post\&utm_medium=email)
+
+- [VBA secondary research](https://dvagov.sharepoint.com/:f:/s/vaabdvro/ErCuEJhZ2r5Fo4HrAwn6gBkBTr11ZUM2HIeREAE6GY8q2A?e=oYTIbs)
+
+
 ## **Who we Talked To**
 
 ### **Recruitment Criteria**
@@ -739,57 +791,7 @@ Participants had to be VSO representatives who recently supported a Veteran with
   - 1 Vetops
 
   - 1 Vetraspec
-
-
-## **Appendix**<a id="appendix"></a>
-
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-10-VSO-VAbenefits-interviews/research-plan.md)
-
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-10-VSO-VAbenefits-interviews/conversation-guide.md)
-
-- [Support documentation](https://dvagov.sharepoint.com/:f:/s/vaabdvro/Esq_o_NQsAhFlPb5eLnwd68BG-hkfZaWB09jhMQBS5TfoQ?e=E69Dbs)
-
-
-### **Tools used for Synthesis**
-
-- [EnjoyHQ](https://app.enjoyhq.com/sh/pj/3225a38e-70ee-47a2-901b-6b575c18743b)
-
-- [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727812599650/c31988abba10956de9f901a4af255cee92631aa0?sender=u36b374887f74c9a3de2d0750)
-
-
-### **Pages and Applications Used**
-
-- None
-
-
-### **Other Supporting Documents Created**
-
-- None
-
-
-### **Secondary Research**
-
-- [GitHub research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research)
-
-- VA Form 21-4138
-
-  - [VA Form 21-4138 Designs](https://www.figma.com/design/w2tRlZ5qJSOF968XoWzBRg/Staging-%7C-21-4138---Submit-a-statement-to-support-a-claim?t=cSwlM64pc0u7g2jO-0)
-
-  - [VSO VA Form 21-4138 Research](https://dvagov.sharepoint.com/:b:/s/vaabdvro/EZFzIfLNLOpBkDoQUvqoYukBaM7NMlafmc9Q7SyKZiNvVQ?e=osSgHY)
-
-- Tool Demos
-
-  - [All representative tools](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7BB03E2748-5445-44E0-9F5B-AD8C57DBDF02%7D\&file=Comparative%20Analysis.xlsx\&action=default\&mobileredirect=true)
-
-  - [All SEP demo information](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?csf=1\&web=1\&e=esHqnH\&CID=e230353d%2Dc1d9%2D4a6b%2Dba25%2Dc6c38fbf0052\&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947\&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representative%20Facing%2FPOA%2021%2D22%2F2024%5F01%20Current%20State%20Analysis%2FSEP\&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72)
-
-  - [VBMS demo video](https://dvagov.sharepoint.com/:v:/s/vaabdvro/Ecu9_EgRZwpPgt7jd0l4j6kB8eClpSSvdQNGE3zyMaEeHA?e=quhspB)
-
-  - [VBMS walkthrough notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/2024-01%20Current%20State%20Analysis/VBMS-walkthrough-notes.md)
-
-- [PDF accessibility laws](https://open.substack.com/pub/deptcivicthings/p/the-elephant-in-the-new-accessibility?r=364ebj\&utm_campaign=post\&utm_medium=email)
-
-- [VBA secondary research](https://dvagov.sharepoint.com/:f:/s/vaabdvro/ErCuEJhZ2r5Fo4HrAwn6gBkBTr11ZUM2HIeREAE6GY8q2A?e=oYTIbs)
+ 
 
 
 ### **Quotes**
