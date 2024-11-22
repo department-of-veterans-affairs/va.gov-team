@@ -172,7 +172,9 @@ Half of the participants experienced friction with the notice of evidence needed
 
 > “No, I probably would have gone back to the start and done the whole thing over. But here it is. I see it. Yeah, there it is. Okay. Well, that's that makes me feel dumb.” P10
 
-* One mentioned that the Supplemental Claim is being submitted within the year, so they shouldn’t have to verify that they’ve read the notice.
+* Two mentioned that the Supplemental Claim is being submitted within the year, so they shouldn’t have to verify that they’ve read the notice.
+
+> "What what I'm trying to think is is that I need to read that if it's been more than a year, maybe it's been less than a year do I still have to check it or can I just bypass it?" P6
 
 > “Okay, obviously, the I certify that I've reviewed the notice of evidence. This is, it's not matching. Because the 1st one is saying, if you're filing claim. More than one year after you got your decision, you need to review the notice of evidence needed. However, underneath it's requiring you to review the notice of evidence needed.” P11
 
