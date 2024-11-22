@@ -88,7 +88,9 @@ The expectation that My HealtheVet links (in the global header, authenticated me
 
 Clicked on My HealtheVet in the Secondary Nav participant is trying to go backward by clicking that My Healthevet in the secondary navigation
 
-> "Expected it to take me to the page I was just at. But it left me on the new version?" - P 12 
+> "Expected it to take me to the page I was just at. But it left me on the new version?" - P 12
+
+> "Depending on which button you hit at what time, it's gonna look different so it's important you understand what terms you're looking for. So right now I just went back to VA.gov."  - P11
 
 **URL reliance and confusion:** A few participants some relied on URLs for orientation, the integration of VA.gov within the MHV national portal URL proved confusing. 
 
@@ -97,6 +99,8 @@ Clicked on My HealtheVet in the Secondary Nav participant is trying to go backwa
 2. Once users try out the new portal, do they understand how to return?
 
 **While participants identified ways to access My HealtheVet on VA.gov in the future (such as using bookmarks), the sessions did not definitively establish their ability to navigate back to My HealtheVet on VA.gov and often participants voiced circuitous routes to return.**
+
+> "I would honestly have to pock around bc I would not know how to get to this again." (VA.gov version) - P12
 
 3.  Are changes made to the national portal language or tools causing confusion?
 
@@ -117,6 +121,11 @@ Further analysis is needed - They expected to be able to schedule directly under
 > "Streamlined options all on one site." - P9
 
 > "To me, you all are trying to improve our care...including community care." - P10
+
+**Tool specific** 
+
+Medications 
+> "Traditionally I wouldn't be able to click one button to fill them all. I'd have to go down the list and hunt and pick the ones that were ready" - P12
 
 **The secondary navigation proved effective for both orientation and navigation across tools.** 
 
