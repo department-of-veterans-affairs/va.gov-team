@@ -34,7 +34,7 @@
 - H1: Check your remaining Post-9/11 GI Bill benefits
 
 **2) Print Benefit Tool Info authenticated page - Existing**
-- URL: va.gov/education/your-post-9-11-gi-bill-benefits/print/
+- URL: va.gov/education/check-remaining-post-9-11-gi-bill-benefits/status/print/
 - Breadcrumb: VA.gov home > Education and training > Your Post-9/11 GI Bill benefits
 - H1: Your Post-9/11 GI Bill Statement of Benefits
   
@@ -47,7 +47,7 @@ Current URL | Redirect to | Notes
 --- | --- | ---
 https://www.va.gov/education/check-post-9-11-gi-bill-benefits/ | va.gov/education/check-remaining-post-9-11-gi-bill-benefits/ | Drupal page, [redirect by PW team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94306)
 va.gov/education/gi-bill/post-9-11/ch-33-benefit/status | va.gov/education/check-remaining-post-9-11-gi-bill-benefits/status/ | Authenticated tool, [redirect by EDM team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97680)
-va.gov/education/gi-bill/post-9-11/ch-33-benefit/status/print/ | va.gov/education/your-post-9-11-gi-bill-benefits/print/ | Print view, authenticated, [redirect by EDM team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97680)
+va.gov/education/gi-bill/post-9-11/ch-33-benefit/status/print/ | va.gov/education/check-remaining-post-9-11-gi-bill-benefits/status/print/ | Print view, authenticated, [redirect by EDM team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97680)
  
 
 
