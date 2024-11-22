@@ -37,11 +37,7 @@ This audit documents the user flow for creating a new Login.gov and ID.me accoun
     - If name on [Login.gov](http://login.gov/) account doesn't match phone accountholder doesn't match, it will likely get denied UNLESS user has had the phone for at a minimum 2 years (but sometimes longer).
         -   Note: in  my case, I've had this phone number for 20 years and it failed to pass.
     - Having multiple lines under varying names can also cause denial in verification.
-- When identity verification isn't successful on Login.gov, users who need to verify in person can do so at their local US Postal Service. To search for USPS locations, users are **required to search with all of the following fields** instead of just address or zip code.
-  - Address
-  - City
-  - State
-  - Zip
+- When identity verification isn't successful on Login.gov, users who need to verify in person can do so at their local US Postal Service. To search for USPS locations, users are required to search with a detailed address that includes **all* of the following fields: Street address, City, State, Zip Code. Conversely, [USPS only requires a zip code to search for locations on their website.](https://tools.usps.com/locations/)
 - "Authentication method" language was flagged as unclear during research, but the term is defined and explained in earlier screens within the user flow.
 - When uploading documents for identity verification on ID.me, it's not clear that the user has the option to take a photo (language says "Select" photo).
 - After creating an unverified Login.gov account, the VA mobile app displayed an unclear warning message banner, which says: "Your email address has already been confirmed."
