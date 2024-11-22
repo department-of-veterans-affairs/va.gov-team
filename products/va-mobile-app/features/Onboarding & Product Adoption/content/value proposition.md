@@ -22,24 +22,38 @@ The mobile app doesn't exist in a vacuum. It's one part of the larger VA ecosyst
 
 _**Gathering Veteran perspectives**_
 
-Over a few weeks, we gathered information on the Veterans' perspective of the app's value. We took key words and phrases from the most recent 9 months of app store reviews as well as research and user interviews that have happened over the last several years and feedback from Veterans during the app's MVP discovery activities. We groups similar key words and phrases to reveal larger concepts about what Veterans focused most on when talking about the value of the app to them in their lives.
+Over a few weeks, we gathered information on the Veterans' perspective of the app's value. We took key words and phrases from the most recent 9 months of app store reviews as well as research and user interviews that have happened over the last several years and feedback from Veterans during the app's MVP discovery activities. We grouped similar key words and phrases to reveal larger concepts about what Veterans focused most on when talking about the value of the app to them in their lives.
 INSERT LINK TO MURAL - NEED TO MOVE MURAL TO VA INSTANCE
 
 _**Gathering team/stakeholder perspective**_
 
-We completed a worksho with the purpose of gathering and synthesizing key themes of the mobile app’s value from the perspective of various stakeholders and interested parties. We didn't write the value proposition in this workshop. Instead, we collected diverse perspectives on its value and then grouped similar ideas to reveal themes.
+We also completed a workshop with the purpose of gathering and synthesizing key themes of the mobile app’s value from the perspective of various stakeholders and interested parties. We didn't write the value proposition in this workshop. Instead, we collected diverse perspectives on its value and then grouped similar ideas to reveal themes.
 INSERT LINK TO MURAL - NEED TO MOVE MURAL TO VA INSTANCE
 
 _**Comparing Veteran vs. team perspectives**_
 
+After gathering all these perspectives, we compared our findings and found that our team and Veterans had a similar mental model for the app's value.
+
+ Veterans top key words/themese included:
+ 1. Everything in one place
+ 2. Personalized/my stuff
+ 3. Easy of use, quick, convient, simple
+ 4. Helps manage care/communicate with providers
+
+Team top themes included:
+1. All in one place
+2. Focused on what Veterans need/care about (touches on personalization, simplicity)
+3. Always in my pocket
+4. Features that make things easier (biometric sign in)
+5. Accessbility
 
 _**Drafting and getting feedback/approval**_
 
+Next, our team's content designer (Misty Milliron-Grant) drafted multiple value proposition versions. She got feedback on final versions from both the team and Danielle Thierry (CAIA). Once a final value proposition was determined, Misty shared it via DSVA Slack with VA Mobile App POs (Rachel Han, Ryan Thurlwell, and Don McCaughey). Misty also presented the final value 
 
 
 ## Important parts of value prop
 
-Third-person version
 With the VA: Health and Benefits app, (specific about what part of the VA ecosystem we’re talking about)
 Veterans (our core users base)
 can manage the VA health care and benefits (nod to VA omnichannel)
