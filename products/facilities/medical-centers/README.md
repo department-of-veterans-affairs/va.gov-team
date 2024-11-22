@@ -37,11 +37,24 @@ Additional inputs are
 
 ## Major VAMC features
 VAMCs are comprised of many features deriving from Drupal. Major features include: 
-* VAMC banners with situation updates
-* Billing and Insurance pages
+* VAMC System
+* VAMC Facility
+* VAMC Health Services
+* VAMC Facility Health Service
+* VAMC banners with situation updates (including GovDelivery integration)
+* VAMC real-time banners
+* VAMC Detail Pages
+* VAMC Locations List
+* VAMC Operating status
+* VAMC Billing & Insurance
+* VAMC Medical Records office
+* VAMC Register for Care
+* VAMC Policies
+* VAMC Police
 * Lovell
 * Manila
-* ...
+
+
 
 ## Legacy artifacts
 - [**VSA VAMC product transition document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vamc-pages-transition.md) | March 2022
