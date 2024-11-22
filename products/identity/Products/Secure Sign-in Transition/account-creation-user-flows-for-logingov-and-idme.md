@@ -26,7 +26,7 @@ This audit documents the user flow for creating a new Login.gov and ID.me accoun
 ## Gaps in the user flow
 **Summary:** instances where the user needs to manually navigate to another page in order to move forward.
 - Unclear eauth timeout error messages are overly technical and don't contain next steps.
-- The user needs to navigate manually to VA.gov after verifying their email for Login.gov.
+- The user needs to navigate manually to VA.gov after verifying their email for ID.me.
 - [Link to detailed findings](https://www.figma.com/design/kjhHcpanHjaEGPcT7Oe5uC/User-flows-for-modern-CSP-account-creation?node-id=30-471&t=Wh11CihOhFh7Lcxm-4).
 
 ## Unclear UX
