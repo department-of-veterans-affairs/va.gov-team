@@ -5,6 +5,8 @@
 
 **CAIA Intake ticket: [96163](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96163)**
 **IA Tracker: [96262](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96262)** 
+**EDM Team redirect: [97680](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97680)** 
+**PW redirect: [94306](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94306)** 
 
 **On this page:**
 - [Page structure](#map)
