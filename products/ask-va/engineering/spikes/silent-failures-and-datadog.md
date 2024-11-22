@@ -1,3 +1,5 @@
+# Silent failures and datadog
+
 | Component  | Feature        | Cron | Logs | Dash | Slack  | Triage | FE:UI |
 |------------|----------------|:----:|:----:|:----:|:------:|:------:|:-----:|
 | Login      | ID.me          |  🟨  |  🟨 |  🟨  |  🟨    |  🟨    |  🟨   |
