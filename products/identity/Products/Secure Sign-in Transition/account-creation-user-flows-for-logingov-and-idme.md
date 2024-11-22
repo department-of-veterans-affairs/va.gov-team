@@ -33,7 +33,7 @@ This audit documents the user flow for creating a new Login.gov and ID.me accoun
 **Summary:** unexpected friction in the user experience, including unclear interactions and content.
 
 - The same phone number I used to set up MFA failed to pass identity verification. Volunteers at in-person signup days confirmed through [Login.gov](http://login.gov/) Help Desk:
-    - User's name and phone # must typically match public records check
+    - User's name and phone number must typically match a public records check.
     - If name on [Login.gov](http://login.gov/) account doesn't match phone accountholder doesn't match, it will likely get denied UNLESS user has had the phone for at a minimum 2 years (but sometimes longer).
         -   Note: in  my case, I've had this phone number for 20 years and it failed to pass.
     - Having multiple lines under varying names can also cause denial in verification.
