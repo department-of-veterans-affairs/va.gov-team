@@ -1,24 +1,40 @@
 # Value proposition
 
-Third-person version: With the VA: Health and Benefits app, Veterans can manage the VA health care and benefits tasks they do most often—all in one simple app.
+With the VA: Health and Benefits app, Veterans can manage the VA health care and benefits tasks they do most often—all in one simple app.
 
-Second-person version: Manage the VA health care and benefits tasks you do most often—all in one simple app.
+## Important parts of value prop
+
+With the VA: Health and Benefits app _**(specific about what part of the VA ecosystem we’re talking about)**_
+
+Veterans _**(our core user base)**_
+
+can manage the VA health care and benefits _**(wording from VA.gov's value proposition — a nod to VA omnichannel experience)**_
+
+tasks _**(Veterans do a “quick” VA thing versus learning all the VA things)**_
+
+they do most often _**(just what’s needed, not everything; personalized)**_
+
+—all in one simple app. _**(themes we found, like “all in one place,” a “simple, easy-to-use” experience; another nod to VA omnichannel)**_
 
 
-## Background
-
-In July 2024, the VA Mobile App team began a discovery phase on improving the app's user onboarding and product adoption. As part of this work, we documented our current end-to-end onboarding experience and performed a gap analysis against industry best practices. One of the main problems we identified was that we weren't communciating anything about the value of the app to Veterans. Instead, we were often just speaking to specific features. 
-
-We believed we had an idea about what the app's value proposition was. But it wasn't documented anywhere. Furthermore, we weren't sure our concept of the app's value aligned with that of Veterans. 
-
-We determined that before any additional changes could be made to the app's onboarding experience, we needed to develop and document the app's value proposition.
-
-## Why we need a value prop
-
-The mobile app doesn't exist in a vacuum. It's one part of the larger VA ecosystem. It's one way (out of many) in which Veterans can access and manage their VA health care and benefits. But while the mobile app is a part of a larger whole, it does have unique differentiators.
+Note: The approved mobile app's value proposition is a starting point, a statement that others can use as a guidepost when writing or communicating the value of the app. It can and should be adapted to suit the context in which it's applied. For example, 
 
 
-## How we got these versions
+## How we got our value prop
+
+### Background
+
+In July 2024, the VA Mobile App team began a discovery phase on improving the app's user onboarding and product adoption. As part of this work, we documented our current end-to-end onboarding experience and performed a gap analysis against industry best practices. Out of this work, we identified 2 problems:
+
+ 1. We weren't effectively communicating anything about the value of the app. Instead, the focus was on specific features.
+ 2. We also weren't putting any emphasis on the app's key differentiators within the VA ecosystem.
+
+Furthermore, our team believed we knew what the app's value proposition was. But it wasn't documented anywhere. And we weren't sure our concept of the app's value aligned with that of Veterans. 
+
+So we determined that before any additional changes could be made to the app's onboarding experience, we needed to develop and document the app's value proposition.
+
+
+### Discovery
 
 _**Gathering Veteran perspectives**_
 
@@ -47,26 +63,15 @@ Team top themes included:
 4. Features that make things easier (biometric sign in)
 5. Accessbility
 
-_**Drafting and getting feedback/approval**_
 
-Next, our team's content designer (Misty Milliron-Grant) drafted multiple value proposition versions. She got feedback on final versions from both the team and Danielle Thierry (CAIA). Once a final value proposition was determined, Misty shared it via DSVA Slack with VA Mobile App POs (Rachel Han, Ryan Thurlwell, and Don McCaughey). Misty also presented the final value proposition at the [Sprint 110 Demo meeting](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/demo#november-19-2024-sprint-110-va-mobile-sprint-demo---sprint-110pdf).
+### Drafts and approvals
+
+Finally, our team's content designer (Misty Milliron-Grant) drafted multiple value proposition versions. She got feedback on final versions from both the team and Danielle Thierry (CAIA). Once a final value proposition was determined, Misty shared it via DSVA Slack with VA Mobile App POs (Rachel Han, Ryan Thurlwell, and Don McCaughey). Misty also presented the final value proposition at the [Sprint 110 Demo meeting](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/demo#november-19-2024-sprint-110-va-mobile-sprint-demo---sprint-110pdf).
 
 
-## Important parts of value prop
+## What's next
 
-With the VA: Health and Benefits app, (specific about what part of the VA ecosystem we’re talking about)
-Veterans (our core users base)
-can manage the VA health care and benefits (nod to VA omnichannel)
-tasks (do a “quick” VA thing vs learning all the VA things)
-they do most often (just what’s needed, not everything; personalized)
-—all in one simple app. (“all in one place,” a “simple, easy-to-use” experience; another nod to VA omnichannel)
 
-Second-person version
-
-Manage your VA health care and benefits (personalized, nod to VA omnichannel)
-tasks (do a “quick” VA thing vs learning all the VA things)
-you do most often (just what’s needed, not everything; personalized)
-—all in one simple app. (“all in one place,” a “simple, easy-to-use” experience; another nod to VA omnichannel)
 
 
 
