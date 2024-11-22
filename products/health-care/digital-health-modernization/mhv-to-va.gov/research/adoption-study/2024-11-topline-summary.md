@@ -86,6 +86,10 @@ This confusion stemmed from several factors:
 
 The expectation that My HealtheVet links (in the global header, authenticated menu, and secondary navigation) would redirect to the national portal, and the belief that health links within My VA would keep users on VA.gov, led to navigational confusion among most participants.
 
+Clicked on My HealtheVet in the Secondary Nav participant is trying to go backward by clicking that My Healthevet in the secondary navigation
+
+> "Expected it to take me to the page I was just at. But it left me on the new version?" - P 12 
+
 **URL reliance and confusion:** A few participants some relied on URLs for orientation, the integration of VA.gov within the MHV national portal URL proved confusing. 
 
 > "I know I'm in MHV because I scroll up and it's there (looking at My HealtheVet logo but then notices VA.gov in URL) it's a little confusing. I'm not techy so maybe they're linked. I signed into MHV, but this says VA.gov. Did they already switch?" - P13
