@@ -35,6 +35,14 @@ Additional inputs are
 - [**Working with CMS team - Rules of Engagement**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md#working-with-cms-team---rules-of-engagement-roe)
 - [**Content management system README**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms#content-management-system)
 
+## Major VAMC features
+VAMCs are comprised of many features deriving from Drupal. Major features include: 
+* VAMC banners with situation updates
+* Billing and Insurance pages
+* Lovell
+* Manila
+* ...
+
 ## Legacy artifacts
 - [**VSA VAMC product transition document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vamc-pages-transition.md) | March 2022
 - [**CMS product sheets**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf) | December 2020
