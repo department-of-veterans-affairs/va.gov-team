@@ -213,50 +213,6 @@ Age:
 * 55-64: 3
 * 65+: 5
 
-Education:
-
-* High school degree or equivalent: 
-* Some college (no degree): 
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
-Geographic location:
-
-
-
-* Urban: x
-* Rural: x
-* Unknown: x
-
-Race:
-
-
-
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-Disability and Assistive Technology (AT):
-
-
-
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
-
 
 
 
