@@ -22,7 +22,7 @@ We’ll know we’re successful when the following are true.
 
 # 5. Delivery
 
-Delivery versions are represented in Github by Milestone. Each phase includes Research, Design, Testing, and Implementation. Features are prioritized using the benefits portfolio priority framework with consideration given to usability, feasibility, viability, and Veteran value. Details for each feature are listed below in section 6. Release timelines are represented as versions in the Submission Experience User Story Map. Each Version has in Github milestone that keep the user stories requred to ship that version organized.
+Delivery versions are represented in Github by Milestone. Each phase includes Research, Design, Testing, and Implementation. Features are prioritized using the benefits portfolio priority framework with consideration given to usability, feasibility, viability, and Veteran value. Details for each feature are listed below in section 6. Release timelines are represented as versions in the [Submission Experience User Story Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1732231610329/b35926154a670461fa8cf3d71b17150066701abb). Each Version has in Github milestone that keep the user stories requred to ship that version organized.
 
 ## 5.1 In Scope
 This initiative focuses on all paths for the submission and post submission experience.
