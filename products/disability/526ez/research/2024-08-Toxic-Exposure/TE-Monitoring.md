@@ -102,7 +102,7 @@ We still see the in progress form as a potential hotspot for problems with veter
 ## 526ez Success Metrics
 | Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|--|
-| TE Abandonment rates| - | - | 0% | 1.8% |1.7% |2.7% |n/a |2.58%|TE Opt-in rate|
+| TE Abandonment rates| - | - | 0% | 1.8% |1.7% |2.7% |n/a |2.58%|GA TE Abandonment By Section|
 | TE Opt-in rate* | - | - | 38% | 48% |46.1% | 44.8% | n/a |45.81% |TE Opt-in rate|
 | % of submissions that use normal path| 99.04% | ≤99.04%  | 94.34% | 88.9% | 97.7% |99.57%|n/a|98.7%| database queries |
 | % of uses of backup path | 0.94% | ≤0.94% | 5.66% | 11.07% | 2.03% |0.42% |n/a|1.16%| database queries |
