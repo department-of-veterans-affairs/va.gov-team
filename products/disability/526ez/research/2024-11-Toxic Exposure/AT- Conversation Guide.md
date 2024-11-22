@@ -11,7 +11,11 @@
 
 * Start a thread in \#feedback-backchannel  
 * Turn on transcriptions by clicking “Live Transcript” and “Enable”  
-* Have staging link, user id, and password ready
+* Have staging link, user id, and password ready  
+  * [vets.gov](http://vets.gov/).user+54@gmail.com  
+  * [vets.gov](http://vets.gov/).user+229@gmail.com  
+  * [staging link](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)  
+  * 
 
 ## **Starting the session**
 
@@ -28,13 +32,15 @@
 
 ## **Introduction \- 5 minutes**
 
-Thanks for joining us today\!  My name is \[FACILITATOR\] and \[NOTETAKER\] is taking notes. \[CAIA NAME\] will be joining to support any technology needs today. I work at VA.gov to help improve access to benefits and services for Veterans like you. 
+Thanks for joining us today\!  My name is \[FACILITATOR\] and \[NOTETAKER\] is taking notes. \[CAIA NAME\] will be joining to support any technology needs today.
 
 * **Today, we will be reviewing a section of the  disability compensation form on VA.gov.** This entire session should take about 90 minutes. I want to respect your time, so I may occasionally prompt you with the next question or topic so we finish promptly. 
 
 * **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 
-* **​​In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won’t be offended by any opinions you express.
+* **​​In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won’t be offended by any opinions you express. 
+
+* **Whenever you can, talk out loud to share your thought process as you complete tasks.** This will help me understand your experience. I might remind you to think out loud because this can feel unnatural and be easy to forget.
 
 * **We may look at things that have caused you frustration in the past, and I want you to know up front that I can’t have an impact on your personal situation.** However, I do want to hear about your frustrations with the website in case they are with things that we can improve on in the future.
 
@@ -59,28 +65,28 @@ Thanks for joining us today\!  My name is \[FACILITATOR\] and \[NOTETAKER\] is t
 
 ## **Warm-up Questions \- 10 minutes**
 
-Before we look at the website, let’s start with a few background questions.
+Before we look at the website, I’d also like to learn more about how you use assistive tech.
+
+* What assistive technology will you be using for today’s session?  
+* What device (desktop, mobile, operating system) are you joining us from?  
+* How long have you been using \[name of AT\]?  
+* How often do you use \[name of AT\]?  
+* How do you typically use \[name of AT\]?  
+* Do you have experience using \[name of AT\] to fill out online forms with VA?  
+  * What was that experience like for you? 
+
+### 
+
+**If the participant isn't using assistive technology:** Thanks for letting me know. Unfortunately, this particular research study is focused on assistive technology. Since you don't use assistive technology, we'll have to end the session now. We'll hopefully see you back here again for another study. Thanks for your time\!
+
+Thanks for sharing that information\! Now I have some general background questions to ask before we get started. 
 
 * Have you filed for disability compensation in the past? If so, how did you file the claim? (online, on paper, with VSO, etc)  
   * Have you been granted compensation for any of the conditions you filed for?  
 * Are you considering filing any new claims in the future? \[Use this to prompt the TE opt-in screen if needed\]  
 * Are you familiar with the Pact Act? If so, where did you learn about it?   
   * Do you think you are eligible? Why or why not?  
-* The questions we are looking at today are related to your military service history. If you’re comfortable sharing, it would be helpful to know when you served, and in which branch. 
-
-Thanks for sharing that information\! I’d also like to learn more about how you use assistive tech. 
-
-* What tool will you be using for today’s session?  
-* What device (desktop, mobile, operating system) are you joining us from?  
-* How long have you been using \[name of AT\]?  
-* How often do you use \[name of AT\]?  
-* How do you use \[name of AT\]?  
-* Do you have experience using \[name of AT\] to fill out online forms with VA in the past?  
-  * What was that experience like for you? 
-
-### **If the participant isn't using assistive technology**
-
-Thanks for letting me know. Unfortunately, this particular research study is focused on assistive technology. Since you don't use assistive technology, we'll have to end the session now. We'll hopefully see you back here again for another study. Thanks for your time\!
+* The questions we are looking at today are related to your military service history. If you’re comfortable sharing, when did you serve, and in which branch. 
 
 ---
 
@@ -88,7 +94,7 @@ Thanks for letting me know. Unfortunately, this particular research study is foc
 
 ## **Technology screenshare set-up**
 
-Thanks for sharing your experience with me. We’re going to shift gears and move into looking at VA.gov. 
+Thanks for sharing your experience with me. We’re going to shift gears and move into looking at our demo website for VA.gov. 
 
 We are now going to share your screen. Have you done this before?
 
@@ -102,25 +108,29 @@ We are now going to share your screen. Have you done this before?
   * [Desktop screen readers](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur#Screenreaderinstructionsandtroubleshootingduringresearch-Desktopscreenreaders)  
   * [iOS VoiceOver](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur#Screenreaderinstructionsandtroubleshootingduringresearch-iOSVoiceOver)  
   * [TalkBack Android](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur#Screenreaderinstructionsandtroubleshootingduringresearch-TalkBackAndroid)  
-* If testing with TTS software, like Dragon, ask the participant to share their full screen this way we can see the flags, grid, etc.  
 * If testing on VoiceOver (Mac), tell participants to navigate to "Share" (tab or they can do shift \+ command \+ S). Then, once they choose "Share," they need to share sound. They should tab until they hear "Share sound" and then check on. Then, choose, "Share" again to finish.  
+* If testing with TTS software, like Dragon, ask the participant to share their full screen this way we can see the flags, grid, etc.  
 * Ask the accessibility specialist to come off mute and assist.  
 * Be patient. Reassure the participant that this can be confusing and we're here to work through it together.  
 * If after trying everything, screen share still isn't working: We'll politely end the session.
 
 ## 
 
-\[For screen readers\] Would you mind turning on captioning for today’s session? This would help us understand what is going on as you navigate through the screens. 
+**\[For advanced screen readers only\]** Would you mind turning on captioning for today’s session? This would help us understand what is going on as you navigate through the screens. 
 
-* On NVDA it’s called “Speech Viewer” and it’s under the NVDA “Tools” menu.  
-* On VoiceOver it’s “Caption Panel” and under “Settings → Accessibility → VoiceOver”  
-* On JAWS it’s “Speech Viewer” under “JAWS Manager → Speech → Speech Viewer”
+* NVDA: (in the NVDA app) Tools \> Speech viewer  
+* JAWS: (in the JAWS app) Utilities \> Braille and Text Viewer \> Show Text Viewer  
+* VoiceOver MacOS: (in Mac Settings) Accessibility \> Open VoiceOver Utility \> Visuals \> Panels and Menus tab \> Show caption panel checkbox  
+* VoiceOver iOS / iPadOS: (in iPhone / iPad Settings) Accessibility\> VoiceOver \> Caption Panel toggle  
+* TalkBack: (Depends on Android) Accessibility \> TalkBack \> Settings \> Advanced Settings \> Developer settings \> Display speech output toggle
 
-## **Technology: Staging login**
+## **Technology: Staging Login**
 
-Next, we’re going to log onto the website where we’ll be looking at the new disability compensation form questions. Our recruiter, Perigean, was supposed to send you a link in advance.
+Just a warning \- there are quite a few pages we have to navigate through to get to our page in the form. We acknowledge this is difficult and we will guide you through every single step. Let us know if you need a break. 
 
-* Were you able to open that link?  
+**The first thing we’ll do is open your browser and go to our demo VA.gov website.** The website you are on should look like an exact copy of the standard VA.gov. However, we won't be able to access anything related to your regular account and benefits. Our recruiter, Perigean, told us that they would send you a link in advance.
+
+* Do you have the link open already?  
 * If no: That’s ok\! Do you have the link handy, or would you like me to send it again? I can email it, Zoom chat, or use another method. 
 
 **Link:** [https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
@@ -133,25 +143,17 @@ Next, we’re going to log onto the website where we’ll be looking at the new 
 
 ## 
 
-Now that you are on the website, it is time to log in. I have a user email and password for you to use. How would you like for me to send the information (Zoom chat, email, dictate)?
+**You will now need to sign in.**  About midway through the page there is a button that says "Sign in to start your application". Navigate to that and click that button.
+
+* We’ll have you sign-in with a fake ID.me account  
+  1. [vets.gov](http://vets.gov/).user+54@gmail.com  
+     2. [vets.gov](http://vets.gov/).user+229@gmail.com
 
 Request Accessibility specialist to support tech problem solving if issues occur.
 
 ## **Technology: Navigating to the Review & Submit Page** 
 
- 
-
-1. Just a warning \- there are quite a few pages we have to navigate through to get to our page in the form. We acknowledge this is difficult and we will guide you through every single step. Let us know if you need a break.   
-2. The first thing we’ll do is open your browser and go to our demo site, which will look like an exact copy of the standard VA.gov. However, we won't be able to access anything related to your regular account and benefits. The website is [https://tinyurl.com/conditiontest123](https://tinyurl.com/conditiontest123) OR [https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction) 
-
-3. You will now need to sign in. About midway through the page there is a button that says "Sign in to start your application". Navigate to that and click that button.
-
-4. We’ll have you sign-in with a fake ID.me account  
-   1. Username/password
-
-COPY AND PASTE USING iOS   
-To copy text, he would have to gain focus on the text to copy, use 3 fingers and tap 4 times. Or he can open the rotor and there should be an option to copy text selection
-
+   
 Okay, you should now be on the disability benefits application. We’re going to skip a few pages, I'll guide you to the correct page.
 
 1. About midway through the page there is a header “Already know this is the right form”. Navigate there and then Click on “If you know VA Form… is right, apply now”   
@@ -159,7 +161,7 @@ Okay, you should now be on the disability benefits application. We’re going to
 3. Ok the page has loaded, now navigate to “Continue your application” button   
 4. The page is loading   
 5. Now you’re on the intent to file page, press continue. You do not need to read anything on this page.   
-6. Ok, now are on the right page.
+6. Ok, now you are on the right page.
 
 ---
 
@@ -167,53 +169,56 @@ Okay, you should now be on the disability benefits application. We’re going to
 
 ## **First Task: \[Concept Test- Review and Submit alert\] \- 10 minutes**
 
-That was a lot to get through, thanks for your patience. Now we are ready to begin our first task. We are starting today’s session at the end of the disability compensation form, rather than the beginning. This screen is at the very end of the form. We filled out the form with fake data– none of the information listed is yours and will not impact your benefits in any way. 
+That was a lot to get through, thanks for your patience. Now we are ready to begin our first task. We are starting today’s session at the end of the disability compensation form, rather than the beginning. This screen is at the very end of the form in step 5 out of 5\. 
 
-Task: Review the screen and let me know when you are ready to submit your claim. Do not navigate away from this screen, but tell me verbally if you would like to go somewhere else.
+We filled out the form with fake data– none of the information listed is yours and will not impact your benefits in any way. 
+
+Task: Review the screen and let me know when you are ready to submit your claim. 
+
+Do not navigate away from this screen, but tell me verbally if you would like to go somewhere else.
 
 **Post-Task Questions**
 
-* Is there any more action for you to take on this page before submitting your claim?  
-  * What does “we updated our online form” \[the heading level 2\] mean to you? It’s in the middle of the page.  
-  * Are you familiar with the phrase “toxic exposure”? What does it mean to you?  
-* I noticed that you \[did or didn’t\] initially intend to answer the questions before submitting. Can you tell me why you made that decision?  
+* Is there anything else that you’d like to do before submitting your claim?  
+* Did any specific information stand out to you as you reviewed the page?  
+* In your own words, what do you think the text under the heading “we updated our online form” is communicating? \[Heading level 2, middle of the page\]   
+  * What does the phrase “toxic exposure” mean to you?  
+* Would you expect to answer the new questions before submitting?  
 * If you were to click on the link, where would you expect it to take you? 
 
-*Look out for: Misunderstanding of the alert content, understanding of eligibility, rationale for opting in or out*  
-
+*Look out for: Misunderstanding or missing the alert content, understanding of eligibility, rationale for opting in or out*  
 ---
 
 ## **Second Task: \[Navigate from alert to TE questions\] \- 5 minutes**
 
-Task: Navigate to the new questions that were added to the form.
+Task: Navigate the new questions that were added to the form.
 
 **Post-Task Questions**
 
-* On a scale of 1 to 5, how difficult or easy was it to complete this task? With 1 being very difficult and 5 being very easy?  
-  * Did you experience any challenges finding the link to this page?  
-* Where did the link take you? Is this where you expected to go?  
-* If you wanted to navigate back to the review and submit page, how would you do it? Talk me through it\!
+* On a scale of 1 to 5, how easy or difficult was it to complete this task, with 1 being very difficult and 5 being very easy?  
+* Did you have any trouble finding the link to access this page? If so, please describe the issue.  
+* Where did the link take you? Is this where you expected to go?
 
-*Look out for: Issues finding the link, confusion around location in the form*
+
+  
+*Look out for: Issues finding the link, confusion around location in the form*  
 ---
 
 ## **Third Task: \[Opt in to Toxic Exposure\] \- 5 minutes**
 
 Thanks for all of your feedback\! 
 
-Scenario: Imagine that you want to file for a condition that you developed as a result of  burn pit exposure during your military service. As a reminder, we’ve pre-filled the form with fake data, so the conditions listed on the page are not yours. 
+Imagine that you are a Veteran filing for disability compensation for new conditions. As a reminder, we’ve pre-filled the form with fake data, so the conditions listed on the page are not yours. 
 
-Task: Complete this screen as if one of your conditions resulted from exposure to burn pits during your service. 
+Task: Complete this screen as if one of your conditions resulted from exposure to Agent Orange during your service.
 
 **Post-task questions**
 
-* On a scale of 1 to 5, how difficult or easy was it to complete this task? With 1 being very difficult and 5 being very easy?  
-  * Was anything confusing or challenging about completing this task?   
-* \[If viewed TE hint text\] Was the additional information about toxic exposure helpful for completing this task?   
-* How would you answer this question if you were filing with your own personal information? 
+* On a scale of 1 to 5, how easy or difficult was it to complete this task, with 1 being very difficult and 5 being very easy?  
+* Is any information confusing or missing from this page?  
+* \[If viewed TE hint text or new tab\] Was the additional information about toxic exposure helpful? 
 
-*Look out for: Did participant view toxic exposure hint or have issues with the new tab? Confusion around new conditions vs rated disabilities.*
-
+*Look out for: Did participant view toxic exposure hint or have issues with the new tab? Any confusion/questions about toxic exposure eligibility?*  
 ---
 
 ## **Fourth Task: \[Complete location and date pages\] \- 15 minutes**
@@ -224,9 +229,11 @@ Task: Complete this screen as if one of your conditions resulted from exposure t
 
 For the rest of this session, you may use your military service to guide your answers to the questions. Are you comfortable doing so, or would you prefer a mock scenario?
 
-Scenario, if selected:  Imagine you are filing for disability compensation as a Veteran who served in multiple locations during the Gulf War and were exposed to various hazards during your service. 
+Scenario, if selected:  Imagine you are filing for disability compensation. You served in multiple locations during the Gulf War and were exposed to various hazards during your service. 
 
-Task:  Complete the questions about toxic exposure in the disability compensation form.
+Task: Complete the questions related to toxic exposure in the form. 
+
+Please talk out loud as you go; I may pause you to ask questions at various points. 
 
 ### **\[Gulf War 1990 location screen\]**
 
@@ -270,10 +277,10 @@ Task:  Complete the questions about toxic exposure in the disability compensatio
 
 **Post-task questions:**
 
-* On a scale of 1 to 5, how difficult or easy was it to complete this task? With 1 being very difficult and 5 being very easy?  
-* On a scale of 1 to 5, how confident did you feel about the accuracy of your answers? With 1 being not confident and 5 being very confident?  
-  * Were there ever moments that you were unsure of an answer? What did you do in those moments?  
-* Was there anything that made this task confusing or challenging to complete?  
+* On a scale of 1 to 5, how easy or difficult was it to complete this task, with 1 being very difficult and 5 being very easy?  
+  * Was there anything that made this task confusing or burdensome?  
+* On a scale of 1 to 5, how confident are you that your answers are accurate? With 1 being not confident and 5 being very confident?  
+  * Were there any moments during the task when you were unsure about what to do next or how to answer a question? If so, how did you handle those moments?  
 * Was the information on the summary screen helpful? 
 
 
@@ -282,47 +289,55 @@ Task:  Complete the questions about toxic exposure in the disability compensatio
 
 ## **Fifth task: \[Edit response from summary screen\] \- 10 minutes**
 
-For this final task, I would like for you to imagine that you made a mistake while entering a location or date. 
+For this task, I would like for you to imagine that you made a mistake while entering a location or date. 
 
 1) Change one date range entry to January 1, 2000\.   
-2) Remove a date range.  
-3) Add a new location.
+2) Add a new location.
 
 **Post-task questions:** 
 
+* On a scale of 1 to 5, how easy or difficult was it to complete this task, with 1 being very difficult and 5 being very easy?  
+  * What, if anything, was burdensome about the process?  
+* On a scale of 1 to 5, how confident are you that your answers are accurate? With 1 being not confident and 5 being very confident?
+
+## **Sixth task: \[If time allows: Navigate back to Review and Submit page\]**
+
+Thanks for all of your feedback. 
+
+For today’s final task, I’d like you to return to the review and submit page where we started today’s session. As a reminder, this is at the end of the form– Step 5 of 5\. 
+
+**Post-task questions**
+
 * On a scale of 1 to 5, how difficult or easy was it to complete this task? With 1 being very difficult and 5 being very easy?  
-  * What about the experience made it easy or difficult?   
-* On a scale of 1 to 5, how confident are you that all of your answers are correct?  
-  * Why do you feel that way?   
-* What would you expect to do next? Talk me through how you’d do it. 
+* On a scale of 1 to 5, how confident are you that your answers are accurate? With 1 being not confident and 5 being very confident?  
+* Is there anything else you would do before submitting the form?
 
 ---
 
 ## **Wrap-up Questions- 5-10 minutes**
 
-* Please rate your experience with responding to toxic exposure questions.   
+* Please rate your experience responding to toxic exposure questions.   
   * Very bad  
   * Somewhat bad  
   * Neither bad nor good  
   * Somewhat good  
   * Very good  
-* Please rate how understandable this site's information is.  
+* Please rate how understandable today’s experience was.  
   * Difficult to understand  
   * Somewhat difficult to understand  
   * Some is easy, some is difficult  
   * Somewhat easy to understand  
   * Easy to understand  
-* How did this interaction change your trust in Veterans Affairs?  
+* How did this research session change your trust in Veterans Affairs?  
   * Decreased my trust  
   * Somewhat decreased my trust  
   * Neither increased nor decreased my trust  
   * Somewhat increased my trust  
-  * Increased my trust  
-      
-* Were there any tasks that you found confusing or hard to complete? If so, which ones and why?  
-* Did you find that any of the headers, labels, or links unclear or unhelpful?
+  * Increased my trust
 
-*  If you had a magic wand and could improve one thing about the section, what would you change and why?  
+* Were there any tasks that you found confusing or burdensome to complete?  
+* Did you find that any of the headers, labels, or links unclear or unhelpful?  
+* How confident are you that the information you provided is accurate and sufficient to support your compensation claim?  
 * Is there anything else you'd like to share about your experience using the form with \[AT tool\]?
 
 ---
@@ -383,5 +398,3 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 * Crisis: 988 & select 1, or text 838255  
 * Benefits Hotline: 800-827-1000  
 * Health Benefits Hotline: 800-827-1000
-
-### 
