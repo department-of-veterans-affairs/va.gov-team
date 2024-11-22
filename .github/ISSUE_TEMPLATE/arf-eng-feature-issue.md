@@ -2,7 +2,7 @@
 name: ARF Engineering Feature Issue
 about: Feature issue template for the ARF Engineering team
 title: ''
-labels: ['accredited-rep-facing', 'arf-eng']
+labels: ['accredited-rep-facing', 'arf-eng', 'backend']
 assignees: ''
 
 ---
@@ -18,30 +18,14 @@ assignees: ''
 #### Mockups/Designs
 <!-- Include any available mockups or design elements -->
 
-#### Prerequisites/Dependencies
-<!-- List any prerequisites or dependencies -->
-
 #### Blockers
 <!-- Identify any potential obstacles -->
 
-#### Specifications
-<!-- Detail the technical specifications required -->
 
-### Acceptance Criteria
+### Acceptance Criteria/Conditions of Satisfaction
 <!-- Specify criteria for ticket completion -->
 - [ ]
-
-#### Testing Criteria
-<!-- Outline the testing criteria (to be defined by the engineering team) -->
 
 #### Automated Testing
 <!-- Indicate the requirement for automated testing beyond unit tests -->
 
-#### Documentation
-<!-- Ensure relevant documentation is created or updated -->
-
-#### Monitoring
-<!-- Implement monitoring where appropriate (to be defined by the engineering team) -->
-
-#### PII/PHI Security
-<!-- Verify that personally identifiable information/protected health information is secure -->
