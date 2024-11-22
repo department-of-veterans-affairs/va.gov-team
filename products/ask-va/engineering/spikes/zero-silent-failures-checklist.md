@@ -18,7 +18,7 @@ I copied this checklist from [this GitHub doc](https://github.com/department-of-
   * 💬 Our application isn't currently shipped to production yet. We're expecting to ship April 9 ([see Mural timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12)).
 * [x] Did your application use the same APIs when it shipped as it does today?
   * If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
-  * 💬 See message above. Here's a [list of the APIs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration) we'll be using.
+  * 💬 See message above. Here's a [list of the APIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/silent-failures-and-datadog.md) we'll be using.
 ## Monitoring
 
 * [ ] Do you monitor the API that you submit to via Datadog? 
