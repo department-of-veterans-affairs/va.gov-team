@@ -727,7 +727,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 #### October 30 - November 6: Pittsburgh Global UX and Navigation
 *VA: Kevin Hoffman*
 - 16 participants
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/left-nav/research-plan.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2019-vamc-navigation/left-nav/research)
 
 #### October 28 – November 1: Facility Locator Discovery
 *Ad Hoc: Aricka Lewis*
