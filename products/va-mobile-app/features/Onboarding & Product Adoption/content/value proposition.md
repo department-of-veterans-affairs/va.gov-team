@@ -49,7 +49,7 @@ Team top themes included:
 
 _**Drafting and getting feedback/approval**_
 
-Next, our team's content designer (Misty Milliron-Grant) drafted multiple value proposition versions. She got feedback on final versions from both the team and Danielle Thierry (CAIA). Once a final value proposition was determined, Misty shared it via DSVA Slack with VA Mobile App POs (Rachel Han, Ryan Thurlwell, and Don McCaughey). Misty also presented the final value 
+Next, our team's content designer (Misty Milliron-Grant) drafted multiple value proposition versions. She got feedback on final versions from both the team and Danielle Thierry (CAIA). Once a final value proposition was determined, Misty shared it via DSVA Slack with VA Mobile App POs (Rachel Han, Ryan Thurlwell, and Don McCaughey). Misty also presented the final value proposition at the [Sprint 110 Demo meeting](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/demo#november-19-2024-sprint-110-va-mobile-sprint-demo---sprint-110pdf).
 
 
 ## Important parts of value prop
