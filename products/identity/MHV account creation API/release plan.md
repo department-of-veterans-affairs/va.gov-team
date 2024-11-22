@@ -120,3 +120,32 @@
 - Trevor Bosaw - Lead Backend Engineer
 - Lainey Trahan - Product Manager
 - OCTO - Tom Black and Samara Strauss
+
+
+
+
+**NOTES FROM MEETING ON 11.22.2024**
+Identity, Sara, Wes, Mark, Allan, Daniel, Robyn (VA)
+Account Creation API is currently at 100% in PROD as of 11.22.24
+
+Cartography 
+- Owns the landing page on MHV
+- Responsible for consistency of user experience
+- Need to communicate changes with the other tool teams so they can get onboard with how they change their apps to be responsive to the updates (to maintain consistency)
+- Lots of responsibility with downstream impacts
+
+Joe
+- Time to start checking your applications and the errors the apps are getting
+
+Questions from Cartogrpahy
+- Sara: Cache buster = redis cache that stores user attributes, we are breaking the value (originally from MPI) of that cache with the newly updated value. Next time the user logs in, they will have the updated UUID from the busted cache.
+- Sara: Caching error responses from the API for 24 hours. Will the error response be stored for 24 hours? We do no fulfill the MHV response if there was an error - you would have to call the account creation API again
+- There are 4 codes that require calling the help desk to get a manual resolution
+**- Sara: needs a list of errors that require the user to call the help desk** --- Robyn recommends syncing with Patti and Carnetta
+- Daniel - is there documentation that's completed about the endpoint and cache busting calls. Joe -- you should have the documentation needed from what Riley wrote up.
+
+- Next steps:
+1. list of errors that require the user to call the help desk --- Robyn recommends syncing with Patti and Carnetta
+2. Wes - can we collaborate on a sequence diagram? How might we know when a call is successful v the different error states and what to do for each of these cases.
+3. Joe recommends drafting backwards from their apps to MHV account creation api... then Identity can help fill in what identity does
+4. Joe will determine how errors are cached or not? When they make a call, will it change the cache?
