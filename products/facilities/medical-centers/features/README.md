@@ -1,6 +1,7 @@
 # VAMC features
 
 VAMCs are comprised of many features, mostly deriving from Drupal. Major features include: 
+* Centralized Content
 * VAMC System
   * Lovell
   * Manila
