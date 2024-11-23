@@ -67,9 +67,9 @@ Target Launch Date: Originally late June/early July; this date shifted based on 
 #### Team Members
  
  - DEPO Lead: Jennifer Bertsch
- - PM: Mike Marinos
- - Engineering: Gabriel Zurita, Oren Mittman, Tanner Heffner, William Phelps, Darius Dzien, Athif Wulandana
- - Research/Design: Renata Keck, Rebecca Blakiston, Kristen Faiferlick, Ben Nguyen, Michael Tri, Jim Ryan, Danielle Oppendike
+ - PM: Candi Lemoine
+ - Engineering: Oren Mittman 
+ - Research/Design: Eva Heintzelman
 
 #### Stakeholders
 
