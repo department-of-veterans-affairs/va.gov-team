@@ -1,5 +1,5 @@
 # Ask VA zero silent failures checklist
-Last updated on November 22, 2024 by: @beckyphung
+Last updated on November 25, 2024 by: @beckyphung
 
 I copied this checklist from [this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-discover-if-your-app-has-silent-failures.md#checklist). 
 
@@ -16,7 +16,7 @@ I copied this checklist from [this GitHub doc](https://github.com/department-of-
   * If not, use Github to determine, roughly, when your application shipped to users.
   * 💬 **Our application isn't currently shipped to production yet. We're expecting to ship April 9 ([see Mural timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12)).**
   * ❓ Follow up with the current AVA team on silent failures/monitoring on their current portal.
-  * ❓ What isthe current AVA team's SLA/on call times?
+  * ❓ What is the current AVA team's SLA/on call times?
 * [ ] Did your application use the same APIs when it shipped as it does today?
   * If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
   * 💬 **See message above. Here's a [list of the APIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/silent-failures-and-datadog.md) we'll be using.**
