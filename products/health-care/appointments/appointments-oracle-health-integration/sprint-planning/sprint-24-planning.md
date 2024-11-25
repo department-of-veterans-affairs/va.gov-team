@@ -40,7 +40,7 @@ In Sprint 23 the team provided support for multiple features and initiatives, ou
 * 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
     *  [#94576 CES-917: Unify appointment search parameters](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94576)
     *  [#94543 Migrate VAOS appointment ~sepcs~ **_specs_** to separate files](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94543)
-    *  [#95577 CES-1202: update to mobile-framework 2.2.0](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95577) 
+    *  VetsAPI Patient Gateway was updated to mobile-framework 2.2.0
 * 🔵 Direct Scheduling
     * [CES-1242: VPG: source veteran Cerner ID from mobile-mvi-service during eligibility check](https://issues.mobilehealth.va.gov/browse/CES-1242)
     * [CES-1270 CES: Determine EHR on appointment creation request](https://issues.mobilehealth.va.gov/browse/CES-1270)
