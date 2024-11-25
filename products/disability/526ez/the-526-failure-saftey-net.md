@@ -68,6 +68,9 @@ There are 3 ways a submission can reach a success state in our scope of responsi
 **Old version**
 - IF a submission has a value for `submitted_claim_id`
 - THEN it is considered successful
+  
+
+This state is typically reached via the following steps
 
 - the vets-api app enqueues the [SubmitForm526AllClaim](https://github.com/department-of-veterans-affairs/vets-api/blob/4a88293ea5203af450f88189eec1f1f3041aae16/app/models/form526_submission.rb#L106) job
 - This job attempts to submit this claim to an external API (currently EVSS) with retries.
@@ -75,7 +78,7 @@ There are 3 ways a submission can reach a success state in our scope of responsi
 - The job saves this foreign key on the `Form526Submission` as it's `submitted_claim_id`.
 
 **Current version**
-The current version includes a case for success the old way as well as a new way in which a submission is successfully sent to the Lighthouse Claims API and a successful PDF upload status is returned later via polling. [see this ticket for more details!]https://github.com/department-of-veterans-affairs/va.gov-team/issues/90175).
+The current version includes a case for success the old way as well as a new way in which a submission is successfully sent to the Lighthouse Claims API and a successful PDF upload status is returned later via polling. [see this ticket for more details!](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90175).
 
 This state is typically reached via the following steps
 
