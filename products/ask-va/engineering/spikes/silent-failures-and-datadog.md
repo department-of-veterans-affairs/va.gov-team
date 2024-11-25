@@ -1,4 +1,5 @@
 # Silent failures and datadog
+We'll use the following matrix to monitor each point of failure in Datadog, from logging in Datado to communicating the error to the user.
 
 | Component  | Feature        | Cron | Logs | Dash | Slack  | Triage | FE:UI |
 |------------|----------------|:----:|:----:|:----:|:------:|:------:|:-----:|
