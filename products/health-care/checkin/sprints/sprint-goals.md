@@ -14,10 +14,11 @@
     - 🟥 [Create Wireframes for OH Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97420)
 - **Community Care Direct Scheduling**   
     - 🟥 [Add annotations for referral and requests link behavior #96632](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96632)
-    - TESTING
-        - 🟥 [Determine Veteran-facing UAT plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97424)
-    - NOTIFICATIONS
-       - 🟥🟫 [Create Wireframe & Content for Aynsychronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96418)
+    - FE STEP 2 - Mock Data
+        - [Refactor fetchReferralById action and complete unit test for useGetReferralById hook](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97724)
+    - FE STEP 2 - Appointments Page
+        - [Implement single referral hook (useGetReferralById) for referraltaskCard component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97636)
+        - [Fetch referrals for referrals and requests page.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97642)
     - FE STEP 4 - Schedule an Appointment with your Provider Page
         - 🟩[Unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95274)
         - 🟩 [Hook up to mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95271)
@@ -28,6 +29,10 @@
         - 🟦[Implement merge_eps_appointments method in AppointmentsService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96412)
         - 🟦 [Implement create_draft_appointment method](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96413)
         - 🟦 [Implement create_appointment method](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96414)
+    - NOTIFICATIONS
+       - 🟥🟫 [Create Wireframe & Content for Aynsychronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96418)
+   - TESTING
+       - 🟥 [Determine Veteran-facing UAT plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97424)
 - **Travel Claims for Past Appts**
     - 🟩 [Handle error state when travel link cannot be retrieved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96580)
     - 🟩 [Change appointment details page content to reflect updated mileage-only travel policy](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96865)
