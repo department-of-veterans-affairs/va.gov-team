@@ -15,7 +15,7 @@ Feature Toggle/flag:
 
 #### Content Preparation
 - [ ] The react widget has been added to the landing page
-- [ ] Entry points are ready to be redirected to the landing page ❓
+- [ ] Entry points to our landing page are ready to be added to the "About VA Form" pages for the [21-22](https://www.va.gov/find-forms/about-form-21-22/) and [21-22a](https://www.va.gov/find-forms/about-form-21-22a) 
 
 #### Technical Preparation
 - [ ] Enable backend feature flag `use_veteran_models_for_appoint` to use the legacy tables (since the Accreditation API is not yet available)
@@ -60,8 +60,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 **Go/No Go meeting Friday January 3, 2025**
 1. Stage A: 10% of users on 1/6 (Monday) 
 2. Stage B: 50% of users on 1/8 (Wednesday)
-3. Stage C: 100% of users on 1/13 (Monday) + launch best bets for an initial boost to visibility 
-4. Stage D: Entry points and redirects on ❓ to increase visibility of the [Appoint a Representative indroduction page](=(https://www.va.gov/get-help-from-accredited-representative/appoint-rep/introduction) ❓
+3. Stage C: 100% of users on 1/13 (Monday) + launch best bets for an initial boost to visibility + publish entry points
 
 *** 
 
