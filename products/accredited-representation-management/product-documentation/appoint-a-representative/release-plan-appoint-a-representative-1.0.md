@@ -58,7 +58,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ## Staged Rollout Schedule
 **Go/No Go meeting Friday January 3, 2025**
-1. Stage A: 10% of users on 1/6 (Monday) 
+1. Stage A: 10% of users on 1/6 (Monday) + [implement Datadog monitoring in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92287)
 2. Stage B: 50% of users on 1/8 (Wednesday)
 3. Stage C: 100% of users on 1/13 (Monday) + launch best bets for an initial boost to visibility + publish entry points
 
