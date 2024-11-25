@@ -76,7 +76,7 @@ These OKRs measure the success of our Phase 1 launch.
 - Key result 1.5: **Routing** - Increase percentage of questions that are routed successfully by submitters from the current ask.va.gov benchmark
 
 |Key result|ask.va.gov benchmark|VA.gov metric (X months after launch)|
-|---:|---:|---:|
+|---|---|---|
 |Complete VA.gov platform collaboration cycle steps|n/a|n/a|
 |**Satisfaction** - Increase customer satisfaction score (CSAT)|tbd|tbd|
 |**Experience** - Increase experience rating|n/a|tbd|
