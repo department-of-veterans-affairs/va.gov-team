@@ -1,5 +1,17 @@
 # Running Design and Research Agenda
 
+## November 25 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
+	- Agenda Topics
+ 		- Review Design roadmap 
+		- Status on Champva Claims readouts
+  		- Share work Jina will be doing as it relates to our forms
+		- Blue sky presentation as it may relate to our forms in the future
+		- Review MBI options for OHI
+		- Review Pre-fill for CHAMPVA Claims 	 
+	
+	 - ### Notes
+
 ## November 12 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
 	- Agenda Topics
