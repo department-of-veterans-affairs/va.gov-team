@@ -742,7 +742,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 #### October 4 - 8: VSA eBenefits
 *AdHoc: Aricka Lewis*
 - 10 participants
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/research-plan.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/research/discovery)
 
 #### October 1 - 7: DS Logon
 *Ad Hoc: Lauryl Zenobi, Evangeline Garreau*
