@@ -28,7 +28,7 @@ Goals:
 - Ensure that new features are meeting the needs of the business line
 
 Process: 
-The requestor should email *shared email inbox* with the following details:
+The requestor should email *shared email inbox* . The request , with the following details, shall be reviewed in CRM Sync:
 - A description of the potential feature or request
 - provide business justification : what is the value or impact of pursuing this change
 - provide acceptance criteria this may include:
@@ -38,8 +38,9 @@ The requestor should email *shared email inbox* with the following details:
     - steps to execute a manual test
  - the requestor should also identify a tester on their behalf to confirm that the business value is being provided and the experience is being executed as expected
 
+
 **Testing:**
-Each feature shall go through Platform review (reuqired by OCTO) and shall be quality assured
+Each feature shall go through Platform review (required by OCTO) and shall be quality assured
 Our initial expectation is that a new feature may be to manually execute a tes
 
 Moving forward for testing at the feature level, we will:
