@@ -37,7 +37,7 @@
 - URL: va.gov/education/check-remaining-post-9-11-gi-bill-benefits/status/print/
 - Breadcrumb: VA.gov home > Education and training > Your Post-9/11 GI Bill benefits
 - H1: Your Post-9/11 GI Bill Statement of Benefits
-- Notes:
+- Notes: On 11/22 Mikki and Sam revised this url. During the planning stages of this work, the Print url reflected the Print H1. We changed it because a child url of the Status page is a more conventional url format, and because it was easier for Engineering to implement.
   
 
 ## <a name="redirects"></a>Redirects <br>
