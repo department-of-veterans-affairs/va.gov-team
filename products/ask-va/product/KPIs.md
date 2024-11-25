@@ -1,5 +1,5 @@
 # Ask VA KPIs
-Last updated by @beckyphung on October 22, 2024
+Last updated by @beckyphung on November 25, 2024
 
 🚧 10/24 Update: We don't have all targets currently. Also, we're currently working on updating the **Performance KPIs** section.
 
@@ -49,7 +49,7 @@ These are other dashboard metrics to track. We don't need these for launch.
 - **How to calculate**: ((Count of "Satisfied" responses `plus` Count of "Very satisfied" responses) `divided by` Count of total responses) `multiplied by` 100
 
 ### Experience
-- **Data source**: Answers to "How was your experience contacting VA today?" in the Medallia feedback button survey. [See survey questions in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Medallia%20feedback%20surveys.md)
+- **Data source**: Answers to "How was your experience contacting VA today?" in the Medallia intercept survey. [See survey questions in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Medallia%20feedback%20surveys.md)
 - **How to calculate (Option 1)**: ((Count of "Satisfied" responses `plus` Count of "Very satisfied" responses) `divided by` Count of total responses) `multiplied by` 100
    - The [CSAT Score Dashboard](https://va-gov.domo.com/page/1545882322) in Domo calculates the percentage. 
 - **How to calculate (Option 2)**: Transform options ("Very bad" to "Very good") to 1 to 5 scale. With 1 being "Very bad" and 5 being "Very good." Then `average` responses
