@@ -186,7 +186,7 @@ Two participants noted that Space Force was missing from the list of branch opti
 
 Three participants gave feedback that there was too much content on the results page. 
 - Four participants said their next step would be to print out the page. This could indicate that there is too much information to digest at once. One participant wanted to be able to save the results page and instructions.
-- One participant used a screen reader (Speechify) to help break down the content on the page and reduce the cognitive load. This participant only used the screen reader on the start and results pages. They didn't need to use it on the question or review pages, suggesting that the content on those pages wasn't overwhelming.
+- One participant used text-to-speech software (Speechify) to help break down the content on the page and reduce the cognitive load. This participant only used the text-to-speech software on the start and results pages. They didn't need to use it on the question or review pages, suggesting that the content on those pages wasn't overwhelming.
 
 ![Screenshot 2024-11-15 at 4 51 38 PM](https://github.com/user-attachments/assets/1ca62f3f-50c8-4bbc-b78f-1f4784b1968b)
 
@@ -220,14 +220,14 @@ Other participants wanted more transparency after their form was submitted. They
 
 > "This would be a lot of work." (p8)
 
-> ""It just gives me a blank generic DoD 149. It would be really damn cool if it actually filled in the parts we've already given you." (p3)
+> "It just gives me a blank generic DoD 149. It would be really damn cool if it actually filled in the parts we've already given you." (p3)
 
 Three participants expressed concerns that the form was confusing, had a lot of content, and would be difficult to fill out on their own. One participant said that they would like to see information they inputted into the wizard on the form. 
 
 ## Additional Insights
 
 **1. Assistive technology users were able to answer all questions and complete editing tasks.**
-     - This study had three participants who used assistive technology, one used a screen magnifier and two used screen readers. All three participants were able to navigate the sub task pattern, answer questions, and edit them. 
+- This study had three participants who used assistive technology (one screen magnifier, one screen reader, one text-to-speech software). All three participants were able to navigate the sub task pattern, answer questions, and edit them. 
 
 > "It's going to be accessible for a visually impaired Veteran." (p7)
 
@@ -237,7 +237,7 @@ Three participants expressed concerns that the form was confusing, had a lot of 
 
 **3. The sub task pattern was easy to use.**
 - Participants noted that they liked the big buttons and seeing only one question per page. For the Discharge Upgrade Wizard specifically, they liked the simple yes/no or multiple choice questions in favor of needing any input fields.
-- One participant used a screen reader (Speechify) to help break down the content on the page and reduce the cognitive load. They didn't need to use their screen reader on the question or review pages, suggesting that the content on those pages wasn't overwhelming.
+- One participant used text-to-speech software (Speechify) to help break down the content on the page and reduce the cognitive load. They didn't need to use their text-to-speech software on the question or review pages, suggesting that the content on those pages wasn't overwhelming.
 
 > "I like the big buttons and that it just gives you a little paragraph to work with at a time." (p4)
 
@@ -384,7 +384,8 @@ Disability and Assistive Technology (AT):
 * Cognitive: 5
 * AT beginner: 0
 * AT advanced user: 3
-* Desktop screen reader: 2
+* Desktop screen reader: 1
+* Desktop text-to-speech software: 1
 * Mobile screen reader: 0
 * Magnification/Zoom: 1
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
