@@ -37,6 +37,7 @@
 - URL: va.gov/education/check-remaining-post-9-11-gi-bill-benefits/status/print/
 - Breadcrumb: VA.gov home > Education and training > Your Post-9/11 GI Bill benefits
 - H1: Your Post-9/11 GI Bill Statement of Benefits
+- Notes:
   
 
 ## <a name="redirects"></a>Redirects <br>
