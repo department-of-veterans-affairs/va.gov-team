@@ -10,4 +10,4 @@
 
 ### What questions do we have for the Architecture Intent meeting?
 - What is meant by "threat modeling"?
-- 
+- Question around PII for the lat/long and mapbox since those are in query params. That functionality already exists in the facility locator, but I wanted to double check
