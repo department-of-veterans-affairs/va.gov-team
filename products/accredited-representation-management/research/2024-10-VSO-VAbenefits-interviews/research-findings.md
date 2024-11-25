@@ -593,7 +593,7 @@ _\*_[_Data from VBA_](https://dvagov.sharepoint.com/:x:/s/vaabdvro/EWXd8j_Wm3xAi
 
 ### **MVP Recommendations**
 
-1. **Consider incorporating pre-fill into MVP** to meet parody of SEP.
+1. **Consider incorporating pre-fill into MVP** to meet parity of SEP.
 
    - Including pre-filling VA Form 21-686c with dependent information.
 
