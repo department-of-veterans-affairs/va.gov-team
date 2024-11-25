@@ -37,7 +37,8 @@
 - URL: va.gov/education/check-remaining-post-9-11-gi-bill-benefits/status/print/
 - Breadcrumb: VA.gov home > Education and training > Your Post-9/11 GI Bill benefits
 - H1: Your Post-9/11 GI Bill Statement of Benefits
-  
+- Note: on 11/22 Mikki and Sam updated this URL. For much of the planning process of this work, the URL reflected the page's H1. We changed it to be a child page of the 'Status' page so that the url structure was more conventional, and because that was more straightforward for Engineering to implement.
+
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. The [redirect ticket for this work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94306) is already in place, and is ready to be updated once content is finalized.*
@@ -57,6 +58,7 @@ va.gov/education/gi-bill/post-9-11/ch-33-benefit/status/print/ | va.gov/educatio
 **1) Mega menu - Existing**
 - Current text: Check Post-9/11 GI Bill Statement of Benefits
 - Change to: Check your remaining Post-9/11 GI Bill benefits
+- Updated: 11/25 by Sam
 ![PGIB 3](https://github.com/user-attachments/assets/0066e2a3-7df2-49ac-85d6-f0f445a2bfbf)
 
 **2) Education hub page - Existing**
@@ -69,6 +71,7 @@ va.gov/education/gi-bill/post-9-11/ch-33-benefit/status/print/ | va.gov/educatio
 **3) Left Nav of Education hub - Existing**
 - Current text: Check Post-9/11 GI Bill Statement of Benefits
 - Change to: Check your remaining Post-9/11 GI Bill benefits
+- Updated: 11/25 by Sam
 ![PGIB 4](https://github.com/user-attachments/assets/f3087695-b45d-43a7-a255-88171e55e90c)
 
 **4) MyVA page - Existing**
