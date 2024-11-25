@@ -1,5 +1,5 @@
 # Ask VA Phase 1 - Product Outline
-Last updated by @beckyphung on October 24, 2024
+Last updated by @beckyphung on November 25, 2024
 
 **Jump to:**
 - [Overview](#overview)
@@ -75,6 +75,14 @@ These OKRs measure the success of our Phase 1 launch.
 - Key result 1.4: **Form completion rate** - Increase the percentage of successfully sent questions from the current ask.va.gov benchmark
 - Key result 1.5: **Routing** - Increase percentage of questions that are routed successfully by submitters from the current ask.va.gov benchmark
 
+|Key result|ask.va.gov benchmark|VA.gov metric (X months after launch)|
+|---:|---:|---:|
+|Complete VA.gov platform collaboration cycle steps|n/a|n/a|
+|**Satisfaction** - Increase customer satisfaction score (CSAT)|tbd|tbd|
+|**Experience** - Increase experience rating|n/a|tbd|
+|**Form completion rate** - Increase the percentage of successfully sent questions|[May to October (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|tbd|
+|**Routing** - Increase percentage of questions that are routed successfully by submitters|[2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Determining%20Ask%20VA%20queue%20from%20question%20text.md#submitter-problem-statement-misrouting-and-form-burden): 93%|tbd|
+
 #### Objective 2: Integrate with enterprise assets, such as VA Profile, as necessary and possible for Phase 1
 - Key result 2.1: Explore integrations with enterprise assets (VANotify, VA Profile, My VA, Medallia feedback surveys)
 - Key result 2.2: Execute successful integration with VA Profile
@@ -121,7 +129,7 @@ Transitioning the Ask VA front-end to VA.gov design, content, and accessibility 
 ### Our High Level Plan for Phase 1
 1. Discovery Spikes - Conducted quick, timeboxed explorations to determine effort for potential features
 2. **Create Prototype** - Develop coded prototype on staging.va.gov for usability test (in progress)
-3. **Usability Testings/ Research** - Conduct usability tests with Veterans and dependents using Figma and Coded Prototype (in progress)
+3. **Usability Testings/Research** - Conduct usability tests with Veterans and dependents using Figma and Coded Prototype (in progress)
 4. Launch Phase 1 - Launch the Ask VA front-end form and dashboard on VA.gov
   
 ### Additional references
@@ -140,16 +148,14 @@ Transitioning the Ask VA front-end to VA.gov design, content, and accessibility 
 
 ### Launch Dates
 - *Target Launch Date*
-  - Tennatively January 2025
+  - April 2025
 - *Actual Launch Date* 
   - TBD
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - TBD
    
 ## Examples of Design Updates
-
 These examples represent our designs as of April 30th, 2024.
-
 - [Who is Your Question about?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/04-2024-Who-is-your-question-about-design.jpg)
 - [Dashboard with Cards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/04-2024-Dashboard-with-cards.jpg)
 - [Your Question](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/04-2024-Your-question-edu-design.jpg)
