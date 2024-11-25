@@ -9,7 +9,7 @@
 Post Launch (April ‘25) the Ask.VA.Gov team will be moving forward with a monthly release cadence. _This will be facilitated through the following activities:_
 - **Theme based Roadmapping per sprint** (each sprint shall have defined goals to monitor the progress of a new implementation of a feature or epic.)
 - **Feature Flags and Toggles:** through leveraging feature flags and toggles the team will be able to clearly define the stream of work coming through the Continuous Integration and Deployment pipeline (this will prevent us from promoting potentially unready work up the environments to production.)  
-  - 	An example of this used by the team has been how the Dashboard Research pilot was made separate from the continuation of development. 
+  - An example of this used by the team has been how the Dashboard Research pilot was made separate from the continuation of development. 
 
 **Documentation + Requirements for Release**
 For each launch the product team (owner and manager) will assess the potential impact of releasing a new feature or epic to Ask.Va.Gov and update the Product Outline. 
