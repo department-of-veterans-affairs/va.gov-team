@@ -24,7 +24,7 @@ Count of duplicate submissions by month
 * Target: Reduce the count of duplicate submissions by 5% month-over-month (MoM)
 * Rationale: Decreasing duplicate submissions indicates improved clarity and understanding of the submission process among Veterans 
 
-Duplicate submissions are an important metric we need to monitor as we roll out New Confirmation Page. When Veterans hit the submit button more than once, it's usually because they're feeling unsure or uneasy about the expected timeline for processing their application, or they encountered an issue on the confirmation page that left them wondering if we even received their information. Sometimes they may want to change something about their application and figure it's easier to start from scratch. Some Veterans have been waiting a while without any updates, so they submit another application just to be safe.
+Duplicate submissions are an important metric we need to monitor as we roll out New Confirmation Page. When Veterans hit the submit button more than once, it's usually because they're feeling unsure or uneasy about the expected timeline for processing their application or they encountered an issue on the confirmation page that left them wondering if we even received their information.
 
 ## 4.0 Collection Methods
 
