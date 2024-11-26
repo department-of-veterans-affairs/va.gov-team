@@ -759,7 +759,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 #### September 9 - 13: VAOS Usability **
 *DSVA: Lauren Alexanderson*
 - 15 participants
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/aug19-usability-testing-new-ux/research-plan-aug19-usability.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2019-09-usability-testing-new-VAOS-ux)
 
 #### September 9 - 11: SCO Content Migration
 *Booz Allen: Amy Knox, Theresa McMurdo*
