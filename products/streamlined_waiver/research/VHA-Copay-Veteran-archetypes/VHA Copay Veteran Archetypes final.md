@@ -1,3 +1,4 @@
+[Click to download VHA Copay Veteran Archetypes final.pdf](https://github.com/user-attachments/files/17923975/VHA.archetypes.overview.pdf)
 
 
 <img width="1920" alt="1" src="https://github.com/user-attachments/assets/0be133b1-fcb2-4b78-824e-ecd5ab61e7cf">
