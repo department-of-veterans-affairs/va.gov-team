@@ -67,4 +67,6 @@ This section outlines the steps to investigate and resolve issues related to the
 
 ## Security
 
-No PII/PHI involved in this feature, or known/accepted security vulnerabitlities
+PII and PHI is collected from authenticated users who start or complete the Appoint a Representative form flow; the data is encrypted and temporarily saved in the SiP (Save in Progress) forms table -- `in_progress_forms` -- in the VA.gov Postgresql database. From our understanding, the data is purged after 60 days.
+
+When the request to generate the 21-22/21-22a PDF is made, the user's PII and PHI data is encrypted in transit via HTTPS but the data, including the generated PDF, is not persisted anywhere.
