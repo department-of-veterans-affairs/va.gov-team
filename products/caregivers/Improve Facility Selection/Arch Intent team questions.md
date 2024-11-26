@@ -26,6 +26,8 @@
           - can we ask about using https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/initializers/filter_parameter_logging.rb instead?
           - Feel free to loop me into any discussions. personally I really don't like doing re-work and moving away from standard API design patterns to solve this.
           - FWIW datadog is also moving to fedramp high in the near future, if datadog is the source of this concern
+     - From **Adrian** via Slack:
+          - another option could be to pass the lat/long params in http headers, if they are concerned about logging elsewhere in the stack (TIC/etc) 
 - **MUST**: Confirm that there is no PII being logged
 - **SHOULD**: Add some sort of monitor for Lighthouse API
 - **SHOULD**: Review response times for search results
