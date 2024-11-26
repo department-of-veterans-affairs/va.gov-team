@@ -65,10 +65,26 @@ This work should all slot together nicely if we follow the conventions laid out 
 #### Follow the File Structure / Naming Conventions
 
 - New pages have an 'entry point' which will be imported into [src/applications/disability-benefits/all-claims/config/form0781/index.js](TODO). This file is where we define the order of our pages by adding them (in the desired order) into the `form0781Pages` object.
-- These 'entry point' objects should be defined in a file of the same name under the [src/applications/disability-benefits/all-claims/pages/form0781](TODO) directory. This page should ideally do nothing but define a `schema` object and a `uiSchema` object. These schema-type objects are used to define the page structure
+- These 'entry point' objects should be defined in a file of the same name under the [src/applications/disability-benefits/all-claims/pages/form0781/](TODO) directory. This page should ideally do nothing but define a `schema` object and a `uiSchema` object. These schema-type objects are used to define the page structure
   - `schema` defines the structure of the data as it should be read from the backend JSON.
   - `uiSchema` defines the structure of the data as it should be written from the backent JSON.
   - schema keys that represent display only / functional logic (not something for final submission) should be prefixed with the key `view:<key name>`. These will still be saved into the `InProgressForm`, but will be easier to filter out for final form submission later based on this convention. This could be bits of control flow logic, e.g. "the user suggested X on page 3, so on page 5 we need to display Y"
+- Shared Utility functions should be added to the `src/applications/disability-benefits/all-claims/utils/form0781.js` file. 
+- Page specific Content should be added to the `src/applications/disability-benefits/all-claims/content/form0781/` directory in a file named for the page it populates.
+
+
+#### Use the Flipper for Every Page
+
+Even though we are using one flipper to turn on / off the entire flow, we still need to be sure to pass the flipper to each specific page. It is passed to the 'entry point' object as the `depends` argument. If you have more specific conditions for flipping a page, define the page specific flipper as a Utility that leverages the top level flipper, and pass that to your page. 
+
+The reason we need to pass this flipper to every page, rather than just a top level wrapper, is related to the way this form configuration is loaded. Christine can give a better explanation, I just know we need to do it, otherwise it won't work.
+
+#### Build the Skeleton First, Add Content in a subsequent PR per the Ticket order.
+
+It says this in the tickets, but the idea here is to get everything functional on the page and then deploy with placeholder text, or no text at all. This does two important things
+
+- decouples deployment of critical functionality from the Content Review cycle. We don't want to end up in a situation where our code breaks while we are waiting on Design and OCTO to iron out the details of how something non-functional is worded.
+- It allows us to itterate quickly, unblocking dependancies.
  
 
 
