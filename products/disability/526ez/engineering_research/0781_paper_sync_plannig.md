@@ -57,3 +57,18 @@ Generally speaking, the idea is to 'roll' through the skeleton, circling back to
 ### Tickets
 
 [Moved to Github tickets](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/7?filterQuery=-label%3A%22DBEX-TREX%22+-status%3ADone++epic-name%3A%22Paper+Sync+Form+0781+-+Build%22)
+
+### Guidelines For Adding New Pages
+
+This work should all slot together nicely if we follow the conventions laid out in our [Boiler Plate work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97063). Follow these instructions for adding a new page
+
+#### Follow the File Structure / Naming Conventions
+
+- New pages have an 'entry point' which will be imported into [src/applications/disability-benefits/all-claims/config/form0781/index.js](TODO). This file is where we define the order of our pages by adding them (in the desired order) into the `form0781Pages` object.
+- These 'entry point' objects should be defined in a file of the same name under the [src/applications/disability-benefits/all-claims/pages/form0781](TODO) directory. This page should ideally do nothing but define a `schema` object and a `uiSchema` object. These schema-type objects are used to define the page structure
+  - `schema` defines the structure of the data as it should be read from the backend JSON.
+  - `uiSchema` defines the structure of the data as it should be written from the backent JSON.
+  - schema keys that represent display only / functional logic (not something for final submission) should be prefixed with the key `view:<key name>`. These will still be saved into the `InProgressForm`, but will be easier to filter out for final form submission later based on this convention. This could be bits of control flow logic, e.g. "the user suggested X on page 3, so on page 5 we need to display Y"
+ 
+
+
