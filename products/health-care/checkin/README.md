@@ -37,6 +37,7 @@
 - UX
     - Research
       - [Christina Gednalske](https://dsva.slack.com/team/U02KVPC82VA)
+      - [Steven Straily](https://dsva.slack.com/archives/D07VBB5NP2A)
     - Design
       - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)  
 - Engineering
