@@ -16,8 +16,8 @@ _[NNG: Conducting Usability Testing with Real Users' Real Data](https://www.nngr
 * Account for about 15 minutes of app installation and setup during the research session, and additional time in case of technical difficulties.
 * For a more seamless/easy installation (where it is also not necessary to collect any App store ID’s in advance), consider limiting the testing device type to iOS (iPhones and iPads).
     *  On iOS, the Testflight link opens a webpage with links (and instructions) to download both Testflight and the app’s test build so the participant can easily switch apps to return to the screen:  
-      
-       <img src="/products/va-mobile-app/ux-research/research-operations/images/testflight-beta-link.PNG" width="300" alt="Testflight beta link">  
+
+       <img src="/products/va-mobile-app/research/ux/research-operations/images/testflight-beta-link.PNG" width="300" alt="Testflight beta link">  
 
 Given the current app distribution setup, installing a build from a link on Android (using Firebase) requires a more involved set of steps, and can be more variable due to differences in operating system Settings between device manufacturers. 
 * Plan to [guide the participant through installation at the start of the session](https://docs.google.com/document/d/1QI_SqEC1nJNHFD9VbsbjlRubvxCo0vKL2n8lDTAbHsM/edit#heading=h.bb0zvoiv64ag), after the introduction/consent but before any warm-up questions. Doing it in this order ensures that participants will still answer some planned questions, even if technical issues prevent them from getting the app installed and logged in. It also prevents the moderator from making up questions on the spot.
@@ -41,7 +41,7 @@ The moderator should help participants do the following during the session:
 * Log into the pre-release version of the mobile app using their real credentials (pause the recording while they’re doing this).
 * At the end of the session, uninstall Testflight & the pre-production build.
 
-Example [App setup & screenshare](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-1-app-setup--screenshare-15-minutes) 
+Example [App setup & screenshare](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-1-app-setup--screenshare-15-minutes) 
 
 
 ###  Example script for conversation guide
@@ -58,17 +58,17 @@ Example [App setup & screenshare](https://github.com/department-of-veterans-affa
     * _If Testflight is not installed on the participant’s device:_
         * Scroll to the first button that says “View in App Store”
         * Tap to Install Testflight
-            * _If they can’t download the app successfully, try again but then [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes)._
+            * _If they can’t download the app successfully, try again but then [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes)._
         * Now we’re going to navigate back to that screen we were looking at in the browser. Go ahead and do that. Ok, here we are.  
 
-         <img src="/products/va-mobile-app/ux-research/research-operations/images/Zoom-testflight-link.PNG" width="200" alt="Zoom chat TestFlight  link">   <img src="/products/va-mobile-app/ux-research/research-operations/images/testflight-beta-link.PNG" width="200" alt="TestFlight beta link">   <img src="/products/va-mobile-app/ux-research/research-operations/images/testflight-appstore-1.PNG" width="200" alt="TestFlight in app store">
+         <img src="/products/va-mobile-app/research/ux/research-operations/images/Zoom-testflight-link.PNG" width="200" alt="Zoom chat TestFlight  link">   <img src="/products/va-mobile-app/research/ux/research-operations/images/testflight-beta-link.PNG" width="200" alt="TestFlight beta link">   <img src="/products/va-mobile-app/research/ux/research-operations/images/testflight-appstore-1.PNG" width="200" alt="TestFlight in app store">
 
 * Scroll down the screen til you get to a button that says ‘Start Testing’ to tap to download and install the VA health & benefits mobile app. I will help you uninstall the app at the end of the conversation.
     * Tap Don’t Allow, then tap Continue.
     * Now go ahead and tap Install.  
 
-      <img src="/products/va-mobile-app/ux-research/research-operations/images/testflight-beta-link.PNG" width="200" alt="TestFlight beta link">   <img src="/products/va-mobile-app/ux-research/research-operations/images/testflight-appstore-2.PNG" width="200" alt="TestFlight in app store">  
-    * _If they can’t download the app successfully, try again but then [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes)._
+      <img src="/products/va-mobile-app/research/ux/research-operations/images/testflight-beta-link.PNG" width="200" alt="TestFlight beta link">   <img src="/products/va-mobile-app/research/ux/research-operations/images/testflight-appstore-2.PNG" width="200" alt="TestFlight in app store">  
+    * _If they can’t download the app successfully, try again but then [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes)._
 * Ok, tap Open to open the app.
     * Tap the Next button, then tap Start Testing.
     * _Participant will be on Sign In screen—confirm that version number at bottom of the screen is [correct version number #.##.# (###)] If it’s not, try again to get the build installed._
@@ -79,7 +79,7 @@ Example [App setup & screenshare](https://github.com/department-of-veterans-affa
 
 * Now I’m going to guide you quickly through the first couple of screens to get you where you need to be for our conversation today. When we get there, we’ll stop and do some warm up questions before using the app.
 * Log in: First, we’ll need you to log into the app with the option you prefer (Login.gov, ID.me or My HealtheVet) using your username and password.
-    * _If they can’t log in successfully, [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes)._
+    * _If they can’t log in successfully, [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes)._
 * If the next screen is Touch ID: Tap “Skip” and then stop at the next screen (it will be the first screen of the onboarding carousel).
 * If the next screen Onboarding: Ok, stop here. _(proceed with Warm-up questions)_
 
