@@ -27,7 +27,9 @@
           - Feel free to loop me into any discussions. personally I really don't like doing re-work and moving away from standard API design patterns to solve this.
           - FWIW datadog is also moving to fedramp high in the near future, if datadog is the source of this concern
      - From **Adrian** via Slack:
-          - another option could be to pass the lat/long params in http headers, if they are concerned about logging elsewhere in the stack (TIC/etc) 
+          - another option could be to pass the lat/long params in http headers, if they are concerned about logging elsewhere in the stack (TIC/etc)
+     - From **Adrian** via Slack:
+          - Note: lighthouse accepts sensitive parameters in GET params (from memory, patient identifiers, probably other things) - we will be at this a long time if we try to change this pattern everywhere 
 - **MUST**: Confirm that there is no PII being logged
 - **SHOULD**: Add some sort of monitor for Lighthouse API
 - **SHOULD**: Review response times for search results
