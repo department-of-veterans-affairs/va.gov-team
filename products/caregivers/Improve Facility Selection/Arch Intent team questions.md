@@ -13,7 +13,7 @@
 - What is meant by "threat modeling"?
      - ANSWER: Consider the worst threat for the application, How could a hacker get to this information and what could they use it for.
 - Question around PII for the lat/long and mapbox since those are in query params. That functionality already exists in the facility locator, but I wanted to double check
-     - This exists today, there is no new risk here.  The 10-10 team will not be asked to do anything differently.
+     - ANSWER: This exists today, there is no new risk here.  The 10-10 team will not be asked to do anything differently.
      - There may be a future initiative that would cover all applications that do this to improve risk here.
 
 ---
