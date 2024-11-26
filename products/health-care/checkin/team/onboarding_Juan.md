@@ -89,8 +89,9 @@ Example: In the Travel Pay for Past Appointments (VAHB) initiative, the mobile d
   - **Ticket comments:** Comments on tickets were constructive, productive, and typically received within 24 hours, which facilitated progress effectively.
   - **Suggestion for a Notification Process/Forum for Mobile Updates:** To improve collaboration and streamline the development process, the mobile team could establish a **notification system or forum dedicated to sharing critical updates related to mobile processes**. 
 
-- What would help with speeding up the onboarding?
-  - xyz
+- Feedback on onboarding
+  - **Onboarding:** Some people onboarding may benefit from a conversation with an engineer who knows the code and can give a good overview of the mobile platform. Or even a pre-recorded video specifically on the mobile repo. This might be redundant as most of this info is already in the mobile documentation, but a conversation allows for questions. Another benefit of a conversation is getting to know engineers who already work on the project.
+
 - Feedback on tools (or any suggestions re tools):
-  - xyz
+  - **Tools:** No comments here, besides them being as expected. Probably a recommendation of what best Xcode version to use (this is usually the latest), but some teams use a specific version due to build issues or other reasons.
 
