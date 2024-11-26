@@ -2,40 +2,6 @@
 I think ideally we stick with as much vanilla form system stuff as we can. I do believe there's generic platform components for both Veteran Info and Contact information, so we can even leverage those for this new app instead of lifting from FSR. Besides that it's looking like a radio button and text input field with varying copy depending on radio button selection. 
 
 
-## TODO - after initial commit
-### Each will need their own ticket
-- [x] Convert to minimal header - ticket: 
-- [ ] Refine: Style & Complete (one ticket each)
-	- [x] Introduction page - ticket: 
-	- [x] `/personal-information` - ticket
- 	- [x] `/contact-information` - ticket
-  	  - [ ] Need clarification on which phone number to list
-      - [ ] Update to new design pattern (following 1010ezr)
-	- [x] `/debt-selection` - ticket
-	- [x] `/existence-or-amount`
-	- [x] `/dispute-reason`
-	- [x] Review & Submit - ticket
-	- [x] Confirmation page - ticket 
-- [x] One ticket for transform & submit stuffs - ticket
-  - [x] `transform` for submission
-  - [x] `submission` definition (see 5655)
-  - [x] Include Sentry logging and alert message
-- [ ] LOA messaging - including alert? 
-- [x] `vets-json-schema` repo update (finalize need for ssn) *needed for launch*
-- [x] `downtime` section (see 5655?)
-- [x] `getHelp` aka Need Help?
-- [x] One ticket for messaging/custom text - ticket
-  - [x] `savedFormMessages` 
-  - [x] `saveInProgress` (messages)
-  - [x] `customText`? (see 5655 for examples)
-
-### Need from design
-- [ ] Error messaging 
-	- [ ] `/existence-or-amount` (neither option is selected selected)
-	- [ ] `/dispute-reason` (no text entered)
-	- [ ] Failure to submit (`/review-and-submit`)
-	- [ ] Error fetching debts `/debt-selection` (currently using FSR for debts only)
-
 ## Helpful links
 ### Designs
 - [Figma mockups](https://www.figma.com/design/D8tfoPhUZlqBUomMTxzkQb/Dispute-Form-(VHA-VBA)?node-id=19-220&node-type=canvas&t=SBl5HnEgdHTYujeY-0)
@@ -64,8 +30,51 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
   - What's the benefit description for this form?
   - See **Stuff we need** above
 
+---
 
-## Stuff we need to start
+## Completed stuff
+
+
+### (old) TODO
+<details>
+	<summary>List of tickets and todos</summary>
+	
+#### Tickets made after/during initial implementation
+Was a todo list now a crummy reference, leaving for posterity
+- [x] Convert to minimal header - [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97877): 
+- [x] Refine: Style & Complete (one ticket each)
+	- [x] Introduction page - [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97887): 
+	- [x] `/personal-information` - [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97890)
+ 	- [x] `/contact-information` - [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97903)
+  	  - [ ] Need clarification on which phone number to list
+      - [ ] Update to new design pattern (following 1010ezr)
+	- [x] `/debt-selection` - [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97899)
+	- [x] `/existence-or-amount` - no ticket for now, should be gucci
+	- [x] `/dispute-reason` - no ticket for now, should be gucci
+	- [x] Review & Submit - [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97900)
+	- [x] Confirmation page - [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97901) 
+- [x] One ticket for transform & submit stuffs - [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97907)
+  - [x] `transform` for submission
+  - [x] `submission` definition (see 5655)
+  - [x] Include Sentry logging and alert message
+- [x] LOA messaging - including alert? - [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97919)
+- [x] `vets-json-schema` repo update (finalize need for ssn) *needed for launch*
+- [x] `downtime` section (see 5655?) - [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97910)
+- [x] `getHelp` aka Need Help? - [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97913)
+- [x] One ticket for messaging/custom text - [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97915)
+  - [x] `savedFormMessages` 
+  - [x] `saveInProgress` (messages)
+  - [x] `customText`? (see 5655 for examples)
+</details>
+
+### Need from design
+- [x] Error messaging 
+	- [x] `/existence-or-amount` (neither option is selected selected)
+	- [x] `/dispute-reason` (no text entered)
+	- [x] Failure to submit (`/review-and-submit`)
+	- [x] Error fetching debts `/debt-selection` (currently using FSR for debts only)
+
+### Stuff we need to start
 - [x] **Initial designs**
 - [x] **URL name** - must have to really start dev work
   - Generally decided with CAIA input
