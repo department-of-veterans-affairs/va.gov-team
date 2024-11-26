@@ -107,7 +107,7 @@ If changing the URL of any modernized page in Drupal, these are additional steps
 - Content team writer saves the page as a draft, and a copy editor publishes the page
 - Content team copy editor notifies IA that cloned page is live
 - IA goes through usual redirect vetting process and tags PW or product team to let them know redirects are ready to be implemented
-- IA tags copy editor (Megan or Sara) confirms when redirect is succsessfully in place, and it's clear for content team to start the archive process
+- IA tags copy editor (Megan or Sara) when redirect is successfully in place, and it's clear for content team to start the archive process
 
 ## Archiving a node in Drupal
 
