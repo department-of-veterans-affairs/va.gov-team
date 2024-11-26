@@ -123,11 +123,15 @@ You’ll receive a confirmation email shortly. We’ll let you know by mail or p
 
 ## Research Objectives (work in progress)
 
-* What would be the most useful to have available for the veteran?
-    * Possible options, based on reading:
+* Objectives
+   * What would be the most useful to have available for the veteran?
+   * Where is the best place in the app to have the relevant information?
+* Scope
+   * Are we building the application platform in the app, or is there any possibility of that in the future? If that portion is off the table, we won’t need to do any testing on the functionality of the application process.
+   * Possible options of items to add in app
         * Application (40-10007)
         * Claim status
         * pre-need decision letter, benefits information sheet, brochure, and copy of supporting documents submitted
         * denial letter with an explanation and information on their rights to appeal or request another review and how to proceed Form 20-0998
         * [Next steps](https://www.va.gov/burials-memorials/pre-need-eligibility/after-you-apply/)
-* Where is the best place in the app to have the relevant information?
+
