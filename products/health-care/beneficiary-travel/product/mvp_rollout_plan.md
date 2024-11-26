@@ -51,8 +51,8 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Desired date range or test duration: Aug 22 - Sept 4
-- Desired number of users: 2
+- Date range or test duration: Aug 22 - Sept 4
+- Number of users: 2
 - How you'll recruit the right production test users: We have identified two BAH Veterans
 - How you'll conduct the testing: UAT
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: Through use of a feature flag
@@ -95,7 +95,7 @@ team was able to resolve this as well.
 
 #### Rollout Planning
 
-- Desired date range: Pending, September
+- Desired date range: Pending, December 2024
 - How will you make the product available in production while limiting the number of users who can find/access it: By using a feature flag.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Because this entire page is an MVP without a specific entry point just yet, we will be broadly monitoring health and engineering metrics as the key indicator of whether or not we can advance.
 - Links to the dashboard showing "success criteria" metrics: [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)
