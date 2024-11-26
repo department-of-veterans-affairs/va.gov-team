@@ -1,4 +1,4 @@
-# Architecture Intent - questions from the team
+# Architecture Intent - Questions and Meeting Notes
 - This is a new Collaboration Cycle touchpoint for VFS teams, and the first time our team will be going through the review.
 - Architecture Intent review meeting scheduled for Tuesday, 11/26/2024 at 1:30p ET/12:30p CT/10:30a PT
 
@@ -11,7 +11,10 @@
 
 ### What questions do we have for the Architecture Intent meeting?
 - What is meant by "threat modeling"?
+     - ANSWER: Consider the worst threat for the application, How could a hacker get to this information and what could they use it for.
 - Question around PII for the lat/long and mapbox since those are in query params. That functionality already exists in the facility locator, but I wanted to double check
+     - This exists today, there is no new risk here.  The 10-10 team will not be asked to do anything differently.
+     - There may be a future initiative that would cover all applications that do this to improve risk here.
 
 ---
 
