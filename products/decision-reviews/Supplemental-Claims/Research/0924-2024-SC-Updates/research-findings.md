@@ -265,6 +265,8 @@ Out of 11 participants, 8 tested a flow where they made edits to evidence when t
 
 3. Possibly remove the presumptive conditions alert within the form.
    - It’s clear to Veterans within the introduction of the form that it covers PACT Act. Including the alert mid-form to re-emphasize presumptive conditions causes unnecessary friction, especially for Veterans who use screen readers.
+  
+4. Clarify the language around the Notice of Evidence Needed for claims filed within a year of decision.
 
 5. Adjust the wording around types of facilities to provide more information and clarity.
 
