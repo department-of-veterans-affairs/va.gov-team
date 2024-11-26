@@ -1,4 +1,4 @@
-# 0781 Paper Sync Planning 
+# 0781 Paper Sync Engineer Approach 
 
 ## Resources
 
