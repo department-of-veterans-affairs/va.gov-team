@@ -42,7 +42,7 @@ the challenges associated with switching to the new portal?
 1. Are CTAs to try out the new MHV portal effective? Do users notice them
 and understand what they're saying?
 
-**Effectiveness of CTAs: Our research revealed low engagement with prominent "Try Me" banners on the MHV national portal. Participants frequently scrolled past these banners.**
+**Effectiveness of CTAs: Our research revealed low engagement with the "Try Me" banners on the MHV national portal. Participants frequently scrolled past these banners.**
 
 Possible reasons:
 
@@ -60,7 +60,7 @@ Possible reasons:
 
 > "And then at once point, it's giving you the option to cancel your MHV. But if you do that you can't get into any of this stuff . So why are they doing that?" - P12
 
-**Precieved irrelevant massaging**
+**Perceived irrelevant massaging**
 
 > "I have all these banners here and I tend to ignore them."  - P9
 
