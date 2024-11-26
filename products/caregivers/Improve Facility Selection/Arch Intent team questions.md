@@ -29,7 +29,9 @@
      - From **Adrian** via Slack:
           - another option could be to pass the lat/long params in http headers, if they are concerned about logging elsewhere in the stack (TIC/etc)
      - From **Adrian** via Slack:
-          - Note: lighthouse accepts sensitive parameters in GET params (from memory, patient identifiers, probably other things) - we will be at this a long time if we try to change this pattern everywhere 
+          - Note: lighthouse accepts sensitive parameters in GET params (from memory, patient identifiers, probably other things) - we will be at this a long time if we try to change this pattern everywhere
+     - From **Adrian** via Slack:
+          - I convo'd with the @octo-health-engineers about the GET -> POST discussion, we generally agree that it feels wrong to say "just use POST". The most robust solution would be to use public key encryption to encrypt the parameters on the client side and decrypt them within vets-api. I took a quick look and don't see any prior art but ideally this would be done as a single shared util in each repo that other teams could take advantage of.  
 - **MUST**: Confirm that there is no PII being logged
 - **SHOULD**: Add some sort of monitor for Lighthouse API
 - **SHOULD**: Review response times for search results
