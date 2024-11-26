@@ -12,3 +12,23 @@
 ### What questions do we have for the Architecture Intent meeting?
 - What is meant by "threat modeling"?
 - Question around PII for the lat/long and mapbox since those are in query params. That functionality already exists in the facility locator, but I wanted to double check
+
+---
+
+## Architecture Intent - Meeting Notes
+- **MUST**: Update the GET to a POST
+     - The PII cannot show up in URLs
+     - That's why they want them in a post so it's in the body.
+     - From **Adrian** via Slack:
+          - can we ask about using https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/initializers/filter_parameter_logging.rb instead?
+          - Feel free to loop me into any discussions. personally I really don't like doing re-work and moving away from standard API design patterns to solve this.
+          - FWIW datadog is also moving to fedramp high in the near future, if datadog is the source of this concern
+- **MUST**: Confirm that there is no PII being logged
+- **SHOULD**: Add some sort of monitor for Lighthouse API
+- **SHOULD**: Review response times for search results
+     - Current acceptable limit standard is around 4 seconds
+     - **Adrian** suggested via Slack: look into using https://github.com/mfrachet/cypress-audit
+          - lighthouse has built in network and cpu limiting for the mobile tests. Would appreciate hearing back anything y'all find out
+- **CONSIDER**: Adding 'distance from' to each location
+     - Future Iteration?
+- 
