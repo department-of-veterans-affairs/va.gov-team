@@ -58,11 +58,18 @@ Before we look at the website, let’s start with a few background questions.
 
 ## **Technology screenshare set-up \- 5 minutes**
 
-Thanks for sharing your experience with me. We’re going to shift gears and move into looking at VA.gov. None of your actions will affect your VA information or benefits.
+Thanks for sharing your experience with me. We’re going to shift gears and move into looking at a mock version of the VA.gov website. It looks identical to VA.gov, but none of your actions will affect your VA information or benefits.
 
 I am going to drop a link in the Zoom chat. When you receive the link, please open the page. 
 
-Now, I am going to send you a username and a password so we can look at the designs from your device.
+**Link:** [https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
+
+Now, I am going to send you a username and a password. We’ll have you sign-in with a fake ID.me account. The email is \[pick one\]:
+
+1. [vets.gov](http://vets.gov/).user+54@gmail.com  
+   2. [vets.gov](http://vets.gov/).user+56@gmail.com  
+      3. [vets.gov](http://vets.gov/).user+229@gmail.com  
+   * Great. Now, your password is: Veteran1
 
 Next, I’d like you to share your screen for the remainder of the session. If you need help figuring out how to share your screen I am happy to troubleshoot\! 
 
@@ -74,18 +81,18 @@ General troubleshooting: [https://depo-platform-documentation.scrollhelp.site/re
 
 ## **First Task: \[Concept Test- Review and Submit alert\] \- 10 minutes**
 
-That was a lot to get through, thanks for your patience. Now we are ready to begin our first task. We are starting today’s session at the end of the disability compensation form, rather than the beginning. This screen is at the very end of the form in step 5 out of 5\. 
+That was a lot to get through, thanks for your patience. Now we are ready to begin our first task. We are starting today’s session at the end of the disability compensation form, not the beginning. This screen is at the very end of the form in step 5 out of 5\. 
 
 We filled out the form with fake data– none of the information listed is yours and will not impact your benefits in any way. 
 
-Task: Review the screen and let me know when you are ready to submit your claim. 
+* Review the screen and let me know if you feel ready to submit your claim. 
 
-Do not navigate away from this screen, but tell me verbally if you would like to go somewhere else.
+Do your best to think out loud as your navigate through the page. Do not navigate away from this screen, but tell me verbally if you would like to go somewhere else.
 
 **Post-Task Questions**
 
 * Is there anything else that you’d like to do before submitting your claim?  
-* Did any specific information stand out to you as you reviewed the page?  
+* What information, if any, stood out to you on this screen?  
 * In your own words, what do you think the text under the heading “we updated our online form” is communicating? \[Heading level 2, middle of the page\]   
   * What does the phrase “toxic exposure” mean to you?  
 * Would you expect to answer the new questions before submitting?  
@@ -113,9 +120,9 @@ Task: Navigate the new questions that were added to the form.
 
 Thanks for all of your feedback\! 
 
-Imagine that you are a Veteran filing for disability compensation for new conditions. As a reminder, we’ve pre-filled the form with fake data, so the conditions listed on the page are not yours. 
+For this task, imagine that you are a Veteran who was exposed to chemicals throughout your decade of military service, both at home and overseas. These exposures may be linked to health issues you developed after leaving the military. You’re now filing a disability claim with the VA to seek benefits for those conditions.
 
-Task: Complete this screen as if one of your conditions resulted from exposure to Agent Orange during your service.
+* Opt in to answer questions about toxic exposure.
 
 **Post-task questions**
 
@@ -132,11 +139,12 @@ Task: Complete this screen as if one of your conditions resulted from exposure t
 *The participant may skip certain questions based on their military service dates. Participants must fill out at least one location screen to complete the exercise.*   
 *The facilitator uses military service information provided by the participant during warm-up questions to prompt them if they get stuck, or use the mock scenario below.* 
 
-For the rest of this session, you may use your military service to guide your answers to the questions. Are you comfortable doing so, or would you prefer a mock scenario?
+For the rest of this session, you may use your military service to guide your answers to the questions. Are you comfortable with this? If not, we can continue with our last scenario. 
 
-Scenario, if selected:  Imagine you are filing for disability compensation. You served in multiple locations during the Gulf War and were exposed to various hazards during your service. 
+\[Continue scenario\] Imagine that you are a Veteran who was exposed to chemicals throughout your decade of military service, both at home and overseas. These exposures may be linked to health issues you developed after leaving the military. You’re now filing a disability claim with the VA to seek benefits for those conditions.
 
-Task: Complete the questions related to toxic exposure in the form. 
+* Navigate through the form and respond to questions related to toxic exposure. 
+
 
 Please talk out loud as you go; I may pause you to ask questions at various points. 
 
@@ -194,7 +202,7 @@ Please talk out loud as you go; I may pause you to ask questions at various poin
 
 ## **Fifth task: \[Edit response from summary screen\] \- 10 minutes**
 
-For this task, I would like for you to imagine that you made a mistake while entering a location or date. 
+For this task, imagine you made a mistake while entering data. 
 
 1) Change one date range entry to January 1, 2000\.   
 2) Add a new location.
@@ -205,6 +213,8 @@ For this task, I would like for you to imagine that you made a mistake while ent
   * What, if anything, was burdensome about the process?  
 * On a scale of 1 to 5, how confident are you that your answers are accurate? With 1 being not confident and 5 being very confident?
 
+---
+
 ## **Sixth task: \[If time allows: Navigate back to Review and Submit page\]**
 
 Thanks for all of your feedback. 
@@ -214,7 +224,8 @@ For today’s final task, I’d like you to return to the review and submit page
 **Post-task questions**
 
 * On a scale of 1 to 5, how difficult or easy was it to complete this task? With 1 being very difficult and 5 being very easy?  
-* Is there anything else you would do before submitting the form?
+* On a scale of 1 to 5, how confident are you that your answers are accurate and the form is complete? With 1 being not confident and 5 being very confident?  
+* Is there anything else you would expect to do before submitting the form??
 
 ---
 
@@ -239,10 +250,11 @@ For today’s final task, I’d like you to return to the review and submit page
   * Somewhat increased my trust  
   * Increased my trust
 
-* Were there any tasks that you found confusing or burdensome to complete?  
+* How did you find the experience of navigating through the form?    
 * Did you find that any of the headers, labels, or links unclear or unhelpful?  
 * How confident are you that the information you provided is accurate and sufficient to support your compensation claim?  
-* Is there anything else you'd like to share about your experience using the form with \[AT tool\]?
+* Is there anything else you'd like to share about your experience?
+
 
 ---
 
