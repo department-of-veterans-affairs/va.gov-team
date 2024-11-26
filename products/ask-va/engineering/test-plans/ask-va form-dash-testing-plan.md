@@ -144,12 +144,12 @@ Note: It is expected that our update will not break these bots with the inscope 
    - The CRM API will return a response body containing the new QueueID. Together the teams will confirm that the correct Category, Topic, and Subtopic are routed to the correct queue. 
 
 
-### E2E Automated Testing (Cypress)
+### E2E Test Execution
 - Execution:
-   - Run Cypress test suite.
-   - Analyze test results and fix any identified issues.
-   - Re-run tests after fixes to confirm resolution.
-   - Can we toggle off a test in a higher environment? 
+ - could automate the creation of the form - snag the inquiry id
+- then there would be a human action on crm side
+- we would then look up the inquiry id on the dashboard
+- run cypress tests on dashboard to make sure dashboard is functioning correctly
 
 ### Manual QA Testing
 - Execution: 
