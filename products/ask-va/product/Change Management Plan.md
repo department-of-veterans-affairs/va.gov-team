@@ -1,12 +1,27 @@
 **Ask VA Change Management Plan**
 
+11/26/24 notes
+- manage incoming feature requests
+- how we process those requests
+- more flexible release plan moving forward
+- delta: prioritization between the two groups
+- ava CRM has prioritizations already, so we need more flexible planning for releases launches
+- how do we have leaner, smaller releases?
+- teams can go through collab cycle as group of features vs. single feature. single feature faster.
+- could have many front-end changes CRM wouldn't know about ex: 'cosmetic'
+- Unless it changes the data, don't know if CRM would need to be involved
+- example: forecast what we want to release, then we could do a quick to make sure nothing's impacted
+- to do: examples of when we would coordinate vs note
+- AVA CRM/PATSR separation: Ask VA ATO needs to get granted. Submitting in Feb 2025. 90 day timeline to get approved, if there are no changes. Around when portal launches. Once approved and completed all work for separation, shared environment freezes won't be issue
+
 **Scope:** To define the ongoing ways of working collaborating between Ask.VA.Gov and CRM.
+
 
 **Release Cadence**
 
 **For Context**: AskVA.Gov operates in 2 weeks sprints, opening sprint on Tuesdays and closing sprint out 13 days later on Monday. 
 
-Post Launch (April ‘25) the Ask.VA.Gov team will be moving forward with a monthly release cadence. _This will be facilitated through the following activities:_
+Post Launch (April ‘25) the Ask VA VA.gov team will be moving forward with a monthly release cadence. _This will be facilitated through the following activities:_
 - **Theme based Roadmapping per sprint** (each sprint shall have defined goals to monitor the progress of a new implementation of a feature or epic.)
 - **Feature Flags and Toggles:** through leveraging feature flags and toggles the team will be able to clearly define the stream of work coming through the Continuous Integration and Deployment pipeline (this will prevent us from promoting potentially unready work up the environments to production.)  
   - An example of this used by the team has been how the Dashboard Research pilot was made separate from the continuation of development. 
@@ -58,6 +73,6 @@ On a release level:
 
 **Questions for us to continue discussing:**
 - How do we handle freezing in shared environments with CRM and Pats R
-    -- currently we test in staging while CRM is executing their testing, for our joint testing CRM will freeze at the same time prior to launch (this is established in our test plan)
-- How do we define what is our future joint testing between the Ask.Va.Gov + CRM APIs (ex . testing for rules, update to payload, contract testing etc)
-- Plan to graduate environments.
+    - currently we test in staging while CRM is executing their testing, for our joint testing CRM will freeze at the same time prior to launch (this is established in our test plan)
+- How do we define what is our future joint testing between the Ask VA VA.gov + CRM APIs (ex . testing for rules, update to payload, contract testing etc.)
+- Plan to graduate environments, coordination between environments
