@@ -121,7 +121,7 @@ You’ll receive a confirmation email shortly. We’ll let you know by mail or p
 * [For benefits management team (#va-gov-mbs)](https://dsva.slack.com/archives/C03QC459M0C/p1732639077882339) - posted 11/26
 
 
-## Research Objectives
+## Research Objectives (work in progress)
 
 * What would be the most useful to have available for the veteran?
     * Possible options, based on reading:
