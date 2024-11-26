@@ -4,18 +4,18 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
 
 ## TODO - after initial commit
 ### Each will need their own ticket
-- [ ] Convert to minimal header
+- [x] Convert to minimal header - ticket: 
 - [ ] Refine: Style & Complete (one ticket each)
-	- [ ] Introduction page
-	- [ ] `/personal-information`
+	- [x] Introduction page - ticket: 
+	- [x] `/personal-information` - ticket
  	- [ ] `/contact-information`
   	  - [ ] Need clarification on which phone number to list
       - [ ] Update to new design pattern (following 1010ezr)
-	- [ ] `/debt-selection`
-	- [ ] `/existence-or-amount`
-	- [ ] `/dispute-reason`
-	- [ ] Review & Submit
-	- [ ] Confirmation page `
+	- [x] `/debt-selection` - ticket
+	- [x] `/existence-or-amount`
+	- [x] `/dispute-reason`
+	- [x] Review & Submit - ticket
+	- [x] Confirmation page - ticket 
 - [ ] One ticket for transform & submit stuffs
   - [ ] `transform` for submission
   - [ ] `submission` definition (see 5655)
