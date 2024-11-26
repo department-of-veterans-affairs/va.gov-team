@@ -77,7 +77,7 @@ We conducted remote moderated usability testing over Zoom from October 22-Novemb
 
 ## Details of Findings 
 
-**1. All participants were able to navigate the edit flow.**
+### 1. All participants were able to navigate the edit flow.
 
 *Labels: PRDT: Discharge-upgrade-wizard, DSC: Experimental, DSP: Sub-task, DSP: Wizards*
 
@@ -88,34 +88,44 @@ We conducted remote moderated usability testing over Zoom from October 22-Novemb
 
 > "It’s worded very well and like I said, you click on a page and it's not just a bunch of questions all clumped together. There's a section and then you click continue and so on and so forth. Then, like you showed me with the review, you can click back and fix your answers if they were wrong. So things are very good." (p4)
 
+#### Editing tasks
+
 Most participants were asked to complete two tasks where they needed to edit their answers to questions. 
 - The first task asked participants to edit their year of discharge to 2009. Editing the year to 2009 reveals one new, additional question asking their month of discharge. All participants were able to complete this task.
      - One participant had already selected 2009 when answering the question the first time. This participant was asked to edit their year of discharge to 2010. They didn't comment on the month of discharge question no longer showing on the review page.
 - The second task asked participants to edit their answer from No to Yes for the "Have you previously applied for and been denied a discharge upgrade for this period of service?" question. Editing this answer reveals 1-3 new, additional questions. During the task, the participant was asked mid-flow to go back to a previous question and change the answer. This tested the Back/Continue button functionality while going through the edit flow. All participants who did this task were able to complete it.
      - Three participants weren't asked to complete this task due to how they answered other questions. Branching logic in this wizard changed the amount of questions they saw and the Back button couldn't be tested. However, they had no difficulty navigating the wizard in general.
 
-**2. Most participants understand that they may be asked to answer additional questions.**
+### 2. Most participants understand that they may be asked to answer additional questions.
 
 *Labels: DSC: Alert - Expandable, DSP: Wizards*
 
 - Most participants had no feedback on additional questions being asked, but were able to edit questions with ease.
 - Four participants noticed the alert on question pages that indicated more may be asked.
 
-> "So it does say here, 'changing your answer may lead to a new set of questions', which would be no problem." (p5)
+#### Additional questions
 
-![Screenshot 2024-11-15 at 1 19 18 PM](https://github.com/user-attachments/assets/5c520e40-a3f9-4567-8d0e-383559b7f40b)
-
-After selecting an answer to edit on the review page, this alert will appear on the chosen question. New questions that show after selecting Continue will not have this alert. Although four participants noticed the alert, only one participant opened it to reveal additional text that read "If you change your answer to this question, you may be asked for more information to ensure that we provide you with the best results."
+Most participants were asked to complete two tasks where they needed to edit their answers to questions. Editing the answers caused 1-3 additional questions to appear in the flow (more details are in Finding 1).
+- Two participants noticed additional questions, but didn't comment on the alert. 
+- One participant noticed that they were being asked the "Did you complete a period of service in which your character of service was Honorable or General Under Honorable Conditions?" question for a second time. This question reappeared for most participants that edited their answers. 
 
 > "It goes back to one of the questions we answered. I guess that changed the whole outcome of it." (p5)
 
 > "Interesting that it only asked for the month when you changed the year to 2009." (p10)
 
-Most participants were asked to complete two tasks where they needed to edit their answers to questions. Editing the answers caused 1-3 additional questions to appear in the flow (additional details are in Finding 1).
-- Two participants noticed additional questions, but didn't comment on the alert. 
-- One participant noticed that they were being asked the "Did you complete a period of service in which your character of service was Honorable or General Under Honorable Conditions?" question for a second time. This question reappeared for most participants that edited their answers. 
+#### Alert on question pages
 
-**3. Most participants understand the updated review page and how it relates to the questions they answered.**
+<details>
+
+![Screenshot 2024-11-15 at 1 19 18 PM](https://github.com/user-attachments/assets/5c520e40-a3f9-4567-8d0e-383559b7f40b)
+
+</details>
+
+After selecting an answer to edit on the review page, this alert will appear on the chosen question. New questions that show after selecting Continue will not have this alert. Although four participants noticed the alert, only one participant opened it to reveal additional text that read "If you change your answer to this question, you may be asked for more information to ensure that we provide you with the best results."
+
+> "So it does say here, 'changing your answer may lead to a new set of questions', which would be no problem." (p5)
+
+### 3. Most participants understand the updated review page and how it relates to the questions they answered.
 
 *Labels: DSP: Help users know how their info is updated, DSP: Help users to check answers, DSC: Alert - Expandable, DSP: Form templates*
 
@@ -126,23 +136,33 @@ Most participants were asked to complete two tasks where they needed to edit the
 
 > "I like the fact that I'm able to look and see the answers on one page that I've completed so far." (p8)
 
+#### Alert on review page
+
+<details>
+
+![Screenshot 2024-11-15 at 3 04 49 PM](https://github.com/user-attachments/assets/6d3116b6-e2ca-4117-912c-d26be33a7bf9)
+
+</details>
+
+This alert appears on the review page after an answer has been edited. Although four participants noticed this alert, none of them opened it to reveal additional text. 
+
 > After seeing the alert: "See, that answers my question about my information being saved." (p5)
 
 > After the screen reader read the alert: "It just told me my information was updated." (p7)
 
-![Screenshot 2024-11-15 at 3 04 49 PM](https://github.com/user-attachments/assets/6d3116b6-e2ca-4117-912c-d26be33a7bf9)
+#### Saving answers
 
-This alert appears on the review page after an answer has been edited. Although four participants noticed this alert, none of them opened it to reveal additional text. 
+One participant wanted a way to save their answers on the review page because they didn't want to answer the questions in the wizard again.
 
 > "Will this page be saved? So I can just come back and wouldn't have to do the process over again because that could be frustrating." (p5)
 
-One participant wanted a way to save their answers on the review page because they didn't want to answer the questions in the wizard again. 
-
-> "[Back button is] a bit unnecessary on this page." (p12)
+#### Back button on review page
 
 One participant wasn't sure where the Back button would navigate to. They were concerned it would take them to the beginning of the wizard, resulting in losing answers. After editing questions, they became more uncertain and wondered if it would take them to the last question in the wizard or the last question they edited. 
 
-**4. Some participants found the questions confusing or lacking information.**
+> "[Back button is] a bit unnecessary on this page." (p12)
+
+### 4. Some participants found the questions confusing or lacking information.
 
 *Labels: PRDT: Content*
 
@@ -150,31 +170,56 @@ One participant wasn't sure where the Back button would navigate to. They were c
 - Two participants wanted to select multiple reasons for changing discharge paperwork.
 - Two participants noted that Space Force was missing from the list of military branch options.
 
-> "I might try to get help for somebody to explain [the prior service question] to me" (p5)
+#### Prior service question
+
+<details>
 
 ![Screenshot 2024-11-15 at 3 31 35 PM](https://github.com/user-attachments/assets/ab429c62-35eb-45b4-ba32-1f08ae2063d1)
 
+</details>
+
 Three participants found the wording of the prior service question confusing. One of those participants pointed out that they previously had a character of service that was General Under Honorable Conditions. They noticed the word "general" in the question, but became confused when they didn't see the word in any of the answers. The other two participants found the wording confusing in general, but were able to answer the question. 
+
+> "I might try to get help for somebody to explain [the prior service question] to me" (p5)
+
+#### Multiple reasons for changing discharge paperwork
+
+<details>
+
+![Screenshot 2024-11-15 at 3 32 15 PM](https://github.com/user-attachments/assets/b8509cd0-d9de-451b-aca1-1d93d7b1f60f)
+
+</details>
+
+Two participants wanted to select multiple responses to why they wanted to change their discharge paperwork. One of the participants remembered being able to select multiple reasons on the form when they had applied for a discharge upgrade in the past. 
 
 > "So I wanted to put that, but also put this right here, but it only lets me choose one. That's kind of frustrating." (p6)
 
 > "There were three different things why I had requested to upgrade. So I guess I would have to make the distinction of what I felt was most important. But if I picked the wrong one, then maybe that process would have been delayed even longer or might not have gone through." (p10)
 
-![Screenshot 2024-11-15 at 3 32 15 PM](https://github.com/user-attachments/assets/b8509cd0-d9de-451b-aca1-1d93d7b1f60f)
+#### Military branch options
 
-Two participants wanted to select multiple responses to why they wanted to change their discharge paperwork. One of the participants remembered being able to select multiple reasons on the form when they had applied for a discharge upgrade in the past. 
+<details>
 
 ![Screenshot 2024-11-18 at 2 49 45 PM](https://github.com/user-attachments/assets/f58e969f-e917-4b42-8b5a-a4de1eecef63)
 
+</details>
+
 Two participants noted that Space Force was missing from the list of branch options. One assumed that Air Force would need to be selected instead. 
 
-**5. Some participants had feedback on the results page content.**
+### 5. Some participants had feedback on the results page content.
 
 *Labels: PRDT: Content*
 
 - Three participants said there was too much content on the page.
 - Two participants said they wanted more info on buddy statements.
 - One participant expressed that the info on the page was very general and not specific to the discharge upgrade reason they gave.
+
+#### Amount of content
+
+Three participants gave feedback that there was too much content on the results page. 
+- Four participants said their next step would be to print out the page. This could indicate that there is too much information to digest at once.
+- One participant wanted to be able to save the results page and instructions.
+- One participant used text-to-speech software (Speechify) to help break down the content on the page and reduce the cognitive load. This participant only used the text-to-speech software on the start and results pages. They didn't need to use it on the question or review pages, suggesting that the content on those pages wasn't overwhelming.
 
 > "It's a lot to take in." (p12)
 
@@ -184,23 +229,27 @@ Two participants noted that Space Force was missing from the list of branch opti
 
 > "I don't know how to get back to the instructions without filling out the application all over again" (p12)
 
-Three participants gave feedback that there was too much content on the results page. 
-- Four participants said their next step would be to print out the page. This could indicate that there is too much information to digest at once. One participant wanted to be able to save the results page and instructions.
-- One participant used a screen reader (Speechify) to help break down the content on the page and reduce the cognitive load. This participant only used the screen reader on the start and results pages. They didn't need to use it on the question or review pages, suggesting that the content on those pages wasn't overwhelming.
+#### Buddy statements
+
+<details>
 
 ![Screenshot 2024-11-15 at 4 51 38 PM](https://github.com/user-attachments/assets/1ca62f3f-50c8-4bbc-b78f-1f4784b1968b)
 
-> "I know for a fact that buddy statements carry a lot of weight. I know that because I had couple with my disability claim. They carry a lot of weight but it doesn't really say that in here." (p3)
+</details>
 
 Two participants said they wanted more info on buddy statements. 
 - One participant wanted examples of written buddy statements and an estimate of how many were needed.
-- One participant wanted more emphasis on how important buddy statements are. 
+- One participant wanted more emphasis on how important buddy statements are.
 
-> "I guess it's helpful if you're starting out at square one and have no idea what you're doing. By this point, most Veterans, at least most Veterans who are under the age of 50, have already visited online forums or went to their local VFW or American Legion and have already got direction and paperwork from someone else that does this for them." (p3)
+> "I know for a fact that buddy statements carry a lot of weight. I know that because I had couple with my disability claim. They carry a lot of weight but it doesn't really say that in here." (p3)
+
+#### Information was too general
 
 One participant expressed that the info on the page was very general and not specific to the discharge upgrade reason they gave.
 
-**6. Some participants wanted a different submission process.**
+> "I guess it's helpful if you're starting out at square one and have no idea what you're doing. By this point, most Veterans, at least most Veterans who are under the age of 50, have already visited online forums or went to their local VFW or American Legion and have already got direction and paperwork from someone else that does this for them." (p3)
+
+### 6. Some participants wanted a different submission process.
 
 *Labels: DSP: Help users to keep a record of submitted info*
 
@@ -208,36 +257,46 @@ One participant expressed that the info on the page was very general and not spe
 - Three participants said the form would be difficult to fill out. One participant expressed frustration that the answers they gave in the wizard didn't help fill out the form.
 - Three participants would like more communication about the discharge upgrade process after submitting their form.
 
+#### Submit form online
+
+<details>
+
+![Screenshot 2024-11-18 at 9 36 23 AM](https://github.com/user-attachments/assets/8393b245-8855-434d-b51f-e15a26af9cc7)
+
+</details>
+
+On most of the results pages, the only option users are given is to mail in their paperwork. This is an example of what the information on the results page looks like, although the specific details and address varies depending on the answers selected in the wizard. Three participants wanted to be able to submit their form online instead. 
+
 > "It's too bad that you can't do it online." (p4)
 
 > "Most vets don't trust the mail. There's been too many things getting messed up in the mail for us." (p3)
 
-![Screenshot 2024-11-18 at 9 36 23 AM](https://github.com/user-attachments/assets/8393b245-8855-434d-b51f-e15a26af9cc7)
-
-On most of the results pages, the only option users are given is to mail in their paperwork. This is an example of what the information on the results page looks like, although the specific details and address varies depending on the answers selected in the wizard. Three participants wanted to be able to submit their form online instead. 
+#### More communication about process
 
 Other participants wanted more transparency after their form was submitted. They were uncertain how long the process would take and wanted updates throughout the process, like when their form was received. 
+
+#### Form difficulty
+
+Three participants expressed concerns that the form was confusing, had a lot of content, and would be difficult to fill out on their own. One participant said that they would like to see information they inputted into the wizard on the form. 
 
 > "This would be a lot of work." (p8)
 
 > ""It just gives me a blank generic DoD 149. It would be really damn cool if it actually filled in the parts we've already given you." (p3)
 
-Three participants expressed concerns that the form was confusing, had a lot of content, and would be difficult to fill out on their own. One participant said that they would like to see information they inputted into the wizard on the form. 
-
 ## Additional Insights
 
-**1. Assistive technology users were able to answer all questions and complete editing tasks.**
-     - This study had three participants who used assistive technology, one used a screen magnifier and two used screen readers. All three participants were able to navigate the sub task pattern, answer questions, and edit them. 
+**A. Assistive technology users were able to answer all questions and complete editing tasks.**
+- This study had three participants who used assistive technology (one screen magnifier, one screen reader, one text-to-speech software). All three participants were able to navigate the sub task pattern, answer questions, and edit them. 
 
 > "It's going to be accessible for a visually impaired Veteran." (p7)
 
-**2. Assistive technology users had difficulty with the action link on the start page.**
+**B. Assistive technology users had difficulty with the action link on the start page.**
 - One participant using a screen magnifier missed this link.
 - One participant using a screen reader believed that this was the bottom of the page.
 
-**3. The sub task pattern was easy to use.**
+**C. The sub task pattern was easy to use.**
 - Participants noted that they liked the big buttons and seeing only one question per page. For the Discharge Upgrade Wizard specifically, they liked the simple yes/no or multiple choice questions in favor of needing any input fields.
-- One participant used a screen reader (Speechify) to help break down the content on the page and reduce the cognitive load. They didn't need to use their screen reader on the question or review pages, suggesting that the content on those pages wasn't overwhelming.
+- One participant used text-to-speech software (Speechify) to help break down the content on the page and reduce the cognitive load. They didn't need to use their text-to-speech software on the question or review pages, suggesting that the content on those pages wasn't overwhelming.
 
 > "I like the big buttons and that it just gives you a little paragraph to work with at a time." (p4)
 
@@ -384,7 +443,8 @@ Disability and Assistive Technology (AT):
 * Cognitive: 5
 * AT beginner: 0
 * AT advanced user: 3
-* Desktop screen reader: 2
+* Desktop screen reader: 1
+* Desktop text-to-speech software: 1
 * Mobile screen reader: 0
 * Magnification/Zoom: 1
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
@@ -411,4 +471,6 @@ This research does not include the perspectives of the following marginalized Ve
 * Switch Device
 * Braille Reader
 
-![Screenshot 2024-11-18 at 11 58 27 AM](https://github.com/user-attachments/assets/d8833151-f419-49db-8d46-d2eac4a45d0a)
+![Screenshot 2024-11-25 at 2 01 53 PM](https://github.com/user-attachments/assets/42a59356-3a8d-47dd-9cd9-61520495baf1)
+
+

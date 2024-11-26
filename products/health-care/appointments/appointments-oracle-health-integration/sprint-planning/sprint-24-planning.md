@@ -6,7 +6,6 @@ Sprint 24: 11/19/24 - 12/02/24
 * Devin PTO 11/29/24
 * Clayton PTO 11/29/24
 
-
 ## 📣 Announcements
 * Lauren Alexanderson gave a prod date of December 2024
 

@@ -134,7 +134,7 @@ JAWS users had a hard time operating form controls since there were issues such 
 
 * Two participants mentioned the question felt sudden and out-of-place, and were concerned that it would affect their claim.
 
-> “Here's the problem. VA has showed us that they're not taking care of their veterans. So I maybe it's just for me. I have a problem with fully trusting Va. So I'm not going to believe it… This is probably not the best place to put it. However, if something to the effect of to provide better healthcare services. We're looking to inquire if if you've experienced this, and VA. Is truly trying to help better the healthcare services that we could get for that.” P11
+> “Here's the problem. VA has shown us that they're not taking care of their Veterans, so I maybe it's just for me. I have a problem with fully trusting VA. So I'm not going to believe it […] This is probably not the best place to put it. However, if something to the effect of to provide better healthcare services. We're looking to inquire if if you've experienced this, and VA is truly trying to help better the healthcare services that we could get for that. I mean, look, personally, I just had my provider changed yet again. So I have 3 providers within 3 years. I couldn't get an appointment until 3 months out. They cancelled my appointment that I had back in August.” P11
 
 * One mentioned that they’ve provided details about MST, but haven’t seen any changes to their claim. 
 
@@ -265,6 +265,8 @@ Out of 11 participants, 8 tested a flow where they made edits to evidence when t
 
 3. Possibly remove the presumptive conditions alert within the form.
    - It’s clear to Veterans within the introduction of the form that it covers PACT Act. Including the alert mid-form to re-emphasize presumptive conditions causes unnecessary friction, especially for Veterans who use screen readers.
+  
+4. Clarify the language around the Notice of Evidence Needed for claims filed within a year of decision.
 
 5. Adjust the wording around types of facilities to provide more information and clarity.
 

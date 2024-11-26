@@ -43,3 +43,4 @@ All users and data are test data.
 
 Only Allergies is required field that is not an option to not include by clinician.
 Clinician must select this field or Pocket Allergies and Meds. Pocket allergies and meds is NOT shown on the digital AVS.
+
