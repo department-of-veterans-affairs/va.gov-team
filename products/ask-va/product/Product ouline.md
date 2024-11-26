@@ -1,5 +1,5 @@
 # Ask VA Phase 1 - Product Outline
-Last updated by @beckyphung on November 25, 2024
+Last updated by @beckyphung on November 26, 2024
 
 **Jump to:**
 - [Overview](#overview)
@@ -59,6 +59,8 @@ We'll track these primary KPIs over time.
 - **Time to submit form** - Decrease the average time it takes submitters to send a question for form
 - **Reply rate** - Increase the number of replies to questions for dashboard
 - **Time to reply** - Decrease the average time it takes submitters to reply to a question for dashboard
+
+Note: The satisfaction and experience metrics are different. The satisfaction rating comes from the [Medallia feedback button survey](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data#AccessingandUtilizingVeteranSupportData-FeedbackSurveyQuestions). The experience rating comes from the [Medallia intercept survey](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data#AccessingandUtilizingVeteranSupportData-MedalliaInterceptSurveyQuestions).
 
 #### Performance KPIs
 - **Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions for form and dashboard
