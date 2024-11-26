@@ -169,13 +169,13 @@ Okay, you should now be on the disability benefits application. We’re going to
 
 ## **First Task: \[Concept Test- Review and Submit alert\] \- 10 minutes**
 
-That was a lot to get through, thanks for your patience. Now we are ready to begin our first task. We are starting today’s session at the end of the disability compensation form, rather than the beginning. This screen is at the very end of the form in step 5 out of 5\. 
+That was a lot to get through, thanks for your patience. Now we are ready to begin our first task. We are starting today’s session at the end of the disability compensation form, not the beginning. This screen is at the very end of the form in step 5 out of 5\. 
 
 We filled out the form with fake data– none of the information listed is yours and will not impact your benefits in any way. 
 
-Task: Review the screen and let me know when you are ready to submit your claim. 
+* Review the screen and let me know if you feel ready to submit your claim. 
 
-Do not navigate away from this screen, but tell me verbally if you would like to go somewhere else.
+Do your best to think out loud as your navigate through the page. Do not navigate away from this screen, but tell me verbally if you would like to go somewhere else.
 
 **Post-Task Questions**
 
@@ -208,9 +208,9 @@ Task: Navigate the new questions that were added to the form.
 
 Thanks for all of your feedback\! 
 
-Imagine that you are a Veteran filing for disability compensation for new conditions. As a reminder, we’ve pre-filled the form with fake data, so the conditions listed on the page are not yours. 
+Imagine that you are a Veteran and have decided to file for disability. During your service, you were exposed to chemicals that could be related to health conditions you developed later.
 
-Task: Complete this screen as if one of your conditions resulted from exposure to Agent Orange during your service.
+Task: Show me how you would complete this screen.
 
 **Post-task questions**
 
@@ -227,11 +227,12 @@ Task: Complete this screen as if one of your conditions resulted from exposure t
 *The participant may skip certain questions based on their military service dates. Participants must fill out at least one location screen to complete the exercise.*   
 *The facilitator uses military service information provided by the participant during warm-up questions to prompt them if they get stuck, or use the mock scenario below.* 
 
-For the rest of this session, you may use your military service to guide your answers to the questions. Are you comfortable doing so, or would you prefer a mock scenario?
+For the rest of this session, you may use your military service to guide your answers to the questions. Are you comfortable with this? If not, we can continue with our last scenario. 
 
-Scenario, if selected:  Imagine you are filing for disability compensation. You served in multiple locations during the Gulf War and were exposed to various hazards during your service. 
+Imagine that you are a Veteran and have decided to file for disability. During your 10 years of service at home and overseas, you were exposed to chemicals that could be related to health conditions you developed later. 
 
-Task: Complete the questions related to toxic exposure in the form. 
+* Respond to the disability compensation questions related to toxic exposure. 
+
 
 Please talk out loud as you go; I may pause you to ask questions at various points. 
 
@@ -289,7 +290,7 @@ Please talk out loud as you go; I may pause you to ask questions at various poin
 
 ## **Fifth task: \[Edit response from summary screen\] \- 10 minutes**
 
-For this task, I would like for you to imagine that you made a mistake while entering a location or date. 
+For this task, imagine you made a mistake while entering data. 
 
 1) Change one date range entry to January 1, 2000\.   
 2) Add a new location.
