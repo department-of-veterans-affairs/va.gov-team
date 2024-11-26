@@ -8,7 +8,7 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
 - [ ] Refine: Style & Complete (one ticket each)
 	- [x] Introduction page - ticket: 
 	- [x] `/personal-information` - ticket
- 	- [ ] `/contact-information`
+ 	- [x] `/contact-information` - ticket
   	  - [ ] Need clarification on which phone number to list
       - [ ] Update to new design pattern (following 1010ezr)
 	- [x] `/debt-selection` - ticket
@@ -16,18 +16,18 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
 	- [x] `/dispute-reason`
 	- [x] Review & Submit - ticket
 	- [x] Confirmation page - ticket 
-- [ ] One ticket for transform & submit stuffs
-  - [ ] `transform` for submission
-  - [ ] `submission` definition (see 5655)
-  - [ ] Include Sentry logging and alert message
+- [x] One ticket for transform & submit stuffs - ticket
+  - [x] `transform` for submission
+  - [x] `submission` definition (see 5655)
+  - [x] Include Sentry logging and alert message
 - [ ] LOA messaging - including alert? 
-- [ ] `vets-json-schema` repo update (finalize need for ssn) *needed for launch*
-- [ ] `downtime` section (see 5655?)
-- [ ] `getHelp` aka Need Help?
-- [ ] One ticket for messaging/custom text
-  - [ ] `savedFormMessages` 
-  - [ ] `saveInProgress` (messages)
-  - [ ] `customText`? (see 5655 for examples)
+- [x] `vets-json-schema` repo update (finalize need for ssn) *needed for launch*
+- [x] `downtime` section (see 5655?)
+- [x] `getHelp` aka Need Help?
+- [x] One ticket for messaging/custom text - ticket
+  - [x] `savedFormMessages` 
+  - [x] `saveInProgress` (messages)
+  - [x] `customText`? (see 5655 for examples)
 
 ### Need from design
 - [ ] Error messaging 
