@@ -1,4 +1,4 @@
-[# **Conversation Guide: “Non-AT Toxic Exposure Evaluative Research Study” for Disability Experience Team, November 2024**
+# **Conversation Guide: “Non-AT Toxic Exposure Evaluative Research Study” for Disability Experience Team, November 2024**
 
 ## **Day of the session**
 
@@ -24,7 +24,9 @@ Thanks for joining us today\!  My name is \[FACILITATOR\] and \[NOTETAKER\] is t
 
 * **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 
-* **​​In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won’t be offended by any opinions you express.
+* **​​In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won’t be offended by any opinions you express.  
+    
+* **Whenever you can, talk out loud to share your thought process as you complete tasks.** This will help me understand your experience. I might remind you to think out loud because this can feel unnatural and be easy to forget.
 
 * **We may look at things that have caused you frustration in the past, and I want you to know up front that I can’t have an impact on your personal situation.** However, I do want to hear about your frustrations with the website in case they are with things that we can improve on in the future.
 
@@ -35,7 +37,7 @@ Thanks for joining us today\!  My name is \[FACILITATOR\] and \[NOTETAKER\] is t
 
 * *If yes:* Admit observers.
 
-* Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
+* Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name. Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 
 * **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. 
 
@@ -52,7 +54,7 @@ Before we look at the website, let’s start with a few background questions.
 * Have you filed for disability compensation in the past? If so, how did you file the claim? (online, on paper, with VSO, etc)  
   * Have you been granted compensation for any of the conditions you filed for?  
 * Are you considering filing any new claims in the future? \[Use this to prompt the TE opt-in screen if needed\]  
-* Are you familiar with the Pact Act? If so, where did you learn about it?   
+* What do you know about the Pact Act, if anything?  
   * Do you think you are eligible? Why or why not?  
 * The questions we are looking at today are related to your military service history. If you’re comfortable sharing, it would be helpful to know when you served, and in which branch. 
 
@@ -77,76 +79,52 @@ Next, I’d like you to share your screen for the remainder of the session. If y
 
 General troubleshooting: [https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr) \]
 
+**Before reaching review/submit:**  
+That was a lot to get through, thanks for your patience. Now we are ready to begin our first task. 
+
+For today’s session, imagine you are filing for disability benefits on VA.gov with the goal of getting compensation for new conditions. You have already filled out a majority of the form. This includes your personal information, the conditions you’re filing for, supporting evidence, etc. This screen we are on now is at **the very end of the form** where you can review information and submit your claim.
+
+We filled out the form with fake data– none of the information listed is yours and will not impact your benefits in any way. 
+
 ---
 
 ## **First Task: \[Concept Test- Review and Submit alert\] \- 10 minutes**
 
-That was a lot to get through, thanks for your patience. Now we are ready to begin our first task. We are starting today’s session at the end of the disability compensation form, not the beginning. This screen is at the very end of the form in step 5 out of 5\. 
+**Take a moment to review this page. When you’re ready, talk me through what you would expect to do before pressing submit.** *Please do not press the submit button or leave the page at this time– but tell me verbally if there is an action you would like to take.* 
 
-We filled out the form with fake data– none of the information listed is yours and will not impact your benefits in any way. 
-
-* Review the screen and let me know if you feel ready to submit your claim. 
-
-Do your best to think out loud as your navigate through the page. Do not navigate away from this screen, but tell me verbally if you would like to go somewhere else.
-
-**Post-Task Questions**
-
-* Is there anything else that you’d like to do before submitting your claim?  
-* What information, if any, stood out to you on this screen?  
-* In your own words, what do you think the text under the heading “we updated our online form” is communicating? \[Heading level 2, middle of the page\]   
-  * What does the phrase “toxic exposure” mean to you?  
-* Would you expect to answer the new questions before submitting?  
-* If you were to click on the link, where would you expect it to take you? 
+* Is there any action left for you to take on this screen? \[*Task is success if they include answer questions\]*  
+* In your own words, what do you think the content “we updated our online form” is communicating? \[Heading level 2, middle of the page\]   
+  * What does the phrase “toxic exposure” mean to you?
 
 *Look out for: Misunderstanding or missing the alert content, understanding of eligibility, rationale for opting in or out*  
 ---
 
 ## **Second Task: \[Navigate from alert to TE questions\] \- 5 minutes**
 
-Task: Navigate the new questions that were added to the form.
+Navigate the new questions that were added to the form.
 
 **Post-Task Questions**
 
 * On a scale of 1 to 5, how easy or difficult was it to complete this task, with 1 being very difficult and 5 being very easy?  
-* Did you have any trouble finding the link to access this page? If so, please describe the issue.  
-* Where did the link take you? Is this where you expected to go?
+* Where did the link take you on VA.gov? Is this where you expected to go? 
 
-
-  
 *Look out for: Issues finding the link, confusion around location in the form*  
 ---
 
-## **Third Task: \[Opt in to Toxic Exposure\] \- 5 minutes**
+## **Third Task: \[Complete Toxic Exposure Flow\] \- 20-25 minutes**
 
-Thanks for all of your feedback\! 
+Thanks for all of your feedback\! For the rest of the session, you are welcome to use your own military service history to answer the questions. Are you comfortable doing this?
 
-For this task, imagine that you are a Veteran who was exposed to chemicals throughout your decade of military service, both at home and overseas. These exposures may be linked to health issues you developed after leaving the military. You’re now filing a disability claim with the VA to seek benefits for those conditions.
+\[If scenario is preferred\] Imagine that you were exposed to burn pits and Agent Orange during your many years of service overseas. 
 
-* Opt in to answer questions about toxic exposure.
-
-**Post-task questions**
-
-* On a scale of 1 to 5, how easy or difficult was it to complete this task, with 1 being very difficult and 5 being very easy?  
-* Is any information confusing or missing from this page?  
-* \[If viewed TE hint text or new tab\] Was the additional information about toxic exposure helpful? 
-
-*Look out for: Did participant view toxic exposure hint or have issues with the new tab? Any confusion/questions about toxic exposure eligibility?*  
----
-
-## **Fourth Task: \[Complete location and date pages\] \- 15 minutes**
-
-*Background for facilitator: Screens in the toxic exposure flow cycle four times– once for each set of location/dates or hazard.*   
-*The participant may skip certain questions based on their military service dates. Participants must fill out at least one location screen to complete the exercise.*   
-*The facilitator uses military service information provided by the participant during warm-up questions to prompt them if they get stuck, or use the mock scenario below.* 
-
-For the rest of this session, you may use your military service to guide your answers to the questions. Are you comfortable with this? If not, we can continue with our last scenario. 
-
-\[Continue scenario\] Imagine that you are a Veteran who was exposed to chemicals throughout your decade of military service, both at home and overseas. These exposures may be linked to health issues you developed after leaving the military. You’re now filing a disability claim with the VA to seek benefits for those conditions.
-
-* Navigate through the form and respond to questions related to toxic exposure. 
-
+Respond to the following questions for conditions related to toxic exposure.
 
 Please talk out loud as you go; I may pause you to ask questions at various points. 
+
+**\[Checkbox conditions screen\]** 
+
+* How did you select which conditions were related to toxic exposure?  
+* If viewed TE hint text or new tab\] Was the additional information about toxic exposure helpful? 
 
 ### **\[Gulf War 1990 location screen\]**
 
@@ -157,6 +135,8 @@ Please talk out loud as you go; I may pause you to ask questions at various poin
 
 \[Summary screen\]  
 *Look out for: Issues modifying date/location, navigation confusion*
+
+### 
 
 ### **\[Gulf War post-9/11 location screen\]**
 
@@ -196,8 +176,6 @@ Please talk out loud as you go; I may pause you to ask questions at various poin
   * Were there any moments during the task when you were unsure about what to do next or how to answer a question? If so, how did you handle those moments?  
 * Was the information on the summary screen helpful? 
 
-
-  
 ---
 
 ## **Fifth task: \[Edit response from summary screen\] \- 10 minutes**
@@ -215,44 +193,12 @@ For this task, imagine you made a mistake while entering data.
 
 ---
 
-## **Sixth task: \[If time allows: Navigate back to Review and Submit page\]**
-
-Thanks for all of your feedback. 
-
-For today’s final task, I’d like you to return to the review and submit page where we started today’s session. As a reminder, this is at the end of the form– Step 5 of 5\. 
-
-**Post-task questions**
-
-* On a scale of 1 to 5, how difficult or easy was it to complete this task? With 1 being very difficult and 5 being very easy?  
-* On a scale of 1 to 5, how confident are you that your answers are accurate and the form is complete? With 1 being not confident and 5 being very confident?  
-* Is there anything else you would expect to do before submitting the form??
-
----
-
 ## **Wrap-up Questions- 5-10 minutes**
 
-* Please rate your experience responding to toxic exposure questions.   
-  * Very bad  
-  * Somewhat bad  
-  * Neither bad nor good  
-  * Somewhat good  
-  * Very good  
-* Please rate how understandable today’s experience was.  
-  * Difficult to understand  
-  * Somewhat difficult to understand  
-  * Some is easy, some is difficult  
-  * Somewhat easy to understand  
-  * Easy to understand  
-* How did this research session change your trust in Veterans Affairs?  
-  * Decreased my trust  
-  * Somewhat decreased my trust  
-  * Neither increased nor decreased my trust  
-  * Somewhat increased my trust  
-  * Increased my trust
-
-* How did you find the experience of navigating through the form?    
-* Did you find that any of the headers, labels, or links unclear or unhelpful?  
+* Overall, how would you describe your experience today?  
+* Did you encounter any challenges or confusion while completing tasks today? If so, what were they?   
 * How confident are you that the information you provided is accurate and sufficient to support your compensation claim?  
+* If you had a magic wand and could improve one thing about this experience, what would it be?  
 * Is there anything else you'd like to share about your experience?
 
 
@@ -306,6 +252,3 @@ If you're still not able to continue, after you pause...
 Thanks for letting me take a break. You didn't do anything wrong, but I'm realizing that I'm not going to be able to continue this session. You will still be paid for the full time. I really appreciate you sharing with me today. Is it okay with you if we stop? Thanks very much.
 
 ### 
-](https://perigeantechnologies.knack.com/dsva-perigean-project-tracker 
-dsva@perigeantechnologies.com
-p3rige4n*&#)
