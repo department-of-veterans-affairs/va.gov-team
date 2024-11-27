@@ -81,6 +81,17 @@ This initiative allows Veterans to directly schedule a community care appointmen
           - The majority of participants said they would expect VA to contact them if they haven't self-scheduled their appointment within a certain amount of time.
 
 ## Testing
+### Stage testing
+We need to figure out how to do stage testing with the following connected systems:
+ - Vista/Oracle Health
+ - Referrals (HSRM)
+ - EPS
+We need continuety with an ICN that has referrals in a stage system, that can then be scheduled in a stage EPS system, that can then be added to a stage Vista/OH site.
+This is TBD.
+### Prod testing
+We need a patient that we can do a prod test with who has referrals that are within the pilot. We will need to prod test before launching.
+This is TBD.
+### Test rail
 - [Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/cc-direct-scheduling-test-cases.md)
 - [QA Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/cc-direct-scheduling-qa-plan.md)
 
