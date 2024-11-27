@@ -42,10 +42,10 @@ Our PM and PO will monitor analytics.
 
 Rollback plan:
 1. PM and Engineering will monitor submissions and contact center feedback channels for any potential issues/feedback 
-2. If there is any unexpected issue, Engineering will disable the flipper which hides the page updates.
+2. If there is any unexpected and problematic issue, Engineering will disable the flipper which hides the page updates.
 3. Communication will be sent to the VA Product Owner and Decision Review team.
 4. The Decision Review team team will priortize enhancements to the content of the confirmation page in coordination with the VA PO (Amy Lai)
-5. Engineering will re-enable the flipper
+5. Engineering will re-enable the flipper after PM/PO approval
 
 
 ### Phase I: Full production release
@@ -60,7 +60,7 @@ This is a full production release. The updated confirmation page will be availab
   - Pageviews
 - Links to the dashboard(s) showing "success criteria" metrics:
   - [DataDog Form submission dashboard]()
-  - [Pageviews]()
+  - [Print button clicks]()
 - Who is monitoring the dashboard(s)?: Product Manager (Maurice DeBeary) 
 
 
