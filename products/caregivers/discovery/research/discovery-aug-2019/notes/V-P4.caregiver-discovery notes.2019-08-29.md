@@ -1,4 +1,4 @@
-#Veteran P4 NOTES#
+# Veteran P4 NOTES
 
 See [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/research/discovery-aug-2019/veteran-conversation-guide.md)
 
