@@ -1,4 +1,4 @@
-# **Conversation Guide: “Non-AT Toxic Exposure Evaluative Research Study” for Disability Experience Team, November 2024**
+[# **Conversation Guide: “Non-AT Toxic Exposure Evaluative Research Study” for Disability Experience Team, November 2024**
 
 ## **Day of the session**
 
@@ -306,3 +306,6 @@ If you're still not able to continue, after you pause...
 Thanks for letting me take a break. You didn't do anything wrong, but I'm realizing that I'm not going to be able to continue this session. You will still be paid for the full time. I really appreciate you sharing with me today. Is it okay with you if we stop? Thanks very much.
 
 ### 
+](https://perigeantechnologies.knack.com/dsva-perigean-project-tracker 
+dsva@perigeantechnologies.com
+p3rige4n*&#)
