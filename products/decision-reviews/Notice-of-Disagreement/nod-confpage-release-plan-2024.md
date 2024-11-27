@@ -41,7 +41,7 @@ Before enabling your feature toggle in production, you'll need to:
 Our PM and PO will monitor analytics.
 
 Rollback plan:
-1. PM and FE Engineering will monitor contact center feedback channels for any potential issues/feedback 
+1. PM will monitor contact center feedback channels for any potential issues/feedback 
 2. If there is any unexpected issue, Engineering will disable the flipper which hides the page updates.
 3. Communication will be sent to the VA Product Owner and Decision Review team.
 4. The Decision Review team team will priortize enhancements to the content of the confirmation page in coordination with the VA PO (Amy Lai)
