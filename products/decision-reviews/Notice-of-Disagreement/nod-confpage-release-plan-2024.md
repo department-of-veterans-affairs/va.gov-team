@@ -5,7 +5,6 @@
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
 |Phase 1: Production release testing |indefinite | 100% users | November 27, 2024  |
-|Phase 2D: 100% of users| indefinite | 100% users (auth and non-auth) |December 9, 2024|
 
 
 ## Overview
