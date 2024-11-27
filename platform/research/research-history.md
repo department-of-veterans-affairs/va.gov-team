@@ -769,7 +769,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 #### September 4 - 9: Direct Deposit UAT **
 *GovCIO: Arthur Green*
 - 10 participants
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/UAT/research-plan.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/Research/2019-09-direct-deposit-UAT)
 
 #### Early September 2019
 *Authenticated experience: Samara Strauss*
