@@ -87,9 +87,11 @@ We need to figure out how to do stage testing with the following connected syste
  - Referrals (HSRM)
  - EPS
 We need continuety with an ICN that has referrals in a stage system, that can then be scheduled in a stage EPS system, that can then be added to a stage Vista/OH site.
+
 This is TBD.
 ### Prod testing
 We need a patient that we can do a prod test with who has referrals that are within the pilot. We will need to prod test before launching.
+
 This is TBD.
 ### Test rail
 - [Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/cc-direct-scheduling-test-cases.md)
