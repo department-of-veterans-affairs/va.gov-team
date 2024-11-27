@@ -10,7 +10,7 @@ assignees: ''
 
 ## Next Steps for the VFS team
 
-_How did this touchpoint go? [Give feedback on the Collaboration Cycle process](https://ows.io/qs/gb1dfnkl) at any time._
+_How did this touchpoint go? [Give feedback on the Collaboration Cycle](https://ows.io/qs/gb1dfnkl) at any time._
 
 - [ ] **Assign** this ticket to the team member(s) responsible for addressing feedback provided by Platform.
 - [ ] **Comment** on this ticket:
