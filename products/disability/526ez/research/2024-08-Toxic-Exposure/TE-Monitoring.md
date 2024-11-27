@@ -100,33 +100,33 @@ We still see the in progress form as a potential hotspot for problems with veter
 
 
 ## 526ez Success Metrics
-| Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
-|--|--|--|--|--|--|--|--|--|--|
-| TE Abandonment rates| - | - | 0% | 1.8% |1.7% |2.7% |n/a |2.58%|GA TE Abandonment By Section|
-| TE Opt-in rate* | - | - | 38% | 48% |46.1% | 44.8% | n/a |45.81% |TE Opt-in rate|
-| % of submissions that use normal path| 99.04% | ≤99.04%  | 94.34% | 88.9% | 97.7% |99.57%|n/a|98.7%| database queries |
-| % of uses of backup path | 0.94% | ≤0.94% | 5.66% | 11.07% | 2.03% |0.42% |n/a|1.16%| database queries |
-| % of complete failure | 0.0001% | ≤0.0001% | 0% | 0% | .27% |0% |n/a |.001%| database queries |
+| Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%| 75% |100%| 1.1 100% | Data Source |
+|--|--|--|--|--|--|--|--|--|--|--|
+| TE Abandonment rates| - | - | 0% | 1.8% |1.7% |2.7% |n/a |2.58%| 1.35%|GA TE Abandonment By Section|
+| TE Opt-in rate* | - | - | 38% | 48% |46.1% | 44.8% | n/a |45.81% | 45.41% |TE Opt-in rate|
+| % of submissions that use normal path| 99.04% | ≤99.04%  | 94.34% | 88.9% | 97.7% |99.57%| n/a | 98.7% | TBD | database queries |
+| % of uses of backup path | 0.94% | ≤0.94% | 5.66% | 11.07% | 2.03% | 0.42% | n/a | 1.16% | TBD | database queries |
+| % of complete failure | 0.0001% | ≤0.0001% | 0% | 0% | .27% | 0% | n/a | .001% | TBD | database queries |
 
 *For Veterans who saw the 2022 form version.
 
 ### Toxic Exposure Abandonment By Section
  
-| Step # | TE Page| 5% | 10%| 25%| 50%|75% |100%| Data Source |
-|--|--|--|--|--|--|--|--|--|
-|Step 1| Gulf War 1990 | 0%| 3.6%  | 3.3%| 3.3% |n/a|3.08%|GA TE Abandonment By Section|
-|Step 2| Gulf War 2001 |0% | 0.29% | 0.2% | 0.34% |n/a |0.17%|GA TE Abandonment By Section|
-|Step 3| Herbicide | 0% | 1.4% | 0.6%| 0.68% |n/a |0.81%|GA TE Abandonment By Section|
-|Step 4| Additional Exposures | 0%| 0.73% | 0.4%| 0.8% |n/a |0.82%|GA TE Abandonment By Section|
-|Step 5| Additional Disabilities | 0%| 0.63% |0.4%| 0.12% |n/a |0.26%|GA TE Abandonment By Section|
+| Step # | TE Page| 5% | 10%| 25%| 50%|75% |100%| 1.1 100% | Data Source |
+|--|--|--|--|--|--|--|--|--|--|
+|Step 1| Gulf War 1990 | 0%| 3.6%  | 3.3%| 3.3% |n/a| 3.08% | 3.37% | GA TE Abandonment By Section|
+|Step 2| Gulf War 2001 |0% | 0.29% | 0.2% | 0.34% |n/a | 0.17% | 0.19% | GA TE Abandonment By Section|
+|Step 3| Herbicide | 0% | 1.4% | 0.6%| 0.68% |n/a | 0.81% | 0.93% |GA TE Abandonment By Section|
+|Step 4| Additional Exposures | 0%| 0.73% | 0.4%| 0.8% |n/a | 0.82% | 0.78% | GA TE Abandonment By Section|
+|Step 5| Additional Disabilities | 0%| 0.63% |0.4%| 0.12% |n/a | 0.26% | 1.52% | GA TE Abandonment By Section|
 
 ### Overall Form Abandonment
 **Alternative approaches we're considering:** Removing all steps that are not seen by all Veterans (such as claim type) or exploring other non-funnel models for understanding the data. 
 
-| Step # | 526 Page | Baseline | 5% | 10% | 25% | 50% | 75% | 100% |Data Source |
-|--|--|--|--|--|--|--|--|--|--|
-|Step 1| Introduction | 41.83% | 46.73% | 44.24% | 41.6%| 44.01% | n/a | 44.27% |GA 526 Overall Form Abandonment|
-|Step 7| Confirmation | - | - |  | | |  | |GA 526 Overall Form Abandonment|
+| Step # | 526 Page | Baseline | 5% | 10% | 25% | 50% | 75% | 100% 1.1 100% | Data Source |
+|--|--|--|--|--|--|--|--|--|--|--|
+|Step 1| Introduction | 41.83% | 46.73% | 44.24% | 41.6%| 44.01% | n/a | 44.27% | 46% | GA 526 Overall Form Abandonment |
+|Step 7| Confirmation | - | - |  | | |  | | GA 526 Overall Form Abandonment|
 
 
 ### Success Metric Validation
