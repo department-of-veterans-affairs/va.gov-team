@@ -780,7 +780,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 #### August 27 - 30: CARMA Caregiver Discovery **
 *Riley Orr*
 - 16 participants
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Products/caregivers/research/discovery-aug-2019/research-plan.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/discovery/research/discovery-aug-2019)
 
 #### August 27, 29: Get Care Prototype Usability R1 **
 *AdHoc: Caitlin Weber*
