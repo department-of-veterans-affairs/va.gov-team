@@ -4,7 +4,7 @@
 
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
-|Phase 1: Production release testing |indefinite | 100% users | November 27, 2024  |
+|Phase 1: Production release testing |indefinite | 100% users | December 2, 2024  |
 
 
 ## Overview
@@ -41,7 +41,7 @@ Before enabling your feature toggle in production, you'll need to:
 Our PM and PO will monitor analytics.
 
 Rollback plan:
-1. PM will monitor contact center feedback channels for any potential issues/feedback 
+1. PM and Engineering will monitor submissions and contact center feedback channels for any potential issues/feedback 
 2. If there is any unexpected issue, Engineering will disable the flipper which hides the page updates.
 3. Communication will be sent to the VA Product Owner and Decision Review team.
 4. The Decision Review team team will priortize enhancements to the content of the confirmation page in coordination with the VA PO (Amy Lai)
@@ -53,9 +53,9 @@ This is a full production release. The updated confirmation page will be availab
 
 #### Immediate Rollout Planning
 
-- Desired date: November 27, 2024
+- Desired date: December 2, 2024
 - How will you make the product available in production while limiting the number of users who can find/access it: Immediate release available to all users via toggle
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
+- What metrics-based criteria will you look at ("success criteria")?:
   - Contact Center calls due to inability to print confirmation or inaccurate confirmation details <3 calls
   - Pageviews
 - Links to the dashboard(s) showing "success criteria" metrics:
