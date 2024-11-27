@@ -4,7 +4,7 @@
 
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
-|Phase 1: Production release testing |indefinite | 100% users | December 2, 2024  |
+|Phase 1: Production release |indefinite | 100% users | December 2, 2024  |
 
 
 ## Overview
