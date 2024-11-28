@@ -17,8 +17,10 @@ assignees: ""
 - Describe what question(s) this spike intends to answer
 
 ## Method
-- Describe how you will identify answers to the question(s) of this spike  
-
+- Describe how you will identify answers to the question(s) of this spike
+- [ ] _Task_
+- [ ] _Task_
+- [ ] _Task_
 
 ## Evidence
 - Document the evidence collected that informs the conclusions below. 
