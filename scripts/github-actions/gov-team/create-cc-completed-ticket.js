@@ -7,6 +7,7 @@ const {
   getItemId,
   updateIssue,
 } = require("./shared");
+const { sleep } = require('./utils');
 
 const {
   GOV_TEAM_TOKEN,
@@ -132,16 +133,19 @@ async function closeIssue(number) {
 // create completed ticket
 async function createCompletedTicket(title, milestone) {
   const URL = "issues";
-  const {
-    data: { number },
-  } = await axiosInstanceGH.post(URL, {
+  const payload = {
     owner,
     repo,
     title,
-    milestone,
     body: "This ticket is for Platform tracking purposes only. There is no VFS action needed.",
     labels: [EVENT_LABEL, "governance-team"],
-  });
+  }
+
+  if (milestone !== null) {
+    payload.milestone = milestone;
+  }
+
+  const { data: { number } } = await axiosInstanceGH.post(URL, payload);
   return number;
 }
 
@@ -245,11 +249,18 @@ async function main() {
   try {
     const { body, milestone } = await getGHIssue(ISSUE_NUMBER);
     const newTitle = getTitleInfo(body);
+    const _milestone = milestone?.number ?? null;
 
     // create completed ticket
-    const newTicketNumber = await createCompletedTicket(newTitle, milestone.number);
+    const newTicketNumber = await createCompletedTicket(newTitle, _milestone.number);
+
+    // close ticket
+    await closeIssue(newTicketNumber);
     
-    // now link completedticket to initiative
+    // let things settle
+    await sleep(1000);
+
+    // link completed ticket to parent
     const newTicketId = await getIssueId(newTicketNumber);
     const initiativeId = await getInitiativeTicketId();
     await linkSubIssue(initiativeId, newTicketId);
@@ -258,32 +269,40 @@ async function main() {
     const projectId = await getProjectId2(owner, GOV_TEAM_PROJECT_BOARD_NUMBER);
     const itemId = await getItemId(projectId, newTitle);
 
-    const { id: sprintFieldId, configuration: { iterations: sprints } } = await getProjectField(projectId, "Sprint");
-    const sprintOptionId = getSprintId(sprints);
-
-    if (sprintOptionId) {
-      await updateIssue(
-        projectId,
-        itemId,
-        sprintFieldId,
-        sprintOptionId,
-        true
-      );
-    }
-
-    const { id: pointFieldId, options: pointOptions } = await getProjectField(projectId, "Points");
-    const [{ id: pointOptionId }] = pointOptions.filter(doPointMap);
-
-    if (pointOptionId) {
-      await updateIssue(
-        projectId,
-        itemId,
-        pointFieldId,
-        pointOptionId,
-      );
-    }
-
-    await closeIssue(newTicketNumber);
+    // only update an item's fields if we have the item's id
+    if (itemId) {
+      // Sprint
+      const sprintData = await getProjectField(projectId, "Sprint");
+      if (sprintData !== null) {
+        const { id: sprintFieldId, configuration: { iterations: sprints } } = sprintData;
+        const sprintOptionId = getSprintId(sprints);
+        
+        if (sprintOptionId) {
+          await updateIssue(
+            projectId,
+            itemId,
+            sprintFieldId,
+            sprintOptionId,
+            true
+          );
+        }
+      }
+      // Points
+      const pointData = await getProjectField(projectId, "Points");
+      if (pointData !== null) {
+        const { id: pointFieldId, options: pointOptions } = pointData;
+        const [{ id: pointOptionId }] = pointOptions.filter(doPointMap);
+        
+        if (pointOptionId) {
+          await updateIssue(
+            projectId,
+            itemId,
+            pointFieldId,
+            pointOptionId,
+          );
+        }
+      }
+    } 
   } catch (error) {
     console.log(error);
     process.exit(1);
