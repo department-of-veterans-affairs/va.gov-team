@@ -100,13 +100,17 @@ async function getBoardFields(projectId) {
 
 // like Points, Sprint
 async function getProjectField(projectId, fieldName) {
-  const fields = await getBoardFields(projectId);
-  for (const field of fields) {
-    if (field.name === fieldName) {
-      return field;
+  try {
+    const fields = await getBoardFields(projectId);
+    for (const field of fields) {
+      if (field.name === fieldName) {
+        return field;
+      }
     }
+    return null;
+  } catch {
+    return null;
   }
-  throw new Error(`could not find the ${fieldName} id`);
 }
 
 // get all the issues
@@ -160,9 +164,13 @@ async function getProjectItems(projectId) {
 
 // get a specific issue
 async function getItemId(projectId, title) {
-  const items = await getProjectItems(projectId);
-  const [{ id }] = items.filter(item => item.content.title === title);
-  return id;
+  try {
+    const items = await getProjectItems(projectId);
+    const [{ id }] = items.filter(item => item.content.title === title);
+    return id;
+  } catch {
+    return null;
+  }
 }
 
 //update a field value
@@ -183,17 +191,21 @@ async function updateIssue(projectId, itemId, fieldId, optionId, iterationField=
       }
     }
   }`;
-  await axiosInstance.post('',
-    {
-      query: mutation,
-      variables: {
-        projectId,
-        itemId,
-        fieldId,
-        optionId
-      }
-    },
-  );
+  try {
+    await axiosInstance.post('',
+      {
+        query: mutation,
+        variables: {
+          projectId,
+          itemId,
+          fieldId,
+          optionId
+        }
+      },
+    );
+  } catch (error) {
+    console.log(error);
+  }
 }
 
 module.exports  = {
