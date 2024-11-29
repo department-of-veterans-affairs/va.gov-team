@@ -337,12 +337,11 @@ Top task pages currently created using VAMC Detail pages:
 * Pharmacy
 
 **Related KBs:**
-[How to edit or add a VAMC detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-or-add-a-vamc-detail-page)
-[How to edit a VAMC contact us top task detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-a-vamc-top-task-detail-page)
-[How to edit a VAMC make an appointment top task detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-a-vamc-top-task-detail-page)
-[How to edit a VAMC Pharmacy top task detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-a-vamc-top-task-detail-page
-[How to edit a VAMC "Health Service Caregiver Page" using a detail page
-](https://prod.cms.va.gov/help/vamc/about-health-services/how-to-edit-a-vamc-health-service-caregiver-page-using-a-detail-page)
+* [How to edit or add a VAMC detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-or-add-a-vamc-detail-page)
+* [How to edit a VAMC contact us top task detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-a-vamc-top-task-detail-page)
+* [How to edit a VAMC make an appointment top task detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-a-vamc-top-task-detail-page)
+* [How to edit a VAMC Pharmacy top task detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-a-vamc-top-task-detail-page
+* [How to edit a VAMC "Health Service Caregiver Page" using a detail page](https://prod.cms.va.gov/help/vamc/about-health-services/how-to-edit-a-vamc-health-service-caregiver-page-using-a-detail-page)
 
 
 TODO:
