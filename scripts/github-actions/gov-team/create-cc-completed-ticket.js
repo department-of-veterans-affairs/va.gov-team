@@ -132,7 +132,6 @@ async function closeIssue(number) {
 
 // create completed ticket
 async function createCompletedTicket(title, milestone) {
-  const URL = "issues";
   const payload = {
     owner,
     repo,
@@ -145,7 +144,7 @@ async function createCompletedTicket(title, milestone) {
     payload.milestone = milestone;
   }
 
-  const { data: { number } } = await axiosInstanceGH.post(URL, payload);
+  const { data: { number } } = await axiosInstanceGH.post("issues", payload);
   return number;
 }
 
@@ -252,7 +251,7 @@ async function main() {
     const _milestone = milestone?.number ?? null;
 
     // create completed ticket
-    const newTicketNumber = await createCompletedTicket(newTitle, _milestone.number);
+    const newTicketNumber = await createCompletedTicket(newTitle, _milestone);
 
     // close ticket
     await closeIssue(newTicketNumber);
