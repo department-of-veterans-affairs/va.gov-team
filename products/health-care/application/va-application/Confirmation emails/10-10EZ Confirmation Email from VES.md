@@ -1,4 +1,4 @@
-##Email content and visual screenshot of the Confirmation Email as it is sent today from VES
+## Email content and visual screenshot of the Confirmation Email as it is sent today from VES
 
 ---
 
