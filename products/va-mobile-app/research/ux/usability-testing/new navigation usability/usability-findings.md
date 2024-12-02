@@ -21,7 +21,7 @@ Holly Collier | [holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)
 
 [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#recommendations)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#who-participated-in-the-study)
+[Who we talked to](/usability-findings.md#who-participated-in-the-study)
 
 
 ## Research Goals
@@ -147,7 +147,7 @@ Task completion was scored on a 4 point scale, measuring the effectiveness of th
 
 ### Prototype tested
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/prototype%20images/Home.png" alt="Prototype - Home screen" style="width:180px;" align="top"/> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/prototype%20images/Profile.png" alt="Prototype - Profile screen" style="width:180px;" align="top"/> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/prototype%20images/Benefits.png" alt="Prototype - Benefits category screen" style="width:180px;" align="top"/> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/prototype%20images/Health.png" alt="Prototype - Health category screen" style="width:180px;" align="top"/> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/prototype%20images/Payments.png" alt="Prototype - Payments category screen" style="width:180px;" align="top"/> 
+<img src="prototype%20images/Home.png" alt="Prototype - Home screen" style="width:180px;" align="top"/> <img src="prototype%20images/Profile.png" alt="Prototype - Profile screen" style="width:180px;" align="top"/> <img src="prototype%20images/Benefits.png" alt="Prototype - Benefits category screen" style="width:180px;" align="top"/> <img src="prototype%20images/Health.png" alt="Prototype - Health category screen" style="width:180px;" align="top"/> <img src="prototype%20images/Payments.png" alt="Prototype - Payments category screen" style="width:180px;" align="top"/> 
 
 
 
