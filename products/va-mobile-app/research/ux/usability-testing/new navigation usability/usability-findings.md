@@ -9,17 +9,17 @@ Date: 09/26/2022
 Holly Collier | [holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)
 
 
-[Research report - internal team PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/2022%20-%20VA%20Mobile%20App_%20Information%20Architecture%20%26%20Navigation%20User%20Research%20-%20Findings%20Report.pdf)
+[Research report - internal team PDF](2022%20-%20VA%20Mobile%20App_%20Information%20Architecture%20%26%20Navigation%20User%20Research%20-%20Findings%20Report.pdf)
 
-[Research report - Monday Design & Research Share PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/2022%20-%20VA%20Mobile%20App_%20Information%20Architecture%20%26%20Navigation%20User%20Research%20-%20Findings%20Report%20%20(Monday%20Design%20%26%20Research%20Share).pdf)
+[Research report - Monday Design & Research Share PDF](2022%20-%20VA%20Mobile%20App_%20Information%20Architecture%20%26%20Navigation%20User%20Research%20-%20Findings%20Report%20%20(Monday%20Design%20%26%20Research%20Share).pdf)
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#hypotheses-and-conclusions)
+[Hypotheses and conclusions](usability-findings.md#hypotheses-and-conclusions)
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#key-findings)
+[Key findings](usability-findings.md#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#recommendations)
+[Recommendations](usability-findings.md#recommendations)
 
 [Who we talked to](usability-findings.md#who-participated-in-the-study)
 
