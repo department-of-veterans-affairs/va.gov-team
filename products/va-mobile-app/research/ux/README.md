@@ -8,7 +8,7 @@ The goals of our UX research for 2022 were:
 ## Activites and Output
 | Date                 | Activity                 | Description         | Output        |
 | :-------------              | :-------------              |:-------------         |:-------------|
-| **February 2022** |  IA Research: Closed Card Sort | Understand how veterans think about the current and possible future content in the VA mobile app, confirm what the high-level information architecture categories should be in the VA mobile app| [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)|
+| **February 2022** |  IA Research: Closed Card Sort | Understand how veterans think about the current and possible future content in the VA mobile app, confirm what the high-level information architecture categories should be in the VA mobile app| [Findings summary](information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)|
 | **September 2022** |  IA & Navigation: Usability Study Findings | Evaluate the usability of the proposed navigation pattern and information architecture (based on the Closed Card Sort findings) using a series of tasks the participants will be asked to complete | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md)|
 | **Summer 2022** |  Concept Testing | Evaluate the usability of the proposed Appointment Scheduler feature |  |
 | **Fall 2022** |  Concept Testing | Evaluate the usability of the proposed Prescription Refill feature |  |
