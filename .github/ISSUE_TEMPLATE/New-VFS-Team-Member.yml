@@ -1,0 +1,105 @@
+name: "New VFS team member"
+description: "New VFS team members fill out this form."
+title: "New VFS Team Member Template Your name here"
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: "## How to complete this template"
+  - type: markdown
+    attributes:
+      value: "Complete the form fields and tasks, then click the submit new issue button."
+  - type: markdown
+    attributes:
+      value: "**Note:** This ticket should not be submitted until the new VFS team member is a member of the VA GitHub Organization per the[ Platform Prerequisites for Access Requests](https://depo-platform-documentation.scrollhelp.site/getting-started/prerequisites-for-access-requests#PrerequisitesforAccessRequests-Atlas/Vets.gov-write) guidance."
+  - type: markdown
+    attributes:
+      value: "## Form"
+  - type: input
+    id: your-name
+    attributes:
+      label: Your name
+    validations:
+      required: true
+  - type: input
+    id: pronouns
+    attributes:
+      label: Pronouns
+      description: (e.g. she/her)
+    validations:
+      required: false
+  - type: input
+    id: role
+    attributes:
+      label: Role
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Email
+    validations:
+      required: true
+  - type: input
+    id: GitHubhandle
+    attributes:
+      label: GitHub handle
+      description: Providing your GitHub handle will allow Platform to provide you access to the necessary GitHub repos.
+    validations:
+      required: true
+  - type: input
+    id: startdate
+    attributes:
+      label: Start date
+    validations:
+      required: true
+  - type: input
+    id: vfsteam
+    attributes:
+      label: VFS team
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "## Tasks"
+  - type: checkboxes
+    attributes:
+      label: Tasks for everyone
+      description: 
+      options:
+        - label: Add your name to the ticket title
+          required: true
+        - label: Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
+          required: true
+        - label: Request [access to tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
+          required: true
+        - label: Confirm that you have access to the [VA GitHub Organization](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-GettingaccesstotheVAGitHuborganization).
+        - label: Opt out of [Google Analytics](https://www.va.gov/analytics-opt-out.html) on all of your browsers on your work machines, personal machines (if you are not a Veteran yourself using the site for your own applications), and mobile devices
+          required: true
+        - label: Are you a Veteran? Consider adding your name to the [Veterans willing to help VA teams with product testing](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md) document
+          required: true
+        - label: Complete educational tasks - this is just a placeholder for now, verbiage may change.
+          required: true
+  - type: checkboxes
+    attributes:
+      label: Tasks for Front-end and Back-end Engineers
+      description: 
+      options:
+        - label: Confirm that [you can log in as a test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
+  - type: checkboxes
+    attributes:
+      label: Tasks for Product Managers & Delivery Managers
+      description: 
+      options:
+        - label: Schedule a PM intro via [Calendly](https://calendly.com/collaboration-cycle/product-manager-intro) with Shira Goodman (Platform Governance Team PM).
+        - label: If your team is new, please complete the [New VFS Team ticket](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSteams). If you're joining an existing team, you can skip this step.
+  - type: markdown
+    attributes:
+      value: "---"
+  - type: checkboxes
+    attributes:
+      label: Tasks for Platform
+      description: The items in this checklist are for Platform to complete. If you are ready to close the ticket and the Platform Checklist section has not been completed, please reach out to Platform via the guidance provided in [Getting help from Platform in Slack](https://depo-platform-documentation.scrollhelp.site/support/getting-help-from-the-platform-in-slack).
+      options:
+        - label: New VFS team member has been added to the VFS Team Roster located in [Atlas](https://www.va.gov/atlas/)
+        - label: New VFS team member has been added to the vets.gov-write GitHub team
