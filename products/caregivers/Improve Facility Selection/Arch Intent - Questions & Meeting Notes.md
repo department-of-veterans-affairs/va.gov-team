@@ -19,7 +19,7 @@
 ---
 
 # Architecture Intent - Meeting Notes
-- **MUST**: Update the GET to a POST
+- **MUST**: Update the GET to a POST - [Ticket #98100](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98100)
      - The PII cannot show up in URLs
      - That's why they want them in a post so it's in the body.
      - From **Adrian** via Slack:
@@ -48,9 +48,12 @@
 - From **Adrian** via Slack:
      - Or putting lat/long in headers could potentially be an even quicker (or even permanent :zipper_mouth_face:) fix too
 ---
-- **MUST**: Confirm that there is no PII being logged
+- **MUST**: Confirm that there is no PII being logged - [Ticket #98101](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98101)
 ---
 - **SHOULD**: Add some sort of monitor for Lighthouse API
+     - [Facilities API dashboard](https://vagov.ddog-gov.com/dashboard/3vy-h6h-4ek/sitewide-facilities?fromUser=false&refresh_mode=sliding&from_ts=1733159562644&to_ts=1733163162644&live=true) in Datadog
+     - [Lighthouse Status page](https://valighthouse.statuspage.io/) (can subscribe via email)
+     - Lighthouse Status Slack Channel - [#lighthouse-status](https://dsva.slack.com/archives/C066SRV1N80)
 ---
 - **SHOULD**: Review response times for search results
      - Current acceptable limit standard is around 4 seconds
