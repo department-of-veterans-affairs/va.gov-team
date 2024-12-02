@@ -80,7 +80,7 @@ Page:
 
 > I have been having ongoing issues with receiving education pay (Post 9-11) housing allowance. There were 2 checks I was supposed to receive in August and am still waiting for them. 2 checks were sent to the wrong address by mail and have not been located or sent to me via direct deposit, as expressed that they would by 2 VA Reps. The information on the website is quite confusing and is not the same as what the representatives see on their side in the system. I now see an overpayment debt and I'll be calling for a 6th time to attempt to resolve this issue.
 
-> I had a copay regularly for years.  There wasnâ€™t any notice that failed the means test so I would have to pay regular.  I think that I was billed untimely, and billed too much.  After many years a bill appears from where?  It goes into collection, and again I failed a means test and thereâ€™s the same amount billed to me again.
+> I had a copay regularly for years.  There wasn't any notice that failed the means test so I would have to pay regular.  I think that I was billed untimely, and billed too much.  After many years a bill appears from where?  It goes into collection, and again I failed a means test and there's the same amount billed to me again.
 
 > The information does not match information provided by telephone
 
@@ -230,13 +230,13 @@ N = 8
 
 -   11/23/24 15:41,
 
->Fill out form. It kept saying date wasnâ€™t valid, mobile, iphone, safari
+>Fill out form. It kept saying date wasn't valid, mobile, iphone, safari
 
 [https://www.va.gov/manage-va-debt/request-debt-help-form-5655/employment-work-dates](https://www.va.gov/manage-va-debt/request-debt-help-form-5655/employment-work-dates)
 
 -   11/20/24 10:54
 
-> Enter work date and it wonâ€™t take it
+> Enter work date and it won't take it
 
 mobile, iPhone, safari
 
@@ -314,6 +314,6 @@ N = 1
 
 N = 2
 
-> I paid my bill of $30.00 on 10/26/2024 on the website: Pay.Gov Tracking ID: [] not sure why itâ€™s showing as still due.
+> I paid my bill of $30.00 on 10/26/2024 on the website: Pay.Gov Tracking ID: [] not sure why it's showing as still due.
 
-> I close racked the number online about this payment and I was told that it was paid and applied in full in October and itâ€™s still showing outstanding online. Please update the records and thank you
+> I close racked the number online about this payment and I was told that it was paid and applied in full in October and it's still showing outstanding online. Please update the records and thank you
