@@ -37,6 +37,16 @@ the challenges associated with switching to the new portal?
 
 ## Initial Findings
 
+- Our research revealed low engagement with the "Try Me" banners on the My HealtheVet National Portal. Participants frequently scrolled past these banners.
+- While participants generally understood the concept of the MHV to VA.gov transition, significant uncertainty remained regarding its practical implications. Concerns centered around potential disruptions to established workflows, including the need for repeated logins and possible loss of functionality.
+- Even those able to conceptualize the transition, participants frequently conflated the MHV National Portal and MHV on VA.gov.
+- While participants identified ways to access My HealtheVet on VA.gov in the future (such as using bookmarks), the sessions did not definitively establish their ability to navigate back to My HealtheVet on VA.gov and often participants voiced circuitous routes to return.
+- Participants understood updated language (e.g., "Pharmacy" to "Medications") and understood the in-tool experiences. The confusion arose with naming My HealtheVet in two places (see above).
+- Participants positively noted the streamlined experience, access to community care information, and the consolidation of services within VA.gov 
+- The secondary navigation proved effective for both orientation and navigation across tools
+
+## Detailed findings (by research questions) 
+
 **Research questions**
 
 1. Are CTAs to try out the new MHV portal effective? Do users notice them
