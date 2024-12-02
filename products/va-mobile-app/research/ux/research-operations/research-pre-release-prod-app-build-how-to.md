@@ -41,7 +41,7 @@ The moderator should help participants do the following during the session:
 * Log into the pre-release version of the mobile app using their real credentials (pause the recording while they’re doing this).
 * At the end of the session, uninstall Testflight & the pre-production build.
 
-Example [App setup & screenshare](personalized-homescreen/2024-04%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-1-app-setup--screenshare-15-minutes) 
+Example [App setup & screenshare](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-04%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-1-app-setup--screenshare-15-minutes) 
 
 
 ###  Example script for conversation guide
