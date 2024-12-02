@@ -4,7 +4,7 @@
 
 Date: 12/2/2024
 
-Jonathan Nelson (jonathan.nelson@adhocteam.us) Florence 
+Jonathan Nelson (jonathan.nelson@adhocteam.us), Florence McCafferty (florence.mccafferty@agile6.com), Sara Sterkenburg (sara.sterkenburg@adhocteam.us) 
 
 [Research readout](link here)
 
