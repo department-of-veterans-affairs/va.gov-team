@@ -42,11 +42,13 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+1. The majority of our users do not know that MHV is moving over to VA.gov, even directly after using the national portal. Many of them do not know what this change would or could mean for them outside of understanding that this change will pose a challenge to them that they would prefer to avoid.
+    - Likely true: Participants were able to conceptualize the My HealtheVet to VA.gov migration to some extent. However, perceived challenges, such as sign-in/learning a new thing were potential blockers.
+2. The guidance to try MHV on VA.gov is unclear and the user journey to get to MHV on VA.gov is disjointed and confusing.
+    - Likely true: Participants seemed to understand the messaging within the "Try-me" banner. However, the journey between MHV National portal and MHV on VA.gov was disjoined and introduced confusion.
+3. Users will be interested in what we’ve decided are the most important or useful differentiators between the two portals but only those with a great deal of MHV experience will seem excited about the changes.
+    - Definitely True/Not enough information: Participants were excited about having benefits, health care, and other VA information in one place. Also, managing Community Care appointments and direct scheduling were positives for participants. 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
