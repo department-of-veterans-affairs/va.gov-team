@@ -5,6 +5,16 @@ Log any decisions impacting all/multiple MHV on VA.gov applications in the [glob
 
 
 # Medical records design decisions
+## Nov 15, 2024
+### State of Product
+* Phase 0
+* Domains included: Allergies, Vaccines, Care Summaries and Notes, Vitals, Health Conditions, Labs & Test Results 
+
+### General product design decisions
+| Decision | Reasoning |
+|----------|-----------| 
+| For Phase 1 + beyond there will be a Download your medical record reports link on the MR landing page.  This will take users to the download page where they can 1) download a blue button report 2) download a CCD or 3) download self-entered health information. Decision documented and approved by MHV content [here](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/doc2.aspx?sourcedoc=%7BAB71219F-8E09-4C26-ADBD-E31A1A83CEF7%7D&file=Blue%20Button%20Decision%20on%20VA.docx&nav=eyJjIjoxMTgxNzY5MjAzfQ&action=default&mobileredirect=true).| Blue button language will be downplayed but still available to users who are familar with the term.  In research it was found that not everyone is familiar with the language.  Self-entered health information will be removed from blue button, to help users understand that it is not part of their official medical record and not available to their providers.  CCD will be re-named from the VA Health Summary and additional information about when to use it will be provided.|
+
 ## Aug 22, 2024
 ### State of Product
 * Phase 0
