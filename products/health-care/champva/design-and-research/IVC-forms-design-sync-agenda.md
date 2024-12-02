@@ -1,5 +1,13 @@
 # Running Design and Research Agenda
 
+## December 2 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
+	- Agenda Topics
+	  - Review Design Roadmap
+	  - Research Artifacts Documentation
+	  - Review OHI Required Email flow
+	  - Review URL list
+
 ## November 25 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
 	- Agenda Topics
