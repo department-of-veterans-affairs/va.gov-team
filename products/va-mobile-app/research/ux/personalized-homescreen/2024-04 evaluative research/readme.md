@@ -19,7 +19,7 @@ See also:
 - Fulfills issue [#2160](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2160)
 
 **Research study materials & tracking:**
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20evaluative%20research/personalized%20home%20screen%20-%20research%20plan.md)
+- [Research plan](personalized%20home%20screen%20-%20research%20plan.md)
   -  [Link to iOS App build](https://testflight.apple.com/join/65PnVx09)
   -  [Figma file](https://www.figma.com/proto/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?page-id=2176%3A1167&node-id=2306-7638&viewport=667%2C674%2C0.49&t=R7YetqFFK8lWiwRp-1&scaling=min-zoom&starting-point-node-id=2306%3A7638&show-proto-sidebar=1)
   -  [Notetaker & Observer Notes (mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1715976305728/ff0c43be38d25972f265d60cda1e3c13527d8883?wid=323-1716474556797)
