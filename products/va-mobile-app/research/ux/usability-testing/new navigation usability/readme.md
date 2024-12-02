@@ -8,8 +8,8 @@ See [VA Mobile App - Information Architecture & Navigation - High Level Project 
 See above for previous  phases.
 
 **Usability Study**
-- [Research plan](new%20navigation%20usability/usability-research-plan.md)
-- [Research report](new%20navigation%20usability/usability-findings.md)
+- [Research plan](usability-research-plan.md)
+- [Research report](usability-findings.md)
 
 **Proposed Sitemap**
 - DETAILED VA Mobile App Sitemap 02/06/23 (Source of truth — includes display logic) [png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture/archive/Detailed%20sitemap%20(future%20state%209-30-22)_2023-02-06_16-36-53.png) | [mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1655989910332/d0f78565904f80b730fb70285eef9f4002279aef?sender=u28718b63c8993f515e0b2240)
