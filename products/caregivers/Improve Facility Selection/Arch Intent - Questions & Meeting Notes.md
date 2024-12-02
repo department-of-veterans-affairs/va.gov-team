@@ -57,7 +57,8 @@
 ---
 - **SHOULD**: Review response times for search results
      - Current acceptable limit standard is around 4 seconds
-     - **Adrian** suggested via Slack: look into using https://github.com/mfrachet/cypress-audit
+     - **Adrian** suggested via Slack:
+          - look into using https://github.com/mfrachet/cypress-audit
           - lighthouse has built in network and cpu limiting for the mobile tests. Would appreciate hearing back anything y'all find out
 ---
 - **CONSIDER**: Adding 'distance from' to each location
