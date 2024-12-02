@@ -1,12 +1,12 @@
-# [Study] Research Findings 
+# MHV on VA.gov Adoption of My HealtheVet Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Cartography team**
 
-Date: MM/DD/YYYY
+Date: 12/2/2024
 
-[Designer 1] [email], [Designer 2] [email]
+Jonathan Nelson (jonathan.nelson@adhocteam.us) 
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Research readout](link here)
 
 **Jump to:**
 
@@ -18,31 +18,26 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
-_Then, describe your goals for this research_
+This research aims to assess users' understanding, reactions, and expectations to the transition of My HealtheVet to VA.gov. We wanted to achieve the specific goals of: 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals)_
-
-
+- What hinders our users from discovering and returning to MHV on VA.gov?
+- What unintentional friction are our users encountering on MHV on VA.gov?
+- What information about new features on VA.gov might counter-balance the challenges associated with switching to the new portal? 
 
 ## Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+- Are CTAs to try out the new MHV portal effective? Do users notice them
+and understand what they're saying?
+- Once users try out the new portal, do they understand how to return?
+- Are changes made to national portal language or tools causing confusion?
+- What challenges or hiccups are users encountering on the new portal?
+- What are positive changes that users notice while using the new portal?
+- How much do users care about what the new MHV offers them?
 
 ## Methodology 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
+We will conduct remote interviews with Zoom. The interviews will require users to share their screens and demonstrate how they complete a task (or tasks, plural) on the national portal, and on the VA.gov portal. While we observe the participant as they navigate, we will also pose direct questions to understand how they are thinking about different aspects of their experience. When this part is complete, we will move to the second part of the interview, which will be a series of statements that the user will read andrate based on how they feel in response to the statements.
 
 
 ## Hypotheses and Conclusions
