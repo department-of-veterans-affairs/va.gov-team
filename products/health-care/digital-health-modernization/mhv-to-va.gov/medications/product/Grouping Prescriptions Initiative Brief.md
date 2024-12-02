@@ -93,7 +93,7 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
 - The medication list should only have one card per medication name (name + dose + form), unless there is a VA and non-VA med with the same medication name. This will group similar medications that are separate prescriptions together under one object. 
-- A veteran can find details about each prescription in the details page.
+- A veteran can find details about each prescription in the details page.  The details page should focus on the most recent prescription.  Previous prescription information should include information to help veterans support claims including: prescribed on date, prescribing provider, last filled date and quantity. Refill history is NOT necessary to include for previous prescriptions.
 - This list view should display the most recent status, which should help veterans find their active medications more quickly. 
 - This should be built in a way that other clients (ie. VAHB) can use the same logic. 
 - Initally this is not in scope for VAHB since the app focuses on VA prescriptions currently and only shows Rx from the last 6 months.  In the future as we think about what should be included in VAHB medications experience the same logic should be able to be applied. 
