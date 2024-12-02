@@ -1,0 +1,112 @@
+{
+  "data": [
+  {
+    "attributes": {
+        "service": "immunizations",
+        "startTime": "2024-05-02T03:10:00.000Z",
+        "endTime": "2024-05-18T22:50:00.000Z"
+    },
+    "id": "1",
+    "type": "maintenance_window"
+  },
+  {
+    "attributes": {
+        "service": "appeals",
+        "startTime": "2024-05-02T03:10:00.000Z",
+      "endTime": "2024-05-18T22:50.00.000Z"
+    },
+    "id": "2",
+    "type": "maintenance_window"
+},
+  {
+      "attributes": {
+          "service": "direct_deposit_benefits",
+          "startTime": "2024-05-02T03:10:00.000Z",
+        "endTime": "2024-05-18T22:50.00.000Z"
+      },
+      "id": "3",
+      "type": "maintenance_window"
+  },
+  {
+      "attributes": {
+          "service": "letters_and_documents",
+        "startTime": "2024-05-02T03:10:00.000Z",
+        "endTime": "2024-05-18T22:50:00.000Z"
+      },
+      "id": "4",
+      "type": "maintenance_window"
+  },
+  {
+      "attributes": {
+          "service": "military_service_history",
+        "startTime": "2024-05-02T03:10:00.000Z",
+        "endTime": "2024-05-18T22:50:00.000Z"
+      },
+      "id": "5",
+      "type": "maintenance_window"
+  },
+  {
+      "attributes": {
+          "service": "secure_messaging",
+        "startTime": "2024-05-02T03:10:00.000Z",
+        "endTime": "2024-05-18T22:50:00.000Z"
+      },
+      "id": "6",
+      "type": "maintenance_window"
+  },
+  {
+      "attributes": {
+          "service": "appointments",
+        "startTime": "2024-05-02T03:10:00.000Z",
+        "endTime": "2024-05-18T22:50:00.000Z"
+      },
+      "id": "7",
+      "type": "maintenance_window"
+  },
+  {
+      "attributes": {
+          "service": "disability_rating",
+        "startTime": "2024-05-02T03:10:00.000Z",
+        "endTime": "2024-05-18T22:50:00.000Z"
+      },
+      "id": "8",
+      "type": "maintenance_window"
+  },
+  {
+      "attributes": {
+          "service": "user_profile_update",
+        "startTime": "2024-05-02T03:10:00.000Z",
+        "endTime": "2024-05-18T22:50:00.000Z"
+      },
+      "id": "9",
+      "type": "maintenance_window"
+  },
+  {
+    "attributes": {
+        "service": "payment_history",
+      "startTime": "2024-05-02T03:10:00.000Z",
+      "endTime": "2024-05-18T22:50:00.000Z"
+    },
+    "id": "10",
+    "type": "maintenance_window"
+},
+{
+  "attributes": {
+      "service": "rx_refill",
+    "startTime": "2024-05-02T03:10:00.000Z",
+    "endTime": "2024-05-18T22:50:00.000Z"
+  },
+  "id": "11",
+  "type": "maintenance_window"
+},
+{
+  "attributes": {
+      "service": "claims",
+    "startTime": "2024-05-02T03:10:00.000Z",
+    "endTime": "2024-05-18T22:50:00.000Z"
+  },
+  "id": "12",
+  "type": "maintenance_window"
+}
+]
+}
