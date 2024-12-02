@@ -286,7 +286,7 @@ Safari, mobile, iPhone
 
 > request financial hardship for copay. The form start date and stop date for job income, page 7, is broken on my browser. It will not accept my dates and there is no pulldown menu for year. It goes to a help page or tells me my entries are invalid. Help!
 
-Firefox, Desktop
+Firefox, Desktop, Window 10
 
 ## A bug on intro page (only one report, the team is aware)
 
