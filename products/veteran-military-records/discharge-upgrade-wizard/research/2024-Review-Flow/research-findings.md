@@ -168,7 +168,7 @@ One participant wasn't sure where the Back button would navigate to. They were c
 
 - Three participants were confused by the wording of the prior service question.
 - Two participants wanted to select multiple reasons for changing discharge paperwork.
-- Two participants noted that Space Force was missing from the list of military branch options.
+- One participant and one pilot participant noted that Space Force was missing from the list of military branch options.
 
 #### Prior service question
 
@@ -204,7 +204,7 @@ Two participants wanted to select multiple responses to why they wanted to chang
 
 </details>
 
-Two participants noted that Space Force was missing from the list of branch options. One assumed that Air Force would need to be selected instead. 
+One participant and one pilot participant noted that Space Force was missing from the list of branch options. The participant assumed that Air Force would need to be selected instead. 
 
 ### 5. Some participants had feedback on the results page content.
 
@@ -305,9 +305,6 @@ Three participants expressed concerns that the form was confusing, had a lot of 
 ## Recommendations
 
 ### For wizard design and functionality
-* Consider changing the year of discharge dropdown to an input field.
-    * VA Design System guidelines suggest to consider a different component when there are more than 15 options in the dropdown.
-    * [Guidelines for select component](https://design.va.gov/components/form/select)
 * Consider allowing users to select multiple reasons for changing their discharge paperwork.
     * Two participants wanted to select multiple responses to why they wanted to change their discharge paperwork. One of the participants remembered being able to select multiple reasons on the form when they had applied for a discharge upgrade in the past.
 * Consider how to condense content on the results page.
@@ -322,7 +319,7 @@ Three participants expressed concerns that the form was confusing, had a lot of 
     * One participant noticed the word "general" in the question, but became confused when they didn't see the word in any of the answers. 
     * Two participants found the wording confusing to this question.
 * Consider adding Space Force to the list of branch options or state what to select instead.
-    * Two participants noted that Space Force was missing from the list of branch options.
+    * One participant and one pilot participant noted that Space Force was missing from the list of branch options.
 * Consider adding more information about buddy statements to the results page.
     * One participant wanted examples of written buddy statements and an estimate of how many were needed.
     * One participant wanted more emphasis on how important buddy statements are.
