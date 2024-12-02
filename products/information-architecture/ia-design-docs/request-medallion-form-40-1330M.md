@@ -59,6 +59,7 @@ The new form will be a child page of [headstones, markers, and medallions](https
   - Placement description: Under the 'how do I apply' section, update the application instructions, adding a sign-in widget for the new form.
   - Link label: TBD by content
   - Link destination: va.gov/burials-memorials/memorial-items/headstones-markers-medallions/**cemetery-confirmation**-medallion-form-40-1330m/
+    
 ![Screenshot 2024-09-26 at 2 32 59 PM](https://github.com/user-attachments/assets/c3c3f608-13c9-4f2e-8a9b-a6f35491b4fb)
 
 
