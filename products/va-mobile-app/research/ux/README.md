@@ -27,10 +27,10 @@ The goals of our UX research for 2021 were:
 | :-------------              | :-------------              |:-------------         |:-------------|
 | **Feb 2021** |  Usability testing of Jan 2021 internal release | Understand usability obstacles, get feedback on the MVP app features currently in development | [Findings summary](usability-testing/round-2/research-summary.md)|
 | **March 2021** |  Usability testing of Secure Messaging high-fi prototype | Understand usability obstacles, ask questions, and get feedback on an MVP secure messaging feature, inform the approach of Secure Messaging in the MVP | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/secure-messaging/Research/Usability%20Testing/Round%201%20Research%20Summary.md)|
-| **March-May 2021** |  Co-branding research | Understand the impact of MHV branding on Veterans perception of the MVP mobile app | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/Co-branding%20research/co-branding-research-report--may-2021.pdf)|
+| **March-May 2021** |  Co-branding research | Understand the impact of MHV branding on Veterans perception of the MVP mobile app | [Findings summary](Co-branding%20research/co-branding-research-report--may-2021.pdf)|
 | **April-May 2021** |  User Acceptance Testing | Find issues and bugs in live code app with users signed in with their own credentials | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/testing/uat)|
-| **November 2021** |  IA Research: Open Card Sort | Understand how Veterans categorize features and items| [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md)|
-| **December 2021** |  Rx Refill Research | Understand how Veterans interact with the Rx Refill app| [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/rx-refill-app)|
+| **November 2021** |  IA Research: Open Card Sort | Understand how Veterans categorize features and items| [Findings summary](information-architecture/open%20card%20sort/Card-sort-research-report.md)|
+| **December 2021** |  Rx Refill Research | Understand how Veterans interact with the Rx Refill app| [Findings summary](rx-refill-app/)|
 
 
 # UX Research: March-December 2020
@@ -39,18 +39,18 @@ The goals of our UX research in March-December 2020 were to validate or invalida
 ## Activites and Output
 | Date                 | Activity                 | Description         | Output        |
 | :-------------              | :-------------              |:-------------         |:-------------|
-| **May 2020** |  Heuristic analysis | Audit of select VA native and web apps | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/Heuristic%20Analysis%20Synthesis.pdf), findings fed into opportunity area definition | 
-| **May 4-13, 2020** | Interviews | 10 conversations with Vets about pain points they experience in interacting with VA, both online and offline | [Topline summary of findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/user-interviews/readme.md), findings fed into MVP roadmap | 
+| **May 2020** |  Heuristic analysis | Audit of select VA native and web apps | [Findings summary](heuristic-analysis/Heuristic%20Analysis%20Synthesis.pdf), findings fed into opportunity area definition | 
+| **May 4-13, 2020** | Interviews | 10 conversations with Vets about pain points they experience in interacting with VA, both online and offline | [Topline summary of findings](user-interviews/readme.md), findings fed into MVP roadmap | 
 | **May 2020** | Quant analysis | Analysis of VA site analytics across mobile, tablet, desktop | Fed into opportunity area selection | 
 | **May 2020** | Opportunity area definition | Identification of 3 areas where we think a mobile app could improve the Veteran experience | MVP vision | 
-| **June 8-10, 2020** | Co-design & low-fi prototype testing | [Co-design "Build your own VA app" exercise & prototype testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/prototype-testing/testing-summary.md) | MVP roadmap | 
-| **Began July 2020, ongoing** | SME interviews | Conversations with VA & Ad Hoc SMEs on Appointments, Facilities, Claims, Profile | [Key learnings from SME conversations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/SME-research/key-learnings.md), these conversations heavily informing the service blueprint |
-| **Began July 2020, ongoing** | Service blueprint | Identification of what systems will power the app | [Service blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/service-blueprint) | 
-| **July-August 2020** | Comparative feature analysis | Feature based analysis of native apps outside government | [Findings from our audits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/comparative-feature-analysis) are feeding into high-fi prototype and UI design |
+| **June 8-10, 2020** | Co-design & low-fi prototype testing | [Co-design "Build your own VA app" exercise & prototype testing](prototype-testing/testing-summary.md) | MVP roadmap | 
+| **Began July 2020, ongoing** | SME interviews | Conversations with VA & Ad Hoc SMEs on Appointments, Facilities, Claims, Profile | [Key learnings from SME conversations](SME-research/key-learnings.md), these conversations heavily informing the service blueprint |
+| **Began July 2020, ongoing** | Service blueprint | Identification of what systems will power the app | [Service blueprint](service-blueprint/) | 
+| **July-August 2020** | Comparative feature analysis | Feature based analysis of native apps outside government | [Findings from our audits](comparative-feature-analysis/) are feeding into high-fi prototype and UI design |
 | **Began August 2020, ongoing** | High-fi design | High-fi iOS prototype for iPhone SE hosted in Invision | Prototype we can usability test with Veterans |
 | **Began August 2020, ongoing** | Information architecture | IA of MVP mobile app screens | [IA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture) | 
 | **Began August 2020, ongoing** | Discussions with VFS teams | Conversations with the teams owning features we plan to include in the MVP | Will feed into UX/UI design |
-| **September 9-11, 2020** | High-fi prototype testing | Testing of high-fi invision prototpye on mobile devices ([Testing materials](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/usability-testing)) | MVP UI/UX design | 
+| **September 9-11, 2020** | High-fi prototype testing | Testing of high-fi invision prototpye on mobile devices ([Testing materials](usability-testing/)) | MVP UI/UX design |
 
 
 ----
