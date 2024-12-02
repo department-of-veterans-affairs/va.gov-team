@@ -298,6 +298,18 @@ Firefox, Desktop
 
 N = 1
 
+## Review and submit page issue
+
+11/25/2024 13:58
+
+> Unable to submit despite putting accurate information into the fill in boxes. Especially when asked for the Veteran's whole name.
+
+Chrome, Desktop, Windows 11
+
+[https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction](https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
+
+N = 1
+
 ## Payment made not displaying
 
 N = 2
