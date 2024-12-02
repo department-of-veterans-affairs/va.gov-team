@@ -1,35 +1,34 @@
 # Research Plan for Claim Status Tool, Evidence Submission Status
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+
+Benefits Team 1 · November 2024
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+
+The file upload experience in the Claim status tool on VA.gov needs improvement, as the upload status is unclear for Veterans. This uncertainty can lead to frustration about whether the file was successfully uploaded, particularly in cases of silent errors. Our designs aim to provide Veterans with real-time transparency into the status of their evidence submissions (e.g., 'Pending,' 'Received,' 'Failed'). We believe this visibility will reduce anxiety, while clear and actionable feedback on failures will boost Veterans' confidence in the process and enable immediate resolution. This approach is also expected to reduce support inquiries to CST.
 
 Silent Failure occurs when a Veteran submits a form or evidence, but it fails to reach downstream services or owners of record. When the submission fails, the Veteran isn’t notified of this problem. This lack of real-time updates creates confusion, delays corrective action, increases support inquiries, and can lead to repeated failed attempts.
 
-Our designs aim to provide Veterans with real-time transparency into the status of their evidence submissions (e.g., "Pending," "Received," "Failed"). We believe this visibility will reduce anxiety, while clear, actionable feedback on failures will boost Veterans' confidence in the process and enable immediate resolution. This approach is also expected to reduce support inquiries for CST.
-
 As part of this work, we’ve added new alert messages to keep Veterans informed with status updates. Additionally, we’ve created a page offering Veterans alternative options for manually submitting files to the VA in case of system failures. We need CAIA’s support with content edits for these new additions.
 
-[Link to product brief]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Evidence%20Submission%20Status%20Initiative.md).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Evidence%20Submission%20Status%20Initiative.md).
 
 ### OCTO Priorities 
 
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
 
-Our platforms are the best way to deliver products at VA.
+* Our platforms are the best way to deliver products at VA.
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 
 This work supports a Veteran whenever they are filing a disability compensation claim, which could occur across a wide swath of the Veteran journey, ranging all the way from "Getting out" to "Aging."
 
-## Research Goals	
-What are you trying to learn from this research? 
+## Research Goals
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+1. Validate the design patterns for a successful file upload scenario.  
+2. Ensure the design patterns effectively address a Type 1 failure (submission fails immediately).  
+3. Confirm the design patterns handle a Type 2 failure (submission fails in downstream services).  
+4. Evaluate the proposed user experience for both receiving failure notifications via email and viewing in-app alerts for Type 1 and Type 2 failures.  
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
@@ -40,22 +39,16 @@ How will this research advance your product to the next phase in the design proc
 * CST experiences a decrease in support inquiries related to document submission status.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
 1. Do users make the connection between email content and these UI states?		
 2. Is the pending state useful - do they know what to do with this?		
 3. Does this create a better mental model for users? 		
 4. Are users less surprised by the error email if they see this pending state?
+5. How confident are Veterans in taking independent action after seeing the notifications?
+6. Do Veterans feel assured that VA will reliably upload their manually submitted files in an efficient manner?
+7. Do Veterans trust that VA will correctly associate their submitted files with the appropriate claim?  
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
 
 * Veterans will benefit from increased clarity in document status updates and failure notifications within CST.
 * Real-time status transparency will enhance Veterans' confidence and reduce anxiety during the evidence submission process.
