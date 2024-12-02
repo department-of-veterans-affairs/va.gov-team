@@ -1,5 +1,47 @@
 # Running Design and Research Agenda
 
+## November 25 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
+	- Agenda Topics
+ 		- Review Design Roadmap
+   		- Status on Champva Claims readouts
+		- Share work Jina will be doing as it relates to our forms
+		- Blue sky presentation as it may relate to our forms in the future
+  		- Review MBI options for OHI
+		- Review Pre-fill for CHAMPVA Claims
+ 
+ - ### Notes	
+	- Status on Champva Claims readouts
+		- Send Lois links to CHAMPVA Claims readout deck
+		- May try to schedule a Stakeholder research readout for 11/27 or the next meeting after that. 
+
+
+	- Jina Ryu’s work
+		- She is working on similar patterns/requirements for asking for pieces of info such as medicare
+		- She may be joining a few of meetings
+	- Blue Sky
+     		- Presentation given at the OCTO off-site
+		- Dives into notifications that show up on my VA. 
+		- Lois just wants to keep us in the loop because it may affect our claims and applications. Jamie and Rachel may be invited to the walkthrough of this. 
+
+
+	- MBI
+		- We all agreed Option B.
+		- There is an open question about MBI that we need to ask the stakeholder. Jamie to circle back on this with Premal
+	- Pre-fill claims
+		- The current workflow may solve the majority of the issues with knowing who is filling out the form. 
+		- The editable name field may solve the spouse logging in with the veteran credentials. 
+		- Jamie will clean up the file/ content and document findings in a Mural board. 
+		- We will deprioritize this project as a team until we capture some data from the 1010d’s signer flow. 
+		- Will reevaluate if we need to do further research on signer roles and shared credentials after the forms go live
+
+
+	- General
+ 		- Think about how to organize the improvements on the Figma file and look at 1010EZ team Figmas as a reference point
+
+
+
+
 ## November 12 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
 	- Agenda Topics
