@@ -12,6 +12,9 @@
 - [Redirects](#redirects)
 
 ## <a name="decision-log"></a>Decision Log
+* Fall 2024: Moving forward with two product improvements that are currently going through collab cycle: 
+  * Grouping medications - _still in progress / design iterations_
+  * Adding filters to the medications list - _planned to ship by EOY. Go/no-go is scheduled for mid-December._
 * August 2024: Learned about possible PHI/PII issues in some elements getting passed to GA4 analytics, which include title tags (were revealing specific medications in the H1, and using that in title tag) and possibly link text in list-veiw pages if the click analytics on those links are captured (would collect same medication name). Title tags were revised on 8/31/2024 to avoid PHI/PII collection, and requests to track click analytics on list-view pages were rescinded. 
 * May 2024: Moved to Phase 1
 * December 2023: Moved to Phase 0
@@ -21,7 +24,7 @@
 * May 2024: Staging review for Phase 1 scheduled for May 30th, 2024
   
 ## <a name="flows"></a>User flow<br>
-Routes into My HealtheVet tools (in Phase 1 or higher) at point of integration: 
+Routes into My HealtheVet tools (in Phase 1 or higher) at initial time of integration (June 2024): 
 <img width="780" alt="Screenshot 2024-05-28 at 9 00 37 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/72bc7ab9-2b9d-450a-8ab8-5afc011cd2ac">
 
 ## <a name="map"></a>Sitemap<br>
