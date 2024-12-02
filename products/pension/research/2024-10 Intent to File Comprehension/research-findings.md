@@ -8,11 +8,11 @@ Elisabeth Chin [elisabeth.chin@coforma.io](mailto:elisabeth.chin@coforma.io), Da
 
 **Jump to:**
 
-* Hypotheses and conclusions  
-* Key findings  
-* Recommendations  
-* Further research needed  
-* Who we talked to
+* [Hypotheses and conclusions](#Hypotheses-and-conclusions)  
+* [Key findings](#Key-findings)
+* [Recommendations](#Recommendations)
+* [Further research needed](#Further-research-needed)
+* [Who we talked to](#Who-we-talked-to)
 
 ## **Background**
 
