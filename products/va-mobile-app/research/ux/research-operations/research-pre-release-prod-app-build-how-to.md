@@ -17,7 +17,7 @@ _[NNG: Conducting Usability Testing with Real Users' Real Data](https://www.nngr
 * For a more seamless/easy installation (where it is also not necessary to collect any App store ID’s in advance), consider limiting the testing device type to iOS (iPhones and iPads).
     *  On iOS, the Testflight link opens a webpage with links (and instructions) to download both Testflight and the app’s test build so the participant can easily switch apps to return to the screen:  
 
-       <img src="/products/va-mobile-app/research/ux/research-operations/images/testflight-beta-link.PNG" width="300" alt="Testflight beta link">  
+       <img src="images/testflight-beta-link.PNG" width="300" alt="Testflight beta link">  
 
 Given the current app distribution setup, installing a build from a link on Android (using Firebase) requires a more involved set of steps, and can be more variable due to differences in operating system Settings between device manufacturers. 
 * Plan to [guide the participant through installation at the start of the session](https://docs.google.com/document/d/1QI_SqEC1nJNHFD9VbsbjlRubvxCo0vKL2n8lDTAbHsM/edit#heading=h.bb0zvoiv64ag), after the introduction/consent but before any warm-up questions. Doing it in this order ensures that participants will still answer some planned questions, even if technical issues prevent them from getting the app installed and logged in. It also prevents the moderator from making up questions on the spot.
