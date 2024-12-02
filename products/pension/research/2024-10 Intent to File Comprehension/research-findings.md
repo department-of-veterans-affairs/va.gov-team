@@ -96,11 +96,11 @@ All participants walked through all 3 core scenarios below. In order to compare 
 
 **Scenario flow A**
 
-![][image1]
+![Scenario flow A](../2024-10%20Intent%20to%20File%20Comprehension/images/scenario-a-flow.png)
 
 **Scenario flow B**
 
-![][image1]
+![Scenario flow B](../2024-10%20Intent%20to%20File%20Comprehension/images/scenario-flow-b.png)
 
 **Constraints**
 
@@ -154,7 +154,7 @@ Most participants did not mention or engage with the ITF content at the bottom o
 
 One participant mentioned that they thought the content was helpful, although they already knew how the process worked.
 
-![][image2]
+![ITF alert](../2024-10%20Intent%20to%20File%20Comprehension/images/finding-2-itf-content.png)
 
 > P7: “Because that would be the smartest thing to do instead of filling out 20 pages in triplicate just to find out, hey you're not eligible anyway. It could take you immediately to, ‘Don't waste your time, wait till you're 65 to apply.’”
 
@@ -180,7 +180,7 @@ Most participants interacted with the "What happens after you apply" dropdown on
 
 Some participants also noticed on the introduction page that we estimate the application taking about 30 minutes. They mentioned that it seemed short but were glad to have an estimate to benchmark the amount of time to complete it, ideally, in one session.
 
-![][image3]
+![Step 3 on the introduction page][(../2024-10%20Intent%20to%20File%20Comprehension/images/finding-3-step3.png)]
 
 > P6: “Having it here \[Step 3\] just as a general, ‘Hey, overall from start to finish, these take about this amount of time.’ Because I was shocked how long it took when I first filed. I think it was over 2 years. \[...\] It was a nightmare.”
 
@@ -194,7 +194,7 @@ One participant in particular remarked that the information about intent to file
 
 All participants expected to be brought to the first page of the application after clicking, ‘Start the pension application’.
 
-![][image4]
+![The first three screens of our prototype flow][(../2024-10%20Intent%20to%20File%20Comprehension/images/finding-4-flow.jpg)]
 
 When they were directed to the status page instead, some participants perceived the page as "redundant" or "unnecessary" because it reiterated similar information from the introduction page.
 
@@ -220,7 +220,7 @@ As a closing question, we asked participants how their experience impacted their
 
 Specifically, the word "potential” in “potential start date" was confusing for most participants. They interpreted that their start date would not be guaranteed because the date depended on the Veteran’s circumstances, when VA ultimately approves their claim, or unknown factors. This perception differed from our intent of informing Veterans that their start date was dependent on whether or not they would be approved. 
 
-![][image5]
+![Highlights of qualifying language in our prototype][(../2024-10%20Intent%20to%20File%20Comprehension/images/finding-5-language.jpg)]
 
 One participant referenced the Monday to Friday call center operating hour and considered that if they submitted their intent to file on a weekend, it would not be received by VA until the next working day. According to [38 CFR 3.110](http://ecfr.gov/current/title-38/chapter-i/part-3/subpart-a/subject-group-ecfr63da83ba671b92b/section-3.110), this policy may be true for intent to file submissions handled over the phone or by mail but needs to be confirmed with our VBA stakeholders.
 
@@ -236,7 +236,7 @@ In the *Returning* scenario, most participants recognized that after the due dat
 
 However, it was unclear whether or not all participants understood that less back payments was the consequence of a later start date.
 
-![][image6]
+![Alert when returning to an in-progress application][(../2024-10%20Intent%20to%20File%20Comprehension/images/finding-6-date.png)]
 
 > P8: “They're basically saying, finish this application that you started on July 10, or you need to start a new application, and you're gonna lose your old potential start date. Your new start date will be when you start this new application.” 
 
