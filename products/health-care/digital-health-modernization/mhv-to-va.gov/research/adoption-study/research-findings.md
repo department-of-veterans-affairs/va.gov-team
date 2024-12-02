@@ -4,7 +4,7 @@
 
 Date: 12/2/2024
 
-Jonathan Nelson (jonathan.nelson@adhocteam.us) 
+Jonathan Nelson (jonathan.nelson@adhocteam.us) Florence 
 
 [Research readout](link here)
 
@@ -52,23 +52,12 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 
 ## Key Findings
 
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
-
+1. All participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
+2. Participants generally understood the concept of the MHV to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
+3. Participants frequently conflated the MHV National Portal and MHV on VA.gov, even those who understood the transition conceptually.
+4. Participants identified ways to access My HealtheVet on VA.gov in the future (such as using bookmarks), but the sessions revealed difficulties navigating back to My HealtheVet on VA.gov, with participants often describing or demonstrating circuitous routes.
+5. Participants identified My HealtheVet on VA.gov as a familiar portal for healthcare, with most participants expressing positive views on the  updates.
+6. The secondary navigation proved effective in facilitating both orientation to the health portal and navigation among the various tools. 
 
 ## Details of Findings 
 
