@@ -20,7 +20,7 @@ _[NNG: Conducting Usability Testing with Real Users' Real Data](https://www.nngr
        <img src="images/testflight-beta-link.PNG" width="300" alt="Testflight beta link">  
 
 Given the current app distribution setup, installing a build from a link on Android (using Firebase) requires a more involved set of steps, and can be more variable due to differences in operating system Settings between device manufacturers. 
-* Plan to [guide the participant through installation at the start of the session](https://docs.google.com/document/d/1QI_SqEC1nJNHFD9VbsbjlRubvxCo0vKL2n8lDTAbHsM/edit#heading=h.bb0zvoiv64ag), after the introduction/consent but before any warm-up questions. Doing it in this order ensures that participants will still answer some planned questions, even if technical issues prevent them from getting the app installed and logged in. It also prevents the moderator from making up questions on the spot.
+* Plan to [guide the participant through installation at the start of the session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/research-operations/research-pre-release-prod-app-build-how-to.md#example-script-for-conversation-guide), after the introduction/consent but before any warm-up questions. Doing it in this order ensures that participants will still answer some planned questions, even if technical issues prevent them from getting the app installed and logged in. It also prevents the moderator from making up questions on the spot.
 * Have the recruiter confirm and get consent in advance—preferably right before the sessions—that participants:
     * Have Zoom installed on their mobile device prior to the session and join the session using Zoom (on their own) _*Most important_
     * Are OK with installing the Testflight app & the app test build
@@ -41,7 +41,7 @@ The moderator should help participants do the following during the session:
 * Log into the pre-release version of the mobile app using their real credentials (pause the recording while they’re doing this).
 * At the end of the session, uninstall Testflight & the pre-production build.
 
-Example [App setup & screenshare](personalized-homescreen/2024-04 evaluative research/personalized home screen - conversation guide.md#section-1-app-setup--screenshare-15-minutes) 
+Example [App setup & screenshare](personalized-homescreen/2024-04%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-1-app-setup--screenshare-15-minutes) 
 
 
 ###  Example script for conversation guide
