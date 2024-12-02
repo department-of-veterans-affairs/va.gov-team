@@ -1,7 +1,7 @@
 name: "New VFS team member"
 description: "New VFS team members fill out this form."
 title: "New VFS Team Member Template Your name here"
-labels: []
+labels: ["platform-orientation", "new-vfs-team-member", "platform-tech-team-support"]
 body:
   - type: markdown
     attributes:
