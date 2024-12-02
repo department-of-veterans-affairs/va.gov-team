@@ -23,11 +23,11 @@
 * May 2024: Go/No-Go for Medications, delayed to May 31st
 * May 2024: Staging review for Phase 1 scheduled for May 30th, 2024
   
-## <a name="flows"></a>User flow<br>
+## <a name="flows"></a>My HealtheVet basic user flow<br>
 Routes into My HealtheVet tools (in Phase 1 or higher) at initial time of integration (June 2024): 
 <img width="780" alt="Screenshot 2024-05-28 at 9 00 37 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/72bc7ab9-2b9d-450a-8ab8-5afc011cd2ac">
 
-## <a name="map"></a>Sitemap<br>
+## <a name="map"></a>Medications sitemap<br>
 <img width="838" alt="Screenshot 2024-05-28 at 8 59 12 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/cf4a9e00-eaae-4ccf-9a6d-af1523b06841">
 
 ## <a name="url"></a>URLs and breadcrumbs
