@@ -12,7 +12,8 @@ The goals of our UX research for 2022 were:
 | **September 2022** |  IA & Navigation: Usability Study Findings | Evaluate the usability of the proposed navigation pattern and information architecture (based on the Closed Card Sort findings) using a series of tasks the participants will be asked to complete | [Findings summary](usability-testing/new%20navigation%20usability/usability-findings.md)|
 | **Summer 2022** |  Concept Testing | Evaluate the usability of the proposed Appointment Scheduler feature |  |
 | **Fall 2022** |  Concept Testing | Evaluate the usability of the proposed Prescription Refill feature |  |
-| **November 2022** |  Usability Testing | Test usability of the app with users who are blind or low vision | In progress soon |
+| **November 2022** |  Usability Testing | Test usability of the app with users who are blind or low vision | [Findings summary](usability-testing/2022-11-Blind-Low-vision
+/Research-findings.md)
 
 
 
