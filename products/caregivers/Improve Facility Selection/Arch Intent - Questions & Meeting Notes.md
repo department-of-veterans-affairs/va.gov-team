@@ -31,13 +31,32 @@
      - From **Adrian** via Slack:
           - Note: lighthouse accepts sensitive parameters in GET params (from memory, patient identifiers, probably other things) - we will be at this a long time if we try to change this pattern everywhere
      - From **Adrian** via Slack:
-          - I convo'd with the @octo-health-engineers about the GET -> POST discussion, we generally agree that it feels wrong to say "just use POST". The most robust solution would be to use public key encryption to encrypt the parameters on the client side and decrypt them within vets-api. I took a quick look and don't see any prior art but ideally this would be done as a single shared util in each repo that other teams could take advantage of.  
+          - I convo'd with the @octo-health-engineers about the GET -> POST discussion, we generally agree that it feels wrong to say "just use POST". The most robust solution would be to use public key encryption to encrypt the parameters on the client side and decrypt them within vets-api. I took a quick look and don't see any prior art but ideally this would be done as a single shared util in each repo that other teams could take advantage of.
+          - it could be cool to create a custom faraday middleware that automatically decrypted parameters matching some signature. of course then we would have to be careful not to have it low enough in the stack that the parameters got logged out
+          - some mixin that can be added to controller classes might be better
+          - so in the context of e.g. the [facilities api client](https://github.com/department-of-veterans-affairs/vets-api/blob/eff3d537d977c9b8086060929c6ac1df13ec3421/modules/facilities_api/app/services/facilities_api/v2/ppms/client.rb#L97) it could be something like
+>     include VaGovParamDecryptor
+>     
+>     ...
+>     
+>     def base_params(params)
+>       decrypted_params =
+>     decrypt_params(params)
+>       latitude, longitude, radius =
+>     fetch_lat_long_and_radius(params)`
+>  
+- From **Adrian** via Slack:
+     - Or putting lat/long in headers could potentially be an even quicker (or even permanent :zipper_mouth_face:) fix too
+---
 - **MUST**: Confirm that there is no PII being logged
+---
 - **SHOULD**: Add some sort of monitor for Lighthouse API
+---
 - **SHOULD**: Review response times for search results
      - Current acceptable limit standard is around 4 seconds
      - **Adrian** suggested via Slack: look into using https://github.com/mfrachet/cypress-audit
           - lighthouse has built in network and cpu limiting for the mobile tests. Would appreciate hearing back anything y'all find out
+---
 - **CONSIDER**: Adding 'distance from' to each location
      - Future Iteration?
 - 
