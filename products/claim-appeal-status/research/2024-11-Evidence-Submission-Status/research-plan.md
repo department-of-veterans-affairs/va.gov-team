@@ -13,7 +13,7 @@ Our designs aim to provide Veterans with real-time transparency into the status 
 
 As part of this work, we’ve added new alert messages to keep Veterans informed with status updates. Additionally, we’ve created a page offering Veterans alternative options for manually submitting files to the VA in case of system failures. We need CAIA’s support with content edits for these new additions.
 
-[Link to product brief]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Evidence%20Submission%20Status%20Initiative.md)).
+[Link to product brief]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Evidence%20Submission%20Status%20Initiative.md).
 
 ### OCTO Priorities 
 
@@ -23,7 +23,8 @@ Our platforms are the best way to deliver products at VA.
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+
+This work supports a Veteran whenever they are filing a disability compensation claim, which could occur across a wide swath of the Veteran journey, ranging all the way from "Getting out" to "Aging."
 
 ## Research Goals	
 What are you trying to learn from this research? 
@@ -33,11 +34,21 @@ What are you trying to learn from this research?
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
+* Veterans gain real-time transparency into the status of their evidence submissions, allowing them to track each stage in the process (e.g., "Pending," "Received," "Failed").
+* Veterans experience reduced anxiety due to timely updates, gaining confidence in the document submission process.
+* Veterans receive clear, actionable feedback on failed submissions, including instructions on how to resolve issues, empowering them to take immediate corrective action.
+* CST experiences a decrease in support inquiries related to document submission status.
+
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
+
+1. Do users make the connection between email content and these UI states?		
+2. Is the pending state useful - do they know what to do with this?		
+3. Does this create a better mental model for users? 		
+4. Are users less surprised by the error email if they see this pending state?
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -46,16 +57,15 @@ What do you intend to learn and measure from this study? Think through these pro
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
 - Remember to constrain the hypothesis to the goals of your study!
 
+* Veterans will benefit from increased clarity in document status updates and failure notifications within CST.
+* Real-time status transparency will enhance Veterans' confidence and reduce anxiety during the evidence submission process.
+* Providing in-app failure notifications will improve Veterans' ability to take effective, timely corrective actions.
+* In-app status updates will complement email notifications, providing Veterans with additional clarity and reducing the need for support inquiries.
+
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+Semi-structured interviews
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
@@ -68,12 +78,7 @@ Additional resources:
 ### Location
 Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Remote on Zoom
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
@@ -116,6 +121,15 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
+15 total participants:
+
+5 Black Veterans
+5 Veterans age 55-64+
+4 Veterans without a degree
+3 Assestive technology users
+At least 5 women Veterans
+The participants must be using a desktop device during the study.
+
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
@@ -134,32 +148,37 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: **TBA (rocio.de-santiago@coforma.io)**
+* Date and time of pilot session: **TBA**
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: **TBA**
 
 ### Length of sessions
 * Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
 * Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
 * Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
 
+* Session length: 1 hour
+* Buffer time between sessions: 1 hour 
+* Maximum Sessions per day: 2 sessions per day
+
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+
+Monday - Friday: 9 AM ET - 3:30 PM ET
 	
 ## Team Roles	
 **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
 
 **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Send emails only for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.
+- Moderator: Gary Homidas (gary.homidas@adhocteam.us)
+- Research guide writing and task development: Gary Homidas (gary.homidas@adhocteam.us), Skyler Schain (skyler.schain@coforma.io)	
+- Participant recruiting & screening: Perigean
+- Project point of contact: Gary Homidas (gary.homidas@adhocteam.us), Jacob Worrell (jacob.worrell@adhocteam.us)
+- Participant(s) for pilot test: 
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	David Kennedy (david.kennedy@adhocteam.us)
+- Note-takers/Observers: Skyler Schain (skyler.schain@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us), David Kennedy (david.kennedy@adhocteam.us), Peri McLaren (peri.mclaren@adhocteam.us), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Sam Cormier (sam.cormier@coforma.io), Julie Strothman (julie.strothman@va.gov)
