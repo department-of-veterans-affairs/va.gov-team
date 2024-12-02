@@ -99,10 +99,15 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
 - Initally this is not in scope for VAHB since the app focuses on VA prescriptions currently and only shows Rx from the last 6 months.  In the future as we think about what should be included in VAHB medications experience the same logic should be able to be applied. 
 
 #### V1
-- Group medications that have the same RX# + alpha character into one object (card).  These are prescriptions and their associated renewals. 
+- Group medications that have the same RX# + alpha character into one object (card).  These are prescriptions and their associated renewals. Will not apply to Non-VA meds.
    - Example:
     - Medication = Ibprofen 200MG tab
-    - Prescription 1234567, Prescription 1234567A, Prescription 1234567B would all be grouped together under this medication vs. having three separate cards.  The most recent Rx would be the status shown on the card.  All previous Rx details would be listed under the details page.  
+    - Prescription 1234567, Prescription 1234567A, Prescription 1234567B would all be grouped together under this medication vs. having three separate cards.  The most recent Rx would be the status shown on the card.  All previous Rx details would be listed under the details page.
+##### Notes about V1
+- Prescriptions that are the same medication but from different facilities will have different Rx # and will not be grouped in this version.  This means that users still may have the same medication listed twice on their list if they are from different facilties.  
+- If a user has a prescription that expires from one provider and then that provider leaves the VA and they go to renew the prescription with a new provider (same facility) the prescription could show up automatically as a renewal if the new provider was listed as a surrogate.  This would be the same Rx# with alpha character.
+- If the new provider was not listed as a surrogate the new provider would have to create a new prescription which would be a new Rx#. This is a more common scenario.  This means that users still may have the same medication listed twice even from the same facility.
+
 #### V2
 - Explore grouping medications by NDC and/or Medication name (name + dose + form).  
 - Likely would not want to group VA meds + non-VA meds together as one object even if NDC or medication name is the same.
@@ -118,8 +123,8 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
 - 10/16 - PO Sync
 - 10/23 - Architecture Review
 - 10/24 - Design Intent
-- 11/15 - Midpoint
-- 12/10 - Staging
+- 11/18 - Midpoint
+- 1/15 - Staging
 - Release V1 by end of PI 17 - Jan 21.
 
 ### Timeline 
