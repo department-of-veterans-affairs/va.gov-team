@@ -7,6 +7,23 @@
 	  - Research Artifacts Documentation
 	  - Review OHI Required Email flow
 	  - Review URL list
+ 
+ - ### Notes
+ 	- Research artifacts
+ 	  - Opting to keep research in Github
+ 	  - Clean up the github links make should they are up to date and filed by form
+ 	  - Jamie to look for the claims user journey and check if it is complete. If it needs work it can be a lower priority
+	- OHI Required email
+	  - Look into collecting the name for the signer so we can pre-fill the signature. Evaluate with the engineer on the lift.
+	  - Go forward with variable pronouns for the value add with the UX for. This will be for go live
+   	  -  We can leave the third party signature per-fill for post-launch. We will want to do this across all forms as an improvement
+
+
+	- URL list
+ 	  - Lois needed the URL list for GA set up
+ 	  - Bo has the events set up in GA 
+	  - Premal shared the 1010D and FMP Reg URLs via the Zenhub ticket. 
+
 
 ## November 25 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
