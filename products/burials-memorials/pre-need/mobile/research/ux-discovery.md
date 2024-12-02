@@ -60,6 +60,12 @@
     * Could we surface if a pre-need burial claim has been *started* but has not yet been submitted? Thinking we could link to VA.gov if we’re not building this process in the app
 * User goal [from Pre need README-2023.md]: Received an eligibility determination within 45 days.
     * What is the current eligibility determination timeframe?
+ * Consideration of adding application form into app (via Slack thread by Ryan)
+    * there are def other pseudo-forms that will live in the app (eg requesting travel pay reimbursement is technically a form as it has an OMB number, but also things like the check-in flow for health care appointments which is not a "form" proper, but has many form elements). Some already do (profile things are form-like).
+   * users shouldn't (and I hypothesis don't) have to care if its really a form or not—they should just be able to complete the task and we help guide them
+   * because there are other experiences in the app that do have form elements, we should be thinking about reusability, consistency, documentation, etc
+   * one of the rubrics we have for deciding on what tasks should or should not be in the app is repeatability. if this is a one-off form, that might sway our decision
+
 
 
 ### Current process for Veterans 
@@ -121,13 +127,15 @@ You’ll receive a confirmation email shortly. We’ll let you know by mail or p
 * [For benefits management team (#va-gov-mbs)](https://dsva.slack.com/archives/C03QC459M0C/p1732639077882339) - posted 11/26
 
 
-## Research Objectives (work in progress)
+## Research Objectives
 
 * Objectives
-   * What would be the most useful to have available for the veteran?
-   * Where is the best place in the app to have the relevant information?
+   * What are the goals of veterans for pre-need burial within the app?
+      * What is most useful?
+      * How are these items most useful?
+   * How do veterans want to find and access relevant items for pre-need burial within the app?
 * Scope
-   * Are we building the application platform in the app, or is there any possibility of that in the future? If that portion is off the table, we won’t need to do any testing on the functionality of the application process.
+   * It's not yet decided if we're building the full pre-need application into the app, so the research plan will be written for that being a possibility. (e.g. potentially adding testing on functionality of application process)
    * Possible options of items to add in app
         * Application (40-10007)
         * Claim status
