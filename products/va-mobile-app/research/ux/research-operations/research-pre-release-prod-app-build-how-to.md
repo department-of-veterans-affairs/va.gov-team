@@ -61,7 +61,7 @@ Example [App setup & screenshare](https://github.com/department-of-veterans-affa
             * _If they can’t download the app successfully, try again but then [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes)._
         * Now we’re going to navigate back to that screen we were looking at in the browser. Go ahead and do that. Ok, here we are.  
 
-         <img src="/products/va-mobile-app/research/ux/research-operations/images/Zoom-testflight-link.PNG" width="200" alt="Zoom chat TestFlight  link">   <img src="/products/va-mobile-app/research/ux/research-operations/images/testflight-beta-link.PNG" width="200" alt="TestFlight beta link">   <img src="/products/va-mobile-app/research/ux/research-operations/images/testflight-appstore-1.PNG" width="200" alt="TestFlight in app store">
+         <img src="images/Zoom-testflight-link.PNG" width="200" alt="Zoom chat TestFlight  link">   <img src="images/testflight-beta-link.PNG" width="200" alt="TestFlight beta link">   <img src="images/testflight-appstore-1.PNG" width="200" alt="TestFlight in app store">
 
 * Scroll down the screen til you get to a button that says ‘Start Testing’ to tap to download and install the VA health & benefits mobile app. I will help you uninstall the app at the end of the conversation.
     * Tap Don’t Allow, then tap Continue.
