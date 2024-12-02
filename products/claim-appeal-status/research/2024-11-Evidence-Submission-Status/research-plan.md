@@ -1,4 +1,4 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for Claim Status Tool, Evidence Submission Status
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
@@ -7,11 +7,19 @@ Briefly describe the background of your product. Consider:
 - Where is your product situated on VA.gov? (ex: auth vs. unauth)
 - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-[Link to product brief](url goes here).
+Silent Failure occurs when a Veteran submits a form or evidence, but it fails to reach downstream services or owners of record. When the submission fails, the Veteran isn’t notified of this problem. This lack of real-time updates creates confusion, delays corrective action, increases support inquiries, and can lead to repeated failed attempts.
+
+Our designs aim to provide Veterans with real-time transparency into the status of their evidence submissions (e.g., "Pending," "Received," "Failed"). We believe this visibility will reduce anxiety, while clear, actionable feedback on failures will boost Veterans' confidence in the process and enable immediate resolution. This approach is also expected to reduce support inquiries for CST.
+
+As part of this work, we’ve added new alert messages to keep Veterans informed with status updates. Additionally, we’ve created a page offering Veterans alternative options for manually submitting files to the VA in case of system failures. We need CAIA’s support with content edits for these new additions.
+
+[Link to product brief]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Evidence%20Submission%20Status%20Initiative.md)).
 
 ### OCTO Priorities 
 
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
+
+Our platforms are the best way to deliver products at VA.
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
