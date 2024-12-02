@@ -1,14 +1,12 @@
-# Research Plan for Claim Status Tool, Evidence Submission Status
+# Research Plan for Claim Status Tool, Document Status
 
 Benefits Team 1 · November 2024
 
 ## Background
 
-The file upload experience in the Claim status tool on VA.gov needs improvement, as the upload status is unclear for Veterans. This uncertainty can lead to frustration about whether the file was successfully uploaded, particularly in cases of silent errors. Our designs aim to provide Veterans with real-time transparency into the status of their evidence submissions (e.g., 'Pending,' 'Received,' 'Failed'). We believe this visibility will reduce anxiety, while clear and actionable feedback on failures will boost Veterans' confidence in the process and enable immediate resolution. This approach is also expected to reduce support inquiries to CST.
+The file upload experience in the Claim Status Tool on VA.gov needs improvement, as the upload status is unclear for Veterans. This uncertainty can lead to frustration about whether the file was successfully uploaded, particularly in cases of Silent Failures. Our designs aim to provide Veterans with real-time transparency into the status of their evidence submissions. We believe this visibility will reduce anxiety, while clear and actionable feedback on failures will boost Veterans' confidence in the process and enable immediate resolution. This approach is also expected to reduce support inquiries to CST.
 
-Silent Failure occurs when a Veteran submits a form or evidence, but it fails to reach downstream services or owners of record. When the submission fails, the Veteran isn’t notified of this problem. This lack of real-time updates creates confusion, delays corrective action, increases support inquiries, and can lead to repeated failed attempts.
-
-As part of this work, we’ve added new alert messages to keep Veterans informed with status updates. Additionally, we’ve created a page offering Veterans alternative options for manually submitting files to the VA in case of system failures. We need CAIA’s support with content edits for these new additions.
+Silent Failures occur when a Veteran submits a document, but it fails to reach downstream services or owners of record. When the submission fails, the Veteran isn’t notified of this problem. This lack of real-time updates creates confusion, delays corrective action, increases support inquiries, and can lead to repeated failed attempts.
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Evidence%20Submission%20Status%20Initiative.md).
 
@@ -19,40 +17,32 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 * Our platforms are the best way to deliver products at VA.
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-
-This work supports a Veteran whenever they are filing a disability compensation claim, which could occur across a wide swath of the Veteran journey, ranging all the way from "Getting out" to "Aging."
+* This work supports a Veteran whenever they are filing a disability compensation claim, which could occur across a wide swath of the Veteran journey, ranging all the way from "Getting out" to "Aging."
 
 ## Research Goals
 
 1. Validate the design patterns for a successful file upload scenario.  
 2. Ensure the design patterns effectively address a Type 1 failure (submission fails immediately).  
-3. Confirm the design patterns handle a Type 2 failure (submission fails in downstream services).  
+3. Ensure the design patterns effectively address a Type 2 failure (submission fails in downstream services).  
 4. Evaluate the proposed user experience for both receiving failure notifications via email and viewing in-app alerts for Type 1 and Type 2 failures.  
 
-### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+### Outcome [Needs Review]
 
-* Veterans gain real-time transparency into the status of their evidence submissions, allowing them to track each stage in the process (e.g., "Pending," "Received," "Failed").
-* Veterans experience reduced anxiety due to timely updates, gaining confidence in the document submission process.
-* Veterans receive clear, actionable feedback on failed submissions, including instructions on how to resolve issues, empowering them to take immediate corrective action.
-* CST experiences a decrease in support inquiries related to document submission status.
+As a result of the research, we will have findings that will validate if real-time status updates are helpful to Veterans. Additionally, we want to identify any henderences that Veterans may experience from the point of receving a failed notification and them sending in their physical documents. 
 
 ### Research questions
 
-1. Do users make the connection between email content and these UI states?		
-2. Is the pending state useful - do they know what to do with this?		
-3. Does this create a better mental model for users? 		
-4. Are users less surprised by the error email if they see this pending state?
-5. How confident are Veterans in taking independent action after seeing the notifications?
-6. Do Veterans feel assured that VA will reliably upload their manually submitted files in an efficient manner?
-7. Do Veterans trust that VA will correctly associate their submitted files with the appropriate claim?  
+1. Is the "In progress" state useful - do they understand that the document hasn't been completely uploaded to their claim?
+2. Does this create a better mental model for Veterans? (use specific examples. what is a sinct answer are trying to get to. What is the "model" we will be testing)		
+3. Do Veterans make the connection between the email content and the "In progress" states?		
+4. Do Veterans understand what to do after seeing the email and in-app alerts for failed uploads?
+5. Do Veterans feel confident in VA's ability to properly process their mailed-in documents.
 
 ### Hypothesis
 
-* Veterans will benefit from increased clarity in document status updates and failure notifications within CST.
-* Real-time status transparency will enhance Veterans' confidence and reduce anxiety during the evidence submission process.
-* Providing in-app failure notifications will improve Veterans' ability to take effective, timely corrective actions.
+* The proposed design makes it clear what the status of the uploaded document is.
+* Providing in-app failure notifications make Veterans know what actions to take for submitting their physical documents.
+* Veterans will know what to do in scenarios where document uploads were successful and scenarios where document uploads failed. 
 * In-app status updates will complement email notifications, providing Veterans with additional clarity and reducing the need for support inquiries.
 
 ## Methodology	
