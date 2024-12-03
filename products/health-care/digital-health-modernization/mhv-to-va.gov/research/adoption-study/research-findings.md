@@ -60,7 +60,6 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 
 ## Details of Findings 
 
----
 ### 1. Participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
 
 Among the ten participants, none engaged with the "Try Me" banners promoting My HealtheVet on VA.gov. Participants' task-focused behavior, banner overload, and perceived irrelevant messaging contributed to the lack of engagement. 
@@ -86,9 +85,6 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 > No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
 
 <img width="909" alt="Screenshot 2024-12-03 at 1 25 08 PM" src="https://github.com/user-attachments/assets/f6da8b1b-6ace-45d4-b991-91d5f7972c6d">
-
----
-
 
 **Finding 2**
 
