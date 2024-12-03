@@ -66,7 +66,7 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 
 - All 10 participants demonstrated a strong focus on task completion and scrolled past the banner.
 
-> "If I've already made it this far to the page, I don't care about all this. I"m already where I was trying to be" - P2
+> "If I've already made it this far to the page, I don't care about all this. I"m already where I was trying to be." - P2
 
 > "Hmm, no, I usually scroll really fast and went right down to my appointments." - P13
 
@@ -89,15 +89,15 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 ---
 ### 2. Participants generally understood the concept of the My HealtheVet to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
 
-Despite a conceptual understanding of the My HealtheVet to VA.gov transition, participants expressed considerable uncertainty about its practical application, citing concerns about workflow disruptions and repeated login requirements. 
+Despite a conceptual understanding of the My HealtheVet to VA.gov transition, participants expressed considerable uncertainty, citing concerns about workflow disruptions, repeated login requirements, and possible loss of functionality. 
+
+> "There is no driver to make me want to click on that, especially when everything is still available as an option" - P2
 
 > "I think it will take me to VA.gov, but I wonder if it will make me login again." - P10
 
 > "I won't come to Va.gov until it's fully functional. Now I have to click one more time to go back. Nobody wants to turn backward." - P 13
 
-> "There is no driver to make me want to click on that, especially when everything is still available as an option" - P2
 ---
-
 
 **Finding 3**
 
