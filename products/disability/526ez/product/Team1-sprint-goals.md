@@ -1,5 +1,47 @@
 # Sprint goals for Benefits Disability Experience Team 1 (DBEX-TREX)
 
+## Sprint 12 Goals
+**Dec 4 - Dec 17, 2024**
+
+### Goal 1: Update retryable and non-retyable error handling to prepare for the Rated Disability Migration.
+
+#### We'll know we've achieved the goal when:
+- Lighthouse API retries are attempted for errors that were previously non-retryable in EVSS, increasing primary path submissions.
+
+### Goal 2: Enable BDD claims testing in staging by implementing the Lighthouse Benefits Reference Data staging endpoint integration
+
+#### We'll know we've achieved the goal when:
+- Successful BDD test claim submission from staging.va.gov to Lighthouse staging.
+
+### Goal 3: Complete Staging Review and release New Confirmation Page & Primary Path Received Email
+
+#### We'll know we've achieved the goal when:
+- Daily confirmation page views remain consistent with typical submission volume, ‘submission-taking-too-long' events drop to zero, primary path emails successfully delivering to Veterans, all staging review requirements met.
+
+*Additional hypothesis to monitor:*
+
+*We expect to see a reduction in duplicate submissions as Veterans have clearer confirmation of their claim status. We'll track this trend but note it may be influenced by multiple factors beyond these feature changes.*
+
+### Goal 4: Prepare 5103 and Claim Certification feature for release and complete the necessary Platform touchpoints required to complete Staging Review.
+
+#### We'll know we've achieved the goal when:
+- Name validation risks are documented and addressed, all Platform staging review requirements are met (accessibility, testing, documentation), Platform approves the features for production.
+
+### Goal 5: Conduct AT usability testing sessions
+
+#### We'll know we've achieved the goal when:
+- We share at least one topline summary by sprint end with OCTO stakeholders.
+
+### Goal 6: Design Provide a Copy (PDF) on Confirmation page.
+
+#### We'll know we've achieved the goal when:
+- Figma mocks are approved by the team and OCTO stakeholders.
+
+### Goal 7: Discovery: Design how Veterans will check the status of their submission on CST. What might that experience be like?
+
+#### We'll know we've achieved the goal when:
+- CST design patterns and constraints documented, initial mocks created if needed, technical feasibility and timeline assessed, implementation approach agreed upon.
+
 ## Sprint 11 Goals
 Nov 20 - Dec 3, 2024
 
