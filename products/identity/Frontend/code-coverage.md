@@ -1,5 +1,33 @@
 # Identity Frontend Code Covereage Report
 
+***Date Modified:*** December 3, 2024
+
+## Generating Code Coverage Report
+1. From terminal nagivate to ```vets-website``` repository on local machine
+2. Run test command for desired coverage report (See table below for test command)
+3. Make sure to add the ```--coverage``` flag when running your tests.
+4. Wait for unit tests to run and make sure all are passing for that application/directory
+5. Open coverage ```index.html``` in browser to view report.
+   - URL structure: ```[local machine file path]/vets-website/coverage/[test file path]/index.html```
+   - Example of URL structure: ```file:///Users/caitlin/Documents/GitHub/vets-website/coverage/platform/site-wide/user-nav/containers/index.html```
+
+## Current Coverage Report
+### Applications
+
+| File Path & Test Command | Coverage Report Screenshot |
+|---|---|
+| <ul><li>File Path: ```vets-website/src/applications/auth```</li> <li>Test Command: ```yarn test:coverage-app auth```</li></ul> | ![Screenshot 2024-12-03 at 5 40 59 AM](https://github.com/user-attachments/assets/9bccff8d-166b-43c7-9242-c650bc63b328) |
+| <ul><li>File Path: ```vets-website/src/applications/login```</li> <li>Test Command: ```yarn test:coverage-app login```</li></ul> | ![Screenshot 2024-12-03 at 5 57 28 AM](https://github.com/user-attachments/assets/80dca706-7afb-4bbf-b593-eac3a101526c) ![Screenshot 2024-12-03 at 5 57 50 AM](https://github.com/user-attachments/assets/49b34099-5d3f-4291-ad7d-e9522a896e05) |
+| <ul><li>File Path: ```vets-website/src/applications/sign-in-changes```</li> <li>Test Command: ```yarn test:coverage-app sign-in-changes```</li></ul> | ![Screenshot 2024-12-03 at 6 00 40 AM](https://github.com/user-attachments/assets/68f2356e-21ed-4178-a43d-c189717a80d3) |
+| <ul><li>File Path: ```vets-website/src/applications/terms-of-use```</li> <li>Test Command: ```yarn test:coverage-app terms-of-use```</li></ul> | ![Screenshot 2024-12-03 at 6 02 11 AM](https://github.com/user-attachments/assets/42cc7e3c-5d63-4ca2-b0b8-c165a1c230b8) |
+| <ul><li>File Path: ```vets-website/src/applications/verify```</li> <li>Test Command: ```yarn test:coverage-app verify```</li></ul> | ![Screenshot 2024-12-03 at 6 03 49 AM](https://github.com/user-attachments/assets/11716cec-7104-4e93-9cae-467fc0ef1569) |
+
+### Platform
+| File Path & Test Command | Coverage Report Screenshot |
+|---|---|
+| <ul><li>File Path ```vets-website/src/platform/site-wide/ebenefits/```</li> <li>Test command: ```yarn test:unit src/platform/site-wide/ebenefits/tests --coverage --coverage-html```</li></ul> | ![ebenefits](https://github.com/user-attachments/assets/2d6ca836-2814-4b0e-8cdd-1e64623df967) |
+
+## Reference
 ```Vets-Website``` identity owned code:
 - ```src/applications/auth @department-of-veterans-affairs/octo-identity @department-of-veterans-affairs/va-platform-cop-frontend```
 - ```src/applications/login @department-of-veterans-affairs/octo-identity @department-of-veterans-affairs/va-platform-cop-frontend```
@@ -17,18 +45,6 @@
 - ```src/platform/utilities/tests/oauth @department-of-veterans-affairs/octo-identity @department-of-veterans-affairs/va-platform-cop-frontend # unit tests```
 - ```src/platform/utilities/sso @department-of-veterans-affairs/octo-identity @department-of-veterans-affairs/va-platform-cop-frontend```
 - ```src/platform/utilities/tests/sso @department-of-veterans-affairs/octo-identity @department-of-veterans-affairs/va-platform-cop-frontend # unit tests```
-
-## Applications
-
-| File Path | Coverage Report Screenshot |
-|---|---|
-| ```vets-website/src/applications/auth``` | ![Screenshot 2024-12-03 at 5 40 59 AM](https://github.com/user-attachments/assets/9bccff8d-166b-43c7-9242-c650bc63b328) |
-| ```vets-website/src/applications/login``` | ![Screenshot 2024-12-03 at 5 57 28 AM](https://github.com/user-attachments/assets/80dca706-7afb-4bbf-b593-eac3a101526c) ![Screenshot 2024-12-03 at 5 57 50 AM](https://github.com/user-attachments/assets/49b34099-5d3f-4291-ad7d-e9522a896e05) |
-| ```vets-website/src/applications/sign-in-changes``` | ![Screenshot 2024-12-03 at 6 00 40 AM](https://github.com/user-attachments/assets/68f2356e-21ed-4178-a43d-c189717a80d3) |
-| ```vets-website/src/applications/terms-of-use``` | ![Screenshot 2024-12-03 at 6 02 11 AM](https://github.com/user-attachments/assets/42cc7e3c-5d63-4ca2-b0b8-c165a1c230b8) |
-| ```vets-website/src/applications/verify``` | ![Screenshot 2024-12-03 at 6 03 49 AM](https://github.com/user-attachments/assets/11716cec-7104-4e93-9cae-467fc0ef1569) |
-
-## Platform
 
 
 
