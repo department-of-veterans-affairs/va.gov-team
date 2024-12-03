@@ -64,13 +64,13 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 
 Among the ten participants, none engaged with the "Try Me" banners promoting My HealtheVet on VA.gov. Participants' task-focused behavior, banner overload, and perceived irrelevant messaging contributed to the lack of engagement. 
 
+<img width="660" alt="Screenshot 2024-12-03 at 4 22 52 PM" src="https://github.com/user-attachments/assets/db68088f-df54-48c7-b864-3b2f5ff909cb">
+
 - All 10 participants demonstrated a strong focus on task completion and scrolled past the banner.
 
 > "If I've already made it this far to the page, I don't care about all this. I"m already where I was trying to be." - P2
 
 > "Hmm, no, I usually scroll really fast and went right down to my appointments." - P13
-
-<img width="660" alt="Screenshot 2024-12-03 at 4 22 52 PM" src="https://github.com/user-attachments/assets/db68088f-df54-48c7-b864-3b2f5ff909cb">
 
 - At least 5 of 10 participants experienced banner overload. The presentation of two to three vertically stacked banners of similar coloration resulted in a lack of visual differentiation among them.
 
