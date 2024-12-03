@@ -61,19 +61,19 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+### 1. All participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
+
+**Among the ten participants, none engaged with the "Try Me" banners promoting My HealtheVet on VA.gov.** Participants' task-focused behavior, banner overload, and perceived irrelevant messaging contributed to the lack of banner engagement.
+
+**Task-focused behavior:**
+
+> "If I've already made it this far to the page, I don't care about all this. I"m already where I was trying to be" - P2
+
+> "Hmm..no, I usually scroll really fast and went right down to my appointments." - P13
 
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
 
 > _Supporting data: Quote here_
 
