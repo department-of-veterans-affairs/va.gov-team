@@ -42,10 +42,10 @@ This pattern involves these types of pages found in VA.gov forms:
 See the related ["Help users to... Know when their information is prefilled"](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled) pattern for other pages related to prefilled content.
 
 #### Personal information page
-_(coming soon - in the interim, view this [Figma file](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3-127&t=GYX9RT423zMZrhat-1))_
+_(screenshot with annotation coming soon - in the interim, view this [Figma file](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3-127&t=GYX9RT423zMZrhat-1))_
 
 #### Prefill check page
-_(coming soon - in the interim, view this [Figma file](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3-127&t=GYX9RT423zMZrhat-1))_
+_(screenshot with annotation coming soon - in the interim, view this [Figma file](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3-127&t=GYX9RT423zMZrhat-1))_
 
 ### How this pattern works
 
@@ -72,26 +72,30 @@ This pattern communicates information that can be edited with:
 - [Radio button](https://design.va.gov/components/form/radio-button)
 - [Additional info](https://design.va.gov/components/additional-info)
 
-### Page templates available for this pattern
-
-List of links to page templates or layouts used to build any pages for this pattern.
-
 ## Examples
 
-Informational text before a set of uneditable information, informing the user that they need to call VA to update this information
-_(coming soon - in the interim, view this [Figma file](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3-127&t=GYX9RT423zMZrhat-1))_
+### Informational text after a set of uneditable information
+Inform the user that they need to call VA to update this information. The specific numbers to call may vary by form. 
 
-Success alert informing user that their change was successfully made to the form and to their VA.gov profile
+<img width="649" alt="How to edit personal information" src="https://github.com/user-attachments/assets/0c784990-98d2-4c69-a18a-9fdaa8552362">
 
-<img width="251" alt="Alert - form and profile" src="https://github.com/user-attachments/assets/ef433269-06d3-43b7-b4f3-930241893298">
+### Alert about where information will save
 
-A success alert informating users their change has been saved to the form and their VA.gov profile. If the change was only saved to the form, the alert should read "We've made these changes to only this form."
+_(screenshot coming soon - in the interim, view this [Figma file](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3-127&t=GYX9RT423zMZrhat-1))_
 
-<img width="290" alt="Success alert - saved to form and profile" src="https://github.com/user-attachments/assets/88770c2a-accb-469b-a5ba-4ed1198db056">
+### Success alert 
+Inform users their change has been saved to the form and their VA.gov profile. If the change was only saved to the form, the alert should read "We've made these changes to only this form."
 
-A radio button asking users if they want to save their changes to their VA.gov profile
+![Alert - form and profile](https://github.com/user-attachments/assets/323786ec-62f3-4890-8441-4d8091b985b3)
 
-<img width="240" alt="Radio button asking where to save" src="https://github.com/user-attachments/assets/a9d4ba37-a778-4a4e-931e-c422e6731d0e">
+If the user made the edit from the final review page, display the slim success alert on the review page, immediately under the header of the section that was edited.
+
+![Alert - form only](https://github.com/user-attachments/assets/b90882ed-ebdc-48a2-abc3-4d00603c39e5)
+
+### Radio button
+In cases where the information might be subject to change (especially mailing addresses), ask users if they want to save their changes to their VA.gov profile.
+
+![Radio Buttons](https://github.com/user-attachments/assets/dc1f2a69-9ce2-4e34-b830-cc85f773e56a)
 
 ### Examples in production
 Coming soon!
@@ -105,10 +109,14 @@ Coming soon!
 Directions for updating information that can’t be updated online vary. Instructions should be updated based on the context of the form or application used. General guidelines are:
 
 - If it’s **benefits**-related, include the content that has the VA benefits hotline. For example:
-> test
+> **Note:** To protect your personal information, we don't allow online changes to your name, date of birth, or Social Security number. If you need to change this information, call the VA benefits hotline at 800-827-1000 (TTY: 711), Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+> 
+> [Find more detailed instructions for how to change your legal name (opens in new tab)](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/)
 
 - If it’s **health**-related, include the content that has the VA benefits hotline _and_ the content to contact your local medical center.
-> test
+> **Note:** To protect your personal information, we don't allow online changes to your name, date of birth, or Social Security number. If you need to change this information, call your local VA medical center ([find a VA location tool](https://www.va.gov/find-locations/)) to get help changing your name on file with VA. Ask for the eligibility department.
+>
+> [Find more detailed instructions for how to change your legal name (opens in new tab)](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/)
 
 ## Research findings
 The Authenticated Experience Design Patterns team [conducted user research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill) in late 2024 about how users prefer to see their editable and non-editable information, and how they prefer to be informed about how to edit it. The majority of participants want updates to save to their VA.gov profile, but some also want the ability to choose where the data saves, in the case that they are using a temporary address or other temporary situation. 
