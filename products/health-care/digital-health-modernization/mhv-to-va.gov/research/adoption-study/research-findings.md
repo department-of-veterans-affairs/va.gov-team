@@ -93,7 +93,7 @@ Despite a conceptual understanding of the My HealtheVet to VA.gov transition, pa
 
 > "There is no driver to make me want to click on that, especially when everything is still available as an option" - P2
 
-> "I think it will take me to VA.gov, but I wonder if it will make me login again." - P10
+> "I think it will take me to VA.gov, but I wonder if it will make me login again...My concern is I'm already on MHV. Do I have to login again and go through that frustration?" - P10
 
 > "I won't come to Va.gov until it's fully functional. Now I have to click one more time to go back. Nobody wants to turn backward." - P 13
 
