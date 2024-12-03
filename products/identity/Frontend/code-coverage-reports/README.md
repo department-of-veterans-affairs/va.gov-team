@@ -1,4 +1,4 @@
-# Identity Frontend Code Covereage Report
+# Identity Frontend Code Coverage Report
 
 ## Generating the Monthly Code Coverage Report
 1. From your terminal nagivate to ```vets-website``` directory on your local machine
