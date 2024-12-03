@@ -28,7 +28,8 @@ Routes into My HealtheVet tools (in Phase 1 or higher) at initial time of integr
 <img width="780" alt="Screenshot 2024-05-28 at 9 00 37 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/72bc7ab9-2b9d-450a-8ab8-5afc011cd2ac">
 
 ## <a name="map"></a>Medications sitemap<br>
-<img width="838" alt="Screenshot 2024-05-28 at 8 59 12 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/cf4a9e00-eaae-4ccf-9a6d-af1523b06841">
+<img width="936" alt="Screenshot 2024-12-03 at 11 19 40 AM" src="https://github.com/user-attachments/assets/85b8ec03-ce6d-455e-8f1e-a232f1f94dc2">
+
 
 ## <a name="url"></a>URLs and breadcrumbs
 
@@ -71,12 +72,14 @@ Opening a details page is considered a mini subtask, and will take on <- Back to
 
 **5) More about this medication - COMING SOON**
 The medications team is working on pulling information about medications via an external API and linking to that information via the medications details page. 
-- URL: TBD
+- URL: www.va.gov/my-health/medications/prescription/{%ID%}/documentation?ndc={%code%}
 - Breadcrumb:
 Opening the more information page from a details page is considered a mini subtask, and will take on the <- Back breadcrumbs style. We cannot reveal back to [name of previous page] due to PHI/PII risk mitigation, so it will be a simple back breadcrumb. 
   - Desktop: <- Back
   - Mobile: <- Back
  Title tag: More about this medication | Veterans Affairs
+
+** **NOTE**: Concerned about the URL parameter for this page solution potentially being a PHI risk since it is passing known National Drug Code (NDC) codes. Have flagged to team stakeholders. 
 
 ## <a name="nav"></a>Entry points <br>
 _See also user flow and breadcrumb documents linked above in this document_
@@ -86,8 +89,8 @@ _See also user flow and breadcrumb documents linked above in this document_
 * MHV National Portal > Medications tool > "Try me" Banner alert 
 
 Future additional entry points (not possible in Phase 1):
-* Links to medications from MyVA page (will route users back to National Portal for now)
-* Links to medications from Googling keywords & landing on /health-care benefit hub pages (will route users back to national portal for now)
+* Links to medications from MyVA page (will route users back to National Portal for now) - expected update in early January 2025
+* Links to medications from Googling keywords & landing on /health-care benefit hub pages (will route users back to national portal for now) - expected update in March 2024
 
 ## <a name="redirects"></a>Redirects <br>
 N/A 
