@@ -57,10 +57,11 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 3. Participants frequently conflated the My HealtheVet National Portal and My HealtheVet on VA.gov, even those who understood the transition conceptually.
 4. Participants identified ways to access My HealtheVet on VA.gov in the future (such as using bookmarks), but the sessions revealed difficulties navigating back to My HealtheVet on VA.gov, with participants often describing or demonstrating circuitous routes.
 5. Participants identified My HealtheVet on VA.gov as a familiar portal for healthcare, with most participants expressing positive views on the  updates.
-6. The secondary navigation proved effective in facilitating both orientation to the health portal and navigation among the various tools. 
+6. The secondary navigation proved effective in facilitating both orientation to the health portal and navigation among the various tools.
 
 ## Details of Findings 
 
+---
 ### 1. Participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
 
 Among the ten participants, none engaged with the "Try Me" banners promoting My HealtheVet on VA.gov. Participants' task-focused behavior, banner overload, and perceived irrelevant messaging contributed to the lack of engagement. 
@@ -83,9 +84,10 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 
 > No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
 
-<img width="909" alt="Screenshot 2024-12-03 at 1 25 08 PM" src="https://github.com/user-attachments/assets/76a05d46-8273-4429-92f4-cac25cbe5654">
 
+<img width="875" alt="Screenshot 2024-12-03 at 4 12 25 PM" src="https://github.com/user-attachments/assets/78ccfbf6-4496-401d-a43a-8365046f9cb5">
 
+----
 
 
 **Finding 2**
