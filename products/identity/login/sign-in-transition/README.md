@@ -35,26 +35,63 @@ Our work has focused on 4 primary workstreams:
 
 ### Current Work
 Sign-up day events: planning, coordinating, training for, and hosting these events around the country
-Managing the shared inbox [(sign.in.transition@va.gov)]: responding to and forwarding emails as needed to appropriate escalation pathways with our credential service providers (CSPs)
+
+Managing the shared inbox sign.in.transition@va.gov: responding to and forwarding emails as needed to appropriate escalation pathways with our credential service providers (CSPs)
+
 Data reporting: answering data related questions regarding the shared data via the iniatives Domo Dashboard, creating weekly and monthly reports on the data 
+
 Exploring edge case issues, prioritizing into a prioritization matrix and meeting with our CSPs to identify potential recommendations or solutions moving forward
 
 ### Previous work
 In-person Proofing
+
 Consolidated Dashboards for Credentials
+
 Modern Credential Communication Campaign
+
 Non-Veteran User Types at VA (NVUR)
+
 Deferred Identity Proofing
+
 Other Resources
+
 Cross Product Research Strategy; last updated April 2024
+
 VA Figma Workspace
+
 VA Mural Workspace
 
 ## Where to find us
-GitHub Label: sign-in-transition
+GitHub Label: [sign-in-transition](products/identity/login/sign-in-transition)
 
 DSVA Slack:
-#identity-mo-team
+[#identity-mo-team](https://dsva.slack.com/archives/C07H09K4UVB)
+
 
 ## Who we are
 August 2024 - Present (Implementation Change Management)
+
+|Role|Assigned|Contact|
+|:---:|:---:|:---:|
+|OCTO Product Owner (Product)|Samara Strauss|samara.strauss@va.gov|
+|OCTO Product Owner (Tech)|Thomas Black|Thomas.Black2@va.gov|
+|OCTO Product Owner (Change Management)|Jeannette Bruno|jeannette.bruno@va.gov|
+|Program/Delivery Lead|Svenja Leggewie|svenja@themostudio.com|svenja.leggewie@va.gov|
+|Project Manager|Heather Galvan-Guzman|heather@themostudio.com|heather.galvan@va.gov|
+|CX Strategist|Bess Green|bess@digitalfoundry.com|
+|Systems Architect| Steve Dickson|sdickson@greenthreadsllc.com|steve.dickson@va.gov|
+|Sr. Project Manager|Aiden Barr|aiden@themostudio.com|aiden.barr@va.gov|
+|Event Planner|Katie Parks|katie@themostudio.com|
+|Software Engineer|John Marchi|j_marchi@digitalfoundry.com|
+|Manager, Design Strategy|Sophia Philip|sophia@themostudio.com|sophia.philip@va.gov
+|Content Strategist|Tristan Jung|tristan@themostudio.com| tristan.jung@va.gov|
+|UX Designer|Jonathan Post|jonathan@themostudio.com|jonathan.post@va.gov|
+|Service Designer, Supervisor|Christine Julian|christine@themostudio.com|christine.julian@va.gov|
+|UX Strategist|Matthew Declercq|m_declercq@digitalfoundry.com|
+|Service Designer|Jillian King|jillian@themostudio.com|jillian.king@va.gov|
+|Sr. Service Designer|Sofia Kirkman|sofia@themostudio.com|Sofia.Kirkman@va.gov| 
+|Accessibility Specialist|Josh Kim| 
+</details>
+
+### How we work
+[Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/sign-in-transition/Program%20Management#:~:text=..-,Norms_and_Expectations.md,-Create%20Norms_and_Expectations.md)
