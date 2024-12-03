@@ -1,15 +1,32 @@
 # Identity Frontend Code Covereage Report
 
-## Generating Code Coverage Report
-1. From terminal nagivate to ```vets-website``` repository on local machine
-2. Run test command for desired coverage report (See table below for test command)
-3. Make sure to add the ```--coverage --coverage-html``` flag when running your tests.
-4. Wait for unit tests to run and make sure all are passing for that application or directory
+## Generating the Monthly Code Coverage Report
+1. From your terminal nagivate to ```vets-website``` directory on your local machine
+2. For each Identity-owned directory, generate a coverage report (See table below for test commands)
+   > Note: Ensure you add the ```--coverage --coverage-html``` flag when running unit tests in the platform directory
+4. Wait for unit tests to finish and ensure all tests are passing for the given application/directory
 5. Open coverage ```index.html``` in browser to view report.
    - Navigate to ```vets-website/coverage/index.html```
    - Copy file path
    - Paste file path to browser
-6. Navigate to desired coverage report
+6. Take a screenshot of the code coverage report for each Identity-owned application and directory
+   > Note: Do not screenshot this for the `platform/user/authentication/tests` as the displayed numbers are shared with CoP and incorrect
+7. Create a new monthly report file in the [code coverage reports](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Frontend/code-coverage-reports) directory using the following naming convention: `{year}-{month}.md` (see [December 2024 code coverage report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Frontend/code-coverage-reports/2024-12.md) as an example)
+   - Add the title: **Code coverage report (Month Year)**
+   - Add 3 sections
+      - **Combined**
+      - **Applications**
+      - **Platform**
+   - In the Applications section
+      - Create a table with the file path & test command and a screenshot of the code coverage report for that application
+      - Continue until there are no other applications left (there should only be 5 rows, 5 screenshots)
+   - In the Platforms section
+      - Create a table with the file path & test command and a screenshot of the code coverage report for that directory
+      - Continue until there are no other applications left (there should only be 6 rows, 5 screenshots)
+   - In the Combined section
+      - Create a table with the Statements, Branches, Functions, and Lines as column headers and create Percent and Raw as row headers
+      - Get the sum of the covered number and the total number as well as the percent for each of the column headers
+      - Input the data into table and sent it to Joe N.
 
 ## Test Commands
 ### Applications
