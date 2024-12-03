@@ -89,11 +89,17 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 ---
 ### 2. Participants generally understood the concept of the My HealtheVet to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
 
-Despite a conceptual understanding of the My HealtheVet to VA.gov transition, participants expressed considerable uncertainty, citing concerns about workflow disruptions, repeated login requirements, and possible loss of functionality. 
+Despite a conceptual understanding of the My HealtheVet to VA.gov transition, most participants (8 of 9) expressed considerable uncertainty, citing concerns about workflow disruptions, repeated login requirements, and possible loss of functionality. 
+
+3 participants mentioned disruption of workflow: 
 
 > "There is no driver to make me want to click on that, especially when everything is still available as an option" - P2
 
+3 Participants mentioned login: 
+
 > "I think it will take me to VA.gov, but I wonder if it will make me login again...My concern is I'm already on MHV. Do I have to login again and go through that frustration?" - P10
+
+2 Participants mentioned functionality (specifically Medical records): 
 
 > "I won't come to Va.gov until it's fully functional. Now I have to click one more time to go back. Nobody wants to turn backward." - P 13
 
