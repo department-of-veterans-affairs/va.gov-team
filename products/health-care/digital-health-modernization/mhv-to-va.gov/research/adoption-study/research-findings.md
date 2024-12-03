@@ -83,9 +83,8 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 
 > No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
 
-**A few participants skimmed the first banner on the page and language like "retiring MHV" password seemed to add confusion.**
+<img width="909" alt="Screenshot 2024-12-03 at 1 25 08 PM" src="https://github.com/user-attachments/assets/76a05d46-8273-4429-92f4-cac25cbe5654">
 
-<img width="838" alt="Screenshot 2024-12-03 at 1 28 00 PM" src="https://github.com/user-attachments/assets/d21e35d3-7c7f-4f55-86ed-2a93bca6fb99">
 
 
 
