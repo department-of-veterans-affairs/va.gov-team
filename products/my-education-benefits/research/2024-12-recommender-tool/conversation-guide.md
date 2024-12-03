@@ -47,7 +47,7 @@ If Dependent:
 - Have you applied for education benefits before? If so, by what method (paper, online, etc.)?
 
 *Share prototype link to appropriate flow, participant shares screen, and then contextualize the test scenario for the them*
-Thanks for sharing your experience with us. You are currently on the "How to Apply" online page on VA.gov. This page includes resources about GI Bill benefits but more importantly for todays session, it gets users like yourself to the online application to apply for education benefits. Based on your experience, (retierate experience to them and use the factors below as needed
+Thanks for sharing your experience with us. You are currently on the "How to Apply" online page on VA.gov. This page includes resources about GI Bill benefits but more importantly for todays session, it gets users like yourself to the online application to apply for education benefits. Based on your experience, (retierate experience to them and use the factors below as needed):
 
 **Form 22-1990 Self Entitled Veteran**
 - Intent to go back to school.
