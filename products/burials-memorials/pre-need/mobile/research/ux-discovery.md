@@ -55,6 +55,7 @@
     * Why is this only being sent via paper mail? Is it a legal reason?
     * What if they lose the letter? Is it available to download from their VA.gov account?
     * Given the feedback we’ve seen about wanting to be notified about claims statuses, are Veterans going to be okay with only finding out about this in the mail?
+    * **Answers:** 
 * Opportunity and impact: [from Product Brief] *30% Submission Success Rate between 2020 - 2022 (falls in the middle compared to other Va.Gov benefit forms).*
     * If users start a pre-need burial claim on VA.gov, does it show as started somewhere within the UI with a way for them to finish it? – Assuming yes, but need to test this
     * Could we surface if a pre-need burial claim has been *started* but has not yet been submitted? Thinking we could link to VA.gov if we’re not building this process in the app
@@ -83,7 +84,9 @@
     * [Per Figma for VA.gov](https://www.figma.com/design/3aSSS4Exs7kFn17lN9wIM4/Pre-Need---Integration-Prototype?node-id=0-54342&t=DrKc326WdVsCG9Rh-1), there’s a success message design for submission that may differ from what’s currently built (need to verify). 
         1. **“You’ve submitted your application** \
 You’ll receive a confirmation email shortly. We’ll let you know by mail or phone if we need more details.”
-    * Does the email confirmation contain how long they can expect it to take to get a decision?
+    * Does the email confirmation contain how long they can expect it to take to get a decision? **Answer: No, it does not**
+    * <img width="1050" alt="pre-needs-burial-email-confirmation" src="https://github.com/user-attachments/assets/f81b4cca-8d0b-4201-b693-b0b4fc794429">
+
 6. Claim reviewed by VA
 7. Claim closed
     * **If they qualify:** Veteran will receive a pre-need decision letter, benefits information sheet, brochure, and copy of supporting documents submitted
@@ -107,7 +110,7 @@ You’ll receive a confirmation email shortly. We’ll let you know by mail or p
 ### Research projects
 
 * [2024-04 Address validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/address-validation-research-april24/address-validation-research-plan-april24.md) [research plan; no results]
-* ~~[2024-01 Address validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/address-validation-research-jan24/address-validation-research-plan-jan24.md) ~~[appears to be an earlier version of plan]
+* ~~[2024-01 Address validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/address-validation-research-jan24/address-validation-research-plan-jan24.md)~~ [appears to be an earlier version of plan]
    * This research project was not done, and instead was rolled into a later project ([VA-Form 40-1330M Medallions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/medallions/research/2024-10-Apply%20for%20a%20medallion%20in%20a%20private%20cemetery%20to%20products/VA-Form-40-1330M-Medallions-Research-Findings.md))
    * Address validation was familiar and easily understood by most participants
 * [2023-08 Integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/pre-need/research/integration-research-aug23)
