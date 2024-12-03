@@ -52,7 +52,7 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 
 ## Key Findings
 
-1. All participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
+1. Participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
 2. Participants generally understood the concept of the My HealtheVet to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
 3. Participants frequently conflated the My HealtheVet National Portal and My HealtheVet on VA.gov, even those who understood the transition conceptually.
 4. Participants identified ways to access My HealtheVet on VA.gov in the future (such as using bookmarks), but the sessions revealed difficulties navigating back to My HealtheVet on VA.gov, with participants often describing or demonstrating circuitous routes.
@@ -61,23 +61,25 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 
 ## Details of Findings 
 
-### 1. All participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
+### 1. Participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
 
 Among the ten participants, none engaged with the "Try Me" banners promoting My HealtheVet on VA.gov. Participants' task-focused behavior, banner overload, and perceived irrelevant messaging contributed to the lack of engagement. 
 
-**Participants demonstrated a strong focus on task completion and scrolled past the banner.**
+- **Participants demonstrated a strong focus on task completion and scrolled past the banner.**
 
 > "If I've already made it this far to the page, I don't care about all this. I"m already where I was trying to be" - P2
 
 > "Hmm, no, I usually scroll really fast and went right down to my appointments." - P13
 
-**Many participants experienced banner overload.** 
-
-<img width="909" alt="Screenshot 2024-12-03 at 1 25 08 PM" src="https://github.com/user-attachments/assets/53b501dc-bd8a-43a7-ab97-c70bc1d0ffff">
+- **At least 5 of 10 experienced banner overload. Some seeing three stacked banners of the same color.** 
 
 > "3 boxes all the same color makes it seem like these are all the same information." - P2
 
 > "I have all these banners here and I tend to ignore them." - P9
+
+- **Most participants precieved the banners as irrelevant massaging**
+
+> No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
 
 **A few participants skimmed the first banner on the page and language like "retiring MHV" password seemed to add confusion.**
 
@@ -85,16 +87,6 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 
 The "Retire your My HealtheVet Language like "retiring MHV" password seemed to add confusion.
 > "And then at once point, it's giving you the option to cancel your MHV. But if you do that you can't get into any of this stuff . So why are they doing that?" - P12
-
-**Precieved irrelevant massaging**
-
-> No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
-
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
 
 **Finding 2**
 
