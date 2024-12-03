@@ -4,7 +4,7 @@
 
 Date: 12/2/2024
 
-Jonathan Nelson (jonathan.nelson@adhocteam.us), Florence McCafferty (florence.mccafferty@agile6.com), Sara Sterkenburg (sara.sterkenburg@adhocteam.us) 
+Jonathan Nelson (jonathan.nelson@adhocteam.us)
 
 [Research readout](link here)
 
@@ -49,6 +49,7 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 3. Users will be interested in what we’ve decided are the most important or useful differentiators between the two portals but only those with a great deal of MHV experience will seem excited about the changes.
     - Definitely True/Not enough information: Participants were excited about having benefits, health care, and other VA information in one place. Also, managing Community Care appointments and direct scheduling were positives for participants. 
 
+<img width="660" alt="Screenshot 2024-12-03 at 4 22 52 PM" src="https://github.com/user-attachments/assets/db68088f-df54-48c7-b864-3b2f5ff909cb">
 
 ## Key Findings
 
@@ -84,10 +85,8 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 
 > No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
 
-
 <img width="875" alt="Screenshot 2024-12-03 at 4 12 25 PM" src="https://github.com/user-attachments/assets/78ccfbf6-4496-401d-a43a-8365046f9cb5">
-
-----
+---
 
 
 **Finding 2**
