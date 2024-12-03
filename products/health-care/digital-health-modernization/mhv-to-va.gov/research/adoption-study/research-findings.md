@@ -49,8 +49,6 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 3. Users will be interested in what we’ve decided are the most important or useful differentiators between the two portals but only those with a great deal of MHV experience will seem excited about the changes.
     - Definitely True/Not enough information: Participants were excited about having benefits, health care, and other VA information in one place. Also, managing Community Care appointments and direct scheduling were positives for participants. 
 
-<img width="660" alt="Screenshot 2024-12-03 at 4 22 52 PM" src="https://github.com/user-attachments/assets/db68088f-df54-48c7-b864-3b2f5ff909cb">
-
 ## Key Findings
 
 1. Participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
@@ -72,6 +70,8 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 > "If I've already made it this far to the page, I don't care about all this. I"m already where I was trying to be" - P2
 
 > "Hmm, no, I usually scroll really fast and went right down to my appointments." - P13
+
+<img width="660" alt="Screenshot 2024-12-03 at 4 22 52 PM" src="https://github.com/user-attachments/assets/db68088f-df54-48c7-b864-3b2f5ff909cb">
 
 - At least 5 of 10 participants experienced banner overload. Some participants saw three similarly colored banners stacked that seemingly blended. 
 
