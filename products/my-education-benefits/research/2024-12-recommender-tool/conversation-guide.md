@@ -34,10 +34,8 @@ Before we start, a few things I want to mention:
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 ## Warm-up Questions - 5-7 minutes
-
-Before we look at the demo tool, I would like to know more about you. Can we start with a few warm-up questions?
-
 *Use these questions to ensure participant background was correctly filtered, if not pivot to a different flow as needed.*
+Before we look at the demo tool, I would like to know more about you. Can we start with a few warm-up questions?
 
 If Veteran:
 - Tell us about your service experience or service history?
@@ -49,23 +47,19 @@ If Dependent:
 - Have you applied for education benefits before? If so, by what method (paper, online, etc.)?
 
 *Share prototype link to appropriate flow, participant shares screen, and then contextualize the test scenario for the them*
+Thanks for sharing your experience with us. You are currently on the "How to Apply" online page on VA.gov. This page includes resources about GI Bill benefits but more importantly for todays session, it gets users like yourself to the online application to apply for education benefits. Based on your experience, (retierate experience to them and use the factors below as needed
 
-Thanks for sharing your experience with us. I am going to contextualize what you are currently looking at based on what you've told me. You are currently on the "How to Apply" online page on VA.gov. This page includes resources about GI Bill benefits but more importantly for todays session, it gets users like yourself to the online application to apply for education benefits. Based on your experience, 
-
-**Form 22-1990**
-Retierate experience to them, use the factors below as needed:
+**Form 22-1990 Self Entitled Veteran**
 - Intent to go back to school.
 - Has not used education benefits in the past nor are currently using them.
 
-**Form 22-1990e**
-Retierate experience to them, use the factors below as needed:
+**Form 22-1990e Dependent**
 - You are the spouse (or child) of a Veteran.
 - You have not served in the military before.
 - You have not used education benefits before nor are currently using them.
 - Your spouse (or parent) has formally transferred benefits to you.
 
-**Form 22-5490**
-Retierate experience to them, use the factors below as needed:
+**Form 22-5490 Dependent with no sponsor**
 - You are the spouse (or child) of a Veteran.
 - You have not served in the military before.
 - You have not used education benefits before nor are currently using them.
@@ -75,19 +69,19 @@ Before we jump into to the task, do you have any questions about the information
 
 ## Wayfinding - 3 minutes
 
-"If you wanted to apply for education benefits, could you explain to me how would you start that?"
+"Could you explain to me how you would start the application process for education benefits?"
 "Now looking at the VA home page, how would do that here?"
 
 ## Task 1: Find the appropriate form - 3-5 minutes
 
-"In light of the information, where would you look first to find the application form thats right for you?"
+"Looking at this screen, where would you go first to find the application form thats right for you?"
 
-Probing questions (if the user gets stuck):
+Probing questions:
 - Where might you look first to begin the process? Why?
 - Where would you look to sign in? 
 - Our prototype does not have typing capabilities, lets try clicking the username field to input the login information.
 - What would you do to finish logging in?
-- Looking at this [the recommendation], does it feel like you're in the right place?
+- Looking at this [recommended form], does it feel like you're in the right place?
 - What is your confidence level looking at this information? How are you understanding the other information on this page?
 
 ### Things to watch for:
