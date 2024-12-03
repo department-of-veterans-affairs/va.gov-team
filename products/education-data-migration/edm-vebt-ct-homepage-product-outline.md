@@ -4,16 +4,17 @@
 
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.* 
 
-Our team will enhance VA education tools by migrating WEAMS Public  (WP) data into the Comparison Tool. The current-state design and functionality of  WEAMS Public site will be analyzed to identify any future WP functionality via an extract from WEAMS corporate and GIDS, including updated institution, license, certification, and exam information. 
+Our team will add a homepage to Comparison Tool that provides links to the School and Employer, Licenses and Certifications, National Exams pages to break apart information being added to Comparison Tool by category.
 
 
 ## Problem Statement 
 
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)* 
 
-- As a Veteran, I want to view up-to-date institution, license, certification, and exam information in WP 
-- As a Developer, I want to ensure that the displayed data in WP is error-free and renders correctly 
-- As a UX Designer, I want to confirm that users are able to navigate the YRT with little-to-no errors so that they can access YRT data.
+- As a Veteran, I want to quickly and easily access all information within Comparison Tool.  
+- As a Backend Developer, I want to ensure each page operates is error-free and renders correctly, and pulls data users expect to see. 
+- !!!!!!!!!!!!!!!!!!!!!!!!!!!STOPPED WORK HERE!!!!!!!!!!!!!!!! As a Frontend Developer 
+-  As a UX Designer, I want to confirm that users are able to navigate the YRT with little-to-no errors so that they can access YRT data.
 - By migrating data from YRT into Comparison Tool, EDM can ensure data consistency. In addition, the enhancement of available information will ease the process of acquiring data.  
 
 *Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.* 
