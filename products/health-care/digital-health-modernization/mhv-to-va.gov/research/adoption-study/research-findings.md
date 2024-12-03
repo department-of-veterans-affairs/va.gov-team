@@ -63,16 +63,32 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 
 ### 1. All participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
 
-**Among the ten participants, none engaged with the "Try Me" banners promoting My HealtheVet on VA.gov.** Participants' task-focused behavior, banner overload, and perceived irrelevant messaging contributed to the lack of banner engagement.
+Among the ten participants, none engaged with the "Try Me" banners promoting My HealtheVet on VA.gov. Participants' task-focused behavior, banner overload, and perceived irrelevant messaging contributed to the lack of engagement. 
 
-**Task-focused behavior:**
+**Participants demonstrated a strong focus on task completion and scrolled past the banner.**
 
 > "If I've already made it this far to the page, I don't care about all this. I"m already where I was trying to be" - P2
 
-> "Hmm..no, I usually scroll really fast and went right down to my appointments." - P13
+> "Hmm, no, I usually scroll really fast and went right down to my appointments." - P13
 
+**Many participants experienced banner overload.** 
 
+<img width="909" alt="Screenshot 2024-12-03 at 1 25 08 PM" src="https://github.com/user-attachments/assets/53b501dc-bd8a-43a7-ab97-c70bc1d0ffff">
 
+> "3 boxes all the same color makes it seem like these are all the same information." - P2
+
+> "I have all these banners here and I tend to ignore them." - P9
+
+**A few participants skimmed the first banner on the page and language like "retiring MHV" password seemed to add confusion.**
+
+<img width="838" alt="Screenshot 2024-12-03 at 1 28 00 PM" src="https://github.com/user-attachments/assets/d21e35d3-7c7f-4f55-86ed-2a93bca6fb99">
+
+The "Retire your My HealtheVet Language like "retiring MHV" password seemed to add confusion.
+> "And then at once point, it's giving you the option to cancel your MHV. But if you do that you can't get into any of this stuff . So why are they doing that?" - P12
+
+**Precieved irrelevant massaging**
+
+> No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
 
 
 > _Supporting data: Quote here_
