@@ -17,6 +17,7 @@ Not every decision a project makes gets recorded in the Decision Log. When to in
 | Date | Decision Title | Summary | Decision & Reasoning | Made By | Status
 |---|---|---|---|---|---|
 |11.25.24 |5103 Question | Maintain required question with small addition | Maintain how it is now with updating the checkbox acknowledgment. We will update the field to drop the required label once LH updates the field's required property after Appeals API is transitioned. This is due to the fact this question has already been in Prod up to this point, LH can't currently update the field while on the DR API and the potential problematic decision to remove the field altogether for some Vets. | Amy, Maurice | <code style="color : green">Resolved</code>
+|11.4.24 |Enable Failure Emails | Failure notifications will be enabled in Prod on 11/7| Originally planned to enable failure notifications (minus 4142) on 11/4 but ran into an issue due to Daylight savings time errors downstream. Turned off the emails minutes after turning them on while waiting for EMMS to correct issues. No emails were sent in this short period. Re-enabled on 11/7 for all forms/evidence submissions including 4142s.| Maurice | <code style="color : green">Resolved</code>
 |10.4.24 |GH Projects migration | Migrating to GitHub Projects from Zenhub | Changing the home of our scrum board to live within GH projects instead of Zenhub, which we learned is soon to be decommissioned by the VA anyway| Maurice | <code style="color : green">Resolved</code>
 
 
