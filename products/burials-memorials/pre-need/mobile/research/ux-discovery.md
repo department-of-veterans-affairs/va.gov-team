@@ -108,6 +108,8 @@ You’ll receive a confirmation email shortly. We’ll let you know by mail or p
 
 * [2024-04 Address validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/address-validation-research-april24/address-validation-research-plan-april24.md) [research plan; no results]
 * ~~[2024-01 Address validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/address-validation-research-jan24/address-validation-research-plan-jan24.md) ~~[appears to be an earlier version of plan]
+   * This research project was not done, and instead was rolled into a later project ([VA-Form 40-1330M Medallions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/medallions/research/2024-10-Apply%20for%20a%20medallion%20in%20a%20private%20cemetery%20to%20products/VA-Form-40-1330M-Medallions-Research-Findings.md))
+   * Address validation was familiar and easily understood by most participants
 * [2023-08 Integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/pre-need/research/integration-research-aug23)
     * Usability testing for form showed it was mostly easy to use (better than v1)
     * “Relationship to servicemember” may need clarification
