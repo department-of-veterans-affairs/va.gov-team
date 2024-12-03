@@ -63,6 +63,9 @@ The system alerts the user if they can't continue scheduling an appointment beca
 - They have hit the limit of requests for the selected type of care at the selected facility.
 
 **A Veteran may choose a provider for their appointment.**
+
+Note: the URL for this page will be `https://va.gov/my-health/appointments/schedule/provider` 
+
 The Veteran is given the option to select:
 - Providers with whom they have had a recent appointment (within the timeframe configured in VAS) for `Nutrition and Food`.
 - None of the options
