@@ -61,16 +61,16 @@ OCTO works with Perigean, a small business, to handle the [recruitment](https://
 Our intended audience will be a blend of Veterans and Veterans' family members and/or dependents. 
 
 ### Recruitment criteria
-Perigean recruitment, focusing on primary criteria
+Perigean recruitment, with a goal of 9 total sessions, focusing on primary criteria:
 
-3 Veterans
-3 Dependents of Veterans (spouse or child to Veteran) that has used transferred self-entitled benefits before from their Veteran sponsor
-3 Dependents of Veterans (spouse of child to Veteran) that is the child or spouse of a Veteran or service member who has passed away, is captured or missing, or is permanently and totally disabled due to a service-connected disability
+- 3 to 5 Veterans
+- 3 to 5 Dependents of Veterans (spouse or child to Veteran) that has used transferred self-entitled benefits before from their Veteran sponsor
+- 3 to 5 Dependents of Veterans (spouse of child to Veteran) that is the child or spouse of a Veteran or service member who has passed away, is captured or missing, or is permanently and totally disabled due to a service-connected disability
 
 **Primary criteria (must-haves)**
-Category A: 3x Veterans
-Category B: 3x Dependents of Veterans (spouse or child to Veteran) that has used transferred self-entitled benefits before from their Veteran sponsor
-Category C: 3 Dependents of Veterans (spouse of child to Veteran) that is the child or spouse of a Veteran or service member who has died, is captured or missing, or is permanently and totally disabled due to a service-connected disability
+- Category A: 3 Veterans
+- Category B: 3 Dependents of Veterans (spouse or child to Veteran) that has used transferred self-entitled benefits before from their Veteran sponsor
+- Category C: 3 Dependents of Veterans (spouse of child to Veteran) that is the child or spouse of a Veteran or service member who has died, is captured or missing, or is permanently and totally disabled due to a service-connected disability
 
 _We would ask that Perigean recruits a diverse demographic breakdown. _
 
@@ -83,8 +83,8 @@ _We would ask that Perigean recruits a diverse demographic breakdown. _
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
-* Research materials submitted for review: Week of 11/25/24
-* Planned Test Sessions: 12/2/24 - 12/6/24
+* Research materials submitted for review: Week of 12/02/2024
+* Planned Test Sessions: 12/11/24 - 12/20/24
 
 ### Prepare
 
