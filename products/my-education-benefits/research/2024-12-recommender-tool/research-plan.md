@@ -49,8 +49,8 @@ Remote interviews via Zoom (set up by Perigean)
 
 ### Research materials
 
-* Protoype: https://accenturefederal.invisionapp.com/console/share/U2DNZPWFB4K, Password: DGIB2024
-* Conversation Guide: *to be linked once write access it granted and documents can be uploaded*
+* Protoype: [Recommender Tool Prototype](https://accenturefederal.invisionapp.com/console/share/U2DNZPWFB4K), Password: DGIB2024
+* Conversation Guide: [Recommender Tool Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/cb013390098d5f3fa87b92a4c897f03f2bc2bb7f/products/my-education-benefits/research/2024-12-recommender-tool/conversation-guide.md)
 	
 ## Recruitment
 
