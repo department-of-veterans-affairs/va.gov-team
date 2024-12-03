@@ -101,7 +101,7 @@ Despite a conceptual understanding of the My HealtheVet to VA.gov transition, mo
 
 2 Participants mentioned functionality (specifically Medical records): 
 
-> "I won't come to Va.gov until it's fully functional. Now I have to click one more time to go back. Nobody wants to turn backward." - P 13
+> "I won't come to VA.gov until it's fully functional. Now I have to click one more time to go back. Nobody wants to turn backward." - P 13
 
 ---
 
