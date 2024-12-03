@@ -773,7 +773,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 
 #### Early September 2019
 *Authenticated experience: Samara Strauss*
-- [Personalization 2.0 research summary](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20Discovery%20Summary%20%26%20Strategy.md)
+- [Personalization 2.0 research summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/f7447c688855c6ccf9e962ba143b225845cfac9a/products/identity-personalization/personalization%202.0/discovery-research)
 
 ### August 2019
 
