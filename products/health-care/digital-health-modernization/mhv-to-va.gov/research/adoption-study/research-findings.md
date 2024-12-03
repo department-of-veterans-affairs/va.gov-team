@@ -80,7 +80,7 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 
 > "And then at once point, it's giving you the option to cancel your MHV. But if you do that you can't get into any of this stuff . So why are they doing that?" - P12
   
-- **Most participants perceived the banners as irrelevant**
+- Most participants perceived the banners as irrelevant
 
 > No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
 
