@@ -65,19 +65,21 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 
 Among the ten participants, none engaged with the "Try Me" banners promoting My HealtheVet on VA.gov. Participants' task-focused behavior, banner overload, and perceived irrelevant messaging contributed to the lack of engagement. 
 
-- **Participants demonstrated a strong focus on task completion and scrolled past the banner.**
+- Participants demonstrated a strong focus on task completion and scrolled past the banner.
 
 > "If I've already made it this far to the page, I don't care about all this. I"m already where I was trying to be" - P2
 
 > "Hmm, no, I usually scroll really fast and went right down to my appointments." - P13
 
-- **At least 5 of 10 experienced banner overload. Some seeing three stacked banners of the same color.** 
+- At least 5 of 10 participants experienced banner overload. Some participants saw three similarly colored banners stacked that seemingly blended. 
 
 > "3 boxes all the same color makes it seem like these are all the same information." - P2
 
 > "I have all these banners here and I tend to ignore them." - P9
 
-- **Most participants precieved the banners as irrelevant massaging**
+> "And then at once point, it's giving you the option to cancel your MHV. But if you do that you can't get into any of this stuff . So why are they doing that?" - P12
+  
+- **Most participants perceived the banners as irrelevant messaging**
 
 > No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
 
@@ -85,8 +87,7 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 
 <img width="838" alt="Screenshot 2024-12-03 at 1 28 00 PM" src="https://github.com/user-attachments/assets/d21e35d3-7c7f-4f55-86ed-2a93bca6fb99">
 
-The "Retire your My HealtheVet Language like "retiring MHV" password seemed to add confusion.
-> "And then at once point, it's giving you the option to cancel your MHV. But if you do that you can't get into any of this stuff . So why are they doing that?" - P12
+
 
 **Finding 2**
 
