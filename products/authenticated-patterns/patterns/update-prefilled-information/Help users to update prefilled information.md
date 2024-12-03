@@ -22,7 +22,7 @@ anchors:
 ### When to use this pattern
 - **When you prefill the user’s data into an application, like a form.** This pattern helps users understand how they can edit their prefilled information, especially sensitive information that requires calling a VA center to change. Additionally, this pattern informs users where their changes will be saved—either to the form, or to their form and VA.gov profile. See the related ["Help users to... Know when their information is prefilled"](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled) pattern for guidance on how to display the prefilled information. 
 
-#### Design Principals
+#### Design principals
 - **Visibility of system status.** This pattern demonstrates the usability principle of communicating the current state to help users feel in control and take appropriate action. [Learn more about Visibility of system status](https://www.nngroup.com/articles/visibility-system-status/).
 - **User control and freedom.** This pattern also gives users control over their own information. [Learn more about User Control and Freedom](https://www.nngroup.com/articles/user-control-and-freedom/).
 
@@ -30,7 +30,7 @@ anchors:
 - **When prefilled information is not used.** If the form does not include prefilled information, there is no need to inform users how to update their prefilled information.
 
 ### When to use caution
-- **When data that cannot be changed online.** This pattern accounts for cases in which the user needs to call VA to change their information, such as changing their name and social security number. Form developers should confirm that the phone number listed is the correct number for Veterans to call and update this specific information. If there are cases where information cannot be changed, even by calling VA, this should be explained to the user.
+- **When data cannot be changed online.** This pattern accounts for cases when the user needs to call VA to change their information, such as changing their name and Social Security number. Form developers should confirm that the phone number listed is the correct number for Veterans to call and update this specific information. If there are cases where information cannot be changed, even by calling VA, explain this to the user.
 
 ## How to design and build
 ### Anatomy or layout details 
@@ -39,7 +39,7 @@ This pattern involves these types of pages found in VA.gov forms:
 - **Personal information page:** Usually the first page of a form after the user signs in. Has personal details that typically cannot be edited online, like name, date of birth, Social Security number, etc.
 - **Prefill check page:** Any page of a form that displays prefilled information users can edit within the form.
 
-See the related ["Help users to... Know when their information is prefilled"](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled) pattern for other pages related to prefilled content.
+See the related ["Help users to... Know when their information is prefilled"](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled) pattern for guidance on helping users know when their information is prefilled.
 
 #### Personal information page
 _(screenshot with annotation coming soon - in the interim, view this [Figma file](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3-127&t=GYX9RT423zMZrhat-1))_
@@ -51,18 +51,18 @@ _(screenshot with annotation coming soon - in the interim, view this [Figma file
 
 #### Communicate information that cannot be edited
 This pattern communicates information that cannot be edited with:
-- **Uneditable prefilled information displayed in a gray card.** Prefilled information (such as legal name, date of birth, and Social Security number) is displayed in a card component. This is often one of the first pages in a form.
-- **Directions for updating uneditable information.** Inforational text is added under the card that has the bolded word “note” and directions to update this information offline.
+- **Uneditable prefilled information displayed in a gray card.** Disply prefilled information that cannot be changed online (such as legal name, date of birth, and Social Security number) in a card component. This is often one of the first pages in a form.
+- **Directions for updating uneditable information displayed as text.** Add informational text under the card that has the bolded word “note” and directions to update this information offline.
 
 #### Communicate information that can be edited
 This pattern communicates information that can be edited with:
-- **Editable prefilled information displayed in a white card with an edit link.** Prefilled information that is editable is displayed in a card component with a link to edit the information. This information may include contact information, such as phone, email, or mailing address.
+- **Editable prefilled information displayed in a white card with an edit link.** Display prefilled information in a card component with a link to edit the information. This information may include contact information, such as phone, email, or mailing address.
 
 #### Communicate where changes will save
 - **In most cases, save changes to the VA.gov profile.** In [user research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill), most users indicated that they want changes they make to their information to update the information stored on their VA.gov profile. On the edit page, display an informational alert informing users that these changes will impact their profile information. 
 
 #### Where needed, give users the choice of where to save
-- **In some cases, users want to choose where to save their information.** This is especially relevant for information that may change over time, like mailing address. This might be especially relevant in cases where forms or perscriptions will be sent to users within the coming days or weeks. In this case, on the edit page, do not display the informational alert informing them where their changes will save--instead, display a required radio button below the fields asking them if they also want to update this information in their VA.gov profile.
+- **In some cases, users want to choose where to save their information.** This is especially relevant for information that may change over time, like mailing address. This might be especially relevant in cases where forms or perscriptions will be sent to users within the coming days or weeks. In this case, on the edit page, do not display the informational alert informing them where their changes will save. Instead, display a required radio button below the fields asking them if they also want to update this information in their VA.gov profile.
 
 #### Display success alerts when information has been saved
 - **Inform users where the changes were saved.** Display a success alert informing users "We've made these changes to this form and your VA.gov profile" or "We've made these changes to only this form.” Use a standard alert within the form steps. Use a slim alert if the user made changes from the final review page.
@@ -73,7 +73,6 @@ This pattern communicates information that can be edited with:
 - [Additional info](https://design.va.gov/components/additional-info)
 
 ## Examples
-
 ### Informational text after a set of uneditable information
 Inform the user that they need to call VA to update this information. The specific numbers to call may vary by form. 
 
