@@ -4,41 +4,44 @@
 
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.* 
 
-Our team will add a homepage to Comparison Tool that provides links to the School and Employer, Licenses and Certifications, National Exams pages to break apart information being added to Comparison Tool by category.
+Our team will add a homepage to Comparison Tool (CT) that provides links to the School and Employer, License and Certification (L&C), National Exam (exam) pages to break apart information being added to Comparison Tool by category.
 
 
 ## Problem Statement 
 
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)* 
 
-- As a Veteran, I want to quickly and easily access all information within Comparison Tool.  
-- As a Backend Developer, I want to ensure each page operates is error-free and renders correctly, and pulls data users expect to see. 
-- !!!!!!!!!!!!!!!!!!!!!!!!!!!STOPPED WORK HERE!!!!!!!!!!!!!!!! As a Frontend Developer 
--  As a UX Designer, I want to confirm that users are able to navigate the YRT with little-to-no errors so that they can access YRT data.
-- By migrating data from YRT into Comparison Tool, EDM can ensure data consistency. In addition, the enhancement of available information will ease the process of acquiring data.  
+- As a Veteran I want to quickly and easily access all information within CT.  
+- As a Backend Developer I want to ensure each page operates is error-free and renders correctly, and pulls data users expect to see. 
+- As a Frontend Developer I want to see the three pages to chose from so users can access the information they need.
+- As a UX Designer I want to confirm that users are able to navigate the CT Homepage little-to-no errors so that they can access the information they need.
+- By creating a CT Homepage Education Data Migration (EDM) and Veteran Education Benefit Tools (VEBT) Teams can ensure users have easy access to information and comply with CAIA guidlines.
 
 *Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.* 
+How might we create one place where users can access School and Employer, L&C, and National Exam data? 
 
 ## Desired User Outcomes 
 
 - *Why would a user want to use this?* 
-  - Users want to see relevant, accurate information across tools. Information should be consistent throughout VA education benefit tools to reduce benefit miscalculations. 
+  - Users want to access all three data categories from a single homepage.  
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?* 
-  - Users will be able to view institutional, license, certification, and exam information in an easy-to-read, 508-approved format.  
+  - Users will be able to view program, L&C, and exam information on a single page in an easy-to-read, 508-approved format.  
 
 ## Undesired User Outcomes 
 
-- Veterans are unable to access up-to-date institution, license, certification, and exam information  
+- Veterans are unable to access School and Employer, License and Certification (L&Cs), National Exam pages
+- Users are unable to navigate the page or discern the difference between each page
+- Users are confused about what happened to the existing CT homepage 
 - Veterans are presented with inaccurate benefits information 
 - Unexpected errors or outages 
 
  ## Desired Business Outcomes 
 
-- *Why would your business want this to exist?* 
-  - Improving the product would continue the enhancement of VA's education benefit tools, ensuring data alignment 
+- !!! STOPPED WORK HERE !!!!!!!!!!!!!!! *Why would your business want this to exist?* 
+  - Improving the product would continue the enhancement of VA's education benefit tools, ensuring alignment on display of data
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?* 
   - Provide accurate information to Veterans regarding their education benefits 
-  - Provide institution, license, certification, and exam information 
+  - Provide program, L&C, and exam information 
 
 ## Undesired Business Outcomes 
 
@@ -78,7 +81,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Objective: WP data into CT using GIDS and WEAMS Corporate 
   - Key result: WP data appears in CT without data discrepancies 
 - Objective: Veterans data displays correctly 
-  - Key result: Veterans see accurate benefits information for institutions, programs, certifications, and licenses 
+  - Key result: Veterans see accurate benefits information for programs, L&Cs, exams 
 
 --- 
 
