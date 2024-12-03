@@ -2,11 +2,11 @@
 layout: pattern
 title: Help users to... Update prefilled information
 draft: true
-permalink: /patterns/help-users-to/know-when-their-information-is-prefilled
+permalink: /patterns/help-users-to/update-prefilled-information
 sub-section: [help-users-to]
 intro-text: Follow this pattern to help users update prefilled information in an application.
 research-title: Help users update prefilled information
-figma-link: https://www.figma.com/file/
+figma-link: https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=4013-14358&t=GYX9RT423zMZrhat-1
 status: use-with-caution-available
 anchors:
   - anchor: Usage
@@ -20,6 +20,7 @@ anchors:
 
 ## Usage
 ### When to use this pattern
+- **When you prefill the user’s data into an application, like a form.** This pattern helps users understand how they can edit their prefilled information, especially sensitive information that requires calling a VA center to change. Additionally, this pattern informs users where their changes will be saved—either to the form, or to their form and VA.gov profile. See the related ["Help users to... Know when their information is prefilled"](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled) pattern for guidance on how to display the prefilled information. 
 
 #### Design Principals
 - **Visibility of system status.** This pattern demonstrates the usability principle of communicating the current state to help users feel in control and take appropriate action. [Learn more about Visibility of system status](https://www.nngroup.com/articles/visibility-system-status/).
@@ -28,31 +29,49 @@ anchors:
 ### When not to use this pattern
 
 ### When to use caution
-- **When prefilling data from a source other than VA Profile.** It is crucial to explain to the user exactly where the data is coming from so that if there are any errors in the data, it is clear how to correct them. 
+- **When data that cannot be changed online.** This pattern accounts for cases in which the user needs to call VA to change their information, such as changing their name and social security number. Form developers should confirm that the phone number listed is the correct number for Veterans to call and update this specific information. If there are cases where information cannot be changed, even by calling VA, this should be explained to the user.
 
 ## How to design and build
 ### Anatomy or layout details 
+This pattern involves these types of pages found in VA.gov forms:
 
+- **Personal information page:** Usually the first page of a form after the user signs in. Has personal details that typically cannot be edited online, like name, date of birth, Social Security number, etc.
+- **Prefill check page:** Any page of a form that displays prefilled information users can edit within the form.
 
-#### Introduction page
+See the related ["Help users to... Know when their information is prefilled"](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled) pattern for other pages related to prefilled content.
 
+#### Personal information page
+_(coming soon - in the interum, view this [Figma file](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3-127&t=GYX9RT423zMZrhat-1))_
+
+#### Prefill check page
+_(coming soon - in the interum, view this [Figma file](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3-127&t=GYX9RT423zMZrhat-1))_
 
 ### How this pattern works
 
 
 
 ### Components used in this pattern
-
-
-
+- [Alert](https://design.va.gov/components/alert/)
+- [Radio button](https://design.va.gov/components/form/radio-button)
+- [Additional info](https://design.va.gov/components/additional-info)
 
 ### Page templates available for this pattern
 
 List of links to page templates or layouts used to build any pages for this pattern.
 
 ## Examples
- 
-Examples of this pattern. May contain reference or links to:
+
+Informational text before a set of uneditable information, informing the user that they need to call VA to update this information
+_(coming soon - in the interum, view this [Figma file](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3-127&t=GYX9RT423zMZrhat-1))_
+
+Success alert informing user that their change was successfully made to the form and to their VA.gov profile
+<img width="251" alt="Alert - form and profile" src="https://github.com/user-attachments/assets/ef433269-06d3-43b7-b4f3-930241893298">
+
+A success alert informating users their change has been saved to the form and their VA.gov profile. If the change was only saved to the form, the alert should read "We've made these changes to only this form."
+<img width="290" alt="Success alert - saved to form and profile" src="https://github.com/user-attachments/assets/88770c2a-accb-469b-a5ba-4ed1198db056">
+
+A radio button asking users if they want to save their changes to their VA.gov profile
+<img width="240" alt="Radio button asking where to save" src="https://github.com/user-attachments/assets/a9d4ba37-a778-4a4e-931e-c422e6731d0e">
 
 ### Examples in production
 Coming soon!
@@ -60,8 +79,8 @@ Coming soon!
 ## Code usage
 Coming soon!
 
-
 ## Content considerations
 
 ## Research findings
+The Authenticated Experience Design Patterns team [conducted user research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill) in late 2024 about how users prefer to see their editable and non-editable information, and how they prefer to be informed about how to edit it. The majority of participants want updates to save to their VA.gov profile, but some also want the ability to choose where the data saves, in the case that they are using a temporary address or other temporary situation. 
 
