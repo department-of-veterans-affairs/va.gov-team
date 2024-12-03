@@ -22,25 +22,21 @@ Supports: Objective 1: Our digital experiences are the best way to access VA hea
 Supports: Reinventing myself: Acquiring the appropriate education, credentials and skills. 
 
 ## Research Goals	
-
 1. Determine what will best help GI Bill beneficiaries into the correct form
-2. Determine if beneficiaries understand and trust our recommendations
-3. Determine if 'off-ramps' to different benefit options are sufficient 
+2. Determine if beneficiaries understand and trust our recommendations 
+3. Determine if 'off-ramps' to different benefit options are sufficient for users seeking other educational benefits
 
 ### Outcome
-**Research will inform us whether the user flow, copy, and information hierarchy is working for the user. We will use findings to directly improve the tool before deployment. **
+User research will help us determine what improvements are needed to the user flow, copy, and information hierarchy to optimize a user's understanding and trust in the tool.<!-- **Research will inform us how well the user flow, copy, and information hierarchy are working for the user. We will use findings to directly improve the tool before deployment. ** -->
 
 ### Research questions
-
 1. Do users understand the path forward presented in our 'recommendations'?
-2. Do users feel our recommendations are correct based on their circumstances?
+2. Do users feel our 'recommendations' are correct based on their circumstances?
 3. Do our 'recommendations' deliver the right information so users can proceed with confidence?
 4. What else would users consider doing? Do we support those paths?
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-
-Research to date suggests that the how-to-apply wizard on the education hub is outdated, faulty, and confusing. We hypothesize that a solution that takes the burden off the user will not only be received well by end-users but also lead to more accurate applications and overall application outcomes. 
+Recent review has uncovered the How to Apply wizard on the Education hub is outdated, faulty, and confusing. We hypothesize that a more straigh-solution that 'automatically' present recommendations will be well-received and trusted. We expect that some laguage presented may be confusing but will generally communicate the options available to users. We expect most users will be able to find avenues to other (No GI Bill) education benefits on the page.
 
 ## Methodology	
 
