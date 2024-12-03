@@ -1,11 +1,16 @@
+# Research plan for usability testing of<br> a GI Bill forms recommender tool 
+**My Education Benefits--DGIB Team  | December 2024**
 
-# Research Plan for My Education Benefits, How to Apply Updates, December 2024
+`Joanna Yu, researcher | Slack: @Joanna Yu | GH: joannayudgib`
+
+---
 
 ## Background
-We are replacing the outdated, deprecated how to apply wizard that is located on the EDU How to Apply and Eligibility sections of Va.Gov. Our "Edu Application Recommender Tool" is a 1:1 replacement of the wizard and will seamlessly review prospective applicant information on the backend to recommend a likely education application form.
-- What problem is your product trying to solve? **Finding a suitable replacement to the current process for locating the correct education benefit form for a Veteran**
-- Where is your product situated on VA.gov? **Authenticated experience will give us the background we need to accurately guide Veterans and their family members to the right form**
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one? **This is a 1:1 replacement with a existing wizard, Veteran familiarty is TBD but prior research has suggested it as confusing, convoluted, and malfunctioning.** 
+We are replacing the outdated, deprecated How to Apply "wizard" that is located on the EDU How to apply and Eligibility sections of VA.gov. Our "EDU Application Recommender Tool" is a 1:1 replacement of the wizard and will programmatically review prospective applicant information on the backend to recommend a likely education application form.
+
+- What problem is your product trying to solve? **Beneficiaries often submit the incorrect form when applying for GI Bill benefits. We want to increase the likelihood that they submit the correct form to reduce the need for resubmissions.** <!-- **Finding a suitable replacement to the current process for locating the correct education benefit form for a Veteran** -->
+- Where is your product situated on VA.gov? **Our new tool will replace the "wizard" in the Education and Training hub on the How to Apply page.** <!-- **Authenticated experience will give us the background we need to accurately guide Veterans and their family members to the right form** -->
+- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one? **The Recommender Tool is a new feature on a familiar page. It will replace the "wizard" currently on the How to Apply page.**<!-- **This is a 1:1 replacement with a existing wizard, Veteran familiarty is TBD but prior research has suggested it as confusing, convoluted, and malfunctioning.** -->
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85984).
 
