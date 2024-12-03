@@ -1,4 +1,4 @@
-# Research Plan for Secure Messaging team, July 2024
+# Research Plan for Medical Records team, December 2024
 
 ## Background
 Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) is being moved to VA.gov. MHV provides Veterans with the ability to review their medical records, including labs and tests, online. 
