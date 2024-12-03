@@ -49,10 +49,20 @@ All pages have ratings of 2 or below.
    
 ### 5 resources and support pages with the highest volume of total responses and >75% "good" rating
 
-1.   
+1.   [What should I bring to my health care appointments](https://www.va.gov/resources/what-should-i-bring-to-my-health-care-appointments/) (92% good out of 2291 total responses)
+2.   [The PACT Act and your VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) (90% good out of 1,366 total responses)
+3.   [How to check in with your smartphone for some VA appointments](https://www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) (90% good out of 1,174 total responses)
+4.   [Commisssary and exchange privileges for Veterans](https://www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (96% good out of 740 total responses)
+5.   [Managing your VA.gov profile](https://www.va.gov/resources/managing-your-vagov-profile/) (80% good out of 478 total responses)
+   
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
-1. 
+1. [Creating an account for VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov/) (27% good out of 2,182 total responses)
+2. [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/) (31% good out of 1,084 total responses)
+3. [My HealtheVet on VA.gov: What to know](https://www.va.gov/resources/my-healthevet-on-vagov-what-to-know/) (47% good out of 829 total responses)
+4. [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/) (36% good out of 402 total responses)
+5. [Helpful VA phone numbers](https://www.va.gov/resources/helpful-va-phone-numbers/) (43% good out of 128 total responses)
+   
 ## Analysis
 [Resources and support ratings spreadsheet]
 - This is the second month in a row R&S didn't meet our goal of 75% or higher "good" ratings, with a XX% "good" average rating. This can be attributed to large numbers of "bad" ratings for sign-in related pages. This will most likely continue during the sign-in transition process but we will continue to monitor it.
