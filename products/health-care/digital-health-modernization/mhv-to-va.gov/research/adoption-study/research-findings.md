@@ -86,17 +86,16 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 
 <img width="909" alt="Screenshot 2024-12-03 at 1 25 08 PM" src="https://github.com/user-attachments/assets/f6da8b1b-6ace-45d4-b991-91d5f7972c6d">
 
-**Finding 2**
+### 2. Participants generally understood the concept of the My HealtheVet to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
 
-Labels: label 1, label 2 
+Despite a conceptual understanding of the My HealtheVet to VA.gov transition, participants expressed considerable uncertainty about its practical application, citing concerns about workflow disruptions and repeated login requirements. 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> "I think it will take me to VA.gov, but I wonder if it will make me login again." - P10
 
-Brief description
+> "I won't come to Va.gov until it's fully functional. Now I have to click one more time to go back. Nobody wants to turn backward." - P 13
 
-> _Supporting data: Quote here_
+> "There is no driver to make me want to click on that, especially when everything is still available as an option" - P2
 
-> _Supporting data: Quote here_
 
 
 **Finding 3**
