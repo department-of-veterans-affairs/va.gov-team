@@ -1,4 +1,4 @@
-# CST: Evidence Submission Status Initiative
+# CST: Document Status Initiative
 
 * GitHub Label: 
 * Slack channel: #benefits-management-tools
