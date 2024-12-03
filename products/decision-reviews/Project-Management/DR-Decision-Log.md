@@ -16,5 +16,7 @@ Not every decision a project makes gets recorded in the Decision Log. When to in
 
 | Date | Decision Title | Summary | Decision & Reasoning | Made By | Status
 |---|---|---|---|---|---|
-|11.25.24 |5103 Question | Maintain required question with small addition | Maintain how it is now with updating the checkbox acknowledgment. We will update the field to drop the required label once LH updates the field's required property after Appeals API is transitioned. This is due to the fact this question has already been in Prod up to this point, LH can't currently update the field while on the DR API and the potential problematic decision to remove the field altogether for some Vets. | Amy, Maurice | Resolved
+|11.25.24 |5103 Question | Maintain required question with small addition | Maintain how it is now with updating the checkbox acknowledgment. We will update the field to drop the required label once LH updates the field's required property after Appeals API is transitioned. This is due to the fact this question has already been in Prod up to this point, LH can't currently update the field while on the DR API and the potential problematic decision to remove the field altogether for some Vets. | Amy, Maurice | <code style="color : green">Resolved</code>
+
+
 
