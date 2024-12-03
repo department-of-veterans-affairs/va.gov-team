@@ -51,7 +51,7 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 
 ## Key Findings
 
-1. Participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
+1. Most participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
 2. Participants generally understood the concept of the My HealtheVet to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
 3. Participants frequently conflated the My HealtheVet National Portal and My HealtheVet on VA.gov, even those who understood the transition conceptually.
 4. Participants identified ways to access My HealtheVet on VA.gov in the future (such as using bookmarks), but the sessions revealed difficulties navigating back to My HealtheVet on VA.gov, with participants often describing or demonstrating circuitous routes.
@@ -64,7 +64,7 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 
 Among the ten participants, none engaged with the "Try Me" banners promoting My HealtheVet on VA.gov. Participants' task-focused behavior, banner overload, and perceived irrelevant messaging contributed to the lack of engagement. 
 
-- Participants demonstrated a strong focus on task completion and scrolled past the banner.
+- All 10 participants demonstrated a strong focus on task completion and scrolled past the banner.
 
 > "If I've already made it this far to the page, I don't care about all this. I"m already where I was trying to be" - P2
 
@@ -72,7 +72,7 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 
 <img width="660" alt="Screenshot 2024-12-03 at 4 22 52 PM" src="https://github.com/user-attachments/assets/db68088f-df54-48c7-b864-3b2f5ff909cb">
 
-- At least 5 of 10 participants experienced banner overload. Some participants saw three similarly colored banners stacked that seemingly blended. 
+- At least 5 of 10 participants experienced banner overload. The presentation of two to three vertically stacked banners of similar coloration resulted in a lack of visual differentiation among them.
 
 > "3 boxes all the same color makes it seem like these are all the same information." - P2
 
@@ -80,7 +80,7 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 
 > "And then at once point, it's giving you the option to cancel your MHV. But if you do that you can't get into any of this stuff . So why are they doing that?" - P12
   
-- Most participants perceived the banners as irrelevant
+- Some participants perceived the banners as irrelevant. 
 
 > No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
 
