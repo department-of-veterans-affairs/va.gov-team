@@ -51,7 +51,7 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 
 ## Key Findings
 
-1. Most participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
+1. Participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
 2. Participants generally understood the concept of the My HealtheVet to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
 3. Participants frequently conflated the My HealtheVet National Portal and My HealtheVet on VA.gov, even those who understood the transition conceptually.
 4. Participants identified ways to access My HealtheVet on VA.gov in the future (such as using bookmarks), but the sessions revealed difficulties navigating back to My HealtheVet on VA.gov, with participants often describing or demonstrating circuitous routes.
@@ -105,11 +105,9 @@ Despite a conceptual understanding of the My HealtheVet to VA.gov transition, mo
 
 ---
 
-**Finding 3**
+### 3. Participants frequently conflated the My HealtheVet National Portal and My HealtheVet on VA.gov, even those who understood the transition conceptually.
 
-Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
 
