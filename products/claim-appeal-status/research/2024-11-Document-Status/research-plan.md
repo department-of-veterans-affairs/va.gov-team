@@ -26,17 +26,16 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 3. Ensure the design patterns effectively address a Type 2 failure (submission fails in downstream services).  
 4. Evaluate the proposed user experience for both receiving failure notifications via email and viewing in-app alerts for Type 1 and Type 2 failures.  
 
-### Outcome [Needs Review]
+### Outcome
 
-As a result of the research, we will have findings that will validate if real-time status updates are helpful to Veterans. Additionally, we want to identify any henderences that Veterans may experience from the point of receving a failed notification and them sending in their physical documents. 
+Our research will reveal whether real-time status updates are helpful to Veterans. Additionally, we aim to identify any obstacles Veterans face from receiving a failure notification to sending in their physical documents.
 
 ### Research questions
 
-1. Is the "In progress" state useful - do they understand that the document hasn't been completely uploaded to their claim?
-2. Does this create a better mental model for Veterans? (use specific examples. what is a sinct answer are trying to get to. What is the "model" we will be testing)		
-3. Do Veterans make the connection between the email content and the "In progress" states?		
-4. Do Veterans understand what to do after seeing the email and in-app alerts for failed uploads?
-5. Do Veterans feel confident in VA's ability to properly process their mailed-in documents.
+* Is the "In progress" state useful - do they understand that the document hasn't been completely uploaded to their claim?		
+* Do Veterans make the connection between the email content and the "In progress" states?		
+* Do Veterans understand what to do after seeing the email and in-app alerts for failed uploads?
+* Do Veterans feel confident in VA's ability to properly process their mailed-in documents.
 
 ### Hypothesis
 
@@ -106,12 +105,12 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 
 15 total participants:
 
-5 Black Veterans
-5 Veterans age 55-64+
-4 Veterans without a degree
-3 Assestive technology users
-At least 5 women Veterans
-The participants must be using a desktop device during the study.
+* 5 Black Veterans
+* 5 Veterans age 55-64+
+* 4 Veterans without a degree
+* 3 Assestive technology users
+* At least 5 women Veterans
+* The participants must be using a desktop device during the study.
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
