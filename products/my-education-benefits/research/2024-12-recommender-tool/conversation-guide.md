@@ -16,17 +16,6 @@
 
 *When the participant is ready, begin the session with the following intro*
 
----
-Suggested flow:
-- Intro/Housekeeping
-- Warm-up
-- Wayfinding/How-to-apply
-- Recommendation result
-- Form intro
-- Alt: Additional scenario/Unhappy path
-- Closing
----
-
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to be talking about the How to Apply tool.
