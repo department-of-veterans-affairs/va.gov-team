@@ -32,7 +32,7 @@
 | ```vets-website/src/platform/utilities/tests/sso``` | ```yarn test:unit src/platform/utilities/sso --coverage --coverage-html``` |
 
 ## Reference 
-`.github/CODEOWNERS` file in `vets-website`)
+`.github/CODEOWNERS` file in `vets-website`
 ```
 - src/applications/auth @department-of-veterans-affairs/octo-identity
 - src/applications/login @department-of-veterans-affairs/octo-identity
