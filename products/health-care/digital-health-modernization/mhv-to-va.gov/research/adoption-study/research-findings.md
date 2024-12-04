@@ -166,9 +166,11 @@ _Note: participant has trouble with remembering how to spell/say My HealtheVet_
 
 9 of 10 participants used the secondary navigation to establish bearings and/or move between health tools. 
 
-> "very fluid" - P9
+> "Very fluid!" - P9
 
-> "This does look like the newer version of things (looking at secondary navigation) This is the newer version because the top there. The icons, the style is different" - P12
+> "This does look like the newer version of things (looking at secondary navigation)...This is the newer version because the top there. The icons, the style is different." - P12
+
+<img width="1030" alt="Screenshot 2024-12-04 at 10 42 49 AM" src="https://github.com/user-attachments/assets/aa093f4f-2251-4eaa-8270-5f024d238d3a">
 
 ## Additional Insights
 
