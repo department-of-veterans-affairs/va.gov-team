@@ -31,7 +31,10 @@
 
 ## Sumary
 The release of the Lighthouse Migration for Veterans Evidence Document Upload went into production on December 3rd. This sprint we'll be monitoring it's progress and ramping up the rollout as necessary. 
-
+- Release date for 1%: Tuesday Dec 3 - done
+- Release date for 5%: Thursday Dec 5
+- Release date for 50%: Monday Dec 9
+- Release date for 100%: Wednesday Dec 11
 
 The team's main focus is to continue to deliver on 0781 Paper Sync iniative. We'll use time this sprint to do some quarterly planning to clearly define the plan for the number of resources need to support this effort. Once we have a plan we'll share with OCTO for review. 
 
