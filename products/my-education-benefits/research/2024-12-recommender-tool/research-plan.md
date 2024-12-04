@@ -24,7 +24,7 @@ Supports Reinventing Myself: Acquiring the appropriate education, credentials an
 <p>&nbsp;</p> 
 
 ## Research Goals	
-1. Determine what will best help GI Bill beneficiaries into the correct form
+1. Determine what recommendation language will best help GI Bill beneficiaries into the correct form
 2. Determine if beneficiaries understand and trust our recommendations 
 3. Determine if 'off-ramps' to different education benefits are sufficient for users seeking other educational benefits
 
