@@ -19,13 +19,13 @@ Email us at **VA Notify** (oitoctovanotify@va.gov)
 # Points of Contact
 **Product**
 - Dave Conlon, VA PO - VA Notify, Platform & Experience
-- Samantha Jennings, Product Manager - Notify Experience (Strike) Team
+- Samantha Jennings, Product Manager - Notify Experience Team
 - Ksenia Belikova, Product Manager - Notify Platform Team
 
 
 **Engineering**
 - Kyle Macmillan, Tech Lead - Notify Platform Team
-- Nathan Wright, Tech Lead - Notify Experience (Strike) Team
+- Nathan Wright, Tech Lead - Notify Experience Team
 
 # Playbook
 
@@ -34,9 +34,7 @@ VA Notify is a notifications platform dedicated to improving the Veteran’s not
 ## What we are
 VA Notify is designed to be a passthrough system. We do not store Veteran information, but we do store your notification templates and settings. We partner with VA Profile and va.gov to provide communication preferences that the Veteran can see and manage. VA Notify checks these preferences before notifying a Veteran.
 
-VA Notify is located within the VAEC. We provide a REST OpenAPI, which your system can call each time a notification is needed. We also provide a Self Service web application so you can directly create and maintain your notification templates. Aggregated message metrics are provided. Google Analytics (UTM trackers) can and should be used for all message links that point to va.gov, so clicks can be captured. 
-
-If you have forms on va.gov and need help developing a notification trigger (ex., submission confirmation, reminders to complete forms, etc.), our [Forms Strike Team](https://github.com/department-of-Veterans-affairs/va.gov-team/tree/master/products/form%20confirmations) can help!
+VA Notify is located within the VAEC. We provide a REST OpenAPI, which your system can call each time a notification is needed. We also provide a self-service web application, which is behind the network (PIV or GFE required) so you can directly create and maintain your notification templates. Aggregated message metrics are provided. Google Analytics (UTM trackers) can and should be used for all message links that point to va.gov, so clicks can be captured. 
 
 ## What we aren’t
 
@@ -82,7 +80,7 @@ If your notification requires VA Notify engineering work, we will review and pro
 Please note, this may differ based on your use case.
 (*) = Your team, (**) = Joint effort between your team and VA Notify
 
-- Submit the intake form *
+- Submit the [intake form](https://github.com/department-of-Veterans-affairs/va.gov-team/issues/new?assignees=christy-tongty%2C+davidconlon%2C+GitSamJennings%2C+kbelikova-oddball&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D) *
 - Kick-off with VA Notify **
 - Have your technical team review the VA Notify API docs *
 - Get access to the Self Service Portal **
