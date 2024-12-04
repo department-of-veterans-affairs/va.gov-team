@@ -785,8 +785,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 #### August 27, 29: Get Care Prototype Usability R1 **
 *AdHoc: Caitlin Weber*
 - 12 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/patient-portal/get-care/research/usability)
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/get-care/research/usability/research_plan.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/patient-portal/get-care-mobile/research/usability)
 
 #### August 22 - 23, 2019: Facility - operating status - Veteran experience
 
