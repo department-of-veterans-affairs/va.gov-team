@@ -11,6 +11,8 @@
 
 ### Content
 * [Value proposition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Onboarding%20%26%20Product%20Adoption/content/value%20proposition.md)
+* First-run onboarding: Content comparative analysis (Figjam) (link to be added once completed)
+* First-run onboarding: Content comparative analysis findings (link to be added once completed)
 
 ### User Research
 
