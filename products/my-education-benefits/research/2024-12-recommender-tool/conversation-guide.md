@@ -62,7 +62,6 @@ Before we look at the demo tool, I would like to know more about you. Can we sta
 If Veteran:
 - Tell us about your service experience or service history?
 - Have you applied for education benefits before? If so, by what method (paper, online, etc.)?
-- If you wanted to apply for education benefits, could you explain to me how would you start that? 
 
 If Dependent:
 - So we know you are a dependent of [relationship], could you tell me a little bit more about that?
@@ -102,7 +101,7 @@ Before we jump into to the task, do you have any questions about the information
 ## Task 1: Find the appropriate form - 3-5 minutes
 You are currently on the "How to Apply" online page on VA.gov. (Retierate the appropriate scenario above--Categories A, B or C--to orient them to the application task, and share link to appropriate prototype in chat.) This page includes resources about GI Bill benefits but more importantly for todays session, it gets users like yourself to the online application to apply for education benefits. Based on your experience, (retierate the appropriate scenario above to orient them to the application task).
 
-"Looking at this screen, where how could you find the application form that's right for you?"
+"Looking at this screen, where could you find the application form that's right for you?"
 
 Probing questions:
 - Where might you look first to begin the process? Why?
@@ -110,7 +109,12 @@ Probing questions:
 - Our prototype does not have typing capabilities, lets try clicking the username field to input the login information.
 - What would you do to finish logging in?
 - Looking at this [recommended form], does it feel like you're in the right place?
-- What is your confidence level looking at this information? How are you understanding the other information on this page?
+- What is your confidence level looking at this information?
+- Did you find all the information you were looking for? If so, what in particular?
+- Were there any parts of the content that felt unclear or unneccessary?
+
+- Is the language on the screen clear and helpful? Or is it confusing? What in particular makes it so?
+- Were there any terms that you found unclear or difficult to interpret?
 
 ### Things to watch for:
 Un-Authenticated State, clicking log-in:
@@ -136,8 +140,16 @@ Receiving recommended benefit:
 *Not applicable for 22-5490 flow*
 
 "Lets say this is not the benefit you want to apply for, where would you look next?"
-"How are you understanding the alternate recommendation? Is there anything in particular thats confusing?"
-"Now lets say you didn’t like that, what else on this page would you expect to be an option"
+
+Probing questions:
+- How are you understanding the alternate recommendation? Is there anything in particular thats confusing?
+- How well did the content meet your needs or expectations?
+- Was there any important information missing that you expected to see? If so, what in particular?
+
+- Was the language easy to understand? Were there any terms that you found unclear or difficult to interpret?
+- Were any instructions or messages hard to follow?
+
+- Now lets say you didn’t like that, what else on this page would you expect to be an option?
 
 ### Things to watch for:
 
@@ -145,7 +157,7 @@ Receiving recommended benefit:
 - Does the user understand secondary recommendation?
 - Does user seem confused or fatigued when interpreting information presented? If so, what specifcally (copy, scrolling, etc?)
 
-**Repeat Tasks 1 & 2 for other two flows** <!-- ??? -->
+**Repeat Tasks 1 & 2 for other two flows (for legacy flow as time allows)** <!-- ??? -->
 <p>&nbsp;</p>
 
 ## Post-Task Interview - 5 minutes
