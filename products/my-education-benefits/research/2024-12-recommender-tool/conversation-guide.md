@@ -1,4 +1,11 @@
-# Conversation Guide 
+
+# Conversation guide for usability testing of<br> GI Bill forms-recommender tool 
+**My Education Benefits--DGIB Team  | December 2024**
+
+`Joanna Yu, researcher | Slack: @Joanna Yu | GH: joannayudgib`
+
+---
+<p>&nbsp;</p>
 
 ## Moderator logistics
 
