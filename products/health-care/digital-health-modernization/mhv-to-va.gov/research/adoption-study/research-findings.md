@@ -93,15 +93,15 @@ Multiple banners
 
 Despite a conceptual understanding of the My HealtheVet to VA.gov transition, most participants (8 of 10) expressed considerable uncertainty, citing concerns about workflow disruptions, repeated login requirements, and possible loss of functionality. 
 
-3 participants mentioned disruption of workflow: 
+_3 participants noted disruption of workflow:_
 
 > "There is no driver to make me want to click on that, especially when everything is still available as an option" - P2
 
-3 Participants mentioned login: 
+_3 Participants mentioned login as a potential barrier_
 
 > "I think it will take me to VA.gov, but I wonder if it will make me login again...My concern is I'm already on MHV. Do I have to login again and go through that frustration?" - P10
 
-2 Participants mentioned functionality (specifically Medical records): 
+_2 Participants pointed to functionality (specifically Medical records):_
 
 > "I won't come to VA.gov until it's fully functional. Now I have to click one more time to go back. Nobody wants to turn backward." - P 13
 
