@@ -53,10 +53,10 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 
 1. Participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
 2. Most participants generally understood the concept of the My HealtheVet to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
-3. Participants frequently conflated the My HealtheVet National Portal and My HealtheVet on VA.gov, even those who understood the transition conceptually.
-4. Participants identified ways to access My HealtheVet on VA.gov in the future (such as using bookmarks), but the sessions revealed difficulties navigating back to My HealtheVet on VA.gov, with participants often describing or demonstrating circuitous routes.
+3. Even among those who could conceptualize the transition, participants often conflated the My HealtheVet National Portal with My HealtheVet on VA.gov.
+4. While participants identified ways to access My HealtheVet on VA.gov in the future, such as using bookmarks, the sessions highlighted challenges in navigating back to My HealtheVet on VA.gov. 
 5. Participants identified My HealtheVet on VA.gov as a familiar portal for healthcare, with most participants expressing positive views on the  updates.
-6. The secondary navigation proved effective in facilitating both orientation to the health portal and navigation among the various tools.
+6. The secondary navigation proved effective in supporting both user orientation and navigation amongst the various tools within the health portal.
 
 ## Details of Findings 
 
@@ -105,10 +105,37 @@ Despite a conceptual understanding of the My HealtheVet to VA.gov transition, mo
 
 ---
 
-### 3. Even those who understood the transition conceptually, participants frequently conflated the My HealtheVet National Portal and My HealtheVet on VA.gov. 
+### 3. Participants frequently conflated the My HealtheVet National Portal and My HealtheVet on VA.gov. 
 
+Despite the conceptual understanding of the transition and being able to articulate this transition, participants a persistent challenge in differentiating between the two My HealtheVet platforms among users.
 
 Brief description
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+--- 
+
+### 4. While participants identified ways to access My HealtheVet on VA.gov in the future, such as using bookmarks, the sessions highlighted challenges in navigating back to My HealtheVet on VA.gov. 
+
+Participants frequently described or demonstrated convoluted or roundabout paths to return to the platform.
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+---
+
+### 5. Participants identified My HealtheVet on VA.gov as a familiar portal for healthcare, with most participants expressing positive views on the  updates.
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+---
+
+### 6. The secondary navigation proved effective in supporting both user orientation and navigation amongst the various tools within the health portal.
 
 > _Supporting data: Quote here_
 
@@ -117,7 +144,11 @@ Brief description
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+The secondary navigation proved effective in supporting both user orientation and navigation amongst the various tools within the health portal.
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
 
 
 ## Recommendations
