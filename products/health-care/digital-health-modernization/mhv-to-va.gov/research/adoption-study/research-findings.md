@@ -80,8 +80,10 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 
 > "And then at once point, it's giving you the option to cancel your MHV. But if you do that you can't get into any of this stuff . So why are they doing that?" - P12
 
-<img width="909" alt="Screenshot 2024-12-03 at 1 25 08 PM" src="https://github.com/user-attachments/assets/f6da8b1b-6ace-45d4-b991-91d5f7972c6d">
-  
+Multiple banners        
+:-------------------------:|
+<img width="909" alt="Screenshot 2024-12-03 at 1 25 08 PM" src="https://github.com/user-attachments/assets/f6da8b1b-6ace-45d4-b991-91d5f7972c6d">)
+
 **_Some participants perceived the banners as irrelevant._**
 
 > No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
