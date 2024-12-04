@@ -307,7 +307,7 @@ Three participants expressed concerns that the form was confusing, had a lot of 
 ### For wizard design and functionality
 * Consider allowing users to select multiple reasons for changing their discharge paperwork.
     * Two participants wanted to select multiple responses to why they wanted to change their discharge paperwork. One of the participants remembered being able to select multiple reasons on the form when they had applied for a discharge upgrade in the past.
-* Consider how to condense content on the results page.
+* Consider how to reorganize content on the results page.
     * Three participants gave feedback that there was too much content on the results page.
     * One participant suggested collapsing content in an accordion or hiding content on the page would make it feel less overwhelming.
  * Consider how to emphasize the Get Started action link on the start page.
@@ -323,13 +323,13 @@ Three participants expressed concerns that the form was confusing, had a lot of 
 * Consider adding more information about buddy statements to the results page.
     * One participant wanted examples of written buddy statements and an estimate of how many were needed.
     * One participant wanted more emphasis on how important buddy statements are.
-* Consider adding more information to the results page that's specific to the reason for wanting a discharge upgrade.
+* Consider making the results page more specific to the reason for wanting a discharge upgrade.
     * Three participants expressed concerns that the form was confusing, had a lot of content, and would be difficult to fill out on their own.
     * One participant expressed that the info on the page was very general and not specific to the discharge upgrade reason they gave.
     * One participant suggested adding boilerplate text that users can copy into the form to help them fill it out.
 
 ### For submission process
-* Consider allowing users to submit the form online.
+* Consider alternative methods for submitting the discharge upgrade form.
     * Three participants wanted to submit their form online instead of mailing it in.
 * Consider how to update users on where they're at in the discharge upgrade process.
     * Three participants would like more communication about the discharge upgrade process after submitting their form.
