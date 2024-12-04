@@ -46,14 +46,14 @@ www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech
 
 1. Housing assistance hub - Update link
   - Placement description: Under 'Get Veterans housing assistance grants', the current link titled 'Apply for a Specially Adapted Housing grant' links to the 'How to apply' page. The title for this link will need to be updated so it reflects the page it links to.
-  - Link label: TBD by Sitewide Content
+  - Link label: How to apply for an adapted housing grant
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/how-to-apply/
   - Notes: The 'How to apply' page will serve as informational and the 'Apply for' page will be that actual application
   - Implementation notes: As of 11/20/2/24 this is in place
 <img width="714" alt="Screenshot 2023-03-01 at 2 44 29 PM" src="https://user-images.githubusercontent.com/122128479/222260801-d24cbd0f-66d2-494c-a906-84a6f4d4effa.png">
 
 
-2. Housing assistance hub - Add
+2. Housing assistance hub - **Note: As of 12/4/2024 IA and Content agreed to not implement this - the one link (entry point 1) on the Housing hub page to the 'How to apply' page supports the needed access to this form.**
   - Placement description: Under 'Get Veterans housing assistance grants' as the 3rd option
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
