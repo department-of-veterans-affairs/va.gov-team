@@ -71,31 +71,21 @@ If Dependent:
 
 **Form 22-1990 Self Entitled Veteran (Category A)**
 - Intent to go back to school.
-- Has not used education benefits in the past nor are currently using them.
+- Ideally has not used education benefits in the past nor are currently using them.
 
 **Form 22-1990e Dependent (Category B)**
 - You are the spouse (or child) of a Veteran.
 - You have not served in the military before.
-- You have not used education benefits before nor are currently using them.
+- Ideally you have not used education benefits before nor are currently using them.
 - Your spouse (or parent) has formally transferred benefits to you.
 
 **Form 22-5490 Dependent with no sponsor (Category C)**
 - You are the spouse (or child) of a Veteran.
 - You have not served in the military before.
-- You have not used education benefits before nor are currently using them.
+- Ideally you have not used education benefits before nor are currently using them.
 - Your spouse (or parent) has not formally transferred benefits to you.
 
 Before we jump into to the task, do you have any questions about the information given?
-<p>&nbsp;</p>
-
-## Wayfinding - 3 minutes
-"Could you explain to me how you would start the application process for education benefits?"
-"Now looking at the VA home page, how would do that here?"
-
-### Things to watch for:
-- Where does the user expect to find education benefits on VA.gov?
-- What links or navigational elements does the user look for?
-- How quickly do user locate the education hub?
 <p>&nbsp;</p>
 
 ## Task 1: Find the appropriate form - 3-5 minutes
@@ -103,16 +93,17 @@ You are currently on the "How to Apply" online page on VA.gov. (Retierate the ap
 
 "Looking at this screen, where could you find the application form that's right for you?"
 
-Probing questions:
+ Probing questions:
 - Where might you look first to begin the process? Why?
 - Where would you look to sign in? 
 - Our prototype does not have typing capabilities, lets try clicking the username field to input the login information.
 - What would you do to finish logging in?
+
+Qualitative questions:
 - Looking at this [recommended form], does it feel like you're in the right place?
 - What is your confidence level looking at this information?
 - Did you find all the information you were looking for? If so, what in particular?
 - Were there any parts of the content that felt unclear or unneccessary?
-
 - Is the language on the screen clear and helpful? Or is it confusing? What in particular makes it so?
 - Were there any terms that you found unclear or difficult to interpret?
 
@@ -141,14 +132,16 @@ Receiving recommended benefit:
 
 "Lets say this is not the benefit you want to apply for, where would you look next?"
 
-Probing questions:
+Probing questions (if user is having trouble proceeding):
+- What markers led you to look there?
+- Where else  might you look to find the alternative recommendation?
+
+Qualitative questions:
 - How are you understanding the alternate recommendation? Is there anything in particular thats confusing?
 - How well did the content meet your needs or expectations?
 - Was there any important information missing that you expected to see? If so, what in particular?
-
 - Was the language easy to understand? Were there any terms that you found unclear or difficult to interpret?
 - Were any instructions or messages hard to follow?
-
 - Now lets say you didn’t like that, what else on this page would you expect to be an option?
 
 ### Things to watch for:
