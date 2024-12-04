@@ -251,11 +251,12 @@ In the case of the Medical Expense Report (21P-8416), a supplementary form to re
 > P2: "I think sometimes the flow on the form can be hard to process for the VA, at least that's our interpretation of it. So…our most common development letters basically say we're not understanding your medical expenses. And so we just kind of have to spell it out a little bit \[on the 4138\] for them to calculate maybe what that benefit should have been.”
 
 | **Recommendations:**
-* Explore opportunities to ease form completion and processing burden, such as: Revisit (with VBA partners) what information on the form is essential and clarify the ‘why’ behind the information needed within the form itself.
-* Integrate approaches utilized by VSOs into form content and design, such as guidance to minimize the reporting of medical expenses while maximizing the benefit.
-* Incorporate more dynamic user experiences into the form, such as a dynamic medical expenses calculator.
-* Continue to pursue opportunities to prefill information on the form where possible.
-* Explore the idea of a “buddy statement” within the 527EZ for medical expenses.
+* Explore opportunities to ease form completion and processing burden, such as:
+*  Revisit (with VBA partners) what information on the form is essential and clarify the ‘why’ behind the information needed within the form itself.
+*  Integrate approaches utilized by VSOs into form content and design, such as guidance to minimize the reporting of medical expenses while maximizing the benefit.
+*  Incorporate more dynamic user experiences into the form, such as a dynamic medical expenses calculator.
+*  Continue to pursue opportunities to prefill information on the form where possible.
+*  Explore the idea of a “buddy statement” within the 527EZ for medical expenses.
 * Consider the prioritization of digitizing the Income and Asset Statement relative to other PBP team initiatives, knowing that this supplemental form is used by upwards of 50% of pension applicants.
 * Future research opportunity: Validate whether or not these are the most challenging sections for pension-eligible Veterans and their families to fill out on the online form.
 
@@ -276,7 +277,8 @@ We heard from several VSOs that they want to see more advertising of their servi
 > P2: "I feel the VA has done what I believe is an access issue where they wanna make sure Veterans or applicants have access to do it, which is great, but why not really just push, 'hey, would you like somebody to do this for you?' cause that's what we're here to do....’Before you proceed, would you like to know about a service officer nearby that can do this for you?' They click 'no, I wanna do it,' fine, go ahead. But that's our biggest challenge...getting our information out, letting them know that there are people there to help with this process.”
 
 | **Recommendations:**
-* Consider providing information about pension poachers and/or making information about accredited representatives more visible on the 527EZ. Share findings with relevant groups to inform content about accredited representatives on VA.gov.
+* Consider providing information about pension poachers and/or making information about accredited representatives more visible on the 527EZ.
+* Share findings with relevant groups to inform content about accredited representatives on VA.gov.
 
 ### **Finding 8: In the face of recent increases in claim processing times, VSOs recommend waiting to gather all necessary evidence prior to submitting an application for a faster decision**
 
@@ -297,7 +299,8 @@ Despite the FDC program seemingly not having an impact on processing times, some
 One VSO with extensive experience referred to FDC as “old language.” When talking about FDC, he doesn’t expect that actually marking claims as “fully developed” will have an impact on the processing timeframe. Rather, he uses the term “fully developed claim” to mean that “everything that’s needed is within the claim and it’s ready to be granted or denied whichever way the VA decides it.” 
 
 | **Recommendations:**
-* Revisit whether we should include information about the Fully Developed Claim (FDC) program on our form. Revisit the language in our form about supporting documentation to clarify how submitting all documentation at once may impact processing times.
+* Revisit whether we should include information about the Fully Developed Claim (FDC) program on our form.
+* Revisit the language in our form about supporting documentation to clarify how submitting all documentation at once may impact processing times.
 
 ## **Research Question \#3: What are VSOs’ perceptions of Veterans’ experience of receiving and maintaining Veterans Pension benefits?**
 
