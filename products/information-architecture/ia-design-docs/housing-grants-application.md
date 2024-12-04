@@ -72,21 +72,21 @@ www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech
   - Placement description: Replace link label text so that it refers to the online application rather than to eBenefits
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
-  - Implementation notes: As of 11/20/2/24 this navigation is in place, but links to this page still use the SHA and SAH accronyms.
+  - Implementation notes: As of 11/20/2/24 this navigation is in place, but links to this page still use the SHA and SAH accronyms. Triana and A. will do next steps here.
 
 5. Housing assistance left nav - Add
   - Placement description: Under 'Housing grants' as the 2nd option
-  - Link label: TBD by Sitewide Content
+  - Link label: Apply now
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
-  - Implementation notes: As of 11/20/2/24 this is *still needed*
+  - Implementation notes: As of 11/20/2/24 this is *still needed* - Sam will add
  <img width="446" alt="Screenshot 2023-03-01 at 2 52 40 PM" src="https://user-images.githubusercontent.com/122128479/222262424-d2ed2ba0-4b82-4d62-9e59-c1dc83481e7e.png">
 
  
 6. Housing assistance top nav fly out - Add
   - Placement description: Under 'Get Veterans housing grants' column as the 4th option (bottom)
-  - Link label: TBD by Sitewide Content
+  - Link label: Apply for an adaptive housing grant
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
-  - Implementation notes: As of 11/20/2/24 this is *still needed*
+  - Implementation notes: As of 11/20/2/24 this is *still needed* - Sam to check whether we want links to both the info page and form intro page in the mega menu
  
 ![Screenshot 2023-03-01 at 6 37 44 PM](https://user-images.githubusercontent.com/122128479/222299846-57c4bcf0-ab07-4a55-a3a7-69f3a5e5e4a4.png)
 
