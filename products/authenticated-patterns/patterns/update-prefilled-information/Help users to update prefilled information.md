@@ -50,13 +50,13 @@ _(screenshot with annotation coming soon - in the interim, view this [Figma file
 ### How this pattern works
 
 #### Communicate information that cannot be edited
-This pattern communicates information that cannot be edited with:
-- **Uneditable prefilled information displayed in a gray card.** Disply prefilled information that cannot be changed online (such as legal name, date of birth, and Social Security number) in a card component. This is often one of the first pages in a form.
-- **Directions for updating uneditable information displayed as text.** Add informational text under the card that has the bolded word “note” and directions to update this information offline.
+This pattern communicates information that cannot be edited by:
+- **Omitting the edit link in cards with non-editable information.** For information that cannot be changed online (such as legal name, date of birth, and Social Security number), remove the edit link within the card component. 
+- **Including textual instructions for updating uneditable information.** Under the card with the uneditable data, display informational text starting with the bolded word “Note:” followed by directions to update this information offline. See the #content-considerations section below for sample text.
 
 #### Communicate information that can be edited
-This pattern communicates information that can be edited with:
-- **Editable prefilled information displayed in a white card with an edit link.** Display prefilled information in a card component with a link to edit the information. This information may include contact information, such as phone, email, or mailing address.
+This pattern communicates information that can be edited by:
+- **Displaying editable prefilled information in a card with an edit link.** Display prefilled information in a card component with a link to edit the information. This information may include contact information, such as phone, email, or mailing address.
 
 #### Communicate where changes will save
 - **In most cases, save changes to the VA.gov profile.** In [user research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill), most users indicated that they want changes they make to their information to update the information stored on their VA.gov profile. On the edit page, display an informational alert informing users that these changes will impact their profile information. 
