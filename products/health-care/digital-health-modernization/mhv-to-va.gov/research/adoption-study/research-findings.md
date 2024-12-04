@@ -196,7 +196,7 @@ _Note: participant has trouble with remembering how to spell/say My HealtheVet_
 (Supported by findings 2, 3, and 4)
  - Consider revising the branding, naming conventions, and messaging to emphasize the distinctions between the My HealtheVet National Portal and My HealtheVet on VA.gov 
 
-3. **Make navigation a more consistent experience** 
+3. **Make navigation a more consistent experience**
 (Supported by finding 3)
  - Consider standardizing the destination of links across the global header, authenticated menu, secondary navigation, and My VA to ensure consistency and reduce user confusion. 
 
@@ -206,7 +206,7 @@ _Note: participant has trouble with remembering how to spell/say My HealtheVet_
 
 5. **Maintain and enhance secondary navigation**
 (Supported by finding 6)
-- Continue to maintain and potentially enhance this feature to further support user orientation and navigation within the portal.
+- Continue to maintain and potentially enhance this feature to further support Veteran orientation and navigation within the portal.
 
 ## Next Steps
 
@@ -221,33 +221,28 @@ No further research needed
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/adoption-study/Research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/adoption-study/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Notetaking Mural]([link here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1730128785856/913b7b53aa89251b8a2fb4b472906fbf61db1e41))
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Synthesis Mural]([link here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1730128785856/913b7b53aa89251b8a2fb4b472906fbf61db1e41))
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+We conducted this study in production. 
 
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
+Utilizing https://www.myhealth.va.gov/mhv-portal-web/home and VA.gov 
 
 
 ## Secondary research
 
-Include any secondary research you may have. 
 
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
 ## Who we talked to 
