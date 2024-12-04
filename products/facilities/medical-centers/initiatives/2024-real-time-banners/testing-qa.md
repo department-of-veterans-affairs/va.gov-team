@@ -60,14 +60,20 @@ Complexity:
 ### Unit Test Coverage
 
 **Unit Tests under 80%**
-As of 12-4-24. We expect to be able to solve for these before Staging Review.
 
-BE
+[As of 12-4-24]
+
+**BE**
 - modules/banners/app/sidekiq/banners/update_all_job.rb
 - modules/banners/lib/banners/updater.rb 
 - modules/banners/lib/banners.rb
 
-FE
+**FE**
+
+All VA design components use the shadow DOM for style encapsulation. Unit testing PACT Act code had its unit testing challenges as the shadow DOM cannot be targeted in a unit test.
+
+As a result, the bulk of situationUpdateBanner.jsx cannot be 80% unit tested, as it primarily consists of a <va-banner> component.
+
 - createSituationUpdatesBanner.jsx
 - situationUpdateBanner.jsx
 
