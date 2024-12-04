@@ -10,6 +10,7 @@
 ### UX
 
 ### Content
+* [Value proposition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Onboarding%20%26%20Product%20Adoption/content/value%20proposition.md)
 
 ### User Research
 
