@@ -148,7 +148,11 @@ Participants frequently described or demonstrated convoluted or roundabout paths
 
 Participants positively noted the streamlined experience, access to Community Care information, and the consolidation of services within VA.gov. 
 
-> "Mainly just because of how easier it was to get to compared to the old version for me." - P1 participant has trouble with remembering how to spell/say My HealtheVet)
+> "It's just repackaged. I don't get anything different out of the new version. It's just a different style." - P12
+
+> "Mainly just because of how easier it was to get to compared to the old version for me." - P1
+
+_Note: participant has trouble with remembering how to spell/say My HealtheVet_
 
 > "Have info in one centralized area and not having to hunt for things...Once VA finishes Medical Records, you'll have all the documents you need." - P5 
 
