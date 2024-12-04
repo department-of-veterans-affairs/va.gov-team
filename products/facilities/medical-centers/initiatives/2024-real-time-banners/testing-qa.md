@@ -14,7 +14,7 @@ Simplicity:
 Complexity:
 - React component with API calls (vets-api) for banner retrieval for a given page
 - Display logic to determine if a banner should be displayed on a given page
-- Removal of existing content-build banners requires use of both a CMS Feature Toggle (see below)
+- Removal of existing content-build banners
 
 ## Test Plan
 
@@ -60,11 +60,19 @@ Complexity:
 ### Unit Test Coverage
 
 **Unit Tests under 80%**
-modules/banners/app/sidekiq/banners/update_all_job.rb
-modules/banners/lib/banners/updater.rb 
-modules/banners/lib/banners.rb
+As of 12-4-24. We expect to be able to solve for these before Staging Review.
+
+BE
+- modules/banners/app/sidekiq/banners/update_all_job.rb
+- modules/banners/lib/banners/updater.rb 
+- modules/banners/lib/banners.rb
+
+FE
+- createSituationUpdatesBanner.jsx
+- situationUpdateBanner.jsx
 
 #### Unit Test Coverage Statistics (BE)
+[As of 12-4-24]
 
 | File                           | % Covered | Lines  | Relevant Lines | Lines Covered | Lines Missed | Avg hits/line |
 | ------------------------------ | ----------- | ------ | --------- | ---------- | -------- | ------------ |
@@ -76,7 +84,12 @@ modules/banners/lib/banners.rb
 |modules/banners/lib/banners/builder.rb                | **100.00%** | 41 | 21 | 21 | 0 | 2.19 | 
 |modules/banners/lib/banners/engine.rb                 | **100.00%** | 12 | 6 | 6 | 0 | 1.00 | 
 |modules/banners/lib/banners/profile/vamc.rb           | **100.00%** | 24 | 5 | 5 | 0 | 1.40 | 
-| Combined Coverage | **63.29%** | ------ | --------- | ---------- | -------- | ------------ |
+| Combined Coverage | **63.29%** |   |   |   |   |   |
 
 #### Unit Test Coverage Statistics (FE)
-[tbd]
+[As of 12-4-24]
+
+| File                           | % Statements | % Branches  | % Functions | % Lines |
+| ------------------------------ | ----------- | ------ | --------- | ---------- |
+| createSituationUpdatesBanner.jsx | **36.36%** | 33% | 50% | 36.36% | 
+| situationUpdateBanner.jsx | **50%** | 100% | 0% | 50% | 
