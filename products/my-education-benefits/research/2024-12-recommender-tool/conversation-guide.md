@@ -76,13 +76,13 @@ If Dependent:
 **Form 22-1990e Dependent (Category B)**
 - You are the spouse (or child) of a Veteran.
 - You have not served in the military before.
-- Ideally you have not used education benefits before nor are currently using them.
+- Ideally has not used education benefits in the past nor are currently using them.
 - Your spouse (or parent) has formally transferred benefits to you.
 
 **Form 22-5490 Dependent with no sponsor (Category C)**
 - You are the spouse (or child) of a Veteran.
 - You have not served in the military before.
-- Ideally you have not used education benefits before nor are currently using them.
+- Ideally has not used education benefits in the past nor are currently using them.
 - Your spouse (or parent) has not formally transferred benefits to you.
 
 Before we jump into to the task, do you have any questions about the information given?
@@ -91,7 +91,7 @@ Before we jump into to the task, do you have any questions about the information
 ## Task 1: Find the appropriate form - 3-5 minutes
 You are currently on the "How to Apply" online page on VA.gov. (Retierate the appropriate scenario above--Categories A, B or C--to orient them to the application task, and share link to appropriate prototype in chat.) This page includes resources about GI Bill benefits but more importantly for todays session, it gets users like yourself to the online application to apply for education benefits. Based on your experience, (retierate the appropriate scenario above to orient them to the application task).
 
-"Looking at this screen, where could you find the application form that's right for you?"
+"Looking at this screen, where would you go to find the application form that's right for you?"
 
  Probing questions:
 - Where might you look first to begin the process? Why?
@@ -100,10 +100,10 @@ You are currently on the "How to Apply" online page on VA.gov. (Retierate the ap
 - What would you do to finish logging in?
 
 Qualitative questions:
-- Looking at this [recommended form], does it feel like you're in the right place?
+- Looking at the [recommended form], does it feel like you're in the right place?
 - What is your confidence level looking at this information?
 - Did you find all the information you were looking for? If so, what in particular?
-- Were there any parts of the content that felt unclear or unneccessary?
+- Were there any parts that felt unclear or unneccessary?
 - Is the language on the screen clear and helpful? Or is it confusing? What in particular makes it so?
 - Were there any terms that you found unclear or difficult to interpret?
 
@@ -116,7 +116,7 @@ Logging in using ID.me (ONLY 1990 and 1990e):
 - How easily does the user understand the un-authenticated vs. authenticated state? 
 - Does the user notice and understand the authenticator widget?
 - Are there pain points or confusion for the user when logging in?
-- Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed
+- Is the participant aware that they may be sharing personal information on their screen, and are they okay with that?
 
 Legacy system conditional questions (ONLY 5490):
 - What are the points of confusion for the participant as they answer the questions?
@@ -134,11 +134,11 @@ Receiving recommended benefit:
 
 Probing questions (if user is having trouble proceeding):
 - What markers led you to look there?
-- Where else  might you look to find the alternative recommendation?
+- Where else might you look to find an alternate application?
 
 Qualitative questions:
-- How are you understanding the alternate recommendation? Is there anything in particular thats confusing?
-- How well did the content meet your needs or expectations?
+- How are you understanding the alternate recommendations? Is there anything in particular thats confusing?
+- How well did the information presented meet your needs or expectations?
 - Was there any important information missing that you expected to see? If so, what in particular?
 - Was the language easy to understand? Were there any terms that you found unclear or difficult to interpret?
 - Were any instructions or messages hard to follow?
@@ -150,17 +150,17 @@ Qualitative questions:
 - Does the user understand secondary recommendation?
 - Does user seem confused or fatigued when interpreting information presented? If so, what specifcally (copy, scrolling, etc?)
 
-**Repeat Tasks 1 & 2 for other two flows (for legacy flow as time allows)** <!-- ??? -->
+**Repeat Tasks 1 & 2 for other two flows (Legacy Flow only if time allows)** <!-- ??? -->
 <p>&nbsp;</p>
 
 ## Post-Task Interview - 5 minutes
 
-- How was your experience in receiving the recommended application in each of the three flows? What factors made it easy or what factors made it hard?
-- How was your experience in locating the secondary recommendation in two of the flows? What factors made it easy or what factors made it hard?
-- Which of the three flows was the easiest for you? What factors made that flow particularly easy or easier than the other two?
+- How was your experience in receiving the recommended application in each of the flows? What factors made it easy or what factors made it hard?
+- How was your experience in locating the secondary recommendation in each the flows? What factors made it easy or what factors made it hard?
+- Which of the flows was the easiest for you? What factors made that flow particularly easy or easier than the others?
 - Was there anything in particular that was hard to find? What made it hard to find?
 - Was there anything in particular that that you found confusing? What made it confusing?
-- Are there any factors that differentiated the three flows from each other? Were those factors helpful or did they make the process more confusing (try to get specifcs)?
+- Are there any factors that differentiated the flows from each other? Were those factors helpful or did they make the process more confusing (try to get specifcs)?
 - Any questions for me? 
 <p>&nbsp;</p>
 
