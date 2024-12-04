@@ -33,7 +33,7 @@ In Sprint 24 the team provided support for multiple features and initiatives, ou
 
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
-* 🔵 Direct Scheduling
+* 🟢 Appointment Requests
    * [VPG-23 VPG: Update to use CesAppointment](https://issues.mobilehealth.va.gov/browse/VPG-23)
 * 🟤 VetsAPI Front End Support
    * 🚧 [VPG-273 VetsAPI: implement FE logic for determining appointment type](https://issues.mobilehealth.va.gov/browse/VPG-273)
