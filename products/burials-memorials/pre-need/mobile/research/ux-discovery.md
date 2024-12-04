@@ -66,6 +66,12 @@
    * users shouldn't (and I hypothesis don't) have to care if its really a form or not—they should just be able to complete the task and we help guide them
    * because there are other experiences in the app that do have form elements, we should be thinking about reusability, consistency, documentation, etc
    * one of the rubrics we have for deciding on what tasks should or should not be in the app is repeatability. if this is a one-off form, that might sway our decision
+* If implementing the form via a web view (via Slack thread in #va-mobile-app)
+   * Hide the header, breadcrumbs, nav, and footer
+   * Additional things to consider
+      * forward/back browser buttons (when need)
+      * "open in browser" button when appropriate, so users can bookmark, share links, etc
+      * intercepting any in-page links that go "outside" the current experience and prompt to "open in browser"
 
 
 
@@ -119,7 +125,7 @@ You’ll receive a confirmation email shortly. We’ll let you know by mail or p
    * Uploading documents can be challenging, especially converting to PDF
 * [2023-05 Pre-integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/pre-need/research/pre-integration-research-may23)
    * Usability testing for form showed it was mostly easy to use
-       * Uploading PDFs could be an issue
+       * Uploading PDFs could be an issue for some (7/10 managed), but additional document formats were requested
        * Choosing location and method of burial could cause pause or confusion
 * [2020 Mobile team SME research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/SME-research)
    *  This research from 2020 captures key learnings from SME conversations and user research conducted, focusing on VA tools and features. Not all of it is applicable to pre-need burials but still good background to know.
