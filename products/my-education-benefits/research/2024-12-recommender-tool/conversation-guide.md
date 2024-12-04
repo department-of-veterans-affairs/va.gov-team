@@ -15,6 +15,12 @@ Slack for real-time feedback from observers.
 - Mute your Slack/Teams/phone notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 - Plan for sessions to be recorded
+
+### Starting the session
+- In the Attendees section, make sure everyone except the participant is on mute.
+- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+- Check your screensharing setup and share permissions for participants.
+- When the participant is ready, begin the session with the following intro...
 <p>&nbsp;</p>
 
 <!-- *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
