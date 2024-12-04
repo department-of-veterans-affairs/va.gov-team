@@ -5,6 +5,7 @@
      - 3/2/23: Updated site map image so proposed page is in orange
      - 3/8/23: Edits (JM)
      - 3/23/23: updated URL link to match site map image (JM)
+     - 12/3/2024: Staged roll-out is complete, added detail for the additional entry points (SW)
 
 **Team:** Digitize Team
 
