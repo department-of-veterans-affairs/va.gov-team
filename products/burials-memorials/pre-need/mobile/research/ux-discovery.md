@@ -55,7 +55,7 @@
     * Why is this only being sent via paper mail? Is it a legal reason?
     * What if they lose the letter? Is it available to download from their VA.gov account?
     * Given the feedback we’ve seen about wanting to be notified about claims statuses, are Veterans going to be okay with only finding out about this in the mail?
-    * **Answers:** 
+    * **Answers:** Pre-need burial letters are only sent via paper mail due to technical limitations. If they lose the letter, they would need to reach out to NCA at this point. They are not able to access it on their VA.gov account because NCA does not currently integrate with VA.gov.
 * Opportunity and impact: [from Product Brief] *30% Submission Success Rate between 2020 - 2022 (falls in the middle compared to other Va.Gov benefit forms).*
     * If users start a pre-need burial claim on VA.gov, does it show as started somewhere within the UI with a way for them to finish it? – Assuming yes, but need to test this
     * Could we surface if a pre-need burial claim has been *started* but has not yet been submitted? Thinking we could link to VA.gov if we’re not building this process in the app
@@ -114,26 +114,46 @@ You’ll receive a confirmation email shortly. We’ll let you know by mail or p
    * This research project was not done, and instead was rolled into a later project ([VA-Form 40-1330M Medallions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/medallions/research/2024-10-Apply%20for%20a%20medallion%20in%20a%20private%20cemetery%20to%20products/VA-Form-40-1330M-Medallions-Research-Findings.md))
    * Address validation was familiar and easily understood by most participants
 * [2023-08 Integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/pre-need/research/integration-research-aug23)
-    * Usability testing for form showed it was mostly easy to use (better than v1)
-    * “Relationship to servicemember” may need clarification
-    * Uploading documents can be challenging, especially converting to PDF
+   * Usability testing for form showed it was mostly easy to use (better than v1)
+   * “Relationship to servicemember” may need clarification
+   * Uploading documents can be challenging, especially converting to PDF
 * [2023-05 Pre-integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/pre-need/research/pre-integration-research-may23)
-    * Usability testing for form showed it was mostly easy to use
-        * Uploading PDFs could be an issue
-        * Choosing location and method of burial could cause pause or confusion
-* [2020 Mobile team SME research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/SME-research)       
+   * Usability testing for form showed it was mostly easy to use
+       * Uploading PDFs could be an issue
+       * Choosing location and method of burial could cause pause or confusion
+* [2020 Mobile team SME research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/SME-research)
+   *  This research from 2020 captures key learnings from SME conversations and user research conducted, focusing on VA tools and features. Not all of it is applicable to pre-need burials but still good background to know.
+   *  **Claims & Appeals**
+      *  **Claims Process**: Veterans feel disconnected and seek more control and transparency in the claims process. An evidence upload feature could expedite the process.
+      *  **Appeals**: Include supplemental reviews, higher-level reviews, and board appeals. Combining claims and appeals in the app would simplify user experience.
+      *  **Access & Updates**: Veterans need timely notifications and clear insights into claims status to reduce anxiety and frustration.
+   *  **Direct Deposit**
+      *  Veterans want features for setting up, editing, and tracking direct deposit status. Push notifications for upcoming payments could enhance user satisfaction.
+   *  **Appointments**
+      *  **Scheduling**: Self-scheduling is currently limited, but there's potential for broader use in the future. Veterans prefer scheduling appointments in advance.
+      *  **Technology**: Scattered appointment data and non-centralized systems hinder consistent notifications and updates.
+      *  **Notifications**: Issues include insufficiently informative and mistimed appointment notifications. Centralizing data into a unified system (e.g., Cerner) could improve this.
+   *  **Facility Locator**
+      *  **Usage**: Veterans often use this tool to explore unfamiliar facilities or services. Distance is the primary criterion for searches.
+      *  **Challenges**: Users face confusion due to unclear facility types and services, especially in rural areas. The mobile map is less useful compared to desktop versions.
+      *  **Recommendations**: Focus the MVP on a single use case, such as finding urgent care or pharmacies for flu shots.
+   *  **Profile Features**
+      *  Veterans view direct deposit and dependent management as critical profile functionalities. Exploring API options for dependents could streamline this process.
+   *  **Next Steps**
+      *  Integrate findings into feature development for claims, direct deposit, facility locator, and profile tools.
+      *  Collaborate with other teams on notifications, APIs, and data centralization for improved functionality.      
 * [2023-05 Mobile team claim status tool research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/claims/research%20review%20-%20claims%20status%20tool.md)
-    * The research reviews veterans' behaviors, motivations, and pain points in tracking claims using VA systems, focusing on improving the mobile app's Claims Status Tool.
+   * The research reviews veterans' behaviors, motivations, and pain points in tracking claims using VA systems, focusing on improving the mobile app's Claims Status Tool.
    * Key goals include helping veterans stay informed, fostering trust in the system, and improving communication channels.
    * Key insights
-      1. Veteran needs
+      * **Veteran needs**
          * Veterans seek clarity on the claims process, including timelines, VA actions, and any required steps from them.
-         * They desire secure and efficient tools to reduce the frustration of navigating the complex VA system.
-      2. Common pain points
+         * They want secure and efficient tools to reduce the frustration of navigating the complex VA system.
+      * **Common pain points**
          * **Lack of trust**: Information across VA platforms is inconsistent, leading to confusion and mistrust.
          * **Poor transparency**: Claims progress is unclear, with no proactive notifications about status changes.
          * **Ineffective communication**: Veterans struggle to get detailed case information and rely heavily on one-on-one support or word-of-mouth guidance.
-      3. Veteran behaviors
+      * **Veteran behaviors**
          * Frequent status checks via multiple platforms due to uncertainty.
          * Dependence on in-person visits or calls for detailed help due to insufficient app features.
    * Recommendations for the mobile app
