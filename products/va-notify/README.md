@@ -57,7 +57,7 @@ Welcome! Please submit an [intake form](https://github.com/department-of-Veteran
 ## Getting access to our Self Service Portals
 The VA Notify self service portal empowers your team to create and manage notification templates, while also providing helpful documentation and tips for your notification journey.
 
-We provide Staging and Production access. Staging should be used for testing purposes and can be connected to one or more of your lower environments (e.g. dev and qa). Once you feel everything is working as expected, you can copy and paste content into Production. We will provision your user and provide an API key per environment via an encrypted VA email to one of your technical team members. We may provide initial access via our Test Service on Staging depending where you’re at in the process.
+We provide Staging and Production access. Staging should be used for testing purposes and can be connected to one or more of your lower environments (e.g. dev and qa). Once you feel everything is working as expected, you can push the content into Production. We will provision your user and provide an API key per environment via an encrypted VA email to one of your technical team members. We may provide initial access via our Test Service on Staging depending where you’re at in the process.
 
 Please note: to access a lower environment with PIV, i.e. Staging, your user must be provisioned with a SecID in the [IAM system](https://dvagov.sharepoint.com/sites/OITEPMOIAM/playbooks/Pages/ssoi/SSOi%20Setup.aspx) within the appropriate environment. VA Notify Staging is integrated with the SQA IAM environment. Every user automatically gets provisioned in Production, so no extra step is needed there. You can request this yourself or ask VA Notify to help!
 
