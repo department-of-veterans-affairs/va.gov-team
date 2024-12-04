@@ -185,10 +185,8 @@ _Note: participant has trouble with remembering how to spell/say My HealtheVet_
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
+* Enhance the discoverability of My HealtheVet on VA.gov.
+ (Supported by findings 1, 3, and 4)
 * Recommendation 2
     * _Supporting evidence_
 
