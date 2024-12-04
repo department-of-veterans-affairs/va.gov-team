@@ -60,5 +60,6 @@ requested URL | landing page URL
 - [ ] IA: Request is vetted and documented and implementation plan is clear 
 - [ ] IA: Request is assigned to appropriate team for implementation 
 - [ ] Implementation team: Work is complete
+- [ ] PR has received approval from redirect-approval group
 - [ ] Implementation team: Validated in production
 - [ ] Requesting team: Validates everything is correct in production and closes ticket
