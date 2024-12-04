@@ -24,7 +24,7 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 1. Validate the design patterns for a successful file upload scenario.  
 2. Ensure the design patterns effectively address a Type 1 failure (submission fails immediately).  
 3. Ensure the design patterns effectively address a Type 2 failure (submission fails in downstream services).  
-4. [**NEED REVIEW**: rephrase so that user journey ensure that these two things email and alerts connect] Evaluate the proposed user experience for both receiving failure notifications via email and viewing in-app alerts for Type 1 and Type 2 failures.  
+4. Evaluate the user journey to determine whether Veterans connect receiving failure notifications via email with viewing in-app alerts for Type 1 and Type 2 failures.
 
 ### Outcome
 
@@ -67,20 +67,9 @@ Remote on Zoom
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2024-11-Document-Status/converstation-guide.md)
 - [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment	
 
