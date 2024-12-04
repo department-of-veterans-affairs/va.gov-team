@@ -145,7 +145,7 @@ Participants frequently described or demonstrated convoluted or roundabout paths
 
 ---
 
-### 5. Participants identified My HealtheVet on VA.gov as a familiar portal for healthcare, with most participants expressing positive views on the  updates. 
+### 5. Participants identified My HealtheVet on VA.gov as a familiar portal for health care, with most participants expressing positive views on the  updates. 
 
 Participants positively noted the streamlined experience, access to Community Care information, and the consolidation of services within VA.gov. 
 
