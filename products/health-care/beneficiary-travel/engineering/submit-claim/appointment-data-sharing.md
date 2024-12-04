@@ -6,6 +6,20 @@ Because the appointments list/details page lives in a different React app than t
 
 ## Proposed solutions
 
+## notes
+
+Rankings each on a scale of
+
+(preferred)
+
+- Yes
+- Yes, with concerns
+- Hmmm, Maybe?
+- Rather Not
+- Hard No
+
+(least preferred)
+
 ### Option 1
 
 Pass VAOS appt ID as url params (`travel-pay/new/{apptID}`) and call VAOS API module to retrieve appt details
@@ -17,6 +31,10 @@ Pass VAOS appt ID as url params (`travel-pay/new/{apptID}`) and call VAOS API mo
 - Cons:
   - Extra API call to retrieve data that already exists 😐
   - The data straight from the API would need to be normalized (this is currently handled in the appointments FE codebase) for use in the travel pay app
+
+#### Thoughts
+
+Yes. API calls can be cached/made faster, this feels like the easiest; Would allow linking from any place, not just the appointment list
 
 ### Option 2
 
@@ -30,6 +48,10 @@ Pass BTSSS appt ID as url params (`travel-pay/new/{btsss-appt-id}`) and call TP 
   - this may be problematic depending on how long the appts plugin needs to run to pull appts into the BTSSs system
   - BTSSS appt object doesn’t contain the same data points that the VAOS appt does so designs might need adjusted
 
+#### Thoughts
+
+Rather not; because I want to try to hide internal btsss workings from VA.gov as much as possible
+
 ### Option 3
 
 Pass appointment date-time as url params (`travel-pay/new/2024-11-22T11%3A00%3A00`) and call TP API to retrieve appt details
@@ -41,6 +63,10 @@ Pass appointment date-time as url params (`travel-pay/new/2024-11-22T11%3A00%3A0
 - Cons:
   - See Option 2 Cons
 
+#### Thoughts
+
+Rather not; times can get weird. It was fine enough for PCI, but always felt unreliable. And timezone suck, double so with VA data
+
 ### Option 4
 
 Move SMOC submission app into VAOS directory (`appointments/past/{apptId}/submit-travel-claim`) and use a React Router <Link> to pass the appt as a state object
@@ -49,6 +75,10 @@ Move SMOC submission app into VAOS directory (`appointments/past/{apptId}/submit
   - Easier passing of data (can store in redux or pass as a `location.state` object
 - Cons:
   - Travel pay is unnecessarily intertwined with appointments app which could cause problems once we start work on complex claims
+
+#### Thoughts
+
+Rather not; This is unneeded overhead that we are going to addressing with creating 1 big MHV bundle (UAE + MHV + All The Things)
 
 ### Option 5
 
@@ -59,6 +89,15 @@ Add a platform level shared redux state store where the appointments app can dro
 - Cons:
   - Requires platform level code changes (not terrible, but a consideration)
   - Per profile FE dev, this shared redux doesn’t actually store the data, each time it’s requested it still requires an API call (not confirmed by Liz as of yet, but sounds legit) so we’re still making an additional API call to get the appointment details
+
+#### Thoughts
+
+Hmmm Maybe?; (assuming that the redux actually stores data) My only thoughts here would be is there a way to either
+
+- define a way to share data, like a sharedData bucket in the global redux to help solve this pattern across other apps
+- OR; Elevate health data into the global store.
+
+I think there is something here I will take to the Health Enigeering leads and converse and war game. Especially with the combination coming at some point there could be some things here. Still.
 
 ### Option 6
 
@@ -72,6 +111,12 @@ Implement the Forms Library and store the appt data on the BE as a Saved in Prog
   - Would still require an API call to retrieve the SIP form
   - There are many unknowns as to whether or not it would actually work as needed 🫤
 
+#### Thoughts
+
+Hmmm, Maybe? The idea of using the BE as a datasource could work. Just not using these systems. There could be a world in which we store the eleigible appointments in redis and query for those. This could be the optimization for Option 1
+
+Rather not; on the forms library.
+
 ### Option 7
 
 Push SMOC release back even further until the one-MHV-to-rule-them-all consolidation work is complete and both appointments and travel pay can live in one MHV directory
@@ -80,6 +125,10 @@ Push SMOC release back even further until the one-MHV-to-rule-them-all consolida
   - Shared redux store, shared routing, etc.
 - Cons:
   - Delivery dates will be adversely impacted
+
+#### Thoughts
+
+Hard No; we ned to delivery something before the `one-MHV-to-rule-them-all`
 
 ### Option 8
 
@@ -93,6 +142,10 @@ Cache the VAOS appt data in the vets-api redis instance. Upon user nav to the su
   - Requires Appts Team work to call the endpoint to cache the appt
   - Requires another API call on nav to submit
 
+#### Thoughts
+
+Hmm, Maybe?; Looks like we got the same idea. I imagine we could do some smart caching here with the appointments team
+
 ### Option 9
 
 Store the required appointment data in local storage and pull it back out once the user has navigated to the travel pay app
@@ -102,3 +155,7 @@ Store the required appointment data in local storage and pull it back out once t
 - Cons:
   - Local storage is not the best practice from a security standpoint
   - The data would need to be “cleaned” of PII before storing and deleted once it’s pulled out
+
+### Thoughts
+
+Yes. but with concerns; Session storage over localstorage; Could also store only what is Needed; Session storage management is real overhead could lead to some odd behavior is done not-perfectly.
