@@ -143,7 +143,8 @@ Both CT currently lives in PRODUCTION and functional.
 Doesn't exist
 
 #### After 
-![image](https://github.com/user-attachments/assets/897b4daa-6bb1-478f-8a27-f794817d2be1)
+Desktop: ![image](https://github.com/user-attachments/assets/897b4daa-6bb1-478f-8a27-f794817d2be1)
+Mobile: ![image](https://github.com/user-attachments/assets/f9127f29-165e-486b-b390-01fe7e5a124e)
 
 --- 
 
