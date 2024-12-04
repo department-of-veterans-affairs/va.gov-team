@@ -31,7 +31,7 @@ The "Update Prefilled Information" pattern addresses these gaps by enabling user
   - Success alert that confirms the data has been saved and a message indicating where the changes have been saved to.
 
 - **Display of uneditable data**:
-  - Gray card
+  - White card
 
 - **Display of editable data**:
   - White card with “Edit” button
@@ -55,10 +55,9 @@ The "Update Prefilled Information" pattern addresses these gaps by enabling user
 ### Within the form:
 - Users will be shown certain data (e.g., SSN, DOB) that is not editable on the website.
 
-In a gray card
+In a white card
 
-![Screenshot 2024-11-08 at 1 06 05 PM](https://github.com/user-attachments/assets/59446090-cd28-427a-b910-75914f5dc66e)
-
+![Screenshot 2024-12-04 at 10 51 30 AM](https://github.com/user-attachments/assets/70dede49-db94-4533-9356-9de6af5b911b)
 
 - A note below the uneditable data will explain how to update their information and why it is uneditable on the site.
 
