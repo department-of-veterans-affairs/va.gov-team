@@ -177,12 +177,11 @@ _Note: participant has trouble with remembering how to spell/say My HealtheVet_
 
 ## Additional Insights
 
-The secondary navigation proved effective in supporting both user orientation and navigation amongst the various tools within the health portal.
+- 7 of 10 participants utilized a web search to locate the My HealtheVet National Portal. 
 
-> _Supporting data: Quote here_
+> "I can never remember 'My HealtheVet' The whole 'evet' part just throws me off, I don't know why" - P1
 
-> _Supporting data: Quote here_
-
+> "VA.gov is a lot easier to remember." - P11
 
 ## Recommendations
 
