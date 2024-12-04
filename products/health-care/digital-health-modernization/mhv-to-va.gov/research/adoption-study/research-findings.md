@@ -85,8 +85,8 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 > "And then at once point, it's giving you the option to cancel your MHV. But if you do that you can't get into any of this stuff . So why are they doing that?" - P12
 
 Multiple banners        
-:-------------------------:|
-<img width="909" alt="Screenshot 2024-12-03 at 1 25 08 PM" src="https://github.com/user-attachments/assets/f6da8b1b-6ace-45d4-b991-91d5f7972c6d">
+|:-------------------------:|
+|<img width="909" alt="Screenshot 2024-12-03 at 1 25 08 PM" src="https://github.com/user-attachments/assets/f6da8b1b-6ace-45d4-b991-91d5f7972c6d">
 
 ---
 ### 2. Most participants generally understood the concept of the My HealtheVet to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
@@ -133,6 +133,7 @@ My VA |
 :-------------------------:|
 |<img width="563" alt="Screenshot 2024-12-04 at 10 52 14 AM" src="https://github.com/user-attachments/assets/d8431691-2f1f-467f-bd53-a45cabef8c3b">
 
+---
 
 ### 4. While participants identified ways to access My HealtheVet on VA.gov in the future, such as using bookmarks, the sessions highlighted challenges in navigating back to My HealtheVet on VA.gov. 
 
@@ -171,6 +172,8 @@ _Note: participant has trouble with remembering how to spell/say My HealtheVet_
 > "This does look like the newer version of things (looking at secondary navigation)...This is the newer version because the top there. The icons, the style is different." - P12
 
 <img width="1030" alt="Screenshot 2024-12-04 at 10 42 49 AM" src="https://github.com/user-attachments/assets/aa093f4f-2251-4eaa-8270-5f024d238d3a">
+
+---
 
 ## Additional Insights
 
