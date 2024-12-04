@@ -8,7 +8,7 @@
 <p>&nbsp;</p>
 
 ## Background
-We are replacing the outdated, deprecated How to Apply "wizard" that is located on the EDU How to apply and Eligibility sections of VA.gov. Our "EDU Application Recommender Tool" is a 1:1 replacement of the wizard and will programmatically review prospective applicant information on the backend to recommend a likely education application form.
+We are replacing the outdated, deprecated How to Apply "wizard" that is located on the EDU How to Apply and Eligibility sections of VA.gov. Our "EDU Application Recommender Tool" is a 1:1 replacement of the wizard and will programmatically review prospective applicant information on the backend to recommend a likely education application form.
 
 - What problem is your product trying to solve? **Beneficiaries often submit the incorrect form when applying for GI Bill benefits. We want to increase the likelihood that they submit the correct form to reduce the need for resubmissions.** <!-- **Finding a suitable replacement to the current process for locating the correct education benefit form for a Veteran** -->
 - Where is your product situated on VA.gov? **Our new tool will replace the "wizard" in the Education and Training hub on the How to Apply page.** <!-- **Authenticated experience will give us the background we need to accurately guide Veterans and their family members to the right form** -->
