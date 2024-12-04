@@ -72,6 +72,10 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 
 > "Hmm, no, I usually scroll really fast and went right down to my appointments." - P13
 
+**_Some participants perceived the banners as irrelevant._**
+
+> No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
+
 **_At least 5 of 10 participants experienced banner overload. The presentation of two to three vertically stacked banners of similar coloration resulted in a lack of visual differentiation among them._**
 
 > "3 boxes all the same color makes it seem like these are all the same information." - P2
@@ -83,10 +87,6 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 Multiple banners        
 :-------------------------:|
 <img width="909" alt="Screenshot 2024-12-03 at 1 25 08 PM" src="https://github.com/user-attachments/assets/f6da8b1b-6ace-45d4-b991-91d5f7972c6d">)
-
-**_Some participants perceived the banners as irrelevant._**
-
-> No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
 
 ---
 ### 2. Most participants generally understood the concept of the My HealtheVet to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
