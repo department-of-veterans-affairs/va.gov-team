@@ -86,7 +86,7 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 
 Multiple banners        
 :-------------------------:|
-<img width="909" alt="Screenshot 2024-12-03 at 1 25 08 PM" src="https://github.com/user-attachments/assets/f6da8b1b-6ace-45d4-b991-91d5f7972c6d">)
+<img width="909" alt="Screenshot 2024-12-03 at 1 25 08 PM" src="https://github.com/user-attachments/assets/f6da8b1b-6ace-45d4-b991-91d5f7972c6d">
 
 ---
 ### 2. Most participants generally understood the concept of the My HealtheVet to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
@@ -101,7 +101,7 @@ _3 Participants mentioned login as a potential barrier_
 
 > "I think it will take me to VA.gov, but I wonder if it will make me login again...My concern is I'm already on MHV. Do I have to login again and go through that frustration?" - P10
 
-_2 Participants pointed to functionality (specifically Medical records):_
+_2 Participants pointed to functionality, specifically Medical records not being available. 
 
 > "I won't come to VA.gov until it's fully functional. Now I have to click one more time to go back. Nobody wants to turn backward." - P 13
 
@@ -109,15 +109,30 @@ _2 Participants pointed to functionality (specifically Medical records):_
 
 ### 3. Even among those who could conceptualize the transition, participants often conflated the My HealtheVet National Portal with My HealtheVet on VA.gov.
 
-Despite the conceptual understanding of the transition and being able to articulate this transition, participants a persistent challenge in differentiating between the two My HealtheVet platforms among users.
+Despite being able to articulate the My HealtheVet transition, participants (9 of 10) experienced a persistent challenge in differentiating between the two My HealtheVet platforms throughout the study. This confusion stemmed from several factors including naming conventions and navigation challenges. 
 
-Brief description
+_**The consistent use of "My HealtheVet" for both platforms created ambiguity for some participants (4 of 10).**_
 
-> _Supporting data: Quote here_
+> "It's confusing that it's still called this, but it's different. I think it would be less confusing if it was just different"** - P1
 
-> _Supporting data: Quote here_
+> "I know I'm in MHV because I scroll up and it's there (looking at My HealtheVet logo but then notices VA.gov in URL) it's a little confusing. I'm not techy so maybe they're linked. I signed into MHV, but this says VA.gov. Did they already switch?" - P13
 
---- 
+_**Navigation inconsistencies and confusion around link behavior provoked uncertainty with most participants (9 of 10).**_
+
+The expectation that My HealtheVet links in the global header, authenticated menu, and secondary navigation would redirect participants to the My HealtheVet National Portal created ambiguity. Furthermore, the assumption that healthcare links within My VA would keep users on My HealtheVet within VA.gov caused navigational confusion for most participants. 
+
+> "Expected it to take me to the page I was just at. But it left me on the new version?" - P 12
+
+> "Depending on which button you hit at what time, it's gonna look different so it's important you understand what terms you're looking for."  - P11
+
+Global header and secondary navigation |  Authenticated menu 
+:-------------------------:|:-------------------------:
+|<img width="831" alt="Screenshot 2024-12-04 at 11 00 23 AM" src="https://github.com/user-attachments/assets/2ea7b5b3-c79b-458c-8917-e57be7d0b22b">|<img width="853" alt="Screenshot 2024-12-04 at 11 03 48 AM" src="https://github.com/user-attachments/assets/f3dfc7af-f20c-49d1-9801-1e51202d0a70">
+
+My VA |
+:-------------------------:|
+|<img width="563" alt="Screenshot 2024-12-04 at 10 52 14 AM" src="https://github.com/user-attachments/assets/d8431691-2f1f-467f-bd53-a45cabef8c3b">
+
 
 ### 4. While participants identified ways to access My HealtheVet on VA.gov in the future, such as using bookmarks, the sessions highlighted challenges in navigating back to My HealtheVet on VA.gov. 
 
