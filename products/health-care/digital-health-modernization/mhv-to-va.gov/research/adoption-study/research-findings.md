@@ -138,9 +138,9 @@ My VA |
 
 Participants frequently described or demonstrated convoluted or roundabout paths to return to the platform.
 
-> _Supporting data: Quote here_
+> "I would honestly have to poke around because I would not know how to get to this again." - P12
 
-> _Supporting data: Quote here_
+> "I guess I would go to VA.gov and hope that I could find a My health or My HealtheVet link?" - P13 
 
 ---
 
