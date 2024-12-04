@@ -68,7 +68,7 @@ Our recruiting goal is to a few have representatives from two groups:
 **Please recruit for 9 fulfilled sessions** using the following criteria:
 
 **Must have for participants**
-- Participants must **have used or are currently using GI Bill benefits**
+- Participants have not applied for nor have used GI Bill Benefits in the past
 - At least 1 woman of color
 - At least 1 participant 55 or older
 - At least one person that does not have a college degree (to include enlisted Veterans)
@@ -112,7 +112,7 @@ _We would ask that Perigean recruits a diverse demographic breakdown._ -->
 
 ### Preparation
 Our prototypes are ready for testing. Because we are still in a generative phase, we have only completed the Design Intent checkpoint. 
-* Pilot participant email: alexander.ferzola@afs.com
+* Pilot participant email: joanna.yu@afs.com
 * Date and time of pilot session:  December 10, 2024, 2 PM EST
 
 ### Research sessions
