@@ -5,7 +5,7 @@
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
 |Phase 1: Staging testing |2 days|N/A| November 11-18, 2024  |
-|Phase 2: Canary production testing |3 days|1% of users - 10 claims min.| December 4-6, 2024  |
+|Phase 2: Canary production testing |3 days|1% of users - 100 claims min.| December 4-6, 2024  |
 |Phase 2A: 25% of users |7 days|25% of users (auth users only)|December 9, 2024|
 |Phase 2B: 50% of users |4 days|50% of users (auth users only)|December 16, 2024|
 |Phase 23: 75% of users |4 days|75% of users (auth users only)|December 20, 2024|
@@ -66,17 +66,17 @@ Our VFS team was advised against testing in production due to the downstream act
 <!--- Desired date range or test duration: September 2-6, 2024 -->
 
 - Desired test date: September 3, 2024
-- Desired number of users: [N/A]
+- Desired number of users: N/A
 - How you'll recruit the right production test users: Internal team and VA audiences
 - How you'll conduct the testing: Using test users and validating the staging form updates via testrails
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: We are conducting the testing in staging
 
 #### Results
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]
-- Was any downstream service affected by the change?: [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
+- Number of users: N/A
+- Number of bugs identified / fixed: 1 bug identified and fixed -> Homelessness question checkbox
+- Was any downstream service affected by the change?: Yes, LightHouse had to patch the bug on their end
+- Types of errors logged: PDF data accuracy error
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No, logs all fine.
 - If yes, what: [FILL_IN] with ticket numbers
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
@@ -85,14 +85,14 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: November 11 - December 9, 2024
+- Desired date range: Month of December
 - How will you make the product available in production while limiting the number of users who can find/access it: Feature toggle
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
   - Abandonment rate: TBD
   - Contact Center calls due to inability to complete the form caused by errors <2 calls (reach out in advance to inform them of the HLR form updates release)
   - Submission volume:
-    - Canary: 10 submissions
-    - 25%/50%/75%: >10 submissions
+    - Canary: 100 submissions
+    - 25%/50%/75%: >10k submissions
   - Error rate: <1%
   - Pageviews
 - Links to the dashboard(s) showing "success criteria" metrics:
