@@ -52,7 +52,7 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 ## Key Findings
 
 1. Participants ignored the "Try Me" banners on the My HealtheVet National Portal, scrolling past them. 
-2. Participants generally understood the concept of the My HealtheVet to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
+2. Most participants generally understood the concept of the My HealtheVet to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
 3. Participants frequently conflated the My HealtheVet National Portal and My HealtheVet on VA.gov, even those who understood the transition conceptually.
 4. Participants identified ways to access My HealtheVet on VA.gov in the future (such as using bookmarks), but the sessions revealed difficulties navigating back to My HealtheVet on VA.gov, with participants often describing or demonstrating circuitous routes.
 5. Participants identified My HealtheVet on VA.gov as a familiar portal for healthcare, with most participants expressing positive views on the  updates.
@@ -87,7 +87,7 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 > No, honestly I look past these most of the time. I used to pay attention to them when I first started using MHV but it seemed that none of it was truly important." - P5
 
 ---
-### 2. Participants generally understood the concept of the My HealtheVet to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
+### 2. Most participants generally understood the concept of the My HealtheVet to VA.gov transition, however, significant uncertainty remained regarding its practical implications. 
 
 Despite a conceptual understanding of the My HealtheVet to VA.gov transition, most participants (8 of 10) expressed considerable uncertainty, citing concerns about workflow disruptions, repeated login requirements, and possible loss of functionality. 
 
@@ -105,8 +105,7 @@ Despite a conceptual understanding of the My HealtheVet to VA.gov transition, mo
 
 ---
 
-### 3. Participants frequently conflated the My HealtheVet National Portal and My HealtheVet on VA.gov, even those who understood the transition conceptually.
-
+### 3. Even those who understood the transition conceptually, participants frequently conflated the My HealtheVet National Portal and My HealtheVet on VA.gov. 
 
 
 Brief description
