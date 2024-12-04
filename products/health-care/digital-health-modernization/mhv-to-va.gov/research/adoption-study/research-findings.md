@@ -146,9 +146,15 @@ Participants frequently described or demonstrated convoluted or roundabout paths
 
 ### 5. Participants identified My HealtheVet on VA.gov as a familiar portal for healthcare, with most participants expressing positive views on the  updates. 
 
-> _Supporting data: Quote here_
+Participants positively noted the streamlined experience, access to Community Care information, and the consolidation of services within VA.gov. 
 
-> _Supporting data: Quote here_
+> "Mainly just because of how easier it was to get to compared to the old version for me." - P1 participant has trouble with remembering how to spell/say My HealtheVet)
+
+> "Have info in one centralized area and not having to hunt for things...Once VA finishes Medical Records, you'll have all the documents you need." - P5 
+
+> "Streamlined options all on one site." - P9
+
+> "To me, you all are trying to improve our care...including Community Care." - P10
 
 ---
 
