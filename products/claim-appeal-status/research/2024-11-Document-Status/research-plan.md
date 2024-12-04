@@ -24,7 +24,7 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 1. Validate the design patterns for a successful file upload scenario.  
 2. Ensure the design patterns effectively address a Type 1 failure (submission fails immediately).  
 3. Ensure the design patterns effectively address a Type 2 failure (submission fails in downstream services).  
-4. Evaluate the proposed user experience for both receiving failure notifications via email and viewing in-app alerts for Type 1 and Type 2 failures.  
+4. [**NEED REVIEW**: rephrase so that user journey ensure that these two things email and alerts connect] Evaluate the proposed user experience for both receiving failure notifications via email and viewing in-app alerts for Type 1 and Type 2 failures.  
 
 ### Outcome
 
@@ -40,9 +40,9 @@ Our research will reveal whether real-time status updates are helpful to Veteran
 ### Hypothesis
 
 * The proposed design makes it clear what the status of the uploaded document is.
-* Providing in-app failure notifications make Veterans know what actions to take for submitting their physical documents.
-* Veterans will know what to do in scenarios where document uploads were successful and scenarios where document uploads failed. 
-* In-app status updates will complement email notifications, providing Veterans with additional clarity and reducing the need for support inquiries.
+* Veterans will know what to do in scenarios where document uploads were successful and scenarios where document uploads failed.
+* Users will find that real-time in-app status updates enhance the overall service experience by complementing the information provided via email, offering additional clarity and reassurance during the document upload process.
+* Providing Veterans with clarity via in-app status updates will reduce the need for support inquiries.
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
