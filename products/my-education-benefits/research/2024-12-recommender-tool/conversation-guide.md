@@ -52,7 +52,8 @@ Before we start, a few things I want to mention:
 
 *Start recording.*
 
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+<p>&nbsp;</p> 
 
 ## Warm-up Questions - 5-7 minutes
 *Use these questions to ensure participant background was correctly filtered, if not pivot to a different flow as needed.*
@@ -67,35 +68,41 @@ If Dependent:
 - So we know you are a dependent of [relationship], could you tell me a little bit more about that?
 - Have you applied for education benefits before? If so, by what method (paper, online, etc.)?
 
-*Share prototype link to appropriate flow, participant shares screen, and then contextualize the test scenario for the them*
-Thanks for sharing your experience with us. You are currently on the "How to Apply" online page on VA.gov. This page includes resources about GI Bill benefits but more importantly for todays session, it gets users like yourself to the online application to apply for education benefits. Based on your experience, (retierate experience to them and use the factors below as needed):
+### Scenarios
 
-**Form 22-1990 Self Entitled Veteran**
+**Form 22-1990 Self Entitled Veteran (Category A)**
 - Intent to go back to school.
 - Has not used education benefits in the past nor are currently using them.
 
-**Form 22-1990e Dependent**
+**Form 22-1990e Dependent (Category B)**
 - You are the spouse (or child) of a Veteran.
 - You have not served in the military before.
 - You have not used education benefits before nor are currently using them.
 - Your spouse (or parent) has formally transferred benefits to you.
 
-**Form 22-5490 Dependent with no sponsor**
+**Form 22-5490 Dependent with no sponsor (Category C)**
 - You are the spouse (or child) of a Veteran.
 - You have not served in the military before.
 - You have not used education benefits before nor are currently using them.
 - Your spouse (or parent) has not formally transferred benefits to you.
 
 Before we jump into to the task, do you have any questions about the information given?
+<p>&nbsp;</p>
 
 ## Wayfinding - 3 minutes
-
 "Could you explain to me how you would start the application process for education benefits?"
 "Now looking at the VA home page, how would do that here?"
 
-## Task 1: Find the appropriate form - 3-5 minutes
+### Things to watch for:
+- Where does the user expect to find education benefits on VA.gov?
+- What links or navigational elements does the user look for?
+- How quickly do user locate the education hub?
+<p>&nbsp;</p>
 
-"Looking at this screen, where would you go first to find the application form thats right for you?"
+## Task 1: Find the appropriate form - 3-5 minutes
+You are currently on the "How to Apply" online page on VA.gov. (Retierate the appropriate scenario above--Categories A, B or C--to orient them to the application task, and share link to appropriate prototype in chat.) This page includes resources about GI Bill benefits but more importantly for todays session, it gets users like yourself to the online application to apply for education benefits. Based on your experience, (retierate the appropriate scenario above to orient them to the application task).
+
+"Looking at this screen, where how could you find the application form that's right for you?"
 
 Probing questions:
 - Where might you look first to begin the process? Why?
@@ -123,6 +130,7 @@ Legacy system conditional questions (ONLY 5490):
 Receiving recommended benefit:
 - How easily does the user locate the recommended benefit?
 - How easily does the user understand the recommended benefit?
+<p>&nbsp;</p>
 
 ## Task 2: Locate secondary recommendation - 1-2 minutes 
 *Not applicable for 22-5490 flow*
@@ -137,8 +145,8 @@ Receiving recommended benefit:
 - Does the user understand secondary recommendation?
 - Does user seem confused or fatigued when interpreting information presented? If so, what specifcally (copy, scrolling, etc?)
 
-**Repeat Tasks 1 & 2 for other two flows**
-   
+**Repeat Tasks 1 & 2 for other two flows** <!-- ??? -->
+<p>&nbsp;</p>
 
 ## Post-Task Interview - 5 minutes
 
@@ -149,6 +157,7 @@ Receiving recommended benefit:
 - Was there anything in particular that that you found confusing? What made it confusing?
 - Are there any factors that differentiated the three flows from each other? Were those factors helpful or did they make the process more confusing (try to get specifcs)?
 - Any questions for me? 
+<p>&nbsp;</p>
 
 ## Thank-You and Closing - 2 minutes
 
@@ -158,9 +167,10 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
+<p>&nbsp;</p>
 
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
+<!-- ## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
 
 - [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
-
+- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md) -->
+ 
