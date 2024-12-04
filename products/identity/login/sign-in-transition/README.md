@@ -34,32 +34,12 @@ Our work has focused on 4 primary workstreams:
 
 
 ### Current Work
-Sign-up day events: planning, coordinating, training for, and hosting these events around the country
+Check out the folders of this project to see deliverables.
 
-Managing the shared inbox sign.in.transition@va.gov: responding to and forwarding emails as needed to appropriate escalation pathways with our credential service providers (CSPs)
-
-Data reporting: answering data related questions regarding the shared data via the iniatives Domo Dashboard, creating weekly and monthly reports on the data 
-
-Exploring edge case issues, prioritizing into a prioritization matrix and meeting with our CSPs to identify potential recommendations or solutions moving forward
 
 ### Previous work
-In-person Proofing
+Review our previous team page [Login.gov-adoption](https://github.com/department-of-veterans-affairs/va.gov-team/tree/f7447c688855c6ccf9e962ba143b225845cfac9a/products/login.gov-adoption) for historical research, design & identity-proofing implementation 
 
-Consolidated Dashboards for Credentials
-
-Modern Credential Communication Campaign
-
-Non-Veteran User Types at VA (NVUR)
-
-Deferred Identity Proofing
-
-Other Resources
-
-Cross Product Research Strategy; last updated April 2024
-
-VA Figma Workspace
-
-VA Mural Workspace
 
 ## Where to find us
 GitHub Label: [sign-in-transition](products/identity/login/sign-in-transition)
