@@ -70,7 +70,7 @@ Complexity:
 
 **FE**
 
-All VA design components use the shadow DOM for style encapsulation. Unit testing PACT Act code had its unit testing challenges as the shadow DOM cannot be targeted in a unit test.
+All VA design components use the shadow DOM for style encapsulation. Unit testing some Real-time banner code had its unit testing challenges as the shadow DOM cannot be targeted in a unit test.
 
 As a result, the bulk of situationUpdateBanner.jsx cannot be 80% unit tested, as it primarily consists of a <va-banner> component.
 
