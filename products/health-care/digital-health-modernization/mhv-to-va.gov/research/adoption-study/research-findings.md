@@ -185,15 +185,35 @@ _Note: participant has trouble with remembering how to spell/say My HealtheVet_
 
 ## Recommendations
 
-* Enhance the discoverability of My HealtheVet on VA.gov.
- (Supported by findings 1, 3, and 4)
-* Recommendation 2
-    * _Supporting evidence_
+1. **Address banner ineffectiveness**  
+(Supported by findings 1 and 2)
+ - Tailor banner content to align with the Veterans' immediate needs, such as highlighting benefits. 
+ - Consider refining the language in the banners' call-to-action to better distinguish between the My HealtheVet National Portal and My HealtheVet on VA.gov.
+ - When possible, reduce banner overload.
+ - Continue using clear, concise language to explain what the transition means for users in practical terms, such as changes in navigation, login processes, or new features.
 
+2. **Develop comprehensive communication materials about the transition,**
+(Supported by findings 2, 3, and 4)
+  - Focusing on practical details such as login procedures, workflow changes, and feature parity.
+
+3. **Clarify platform distinctions: The frequent conflation between the My HealtheVet National Portal and the VA.gov platform suggests a need for clearer visual and textual distinctions between the two. Consider revising branding, navigation, and messaging to highlight the differences and prevent confusion.
+
+Improving Navigation and Return Functionality:
+
+Improve Return Navigation: Participants struggled to navigate back to My HealtheVet on VA.gov. Enhance the platform's back navigation, possibly incorporating a prominent "Return to My HealtheVet" button or link on key pages. Consider user testing different return navigation options.
+
+Leveraging Existing Strengths:
+
+Maintain and Enhance Secondary Navigation: The secondary navigation was effective. Continue to maintain and potentially enhance this feature to further support user orientation and navigation within the portal. Gather user feedback on potential improvements.
+
+General Recommendation:
+
+Conduct Ongoing User Testing: User feedback is critical for iterative improvements. Implement a system for ongoing user testing and feedback collection to identify and address usability issues promptly.
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+- Review with the product team and align on recommendations
+- Share findings with stakeholders and other teams working on VA.gov
 
 
 ## Further research needed
