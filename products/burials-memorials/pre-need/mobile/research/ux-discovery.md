@@ -121,8 +121,25 @@ You’ll receive a confirmation email shortly. We’ll let you know by mail or p
     * Usability testing for form showed it was mostly easy to use
         * Uploading PDFs could be an issue
         * Choosing location and method of burial could cause pause or confusion
-* [Mobile team SME research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/SME-research)
-* [Mobile team claim status tool research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/claims/research%20review%20-%20claims%20status%20tool.md)
+* [2020 Mobile team SME research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/SME-research)       
+* [2023-05 Mobile team claim status tool research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/claims/research%20review%20-%20claims%20status%20tool.md)
+    * The research reviews veterans' behaviors, motivations, and pain points in tracking claims using VA systems, focusing on improving the mobile app's Claims Status Tool.
+   * Key goals include helping veterans stay informed, fostering trust in the system, and improving communication channels.
+   * Key insights
+      1. Veteran needs
+         * Veterans seek clarity on the claims process, including timelines, VA actions, and any required steps from them.
+         * They desire secure and efficient tools to reduce the frustration of navigating the complex VA system.
+      2. Common pain points
+         * **Lack of trust**: Information across VA platforms is inconsistent, leading to confusion and mistrust.
+         * **Poor transparency**: Claims progress is unclear, with no proactive notifications about status changes.
+         * **Ineffective communication**: Veterans struggle to get detailed case information and rely heavily on one-on-one support or word-of-mouth guidance.
+      3. Veteran behaviors
+         * Frequent status checks via multiple platforms due to uncertainty.
+         * Dependence on in-person visits or calls for detailed help due to insufficient app features.
+   * Recommendations for the mobile app
+     * Improve transparency by providing clear and updated claims timelines and detailed status information.
+     * Add features for real-time notifications of status changes and actionable items.
+     * Enhance communication through integrated chat support and better error handling.   
 
 
 ## Questions
