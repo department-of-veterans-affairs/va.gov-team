@@ -30,6 +30,10 @@
 - Ruben is still out, so we'll have updated sprint goals for R&D when he returns
 
 ## Sumary
+The release of the Lighthouse Migration for Veterans Evidence Document Upload went into production on December 3rd. This sprint we'll be monitoring it's progress and ramping up the rollout as necessary. 
+
+
+The team's main focus is to continue to deliver on 0781 Paper Sync iniative. We'll use time this sprint to do some quarterly planning to clearly define the plan for the number of resources need to support this effort. Once we have a plan we'll share with OCTO for review. 
 
 
 
@@ -40,5 +44,5 @@
 ## Notes
 - No need to prioritize any remediation work for the 0781 overflow issue for the upcoming sprint. Still considering tradeoffs + discussing with relevant parties in VBA
 - No DataDog monitoring improvements for supporting silent failures or remediation planned this sprint. We'll do more requirement gathering and planning with OCTO first. Some may come up that we can squeeze in if necessaray.
-- Disability apps compliant with the Front-end deployment pipeline changes for vets-website (due Feb 3, 2025) needs more discussion before we can plan
-- OCTO had some higher priority improvements that they wanted 
+- Disability apps compliant with the Front-end deployment pipeline changes for vets-website (due Feb 3, 2025) needs more discussion with Team TREX to plan this work together.
+- 
