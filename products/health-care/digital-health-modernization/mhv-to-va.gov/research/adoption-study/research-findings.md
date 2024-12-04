@@ -107,7 +107,7 @@ _2 Participants pointed to functionality (specifically Medical records):_
 
 ---
 
-### 3. Participants frequently conflated the My HealtheVet National Portal and My HealtheVet on VA.gov. 
+### 3. Even among those who could conceptualize the transition, participants often conflated the My HealtheVet National Portal with My HealtheVet on VA.gov.
 
 Despite the conceptual understanding of the transition and being able to articulate this transition, participants a persistent challenge in differentiating between the two My HealtheVet platforms among users.
 
@@ -129,7 +129,7 @@ Participants frequently described or demonstrated convoluted or roundabout paths
 
 ---
 
-### 5. Participants identified My HealtheVet on VA.gov as a familiar portal for healthcare, with most participants expressing positive views on the  updates.
+### 5. Participants identified My HealtheVet on VA.gov as a familiar portal for healthcare, with most participants expressing positive views on the  updates. 
 
 > _Supporting data: Quote here_
 
