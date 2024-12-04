@@ -164,10 +164,11 @@ _Note: participant has trouble with remembering how to spell/say My HealtheVet_
 
 ### 6. The secondary navigation proved effective in supporting both participant orientation and navigation amongst the various tools within the health portal.
 
-> _Supporting data: Quote here_
+9 of 10 participants used the secondary navigation to establish bearings and/or move between health tools. 
 
-> _Supporting data: Quote here_
+> "very fluid" - P9
 
+> "This does look like the newer version of things (looking at secondary navigation) This is the newer version because the top there. The icons, the style is different" - P12
 
 ## Additional Insights
 
