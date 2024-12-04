@@ -7,9 +7,17 @@
 ---
 <p>&nbsp;</p>
 
-## Moderator logistics
+## Moderator logistics 
 
-*Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
+### Day of the session
+- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
+Slack for real-time feedback from observers.
+- Mute your Slack/Teams/phone notifications.
+- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- Plan for sessions to be recorded
+<p>&nbsp;</p>
+
+<!-- *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
 
 *Mute your Slack notifications*
 
@@ -21,7 +29,7 @@
 
 *Check your [screensharing setup] and share permissions for participants.*
 
-*When the participant is ready, begin the session with the following intro*
+*When the participant is ready, begin the session with the following intro* -->
 
 ## Intro - 5 minutes
 
