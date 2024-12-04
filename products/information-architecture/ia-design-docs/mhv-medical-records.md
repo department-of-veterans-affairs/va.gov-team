@@ -19,7 +19,9 @@ Medical Records has several subdomains that will be launching incrementally to P
 2. Vaccines (December 2023) - DONE
 3. Care summaries & notes, Vitals (March 2024) - DONE
 4. Health conditions (May 2024) - DONE
-5. Lab and test results & settings - **In-process**
+5. Lab and test results (October 2024) - DONE
+6. Medical records settings (December 2024) - DONE
+7. Download all (Blue button report) - **In progress**
 
 ## <a name="map"></a>Page structure<br>
 Most up-to-date [sitemap can be found here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705462711175/25f9ef7b28ee707498d29d4a4d168304a33c0527?sender=uf94a77a19aaf687331c09367)
@@ -49,7 +51,7 @@ We are moving toward launching **labs & tests, settings** to Phase 0 (shown in g
 | > Health conditions detail   | /my-health/medical-records/conditions/1234/                 | < Back to Health conditions              | < Back to health conditions         | < Back to health conditions | Health Condition Details - Medical Records \| Veterans Affairs |
 | Vitals list                | /my-health/medical-records/vitals/                             | < Back to Medical records                | < Medical records          | VA.gov home > My HealtheVet > Medical records > Vitals | Vitals - Medical Records \| Veterans Affairs |
 | >Vital history            | /my-health/medical-records/vitals/[vital-name]-history/      | < Back to Vitals                         | < Back to vitals                   | < Back to vitals  | [Vital name] Details - Medical Records \| Veterans Affairs |
-| Medical Records Settings  | /my-health/medical-records/settings                            | < Back to Medical records                | < Medical records          | VA.gov home > My HealtheVet > Medical records > Settings | Settings - Medical Records \| Veterans Affairs |
+| Medical records settings  | /my-health/medical-records/settings/                            | < Back to Medical records                | < Medical records          | VA.gov home > My HealtheVet > Medical records > Medical records settings | Medical Records Settings - Medical Records \| Veterans Affairs |
 
 ### Vitals types
 Details pages for historical records of each vital type are linked from the Vitals list view page. Each of these vitals should have a corresponding URL keyword that matches the H1 of the page: 
@@ -74,11 +76,16 @@ Details pages for historical records of each vital type are linked from the Vita
     - Allergies
     - Health conditions
     - Vitals
-    - Settings
+    - Medical records settings
 
 ## <a name="notes"></a>Meetings notes and background info
 
 **Decision log:**
+- Download all (Blue Button) will have the URL: va.gov/my-health/medical-records/download/ once it is ready on staging
+- URLs that are any deeper than a details page must comply with PHI/PII concerns & anonymize/randomize any identification numbers that are exposed in the URL. These cannot reference actual drug, lab, pharmaceutical, or personalized data that can be deciphered easily.
+- Back breadcrumbs deeper than details pages must say <- Back only to prevent exposure of PHI in link text that could be captured by analytics tools 
+- Title tags on details pages or deeper must be generalized to prevent exposure of PHI in the text that could be captured by analytics tools 
+
 - identify phase when entry points should be implemented
   - In phase 0, the user will only be linked from a url in an email invite to the VA Medical Records landing page
   - In phase 0.5 (ETA September 2024), the experience will be accessible to 1% of Veterans on VA.gov, and we will incrementally increase this number over time, with the goal of 100% around late November 2024. We will not consider Medical Records to be in Phase 1 until 100% of Veterans can access the experience on VA.gov, and "try me" banners have been published in the Classic (National Portal) site directing users to try out the new experience.
