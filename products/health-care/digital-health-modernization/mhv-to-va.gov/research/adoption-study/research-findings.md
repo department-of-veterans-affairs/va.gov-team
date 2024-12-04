@@ -185,30 +185,28 @@ _Note: participant has trouble with remembering how to spell/say My HealtheVet_
 
 ## Recommendations
 
-1. **Address banner ineffectiveness**  
+1. **Address banner**  
 (Supported by findings 1 and 2)
  - Tailor banner content to align with the Veterans' immediate needs, such as highlighting benefits. 
  - Consider refining the language in the banners' call-to-action to better distinguish between the My HealtheVet National Portal and My HealtheVet on VA.gov.
  - When possible, reduce banner overload.
  - Continue using clear, concise language to explain what the transition means for users in practical terms, such as changes in navigation, login processes, or new features.
 
-2. **Develop comprehensive communication materials about the transition,**
+2. **Clarify platform distinctions**
 (Supported by findings 2, 3, and 4)
-  - Focusing on practical details such as login procedures, workflow changes, and feature parity.
+ - Consider revising the branding, naming conventions, and messaging to emphasize the distinctions between the My HealtheVet National Portal and My HealtheVet on VA.gov 
 
-3. **Clarify platform distinctions: The frequent conflation between the My HealtheVet National Portal and the VA.gov platform suggests a need for clearer visual and textual distinctions between the two. Consider revising branding, navigation, and messaging to highlight the differences and prevent confusion.
+3. **Make navigation a more consistent experience** 
+(Supported by finding 3)
+ - Consider standardizing the destination of links across the global header, authenticated menu, secondary navigation, and My VA to ensure consistency and reduce user confusion. 
 
-Improving Navigation and Return Functionality:
+4. **Streamline navigation back to My HealtheVet on VA.gov**
+(Supported by finding 4)
+ - Continue to improve the findability of My Healthevet on VA.gov
 
-Improve Return Navigation: Participants struggled to navigate back to My HealtheVet on VA.gov. Enhance the platform's back navigation, possibly incorporating a prominent "Return to My HealtheVet" button or link on key pages. Consider user testing different return navigation options.
-
-Leveraging Existing Strengths:
-
-Maintain and Enhance Secondary Navigation: The secondary navigation was effective. Continue to maintain and potentially enhance this feature to further support user orientation and navigation within the portal. Gather user feedback on potential improvements.
-
-General Recommendation:
-
-Conduct Ongoing User Testing: User feedback is critical for iterative improvements. Implement a system for ongoing user testing and feedback collection to identify and address usability issues promptly.
+5. **Maintain and enhance secondary navigation**
+(Supported by finding 6)
+- Continue to maintain and potentially enhance this feature to further support user orientation and navigation within the portal.
 
 ## Next Steps
 
@@ -218,7 +216,7 @@ Conduct Ongoing User Testing: User feedback is critical for iterative improvemen
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+No further research needed
 
 
 ## Appendix
