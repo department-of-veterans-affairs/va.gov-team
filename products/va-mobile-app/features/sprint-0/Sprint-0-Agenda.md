@@ -322,7 +322,7 @@ Actions
 
 
 
-* [Offline access & connectivity issues](https://docs.google.com/document/d/1j7UW1pc3gwNzsyUI7PDr_4bHxwSo17rFMBJkjUNYy9M/edit)  
+* [Offline access & connectivity issues](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/offline%20access#:~:text=..-,sprint%2D0%2Doffline%2Daccess%2Dconnectivity%2Dissues.md,-Create%20sprint%2D0)  
 * [Digital Decision Letters](https://docs.google.com/document/d/1BL2BCxwR5_Blmow-P-zY7GySG-Z0H3ChjMMArFuDhwM/edit#) (Kelly - save for last)
 * Rx stakeholder call prep (Meko)
     * Stakeholders
