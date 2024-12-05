@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: October 21, 2024
+Last updated by @tygindraux: December 5, 2024
 
 This document is for our design team to communicate field rules. This list is alphabetical.
 
