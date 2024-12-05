@@ -111,4 +111,4 @@ TBD
 
 ## Important Links
 
-[Getting Out/Transitioning - Desk Research](https://drive.google.com/drive/folders/12wskLdOQNDAi54U-c-k7mcSItoUbySKj?usp=share_link) 
+[Getting Out/Transitioning - Desk Research](desk-research/) 
