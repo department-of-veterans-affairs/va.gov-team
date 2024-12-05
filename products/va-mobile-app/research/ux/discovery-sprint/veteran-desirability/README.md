@@ -4,8 +4,8 @@ To explore the question of whether the VA should have a flagship mobile app, we 
 
 ## Research
 Our initial discovery into *Veteran Desirability* consisted of two activites broken into two phases: 
-- **Phase one:** [Card sorting](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/discovery-sprint/veteran-desirability/card-sorting)
-- **Phase two:** [Usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/discovery-sprint/veteran-desirability/usability-testing)
+- **Phase one:** [Card sorting](card-sorting)
+- **Phase two:** [Usability testing](usability-testing)
 
 ## Timeline: 
 
@@ -18,7 +18,7 @@ At the end of the discovery sprint, we had two bets about what Veterans desire i
 1. **Features:** Authenticated features are more valuable to Veterans than unauthenticated features.
 2. **Added Value:** A mobile application provides more value to Veterans than a mobile VA.gov experience because of native features like biometric login, camera and GPS.
 
-The next step is to validate these bets. See: [ux-research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research)
+The next step is to validate these bets. See: [research/ux](research/ux)
 
 
 
