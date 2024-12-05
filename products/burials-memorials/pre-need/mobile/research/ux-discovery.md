@@ -153,19 +153,32 @@ You’ll receive a confirmation email shortly. We’ll let you know by mail or p
    * Key goals include helping veterans stay informed, fostering trust in the system, and improving communication channels.
    * Key insights
       * **Veteran needs**
-         * Veterans seek clarity on the claims process, including timelines, VA actions, and any required steps from them.
+         * Veterans seek clarity on the claims process, including timelines, VA actions, and any required steps from them. 
          * They want secure and efficient tools to reduce the frustration of navigating the complex VA system.
       * **Common pain points**
-         * **Lack of trust**: Information across VA platforms is inconsistent, leading to confusion and mistrust.
-         * **Poor transparency**: Claims progress is unclear, with no proactive notifications about status changes.
-         * **Ineffective communication**: Veterans struggle to get detailed case information and rely heavily on one-on-one support or word-of-mouth guidance.
+         * **Lack of trust and transparency**:
+            * Information across VA platforms is inconsistent, leading to confusion and mistrust.
+            * Veterans do not know where they are in the claims process—Timeline for benefits decision not explained, back & forth status is confusing.
+            * Some Veterans **have anxiety about the claims process** and **check their claim in the app multiple times a day** to see if their claim status has changed.
+            * Veterans **check the status of their claims frequently** and through multiple channels in the **hope that they can find better or more up-to-date information**.
+            * Claims progress is unclear, with no proactive notifications about status changes.
+         * **Disempowerment**:
+            * Veterans **don’t have a way to quickly see whether an active claim has changed status** (without tapping down into the Claim details each time)
+            * **There is no current method [on VA.gov or in the app] for proactively notifying Veterans of changes to their status**
+            * Keeping track of relevant claims is difficult for Veterans who have more claims with greater claim complexity. It's **difficult for Veterans to identify what's active or relevant in long lists** of claims and appeals.
+            * **The VA mobile app sometimes shows information that’s more of a dead-end than helpful.**
+               * “...there is very little information you can actually view.” Example: Showing name of their representative for VA claims but offering no way to contact them. “Why are you going to show me information but I can’t act on it?”
+            * **Uploading a file to a claim was… not cited as a top priority by any participants in co-design.**
+               * Although this feature did not rise to the top in co-design, **it… was seen as a time saver,** especially a time saver **that might save additional trips** to a VA facility for document.
+            * Participants said **claims support chat in an app** is useful because it would save time from having to track information from VA via phone and bring more transparency to a frustrating process.   
+         * **Ineffective communication**:
+            * Veterans struggle to get detailed case information and rely heavily on one-on-one support or word-of-mouth guidance. They often call VA or VSO staff or visit in person to get the detail they want, as typically the call-center representatives can't access that information.
+            * They want to talk with VSOs, Claims Staff, and other VA service providers when they have questions or need help.
+They seek out in-person discussions about their case to get questions answered (more quickly and thoroughly than online).
+Veterans also rely on their peers, friends and family for guidance in navigating the benefits process.
       * **Veteran behaviors**
          * Frequent status checks via multiple platforms due to uncertainty.
          * Dependence on in-person visits or calls for detailed help due to insufficient app features.
-   * Recommendations for the mobile app
-     * Improve transparency by providing clear and updated claims timelines and detailed status information.
-     * Add features for real-time notifications of status changes and actionable items.
-     * Enhance communication through integrated chat support and better error handling.   
 
 
 ## Questions
