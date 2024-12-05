@@ -105,7 +105,7 @@ Coming soon!
 ## Content considerations
 
 ### Directions for updating uneditable information
-Directions for updating information that can’t be updated online vary. Instructions should be updated based on the context of the form or application used. General guidelines are:
+Directions for changing information that can’t be updated online vary. Instructions should be updated based on the context of the form or application used. General guidelines are:
 
 - If it’s **benefits**-related, include the content that has the VA benefits hotline. For example:
 > **Note:** To protect your personal information, we don't allow online changes to your name, date of birth, or Social Security number. If you need to change this information, call the VA benefits hotline at 800-827-1000 (TTY: 711), Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
@@ -116,6 +116,8 @@ Directions for updating information that can’t be updated online vary. Instruc
 > **Note:** To protect your personal information, we don't allow online changes to your name, date of birth, or Social Security number. If you need to change this information, call your local VA medical center ([find a VA location tool](https://www.va.gov/find-locations/)) to get help changing your name on file with VA. Ask for the eligibility department.
 >
 > [Find more detailed instructions for how to change your legal name (opens in new tab)](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/)
+
+Teams must confirm with SMEs that instructions are accurate for the way their specific form populates information. 
 
 ## Research findings
 The Authenticated Experience Design Patterns team [conducted user research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill) in late 2024 about how users prefer to see their editable and non-editable information, and how they prefer to be informed about how to edit it. The majority of participants want updates to save to their VA.gov profile, but some also want the ability to choose where the data saves, in the case that they are using a temporary address or other temporary situation. 
