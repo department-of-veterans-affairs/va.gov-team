@@ -37,11 +37,6 @@
 #### We'll know we've achieved the goal when:
 - Figma mocks are approved by the team and OCTO stakeholders.
 
-### Goal 7: Discovery: Design how Veterans will check the status of their submission on CST. What might that experience be like?
-
-#### We'll know we've achieved the goal when:
-- CST design patterns and constraints documented, initial mocks created if needed, technical feasibility and timeline assessed, implementation approach agreed upon.
-
 ## Sprint 11 Goals
 Nov 20 - Dec 3, 2024
 
