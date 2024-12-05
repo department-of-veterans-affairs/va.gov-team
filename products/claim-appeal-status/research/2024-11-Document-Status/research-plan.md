@@ -35,7 +35,7 @@ Our research will reveal whether real-time status updates are helpful to Veteran
 * Is the "In progress" state useful - do they understand that the document hasn't been completely uploaded to their claim?		
 * Do Veterans make the connection between the email content and the "In progress" states?		
 * Do Veterans understand what to do after seeing the email and in-app alerts for failed uploads?
-* Do Veterans feel confident in VA's ability to properly process their mailed-in documents.
+* Do Veterans feel confident in VA's ability to properly process their mailed-in documents?
 
 ### Hypothesis
 
