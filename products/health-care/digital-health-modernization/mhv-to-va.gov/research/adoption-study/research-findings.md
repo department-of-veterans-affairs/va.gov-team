@@ -82,7 +82,7 @@ Among the ten participants, none engaged with the "Try Me" banners promoting My 
 
 > "I have all these banners here and I tend to ignore them." - P9
 
-> "And then at once point, it's giving you the option to cancel your MHV. But if you do that you can't get into any of this stuff . So why are they doing that?" - P12
+> "And then at one point, it's giving you the option to cancel your MHV. But if you do that you can't get into any of this stuff . So why are they doing that?" - P12
 
 Multiple banners        
 |:-------------------------:|
