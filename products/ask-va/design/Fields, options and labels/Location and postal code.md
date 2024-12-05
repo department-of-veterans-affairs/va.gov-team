@@ -1,29 +1,39 @@
 # Location of residence and postal code
 
-Last updated by @tygindraux: September 3, 2024
+Last updated by @tygindraux: December 5, 2024
 
-**Jump to:**
+**In this document:**
 - [Contact preference rules](#contact-preference)
 - [Guardianship and VR&E rules](#guardianship-and-vre)
   - [Education > VR&E rules](#education--vre)
 - [Health care rules](#health-care)
 - [Pages in Figma](#pages-in-figma)
 
-## Contact preference
+-------
+
+# Contact preference
 
 When we require the location of residence and postal code of the **submitter**, we **first** check which contact preference they choose.
 
-- `IF contact preference =` Phone `OR` Email
+`IF contact preference =` Phone `OR` Email
   - Then: Continue to require location of residence and/or postal code.
-- `ELSE IF contact preference =` U.S. Mail
+`ELSE IF contact preference =` U.S. Mail
   - Skip collecting location of residence and postal code separately. They're collected in the **Address component** instead.
 
-## Guardianship and VR&E
+-------
+
+# Guardianship and VR&E
+
 `IF CATEGORY`
 - Guardianship, custodianship or fiduciary issues
 - Veteran Readiness and Employment
 
 `AND TOPIC ≠` Other
+
+**In this section:**
+- [About myself]()
+- [About someone else]()
+- [General question]()
 
 ### About myself
 
@@ -150,13 +160,20 @@ When we require the location of residence and postal code of the **submitter**, 
 
 We require location of residence and postal code so we can route to the correct queue.
 
-## Education > VR&E
+-------
 
-This works the same as above, because the VR&E topic should be treated just like the VR&E category.
+# Education > VR&E
+
+**This works the same as above, because the VR&E topic should be treated just like the VR&E category.**
 
 `IF CATEGORY` = Education benefits and work study
 
 `AND TOPIC` = Veteran Readiness and Employment
+
+**In this section:**
+- [About myself]()
+- [About someone else]()
+- [General question]()
 
 ### About myself
 
@@ -170,7 +187,6 @@ This works the same as above, because the VR&E topic should be treated just like
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
 `THEN` **require submitter's (Veteran's) postal Code**
-
 
 | `AND`                | `AND`                              | `THEN`                                          | `&& ALSO IF Residence =` | `THEN`                                   |
 | ------------------ | -------------------------------- | --------------------------------------------- | ---------------------- | -------------------------------------- |
@@ -284,10 +300,17 @@ This works the same as above, because the VR&E topic should be treated just like
 
 We require location of residence and postal code so we can route to the correct queue.
 
-## Health care
+-------
+
+# Health care
 
 `IF CATEGORY`
 - Health care
+
+**In this section:**
+- [About myself]()
+- [About someone else]()
+- [General question]()
 
 ### About myself
 
