@@ -3,7 +3,7 @@
 Last updated by @tygindraux: December 5, 2024
 
 **In this document:**
-- [1. Contact preference rules](#contact-preference)
+- [1. General rules](#general-rules)
 - [2. Guardianship and VR&E rules](#guardianship-and-vre)
 - [3. Education > VR&E rules](#education--vre)
 - [4. Health care rules](#health-care)
@@ -11,20 +11,25 @@ Last updated by @tygindraux: December 5, 2024
 
 -------
 
-# 1. Contact preference
+# 1. General rules
 
-When we require the location of residence and postal code of the **submitter**, we **first** check which contact preference they choose.
+Most categories and topics do not require a location of residence or a postal code, unless someone chooses to be contacted by mail.
 
-`IF contact preference =` Phone `OR` Email
-  - Then: Continue to require location of residence and/or postal code.
-`ELSE IF contact preference =` U.S. Mail
-  - Skip collecting location of residence and postal code separately. They're collected in the **Address component** instead.
+However, there are a few scenarios where we collect location of residence and/or postal code for routing or other informational purposes. These are:
+- `IF CATEGORY =` Guardianship, custodianship or fiduciary issues `AND TOPIC ≠` Other
+- `IF CATEGORY =` Veteran Readiness and Employment `AND TOPIC ≠` Other
+- `IF CATEGORY` = Education benefits and work study `AND TOPIC =` Veteran Readiness and Employment
+- `IF CATEGORY` = Health care
+
+(These categories and topics have different rules, described below in detail.)
+
+In general, when we require a location of residence and/or a postal code for the **submitter**, we **first** check which contact preference they choose. If their contact preference is phone or email, then we carry on asking for their location of residence and/or postal code. **But**, if their contact preference is U.S. mail, then we skip collecting their location of residence and/or postal code separately. They're collected in on the mailing address page instead.
 
 -------
 
 # 2. Guardianship and VR&E
 
-`IF CATEGORY`
+`IF CATEGORY =`
 - Guardianship, custodianship or fiduciary issues
 - Veteran Readiness and Employment
 
