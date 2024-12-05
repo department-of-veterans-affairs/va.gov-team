@@ -17,4 +17,4 @@ I chose these apps because health, insurance, and utility apps emerged during th
 ![analysis image](Navigation-Comparative-Analysis.png)
 
 # Takeaways for MVP mobile app
-Using these references plus research from Nielsen Norman, we have formed a recommendation for MVP app navigation [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/ux-decisions.md#1-we-think-we-should-use-a-bottom-toolbar-and-we-have-designed-a-navigation-ui).
+Using these references plus research from Nielsen Norman, we have formed a recommendation for MVP app navigation [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/significant-ux-decisions.md#1-we-think-we-should-use-a-bottom-toolbar-and-we-have-designed-a-navigation-ui).
