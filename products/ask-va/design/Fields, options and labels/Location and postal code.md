@@ -3,15 +3,15 @@
 Last updated by @tygindraux: December 5, 2024
 
 **In this document:**
-- [Contact preference rules](#contact-preference)
-- [Guardianship and VR&E rules](#guardianship-and-vre)
-  - [Education > VR&E rules](#education--vre)
-- [Health care rules](#health-care)
-- [Pages in Figma](#pages-in-figma)
+- [1. Contact preference rules](#contact-preference)
+- [2. Guardianship and VR&E rules](#guardianship-and-vre)
+- [3. Education > VR&E rules](#education--vre)
+- [4. Health care rules](#health-care)
+- [5. Pages in Figma](#pages-in-figma)
 
 -------
 
-# Contact preference
+# 1. Contact preference
 
 When we require the location of residence and postal code of the **submitter**, we **first** check which contact preference they choose.
 
@@ -22,7 +22,7 @@ When we require the location of residence and postal code of the **submitter**, 
 
 -------
 
-# Guardianship and VR&E
+# 2. Guardianship and VR&E
 
 `IF CATEGORY`
 - Guardianship, custodianship or fiduciary issues
@@ -162,7 +162,7 @@ We require location of residence and postal code so we can route to the correct 
 
 -------
 
-# Education > VR&E
+# 3. Education > VR&E
 
 **This works the same as above, because the VR&E topic should be treated just like the VR&E category.**
 
@@ -302,7 +302,7 @@ We require location of residence and postal code so we can route to the correct 
 
 -------
 
-# Health care
+# 4. Health care
 
 `IF CATEGORY`
 - Health care
@@ -426,7 +426,9 @@ We require postal code because these VHA offices are national but they may need 
 
 We don't require postal code when we collect VA medical center in order to reduce submitter burden. Also, medical facility is more specific and if it's still necessary, an agent can get their postal code through MPI.
 
-## Pages in Figma
+-------
+
+# 5. Pages in Figma
 
 ### Submitter
 - If they choose contact by mail: [Your mailing address](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1224-120750)
