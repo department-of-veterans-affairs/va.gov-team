@@ -436,6 +436,8 @@ We require postal code because these VHA offices are national but they may need 
 We don't require postal code when we collect VA medical center in order to reduce submitter burden. Also, medical facility is more specific and if it's still necessary, an agent can get their postal code through MPI.
 
 -------
+-------
+
 
 # 5. Pages in Figma
 
