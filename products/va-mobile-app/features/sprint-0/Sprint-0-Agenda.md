@@ -206,7 +206,7 @@ The Sprint 0 meeting is a time to do the following:
 * Should we move Sprint 0 meetings to be bi-weekly?
     * Maybe, let’s confirm with Chris
 * [PACT Act](https://docs.google.com/document/d/1ILkHApCHM2ZiEV-SqZhXw36TPNRYdpTMRNpcLkqrAXk/edit#) (Kelly)
-* [Improving Profile/Contact Information - Reducing Barriers to Participation](https://docs.google.com/document/d/1D3TkbTQ3sOpMrnERB2zGPT--islOW5qEw-sK0iHK1Rc/edit)  
+* [Improving Profile/Contact Information - Reducing Barriers to Participation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/%20reducing%20barriers%20in%20form%20inputs-sprint-0.md)  
 
 
 ## 3/1/23
@@ -243,7 +243,8 @@ The Sprint 0 meeting is a time to do the following:
 
 
 
-* [Profile fail error handling](https://docs.google.com/document/d/1PhQSuW_cwyVbf-LVO7syg8q7EazKtcOhR-LHXnWkZ4Y/edit?pli=1#) 
+* [Profile fail error handling](
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/profile-fail-error-handling.md) 
     * 2 potential workstreams
         * Improve the copy relevance 
         * BE improve stability of profile endpoint
