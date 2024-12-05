@@ -14,8 +14,8 @@ The question of **how** the VA should build a mobile app focused on *Technical F
 In this folder you will find documentation from the *Veteran Desirability* and *Technical Feasibility* research, weekly findings and final reports for each track of research.
 
 - [Veteran Desiriability documentation](veteran-desirability/)
-  - [Final report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/discovery-sprint/veteran-desirability/usability-testing/VA%20Mobile%20App%20Discovery_%20Usability%20test%20report.pdf)
-- [Technical Feasibility documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/discovery-sprint/technical-feasibility)
-  - [Final report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/discovery-sprint/technical-feasibility/VA%20Mobile%20App%20Discovery%20-%20Technical%20Feasibility%20Report.pdf)
-- [Weekly findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/discovery-sprint/output%2Boutcomes)
+  - [Final report](veteran-desirability/usability-testing/VA%20Mobile%20App%20Discovery_%20Usability%20test%20report.pdf)
+- [Technical Feasibility documentation](technical-feasibility/)
+  - [Final report](technical-feasibility/VA%20Mobile%20App%20Discovery%20-%20Technical%20Feasibility%20Report.pdf)
+- [Weekly findings](output%2Boutcomes/)
  
