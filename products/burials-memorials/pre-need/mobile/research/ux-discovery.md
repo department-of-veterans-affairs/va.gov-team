@@ -149,7 +149,7 @@ You’ll receive a confirmation email shortly. We’ll let you know by mail or p
       *  Integrate findings into feature development for claims, direct deposit, facility locator, and profile tools.
       *  Collaborate with other teams on notifications, APIs, and data centralization for improved functionality.      
 * [2023-05 Mobile team claim status tool research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/claims/research%20review%20-%20claims%20status%20tool.md)
-   * The research reviews veterans' behaviors, motivations, and pain points in tracking claims using VA systems, focusing on improving the mobile app's Claims Status Tool.
+   * The research reviews veterans' behaviors, motivations, and pain points in tracking claims using VA systems, focusing on improving the mobile app's Claims Status Tool. **Some links within this research linked above are not viewable (private Google Docs).**
    * Key goals include helping veterans stay informed, fostering trust in the system, and improving communication channels.
    * Key insights
       * **Veteran needs**
