@@ -1,18 +1,18 @@
 # Heuristic Analysis Overview
 
 ## Synthesis
-- [See PDF of Mural here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/Heuristic%20Analysis%20Synthesis.pdf)
-- [VA App Ratings Inventory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/ratings-data.md)
+- [See PDF of Mural here](heuristic%20Analysis%20Synthesis.pdf)
+- [VA App Ratings Inventory](ratings-data.md)
 
 ## Individual web and mobile app heuristics: 
-- [Annie App](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/Annie-app.md)
-- [MHV](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/MHV.md)
-- [RX Refill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/RX-refill.md)
-- [Ask a Pharmacist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/ask-a-pharmacist.md)
-- [ChampVA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/champ-VA.md)
-- [eBenefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/eBenefits-on-mobile.md)
-- [Vets App 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/vets-app-1.md)
-- [Vets App 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/vets-app-2.md)
+- [Annie App](Annie-app.md)
+- [MHV](MHV.md)
+- [RX Refill](RX-refill.md)
+- [Ask a Pharmacist](ask-a-pharmacist.md)
+- [ChampVA](champ-VA.md)
+- [eBenefits](eBenefits-on-mobile.md)
+- [Vets App 1](vets-app-1.md)
+- [Vets App 2](vets-app-2.md)
 
 
 ## Heuristic Analysis Template
