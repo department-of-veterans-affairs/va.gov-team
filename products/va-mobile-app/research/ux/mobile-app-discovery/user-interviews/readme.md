@@ -1,6 +1,5 @@
 # Topline Summary of May 2020 Research Findings
 
-
 **Key Research Questions**
 
 1. What are all the ways Veterans manage their VA benefits (web sites, mobile apps, phone, in-person visits, VSO, etc.)?
