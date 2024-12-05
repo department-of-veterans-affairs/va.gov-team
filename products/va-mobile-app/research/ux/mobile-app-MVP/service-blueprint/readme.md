@@ -8,7 +8,7 @@ The Service Blueprint outlines the features we are delivering in the MVP and the
 
 As of August 2020 the Service Blueprint is still a living artifact. As decisions about the MVP feature set are finalized, updated will be made and [reflected here](https://www.figma.com/proto/RqG1G4ClpWbd7a09ZtLoxU/Mobile-App-Service-Blueprint?node-id=4%3A225&scaling=min-zoom). The Service Blueprint is an output of conversations with SMEs, tech discovery, and user interviews. Below is a screenshot of the Service Blueprint as of August 12.
 
-![Service Blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/service-blueprint/Service-Blueprint-August-2020.png)
+![Service Blueprint](Service-Blueprint-August-2020.png)
 
 ## Outstanding questions
 
