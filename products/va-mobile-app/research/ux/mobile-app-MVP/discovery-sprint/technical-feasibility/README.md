@@ -22,7 +22,7 @@ At the end of the discovery sprint, we had three bets about how the VA could bui
 2. **Login:** Login can be accomplished by enabling the VA.gov-centric part of vets-api to accept OAuth
 3. **vets-api:** Versioning the existing vets-api is the most sustainable strategy to ensure reuse by mobile clients
 
-The next step is to validate these bets. See: [tech-research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/tech-research)
+The next step is to validate these bets. See: [research/engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/engineering)
 
 
 
