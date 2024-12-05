@@ -11,20 +11,20 @@ Research readout: [Final Report](final%20report.md) \
  \
 **Jump to:** \
  \
-[Hypothesis and conclusions](Mural%20Board%20for%20Synthesis.md)
+[Hypothesis and conclusions](Research Findings.md#hypotheses-and-conclusions)
 
  
-[Key findings](Mural%20Board%20for%20Synthesis.md)
+[Key findings](Research Findings.md#key-findings)
 
 
 ### 
-[Recommendations](Mural%20Board%20for%20Synthesis.md)
+[Recommendations](Research Findings.md#recommendations-and-next-steps)
  
-[Who we talked to](Mural%20Board%20for%20Synthesis.md)
+[Who we talked to](Research Findings.md#who-we-talked-to)
 
 
 ### 
-[Further research needed](Mural%20Board%20for%20Synthesis.md)
+[Further research needed](Research Findings.md#further-research-needed)
 
 
 ## **Background**
