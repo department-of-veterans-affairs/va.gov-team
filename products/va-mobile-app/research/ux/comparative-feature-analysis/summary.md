@@ -16,7 +16,7 @@ We undertook an audit of native mobile apps of all kinds to answer the following
 | What we learned | In the **Chase** app, since a majority of features are sensitive things like bank balances, the home screen is biometric sign in & users need to log in even to use features that don't require auth, like location finder. In the **NYT app**, the aunauth state affords readers mostly the same experience. Because being signed in isn’t as central to the UX, things aren’t hidden behind it. Users hit a paywall only when they've consumed a certain amount of articles. | 
 | Takeaway | Because our app is focused on Veterans who are already engaged with VA and our features are focused on delivering them personalized information, we should require authentication to use the app while making VCL and Facility Locator accessible from the sign in page. |
 
-![Image GruhbHub and Doordash](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/Tracking-Status.png)
+![Image GruhbHub and Doordash](screenshots/Tracking-Status.png)
 | **VA feature applicability** | Tracking a status | 
 |:---|:---|
 | Apps we looked at | GrubHub, Door Dash, Amazon | 
