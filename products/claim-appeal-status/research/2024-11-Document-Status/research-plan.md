@@ -78,7 +78,7 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: Rocio De Santiago
-* Date and time of pilot session: Jan 6, 2024 Time: TBD
+* Date and time of pilot session: Jan 6, 2024 at 11 AM
 
 ### Research sessions
 * Planned dates of research: Jan. 7, 2024
