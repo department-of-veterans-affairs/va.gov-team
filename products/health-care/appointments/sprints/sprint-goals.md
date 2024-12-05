@@ -15,7 +15,6 @@
 - **Zero silent Failures**
     - [[Spike] - Setup DataDog to monitor Flipper feature toggles#96953](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96953)
 - **Cancel OH Appointments**
-    - 
 - **Direct Booking OH Appointments**
     - 🟩 [Update Facility Configurations Mock#96142](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96142)
     - 🟩 [Add patient relationship endpoint service and mocks#89641]([https://https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96142](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89641)
