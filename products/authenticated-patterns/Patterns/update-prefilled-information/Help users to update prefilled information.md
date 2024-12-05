@@ -112,11 +112,6 @@ Directions for changing information that can’t be updated online vary. Instruc
 > 
 > [Find more detailed instructions for how to change your legal name (opens in new tab)](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/)
 
-- If it’s **health**-related, include the content that has the VA benefits hotline _and_ the content to contact your local medical center.
-> **Note:** To protect your personal information, we don't allow online changes to your name, date of birth, or Social Security number. If you need to change this information, call your local VA medical center ([find a VA location tool](https://www.va.gov/find-locations/)) to get help changing your name on file with VA. Ask for the eligibility department.
->
-> [Find more detailed instructions for how to change your legal name (opens in new tab)](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/)
-
 Teams must confirm with SMEs that instructions are accurate for the way their specific form populates information. 
 
 ## Research findings
