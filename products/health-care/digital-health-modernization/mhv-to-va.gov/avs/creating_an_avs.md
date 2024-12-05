@@ -15,6 +15,7 @@
 - Under the Procedures tab, select a procedure
 - Enter Vitals & other information as desired
 - Click the Refresh Document button to ensure your changes are present
+
 ![image](https://github.com/user-attachments/assets/b2acccf2-125d-4895-8403-77ac9c843513)
 - Select Print -> Download PDF to download a copy and make the AVS available to VA.gov
 ![image](https://github.com/user-attachments/assets/5d41fb53-8b82-4784-be60-8f8610999780)
