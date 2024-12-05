@@ -161,6 +161,7 @@ You’ll receive a confirmation email shortly. We’ll let you know by mail or p
             * Veterans do not know where they are in the claims process—Timeline for benefits decision not explained, back & forth status is confusing.
             * Some Veterans **have anxiety about the claims process** and **check their claim in the app multiple times a day** to see if their claim status has changed.
             * Veterans **check the status of their claims frequently** and through multiple channels in the **hope that they can find better or more up-to-date information**.
+            * The claims process isn’t linear (and **seeing a status go “backwards” caused anger for users**).
             * Claims progress is unclear, with no proactive notifications about status changes.
          * **Disempowerment**:
             * Veterans **don’t have a way to quickly see whether an active claim has changed status** (without tapping down into the Claim details each time)
