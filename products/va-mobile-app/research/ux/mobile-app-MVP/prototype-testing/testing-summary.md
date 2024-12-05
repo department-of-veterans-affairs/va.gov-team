@@ -10,7 +10,7 @@ June 12, 2020
 
 Two discovery sprints were done from March to May 2020 to understand Veteran desirability for a VA mobile app. 
 
-In the March 2020 discovery sprint ([view research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/discovery-sprint/veteran-desirability/usability-testing/VA%20Mobile%20App%20Discovery_%20Usability%20test%20report.pdf)) two bets were made by the team. First, that authenticated features are more valuable to Veterans than unauthenticated features. Second, that a mobile application provides more value to Veterans than a mobile VA.gov experience. In the May 2020 discovery effort ([view research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/user-interviews/research-summary.md)),  the team focused on learning about Veteran interactions with VA, pain points, mobile behaviors, and desire for a VA mobile app. 
+In the March 2020 discovery sprint ([view research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/mobile-app-MVP/discovery-sprint/veteran-desirability/usability-testing/VA%20Mobile%20App%20Discovery_%20Usability%20test%20report.pdf)) two bets were made by the team. First, that authenticated features are more valuable to Veterans than unauthenticated features. Second, that a mobile application provides more value to Veterans than a mobile VA.gov experience. In the May 2020 discovery effort ([view research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/mobile-app-MVP/user-interviews/research-summary.md)),  the team focused on learning about Veteran interactions with VA, pain points, mobile behaviors, and desire for a VA mobile app. 
 
 Using insights from these prior studies, the June 8-10, 2020 research sessions focused on:  
 
@@ -21,10 +21,10 @@ Using insights from these prior studies, the June 8-10, 2020 research sessions f
    - [View interactive prototype](https://www.figma.com/proto/gUvALOW6hmAcWRwpJKCumq/VA-Mobile-Concept-%E2%80%93-VASU-v2?node-id=471%3A0&scaling=scale-down)
 
 **(L) Co-design exercise template, (R) interactive prototype home screen**
-![Image of testing stimuli](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/prototype-testing/testing-stimuli.png)
+![Image of testing stimuli](testing-stimuli.png)
 
 **Example of completed co-design exercise**
-![Image of completed codesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/prototype-testing/example-completed-codesign.png)
+![Image of completed codesign](example-completed-codesign.png)
 
 
 
