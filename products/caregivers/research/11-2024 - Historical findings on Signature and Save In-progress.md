@@ -34,7 +34,7 @@
 ![image](https://github.com/user-attachments/assets/cb0e3fb1-f3ba-463c-92ab-7a9c7e7edb26)
 
 ![image](https://github.com/user-attachments/assets/243da927-c6b4-4f3e-8b5f-3ee228ac3e37)
-
+- Note on the above "Roadmap": Workflow B was never implemented
 ---
 
 ## Save-In-Progress for 10-10CG
