@@ -61,12 +61,12 @@
     * Could we surface if a pre-need burial claim has been *started* but has not yet been submitted? Thinking we could link to VA.gov if we’re not building this process in the app
 * User goal [from Pre need README-2023.md]: Received an eligibility determination within 45 days.
     * What is the current eligibility determination timeframe?
- * Consideration of adding application form into app (via Slack thread by Ryan)
+ * **Consideration of adding application form into app** [(via Slack thread in #mobile-feature-support-private)](https://dsva.slack.com/archives/C07S7TJRK0B/p1733243370833309)
     * there are def other pseudo-forms that will live in the app (eg requesting travel pay reimbursement is technically a form as it has an OMB number, but also things like the check-in flow for health care appointments which is not a "form" proper, but has many form elements). Some already do (profile things are form-like).
    * users shouldn't (and I hypothesis don't) have to care if its really a form or not—they should just be able to complete the task and we help guide them
    * because there are other experiences in the app that do have form elements, we should be thinking about reusability, consistency, documentation, etc
    * one of the rubrics we have for deciding on what tasks should or should not be in the app is repeatability. if this is a one-off form, that might sway our decision
-* If implementing the form via a web view (via Slack thread in #va-mobile-app)
+* **If implementing the form via a web view** [(via Slack thread in #va-mobile-app)](https://dsva.slack.com/archives/C018V2JCWRJ/p1733259071601459)
    * Hide the header, breadcrumbs, nav, and footer
    * Additional things to consider
       * forward/back browser buttons (when need)
