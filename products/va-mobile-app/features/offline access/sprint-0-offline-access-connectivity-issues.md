@@ -26,7 +26,7 @@ Native mobile apps are positioned to overcome this lack of connectivity in a way
 
 
 1. A limited functionality offline state or a “low data” version of the app is available when service is not good or battery is low.<sup>5</sup>
-2. Mission critical information is available offline (example: the State Farm app makes the user’s insurance card available offline, important if/when a driver gets into an accident—what’s the VA Mobile app’s equivalent?).  \
+2. Mission critical information is available offline (example: the State Farm app makes the user’s insurance card available offline, important if/when a driver gets into an accident—what’s the VA Mobile app’s equivalent?). 
 
 1. [Mobile Technology and Home Broadband 2021 | Pew Research Center](https://www.pewresearch.org/internet/2021/06/03/mobile-technology-and-home-broadband-2021/) 
 2. [How Broadband Access Advances Systemic Equality | News & Commentary | American Civil Liberties Union](https://www.aclu.org/news/privacy-technology/how-broadband-access-hinders-systemic-equality-and-deepens-the-digital-divide)
@@ -55,9 +55,9 @@ Native mobile apps are positioned to overcome this lack of connectivity in a way
             5. Disability rating “You do not have a combined disability on record”
             6. Webviews:  standard “error loading page - internet connection appears to be offline” message
     2. **User is signed in & app is in background** OR **user is not signed in** when connectivity is lost
-        4. Allows access to the Veterans Crisis Line information
-        5. Sign in doesn’t work
-        6. Find a VA location shows a standard “error loading page - internet connection appears to be offline” message
+        1. Allows access to the Veterans Crisis Line information
+        2. Sign in doesn’t work
+        3. Find a VA location shows a standard “error loading page - internet connection appears to be offline” message
 
 
 ### Pain Points
