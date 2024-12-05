@@ -7,24 +7,24 @@ Date: July 2023
  \
 Liz Straghalis ([Liz.Straghalis@adhocteam.us](mailto:Liz.Straghalis@adhocteam.us)), Greta Optz ([Greta.Optz@adhocteam.us](mailto:Greta.Optz@adhocteam.us)) \
  \
-Research readout: [Final Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/final%20report.md) \
+Research readout: [Final Report](final%20report.md) \
  \
 **Jump to:** \
  \
-[Hypothesis and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Mural%20Board%20for%20Synthesis.md)
+[Hypothesis and conclusions](Mural%20Board%20for%20Synthesis.md)
 
  
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Mural%20Board%20for%20Synthesis.md)
+[Key findings](Mural%20Board%20for%20Synthesis.md)
 
 
 ### 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Mural%20Board%20for%20Synthesis.md)
+[Recommendations](Mural%20Board%20for%20Synthesis.md)
  
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Mural%20Board%20for%20Synthesis.md)
+[Who we talked to](Mural%20Board%20for%20Synthesis.md)
 
 
 ### 
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Mural%20Board%20for%20Synthesis.md)
+[Further research needed](Mural%20Board%20for%20Synthesis.md)
 
 
 ## **Background**
@@ -223,16 +223,16 @@ The team will consider ways to explore the value the mobile app might have in he
 
 ## **Appendix**
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Plan.md)
+[Research plan](Research%20Plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Conversation%20Guide.md)
+[Conversation guide](Conversation%20Guide.md)
 
-[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Session%20Notes)
+[Interview transcripts](/Session%20Notes)
 
 
 ### **Tools used for Synthesis**
 
-[Link to Mural Board for Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Mural%20Board%20for%20Synthesis.md)
+[Link to Mural Board for Synthesis](Mural%20Board%20for%20Synthesis.md)
 
 ### **Secondary research**
 
