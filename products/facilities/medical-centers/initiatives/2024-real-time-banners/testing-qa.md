@@ -61,10 +61,9 @@ Complexity:
 
 **Unit Tests under 80%**
 
-[As of 12-4-24]
+[As of 12-5-24]
 
 **BE**
-- modules/banners/app/sidekiq/banners/update_all_job.rb
 - modules/banners/lib/banners/updater.rb 
 - modules/banners/lib/banners.rb
 
@@ -78,11 +77,11 @@ As a result, the bulk of situationUpdateBanner.jsx cannot be 80% unit tested, as
 - situationUpdateBanner.jsx
 
 #### Unit Test Coverage Statistics (BE)
-[As of 12-4-24]
+[As of 12-5-24]
 
 | File                           | % Covered | Lines  | Relevant Lines | Lines Covered | Lines Missed | Avg hits/line |
 | ------------------------------ | ----------- | ------ | --------- | ---------- | -------- | ------------ |
-|modules/banners/app/sidekiq/banners/update_all_job.rb | **0%** | 56 | 44 | 0 | 44 | 0.0 | 
+|modules/banners/app/sidekiq/banners/update_all_job.rb | **95.83%** | 56 | 24 | 23 | 1 | 2.0 | 
 |modules/banners/lib/banners/updater.rb                | **72.09%** | 80 | 43 | 31 | 12 | 0.91 | 
 |modules/banners/lib/banners.rb                        | **75.00%** | 15 | 8 | 6 | 2 | 0.75 | 
 |app/controllers/v0/banners_controller.rb              | **100.00%** | 23 | 12 | 12 | 0 | 1.75 | 
@@ -90,7 +89,7 @@ As a result, the bulk of situationUpdateBanner.jsx cannot be 80% unit tested, as
 |modules/banners/lib/banners/builder.rb                | **100.00%** | 41 | 21 | 21 | 0 | 2.19 | 
 |modules/banners/lib/banners/engine.rb                 | **100.00%** | 12 | 6 | 6 | 0 | 1.00 | 
 |modules/banners/lib/banners/profile/vamc.rb           | **100.00%** | 24 | 5 | 5 | 0 | 1.40 | 
-| Combined Coverage | **63.29%** |   |   |   |   |   |
+| Combined Coverage | **82.13%** |   |   |   |   |   |
 
 #### Unit Test Coverage Statistics (FE)
 [As of 12-4-24]
