@@ -22,7 +22,7 @@ In September we tested the high-fi prototype of the MVP mobile app. Our research
 
 In R1, we used the final 10 minutes of each session to allow the participant to freely explore the app. Between this portion of the interview and the task-based testing, we were able to garner feedback on all the app's features since the MVP is quite small. 
 
-[Link to research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-1/research-summary.md)
+[Link to research summary](round-1/research-summary.md)
 
 ## October and November 2020
 We've focused on the following: 
