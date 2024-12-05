@@ -9,7 +9,7 @@ We undertook an audit of native mobile apps of all kinds to answer the following
 
 ## Analysis Summary
 
-![Image Chase and NYT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/Auth-Unauth-Features.png)
+![Image Chase and NYT](screenshots/Auth-Unauth-Features.png)
 | **VA feature applicability** | Combination of auth + unauth features | 
 |:---|:---|
 | Apps we looked at | Chase Bank, The New York Times | 
@@ -24,28 +24,28 @@ We undertook an audit of native mobile apps of all kinds to answer the following
 | Takeaway | We have most of the information we need in the CST design already. We should maintain the experience of VA.gov for the app of offering three tabs of information: Status, Files, and Details. We should display Status first and include a clear visual element on that tab.  |
 | Other | The [status tracking audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/April-2020-dicovery-concept-usability/Comparative%20analysis_%20Status%20tracking.pdf) performed by the Claim Status Tool team is helpful to review as well.  |
 
-![Image Documents 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/Documents-To-Consumer.png)
+![Image Documents 1](screenshots/Documents-To-Consumer.png)
 | **VA feature applicability** | Documents (app to user) | 
 |:---|:---|
 | Apps we looked at | ComEd, Collective Health | 
 | What we learned | The home screen of the **ComEd** app displays the latest bill balance in text and provides a CTA to the full bill, which is the exact same bill that comes in the paper mail. **Collective Health** displays an insurance card and pulls information from that card into a text table below the actual image of the insurance card. | 
 | Takeaway | Displaying PDF documents is a convention that banking and utilities use. We can take this approach for VA.gov profile documents. If possible, we can surface some information from within the document - the title at a minimum, anything else would be a bonus.  |
 
-![Image Documents 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/Documents-From-Consumer.png)
+![Image Documents 2](screenshots/Documents-From-Consumer.png)
 | **VA feature applicability** | Documents (user to app) | 
 |:---|:---|
 | Apps we looked at | Chase Bank | 
 | What we learned | Chase has a screen just for depositing with a blank spot for the screenshots that are needed for the document to be accepted. | 
 | Takeaway | We should be very clear about what a user needs to upload via the app for the document to be considered accepted by VA. We should offer a list of files needed if there are multiple, and house CTAs to upload along with a description of why that document is needed on a detail screen, allowing users to focus on uploading one file at a time. |
 
-![Settings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/Profile.png)
+![Settings](screenshots/Profile.png)
 | **VA feature applicability** | Settings | 
 |:---|:---|
 | Apps we looked at | Slack, Medium, LinkedIn | 
 | What we learned | **Slack** titles utility/profile features as “You” used as a catchall to get to all of your personal information (profile, notifications, etc). In **ComEd’s** app, Notifications, Account, and Help is grouped together under ‘More’. In the **Medium** app, On the Profile screen the link to the actual profile is up top and all utilities are below like settings, help, etc.  | 
 | Takeaway | We recommend pursuing a bottom tab navigation & allotting one space for 'More' (and testing that name with Vets). Housing all utilities under it is the most efficient use of space and a standard way to group profile and utility features. |
 
-![Home screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/Homescreen.png)
+![Home screen](screenshots/Homescreen.png)
 | **VA feature applicability** | Home screen (single purpose) | 
 |:---|:---|
 | Apps we looked at | Utilities (ComEd, People's Gas), Fitness (FitBit) | 
@@ -58,7 +58,7 @@ We undertook an audit of native mobile apps of all kinds to answer the following
 | Takeaway | Since our app will offer users the option to complete different tasks that are unrelated from each other, and there is no one, cear central metric or task we can put front and center, we should treat the home screen as jumping off place that offers the most highly used features. Because our app’s purpose is to enable Vets to do things quickly, we should lean into notifications when they exist and make it very clear, when a user returns to the app, what has changed since their last visit and what they need to pay attention to. |
 
 
-![Home screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/Facility-Locator.png)
+![Home screen](screenshots/Facility-Locator.png)
 | **VA feature applicability** | Facility locator | 
 |:---|:---|
 | Apps we looked at | UPS Dropbox locations (Rent the Runway), Navigation (Google Maps) | 
