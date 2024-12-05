@@ -24,7 +24,7 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 1. Validate the design patterns for a successful file upload scenario.  
 2. Ensure the design patterns effectively address a Type 1 failure (submission fails immediately).  
 3. Ensure the design patterns effectively address a Type 2 failure (submission fails in downstream services).  
-4. Evaluate the user journey to determine whether Veterans connect receiving failure notifications via email with viewing in-app alerts for Type 1 and Type 2 failures.
+4. Evaluate the user journey to determine whether Veterans make a connection between receiving failure notifications via email and viewing in-app alerts for Type 1 and Type 2 failures.
 
 ### Outcome
 
@@ -94,9 +94,6 @@ A pilot session is required. Please indicate the date and name of a mock partici
 Monday - Friday: 9 AM ET - 3:30 PM ET
 	
 ## Team Roles	
-**Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
-
-**Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Send emails only for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
 - Moderator: Gary Homidas
 - Research guide writing and task development: Gary Homidas, Skyler Schain
