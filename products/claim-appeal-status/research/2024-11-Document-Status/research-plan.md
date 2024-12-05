@@ -61,7 +61,7 @@ For moderated usability tests:
 ## Recruitment	
 
 ### Recruitment approach
-The intended audiences is Veterans who at some point filed a disability compensation claim with VA in the last 5 years.
+The intended audience is Veterans who at some point filed a disability compensation claim with VA in the last 5 years.
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
