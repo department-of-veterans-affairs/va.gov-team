@@ -26,6 +26,7 @@ However, there are a few scenarios where we collect location of residence and/or
 In general, when we require a location of residence and/or a postal code for the **submitter**, we **first** check which contact preference they choose. If their contact preference is phone or email, then we carry on asking for their location of residence and/or postal code. **But**, if their contact preference is U.S. mail, then we skip collecting their location of residence and/or postal code separately. They're collected on the mailing address page instead.
 
 -------
+-------
 
 # 2. Guardianship and VR&E
 
@@ -38,7 +39,7 @@ In general, when we require a location of residence and/or a postal code for the
 **In this section:**
 - [About myself](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields,%20options%20and%20labels/Location%20and%20postal%20code.md#about-myself)
 - [About someone else](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields,%20options%20and%20labels/Location%20and%20postal%20code.md#about-someone-else)
-- [General question]()
+- [General question](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields,%20options%20and%20labels/Location%20and%20postal%20code.md#a-general-question)
 
 ### About myself
 
