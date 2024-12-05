@@ -1,7 +1,7 @@
 # Heuristic Analysis Overview
 
 ## Synthesis
-- [See PDF of Mural here](heuristic%20Analysis%20Synthesis.pdf)
+- [See PDF of Mural here](Heuristic%20Analysis%20Synthesis.pdf)
 - [VA App Ratings Inventory](ratings-data.md)
 
 ## Individual web and mobile app heuristics: 
