@@ -185,7 +185,7 @@ _Note: participant has trouble with remembering how to spell/say My HealtheVet_
 
 ## Recommendations
 
-1. **Iterate on banners**  
+1. **Banners**  
 (Supported by findings 1 and 2)
  - Tailor banner content to align with the Veterans' immediate needs, such as highlighting benefits. 
  - Consider refining the language in the banners' call-to-action to better distinguish between the My HealtheVet National Portal and My HealtheVet on VA.gov.
