@@ -80,7 +80,7 @@ www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech
   - Placement description: Under 'Housing grants' as the 2nd option
   - Link label: Apply now
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
-  - Implementation notes: As of 11/20/2/24 this is *still needed* - Sam will add
+  - Implementation notes: As of 12/5/2/24 this is in place
  <img width="446" alt="Screenshot 2023-03-01 at 2 52 40 PM" src="https://user-images.githubusercontent.com/122128479/222262424-d2ed2ba0-4b82-4d62-9e59-c1dc83481e7e.png">
 
  
@@ -88,8 +88,7 @@ www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech
   - Placement description: Under 'Get Veterans housing grants' column as the 4th option (bottom)
   - Link label: Apply for an adaptive housing grant
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
-  - Implementation notes: As of 11/20/2/24 this is *still needed* - Sam to check whether we want links to both the info page and form intro page in the mega menu
- 
+  - Implementation notes: As of 12/5/2/24 this is in place
 ![Screenshot 2023-03-01 at 6 37 44 PM](https://user-images.githubusercontent.com/122128479/222299846-57c4bcf0-ab07-4a55-a3a7-69f3a5e5e4a4.png)
 
 
