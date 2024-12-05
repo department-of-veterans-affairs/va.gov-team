@@ -38,12 +38,12 @@ These apps share some characteristics in how they approach this:
 - While all social media apps offer a robust activity log, it's something users have to click into to view. The apps let the user make the choice if they want to just begin engaging with the app, or first review their notifications.
 - Social media apps largely rely on unlabeled icons.
 
-![social media screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/notifications-activity-audit-social-media.png)
+![social media screenshots](screenshots/notifications-activity-audit-social-media.png)
 
 #### Non-social media apps more commonly offer cards on their home screen that give an update (either passive or action-required), and tend to not have a notifications nav item in their main toolbar
 Chase Bank, American Airlines, and ComEd all use cards to give snapshots of current statuses (like bank balances or bill balances) or timely notifications (like COVID-19 news). These apps all also don't offer an activity feed per se, although they do have a dedicated spot where news alerts or messages are aggregated for easy access. Generally these news items are passive, and the cards on the home screen are used to give action-required notifications a home within the app. These cards link directly to the screen where the user can complete the task. 
 
-![non-social media screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/notifications-activity-audit-non-social-media.png)
+![non-social media screenshots](screenshots/notifications-activity-audit-non-social-media.png)
 
 **Recommendation:** While an activity feed something we should invest in for later releases, it may not be something that is needed for the MVP if we follow the cards approach. The MVP app purpose is to deliver updates and status changes and enable quick tasks, so it may be a good UX fit to use cards to highlight big changes on the home screen as a central UI element. We should test this concept with Veterans. 
 
