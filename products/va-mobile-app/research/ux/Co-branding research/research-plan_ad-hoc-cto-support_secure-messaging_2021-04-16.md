@@ -3,7 +3,7 @@
 ## Goals
 
 1. What product & team are you doing this research for? VA Mobile App Team, MVP Mobile App.
-2. Background: [We know that ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/OCTO health research report 22 Mar 2021.pdf)Veterans can have strong feelings about the tools they are familiar with. We’d like to understand how the way we refer to existing tools in relation to the new mobile app sets expectations. How can we encourage trust and comfort without setting unrealistic expectations that lead to disappointed Veterans? . 
+2. Background: [We know that ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/OCTO) health research report 22 Mar 2021.pdf)Veterans can have strong feelings about the tools they are familiar with. We’d like to understand how the way we refer to existing tools in relation to the new mobile app sets expectations. How can we encourage trust and comfort without setting unrealistic expectations that lead to disappointed Veterans? . 
 3. Research questions: What expectations come along with referring to MyHealth**e**Vet in the mobile app? Does this improve trust or at least familiarity with the Secure Messaging feature? Does it bring expectations that other features like Rx Refills are already present? 
 
 Is the usage of “Secure Messaging” without any MHV branding just as effective?
@@ -97,4 +97,4 @@ The VA Team
 - Read-Out/Results
 - - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.*
 
-  - ** Don't forget to add a link to your research folder to the research tracker![ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
+  - ** Don't forget to add a link to your research folder to the research tracker![https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
