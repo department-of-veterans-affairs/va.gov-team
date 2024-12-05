@@ -1,8 +1,8 @@
 # OH Scheduling Requirements (WIP)
 
-This is a working doc to capture requirements for scheduling into Oracle Health appointments. 
+This document captures the requirements for scheduling, requesting, and cancelling Oracle Health appointments. There will be an MVP for this work (target June 2025) and baseline complete functionality (target December 2025).
 
-**This is a work in-progress document. No requirements listed here are final unless otherwise noted.**
+**This is a work in-progress document and requirements may change in the process. Final requirements will be noted.**
 
 The scope of this is the MVP release. See the [out of scope](#out-of-scope) section for non MVP. 
 
@@ -10,7 +10,7 @@ See also our [open questions](#open-questions).
 
 ## User stories
 
-- As a user registered at an Oracle Health location, I want to be able to schedule `Nutrition and Food` appointments online.
+- As a Veteran registered at an Oracle Health location, I want to be able to schedule `Nutrition and Food` appointments online.
 
 ## Requirements (WIP)
 
