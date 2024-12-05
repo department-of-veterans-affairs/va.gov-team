@@ -3,11 +3,11 @@
 Last updated by @tygindraux: December 5, 2024
 
 **In this document:**
-- [1. General rules](#general-rules)
-- [2. Guardianship and VR&E rules](#guardianship-and-vre)
-- [3. Education > VR&E rules](#education--vre)
-- [4. Health care rules](#health-care)
-- [5. Pages in Figma](#pages-in-figma)
+- [1. General rules](#1-general-rules)
+- [2. Guardianship and VR&E rules](#2-guardianship-and-vre)
+- [3. Education > VR&E rules](#3-education--vre)
+- [4. Health care rules](#4-health-care)
+- [5. Pages in Figma](#5-pages-in-figma)
 
 -------
 
