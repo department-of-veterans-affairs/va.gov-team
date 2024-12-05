@@ -38,9 +38,9 @@ In general, when we require a location of residence and/or a postal code for the
 `AND TOPIC ≠` Other
 
 **In this section:**
-- [About myself](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields,%20options%20and%20labels/Location%20and%20postal%20code.md#about-myself)
-- [About someone else](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields,%20options%20and%20labels/Location%20and%20postal%20code.md#about-someone-else)
-- [General question](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields,%20options%20and%20labels/Location%20and%20postal%20code.md#a-general-question)
+- [About myself](#about-myself)
+- [About someone else](#about-someone-else)
+- [General question](#a-general-question)
 
 ### About myself
 
@@ -179,9 +179,9 @@ We require location of residence and postal code so we can route to the correct 
 `AND TOPIC` = Veteran Readiness and Employment
 
 **In this section:**
-- [About myself]()
-- [About someone else]()
-- [General question]()
+- [About myself](#about-myself-1)
+- [About someone else](#about-someone-else-1)
+- [General question](#a-general-question-1)
 
 ### About myself
 
@@ -309,6 +309,7 @@ We require location of residence and postal code so we can route to the correct 
 We require location of residence and postal code so we can route to the correct queue.
 
 -------
+-------
 
 # 4. Health care
 
@@ -316,9 +317,9 @@ We require location of residence and postal code so we can route to the correct 
 - Health care
 
 **In this section:**
-- [About myself]()
-- [About someone else]()
-- [General question]()
+- [About myself](#about-myself-2)
+- [About someone else](#about-someone-else-2)
+- [General question](#a-general-question-2)
 
 ### About myself
 
