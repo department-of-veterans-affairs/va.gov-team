@@ -31,7 +31,7 @@ The Sprint 0 meeting is a time to do the following:
 * [External Links - Minimize and Refine](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4077)
 * Personalized Notifications
     * Showing changes of statuses, etc.
-* [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
+* [Getting Out/Transitioning User State](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/getting%20out%20or%20transitioning/sprint-0-getting-out-transitioning.md) (Holly)
 * [App health/confidence dashboard using detox automation artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/app-health-confidence-dashboard/Sprint0.md) (Tom)
 
 ## Ready to Present
