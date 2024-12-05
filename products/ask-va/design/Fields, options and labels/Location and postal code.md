@@ -13,7 +13,7 @@ Last updated by @tygindraux: December 5, 2024
 
 # 1. General rules
 
-Most categories and topics do not require a location of residence or a postal code, unless someone chooses to be contacted by mail.
+**Most categories and topics do not require a location of residence or a postal code, unless someone chooses to be contacted by mail.**
 
 However, there are a few scenarios where we collect location of residence and/or postal code for routing or other informational purposes. These are:
 - `IF CATEGORY =` Guardianship, custodianship or fiduciary issues `AND TOPIC ≠` Other
@@ -23,7 +23,7 @@ However, there are a few scenarios where we collect location of residence and/or
 
 (These categories and topics have different rules, described below in detail.)
 
-In general, when we require a location of residence and/or a postal code for the **submitter**, we **first** check which contact preference they choose. If their contact preference is phone or email, then we carry on asking for their location of residence and/or postal code. **But**, if their contact preference is U.S. mail, then we skip collecting their location of residence and/or postal code separately. They're collected in on the mailing address page instead.
+In general, when we require a location of residence and/or a postal code for the **submitter**, we **first** check which contact preference they choose. If their contact preference is phone or email, then we carry on asking for their location of residence and/or postal code. **But**, if their contact preference is U.S. mail, then we skip collecting their location of residence and/or postal code separately. They're collected on the mailing address page instead.
 
 -------
 
