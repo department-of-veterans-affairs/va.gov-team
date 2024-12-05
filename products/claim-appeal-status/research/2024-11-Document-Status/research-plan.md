@@ -24,7 +24,7 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 1. Validate the design patterns for a successful file upload scenario.  
 2. Ensure the design patterns effectively address a Type 1 failure (submission fails immediately).  
 3. Ensure the design patterns effectively address a Type 2 failure (submission fails in downstream services).  
-4. Evaluate the user journey to determine whether Veterans connect receiving failure notifications via email with viewing in-app alerts for Type 1 and Type 2 failures.
+4. Evaluate the user journey to determine whether Veterans make a connection between receiving failure notifications via email and viewing in-app alerts for Type 1 and Type 2 failures.
 
 ### Outcome
 
@@ -35,7 +35,7 @@ Our research will reveal whether real-time status updates are helpful to Veteran
 * Is the "In progress" state useful - do they understand that the document hasn't been completely uploaded to their claim?		
 * Do Veterans make the connection between the email content and the "In progress" states?		
 * Do Veterans understand what to do after seeing the email and in-app alerts for failed uploads?
-* Do Veterans feel confident in VA's ability to properly process their mailed-in documents.
+* Do Veterans feel confident in VA's ability to properly process their mailed-in documents?
 
 ### Hypothesis
 
@@ -49,23 +49,10 @@ Describe the method you’re planning. You should be able to explain why this me
 
 Semi-structured interviews
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
-
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
 Remote on Zoom
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated usability tests: 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2024-11-Document-Status/converstation-guide.md)
@@ -73,76 +60,45 @@ For moderated usability tests:
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
-The intended audiences is Veterans who at some point filed a disability compensation claim with VA in the last 5 years.
+The intended audience is Veterans who at some point filed a disability compensation claim with VA in the last 5 years.
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
-15 total participants:
+10 total participants:
 
 * 5 Black Veterans
 * 5 Veterans age 55-64+
 * 4 Veterans without a degree
-* 3 Assestive technology users
 * At least 5 women Veterans
 * The participants must be using a desktop device during the study.
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
-
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
-
-## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
-
-### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: **TBA (rocio.de-santiago@coforma.io)**
-* Date and time of pilot session: **TBA**
+* Pilot participant email: Rocio De Santiago
+* Date and time of pilot session: Jan 6, 2024 at 11 AM
 
 ### Research sessions
-* Planned dates of research: **TBA**
+* Planned dates of research: Jan. 7, 2024
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
 
 * Session length: 1 hour
 * Buffer time between sessions: 1 hour 
 * Maximum Sessions per day: 2 sessions per day
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
 Monday - Friday: 9 AM ET - 3:30 PM ET
 	
 ## Team Roles	
-**Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
 
-**Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Send emails only for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
-
-- Moderator: Gary Homidas (gary.homidas@adhocteam.us)
-- Research guide writing and task development: Gary Homidas (gary.homidas@adhocteam.us), Skyler Schain (skyler.schain@coforma.io)	
+- Moderator: Gary Homidas
+- Research guide writing and task development: Gary Homidas, Skyler Schain
 - Participant recruiting & screening: Perigean
-- Project point of contact: Gary Homidas (gary.homidas@adhocteam.us), Jacob Worrell (jacob.worrell@adhocteam.us)
-- Participant(s) for pilot test: 
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	David Kennedy (david.kennedy@adhocteam.us)
-- Note-takers/Observers: Skyler Schain (skyler.schain@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us), David Kennedy (david.kennedy@adhocteam.us), Peri McLaren (peri.mclaren@adhocteam.us), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Sam Cormier (sam.cormier@coforma.io), Julie Strothman (julie.strothman@va.gov)
+- Project point of contact: Gary Homidas, Jacob Worrell
+- Participant(s) for pilot test: Rocio De Santiago
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	David Kennedy
+- Note-takers/Observers: Skyler Schain, Jacob Worrell, David Kennedy, Peri McLaren, Jerek Shoemaker, Sam Cormier, Julie Strothman
