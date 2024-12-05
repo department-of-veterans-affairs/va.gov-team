@@ -31,7 +31,7 @@ When we require the location of residence and postal code of the **submitter**, 
 `AND TOPIC ≠` Other
 
 **In this section:**
-- [About myself]()
+- [About myself](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields,%20options%20and%20labels/Location%20and%20postal%20code.md#about-myself)
 - [About someone else]()
 - [General question]()
 
