@@ -11,20 +11,21 @@ Research readout: [Final Report](final%20report.md) \
  \
 **Jump to:** \
  \
-[Hypothesis and conclusions](Research Findings.md#hypotheses-and-conclusions)
+[Hypothesis and conclusions](Research%20Findings.md#hypotheses-and-conclusions)
+
 
  
-[Key findings](Research Findings.md#key-findings)
+[Key findings](Research%20Findings.md#key-findings)
 
 
 ### 
-[Recommendations](Research Findings.md#recommendations-and-next-steps)
+[Recommendations](Research%20Findings.md#recommendations-and-next-steps)
  
-[Who we talked to](Research Findings.md#who-we-talked-to)
+[Who we talked to](Research%20Findings.md#who-we-talked-to)
 
 
 ### 
-[Further research needed](Research Findings.md#further-research-needed)
+[Further research needed](Research%20Findings.md#further-research-needed)
 
 
 ## **Background**
