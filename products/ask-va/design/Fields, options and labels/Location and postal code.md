@@ -10,6 +10,7 @@ Last updated by @tygindraux: December 5, 2024
 - [5. Pages in Figma](#5-pages-in-figma)
 
 -------
+-------
 
 # 1. General rules
 
@@ -166,6 +167,7 @@ In general, when we require a location of residence and/or a postal code for the
 
 We require location of residence and postal code so we can route to the correct queue.
 
+-------
 -------
 
 # 3. Education > VR&E
