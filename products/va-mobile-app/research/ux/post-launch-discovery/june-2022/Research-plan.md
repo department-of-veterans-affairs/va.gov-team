@@ -112,7 +112,7 @@ The in-person format will allow for both greater inclusivity as well as visibili
 
 ## **Research Materials**
 
-[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/june-2022/Conversation_Guide.md)
+[Conversation Guide](Conversation_Guide.md)
 
 
 ## Recruitment approach
