@@ -11,6 +11,7 @@
 
 
 - [Example of checkbox in 2019 related to 526 form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/research/signatures-vba/SEP_Checkbox%20Solution.docx.pdf) that talks about having both Veteran and Witness present when checking the box
+
 ![image](https://github.com/user-attachments/assets/863f7c09-10bc-4ed7-84cd-9f52fa08963e)
 
 
