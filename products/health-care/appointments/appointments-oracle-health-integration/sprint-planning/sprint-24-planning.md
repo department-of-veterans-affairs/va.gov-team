@@ -51,6 +51,7 @@ In Sprint 23 the team provided support for multiple features and initiatives, ou
 * 🟣 Testing/Admin/Operational Support
    * [VPG-29 Finalize TH appts research](https://issues.mobilehealth.va.gov/browse/VPG-29)
    * [CES-1350 CES: Make appointment creation in integration tests more managed](https://issues.mobilehealth.va.gov/browse/CES-1350)
+   * [CES-1376 CIJL: Overload fluent setters for CesSlot](https://issues.mobilehealth.va.gov/browse/CES-1376)
 * 🔴 Appointment Cancellation
    * [VPG-270 Add location and serviceType filters to CFA appointment search](https://issues.mobilehealth.va.gov/browse/VPG-270) 
  
