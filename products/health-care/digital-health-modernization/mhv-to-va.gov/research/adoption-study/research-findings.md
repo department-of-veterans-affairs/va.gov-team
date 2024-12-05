@@ -185,14 +185,14 @@ _Note: participant has trouble with remembering how to spell/say My HealtheVet_
 
 ## Recommendations
 
-1. **Address banner**  
+1. **Iterate on banners**  
 (Supported by findings 1 and 2)
  - Tailor banner content to align with the Veterans' immediate needs, such as highlighting benefits. 
  - Consider refining the language in the banners' call-to-action to better distinguish between the My HealtheVet National Portal and My HealtheVet on VA.gov.
  - When possible, reduce banner overload.
  - Continue using clear, concise language to explain what the transition means for users in practical terms, such as changes in navigation, login processes, or new features.
 
-2. **Clarify platform distinctions**
+2. **Clarify platforms**
 (Supported by findings 2, 3, and 4)
  - Consider revising the branding, naming conventions, and messaging to emphasize the distinctions between the My HealtheVet National Portal and My HealtheVet on VA.gov 
 
@@ -312,13 +312,18 @@ Disability and Assistive Technology (AT): 0
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+AT users 
+Desktop screen readers
+Mobile screen readers
+Expats
+Members of the LGBTQ+ community
+Black/African American, Hispanic, Biracial, Asian, Native
+People who use the following assistive technology:
+Speech Input Tech (Siri, Dragon)
+Hearing Aids
+Sighted Keyboard
+Captions
+Switch Device
+Braille Reader
