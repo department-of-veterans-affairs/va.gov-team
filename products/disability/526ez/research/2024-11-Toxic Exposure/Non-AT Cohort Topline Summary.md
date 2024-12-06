@@ -37,17 +37,6 @@ We’ve categorized each finding as high, medium, or low priority, based on the 
   
 <img width="592" alt="Screenshot 2024-12-06 at 12 37 54 PM" src="https://github.com/user-attachments/assets/042326b1-eb09-42e0-944b-30736a12eaf0">
 
-| High Priority  | Participants frequently got lost or confused while navigating through the list and loops to edit their responses in Task 4\. |
-| :---- | :---- |
-| **High Priority**  | A majority of participants did not expect to click on the form update alert on the Review and Submit page prior to submitting.  |
-| **Medium Priority** | Participants were unclear about what specific date ranges VA was requesting on the detail screens. |
-| **Medium Priority** | Veterans pointed out terminology they were unfamiliar with and would like to see better defined. |
-| **Medium Priority** | When participants navigated to the new questions from the IPF alert, they expected they would be able to easily return to the Review and Submit page. |
-| **Medium Priority** | Participants opted for "I'm not sure" when they didn't know a date range, but did not have confidence that this answer would be accurate enough for VA.  |
-| **Low Priority** | Vietnam-era Veterans expected to see the Agent Orange appear earlier in the flow. |
-| **Success** | Participants accurately comprehended the content of the IPF alert. |
-| **Success** | A majority of Veterans were already familiar with the PACT Act and had a guess at their personal eligibility.  |
-
 ## Detail of Initial Findings
 
 **High Priority: Participants frequently got lost or confused while navigating through the list and loops to edit their responses in Task 4\.**
