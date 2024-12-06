@@ -206,11 +206,11 @@ Veterans trust and want to connect one-on-one with individuals who know the deta
 * **Veterans don’t necessarily know in a timely manner when something has changed or is needed with their claim or appeal.**
     * Because there are long real signals from VA about the progress of the claim, **Veterans check the Mobile app frequently for changes**.
 
-#### [**VA Mobile app - Sprint 0: Profile fail error handling #4491**](https://docs.google.com/document/d/1PhQSuW_cwyVbf-LVO7syg8q7EazKtcOhR-LHXnWkZ4Y/edit)
+#### [**VA Mobile app - Sprint 0: Profile fail error handling #4491**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/profile-fail-error-handling.md)
    * **The VA mobile app displays one-size fits all error messages that are sometimes inaccurate when it can’t display claims information due to the profile failing or low connectivity.**
       * Claims: “The app can’t be loaded,”<sub> </sub>Disability rating “You do not have a combined disability on record”
 
-#### [**Review of User Research: VA Mobile App Personalization**](https://docs.google.com/presentation/d/1J10VcE7PGN9emVT1vtqO4-5XRYc3Jycm5zJ4QJnc19g/edit#slide=id.p1) (Jul 2022)
+#### [**Review of User Research: VA Mobile App Personalization**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/personalization/) (Jul 2022)
 * **Insight:** Veterans **want to understand their benefits and how to access them, what VA is doing & needs from them.**
    * **Motivations & Behaviors**
        * Veterans **care about anything they have in flight**, whether that is education or other benefits. 
