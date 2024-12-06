@@ -13,23 +13,23 @@ Holly Collier, Melissa Lefevre
 
 **Jump to:**
 
-[Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#research-questions)
+[Research Goals](closed-card-sort-research-report.md#research-questions)
 
-[Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#research-questions)
+[Research Questions](closed-card-sort-research-report.md#research-questions)
 
-[Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#methodology)
+[Methodology](closed-card-sort-research-report.md#methodology)
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#hypotheses-and-conclusions)
+[Hypotheses and conclusions](closed-card-sort-research-report.md#hypotheses-and-conclusions)
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#key-findings)
+[Key findings](closed-card-sort-research-report.md#key-findings)
 
-[Detailed findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#detailed-findings-research-questionsanswered)
+[Detailed findings](closed-card-sort-research-report.md#detailed-findings-research-questionsanswered)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#recommendations)
+[Recommendations](closed-card-sort-research-report.md#recommendations)
 
-[Participant Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#participant-demographics)
+[Participant Demographics](closed-card-sort-research-report.md#participant-demographics)
 
-[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#appendix)
+[Appendix](closed-card-sort-research-report.md#appendix)
 
 [Presentation deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/2022%20-%20VA%20Mobile%20App%20-%20Information%20Architecture%20User%20Research%20-%20Closed%20Card%20Sort%20Findings.pdf)
 
@@ -67,8 +67,8 @@ How do veterans think about the current and proposed pieces of content on the VA
 
 Using Optimal Workshop, we conducted an unmoderated study in which participants were invited by email to participate. After accepting the invitation, participants received a link to a card sort activity that contained a list of about 35 pieces of current & proposed content from the VA mobile app. Each participant sorted the content cards into one of several fixed categories (i.e., Health, Benefits, etc). They were also be able to add new categories if they felt that a card didn't fit into the provided categories.
 
-* The [cards for this study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-categories-and-card-list.md#card-list-for-closed-card-sort) are (with a couple exceptions) the same cards that were included in the [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md), but with reworked descriptions for clarity).
-* The [categories for this study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-categories-and-card-list.md#categories-for-closed-card-sort) were based on the [findings from the Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md), a review of the current VA.gov website structure, and conversations with teams on the VA.gov side about future IA efforts).
+* The [cards for this study](closed-card-sort-categories-and-card-list.md#card-list-for-closed-card-sort) are (with a couple exceptions) the same cards that were included in the [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort/Card-Sort-Research-Plan.md), but with reworked descriptions for clarity).
+* The [categories for this study](closed-card-sort-categories-and-card-list.md#categories-for-closed-card-sort) were based on the [findings from the Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort/Card-sort-research-report.md), a review of the current VA.gov website structure, and conversations with teams on the VA.gov side about future IA efforts).
 
 
 # Hypotheses and Conclusions
@@ -346,7 +346,7 @@ This research does not include the perspectives of the following marginalized Ve
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
+[Research plan](closed-card-sort-research-plan.md)
 
 [VA Mobile App: Information Architecture & Navigation - High Level Project Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md#va-mobile-app-information-architecture--navigation---high-level-project-summary)
  
