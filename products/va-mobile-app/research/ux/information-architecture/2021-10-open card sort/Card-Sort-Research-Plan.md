@@ -117,10 +117,10 @@ We will be running our study remote via Zoom.
 
 
 
-* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Conversation-guide.md)
+* [Conversation guide](Conversation-guide.md)
 * [Card sort of Optimal Workshop](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/4a95bec7-7617-4568-8154-da37d1054c92#/t/results/overview)
 * [Prototype](https://balsamiq.cloud/scmwg9k/pimea2c/r2278)
-* [Card List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-card-list.md)
+* [Card List](Card-sort-card-list.md)
 
 
 ## Recruitment
