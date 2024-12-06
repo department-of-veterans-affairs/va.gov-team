@@ -38,7 +38,7 @@ Monitors for each product are described within product folders. e.g.
 | [Benefits Detail Page](#benefits-detail-page) |  | [Disability rating calculator](#disability-rating-calculator) |
 | [Campaign Landing Pages](#campaign-landing-pages-clp) | [Header / footer injection](#header--footer-injection) | [Downtime messaging](#downtime-messaging) |
 | [Events List](#events-list) | [Income limits web application](#income-limits-web-application) | [Harassment Reporting Tool](#harassment-reporting-tool) |
-| [Event](#event-detail-page) | [Non-facility Redirects](#non-facility-redirects) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
+| [Event](#event-detail-page) | [Non-facility Redirects](#non-facility-redirects) | . |
 | [FAQ Page](#faq-page) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [“How to apply” wizards](#how-to-apply--benefit-wizards) |
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [On-site search (using search.gov)](#on-site-search-using-searchgov) | [React widgets use within CMS](#react-widgets-use-within-cms) |
 | [Full-width Alert](#full-width-alert) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | . |
@@ -768,13 +768,6 @@ UX review issue: [https://github.com/department-of-veterans-affairs/va.gov-team/
 * [HRT Collab cycle](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29178) -- includes context, diagrams, etc.
 
 
-## Higher-Level Review static landing page
-
-[https://github.com/department-of-veterans-affairs/va.gov-team/issues/4139](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4139) 
-
-Static CMS page 
-
-
 ## “How to apply” / Benefit wizards
 
 There are currently 3 urls where in-content "How to Apply" wizards exist, none of which are owned by Public Websites any more:
@@ -820,3 +813,13 @@ Transformers for specific CMS fields / templates: [https://github.com/department
 * [Mobile Inconsistency: Resources & Support Search](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22868) va.gov-team #22868
 * CLP 508 - [https://github.com/department-of-veterans-affairs/va.gov-team/issues/21020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21020)
 * [Custom urls for media (especially PDFs and documents)](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1398) #139* 8
+
+## Deprecated products
+
+## Higher-Level Review CTA widget
+
+[https://github.com/department-of-veterans-affairs/va.gov-team/issues/4139](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4139) 
+
+Static CMS page with a React widget. 
+
+The widget was no longer used as of 3/22/2022, so will be deprecated in 2024/early 2025: https://dsva.slack.com/archives/C52CL1PKQ/p1733496776695149 
