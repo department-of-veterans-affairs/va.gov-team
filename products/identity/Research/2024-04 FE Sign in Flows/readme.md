@@ -22,7 +22,7 @@ Some of the items we are reviewing include:
 - [sign in widget content updates made by CAIA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76785)
 - [VA Design system for alerts](https://design.va.gov/components/alert#sign-in-or-tool-prompt)
 - [USiP and Sign in Modal histroy](https://www.figma.com/design/yGC1vsspe41pSFSUBOto8s/VA.gov-Sign-in-Modal-Redesign?node-id=0-1&t=xSTk1cmEpto4CTwy-0)
-
+- [Medallia data as requested in this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82577)
 
 ## Research Goals:
 - become familiar with the product
