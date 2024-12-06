@@ -1,6 +1,6 @@
 # Research Plan for VA Mobile App Information Architecture Research: Closed Card Sort
 
-This work falls within the first phase of a three-phase Mobile IA & Navigation project that will contribute to the [Redesign of the VA Mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md). It is the second of a two part of IA research study, and was preceded by an [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md). For a summary of the entire project, see [VA Mobile App Information Architecture & Navigation - High Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md).
+This work falls within the first phase of a three-phase Mobile IA & Navigation project that will contribute to the [Redesign of the VA Mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md). It is the second of a two part of IA research study, and was preceded by an [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort). For a summary of the entire project, see [VA Mobile App Information Architecture & Navigation - High Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md).
 
 
 ## Background
@@ -45,7 +45,7 @@ The following are the [OCTO-DE goals](https://github.com/department-of-veterans-
 
 ### Previous User Research
 
-* An [Open Card sort study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md) was conducted in October 2021.  The cards in the open sort represented current app functionality + planned/proposed app functionality. Their selection was based on conversations with stakeholders.
+* An [Open Card sort study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort/Card-Sort-Research-Plan.md) was conducted in October 2021.  The cards in the open sort represented current app functionality + planned/proposed app functionality. Their selection was based on conversations with stakeholders.
 
 
 
@@ -108,16 +108,16 @@ Using Optimal Workshop, we would like to conduct an unmoderated study in which p
 
 We would like to get complete sorting responses from **at least 30 Veterans**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). Each cohort will access the study using a unique URL.
 
-* The [cards for this study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-categories-and-card-list.md#card-list-for-closed-card-sort) are (with a couple exceptions) the same cards that were included in the [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md), but with reworked descriptions for clarity).
-* The [categories for this study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-categories-and-card-list.md#categories-for-closed-card-sort) were based on the [findings from the Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md), a review of the current VA.gov website structure, and conversations with teams on the VA.gov side about future IA efforts).
+* The [cards for this study](closed-card-sort-categories-and-card-list.md#card-list-for-closed-card-sort) are (with a couple exceptions) the same cards that were included in the [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort/), but with reworked descriptions for clarity).
+* The [categories for this study](closed-card-sort-categories-and-card-list.md#card-list-for-closed-card-sort) were based on the [findings from the Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort/Card-sort-research-report.md), a review of the current VA.gov website structure, and conversations with teams on the VA.gov side about future IA efforts).
 
 
 #### Research materials
 
 * [Closed card sort (preview) - Optimal Workshop](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed)
 * [Closed card sort - Optimal Workshop](https://app.optimalworkshop.com/a/adhoc/optimalsort/surveys/53516949-eb96-4b85-b493-bda8794844c4/edit#/t/setup/cards)
-* [Card Content & Category Names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-categories-and-card-list.md)
-* [Recruiting email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-outreach-email.md)
+* [Card Content & Category Names](closed-card-sort-categories-and-card-list.md)
+* [Recruiting email](closed-card-sort-outreach-email.md)
 
 
 
@@ -182,7 +182,7 @@ Ask Perigean to recruit 60 people using the cohorts below in order to get at lea
 
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question _Which VA benefits or services do you have any experience with?"_.
 
-We will provide an [email template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-outreach-email.md) and a unique card sort activity link for Perigean to use when reaching out to each cohort of potential participants.
+We will provide an [email template](closed-card-sort-outreach-email.md) and a unique card sort activity link for Perigean to use when reaching out to each cohort of potential participants.
 
 We will include a required field at the beginning of the card sort to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the card sort.
 
