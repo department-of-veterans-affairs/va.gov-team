@@ -10,10 +10,10 @@ About every quarter we plan to request new survey and support data from the Vete
 
 | Date of data pull | Data requested | Date of request | Request ticket | notes
 | --- | ---| --- | --- | --- |
-| Oct - Nov 2024 | Medallia, survey | Dec tbd |  |
-| Oct - Nov 2024 |  MyVA411, support | Dec tbd |  |
-| Jan - Apr 2024 | Medallia, survey | May 7 | [82577](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82577) | This data was analyzed as part of [2024-04 FE Sign in Flows](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-04%20FE%20Sign%20in%20Flows) |
-| Jan - Apr 2024 | MyVA411, support | May 7 | [82569](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82569) | This data was analyzed as part of [2024-08 Sign In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-08%20Sign%20In%20Experience%20-%20Call%20Center%20Data%20Analysis) |
+| Oct - Nov 2024 | Medallia, survey | Dec tbd | [98616](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98616) |
+| Oct - Nov 2024 |  MyVA411, support | Dec 6 | [98615](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98615) |
+| Jan - Apr 2024 | Medallia, survey | May 7 | [82577](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82577) | Part of [2024-04 FE Sign in Flows](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-04%20FE%20Sign%20in%20Flows) |
+| Jan - Apr 2024 | MyVA411, support | May 7 | [82569](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82569) | Part of [2024-08 Sign In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-08%20Sign%20In%20Experience%20-%20Call%20Center%20Data%20Analysis) |
 
 ## Documentation
 - [Intake request for Medallia survey data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+ianMcCullough-ob&labels=VSP-contact-center%2Ccc-data-request&template=qualitative-data-request.yml&title=Qualitative+Data+Request) (same ticket link for both)
