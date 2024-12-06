@@ -254,9 +254,9 @@ Shortcut examples:
 
 ## Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/2022-11-Blind-Low-vision/Research-plan.md)
+[Research plan](Research-plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/2022-11-Blind-Low-vision/Conversation-guide.md)
+[Conversation guide](Conversation-guide.md)
 
 
 
