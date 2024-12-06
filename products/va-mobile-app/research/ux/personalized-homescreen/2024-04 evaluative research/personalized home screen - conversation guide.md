@@ -59,13 +59,13 @@ Validate the participant uses the VA Health and Benefits app and get permission 
  * Scroll down the screen til you get to a button that says Start Testing to tap to download and install the VA health & benefits mobile app. I will help you uninstall the app at the end of the conversation.
    * Tap Don’t Allow, then tap Continue.
    * Now go ahead and tap Install.
-   * ***If they can’t download successfully, [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes).***
+   * ***If they can’t download successfully, [skip to Warm-Up questions](personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes).***
  * Ok, tap Open to open the app.
    * Tap the Next button, then tap Start Testing.
    * *Participant will be on Sign In screen—confirm that version number at bottom of the screen is **2.28.1 (1728)** If it’s not, try again to get the build installed.* 
  * Now I’m going to guide you quickly through the first couple of screens to get you where you need to be for our conversation today. When we get there, we’ll stop and do some warm up questions before using the app.
  * **Log in:** First, we’ll need you to log into the app with the option you prefer (Login.gov, ID.me or My HealtheVet) using your username and password.
-   * ***If they can’t log in successfully, [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes).***
+   * ***If they can’t log in successfully, [skip to Warm-Up questions](personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes).***
  * **If the next screen is Touch ID:** Tap “Skip” and then stop at the next screen (it will be the first screen of the onboarding carousel). 
  * **If the next screen Onboarding:** Ok, stop here.
 
@@ -84,8 +84,8 @@ Validate the participant uses the VA Health and Benefits app and get permission 
     * Are you familiar with the My VA dashboard on VA.gov?
     * How have you used it? Or What has your experience been like?
 * Ok, thank you for that.
-* ***If they have successfully logged into the app:** proceed to [Section 3 Evaluative Conversation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-3-evaluative-conversation-25-30-min)*
-* ***If they have not successfully logged into the app:** proceed to [Section 4 Thank you and closing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-4-thank-you-and-closing-5-minutes)*
+* ***If they have successfully logged into the app:** proceed to [Section 3 Evaluative Conversation](personalized%20home%20screen%20-%20conversation%20guide.md#section-3-evaluative-conversation-25-30-min)*
+* ***If they have not successfully logged into the app:** proceed to [Section 4 Thank you and closing](personalized%20home%20screen%20-%20conversation%20guide.md#section-4-thank-you-and-closing-5-minutes)*
 
 ## Section 3: Evaluative Conversation (25-30 min)
 * For the next part of our conversation, we’re going to use the VA mobile app we just installed. 
