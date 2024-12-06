@@ -2,7 +2,7 @@
 Last updated July 2024
  
 Deciding whether to conduct remote user research using a pre-release production build of the VA mobile app (using a participant's real credentials) should be determined on a case-by-case basis considering the goals of the research. Testing in this manner allows participants to experience the app as it interacts with live production APIs, leading to greater data variability and more realistic reactions to content compared to using fake data. 
-Conducting the research involves several steps during both the research [planning phase](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/research-pre-release-prod-app-build-how-to.md#research-study-planning) and the actual [research sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/research-pre-release-prod-app-build-how-to.md#during-the-research-session).
+Conducting the research involves several steps during both the research [planning phase](research-pre-release-prod-app-build-how-to.md#research-study-planning) and the actual [research sessions](research-pre-release-prod-app-build-how-to.md#during-the-research-session).
 
 _[NNG: Conducting Usability Testing with Real Users' Real Data](https://www.nngroup.com/articles/users-real-data/)_  
 
@@ -20,7 +20,7 @@ _[NNG: Conducting Usability Testing with Real Users' Real Data](https://www.nngr
        <img src="images/testflight-beta-link.PNG" width="300" alt="Testflight beta link">  
 
 Given the current app distribution setup, installing a build from a link on Android (using Firebase) requires a more involved set of steps, and can be more variable due to differences in operating system Settings between device manufacturers. 
-* Plan to [guide the participant through installation at the start of the session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/research-operations/research-pre-release-prod-app-build-how-to.md#example-script-for-conversation-guide), after the introduction/consent but before any warm-up questions. Doing it in this order ensures that participants will still answer some planned questions, even if technical issues prevent them from getting the app installed and logged in. It also prevents the moderator from making up questions on the spot.
+* Plan to [guide the participant through installation at the start of the session](research-pre-release-prod-app-build-how-to.md#example-script-for-conversation-guide), after the introduction/consent but before any warm-up questions. Doing it in this order ensures that participants will still answer some planned questions, even if technical issues prevent them from getting the app installed and logged in. It also prevents the moderator from making up questions on the spot.
 * Have the recruiter confirm and get consent in advance—preferably right before the sessions—that participants:
     * Have Zoom installed on their mobile device prior to the session and join the session using Zoom (on their own) _*Most important_
     * Are OK with installing the Testflight app & the app test build
@@ -58,7 +58,7 @@ Example [App setup & screenshare](https://github.com/department-of-veterans-affa
     * _If Testflight is not installed on the participant’s device:_
         * Scroll to the first button that says “View in App Store”
         * Tap to Install Testflight
-            * _If they can’t download the app successfully, try again but then [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes)._
+            * _If they can’t download the app successfully, try again but then [skip to Warm-Up questions]._
         * Now we’re going to navigate back to that screen we were looking at in the browser. Go ahead and do that. Ok, here we are.  
 
          <img src="images/Zoom-testflight-link.PNG" width="200" alt="Zoom chat TestFlight  link">   <img src="images/testflight-beta-link.PNG" width="200" alt="TestFlight beta link">   <img src="images/testflight-appstore-1.PNG" width="200" alt="TestFlight in app store">
@@ -68,7 +68,7 @@ Example [App setup & screenshare](https://github.com/department-of-veterans-affa
     * Now go ahead and tap Install.  
 
       <img src="/products/va-mobile-app/research/ux/research-operations/images/testflight-beta-link.PNG" width="200" alt="TestFlight beta link">   <img src="/products/va-mobile-app/research/ux/research-operations/images/testflight-appstore-2.PNG" width="200" alt="TestFlight in app store">  
-    * _If they can’t download the app successfully, try again but then [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes)._
+    * _If they can’t download the app successfully, try again but then [skip to Warm-Up questions]._
 * Ok, tap Open to open the app.
     * Tap the Next button, then tap Start Testing.
     * _Participant will be on Sign In screen—confirm that version number at bottom of the screen is [correct version number #.##.# (###)] If it’s not, try again to get the build installed._
@@ -79,7 +79,7 @@ Example [App setup & screenshare](https://github.com/department-of-veterans-affa
 
 * Now I’m going to guide you quickly through the first couple of screens to get you where you need to be for our conversation today. When we get there, we’ll stop and do some warm up questions before using the app.
 * Log in: First, we’ll need you to log into the app with the option you prefer (Login.gov, ID.me or My HealtheVet) using your username and password.
-    * _If they can’t log in successfully, [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes)._
+    * _If they can’t log in successfully, [skip to Warm-Up questions]._
 * If the next screen is Touch ID: Tap “Skip” and then stop at the next screen (it will be the first screen of the onboarding carousel).
 * If the next screen Onboarding: Ok, stop here. _(proceed with Warm-up questions)_
 
