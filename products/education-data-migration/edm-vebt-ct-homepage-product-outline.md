@@ -137,7 +137,7 @@ Both CT currently lives in PRODUCTION and functional.
 - Decision Point: Continue to work on the design for a CT homepage (EDM-320). Decided on horizontal layout. Approved 10/30/2024
 - VEBT presented VEBT’s mockups for Comparison Tool 10/30
   - Change the way the landing page works-navigate the search based on what the user is looking for
-  - Each link takes you to a specific search -not overwhelming the
+  - Each link takes you to a specific search not overwhelming the user
 - Potential new location for National Exams
   - Informed CAIA that we’re moving forward with the CT homepage (in collaboration with VEBT), including National Exams, instead of moving them to a Drupal page as OCTO suggested
   - CT Homepage incorporating Darla and Jodie’s suggestions. VEBT had their requirements meeting to present CT homepage 11/12
