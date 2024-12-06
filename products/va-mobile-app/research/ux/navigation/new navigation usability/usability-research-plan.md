@@ -37,8 +37,8 @@ Since Veterans can download the VA Health and Benefits mobile app any time after
 
 ### Previous User Research
 
-* An [Open Card sort study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md) was conducted in October 2021. The cards in the open sort represented current app functionality + planned/proposed app functionality. Their selection was based on conversations with stakeholders.
-* A [Closed card sort study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md) was conducted in March 2022. 
+* An [Open Card sort study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort) was conducted in October 2021. The cards in the open sort represented current app functionality + planned/proposed app functionality. Their selection was based on conversations with stakeholders.
+* A [Closed card sort study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/information-architecture/2022-03-closed%20card%20sort) was conducted in March 2022. 
   * **Key findings:**
     - **Overall, participants grouped the cards provided in similar ways**, and they included the same core groups of cards within the provided categories (Health, Benefits, Payments, Account, General VA Info).
     - **Participants overwhelmingly agreed on which categories to place the majority of cards**, with 20 out of 36 cards having very high agreement (33 had “high” agreement or greater). That said, more than half of participants (25) reported that they felt uncertain about where to place one or more cards.
@@ -103,7 +103,7 @@ This research will help us identify opportunities to improve the planned informa
 
 #### Research materials
 
-* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-conversation-guide.md)
+* [Conversation guide](usability-conversation-guide.md)
 * Figma Prototype ([Android](https://figma.fun/O2AJVI/view)) ([iOS](https://figma.fun/O2AJVI/))
 * [Research session sign up sheet](https://docs.google.com/spreadsheets/d/1hOXVQ2UIStK3dnMsPqariz4cKwVuO0yS63v2o6jTGo4/edit?usp=sharing)
 
