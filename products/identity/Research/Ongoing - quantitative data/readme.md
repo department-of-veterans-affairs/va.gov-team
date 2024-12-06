@@ -1,6 +1,6 @@
 # About this Research
 
-- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/sign-in-ctas/README.md)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login#product-outline-vagov--mobile-app-login)
 
 ## Background
 We want to regularly check in on qualitative data. This will help us uncover painpoints and other areas of improvement in our products and give us a view of how our products are doing overall. 
