@@ -1,7 +1,7 @@
 2/23/24
 Notes w/ Tracy W
 Vet Center Counselor
-South Texas 
+South Texas  
 
 Overview:
 App is good for Vietnam vets because it is super simple and website can be confusing. She shows them stuff on the phone to help them because using the GFA computer is so much work
