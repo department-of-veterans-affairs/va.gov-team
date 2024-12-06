@@ -661,8 +661,8 @@ has made an impact on their perception of value.
 
 
 
-* [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20evaluative%20research/personalized%20home%20screen%20-%20research%20plan.md)
-* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md)
+* [Research plan](personalized%20home%20screen%20-%20research%20plan.md)
+* [Conversation guide](personalized%20home%20screen%20-%20conversation%20guide.md)
 * Interview transcripts
 
 
