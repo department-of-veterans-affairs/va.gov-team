@@ -8,9 +8,14 @@ The scope of this is the MVP release. See the [out of scope](#out-of-scope) sect
 
 See also our [open questions](#open-questions).
 
+## MVP Release
+
+The MVP will only support nutrition and food specialty care.
+
+
 ## User stories
 
-- As a Veteran registered at an Oracle Health location, I want to be able to schedule `Nutrition and Food` appointments online.
+- As a Veteran registered at an Oracle Health location, I want to be able to schedule appointments Oracle Health appointments online.
 
 ## Requirements (WIP)
 
@@ -19,13 +24,15 @@ See also our [open questions](#open-questions).
 Follows the business rules for [login and access](login-and-access.md).
 
 OH facilities can be configured the online scheduling options available to Veterans:
-- Direct scheduling through VAOS can be enabled for `Nutrition and Food` appointments for a given location.
-- Requests through VAOS can be enabled for `Nutrition and Food` appointments for a given location
+- Direct scheduling through VAOS can be enabled for appointments of a given care type at a given location.
+- Requests through VAOS can be enabled for appointments of a given care type at a given location.
 
 ### Direct scheduling
 
 **A Veteran must [choose a type of care](schedule-flow/all--type-of-care.md).**
-   - Only `Nutrition and Food` appointments are supported for direct scheduling or requests. 
+   - VAOS supports direct scheduling and requests. 
+   - The MVP will only support nutrition and food specialty care.
+   - In the future other types of care will be supported [Types TBD]
 
 **A Veteran must [choose a location for their appointment](schedule-flow/va-direct--choose-location.md) for their selected type of care.**
 
@@ -41,8 +48,8 @@ Facilities can be configured:
 A OH user can schedule nutrition and food appointments at any OH location where:
   1. They are a registered patient.
     - Note: registering at one OH location automatically registers them at all other OH facilities.
-  1. AND They have had an appointment at that location for `Nutrition and Food`
-  1. AND The location has enabled direct scheduling for `Nutrition and Food`Rule:
+  1. AND They have had an appointment at that location for the selected type of care
+  1. AND The location has enabled direct scheduling for the selected type of care
 
 Note: Facilities with providers a user has a relationship with will only be displayed if the user has had a past appointment with that provider at that specific facility. This prevents users from accidentally scheduling appointments at distant locations if a provider has moved to a different facility.
 
@@ -51,8 +58,8 @@ When choosing an OH location, a Veteran will be directed to [request an appointm
   - AND has enabled requests.
 
 When choosing an OH location, a Veteran will be directed to call to schedule if:
-   - They select any type of care other than 
-   - They select `Nutrition and Food`, but have not had an appointment for that type of care at that location.
+   - They select any type of care other than those supported by VAOS 
+   - They select a supported type of care, but have not had an appointment for that type of care at that location.
    - Neither DS nor requests are enabled
 
 The system alerts the user if they can't continue scheduling an appointment because:
@@ -67,7 +74,7 @@ The system alerts the user if they can't continue scheduling an appointment beca
 Note: the URL for this page will be `https://va.gov/my-health/appointments/schedule/provider` 
 
 The Veteran is given the option to select:
-- Providers with whom they have had a recent appointment (within the timeframe configured in VAS) for `Nutrition and Food`.
+- Providers with whom they have had a recent appointment (within the timeframe configured in VAS) for a supported type of care.
 - None of the options
     - If they choose this option:
       - AND requests are enabled, they are directed to [request an appointment](#requests).
@@ -90,7 +97,7 @@ The Veteran is given the option to select:
 ### Requests
 
 A Veteran may request an appointment when:
-- [Facility leadership] have enabled requests for `Nutrition and Food` at their chosen location and:
+- [Facility leadership] have enabled requests for the selected type of care at their chosen location and:
   - Direct scheduling isn't enabled.
   - OR There are no appointment times available.
   - OR they want a different provider than the options allow.
@@ -119,7 +126,7 @@ An encounter is any interaction with a provider, and could include phone calls. 
 
 
 Q. Can a user schedule new patient appointments?
-   - A. No, they need to be registered and have had a past appointment (in the last 36 months) with a provider for `Nutrition and Food` to schedule at a location.
+   - A. No, they need to be registered and have had a past appointment (in the last 36 months) with a provider for the selected type of care to schedule at a location.
 
 Q. Can a user schedule into time slots that aren't associated with a provider?
    - A. No, selectable time slots always need to have a provider with whom the Veteran has had a previous appointment as the primary resource. 
@@ -131,7 +138,7 @@ Q. Can a user schedule into times reserved for new patients?
 
 Q. Does a user need an appointment with a provider to schedule/request nutrition and food appointments with them?
    - A. Yes, they must have had an appointment within the last 36 months.
-   - Note: For types of care other than `Nutrition and food`, a user MAY be able to schedule with providers when they don't have a recent appointment. One example that came up was `Whole Health`, which isn't supported by VAOS currently. We will update this document when we learn that's the case.
+   - Note: In the future, for types of care other than `Nutrition and food`, a user MAY be able to schedule with providers when they don't have a recent appointment. One example that came up was `Whole Health`, which isn't supported by VAOS currently. We will update this document when we learn that's the case.
   
 ## Design Decisions
 
