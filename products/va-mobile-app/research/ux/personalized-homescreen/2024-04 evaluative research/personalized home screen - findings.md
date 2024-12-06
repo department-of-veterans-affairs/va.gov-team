@@ -71,8 +71,8 @@ We have not previously conducted concept or usability research focusing on the V
 
 
 * [Desk research & discovery exploring personalization broadly](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#personalization-2023) was conducted several times from 2021-2023.
-* [VA mobile app - User Retention Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Findings.md#detailed-findings) (the study that uncovered the engagement problem the personalized home screen is attempting to address) was conducted in 2023.
-* [VA mobile app - Post-Launch Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/post-launch-discovery/july-2022) (the study includes exploring the value of the app to Veterans) was conducted in August 2022.
+* [VA mobile app - User Retention Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/post-launch-discovery/2023-07-mobile-app-retention/Research%20Findings.md#detailed-findings) (the study that uncovered the engagement problem the personalized home screen is attempting to address) was conducted in 2023.
+* [VA mobile app - Post-Launch Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/post-launch-discovery/2022-07-current-experience-discovery) (the study includes exploring the value of the app to Veterans) was conducted in August 2022.
 
 
 ### Research Goals
@@ -221,7 +221,7 @@ When asked to describe what the VA mobile app does for Veterans—based on first
 * **An assistant (1 participant):**
    >  “Like a personal assistant, it's like giving you highlights of what's coming up. which is very helpful. and you don't have to navigate so much...“ P10
 
-The first 3 descriptions are consistent with those mentioned by Veterans during Post-Launch Discovery Research conducted in August 2022 (_[Key finding #2 “Veterans value the mobile app because of its convenience, perceived timeliness and simplicity”](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/july-2022/final%20report.md)_), indicating that perceptions of what the app can do have probably remained consistent as opposed to changing as a result of the personalized home screen updates. 
+The first 3 descriptions are consistent with those mentioned by Veterans during Post-Launch Discovery Research conducted in August 2022 (_[Key finding #2 “Veterans value the mobile app because of its convenience, perceived timeliness and simplicity”](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/post-launch-discovery/2022-07-current-experience-discovery/final%20report.md)_), indicating that perceptions of what the app can do have probably remained consistent as opposed to changing as a result of the personalized home screen updates. 
 
 #### 2. Do participants **find value in the VA mobile app** based on the contents of the personalized home screen? What do participants **believe that the VA mobile app _can do for them in their current circumstances_ based on the contents of the personalized home screen?**   
 
