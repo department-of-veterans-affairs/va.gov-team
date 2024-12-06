@@ -22,7 +22,7 @@ Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)),
 
 The VA Flagship mobile app was [designed to help Veterans who are actively engaged with VA health and benefits services to keep track of their tasks and interactions across VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md#desired-user-outcomes).
 
-Quantitative data analysis indicates that users who initially download the app do not actively use the app over time, and [research participants have also reported that they download the app to see if it can help them but then don’t use it regularly](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Findings.md#detailed-findings) and/or don’t have time to go through the app’s functionality. 
+Quantitative data analysis indicates that users who initially download the app do not actively use the app over time, and [research participants have also reported that they download the app to see if it can help them but then don’t use it regularly](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/post-launch-discovery/2023-07-mobile-app-retention/Research%20Findings.md#detailed-findings) and/or don’t have time to go through the app’s functionality. 
 
 The team believes that because Veterans lack the time to explore the app, the mobile app’s one-size-fits-all approach limits the app’s perceived value. In particular:
 * Veterans don’t have a way to get a quick overview of what VA is doing for them now or that something is needed from them in order to keep things moving.
