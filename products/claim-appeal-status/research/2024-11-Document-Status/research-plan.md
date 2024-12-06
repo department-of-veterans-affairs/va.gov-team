@@ -63,8 +63,14 @@ For moderated usability tests:
 ### Recruitment approach
 The intended audience is Veterans who at some point filed a disability compensation claim with VA in the last 5 years.
 
-### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+**Primary criteria (must-haves)**
+- Veterans must have filed a (standard, non-FDC) disability compensation claim with the VA within the past 5 years.
+
+**Screener question**
+> "Have you filed a disability compensation claim with the VA in the last 5 years?" **Should be yes**
+> "Have you uploaded files using the claim status tool on VA.gov?"
+
+We intend to use Maximum Variation Sampling as a recruitment strategy. Below is the demographic breakdown of participants we would like:
 
 10 total participants:
 
