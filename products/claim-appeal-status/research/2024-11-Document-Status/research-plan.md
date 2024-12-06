@@ -63,13 +63,6 @@ For moderated usability tests:
 ### Recruitment approach
 The intended audience is Veterans who at some point filed a disability compensation claim with VA in the last 5 years.
 
-**Primary criteria (must-haves)**
-- Veterans must have filed a (standard, non-FDC) disability compensation claim with the VA within the past 5 years.
-
-**Screener questions**
-- Have you filed a disability compensation claim with the VA in the last 5 years? **Should be yes**
-- Have you uploaded files using the claim status tool on VA.gov?
-
 We intend to use Maximum Variation Sampling as a recruitment strategy. Below is the demographic breakdown of participants we would like:
 
 10 total participants:
@@ -81,7 +74,13 @@ We intend to use Maximum Variation Sampling as a recruitment strategy. Below is 
 * The participants must be using a desktop device during the study.
 
 **Primary criteria (must-haves)**
+- Veterans must have filed a (standard, non-FDC) disability compensation claim with the VA within the past 5 years.
 
+**Screener questions**
+- Have you filed a disability compensation claim with the VA in the last 5 years? **Should be yes**
+- Have you uploaded files using the claim status tool on VA.gov?
+
+### Pilot
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: Rocio De Santiago
 * Date and time of pilot session: Jan 6, 2024 at 11 AM
