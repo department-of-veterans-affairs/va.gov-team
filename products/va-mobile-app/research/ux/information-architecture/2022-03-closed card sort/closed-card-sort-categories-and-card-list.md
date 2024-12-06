@@ -4,7 +4,7 @@ Based on the findings from our [Open Card Sort](https://github.com/department-of
 
 
 
-| | [Description text used in OPEN Card Sort](Card-sort-card-list.md) | Modified description text for CLOSED Card Sort |
+| | [Description text used in OPEN Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort/Card-sort-card-list.md) | Modified description text for CLOSED Card Sort |
 | --- | --- | --- |
 | 1 | biometric sign on setting | Turn on/off the ability to sign in with your finger print or face ID  |
 |  | Blue Button | ~~Blue Button~~ |
