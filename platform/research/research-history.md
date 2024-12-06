@@ -805,7 +805,7 @@ _VA.gov CMS team: Lapedra Tolson_
 #### August 21 - 28: Higher-Level Review Usability Testing **
 *DSVA: Carola Ponce*
 - 12 Participants
-- Research Plan
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/research/reserch-hlr-design-082019.md)
 
 #### August 16-23: Get Care Discovery **
 *AdHoc: Caitlin Weber*
