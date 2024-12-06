@@ -1,10 +1,10 @@
 
 ## Card List for Closed Card Sort
-Based on the findings from our [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md#key-findings) regarding participants being confused about card descriptions & needing them to be explained ("All cards in sort were not clear to the Veterans", we modified our card descriptions to improve clarity. We also removed 5 cards and added two new cards.
+Based on the findings from our [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort/Card-sort-research-report.md#key-findings) regarding participants being confused about card descriptions & needing them to be explained ("All cards in sort were not clear to the Veterans", we modified our card descriptions to improve clarity. We also removed 5 cards and added two new cards.
 
 
 
-| | [Description text used in OPEN Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-card-list.md) | Modified description text for CLOSED Card Sort |
+| | [Description text used in OPEN Card Sort](Card-sort-card-list.md) | Modified description text for CLOSED Card Sort |
 | --- | --- | --- |
 | 1 | biometric sign on setting | Turn on/off the ability to sign in with your finger print or face ID  |
 |  | Blue Button | ~~Blue Button~~ |
