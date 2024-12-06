@@ -5,13 +5,13 @@ See [VA Mobile App - Information Architecture & Navigation - High Level Project 
 
 
 **Open Card Sort**
-- [Research plan](open%20card%20sort/Card-Sort-Research-Plan.md)
-- [Research report](open%20card%20sort/Card-sort-research-report.md)
+- [Research plan](2021-10-open%20card%20sort/Card-Sort-Research-Plan.md)
+- [Research report](2021-10-open%20card%20sort/Card-sort-research-report.md)
 
 
 **Closed Card Sort**
-- [Research plan](closed%20card%20sort/closed-card-sort-research-plan.md)
-- [Research report](closed%20card%20sort/closed-card-sort-research-report.md)
+- [Research plan](2022-03-closed%20card%20sort/closed-card-sort-research-plan.md)
+- [Research report](2022-03-closed%20card%20sort/closed-card-sort-research-report.md)
 
 **Proposed Sitemap**
 - See [VA Mobile App User Research - Information Architecture & Navigation - Phase III: Evaluative Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/usability-testing/new%20navigation%20usability/readme.md) for DETAILED VA Mobile App Sitemap
