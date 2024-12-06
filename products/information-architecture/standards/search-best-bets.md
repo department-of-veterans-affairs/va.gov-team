@@ -1,6 +1,6 @@
-# Requesting Search Best Bets for a VA.gov Page
-## Search best bets
-Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly.
+# Requesting setup or changes of a 'Search recommendations' (aka Best Bets) for a VA.gov Page
+## About 'Search recommendations'
+'Search recommendations' are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly.
 
 ### Examples
 <img width="500" alt="Screenshot 2023-04-14 at 3 05 13 PM" src="https://user-images.githubusercontent.com/122128479/232144625-ad79aed0-0897-46ff-8be0-354d72616d89.png">
@@ -17,13 +17,13 @@ Search “best bets” are suggested pages that appear in the “Our top recomme
 - **Search volume for related keywords is very low.** If site visitors are not searching for keywords related to your content, a best bet placement will not receive many impressions.
 - **Promoting a related content page.** A search best bet should not be used to promote content that is related to the keyword, but not a direct match (i.e. promoting a pension page on a disability search). Consider crosslinking within the content page and using the related content components for this.
 
-### Behavior
-- A maximum of 2 search best bets can appear on a search results page
-- Search best bets are displayed based on a match of the visitors entered search term to the words in the search best bet’s title and description
-   - If there are more than 2 search best bets that match the search terms entered , the 2 most relevant search best bets are displayed based on matches to the title, then description, then date.
+### Usability Guidance
+- A maximum of 2 search Search recommendations can appear on a search results page
+- Search recommendations are displayed based on a match of the visitors entered search term to the words in the search best bet’s title and description
+   - If there are more than 2 search Search recommendations that match the search terms entered , the 2 most relevant search Search recommendations are displayed based on matches to the title, then description, then date.
 - There can only be one search best bet per destination page
-- Search best bets cannot link to external sites
-- Search best bets cannot link to documents
+- Search recommendations should prioritize linking to va.gov pages. They can link to external VA sites, when those sites hold information for veterans or about benefits which is not currently covered on va.gov
+- Search recommendations cannot link to documents
 
 ### Content considerations
 - The title (link label) must use the H1 of the destination page
