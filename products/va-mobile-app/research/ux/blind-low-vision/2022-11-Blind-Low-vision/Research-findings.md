@@ -11,14 +11,13 @@ Melissa Lefevre (Melissa.lefevre@adhocteam.us) Liz Straghalis (liz.straghalis@ad
 
 [Hypotheses and Conclusions](Research-findings.md#hypothesis)
 
+[Key Findings](Research-findings.md#key-findings)
 
-[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/2022-11-Blind-Low-vision/Research-findings.md#key-findings)
+[Recommendations](Research-findings.md#recommendations)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/2022-11-Blind-Low-vision/Research-findings.md#recommendations)
+[Appendix](Research-findings.md#appendix)
 
-[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/2022-11-Blind-Low-vision/Research-findings.md#appendix)
-
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/2022-11-Blind-Low-vision/Research-findings.md#who-we-talked-to)
+[Who we talked to](Research-findings.md#who-we-talked-to)
 
 <br>
 
