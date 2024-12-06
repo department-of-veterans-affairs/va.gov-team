@@ -810,8 +810,7 @@ _VA.gov CMS team: Lapedra Tolson_
 #### August 16-23: Get Care Discovery **
 *AdHoc: Caitlin Weber*
 - 11 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/patient-portal/get-care/research/discovery)
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/get-care/research/discovery/research_plan.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/patient-portal/get-care-mobile/research/discovery)
 
 #### August 14 - 16: GIBCT Sec 107, Round 3 Moderated Usability Testing
 *Booz Allen: Amy Knox*
