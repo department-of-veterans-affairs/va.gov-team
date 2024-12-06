@@ -34,8 +34,8 @@ Since Veterans can download the VA Health and Benefits mobile app any time after
 ### Previous User Research
 We have not previously conducted concept or usability research focusing on the VA mobile app’s home screen.
 - [Desk research & discovery exploring personalization broadly](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#personalization-2023) was conducted several times from 2021-2023. 
-- [VA mobile app user retention discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Findings.md#detailed-findings) (the study that uncovered the problem the personalized home screen is attempting to solve) was conducted in 2023.
-- [VA mobile app - Post-Launch Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/post-launch-discovery/july-2022) (the study includes exploring the value of the app to Veterans) was conducted in August 2022.
+- [VA mobile app user retention discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/post-launch-discovery/2023-07-mobile-app-retention/Research%20Findings.md#detailed-findings) (the study that uncovered the problem the personalized home screen is attempting to solve) was conducted in 2023.
+- [VA mobile app - Post-Launch Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/post-launch-discovery/2022-07-current-experience-discovery) (the study includes exploring the value of the app to Veterans) was conducted in August 2022.
 
 ## Research Goals	
 Fulfills issue [#2160 ](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2160)
@@ -106,7 +106,7 @@ Remote sessions via Zoom
 
 
 #### Research materials
-* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md)
+* [Conversation guide](personalized%20home%20screen%20-%20conversation%20guide.md)
 * Pre-release build of the VA mobile app, distributed via Testflight: [link to iOS App build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#:~:text=link%20to%20iOS%20App%20build)
 * [Research session sign up sheet (DSVA Slack - Canvas)](https://dsva.slack.com/docs/T03FECE8V/F074PC9849F)
 
