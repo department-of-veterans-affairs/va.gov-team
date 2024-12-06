@@ -33,6 +33,6 @@
    - Misspellings or plural variations of keywords already in the title or description that are commonly entered in search queries
 
 ## Request Process
-1. Submit a [request to set up or change a search recommendation, in Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/Best%20Bet%20Request.md) at least 2 weeks prior to any target dates.
+1. Submit a [request to set up or change a search recommendation, in Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA+Best+Bet+Request.md) at least 2 weeks prior to any target dates.
 2. The Sitewide IA team will evaluate the request and provide results of analysis, recommendations, and next steps.
 3. Sitewide IA team will implement changes as applicable.
