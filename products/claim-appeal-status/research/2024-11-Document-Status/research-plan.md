@@ -73,10 +73,10 @@ We intend to use Maximum Variation Sampling as a recruitment strategy. Below is 
 * At least 5 women Veterans
 * The participants must be using a desktop device during the study.
 
-**Primary criteria (must-haves)**
+#### Primary criteria (must-haves)
 - Veterans must have filed a (standard, non-FDC) disability compensation claim with the VA within the past 5 years.
 
-**Screener questions**
+#### Screener questions
 - Have you filed a disability compensation claim with the VA in the last 5 years? **Should be yes**
 - Have you uploaded files using the claim status tool on VA.gov?
 
