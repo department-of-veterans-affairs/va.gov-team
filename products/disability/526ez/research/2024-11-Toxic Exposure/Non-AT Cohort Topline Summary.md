@@ -34,6 +34,8 @@ We’ve categorized each finding as high, medium, or low priority, based on the 
 * Severity: The issue has minimal impact on task completion and doesn’t affect user satisfaction in a meaningful way.  
 * Frequency: The problem is rare, occurring only in edge cases or for a small group of users.  
 * User Impact: Users can complete their tasks with minimal disruption.
+  
+<img width="592" alt="Screenshot 2024-12-06 at 12 37 54 PM" src="https://github.com/user-attachments/assets/042326b1-eb09-42e0-944b-30736a12eaf0">
 
 | High Priority  | Participants frequently got lost or confused while navigating through the list and loops to edit their responses in Task 4\. |
 | :---- | :---- |
