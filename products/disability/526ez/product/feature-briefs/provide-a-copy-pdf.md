@@ -43,6 +43,7 @@ This solution would retrieve PDFs directly from the Veteran's eFolder, providing
 - PDF formatting limitations may affect document readability
 - High concurrent usage during peak submission periods
 - Security and privacy requirements for document handling
+- No known working solution to provide accessible PDFs
 - Policy considerations for document generatiion and handling
 - Coordination needed with Employee Experience PDF Outputs initiative
 - Contact center preparation for new functionality
