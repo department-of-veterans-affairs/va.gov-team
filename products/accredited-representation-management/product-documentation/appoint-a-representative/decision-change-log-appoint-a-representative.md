@@ -52,3 +52,5 @@ _Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https:
   _Decided by Product Manager Lindsay Li-Smith ([Slack message]([https://dsva.slack.com/archives/C05L6HSJLHM/p1731689344772139?thread_ts=1731688117.981769&cid=C05L6HSJLHM))._
 - **12/3/2024**: Decided to hold off on exploring the overflow page for the 21-22 and 21-22a forms and proceed with limiting character input based on what the form fields allow.\
   _Decided in the ARM Leadership Sync ([Slack message]([https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD1c08ede8f72348308af7c7c30))._
+- **12/3/2024**: Decided not to consider refactoring Appoint to make a clear distinction between the 21-22 and 21-22a forms, given the high level of effort.\
+  _Decided in the ARM Leadership Sync ([Slack message]([https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBDea62d19cad5b44ccbaa5e0055))._
