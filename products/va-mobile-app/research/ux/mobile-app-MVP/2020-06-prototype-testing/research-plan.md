@@ -11,7 +11,7 @@ In an early May 2020 round of discovery research, we had ten 60-minute interview
 - How do Veterans currently use their mobile devices?
 - How to Veterans think a mobile app could help them better interact with VA?
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/mobile-app-MVP/2020-05-user-interviews/research-plan.md), [Discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/user-interviews/discussion-guide.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/mobile-app-MVP/2020-05-user-interviews/research-plan.md), [Discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/mobile-app-MVP/2020-05-user-interviews/discussion-guide.md)
 
 
 This round of research mainly aims to validate features for an MVP mobile app (~80%) and as a secondary goal (~20%) garner reactions to some more “blue sky” features and prepare for further testing for features past the MVP. 
