@@ -489,7 +489,7 @@ Another VSO (P5) mentioned that he’s had some claimants who have gotten the Bu
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/research/2024-09-VSO-Research/research-plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/research/2024-09-VSO-Research/conversation-guide.md))
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/research/2024-09-VSO-Research/conversation-guide.md)
 
 [Interview transcripts - EnjoyHQ](https://app.enjoyhq.com/sh/pj/934fba89-4861-48bb-8507-91e8278422aa)
 
