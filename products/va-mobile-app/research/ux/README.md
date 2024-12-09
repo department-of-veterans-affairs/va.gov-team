@@ -2,13 +2,22 @@
 
 
 ## UX Research: 2024
+- Examine the effectiveness of a new personalized home screen concept, and identify areas for improvement
+- Begin to investigate the Veteran Instability Problem Space
+- Improve the efficiency of Monthly App Review Analysis, using an LLM
 
 ### Activites and Output
 | Date                 | Activity                 | Description         | Output        |
 | :-------------              | :-------------              |:-------------         |:-------------|
 | **June 2024** | Concept and Usability Testing | Test the comprehension, usefulness and usability of a new perosnalized home screen concept for the VA Mobile app   | [Findings Summary](personalized-homescreen/2024-04%20evaluative%20research)|
+| **April 2024** | Interviews |  Discovery interviews with Vet Center reps to being to understand the Veteran Instability Problem Space | [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/veteran-instability-discovery/2024-04-VetCenter
+)|
 
 ## UX Research: 2023
+The goals of our UX research for 2023 were:
+
+- Begin to understand who is leaving the app after downloading (and why)
+- Identify usability obstacles for new features
 
 ### Activites and Output
 | Date                 | Activity                 | Description         | Output        |
@@ -20,7 +29,7 @@
 The goals of our UX research for 2022 were: 
 - Better understand who is using the VA mobile app & why
 - Understand pain points experienced by users who are blind or have low vision
-- Lay groundwork to ensure the structure and organization of the app makes sense and can accommodate the new features we have identified as of interest on our roadmap.
+- Lay groundwork to ensure the structure and organization of the app makes sense and can accommodate the new features we have identified as of interest on our roadmap (IA & navigation).
 - Identify usability obstacles for new features
 
 ### Activites and Output
