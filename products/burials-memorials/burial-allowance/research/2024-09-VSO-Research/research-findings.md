@@ -170,7 +170,9 @@ Lastly, VSOs utilize various methods to find the families of recently deceased V
 
 ##### Recommendation: 
 - Ensure that we are preparing Veterans and their families for the death of the Veteran
-- HMW leverage ways VSOs prepare Veteran and their families in our digital space
+- HMW leverage ways VSOs prepare Veteran and their families in our digital space?
+- HMW reach out to claimants after the death of a Veteran?
+
 
 #### 4) Timeframe for navigating death and burial
 
