@@ -23,6 +23,66 @@ Attendees: Angela, Hieu, Jessica, Lois, Renata, Alex, and Heather
 - Need a high-level research plan (like Jessica)
 
 
+
+## 2024-11-25
+Attendees: Angela, Hieu, Jessica, Lois, & Renata.
+
+#### OCTO Bluesky
+- Ryan presented this during the OCTO offline.
+- Lois feels like it is a status we can show on the MyVA.
+
+#### Priority Group
+- Recap of Ideation, and discuss the next steps. 
+- When should we bring the HEC stakeholders in?
+- The team discusses how to tackle Priority Group (what kind of research, how much does the Veterans need to know about the Priority Group language)
+- How do we trigger people to come back to update? 
+- Lois suggested that we would use a mural board similar to Jessica's. Thinking to be visible for others to look at. 
+
+#### Registration
+- Jessica discussed the possibility of using the A/B eligibility wizard. Similar to TERA birthday logic, show only relevant questions to the Veterans. 
+- Lois suggests maybe a bit of discovery around Eligibility. Maybe just a Content testing? 
+- Action Item: Consider content testing for Priority Group, Registration, and Eligibility. Lois supports this research and exploration. 
+- Jessica notes that the authenticated path is potentially easier. We already know certain information like disability ratings. 
+- Jessica goes through Mural:
+  - Lois wonders if the team needs to talk to VSO. Consider unconventional research. 
+  - Early ideas: Registration choice, mini-wizard. 
+  - Next steps? 
+    - When and where we should show HEC? 
+    - Next steps: HEC appetite for Priority Group. (How transparent should we be? Is there any business or history we need to consider? Is there an appetite for people to know more? How much content testing have we done in the past?
+  - Lois wants presearch before talking to HEC. Cartography Team. - Lois wants "presearch" prior to talking to HEC regarding Registration, Priority, and Eligibility. (IE: talking to the Cartography Team)
+- Consider content testing for Registration, Priority, and Eligibility. Lois is on board with the exploration and research. 
+- HEC: what is their appetite? How transparent should we be? Is there any business or history we need to consider? Is there an appetite for the Veterans to know more? How much content testing have we done in the past?
+#### CG Facility 
+- Lois wants the Platform to do what the team needs. Jessica notes that the model is actually already custom since the Platform does not do what the team needs.
+
+#### Main takeaway (also in slack)
+- Lois wants presearch prior to talking to HEC regarding Registration, Priority, and Eligibility. (IE: talking to the Cartography Team)
+- Consider content testing for Registration, Priority, and Eligibility. Lois is on board with the exploration and research.
+- HEC: what is their appetite? How transparent should we be? Is there any business or history we need to consider? Is there an appetite for the Veterans to know more? How much content testing have we done in the past?
+- More info and thoughts on the 'wizard' concept:
+   - The deprecated wizard pattern - but this is specific to questions before starting a form online
+      - Vs. what we are thinking for registration/enrollment wizard is more geared toward specific questions based on Priority Group placement then short paths based on those answers
+      - see the business logic based old registration flows here
+- There is the income limits tool - which helps those who don't have other eligibility factors see if they qualify to enroll based on income only
+
+
+## 2024-11-12
+Attendees: Angela, Hieu, Jessica, Lois, & Renata.
+
+#### Social Listening
+- Ideation workshop, work goes beyond us but we take it to our teams. 
+- We have a VA System section that is beyond our product
+- OCTO Sync, we’ll try to get our their schedule soon. Lois notes ‘in-progress’ presentation is good. 
+
+#### Caregiver Research
+- Lois wants us to consider the fiction for Recommendation 1 (Revisit content and resource link on the introduction and static page). 
+- Eligibility process, if 73% of the applicants fail, we should not send people through this if they don’t qualify.
+- Recommendation 2, exploring how to clarifying information about secondary caregiver and their benefits. 
+   - If content is better than VA.gov and it is not on there, it should be. Jessica notes the Caregiver sub-domain does. 
+   - Lois is not comfortable with linking off to another site (don’t want to be dependent on a site that may go away).
+- Recommendation 3, update to facility search. Make it clear they need to select a facility. 
+- Recommendation 4, some people are hesitant to go to their closest facility (Auto-recommendation). Explore 
+
 ## 2024-11-04
 Attendees: Angela, Hieu, Jessica, Lois, & Renata.
 
