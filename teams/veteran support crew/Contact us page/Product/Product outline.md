@@ -36,8 +36,8 @@ First, we’ll conduct [usability tests](https://github.com/department-of-vetera
 -	People trust VA more because support channels, especially the website, can provide needed answers.
 
 ## Initiatives
-### Contact us page initial improvements (2024)
-- **Description**: We'll make improvements to Contact us based on: user research, a review of other support experiences on websites/mobile apps, and a review of current analytics and user feedback.
+### "Contact us" page initial improvements (2024)
+- **Description**: Update content based on: user research, a review of other support experiences on websites/mobile apps, and a review of current analytics and user feedback.
 - **Timing**: FY24 Q4 (Jul to Sep) to FY25 Q1 (Oct to Dec)
 - **Objective**: Increase customer satisfaction score to 25%.
 - **Key results**:
@@ -46,7 +46,10 @@ First, we’ll conduct [usability tests](https://github.com/department-of-vetera
    - Review of other support experiences on websites/mobile apps
    - User insights based on user research
    - Recommendations for initial improvements
-   - Initial improvements made on Contact us after identifying available resource(s) who can do the work
+   - Initial improvements made on Contact us
+
+ ### TBD (2025)
+ - **Ideas**: Test/implement simple Contact us design
 
 ## Measuring Success
 See more information in our [Product metrics for ‘Contact us’ page](🟡 need to add link) doc.
