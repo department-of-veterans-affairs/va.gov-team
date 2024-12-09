@@ -4,11 +4,13 @@ Benefits Team 1 · November 2024
 
 ## Background
 
-The file upload experience in the Claim Status Tool on VA.gov needs improvement, as the upload status is unclear for Veterans. This uncertainty can lead to frustration about whether the file was successfully uploaded, particularly in cases of Silent Failures. Our designs aim to provide Veterans with real-time transparency into the status of their evidence submissions. We believe this visibility will reduce anxiety, while clear and actionable feedback on failures will boost Veterans' confidence in the process and enable immediate resolution. This approach is also expected to reduce support inquiries to CST.
+The file upload experience in the Claim Status Tool on VA.gov needs improvement, as the status of their uploaded documents is unclear for Veterans. In the past, this uncertainty has led to silent failures, where the Veteran wasn't told an error occurred at some point after upload. We now send an email to the Veteran when such an error occurs, so the failures are no longer "silent.". In these improvements, we aim to provide Veterans with real-time transparency into the status of their evidence submissions. We believe this visibility will reduce anxiety, while clear and actionable feedback on failures will boost Veterans' confidence in the process and enable self-service resolution. This approach is also expected to reduce support inquiries to CST.
 
-Silent Failures occur when a Veteran submits a document, but it fails to reach downstream services or owners of record. When the submission fails, the Veteran isn’t notified of this problem. This lack of real-time updates creates confusion, delays corrective action, increases support inquiries, and can lead to repeated failed attempts.
+Although we have resolved the major pain point of silent failures and made Veterans aware of processing issues with their files, we want to provide background information on what we considered silent failures and describe how they impacted Veterans.
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Document%20Status%20Initiative.md).
+Silent failures occur when a Veteran submits a document, but it fails to reach downstream services or record owners. In the past, Veterans were not notified of these issues. This lack of real-time updates created confusion, delayed corrective actions, increased support inquiries, and led to repeated failed attempts.
+
+[Link to initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Document%20Status%20Initiative.md).
 
 ### OCTO Priorities 
 
@@ -21,10 +23,10 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 ## Research Goals
 
-1. Validate the design patterns for a successful file upload scenario.  
-2. Ensure the design patterns effectively address a Type 1 failure (submission fails immediately).  
-3. Ensure the design patterns effectively address a Type 2 failure (submission fails in downstream services).  
-4. Evaluate the user journey to determine whether Veterans make a connection between receiving failure notifications via email and viewing in-app alerts for Type 1 and Type 2 failures.
+1. Evaluate whether participants can use the alerts and statuses to effectively understand different types of success and upload failures.
+2. Identify whether Veterans recognize the connection between a failure notification email and the in-app alerts for Type 1 and Type 2 failures.
+3. Identify what a Veteran expects to happen when they mail in documents
+4. Understand how the upload status impact trust in the claims process
 
 ### Outcome
 
@@ -32,10 +34,11 @@ Our research will reveal whether real-time status updates are helpful to Veteran
 
 ### Research questions
 
-* Is the "In progress" state useful - do they understand that the document hasn't been completely uploaded to their claim?		
-* Do Veterans make the connection between the email content and the "In progress" states?		
-* Do Veterans understand what to do after seeing the email and in-app alerts for failed uploads?
-* Do Veterans feel confident in VA's ability to properly process their mailed-in documents?
+1. Is the "In progress" state useful - do they understand that the document hasn't been completely uploaded to their claim?
+2. Do Veterans make the connection between the email content and the in-app alerts
+3. Do Veterans understand what to do after seeing the email and/or in-app alerts for failed uploads?
+4. Do Veterans feel confident in VA's ability to properly process their mailed-in documents? What do Veterans expect to happen in CST when they mail in a document?
+5. Do the interactions result in any concerns about deadlines or impact trust in VA?
 
 ### Hypothesis
 
@@ -67,11 +70,13 @@ We intend to use Maximum Variation Sampling as a recruitment strategy. Below is 
 
 10 total participants:
 
-* 5 Black Veterans
-* 5 Veterans age 55-64+
-* 4 Veterans without a degree
-* At least 5 women Veterans
+* 3 Black Veterans
+* 3 Veterans age 55-64+
+* 2 Veterans without a degree
+* 2 Rural
+* At least 3 women Veterans
 * The participants must be using a desktop device during the study.
+
 
 #### Primary criteria (must-haves)
 - Veterans must have filed a (standard, non-FDC) disability compensation claim with the VA within the past 5 years.
