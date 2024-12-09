@@ -1,5 +1,28 @@
 # Design Weekly Sync Agenda
 
+## 2024-12-02
+Attendees: Angela, Hieu, Jessica, Lois, Renata, Alex, and Heather
+
+#### Ideation Work
+- Renata goes over the Ideation Workshop and the next steps.
+- Lois and Danielle in dialogue. Danielle wants to lead the approach by looking at A vs B testing. 
+- The team does not recall any current process to notify the Veteran to update EZR. Maybe only to update the means test.
+- EZR: Notification may be too large at the moment so the static content testing may be the best bang for the buck. But need to confirm with Danielle and consider bite size. 
+- ACTION ITEM: We need to meet with Danielle for Research Planning. 
+#### Registration
+- Jessica goes over the Mural Board. 
+- Where and How in the form flow do we add the ‘wizard’
+- What do we need to know, what do we need to learn. 
+- Lois had her head more around this than the EZR portion. 
+- Danielle has a toxic exposure (originally planned to be on VA.gov)  wizard that has not gone live. 
+- Heather reminded the team not to pigeon-hole into just service-connected in the wizard.
+- Jessica notes that the Copay static page has the same list as the registration.  (https://staging.va.gov/health-care/copay-rates)
+- Heather looked at the metrics on Friday. It looks similar to the month of October. 
+
+#### Confirmation Flow (Household Financial Info V2)
+- Need a high-level research plan (like Jessica)
+
+
 ## 2024-11-04
 Attendees: Angela, Hieu, Jessica, Lois, & Renata.
 
