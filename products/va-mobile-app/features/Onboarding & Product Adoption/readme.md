@@ -8,6 +8,9 @@
 ### Data
 
 ### UX
+* [Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Onboarding%20%26%20Product%20Adoption/ux/comparative-analysis.md)
+* [Design inspiration](https://www.figma.com/board/oaF7dSbwnt1Ga3v6rrVsx8/Onboarding---%F0%9F%A7%AA-Discovery-%26-Research---VA-Mobile-OLD?node-id=0-1)
+* [Current user journey / onboarding](https://www.figma.com/board/oaF7dSbwnt1Ga3v6rrVsx8/Onboarding---%F0%9F%A7%AA-Discovery-%26-Research---VA-Mobile-OLD?node-id=9-380)
 
 ### Content
 * [Value proposition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Onboarding%20%26%20Product%20Adoption/content/value%20proposition.md)
