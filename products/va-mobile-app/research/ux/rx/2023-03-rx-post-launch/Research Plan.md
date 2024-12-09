@@ -44,7 +44,6 @@ The research covers a broad spectrum of VA services, and applies at any stage fr
 
 The VA mobile app team will use the findings from this research to help the team understand how Veterans interpret prescription dates and prescription statuses in the Rx feature on the mobile app. We want to understand how Veterans use this information to complete tasks in the app, and what they do or do not understand about them. Additionally, the team will get a baseline understanding of the current experience Veterans have refilling a prescription on the flagship mobile app. 
 
- \
 The findings from this research can be utilized by other teams who are displaying prescription dates and statuses within other VA digital tools.
 
 **Research questions**
@@ -63,7 +62,7 @@ The findings from this research can be utilized by other teams who are displayin
 Veterans will struggle to refill a prescription using the mobile app if they cannot easily understand the status of a prescription to determine if it is refillable.
 
 Veterans will struggle to refill a prescription using the mobile app if they cannot easily interpret the dates associated with a prescription and cannot identify what action they need to take to refill the prescription. \
- \
+ 
 Veterans will struggle to refill a prescription if too much information is displayed to them that does not help them do this task.
 
 
@@ -82,7 +81,7 @@ These sessions will be remote via zoom.
 ### 
 **Research materials**
 
-[Link to conversation guide](Conversation Guide.md)
+[Link to conversation guide](Conversation%20Guide.md)
 
  
 **Recruitment approach**
