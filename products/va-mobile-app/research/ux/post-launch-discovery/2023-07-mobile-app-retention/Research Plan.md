@@ -19,8 +19,8 @@ Retaining our current users is a key part of our expansion strategy. Understandi
 
 
 ### 
-**OCTO Priorities** \
- \
+**OCTO Priorities** 
+ 
 This research supports OCTO priority #4: expand the flagship mobile app.
 
 
@@ -30,9 +30,9 @@ This research supports OCTO priority #4: expand the flagship mobile app.
 
 ### 
 This research connects to the following key stages on the Veteran Journey: Starting up, taking care of myself, putting down roots, reinventing myself, retiring, aging. \
- \
-**Problem Statement** \
- \
+ 
+**Problem Statement** 
+ 
 A significant portion of mobile app users are lost before ever logging-in, and a significant portion of users who log-in during the month they first open the app drop off over the following month, and we are not clear why this is happening.
 
 
@@ -93,7 +93,7 @@ For moderated interviews:
 
 
 
-* [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Conversation%20Guide.md)
+* [Link to conversation guide](Conversation%20Guide.md)
 
 ## 
 **Recruitment**
