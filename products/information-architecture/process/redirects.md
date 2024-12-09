@@ -111,13 +111,13 @@ If changing the URL of any modernized page in Drupal, these are additional steps
 
 ## Archiving a node in Drupal
 
-1. After IA team confirms that redirects are in place for one Drupal node to another Drupal node, the copy editor can plan to start the process to archive the older Drupal node. This can happen anytime in the following days, but the sooner the better. Waiting longer can cause problems for editors who may link to or make changes to the wrong outdated link.
-2. Copy editor tags CMS team members Ian Sears and Troy Griffin in CMS channel to give a heads up that we're archiving pages with confirmed redirects. Note that there may be some false broken link reports coming in that we'll monitor. 
-3. Writer or copy editor replaces crosslinks with updated node. 
+1. After IA team confirms that redirects are in place for one Drupal node to another Drupal node, the copy editor can plan to start the process to archive the older Drupal node. This can happen anytime in the following days, but the sooner the better. Waiting longer can cause problems for editors who may link to or make changes to the wrong outdated node.
+2. Writer or copy editor replaces crosslinks with updated node. 
     **Note:** On pages where we're updating crosslinks: If the only change to the copy is updating the link or node, the writer can publish the one updated crosslink. If there are any copy changes, the writer passes the page to the copy editor to review. **Before publishing**: Check the revison log, and make sure there are no other other draft changes.
-4. Copy editor publishes the updated page (or checks the updated link on production).
+3. Copy editor publishes the updated page (or checks the updated link on production).
+4. Copy editor tags CMS team members Ian Sears and Troy Griffin in CMS channel to give a heads up that we're archiving pages with confirmed redirects. Note that there may be some false broken link reports coming in that we'll monitor. 
 5. Copy editor archives older node. Then monitors #content-broken-links in Slack channel 2 hours later (after content build takes place).
-    **Note:** If not all crosslinks get updated before a node is archived, the copy editor should coordinate with the writer to create an estimate for when we can address and solve any false broken link reports. Copy editor shares that estimate with CMS team in #content-broken-links. 
+    **Note:** If not all crosslinks get updated before a node is archived, the copy editor should coordinate with the writer to create an estimate for when we can address and solve any false broken link reports. Copy editor shares that estimate with CMS team in #content-broken-links.
 
 ## Archiving a best bet
 To change this one you can either
