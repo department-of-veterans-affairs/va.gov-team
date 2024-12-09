@@ -1,5 +1,5 @@
 # Debt Resolution Research Team 
-**Research documentation and notes for the Debt Resolution Team**
+Below are the links to the various research articles for which the Debt Resolution Team is responsible.
 
 ---
 
