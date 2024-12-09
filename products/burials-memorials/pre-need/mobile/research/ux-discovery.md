@@ -57,7 +57,8 @@
     * Given the feedback we’ve seen about wanting to be notified about claims statuses, are Veterans going to be okay with only finding out about this in the mail?
     * **Answers:** Pre-need burial letters are only sent via paper mail due to technical limitations. If they lose the letter, they would need to reach out to NCA at this point. They are not able to access it on their VA.gov account because NCA does not currently integrate with VA.gov.
 * Opportunity and impact: [from Product Brief] *30% Submission Success Rate between 2020 - 2022 (falls in the middle compared to other Va.Gov benefit forms).*
-    * If users start a pre-need burial claim on VA.gov, does it show as started somewhere within the UI with a way for them to finish it? – Assuming yes, but need to test this
+    * If users start a pre-need burial claim on VA.gov, does it show as started somewhere within the UI with a way for them to finish it? – **Answer: Yes, as long as it's completed within 60 days (see screenshot below). Once it's been submitted, it doesn't appear as submitted/pending in staging currently. Only a few forms have this visibility (also outlined in screenshot).**
+    * ![staging va gov_my-va__postLogin=true](https://github.com/user-attachments/assets/576a7c1e-caac-47e8-9ad7-569f238671d4)
     * Could we surface if a pre-need burial claim has been *started* but has not yet been submitted? Thinking we could link to VA.gov if we’re not building this process in the app
 * User goal [from Pre need README-2023.md]: Received an eligibility determination within 45 days.
     * What is the current eligibility determination timeframe?
