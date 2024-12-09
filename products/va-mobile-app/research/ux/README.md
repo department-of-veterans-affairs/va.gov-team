@@ -10,8 +10,7 @@
 | Date                 | Activity                 | Description         | Output        |
 | :-------------              | :-------------              |:-------------         |:-------------|
 | **June 2024** | Concept and Usability Testing | Test the comprehension, usefulness and usability of a new perosnalized home screen concept for the VA Mobile app   | [Findings Summary](personalized-homescreen/2024-04%20evaluative%20research)|
-| **April 2024** | Interviews |  Discovery interviews with Vet Center reps to being to understand the Veteran Instability Problem Space | [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/veteran-instability-discovery/2024-04-VetCenter
-)|
+| **April 2024** | Interviews |  Discovery interviews with Vet Center reps to being to understand the Veteran Instability Problem Space | [Research Folder](veteran-instability-discovery/2024-04-VetCenter)|
 
 ## UX Research: 2023
 The goals of our UX research for 2023 were:
