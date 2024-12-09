@@ -4,6 +4,7 @@ about: Template for new content task, for CAIA internal use.
 title: 'New Content Task Ticket'
 labels: 'sitewide CAIA, sitewide content'
 project: 'Sitewide CAIA'
+assignees: aprocik1
 ---
 
 > [!WARNING]

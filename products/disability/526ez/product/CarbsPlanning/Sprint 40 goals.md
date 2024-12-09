@@ -12,8 +12,11 @@
     - Zero silent failure email for 526 
 
  - Scott Regenthal
+    - 0781/a ZSD discovery and reporting on failures
+      
+ - Kyle Soskin
     - Zero silent failure email for 4142 LH Polling 
-  
+    
   - Alison Jones
     - Lighthouse migration of the 0781/a 
 

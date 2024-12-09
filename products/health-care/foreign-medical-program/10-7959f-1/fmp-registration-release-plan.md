@@ -104,15 +104,17 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 3 days (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%, ~20
+- Length of time: 1 day
+- Percentage of Users: 25%
 
 #### Results
 
 - Number of unique users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+   - 2 submits
+   - 100% successful status callbacks
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
+- Types of errors logged: none
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
 ### Stage C: 50% of users
@@ -128,6 +130,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 - Number of unique users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+   - 6 submits
+   - 100% successful status callbacks
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]

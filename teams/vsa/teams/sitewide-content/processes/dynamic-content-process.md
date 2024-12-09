@@ -23,7 +23,7 @@ The Product team should tell Sitewide CAIA about plans for an incremental launch
 |Owner | Task|
 --|--
 | Product team | If they haven't already, Product team should open a [Sitewide Content, Accessibility, and IA Intake Form issue ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) to describe the project. In the original intake ticket, Product team should request support for a staged rollout (or incremental release). Sitewide CAIA will create a child ticket to track this work. Product team should notify CAIA in #sitewide-content-ia with the issue link. **Include any timing requirements/goals**, based on full launch to 100% of users. |
-| Sitewide CAIA team & Product team | The Product team works with the Sitewide CAIA team and SMEs to determine what content needs to be dynamic. The teams work together to finalize content, via ticket or via meetings around the ticket. The teams use the [content design steps listed in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md#content-design-process-steps). The teams discuss what content to show readers when the feature toggle is on and what content to show readers when the feature toggle is off. |
+| Sitewide CAIA team & Product team | The Product team works with the Sitewide CAIA team and SMEs to determine what content needs to be dynamic. The teams work together to finalize content, via ticket or via meetings around the ticket. The teams use the [content design steps listed in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md#content-design-process-steps). The teams discuss what content to show readers when the feature toggle is on and what content to show readers when the feature toggle is off. At this point the team should also decide how they would like search engines to interact with their tool before it is live to all users (see section below for more info)|
 | Sitewide CAIA team | Provide final copy via the issue. If different content should appear in the widget when the feature toggle is off, Sitewide CAIA notes this. |
 | Product team | Create a React widget in vets-website for the dynamic content. |
 | Product team | Create a feature toggle (Flipper) in vets-api (to use in vets-websites) to control the display of content. </br>**Note:** The product team is responsible for creating **and** monitoring the feature toggle.<br> [Read documentation on feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide) |
@@ -81,4 +81,12 @@ Follow the [platform developer docs](https://depo-platform-documentation.scrollh
 ## Notes for testing react widgets
 * For general testing, ensure the widget code has been deployed to production before testing with Sitewide CAIA.
 * If your widget is controlled by a feature toggle, when Sitewide CAIA is ready for testing, you will need to fully enable the feature toggle for all users in order to test the enabled rendering. Testing will not work with the toggle in a conditional state. You may reset the toggle to whatever condition is required after testing is completed.
+
+## Search engine options for staged rollouts
+1. Determine whether there is a risk of harm if users find your product via search engine (like google), but can't access it.
+2. Take appropriate actions depending on that risk:
+- Low risk scenario: You may determine that the risk is low, in which case it might be fine for the product to show up in search engines but not be accessible to all users for awhile. 
+- Medium-High risk scenario:
+-- Option 1: If you want to prevent users from finding your product via search engines, add a [noindex metatag](https://developers.google.com/search/docs/crawling-indexing/block-indexing).
+-- Option 2: Create a messaging state for your product for users that are not in the rollout group, but who find the page from a search engine, alerting them that the product is under construction and to check back later (work with content on the specific wording)
 

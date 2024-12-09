@@ -12,7 +12,7 @@ Update copy to biometric opt-in screen
 ## V2a decisions
 After getting feedback from a stakeholder, we updated the secondary button for both the Face ID and Push context screens from "Skip" to "Skip for now". All other decisions remain the same.
 
-[V2a GH ticket 9012](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/9012)
+[V2a GH ticket 9012](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9012)
 
 | Screen name            | Screenshot with updated button copy            | Explanation        | Decision made by | Date                 |
 | :-------------      | :-------------      | :-------------              |:-------------         |:-------------|
@@ -24,7 +24,7 @@ After getting feedback from a stakeholder, we updated the secondary button for b
 We took our V1 of push notifications consent and opt-in experience and made edits to account for potential additions to notifications. Not all screens had changes from V1 to V2.
 
 [V2 content GH ticket 8420](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8420)
-<br>[Section in Figma with V2 designs/content](https://www.figma.com/design/LKmqgew3L2nSBl0qF6YOwI/%F0%9F%94%8D-Home-2.0---Working---VAMobile?node-id=1243-4986&t=iL0XLO00lmAHNMHR-4)
+<br>[Section in Figma with V2 designs/content](https://www.figma.com/design/LKmqgew3L2nSBl0qF6YOwI/%F0%9F%94%8D-Home-2.0---Working---VAMobile?node-id=1243-4986&t=iL0XLO00lmAHNMHR-4](https://www.figma.com/design/L702ULyDKZbO2WBIHdJbyX/Global-Features-2.0---%F0%9F%94%8D-Working---VA-Mobile?node-id=1458-8681&t=CGzk3FSZjTppNC2z-4))
 
 | Screen name            | Before (V1 decision)            | After (V2 decsion)         | Explanation        | Decision made by | Date                 |
 | :-------------      | :-------------      | :-------------              |:-------------         |:-------------         |:-------------|
@@ -39,7 +39,7 @@ _*The following screens have no changes from V1 decisions: Face ID, Notification
 ## V1 decisions
 In February/March 2024, we began our initial thinking around the end-to-end experience for Veterans when (1) they're first asked to turn on notifications and (2) there are subsequent encounters with push notification capabilities. These decisions were based on an opt-in flow that only accounts for the current push notifications we had at the time (appointments and messages). 
 <br>[V1 content GH ticket 8037](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8037)
-<br>[Section in Figma with V2 designs/content](https://www.figma.com/design/LKmqgew3L2nSBl0qF6YOwI/%F0%9F%94%8D-Home-2.0---Working---VAMobile?node-id=993-8290&t=iL0XLO00lmAHNMHR-4)
+<br>[Section in Figma with V1 designs/content](https://www.figma.com/design/L702ULyDKZbO2WBIHdJbyX/Global-Features-2.0---%F0%9F%94%8D-Working---VA-Mobile?node-id=1458-8474&t=CGzk3FSZjTppNC2z-4)
 
 | Screen name            | Before            | After (or net new)         | Explanation        | Decision made by | Date                 |
 | :-------------      | :-------------      | :-------------              |:-------------         |:-------------         |:-------------|

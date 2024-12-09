@@ -11,8 +11,8 @@
 | April 2024 | FE sign in flows | A "phase 0" secondaray research to familiarize ourselves to this product as we take ownership | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-04%20FE%20Sign%20in%20Flows/Front%20end%20sign%20in%20flow%20-%20discovery%20research.md)|
 | May 2024 | Identity support process | remote, moderated usability/UAT sessions of a new Slackbot to standardize our team's support request intake | [Demo slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-05%20Support%20Process%20Slackbot%20UAT/2024-05%20Slackbot%20UAT%20research%20readout%20slides.md) |
 | Aug 2024 | Analytics Review | secondary research to uncover findings and guide future research | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-08%20Analytics/2024-08%20Google%20Analytics%20identity%20related%20findings.md) |
-| Spet 2024 | Sign in page changes for CSP deprecation | 10 remote, moderated usability sessions | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-08%20Sign%20in%20transition/2024-08%20Research%20Findings.md) |
-| on hold | MFA security key| diary study | |
+| Sept 2024 | Sign in page changes for CSP deprecation | 10 remote, moderated usability sessions | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-08%20Sign%20in%20transition/2024-08%20Research%20Findings.md) |
+| Nov 2024 | Guardian access| tbd | |
 | | | | |
 
 

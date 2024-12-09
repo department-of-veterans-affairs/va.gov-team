@@ -5,6 +5,7 @@
      - 3/2/23: Updated site map image so proposed page is in orange
      - 3/8/23: Edits (JM)
      - 3/23/23: updated URL link to match site map image (JM)
+     - 12/3/2024: Staged roll-out is complete, added detail for the additional entry points (SW)
 
 **Team:** Digitize Team
 
@@ -44,47 +45,50 @@ www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech
 
 ## <a name="nav"></a>Entry points <br>
 
-1. Housing assistance hub - Update link
+1. Housing assistance hub, link to About page - Update link
   - Placement description: Under 'Get Veterans housing assistance grants', the current link titled 'Apply for a Specially Adapted Housing grant' links to the 'How to apply' page. The title for this link will need to be updated so it reflects the page it links to.
-  - Link label: TBD by Sitewide Content
+  - Link label: How to apply for an adapted housing grant
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/how-to-apply/
   - Notes: The 'How to apply' page will serve as informational and the 'Apply for' page will be that actual application
+  - Implementation notes: As of 11/20/2/24 this is in place
 <img width="714" alt="Screenshot 2023-03-01 at 2 44 29 PM" src="https://user-images.githubusercontent.com/122128479/222260801-d24cbd0f-66d2-494c-a906-84a6f4d4effa.png">
 
-2. Housing assistance hub - Add
-  - Placement description: Under 'Get Veterans housing assistance grants' as the 3rd option
-  - Link label: TBD by Sitewide Content
+
+2. Housing assistance hub, link to Apply page - Add **Note: As of 12/5/2024 we've revised again. We SHOULD include this entry point, per the draft hub page guidance..**
+  - Placement description: Under 'Get Veterans housing assistance grants' add a new 3rd option
+  - Link label: TBD by Sitewide Content, something that conveys "Apply for an adaptive housing grant"
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
-  - Notes: 
+  - Implementation notes: As of 12/4/2/24 this is still needed - A. and Triana to do
   
 ![Screenshot 2023-03-01 at 6 40 51 PM](https://user-images.githubusercontent.com/122128479/222300205-91cd8fcc-f0cb-4f5d-b4ea-81476e2da0d8.png)
+
 
 3. [How to apply for an adapted housing grant](https://www.va.gov/housing-assistance/disability-housing-grants/how-to-apply/) - Modify
   - Placement description: Replace link label text so that it refers to the online application rather than to eBenefits
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
   - Notes: eBenefits is being sunset in June 2024
+  - Implementation notes: As of 11/20/2/24 this is in place
  
 4. [Disability housing grants for Veterans](https://www.va.gov/housing-assistance/disability-housing-grants/) - Modify
   - Placement description: Replace link label text so that it refers to the online application rather than to eBenefits
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
-  - Notes:
+  - Implementation notes: As of 11/20/2/24 this navigation is in place, but links to this page still use the SHA and SAH accronyms. Triana and A. will do next steps here.
 
 5. Housing assistance left nav - Add
   - Placement description: Under 'Housing grants' as the 2nd option
-  - Link label: TBD by Sitewide Content
+  - Link label: Apply now
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
-  - Notes: 
+  - Implementation notes: As of 12/5/2/24 this is in place
  <img width="446" alt="Screenshot 2023-03-01 at 2 52 40 PM" src="https://user-images.githubusercontent.com/122128479/222262424-d2ed2ba0-4b82-4d62-9e59-c1dc83481e7e.png">
 
  
 6. Housing assistance top nav fly out - Add
   - Placement description: Under 'Get Veterans housing grants' column as the 4th option (bottom)
-  - Link label: TBD by Sitewide Content
+  - Link label: Apply for an adaptive housing grant
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
-  - Notes: 
- 
+  - Implementation notes: As of 12/5/2/24 this is in place
 ![Screenshot 2023-03-01 at 6 37 44 PM](https://user-images.githubusercontent.com/122128479/222299846-57c4bcf0-ab07-4a55-a3a7-69f3a5e5e4a4.png)
 
 

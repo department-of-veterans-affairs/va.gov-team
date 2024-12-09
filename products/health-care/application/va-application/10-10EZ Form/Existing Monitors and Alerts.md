@@ -29,7 +29,7 @@ All alerts are set up to populate the **#health-tools-1010-apm** slack channel.
 ## Monitor: 1010EZ submission job has failed retries
 ### Triggered: 1010EZ submission job has failed with no retries left
 #### Alert Reason
-- At least one application submission has been retried 24 times, has failed and will not be retried again.
+- At least one application submission has been retried 16 times, has failed and will not be retried again.
 #### Team Actions
 - Communicate the issue to the Product Owner
 - Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed

@@ -341,6 +341,7 @@ The following feedback highlights general aspects of the [VA.gov](http://va.gov/
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/research/2024%20VAMC%20CMS/ImageUploader/ConversationGuide.md)
 - [Link to recruitment email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/research/2024%20VAMC%20CMS/ImageUploader/RecruitmentEmail.md)
 - [Link to prototype](https://www.figma.com/proto/OjptXN3dzYqJHDQb8zV2eb/CMS-Research?page-id=246%3A8&node-id=254-1068&viewport=396%2C351%2C0.13&t=gZUe6WufnnPEQhVb-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=254%3A1068&show-proto-sidebar=1&hotspot-hints=0)
+- [Link to Figma design]([https://www.figma.com/proto/OjptXN3dzYqJHDQb8zV2eb/CMS-Research?page-id=246%3A8&node-id=254-1068&viewport=396%2C351%2C0.13&t=gZUe6WufnnPEQhVb-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=254%3A1068&show-proto-sidebar=1&hotspot-hints=0](https://www.figma.com/design/OjptXN3dzYqJHDQb8zV2eb/CMS-Research?node-id=40-812&t=l48Z0DRNsuzgE7BT-1))
 - [Link to notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/research/2024%20VAMC%20CMS/ImageUploader/ImageUploaderNotes)
 - [Link to transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/research/2024%20VAMC%20CMS/ImageUploader/Transcripts)
 

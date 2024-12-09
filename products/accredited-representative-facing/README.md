@@ -10,16 +10,21 @@ See the [VA Organigram](https://app.mural.co/t/departmentofveteransaffairs9999/m
 
 Our mission is to create an accessible, modern, and secure online system for [Accredited Representatives](https://www.va.gov/resources/va-accredited-representative-faqs/). This system is called the **Accredited Representative Portal (ARP)**. Through ARP, we aim to streamline the use of digital forms, providing a faster and smoother experience for both representatives and the Veterans they serve, ultimately improving the overall VA experience.
 
-We have focused on 3 main features or work streams within ARP: [Form 21a digitization (representative accreditation)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md), [Form 21-22 (power of attorney) accept/decline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21-22-power-of-attorney.md), and [contact information updates for accredited representatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/contact-information-updates.md). Because there were many external dependencies that influenced which feature(s) might be released first, we designed each of these features separately, knowing that eventually they would live together within ARP, along with other features like claims management. 
+We have focused on 3 main features or work streams within ARP: 
+- [Form 21-22 (power of attorney) accept/decline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21-22-power-of-attorney.md)
+- [contact information updates for accredited representatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/contact-information-updates.md)
+- [Form 21a digitization (representative accreditation)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md)
+
+Because there were many external dependencies that influenced which feature(s) might be released first, we designed each of these features separately, knowing that eventually they would live together within ARP, along with other features like claims management. 
 
 ## Where to find our work
 
 - [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW) OCTO Slack channel
-- [Github repo for documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing) (this repo; see the [product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/product-info), [engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/engineering), and [research/design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/research) folders for discipline-specific work)
-- [Github repo for frontend work(vets-website)](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/accredited-representative-portal)
-- [Gihub repo for backend work (vets-api)](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/accredited_representative_portal)
+- [GitHub repo for documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing) (this repo; see the [product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/product-info), [engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/engineering), and [research/design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/research) folders for discipline-specific work)
+- [GitHub repo for frontend work(vets-website)](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/accredited-representative-portal)
+- [GitHub repo for backend work (vets-api)](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/accredited_representative_portal)
 - [Sharepoint folder](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing?csf=1&web=1&e=nBcDcq) within the Benefits Portfolio Sharepoint
-- [Zenhub board](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/board)
+- [GitHub board](https://github.com/orgs/department-of-veterans-affairs/projects/1471/views/7)
 - [Mural folder](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=ec617166-2771-4165-a134-39e239f3a045)
 - [Figma project](https://www.figma.com/files/team/1278375444205744118/project/176208173/Accredited-Representatives?fuid=1142566432181786950) (shared with our sister team, ARM)
 - [Speadsheet of our team Slack canvases](https://dsva.slack.com/docs/T03FECE8V/F06HU14UKQC), which includes some internal team meeting notes (Slack; must be accessed via the OCTO/DSVA Slack workspace)
@@ -58,20 +63,18 @@ In addition to the above content, the below files may be helpful in understandin
 
 ## Next Steps
 - Recommended next steps for each work stream are listed on the overview page for each respective work stream:
-  - [Form 21a digitization (representative accreditation)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md)
   - [Form 21-22 (power of attorney) accept/decline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21-22-power-of-attorney.md)
   - [Contact information updates for accredited representatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/contact-information-updates.md) 
+  - [Form 21a digitization (representative accreditation)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md)
 - Also see the [High-Level Next Steps for ARF Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/docs/2024-9-ARF-engineering-next-steps.md) page
 
 ## The Team
 
-### Core Members
-
 - **Product Owner:** Jennifer Bertsch - [jennifer.bertsch@va.gov](mailto:jennifer.bertsch@va.gov)
 - **Engineering Lead:** Sam Raudabaugh - [samuel.raudabaugh@va.gov](mailto:samuel.raudabaugh@va.gov)
 - **Design Lead:** Lesley Ropp - [lesley.ropp@va.gov](mailto:lesley.ropp@va.gov)
-- **Product Manager:** Mike Marinos - [mike@agile6.com](mailto:mike@agile6.com)
-- View the [full ARF team roster](https://github.com/orgs/department-of-veterans-affairs/projects/947/views/4)
+- **Product Manager:** Candi Lemoine - [candi.lemoine@oddball.io](mailto:candi.lemoine@oddball.io)
+- [Full ARF team roster](https://github.com/orgs/department-of-veterans-affairs/projects/947/views/4)
 - View the [Stakeholder Engagement Tracker](https://dvagov.sharepoint.com/:x:/s/vaabdvro/EQgtn4jarAlBrIzHbxXaRnsBwyQxcNxleqUfl6QEAuaxTA?e=kCEQav) (Sharepoint) and [Rep Facing Stakeholder Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696447082781/01a5c0865df77c97693ac51b36a61a989c8f9fba?sender=u2a4240a640b257ce33545495) (Mural)
 
 ### Stay Connected

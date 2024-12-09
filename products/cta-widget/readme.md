@@ -28,7 +28,7 @@ The CTA widget creates a widget that appears on both the unauthenticated and aut
 Text can be specified for the unauthed and authed cases. 
 After auth, page will reload and include calls to action that point users to the Electronic Healthcare Records (EHR) system used by their primary healthcare facility. 
 
-[React widget flows (Mural)](https://app.mural.co/t/vagov6717/m/vagov6717/1651166973924/bc8bc44cab4e4ae7b84819d22ba89b11aa70e5e1?invited=true) documents the behavior / user flow for these five widgets.
+[React widget flows (image exported from Mural)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/cta-widget/Cerner%20react%20widget%20flows_2024-10-15_18-03-13.png) documents the behavior / user flow for these five widgets.
 
 As of August 2024, there are three flavors of EHR: 
 * **MyHealtheVet** - Digital platform of the VistA healthcare provider. CTAs that point to MHV, once a user logs in, will take users out to MHV's platform.

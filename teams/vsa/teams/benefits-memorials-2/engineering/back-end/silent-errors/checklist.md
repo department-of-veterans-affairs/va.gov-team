@@ -74,9 +74,9 @@ If you answered yes to any of these questions then go through the following [che
 
 #### Reporting errors
 
-* [ ] Have you filed issues for errors that are appearing in Datadog / Slack?
+* [x] Have you filed issues for errors that are appearing in Datadog / Slack?
   * If not, then start filing Github issues for new categories of errors following [this guidance](#file-silent-errors-issues-in-github)
-* [ ] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
+* [x] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
   * If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
 
 #### Documentation
@@ -86,16 +86,19 @@ If you answered yes to any of these questions then go through the following [che
     * [High level submission flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/back-end/kevin-exit-docs/high-level-fsr-submission-graph.png)
     * More granular view of [Roles and responsibilities of the related Financial Status Report services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/back-end/kevin-exit-docs/fsr-submission-dependency-graph.png)
   * If not, then [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram) that captures this information. 
-* [ ] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
-  * If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
-* [ ] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
+* [x] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
+  * [Link to data flow](https://github.com/user-attachments/files/17372719/FSR.Submission.Flow.pdf)
+
+* [x] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
   * If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
   * Please document the outcome of this conversation in your product's documentation in Github.
+  * This seems not applicable. If the system errors fatally, the submission wasn’t saved by them
 
 #### User experience
 
-* [ ] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
+* [x] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
   * If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram). That diagram will help us to help you and your team to create this user experience.
+  * [Ticket](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/94946)
 
 ## We don't have any silent errors!
 

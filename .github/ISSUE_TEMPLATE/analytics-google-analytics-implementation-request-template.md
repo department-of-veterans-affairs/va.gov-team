@@ -15,7 +15,7 @@ assignees: johnny-jesensky-adhoc
 
     - [Insert team name(s), for individual's names please use the `/support` tracker on the #vfs-platform-support channel and link this ticket.]
 
-- **Poduct Name**
+- **Product Name**
 
     - [Insert product name(s)]
       

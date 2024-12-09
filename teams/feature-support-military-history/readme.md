@@ -1,4 +1,4 @@
-# VA.gov Feature Support Military History Team Repository
+# VA.gov Mobile Feature Support Military History Team Repository
 
 The VA Flagship mobile application “VA Health and Benefits” serves an authenticated
 experience to millions of Veteran users. This product was launched in 2021 and has been well

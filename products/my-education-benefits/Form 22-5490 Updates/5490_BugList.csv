@@ -1,0 +1,10 @@
+Issue key,Issue id,Issue Type,Summary,Status,Created,Updated,Component/s,Component/s,Component/s,Assignee
+SA-101518,432116,Bug,INTERNAL: MEB 22-5490 - Contact Preference Page UI Fix,To Do,Oct/22/24 5:33 PM,Oct/23/24 9:53 AM,MyEducationBenefits,N33Automation,,seb.caso
+SA-101502,432100,Bug,INTERNAL: MEB 22-5490 - Review Page UI Fix,To Do,Oct/22/24 5:23 PM,Oct/23/24 11:27 AM,Agile Capacity,MyEducationBenefits,N33Automation,seb.caso
+SA-101486,432083,Bug,INTERNAL: MEB 22-5490 - Direct Deposit Styling,To Do,Oct/22/24 5:17 PM,Oct/23/24 11:04 AM,Agile Capacity,MyEducationBenefits,N33Automation,bra.bergeron
+SA-101398,430807,Bug,INTERNAL - MEB- 5490- Bring code coverage to 80%,Dev In Progress,Oct/21/24 11:17 AM,Oct/23/24 10:49 AM,MyEducationBenefits,N33Automation,,bra.bergeron
+SA-101279,429995,Bug,INTERNAL: MEB 22-5490 - forms_submit_claim called failed,Local Dev Complete,Oct/18/24 10:56 AM,Oct/22/24 5:18 PM,Agile Capacity,MyEducationBenefits,N33Automation,seb.caso
+SA-101180,429482,Bug,Error when attempting to create original ch35 through SQS,DEPLOYED TO AFS / IVV,Oct/17/24 1:07 PM,Oct/22/24 9:55 AM,MyEducationBenefits,N33Automation,,jul.bowers
+SA-101145,429298,Bug,"INTERNAL - UAT - update breadcrumbs, progress bar, and links",DEPLOYED TO AFS / IVV,Oct/17/24 10:10 AM,Oct/23/24 10:48 AM,Agile Capacity,MyEducationBenefits,N33Automation,seb.caso
+SA-100625,425250,Bug,"INTERNAL - MEB - Original Claim - Benefits Selection Page -"" Learn more about the Post-9/11 GI Bill "" verbiage is linked incorrectly",DONE,Oct/09/24 9:52 AM,Oct/21/24 5:55 PM,N33Automation,,,aid.luce
+SA-100552,424943,Bug,INTERNAL - Automation processing not happening for CH30/1606 on AFS003 when we submit a MEB application.,VALIDATED IN AFS / IVV,Oct/08/24 3:10 PM,Oct/23/24 11:22 AM,N33Automation,,,seb.caso

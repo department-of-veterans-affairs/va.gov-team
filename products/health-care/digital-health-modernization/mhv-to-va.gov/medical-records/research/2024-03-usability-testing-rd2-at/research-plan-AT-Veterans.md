@@ -196,11 +196,11 @@ Please make sure that ALL participants are willing to complete their interview *
 
 Please list the people who will be serving in each role.
 
-- Moderator: Ade Ajayi ([adebolanle.ajayi@bylight.net](mailto:adebolanle.ajayi@bylight.net)),
+- Moderator: Ade Ajayi 
 - Research guide writing and task development: Ade Ajayi, Anne Costello Kennedy
 - Participant recruiting & screening: Perigean
-- Project point of contact: Ade Ajayi & Anne Costello Kennedy ([anne.costello@bylight.com](mailto:anne.costello@bylight.com))
-- Accessibility specialist: CAIA - SK ([Sarah.Koomson@oddball.io](mailto:Sarah.Koomson@oddball.io)), Evan Burnett ([evan.burnett@coforma.io](mailto:evan.burnett@coforma.io)), Sarah Smith ([Sara.Smith@oddball.io](mailto:Sara.Smith@oddball.io))
+- Project point of contact: Ade Ajayi & Anne Costello Kennedy 
+- Accessibility specialist: CAIA - SK, Evan Burnett, Sarah Smith 
 - Participants for pilot test: TBD – we will do this ourselves, thank you.
-- Note-takers: Amelia Hacking (<Amelia.hacking@bylight.com>)
-- Observers: Marci McGuire (<Marci.McGuire@va.gov>), Kaitlin Fink ([Kaitlin.Fink@va.gov](mailto:Kaitlin.Fink@va.gov)), Robyn Singleton ([Robyn.singleton@va.gov](mailto:Robyn.singleton@va.gov)), Lexi Wunder (<Alexia.Wunder@bylight.com>)
+- Note-takers: Amelia Hacking 
+- Observers: Marci McGuire, Kaitlin Fink, Robyn Singleton, Lexi Wunder 

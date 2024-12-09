@@ -49,8 +49,8 @@ This research will help us document and prioritize any bugs or usability issues 
 * Are there any inconsistencies during the journey that present confusion?
 * Do Veterans who use assistive technology feel they can read a reply from VA or reply to VA without the support of another person?
 * Does Ask VA need to change or evolve to offer an equitable experience? If so, how?
-* Are statuses clear, do they require more description? If so, just for screen reader users or for everyone?
-* Do accordions adding unnecessary complexity? Would plain text be better for the conversation?
+* Are statuses clear or do they require more description? If so, just for screen reader users or for everyone?
+* Do accordions add unnecessary complexity? Would it be easier to read a plain text conversation that’s not hidden in accordions?
 
 ### Hypotheses
 
@@ -89,7 +89,7 @@ We will recruit 12 Veterans for:
 - **minimum** of 2 sessions with alternative navigation users
 - **minimum** of 1 session with a screen magnification user
 
-For more details about our criteria, refer to our [Recruitment ticket](add link).
+For more details about our criteria, refer to our [Recruitment ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/627).
 
 #### Cohort 1: Screen reader users
 
@@ -306,4 +306,4 @@ Sessions will be limited to no more than 5 people, including 1 participant, 1 mo
 ## Approved by:
 
 - Becky Phung, PO on July 29, 2024
-- Shane Strassberg, VA Research Ops on [DATE]
+- Shane Strassberg, VA Research Ops on September 4, 2024

@@ -1,5 +1,227 @@
 # Running Design and Research Agenda
 
+## December 9 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
+	- Agenda Topics
+	  - Review Design Roadmap
+	  - Research Artifacts Documentation
+	  - FMP Claims research artifacts
+	  - Revised FMP Claims research findings
+ 
+   - ### Notes
+    * Review Design Roadmap
+    * Heavier focus on file maintenance for this sprint
+    * Will work on handing off the latest CHAMPVA form flow and a11y annotations to the engineers to progress towards staging review
+* Research Artifacts Documentation
+    * We will add form names to mural boards
+    * Be consistent with 1010 team’s organization
+    * Premal uses the master list on research links but it is a little harder to maintain. We will try to add links to the research links in the IVC UX Slack channel instead under the More tab (like 1010 design team)
+    * We do not want to spend time on creating on our own user journey maps based on our own research. There’s not enough value to keep our own user maps based on our own research. We can instead add links or copies of the VA’s user journey to a mural board. We can add all of the journey maps for each program one a mural for CHAMPVA forms and one a mural for FMP forms. 
+    * We still want to keep the service blueprints as something we maintain and add to as the program evolves  \
+
+* Revised FMP Claims research findings
+    * The new format works well. It helps to easily see what tickets we need and what we may want dig deeper to research  
+    * Discussed in-person research with FMP/CHAMPVA Claims processing. It may be valuable to see claims processing done in person and converse with the stakeholders on their experience. We could present evidence to change back-end systems. We can maybe combine it with an off-site to work directly with stakeholders . 
+    * Briefly discussed an idea about conducting in-person research with first-time 1010d applicants to observe them filling out the digital form for the first time. We may need to look at other in-person research and why they did it as opposed to virtual research. (MST) military sexual trauma team may have some research we can look into. 
+    * Next steps would be to write brief research plans and in-person opportunities to see if it makes sense to pursue. 
+
+## December 2 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
+	- Agenda Topics
+	  - Review Design Roadmap
+	  - Research Artifacts Documentation
+	  - Review OHI Required Email flow
+	  - Review URL list
+ 
+ - ### Notes
+ 	- Research artifacts
+ 	  - Opting to keep research in Github
+ 	  - Clean up the github links make should they are up to date and filed by form
+ 	  - Jamie to look for the claims user journey and check if it is complete. If it needs work it can be a lower priority
+	- OHI Required email
+	  - Look into collecting the name for the signer so we can pre-fill the signature. Evaluate with the engineer on the lift.
+	  - Go forward with variable pronouns for the value add with the UX for. This will be for go live
+   	  -  We can leave the third party signature per-fill for post-launch. We will want to do this across all forms as an improvement
+
+
+	- URL list
+ 	  - Lois needed the URL list for GA set up
+ 	  - Bo has the events set up in GA 
+	  - Premal shared the 1010D and FMP Reg URLs via the Zenhub ticket. 
+
+
+## November 25 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
+	- Agenda Topics
+ 		- Review Design Roadmap
+   		- Status on Champva Claims readouts
+		- Share work Jina will be doing as it relates to our forms
+		- Blue sky presentation as it may relate to our forms in the future
+  		- Review MBI options for OHI
+		- Review Pre-fill for CHAMPVA Claims
+ 
+ - ### Notes	
+	- Status on Champva Claims readouts
+		- Send Lois links to CHAMPVA Claims readout deck
+		- May try to schedule a Stakeholder research readout for 11/27 or the next meeting after that. 
+
+
+	- Jina Ryu’s work
+		- She is working on similar patterns/requirements for asking for pieces of info such as medicare
+		- She may be joining a few of meetings
+	- Blue Sky
+     		- Presentation given at the OCTO off-site
+		- Dives into notifications that show up on my VA. 
+		- Lois just wants to keep us in the loop because it may affect our claims and applications. Jamie and Rachel may be invited to the walkthrough of this. 
+
+
+	- MBI
+		- We all agreed Option B.
+		- There is an open question about MBI that we need to ask the stakeholder. Jamie to circle back on this with Premal
+	- Pre-fill claims
+		- The current workflow may solve the majority of the issues with knowing who is filling out the form. 
+		- The editable name field may solve the spouse logging in with the veteran credentials. 
+		- Jamie will clean up the file/ content and document findings in a Mural board. 
+		- We will deprioritize this project as a team until we capture some data from the 1010d’s signer flow. 
+		- Will reevaluate if we need to do further research on signer roles and shared credentials after the forms go live
+
+
+	- General
+ 		- Think about how to organize the improvements on the Figma file and look at 1010EZ team Figmas as a reference point
+
+
+
+
+## November 12 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
+	- Agenda Topics
+ 		- FMP claims research report
+     		- MBI# designs/ questions for the OHI Cert
+
+
+         - ### Notes
+		- FMP Claims Research Report:
+			- Don't want to post FMP as research report in GH because we didn’t do exclusive research for FMP
+			- It seems almost like a copy of the claims report. Try to reformat as a key takeaways doc that points people back to the CHAMPVA research
+			- Next steps for this is to pull out finding/recommendations, what tickets need to be created and any gaps that we may need to think about. This can done during our regular design syncs
+		- OHI MBI #
+			- We still need to collect the copies of the cards for now
+			-  Medicare Part A and B users should always use one ID #. If someone has 2 separate ID#s for Part and Part B it may be an edge case. 
+			- We need to know what numbers stakeholders need if a bene has an Advantage plan. Create a backlog ticket to talk about the MBI numbers with the stakeholders. 
+
+## November 04 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
+	- Agenda Topics
+ 		- 1010 signer flow one more time together
+     		- Review of the Stakeholder/Monday sync readouts
+       		- Thoughts on the Research Roadmap Review (time permitting)
+
+         - ### Notes
+
+* CHAMPVA Registration signer/ email questions
+    * Investigate relationship question on 1010: why do we need this? Is there a way to better word these options or make them into radios? 
+    * Won’t need to resubmit for staging review if we only have content updates from CAIA. 
+* Send Lois figma for ZSF VA notify 1010D so she can use it in her in person research session. The goal is to try to get feedback on if users understand the content on the email. Will send over some more ideas for in-person research.
+* Stakeholder research readout 
+    * Jamie to send over links to Research Readout slides for Lois to review. 
+    * Asked to give more context to the stakeholders in regards to the overall claims experience and why we are sharing this info with them. Perhaps do a short demo of the claims form at the start of the meeting
+    * We can trim down the slides further to save time. Only focus findings that matter to business rather than content and UI/UX issues
+* Slides to the Weekly UX sync
+    * Overall content presentation is good
+    * Send to lois for review
+    * Will work to fine tune slides and content. 
+    * May want to consider adding the findings about the CHAMPVA Member number if time permits
+* Research Roadmap
+    * Feedback: Maybe not all findings are relevant to put in front of the whole team.
+    * Felt rushed and maybe could have spent more time more complex findings 
+    * Might be better to have more of the solidified findings/ recommendations.
+    * Flesh out the recommendations with Lois a little more before we get to the research roadmap review. Will help figure out some of the “how’s” better.
+    * The research roadmap review made the research feel more actionable. 
+    * Timing could have been a little better so it was more relevant to what we are currently working on
+    * We could move through the lower impact (things that are easier to fix such as content) items more quicker. 
+    * Focus more on what findings surprised us the most. 
+    * Maybe look at each one more closely. We could have smaller workshops for each one if needed 
+## October 28 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
+	- Agenda Topics
+		- Share out the update Design Roadmap
+		- Require email for signer on 1010d (updated flow options)
+  		- Discuss next steps for OHI flow now that we got more feedback from the CHAMPVA Claims/OHI teams
+ 
+### Notes
+* Roadmap, Prioritize the Zero silent failures work then the CHAMPVA Claims Readout.
+* 1010D CHAMPVA Reg required email for silent failures \
+
+    * We want to move forward  the option that removes the first screener question with having CAIA weigh in on the “Your name” screen and the checkboxes on the relationship question
+    * Might be a larger engineering lift to prefill the applicant name, address and contact info in the list and loop 
+    * Recommended to ask for level of effort from engineering first, then collaborate with CAIA 
+    * Engineering work won't be this sprint with FMP work already in flight.
+    * We are leaning towards getting UX where it needs to be as the path forward right now rather than work on simpler solutions. Premal to can make look into  if we can delay launch to work one the this UX solution
+    * Do we have to go to staging review again? Lois doesn’t think so.
+    * **Action**: We will add the story and time space to do discovery engineering work for this flow in sprint 3.
+* OHI cert changes to PDF form/Digital form: 
+    * We need to get staging and figma more in parody with each other. 
+    * We need to control the changes from coming from the stakeholders better
+    * **Action**: Design to get figma design as it should be based on business needs from the IVC stakeholders. Break the change down by user stories then take a look at the changes and decide what gets in MVP and what can be pushed post launch.
+
+## October 21 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
+	- Agenda Topics
+		- Share out the update Design Roadmap
+		- OHI Flow: Part C and Part D questions to account for PFFS
+  		- Discuss the OHI PDF change. Concerned with IVC stakeholders and our interpretation of the Part D vs Pharmacy Benefits. 
+ 
+### Notes
+- OHI Flow:
+	- For now we are keeping the flow the same
+	- This uses that have both an Advantage plan and a separate Part D plan might be edge cases. We need to do some more research with the stakeholders to know if we need to solve this. If they are edge cases we may be able to allow those users to get the info to IVC in other ways. We are concerned with confusing the majority of Advantage plan users by asking them if they have Part D. 
+
+	- We are removing Prescription Discounts from the health insurance plan types questions on the pdf and the digital form
+	- Confirm with Angela P. if we need Part D effective dates. 
+	- Our suggestion is to keep both Part D and pharmacy questions to capture those people with Advantage Plans with a bundled drug plan.  
+
+- Silent Failures and required emails deadline
+	- Moving forward with requiring emails on all forms 
+	- There’s not a very straight forward solution for 1010D (CHAMPVA Registration) so we may be able to change the schedule for 1010D. (Launch with email by 11/11) Premal to inquire about the date change. 
+	- Need to know from OCTO:
+		- Are we decoupling what we are doing on the digital vs paper form? Are we solving for both? Does VES have to accept that email? Premal to have a conversation with OCTO about what is in involved for 010D
+	- IVC will come up with a recommendation for requiring an email to send users a failure notice. 
+	- We will make the FMP Reg required as it’s an easier task. 
+
+
+## October 15 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
+	- Agenda Topics
+		- Share out the updated Design Roadmap
+		- Share some updates on the CHAMPVA Claims Research Report and answer any questions you may have about it during the Sync.
+		- Share agenda items for the CHAMPVA Claims Research Roadmap Review
+  		- Share the OHI Presentation for the IVC stakeholders
+### Notes
+* Design Roadmap
+    * Updated: moved the COP and Stakeholder CHAMPVA Claims research readout to the Next column. 
+    * Jamie to find a way to work CHAMPVA Registration in to the readouts
+* CHAMPVA Claims Research Report
+    * Jamie updated the report according to Lois’ suggestions. 
+    * Lois to review the report and not any other changes needed.
+
+ 
+
+
+
+* Claims Research Roadmap Review
+    * Lois to see if she has time open to schedule the sessions earlier than 10/29
+    * We may need to rethink how and when we do the Engineer LOE ratings for each finding. We plan to get through the finding analysis and decide what would be the most helpful to do next. 
+    * Jamie to tighten the plan for Part 2 on the Roadmap Review
+* OHI Presentation to IVC stakeholders
+    * Presentation is good with a few minor adjustments. Remove the yellow note tabs and maybe try to make the screens/ form image larger.
+    * Explain the goal of the meeting as a review of the latest form flow to align everyone with the data that we are collecting from Benes as per are last few convos about OHI
+    * While presenting this to the IVC Stakeholders, explain that we are only showing Medicare and HI questions b/c to show deviations we decided on from the pdf form. 
+    * Explain what branching is on the form while presenting.  \
+
+* In-person research
+    * Think about what we want to ask for in-person research appointment
+    * We want to focus on how caregivers approach My VA. Perhaps ask about the status of Registration/ Claims or their experience of how spouses log in or if they choose to use their Veteran’s Account.  What would a caregiver or spouse want to see on their My VA?
+
 ## October 7 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
 	- Agenda Topics

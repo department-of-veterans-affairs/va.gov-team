@@ -7,12 +7,11 @@ The Contact us page ([va.gov/contact-us](va.gov/contact-us)) on VA.gov helps peo
 Learn more about Contact us in our [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/Product/Product%20outline.md).
 
 ## Contact us 😉
-The `Content, Information Architecture, and Editor Experiences Crew` and `Veteran Support Crew` in VA's Office of the Chief Technology Officer (OCTO) support the Contact us page. 
-
+The `Content, Information Architecture, and Editor Experiences Crew` and `Core Veteran Experiences Crew` in VA's Office of the Chief Technology Officer (OCTO) support the Contact us page. Both crews are under the OCTO's Digital Experience portfolio.
 
 |Name|Role|OCTO Crew|Email|
 |:--|:--|:--|:--|
 |Danielle Thierry|Crew lead|Content, Information Architecture, and Editor Experiences Crew|danielle.thierry@va.gov|
 |Beth Potts|Content lead|Content, Information Architecture, and Editor Experiences Crew|beth.potts@va.gov|
-|Chante Lantos-Swett|Crew lead|Veteran Support Crew|chante.lantosswett@va.gov|
-|Becky Phung|Designer/Product Owner |Veteran Support Crew|becky.phung@va.gov|
+|Chante Lantos-Swett|Product lead|Core Veteran Experiences Crew|chante.lantosswett@va.gov|
+|Becky Phung|Design/Product lead |Core Veteran Experiences Crew|becky.phung@va.gov|

@@ -46,6 +46,7 @@ An OH Appointment request is cancellable by the patient, unless:
 
 A booked OH Appointment is cancellable by the patient, unless:
 
+#### Oracle Health
 1. The Appointment status is not `booked` (it hasn't been cancelled, checked-in, or completed yet).
 2. The OH Millenium API indicates the Appointment is not cancellable
    ([Millenium reference](https://fhir.cerner.com/millennium/r4/base/workflow/appointment/#custom-extensions)). The
@@ -54,9 +55,15 @@ A booked OH Appointment is cancellable by the patient, unless:
    booked appointments disabled.
 4. If the Appointment contains a Cerner 14249 scheduling appt type code that is configured as not schedulable.
 
-## VistA
+#### VistA
+A VAOS booked appointment is cancellable by the patient, unless:
+[Retrieve the appointment object from MAS at GET /appointments/v1/patients/{icn}.appointments/{id}]
+1. The MAS appointment has a location that is Cerner site
+2. The `appointment.isCancellable` value is set to `false`
+3. The `appointment.status` value is `PROPOSED`
+4. More than one VSP and one VVS source appointment are associated with the MAS appointment
 
-TODO
+If one or more of these conditions are false, an HTTP 400 error will be returned with an appropriate message indicating the problem
 
 ## Accessing OH Scheduling Policies (CTPS)
 

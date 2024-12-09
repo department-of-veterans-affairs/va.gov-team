@@ -17,6 +17,7 @@ If not, then you'll need to consider the path user data took through both the cu
 If not, set up monitoring in Datadog.
 
 - Does your Datadog monitoring use the appropriate tagging? **Yes #93151**
+**Update tagging: [#95506](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95506)**
 
 If not, implement tagging standards. Adding the dependency tag is highly recommended!
 
@@ -24,7 +25,7 @@ If not, implement tagging standards. Adding the dependency tag is highly recomme
 
 If not, start directing errors in Datadog to a dedicated Slack channel. See #veteran-facing-forms-notifications for an example.
 
-- Does more than one person look at the Slack notifications channel containing errors on a daily basis? **The whole team, particularly developers, PM, DM, and Data Analyst**
+- Does more than one person look at the Slack notifications channel containing errors on a daily basis? **The whole team, particularly developers, PM, DM, and Data Analyst--[Error and Outage Procedures Doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Error%20and%20Outage%20Procedures%20for%201010%20Team.md)**
 
 If not, then follow this guide on managing errors 
 
@@ -39,7 +40,7 @@ Reporting errors
 
 If not, then start filing Github issues for new categories of errors following this guidance
 
-- Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email? **Not yet, we need to add that. It is currently handled manually by the team and HEC Admins. We have a ticket for this** #[92911](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/92911)
+- Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email? **Yes!** #[92911](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/92911)
 
 If not, then file Github issues to capture error categories following this guidance
 Documentation
@@ -53,7 +54,7 @@ If not, then create a user data flow diagram that captures this information.
 
 If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
 
-- Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody? Got this in email–**ALEX TO UPLOAD TO REPOSITORY**
+- Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody? Got this in email–**Yes [Here](https://)** 
 
 If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
 Please document the outcome of this conversation in your product's documentation in Github.

@@ -1,6 +1,6 @@
 # Feature: Payment and debt info on the My VA dashboard
 
-**Last updated: February 16, 2024 - added Figma link**
+**Last updated: October 14, 2024 - added V3 image
 
 ### Communications
 
@@ -342,6 +342,14 @@ The **Benefit Payments** section on My VA gives the Veteran a summary of their m
 <img width="1060" alt="Screen Shot 2022-12-12 at 14 25 32" src="https://user-images.githubusercontent.com/97113607/207136017-a567dd73-cb1d-4023-877f-074085bef375.png">
 
  
+ </details>  
+
+ 
+<details>
+  <summary><b>My VA after V3 updates to the payments section</b></summary>
+ 
+<img width="1048" alt="Screenshot 2024-10-14 at 10 47 07 AM" src="https://github.com/user-attachments/assets/1b95e361-3449-4fab-b851-2be95793e97f">
+
  </details>  
  
 

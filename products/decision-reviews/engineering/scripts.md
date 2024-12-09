@@ -159,23 +159,41 @@ end
 def remediation_info(lighthouse_upload_id)
   upload = AppealSubmissionUpload.find_by(lighthouse_upload_id:)
   appeal_submission = upload.appeal_submission
-  user_uuid = appeal_submission.user_uuid
 
-  # Same as get_mpi_profile_with_user_uuid method
-  mpi_service = MPI::Service.new 
-  idme_profile = mpi_service.find_profile_by_identifier(identifier: user_uuid, identifier_type: 'idme')&.profile
-  logingov_profile = mpi_service.find_profile_by_identifier(identifier: user_uuid, identifier_type: 'logingov')&.profile
-  mpi_profile = idme_profile || logingov_profile
-
-  form_attachment = FormAttachment.find_by(guid: upload.decision_review_evidence_attachment_guid)
-  raw_filename = JSON.parse(form_attachment.file_data)['filename']
-
+  attachment = upload.decision_review_evidence_attachment
+  unmasked_filename = JSON.parse(upload.decision_review_evidence_attachment.file_data)['filename']
+  s3_link = "https://us-gov-west-1.console.amazonaws-us-gov.com/s3/object/dsva-vagov-prod-notice-of-disagreement?region=us-gov-west-1&prefix=decision_review/#{attachment.guid}/#{unmasked_filename}"
+ 
   {
-    icn: mpi_profile.icn,
     form_type: appeal_submission.type_of_appeal,
-    upload_timestamp: form_attachment.created_at,
-    filename: raw_filename.gsub(/(?<=.{3})[^_-](?=.{6})/, '*'),
-    raw_filename:
+    icn: appeal_submission.get_mpi_profile.icn,
+    decision_review_evidence_attachment_uuid: attachment.guid,
+    filename: unmasked_filename.gsub(/(?<=.{3})[^_-](?=.{6})/, '*'),
+    upload_timestamp: attachment.created_at.in_time_zone("Pacific Time (US & Canada)").strftime('%B %-d, %Y, %H:%M:%S (UTC%z)'),
+    s3_link:
   }
+end
+```
+## All Upload Failures After Date: Get Error and Evidence Failure Remediation Info for Contact Center
+```rb
+def upload_remediations_from_date(start_date)
+  errored_saved_claims = SavedClaim.where(type: [
+                                            'SavedClaim::NoticeOfDisagreement',
+                                            'SavedClaim::HigherLevelReview',
+                                            'SavedClaim::SupplementalClaim'
+                                          ])
+                                   .where('created_at > ?', start_date)
+                                   .where(delete_date: nil)
+                                   .where('metadata LIKE ?', '%error%')
+                                   .order(id: :asc)
+
+  errored_uploads = errored_saved_claims
+                    .map { |sc| JSON.parse(sc.metadata)['uploads'] }
+                    .flatten
+                    .select { |upload| upload&.fetch('status') == 'error' }
+
+  errored_uploads.map do |upload|
+    [upload['detail'], remediation_info(upload['id'])]
+  end
 end
 ```

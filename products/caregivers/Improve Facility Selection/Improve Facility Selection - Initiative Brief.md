@@ -95,20 +95,25 @@
 
 
 #### Baseline KPI Values
-- Number of online Caregiver applications filled out per month:
+- Number of online Caregiver applications filled out per month
+     - Using the same timeframe of Jan 1, 2022 through Jan 25, 2023, there were about 77,000 applications submitted.
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective: Make it easier for Veterans with representatives to fill out the online form
-  - Key result: Reduce the number of applications that are misrouted or delayed (obtained from CSP leadership)
+### Objective: Make it easier for Veterans with representatives to fill out the online form
+#### Key result: Reduce the number of applications that are rerouted (obtained from CSP leadership)
+- From Jan 1, 2022 through Jan 25, 2023, there were 5,496 CARMA cases rerouted to a different facility.
+   - At this time, there is no simple way to determine whether the case was rerouted at the Veteran/Caregiver request or due to having a non-caregiver supported facility on the form.
+- Data Source: Caregiver Stakeholder team and [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&fullscreen_end_ts=1730229097128&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1730225497128&fullscreen_widget=1652960129845848&refresh_mode=sliding&from_ts=1730224696206&to_ts=1730228296206&live=true)
  
-|Invalid/Duplicate/Created in error| Monthly Average Baseline (Jan-Dec 2023)| Target | 1 Month after launch|
+|Applications | Monthly Average Baseline (Jan 2022-Jan 2023)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
-|Total Apps (rounded) | 384 | TBD | TBD |
-|Total Online Apps (rounded) | 222 | TBD | TBD |
+|Total Apps Rerouted | 423 | TBD | TBD |
+|Total Apps Submitted | 5,923 | TBD | TBD |
 
-   - Key result: Maintain or reduce the amount of time a user selects a facility
+
+#### Key result: Maintain or reduce the amount of time a user selects a facility
+- Data Source: [Google Analytics - CG Facility page views & time](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8un9wi5nSN-WZ-KqWHHBPA)
 
 |Average time on page |Monthly Average Baseline (Jan-Dec 2023)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
@@ -161,7 +166,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - [Kickoff ticket #51980](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/51980)
   - [x] Design Intent 3/20/2023
-  - [ ] Research Review
+  - [x] [Research Review](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/674) 9/10/2024
+  - [x] Architecture Intent review (NEW step - added in October 2024) 11/26/2024
   - [ ] IA Review
   - [ ] Midpoint Review
   - [ ] Staging Review
@@ -170,8 +176,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Incident Response Info
 - The 1010CG form is currently in production
-- We are going to begin calling an existing API (Facilities API)
-- XXXXXX We are changing how the facility list is retrieved (MORE INFO WILL BE NEEDED HERE)
+- The new paginated request endpoint is /v0/carefivers_assistance_claims/facilities
 - 1010CG [Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
 
 ### Timeline 

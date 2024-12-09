@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: October 4, 2024 - updated security artifacts**
+**Last updated: November 27, 2024 - updated FE getting started link**
 
 ### Communications
 
@@ -219,7 +219,7 @@ _Why would your business want this to exist?_
  </details>
 
 ## Frontend
-- [General: Frontend - Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend-getting-started.md)
+- [General: Frontend - Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/_getting-started.md)
 - Latest FE documentation:
    - [White card use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-white-card-component/white-card-component-FE-documentation.md)
    - [LOA1 state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/LOA1-experience-updates/LOA1-FE-documentation.md)

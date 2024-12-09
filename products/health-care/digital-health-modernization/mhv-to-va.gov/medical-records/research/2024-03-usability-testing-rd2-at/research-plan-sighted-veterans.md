@@ -178,11 +178,11 @@ Note: Please do not schedule more than 4 sessions per day.
 
 Please list the people who will be serving in each role.
 
-- Moderator: Ade Ajayi (adebolanle.ajayi@bylight.net),  Amelia Hacking (amelia.hacking@bylight.com)
-- Research guide writing and task development: Ade Ajayi & Anne Costello Kennedy(anne.costello@bylight.com)
+- Moderator: Ade Ajayi, Amelia Hacking 
+- Research guide writing and task development: Ade Ajayi & Anne Costello Kennedy
 - Participant recruiting & screening: Perigean
 - Project point of contact: Ade Ajayi & Anne Costello Kennedy 
 - Accessibility specialist: N/A
 - Participants for pilot test: TBD – we will do this ourselves, thank you.
 - Note-takers: Ade Ajayi & Amelia Hacking
-- Observers: Marci McGuire (Marci.Mcguire@va.gov), Kaitlin Fink (Kaitlin.Fink@va.gov)), Robyn Singleton (Robyn.Singleton@va.gov), Lexi Wunder (Alexia.Wunder@bylight.com)
+- Observers: Marci McGuire, Kaitlin Fink, Robyn Singleton, Lexi Wunder 

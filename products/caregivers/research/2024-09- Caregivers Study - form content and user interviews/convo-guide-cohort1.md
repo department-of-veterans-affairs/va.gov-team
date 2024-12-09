@@ -40,9 +40,9 @@ Today we're going to talk about the application for the **Program of Comprehensi
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth.
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly.
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. None of your comments will be attributed to you directly.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ and Caregivers' experiences?** In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
+- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ and Caregivers' experiences?** In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed. After we complete research analysis, any recordings that we don't use as video clips to share are destroyed.
    - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
 *Start recording.*

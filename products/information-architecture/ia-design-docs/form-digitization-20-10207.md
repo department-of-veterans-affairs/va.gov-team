@@ -1,5 +1,5 @@
 # IA Design for Form 20-10207
-**STATUS: In Progress**
+**STATUS: Complete - as of Nov 2024 the staging is 100% rolled out, all IA entry points are in place, and the CAIA tickets are open for Content to resolve final crosslinks.**
 
 **Team:** Veteran facing forms
 

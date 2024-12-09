@@ -3,7 +3,7 @@
 ## Moderator logistics
 
 ### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
+- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
 
 ### Before all sessions:
 - Review participant list for participant name and screener question responses
@@ -306,3 +306,4 @@ We recommend you plan a graceful exit strategy that you will feel comfortable us
 
 ## Approvals
 - Amanda Klausmeier (VA UX lead) on October 8, 2024
+- Shane Strassberg (VA Research Ops) on October 9, 2024

@@ -37,6 +37,7 @@
 - UX
     - Research
       - [Christina Gednalske](https://dsva.slack.com/team/U02KVPC82VA)
+      - [Steven Straily](https://dsva.slack.com/archives/D07VBB5NP2A)
     - Design
       - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)  
 - Engineering
@@ -67,6 +68,7 @@
 - [Day of Appointment Travel Reimbursement Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/oracle-health-travel-product-outline.md)
 - [Product Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
 - [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
+- [How to Update Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/update-product-guides.md)
 - [Other Product FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/faqs/faqs.md)
 - [Product Demo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-demos#product-demo)
 - [508 Audits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/508-audits)
@@ -84,7 +86,8 @@
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715270046440/b2cf85a53d09a8caca454415626fecb5bae24a9b?sender=uc584f7fcc9a5090000259578)
 - [Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719321335255/bee29c80ac07f79dda849e071acaa88b17e2f5f6?sender=uc584f7fcc9a5090000259578)
 - [Scrum Board](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?repos=133843125)
-- [Sprint Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprints/sprint-goals.md)
+- [Sprint Goals](https://dsva.slack.com/docs/T03FECE8V/F082QPMJFC1)
+    - [Old Sprint Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprints/sprint-goals.md)
 - [Sprint Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprintdemo/readme.md) 
 
 #### Product Releases 
@@ -142,7 +145,7 @@
 - [eCheck-in](https://yourit.va.gov/kb_view.do?sys_kb_id=07548a9787478dd03502b889cebb3587&sysparm_rank=2&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
 
 ## Engineering
-- Code Repositories
+- Code Repositories (or search [here](https://github.com/search?q=org%3Adepartment-of-veterans-affairs%20topic%3Acheck-in-experience&type=repositories))
   - [vets-website](https://github.com/department-of-veterans-affairs/vets-website)
   - [vets-api](https://github.com/department-of-veterans-affairs/vets-api)
   - [CHIP API](https://github.com/department-of-veterans-affairs/chip)
@@ -157,10 +160,11 @@
   - [cie-downstream-api](https://github.com/department-of-veterans-affairs/cie-downstream-api/): Terraform module for managing a "downstream" API for services to interact with CHIP and LoROTA.
   - [cie-dsva-iac](https://github.com/department-of-veterans-affairs/cie-dsva-iac/): Terraform configuration for managing Check-In Experience resources within the `dsvagovcloud` AWS account.
   - [cie-github-actions](https://github.com/department-of-veterans-affairs/cie-github-actions/): GitHub Actions that can be reused across Check-In Experience projects.
+  - [cie-github-repos](https://github.com/department-of-veterans-affairs/cie-github-repos/): Terraform configuration for managing Check-In Experience GitHub repositories.
   - [cie-iam-manager](https://github.com/department-of-veterans-affairs/cie-iam-manager/): Terraform configuration for managing IAM roles, policies, and other access control resources in the `vaec-cie` AWS account.
   - [cie-system-tests](https://github.com/department-of-veterans-affairs/cie-system-tests/): Automated tests that leverage the known-working code of CHIP and LoROTA to validate the infrastructure in the `vaec-cie` AWS account.
   - [cie-terraform-modules](https://github.com/department-of-veterans-affairs/cie-terraform-modules/): Terraform modules that can be reused across Check-In Experience projects.
-  - [cie-test](https://github.com/department-of-veterans-affairs/cie-test/): A test repository without any real content, just used to validate Terraform modules that act on a specified repository.
+  - [cie-test-repo](https://github.com/department-of-veterans-affairs/cie-test/): A test repository without any real content, just used to validate Terraform modules that act on a specified repository.
   - [cie-upstream-api](https://github.com/department-of-veterans-affairs/cie-upstream-api/): Terraform module for managing an "upstream" API for CHIP and LoROTA to interact with Vista API, BTSSS, and other APIs.
   - [cie-utility-api](https://github.com/department-of-veterans-affairs/cie-utility-api/): Terraform module for managing a "utility" API that exposes endpoints useful for debugging and interacting with the deployed instances of CHIP and LoROTA.
 - [Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/architecture-diagrams)

@@ -1,5 +1,175 @@
 # Design Weekly Sync Agenda
 
+## 2024-12-02
+Attendees: Angela, Hieu, Jessica, Lois, Renata, Alex, and Heather
+
+#### Ideation Work
+- Renata goes over the Ideation Workshop and the next steps.
+- Lois and Danielle in dialogue. Danielle wants to lead the approach by looking at A vs B testing. 
+- The team does not recall any current process to notify the Veteran to update EZR. Maybe only to update the means test.
+- EZR: Notification may be too large at the moment so the static content testing may be the best bang for the buck. But need to confirm with Danielle and consider bite size. 
+- ACTION ITEM: We need to meet with Danielle for Research Planning. 
+#### Registration
+- Jessica goes over the Mural Board. 
+- Where and How in the form flow do we add the ‘wizard’
+- What do we need to know, what do we need to learn. 
+- Lois had her head more around this than the EZR portion. 
+- Danielle has a toxic exposure (originally planned to be on VA.gov)  wizard that has not gone live. 
+- Heather reminded the team not to pigeon-hole into just service-connected in the wizard.
+- Jessica notes that the Copay static page has the same list as the registration.  (https://staging.va.gov/health-care/copay-rates)
+- Heather looked at the metrics on Friday. It looks similar to the month of October. 
+
+#### Confirmation Flow (Household Financial Info V2)
+- Need a high-level research plan (like Jessica)
+
+
+
+## 2024-11-25
+Attendees: Angela, Hieu, Jessica, Lois, & Renata.
+
+#### OCTO Bluesky
+- Ryan presented this during the OCTO offline.
+- Lois feels like it is a status we can show on the MyVA.
+
+#### Priority Group
+- Recap of Ideation, and discuss the next steps. 
+- When should we bring the HEC stakeholders in?
+- The team discusses how to tackle Priority Group (what kind of research, how much does the Veterans need to know about the Priority Group language)
+- How do we trigger people to come back to update? 
+- Lois suggested that we would use a mural board similar to Jessica's. Thinking to be visible for others to look at. 
+
+#### Registration
+- Jessica discussed the possibility of using the A/B eligibility wizard. Similar to TERA birthday logic, show only relevant questions to the Veterans. 
+- Lois suggests maybe a bit of discovery around Eligibility. Maybe just a Content testing? 
+- Action Item: Consider content testing for Priority Group, Registration, and Eligibility. Lois supports this research and exploration. 
+- Jessica notes that the authenticated path is potentially easier. We already know certain information like disability ratings. 
+- Jessica goes through Mural:
+  - Lois wonders if the team needs to talk to VSO. Consider unconventional research. 
+  - Early ideas: Registration choice, mini-wizard. 
+  - Next steps? 
+    - When and where we should show HEC? 
+    - Next steps: HEC appetite for Priority Group. (How transparent should we be? Is there any business or history we need to consider? Is there an appetite for people to know more? How much content testing have we done in the past?
+  - Lois wants presearch before talking to HEC. Cartography Team. - Lois wants "presearch" prior to talking to HEC regarding Registration, Priority, and Eligibility. (IE: talking to the Cartography Team)
+- Consider content testing for Registration, Priority, and Eligibility. Lois is on board with the exploration and research. 
+- HEC: what is their appetite? How transparent should we be? Is there any business or history we need to consider? Is there an appetite for the Veterans to know more? How much content testing have we done in the past?
+#### CG Facility 
+- Lois wants the Platform to do what the team needs. Jessica notes that the model is actually already custom since the Platform does not do what the team needs.
+
+#### Main takeaway (also in slack)
+- Lois wants presearch prior to talking to HEC regarding Registration, Priority, and Eligibility. (IE: talking to the Cartography Team)
+- Consider content testing for Registration, Priority, and Eligibility. Lois is on board with the exploration and research.
+- HEC: what is their appetite? How transparent should we be? Is there any business or history we need to consider? Is there an appetite for the Veterans to know more? How much content testing have we done in the past?
+- More info and thoughts on the 'wizard' concept:
+   - The deprecated wizard pattern - but this is specific to questions before starting a form online
+      - Vs. what we are thinking for registration/enrollment wizard is more geared toward specific questions based on Priority Group placement then short paths based on those answers
+      - see the business logic based old registration flows here
+- There is the income limits tool - which helps those who don't have other eligibility factors see if they qualify to enroll based on income only
+
+
+## 2024-11-12
+Attendees: Angela, Hieu, Jessica, Lois, & Renata.
+
+#### Social Listening
+- Ideation workshop, work goes beyond us but we take it to our teams. 
+- We have a VA System section that is beyond our product
+- OCTO Sync, we’ll try to get our their schedule soon. Lois notes ‘in-progress’ presentation is good. 
+
+#### Caregiver Research
+- Lois wants us to consider the fiction for Recommendation 1 (Revisit content and resource link on the introduction and static page). 
+- Eligibility process, if 73% of the applicants fail, we should not send people through this if they don’t qualify.
+- Recommendation 2, exploring how to clarifying information about secondary caregiver and their benefits. 
+   - If content is better than VA.gov and it is not on there, it should be. Jessica notes the Caregiver sub-domain does. 
+   - Lois is not comfortable with linking off to another site (don’t want to be dependent on a site that may go away).
+- Recommendation 3, update to facility search. Make it clear they need to select a facility. 
+- Recommendation 4, some people are hesitant to go to their closest facility (Auto-recommendation). Explore 
+
+## 2024-11-04
+Attendees: Angela, Hieu, Jessica, Lois, & Renata.
+
+#### EZR updates
+- Social Listening Presentation Deck is almost done, needs review/polish.
+- Zero Silent Failure is being deployed.
+- Next of Kin is in the process
+- Ideation workshop for the Social Listening work coming soon.
+
+#### CG Synthesis
+- Team discuss findings and refinements to the the findings.
+
+
+## 2024-10-28
+Attendees: Angela, Hieu, Jessica, & Lois.
+
+#### CG Synthesis
+- Next time, researchers to standardize tagging and definition before work sessions.
+- Lois mentioned she used Optimal Workshop - Reformer for synthesis. As well as OneNote for tagging (but it only allows for one tag).
+- Next Step: manual process of theme grouping
+
+#### TERA branching
+- Discussion on success metric, such as decrease application competition time and increase in customer satisfaction score (CSAT)
+- Lois thinks the number of competitions of TERA updates (before vs after) would be a good indicator.
+
+## 2024-10-21
+Attendees: Angela, Jessica, Lois, Luis, and Renata
+
+#### UGC
+- social listening report - great job from Lois! 
+- how might we’s and exploring those in a workshop
+- time to workshop those as a team, post workshop and tickets/roadmap
+- Lois interim step before stakeholders, PMs/PO (middle ground)
+- Go over internally 
+
+
+#### EC/NOK
+- Hieu working with engineers and limitations with UI and backend
+- EC side then match on NOK
+- NOK HEC questions remaining - content specific 
+- align with PDF form questions and consistency - 1 vs 2 EC/NOKs allowed
+- Research talking with terminology - Next of Kin (advanced directed medical decisions) in VA vs outside (estate planning) - research needed content concern
+- No research planning, just seeing if scope validates research later
+- Renata talking about possible future benchmarking research 
+- Lois - research relevant and actionable
+
+
+- Approach for social listening, and open text fields and analysis of ga analytic 
+
+#### Doc Upload Component
+- document uploads and changing file types - Lois watch out list
+- upload issue… keep a look out
+
+
+#### EnjoyHQ
+- Lois to play around with upload a research study
+- Recent research to upload
+- Tracking trends - where Enjoy can come in
+- things we find and not providing well - how to reach out to others/Platform
+- More formal but easy
+
+#### CG research update
+- rescheduled session to this week, was supposed to be completed last Friday 10/18
+- full on synthesis work this week
+- Lois mentions synthesis checkpoints - reviewing research report, track back to the data in Mural, validate for myself
+- invite Lois as optional, team working session
+- Lois wants to observe process, pass along to other teams
+
+#### Data reporting with Luis
+- Question how many number of submissions (successful) 2023 to 2024 compare
+- broad health care apply study
+- Lois question - how do these transfer to benefits
+- numbers Luis ran, source the numbers from DataDog to find successful submissions (spreadsheet tracking Google sheet)
+- why DataDog better than GA? Number for submission is closer to actual truth, specific metric at code level when submission process. GA is tangental, tag manager pixel action
+- old GA numbers were sampled
+- numbers include EZ and EZR forms
+- Spikes in August + September 2023 during PACT communication blasts and efforts
+- DataDog retention is a month-ish; kept in spreadsheet for historical data
+- intro page vs Veteran info first page to factor in submission rates
+
+
+#### Content testing
+- what are other teams doing? guidance?
+
+
+
+
 ## 2024-10-08
 Attendees: Angela, Jessica, Lois, Luis, and Renata
 

@@ -51,8 +51,8 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Desired date range or test duration: Aug 22 - Sept 4
-- Desired number of users: 2
+- Date range or test duration: Aug 22 - Sept 4
+- Number of users: 2
 - How you'll recruit the right production test users: We have identified two BAH Veterans
 - How you'll conduct the testing: UAT
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: Through use of a feature flag
@@ -69,11 +69,11 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
 - Latency: For succesful responses to the API, we had between 4 seconds and 23 seconds of latency. The team suspects that latency had a positive correlation with number of claims.
 
-### Phase I: Friends and Family testing
+### Phase I: Friends and Family testing and 5% of users
 
 #### Planning
 
-- Desired date range or test duration: Week of Sept 15
+- Desired date range or test duration: Week of Oct 15
 - Desired number of users: 19
 - How you'll recruit the right production test users: We have identified 19 Veterans with VA.gov email logins to whom we will reach out and offer to test our authenticated experience.
 - How you'll conduct the testing: We will offer them an optimal workshop survey asking them to verify a few pieces of information.
@@ -81,11 +81,9 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Results
 
-- Number of users: 2
-- Number of bugs identified / fixed: 2
-  - STS Bug: Our service account wasn't configured correctly to include the ICN; team resolved this.
-  - Incorrect config: The team was using out-of-date credentials; upstream service provided us with the updated credentials.
-  - Overwrite issue: our request headers were getting overridden - the root cause was the need to support two API keys, but our team was able to resolve this as well.
+- Number of users: 5; we had users log in and view the page per GA, but no one provided direct feedback.
+- Number of bugs identified / fixed: none
+team was able to resolve this as well.
 - Was any downstream service affected by the change?: No
 - Types of errors logged: N/A
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
@@ -97,7 +95,7 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Rollout Planning
 
-- Desired date range: Pending, September
+- Desired date range: Pending, December 2024
 - How will you make the product available in production while limiting the number of users who can find/access it: By using a feature flag.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Because this entire page is an MVP without a specific entry point just yet, we will be broadly monitoring health and engineering metrics as the key indicator of whether or not we can advance.
 - Links to the dashboard showing "success criteria" metrics: [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)

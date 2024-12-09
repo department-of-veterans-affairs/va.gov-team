@@ -1,5 +1,5 @@
 # My VA Use Cases
-**Last updated:** June 2024
+**Last updated:** November 8, 2024
 
 ## Common Use Cases
 
@@ -14,7 +14,7 @@
 - [Outstanding debts use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases)
 - [Benefit payments use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases)
 - [Education and training use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/education-and-training-use-cases)
-- [Benefit application drafts use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/benefit-application-drafts-use-cases.md)
+- [Benefit applications and forms use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases)(this includes drafts)
 
 ## Edge Cases
 

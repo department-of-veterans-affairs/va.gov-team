@@ -41,33 +41,53 @@ puts "total failures: #{failures.count}"
 puts "4. lighthouse failures #{lighthouse_failures.count}"
 te_records = lighthouse_primary + lighthouse_backup + lighthouse_failures
 puts "1. lighthouse total: #{te_records.count}"
+
+
+lighthouse_backup_ipf = lighthouse_backup.select{ |s| s.form['form526']['form526']['startedFormVersion'] == '2019'}
+puts "lighthouse backup IPF #{lighthouse_backup_ipf.count}"
+lighthouse_ipf_failures = lighthouse_failures.select{|s| s.form['form526']['form526']['startedFormVersion'] == '2019'}
+puts "lighthouse failures IPF #{lighthouse_ipf_failures.count}"
+
+lh_primary_test = []
+lh_primary_ipf = lighthouse_primary.find_in_batches do |group| 
+	puts "--- group.count"
+	group.select {|s| lh_primary_test << s.id if s.form['form526']['form526']['startedFormVersion'] == '2019'; puts "done"}
+	end
+puts "lighthouse_primary_ipf #{lh_primary_test.count}"
 ```
 And draft a message using this template with the output for numbers 1-4. 
-Baseline
-EVSS submissions from April 1 to July 31
-209,770 total submissions (primary, backup, and failure)
-99.04% used the primary path (207,772)
-0.94% used the backup path (1,959)
-0.00019% completely failed (4)
 
-Toxic Exposure
+### Template: 
+#### Baseline 
+EVSS submissions from April 1 to July 31: 209,770 total submissions (primary, backup, and failure)
+- 99.04% used the primary path (207,772)
+- 0.94% used the backup path (1,959)
+- 0.00019% completely failed (4)
+
+#### Toxic Exposure
 Toxic Exposure N% incremental rollout (Date 1 - Date 2):
 Lighthouse total submissions: (#1)
 
-Primary Path Submissions
+##### Primary Path Submissions
 N% used the Lighthouse primary path (2,993) (#2)
+Of those 2,993 primary path submissions, X were In-Progress Forms (TE 1.1).
 
-Backup Path Submissions
+
+##### Backup Path Submissions
 N% used the Lighthouse backup path (68) (#3)
+Of those 68 backup submissions, x% (y) were In-Progress Forms (TE 1.1)
 
-Failures
+##### Failures
 N% of Lighthouse submissions failed (14) (#4)
+0% of Lighthouse In-Progress Forms (TE 1.1) failed (0)
 
-Technical Notes:
+
+#### Technical Notes:
 Here, add notes about technical fixes, issues we're experiencing, details for remediating them
 
-Next Steps:
+#### Next Steps:
 Next steps for the release, including details on anything mentioned in Technical Notes
+
 
 2. Group failures by user to get a sense of impact to Veterans:
 ```
@@ -75,4 +95,28 @@ Next steps for the release, including details on anything mentioned in Technical
 failures_grouped_by_user = failures.group_by(&:user_uuid)
 failures_grouped_by_user = subs.group_by(&:user_uuid)
 failures_grouped_by_user.each {|k, v| puts "#{k}: #{v.count}"};nil
+```
+3. To find XX date issues:
+```
+#        want to look through the array of submission ids at their forms to see if any key contains 'xx'
+     def recurse_through(arg, &closure)
+       if arg.instance_of?(Hash)
+         arg.each_value { |value| recurse_through(value, &closure) }
+       elsif arg.instance_of?(Array)
+         arg.each { |value| recurse_through(value, &closure) }
+       else
+         yield arg
+       end
+     end
+
+  failed_date_subs = []
+  subs.each do |sub|
+    recurse_through(sub.form['form526']['form526']) do |value|
+      if value.is_a?(String) && value.downcase.match?(/['x']{2}/)
+        puts "found xx date: #{value}"
+        puts sub.id
+        failed_date_subs << sub.id
+      end
+    end
+  end
 ```

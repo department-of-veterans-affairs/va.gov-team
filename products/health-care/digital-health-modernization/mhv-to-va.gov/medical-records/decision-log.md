@@ -1,8 +1,20 @@
 # Medical Records Decision Log
-Please log key decisions related to the below practice areas, including date, who made the decision, and a description of the decision and any specific rationale behind it.
+Log key Medical Records-specific decisions in the appropriate practice area table below, including date, who made the decision, and a description of the decision and any specific rationale behind it.
+
+Log any decisions impacting all/multiple MHV on VA.gov applications in the [global MR decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md).
 
 
 # Medical records design decisions
+## Nov 15, 2024
+### State of Product
+* Phase 0
+* Domains included: Allergies, Vaccines, Care Summaries and Notes, Vitals, Health Conditions, Labs & Test Results 
+
+### General product design decisions
+| Decision | Reasoning |
+|----------|-----------| 
+| For Phase 1 + beyond there will be a Download your medical record reports link on the MR landing page.  This will take users to the download page where they can 1) download a blue button report 2) download a CCD or 3) download self-entered health information. Decision documented and approved by MHV content [here](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/doc2.aspx?sourcedoc=%7BAB71219F-8E09-4C26-ADBD-E31A1A83CEF7%7D&file=Blue%20Button%20Decision%20on%20VA.docx&nav=eyJjIjoxMTgxNzY5MjAzfQ&action=default&mobileredirect=true).| Blue button language will be downplayed but still available to users who are familar with the term.  In research it was found that not everyone is familiar with the language.  Self-entered health information will be removed from blue button, to help users understand that it is not part of their official medical record and not available to their providers.  CCD will be re-named from the VA Health Summary and additional information about when to use it will be provided.|
+
 ## Aug 22, 2024
 ### State of Product
 * Phase 0
@@ -128,7 +140,11 @@ Decisions made on OCC/OCTO Leadership meeting with Dr. Josephs, Theresa Hancock,
 | In the details view for an allergy, a user will be shown Allergy name, date entered, location entered, reaction, allergy type, whether it was observed or is historical, and any comments entered by the provider | |
 | The field formerly called reaction was updated to be called Signs and symptoms. | This was based on feedback from SMEs. Signs and symptoms is the terminology for this field used in the After Visit Summary. It also differentiates this field from the title of this entire section - Allergies and reactions |
 
-
+### Logging Decisions
+ | Date | Decision Maker(s) | Description of Decision | Rationale |
+|------|-------------------|-------------------------|-----------|
+| 7/18/2023 | Theresa Hancock, Bresha Lipscomb, Coulton Bunney, Marci McGuire  |  The User Interface for users to view their log info does not need to be baked into the applications in Phase 0, but we do need to provide a link from the new experience to the logs on My HealtheVet.  The timing for incorporating the log UI into the new experience will be determined based on the estimated lift to create that new page.  |  Getting the new experience in front of users was deemed to be a higher priority than replicating the logging access page in Phase 0 |
+| 6/13/2023 | Theresa Hancock, Bresha Lipscomb, Matthew Baum, Stephania Griffin, Peggy Pugh, Lauren Alexanderson, Coulton Bunney, Marci McGuire, Barry Egbert                  |  The logging in AAL can remain exactly the way it is set up in MHV currently  |  The current configuration was reviewed by Matt Baum and deemed sufficient.  |
 
 ## Product
  | Date | Decision Maker(s) | Description of Decision | Rationale |
@@ -183,7 +199,7 @@ Please see Accessibility design intent feedback [https://github.com/department-o
 
 - Why have a download and print button for similar results? 
 
-**Recomendation**
+**Recommendation**
 
 -  Because we are not having a “share” functionality wihin this flow - And based on accessbility feedback - we should strongly consider a download and print button/functionality  
 

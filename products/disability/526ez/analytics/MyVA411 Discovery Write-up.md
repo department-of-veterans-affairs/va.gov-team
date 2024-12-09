@@ -6,7 +6,7 @@ Evelyn Hilbrich Davis (evelyn@cityfriends.tech)
 
 Jump to: 
 1. [Background](#background) 
-2. [Contact Center Data- Use Case](#Contact-Center-Data-Use-Case)
+2. [Benefits/Limitations of MyVA411 Data](#Benefits/Limitations-of-MyVA411-Data)
 3. [Approaches](#approaches)
 4. [Recommended Approach for TE Monitoring](#Recommended-Approach-for-TE-Monitoring)
 5. [Relevant Links](#relevant-links)
@@ -36,11 +36,10 @@ Historically, UX has relied on Medallia survey data for 526ez health checks and 
 -   Meeting with Contact Center and Megan Hicks to discuss Streamlit
     
 
-## Contact Center Data - Use Case
+## Benefits/Limitations of MyVA411 Data
+See an overview of MyVA411 data[ in this document.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/MyVA411_About.md)
 
-Read below for greater detail into benefits and limitations of utilizing the support data.
-
-### Benefits
+### Benefits of MyVA411 Data
 
 -   Calling is more accessible means of giving feedback than completing the Medallia survey [(documented here](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/352)).
     
@@ -49,7 +48,7 @@ Read below for greater detail into benefits and limitations of utilizing the sup
 -   Captures wide swath of pain points where Veterans have to call to be unblocked
     
 
-### Limitations
+### Limitations of MyVA411 Data
 
 -   Data isn’t sorted by online/paper form, and we know only 25% of Veterans are filing online
     
@@ -110,7 +109,12 @@ Explore data analytics and AI tooling that is being made available to OCTO.
 **Trade-offs:** Tooling would require more research capacity to operationalize. As tooling becomes more common and problems are ironed out, we could explore with less risk down the road. Concerns about how safe it is to include PII.
 
 # Recommended Approach for TE Monitoring
-We know that MyVA411 offers a high volume of data, but the value of the data for monitoring a digital launch still remains unseen. In order to keep monitoring lightweight in the short term, we will begin with a hybrid approach of 1 & 2, leaning into Steven's background with NLP. This will keep engineers focused on their work but allow time for a conversation with Megan Hicks about Streamlit. If Approach 2 serves difficult due to PII and machine access, we will fall back to Approach 1. 
+We know that MyVA411 offers a high volume of data, but the value of the data for monitoring a digital launch still remains unseen. 
+
+
+Our focus will be to keep our monitoring lightweight and targeted. In our data request, we will request case categories dealing with "disability compensation rather than "Pact Act," specifically. [See justification in this About MyVA411 document.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/MyVA411_About.md) 
+
+With the data analysis, we will take a hybrid approach of 1 & 2, leaning into Steven's background with NLP. This will keep engineers focused on their work but allow time for a conversation with Megan Hicks about Streamlit. If Approach 2 serves difficult due to PII and machine access, we will fall back to Approach 1. 
 
 # Relevant Links
 [Processing and Utilizing Veteran Support Data](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data)

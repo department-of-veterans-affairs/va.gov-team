@@ -26,3 +26,5 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _Confirmed by Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C06GE5N7QJ0/p1726258168134879?thread_ts=1726256358.678779&cid=C06GE5N7QJ0)) and this was communicated to OGC by Product Manager Lindsay Li-Smith via email "Question about messaging"._
 - **9/19/2024**: Confirmed that we are not at risk for silent failures. \
   _Confirmed by Technical Lead Holden Hinkle ([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93229))._
+- **10/29/2024**: Updated address validation logic to handle instances where a representative has a mix of both P.O. Box and street address. In these instances, we will only display one or the other (whichever returns a valid location) and as a result some addresses will only show the P.O. Box or the street address (not both). \
+  _Communicated by Product Manager Lindsay Li-Smith ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1730218859270719))._

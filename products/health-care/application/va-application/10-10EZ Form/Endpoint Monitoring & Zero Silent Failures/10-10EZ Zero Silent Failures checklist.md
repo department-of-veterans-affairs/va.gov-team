@@ -36,8 +36,8 @@ If you answered yes to any of these questions then go through the following [che
 * [x] Did your application use the same APIs when it shipped as it does today?
   * If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
 >* No - After some research was done into the old archived documentation, we have found that the endpoint APIs we are using today have not changed since the form was launched.
->    >* As far as we know, the wsdl file is used to describe the available endpoints and services for an api. In our case, we have this voa.wsdl file , which was originally added 8 years ago when the 10-10EZ form was first created online. It has only had one edit (which was related to updating the gem we use to make the request 3 weeks ago), but which did not change any of the endpoint descriptions. It looks like the only endpoints we use with the enrollment system are the saveSubmitForm (used to submit the completed form) and the getFormSubmissionStatus (which is used by our healthcheck endpoint).
->    >* So in conclusion, our usage in regards to which endpoints we are using have not changed since the app was first created.
+>    * As far as we know, the wsdl file is used to describe the available endpoints and services for an api. In our case, we have this voa.wsdl file , which was originally added 8 years ago when the 10-10EZ form was first created online. It has only had one edit (which was related to updating the gem we use to make the request 3 weeks ago), but which did not change any of the endpoint descriptions. It looks like the only endpoints we use with the enrollment system are the saveSubmitForm (used to submit the completed form) and the getFormSubmissionStatus (which is used by our healthcheck endpoint).
+>    * So in conclusion, our usage in regards to which endpoints we are using have not changed since the app was first created.
 
 #### Monitoring
 
@@ -47,6 +47,7 @@ If you answered yes to any of these questions then go through the following [che
 >   * **ACTION ITEM**: We are not set up for Delivery Status callbacks with VA Notify, ticket created [#93247](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93247) to remediate
 >        * Confirmed that there have not been any delivery failures since onboarding Submission Failures emails to VA Notify on 7/9/2024
 >        * Prior to this, we had a Datadog monitor on the govDelivery email delivery status set up since September 2023 (which was removed when we switched over to VA Notify).
+>   * We have added the required [Silent Failure Avoided tracking logging](https://vagov.ddog-gov.com/dashboard/n6c-twn-swr/silent-failure-tracker?fromUser=false&refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&from_ts=1729187697952&to_ts=1729792497952&live=true) to our 10-10EZ form, test results (10/24/2024) appeared in the tracker as expected
 
 * [x] Does your Datadog monitoring use the appropriate tagging?
   * If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
@@ -104,8 +105,8 @@ If you answered yes to any of these questions then go through the following [che
   * If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
   * Please document the outcome of this conversation in your product's documentation in Github.
 >   * Yes, we confirmed with Joshua Faulkner (Technical Director of the Veteran Enrollment System (VES) via email that:
->   >*  any errors considered "fatal" or "unrecoverable" once they reach the VES are moved into a manual workflow for the staff to take action on the application submission.
->   >*  Most of the scenarios that result in this manual workflow are expected and intentional, especially in the anonymous submission route; but unexpected errors also follow that same flow.
+>      *  any errors considered "fatal" or "unrecoverable" once they reach the VES are moved into a manual workflow for the staff to take action on the application submission.
+>      *  Most of the scenarios that result in this manual workflow are expected and intentional, especially in the anonymous submission route; but unexpected errors also follow that same flow.
 >   *  This will be documented in our [10-10EZ Flow Chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/10-10EZ%20Flow%20Chart.md) 
 
 #### User experience

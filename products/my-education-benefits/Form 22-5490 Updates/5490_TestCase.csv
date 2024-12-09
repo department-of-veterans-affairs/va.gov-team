@@ -1,0 +1,40 @@
+Issue key,Issue id,Issue Type,Summary,Created,Updated,Component/s,Component/s,Component/s,Assignee
+SA-99395,417125,Test,TC6 - MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 & Fry)- Marriage Date,Sep/24/24 1:08 PM,Sep/24/24 2:54 PM,Agile Capacity,MyEducationBenefits,N33Automation,ana.masroor
+SA-99393,417115,Test,TC4 - MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 & Fry) Your Information,Sep/24/24 12:27 PM,Oct/01/24 12:46 PM,Agile Capacity,MyEducationBenefits,N33Automation,ana.masroor
+SA-99438,417262,Test,TC6 - MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 & Fry) - Outstanding Felony,Sep/24/24 2:55 PM,Oct/01/24 1:03 PM,Agile Capacity,MyEducationBenefits,N33Automation,ana.masroor
+SA-99392,417110,Test,TC3 - MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 & Fry)-Benefits Selection,Sep/24/24 12:00 PM,Oct/01/24 11:18 AM,Agile Capacity,MyEducationBenefits,N33Automation,ana.masroor
+SA-100509,424465,Test,TC11 - MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 & Fry) - Review Application,Oct/07/24 2:09 PM,Oct/07/24 2:11 PM,Agile Capacity,MyEducationBenefits,N33Automation,ana.masroor
+SA-99639,418060,Test,TC10 - MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 & Fry)- Direct Deposit,Sep/26/24 10:02 AM,Oct/07/24 2:08 PM,Agile Capacity,MyEducationBenefits,N33Automation,
+SA-99282,416562,Test,TC1 - MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 & Fry) - Application Instructions Page,Sep/23/24 12:48 PM,Oct/01/24 10:44 AM,Agile Capacity,MyEducationBenefits,N33Automation,ana.masroor
+SA-99638,418053,Test,TC9 - MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 & Fry)-Applicant's Preferred Contact Method,Sep/26/24 9:44 AM,Sep/26/24 9:44 AM,Agile Capacity,MyEducationBenefits,N33Automation,ana.masroor
+SA-99451,417329,Test,TC8 - MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 & Fry)- Contact Information - Mailing Address,Sep/24/24 3:56 PM,Sep/26/24 9:42 AM,Agile Capacity,MyEducationBenefits,N33Automation,ana.masroor
+SA-99391,417099,Test,TC2- MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 & Fry)Veteran/Service Member Info ,Sep/24/24 11:37 AM,Oct/01/24 10:53 AM,Agile Capacity,MyEducationBenefits,N33Automation,ana.masroor
+SA-99394,417121,Test,TC5- MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 & Fry) - Marriage Information & Marriage Date,Sep/24/24 12:59 PM,Oct/01/24 2:23 PM,Agile Capacity,MyEducationBenefits,N33Automation,ana.masroor
+SA-99447,417284,Test,TC7- MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 & Fry)-Contact Information - email & contact number,Sep/24/24 3:01 PM,Oct/01/24 2:36 PM,Agile Capacity,MyEducationBenefits,N33Automation,ana.masroor
+SA-100604,425103,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 ( Fry) - Benefits Selection,Oct/08/24 4:38 PM,Oct/09/24 5:52 PM,MyEducationBenefits,N33Automation,,
+SA-100721,425860,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 ( CH35-Spouse) - Marriage Information,Oct/09/24 6:04 PM,Oct/09/24 6:05 PM,MyEducationBenefits,N33Automation,,
+SA-100684,425579,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 ( Fry) - Personal Information,Oct/09/24 2:15 PM,Oct/09/24 2:45 PM,MyEducationBenefits,N33Automation,,
+SA-100990,428186,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 ( Fry- Spouse) - Remarriage,Oct/15/24 12:46 PM,Oct/15/24 1:22 PM,MyEducationBenefits,N33Automation,,
+SA-100605,425104,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 ( Chapter 35) - Benefits Selection,Oct/08/24 4:38 PM,Oct/09/24 5:51 PM,MyEducationBenefits,N33Automation,,
+SA-100702,425614,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 ( Chapter 35) - Personal Information,Oct/09/24 2:45 PM,Oct/09/24 2:48 PM,MyEducationBenefits,N33Automation,,
+SA-100720,425856,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 ( Fry- Spouse) - Marriage Information,Oct/09/24 5:52 PM,Oct/15/24 12:40 PM,MyEducationBenefits,N33Automation,,
+SA-100993,428215,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 ( Fry- Spouse) - Outstanding Felony,Oct/15/24 1:11 PM,Oct/15/24 1:19 PM,MyEducationBenefits,N33Automation,,
+SA-100992,428191,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 ( Fry- Spouse) - Outstanding Felony,Oct/15/24 1:02 PM,Oct/15/24 1:20 PM,MyEducationBenefits,N33Automation,,
+SA-100991,428190,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 ( Fry- Spouse) - Remarriage Date,Oct/15/24 12:58 PM,Oct/15/24 1:21 PM,MyEducationBenefits,N33Automation,,
+SA-100989,428183,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 ( Fry- Spouse) - Marriage Date,Oct/15/24 12:40 PM,Oct/15/24 1:24 PM,MyEducationBenefits,N33Automation,,
+SA-101055,428635,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 (Chapters 35 & Fry) -  Review Application,Oct/16/24 9:16 AM,Oct/16/24 9:43 AM,MyEducationBenefits,N33Automation,,
+SA-101053,428619,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 (Chapters 35 & Fry) -  Direct Deposit,Oct/16/24 7:53 AM,Oct/16/24 9:16 AM,MyEducationBenefits,N33Automation,,
+SA-100584,424991,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 & Fry) - Application Instructions Page,Oct/08/24 3:28 PM,Oct/08/24 3:33 PM,MyEducationBenefits,N33Automation,,
+SA-100587,425029,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 Fry Spouse - Veteran/Service Member Info,Oct/08/24 3:59 PM,Oct/09/24 2:57 PM,MyEducationBenefits,N33Automation,,
+SA-100704,425656,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 Fry Child - Veteran/Service Member Info,Oct/09/24 2:57 PM,Oct/09/24 2:59 PM,MyEducationBenefits,N33Automation,,
+SA-100586,425028,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 Spouse) - Veteran/Service Member Info,Oct/08/24 3:59 PM,Oct/09/24 2:55 PM,MyEducationBenefits,N33Automation,,
+SA-100888,427562,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 (Chapters 35 & Fry) -  Applicant's Preferred Contact Method,Oct/12/24 1:55 PM,Oct/16/24 7:53 AM,MyEducationBenefits,N33Automation,,
+SA-100883,427557,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 (Chapters 35 & Fry) - Contact Information _New Applicant,Oct/12/24 1:10 PM,Oct/12/24 1:13 PM,MyEducationBenefits,N33Automation,,
+SA-100884,427558,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 (Chapters 35 & Fry) - Contact Information _Previously Entered,Oct/12/24 1:13 PM,Oct/12/24 1:19 PM,MyEducationBenefits,N33Automation,,
+SA-100703,425638,Test,CLONE - Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 (Chapter 35 Child) - Veteran/Service Member Info,Oct/09/24 2:55 PM,Oct/09/24 2:55 PM,MyEducationBenefits,N33Automation,,
+SA-100885,427559,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 (Chapters 35 & Fry) - Mailing Address_Foreign box checked,Oct/12/24 1:19 PM,Oct/12/24 1:42 PM,MyEducationBenefits,N33Automation,,
+SA-100886,427560,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 (Chapters 35 & Fry) - Mailing Address_Foreign box unchecked,Oct/12/24 1:42 PM,Oct/12/24 1:49 PM,MyEducationBenefits,N33Automation,,
+SA-100891,427565,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 (Chapters 35 & Fry) -  Applicant's Preferred Contact Method_no number provided,Oct/12/24 2:41 PM,Oct/12/24 2:43 PM,MyEducationBenefits,N33Automation,,
+SA-100889,427563,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 (Chapters 35 & Fry) -  Applicant's Preferred Contact Method_I don't want,Oct/12/24 2:12 PM,Oct/12/24 2:29 PM,MyEducationBenefits,N33Automation,,
+SA-100890,427564,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 (Chapters 35 & Fry) -  Applicant's Preferred Contact Method_valid U.S. based number,Oct/12/24 2:29 PM,Oct/12/24 2:41 PM,MyEducationBenefits,N33Automation,,
+SA-100887,427561,Test,Test REQ: MEB - Original Claims - 1/Intake - MEB 5490 (Chapters 35 & Fry) - Mailing Address_Foreign box unchecked_Foreign Country Present,Oct/12/24 1:49 PM,Oct/12/24 1:55 PM,MyEducationBenefits,N33Automation,,

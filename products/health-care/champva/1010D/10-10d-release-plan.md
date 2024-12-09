@@ -149,11 +149,17 @@ Test a small number of accounts added to an allowed email list in Flipper. Allow
 ### Stage A: Canary
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
+Beginning Monday, 12/9/24
 
 #### Planning
 
-- Length of time:  (Monday to Tuesday)
-- Percentage of Users (and roughly how many users do you expect this to be): 10% of time to include unauthenticated users
+- Length of time: Minimum of 24 hours (Monday to Tuesday)
+- Percentage of Users (and roughly how many users do you expect this to be): 10% of actors
+- Evauate after 24 hours
+   - Confirm that data is transferred correctly to PEGA
+   - Confirm any front end errors are evaluated and understood and addressed
+   - Confirm any missing PEGA callback errors are understood and addressed
+   - Confirm no silent failures
 
 #### Results
 

@@ -2,6 +2,7 @@
 
 Just some documentation and resources useful for DevOps work on this team.
 
+- **[dsvagovcloud-resources](./dsvagovcloud-resources.md)**: Check-In Experience resources managed in the `dsvagovcloud` AWS account by Platform or some other entity.
 - **[github-apps](./github-apps.md)**: Information about GitHub Apps we use.
 - **[vaec-cie-migration](./vaec-cie-migration)**: Information about the migration from the `vaec-cms` AWS account to the "new" `vaec-cie` AWS account.
 - **[slack](./slack.md)**: Information about the Slack channels we use.

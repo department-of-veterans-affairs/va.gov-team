@@ -36,21 +36,78 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 Notes:
 1: 02/23/2024 - Requirement not yet met
 
+### Empty states and Alerts
+
+The following service endpoint is called to retrieve all appointments:
+
+`http://localhost:3000/vaos/v2/appointments?_include=facilities,clinics&start=2024-05-16&end=2024-09-14&statuses[]=proposed&statuses[]=cancelled`
+
+The technical name of the field in the data call.
+
+Display Name | Technical Name
+--- | ---
+Video link | `telehealth.url`
+Appointment date and time |  `localStartTime`
+Type of care | `serviceTypes`
+Modality | N/A
+Provider name | `providers[0].name.given, family`
+Facility name | `location.attributes.name`
+Facility address | `location.attributes.physicalAddress`
+Clinic | `friendlyName or serviceName or null`
+Location | `physicalLocation or null`
+Facility phone number | `extension.clinic.phoneNumber, extension.clinic.phoneNumberExtension or default "800-698-2411"`
+Veteran reason for appointment | N/A
+
+**NOTE:**
+This mapping might change since business logic is being migrated to the middle tier.
+
+Example JSON appointment object returned from API call.
+```
+{
+   id: 1
+   type: "appointment",
+   attributes: {
+      localStartTime: "2024-11-22T18:19:34",
+      practitioners: {
+         name: {
+            family: "Last name",
+            given: ["First name"],
+         },
+         serviceType: "primaryCare",
+         status: "booked",
+         telehealth: {
+            url: "link to join the appointment",
+            vvsKind: "MOBILE_GFE",
+         },
+      },
+   },
+}
+```
+**Use cases:**
+- When type of care is missing, don't display at anything.
+- When provider is missing, don't display anything.
+- When facility information not available, display "Facility not available''.
+- When clinic name missing, display "Clinic not available'.
+- When current time is more than 30 minutes before the appointment time, the link is disabled
+- When current time is more than 4 hours after after the appointment time, the ink is disabled
+
+![image](https://github.com/user-attachments/assets/0b170c23-3df8-422e-8d92-d3540b11dd96)
+
+
+When there is no link to join the video, error is displayed
+![image](https://github.com/user-attachments/assets/4506c6f8-5aae-4380-a18b-1cba4aacd17d)
+
+
+
 ## Specifications
 
 **User flows**
-- [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)
-- [Past appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=127-22836&t=jIup4zOCLhBYNOvO-4)
+- [Upcoming appointments](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-2925&t=kDXwMWn2YUhVmLLB-4)
+- [Past appointments](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-3497&t=kDXwMWn2YUhVmLLB-4)
+
 
 **UI design specs**
-- [Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26648&mode=design&t=bs8m3MnTZ56hExUO-4)
-- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26681&mode=design&t=bs8m3MnTZ56hExUO-4)
-- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26711&mode=design&t=bs8m3MnTZ56hExUO-4)
-
-**Page content**
-- [Upcoming](../../content/appointment-details.md#va-vvc-gfe-appointment---upcoming)
-- [Past](../../content/appointment-details.md#va-vvc-gfe-appointment---past)
-- [Canceled](../../content/appointment-details.md#va-vvc-gfe-appointment---canceled)
+[Video details pages](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-86021&t=gPsyz7IrtgxZbZss-4)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
@@ -66,19 +123,6 @@ Notes:
 
 [All events VAOS tracks](Link TBD)
 
-## Alerts and conditional states
-<!-- Any alerts that could display for this feature and what triggers them. -->
-
-### [Alert description]
-<!-- Add a new section for each alert -->
-
-**Alert trigger**
-[Description of what causes this alert to display]
-
-**Alert UI**
-- [User flow](Add link)
-- [State template](Add link)
-- [State content](Add link)
 
 ## Technical design
 <!-- Endpoints and sample responses -->

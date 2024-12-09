@@ -10,7 +10,6 @@
 |:--|:--|
 |Ana Claudio|CWV (Center for Women Veterans)|
 |Elizabeth Estabrooks|CWV (Center for Women Veterans)|
-|Elizabeth Harrington|CWV (Center for Women Veterans)|
 |Michelle Terry|CWV (Center for Women Veterans)|
 |Missina Schallus|CWV (Center for Women Veterans)|
 |Shannon Middleton|CWV (Center for Women Veterans)|

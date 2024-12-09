@@ -21,7 +21,7 @@ Nearly 40% of all traffic to VA.gov comes from users on their mobile devices. Th
 ### Product & Data
 
 - Matt Hall - Product Leadership
-- Adam Kasmier - Product
+- Ameet Sarkar - Product
 - Stacy Blackwood - Product
 - Alayna Abel - Product
 - Kelly Lein - Product
@@ -29,9 +29,8 @@ Nearly 40% of all traffic to VA.gov comes from users on their mobile devices. Th
 
 ### UX
 
-- Jennifer Ecker - UX Leadership
+- Holly Collier - UX Leadership
 - Brea Blackwelder - Accessibility Design
-- Holly Collier - Design
 - Lauren Russell - Design
 - Jessica Woodin - Design
 - Megan Graham - Research
@@ -48,7 +47,6 @@ Nearly 40% of all traffic to VA.gov comes from users on their mobile devices. Th
 - Andrew Herzberg - Engineer
 - Dylan Nienberg - Engineer
 - Jayson Perkins - Engineer
-- Kris Pethtel - Engineer
 - Narin Ratana - Engineer
 - Tim Roettger - Engineer
 - Rachel Bontrager - Engineer, QA

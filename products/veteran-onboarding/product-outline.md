@@ -32,9 +32,6 @@ What does successful onboarding to the authenticated experience on VA.gov look l
 - Profile Completion
 - ???
 
-## Undesired Business Outcomes
-
-
 ---
 ## Measuring Success
 
@@ -44,20 +41,13 @@ What does successful onboarding to the authenticated experience on VA.gov look l
 - Gather key pieces of information for profile completion 
 
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
-
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
-  - Key result: 
+- Objective: To increase the up front knowledge a veteran will receive when onboarding to MyVA
+  - Key result: LOA1 Veterans are prompted with a welcome modal that introduces them to MyVA
+  - Key result: LOA3 Veterans are prompted to complete their contact info
+  - Key result: Veterans will be set up at a base level to begin their benefit journey
 
 
 ---
@@ -86,11 +76,11 @@ The initial phase will be rolled out to welcome Veterans who have not created a 
 - All development will initially be behind a Feature Flag, which we can control the initial rollout to
 - New Users will be determined by the account age
 - The onboarding experience will appear for all accounts that are flagged as new, a User does not need to take any action to access this experience but they will be able to dismiss it.
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [Link to Release Plan][(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/release-plan.md)
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - Mid December 2024
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -131,11 +121,11 @@ The initial phase will be rolled out to welcome Veterans who have not created a 
 <details>
  
  - DEPO Lead: Jeff Barnes
- - PM: Kat Kufalk, Oddball
+ - PM: Mike King, Oddball
  - Engineering: Adam King, Oddball;
                 Nick Sayre, AdHoc;
                 John Rodriguez, AdHoc
- - Research/Design: Liza McRuer, AdHoc
+ - Research/Design: Raquel Eisele, AdHoc
  
 </details>
 

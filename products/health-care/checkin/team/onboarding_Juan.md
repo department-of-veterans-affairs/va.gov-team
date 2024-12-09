@@ -56,19 +56,42 @@
       - [brainstorming](https://balsamiq.cloud/s4uw4la/pnnwuqv/r8E01)
       - [VA Mobile Api](https://department-of-veterans-affairs.github.io/va-mobile-app/api/)
       - [Board](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/board)
-- Feedback about mentoring: (anything around if you got what you needed, if the guide and response was helpful, any imporvements to make it more productive, what communication type worked the best? ceremonies? slack ? or etc) 
-  - xyz
-  -
-  -
-- Feedback about mobile team ceremonies: (anything around if you got what you needed, to help you with onboarding, any imporvements to make it more productive for you as onbordee, what communication type worked the best? ceremonies? slack ? or etc) 
-  - xyz 
-  -
-  -
-- what would help with speeding up the onboarding?
-  - xyz
-  -
-- feedback on tools (or any suggestions re tools):
-  - xyz
-- feedback on the development process:
-  - xyz
-  - 
+- **Feedback on Cross-Team Coordination/Collaboration (Product team UAE + Mobile):**
+There are gaps in the collaboration process and in assigning cross-team tasks. Despite multiple meetings and established agreements on task ownership across teams, these agreements were not consistently followed (e.g., Travel Pay - VAHB). For larger efforts involving multiple teams, we suggest using dedicated Team of Teams (ToT) meetings to align on implementation plans and ensure VA stakeholder participation. This would promote transparency in delivery timelines and alignment across all teams.
+- **Feedback on Priority Alignment (Product Teams + Mobile Team):**
+Example: In the Travel Pay for Past Appointments (VAHB) initiative, the mobile design team did not prioritize the necessary designs, delaying their readiness for upcoming sprints. This resulted in engineering on the UAE side having to pause work until the designs were completed.
+
+   - **Dependency Questions:**
+     - Could the product teams (UAE) take on design responsibilities in the future?
+     - Can designs be managed in the VA Figma rather than in partner-owned Figma environments?
+
+- **Code Merges/ QA review process:**
+  - Typically takes 1+ Day from PR creation to first eyes on the code.
+  - Any PR that needs changes, even if they are small changes, takes significantly longer to get reviewed 2+ additional days. 
+  - It might be better to get a PR into peoples radar by just asking for a review as soon as the PR is ready via slack.
+  - QA takes about 1 day after code is reviwed.
+  - Process is fine but not ideal due to significant time needed for review.
+  
+- **Feedback on PROD Deployment process:** 
+  - After our engineering and development work is complete, there is a notable delay in getting the feature fully live due to the QA process and deployment scheduling. Once the code is finalized, it goes into a designated branch tied to pre-scheduled deployments. This means that **the end-to-end process, from development completion to production release, can take anywhere from 2 to 6 weeks**.
+  - Additionally, the deployment process lacks transparency in key areas. Currently, **there is no centralized location where we can double-check when specific features are scheduled to go live** (or we aren't ware of any). Moreover, after deployment, there is no notification detailing which features have been released. While **there is an automated Slack message**  mentioning the version of the code that went live, it **does not specify the features included in that release**.
+  - **Impact:** While the structured process ensures thorough quality checks and coordinated releases, these delays and gaps in communication can impact our ability to track progress effectively and address priorities in a timely manner. Exploring ways to streamline the QA and deployment pipeline, as well as improve visibility into release schedules and post-deployment updates, would enhance efficiency and team alignment.
+
+  
+- **Feedback on mentoring:**
+  - Mentoring was minimal and did not help all that much. 
+
+- **Feedback on mobile team ceremonies:** 
+  - **Slack communication**: Relying solely on Slack for updates proved insufficient. Important changes, such as the introduction of a new process, were not effectively communicated. While these updates could have been shared in team ceremonies, the UAE engineer was not included in ceremonies after the first two weeks of onboarding.
+  - **Missed ceremonies:** Initially, the UAE engineer attended stand-ups during the first two weeks. However, after that, no further invitations were sent. Regular participation in stand-ups (at least once a week) would have helped the engineer stay aligned, especially on process changes.
+  - **Staying up to date:** Although Slack was suggested as the primary tool for staying informed about the mobile team, it lacked sufficient detail. The engineer often had to review pull requests independently to track technical changes, as Slack did not provide adequate visibility into updates to the mobile repository.
+  - **Response times:** Asynchronous responses via Slack were timely and appropriate for the nature of the work.
+  - **Ticket comments:** Comments on tickets were constructive, productive, and typically received within 24 hours, which facilitated progress effectively.
+  - **Suggestion for a Notification Process/Forum for Mobile Updates:** To improve collaboration and streamline the development process, the mobile team could establish a **notification system or forum dedicated to sharing critical updates related to mobile processes**. 
+
+- **Feedback on onboarding:**
+  - **Onboarding:** Some people onboarding may benefit from a conversation with an engineer who knows the code and can give a good overview of the mobile platform. Or even a pre-recorded video specifically on the mobile repo. This might be redundant as most of this info is already in the mobile documentation, but a conversation allows for questions. Another benefit of a conversation is getting to know engineers who already work on the project.
+
+- **Feedback on tools (or any suggestions re tools):**
+  - **Tools:** No comments here, besides them being as expected. Probably a recommendation of what best Xcode version to use (this is usually the latest), but some teams use a specific version due to build issues or other reasons.
+

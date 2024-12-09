@@ -65,7 +65,7 @@ Day of the session
     - After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
 
     - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-
+Yes
     - Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences? 
 
     - One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. 
@@ -81,7 +81,7 @@ Day of the session
     - Start recording.
 
     - I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-
+Yes
     - Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?
 
 - Moderator: Questions asked are based on the participant’s cohort. 
@@ -90,7 +90,7 @@ Day of the session
 
 ## Warm-up questions for Cohort 1 only - 5 minutes 
 1.	Before we start looking at the prototype, do you recall some of the pre-appointment questions my colleague asked you back in January during your last session with us? 
-
+Vaguely, it’s not that I have a poor memory, it’s that I did 2 pervious and I am not sure which one it was. I remember doing it I don’t remember the details. 
 - Moderator: If participant does not recall any Phase 1 questions, move to question 2.
 If participant recalls the questions, then ask:
 
@@ -106,24 +106,25 @@ If participant recalls the questions, then ask:
 ## Continuation of warm-up questions for Cohort 1 and 2 – 10 minutes
 
 1. Since your enrollment in VA healthcare, do you recall ever receiving notifications from the VA asking you to fill out healthcare related questionnaires that were not related to a specific healthcare appointment?
-
+I just filled out a survey about my visit or my experience with community care. I have done 3 or 4 of those they come in the mail. 
 - Moderator: If participant answers no, move to question 2.
   
 - If participant answers yes, then ask the following questions:
     - 1a. How did you receive this notification, was it through a text messaging, or email?
-    - 1b. Do you recall if you were ever hesitant, or you ever felt uneasy to click on the VA notification, or its content due to it potentially being spam, or not from the VA? Why or why not?
+    - 1b. Do you recall if you were ever hesitant, or you ever felt uneasy to click on the VA notification, or its content due to it potentially being spam, or not from the VA? Why or why not? I would click on it if it said login to My Healthy Vet. I would know that it was safe. No one is hacking into the VA. I am so paranoid, I don’t trust anything or anybody.  
     - 1c. What would you add, delete, or change about the notification, or the link, to make you feel more confident the notification was from the VA?
     - 1d. Did any of these notifications include a link to a healthcare related questionnaire?
     - 1e. Do you recall how many questionnaires a notification contained?
     - 1f.  What was the length of time it took you to respond to the actual questionnaire(s)?
-    - 1g. Do you think that is it took a reasonable amount of time to complete it, just the right amount of time, or an unreasonable amount of time?
-    - 1h. How do you feel about answering healthcare related questionnaires-do you feel that they are worth your time to fill out, not worth your time, or you have neutral feelings about filling them out? Why or why not?
-    - 1i. What did you expect to happen after you filled out the questionnaire(s).Do you recall about how many times between healthcare appointments, or within a 6-month period, you received similar questionnaire(s)? 
-    - 1j. Do you recall the cadence as being infrequent, just the right amount of time, or too frequent?-What cadence do you consider to be reasonable amount of time?
-    - 1k. How do you feel about receiving a skin cancer screening questionnaire even if you don’t have any upcoming healthcare appointments in the near future?    
-    - 1l. Would you prefer to answer this type of questionnaire online or in-person at the time of your healthcare appointment? Why?
+    - 1g. Do you think that is it took a reasonable amount of time to complete it, just the right amount of time, or an unreasonable amount of time? About 4-5 minutes. That is a reasonable amount of time, I don’t want to do a 15 minute one. 
+    - 1h. How do you feel about answering healthcare related questionnaires-do you feel that they are worth your time to fill out, not worth your time, or you have neutral feelings about filling them out? Why or why not? How do I know if I remember what happened back in the 60’s. Someone that just got out will recall more than someone that has been out for decades. 
+    - 1i. What did you expect to happen after you filled out the questionnaire(s).Do you recall about how many times between healthcare appointments, or within a 6-month period, you received similar questionnaire(s)? I don’t mind doing them, but I don’t see any result from doing them.
+    - 1j. Do you recall the cadence as being infrequent, just the right amount of time, or too frequent?-What cadence do you consider to be reasonable amount of time? Every tow or three months.
+    - 1k. How do you feel about receiving a skin cancer screening questionnaire even if you don’t have any upcoming healthcare appointments in the near future?   I don’t think I would have a problem with it, but I have never received one.  
+    - 1l. Would you prefer to answer this type of questionnaire online or in-person at the time of your healthcare appointment? Why? I’ve gotten questionnaires before the appointment, that is his and miss. I would prefer online and in advance of the visit. I prefer an email. 
     - 1m. Suppose the VA sent you a batch of 3-6 healthcare related questionnaires all at once?
     - 1n.	How would you like to receive the batch, via email or text notification?
+ Probably not!
     - 10.	How many questionnaires in a batch would you consider to be a reasonable amount to respond to at once?
     - 1p.	What cadence would you expect to receive a batch of 3-6 questionnaires and why?
 
@@ -157,14 +158,14 @@ If participant recalls the questions, then ask:
 - Notetaker: Note any observations about the following things: What do they comment on as confusing or valuable without prompting? 
 
     - 2a. Is there anything about the notification that is unclear?
-    - 2b. Would you add, delete, or change anything about the content within the notification?
+    - 2b. Would you add, delete, or change anything about the content within the notification? There is a lot of verbiage  in here, but I understand why they have to do it. This would be okay. 
     - 2c. How much time do you estimate it will take you to complete this questionnaire?
   
-3. If you received this notification via email (or text), would you trust that it was sent from the VA? Why or why not?
-- 3a. What would you add, delete, or change about the content to make you feel more confident 	that this notification came from the VA?
+3. If you received this notification via email (or text), would you trust that it was sent from the VA? Why or why not? Because it’s https: so it is secure and it’s got dot.VA.gov so to me it’s legit.
+- 3a. What would you add, delete, or change about the content to make you feel more confident that this notification came from the VA?
   
 4. On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult is it to read or understand this notification?
-
+It’s a 1.
 - Moderator: move to Task 2.
 
 ## Task 2: Prototype Welcome screen-5 minutes
@@ -198,22 +199,24 @@ If participant recalls the questions, then ask:
     - Which questionnaire branching logic does the Veteran follow? Note if the clinical reminders end in a positive or negative result. Write down any comments shared without prompting from the moderator.
       
 2. Is there anything on here that is unclear.
-   
+   Very Clear! Very simple. 
 3. Is it clear or unclear as to why the VA is asking you toxic exposure questions and Why?
-   
+   It’s clear. In bold letters on the top it says TOXIC EXPOSURE SCREENE. Very clear, someone would have to be drinking all night to not understand that. 
 4. In the second paragraph, the sentence, ‘This screening is optional, what do you think of the content?
    
 5. Without clicking on anything, in the question Do you want to continue with this toxic exposure screening, can you to tell me what the word “screening’ means to you?
+Yeah, Screening means to understand whether or not someone was exposed to something that could cause them to be sick. 
     - 5a. Is there anything about the question that is unclear.
       
 6. You can go ahead and scroll down to the section that says “Note:The PACT Act law...”.
     - 6a. Can you tell me what this content means to you.
       
 7. Can you tell me your thoughts about the “View Privacy Act Statement”?
+I typically don’t read them. 
 8.  On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions?
-
+1
 9. Okay you may answer the question and please move on from this page.
-
+For my case it is no because I’ve already gone through this, I’ve filed claims for this. 
 - Moderator: move to Task 4.
 
 ## Task 4: Screen 2-Exposure to toxins or hazards while serving - 3 minutes

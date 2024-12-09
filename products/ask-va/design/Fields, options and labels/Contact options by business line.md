@@ -1,6 +1,6 @@
 # Contact options by business line
 
-Last updated by @tygindraux: September 26, 2024
+Last updated by @tygindraux: November 8, 2024
 
 Jump to:
 - [How this pattern works](#how-this-patterns-works)
@@ -26,7 +26,7 @@ For a complete list, jump to [contact rules by topic](#contact-rules-by-topic).
 |`Burials and memorials`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Center for Minority Veterans`|Email, phone and US Mail are always `ENABLED`|
 |`Center for Women Veterans`|Email and US mail are always `ENABLED`, phone is always `DISABLED`|
-|`Debt for benefit overpayments and health care copay bills`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
+|`Debt for benefit overpayments and health care copay bills`|Email, phone and US Mail are always `ENABLED`|
 |`Decision reviews and appeals`|Email, phone and US Mail are always `ENABLED`|
 |`Defense Enrollment Eligibility Reporting System (DEERS)`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
 |`Disability compensation`|Email, phone and US Mail are always `ENABLED`|
@@ -61,7 +61,7 @@ Subtopics are not listed here, because they follow the same contact rules as the
 |`Burials and memorials`|Other|✅|✅|✖️|
 |`Center for Minority Veterans`|Programs and policies|✅|✅|✅|
 |`Center for Women Veterans`|General question|✅|✖️|✖️|
-|`Center for Women Veterans`|Programs and policies|✅|✖️|✅|
+|`Center for Women Veterans`|Programs and policies|✅|✖️|✖️|
 |`Debt for benefit overpayments and health care copay bills`|Education benefit overpayments (for school officials)|✅|✅|✅|
 |`Debt for benefit overpayments and health care copay bills`|Burial benefit overpayments|✅|✅|✅|
 |`Debt for benefit overpayments and health care copay bills`|Disability compensation overpayments|✅|✅|✅|

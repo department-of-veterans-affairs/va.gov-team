@@ -1,5 +1,4 @@
 # CAIA: Accessibility
-[Access an A11Y](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/README.md#how-to-contact-us)
 
 ## Our goal
 Our goal is to empower teams to deliver the most accessible products possible for Veterans. We do this by providing teams with insights, training, and support as accessibility subject matter experts.
@@ -24,7 +23,7 @@ What follows is a menu of the services we offer.
 > No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels. [View additional ways to reach out for support.](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/README.md#how-to-contact-us)
 
 ### Research support
-[CAIA accessibility specialists can help with your user research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&projects=&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name). We can assist as you plan your research sessions, ensuring that they are equitable and account for important accessibility factors. [We recommend a pilot session with a CAIA accessibility specialist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md) before running your research sessions, to mitigate any potential accessibility-related issues. When it comes time to run research sessions, we can also provide limited technical support for research participants who use screen readers. We can also observe your assistive technology sessions through an accessibility-focused lens, documenting accessibility-related issues the user encounters. 
+[CAIA accessibility specialists can help with your user research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=caia-a11y-research.yaml). We can assist as you plan your research sessions, ensuring that they are equitable and account for important accessibility factors. [We recommend a pilot session with a CAIA accessibility specialist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md) before running your research sessions, to mitigate any potential accessibility-related issues. When it comes time to run research sessions, we can also provide limited technical support for research participants who use screen readers. We can also observe your assistive technology sessions through an accessibility-focused lens, documenting accessibility-related issues the user encounters. 
 > [!CAUTION]
 > Note that we cannot provide extensive, on call, technical support during research sessions - if you are worried about technical issues, we recommend running a pilot session or two with CAIA specialists so that we can discuss ways to best support your needs.
 
@@ -66,4 +65,4 @@ Reach out to CAIA accessibility specialists through our [#sitewide-content-acces
 To start formally working with CAIA accessibility specialists, submit a [Sitewide Content, Accessibility, and IA intake form ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2CNaomiPMC&labels=sitewide+CAIA&projects=&template=sitewide-CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E) in GitHub.
 
 ### Attend CAIA office hours
-You can also reach us by attending our weekly office hours on Tuesdays at 4 PM Eastern on [Zoom](https://coformaco.zoom.us/j/83992174780?pwd=Tk1jZ0o3MWxLcHFMWTM1S3ZrcytqUT09).
+You can also reach us by attending our weekly office hours on Tuesdays at 4 PM Eastern on Zoom. Sign up for a time slot on our [office hours Slack canvas](https://dsva.slack.com/docs/T03FECE8V/F06JTSH7CHZ).

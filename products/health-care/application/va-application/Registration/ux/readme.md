@@ -14,6 +14,8 @@ The problem is to add this option to the online EZ in a way that is not confusin
 
 ## Recent Work
 
+- [Mural board for reseach next steps](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1731600312853/b3f7b42171fc661e8c0fbb2eabb4329bd5c21e12)
+
 - [Figma MVP Designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=3025-106249&t=JJdIOxH6I9H8BRka-0)
 
 
@@ -21,6 +23,8 @@ The problem is to add this option to the online EZ in a way that is not confusin
 ### MVP Design Decisions + Content Review
 | Date | Name of Decision | High-level descirption | Status |
 |------|-------------------------|-----------|---|
+|  December 2024 -    |     Next steps research planning                  | Determining research next steps: what we need to learn of how and where to place a registration path online including content testing. | [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1731600312853/b3f7b42171fc661e8c0fbb2eabb4329bd5c21e12) | 
+|  October - December 2024    |      MVP Experiment Running                  | Running experiment to determine if there is interest in this use case before exploring additional. | [Experiment Proposal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Registration/Reg%20Only%20experiment%20proposal.md) | 
 |  August 2024    |      Post-Demo Feedback                  | Decided to remove "I'm not sure" option, as it is not in alignment with radio button best practices without going to a different alert which is not a great experience. Will replace radio option with hint text. | [Github ticket]() | 
 |  July 26, 2024    |      Experiment Proosal                  | If it is determined that there is enough interest and traffic to indicate a need to provide the Registration Only pathway online within the first 30 days, we will run a research interview plan with Veterans to help us decide on how best to present the pathway in an easy-to-understand and transparent way within the EZ form. This new pathway will be an iteration and new Epic. | [Proposal link approved](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Registration/Reg%20Only%20experiment%20proposal.md) | 
 |  July 24, 2024    |      Simplify unauthenticatd mvp flow                   |      To reduce technical complexity and address content logic / one-thing-per page; updated user flow for unauthenticated users (leave disability rating question where it is today in flow)     | Internal team via DSU + Slack; PM/PO met 7/25. Decision to proceed with flow directions. | 

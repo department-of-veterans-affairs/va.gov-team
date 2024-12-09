@@ -1,4 +1,4 @@
-# DRAFT VA Health and Benefits Mobile App - Travel Pay Feature
+# VA Health and Benefits Mobile App - Travel Pay Feature
 
 ## Responsibilities and Ownership
 

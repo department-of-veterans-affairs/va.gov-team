@@ -41,24 +41,17 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
  </details>   
 
 ## Reporting Schedule
-_Success metrics from GA4 will be updated in this document at the end of each increment of the rollout, starting with 5%. Medallia data will reviewed at the midpoint (around 50%) and end (100%) of the 1.0 and 1.1 rollouts._
-_
-<details>
-  <summary>Click to expand provisional reporting schedule (not source of truth)
-  </summary>
+Success metrics from GA4 will be updated in this document at the end of each increment of the rollout, starting with 5%. 
 
-|**Rollout %**|**Dates of rollout (Based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000))**|GA4 reporting date | Medallia +Contact Center request
-|--|--|--|--|
-|5%| Aug 28 | Sept 3 [Validation of success metrics below](#526ez-success-metrics)| 
-|10%| Sept 5 - 15 | |
-|25% | Sept 16 - Sept 26 ||
-|50%|TBD| TBD |Request on Sept 20|
-|75%|TTBD| TBD|
-|100%|TBD| TBD| Request on TBD|
+Medallia and MyVA411 data will reviewed throughout the rollout at 1.0 25%, 1.0 100%, and 1.1 75%. 
 
-</details>
+For dates of the rollout, please see the [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000).
+
 
 ## Top Takeaways
+<details>
+  <summary>Click to expand UX Insights for 5-25% rollout of 1.0 </summary>    
+    
 _These takeaways for the 1.0 rollout 5-25% (or 8/28-9/20) will gather weave together insight across Contact Center (MyVA 411), Medallia, and GA4 to highlight trends in user experience of the new Toxic Exposure feature._    
 ### #1: Early success metrics indicate that half of Veterans are entering the Toxic Exposure flow--and that very few abandon.
 - TE Opt-in rate for 25% was 48%, a 10% increase over 5% canary. Furthermore, TE page abandonment was low, averaging just 1.3%
@@ -72,7 +65,7 @@ _These takeaways for the 1.0 rollout 5-25% (or 8/28-9/20) will gather weave toge
 
 ### #3. Veterans call the Contact Center with a high volume of questions about the PACT Act.
 - The [volume of the Contact Center data--over 1700 entries--](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#contact-center-myva-411-data) gave us stronger sense of some of the trends we were already seeing in the much smaller Medallia data set.
- - We are embarking on discovery to learn how to best quickly and efficiently process Contact Center data in the future-- there is no thematic coding available for this data set. [Review here on Sharepoint.](https://dvagov-my.sharepoint.com/:x:/g/personal/evelyn_davis3_va_gov/Eati06vqxD9MhBnbZgQ3g_gB38EQDDopf0zLkYXlEUOuNA?e=cQQTqc)
+- We are embarking on discovery to learn how to best quickly and efficiently process Contact Center data in the future-- there is no thematic coding available for this data set. [Review here on Sharepoint.](https://dvagov-my.sharepoint.com/:x:/g/personal/evelyn_davis3_va_gov/Eati06vqxD9MhBnbZgQ3g_gB38EQDDopf0zLkYXlEUOuNA?e=cQQTqc)
 > "Veteran calling in about a text he received about Vietnam Veterans being eligible for Compensation and wants to know more about it." **- Contact Center Employee**
 
 ### #4. There is a strong demand for clear guidance on where to file for the PACT Act.
@@ -87,44 +80,53 @@ Once Veterans understand the Pact Act and think they might be eligible, they are
 We still see the in progress form as a potential hotspot for problems with veterans who fill in all of the data for toxic exposure, but then find that they don't know how to recover their work. 
 > "I'm trying to finish my PACT ACT application. The system is not bringing me back to where I was in the process and it appears to be starting a new claim." -**Medallia Feedback from Veteran on RNG page**
 >
-
-
-<details>
-  <summary>Click to expand 1.0 100% Takeaways [Future reporting]
-  </summary>
-
-    We are shifting our monitoring cadence so we do not review Medallia or My VA411 until 100% of 1.0 to ensure we have more data points
 </details>
 
+## UX Insights for 1.0 100% 
+
+### #1. Even at 100%, we are receiving minimal direct feedback about the toxic exposure questions from the Medallia surveys. 
+- In the first week at 100% (10/21-27), only 4 out of 90 responses originated from Toxic Exposure urls (Herbicide and Additional Exposure pages). 
+- Veterans left low to neutral satisfaction ratings on the pages, but we do not have open test responses to explain the numbers. We are meeting with the Contact Center next week to ensure that we are not missing data from the time period.
+
+### #2. The MyVA411 data from the same period did not report any problems with the toxic exposure questions.
+- In the first week at 100% (10/21-27), **none** of 325 MyVA411 calls logged with a "Disability Claim Application" case type focused on issues with the new feature. 10 calls were tagged as the PACT Act, but all were general requests for where to file and how to upload documents.
+
+### #3. We suspect that this silence in the Medallia and MyVA411 data demonstrates that Veterans are not experiencing major blockers in the toxic exposure flow. 
+- Veterans typically leave Medallia feedback or call MyVA411 when they are dealing with large blockers that prevent them from completing the form (examples include document uploads or BIRLS ID error).
+- We also know from GA4 that very few Veterans are leaving toxic exposure mid-flow after opting in, further supporting our hypothesis that Veterans are not getting stuck and requiring help mid flow. 
+
+### #4.  We expect to learn more about the user experience and non-blocking issues with the flow in upcoming usability testing. 
+- Based on toxic exposure usability testing in 2023, we presume that Veterans are facing non-blocking challenges to the feature.  We have started to plan for our upcoming Veteran research to evaluate the new feature, which we will run in early December.
+
+
 ## 526ez Success Metrics
-| Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
-|--|--|--|--|--|--|--|--|--|--|
-| Abandonment rates| 33.61% | 33.61% | 0% | 1.8% | | | |  |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q)|
-| TE Opt-in rate* | - | - | 38% | 48% | | | | |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q)<br>[Datadog](https://vagov.ddog-gov.com/logs?query=env:%22eks-prod%22%20@http.referer:*21%5C-526ez%5C/toxic%5C-exposure*%20&agg_m=@payload.user_uuid&agg_m_source=base&agg_q=@http.referer&agg_q_source=base&agg_t=cardinality&analyticsOptions=%5B%22bars%22,%22dog_classic%22,null,null,%22value%22%5D&cols=host,service&fromUser=true&messageDisplay=inline&storage=hot&stream_sort=desc&top_n=10&top_o=top&viz=timeseries&x_missing=true&from_ts=1723791600000&to_ts=1723877940000&live=false)|
-| Submission errors | 0.96% | ≤0.96% | 0.28% | 0.48% | | | | | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
-| % of submissions that use normal path| 99.04% | ≤99.04%  | 99.72% | 99.51% | | | | | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
-| % of uses of backup path | 0.94% | ≤0.94% | 0.04% | 10% | | | | | Weekly error tracker sheet |
-| % of complete failure | 0.0001% | ≤0.0001% | 0% | 0% | | | | | Weekly error tracker sheet |
+| Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%| 75% |100%| 1.1 100% | Data Source |
+|--|--|--|--|--|--|--|--|--|--|--|
+| TE Abandonment rates| - | - | 0% | 1.8% |1.7% |2.7% |n/a |2.58%| 1.35%|GA TE Abandonment By Section|
+| TE Opt-in rate* | - | - | 38% | 48% |46.1% | 44.8% | n/a |45.81% | 45.41% |TE Opt-in rate|
+| % of submissions that use normal path| 99.04% | ≤99.04%  | 94.34% | 88.9% | 97.7% |99.57%| n/a | 98.7% | TBD | database queries |
+| % of uses of backup path | 0.94% | ≤0.94% | 5.66% | 11.07% | 2.03% | 0.42% | n/a | 1.16% | TBD | database queries |
+| % of complete failure | 0.0001% | ≤0.0001% | 0% | 0% | .27% | 0% | n/a | .001% | TBD | database queries |
 
 *For Veterans who saw the 2022 form version.
 
-### Toxic Exposure Abandonment 
+### Toxic Exposure Abandonment By Section
  
-| Step # | TE Page| 5% | 10%| 25%| 50%|75% |100%| Data Source |
-|--|--|--|--|--|--|--|--|--|
-|Step 2| Gulf War 1990 | 0%| 3.6%  | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
-|Step 3| Gulf War 2001 |0% | 0.29% |  | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
-|Step 4| Herbicide | 0% | 1.4% | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
-|Step 5| Additional Exposures | 0%| 0.73% | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
-|Step 5| Additional Disabilities | 0%| 0.63% | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
+| Step # | TE Page| 5% | 10%| 25%| 50%|75% |100%| 1.1 100% | Data Source |
+|--|--|--|--|--|--|--|--|--|--|
+|Step 1| Gulf War 1990 | 0%| 3.6%  | 3.3%| 3.3% |n/a| 3.08% | 3.37% | GA TE Abandonment By Section|
+|Step 2| Gulf War 2001 |0% | 0.29% | 0.2% | 0.34% |n/a | 0.17% | 0.19% | GA TE Abandonment By Section|
+|Step 3| Herbicide | 0% | 1.4% | 0.6%| 0.68% |n/a | 0.81% | 0.93% |GA TE Abandonment By Section|
+|Step 4| Additional Exposures | 0%| 0.73% | 0.4%| 0.8% |n/a | 0.82% | 0.78% | GA TE Abandonment By Section|
+|Step 5| Additional Disabilities | 0%| 0.63% |0.4%| 0.12% |n/a | 0.26% | 1.52% | GA TE Abandonment By Section|
 
 ### Overall Form Abandonment
 **Alternative approaches we're considering:** Removing all steps that are not seen by all Veterans (such as claim type) or exploring other non-funnel models for understanding the data. 
 
-| Step # | 526 Page | Baseline | 5% | 10% | 25% | 50% | 75% | 100% |Data Source |
-|--|--|--|--|--|--|--|--|--|--|
-|Step 1| Introduction | 46.73% | 46.73% | 44.24% | | | | |  [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
-|Step 7| Confirmation | - | - |  | | |  | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
+| Step # | 526 Page | Baseline | 5% | 10% | 25% | 50% | 75% | 100% 1.1 100% | Data Source |
+|--|--|--|--|--|--|--|--|--|--|--|
+|Step 1| Introduction | 41.83% | 46.73% | 44.24% | 41.6%| 44.01% | n/a | 44.27% | 46% | GA 526 Overall Form Abandonment |
+|Step 7| Confirmation | - | - |  | | |  | | GA 526 Overall Form Abandonment|
 
 
 ### Success Metric Validation
@@ -154,62 +156,55 @@ We still see the in progress form as a potential hotspot for problems with veter
 
 
 ## Medallia Data 
-Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
-<details>
-  <summary> Click to see tables highlighting trends below. </summary>
+Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [See full report here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/Toxic%20Exposure%20Pre-Launch%20Review%20of%20Medallia%20Data.md))
 
 All Medalia survey data is reported as a % of 4+5 answers.
+
 ### Success Metrics
-|**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 25% (8/28-9/20)** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
-|--|--|--|--|--|--|--|
-|**Total Intercept Responses**| **282** |**86** |**22**|
-|CSAT-Intercept| 36.2%|41.9% | 68% | |
-|Trust Overall|41% |52% |61%|
-|**Total Feedback Responses**|**2,289**|**455**|**225**|
-|Feedback satisfaction|21.6%| 34.2%|
-|Task completion| 23% | 44.5% |36%| |
-
-
-### Toxic Exposure feature
-|**Data point**|**1.0 - 25% (8/28-9/20)** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
-|--|--|--|--|--|
-|**CSAT-Intercept**| N/A | | | |
-|**Feedback satisfaction**|N/A||
-|**Task completion**|N/A | | | |
-|**Trust Overall**|N/A | | | |
+|**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 25% (8/28-9/20)** |**1.0 100% (10/21-27)** | **1.1 75%**|
+|--|--|--|--|--|--|
+|**Total Intercept Responses**| **282** |**86** |**22**|**17**|
+|CSAT-Intercept| 36.2%|41.9% | 68% |33%|
+|Trust Overall|41% |52% |61%|29%|
+|**Total Feedback Responses**|**2,289**|**455**|**225**|**73**|
+|Feedback satisfaction|21.6%| 34.2%| 26% |35%|
+|Task completion| 23% | 44.5% |36%| 42%|
 
 
 ### Thematic Tags 
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
 
-|Rank|Pre-launch (6 weeks)|**1.0 - 25% (8/28-9/20)** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
-|--|--|--|--|--|--|
+|Rank|Pre-launch (6 weeks)|**1.0 - 25% (8/28-9/20)** |**1.0 - 100%** [no tagging] | **1.1 - 75%**|
+|--|--|--|--|--|
 |Total responses| 462| 207|
-|1|Usability (n=33)|Submission Issues (9)|--|||
-|2|Navigation (n=33)|Evidence Upload (7) |
-|3|PACT (n=26)|  PACT (7)|--|
-|4|Error (n=26)|In Progress Form Issues (6)| --|
-|5|Getting help (n=23)|BIRLS error (4)|
-</details>
+|1|Usability (n=33)|Submission Issues (9)|N/A|||
+|2|Navigation (n=33)|Evidence Upload (7) |N/A|
+|3|PACT (n=26)|  PACT (7)|N/A|
+|4|Error (n=26)|In Progress Form Issues (6)|N/A||
+|5|Getting help (n=23)|BIRLS error (4)|N/A|
+
 
 ## Contact Center MyVA 411 Data
 Data from the MyVA411 information line (800-698-2411) is logged in Salesforce by call center agents, then requested by researchers to review. 
 <details>
   <summary> Click to see tables highlighting trends below. </summary>
-    
-|Case type| Case Category| **1.0 - 25% (8/28-9/20)** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
-|--|--|--|--|--|--|
-|**PACT Act**|Directory Assistance| 1358|
-|**PACT Act**| General Information | 365|
-|**Disability Claim Application**| Application submission issue| 10
-| **PACT Act (Concern)**|Concern VBA | 7
-|**Disability Claim Application**| Navigation Issues | 4
-|**Disability Claim Application**| Upload/Download documents | 3|
-|**Disability Claim Application**| Intent to File Issue| 3
+
+**Note:** Because we changed our approach to requesting MyVA411 data for 100%, this table does not provide useful insight into trends over time during the rollout. 
+|Case type| Case Category| **1.0 - 25% (8/28-9/20)** |**1.0 - 100% (10/21-27)**|**1.1 - 75%**|
+|--|--|--|--|--|
+|**PACT Act**|Directory Assistance| 1358| Not requested |
+|**PACT Act**| General Information | 365| Not requested |
+|**Disability Claim Application**| Application submission issue| 10 | 121 |
+| **PACT Act (Concern)**| Concern VBA | 7 | Not requested |
+|**Disability Claim Application**| Navigation Issues | 4 | 42 |
+|**Disability Claim Application**| Upload/Download documents | 3| 109 |
+|**Disability Claim Application**| Intent to File Issue| 3 | 17 |
 
 </details>
 
-## Appendix     
+## Appendix  
+
+[Sharepoint folder with Medallia and Contact Cetner analysis]([url](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience%2FResearch%20and%20Design%2FToxic%20Exposure%20Release%20Monitoring&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72))
 
 ### Codebook
 <details>

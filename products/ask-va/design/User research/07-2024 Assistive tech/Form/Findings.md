@@ -199,9 +199,9 @@ Also, the edit alert sometimes announces itself over and over.
 - Add content to the confirmation page that explains signing back in if you're authenticated
 - Add general time estimate before you start a new question
 - Investigate error messages triggering early with keyboard navigation
-- Make the progress bar less specific and/or jump less at a time
 
 In the future:
+- Make the progress bar less specific and/or jump less at a time
 - Plan discovery to better understand how Ask VA fits in with other VA tools
 - Limit number of categories and topics allowed, add word counts and descriptions
 - Plan card sorting and/or tree test exercise to re-design category and topic lists

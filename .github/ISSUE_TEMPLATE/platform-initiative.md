@@ -6,6 +6,11 @@ labels: platform-initiative
 assignees: ''
 
 ---
+## Status
+_Update each sprint until completed_
+| Date | Status | Launch Date (see above) | Notes |
+| ----- | ------ | ------------------------- | ------ |
+| Date of update | not-started, in-progress, done | on-track, off-track | enter brief, blockers, dependencies, etc. |
 
 ## Problem Statement 
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*

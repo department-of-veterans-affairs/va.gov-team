@@ -4,7 +4,7 @@ about: Submit a request to change a URL and/or implement a redirect for a URL. A
   for vanity URL requests.
 title: Redirect Request
 labels: sitewide CAIA, Sitewide IA, VA.gov frontend, Redirect request, sitewide
-assignees: kristinoletmuskat, strelichl
+assignees: kristinoletmuskat, aprocik1
 
 ---
 
@@ -60,5 +60,6 @@ requested URL | landing page URL
 - [ ] IA: Request is vetted and documented and implementation plan is clear 
 - [ ] IA: Request is assigned to appropriate team for implementation 
 - [ ] Implementation team: Work is complete
+- [ ] PR has received approval from redirect-approval group
 - [ ] Implementation team: Validated in production
 - [ ] Requesting team: Validates everything is correct in production and closes ticket

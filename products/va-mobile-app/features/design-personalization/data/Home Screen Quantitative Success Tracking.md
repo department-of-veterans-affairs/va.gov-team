@@ -17,19 +17,19 @@ This page contains quantitative data intended to measure whether the home screen
 
 | Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
 | -------- | -------- | ---------- | -----------------| -----------------| 
-|Unread message read rate|76.71%|81.45%| 79.92% ||
-|Claims view rate|65.90%|70.45%|65.86%||
-|Prescription refill rate|15.49%|28.21%|23.98%||
-|Appointment Page View Rate|36.18%|39.11%|38.30%|
+|Unread message read rate|76.71%|81.45%| 79.92% |80.37%|
+|Claims view rate|65.90%|70.45%|65.86%|63.44%|
+|Prescription refill rate|15.49%|28.21%|23.98%|25.10%|
+|Appointment Page View Rate|36.18%|39.11%|38.30%|35.39%|
 
 **Performance** 
 | Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
 | -------- | -------- | ---------- | -----------------| -----------------| 
-|Home screen load speed|6.78 Secs|4.66 Secs - 99.9% was within 1 STD of the median load time|4.296 Sec - (99.9%) was within 1 STD of the median load time||
-|Appointments Load Time|3.79 Sec|4.21 Sec|3.99 Sec||
-|Claims Load Time|2.99 Sec|2.95 Sec|2.58 Sec||
-|Prescriptions Load Time|3.08 Sec|3.21 Sec|3.22 Sec||
-|Secure Messages Load Time |2.03 Sec|2.31 Sec|2.32 Sec||
+|Home screen load speed|6.78 Secs|4.66 Secs - 99.9% was within 1 STD of the median load time|4.296 Sec - (99.9%) was within 1 STD of the median load time| 4.655 Sec - (99.9%) was within 1 STD of the median load time |
+|Appointments Load Time|3.79 Sec|4.21 Sec|3.99 Sec| 4.431 Sec|
+|Claims Load Time|2.99 Sec|2.95 Sec|2.58 Sec| 2.732 Sec|
+|Prescriptions Load Time|3.08 Sec|3.21 Sec|3.22 Sec| 3.564 Sec|
+|Secure Messages Load Time |2.03 Sec|2.31 Sec|2.32 Sec| 2.584 Sec|
 
 Baseline was from 03/01/24 - 07/31/24. Note that during this timeframe, the API calls that the home screen leverages were being called on the home screen. It is unclear why there has been a decrease throughout the year and after release.
 

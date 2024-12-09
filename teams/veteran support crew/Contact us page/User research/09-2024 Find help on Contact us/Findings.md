@@ -1,9 +1,9 @@
 # Reseach findings for "Find help on Contact us" study
-- Study dates: August 30 to October # 2024
+- Study dates: August 30 to October 22 2024
 - Study conducted by: Becky Phung, becky.phung@va.gov
 - Goverment team: Department of Veterans Affairs > Office of the Chief Technology Officer > Digital Experience Portfolio > **Veteran Support Crew & Content, Information Architecture, and Editor Experiences Crew** 
 
-[View our Research readout in this slide deck pdf](link here)
+[View our Research readout in this slide deck pdf](🟡 add link)
 
 **Jump to:**
 - [Veteran journey](#veteran-journey)
@@ -56,38 +56,40 @@ We asked users to consider how they would use Contact us to find answers or cust
 -	Increasing disability compensation for an existing condition
 
 ## Hypotheses and Conclusions
-|Hypothesis|Conclusion|Explanation|
-|:--|:--|:--|
-|Most of the time, people will be able to find general answers to questions online.|Likely false|Most participants couldn't find answers to in each scenario.|
-|It will be more difficult for people to find personalized answers online.|Not enough information|Many people expected to sign in to find answers in each scenario. We didn't test the authenticated experience of searching for answers on VA.gov|
-|People will primarily use the headings to navigate to each section to find answers or contact information.|Definitely true|Almost all of the participants primarily read the headings aloud when scanning pages. They usually skipped over descriptions.|
-|People will prefer different contact channels in different contexts.|Mostly true|Most participants chose different contact channels for each scenario. However, some participants also expressed strong preferences for specific channels regardless of context, like VA secure messaging or talking to a live person.|
-|People will choose more direct phone numbers rather than general lines to avoid being transferred.|Definitely true|If they chose to call, most participants chose a specific number rather than the MyVA411 main information line. Some even expressed distrust of national phone support numbers in general.|
-|People won’t be highly confident they’re choosing the right phone number with current phone number details.|Likely False|Most participants were able to choose a phone number with current details available. However, some still expected to be transferred after calling. And some were uncertain about the differences between certain numbers, like the VA benefits hotline compared to the VA health benefits hotline.|
-|People primarily use Contact us to look for ways to contact VA (like phone numbers).|Not enough information|We only briefly asked about people's previous experiences contacting VA. Some participants mentioned the Contact us page and some didn't.|
-|People don’t expect to find answers to questions from Contact us.|Not enough information|While some participants ended up navigating to other pages from Contact us, we don't know if they expected this experience starting from the Contact us page. Some weren't surprised at seeing the FAQs section though.|
+|Hypothesis|Conclusion|Explanation|Scope
+|:--|:--|:--|:--|
+|Most of the time, people will be able to find general answers to questions online.|Likely false|Most participants couldn't find answers to in each scenario.|7/10 doesn't support hypothesis|
+|It will be more difficult for people to find personalized answers online.|Not enough information|Many people expected to sign in to find answers in each scenario. We didn't test the authenticated experience of searching for answers on VA.gov|6/10 neither support nor disprove|
+|People will primarily use the headings to navigate to each section to find answers or contact information.|Definitely true|Almost all of the participants primarily read the headings aloud when scanning pages. They usually skipped over descriptions.|8/10 supports hypothesis|
+|People will prefer different contact channels in different contexts.|Mostly true|Most participants chose different contact channels for each scenario. However, some participants also expressed strong preferences for specific channels regardless of context, like VA secure messaging or talking to a live person.|6/10 supports hypothesis|
+|People will choose more direct phone numbers rather than general lines to avoid being transferred.|Definitely true|If they chose to call, most participants chose a specific number rather than the MyVA411 main information line. Some even expressed distrust of national phone support numbers in general.|8/10 supports hypothesis|
+|People won’t be highly confident they’re choosing the right phone number with current phone number details.|Likely False|Most participants were able to choose a phone number with current details available. However, some still expected to be transferred after calling. And some were uncertain about the differences between certain numbers, like the VA benefits hotline compared to the VA health benefits hotline.|6/10 doesn't support hypothesis|
+|People primarily use Contact us to look for ways to contact VA (like phone numbers).|Not enough information|We only briefly asked about people's previous experiences contacting VA. Some participants mentioned the Contact us page and some didn't.|7/10 neither support nor disprove|
+|People don’t expect to find answers to questions from Contact us.|Not enough information|While some participants ended up navigating to other pages from Contact us, we don't know if they expected this experience starting from the Contact us page. Some weren't surprised at seeing the FAQs section though.|5/10 neither support nor disprove|
 
 ## Key Findings
 ### Behavior and expectations
-1. People scan for words related to their issue to find help and/or contact info.
-2. People expected the jump links to direct them to another page.
-3. People weren't sure about the purpose of "Helpful online tools."
-4. Some people related "Contact us online through Ask VA" to chat support.
-5. Some people misinterpreted "Resources and support" but understood "FAQs."
-6. Some people weren't sure how "VA benefits hotline" and "VA health benefits hotline" are different.
+1. (7 out of 10 people) People scan for words related to their issue to find help and/or contact info.
+2. (4 out of 10 people) People expected the jump links to direct them to another page.
+3. (3 out of 10 people) People weren't sure about the purpose of "Helpful online tools."
+4. (4 out of 10 people) People related "Contact us online through Ask VA" to chat support.
+5. (4 out of 10 people) People misinterpreted "Resources and support" but understood "FAQs."
+6. (2 out of 10 people) People weren't sure how "VA benefits hotline" and "VA health benefits hotline" are different.
    
 ### Preferences
-7. People prefer more direct phone numbers.
-8. People prefer using search, but searches aren't always successful on VA.gov.
-9. People prefer talking to real people and online messaging (chat or email).
+7. (5 out of 10 people) People prefer more direct phone numbers.
+8. (4 out of 10 people) People prefer using search, but searches aren't always successful on VA.gov.
+9. (8 out of 10 people) People prefer talking to real people and online messaging (chat or email).
 
 ## Details of Findings 
 Labels that apply to all findings: `AUD: Veterans`, `PRDT: Contact us`, `RESRCH: Remote`, `RESRCH: Usability Testing`, `VAT: Office Chief Technology Officer (OCTO)`
 
-Labels below each finding are apply only to the finding.
+Labels below each finding apply only to the finding.
 
 ### Behavior and expectations
 #### People scan for words related to their issue to find help and/or contact info.
+Scope: 7 out of 10 people
+
 Labels: `TREND: Content`, `TREND: Browsing`
 
 In each scenario, people would scan the Contact us page for related keywords, such as "website access" and "request more compensation." 
@@ -105,6 +107,8 @@ For the claims scenario, many people gravitated towards the "Check your VA claim
 >  I could do this, the claim or appeal... they could check the status of my disability. And also, they could probably update my my disability or give me information if I can apply for greater disability or greater payment.
 
 #### People expected the jump links to direct them to another page.
+Scope: 4 out of 10 people
+
 Labels: `DSC: On this page jump link`
 
 After selecting the links, some people would continue scrolling and miss the content of the original link they selected. Not everyone recognized when this happened.
@@ -120,6 +124,8 @@ When there are a lot of options on one page, it can be hard to focus and pause o
 > I guess there's too many options. It needs to be more, here's your main thing to do to get to where you need to be.
 
 #### People weren't sure about the purpose of "Helpful online tools."
+Scope: 3 out of 10 people
+
 Labels: `DSC: Link - Collection`, `TREND: Content`
 
 People didn't understand how the "Helpful online tools" section would help them find contact information or help. Two participants said the section was "unrelated" and "repetitive."
@@ -132,7 +138,9 @@ Some people just overlooked the "Helpful online tools" label and skipped to the 
 
 > When you get a hyperlink like this where it says, "Change your address," or anything like that, you click on that, and it'll take you right to the page that you need to go to the either change the address or change the direct deposit or you need to change your VA claim or anything.
 
-#### Some people related "Contact us online through Ask VA" to chat support.
+#### People related "Contact us online through Ask VA" to chat support.
+Scope: 4 out of 10 people
+
 Labels: `TREND: Content`
 
 While some people interpreted "Contact us online through Ask VA" correctly, some did not. Ask VA is a contact form. Some people thought it was related to chat. They focused on the label and less on the descriptive text below it. 
@@ -145,7 +153,9 @@ While some people interpreted "Contact us online through Ask VA" correctly, some
 
 > Now it looks like I may be able to get kind of a chat going. That's what I would think so. Because if it's online, it has to be some kind of chat, am I correct?... Oh, it doesn't say question and answer. I just put that in myself.  
 
-### Some people misinterpreted "Resources and support" but understood "FAQs."
+### People misinterpreted "Resources and support" but understood "FAQs."
+Scope: 4 out of 10 people
+
 Labels: `TREND: Content`
 
 "Resources and support" is a separate area on VA.gov. It provides more specific support-related content that doesn't fit under benefits hub pages. People interpreted the words "resources" and "support" differently.
@@ -160,7 +170,9 @@ They understood what FAQs were.
 
 > Frequently asked questions popped in my head as something I should look at to see if it's something that could be of assistance.
 
-### Some people weren't sure how "VA benefits hotline" and "VA health benefits hotline" are different.
+### People weren't sure how "VA benefits hotline" and "VA health benefits hotline" are different.
+Scope: 2 out of 10 people
+
 Labels: `TREND: Content`
 
 Some people understood there might be a difference, but they weren't sure what the difference between these numbers is.
@@ -171,6 +183,8 @@ Some people understood there might be a difference, but they weren't sure what t
 
 ### Preferences
 #### People prefer more direct phone numbers.
+Scope: 5 out of 10 people
+
 Labels: `DSC: Telephone`
 
 People overwhelmingly don't have high expectations for phone calls. They prefer more direct phone numbers to mitigate the risk of long hold times, generic answers, transfers, and unhelpful phone agents.
@@ -190,6 +204,8 @@ VA markets the MyVA411 number to [reduce the complexity of trying to find the ri
 > The further away from the locale you are in almost every institution, the more difficult. I mean, whether it's the Social Security office here in town versus calling a 800 number, 800 numbers are just not as successful for me, I would guess.
 
 ### People prefer using search, but searches aren't always successful on VA.gov.
+Scope: 4 out of 10 people
+
 Labels: `TREND: Search`, `PRDT: On-site-search`, `DSC: Search Input`
 
 People tried searching for answers on VA.gov either through the main search tool or the search on the "Resources and support" page. Most people weren't successful with finding an answer. 
@@ -205,6 +221,8 @@ People suggested a better search to improve the Contact us page and VA.gov.
 > So it's just a matter of a search bar that is not limited
 
 ### People prefer talking to real people and online messaging (chat or email).
+Scope: 8 out of 10 people
+
 Labels: `PRDT: Secure-messaging`, `MHV: Secure Messaging`, `PRDT: AVA`
 
 People like talking to real people and dislike automation, like phone trees and chatbots. Automation doesn't work as well (right now) as talking to a real person.
@@ -226,13 +244,13 @@ In general, people prefer online messaging because it's more convenient.
 > [Talking about Ask VA] If I put in a secure request, you know, that's going to take at least a day, depending on what day it is, which is super fast, you know, from my experience in the government, super fast and really like it.
 
 ## Additional Insights
-Please see additional findings in this separate GitHub doc.
+Please see additional findings in [this separate GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Additional%20findings.md).
 
 ## Recommendations
 ### Add descriptions to phone numbers
 - **Hypothesis**: If we add descriptions to better explain the purpose of each VA phone number, then users will read the descriptions and understand which phone number can help them the most.
 - **Risks**: We know people primarily read headings to scan. Some people don't read body text. The Contact us page will also become longer if we continue added content to it.
-- **Mitigating risks**: Consider the Contact us page as a multi-page experience.
+- **Mitigating risks**: Consider the Contact us page as a multi-page experience. Or hide content through accordions, additional info, or other components.
 - **Measuring impact**: Clicks on phone number links 
 
 ### Update "Contact us online through Ask VA" heading
@@ -242,10 +260,10 @@ Please see additional findings in this separate GitHub doc.
 - **Measuring impact**: Clicks on Ask VA link
 
 ### Add VA secure messaging
-- **Hypothesis**: If we add a link to VA secure messaging, then users will know where to send health-care related messages.
+- **Hypothesis**: If we add a link to VA secure messaging, then users will know where to send messages to their VA health care team.
 - **Risks**: The Contact us page will become longer if we continue added content to it. People may think they can ask questions that their care team can't answer. People may choose VA secure messaging rather than Ask VA when Ask VA is more appropriate. 
 - **Mitigating risks**: Consider the Contact us page as a multi-page experience. Clarify the distinction between Ask VA and VA secure messaging.
-- **Measuring impact**: Clicks to VA secure messaging.
+- **Measuring impact**: Clicks to VA secure messaging
 
 ### Update "Helpful online tools" heading
 - **Hypothesis**: If we update the heading to better explain what users can use helpful online tools for, then users will choose to access online tools more. 
@@ -266,9 +284,9 @@ Please see additional findings in this separate GitHub doc.
 - **Measuring impact**: Clicks to online tools
 
 ## Next Steps
-
-_Next steps here. Include owners if appropriate._
-
+- **Review recommednations**: On 10/31, Becky to review recommendations with Chante, Beth, and Danielle.
+- **Update Contact us page**: Beth and Danielle can help update content on Contact us.
+- **Further design exploration and research**: Becky can lead on further exploration and research.
 
 ## Further design exploration and research needed
 ### Reconsider order of Contact us page to be more topic-driven
@@ -295,85 +313,81 @@ I primarily used [this Mural](https://app.mural.co/t/departmentofveteransaffairs
 ## Pages and applications used
 - [Contact us page on VA.gov](https://www.va.gov/contact-us)
 
-## Other supporting documents created
-e.g. user flows, personas, etc.
-
 ## Secondary research
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+- Input from other teams and reviewed previous research [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719251794794/aa0db9f68c23d8d38f10e49f39cad9f67665c5f5?sender=u44efa807e992cacf10cf3697).
+- Medallia responses [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719593492763/c5c0e79c682911f1e45a9ae966a47a23f297d648).
+- Secure messaging comparative analysis, which includes related notes to Contact us experiences [in this SharePoint folder](https://dvagov.sharepoint.com/:f:/s/AccountExperienceCrew/Eu-ChaaPWPZPpmCo8v3sdLABskX2GvZLdoJQ9T_88A3l3A?e=1NUFo5).
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We talked to **10 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 10
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 6
+* Female: 4 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: 2
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 6
+* Tablet: 1 
+* Smart phone: 3
+* Assistive Technology: 0
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 0
+* 35-44: 0
+* 45-54: 3
+* 55-64: 4
+* 65+: 3
+* Unknown: 0
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 1
+* Some college (no degree): 2
+* Associate's degree, trade certificate or vocational training: 3
+* Bachelor's degree: 2
+* Master's degree: 2
+* Doctorate degree: 0
+* Unknown: 0
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 4
+* Rural: 6
+* Unknown: 0
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 5
+* Black: 2
+* Hispanic: 1
+* Biracial: 1
+* Asian: 0
+* Native: 0
+* Unknown: 1
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
+* Cognitive: 5
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 ## Underserved groups we haven’t talked to 
 This research does not include the perspectives of the following underserved Veteran groups:
@@ -383,7 +397,4 @@ This research does not include the perspectives of the following underserved Vet
 - Asian: Veterans who identify as an Asian ethnicity.
 - Native: Veterans who identify as a Native ethnicity. 
 
-
-_[insert screenshot of completed recruitment checker]_
-
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+![image](https://github.com/user-attachments/assets/d2b65c39-6348-41ee-ab9d-216af2cdee15)

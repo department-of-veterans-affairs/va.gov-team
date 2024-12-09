@@ -38,22 +38,70 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 \* See: [Treatment Specialty](../../../appointments-reference/data-reference/data-definitions.md#treatment-specialty)
 
 \*\* 03/18/2024 - We currently don't receive modality information for scheduled community care appointments, so we have to assume they could be telehealth or in-person. In the future we would like to show this information.
-  
+
+### Empty States and Alerts
+
+The following service endpoint is called to retrieve all appointments:
+
+- `http://localhost:3000/vaos/v2/appointments?_include=facilities,clinics&start=2024-05-16&end=2024-09-14&statuses[]=proposed&statuses[]=cancelled`
+
+**NOTE**: The `"_statuses[]=proposed_"` query parameter is used to return all appointment requests.
+
+The technical name of the field in the data call.
+
+Display Name | Technical Name
+--- | ---
+Preferred date and time |  `localStartTime`
+Type of care | `serviceTypes`
+Scheduling facility | `location.attributes.name`
+Preferred community care provider | `preferredProviderName, extension.ccTreatingSpecialty, extension.ccLocation.address`
+Language you'd prefer the provider speak | `preferredLanguage`
+Details you'd like to share with your provider | `patientComments`
+Your contact details | `contact.telecom.phone, contact.telecom.email, preferredTimesForPhoneCall`
+
+**NOTE:**
+This mapping might change since business logic is being migrated to the middle tier.
+
+
+**Data points to review for Community Care requests:**
+
+- Preferred dates and times
+This field is always populated since it is a required field when completing the appointment request workflow.
+    
+- Type of care
+This field is always populated since it is a required field when completing the appointment request workflow.      
+
+- Scheduling facility
+This field is always populated since it is a required field when completing the appointment request workflow.
+
+- Preferred community care provider
+The following information is display when provider information is missing:
+
+  - Provider name not available
+  - Treatment specialty not available
+  - Address not available
+
+- Language you'd prefer the provider speak
+This field is always populated since it is a required field when completing the appointment request workflow.
+
+- Details you'd like to share with your provider
+This information is optional. So, the following is displayed when the information is missing:
+
+  - Reason: Not available
+  - Other details: none
+
+- Your contact details
+This field is always populated since it is a required field when completing the appointment request workflow.      
+ 
+
 ## Specifications
 
-**User flows:**
-- [Upcoming](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2019-19997&t=lDUJykyhV8NRJ2zc-4)
-[Past](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=127-22836&t=lDUJykyhV8NRJ2zc-4)
+**User flows**
+- [Upcoming appointments](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-2925&t=kDXwMWn2YUhVmLLB-4)
+- [Past appointments](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-3497&t=kDXwMWn2YUhVmLLB-4)
 
-**UI design specs:**
-- [Upcoming](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-27418&mode=design&t=wI89URYZ1M74WWRP-4)
-- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-27430&mode=design&t=wI89URYZ1M74WWRP-4)
-- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-27442&mode=design&t=wI89URYZ1M74WWRP-4)
-
-**Page content:**
-- [Upcoming](../../content/appointment-details.md#cc-appointment---upcoming)
-- [Past](../../content/appointment-details.md#cc-appointment---past)
-- [Canceled](../../content/appointment-details.md#cc-appointment---canceled)
+**UI design specs**
+[Community care details pages](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-114180&t=gPsyz7IrtgxZbZss-4)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
@@ -69,19 +117,6 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 
 [All events VAOS tracks](Link TBD)
 
-## Alerts and conditional states
-<!-- Any alerts that could display for this feature and what triggers them. -->
-
-### [Alert description]
-<!-- Add a new section for each alert -->
-
-**Alert trigger**
-[Description of what causes this alert to display]
-
-**Alert UI**
-- [User flow](Add link)
-- [State template](Add link)
-- [State content](Add link)
 
 ## Technical design
 <!-- Endpoints and sample responses -->

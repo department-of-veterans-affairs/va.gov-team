@@ -41,21 +41,83 @@ A scheduled telehealth appointment at a VA facility that the Veteran attends at 
 Notes:
 1: 02/23/2024 - Requirement not yet met
 
+## Empty states and alerts
+
+From ticket #[69847](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69847)
+
+### Endpoints that are being called to retrieve data:
+
+- From appointment list: `/vaos/v2/appointments?_include=facilities,clinics&start={today-120}&end={today+1}&statuses[]=proposed&statuses[]=cancelled` and `/vaos/v2/appointments?_include=facilities,clinics&start={today-30}&end={today+395}&statuses[]=booked&statuses[]=arrived&statuses[]=fulfilled&statuses[]=cancelled`
+- From appointment details page: `/vaos/v2/appointments/${id}?_include=facilities,clinics,avs`
+
+### Technical name of the field in the data call.
+Display Name | Source Field Name | Null State
+--- | --- | ---
+Appointment date and time |  `appt.localStartTime`  |   start time is alway populated
+Type of care |    `appt.serviceType`  |   if null, do not display anything
+Modality | `appt.kind` = `telehealth` indicates video appt  `appt.telehealth.vvskind` = `CLINIC_BASED` indicates appt at a VA location. [Also see BE logic for appointment types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/feature-reference/backend-logic.md#appointment-types) | `kind` is always populated
+Provider name |  `appt.practitioners[0].name.given, family`  |  if null, do not display anything
+Facility name | `appt.location.attributes.name`  or  `facilityData[locationId].name`  |    if null, display “Facility details not available” and a link to "Find facility information" 
+Facility address  |  `appt.location.attributes.physicalAddress` or  `facilityData[locationId].address`  |    if null, display “Facility details not available” and a link to "Find facility information" 
+Clinic Name | `appt.extension.friendlyName` or `appt.extension.serviceName`  |  if null, display "Not Available"
+Clinic Location | `appt.physicalLocation` |   if null, display "Not Available"
+Facility phone number | `appt.extension.clinic.phoneNumber` or `appt.location.attributes.phone.main` or `facilityData[locationId].telecom[0]value`  |  The priority order is (1) Clinic phone with extension then (2) Facility phone. If neither of the numbers are available then display the VA Main phone `800-698-2411`
+Veteran reason for appointment | N/A | N/A
+
+_NOTE:_
+Veteran reason for appointment are not return for telehealth appointments
+
+### Example JSON appointment object returned from API call
+```
+{
+    "id": "001",
+    "type": "Appointment",
+    "attributes": {
+        "kind": "telehealth",
+        "locationId": "983",
+        "localStartTime": "2025-09-22T09:00:00.000-06:00",
+        "physicalLocation": "PHYSICAL LOCATION TESTING",
+        "practitioners": [
+            {
+                "name": {
+                    "family": "VALOCATION",
+                    "given": [
+                        "VIDEO"
+                    ]
+                }
+            }
+        ],
+        "serviceType": "foodAndNutrition",
+        "status": "booked",
+        "telehealth": {
+            "atlas": null,
+            "vvsKind": "CLINIC_BASED"
+        },
+        "extension": {
+            "patientHasMobileGfe": true,
+            "clinic": {
+                "physicalLocation": "PHYSICAL LOCATION TESTING",
+                "phoneNumber": "500-500-5000",
+                "phoneNumberExtension": "1234"
+            }
+        }
+    }
+}
+```
+### Screenshots of the missing data states
+Full State | Empty Type of care, Provider name, Clinic name, Clinic location | Empty Type of care, Provider name and Facility information
+--- | --- | ---
+ ![Image](https://github.com/user-attachments/assets/10258f05-a2bb-4541-94ff-f94ef3e2789e)     |    ![Image](https://github.com/user-attachments/assets/47e3a0dd-9885-459e-83f5-875234eee57c)   |  ![Image](https://github.com/user-attachments/assets/e6051c89-83a9-476d-82af-efc1ce2da87f)
+
+
 ## Specifications
 
-**User flows**
-- [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)
-- [Past appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=127-22836&t=jIup4zOCLhBYNOvO-4)
+**User flows:**
+- [Upcoming](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2019-19997&t=lDUJykyhV8NRJ2zc-4)
+- [Past](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=127-22836&t=lDUJykyhV8NRJ2zc-4)
 
-**UI design specs**
-- [Upcoming](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
-- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
-- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
-
-**Page content**
-- [Upcoming](../../content/appointment-details.md#va-vvc-at-va-appointment---upcoming)
-- [Past](../../content/appointment-details.md#va-vvc-at-va-appointment---past)
-- [Canceled](../../content/appointment-details.md#va-vvc-at-va-appointment---canceled)
+**UI design specs**  
+[Details pages](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-91577&t=qhwoH7i8nBPBRI3j-4)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
@@ -70,20 +132,6 @@ Notes:
 - Event 2
 
 [All events VAOS tracks](Link TBD)
-
-## Alerts and conditional states
-<!-- Any alerts that could display for this feature and what triggers them. -->
-
-### [Alert description]
-<!-- Add a new section for each alert -->
-
-**Alert trigger**
-[Description of what causes this alert to display]
-
-**Alert UI**
-- [User flow](Add link)
-- [State template](Add link)
-- [State content](Add link)
 
 ## Technical design
 <!-- Endpoints and sample responses -->
