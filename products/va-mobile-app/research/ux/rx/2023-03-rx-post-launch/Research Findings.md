@@ -161,11 +161,11 @@ Participants did not use any other prescription status besides Active to determi
 
 
 ### Appendix
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/rx-post-launch/Research%20Plan.md)
+[Research plan](Research%20Plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/rx-post-launch/Conversation%20Guide.md)
+[Conversation guide](Conversation%20Guide.md)
 
-[Rx Post Launch Slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/6dcb82eb1c0d3e56a45e36bba69265ea5d4b076d/products/va-mobile-app/ux-research/usability-testing/rx-post-launch/2023-04%20Rx%20Post%20Launch%20research%20findings.pdf)
+[Rx Post Launch Slides](/2023-04%20Rx%20Post%20Launch%20research%20findings.pdf)
 
 [Raw session notes Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1680118866236/7684cb0a5e258253f53d7c7d1b1749396b96d004?sender=uf97449a6574246b27b339084)
 
