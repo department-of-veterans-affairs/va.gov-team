@@ -51,7 +51,7 @@ The goals of our UX research for 2021 were:
 | **April-May 2021** |  User Acceptance Testing | Find issues and bugs in live code app with users signed in with their own credentials | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/testing/uat)|
 | **March 2021** |  Usability testing of Secure Messaging high-fi prototype | Understand usability obstacles, ask questions, and get feedback on an MVP secure messaging feature, inform the approach of Secure Messaging in the MVP | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/secure-messaging/Research/Usability%20Testing/Round%201%20Research%20Summary.md)|
 | **March-May 2021** |  Co-branding research | Understand the impact of MHV branding on Veterans perception of the MVP mobile app | [Findings summary](2021-03-mhv-co-branding%20research#:~:text=co%2Dbranding%2Dresearch%2Dreport%2D%2Dmay%2D2021.pdf)|
-| **Feb 2021** |  Usability testing of Jan 2021 internal release | Understand usability obstacles, get feedback on the MVP app features currently in development | [Findings summary](usability-testing/MVP-usability-testing/2021-01-usability-testing-round-2/research-summary.md)|
+| **Feb 2021** |  Usability testing of Jan 2021 internal release | Understand usability obstacles, get feedback on the MVP app features currently in development | [Findings summary](mobile-app-MVP/MVP-usability-testing/2021-01-usability-testing-round-2/research-summary.md)|
 
 
 
