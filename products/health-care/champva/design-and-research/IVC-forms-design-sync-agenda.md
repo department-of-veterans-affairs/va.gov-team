@@ -1,5 +1,13 @@
 # Running Design and Research Agenda
 
+## December 9 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
+	- Agenda Topics
+	  - Review Design Roadmap
+	  - Research Artifacts Documentation
+	  - FMP Claims research artifacts
+	  - Revised FMP Claims research findings
+
 ## December 2 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
 	- Agenda Topics
