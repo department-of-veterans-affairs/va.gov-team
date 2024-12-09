@@ -14,7 +14,7 @@ Date: 12/09/2024
 - [Key findings](#key-findings)
 - [Recommendations](#recommendations)
 - [Further research needed](#further-research-needed)
-- [Who we talked to](#who-we-talked-to)
+- [Who we talked to](###participants)
 
 
 ## Background
@@ -192,14 +192,14 @@ Others mentioned that the death certificate could take the longest. It could tak
 
 ##### Recommendation: 
 - Clearly outline the expected time frames for obtaining supporting documents.
-- Review the checklist one of the VSO participants shared to ensure claimants know what supporting documents. HMW provide this service digitally? [(see folder “Documents received from VSOs”)](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared Documents/Pension/Burial/VSO Research/Documents received from VSOs?csf=1&web=1&e=gMfrBu)
+- Review the checklist one of the VSO participants shared to ensure claimants know what supporting documents. HMW provide this service digitally? [(see folder “Documents received from VSOs”)](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared_Documents/Pension/Burial/VSO_Research/Documents_received_from-VSOs?csf=1&web=1&e=gMfrBu)
 
 
 #### 5) The role VSOs play in obtaining evidence
 
 VSOs will try to obtain as much supporting evidence as possible before placing the responsibility on the claimant. They will inform claimants about all the necessary documentation required for a successful application. This includes the deceased Veteran’s DD214, the death certificate, an itemized receipt for all incurred expenses, and, in some cases, the deceased Veteran’s medical records.
 
-As mentioned earlier, VSOs will also give claimants a checklist to ensure they know all the supporting evidence a claimant might need. [(see folder “Documents received from VSOs”)](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared Documents/Pension/Burial/VSO Research/Documents received from VSOs?csf=1&web=1&e=gMfrBu). 
+As mentioned earlier, VSOs will also give claimants a checklist to ensure they know all the supporting evidence a claimant might need. [(see folder “Documents received from VSOs”)](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared_Documents/Pension/Burial/VSO_Research/Documents_received_from-VSOs?csf=1&web=1&e=gMfrBu). 
 
 VSOs also try to obtain the deceased Veteran’s DD214 and death certificate to reduce the burden on the claimant and to reduce the time it takes to prepare the Burial Benefits application. As soon as they get power of attorney (POA), they can access the deceased Veteran’s information and decide what additional supporting evidence is needed. One VSO noted that the claimant might not need to submit the DD214. One VSO stated that the claimant might not need to submit the DD214. If the VSO discovers that the deceased Veteran has been receiving benefits or is enrolled in VA healthcare. In that case, they can confirm that the Veteran’s service has been verified, meaning they won’t request a DD214. Another VSO (P1) mentioned that their county has prioritized the digitization of Veteran DD214, which allows them to include that information on their behalf. 
 
@@ -288,7 +288,7 @@ Claimants find some of the terminology used in the form confusing and hard to un
 
 #### 8) Claimants find some of the terminology used in the form confusing and hard to understand
 
-All the VSOs we spoke to mentioned that they try to get the claimants all the benefits they can. They mentioned that they give them a package informing them of the possible benefits they might be eligible to receive. If the claimant is the surviving spouse, they will automatically offer the Compensation Benefits for Surviving Spouses and Dependents (VA DIC). Most VSOs start applications for DIC before Burial Benefits. Some do this because the spouse will automatically receive the $2,000 maximum Burial benefit amount after submitting a DIC application. Others mentioned that if the Burial benefit is not automatically generated, then they’ll apply for the Burial Benefits. 
+All the VSOs we spoke to mentioned that they try to get the claimants all the benefits they can. They mentioned that they give them a package informing them of the possible benefits they might be eligible to receive. If the claimant is the surviving spouse, they will automatically offer the [Compensation Benefits for Surviving Spouses and Dependents](https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/) (VA DIC). Most VSOs start applications for DIC before Burial Benefits. Some do this because the spouse will automatically receive the $2,000 maximum Burial benefit amount after submitting a DIC application. Others mentioned that if the Burial benefit is not automatically generated, then they’ll apply for the Burial Benefits. 
 
 Some VSOs suggested submitting a DIC application should automatically trigger a Burial Benefits application. Another VSO indicated that if we know a deceased Veteran is already receiving service-connected benefits, we should streamline the process for those Veterans and not require them to apply separately for Burial Benefits. Further research is needed to explore the connection between DIC and Burial Benefits.
 
@@ -310,36 +310,194 @@ do an extra [530] form if I don't have to?” - P6_
 
 ## Secondary findings
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+#### Finding 1
+Some VSOs advise claimants on what to include in their death certificate to max out benefits from VA.
+
+Some VSOs go the extra mile and advise claimants on what to include in their death certificate to get the most benefits. If the deceased Veteran’s death was service-connected and is not on their death certificate, the surviving spouse will not be eligible for DIC benefits and the max Burial Benefit. So, they emphasize the importance of this being reflected in the deceased Veteran’s death certificate.
+
+> _“Is making sure what's on the death certificate so that he or she could possibly get DIC benefits. Did the Veteran serve in Thailand? Was he in Vietnam? Make sure it says hypertension was on there. You had dementia. I don't care. Make sure hypertension is a contributing factor. Tell the doctors the difference between 0 and $1800 a month for you for the rest of your life. Yeah. Is making sure that we have time to talk to this family and the spouse to make sure the right thing is on the death certificate.” P3_
+
+##### Recommendation: 
+- Mention the importance of including when the Veteran passed away from a service-connected implication in their death certificate.
+
+
+#### Finding 2
+VSOs provide support to claimants with language barriers
+
+One VSO (P4) mentioned encountering a surviving spouse with language barriers. Some claimants with language barriers might need to learn they are eligible for benefits and could find the process difficult and frustrating. 
+
+> _“I did have one last year where the surviving spouse was a Filipino woman. She could speak a little broken English, but she relied on her spouse for everything, for driving indoor food, shopping, and making her life here in America. She came in with her sister-in-law .” - P4_
+
+#### Recommendation: 
+- Ensure the Burial Benefits form is available in multiple languages, both paper and online. More research should be done to identify which languages
+
+
+#### Finding 3
+
+VSOs suggested improvements to the Burial Benefits form, including adding bank information fields for direct reimbursements.
+At the end of our interview session with all the VSOs, we asked how they would improve the Burial benefits form. One VSO (P1) mentioned that the Pension form asks for the claimant's bank information and wondered why the Burial Benefits form did not. Another VSO (P3) mentioned that claimants generally get paid by check, which could be delayed, and wondered why direct deposit was not part of this form. 
+
+> _“Mail around here right now is very inconsistent. And it can take a while for something to get to you, and then having a check for like $2000 floating around out there. And there's nowhere on like the 530 form in which you can provide a bank account.” - P1_
+
+#### Recommendation: 
+- Include bank information on the paper and online forms so claimants can get reimbursement faster.
+
+
+#### Finding 4
+VSOs suggest a 30-60-day timeframe to receive the Burial Benefits
+
+VSOs give claimants a timeline of about 30-60 days. Some VSOs mentioned that it could take 180 days to even a year if the deceased Veteran has never tapped into VA services. Several VSOs mentioned that it was difficult to process the Burial Benefits form when the Veteran never taps into any VA benefit during their lifetime.
+
+> _“He passed in the middle of winter. He wasn't interred yet because the ground was frozen, so they couldn't bury him until the spring once the ground had defrosted. So we waited until after the ceremony and after he was buried before we submitted it.” - P6_
+
+> _“Anytime that we've submitted one, usually it's within 30 or 60 days to get the payment.” - P7_
+
+> _“I would think everyone is being paid within 60 days.” - P4_
+
+#### Recommendation: 
+- Clearly outline the expected time frames for receiving Burial Benefits reimbursement
+
+
+#### Finding 5
+VSOs suggested improvements to the award letter and the paper form.
+
+One specific VSO pointed out a big issue with the award letter. He mentioned that even though he didn’t apply for all the different Burial Benefits allowances for a given claimant, the award letter this claimant receives will include language on “denied” benefits to allowances they didn’t apply for, which can be very confusing.
+
+> _“The award letter says we approved your claim for [x benefit], but we denied your claim for transportation. Everyone will call us and say, ‘Well, I don't understand why I was denied this benefit.’ And we explain, ‘Well, we didn't even apply for that benefit.’...it throws people off because it says, ‘We denied your application for Transportation.’ They didn't apply for it to start with.  - P4_
+
+Some VSOs had specific feedback regarding the paper form and award letter. One VSO (P4) mentioned that on page three of the form, the FDC instructions mention medical examination — **_“this statement should be deleted. This is a benefit for a deceased Veteran! The claimant doesn't need a medical examination.”_** [(see appendix)](####FDC_Program_language_Page_3)
+). Another VSO mentioned to add an “unknown” checkbox option. For instance, include an “unknown” checkbox for the military section. **_“Just put a box that says unknown. That way, you don't think they skipped or missed it. They generally don't know, and I don't think that's unreasonable.”_** Another VSO suggested increasing the font size of the paper form and moving all the instructions to the end of the form, like some of the other paper forms he has come across.  
+
+#### Recommendation: 
+- Ensure the award letter is straightforward and doesn’t mention “denied” when the claimant has not applied for that benefit.
+
+
+#### Findings 6
+Some claimants are unaware of VA and Burial Benefits, resulting in some missing out on years of benefits they are entitled to.
+
+Several people don’t know about VA benefits and go years without knowing they could have been eligible for some benefits. This is a regrettable missed opportunity. For these particular cases, one VSO (P6) mentioned that they make sure they apply for all the benefits the claimants might have missed, ensuring they are not overpaid. 
+
+> _“It's all about misinformation. It's it's really there's a lot of misinformation around the burial benefits that are entitled to veterans, right? And that could be for whatever reason.” - P3_
+
+> _“They file for survivors' benefits but have no clue about burial benefits. And it could be. I've had claimants come in several years later, and we're like, did you ever file for burial? And they're like, no, I didn't know I could. Like, oh, and then we have to go through, and we have to try and get the paperwork together and file because they didn't know they were able to file for it.” - P5_
+
+> _“They don't know anything. Some have no idea that when their husband died x amounts of years ago, they would've been entitled to this because he died of a service-connected condition.” P6_
+
+> _“They may have only gotten a nonservice-connected burial 10 years ago. Well, now that they died of prostate cancer and they have established their Agent Orange, they're entitled to the $2000 because the rule has changed. So it's nice for me to go looking back. OK, so instead of me saying you'll get the $2000. You already got $300 back in 1996. So you're only going to get the difference now.” - P6_
+
+
+#### Finding 7
+Additional VSO recommendations around the Burial Benefits
+
+Other VSO Recommendations include contacting claimants to confirm VA support during difficult times, mailing information packets after a Veteran's passing, automatically sending families their presidential letter, and granting VSOs access to VA.gov
+
+> _“Then it may be a phone call. Hey, we want to make sure that you understand some of the information that'll be sent out. We do know it's an overwhelming time.”  - P7_ 
+
+> _“Someone might just call the VA and say my husband was a veteran, he passed away and that that kind of automatically send that package to the VA.” - P6_
+
+> _“ Once the VA is notified that the Veteran has passed, just send the presidential letter to the family instead of having them apply for it” - P3_
+“I look forward to hopefully seeing a backdoor version of this claims process for VSO soon. I know it's been in the conversation for quite some time now.” - P5
+
+#### VSO tools
+a.	Vetraspec
+b.	Vetspro
+c.	Tyler Veteran’s Benefits
+d.	Quick submit
+e.	VA.gov 
+
 
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+### Navigating Veteran End-of-Life, Death, Burial, and the Claimants' Experience  
+1.	HMW put less burden to claimants during the Burial Benefits application process 
+2.	Consider automating and auto-populating as much information we can about the deceased Veteran
+3.	Ensure that we are preparing Veterans and their families for the death of the Veteran 
+4.	HMW leverage ways VSOs prepare Veteran and their families in our digital space
+5.	Clearly outline the expected time frames for obtaining supporting documents. 
+6.	Review the checklist one of the VSO participants shared that's used to ensure claimants know what supporting documents. HMW provide this service digitally? [(see folder “Documents received from VSOs”)](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared_Documents/Pension/Burial/VSO_Research/Documents_received_from-VSOs?csf=1&web=1&e=gMfrBu)
+7.	Identify if the claimant or the deceased Veteran is already receiving VA benefits. We might not need military information for these claimants since the VA has already verified their military history. 
+8.	Ensure claimants have included all the necessary information and supporting documents before they submit the form.  
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+### Comprehension of Burial Benefits and Eligibility    
+9.	Set the expectation that the VA will not cover all expenses but only a small portion. 
+10.	Incorporate additional information about how much reimbursement a claimant can get when they apply for Burial Benefits. 
+11.	Include the maximum and minimum amounts someone might get depending on their eligibility in the paper form.
+12.	Change “allowance” to “reimbursement” so claimants understand that receipts are needed to claim Burial Benefits and further explain that the person incurring the expenses should be the person claiming the benefit.
+13.	Explain each type of allowance, specifically transportation allowances, and various scenarios where transportation expenses could be reimbursed
+14.	Consider using plain language throughout the form.
+15.	Provide more explanations regarding these terms online and on the paper form: service-connected, not service-connected, file number, and place of interment.
+16.	Research the connection between DIC and Burial Benefits. There’s an opportunity to bring awareness to the DIC in the Burial Benefits paper form and online form and vice versa. There’s also an opportunity to streamline the process, where we can guide a surviving spouse to apply for DIC first if the Veteran passes away from service-connected implications.
+
+### Secondary findings  
+17.	Mention the importance of including when the Veteran passed away from a service-connected implication in their death certificate.
+18.	Ensure the Burial Benefits form is available in multiple languages, both paper and online. More research should be done to identify which languages.
+19.	Include bank information on the paper and online forms so claimants can get reimbursement faster.
+20.	Clearly outline the expected time frames for receiving Burial Benefits reimbursement
+21.	Ensure the award letter is straightforward and doesn’t mention “denied” when the claimant has not applied for that benefit.
+
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+- Present VSO Burial research findings and recommendations with the Pension Burial team
+- Pension Burial team can share this report and deck with VBA partners
+- Incorporate findings into the following Burial Benefits enhancement
+- Quick wins that the Pension Burial team can focus on:
+    - Include bank information on the paper and online forms so claimants can get reimbursement faster. Since Pensions already include this information on both paper and online forms, VBA might be more open to incorporating it into the Burial Benefits form, both on paper and online.
+    - Explain each type of allowance, specifically transportation allowances, and various scenarios where transportation expenses could be reimbursed.
+    - Consider using plain language throughout the form.
+    - Provide more explanations regarding these terms online and on the paper form: service-connected, not service-connected, file number, and place of interment.
+    - Clearly outline the expected time frames for obtaining supporting documents and receiving Burial Benefits reimbursement.
+    - Include the maximum and minimum amounts someone might get depending on their eligibility in the paper form.
+- To verify these findings, conduct additional research with spouses, children, extended family, friends, caregivers, funeral homes, state cemeteries, and executors.
+- Research the connection between DIC and Burial Benefits. There’s an opportunity to bring awareness to the DIC in the Burial Benefits paper form and online form and vice versa. There’s also an opportunity to streamline the process, where we can guide a surviving spouse to apply for DIC first if the Veteran passes away from service-connected implications.
 
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+#### Claimants might incur additional fees to obtain supporting documentation.
+In addition to all the funeral, burial, and plot expenses, some VSOs mentioned that claimants might need to pay extra fees to obtain certain supporting documents. One VSO (P4) in Minnesota mentioned that they don’t charge claimants for obtaining supporting documents. Still, if the claimant lived in another state, claimants must track down these supporting documents from out-of-state and pay $25 to get them.
+
+> _“In Minnesota, we don't pay for any documents. We have laws that allow us to obtain those for free. If I call to Kentucky looking for a death certificate, they might want to charge me 25 bucks. [this fee falls on the claimant]” - P4_
+
+#### Some claimants might face name change challenges.
+One VSO mentioned a case where a claimant’s maiden last name was on VA, so when the check came, it came in with the wrong last name. In this particular case, the spouse was added to VA benefits using the wrong last name, and the information was never updated. The spouse realized their last name was incorrect when the Burial Benefit check arrived.
+
+> _“If the dependency was previously established for the surviving spouse with the incorrect last name and the surviving spouse didn’t change her maiden last name to the married last name. We've had a couple of times where the burial allowance check went out with the married name. So they couldn't cash the check because it wasn't actually their name. So we've had to fight to get the check reissued using the correct name.” - P1_
+
+#### Some VSOs mentioned that some claimants can face challenges if the Veteran never taps into VA benefits.
+> _“You're not even eligible because the Veteran never filed anything with the VA, so yeah… I mean, that happened to both my grandfathers. Neither one filed a claim, so when their times came, they got headstone. Well, one got a heads stone. One got a marker. There were no burial benefits. I didn't know it from my first grandfather. I was a child, but my last grandfather passed in 2020, and I didn't get his pension claim in time. So we're kind of SOL.” - P6_
+
+> _“They never tapped into VA, meaning they never came into our offices. They never filed a claim… And they heard this was, what I get when I die. They're going to give me a plot of land and reimburse you for a funeral.” - P3_
+
+#### Some VSOs mentioned funeral homes are proactive in helping claimants complete the Burial benefits form. In contrast, others could take advantage of claimants unfamiliar with it.
+> _“ I think some of that might be some unsavory tactics to get them to spend more money on a funeral, and all of a sudden, you say, ‘Nope, you're only going to get this much.’ But they spent so much more with the funeral, and then you gotta explain. It's not even a part of that. The funeral expenses aren't what can be reimbursed.” - P6_
+
+> _“Their surviving spouse, they will say, well, we're working with the funeral director. They're helping us complete the form because they'll have all the information. So lot of times you're seeing that the five 30s, you know they're being completed upfront by the funeral directors helping the families.” - P7_
+
+#### Claimants might get confused about tribal contributions about question 19A, and others might have issues with supplemental claims. 
+One VSO (P1) mentioned getting a lot of questions regarding tribal contributions. Question 19A asks, “Did the federal/state government or the Veteran’s employer contribute to the burial?.” It doesn’t mention tribal contributions. Native Americans, who might choose “Yes, tribal trust land” for question 18, might also receive tribal contributions and might want to report them on the Burial Benefits form.  
+
+> _“The questions I'm getting about the form when they're filling it out is if a federal or state government like or like veterans employer contributed to the burial. The most recent question I got about it was about tribal contributions. Technically, they're not federal, and they're not state. They're a sovereign nation… So, I looked through the M21 rules. I asked the pension management center. Hey, you know what? What is the correct answer here? And yeah, the answer was ‘no.’ You don't put anything there.” - P1_
+
+Another VSO (P5) mentioned that he’s had some claimants who have gotten the Burial Benefits denied and have submitted a new Burial Benefits form without submitting a supplemental form. The VA will then reject this new Burial Benefits claim and it would delay the claimant from receiving the Burial Benefits.  
+
+> _“[When there's a denial]  people don't realize that they still have to submit the supplemental claim form when they're reopening that denial, and so when they'll go, they'll refile, and they'll submit just the 530 with all the evidence that they need to prove that they're entitled to the benefit. But they don't do the supplemental claims, so the VA has to reject that claim, which automatically is now going to delay things at least a month or two” - P5_
 
 
 ## Appendix
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/research/2024-09-VSO-Research/research-plan.md)
 
-[Conversation guide]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/research/2024-09-VSO-Research/conversation-guide.md))
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/research/2024-09-VSO-Research/conversation-guide.md))
 
 [Interview transcripts - EnjoyHQ](https://app.enjoyhq.com/sh/pj/934fba89-4861-48bb-8507-91e8278422aa)
+
+#### FDC Program language Page 3
+
+<img width="625" alt="image" src="https://github.com/user-attachments/assets/4eb9b4ca-ca7e-42b4-a141-d013d64b7268">
+
 
 
 ## Tools used for Synthesis
