@@ -29,4 +29,4 @@ See [High Level Project Summary](https://github.com/department-of-veterans-affai
 - [High fidelity screen templates for navigation model - Figma](https://www.figma.com/file/cdp7Be4UdYesq9fXeqaOgt/%F0%9F%9A%A2-Navigation2.0---ScreenTemplates---Shipped---VAMobile?node-id=0%3A1&t=MLR0Wl9QqzHyZTRd-1)
  
  ### Phase III -  Evaluative Research ###
-- [Usability Study - Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability)
+- [Usability Study - Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/navigation/new%20navigation%20usability)
