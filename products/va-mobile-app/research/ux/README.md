@@ -60,7 +60,7 @@ The goals of our UX research for 2021 were:
 
 
 ## UX Research: 2020
-The goals of our UX research in March-December 2020 were to validate or invalidate bets that were derived from our initial [discovery sprint](products/va-mobile-app/research/ux/mobile-app-MVP/2020-02-discovery-sprint). In order to do that, we did a set of activites that allowed us to experiment and test the bets. Each activity has a corresponding output that we used to communicate our findings. 
+The goals of our UX research in March-December 2020 were to validate or invalidate bets that were derived from our initial [discovery sprint](mobile-app-MVP/2020-02-discovery-sprint). In order to do that, we did a set of activites that allowed us to experiment and test the bets. Each activity has a corresponding output that we used to communicate our findings. 
 
 ### Activites and Output
 | Date                 | Activity                 | Description         | Output        |
