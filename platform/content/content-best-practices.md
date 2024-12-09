@@ -5,8 +5,8 @@ When creating content for VA.gov, all teams building on the Veteran Services Pla
 
 VA.gov content resources:
 
-[VA.gov content styleguide](https://design.va.gov/content-style-guide/) <br>
-[VA.gov design system styleguide]( https://design.va.gov/documentation/)  <br>
+[VA.gov content style guide](https://design.va.gov/content-style-guide/) <br>
+[VA.gov design system style guide]( https://design.va.gov/documentation/)  <br>
 
 
 
