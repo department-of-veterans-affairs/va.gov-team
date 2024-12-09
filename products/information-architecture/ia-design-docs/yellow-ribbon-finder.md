@@ -30,11 +30,12 @@ On moving all data from the 'Yellow Ribbon school finder' tool into the 'GI Bill
 
 ### Primary entry point
 
-**1) Page/menu name** - Modify
+**1) GI Bill Comparison Tool** - Modify
 - Placement description: In the 'GI BIll school comparison' tool, select the 'Offers Yellow Ribbon program' checkbox to view Yellow Ribbon data in search results (final components and labels TBD by team).
 - Link label: TBD by team (depending whether the final design keeps the current checkbox and label, or makes updates)
 - Link destination: program-level search results, url will vary by search inputs.
-- Notes: This is not an entry point to *only* Yellow Ribbon data, it is the new entry point to *access the data formerly contained in* the 'Find a Yellow Ribbon school' tool. Since the page for the Yellow Ribbon tool is going away. 
+- Entry Point Notes: This is not an entry point to *only* Yellow Ribbon data, it is the new entry point to *access the data formerly contained in* the 'Find a Yellow Ribbon school' tool. Since the page for the Yellow Ribbon tool is going away. 
+- Comparison Tool Note: The starting step of the Comparison Tool search flow should include content indicating that the Yellow Ribbon info is available there, now.
 ![YR 6](https://github.com/user-attachments/assets/56d590ce-097d-43c9-8b56-b7622950be65)
 
 ### Entry points to REMOVE
@@ -42,7 +43,7 @@ On moving all data from the 'Yellow Ribbon school finder' tool into the 'GI Bill
 **1. Education hub page** - Remove
 - Placement description: Education hub page 'More information and resources' section
 - Link label: Find a Yellow Ribbon school
-- Notes: Remove both the header link and the explanation text for the Yellow Ribbon tool from the section.
+- Notes: Remove both the header link and the explanation text for the Yellow Ribbon tool from the section. Consider updating the description of the Comparison Tool to include a mention that the Yellow Ribbon data is now available here, since this is a change to a somewhat popular program.
 - Implementation Notes: CAIA Content to remove
 ![YR 9](https://github.com/user-attachments/assets/b1e0d530-0052-496e-829b-a0cbb75d1e3e)
 
@@ -51,30 +52,15 @@ On moving all data from the 'Yellow Ribbon school finder' tool into the 'GI Bill
 - Link label: Find a Yellow Ribbon school
 - Notes: Remove tool from the left nav.
 - Implementation Notes: CAIA IA to remove
-![YR 9](https://github.com/user-attachments/assets/b411f46e-cc38-4574-9c32-1ea30da3e592)
+<img width="197" alt="Screenshot 2024-12-09 at 2 26 02 PM" src="https://github.com/user-attachments/assets/2c00a288-90ca-4af0-b76e-48545f266ae0">
 
 ### Crosslinks
-
-**1. Link on the [Yellow Ribbon Program](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/) page** - Modify
-- Placement description: Update the link text and redirect the current text-link. 
-- Link label: 'Find schools that offer the Yellow Ribbon Program this year.' or TBD
-- Link destination: https://www.va.gov/education/gi-bill-comparison-tool
-- Implementation Notes: CAIA Content to update
-![YR 4](https://github.com/user-attachments/assets/04090a8e-8ca6-4463-b3a5-814eb2cd5133)
-
-
-**1. Three links on the [Yellow Ribbon FAQ](https://www.va.gov/resources/yellow-ribbon-program-faqs/) page** - Modify
-- Placement description: Update the link text and redirect the current text-link. Link description could also be updated.
-- Link destination: https://www.va.gov/education/gi-bill-comparison-tool
-- Implementation Notes: CAIA Content to remove
-![YR 3](https://github.com/user-attachments/assets/d46adba3-e6b5-43db-87ab-08eeee1a05bd)
-
+*CAIA content will identify all places that link to the Yellow Ribbon tool and will modify the link to direct visitors to the new location of the information or remove the link if its no longer applicable in that context.*
 
  
 ### <a name="bestbets"></a>Best Bets<br>
 *Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find content and features that are not easily found or not ranking well in search. Existing best bets must be removed or updated when links/URLs change.*
-- Imelementation Notes: CAIA IA to update the destination and explanation text on the existing best bet, post go-live.
-<img width="586" alt="YR 5" src="https://github.com/user-attachments/assets/adcacd49-6e44-479c-8f1d-2d9c88158612">
+- Imelementation Notes: CAIA IA will remove the Yellow Ribbon tool's Best Bet, and add keywords/discoverability for the Yellow Ribbon data to the Comparison Tool best bet.
 
 
 ## <a name="redirects"></a>Redirects <br>
