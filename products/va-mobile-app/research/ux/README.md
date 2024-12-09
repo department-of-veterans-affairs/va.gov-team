@@ -11,7 +11,7 @@
 | :-------------              | :-------------              |:-------------         |:-------------|
 | **June 2024** | Concept and Usability Testing | Test the comprehension, usefulness and usability of a new perosnalized home screen concept for the VA Mobile app   | [Findings Summary](personalized-homescreen/2024-04%20evaluative%20research)|
 | **April 2024** | Interviews |  Discovery interviews with Vet Center reps to being to understand the Veteran Instability Problem Space | [Research Folder](veteran-instability-discovery/2024-04-VetCenter)|
-| **March 2024** | Quant planning & study design |  Customer Satisfaction & In-App Feedback Product Strategy | [Product Folder](products/va-mobile-app/features/Veteran%20Satisfaction%20%26%20In-App%20Feedback/Veteran%20Effort%20Score%20Product%20Brief.md)|
+| **March 2024** | Quant planning & study design |  Customer Satisfaction & In-App Feedback Product Strategy | [Product Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/Veteran%20Satisfaction%20%26%20In-App%20Feedback/Veteran%20Effort%20Score%20Product%20Brief.md)|
 
 
 
