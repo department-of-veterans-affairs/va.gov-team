@@ -17,6 +17,7 @@ This document describes the overall response process for any suitably severe inc
 
 - Incident management is performed through [Datadog Incidents](https://vagov.ddog-gov.com/incidents)
 - Specific instructions for declaring an incident are described in [datadog incident management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md)
+- If an incident must be declared, the VA OCTO Identity Product Leadership must be notified directly via slack and pagerduty
 - If an incident requires code changes by the OCTO Identity team, in addition to the incident declaration, an Out of Band deploy is likely necessary. Follow the Platform OOB [process](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-policies#DeploymentPolicies-Requestingout-of-banddeploys)
 
 ## Ongoing Incident Management
