@@ -38,9 +38,9 @@ These resources explain the key elements of the VA mobile app, including the app
     * [Accessibility Testing Plan](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/QualityAssuranceProcess/Accessibility/testing-plan)
     * [Native mobile app accessibility resources](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/QualityAssuranceProcess/Accessibility/resources)
 * [**Research**](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/UX/Foundations/Research/)
-    * You can view our [research repo in Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research) (if you don’t have Github access reach out to Tim Wright)
+    * You can view our [research repo in Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux) (if you don’t have Github access reach out to Tim Wright)
     * [VA Mobile Feedback Hub](https://feedback-hub-e659c24714b9.herokuapp.com/) scrapes data from Reddit, Google Play Store reviews, and Apple App Store reviews and makes it searchable
-    * [Conducting remote research w pre release production app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/research-operations/research-pre-release-prod-app-build-how-to.md)
+    * [Conducting remote research w pre release production app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/research-operations/research-pre-release-prod-app-build-how-to.md)
 * [**Misc UX Resources**](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/UX/Resources) Design & Research (How we use Figma, Balsamiq, Mural, where files live, etc)  
 * [**How the VA mobile app design team works**](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/UX/How-We-Work/)
     * Includes links to how we work with others, designing the UI, Figma information, etc.
