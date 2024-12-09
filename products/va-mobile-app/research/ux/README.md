@@ -5,6 +5,7 @@
 - Examine the effectiveness of a new personalized home screen concept, and identify areas for improvement
 - Begin to investigate the Veteran Instability Problem Space
 - Improve the efficiency of Monthly App Review Analysis, using an LLM
+[2024 Research Roadmap](research-roadmaps/readme.md#2024)
 
 ### Activites and Output
 | Date                 | Activity                 | Description         | Output        |
