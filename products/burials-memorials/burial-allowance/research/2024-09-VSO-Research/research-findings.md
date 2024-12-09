@@ -190,7 +190,7 @@ Others mentioned that the death certificate could take the longest. It could tak
 
 > _“Unless there are underlying circumstances where they're trying to determine A cause of death, they're usually good within seven to 10 days.” - P7_
 
-> _“We instruct explainers not to come to see us or not make an appointment until they have the funeral receipt hand, which can be up to 30 days because we're going to be submitting a funeral bill to validate for the plot along. Opening and closing of the plot.” - P4_
+> _“We instruct claimants not to come to see us or not make an appointment until they have the funeral receipt hand, which can be up to 30 days because we're going to be submitting a funeral bill to validate for the plot along with opening and closing of the plot..” - P4_
 
 ##### Recommendation: 
 - Clearly outline the expected time frames for obtaining supporting documents.
