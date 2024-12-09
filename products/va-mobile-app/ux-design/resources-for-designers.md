@@ -1,6 +1,6 @@
 # Designing for the VA Mobile App: Getting Started  
 
-Last updated: Nov 6, 2024
+Last updated: Dec 9, 2024
 
 This is a list (created by the VA mobile design team) of items and resources that are essential for designers who are new to the VA mobile app (and potentially new to designing for native mobile in general) to know about as they’re getting up to speed.
 
