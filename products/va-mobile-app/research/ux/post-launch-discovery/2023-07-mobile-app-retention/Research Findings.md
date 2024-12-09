@@ -228,7 +228,7 @@ The team will consider ways to explore the value the mobile app might have in he
 
 [Conversation guide](Conversation%20Guide.md)
 
-[Interview transcripts](/Session%20Notes)
+[Interview transcripts](Session%20Notes)
 
 
 ### **Tools used for Synthesis**
