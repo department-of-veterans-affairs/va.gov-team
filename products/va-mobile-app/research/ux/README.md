@@ -1,4 +1,4 @@
-# WIP VA Mobile App - UX Research
+# VA Mobile App - UX Research
 
 
 ## UX Research: 2024
