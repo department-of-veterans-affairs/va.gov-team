@@ -86,7 +86,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: Jan 6, 2024 at 11 AM
 
 ### Research sessions
-* Planned dates of research: Jan. 7, 2024
+* Planned dates of research: 7-10 and 13, 2025
 
 ### Length of sessions
 
