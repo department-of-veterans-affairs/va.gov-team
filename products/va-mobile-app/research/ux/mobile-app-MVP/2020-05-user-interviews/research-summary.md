@@ -5,8 +5,8 @@ May 29, 2020
 
 # Background and goals
 The goal of our UX research is to validate or invalidate bets that were derived from our initial discovery sprint. The following recaps the initial discovery sprint work done before the May 2020 research to give context to the entire scope of the UX research process on the mobile app project: 
-- [Early March 2020: Card Sorting Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/mobile-app-MVP/discovery-sprint/veteran-desirability/card-sorting/VA%20Mobile%20App%20Discovery_%20Card%20sorting%20report.pdf)
-- [March 18 - 19, 2020: Usability Testing Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/mobile-app-MVP/discovery-sprint/veteran-desirability/usability-testing/VA%20Mobile%20App%20Discovery_%20Usability%20test%20report.pdf) 
+- [Early March 2020: Card Sorting Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/mobile-app-MVP/2020-02-discovery-sprint/veteran-desirability/card-sorting/VA%20Mobile%20App%20Discovery_%20Card%20sorting%20report.pdf)
+- [March 18 - 19, 2020: Usability Testing Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/mobile-app-MVP/2020-02-discovery-sprint/veteran-desirability/usability-testing/VA%20Mobile%20App%20Discovery_%20Usability%20test%20report.pdf) 
 
 This research report convers conversational interviews conducted May 4-13, 2020.
 
