@@ -115,7 +115,7 @@ If changing the URL of any modernized page in Drupal, these are additional steps
 2. Copy editor tags CMS team members Ian Sears and Troy Griffin in CMS channel to give a heads up that we're archiving pages with confirmed redirects. Note that there may be some false broken link reports coming in that we'll monitor. 
 3. Copy editor archives older node. Then monitors broken link Slack channel 2 hours later (after content build takes place).
 4. Writer or copy editor replaces crosslinks with updated node. OR, copy editor coordinates with writer to create an estimate for when we can address and solve any false broken link reports to minimize noise. Copy editor shares that estimate with CMS team in broken link alert channel. 
-    **Note:** On pages where we're updating crosslinks: If the only change to the copy is updating the link or node, it's OK for the writer to publish the one updated crosslink. If there are any copy changes, the writer passes the page to the copy editor to review.
+    **Note:** On pages where we're updating crosslinks: If the only change to the copy is updating the link or node, it's the writer can publish the one updated crosslink. If there are any copy changes, the writer passes the page to the copy editor to review. Before publishing, check the revison log, and make sure there are no other other draft changes. 
 5. Copy editor publishes the updated page (or checks the updated link on production). 
 
 ## Archiving a best bet
