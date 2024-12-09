@@ -1,6 +1,6 @@
 # Product outline for Contact us page 
-
 Last updated by @beckyphung on December 9, 2024
+
 **Jump to:**
 - [Overview](#overview)
 - [Problem statement](#problem-statement)
@@ -62,8 +62,8 @@ We primarily track the page's satisfaction rating right now. Below is our averag
 ### Satisfaction rating
 |Year| Contact us page | VA.gov all pages | 
 |----------|-------------| -------------|
-|2024 (Latest date: 12/8/24)|15% (246 responses)|32% (28k responses)|                     
-|2023|X% (X responses)|X% (Xk responses)|
+|2024 (Latest date: 12/8/24)|15% (246 responses)|32% (103K responses)|                     
+|2023|12% (1.5K responses)|22% (96K responses)|
 
 ## Assumptions
 1.	People will prefer different contact channels in different contexts. For example, if people aren't confident they know which phone number to call, then people will prefer online tools for support. If people feel confident that a phone agent will be able to answer their question, then people will prefer phone calls for support. 
