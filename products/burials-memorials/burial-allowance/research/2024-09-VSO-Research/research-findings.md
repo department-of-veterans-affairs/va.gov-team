@@ -473,9 +473,10 @@ One VSO mentioned a case where a claimant’s maiden last name was on VA, so whe
 > _“They never tapped into VA, meaning they never came into our offices. They never filed a claim… And they heard this was, what I get when I die. They're going to give me a plot of land and reimburse you for a funeral.” - P3_
 
 #### Some VSOs mentioned funeral homes are proactive in helping claimants complete the Burial benefits form. In contrast, others could take advantage of claimants unfamiliar with it.
-> _“ I think some of that might be some unsavory tactics to get them to spend more money on a funeral, and all of a sudden, you say, ‘Nope, you're only going to get this much.’ But they spent so much more with the funeral, and then you gotta explain. It's not even a part of that. The funeral expenses aren't what can be reimbursed.” - P6_
 
-> _“Their surviving spouse, they will say, well, we're working with the funeral director. They're helping us complete the form because they'll have all the information. So lot of times you're seeing that the five 30s, you know they're being completed upfront by the funeral directors helping the families.” - P7_
+> _“Their surviving spouse will say, ‘We're working with the funeral director. They're helping us complete the form because they'll have all the information.’ So, a lot of times you're seeing that the 530 are being completed upfront by the funeral directors helping the families.” - P7”
+
+> _“ I think some of that might be some unsavory tactics to get them to spend more money on a funeral, and all of a sudden, you say, ‘Nope, you're only going to get this much.’ But they spent so much more with the funeral, and then you gotta explain. It's not even a part of that. The funeral expenses aren't what can be reimbursed.” - P6_
 
 #### Claimants might get confused about tribal contributions about question 19A, and others might have issues with supplemental claims. 
 One VSO (P1) mentioned getting a lot of questions regarding tribal contributions. Question 19A asks, “Did the federal/state government or the Veteran’s employer contribute to the burial?.” It doesn’t mention tribal contributions. Native Americans, who might choose “Yes, tribal trust land” for question 18, might also receive tribal contributions and might want to report them on the Burial Benefits form.  
