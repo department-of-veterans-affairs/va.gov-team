@@ -94,7 +94,7 @@ _Bet: A mobile application provides more value to Veterans than a mobile VA.gov 
 - What do they prefer to do on VA.gov vs. a mobile device?
 
 ### Resources
-Please refer to the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/mobile-app-MVP/discovery-sprint/veteran-desirability/research-plan.md) for further information. 
+Please refer to the [research plan](2020-02-discovery-sprint/veteran-desirability/research-plan.md) for further information. 
 
 
 
