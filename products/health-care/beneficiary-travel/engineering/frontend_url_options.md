@@ -2,6 +2,8 @@
 
 **All URLs begin with `https://va.gov/my-health`**
 
+Pros: consistent organization make it easy to add other links in the future
+Cons: "boilerplate" subdirectories may incur more overhead in the short term
 |A Veteran navigates to...|...and is redirected to...|... and sees...|
 |-|-|-|
 |/travel-pay/|/travel-pay/claims/|A list of their travel reimbursement claims|
@@ -11,6 +13,8 @@
 |/travel-pay/claims/new/{appt_id}|N/A|The starting point for submitting a mileage-only claim|
 |/travel-pay/help/|N/A|Text explaining the claim status definitions|
 
+Pros: 
+Cons:
 |A Veteran navigates to...|...and is redirected to...|... and sees...|
 |-|-|-|
 |/travel-pay/|/travel-pay/claims/|A list of their travel reimbursement claims|
@@ -20,6 +24,8 @@
 |/travel-pay/new-claim/{appt_id}|N/A|The starting point for submitting a mileage-only claim|
 |/travel-pay/help/|N/A|Text explaining the claim status definitions|
 
+Pros:
+Cons:
 |A Veteran navigates to...|...and is redirected to...|... and sees...|
 |-|-|-|
 |/travel-pay-claims/|N/A|A list of their travel reimbursement claims|
