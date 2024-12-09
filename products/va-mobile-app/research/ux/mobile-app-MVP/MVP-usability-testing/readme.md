@@ -22,7 +22,7 @@ In September we tested the high-fi prototype of the MVP mobile app. Our research
 
 In R1, we used the final 10 minutes of each session to allow the participant to freely explore the app. Between this portion of the interview and the task-based testing, we were able to garner feedback on all the app's features since the MVP is quite small. 
 
-[Link to research summary](round-1/research-summary.md)
+[Link to research summary](2020-08-usability-testing-round-1/research-summary.md)
 
 ## October and November 2020
 We've focused on the following: 
@@ -64,9 +64,9 @@ After delivering the MVP into Test Flight (~late 2020 or early 2021), we will te
 
 ### March-July 2020: discovery research
 In addition to September usability testing, we have done 3 additional rounds of discovery research with Veterans that we can lean on to identity post-MVP features on our roadmap:
-- [March 2020 discovery sprint](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/mobile-app-MVP/discovery-sprint/veteran-desirability/usability-testing/VA%20Mobile%20App%20Discovery_%20Usability%20test%20report.pdf)
-- [May 2020 discovery sprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/mobile-app-MVP/user-interviews/research-summary.md)
-- [June 2020 prototype testing + co-design research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/mobile-app-MVP/prototype-testing/testing-summary.md)
+- [March 2020 discovery sprint](2020-02-discovery-sprint/veteran-desirability/usability-testing/VA%20Mobile%20App%20Discovery_%20Usability%20test%20report.pdf)
+- [May 2020 discovery sprint](2020-05-user-interviews/research-summary.md)
+- [June 2020 prototype testing + co-design research](2020-06-prototype-testing/testing-summary.md)
 
 ### October and November: what's next?
 The approach we plan to take in the short-term is:  
