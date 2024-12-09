@@ -7,6 +7,23 @@
 	  - Research Artifacts Documentation
 	  - FMP Claims research artifacts
 	  - Revised FMP Claims research findings
+ 
+   - ### Notes
+    * Review Design Roadmap
+    * Heavier focus on file maintenance for this sprint
+    * Will work on handing off the latest CHAMPVA form flow and a11y annotations to the engineers to progress towards staging review
+* Research Artifacts Documentation
+    * We will add form names to mural boards
+    * Be consistent with 1010 team’s organization
+    * Premal uses the master list on research links but it is a little harder to maintain. We will try to add links to the research links in the IVC UX Slack channel instead under the More tab (like 1010 design team)
+    * We do not want to spend time on creating on our own user journey maps based on our own research. There’s not enough value to keep our own user maps based on our own research. We can instead add links or copies of the VA’s user journey to a mural board. We can add all of the journey maps for each program one a mural for CHAMPVA forms and one a mural for FMP forms. 
+    * We still want to keep the service blueprints as something we maintain and add to as the program evolves  \
+
+* Revised FMP Claims research findings
+    * The new format works well. It helps to easily see what tickets we need and what we may want dig deeper to research  
+    * Discussed in-person research with FMP/CHAMPVA Claims processing. It may be valuable to see claims processing done in person and converse with the stakeholders on their experience. We could present evidence to change back-end systems. We can maybe combine it with an off-site to work directly with stakeholders . 
+    * Briefly discussed an idea about conducting in-person research with first-time 1010d applicants to observe them filling out the digital form for the first time. We may need to look at other in-person research and why they did it as opposed to virtual research. (MST) military sexual trauma team may have some research we can look into. 
+    * Next steps would be to write brief research plans and in-person opportunities to see if it makes sense to pursue. 
 
 ## December 2 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
