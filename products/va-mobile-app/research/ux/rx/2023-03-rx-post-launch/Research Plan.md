@@ -82,7 +82,7 @@ These sessions will be remote via zoom.
 ### 
 **Research materials**
 
-[Link to conversation guide](conversation-guide.md)
+[Link to conversation guide](Conversation Guide.md)
 
  
 **Recruitment approach**
