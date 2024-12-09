@@ -1,4 +1,4 @@
-# UX Research: January 2022-present
+# WIP UX Research: January 2022-present
 The goals of our UX research for 2022 were: 
 - Better understand who is using the VA mobile app & why
 - Understand pain points experienced by users who are blind or have low vision
