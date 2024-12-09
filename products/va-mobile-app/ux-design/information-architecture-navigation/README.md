@@ -10,7 +10,7 @@ See [High Level Project Summary](https://github.com/department-of-veterans-affai
 - [Open Card Sort - Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort)
 
 **Closed Card Sort**
-- [Closed Card Sort - Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/information-architecture/2022-03-closed%20card%20sort)  
+- [Closed Card Sort - Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/information-architecture/2022-03-closed%20card%20sort)   
 
 **Output**
 - [VA Mobile App - Future state sitemap/flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture/readme.md#va-mobile-app-20-sitemap)  
