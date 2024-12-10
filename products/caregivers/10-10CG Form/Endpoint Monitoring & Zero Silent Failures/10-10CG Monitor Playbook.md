@@ -54,7 +54,7 @@ _last updated: 09-23-2024_
 
 # Monitor: 1010CG submission job has failed retries
 ## Slack & Email Alert: "Triggered: 1010CG submission job has failed ten retries"
-- At least one application submission has been retried 10 times, and has failed. The submission will retry 4 more times before failing completely
+- At least one application submission has been retried 10 times, and has failed. The submission will retry 6 more times before failing completely
 
 ### Required access
 - [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
@@ -79,7 +79,7 @@ _last updated: 09-23-2024_
      - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
 
 ## Slack & Email Alert: "Triggered: 1010CG submission job has failed with no retries left"
-- At least one application submission has been retried 14 times over the course of 24 hours, has failed and will not be retried again
+- At least one application submission has been retried 16 times over the course of 48 hours, has failed and will not be retried again
 
 ### Required access
 - [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
@@ -104,6 +104,37 @@ _last updated: 09-23-2024_
           - PM will open maintenance window in PagerDuty if needed
      - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
      - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
+
+---
+
+# Monitor: 1010CG submission job has failed due to record parse error
+## Slack & Email Alert: "Triggered: 1010CG submission job has failed due to record parse error"
+- At least one application submission has failed due to a record parse error between VA.gov and MuleSoft, and will not be retried
+
+### Required access
+- [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
+- [DSVA Slack](dsva.slack.com)
+     - #1010-health-apps channel
+     - #health-tools-1010-apm channel
+     - #vfs-platform-support channel
+     - #vecms-carma_vadotgov_development_external channel
+- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+
+### Steps
+- Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
+- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+- Follow the [Ultimate failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Vets-api%20retries%20for%20MuleSoft%20-%20Ultimate%20Failures%20process.md) process outlining that the 10-10 Health Apps team will:
+     - Retrieve the PDF application file from the Production environment
+          - Send the PDF application file via an encrypted email to vha12cspcarmaehr@va.gov, including the timestamp of the submission from VA.gov.
+     - Investigate the failure to determine root cause
+          - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
+     - Communicate on the #vecms-carma_vadotgov_development_external Slack channel to inform the CG Stakeholders and continue to update progress
+     - If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+     - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures
+          - PM will open maintenance window in PagerDuty if needed
+     - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
+     - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
+
 ---
 
 # Monitor: 1010CG controller error rate is above 10%
