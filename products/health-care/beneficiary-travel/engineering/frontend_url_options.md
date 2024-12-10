@@ -23,7 +23,7 @@ We begin working on a "preaproval" features, which allows Veterans to submit pre
 |/travel-pay/pre-approvals/{preapproval_id}|N/A|Details about a single travel reimbursement pre-approval|
 |/travel-pay/pre-approvals/new|N/A|Create a new pre-approval|
 
-It is easy to add these URLs because the organization is consistent - we know the pre-approvals are different from claims, but still related to travel-pay, so: `/travel-pay/pre-approvals`
+It is easy to add these URLs because the organization is consistent - we know the pre-approvals are different from claims, but still related to travel-pay, so: `/travel-pay/pre-approvals`. However, the readability of the URL, though organized, may be lacking when compared with options below.
 
 ## Action Category URLs
 - **Pros**: Separates notion of viewing claims and creating claims in the URL, which may be meaningful to Veterans.
