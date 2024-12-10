@@ -4,9 +4,9 @@
 
 Date: 12/09/2024
 
-[Fiorella Geedi](https://github.com/fiorella-io), [Email](mailto:fiorella.GeediCotrina@va.gov)
+👋🏽 [Fiorella Geedi](https://github.com/fiorella-io), [Email](mailto:fiorella.GeediCotrina@va.gov)
 
-[Research readout TBD](link here)
+➡ [Research deck presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/research/2024-09-VSO-Research/Burial_VSO_Research%20Findings-Knowledge_Transfer.pdf)
 
 **Jump to:**
 
