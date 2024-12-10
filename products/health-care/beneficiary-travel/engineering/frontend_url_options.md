@@ -6,6 +6,8 @@
 - **Pros**: Consistent organization makes it easy to add other links in the future.
 - **Cons**: More effort needed to set this structure up from the beginning, maybe too much emphasis put on organization in favor of readability.
 
+***Delivery Impact***: Around 1 sprint's worth of work, to account for IA involvement and work needed for setup/testing.
+
 |A Veteran navigates to...|...and is redirected to...|... and sees...|
 |-|-|-|
 |/travel-pay/|/travel-pay/claims/|A list of their travel reimbursement claims|
@@ -29,6 +31,8 @@ It is easy to add these URLs because the organization is consistent - we know th
 - **Pros**: Separates notion of viewing claims and creating claims in the URL, which may be meaningful to Veterans.
 - **Cons**: Inconsistent URL structure makes it more difficult to add URLs in the future.
 
+***Delivery Impact***: Around 1 sprint's worth of work, to account for IA involvement and work needed for setup/testing.
+
 |A Veteran navigates to...|...and is redirected to...|... and sees...|
 |-|-|-|
 |/travel-pay/|/travel-pay/claims/|A list of their travel reimbursement claims|
@@ -51,6 +55,8 @@ It is somewhat easy to add these URLs because we know they're different from cla
 ## Option 3: Claims-Specific URLs
 - **Pros**: Consistent organization makes reading the URL easier; separates notion of viewing claims and creating claims in the URL, which may be meaningful to Veterans; basically how CST does it. No Redirects
 - **Cons**: A stronger association with claims at the base level means potentially more effort and confusion when adding new URLs in the future.
+
+***Delivery Impact***: Little-to-no impact on delivery
 
 |A Veteran navigates to...|...and is redirected to...|... and sees...|
 |-|-|-|
