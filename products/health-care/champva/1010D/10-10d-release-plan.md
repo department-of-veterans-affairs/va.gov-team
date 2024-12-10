@@ -163,11 +163,14 @@ Beginning Monday, 12/9/24
 
 #### Results
 
-- Number of unique users: [FILL_IN]
+- Number of unique users: 16 submits
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Types of errors logged: One 500 error on submit, not sent to PEGA
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
+   - Confirming that our solution isn't duplicating uploads
+   - Captured new requirement to include metadata for sponsor and first applicant for 1010d
+   - Investigating whether we're stamping signers email on PDF 
 
 ### Stage B: 25% of users
 
