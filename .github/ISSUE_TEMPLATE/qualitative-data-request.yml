@@ -4,6 +4,7 @@ title: "Qualitative Data Request"
 labels: [ "VSP-contact-center", "cc-data-request" ]
 assignees:
     - Kimberley2023-CSM, ATMiddleton, newworld2616, aubreyarcangel
+projects: ["department-of-veterans-affairs/1403"]
 body:
   - type: markdown
     attributes:
