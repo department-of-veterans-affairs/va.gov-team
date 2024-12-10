@@ -1,4 +1,4 @@
-# Local Front-end Engineering Setup
+# Local (CMS) Front-end Setup
 
 ## `vets-website`
 
