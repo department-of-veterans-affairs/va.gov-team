@@ -19,7 +19,7 @@
     - [Spike - Setup DataDog to monitor Flipper feature toggles#96953](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96953)
 - **Cancel OH Appointments**
 - **Direct Scheduling OH Appointments**
-    - 🟩 [Update Facility Configurations Mock#96142](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96142)
+    - ✔️ [Update Facility Configurations Mock#96142](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96142)
     - 🟩 [Add patient relationship endpoint service and mocks#89641](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89641)
     - ✔️ [Staging: Patient Should be Able to Direct Schedule#67002](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/67002)
     - ✔️ [Enhancements and testing of vets-api endpoint for clinic sorting#89323](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89323)
@@ -30,8 +30,8 @@
 - **Move logic from FE to BE**
 - **Sunset MHV- classic**
 - **Appointments UI Improvements**
-    - 🟩 [Update alert [User is registered at 2+ facilities - dead ends] - Part 1#96993](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96993)
+    - ⛔ [Update alert [User is registered at 2+ facilities - dead ends] - Part 1#96993](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96993)
     - ✔️ [Update alert [User is registered at 2+ facilities - dead ends] - Part 2#96996](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96996)
     - ❗ 🟦🟩 [Update alert [User is registered at 2+ facilities - dead ends] - Part 3#96999](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96999)
-    - 🟩 [Update alert on choose a VA location page - Part 4 #96976](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96976)
+    - ✔️ [Update alert on choose a VA location page - Part 4 #96976](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96976)
     - ✔️ [Facility phone number issue on locations page#96156](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96156)
