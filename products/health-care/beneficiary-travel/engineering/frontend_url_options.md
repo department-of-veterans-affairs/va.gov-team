@@ -18,7 +18,7 @@
 |/travel-pay/help/|N/A|Text explaining the claim status definitions|
 
 ### Future Hypothetical Scenario
-We begin working on a "preaproval" features, which allows Veterans to submit preapprovals and check the status. Since these are not claims, we add the following URLs:
+We begin working on a "preapproval" feature, which allows Veterans to submit preapprovals and check the status. Since these are not claims, we add the following URLs:
 |A Veteran navigates to...|...and is redirected to...|... and sees...|
 |-|-|-|
 |/travel-pay/pre-approvals|N/A|A list of their travel reimbursement pre-approvals|
