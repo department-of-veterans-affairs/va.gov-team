@@ -5,14 +5,40 @@ Goal of the meeting series: addressing policy related or other open questions fo
 # 12/10/24 Biweekly VBA-DBEX Check-in
 Agenda
 1. Separation Location Code Requirements: Should we require separation location codes for Reservists who do not have Title 10 activation status?
-    
+    - it doesn't matter if they have title 10 activation
+    - next steps: look into what in the world this is doing. flow chart, screencapture/video of what fields are mapped to what with these questions
 2. Benefits Delivery at Discharge (BDD) End Date Validation: Should we standardize our approach to active duty end date validation for Reservist claims by either:
 
     a. Removing end date requirements across all claim types, or
 
     b. Maintaining the current end date validation specifically for BDD claims?
 
-3. Provide a Copy, PDF: Is there a legal or policy reason that the 526 PDF we provide to Veteran be the one from the eFolder? Is there a specific part or component of the form that must be the same? If it has to be from the eFolder, this significantly increases the engineering effort, if not we can do this much faster. 
+   - beyond 180 days they can't file a claim
+   - reservists can be way out in the future
+   - "obligation date" instead of "active duty date" for reservists/national guard?
+   - reservists are entering their obligation date at the military history section
+   - ask for two different military histories? one active duty, one not?
+   - list and loop for military service?
+   - david come up with 3 or 4 scenarios that we need to account for while looking at the UX
+   -- current reservist; coming out of active duty; hardest: current;y in reserves, on active duty, filing a claim based on federal orders in 2003
+   --  update language?
+   -- next steps:
+     1. no change to date validation,
+     2. designs from david,
+     3. shape research project to redesign the UX - address the issue of confusion of language "obligation" versus "active" duty. look to see if new 526 design incorporates this
+    
+             
+
+4. Provide a Copy, PDF: Is there a legal or policy reason that the 526 PDF we provide to Veteran be the one from the eFolder? Is there a specific part or component of the form that must be the same? If it has to be from the eFolder, this significantly increases the engineering effort, if not we can do this much faster.
+ - no real reason for it to be the exact copy from the eFolder
+ - be careful with date stamps because of timezones
+ - decision reviews teams looking into watermark on generated pdf retrieved from LH
+ -- don't need to care that much, but we'll check into it - LOE
+   next steps:
+   1. ask DR team about watermark
+   2. research options about eFolder interface
+   3. using generatePDF is a viable option if eFolder is high LOE
+   
 
 ## 10/29/24 Biweekly VBA-DBEX Check-in
 ### Notes
