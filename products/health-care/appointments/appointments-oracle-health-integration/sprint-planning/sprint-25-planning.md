@@ -25,7 +25,7 @@ In Sprint 24 the team provided support for multiple features and initiatives, ou
 * #### Backend support for Oracle Health to enable direct scheduling
  
  
- * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
+* #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
  
  
 * #### Testing/Admin/Operational Support
@@ -46,6 +46,7 @@ In Sprint 24 the team provided support for multiple features and initiatives, ou
    * 🚧 [CES-1350 CES: Make appointment creation in integration tests more managed](https://issues.mobilehealth.va.gov/browse/CES-1350)
    * [CES-1291 CIJL: Overload missing fluent setters for CesAppointment](https://issues.mobilehealth.va.gov/browse/CES-1291)
    * [VPG-26 VPG: Investigate potential performance issues with /eligibility endpoint](https://issues.mobilehealth.va.gov/browse/VPG-26)
-* 🔵 Direct Scheduling## ✈️ Planned Releases
+* 🔵 Direct Scheduling
    * [VPG-291 vets-api: update contract and examples for relationships endpoint to reference relationship type](https://issues.mobilehealth.va.gov/browse/VPG-291)
    * [VPG-292 vets-api: include failures array in relationships endpoint](https://issues.mobilehealth.va.gov/browse/VPG-292)
+## ✈️ Planned Releases
