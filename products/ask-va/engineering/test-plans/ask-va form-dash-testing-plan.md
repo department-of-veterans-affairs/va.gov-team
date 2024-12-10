@@ -11,9 +11,13 @@ Jump to:
 
 ## 1. Scope and Objectives
 - **Scope:** Ask VA form and dashboard covering all steps and fields, validation rules, usability and data submission. View our scope in [Ask VA variation points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/ask-va-variation-points.md).
-- **Objectives:** Ensure the form functions correctly, validates input, integrates properly with the backend, [CRM and other APIs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration), and provides a smooth user experience with appropriate accessibility expectations.
+- **Objectives:** Ensure the form and dashboard functions correctly, validates input, integrates properly with the backend, [CRM and other APIs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration), and provides a smooth user experience with appropriate accessibility expectations.
 
-Reference Docs: 
+### Test scripts
+- [Manual testing scenarios/scripts [DASHBOARD]](https://docs.google.com/spreadsheets/d/1-xoZGWJHGKkBQgQkzkPaSJv4A2xbQRMtv_jXVo5nNRI/edit?gid=760833484#gid=760833484)
+- [Manual testing scenarios/scripts [FORM]](https://docs.google.com/spreadsheets/d/1qbvf_sh9_haNIO5gsxdj-phGcRQgzoOaHn5Gtwp-gB0/edit?gid=745919254#gid=745919254)
+
+### Other references
 - [Dress Rehearsal (GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/test-plans/Test%20Dress%20Rehearsal.md)
 - [Visual Flow of Testing (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1724077180667/e055a7b6a2eb7bd0bd586ce7f4b6130d4343e524?sender=u44efa807e992cacf10cf3697)
 - [Differences between Categories (GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Similarities%20and%20differences%20between%20categories.md)
@@ -72,25 +76,25 @@ See our current test code [in this GitHub folder](https://github.com/department-
 ### Confirmed Automated UI Test Coverage for Start of Testing:
 A QA resource from the Collaboration Cycle Team confirmed the following test cases as sufficient for our release.
 
-Form submission
-- An Unauthenticated User, who is the Veteran, asking a question in the `Life insurance` category
-- An Authenticated User, who is the Veteran, asking a question in the `Health care` category
-- An Unauthenticated User, who is the veteran, asking a question in the `Health care` category
-- An Authenticated User, who is a business submitter, asking a question in the `Education benefits and work study` category
+#### Form submission test scripts
+- `2a` An Unauthenticated User, who is the Veteran, asking a question in the `Life insurance` category
+- `3a` An Authenticated User, who is the Veteran, asking a question in the `Health care` category
+- `4a` An Unauthenticated User, who is the veteran, asking a question in the `Health care` category
+- `5i` An Authenticated User, who is a business submitter, asking a question in the `Education benefits and work study` category
 
-Checking responses (dashboard)
-- An Unauthenticated User, Who is a submitter, checking status in the `Check the status of your question` question
-- An Authenticated User, who is a submitter, checking for responses on the dashboard
+#### Checking responses (dashboard) test scripts
+- `tbd` An Unauthenticated User, Who is a submitter, checking status in the `Check the status of your question` question
+- `tbd` An Authenticated User, who is a submitter, checking for responses on the dashboard
 
 ### Manual Testing
-- Scope: 
+- Scope: We'll go through all test scripts manually in the lower environment, when our VA.gov STAGING environment is pointed to the CRM QA environment. 
 - Test Cases: Usability, unexpected user behavior, error conditions, and edge cases to catch discrepancies in testing.
 
 **Manual Test Cases:**
-Initial cases will be drafted here:  - [Testing Approach Doc](https://dvagov-my.sharepoint.com/:w:/g/personal/shelby_carl_va_gov/EXQdtcz1ksFKpTiRiE8kkhABaZZlCNK0RTt3L7n77L-eqQ?e=2rAX87) - PIV access Required
+Initial cases will be drafted here:  
+- [Testing Approach Doc](https://dvagov-my.sharepoint.com/:w:/g/personal/shelby_carl_va_gov/EXQdtcz1ksFKpTiRiE8kkhABaZZlCNK0RTt3L7n77L-eqQ?e=2rAX87) - PIV access Required
 
-
-**Manual Accessibility Testing - aka Man QA **
+**Manual Accessibility Testing - aka Man QA**
 Manual QA was done via Assistive Tech Studies and/or done individually on the page level by a teammate. 
 - Example: Navigate the form with the keyboard, visually inspect the form, and verify form responsiveness on different devices.
   - **Required tools:** JAWS (to gain access [see Slack](https://dsva.slack.com/archives/C0552U2L30S/p1715866016698579) ) 
