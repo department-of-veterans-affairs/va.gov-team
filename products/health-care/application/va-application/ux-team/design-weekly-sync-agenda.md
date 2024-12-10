@@ -1,5 +1,38 @@
 # Design Weekly Sync Agenda
 
+## 2024-12-09
+Attendees: Alex, Angela, Emily, Heather, Hieu, Lois, and Renata
+
+### Upcoming Content Research Mtg with Danielle
+- We have a scheduled working session on Thursday this week, more to come on next steps after that meeting and whether we will need a regular meeting cadence with CAIA
+- EZ/CG: Eligibility wizard and potential content testing (Jessica's [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1731600312853/b3f7b42171fc661e8c0fbb2eabb4329bd5c21e12))
+- EZR: Static page content testing
+- ACTION ITEM: Update EZR research planning with desk research and a table with the Social Listening finding, the related content, and the ideas/research associated with that that we want to research
+
+### DC trip in early February
+- ACTION ITEM: Emily to schedule a sync with PO/PMs/DM to discuss what we'll be doing in-person
+
+### EZR Household Financial Information V2 research planning ([Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717026977599/1bfae008bd2a077800a265b87ab9f0e62ebbbb8d))
+- Lois would like more information about whether user testing prior to launch is the best approach, since we may not be testing with live data in a test environment.
+- Lois question: do we know the path Veterans take to the EZR? What's the business driver for this research? We know the old version is better than the new version, so do we need comparative testing?
+- ACTION ITEM: Hieu to work on providing additional context to research planning Mural, identifing the applicable method to be used, and whether there is a need to test before building.
+
+### DOMO Dashboard with Luis
+- Lois requests successful submission metrics by year (EZ/CG) and by month (EZR) from the PMs. There are some issues with getting data prior to 2022 in DD, per Heather.
+- ACTION ITEM: Lois remembers there being a huge dropoff in EZ or EZR when asking for a mailing address. Luis to confirm.
+
+### CG Research Presentation at the OCTO Design Sync
+- The deck read well with CG stakeholders last week, good job! Use that deck format for the OCTO read-out.
+- ACTION ITEM: Angela/Jessica to circle back with CG stakeholders about next steps
+
+### Blue Sky Authenticated Experience Presentation
+- Lois got the team invites, it's also in the team calendar for anyone who'd like to join
+- Lois would like the team to share Social Listening findings with that team soon
+- Will ask to see if the presentation can be recorded
+
+### Varia
+- ACTION ITEM: Renata to update Social Listening findings deck
+
 ## 2024-12-02
 Attendees: Angela, Hieu, Jessica, Lois, Renata, Alex, and Heather
 
