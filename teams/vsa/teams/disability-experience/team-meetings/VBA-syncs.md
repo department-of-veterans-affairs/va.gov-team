@@ -26,7 +26,7 @@ Agenda
    -- current reservist; coming out of active duty; hardest: current;y in reserves, on active duty, filing a claim based on federal orders in 2003
    --  update language?
    
-next steps:
+- next steps:
      1. no change to date validation,
      2. designs from david,
      3. shape research project to redesign the UX - address the issue of confusion of language "obligation" versus "active" duty. look to see if new 526 design incorporates this           
