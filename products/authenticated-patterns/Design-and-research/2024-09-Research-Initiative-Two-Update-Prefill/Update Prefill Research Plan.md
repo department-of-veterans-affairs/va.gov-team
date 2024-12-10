@@ -62,44 +62,42 @@ This research will help us refine these patterns and present recommendations for
 
 ### Research questions
 
-*Goal 1: Understand user expectations around what the prefill alert should look like across different pages.*
-
-* Does the alert on the unauthenticated form intro page entice users to login?
-* Does including a header in the alert or bolding where the updates will save impact perception or comprehension of the alert?
-
-*Goal 2: Understand how users expect their prefilled data to be displayed across the whole form.*
+*Goal 1: Understand how users expect their prefilled data to be displayed across the whole form.*
 
 * What do each of the 3 display options (“review style” versus gray or white card)  communicate to users?
 * Which display option is most clear?
 * Which option enables them to most easily edit their prefilled data?
+  
+*Goal 2: Understand user expectations around what the prefill alert should look like across different pages.*
 
-*Goal 3: Understand users’ expectations around why certain data can be edited within their profile and other data cannot.*
+* Does the alert on the unauthenticated form intro page entice users to login?
+* Does including a header in the alert or bolding where the updates will save impact perception or comprehension of the alert?
+
+*Goal 3: Understand how users expect the edit process to work and where they expect their edits to get saved.*
+
+* Where do they think the new information gets saved (profile versus form)?
+* Would they ever want to choose where this information gets saved? 
+* Does the confirmation message make it clear where the updates have been saved?
+  
+*Goal 4: Understand users’ expectations around why certain data can be edited within their profile and other data cannot.*
 
 * How do they feel about the ability to edit some data but not others?
 * Do they expect to see a different style of prefill data depending on if it is editable or not?
 * Does the explanation for why we limit edits to some user data increase user trust in VA?
 * Do they understand the steps they’d need to take to update their uneditable data?
 
-*Goal 4: Understand if users want or need a confirmation step before submitting forms with prefilled data.*
+*Goal 5: Understand if users want or need a confirmation step before submitting forms with prefilled data.*
 
 * Do users expect to see uneditable prefill data on the review page?
 * Do users want to see the additional info component explaining why they can’t update this data on the review page or not?
 
-*Goal 5: Understand how users expect the edit process to work and where they expect their edits to get saved.*
-
-* Where do they think the new information gets saved (profile versus form)?
-* Would they ever want to choose where this information gets saved? 
-* Does the confirmation message make it clear where the updates have been saved?
-
-
 ### Hypotheses
 
-1. The unauthenticated prefill alert will entice users to sign in to complete their form.
-2. The gray and white card combination will be the preferred style of reviewing prefilled information.
+1. The gray and white card combination will be the preferred style of reviewing prefilled information.
+2. Users will want to save updates made to their profile, but will appreciate the choice.
 3. Clarifying how to edit uneditable data will make users feel confident in knowing how to do so.
 4. Users won’t want to see uneditable prefill data on the review page. 
-5. Users will want to save updates made to their profile, but will appreciate the choice.
-
+5. The unauthenticated prefill alert will entice users to sign in to complete their form.
 
 ## Methodology	
 
