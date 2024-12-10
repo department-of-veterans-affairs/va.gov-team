@@ -32,6 +32,7 @@ Attendees: Alex, Angela, Emily, Heather, Hieu, Lois, and Renata
 
 ### Varia
 - ACTION ITEM: Renata to update Social Listening findings deck
+- ACTION ITEM: Heather to upload EZR means testing/financial information reporting letters from HEC to GH
 
 ## 2024-12-02
 Attendees: Angela, Hieu, Jessica, Lois, Renata, Alex, and Heather
