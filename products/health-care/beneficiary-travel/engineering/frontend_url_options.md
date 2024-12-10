@@ -2,6 +2,31 @@
 
 **All URLs begin with `https://va.gov/my-health`**
 
+## Recommendation: Meaningful, API-Style URLs
+- **Pros**: Consistent organization makes it easy to add other links in the future. Good readability makes URLs semantically meaningful.
+- **Cons**: Organization can feel cumbersome while the project is small.
+  
+***Delivery Impact***: Around 1 sprint's worth of work, to account for IA involvement and work needed for setup/testing.
+
+|A Veteran navigates to...|...and is redirected to...|... and sees...|
+|-|-|-|
+|/travel-pay/|/travel-pay/claims/|A list of their travel reimbursement claims|
+|/travel-pay/claims/|N/A|A list of their travel reimbursement claims|
+|/travel-pay/claims/{claim_id}|N/A|Details about a single travel reimbursement claim|
+|/travel-pay/claims/file-new-claim/|N/A|Mileage-only claim explanation & link to appointment list|
+|/travel-pay/claims/file-new-claim/{appt_id}|N/A|The starting point for submitting a mileage-only claim|
+|/travel-pay/help/|N/A|Text explaining the claim status definitions|
+
+### Future Hypothetical Scenario
+We begin working on a "preapproval" feature, which allows Veterans to submit preapprovals and check the status. Since these are not claims, we add the following URLs:
+|A Veteran navigates to...|...and is redirected to...|... and sees...|
+|-|-|-|
+|/travel-pay/pre-approvals|N/A|A list of their travel reimbursement pre-approvals|
+|/travel-pay/pre-approvals/{preapproval_id}|N/A|Details about a single travel reimbursement pre-approval|
+|/travel-pay/pre-approvals/file-new-approval|N/A|Create a new pre-approval|
+
+It is easy to add these URLs because the organization is consistent - we know the pre-approvals are different from claims, but still related to travel-pay, so: `/travel-pay/pre-approvals`. This approach combines the consistent organization of alternative 1 with the readability of alternatives 2 & 3, making it our recommendation.
+
 ## Option 1: API-Style URLs
 - **Pros**: Consistent organization makes it easy to add other links in the future.
 - **Cons**: More effort needed to set this structure up from the beginning, maybe too much emphasis put on organization in favor of readability.
