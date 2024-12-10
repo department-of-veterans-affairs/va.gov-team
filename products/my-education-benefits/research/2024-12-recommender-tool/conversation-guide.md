@@ -100,12 +100,12 @@ You are currently on the "How to Apply" online page on VA.gov. (Retierate the ap
 - What would you do to finish logging in?
 
 Qualitative questions:
-- Looking at the [recommended form], does it feel like you're in the right place?
+- Looking at the recommended form, does it feel like you're in the right place?
 - What is your confidence level looking at this information?
-- Did you find all the information you were looking for? If so, what in particular?
+- What was your experience in locating the recommended form? Was there anything in particular that helped you find it here?
 - Were there any parts that felt unclear or unneccessary?
-- Is the language on the screen clear and helpful? Or is it confusing? What in particular makes it so?
-- Were there any terms that you found unclear or difficult to interpret?
+- How was your experience with the language used? Was it clear and helpful? Or is it confusing? What in particular makes it so?
+- How were you interpreting messaging and instructions surrounding the recommendation?
 
 ### Things to watch for:
 Un-Authenticated State, clicking log-in:
@@ -137,12 +137,12 @@ Probing questions (if user is having trouble proceeding):
 - Where else might you look to find an alternate application?
 
 Qualitative questions:
-- How are you understanding the alternate recommendations? Is there anything in particular thats confusing?
-- How well did the information presented meet your needs or expectations?
-- Was there any important information missing that you expected to see? If so, what in particular?
-- Was the language easy to understand? Were there any terms that you found unclear or difficult to interpret?
-- Were any instructions or messages hard to follow?
+- What was your experience in locating the alternate recommendations?
+- How are you understanding the alternate recommendations?
+- In what ways did the information presented meet your needs or expectations?
+- How were you interpreting messaging and instructions surrounding the alternate recommendation(s)?
 - Now lets say you didn’t like that, what else on this page would you expect to be an option?
+- How was your overall experience finding the recommended and alternate recommendations for these applications?
 
 ### Things to watch for:
 
@@ -155,11 +155,9 @@ Qualitative questions:
 
 ## Post-Task Interview - 5 minutes
 
-- How was your experience in receiving the recommended application in each of the flows? What factors made it easy or what factors made it hard?
-- How was your experience in locating the secondary recommendation in each the flows? What factors made it easy or what factors made it hard?
-- Which of the flows was the easiest for you? What factors made that flow particularly easy or easier than the others?
-- Was there anything in particular that was hard to find? What made it hard to find?
-- Was there anything in particular that that you found confusing? What made it confusing?
+- How was your experience in receiving the recommended application in each of the flows?
+- How was your experience in locating the secondary recommendation in each the flows? 
+- Was there anything in particular that was hard to find or confusing?
 - Are there any factors that differentiated the flows from each other? Were those factors helpful or did they make the process more confusing (try to get specifcs)?
 - Any questions for me? 
 <p>&nbsp;</p>
