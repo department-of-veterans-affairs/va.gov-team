@@ -360,7 +360,7 @@ More often than not, however, claimants are coming in too long after those lette
 
 ## **Summary of Recommendations**
 
-##### Better inform Veterans and their families about different aspects of Veterans Pension
+#### Better inform Veterans and their families about different aspects of Veterans Pension
 
 Examples for future work may include: 
 
@@ -373,7 +373,7 @@ Examples for future work may include:
   * Pension poachers and accredited representatives  
 * \[Potentially out of scope\] Identify what group(s) work on messaging and outreach strategies to inform Veterans about Veterans Pension beyond VA.gov.
 
-##### Ease form completion and processing burden
+#### Ease form completion and processing burden
 
 Examples for future work may include: 
 
@@ -388,7 +388,7 @@ Examples for future work may include:
 * Revisit whether we should include information about the Fully Developed Claim (FDC) program on our form.  
 * Revisit the language in our form about supporting documentation to clarify how submitting all documentation at once may impact processing times.
 
-##### Simplify the experience of receiving and maintaining pension benefits
+#### Simplify the experience of receiving and maintaining pension benefits
 
 Examples for future work may include: 
 
@@ -397,7 +397,7 @@ Examples for future work may include:
 * Consider what resources may be beneficial to share with Veterans after they’ve filed a pension claim, as well as how and where we might best communicate information about those resources.  
 * Better set expectations on the claims processing timeline and claims status for Veterans on the online form.
 
-##### Consider additional research to further explore related areas not included in this study but show signals of note
+#### Consider additional research to further explore related areas not included in this study but show signals of note
 
 Future research areas may include: 
 
