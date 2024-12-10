@@ -52,7 +52,8 @@ On moving all data from the 'Yellow Ribbon school finder' tool into the 'GI Bill
 - Link label: Find a Yellow Ribbon school
 - Notes: Remove tool from the left nav.
 - Implementation Notes: CAIA IA to remove
-<img width="197" alt="Screenshot 2024-12-09 at 2 26 02 PM" src="https://github.com/user-attachments/assets/2c00a288-90ca-4af0-b76e-48545f266ae0">
+<img width="523" alt="yr 1" src="https://github.com/user-attachments/assets/38b9530d-b38d-4917-9ac4-7b99e6f1463c">
+
 
 ### Crosslinks
 *CAIA content will identify all places that link to the Yellow Ribbon tool and will modify the link to direct visitors to the new location of the information or remove the link if its no longer applicable in that context.*
