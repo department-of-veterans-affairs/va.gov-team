@@ -18,11 +18,11 @@
 
 ## <a name="ruidelines"></a>Overall guidelines<br>
 - All content, data, new functionality, and child pages related to migrating data from WEAMS and creating homes for it in the Comparison Tool must be built in or under the parent url of https://www.va.gov/education/gi-bill-comparison-tool.
-- How pages under that section are structured is up to the team building the section.
-- Follow VADS standards for all URLs, breadcrumbs, page titles, and navigational components such as side nav and links.
+- How sub-pages under that parent URL are structured is up to the product team.
+- Follow VADS standards for all [URLs](https://design.va.gov/components/url-standards/), [breadcrumbs](https://design.va.gov/components/breadcrumbs), [page titles](https://design.va.gov/content-style-guide/page-titles-and-section-titles).
 - Any pages created must have a clear entry point - a way for visitors to navigate to the page through links and navigation components. Pages cannot be reachable only via search.
 - Key SEO elements - page titles and intro text - should be differentiated from other pages in the Education hub. For example, do not create a sub-page of the comparison tool named "Education benefits management".
-- If you want a link added to the online form added to the "Find a form" search tool, please submit a ticket to CAIA.
+  
 
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
@@ -68,33 +68,31 @@ All data and flows migrated into the Comparison Tool must be located at the curr
 ### Navigation pathways and entry point for launch
 See more about [navigation pathways and entry points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/entry-points.md). Teams must launch with at least one navigation pathway.
 
-**1) Education benefit hub page - Modify**
+**1) [Education benefit hub page](https://www.va.gov/education/) - Modify**
 - Placement description: Keep the entry point's current location. Update the header and descriptive text to reflect the additional content added into the Comparison Tool.
 - Link label: [TBD by CAIA Content]
 - Link destination: va.gov/education/gi-bill-comparison-tool
 - Implementation Notes: CAIA IA will update the Education Hub page, on go-live of the changes to the tool
+![weams 2](https://github.com/user-attachments/assets/a48c651f-6459-4a82-8c4e-3307e58026cf)
 
 ### Secondary entry points
 _Any additional locations that the page should be navigable from such as the "About a form" page, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc.   These are secondary, and while they are still very important, are not required for launch._
 
-**1. Add/Modify/Remove page/menu name** - 
-- Placement description: Mega Menu, 
-- Link label:
-- Link destination:
-- Who will update (IA, content, product team):
-- When will this entry point go live (at launch? After staged rollout? after some designated time?):
-- Notes:
+**1. Mega menu - Modifications TBD** - 
+- Placement description: Mega Menu link card
+- Link label: Keep current header text and descriptive text, or update to reflect additional data available in the tool. (Changes TBD by CAIA Content)
+- Link destination: va.gov/education/gi-bill-comparison-tool
+- Who will update (IA, content, product team): CAIA IA
+- When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
+- Notes: Finalize whether this should link to the new Landing Page, or to the School Comparison
+
+**2. Left Nav - Retain** - 
+- Placement description: Education hub left nav 
+- Notes: Including here to be thorough - no changes needed at this point. Left nav navigation link should stay in its current location, should still display the name of the tool, and should direct to the highest-level url va.gov/education/gi-bill-comparison-tool
 
 ### Crosslinks
-_Not required. Links in content or in related links sections of other pages that point to this feature. This includes places where an existing crosslink may need to be updated. This section is not intended to capture every crosslinking placement, it is only to capture placements identified during the IA design process for reference.  Crosslinks are primarily identified by the content team and stakeholders.  The content team will be responsible for finding all existing referring links that may need to be updated._
+CAIA content will identify all places that link to the Yellow Ribbon tool and will modify the link to direct visitors to the new location of the information or remove the link if its no longer applicable in that context.
 
-**1. Add/Modify/Remove link on a specific page** - 
-- Placement description: 
-- Link label:
-- Link destination:
-- Who will update (IA, content, product team):
-- When will this entry point go live (at launch? After staged rollout? after some designated time?):
-- Notes: 
 
 ## <a name="launchstuff"></a>Launch coordination activities <br>
 
