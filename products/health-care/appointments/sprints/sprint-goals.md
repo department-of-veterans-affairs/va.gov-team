@@ -8,15 +8,26 @@
 - ❗ 🟩 [Use platform's renderWithStoreAndRouter#96542](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96542))
 
 ## FUTURE SPRINT 22 - 12/11/2024-12/24/2024 
+- **Oracle Health**
+    - ❗ 🟦 [Recent clinics endpoint enhancements#98521]([add url to the ticket https://](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98521))
+    - 🟦 [Recent clinics endpoint is returning a clinic with null attributes#98519](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98519)
+    - 🟩 [Update alert on choose a VA location page - Part 7#98190](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98190)
+    - 🟩 [Update alert on choose a VA location page - Part 8#98191](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98191)
+    - 
+- **Direct Scheduling OH**
+    - ❗ 🟩 [Add initial screen and placeholder data for Select a Provider step#98224]([add url to the ticket https://](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98224))
+    - 
+    - 
 - **Appointments UI Improvements**
    - ❗ 🟩 [Update the OH redirect alert on the VAOS home page#96736](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96736)
+   - ❗ 🟩 [Remove links to My VA Health from DS location page#96902](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96902)
 
 ## SPRINT 21 - 11/27/2024-12/10/2024
 - **Production Support**
     - ✔️ [Support alert assertions in VAOS unit tests#82624](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/82624)
     - 
 - **Zero silent Failures**
-    - [Spike - Setup DataDog to monitor Flipper feature toggles#96953](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96953)
+    - ✔️[Spike - Setup DataDog to monitor Flipper feature toggles#96953](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96953)
 - **Cancel OH Appointments**
 - **Direct Scheduling OH Appointments**
     - ✔️ [Update Facility Configurations Mock#96142](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96142)
@@ -24,7 +35,7 @@
     - ✔️ [Staging: Patient Should be Able to Direct Schedule#67002](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/67002)
     - ✔️ [Enhancements and testing of vets-api endpoint for clinic sorting#89323](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89323)
     - 
-- **Request OH Appointments**
+- **Direct Scheduling OH**
     - ❗ 🟦🟩 [Production Support](add url to the ticket https://)
     - 
 - **Move logic from FE to BE**
