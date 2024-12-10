@@ -178,7 +178,7 @@ Beginning Monday, 12/9/24
 
 #### Planning
 
-- Length of time: 48 hours (Tuesday to Thursday)
+- Length of time: 48 hours (Tuesday to Thursday) beginning 12/10/24
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
