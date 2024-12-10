@@ -166,7 +166,7 @@ For an application to enter rollout Phase 0, the following must be true:
     - Dashboard exists
      
 
-- [ ] Domo 
+- [X] Domo 
     - Access
 
     - Dashboard exists 
