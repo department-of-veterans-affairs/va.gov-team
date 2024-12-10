@@ -35,8 +35,8 @@
     - ✔️ [Staging: Patient Should be Able to Direct Schedule#67002](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/67002)
     - ✔️ [Enhancements and testing of vets-api endpoint for clinic sorting#89323](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89323)
     - 
-- **Direct Scheduling OH**
-    - ❗ 🟦🟩 [Production Support](add url to the ticket https://)
+- **Requests Appointments OH**
+    -  🟦🟩 ....
     - 
 - **Move logic from FE to BE**
 - **Sunset MHV- classic**
