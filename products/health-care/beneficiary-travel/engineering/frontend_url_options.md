@@ -81,7 +81,7 @@ It is somewhat easy to add these URLs because we know they're different from cla
 - **Pros**: Consistent organization makes reading the URL easier; separates notion of viewing claims and creating claims in the URL, which may be meaningful to Veterans; basically how CST does it. No Redirects
 - **Cons**: A stronger association with claims at the base level means potentially more effort and confusion when adding new URLs in the future.
 
-***Delivery Impact***: Little-to-no impact on delivery
+***Delivery Impact***: Around 1/2 sprint's worth of work
 
 |A Veteran navigates to...|...and is redirected to...|... and sees...|
 |-|-|-|
