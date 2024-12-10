@@ -126,13 +126,13 @@ All participants walked through all 3 core scenarios below. In order to compare 
 
 2. On the introduction page, participants did not engage with the intent to file content until prompted; they prioritized checking their eligibility. 
 
-3. Participant questions largely centered around the application burden to get approved and how long it may take for VA to process their claim.
+3. Although participants didn’t expect to be directed to the ITF status page after clicking ‘Start the pension application’, the page and its content was not disruptive to their application experience. 
 
-4. Although participants didn’t expect to be directed to the ITF status page after clicking ‘Start the pension application’, the page and its content was not disruptive to their application experience. 
+4. Participants were confused by the term “potential start date" and had difficulty making sense of why the date wouldn’t be guaranteed.
 
-5. Participants were confused by the term “potential start date" and had difficulty making sense of why the date wouldn’t be guaranteed.
+5. Participants understood the consequences of their deadline when returning to their in-progress application, but it was unclear whether or not they grasped the financial impact.
 
-6. Participants understood the consequences of their deadline when returning to their in-progress application, but it was unclear whether or not they grasped the financial impact.
+6. Participant questions largely centered around the application burden to get approved and how long it may take for VA to process their claim.
 
 ## **Details of findings**
 
@@ -162,7 +162,61 @@ One participant mentioned that they thought the content was helpful, although th
 
 > P5: “Yeah, that \[the alert\] seems normal. I think Social Security people do the same thing. They have a date that they file and a date they approve the application. And I just went through this process with a friend, that's why I know.”
 
-### **Finding 3: Participant questions largely centered around the application burden to get approved and how long it may take for VA to process their claim.**
+### **Finding 3: Participants didn’t expect to be directed to the ITF status page after clicking ‘Start the pension application’, the page and its content was not disruptive to their application experience.** 
+
+All participants expected to be brought to the first page of the application after clicking, ‘Start the pension application’.
+
+![The first three screens of our prototype flow](../2024-10%20Intent%20to%20File%20Comprehension/images/finding-4-flow.jpg)
+
+When they were directed to the status page instead, some participants perceived the page as "redundant" or "unnecessary" because it reiterated similar information from the introduction page.
+
+> P3: "I would just continue. And hopefully it would go to the application...Cause if there’s another page, that’s when I’m going to start getting frustrated."
+
+When first encountering the *Processing* scenario that did not display a date, some participants expected to see their application start date, or their saved effective date for benefits on the status page.
+
+Whereas some who first encountered the *Success* scenario reacted to the status page positively.
+
+> P9: “Alright, that's good there...that was information I was thinking for the previous page, but it makes sense to have it there, where you’re letting the Veteran know. And having it as its own page really emphasizes that these are the dates, and this is what’s happening with the intent to file and the back pay.”
+
+Despite these varied reactions to the status page, participants were not hindered from continuing their application. 
+
+Similarly, all participants expected to be directed to the last step they were working on after clicking “Continue your application”. The ITF status page was omitted from the *Returning* scenario, and participants did not identify any information they felt were missing. 
+
+As a closing question, we asked participants how their experience impacted their understanding of intent to file. Some participants remarked that their experience with the prototype clarified their understanding of intent to file, while other participants that had submitted an ITF before described that the experience did not change their understanding.
+
+> P5: “So I had a friend that I went through this whole process with, but I don’t ever remember seeing this whole intent to file thing. Maybe it was just me because I wasn't paying attention, but it seems like it should be. It seems like a good thing for people to know."
+
+> P3: "I think it's the same. \[...\] It's like most of my experiences on VA.gov. It's pretty simple, self-explanatory, it walks you through the steps. There's not a lot of wording, it's fairly quick and easy."
+
+### **Finding 4: Participants were confused by the term “potential start date" and had difficulty making sense of why the date wouldn’t be guaranteed.**
+
+Specifically, the word "potential” in “potential start date" was confusing for most participants. They interpreted that their start date would not be guaranteed because the date depended on the Veteran’s circumstances, when VA ultimately approves their claim, or unknown factors. This perception differed from our intent of informing Veterans that their start date was dependent on whether or not they would be approved. 
+
+![Highlights of qualifying language in our prototype](../2024-10%20Intent%20to%20File%20Comprehension/images/finding-5-language.jpg)
+
+One participant referenced the Monday to Friday call center operating hour and considered that if they submitted their intent to file on a weekend, it would not be received by VA until the next working day. According to [38 CFR 3.110](http://ecfr.gov/current/title-38/chapter-i/part-3/subpart-a/subject-group-ecfr63da83ba671b92b/section-3.110), this policy may be true for intent to file submissions handled over the phone or by mail but needs to be confirmed with our VBA stakeholders.
+
+> P3: “Well...I don't know why it uses the word 'potential.' I mean, to me, that just says a start date for your payments. Throwing in that ‘potential’, I guess that means that potentially they might not start on that date? But I don't know why.”
+
+> P9: \[When do you think that potential date might be?\] "It could possibly be up to a week from filling out this form and doing the first save \[...\] Looking at it saying, ‘We’re here Monday through Friday’, if I’m filling this out on Saturday, I would suspect that the potential start date wouldn’t be until the Monday or Tuesday once it had a chance to be reviewed by somebody.”
+
+However, even though participants did not know why their potential start date may not be the day they started their application, the wording didn't prompt them to stop or leave the application to seek out clarity. They reiterated that their next step would be to continue through application.
+
+### **Finding 5: Participants understood the consequences of their deadline when they returned to their in-progress application, but it was unclear whether or not they grasped the financial impact.**
+
+In the *Returning* scenario, most participants recognized that after the due date displayed, they would have to start a new application, and that they risked resetting their start date for benefits. The date displayed and its explanation did not raise concerns from participants. 
+
+However, it was unclear whether or not all participants understood that less back payments was the consequence of a later start date.
+
+![Alert when returning to an in-progress application](../2024-10%20Intent%20to%20File%20Comprehension/images/finding-6-date.png)
+
+> P8: “They're basically saying, finish this application that you started on July 10, or you need to start a new application, and you're gonna lose your old potential start date. Your new start date will be when you start this new application.” 
+
+> P9: “Also that last sentence too. Really lets the person know to get it complete by that date, otherwise it will financially impact you."
+
+One participant incorrectly assumed that by starting a new application before it was due, their ITF date would still be reset. The existing logic on VA.gov ensures that an intent to file is active for one year, regardless of whether or not a user restarts a new application. 
+
+### **Finding 6: Participant questions largely centered around the application burden to get approved and how long it may take for VA to process their claim.**
 
 **Application burden**
 
@@ -189,60 +243,6 @@ Some participants also noticed on the introduction page that we estimate the app
 One participant in particular remarked that the information about intent to file makes more sense if Veterans are informed that the timeline for claims is long, and that the back payments are more substantial as a result. 
 
 > P6: “This \[information about ITF\] makes sense, but it makes even more sense in the context of 'This could take 12 months'. If you didn't know that, you’d be like, what's the difference if I file now or next month, if it’s a 30 day process?"
-
-### **Finding 4: Participants didn’t expect to be directed to the ITF status page after clicking ‘Start the pension application’, the page and its content was not disruptive to their application experience.** 
-
-All participants expected to be brought to the first page of the application after clicking, ‘Start the pension application’.
-
-![The first three screens of our prototype flow](../2024-10%20Intent%20to%20File%20Comprehension/images/finding-4-flow.jpg)
-
-When they were directed to the status page instead, some participants perceived the page as "redundant" or "unnecessary" because it reiterated similar information from the introduction page.
-
-> P3: "I would just continue. And hopefully it would go to the application...Cause if there’s another page, that’s when I’m going to start getting frustrated."
-
-When first encountering the *Processing* scenario that did not display a date, some participants expected to see their application start date, or their saved effective date for benefits on the status page.
-
-Whereas some who first encountered the *Success* scenario reacted to the status page positively.
-
-> P9: “Alright, that's good there...that was information I was thinking for the previous page, but it makes sense to have it there, where you’re letting the Veteran know. And having it as its own page really emphasizes that these are the dates, and this is what’s happening with the intent to file and the back pay.”
-
-Despite these varied reactions to the status page, participants were not hindered from continuing their application. 
-
-Similarly, all participants expected to be directed to the last step they were working on after clicking “Continue your application”. The ITF status page was omitted from the *Returning* scenario, and participants did not identify any information they felt were missing. 
-
-As a closing question, we asked participants how their experience impacted their understanding of intent to file. Some participants remarked that their experience with the prototype clarified their understanding of intent to file, while other participants that had submitted an ITF before described that the experience did not change their understanding.
-
-> P5: “So I had a friend that I went through this whole process with, but I don’t ever remember seeing this whole intent to file thing. Maybe it was just me because I wasn't paying attention, but it seems like it should be. It seems like a good thing for people to know."
-
-> P3: "I think it's the same. \[...\] It's like most of my experiences on VA.gov. It's pretty simple, self-explanatory, it walks you through the steps. There's not a lot of wording, it's fairly quick and easy."
-
-### **Finding 5: Participants were confused by the term “potential start date" and had difficulty making sense of why the date wouldn’t be guaranteed.**
-
-Specifically, the word "potential” in “potential start date" was confusing for most participants. They interpreted that their start date would not be guaranteed because the date depended on the Veteran’s circumstances, when VA ultimately approves their claim, or unknown factors. This perception differed from our intent of informing Veterans that their start date was dependent on whether or not they would be approved. 
-
-![Highlights of qualifying language in our prototype](../2024-10%20Intent%20to%20File%20Comprehension/images/finding-5-language.jpg)
-
-One participant referenced the Monday to Friday call center operating hour and considered that if they submitted their intent to file on a weekend, it would not be received by VA until the next working day. According to [38 CFR 3.110](http://ecfr.gov/current/title-38/chapter-i/part-3/subpart-a/subject-group-ecfr63da83ba671b92b/section-3.110), this policy may be true for intent to file submissions handled over the phone or by mail but needs to be confirmed with our VBA stakeholders.
-
-> P3: “Well...I don't know why it uses the word 'potential.' I mean, to me, that just says a start date for your payments. Throwing in that ‘potential’, I guess that means that potentially they might not start on that date? But I don't know why.”
-
-> P9: \[When do you think that potential date might be?\] "It could possibly be up to a week from filling out this form and doing the first save \[...\] Looking at it saying, ‘We’re here Monday through Friday’, if I’m filling this out on Saturday, I would suspect that the potential start date wouldn’t be until the Monday or Tuesday once it had a chance to be reviewed by somebody.”
-
-However, even though participants did not know why their potential start date may not be the day they started their application, the wording didn't prompt them to stop or leave the application to seek out clarity. They reiterated that their next step would be to continue through application.
-
-### **Finding 6: Participants understood the consequences of their deadline when they returned to their in-progress application, but it was unclear whether or not they grasped the financial impact.**
-
-In the *Returning* scenario, most participants recognized that after the due date displayed, they would have to start a new application, and that they risked resetting their start date for benefits. The date displayed and its explanation did not raise concerns from participants. 
-
-However, it was unclear whether or not all participants understood that less back payments was the consequence of a later start date.
-
-![Alert when returning to an in-progress application](../2024-10%20Intent%20to%20File%20Comprehension/images/finding-6-date.png)
-
-> P8: “They're basically saying, finish this application that you started on July 10, or you need to start a new application, and you're gonna lose your old potential start date. Your new start date will be when you start this new application.” 
-
-> P9: “Also that last sentence too. Really lets the person know to get it complete by that date, otherwise it will financially impact you."
-
-One participant incorrectly assumed that by starting a new application before it was due, their ITF date would still be reset. The existing logic on VA.gov ensures that an intent to file is active for one year, regardless of whether or not a user restarts a new application. 
 
 ### **Secondary Findings**
 
