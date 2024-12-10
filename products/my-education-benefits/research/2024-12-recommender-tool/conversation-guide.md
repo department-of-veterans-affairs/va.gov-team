@@ -100,12 +100,9 @@ You are currently on the "How to Apply" online page on VA.gov. (Retierate the ap
 - What would you do to finish logging in?
 
 Qualitative questions:
-- Looking at the recommended form, does it feel like you're in the right place?
-- What is your confidence level looking at this information?
+- What is your impression?
 - What was your experience in locating the recommended form? Was there anything in particular that helped you find it here?
-- Were there any parts that felt unclear or unneccessary?
-- How was your experience with the language used? Was it clear and helpful? Or is it confusing? What in particular makes it so?
-- How were you interpreting messaging and instructions surrounding the recommendation?
+- Looking at the recommended form, does it feel like you're in the right place and what is your confidence level looking at this information?
 
 ### Things to watch for:
 Un-Authenticated State, clicking log-in:
@@ -137,12 +134,9 @@ Probing questions (if user is having trouble proceeding):
 - Where else might you look to find an alternate application?
 
 Qualitative questions:
-- What was your experience in locating the alternate recommendations?
-- How are you understanding the alternate recommendations?
-- In what ways did the information presented meet your needs or expectations?
-- How were you interpreting messaging and instructions surrounding the alternate recommendation(s)?
-- Now lets say you didn’t like that, what else on this page would you expect to be an option?
-- How was your overall experience finding the recommended and alternate recommendations for these applications?
+- What are your impressions of the alternate recommendations?
+- What was your experience in locating the alternate recommendation? Was there anything in particular that helped you find it here?
+- What is your confidence level looking at the alternate recommendations?
 
 ### Things to watch for:
 
