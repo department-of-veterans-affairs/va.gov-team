@@ -1,6 +1,6 @@
 # New Confirmation Page & Primary Path Received Email
 Submission Experience 1.0
-
+ 
 
 ## Purpose
 This document outlines Submission Experience 1.0, our first major release focused on helping Veterans feel more confident when submitting disability claims on VA.gov by making the process clearer and more reliable.
