@@ -1,3 +1,4 @@
+```
 /front-end
   ├─ README.md              # High-level structure of the front-end codebase and docs index
   ├─ getting-started/       # Basics for new developers to ramp up
@@ -35,3 +36,4 @@
   │
   └─ changelogs/                 # Keep track of changes over time, if needed
       └─ Readme.md (If you have version-based docs, put them here)
+```
