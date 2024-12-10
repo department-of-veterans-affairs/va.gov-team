@@ -1,11 +1,18 @@
-# IA Design for [Product/page name]
-**STATUS: [In progress/In review/Complete]**
+# IA Design for WEAMS Migration of National Tests and Licenses & Certifications data
+**STATUS: [In progress]**
 
-**Team:** [Team name]
+- **Team:** EDM Team
+- **PMs:** Cassidy Beach, Theresa Simone
+- **UX Designer:** Sneha Kulkarni
+- **Business Analyst:** Jenn Drahota
+- **CAIA IA:** Sam Walker
 
-**CAIA Intake ticket:**
+- **CAIA Intake ticket:** [92369](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92369)
+- **IA Tracker:** [95208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95208)
+- **CC Intake:** [90889](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90889)
+- **Figma design files:** [Desktop](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=72-1228&node-type=canvas&t=etnWBEfJkurm6JoP-0), [Licenses & certifications on mobile](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=1122-38781&node-type=canvas&t=JDAGEOPE8D1fFZwJ-0), [Search results on mobile
+](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=2273-321672&node-type=canvas&t=XqMTcBSnWK9UgZfB-0)
 
-**IA Tracker:** 
 
 **On this page:**
 - [Overall Guidelines](#guidelines)
