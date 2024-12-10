@@ -39,6 +39,7 @@ The "Update Prefilled Information" pattern addresses these gaps by enabling user
 - **Indication of Immutable Fields**:
   - For information that cannot be edited, a message will be displayed to users explaining why they cannot edit this information and how they can edit it. 
     - Note that is always visible
+    - Additional info component on the review page 
       
 - **Radio button question asking users where they wish to save their changes**: to both form and profile or only to the form
 
@@ -57,12 +58,11 @@ The "Update Prefilled Information" pattern addresses these gaps by enabling user
 
 In a white card
 
-![Screenshot 2024-12-04 at 10 51 30 AM](https://github.com/user-attachments/assets/70dede49-db94-4533-9356-9de6af5b911b)
+<img width="423" alt="Screenshot 2024-12-10 at 7 40 51 AM" src="https://github.com/user-attachments/assets/52a8b486-fe09-4a48-a792-bb6da0e938cf">
 
 - A note below the uneditable data will explain how to update their information and why it is uneditable on the site.
 
-![Screenshot 2024-11-08 at 1 07 45 PM](https://github.com/user-attachments/assets/ffec467d-0798-4130-aae6-6233024f1b3b)
-
+<img width="426" alt="Screenshot 2024-12-10 at 7 42 45 AM" src="https://github.com/user-attachments/assets/8311ba33-43b9-4c2a-8ee0-efa2186d8937">
 
 ### When users get to a page with editable information:
 
@@ -75,7 +75,7 @@ In a white card
 
 ### When the user clicks on the Edit link:
 - They will be taken to an edit page displaying their prefilled data within the form fields
-- If updates to the form will also automatically save to the user's profile, the alert below is displayed
+- If updates to the form will also automatically save to the user's profile, the alert below is displayed at the top of the page
   
 ![Screenshot 2024-12-03 at 2 20 21 PM](https://github.com/user-attachments/assets/2863e0bf-2190-454d-8106-ecacf8eb7044)
 
@@ -92,6 +92,10 @@ In a white card
 
 
 ### On the Review page:
+- In the Personal Information section, which cannot be edited, an Additional Info component is displayed at the top. This component provides users with an explanation of why their personal information cannot be edited online.
+  
+<img width="398" alt="Screenshot 2024-12-10 at 7 47 45 AM" src="https://github.com/user-attachments/assets/ddaba005-39f0-44c6-85be-73de356ffc22">
+
 - Users can edit data from the review page by selecting the “edit” link. It will take them to the appropriate edit page. Once the user clicks the "Save" button, it will return the user back to the review page.
 - When updating info from the review page, the success alert will appear at the top of the appropriate section like so:
 
