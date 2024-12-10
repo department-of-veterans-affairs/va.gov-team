@@ -6,7 +6,7 @@ Date: 11/14/2024
 
 Jordan Wood [jordan.wood@civicactions.com]
 
-Research readout (when available)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/DUW%20usability%20research%20readout.pdf)
 
 **Jump to:**
 
