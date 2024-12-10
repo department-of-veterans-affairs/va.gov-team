@@ -42,7 +42,8 @@ This pattern involves these types of pages found in VA.gov forms:
 See the related ["Help users to... Know when their information is prefilled"](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled) pattern for guidance on helping users know when their information is prefilled.
 
 #### Personal information page
-_(screenshot with annotation coming soon - in the interim, view this [Figma file](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3-127&t=GYX9RT423zMZrhat-1))_
+
+![alt text]<img width="725" alt="Personal-information-page" src="https://github.com/user-attachments/assets/64c60d36-c6e8-400d-8220-39c1e29562dd">
 
 #### Prefill check page
 _(screenshot with annotation coming soon - in the interim, view this [Figma file](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3-127&t=GYX9RT423zMZrhat-1))_
@@ -76,25 +77,26 @@ This pattern communicates information that can be edited by:
 ### Informational text after a set of uneditable information
 Inform the user that they need to call VA to update this information. The specific numbers to call may vary by form. 
 
-<img width="649" alt="How to edit personal information" src="https://github.com/user-attachments/assets/0c784990-98d2-4c69-a18a-9fdaa8552362">
+![A note to the user explaining why they can't edit personal information online. It starts with the bolded word "Note" and ends with a link to find more detailed instructions on how to change their legal name.]<img width="649" alt="How to edit personal information" src="https://github.com/user-attachments/assets/0c784990-98d2-4c69-a18a-9fdaa8552362">
 
 ### Alert about where information will save
+Inform users that their information will save to their profile before they make the changes. If your form does not save changes to VA profile by default, or you have a compelling reason why a specific field should not save to the profile, see the Radio button example below.
 
-_(screenshot coming soon - in the interim, view this [Figma file](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3-127&t=GYX9RT423zMZrhat-1))_
+![An informational alert with a bolded header saying "Any changes you make will also be reflected on your VA.gov profile."](https://github.com/user-attachments/assets/e4a0b49a-b136-4c7c-b5f1-f4a5fc7d0542)
 
 ### Success alert 
 Inform users their change has been saved to the form and their VA.gov profile. If the change was only saved to the form, the alert should read "We've made these changes to only this form."
 
-![Alert - form and profile](https://github.com/user-attachments/assets/323786ec-62f3-4890-8441-4d8091b985b3)
+![A success alert with the header "We've updated your mailing address" and the body text "We've made these changes to this form and your VA.gov profile."](https://github.com/user-attachments/assets/323786ec-62f3-4890-8441-4d8091b985b3)
 
 If the user made the edit from the final review page, display the slim success alert on the review page, immediately under the header of the section that was edited.
 
-![Alert - form only](https://github.com/user-attachments/assets/b90882ed-ebdc-48a2-abc3-4d00603c39e5)
+![A slim success alert with the text "Address successfully updated on this form."](https://github.com/user-attachments/assets/b90882ed-ebdc-48a2-abc3-4d00603c39e5)
 
 ### Radio button
 In cases where the information might be subject to change (especially mailing addresses), ask users if they want to save their changes to their VA.gov profile.
 
-![Radio Buttons](https://github.com/user-attachments/assets/dc1f2a69-9ce2-4e34-b830-cc85f773e56a)
+![A required radio button field asking the user if they also want to update this information in their VA.gov profile.](https://github.com/user-attachments/assets/dc1f2a69-9ce2-4e34-b830-cc85f773e56a)
 
 ### Examples in production
 Coming soon!
