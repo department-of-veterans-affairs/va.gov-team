@@ -43,10 +43,19 @@ See the related ["Help users to... Know when their information is prefilled"](ht
 
 #### Personal information page
 
-![alt text]<img width="725" alt="Personal-information-page" src="https://github.com/user-attachments/assets/64c60d36-c6e8-400d-8220-39c1e29562dd">
+Alt: The first step of a form, asking users to confirm their personal information, such as legal name, date of birth, and Social Security number. That information is contained in a white card. Below the white card is a string of text explaining why this information cannot be edited online.
+
+<img width="756" alt="Personal-information-page" src="https://github.com/user-attachments/assets/a28de671-1c34-412f-a79e-1637643c53f9">
 
 #### Prefill check page
-_(screenshot with annotation coming soon - in the interim, view this [Figma file](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3-127&t=GYX9RT423zMZrhat-1))_
+
+Alt: A page for users to update their mailing address. Above the fields is an informational alert stating, "Any changes you make will also be reflected on your VA.gov profile."
+
+<img width="569" alt="Edit-save-to-profile" src="https://github.com/user-attachments/assets/54e9cf8c-b777-43f4-b96a-2845ea7cfce1">
+
+Alt: A page for users to update their mailing address. Below the address fields is a required radio button field asking, "Do you also want to update this information in your VA.gov profile?"
+
+<img width="565" alt="Edit-choose-where-to-save" src="https://github.com/user-attachments/assets/47a3f173-4624-4dc3-819e-0ce0ba5065bd">
 
 ### How this pattern works
 
