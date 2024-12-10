@@ -108,12 +108,34 @@ For teams using vets-api to trigger notification requests, please see https://gi
 ## Delivery Status Callbacks
 Callbacks provide status updates per notification sent, so your team can track individual successes and failures. 
 
-### Callback Requirements
+### Service-Level Callback Requirements
 - Provide a webhook URL for Staging and Production
 - VA Notify uses bearer tokens for authenticating with services when making a callback. The bearer token can be any form that the called service endpoint accepts. These should be long-lived, but not permanent, bearer tokens.
     - This should be sent to VA Notify via encrypted VA email
     - Each service will have their own policy for updating a long-lived bearer token. Contact VA Notify if an updated bearer token is required to meet security policies.
     - We recommend not hardcoding acceptance of only a single bearer token, so bearer token updates are not disruptive.
+
+### Request-Level Callback Requirements
+- Provide a webhook URL in the `callback_url` field of your request to VA Notify
+- Validate the signature in the headers: `x-enp-signature`
+
+#### Callback URL Validation
+1. Collect `x-enp-signature` value
+2. Collet all parameters in the json response (will have all fields from the sample below
+3. URL encode all parameters
+4. Use the API key used for the request and HMAC-SHA256 to create a signature
+5. Validate the generated signature matches the one sent by VA Notify
+
+Python example, and how we generate signatures:
+```python
+signature = HMAC(
+        get_unsigned_secret(api_key_id).encode(),
+        urlencode(callback_params).encode(),
+        digestmod=hashlib.sha256,
+    ).hexdigest()
+```
+Please reach out to [va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT) in OCTO slack if you need assistance.
+
 
 ### Sample Information Included in Callbacks
 ```
@@ -129,7 +151,8 @@ Callbacks provide status updates per notification sent, so your team can track i
 "provider":"pinpoint"
 ```
 
-### Technical FAQ
+
+## Technical FAQ
 **What type of API is VA Notify?**
 - We offer a REST API
 
