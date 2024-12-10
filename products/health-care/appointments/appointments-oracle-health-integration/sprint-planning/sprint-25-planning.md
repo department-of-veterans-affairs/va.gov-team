@@ -23,14 +23,12 @@ Sprint 25: 12/02/24 - 12/16/24
 ## 📋 Previous Sprint Summary:
 In Sprint 24 the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
- 
- 
+    * (VPG-18) VetsAPI Patient Gateway was updated to retrieve patient relationships, returning a new field for Oracle Health provider relationships to indicate whether the provider has available time slots. 
 * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
- 
- 
+    * (VPG-270) VetsAPI Patient Gateway added location and serviceType filters to Cerner FHIR Adapter appointment searches. 
 * #### Testing/Admin/Operational Support
- 
-
+    * (CES-1376) CES IG Java Library was updated to use fluent setters with Clinical Encounter Service, aligning its functionality with how HAPI’s Slot class is utilized.
+      
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
 * 🟢 Appointment Requests
