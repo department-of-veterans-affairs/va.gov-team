@@ -56,7 +56,7 @@ On moving all data from the 'Yellow Ribbon school finder' tool into the 'GI Bill
 
 
 ### Crosslinks
-*CAIA content will identify all places that link to the Yellow Ribbon tool and will modify the link to direct visitors to the new location of the information or remove the link if its no longer applicable in that context.*
+CAIA content will identify all places that link to the Yellow Ribbon tool and will modify the link to direct visitors to the new location of the information or remove the link if its no longer applicable in that context.
 
  
 ### <a name="bestbets"></a>Best Bets<br>
