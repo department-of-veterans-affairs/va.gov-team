@@ -96,5 +96,6 @@ As a result, the bulk of situationUpdateBanner.jsx cannot be 80% unit tested, as
 
 | File                           | % Statements | % Branches  | % Functions | % Lines |
 | ------------------------------ | ----------- | ------ | --------- | ---------- |
-| createSituationUpdatesBanner.jsx | **36.36%** | 33% | 50% | 36.36% | 
-| situationUpdateBanner.jsx | **50%** | 100% | 0% | 50% | 
+| bannerContainer.jsx            | **100%**    |  100%  |  100%     | 100% |
+| createSituationUpdatesBanner.jsx | **100%** | 100% | 100% | 100% | 
+| situationUpdateBanner.jsx | **100%** | 71.42% | 100% | 100% | 
