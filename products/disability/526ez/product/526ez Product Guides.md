@@ -45,7 +45,7 @@ Make any requested changes and update in sharepoint. They will typically look th
 |9/12/24 |4.3|[#89474](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89474) [89576](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89576)|Disability Experience Team 2|ITF and Missing Information Error Messages|
 |10/11/24 |4.4|[#94161](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94161)|Disability Experience Team 2|526 Failure Email Message|
 |11/25/24|4.5|[#97964](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97964)|Disability Experience Team 1|Submission Experience|
-|tbd|4.6 (In Progress)|tbd|Disability Experience Team 1|5103 and Claim Certification|
+|12/10/24|4.6 (In Progress)|[#98852](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98852)|Disability Experience Team 1|5103 and Claim Certification|
 
 
 ## 526 BDD Product Guide Ticket History
@@ -60,4 +60,4 @@ Make any requested changes and update in sharepoint. They will typically look th
 |9/12/24 |3.3|[#89474](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89474) [89576](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89576)|Disability Experience Team 2|ITF and Missing Information Error Messages|
 |10/11/24 |3.4|[#94161](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94161)|Disability Experience Team 2|526 Failure Email Message|
 |11/25/24|3.5|[#97964](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97964)|Disability Experience Team 1|Submission Experience|
-|tbd|3.6 (In Progress)|tbd|Disability Experience Team 1|5103 and Claim Certification|
+|12/10/24|3.6 (In Progress)|[#98852](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98852)|Disability Experience Team 1|5103 and Claim Certification|
