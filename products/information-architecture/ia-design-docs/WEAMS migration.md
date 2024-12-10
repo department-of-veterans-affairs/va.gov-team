@@ -1,10 +1,10 @@
 # IA Design for WEAMS Migration of National Tests and Licenses & Certifications data
 **STATUS: [In progress]**
 
-- Team: EDM Team; PMs Cassidy Beach, Theresa Simone; UX Designer Sneha Kulkarni; Business Analyst Jenn Drahota
+- Team: EDM Team - Cassidy Beach (PM), Theresa Simone (PM), Sneha Kulkarni (UX) Jenn Drahota (BA)
 - CAIA IA: Sam Walker
 
-- CAIA Intake ticket: [92369](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92369), IA Tracker: [95208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95208), CC Intake: [90889](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90889), Figma design files: [Desktop](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=72-1228&node-type=canvas&t=etnWBEfJkurm6JoP-0), [Licenses & certifications on mobile](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=1122-38781&node-type=canvas&t=JDAGEOPE8D1fFZwJ-0), [Search results on mobile
+- CAIA Intake ticket: [92369](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92369); IA Tracker: [95208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95208); CC Intake: [90889](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90889); Figma design files: [Desktop](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=72-1228&node-type=canvas&t=etnWBEfJkurm6JoP-0), [Licenses & certifications on mobile](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=1122-38781&node-type=canvas&t=JDAGEOPE8D1fFZwJ-0), [Search results on mobile
 ](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=2273-321672&node-type=canvas&t=XqMTcBSnWK9UgZfB-0)
 
 
@@ -27,7 +27,8 @@
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 Up-to-date diagrams can be found on [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1729183095781/13879f018516bd9dd354f278919b5a9c101a0f1f?wid=136-1729183109815).
-- All data and flows migrated into the Comparison Tool must be located at the current https://www.va.gov/education/gi-bill-comparison-tool or on sub-pages of that URL.
+
+All data and flows migrated into the Comparison Tool must be located at the current https://www.va.gov/education/gi-bill-comparison-tool or on sub-pages of that URL.
 ![weams 1](https://github.com/user-attachments/assets/6184e991-63d2-4963-be4a-793368b62c20)
 
 
