@@ -1,6 +1,19 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+
+# 12/10/24 Biweekly VBA-DBEX Check-in
+Agenda
+1. Separation Location Code Requirements: Should we require separation location codes for Reservists who do not have Title 10 activation status?
+    
+2. Benefits Delivery at Discharge (BDD) End Date Validation: Should we standardize our approach to active duty end date validation for Reservist claims by either:
+
+    a. Removing end date requirements across all claim types, or
+
+    b. Maintaining the current end date validation specifically for BDD claims?
+
+3. Provide a Copy, PDF: Is there a legal or policy reason that the 526 PDF we provide to Veteran be the one from the eFolder? Is there a specific part or component of the form that must be the same? If it has to be from the eFolder, this significantly increases the engineering effort, if not we can do this much faster. 
+
 ## 10/29/24 Biweekly VBA-DBEX Check-in
 ### Notes
 1. 0781 opt out flow - when veterans opt out of 0781, should we automatically delete the 0781 evidence that they uploaded as well (supporting docs and treatment details)
