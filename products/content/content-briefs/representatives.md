@@ -27,11 +27,19 @@ This brief will help your team create content for your product that aligns with 
 
 **accredited representative**
 
-We use this term to refer to a person or organization who's authorized to help someone with their VA claim or application. An accredited representative can be 1 of 3 types: Veteran Service Organization (VSO) or VSO representative, claims agent, or attorney. For an accredited representative to sign for someone else, the claimant or the representative must submit VA Form 21-22 or VA Form 21-22a. Use "VA accredited representative" in the first instance. After that, "accredited representative" is OK. Lowercase, and define on first appropriate instance as “a person or organization who's authorized to help someone with their VA claim or application.” Include the definition in another sentence, as a parenthetical, or set off with commas. 
+We use this term to refer to a person or organization who's authorized to provide help with VA benefit claims to Veterans and service members, as well as their dependents and survivors. For an accredited representative to sign for someone else, the claimant or the representative must submit VA Form 21-22 or VA Form 21-22a. 
+
+Note on usage: Use "VA accredited representative" in the first instance. After that, "accredited representative" is OK. Lowercase, and define on first appropriate instance as “a person or organization who's authorized authorized to provide help with VA benefit claims.” Include the definition in another sentence, as a parenthetical, or set off with commas. 
 
 **alternate signer**
 
 We use this term for a person who's certified to sign certain VA forms or applications for someone else. A person can certify as an alternate signer by submitting VA Form 21-0972.
+
+**caregiver**
+
+**court-appointed guardian or legal conservator** 
+
+We use this term in the identity space.
 
 **fiduciary**
 
@@ -68,24 +76,16 @@ We use this term for individual representatives who belong to an accredited Vete
 Use “Veterans Service Organization representative” or “VSO representative.” VA’s Office of General Counsel accredits the organization, not the individual.  
 
 
-
-
-
- 
-
-
-                                                                                                                                                                                                                                                                                                                                                                                                           |       |                                                                                          |                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                              |                                                                     |                                     |                              |
-
-
 ## Content considerations specific to representatives
 
+Third-party representatives act or communicate **on behalf of** a Veteran — they don’t act **as** the Veteran. 
 
 
 ## Content-specific research findings
 
  
  **Content strategy-related findings**
- - To add
+
 
 ## Content pages related to this topic
 
