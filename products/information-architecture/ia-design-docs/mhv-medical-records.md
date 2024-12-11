@@ -19,9 +19,8 @@ Medical Records has several subdomains that will be launching incrementally to P
 2. Vaccines (December 2023) - DONE
 3. Care summaries & notes, Vitals (March 2024) - DONE
 4. Health conditions (May 2024) - DONE
-5. Lab and test results (October 2024) - DONE (Radiology images will launch in December 2024)
-7. Medical records settings (December 2024) - NEW
-8. Download medical reports (December 2024) - NEW
+5. Lab and test results (October 2024) - DONE 
+6. Medical records settings, Download medical reports, and lab & test result radiology images (December 2024) - NEW
 
 ## <a name="map"></a>Page structure<br>
 Most up-to-date [sitemap can be found here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705462711175/25f9ef7b28ee707498d29d4a4d168304a33c0527?sender=uf94a77a19aaf687331c09367)
