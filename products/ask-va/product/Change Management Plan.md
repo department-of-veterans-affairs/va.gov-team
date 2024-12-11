@@ -1,48 +1,20 @@
-**Ask VA Change Management Plan**
-
-11/26/24 notes
-- manage incoming feature requests
-- how we process those requests
-- more flexible release plan moving forward
-- delta: prioritization between the two groups
-- ava CRM has prioritizations already, so we need more flexible planning for releases launches
-- how do we have leaner, smaller releases?
-- teams can go through collab cycle as group of features vs. single feature. single feature faster.
-- could have many front-end changes CRM wouldn't know about ex: 'cosmetic'
-- Unless it changes the data, don't know if CRM would need to be involved
-- example: forecast what we want to release, then we could do a quick to make sure nothing's impacted
-- to do: examples of when we would coordinate vs note
-- AVA CRM/PATSR separation: Ask VA ATO needs to get granted. Submitting in Feb 2025. 90 day timeline to get approved, if there are no changes. Around when portal launches. Once approved and completed all work for separation, shared environment freezes won't be issue
-
-**Scope:** To define the ongoing ways of working collaborating between Ask.VA.Gov and CRM.
+# Ask VA VA.Gov Changment Plan
 
 
-**Release Cadence**
+| Date              | Version               | Author          |
+| ----------------- | --------------------- | --------------- |
+| November 3, 2024  | Initial Draft         | CeeCee O'Conner |
+| December 11, 2024 | Updates from CRM sync | Ariel Martinez  |
 
-**For Context**: AskVA.Gov operates in 2 weeks sprints, opening sprint on Tuesdays and closing sprint out 13 days later on Monday. 
+### Goal
 
-Post Launch (April ‘25) the Ask VA VA.gov team will be moving forward with a monthly release cadence. _This will be facilitated through the following activities:_
-- **Theme based Roadmapping per sprint** (each sprint shall have defined goals to monitor the progress of a new implementation of a feature or epic.)
-- **Feature Flags and Toggles:** through leveraging feature flags and toggles the team will be able to clearly define the stream of work coming through the Continuous Integration and Deployment pipeline (this will prevent us from promoting potentially unready work up the environments to production.)  
-  - An example of this used by the team has been how the Dashboard Research pilot was made separate from the continuation of development. 
+To define the ongoing ways of working between Ask VA.Gov and CRM teams.
+- Manage and process incoming feature requests.
+- Communicate and align priorities between the two teams, and plan for subsequent iterations of Ask VA.
+- Establish processes to support smaller releases.
 
-**Documentation + Requirements for Release**
-For each launch the product team (owner and manager) will assess the potential impact of releasing a new feature or epic to Ask.Va.Gov and update the Product Outline. 
-For smaller intiatives the team may leverage a combination of this change management plan and the Initiative Brief Template to act as release notes.  
-**Action:** Update the Product outline for major release (by the product owner)
+### Feature Requests and Bug Reports
 
-The work shall be documented in the following ways: 
-- Each feature shall be documented in Github Projects 
-- In the intiative brief, provide a description in plain language of the change being made.
-- if possible include designs.
-- if there are additional testing needs outside of what is defined in this document, update the Intiative Brief Template.
-
-**How Feature Requests shall be Created by Business Lines & Acceptance Criteria**
-
-Goals:
-- Ensure that new features are meeting the needs of the business line
-
-Process: 
 The requestor should email *shared email inbox* . The request , with the following details, shall be reviewed in CRM Sync:
 - A description of the potential feature or request
 - provide business justification : what is the value or impact of pursuing this change
@@ -50,11 +22,39 @@ The requestor should email *shared email inbox* . The request , with the followi
     - impact to rules or logic
     - creation of a new topic
     - denoting the page expected to be impacted
-    - steps to execute a manual test
  - the requestor should also identify a tester on their behalf to confirm that the business value is being provided and the experience is being executed as expected
 
+Each feature shall be documented in Github Projects.
 
-**Testing:**
+The recommendation is to collate feature requests and (i.e a Github project view) to track their status and . For example, a decision was made to not move forward with a feature.
+
+### Planning
+
+For each launch the product team (owner and manager) will assess the potential impact of releasing a new feature or epic to Ask.Va.Gov and update the Product Outline. 
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md
+
+Create initiative brief to cover what the team plans to build for the 12 weeks
+Review initiative brief with CRM team to identify dependencies, gather feedback, and confirm priorities.
+The work shall be documented in the following ways: 
+- In the intiative brief, provide a description in plain language of the change being made.
+- if possible include designs.
+
+
+
+Include tentative release date(s) in the brief - ideally 2-3 smaller releases
+
+Ideally, collaboration cycle kickoff  and PO sync should occur prior to development starting, in case OCTO rejects some items. The Product outline also needs to be updated with a link to the initiative brief.
+
+### Development
+
+Once confirmed, features in the initiative brief are broken down into epics that are plotted on a roadmap. 
+- **Theme based Roadmapping per sprint** (each sprint shall have defined goals to monitor the progress of a new implementation of a feature or epic.)
+
+Ask VA VA.Gov operates in 2 weeks sprints, opening sprint on Tuesdays and closing sprint out 13 days later on Monday. 
+
+
+### Testing
 Each feature shall go through Platform review (required by OCTO) and shall be quality assured
 Our initial expectation is that a new feature may be to manually execute a tes
 
@@ -71,8 +71,27 @@ On a release level:
 - the team shall define the a potential number of manually executable test ( while we are burning down the list of potential automated test scripts to be developed from the Form and Dashboard manual test execution list)
 - the team shall execute the Insomnia tests to confirm the APIs and mapping are running as expected. 
 
-**Questions for us to continue discussing:**
-- How do we handle freezing in shared environments with CRM and Pats R
-    - currently we test in staging while CRM is executing their testing, for our joint testing CRM will freeze at the same time prior to launch (this is established in our test plan)
-- How do we define what is our future joint testing between the Ask VA VA.gov + CRM APIs (ex . testing for rules, update to payload, contract testing etc.)
-- Plan to graduate environments, coordination between environments
+
+### Release Management
+
+- **Feature Flags and Toggles:** through leveraging feature flags and toggles the team will be able to clearly define the stream of work coming through the Continuous Integration and Deployment pipeline (this will prevent us from promoting potentially unready work up the environments to production.)  
+  - An example of this used by the team has been how the Dashboard Research pilot was made separate from the continuation of development. 
+
+Do we want to version releases somehow?
+Helps with tracking. Can use labels and/or milestones to link epics and issues to releases.
+Github also has a release management feature that could be used.
+
+Collaboration Cycle
+After the kickoff request and PO sync, the required touchpoints are:
+- Architecture Intent
+- PRISS/Security Review
+- Staging Review 
+Additional touchpoints may be recommended by the Governance team after reviewing the kickoff request. However, given the smaller scope of an initiative, less effort should be 
+
+### Open Questions
+
+| Question                                                                                                                                                  | Answere                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| How do we handle freezing in shared environments with CRM and Pats R?                                                                                     | AVA CRM/PATSR separation: Ask VA ATO needs to get granted. Submitting in Feb 2025. 90 day timeline to get approved, if there are no changes. Around when portal launches. Once approved and completed all work for separation, shared environment freezes won't be issue<br> |
+| How do we define what is our future joint testing between the Ask VA VA.gov + CRM APIs (ex . testing for rules, update to payload, contract testing etc.) |                                                                                                                                                                                                                                                                              |
+| Can the architecture intent and other touchpoints cover all releases in an initiative or must they must be done for every release?                        |                                                                                                                                                                                                                                                                              |
