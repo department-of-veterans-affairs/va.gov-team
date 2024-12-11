@@ -17,6 +17,7 @@
 - **Direct Scheduling OH**
     - ❗ 🟩 [Add initial screen and placeholder data for Select a Provider step#98224](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98224)
     - 🟩 [Add patient relationship endpoint service and mocks#89641](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89641)
+    - ✔️ 🟥 OH Scheduling improvements: Dead ends from facility page https://github.com/department-of-veterans-affairs/va.gov-team/issues/91499
     - 
 - **Appointments UI Improvements**
    - ❗ 🟩 [Update the OH redirect alert on the VAOS home page#96736](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96736)
