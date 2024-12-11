@@ -13,7 +13,8 @@
   ## 1.0 assets
   | Asset                                                        | Description                                                  |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | 
+  | [VA Mobile App - 1.0 Figma files](  https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/figma-files-1.0) | Working files, shipped files and libraries for the VA MObile app (prior to navigation redesign).       |
+
 
   ## MVP assets
   | Asset                                                        | Description                                                  |
