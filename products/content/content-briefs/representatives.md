@@ -1,6 +1,6 @@
 # VA content brief for representatives
 
-Created by the sitewide content and IA team for teams who are designing forms or products that involve representatives acting on behalf of a claimant or applicant.
+The sitewide content team created this content brief. It's for teams who are designing forms or products that involve representatives acting on behalf of a claimant or applicant.
 
 **Have questions or feedback on this brief or want to add something?**
 - Send us a slack in #sitewide-content-ia.
