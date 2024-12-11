@@ -20,7 +20,7 @@
 - All content, data, new functionality, and child pages holding WEAMS data must be built on, or as sub-pages of, the current Comparison Toolparent url of https://www.va.gov/education/gi-bill-comparison-tool.
 - How sub-pages under that parent URL are structured is up to the product team.
 - Follow VADS standards for all [URLs](https://design.va.gov/components/url-standards/), [breadcrumbs](https://design.va.gov/components/breadcrumbs), [page titles](https://design.va.gov/content-style-guide/page-titles-and-section-titles).
-- Any pages created must have a clear entry point - a way for visitors to navigate to the page through links and navigation components. Pages cannot be reachable only via search.
+- Every page created must have a clear entry point - a way for visitors to navigate to the page through links and navigation components. Pages cannot be reachable only via search.
 - Key SEO elements - page titles and intro text - should be differentiated from other pages in the Education hub. For example, do not create a sub-page of the comparison tool named "Education benefits management".
   
 
