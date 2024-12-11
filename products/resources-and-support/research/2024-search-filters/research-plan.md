@@ -2,10 +2,9 @@
 
 ## Background
 
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+Initially called the "Learning Center", Resources & Support (R&S) leverages a variety of Drupal content types to provide a self-serve library with targeted, supplemental information to help Veterans and other beneficiaries understand their VA benefits. Since launching in 2020, R&S has expanded to include 137 articles (as of September 2024). We expect the number of articles will continue to grow via the ongoing migration of content to VA.gov from legacy sites. 
+
+As much as 50% of the content from the Benefit Hubs is expected to be moved into Resources and Support as part of that streamlining effort. This anticipated growth accelerated the prioritization of this effort to ensure the experience adequately supports discoverability and Veteran understanding.
 
 - [Resources & Support product brief](https://github.com/department-of-veterans-affair=s/va.gov-team/blob/master/products/resources-and-support/readme.md)
 - [Resources & Support search enhancements initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1)
