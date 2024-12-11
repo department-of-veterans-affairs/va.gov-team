@@ -19,9 +19,7 @@ If you're interested in presenting reach out to Anastasia Jakabcin via DM in the
 _Presentations occur at 1:00pm ET_
 |    Team      | Presenter | Initiative | Launch Date | Impact Review Date|
 |----|----|----|----|----|
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | November 7, 2024 |
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | November 7, 2024 |
 |Appointments Team on VA.gov | Jeff Roof|Appointment Details Redesign| August 2024| December 5, 2024 |
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | December 5, 2024 |
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | January 2, 2025 (_will likely adjust to the following week_) |
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | January 2, 2025 (_will likely adjust to the following week_) |
+|1010 Team|Heather Justice| EZ - Registration Only Path MVP| October 2024| January 9, 2025 |
+|Pension|Matt Reilly| _Enter initiative_ | _Enter launch date_ | Febuary 6, 2025|
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | _Enter Impact Review date|
