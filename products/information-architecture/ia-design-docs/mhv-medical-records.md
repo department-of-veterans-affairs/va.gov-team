@@ -66,9 +66,9 @@ Details pages for historical records of each vital type are linked from the Vita
 * Height
 
 ## <a name="nav"></a>Secondary navigation <br>
-As of August 2024, medical records has been in what they are referring to as "Phase 0.5" where secondary navigation is exposed on launched domain pages. Howeverk the page for "Medical records" in the secondary navigation bar is a temporary page that explains what is coming and provides a link back to hte previous version of My HealtheVet for users who want their records.
+As of June 2024, medical records has been included in the secondary navigation bar. However, because the tool is not fully ready for launch, the destination URL under "records" in that navigation bar  is for a temporary page that explains what is coming and provides a link back to the previous version of My HealtheVet for users who want their records.
 
-In December 2024, when medical records is projected to be ready to move to Phase 1, we will update that link to point to the actual full experience, and update links on the My HealtheVet landing page to do the same. 
+In December 2024, when medical records is projected to be ready to move to Phase 1, we will update that link to point to the real medical records on VA.gov experience, and update links on the My HealtheVet landing page to do the same. 
 
 **Previous updates:**
 * Phase 0 initial launch (Allergies only) will not have a secondary navigation. Navigation will only be exposed once 2+ subdomains are launched. 
