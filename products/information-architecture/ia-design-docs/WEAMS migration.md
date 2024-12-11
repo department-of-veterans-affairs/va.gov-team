@@ -1,10 +1,10 @@
-# IA Design for WEAMS Migration of National Tests and Licenses & Certifications data
+# IA Design for WEAMS Migration of National Tests and Licensing & Certification data
 **STATUS: [In progress]**
 
 - Team: EDM Team - Cassidy Beach (PM), Theresa Simone (PM), Sneha Kulkarni (UX) Jenn Drahota (BA)
 - CAIA IA: Sam Walker
 
-- CAIA Intake ticket: [92369](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92369); IA Tracker: [95208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95208); CC Intake: [90889](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90889); Figma design files: [Desktop](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=72-1228&node-type=canvas&t=etnWBEfJkurm6JoP-0), [Licenses & certifications on mobile](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=1122-38781&node-type=canvas&t=JDAGEOPE8D1fFZwJ-0), [Search results on mobile
+- CAIA Intake ticket: [92369](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92369); IA Tracker: [95208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95208); CC Intake: [90889](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90889); Figma design files: [Desktop](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=72-1228&node-type=canvas&t=etnWBEfJkurm6JoP-0), [Licensing & Certification on mobile](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=1122-38781&node-type=canvas&t=JDAGEOPE8D1fFZwJ-0), [Search results on mobile
 ](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=2273-321672&node-type=canvas&t=XqMTcBSnWK9UgZfB-0)
 
 
@@ -29,7 +29,7 @@
 
 Up-to-date diagrams can be found on [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1729183095781/13879f018516bd9dd354f278919b5a9c101a0f1f?wid=136-1729183109815).
 
-All data and flows migrated into the Comparison Tool must be located at the current https://www.va.gov/education/gi-bill-comparison-tool or on sub-pages of that URL. The new 'Landing page' will be placed at the existing URL, and the School Comparison will be moved to a sub-page. The new Licenses & Certifications data and National Test data will also each have a sub-page.
+All data and flows migrated into the Comparison Tool must be located at the current https://www.va.gov/education/gi-bill-comparison-tool or on sub-pages of that URL. The new 'Landing page' will be placed at the existing URL, and the School Comparison will be moved to a sub-page. The new Licensing & Certification data and National Test data will also each have a sub-page.
 ![weams 5](https://github.com/user-attachments/assets/3610e476-49c1-42ef-b4d6-2ddeeabd2d62)
 
 
@@ -49,7 +49,7 @@ All data and flows migrated into the Comparison Tool must be located at the curr
 - Breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool > [TBD by product team]
 - Notes: This will be the current start screen of the School Comparision tool search flow. It will be moved down one level in the sitemap heirarchy, and will have a new URL and breadcrumb showing it a sub-page of va.gov/education/gi-bill-comparison-tool
 
-**2) Certifications and Licenses search - new**
+**2) Licensing & Certification search - new**
 - URL: va.gov/education/gi-bill-comparison-tool/[TBD by product team]
 - Breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool > [TBD by product team]
 - Notes: New page, for the start of a new search flow. It should be a sub-page of va.gov/education/gi-bill-comparison-tool
@@ -107,8 +107,8 @@ _Any additional locations that the page should be navigable from such as the "Ab
 CAIA Content will identify all **existing crosslinks** to the Comparison Tool and will modify the links to direct visitors to the new location the Landing page or the School search workflow, whichever is the best match.
 
 CAIA Content will **add two new crosslinks**
-- On the Licenses & Certifications benefit info page, navigating to the start page of the Licenses & Certifications search flow in the tool
-- On the National Tests benefit info page, navigating to the National Tests page in the tool
+- On the [Licensing & Certification benefit info page](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/licensing-and-certification-tests/), navigating to the start page of the Licensing & Certification search flow in the tool
+- On the [National Tests benefit info page](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/national-tests/), navigating to the National Tests page in the tool
 
 ## <a name="launchstuff"></a>Launch coordination activities <br>
 
@@ -124,7 +124,7 @@ Current URL | Redirect to | Notes
 *Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find content and features that are not easily found or not ranking well in search. Existing best bets must be removed or updated when links/URLs change.*
 
 **1. GI Bill School Comparison Tool - Modify best bet** - 
-- CAIA IA will **update** the current Best Bet, and add description and/or keywords that highlight that National Tests and Certifications & Licenses data is now available in the Comparison Tool.
+- CAIA IA will **update** the current Best Bet, and add description and/or keywords that highlight that National Tests and Licensing & Certification data is now available in the Comparison Tool.
 
 ### Staged rollout
 No
