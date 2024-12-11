@@ -40,6 +40,7 @@ We use this term for a person who's certified to sign certain VA forms or applic
 We sometimes use this term to refer to the person applying for the benefit—-especially if the person is not a Veteran, or if they are not the person submitting the form (for example: “I’m signing for the applicant”). Go to [Claims and applications](https://design.va.gov/content-style-guide/specific-topics-and-programs/claims-and-applications) for more guidance related to this word. In general, don't use "non-Veteran." 
 
 **claimant**
+
 We sometimes use this term to refer to the person with the claim—-especially if the person is not a Veteran, or if they are not the person submitting the form (for example: “I’m signing for the claimant”). Always define the term on the first instance as “person with the claim.” When possible, use specific plain language instead, like “Veteran’s spouse” or “Veteran’s child.” Go to [Claims and applications](https://design.va.gov/content-style-guide/specific-topics-and-programs/claims-and-applications) for more guidance related to this word. In general, don't use "non-Veteran." 
 
 Like this: “I’m the spouse, dependent, survivor, or caregiver of a Veteran, and I have an existing claim.” Not this: “I’m a non-Veteran claimant.”
