@@ -136,9 +136,19 @@ Note: 10-10 EZ form has been available online for a number of years.  Only in 20
 - 6/3/2019: Enrollment record validation when user enters personal info, if no record found, user can proceed through the form
 - 8/23/2022: Medicare Claim number field added to the form
 - 10/11/2022: American Indian question added to the form
-- 10/31/2022: 10-10EZ Short Form
-     - Trending 30%-40% application submission being through the Short Form flow, and a 98% submission rate of total Short Form applications.
+- 10/31/2022: 10-10EZ Short Form flow
 - 11/1/2022: 10-10EZ Saved-in-progress email reminders
+- 3/8/2023: American Indian question removed from the form
+- 6/27/2023: Moved submission failure email from govdelivery service to VA Notify template
+- 8/10/2023: Household section optimization
+- 8/29/2023: Removed "screener" page for unauthenticated users (duplicate questions to confirm name/DOB/SSN)
+- 3/5/2024: Toxic Exposure questions added to form
+- 5/6/2024: Root URL updated from `va.gov/health-care/apply/application/` to `va.gov/health-care/apply-for-health-care-form-10-10ez/`
+- 8/27/2024: Update Facilities list to use LH Facilities API (and compare to Enrollment system data to avoid validation errors)
+- 9/3/2024: Update Need Help section with new Accredited Representative content (replacing VSO content)
+- 10/9/2024: Registration Only MVP 3-month experiment
+- 10/21/2024: Remove "Minimum Essential Coverage" checkbox from Facility page
+- 11/5/2024: Toxic Exposure improvements (question branching logic and content updates)
 ---
 
 ## Solution Narrative
