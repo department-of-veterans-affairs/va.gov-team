@@ -117,7 +117,7 @@ CAIA Content will **add two new crosslinks**
 
 Current URL | Redirect to | Notes
 --- | --- | ---
- va.gov/education/gi-bill-comparison-tool/search= | va.gov/education/gi-bill-comparison-tool/[TBD school comparison search] | Set up a redirect where any previous **search result URL** redirects to either the new landing page, or the first screen of the School Comparison search flow. This supports users who have previously bookmarked search results.
+ va.gov/education/gi-bill-comparison-tool/search= | va.gov/education/gi-bill-comparison-tool/[TBD school comparison search] | Set up a redirect that sends former search result URLs to either the new landing page, or the first screen of the School Comparison search flow. This supports users who have previously bookmarked search results.
 
 
 ### Best bets
