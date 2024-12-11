@@ -45,7 +45,7 @@ The full API documentation is linked above under "resources" and lives in the se
 These are errors that require manual intervention by Helpdesk staff, and a user must call the helpdesk phone number and communicate the specific error code number to get assistance. These are errors numbered: 801, 805, 806, 807 from the API specifications.
 
 ### Background errors
-These are errors that a user cannot resolve on their own, and are due to background issues that could resolve on their own. Reloading the page, or trying again later are the most straightforward approaches we can commmunicate to users at this time (MVP) to address these problems. These are errors numbered: 802, 803, 804, 808, 809, 810 from the API specifications.
+These are errors that a user cannot resolve on their own, and are due to background issues that helpdesk staff are not likely to be able to resolve. Instead, telling users to reload the page or try again later are the most straightforward approaches we can commmunicate at this time (MVP) to address these problems, which we believe to be the least likely to occur based on production testing so far. These are errors numbered: 802, 803, 804, 808, 809, 810 from the API specifications.
 
 ## Potential entry points & user routing in error states
 The MHV-API gates access to 3 major health tools in the portal, but many other applications do not rely on it (e.g. appointments, supply re-ordering, travel pay). Thus, we will still display secondary navigation. This opens up a side-door gateway into the tools in an error-state & all affected tools will need to implement these alerts in their own applications to account for it. There are also additional side-door entry points that back-up the need to do this. 
