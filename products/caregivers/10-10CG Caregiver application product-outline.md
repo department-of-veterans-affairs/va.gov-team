@@ -158,7 +158,8 @@ CARMA data is agile due to appeal outcomes, reinstatements, delayed data entry, 
 - 6/26/2024: Root URL updated from `va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/` to `va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/`
 - 7/8/2024: Form updates from latest OMB review
 - 9/24/2024: Added `submitted_at` subattribute in schema
-- 
+- TBD Facilities search
+- TBD OAuth update
 
 ---
 
