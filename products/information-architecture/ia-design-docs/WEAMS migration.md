@@ -17,7 +17,7 @@
 
 
 ## <a name="ruidelines"></a>Overall guidelines<br>
-On this project, CAIA IA support will be focused on the connections between the Comparison Tool and the rest of va.gov. We are not able to support IA and Content decisions within the tool Landing page or sub-pages. Please reference these guidelines for design/content/IA decisions inside the tool.
+On this project, CAIA IA support will be focused on the connections between the Comparison Tool and the rest of va.gov. We are not able to support IA and Content decisions within the tool Landing page or sub-pages. Please reference the following guidelines for design/content/IA decisions inside the tool:
 - All content, data, new functionality, and child pages holding WEAMS data must be built on, or as sub-pages of, the current Comparison Tool parent url of https://www.va.gov/education/gi-bill-comparison-tool.
 - How sub-pages under that parent URL are structured is up to the product team.
 - Follow VADS standards for all [URLs](https://design.va.gov/components/url-standards/), [breadcrumbs](https://design.va.gov/components/breadcrumbs), [page titles](https://design.va.gov/content-style-guide/page-titles-and-section-titles).
