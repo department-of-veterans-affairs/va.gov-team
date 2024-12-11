@@ -25,11 +25,11 @@
   
 
 ## <a name="map"></a>Page structure<br>
-*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
+*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map).*
 
 Up-to-date diagrams can be found on [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1729183095781/13879f018516bd9dd354f278919b5a9c101a0f1f?wid=136-1729183109815).
 
-All data and flows migrated into the Comparison Tool must be located at the current https://www.va.gov/education/gi-bill-comparison-tool or on sub-pages of that URL.
+All data and flows migrated into the Comparison Tool must be located at the current https://www.va.gov/education/gi-bill-comparison-tool or on sub-pages of that URL. The new 'Landing page' will be placed at the existing URL, and the School Comparison will be moved to a sub-page. The new Licenses & Certifications data and National Test data will also each have a sub-page.
 ![weams 5](https://github.com/user-attachments/assets/3610e476-49c1-42ef-b4d6-2ddeeabd2d62)
 
 
@@ -82,6 +82,7 @@ _Any additional locations that the page should be navigable from such as the "Ab
 - Who will update (IA, content, product team): CAIA IA
 - When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
 - Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool
+![weams 6](https://github.com/user-attachments/assets/49b2ce5f-d9dd-4481-8807-9bb6d1a85385)
 
 **2. Right rail of Education hub page - Modifications TBD** - 
 - Placement description: Right rail promo spot
@@ -90,6 +91,7 @@ _Any additional locations that the page should be navigable from such as the "Ab
 - Who will update (IA, content, product team): CAIA (TBD IA or Content)
 - When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
 - Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool
+![weams 7](https://github.com/user-attachments/assets/e8bfa70c-56de-449e-bdd6-57eb7d36f3ac)
 
 **3. Left Nav - Modifications TBD** - 
 - Placement description: Education left nav, 'More' section
@@ -98,6 +100,7 @@ _Any additional locations that the page should be navigable from such as the "Ab
 - Who will update (IA, content, product team): CAIA IA
 - When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
 - Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool
+![weams 4](https://github.com/user-attachments/assets/2af3214b-ef41-4551-be3b-2d2df9f5cb28)
 
   
 ### Crosslinks
@@ -114,14 +117,14 @@ CAIA Content will **add two new crosslinks**
 
 Current URL | Redirect to | Notes
 --- | --- | ---
- va.gov/education/gi-bill-comparison-tool/search= | va.gov/education/gi-bill-comparison-tool/[TBD school comparison search] | In case users have search results bookmarked, set up a plan where any previous search URL redirects to either the new landing page, or the first screen of the School Comparison search flow.
+ va.gov/education/gi-bill-comparison-tool/search= | va.gov/education/gi-bill-comparison-tool/[TBD school comparison search] | Set up a redirect where any previous **search result URL** redirects to either the new landing page, or the first screen of the School Comparison search flow. This supports users who have previously bookmarked search results.
 
 
 ### Best bets
 *Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find content and features that are not easily found or not ranking well in search. Existing best bets must be removed or updated when links/URLs change.*
 
 **1. GI Bill School Comparison Tool - Modify best bet** - 
-- CAIA IA will **update** the current Best Bet, and add description and/or keywords that highlight that National Tests and C&L data is now available in the tool.
+- CAIA IA will **update** the current Best Bet, and add description and/or keywords that highlight that National Tests and Certifications & Licenses data is now available in the Comparison Tool.
 
 ### Staged rollout
 No
