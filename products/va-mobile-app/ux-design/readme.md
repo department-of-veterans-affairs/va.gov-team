@@ -10,6 +10,11 @@
   | [VA Mobile App - Information Architecture & Navigation project (2022)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation) |  3-phase design & research process to inform the information architecture, content and design of the VA Mobile app in order to deliver a solution that is usable, useful, and extensible.      |
   | [Information Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture) | The sitemap/flow diagram outlines the information architecture that the future state (2.0) VA Mobile App's navigation follows. Last updated Sep 2022.       |
 
+  ## 1.0 assets
+  | Asset                                                        | Description                                                  |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | 
+
   ## MVP assets
   | Asset                                                        | Description                                                  |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
