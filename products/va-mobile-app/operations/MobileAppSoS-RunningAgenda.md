@@ -30,6 +30,8 @@
   * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
 * Walk-ons
   * Experience teams & staging data prep
+     * For setting up Benefits staging users/data, the MFS should work with the Benefits team to learn how to set up their own staging data
+  * 
 
 ## 11/27/24
 * **Epics Review**
