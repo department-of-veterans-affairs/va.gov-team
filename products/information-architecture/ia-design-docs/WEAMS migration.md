@@ -43,19 +43,17 @@ All data and flows migrated into the Comparison Tool must be located at the curr
 - Breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool
 - Notes: This URL currently holds the first screen in the Compare Schools search workflow. This same URL should now be used for the new 'landing page' screen. The H1 may be updated to reflect the added information in the tool.
 
-### Sub-URLs
-
-**1) School Comparison search - Existing screen at a new URL**
+**2) School Comparison search - Existing screen at a new URL**
 - URL: va.gov/education/gi-bill-comparison-tool/[TBD by product team]
 - Breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool > [TBD by product team]
 - Notes: This will be the current start screen of the School Comparision tool search flow. It will be moved down one level in the sitemap heirarchy, and will have a new URL and breadcrumb showing it a sub-page of va.gov/education/gi-bill-comparison-tool
 
-**2) Licensing & Certification search - new**
+**3) Licensing & Certification search - new**
 - URL: va.gov/education/gi-bill-comparison-tool/[TBD by product team]
 - Breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool > [TBD by product team]
 - Notes: New page, for the start of a new search flow. It should be a sub-page of va.gov/education/gi-bill-comparison-tool
 
-**3) National Tests data list - new**
+**4) National Tests data list - new**
 - URL: va.gov/education/gi-bill-comparison-tool/[TBD by product team]
 - Breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool > [TBD by product team]
 - Notes: New page holding list data. It should be a sub-page of va.gov/education/gi-bill-comparison-tool
