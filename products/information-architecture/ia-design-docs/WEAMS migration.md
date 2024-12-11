@@ -80,7 +80,7 @@ _Any additional locations that the page should be navigable from such as the "Ab
 - Placement description: Mega Menu promo spot
 - Link label: Keep current header text and descriptive text, or update to reflect additional data available in the tool. (Changes TBD by CAIA Content)
 - Link destination: va.gov/education/gi-bill-comparison-tool
-- Who will update (IA, content, product team): CAIA IA
+- Who will update (IA, content, product team): CAIA IA or possibly OPIA (CAIA IA will coordinate)
 - When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
 - Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool
 ![weams 6](https://github.com/user-attachments/assets/49b2ce5f-d9dd-4481-8807-9bb6d1a85385)
@@ -89,7 +89,7 @@ _Any additional locations that the page should be navigable from such as the "Ab
 - Placement description: Right rail promo spot
 - Link label: Keep current header text and descriptive text, or update to reflect additional data available in the tool. (Changes TBD by CAIA Content). The content here must be consistent with the content in the Mega Menu promo spot.
 - Link destination: va.gov/education/gi-bill-comparison-tool
-- Who will update (IA, content, product team): CAIA (TBD IA or Content)
+- Who will update (IA, content, product team): OPIA (CAIA IA will coordinate)
 - When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
 - Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool
 ![weams 7](https://github.com/user-attachments/assets/e8bfa70c-56de-449e-bdd6-57eb7d36f3ac)
