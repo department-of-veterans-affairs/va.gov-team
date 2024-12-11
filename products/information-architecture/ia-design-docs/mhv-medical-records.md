@@ -26,8 +26,8 @@ Medical Records has several subdomains that will be launching incrementally to P
 ## <a name="map"></a>Page structure<br>
 Most up-to-date [sitemap can be found here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705462711175/25f9ef7b28ee707498d29d4a4d168304a33c0527?sender=uf94a77a19aaf687331c09367)
 
-We are moving toward launching **lab & test images & settings** into Phase 0.5
-<img width="983" alt="Screenshot 2024-12-04 at 10 32 34 AM" src="https://github.com/user-attachments/assets/f2bb71ac-f8bc-41b4-8530-d821e4b71425">
+We are moving toward launching **lab & test images, download medical records reports, and settings** 
+<img width="952" alt="Screenshot 2024-12-11 at 3 05 09 PM" src="https://github.com/user-attachments/assets/1c2a542e-6c43-4a87-96a8-0dd05e60d3e9" />
 
 ## <a name="url"></a>URLs and breadcrumbs
 
