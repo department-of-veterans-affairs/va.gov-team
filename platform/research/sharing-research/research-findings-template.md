@@ -83,7 +83,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work. [Learn how to add labels](https://depo-platform-documentation.scrollhelp.site/research-design/adding-labels-in-the-research-repository) in Platform documentation._
 
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
