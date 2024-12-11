@@ -26,16 +26,21 @@
 ## SPRINT 21 - 11/27/2024-12/10/2024
 - **Production Support**
     - ✔️ [Support alert assertions in VAOS unit tests#82624](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/82624)
-    - 
+ 
 - **Zero silent Failures**
     - ✔️[Spike - Setup DataDog to monitor Flipper feature toggles#96953](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96953)
+ 
 - **Cancel OH Appointments**
+
 - **Direct Scheduling OH Appointments**
     - ✔️ [Update Facility Configurations Mock#96142](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96142)
     - 🚧 [Add patient relationship endpoint service and mocks#89641](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89641)
     - ✔️ [Staging: Patient Should be Able to Direct Schedule#67002](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/67002)
     - ✔️ [Enhancements and testing of vets-api endpoint for clinic sorting#89323](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89323)
-    - 
+    - ✔️ 🟥🟪 [Midpoint Review - Accessibility Feedback - Appointments Team, Appointments, Oracle Health - Direct Schedule and Request for an Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97728)
+    - ✔️ 🟩 [Update alert on choose a VA location page - Part 3 #96525](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96525)
+    - ✔️ 🟩 [Update Error on which VA facility would you like to go to page #96482](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96482)
+    - ✔️ 🟩 [Spike] Provider selection page in the OH schedule workflow #95150](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95150)
 - **Requests Appointments OH**
     -  🟦🟩 ....
     - 
