@@ -20,7 +20,7 @@ anchors:
 
 ## Usage
 ### When to use this pattern
-- **When you prefill the user’s data into an application, like a form.** This pattern helps users understand how they can edit their prefilled information, especially sensitive information that requires calling a VA center to change. Additionally, this pattern informs users where their changes will be saved—either to the form, or to their form and VA.gov profile. See the related ["Help users to... Know when their information is prefilled"](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled) pattern for guidance on how to display the prefilled information. 
+- **When you prefill the user’s data into an application, like a form.** This pattern helps users understand how they can edit their prefilled information, especially sensitive information that requires calling a VA center to change. Additionally, this pattern informs users where their changes will be saved—either to the form, or to their form and VA Profile. See the related ["Help users to... Know when their information is prefilled"](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled) pattern for guidance on how to display the prefilled information. 
 
 #### Design principles
 - **Visibility of system status.** This pattern demonstrates the [usability principle of communicating the current state](https://www.nngroup.com/articles/visibility-system-status/) in order to allow users to feel in control and to be able to take appropriate action.
@@ -34,7 +34,7 @@ anchors:
 
 ## How to design and build
 ### Anatomy or layout details 
-This pattern involves these types of pages found in VA.gov forms:
+This pattern involves these types of pages found in VA forms:
 
 - **Personal information page:** Usually the first page of a form after the user signs in. Has personal details that typically cannot be edited online, like name, date of birth, Social Security number, etc.
 - **Prefill check page:** Any page of a form that displays prefilled information users can edit within the form.
@@ -73,10 +73,10 @@ This pattern communicates information that can be edited by:
 - **Displaying editable prefilled information in a card with an edit link.** Display prefilled information in a card component with a link to edit the information. This information may include contact information, such as phone, email, or mailing address.
 
 #### Communicate where changes will save
-- **In most cases, save changes to the VA.gov profile.** In [user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design-and-research/2024-07-Research-Initiative-One-Prefill/Prefill%20Research%20Report%2009_2024.md), most users indicated that they want changes made to their information to update the information stored on their VA.gov profile. On the edit page, display an informational alert informing users that these changes will impact their profile information. 
+- **In most cases, save changes to the VA Profile.** In [user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design-and-research/2024-07-Research-Initiative-One-Prefill/Prefill%20Research%20Report%2009_2024.md), most users indicated that they want changes made to their information to update the information stored on their VA Profile. On the edit page, display an informational alert informing users that these changes will impact their profile information. 
 
 #### Where needed, give users the choice of where to save
-- **In some cases, users want to choose where to save their information.** This is especially relevant for information that may change semi-frequenty, like mailing address. As an example, this might apply refilling and tracking VA prescriptions. In this case, on the edit page, do not display the informational alert informing them where their changes will save. Instead, display a required radio button below the fields asking them if they also want to update this information in their VA.gov profile.
+- **In some cases, users want to choose where to save their information.** This is especially relevant for information that may change semi-frequently. For example, when applying to refill and track VA prescriptions or medical devices, users may want to send to a temporary mailing address, and may not want this temporary mailing address to save to their VA Profile. In these cases, on the edit page, do not display the informational alert informing them where their changes will save. Instead, display a required radio button below the fields asking them if they also want to update this information in their VA Profile.
 
 #### Display success alerts when information has been saved
 - **Inform users where the changes were saved.** Display a success alert informing users "We've made these changes to this form and your VA.gov profile" or "We've made these changes to only this form.” This alert should be placed at the top of the page, below the stepper and text "We’ll save your application on every change." Use a standard alert within the form steps. Use a slim alert if the user made changes from the final review page.
@@ -100,7 +100,7 @@ Inform users that their information will save to their profile before they make 
 ![An informational alert with a bolded header saying "Any changes you make will also be reflected on your VA.gov profile."](https://github.com/user-attachments/assets/e4a0b49a-b136-4c7c-b5f1-f4a5fc7d0542)
 
 ### Success alert 
-Inform users their change has been saved to the form and their VA.gov profile. If the change was only saved to the form, the alert should read "We've made these changes to only this form."
+Inform users their change has been saved to the form and their VA Profile. If the change was only saved to the form, the alert should read "We've made these changes to only this form."
 
 ![A success alert with the header "We've updated your mailing address" and the body text "We've made these changes to this form and your VA.gov profile."](https://github.com/user-attachments/assets/323786ec-62f3-4890-8441-4d8091b985b3)
 
@@ -109,7 +109,7 @@ If the user made the edit from the final review page, display the slim success a
 ![A slim success alert with the text "Address successfully updated on this form."](https://github.com/user-attachments/assets/b90882ed-ebdc-48a2-abc3-4d00603c39e5)
 
 ### Radio button
-In cases where the information might be subject to change (especially mailing addresses), ask users if they want to save their changes to their VA.gov profile.
+In cases where the information might be subject to change (especially mailing addresses), ask users if they want to save their changes to their VA Profile.
 
 ![A required radio button field asking the user if they also want to update this information in their VA.gov profile.](https://github.com/user-attachments/assets/dc1f2a69-9ce2-4e34-b830-cc85f773e56a)
 
@@ -132,5 +132,5 @@ Directions for changing information that can’t be updated online vary. Instruc
 Teams must confirm with SMEs that instructions are accurate for the way their specific form populates information. 
 
 ## Research findings
-The Authenticated Experience Design Patterns team [conducted user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design-and-research/2024-07-Research-Initiative-One-Prefill/Prefill%20Research%20Report%2009_2024.md) in late 2024 about how users prefer to see their editable and non-editable information, and how they prefer to be informed about how to edit it. The majority of participants want updates to save to their VA.gov profile, but some also want the ability to choose where the data saves, in the case that they are using a temporary address or other temporary situation. 
+The Authenticated Experience Design Patterns team [conducted user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design-and-research/2024-07-Research-Initiative-One-Prefill/Prefill%20Research%20Report%2009_2024.md) in late 2024 about how users prefer to see their editable and non-editable information, and how they prefer to be informed about how to edit it. The majority of participants want updates to save to their VA Profile, but some also want the ability to choose where the data saves, in the case that they are using a temporary address or other temporary situation. 
 
