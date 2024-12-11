@@ -15,7 +15,7 @@
     - 🟩 [Update alert on choose a VA location page - Part 8#98191](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98191)
     - 
 - **Direct Scheduling OH**
-    - ❗ 🟩 [Add initial screen and placeholder data for Select a Provider step#98224]([add url to the ticket https://](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98224))
+    - ❗ 🟩 [Add initial screen and placeholder data for Select a Provider step#98224](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98224)
     - 🟩 [Add patient relationship endpoint service and mocks#89641](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89641)
     - 
 - **Appointments UI Improvements**
