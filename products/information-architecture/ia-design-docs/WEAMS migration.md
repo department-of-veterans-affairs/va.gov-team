@@ -26,24 +26,25 @@
 
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
+
 Up-to-date diagrams can be found on [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1729183095781/13879f018516bd9dd354f278919b5a9c101a0f1f?wid=136-1729183109815).
 
 All data and flows migrated into the Comparison Tool must be located at the current https://www.va.gov/education/gi-bill-comparison-tool or on sub-pages of that URL.
-![weams 1](https://github.com/user-attachments/assets/6184e991-63d2-4963-be4a-793368b62c20)
+![weams 5](https://github.com/user-attachments/assets/3610e476-49c1-42ef-b4d6-2ddeeabd2d62)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
 
 
-**1) GI Bill Comparison Tool - Existing**
+**1) GI Bill Comparison Tool - Existing URL now housing a different screen**
 - URL: va.gov/education/gi-bill-comparison-tool
 - Breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool
 - Notes: This URL currently holds the first screen in the Compare Schools search workflow. This same URL should now be used for the new 'landing page' screen. The H1 may be updated to reflect the added information in the tool.
 
 ### Sub-URLs
 
-**1) School Comparison search - Existing screen in new location**
+**1) School Comparison search - Existing screen at a new URL**
 - URL: va.gov/education/gi-bill-comparison-tool/[TBD by product team]
 - Breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool > [TBD by product team]
 - Notes: This will be the current start screen of the School Comparision tool search flow. It will be moved down one level in the sitemap heirarchy, and will have a new URL and breadcrumb showing it a sub-page of va.gov/education/gi-bill-comparison-tool
@@ -65,32 +66,46 @@ All data and flows migrated into the Comparison Tool must be located at the curr
 See more about [navigation pathways and entry points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/entry-points.md). Teams must launch with at least one navigation pathway.
 
 **1) [Education benefit hub page](https://www.va.gov/education/) - Modify**
-- Placement description: Keep the entry point's current location. Update the header and descriptive text to reflect the additional content added into the Comparison Tool.
+- Placement description: Keep the entry point's current placement on the Education hub page. Update the descriptive text to reflect the additional content added into the Comparison Tool.
 - Link label: [TBD by CAIA Content]
 - Link destination: va.gov/education/gi-bill-comparison-tool
-- Implementation Notes: CAIA Content will update the Education Hub page, on go-live of the changes to the tool
+- Implementation Notes: CAIA Content will update the Education Hub page, on launch of the changes to the tool
 ![weams 2](https://github.com/user-attachments/assets/a48c651f-6459-4a82-8c4e-3307e58026cf)
 
 ### Secondary entry points
 _Any additional locations that the page should be navigable from such as the "About a form" page, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc.   These are secondary, and while they are still very important, are not required for launch._
 
 **1. Mega menu - Modifications TBD** - 
-- Placement description: Mega Menu link card
+- Placement description: Mega Menu promo spot
 - Link label: Keep current header text and descriptive text, or update to reflect additional data available in the tool. (Changes TBD by CAIA Content)
 - Link destination: va.gov/education/gi-bill-comparison-tool
 - Who will update (IA, content, product team): CAIA IA
 - When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
-- Notes: Finalize whether this should link to the new Landing Page, or to the School Comparison
+- Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool
 
-**2. Left Nav - Retain** - 
-- Placement description: Education hub left nav 
-- Notes: Including here to be thorough - no changes needed at this point. Left nav navigation link should stay in its current location, should still display the name of the tool, and should direct to the highest-level url va.gov/education/gi-bill-comparison-tool
+**2. Right rail of Education hub page - Modifications TBD** - 
+- Placement description: Right rail promo spot
+- Link label: Keep current header text and descriptive text, or update to reflect additional data available in the tool. (Changes TBD by CAIA Content). The content here must be consistent with the content in the Mega Menu promo spot.
+- Link destination: va.gov/education/gi-bill-comparison-tool
+- Who will update (IA, content, product team): CAIA (TBD IA or Content)
+- When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
+- Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool
 
+**3. Left Nav - Modifications TBD** - 
+- Placement description: Education left nav, 'More' section
+- Link label: Retain the current location of the left nav item. Text updates TBD if content/meaning of va.gov/education/gi-bill-comparison-tool H1 changes significantly. (Changes TBD by CAIA Content). 
+- Link destination: va.gov/education/gi-bill-comparison-tool
+- Who will update (IA, content, product team): CAIA IA
+- When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
+- Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool
+
+  
 ### Crosslinks
-- CAIA Content will identify all **existing crosslinks** to the Comparison Tool and will modify the links to direct visitors to the new location the Landing page or the School search workflow, whichever is the best match.
-- CAIA Content will **add two new crosslinks**
-- - On the Licenses & Certifications benefit info page, navigating to the start page of the Licenses & Certifications search flow in the tool
-- - On the National Tests benefit info page, navigating to the National Tests page in the tool
+CAIA Content will identify all **existing crosslinks** to the Comparison Tool and will modify the links to direct visitors to the new location the Landing page or the School search workflow, whichever is the best match.
+
+CAIA Content will **add two new crosslinks**
+- On the Licenses & Certifications benefit info page, navigating to the start page of the Licenses & Certifications search flow in the tool
+- On the National Tests benefit info page, navigating to the National Tests page in the tool
 
 ## <a name="launchstuff"></a>Launch coordination activities <br>
 
