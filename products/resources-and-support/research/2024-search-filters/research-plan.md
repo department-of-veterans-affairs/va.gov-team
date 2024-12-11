@@ -14,11 +14,18 @@ CAIA's recent work to evaluate the content that is currently in the Benefit Hubs
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
+Objective 1: Our digital experiences are the best way to access VA health care and benefits. 
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+
+- Getting Out
+- Starting up
+- Taking care of myself
+- Putting down roots
+- Reinventing myself
+- Retiring
+- Aging
+- Dying
 
 ## Research Goals	
 What are you trying to learn from this research? 
