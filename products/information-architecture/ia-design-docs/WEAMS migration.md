@@ -87,8 +87,10 @@ _Any additional locations that the page should be navigable from such as the "Ab
 - Notes: Including here to be thorough - no changes needed at this point. Left nav navigation link should stay in its current location, should still display the name of the tool, and should direct to the highest-level url va.gov/education/gi-bill-comparison-tool
 
 ### Crosslinks
-CAIA content will identify all places that link to the Yellow Ribbon tool and will modify the link to direct visitors to the new location of the information or remove the link if its no longer applicable in that context.
-
+- CAIA Content will identify all **existing crosslinks** to the Comparison Tool and will modify the links to direct visitors to the new location the Landing page or the School search workflow, whichever is the best match.
+- CAIA Content will **add two new crosslinks**
+- - On the Licenses & Certifications benefit info page, navigating to the start page of the Licenses & Certifications search flow in the tool
+- - On the National Tests benefit info page, navigating to the National Tests page in the tool
 
 ## <a name="launchstuff"></a>Launch coordination activities <br>
 
