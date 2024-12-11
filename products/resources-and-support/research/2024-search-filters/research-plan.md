@@ -1,11 +1,11 @@
-# Research Plan for Sitewide Public Websites, Resources & Support: Search Enhancement, January 2025
+# Research Plan for Sitewide Public Websites, Resources & Support Search Enhancements, January 2025
 
 ## Background
 
-_Briefly describe the background of your product. Consider:
+Briefly describe the background of your product. Consider:
 - What problem is your product trying to solve?
 - Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?_
+- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
 - [Resources & Support product brief](https://github.com/department-of-veterans-affair=s/va.gov-team/blob/master/products/resources-and-support/readme.md)
 - [Resources & Support search enhancements initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1)
