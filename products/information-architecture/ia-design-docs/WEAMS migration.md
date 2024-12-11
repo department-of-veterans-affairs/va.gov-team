@@ -122,7 +122,7 @@ Current URL | Redirect to | Notes
 
 
 ### Best bets
-*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find content and features that are not easily found or not ranking well in search. Existing best bets must be removed or updated when links/URLs change.*
+*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov.*
 
 **1. GI Bill School Comparison Tool - Modify best bet** - 
 - CAIA IA will **update** the current Best Bet, and add description and/or keywords that highlight that National Tests and Licensing & Certification data is now available in the Comparison Tool.
