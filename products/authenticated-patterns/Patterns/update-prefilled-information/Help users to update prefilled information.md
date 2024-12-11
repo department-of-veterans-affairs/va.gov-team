@@ -24,7 +24,7 @@ anchors:
 
 #### Design principles
 - **Visibility of system status.** This pattern demonstrates the [usability principle of communicating the current state](https://www.nngroup.com/articles/visibility-system-status/) in order to allow users to feel in control and to be able to take appropriate action.
-- **User control and freedom.** This pattern also gives users control over their own information thereby providing [control and freedom](https://www.nngroup.com/articles/user-control-and-freedom/). 
+- **User control and freedom.** This pattern also gives users control over their own information, thereby providing [control and freedom](https://www.nngroup.com/articles/user-control-and-freedom/). 
 
 ### When not to use this pattern
 - **When prefilled information is not used.** If the form does not include prefilled information, there is no need to inform users how to update their prefilled information.
@@ -45,13 +45,17 @@ See the related ["Help users to... Know when their information is prefilled"](ht
 
 Alt: The first step of a form, asking users to confirm their personal information, such as legal name, date of birth, and Social Security number. That information is contained in a white card. Below the white card is a string of text explaining why this information cannot be edited online.
 
-<img width="756" alt="Personal-information-page" src="https://github.com/user-attachments/assets/a28de671-1c34-412f-a79e-1637643c53f9">
+<img width="786" alt="Personal-information-page" src="https://github.com/user-attachments/assets/591faf75-4455-46d9-ac81-18e4543ebd79">
 
 #### Prefill check page
+
+In most cases, changes should save to the VA Profile. An informational alert informs users where the changes will be saved.
 
 Alt: A page for users to update their mailing address. Above the fields is an informational alert stating, "Any changes you make will also be reflected on your VA.gov profile."
 
 <img width="569" alt="Edit-save-to-profile" src="https://github.com/user-attachments/assets/54e9cf8c-b777-43f4-b96a-2845ea7cfce1">
+
+In cases where users may need more control over where the data saves, instead of displaying the alert at the top of the page, display a radio button asking the user where they want the information to save. Learn more about these cases in the "communicate where changes will save" section below.
 
 Alt: A page for users to update their mailing address. Below the address fields is a required radio button field asking, "Do you also want to update this information in your VA.gov profile?"
 
@@ -62,17 +66,17 @@ Alt: A page for users to update their mailing address. Below the address fields 
 #### Communicate information that cannot be edited
 This pattern communicates information that cannot be edited by:
 - **Omitting the edit link in cards with non-editable information.** For information that cannot be changed online (such as legal name, date of birth, and Social Security number), remove the edit link within the card component. 
-- **Including textual instructions for updating uneditable information.** Under the card with the uneditable data, display informational text starting with the bolded word “Note:” followed by directions to update this information offline. See the #content-considerations section below for sample text.
+- **Including textual instructions for updating uneditable information.** Under the card with the uneditable data, display informational text starting with the bolded word “Note:” followed by directions to update this information offline. See the "content considerations" section below for sample text.
 
 #### Communicate information that can be edited
 This pattern communicates information that can be edited by:
 - **Displaying editable prefilled information in a card with an edit link.** Display prefilled information in a card component with a link to edit the information. This information may include contact information, such as phone, email, or mailing address.
 
 #### Communicate where changes will save
-- **In most cases, save changes to the VA.gov profile.** In [user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design-and-research/2024-07-Research-Initiative-One-Prefill/Prefill%20Research%20Report%2009_2024.md), most users indicated that they want changes they make to their information to update the information stored on their VA.gov profile. On the edit page, display an informational alert informing users that these changes will impact their profile information. 
+- **In most cases, save changes to the VA.gov profile.** In [user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design-and-research/2024-07-Research-Initiative-One-Prefill/Prefill%20Research%20Report%2009_2024.md), most users indicated that they want changes made to their information to update the information stored on their VA.gov profile. On the edit page, display an informational alert informing users that these changes will impact their profile information. 
 
 #### Where needed, give users the choice of where to save
-- **In some cases, users want to choose where to save their information.** This is especially relevant for information that may change over time, like mailing address. This might be especially relevant in cases where forms or perscriptions will be sent to users within the coming days or weeks. In this case, on the edit page, do not display the informational alert informing them where their changes will save. Instead, display a required radio button below the fields asking them if they also want to update this information in their VA.gov profile.
+- **In some cases, users want to choose where to save their information.** This is especially relevant for information that may change semi-frequenty, like mailing address. As an example, this might apply refilling and tracking VA prescriptions. In this case, on the edit page, do not display the informational alert informing them where their changes will save. Instead, display a required radio button below the fields asking them if they also want to update this information in their VA.gov profile.
 
 #### Display success alerts when information has been saved
 - **Inform users where the changes were saved.** Display a success alert informing users "We've made these changes to this form and your VA.gov profile" or "We've made these changes to only this form.” This alert should be placed at the top of the page, below the stepper and text "We’ll save your application on every change." Use a standard alert within the form steps. Use a slim alert if the user made changes from the final review page.
@@ -86,7 +90,9 @@ This pattern communicates information that can be edited by:
 ### Informational text after a set of uneditable information
 Inform the user that they need to call VA to update this information. The specific numbers to call may vary by form. 
 
-![A note to the user explaining why they can't edit personal information online. It starts with the bolded word "Note" and ends with a link to find more detailed instructions on how to change their legal name.]<img width="649" alt="How to edit personal information" src="https://github.com/user-attachments/assets/0c784990-98d2-4c69-a18a-9fdaa8552362">
+Alt: A note to the user explaining why they can't edit personal information online. It starts with the bolded word "Note" and ends with a link to find more detailed instructions on how to change their legal name. 
+
+<img width="649" alt="How to edit personal information" src="https://github.com/user-attachments/assets/0c784990-98d2-4c69-a18a-9fdaa8552362">
 
 ### Alert about where information will save
 Inform users that their information will save to their profile before they make the changes. If your form does not save changes to VA profile by default, or you have a compelling reason why a specific field should not save to the profile, see the Radio button example below.
