@@ -118,12 +118,12 @@ Efforts to inform this iteration with Veteran feedback
 ### Collaboration Cycle
 Milestone | Date | Link to issue |
 ---| :---: | :---: |
-| Collaboration cycle kickoff request | | |
-| PO Sync |October 30, 2024| [#95014](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95014) |
-| Design Intent | | |
+| Collaboration cycle kickoff request | October 15, 2024 | |
+| PO Sync | October 30, 2024| [#95014](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95014) |
+| Design Intent | SKIPPED | |
 | CMS Request| | |
 | Research review| | |
-| Midpoint Review| | |
+| Midpoint Review| November 26, 2024 | |
 | Analytics request| | |
 | Contact center review| | |
 | Staging review| | |
