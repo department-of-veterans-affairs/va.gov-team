@@ -95,12 +95,12 @@ _Any additional locations that the page should be navigable from such as the "Ab
 
 **3. Left Nav - Modifications TBD** - 
 - Placement description: Education left nav, 'More' section
-- Link label: Retain the current location of the left nav item. Text updates TBD if content/meaning of va.gov/education/gi-bill-comparison-tool H1 changes significantly. (Changes TBD by CAIA Content). 
+- Link label: Retain the current location of the left nav item. Text updates TBD if content/meaning of the H1 on va.gov/education/gi-bill-comparison-tool changes significantly. (Updates TBD by CAIA Content). 
 - Link destination: va.gov/education/gi-bill-comparison-tool
 - Who will update (IA, content, product team): CAIA IA
 - When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
 - Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool
-![weams 4](https://github.com/user-attachments/assets/2af3214b-ef41-4551-be3b-2d2df9f5cb28)
+![weams 8](https://github.com/user-attachments/assets/b7f236d3-96e8-4465-b0e8-ee7957a5986d)
 
   
 ### Crosslinks
