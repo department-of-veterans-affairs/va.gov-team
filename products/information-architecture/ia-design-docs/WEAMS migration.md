@@ -127,8 +127,6 @@ Current URL | Redirect to | Notes
 **1. GI Bill School Comparison Tool - Modify best bet** - 
 - CAIA IA will **update** the current Best Bet, and add description and/or keywords that highlight that National Tests and Licensing & Certification data is now available in the Comparison Tool.
 
-### Staged rollout
-No
 
 <hr>
 
