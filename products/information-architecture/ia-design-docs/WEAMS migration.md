@@ -17,7 +17,7 @@
 
 
 ## <a name="ruidelines"></a>Overall guidelines<br>
-- All content, data, new functionality, and child pages related to migrating data from WEAMS and creating homes for it in the Comparison Tool must be built in or under the parent url of https://www.va.gov/education/gi-bill-comparison-tool.
+- All content, data, new functionality, and child pages holding WEAMS data must be built on, or as sub-pages of, the current Comparison Toolparent url of https://www.va.gov/education/gi-bill-comparison-tool.
 - How sub-pages under that parent URL are structured is up to the product team.
 - Follow VADS standards for all [URLs](https://design.va.gov/components/url-standards/), [breadcrumbs](https://design.va.gov/components/breadcrumbs), [page titles](https://design.va.gov/content-style-guide/page-titles-and-section-titles).
 - Any pages created must have a clear entry point - a way for visitors to navigate to the page through links and navigation components. Pages cannot be reachable only via search.
