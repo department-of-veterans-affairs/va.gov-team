@@ -38,7 +38,7 @@ All data and flows migrated into the Comparison Tool must be located at the curr
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
 
 
-**1) GI Bill Comparison Tool - Existing URL now housing a different screen**
+**1) GI Bill Comparison Tool - Existing URL, will hold a different screen**
 - URL: va.gov/education/gi-bill-comparison-tool
 - Breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool
 - Notes: This URL currently holds the first screen in the Compare Schools search workflow. This same URL should now be used for the new 'landing page' screen. The H1 may be updated to reflect the added information in the tool.
