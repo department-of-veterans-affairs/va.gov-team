@@ -27,7 +27,7 @@ We begin working on a "preapproval" feature, which allows Veterans to submit pre
 
 It is easy to add these URLs because the organization is consistent - we know the pre-approvals are different from claims, but still related to travel-pay, so: `/travel-pay/pre-approvals`. This approach combines the consistent organization of alternative 1 with the readability of alternatives 2 & 3, making it our recommendation.
 
-## Option 1: API-Style URLs
+## Alternative 1: API-Style URLs
 - **Pros**: Consistent organization makes it easy to add other links in the future.
 - **Cons**: More effort needed to set this structure up from the beginning, maybe too much emphasis put on organization in favor of readability.
 
@@ -52,7 +52,7 @@ We begin working on a "preapproval" feature, which allows Veterans to submit pre
 
 It is easy to add these URLs because the organization is consistent - we know the pre-approvals are different from claims, but still related to travel-pay, so: `/travel-pay/pre-approvals`. However, the readability of the URL, though organized, may be lacking when compared with options below.
 
-## Option 2: Action Category URLs
+## Alternative 2: Action Category URLs
 - **Pros**: Separates notion of viewing claims and creating claims in the URL, which may be meaningful to Veterans.
 - **Cons**: Inconsistent URL structure makes it more difficult to add URLs in the future.
 
@@ -77,7 +77,7 @@ We begin working on a "preaproval" features, which allows Veterans to submit pre
 
 It is somewhat easy to add these URLs because we know they're different from claims, yet related to travel pay. However, separating the notion of viewing pre-approvals and filing for them requires some thought and enforced consistency. This may be a useful approach to Veterans in terms of readability.
 
-## Option 3: Claims-Specific URLs
+## Alternative 3: Claims-Specific URLs
 - **Pros**: Consistent organization makes reading the URL easier; separates notion of viewing claims and creating claims in the URL, which may be meaningful to Veterans; basically how CST does it. No Redirects
 - **Cons**: A stronger association with claims at the base level means potentially more effort and confusion when adding new URLs in the future.
 
