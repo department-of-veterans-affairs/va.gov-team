@@ -68,7 +68,7 @@ See more about [navigation pathways and entry points](https://github.com/departm
 - Placement description: Keep the entry point's current location. Update the header and descriptive text to reflect the additional content added into the Comparison Tool.
 - Link label: [TBD by CAIA Content]
 - Link destination: va.gov/education/gi-bill-comparison-tool
-- Implementation Notes: CAIA IA will update the Education Hub page, on go-live of the changes to the tool
+- Implementation Notes: CAIA Content will update the Education Hub page, on go-live of the changes to the tool
 ![weams 2](https://github.com/user-attachments/assets/a48c651f-6459-4a82-8c4e-3307e58026cf)
 
 ### Secondary entry points
