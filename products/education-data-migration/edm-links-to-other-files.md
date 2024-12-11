@@ -15,6 +15,9 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 ## WEAMS Public 
 - [Collaboration Cycle for Education Data Migration, WEAMS Public #90889](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90889)
 - [CAIA Intake for WEAMS Public #92369](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92369)
+### Design Intent Feedback
+- [Design Intent - IA Feedback - Education Data Migration, WEAMS Public #98839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98839#event-15607359715) 
+- [Design Intent - Accessibility Feedback - Education Data Migration, WEAMS Public #98857](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98857#event-15611083835)
 
 ## CT Homepage
 - [Collaboration Cycle EDM and VEBT team, GI Bill Comparison Tool homepage #98557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98557)
