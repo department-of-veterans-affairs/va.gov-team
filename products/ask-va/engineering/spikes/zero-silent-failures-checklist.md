@@ -1,5 +1,5 @@
 # Ask VA zero silent failures checklist
-Last updated on December 5, 2024 by: @arielma-tw
+Last updated on December 11, 2024 by: @beckyphung
 
 I copied this checklist from [this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-discover-if-your-app-has-silent-failures.md#checklist). 
 
@@ -14,7 +14,7 @@ I copied this checklist from [this GitHub doc](https://github.com/department-of-
 ## Start
 * [ ] Do you know when your application shipped to production?
   * If not, use Github to determine, roughly, when your application shipped to users.
-  * 💬 **Our application hasn't shipped to production yet. The target launch date is March 24th, 2025 ([see Mural timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12)).**
+  * 💬 **Our application hasn't shipped to production yet. The target launch date is March 17, 2025 ([see Mural timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12)).**
 
 * [ ] Did your application use the same APIs when it shipped as it does today?
   * If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
