@@ -1,4 +1,5 @@
-# Research Plan for Sitewide Public Websites, Resources & Support Search Enhancements, January 2025
+# Research Plan for Resources & Support Search Enhancements, January 2025
+Team: Sitewide Public Websites 
 
 ## Background
 
