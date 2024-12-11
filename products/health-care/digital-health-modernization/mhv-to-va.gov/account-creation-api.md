@@ -42,7 +42,7 @@ The MHV Portals + Access team led by PO Carnetta Scruggs is building the API. Th
 The full API documentation is linked above under "resources" and lives in the sensitive repo (requires access to view). In a nutshell, the 3 teams above have worked together and grouped errors into two "types." Cartography team is creating contact center documentation team around these errors to inform front-line helpdesk staff: 1.) what these error alerts look like, 2.) how to help users resolve each of these errors. 
 
 ### User-action required errors
-These are errors that require manual intervention by Helpdesk staff, and a user must call the helpdesk phone number and communicate the specific error code number to get assistance. These are errors numbered: 801, 805, 806, 807 from the API specifications.
+These are errors that require manual intervention by My HealtheVet helpdesk staff, and a user must call the helpdesk phone number and communicate the specific error code number to resolve the problem. This alert is most relevant for errors numbered: 801, 805, 806, 807 from the API specifications.
 
 ### Background errors
 These are errors that a user cannot resolve on their own, and are due to background issues that helpdesk staff are not likely to be able to resolve. Instead, telling users to reload the page or try again later are the most straightforward approaches we can commmunicate at this time (MVP) to address these problems, which we believe to be the least likely to occur based on production testing so far. These are errors numbered: 802, 803, 804, 808, 809, 810 from the API specifications.
