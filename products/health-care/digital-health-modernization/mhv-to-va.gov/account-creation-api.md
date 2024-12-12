@@ -102,8 +102,9 @@ On this page, we will render a modified version of the landing page with the rel
 
 ## Outstanding decisions:
 1. Which option (1 or 2) above do affected tool application POs prefer for implementation? All teams should align on a consistent approach
-2. Does the MHV Access + Portals team have feedback on the contact center documentation we have drafted?
+2. Does the MHV Access + Portals team have feedback on the contact center documentation we have drafted? - DONE: documentation approved 
 3. What is the best way to monitor feedback about the account creation API once we implement these alerts? Who is best positioned to do it?
+4. Are there accessibility issues with these alerts that we need to factor in and fix before launch? (outstanding ticket with CAIA A11y) 
 
 
 
