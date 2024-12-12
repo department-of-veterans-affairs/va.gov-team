@@ -34,7 +34,7 @@
 
 **1) Add Contact Info subtask**
 - URL: va.gov/my-va/welcome-va-setup/review-contact-info/
-- Breadcrumb: VA.gov home > My VA > Review contact information
+- Breadcrumb: VA.gov home > My VA > [H1 of the first page in the flow]
 - Notes: In this case, /welcome-va-setup/ is an empty directory. While we don't typically allow empty directories, we allowed it in this case because the team has concrete intentions to build more subtasks under the /welcome-va-setup/ directory. Note that the breadcrumb skips over that empty directory.
 
 
