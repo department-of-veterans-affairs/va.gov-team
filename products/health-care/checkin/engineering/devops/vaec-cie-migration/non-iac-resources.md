@@ -13,6 +13,7 @@ These are resources created while working on the `vaec-cie` migration through th
 ## S3
 
 - `project-cie-tfstate`: Bucket used for Terraform state storage
+- `project-cie-artifacts`: Bucket used for random artifacts
 
 ## Secrets Manager
 
