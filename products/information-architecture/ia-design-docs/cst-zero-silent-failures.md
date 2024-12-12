@@ -34,7 +34,7 @@ If, after processing, a file upload fails (aka, not on the upload screen, but in
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
 
 
-**1) New **
+**1) New Alternative Upload page**
 - URL: va.gov/track-claims/your-claims/[Claim Number]/TBDbasedonH1
 - Breadcrumb: VA.gov Home > Check your claims and appeals > Status of your compensation claim > [H1 TBD this thing]
 - Notes: Proposed something like /alternative-evidence-upload/ for the URL.
