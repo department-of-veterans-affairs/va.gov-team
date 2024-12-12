@@ -255,6 +255,7 @@ Because our staging site was still in-progress, we used our Figma prototype for 
 Additionally, due to limitations with our Figma prototype, we still need to conduct research with Assistive technology users and mobile users. We may request OCTO’s support with planning this additional research.
 ## Appendix
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vet-transition-support/research/2024-10-user-testing-v2/research-plan.md)
+
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vet-transition-support/research/2024-10-user-testing-v2/conversation-guide.md)
 ## Tools used for Synthesis
 We used Mural to synthesize the user testing data. We pulled in quotes and feedback from our sessions, then created affinity groups to identify recurring themes and subthemes. To inform our iterative design efforts, we then identified MVP recommendations that aligned with each major theme.
