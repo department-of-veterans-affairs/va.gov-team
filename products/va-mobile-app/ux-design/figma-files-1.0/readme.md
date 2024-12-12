@@ -1,6 +1,6 @@
 ## Figma files (version 1.0)
 
-This is a list of file exports for version 1.0 of the VA Health & Benefits Flagship Mobile App. These files represent the app prior to the launch of the 2022 IA & Navigation restructuring. They include Shipped, Protytype and Archived files. 
+This is a list of file exports for version 1.0 of the VA Health & Benefits Flagship Mobile App. These files represent the app prior to the launch of the 2022 IA & Navigation restructuring. They include Shipped, Protytype and Archived files. Live versions of the Shipped files are available as a .zip file to download and edit in Figma.
 
 #### Shipped files
 - [🚢 Home 1.0 - Shipped - VAMobile.pdf](https://github.com/user-attachments/files/18102177/Home.1.0.-.Shipped.-.VAMobile.pdf) / [🚢 Home 1.0 - Shipped - VAMobile.fig.zip](https://github.com/user-attachments/files/18114166/Home.1.0.-.Shipped.-.VAMobile.fig.zip)
