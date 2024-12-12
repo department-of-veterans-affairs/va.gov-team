@@ -55,7 +55,6 @@ We evaluated an option to route-guard users from affected applications up to `/m
  
 **Primary entry point:**
 * My HealtheVet on VA.gov home page - we will surface the relevant error alert alongside a modified landing page design.
-* [Figma designs here](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Sign-In?node-id=267-8158&t=UPokYL4gfORKiywK-4)
  
 **Side-door entry points to the affected apps:**
 
