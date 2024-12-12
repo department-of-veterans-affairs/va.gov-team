@@ -22,7 +22,7 @@ Feature Toggle/flag:
 - [ ] Enable backend feature flag `appoint_a_representative_enable_pdf` to allow for searching for representatives in Appoint, generating the PDF, and sending the email notification.
 - [ ] Any lingering issues that are needed to address prior to rollout?
 
-#### Go/No Go meeting **TBD**
+#### Go/No Go meeting Friday January 3, 2025
 - [ ] review the release plan with your team.
 - [ ] review the plan with your OCTO representative.
 
