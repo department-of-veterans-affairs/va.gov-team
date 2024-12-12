@@ -27,9 +27,9 @@ This brief will help your team create content for your product that aligns with 
 
 **accredited representative**
 
-We use this term to refer to a person or organization who's authorized to provide help with VA benefit claims to Veterans and service members, as well as their dependents and survivors. In order for an accredited representative to sign for someone else, the claimant or the representative must submit VA Form 21-22 or VA Form 21-22a. 
+We use this term to refer to a person or organization who's authorized by VA's Office the General Counsel to provide help with VA benefit claims to Veterans and service members, as well as their dependents and survivors. The accredited representative and the claimant must sign and submit VA Form 21-22 or VA Form 21-22a before the accredited representative can sign and submit other VA forms on behalf of the claimant.
 
-Note on usage: Use "VA accredited representative" in the first instance. After that, "accredited representative" is OK. Lowercase, and define on first appropriate instance as “a person or organization who's authorized to help with VA benefit forms.” Include the definition in another sentence, as a parenthetical, or set off with commas. 
+Note on usage: Use "VA accredited representative" in the first instance. After that, "accredited representative" is OK. Lowercase, and define on first appropriate instance as “a person or organization who's authorized to help with VA benefit claims.” Include the definition in another sentence, as a parenthetical, or set off with commas. 
 
 **alternate signer**
 
@@ -69,8 +69,8 @@ Here are some types of power of attorney and related VA forms:
 - “Durable power of attorney for health care” is permission to make health care decisions on behalf of a Veteran. 
   - VA Form 10-0137 gives this permission
 
-- “Power of attorney for VA purposes” is limited permission for accredited representatives to communicate with VA on behalf of a Veteran in the context of benefit applications. 
-  - VA Form 21-22 gives this permission for VSOs (and VSO representatives)
+- “Power of attorney for VA purposes” is limited permission for accredited representatives to communicate with VA on behalf of a Veteran in the context of their claims. 
+  - VA Form 21-22 gives this permission for VSOs (then those VSOs authorize "VSO representatives" from their organization)
   - VA Form 21-22a gives this permission for accredited attorneys and claims agents
  
 **sponsor**
@@ -83,7 +83,7 @@ We use this general term for any person or organization with permission to act a
 
 **Veterans Service Organization (VSO)** 
 
-We use this term for organizations accredited by VA to help someone with their VA claim or application. We no longer use the term “Veterans Service Officer.” You can use “VSO representative” after spelling out the acronym VSO once on a page.
+We use this term for organizations accredited by VA to help someone with their VA claims. We no longer use the term “Veterans Service Officer.” You can use “VSO representative” after spelling out the acronym VSO once on a page.
 
 **Veterans Service Organization (VSO) representative** 
 
