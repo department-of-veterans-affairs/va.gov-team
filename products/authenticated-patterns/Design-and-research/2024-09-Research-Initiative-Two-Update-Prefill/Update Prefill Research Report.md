@@ -2,7 +2,7 @@
 
 Authenticated Experience Design Patterns Team
 
-Last updated by @christinerosesteiffer Tues Dec 10th, 2024
+Last updated by @christinerosesteiffer Thurs Dec 12th, 2024
 
 Christine Rose Steiffer [[christine.steiffer@agile6.com](mailto:christine.steiffer@agile6.com) | [christine.steiffer@va.gov](mailto:christine.steiffer@va.gov)]
 
@@ -405,4 +405,5 @@ Assistive Technology (AT):
 * Sighted keyboard: 0
 * Captions: 0
 
+![Equality-checker-for-Update-Prefill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design-and-research/Screenshots/Equality%20Tracker%20for%20Update%20Prefill%20Study.png)
 [VA-recruitment-checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?gid=1312574022#gid=1312574022)
