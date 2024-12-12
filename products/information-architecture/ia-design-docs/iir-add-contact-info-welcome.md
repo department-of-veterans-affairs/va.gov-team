@@ -40,10 +40,10 @@
 
 
 ### Sub-URLs
-va.gov/my-va/welcome-va-setup/review-contact-info/mobile-phone
-va.gov/my-va/welcome-va-setup/review-contact-info/email-address
-va.gov/my-va/welcome-va-setup/review-contact-info/mailing-address
-va.gov/my-va/welcome-va-setup/review-contact-info/confirmation
+- va.gov/my-va/welcome-va-setup/review-contact-info/mobile-phone
+- va.gov/my-va/welcome-va-setup/review-contact-info/email-address
+- va.gov/my-va/welcome-va-setup/review-contact-info/mailing-address
+- va.gov/my-va/welcome-va-setup/review-contact-info/confirmation
 
 
 
