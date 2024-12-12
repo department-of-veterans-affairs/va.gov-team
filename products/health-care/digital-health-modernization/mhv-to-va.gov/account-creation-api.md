@@ -16,10 +16,12 @@ This API will automatically create an MHV-Identifier for any Veteran who does no
 * [Figma designs](https://www.figma.com/design/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?node-id=4065-9052&node-type=canvas&t=xMOSprUxBalLT5G4-0)
 
 ## On this page
-* Teams involved in this effort
-* API errors
-* Potential entry points & user routing in error states
-* Entry points to My HealtheVet on VA.gov
+* [Teams involved in this effort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#teams-involved-in-this-effort)
+* [API errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#api-errors)
+* [Potential entry points & user routing in error states]
+* [Entry points to My HealtheVet on VA.gov]
+* [Front-end alert design and My HealtheVet portal implementation logic]
+* [Outstanding decisions]
 
 ## Teams involved in this effort
 * MHV Portals + Access team (Carnetta Scruggs)
@@ -100,7 +102,7 @@ On this page, we will render a modified version of the landing page with the rel
 
 **Option 2:** If route-guarding users within your application is not desireable, account for putting this alert in place anywhere in the app. Similar to Option 1, suppress all functionality in the application and limit the page display to the same elements of the page denoted in the list above. 
 
-## Outstanding decisions:
+## Outstanding decisions
 1. Which option (1 or 2) above do affected tool application POs prefer for implementation? All teams should align on a consistent approach
 2. Does the MHV Access + Portals team have feedback on the contact center documentation we have drafted? - DONE: documentation approved 
 3. What is the best way to monitor feedback about the account creation API once we implement these alerts? Who is best positioned to do it?
