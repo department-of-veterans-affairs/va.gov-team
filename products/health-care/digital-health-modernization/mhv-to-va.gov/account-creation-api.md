@@ -81,13 +81,15 @@ For full detail, including accessibility annotations, [see Figma here](https://w
 <img width="922" alt="Screenshot 2024-12-11 at 4 51 39 PM" src="https://github.com/user-attachments/assets/610c346d-bf47-46eb-b114-3ea76d431619" />
 
 ### My HealtheVet portal implementation logic (high level):
-1. All impacted application pages should look for an MHV-Identifier as the third-order criteria before rendering a page for users: 
+[![](https://mermaid.ink/img/pako:eNp1kcFuwjAMhl_FygWQ6Av0sAnoNnoYmrZp0rbuYKUOjZQmlZOyIeDdl1JAgEROsfX7_37LGyFdSSIVyrhfWSEHeM8KC_FNvr1e2kTbH0iSO5gOcw-hImg9MeRZsiLWSlN5P-r1071s-0l-C7ODmAkQFEptdFiDtnuDhp3Shq7mFm4LDxuFqcJEapaGEvqTBmsM2tkIhB4o-xoNcdj1DrPOoQdnw8zRWc4KVzGChef5R5KXZEMXmY_ofrAjP94mDxYOUEryfnBBzc72fRq-ki0jD5vGHCKOLmQdZH4bMpHStTbAjOnQeMmBmB2fmJ2dGIuauEZdxpNtuk4h4q41FSKN35IUtiYUorC7KMU2uLe1lSIN3NJYsGuXlYgJjI9V25QYKNO4ZKxP3Qbtl3PHevcPPYi0PQ?type=png)](https://mermaid.live/edit#pako:eNp1kcFuwjAMhl_FygWQ6Av0sAnoNnoYmrZp0rbuYKUOjZQmlZOyIeDdl1JAgEROsfX7_37LGyFdSSIVyrhfWSEHeM8KC_FNvr1e2kTbH0iSO5gOcw-hImg9MeRZsiLWSlN5P-r1071s-0l-C7ODmAkQFEptdFiDtnuDhp3Shq7mFm4LDxuFqcJEapaGEvqTBmsM2tkIhB4o-xoNcdj1DrPOoQdnw8zRWc4KVzGChef5R5KXZEMXmY_ofrAjP94mDxYOUEryfnBBzc72fRq-ki0jD5vGHCKOLmQdZH4bMpHStTbAjOnQeMmBmB2fmJ2dGIuauEZdxpNtuk4h4q41FSKN35IUtiYUorC7KMU2uLe1lSIN3NJYsGuXlYgJjI9V25QYKNO4ZKxP3Qbtl3PHevcPPYi0PQ)
+
+1. All impacted application pages should look for an MHV-Identifier as the third-order criteria before rendering a page for users:
     * Does the user have an ID-verified credential (IAL2)?
     * Does the user have a access to My HealtheVet (do they have a facility in their profile)?
     * Does the user have an MHV-Identifier?
-2. If we do not detect an MHV-Identifier, we run a query to the Account Creation API endpoint to see if one was created at sign-in and fetch it.
-3. If we see a "false" value from the Account Creation API, we will re-run it and display a loading indicator on the page beneath the global header while we wait for the response (estimated time: 1-2 seconds)
-4. If we still do not see an MHV-Identifier, the solution will depend on what page the user is on:
+3. If we do not detect an MHV-Identifier, we run a query to the Account Creation API endpoint to see if one was created at sign-in and fetch it.
+4. If we see a "false" value from the Account Creation API, we will re-run it and display a loading indicator on the page beneath the global header while we wait for the response (estimated time: 1-2 seconds)
+5. If we still do not see an MHV-Identifier, the solution will depend on what page the user is on:
 
 #### My HealtheVet landing page
 On this page, we will render a modified version of the landing page with the relevant error alert in place. This page modification includes: suppressing links in the grey-boxes for each of the affected health applications. This avoids some dead-ends to those tools that a user does not have access to, and adds clarity to the meaning of the alert as to what applications are affected.
