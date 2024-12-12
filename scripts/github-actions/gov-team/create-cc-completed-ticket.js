@@ -244,6 +244,51 @@ function doPointMap({ name }) {
   );
 }
 
+async function addPointsToCompletedTicket(itemId, projectId) {
+  try {
+    const pointData = await getProjectField(projectId, "Points");
+    if (pointData !== null) {
+      const { id: pointFieldId, options: pointOptions } = pointData;
+      const [pointOptionId] = pointOptions.filter(doPointMap).map(option => option.id);
+      
+      if (pointOptionId) {
+        await updateIssue(
+          projectId,
+          itemId,
+          pointFieldId,
+          pointOptionId,
+        );
+      }
+    }
+  // don't exit process if this api call errors as it is flaky and not essential
+  } catch (error) {
+    console.log('could not add points to board:', error);
+  }
+}
+
+async function addSprintToCompletedTicket(itemId, projectId) {
+  try {
+    const sprintData = await getProjectField(projectId, "Sprint");
+    if (sprintData !== null) {
+      const { id: sprintFieldId, configuration: { iterations: sprints } } = sprintData;
+      const sprintOptionId = getSprintId(sprints);
+      
+      if (sprintOptionId) {
+        await updateIssue(
+          projectId,
+          itemId,
+          sprintFieldId,
+          sprintOptionId,
+          true
+        );
+      }
+    }
+    // don't exit process if this api call errors as it is flaky and not essential
+  } catch (error) {
+    console.log('could not add sprint to board:', error);
+  }
+}
+
 async function main() {
   try {
     const { body, milestone } = await getGHIssue(ISSUE_NUMBER);
@@ -270,38 +315,10 @@ async function main() {
 
     // only update an item's fields if we have the item's id
     if (itemId) {
-      // Sprint
-      const sprintData = await getProjectField(projectId, "Sprint");
-      if (sprintData !== null) {
-        const { id: sprintFieldId, configuration: { iterations: sprints } } = sprintData;
-        const sprintOptionId = getSprintId(sprints);
-        
-        if (sprintOptionId) {
-          await updateIssue(
-            projectId,
-            itemId,
-            sprintFieldId,
-            sprintOptionId,
-            true
-          );
-        }
-      }
-      // Points
-      const pointData = await getProjectField(projectId, "Points");
-      if (pointData !== null) {
-        const { id: pointFieldId, options: pointOptions } = pointData;
-        const [{ id: pointOptionId }] = pointOptions.filter(doPointMap);
-        
-        if (pointOptionId) {
-          await updateIssue(
-            projectId,
-            itemId,
-            pointFieldId,
-            pointOptionId,
-          );
-        }
-      }
-    } 
+      await addSprintToCompletedTicket(itemId, projectId);
+      await addPointsToCompletedTicket(itemId, projectId);
+    }
+    
   } catch (error) {
     console.log(error);
     process.exit(1);
