@@ -81,7 +81,18 @@ For full detail, including accessibility annotations, [see Figma here](https://w
 <img width="922" alt="Screenshot 2024-12-11 at 4 51 39 PM" src="https://github.com/user-attachments/assets/610c346d-bf47-46eb-b114-3ea76d431619" />
 
 ### My HealtheVet portal implementation logic (high level):
-[![](https://mermaid.ink/img/pako:eNp1klFP2zAQx7_KyS8UqfkCfQBBs9EgyhBMQ9vCw8k-J5YcOzo7sKrpd8du2olOw0--8__u9z_bWyG9IrEQ2vo32SJH-F7WDtK6-h1M4wrjXqAoLuB6VgWILcEQiKEqi1diow2py_NJf72XjT8pjLA8iJkAQaM01sQNGLdv0LPXxtI_dfd-hC9bjQuNhTQsLRX0R1rsMBrvEhAmoJxitMRxN3VY5g4TuJyVnj74bPE1WXCwXv0oKkUuZst8RE-Fmfz1c_LZvQeUkkI4O6GWH-a9mT2SU4mHfW8PFs9PZBmymj23GCF6bwNguptkcwORN8Y1KXugHM2tpsI7dCqf99jQHNakwhweSXrOm6f1CNXn1q-k9IOLsGQ6JB4qIGbP0ySQL1JrkpFUth52J-hv-QWhJbSx3bse4fb_g-YyMRcdcYdGpe-0zZlapAYd1WKRtoo0DjbWona7JMUh-qeNk2IReaC5YD80rUhz2JCioVcYqTTYMHZ_sz26X94f4907fLPoJA?type=png)](https://mermaid.live/edit#pako:eNp1klFP2zAQx7_KyS8UqfkCfQBBs9EgyhBMQ9vCw8k-J5YcOzo7sKrpd8du2olOw0--8__u9z_bWyG9IrEQ2vo32SJH-F7WDtK6-h1M4wrjXqAoLuB6VgWILcEQiKEqi1diow2py_NJf72XjT8pjLA8iJkAQaM01sQNGLdv0LPXxtI_dfd-hC9bjQuNhTQsLRX0R1rsMBrvEhAmoJxitMRxN3VY5g4TuJyVnj74bPE1WXCwXv0oKkUuZst8RE-Fmfz1c_LZvQeUkkI4O6GWH-a9mT2SU4mHfW8PFs9PZBmymj23GCF6bwNguptkcwORN8Y1KXugHM2tpsI7dCqf99jQHNakwhweSXrOm6f1CNXn1q-k9IOLsGQ6JB4qIGbP0ySQL1JrkpFUth52J-hv-QWhJbSx3bse4fb_g-YyMRcdcYdGpe-0zZlapAYd1WKRtoo0DjbWona7JMUh-qeNk2IReaC5YD80rUhz2JCioVcYqTTYMHZ_sz26X94f4907fLPoJA)
+```mermaid
+flowchart TD
+    A[sign-in] --> B(Is the user ID-verified?)
+    B --> |Yes| C(Is there a facility in the profile?)
+    B --> |No| E{fa:fa-circle-exclamation ID verification alert}
+    C -->|Yes| D(Does the user have an MHV-Identifier?)
+    C -->|No| F{fa:fa-circle-exclamation 'No access' alert}
+    D --> |Yes| G(Render application)
+    D --> |No| H(What tools are they trying to access?)
+    H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation Account Creation API error alert on affected apps}
+    H --> |Other health tool| J(Render application)
+```
 
 1. All impacted application pages should look for an MHV-Identifier as the third-order criteria before rendering a page for users:
     * Does the user have an ID-verified credential (IAL2)?
