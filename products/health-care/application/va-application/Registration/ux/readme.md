@@ -9,7 +9,7 @@ The problem is to add this option to the online EZ in a way that is not confusin
 
 
 - [Mural folder](https://app.mural.co/t/departmentofveteransaffairs9999/r/1670613238628?folderUuid=eb1cd9df-3cca-4008-9d32-29c42520a4ba)
-- [ MVP epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43221)
+- [MVP epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43221)
 
 
 ## Recent Work
