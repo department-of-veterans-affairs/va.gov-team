@@ -2,11 +2,28 @@
 The purpose of these meetings are to determine timelines for content work and discuss open items/ blocker related to content of the IVC forms.
 
 ## December 12, 2024
-- CHAMPVA staging review date
+- CHAMPVA claims staging review date
 - CHAMPVA multiple claims flow
+
   
  ### Notes
- 
+- FMP Claims:
+   - No content updates needed unless something comes back form Staging Review. Then will work with Laura. Will probably wait until after code freeze to launch. WIll have low content avaiblility over code freeze. 
+ -  CHAMPVA claims
+    - No date yet
+    - Are we allowing Kaiser Permanente insurance? Jamie to check that notes and follow up with CHAMPVA claim partners
+    - Multiple Claims will be post MVP
+    - Check on what the max amount of claims we can upload in List & Loop. Check with engineers.
+    - Aliyah will clarify what is a claim (date of service), possibly on intro screen 
+    - Will remove the submit "one claim at a time" from intro page of list and loop, maybe think about moving to the upload page
+- CHAMPVA OHI: 
+  - Will be the next one to go to staging review 
+  - CAIA can do another pass at content review
+- CHAMPVA App
+  - Check on processing time for the form, heard from CHAMPVA that it may need to change to 6 months. CAIA will confirm
+  - May have some more work coming to CAIA soon due to some post-launch data
+  - Double check on release on CHAMPVA. Alyiah saw that it's open to everyone rather than 50%
+
  
 ## October 17, 2024
 - Review widget in the static page for 1010d CHAMPVA Registration
