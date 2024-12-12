@@ -19,9 +19,8 @@ This API will automatically create an MHV-Identifier for any Veteran who does no
 * [Teams involved in this effort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#teams-involved-in-this-effort)
 * [API errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#api-errors)
 * [Potential entry points & user routing in error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#potential-entry-points--user-routing-in-error-states)
-* [Entry points to My HealtheVet on VA.gov]
-* [Front-end alert design and My HealtheVet portal implementation logic]
-* [Outstanding decisions]
+* [Front-end alert design and My HealtheVet portal implementation logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#front-end-alert-design-and-my-healthevet-portal-implementation-logic)
+* [Outstanding decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#outstanding-decisions)
 
 ## Teams involved in this effort
 * MHV Portals + Access team (Carnetta Scruggs)
