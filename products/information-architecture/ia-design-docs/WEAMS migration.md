@@ -78,18 +78,18 @@ _Any additional locations that the page should be navigable from such as the "Ab
 - Placement description: Mega Menu promo spot
 - Link label: Keep current header text and descriptive text, or update to reflect additional data available in the tool. (Changes TBD by CAIA Content)
 - Link destination: va.gov/education/gi-bill-comparison-tool
-- Who will update (IA, content, product team): CAIA IA or possibly OPIA (CAIA IA will coordinate)
+- Who will update (IA, content, product team): Education business line. CAIA IA or product team to coordinate.
 - When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
-- Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool
+- Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool. Editing a single location updates the promo spot in both the Mega menu and Right rail.
 ![weams 6](https://github.com/user-attachments/assets/49b2ce5f-d9dd-4481-8807-9bb6d1a85385)
 
 **2. Right rail of Education hub page - Modifications TBD** - 
 - Placement description: Right rail promo spot
 - Link label: Keep current header text and descriptive text, or update to reflect additional data available in the tool. (Changes TBD by CAIA Content). The content here must be consistent with the content in the Mega Menu promo spot.
 - Link destination: va.gov/education/gi-bill-comparison-tool
-- Who will update (IA, content, product team): OPIA (CAIA IA will coordinate)
+- Who will update (IA, content, product team): Education business line. CAIA IA or product team to coordinate.
 - When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
-- Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool
+- Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool. Editing a single location updates the promo spot in both the Mega menu and Right rail.
 ![weams 7](https://github.com/user-attachments/assets/e8bfa70c-56de-449e-bdd6-57eb7d36f3ac)
 
 **3. Left Nav - Modifications TBD** - 
