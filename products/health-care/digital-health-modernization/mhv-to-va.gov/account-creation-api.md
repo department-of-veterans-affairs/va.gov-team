@@ -7,6 +7,15 @@ The account creation API seeks to solve a current-state problem, where user firs
 
 This API will automatically create an MHV-Identifier for any Veteran who does not already have one, and the process will kick off at the time a user signs-in to VA.gov, or enters VA.gov via SSOe from another external VA site. The most common use case for this API are users who set up a new **ID.me** or **Login.gov** account & attempt to access My HealtheVet for the first time. However, the API can fail if certain errors are hit. Most of those errors will occur behind the scenes, but four errors will require user action: the Veteran will need to contact the My HealtheVet helpdesk & share the error code they received, which will aid the helpdesk team in quickly triaging the problem & escalating it to the necessary tier of support. 
 
+
+## On this page
+* [Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#resources)
+* [Teams involved in this effort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#teams-involved-in-this-effort)
+* [API errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#api-errors)
+* [Potential entry points & user routing in error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#potential-entry-points--user-routing-in-error-states)
+* [Front-end alert design and My HealtheVet portal implementation logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#front-end-alert-design-and-my-healthevet-portal-implementation-logic)
+* [Outstanding decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#outstanding-decisions)
+
 ## Resources
 * [Account Creation API specs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/vsp/teams/Identity/Product%20Documentation/MHV%20account%20creation%20api%20on%20vagov) (private)
 * [API requirements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/MHV%20account%20creation%20API/requirements.md)
@@ -14,13 +23,6 @@ This API will automatically create an MHV-Identifier for any Veteran who does no
 * [Implementation documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/MHV%20account%20creation%20API/vets-api%20Documentation/mhv_user_account_api.md)
 * [Cartography team Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719581177532/3cbc80571562a1f162a0887c4a60e06c3014f99a)
 * [Figma designs](https://www.figma.com/design/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?node-id=4065-9052&node-type=canvas&t=xMOSprUxBalLT5G4-0)
-
-## On this page
-* [Teams involved in this effort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#teams-involved-in-this-effort)
-* [API errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#api-errors)
-* [Potential entry points & user routing in error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#potential-entry-points--user-routing-in-error-states)
-* [Front-end alert design and My HealtheVet portal implementation logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#front-end-alert-design-and-my-healthevet-portal-implementation-logic)
-* [Outstanding decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#outstanding-decisions)
 
 ## Teams involved in this effort
 * MHV Portals + Access team (Carnetta Scruggs)
