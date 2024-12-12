@@ -13,8 +13,8 @@ As a Veteran, I want [ ], so that [ ].
 
 ---
 ## Acceptance Criteria/Definition of Done
-- _task_
-- **Success:**
+- [ ] _task_
+- [ ] **Success:**
 
 
 ---
