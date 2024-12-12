@@ -98,7 +98,7 @@ On this page, we will render a modified version of the landing page with the rel
 * This alert
 * Footer
 
-**Option 2:** If route-guarding users within your application is not desireable, account for putting this alert in place anywhere in the app. Similar to Option 1, suppress all functionality in the application and limit the page display to the same elements of the page that are listed above. 
+**Option 2:** If route-guarding users within your application is not desireable, account for putting this alert in place anywhere in the app. Similar to Option 1, suppress all functionality in the application and limit the page display to the same elements of the page denoted in the list above. 
 
 ## Outstanding decisions:
 1. Which option (1 or 2) above do affected tool application POs prefer for implementation? All teams should align on a consistent approach
