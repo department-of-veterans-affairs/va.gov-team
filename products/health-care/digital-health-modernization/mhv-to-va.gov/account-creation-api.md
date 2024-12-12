@@ -45,7 +45,7 @@ The MHV Portals + Access team led by PO Carnetta Scruggs is building the API. Th
  ## API errors
 In a nutshell, the 3 teams above have worked together and grouped errors into two "types." Cartography team is creating contact center documentation around these errors to inform front-line helpdesk staff: 1.) what these error alerts look like, 2.) how to help users resolve each of these errors. 
 
-[Full API documentation can be viewed here]([resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#resources)") (also linked under 'Resources' section above)
+[Full API documentation can be viewed here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#resources) (also linked under 'Resources' section above)
 
 ### User-action required errors
 These are errors that require manual intervention by My HealtheVet helpdesk staff, and a user must call the helpdesk phone number and communicate the specific error code number to resolve the problem. This alert is most relevant for errors numbered: 801, 805, 806, 807 from the API specifications.
