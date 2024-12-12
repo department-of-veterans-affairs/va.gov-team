@@ -5,12 +5,12 @@
 - Designer: Gary Homi and Skyler Schain
 - PM: Julie Strothman
 - Slack: #benefits-management-tools
-- Figma: https://www.figma.com/design/m1Xt8XjVDjZIbliCYcCKpE/Silent-Failures-CST-Improvements?node-id=2909-45233&t=Xq3yjVHphH7qs4ju-4
-- Product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Evidence%20Submission%20Status%20Initiative.md
+- [Figma](https://www.figma.com/design/m1Xt8XjVDjZIbliCYcCKpE/Silent-Failures-CST-Improvements?node-id=2909-45233&t=Xq3yjVHphH7qs4ju-4)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Evidence%20Submission%20Status%20Initiative.md
+  
+[CAIA Intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97506#issuecomment-2521715592)
 
-**CAIA Intake ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/97506#issuecomment-2521715592
-
-**IA Tracker: https://github.com/department-of-veterans-affairs/va.gov-team/issues/98620
+[IA Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98620)
 
 **On this page:**
 - [User/page flows](#flows)
