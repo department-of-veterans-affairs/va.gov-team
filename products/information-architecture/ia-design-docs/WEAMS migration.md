@@ -105,9 +105,12 @@ _Any additional locations that the page should be navigable from such as the "Ab
 ### Crosslinks
 CAIA Content will identify all **existing crosslinks** to the Comparison Tool and will modify the links to direct visitors to the new location the Landing page or the School search workflow, whichever is the best match.
 
-CAIA Content will **add two new crosslinks**
-- On the [Licensing & Certification benefit info page](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/licensing-and-certification-tests/), navigating to the start page of the Licensing & Certification search flow in the tool
-- On the [National Tests benefit info page](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/national-tests/), navigating to the National Tests page in the tool
+CAIA Content will **update current out-links to WEAMS tool, to point to Comparison Tool**
+- On the [Licensing & Certification benefit info page](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/licensing-and-certification-tests/), update to navigate to the Licensing & Certification search flow in the tool. And any needed updates to the "Tips for using the tool" section that follows.
+![weams 10](https://github.com/user-attachments/assets/4fbdada3-2527-409f-9739-147b3c439e32)
+
+- On the [National Tests benefit info page](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/national-tests/), update to navigate to the National Tests page in the tool.
+![weams 9](https://github.com/user-attachments/assets/c0c904e1-c56c-4277-b182-6d9d7aa96d92)
 
 ## <a name="launchstuff"></a>Launch coordination activities <br>
 
