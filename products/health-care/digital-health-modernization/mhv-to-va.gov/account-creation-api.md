@@ -64,7 +64,7 @@ We evaluated an option to route-guard users from affected applications up to `/m
 * Cross-links from other unaffected health tool applications
 * Medications, Medical Records, and Secure Messages links
 
-## Front-end alert design and high-level implementation logic
+## Front-end alert design and My HealtheVet portal implementation logic
 
 ### Alert designs:
 For full detail, including accessibility annotations, [see Figma here](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Sign-In?node-id=267-8158&node-type=frame&t=UPokYL4gfORKiywK-0)
@@ -75,7 +75,7 @@ For full detail, including accessibility annotations, [see Figma here](https://w
 #### Background error alert (error codes: 802, 803, 804, 808, 809, 810)
 <img width="922" alt="Screenshot 2024-12-11 at 4 51 39 PM" src="https://github.com/user-attachments/assets/610c346d-bf47-46eb-b114-3ea76d431619" />
 
-### High-level implementation logic:
+### My HealtheVet portal implementation logic (high level):
 1. All impacted application pages should look for an MHV-Identifier as the third-order criteria before rendering a page for users: 
   * Does the user have an ID-verified credential (IAL2)?
   * Does the user have a access to My HealtheVet (do they have a facility in their profile)?
