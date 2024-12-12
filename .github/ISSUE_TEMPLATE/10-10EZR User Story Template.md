@@ -1,8 +1,8 @@
 ---
 name: 1010EZR User Story Template
 about: For the 10-10 Health Enrollment team
-title: "[discipline] 10-10EZR: initiative: story title"
-labels: 1010-team
+title: "[discipline] 10-10EZR: story title"
+labels: 1010-team; 10-10ezr
 assignees:
 
 ---
