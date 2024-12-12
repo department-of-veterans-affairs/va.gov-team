@@ -33,7 +33,7 @@ Note on usage: Use "VA accredited representative" in the first instance. After t
 
 **alternate signer**
 
-We use this term for a person who's certified to sign certain VA forms or applications for a claimant. A person can certify as an alternate signer by submitting VA Form 21-0972.
+We use this term for a person who's certified to sign certain VA forms on behalf of someone else. For example, signing a disability claim on behalf of a Veteran. A person can certify as an alternate signer by submitting VA Form 21-0972.
 
 **applicant**
 
