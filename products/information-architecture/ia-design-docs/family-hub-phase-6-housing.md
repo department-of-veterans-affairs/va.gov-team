@@ -60,7 +60,7 @@ The housing subhub is new to this phase.
        - Request decision review: https://www.va.gov/decision-reviews/
    - **More(H2)**
        - Loan limits: https://www.va.gov/housing-assistance/home-loans/loan-limits
-       - R+S: Regional loan centers: https://www.benefits.va.gov/homeloans/contact_rlc_info.asp [If possible, update with our new page. If not, send users to this legacy page until R+S is published]
+       - R+S: Regional loan centers: TBD when we have this R+S page created
    - **Related VA benefits and services(H2)**
        - Specially adapted housing and special home adaptation: https://www.va.gov/housing-assistance/disability-housing-grants/
        - VA-backed home loans: https://www.va.gov/housing-assistance/home-loans/
