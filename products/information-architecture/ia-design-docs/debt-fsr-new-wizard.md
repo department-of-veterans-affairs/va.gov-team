@@ -63,13 +63,13 @@ The new subtask will live under /manage-va-debt/ at the same level as the 5655 f
 
 ### Subtask Sub-URLs
 
-https://www.va.gov/manage-va-debt/debt-help-options/introduction/
-https://www.va.gov/manage-va-debt/debt-help-options/overpayment/
-https://www.va.gov/manage-va-debt/debt-help-options/overpayment/repayment-time/
-https://www.va.gov/manage-va-debt/debt-help-options/overpayment/error-or-disagreement/
-https://www.va.gov/manage-va-debt/debt-help-options/overpayment/review-decision/
-https://www.va.gov/manage-va-debt/debt-help-options/health-copays/
-https://www.va.gov/manage-va-debt/debt-help-options/results/
+- https://www.va.gov/manage-va-debt/debt-help-options/introduction/
+- https://www.va.gov/manage-va-debt/debt-help-options/overpayment/
+- https://www.va.gov/manage-va-debt/debt-help-options/overpayment/repayment-time/
+- https://www.va.gov/manage-va-debt/debt-help-options/overpayment/error-or-disagreement/
+- https://www.va.gov/manage-va-debt/debt-help-options/overpayment/review-decision/
+- https://www.va.gov/manage-va-debt/debt-help-options/health-copays/
+- https://www.va.gov/manage-va-debt/debt-help-options/results/
 
 
 ## <a name="nav"></a>Entry points <br>
