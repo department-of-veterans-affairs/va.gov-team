@@ -82,6 +82,8 @@ We conducted 9 out of 12 scheduled sessions, with 1 user utilizing a screenreade
    </td>
    <td>Explanation
    </td>
+   <td>Scope
+   </td>
   </tr>
   <tr>
    <td>The gray and white card combination will be the preferred style of reviewing prefilled information.
@@ -89,6 +91,8 @@ We conducted 9 out of 12 scheduled sessions, with 1 user utilizing a screenreade
    <td>Somewhat true
    </td>
    <td>While the gray card was slightly preferred over the white one, the design system is moving away from using the gray card.We are recommending only using the white card.
+   </td>
+   <td>5/9 support the hypothesis
    </td>
   </tr>
   <tr>
@@ -98,6 +102,8 @@ We conducted 9 out of 12 scheduled sessions, with 1 user utilizing a screenreade
    </td>
    <td>Most users expected and wanted information to save to their profile, but some offered use cases in which this approach would be problematic.
    </td>
+   <td>7/9 support the hypothesis, and 3/9 wanted the option to choose where to save
+   </td>
   </tr>
   <tr>
    <td>Clarifying how to edit uneditable data will make users feel confident in knowing how to do so.
@@ -105,6 +111,8 @@ We conducted 9 out of 12 scheduled sessions, with 1 user utilizing a screenreade
    <td>Definitely true
    </td>
    <td>Most users were confident in how they would edit uneditable data, but some expressed frustration in needing to call.  
+   </td>
+   <td>7/9 support the hypothesis
    </td>
   </tr>
   <tr>
@@ -114,6 +122,8 @@ We conducted 9 out of 12 scheduled sessions, with 1 user utilizing a screenreade
    </td>
    <td>Most users want to see all of their information on the review page. 
    </td>
+   <td>7/9 doesn't support the hypothesis
+   </td>
   </tr>
   <tr>
    <td>The unauthenticated prefill alert will entice users to sign in to complete their form. 
@@ -121,6 +131,8 @@ We conducted 9 out of 12 scheduled sessions, with 1 user utilizing a screenreade
    <td>Definitely true
    </td>
    <td>This alert was well understood and commonly noticed by users.
+   </td>
+   <td>9/9 support the hypothesis
    </td>
   </tr>
 </table>
