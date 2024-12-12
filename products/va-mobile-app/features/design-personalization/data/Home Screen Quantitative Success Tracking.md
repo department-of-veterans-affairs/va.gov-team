@@ -38,7 +38,7 @@ Baseline was from 03/01/24 - 07/31/24. Note that during this timeframe, the API 
 | Veteran Behavior | 1 Month | 2 Month | 3 Month | 4 Month| 5 Month | 6 Month |
 | -------- | -------- | ---------- | ----------------- | -----------------| ----------- | --------- |
 | Veteran Opened App & Viewed Home Screen (Baseline) | 68% | 58% | 53% | 53% | 50% | 48% ||||
-| Veteran Opened App & Viewed Home Screen (Post Launch) | 76% | 60% | 54% | 45% |  |  ||||
+| Veteran Opened App & Viewed Home Screen (Post Launch) | 76% | 60% | 54% | |  |  ||||
 
 
 
