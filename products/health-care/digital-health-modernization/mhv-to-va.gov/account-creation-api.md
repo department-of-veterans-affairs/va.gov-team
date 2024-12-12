@@ -33,6 +33,7 @@ This API will automatically create an MHV-Identifier for any Veteran who does no
 * MHV on VA.gov Cartography Team (Robyn Singleton)
   * Wes Rowe - PM
   * Daniel Cloud - engineer
+  * Kevin Suarez - engineer
   * Sara Sterkenburg - information architect
 
 **Distribution of effort:**
