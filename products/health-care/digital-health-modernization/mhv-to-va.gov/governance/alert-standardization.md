@@ -10,8 +10,26 @@ Within the My HealtheVet portal, multiple alerts are required to display in one,
 * 404 page not found alerts (guidance coming soon)
 
 ## High-level API access logic
+```mermaid
+flowchart TD
+    A[sign-in] --> B(Is the user ID-verified?)
+    B --> |Yes| C(Is there a facility in the profile?)
+    B --> |No| E{fa:fa-circle-exclamation ID verification alert}
+    C -->|Yes| D(Does the user have an MHV-Identifier?)
+    C -->|No| F{fa:fa-circle-exclamation 'No access' alert}
+    D --> |Yes| G(Render application)
+    D --> |No| H(What tools are they trying to access?)
+    H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation Account Creation API error alert on affected apps}
+    H --> |Other health tool| J(Render application)
+```
 
-
+1. All impacted application pages should look for an MHV-Identifier as the third-order criteria before rendering a page for users:
+    * Does the user have an ID-verified credential (IAL2)?
+    * Does the user have a access to My HealtheVet (do they have a facility in their profile)?
+    * Does the user have an MHV-Identifier?
+3. If we do not detect an MHV-Identifier, we run a query to the Account Creation API endpoint to see if one was created at sign-in and fetch it.
+4. If we see a "false" value from the Account Creation API, we will re-run it and display a loading indicator on the page beneath the global header while we wait for the response (estimated time: 1-2 seconds)
+5. If we still do not see an MHV-Identifier, the solution will depend on what page the user is on:
 ## ID-Verification alerts
 
 ### Alert designs
