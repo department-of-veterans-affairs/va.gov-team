@@ -21,3 +21,9 @@ Within the My HealtheVet portal, multiple alerts are required to display in one,
 
 ## Account Creation API error alerts 
 The account creation API effort & related error alerts are [documented separately here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md).  
+
+## Oracle Health / Cerner Routing alerts
+Guidance coming soon.
+
+## 404 Page not found alerts 
+Guidance coming soon.
