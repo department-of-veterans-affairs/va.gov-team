@@ -259,6 +259,7 @@ In the case of the Medical Expense Report (21P-8416), a supplementary form to re
 *  Explore the idea of a “buddy statement” within the 527EZ for medical expenses.
 * Consider the prioritization of digitizing the Income and Asset Statement relative to other PBP team initiatives, knowing that this supplemental form is used by upwards of 50% of pension applicants.
 * Future research opportunity: Validate whether or not these are the most challenging sections for pension-eligible Veterans and their families to fill out on the online form.
+* Future research opportunity: Familiarize ourselves with VA Form 21-2680 (Aid & Attendance) to better understand the interactions between this form and the 527EZ.
 
 ### **Finding 7: VSOs frequently report the presence of pension poachers—individuals or companies that exploit Veterans by offering fraudulent services or charging high fees for assistance. This predatory behavior complicates the process and increases the risk of errors or scams for vulnerable Veterans**
 
@@ -406,6 +407,7 @@ Future research areas may include:
 * Conduct research with family members of eligible Veterans to better understand their experience and needs as users of the 527EZ.  
 * Validate if Veterans who fill out the 527EZ are also commonly supported by a family member or caregiver.  
 * Knowing that digital options are rarely utilized by pension-eligible Veterans working with VSOs, validate who the users of the 527EZ are and what challenges they face during their self-service experience.
+* Familiarize ourselves with VA Form 21-2680 (Aid & Attendance) to better understand the interactions between this form and the 527EZ.
 
 ## **Next Steps**
 
