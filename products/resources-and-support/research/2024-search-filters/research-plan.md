@@ -39,49 +39,56 @@ Validate the proposed design so we can start building it. There will be a second
 
 ### Research questions
 
-1. Confirm if the designs of the filter drawer and filter chips support user understanding of functionality
-   - Do users understand how to access the filter drawer?
-   - Do users understand the and/or logic between filters across/within filter groups?
-   - Do users understand the Apply filters, Clear all, and X buttons in filter drawer?
-   - Do users understand how to dimiss a filter once it's applied?
-   - Do users understand how the filter chips on Detail pages function?
-   - Are these understandable on both mobile and desktop?
-     - Desktop would have hover states on components
-     - Destop has filter drawer as a modal on right side of screen 
-2. Understand which of the search, filtering, and browsing options users choose to interact with
-   - Landing page
-     -  Search box
-     -  Show filters button
-     -  Featured links
-     -  Common topics
-     -  Browse by benefit
-   - Results page
-     -  Breadcrumb
-     -  Search box
-     -  Show filters button
-     -  Dismissible filter chips
-     -  Clear all chip
-   - Filter drawer
-     - X (close) button in top right
-     - Collapse all/expand all accordions
-     - Individual accordions
-     - Apply Filters button
-     - Clear All button
-   - Detail page
-     - Breadcrumb
-     - Filter chips
-3. Learn if the labels and groupings of filters align with user mental models
-   - Do users understand the filter group meanings: Audience, Benefit, Topic?
-   - Do users of each audience type choose the filter that aligns with them?
-   - Do users understand the individual filter labels?
-   - What search terms would users put in search box? How do does overlap or differ with filter labels?
-   - Are there other filters would users expect that are missing?
-4. Questions that cut across goals
-   - Do users find the infomation they are looking for, regardless of which path they take to get there?
-   - Do diferent user groups (Veterans, family members, service members) have different outcomes?
-   - Are there other factors (e.g. frequency of VA.gov use, VA benefits received) that affect how easily users are able to find correct information?
-   - What are user expectations of the scope of R&S search vs site-wide search?
-   - What are users previous experiences with searching/browsing for information on VA.gov?
+**1. Confirm if the designs of the filter drawer and filter chips support user understanding of functionality**
+- Do users understand how to access the filter drawer?
+- Do users understand the and/or logic between filters across/within filter groups?
+- Do users understand the Apply filters, Clear all, and X buttons in filter drawer?
+- Do users understand how to dimiss a filter once it's applied?
+- Do users understand how the filter chips on Detail pages function?
+- Are these understandable on both mobile and desktop?
+- Desktop would have hover states on components
+- Destop has filter drawer as a modal on right side of screen
+
+**2. Understand which of the search, filtering, and browsing options users choose to interact with**
+- Header
+  - Hamburger menu (mobile)
+  - Mega menu (desktop)
+  - Search button (desktop)
+- Landing page
+  - Search box
+  - Show filters button
+  - Featured links
+  - Common topics
+  - Browse by benefit
+- Results page
+  - Breadcrumb
+  - Search box
+  - Show filters button
+  - Dismissible filter chips
+  - Clear all chip
+- Filter drawer
+  - X (close) button in top right
+  - Collapse all/expand all accordions
+  - Individual accordions
+  - Apply Filters button
+  - Clear All button
+- Detail page
+  - Breadcrumb
+  - Filter chips
+    
+**3. Learn if the labels and groupings of filters align with user mental models**
+- Do users understand the filter group meanings: Audience, Benefit, Topic?
+- Do users of each audience type choose the filter that aligns with them?
+- Do users understand the individual filter labels?
+- What search terms would users put in search box? How do does overlap or differ with filter labels?
+- Are there other filters would users expect that are missing?
+
+**4. Misc questions that cut across goals**
+- Do users find the infomation they are looking for, regardless of which path they take to get there?
+- Do diferent user groups (Veterans, family members and caregivers, service members) have different outcomes?
+- Are there other factors (e.g. frequency of VA.gov use, VA benefits received) that affect how easily users are able to find correct information?
+- What are user expectations of the scope of R&S search vs site-wide search?
+- What are users previous experiences with searching/browsing for information on VA.gov?
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
