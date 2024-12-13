@@ -29,28 +29,60 @@ The app‘s current core onboarding journey includes:
 * It’s also possible to share a link to the app with a friend (via text/SMS) from within the app.
 
 ### We want to answer the following questions in order to identify best practices that can be applied to the VA mobile app.
-* How do apps approach the end-to-end onboarding journey?
+* **How do apps approach the end-to-end onboarding journey?**
   * Which touchpoints (ex: discovery entry points, App/Play store, in-app first run, communications) do apps leverage for their onboarding experience?
     * What role do each of the touchpoints play in the user onboarding experience?
   * Do apps coordinate their content (and value proposition) across digital touchpoints?
   * What role, if any, does personalization play in the context of onboarding?
-* How do apps approach their first-run experience?
+* **How do apps approach their first-run experience?**
   * What types of UI mechanisms are used (ex: carousel, scrolling, coach marks, etc)?
     * How accessible are the mechanisms used?
   * What functionality is included in the first-run flow?
   * What is the focus of the content (specific to app’s where account set up isn’t needed)?
-* How do apps approach continuous and contextual onboarding?
+* **How do apps approach continuous and contextual onboarding?**
   * What types of UI mechanisms are used (ex: banners, coach marks, etc)?
     * How accessible are the mechanisms used?
-* How do apps help users take their first meaningful actions within the app? Where/when does that happen?
+* **How do apps help users take their first meaningful actions within the app? Where/when does that happen?**
 
 We will use the team’s devices and Mobbin to collect examples. The apps reviewed will primarily be on iOS, but will cross-reference with Android versions to identify platform differences.
 
 
-## Apps Reviewed (#)
-
-### Accessibility Findings
+## Apps Reviewed (9)
+Apps marked with an asterisk(*) share similar task structures as the VA mobile app.
+* Insomnia Coach (VA)
+* Concussion Coach (VA)
+* MyChart *
+* NPR
+* Airbnb
+* Healow *
+* Slack
+* MyFitnessPal
+* Firefox
 
 ## Summary of Findings
+
+| App Name | End-to-end | First-run | Continuous | First actions |
+|---|---|---|---|---|
+| Insomnia Coach (VA) | Touchpoints:<br>Content coordination:<br>Personalization: | UI Mechanism(s) used:<br>Accessibility:<br>Functionality:<br>Content focus: | UI Mechanism(s) used:<br>Accessibility: | First actions:<br>Where/when: |
+| Concussion Coach (VA) | Touchpoints:<br>Content coordination:<br>Personalization: | UI Mechanism(s) used:<br>Accessibility:<br>Functionality:<br>Content focus: | UI Mechanism(s) used:<br>Accessibility: | First actions:<br>Where/when: |
+| MyChart | Touchpoints:<br>Content coordination:<br>Personalization: | UI Mechanism(s) used:<br>Accessibility:<br>Functionality:<br>Content focus: | UI Mechanism(s) used:<br>Accessibility: | First actions:<br>Where/when: |
+| NPR | Touchpoints:<br>Content coordination:<br>Personalization: | UI Mechanism(s) used:<br>Accessibility:<br>Functionality:<br>Content focus: | UI Mechanism(s) used:<br>Accessibility: | First actions:<br>Where/when: |
+| Airbnb | Touchpoints:<br>Content coordination:<br>Personalization: | UI Mechanism(s) used:<br>Accessibility:<br>Functionality:<br>Content focus: | UI Mechanism(s) used:<br>Accessibility: | First actions:<br>Where/when: |
+| Healow | Touchpoints:<br>Content coordination:<br>Personalization: | UI Mechanism(s) used:<br>Accessibility:<br>Functionality:<br>Content focus: | UI Mechanism(s) used:<br>Accessibility: | First actions:<br>Where/when: |
+| Slack | Touchpoints:<br>Content coordination:<br>Personalization: | UI Mechanism(s) used:<br>Accessibility:<br>Functionality:<br>Content focus: | UI Mechanism(s) used:<br>Accessibility: | First actions:<br>Where/when: |
+| MyFitnessPal | Touchpoints:<br>Content coordination:<br>Personalization: | UI Mechanism(s) used:<br>Accessibility:<br>Functionality:<br>Content focus: | UI Mechanism(s) used:<br>Accessibility: | First actions:<br>Where/when: |
+| Firefox | Touchpoints:<br>Content coordination:<br>Personalization: | UI Mechanism(s) used:<br>Accessibility:<br>Functionality:<br>Content focus: | UI Mechanism(s) used:<br>Accessibility: | First actions:<br>Where/when: |
+
+### How do apps approach the end-to-end onboarding journey?
+
+### How do apps approach their first-run experience?
+
+#### Accessibility Findings
+
+### How do apps approach continuous and contextual onboarding?
+
+#### Accessibility Findings
+
+### How do apps help users take their first meaningful actions within the app? Where/when does that happen?
 
 ## Recommendations
