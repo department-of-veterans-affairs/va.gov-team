@@ -14,9 +14,18 @@ Within the My HealtheVet portal, multiple alerts are required to display in one,
 
 ## ID-Verification alerts
 
+### Alert designs
+For full details, [see Figma here](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Sign-In?node-id=6-13169&node-type=canvas&t=ivtTB3ovGbme2XjY-0).
+
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/556d9a69-b574-4eb9-905b-0906b5712635" />
+
 
 ## No access to My HealtheVet alerts
 
+### Alert designs
+For full details, [see Figma here](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Sign-In?node-id=6-14351&node-type=canvas&t=ivtTB3ovGbme2XjY-0).
+
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/b78cae33-f057-46a8-86be-bf276b4af1dd" />
 
 
 ## Account Creation API error alerts 
