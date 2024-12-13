@@ -7,9 +7,11 @@ __November 1 - November 30, 2024__
 158 reviews analyzed, includes both android and iOS users
 
 ## Average Ratings
-**Apple App Store:** 4.8 stars 
+**Apple App Store all time:** 4.8 stars 
 
-**Google Play Store:** 4.7 stars
+**Google Play Store all time:** 4.7 stars
+
+**Google Play Store month of November:** 4.66 stars
 
 
 | Keyword in Review | Frequency Count | Trending Sentiment                                             | Review Sample                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
