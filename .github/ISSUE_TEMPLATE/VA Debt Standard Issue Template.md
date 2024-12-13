@@ -1,6 +1,6 @@
 ---
-name: VA Debt Resolution Standard Issue Template
-about: For tracking PR reviews for the VA Debt Resolution Team
+name: VA Financial Management Standard Issue Template
+about: For tracking PR reviews for the VA Financial Management Team
 title: '[Project] Title of the work (Due date if requested)'
 labels: vsa-debt
 assignees: ''
@@ -34,12 +34,19 @@ Then: (Testable outcome that can be captured in the testing section, usually cau
 Test procedures:      
 *If additional testing steps or credentials to perform testing are needed list them here*    
 
-
 ## Ticket Creation - Definition of Ready
+<details><summary>Ticket requirements</summary>
+      
 - [ ] Description written
 - [ ] Tasks defined
 - [ ] Acceptance criteria written
 - [ ] Testing defined
 - [ ] Add Labels
-- [ ] Attach to an Epic
+- [ ] Assign Type
+- [ ] Assign Priority (Normal = Medium)
+- [ ] Assign Group(s)
+- [ ] Assign to a Project
+- [ ] Attach to an Parent Epic
 - [ ] Estimate Points
+
+</details>
