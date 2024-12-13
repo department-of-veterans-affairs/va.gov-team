@@ -91,12 +91,11 @@ Since we're moving the 2 pages about copay help into R+S, we can remove the link
 
 
 ### Crosslinks
-Need to create ticket for content to
+Need to create ticket for content to find and update crosslinks in Drupal.
 
 ## <a name="launchstuff"></a>Launch coordination activities <br>
 
 ### Redirects
-*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=redirect-request.md) at least 2 weeks in advance.*  
 
 | Page Name                | Current URL                                                       | Will redirect to…               |
 |--------------------------|-------------------------------------------------------------------|---------------------------------|
