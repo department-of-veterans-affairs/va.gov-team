@@ -7,9 +7,9 @@
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
 |Phase 1: Standalone PDF Review|5 days|VBA and RBPS Stakeholders| June 4, 2024 |
-|Phase 2: Review instance QA |1 day|Teammembers| June 12, 2024 |
-|Phase 3: Canary production testing at 100% |3 hours|100% of users, 10 claims| June 2024 |
-|Phase 3A: 100% of users| indefinite | 100% users| June 2024 |
+|Phase 2: Review instance QA |1 week|Teammembers| June 12, 2024 |
+|Phase 3: Canary production testing at 100% |3 hours|100% of users, 10 claims| August 2-24 |
+|Phase 3A: 100% of users| indefinite | 100% users| August 13, 2024 |
 
 
 ## Release Plan Overview Phase 2: Redesign form and update design patterns to v3
