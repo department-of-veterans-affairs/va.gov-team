@@ -53,6 +53,7 @@ The form updates will be broken into two phases to expidite improvements to the 
    - After 100% release
       - Users will complete v2.
 
+**Needs Updating**
 | User Type | Flipper Status | Form in Progress | Visible Form | V2 Info Content Displayed | Data Migrated |
 |---|---|---|---|---|---|
 | Authenticated Users | Disabled | No | v1 Form | No | No |
@@ -72,7 +73,7 @@ The form updates will be broken into two phases to expidite improvements to the 
 8. Updated "claim received" (aka confirmation email) notifying Veteran that their submission was suceessful.
 ---
 
-## Step 1: Development (UPDATE)
+## Step 1: Development
 
 You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
 
