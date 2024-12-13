@@ -28,18 +28,20 @@ Objective 1: Our digital experiences are the best way to access VA health care a
 - Dying
 
 ## Research Goals	
-What are you trying to learn from this research? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
-
+1. Confirm if the design of the filter drawer and filter chips supports user understanding of their affordances
+2. Understand which of the different search, filtering, and browsing options users choose to interact with
+3. Learn if the labels and groupings of filters align with user mental models
+ 
 ### Outcome
-Validate the proposed design so we can start building it
+Validate the proposed design so we can start building it. There will be a second round of usability testing once it is built in Staging.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+- Are Veterans and other beneficiaries understand able to use the search & filters elements?
+- Do Veterans and other beneficiaries understand what the different filters and categories mean?
+
+
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
