@@ -2,7 +2,8 @@
 Within the My HealtheVet portal, multiple alerts are required to display in one, many, or all applications that live within the `/my-health` namespace. This document seeks to explain the logic and standardized alert designs for each of these scenarios, so that all teams are aligned and deliver end-users a consistent user experience. 
 
 ## On this page: 
-* [High-level API access logic]([url](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md))
+* High-level API access logic
+* [User routing in error states]( )
 * [ID-verification alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#ID-verification-alerts)
 * [No access to My HealtheVet alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#No-access-to-My-HealtheVet-alerts)
 * Account Creation API error alerts
@@ -28,6 +29,9 @@ flowchart TD
 4. If there is no facility in the profile, the application should redirect the user to the landing page, where the user will experience only: H1, lede text, and the "No access to My HealtheVet" alert.
 5. If a facility is in the user's profile, the application page should next look for an MHV-Identifier. For the rest of the high level logic for whether or not the page should be rendered with or without an alert, visit the [Account Creation API Overview document](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md).
    
+## User routing in error states
+Both error types - ID-verification and No access - gate access to all tools within the VA.gov portal (everything under /my-health). To avoid unnecessary dead-ends and confusion, the presence of either of these errors on any application page will immediately route users to the /my-health landing page, where the user will experience a simplified version of the landing page, which omits both the secondary nav and other /my-health tool links. We believe routing users in this way will help them avoid the frustrating experience of clicking in to various health tools only to uncover they are unable to use all of them.
+
 ## ID-Verification alerts
 
 ### Alert designs
