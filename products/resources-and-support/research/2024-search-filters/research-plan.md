@@ -39,7 +39,7 @@ Validate the proposed design so we can start building it. There will be a second
 
 ### Research questions
 
-**1. Confirm if the designs of the filter drawer and filter chips support user understanding of functionality**
+**Goal 1. Confirm if the designs of the filter drawer and filter chips support user understanding of functionality**
 - Do users understand how to access the filter drawer?
 - Do users understand the and/or logic between filters across/within filter groups?
 - Do users understand the Apply filters, Clear all, and X buttons in filter drawer?
@@ -49,7 +49,7 @@ Validate the proposed design so we can start building it. There will be a second
 - Desktop would have hover states on components
 - Destop has filter drawer as a modal on right side of screen
 
-**2. Understand which of the search, filtering, and browsing options users choose to interact with**
+**Goal 2. Understand which of the search, filtering, and browsing options users choose to interact with**
 - Header
   - Hamburger menu (mobile)
   - Mega menu (desktop)
@@ -76,14 +76,14 @@ Validate the proposed design so we can start building it. There will be a second
   - Breadcrumb
   - Filter chips
     
-**3. Learn if the labels and groupings of filters align with user mental models**
+**Goal 3. Learn if the labels and groupings of filters align with user mental models**
 - Do users understand the filter group meanings: Audience, Benefit, Topic?
 - Do users of each audience type choose the filter that aligns with them?
 - Do users understand the individual filter labels?
 - What search terms would users put in search box? How do does overlap or differ with filter labels?
 - Are there other filters would users expect that are missing?
 
-**4. Misc questions that cut across goals**
+**Misc questions that cut across goals**
 - Do users find the infomation they are looking for, regardless of which path they take to get there?
 - Do diferent user groups (Veterans, family members and caregivers, service members) have different outcomes?
 - Are there other factors (e.g. frequency of VA.gov use, VA benefits received) that affect how easily users are able to find correct information?
