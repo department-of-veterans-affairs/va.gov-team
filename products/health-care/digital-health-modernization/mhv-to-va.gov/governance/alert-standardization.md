@@ -22,14 +22,12 @@ flowchart TD
     H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation Account Creation API error alert on affected apps}
     H --> |Other health tool| J(Render application)
 ```
-
-1. All impacted application pages should look for an MHV-Identifier as the third-order criteria before rendering a page for users:
-    * Does the user have an ID-verified credential (IAL2)?
-    * Does the user have a access to My HealtheVet (do they have a facility in their profile)?
-    * Does the user have an MHV-Identifier?
-3. If we do not detect an MHV-Identifier, we run a query to the Account Creation API endpoint to see if one was created at sign-in and fetch it.
-4. If we see a "false" value from the Account Creation API, we will re-run it and display a loading indicator on the page beneath the global header while we wait for the response (estimated time: 1-2 seconds)
-5. If we still do not see an MHV-Identifier, the solution will depend on what page the user is on:
+1. All /my-health application pages should look for an ID-verified credential (IAL2) as the first-order criteria before rendering a page for users.
+2. If an ID-verified credential (IAL2) is not detected, the application should redirect the user to the landing page, where the user will experience only: H1, lede text, and the ID-verification alert (all cards, links, and the secondary nav will not be shown).
+3. If an ID-verified credential (IAL2) is detected, then /my-health application pages should look for the presence of a facility in the user's profile.
+4. If there is no facility in the profile, the application should redirect the user to the landing page, where the user will experience only: H1, lede text, and the "No access to My HealtheVet" alert.
+5. If a facility is in the user's profile, the application page should next look for an MHV-Identifier. For the rest of the high level logic for whether or not the page should be rendered with or without an alert, visit the [Account Creation API Overview document](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md).
+   
 ## ID-Verification alerts
 
 ### Alert designs
@@ -37,14 +35,12 @@ For full details, [see Figma here](https://www.figma.com/design/m992k2m1DSl9MXV9
 
 <img width="928" alt="image" src="https://github.com/user-attachments/assets/556d9a69-b574-4eb9-905b-0906b5712635" />
 
-
 ## No access to My HealtheVet alerts
 
 ### Alert designs
 For full details, [see Figma here](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Sign-In?node-id=6-14351&node-type=canvas&t=ivtTB3ovGbme2XjY-0).
 
 <img width="860" alt="image" src="https://github.com/user-attachments/assets/b78cae33-f057-46a8-86be-bf276b4af1dd" />
-
 
 ## Account Creation API error alerts 
 The account creation API effort & related error alerts are [documented separately here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md).  
