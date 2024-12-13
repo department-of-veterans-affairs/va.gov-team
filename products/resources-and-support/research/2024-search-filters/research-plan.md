@@ -3,7 +3,6 @@
 <br>**Timeframe:** January 2025
 
 ## Background
-
 Initially called the "Learning Center", Resources & Support (R&S) leverages a variety of Drupal content types to provide an unauthenticated self-serve library with targeted, supplemental information to help Veterans and other beneficiaries understand their VA benefits. Since launching in 2020, R&S has expanded to include 100 published articles (as of December 2024). We expect the number of articles will continue to grow via the ongoing migration of content to VA.gov from legacy sites. 
 
 CAIA's recent work to evaluate the content that is currently in the Benefit Hubs (428 published articles as of December 2024) determined that as much as 50% of the content is expected to be moved into RR&S. This anticipated growth accelerated the prioritization of ensuring the R&S experience adequately supports discoverability and Veteran understanding.
@@ -13,11 +12,9 @@ CAIA's recent work to evaluate the content that is currently in the Benefit Hubs
 - [Resources & Support search enhancements initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1)
 
 ### OCTO Priorities 
-
 Objective 1: Our digital experiences are the best way to access VA health care and benefits. 
 
 ### Veteran Journey
-
 - Getting Out
 - Starting up
 - Taking care of myself
@@ -28,13 +25,11 @@ Objective 1: Our digital experiences are the best way to access VA health care a
 - Dying
 
 ## Research Goals	
-
 1. Confirm if the designs of the filter drawer and filter chips support user understanding of functionality
 2. Understand which of the search, filtering, and browsing options users choose to interact with
 3. Learn if the labels and groupings of filters align with user mental models
  
 ### Outcome
-
 Validate the proposed design so we can start building it. There will be a second round of usability testing once it is built in Staging.
 
 ### Research questions
@@ -91,15 +86,12 @@ Validate the proposed design so we can start building it. There will be a second
 - What are user expectations of the scope of R&S search vs site-wide search?
 - What are users previous experiences with searching/browsing for information on VA.gov?
 
-### Hypothesis - WIP
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+### Hypotheses
+1. Users will understand the search, filtering, and browsing functionality available to them 
+2. Users will understand the labels of filters and filter groups 
+3. Users will find the relevant information
 
 ## Methodology	
-
 - Semi-structured interviews 
 - Usability testing 
 
