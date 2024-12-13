@@ -2,7 +2,7 @@ Condition information entry 
 
 Research Plan 
 
-Last updated Nov 15, 2024
+Last updated Nov 20, 2024
 
 
 ## **Background**
@@ -131,14 +131,18 @@ The condition-by-condition approach to condition entry will result in more compl
 
 - Making it easier to find conditions by simplifying the autosuggest list
 
-- Providing a more intuitive flow for specifying condition details like laterality
+- ~~Providing a more intuitive flow for specifying condition details like laterality~~
 
-The new condition date question will present challenges for Veterans in terms of recall accuracy, but the separate step will help them focus on providing the best possible timing information.
+- Improved experience for AT users by separating out laterality and moving to the new multiple-response pattern 
 
+The new condition date question will present challenges for Veterans in terms of recall accuracy, but the separate step will help them focus on providing the best possible timing information.                                        |
 
 ## **Methodology**
 
 _Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design._
+
+
+### We will run a moderated usability study remotely on Zoom. We will circumvent the sign in process so users can go straight to the conditions flow 
 
 - We will conduct moderated usability testing with at least 6 Veterans (ideal 8) who use assistive technology and are familiar with the disability benefits application process. 
 
@@ -161,7 +165,7 @@ Provide a link to any materials you need to run your study, including any materi
 
 For moderated usability tests:
 
-1. \[Link to conversation guide]\(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2024-11%20Conditions%20Info%20Entry/2024-11%20Conversation%20Guide%20-%20Conditions%20info%20entry.md)
+1. \[Link to conversation guide]\(url goes here)
 
 2. \[Link to mock-ups of what we will test in staging]\(https\://www\.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/(526ez)-Condition-information-entry?node-id=324-9662\&node-type=canvas\&t=GDUqm69UjZoNKgNM-0)
 
@@ -193,7 +197,7 @@ We will recruit 12 Veterans for:
 
 - minimum of 1 session with a screen magnification user
 
-We would like to request a kickoff call with Perigean. Requested date/time: Monday 11/25, after 10AM PST 
+We would like to request a kickoff call with Perigean. 11/25 after 10AM PST 
 
 
 ### **Recruitment criteria**
@@ -215,7 +219,7 @@ We would like to request a kickoff call with Perigean. Requested date/time: Mond
 
   - 3 Experienced screen reader users
 
-- Mix of NVDA, JAWS, VoiceOver (Apple), Talkback (Android), Physical magnification tool 
+- Mix of NVDA, JAWS, VoiceOver (Apple), Talkback (Android)
 
 **Cohort 2: Alternative navigation** 
 
@@ -241,7 +245,7 @@ We would like to request a kickoff call with Perigean. Requested date/time: Mond
 
 - Race/ethnicity
 
-  - Attempt at least 6 that do not identify as White/Caucasian 
+  - Attempt at least 4 that do not identify as White/Caucasian 
 
 - Education 
 
@@ -389,7 +393,7 @@ We would like to request a kickoff call with Perigean. Requested date/time: Mond
 
 **Cohort 3: Low vision - magnification users**
 
-1. Do you use a screen magnifier, magnification software, or physical magnifying glass when using your mobile or desktop device?
+1. Do you use a screen magnifier or magnification software when using your mobile or desktop device?
 
    1. No \[Remove]
 
@@ -404,11 +408,10 @@ We would like to request a kickoff call with Perigean. Requested date/time: Mond
    3. Windows Magnifier
 
    4. Android Magnification
-   5. Physical magnifying glass
 
-   6. Other screen magnifier (Please specify): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+   5. Other screen magnifier (Please specify): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-   7. I prefer not to answer
+   6. I prefer not to answer
 
 3. If you answered Yes, how frequently do you use screen magnification?
 
