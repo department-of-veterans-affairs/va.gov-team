@@ -32,9 +32,11 @@ flowchart TD
    
 ## User routing under access-limiting conditions
 
-The first two conditions required to access all applications under `/my-health/` – verified identity and facilities - will be handled centrally on the MHV-on-VA.gov landing page. (See steps 1-4 in the chart above.) The user will experience a simplified version of the landing page, which omits both the secondary nav and other /my-health tool links. We believe routing users in this way will help them avoid the frustrating experience of clicking into various health tools they are unable to use.
+Users who lack either of the first two conditions required to access all applications under `/my-health/` – verified identity and facilities - will be handled centrally on the MHV-on-VA.gov landing page. (See steps 1-4 in the chart above.) The user will experience a simplified version of the landing page, which omits both the secondary nav and other /my-health tool links. We believe routing users in this way will help them avoid the frustrating experience of clicking into various health tools they are unable to use.
 
 ### ID-Verification screenshots
+
+NOTE: Screenshots below are taken from this [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Sign-In?node-id=6-13278&t=B7BN9mFl9GkeJt3a-4).
 
 <details><summary>MHV landing page: unverified Login.gov user</summary>
 
@@ -56,11 +58,24 @@ The first two conditions required to access all applications under `/my-health/`
 
 </details>
 
-### No access to My HealtheVet alert
+### No access to My HealtheVet alert screenshot
+
+<details><summary>MHV landing page: No access to MHV</summary>
+
+<img width="647" alt="No access alert" src="https://github.com/user-attachments/assets/b0b74d9a-b20c-4087-af18-88d24840af0d" />
+
+</details>
 
 
-## Account Creation API error alerts 
-The account creation API effort & related error alerts are [documented separately here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md).  
+## Account Creation API error alerts (i.e., missing MHV UUID)
+
+Applications which require the MHV back-end must next check for a MHV identifier (UUID). This check relies on the MHV Account Creation API, and the Cartography team has prepared a React component to make this check as easy as possible for application teams. However, in this case, users should not be sent to the MHV landing page. Instead, they should be alerted within the application.
+
+Key differences between the missing-UUID case and earlier account-related cases:
+1. To check for the UUID, application teams need to **add a special react component** to one or more of their application pages (any page where a user might first land within their app).
+2. If the API returns an error code, the application will have to respond by (a) redirecting the user to the top page of the application and (b) hiding any functionality around the alert on that top page.
+
+The component and UX requirements are [documented in greater here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md).
 
 ## Oracle Health / Cerner Routing alerts
 Guidance coming soon.
