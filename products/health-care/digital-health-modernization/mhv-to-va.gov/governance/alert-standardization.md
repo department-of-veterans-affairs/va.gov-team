@@ -38,19 +38,21 @@ The first two conditions required to access all applications under `/my-health/`
 
 <details><summary>MHV landing page: unverified Login.gov user</summary>
 
+<img width="800" alt="LoginGov unverified alert" src="https://github.com/user-attachments/assets/ca3acd2d-53f4-4c1e-887f-1dccd6b94143" />
 
 
 </details>
 
 <details><summary>MHV landing page: unverified ID.me user</summary>
 
+<img width="800" alt="MHV Basic access alert" src="https://github.com/user-attachments/assets/5edb4d5e-d188-4d55-bd73-83cfaaa0f0d4" />
 
 
 </details>
 
 <details><summary>MHV landing page: MHV Basic account user</summary>
 
-
+<img width="800" alt="MHV Basic access alert" src="https://github.com/user-attachments/assets/33f4e433-3b1d-46db-b898-73b144705f75" />
 
 </details>
 
