@@ -98,14 +98,15 @@ flowchart TD
     * Does the user have an ID-verified credential (IAL2)?
     * Does the user have a access to My HealtheVet (do they have a facility in their profile)?
     * Does the user have an MHV-Identifier?
-2. If we do not detect an MHV-Identifier, we run a query to the Account Creation API endpoint & display a loading indicator on the page beneath the global header while we wait for the response (estimated time: 1-2 seconds).
-3. If we see an MHV-Identifier, we render the page.
-4. If we do not see an MHV-Identifier, the solution will depend on what page the user is on:
+2. If we do not detect an MHV-Identifier (`userHasMhvAccount` selector from MPI), we run a call to the Account Creation API endpoint (`/v0/user/mhv_user_account`) & display a loading indicator on the page beneath the global header while we wait for the response (estimated time: 1-2 seconds).
+3. We return the response (error or otherwise) to the `mhvAccountStatus` selectors. The api call happens as a `useEffect` block on the `LandingPageContainer` component. Currently there is no new component, only this `useEffect` block. The `mhvAccountStatus` selectors then determine what is rendered: 
+4. If an MHV-Identifier was created, the full page & affected application will render for the user. 
+5. If we do not see an MHV-Identifier, the new `AlertMhvUserAction` alert is rendered in-place on the affected page. The solution slightly varies depending on where it is triggered: 1.) My HealtheVet landing page or 2.) an affected health tool application. Details in sections below:
 
-#### My HealtheVet landing page
+#### 1. My HealtheVet landing page
 On this page, we will render a modified version of the landing page with the relevant error alert in place. This page modification includes: suppressing links in the grey-boxes for each of the affected health applications. This avoids some dead-ends to those tools that a user does not have access to, and adds clarity to the meaning of the alert as to what applications are affected.
 
-#### Affected tool apps
+#### 2. Affected health tool applications
 
 **Option 1 (preferred):** Display these alerts in-place on the root page of your applications. If users hack their URL or somehow access deeper child page links beneath that entry point page, route-guard them to the top page of your application and show them the alert in-place there. Suppress all functionality in the application, only displaying: 
 * Global header
