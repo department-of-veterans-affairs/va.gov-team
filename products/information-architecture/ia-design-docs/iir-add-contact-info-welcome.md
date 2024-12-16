@@ -5,14 +5,14 @@
 - Team name: IIR
 - OCTO product owner: Jeff Barnes
 - Product name: Veteran New Account Flow within Authenticated Experience, Welcome Pathway (Onboarding)
-- Product manager: Kat Kufalk
-- Designer: Liza McRuer
+- Product manager: Pete Egan
+- Designer: Raquel Eisele
 - Slack channel: iir-product-teams-public
 
 - [CC Intake](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82257)
 - [Product outline](https://docs.google.com/document/d/1gbBknW1NDSGFqCZLEQrrlrCCwhTHolrTw6Ef3Vfg_R0/edit?usp=sharing)
 - [CAIA Intake ticket](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/32?filterQuery=label%3A%22sitewide+content%22+-label%3A%22CAIA+Intake%22%2C%22CAIA-Collab%22%2C%22Epic%22%2C%22OCTO%22+-status%3A%22New+Intakes%22%2C%22CC+Intakes%22%2CEpics%2COCTO+iir&pane=issue&itemId=63310624&issue=department-of-veterans-affairs%7Cva.gov-team%7C83402)
-- [Figma](https://www.figma.com/design/CertVj7cu66kFv9TnseR30/Welcome-to-My-VA?node-id=300-11104&t=h21Uupipvzd2i3KL-1) NOTE that other than the URL, this spec is on hold because I am not sure where their latest work is in the figma, and don't want to assume.
+- [Figma](https://www.figma.com/design/CertVj7cu66kFv9TnseR30/Welcome-to-My-VA?node-id=2091-57304&t=2Y3MmsvVTQA6hgOg-1) (Page: Phase 1 - Forms Library)
 
 **On this page:**
 - [User/page flows](#flows)
