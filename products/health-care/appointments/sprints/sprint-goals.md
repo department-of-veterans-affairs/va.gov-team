@@ -7,16 +7,19 @@
 ## FUTURE SPRINT 23 - 12/25/2024-1/7/2025
 - ❗ 🟩 [Use platform's renderWithStoreAndRouter#96542](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96542))
 
-## FUTURE SPRINT 22 - 12/11/2024-12/24/2024 
+## SPRINT 22 - 12/11/2024-12/24/2024 
 - **Oracle Health**
     - ❗ 🟦 [Recent clinics endpoint enhancements#98521](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98521)
     - ✔️  [Recent clinics endpoint is returning a clinic with null attributes#98519](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98519)
     - 🟩 [Update alert on choose a VA location page - Part 7#98190](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98190)
-    - 🟩 [Update alert on choose a VA location page - Part 8#98191](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98191)
+    - 
     - 
 - **Direct Scheduling OH**
     - ❗ 🟩 [Add initial screen and placeholder data for Select a Provider step#98224](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98224)
-    - 🟩 [Add patient relationship endpoint service and mocks#89641](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89641)
+    - ✔️ [Add patient relationship endpoint service and mocks#89641](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89641)
+    - 🟩 [Add location and typeOfCare arguments and functionality to patient relationships#98864](https://github.com/orgs/department-of-veterans-affairs/projects/1554/views/6?pane=issue&itemId=90556977&issue=department-of-veterans-affairs%7Cva.gov-team%7C98864)
+    - 🟩 [Update alert on choose a VA location page - Part 8#98191](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98191)
+    - 🟩 [Update alert on choose a VA location page - Part 9#98192](98192)
     - ✔️ 🟥 OH Scheduling improvements: Dead ends from facility page https://github.com/department-of-veterans-affairs/va.gov-team/issues/91499
     - 
 - **Appointments UI Improvements**
