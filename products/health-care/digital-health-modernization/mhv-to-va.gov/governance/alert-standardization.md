@@ -60,8 +60,8 @@ NOTE: Screenshots below are taken from this [Figma file](https://www.figma.com/d
 ### No access to My HealtheVet alert screenshot
 
 <details><summary>MHV landing page: No access to MHV</summary>
+<img width="972" alt="Screenshot 2024-12-16 at 3 46 42 PM" src="https://github.com/user-attachments/assets/94231bd6-e773-45cb-bd71-5318642f80f3" />
 
-<img width="647" alt="No access alert" src="https://github.com/user-attachments/assets/b0b74d9a-b20c-4087-af18-88d24840af0d" />
 
 </details>
 
