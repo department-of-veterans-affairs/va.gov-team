@@ -5,6 +5,7 @@ title: '[ ARF ] Project title v# (Discipline)'
 labels: ['accredited-rep-facing']
 assignees: ''
 discipline: 'Product'
+type: 'Epic'
 
 ---
 
