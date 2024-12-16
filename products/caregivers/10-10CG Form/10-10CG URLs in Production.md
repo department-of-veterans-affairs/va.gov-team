@@ -10,7 +10,7 @@ NEW URLs for Facility pages (Release January 2025)
 - /family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/veteran-information/va-medical-center/confirm
 
 ### Currently in Production
-|10-10EZ URLs|
+|10-10CG URLs|
 |----------------|
 |https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/introduction |
 |https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/veteran-information/personal-information |
