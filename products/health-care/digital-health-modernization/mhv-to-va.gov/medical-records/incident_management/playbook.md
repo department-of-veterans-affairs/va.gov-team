@@ -14,6 +14,9 @@ and have the necessary information to address problems quickly.  To accomplish i
 Have dashboards that reflect the operations of your system.  This can show traffic levels, error rates, system latency, or any 
 other metric that helps understand system performance for addressing current issues or predicting future behavior.  
 
+<details>
+  <summary>Toggle Dashboard Details</summary>
+
 ### Dashboard recommendations
 - For quantitative data that is measured over time look into using metrics, or creating custom metrics.  Metrics are faster to query,
   and are retained in an indexed state for longer.  Generally *do not* tag metrics with highly unique values (like IDs) because
@@ -26,6 +29,7 @@ other metric that helps understand system performance for addressing current iss
 - When appropriate it is recommended to create a dashboard that models behavior for high impact/risk launches, showing the impact of changes
   and identifying new errors that happen post-launch.  This type of dashboard can often be deleted or incorporated into other dashboards
   after a successful release.
+</details>
 
 **MEDICAL RECORDS DATADOG DASHBOARD**
 - [Datadog MR Dashboard](https://vagov.ddog-gov.com/dashboard/8tk-8fe-cin/mhv-medical-records?refresh_mode=sliding&from_ts=1696699383284&to_ts=1699291383284&live=true)
