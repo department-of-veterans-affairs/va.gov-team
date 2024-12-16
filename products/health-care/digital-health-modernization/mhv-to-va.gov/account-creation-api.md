@@ -98,9 +98,9 @@ flowchart TD
     * Does the user have an ID-verified credential (IAL2)?
     * Does the user have a access to My HealtheVet (do they have a facility in their profile)?
     * Does the user have an MHV-Identifier?
-3. If we do not detect an MHV-Identifier, we run a query to the Account Creation API endpoint to see if one was created at sign-in and fetch it.
-4. If we see a "false" value from the Account Creation API, we will re-run it and display a loading indicator on the page beneath the global header while we wait for the response (estimated time: 1-2 seconds)
-5. If we still do not see an MHV-Identifier, the solution will depend on what page the user is on:
+2. If we do not detect an MHV-Identifier, we run a query to the Account Creation API endpoint & display a loading indicator on the page beneath the global header while we wait for the response (estimated time: 1-2 seconds).
+3. If we see an MHV-Identifier, we render the page.
+4. If we do not see an MHV-Identifier, the solution will depend on what page the user is on:
 
 #### My HealtheVet landing page
 On this page, we will render a modified version of the landing page with the relevant error alert in place. This page modification includes: suppressing links in the grey-boxes for each of the affected health applications. This avoids some dead-ends to those tools that a user does not have access to, and adds clarity to the meaning of the alert as to what applications are affected.
