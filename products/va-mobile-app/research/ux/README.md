@@ -4,8 +4,8 @@
 ## UX Research: 2024
 - Examine the effectiveness of a new personalized home screen concept, and identify areas for improvement
 - Begin to investigate the Veteran Instability Problem Space
-- Improve the efficiency of Monthly App Review Analysis, using an LLM  
-[2024 Research Roadmap](research-roadmaps/readme.md#2024)
+- Improve the efficiency of Monthly App Review Analysis, [using an LLM](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/reporting/App-Stores-Reviews/AI%20Work%20Summary.md)  
+- [2024 Research Roadmap](research-roadmaps/readme.md#2024)
 
 ### Activites and Output
 | Date                 | Activity                 | Description         | Output        |
