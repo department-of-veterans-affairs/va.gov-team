@@ -71,7 +71,7 @@ We will track and measure the success of the "Baseball Card" pattern using the f
 ## Launch Planning
 ### Collaboration Cycle
 **Staging review will be required for adoption into VADS.**
-
+- [Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/258)
 - Kickoff ticket
 - Finalized Pattern
 
