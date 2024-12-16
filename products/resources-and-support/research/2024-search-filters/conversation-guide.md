@@ -27,7 +27,6 @@ Slack for real-time feedback from observers.
 - When the participant is ready, begin the session with the following intro*
 
 
-
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is Dave and [NOTETAKER NAME] is taking notes.
@@ -62,10 +61,9 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+1. When you want to lean about a program or service offered by the VA, where do you go to look for information?
+2. About how frequently do you use VA.gov?
+3. How easy or difficult would you say it is to find information you're looking for on VA.gov?
 
 ## First Task: [TASK NAME] - X minutes
 
