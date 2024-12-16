@@ -33,28 +33,28 @@ We reviewed the following sources (not all contained relevant feedback):
 *   App works well, but only some of the VA personnel can use it for messaging and setting appointments.  
     *Not all VA personnel can use it*
 
-*   The app is much better than I was, I still don’t receive notification when I’ve been messaged but I do believe they are updating and working on the app actively
+*   The app is much better than I was, I still don’t receive notification when I’ve been messaged but I do believe they are updating and working on the app actively  
     *Don’t get notifications for messages*
 
 ***August 2024***
 
-*   I don’t have the option to mail all my providers .
+*   I don’t have the option to mail all my providers .  
     *Can’t message all providers*
 
-*   Please include what is the department is or subject. Thank you
+*   Please include what is the department is or subject. Thank you  
     *Include department or subject*
 
-*   It’s convenient for very few things and maintains significant barriers. The attachments in messages never load, the claims information is very minimal so you have to login on a browser anyways, additionally there are a multitude of other failures as is common within myhealthevet messaging. The biggest being the absolute garbage fest that is communicating with providers (or not being allowed to communicate with them.. even if they message you because you are not seen in their “clinic” according to myhealthevet). Additionally the names of organizations and contacts is abysmal. The effort from the latest update appears to focus on bridging the gap between a simplistic look and a more modern look so some leadership can get more big bonuses, without actually helping vet’s gain access to care anymore efficiently. The VA remains a pleasant laughing stock comparable to any modern organization and this app is the perfect showcasing of said joke.
-    *“names of organizations and contacts is abysmal”*
+*   It’s convenient for very few things and maintains significant barriers. The attachments in messages never load, the claims information is very minimal so you have to login on a browser anyways, additionally there are a multitude of other failures as is common within myhealthevet messaging. The biggest being the absolute garbage fest that is communicating with providers (or not being allowed to communicate with them.. even if they message you because you are not seen in their “clinic” according to myhealthevet). Additionally the names of organizations and contacts is abysmal. The effort from the latest update appears to focus on bridging the gap between a simplistic look and a more modern look so some leadership can get more big bonuses, without actually helping vet’s gain access to care anymore efficiently. The VA remains a pleasant laughing stock comparable to any modern organization and this app is the perfect showcasing of said joke.  
+    *“names of organizations and contacts is abysmal”*  
     *Can’t write to providers if MyHealtheVet says you aren’t being seen by them, even if they have written to you*
 
-*   The app works great the only area I see needs work is the messaging function. I try to move old messages to the trash folder but can only do that on the website.
+*   The app works great the only area I see needs work is the messaging function. I try to move old messages to the trash folder but can only do that on the website.  
     *Can’t move messages to trash*
 
-*   Unable to use the Draft option in the secure mail once I've created a draft message. Otherwise, a vast improvement over the website! 🫡
+*   Unable to use the Draft option in the secure mail once I've created a draft message. Otherwise, a vast improvement over the website! 🫡  
     *Can’t access draft messages*
 
-*   it's mostly standard, compared to other apps. it's about as good as "MyChart" (U of R) or "My Care" (RGH). So, as convenient as the other two regional choices I have where I live. I know the VA is still working thru digitization, so I don't expect it to be perfect. I love that I can contact my doctors without a phone call. the app messages usually get answered within 24 hours. it would be good if there was a way to turn on phone notifications for a "new message" in app tho.
+*   it's mostly standard, compared to other apps. it's about as good as "MyChart" (U of R) or "My Care" (RGH). So, as convenient as the other two regional choices I have where I live. I know the VA is still working thru digitization, so I don't expect it to be perfect. I love that I can contact my doctors without a phone call. the app messages usually get answered within 24 hours. it would be good if there was a way to turn on phone notifications for a "new message" in app tho.  
     *Can’t get notifications for messages*
 
 ***July 2024***
@@ -66,57 +66,39 @@ We reviewed the following sources (not all contained relevant feedback):
 *   This app is a time saver and it’s very good. The only thing I wish I was able to do was to be able to Courtesy copy Do another person or department. Not being able to do this at the moment, I would cut and paste information from another message to info someone else, making communication less efficient.  
     *Courtesy copy another person or department*
 
-*   Logging in and out of this app is very inefficient. I have Face ID setting turned on, yet every time I log in, there are probably six or seven screens to navigate through just to get in, including “waiting to redirect” and needing to text authentication codes every time. And when you log out, there are 4 pages and prompts to get through just to leave. The messaging system needs some work too. It only shows a portion of sent messages, and when you click the down arrow to expand the window, it still won’t show you the full message. And for writing new messages, the main message box is irritating at best. Accidentally touching outside of the box makes the text go gray, and the screen jump up and down. The cursor is like a sick joke being played on me, and most of the “continue” buttons need to be pressed at least two or three times to activate. I downloaded the app because it’s supposed to be simpler than using the website, but that doesn’t seem to be the reality. And considering that a lot of us veterans are suffering from PTSD and high anxiety, I would hope that the developers could create an app that doesn’t give me a near panic attack every time I need to use it. Do better, please.
-    *Can only see part of sent messages*
+*   Logging in and out of this app is very inefficient. I have Face ID setting turned on, yet every time I log in, there are probably six or seven screens to navigate through just to get in, including “waiting to redirect” and needing to text authentication codes every time. And when you log out, there are 4 pages and prompts to get through just to leave. The messaging system needs some work too. It only shows a portion of sent messages, and when you click the down arrow to expand the window, it still won’t show you the full message. And for writing new messages, the main message box is irritating at best. Accidentally touching outside of the box makes the text go gray, and the screen jump up and down. The cursor is like a sick joke being played on me, and most of the “continue” buttons need to be pressed at least two or three times to activate. I downloaded the app because it’s supposed to be simpler than using the website, but that doesn’t seem to be the reality. And considering that a lot of us veterans are suffering from PTSD and high anxiety, I would hope that the developers could create an app that doesn’t give me a near panic attack every time I need to use it. Do better, please.  
+    *Can only see part of sent messages*  
     *If you accidentally touch outside of the text box when writing a message, the UI jumps and text goes gray* 
 
 *   Messaging between veterans and the different departments in the VA has always been difficult, seeing that veterans need an appointment before messaging can open up to a certain department, and in addition, messaging is not a highlighted feature of this app or in any place, where you have to go searching for messages first on the VA page. To enhance this for veterans, please make a separate “Messages” button on the main screen that veterans can click on to get into their message inboxes. Then you should create a way for a veteran to click on the VA system (Denver or Cheyenne) that they are messaging, the department inside the selected VA, and then the doctor or staff member you want to. If the veteran doesn’t know what person, there should be a way to send a message to a general mailbox, which could be forwarded to the person in the department, and then this contact be saved so that the veteran can connect directly to them the next time they come on. It would also be a great feature for veterans to go to sick-call using the video option, instead of driving all the way down to the VA and waiting inside. There should be a doctor designated for video sick-calls and a nurse/scheduler on call. I also hope that there can someday be a doctor on call for video appointments during after hours and on the weekends. It seems that driving to the ER for having the flu is not something the staff at the ER appreciate getting, as they always push non-urgent patients out the door to see their regular doctors a few days later. Please see that our veterans get the care that they need and deserve.
-    *Have to search to find the messages function*
+    *Have to search to find the messages function*  
 
-*   It is hard to message different departments because you need an appointment first, should be able to select any system, department, then provider
-    *Should be a general mailbox that routes mail to the correct person*
+*   It is hard to message different departments because you need an appointment first, should be able to select any system, department, then provider  
+    *Should be a general mailbox that routes mail to the correct person*  
 
-*   Unable to delete, move, archive old messages to prevent a cluttered window. No separation between messages for different clinics 7/25/2024
-    *Wants to be able to Delete, Move, and/or Archive old messages to prevent clutter*
+*   Unable to delete, move, archive old messages to prevent a cluttered window. No separation between messages for different clinics 7/25/2024  
+    *Wants to be able to Delete, Move, and/or Archive old messages to prevent clutter*  
     *Wants messages from different clinics to be separated*
 
-*   it's not sending my messages and only saving them as drafts. I thought the point was to be able to communicate with my doctors?
-    *Messages are saving as drafts instead of sending*
+*   it's not sending my messages and only saving them as drafts. I thought the point was to be able to communicate with my doctors?  
+    *Messages are saving as drafts instead of sending*  
 
-June 2024
+***June 2024***
 
-*   I loved this app. It made contacting my physicians, getting refills, and monitoring my appointments so easy. It was a convenient one-stop shop for all things VA. But, as usual, we can’t keep anything nice. Those of us using certain facilities were unceremoniously bumped off this app with no warning because our facilities switched over to a new software system. Now it is impossible to use this app to contact my physicians, get refills, or monitor my appointments. The new website is a pain to reach and log in and is sometimes offline. VA, you had done something right when you created this app. Please figure out how to make it work for those of us who got kicked off.
-    
+*   I loved this app. It made contacting my physicians, getting refills, and monitoring my appointments so easy. It was a convenient one-stop shop for all things VA. But, as usual, we can’t keep anything nice. Those of us using certain facilities were unceremoniously bumped off this app with no warning because our facilities switched over to a new software system. Now it is impossible to use this app to contact my physicians, get refills, or monitor my appointments. The new website is a pain to reach and log in and is sometimes offline. VA, you had done something right when you created this app. Please figure out how to make it work for those of us who got kicked off.  
+    *The “new software system” at my facility means that I can’t message my doctor*
 
-The “new software system” at my facility means that I can’t message my doctor
+*   Works great, not many gripes. Very convenient to have access to letters from the VA in the palm of your hand. If they could expand the access to give you a way to communicate with your primary and other care providers, I'd give it 5 stars. Not sure if it's realistic, but sure would be nice.  
+    *Wish I could communicate with my PCP and providers in the app*
 
-  
+*   I thought the update would correct the problem with being able to send the message. At least it will be saved in draft mode. But will have to send it by the laptop.  
+    *I can’t send messages, I can only save drafts*
 
-*   Works great, not many gripes. Very convenient to have access to letters from the VA in the palm of your hand. If they could expand the access to give you a way to communicate with your primary and other care providers, I'd give it 5 stars. Not sure if it's realistic, but sure would be nice.
-    
+*   Not easy to use and cannot direct message my specialty doctor.  
+    *Hard to use*  
+    *Want to be able to message my specialist*
 
-Wish I could communicate with my PCP and providers in the app
-
-  
-
-*   I thought the update would correct the problem with being able to send the message. At least it will be saved in draft mode. But will have to send it by the laptop.
-    
-
-I can’t send messages, I can only save drafts
-
-  
-
-*   Not easy to use and cannot direct message my specialty doctor.
-    
-
-Hard to use
-
-Want to be able to message my specialist
-
-  
-  
-
-May 2024
+***May 2024***
 
 *   I tried to send an sms to my provider multiple times via website, but it kept saying send failed. So, I copied msg and tried pasting it to the app to send. It created huge gaps between hard returns + other formatting glitches, as well as bouncing back to the end of the msg many times as I tried to re-edit the message’s formatting errors
     
