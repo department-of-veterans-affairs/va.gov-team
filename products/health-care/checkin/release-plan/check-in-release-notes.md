@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+## 12/16/2024
+- Updated eCheck-in to include OMB information (burden, control no., exp. date) for completing the travel claim reimbursement form
+    - [Epic 97418](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97418)
+
 ## 8/27/2024
 - Updated Pre-Check-in to include a link to information about how to prepare for your upcoming appointment
     - [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/medication-review.md)
