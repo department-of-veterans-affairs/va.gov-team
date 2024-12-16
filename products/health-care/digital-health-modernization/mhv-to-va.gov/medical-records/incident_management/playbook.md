@@ -43,7 +43,10 @@ other metric that helps understand system performance for addressing current iss
 ## Monitors
 Include monitors that notify the team (or organization) when the system has an issue that should be investigated or addressed.
 
-#### Monitor types
+<details>
+  <summary>Toggle Monitor Details</summary>
+
+  ### Monitor types
 *A team can determine the specific functionality that should be monitored based on the system's functionality, but we generally 
 expect that the following three scenarios will be covered:*
 - **High error counts** - cases where the system produces unexpectedly high number of errors
@@ -93,12 +96,23 @@ expect that the following three scenarios will be covered:*
 ## Access rights
 - For reviewing Dashboards, Monitors, and SLOs a user can request `datadog readonly` role access.  If a user needs access to create or modify
   dashboards, monitors, or SLOs they can request `VFS Team Pilot` role access
+</details>
 
 **MEDICAL RECORDS MONITORS**
 - Our datadog dashboard/monitors are integrating with the VA.gov Watchtower monitoring.  Alerts or anomolies that happen trigger Slack notifications in the #mhv-on-vagov-alerts channel (https://dsva.slack.com/archives/C054X851K62).
 
-## Getting help
-- Questions can be posted in the #public-datadog Slack channel
-- There is a Datadog TAM office hours meeting held most Mondays at 11 AM.  Details for the meeting are posted in the #public-datadog channel.
+## Process/Incident Response - MEDICAL RECORDS
 
-   
+**If a critical severity issue arises:**
+-Medical Records on va.gov will be put in a disabled state for all users (using either feature flags, PagerDuty messaging, or a combination of both
+-Debugging will start immediately
+-The fix will be tested and deployed through normal CI/CD practices
+-Medical Records on va.gov will be brought back online and monitored
+
+**If a low-severity issue arises:**
+-A fix will be loaded to the backlog (JIRA) and prioritized
+-The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
+
+
+
+
