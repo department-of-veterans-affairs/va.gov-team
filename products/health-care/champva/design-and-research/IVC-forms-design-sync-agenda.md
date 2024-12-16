@@ -6,8 +6,7 @@
 	  - Design Roadmap Review
 	  - Design Backlog
   	  - OHI integration with CHAMPVA Application 1010d
-          - CHAMPVA Application 1010d duplicate Heath Insurance uploads
-          - Bluesky presentation
+	  - Bluesky presentation
    - ### Notes
 
 ## December 9 2024
