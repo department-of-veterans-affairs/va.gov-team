@@ -8,6 +8,27 @@
   	  - OHI integration with CHAMPVA Application 1010d
 	  - Bluesky presentation
    - ### Notes
+    - Reviewing Roadmap:
+     - Lois noted that it would be nice to see actual tickets in the Next column so that she knows what work is being done.
+       - She would also like to provide input on what we are working on.
+       - Discussion around how we would like to work, with resolution that we will discuss priorities in the sync then take the items from the Next column and create our own tickets.
+     - Moved OHI staging review tickets over since they should be worked on next.
+     - Moved research read-out to Now since the work is done and just the presentation needs to happen
+     - Bo asked if any research should be on the board
+       - Discussion around writing up questions first and then determining what actually needs research before adding to the board
+       - Lois to provide link to another team’s Mural to see how they handled that
+- OHI/1010D integration
+    - OHI will still need to be a separate form because it is used for insurance and address updates
+     - Need to create a high-level overview of the options for integrating OHI showing beginning/middle/end scenarios and pros/cons of each to present to stakeholders
+     - Premal and designers are leaning toward integrating the questions instead of linking over, but need to review all options
+     - We can start by outlining pros and cons of each integration approach.
+     - We can think about launching OHI just for updates but keep the manual download in the CHAMPVA App in the meantime.
+     - Premal advised we come up with a recommendation for stakeholders rather than asking them to make the decision
+     - Overview to be created as a Mural for easy visualization
+     - We will need to do some research in backend pdf creation too with stakeholders and engineers for whatever solution we would be moving forward with.
+     - OHI is in staging review mid-January. Question about whether that should move if wanting to delay it until integrated into 1010D.
+     - We can still pursue Staging review; it just means it’s ready for release. It doesn’t mean we have to launch it right away.
+
 
 ## December 9 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
