@@ -103,6 +103,9 @@ Qualitative questions:
 - What is your impression?
 - What was your experience in locating the recommended form? Was there anything in particular that helped you find it here?
 - Looking at the recommended form, does it feel like you're in the right place and what is your confidence level looking at this information?
+- What about this part of the page caught your attention?
+- What is VA trying to tell you here?
+- What about this part of the page drew you there?
 
 ### Things to watch for:
 Un-Authenticated State, clicking log-in:
@@ -137,6 +140,9 @@ Qualitative questions:
 - What are your impressions of the alternate recommendations?
 - What was your experience in locating the alternate recommendation? Was there anything in particular that helped you find it here?
 - What is your confidence level looking at the alternate recommendations?
+- What about this part of the page caught your attention?
+- What is VA trying to tell you here?
+- What about this part of the page drew you there?
 
 ### Things to watch for:
 
