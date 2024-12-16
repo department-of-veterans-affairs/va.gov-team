@@ -64,8 +64,8 @@ None
 |   46  | 11-10-2024 | 11-16-2024 | Peter Russo | [97312](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97312) | Done |
 |   47  | 11-17-2024 | 11-23-2024 | Peter Russo | [97743](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97743) | Done |
 |   48  | 11-24-2024 | 11-30-2024 | Peter Russo | [98071](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98071)    | Done       |
-|   49  | 12-01-2024 | 12-07-2024 | Peter Russo | [98649](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98649)         | In Progress  |
-|   50  | 12-08-2024 | 12-14-2024 | Peter Russo | []()         |        |
+|   49  | 12-01-2024 | 12-07-2024 | Peter Russo | [98649](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98649)         | Done  |
+|   50  | 12-08-2024 | 12-14-2024 | Peter Russo | https://github.com/department-of-veterans-affairs/va.gov-team/issues/99166    | In Progress       |
 |   51  | 12-15-2024 | 12-21-2024 | Peter Russo | []()         |        |
 |   52  | 12-22-2024 | 12-28-2024 | Peter Russo | []()         |        |
 
