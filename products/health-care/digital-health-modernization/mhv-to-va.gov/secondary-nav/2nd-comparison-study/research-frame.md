@@ -11,8 +11,8 @@ Specifically, we seek to understand:
 - How does the two-portal context impact participants' understanding of the secondary nav and each of its options?
 - What do participants expect from a "more" label/option in the secondary nav?
 - What do participants expect from a "home" label/option in the secondary nav?
-- Upon viewing the landing page
 - What type of secondary nav header or title helps participants most clearly understand which portal they are currently using?
+- If only 2 or 3 tools can be visible at once on the smallest screens (in addition to home and more), which would be best to show to help participants understand where they are?
 
 ## Secondary nav redesigns*
 *likely to continue to change for now
@@ -20,3 +20,7 @@ Specifically, we seek to understand:
 <img width="874" alt="image" src="https://github.com/user-attachments/assets/faab6aca-10c6-4298-b289-f818303a5154" />
 <img width="622" alt="image" src="https://github.com/user-attachments/assets/f4471114-413e-4a3a-b2ea-3371b155ce16" />
 
+## Technical needs
+To conduct this research, participants will need to:
+- Have access to all pages that are currently linked to from the landing page including the national portal's landing page
+- Be able to use one or more amended secondary nav(s), including hover state and select state
