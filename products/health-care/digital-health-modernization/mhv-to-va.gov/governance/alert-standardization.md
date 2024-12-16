@@ -46,8 +46,7 @@ NOTE: Screenshots below are taken from this [Figma file](https://www.figma.com/d
 </details>
 
 <details><summary>MHV landing page: unverified ID.me user</summary>
-
-<img width="800" alt="MHV Basic access alert" src="https://github.com/user-attachments/assets/5edb4d5e-d188-4d55-bd73-83cfaaa0f0d4" />
+<img width="613" alt="Screenshot 2024-12-16 at 3 44 21 PM" src="https://github.com/user-attachments/assets/57ea68d0-216e-40cb-abf4-fdd2bfd883c8" />
 
 
 </details>
