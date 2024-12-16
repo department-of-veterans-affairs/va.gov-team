@@ -61,7 +61,8 @@ See also [determining community care eligibliity](../backend-logic.md#determinin
 ### Non-functional
 
 - When the user selects a type of care (ie primary care) VAOS will return appointment endpoint call of past appointments up to previous 36 months.
-- User clicks `CONTINUE` button on Type of Care page VAOS will make the configuration call of the user's registered facilities thus returning the direct schedule status (enabled or disabled). AND it makes the call to facility endpoint that returns detailed information of user's registered facilities and its children facilities. 
+- User clicks `CONTINUE` button on Type of Care page VAOS will make the configuration call of the user's registered facilities thus returning the direct schedule status (enabled or disabled). AND it makes the call to facility endpoint that returns detailed information of user's registered facilities and its children facilities.
+- The listed facilities are ones where the Veteran is registered AND direct schedule OR requests are enabled. 
 
 <details>
 
