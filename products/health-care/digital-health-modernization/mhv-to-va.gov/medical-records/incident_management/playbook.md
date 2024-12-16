@@ -1,4 +1,4 @@
-# DEC 16, 2024: THIS TEMPLATE NEEDS TO BE FILLED OUT* 
+# MEDICAL RECORDS Incident Response Playbook* 
 
 
 # Endpoint monitoring
@@ -26,6 +26,15 @@ other metric that helps understand system performance for addressing current iss
 - When appropriate it is recommended to create a dashboard that models behavior for high impact/risk launches, showing the impact of changes
   and identifying new errors that happen post-launch.  This type of dashboard can often be deleted or incorporated into other dashboards
   after a successful release.
+
+**MEDICAL RECORDS DATADOG DASHBOARD**
+- [Datadog MR Dashboard](https://vagov.ddog-gov.com/dashboard/8tk-8fe-cin/mhv-medical-records?refresh_mode=sliding&from_ts=1696699383284&to_ts=1699291383284&live=true)
+- This dashboard contains components that display metrics (and subsequent required monitors) for:
+  -The MHV Fwd Proxy
+  -Domain level monitoring which include data for LISTS and DETAIL pages for each domain.  Each domain is measured for visit count, response code, http status, error rate as well as metrics for each print view, PDF download, and TXT download.  The domains that follow this pattern are: Vaccines, Allergies, Care Summaries/Notes, Vitals, Health Conditions, Lab/Tests, Radiology.
+  -We also measure and monitor various comprehensive downloads for performance such as CCD Download, Self Entered Download, and BlueButton comprehensive report Download.
+  -Lastly, we measure and monitor the Settings (VHIE sharing mostly) that exists on the site.
+
 
 ## Monitors
 Include monitors that notify the team (or organization) when the system has an issue that should be investigated or addressed.
@@ -80,6 +89,9 @@ expect that the following three scenarios will be covered:*
 ## Access rights
 - For reviewing Dashboards, Monitors, and SLOs a user can request `datadog readonly` role access.  If a user needs access to create or modify
   dashboards, monitors, or SLOs they can request `VFS Team Pilot` role access
+
+**MEDICAL RECORDS MONITORS**
+- Our datadog dashboard/monitors are integrating with the VA.gov Watchtower monitoring.  Alerts or anomolies that happen trigger Slack notifications in the #mhv-on-vagov-alerts channel (https://dsva.slack.com/archives/C054X851K62).
 
 ## Getting help
 - Questions can be posted in the #public-datadog Slack channel
