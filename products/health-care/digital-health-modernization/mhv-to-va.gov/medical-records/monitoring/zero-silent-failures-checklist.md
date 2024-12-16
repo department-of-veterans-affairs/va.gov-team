@@ -28,9 +28,8 @@
     - [X] Yes     
     - [ ] No
   - Continuity of Care Document:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
-    - [X] Still Being Developed, so N/A
   - Settings Page:
     - [X] Yes     
     - [ ] No
@@ -76,9 +75,8 @@
     - [X] Yes     
     - [ ] No
   - Continuity of Care Document:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
-    - [X] Still Being Developed, so N/A
   - Settings Page:
     - [X] Yes     
     - [ ] No
@@ -99,8 +97,9 @@ If you answered yes to any of these questions then go through the following [che
   - Health Conditions: May 2024
   - Care Notes and Summaries: May 2024
   - Lab and Test Results: Sep 2024
-  - Blue Button: Developed, but currently behind feature flag (not shipped)
-  - Continuity of Care Document: Not yet completed
+  - Lab and Test Imaging: Dec 2025
+  - Blue Button: Dec 2025
+  - Continuity of Care Document: Dec 2025
 
 * [X] Do your applications use the same APIs when it shipped as it does today?
   - Allergies:
@@ -125,9 +124,8 @@ If you answered yes to any of these questions then go through the following [che
     - [X] Yes     
     - [ ] No
   - Continuity of Care Document:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
-    - [X] Still Being Developed, so N/A
   - Settings Page:
     - [X] Yes     
     - [ ] No
@@ -158,16 +156,13 @@ If not, then you'll need to consider the path user data took through both the cu
     - [X] Yes     
     - [ ] No
   - Blue Button:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
-    - [X] N/A - this isn't a specific API but rather a combination of all other APIs so yes it is covered
   - Continuity of Care Document:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
-    - [X] Still Being Developed, so N/A (MHV-62491, 2, 3)
   - Settings Page:
-    - [ ] Yes     
-    - [X] No - Not yet deployed, will add monitor before it goes live (MHV-62490)
+    - [X] Yes     
 
   * If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
 
@@ -194,16 +189,13 @@ If not, then you'll need to consider the path user data took through both the cu
     - [X] Yes     
     - [ ] No
   - Blue Button:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
-    - [X] N/A - this isn't a specific API but rather a combination of all other APIs so yes it is covered
   - Continuity of Care Document:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
-    - [X] Still Being Developed, so N/A
   - Settings Page:
-    - [ ] Yes     
-    - [X] No - Not yet deployed, will add monitor when it goes Live
+    - [X] Yes     
 
   * If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
 
@@ -249,40 +241,14 @@ If not, then you'll need to consider the path user data took through both the cu
 
 * [X] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
 
-  _We are answering 'No' for various domains below as there is two scnearios that can impact all of the domains where we have identified a silent error.  This issue will be created and prioritized for development._
+  _We are answering 'No' for various domains below as there are/were three scnearios that can impact all of the domains where we have identified a silent error._
 
-  _**Scenario 1** - If a user has not visited MHV since our FHIR server was deployed, they will have no records in the FHIR database. Then, if they visit VA.gov MR and PHR refresh fails, the user may falsely get a message saying they have no records.  https://jira.devops.va.gov/browse/MHV-62496_
+  _**Scenario 1 RESOLVED/DEEMED N/A** - If a user has not visited MHV since our FHIR server was deployed, they will have no records in the FHIR database. Then, if they visit VA.gov MR and PHR refresh fails, the user may falsely get a message saying they have no records.  https://jira.devops.va.gov/browse/MHV-62496_
 
-  _**Scenario 2** - We are not currently handling API errors from the PHR Refresh Status Check. https://jira.devops.va.gov/browse/MHV-62497_
+  _**Scenario 2 RESOLVED** - We are not currently handling API errors from the PHR Refresh Status Check. https://jira.devops.va.gov/browse/MHV-62497_
 
-  - Allergies:
-    - [ ] Yes     
-    - [X] No
-  - Vaccines:
-    - [ ] Yes     
-    - [X] No
-  - Vitals:
-    - [ ] Yes     
-    - [X] No
-  - Health Conditions:
-    - [ ] Yes     
-    - [X] No
-  - Care Notes and Summaries:
-    - [ ] Yes     
-    - [X] No
-  - Lab and Test Results:
-    - [ ] Yes     
-    - [X] No
-  - Blue Button:
-    - [ ] Yes     
-    - [X] No
-  - Continuity of Care Document:
-    - [ ] Yes     
-    - [ ] No
-    - [X] Still Being Developed, so N/A
-  - Settings Page:
-    - [ ] Yes     
-    - [X] No - Not yet deployed, will add monitor when it goes Live
+  _**Scenario 3 IN PROGRESS** - If a DICOM image download fails, we will be sending an email notification to the Veteran using MHV messaging in the interim.  After launch we will integrate MHV with VANotify. https://jira.devops.va.gov/browse/MHV-64996_
+
 
   * If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
 
@@ -315,12 +281,11 @@ _Yes, for all domains with the exception of CCD (in development) and Settings._
     - [X] Yes     
     - [ ] No
   - Continuity of Care Document:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
-    - [X] Still Being Developed, so N/A
   - Settings Page:
-    - [ ] Yes     
-    - [X] No - Not yet deployed, will add monitor when it goes Live
+    - [X] Yes     
+    - [ ] No
  
   * If not, then [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md) that captures this information. 
   * Link to data flow diagram:
@@ -353,9 +318,8 @@ _Yes, for all domains with the exception of CCD (in development) and Settings._
     - [X] Yes     
     - [ ] No
   - Continuity of Care Document:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
-    - [X] Still Being Developed, so N/A
   - Settings Page:
     - [X] Yes     
     - [ ] No
@@ -386,8 +350,7 @@ _Yes, for all domains with the exception of CCD (in development) and Settings._
     - [X] No
   - Continuity of Care Document:
     - [ ] Yes     
-    - [ ] No
-    - [X] Still Being Developed, so N/A
+    - [X] No
   - Settings Page:
     - [ ] Yes     
     - [X] No
@@ -399,8 +362,6 @@ _Yes, for all domains with the exception of CCD (in development) and Settings._
 
 * [X] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
       
-  _Aside from the two scenarios we have identified above, the answers are 'Yes' as noted below._
-
   - Allergies:
     - [X] Yes     
     - [ ] No
@@ -423,12 +384,11 @@ _Yes, for all domains with the exception of CCD (in development) and Settings._
     - [X] Yes     
     - [ ] No
   - Continuity of Care Document:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
-    - [X] Still Being Developed, so N/A
   - Settings Page:
-    - [ ] Yes     
-    - [X] No
+    - [X] Yes     
+    - [ ] No
 
   * If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md). That diagram will help us to help you and your team to create this user experience.
 
