@@ -100,6 +100,11 @@ expect that the following three scenarios will be covered:*
 
 **MEDICAL RECORDS MONITORS**
 - Our datadog dashboard/monitors are integrating with the VA.gov Watchtower monitoring.  Alerts or anomolies that happen trigger Slack notifications in the #mhv-on-vagov-alerts channel (https://dsva.slack.com/archives/C054X851K62).
+- [MHV Medical Records error response rate (vets-api vagov-prod) Monitor](https://vagov.ddog-gov.com/monitors/199793) 
+- [MHV Medical Records anomaly monitor](https://vagov.ddog-gov.com/monitors/199800)
+- [MHV Medical Records MHV::PhrUpdateJob has exhausted its sidekiq queue Monitor](https://vagov.ddog-gov.com/monitors/199803)
+- [MHV Medical Records Imaging endpoint error response rate (vets-api vagov-prod) Monitor](https://vagov.ddog-gov.com/monitors/303429)
+- [MHV Medical Records API upstream response times Monitor](https://vagov.ddog-gov.com/monitors/172423)
 
 ## Process/Incident Response - MEDICAL RECORDS
 
