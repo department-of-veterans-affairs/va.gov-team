@@ -59,7 +59,7 @@ Apps marked with an asterisk(*) share similar task structures as the VA mobile a
 * MyFitnessPal
 * Firefox
 
-## Summary of Findings
+## Findings
 
 | App Name | End-to-end | First-run | Continuous | First actions |
 |---|---|---|---|---|
