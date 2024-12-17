@@ -74,15 +74,15 @@ The housing left nav will have the following structure. These are not the final 
 ### Crosslinks
 All link labels TBD by content
 
-**1. Surviving spouse program in veteran left nav - Remove**
+**1. Surviving spouse program in veteran left nav - Remove (done 12/17/24)**
   - Remove the left nav link to the home loan program for surviving spouses
 ![Screenshot 2024-10-11 at 9 42 27 AM](https://github.com/user-attachments/assets/c5a3370d-cf0d-4908-a869-3a5b57080f1a)
 
-**2. [Veteran housing hub page](https://www.va.gov/housing-assistance/) - change**
+**2. [Veteran housing hub page](https://www.va.gov/housing-assistance/)(done 12/17/24) - change**
   - Update the node, label, and description in the veteran hub
 ![Screenshot 2024-10-11 at 9 46 46 AM](https://github.com/user-attachments/assets/3bdef0ff-31bf-4b2d-be44-cc60224aaf44)
 
-**3. [VA backed home loans detail page](https://www.va.gov/housing-assistance/home-loans/) - change**
+**3. [VA backed home loans detail page](https://www.va.gov/housing-assistance/home-loans/) (done 12/17/24)- change**
   - Remove section about surviving spouse home loans
 ![Screenshot 2024-10-11 at 9 49 47 AM](https://github.com/user-attachments/assets/aa010fd2-153f-46dd-8c18-e7be71cc12c2)
 
@@ -99,7 +99,7 @@ Redirect ticket: https://github.com/department-of-veterans-affairs/va.gov-team/i
 
 ## <a name="bestbets"></a>Best Bets<br>
 
-**1) Home loan program for surviving spouses - New**
+**1) Home loan program for surviving spouses - New (done 12/17/24)**
 - set up best bet for this at our new URL after publishing
 
 
