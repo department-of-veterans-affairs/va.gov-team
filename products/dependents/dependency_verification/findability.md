@@ -23,7 +23,7 @@ Through our discovery, we identified the following issues:
 
 ### Search results
 
-Using the following phrases did not render the "about form" page for Verification of dependents:
+Using the following phrases did not render the "About form" page for Verification of dependents:
 - Verification
 - Dependent verification
 - Verification of dependent 
@@ -34,11 +34,16 @@ Only when using exact phrasing from the title of the form, "Verification of depe
 - _HMW surface Verification information in the search results?_
 - _What phrases should surface verification information?_
   
-### Current information page restructure and content enhancements
+### Information and structure issues with the current parent page
 
-    - Our paper form 686c was not mentioned on the "View or change dependents on your VA disability benefits" page.
-    - The link to the online 686c/674 was hidden behind a sign-in alert
-    - The content is structured differently than the other forms we've worked with.
+A review of the parent "static page" for dependend child pages revealed a few potential improvements.
+
+[Go to View or change dependents](https://www.va.gov/view-change-dependents/)
+
+- The paper form for VA Form 21-686c was not mentioned or linked on the parent page.
+- The link to the online tool to add or remove dependents, 686c/674, was hidden behind a sign-in alert
+  - Mikki Northuis has pointed out previously that having sign-in alerts on both the parent page and the introduction page for 686c/674 is not compliant with guidance
+- The content is structured differently than other parent pages for VA.gov forms
     -  _Does it make sense to match other forms structures, such as showing the different options to apply?_
 - Finding a place for Verification information
     - _Where does it make sense for this information to live?_
