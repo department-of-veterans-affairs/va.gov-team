@@ -25,6 +25,7 @@ We reviewed the following sources (not all contained relevant feedback):
 
 ### App Reviews
 
+
 ***September 2024***
 
 *   The App has great potential - However, when a User tries to manage a message, Archive or Delete - nothing is simple. Not even offered inside the Message. Kinda Clunky!  
@@ -70,7 +71,7 @@ We reviewed the following sources (not all contained relevant feedback):
     *Can only see part of sent messages*  
     *If you accidentally touch outside of the text box when writing a message, the UI jumps and text goes gray* 
 
-*   Messaging between veterans and the different departments in the VA has always been difficult, seeing that veterans need an appointment before messaging can open up to a certain department, and in addition, messaging is not a highlighted feature of this app or in any place, where you have to go searching for messages first on the VA page. To enhance this for veterans, please make a separate “Messages” button on the main screen that veterans can click on to get into their message inboxes. Then you should create a way for a veteran to click on the VA system (Denver or Cheyenne) that they are messaging, the department inside the selected VA, and then the doctor or staff member you want to. If the veteran doesn’t know what person, there should be a way to send a message to a general mailbox, which could be forwarded to the person in the department, and then this contact be saved so that the veteran can connect directly to them the next time they come on. It would also be a great feature for veterans to go to sick-call using the video option, instead of driving all the way down to the VA and waiting inside. There should be a doctor designated for video sick-calls and a nurse/scheduler on call. I also hope that there can someday be a doctor on call for video appointments during after hours and on the weekends. It seems that driving to the ER for having the flu is not something the staff at the ER appreciate getting, as they always push non-urgent patients out the door to see their regular doctors a few days later. Please see that our veterans get the care that they need and deserve.
+*   Messaging between veterans and the different departments in the VA has always been difficult, seeing that veterans need an appointment before messaging can open up to a certain department, and in addition, messaging is not a highlighted feature of this app or in any place, where you have to go searching for messages first on the VA page. To enhance this for veterans, please make a separate “Messages” button on the main screen that veterans can click on to get into their message inboxes. Then you should create a way for a veteran to click on the VA system (Denver or Cheyenne) that they are messaging, the department inside the selected VA, and then the doctor or staff member you want to. If the veteran doesn’t know what person, there should be a way to send a message to a general mailbox, which could be forwarded to the person in the department, and then this contact be saved so that the veteran can connect directly to them the next time they come on. It would also be a great feature for veterans to go to sick-call using the video option, instead of driving all the way down to the VA and waiting inside. There should be a doctor designated for video sick-calls and a nurse/scheduler on call. I also hope that there can someday be a doctor on call for video appointments during after hours and on the weekends. It seems that driving to the ER for having the flu is not something the staff at the ER appreciate getting, as they always push non-urgent patients out the door to see their regular doctors a few days later. Please see that our veterans get the care that they need and deserve.  
     *Have to search to find the messages function*  
 
 *   It is hard to message different departments because you need an appointment first, should be able to select any system, department, then provider  
@@ -100,263 +101,131 @@ We reviewed the following sources (not all contained relevant feedback):
 
 ***May 2024***
 
-*   I tried to send an sms to my provider multiple times via website, but it kept saying send failed. So, I copied msg and tried pasting it to the app to send. It created huge gaps between hard returns + other formatting glitches, as well as bouncing back to the end of the msg many times as I tried to re-edit the message’s formatting errors
-    
+*   I tried to send an sms to my provider multiple times via website, but it kept saying send failed. So, I copied msg and tried pasting it to the app to send. It created huge gaps between hard returns + other formatting glitches, as well as bouncing back to the end of the msg many times as I tried to re-edit the message’s formatting errors  
+    *I get “bounced” to the end of the message while trying to edit it*
 
-I get “bounced” to the end of the message while trying to edit it
+*   Good app in terms of getting around VA certain features without using web version. Add feature of not having to fill drafts before you can save them. Sometimes I have to jump back and forward reading something between my email client and drafting VA message to provider. It would be nice if I didn't have to fill everything just to save it as draft. For sending out? Sure title is needed, but for draft?  
+    *I don’t want to have to fill out everything in order to save a draft*
 
-  
+*   It says one new message when you check it you sign in there's no new messages you sign out still says one new message. You need to restart phone to clear it. Fingerprint log in has worked one time. Tried,several things no help.  
+    *I get notified of a new message when there are no new messages, have to restart the phone to clear it*
 
-*   Good app in terms of getting around VA certain features without using web version. Add feature of not having to fill drafts before you can save them. Sometimes I have to jump back and forward reading something between my email client and drafting VA message to provider. It would be nice if I didn't have to fill everything just to save it as draft. For sending out? Sure title is needed, but for draft?
-    
+*   Good App. can message pac team and other specialty clinics and refill prescriptions. only drawback is cannot figure out how to add a certain specialty clinc. have to go to the main hospital office and have them do it. I like how you can download the blue ribbon report and see all doctors notes. sometimes the app is under maintenance and you cannot access it. which it forces you to re login. biometrics needs to be more consistent. I get frustrated having to keep logging in sometimes because this  
+    *Can’t figure out how to add a specialty clinic, have to have the “main hospital office” do it*
 
-I don’t want to have to fill out everything in order to save a draft
+***April 2024***
 
-  
+*   This app is convenient for some things. It has several glitching issues and boots you while working on typing messages and deletes the messages when you hit send and will log off on its own without warning. If you need to write a message that is longer than a couple of sentences, then use myhealthva.gov instead. That at least saves a draft rather than deleting it all and having to go back and rewrite it.  
+    *I get logged out while replying to messages and then the when I hit send the message is deleted, at least MyHealtheVet saves a draft*
 
-*   It says one new message when you check it you sign in there's no new messages you sign out still says one new message. You need to restart phone to clear it. Fingerprint log in has worked one time. Tried,several things no help.
-    
+*   This app is very unreliable. I never get alerts about messages being sent to me, and when I see that a claim letter is available when I click on Claim Letters, it says none are available. I have to call the VA and have an agent read them to me or wait 12 days to get the letter in the snail mail. 9 times out of 10 I get the "the VA mobile app isn't working right now, try again later" message. Unusable.  
+    *I don’t get alerts when I receive a message*
 
-I get notified of a new message when there are no new messages, have to restart the phone to clear it
+*   can't delete messages any longer. What happened??  
+    *Why can’t we delete old messages anymore?*
 
-  
+*   how to trash old messages  
+    *I want to be able to delete old messages*
 
-*   Good App. can message pac team and other specialty clinics and refill prescriptions. only drawback is cannot figure out how to add a certain specialty clinc. have to go to the main hospital office and have them do it. I like how you can download the blue ribbon report and see all doctors notes. sometimes the app is under maintenance and you cannot access it. which it forces you to re login. biometrics needs to be more consistent. I get frustrated having to keep logging in sometimes because this
-    
+*   The app doesn’t show the entire message after you reply. My nurse wrote of an ointment I should get. I replied to her then when I went to look at the message, the app cuts it off so I cannot see what the ointment is. Why are the messages in the app being cut short? Why can’t I read the entire message?  
+    *I can’t see full previous messages after I reply in a message thread*
 
-Can’t figure out how to add a specialty clinic, have to have the “main hospital office” do it
+***March 2024***
 
-  
-  
+*   Just typed a whole bunch of stuff and pressed something and lost it all. Not doing it again  
+    *Pressed something and lost everything I had typed*
 
-April 2024
+*   ITS THE VA, WHAT DO YOU THINK? STOP REMOVING PROVIDERS FROM THE MESSAGING AND WHY HAVE SO MANY THAT WE DONT USE?  
+    *Don’t remove providers from messaging*  
+    *Why are there so many providers that we don’t use*
 
-*   This app is convenient for some things. It has several glitching issues and boots you while working on typing messages and deletes the messages when you hit send and will log off on its own without warning. If you need to write a message that is longer than a couple of sentences, then use myhealthva.gov instead. That at least saves a draft rather than deleting it all and having to go back and rewrite it.
-    
+*   I like the app, but when I try to use secure messaging it does not let me reply. I have to go to the website signing in all over again to be able to send a message or to reply.  
+    *Am not able to reply to messages*
 
-I get logged out while replying to messages and then the when I hit send the message is deleted, at least MyHealtheVet saves a draft
+*   Request you fix app. The messages sent and received in the VA app Healthcare section, messages Are out of chronological order. The messages are listed in an inconsistent order, causing confusion and dysfunction. Especially when trying to communicate with various VA providers. Request you fix messages so they are in a consistent chronological order.  
+    *Messages are not listed in chronological order*
 
-  
+***February 2024***
 
-*   This app is very unreliable. I never get alerts about messages being sent to me, and when I see that a claim letter is available when I click on Claim Letters, it says none are available. I have to call the VA and have an agent read them to me or wait 12 days to get the letter in the snail mail. 9 times out of 10 I get the "the VA mobile app isn't working right now, try again later" message. Unusable.
-    
+*   Creating messages is terrible. I usually use a seperate app to craft messages, and then I paste my messages in to the dialogue box. For the amount of money the American People pay the VA, these apps should not be plagued with basic coding errors.  
+*I compose messages elsewhere and then paste because the creating messages experience is terrible*
 
-I don’t get alerts when I receive a message
+*   I've been cut off completely from my providers. Whenever I want to send a message, it continues to say "you can longer communicate with triage, message failed".  
+    *Getting error message "you can longer communicate with triage, message failed" when I try to send a message*
 
-  
+*   Would like to have more options as to messaging specialty clinics or other entitles. At the moment my Primary Care physician asked me to message them for more information. How would I be able to do that when I don’t have them on my drop down list of contacts. In addition, it would be nice to have some kind of portal to communicate between local hospitals and the local VA.  
+    *PCP isn’t in my contact list, want to have the option to message more people*
 
-*   can't delete messages any longer. What happened??
-    
+*   I like the app but there needs to be a button so you can delete secure messages.  
+    *Want to be able to delete messages*
 
-Why can’t we delete old messages anymore?
+*   It would be nice if the keyboard didn't cover the message block so I could see what I'm writing.  
+    *Keyboard covers message and I can’t see what I’m writing*
 
-  
+***January 2024***
 
-*   how to trash old messages
-    
+*   Other than having to log in again after using my fingerprint to unlock the app the newest versions of this are quite good. You even get notifications of your messages. I just wish when you clicked on the message it actually took you to the message itself, as the web page is poorly formatted. Great dark theme. Dropping one star as I still have to log in after using my fingerprint to unlock the app. Will drop again if not fixed in the next update.  
+    *Wish that the message notification took you directly to the message not the webpage*
 
-I want to be able to delete old messages
+*   This site is most helpful. I am older and there has been difficulty trying to complete the tasks I have to do. It seems that when I am typing a secured message to anyone I get the message almost complete and for some reason the message just disappears. Can you please let me know what the heck’s going on? It is soooo frustrating. Please keep in mind those of us that are older. Babsbluvd  
+    *The message disappears while I’m composing it*
 
-  
+*   Not working, not seeing my providers in the messages area, constantly logging me out, what’s the point in having this app if it is not benefiting me?  
+    *Don’t see my providers*
 
-*   The app doesn’t show the entire message after you reply. My nurse wrote of an ointment I should get. I replied to her then when I went to look at the message, the app cuts it off so I cannot see what the ointment is. Why are the messages in the app being cut short? Why can’t I read the entire message?
-    
-
-I can’t see full previous messages after I reply in a message thread
-
-  
-  
-
-March 2024
-
-*   Just typed a whole bunch of stuff and pressed something and lost it all. Not doing it again
-    
-
-Pressed something and lost everything I had typed
-
-  
-
-*   ITS THE VA, WHAT DO YOU THINK? STOP REMOVING PROVIDERS FROM THE MESSAGING AND WHY HAVE SO MANY THAT WE DONT USE?
-    
-
-Don’t remove providers from messaging
-
-Why are there so many providers that we don’t use
+*   I was referred to the community care program for my thyroid. After 1 appointment at a local provider I was told I cannot see the local provider, I have to go to Green Bay. This is an hour drive each way. I have not heard from the provider since doing the labs he ordered which show my levels are very low. My medication is almost out and I do not have the response needed to get the correct prescription. I am not able to send a message directly to the Green Bay Endocrinologist. I do not feel I am getting the care I need to manage a life long medical issue I have.  
+    *Can’t send a message directly to the provider that I need to contact*
 
   
-
-*   I like the app, but when I try to use secure messaging it does not let me reply. I have to go to the website signing in all over again to be able to send a message or to reply.
-    
-
-Am not able to reply to messages
-
-  
-
-*   Request you fix app. The messages sent and received in the VA app Healthcare section, messages Are out of chronological order. The messages are listed in an inconsistent order, causing confusion and dysfunction. Especially when trying to communicate with various VA providers. Request you fix messages so they are in a consistent chronological order.
-    
-
-Messages are not listed in chronological order
-
-  
-  
-
-February 2024
-
-*   Creating messages is terrible. I usually use a seperate app to craft messages, and then I paste my messages in to the dialogue box. For the amount of money the American People pay the VA, these apps should not be plagued with basic coding errors.
-    
-
-I compose messages elsewhere and then paste because the creating messages experience is terrible
-
-  
-
-*   I've been cut off completely from my providers. Whenever I want to send a message, it continues to say "you can longer communicate with triage, message failed".
-    
-
-Getting error message "you can longer communicate with triage, message failed" when I try to send a message
-
-  
-
-*   Would like to have more options as to messaging specialty clinics or other entitles. At the moment my Primary Care physician asked me to message them for more information. How would I be able to do that when I don’t have them on my drop down list of contacts. In addition, it would be nice to have some kind of portal to communicate between local hospitals and the local VA.
-    
-
-PCP isn’t in my contact list, want to have the option to message more people
-
-  
-
-*   I like the app but there needs to be a button so you can delete secure messages.
-    
-
-Want to be able to delete messages
-
-  
-
-*   It would be nice if the keyboard didn't cover the message block so I could see what I'm writing.
-    
-
-Keyboard covers message and I can’t see what I’m writing
-
-  
-  
-
-January 2024
-
-*   Other than having to log in again after using my fingerprint to unlock the app the newest versions of this are quite good. You even get notifications of your messages. I just wish when you clicked on the message it actually took you to the message itself, as the web page is poorly formatted. Great dark theme. Dropping one star as I still have to log in after using my fingerprint to unlock the app. Will drop again if not fixed in the next update.
-    
-
-Wish that the message notification took you directly to the message not the webpage
-
-  
-
-*   This site is most helpful. I am older and there has been difficulty trying to complete the tasks I have to do. It seems that when I am typing a secured message to anyone I get the message almost complete and for some reason the message just disappears. Can you please let me know what the heck’s going on? It is soooo frustrating. Please keep in mind those of us that are older. Babsbluvd
-    
-
-The message disappears while I’m composing it
-
-  
-
-*   Not working, not seeing my providers in the messages area, constantly logging me out, what’s the point in having this app if it is not benefiting me?
-    
-
-Don’t see my providers
-
-  
-
-*   I was referred to the community care program for my thyroid. After 1 appointment at a local provider I was told I cannot see the local provider, I have to go to Green Bay. This is an hour drive each way. I have not heard from the provider since doing the labs he ordered which show my levels are very low. My medication is almost out and I do not have the response needed to get the correct prescription. I am not able to send a message directly to the Green Bay Endocrinologist. I do not feel I am getting the care I need to manage a life long medical issue I have.
-    
-
-Can’t send a message directly to the provider that I need to contact
-
-  
-  
-  
-
 # Research Studies
 
-  
-
-Notes from Personalized Homepage Research study conducted by Holly
-
-  
+***Notes from Personalized Homepage Research study***
 
 *   Expecting reply from doc: I get alerts when a message comes in and that's when I go to the app. I have them sent to my email -- something like "You have a secure message" When I downloaded my app, I make sure I know how to use it and set the settings.
-    
-
-  
 
 *   Prompt re: "4 unread": That's good! That means there are some messages I need to pay attention to so I'm going to go investigate. I do a lot of telehealth -- I probably never checked on the message because I don't know where the unread ones are. All of these I've read.I want a filter to unread messages
     
-
-  
-
 *   Observer note: She couldn't find her unread messages easily, said a filter would be useful, (scrolling through 134 pages of messages to find the unread messages). Missed buttons at top of screen in Rx & Messages (looked at bottom).
-    
 
-  
+  *In the Personalized Homepage Research study Veteran participants set up alerts so they get emails notifiying them of a new message. They would like to filter by unread messages, otherwise they have to look through pages and pages of messages to find the unread ones. An Observer noted that the Veterans looked at the bottom of the screen instead of the top for buttons*
 
-Personalized Homepage research study: I set up alerts so I get emails when I get a new message. I would like to filter by unread messages, otherwise I have to look through pages and pages of messages to find the unread ones. (Observer note: She looked at the bottom of the screen instead of the top for buttons.)
 
-  
-
-Findings from Mobile App Retention study conducted by Greta and Liz
+***Findings from Mobile App Retention study***
 
 *   Pain Point: Veterans at Cerner transition facilities: messages and upcoming appointments no longer visible directly in the app
-    
-
-  
 
 *   Key Finding 4: Veterans prioritized communicating with their doctors, and finding out about benefits they’re eligible for
     
+    *In the Mobile App Retention study Veteran participants said communicating with their doctors is high priority*
 
-Mobile App Retention study: Communicating with their doctors is high priority for Veterans
-
-Mobile App Retention study: It is a pain point that Veterans at Cerner facilities can’t message in the app
+    *In the Mobile App Retention study Veteran participants said it was a pain point that Veterans at Cerner facilities can’t message in the app*
 
   
-
-Findings from VA: Health and Benefits Information Architecture Research: Open Card Sort Findings
+***Findings from VA: Health and Benefits Information Architecture Research: Open Card Sort Findings***
 
 *   Key Finding 8: Secure messaging was not grouped into one clear category
+  
+    Labels: Contact the VA, secure messaging
     
+    Brief description: Participants did not have one clear category where they put Secure Messaging. Interestingly, most participants grouped Secure Messaging with the services they use it for. Since three participants use secure messaging to schedule appointments, they categorized it with appointments. One participant uses it to order prescriptions, so they put it with prescriptions. Two participants grouped it in a category they identified as “personal” indicating that this is an item unique to them.
 
-  
+    Supporting data: "I use secure messaging with both prescriptions and appointments\[...\]I guess it could go in both or either." When prompted to choose one, he put it in prescriptions since he uses it more with that. [P10]
 
-Labels: Contact the VA, secure messaging
+    *In the IA & Nav Open card sort the group that the Veteran participants placed the messages card in varied because they grouped it with the service that they used it for*
 
-  
 
-Brief description: Participants did not have one clear category where they put Secure Messaging. Interestingly, most participants grouped Secure Messaging with the services they use it for. Since three participants use secure messaging to schedule appointments, they categorized it with appointments. One participant uses it to order prescriptions, so they put it with prescriptions. Two participants grouped it in a category they identified as “personal” indicating that this is an item unique to them.
-
-  
-
-Supporting data: "I use secure messaging with both prescriptions and appointments\[...\]I guess it could go in both or either '' When prompted to choose one, he put it in prescriptions since he uses it more with that P10.
-
-  
-
-IA & Nav Open card sort: The group that the participants placed the messages card in varied; they grouped it with the service that they used it for.
-
-  
-
-  
-
-Findings from VA Mobile App - IA & Navigation: Evaluative Research - Usability Study Findings by Holly
+***Findings from VA Mobile App - IA & Navigation: Evaluative Research - Usability Study***
 
 *   Pain Point: Didn’t notice Messages feature: 4 participants mentioned that they didn’t notice Messages (wasn’t included as a study task, but identified by participants as important to them).
-    
-
-  
 
 *   Recommendations: Consider a potential higher placement for messages within the app’s hierarchy.
     
+    *In the IA & Nav Eval. research study: ~⅓ of Veteran participants didn’t notice messages. A recommendation was made to consider a higher place in the app hierarchy. (This was before the implementation of the home screen)*
 
-IA & Nav Eval. research study: ~⅓ of participants didn’t notice messages, recommendation to consider a higher place in the app hierarchy (this was pre home page)
-
-  
 
 # Tickets with “user feedback” label
 
-  
-
-### Explore the possibility of a "funnel" for secure messaging #9444
+***Explore the possibility of a "funnel" for secure messaging #9444***
 
 During the BVA / Section 508 monthly meeting on August 21, 2024, there was discussion around how to make secure messaging a bit easier to use for screen reader users and for users with cognitive disabilities. During the session, a Veteran brought up a few issues that she has been having with the picker list for providers recently (tickets already created for those) and mentioned that she has over 25 providers to choose from. Other Veterans on the call also mentioned having a large number of providers and how difficult it can be to find who they are looking for in the list. This began a discussion around the possibility of working towards a "funnel system" when creating a new message.
 
