@@ -65,7 +65,7 @@ All pages have ratings of 2 or below.
 5. [Helpful VA phone numbers](https://www.va.gov/resources/helpful-va-phone-numbers/) (43% good out of 128 total responses)
    
 ## Analysis
-[Resources and support ratings spreadsheet]
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20ratings%20tracking%20November%202024.xlsx?d=waf25e7eb53d449a78f670749e36993ec&csf=1&web=1&e=zhBk2Z)
 - This is the third month in a row R&S didn't meet our goal of 75% or higher "good" ratings, with a 66% "good" average rating. This can be attributed to large numbers of "bad" ratings for sign-in related pages. This will most likely continue during the sign-in transition process but we will continue to monitor it.
 - Performance isn't as high when broken down to individual pages:
   - 22% of pages are scoring at 90% or higher "good"
