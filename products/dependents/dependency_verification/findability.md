@@ -7,7 +7,7 @@ Designers: Fiorella Geedi, Ajia Wallace, Ruben Sun
 The Dependents Experience team is working on an initiative to reduce the over $250 million that the VA overpays in dependents payments annually, burdening Veterans with debt. This initiative consists of two parts: 
 
 - An annual notification email that would encourage Veterans to review and verify or update the dependents on their VA benefits on VA.gov
-- A partial digitization of VA Form 21-0538 that will allow Veterans to verify that their dependents are correct on VA.gov
+- A partial digitization of Mandatory Verification of Dependents [VA Form 21-0538](https://www.va.gov/find-forms/about-form-21-0538/) that will allow Veterans to verify that their dependents are correct on VA.gov
 
 [Learn more about the verification initiative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/dependency_verification)
 
@@ -22,14 +22,17 @@ As a part of our initiative, our team did some discovery work to understand how 
 Through our discovery, we identified the following issues:
 
 ### Search results
-    - Using the following phrases did not render the "about form" page for Verification of dependents:
-         - Verification
-         - Dependent verification
-         - Verification of dependent 
-    - Only using "Verification of dependents" did we see the "about form" page for Verification of dependents in the search results.
-    - _HMW surface Verification information in the search results?_
-    - _What phrases should surface verification information?_
-- Current information page restructure and content enhancements:
+
+Using the following phrases did not render the "about form" page for Verification of dependents:
+- Verification
+- Dependent verification
+- Verification of dependent 
+Only when using exact phrasing from the title of the form, "Verification of dependents," did we see the "About form" page for Verification of dependents in the search results.
+- _HMW surface Verification information in the search results?_
+- _What phrases should surface verification information?_
+  
+### Current information page restructure and content enhancements
+
     - Our paper form 686c was not mentioned on the "View or change dependents on your VA disability benefits" page.
     - The link to the online 686c/674 was hidden behind a sign-in alert
     - The content is structured differently than the other forms we've worked with.
