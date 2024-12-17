@@ -54,9 +54,28 @@ A review of the parent "static page" for dependent pages revealed a few potentia
   - _HMW make the Dependents information more discoverable on VA.gov?_
   - _HMW make the Dependents Verification information discoverable on VA.gov?_
 
-## Goals for MVP
+## Context and priorities
+We understand that these findings have far-reaching implications and that solving for these issues takes time and further discovery. Our priorities for the scope of addressing these issues are listed here:
+
+### The dependent verification MVP
+Any improvements to findability should be first focused on the dependent verification MVP. Our thoughts on what that must/should include are listed here, but we are open to further suggestions from our work with CAIA beyond the improvements we recommend.
+
+#### Must haves
+- A way for unauthenticated Veterans to easily find information about verification of dependents
+- A way for unauthenticated Veterans to easily find where they can log in to view the dependents currently on their benefits
+- Links to the new verification tool from the Mandatory Verification of Dependents About form page and other appropriate places
+
+### Dependents experience
+Beyond the verification MVP, our discovery revealed issues with the findability of content related to the dependents experience as a whole. After addressing issues related to the verification MVP, our next priotity would be to address potential improvements to the findability and structure of dependents-related content, potentially including but not limited to: 
+
+- Restructuring of parent page content
+- Aligning with other VA.gov forms
+
+### VA.gov
+Our discovery may have revealed issues with information architecture across VA.gov. This is our lowest priority but still important to our team. After the findability of the verification MVP and other dependents experience content, we would love to lend our efforts to potential improvements to information architecture across VA.gov and how the dependents experience fits within VA.gov where possible. 
 
 ## Unknowns
+
 
 ## Suggested timeline
 
