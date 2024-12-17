@@ -1,6 +1,6 @@
 # Dependent verification findability
 
-Designers: Fiorella Geedi, Ajia Wallace, Ruben Sun. 
+Designers: Fiorella Geedi, Ajia Wallace, Ruben Sun
 
 ## Background
 
@@ -21,7 +21,7 @@ As a part of our initiative, our team did some discovery work to understand how 
 
 Through our discovery, we identified the following issues:
 
-- Search results: 
+### Search results
     - Using the following phrases did not render the "about form" page for Verification of dependents:
          - Verification
          - Dependent verification
