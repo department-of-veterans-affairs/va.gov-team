@@ -15,7 +15,9 @@ This initiative consists of two parts:
 
 ## Findability discovery
 
-As a part of our initiative, our team did some discovery work to understand how Veterans might find information about the "verification of dependents." We know how important it is that even Veterans who don't follow our happy path (the CTA in the annual notification email) are able to find information about dependent verification and how to verify. We want to ensure that Veterans can easily find information on dependent verification on VA.gov and also that they're presented with information on dependent verification in relevant spaces even when they don't know to search for it. 
+As a part of our initiative, our team did some discovery work to understand how Veterans might find information about the "verification of dependents." Part of our hypothesis is that those Veterans who incur debt from dependent overpayments are less engaged with VA.gov, hence the need to reach out to them with a notification email. Because these Veterans may be less familiar with navigating VA.gov, we want to pay extra attention to the ease of findability when designing our new verification MVP. More than this, we know how important it is that even Veterans who don't follow our happy path (the CTA in the annual notification email) are able to find information about dependent verification and how to verify independent of the email.
+
+We want to ensure that Veterans can easily find information on dependent verification on VA.gov and also that they're presented with information on dependent verification in relevant spaces even when they don't know to search for it. 
 
 We mapped out all the existing entry points in Mural, and through this exercise, we identified several content and information architecture issues. 
 
@@ -93,6 +95,9 @@ This is a space to make explicit our unknowns regarding the verification MVP and
   - Will we be able to get the date-last-verified variable from VBMS?
     - If not, can we find that information in another algorithm in the Vets API?
     - If not, will we send annual notification emails to all Veterans with dependents on their VA benefits reglardless of date last verified?
+  
+  - What is the segmentation of Veterans responsible for dependent overpayments and Veterans with VA.gov accounts?
+    - Are we missing an opportunity to relieve Veterans of debt by gating our efforts to Veterans with existing VA.gov accounts? 
 
 ## Suggested timeline
 Based on our work with CAIA and their recommendations, we'll create a more solid timeline and strategy in early January, but we wanted to include a tentative timeline here to steer our efforts: 
