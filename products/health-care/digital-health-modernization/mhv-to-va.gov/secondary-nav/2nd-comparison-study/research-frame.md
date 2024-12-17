@@ -4,7 +4,7 @@
 - In recent research, participants mistakenly clicked the MHV header thinking it would bring them back to the nat'l portal (See [adoption study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/adoption-study), 11/24)
 
 ## Research goal and questions
-The purpose of this research is to assess participants' ability to navigate the health portal using one or more redesigned secondary navigation designs.
+The purpose of this research is to assess participants' ability to navigate the health portal using** one or more **redesigned secondary navigation designs.
 
 Specifically, we seek to understand:
 - Are participants able to easily navigate to various tools within the My HealtheVet portal using the proposed secondary navigation designs?
