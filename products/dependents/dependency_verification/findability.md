@@ -81,6 +81,15 @@ This is a space to make explicit our unknowns regarding the verification MVP and
   - Will they engage with the annual notification email at all?
   - If so, will they click through the CTA to get to VA.gov or go to VA.gov via their own search?
 
+ - Are Veterans informed of mandatory verification after they add their first dependent?
+   - If not, is the 0538 request their first notification?
+   - If so, we may be able to add that information to the flow of our online tool
+   - Ajia will reach out to SMEs for more info on this
+  
+  - Will we be able to get the date-last-verified variable from VBMS?
+    - If not, can we find that information in another algorithm in the Vets API?
+    - If not, will we send annual notification emails to all Veterans with dependents on their VA benefits reglardless of date last verified?
+
 ## Suggested timeline
 Based on our work with CAIA and their recommendations, we'll create a more solid timeline and strategy in early January, but we wanted to include a tentative timeline here to steer our efforts: 
 
