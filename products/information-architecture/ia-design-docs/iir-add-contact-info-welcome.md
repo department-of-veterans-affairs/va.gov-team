@@ -23,8 +23,7 @@
 
 
 ## <a name="flows"></a>User/page flows <br>
-*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
-
+An auth user will land on MyVA, and if their profile has not been set up completely (either because it is their first time logging in, or they haven't finished filling out their profile in past visits), they will see an info alert asking them to add contact information. Similarly, if a user goes to their profile, they will see the same info alert there asking them to add contact information. After finishing the subtask, the user will be presented with 3 options on the confirmation page: set up notification settings, go to MyVA, or go to Profile. 
 
 ## <a name="map"></a>Page structure<br>
 ![Screenshot 2024-12-12 at 2 59 10 PM](https://github.com/user-attachments/assets/7f2b780c-e4a2-4ccc-a634-b6712c497f89)
@@ -34,7 +33,7 @@
 
 **1) Add Contact Info subtask**
 - URL: va.gov/my-va/welcome-va-setup/review-contact-info/
-- Breadcrumb: VA.gov home > My VA > [H1 of the first page in the flow]
+- Breadcrumb: VA.gov home > My VA > Add your contact information
 - Notes: In this case, /welcome-va-setup/ is an empty directory. While we don't typically allow empty directories, we allowed it in this case because the team has concrete intentions to build more subtasks under the /welcome-va-setup/ directory. Note that the breadcrumb skips over that empty directory.
 
 
@@ -52,8 +51,13 @@
 ### Navigation pathways and entry point for launch
 See more about [navigation pathways and entry points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/entry-points.md). Teams must launch with at least one navigation pathway.
 
-**1) Add/Modify/Remove Page/menu name**
-TBD - not sure where to see their latest designs. Not sure what page of their figma to look at, and none of their staging users produce the alerts that guide into this experience.
+For this MVP, there are two navigation pathways to this subtask.
+
+**1) Info alert from MyVA**
+![Screenshot 2024-12-16 at 5 00 39 PM](https://github.com/user-attachments/assets/b97e9b60-24b5-4f2e-87ad-f24ef22d94a1)
+
+**2) Info alert from Profile**
+![Screenshot 2024-12-16 at 5 02 19 PM](https://github.com/user-attachments/assets/88a08f94-01bc-4dab-81b6-b38634144b1b)
 
 
 
