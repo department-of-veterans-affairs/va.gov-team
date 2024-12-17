@@ -4,7 +4,7 @@ Designers: Fiorella Geedi, Ajia Wallace, Ruben Sun
 
 ## Background
 
-The Dependents Experience team is working on an initiative to reduce the over $250 million that the VA overpays in dependents payments annually, burdening Veterans with debt. This initiative consists of two parts: 
+The Dependents Experience team is working on an initiative to reduce the over $250 million that the VA overpays in dependents payments annually, burdening Veterans with debt. Currently, Veterans are mandated to verify their dependents only once every eight years. Our initiative would encourage Veterans to review dependents on their benefits annually and provide a path to verify or update on VA.gov. We hypothesize that more frequent review of dependents and easy ways to verify or update will result in more accurate dependents paymetns and reduce overpayments and debt. This initiative consists of two parts: 
 
 - An annual notification email that would encourage Veterans to review and verify or update the dependents on their VA benefits on VA.gov
 - A partial digitization of Mandatory Verification of Dependents [VA Form 21-0538](https://www.va.gov/find-forms/about-form-21-0538/) that will allow Veterans to verify that their dependents are correct on VA.gov
