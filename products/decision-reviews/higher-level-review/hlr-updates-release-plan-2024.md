@@ -6,7 +6,7 @@
 |---|---|---|---|
 |Phase 1: Staging testing |2 days|N/A| November 11-18, 2024  |
 |Phase 2: Canary production testing |3 days|1% of users - 10 claims min.| December 4-6, 2024  |
-|Phase 2A: 25% of users |7 days|25% of users (auth users only)|December 9, 2024|
+|Phase 2A: 25% of users |7 days|25% of users (auth users only)|December 10, 2024|
 |Phase 2B: 50% of users |4 days|50% of users (auth users only)|December 16, 2024|
 |Phase 23: 75% of users |4 days|75% of users (auth users only)|December 20, 2024|
 |Phase 2D: 100% of users| indefinite | 100% users (auth and non-auth) |December 26, 2024|
@@ -113,11 +113,11 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Results
 
-- Number of unique users: [FILL_IN]
+- Number of unique users: 7 submissions
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE] yes | no | N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Was any downstream service affected by the change?: No
+- Types of errors logged: 0 errors/failures in this period
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
 
 ### Stage B: 25% of users
 
@@ -130,11 +130,11 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Results
 
-- Number of unique users: [FILL_IN]
+- Number of unique users: 251 submissions
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE] yes | no | N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Was any downstream service affected by the change?: No
+- Types of errors logged: 422 error "date must be in past" - three 422 errors logged by same user. 
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
 
 ### Stage C: 50% of users
 
