@@ -4,16 +4,20 @@ Designers: Fiorella Geedi, Ajia Wallace, Ruben Sun
 
 ## Background
 
-The Dependents Experience team is working on an initiative to reduce the over $250 million that the VA overpays in dependents payments annually, burdening Veterans with debt. Currently, Veterans are mandated to verify their dependents only once every eight years. Our initiative would encourage Veterans to review dependents on their benefits annually and provide a path to verify or update on VA.gov. We hypothesize that more frequent review of dependents and easy ways to verify or update will result in more accurate dependents paymetns and reduce overpayments and debt. This initiative consists of two parts: 
+The Dependents Experience team is working on an initiative to reduce the over $250 million that the VA overpays in dependents payments annually, burdening Veterans with debt. Currently, Veterans are mandated to verify their dependents only once every eight years. Our initiative would encourage Veterans to review dependents on their benefits annually and provide a path to verify or update on VA.gov. We hypothesize that more frequent review of dependents and easy paths to verify or update will result in more accurate dependent payments and reduce overpayments and debt. 
+
+This initiative consists of two parts: 
 
 - An annual notification email that would encourage Veterans to review and verify or update the dependents on their VA benefits on VA.gov
-- A partial digitization of Mandatory Verification of Dependents [VA Form 21-0538](https://www.va.gov/find-forms/about-form-21-0538/) that will allow Veterans to verify that their dependents are correct on VA.gov
+- A partial digitization of Mandatory Verification of Dependents [VA Form 21-0538](https://www.va.gov/find-forms/about-form-21-0538/) that will allow Veterans to verify that their dependents are correct on VA.gov (or direct them to update their dependents via our existing online tool if needed)
 
 [Learn more about the verification initiative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/dependency_verification)
 
 ## Findability discovery
 
-As a part of our initiative, our team did some discovery work to understand how Veterans might find information about the "verification of dependents."  We mapped out all the existing entry points in Mural, and through this exercise, we identified several content and information architecture issues. 
+As a part of our initiative, our team did some discovery work to understand how Veterans might find information about the "verification of dependents." We know how important it is that even Veterans who don't follow our happy path (the CTA in the annual notification email) are able to find information about dependent verification and how to verify. We want to ensure that Veterans can easily find information on dependent verification on VA.gov and also that they're presented with information on dependent verification in relevant spaces even when they don't know to search for it. 
+
+We mapped out all the existing entry points in Mural, and through this exercise, we identified several content and information architecture issues. 
 
 [Go to map of existing extry points in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689863079145/5b97ba9ea11077f983f3413167f6324f11aa04a8?wid=0-1733935267441)
 
