@@ -132,8 +132,8 @@ expect that the following three scenarios will be covered:*
 | mhvMedicalRecordsDisplayNotes            | Show Notes                                                                       | true          |                       
 | mhvMedicalRecordsDisplaySettingsPage     | Show Settings                                                                    | false         |                       
 | mhvIntegrationMedicalRecordsToPhase1     | Download:<br>-Blue Button<br>-CCD<br>-Self-Entered Data<br>Hides:<br>-Learn More | false         |                       
-| mhvTransitionalMedicalRecordsLandingPage |                                                                                  | true          |                       
-| mhvMedicalRecordsAllowTxtDownloads       | Enables:<br> -Print and Download<br>on domain pages                              | true          |                       
+| mhvTransitionalMedicalRecordsLandingPage | Show `Coming Soon`<br>landing page                                                                                 | true          |                       
+| mhvMedicalRecordsAllowTxtDownloads       | Enables:<br> Print and Download<br>on domain pages                              | true          |                       
 | mhvMedicalRecordsToVaGovRelease          | Enable overalll access to MR                                                     | true          |                       
 | mhvMedicalRecordsRedactFHIRClientLogs    | vets-api - hide PII in logs                                                      | false         |                       
 | mhvMedicalRecordsNewEligibilityCheck     | vets-api - use new eligibility<br>check instead of relying on<br>account type    | false         |                       
