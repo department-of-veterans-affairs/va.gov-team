@@ -36,7 +36,7 @@ Only when using exact phrasing from the title of the form, "Verification of depe
   
 ### Information and structure issues with the current parent page
 
-A review of the parent "static page" for dependend child pages revealed a few potential improvements.
+A review of the parent "static page" for dependent pages revealed a few potential improvements.
 
 [Go to View or change dependents](https://www.va.gov/view-change-dependents/)
 
@@ -44,15 +44,15 @@ A review of the parent "static page" for dependend child pages revealed a few po
 - The link to the online tool to add or remove dependents, 686c/674, was hidden behind a sign-in alert
   - Mikki Northuis has pointed out previously that having sign-in alerts on both the parent page and the introduction page for 686c/674 is not compliant with guidance
 - The content is structured differently than other parent pages for VA.gov forms
-    -  _Does it make sense to match other forms structures, such as showing the different options to apply?_
-- Finding a place for Verification information
-    - _Where does it make sense for this information to live?_
-    - _HMW allow both authenticated and unauthenticated Veterans to find this information?_
+  -  _Does it make sense to align with other forms' structures, such as showing the different options to apply?_
+- We'll need to add information about verification of dependents to this page for the initiative launch
+  - _Where does it make sense for this information to live?_
+  - _HMW allow both authenticated and unauthenticated Veterans to find this information?_
 - Improving navigation into dependents' information pages
-    - Unauthenticated Veterans have to find the "View or change dependents on your VA disability benefits" page using the search functionality
-    - Only authenticated Veterans can find their dependents in the profile menu
-    - _HMW make the Dependents information discoverable on VA.gov?_
-    - _HMW make the Dependents Verification information discoverable on VA.gov?_
+  - Unauthenticated Veterans have to find the "View or change dependents on your VA disability benefits" page using the search functionality or under Disability in the main VA.gov menu
+  - Only authenticated Veterans can find their dependents in the profile menu
+  - _HMW make the Dependents information more discoverable on VA.gov?_
+  - _HMW make the Dependents Verification information discoverable on VA.gov?_
 
 ## Goals for MVP
 
