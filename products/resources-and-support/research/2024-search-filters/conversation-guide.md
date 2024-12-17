@@ -1,31 +1,41 @@
 # Conversation Guide 
 
 ## Moderator logistics
+
 ### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
+- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
 
-- Complete any project-specific setup tasks for this study (List them below)
+### Before all sessions:
+- Review participant list for participant name and screener question responses
+- Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+### 10-15 min before session:
+- Slack Perigean notetaker the link to notes doc in github
+- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
+     - Post p# and "observer instructions" in #feedback-backchannel
+     - @mention team members
+     - Share brief summary of participant demographic info
+     - Mural link for notetaking
+     - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+     - Mute your Slack notifications.
 
+### 5-10 min before session: Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting
 
-### Day of the session
-- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
-Slack for real-time feedback from observers.
-- Mute your Slack notifications.
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-
-
-
-### Starting the session
-
+- Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF
+- Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants
+- Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON
+- Open standalone browser windows with staging link: https://staging.va.gov/discharge-upgrade-instructions/introduction
+- Paste link into Zoom chat (but don't hit enter)
+- Do Not Disturb ON so no notifications
+- Make sure everyone is muted except me and the participant
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
 
+*When the participant is ready, turn on your camera and begin session with the intro*
+
+*CHECK SLACK for real-time feedback and questions from observers*
 
 ## Intro - 5 minutes
 
