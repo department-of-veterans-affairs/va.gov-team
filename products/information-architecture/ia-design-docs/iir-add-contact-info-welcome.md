@@ -54,9 +54,11 @@ See more about [navigation pathways and entry points](https://github.com/departm
 For this MVP, there are two navigation pathways to this subtask.
 
 **1) Info alert from MyVA**
+
 ![Screenshot 2024-12-16 at 5 00 39 PM](https://github.com/user-attachments/assets/b97e9b60-24b5-4f2e-87ad-f24ef22d94a1)
 
 **2) Info alert from Profile**
+
 ![Screenshot 2024-12-16 at 5 02 19 PM](https://github.com/user-attachments/assets/88a08f94-01bc-4dab-81b6-b38634144b1b)
 
 
