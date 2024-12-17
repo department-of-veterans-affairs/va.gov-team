@@ -75,8 +75,21 @@ Beyond the verification MVP, our discovery revealed issues with the findability 
 Our discovery may have revealed issues with information architecture across VA.gov. This is our lowest priority but still important to our team. After the findability of the verification MVP and other dependents experience content, we would love to lend our efforts to potential improvements to information architecture across VA.gov and how the dependents experience fits within VA.gov where possible. 
 
 ## Unknowns
+This is a space to make explicit our unknowns regarding the verification MVP and its findability: 
 
+- How will Veterans interact with the annual notification email
+  - Will they engage with the annual notification email at all?
+  - If so, will they click through the CTA to get to VA.gov or go to VA.gov via their own search?
 
 ## Suggested timeline
+Based on our work with CAIA and their recommendations, we'll create a more solid timeline and strategy in early January, but we wanted to include a tentative timeline here to steer our efforts: 
 
-[description] [link to Mural?]
+- 12/18: Meet with CAIA to present findability discovery findings
+- Early January: Receive recommendations from CAIA
+- Early-mid January: Update designs, prototype, research plan, and other deliverables with recommended path
+- Late January-early February: Recruit for and conduct research
+- Mid February: Synthesis, finalize designs, package for handoff
+
+Here is a link to our former preliminary timeline that we'll update as we further solidify our strategy: 
+
+[Go to preliminary timeline in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1731513183944)
