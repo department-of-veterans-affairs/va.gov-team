@@ -9,7 +9,6 @@
     - Install Python (see https://www.python.org/downloads/)
     - Install the following packages using Pip (see https://www.w3schools.com/python/python_pip.asp)        
         - json
-        - re
         - easygui   
 - Retrieve the locale files from the GitHub Main branch
     - Open the [English locale json file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/check-in/locales/en/translation.json) from the Main GitHub branch
