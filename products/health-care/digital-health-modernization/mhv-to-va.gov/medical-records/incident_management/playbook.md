@@ -118,6 +118,29 @@ expect that the following three scenarios will be covered:*
 -A fix will be loaded to the backlog (JIRA) and prioritized
 -The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
 
+## Feature Flipper analysis December 2024
+<details>
+  <summary>Toggle feature flipper details</summary>   
+  
+| Feature Toggle Name                      | Description                                                                      | Current State | 
+| ---------------------------------------- | -------------------------------------------------------------------------------- | ------------- | 
+| mhvMedicationsDisplayAllergies           | Show Allergies                                                                   | true          |                       
+| mhvMedicalRecordsDisplayVaccines         | Show Vaccines                                                                    | true          |                       
+| mhvMedicalRecordsDisplayVitals           | Show Vitals                                                                      | true          |                       
+| mhvMedicalRecordsDisplayLabsAndTests     | Show Labs/Test                                                                   | true          |                       
+| mhvMedicalRecordsDisplayConditions       | Show Conditions                                                                  | true          |                       
+| mhvMedicalRecordsDisplayNotes            | Show Notes                                                                       | true          |                       
+| mhvMedicalRecordsDisplaySettingsPage     | Show Settings                                                                    | false         |                       
+| mhvIntegrationMedicalRecordsToPhase1     | Download:<br>-Blue Button<br>-CCD<br>-Self-Entered Data<br>Hides:<br>-Learn More | false         |                       
+| mhvTransitionalMedicalRecordsLandingPage |                                                                                  | true          |                       
+| mhvMedicalRecordsAllowTxtDownloads       | Enables:<br> -Print and Download<br>on domain pages                              | true          |                       
+| mhvMedicalRecordsToVaGovRelease          | Enable overalll access to MR                                                     | true          |                       
+| mhvMedicalRecordsRedactFHIRClientLogs    | vets-api - hide PII in logs                                                      | false         |                       
+| mhvMedicalRecordsNewEligibilityCheck     | vets-api - use new eligibility<br>check instead of relying on<br>account type    | false         |                       
+| mhvMedicalRecordsDisplayDomains          | Unused?                                                                          | false         |                       
+| mhvMedicalRecordsDisplaySidenav          | Unused?                                                                          | true          |                       
+| mhvMedicalRecordsPhrRefreshOnLogin       | vets-api - Unused?                                                               | false         |                       
+| mhvMedicalRecordsKillExternalLinks       | Only used for testing<br>Toggled in code                                         | N/A           |                       
 
-
+</details>
 
