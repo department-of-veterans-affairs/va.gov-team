@@ -20,11 +20,11 @@ There are three types that the IA specialist will document in the IA spec:
 For new tools or forms, we may typically launch with a navigation pathway that is a bit more buried in the menus as we monitor analytics and user feedback. This ensures that we don’t roll out a page with a high-level entry point that we have to later scale back if the product doesn’t perform as expected. We usually monitor analytics and user feedback for a minimum of 3 months after launch before adding high-risk entry points (such as from the home page, header/footer, or left nav).
 
 Example pathways for the healthcare application form 10-10ez:
-  Mega menu > Health care > Apply now for healthcare link
-  Mega menu > Health care > Health care hub page > Apply online for 10-10ez link
-  Mega menu > Health care > Health care hub page > How to apply page > [Action link on the ‘How to apply’ page]
-  Home page > Health care hub page > Apply online for 1010ez
-  Home page > Health care hub page > How to apply > [Action link on the ‘How to apply’ page]
+-  Mega menu > Health care > Apply now for healthcare link
+-  Mega menu > Health care > Health care hub page > Apply online for 10-10ez link
+-  Mega menu > Health care > Health care hub page > How to apply page > [Action link on the ‘How to apply’ page]
+-  Home page > Health care hub page > Apply online for 1010ez
+-  Home page > Health care hub page > How to apply > [Action link on the ‘How to apply’ page]
 
 In the example above, we may launch the tool with option 3 (the entry point more buried on the ‘how to apply’ page), but then expand to entry points on the hub page, left nav, or mega menu.
 
