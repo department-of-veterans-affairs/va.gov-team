@@ -35,14 +35,8 @@ We’ve categorized each finding as high, medium, or low priority, based on the 
 * Frequency: The problem is rare, occurring only in edge cases or for a small group of users.  
 * User Impact: Users can complete their tasks with minimal disruption.
 
-| High Priority  | Logging onto staging was time-consuming and frustrating for participants. |
-| :---- | :---- |
-| **High Priority**  | The 526ez is not accessible for Siri-users.  |
-| **High Priority** | Error validation messages caused confusion for AT users as they completed the date ranges. |
-| **Medium Priority** | The "2 out of 5" step indicator in the form stepper created uncertainty for users about their current location and progress in the TE flow. |
-| **Medium Priority** | Location pages- especially Gulf War- were burdensome to review and complete. |
-| **Medium Priority** | Design elements like the “I’m not sure” checkbox, “approximate” date, and additional info were intended to reduce the cognitive burden of recall– but did not work as intended. |
-| **Low Priority** | Nearly half of AT users shared that they often ask for help from others in a real life scenario. |
+<img width="582" alt="Screenshot 2024-12-17 at 10 47 07 AM" src="https://github.com/user-attachments/assets/b4293e62-b5e9-41ba-936d-1839f9d624e2" />
+
 
 ## Detail of Initial Findings
 
