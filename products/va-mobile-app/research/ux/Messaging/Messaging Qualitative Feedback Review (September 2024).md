@@ -1,6 +1,6 @@
 # Process
 
-We reviewed the following sources (not all contained relevant feedback):
+We reviewed the following sources for Veteran feedback on messaging in the Mobile app. Most but not all of the sources contained relevant feedback. Because some of the feedback was quite long we summarized each piece in italics.
 
 *   App store reviews January 2024 to September 2024 (using [VA Mobile Feedback Hub](https://feedback-hub-e659c24714b9.herokuapp.com/))
     
@@ -23,7 +23,7 @@ We reviewed the following sources (not all contained relevant feedback):
 
 # Data 
 
-### App Reviews
+### App Reviews  
 
 
 ***September 2024***
@@ -187,7 +187,7 @@ We reviewed the following sources (not all contained relevant feedback):
     
 *   Observer note: She couldn't find her unread messages easily, said a filter would be useful, (scrolling through 134 pages of messages to find the unread messages). Missed buttons at top of screen in Rx & Messages (looked at bottom).
 
-  *In the Personalized Homepage Research study Veteran participants set up alerts so they get emails notifiying them of a new message. They would like to filter by unread messages, otherwise they have to look through pages and pages of messages to find the unread ones. An Observer noted that the Veterans looked at the bottom of the screen instead of the top for buttons*
+    *In the Personalized Homepage Research study Veteran participants set up alerts so they get emails notifiying them of a new message. They would like to filter by unread messages, otherwise they have to look through pages and pages of messages to find the unread ones. An Observer noted that the Veterans looked at the bottom of the screen instead of the top for buttons*
 
 
 ***Findings from Mobile App Retention study***
@@ -225,20 +225,19 @@ We reviewed the following sources (not all contained relevant feedback):
 
 # Tickets with “user feedback” label
 
-***Explore the possibility of a "funnel" for secure messaging #9444***
+
+***Explore the possibility of a "funnel" for secure messaging #9444***  
 
 During the BVA / Section 508 monthly meeting on August 21, 2024, there was discussion around how to make secure messaging a bit easier to use for screen reader users and for users with cognitive disabilities. During the session, a Veteran brought up a few issues that she has been having with the picker list for providers recently (tickets already created for those) and mentioned that she has over 25 providers to choose from. Other Veterans on the call also mentioned having a large number of providers and how difficult it can be to find who they are looking for in the list. This began a discussion around the possibility of working towards a "funnel system" when creating a new message.
 
-In a perfect world, the first input would be to select your facility, then select the department (since providers could have similar names or a Veteran may not know the name of the person they are looking for), etc. As each selection is made, the names in the provider list would begin to narrow down and only show providers in the selected facility and then the selected department. This could leave a Veteran with a much smaller list to choose from when it comes to their providers.
+In a perfect world, the first input would be to select your facility, then select the department (since providers could have similar names or a Veteran may not know the name of the person they are looking for), etc. As each selection is made, the names in the provider list would begin to narrow down and only show providers in the selected facility and then the selected department. This could leave a Veteran with a much smaller list to choose from when it comes to their providers.  
 
-Would like a “funnel” to choose providers because the list is very long
+*Would like a “funnel” to choose providers because the list is very long*
 
-  
+***Alternate ways to add a provider, etc. in picker lists #9440***
 
-### Alternate ways to add a provider, etc. in picker lists #9440
+In the BVA / Section 508 monthly meeting on August 21, 2024, one of the participants talked about her current experience with selecting a provider, category, etc. when sending a new secure message. This participant has roughly 25 providers with VA and is a screenreader user. To select a provider, she has to activate the picker list, then swipe through the list of providers, tap to select the provider, then swipe all the way back up to "done", the tap that to actually select and input the provider into the field. She asked if it would be possible to have the provider selected when she taps the name initially vs. being forced to navigate all the way back to "done".  
 
-In the BVA / Section 508 monthly meeting on August 21, 2024, one of the participants talked about her current experience with selecting a provider, category, etc. when sending a new secure message. This participant has roughly 25 providers with VA and is a screenreader user. To select a provider, she has to activate the picker list, then swipe through the list of providers, tap to select the provider, then swipe all the way back up to "done", the tap that to actually select and input the provider into the field. She asked if it would be possible to have the provider selected when she taps the name initially vs. being forced to navigate all the way back to "done".
+I do not think the solution is as simple as just removing the "done" link and could be worth exploring other options. Other participants on the call asked if there was a way to narrow the picker list down by letter, some asked if we offered a way to search for a provider name, etc. I would recommend spending some time to see if there is a way that we could make the picker lists (especially for providers) simpler, faster, and easier to use for screenreader users.  
 
-I do not think the solution is as simple as just removing the "done" link and could be worth exploring other options. Other participants on the call asked if there was a way to narrow the picker list down by letter, some asked if we offered a way to search for a provider name, etc. I would recommend spending some time to see if there is a way that we could make the picker lists (especially for providers) simpler, faster, and easier to use for screenreader users.
-
-Make the picker lists simpler, faster, and easier to use for screen reader users (consider not having to select “done”, being able to search for providers, or “narrow the picker list down by letter”)
+*Make the picker lists simpler, faster, and easier to use for screen reader users. Consider not having to select “done”, being able to search for providers, or “narrow the picker list down by letter”*
