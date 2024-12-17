@@ -6,7 +6,8 @@ The [Income Limits](https://github.com/department-of-veterans-affairs/vets-api/t
 This document describes how this data is accessed and imported into the vets-api postgres database.
 
 ## Data Source
-The data that the Income Limits API uses is sourced from the [Veterans Enrollment System database](https://dev.ves.va.gov/esr/). This is an **Oracle** database which holds, among other things, income thresholds, zip codes, states, and county information. We obtained access to this database by working with VES so that we could pull the data into vets-api.
+We access the data from the [Veterans Enrollment System database](https://dev.ves.va.gov/esr/), an **Oracle** database which holds, among other things, income thresholds, zip codes, states, and county information. We obtained access to this database by working with VES so that we could pull the data into vets-api. This allows us to automate this part of the process. 
+- Although the process following the upload of this data is automated, the data collection process is manual. After the President signs a bill to update the thresholds, data is collected and calculated with input from multiple agencies and partners, including VHA, Housing and Urban Development, and Centers for Medicare and Medicaid. It is then uploaded into the the Veterans Enrollment System database,  (Our role begins once the data is available.)
 
 While the data is available to some systems, there are some limitations that caused us to build a decoupled migration process.
 
