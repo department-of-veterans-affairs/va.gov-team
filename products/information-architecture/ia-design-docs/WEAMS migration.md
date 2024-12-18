@@ -61,38 +61,20 @@ All data and flows migrated into the Comparison Tool must be located at the curr
 
 ## <a name="nav"></a>Entry points <br>
 
-### Navigation pathways and entry point for launch
-See more about [navigation pathways and entry points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/entry-points.md). Teams must launch with at least one navigation pathway.
+### Primary entry point for launch
 
 **1) [Education benefit hub page](https://www.va.gov/education/) - Modify**
 - Placement description: Keep the entry point's current placement on the Education hub page. Update the descriptive text to reflect the additional content added into the Comparison Tool.
 - Link label: [TBD by CAIA Content]
 - Link destination: va.gov/education/gi-bill-comparison-tool
-- Implementation Notes: CAIA Content will update the Education Hub page, on launch of the changes to the tool
+- Who will update (IA, content, product team): CAIA Content
+- When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
 ![weams 2](https://github.com/user-attachments/assets/a48c651f-6459-4a82-8c4e-3307e58026cf)
 
 ### Secondary entry points
 _Any additional locations that the page should be navigable from such as the "About a form" page, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc.   These are secondary, and while they are still very important, are not required for launch._
 
-**1. Mega menu - Modifications TBD** - 
-- Placement description: Mega Menu promo spot
-- Link label: Keep current header text and descriptive text, or update to reflect additional data available in the tool. (Changes TBD by CAIA Content)
-- Link destination: va.gov/education/gi-bill-comparison-tool
-- Who will update (IA, content, product team): Education business line. CAIA IA or product team to coordinate.
-- When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
-- Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool. Editing a single location updates the promo spot in both the Mega menu and Right rail.
-![weams 6](https://github.com/user-attachments/assets/49b2ce5f-d9dd-4481-8807-9bb6d1a85385)
-
-**2. Right rail of Education hub page - Modifications TBD** - 
-- Placement description: Right rail promo spot
-- Link label: Keep current header text and descriptive text, or update to reflect additional data available in the tool. (Changes TBD by CAIA Content). The content here must be consistent with the content in the Mega Menu promo spot.
-- Link destination: va.gov/education/gi-bill-comparison-tool
-- Who will update (IA, content, product team): Education business line. CAIA IA or product team to coordinate.
-- When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
-- Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool. Editing a single location updates the promo spot in both the Mega menu and Right rail.
-![weams 7](https://github.com/user-attachments/assets/e8bfa70c-56de-449e-bdd6-57eb7d36f3ac)
-
-**3. Left Nav - Modifications TBD** - 
+**1. Left Nav - Modifications TBD** - 
 - Placement description: Education left nav, 'More' section
 - Link label: Retain the current location of the left nav item. Text updates TBD if content/meaning of the H1 on va.gov/education/gi-bill-comparison-tool changes significantly. (Updates TBD by CAIA Content). 
 - Link destination: va.gov/education/gi-bill-comparison-tool
@@ -101,21 +83,14 @@ _Any additional locations that the page should be navigable from such as the "Ab
 - Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool
 ![weams 8](https://github.com/user-attachments/assets/b7f236d3-96e8-4465-b0e8-ee7957a5986d)
 
-  
-### Crosslinks
-CAIA Content will identify all **existing crosslinks** to the Comparison Tool and will modify the links to direct visitors to the new location the Landing page or the School search workflow, whichever is the best match.
-
-CAIA Content will **update current out-links to WEAMS tool, to point to Comparison Tool**
-- On the [Licensing & Certification benefit info page](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/licensing-and-certification-tests/), update to navigate to the Licensing & Certification search flow in the tool. And any needed updates to the "Tips for using the tool" section that follows.
-![weams 10](https://github.com/user-attachments/assets/4fbdada3-2527-409f-9739-147b3c439e32)
-
-- On the [National Tests benefit info page](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/national-tests/), update to navigate to the National Tests page in the tool.
-![weams 9](https://github.com/user-attachments/assets/c0c904e1-c56c-4277-b182-6d9d7aa96d92)
 
 ## <a name="launchstuff"></a>Launch coordination activities <br>
 
 ### Redirects
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. Redirects listed are the responsibility of the product team, please submit a [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=redirect-request.md) at least 2 weeks in advance, so that CAIA IA can verify that the redirects are successful on launch.*  
+
+- Who implements the redirect: EDM team
+- When does the redirect go live: At launch
 
 Current URL | Redirect to | Notes
 --- | --- | ---
@@ -125,8 +100,8 @@ Current URL | Redirect to | Notes
 ### Best bets
 *Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov.*
 
-**1. GI Bill School Comparison Tool - Modify best bet** - 
-- CAIA IA will **update** the current Best Bet, and add description and/or keywords that highlight that National Tests and Licensing & Certification data is now available in the Comparison Tool.
+**1. GI Bill School Comparison Tool - Modify best bet**  
+CAIA IA will update the current Best Bet, and add description and/or keywords that highlight that National Tests and Licensing & Certification data is now available in the Comparison Tool.
 
 
 <hr>
