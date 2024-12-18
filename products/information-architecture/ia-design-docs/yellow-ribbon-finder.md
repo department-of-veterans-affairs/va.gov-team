@@ -34,7 +34,9 @@ On moving all data from the 'Yellow Ribbon school finder' tool into the 'GI Bill
 - Placement description: In the 'GI BIll school comparison' tool, select the 'Offers Yellow Ribbon program' checkbox to view Yellow Ribbon data in search results (final components and labels TBD by team).
 - Link label: TBD by team (depending whether the final design keeps the current checkbox and label, or makes updates)
 - Link destination: program-level search results, url will vary by search inputs.
-- Entry Point Notes: This is not an entry point to *only* Yellow Ribbon data, it is the new entry point to *access the data formerly contained in* the 'Find a Yellow Ribbon school' tool. Since the page for the Yellow Ribbon tool is going away. 
+- Entry Point Notes: This is not an entry point to *only* Yellow Ribbon data, it is the new entry point to *access the data formerly contained in* the 'Find a Yellow Ribbon school' tool. Since the page for the Yellow Ribbon tool is going away.
+- Who will update (IA, content, product team): EDM team
+- When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
 - Comparison Tool Note: The starting step of the Comparison Tool search flow should include content indicating that the Yellow Ribbon info is available there, now.
 ![YR 6](https://github.com/user-attachments/assets/56d590ce-097d-43c9-8b56-b7622950be65)
 
@@ -48,10 +50,10 @@ On moving all data from the 'Yellow Ribbon school finder' tool into the 'GI Bill
 ![YR 9](https://github.com/user-attachments/assets/b1e0d530-0052-496e-829b-a0cbb75d1e3e)
 
 **2. Education left nav** - Remove
-- Placement description: Education left nav 'More resources' section
+- Placement description: Remove the 'Find a yellow ribbon school' from the Education left nav 'More resources' section
 - Link label: Find a Yellow Ribbon school
-- Notes: Remove tool from the left nav.
-- Implementation Notes: CAIA IA to remove
+- - Who will update (IA, content, product team): CAIA IA
+- When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
 <img width="523" alt="yr 1" src="https://github.com/user-attachments/assets/38b9530d-b38d-4917-9ac4-7b99e6f1463c">
 
 
@@ -60,13 +62,14 @@ CAIA content will identify all places that link to the Yellow Ribbon tool and wi
 
  
 ### <a name="bestbets"></a>Best Bets<br>
-*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find content and features that are not easily found or not ranking well in search. Existing best bets must be removed or updated when links/URLs change.*
-- Imelementation Notes: CAIA IA will remove the Yellow Ribbon tool's Best Bet, and add keywords/discoverability for the Yellow Ribbon data to the Comparison Tool best bet.
+*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. *
+- CAIA IA will remove the Yellow Ribbon tool's Best Bet, and add keywords/discoverability for the Yellow Ribbon data to the Comparison Tool best bet.
 
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=sjcwalker%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
-
+- Who implements the redirect: EDM team
+- When does the redirect go live: At launch
 
 Current URL | Redirect to | Notes
 --- | --- | ---
