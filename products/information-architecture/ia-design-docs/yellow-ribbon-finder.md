@@ -66,7 +66,3 @@ https://www.va.gov/education/yellow-ribbon-participating-schools/ | https://www.
  
 
 
-## <a name="stagedrollout"></a>Staged Rollout<br>
-*Is the team planning a staged rollout?*
-
-No
