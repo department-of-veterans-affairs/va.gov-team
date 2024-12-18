@@ -15,6 +15,7 @@ Christina Gednalske christina.gednalske@adhocteam.us
 - [Where terms appeared most in categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md#where-terms-appeared-most-in-categories)
 - [Category importance ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md#category-importance-ratings)
 - [Missing items](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md#missing-items)
+- [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md#who-we-talked-to)
 
 ## Most to least mentioned categories
 
@@ -536,6 +537,24 @@ Because this aligns with other findings, continue to follow recommendations that
 - Determine if any of the submitted items could be added to the Appointment details page.
 - Refer back to previous research and Veteran feedback to review what items have been mentioned as missing in the past and if they align with these findings. 
 
+------
+
+## Who we talked to
+
+[VA Recruitment Equality Checker (PDF download)](https://github.com/user-attachments/files/18189571/VA.Recruitment.Equality.Checker.-.Appointment.Details.Page.Card.Sort.pdf)
 
 
+In order to split our study in two, we placed participants in cohorts based on age. Half of each cohort complete the activity for Upcoming appointments and half completed Past appointments. We also had secondary criteria that aimed to recruit for underserved Veteran populations, and Perigean was able to meet some of the secondary criteria.
 
+**48 participants total (24 Upcoming, 27 Past)**
+- 15 women
+- 18 participants with a cognitive disability
+- 20 participants who are not Caucasian
+- 14 participants who don’t have a degree
+- 20 participants who live in a rural or remote area
+
+In any subsequent studies for the Appointments detail page, we’ll aim to include 
+the populations we missed: 
+- Immigrant origin
+- Expat (living abroad)
+- LGBTQ+
