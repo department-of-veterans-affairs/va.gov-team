@@ -11,7 +11,7 @@ Christina Gednalske christina.gednalske@adhocteam.us
 
 **Jump to:**
 - Most to least mentioned categories
-- [Breakdown of category organization](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md#breakdown-of-category-organization)
+- [Breakdown of category organization]([https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md#breakdown-of-category-organization)
 - Where terms appeared most in categories
 - Category importance ratings
 - Missing items
