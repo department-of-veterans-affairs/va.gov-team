@@ -36,7 +36,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissu
 
 **Direct Scheduling OH**
 - ❗ 🟩 [Add initial screen and placeholder data for Select a Provider step #98224](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98224)
-- ✔️ [Add patient relationship endpoint service and mocks #89641](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89641)
+- 🚧 Rolling Over [Add patient relationship endpoint service and mocks #89641](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89641) - dev done, but validation will roll over
 - 🟩 [Add location and typeOfCare arguments and functionality to patient relationships #98864](https://github.com/orgs/department-of-veterans-affairs/projects/1554/views/6?pane=issue&itemId=90556977&issue=department-of-veterans-affairs%7Cva.gov-team%7C98864)
 - 🟩 [Update alert on choose a VA location page - Part 7 #98190](98190)
 - 🟩 [Update alert on choose a VA location page - Part 8 #98191](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98191)
