@@ -21,9 +21,7 @@ Christina Gednalske christina.gednalske@adhocteam.us
 
 ### Finding #1: Certain categories emerged as more common than others, with appointment information, scheduling, canceling/rescheduling, and post-appointment information and actions included most often. 
 
-The top 5 most mentioned categories for past appointments were 20 Appointment (info), 14 Post appointment information and actions, 12.5 Travel reimbursement, 9.5 Payments / financial information, 4 Scheduling/setting up an appointment
-
-#### Upcoming appointments
+#### Most-mentioned categories for Upcoming appointments
 1. Appointment info (13)
 2. Scheduling/making an appointment (13)
 3. Canceling / rescheduling (8)
@@ -36,7 +34,7 @@ The top 5 most mentioned categories for past appointments were 20 Appointment (i
 10. Location/reason (3)
 11. Clinic information (3)
 
-#### Past appointments
+#### Most-mentioned categories for Past appointments
 1. Appointment info (20)
 2. Post appointment information and actions (14)
 3. Travel reimbursement (12.5)
@@ -56,10 +54,13 @@ For example, prioritize the categories such as Appointment info and Scheduling, 
 ### Finding #2: Participants created categories that separated tasks/statuses from static Appointment information. For upcoming appointments, 8 participants created a dedicated section focused mostly on pre-appointment info and actions. For past appointments, 14 participants created a category for post-appointment info and actions. 
 
 #### Upcoming: 
-- 8 participants created a Before appointment category with pre-appointment tasks.
+- 8 participants created a dedicated “Before” appointment category for pre-appointment tasks and statuses, with minimal static information compared to other categories.
+<img width="570" alt="Screenshot 2024-12-18 at 3 55 17 PM" src="https://github.com/user-attachments/assets/5b3757da-51a0-4673-bdb4-10afbbc1141b" />
 
 #### Past: 
-- Participants created three different sections for actions that come after the appointment. Most popular was Post-appointment information and actions, often overlapping with travel reimbursement and payments/financial information.
+- Participants created three different sections for post-appointment related tasks and statuses. Most popular was Post-appointment information and actions (14), often overlapping with travel reimbursement (13) and payments/financial information (10).
+<img width="954" alt="Screenshot 2024-12-18 at 3 55 45 PM" src="https://github.com/user-attachments/assets/4f093303-e686-4be0-9e36-77337762ca0f" />
+
 
 #### Recommendations
 - Continue to use a separate section for travel reimbursement, and consider combining travel reimbursement with other payment-related items 
@@ -105,12 +106,23 @@ and/or consider including these actions within a post-appointment category (post
 ### Finding #3: For both upcoming and past, participants created clearly defined Appointments sections.
 
 #### Upcoming: 
-- **Appointments / Scheduling Findings:** Out of 24 participants, most participants created either an Appointments / appointment details section (13) or a Scheduling / making an appointment section (13). With the exception of Scheduling actions and statuses, both included similar information types. For both Upcoming and Past card sorts, participants identified an Appointment (info) category with similar cards (and rated this category as #1 or #2 importance).
+**Appointments / Scheduling Findings:** 
+- Out of 24 participants, most participants created either an Appointments / appointment details section (13) or a Scheduling / making an appointment section (13). With the exception of Scheduling actions and statuses, both included similar information types
+- As we’ll see in category ratings, participants also rated these categories as #1 or #2 importance.
+- This finding also aligns with earlier research around the information Veterans expect to find in an appointment, where many of the same items were mentioned (2022-01-mhv-vaos-appts-list-discovery). 
+
+<img width="600" alt="Screenshot 2024-12-18 at 3 56 56 PM" src="https://github.com/user-attachments/assets/aefef1dd-98c0-434f-9eaa-26279b7afe3d" />
+
 
 #### Past: 
-- **Appointment info Finding:** Out of the 20 participants who had an Appointment info category, most included the same 8 types of information: Time of appointment (18 participants), Provider name (18), Type of care (17), Location of appointment (17), Print appointment information (17), Modality (16), Clinic phone number (16), Your reason for wanting this appointment (16).
+**Appointment info Finding:** 
+- Out of the 20 participants who had an Appointment info category, most included the same 8 types of information: Time of appointment (18 participants), Provider name (18), Type of care (17), Location of appointment (17), Print appointment information (17), Modality (16), Clinic phone number (16), Your reason for wanting this appointment (16).
   - Some participants also included: Review your after visit summary (6), You completed your video appointment (5), Review or complete a clinical order (4).
   - For both Upcoming and Past card sorts, participants identified an Appointment (info) category with similar cards (and rated this category as #1 or #2 importance).
+  
+ <img width="363" alt="Screenshot 2024-12-18 at 4 01 07 PM" src="https://github.com/user-attachments/assets/b29682c2-0bc7-4ed8-8143-fb2600292542" />
+
+
 
 #### Recommendations
 - For both past and upcoming, create a dedicated Appointments section/area that includes appointment information in a clearly called-out component or section (such as the appointment detail card) that is separate from other information on the page.
@@ -122,8 +134,10 @@ and/or consider including these actions within a post-appointment category (post
     - Location,
     - type of care,
     - clinic phone number
-- Either include the schedule action link as part of the appointments section or separate out on its own.
-- Either include the print button as part of that section or pull out of that section on it's own - because mentioned on many pages.
+- Separate the “schedule now” action link out on its own - as it was the only task included amongst otherwise static information
+- Because it is mentioned in many categories, pull the print button out of the appointment section so it’s on its own on the page.
+  - OR include the print button as part of the appointments section.
+
 
 <img width="284" alt="Screenshot 2024-12-18 at 3 11 19 PM" src="https://github.com/user-attachments/assets/c78f0697-0a87-448f-badf-ba601ad705f5" />
 
@@ -132,6 +146,9 @@ and/or consider including these actions within a post-appointment category (post
 
 #### Upcoming:
 - Canceling/rescheduling: 8 participants created Canceling/rescheduling groups in which they put Cancel and schedule actions and information together, often along with appointment change information
+
+<img width="380" alt="Screenshot 2024-12-18 at 4 01 58 PM" src="https://github.com/user-attachments/assets/76679750-d490-442a-8ff9-f75bd78a85fa" />
+
 
 #### Recommendations 
 - Continue to use a dedicated cancel/reschedule/make changes section
@@ -147,10 +164,10 @@ and/or consider including these actions within a post-appointment category (post
 - Clinic information: 3 participants included Clinic information categories.
 
 #### Past
-- 3 participants included a category for clinic information. However, this information was mentioned more often elsewhere.
-- 2 participants included a category for critical information. However, this information was mentioned more often elsewhere.
-- 2 participants included a category for provider details. However, this information was mentioned more often elsewhere.
-
+- 3 participants included a category for clinic information. 
+- 2 participants included a category for critical information. 
+- 2 participants included a category for provider details.
+However, the information included in these categories was mentioned more often elsewhere.
 
 ### Recommendations
 
@@ -512,7 +529,8 @@ and/or consider including these actions within a post-appointment category (post
 
 ### Finding #6: 5 out of 24 participants numbered their categories to identify which they considered most or least important for upcoming appointments, while 6 out of 27 participants numbered their categories for past appointments. 
 
-- However, the findings from this small participant pool align with the trend that the appointment information section is most important to Veterans.
+- As a result, this information is inconclusive and more research is needed. However, the findings from this small participant pool align with the trend we observed in category naming that indicated the appointment information section is most important to Veterans.
+
 
 #### Upcoming:
 - Veterans listed Appointment information and scheduling (preliminary steps) as most important
@@ -530,8 +548,17 @@ Because this aligns with other findings, continue to follow recommendations that
 
 ### Finding #7: 3 participants said there was information missing from the Upcoming appointments cards, and 6 participants thought there was information missing from the Past appointments cards.
 
-- For upcoming appointments, 3 participants mentioned items they expected to find in the list that were missing: 1) is parking available 2) Taking medication/over the counter medication/taking additional supplements 3) ‘Your appointment was modified’...I didn’t not see in the list but that would be useful
-- For past appointments, 6 participants mentioned items they expected to find in the list that were missing: 1) a list of prior visit results 2) being able to make a clinical appt for a specialty clinic, instead of calling, 3) information on care/aftercare/follow up 4) referrals for specialty care, follow up appointments (or # in series if appt was a follow up) 5) prescriptions 6) date of appointment
+- For upcoming appointments, 3 participants mentioned items they expected to find in the list that were missing: 
+  - Is parking available
+  - Taking medication/over the counter medication/taking additional supplements
+  - ‘Your appointment was modified’...I didn’t not see in the list but that would be useful
+- For past appointments, 6 participants mentioned items they expected to find in the list that were missing:
+  - A list of prior visit results
+  - Being able to make a clinical appt for a specialty clinic, instead of calling,
+  - Information on care/aftercare/follow up
+  - Referrals for specialty care, follow up appointments (or # in series if the appointment was a follow up)
+  - Prescriptions
+  - Date of appointment
 
 ### Recommendations:
 - Determine if any of the submitted items could be added to the Appointment details page.
