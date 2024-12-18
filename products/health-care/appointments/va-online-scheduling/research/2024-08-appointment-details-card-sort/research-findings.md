@@ -54,6 +54,8 @@ and/or consider including these actions within a post-appointment category (post
   - You filed your travel reimbursement claim for this appointment,
   - Review the travel reimbursement claim you filed
   - Pay your copay
+<img width="265" alt="Screenshot 2024-12-18 at 3 09 13 PM" src="https://github.com/user-attachments/assets/e586dcc8-439b-4131-afa2-f41e5c6c29f3" />
+
 - Whether as a separate section or within notifications, consider creating a different section/treatment of these tasks and info that apply to post and pre-appointment tasks and categories. Explore if a notifications pattern can help surface these noticeably without taking over the page
   - Before appointment/ pre-appointment actions and info:
     - Answer health-related questions
@@ -70,6 +72,10 @@ and/or consider including these actions within a post-appointment category (post
     - You filed your travel reimbursement claim for this appointment
     - Review the travel reimbursement claim you filed
     - Pay your copay
+   
+<img width="259" alt="Screenshot 2024-12-18 at 3 09 32 PM" src="https://github.com/user-attachments/assets/3cfc07cc-cdce-4bb2-919d-996d5772e812" />
+
+
 - Incorporate information like checking in and confirming information into a larger category(ies) for pre/post-appointments actions and/or notifications:
   - Check in now
   - You checked in
@@ -77,6 +83,9 @@ and/or consider including these actions within a post-appointment category (post
   - You reviewed your address and contact information
   - You answered health-related questions
   - Answer health-related questions
+ 
+<img width="253" alt="Screenshot 2024-12-18 at 3 10 33 PM" src="https://github.com/user-attachments/assets/db606310-62e0-4bf1-8ea5-34899a86432f" />
+
 
 ### Finding #3: For both upcoming and past, participants created clearly defined Appointments sections.
 
@@ -101,6 +110,9 @@ and/or consider including these actions within a post-appointment category (post
 - Either include the schedule action link as part of the appointments section or separate out on its own.
 - Either include the print button as part of that section or pull out of that section on it's own - because mentioned on many pages.
 
+<img width="284" alt="Screenshot 2024-12-18 at 3 11 19 PM" src="https://github.com/user-attachments/assets/c78f0697-0a87-448f-badf-ba601ad705f5" />
+
+
 ### Finding #4: 8 Participants created canceling/rescheduling categories, and canceling/rescheduling tasks were often separate from other tasks/information
 
 #### Upcoming:
@@ -108,6 +120,9 @@ and/or consider including these actions within a post-appointment category (post
 
 #### Recommendations 
 - Continue to use a dedicated cancel/reschedule/make changes section
+
+<img width="283" alt="Screenshot 2024-12-18 at 3 11 47 PM" src="https://github.com/user-attachments/assets/f8278783-172f-4af3-b63b-3407b4f5f966" />
+
 
 ### Finding #5: A small number of participants created categories such as provider details, clinic information, location/reason, modify / manage appointment
 
@@ -128,6 +143,9 @@ and/or consider including these actions within a post-appointment category (post
   - Modify / manage appointment: Disperse this information throughout other categories where it was mentioned by participants more often.
   - Location/reason and Clinic information: Keep the information from these categories within Appointments info - or as a subsection of appointments info
   - Clinic information, Critical information, Provider details:  keep the information from these categories within Appointments info - or as a subsection of appointments info
+ 
+<img width="283" alt="Screenshot 2024-12-18 at 3 12 16 PM" src="https://github.com/user-attachments/assets/cebb844e-d0de-468d-abb0-6ed086f0ae11" />
+
 
 -------
 
