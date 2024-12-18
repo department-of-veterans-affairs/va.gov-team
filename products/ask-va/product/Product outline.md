@@ -1,4 +1,4 @@
-# Ask VA Phase 1 - Product Outline
+# Product outline for Ask VA
 Last updated by @beckyphung on December 18, 2024
 
 **Jump to:**
