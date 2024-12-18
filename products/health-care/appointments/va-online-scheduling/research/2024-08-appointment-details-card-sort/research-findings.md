@@ -6,8 +6,15 @@ Christina Gednalske christina.gednalske@adhocteam.us
 
 [Slide deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-presentation.md)
 
-
 [Review Mural synthesis board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727209108365/e76c7c8623cb3a1339cb918a1ce3319baedd7339)
+
+
+**Jump to:**
+- Most to least mentioned categories
+- [Breakdown of category organization](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md#breakdown-of-category-organization)
+- Where terms appeared most in categories
+- Category importance ratings
+- Missing items
 
 ## Most to least mentioned categories
 
