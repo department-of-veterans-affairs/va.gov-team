@@ -1,5 +1,5 @@
 # Ask VA Phase 1 - Product Outline
-Last updated by @beckyphung on November 26, 2024
+Last updated by @beckyphung on December 18, 2024
 
 **Jump to:**
 - [Overview](#overview)
@@ -12,7 +12,7 @@ Last updated by @beckyphung on November 26, 2024
 - [Team and Stakeholders](#team-and-stakeholders)
 
 ## Overview
-Ask VA (AVA) on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystems to quickly and accurately answer submitters' questions. Submitters should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want AVA to feel part of a cohesive and submitter-centered approach to support.
+Ask VA (AVA) is a digital support channel for Veterans, family members and other submitters. You can use Ask VA to ask a question about education benefits, disability compensation, health care and many other topics. Ask VA should only be used for non-urgent needs.
 
 ## Problem Statement
 Submitter should easily and intuitively be able to ask a question through Ask VA on VA.gov.
