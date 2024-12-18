@@ -15,7 +15,7 @@
 **On this page:**
 - [Page structure](#map)
 - [Entry points](#nav)
-- [Redirects](#redirects)
+- [Launch coordination activities](#launchstuff)
 
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of changes to the overall IA of VA.gov (i.e. a site map).* 
@@ -48,12 +48,8 @@ On moving all data from the 'Yellow Ribbon school finder' tool into the 'GI Bill
 - When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
 <img width="523" alt="yr 1" src="https://github.com/user-attachments/assets/38b9530d-b38d-4917-9ac4-7b99e6f1463c">
 
+## <a name="launchstuff"></a>Launch coordination activities <br>
  
-### <a name="bestbets"></a>Best Bets<br>
-*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov.*
-- CAIA IA will remove the Yellow Ribbon tool's Best Bet, and add keywords/discoverability for the Yellow Ribbon data to the Comparison Tool best bet.
-
-
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=sjcwalker%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
 - Who implements the redirect: EDM team
@@ -64,4 +60,12 @@ Current URL | Redirect to | Notes
 https://www.va.gov/education/yellow-ribbon-participating-schools/ | https://www.va.gov/education/gi-bill-comparison-tool | 
  
 
+### Best Bets
+*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov.*
+
+**1. Yellow Ribbon tool - Remove best bet** 
+CAIA IA will remove the Yellow Ribbon tool's Best Bet.
+
+**2. GI Bill School Comparison Tool - Modify best bet**  
+CAIA IA will add keywords/discoverability for the Yellow Ribbon data to the Comparison Tool best bet.
 
