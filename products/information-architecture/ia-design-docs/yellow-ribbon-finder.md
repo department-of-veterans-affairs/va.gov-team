@@ -42,27 +42,16 @@ On moving all data from the 'Yellow Ribbon school finder' tool into the 'GI Bill
 
 ### Entry points to REMOVE
 
-**1. Education hub page** - Remove
-- Placement description: Education hub page 'More information and resources' section
-- Link label: Find a Yellow Ribbon school
-- Notes: Remove both the header link and the explanation text for the Yellow Ribbon tool from the section. Consider updating the description of the Comparison Tool to include a mention that the Yellow Ribbon data is now available here, since this is a change to a somewhat popular program.
-- Implementation Notes: CAIA Content to remove
-![YR 9](https://github.com/user-attachments/assets/b1e0d530-0052-496e-829b-a0cbb75d1e3e)
-
-**2. Education left nav** - Remove
+**1. Education left nav** - Remove
 - Placement description: Remove the 'Find a yellow ribbon school' from the Education left nav 'More resources' section
 - Link label: Find a Yellow Ribbon school
-- - Who will update (IA, content, product team): CAIA IA
+- Who will update (IA, content, product team): CAIA IA
 - When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
 <img width="523" alt="yr 1" src="https://github.com/user-attachments/assets/38b9530d-b38d-4917-9ac4-7b99e6f1463c">
 
-
-### Crosslinks
-CAIA content will identify all places that link to the Yellow Ribbon tool and will modify the link to direct visitors to the new location of the information or remove the link if its no longer applicable in that context.
-
  
 ### <a name="bestbets"></a>Best Bets<br>
-*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. *
+*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov.*
 - CAIA IA will remove the Yellow Ribbon tool's Best Bet, and add keywords/discoverability for the Yellow Ribbon data to the Comparison Tool best bet.
 
 
