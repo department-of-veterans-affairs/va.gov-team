@@ -107,7 +107,7 @@ Veterans highlighted the importance of the VSC being accepted at VA clinics and 
 
 ---
 
-## Contextual inquiry: Current web version
+## Contextual Inquiry: Current Web Version
 
 ### Paper cut-out cards lack professionalism and usability
 
@@ -129,7 +129,7 @@ Veterans struggled to locate the card on the web version, citing its placement u
 
 ---
 
-## Contextual inquiry: Current app version
+## Contextual Inquiry: Current App Version
 
 ### Full page design undermines credibility
 
@@ -147,7 +147,7 @@ Veterans noted the app lacked explicit text identifying the cardholder as a Vete
 
 ---
 
-## Usability testing: Redesigned both v**ersions**
+## Usability Testing: Redesigned Both Versions
 
 ### **Many Veterans prefer full service dates to enhance credibility**
 
@@ -209,7 +209,7 @@ The redesigned card included FAQs to address common questions and provide instru
 
 ---
 
-## Usability testing: Redesigned Web **Version**
+## Usability Testing: Redesigned Web Version
 
 ### Improved access through redesigned profile and name tag
 
@@ -219,7 +219,7 @@ Veterans appreciated the redesigned profile’s clear categorization and inclusi
 
 ---
 
-## Usability testing: Redesigned App **Version**
+## Usability Testing: Redesigned App Version
 
 ### Streamlined, scroll-free layout improves usability
 
@@ -340,5 +340,3 @@ Gender:
 Devices used during study:
 
 - Mobile Phones: 9
-
-Verification Methods for Veteran Discounts
