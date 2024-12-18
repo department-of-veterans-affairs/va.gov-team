@@ -1,4 +1,4 @@
-# Dependent verification findability
+# Dependent verification: Findability assessment
 
 Designers: Fiorella Geedi, Ajia Wallace, Ruben Sun
 
