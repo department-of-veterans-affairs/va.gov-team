@@ -185,7 +185,7 @@ However, the information included in these categories was mentioned more often e
 
 <details>
 
-<summary>Upcoming appointments</summary>
+<summary>Upcoming appointments (expand to review)</summary>
 
 <br>
 
@@ -407,7 +407,7 @@ However, the information included in these categories was mentioned more often e
 
 <details>
 
-<summary>Past appointments</summary>
+<summary>Past appointments (expand to review)</summary>
 
 <br>
 
