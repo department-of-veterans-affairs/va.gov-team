@@ -93,8 +93,9 @@ Any improvements to findability should be first focused on the dependent verific
 
 #### Must haves
 - A way for authenticated and unauthenticated Veterans to easily find information about verification of dependents
-- A way for both authenticated unauthenticated Veterans to easily find where they can view the dependents currently on their benefits
+- A way for both authenticated and unauthenticated Veterans to easily find where they can view the dependents currently on their benefits
 - Links to the new verification tool from the Mandatory Verification of Dependents About form page and other appropriate places
+- A way to surface Verification information through search results
 
 ### Dependents experience
 Beyond the verification MVP, our discovery revealed issues with the findability of content related to the dependents experience as a whole. After addressing issues related to the verification MVP, our next priotity would be to address potential improvements to the findability and structure of dependents-related content, potentially including but not limited to: 
