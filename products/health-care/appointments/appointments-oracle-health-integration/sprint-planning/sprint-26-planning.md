@@ -2,7 +2,12 @@
 Sprint 25: 12/16/24 - 12/30/24
 
 ## 📅 Upcoming Dates  & 🏖️ PTO
-
+  *Brad- 12/18-1/1/25
+  *Devin- 12/19-12/26
+  *Clayton- 12/23-1/3/25
+  *Drew- 12/23-1/3/25
+  *Brittany- 12/24, 12/31
+  *Kenzie- 12/24-1/3/25
 
 ## 📣 Announcements
 * Lauren Alexanderson gave a prod date of December 2024
