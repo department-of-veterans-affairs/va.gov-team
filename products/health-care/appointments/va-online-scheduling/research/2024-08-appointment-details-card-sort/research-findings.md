@@ -573,7 +573,11 @@ Because this aligns with other findings, continue to follow recommendations that
 
 In order to split our study in two, we placed participants in cohorts based on age. Half of each cohort complete the activity for Upcoming appointments and half completed Past appointments. We also had secondary criteria that aimed to recruit for underserved Veteran populations, and Perigean was able to meet some of the secondary criteria.
 
-**48 participants total (24 participants completed the activity for Upcoming appointments, 27 participants completed the activity for Past appointments)**
+**48 participants total** 
+- 24 participants completed the activity for Upcoming appointments 
+- 27 participants completed the activity for Past appointments
+
+**Breakdown of participants**
 - 15 women
 - 18 participants with a cognitive disability
 - 20 participants who are not Caucasian
