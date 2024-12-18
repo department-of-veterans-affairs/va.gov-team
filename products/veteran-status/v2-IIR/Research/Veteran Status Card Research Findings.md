@@ -266,7 +266,7 @@ Veterans recommended including email and chat options for support, along with cl
 # **Next Steps**
 
 **Review research findings with PM and PO**
-Share and discuss the research findings with the PM and PO) to ensure alignment on the key insights and their implications for the project.
+Share and discuss the research findings with the PM and PO to ensure alignment on key insights and their implications for the project.
 
 **Prioritize changes for the Midpoint Review**
 Identify which changes should be implemented for the Midpoint Review, providing clear reasoning for each selection. Prioritization will focus on addressing critical usability and functionality concerns that enhance the Veteran Status Card's credibility, accessibility, and usability in the short term.
