@@ -16,7 +16,6 @@
 - [Page structure](#map)
 - [Entry points](#nav)
 - [Redirects](#redirects)
-- [Staged Rollout](#stagedrollout)
 
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of changes to the overall IA of VA.gov (i.e. a site map).* 
