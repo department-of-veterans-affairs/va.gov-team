@@ -131,14 +131,346 @@ and/or consider including these actions within a post-appointment category (post
 
 -------
 
-
-------
-
 ## Where terms appeared most in categories
 
 [Review the Upcoming appointment terms section in the synthesis Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727209108365/e76c7c8623cb3a1339cb918a1ce3319baedd7339?wid=0-1730485693262)
 
 [Review the Past appointment terms section in the synthesis Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727209108365/e76c7c8623cb3a1339cb918a1ce3319baedd7339?wid=1-1731100843243)
+
+### Upcoming appointments
+
+<details>
+
+**You answered health-related questions**
+5 - Before appointment
+4 - Your information / health history
+3 - Scheduling / making an appointment
+2 - Checking in
+2 - Confirm information / review contact info
+2 - During appointment / day of appointment
+1 - Location / reason
+1 - Notifications
+
+**Schedule a new appointment**
+11 - Scheduling / making an appointment
+3 - Appointment info
+2 - Before appointment
+2 - Modify / manage appointment
+1 - Checking in
+1 - Canceling / rescheduling
+
+**Answer health-related questions**
+5 - Before appointment
+4 - Your information / health history
+3 - Scheduling / making an appointment
+2 - Checking in
+2 - During appointment / day of appointment
+2 - Confirm information / review contact info
+1 - Location / reason
+
+**Join your video appointment**
+6 - Appointment (info)
+4 - During appointment / day of appointment
+3 - Before appointment
+3 - Checking in
+1 - Scheduling / making an appointment
+1 - Confirm information / review contact info
+1 - Location / reason
+
+**What to bring to your appointment**
+6 - Appointment (info)
+5 - Scheduling / making an appointment
+3 - Before appointment
+1 - Checking in
+1 - Confirm information / review contact info
+1 - Your information / health history
+1 - Location / reason
+
+**Time of appointment**
+10 - Appointment (info)
+6 - Scheduling / making an appointment
+1 - Before appointment
+1 - Checking in
+1 - Modify / manage appointment
+1 - Clinic information
+
+**You reviewed your address and contact information**
+4 - Confirm information / review contact info
+4 - Your information / health history
+3 - Scheduling / making an appointment
+3 - Before appointment
+2 - During appointment / day of appointment
+2 - Notifications
+1 - Checking in
+1 - Location / reason
+
+**Add to calendar**
+9 - Scheduling / making an appointment
+5 - Appointment (info)
+2 - Before appointment
+2 - Modify / manage appointment
+1 - Checking in
+1 - Confirm information / review contact info
+
+**Provider name (Example: Dr. Johnathon Smith)**
+7 - Appointment (info)
+4 - Scheduling / making an appointment
+3 - Clinic information
+2 - Before appointment
+2 - During appointment / day of appointment
+1 - Modify / manage appointment
+
+**Modality (examples: video, in-person, phone)**
+9 - Appointment (info)
+6 - Scheduling / making an appointment
+3 - Before appointment
+1 - Modify / manage appointment
+1 - Clinic information
+
+**Print appointment information**
+9 - Scheduling / making an appointment
+6 - Appointment (info)
+2 - Before appointment
+2 - Modify / manage appointment
+1 - Checking in
+1 - Confirm information / review contact info
+1 - During appointment / day of appointment
+1 - Your information / health history
+
+**Your appointment was canceled by the facility**
+7 - Canceling / rescheduling
+3 - Scheduling / making an appointment
+3 - Appointment (info)
+1 - Confirm information / review contact info
+1 - During appointment / day of appointment
+1 - Modify / manage appointment
+1 - Clinic information
+1 - Notifications
+
+**Review your address and contact information**
+5 - Before appointment
+4 - Confirm information / review contact info
+4 - Your information / health history
+2 - Checking in
+2 - During appointment / day of appointment
+1 - Appointment (info)
+1 - Location / reason
+
+**Requested appointment has been scheduled**
+12 - Scheduling / making an appointment
+3 - Before appointment
+2 - Appointment (info)
+2 - Notifications
+1 - Checking in
+1 - Confirm information / review contact info
+1 - Modify / manage appointment
+
+**Your reason for wanting this appointment**
+9 - Scheduling / making an appointment
+5 - Before appointment
+4 - Appointment (info)
+2 - Modify / manage appointment
+1 - Location / reason
+
+**Cancel appointment**
+8 - Canceling / rescheduling
+4 - Appointment (info)
+4 - Scheduling / making an appointment
+2 - Modify / manage appointment
+1 - Before appointment
+1 - Checking in
+1 - During appointment / day of appointment
+
+**Clinic phone number**
+6 - Appointment (info)
+6 - Scheduling / making an appointment
+3 - Clinic information
+2 - Before appointment
+1 - Location / reason
+
+**Type of care (Example: Primary care)**
+8 - Scheduling / making an appointment
+5 - Appointment (info)
+4 - Before appointment
+3 - Clinic information
+1 - Modify / manage appointment
+1 - Location / reason
+
+**Location of appointment (Example: Cheyenne Medical Center**
+6 - Appointment (info)
+6 - Scheduling / making an appointment
+3 - Before appointment
+2 - Location / reason
+2 - Clinic information
+1 - Checking in
+1 - Modify / manage appointment
+
+**Changes were made to your appointment**
+7 - Canceling / rescheduling
+4 - Appointment (info)
+4 - Scheduling / making an appointment
+2 - Modify / manage appointment
+1 - Before appointment
+1 - Confirm information / review contact info
+1 - During appointment / day of appointment
+1 - Notifications
+
+**Your appointment was canceled**
+9 - Canceling / rescheduling
+5 - Appointment (info)
+4 - Scheduling / making an appointment
+1 - Checking in
+1 - Confirm information / review contact info
+1 - During appointment / day of appointment
+1 - Clinic information
+1 - Notifications
+
+**How to check in for your appointment**
+4 - Appointment (info)
+4 - Scheduling / making an appointment
+3 - Before appointment
+3 - Checking in
+2 - During appointment / day of appointment
+1 - Confirm information / review contact info
+1 - Location / reason
+
+**Check in now**
+6 - Checking in
+5 - During appointment / day of appointment
+3 - Appointment (info)
+2 - Scheduling / making an appointment
+2 - Before appointment
+1 - Confirm information / review contact info
+1 - Modify / manage appointment
+1 - Location / reason
+1 - Clinic information
+
+**You checked in**
+6 - Checking in
+5 - During appointment / day of appointment
+4 - Appointment (info)
+2 - Before appointment
+2 - Confirm information / review contact info
+1 - Location / reason
+1 - Notifications
+  
+</details>
+
+### Past appointments
+
+<details>
+
+**Review or complete a clinical order**
+9 - Post appointment information and actions
+4 - Appointment (info)
+3 - Payments / financial information
+2 - Scheduling / setting up an appointment
+1 - Clinic info
+1 - Critical information
+
+**Review your after-visit summary**
+10 - Post appointment information and actions
+6 - Appointment (info)
+2 - Critical information
+2 - Clinic information
+1 - Travel reimbursement
+1 - Scheduling / setting up an appointment
+
+**You completed your video appointment**
+9 - Post appointment information and actions
+6 - Appointment (info)
+1 - Payments / financial information
+1 - Critical information
+
+**Review the travel reimbursement claim you filed**
+13 - Travel reimbursement
+5 - Post appointment information and actions
+5 - Payments / financial information
+1 - Critical information
+
+**Pay your co-pay**
+10 - Payments / financial information
+3 - Post appointment information and actions
+3 - Travel reimbursement
+2 - Scheduling / setting up an appointment
+2 - Critical information
+1 - Appointment (info)
+
+**Modality (examples: video, in-person, phone)**
+15 - Appointment (info)
+2 - Scheduling / setting up an appointment
+1 - Post appointment information and actions
+1 - Clinic information
+1 - Critical information
+1 - Provider details
+
+**Provider name (Example: Dr. Johnathon Smith)**
+15 - Appointment (info)
+2 - Provider details
+2 - Scheduling / setting up an appointment
+1 - Post appointment information and actions
+1 - Clinic information
+1 - Critical information
+
+**You filed your travel reimbursement claim for this appointment**
+13 - Travel reimbursement
+5 - Payments / financial information
+5 - Post appointment information and actions
+1 - Appointment (info)
+
+**Print appointment information**
+17 - Appointment (info)
+3 - Scheduling / setting up an appointment
+2 - Critical information
+1 - Post appointment information and actions
+1 - Clinic information
+
+**Time of appointment**
+18 - Appointment (info)
+3 - Scheduling / setting up an appointment
+2 - Critical information
+1 - Clinic information
+1 - Travel reimbursement
+
+**Your reason for wanting this appointment**
+15 - Appointment (info)
+4 - Scheduling / setting up an appointment
+3 - Post appointment information and actions
+1 - Critical information
+
+**Location of appointment (Example: Cheyenne Medical Center**
+17 - Appointment (info)
+3 - Scheduling / setting up an appointment
+2 - Clinic information
+1 - Critical information
+1 - Provider details 
+1 - Travel reimbursement
+
+**Type of care (Example: Primary care)**
+17 - Appointment (info)
+2 - Scheduling / setting up an appointment
+1 - Post appointment information and actions
+1 - Travel reimbursement
+1 - Critical information
+1 - Provider details 
+
+**Clinic phone number**
+15 - Appointment (info)
+2 - Post appointment information and actions
+2 - Clinic information
+2 - Critical information
+2 - Provider details 
+1 - Scheduling / setting up an appointment
+
+**File for travel reimbursemen**t
+13 - Travel reimbursement
+5 - Post appointment information and actions
+5 - Payments / financial information
+2 - Critical information
+
+
+  
+</details>
 
 ------
 
