@@ -10,11 +10,11 @@ Christina Gednalske christina.gednalske@adhocteam.us
 
 
 **Jump to:**
-- Most to least mentioned categories
+- [Most to least mentioned categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md#most-to-least-mentioned-categories)
 - [Breakdown of category organization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md#breakdown-of-category-organization)
-- Where terms appeared most in categories
-- Category importance ratings
-- Missing items
+- [Where terms appeared most in categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md#where-terms-appeared-most-in-categories)
+- [Category importance ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md#category-importance-ratings)
+- [Missing items](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md#missing-items)
 
 ## Most to least mentioned categories
 
