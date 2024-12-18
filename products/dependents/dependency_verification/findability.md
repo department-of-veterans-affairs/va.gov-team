@@ -92,8 +92,8 @@ We understand that these findings have far-reaching implications and that solvin
 Any improvements to findability should be first focused on the dependent verification MVP. Our thoughts on what that must/should include are listed here, but we are open to further suggestions from our work with CAIA beyond the improvements we recommend.
 
 #### Must haves
-- A way for unauthenticated Veterans to easily find information about verification of dependents
-- A way for unauthenticated Veterans to easily find where they can log in to view the dependents currently on their benefits
+- A way for authenticated and unauthenticated Veterans to easily find information about verification of dependents
+- A way for both authenticated unauthenticated Veterans to easily find where they can view the dependents currently on their benefits
 - Links to the new verification tool from the Mandatory Verification of Dependents About form page and other appropriate places
 
 ### Dependents experience
