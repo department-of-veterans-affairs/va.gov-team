@@ -20,24 +20,23 @@ This initiative consists of two parts:
 
 ### Goals
 Our goals for this activity are to: 
-- First, determine what are the entry points for the verification MVP, assess any usability issues, and, if necessary, create more clear and usability friendly paths to entry and let this inform our designs of the verification MVP.
-- Second, to ensure there are clear and usability friendly points of entry for all dependents experience and dependent-related content in general. 
+- First, determine the entry points for the verification MVP, assess any usability issues, and, if necessary, create clearer and more usability-friendly paths to entry. 
+- Second, ensure clear and usability-friendly entry points for all dependent's experience and dependent-related content. 
 
 ### Methodology
 
-Our methodology included a heuristic analysis of the existing information architecture of VA.gov as it relates to dependents experience as well as other VA.gov forms and benefits to determine how well the dependents experience is aligned with its greater context. It also included a content analysis of our parent static page, [View or change dependents](https://www.va.gov/view-change-dependents/), and testing of the search engine for search terms related to dependents and dependent verification specifically. 
+Our methodology included a heuristic analysis of the existing information architecture of VA.gov as it relates to dependents' experience and other VA.gov forms and benefits to determine how well the dependent's experience is aligned with its greater context. It also included a content analysis of our parent static page, [View or change dependents](https://www.va.gov/view-change-dependents/), and testing of the search engine for search terms related to dependents and dependent verification specifically. 
 
 We will present these findings to CAIA on 12/18/24 and continue to consult with them on a solution through Q2 that will inform the design of the verification MVP.
 
-Our team will conduct usability and concept testing with Veterans to determine whether Veterans can accomplish their goals with our verification MVP designs and our findability solutions as well as get a better sense of the Veteran's mental model of dependent-related benefits on VA.gov, respectively. 
+Our team will conduct usability and concept testing with Veterans to determine whether Veterans can accomplish their goals with our verification MVP designs and our findability solutions and better understand the Veteran's mental model of dependent-related benefits on VA.gov, respectively. 
 
-In the future, our methodology may include other types of testing, such as card sorting or tree testing, to determine how the dependents experience as a whole could be represented on VA.gov in a way that more closely matches the Veteran's expectations.  
+In the future, our methodology may include other types of testing, such as card sorting or tree testing, to determine how the dependents' experience as a whole could be represented on VA.gov in a way that more closely matches the Veteran's expectations.  
 
-### Expected outcomes
+### Desired outcomes
+- Veterans can easily find information about the verification of dependents and why it is important to verify
+- Veterans can easily find where they can log in to view the dependents currently on their benefits
 
-In the short term, our expectations are to have an actionable plan of how to move forward with verification MVP designs that include clear points of entry and information for both authenticated and unauthenticated users. 
-
-Long term, we see this activity helping to inform future improvements to the information architecture of the dependents experience as a whole on VA.gov. 
 
 ## Findability discovery
 
