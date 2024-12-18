@@ -357,112 +357,112 @@ and/or consider including these actions within a post-appointment category (post
 <details>
 
 **Review or complete a clinical order**
-9 - Post appointment information and actions
-4 - Appointment (info)
-3 - Payments / financial information
-2 - Scheduling / setting up an appointment
-1 - Clinic info
-1 - Critical information
+- 9 - Post appointment information and actions
+- 4 - Appointment (info)
+- 3 - Payments / financial information
+- 2 - Scheduling / setting up an appointment
+- 1 - Clinic info
+- 1 - Critical information
 
 **Review your after-visit summary**
-10 - Post appointment information and actions
-6 - Appointment (info)
-2 - Critical information
-2 - Clinic information
-1 - Travel reimbursement
-1 - Scheduling / setting up an appointment
+- 10 - Post appointment information and actions
+- 6 - Appointment (info)
+- 2 - Critical information
+- 2 - Clinic information
+- 1 - Travel reimbursement
+- 1 - Scheduling / setting up an appointment
 
 **You completed your video appointment**
-9 - Post appointment information and actions
-6 - Appointment (info)
-1 - Payments / financial information
-1 - Critical information
+- 9 - Post appointment information and actions
+- 6 - Appointment (info)
+- 1 - Payments / financial information
+- 1 - Critical information
 
 **Review the travel reimbursement claim you filed**
-13 - Travel reimbursement
-5 - Post appointment information and actions
-5 - Payments / financial information
-1 - Critical information
+- 13 - Travel reimbursement
+- 5 - Post appointment information and actions
+- 5 - Payments / financial information
+- 1 - Critical information
 
 **Pay your co-pay**
-10 - Payments / financial information
-3 - Post appointment information and actions
-3 - Travel reimbursement
-2 - Scheduling / setting up an appointment
-2 - Critical information
-1 - Appointment (info)
+- 10 - Payments / financial information
+- 3 - Post appointment information and actions
+- 3 - Travel reimbursement
+- 2 - Scheduling / setting up an appointment
+- 2 - Critical information
+- 1 - Appointment (info)
 
 **Modality (examples: video, in-person, phone)**
-15 - Appointment (info)
-2 - Scheduling / setting up an appointment
-1 - Post appointment information and actions
-1 - Clinic information
-1 - Critical information
-1 - Provider details
+-  15 - Appointment (info)
+- 2 - Scheduling / setting up an appointment
+- 1 - Post appointment information and actions
+- 1 - Clinic information
+- 1 - Critical information
+- 1 - Provider details
 
 **Provider name (Example: Dr. Johnathon Smith)**
-15 - Appointment (info)
-2 - Provider details
-2 - Scheduling / setting up an appointment
-1 - Post appointment information and actions
-1 - Clinic information
-1 - Critical information
+- 15 - Appointment (info)
+- 2 - Provider details
+- 2 - Scheduling / setting up an appointment
+- 1 - Post appointment information and actions
+- 1 - Clinic information
+- 1 - Critical information
 
 **You filed your travel reimbursement claim for this appointment**
-13 - Travel reimbursement
-5 - Payments / financial information
-5 - Post appointment information and actions
-1 - Appointment (info)
+- 13 - Travel reimbursement
+- 5 - Payments / financial information
+- 5 - Post appointment information and actions
+- 1 - Appointment (info)
 
 **Print appointment information**
-17 - Appointment (info)
-3 - Scheduling / setting up an appointment
-2 - Critical information
-1 - Post appointment information and actions
-1 - Clinic information
+- 17 - Appointment (info)
+- 3 - Scheduling / setting up an appointment
+- 2 - Critical information
+- 1 - Post appointment information and actions
+- 1 - Clinic information
 
 **Time of appointment**
-18 - Appointment (info)
-3 - Scheduling / setting up an appointment
-2 - Critical information
-1 - Clinic information
-1 - Travel reimbursement
+- 18 - Appointment (info)
+- 3 - Scheduling / setting up an appointment
+- 2 - Critical information
+- 1 - Clinic information
+- 1 - Travel reimbursement
 
 **Your reason for wanting this appointment**
-15 - Appointment (info)
-4 - Scheduling / setting up an appointment
-3 - Post appointment information and actions
-1 - Critical information
+- 15 - Appointment (info)
+- 4 - Scheduling / setting up an appointment
+- 3 - Post appointment information and actions
+- 1 - Critical information
 
 **Location of appointment (Example: Cheyenne Medical Center**
-17 - Appointment (info)
-3 - Scheduling / setting up an appointment
-2 - Clinic information
-1 - Critical information
-1 - Provider details 
-1 - Travel reimbursement
+- 17 - Appointment (info)
+- 3 - Scheduling / setting up an appointment
+- 2 - Clinic information
+- 1 - Critical information
+- 1 - Provider details 
+- 1 - Travel reimbursement
 
 **Type of care (Example: Primary care)**
-17 - Appointment (info)
-2 - Scheduling / setting up an appointment
-1 - Post appointment information and actions
-1 - Travel reimbursement
-1 - Critical information
-1 - Provider details 
+- 17 - Appointment (info)
+- 2 - Scheduling / setting up an appointment
+- 1 - Post appointment information and actions
+- 1 - Travel reimbursement
+- 1 - Critical information
+- 1 - Provider details 
 
 **Clinic phone number**
-15 - Appointment (info)
-2 - Post appointment information and actions
-2 - Clinic information
-2 - Critical information
-2 - Provider details 
-1 - Scheduling / setting up an appointment
+- 15 - Appointment (info)
+- 2 - Post appointment information and actions
+- 2 - Clinic information
+- 2 - Critical information
+- 2 - Provider details 
+- 1 - Scheduling / setting up an appointment
 
 **File for travel reimbursemen**t
-13 - Travel reimbursement
-5 - Post appointment information and actions
-5 - Payments / financial information
-2 - Critical information
+- 13 - Travel reimbursement
+- 5 - Post appointment information and actions
+- 5 - Payments / financial information
+- 2 - Critical information
 
 
   
