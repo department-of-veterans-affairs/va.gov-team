@@ -1,16 +1,10 @@
 # IA Design for merging the 'Find a Yellow Ribbon school' into the 'GI Bill school comparison'
 **STATUS: [In progress]**
 
-**Team:** EDM team
-
-**People:**
-- EDM PM: Cassidy Beach and Theresa Simeone
-- EDM UX: Sneha Kulkarni
+- Team: EDM Team - Cassidy Beach (PM), Theresa Simone (PM), Sneha Kulkarni (UX) Jenn Drahota (BA)
 - CAIA IA: Sam Walker
-
-**CAIA Intake ticket: [92367](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92367)**
-
-**IA Tracker: [95206](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95206)** 
+- CAIA Intake ticket: [92367](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92367)
+- IA Tracker: [95206](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95206)
 
 **On this page:**
 - [Page structure](#map)
