@@ -1,6 +1,28 @@
 # Digital Dispute form 
 I think ideally we stick with as much vanilla form system stuff as we can. I do believe there's generic platform components for both Veteran Info and Contact information, so we can even leverage those for this new app instead of lifting from FSR. Besides that it's looking like a radio button and text input field with varying copy depending on radio button selection. 
 
+## Remaining work
+`vets-website` and `content-build` PRs are in draft mode, waiting for the new contract to mark ready and get merged. What's currently in the vets-website branch is a pretty high level skeleton, all the pages and basic functionaility are laid out, and remaining FE work is ticketed in the epic (**Digital Dispute (VBA) - FE/BE Development [#96176](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96176)**). We followed the setup progress in [VA.gov application generator](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-gov-application-generator), but noticed a few steps that we may still need to do in the more detailed **[Creating a new application](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-application)** documentation.
+
+Missing steps from [Manual Setup](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-application#Creatinganewapplication-Manualsetup): 
+- [x] 3. Add an entry to `src/applications/registry.json` in the `content-build`
+  - [PR](https://github.com/department-of-veterans-affairs/content-build/pull/2393) has been generated, just noting we missed it initially
+- [ ] 4. Add your new application to the [vets-api source app middleware configuration](https://github.com/department-of-veterans-affairs/vets-api/blob/c80b278e3c8cc3014035d6ec3670dfaa18ff4368/lib/source_app_middleware.rb#L23)
+- [ ] 6. [Update revproxy config](https://depo-platform-documentation.scrollhelp.site/developer-docs/routing#Routing-ReverseProxyConfig) to reflect the addition of your application so that internal links created via react-routerwill work properly.
+- [ ] Keep in mind [PR merge order](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-application#Creatinganewapplication-PRmergeorder)
+
+### PRs for reference
+- `vets-website`
+  department-of-veterans-affairs/vets-website/pull/33332
+- `vets-api` for prefill
+department-of-veterans-affairs/vets-api/pull/19545
+- `content-build`
+department-of-veterans-affairs/content-build/pull/2393
+- `vets-json-schema`
+department-of-veterans-affairs/vets-json-schema/pull/961
+
+- FE ticket most of the work was completed under
+department-of-veterans-affairs/va.gov-team#97002
 
 ## Helpful links
 ### Designs
