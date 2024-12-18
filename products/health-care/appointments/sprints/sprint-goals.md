@@ -80,6 +80,6 @@ https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissu
 - **Appointments UI Improvements**
     - ⛔ [Update alert [User is registered at 2+ facilities - dead ends] - Part 1#96993](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96993)
     - ✔️ [Update alert [User is registered at 2+ facilities - dead ends] - Part 2#96996](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96996)
-    - ✔️ [Update alert [User is registered at 2+ facilities - dead ends] - Part 3#96999](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96999)
+    - 🚧 Rolling Over [Update alert [User is registered at 2+ facilities - dead ends] - Part 3#96999](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96999) - dev done, validation will roll over
     - ✔️ [Update alert on choose a VA location page - Part 4 #96976](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96976)
     - ✔️ [Facility phone number issue on locations page#96156](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96156)
