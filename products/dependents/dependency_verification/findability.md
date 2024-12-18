@@ -13,6 +13,11 @@ This initiative consists of two parts:
 
 [Learn more about the verification initiative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/dependency_verification)
 
+[Go to verification MVP designs in Figma
+](https://www.figma.com/design/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?node-id=1574-12903&t=zqs6ZMV8Lfs9bYeD-1)
+
+## Goals, methodology, and expected outcomes
+
 ## Findability discovery
 
 As a part of our initiative, our team did some discovery work to understand how Veterans might find information about the "verification of dependents." Part of our hypothesis is that those Veterans who incur debt from dependent overpayments are less engaged with VA.gov, hence the need to reach out to them with a notification email. Because these Veterans may be less familiar with navigating VA.gov, we want to pay extra attention to the ease of findability when designing our new verification MVP. More than this, we know how important it is that even Veterans who don't follow our happy path (the CTA in the annual notification email) are able to find information about dependent verification and how to verify independent of the email.
@@ -23,7 +28,7 @@ We mapped out all the existing entry points in Mural, and through this exercise,
 
 [Go to map of existing extry points in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689863079145/5b97ba9ea11077f983f3413167f6324f11aa04a8?wid=0-1733935267441)
 
-## Problem
+## Findings
 
 Through our discovery, we identified the following issues:
 
