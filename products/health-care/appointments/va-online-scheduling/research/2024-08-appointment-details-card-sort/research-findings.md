@@ -133,9 +133,11 @@ and/or consider including these actions within a post-appointment category (post
 
 ## Where terms appeared most in categories
 
-### Upcoming appointments
-
 <details>
+
+<summary>Upcoming appointments</summary>
+
+<br>
 
 **You answered health-related questions**
 - 5 - Before appointment
@@ -352,9 +354,12 @@ and/or consider including these actions within a post-appointment category (post
   
 </details>
 
-### Past appointments
 
 <details>
+
+<summary>Past appointments</summary>
+
+<br>
 
 **Review or complete a clinical order**
 - 9 - Post appointment information and actions
