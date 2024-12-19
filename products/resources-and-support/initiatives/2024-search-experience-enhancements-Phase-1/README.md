@@ -42,6 +42,9 @@ Since then, Resources and support has expanded to include 137 articles (as of Se
 - Options for topic tags are not comprehensive
 - Methods to organize content and support findability rely on manual editorial processes, making them inconsistent and/or absent.
 
+### Current search functionality
+- The current R&S search feature is using custom code and provides limited searching abilities e.g. only searching the titles of articles, etc. to return search results. We will explore other search options (holistically, not just for R&S) as part of this initiative and decide on which one will best accommodate not only R&S, but other VA.gov search featurs as well.
+
 ## Scope
 ### In scope
 Phase 1 focus
