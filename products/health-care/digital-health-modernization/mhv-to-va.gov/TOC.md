@@ -28,6 +28,8 @@
     * [Team API](https://dsva.slack.com/docs/T03FECE8V/F07LLA6155E)
     * Analytics
         * [DataDog MR Dashboard](https://vagov.ddog-gov.com/dashboard/8tk-8fe-cin/mhv-medical-records?refresh_mode=sliding&from_ts=1696699383284&to_ts=1699291383284&live=true)
+        * [DataDog MR RUM Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-b6a6fc9245174cad96c353ab45cf2020?fromUser=false&refresh_mode=sliding&from_ts=1731979074613&to_ts=1734571074613&live=true)
+        * 
         * G4 Dashboards
     * Zero Silent Failures
         * [Open Issues in GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20state%3Aopen%20label%3Azero-silent-failures%20label%3Amhv-medical-records)
