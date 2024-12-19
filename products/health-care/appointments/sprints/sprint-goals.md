@@ -8,7 +8,9 @@
 
 <!-- 
 
-All issues in the UAE UX project that were closed in this timeframe: https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20project%3Adepartment-of-veterans-affairs%2F1214%20is%3Aissue%20closed%3A%3E%3D2024-12-25%20closed%3A%3C%3D2025-1-27%20
+All issues in that were closed in this timeframe: 
+- UAE Appointments Team: https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20project%3Adepartment-of-veterans-affairs%2F1554%20is%3Aissue%20closed%3A%3E%3D2024-12-25%20closed%3A%3C%3D2025-1-27%20%20
+- UAE UX project: https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20project%3Adepartment-of-veterans-affairs%2F1214%20is%3Aissue%20closed%3A%3E%3D2024-12-25%20closed%3A%3C%3D2025-1-27%20
 
 -->
 
@@ -22,8 +24,9 @@ All issues in the UAE UX project that were closed in this timeframe: https://git
 
 <!-- 
 
-All issues in the UAE UX project that were closed in this timeframe:
-https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20project%3Adepartment-of-veterans-affairs%2F1214%20is%3Aissue%20closed%3A%3E%3D2024-12-11%20closed%3A%3C%3D2024-12-24
+All issues that were closed in this timeframe:
+- UAE Appointments Team project: https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20project%3Adepartment-of-veterans-affairs%2F1554%20is%3Aissue%20closed%3A%3E%3D2024-12-11%20closed%3A%3C%3D2024-12-24%20
+- UAE UX project: https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20project%3Adepartment-of-veterans-affairs%2F1214%20is%3Aissue%20closed%3A%3E%3D2024-12-11%20closed%3A%3C%3D2024-12-24
 
 -->
 
