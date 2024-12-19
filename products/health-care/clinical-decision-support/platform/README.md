@@ -29,21 +29,24 @@ OCTO-DE/DEPO:
 - Varoon Mathur (VA OCTO, PIF, Data)
 
 Program Management:
-- Jeremy Stitz (ThoughtWorks/TW)
+- December Bergh (ThoughtWorks/TW)
 
 Product Management:
-- Reshmi Nair (TW)
+- Maria Becker (TW)
 
 Design & Research:
-- Rachel Murray (TW)
+- Liz Blasi (TW)
 
 Engineering:
-- Phil Herbert (TW, Tech Lead)
+- Obedi Ferreira (TW, Tech Lead)
 - Filip Fafara (TW, Domain Principal)
 - Frances Henshall (TW, Developer)
-- Ellis Crawford (TW, Developer)
-- Becca Vasil (TW, Developer)
-- Nitheesha Karnati (TW, Quality Analyst)
+- Sarach Cnota (TW, Developer)
+- Fara Hughes (TW, Developer)
+- Daniel Olson (TW, Developer)
+- Ashley Gentles Crawford (TW, Developer)
+- MR Ngo (TW, Developer)
+- Charly McRae-Olson (TW, Quality Analyst)
 
 ### What We're Working On
 •	The CDSP platform team conducted engagements with 11 different teams across the VA and identified three potential use cases for development and/or integration efforts. Those use cases include:
