@@ -15,7 +15,7 @@
     - Michael Skinner, PM
 - CAIA
     - Kristin Ouellette Muskat, IA specialist
-    - Megan Zehnder, Copywriter - assists with redirects for URLs that changed
+    - Megan Zehnder and Sara Torres, Copy editors - assist with redirects for URLs that changed
 
 - CMS (HD team)
     - Grace Kretschmer Tran, PdM
@@ -86,10 +86,8 @@ Redirects should be requested at least 2 weeks in advance to ensure they are pro
         - Add a comment to the ticket telling Jill and Fran that it’s ready to move forward
 - Update IA documentation as appropriate
 - IA validates redirects are correctly in place and closes ticket
-- Once URLs have been implemented and are live, tag Grace Kretschmer Tran and Michelle Dooley in the #cms-support channel for the team’s awareness. 
-    - This is so the team monitoring for broken links are aware these are redirects rather than broken.
-Drupal doesn't recognize a redirect and reports a broken link so it’s important we work with the monitoring team. We should confirm who else is involved in this.
-
+- Once URLs have been implemented and are live, tag Grace Kretschmer Tran and Michelle Dooley in the #cms-support channel for the team’s awareness.
+- IA tags content point of contact (Megan or Sara) when redirect is successfully in place, and it's clear for content team to start the archive process
 
 ### Responsibility of implementation team
 - Confirm that the redirect is technically feasible (i.e. legacy pages that do not have our injected header can not be redirected by a front end developer)
@@ -99,21 +97,26 @@ Drupal doesn't recognize a redirect and reports a broken link so it’s importan
 - Implement redirects as requested along with any redirect updates needed and validate in lower environments before moving to production
 - Communicate when redirect has been deployed to production so teams can validate
 
-### Responsibility of Content team
+### Responsibility of content team
 If changing the URL of any modernized page in Drupal, these are additional steps in the redirect process
 - Intake ticket is created by product team or OCTO and IA is assigned
 - IA assigns Content team to ticket and tags Content team in the ticket as well as in a comment
-- Content team clones a page and updates the URL in Drupal.
-      1. Changing URL for R&S
-      2. Cloning a page process, specific to updating benefit rates
-- Content team saves the page as a draft, and a copyeditor publishes the page
-- Content team notifies IA that cloned page is live
+- Content team PM lists out existing crosslinks for the old node and lists in ticket (for existing pages in Drupal, we can pull a "node usage" report in Drupal. Ask Randi Hecht for help if needed)
+- Content team writer clones a page and updates the URL in Drupal ([get more information about the Drupal cloning process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/how-to-change-url-in-resources-and-support.md#how-to-clone-a-page))
+- Content team writer saves the page as a draft, and a copy editor publishes the page
+- Content team copy editor notifies IA that cloned page is live
 - IA goes through usual redirect vetting process and tags PW or product team to let them know redirects are ready to be implemented
-- IA tags Megan in the ticket to let her know we need to audit old URLs and nodes in drupal and update them after implementation
-- Content team audits drupal for all nodes and URLs that mention the old, retired page
-     - They update related nodes and URLs to point to the new node/URL
-     - They archive the old page (ensuring that the new page is live and working before doing so)
-     - They update the team in the redirect ticket once these steps are complete
+- When IA confirms that the redirect is successfully in place, the content point of contact can start the archive process
+
+## Archiving a node in Drupal
+
+1. After IA team confirms that redirects are in place for one Drupal node to another Drupal node, the copy editor can plan to start the process to archive the older Drupal node. This can happen anytime in the following days, but the sooner the better. Waiting longer can cause problems for editors who may link to or make changes to the wrong outdated node.
+2. Writer or copy editor replaces crosslinks with updated node. 
+    **Note:** On pages where we're updating crosslinks: If the only change to the page is updating the link or node, the writer can publish the one updated crosslink. If there are any copy changes, the writer passes the page to the copy editor to review. **Before publishing**: Check the revison log, and make sure there are no other other draft changes.
+3. Copy editor publishes the updated page (or checks the updated link on production).
+4. Copy editor tags CMS team members Ian Sears and Troy Griffin in CMS channel to give a heads up that we're archiving pages with confirmed redirects. Note that there may be some false broken link reports coming in that we'll monitor. 
+5. Copy editor archives older node. Then monitors #content-broken-links in Slack channel 2 hours later (after content build takes place).
+    **Note:** If not all crosslinks get updated before a node is archived, the copy editor should coordinate with the writer to create an estimate for when we can address and solve any false broken link reports. Copy editor shares that estimate with CMS team in #content-broken-links.
 
 ## Archiving a best bet
 To change this one you can either
