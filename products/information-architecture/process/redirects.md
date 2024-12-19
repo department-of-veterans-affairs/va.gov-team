@@ -86,7 +86,8 @@ Redirects should be requested at least 2 weeks in advance to ensure they are pro
         - Add a comment to the ticket telling Jill and Fran that it’s ready to move forward
 - Update IA documentation as appropriate
 - IA validates redirects are correctly in place and closes ticket
-- Once URLs have been implemented and are live, tag Grace Kretschmer Tran and Michelle Dooley in the #cms-support channel for the team’s awareness. 
+- Once URLs have been implemented and are live, tag Grace Kretschmer Tran and Michelle Dooley in the #cms-support channel for the team’s awareness.
+- IA tags content point of contact (Megan or Sara) when redirect is successfully in place, and it's clear for content team to start the archive process
 
 ### Responsibility of implementation team
 - Confirm that the redirect is technically feasible (i.e. legacy pages that do not have our injected header can not be redirected by a front end developer)
@@ -107,7 +108,7 @@ If changing the URL of any modernized page in Drupal, these are additional steps
 - Content team writer saves the page as a draft, and a copy editor publishes the page
 - Content team copy editor notifies IA that cloned page is live
 - IA goes through usual redirect vetting process and tags PW or product team to let them know redirects are ready to be implemented
-- IA tags copy editor (Megan or Sara) when redirect is successfully in place, and it's clear for content team to start the archive process
+- When IA confirms that the redirect is successfully in place, the content point of contact can start the archive process
 
 ## Archiving a node in Drupal
 
