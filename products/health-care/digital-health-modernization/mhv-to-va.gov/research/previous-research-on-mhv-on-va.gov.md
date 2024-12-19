@@ -5,11 +5,13 @@ Below is a list of research that has been carried out to develop and support the
 # Research carried out on MHV on VA.gov
 
 ## MHV on VA.gov concept & adoption research
+- [MHV on VA.gov Adoption of My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/adoption-study/research-findings.md) (Nov 2024)
 - [MHV on VA.gov Round 2 Initial Prototype Usability Research/ Proof of Concept - mobile users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability) (May 2022)
 - [MHV on VA.gov Round 1 Initial Prototype Usability Research/ Proof of Concept](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability) (March 2022)
 - [2020-12 Digital Health Modernization Generative Research Study 1](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/6) (September 2021)
 
 ## MHV on VA.gov content, IA, and navigability research
+- [Cross-tool filters study](link TBD) (November 2024)
 - [Comparison study of secondary navigation options](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study) (January 2024)
 - [Secondary Navigation Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research) (October 2023)
 - [2023-07 Health Wayfinding Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study) (July/ August 2023)
