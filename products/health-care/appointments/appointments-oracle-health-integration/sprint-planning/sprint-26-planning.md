@@ -41,7 +41,7 @@ In Sprint 25 the team provided support for multiple features and initiatives, ou
    * (VPG-26) An investigation into potential performance issues with the /eligibility endpoints in VetsAPI Patient Gateway (VPG) revealed that long-running executions of the endpoint correlate with increased response times from the VAOS service. The analysis showed that VPG response times are nearly identical to those of VAOS, indicating that the performance limitations primarily stem from the VAOS service. 
    * (CES-1291) CES-IG-Java-Library, a library used by VetsAPI Patient Gateway, was updated to add missing fluent setters for CESAppointment.
    * (CES-1350) Clinical Encounter Service updated existing appointment tests to leverage methods in SlotUtils, preventing time zones and holidays from breaking integration tests.
-   * (CES-1141) Clinical Encounter Service updated testing versions to reflect the current Vista Clinic Administration Services’ versioning. This ensures consistency with the VCAS version used in production for clinic data.
+   * (CES-1141) Clinical Encounter Service updated testing versions to reflect the current Vista Clinic Administration Services’ (VCAS) versioning. This ensures consistency with the VCAS version used in production for clinic data.
 
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
