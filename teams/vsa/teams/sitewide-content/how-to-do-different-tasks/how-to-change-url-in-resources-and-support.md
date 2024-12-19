@@ -16,7 +16,7 @@ The Drupal CMS automatically creates the URL for a resources and support page fr
 ## How to clone a page
 
 1. On the Drupal login page, click on the Content tab.
-2. Enter the page title you're trying to  in the "Title" field and click Filter.
+2. Enter the page title you're trying to find in the "Title" field and click Filter.
 3. Click on the appropriate “Title” from the results list.
 4. In the page node, right-click on the Clone tab to open the Clone tab in another web browser tab.
 5. Click Clone.
