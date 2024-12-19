@@ -23,7 +23,7 @@ Sprint 25: 12/16/24 - 12/30/24
 * 🟠 Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
 * 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
 * 🟣 Testing/Admin/Operational Support
-* 🟤 VetsAPI Front End Support
+* 🟤 VetsAPI Logic Integration Support
    
 ## 📋 Previous Sprint Summary:
 In Sprint 24 the team provided support for multiple features and initiatives, outlined as follows:  
