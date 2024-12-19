@@ -872,14 +872,14 @@ _VA.gov CMS team: Lapedra Tolson_
 _VA.gov CMS team: Eric Chiu, Meghana Khandekar, Ryan Sibley, Lapedra Tolson, Jane Newman, Rachel Kauff, Kate Saul_
 
 * 22 participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/Facility%20research%20-%20usability%20testing%20in%20PGH%20-%20June%202019)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/usability%20testing%20in%20PGH%20-%20June%202019)
 
 #### June 25 - 27, 2019: AX usability testing in Pittsburgh
 
 _VA.gov CMS team: Meghana Khandekar, Ryan Sibley, Lapedra Tolson, Jane Newman, Rachel Kauff, Kate Saul_
 
 * 8 participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/content/cms/authoring-experience/research/ax%20research%20-%20usability%20testing%20in%20PGH%20-%20June%202019)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/usability%20testing%20in%20PGH%20-%20June%202019)
 
 #### June 20-July 3: Appeals Higher Level Review Discovery Research
 *Appeals Team, Research Lead: Carola Ponce*
