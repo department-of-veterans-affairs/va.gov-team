@@ -4,16 +4,11 @@
 # Endpoint monitoring
 
 ## Scope 
-This applies to all OCTO APIs & Sidekiq jobs hosted as part of vets-api, and focuses on the use of Datadog for observability.
-
+This document is relevant to the medical records section of MHV on va.gov and includes information about troubleshooting within the va.gov ecosystem as well as the downstream MHV API systems. Medical Records (MR) is an authenticated only experience, and the landing page in [Staging can be accessed here](https://staging.va.gov/my-health/medical-records).  
 ## Purpose
-It is critical that we are aware of the performance of va.gov systems, notified when system behavior is impacting veterans, 
-and have the necessary information to address problems quickly.  To accomplish implement the following for your systems:
+This document will provide links to Application Performance Monitoring (APM) tools that provide visibility, monitoring, alerting and logging for the front end (vets-website), middleware (vets-api) and back end (MHV API) systems.  
 
 ## Dashboards
-Have dashboards that reflect the operations of your system.  This can show traffic levels, error rates, system latency, or any 
-other metric that helps understand system performance for addressing current issues or predicting future behavior.  
-
 <details>
   <summary>Toggle Dashboard Details</summary>
 
@@ -31,15 +26,26 @@ other metric that helps understand system performance for addressing current iss
   after a successful release.
 </details>
 
-**MEDICAL RECORDS DATADOG DASHBOARD**
+**MEDICAL RECORDS DATADOG DASHBOARDS**
 - [Datadog MR Dashboard](https://vagov.ddog-gov.com/dashboard/8tk-8fe-cin/mhv-medical-records?refresh_mode=sliding&from_ts=1696699383284&to_ts=1699291383284&live=true)
-- This dashboard contains components that display metrics (and subsequent required monitors) for:
-  -The MHV Fwd Proxy
-  -Domain level monitoring which include data for LISTS and DETAIL pages for each domain.  Each domain is measured for visit count, response code, http status, error rate as well as metrics for each print view, PDF download, and TXT download.  The domains that follow this pattern are: Vaccines, Allergies, Care Summaries/Notes, Vitals, Health Conditions, Lab/Tests, Radiology.
-  -We also measure and monitor various comprehensive downloads for performance such as CCD Download, Self Entered Download, and BlueButton comprehensive report Download.
-  -Lastly, we measure and monitor the Settings (VHIE sharing mostly) that exists on the site.
+  - This dashboard contains components that display metrics (and subsequent required monitors) for:
+    - The MHV Fwd Proxy
+    - Domain level monitoring which include data for LISTS and DETAIL pages for each domain.  Each domain is measured for visit count, response code, http status, error rate as well as metrics for each print view, PDF download, and TXT download.  These metrics are related to calls from vets-api to the MHV API backend system.  The domains that follow this pattern are: Vaccines, Allergies, Care Summaries/Notes, Vitals, Health Conditions, Lab/Tests, Radiology.
+    - We also measure and monitor various comprehensive downloads for performance such as CCD Download, Self Entered Download, and BlueButton comprehensive report Download.
+    - Lastly, we measure and monitor the Settings (VHIE sharing mostly) that exists on the site.
+- [Datadog MR Usage Dashboard](https://vagov.ddog-gov.com/dashboard/3v5-jdv-4vt/mr-on-vagov?fromUser=true&refresh_mode=sliding&from_ts=1734458026898&to_ts=1734630826898&live=true)
+  - This dashboard contains components that display metrics for views, average time spent, top actions and funnels for all medical record domains
+  - This is meant to visualize data from a user perspective and relies on data from Datadog Remote User Monitoring (RUM)
+- [Datadog Default APM Service Dashboard](https://vagov.ddog-gov.com/apm/entity/service%3Amhv-medical-records?compareVersionEnd=0&compareVersionPaused=false&compareVersionStart=0&dependencyMap=qson%3A%28data%3A%28telemetrySelection%3Aall_sources%29%2Cversion%3A%210%29&deployments=qson%3A%28data%3A%28hits%3A%28selected%3Aversion_count%29%2Cerrors%3A%28selected%3Aversion_count%29%2Clatency%3A%28selected%3Ap95%29%2CtopN%3A%215%29%2Cversion%3A%210%29&env=eks-prod&fromUser=false&groupMapByOperation=null&operationName=rack.request&panels=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&resources=qson%3A%28data%3A%28visible%3A%21t%2Chits%3A%28selected%3Atotal%29%2Cerrors%3A%28selected%3Atotal%29%2Clatency%3A%28selected%3Ap95%29%2CtopN%3A%215%29%2Cversion%3A%211%29&summary=qson%3A%28data%3A%28visible%3A%21t%2Cchanges%3A%28%29%2Cerrors%3A%28selected%3Acount%29%2Chits%3A%28selected%3Acount%29%2Clatency%3A%28selected%3Alatency%2Cslot%3A%28agg%3A95%29%2Cdistribution%3A%28isLogScale%3A%21f%29%2CshowTraceOutliers%3A%21t%29%2Csublayer%3A%28slot%3A%28layers%3AserviceAndInferred%29%2Cselected%3Apercentage%29%2ClagMetrics%3A%28selectedMetric%3A%21s%2CselectedGroupBy%3A%21s%29%29%2Cversion%3A%211%29&start=1734635797967&end=1734639397967&paused=false#summary)
+  - This default dashboard contains a summary of the MR service and additional sections with detailed metrics for:
+    - Endpoint requests, errors and latency
+    - Deployments
+    - Dependency Graph (only for front end and middleware systems)
+    - Traces
+    - Errors
+    - Logs
 
-
+ 
 ## Monitors
 Include monitors that notify the team (or organization) when the system has an issue that should be investigated or addressed.
 
@@ -99,7 +105,7 @@ expect that the following three scenarios will be covered:*
 </details>
 
 **MEDICAL RECORDS MONITORS**
-- Our datadog dashboard/monitors are integrating with the VA.gov Watchtower monitoring.  Alerts or anomolies that happen trigger Slack notifications in the #mhv-on-vagov-alerts channel (https://dsva.slack.com/archives/C054X851K62).
+- Our datadog dashboard/monitors are integrating with the VA.gov Watchtower monitoring.  Alerts or anomolies that happen trigger Slack notifications in the [#mhv-on-vagov-alerts channel](https://dsva.slack.com/archives/C054X851K62).
 - [MHV Medical Records error response rate (vets-api vagov-prod) Monitor](https://vagov.ddog-gov.com/monitors/199793) 
 - [MHV Medical Records anomaly monitor](https://vagov.ddog-gov.com/monitors/199800)
 - [MHV Medical Records MHV::PhrUpdateJob has exhausted its sidekiq queue Monitor](https://vagov.ddog-gov.com/monitors/199803)
@@ -118,9 +124,7 @@ expect that the following three scenarios will be covered:*
 -A fix will be loaded to the backlog (JIRA) and prioritized
 -The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
 
-## Feature Flipper analysis December 2024
-<details>
-  <summary>Toggle feature flipper details</summary>   
+## Feature Flipper analysis December 2024  
   
 | Feature Toggle Name                      | Description                                                                      | Current State | 
 | ---------------------------------------- | -------------------------------------------------------------------------------- | ------------- | 
@@ -141,6 +145,4 @@ expect that the following three scenarios will be covered:*
 | mhvMedicalRecordsDisplaySidenav          | Unused?                                                                          | true          |                       
 | mhvMedicalRecordsPhrRefreshOnLogin       | vets-api - Unused?                                                               | false         |                       
 | mhvMedicalRecordsKillExternalLinks       | Only used for testing<br>Toggled in code                                         | N/A           |                       
-
-</details>
 
