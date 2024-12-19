@@ -102,9 +102,7 @@ If changing the URL of any modernized page in Drupal, these are additional steps
 - Intake ticket is created by product team or OCTO and IA is assigned
 - IA assigns Content team to ticket and tags Content team in the ticket as well as in a comment
 - Content team PM lists out existing crosslinks for the old node and lists in ticket (for existing pages in Drupal, we can pull a "node usage" report in Drupal. Ask Randi Hecht for help if needed)
-- Content team writer clones a page and updates the URL in Drupal
-      1. Changing URL for R&S
-      2. Cloning a page process, specific to updating benefit rates
+- Content team writer clones a page and updates the URL in Drupal ([get more information about the Drupal cloning process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/how-to-change-url-in-resources-and-support.md#how-to-clone-a-page))
 - Content team writer saves the page as a draft, and a copy editor publishes the page
 - Content team copy editor notifies IA that cloned page is live
 - IA goes through usual redirect vetting process and tags PW or product team to let them know redirects are ready to be implemented
