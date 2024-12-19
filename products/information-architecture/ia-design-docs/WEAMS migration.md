@@ -68,7 +68,7 @@ All data and flows migrated into the Comparison Tool must be located at the curr
 - Link label: [TBD by CAIA Content]
 - Link destination: va.gov/education/gi-bill-comparison-tool
 - Who will update (IA, content, product team): CAIA Content
-- When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
+- When will this entry point go live (after launch? After staged rollout? after some designated time?): After launch
 ![weams 2](https://github.com/user-attachments/assets/a48c651f-6459-4a82-8c4e-3307e58026cf)
 
 ### Secondary entry points
@@ -79,7 +79,7 @@ _Any additional locations that the page should be navigable from such as the "Ab
 - Link label: Retain the current location of the left nav item. Text updates TBD if content/meaning of the H1 on va.gov/education/gi-bill-comparison-tool changes significantly. (Updates TBD by CAIA Content). 
 - Link destination: va.gov/education/gi-bill-comparison-tool
 - Who will update (IA, content, product team): CAIA IA
-- When will this entry point go live (at launch? After staged rollout? after some designated time?): At launch
+- When will this entry point go live (after launch? After staged rollout? after some designated time?): After launch
 - Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool
 ![weams 8](https://github.com/user-attachments/assets/b7f236d3-96e8-4465-b0e8-ee7957a5986d)
 
@@ -90,7 +90,7 @@ _Any additional locations that the page should be navigable from such as the "Ab
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. Redirects listed are the responsibility of the product team, please submit a [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=redirect-request.md) at least 2 weeks in advance, so that CAIA IA can verify that the redirects are successful on launch.*  
 
 - Who implements the redirect: EDM team
-- When does the redirect go live: At launch
+- When does the redirect go live: After launch
 
 Current URL | Redirect to | Notes
 --- | --- | ---
@@ -102,7 +102,8 @@ Current URL | Redirect to | Notes
 
 **1. GI Bill School Comparison Tool - Modify best bet**  
 CAIA IA will update the current Best Bet, and add description and/or keywords that highlight that National Tests and Licensing & Certification data is now available in the Comparison Tool.
-
+- Who implements the redirect: CAIA IA
+- When does the Best Bet get updated: After launch
 
 <hr>
 
