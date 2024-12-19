@@ -1,4 +1,4 @@
-This folder is to store all artifacts related to the Event Bus onboarding.
+This folder is to store all artifacts related to the Submission Traceability onboarding.
 
 #### Resources
 - [Event Bus Developer Portal](https://department-of-veterans-affairs.github.io/ves-event-bus-developer-portal/get-support/)
@@ -7,8 +7,9 @@ This folder is to store all artifacts related to the Event Bus onboarding.
      - [Steps to become a Consumer of Events](https://department-of-veterans-affairs.github.io/ves-event-bus-developer-portal/consume-events/)
      - [Steps to become a Producer of Events](https://department-of-veterans-affairs.github.io/ves-event-bus-developer-portal/produce-events/)
      - [Event Catalog on CODE VA](https://code.va.gov) - MUST be on the VA Network to access)
-- [Event Bus - transaction tracing GH folder (including meeting notes)](https://github.com/department-of-veterans-affairs/VES/tree/master/research/Event%20Bus/Use%20Cases/Transaction%20Tracing)
+- [Submission Traceability GH folder (including meeting notes)](https://github.com/department-of-veterans-affairs/VES/tree/master/research/Event%20Bus/Partner%20Teams/Submission%20Traceability)
 - Slack channel
+     - [ves-cx-submission-traceability](https://dsva.slack.com/archives/C05UUQBSVLL)
      - [#ves-event-bus](https://dsva.slack.com/archives/C042ZQ7JUAX)
 
 **Initiated with this post:**
