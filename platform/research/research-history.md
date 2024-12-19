@@ -865,7 +865,7 @@ _VA.gov CMS team: Lapedra Tolson_
 #### June 24-28: Direct deposit usability testing
 *Dragons/Personalization: Samara Strauss*
 - 5 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research/usability-research)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/Research/2019-06-direct-deposit-updates-usability)
 
 #### June 25 - 27, 2019: Facility - usability testing in Pittsburgh
 
