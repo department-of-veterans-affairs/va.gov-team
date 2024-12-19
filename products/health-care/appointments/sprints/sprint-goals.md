@@ -38,14 +38,17 @@ https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissu
 - ❗ 🟩 [Add initial screen and placeholder data for Select a Provider step #98224](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98224)
 - ✔️ [Add patient relationship endpoint service and mocks #89641](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89641)
 - 🟩 [Add location and typeOfCare arguments and functionality to patient relationships #98864](https://github.com/orgs/department-of-veterans-affairs/projects/1554/views/6?pane=issue&itemId=90556977&issue=department-of-veterans-affairs%7Cva.gov-team%7C98864)
-- 🟩 [Update alert on choose a VA location page - Part 7 #98190](98190)
+- ✔️ [Update alert on choose a VA location page - Part 7 #98190](98190)
 - 🟩 [Update alert on choose a VA location page - Part 8 #98191](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98191)
 - 🟩 [Update alert on choose a VA location page - Part 9 #98192](98192)
 - ✔️ 🟧 OH Scheduling improvements: Dead ends from facility page https://github.com/department-of-veterans-affairs/va.gov-team/issues/91499
 
 **Appointments UI Improvements**
-- ❗ 🟩 [Remove links to My VA Health from DS location page #96902](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96902)
-- ❗ 🟦🟩 [Update alert [User is registered at 2+ facilities - dead ends] - Part 3 #96999](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96999)
+- ✔️ [Remove links to My VA Health from DS location page #96902](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96902)
+- ✔️ [Update alert [User is registered at 2+ facilities - dead ends] - Part 3 #96999](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96999)
+- ✔️ [Remove aria-label from print buttons #96012](96012)
+- ✔️ [Button group component is misaligned #97935](97935)
+- ✔️ [Update calendar page to include the clinic name #98807](98807)
 - ✔️ 🟧 Staging Review finding: Confusing language when directing users to contact facility - https://github.com/department-of-veterans-affairs/va.gov-team/issues/88453
  
 **Immediate care alerts improvement**
