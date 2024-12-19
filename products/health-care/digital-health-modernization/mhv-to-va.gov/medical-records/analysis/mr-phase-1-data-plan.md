@@ -58,7 +58,7 @@ We will use path explorations to view Veterans’ paths within and out of Medica
 
 ## **Medallia Feedback:**
 
-We will collect, analyze, and synthesize Medallia data from:
+### We will collect, analyze, and synthesize Medallia data from:
 
 - Intercept Surveys
 - Feedback Surveys
