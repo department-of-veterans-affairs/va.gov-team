@@ -29,7 +29,7 @@
   
 
 ## Research and Design
-
+[Sprint 45 Goals](https://dsva.slack.com/docs/T03FECE8V/F07N6EH4EUE?focus_section_id=temp:C:GJL2b42e00b71334bb7b32b8e468)
 
 ## Sumary
 Sprint capacity has been adjusted this sprint to reflect team members with PTO and the holiday.
