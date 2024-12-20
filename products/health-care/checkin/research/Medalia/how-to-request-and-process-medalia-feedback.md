@@ -30,7 +30,7 @@
 11. Run macro 'CopyCommentsAsMarkDown' to copy the comments for columns where you placed a '1', change the comments to markdown format, and save them to a new text file 
 12. Run macro 'CalculateCSAT' to gather the CSAT scores and save them to a new spreadsheet 
     - CSAT scores are reported monthly to OCTO, see ???? 
-14. Create a GitHub document similar to [this one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/2024/2024-05-16-Medallia.md)
+14. Create a GitHub document similar to [this one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/2024/2024-12-15-Medallia.md)
     - Copy the comments from the text file created by the 'CopyCommentsAsMarkDown' macro to this new GitHub document 
     - Scrub the comments of PII/PHI. Read through every user comment you pasted into the GitHub docuemnt and replace personal information with asterisks or number symbols. Replace data with codes as follows
         - Email addresses - PII_EMAIL
