@@ -72,9 +72,13 @@ We utilize Datadob Remote User Monitoring (RUM) to visualize the medical records
 
 ## Backend MHV API System Monitoring
 The MHV API service layer utlizes AppDynamics for APM. This section will provide links to quickly access AppDynamics visualizations for specific backend services:
+
+- [Overall system health dashboard](https://grafana.myhealth.va.gov/d/IZf0bAkMk/system-health?orgId=1&refresh=30s&from=now-15m&to=now)
+
 ### MHV FHIR API 
-- Services
-- Database
+- [mhv-np-fhir-api Service](https://grafana.myhealth.va.gov/d/qVKazw24p5/mhv-np-fhir-api?orgId=1&refresh=30s&from=now-3h&to=now)
+- [mhv-np-phr-api Service](https://grafana.myhealth.va.gov/d/qVKazw24p2/mhv-np-phr-api?orgId=1&refresh=30s&from=now-1h&to=now)
+- [AWS RDS Metrics](https://grafana.myhealth.va.gov/d/HdeaRHxWz/amazon-rds?orgId=1&from=now-6h&to=now&var-datasource=000000003&var-region=default&var-period=300) (filter for `mhv-ora-prod-fhir` for HAPI FHIR Database metrics)
 
 ### MHV Other APIs
 - Self Entered Data
@@ -83,6 +87,7 @@ The MHV API service layer utlizes AppDynamics for APM. This section will provide
 
 ### Auth 
 - Description of how auth works between vets-api and MHV API
+- [mhv-security-api Service](https://grafana.myhealth.va.gov/d/6FK74bqMk13/mhv-security-api?orgId=1&refresh=30s&from=now-1h&to=now)
 
 
 ## Feature Toggles 
