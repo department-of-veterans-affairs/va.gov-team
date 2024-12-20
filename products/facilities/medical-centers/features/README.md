@@ -75,7 +75,23 @@ Lovell is a VAMC System that is a single facility that accepts both VA and DOD b
 
 In some cases, if the content needs to vary for the beneficiary audience, that is achieved with two separate nodes and manipulating the navigation to present the correct page for the audience.
 
-TODO: Get DaveP to say more. 
+
+
+The Lovell health care system includes facilities which serve both Veterans and active duty personnel and other facilities which serve only Veterans or active duty personnel or enlisted recruits.
+
+VA and DoD benefits have different information and separate portals for completing tasks.
+Any given page within the Lovell VAMC might either serve the same page at 2 different URLS, or might serve two different pages for each benefit experience.
+
+Largely: 
+* 3 types of content that have listing pages / nodes: Events, News releases, Stories, Staff profiles.
+
+Federal level: 
+* Staff profiles
+* Story
+* News releases
+* VAMC System
+* VAMC Detail pages
+* 
 
 Tricare: https://www.va.gov/lovell-federal-health-care-tricare/
 VA: https://www.va.gov/lovell-federal-health-care-va/
