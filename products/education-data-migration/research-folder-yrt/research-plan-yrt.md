@@ -3,7 +3,7 @@
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.*
 
 ## Background
-Briefly describe the background of your product. Consider:
+Briefly describe the background of your product. Consider: MAKE CHANGES HERE 
 - What problem is your product trying to solve?
 - Where is your product situated on VA.gov? (ex: auth vs. unauth)
 - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
