@@ -41,7 +41,7 @@
     -  General Check-in - Good
     -  General Check-in - Bad
 14. Determine the % of 1's in the 4 columns above by dividing by the total number of comments
-15. Copy the % for each of the 4 columns above into [this spreadsheet]()
+15. Copy the % for each of the 4 columns above into [this VSignalsGraphs spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/VSignals%20Graphs.xlsm)
     - Add your new date range to the bottom of the table
     - Copy the % for each of the 4 columns to the table
     - Click on each of the 2 graphs and change the data range to include your new date range
