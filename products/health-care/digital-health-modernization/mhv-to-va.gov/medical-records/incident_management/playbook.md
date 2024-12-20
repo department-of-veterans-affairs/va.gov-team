@@ -92,6 +92,9 @@ The MHV API service layer utlizes Grafana for APM. This section will provide lin
 ## Pager Duty
 We utlize [DSVA Pager Duty](https://dsva.pagerduty.com/service-directory/PELVB5Q) to restrict access to Medical Records on va.gov for both planned maintenance and unplanned downtime events. 
 
+- There is also a Slack integration that will schedule the Pager Duty window along with pausing all relevant tagged alerts from Datadog monitors
+- TODO - more info/link for Slack integration
+
 ## Feature Toggles 
 
 Feature Toggles are used to enable/disable specific functionality without requiring deployment of new code.  The following feature toggles are active for Medical Records as of December 20, 2024
