@@ -71,7 +71,7 @@ We utilize Datadob Remote User Monitoring (RUM) to visualize the medical records
 - As of Dec 20, 2024, the [RUM Medical Record configuration](https://github.com/department-of-veterans-affairs/vets-website/blob/bf07d09dfba4004dda8941e47faac253758ab8af/src/applications/mhv-medical-records/containers/App.jsx#L104) is set to sample 100% of sessions and 50% with replay. This will allow us to have great visibility into the user experience at launch, but these values must be lowered once the application is determined to be stable
 
 ## Backend MHV API System Monitoring
-The MHV API service layer utlizes AppDynamics for APM. This section will provide links to quickly access AppDynamics visualizations for specific backend services:
+The MHV API service layer utlizes Grafana for APM. This section will provide links to quickly access Grafana visualizations for specific backend services:
 
 - [Overall system health dashboard](https://grafana.myhealth.va.gov/d/IZf0bAkMk/system-health?orgId=1&refresh=30s&from=now-15m&to=now)
 
