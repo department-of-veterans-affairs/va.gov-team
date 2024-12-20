@@ -7,7 +7,7 @@ This document will provide links to Application Performance Monitoring (APM) too
 ## Process/Incident Response - MEDICAL RECORDS
 
 **If a critical severity issue arises:**
-- Medical Records on va.gov will be put in a disabled state for all users (using either [feature flags](#feature-toggles), PagerDuty messaging, or a combination of both
+- Medical Records on va.gov will be put in a disabled state for all users (using either [feature flags](#feature-toggles), [PagerDuty messaging](#pager-duty), or a combination of both
 - Debugging will start immediately
 - The fix will be tested and deployed through normal CI/CD practices
 - Medical Records on va.gov will be brought back online and monitored
@@ -89,6 +89,8 @@ The MHV API service layer utlizes Grafana for APM. This section will provide lin
 - Description of how auth works between vets-api and MHV API
 - [mhv-security-api Service](https://grafana.myhealth.va.gov/d/6FK74bqMk13/mhv-security-api?orgId=1&refresh=30s&from=now-1h&to=now)
 
+## Pager Duty
+We utlize [DSVA Pager Duty](https://dsva.pagerduty.com/service-directory/PELVB5Q) to restrict access to Medical Records on va.gov for both planned maintenance and unplanned downtime events. 
 
 ## Feature Toggles 
 
