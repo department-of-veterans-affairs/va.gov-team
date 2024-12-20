@@ -31,27 +31,29 @@ All issues that were closed in this timeframe:
 -->
 
 **Oracle Health**
-- ❗ 🟦 [Recent clinics endpoint enhancements #98521](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98521)
-- ✔️ [Recent clinics endpoint is returning a clinic with null attributes #98519](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98519)
+- ✔️ [Recent clinics endpoint enhancements #98521](98521)
+- ✔️ [Recent clinics endpoint is returning a clinic with null attributes #98519](98519)
 - ✔️ [Update appointment request type logic to accommodate Cerner appointments #92185](92185)
 - ✔️ 🟧 [CAIA Intake] Appointments Team: Provider selection screen for Oracle Health scheduling flow - https://github.com/department-of-veterans-affairs/va.gov-team/issues/94990
 - ✔️ 🟧 OH Scheduling improvements: Dead ends from facility page - https://github.com/department-of-veterans-affairs/va.gov-team/issues/91499
 
 **Direct Scheduling OH**
-- ❗ 🟩 [Add initial screen and placeholder data for Select a Provider step #98224](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98224)
-- ✔️ [Add patient relationship endpoint service and mocks #89641](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/89641)
-- 🟩 [Add location and typeOfCare arguments and functionality to patient relationships #98864](https://github.com/orgs/department-of-veterans-affairs/projects/1554/views/6?pane=issue&itemId=90556977&issue=department-of-veterans-affairs%7Cva.gov-team%7C98864)
+- ❗ 🟩 [Add initial screen and placeholder data for Select a Provider step #98224](98224)
+- ✔️ [Add patient relationship endpoint service and mocks #89641](89641)
+- 🟩 [Add location and typeOfCare arguments and functionality to patient relationships #98864](98864)
 - ✔️ [Update alert on choose a VA location page - Part 7 #98190](98190)
-- 🟩 [Update alert on choose a VA location page - Part 8 #98191](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/98191)
+- ✔️ [Update alert on choose a VA location page - Part 8 #98191](98191)
 - 🟩 [Update alert on choose a VA location page - Part 9 #98192](98192)
 - ✔️ 🟧 OH Scheduling improvements: Dead ends from facility page https://github.com/department-of-veterans-affairs/va.gov-team/issues/91499
 
 **Appointments UI Improvements**
-- ✔️ [Remove links to My VA Health from DS location page #96902](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96902)
-- ✔️ [Update alert [User is registered at 2+ facilities - dead ends] - Part 3 #96999](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96999)
+- ✔️ [Update content for can't show all appts expandable alert #93409](93409)
+- ✔️ [Remove links to My VA Health from DS location page #96902](96902)
+- ✔️ [Update alert [User is registered at 2+ facilities - dead ends] - Part 3 #96999](96999)
 - ✔️ [Remove aria-label from print buttons #96012](96012)
 - ✔️ [Button group component is misaligned #97935](97935)
 - ✔️ [Update calendar page to include the clinic name #98807](98807)
+- ✔️ [Text change for phone appointment joining instructions #96349](96349)
 - ✔️ 🟧 Staging Review finding: Confusing language when directing users to contact facility - https://github.com/department-of-veterans-affairs/va.gov-team/issues/88453
  
 **Immediate care alerts improvement**
