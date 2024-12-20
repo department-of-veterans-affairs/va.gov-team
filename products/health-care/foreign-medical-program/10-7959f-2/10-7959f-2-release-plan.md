@@ -1,3 +1,4 @@
+# f2 release plan
 
 <!-- markdownlint-disable MD024 -->
 # Release Plan Template
@@ -33,9 +34,9 @@ You'll need to create a feature toggle (or two) for any moderately or significan
 
 List the features toggles here.
 
-| Toggle name | Description |
-| ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| Toggle name  | Description                                                  |
+|--------------|--------------------------------------------------------------|
+| form107959f2 | If enabled shows the digital form experience for form 10-7959f-2 (Foreign Medical Program claim form) |
 
 ## Step 2: Validation
 
@@ -90,7 +91,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
 
 > Example
->
+> 
 > - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
 
 [FILL_IN]: create your rollback plan
@@ -99,23 +100,7 @@ Even though your feature has been tested and ready, production is still a differ
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
-
-#### Results
-
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
+- This release will not include UAT
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
@@ -123,16 +108,14 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
+- Desired date range: 1/6/2024 - 1/17/2024
+- How will you make the product available in production while limiting the number of users who can find/access it: feature toggle.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
+  - upload error rate < 5%
+  - zero silent failures
+  - callback error rate < 1%
+- Links to the dashboard(s) showing "success criteria" metrics: [ivc-champva-forms](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=weekly&from_ts=1734391252265&to_ts=1734709253529&live=true)
 - Who is monitoring the dashboard(s)?: [FILL_IN]
-
-*The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
 ### Stage A: Canary
 
@@ -140,8 +123,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+- Length of time: 24 hours and >0 submits
+
 
 #### Results
 
@@ -157,8 +140,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
+- Length of time: 2 days
+- Percentage of Users: 25%
 
 #### Results
 
@@ -174,7 +157,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 2 days
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
@@ -191,7 +174,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 2 days
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
@@ -248,7 +231,7 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 *To be completed once you have gathered your initial set of data, as outlined above.*
 
 1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-1. What qualitative feedback have you gathered from users or other stakeholders?
-1. Which assumptions you listed in your product outline were/were not validated?
-1. How might your product evolve now or in the future based on these results?
-1. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
+2. What qualitative feedback have you gathered from users or other stakeholders?
+3. Which assumptions you listed in your product outline were/were not validated?
+4. How might your product evolve now or in the future based on these results?
+5. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
