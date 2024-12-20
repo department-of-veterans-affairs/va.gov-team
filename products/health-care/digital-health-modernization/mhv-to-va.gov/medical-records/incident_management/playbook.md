@@ -109,7 +109,7 @@ We utlize [DSVA Pager Duty](https://dsva.pagerduty.com/service-directory/PELVB5Q
 
 Feature Toggles are used to enable/disable specific functionality without requiring deployment of new code.  The following feature toggles are active for Medical Records as of December 20, 2024
   
-| Feature Toggle Name                      | Description                                                                      | Current State | 
+| Feature Toggle Name                      | Description                                                                      | MR Launch State | 
 | ---------------------------------------- | -------------------------------------------------------------------------------- | ------------- | 
 | mhvMedicationsDisplayAllergies           | Show Allergies                                                                   | true          |                       
 | mhvMedicalRecordsDisplayVaccines         | Show Vaccines                                                                    | true          |                       
@@ -117,10 +117,10 @@ Feature Toggles are used to enable/disable specific functionality without requir
 | mhvMedicalRecordsDisplayLabsAndTests     | Show Labs/Test                                                                   | true          |                       
 | mhvMedicalRecordsDisplayConditions       | Show Conditions                                                                  | true          |                       
 | mhvMedicalRecordsDisplayNotes            | Show Notes                                                                       | true          |                       
-| mhvMedicalRecordsDisplaySettingsPage     | Show Settings                                                                    | false         |                       
-| mhvIntegrationMedicalRecordsToPhase1     | Download:<br>-Blue Button<br>-CCD<br>-Self-Entered Data<br>Hides:<br>-Learn More | false         |                       
-| mhvTransitionalMedicalRecordsLandingPage | Show `Coming Soon`<br>landing page                                                                                 | true          |                       
-| mhvMedicalRecordsAllowTxtDownloads       | Enables:<br> Print and Download<br>on domain pages                              | true          |                       
+| mhvMedicalRecordsDisplaySettingsPage     | Show Settings                                                                    | true          |                       
+| mhvIntegrationMedicalRecordsToPhase1     | Download:<br>-Blue Button<br>-CCD<br>-Self-Entered Data<br>Hides:<br>-Learn More | true          |                       
+| mhvTransitionalMedicalRecordsLandingPage | Show `Coming Soon`<br>landing page                                               | true          |                       
+| mhvMedicalRecordsAllowTxtDownloads       | Enables:<br> Print and Download<br>on domain pages                               | true          |                       
 | mhvMedicalRecordsToVaGovRelease          | Enable overalll access to MR                                                     | true          |                       
 | mhvMedicalRecordsRedactFHIRClientLogs    | vets-api - hide PII in logs                                                      | false         |                       
 | mhvMedicalRecordsNewEligibilityCheck     | vets-api - use new eligibility<br>check instead of relying on<br>account type    | false         |                       
