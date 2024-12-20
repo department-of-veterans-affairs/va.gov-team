@@ -7,7 +7,7 @@ Briefly describe the background of your product. Consider:
 - What problem is your product trying to solve?
 - Where is your product situated on VA.gov? (ex: auth vs. unauth)
 - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
-[Link to product brief](url goes here).
+[Link to product brief](url goes here).test
 
 ### OCTO Priorities
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
