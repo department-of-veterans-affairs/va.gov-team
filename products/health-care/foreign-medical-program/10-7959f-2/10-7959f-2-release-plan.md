@@ -54,7 +54,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Links to the dashboard(s) showing "success criteria" metrics: [ivc-champva-forms](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=weekly&from_ts=1734391252265&to_ts=1734709253529&live=true)
 - Who is monitoring the dashboard(s)?: [FILL_IN]
 
-### Stage A: Canary
+### Stage A: Canary - 1/6/2025
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
@@ -71,7 +71,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage B: 25% of users
+### Stage B: 25% of users - 1/7/2025
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
@@ -88,7 +88,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage C: 50% of users
+### Stage C: 50% of users - 1/0/2025
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
