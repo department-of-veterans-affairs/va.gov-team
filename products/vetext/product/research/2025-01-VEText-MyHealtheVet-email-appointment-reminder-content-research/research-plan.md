@@ -85,7 +85,7 @@ Provide a link to any materials you need to run your study, including any materi
 For moderated interviews:
 [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md)
 
-MHV Template ([current mhv email template](http://products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/current-mhv-emailmockup.md) and proposed)
+MHV Template [(current mhv email template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/current-mhv-emailmockup.md) and proposed)
 
 
 	
