@@ -140,4 +140,12 @@
 | 138 | [How to protect your identity and your VA benefits from scammers](https://www.va.gov/resources/how-to-protect-your-identity-and-your-va-benefits-from-scammers/) | Health care/Disability/Education | 10/8/24 |
 | 139 | [Disaster help](https://www.va.gov/resources/disaster-help/) | Health care/Disability/Housing | 10/9/24 |
 | 140 | [Asistencia frente a una catástrofe](https://www.va.gov/resources/disaster-help-esp/) | Health care/Disability/Housing | 10/10/24 |
-| 140 | [C-123 aircraft Agent Orange exposure and disability compensation](https://www.va.gov/resources/c-123-aircraft-agent-orange-exposure-and-disability-compensation/)) | Disability | 12/19/24 |
+| 141 | [Getting care through CHAMPVA](https://www.va.gov/resources/getting-care-through-champva/) | Family and caregiver benefits | 12/16/24 |
+| 142 | [How to file a CHAMPVA claim](https://www.va.gov/resources/how-to-file-a-champva-claim/) | Family and caregiver benefits | 12/16/24 |
+| 143 | [Meds by Mail for CHAMPVA and other family member programs](https://www.va.gov/resources/meds-by-mail-for-champva-and-other-family-member-programs/) | Family and caregiver benefits | 12/16/24 |
+| 144 | [Prescription medications covered through Meds by Mail](https://www.va.gov/resources/prescription-medications-covered-through-meds-by-mail/)| Family and caregiver benefits | 12/16/24 |
+| 145 | [Getting care for spina bifida and other birth defects](https://www.va.gov/resources/getting-care-for-spina-bifida-and-other-birth-defects/)| Family and caregiver benefits | 12/16/24 |
+| 146 | [How to file a claim for spina bifida or other birth defects](https://www.va.gov/resources/how-to-file-a-claim-for-spina-bifida-or-other-birth-defects/)| Family and caregiver benefits | 12/16/24 |
+| 147 | [C-123 aircraft Agent Orange exposure and disability compensation](https://www.va.gov/resources/c-123-aircraft-agent-orange-exposure-and-disability-compensation/) | Disability | 12/19/24 |
+
+
