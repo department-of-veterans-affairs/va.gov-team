@@ -7,14 +7,15 @@ This document will provide links to Application Performance Monitoring (APM) too
 ## Process/Incident Response - MEDICAL RECORDS
 
 **If a critical severity issue arises:**
--Medical Records on va.gov will be put in a disabled state for all users (using either [feature flags](#feature-toggles), PagerDuty messaging, or a combination of both
--Debugging will start immediately
--The fix will be tested and deployed through normal CI/CD practices
--Medical Records on va.gov will be brought back online and monitored
+- Medical Records on va.gov will be put in a disabled state for all users (using either [feature flags](#feature-toggles), PagerDuty messaging, or a combination of both
+- Debugging will start immediately
+- The fix will be tested and deployed through normal CI/CD practices
+- Medical Records on va.gov will be brought back online and monitored
 
 **If a low-severity issue arises:**
--A fix will be loaded to the backlog (JIRA) and prioritized
--The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
+- A fix will be loaded to the backlog (JIRA) and prioritized
+- The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
+
 
 
 ## Endpoint monitoring
