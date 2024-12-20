@@ -6,19 +6,51 @@
 ## How to Collect and Process Feedback
 
 1. Submit a data collection request ticket to the Contact Center (see [How to Submit a Request Ticket](#how-to-submit-a-request-ticket)).
-2. The Contact Center will email the Veteran feedback to the address you provided in the request ticket.
-3. Once you get the email, download the feedback spreadsheet to your machine on the VA network. 
-4. Rename the spreadsheet in the following format (this lets us sort all the feedback files by date):
-   `CIE Medallia [YYYY] Q[#] Sprint[##]` 
-   For example: CIE Medallia 2024 Q1 Sprint 5
-5. Scrub the feedback of PII/PHI. Read through every user comment and replace personal information with asterisks or number symbols. Replace data with codes as follows
-   - Email addresses - PII_EMAIL
-   - Names - PII_NAME
-   - Social security numbers - PII_SSN
-   - Phone numbers - PII_PHONE
-   - Other identifying info - PII_OTHER
-6. Create a GitHub document similar to [this one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/2024/2024-05-16-Medallia.md)
-7. Paste a link to the document in [check-in-experience Slack channel](https://dsva.slack.com/archives/C022AC2STBM) and call out these folks:  Kay Lawyer, Kristen McConnell, Stephen Barrs and the CIE team
+2. The Contact Center will email the Veteran feedback to the VA email address you provided in the request ticket.
+3. Once you get the email, open the spreadsheet in the browser
+4. Download this spreadsheet that has macros for processing the data
+5. Copy everything from the Medallia spreadsheet to the macro spreadsheet
+6. Run this macro to format the data that you copied into the spreadsheet: FormatMedalliaData
+7. Wrap all columns so that you can see the titles & data
+8. Filter the macro spreadsheet to hide all rows with blank comments
+9. Read each comment and place a '1' in the column that matches the comment contents
+   - Like PCI
+       - Place a '1' in this column if the Veteran indicated that they like PCI
+   - Staff not using PCI even though Veterans are
+       - Place a '1' in this column if the Veteran used PCI but staff told them it doesn't work or the clinic doesn't use it
+   - Trouble navigating larger facilities
+       - Place a '1' in this column if the Veteran had issues finding where to go in the facility
+   - Staff not contacting Veterans when appointments are canceled
+       - Place a '1' in this column if the Veteran thought they had an appointment but it was cancelled without their knowledge 
+   - Concerns with check in at kiosks
+       - Place a '1' in this column if the Veteran indicates they want the kiosk back 
+   - Facilities still using QR Codes
+       - Place a '1' in this column if the Veteran is trying to use the QR code 
+   - Long wait times at check in or no staff at check in counter
+       - Place a '1' in this column if the Veteran encountered long wait times at check-in counters or found no staff at check-in counter 
+   - Conflicting instructions to Veterans in appointment reminders
+       - Place a '1' in this column if the Veteran was confused by the appointment reminders 
+   - Trouble updating contact info
+       - Place a '1' in this column if the Veteran wanted to update their contact information via PCI but got frustrated when they found they could not 
+   - Issues verifying identity
+       - Place a '1' in this column if the Veteran had trouble verifying their identity 
+   - Pre-Check-in or Check-in link issues
+       - Place a '1' in this column if the Veteran if the Veteran encountered issues with their PCI link 
+   - Too many notifications
+       - Place a '1' in this column if the Veteran felt they were receiving too many notifications
+11. Run this macro to copy the comments for columns where you placed a '1': CopyCommentsAsMarkDown
+12. Run this macro to gather the CSAT scores: CalculateCSAT
+    - CSAT scores are reported for our monthly metrics to OCTO, see ???? 
+14. Create a GitHub document similar to [this one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/2024/2024-05-16-Medallia.md)
+    - Copy the comments from the file created by the CopyCommentsAsMarkDown macro to this new GitHub document 
+    - Scrub the comments of PII/PHI. Read through every user comment and replace personal information with asterisks or number symbols. Replace data with codes as follows
+        - Email addresses - PII_EMAIL
+        - Names - PII_NAME
+        - Social security numbers - PII_SSN
+        - Phone numbers - PII_PHONE
+        - Other identifying info - PII_OTHER   
+13. Commit the new GitHub document
+14. Paste a link to the document in [check-in-experience Slack channel](https://dsva.slack.com/archives/C022AC2STBM) and call out these folks:  Kay Lawyer, Kristen McConnell, Stephen Barrs and the CIE team
 
 ## How to Submit a Request Ticket
 
