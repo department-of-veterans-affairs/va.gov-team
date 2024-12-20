@@ -1,10 +1,10 @@
-# MEDICAL RECORDS Incident Response Playbook* 
+# MEDICAL RECORDS Incident Response Playbook 
 ### Scope 
 This document is relevant to the medical records section of MHV on va.gov and includes information about troubleshooting within the va.gov ecosystem as well as the downstream MHV API systems. Medical Records (MR) is an authenticated only experience, and the landing page in [Staging can be accessed here](https://staging.va.gov/my-health/medical-records).  
 ### Purpose
 This document will provide links to Application Performance Monitoring (APM) tools that provide visibility, monitoring, alerting and logging for the front end (vets-website), middleware (vets-api) and back end (MHV API) systems.  
 
-## Process/Incident Response - MEDICAL RECORDS
+## Process/Incident Response 
 
 **If a critical severity issue arises:**
 - Medical Records on va.gov will be put in a disabled state for all users (using either [feature flags](#feature-toggles), [PagerDuty messaging](#pager-duty), or a combination of both
@@ -81,19 +81,29 @@ The MHV API service layer utlizes Grafana for APM. This section will provide lin
 - [AWS RDS Metrics](https://grafana.myhealth.va.gov/d/HdeaRHxWz/amazon-rds?orgId=1&from=now-6h&to=now&var-datasource=000000003&var-region=default&var-period=300) (filter for `mhv-ora-prod-fhir` for HAPI FHIR Database metrics)
 
 ### MHV Other APIs
+#### TODO What other MHV APIs are being used by MR? Link to relevant Grafana dashboards 
 - Self Entered Data
 - Medical Records Downloads
 - +++
 
 ### Auth 
+#### TODO More info needed here
 - Description of how auth works between vets-api and MHV API
 - [mhv-security-api Service](https://grafana.myhealth.va.gov/d/6FK74bqMk13/mhv-security-api?orgId=1&refresh=30s&from=now-1h&to=now)
+
+## External Dependencies
+MHV API connects to various downstream systems to support Medical Records use cases:
+#### TODO - Confirm these are correct and add any additional
+- VistA Interface Adapter (VIA) - provides Vaccines, Vitals, Health Conditions, Discharge Summaries, Progress Notes, Labs (Chem/Hem, Microbiology, )
+- Health Data Repository (HDR) - Provides Allergies, Labs (Pathology)
+- CVIX - Images
+- +++ ?
 
 ## Pager Duty
 We utlize [DSVA Pager Duty](https://dsva.pagerduty.com/service-directory/PELVB5Q) to restrict access to Medical Records on va.gov for both planned maintenance and unplanned downtime events. 
 
 - There is also a Slack integration that will schedule the Pager Duty window along with pausing all relevant tagged alerts from Datadog monitors
-- TODO - more info/link for Slack integration
+#### TODO - more info/link for Slack integration
 
 ## Feature Toggles 
 
