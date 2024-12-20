@@ -34,24 +34,24 @@ Drupal then embeds that content on the related nodes in a way that shows local E
 Centralized Content is used on all modernized Facility types. (As of Nov 2024: VAMCs, Vet Centers, VBA Regional Offices.)
 
 ## VAMC System
-VA Medical Care (VAMC) facilities are organized into Systems. A VAMC System is also a Drupal entity that includes a standard information architecture (in all but 2 cases). 
+VA Medical Care (VAMC) facilities are organized into Systems. There are currently (Dec 2024) 140 existing VAMC Systems. A VAMC System is also a Drupal entity that includes a standard information architecture (in all but 2 cases). 
 
-The VAMC System node from Drupal acts as the System landing page on VA.gov (with the exception of Manila), and includes a left side navigation bar to find other content. Other data entities described in more detail below are effectively children of VAMC Systems: 
+The VAMC System node from Drupal acts as the System landing page on VA.gov (with the exception of Manila), and includes a left side navigation bar to find other content. Other data entities described in more detail below are effectively children or facets of VAMC Systems: 
 * VAMC System
-  * operating status
+  * Operating status page
   * VAMC System Location lists
   * VAMC Facilities
 * Top task pages
-  * Medical Records
   * VAMC Billing & Insurance
   * VAMC Medical Records office
 * Events
 * Leadership Lists & Staff profiles
-* Stories
-* News releases
+* Story listings & Stories
+* News release listing & News release pages
 * VAMC Programs pages
 * VAMC Policy pages
 * VAMC Police pages
+* Services
 
 For more flexible content that is not strictly defined by VAMC System IA, editors can use VAMC Detail pages.
 
@@ -104,7 +104,6 @@ Top task links are handled in a similar way, and links from those tasks will var
 ![image (51)](https://github.com/user-attachments/assets/20873e41-fee6-4ba9-bac4-750de8d0e578)
 
 
-
 ### VA Manila
 https://www.va.gov/manila-va-clinic/
 
@@ -126,17 +125,17 @@ System Health Services appear on a VAMC's health services page, within accordion
 **Related KBs:**
 [How to add or edit a VAMC system health service](https://prod.cms.va.gov/help/vamc/how-to-add-or-edit-a-vamc-system-health-service)
 
-### Health Services list[
+### Health Services list
 [All published Health Services lists](https://prod.cms.va.gov/admin/content?title=&type=health_services_listing&moderation_state=published&owner=All)
 
-Health Services lists are pages at the System level that list all of the available VAMC System Health Services for the current System, as well as optional featured content that can be specified in Drupal.
+Health Services lists are pages at the System level that list all of the available VAMC System Health Services for the current System, and link to Facilities at which the Service is offered, as well as optional featured content that can be specified in Drupal.
 
 **Related KBs:**
 [How to edit a health services List](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-health-services/how-to-edit-a-health-services-list)
 
 
 ### VAMC Facility Health services
-VAMC Facility Health service is a Drupal node that establishes a relationship between a VAMC System Health Service, and a VAMC Facility, and indicates that the given Service can be / is offered within that Facility. Facility Health Services appear on a VAMC Facility page, within accordions.
+VAMC Facility Health service is a Drupal node that establishes a relationship between a VAMC System Health Service and a VAMC Facility, and indicates that the given Service can be / is offered within that Facility. Facility Health Services appear on a VAMC Facility page, within accordions.
   * **Example:** https://www.va.gov/minneapolis-health-care/locations/minneapolis-va-medical-center/#complementary-and-integrative-health
   *  [All VAMC Facility Health Services in Drupal](https://prod.cms.va.gov/admin/content?title=&type=health_care_local_health_service&moderation_state=All&owner=All)
 
