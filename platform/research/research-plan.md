@@ -5,7 +5,7 @@ VEText is a platform for sending SMS messages to Veterans. These messages can be
 
 VEText will begin additionally sending the email appointment reminders for MyHealtheVet, as MyHealtheVet migrates to VA.gov. We would like to evaluate the content, cadence or functionality of those email appointment reminders by asking Veterans for feedback. This feedback will determine if changes should be made to the content, cadence or functionality in order to improve Veterans’ experience using email health appointment reminders.
 
-[Link to product brief][(url goes here)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/9c884d56087c31b9422840cc233009d12e870b9b/products/vetext/README.md).
+[Link to Team Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/9c884d56087c31b9422840cc233009d12e870b9b/products/vetext)
 
 ### OCTO Priorities 
 
@@ -57,7 +57,7 @@ Consider bucketing research questions under research goals. For each question, t
   
 
 ### Hypothesis
-Our hypothesis is that Veterans want more information in their emails including details about the location and provider for their health appointments and that Veterans currently do not find the MHV email reminders as useful as the appointment list within the MHV portal.
+Our hypothesis is that Veterans want more information in their emails including details about the location and provider for their health appointments and that Veterans currently do not find the MHV email reminders as useful as the appointment list within the MHV portal, which includes more detailed appointment information.
 
 
 ## Methodology	
@@ -82,7 +82,7 @@ Remote, Zoom
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
-- [Link to conversation guide]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d7f0e71a79e78a2e736836a32305c31962449fc6/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md)) 
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md)
 
 - [Link to email sample](url goes here)
 
