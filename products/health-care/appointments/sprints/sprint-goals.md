@@ -13,12 +13,9 @@ All issues in that were closed in this timeframe:
 - UAE UX project: https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20project%3Adepartment-of-veterans-affairs%2F1214%20is%3Aissue%20closed%3A%3E%3D2024-12-25%20closed%3A%3C%3D2025-1-27%20
 
 -->
-
-- **Production Support**
-    - ❗ 🟩 [Use platform's renderWithStoreAndRouter#96542](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96542))
-
-- **Appointments UI Improvements**
-    - ❗ 🟩 [Update the OH redirect alert on the VAOS home page #96736](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/96736)
+    
+- **Oracle Health**
+    - 🟦 [Recent clinics endpoint enhancements - Filter by type of care #99311](99311)
 
 ## SPRINT 22 - 12/11/2024-12/24/2024 
 
