@@ -43,21 +43,32 @@ All issues that were closed in this timeframe:
 - 🟩 [Update alert on choose a VA location page - Part 9 #98192](98192)
 - ✔️ 🟧 OH Scheduling improvements: Dead ends from facility page https://github.com/department-of-veterans-affairs/va.gov-team/issues/91499
 
-**Appointments UI Improvements**
+**Appointments UI Enhancements**
 - ✔️ [Update content for can't show all appts expandable alert #93409](93409)
 - ✔️ [Remove links to My VA Health from DS location page #96902](96902)
 - ✔️ [Update alert [User is registered at 2+ facilities - dead ends] - Part 3 #96999](96999)
 - ✔️ [Remove aria-label from print buttons #96012](96012)
-- ✔️ [Button group component is misaligned #97935](97935)
+- ✔️ [Bug: Button group component is misaligned #97935](97935)
 - ✔️ [Update calendar page to include the clinic name #98807](98807)
 - ✔️ [Text change for phone appointment joining instructions #96349](96349)
 - ✔️ 🟧 Staging Review finding: Confusing language when directing users to contact facility - https://github.com/department-of-veterans-affairs/va.gov-team/issues/88453
+- ✔️ 🟩 Change headings to questions - Part 2 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/99201
+- ✔️ 🟧 [Content] Update content for can't show all appts expandable alert - https://github.com/department-of-veterans-affairs/va.gov-team/issues/93387
+- ✔️ 🟧 Staging Review finding: Plain language standards in caution message - https://github.com/department-of-veterans-affairs/va.gov-team/issues/91565
  
 **Immediate care alerts improvement**
 - ✔️ 🟧 [CAIA Intake] Appointments Team: First time scheduling "The scheduling tool is not meant for emergency care" message - https://github.com/department-of-veterans-affairs/va.gov-team/issues/93755
 
+**VAOS tech debt**
+- ✔️ 🟩 [Feature] Refactor appointment list directory structure - https://github.com/department-of-veterans-affairs/va.gov-team/issues/97129
+- ✔️ 🟩🟦 Remove feature toggles from dev environment - https://github.com/department-of-veterans-affairs/va.gov-team/issues/95926
+- ✔️ 🟩 [Spike] - Document Appointment Type logic - https://github.com/department-of-veterans-affairs/va.gov-team/issues/90109
+
+**Appointment details null state tracking**
+- ✔️ 🟩 Add appointment details null state tracking - https://github.com/department-of-veterans-affairs/va.gov-team/issues/95657
+  
 **Sunset MHV Classic Appointments**
-- Audit current state of navigation between MHV classic and VA.gov - https://github.com/department-of-veterans-affairs/va.gov-team/issues/89671
+- ✔️ 🟧 Audit current state of navigation between MHV classic and VA.gov - https://github.com/department-of-veterans-affairs/va.gov-team/issues/89671
 
 ## SPRINT 21 - 11/27/2024-12/10/2024
 - **Production Support**
