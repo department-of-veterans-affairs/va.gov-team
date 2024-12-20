@@ -168,8 +168,8 @@ Appointments: Appointments and After Visit Summaries will be found in “Appoint
   - May 2024 - Health Conditions - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/health-conditions/rollout_checklist.md)
   - Feb 2024 - Vitals - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/vitals/rollout_checklist.md)
   - Sep 2024 - Lab and Test Results - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/labs-and-test-results/rollout_checklist.md)
-  - TBD 2024 - Blue Button - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/blue-button/rollout_checklist.md)
-  - TBD 2024 - Continuity of Care Document - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/ccd/rollout_checklist.md)---
+  - Dec 2024 - Blue Button/Self Entered - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/blue-button/rollout_checklist.md)
+  - Dec 2024 - Continuity of Care Document - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/ccd/rollout_checklist.md)---
 
 ## Solution Narrative
 
