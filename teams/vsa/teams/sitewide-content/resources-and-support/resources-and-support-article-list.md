@@ -140,3 +140,4 @@
 | 138 | [How to protect your identity and your VA benefits from scammers](https://www.va.gov/resources/how-to-protect-your-identity-and-your-va-benefits-from-scammers/) | Health care/Disability/Education | 10/8/24 |
 | 139 | [Disaster help](https://www.va.gov/resources/disaster-help/) | Health care/Disability/Housing | 10/9/24 |
 | 140 | [Asistencia frente a una catástrofe](https://www.va.gov/resources/disaster-help-esp/) | Health care/Disability/Housing | 10/10/24 |
+| 140 | [C-123 aircraft Agent Orange exposure and disability compensation](https://www.va.gov/resources/c-123-aircraft-agent-orange-exposure-and-disability-compensation/)) | Disability | 12/19/24 |
