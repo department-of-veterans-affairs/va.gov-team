@@ -71,32 +71,32 @@ The VAMC System entity in Drupal has a setting, "VA Health Connect and Health Re
 There are two unique VAMC Systems that do not follow the standard IA: Lovell, and Manila.
 
 ### Lovell
-Lovell is a VAMC System that is a single facility that accepts both VA and DOD benefits. Any given page within the Lovell System can be viewed as a VA beneficiary or a Tricare beneficiary, using a toggle on the page. URLs are manipulated to achieve this. 
+Lovell is a unique VAMC health care system. Other VAMC Systems only service Veterans. Lovell includes some facilities which serve both Veterans and active duty personnel, and other facilities which serve only Veterans OR active duty personnel OR enlisted recruits. Veterans may use VA benefits; active duty or enlisted recruits may use DoD benefits, also referred to as TRICARE. VA and TRICARE benefits offer different information and separate portals for completing top tasks (e.g. scheduling appts, Rx, accessing medical records, etc).
 
-In some cases, if the content needs to vary for the beneficiary audience, that is achieved with two separate nodes and manipulating the navigation to present the correct page for the audience.
+#### Drupal Sections 
+[Lovell Drupal content](https://prod.cms.va.gov/admin/content?title=&type=All&moderation_state=All&owner=347)
 
-
-
-The Lovell health care system includes facilities which serve both Veterans and active duty personnel and other facilities which serve only Veterans or active duty personnel or enlisted recruits.
-
-VA and DoD benefits have different information and separate portals for completing tasks.
-Any given page within the Lovell VAMC might either serve the same page at 2 different URLS, or might serve two different pages for each benefit experience.
-
-Largely: 
-* 3 types of content that have listing pages / nodes: Events, News releases, Stories, Staff profiles.
-
-Federal level: 
-* Staff profiles
-* Story
-* News releases
-* VAMC System
-* VAMC Detail pages
-* 
+* Lovell Federal health care - Used if Lovell content applies to both beneficiary audiences
+  * Lovell - TRICARE -- used for content that is active-duty/enlisted facing
+  * Lovell - VA -- used for content that is Veteran facing
 
 Tricare: https://www.va.gov/lovell-federal-health-care-tricare/
 VA: https://www.va.gov/lovell-federal-health-care-va/
-[Lovell Drupal content
-](https://prod.cms.va.gov/admin/content?title=&type=All&moderation_state=All&owner=347)
+
+#### Front-end content
+Any given page within the Lovell System can be viewed as a VA beneficiary or a TRICARE beneficiary, using a toggle on the page. URLs are manipulated to achieve this. Any given page within the Lovell VAMC might either serve the same page at 2 different URLS if the content does not vary per beneficiary audience, or might serve two different pages for each benefit experience, if content does vary. 
+
+Federal level content includes: 
+* VAMC System
+* VAMC Detail pages
+* * Event Listings & Events
+* News release listings and nodes
+* Story listings and Stories
+* Leadership Listing and Staff profiles
+
+Content that varies per beneficiary audience includes: 
+
+
 
 ### VA Manila
 https://www.va.gov/manila-va-clinic/
