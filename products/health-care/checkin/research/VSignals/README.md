@@ -1,11 +1,17 @@
-# How to Request and Process VSignals Feedback
+# How to Access and Process VSignals Feedback
 
-1. Ben Brasso will e-mail the VSignals team (Mahdi Blaine at mahdi.blaine@va.gov) on the Monday before a sprint ends to get two weeks worth of VSignals reports.
-
-3. Before the new sprint starts, Ben Brasso will copy two weeks of comments into our aggregated spreadsheet, which is available on OneDrive.
-    1. The VSignals reports that we receive are a query from all VSignals feedback containing the words check-in and/or travel pay.
-    2. If you need access to the OneDrive document and do not have it, message Ben.
-    3. Once the comments are copied, Ben will message the check-in team member completing this week’s analysis.
+1. Go to this [VSignals Live Feed & Search](https://va.voice.va.gov/sso/va/applications/ex_WEB-5/pages/1294?roleId=30908&f.search=%25kiosk%25%20OR%20%25check%20in%25%20OR%20%25check-in%25%20OR%20%25checkin%25%20NOT%20rx%20NOT%20pharmacy%20NOT%20prescription%20NOT%20prescriptions&f.question-score=k_va_vhaconsolidated_ease_scale5&f.timeperiod=10078&f.reporting-date=k_vavoice_response_date_timezone_datetime)
+    - Click on Time Period (top of the page)
+      ![image](https://github.com/user-attachments/assets/e4934e17-1a69-425f-a6fe-df7dd690629f)
+    - Click + to add a new time range
+      ![image](https://github.com/user-attachments/assets/1168c35c-c943-40e7-8d75-ba1c169726dc)
+    - Enter a new date range and click Save
+      ![image](https://github.com/user-attachments/assets/79973dd1-a94a-42a7-88b2-b45b7b3a358a)
+    - Scroll down halway and click Run on the right side of the page
+      ![image](https://github.com/user-attachments/assets/5fd01434-225c-4941-8284-a634da9d8cdf)
+    - Click download in the upper right and select Excel
+      ![image](https://github.com/user-attachments/assets/67fd2a07-32fe-43c6-a043-df0e153d4370)
+2.  
 4. The check-in team member completing the analysis will open the Excel spreadsheet and review each comment. To do this, copy the comments, dates, and type columns from the file provided by Ben and past these below the last reporting period's information in the **Outpatient (New) tab**.
     1. The comment categories and general guidelines for determining if a comments applies are as follows:
         1. **Mobile Check-in - Good and Mobile Check-in - Bad**
