@@ -111,6 +111,18 @@ expect that the following three scenarios will be covered:*
 - [MHV Medical Records MHV::PhrUpdateJob has exhausted its sidekiq queue Monitor](https://vagov.ddog-gov.com/monitors/199803)
 - [MHV Medical Records Imaging endpoint error response rate (vets-api vagov-prod) Monitor](https://vagov.ddog-gov.com/monitors/303429)
 - [MHV Medical Records API upstream response times Monitor](https://vagov.ddog-gov.com/monitors/172423)
+- [MHV Medical Records Self-Entered endpoint error response rate](https://vagov.ddog-gov.com/monitors/303428)
+- [MHV Medical Records Imaging endpoint error response rate](https://vagov.ddog-gov.com/monitors/303429)
+- [MHV Medical Records Downloads error response rate](https://vagov.ddog-gov.com/monitors/305460)
+- [MHV Vitals Error response rate](https://vagov.ddog-gov.com/monitors/195600)
+- [MHV Vaccines Error response rate](https://vagov.ddog-gov.com/monitors/181936)
+- [MHV Settings Status Error response rate](https://vagov.ddog-gov.com/monitors/299375)
+- [MHV Radiology Error response rate](https://vagov.ddog-gov.com/monitors/243573)
+- [MHV Labs and Tests Error response rate](https://vagov.ddog-gov.com/monitors/233487)
+- [MHV Health Conditions Error response rate](https://vagov.ddog-gov.com/monitors/202664)
+- [MHV Generate CCD Error response rate](https://vagov.ddog-gov.com/monitors/299319)
+- [MHV Care Summaries & Notes Error response rate](https://vagov.ddog-gov.com/monitors/186672)
+- [MHV Allergies Error response rate](https://vagov.ddog-gov.com/monitors/169716)
 
 ## Process/Incident Response - MEDICAL RECORDS
 
