@@ -30,13 +30,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### Define the Rollback process
 
-Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
+Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
 
-> Example
-> 
-> - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
-
-[FILL_IN]: create your rollback plan
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
