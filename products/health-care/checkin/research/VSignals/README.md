@@ -46,7 +46,7 @@
     - Copy the % for each of the 4 columns to the table
     - Click on each of the 2 graphs and change the data range to include your new date range
     - Save the file and re-upload it to GitHub for the next person to use
-17. Create a GitHub document similar to [this one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/2024/2024-05-16-Medallia.md)
+17. Create a GitHub document similar to [this one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/2024/2024-12-15-VSignals.md)
     - Copy the comments from the text file created by the 'CopyCommentsAsMarkDown' macro to this new GitHub document
     - Take a screenshot of each of the 2 graphs from the graph spreadsheet and past into the GitHub document
     - Scrub the comments of PII/PHI. Read through every user comment you pasted into the GitHub docuemnt and replace personal information with asterisks or number symbols. Replace data with codes as follows
