@@ -1,3 +1,2 @@
-Mockup of a current MyHealtheVet email
-
-[current-MHV-sampleemail.pdf](https://github.com/user-attachments/files/18214842/current-MHV-sampleemail.pdf)
+![image1](mhvemail1.jpg)
+![image2](mhvemail2.jpg)
