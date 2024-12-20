@@ -1,14 +1,26 @@
 # MEDICAL RECORDS Incident Response Playbook* 
-
-
-# Endpoint monitoring
-
-## Scope 
+### Scope 
 This document is relevant to the medical records section of MHV on va.gov and includes information about troubleshooting within the va.gov ecosystem as well as the downstream MHV API systems. Medical Records (MR) is an authenticated only experience, and the landing page in [Staging can be accessed here](https://staging.va.gov/my-health/medical-records).  
-## Purpose
+### Purpose
 This document will provide links to Application Performance Monitoring (APM) tools that provide visibility, monitoring, alerting and logging for the front end (vets-website), middleware (vets-api) and back end (MHV API) systems.  
 
-## Dashboards
+## Process/Incident Response - MEDICAL RECORDS
+
+**If a critical severity issue arises:**
+-Medical Records on va.gov will be put in a disabled state for all users (using either [feature flags](#feature-toggles), PagerDuty messaging, or a combination of both
+-Debugging will start immediately
+-The fix will be tested and deployed through normal CI/CD practices
+-Medical Records on va.gov will be brought back online and monitored
+
+**If a low-severity issue arises:**
+-A fix will be loaded to the backlog (JIRA) and prioritized
+-The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
+
+
+## Endpoint monitoring
+
+
+### Dashboards
 **MEDICAL RECORDS DATADOG DASHBOARDS**
 - [Datadog MR Dashboard](https://vagov.ddog-gov.com/dashboard/8tk-8fe-cin/mhv-medical-records?refresh_mode=sliding&from_ts=1696699383284&to_ts=1699291383284&live=true)
   - This dashboard contains components that display metrics (and subsequent required monitors) for:
@@ -29,7 +41,7 @@ This document will provide links to Application Performance Monitoring (APM) too
     - Logs
 
  
-## Monitors
+### Monitors
 
 **MEDICAL RECORDS MONITORS**
 - Our datadog dashboard/monitors are integrating with the VA.gov Watchtower monitoring.  Alerts or anomolies that happen trigger Slack notifications in the [#mhv-on-vagov-alerts channel](https://dsva.slack.com/archives/C054X851K62).
@@ -57,21 +69,24 @@ We utilize Datadob Remote User Monitoring (RUM) to visualize the medical records
 - [Medical Record RUM Application](https://vagov.ddog-gov.com/rum/performance-monitoring?query=%40application.id%3A04496177-4c70-4caf-9d1e-de7087d1d296%20%40session.type%3Auser&filters=%5B%22env%22%2C%22service%22%2C%22version%22%2C%22%40geo.country%22%2C%22%40device.type%22%2C%22%40usr.email%22%5D&fromUser=false&tab=overview&from_ts=1734101603527&to_ts=1734706403527&live=true)
 - As of Dec 20, 2024, the [RUM Medical Record configuration](https://github.com/department-of-veterans-affairs/vets-website/blob/bf07d09dfba4004dda8941e47faac253758ab8af/src/applications/mhv-medical-records/containers/App.jsx#L104) is set to sample 100% of sessions and 50% with replay. This will allow us to have great visibility into the user experience at launch, but these values must be lowered once the application is determined to be stable
 
+## Backend MHV API System Monitoring
+The MHV API service layer utlizes AppDynamics for APM. This section will provide links to quickly access AppDynamics visualizations for specific backend services:
+### MHV FHIR API 
+- Services
+- Database
+
+### MHV Other APIs
+- Self Entered Data
+- Medical Records Downloads
+- +++
+
+### Auth 
+- Description of how auth works between vets-api and MHV API
 
 
-## Process/Incident Response - MEDICAL RECORDS
+## Feature Toggles 
 
-**If a critical severity issue arises:**
--Medical Records on va.gov will be put in a disabled state for all users (using either feature flags, PagerDuty messaging, or a combination of both
--Debugging will start immediately
--The fix will be tested and deployed through normal CI/CD practices
--Medical Records on va.gov will be brought back online and monitored
-
-**If a low-severity issue arises:**
--A fix will be loaded to the backlog (JIRA) and prioritized
--The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
-
-## Feature Flipper analysis December 2024  
+Feature Toggles are used to enable/disable specific functionality without requiring deployment of new code.  The following feature toggles are active for Medical Records as of December 20, 2024
   
 | Feature Toggle Name                      | Description                                                                      | Current State | 
 | ---------------------------------------- | -------------------------------------------------------------------------------- | ------------- | 
