@@ -14,31 +14,19 @@
 7. Wrap all columns so that you can see the titles & data
 8. Widen the Comments column so that you can easily read the comments
 9. Filter the macro spreadsheet to hide all rows with blank comments
-10. Read each comment and place a '1' in the macro spreadsheet column that matches the following sentiments from the Veteran
-   - Like PCI
-       - Place a '1' in this column if the Veteran indicated that they like PCI
-   - Staff not using PCI even though Veterans are
-       - Place a '1' in this column if the Veteran used PCI but staff told them it doesn't work or the clinic doesn't use it
-   - Trouble navigating larger facilities
-       - Place a '1' in this column if the Veteran had issues finding where to go in the facility
-   - Staff not contacting Veterans when appointments are canceled
-       - Place a '1' in this column if the Veteran thought they had an appointment but it was cancelled without their knowledge 
-   - Concerns with check in at kiosks
-       - Place a '1' in this column if the Veteran indicates they want the kiosk back 
-   - Facilities still using QR Codes
-       - Place a '1' in this column if the Veteran is trying to use the QR code 
-   - Long wait times at check in or no staff at check in counter
-       - Place a '1' in this column if the Veteran encountered long wait times at check-in counters or found no staff at check-in counter 
-   - Conflicting instructions to Veterans in appointment reminders
-       - Place a '1' in this column if the Veteran was confused by the appointment reminders 
-   - Trouble updating contact info
-       - Place a '1' in this column if the Veteran wanted to update their contact information via PCI but got frustrated when they found they could not 
-   - Issues verifying identity
-       - Place a '1' in this column if the Veteran had trouble verifying their identity 
-   - Pre-Check-in or Check-in link issues
-       - Place a '1' in this column if the Veteran if the Veteran encountered issues with their PCI link 
-   - Too many notifications
-       - Place a '1' in this column if the Veteran felt they were receiving too many notifications
+10. Read each comment and place a '1' in the macro spreadsheet column that matches the Veteran's comment sentiments 
+       * Like PCI - Veteran indicated that they like PCI
+       * Staff not using PCI even though Veterans are - Veteran used PCI but staff told them it doesn't work or the clinic doesn't use it
+       * Trouble navigating larger facilities - Veteran had issues finding where to go in the facility
+       * Staff not contacting Veterans when appointments are canceled - Veteran thought they had an appointment but it was cancelled without their knowledge 
+       * Concerns with check in at kiosks - Veteran indicated they want the kiosk back 
+       * Facilities still using QR Codes - Veteran tried to use the QR code 
+       * Long wait times at check in or no staff at check in counter - Veteran encountered long wait times at check-in counters or found no staff at check-in counter 
+       * Conflicting instructions to Veterans in appointment reminders - Veteran was confused by the appointment reminders 
+       * Trouble updating contact info - Veteran wanted to update their contact information via PCI but got frustrated when they found they could not 
+       * Issues verifying identity - Veteran had trouble verifying their identity 
+       * Pre-Check-in or Check-in link issues - Veteran if the Veteran encountered issues with their PCI link 
+       * Too many notifications - Veteran felt they were receiving too many notifications
 11. Run macro 'CopyCommentsAsMarkDown' to copy the comments for columns where you placed a '1', change the comments to markdown format, and save them to a new text file 
 12. Run macro 'CalculateCSAT' to gather the CSAT scores and save them to a new spreadsheet 
     - CSAT scores are reported monthly to OCTO, see ???? 
