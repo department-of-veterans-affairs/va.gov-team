@@ -84,17 +84,24 @@ Tricare: https://www.va.gov/lovell-federal-health-care-tricare/
 VA: https://www.va.gov/lovell-federal-health-care-va/
 
 #### Front-end content
-Any given page within the Lovell System can be viewed as a VA beneficiary or a TRICARE beneficiary, using a toggle on the page. URLs are manipulated to achieve this. Any given page within the Lovell VAMC might either serve the same page at 2 different URLS if the content does not vary per beneficiary audience, or might serve two different pages for each benefit experience, if content does vary. 
+Any given page within the Lovell System can be viewed as a VA beneficiary or a TRICARE beneficiary, using a toggle on the page. 
 
-Federal level content includes: 
+**Federal level content includes:**
 * VAMC System
 * VAMC Detail pages
-* * Event Listings & Events
+* Event Listings & Events
 * News release listings and nodes
 * Story listings and Stories
 * Leadership Listing and Staff profiles
 
-Content that varies per beneficiary audience includes: 
+When an individual node (e.g. News Story) is assigned to the Federal level, the content needs to be bifurcated (divided into two new ones) during build, with one being assigned to VA and the other being assigned to TRICARE. Titles and other things (e.g. breadcrumbs) need to be adjusted according to the variant (VA/TRICARE).
+
+The new individual nodes resulting from bifurcation need to have switch links added to each page.
+A listing page is built for each variant (VA and TRICARE), and in both cases the individual nodes assigned to each variant need to be merged with the individual nodes assigned to Lovell Federal. Paging counts need to be adjusted accordingly.
+
+Top task links are handled in a similar way, and links from those tasks will vary, depending on which benefiary experience you are in. 
+
+![image (51)](https://github.com/user-attachments/assets/20873e41-fee6-4ba9-bac4-750de8d0e578)
 
 
 
@@ -258,7 +265,10 @@ Situation updates appear on each VAMCs' Operating status page.
 ### VAMC Real-time banners
 VAMC Real-time banners is an alternate publishing method for VAMC System Banners with Situation Updates. VAMC SBwSU content from Drupal is pulled via a sidekiq job every 10mins, stored in vets-api datastore, and published via a vets-api endpoint. A vets-website React application polls that API endpoint for new data, and allow VAMC SBwSU content to publish ~every 10 minutes. 
 
-Real-time banners do not currently support Situation Updates or Email updates via GovDelivery. Those both go through content-build / standard publishing pipeline, and will take the time required via that pipeline.
+Real-time banners do not currently (Dec 2024) support Situation Updates or Email updates via GovDelivery. Those both go through content-build / standard publishing pipeline, and will take the time required via that pipeline.
+
+* [Product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2024-real-time-banners)
+* [Technical architecture overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2024-real-time-banners/engineering/technical-architecture.md)
 
 ## VAMC Facility
 All published VAMC Facilities](https://prod.cms.va.gov/admin/content?title=&type=health_care_local_facility&moderation_state=published&owner=All)
