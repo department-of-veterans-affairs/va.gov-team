@@ -22,5 +22,5 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 ## CT Homepage
 - [Collaboration Cycle EDM and VEBT team, GI Bill Comparison Tool homepage #98557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98557)
 ### Design Intent Feedback
-- [Design Intent - IA Feedback EDM and VEBT team, GI Bill Comparison Tool homepage #99464](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99464#event-15708767113)
+- [Design Intent - IA Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #99464](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99464#event-15708767113)
 - [Design Intent - Design Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #99543](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99543#event-15733018527)
