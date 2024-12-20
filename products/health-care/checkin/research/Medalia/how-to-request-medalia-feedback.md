@@ -8,12 +8,12 @@
 1. Submit a data collection request ticket to the Contact Center (see [How to Submit a Request Ticket](#how-to-submit-a-request-ticket)).
 2. The Contact Center will email the Veteran feedback to the VA email address you provided in the request ticket.
 3. Once you get the email, open the spreadsheet in the browser
-4. Download this spreadsheet that has macros for processing the data
+4. Download [this spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/Medallia%20Formatter.xlsm) that has macros for processing the data
 5. Copy everything from the Medallia spreadsheet to the macro spreadsheet
 6. Run this macro to format the data that you copied into the spreadsheet: FormatMedalliaData
 7. Wrap all columns so that you can see the titles & data
 8. Filter the macro spreadsheet to hide all rows with blank comments
-9. Read each comment and place a '1' in the column that matches the comment contents
+9. Read each comment and place a '1' in the column that matches the following sentiments from the Veteran
    - Like PCI
        - Place a '1' in this column if the Veteran indicated that they like PCI
    - Staff not using PCI even though Veterans are
@@ -38,11 +38,11 @@
        - Place a '1' in this column if the Veteran if the Veteran encountered issues with their PCI link 
    - Too many notifications
        - Place a '1' in this column if the Veteran felt they were receiving too many notifications
-11. Run this macro to copy the comments for columns where you placed a '1': CopyCommentsAsMarkDown
-12. Run this macro to gather the CSAT scores: CalculateCSAT
+11. Run this macro to copy the comments for columns where you placed a '1' to a new text file: CopyCommentsAsMarkDown
+12. Run this macro to gather the CSAT scores and put them into a new spreadsheet: CalculateCSAT
     - CSAT scores are reported for our monthly metrics to OCTO, see ???? 
 14. Create a GitHub document similar to [this one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/2024/2024-05-16-Medallia.md)
-    - Copy the comments from the file created by the CopyCommentsAsMarkDown macro to this new GitHub document 
+    - Copy the comments from the text file created by the CopyCommentsAsMarkDown macro to this new GitHub document 
     - Scrub the comments of PII/PHI. Read through every user comment and replace personal information with asterisks or number symbols. Replace data with codes as follows
         - Email addresses - PII_EMAIL
         - Names - PII_NAME
