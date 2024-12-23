@@ -4,9 +4,10 @@
 
 ## Background
 Briefly describe the background of your product. Consider: MAKE CHANGES HERE 
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+- What problem is your product trying to solve? Yellow Ribbon Program information in CT cards is working to consolidate education benefits into the CT tool. This will allow users to access education benefits information quickly and easily. 
+- Where is your product situated on VA.gov? (ex: auth vs. unauth) In comparison tool and unauthenticated.
+- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one? Veterans are familiar with the Yellow Ribbon Tool. We are migrating the Yellow Ribbon Program information from the yellow ribbon tool into comparison tool.
+
 [Link to product brief](url goes here).
 
 ### OCTO Priorities
