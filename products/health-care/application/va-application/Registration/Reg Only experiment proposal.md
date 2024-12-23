@@ -15,7 +15,7 @@
 
 
 ## Implementation
-- For Veterans with 40% or lower disability rating, the 10-10EZ will prompt them within the application asking whether they want to seek care for their service-connected disability/injury only or enroll in VA health care for full benefits. If they choose service-connected care only, we will display an on-screen message directing them to call the Health Eligibility & Enrollment center, download the PDF form and mail in or visit a facility to register for service-connected care.
+- For Veterans with 10%-40% disability rating, the 10-10EZ will prompt them within the application asking whether they want to seek care for their service-connected disability/injury only or enroll in VA health care for full benefits. If they choose service-connected care only, we will display an on-screen message directing them to call the Health Eligibility & Enrollment center, download the PDF form and mail in or visit a facility to register for service-connected care.
      - The Veteran will have the option to go back within the application and make a different selection to proceed through the application for VA health care enrollment
 
 
