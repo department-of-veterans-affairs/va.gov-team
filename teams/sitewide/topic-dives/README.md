@@ -19,8 +19,8 @@ Please add any potential future topics you would like covered below:
 
 ### 12/23/24 - Facility locator application
 [Sitewide Topic Dive - Facility Locator.pdf](https://github.com/user-attachments/files/18233560/sitewide-topic-dive--facility-locator.pdf)
-Recording: https://us06web.zoom.us/rec/share/CUBz7RF7xENiiHo6Nt7y8dJx4bKVhwKis-hJyuEuoFmqZeb1ziySwWm6OUt96YYV.GLwE5MFcHwvAsdD-?startTime=1734986171000
-Passcode: zv06Hm@B
+* Recording: https://us06web.zoom.us/rec/share/CUBz7RF7xENiiHo6Nt7y8dJx4bKVhwKis-hJyuEuoFmqZeb1ziySwWm6OUt96YYV.GLwE5MFcHwvAsdD-?startTime=1734986171000
+* Passcode: zv06Hm@B
 
 ### 7/10/24 - Find a Form
 https://us06web.zoom.us/rec/share/nhSoIaTcjXapnmI6VbM0i7tSLUMJTPWD7WlN2r1hauB1U5k3_Fb1_CxW7swzg47N.-kGMFqgUx35QgVaj?startTime=1720642043000
