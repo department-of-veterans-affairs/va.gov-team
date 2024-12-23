@@ -1,22 +1,27 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for [Education Data Migration, Yellow Ribbon Tool, 12/23/24]
 
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.*
 
 ## Background
-Briefly describe the background of your product. Consider: MAKE CHANGES HERE 
+Briefly describe the background of your product. Consider:
 - What problem is your product trying to solve? Yellow Ribbon Program information in CT cards is working to consolidate education benefits into the CT tool. This will allow users to access education benefits information quickly and easily. 
 - Where is your product situated on VA.gov? (ex: auth vs. unauth) In comparison tool and unauthenticated.
 - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one? Veterans are familiar with the Yellow Ribbon Tool. We are migrating the Yellow Ribbon Program information from the yellow ribbon tool into comparison tool.
 
-[Link to product brief](url goes here).
+[Link to product brief]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-data-migration/edm-yellow-ribbon-tool-product-outline.md)).
 
 ### OCTO Priorities
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
+Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed. This research supports all three objectives.
+
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter?
 
+1. Life stage - Putting down roots and moments that matter include engaging VA to access benefits and services.
+2. Life stage - Reinventing myself and moments that matter include acquiring the appropriate education, new skills, and credentials.
+
+  
 ## Research Goals        
 What are you trying to learn from this research?
 Are the users able to find what they are looking for?
@@ -25,15 +30,26 @@ Will the users benefit from the presentation of the YR program information?
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.*
 
+1. Identify if users can find the content they are seeking.
+2. Validate if users will benefit from the presentation of the YR program information in CT.
+3. Discover pain points or aspects of the design that need to be altered to improve the user experience. 
+
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 The next phase is to launch the YR program information within CT. The research will allow us to get feedback from users regarding the presentation, functionality, accessibility and we will make changes to our designs from the learnings.
+
+The next phase is to launch the YR program information within CT. The research will allow us to get feedback from users regarding the presentation, functionality, accessibility and we will make changes to our designs from the learnings. 
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
+
+Here are our research questions:
+1. Are the users able to find what they are looking for?
+2. Will the users benefit from the updated presentation of the YR program information in CT?
+3. What are the current pain points that users are facing?
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -42,25 +58,18 @@ What do you intend to learn and measure from this study? Think through these pro
 - Write a generalized statement that combines what you know + what you think will happen during the study.
 - Remember to constrain the hypothesis to the goals of your study!
 
+This study aims to assess the effectiveness of the presentation of the YR program information in helping users accomplish two main objectives: (1) determining whether users can easily find the information they are seeking, and (2) evaluating if the structure and delivery of the information are beneficial to users in understanding and engaging with the YR program information in its new location.
+
+Based on previous observations and trends, it is expected that users will find it easier to locate the necessary information if the presentation is intuitive and well-organized. Additionally, a clear and user-friendly format should enhance users' comprehension and overall satisfaction with the YR program, ultimately improving their ability to make informed decisions and participate in the program. Through this study, we aim to identify any potential gaps or areas for improvement in the presentation that could better meet users' needs and enhance their experience.
+
+
 ## Methodology        
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.
--Qualitative usability testing is the research method we plan to execute to test the feasibility of the solution. We have an interactive prototype and will guide users through tasks and questionnaires to gather their observations, thoughts and findings.
 
-Examples of common research methods include:
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+Qualitative usability testing is the research method we plan to execute to test the feasibility of the solution. We will focus on users behaviors, preferences, and overall experiences while interacting with the prototype. This method will involve a small group of participants who represent the target audience. 
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project.
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support.
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+Participants will be guided through tasks and will be asked open-ended questions to gather their thoughts and detailed responses about their experience. We will also note down any issues, frustrations, or successes along the way.
+
 
 ### Location
 This will be a remote research study and we will use Zoom.
