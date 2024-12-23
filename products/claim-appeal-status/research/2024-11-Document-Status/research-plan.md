@@ -26,7 +26,7 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 1. Evaluate whether participants can use the alerts and statuses to effectively understand different types of success and upload failures.
 2. Identify whether Veterans recognize the connection between a failure notification email and the in-app alerts for Type 1 and Type 2 failures.
 3. Identify what a Veteran expects to happen when they mail in documents
-4. Understand how the upload status impact trust in the claims process
+4. Understand how the upload status impacts trust in the claims process
 
 ### Outcome
 
