@@ -82,7 +82,7 @@ For moderated interviews:
 - [Link to conversation guide](url goes here)
 
 For moderated usability tests:
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-data-migration/research-folder-yrt/conversation-guide-yrt.md))
 - [Link to prototype](url goes here)
 
 For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)
