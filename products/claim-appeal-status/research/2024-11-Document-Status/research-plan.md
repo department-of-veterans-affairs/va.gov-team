@@ -40,7 +40,7 @@ Our research will reveal whether real-time status updates are helpful to Veteran
 4. Do Veterans feel confident in VA's ability to properly process their mailed-in documents? What do Veterans expect to happen in CST when they mail in a document?
 5. Do the interactions result in any concerns about deadlines or impact trust in VA?
 
-### Hypothesis
+### Hypotheses
 
 * The proposed design makes it clear what the status of the uploaded document is.
 * Veterans will know what to do in scenarios where document uploads were successful and scenarios where document uploads failed.
