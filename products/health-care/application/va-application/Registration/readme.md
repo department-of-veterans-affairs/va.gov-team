@@ -208,6 +208,16 @@ Section III
 
 ### After
 
+- New Enrollment/Registration question page
+     - ![image](https://github.com/user-attachments/assets/0a25f3a2-881c-4f17-8b5f-74d19d4fd4a1)
+
+- Additional Info expanded
+     - ![image](https://github.com/user-attachments/assets/a3ae620e-7a38-4d5a-8686-837a7b573ea5)
+
+- Registration Info page
+     - ![image](https://github.com/user-attachments/assets/9dbfad9a-f6d3-4792-93ec-7953ed50731a)
+
+
 ---
 
 #### Communications
