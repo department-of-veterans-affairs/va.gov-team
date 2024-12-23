@@ -17,7 +17,7 @@ Please add any potential future topics you would like covered below:
 
 ## Topic Dives
 
-### - 12/23/24 - Facility locator application
+### 12/23/24 - Facility locator application
 [Sitewide Topic Dive - Facility Locator.pdf](https://github.com/user-attachments/files/18232709/Sitewide.Topic.Dive.-.Facility.Locator.pdf)
 
 
