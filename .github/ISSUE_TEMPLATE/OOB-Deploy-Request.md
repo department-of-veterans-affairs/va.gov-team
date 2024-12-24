@@ -16,7 +16,8 @@ Please fill out the necessary details and list the PRs related to the OOB deploy
 
 ## Active Daily Users Impacted
 - How many active users are impacted at this time and day.
-   >  
+   >
+
 ## Has fix been confirmed in Staging?
 - [ ] Yes
 - [ ] No
@@ -26,7 +27,7 @@ Please fill out the necessary details and list the PRs related to the OOB deploy
    > Add Details Here ... 
    
 ## Verify The following
- - [ ] The OOB Deploy Request is after the 2pm EST cutoff for regular deploy.[^1] 
+ - [ ] The OOB Deploy Request is after the cutoff time for the regular deploy.[^1] 
  - [ ] The OOB Deploy Request is critical and must be resolved before the next automated deploy.
  - [ ] You are prepared to create an Incident Post Mortem[^2] within two business days.
 
