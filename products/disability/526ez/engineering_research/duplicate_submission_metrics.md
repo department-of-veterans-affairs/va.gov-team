@@ -48,11 +48,11 @@ The query does not adjust for submissions duplicated across interval boundaries.
 |----------------|---------------------------|------------------|----------------------|
 |September 2024  |1.27%                      |65,297            |831                   |
 |October 2024    |1.23%                      |67,081            |828                   |
-|November 2024   |                           |59,299            |                      |
+|November 2024   |1.31%                      |59,299            |779                   |
 
 |                |% of duplicate users |total users |duplicate users |
 |----------------|---------------------|------------|----------------|
 |September 2024  |0.73%                |57,737      |423             |
 |October 2024    |0.73%                |59,514      |434             |
-|November 2024   |                     |52,800      |                |
+|November 2024   |0.70%                |52,800      |367             |
 
