@@ -35,12 +35,12 @@ All issues that were closed in this timeframe:
 - ✔️ 🟧 OH Scheduling improvements: Dead ends from facility page - https://github.com/department-of-veterans-affairs/va.gov-team/issues/91499
 
 **Direct Scheduling OH**
-- ❗ 🟩 [Add initial screen and placeholder data for Select a Provider step #98224](98224)
+- ❗🚧 🟩 [Add initial screen and placeholder data for Select a Provider step #98224](98224)
 - ✔️ [Add patient relationship endpoint service and mocks #89641](89641)
-- 🟩 [Add location and typeOfCare arguments and functionality to patient relationships #98864](98864)
+- 🚧 🟩 [Add location and typeOfCare arguments and functionality to patient relationships #98864](98864)
 - ✔️ [Update alert on choose a VA location page - Part 7 #98190](98190)
 - ✔️ [Update alert on choose a VA location page - Part 8 #98191](98191)
-- 🟩 [Update alert on choose a VA location page - Part 9 #98192](98192)
+- ✔️ 🟩 [Update alert on choose a VA location page - Part 9 #98192](98192)
 - ✔️ 🟧 OH Scheduling improvements: Dead ends from facility page https://github.com/department-of-veterans-affairs/va.gov-team/issues/91499
 
 **Appointments UI Enhancements**
@@ -63,12 +63,16 @@ All issues that were closed in this timeframe:
 - ✔️ 🟩 [Feature] Refactor appointment list directory structure - https://github.com/department-of-veterans-affairs/va.gov-team/issues/97129
 - ✔️ 🟩🟦 Remove feature toggles from dev environment - https://github.com/department-of-veterans-affairs/va.gov-team/issues/95926
 - ✔️ 🟩 [Spike] - Document Appointment Type logic - https://github.com/department-of-veterans-affairs/va.gov-team/issues/90109
+- ✔️ 🟩 Phase 1 - Move components shared by Referral appointments feature to the correct directory - https://github.com/department-of-veterans-affairs/va.gov-team/issues/99333
 
 **Appointment details null state tracking**
 - ✔️ 🟩 Add appointment details null state tracking - https://github.com/department-of-veterans-affairs/va.gov-team/issues/95657
   
 **Sunset MHV Classic Appointments**
 - ✔️ 🟧 Audit current state of navigation between MHV classic and VA.gov - https://github.com/department-of-veterans-affairs/va.gov-team/issues/89671
+
+**Community Care Referrals**
+✔️ 🟧 [DESIGN] Identify and create Referrals and requests page error states - https://github.com/department-of-veterans-affairs/va.gov-team/issues/98625
 
 ## SPRINT 21 - 11/27/2024-12/10/2024
 - **Production Support**
