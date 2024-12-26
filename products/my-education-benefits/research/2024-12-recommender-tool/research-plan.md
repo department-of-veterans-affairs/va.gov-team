@@ -60,7 +60,7 @@ Remote sessions via Zoom (set up by Perigean)
 Our intended audience will be a blend of Veterans and Veterans' family members and/or dependents. 
 
 ### Recruitment criteria
-Our recruiting goal is to a few have representatives from two groups:
+Our recruiting goal is to a few have representatives from three groups:
 - Veterans or active-duty Service members (Category A)
 - Dependents of Veterans or Service members (Category B)
 - Dependends of a deceased, missing or 100% service-disabled Veteran or Service member (Category C)
