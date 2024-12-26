@@ -19,12 +19,12 @@ Step-by-step operations
 5. Copy and paste the entire script into Argo. The "processing... [running count]" message will run in the terminal, which generally helps keep the session going longer than normal.
 6. Babysit the Argo session for signs of the session dying. This is generally pretty obvious, but in some cases the best indication is that the "checkpoint reports" have stopped being generated in S3
 7. When/if (okay, when) the session dies,
-   a. Go to the [in-progress](https://us-gov-west-1.console.amazonaws-us-gov.com/s3/buckets/dsva-vetsgov-prod-reports?region=us-gov-west-1&prefix=526_duplicates_report_20241224__0924/in_progress/&showversions=false) sub-folder of your custom directory in S3
-   b. Order the file list by Last Modified, descending, to find the last "checkpoint report"
-   c. Open the report and save off the `user_uuid` found there (it's also in the filename)
-   d. Save off the lines under `CSV:` in Google Sheets, Excel or a text file
-   e. Update your copy of the script to set `last_user_uuid_processed = '[user_uuid from step c. above]'`
-   f. Go to step 5 above and repeat this flow until the entire run completes, saving off the info from each Argo crash.
+   - a. Go to the [in-progress](https://us-gov-west-1.console.amazonaws-us-gov.com/s3/buckets/dsva-vetsgov-prod-reports?region=us-gov-west-1&prefix=526_duplicates_report_20241224__0924/in_progress/&showversions=false) sub-folder of your custom directory in S3
+   - b. Order the file list by Last Modified, descending, to find the last "checkpoint report"
+   - c. Open the report and save off the `user_uuid` found there (it's also in the filename)
+   - d. Save off the lines under `CSV:` in Google Sheets, Excel or a text file
+   - e. Update your copy of the script to set `last_user_uuid_processed = '[user_uuid from step c. above]'`
+   - f. Go to step 5 above and repeat this flow until the entire run completes, saving off the info from each Argo crash.
 9. Run completes with a final report displayed in the Argo terminal, and written to a sub-folder called [final](https://us-gov-west-1.console.amazonaws-us-gov.com/s3/buckets/dsva-vetsgov-prod-reports?region=us-gov-west-1&prefix=526_duplicates_report_20241224__0924/final/&showversions=false) in your custom folder in S3
 10. To aggregate the final numbers/percentages, simply add together all the CSVs collected from the "in-progress" runs with the "final" report
 
