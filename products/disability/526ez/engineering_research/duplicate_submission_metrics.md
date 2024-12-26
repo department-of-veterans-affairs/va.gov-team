@@ -32,13 +32,13 @@ Step-by-step operations
 
 The query does not adjust for submissions duplicated across interval boundaries. For example, if a particular user had a submission on October 31st that was duplicated into November or later, those numbers would NOT be included in October's query- the net effect being that the actual submission counts may be slightly deflated. Another side effect of this is that the number of total users per each month is inflated when compared with over the longer interval- many users submit and re-submit over the course of months.
 
-For all these reasons, the percentages included below are a better metric in and of themselves than the literal submission and user counts.
+For all these reasons, the percentages included below are a better metric in and of themselves than the literal submission and user counts (which user counts being especially more "buyer-beware").
 
 ### Combined run of Sept, Oct and Nov 2024
 
 |                |% of duplicate submissions |total submissions |duplicate submissions |
 |----------------|---------------------------|------------------|----------------------|
-|Sept - Nov 2024 |1.38%                      |191,677           |2,636                 |
+|Sept - Nov 2024 |**1.38%**                      |191,677           |2,636                 |
 
 |                |% of duplicate users |total users |duplicate users |
 |----------------|---------------------|------------|----------------|
@@ -48,9 +48,9 @@ For all these reasons, the percentages included below are a better metric in and
 
 |                |% of duplicate submissions |total submissions |duplicate submissions |
 |----------------|---------------------------|------------------|----------------------|
-|September 2024  |1.27%                      |65,297            |831                   |
-|October 2024    |1.23%                      |67,081            |828                   |
-|November 2024   |1.31%                      |59,299            |779                   |
+|September 2024  |**1.27%**                      |65,297            |831                   |
+|October 2024    |**1.23%**                      |67,081            |828                   |
+|November 2024   |**1.31%**                      |59,299            |779                   |
 
 |                |% of duplicate users |total users |duplicate users |
 |----------------|---------------------|------------|----------------|
