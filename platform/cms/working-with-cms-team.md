@@ -12,10 +12,10 @@ This document will help all teams working on VA.gov understand when you should e
 
 ## How to engage with the CMS team on Slack
 
-CMS platform team: [#sitewide-cms-platform](https://dsva.slack.com/channels/sitewide-cms-platform)
-For engineers: [#platform-cop-drupal](https://dsva.slack.com/channels/platform-cop-drupal)
-General/support: [#cms-support](https://dsva.slack.com/channels/cms-support)
-Support for Facilities Drupal products: [#facilities-support](https://dsva.slack.com/channels/facilities-support)
+* CMS platform team: [#sitewide-cms-platform](https://dsva.slack.com/channels/sitewide-cms-platform)
+* For engineers: [#platform-cop-drupal](https://dsva.slack.com/channels/platform-cop-drupal)
+* General/support: [#cms-support](https://dsva.slack.com/channels/cms-support)
+* Support for Facilities Drupal products: [#facilities-support](https://dsva.slack.com/channels/facilities-support)
 
 You can ping us there for product-specific questions. 
 
