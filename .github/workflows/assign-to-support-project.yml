@@ -31,8 +31,6 @@ jobs:
       with:
         project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
         column_name: 'Platform Onboarding'
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Add issues with `T1-access-request` label to Platform Support project Access Request column
       uses: srggrs/assign-one-project-github-action@1.2.1
       if: |
@@ -41,8 +39,6 @@ jobs:
       with:
         project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
         column_name: 'Access Requests'
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Add issues with `Offboarding` label to Platform Support project Access Request column
       uses: srggrs/assign-one-project-github-action@1.2.1
       if: |
@@ -51,5 +47,3 @@ jobs:
       with:
         project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
         column_name: 'Offboarding'
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
