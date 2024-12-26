@@ -1,7 +1,7 @@
 name: Vets-api Sidekiq Admin UI Access Request
 description: For requesting access to the Sidekiq Admin UI
 title: Sidekiq Admin UI access for [individual]
-labels: ['external-request', 'platform-tech-team-support', 'ops-access-request', 'sidekiq-access-request']
+labels: ['external-request', 'platform-tech-team-support', 'ops-access-request', 'sidekiq-access-request', 'T1-access-request']
 body:
   - type: markdown
     attributes:
