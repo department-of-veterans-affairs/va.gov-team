@@ -15,7 +15,7 @@ jobs:
     name: Add issues to Github projects based on labels
     steps:
     - name: Add issues to Platform Support Team - Support Tickets
-      uses: srggrs/assign-to-support-project-github-action@1.2.0
+      uses: srggrs/assign-one-project-github-action@1.2.1
       if: |
         github.event.action == 'opened' &&
         (contains(github.event.issue.labels.*.name, 'Platform-Support-Ticket')
@@ -23,7 +23,7 @@ jobs:
         project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
         column_name: 'Support Tickets'
     - name: Add issues with `new-vfs-team` and `new-vfs-team-member` label to Platform Support project Platform Onoarding column
-      uses: srggrs/assign-to-support-project-github-action@1.2.0
+      uses: srggrs/assign-one-project-github-action@1.2.1
       if: |
         github.event.action == 'opened' && 
         contains(github.event.issue.labels.*.name, 'new-vfs-team-member') ||
@@ -32,7 +32,7 @@ jobs:
         project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
         column_name: 'Platform Onboarding'
     - name: Add issues with `T1-access-request` label to Platform Support project Access Request column
-      uses: srggrs/assign-to-support-project-github-action@1.2.0
+      uses: srggrs/assign-one-project-github-action@1.2.1
       if: |
         github.event.action == 'opened' && 
         contains(github.event.issue.labels.*.name, 'T1-access-request')
