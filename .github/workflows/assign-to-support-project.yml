@@ -39,3 +39,11 @@ jobs:
       with:
         project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
         column_name: 'Access Requests'
+    - name: Add issues with `Offboarding` label to Platform Support project Access Request column
+      uses: srggrs/assign-one-project-github-action@1.2.1
+      if: |
+        github.event.action == 'opened' && 
+        contains(github.event.issue.labels.*.name, 'Offboarding')
+      with:
+        project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
+        column_name: 'Offboarding'
