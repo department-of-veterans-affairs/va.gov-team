@@ -28,6 +28,7 @@ Additional inputs are
 
 ## UX
 - [VAMC master Figma file](https://www.figma.com/design/ikCp2eOubIgbN1TwyEYIrN/VAMC-Master?node-id=1-6820&p=f&t=nuOdHl3WvmBlYXJD-0)
+- [VAMC Mural room](https://app.mural.co/t/departmentofveteransaffairs9999/r/1582580020997) in VA Mural workspace
 - [VAMC Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/research#vamc-research-readme)
 
 ## IA 
