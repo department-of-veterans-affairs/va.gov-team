@@ -22,6 +22,10 @@ Additional inputs are
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/)
 - [Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/)
 
+### Major VAMC features
+VAMCs are comprised of many features deriving from Drupal. 
+Feature Documentation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/features
+
 ## Engineering
 - [Engineering docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/engineering)
 - [**VA.gov-cms repo**](https://github.com/department-of-veterans-affairs/va.gov-cms) contains docs for developers working on the CMS codebase.
@@ -40,9 +44,6 @@ Additional inputs are
 - [**Working with CMS team - Rules of Engagement**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md#working-with-cms-team)
 - [**Content management system README**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms#content-management-system)
 
-## Major VAMC features
-VAMCs are comprised of many features deriving from Drupal. 
-Feature Documentation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/features
 
 
 ## Legacy artifacts
