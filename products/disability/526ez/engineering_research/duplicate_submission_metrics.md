@@ -58,12 +58,3 @@ For all these reasons, the percentages included below are a better metric in and
 |October 2024    |0.73%                |59,514      |434             |
 |November 2024   |0.70%                |52,800      |367             |
 
-### Sample bi-weekly runs
-
-|                |% of duplicate submissions |total submissions |duplicate submissions |
-|----------------|---------------------------|------------------|----------------------|
-|Nov 1-14 2024   |%                      |            |                   |
-
-|                |% of duplicate users |total users |duplicate users |
-|----------------|---------------------|------------|----------------|
-|Nov 1-14 2024   |%                |     |             |
