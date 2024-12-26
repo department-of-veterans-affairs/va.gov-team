@@ -6,8 +6,6 @@ name: Assign to Support Project board
 on:
   issues:
     types: [opened]
-env:
-  MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
 
 jobs:
   assign-to-support-project:
@@ -22,6 +20,8 @@ jobs:
       with:
         project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
         column_name: 'Support Tickets'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Add issues with `new-vfs-team` and `new-vfs-team-member` label to Platform Support project Platform Onboarding column
       uses: srggrs/assign-one-project-github-action@1.2.1
       if: |
