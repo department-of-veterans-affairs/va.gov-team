@@ -9,7 +9,7 @@ Feature Toggle/flag:
 ### Validation
 
 #### Platform Preparation
-- [ ] All "launch blocking" items from Staging Review have been addressed
+- [x] All "launch blocking" items from Staging Review have been addressed
 - [ ] Contact Center Review is complete
 - [ ] Privacy, Security, IA Readiness Review is complete
 
