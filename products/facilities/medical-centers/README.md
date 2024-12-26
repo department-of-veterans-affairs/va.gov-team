@@ -1,5 +1,4 @@
 # VA Medical Centers README 
->Index of links to key resources
 
 ## Product overview
 Modernized VAMC websites are comprehensive facility pages designed to meet the needs of Veterans, their families, and caregivers. The pages provide the location details needed to prepare a Veteran to visit and easy access to top tasks and digital health tools. They are powered by a custom Drupal content management system (CMS). Content is differentiated across levels of governance - VHA national, VAMC system and VAMC local facility.
