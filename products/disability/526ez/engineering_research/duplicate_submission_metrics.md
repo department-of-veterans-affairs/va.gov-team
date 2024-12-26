@@ -8,7 +8,7 @@ To determine this, we developed [this submission duplicate query](https://github
 
 Because this is a long-running query that is executed within a short-living environment (i.e. an Argo terminal), certain features of the script where built to allow re-running from its last known failure point:
 - processing occurs on a _sorted_ list of `user_uuid`s within the specified time range
-- after every 100 users processed, a "checkpoint report" is sent to AWS S2 with the duplicate counts found thus far
+- after every 100 users processed, a "checkpoint report" is sent to AWS S3 with the duplicate counts found thus far
 - a `last_user_uuid_processed` variable can be set so that it will skip processing until the specified uuid is reached
 
 Step-by-step operations 
