@@ -30,7 +30,9 @@ Step-by-step operations
 
 ## Results
 
-The query does not adjust for submissions duplicated across interval boundaries. For example, if a particular user had a submission on October 31st that was duplicated into November or later, those numbers would NOT be included in October's query- the net effect being that the actual submission counts may be slightly deflated. For that reason, the percentages included below are a better metric in and of themselves than the literal submission counts
+The query does not adjust for submissions duplicated across interval boundaries. For example, if a particular user had a submission on October 31st that was duplicated into November or later, those numbers would NOT be included in October's query- the net effect being that the actual submission counts may be slightly deflated. Another side effect of this is that the number of total users per each month is inflated when compared with over the longer interval- many users submit and re-submit over the course of months.
+
+For all these reasons, the percentages included below are a better metric in and of themselves than the literal submission and user counts.
 
 ### Combined run of Sept, Oct and Nov 2024
 
@@ -56,3 +58,12 @@ The query does not adjust for submissions duplicated across interval boundaries.
 |October 2024    |0.73%                |59,514      |434             |
 |November 2024   |0.70%                |52,800      |367             |
 
+### Sample bi-weekly runs
+
+|                |% of duplicate submissions |total submissions |duplicate submissions |
+|----------------|---------------------------|------------------|----------------------|
+|Nov 1-14 2024   |%                      |            |                   |
+
+|                |% of duplicate users |total users |duplicate users |
+|----------------|---------------------|------------|----------------|
+|Nov 1-14 2024   |%                |     |             |
