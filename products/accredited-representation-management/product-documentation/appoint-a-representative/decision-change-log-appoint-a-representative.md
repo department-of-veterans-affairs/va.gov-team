@@ -47,16 +47,16 @@ _Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https:
 - **10/28/2024**: Decided to implement character limits on the form input screens to match the number of boxes on the PDF/paper form, to avoid any issues with automated processing systems downstream. This is something the VA Forms team has bumped up against, and why they have implemented character limits on their form experiences. \
   _Decided by Product Manager Lindsay Li-Smith and confirmed by Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1730138410652169))._
 - **11/7/2024**: Decided that 21-22 POA requests will be stored only on va.gov for our digital submission pilot, and we will re-evaluate what to do after that this winter/spring.\
-  _Communicated by Product Owner Jennifer Bertsch ([Slack message]([https://dsva.slack.com/archives/C05L6HSJLHM/p1730138410652169](https://dsva.slack.com/archives/C06ABHUNBRS/p1731014665850609))) and [documented in Sharepoint](https://dvagov.sharepoint.com/sites/vaabdvro/_layouts/15/doc.aspx?sourcedoc={452af769-fcc8-4312-8c52-4623360d31a9}&action=edit)._
+  _Communicated by Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C06ABHUNBRS/p1731014665850609) and [documented in Sharepoint](https://dvagov.sharepoint.com/sites/vaabdvro/_layouts/15/doc.aspx?sourcedoc={452af769-fcc8-4312-8c52-4623360d31a9}&action=edit))._
 - **11/5/2024**: Decided that if Field 19a of the 21-22a form is authorized, we will check the box but leave the open input (to name the organization/firm) blank, for the attorney or claims agent to fill in when they receive the form for signing/submitting. This is because we are unsure of what to fill in and we don't want to enter anything incorrect.\
-  _Decided by Product Manager Lindsay Li-Smith ([Slack message]([https://dsva.slack.com/archives/C05L6HSJLHM/p1731689344772139?thread_ts=1731688117.981769&cid=C05L6HSJLHM))._
+  _Decided by Product Manager Lindsay Li-Smith ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1731689344772139?thread_ts=1731688117.981769&cid=C05L6HSJLHM))._
 - **12/3/2024**: Decided to hold off on exploring the overflow page for the 21-22 and 21-22a forms and proceed with limiting character input based on what the form fields allow.\
-  _Decided in the ARM Leadership Sync ([Slack message]([https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD1c08ede8f72348308af7c7c30))._
+  _Decided in the ARM Leadership Sync ([Slack message](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD1c08ede8f72348308af7c7c30))._
 - **12/3/2024**: Decided not to consider refactoring Appoint to make a clear distinction between the 21-22 and 21-22a forms, given the high level of effort.\
-  _Decided in the ARM Leadership Sync ([Slack message]([https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBDea62d19cad5b44ccbaa5e0055))._
+  _Decided in the ARM Leadership Sync ([Slack message](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBDea62d19cad5b44ccbaa5e0055))._
 - **12/10/2024**: Decided not to block users from submitting digital POA requests, when there are limitations of consent. This will avoid introducing any persuasion/bias and we aren't too concerned about users limiting consent to medical records.\
-  _Direction from Product Owner Jennifer Bertsch ([Slack message]([https://dsva.slack.com/archives/C05L6HSJLHM/p1733853832182779?thread_ts=1733852923.213349&cid=C05L6HSJLHM))._
+  _Direction from Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1733853832182779?thread_ts=1733852923.213349&cid=C05L6HSJLHM))._
 - **12/18/2024**: Decided to remove the "Next Steps" cover page from the generated PDF, as it was causing accessibility issues with the pre-filled form.\
-  _Confirmed by Product Owner Jennifer Bertsch ([Slack message]([https://dsva.slack.com/archives/C05L6HSJLHM/p1734550746763029?thread_ts=1734541936.131369&cid=C05L6HSJLHM))._
+  _Confirmed by Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1734550746763029?thread_ts=1734541936.131369&cid=C05L6HSJLHM))._
 
   
