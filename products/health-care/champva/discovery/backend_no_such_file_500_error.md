@@ -1,6 +1,6 @@
 <h1>Executive Summary: Addressing Intermittent File Processing Failures</h1>
 
-This document details a recurring issue within our application infrastructure that results in intermittent failures during file processing, specifically when renaming or moving temporary files. The error manifests as "No such file or directory @ rb_file_s_rename," indicating that the system attempts to operate on a file that does not exist at the expected location. This issue has been observed to impact all IVC CHAMPVA and SIMPLE FORMS form submissions leading to some HTTP 500 errors after the user clicks on the submit button. While this impacts only 1-2% of submissions, a complete solution is required to ensure system stability and prevent future occurrences.
+This document details a recurring issue within our application infrastructure that results in intermittent failures during file processing, specifically when renaming or moving temporary files. The error manifests as "No such file or directory @ rb_file_s_rename," (See Appendix A) indicating that the system attempts to operate on a file that does not exist at the expected location. This issue has been observed to impact all IVC CHAMPVA and SIMPLE FORMS form submissions leading to some HTTP 500 errors after the user clicks on the submit button. While this impacts only 1-2% of submissions, a complete solution is required to ensure system stability and prevent future occurrences.
 
 <h2>Problem Description:</h2>
 
@@ -96,3 +96,8 @@ The implementation will involve modifications to the Ruby code responsible for f
 <h2>Conclusion: </h2>
 
 By implementing these changes, we will significantly improve the reliability and robustness of our file processing infrastructure, eliminating the recurring "No such file or directory" errors and their associated negative impacts. This will result in a better user experience, improved data integrity, reduced support costs, and greater business stability. We recommend prioritizing this work to prevent further disruptions and ensure the long-term health of our application.
+
+
+Appendix A
+
+<img width="902" alt="Screenshot 2024-12-27 at 3 24 38 PM" src="https://github.com/user-attachments/assets/6c11afd7-2899-41df-bd43-a6d3f09808b6" />
