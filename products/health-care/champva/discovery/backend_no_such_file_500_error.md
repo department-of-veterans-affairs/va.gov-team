@@ -45,6 +45,8 @@ To address the root cause of the problem and prevent future occurrences, we prop
 
 * Explicitly closing file handles: After writing to a file, the file handle must be explicitly closed using file.close to ensure that all buffered data is flushed to the file system.
 
+Here is an example: In this code block, we explicitly ensure the file is fully written before attempting to rename it. If you're using external processes (like system() or backticks ``), wait for them to complete.
+
 ```
 require 'fileutils'
 
