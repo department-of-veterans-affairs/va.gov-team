@@ -247,6 +247,14 @@ Policies Top Task pages display:
 [How to edit a VAMC policies page](https://prod.cms.va.gov/help/vamc/how-to-edit-a-vamc-system-policies-page)
 
 ## VAMC System Operating status
+Veterans and VA employees need up-to-date information about the operating status of VHA facilities.
+
+Whether it’s inclement weather or road closures, the VA.gov content management system allows VAMC editors to update facility operating status and add banner alerts and situation updates to VAMC pages, all in one streamlined editorial experience.
+
+Editors of VAMC banner alerts can optionally trigger email bulletins via each VAMC system’s emergency updates email list, either when creating the initial alert, or with additional situation updates that editors add as new information becomes available.
+
+For situations affecting multiple VAMCs, such as a hurricane, VISN or VHA editors can create one banner alert to display across a region.
+
 The System Operating Status page is a structured content type in Drupal that generates a System page on VA.gov. It contains three primary types of information: 
 
 1. In Drupal: A list of all VAMC Banner with Situation Update content published within the given System.
@@ -269,6 +277,7 @@ Example:
 * [Resources for emergency situations](https://prod.cms.va.gov/help/cms-basics/resources-for-emergency-situations)
 
 ## VAMC System banners with situation updates
+
 VAMC System Banners with situation updates (SBwSU) are a complex Drupal content type used to make VA.gov visitors aware of urgent issues such as inclement weather, unexpected closures, or patient safety issues. They can consist of three components: 
 1. System banner
 2. Email alert
