@@ -202,6 +202,9 @@ Events filters are available on Lists, to filter by past, future, or specific da
 * CMS: [https://staging.cms.va.gov/minneapolis-health-care/events](https://staging.cms.va.gov/minneapolis-health-care/events) 
 * Primary editors:  VAMC editors have permissions to edit Events within their VAMC pages
 
+**Related KBs**
+* [How to edit an Events list](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-events-content-for-vamcs/how-to-edit-an-events-list)
+
 **More info:**
 * A6 program GDrive folder: [Events](https://drive.google.com/drive/u/1/folders/1wGqhMBGs-baLOFarU2Jgii8Pz2IFIas6)
 * [Events maintenance & support epic #9438](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9438) 
@@ -230,6 +233,10 @@ Events may be single or recurring, and are either:
 * URL: [https://www.va.gov/minneapolis-health-care/events/47981/](https://www.va.gov/minneapolis-health-care/events/47981/) (recurring)
 * CMS: [https://staging.cms.va.gov/minneapolis-health-care/events/47981](https://staging.cms.va.gov/minneapolis-health-care/events/47981) 
 * Primary editors:  VEO editors
+
+**Related KBs**
+* [How to edit an event](https://prod.cms.va.gov/help/cms-basics/how-to-edit-an-event)
+* [About Events content - for VAMCs](https://prod.cms.va.gov/help/vamc/about-events-content-for-vamcs)
 
 **More info:**
 * A6 program GDrive folder: [Events](https://drive.google.com/drive/u/1/folders/1wGqhMBGs-baLOFarU2Jgii8Pz2IFIas6)
