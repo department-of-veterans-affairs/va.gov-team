@@ -45,7 +45,8 @@ To address the root cause of the problem and prevent future occurrences, we prop
 
 * Explicitly closing file handles: After writing to a file, the file handle must be explicitly closed using file.close to ensure that all buffered data is flushed to the file system.
 
-  ```require 'fileutils'
+```
+require 'fileutils'
 
 temp_file = Tempfile.new(['my_file', '.pdf'])
 temp_path = temp_file.path
@@ -66,7 +67,9 @@ else
 end
 
 # OR, if not using an external process:
-FileUtils.mv(temp_path, final_path) ```
+FileUtils.mv(temp_path, final_path)
+
+```
 
 * Checking for process completion: If external processes are used to manipulate files, we must wait for these processes to complete successfully before proceeding.
 
