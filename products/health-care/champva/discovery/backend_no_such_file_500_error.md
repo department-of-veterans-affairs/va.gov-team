@@ -16,9 +16,8 @@ In our specific scenario, the following sequence of events typically leads to th
 
 This problem is exacerbated by the following factors:
 
-* Asynchronous Operations: Our application utilizes asynchronous processes and background jobs to handle certain file operations. This introduces concurrency and increases the likelihood of race conditions.
-
 * Multi-threaded Environment: Our production environment uses a multi-threaded web server (e.g., Puma), allowing multiple requests to be processed concurrently. This further increases the chance of multiple processes accessing the same temporary files simultaneously.
+* 
 * File System Latency: While generally fast, file system operations can experience brief delays, especially under heavy load. These delays can be sufficient to trigger race conditions if proper synchronization mechanisms are not in place.
 
 <h2> Impact: </h2>
