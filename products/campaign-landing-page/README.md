@@ -159,7 +159,7 @@ https://prod.cms.va.gov/admin/content?title=&type=campaign_landing_page&moderati
 1. Request comes in, via helpdesk request or direct to PO, or potentially in a Github issue.
 2. If not in a helpdesk request, redirect to Helpdesk or create a Helpdesk issue using email support@va-gov.atlassian.net or URL https://prod.cms.va.gov/help
 3. Helpdesk will file a [Campaign Landing Page request runbook](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=jilladams%2C+wesrowe&labels=Needs+refining%2C+Public+Websites%2C+VA.gov+frontend%2C+User+support%2C+CLP&template=pw-clp-request.md&title=Campaign+Landing+Page+request%3A+%3Ccontent+info%3E) Github issue to track steps, which include: 
-    1. Ensuring PO (Dave Conlon) is aware and has reviewed / approved the creation / existence / description of the CLP.
+    1. Ensuring PO is aware and has reviewed / approved the creation / existence / description of the CLP.
     2. Ensuring IA (#sitewide-content-ia) review / approval of the requested vanity URL
     3. Drupal Admin/Helpdesk creating a CLP node from the [CLP template node](https://prod.cms.va.gov/node/16512)
     4. Helpdesk or Drupal admin creating a CMS user if needed, and assigning proper permissions according to [CLP CMS account administration policy](https://prod.cms.va.gov/help/cms-account-admin-policies/clp-cms-account-administration-policy).
