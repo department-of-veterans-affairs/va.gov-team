@@ -56,3 +56,7 @@ _Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https:
   _Decided in the ARM Leadership Sync ([Slack message]([https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBDea62d19cad5b44ccbaa5e0055))._
 - **12/10/2024**: Decided not to block users from submitting digital POA requests, when there are limitations of consent. This will avoid introducing any persuasion/bias and we aren't too concerned about users limiting consent to medical records.\
   _Direction from Product Owner Jennifer Bertsch ([Slack message]([https://dsva.slack.com/archives/C05L6HSJLHM/p1733853832182779?thread_ts=1733852923.213349&cid=C05L6HSJLHM))._
+- **12/18/2024**: Decided to remove the "Next Steps" cover page from the generated PDF, as it was causing accessibility issues with the pre-filled form.\
+  _Confirmed by Product Owner Jennifer Bertsch ([Slack message]([https://dsva.slack.com/archives/C05L6HSJLHM/p1734550746763029?thread_ts=1734541936.131369&cid=C05L6HSJLHM))._
+
+  
