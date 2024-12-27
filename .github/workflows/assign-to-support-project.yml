@@ -10,7 +10,7 @@ env:
   MY_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
 
 jobs:
-  assign-to-support-project:
+  assign_one_project:
     runs-on: ubuntu-latest
     name: Add issues to Github projects based on labels
     steps:
