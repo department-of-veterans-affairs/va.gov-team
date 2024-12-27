@@ -62,7 +62,7 @@ We are actively working with the Platform Analytics team to visualize our[ ARM O
 
 ### Version 2.0 
 
-Find a Representative 2.0 was released to 100% of users on March 13, 2024. A landing page "Get help from a VA accredited representative or VSO" (rooted in the Resources and Support section of VA.gov) was also published, and this content page includes a link to the Find a Representative tool ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md)).
+Find a Representative 2.0 was **released to 100% of users on March 13, 2024**. A landing page "Get help from a VA accredited representative or VSO" (rooted in the Resources and Support section of VA.gov) was also published, and this content page includes a link to the Find a Representative tool ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md)).
 
 There will be multiple entry points into the landing page, stemming from the main navigation as well as in-context with related benefits pages. The team worked with CAIA to implement Best Bets and redirects on March 18, 2024. [Complete outline of Redirects and Best Bets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/manage-accredited-representative.md).
 
