@@ -21,7 +21,7 @@ jobs:
         project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
         column_name: 'Support Tickets'
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        MY_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
     - name: Add issues with `new-vfs-team` and `new-vfs-team-member` label to Platform Support project Platform Onboarding column
       uses: srggrs/assign-one-project-github-action@1.2.1
       if: |
