@@ -98,6 +98,6 @@ The implementation will involve modifications to the Ruby code responsible for f
 By implementing these changes, we will significantly improve the reliability and robustness of our file processing infrastructure, eliminating the recurring "No such file or directory" errors and their associated negative impacts. This will result in a better user experience, improved data integrity, reduced support costs, and greater business stability. We recommend prioritizing this work to prevent further disruptions and ensure the long-term health of our application.
 
 
-Appendix A
+<h2> Appendix A </h2>
 
 <img width="902" alt="Screenshot 2024-12-27 at 3 24 38 PM" src="https://github.com/user-attachments/assets/6c11afd7-2899-41df-bd43-a6d3f09808b6" />
