@@ -45,6 +45,29 @@ To address the root cause of the problem and prevent future occurrences, we prop
 
 * Explicitly closing file handles: After writing to a file, the file handle must be explicitly closed using file.close to ensure that all buffered data is flushed to the file system.
 
+  ```require 'fileutils'
+
+temp_file = Tempfile.new(['my_file', '.pdf'])
+temp_path = temp_file.path
+# ... write to the temp_file ...
+temp_file.close # VERY IMPORTANT: Close the file to flush changes
+
+# ... some external process, e.g. using system or backticks
+system("some_command #{temp_path}")
+# OR
+`some_command #{temp_path}`
+
+# Check exit status of system command
+if $?.success?
+  FileUtils.mv(temp_path, final_path)
+else
+  Rails.logger.error("External command failed: #{$?}")
+  # Handle the error appropriately
+end
+
+# OR, if not using an external process:
+FileUtils.mv(temp_path, final_path) ```
+
 * Checking for process completion: If external processes are used to manipulate files, we must wait for these processes to complete successfully before proceeding.
 
 2. Atomic File Operations: Where possible, we should use atomic file operations (operations that are guaranteed to complete fully or not at all). This prevents partial file operations that can lead to inconsistencies.
