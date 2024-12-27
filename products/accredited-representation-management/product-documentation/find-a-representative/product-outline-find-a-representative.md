@@ -134,7 +134,7 @@ Find a Representative 1.0 (MVP) was targeted to release in December 2023 ([relea
 
 ## **Future Plans and Ideas**
 
-When our[ Appoint a Representative product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) goes live, we will work with stakeholders to redirect related pages within[ eBenefits](https://www.docstomarkdown.pro/convert-markdown-to-google-docs-online/%5Bhttps://www.ebenefits.va.gov/ebenefits/vso-search).
+When the [Appoint a Representative product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) is released, we will work with stakeholders to redirect related pages within[ eBenefits](https://www.docstomarkdown.pro/convert-markdown-to-google-docs-online/%5Bhttps://www.ebenefits.va.gov/ebenefits/vso-search).
 
 We may also redirect the[ legacy OGC representative search](https://www.va.gov/ogc/apps/accreditation/index.asp), if there are no downstream effects.
 
