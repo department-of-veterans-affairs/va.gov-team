@@ -8,14 +8,18 @@ The core issue is a race condition related to file system operations. A race con
 
 In our specific scenario, the following sequence of events typically leads to the error:
 
-File Creation: A process begins writing data to a temporary file within the system's temporary directory (tmp/).
-File Operation (Rename/Move): Before the first process has fully completed writing to the file, another process attempts to rename or move this file to its final destination.
-Error: Because the file is not yet fully written or its creation is not yet fully committed to the file system, the rename/move operation fails with the "No such file or directory" error.
+1. File Creation: A process begins writing data to a temporary file within the system's temporary directory (tmp/).
+
+2. File Operation (Rename/Move): Before the first process has fully completed writing to the file, another process attempts to rename or move this file to its final destination.
+
+3. Error: Because the file is not yet fully written or its creation is not yet fully committed to the file system, the rename/move operation fails with the "No such file or directory" error.
+
 This problem is exacerbated by the following factors:
 
-Asynchronous Operations: Our application utilizes asynchronous processes and background jobs to handle certain file operations. This introduces concurrency and increases the likelihood of race conditions.
-Multi-threaded Environment: Our production environment uses a multi-threaded web server (e.g., Puma), allowing multiple requests to be processed concurrently. This further increases the chance of multiple processes accessing the same temporary files simultaneously.
-File System Latency: While generally fast, file system operations can experience brief delays, especially under heavy load. These delays can be sufficient to trigger race conditions if proper synchronization mechanisms are not in place.
+* Asynchronous Operations: Our application utilizes asynchronous processes and background jobs to handle certain file operations. This introduces concurrency and increases the likelihood of race conditions.
+
+* Multi-threaded Environment: Our production environment uses a multi-threaded web server (e.g., Puma), allowing multiple requests to be processed concurrently. This further increases the chance of multiple processes accessing the same temporary files simultaneously.
+* File System Latency: While generally fast, file system operations can experience brief delays, especially under heavy load. These delays can be sufficient to trigger race conditions if proper synchronization mechanisms are not in place.
 
 <h2> Impact: </h2>
 
