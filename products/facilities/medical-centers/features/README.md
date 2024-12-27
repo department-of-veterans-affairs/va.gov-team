@@ -1,6 +1,12 @@
 # VAMC features
 
-VAMCs are comprised of many features, mostly deriving from Drupal. Major features include: 
+VAMCs are comprised of many features, mostly deriving from Drupal. 
+
+## Structure overview
+[**VAMC Structure Overview** (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1735240054295/6544293bd5824a39b7d041227275c301aa967146) - Updated Dec 2024
+
+
+Major features include: 
 * [Editor Knowledge Base](https://prod.cms.va.gov/help/vamc)
 * [Centralized Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/features/README.md#centralized-content)
 * [VAMC System](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/features/README.md#vamc-system)
@@ -32,6 +38,10 @@ National Editors create and manage the content.
 Drupal then embeds that content on the related nodes in a way that shows local Editors what the centralized content says, but does not allow them to edit it. 
 
 Centralized Content is used on all modernized Facility types. (As of Nov 2024: VAMCs, Vet Centers, VBA Regional Offices.)
+
+**Related KBs**
+* [VAMC Centralized content](https://prod.cms.va.gov/help/vamc/vamc-centralized-content)
+
 
 ## VAMC System
 VA Medical Care (VAMC) facilities are organized into Systems. There are currently (Dec 2024) 140 existing VAMC Systems. A VAMC System is also a Drupal entity that includes a standard information architecture (in all but 2 cases). 
@@ -73,6 +83,11 @@ There are two unique VAMC Systems that do not follow the standard IA: Lovell, an
 ### Lovell
 Lovell is a unique VAMC health care system. Other VAMC Systems only service Veterans. Lovell includes some facilities which serve both Veterans and active duty personnel, and other facilities which serve only Veterans OR active duty personnel OR enlisted recruits. Veterans may use VA benefits; active duty or enlisted recruits may use DoD benefits, also referred to as TRICARE. VA and TRICARE benefits offer different information and separate portals for completing top tasks (e.g. scheduling appts, Rx, accessing medical records, etc).
 
+**Related KBs**
+* [Creating content for Lovell Federal health care](https://prod.cms.va.gov/help/vamc/creating-content-for-lovell-federal-health-care)
+* [Assigning Lovell Federal health care content to a section](https://prod.cms.va.gov/help/vamc/assigning-lovell-federal-health-care-content-to-a-section)
+* [Understanding the Lovell menu structure](https://prod.cms.va.gov/help/vamc/understanding-the-lovell-menu-structure)
+
 #### Drupal Sections 
 [Lovell Drupal content](https://prod.cms.va.gov/admin/content?title=&type=All&moderation_state=All&owner=347)
 
@@ -101,7 +116,10 @@ A listing page is built for each variant (VA and TRICARE), and in both cases the
 
 Top task links are handled in a similar way, and links from those tasks will vary, depending on which benefiary experience you are in. 
 
-![image (51)](https://github.com/user-attachments/assets/20873e41-fee6-4ba9-bac4-750de8d0e578)
+<details><summary>Lovell screenshot</summary>
+ 
+ ![image (51)](https://github.com/user-attachments/assets/20873e41-fee6-4ba9-bac4-750de8d0e578)
+</details>
 
 
 ### VA Manila
@@ -111,9 +129,20 @@ VA Manila is a custom VAMC System that is composed of ONLY the Manila VA clinic.
 
 The architecture of this System relies on the archived node being present in Drupal for breadcrumbs and menus to work correctly. 
 
+* [Manila initiative information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2024-manila) and [Epic #9419](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9419)
+* [Mural diagrams](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723593558224/a30b84ebae1d10930081e03f6bc8789ae00a0022?sender=u9c899abc4fe36c9a698b1647)
+* [Manila IA Sitemap on Sharepoint](https://dvagov.sharepoint.com/:x:/s/SitewideContract/EdEKl_6X5vRDs7uTjg5tMNUBfXEsWuK834vmp7Hs4FZXZQ?e=b7juyL)
+
 ## Services
 ### VA Services taxonomy
-The VA Services taxonomy is a governed set of Service terms that describe services offered at VA facilities. VAMCs harness this taxonomy. (So do Vet Centers and VBA Regional Offices.)
+The [VA Services taxonomy](https://prod.cms.va.gov/admin/structure/taxonomy/manage/health_care_service_taxonomy/overview) is a governed set of Service terms that describe services offered at VA facilities. VAMCs harness this taxonomy. (So do Vet Centers and VBA Regional Offices.)
+
+* Service taxonomy product documentation: [products/facilities/va-service-taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/va-service-taxonomy)
+* [New taxonomy term Issuetemplate](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?template=taxonomy-add-term.yml)
+* [Update taxonomy term issuetemplate](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?template=taxonomy-update-term.yml)
+
+**KBs**
+* [How do I change the name of a health service?](https://prod.cms.va.gov/help/vamc/how-do-i-change-the-name-of-a-health-service)
 
 ### VAMC System Health Services
 VAMC System Health Service is a Drupal node type that establishes a relationship between a VA Services taxonomy term, and a VAMC System, and indicates that the given Service can be / is offered within that System. 
@@ -143,7 +172,8 @@ Drupal is the source of truth about Services offered at a Facility.
 Service data is migrated to Lighthouse as a consumer via the [Drupal facilities migration](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/migrations-facility.md#data-flow) overlay.
 
 **Related KBs:**
-[How to add, edit, or remove a VAMC facility health service](https://prod.cms.va.gov/help/vamc/how-to-add-edit-or-remove-a-vamc-facility-health-service)
+* [How to add, edit, or remove a VAMC facility health service](https://prod.cms.va.gov/help/vamc/how-to-add-edit-or-remove-a-vamc-facility-health-service)
+* [Remove a health service from a facility page](https://prod.cms.va.gov/help/vamc/remove-a-health-service-from-a-facility-page)
 
 ### VAMC Facility Non-clinical Services
 [All VAMC Facility Non-Clinical Services in Drupal](https://prod.cms.va.gov/admin/content?title=&type=vha_facility_nonclinical_service&moderation_state=All&owner=All)
@@ -166,6 +196,9 @@ For the tasks that Veterans and Caregivers have to perform most frequently withi
 4. VAMC System Policies page
 
 These content types provide a structured way to present national policy information or consistent language via Centralized Content. The first 3 (Medical Records, Billing & Insurance, and Register for care) are also corelated with Non-clinical services, and Top Task pages list the Facilities where that Non-clinical service is available, within the system.
+
+**KBs**
+* [How to edit a VAMC "Top Task" detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-a-vamc-top-task-detail-page)
 
 ### VAMC Billing & Insurance
 [All published VAMC Billing & Insurance pages](https://prod.cms.va.gov/admin/content?title=&type=vamc_system_billing_insurance&moderation_state=published&owner=All)
@@ -223,15 +256,17 @@ The System Operating Status page is a structured content type in Drupal that gen
 [All VAMC System Operating Status pages.
 ](https://prod.cms.va.gov/admin/content?title=&type=vamc_operating_status_and_alerts&moderation_state=published&owner=All)
 
-[ALl VAMC System Operating Statuses](https://prod.cms.va.gov/admin/content/vamc-alerts-and-statuses?field_alert_type_value=All&type=vamc_operating_status_and_alerts&moderation_state=All&status=1&field_administration_target_id=All) -- Statuses that appear on the pages above
+[All VAMC System Operating Statuses](https://prod.cms.va.gov/admin/content/vamc-alerts-and-statuses?field_alert_type_value=All&type=vamc_operating_status_and_alerts&moderation_state=All&status=1&field_administration_target_id=All) -- Statuses that appear on the pages above
 
 Example: 
 * Drupal: https://prod.cms.va.gov/birmingham-health-care/operating-status
 * https://www.va.gov/birmingham-health-care/operating-status
 
 **Related KB articles:**
-[About alerts and operating statuses](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/about-alerts-and-operating-statuses)
-[How to edit a facility operating status](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/about-alerts-and-operating-statuses)
+* [About alerts and operating statuses](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/about-alerts-and-operating-statuses)
+* [How to edit a facility operating status](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/about-alerts-and-operating-statuses)
+* [How to edit a VAMC facility operating status](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/about-alerts-and-operating-statuses/how-to-edit-a-vamc-facility-operating-status)
+* [Resources for emergency situations](https://prod.cms.va.gov/help/cms-basics/resources-for-emergency-situations)
 
 ## VAMC System banners with situation updates
 VAMC System Banners with situation updates (SBwSU) are a complex Drupal content type used to make VA.gov visitors aware of urgent issues such as inclement weather, unexpected closures, or patient safety issues. They can consist of three components: 
@@ -248,7 +283,11 @@ When creating a VAMC SBwSU, Editors specify within which System the banner shoul
 
 Editors may also opt to set the System banner to be dismissable. Once a user dismissed the banner, it will not appear to that user again, based on a cookie value. For this reason, Editors are encouraged to archive old banners and create new, rather than editing / re-using existing banners.
 
-Historically, this banner template is managed in content-build. The content-build > content-release publishing time exceeded 1 hour in 2024, and led to the VAMC real-time banners project, to enable faster publishing for this patient-safety-related content.
+Historically, this banner template is managed in content-build. The content-build > content-release publishing time exceeded 1 hour in 2024, and led to the [VAMC real-time banners initiative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2024-real-time-banners), to enable faster publishing for this patient-safety-related content.
+
+**Related KBs**
+* [How to add a system banner alert](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/about-alerts-and-operating-statuses/how-to-add-a-system-banner-alert)
+* [Best practices for VAMC system banner alerts](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/about-alerts-and-operating-statuses/best-practices-for-vamc-system-banner-alerts)
 
 ### Email Updates with GovDelivery
 Editors may opt to "Send email update on this situation". Anyone subscribed to emergency updates for VAMCs associated with this situation update will receive an email via GovDelivery.
@@ -256,7 +295,7 @@ Editors may opt to "Send email update on this situation". Anyone subscribed to e
 ### Situation Update
 Situation updates consist of a rich-text Update, a date & time stamp, and an option to send the Update via email  to subscribers of emergency emails for that VAMC System. This allows Editors to create a one-time banner, but follow up with evolving updates as a situation develops. 
 
-Situation updates appear on each VAMCs' Operating status page. 
+Situation updates appear on each VAMC System Operating status page. 
 
 **Related KB articles:**
 [How to create a situation update](https://prod.cms.va.gov/help/vamc/how-to-create-a-situation-update)
@@ -270,7 +309,7 @@ Real-time banners do not currently (Dec 2024) support Situation Updates or Email
 * [Technical architecture overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2024-real-time-banners/engineering/technical-architecture.md)
 
 ## VAMC Facility
-All published VAMC Facilities](https://prod.cms.va.gov/admin/content?title=&type=health_care_local_facility&moderation_state=published&owner=All)
+[All published VAMC Facilities](https://prod.cms.va.gov/admin/content?title=&type=health_care_local_facility&moderation_state=published&owner=All)
 
 A VAMC Facility is single facility within a VAMC System. This can be a:
 * VA Medical Center (hospital)
@@ -289,10 +328,10 @@ VAMC Facilities contain:
 VAMC Facilities have associated Facility Health Services, or Facility Non-clinical services. 
 
 **Related KBs:**
-[How to edit a VAMC facility](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-locations-content-for-vamcs/how-to-edit-a-vamc-facility)
-[How do I update my VAMC Facility's Basic Location Data?](https://prod.cms.va.gov/help/vamc/how-do-i-update-my-vamc-facilitys-basic-location-data)
-[How to add a VAMC facility image](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/how-to-add-a-vamc-facility-image)
-[How to add or edit a VAMC facility mental health phone number](https://prod.cms.va.gov/help/vamc/how-to-add-or-edit-a-vamc-facility-mental-health-phone-number)
+* [How to edit a VAMC facility](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-locations-content-for-vamcs/how-to-edit-a-vamc-facility)
+* [How do I update my VAMC Facility's Basic Location Data?](https://prod.cms.va.gov/help/vamc/how-do-i-update-my-vamc-facilitys-basic-location-data)
+* [How to add a VAMC facility image](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/how-to-add-a-vamc-facility-image)
+* [How to add or edit a VAMC facility mental health phone number](https://prod.cms.va.gov/help/vamc/how-to-add-or-edit-a-vamc-facility-mental-health-phone-number)
 
 ## VAMC System Locations List
 [All VAMC System Locations lists](https://prod.cms.va.gov/admin/content?title=&type=locations_listing&moderation_state=published&owner=All)
@@ -304,6 +343,12 @@ The actual front-end content of Facilities in a System is determined programmati
 Example: 
 * Drupal locations list: https://prod.cms.va.gov/eastern-kansas-health-care/locations
 * VA.gov page: https://www.va.gov/eastern-kansas-health-care/locations/
+
+**Related KBs**
+* [How to edit a Locations List](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-locations-content-for-vamcs/how-to-edit-a-locations-list)
+* [About locations content — for VAMCs](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs)
+* [How to add Other VA locations](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/how-to-add-other-va-locations)
+* [How do I update my VAMC Facility's Basic Location Data?](https://prod.cms.va.gov/help/vamc/how-do-i-update-my-vamc-facilitys-basic-location-data)
 
 ## VAMC System VA Police
 [All published VAMC System VA Police pages](https://prod.cms.va.gov/admin/content?title=&type=vamc_system_va_police&moderation_state=published&owner=All)
@@ -328,25 +373,48 @@ Future state epic: https://github.com/department-of-veterans-affairs/va.gov-cms/
 
 Each VAMC System has a Leadership list page, that displays Staff Profiles. To appear in the list, each Staff Profile should be entered in the Leadership team list as a node reference.
 
-**Related KB:** [How to edit a leadership list](https://prod.cms.va.gov/help/vamc/how-to-edit-a-leadership-list)
+**Related KB:** 
+[How to edit a leadership list](https://prod.cms.va.gov/help/vamc/how-to-edit-a-leadership-list)
 
 ### Staff profiles
 [All published Staff profiles](https://prod.cms.va.gov/admin/content?title=&type=person_profile&moderation_state=published&owner=All)
 
 Staff Profiles include bio information about individuals and can include a photo. 
+
 Staff profiles may have their own page if "Create profile page with biography" is selected on the Drupal form.
 
-**Related KB:** [How to edit or add a staff profile](https://prod.cms.va.gov/help/vamc/how-to-edit-or-add-a-staff-profile)
+**Related KB:** 
+[How to edit or add a staff profile](https://prod.cms.va.gov/help/vamc/how-to-edit-or-add-a-staff-profile)
 
 
-## News Releases
+## News Release listings & News Releases
+Each VAMC System has a  News Releases page, that displays News published news releases for that system, newest to oldest.
 
+**Related KB:** 
+* [What is a News Releases List](https://prod.cms.va.gov/help/vamc/about-news-release-content-for-vamcs/what-is-a-news-releases-list)
+* [How to add a news release](https://prod.cms.va.gov/help/vamc/about-news-release-content-for-vamcs/how-to-add-a-news-release)
+* [About news release content - for VAMCs](https://prod.cms.va.gov/help/vamc/about-news-release-content-for-vamcs/what-is-a-news-releases-list)
 
 ## Stories
+Community stories highlight the role of a VA facility, program, or healthcare system in a Veteran's journey. They may be a case study of a specific patient, a description of a new or successful program, or a community-interest story.
 
+**Featuring**: A story can be "Featured" on a VAMC System homepage. Featuring is buggy, and has some work outlined for a future state to better manage: [[EPIC] Rethink approach to VAMC Featured Stories #11401](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11401).
+
+**Related KB:** 
+* [What is the Stories list](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-stories-content-for-vamcs/how-to-edit-a-stories-list)
+* [How to add or edit a Story](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-stories-content-for-vamcs/how-to-add-a-story)
+* [How do I feature a Story on my site's homepage](https://prod.cms.va.gov/help/vamc/how-do-i-feature-a-story-on-my-sites-homepage)
 
 ## Events
+Events are technically owned by the Public Websites team, but VAMC Events represents the vast majority of all Events. 
 
+[Public Websites: Events product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites#event-detail-page)
+
+**Featuring**: Events can be "Featured" on a VAMC System homepage. Featuring is buggy. When featuring is reworked for Stories ([[EPIC] Rethink approach to VAMC Featured Stories #11401](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11401)), it will be removed from Events ([Epic: Deprecate "featured" UX and combined workflow for stories and events #1318](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1318).
+
+**Related KB:** 
+* [How to edit an event](https://prod.cms.va.gov/help/cms-basics/how-to-edit-an-event)
+* [About Events content - for VAMCs](https://prod.cms.va.gov/help/vamc/about-events-content-for-vamcs)
 
 
 ## VAMC Detail Pages
@@ -365,13 +433,6 @@ Top task pages currently created using VAMC Detail pages:
 * [How to edit or add a VAMC detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-or-add-a-vamc-detail-page)
 * [How to edit a VAMC contact us top task detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-a-vamc-top-task-detail-page)
 * [How to edit a VAMC make an appointment top task detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-a-vamc-top-task-detail-page)
-* [How to edit a VAMC Pharmacy top task detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-a-vamc-top-task-detail-page
+* [How to edit a VAMC Pharmacy top task detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-a-vamc-top-task-detail-page)
 * [How to edit a VAMC "Health Service Caregiver Page" using a detail page](https://prod.cms.va.gov/help/vamc/about-health-services/how-to-edit-a-vamc-health-service-caregiver-page-using-a-detail-page)
 
-
-TODO:
-- News release listing & news releases
-- Stories
-- Events
-- Related KBs where missing
-- Example URLs
