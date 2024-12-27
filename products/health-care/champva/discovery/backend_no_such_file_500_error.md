@@ -100,4 +100,5 @@ By implementing these changes, we will significantly improve the reliability and
 
 <h2> Appendix A </h2>
 
-<img width="902" alt="Screenshot 2024-12-27 at 3 24 38 PM" src="https://github.com/user-attachments/assets/6c11afd7-2899-41df-bd43-a6d3f09808b6" />
+<img width="902" alt="Screenshot 2024-12-27 at 3 27 33 PM" src="https://github.com/user-attachments/assets/88e1fb98-e128-4721-897c-e22aa4809771" />
+
