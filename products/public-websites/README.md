@@ -1,4 +1,4 @@
-# Public Websites
+# Public Websites Portfolio
 
 ## PW Contact
 April 2022: Public Websites products are currently maintained by the [Sitewide Public Websites team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/sitewide/public-websites). 
@@ -15,40 +15,39 @@ All requests will be refined and planned according to other team priorities, so 
 - [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
 
 ### Github / work tracking
-- [va.gov-cms Sprint board](https://github.com/department-of-veterans-affairs/va.gov-cms/#workspaces/public-websites-6171bf4bf43742001af18cc5/board)  (install Zenhub browser plugin)
-- Team label: `Public Websites`
+- [va.gov-cms Sprint board](https://github.com/orgs/department-of-veterans-affairs/projects/1442/views/1) (in Github Projects. The `sitewide` label must be applied for issues to appear in the board.)
+- Team labels: `Public Websites`. `sitewide`
 
 ### Monitoring
 [Public Websites Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/szu-xny-9fu/public-websites-dashboard?refresh_mode=sliding&from_ts=1698247139212&to_ts=1698250739212&live=true)
 Monitors for each product are described within product folders. e.g. 
-* [Find a Form monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/monitoring.md)
-* [VA.gov homepage monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/engineering/monitoring.md)
+* [Find a Form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/monitoring.md)
 * [Injected Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/engineering/monitoring.md)
+* [VA.gov homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/engineering/monitoring.md)
 * [VA.gov search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/engineering/monitoring.md)
 
 # Products we support
 
-[Sitewide Public Websites purview mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/vagov6717/1646745279937/9a5570c420939d84e875e8334fd73073e3a3971b?fromVisitorModal=true&sender=u0b235d03cbd64f7f93673243)
+[Sitewide Public Websites purview mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/vagov6717/1646745279937/9a5570c420939d84e875e8334fd73073e3a3971b?wid=34-1727133718954)
 
 ## 
 
 | [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) |
 | ------------- | ------------- | ------------- |
 | [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Discharge upgrade wizard](#discharge-upgrade-wizard) | [Appeal Modernization Process](#appeal-modernization-process) |
-| [Benefits Detail Page](#benefits-detail-page) |  | [Disability rating calculator](#disability-rating-calculator) |
-| [Campaign Landing Pages](#campaign-landing-pages-clp) | [Header / footer injection](#header--footer-injection) | [Downtime messaging](#downtime-messaging) |
-| [Events List](#events-list) | [Income limits web application](#income-limits-web-application) | [Harassment Reporting Tool](#harassment-reporting-tool) |
-| [Event](#event-detail-page) | [Non-facility Redirects](#non-facility-redirects) | . |
-| [FAQ Page](#faq-page) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [“How to apply” wizards](#how-to-apply--benefit-wizards) |
+| [Benefits Detail Page](#benefits-detail-page) |  [Header / footer injection](#header--footer-injection) | [Disability rating calculator](#disability-rating-calculator) |
+| [Campaign Landing Pages](#campaign-landing-pages-clp) | [Income limits web application](#income-limits-web-application) | [Downtime messaging](#downtime-messaging) |
+| [Events](#events) | [Non-facility Redirects](#non-facility-redirects) | [Harassment Reporting Tool](#harassment-reporting-tool) |
+| [FAQ Page](#faq-page) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [“How to apply” wizards](#how-to-apply--benefit-wizards)  |
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [On-site search (using search.gov)](#on-site-search-using-searchgov) | [React widgets use within CMS](#react-widgets-use-within-cms) |
-| [Full-width Alert](#full-width-alert) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | . |
+| [Full-width Alert](#full-width-alert) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | [BTSSS react widget](#btsss-react-widget) |
 | [VA.gov Homepage](#vagov-homepage) | [CTA React widget](#cta-react-widget) | . |
-| [Promo Banner](#promo-banner) | . |  [BTSSS react widget](#btsss-react-widget)  |
+| [Promo Banner](#promo-banner) | . |  .  |
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
 | [Resources & Support](#resources-and-support) |  . | . |
 | [Reusable Q&A](#reusable-qa) | . | .  |
 | [Support Services](#resources-and-support) | . | .  |
-| [VA Benefits taxonomy](#va-benefits-taxonomy)
+| [VA Benefits taxonomy](#va-benefits-taxonomy) | | 
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
 
@@ -62,15 +61,15 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 - [ ] Search results page - https://www.va.gov/search/?query=benefits&t=false
 - [ ] Find a Form - https://www.va.gov/find-forms/
 - [ ] Form detail page - e.g. https://www.va.gov/find-forms/about-form-21p-534/
-- [ ] Breadcrumbs
+- [ ] Breadcrumbs on PW products
 
 ### CMS / Content driven products: 
 - [ ] Benefits Detail Page - e.g. https://www.va.gov/health-care/
 - [ ] Benefits Hub Landing Page - e.g. https://www.va.gov/health-care/about-va-health-benefits/
 - [ ] Campaign Landing Page - Currently published CLPs: https://prod.cms.va.gov/admin/content?title=&type=campaign_landing_page&moderation_state=published&owner=All
-- [ ] Events Listing - https://www.va.gov/outreach-and-events/events
+- [ ] Events Listing - https://www.va.gov/outreach-and-events/events - co-owned with Facilities
 - [ ] Event - Currently published Events (check several): https://prod.cms.va.gov/admin/content??title=&type=event&moderation_state=published&owner=All
-- R&S content types
+- Resources & Support content types
     - [ ] FAQ page - CMS examples: https://prod.cms.va.gov/admin/content?title=&type=faq_multiple_q_a&moderation_state=published&owner=All
     - [ ] Resources and Support Detail Page - CMS examples: https://prod.cms.va.gov/admin/content?title=&type=support_resources_detail_page&moderation_state=published&owner=All
     - [ ] Reusable Q&A - CMS examples: https://prod.cms.va.gov/admin/content?title=&type=q_a&moderation_state=published&owner=All
@@ -80,26 +79,27 @@ The Public Websites team also supports most of the portfolio of the previous Dec
     - [ ] Step-by-step
     - [ ] Checklist
     - [ ] Support Services
-- [ ] Full width alert - Currently published examples: https://prod.cms.va.gov/admin/content?title=&type=banner&moderation_state=published&owner=All
-- [ ] Promo banner - Currently published examples: https://prod.cms.va.gov/admin/content?title=&type=promo_banner&moderation_state=published&owner=All
+- [ ] Full width alert - [Currently published examples](https://prod.cms.va.gov/admin/content?title=&type=banner&moderation_state=published&owner=All)
+- [ ] Promo banner - [Currently published examples](https://prod.cms.va.gov/admin/content?title=&type=promo_banner&moderation_state=published&owner=All)
 - [ ] Outreach Hub (Until deprecation) - https://www.va.gov/outreach-and-events/outreach-materials/
 - [ ] Translations widget - e.g. https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers-esp/
-- [ ] VA Benefits taxonomy - (backend only) https://prod.cms.va.gov/admin/structure/taxonomy/manage/va_benefits_taxonomy/overview
+- [ ] VA Benefits taxonomy - (Drupal only) - https://prod.cms.va.gov/admin/structure/taxonomy/manage/va_benefits_taxonomy/overview
 
 ### React Applications: 
-- [ ] CTA widgets
+- [ ] CTA widgets - until MHV Cartography takes them in Feb 2025
     - [ ] Get medical records - https://www.va.gov/health-care/get-medical-records/
     - [ ] Make appointment - https://www.va.gov/health-care/schedule-view-va-appointments/
     - [ ] Refill/track prescriptions - https://www.va.gov/health-care/refill-track-prescriptions/
     - [ ] Send secure message - https://www.va.gov/health-care/secure-messaging/
     - [ ] View test and lab results page - https://www.va.gov/health-care/view-test-and-lab-results/
-- [ ] Discharge upgrade wizard - https://www.va.gov/discharge-upgrade-instructions/questions
+- [ ] Discharge upgrade wizard - https://www.va.gov/discharge-upgrade-instructions/
 - [ ] Income Limits app - https://www.va.gov/health-care/income-limits/introduction
-- [ ] PACT Act app - Not yet shipped: https://staging.va.gov/pact-act-eligibility/introduction
+- [ ] PACT Act app - Not yet shipped (12/24): https://staging.va.gov/pact-act-eligibility/introduction
   
 </details>
 
 ## Changelog
+* 11/2024: In Jan/Feb 2025, MHV Cartography team will take ownership of the 5 CTA widget apps currently owned by PW
 * 09/23/2024: Design System Team now owns the global Header and footer markup: https://dsva.slack.com/archives/C52CL1PKQ/p1727120068414909
 * 07/2024: Design System team now owns the Veterans Crisis Line modal as a component: https://dsva.slack.com/archives/C06V7AAFVH7/p1721850350022329?thread_ts=1720203529.734199&cid=C06V7AAFVH7
 * [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md) - previous doc of tools that were moved from Decision Tools > Search & Discovery and are now under Public Websites purview
@@ -107,31 +107,27 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 * 11/2023: [Shadow / dark launches of content](#shadow--dark-launches-of-content) - Transitioned to CMS team for long term ownership. Docs will be removed from this page, TBD a new future home for CMS product docs.
 * 11/2023: [Yellow-ribbon tool](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/README.md) moved to new IIR team. 
 
+
 ---
 
 # CMS content / functionality
-
 
 ## Benefits Hub Landing Page
 
 **What is:**
 
-Veterans are eligible for a variety of Benefits, e.g. healthcare, education, pension, burial, etc. This Drupal content type holds overview content for each benefit, and links to drill down into specifics for applying for / managing that benefit.
+Veterans are eligible for a variety of Benefits, e.g. healthcare, education, pension, burial, etc.  This Drupal content type holds overview content for each benefit, and links to drill down into specifics for applying for / managing that benefit.
+* **Product docs:** [products/content/benefit-hubs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/benefit-hubs)
+* **Primary stakeholder(s):** Sitewide Content team owns the content and drives feature priorities.
 
 **Example content:**
-* URL: [https://www.va.gov/health-care/](https://www.va.gov/health-care/) 
-* CMS: [https://staging.cms.va.gov/health-care](https://staging.cms.va.gov/health-care) 
+* URL: https://www.va.gov/health-care/
+* CMS: https://staging.cms.va.gov/health-care
 
-**Governance / Editor guidance:**
-* Primary editors: Sitewide Content team
-
-Benefits hubs / detail pages feature strongly in the VA.gov header (aka the “mega-menu”)
+Benefits hubs / detail pages in the VA.gov header (aka the “mega-menu”)
 ![Picture1](https://user-images.githubusercontent.com/85581471/186540988-fc46119c-5510-4817-8a45-92147803d535.png)
 
-
 **More info:**
-* A6 program GDrive folder:[ Benefits Hubs](https://drive.google.com/drive/u/1/folders/1nvQwXSxHGqHdN6qgEUte5z2fXyJvRJxH)
-* [2018-2019 Benefit hub optimization effort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/benefit-hubs) (github)
 * [VFS Product Directory: Benefits Hubs](https://depo-platform-documentation.scrollhelp.site/getting-started/benefits-hubs)
 
 
@@ -142,13 +138,12 @@ Benefits hubs / detail pages feature strongly in the VA.gov header (aka the “m
 Page that contains detail about each Benefit, linked primarily from Benefit Hubs, e.g. how to apply, managing your benefit, or benefit-specific details. 
 
 The content model is flexible to accommodate various types of content, using Drupal’s “paragraph” functionality, which allows insertion of accordion groups, link lists, alerts, process lists, Q&A (separate from Q&A node concept), images, etc. 
+* **Product docs:** [products/content/benefit-hubs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/benefit-hubs)
+* **Primary stakeholder(s):** Sitewide Content team owns the content and drives feature priorities.
 
 **Example content:**
 * URL: [https://www.va.gov/health-care/about-va-health-benefits/](https://www.va.gov/health-care/about-va-health-benefits/) 
 * CMS: [https://staging.cms.va.gov/health-care/about-va-health-benefits](https://staging.cms.va.gov/health-care/about-va-health-benefits) 
-
-**Governance / Editor guidance:**
-* Primary editors: Sitewide Content team
 
 **More info:**
 
@@ -158,12 +153,19 @@ The content model is flexible to accommodate various types of content, using Dru
 ## Campaign Landing Pages (CLP)
 
 **What is:**
+
 [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/campaign-landing-page)
-The Campaign Landing Page (CLP) is a page builder in the VA.gov Drupal CMS which enables VA businesses to create, launch and manage modern, mobile-responsive, accessibility-optimized campaign landing pages to promote marketing or engagement content.
+
+The Campaign Landing Page (CLP) is a flexible Drupal content type which enables VA businesses to create, launch and manage modern, mobile-responsive, accessibility-optimized campaign landing pages to promote marketing or engagement content.
 
 Campaign Landing Pages are intended to prevent creation of standalone marketing sites, and to create a rich experience for topics that are not otherwise Veterans benefit / facility related content.
 
-[Runbook to create](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/campaign-landing-page#runbook-for-clp-creation)
+* **Product docs:** [products/campaign-landing-page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/campaign-landing-page)
+* **Primary stakeholder(s):** Leadership from any VA administration may have need to create CLPs to advertise important programs, including:
+  * VEO
+  * Sitewide Content team
+  * VHA
+* [Runbook to create a clp](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/campaign-landing-page#runbook-for-clp-creation)
 
 **Example content:**
 * URL: [https://www.va.gov/initiatives/vote/](https://www.va.gov/initiatives/vote/) 
@@ -173,83 +175,70 @@ Campaign Landing Pages are intended to prevent creation of standalone marketing 
 **Governance / Editor guidance:**
 * Governance: [VA.gov.Campaign.Landing.Page_Governance_Product_Guide_01Mar2022.pptx](https://docs.google.com/presentation/d/1y7FnBuaOrbfR_Bap0zAhMceVO8jlEeX9/edit#slide=id.p1) 
 * Primary editors: Team that originates the request, with authorization from PO and URL guidance from Sitewide Content
-* [Editor guidance: How to manage a CLP](https://prod.cms.va.gov/help/campaign-landing-pages/how-to-manage-campaign-landing-pages) 
+* Related KBs:
+    * [Editor guidance: How to edit and maintain a Campaign Landing Page](https://prod.cms.va.gov/help/campaign-landing-pages/how-to-manage-campaign-landing-pages) 
 
 
 **More info:**
-* A6 program GDrive folder:[ Campaign Landing Page](https://drive.google.com/drive/u/1/folders/1pyvDhf6ZdvBehFs3lFzyAF2kMeGkazX6)
-* [Product launch docs: tier 2 content IA & Design > Campaign Landing Page Templates - Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates) 
+* [Product launch docs: tier 2 content IA & Design > Campaign Landing Page Templates - Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/VA.gov.Campaign.Landing.Page_Governance_Product_Guide_11302021.pptx) 
 * [VFS Product Directory: Campaign Landing Page](https://depo-platform-documentation.scrollhelp.site/getting-started/campaign-landing-page)
 
 
-## Events List
+## Events 
 
 **What is:**
 
-Template that displays chronological list of Events published to that list. There are two types of events lists: those that are associated with National VA (Outreach & Events hub) and those associated with specific VA Medical Center (VAMC) facilities.
+VA facilities and Outreach teams host a variety of events that Veterans and Caregivers can attend. The Events product manages that event information, including recurring events, and registration and location information. Events in VA.gov do not include functionality for managing sign-ups, but can contain links or contact information so that local event hosts manage the actual participant registration. 
 
-Events / lists may only be managed by editors with permissions for that specific VAMC facility or office (aka “Section").
-
-Events filters are available on Lists, to filter by past, future, or specific date(s). (Filters may also be referred to as “V2 filters”.)  Most common events lists:
-
-**Outreach & Events hub** - typically online events, not location specific 
-* URL: [https://www.va.gov/outreach-and-events/events/](https://www.va.gov/outreach-and-events/events/)
-* CMS: [https://staging.cms.va.gov/outreach-and-events/events](https://staging.cms.va.gov/outreach-and-events/events) 
-* Primary editors: VEO (Veteran Experience Office) editors
-
-**VAMC Events** - example location: 
-* URL: [https://www.va.gov/minneapolis-health-care/events/](https://www.va.gov/minneapolis-health-care/events/) 
-* CMS: [https://staging.cms.va.gov/minneapolis-health-care/events](https://staging.cms.va.gov/minneapolis-health-care/events) 
-* Primary editors:  VAMC editors have permissions to edit Events within their VAMC pages
-
-**Related KBs**
-* [How to edit an Events list](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-events-content-for-vamcs/how-to-edit-an-events-list)
+Every VAMC System on VA.gov has an Events page for events hosted by / at facilities in that system, and the VEO office manages the [Outreach Events](https://www.va.gov/outreach-and-events/events/) calendar.
 
 **More info:**
-* A6 program GDrive folder: [Events](https://drive.google.com/drive/u/1/folders/1wGqhMBGs-baLOFarU2Jgii8Pz2IFIas6)
-* [Events maintenance & support epic #9438](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9438) 
-* Filters were added Q2 2022, [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9435](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9435) 
+* **Product docs:** [products/outreach-events](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/outreach-events)
+* [SUPEREPIC: Events maintenance & support #9438](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9438) 
 * [VFS Product Directory: Outreach Events Hub & Calendar](https://depo-platform-documentation.scrollhelp.site/getting-started/outreach-events-hub-and-calendar)
 
+### Event Listings
 
-## Event (detail page)
+Events Listings provide the main Events page per VAMC System and for Outreach Events. Event Listings display a chronological list of Events published to that listing. Events filters are available on Event Listings, to filter by past, future, or specific date(s). 
 
-**What is:**
-The event detail page, which is created via Drupal content type for online or in-person events like support groups, outreach events, public lectures, pickleball games and more.
+In Drupal, every VAMC has an Event listing, and VEO has the Outreach event listing. Events / lists may only be managed by editors with permissions for that specific VAMC facility or office (aka “Section").
 
-Events must be associated with an Events list, which governs permissions for editing and presentation in the front-end for veterans. 
+### Event Detail page
+
+Event detail pages are created in Drupal, associated with an Events list where they will appear on VA.gov. 
 
 Events may be single or recurring, and are either: 
 * At a VA facility
 * At a non-VA location
 * Online
 
-**Outreach & Events event** - typically online events, not location specific 
-* URL: [https://www.va.gov/outreach-and-events/events/48074/](https://www.va.gov/outreach-and-events/events/48074/) 
-* CMS: [https://staging.cms.va.gov/outreach-and-events/events/48074](https://staging.cms.va.gov/outreach-and-events/events/48074) 
-* Primary editors: VAMC editors have permissions to edit Events within their VAMC pages
 
-**VAMC Events -**
-* URL: [https://www.va.gov/minneapolis-health-care/events/47981/](https://www.va.gov/minneapolis-health-care/events/47981/) (recurring)
-* CMS: [https://staging.cms.va.gov/minneapolis-health-care/events/47981](https://staging.cms.va.gov/minneapolis-health-care/events/47981) 
-* Primary editors:  VEO editors
+### Example content 
+
+**Outreach & Events hub** - The national VEO outreach events calendar. (VAMC editors may publish local events to this calendar via a checkbox on the Event form.)
+* Event listing: [https://www.va.gov/outreach-and-events/events/](https://www.va.gov/outreach-and-events/events/)
+* Event listing CMS: [https://staging.cms.va.gov/outreach-and-events/events](https://staging.cms.va.gov/outreach-and-events/events) 
+* Event detail page: [https://www.va.gov/outreach-and-events/events/48074/](https://www.va.gov/outreach-and-events/events/48074/)
+* Event detail page CMS: [https://staging.cms.va.gov/outreach-and-events/events/48074](https://staging.cms.va.gov/outreach-and-events/events/48074) 
+* Primary editors: VEO (Veteran Experience Office) editors
+
+**VAMC Events** - Every VAMC System has an Events page
+* Event listing: [https://www.va.gov/minneapolis-health-care/events/](https://www.va.gov/minneapolis-health-care/events/) 
+* Event listing CMS: [https://staging.cms.va.gov/minneapolis-health-care/events](https://staging.cms.va.gov/minneapolis-health-care/events) 
+* Event detail page: [https://www.va.gov/minneapolis-health-care/events/47981/](https://www.va.gov/minneapolis-health-care/events/47981/) (recurring)
+* Event detail page CMS: [https://staging.cms.va.gov/minneapolis-health-care/events/47981](https://staging.cms.va.gov/minneapolis-health-care/events/47981)
+* Primary editors:  Editors with Section permissions to that VAMC System can create / maintain events
 
 **Related KBs**
+* [How to edit an Events list](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-events-content-for-vamcs/how-to-edit-an-events-list)
 * [How to edit an event](https://prod.cms.va.gov/help/cms-basics/how-to-edit-an-event)
 * [About Events content - for VAMCs](https://prod.cms.va.gov/help/vamc/about-events-content-for-vamcs)
 
 **More info:**
-* A6 program GDrive folder: [Events](https://drive.google.com/drive/u/1/folders/1wGqhMBGs-baLOFarU2Jgii8Pz2IFIas6)
-* Recurring events failed to launch twice in 2021, and launched successfully in Q2 2022: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1956](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1956) 
-   * Event recurrences are tricky to manage in terms of listing / filtering logic, and Q3 2022, PW team is working to close out backlog of related bugs.
-
+* [Engineering documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/outreach-events/engineering)
 
 
 ## Find a form / VA Forms
-
-[Topic Dive overview of the Forms product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide/topic-dives/README.md#71024---find-a-form), end to end
-
-Forms product & engineering documentation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form
 
 **What is:**
 
@@ -257,21 +246,23 @@ Forms are a critical part of the Veteran experience for applying for benefits & 
 
 Forms are then findable from the “[Find a form](https://www.va.gov/find-forms/)” interface – a search / listing of VA Forms results.
 
+* **Product & engineering docs:** [products/find-a-va-form](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form)
+* [Topic Dive overview of the Forms product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide/topic-dives/README.md#71024---find-a-form), end to end
+
 **Example content:**
 * Find a Form: [https://www.va.gov/find-forms/](https://www.va.gov/find-forms/) 
 * Example Form URL: [https://va.gov/find-forms/about-form-10-0388-4](https://va.gov/find-forms/about-form-10-0388-4)   
 * CMS VA Form node: [https://staging.cms.va.gov/node/6150/edit](https://staging.cms.va.gov/node/6150/edit)
 
 **More info:**
-* [Forms Product outline & historical docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form)
 * [Triage runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/README.md#troubleshooting) for errors / defects
 * [Engineering information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/engineering) including data diagrams, architecture information
 
-* [VA Forms Library Overview ](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview)(Platform docs) - IS NOT RELATED. This pertains, instead, to making usable online forms within VA.gov 
 
 ## Announcement Framework
 
 **What is:**
+
 Announcements are reusable components that give a common way to make full page announcements on VA.gov.  They are designed to be configurable site-wide without messing with the source code of other applications or digging into Metalsmith layout files to conditionally render.
 
 <img width="1167" alt="image" src="https://user-images.githubusercontent.com/61624970/218570338-9e1728ce-db6b-4639-aa4c-926225f4db42.png">
@@ -298,25 +289,32 @@ The `announcement` property in the rendered component will contain the announcem
 
 The `show` property can be set to one of 3 values defined in the AnnouncementBehavior enum constant, which are SHOW_ONCE, SHOW_EVERY_TIME and SHOW_ONCE_PER_SESSION. The SHOW_ONCE option persists to `localStorage`, the SHOW_ONCE_PER_SESSION persists to the `sessionStorage` and the SHOW_EVERY_TIME does not persist dismissal at all.
 
-Architecture:
+**Architecture:**
 
 The Announcement entry point uses React to bind to an element inside an announcement-root div at the top of the page body.  It renders an empty div in its place when there is no announcement to show.  Placing the Announcement div at the top of the html body allows focus to be directed to the skip-link element of the page on modal close, allowing for an accessible user experience.
 
 
 ## Full-width Alert
 
-aka: Banner, in the CMS
+**What is:**
+
+Full-width alerts are banners that appear just below the header on VA.gov. They're used for high visibility safety, weather, or program purposes. 
+
+* **Product documentation**: [products/full-width-alert/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/full-width-alert/)
+
+**Example content:**
+* [CMS](https://prod.cms.va.gov/admin/content?title=&type=banner&moderation_state=All&owner=All)
+
+**Governance / Editor guidance:**
+* Primary editors: Sitewide Content team
+
+**Related KBs**
+* [How to create a Full-width Alert Banner](https://prod.cms.va.gov/node/34828)
 
 **More info:**
-* Product documentation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/full-width-alert/
-* A6 program GDrive folder: [Banners](https://drive.google.com/drive/u/1/folders/1DAT-Pr_xEwNcnpqClgXFrvycF8MpS5Z4)
-* [Banner](https://design.va.gov/components/banner) : va.gov design system - describes usage / positioning
-* [Knowledge Base](https://staging.cms.va.gov/node/34828)
-* Previous docs/ initiatives: 
-   * Q42021 notes re: character count / governance, name change to full-width alert: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/promobanners/CMS-PW-notes-2021-11-24.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/promobanners/CMS-PW-notes-2021-11-24.md) 
-   * Homepage-only banner needed for OPIA (Q1 2021) [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page-banner/product-outline.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page-banner/product-outline.md) 
-   * Design considerations / use cases (Q2 2020) [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md) 
-   * Initial build (Q2 2020): [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/full-width-alert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/full-width-alert) 
+* [Banner component](https://design.va.gov/components/banner) : va.gov design system - describes usage / positioning
+* Content team history for banners: [products/content/banners/banner-alerts.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
+* [Bigger picture of all possible things called banner or alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/banners/README.md)
 
 
 ## Promo Banner
@@ -330,25 +328,26 @@ Currently, www.va.gov supports three types of promo banners:
 2. **Email signups**, which relate to email signups for various VA updates / alerts / communications.
 3. **News stories**, which relate to newly received or noteworthy information about the VA.
 
-You can read more about these promo types in the [VA Design System](https://design.va.gov/components/banner/promo) or read more about Promo Banners in the [Knowledge Base](https://prod.cms.va.gov/node/39828).
+You can read more about these promo types in the [VA Design System](https://design.va.gov/components/banner/promo) or read more about Promo Banners in the [Promo Banners Knowledge Base](https://prod.cms.va.gov/node/39828).
 
 **Example content:**
-* CMS: [https://staging.cms.va.gov/node/48052/edit](https://staging.cms.va.gov/node/48052/edit) 
+* [CMS](https://prod.cms.va.gov/admin/content?title=&type=promo_banner&moderation_state=All&owner=All)
 
 **Governance / Editor guidance:**
 * Primary editors: Sitewide Content team
 
 **More info:**
-* [Promo banner](https://design.va.gov/components/banner/promo): va.gov design system
+* [Promo banner component](https://design.va.gov/components/banner/promo): va.gov design system
+* [Bigger picture of all possible things called banner or alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/banners/README.md)
 
 
 ## Outreach Materials Library (Publication Listing Page) / Publications
 
 **What is:**
 Currently there is one Publication Listing Page, the Outreach Library, where all Publications appear.
-Not modified since launch.
+Not modified since launch in ~2018.
 
-As of Aug 2023, there is intent to deprecate the Outreach Materials Library: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14835. A new product is being built by OPIA / VEO platform (tentative name: Discover). When that product launches, O&M Library will be removed.
+As of Aug 2023, there is intent to deprecate the Outreach Materials Library: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14835. A new product is being built by OPIA / VEO platform (tentative name: Discover). When that product launches, O&M Library might be removed.
 
 **Example content:**
 * URL: [https://www.va.gov/outreach-and-events/outreach-materials/](https://www.va.gov/outreach-and-events/outreach-materials/) 
