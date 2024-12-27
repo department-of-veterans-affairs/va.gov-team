@@ -60,7 +60,7 @@ We are actively working with the Platform Analytics team to visualize our[ ARM O
 
 ## **Release History**
 
-### Version 1.0 (MVP)
+### Version 1.0 (MVP) ([Demo](https://dsva.slack.com/archives/C05L6HSJLHM/p1716406611746829))
 
 The Representative Status Widget 1.0 (MVP) was **released to 100% of users on May 20, 2024** ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status-widget/release-plan-representative-status-widget-1.0.md)), which involved adding the Representative Status Widget to the[ accredited representative landing page](https://www.va.gov/get-help-from-accredited-representative/) and the live[ Find a Representative page](https://www.va.gov/get-help-from-accredited-representative/find-rep/). 
 
