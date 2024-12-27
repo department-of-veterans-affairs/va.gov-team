@@ -12,7 +12,7 @@ env:
 jobs:
   assign_one_project:
     runs-on: ubuntu-latest
-    name: Add issues to Github projects based on labels
+    name: Assign to One Project
     steps:
     - name: Add issues to Platform Support Team - Support Tickets
       uses: srggrs/assign-one-project-github-action@1.2.1
