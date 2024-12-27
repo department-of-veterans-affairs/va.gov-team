@@ -61,7 +61,7 @@ We are actively working with the Platform Analytics team to visualize our[ ARM O
 
 ## **Release History**
 
-### Version 2.0 
+### Version 2.0 ([Demo](https://dsva.slack.com/archives/C05L6HSJLHM/p1710372276269209))
 
 Find a Representative 2.0 was **released to 100% of users on March 13, 2024**. A landing page "Get help from a VA accredited representative or VSO" (rooted in the Resources and Support section of VA.gov) was also published, and this content page includes a link to the Find a Representative tool ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md)).
 
