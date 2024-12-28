@@ -5,7 +5,11 @@
 :exclamation: Toggles name that have strikethrough text means the flag is deleted
 | Toggle | Description | Ticket to Add | Related Epic | Ticket to Remove | Comments |
 | ------ | ----------- | ------------- | ------------ | ---------------- | -------- |
-| va_online_scheduling | Allows veterans to view their VA and Community Care appointments |  |  | n/a | Toggle that manages the whole application. Should remain "enabled for everyone" at all times. |
+| va_online_scheduling | Allows veterans to view their VA and Community Care appointments |  |  |  | Toggle that manages the whole application. This toggle should not be removed and should remain "enabled for everyone" at all times. |
+| va_online_scheduling_cancel | Allows veterans to cancel VA appointments |  |  |  | Toggle that manages the whole application. This toggle should not be removed and should remain "enabled for everyone" at all times. |
+| va_online_scheduling_community_care | Allows veterans to submit requests for Community Care appointments |  |  |  | Toggle that manages the whole application. This toggle should not be removed and should remain "enabled for everyone" at all times. |
+| va_online_scheduling_direct | Allows veterans to directly schedule VA appointments |  |  |  | Toggle that manages the whole application. This toggle should not be removed and should remain "enabled for everyone" at all times. |
+| va_online_scheduling_requests | Allows veterans to submit requests for VA appointments |  |  |  | Toggle that manages the whole application. This toggle should not be removed and should remain "enabled for everyone" at all times. |
 | va_online_scheduling_booking_exclusion | Allows the exclusion of sites from appointment scheduling | n/a | n/a | n/a | assists in the cutover of sites to Oracle Health (Cerner) |
 | va_online_scheduling_cancellation_exclusion | Allows the cancellation exclusion of appointments | n/a | n/a | n/a | assists in the cutover of sites to Oracle Health (Cerner) |
 | va_online_scheduling_datadog_RUM | Enables datadog Real User Monitoring. | [#78115](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/78115) | n/a | n/a |
@@ -14,8 +18,6 @@
 | ~~va_online_scheduling_physical_location~~ | Toggle for display of clinic location on appointment detail page | https://github.com/department-of-veterans-affairs/va.gov-team/issues/69402 | [69444](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69444) | [#80772](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80772) | As described, this toggle is a duplicate of `va_online_scheduling_clinic_location` but ended up actually being used in code
 | ~~va_online_scheduling_GA4_migration~~ |  A feature toggle to update the tracking events to Google Analytics 4 | | | [#82973](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82973) |
 | ~~va_online_scheduling_clinic_filtering~~ | Enables toggling of clinic stop code filtering and coordination with VAOS service team | [#74659](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/74659) |n/a | n/a 
-| va_online_scheduling_community_care | Allows veterans to submit requests for Community Care appointments
-| va_online_scheduling_direct | Allows veterans to directly schedule VA appointments
 | ~~va_online_scheduling_facility_selection_v2_2~~ | Next iteration of facility selection, version 2.2. | n/a | n/a | [#53715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53715) |  
 | va_online_scheduling_requests | Allows veterans to submit requests for VA appointments
 | ~~va_online_scheduling_unenrolled_vaccine~~ | Toggle for unenrolled vaccine scheduling discovery work. | [#22079](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22079) | [#23510](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23510) | [#55086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55086) |
