@@ -1,7 +1,7 @@
 # CTA widget
 
 ## About
-CTA widget is a vets-website React application: [src/applications/static-pages/cta-widget](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/cta-widget).
+CTA widget is a vets-website React application: [src/applications/static-pages/cta-widget](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/cta-widget). It acts as a login widget from within the page body of wherever it is incorporated. 
 
 ## Ownership
 Codeowners declaration in vets-website: [src/applications/static-pages/cta-widget](https://github.com/department-of-veterans-affairs/vets-website/blob/main/.github/CODEOWNERS#L128)
