@@ -13,7 +13,7 @@ The "Missing Pega Status" dashboard widget indicates that certain forms haven't 
 
 2. Access the Vets-API Pod:
 
-* Open a web browser and navigate to [invalid URL removed]
+* Open a web browser and navigate to  https://argocd.vfs.va.gov/applications/vets-api-prod?resource=
 * Select an open pod, such as vets-api-web-57466bdb8-p4chn.
 
 3. Use the Rails Console:
