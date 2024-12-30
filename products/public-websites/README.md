@@ -341,13 +341,14 @@ You can read more about these promo types in the [VA Design System](https://desi
 * [Bigger picture of all possible things called banner or alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/banners/README.md)
 
 
-## Outreach Materials Library (Publication Listing Page) / Publications
+## Outreach Materials (Publication Listing Page) / Publications
 
 **What is:**
-Currently there is one Publication Listing Page, the Outreach Library, where all Publications appear.
+
+Currently there is one Publication Listing Page, [Outreach Materials](https://www.va.gov/outreach-and-events/outreach-materials/), where all Publications appear.
 Not modified since launch in ~2018.
 
-As of Aug 2023, there is intent to deprecate the Outreach Materials Library: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14835. A new product is being built by OPIA / VEO platform (tentative name: Discover). When that product launches, O&M Library might be removed.
+As of Aug 2023, there is intent to deprecate Outreach Materials: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14835. A new product is being built by OPIA / VEO platform (tentative name: Discover). When that product launches, O&M Library might be removed.
 
 **Example content:**
 * URL: [https://www.va.gov/outreach-and-events/outreach-materials/](https://www.va.gov/outreach-and-events/outreach-materials/) 
@@ -357,30 +358,35 @@ As of Aug 2023, there is intent to deprecate the Outreach Materials Library: htt
 * Primary editors: Sitewide Content team
 
 ## Resources and support
-Resources & Support is a broad category of content managed by CAIA (Sitewide Content Accessibility & IA team). R&S content on VA.gov all appear within the https://www.va.gov/resources/ area of the site, and use the `/resources` path. However, within Drupal, content in this area can be created using multiple different content types, including (in order of usage): 
+Resources & Support is a broad category of content managed by the Sitewide Content team. R&S content on VA.gov all appear within the https://www.va.gov/resources/ area of the site, and use the `/resources` path. However, within Drupal, content in this area can be created using multiple different content types, including (in order of usage): 
 * FAQ
 * Resources & Support Detail pages
 * Reusable Q&A
-* Image list
-* Media list
-* Checklist
 * Support service
+* Checklist - 12/24: 2 published in production
+* Image list - 12/24: none published in production
+* Media list - 12/24: none published in production
+
+**Product documentaiton**
+* [Resources & Support Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support)
+
+Sitewide Content has a goal / charter to "Create Once, Publish Everywhere" (aka COPE), to make it easier to maintain single-source-of-truth content. Any product changes made to Sitewide Content products should be mindful of COPE goals. This means that as frequently as possible, Sitewide supports Content efforts to use a single piece of content in multiple places throughout Drupal or the front-end. You can see evidence of efforts like this where a Single Q&A can be used on an FAQ page, or have its own page, or be associated with other content types. 
+* [COPE CMS FAQ library](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/cope-cms-faq-library/product-outline.md) product outline that drove FAQ adaptation for COPE goals
+* COPE effort to make Q&A reusable on [Resources & Support](#resources-and-support-detail-page) = [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
+
+**Governance / Editor guidance:**
+* Primary editors: Sitewide Content team, for all of those listed content types
+  * Sitewide Content has a goal to open up R&S content creation to more types of Editors, long-term. [Sitewide content Problem brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/resources-and-support-author-pilot/problem-brief.md), [Public Websites initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/initiatives/2022-01-outside-submissions/initiative-brief.md)
 
 ### FAQ page
 
 **What is:**
 
-A Drupal content type that is used to aggregate [Q&A nodes](#qa---single). Often published with a URL path in /resources/, indistinguishable to front-end users from other [Resources & Support](#resources-and-support-detail-page) content.
+A Drupal content type that is used to aggregate [Q&A nodes](#qa---single). 
 
 **Example content:**
 * URL: [https://va.gov/resources/signing-in-to-vagov](https://va.gov/resources/signing-in-to-vagov) 
 * CMS: [https://staging.cms.va.gov/resources/signing-in-to-vagov](https://staging.cms.va.gov/resources/signing-in-to-vagov) 
-
-**Governance / Editor guidance:**
-* Primary editors: Sitewide Content team
-
-**More info:**
-* COPE effort to make Q&A reusable on [Resources & Support](#resources-and-support-detail-page) = [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
 
 ### Resources and support Detail Page
 
@@ -393,12 +399,12 @@ A page that contains in-depth information about a single resource available to V
 * CMS: [https://staging.cms.va.gov/node/37196/edit](https://staging.cms.va.gov/node/37196/edit) 
 
 **Governance / Editor guidance:**
-* Primary editors: Sitewide Content team, for now. Goal: to expand to Editors in other areas.
+* Primary editors: Sitewide Content team, for now. 
 
 **More info:**
-* A6 program GDrive folder: [Resources and Support](https://drive.google.com/drive/u/1/folders/1uqKHA1Wq91yPB91TdWBWGz0CV7gE8kaM)
-* [Resources and Support product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/product-outline.md)
-* 2022 Sitewide Content research project around clarity of this content and how Editors in other areas might have challenges / need support: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/resources-and-support-author-pilot](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/resources-and-support-author-pilot) 
+* [Resources and Support product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support)
+  * [Original learnning center product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/product-outline.md)
+* [2022 Sitewide Content research project](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/resources-and-support-author-pilot) around clarity of this content and how Editors in other areas might have challenges / need support
 * [VFS Product Directory: Resources & Support](https://depo-platform-documentation.scrollhelp.site/getting-started/resources-support)
 
 ### Reusable Q&A
@@ -413,7 +419,7 @@ Q&As may be used as an entity reference on:
 * FAQ page
 * Resources & Support pages
 
-They may also have a standalone Resources and Support page (/resources/). (Not typical.)
+They may also have a standalone Resources and Support page under `/resources/`. (Not typical.)
 
 **Example content:**
 * URL: [https://www.va.gov/resources/gi-bill-and-other-va-education-benefit-payments-faqs/#:~:text=When%20will%20I%20get%20my,way%20to%20receive%20your%20payment](https://www.va.gov/resources/gi-bill-and-other-va-education-benefit-payments-faqs/#:~:text=When%20will%20I%20get%20my,way%20to%20receive%20your%20payment) – Q&A appears on FAQ page
@@ -422,19 +428,34 @@ They may also have a standalone Resources and Support page (/resources/). (Not t
   * FAQ where Q&A is added as entity reference, under Q&A groups: [https://staging.cms.va.gov/node/15640/edit](https://staging.cms.va.gov/node/15640/edit) 
 
 
-**Governance / Editor guidance:**
-* Primary editors: Sitewide Content team
-
 **More info:**
 * **Q3 2022 project**: adding reusable Q&As to Resources & Support content type: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
 
+### Support Service
+**What is:**
+
+Support services in Drupal are a mechanism to create contact phone numbers. Each support service contains: 
+* Name
+* Office
+* Link
+* Phone number
+
+These Support Service nodes are then used on Benefit Hub Landing Pages, in the Right Rail, to provide "Call us" contact information. 
+
+<details><Summary>Screenshots of Suport service connection to BHLP</Summary>
+
+![Screenshot 2024-12-30 at 12 10 40 PM](https://github.com/user-attachments/assets/3ee7f951-e500-4a88-9bc5-e4fdb33262ea)
+
+![Screenshot 2024-12-30 at 12 12 01 PM](https://github.com/user-attachments/assets/c40b1742-c6a1-4af3-8a34-c852335eeaa1)
+
+</details>
 
 ## Translation React widgets
 
 **What is:**
 
 Q4 2023: Full site translations are not yet available. Drupal functionality has been scoped and is owned by CMS team for future delivery. 
-Meantime: Some site content must be translated. When this is required, typically Sitewide CAIA (Content, Accessibility, IA) determine which pages and provide the translations as separate CMS nodes per translated page (e.g. English, Spanish, Tagalog).  Public Websites then implements a React widget on each of those pages, that acts as an in-page navigation / switcher. 
+Meantime: Some site content must be translated. When this is required, the Sitewide Content team determines which pages need to be translated, and provides the translations as separate CMS nodes per translated page (e.g. English, Spanish, Tagalog).  Public Websites then implements a React widget on each of those pages, that acts as an in-page navigation / switcher. 
 
 Public Websites team: 
 * Maintains currently translated pages
@@ -447,36 +468,37 @@ Public Websites team:
   * Es: [https://staging.cms.va.gov/node/16359/edit](https://staging.cms.va.gov/node/16359/edit)
   * Tl: [https://staging.cms.va.gov/node/16413/edit](https://staging.cms.va.gov/node/16413/edit)
 * EN: https://www.va.gov/health-care/how-to-apply/
-* ES: https://www.va.gov/health-care/how-to-apply-esp/
+    * ES: https://www.va.gov/health-care/how-to-apply-esp/
 * EN: https://www.va.gov/health-care/after-you-apply/
-* ES: https://www.va.gov/health-care/after-you-apply-esp/
+    * ES: https://www.va.gov/health-care/after-you-apply-esp/
 * EN: https://www.va.gov/health-care/eligibility/
-* ES: https://www.va.gov/health-care/eligibility-esp/
+    * ES: https://www.va.gov/health-care/eligibility-esp/
 * EN: https://www.va.gov/disability/eligibility/
-* ES: https://www.va.gov/disability/eligibility-esp/
+    * ES: https://www.va.gov/disability/eligibility-esp/
 * EN: https://www.va.gov/disability/how-to-file-claim/
-* ES: https://www.va.gov/disability/how-to-file-claim-esp/
+    * ES: https://www.va.gov/disability/how-to-file-claim-esp/
 * EN: https://www.va.gov/disability/after-you-file-claim/
-* ES: https://www.va.gov/disability/after-you-file-claim-esp/
+    * ES: https://www.va.gov/disability/after-you-file-claim-esp/
 
-### CAIA's Requirements: 
-CAIA documentation for translation widgets / requirements: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/README.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/README.md) 
-
+### Sitewide Content's Requirements: 
+Documentation for translation widgets / requirements: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/README.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/README.md) 
 
 **More info:**
-* A6 program GDrive folder: [Translations & i18n](https://drive.google.com/drive/u/1/folders/13eRn2gM759p5NM1p90bnWBZYzQxZ3MGd)
-* [Translation support #9622](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9622) - epic describing CMS team work / research for Drupal translations
-* Q3 2022 project: Translation effort from Sitewide Content: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053) 
 * [VFS Product Directory: Translated Pages](https://depo-platform-documentation.scrollhelp.site/getting-started/translated-pages)
+* Drupal translations were explored in a Discovery project: [Translation support #9622](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9622)
 
 
 # VA Benefits Taxonomy
-https://prod.cms.va.gov/admin/structure/taxonomy/manage/va_benefits_taxonomy/overview
-Single source of truth for VA Benefits meta information, used by the Sitewide Content team through VA.gov benefits. 
+Much like the VA Services taxonomy, the VA Benefits taxonomy is intended to be a single-source-of-truth mechanism to manage data about Benefits offered by VA. The taxonomy term data can be integrated with other templates and content types in Drupal and on the VA.gov front-end. 
+ 
+The Benefits taxonomy launched in 2023. Sitewide Content is piloting its use for managing benefits information, with intent to expand its use / association with other Benefits content coming from the Drupal CMS. VA Benefits taxonomy information is not yet integrated elsewhere in Drupal or front-end templating, and is not yet visible anywhere on VA.gov (12/24). 
 
-Docs: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/structured-content/va-benefits-taxonomy/README.md
+**Product Docs:** [products/content/structured-content/va-benefits-taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/structured-content/va-benefits-taxonomy/README.md)
 
-Taxonomy launched in 2023, in pilot use by CAIA for managing benefits information with intent to expand its use / association with other Benefits content coming from the Drupal CMS. Not yet incorporated in VA.gov frontend. 
+**Taxonomy in Drupal:** https://prod.cms.va.gov/admin/structure/taxonomy/manage/va_benefits_taxonomy/overview
+
+**Governance / Primary editors:**
+* Sitewide Content team 
 
 ---
 
@@ -484,26 +506,27 @@ Taxonomy launched in 2023, in pilot use by CAIA for managing benefits informatio
 
 ## BTSSS React widget
 
-**What is**
+**What is:**
+
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/travel-reimbursement-btsss
 
 
 ## CTA React widget
 
 **What is:**
+
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/cta-widget
 
 
 ## Discharge upgrade wizard
-https://www.va.gov/discharge-upgrade-instructions
+The Discharge Upgrade Wizard is a tool Veterans may use to understand whether they are eligible to apply for a change to their discharge status. 
 
-The discharge upgrade wizard was written by the Decision Tools team. That team transitioned responsibility to the Search & Discovery Team, which has since become Public Websites purview as of 2022. 
-
-Q1 2024 will include an [initiative to rebuild the tool using the DS sub-task pattern](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-upgrade-wizard/initiatives/2024-discharge-upgrade-wizard-subtask), and to modernize content.
+**Wizard:** https://www.va.gov/discharge-upgrade-instructions
+**Product docs:** * [/products/veteran-military-records/discharge-upgrade-wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-upgrade-wizard)
 
 **More info:**
-* [Discharge Upgrade wizard product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-upgrade-wizard)
-* [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md)
+* Q4 2024, the DUW was upgraded to use the sub-task pattern: [initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-upgrade-wizard/initiatives/2024-discharge-upgrade-wizard-subtask)
+* Public Websites owns this product as of 2022, because PW absorbed both the Decision Tools and Search & Discovery team portfolios. [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md)
 
 ## Shadow / dark launches of content
 Docs below will move to Platform content site via https://github.com/department-of-veterans-affairs/va.gov-team/issues/93032. When that is published, content will be removed from this README.
@@ -608,28 +631,27 @@ Some nuances: https://dsva.slack.com/archives/CT4GZBM8F/p1660937436605269
 
 ## Global header / footer (aka Mega-menu)
 
-**OWNERSHIP:** As of 9/23/24, Design System team owns the markup of the VA.gov header / footer and Injected header. Sitewide may still be involved in the following areas:  
+**What is:**
+
+The header and footer of VA.gov, including the benefits megamenu. On-site search, the Veterans Crisis Line modal, and the authentication / login modal and menu are considered separate products with separate ownership, but they are built and shipped within the Header.
+
+**Product docs**: [products/header-footer](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer)
+
+**OWNERSHIP:** ([Slack thread](https://dsva.slack.com/archives/C52CL1PKQ/p1727120068414909)) As of 9/23/24, Design System team owns the markup of the VA.gov header / footer and Injected header. Sitewide may still be involved in the following areas:  
 * Assistance with Drupal data feeding into the header / footer, unless / until DST gets Drupal access.
-* Design / Research for any major revisions to the header, given DST staffing
+* Design / Research for any major revisions to the header
 
-https://dsva.slack.com/archives/C52CL1PKQ/p1727120068414909
 
-**What is:**
-
-Product brief: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer
-
-## Header / footer injection
+### Header / footer injection
 
 **What is:**
 
-Details: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/injected-header
+The VA.gov modernization project will take years to bring alllllllll VA content into the main site. In the meantime, VA offices / orgs that use TeamSite (old CMS) may want to adopt the VA.gov header/ footer. This can be achieved by “injecting” it, using a set of Javascript / stylesheets, and a cookie.
 
-The VA.gov modernization project will take years to bring alllllllll VA content into the main site. In the meantime, VA offices / orgs that use TeamSite (old CMS) may want to adopt the new header/ footer. This can be achieved by “injecting” it, using a set of Javascript / stylesheets, and a cookie.
-
+**Product docs**:[products/header-footer/injected-header](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/injected-header)
 
 **More information:**
-* https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/injected-header
-* [Proxy-rewrite README](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/README.md) with implementation & testing details
+* [Proxy-rewrite application](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/README.md) is the Javascript app that enables injection. Documentation includes testing details
 
 
 
@@ -637,17 +659,15 @@ The VA.gov modernization project will take years to bring alllllllll VA content 
 
 **What is:**
 
-The income limits web app will be a tool that helps veterans understand if their income will be a factor in benefits eligibility. Discovery / design = Q3 2022 goal.
+The income limits web app is a tool that helps veterans understand if their income will be a factor in benefits eligibility. Veterans are eligible for benefits based on a complex matrix of factors including: income, number of children, location, location of service, known exposure to toxic chemicals, etc. Income limit is one factor. 
 
-Veterans are eligible for benefits based on a complex matrix of factors including: income, number of children, location, location of service, known exposure to toxic chemicals, etc. Income limit is one factor. 
+Income Limits are set and managed by another team, and provided via an Oracle Database called VES. The Income limits application pulls VES data to establish annual income limits.
 
-**Example content:**
-* Current income limits information (that will be handled by the new web app): [https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits)
+**App:** https://www.va.gov/health-care/income-limits/introduction
+**Product docs:** [products/income-limits-app](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/income-limits-app)
 
 **More info:**
-* [Income Limits App product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/income-limits-app) in Github
-* A6 program GDrive folder: [Income limits](https://drive.google.com/drive/u/1/folders/1uwHUEe8UBHST-didMR68Xfaud-BaI0iJ)
-* **Q3 2022 project:** [Income limits web app: Discovery, Design, prototype, user research #9626](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9626)  
+* Modernized app was shipped in 2023. [Income limits web app: Discovery, Design, prototype, user research #9626](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9626)  
 
 
 ## On-site search (using search.gov)
@@ -656,20 +676,18 @@ Veterans are eligible for benefits based on a complex matrix of factors includin
 
 VA.gov uses search.gov as its engine. Public Websites owns that integration, and display of search results within the site. 
 
+* **Product docs:** [products/on-site-search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search)
+
 **Example content:**
 * URL: [https://www.va.gov/search/?query=test&t=false](https://www.va.gov/search/?query=test&t=false)  
-* Example issue: TODO
 
 **Note on API keys**
 * API keys for search and search-typeahead are different keys generated by api.data.gov.  At the time this was written, keys are maintained by platform devops, and the keys belong to the universal devops user.  Should the email tied to these keys be lost, new ones will need to be generated
 
 **More info:**
 * [Getting Search.gov access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-playbook.md#getting-access)
-* A6 program GDrive folder: [Search](https://drive.google.com/drive/u/1/folders/1ePwRE6YPBk1VE6zAKzX2SxgtMdYwsV0r)
-* [On Site Search - product docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search)
 * Design system: [Search input](https://design.va.gov/components/search-input)
 * Search.gov indexing documentation: https://search.gov/indexing/indexing-with-searchgov.html 
-* 2021: consistent UI styling for search implementations: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/initiatives/search-ui-consistency](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/initiatives/search-ui-consistency) 
 * [VFS Product Directory: Search](https://depo-platform-documentation.scrollhelp.site/getting-started/search)
 
 
