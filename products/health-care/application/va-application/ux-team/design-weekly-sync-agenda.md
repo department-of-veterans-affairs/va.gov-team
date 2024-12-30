@@ -1,6 +1,6 @@
 # Design Weekly Sync Agenda
 
-### 2024-12-30 Monday
+## 2024-12-30 Monday
 Attendees: Angela, Hieu, Jessica, Lois, and Renata
 
 - The team discussed data analysis (provided by Heather) of user paths through a registration process for VA healthcare, including challenges with presenting options and consequences.
