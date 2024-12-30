@@ -165,14 +165,6 @@ sequenceDiagram
 
 ## Key Processes
 
-### Nightly Job
-1. `getExternalReferralData()`: Pulls referral data from MAP/CCRA for the next 3 months, or however long they allow.
-2. `parseConsultIntoReferral()`: Vets API parses consult data into a referral object.
-3. `checkReferralData()`: Ensures referrals are not expired and don't exist in the Postgres DB.
-4. `encryptReferralData()`: Encrypts referral data using the vets-api encryption library.
-5. `storeData()`: Stores encrypted data in Vets API Postgres DB.
-6. `sendNotification()`: Sends notification to user via VA Notify (SMS or email) with a referral link.
-
 ### User Workflow
 1. User receives SMS/Email with referral link and clicks it.
 2. User is directed to login and authenticate.
