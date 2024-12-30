@@ -210,6 +210,42 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 
 We will have 2 cohorts: (1) non-AT sessions and (2) AT sessions
 
+
+## Demographic must-haves for both COHORT 1 and COHORT 2
+
+Note: The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants with VA debt.
+
+    
+-   At least 5 of 12 people must identify as Black, Hispanic/Latina/Latinx, Asian, or Native American
+    
+-   At least 6 of 12 people must identify as having a cognitive consideration
+    
+-   At least 5 of 12 people must identify as other than male
+    
+-   At least 3 of 12 people are without a degree or professional certificate
+    
+-   At least 2 of 12 people are under 35
+    
+-   At least 5 of 12 people are over 55
+    
+-   At least 4 of 12 people who identify as gay, lesbian, bisexual, or transgender
+    
+-   At least 2 of 12 non-native English speakers
+    
+
+Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question. Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+
+Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+
+Secondary criteria (nice-to-haves) What criteria would strengthen your results?
+
+## Secondary criteria (nice-to-haves)
+
+ -   At least 2 of 12 people who live in a rural or remote area
+    
+-   At least 2 of 12 people who live in a major metropolitan area
+
+
 ## COHORT 1: Non-AT sessions
 
 #### We most want to speak to:
@@ -261,46 +297,9 @@ We will have 2 cohorts: (1) non-AT sessions and (2) AT sessions
 -   While the FSR asks for financial information, we won't be asking our participants to provide exact financial information. However, we want to simulate a real experience as much as we can to ensure the experience is intuitive for Veterans.  
     Please confirm participants are comfortable talking about their personal finances.
     
-
-  
-
-## Demographic must-haves
-
-Note: The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants with VA debt.
-
--   At least 2 of 12 people who use a screen reader
-    
--   At least 5 of 12 people must identify as Black, Hispanic/Latina/Latinx, Asian, or Native American
-    
--   At least 6 of 12 people must identify as having a cognitive consideration
-    
--   At least 5 of 12 people must identify as other than male
-    
--   At least 3 of 12 people are without a degree or professional certificate
-    
--   At least 2 of 12 people are under 35
-    
--   At least 5 of 12 people are over 55
-    
--   At least 4 of 12 people who identify as gay, lesbian, bisexual, or transgender
-    
--   At least 2 of 12 non-native English speakers
     
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question. Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
-
-Secondary criteria (nice-to-haves) What criteria would strengthen your results?
-
-## Secondary criteria (nice-to-haves)
-
- -   At least 2 of 12 people who live in a rural or remote area
-    
--   At least 2 of 12 people who live in a major metropolitan area
-    
-
-## RECRUITING SURVEY
+## RECRUITING SURVEY FOR COHORT 1
 
 **1. VA debt and/or VA copay**
 
@@ -404,39 +403,27 @@ English is my second or third language
 
   
 
-**8. Attitudinal question - trust**
-
-Please indicate how much you agree or disagree with the following statement: "I trust VA to fulfill our country’s commitment to Veterans.”
-
-- Strongly agree
-
--   Agree
-    
--    Neutral
-    
--    Disagree
-    
--    Strongly disagree
-    
-
   
 
 ## COHORT 2: AT sessions
 
 #### We most want to speak to:
 
--   Veterans who are low-vision or blind and use:
+-   100% Veterans who are low-vision or blind and use:
     
 -   A screen reader and/or
     
 -   A magnification device
+
+
+	-   Font resizing/larger
+	-   Screen magnification or zoom
+	-   Screen reader (e.g. JAWS, NVDA, VoiceOver, ChromeVox)
+	-   Braille terminal
+	-   Voice control / speech recognition software (e.g. Dragon, Siri, Google home, Google assistant, Cortana)
+	-   Speech to text (e.g. Dragon Naturally Speaking, Google Doc Voice Typing, Windows Speech Recognition)
+	-   High contrast mode or browser color preferences
     
-
-  
-
--   Veterans who use other types of AT
-    
-
   
 
 -   Has had a VA copay or VA overpayment debt (desirable but optional)
@@ -460,32 +447,93 @@ Please indicate how much you agree or disagree with the following statement: "I 
 
 ### RECRUITING SURVEY
 
+
+**1. VA debt and/or VA copay**
+
+Please select what applies to you (Check all that apply)
+
+-   I have had a VA medical copay debt in the last 3 years
+    
+-   I have had a VA overpayment debt in the last 3 years (disability compensation, education or pension benefits overpayments)
+    
+-   I have had VA debt related to: Separation pay, Attorney fees, Rogers STEM program, VET TEC program
+    
+-   I have not had a VA medical copay debt or VA overpayment debt in the last 3 years
+  
+    
+**2. What is the name of assistive technology software that you are using? (example: VoiceOver, JAWS)**
+
+Open Text field
+
+  
   
 
-**1. Veterans that have a disability**
+**3. What type of device will you be using?** 
 
-Do you use any of the following assistive technology? (check all that apply)
 
-  
+- Desktop
 
--   Screen reader or voice over technology
-    
--   Hearing aid
-    
--   Speech communication devices (examples include voice amplification systems, fluency assistance devices, artificial larynx)
-    
--   Zoom text (magnification)
-    
+- Mobile
+
+- Tablet
 
   
 
-**2. What device will you be using during the interview?**
+**4. Experiences of financial hardship**
 
--   A mobile device/cell phone
+  
+
+Please select the statement(s) that apply to you:  (Check all that apply)
+
+- I am currently experiencing financial hardship.
+
+- I have experienced financial hardship in the past.
+
+- I have never experienced financial hardship.
+
+  
+
+**5. LGBTQ+**
+
+Do you identify as a member of the LGBTQ+ community ?
+
+We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+
+  
+
+-   Yes
     
--   A desktop or laptop computer
+-   No
     
--   A tablet
+-   Decline to answer
+    
+
+    
+
+**6. Cognitive consideration**
+
+Has a medical professional ever diagnosed you with a cognitive disorder? Some examples include PTSD, Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, Traumatic brain injury
+
+  
+
+-   Yes
+    
+-   No
+    
+-   Decline to answer
+    
+
+    
+
+**7. English fluency**
+
+  
+
+I am a native or bilingual English speaker
+
+English is my second or third language
+  
+
     
 
   
