@@ -4,7 +4,7 @@
 | November 3, 2024  | Initial Draft         | CeeCee O'Conner |
 | December 11, 2024 | Updates from CRM sync | Ariel Martinez  |
 
-This plan defines the ongoing ways of working between the Ask VA VA.gov and CRM teams. 
+This plan defines how the Ask VA VA.gov team implements new changes to the Ask VA application on VA.gov. This includes ongoing ways of working between us and the CRM team. 
 
 **On this page:**
 - [Manage feature requests and bugs](#manage-feature-requests-and-bugs)
