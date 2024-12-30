@@ -54,10 +54,10 @@ These are errors that require manual intervention by My HealtheVet helpdesk staf
 These are errors that a user cannot resolve on their own, and are due to background issues that helpdesk staff are not likely to be able to resolve. Instead, telling users to reload the page or try again later are the most straightforward approaches we can commmunicate at this time (MVP) to address these problems, which we believe to be the least likely to occur based on production testing so far. These are errors numbered: 802, 803, 804, 808, 809, 810 from the API specifications.
 
 ## Potential entry points & user routing in error states
-The MHV-API gates access to 3 major health tools in the portal, but many other applications do not rely on it (e.g. appointments, supply re-ordering, travel pay). Thus, we will still display secondary navigation. This opens up a side-door gateway into the tools in an error-state & all affected tools will need to implement these alerts in their own applications to account for it. There are also additional side-door entry points that back-up the need to do this. 
+The MHV-API gates access to 3 major health tools in the portal, but many other applications do not rely on it (e.g. appointments, supply re-ordering, travel pay). Thus, we will still display secondary navigation. This opens up a side-door gateway into the tools in an error-state & all affected tools will need to route-guard users up to 'my-health' to see alerts in place there. This is applicable both for applications' landing pages and child pages. 
 
-We evaluated an option to route-guard users from affected applications up to `/my-health` to see alerts in place there, but have concerns that this could indicate to users that the secondary navigation bar is defective. If a user selects a tool that is impacted by this problem (e.g. "Medications") & gets redirected to the `/my-health` page, they could experience a lot of confusion or frustration. We do not recommend this approach & instead believe that implementing alerts within tools to account for side-door entry points is the best approach. 
- 
+We also evaluated an option to ask application teams to implement error alerts on their landing pages instead of route-guarding users to the landing page. However, out of concern for application teams and the level of effort associated with these error states, we are recommending the route-guard solution for the time being. 
+<s>
 **Primary entry point:**
 * My HealtheVet on VA.gov home page - we will surface the relevant error alert alongside a modified landing page design.
  
@@ -68,6 +68,7 @@ We evaluated an option to route-guard users from affected applications up to `/m
 * Health care benefit hub pages for the affected health tool applications - (currently, these route to the MHV National Portal. But when we update link destinations on these pages in March 2025, these pages will become side-door entry points to all 3 affected applications)
 * Cross-links from other unaffected health tool applications
 * Medications, Medical Records, and Secure Messages links
+</s>
 
 ## Front-end alert design and My HealtheVet portal implementation logic
 
@@ -101,8 +102,9 @@ flowchart TD
 2. If we do not detect an MHV-Identifier (`userHasMhvAccount` selector from MPI), we run a call to the Account Creation API endpoint (`/v0/user/mhv_user_account`) & display a loading indicator on the page beneath the global header while we wait for the response (estimated time: 1-2 seconds).
 3. We return the response (error or otherwise) to the `mhvAccountStatus` selectors. The api call happens as a `useEffect` block on the `LandingPageContainer` component. Currently there is no new component, only this `useEffect` block. The `mhvAccountStatus` selectors then determine what is rendered: 
 4. If an MHV-Identifier was created, the full page & affected application will render for the user. 
-5. If we do not see an MHV-Identifier, the new `AlertMhvUserAction` alert is rendered in-place on the affected page. The solution slightly varies depending on where it is triggered: 1.) My HealtheVet landing page or 2.) an affected health tool application. Details in sections below:
+5. If we do not see an MHV-Identifier, the user is redirected to the landing page 'my-health', where a new `AlertMhvUserAction` alert is rendered along with a modified landing page. Page modification includes: suppressing links in grey cards for each of the affected health applications. This avoids some dead-ends to those tools that a user lacks access to, and adds clarity to the meaning of the alert.<s>The solution slightly varies depending on where it is triggered: 1.) My HealtheVet landing page or 2.) an affected health tool application. Details in sections below:</s>
 
+<s>
 #### 1. My HealtheVet landing page
 On this page, we will render a modified version of the landing page with the relevant error alert in place. This page modification includes: suppressing links in the grey-boxes for each of the affected health applications. This avoids some dead-ends to those tools that a user does not have access to, and adds clarity to the meaning of the alert as to what applications are affected.
 
@@ -118,6 +120,7 @@ On this page, we will render a modified version of the landing page with the rel
 * Footer
 
 **Option 2:** If route-guarding users within your application is not desireable, account for putting this alert in place anywhere in the app. Similar to Option 1, suppress all functionality in the application and limit the page display to the same elements of the page denoted in the list above. 
+</s>
 
 ## Outstanding decisions
 1. Which option (1 or 2) above do affected tool application POs prefer for implementation? All teams should align on a consistent approach
