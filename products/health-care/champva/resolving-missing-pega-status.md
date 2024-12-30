@@ -6,9 +6,9 @@ The "Missing Pega Status" dashboard widget indicates that certain forms haven't 
 
 <h2>Resolving the Issue: </h2>
 
-1. Notify a team member from the Pega/DOCMP team if the forms in question are stuck in que.
+1. Notify a team member from the Pega/DOCMP team if the forms in question are stuck in queue.
 
-2. Access the VA Access Gateway:
+2. Connect to the VA Access Gateway:
 
 * Ensure you have the necessary credentials: VA-issued PIV card, User domain ID, and domain password.
 * Connect to the VA Access Gateway using Citrix VPN.
@@ -16,15 +16,14 @@ The "Missing Pega Status" dashboard widget indicates that certain forms haven't 
 3. Access the Vets-API Pod:
 
 * Open a web browser and navigate to  https://argocd.vfs.va.gov/applications/vets-api-prod?resource=
-* Select an open pod, such as vets-api-web-57466bdb8-p4chn.
+* Select an open pod, which will have a name beginning with `vets-api-web-`.
 
 4. Use the Rails Console:
 
 * In the pod's command line interface, start the Rails console:
 
-```
-Bash
-
+```Bash
+# Bash session
 bundle exec rails console
 ```
 
@@ -32,9 +31,8 @@ bundle exec rails console
 
 * Use the IvcChampvaForm model to query the database for forms with a missing pega_status:
 
-```
-Ruby
-
+```Ruby
+# Rails console
 IvcChampvaForm.where(pega_status: nil)
 ```
 
@@ -42,9 +40,8 @@ IvcChampvaForm.where(pega_status: nil)
 
 * For each form with a missing pega_status, update the value to "Manually Processed":
 
-```
-Ruby
-
+```Ruby
+# Rails console
 form = IvcChampvaForm.find(form_id)
 form.update(pega_status: "Manually Processed")
 form.save
