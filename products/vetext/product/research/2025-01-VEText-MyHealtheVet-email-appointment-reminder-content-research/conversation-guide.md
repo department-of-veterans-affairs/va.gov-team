@@ -1,8 +1,9 @@
-Conversation Guide:****MyHealtheVet Email Appointment Reminder Veteran Preferences Conversation Guide
+# Conversation Guide
+## MyHealtheVet Email Appointment Reminder Veteran Preferences Conversation Guide
 
-Intro - 5 minutes
+### Intro - 5 minutes
 
-Thank you for joining us today! My name is Jamie, and I also have some colleagues on the line taking notes. We are here today to talk about the Veteran Email Preferences for health appointment reminders from MyHealtheVet. I am going to ask you a series of questions to help us understand what types of information you’d expect in these health appointment reminders and what else you might like for these emails to include. Can I confirm that you currently receive and use MyHealtheVet email appointment reminders?
+Thank you for joining us today! My name is Jamie, and I also have some colleagues on the line taking notes (introduce). We are here today to talk about the Veteran Email Preferences for health appointment reminders from MyHealtheVet. I am going to ask you a series of questions to help us understand what types of information you’d expect in these health appointment reminders and what else you might like for these emails to include. Can I confirm that you currently receive and use MyHealtheVet email appointment reminders?
 
 \*\*Before we start, there are a few things I’d like to mention:\*\*
 
@@ -24,7 +25,7 @@ Ok, I’m going to hit the record button now. 
 
 _\*Start audio and screen recording.\*_
 
-Section 1: Warm-Up Questions - 5 minutes
+### Section 1: Warm-Up Questions - 5 minutes
 
 1. What branch of the military did you serve in?
 
@@ -40,18 +41,17 @@ Section 1: Warm-Up Questions - 5 minutes
 
 6. What do you find is your preferred method of communication about Veterans Health Administration appointments? Why? Does it change depending on the kind of appointment information that is being communicated?
 
-\
 
 
-Section 2: Preferred content - 8 minutes
+### Section 2: Preferred content - 8 minutes
 
 1. When you open your email health appointment reminders, what information would you like to be included?
 
    1. Discuss cadence, information details, information about procedures, preparation, maps
 
-Section 3: Thoughts on current content - 10 minutes
+### Section 3: Thoughts on content based on sample emails - 10 minutes
 
-Let’s look at a sample of a current reminder:
+Let’s look at a sample of a [current reminder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/current-mhv-emailmockup.md):
 
 1. Can you tell me about your experience receiving email appointment reminders from the Veterans Health Administration?
 
@@ -67,7 +67,7 @@ Let’s look at a sample of a current reminder:
 
 4. How do you prefer for the Veterans Health Administration to communicate with you? - for example emails, sms, letters?
 
-Let’s look at a PHI sample reminder:
+Let’s look at a possible [PHI sample reminder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/Pending-MHV-PHI-emailmockup.md)
 
 1. What are your thoughts here? What do you think of the additional information?
 
@@ -75,18 +75,20 @@ Let’s look at a PHI sample reminder:
 
 3. Do you have any concerns about privacy with your appointment reminders? If so, does that influence your method of reminder?
 
-Closing Interview - 5 minutes
+### Closing Interview - 5 minutes
 
 Do you have any comments or questions about VA health appointment reminder emails that we have not yet covered today?
 
-Thank-You and Closing - 2 minutes
+### Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.\
 Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. I just want to check once more that you’re still okay about us using your feedback or if you would like to redact anything we discussed today?
 
-Great, well thank you so much again, and enjoy the rest of your day!\
-\
-Emergency Exit
+Great, well thank you so much again, and enjoy the rest of your day!
+
+
+
+#### Emergency Exit
 
 **“I’m sorry to hear you’re \[repeat their words].** Do you feel up to continuing? You’ll be compensated even if we stop early.
 
