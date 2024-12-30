@@ -8,16 +8,16 @@ VEText will begin additionally sending the email appointment reminders for MyHea
 
 [Link to Team Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/9c884d56087c31b9422840cc233009d12e870b9b/products/vetext)
 
-### OCTO Priorities 
+### 2024 OCTO Priorities 
 
-### Objective 1: Our digital experiences are the best way to access VA health care and benefits.
+#### Objective 1: Our digital experiences are the best way to access VA health care and benefits.
 
 - Key Result 2: Number of transactions processed using our products have increased by 25%.
 
 - Key Result 3: All new products have a faster transaction time than those they replaced.
 
 
-### Objective 2: Our platforms are the best way to deliver products at VA.
+#### Objective 2: Our platforms are the best way to deliver products at VA.
 
 - Key Result 2: Our platforms measure and improve the satisfaction of their internal users.
 
@@ -45,16 +45,16 @@ This research will allow us to gauge Veteran satisfaction with current email app
 
    This will:
 
-  -     Increase recipient satisfaction
+  - Increase recipient satisfaction
 
-  -     Decrease oversaturation of reminders
+  - Decrease oversaturation of reminders
 
-  -     Improve care by getting Veterans to their appointments, prepared with necessary information
+  - Improve care by getting Veterans to their appointments, prepared with necessary information
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- Overall do Veterans find value in email appointment reminders? Why or why not?
-- Is there a way to make the content or cadence of email appointment reminders more useful?
+
+1. Overall do Veterans find value in email appointment reminders? Why or why not?
+2. Is there a way to make the content or cadence of email appointment reminders more useful?
   
 
 ### Hypothesis
@@ -66,13 +66,6 @@ Our hypothesis is that Veterans want more information in their emails including 
 
 2\. After discussing what they would expect, we will show them an example of the existing MHV email reminder and ask them to share their thoughts on the content and cadence as well as how they currently use MHV email reminders.
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
 Remote, Zoom
@@ -85,7 +78,7 @@ Provide a link to any materials you need to run your study, including any materi
 For moderated interviews:
 [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md)
 
-MHV Template [(current mhv email template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/current-mhv-emailmockup.md) and proposed)
+MHV Template [current mhv email template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/current-mhv-emailmockup.md) and [proposed PHI template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/Pending-MHV-PHI-emailmockup.md)
 
 
 	
@@ -180,15 +173,15 @@ Primary Criteria (Must-Haves):
 
 
 ## Timeline
- - [ ] 12/31/24 / Perigean kick-off call
+ - [ ] 01/07/25 / Perigean kick-off call
 
-  - [ ] 1/06/25 - 1/10/25 / Recruitment with Perigean, requires 1 week
+  - [ ] 1/07/25 - 1/14/25 / Recruitment with Perigean, requires 1 week
 
   - [ ] 1/07/25 / Complete pilot session
 
-  - [ ] 1/13/25 - 1/22/25 / Conduct interviews, 12 days, 4 for each cohort
+  - [ ] WIP DATES / Conduct interviews, 12 days, 4 for each cohort
 
-  - [ ] 1/13/25 - 1/22/25/ Analysis and reporting
+  - [ ] WIP DATES / Analysis and reporting
 
   - [ ] WIP DATE / Final presentation
 
@@ -218,8 +211,6 @@ Maximum Sessions per day: 2
 ### Availability
 When would you like sessions scheduled?
 
-01/13/2025 12-3:30 pm ET
-
 01/14/2025 12-3:30pm ET
 
 01/15/2025 12-3:30pm ET
@@ -229,6 +220,10 @@ When would you like sessions scheduled?
 01/20/2025 12-3:30pm ET
 
 01/22/2025 12-3:30pm ET
+
+01/23/2025 12-3:30PM ET
+
+01/24/2025 12-3:30PM ET
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
