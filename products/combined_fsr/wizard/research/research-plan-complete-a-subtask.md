@@ -415,7 +415,7 @@ English is my second or third language
     
 -   A magnification device
 
-
+	-   Examples can include:
 	-   Font resizing/larger
 	-   Screen magnification or zoom
 	-   Screen reader (e.g. JAWS, NVDA, VoiceOver, ChromeVox)
