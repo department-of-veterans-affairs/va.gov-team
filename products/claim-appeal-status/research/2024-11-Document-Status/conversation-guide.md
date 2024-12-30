@@ -58,7 +58,7 @@ Before we start, I have a few things that I want to go over with you:
 Before we look at the website, let’s start with a few warm-up questions.
 
 - Have you used VA.gov before?
-- If yes, could you briefly describe the last time you used it?
+   - _If yes_, could you briefly describe the last time you used it?
 - Have you ever filed an application for disability compensation (Form 526-EZ) with the VA?
 - Have you  uploaded files using Va.gov or VA mobile app?
 
@@ -66,39 +66,85 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 [Share [prototype link](https://www.figma.com/proto/m1Xt8XjVDjZIbliCYcCKpE/Document-status-(formerly-silent-failures)?node-id=2771-20256&t=YQPL10Sibs5kZtpY-1) with participant]
 
-## First Task: [TASK NAME] - X minutes
+## First Task: CST Home Page - 5 minutes
 
-- Step 1
-- Step 2
+So let's say you are signed into your VA.gov account and you're looking at this page. You submitted a claim a month ago, and you're logging in to check and see if there's been an update.
 
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+- Do you know what this page is? If yes, what is it?
+- Describe to me what you're seeing here.
+- Let's say you're waiting for this top claim to be decided. What would you say is the status of the claim, based on what you see here? (Point them towards "Step 3 of 8: Evidence gathering" if they don't reference it themselves.) And what does that status mean to you? 
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Does the participant recognize the Claim Status Tool?
+- Do they recognize which claim is in progress?
+- How accurate is their understanding of the status based only on what they see here?
 
-## Third Task: [TASK NAME] - X minutes
+## Second Task: Status Page - 5 minutes
 
-- Step 1
-- Step 2
+[Have the participant click "View details" on the in-progress claim]
+
+- Tell me what you see here. (Prompt them to scroll up and down.)
+- Do you feel like this tells you everything you need to know about the claim? Why or why not?
+- If you wanted to upload evidence to your claim, what would you do?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- How do Veterans react to the Status tab in general?
+- Do Veterans read the recent activity section and find it important
+- Do Veterans know what to do if they wanted to add files to their claim online?
+  
+## Third Task: Files Page - 10 minutes
+
+[Participant clicks into the Files tab]
+
+- Now tell me what you see here. (Prompt them to scroll up and down.)
+- Is there anything that is particularly useful about what you see here?
+- Is there anything that is particularly confusing about what you see here?
+- What steps would you take to add a file to your claim?
+
+### Things to watch for:
+
+- What content on the page is most useful to the Veteran? Least helpful or confusing?
+- Do Veterans read the document files section and find it important
+
+## Fourth Task: Confirmation message for successful file uplaod - 10 minutes
+
+[Participant completes the Files upload]
+
+- Now tell me what you see here.
+- If we were not here, what would be your next step? (Prompt them to scroll up and down.)
+- What do you think this card is (refering to the submission in progress card)?
+- Can you describe the relationship between the confirmation message and the "submission in progress" card?
+- What do you think will happen in a couple days after seeing this card?
+
+[Click on the submnission in progress card to see the file has now be added to the e-folder]
+
+- Describe what happened here?
+- what would you do next?
+  
+### Things to watch for:
+
+- 
+[Swtiching scnearion to tracked item request]
+
+
+
+## Fifth Task: Confirmation message for successful file uplaod - 10 minutes
+
+[Participant completes the Files upload]
+
+- Now tell me what you see here.
+- If we were not here, what would be your next step? (Prompt them to scroll up and down.)
+- What do you think this card is (refering to the submission in progress card)?
+- Can you describe the relationship between the confirmation message and the "submission in progress" card?
+- What do you think will happen in a couple days after seeing this card?
+
+### Things to watch for:
+
+- 
+
+
 
 ## Post-Task Interview - X minutes
 
