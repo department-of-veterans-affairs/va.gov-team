@@ -211,7 +211,7 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 
 We will have 2 cohorts: (1) non-AT sessions and (2) AT sessions
 
-COHORT 1: Non-AT sessions
+## COHORT 1: Non-AT sessions
 
 #### We most want to speak to:
 
@@ -296,7 +296,7 @@ Secondary criteria (nice-to-haves) What criteria would strengthen your results?
 
 ## Secondary criteria (nice-to-haves)
 
-   At least 2 of 12 people who live in a rural or remote area
+ -   At least 2 of 12 people who live in a rural or remote area
     
 -   At least 2 of 12 people who live in a major metropolitan area
     
@@ -363,7 +363,7 @@ Please select the statement(s) that apply to you:  (Check all that apply)
 
   
 
-5. LGBTQ+
+**5. LGBTQ+**
 
 Do you identify as a member of the LGBTQ+ community ?
 
@@ -380,7 +380,7 @@ We ask this question because we want to make sure the feedback we get from these
 
     
 
-6. Cognitive consideration
+**6. Cognitive consideration**
 
 Has a medical professional ever diagnosed you with a cognitive disorder? Some examples include PTSD, Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, Traumatic brain injury
 
@@ -395,7 +395,7 @@ Has a medical professional ever diagnosed you with a cognitive disorder? Some ex
 
     
 
-7. English fluency
+**7. English fluency**
 
   
 
@@ -405,7 +405,7 @@ English is my second or third language
 
   
 
-8. Attitudinal question - trust
+**8. Attitudinal question - trust**
 
 Please indicate how much you agree or disagree with the following statement: "I trust VA to fulfill our country’s commitment to Veterans.”
 
@@ -422,7 +422,7 @@ Please indicate how much you agree or disagree with the following statement: "I 
 
   
 
-COHORT 2: AT sessions
+## COHORT 2: AT sessions
 
 #### We most want to speak to:
 
@@ -445,25 +445,25 @@ COHORT 2: AT sessions
 
 #### Primary criteria (must-haves)
 
--   #### At least 6 Veterans interviewed, please recruit 12 Veterans
+-  At least 6 Veterans interviewed, please recruit 12 Veterans
     
--   #### All participants must be Veterans
+-   All participants must be Veterans
     
--   #### All have a computer, tablet, or smartphone and be willing to be complete their session on one of those devices
-    
-
--   #### During the session, be willing to share a web browser window on their device
-    
--   #### Have a working microphone on their device
-    
--   #### Have Zoom downloaded to their device prior to the session and know how to share their screen
+-   All have a computer, tablet, or smartphone and be willing to be complete their session on one of those devices
     
 
-RECRUITING SURVEY
+-   During the session, be willing to share a web browser window on their device
+    
+-   Have a working microphone on their device
+    
+-   Have Zoom downloaded to their device prior to the session and know how to share their screen
+    
+
+### RECRUITING SURVEY
 
   
 
-1. Veterans that have a disability
+**1. Veterans that have a disability**
 
 Do you use any of the following assistive technology? (check all that apply)
 
@@ -480,7 +480,7 @@ Do you use any of the following assistive technology? (check all that apply)
 
   
 
-2. What device will you be using during the interview?
+**2. What device will you be using during the interview?**
 
 -   A mobile device/cell phone
     
