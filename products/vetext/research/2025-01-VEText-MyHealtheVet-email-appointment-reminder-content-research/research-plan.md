@@ -76,7 +76,7 @@ Remote, Zoom
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
-[Link to conversation guide]([products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md))
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md)
 
 MHV Template [current mhv email template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/current-mhv-email.md) and [proposed PHI template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/pending-mhv-template-phiversion.md)
 
@@ -173,17 +173,17 @@ Primary Criteria (Must-Haves):
 
 
 ## Timeline
- - [ ] 01/07/25 / Perigean kick-off call
+ - [ ] 01/07/25  Perigean kick-off call
 
-  - [ ] 1/07/25 - 1/14/25 / Recruitment with Perigean, requires 1 week
+  - [ ] 1/07/25 - 1/14/25  Recruitment with Perigean, requires 1 week
 
-  - [ ] 1/07/25 / Complete pilot session
+  - [ ] 1/07/25  Complete pilot session
 
-  - [ ] WIP DATES / Conduct interviews, 12 days, 4 for each cohort
+  - [ ] 01/13/25 - 01/24/25  Conduct interviews, 12 days, 4 for each cohort
 
-  - [ ] WIP DATES / Analysis and reporting
+  - [ ] 01/13/25 - 01/31/25  Analysis and reporting
 
-  - [ ] WIP DATE / Final presentation
+  - [ ] TBD  Final presentation
 
   Timeline is an estimation and will be updated as dependencies clear. Some dependencies that can impact this timeline include:
 
@@ -196,11 +196,11 @@ Primary Criteria (Must-Haves):
 The experience is currently live
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: chris.horton@oddball.io
+* Pilot participant: Chris Horton
 * Date and time of pilot session: 01/07/25
 
 ### Research sessions
-* Planned dates of research:01/13-22/2025
+* Planned dates of research:01/14-24/2025
 
 ### Length of sessions
 Session length: 40 minutes
@@ -225,10 +225,9 @@ When would you like sessions scheduled?
 
 01/24/2025 12-3:30PM ET
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
 ## Team Roles	
-**Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
+
 
 **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Send emails only for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
