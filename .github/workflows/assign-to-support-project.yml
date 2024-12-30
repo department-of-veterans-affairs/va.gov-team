@@ -8,41 +8,41 @@ on:
     types: [opened]
 env:
   MY_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
-jobs:
-  assign_one_project:
-    runs-on: ubuntu-latest
-    name: "Assign to One Project"
-    steps:
-    - name: Add issues to Platform Support Team - Support Tickets
-      uses: srggrs/assign-one-project-github-action@1.3.0
-      if: |
-        github.event.action == 'opened' &&
-        contains(github.event.issue.labels.*.name, 'Platform-Support-Ticket')
-      with:
-        project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
-        column_name: 'Support Tickets'
-    - name: Add issues with `new-vfs-team` and `new-vfs-team-member` label to Platform Support project Platform Onboarding column
-      uses: srggrs/assign-one-project-github-action@1.3.0
-      if: |
-        github.event.action == 'opened' &&
-        (contains(github.event.issue.labels.*.name, 'new-vfs-team-member') ||
-        contains(github.event.issue.labels.*.name, 'new-vfs-team'))
-      with:
-        project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
-        column_name: 'Platform Onboarding'
-    - name: Add issues with `T1-access-request` label to Platform Support project Access Request column
-      uses: srggrs/assign-one-project-github-action@1.3.0
-      if: |
-        github.event.action == 'opened' && 
-        contains(github.event.issue.labels.*.name, 'T1-access-request')
-      with:
-        project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
-        column_name: 'Access Requests'
-    - name: Add issues with `Offboarding` label to Platform Support project Access Request column
-      uses: srggrs/assign-one-project-github-action@1.3.0
-      if: |
-        github.event.action == 'opened' && 
-        contains(github.event.issue.labels.*.name, 'Offboarding')
-      with:
-        project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
-        column_name: 'Offboarding'
+#jobs:
+ # assign_one_project:
+  #  runs-on: ubuntu-latest
+   # name: "Assign to One Project"
+    #steps:
+    #- name: Add issues to Platform Support Team - Support Tickets
+     # uses: srggrs/assign-one-project-github-action@1.3.0
+      #if: |
+       # github.event.action == 'opened' &&
+        #contains(github.event.issue.labels.*.name, 'Platform-Support-Ticket')
+      #with:
+       # project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
+        #column_name: 'Support Tickets'
+    #- name: Add issues with `new-vfs-team` and `new-vfs-team-member` label to Platform Support project Platform Onboarding column
+     # uses: srggrs/assign-one-project-github-action@1.3.0
+      #if: |
+       # github.event.action == 'opened' &&
+        #(contains(github.event.issue.labels.*.name, 'new-vfs-team-member') ||
+        #contains(github.event.issue.labels.*.name, 'new-vfs-team'))
+      #with:
+       # project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
+        #column_name: 'Platform Onboarding'
+    #- name: Add issues with `T1-access-request` label to Platform Support project Access Request column
+     # uses: srggrs/assign-one-project-github-action@1.3.0
+      #if: |
+       # github.event.action == 'opened' && 
+        #contains(github.event.issue.labels.*.name, 'T1-access-request')
+      #with:
+       # project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
+        #column_name: 'Access Requests'
+    #- name: Add issues with `Offboarding` label to Platform Support project Access Request column
+     # uses: srggrs/assign-one-project-github-action@1.3.0
+      #if: |
+       # github.event.action == 'opened' && 
+        #contains(github.event.issue.labels.*.name, 'Offboarding')
+      #with:
+      #  project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
+       # column_name: 'Offboarding'
