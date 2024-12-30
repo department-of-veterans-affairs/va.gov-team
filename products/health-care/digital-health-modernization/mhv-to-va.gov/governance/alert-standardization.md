@@ -18,7 +18,7 @@ flowchart TD
     C -->|No| F{fa:fa-circle-exclamation 'No access' alert}
     D --> |Yes| G(Render application)
     D --> |No| H(What tools are they trying to access?)
-    H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation Account Creation API error alert on affected apps}
+    H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation Redirect user to landing page where Acct Creation API error alert will be present}
     H --> |Other health tool| J(Render application)
 ```
 1. All /my-health application pages should look for an ID-verified credential (IAL2) as the first-order criteria before rendering a page for users.
