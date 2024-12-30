@@ -9,6 +9,7 @@ Attendees: Angela, Hieu, Jessica, Lois, and Renata
 - The team continues to discussed research questions around whether "registration" should be a distinct choice or part of a more conversational eligibility process.
 - There was consideration of how VA staff currently handle registration at different sites and whether that should inform the online process.
 - The team is preparing for an upcoming meeting on Thursday to discuss these findings and potential design directions.
+- The team briefly touched on related topics like embedded forms in other VA applications and recent caregiver legislation.
 
 ## 2024-12-18 Wednesday
 Attendees: Angela, Hieu, Jessica, Lois, and Renata
