@@ -23,7 +23,7 @@ The "Missing Pega Status" dashboard widget indicates that certain forms haven't 
 ```
 Bash
 
-rails console
+bundle exec rails console
 ```
 
 4. Query the Database:
