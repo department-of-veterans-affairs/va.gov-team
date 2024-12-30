@@ -7,6 +7,28 @@
 		- RUM dashboard usage
   		-  Multiple claims [question thread](https://dsva.slack.com/archives/C068Q9DQACX/p1735058811378649) 
   - ### Notes
+     * Design Roadmap Review
+     * Will bring Design (Next column) work into Thursday Product discussions  on Team roadmap to better align work
+ * RUM dashboard usage
+     * Will have the RUM dashboard in Staging soon
+     * It’s expensive and needs to be more targeted. Need to figure out who will be responsible for reviewing it and how we will use it?
+     * We possibly can use it when we see issue such as the duplicate doc uploads on 
+     * the 1010D
+     * Storage of the recordings may be driving the costs. We can look into if it saves on cost to remove the recordings after a certain period of time. 
+     * Ask 1010 team how they are managing reviews and costs
+         * In general, how are they using this tool for research and what types of things are they researching?
+         * How long do they keep their recorded session sessions?
+         * How are you managing the cost of it?
+         * Tag Premal, Bo and Lois in the question to the 1010 team.
+ * Multiple claims question thread
+     * Each date of service is one claim. What happens if there are 2 different providers on the same day? We don’t think we dove into this scenario with Stakeholders specifically. The notes don't mention whether someone can submit for 2 different providers/services if they are on the same day. (Example: a hospital visit where there is a separate bill for the anesthesiologist and the hospital stay)
+     * Would accepting multiple claims affect the status of PDI’s (numbered batches of claims per bene)
+     * If we are uploading multiple claims in one form sessions would that be a PDI? 
+     * Are these the same rules with RX? Stakeholder notes state “ All pharmacy within the same year will be considered one claim” but this doesn’t sound accurate depending on what we know about medical claims. Jamie will double check this quote in the original transcripts
+     * We need to have an open discussion with CHAMPVA partners about receiving multiple claims and what exactly can be accepted as one claim.
+     * We should plan to show them relevant parts of the figma to add context 
+     * Have these questions and examples ready by Monday 1-6 to go over with Premal and Lois. Stakeholder meeting is on 1-7
+     * Jamie to revisit the Claim name on the list and loop with Rachel. If a person is only submitting one claim would the naming be unnecessary and a possible frustration point?  Explore some options and evaluate if necessary to name claims or treat as different experiences: 1 claim vs multiple claims. 
    
 ## December 23 2024
 - Attendees: Rachel Pope, Lois Lewis, Andrea Merrell, Bo Altes
