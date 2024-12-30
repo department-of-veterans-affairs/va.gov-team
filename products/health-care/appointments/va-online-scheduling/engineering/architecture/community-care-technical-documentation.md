@@ -102,34 +102,6 @@ classDiagram
 ```
 ## Sequence Diagrams
 
-### Nightly Job
-```mermaid
-sequenceDiagram
-    participant User
-    participant Frontend as Frontend (FE)
-    participant VetsAPI as Vets API
-    participant Sidekiq as Sidekiq Job
-    participant Postgres as Postgres DB
-    participant MAP as MAP
-    participant CCRA as CCRA
-    participant EPS as EPS System
-    participant VA as VA Notify
-
-    Note over Sidekiq: Nightly Job
-    Sidekiq->>MAP: getExternalReferralData()
-    MAP->>CCRA: Get the actual data
-    CCRA->>MAP: Return the data to MAP
-    MAP-->>Sidekiq: Return referral data
-    Sidekiq->>VetsAPI: parseConsultIntoReferral()
-    VetsAPI->>VetsAPI: checkReferralData()
-    VetsAPI->>Postgres: Check for duplicates and expiration
-    Postgres-->>VetsAPI: Return check results
-    VetsAPI->>VetsAPI: encryptReferralData()
-    VetsAPI->>Postgres: storeData()
-    VetsAPI->>VA: sendNotification()
-    VA-->>User: Send SMS/Email with referral link
-```
-
 ### Workflow once SMS/Email received
 ```mermaid
 sequenceDiagram
