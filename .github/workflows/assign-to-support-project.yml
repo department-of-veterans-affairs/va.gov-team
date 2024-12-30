@@ -1,48 +1,55 @@
-name: Assign to Support Project board
-# Assigns new issues to project based on label
-# See https://github.com/orgs/department-of-veterans-affairs/projects/1408/
-# Organizes GitHub issue into respective column based on label
+name: Add Issue to Project Board
 
 on:
   issues:
-    types: [opened]
-env:
-  MY_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+    types: [opened]  # Trigger the workflow when an issue is opened
+
 jobs:
-  assign_one_project:
+  add_to_project:
     runs-on: ubuntu-latest
-    name: "Assign to One Project"
+
     steps:
-    - name: Add issues to Platform Support Team - Support Tickets
-      uses: srggrs/assign-one-project-github-action@1.3.0
-      if: |
-        github.event.action == 'opened' &&
-        contains(github.event.issue.labels.*.name, 'Platform-Support-Ticket')
-      with:
-        project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
-        column_name: 'Support Tickets'
-    #- name: Add issues with `new-vfs-team` and `new-vfs-team-member` label to Platform Support project Platform Onboarding column
-     # uses: srggrs/assign-one-project-github-action@1.3.0
-      #if: |
-       # github.event.action == 'opened' &&
-        #(contains(github.event.issue.labels.*.name, 'new-vfs-team-member') ||
-        #contains(github.event.issue.labels.*.name, 'new-vfs-team'))
-      #with:
-       # project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
-        #column_name: 'Platform Onboarding'
-    #- name: Add issues with `T1-access-request` label to Platform Support project Access Request column
-     # uses: srggrs/assign-one-project-github-action@1.3.0
-      #if: |
-       # github.event.action == 'opened' && 
-        #contains(github.event.issue.labels.*.name, 'T1-access-request')
-      #with:
-       # project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
-        #column_name: 'Access Requests'
-    #- name: Add issues with `Offboarding` label to Platform Support project Access Request column
-     # uses: srggrs/assign-one-project-github-action@1.3.0
-      #if: |
-       # github.event.action == 'opened' && 
-        #contains(github.event.issue.labels.*.name, 'Offboarding')
-      #with:
-      #  project: 'https://github.com/orgs/department-of-veterans-affairs/projects/1408'
-       # column_name: 'Offboarding'
+      - name: Add issue to Support Tickets column
+        uses: actions/add-to-project@v2
+        if: |
+          github.event.action == 'opened' &&
+          contains(github.event.issue.labels.*.name, 'Platform-Support-Ticket')  # Check for 'Platform-Support-Ticket' label
+        with:
+          project: '1408'  # Replace with your actual project ID
+          column_name: 'Support Tickets'  # Column name where the issue will be added
+          issue: ${{ github.event.issue.number }}  # The issue number to be added to the project
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Add issue to Platform Onboarding column
+        uses: actions/add-to-project@v2
+        if: |
+          github.event.action == 'opened' &&
+          (contains(github.event.issue.labels.*.name, 'new-vfs-team') ||
+          contains(github.event.issue.labels.*.name, 'new-vfs-team-member'))  # Check for 'new-vfs-team' or 'new-vfs-team-member' labels
+        with:
+          project: '1408'
+          column_name: 'Platform Onboarding'  # Column name for onboarding tasks
+          issue: ${{ github.event.issue.number }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Add issue to Access Requests column
+        uses: actions/add-to-project@v2
+        if: |
+          github.event.action == 'opened' &&
+          contains(github.event.issue.labels.*.name, 'T1-access-request')  # Check for 'T1-access-request' label
+        with:
+          project: '1408'
+          column_name: 'Access Requests'  # Column name for access requests
+          issue: ${{ github.event.issue.number }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Add issue to Offboarding column
+        uses: actions/add-to-project@v2
+        if: |
+          github.event.action == 'opened' &&
+          contains(github.event.issue.labels.*.name, 'Offboarding')  # Check for 'Offboarding' label
+        with:
+          project: '1408'
+          column_name: 'Offboarding'  # Column name for offboarding tasks
+          issue: ${{ github.event.issue.number }}
+          token: ${{ secrets.GITHUB_TOKEN }}
