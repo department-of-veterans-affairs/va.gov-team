@@ -20,6 +20,9 @@ To help Veterans and beneficiaries
 - get the latest information 
 - log in for access to a personalized streamlined experience
 
+## Build
+Data on the homepage is derived from a number of Drupal and non-Drupal sources. More detail on data structure is in the [**engineering page**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page/engineering#homepage-build).
+
 ## See also 
 
 - [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/initiatives/2022-home-page-redesign-initiative/timeline.md)
