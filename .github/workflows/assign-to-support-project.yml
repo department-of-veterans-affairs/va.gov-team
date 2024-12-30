@@ -18,7 +18,7 @@ jobs:
           project-url: https://github.com/orgs/department-of-veterans-affairs/projects/1408
           column_name: 'Support Tickets'  # Column name where the issue will be added
           issue: ${{ github.event.issue.number }}  # The issue number to be added to the project
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
 
       - name: Add issue to Platform Onboarding column
         uses: actions/add-to-project@main
@@ -30,7 +30,7 @@ jobs:
           project-url: https://github.com/orgs/department-of-veterans-affairs/projects/1408
           column_name: 'Platform Onboarding'  # Column name for onboarding tasks
           issue: ${{ github.event.issue.number }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
 
       - name: Add issue to Access Requests column
         uses: actions/add-to-project@main
@@ -41,7 +41,7 @@ jobs:
           project-url: https://github.com/orgs/department-of-veterans-affairs/projects/1408
           column_name: 'Access Requests'  # Column name for access requests
           issue: ${{ github.event.issue.number }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
 
       - name: Add issue to Offboarding column
         uses: actions/add-to-project@main
@@ -52,4 +52,4 @@ jobs:
           project-url: https://github.com/orgs/department-of-veterans-affairs/projects/1408
           column_name: 'Offboarding'  # Column name for offboarding tasks
           issue: ${{ github.event.issue.number }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
