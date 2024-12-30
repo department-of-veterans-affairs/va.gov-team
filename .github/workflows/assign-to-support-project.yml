@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: Add issue to Support Tickets column
-        uses: actions/add-to-project@1.0.2
+        uses: actions/add-to-project@main
         if: |
           github.event.action == 'opened' &&
           contains(github.event.issue.labels.*.name, 'Platform-Support-Ticket')
@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Add issue to Platform Onboarding column
-        uses: actions/add-to-project@1.0.2
+        uses: actions/add-to-project@main
         if: |
           github.event.action == 'opened' &&
           (contains(github.event.issue.labels.*.name, 'new-vfs-team') ||
@@ -33,7 +33,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Add issue to Access Requests column
-        uses: actions/add-to-project@1.0.2
+        uses: actions/add-to-project@main
         if: |
           github.event.action == 'opened' &&
           contains(github.event.issue.labels.*.name, 'T1-access-request')
@@ -44,7 +44,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Add issue to Offboarding column
-        uses: actions/add-to-project@1.0.2
+        uses: actions/add-to-project@main
         if: |
           github.event.action == 'opened' &&
           contains(github.event.issue.labels.*.name, 'Offboarding')
