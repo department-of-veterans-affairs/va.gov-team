@@ -25,7 +25,7 @@ flowchart TD
 2. If an ID-verified credential (IAL2) is not detected, the application should **redirect the user to the MHV-on-VA.gov landing page**, where the user will experience only: H1, lede text, and the ID-verification alert (all cards, links, and the secondary nav will not be shown).
 3. If an ID-verified credential (IAL2) is detected, then /my-health application pages should look for the presence of a facility in the user's profile.
 4. If there is no facility in the profile, the application should **redirect the user to the MHV-on-VA.gov landing page**, where the user will experience only: H1, lede text, and the "No access to My HealtheVet" alert.
-5. If a facility is in the user's profile, the application page should next look for an MHV-Identifier (MHV UUID). 
+5. If a facility is in the user's profile, and the application requires the MHV back-end, the application page should next look for an MHV-Identifier (MHV UUID). 
 6. For the rest of the high level logic, visit the [Account Creation API Overview document](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md).
    
 ## User routing under access-limiting conditions
