@@ -49,6 +49,16 @@ None
 
 [Your VA email address]
 
+### Medallia Feedback Requests - Q1 2025
+
+[Q1 2025 Analysis Spreadsheet]()
+
+| Week  | From       | To         | Submitted By | Ticket Link  | 
+|-------|------------|------------|--------------|--------------|
+|   1   | 12-29-2025 | 1-4-2025   | Peter Russo  |              |
+|   2   | 1-5-2025   | 1-11-2025  | Peter Russo  |              |
+|   3   | 1-12-2025  | 1-18-2025  | Peter Russo  |              |
+
 ### Medallia Feedback Requests - Q4 2024
 
 [Q4 2024 Analysis Spreadsheet]()
@@ -66,9 +76,12 @@ None
 |   48  | 11-24-2024 | 11-30-2024 | Peter Russo | [98071](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98071)    | Done       |
 |   49  | 12-01-2024 | 12-07-2024 | Peter Russo | [98649](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98649)         | Done  |
 |   50  | 12-08-2024 | 12-14-2024 | Peter Russo | https://github.com/department-of-veterans-affairs/va.gov-team/issues/99166 | Done       |
-|   51  | 12-15-2024 | 12-21-2024 | Peter Russo | https://github.com/department-of-veterans-affairs/va.gov-team/issues/99595 | In Progress   |
-|   52  | 12-22-2024 | 12-28-2024 | Peter Russo | []()         |        |
+|   51  | 12-15-2024 | 12-21-2024 | Peter Russo | https://github.com/department-of-veterans-affairs/va.gov-team/issues/99595 | Done   |
+|   52  | 12-22-2024 | 12-28-2024 | Peter Russo | https://github.com/department-of-veterans-affairs/va.gov-team/issues/99717       | In Progress       |
 
+
+<details>
+<summary> Medallia Feedback Requests - Q3 2024 </summary>
 
 ### Medallia Feedback Requests - Q3 2024
 
@@ -89,7 +102,8 @@ None
 |   37  | 09-08-2024       | 09-14-2024        | Leah De La Costa  | [92407](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92407), [92714](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92714), [92715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92715)       |In progress        |
 |   38  | 09-15-2024       | 09-21-2024        | Leah De La Costa  | [92715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92715)     |In progress        |
 |   39  | 09-22-2024       | 09-28-2024        | Leah De La Costa  | [92715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92715)        |In progress        |
-|   40  | 09-29-2024       | 09-30-2024       | Leah De La Costa  | [92715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92715)        |In progress        |    
+|   40  | 09-29-2024       | 09-30-2024       | Leah De La Costa  | [92715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92715)        |In progress        | 
+</details>
 
 <details>
 <summary> Medallia Feedback Requests - Q2 2024 </summary>
