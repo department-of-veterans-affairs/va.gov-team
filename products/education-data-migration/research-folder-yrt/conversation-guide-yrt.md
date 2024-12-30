@@ -82,7 +82,7 @@ For this first task, we have pre-selected an institution that participates in th
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 
 - Questions:
-1. What's your opinion on how the information is laid out?
+1. If you wanted to learn if you qualify for yellow ribbon, how would you do that?
 2. Optional: [I see that you {action}. Can you explain your thought process?
 3. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate this task?
 
@@ -115,8 +115,8 @@ For this first task, we have pre-selected an institution that participates in th
 - [Does the participant notice xyz?]
 - [Etc]
 - Questions:
-1. Is this display of information easy to understand?
-2. What's your opinion on how the information is laid out?
+1. Do you know what funding available means?
+2. Do you know what max school contribution amount means?
 3. If you could change anything about it, what would you change?
 
 ## Post-Task Interview - 7 minutes
