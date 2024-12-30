@@ -13,7 +13,7 @@ jobs:
         uses: actions/add-to-project@v2
         if: |
           github.event.action == 'opened' &&
-          contains(github.event.issue.labels.*.name, 'Platform-Support-Ticket')  # Check for 'Platform-Support-Ticket' label
+          contains(github.event.issue.labels.*.name, 'Platform-Support-Ticket')
         with:
           project: '1408'  # Replace with your actual project ID
           column_name: 'Support Tickets'  # Column name where the issue will be added
@@ -25,7 +25,7 @@ jobs:
         if: |
           github.event.action == 'opened' &&
           (contains(github.event.issue.labels.*.name, 'new-vfs-team') ||
-          contains(github.event.issue.labels.*.name, 'new-vfs-team-member'))  # Check for 'new-vfs-team' or 'new-vfs-team-member' labels
+          contains(github.event.issue.labels.*.name, 'new-vfs-team-member'))
         with:
           project: '1408'
           column_name: 'Platform Onboarding'  # Column name for onboarding tasks
@@ -36,7 +36,7 @@ jobs:
         uses: actions/add-to-project@v2
         if: |
           github.event.action == 'opened' &&
-          contains(github.event.issue.labels.*.name, 'T1-access-request')  # Check for 'T1-access-request' label
+          contains(github.event.issue.labels.*.name, 'T1-access-request')
         with:
           project: '1408'
           column_name: 'Access Requests'  # Column name for access requests
@@ -47,7 +47,7 @@ jobs:
         uses: actions/add-to-project@v2
         if: |
           github.event.action == 'opened' &&
-          contains(github.event.issue.labels.*.name, 'Offboarding')  # Check for 'Offboarding' label
+          contains(github.event.issue.labels.*.name, 'Offboarding')
         with:
           project: '1408'
           column_name: 'Offboarding'  # Column name for offboarding tasks
