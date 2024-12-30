@@ -6,7 +6,7 @@ VEText is a platform for sending SMS messages to Veterans. These messages can be
 
 VEText will begin additionally sending the email appointment reminders for MyHealtheVet, as MyHealtheVet migrates to VA.gov. We would like to evaluate the content, cadence or functionality of those email appointment reminders by asking Veterans for feedback. This feedback will determine if changes should be made to the content, cadence or functionality in order to improve Veterans’ experience using email health appointment reminders.
 
-[Link to Team Folder]([products/vetext](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/vetext))
+[Link to Team Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/vetext)
 
 ### 2024 OCTO Priorities 
 
@@ -78,7 +78,7 @@ Provide a link to any materials you need to run your study, including any materi
 For moderated interviews:
 [Link to conversation guide]([products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md))
 
-MHV Template [current mhv email template](products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/current-mhv-email.md) and [proposed PHI template](products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/pending-mhv-template-phiversion.md)
+MHV Template [current mhv email template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/current-mhv-email.md) and [proposed PHI template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/pending-mhv-template-phiversion.md)
 
 
 	
