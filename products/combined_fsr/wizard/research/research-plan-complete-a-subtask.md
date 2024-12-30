@@ -1,6 +1,5 @@
 # Research Plan for [Debt Resolution, Complete a Sub Task (Wizard) and content pages, January 2025]
 
-Questions about how to set up your research study? Reach out in the #research-ops Slack channel.
 
 ## Background
 
@@ -15,7 +14,7 @@ Briefly describe the background of your product. Consider:
 
 The "Complete a Subtask” release is focused on optional subtask experience at the beginning of the FSR that assists the user in determining the correct action to take based on their circumstances. In its current form, it is utilizing the depreciated [Wizard design pattern](https://design.va.gov/patterns/wizards). The latest version that we will be testing will utilize the improved [Complete a subtask design pattern](https://design.va.gov/patterns/help-users-to/complete-a-sub-task). This new pattern will move questions and answers to a one-thing-per-page format which is a better experience for screen reader users. This improved format reduces cognitive burden. In addition, we will be working with the Content Team on making questions and answers easier to understand.
 
-[Link to product brief]().
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/wizard/Wizard%20sub-task%20pattern%20product%20outline.md).
 
 [Link to prototype](https://n4hl2d.csb.app/).
 
