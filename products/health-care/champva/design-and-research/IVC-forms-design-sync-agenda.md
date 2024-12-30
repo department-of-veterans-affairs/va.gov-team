@@ -1,5 +1,48 @@
 # Running Design and Research Agenda
 
+## December 30 2024
+- Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell
+	- Agenda Topics
+		- Design Roadmap Review	
+		- RUM dashboard usage
+  - ### Notes
+   
+## December 23 2024
+- Attendees: Rachel Pope, Lois Lewis, Andrea Merrell, Bo Altes
+	- Review Mural for CHAMPVA/OHI Integration options
+	- Shorter meeting due to Lois’ schedule
+
+- ### Notes
+- Discussion of pros/cons of each option:
+	- Option A (intro page link):
+		- Maybe we shouldn’t be driving people to the online form even if it exists (to avoid confusion)
+  	- Option B (review page link):
+		- Would only work if we could pass the data they’ve already entered into the OHI form so they don’t have to enter duplicate data
+  	- Option C (fully integrated questions):
+			- One of the open questions is how we would submit this form
+			- Do users need to know it’s two different forms?
+			- We can let them know at the end that we used the info to submit the OHI form also.
+			- PEGA would have to handle this as two PDFs
+		- General:
+			- We need to think about next steps more before making any decisions.
+			- We should involve PEGA in any decisions since it could potentially effect how they handle the forms (especially with option C)
+			- We need to think about the cost to the Veteran/Family member for each of these options
+			- If we integrate questions into CHAMPVA, is the OHI online form still needed?
+  				- Yes for updates to health insurance or address.
+				- Need clarification on how to handle other types of updates - status changes like becoming eligible for Medicare, or a child aging out of a parent’s insurance. This may need to be discussed with VA partners
+				- we would still need OHI as a separate form
+				- Question about how we are currently storing the duplicate data we receive (some of the same data is collected on each form).
+					- We as a team are not writing to any database currently
+					- All data is handled by PEGA and is probably separately stored for each form. May change once we move to VES integration
+				- Question about whether or not we can tie form submissions together so that we know whether a user has submitted a different form.
+  	 				- Not in scope for us to do that
+					- PEGA may have a way of tying the information together
+				- Overall, format of Mural is good for further discussions about these options
+		- Decisions made:
+				- No decisions made
+				- We can all review and continue adding notes to the Mural to inform further discussions
+
+
 ## December 16 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell
 	- Agenda Topics
