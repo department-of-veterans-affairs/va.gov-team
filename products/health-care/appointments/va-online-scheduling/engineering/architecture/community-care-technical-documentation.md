@@ -9,11 +9,9 @@
 5. Integrate with existing VA systems (MAP, EPS, Vista) to provide a seamless experience
 
 ## Overview
-The External Referral Appointment Scheduling System is designed to automate and simplify the process of managing external referrals and scheduling appointments for veterans. It involves a nightly job to fetch and process referral data ~from MAP~, secure storage of this data, veteran notifications, and a user-friendly workflow for veterans to schedule appointments based on these referrals. The system integrates with VA Notify for communications and EPS for appointment management.
+The External Referral Appointment Scheduling System is designed to automate and simplify the process of managing external referrals and scheduling appointments for veterans.  The system integrates with VA Notify for communications and EPS for appointment management.
 
 ## Scope
-- Implementation of a nightly job to fetch and process external referral data ~from MAP~
-- Secure storage of referral data in a Postgres database
 - Integration with VA Notify for sending referral notifications to veterans
 - Development of a frontend interface for veterans to view referrals and schedule appointments
 - Integration with the External Provider Services (EPS) system for appointment management
@@ -29,13 +27,11 @@ The External Referral Appointment Scheduling System is designed to automate and 
 6. The system will operate within the VA's existing authentication framework
 
 ## Design Decisions
-1. Use of Sidekiq for scheduling and running the nightly job
-2. Storage of encrypted referral data in a Postgres database for security
-3. Utilization of Redux for state management in the frontend
-4. Integration with VA Notify for sending notifications to veterans
-5. Use of the existing vets-api encryption library for securing referral data
-6. Implementation of a two-tier approach for referral data retention
-7. Daily checks for appointment synchronization between EPS and Vista
+1. Utilization of Redux for state management in the frontend
+2. Integration with VA Notify for sending notifications to veterans
+3. Use of the existing vets-api encryption library for securing referral data
+4. Implementation of a two-tier approach for referral data retention
+5. Daily checks for appointment synchronization between EPS and Vista
 
 ## System Architecture
 
