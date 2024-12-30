@@ -63,14 +63,12 @@ https://vagov.ddog-gov.com/synthetics/details/w3q-ekr-wkg
 **What this is:**
 A synthetic HTTP test (POST) against the GovDelivery endpoint used for the email signup at the bottom of the homepage.
 
-Currently, the source code for the form lives in content-build: https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/includes/email-update-signup.drupal.liquid#L6-L38
-
 **What it means when it fails:**
 The email signup form should send the user to the [GovDelivery page](https://public.govdelivery.com/accounts/USVACHOOSE/subscribers/qualify) with the user-provided email prefilled. If the POST call fails, the user might remain on the VA homepage, or they might be directed to a dead GovDelivery page.
 
 This synthetic does not test the form in the browser; it calls the GovDelivery URL directly. It is crucial to check the behavior in the browser to determine the Veteran experience caused by the failure.
 
-- Go to VA.gov -> "Sign up to get the latest VA updates")
+- Go to VA.gov -> "Sign up to get the latest VA updates"
 - Enter an email address, then select "Sign up"
 - Note: does the page successfully redirect to GovDelivery with the email address prefilled, or does it stay on the homepage and show an error?
 
@@ -90,6 +88,6 @@ The email form's GovDelivery call does not go through vets-api and thus should n
 
 [The synthetic](https://vagov.ddog-gov.com/synthetics/details/w3q-ekr-wkg) hits the URL directly via HTTP request and does not interact with the form in the browser. Failure of the synthetic is caused most likely by misconfiguration in the monitor or an issue with GovDelivery.
 
-If the monitor appears to be setup correctly, search Slack to see if other GovDelivery issues have been reported. There are other applications within the VA ecosystem that interact with GovDelivery through vets-api and may also be experiencing issues.
+If the monitor appears to be set up correctly, search Slack to see if other GovDelivery issues have been reported. There are other applications within the VA ecosystem that interact with GovDelivery through vets-api and may also be experiencing issues.
 
 If a root cause still cannot be determined, open a Platform support ticket (#vfs-platform-support in Slack) for assistance in contacting GovDelivery and further investigation.
