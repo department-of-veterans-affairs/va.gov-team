@@ -1,5 +1,59 @@
 # Design Weekly Sync Agenda
 
+### 2024-12-30 Monday
+Attendees: Angela, Hieu, Jessica, Lois, and Renata
+
+- The team discussed data analysis (provided by Heather) of user paths through a registration process for VA healthcare, including challenges with presenting options and consequences.
+- Renata presented findings on design patterns like summary cards, wizards, and comparison tables that could potentially improve the registration process.
+- The team debated the pros and cons of using a wizard-style interface versus providing more upfront information.
+- The team continues to discussed research questions around whether "registration" should be a distinct choice or part of a more conversational eligibility process.
+- There was consideration of how VA staff currently handle registration at different sites and whether that should inform the online process.
+- The team is preparing for an upcoming meeting on Thursday to discuss these findings and potential design directions.
+
+## 2024-12-18 Wednesday
+Attendees: Angela, Hieu, Jessica, Lois, and Renata
+
+### Caregiver Feedback
+- Not doing the follow up workshop yet
+- Stakeholder was against auto-suggestion
+- Friday update: now that we have your feedback, we can shape next steps.
+
+### PO SYNC
+- Registration is just a VA term, what are the Veterans really trying to do? Getting an appointment. 
+- Patrick does not want to drag HEC back through the term.
+- Kristen: is there any additional requirement for to see appointments.
+
+### Confirmation Flow
+- Drop off at Financial: Mix Method. 
+- We have tested authenticated
+- For Type A (Comparison): leaning towards A, the rockstar team to experiment a new path. 
+- Write a research plan, TYPE A question is too broad. Get that they are growing at the same time. 
+- Need more discovery and refinement with mock before crafting a research.
+
+### Action Items
+- Renata: Competitive analysis for Spouse Financial (Patrick request) 
+- Renata: Find some Financial Approach
+- UX to propose frequent touchbase with Engineering for the Household work.
+
+
+## 2024-12-16 Monday
+Attendees: Special Guest - Jina Ryu (looking at data for the apply pod)
+
+### Registration Content Working Meeting 1 (Mural)
+- Lois thinks this is a good approach
+- We’ll have the feedback from Danielle and start exploring the questions. 
+- Work through the HOW and WHY of the research questions. 
+
+### Staging Review for CG
+- Nothing was a surprise, the team already started the changes based on the research.
+
+### Bluesky Vision
+- Lois thinks the way we do notification is so janky so the Presentation would be helpful.
+- Angela was on the authenticated experience team and worked on notifications. There was a technical limitation - with the current VA design system. They did look into the event bus. Did not hear the technical update during the presentation, there is no ‘how to’. 
+- There are no good components. It will not be VA Notify, it may have to be Event Bus. 
+- Lois wants us to consider what type of notification we have to work with. And influence some of the vision. 
+- If we have the VA Dashboard, what type of things do we want it to show?
+
 ## 2024-12-09
 Attendees: Alex, Angela, Emily, Heather, Hieu, Lois, and Renata
 
