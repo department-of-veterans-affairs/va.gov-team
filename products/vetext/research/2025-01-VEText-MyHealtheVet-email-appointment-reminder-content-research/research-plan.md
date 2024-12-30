@@ -76,7 +76,7 @@ Remote, Zoom
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
-[Link to conversation guide](products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md)
+[Link to conversation guide]([products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md))
 
 MHV Template [current mhv email template](products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/current-mhv-email.md) and [proposed PHI template](products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/pending-mhv-template-phiversion.md)
 
