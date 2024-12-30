@@ -70,13 +70,13 @@ On a release level:
 **The VA.gov team will** use feature flags and toggles to define the stream of work coming through the Continuous Integration and Deployment pipeline. This prevents us from promoting potentially unready work up the environments to production. For example, we separated dashboard code used during our research study from the continuation of development. 
 
 (❓What's the purpose of include collab cycle info? Who is our audience?)
-Collaboration Cycle
-After the kickoff request and PO sync, the required touchpoints are:
+
+After the kickoff request and PO sync during the [VA.gov platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/), the required touchpoints are:
 - Architecture Intent
 - PRISS/Security Review
 - Staging Review 
 
-Additional touchpoints may be recommended by the Governance team after reviewing the kickoff request. However, given the smaller scope of an initiative, less effort should be 
+The Governance team may recommend additional touchpoints after reviewing the kickoff request. However, given the smaller scope of an initiative, less effort should be ❓
 
 ## Open questions
 |Question|Answer|
