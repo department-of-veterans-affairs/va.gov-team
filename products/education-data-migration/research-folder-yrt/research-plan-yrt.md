@@ -30,6 +30,7 @@ Will the users benefit from the presentation of the YR program information?
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.*
 
+**Research Goals**
 1. Identify if users can find the content they are seeking.
 2. Validate if users will benefit from the presentation of the YR program information in CT.
 3. Discover pain points or aspects of the design that need to be altered to improve the user experience. 
@@ -46,7 +47,7 @@ Consider bucketing research questions under research goals. For each question, t
 - Does this question serve the goals of my study?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
-Here are our research questions:
+**Here are our research questions:**
 1. Are the users able to find what they are looking for?
 2. Will the users benefit from the updated presentation of the YR program information in CT?
 3. What are the current pain points that users are facing?
@@ -99,7 +100,10 @@ Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs
 Our intended audience is Veterans, Veteran's family member, Veteran's caregiver, or service member.
 We plan to work with Perigean for recruitment.
 
-
+### Screener Questions
+1. How often do you go online to access VA benefits and services?
+2. Have you ever applied for the Yellow Ribbon Program or any other GI Bill benefits?
+3. On a scale of 1-5, 1 being satisfactory and 5 being not satisfactory, what was your experience using the Yellow Ribbon Program?
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study.
