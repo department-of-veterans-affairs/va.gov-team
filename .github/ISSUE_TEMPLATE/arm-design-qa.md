@@ -13,6 +13,13 @@ QA for #
 ## Defects
 - [ ] 
 
-
 ## Acceptance Criteria
 - [ ] Defects have been addressed
+
+---
+#### How to configure this issue
+1. Label with practice area (`backend`, `frontend`)
+2. Label for MVP work? (`mvp`)
+3. Add an estimate
+4. Associate with the proper product
+5. Attach a parent ticket (what body of work is this a part of?)
