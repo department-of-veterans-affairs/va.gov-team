@@ -46,10 +46,13 @@ Three health tools (medications, medical records, and secure messages) require a
 
 ## <a name="logic">Implementation logic (MVP)</a>
 The Account Creation API logic starts about halfway down the diagram below:
-
+A[sign-in] --> B(Is the user ID-verified?)
+    B --> |Yes| C(Is there a facility in the profile?)
+    B --> |No| E{fa:fa-circle-exclamation route-guard user to /my-health + render ID verification alert}
+   
 ```mermaid
 flowchart TD
-    [previous checks for verified account, facilities] -->
+    A[previous checks for verified account, facilities] --> D(Is the user ID-verified?)
     D --> |Yes| G(Render application)
     D --> |No| H(What tools are they trying to access?)
     H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health + render Acct Creation API error alert}
