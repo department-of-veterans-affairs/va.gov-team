@@ -1,5 +1,5 @@
 ## Outcome Summary
-The "Baseball Card" pattern will enable authenticated users to quickly understand their current benefits and discover additional benefits they may qualify for. By presenting this information in a concise, visually intuitive card format, the pattern will reduce time and effort for Veterans navigating benefits-related tasks, foster greater engagement with VA services, and improve trust through clear and actionable data presentation.
+The "Enrollment Card" pattern will enable authenticated users to quickly understand their current benefits and discover additional benefits they may qualify for. By presenting this information in a concise, visually intuitive card format, the pattern will reduce time and effort for Veterans navigating benefits-related tasks, foster greater engagement with VA services, and improve trust through clear and actionable data presentation.
 
 ### Problem Statement
 Veterans often struggle to find, understand, and act on their benefits information due to:
@@ -23,8 +23,8 @@ This fragmented experience creates inefficiencies and missed opportunities for V
 
 ## Discovery
 We will validate assumptions and identify opportunities through:
-- Existing Research: Leverage two years of analytics, user interviews, and comparative studies to inform design decisions.
-- Research: Expand on findings from the 2023 logged-in experience study to explore personalization and navigation needs.
+- Existing Research: Leverage past two years of analytics, user interviews, and comparative studies to inform design decisions.
+- Research: Expand on findings from the previous studies that explore personalization and navigation needs.
 - Testing and Feedback: Conduct usability testing with diverse Veteran personas, including those using assistive technologies, to ensure inclusivity and accessibility.
 
 ### Assumptions/Risks
@@ -35,10 +35,11 @@ We will validate assumptions and identify opportunities through:
  
 ## What're you building
 ### In-Scope
-**Baseball Card Pattern:**
-- Displays current benefits, eligibility for additional benefits, and clear next steps.
-- Includes links to detailed benefits pages and actionable recommendations.
-- Aligns with VA Design System (VADS) standards for design consistency.
+**Enrollment Card Pattern:**
+- Displays currently active benefits and any paused benefits for users who have returned to active duty.
+- Displays eligibility for additional benefits and clear next steps for activation.
+- Includes links to detailed benefits pages for more information and/or actionable recommendations.
+- Decide where to display benefits information on VA.gov
 
 **Governance and Documentation:**
 - Example code and usage guidelines to ensure adoption and scalability.
