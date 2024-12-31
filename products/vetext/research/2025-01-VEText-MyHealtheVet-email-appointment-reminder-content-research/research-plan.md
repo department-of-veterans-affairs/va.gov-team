@@ -95,7 +95,7 @@ Our intended audience for this research is 12 Veterans and caregivers who regula
   - Confirm that participants receive and use MyHealtheVet email appointment reminders for their VA Health appointments and has interacted with these emails within the last year
 
   - Review the recruitment email
-  - 12 total participants (Veterans, 4 caregivers) for this study. 
+  - 12 total participants (8 Veterans, 4 caregivers) for this study. 
 
 **Primary criteria (must-haves)**
 Primary Criteria (Must-Haves):
@@ -179,9 +179,9 @@ Primary Criteria (Must-Haves):
 
   - [ ] 1/07/25  Complete pilot session
 
-  - [ ] 01/13/25 - 01/24/25  Conduct interviews, 12 days, 4 for each cohort
+  - [ ] 01/13/25 - 01/31/25  Conduct interviews, 12 days, 4 for each cohort
 
-  - [ ] 01/13/25 - 01/31/25  Analysis and reporting
+  - [ ] 01/13/25 - 02/07/25  Analysis and reporting
 
   - [ ] TBD  Final presentation
 
@@ -200,7 +200,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 01/07/25
 
 ### Research sessions
-* Planned dates of research:01/14-24/2025
+* Planned dates of research:01/13-31/2025
 
 ### Length of sessions
 Session length: 40 minutes
@@ -211,17 +211,31 @@ Maximum Sessions per day: 2
 ### Availability
 When would you like sessions scheduled?
 
+01/13/2025 12-3:30pm ET
+
 01/14/2025 12-3:30pm ET
 
 01/15/2025 12-3:30pm ET
 
 01/16/2025 12-3:30pm ET
 
+01/21/2025 3:15-5:15pm ET
+
 01/22/2025 12-3:30pm ET
 
-01/23/2025 12-3:30PM ET
+01/23/2025 12-3:30pm ET
 
-01/24/2025 12-3:30PM ET
+01/24/2025 12-3:30pm ET
+
+01/27/2025 12-3:30pm ET
+
+01/28/2025 12-3:30pm ET
+
+01/29/2025 1:30-3:30pm ET
+
+01/30/2025 12-3:30pm ET
+
+01/31/2025 12-3:30pm ET
 
 	
 ## Team Roles	
