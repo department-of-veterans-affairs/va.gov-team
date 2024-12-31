@@ -49,8 +49,7 @@ The Account Creation API logic starts about halfway down the diagram below:
 
 ```mermaid
 flowchart TD
-    C -->|Yes| D(Does the user have an MHV-Identifier?)
-    C -->|No| F{fa:fa-circle-exclamation route-guard user to /my-health + render 'No access' alert}
+    [previous checks for verified account, facilities] -->
     D --> |Yes| G(Render application)
     D --> |No| H(What tools are they trying to access?)
     H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health + render Acct Creation API error alert}
