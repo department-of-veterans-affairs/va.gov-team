@@ -72,7 +72,7 @@ Key differences between the missing-UUID case and earlier account-related cases:
 1. To check for the UUID, application teams need to **add a special react component** to one or more of their application pages (any page where a user might first land within their app).
 2. Not all MHV applications require the MHV back-end; Applications that do not have this requirement do not need to do anything in regards to the Account Creation API error alerts.
 
-The component and UX requirements are [documented in greater here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md).
+The component and UX requirements are [documented in greater here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/mhv-account-creation-api.md)
 
 ## Oracle Health / Cerner Routing alerts
 Guidance coming soon.
