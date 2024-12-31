@@ -72,7 +72,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: [Institution details review] - 7 minutes
 For this first task, we have pre-selected an institution that participates in the YR program.
-
 - Step 1: Take a moment to go through the details provided for Columbia University in the City of New York.
 - Step 2: Go to Yellow Ribbon Program information.
 
@@ -91,7 +90,6 @@ For this first task, we have pre-selected an institution that participates in th
 ### Things to watch for:
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
-- [Etc]
 - Questions:
 1. Based on what you read, can you tell me what the yellow ribbon program is about?
 2. Can you tell us who is eligible for the Yellow Ribbon program?
@@ -108,7 +106,6 @@ For this first task, we have pre-selected an institution that participates in th
 ### Things to watch for:
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
-- [Etc]
 - Questions:
 1. Do you know what funding available means?
 2. Do you know what max school contribution amount means?
@@ -122,7 +119,6 @@ For this first task, we have pre-selected an institution that participates in th
 ### Things to watch for:
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
-- [Etc]
 - Questions:
 1. On a scale of 1-5, 1 being easy and 5 being difficult, how was your experience navigating to additional pages?
 
