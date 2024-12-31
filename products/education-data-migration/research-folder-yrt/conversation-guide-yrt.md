@@ -86,7 +86,6 @@ For this first task, we have pre-selected an institution that participates in th
 2. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate this task?
 
 ## Second Task: [Content review] - 7 minutes
-
 - Step 1: Take a moment to read the information provided in this Yellow Ribbon Program information section
 
 ### Things to watch for:
@@ -99,11 +98,10 @@ For this first task, we have pre-selected an institution that participates in th
 3. What is your first impression of the Yellow Ribbon Program section?
 4. What's your opinion on how the content displays?
 5. Do you find the content to be useful?
-6. If you could change anything about it, what would you change?
+6. If you could change anything about the presentation or content, what would you change?
 7. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate this task?
 
 ## Third Task: [Functional review] - 7 minutes
-
 - Step 1: Select a degree level that you're interested in
 - Step 2: Select display results
 
@@ -114,11 +112,11 @@ For this first task, we have pre-selected an institution that participates in th
 - Questions:
 1. Do you know what funding available means?
 2. Do you know what max school contribution amount means?
-3. Are you able to indicate the total results from your chosen degree level? How many do you see?
+3. Are you able to indicate the total results for your chosen degree level? How many do you see?
 4. Did the results give you what you are looking for?
 5. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate this task?
 
-## Fourth Task: [Pagination review] 
+## Fourth Task: [Pagination review] - 3 minutes
 - Step 1: Go to Graduate degree level and look for School of Journalism
 
 ### Things to watch for:
@@ -126,9 +124,9 @@ For this first task, we have pre-selected an institution that participates in th
 - [Does the participant notice xyz?]
 - [Etc]
 - Questions:
-1. On a scale of 1-5, 1 being easy and 5 being difficult, how was your experience with navigating to additional pages?
+1. On a scale of 1-5, 1 being easy and 5 being difficult, how was your experience navigating to additional pages?
 
-## Post-Task Interview - 7 minutes
+## Post-Task Interview - 4 minutes
 This concludes our review, I just have a few final questions.
 - What's your overall opinion of the Yellow Ribbon Program information in the comparison tool?
 - Did any tasks confuse you?
