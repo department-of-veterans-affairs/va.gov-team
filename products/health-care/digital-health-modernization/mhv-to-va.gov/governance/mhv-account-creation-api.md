@@ -28,17 +28,18 @@ Errors fall into two categories: errors that require the user to call the MHV He
 ### User-action required errors
 These are errors that require manual intervention by My HealtheVet helpdesk staff, and a user must call the helpdesk phone number and communicate the specific error code number to resolve the problem. This alert is most relevant for errors numbered 801, 805, 806, 807 from the API specifications.
 
-### Background errors
-These are errors are due to background issues that helpdesk staff are not likely to be able to resolve. Instead, telling users to reload the page or try again later are the most straightforward approaches we can commmunicate at this time (MVP). These are errors numbered 802, 803, 804, 808, 809, 810, 811 from the API specifications.
-
-## <a name="design">Front-end alert design</a>
-For full detail, including accessibility annotations, [see Figma here](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Sign-In?node-id=267-8158&node-type=frame&t=UPokYL4gfORKiywK-0)
-
 ### User-action required alert (error codes: 801, 805, 806, 807)
 <img width="925" alt="Screenshot 2024-12-11 at 4 51 30 PM" src="https://github.com/user-attachments/assets/276dcee5-eaed-4ff8-848d-8af8e53db502" />
 
+### Background errors
+These are errors are due to background issues that helpdesk staff are not likely to be able to resolve. Instead, telling users to reload the page or try again later are the most straightforward approaches we can commmunicate at this time (MVP). These are errors numbered 802, 803, 804, 808, 809, 810, 811 from the API specifications.
+
 ### Background error alert (error codes: 802, 803, 804, 808, 809, 810)
 <img width="922" alt="Screenshot 2024-12-11 at 4 51 39 PM" src="https://github.com/user-attachments/assets/610c346d-bf47-46eb-b114-3ea76d431619" />
+
+## <a name="design">Front-end alert design</a>
+
+For full details about the alerts above, including accessibility annotations, [see Figma here](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Sign-In?node-id=267-8158&node-type=frame&t=UPokYL4gfORKiywK-0)
 
 ## <a name="routing">Potential entry points & user routing in error states</a>
 The MHV-API gates access to 3 major health tools in the portal, but many other applications do not rely on it (e.g. appointments, supply re-ordering, travel pay). Thus, we will still display secondary navigation. This opens up a side-door gateway into the tools in an error-state & all affected tools will need to route-guard users up to 'my-health' to see alerts in place there. This is applicable both for applications' landing pages and child pages. 
