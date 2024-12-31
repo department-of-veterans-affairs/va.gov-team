@@ -30,7 +30,7 @@ Will the users benefit from the presentation of the YR program information?
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.*
 
-**Research Goals**
+**Here are our research goals:**
 1. Identify if users can find the content they are seeking.
 2. Validate if users will benefit from the presentation of the YR program information in CT.
 3. Discover pain points or aspects of the design that need to be altered to improve the user experience. 
@@ -59,14 +59,13 @@ What do you intend to learn and measure from this study? Think through these pro
 - Write a generalized statement that combines what you know + what you think will happen during the study.
 - Remember to constrain the hypothesis to the goals of your study!
 
+**Here is our hypothesis:**
 This study aims to assess the effectiveness of the presentation of the YR program information in helping users accomplish two main objectives: (1) determining whether users can easily find the information they are seeking, and (2) evaluating if the structure and delivery of the information are beneficial to users in understanding and engaging with the YR program information in its new location.
 
 Based on previous observations and trends, it is expected that users will find it easier to locate the necessary information if the presentation is intuitive and well-organized. Additionally, a clear and user-friendly format should enhance users' comprehension and overall satisfaction with the YR program, ultimately improving their ability to make informed decisions and participate in the program. Through this study, we aim to identify any potential gaps or areas for improvement in the presentation that could better meet users' needs and enhance their experience.
 
 
 ## Methodology        
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.
-
 Qualitative usability testing is the research method we plan to execute to test the feasibility of the solution. We will focus on users behaviors, preferences, and overall experiences while interacting with the prototype. This method will involve a small group of participants who represent the target audience. 
 
 Participants will be guided through tasks and will be asked open-ended questions to gather their thoughts and detailed responses about their experience. We will also note down any issues, frustrations, or successes along the way.
@@ -95,8 +94,6 @@ If recruiting outside of Perigean’s participant database:
 
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?
-
 Our intended audience is Veterans, Veteran's family member, Veteran's caregiver, or service member.
 We plan to work with Perigean for recruitment.
 
