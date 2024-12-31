@@ -105,12 +105,12 @@ We plan to work with Perigean for recruitment.
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study.
-- Total 25 participants
+- Total 15 participants
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study?
-- 13 who have used the Yellow Ribbon tool and 12 who haven't used the Yellow Ribbon tool
-- 12 who are comfortable joining via mobile, 13 who are comfortable joining via desktop (For mobile users, we would like a separate mobile session. For desktop users, we would like to separate mobile session)
+- 8 who have used the Yellow Ribbon tool and 7 who haven't used the Yellow Ribbon tool
+- 7 who are comfortable joining via mobile, 8 who are comfortable joining via desktop (For mobile users, we would like a separate mobile session. For desktop users, we would like to separate mobile session)
 - 25-50 age group
 
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
