@@ -92,7 +92,7 @@ flowchart TD
     C -->|No| F{fa:fa-circle-exclamation route-guard user to /my-health + render 'No access' alert}
     D --> |Yes| G(Render application)
     D --> |No| H(What tools are they trying to access?)
-    H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health where Acct Creation API error alert will be present}
+    H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health + render Acct Creation API error alert}
     H --> |Other health tool| J(Render application)
 ```
 
