@@ -51,7 +51,7 @@ flowchart TD
     A[previous checks for verified account, facilities] --> D(Is the user ID-verified?)
     D --> |Yes| G(Render application)
     D --> |No| H(What tools are they trying to access?)
-    H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health + render Acct Creation API error alert}
+    H --> |Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health + render Acct Creation API error alert}
     H --> |Other health tool| J(Render application)
 ```
 
