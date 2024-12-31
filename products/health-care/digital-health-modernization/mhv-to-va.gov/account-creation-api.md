@@ -57,19 +57,7 @@ These are errors that a user cannot resolve on their own, and are due to backgro
 ## Potential entry points & user routing in error states
 The MHV-API gates access to 3 major health tools in the portal, but many other applications do not rely on it (e.g. appointments, supply re-ordering, travel pay). Thus, we will still display secondary navigation. This opens up a side-door gateway into the tools in an error-state & all affected tools will need to route-guard users up to 'my-health' to see alerts in place there. This is applicable both for applications' landing pages and child pages. 
 
-We also evaluated an option to ask application teams to implement error alerts on their landing pages instead of route-guarding users to the landing page. However, out of concern for application teams and the level of effort associated with these error states, we are recommending the route-guard solution for the time being. 
-<s>
-**Primary entry point:**
-* My HealtheVet on VA.gov home page - we will surface the relevant error alert alongside a modified landing page design.
- 
-**Side-door entry points to the affected apps:**
-
-* Links to Meds, MR, and SM in the My HealtheVet secondary navigation bar
-* My VA healthcare links (currently, these route to the MHV National Portal. But when we update link destinations in January, these pages will become side-door entry points to all 3 affected applications)
-* Health care benefit hub pages for the affected health tool applications - (currently, these route to the MHV National Portal. But when we update link destinations on these pages in March 2025, these pages will become side-door entry points to all 3 affected applications)
-* Cross-links from other unaffected health tool applications
-* Medications, Medical Records, and Secure Messages links
-</s>
+We also evaluated an option to ask application teams to implement error alerts on their landing pages instead of route-guarding users to the landing page. However, out of concern for application teams and the level of effort associated with implementing these error states within the tool applications, we are recommending the route-guard solution for the time being. An improved future state solution may follow based after evaluating analytics of the number of users experiencing these errors in production. 
 
 ## Front-end alert design and My HealtheVet portal implementation logic
 
@@ -82,7 +70,9 @@ For full detail, including accessibility annotations, [see Figma here](https://w
 #### Background error alert (error codes: 802, 803, 804, 808, 809, 810)
 <img width="922" alt="Screenshot 2024-12-11 at 4 51 39 PM" src="https://github.com/user-attachments/assets/610c346d-bf47-46eb-b114-3ea76d431619" />
 
-### My HealtheVet portal implementation logic (high level):
+### MVP Implementation
+
+#### High-level logic
 ```mermaid
 flowchart TD
     A[sign-in] --> B(Is the user ID-verified?)
@@ -100,18 +90,39 @@ flowchart TD
     * Does the user have an ID-verified credential (IAL2)?
     * Does the user have a access to My HealtheVet (do they have a facility in their profile)?
     * Does the user have an MHV-Identifier?
-2. If we do not detect an MHV-Identifier (`userHasMhvAccount` selector from MPI), we run a call to the Account Creation API endpoint (`/v0/user/mhv_user_account`) & display a loading indicator on the page beneath the global header while we wait for the response (estimated time: 1-2 seconds).
-3. We return the response (error or otherwise) to the `mhvAccountStatus` selectors. The api call happens as a `useEffect` block on the `LandingPageContainer` component. Currently there is no new component, only this `useEffect` block. The `mhvAccountStatus` selectors then determine what is rendered: 
-4. If an MHV-Identifier was created, the full page & affected application will render for the user. 
-5. If we do not see an MHV-Identifier, the user is redirected to the landing page 'my-health', where a new `AlertMhvUserAction` alert is rendered along with a modified landing page. Page modification includes: suppressing links in grey cards for each of the affected health applications. This avoids some dead-ends to those tools that a user lacks access to, and adds clarity to the meaning of the alert.<s>The solution slightly varies depending on where it is triggered: 1.) My HealtheVet landing page or 2.) an affected health tool application. Details in sections below:</s>
+2. If an MHV-Identifier (`userHasMhvAccount` selector from MPI) is not detected, the solution depends on what page the user is attempting to access:
 
-<s>
-#### 1. My HealtheVet landing page
-On this page, we will render a modified version of the landing page with the relevant error alert in place. This page modification includes: suppressing links in the grey-boxes for each of the affected health applications. This avoids some dead-ends to those tools that a user does not have access to, and adds clarity to the meaning of the alert as to what applications are affected.
+**My HealtheVet landing page** (/my-health)
+3. We run a call to the Account Creation API endpoint (`/v0/user/mhv_user_account`) & display a loading indicator on the page beneath the global header while we wait for the response (estimated time: 1-2 seconds).
+4. We return the response (error or otherwise) to the `mhvAccountStatus` selectors. The api call happens as a `useEffect` block on the `LandingPageContainer` component. Currently there is no new component, only this `useEffect` block. The `mhvAccountStatus` selectors then determine what is rendered: 
+5. If an MHV-Identifier was created, the full page & affected application will render for the user. 
+6. If we do not see an MHV-Identifier, a new `AlertMhvUserAction` alert is rendered along with a modified landing page. Page modification includes: suppressing links in grey cards for each of the affected health applications. This avoids some dead-ends to those tools that a user lacks access to, and adds clarity to the meaning of the alert.
 
-#### 2. Affected health tool applications
+**An affected health tool application** (Medications, Medical Records, Secure Messages)
+There are many side-door entry points to the health tools themselves. If a user without an MHV-Identifier attempts to access a URL within an affected application, they must be redirected to the `/my-health`landing page, where steps 3-6 above will take place. 
 
-**Option 1 (preferred):** Display these alerts in-place on the root page of your applications. If users hack their URL or somehow access deeper child page links beneath that entry point page, route-guard them to the top page of your application and show them the alert in-place there. Suppress all functionality in the application, only displaying: 
+## QA Guide and test cases
+_Add instructions to this documentation around the AC-API for tool teams so that they understand how to use redux to test whether their route-guards for the AC-API actually send users to the /my-health page to experience relevant AC-API error alerts in the case of errors. Include specific test cases & recommendations on how to validate the route-guard using redux._
+
+## Future State Improvements
+As a future-state iteration on the MVP implementation solution of the Account Creation API alerts, we would like to see tool teams implement these alerts in place in their own applications. 
+
+As stated earlier in this document, there are many side-door entry points into the affected health tools (medications, medical records, secure messages) from across VA.gov and from even outside of it. Instead of instantly route-guarding those users to the `/my-health` page to experience these error alerts when they occur, we hypothesize that it will make more sense to users to see the relevant alerts in place within the application they expected to access.
+
+**Note:** To determine whether this higher technical lift solution is worth pursuing, we will monitor and evalute error logs resulting from the MVP implementation solution and determine the severity of the problem (number and percentage of Veterans affected over time). 
+
+**Side-door entry points to the affected apps:**
+* Links to Meds, MR, and SM in the My HealtheVet secondary navigation bar
+* My VA healthcare links (currently, these route to the MHV National Portal. But when we update link destinations in January, these pages will become side-door entry points to all 3 affected applications)
+* Health care benefit hub pages for the affected health tool applications - (currently, these route to the MHV National Portal. But when we update link destinations on these pages in March 2025, these pages will become side-door entry points to all 3 affected applications)
+* Cross-links from other unaffected health tool applications
+* Medications, Medical Records, and Secure Messages links
+
+### Possible future state iteration for the MVP implementation
+We should monitor whether the presence of secondary nav on the landing page in a state where 3/4 tools cannot be accessed due to an error with the Account Creation API creates confusion for users. In the event that we believe it does add confusion, we could suppress the navigation bar as a minor iteration. Or we could move toward the future state approach for tool teams (below). 
+
+### Future state approach for tool teams
+Display these alerts in-place on the root page of your applications. If users hack their URL or somehow access deeper child page links beneath that entry point page, redirect them to the top page of your application and show them the alert in-place there. Suppress all functionality in the application, only displaying: 
 * Global header
 * Secondary navigation
 * Breadcrumbs
@@ -119,19 +130,4 @@ On this page, we will render a modified version of the landing page with the rel
 * Lede text (if applicable)
 * This alert
 * Footer
-
-**Option 2:** If route-guarding users within your application is not desireable, account for putting this alert in place anywhere in the app. Similar to Option 1, suppress all functionality in the application and limit the page display to the same elements of the page denoted in the list above. 
-</s>
-
-## QA Guide and test cases
-_Add instructions to this documentation around the AC-API for tool teams so that they understand how to use redux to test whether their route-guards for the AC-API actually send users to the /my-health page to experience relevant AC-API error alerts in the case of errors. Include specific test cases & recommendations on how to validate the route-guard using redux._
-
-## Outstanding decisions
-1. Which option (1 or 2) above do affected tool application POs prefer for implementation? All teams should align on a consistent approach
-2. Does the MHV Access + Portals team have feedback on the contact center documentation we have drafted? - DONE: documentation approved 
-3. What is the best way to monitor feedback about the account creation API once we implement these alerts? Who is best positioned to do it?
-4. Are there accessibility issues with these alerts that we need to factor in and fix before launch? (outstanding ticket with CAIA A11y) 
-
-
-
 
