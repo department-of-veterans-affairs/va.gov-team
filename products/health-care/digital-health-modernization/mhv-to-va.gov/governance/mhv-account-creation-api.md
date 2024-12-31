@@ -80,8 +80,6 @@ For full detail, including accessibility annotations, [see Figma here](https://w
 <img width="922" alt="Screenshot 2024-12-11 at 4 51 39 PM" src="https://github.com/user-attachments/assets/610c346d-bf47-46eb-b114-3ea76d431619" />
 
 ## <a name="logic">Implementation logic (MVP)</a>
-
-### High-level logic
 ```mermaid
 flowchart TD
     A[sign-in] --> B(Is the user ID-verified?)
@@ -101,23 +99,23 @@ flowchart TD
     * Does the user have an MHV-Identifier?
 2. If an MHV-Identifier (`userHasMhvAccount` selector from MPI) is not detected, the solution depends on what page the user is attempting to access:
 
-#### My HealtheVet landing page
+### My HealtheVet landing page
 3. We run a call to the Account Creation API endpoint (`/v0/user/mhv_user_account`) & display a loading indicator on the page beneath the global header while we wait for the response (estimated time: 1-2 seconds).
 4. We return the response (error or otherwise) to the `mhvAccountStatus` selectors. The api call happens as a `useEffect` block on the `LandingPageContainer` component. Currently there is no new component, only this `useEffect` block. The `mhvAccountStatus` selectors then determine what is rendered: 
 5. If an MHV-Identifier was created, the full page & affected application will render for the user. 
 6. If we do not see an MHV-Identifier, a new `AlertMhvUserAction` alert is rendered along with a modified landing page. Page modification includes: suppressing links in grey cards for each of the affected health applications. This avoids some dead-ends to those tools that a user lacks access to, and adds clarity to the meaning of the alert.
 
-#### An affected health tool application
+### An affected health tool application
 Tools: Medications, Medical Records, Secure Messages
 
 There are many side-door entry points to the health tools themselves (list below). If a user without an MHV-Identifier attempts to access a URL within an affected application, they must be redirected to the `/my-health`landing page, where steps 3-6 above will take place. 
 
-**Side-door entry points to the affected apps:**
-* Links to Meds, MR, and SM in the My HealtheVet secondary navigation bar
-* My VA healthcare links (currently, these route to the MHV National Portal. But when we update link destinations in January, these pages will become side-door entry points to all 3 affected applications)
-* Health care benefit hub pages for the affected health tool applications - (currently, these route to the MHV National Portal. But when we update link destinations on these pages in March 2025, these pages will become side-door entry points to all 3 affected applications)
-* Cross-links from other unaffected health tool applications
-* Medications, Medical Records, and Secure Messages links
+* **Side-door entry points to the affected apps:**
+  * Links to Meds, MR, and SM in the My HealtheVet secondary navigation bar
+  * My VA healthcare links (currently, these route to the MHV National Portal. But when we update link destinations in January, these pages will become side-door entry points to all 3 affected applications)
+  * Health care benefit hub pages for the affected health tool applications - (currently, these route to the MHV National Portal. But when we update link destinations on these pages in March 2025, these pages will become side-door entry points to all 3 affected applications)
+  * Cross-links from other unaffected health tool applications
+  * Medications, Medical Records, and Secure Messages links
 
 ## <a name="qa">QA guide and test cases</a>
 _Add instructions to this documentation around the AC-API for tool teams so that they understand how to use redux to test whether their route-guards for the AC-API actually send users to the /my-health page to experience relevant AC-API error alerts in the case of errors. Include specific test cases & recommendations on how to validate the route-guard using redux._
