@@ -9,13 +9,15 @@ To ensure a consistent Veteran experience and reduce cognitive load within the M
 * 404 page not found alerts (guidance coming soon)
 
 ## High-level API access logic
+Some applications may choose to alert users in-place rather than redirecting (route-guarding) them to the MHV landing page. Route-guarding is the preferred approach for the sake of maintaining a consistent experience across tools in the portal.
+
 ```mermaid
 flowchart TD
     A[sign-in] --> B(Is the user ID-verified?)
     B --> |Yes| C(Is there a facility in the profile?)
-    B --> |No| E{fa:fa-circle-exclamation route-guard user to /my-health + render ID verification alert}
+    B --> |No| E{fa:fa-circle-exclamation route-guard user to /my-health OR render ID verification alert in-place}
     C -->|Yes| D(Does the user have an MHV-Identifier?)
-    C -->|No| F{fa:fa-circle-exclamation route-guard user to /my-health + render 'No access' alert}
+    C -->|No| F{fa:fa-circle-exclamation route-guard user to /my-health OR render 'No access' alert in-place}
     D --> |Yes| G(Render application)
     D --> |No| H(What tools are they trying to access?)
     H --> |Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health + render Acct Creation API error alert}
@@ -30,7 +32,7 @@ flowchart TD
 ### Checks only for applications that rely on the MHV-API backend
 Affected applications: medications, medical records, and secure messages
 
-4. If a facility is in the user's profile, but the application relies on the MHV-API back-end, check for the presence of an MHV-Identifier (MHV UUID). If there is no MHV-Identifier, see the [Account Creation API Overview document](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md) for more information about how to handle this. 
+4. If a facility is in the user's profile, but the application relies on the MHV-API back-end, check for the presence of an MHV-Identifier (MHV UUID). If there is no MHV-Identifier, see the [Account Creation API Overview document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/mhv-account-creation-api.md) for more information about how to handle this. 
 5. If there is an MHV-Identifier present, render the application. 
    
 ## User routing under access-limiting conditions
