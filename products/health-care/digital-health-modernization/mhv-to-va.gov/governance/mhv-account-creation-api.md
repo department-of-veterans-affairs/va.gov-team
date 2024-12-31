@@ -45,6 +45,8 @@ Three health tools (medications, medical records, and secure messages) require a
 
 
 ## <a name="logic">Implementation logic (MVP)</a>
+The Account Creation API logic starts about halfway down the diagram below:
+
 ```mermaid
 flowchart TD
     A[sign-in] --> B(Is the user ID-verified?)
@@ -58,19 +60,10 @@ flowchart TD
     H --> |Other health tool| J(Render application)
 ```
 
-1. All impacted application pages should look for an MHV-Identifier as the third-order criteria before rendering a page for users:
-    * Does the user have an ID-verified credential (IAL2)?
-    * Does the user have a access to My HealtheVet (do they have a facility in their profile)?
-    * Does the user have an MHV-Identifier?
-2. If an MHV-Identifier (`userHasMhvAccount` selector from MPI) is not detected, the solution depends on what page the user is attempting to access:
+1. All impacted applications (SM, Meds, MR) should look for an MHV-Identifier before rendering a page for users.
+2. If an MHV-Identifier (`userHasMhvAccount` selector from MPI) is not detected, these applications should redirect/route-guard the user to the MHV landing page for triage and alerting if necessary.
 
-### My HealtheVet landing page
-3. We run a call to the Account Creation API endpoint (`/v0/user/mhv_user_account`) & display a loading indicator on the page beneath the global header while we wait for the response (estimated time: 1-2 seconds).
-4. We return the response (error or otherwise) to the `mhvAccountStatus` selectors. The api call happens as a `useEffect` block on the `LandingPageContainer` component. Currently there is no new component, only this `useEffect` block. The `mhvAccountStatus` selectors then determine what is rendered: 
-5. If an MHV-Identifier was created, the full page & affected application will render for the user. 
-6. If we do not see an MHV-Identifier, a new `AlertMhvUserAction` alert is rendered along with a modified landing page. Page modification includes: suppressing links in grey cards for each of the affected health applications. This avoids some dead-ends to those tools that a user lacks access to, and adds clarity to the meaning of the alert.
-
-### An affected health tool application
+### Affected health tool applications
 Tools: Medications, Medical Records, Secure Messages
 
 There are many side-door entry points to the health tools themselves (list below). If a user without an MHV-Identifier attempts to access a URL within an affected application, they must be redirected to the `/my-health`landing page, where steps 3-6 above will take place. 
@@ -81,6 +74,12 @@ There are many side-door entry points to the health tools themselves (list below
   * Health care benefit hub pages for the affected health tool applications - (currently, these route to the MHV National Portal. But when we update link destinations on these pages in March 2025, these pages will become side-door entry points to all 3 affected applications)
   * Cross-links from other unaffected health tool applications
   * Medications, Medical Records, and Secure Messages links
+
+### My HealtheVet landing page implementation
+3. We run a call to the Account Creation API endpoint (`/v0/user/mhv_user_account`) & display a loading indicator on the page beneath the global header while we wait for the response (estimated time: 1-2 seconds).
+4. We return the response (error or otherwise) to the `mhvAccountStatus` selectors. The api call happens as a `useEffect` block on the `LandingPageContainer` component. Currently there is no new component, only this `useEffect` block. The `mhvAccountStatus` selectors then determine what is rendered: 
+5. If an MHV-Identifier was created, the full page & affected application will render for the user. 
+6. If we do not see an MHV-Identifier, a new `AlertMhvUserAction` alert is rendered along with a modified landing page. Page modification includes: suppressing links in grey cards for each of the affected health applications. This avoids some dead-ends to those tools that a user lacks access to, and adds clarity to the meaning of the alert.
 
 ## <a name="qa">QA guide and test cases</a>
 _Add instructions to this documentation around the AC-API for tool teams so that they understand how to use redux to test whether their route-guards for the AC-API actually send users to the /my-health page to experience relevant AC-API error alerts in the case of errors. Include specific test cases & recommendations on how to validate the route-guard using redux._
