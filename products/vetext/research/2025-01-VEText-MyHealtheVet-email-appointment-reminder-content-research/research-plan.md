@@ -173,9 +173,9 @@ Primary Criteria (Must-Haves):
 
 
 ## Timeline
- - [ ] 01/07/25  Perigean kick-off call
+ - [ ] 01/06/25  Perigean kick-off call
 
-  - [ ] 1/07/25 - 1/14/25  Recruitment with Perigean, requires 1 week
+  - [ ] 1/06/25 - 1/10/25  Recruitment with Perigean, requires 1 week
 
   - [ ] 1/07/25  Complete pilot session
 
