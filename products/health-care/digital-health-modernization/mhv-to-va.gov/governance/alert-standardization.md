@@ -21,14 +21,15 @@ flowchart TD
     H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health + render Acct Creation API error alert}
     H --> |Other health tool| J(Render application)
 ```
-**Checks for ALL applications in the My HealtheVet portal:**
+### Checks for ALL applications in the My HealtheVet portal
 1. All `/my-health` application pages should look for an ID-verified credential (IAL2) as the first-order criteria before rendering a page for users. If an ID-verified credential (IAL2) is not detected, the application should **redirect the user to the MHV-on-VA.gov landing page**, where the page will render an ID-verification alert (all other page content, including access to the tools and the secondary nav bar will be suppressed).
 2. If an ID-verified credential (IAL2) is detected, then `/my-health` application pages should check for the presence of a facility in the user's profile.
 3. If there is no facility in the profile, the application should **redirect the user to the MHV-on-VA.gov landing page**, where the page will render a "No access to My HealtheVet" alert (all other page content, including access to all health tools tools and the secondary nav bar will be suppressed).
 4. If a facility is in the user's profile, then any health portal applications that do not rely on the MHV-API backend should be rendered. 
 
-**Checks only for MyHealtheVet applications that rely on the MHV-API backend (medications, medical records, and secure messages):**
-1-3: Above
+### Checks only for applications that rely on the MHV-API backend
+Affected applications: medications, medical records, and secure messages
+
 4. If a facility is in the user's profile, but the application relies on the MHV-API back-end, check for the presence of an MHV-Identifier (MHV UUID). If there is no MHV-Identifier, see the [Account Creation API Overview document](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md) for more information about how to handle this. 
 5. If there is an MHV-Identifier present, render the application. 
    
@@ -70,9 +71,9 @@ NOTE: Screenshots below are taken from this [Figma file](https://www.figma.com/d
 
 ## Missing MHV-Identifier (Account Creation API)
 
-Not all applications in the My HealtheVet on VA.gov portal rely on the MHV-API backend, but 3 of the "big four" tools do, including medications, medical records, and secure messages. These affected applications must run a check for the presence of an MHV-Identifier (UUID). If one does not exist, additional steps must be taken. We have prepared a React component to make this check as easy as possible for application teams. 
+Users who lack the third condition: presence of an MHV-Identifier, will be access-limited to _only some applications_ that rely on the MHV-API backend. These applications include: medications, medical records, and secure messages. Applications that do not rely on the MHV-API backend do not have this requirement.
 
-Applications that do not rely on the MHV-API backend do not have this requirement.
+Affected applications must run a check for the presence of an MHV-Identifier (UUID). If one does exist, the application can be rendered. If one does not exist, additional steps must be taken. The Cartogrpahy team has prepared a React component to make this check as easy as possible for application teams. 
 
 The additional steps that must be taken by affected applications if the check for an MHV-Identifier comes back as "false" are [documented in greater detail as part of Account Creation API work here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/mhv-account-creation-api.md)
 
