@@ -14,7 +14,7 @@ This API will automatically create an MHV-Identifier for any Veteran who does no
 * [API errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#api-errors)
 * [Potential entry points & user routing in error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#potential-entry-points--user-routing-in-error-states)
 * [Front-end alert design and My HealtheVet portal implementation logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#front-end-alert-design-and-my-healthevet-portal-implementation-logic)
-* [QA guide & test cases](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#qa-guide-and-test-cases))
+* [QA guide & test cases](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#qa-guide-and-test-cases)
 * [Outstanding decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#outstanding-decisions)
 
 ## Resources
