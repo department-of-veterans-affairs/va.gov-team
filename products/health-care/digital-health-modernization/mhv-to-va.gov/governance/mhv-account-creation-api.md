@@ -1,11 +1,17 @@
 # My HealtheVet on VA.gov: Account Creation API Overview
 
-This document gives an overview of the Cartography Team's discovery work around the API architecture, including: user-facing alert designs, routing, impacts on affected health tool applications, and alert placement decisions.
+The goal of this document is to explain what the MHV Account Creation API does, how it is called from VA.gov, and how MHV-on-VA.gov tools that require a MHV identifier should handle error scenarios. 
 
 ## Overview
-The account creation API seeks to solve a current-state problem, where user first-time users of My HealtheVet on VA.gov cannot directly access three of the "big four" health tools (medications, medical records, or secure messages) on VA.gov without first manually registering for an MHV-ID on the National Portal website by filling out a digital registration form. 
+The account creation API seeks to solve a current-state problem, where first-time users of My HealtheVet on VA.gov cannot directly access three of the "big four" health tools (medications, medical records, or secure messages) on VA.gov without first manually registering for an MHV-ID on the National Portal website. 
 
-This API will automatically create an MHV-Identifier for any Veteran who does not already have one, and the process will kick off at the time a user signs-in to VA.gov, or enters VA.gov via SSOe from another external VA site. The most common use case for this API are users who set up a new **ID.me** or **Login.gov** account & attempt to access My HealtheVet for the first time.However, the API can fail if certain errors are hit. Most of those errors will occur behind the scenes, but four errors will require user action: the Veteran will need to contact the My HealtheVet helpdesk & share the error code they received, which will aid the helpdesk team in quickly triaging the problem & escalating it to the necessary tier of support. 
+This API will automatically create an MHV-Identifier for any Veteran who does not already have one (or retrieve it if one exists). The most common use case for this API are users who set up a new **ID.me** or **Login.gov** account & attempt to access My HealtheVet for the first time.
+
+However, a significant portion of users will arrive at the MHV-on-VA.gov portal without a MHV-UUID. Common causes:
+- The API call during sign-in stores the MHV-UUID in a different place than MHV tools are looking for it
+- The API call failed during sign-in
+- The API call returned an error from the MHV back-end (see below, errors are coded `8XX`)
+ 
 
 
 ## On this page
@@ -43,10 +49,13 @@ Below are links to API documentation and specifications, discovery work, and des
   * Sara Sterkenburg - information architect
 
 **Distribution of effort:**
-The MHV Portals + Access team led by PO Carnetta Scruggs is building the API. The VA OCTO Identity team will be implementing the API onto VA.gov at sign-in. The Cartography team will be calling the API endpoint within the My HealtheVet space to see if an MHV-Identifier was returned by the API, or if there was an error returned. If errors are returned, the Cartography team is designing alerts for the front-end user experience that will help Veterans understand the problem and give them clear next-steps to get a resolution. 
+- The MHV Portals + Access team led by PO Carnetta Scruggs built the API. 
+- The VA OCTO Identity team implemented the API onto VA.gov at sign-in. 
+- The Cartography team implemented code on the MHV landing page that stores the MHV-UUID in the correct place in application state to be used by MHV tools.
+- If an error is returned by the API, the Cartography team has built alerts in the front-end user experience that will help Veterans understand the problem and give them clear next steps to get a resolution. 
 
  ## <a name="api-errors">API errors</a>
-In a nutshell, the 3 teams above have worked together and grouped errors into two "types." Cartography team is creating contact center documentation around these errors to inform front-line helpdesk staff: 1.) what these error alerts look like, 2.) how to help users resolve each of these errors. 
+Errors fall into two categories: errors that require the user to call the MHV Help Desk, and technical/background errors that are transient. (The errors and triage approaches are documented in the [product guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/contact_center).)
 
 [Full API documentation can be viewed here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#resources) (also linked under 'Resources' section above)
 
