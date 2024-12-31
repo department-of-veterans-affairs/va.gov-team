@@ -44,11 +44,7 @@ Three health tools (medications, medical records, and secure messages) require a
 **Route-guard:** The Cartography team uses this term to describe the application logic within React that can conditionally redirect users to the MHV landing page.
 
 
-## <a name="logic">Implementation logic (MVP)</a>
-The Account Creation API logic starts about halfway down the diagram below:
-A[sign-in] --> B(Is the user ID-verified?)
-    B --> |Yes| C(Is there a facility in the profile?)
-    B --> |No| E{fa:fa-circle-exclamation route-guard user to /my-health + render ID verification alert}
+## <a name="logic">Implementation logic for affected tools (MVP)</a>
    
 ```mermaid
 flowchart TD
@@ -84,14 +80,14 @@ There are many side-door entry points to the health tools themselves (list below
 _Add instructions to this documentation around the AC-API for tool teams so that they understand how to use redux to test whether their route-guards for the AC-API actually send users to the /my-health page to experience relevant AC-API error alerts in the case of errors. Include specific test cases & recommendations on how to validate the route-guard using redux._
 
 ## <a name="future">Planned future-state improvements</a>
-As stated earlier in this document, there are many side-door entry points into the affected health tools (medications, medical records, secure messages) from across VA.gov and from even outside of it. Instead of instantly route-guarding those users to the `/my-health` page to experience these error alerts when they occur, we hypothesize that it will make more sense for users to see the relevant alerts _in place within the application they expected to access_.
+As stated earlier in this document, there are many side-door entry points into the affected health tools (medications, medical records, secure messages) from across VA.gov and from even outside of it. Instead of instantly route-guarding those users to the `/my-health` page to experience these error alerts when they occur, we hypothesize that it would make more sense for users to see the relevant alerts _in place within the application they expected to access_.
 
 **Note:** To determine whether this higher technical lift solution is worth pursuing, we will monitor and evalute error logs resulting from the MVP implementation solution and determine the severity of the problem (number and percentage of Veterans affected over time). 
 
 ### Possible iteration on the MVP implementation
 We should monitor whether the presence of secondary nav on the landing page in a state where 3/4 tools cannot be accessed due to an error with the Account Creation API creates confusion for users. In the event that we believe it does add confusion, we could suppress the navigation bar as a minor iteration. Or we could move toward the future state approach for tool teams (below). 
 
-### Future state approach for tool teams
+### Future state UX approach for tool teams
 Display these alerts in-place on the root page of your applications. If users hack their URL or somehow access deeper child page links beneath that entry point page, redirect them to the top page of your application and show them the alert in-place there. Suppress all functionality in the application, only displaying: 
 * Global header
 * Secondary navigation
@@ -106,6 +102,7 @@ Display these alerts in-place on the root page of your applications. If users ha
 The MHV-API gates access to 3 major health tools in the portal, but many other applications do not rely on it (e.g. appointments, supply re-ordering, travel pay). Thus, we will still display secondary navigation. This opens up a side-door gateway into the tools in an error-state & all affected tools will need to route-guard users up to 'my-health' to see alerts in place there. This is applicable both for applications' landing pages and child pages. 
 
 We also evaluated an option to ask application teams to implement error alerts on their landing pages instead of route-guarding users to the landing page. However, out of concern for application teams and the level of effort associated with implementing these error states within the tool applications, we are recommending the route-guard solution for the time being. An improved future state solution may follow based after evaluating analytics of the number of users experiencing these errors in production. 
+
 ## <a name="resources">Resources</a>
 Below are links to API documentation and specifications, discovery work, and design files related to this effort. Please reach out to the involved teams with any questions about these materials.
 * [Account Creation API specs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/vsp/teams/Identity/Product%20Documentation/MHV%20account%20creation%20api%20on%20vagov) (private)
