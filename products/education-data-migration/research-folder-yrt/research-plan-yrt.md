@@ -101,6 +101,9 @@ We plan to work with Perigean for recruitment.
 1. How often do you go online to access VA benefits and services?
 2. Have you ever applied for the Yellow Ribbon Program or any other GI Bill benefits?
 3. On a scale of 1-5, 1 being satisfactory and 5 being not satisfactory, what was your experience using the Yellow Ribbon Program?
+4. Are you comfortable joining the session on mobile or desktop?
+		(Note: For mobile users, we would like a separate mobile session and for desktop users, we would like to separate desktop session.)
+
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study.
