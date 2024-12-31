@@ -3,11 +3,11 @@
 The goal of this document is to explain what the MHV Account Creation API does, how it is called from VA.gov, and how MHV-on-VA.gov tools that require a MHV identifier should handle error scenarios. 
 
 ## Overview
-The account creation API seeks to solve a current-state problem, where first-time users of My HealtheVet on VA.gov cannot directly access three of the "big four" health tools (medications, medical records, or secure messages) on VA.gov without first manually registering for an MHV-ID on the National Portal website. 
+A MHV-Identifier (uuid) is required by three of the "big four" health tools (medications, medical records, and secure messages) on VA.gov to retrieve user data. The account creation API seeks to solve a current-state problem, where first-time users of My HealtheVet on VA.gov must manually register for an MHV-ID on the National Portal website to assoicate a UUID with their credential. The most common use case for this API are users who set up a new **ID.me** or **Login.gov** account & attempt to access My HealtheVet for the first time.
 
-This API will automatically create an MHV-Identifier for any Veteran who does not already have one (or retrieve it if one exists). The most common use case for this API are users who set up a new **ID.me** or **Login.gov** account & attempt to access My HealtheVet for the first time.
+This API automatically creates an MHV-Identifier for any Veteran who does not already have one (or retrieve it if one exists), thus removing the user burden of the manual registration step.
 
-However, a significant portion of users will arrive at the MHV-on-VA.gov portal without a MHV-UUID. Common causes:
+However, a significant portion of users will still arrive at the MHV-on-VA.gov portal without a MHV-UUID. Common causes:
 - The API call during sign-in stores the MHV-UUID in a different place than MHV tools are looking for it
 - The API call failed during sign-in
 - The API call returned an error from the MHV back-end (see below, errors are coded `8XX`)
@@ -15,36 +15,34 @@ However, a significant portion of users will arrive at the MHV-on-VA.gov portal 
 ## On this page
 * [API errors](#api-errors)
 * [Potential entry points & user routing in error states](#routing)
-* [Front-end alert design](#design)
 * [Implementation logic (MVP)](#logic)
 * [QA guide & test cases](#qa)
 * [Planned future-state improvements](#future)
 * [Resources](#resources)
 * [Teams involved in this effort](#teams)
 
- ## <a name="api-errors">API errors</a>
-Errors fall into two categories: errors that require the user to call the MHV Help Desk, and technical/background errors that are transient. (The errors and triage approaches are documented in the [product guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/contact_center).)
+## <a name="api-errors">API errors</a>
+Errors returned by the MHV Account Creation API fall into two categories: errors that require the user to call the MHV Help Desk, and technical/background errors that are transient. (The errors and triage approaches are documented in the [product guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/contact_center).)
 
 ### User-action required errors
 These are errors that require manual intervention by My HealtheVet helpdesk staff, and a user must call the helpdesk phone number and communicate the specific error code number to resolve the problem. This alert is most relevant for errors numbered 801, 805, 806, 807 from the API specifications.
 
-### User-action required alert (error codes: 801, 805, 806, 807)
+### User-action required alert (error codes: 801, 805, 806, 807) (as displayed on the MHV landing page)
 <img width="925" alt="Screenshot 2024-12-11 at 4 51 30 PM" src="https://github.com/user-attachments/assets/276dcee5-eaed-4ff8-848d-8af8e53db502" />
 
 ### Background errors
 These are errors are due to background issues that helpdesk staff are not likely to be able to resolve. Instead, telling users to reload the page or try again later are the most straightforward approaches we can commmunicate at this time (MVP). These are errors numbered 802, 803, 804, 808, 809, 810, 811 from the API specifications.
 
-### Background error alert (error codes: 802, 803, 804, 808, 809, 810)
+### Background error alert (error codes: 802, 803, 804, 808, 809, 810) (as displayed on the MHV landing page)
 <img width="922" alt="Screenshot 2024-12-11 at 4 51 39 PM" src="https://github.com/user-attachments/assets/610c346d-bf47-46eb-b114-3ea76d431619" />
-
-## <a name="design">Front-end alert design</a>
 
 For full details about the alerts above, including accessibility annotations, [see Figma here](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Sign-In?node-id=267-8158&node-type=frame&t=UPokYL4gfORKiywK-0)
 
-## <a name="routing">Potential entry points & user routing in error states</a>
-The MHV-API gates access to 3 major health tools in the portal, but many other applications do not rely on it (e.g. appointments, supply re-ordering, travel pay). Thus, we will still display secondary navigation. This opens up a side-door gateway into the tools in an error-state & all affected tools will need to route-guard users up to 'my-health' to see alerts in place there. This is applicable both for applications' landing pages and child pages. 
+## <a name="routing">Tool implementation of user routing when UUID is missing</a>
+Three health tools (medications, medical records, and secure messages) require a MHV UUID to function. **If it is missing, they should redirect users to the MHV landing page,** which will attempt to retrieve the UUID and then alert the user appropriately.
 
-We also evaluated an option to ask application teams to implement error alerts on their landing pages instead of route-guarding users to the landing page. However, out of concern for application teams and the level of effort associated with implementing these error states within the tool applications, we are recommending the route-guard solution for the time being. An improved future state solution may follow based after evaluating analytics of the number of users experiencing these errors in production. 
+**Route-guard:** The Cartography team uses this term to describe the application logic within React that can conditionally redirect users to the MHV landing page.
+
 
 ## <a name="logic">Implementation logic (MVP)</a>
 ```mermaid
@@ -105,6 +103,11 @@ Display these alerts in-place on the root page of your applications. If users ha
 * This alert
 * Footer
 
+### UX considerations on the MHV landing page
+
+The MHV-API gates access to 3 major health tools in the portal, but many other applications do not rely on it (e.g. appointments, supply re-ordering, travel pay). Thus, we will still display secondary navigation. This opens up a side-door gateway into the tools in an error-state & all affected tools will need to route-guard users up to 'my-health' to see alerts in place there. This is applicable both for applications' landing pages and child pages. 
+
+We also evaluated an option to ask application teams to implement error alerts on their landing pages instead of route-guarding users to the landing page. However, out of concern for application teams and the level of effort associated with implementing these error states within the tool applications, we are recommending the route-guard solution for the time being. An improved future state solution may follow based after evaluating analytics of the number of users experiencing these errors in production. 
 ## <a name="resources">Resources</a>
 Below are links to API documentation and specifications, discovery work, and design files related to this effort. Please reach out to the involved teams with any questions about these materials.
 * [Account Creation API specs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/vsp/teams/Identity/Product%20Documentation/MHV%20account%20creation%20api%20on%20vagov) (private)
