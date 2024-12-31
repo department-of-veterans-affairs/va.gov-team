@@ -14,6 +14,7 @@ This API will automatically create an MHV-Identifier for any Veteran who does no
 * [API errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#api-errors)
 * [Potential entry points & user routing in error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#potential-entry-points--user-routing-in-error-states)
 * [Front-end alert design and My HealtheVet portal implementation logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#front-end-alert-design-and-my-healthevet-portal-implementation-logic)
+* [QA guide & test cases](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#qa-guide-and-test-cases))
 * [Outstanding decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#outstanding-decisions)
 
 ## Resources
@@ -121,6 +122,9 @@ On this page, we will render a modified version of the landing page with the rel
 
 **Option 2:** If route-guarding users within your application is not desireable, account for putting this alert in place anywhere in the app. Similar to Option 1, suppress all functionality in the application and limit the page display to the same elements of the page denoted in the list above. 
 </s>
+
+## QA Guide and test cases
+_Add instructions to this documentation around the AC-API for tool teams so that they understand how to use redux to test whether their route-guards for the AC-API actually send users to the /my-health page to experience relevant AC-API error alerts in the case of errors. Include specific test cases & recommendations on how to validate the route-guard using redux._
 
 ## Outstanding decisions
 1. Which option (1 or 2) above do affected tool application POs prefer for implementation? All teams should align on a consistent approach
