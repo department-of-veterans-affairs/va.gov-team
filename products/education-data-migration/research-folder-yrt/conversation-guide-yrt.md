@@ -63,9 +63,10 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Are you familiar with the Yellow Ribbon Program?
+1. Do you know where to find Yellow Ribbon Program information online?
+2. Are you familiar with the Yellow Ribbon Program?
    IF YES - what do you know?
-2. Have you or anyone you know been eligible for the Yellow Ribbon Program?
+3. Have you or anyone you know been eligible for the Yellow Ribbon Program?
    IF YES - have you used the Yellow Ribbon Tool?
    IF YES - What was your experience like?
 
