@@ -96,17 +96,20 @@ If recruiting outside of Perigean’s participant database:
 ### Recruitment approach
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?
 
-These are the candidates we would like to have - Veteran, Veteran's family member, Veteran's caregiver, or service member.
-We plan to work with Perigean.
+Our intended audience is Veterans, Veteran's family member, Veteran's caregiver, or service member.
+We plan to work with Perigean for recruitment.
+
 
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study.
-We are targeting 20 total participants with a mix of veterans, family members, and caregivers.
+- Total 25 participants
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study?
-We want some folks who have used the yellow ribbon tool, some who haven't. We want to have participants who actively use assistive technologies, some who don’t. We will be researching for both mobile and desktop so we also want users who are comfortable joining via mobile or desktop.
+- 13 who have used the Yellow Ribbon tool and 12 who haven't used the Yellow Ribbon tool
+- 12 who are comfortable joining via mobile, 13 who are comfortable joining via desktop (For mobile users, we would like a separate mobile session. For desktop users, we would like to separate mobile session)
+- 25-50 age group
 
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
 Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
