@@ -73,61 +73,67 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## First Task: [Institution details review] - 7 minutes
 For this first task, we have pre-selected an institution that participates in the YR program.
 
-- Step 1: Take a moment to go through the details provided for Columbia University in the City of New York
-- Step 2: Go to Yellow Ribbon Program information
+- Step 1: Take a moment to go through the details provided for Columbia University in the City of New York.
+- Step 2: Go to Yellow Ribbon Program information.
 
 ### Things to watch for:
-
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-
+- [Optional: I see that you {action}. Can you explain your thought process?]
 - Questions:
 1. If you wanted to learn if you qualify for yellow ribbon, how would you do that?
-2. Optional: [I see that you {action}. Can you explain your thought process?
-3. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate this task?
+2. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate this task?
 
 ## Second Task: [Content review] - 7 minutes
 
 - Step 1: Take a moment to read the information provided in this Yellow Ribbon Program information section
 
 ### Things to watch for:
-
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
 - Questions:
-1. Based on what you read, can you tell me what yellow ribbon is?
-2. What is your first impression?
-3. What's your opinion on how the information is laid out?
-4. Do you find the content to be helpful?
-5. If you could change anything about it, what would you change?
-6. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate this task?
+1. Based on what you read, can you tell me what the yellow ribbon program is about?
+2. Can you tell us who is eligible for the Yellow Ribbon program?
+3. What is your first impression of the Yellow Ribbon Program section?
+4. What's your opinion on how the content displays?
+5. Do you find the content to be useful?
+6. If you could change anything about it, what would you change?
+7. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate this task?
 
 ## Third Task: [Functional review] - 7 minutes
 
 - Step 1: Select a degree level that you're interested in
 - Step 2: Select display results
-- Step 3: Go to Graduate degree level and look for School of Journalism
 
 ### Things to watch for:
-
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
 - Questions:
 1. Do you know what funding available means?
 2. Do you know what max school contribution amount means?
-3. If you could change anything about it, what would you change?
+3. Are you able to indicate the total results from your chosen degree level? How many do you see?
+4. Did the results give you what you are looking for?
+5. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate this task?
+
+## Fourth Task: [Pagination review] 
+- Step 1: Go to Graduate degree level and look for School of Journalism
+
+### Things to watch for:
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+- Questions:
+1. On a scale of 1-5, 1 being easy and 5 being difficult, how was your experience with navigating to additional pages?
 
 ## Post-Task Interview - 7 minutes
-This concludes our functional review, I just have a few final questions.
-- What's your overall opinion of the Yellow Ribbon Program information in comparison tool?
+This concludes our review, I just have a few final questions.
+- What's your overall opinion of the Yellow Ribbon Program information in the comparison tool?
 - Did any tasks confuse you?
 - Do you have any additional comments?
 - Any questions for me?
-
-- Any questions for me? 
 
 ## Consent to use video clips
 
