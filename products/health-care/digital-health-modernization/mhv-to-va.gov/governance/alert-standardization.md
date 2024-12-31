@@ -13,24 +13,28 @@ To ensure a consistent Veteran experience and reduce cognitive load within the M
 flowchart TD
     A[sign-in] --> B(Is the user ID-verified?)
     B --> |Yes| C(Is there a facility in the profile?)
-    B --> |No| E{fa:fa-circle-exclamation ID verification alert}
+    B --> |No| E{fa:fa-circle-exclamation route-guard user to /my-health + render ID verification alert}
     C -->|Yes| D(Does the user have an MHV-Identifier?)
-    C -->|No| F{fa:fa-circle-exclamation 'No access' alert}
+    C -->|No| F{fa:fa-circle-exclamation route-guard user to /my-health + render 'No access' alert}
     D --> |Yes| G(Render application)
     D --> |No| H(What tools are they trying to access?)
-    H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation Redirect user to landing page where Acct Creation API error alert will be present}
+    H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health + render Acct Creation API error alert}
     H --> |Other health tool| J(Render application)
 ```
-1. All /my-health application pages should look for an ID-verified credential (IAL2) as the first-order criteria before rendering a page for users.
-2. If an ID-verified credential (IAL2) is not detected, the application should **redirect the user to the MHV-on-VA.gov landing page**, where the user will experience only: H1, lede text, and the ID-verification alert (all cards, links, and the secondary nav will not be shown).
-3. If an ID-verified credential (IAL2) is detected, then /my-health application pages should look for the presence of a facility in the user's profile.
-4. If there is no facility in the profile, the application should **redirect the user to the MHV-on-VA.gov landing page**, where the user will experience only: H1, lede text, and the "No access to My HealtheVet" alert.
-5. If a facility is in the user's profile, and the application requires the MHV back-end, the application page should next look for an MHV-Identifier (MHV UUID). 
-6. For the rest of the high level logic, visit the [Account Creation API Overview document](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md).
+**Checks for ALL applications in the My HealtheVet portal:**
+1. All `/my-health` application pages should look for an ID-verified credential (IAL2) as the first-order criteria before rendering a page for users. If an ID-verified credential (IAL2) is not detected, the application should **redirect the user to the MHV-on-VA.gov landing page**, where the page will render an ID-verification alert (all other page content, including access to the tools and the secondary nav bar will be suppressed).
+2. If an ID-verified credential (IAL2) is detected, then `/my-health` application pages should check for the presence of a facility in the user's profile.
+3. If there is no facility in the profile, the application should **redirect the user to the MHV-on-VA.gov landing page**, where the page will render a "No access to My HealtheVet" alert (all other page content, including access to all health tools tools and the secondary nav bar will be suppressed).
+4. If a facility is in the user's profile, then any health portal applications that do not rely on the MHV-API backend should be rendered. 
+
+**Checks only for MyHealtheVet applications that rely on the MHV-API backend (medications, medical records, and secure messages):**
+1-3: Above
+4. If a facility is in the user's profile, but the application relies on the MHV-API back-end, check for the presence of an MHV-Identifier (MHV UUID). If there is no MHV-Identifier, see the [Account Creation API Overview document](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md) for more information about how to handle this. 
+5. If there is an MHV-Identifier present, render the application. 
    
 ## User routing under access-limiting conditions
 
-Users who lack either of the first two conditions required to access all applications under `/my-health/` – verified identity and facilities - will be handled centrally on the MHV-on-VA.gov landing page. (See steps 1-4 in the chart above.) These users will experience a simplified version of the landing page, which omits both the secondary nav and other /my-health tool links. We believe routing users in this way will help them avoid the frustrating experience of clicking into various health tools they are unable to use.
+Users who lack either of the first two conditions required to access all applications under `/my-health/` – verified identity and the presence of at least one facility in the profile - will be handled centrally on the MHV-on-VA.gov landing page. (See steps 1-3 in the chart above.) These users will experience a simplified version of the My HealtheVet landing page, which suppresses both the secondary nav and other `/my-health` tool links. We believe routing users in this way will help them avoid the frustrating experience of clicking into various health tools they are unable to use.
 
 ### ID-Verification screenshots
 
@@ -64,15 +68,13 @@ NOTE: Screenshots below are taken from this [Figma file](https://www.figma.com/d
 </details>
 
 
-## Account Creation API error alerts (i.e., missing MHV UUID)
+## Missing MHV-Identifier (Account Creation API)
 
-Applications which require the MHV back-end must next check for a MHV identifier (UUID). This check relies on the MHV Account Creation API, and the Cartography team has prepared a React component to make this check as easy as possible for application teams. 
+Not all applications in the My HealtheVet on VA.gov portal rely on the MHV-API backend, but 3 of the "big four" tools do, including medications, medical records, and secure messages. These affected applications must run a check for the presence of an MHV-Identifier (UUID). If one does not exist, additional steps must be taken. We have prepared a React component to make this check as easy as possible for application teams. 
 
-Key differences between the missing-UUID case and earlier account-related cases:
-1. To check for the UUID, application teams need to **add a special react component** to one or more of their application pages (any page where a user might first land within their app).
-2. Not all MHV applications require the MHV back-end; Applications that do not have this requirement do not need to do anything in regards to the Account Creation API error alerts.
+Applications that do not rely on the MHV-API backend do not have this requirement.
 
-The component and UX requirements are [documented in greater here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/mhv-account-creation-api.md)
+The additional steps that must be taken by affected applications if the check for an MHV-Identifier comes back as "false" are [documented in greater detail as part of Account Creation API work here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/mhv-account-creation-api.md)
 
 ## Oracle Health / Cerner Routing alerts
 Guidance coming soon.
