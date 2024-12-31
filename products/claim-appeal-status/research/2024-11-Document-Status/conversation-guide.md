@@ -10,14 +10,11 @@
 - [ ] Step 2
 - [ ] Step 3
 
-
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
 Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-
-
 
 ### Starting the session
 
@@ -25,7 +22,6 @@ Slack for real-time feedback from observers.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
-
 
 ## Intro - 5 minutes
 
@@ -52,7 +48,6 @@ Before we start, I have a few things that I want to go over with you:
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
-
 ## Warm-up Questions (Optional) - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
@@ -66,9 +61,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 [Share [prototype link](https://www.figma.com/proto/m1Xt8XjVDjZIbliCYcCKpE/Document-status-(formerly-silent-failures)?node-id=2771-20256&t=YQPL10Sibs5kZtpY-1) with participant]
 
-## First Task: CST Home Page - 5 minutes
+## Part 1: Uploading a file successfully
+### Part 1 A: CST Home Page - 5 minutes
 
-So let's say you are signed into your VA.gov account and you're looking at this page. You submitted a claim a month ago, and you're logging in to check and see if there's been an update.
+**PROMPT**: Let's say you are signed into your VA.gov account and you're looking at this page. You submitted a claim a month ago, and you're logging in to check and see if there's been an update.
 
 - Do you know what this page is? If yes, what is it?
 - Describe to me what you're seeing here.
@@ -80,7 +76,7 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 - Do they recognize which claim is in progress?
 - How accurate is their understanding of the status based only on what they see here?
 
-## Second Task: Status Page - 5 minutes
+### Part 1 B: Status Page - 5 minutes
 
 [Have the participant click "View details" on the in-progress claim]
 
@@ -94,7 +90,7 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 - Do Veterans read the recent activity section and find it important
 - Do Veterans know what to do if they wanted to add files to their claim online?
   
-## Third Task: Files Page - 10 minutes
+### Part 1 C: Files Page - 10 minutes
 
 [Participant clicks into the Files tab]
 
@@ -108,63 +104,162 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 - What content on the page is most useful to the Veteran? Least helpful or confusing?
 - Do Veterans read the document files section and find it important
 
-## Fourth Task: Confirmation message for successful file uplaod - 10 minutes
+### Part 1 D: Confirmation message for successful file uplaod - 10 minutes
 
-[Participant completes the Files upload]
+[Participant completes the File upload]
 
 - Now tell me what you see here.
-- If we were not here, what would be your next step? (Prompt them to scroll up and down.)
+- If we were not here, what would be your next step?  (Prompt them to scroll up and down. If they haven't.)
 - What do you think this card is (refering to the submission in progress card)?
 - Can you describe the relationship between the confirmation message and the "submission in progress" card?
 - What do you think will happen in a couple days after seeing this card?
 
-[Click on the submnission in progress card to see the file has now be added to the e-folder]
+[Click on the submission in progress card to see the file has now be added to the e-folder]
 
 - Describe what happened here?
 - what would you do next?
   
 ### Things to watch for:
 
-- 
-[Swtiching scnearion to tracked item request]
+- When they see the confirmation message, are they more likely to leave the page or check their submission status?
+- Do they understand what the "submission in progress" card is?
+- Is it clear the submitted document is now added to their records and no longer pending?
 
+## Part 2: Failure processing file (Type 2 Failure)
+### Part 2 A: Home page - Open tracked item - 5 minutes
 
+**PROMPT**: Now we're gonig to imagine that VA has requested evidence from you. 
 
-## Fifth Task: Confirmation message for successful file uplaod - 10 minutes
+[Click on the name "Hector" on the top-right hand corner of the page]
 
-[Participant completes the Files upload]
-
-- Now tell me what you see here.
-- If we were not here, what would be your next step? (Prompt them to scroll up and down.)
-- What do you think this card is (refering to the submission in progress card)?
-- Can you describe the relationship between the confirmation message and the "submission in progress" card?
-- What do you think will happen in a couple days after seeing this card?
+- Tell me what you see here.
+- What do you think this alert is communicating?
+- Based on the text in this alert, when you upload your file, when do you expect the alert to disappear?
+- If you want to know more about this request, what would you do?
 
 ### Things to watch for:
 
-- 
+- Do they understand that they need to take action?
+- Is it clear that the alert will remain visible until VA has reviewed the file and not when the Veteran uploads the file?
 
+### Part 2 B: Status page - Buddy statement request - 5 minutes
 
+[Click on the details]
 
-## Post-Task Interview - X minutes
+- Tell me what you see here.
+- Describe to me what this alert is communicating?
+- What stands out to you on this page?
+- If you wanted to learn more about the alert, what would you do?
 
-- Question 1
-- Question 2
+### Part 2 C: Request page - 5 minutes
+
+[Click on the details]
+
+- Tell me what you see here.
+- In your own words, can you describe what is being communicating?
+- If you wanted to respond to this request what would you do?
+
+### Part 2 D: Confirmation for tracked item - 15 minutes
+
+[Participant completes the File upload]
+
+- Now tell me what you see here.
+- If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)
+
+#### If participant says they would Check the status of their document
+[Click on the alert, " Check the status of your document submission"]
+
+- Is this what you expect to see?
+- what would you do next?
+
+[Go to section, "Participant Logged out"]
+
+### Part 2 E: Participant Logged out
+
+[Click on the name "Hector" on the top-right hand corner of the page]
+
+**PROMPT**: Now we’re going to pause and imagine that you’ve logged off and 3 days later, you get an email notification on your device. Take a moment to review this page.
+
+- What are you feeling when you see this?
+- In your own words, describe what is being communicated.
+- Why do you think you are receving this email?
+- What would you do next?
+  
+I want you to explore the available options as if you were alone and viewing the actual page.
+
+- Which option do you prefer and why?
+
+### Part 2 F: Return to VA.gov - 3 minutes
+
+[Click on the "exit" button on the top-right hand corner of the page]
+
+**PROMPT**: Now we’re logged back into VA website to see your claim. 
+
+Without clicking anything, take a moment to review the page. Remember to think aloud as you scroll up and down.
+
+- Tell me what you see here
+- If you want to know more about this alert, what would you do?
+
+### Part 2 G: Status page - Resubmit Error - 3 minutes
+
+- Tell me what you see?
+- Describe what you think this alert is telling you?
+- What is the relationship between what you're seeing here and what you saw in your email?
+- If you were on your own, what would you likely do next?
+
+If they say click on the files page
+- What are you expecting to see here? (prompt them to scroll down)
+- Looking at this card, can you describe what's being communicated?
+- If you wanted to resubmit your documents what would you do?
+  
+[click the CTA to resubmit documents]
+
+### Part 2 H: Resubmit notice page - 5 minutes
+
+Without clicking anything, take a moment to review the page. Remember to think aloud as you scroll up and down.
+
+- Tell me what you see?
+- How does the message on this page resonate with you? Does it feel familiar?
+- What do you think will happen when you submit your document?
+
+### Things to watch for:
+
+- Do they use the "recent activity" section to track the progress of their upload?
+- Do they understand why they are seeing an email?
+- Can they identify relationship between the email and in-app alerts
+- Do they understand ways they can submit the files to VA
+
+## Part 3: Information wayfind
+
+[click on "My VA" at the top-right hand corner]
+
+- If, after 30 days, the alerts on the pages disappear, but you still wanted to read instructions for resubmitting documents to the VA, where would you expect the link to be? (Feel free to navigate between pages)
+
+[click on "Details"]
+- If you click the (X) button on this alert, what do you expect to happen?
+- What do you expect to happen with the alert when you log in again? Do you think it will reappear or remain gone?
+
+### Things to watch for:
+
+- Where do they expect to see a re-entry link for the resubmit instructions?
+- what behavior do they expect for a dismissable alert in this scenario?
+
+## Post-Task Interview - 5 minutes
+
+- Overall, what did you think of what you saw today? Was it clear or confusing?
+- Was there anything helpful?
+- On a scale of 1-5, how confident do you feel about being able to resubmit your document if you received a notice like this in real life? (1 being least confident, 5 being most confident.)
+- On a scale of 1-5, how confident do you feel VA will effectivley manage your paper documents you've submitted? (1 being least confident, 5 being most confident.)
+   - why?
 - Any questions for me? 
 
-## Consent to use video clips
+## Thank-You and Closing - 1 minute
 
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
+Thank you for sharing your thoughts with us today. Your feedback was greatly appreciated as we work to improve the site for Veterans.
 
+Perigean will send you a thank you note with a brief message to share with other Veterans who might want to participate in future research.
 
-## Thank-You and Closing - X minutes
-
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
-
-Thank you so much again, and enjoy the rest of your day!
+Thanks again, and have a great day!
 
 ##
 
