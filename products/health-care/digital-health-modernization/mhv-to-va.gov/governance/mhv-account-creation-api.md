@@ -49,9 +49,6 @@ The Account Creation API logic starts about halfway down the diagram below:
 
 ```mermaid
 flowchart TD
-    A[sign-in] --> B(Is the user ID-verified?)
-    B --> |Yes| C(Is there a facility in the profile?)
-    B --> |No| E{fa:fa-circle-exclamation route-guard user to /my-health + render ID verification alert}
     C -->|Yes| D(Does the user have an MHV-Identifier?)
     C -->|No| F{fa:fa-circle-exclamation route-guard user to /my-health + render 'No access' alert}
     D --> |Yes| G(Render application)
