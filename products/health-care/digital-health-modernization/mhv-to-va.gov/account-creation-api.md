@@ -9,16 +9,17 @@ This API will automatically create an MHV-Identifier for any Veteran who does no
 
 
 ## On this page
-* [Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#resources)
-* [Teams involved in this effort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#teams-involved-in-this-effort)
-* [API errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#api-errors)
-* [Potential entry points & user routing in error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#potential-entry-points--user-routing-in-error-states)
-* [Front-end alert design](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#front-end-alert-design)
-* [Implementation logic (MVP)]
-* [QA guide & test cases](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#qa-guide-and-test-cases)
-* Planned future-state improvements
+* [Resources](#resources)
+* [Teams involved in this effort](#teams)
+* [API errors](#api-errors)
+* [Potential entry points & user routing in error states](#routing)
+* [Front-end alert design](#design)
+* [Implementation logic (MVP)](#logic)
+* [QA guide & test cases](#qa)
+* [Planned future-state improvements](#future)
 
-## Resources
+## <a name="resources">Resources</a>
+Below are links to API documentation and specifications, discovery work, and design files related to this effort. Please reach out to the involved teams with any questions about these materials.
 * [Account Creation API specs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/vsp/teams/Identity/Product%20Documentation/MHV%20account%20creation%20api%20on%20vagov) (private)
 * [API requirements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/MHV%20account%20creation%20API/requirements.md)
 * [API release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/MHV%20account%20creation%20API/release%20plan.md)
@@ -26,7 +27,7 @@ This API will automatically create an MHV-Identifier for any Veteran who does no
 * [Cartography team Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719581177532/3cbc80571562a1f162a0887c4a60e06c3014f99a)
 * [Figma designs](https://www.figma.com/design/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?node-id=4065-9052&node-type=canvas&t=xMOSprUxBalLT5G4-0)
 
-## Teams involved in this effort
+## <a name="teams">Teams involved in this effort</a>
 * MHV Portals + Access team (Carnetta Scruggs)
   * Haritha Cheruvu - engineer
   * Sandeep Karuturi (VA,Ctr) - API Spec Contact/Product Manager (_no longer in this role_)
@@ -44,7 +45,7 @@ This API will automatically create an MHV-Identifier for any Veteran who does no
 **Distribution of effort:**
 The MHV Portals + Access team led by PO Carnetta Scruggs is building the API. The VA OCTO Identity team will be implementing the API onto VA.gov at sign-in. The Cartography team will be calling the API endpoint within the My HealtheVet space to see if an MHV-Identifier was returned by the API, or if there was an error returned. If errors are returned, the Cartography team is designing alerts for the front-end user experience that will help Veterans understand the problem and give them clear next-steps to get a resolution. 
 
- ## API errors
+ ## <a name="api-errors">API errors</a>
 In a nutshell, the 3 teams above have worked together and grouped errors into two "types." Cartography team is creating contact center documentation around these errors to inform front-line helpdesk staff: 1.) what these error alerts look like, 2.) how to help users resolve each of these errors. 
 
 [Full API documentation can be viewed here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/account-creation-api.md#resources) (also linked under 'Resources' section above)
@@ -55,12 +56,12 @@ These are errors that require manual intervention by My HealtheVet helpdesk staf
 ### Background errors
 These are errors that a user cannot resolve on their own, and are due to background issues that helpdesk staff are not likely to be able to resolve. Instead, telling users to reload the page or try again later are the most straightforward approaches we can commmunicate at this time (MVP) to address these problems, which we believe to be the least likely to occur based on production testing so far. These are errors numbered: 802, 803, 804, 808, 809, 810 from the API specifications.
 
-## Potential entry points & user routing in error states
+## <a name="routing">Potential entry points & user routing in error states</a>
 The MHV-API gates access to 3 major health tools in the portal, but many other applications do not rely on it (e.g. appointments, supply re-ordering, travel pay). Thus, we will still display secondary navigation. This opens up a side-door gateway into the tools in an error-state & all affected tools will need to route-guard users up to 'my-health' to see alerts in place there. This is applicable both for applications' landing pages and child pages. 
 
 We also evaluated an option to ask application teams to implement error alerts on their landing pages instead of route-guarding users to the landing page. However, out of concern for application teams and the level of effort associated with implementing these error states within the tool applications, we are recommending the route-guard solution for the time being. An improved future state solution may follow based after evaluating analytics of the number of users experiencing these errors in production. 
 
-## Front-end alert design
+## <a name="design">Front-end alert design</a>
 For full detail, including accessibility annotations, [see Figma here](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Sign-In?node-id=267-8158&node-type=frame&t=UPokYL4gfORKiywK-0)
 
 ### User-action required alert (error codes: 801, 805, 806, 807)
@@ -69,7 +70,7 @@ For full detail, including accessibility annotations, [see Figma here](https://w
 ### Background error alert (error codes: 802, 803, 804, 808, 809, 810)
 <img width="922" alt="Screenshot 2024-12-11 at 4 51 39 PM" src="https://github.com/user-attachments/assets/610c346d-bf47-46eb-b114-3ea76d431619" />
 
-## Implementation logic (MVP)
+## <a name="logic">Implementation logic (MVP)</a>
 
 ### High-level logic
 ```mermaid
@@ -109,15 +110,15 @@ There are many side-door entry points to the health tools themselves (list below
 * Cross-links from other unaffected health tool applications
 * Medications, Medical Records, and Secure Messages links
 
-## QA guide and test cases
+## <a name="qa">QA guide and test cases</a>
 _Add instructions to this documentation around the AC-API for tool teams so that they understand how to use redux to test whether their route-guards for the AC-API actually send users to the /my-health page to experience relevant AC-API error alerts in the case of errors. Include specific test cases & recommendations on how to validate the route-guard using redux._
 
-## Planned future-state improvements
+## <a name="future">Planned future-state improvements</a>
 As stated earlier in this document, there are many side-door entry points into the affected health tools (medications, medical records, secure messages) from across VA.gov and from even outside of it. Instead of instantly route-guarding those users to the `/my-health` page to experience these error alerts when they occur, we hypothesize that it will make more sense for users to see the relevant alerts _in place within the application they expected to access_.
 
 **Note:** To determine whether this higher technical lift solution is worth pursuing, we will monitor and evalute error logs resulting from the MVP implementation solution and determine the severity of the problem (number and percentage of Veterans affected over time). 
 
-### Possible future state iteration for the MVP implementation
+### Possible iteration on the MVP implementation
 We should monitor whether the presence of secondary nav on the landing page in a state where 3/4 tools cannot be accessed due to an error with the Account Creation API creates confusion for users. In the event that we believe it does add confusion, we could suppress the navigation bar as a minor iteration. Or we could move toward the future state approach for tool teams (below). 
 
 ### Future state approach for tool teams
