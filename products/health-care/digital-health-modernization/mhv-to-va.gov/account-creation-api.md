@@ -87,12 +87,12 @@ For full detail, including accessibility annotations, [see Figma here](https://w
 flowchart TD
     A[sign-in] --> B(Is the user ID-verified?)
     B --> |Yes| C(Is there a facility in the profile?)
-    B --> |No| E{fa:fa-circle-exclamation ID verification alert}
+    B --> |No| E{fa:fa-circle-exclamation route-guard user to `/my-health` + render ID verification alert}
     C -->|Yes| D(Does the user have an MHV-Identifier?)
-    C -->|No| F{fa:fa-circle-exclamation 'No access' alert}
+    C -->|No| F{fa:fa-circle-exclamation route-guard user to `/my-healt`h + render 'No access' alert}
     D --> |Yes| G(Render application)
     D --> |No| H(What tools are they trying to access?)
-    H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation  Redirect user to landing page where Acct Creation API error alert will be present}
+    H --> |Landing page, Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to `/my-health` where Acct Creation API error alert will be present}
     H --> |Other health tool| J(Render application)
 ```
 
