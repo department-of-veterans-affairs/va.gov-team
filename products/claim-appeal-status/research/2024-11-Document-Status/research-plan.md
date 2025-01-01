@@ -59,7 +59,7 @@ Remote on Zoom
 
 For moderated usability tests: 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2024-11-Document-Status/converstation-guide.md)
-- [Link to prototype](url goes here)
+- [Prototype [Figma]](https://www.figma.com/proto/m1Xt8XjVDjZIbliCYcCKpE/Document-status-(formerly-silent-failures)?node-id=2771-20256&t=4ob4NYp2CvadqwOG-1)
 	
 ## Recruitment	
 
