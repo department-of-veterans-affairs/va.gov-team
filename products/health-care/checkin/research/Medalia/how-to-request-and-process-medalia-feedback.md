@@ -43,6 +43,10 @@
         - Other identifying info - PII_OTHER   
 11. Commit the new GitHub document
 12. Paste a link to the document in [check-in-experience Slack channel](https://dsva.slack.com/archives/C022AC2STBM) and call out these folks:  Kay Lawyer, Kristen McConnell, Stephen Barrs and the CIE team
+13. In order to ensure there is no PII/PHI on your local machine
+    - Permanently delete any spreadsheets downloaded from the Contact Center SharePoint site 
+    - Permanently delete the Medallia comments text file
+    - Remove the data from the macro spreadsheet and save it for use next sprint
 
 ## How to Submit a Request Ticket
 
