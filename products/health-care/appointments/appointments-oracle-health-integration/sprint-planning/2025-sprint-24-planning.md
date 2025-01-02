@@ -39,16 +39,18 @@ In Sprint 26 the team provided support for multiple features and initiatives, ou
 
 * 🔴 Appointment Cancellation
    * [VPG-303 VPG: Add support for VVS_ADHOC VAOS source filter](https://issues.mobilehealth.va.gov/browse/VPG-303)
-
 * 🟢 Appointment Requests
    * [CES-1423 CFA: Reads should receive cerner location ids and only call cerner directly](https://issues.mobilehealth.va.gov/browse/CES-1423)
+   * [VPG-299 VPG: Evaluate Cerner eligibility rules in parallel](https://issues.mobilehealth.va.gov/browse/VPG-299)
 
-*  🟤 VetsAPI Logic Integration Support
+* 🟤 VetsAPI Logic Integration Support
    * 🚧 [VPG-13 VetsAPI: implement FE logic for determining appointment modality](https://issues.mobilehealth.va.gov/browse/VPG-13) 
-
-
+* 🟠 Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
+   * [VPG-295 VPG: Populate identifier values for CFA-sourced appointments](https://issues.mobilehealth.va.gov/browse/VPG-295)
+* 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
+   * [CES-1419 CES: Update CES to use _source search param](https://issues.mobilehealth.va.gov/browse/CES-1419)
 * 🟣 Testing/Admin/Operational Support
-    
+   * [CES-1229 CFA: Update to Mobile-Framework v2.2](https://issues.mobilehealth.va.gov/browse/CES-1229)
 * 🔵 Direct Scheduling
    * 🚧[VPG-302 VetsAPI: add direct scheduling feature flag to appointment creation logic](https://issues.mobilehealth.va.gov/browse/VPG-302)
    * 🚧 [VPG-292 vets-api: include failures array in relationships endpoint](https://issues.mobilehealth.va.gov/browse/VPG-292)
