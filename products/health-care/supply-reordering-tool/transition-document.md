@@ -1,23 +1,16 @@
 ## Introduction
+
 ### Overview of the Product 
-- Briefly describe the product, its purpose, and the target audience.
-- High-level goals and how the product fits into the company's strategy.
-
-### Role Overview 
-
+Supply Reordering on VA.gov seeks to allow Veterans to order different medical device supplies on VA.gov, prior to launch, supplies such as masks and batteries were only available via mail and phone orders. 
 
 ### Timeline & Current Status
 
 ### Stakeholder Management
-- Key Stakeholders 
-o	Internal and external stakeholders involved with the product (e.g., executives, engineering, marketing, sales).
-o	Contact information and a brief overview of what each stakeholder group cares about.
-- Communication Practices 
-o	How often and through which channels to communicate with stakeholders.
-o	Reporting cadence (e.g., weekly stand-ups, monthly reports, etc.).
-- Key Meetings & Rituals 
-o	Regular meetings the new PM should attend (e.g., sprint planning, product reviews).
-o	Any specific frameworks or meeting structures that are important.
+- Denver Logistics Center : Responsible for shipping out supplies, manage any issues with orders and our app uses their data to show Veterans details about previous orders/what supplies they have available to order. 
+   - Primary Contact : Patrick Booth
+   - Primary Engineering Contact : Alberto Haddock 
+- We schedule a monthly meeting to check-in on progress with this work, for any in-between communication, we use Teams or email. 
+
 
 ### User Feedback & Research
 •	Current User Research 
