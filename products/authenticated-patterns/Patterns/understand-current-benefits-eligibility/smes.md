@@ -6,8 +6,8 @@ We'll consult with these SMEs when developing our pattern, especially the benefi
 ## SMEs for each VA benefit
 This is a list of potential benefits we could include in our pattern. It may or may not include all of these benefits.
 
-|Benefit|Name(s)|Notes
-|---|---|
+|Benefit|Name(s)|Notes|
+|---|---|---|
 |Health care|Lois Lewis, Patrick Batemen|Lois and Patrick are OCTO's health enrollment points of contact.|
 |Disability|x|x|
 |Education|x|x|
