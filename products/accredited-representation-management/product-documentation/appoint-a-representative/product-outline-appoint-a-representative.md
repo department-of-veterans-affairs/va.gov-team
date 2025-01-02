@@ -72,7 +72,7 @@ We are actively working with the Platform Analytics team to visualize our[ ARM O
 
 Appoint a Representative 1.0 (MVP) is targeted to release to 100% of users on January 13, 2024 ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/release-plan-appoint-a-representative-1.0.md)). The team will partner with CAIA to implement Bets Bets and entry points.
 
-The base URL for this product is `/appoint-rep` and the feature set for this version includes:
+The base URL for this product is `/appoint-rep` and the form experience for this version includes:
 
 1. Introduction `/introduction`
 2. Tell us who you are (Veteran or non-Veteran claimant) `/claimant-type`
