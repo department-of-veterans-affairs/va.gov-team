@@ -14,7 +14,7 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 ### Midpoint Review Feedback
 - [Midpoint Review - Accessibility Feedback - Education Data Migration, Yellow Ribbon Tool #99571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99571#event-15736459684)
 - [Midpoint Review - Content Feedback - Education Data Migration, Yellow Ribbon Tool #99563](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99563)
-### Research submission
+### Research Submission Feedback
 - [2025-01 Yellow Ribbon Program info in CT #764](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/764)
 
 ## WEAMS Public 
