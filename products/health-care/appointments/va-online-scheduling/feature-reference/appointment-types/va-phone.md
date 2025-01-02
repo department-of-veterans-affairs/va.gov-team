@@ -44,6 +44,25 @@ Notes:
 ### Technical Notes
 Telephone is always a primary stop code, never a secondary–e.g., users create a telephone clinic with only a primary telephone stop code or create a clinic with a primary telephone stop code and then a secondary like primary care.  There are several primary stop codes for telephone.  See https://issues.mobilehealth.va.gov/browse/EAS-1425.
 
+### Empty States and Alerts
+
+From ticket [69851](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69851#issuecomment-2566727215): We retrieve the appointment information using one of the following calls:
+
+- From appointment list: `/vaos/v2/appointments?_include=facilities,clinics&start={today-120}&end={today+1}&statuses[]=proposed&statuses[]=cancelled` and `/vaos/v2/appointments?_include=facilities,clinics&start={today-30}&end={today+395}&statuses[]=booked&statuses[]=arrived&statuses[]=fulfilled&statuses[]=cancelled`
+- From appointment details page: `/vaos/v2/appointments/${id}?_include=facilities,clinics,avs`
+
+Data points:
+
+| Role | Section name | Source field name | Empty state logic |
+| - | - | - | - |
+| Appointment date and time | When | `appt.localStartTime` | Start time always populated |
+| Type of Care | What | `appt.serviceType` | Do not display if not available. |
+| Provider Name | Who | `appt.practitioners[0].name` | Do not display if not available |
+| Facility Name | Scheduling facility | `facilityData[locationId].name` or `appt.location.attributes.name` | When not available, display "Facility details not available" and display a link to find or view facility information. |
+| Facility Address | Scheduling facility | `facilityData[locationId].physicalAddress` or `appt.location.attributes.physicalAddress` | When not available, display "Facility details not available" and display a link to find or view facility information. |
+| Clinic Name | Scheduling facility | `appt.friendlyName` or `appt.serviceName` | Display "Clinic not available" if not available. |
+| Phone number | Scheduling facility | `facilityData[locationId].phone.main` or `appt.location.attributes.phone.main` or `appt.extension.clinic.phoneNumber` | Phone number priority: 1. Clinic phone number, 2. Facility phone number, 3. VA phone number. |
+| Veteran Reason For Appointment | Details you shared with your provider | `appt.reasonForAppointment` and `appt.patientComments` | Display "Not available" if not available. | 
 ## Specifications
 
 **User flows**
@@ -77,19 +96,7 @@ Telephone is always a primary stop code, never a secondary–e.g., users create 
 
 [All events VAOS tracks](Link TBD)
 
-## Alerts and conditional states
-<!-- Any alerts that could display for this feature and what triggers them. -->
 
-### [Alert description]
-<!-- Add a new section for each alert -->
-
-**Alert trigger**
-[Description of what causes this alert to display]
-
-**Alert UI**
-- [User flow](Add link)
-- [State template](Add link)
-- [State content](Add link)
 
 ## Technical design
 <!-- Endpoints and sample responses -->
