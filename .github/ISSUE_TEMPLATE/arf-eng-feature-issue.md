@@ -2,8 +2,9 @@
 name: ARF Engineering Feature Issue
 about: Feature issue template for the ARF Engineering team
 title: ''
-labels: ['accredited-rep-facing', 'arf-eng', 'backend']
+labels: ['accredited-rep-facing', 'engineering', 'backend']
 assignees: ''
+type: 'Task'
 
 ---
 
