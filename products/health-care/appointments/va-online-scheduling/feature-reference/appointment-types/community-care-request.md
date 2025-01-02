@@ -31,6 +31,61 @@ A request for an appointment through community care.
 | [Cancel Action](../tools/tool-cancel.md) | ✅         | ✅       |          |
 | [Print Action](../tools/tool-print.md)   | ✅         | ✅       | ✅        |
 
+
+### Empty States and Alerts
+
+The following service endpoint is called to retrieve all appointments:
+
+- `http://localhost:3000/vaos/v2/appointments?_include=facilities,clinics&start=2024-05-16&end=2024-09-14&statuses[]=proposed&statuses[]=cancelled`
+
+**NOTE**: The `"_statuses[]=proposed_"` query parameter is used to return all appointment requests.
+
+The technical name of the field in the data call.
+
+Display Name | Technical Name
+--- | ---
+Preferred date and time |  `localStartTime`
+Type of care | `serviceTypes`
+Scheduling facility | `location.attributes.name`
+Preferred community care provider | `preferredProviderName, extension.ccTreatingSpecialty, extension.ccLocation.address`
+Language you'd prefer the provider speak | `preferredLanguage`
+Details you'd like to share with your provider | `patientComments`
+Your contact details | `contact.telecom.phone, contact.telecom.email, preferredTimesForPhoneCall`
+
+**NOTE:**
+This mapping might change since business logic is being migrated to the middle tier.
+
+
+**Data points to review for Community Care requests:**
+
+- Preferred dates and times
+This field is always populated since it is a required field when completing the appointment request workflow.
+    
+- Type of care
+This field is always populated since it is a required field when completing the appointment request workflow.      
+
+- Scheduling facility
+This field is always populated since it is a required field when completing the appointment request workflow.
+
+- Preferred community care provider
+The following information is display when provider information is missing:
+
+  - Provider name not available
+  - Treatment specialty not available
+  - Address not available
+
+- Language you'd prefer the provider speak
+This field is always populated since it is a required field when completing the appointment request workflow.
+
+- Details you'd like to share with your provider
+This information is optional. So, the following is displayed when the information is missing:
+
+  - Reason: Not available
+  - Other details: none
+
+- Your contact details
+This field is always populated since it is a required field when completing the appointment request workflow. 
+
 ## Specifications
 
 **User flows**
