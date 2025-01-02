@@ -32,6 +32,23 @@ We will validate assumptions and identify opportunities through:
 - Usability Risks: Overly complex card designs could increase cognitive load instead of reducing it.
 - Technical Risks: Integrating personalized data may encounter limitations due to system dependencies or data availability.
 - Adoption Risks: Teams may face challenges implementing the pattern without adequate documentation or governance.
+
+## Alignment with OCTO's 2025 OKRs and Key Targets
+This pattern supports OCTO’s 2025 OKRs and targets as follows:
+### O1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
+- O1.1: Enhance satisfaction with web products by providing an intuitive interface to quickly access benefits information.
+- O1.2: Reduce time to access benefits details, aligning with the goal of less than 4 seconds per transaction.
+
+### O2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.
+- O2.4: Create reusable components for the pattern that other VA teams can implement, increasing non-OCTO-built capabilities.
+
+### O3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.
+- O3.3: Equip teams with clear governance guidelines and resources to implement the pattern effectively and confidently.
+
+### O4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.
+-  O4.1: Contribute design and development artifacts, including reusable code and documentation, to enhance delivery practices.
+- O4.2: Provide support to cross-functional teams for integrating the pattern across other VA products.
+
  
 ## What're you building
 ### In-Scope
