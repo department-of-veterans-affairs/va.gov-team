@@ -1,7 +1,9 @@
 # Subject matter experts (SMEs) for benefits
 This doc outlines the various OCTO subject matter experts (SMEs) we'll reach out to for each benefit in this pattern. 
 
-# SMEs for each VA benefit
+We'll consult with these SMEs when developing our pattern, especially the benefits data our pattern will present to users.
+
+## SMEs for each VA benefit
 |Benefit|Name|
 |---|---|
 |Health care|Lois Lewis|
@@ -14,7 +16,7 @@ This doc outlines the various OCTO subject matter experts (SMEs) we'll reach out
 |Burials and memorials|x|
 |Others?|x|
 
-# Other SMEs
+## Other SMEs
 |Subject area|Name|
 |---|---|
 |Content and IA|Danielle Thierry|
