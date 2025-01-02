@@ -16,7 +16,7 @@ jobs:
         with:
           project-url: https://github.com/orgs/department-of-veterans-affairs/projects/1408
           github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
-          labeled: new-vfs-team, new-vfs-team-member, T1-access-request, Offboarding, Platform-Support-Ticket
+          labeled: Platform-Support-Ticket
 
   move-issue:
     runs-on: ubuntu-latest
