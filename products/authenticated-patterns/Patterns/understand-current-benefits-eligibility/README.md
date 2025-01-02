@@ -54,7 +54,7 @@ We will validate assumptions and identify opportunities through:
 
 
 ## Measuring Success
-We will track and measure the success of the "Baseball Card" pattern using the following metrics:
+We will track and measure the success of the "Enrollment Card" pattern using the following metrics:
 
 **User Metrics:**
 - Task completion rates and time-to-task completion.
