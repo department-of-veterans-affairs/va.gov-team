@@ -2,7 +2,7 @@
 
 Team: Accredited Representation Management
 
-Product URL:[ Request help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/find-rep)
+Product URL:[ Request help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/appoint-rep)
 
 Main entry points:
 1. [Get help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/) (landing page)
@@ -72,36 +72,36 @@ We are actively working with the Platform Analytics team to visualize our[ ARM O
 
 Appoint a Representative 1.0 (MVP) is targeted to release to 100% of users on January 13, 2024 ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/release-plan-appoint-a-representative-1.0.md)). The team will partner with CAIA to implement Bets Bets and entry points.
 
-The feature set for this version includes:
+The base URL for this product is `/appoint-rep` and the feature set for this version includes:
 
-1. Introduction
-2. Tell us who you are (Veteran or non-Veteran claimant)
+1. Introduction `/introduction`
+2. Tell us who you are (Veteran or non-Veteran claimant) `/claimant-type`
 3. Select a Representative/Organization
-   1. Select the accredited representative (individual or organization)
-   2. Select the associated organization to appoint (for VSO representatives accredited with multiple organizations)
-   3. Confirmation to replace an existing representative (if applicable)
-   4. Reminder to contact the representative
+   1. Select the accredited representative (individual or organization) `/representative-select`
+   2. Contact the accredited representative `/representative-contact`
+   3. Select the associated organization (for VSO representatives accredited with multiple organizations)`/representative-organization`
+   4. Confirmation to replace an existing representative (if applicable) `/representative-replace`
 4. Claimant Information (for non-Veteran claimants only)
-   1. Claimant's relationship to the Veteran
-   2. Claimant's personal information
-   3. Claimant’s mailing address
-   4. Claimant's phone number and email address
+   1. Claimant's relationship to the Veteran `/claimant-relationship`
+   2. Claimant's personal information `/claimant-personal-information`
+   3. Claimant’s mailing address `/claimant-contact-mailing`
+   4. Claimant's phone number and email address `/claimant-contact-phone-email`
 5. Veteran Information
-   1. Veteran's personal information
-   2. Veteran's mailing address
-   3. Veteran’s phone number and email address
-   4. Veteran identification information (for non-Veteran claimants only)
-   5. Veteran service information (21-22a form only)
+   1. Veteran's personal information `/veteran-personal-information`
+   2. Veteran's mailing address `/veteran-contact-mailing` (Veteran users) OR  `/veteran-contact-mailing-address` (non-Veteran users)
+   3. Veteran’s phone number and email address `/veteran-contact-phone-email`
+   4. Veteran identification information (for non-Veteran claimants only) `/veteran-identification`
+   5. Veteran service information (21-22a form only) `/veteran-service-information`
 6. Authorizations
-   1. Authorization to access certain medical records
-   2. Authorization to access certain medical records - select records
-   3. Authorization to change address
-   4. Authorization for access in VA systems (21-22a only)
-   5. Authorization for access outside VA systems (21-22a only)
-   6. Authorization for access outside VA systems - name individuals to authorize (21-22a only)
-7. Review
-8. Download
-9. Next Steps
+   1. Authorization to access certain medical records `/authorize-medical`
+   2. Authorization to access certain medical records - select records `/authorize-medical/select`
+   3. Authorization to change address `/authorize-address`
+   4. Authorization for access in VA systems (21-22a only) `/authorize-inside-va`
+   5. Authorization for access outside VA systems (21-22a only) `/authorize-outside-va`
+   6. Authorization for access outside VA systems - name individuals to authorize (21-22a only) `/authorize-inside-va/names`
+7. Review  `/review-and-submit`
+8. Download `/confirmation`
+9. Next Steps `/next-steps`
    1. An email notification is sent via VA Notify to reiterate next steps
 
 
