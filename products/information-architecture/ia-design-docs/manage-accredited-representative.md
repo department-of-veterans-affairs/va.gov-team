@@ -47,6 +47,10 @@ The new tool will live under ROOT since it supports all benefit types.
 - Breadcrumb: Home > Resources and support > [H1 TBD by content]
 - Notes:  We will migrate the existing disability page content (found on va.gov/disability/get-help-filing-claim) to resources and support, because the information applies to all benefits, not just disability. The entry points in the disability left nav and hub pages will remain, they will just need to be edited in Drupal to point to the new landing page url (instead of the new R+S url).
 
+### Sub-URLs
+The Sub URLs for the V1 appoint flow can be found in the team's [github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/product-outline-appoint-a-representative.md).
+
+
 **2) Accredited Rep Landing Page - NEW**
 - URL: va.gov/**get-help-from-accredited-representative**
 - Breadcrumb: Home > [Match H1 exactly]
