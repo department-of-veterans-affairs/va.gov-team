@@ -71,4 +71,6 @@ All pages have ratings of 2 or below.
   - 32% of pages are scoring at 90% or higher "good"
   - 56% of pages are meeting our goal of 75% or higher "good," while 59% of pages are scoring 70% or higher
   - 21% of pages are scoring at less than 50% "good," with 3% scoring at less than 10% "good" 
-- 
+- All of the lowest rated R&S pages (by lowest "good" rating percentage and highest volume of total responses with <50% "good" rating" were connected to sign-in. We'll continue to review Medallia feedback to determine if this has to do with the process or the content on the pages.
+- Three of the 5 top rated pages were about burials and memorials.
+- The PACT Act page continues to score high with a high number of views. 
