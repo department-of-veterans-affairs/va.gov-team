@@ -15,35 +15,37 @@ The goal of this team after successfully launching CPAP supplies has been to add
 
 
 ### User Feedback & Research
-•	Current User Research 
-o	Overview of recent research findings (e.g., user interviews, surveys, feedback).
-•	Customer Support Insights 
+- Current User Research 
+o	Overview of recent research findings (e.g., user interviews, surveys, feedback)
+- Customer Support Insights 
 o	How user feedback from support tickets, reviews, or customer service is handled.
-•	UX and Usability Testing 
+- UX and Usability Testing 
 o	Details about ongoing or upcoming usability tests, A/B testing, and any key learnings.
-•	Customer Journey & Personas 
+- Customer Journey & Personas 
 o	Key customer personas and journey maps (if applicable).
 ### Risks & Challenges
-•	Product Risks 
+= Product Risks 
 o	Any potential or existing risks to the product’s success, such as market competition, regulatory changes, or internal challenges.
-•	Mitigation Plans 
+- Mitigation Plans 
 o	Suggested actions or strategies to mitigate identified risks.
-•	Escalation Procedures 
+- Escalation Procedures 
 o	How to escalate critical issues to leadership or cross-functional teams.
 
 ### Ongoing Tasks & Administrative Details
-•	Daily/Weekly/Monthly Routine 
+- Daily/Weekly/Monthly Routine 
 o	Common tasks that need to be done regularly (e.g., status updates, meetings, prioritization sessions).
-•	Documentation 
+- Documentation 
 o	Location of important documents (e.g., Confluence, Google Drive).
-•	Approval Processes 
+- Approval Processes 
 o	Overview of how product decisions, budgets, or timelines are approved.
 
 ### Tools, Platforms & Links
-•	Any additional resources such as: 
-o	Detailed roadmaps, charts, and graphs.
-o	Links to internal documentation, tools, or onboarding materials.
-o	References to key email threads or documents.
+- Any additional resources such as:
+- Datadog
+- Github Board
+- Research folder
+- Go/No-Go Checklist
+- Collab Cycle Ticket 
 
-This outline should cover all the essential areas a new product manager will need to understand to step into the role. Depending on the product or the company’s specific processes, you may need to adjust the structure or add more detail in certain areas.
+
 
