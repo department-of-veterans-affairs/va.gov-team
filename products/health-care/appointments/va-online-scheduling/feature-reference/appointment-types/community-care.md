@@ -41,57 +41,24 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 
 ### Empty States and Alerts
 
-The following service endpoint is called to retrieve all appointments:
+From [ticket 69852](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69852#issuecomment-2566736403): We retrieve the appointment information using one of the following calls:
 
-- `http://localhost:3000/vaos/v2/appointments?_include=facilities,clinics&start=2024-05-16&end=2024-09-14&statuses[]=proposed&statuses[]=cancelled`
+- From appointment list: `/vaos/v2/appointments?_include=facilities,clinics&start={today-120}&end={today+1}&statuses[]=proposed&statuses[]=cancelled` and `/vaos/v2/appointments?_include=facilities,clinics&start={today-30}&end={today+395}&statuses[]=booked&statuses[]=arrived&statuses[]=fulfilled&statuses[]=cancelled`
+- From appointment details page: `/vaos/v2/appointments/${id}?_include=facilities,clinics,avs`
 
-**NOTE**: The `"_statuses[]=proposed_"` query parameter is used to return all appointment requests.
+Data points:
 
-The technical name of the field in the data call.
+| Role | Section name | Source field name | Empty state logic |
+| - | - | - | - |
+| Appointment date and time | When | `appt.localStartTime` | Start time always populated |
+| Type of Care | What | `appt.serviceType` | Do not display if not available. |
+| Provider Name | Provider | `appt.practitioners[0].name` | Display "Provider information not available" if not available. |
+| Treatment Specialty | Provider | `appt.extension.ccTreatingSpecialty` | Display "Treatment specialty not available" if not available. |
+| Provider Address | Provider | `appt.extension.ccLocation.address` | Display "Address not available" if not available. |
+| Provider Phone | Provider | `appt.extension.ccLocation.telecom` | Do not display if not available. |
+| Veteran Reason For Appointment | Details you shared with your provider | `appt.patientComments` | Display "Not available" if not available. | 
 
-Display Name | Technical Name
---- | ---
-Preferred date and time |  `localStartTime`
-Type of care | `serviceTypes`
-Scheduling facility | `location.attributes.name`
-Preferred community care provider | `preferredProviderName, extension.ccTreatingSpecialty, extension.ccLocation.address`
-Language you'd prefer the provider speak | `preferredLanguage`
-Details you'd like to share with your provider | `patientComments`
-Your contact details | `contact.telecom.phone, contact.telecom.email, preferredTimesForPhoneCall`
-
-**NOTE:**
-This mapping might change since business logic is being migrated to the middle tier.
-
-
-**Data points to review for Community Care requests:**
-
-- Preferred dates and times
-This field is always populated since it is a required field when completing the appointment request workflow.
-    
-- Type of care
-This field is always populated since it is a required field when completing the appointment request workflow.      
-
-- Scheduling facility
-This field is always populated since it is a required field when completing the appointment request workflow.
-
-- Preferred community care provider
-The following information is display when provider information is missing:
-
-  - Provider name not available
-  - Treatment specialty not available
-  - Address not available
-
-- Language you'd prefer the provider speak
-This field is always populated since it is a required field when completing the appointment request workflow.
-
-- Details you'd like to share with your provider
-This information is optional. So, the following is displayed when the information is missing:
-
-  - Reason: Not available
-  - Other details: none
-
-- Your contact details
-This field is always populated since it is a required field when completing the appointment request workflow.      
+     
  
 
 ## Specifications
