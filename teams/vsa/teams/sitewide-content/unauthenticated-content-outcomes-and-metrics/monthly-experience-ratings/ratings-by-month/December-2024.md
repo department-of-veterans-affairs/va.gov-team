@@ -33,7 +33,12 @@ All pages have ratings of 2 or below.
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
 
-1.   
+1. [How to protect your identity and your VA benefits from scammers](https://www.va.gov/resources/how-to-protect-your-identity-and-your-va-benefits-from-scammers/) (100% good out of 83 total responses)
+2. [Can I plan ahead for my burial at a VA national cemetery](https://www.va.gov/resources/can-i-plan-ahead-for-my-burial-in-a-va-national-cemetery/) (100% good out of 26 total responses)
+3. [Will I have to pay back the GI Bill benefits I used if I fail a class?](https://www.va.gov/resources/will-i-have-to-pay-back-the-gi-bill-benefits-i-used-if-i-fail-a-class/) (100% good out of 21 total responses)
+4. [Government headstones and markers FAQs](https://www.va.gov/resources/government-headstones-and-markers-faqs/) (100% good out of 10 total responses)
+5. [What does burial in a VA national cemetery include?](https://www.va.gov/resources/what-does-burial-in-a-va-national-cemetery-include/) (98% good out of 57 total responses)
+   
 ### 5 resources and support pages with the lowest "good" ratings percentage overall and at least 10 total responses
 
 1.    
