@@ -13,25 +13,25 @@
 6. Run macro 'CalculateCSAT' to gather the CSAT scores and save them to a new spreadsheet 
     - CSAT scores are reported monthly to OCTO 
 7. Run macro 'FormatMedalliaData' to format the data that you copied into the spreadsheet, this macro does the following
-    - Concatenates columns E and K because these, historically, have comments in them (even though 1 is what task were you doing)
+    - Concatenates columns E and K because these, historically, have comments in them (even though K is what task were you doing)
     - Removes the remainder of the columns
     - Adds the rating columns
     - Wraps all columns so that you can see the titles & data
     - Widens the Comments column so that you can easily read the comments
     - Filter the macro spreadsheet to hide all rows with blank comments
 8. Read each comment and place a '1' in the macro spreadsheet column that matches the Veteran's comment sentiments 
-       * Like PCI - Veteran indicated that they like PCI
-       * Staff not using PCI even though Veterans are - Veteran used PCI but staff told them it doesn't work or the clinic doesn't use it
-       * Trouble navigating larger facilities - Veteran had issues finding where to go in the facility
-       * Staff not contacting Veterans when appointments are canceled - Veteran thought they had an appointment but it was cancelled without their knowledge 
-       * Concerns with check in at kiosks - Veteran indicated they want the kiosk back 
-       * Facilities still using QR Codes - Veteran tried to use the QR code 
-       * Long wait times at check in or no staff at check in counter - Veteran encountered long wait times at check-in counters or found no staff at check-in counter 
-       * Conflicting instructions to Veterans in appointment reminders - Veteran was confused by the appointment reminders 
-       * Trouble updating contact info - Veteran wanted to update their contact information via PCI but got frustrated when they found they could not 
-       * Issues verifying identity - Veteran had trouble verifying their identity 
-       * Pre-Check-in or Check-in link issues - Veteran if the Veteran encountered issues with their PCI link 
-       * Too many notifications - Veteran felt they were receiving too many notifications
+    - Like PCI - Veteran indicated that they like PCI
+    - Staff not using PCI even though Veterans are - Veteran used PCI but staff told them it doesn't work or the clinic doesn't use it
+    - Trouble navigating larger facilities - Veteran had issues finding where to go in the facility
+    - Staff not contacting Veterans when appointments are canceled - Veteran thought they had an appointment but it was cancelled without their knowledge 
+    - Concerns with check in at kiosks - Veteran indicated they want the kiosk back 
+    - Facilities still using QR Codes - Veteran tried to use the QR code 
+    - Long wait times at check in or no staff at check in counter - Veteran encountered long wait times at check-in counters or found no staff at check-in counter 
+    - Conflicting instructions to Veterans in appointment reminders - Veteran was confused by the appointment reminders 
+    - Trouble updating contact info - Veteran wanted to update their contact information via PCI but got frustrated when they found they could not 
+    - Issues verifying identity - Veteran had trouble verifying their identity 
+    - Pre-Check-in or Check-in link issues - Veteran if the Veteran encountered issues with their PCI link 
+    - Too many notifications - Veteran felt they were receiving too many notifications
 9. Run macro 'CopyCommentsAsMarkDown' to copy the comments for columns where you placed a '1', change the comments to markdown format, and save them to a new text file 
 10. Create a GitHub document similar to [this one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/2024/2024-12-15-Medallia.md)
     - Copy the comments from the text file created by the 'CopyCommentsAsMarkDown' macro to this new GitHub document 
