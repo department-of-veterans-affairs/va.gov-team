@@ -3,6 +3,8 @@
 ### Overview of the Product 
 Supply Reordering on VA.gov seeks to allow Veterans to order different medical device supplies on VA.gov, prior to launch, supplies such as masks and batteries were only available via mail and phone orders. 
 
+The goal of this team after successfully launching CPAP supplies has been to add 3 additional device supply types to the form - nebulizers, TENS units and blood pressure monitors. 
+
 ### Timeline & Current Status
 
 ### Stakeholder Management
