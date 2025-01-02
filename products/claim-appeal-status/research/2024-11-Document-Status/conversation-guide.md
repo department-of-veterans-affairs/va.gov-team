@@ -68,17 +68,16 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Do you know what this page is? If yes, what is it?
 - Describe to me what you're seeing here.
-- Let's say you're waiting for this top claim to be decided. What would you say is the status of the claim, based on what you see here? (Point them towards "Step 3 of 8: Evidence gathering" if they don't reference it themselves.) And what does that status mean to you? 
+- Imagine you’re waiting for this top claim to be decided, and you want to make an update to it. What would you do?
 
 ### Things to watch for:
 
 - Does the participant recognize the Claim Status Tool?
 - Do they recognize which claim is in progress?
-- How accurate is their understanding of the status based only on what they see here?
 
 ### Part 1 B: Status Page - 5 minutes
 
-[Have the participant click "View details" on the in-progress claim]
+[Have the participant click "Details" on the in-progress claim]
 
 - Tell me what you see here. (Prompt them to scroll up and down.)
 - Do you feel like this tells you everything you need to know about the claim? Why or why not?
@@ -86,7 +85,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Things to watch for:
 
-- How do Veterans react to the Status tab in general?
+- How do Veterans react to the Status page in general?
 - Do Veterans read the recent activity section and find it important
 - Do Veterans know what to do if they wanted to add files to their claim online?
   
@@ -126,11 +125,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Is it clear the submitted document is now added to their records and no longer pending?
 
 ## Part 2: Failure processing file (Type 2 Failure)
+[Click on the name "Hector" on the top-right hand corner of the page]
+
 ### Part 2 A: Home page - Open tracked item - 5 minutes
 
-**PROMPT**: Now we're gonig to imagine that VA has requested evidence from you. 
-
-[Click on the name "Hector" on the top-right hand corner of the page]
+**PROMPT**: Now, we're going to imagine that the VA has requested evidence from you.
 
 - Tell me what you see here.
 - What do you think this alert is communicating?
@@ -144,7 +143,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Part 2 B: Status page - Buddy statement request - 5 minutes
 
-[Click on the details]
+[Click on "Details"]
 
 - Tell me what you see here.
 - Describe to me what this alert is communicating?
@@ -155,7 +154,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 [Click on the details]
 
-- Tell me what you see here.
+- Describe what you’re seeing here? Remember to think aloud as you do
 - In your own words, can you describe what is being communicating?
 - If you wanted to respond to this request what would you do?
 
@@ -166,13 +165,19 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Now tell me what you see here.
 - If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)
 
-#### If participant says they would Check the status of their document
-[Click on the alert, " Check the status of your document submission"]
+ **If participant says they would check the status of their document**
 
-- Is this what you expect to see?
-- what would you do next?
+   > [Click on the alert, "Check the status of your document submission"]
 
-[Go to section, "Participant Logged out"]
+   >  **Prompt**: Please scroll down to the "Documents" section. In this prototype, the page won’t scroll there automatically, but that’s the intended behavior in the final version.
+
+   > - Is this what you expect to see?
+   > - what would you do next?
+
+   > [Go to section, "Participant Logged out"]
+
+**If participant would log out**
+   >  [Go to section, "Participant Logged out"]
 
 ### Part 2 E: Participant Logged out
 
@@ -200,21 +205,23 @@ Without clicking anything, take a moment to review the page. Remember to think a
 - Tell me what you see here
 - If you want to know more about this alert, what would you do?
 
-### Part 2 G: Status page - Resubmit Error - 3 minutes
+### Part 2 G: Status page - Resubmit Error - 10 minutes
 
 - Tell me what you see?
 - Describe what you think this alert is telling you?
 - What is the relationship between what you're seeing here and what you saw in your email?
 - If you were on your own, what would you likely do next?
 
-If they say click on the files page
-- What are you expecting to see here? (prompt them to scroll down)
-- Looking at this card, can you describe what's being communicated?
-- If you wanted to resubmit your documents what would you do?
-  
-[click the CTA to resubmit documents]
+**If they say click on the files page**
+> - What are you expecting to see here? (prompt them to scroll down)
+> - Looking at this card, can you describe what's being communicated?
+> - If you wanted to resubmit your documents what would you do?
+> -  [click the CTA to resubmit documents]
 
-### Part 2 H: Resubmit notice page - 5 minutes
+**If they chose learn how to resubmit document**
+> - [click the CTA to resubmit documents]
+  
+### Part 2 H: Resubmit notice page - 10 minutes
 
 Without clicking anything, take a moment to review the page. Remember to think aloud as you scroll up and down.
 
@@ -226,16 +233,16 @@ Without clicking anything, take a moment to review the page. Remember to think a
 
 - Do they use the "recent activity" section to track the progress of their upload?
 - Do they understand why they are seeing an email?
-- Can they identify relationship between the email and in-app alerts
-- Do they understand ways they can submit the files to VA
+- Can they identify the relationship between the email and in-app alerts
+- Do they understand the options available for resubmitting files to VA?
 
-## Part 3: Information wayfind
+## Part 3: Information wayfind and expectations for dismissible alerts" - 7 mins
 
-[click on "My VA" at the top-right hand corner]
+[click on "My VA" at the top-right hand corner to return to the claim page with the error]
 
 - If, after 30 days, the alerts on the pages disappear, but you still wanted to read instructions for resubmitting documents to the VA, where would you expect the link to be? (Feel free to navigate between pages)
 
-[click on "Details"]
+[click on "Details" to navigate to the status page]
 - If you click the (X) button on this alert, what do you expect to happen?
 - What do you expect to happen with the alert when you log in again? Do you think it will reappear or remain gone?
 
@@ -266,7 +273,3 @@ Thanks again, and have a great day!
 ## Emergency Exit
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
