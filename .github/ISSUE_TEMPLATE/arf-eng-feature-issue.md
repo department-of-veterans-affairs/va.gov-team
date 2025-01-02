@@ -10,14 +10,8 @@ type: 'Task'
 
 ### Description
 
-#### User Story or Problem Statement
-<!-- Outline the user story or the problem being addressed -->
-
 #### Implementation Details
 <!-- Describe how the feature or solution should be implemented -->
-
-#### Mockups/Designs
-<!-- Include any available mockups or design elements -->
 
 #### Blockers
 <!-- Identify any potential obstacles -->
