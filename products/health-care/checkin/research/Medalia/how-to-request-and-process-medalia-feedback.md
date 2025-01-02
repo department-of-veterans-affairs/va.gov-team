@@ -10,11 +10,16 @@
 3. Once you get the email, open the spreadsheet in the browser
 4. Download [this spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/Medallia%20Formatter.xlsm) that has macros for processing the data
 5. Copy everything from the Medallia spreadsheet to the macro spreadsheet
-6. Run macro 'FormatMedalliaData' to format the data that you copied into the spreadsheet
-7. Wrap all columns so that you can see the titles & data
-8. Widen the Comments column so that you can easily read the comments
-9. Filter the macro spreadsheet to hide all rows with blank comments
-10. Read each comment and place a '1' in the macro spreadsheet column that matches the Veteran's comment sentiments 
+6. Run macro 'CalculateCSAT' to gather the CSAT scores and save them to a new spreadsheet 
+    - CSAT scores are reported monthly to OCTO 
+7. Run macro 'FormatMedalliaData' to format the data that you copied into the spreadsheet, this macro does the following
+    - Concatenates columns E and K because these, historically, have comments in them (even though 1 is what task were you doing)
+    - Removes the remainder of the columns
+    - Adds the rating columns
+    - Wraps all columns so that you can see the titles & data
+    - Widens the Comments column so that you can easily read the comments
+    - Filter the macro spreadsheet to hide all rows with blank comments
+8. Read each comment and place a '1' in the macro spreadsheet column that matches the Veteran's comment sentiments 
        * Like PCI - Veteran indicated that they like PCI
        * Staff not using PCI even though Veterans are - Veteran used PCI but staff told them it doesn't work or the clinic doesn't use it
        * Trouble navigating larger facilities - Veteran had issues finding where to go in the facility
@@ -27,10 +32,8 @@
        * Issues verifying identity - Veteran had trouble verifying their identity 
        * Pre-Check-in or Check-in link issues - Veteran if the Veteran encountered issues with their PCI link 
        * Too many notifications - Veteran felt they were receiving too many notifications
-11. Run macro 'CopyCommentsAsMarkDown' to copy the comments for columns where you placed a '1', change the comments to markdown format, and save them to a new text file 
-12. Run macro 'CalculateCSAT' to gather the CSAT scores and save them to a new spreadsheet 
-    - CSAT scores are reported monthly to OCTO, see ???? 
-14. Create a GitHub document similar to [this one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/2024/2024-12-15-Medallia.md)
+9. Run macro 'CopyCommentsAsMarkDown' to copy the comments for columns where you placed a '1', change the comments to markdown format, and save them to a new text file 
+10. Create a GitHub document similar to [this one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/2024/2024-12-15-Medallia.md)
     - Copy the comments from the text file created by the 'CopyCommentsAsMarkDown' macro to this new GitHub document 
     - Scrub the comments of PII/PHI. Read through every user comment you pasted into the GitHub docuemnt and replace personal information with asterisks or number symbols. Replace data with codes as follows
         - Email addresses - PII_EMAIL
@@ -38,8 +41,8 @@
         - Social security numbers - PII_SSN
         - Phone numbers - PII_PHONE
         - Other identifying info - PII_OTHER   
-13. Commit the new GitHub document
-14. Paste a link to the document in [check-in-experience Slack channel](https://dsva.slack.com/archives/C022AC2STBM) and call out these folks:  Kay Lawyer, Kristen McConnell, Stephen Barrs and the CIE team
+11. Commit the new GitHub document
+12. Paste a link to the document in [check-in-experience Slack channel](https://dsva.slack.com/archives/C022AC2STBM) and call out these folks:  Kay Lawyer, Kristen McConnell, Stephen Barrs and the CIE team
 
 ## How to Submit a Request Ticket
 
