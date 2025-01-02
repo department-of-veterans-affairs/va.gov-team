@@ -39,7 +39,7 @@ We will validate assumptions and identify opportunities through:
 - Displays currently active benefits and any paused benefits for users who have returned to active duty.
 - Displays eligibility for additional benefits and clear next steps for activation.
 - Includes links to detailed benefits pages for more information and/or actionable recommendations.
-- Decide where to display benefits information on VA.gov
+- Decide how to access this benefits enrollment information on VA.gov
 
 **Governance and Documentation:**
 - Example code and usage guidelines to ensure adoption and scalability.
