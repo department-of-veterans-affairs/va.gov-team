@@ -61,7 +61,7 @@ The new tool will live under ROOT since it supports all benefit types.
 - Breadcrumb:  Home > [H1 of accredted rep landing page] > [H1 of appoint a rep tool]
 
 ### Sub-URLs
-The Sub URLs for the V1 appoint flow can be found in the team's [github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/product-outline-appoint-a-representative.md).
+The Sub URLs for the V1 appoint flow can be found in the team's [github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/product-outline-appoint-a-representative.md) under 'Release History'. 
 
 ## <a name="nav"></a>Entry points <br>
 - For the MVP, the main entry points of the tool are: the existing left nav/hub links from disability and decision reviews.
