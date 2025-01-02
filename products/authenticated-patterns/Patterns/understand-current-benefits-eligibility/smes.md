@@ -19,10 +19,10 @@ We'll consult with these SMEs when developing our pattern, especially the benefi
 ## Other SMEs
 |Subject area|Name|
 |---|---|
-|Content and IA|Danielle Thierry|
-|Content and IA|Mikki Northius|
-|Design system|Matt Dingee|
 |Authenticated experience|Ryan Thurwell|
 |Authenticated experience|Chante Lantos-Swett|
+|Design system|Matt Dingee|
+|Content and IA|Danielle Thierry|
+|Content and IA|Mikki Northius|
 |Core Veteran experience|Dave Conlon|
 |Others?|x|
