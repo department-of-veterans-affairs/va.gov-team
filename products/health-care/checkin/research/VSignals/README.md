@@ -13,11 +13,11 @@
         - ![image](https://github.com/user-attachments/assets/67fd2a07-32fe-43c6-a043-df0e153d4370)
 2. Download [this spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/VSignalsCommentCopier.xlsm) that has macros to process the data
 3. Copy everything from the VSignals spreadsheet you downloaded to the macro spreadsheet
-4. Run macro 'VSignalsFormatter' to format the data that you copied into the spreadsheet
-7. Wrap all columns so that you can see the titles & data
-8. Widen the Comments column so that you can easily read the comments
-9. Filter the macro spreadsheet to ONLY show the 'OUTPATIENT - HEALTHCARE VISIT' Survey Type
-10. Filter the macro spreadsheet to hide all rows with blank comments
+4. Run macro 'VSignalsFormatter' to format the data that you copied into the spreadsheet, this macro does the following
+    - Wraps all columns so that you can see the titles & data
+    - Sizes the Comments column so that you can easily read the comments
+    - Filters to ONLY show the 'OUTPATIENT - HEALTHCARE VISIT' Survey Type
+    - Filters to hide all rows with blank comments
 11. Read each comment and place a '1' in the macro spreadsheet column that matches the Veteran's comment sentiments
        * Like PCI - Veteran indicated that they like PCI
        * Mobile CI - Bad - Veteran did not like PCI
