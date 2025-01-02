@@ -32,28 +32,23 @@
      - The forecast of 250 registration selections is based on approximately one-third of monthly service-connected care only registration volumes (850-900)
      - The number of 'Back' button clicks, form exits and download link clicks are estimations derived to support our hypothesis.
 
-|Timeblock|# of application starts|# of selection page views|# of accordion clicks|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|
-|---------|---------------|-------------|----------|---------------|---------------|----------|----------|----------|----------|
-| Historical Weekly Avg | 4,500 | 2,750 |62 | N/A | 50 |12 | 2 |2%|19%|
-| 3-month Weekly Avg | 2,968 | 142 | 58 | 47 |5 | 34 | 0 |33%|72%|
-
 ### Monthly Totals and Average user activity
 |Timeblock|# of application starts|# of selection page views|# of accordion clicks|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|
 |---------|---------------|-------------|----------|---------------|---------------|----------|----------|----------|----------|
 |Target Monthly Average | 18,000 | 11,000 |N/A |250 | 200 |50 | 10 |29% | 20% |
-|Month 1| 11,872 | 567 | 234 | 188 |20 | 135 | 0 |33%|72%|
-|Month 2| x | x | x | x |x | x | x |x | x |
-|Month 3| x | x | x | x |x | x | x |x | x |
-|Experiment Monthly Average |3,957 | 189 | 78 | 63 |7 | 45 | 0 |33% | 72% |
-|3-month Total | x | x | x | x |x | x | x |x | x |
+|Month 1| 16,718| 567 | 234 | 188 |20 | 135 | 39 |33%|72%|
+|Month 2| 19,473 | 808 | 322 | 205 |33 | 101 | 34 |25% | 49% |
+|Month 3| 26,198 | 1,094 | 329 | 274 |36 | 264 | 45 |25% | 96% |
+|Experiment Monthly Average | 20,796 | 823 | 295 | 222 |30 | 167 | 39 |28% | 72% |
+|3-month Total | 62,389 | 2,469 | 885| 667|89 | 500 | 118 |n/a|n/a|
 
 ### Monthly totals of users who selected Registration, went back to the question, selected Enroll and moved forward through the form
 |Month|# of users on Question Page|# of users on Reg page|# of users back to Question page|# of users select Enroll and move to next page|% of users changed Path|
 |---------|---------------|-------------|----------|---------------|---------------|
 |Monthly Target|850 |250 |200 |200 |80% |
-|October|832|99|56|42|21%|
-|November| x |x |x |x |x |
-|December| x |x |x |x |x |
+|October|832|199|56|42|21%|
+|November| 985 |179 |65 |54 |30% |
+|December| 1,095 |208 |55 |45 |22% |
 
 
 ## Research questions/Supplemental Metrics
