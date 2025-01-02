@@ -24,6 +24,7 @@ NEW Sprint 24: 1/2/25 - 1/21/25
 * 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
 * 🟣 Testing/Admin/Operational Support
 * 🟤 VetsAPI Logic Integration Support
+* ⚫️ Community Care - this work is being done by Devin working with the CIE team 
    
 ## 📋 Previous Sprint Summary:
 In Sprint 26 the team provided support for multiple features and initiatives, outlined as follows:  
@@ -48,10 +49,12 @@ In Sprint 26 the team provided support for multiple features and initiatives, ou
    * [VPG-295 VPG: Populate identifier values for CFA-sourced appointments](https://issues.mobilehealth.va.gov/browse/VPG-295)
 * 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
    * [CES-1419 CES: Update CES to use _source search param](https://issues.mobilehealth.va.gov/browse/CES-1419)
-* 🟣 Testing/Admin/Operational Support
-   * [CES-1229 CFA: Update to Mobile-Framework v2.2](https://issues.mobilehealth.va.gov/browse/CES-1229)
 * 🔵 Direct Scheduling
    * 🚧[VPG-302 VetsAPI: add direct scheduling feature flag to appointment creation logic](https://issues.mobilehealth.va.gov/browse/VPG-302)
    * 🚧 [VPG-292 vets-api: include failures array in relationships endpoint](https://issues.mobilehealth.va.gov/browse/VPG-292)
+* ⚫️ Community Care - this work is being done by Devin working with the CIE team
+   * [VPG-310 CC: Update AppointmentsController#create method #98251](https://issues.mobilehealth.va.gov/browse/VPG-310)
+* 🟣 Testing/Admin/Operational Support
+   * [CES-1229 CFA: Update to Mobile-Framework v2.2](https://issues.mobilehealth.va.gov/browse/CES-1229)
 
 ## ✈️ Planned Releases
