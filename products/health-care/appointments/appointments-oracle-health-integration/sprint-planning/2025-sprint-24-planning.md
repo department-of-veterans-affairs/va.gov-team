@@ -2,10 +2,9 @@
 NEW Sprint 24: 1/2/25 - 1/21/25
 
 ## 📅 Upcoming Dates  & 🏖️ PTO
-
-  * Brittany- 12/24, 12/31
-  * Kenzie- 12/24-1/3/25
-
+  * 1/20/25 Martin Luther King Jr. Day - observed federal holiday 
+  * Brittany- 1/17
+    
 ## 📣 Announcements
 * A6 has changed the cadence of sprint plannings. We closed sprint 26 on 12/31 and to get in sync with other teams we will be starting sprint 24 on 1/2. New cadence will be:
   * Sprint 24: 1/2/25 to 1/21/25 (first sprint will be longer to make you aligned with the rest of the team)
