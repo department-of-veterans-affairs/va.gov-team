@@ -147,5 +147,5 @@
 | 145 | [Getting care for spina bifida and other birth defects](https://www.va.gov/resources/getting-care-for-spina-bifida-and-other-birth-defects/)| Family and caregiver benefits | 12/16/24 |
 | 146 | [How to file a claim for spina bifida or other birth defects](https://www.va.gov/resources/how-to-file-a-claim-for-spina-bifida-or-other-birth-defects/)| Family and caregiver benefits | 12/16/24 |
 | 147 | [C-123 aircraft Agent Orange exposure and disability compensation](https://www.va.gov/resources/c-123-aircraft-agent-orange-exposure-and-disability-compensation/) | Disability | 12/19/24 |
-
+| 1487 | [Support for common Login.gov and ID.me issues](https://www.va.gov/resources/support-for-common-logingov-and-idme-issues/) | VA account and profile | 12/24/24 |
 
