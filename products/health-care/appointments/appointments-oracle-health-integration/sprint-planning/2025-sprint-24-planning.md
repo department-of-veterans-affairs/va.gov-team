@@ -11,6 +11,7 @@ NEW Sprint 24: 1/2/25 - 1/21/25
   * Sprint 24: 1/2/25 to 1/21/25 (first sprint will be longer to make you aligned with the rest of the team)
   * Sprint 25: 1/22/25 to 2/4/25
   * Sprint 26: 2/5/25 to 2/18/25
+  * *Please note the numbers of the sprints have changed. This is to align us with other teams so we will start 2025 fresh with sprint 24*
 
 ## 🏆 Overarching Goals
 * 🔴 Appointment Cancellation
@@ -42,7 +43,6 @@ In Sprint 26 the team provided support for multiple features and initiatives, ou
 * 🟢 Appointment Requests
    * [CES-1423 CFA: Reads should receive cerner location ids and only call cerner directly](https://issues.mobilehealth.va.gov/browse/CES-1423)
    * [VPG-299 VPG: Evaluate Cerner eligibility rules in parallel](https://issues.mobilehealth.va.gov/browse/VPG-299)
-
 * 🟤 VetsAPI Logic Integration Support
    * 🚧 [VPG-13 VetsAPI: implement FE logic for determining appointment modality](https://issues.mobilehealth.va.gov/browse/VPG-13) 
 * 🟠 Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
