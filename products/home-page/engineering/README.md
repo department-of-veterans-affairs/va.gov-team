@@ -25,4 +25,5 @@ Homepage consists of several sections, driven by different technical mechanisms.
 
 Homepage permissions: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11160
 
-![screencapture-va-gov-2023-10-19-12_49_28](https://github.com/department-of-veterans-affairs/va.gov-team/assets/85581471/42266146-6a82-4404-8289-c6ff9a475696)
+## Homepage structure
+[Homepage structure Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1735851918125/0a3e0b39b7534d90e886edb660012dc70bcad652) displays which visual elements tie to which Drupal data origin
