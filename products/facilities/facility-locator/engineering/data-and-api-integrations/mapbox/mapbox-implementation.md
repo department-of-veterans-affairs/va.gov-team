@@ -55,3 +55,40 @@ export const mapboxToken =
 ### Previous discovery / notes
 - [March 2022: Mapbox Predictive Search Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/discovery/predictive-geolocation-discovery.md)
 - [Questions & Answers about Mapbox (as of February 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/products/facilities/facility-locator/engineering/archive/mapbox-info.md)
+
+## Non-Sitewide Products That Use Mapbox
+
+### Ask VA
+
+As of 1/3/2025, this application is not yet in production.
+
+- **Entry**: http://staging.va.gov/contact-us/ask-va-too
+- **Code in vets-website**: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/ask-va
+- **API usage**: Permanent Geocoding
+
+This application has a search box for entering a (city, state) or zip code. It is used in two different flows: one for finding VA facilities and the other for finding educational institutions. This tool has a "Use my location" feature and uses both forward and reverse geocoding for parsing Mapbox results. No Mapbox map is rendered in this tool.
+
+### Caregivers
+
+- **Entry**: https://va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/introduction
+- **Code in vets-website**: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/ask-va
+- **API usage**: Permanent Geocoding
+
+This application has a search box for entering a (city, state) or zip code to get the nearest VA facilities for Veterans needing care. This tool does not have a "Use my location" feature, so only forward geocoding is used when performing the search. No Mapbox map is rendered in this tool.
+
+### GI
+
+- **Entry**: https://va.gov/education/gi-bill-comparison-tool
+- **Code in vets-website**: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/gi
+- **API usage**: Permanent Geocoding, Map Loads for Web, Static Images
+
+On its "Search by location tab," this application has a search box for entering a (city, state) or zip code and renders a map after searches are performed. This tool has a "Use my location" feature and uses both forward and reverse geocoding for parsing Mapbox results.
+
+
+### Representative Search
+
+- **Entry**: https://va.gov/get-help-from-accredited-representative/find-rep
+- **Code in vets-website**: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/representative-search
+- **API usage**: Permanent Geocoding
+
+This application has a search form for accredited VSO representatives, attorneys and claims agents. You can enter a full address with a (city, state) or a zip code. This tool has a "Use my location" feature and uses both forward and reverse geocoding for parsing Mapbox results.
