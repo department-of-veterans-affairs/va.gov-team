@@ -1,4 +1,5 @@
 Epic [#95359](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95359)
+[Figma design](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=3519-6293&p=f&t=VJ1l5i51SLMOmZju-0) 
 
 ## Benefit to the Veteran
 As a Veteran/Caregiver, I want to be immediately notified when my application submission has failed, so that I can take whatever actions are advised to complete a successful submission
