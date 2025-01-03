@@ -61,7 +61,7 @@ Before we start, I have a few things that I want to go over with you:
 
 ## Warm-up Questions (Optional) - 5 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Before we head over to the website, we would like to start with a few warm-up questions.
 
 1. Do you know where to find Yellow Ribbon Program information online?
 2. Are you familiar with the Yellow Ribbon Program?
