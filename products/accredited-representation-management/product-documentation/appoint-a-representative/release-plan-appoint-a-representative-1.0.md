@@ -93,7 +93,7 @@ The following metrics will be considered before advancing rollout to the next st
    1. Product growth: total users, new users, sessions, page views
    2. Engagement: average sessions duration, views per session, average time on page
    3. Navigation: top previous path sessions
-4. What changes (if any) need to be implemented before proceeding to the next rollout stage? nothing at this time, ready to move into Stage B
+4. What changes (if any) need to be implemented before proceeding to the next rollout stage? 
 
 ### Stage B Results (Jan 8-13, 2025)
 
@@ -102,7 +102,7 @@ The following metrics will be considered before advancing rollout to the next st
    1. Product growth: total users, new users, sessions, page views
    2. Engagement: average sessions duration, views per session, average time on page
    3. Navigation: top previous path sessions
-3. What changes (if any) need to be implemented before proceeding to the next rollout stage? nothing at this time, ready to move into Stage C
+3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
 
 ## Post Launch Metrics
 
