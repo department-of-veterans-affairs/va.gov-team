@@ -101,20 +101,20 @@ Before we look at the website, let’s start with a few warm-up questions.
 - What content on the page is most useful to the Veteran? Least helpful or confusing?
 - Do Veterans read the document files section and find it important
 
-### Part 1 D: Confirmation message for successful file uplaod - 10 minutes
+### Part 1 D: Confirmation message for successful file upload - 10 minutes
 
 [Participant completes the File upload]
 
 - Now tell me what you see here.
 - If we were not here, what would be your next step?  (Prompt them to scroll up and down. If they haven't.)
-- What do you think this card is (refering to the submission in progress card)?
+- What do you think this card is (referring to the submission in progress card)?
 - Can you describe the relationship between the confirmation message and the "submission in progress" card?
 - What do you think will happen in a couple days after seeing this card?
 
 [Click on the submission in progress card to see the file has now be added to the e-folder]
 
 - Describe what happened here?
-- what would you do next?
+- What would you do next?
   
 ### Things to watch for:
 
@@ -153,7 +153,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 [Click on the details]
 
 - Describe what you’re seeing here? Remember to think aloud as you do
-- In your own words, can you describe what is being communicating?
+- In your own words, can you describe what is being communicated?
 - If you wanted to respond to this request what would you do?
 
 ### Part 2 D: Confirmation for tracked item - 15 minutes
@@ -170,7 +170,7 @@ Before we look at the website, let’s start with a few warm-up questions.
    >  **Prompt**: Please scroll down to the "Documents" section. In this prototype, the page won’t scroll there automatically, but that’s the intended behavior in the final version.
 
    > - Is this what you expect to see?
-   > - what would you do next?
+   > - What would you do next?
 
    > [Go to section, "Participant Logged out"]
 
@@ -185,7 +185,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - What are you feeling when you see this?
 - In your own words, describe what is being communicated.
-- Why do you think you are receving this email?
+- Why do you think you are receiving this email?
 - What would you do next?
   
 I want you to explore the available options as if you were alone and viewing the actual page.
@@ -196,7 +196,7 @@ I want you to explore the available options as if you were alone and viewing the
 
 [Click on the "exit" button on the top-right hand corner of the page]
 
-**PROMPT**: Now we’re logged back into VA website to see your claim. 
+**PROMPT**: Now we’re logged back into the VA website to see your claim. 
 
 Without clicking anything, take a moment to review the page. Remember to think aloud as you scroll up and down.
 
@@ -211,12 +211,14 @@ Without clicking anything, take a moment to review the page. Remember to think a
 - If you were on your own, what would you likely do next?
 
 **If they say click on the files page**
+
 > - What are you expecting to see here? (prompt them to scroll down)
 > - Looking at this card, can you describe what's being communicated?
 > - If you wanted to resubmit your documents what would you do?
 > -  [click the CTA to resubmit documents]
 
 **If they chose learn how to resubmit document**
+
 > - [click the CTA to resubmit documents]
   
 ### Part 2 H: Resubmit notice page - 10 minutes
@@ -247,15 +249,15 @@ Without clicking anything, take a moment to review the page. Remember to think a
 ### Things to watch for:
 
 - Where do they expect to see a re-entry link for the resubmit instructions?
-- what behavior do they expect for a dismissable alert in this scenario?
+- What behavior do they expect for a dismissable alert in this scenario?
 
 ## Post-Task Interview - 5 minutes
 
 - Overall, what did you think of what you saw today? Was it clear or confusing?
 - Was there anything helpful?
 - On a scale of 1-5, how confident do you feel about being able to resubmit your document if you received a notice like this in real life? (1 being least confident, 5 being most confident.)
-- On a scale of 1-5, how confident do you feel VA will effectivley manage your paper documents you've submitted? (1 being least confident, 5 being most confident.)
-   - why?
+- On a scale of 1-5, how confident do you feel VA will effectively manage your paper documents you've submitted? (1 being least confident, 5 being most confident.)
+   - Why?
 - Any questions for me? 
 
 ## Thank-You and Closing - 1 minute
@@ -265,8 +267,6 @@ Thank you for sharing your thoughts with us today. Your feedback was greatly app
 Perigean will send you a thank you note with a brief message to share with other Veterans who might want to participate in future research.
 
 Thanks again, and have a great day!
-
-##
 
 ## Emergency Exit
 
