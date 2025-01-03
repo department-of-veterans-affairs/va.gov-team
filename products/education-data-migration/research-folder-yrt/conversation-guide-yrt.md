@@ -82,6 +82,7 @@ Thank you for answering these questions. For this usability research session, we
 - [Does the participant notice xyz?]
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Optional: I see that you {action}. Can you explain your thought process?]
+- [Optional: Answer a pause with a question such as can you describe to us what you are thinking?]
 - Questions:
 1. If you wanted to learn if you qualify for yellow ribbon, how would you do that?
 2. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate this task?
