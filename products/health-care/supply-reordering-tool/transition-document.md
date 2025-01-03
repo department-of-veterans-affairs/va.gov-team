@@ -7,6 +7,8 @@ The goal of this team after successfully launching CPAP supplies has been to add
 
 ### Timeline & Current Status
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95836)
+- UX design - LINK
+- Use cases / test cases - LINK
 
 ### Stakeholder Management
 - Denver Logistics Center : Responsible for shipping out supplies, manage any issues with orders and our app uses their data to show Veterans details about previous orders/what supplies they have available to order. 
