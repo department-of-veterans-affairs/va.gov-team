@@ -33,7 +33,8 @@ In Sprint 25 the team provided support for multiple features and initiatives, ou
    * (CES-1357) Clinical Encounter Service was updated for the rules engine to utilize ces-ig objects instead of native FHIR, aligning with Drools’ current implementation.
    * (CES-1199) A bug was detected in Cerner Fhir Adapter where Department of Defense (DoD) appointments were being returned as appointments in the va.gov VAOS application. This bug was addressed to ensure that only VA appointments are returned.
 * #### Vets API Logic Integration Support
-   * (VPG-273) The current logic for determining the type of an appointment, which is executed on the Vets website front end, will be migrated to the VetsAPI. VetsAPI will be updated to handle this logic internally and set the appointmentType value accordingly to ensure consistency and streamline the process.   * (VPG-29) Finalized research on Telehealth Appointments.
+   * (VPG-273) The logic for determining the type of an appointment was migrated from the front end to VetsAPI. Now VetsAPI can handle this logic internally and set the appointmentType value accordingly to ensure consistency and streamline the process.
+   * (VPG-29) Finalized research on Telehealth Appointments.
 * #### Appointment Requests
    * (VPG-23) VetsAPI Patient Gateway was updated to use ces-ig-java-lib for CesSlot and migrated to utilize CesAppointment.**
 * #### Testing/Admin/Operational Support
