@@ -19,8 +19,9 @@ Feature Toggle/flag:
 
 #### Technical Preparation
 The following will take place right before Staged Rollout:
-- [ ] The product has been wrapped in the frontend feature toggle `appoint_a_representative_enable_frontend` [#99874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99874)
-- [ ] The applicaton is enabled in Production [#99874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99874)
+- [ ] Wrap the landing page react widget in the frontend feature toggle `appoint_a_representative_enable_frontend`
+- [ ] Wrap the product in the frontend feature toggle `appoint_a_representative_enable_frontend` [#99874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99874)
+- [ ] Enable the application in Production [#99874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99874)
 - [ ] Enable backend feature flag `use_veteran_models_for_appoint` to use the legacy tables (since the Accreditation API is not yet available) [#96246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96246)
 - [ ] Enable backend feature flag `appoint_a_representative_enable_pdf` to allow for searching for representatives in Appoint, generating the PDF, and sending the email notification. [#96246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96246)
 
