@@ -80,9 +80,9 @@ Affected applications must run a check for the presence of an MHV-Identifier (UU
 The additional steps that must be taken by affected applications if the check for an MHV-Identifier comes back as "false" are [documented in greater detail as part of Account Creation API work here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/mhv-account-creation-api.md)
 
 ## Oracle Health / Cerner Routing alerts
-The "big four" health tools must provide routing alerts for users with OH/Cerner facilities in their profile that sends them to the My VA Health portal to manage their care related to those facilities. 
+The "big four" health tools must provide routing alerts for users with OH/Cerner facilities in their profile that sends them to the My VA Health portal to manage their care related to those facilities. Once the My VA Health portal is fully integrated and combined with My HealtheVet on VA.gov, these alerts can be removed. 
 
-### Health tools:
+### Health tool pages:
 Anytime there is a presence of one or more OH/Cerner facilities in the profile, these alerts must display in-place on at least the entry-point page to the tool (page connected with the secondary navigation bar). There is a slightly varying design for a single facility vs. multiple OH/Cerner facilities in the profile. All teams currently have these alerts implemented and in-place within their applications, but the designs and content varies. All teams should standardize their alerts to reflect the standardized template version in [Figma here](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Sign-In?node-id=263-24267&p=f&t=lCwneRQNRv8cAMdX-0). 
 
 Tool teams will need to provide their own: 
