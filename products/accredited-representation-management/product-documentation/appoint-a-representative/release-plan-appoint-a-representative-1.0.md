@@ -12,7 +12,7 @@ Feature Toggle/flag:
 - [x] All "launch blocking" items from Staging Review have been addressed
 - [ ] All "should fix" items from QA have been addressed
 - [ ] ~Contact Center Review is complete~ Ok to release without full Contact Center approval ([Slack reference](https://dsva.slack.com/archives/CNCEXNXK4/p1735929825732069?thread_ts=1735929310.311269&cid=CNCEXNXK4)).
-- [ ] Privacy, Security, IA Readiness Review is complete
+- [x] Privacy, Security, IA Readiness Review is complete
 
 #### Content Preparation
 - [x] The react widget has been added to the landing page
@@ -20,9 +20,9 @@ Feature Toggle/flag:
 
 #### Technical Preparation
 The following will take place right before Staged Rollout:
-- [ ] Wrap the landing page react widget in the frontend feature toggle `appoint_a_representative_enable_frontend`
-- [ ] Wrap the product in the frontend feature toggle `appoint_a_representative_enable_frontend` [#99874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99874)
-- [ ] Enable the application in Production [#99874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99874)
+- [x] Wrap the landing page react widget in the frontend feature toggle `appoint_a_representative_enable_frontend`
+- [x] Wrap the product in the frontend feature toggle `appoint_a_representative_enable_frontend` [#99874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99874)
+- [x] Enable the application in Production [#99874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99874)
 - [ ] Enable backend feature flag `use_veteran_models_for_appoint` to use the legacy tables (since the Accreditation API is not yet available) [#96246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96246)
 - [ ] Enable backend feature flag `appoint_a_representative_enable_pdf` to allow for searching for representatives in Appoint, generating the PDF, and sending the email notification. [#96246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96246)
 
