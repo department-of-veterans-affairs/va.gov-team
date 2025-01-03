@@ -1,4 +1,4 @@
-# 2024 VAMC page data
+
 
 - [Satisfaction scores](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#satisfaction-scores)
 - [VAMC editor and facility stats](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#vamc-editor-and-facility-stats)
@@ -286,6 +286,109 @@ Women Veteran care	|	2,131	|	1,991	|	2,016	|	1,946	|	1,813	|	1,695	|
 Wound care and ostomy	|	151	|	143	|	140	|	162	|	141	|	122	|
 
 </details>
+
+<details>
+<summary>July - December 2024 </summary>
+Source: GA4
+
+|	Service	|	July	|	August	|	September	|	October	|	November	|	December	|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| Adaptive sports	|	299	|	338	|	317	|	303	|	302	|	235	|
+|	Addiction and substance use care	|	3082	|	3308	|	2798	|	2801	|	2406	|	2606	|
+|	Advice nurse|	2043	|	2102	|	1888	|	2020	|	1718	|	1969	|
+|	Allergy, asthma and immunology|	264	|	378	|	465	|	437	|	370	|	362	|
+| Amputation care	|	379	|	351	|	283	|	330	|	336	|	319	|
+|	Anesthesia	|	374	|	419	|	398	|	419	|	376	|	417	|
+|	Audiology and speech|	8455	|	8671	|	7611	|	7657	|	7180	|	6834	|
+|	Bariatric surgery|	104	|	112	|	83	|	84	|	76	|	112	|
+|	Blind and low vision rehabilitation	|	927	|	1036	|	972	|	862	|	866	|	798	|
+|	Cancer care	|	840	|	1071	|	859	|	941	|	865	|	890	|
+| Cardiology|	3628	|	3443	|	3272	|	3379	|	3159	|	3526	|
+| Cardiovascular surgery	|	376	|	352	|	307	|	324	|	308	|	322	|
+|	Caregiver support	|	2850	|	2984	|	2636	|	2447	|	2272	|	2410	|
+|	Chiropractic	|	1043	|	1358	|	1137	|	1073	|	994	|	1031	|
+| Colon and rectal surgery	|	52	|	115	|	84	|	72	|	88	|	100	|
+|	Community engagement	|	0	|	24	|	8	|	32	|	12	|	8	|
+|	Complementary and integrative health|	430	|	478	|	387	|	340	|	352	|	403	|
+| COVID-19 vaccines	|	1031	|	1772	|	3887	|	3290	|	1630	|	1225	|
+| Critical care	|	546	|	575	|	533	|	582	|	454	|	545	|
+|	Dental/oral surgery|	8639	|	8612	|	8212	|	8085	|	7870	|	7236	|
+|	Dermatology|	1988	|	2179	|	1861	|	1951	|	1732	|	1787	|
+|	Diabetes care |	556	|	599	|	527	|	500	|	539	|	644	|
+| Emergency care	|	2097	|	2327	|	2113	|	2073	|	2076	|	2128	|
+|	Endocrinology	|	692	|	677	|	665	|	677	|	651	|	693	|
+|	Gastroenterology|	2002	|	2123	|	1903	|	1796	|	1774	|	1721	|
+|	Genomic medicine/medical genetics	|	32	|	20	|	24	|	16	|	24	|	40	|
+|	Geriatrics|	2104	|	2286	|	1913	|	1835	|	1734	|	1791	|
+|	Gynecology	|	639	|	753	|	594	|	587	|	603	|	580	|
+|	Hematology/oncology|	1027	|	1355	|	1110	|	1085	|	773	|	994	|
+| HIV/hepatitis care	|	130	|	104	|	84	|	119	|	116	|	72	|
+| Homeless Veteran care	|	4065	|	4105	|	3742	|	3965	|	3967	|	3638	|
+|	Hospital medicine|	127	|	170	|	106	|	102	|	116	|	88	|
+|	 Infectious disease	|	342	|	398	|	374	|	355	|	398	|	401	|
+|	Internal medicine|	434	|	519	|	567	|	490	|	437	|	476	|
+|	Intimate partner violence support	|	188	|	180	|	195|	151	|	160	|	203
+|	Laboratory and pathology|	11926	|	12314	|	11496	|	11926	|	10524	|	10848	|
+|	 LGBTQ+ Veteran care	|	1564	|	1825	|	1544	|	1601	|	1468	|	1434	|
+|	 Mental health care	|	15688	|	15622	|	14004	|	14465	|	12618	|	13021	|
+|	Military sexual trauma care|	1130	|	1141	|	1101	|	1084	|	1033	|	846	|
+|	Minority Veteran care	|	1479	|	1623	|	1569	|	1589	|	1442	|	1359	|
+|	MOVE! weight management|	2150	|	1927	|	1795	|	1768	|	1699	|	1801	|
+|	 My HealtheVet coordinator|	2610	|	2844	|	2833	|	2743	|	2342	|	2676	|
+|	Nephrology|	758	|	727	|	792	|	686	|	642	|	674	|
+|	Neurology	|	2127	|	2061	|	2028	|	2001	|	1803	|	1896	|
+|	Neurosurgery	|	291	|	321	|	338	|	347	|	282	|	320	|
+|	Nutrition, food, and dietary care	|	2649	|	2772	|	2430	|	2599	|	2259	|	2352	|
+|	 Ophthalmology|	2521	|	2620	|	2659	|	2488	|	2042	|	2588	|
+|	 Optometry|	5777	|	5849	|	5541	|	5354	|	4770	|	5162	|
+|	Orthopedics	|	2154	|	1999	|	1979	|	2233	|	1642	|	1851	|
+|	Otolaryngology	|	469	|	645	|	491	|	578	|	518	|	550	|
+|	Outpatient surgery|	64|	48	|	74	|	60	|	79	|	68	|
+| Pain management |	1598	|	1738	|	1694	|	1424	|	1310	|	1408	|
+|	Palliative and hospice care|	1069	|	1087	|	969	|	1076	|	929	|	1045	|
+|	Patient advocates	|	3748	|	4085	|	3970	|	4066	|	3498	|	3585	|
+|	Pharmacy|	5933	|	5966	|	5322	|	5709	|	5394	|	7884	|
+|	Physical medicine and rehabilitation|	2411	|	2219	|	2125	|	2067	|	1748	|	2011	|
+|	Physical therapy, occupational therapy and kinesiotherapy|	3361	|	3176	|	3034	|	3140	|	2794	|	2917	|
+| Plastic and reconstructive surgery	|	384	|	389	|	411	|	288	|	331	|	359	|
+|	Podiatry|	2425	|	2831	|	2398	|	2443	|	1953	|	2273	|
+| Polytrauma and traumatic brain injury	|	299	|	418	|	410	|	385	|	288	|	292	|
+|	Primary care|	24274	|	23869	|	22151	|	22695	|	20026	|	21359	|
+|	Prosthetics and rehabilitation|	2586	|	3186	|	2139	|	2219	|	1806	|	1878	|
+|	Psychiatry|	1210	|	1104	|	1134	|	1215	|	938	|	978	|
+|	Psychology|	878	|	910	|	946	|	925	|	858	|	823	|
+|	PTSD care|	1893	|	1937	|	2049	|	1789	|	1663	|	1628	|
+|	Pulmonary medicine|	1124	|	1175	|	1035	|	1554	|	1223	|	1119	|
+|	Radiation oncology|	339	|	292	|	279	|	188	|	275	|	256	|
+|	Radiology|	5114	|	5548	|	4828	|	5643	|	4193	|	4721	|
+|	Recreation and creative arts therapy	|	658	|	897	|	719	|	720	|	713	|	613	|
+|	Registry exams|	339	|	370	|	440	|	439	|	280	|	402	|
+|	Rehabilitation and extended care|	3209	|	3158	|	2905	|	3193	|	2811	|	2954	|
+| Returning service member care	|	836	|	928	|	916	|	925	|	739	|	810	|
+|	Rheumatology|	511	|	490	|	498	|	403	|	427	|	439	|
+|	Sleep medicine	|	1584	|	1444	|	1382	|	1425	|	1229	|	1330	|
+|	Smoking and tobacco cessation|	395	|	431	|	324	|	360	|	288	|	276	|
+|	Social work|	6793	|	6937	|	6714	|	6477	|	5527	|	5777	|
+| Spinal cord injuries and disorders	|	886	|	1025	|	1045	|	984	|	1035	|	795	|
+|	Suicide prevention|	940	|	1038	|	1022	|	1016	|	836	|	819	|
+|	Surgery	|	2434	|	2681	|	2231	|	2223	|	2140	|	2255	|
+|	Surgical oncology	|	16	|	20	|	40	|	28	|	36	|	44	|
+|	Telehealth|	2143	|	2094	|	2173	|	2056	|	1970	|	2115	|
+|	Thoracic surgery|	99	|	148	|	152	|	132	|	131	|	124	|
+| Toxic exposure screening|	1023	|	988	|	1035	|	873	|	884	|	894	|
+|	Transplant surgery|	191	|	171	|	136	|	116	|	112	|	148	|
+|	Travel reimbursement|	824	|	817	|	861	|	921	|	695	|	636	|
+|	Urgent care|	1452	|	1531	|	1289	|	1435	|	1407	|	1810	|
+|	Urology	|	1470	|	1615	|	1308	|	1418	|	1509	|	1487	|
+|	Vascular surgery	|	312	|	302	|	384	|	382	|	288	|	427	|
+|	Veteran readiness and employment programs	|	693	|	806	|	654	|	647	|	622	|	642	|
+|	Virtual Health Resource Center (VHRC)|	40	|	20	|	24	|	40	|	28	|	32	|
+|	Wheelchair and mobility|	112	|	164	|	184	|	176	|	156	|	206	|
+|	Whole health|	2764	|	2899	|	2768	|	2732	|	2476	|	2551	|
+|	Women Veteran care|	5630	|	5775	|	5134	|	5153	|	4926	|	4911	|
+| Wound care and ostomy|	148	|	232	|	164	|	224	|	172	|	195	|										
+
+ </details>
 
 ## Pageviews for selected pages 
 
