@@ -516,9 +516,7 @@ On the Agent Orange screen, 2 participants wondered if they should count contact
 | **11** | Participants did not know that fields were optional-- but likely would have felt pressure to fill them out either way. | Low | High | None of our 9 participants were aware that the date fields were optional. | Users struggled to remember exact dates.  |
 | **12** | Additional information sprinkled throughout the TE flow was rarely read by Veterans. | Low | Medium | 6 out of 9 users did not click on the TE Additional Information link. | Information placed under additional information links may NOT be read by users. |
 | **13** | Some participants who served in Vietnam expected to see the Agent Orange (AO)  appear earlier in the flow. | Low | Low | 2 out of 9 were surprised at the location of the AO section. 2 out of 9 were confused that no dates were asked in the AO section. | The ordering of the pages, Date, Date, Toxin, may not make sense to all users, especially those from the Vietnam War era. |
-| **14** | A majority of Veterans were already familiar with the Pact Act.
-
-Some were unsure on how to connect toxic exposure conditions with their service history without medical advice.  Some were unsure where to go to on VA.gov  to file. | Low | Low | 8 out of 9 were familiar with the PACT Act. 1 out of 9 mentioned being unsure on how to connect TE conditions with their service history without medical advice.  | Marketing of the PACT act appears to be working and Veterans are familiar with the concept. |
+| **14** | A majority of Veterans were already familiar with the Pact Act. Some were unsure on how to connect toxic exposure conditions with their service history without medical advice.  Some were unsure where to go to on VA.gov  to file. | Low | Low | 8 out of 9 were familiar with the PACT Act. 1 out of 9 mentioned being unsure on how to connect TE conditions with their service history without medical advice.  | Marketing of the PACT act appears to be working and Veterans are familiar with the concept. |
 
 ### 
 
