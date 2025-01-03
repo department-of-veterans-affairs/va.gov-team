@@ -19,11 +19,12 @@ Feature Toggle/flag:
 
 #### Technical Preparation
 The following will take place right before Staged Rollout:
-- [ ] The Appoint a Representative product has been wrapped in the frontend feature toggle `appoint_a_representative_enable_frontend`
-- [ ] The Appoint a Representative applicaton is enabled in Production
-- [ ] Enable backend feature flag `use_veteran_models_for_appoint` to use the legacy tables (since the Accreditation API is not yet available)
-- [ ] Enable backend feature flag `appoint_a_representative_enable_pdf` to allow for searching for representatives in Appoint, generating the PDF, and sending the email notification.
-- [ ] Any lingering issues that are needed to address prior to rollout?
+- [ ] The product has been wrapped in the frontend feature toggle `appoint_a_representative_enable_frontend` [#99874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99874)
+- [ ] The applicaton is enabled in Production [#99874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99874)
+- [ ] Enable backend feature flag `use_veteran_models_for_appoint` to use the legacy tables (since the Accreditation API is not yet available) [#96246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96246)
+- [ ] Enable backend feature flag `appoint_a_representative_enable_pdf` to allow for searching for representatives in Appoint, generating the PDF, and sending the email notification. [#96246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96246)
+
+Any uncovered issues or requirements that should be addressed prior to rollout?
 
 #### Go/No Go meeting Friday January 3, 2025
 - [ ] review the release plan with your team.
@@ -61,7 +62,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ## Staged Rollout Schedule
 **Go/No Go meeting Friday January 3, 2025**
-1. Stage A: 10% of users on 1/6 (Monday) + [implement Datadog monitoring in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92287)
+1. Stage A: 10% of users on 1/6 (Monday) + implement Datadog monitoring in Production [#92287](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92287)
 2. Stage B: 50% of users on 1/8 (Wednesday)
 3. Stage C: 100% of users on 1/13 (Monday) + launch best bets for an initial boost to visibility + publish entry points
 
