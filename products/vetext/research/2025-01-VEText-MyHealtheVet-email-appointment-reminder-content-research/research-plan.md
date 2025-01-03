@@ -221,7 +221,7 @@ When would you like sessions scheduled?
 
 01/21/2025 3:15-5:15pm ET
 
-01/22/2025 12-3:30pm ET
+01/22/2025 1:30-5:00pm ET
 
 01/23/2025 12-3:30pm ET
 
