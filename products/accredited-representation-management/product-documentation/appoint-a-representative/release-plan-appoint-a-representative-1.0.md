@@ -78,13 +78,14 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ### Staged Rollout Metrics
 
-The following metrics will be considered before advancing rollout to the next stage:
+The following will be considered before advancing rollout to the next stage:
 
 1. Errors in Datadog
 2. Google Analytics traffic to Appoint a Representative
    1. Product growth: total users, new users, sessions, page views
    2. Engagement: average sessions duration, views per session, average time on page
    3. Navigation: top previous path sessions
+3. Test with a user in Production to confirm the experience functioning as expected
 
 ### Stage A Results (Jan 6-8, 2025)
 
