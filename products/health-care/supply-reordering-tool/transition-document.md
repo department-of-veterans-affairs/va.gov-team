@@ -6,6 +6,7 @@ Supply Reordering on VA.gov seeks to allow Veterans to order different medical d
 The goal of this team after successfully launching CPAP supplies has been to add 3 additional device supply types to the form - nebulizers, TENS units and blood pressure monitors. 
 
 ### Timeline & Current Status
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95836)
 
 ### Stakeholder Management
 - Denver Logistics Center : Responsible for shipping out supplies, manage any issues with orders and our app uses their data to show Veterans details about previous orders/what supplies they have available to order. 
