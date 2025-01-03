@@ -33,8 +33,8 @@ In Sprint 25 the team provided support for multiple features and initiatives, ou
    * (CES-1357) Clinical Encounter Service was updated for the rules engine to utilize ces-ig objects instead of native FHIR, aligning with Drools’ current implementation.
    * (CES-1199) A bug was detected in Cerner Fhir Adapter where Department of Defense (DoD) appointments were being returned as appointments in the va.gov VAOS application. This bug was addressed to ensure that only VA appointments are returned.
 * #### Vets API Logic Integration Support
-   * (VPG-273) The logic for determining the type of an appointment was migrated from the front end to VetsAPI. Now VetsAPI can handle this logic internally and set the appointmentType value accordingly to ensure consistency and streamline the process.
-   * (VPG-29) Finalized research on Telehealth Appointments.
+   * (VPG-273)The logic for determining the type of an appointment was previously being done in vets-website and the mobile app.  This has now been moved into vets-api to ensure consistency and allow all vets-api consumers to make use of it.
+   
 * #### Appointment Requests
    * (VPG-23) VetsAPI Patient Gateway was updated to use ces-ig-java-lib for CesSlot and migrated to utilize CesAppointment.**
 * #### Testing/Admin/Operational Support
@@ -42,6 +42,7 @@ In Sprint 25 the team provided support for multiple features and initiatives, ou
    * (CES-1291) CES-IG-Java-Library, a library used by VetsAPI Patient Gateway, was updated to add missing fluent setters for CESAppointment.
    * (CES-1350) Clinical Encounter Service updated existing appointment tests to leverage methods in SlotUtils, preventing time zones and holidays from breaking integration tests.
    * (CES-1141) Clinical Encounter Service updated testing versions to reflect the current Vista Clinic Administration Services’ (VCAS) versioning. This ensures consistency with the VCAS version used in production for clinic data.
+   * (VPG-29) Finalized research on Telehealth Appointments.
 
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
