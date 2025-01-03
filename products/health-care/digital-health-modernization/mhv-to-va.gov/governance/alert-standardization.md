@@ -80,7 +80,25 @@ Affected applications must run a check for the presence of an MHV-Identifier (UU
 The additional steps that must be taken by affected applications if the check for an MHV-Identifier comes back as "false" are [documented in greater detail as part of Account Creation API work here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/mhv-account-creation-api.md)
 
 ## Oracle Health / Cerner Routing alerts
-Guidance coming soon.
+The "big four" health tools must provide routing alerts for users with OH/Cerner facilities in their profile that sends them to the My VA Health portal to manage their care related to those facilities. 
+
+### Health tools:
+Anytime there is a presence of one or more OH/Cerner facilities in the profile, these alerts must display in-place on at least the entry-point page to the tool (page connected with the secondary navigation bar). There is a slightly varying design for a single facility vs. multiple OH/Cerner facilities in the profile. All teams currently have these alerts implemented and in-place within their applications, but the designs and content varies. All teams should standardize their alerts to reflect the standardized template version in [Figma here](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Sign-In?node-id=263-24267&p=f&t=lCwneRQNRv8cAMdX-0). 
+
+Tool teams will need to provide their own: 
+* Content for the "call to action" in the template alert heading that is most relevant to their health tool (e.g. "manage your appointments")
+* Deep-link URL for the tool page they need to route users to within the My VA Health portal
+
+#### Placement
+The alerts should display beneath the page H1 and lede text (if applicable), and before any dynamic or conditional data for the user. Example below:
+
+#### Example screenshot:
+<details><summary>Medical records landing page: screenshot of OH/Cerner routing alert</summary>
+<img width="860" alt="Screenshot 2025-01-03 at 3 46 28 PM" src="https://github.com/user-attachments/assets/d76ee169-fdb7-48ed-a146-0d3dce78c14b" />
+</details>
+
+### Benefit hub pages: 
+Benefit hub pages corresponding with these tools currently have more complex versions of these alerts in place. We do not plan to update those alerts, and instead will remove them from benefit hub pages when the unauth page URLs for each tool are updated to point to the new version of the tool on VA.gov, by Milestone 1 deadline at the latest (ETA March 2025). More information about this [transition plan is available here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/transition/benefit-hub-page-updates.md).
 
 ## 404 Page not found alerts 
 Guidance coming soon.
