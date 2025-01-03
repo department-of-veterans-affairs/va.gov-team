@@ -1,5 +1,5 @@
 # Product outline for Ask VA
-Last updated by @beckyphung on December 18, 2024
+Last updated by @beckyphung on January 3, 2025
 
 **Jump to:**
 - [Overview](#overview)
