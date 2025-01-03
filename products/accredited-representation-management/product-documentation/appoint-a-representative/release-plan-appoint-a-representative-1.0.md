@@ -29,10 +29,16 @@ The following will take place right before Staged Rollout:
 Any uncovered issues or requirements that should be addressed prior to rollout?
 
 #### Go/No Go meeting Friday January 3, 2025
-- [ ] review the release plan with your team.
-- [ ] review the plan with your OCTO representative.
+- [x] review the release plan with your team.
+- [x] review the plan with your OCTO representative.
 
-**Verdict:🔮**
+**Verdict:Conditional Go**
+
+- We will be ready to enter Stage A (10%) when most reamaining issues in Sprint 11 are completed.
+
+- We will be ready to enter Stage B (50%) after the two remaining larger isues are completed: 
+   - [Add Organization address validation to Trexler File process job](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96247)
+   - [Phone Number error does not match design system](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96854)
 
 ***
 
