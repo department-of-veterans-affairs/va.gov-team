@@ -7,7 +7,7 @@ The goal of this team after successfully launching CPAP supplies has been to add
 
 ### Timeline & Current Status
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95836)
-- UX design - LINK
+- UX design - [Figma](https://www.figma.com/design/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?node-id=1164-12192&p=f&t=vtGlOc40Zs38yFHv-0)
 - Use cases / test cases - LINK
 
 ### Stakeholder Management
