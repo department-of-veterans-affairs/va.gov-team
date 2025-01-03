@@ -94,7 +94,7 @@ The alerts should display beneath the page H1 and lede text (if applicable), and
 
 #### Example screenshot:
 <details><summary>Medical records landing page: screenshot of OH/Cerner routing alert</summary>
-<img width="860" alt="Screenshot 2025-01-03 at 3 46 28 PM" src="https://github.com/user-attachments/assets/d76ee169-fdb7-48ed-a146-0d3dce78c14b" />
+<img width="675" alt="Screenshot 2025-01-03 at 3 53 51 PM" src="https://github.com/user-attachments/assets/b717121f-05d0-4881-9c99-d1bd1fa7e1b5" />
 </details>
 
 ### Benefit hub pages: 
