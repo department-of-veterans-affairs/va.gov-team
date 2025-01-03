@@ -14,10 +14,13 @@ Feature Toggle/flag:
 - [ ] Privacy, Security, IA Readiness Review is complete
 
 #### Content Preparation
-- [ ] The react widget has been added to the landing page
+- [x] The react widget has been added to the landing page
 - [x] Entry points to our landing page are ready to be added to the "About VA Form" pages for the [21-22](https://www.va.gov/find-forms/about-form-21-22/) and [21-22a](https://www.va.gov/find-forms/about-form-21-22a) 
 
 #### Technical Preparation
+The following will take place right before Staged Rollout:
+- [ ] The Appoint a Representative product has been wrapped in the frontend feature toggle `appoint_a_representative_enable_frontend`
+- [ ] The Appoint a Representative applicaton is enabled in Production
 - [ ] Enable backend feature flag `use_veteran_models_for_appoint` to use the legacy tables (since the Accreditation API is not yet available)
 - [ ] Enable backend feature flag `appoint_a_representative_enable_pdf` to allow for searching for representatives in Appoint, generating the PDF, and sending the email notification.
 - [ ] Any lingering issues that are needed to address prior to rollout?
