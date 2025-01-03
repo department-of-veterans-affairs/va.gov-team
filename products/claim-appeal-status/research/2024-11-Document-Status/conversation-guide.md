@@ -23,30 +23,28 @@ Slack for real-time feedback from observers.
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
 
-## Intro - 5 minutes
-
-Thanks for joining us today! My name is [Skyler/Gary], and I'm going to be guiding you through the session today. I'm on a team that works with the VA on the VA.gov website. Today we're going to talk about disability compensation claims and the Claim Status Tool.
+# # Intro - 5 minutes
+Thanks for joining us today! My name is [Gary/Skyler], and I'm going to be guiding you through the session today. I'm on a team that works with the VA on the VA.gov website. Today we're going to talk about disability compensation claims and the Claim Status Tool.
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
-   - If yes: Admit observers.
-   - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov.
-   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly.
-   - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. These clips will not be shared outside of the VA. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
+* **This entire session should take about 60 minutes.** I want to be sure to end on time, so I may occasionally prompt you with the next question or topic.
+* **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+* **Your participation in this interview is completely voluntary.** If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
+* I want you to know that although I work on the VA.gov website, I have no access to your records or benefits, nor do I have the ability to change your claims or benefits in any way. I am not a specialist in benefits. My primary focus is to understand your experience with the website.
+* The people from Perigean who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. Is it okay with you to have  [specific number] people join us to observe this session?
+  * If yes: Admit observers.
+  * Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov.
+  * Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
+* In this session, we’ll ask you to use a test version of the website. This is a demo tool that may **not** function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
+* I’d like to ask your permission to record the screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments would be attributed to you directly. Are you okay with me recording my screen and audio during this session?
 
+⠀
 *Start recording.*
 
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
+* **I have started recording.** I'd like to confirm: Are you okay if I record my screen and the audio as we talk today?
+* **Are you ok if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
+
 
 ## Warm-up Questions (Optional) - 5 minutes
 
