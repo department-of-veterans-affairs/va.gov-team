@@ -3,6 +3,7 @@ The "Enrollment Card" pattern will enable authenticated users to quickly underst
 
 ### Problem Statement
 Veterans often struggle to find, understand, and act on their benefits information due to:
+- Difficulty in finding benefits information in one place.
 - Inconsistent presentation of benefits data across VA systems.
 - A lack of personalized recommendations for additional benefits eligibility.
 - Overwhelming or redundant information that increases cognitive load and discourages engagement.
@@ -19,7 +20,7 @@ This fragmented experience creates inefficiencies and missed opportunities for V
 - Increased Benefits Engagement: More Veterans actively explore and utilize additional benefits opportunities.
 - Reduced Support Requests: Clear and consistent benefits information decreases calls and inquiries about eligibility or benefit status.
 - Improved Satisfaction: Enhanced user satisfaction contributes to meeting VA’s digital experience goals, as reflected in metrics such as CSAT scores.
-- Cross-Team Adoption: A reusable pattern promotes consistency across VA products, driving efficiency in product development.
+- Cross-Team Adoption: A reusable pattern promotes consistency across VA products, driving efficiency in product development by reduction of custom code.
 
 ## Discovery
 We will validate assumptions and identify opportunities through:
