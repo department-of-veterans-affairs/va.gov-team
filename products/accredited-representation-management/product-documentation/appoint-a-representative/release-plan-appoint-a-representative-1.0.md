@@ -81,24 +81,40 @@ While we cannot think of any events that would be critical enough to merit a rol
 The following metrics will be considered before advancing rollout to the next stage:
 
 1. Errors in Datadog
+2. Google Analytics traffic to Appoint a Representative
+   1. Product growth: total users, new users, sessions, page views
+   2. Engagement: average sessions duration, views per session, average time on page
+   3. Navigation: top previous path sessions
 
 ### Stage A Results (Jan 6-8, 2025)
 
 1. Errors in Datadog
+2. Google Analytics traffic to Appoint a Representative
+   1. Product growth: total users, new users, sessions, page views
+   2. Engagement: average sessions duration, views per session, average time on page
+   3. Navigation: top previous path sessions
 4. What changes (if any) need to be implemented before proceeding to the next rollout stage? nothing at this time, ready to move into Stage B
 
 ### Stage B Results (Jan 8-13, 2025)
 
 1. Errors in Datadog
+2. Google Analytics traffic to Appoint a Representative
+   1. Product growth: total users, new users, sessions, page views
+   2. Engagement: average sessions duration, views per session, average time on page
+   3. Navigation: top previous path sessions
 3. What changes (if any) need to be implemented before proceeding to the next rollout stage? nothing at this time, ready to move into Stage C
 
 ## Post Launch Metrics
 
 _Link to DOMO dashboards TBD_
 
-### 1-Week Results (Jan 13-19, 2025)
+### 1-Week Results Post-Launch (Jan 13-19, 2025)
 
-1. **Errors in Datadog**: 
+1. **Errors in Datadog**:
+2. Google Analytics traffic to Appoint a Representative
+   1. Product growth: total users, new users, sessions, page views
+   2. Engagement: average sessions duration, views per session, average time on page
+   3. Navigation: top previous path sessions
 12. **Contact Center calls (MyVA411)**: 
 13. **Feedback survey submmissions (Medallia)**: 
 
@@ -107,9 +123,13 @@ _Link to DOMO dashboards TBD_
 **OKRs:**
 
 
-### 1-Month Results (Jan 13 - Feb 12, 2025)
+### 1-Month Results Post Launch (Jan 13 - Feb 12, 2025)
 
-1. **Errors in Datadog**: 
+1. **Errors in Datadog**:
+2. 2. Google Analytics traffic to Appoint a Representative
+   1. Product growth: total users, new users, sessions, page views
+   2. Engagement: average sessions duration, views per session, average time on page
+   3. Navigation: top previous path sessions
 12. **Contact Center calls (MyVA411)**: 
 13. **Feedback survey submmissions (Medallia)**: 
 
