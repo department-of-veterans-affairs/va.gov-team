@@ -10,6 +10,7 @@ Feature Toggle/flag:
 
 #### Platform Preparation
 - [x] All "launch blocking" items from Staging Review have been addressed
+- [ ] All "should fix" items from QA have been addressed
 - [ ] ~Contact Center Review is complete~ Ok to release without full Contact Center approval ([Slack reference](https://dsva.slack.com/archives/CNCEXNXK4/p1735929825732069?thread_ts=1735929310.311269&cid=CNCEXNXK4)).
 - [ ] Privacy, Security, IA Readiness Review is complete
 
