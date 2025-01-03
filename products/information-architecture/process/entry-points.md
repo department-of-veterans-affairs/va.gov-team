@@ -1,6 +1,6 @@
 # Entry Point and Crosslinks
 
-An **entry point** is a CTA (can be a link, but is typically something more prominent) placed on a page or in navigation, where it is the primary intention of that page or component.  It is how a visitor would navigate to/discover a feature. Without an entry point, there is no way to navigate to a feature.
+An **entry point** is essentially a link to a product, tool, or feature that allows a user to navigate to it.
 
 **Crosslinks** are links on a page or in navigation that are secondary to the page or area's purpose, but were placed there to promote contextual navigation for users.
 
