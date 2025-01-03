@@ -70,10 +70,10 @@ Before we head over to the website, we would like to start with a few warm-up qu
    IF YES - have you used the Yellow Ribbon Tool?
    IF YES - What was your experience like?
 
-Thank you for answering these questions, now we will move into the first task.
+Thank you for answering these questions. For this usability research session, we have pre-selected an institution that participates in the Yellow Ribbon program. Now we will move into the first task. 
 
 ## First Task: [Institution details review] - 7 minutes
-For this first task, we have pre-selected an institution that participates in the YR program.
+
 - Step 1: Take a moment to go through the details provided for Columbia University in the City of New York.
 - Step 2: Go to Yellow Ribbon Program information.
 
