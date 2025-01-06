@@ -1,6 +1,6 @@
 # 10-10EZ Endpoint Monitoring Playbook
 
-_last updated: 09-23-2024_
+_last updated: 01-06-2025_
 
 ## Overview
 
