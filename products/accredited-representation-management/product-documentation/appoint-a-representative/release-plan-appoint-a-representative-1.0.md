@@ -67,6 +67,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 **Rollout date range: January 6-13, 2025**
 - Limited production access to the Appoint a Representative application AND the related entry point on our landing page will be controlled through the frontend feature toggle `appoint_a_representative_enable_frontend`
 - Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed above)
+- For every 10% of users, we expect roughly 70 sessions per day.
 
 ## Staged Rollout Schedule
 **Go/No Go meeting Friday January 3, 2025**
