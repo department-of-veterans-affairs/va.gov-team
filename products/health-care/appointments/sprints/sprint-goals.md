@@ -3,7 +3,7 @@
 🟦 BE 🟩 FE 🟧 UX 🟪 PM   ✔️ Done, ❗High Priority, ⛔ Blocked, 🚧 Rolling Over, ⏱️ Dependency
 
 > combine the UX and eng boards in this view
-## FUTURE SPRINT 24 - 1/8/2025-1/21/2025
+## FUTURE SPRINT 1 - 1/8/2025-1/21/2025
 
 ## SPRINT 23 - 12/25/2024-1/7/2025
 
@@ -23,21 +23,22 @@ All issues in that were closed in this timeframe:
     - 🚧 🟩 [Add location and typeOfCare arguments and functionality to patient relationships #98864](98864)
  
 - **VAOS tech debt**
-    - ✔️ 🟩 Use platform's renderWithStoreAndRouter #96542(96542)
-    - ✔️ 🟩 Remove unused formSubmitTransformers files #96553(96553)
-    - ✔️ 🟩 [Spike] Document empty/error state logic for VA request #69855(69855)
+    - ✔️ 🟩 [Use platform's renderWithStoreAndRouter #96542](96542)
+    - ✔️ 🟩 [Remove unused formSubmitTransformers files #96553](96553)
+    - ✔️ 🟩 [[Spike] Document empty/error state logic for VA request #69855](69855)
  
 - **Community Care**
-    - ✔️ 🟩 [Spike] Document empty/error state logic for community care appointment #69852(69852)
-    - ✔️ 🟩 [Spike] Document empty/error state logic for VA phone appointment #69851(69851)
+    - ✔️ 🟩 [[Spike] Document empty/error state logic for community care appointment #69852](69852)
+    - ✔️ 🟩 [[Spike] Document empty/error state logic for VA phone appointment #69851](69851)
  
 - **Appointments UX Enhancements 2025**   
-    - ✔️ 🟩 Open directions and "Need Help" section links open in the same tab #96729(96729)
-    - ✔️ 🟩 Indicate that links to profile open in a new tab #97372(97372)
-    - ✔️ 🟩 Update VAOS default font size to match normalization #96063(96063)
-    - ✔️ 🟩 Update the OH redirect alert on the VAOS home page #96736 96736)
-    - 🟩 Update review page for direct schedule #96056(96056)
-    - 🟩 Add the link to the Facility Name on the Appointment Details Page #89129(89129)
+    - ✔️ 🟩 [Open directions and "Need Help" section links open in the same tab #96729](96729)
+    - ✔️ 🟩 [Indicate that links to profile open in a new tab #97372](97372)
+    - ✔️ 🟩 [Update VAOS default font size to match normalization #96063](96063)
+    - ✔️ 🟩 [Update the OH redirect alert on the VAOS home page #96736](96736)
+    - 🟩 [Update review page for direct schedule #96056](96056)
+    - 🟩 [Add the link to the Facility Name on the Appointment Details Page #89129](89129)
+
 
 ## SPRINT 22 - 12/11/2024-12/24/2024 
 
