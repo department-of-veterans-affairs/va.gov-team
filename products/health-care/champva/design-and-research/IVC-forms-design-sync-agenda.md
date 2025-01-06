@@ -1,5 +1,15 @@
 # Running Design and Research Agenda
 
+## January 06 2024
+- Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell
+	- Agenda Topics
+		- Design Roadmap Review	
+		- Discuss Multiple Claims/ Questions for CHAMVPA
+		- 1010D OHI Merge/ OHI Letters
+		- Research Opportunities
+ 		- RUM Dashboard Planning 	 
+  - ### Notes
+
 ## December 30 2024
 - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell
 	- Agenda Topics
