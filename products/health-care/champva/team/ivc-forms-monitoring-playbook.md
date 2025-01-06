@@ -1,6 +1,6 @@
 # # IVC Forms **Missing Pega Status**
 
-_last updated: 9/17/24_  
+_last updated: 1/6/25_  
 
 ## Audience 
 
@@ -38,6 +38,7 @@ Investigation
 - Ticket assignee will
   - Verify that vets-api is receiving submits from vets-website
   - Verify that files are sent successfully to s3
+    - In the event that supporting documents are not reaching S3, see [Missing Supporting Documents](#missing-supporting-documents) section below.
   - Verify that the Callback API is available
   - Determine whether the issue arose due to a deployment, either by the IVC Forms team or the PEGA team. If yes to either, notify IVC Forms PM and DM
   - If root cause has been identified as an issue in vets-website or vets-api, notify PM and DM to determine next steps with Product Owner (PO)
@@ -51,4 +52,15 @@ Resolution
 - Missing statuses can be changed to 'manually cleared' if a ticket to fix what caused the issue has been documented and sent to PM.  Notify PM that the status is being changed.
 - If traffic to the site has been altered, PO or PM will determine when to return to previous levels
   
+## Missing Supporting Documents
 
+In the event that one or more supporting document meant to accompany a user's submission does not reach S3, the following steps should be taken (in addition to all other actions listed in the [Steps section](#steps):
+
+Investigation
+- Collect the attachment IDs of all documents associated with the given form submission
+- Collect the attachment IDs of documents missing a PEGA status within that batch
+- Provide the full list of attachment IDs and their PEGA statuses to the PEGA team for analysis
+Resolution
+  - The PEGA team will provide a decision on whether or not the user needs to be contacted and asked for a resubmit of part or all of the form and its documents.
+  - Based on the PEGA team's response, work with PM, PO, and PEGA team to reach out to the affected user(s).
+ 
