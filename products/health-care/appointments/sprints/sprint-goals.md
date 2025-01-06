@@ -5,6 +5,11 @@
 > combine the UX and eng boards in this view
 ## FUTURE SPRINT 1 - 1/8/2025-1/21/2025
 
+- **Appointment details null state tracking**
+    - 🟩 [Add appointment details null state tracking - Type of Care #98976](98976)
+    - 🟩 [Add appointment details null state tracking - any null state #99006](99006)
+
+
 ## SPRINT 23 - 12/25/2024-1/7/2025
 
 <!-- 
