@@ -1,25 +1,22 @@
 # Research plan for secondary nav expansion study, Jan/Feb 2025
-# Background
+
+## Background
 Insights from MHV’s Adoption study, the Secondary Nav Comparison study, and the MHV Wayfinding study provide evidence that the MHV on VA.gov secondary navigation (abbreviated as “secondary nav” going forward) improves overall user experience of the portal. 
 
-
 Specifically, the MHV on VA.gov secondary nav has:
-
 
 Improved users’ ability to find the four main health tools (messaging, medical records, medications, and appointments).
 Enabled mobile users to have an improved navigational UX that is closer to the desktop UX.
 Facilitated users’ understanding of each page of MHV on VA.gov as part of an overall portal where users can manage their health care.
 
-
 However, these past studies have also identified continued navigational problems within the MHV on VA.gov portal:
-
 
 Health tasks that are not covered by the main four health tools currently highlighted in the secondary are still too hard to find (i.e. ordering medical supplies, getting reimbursed for travel).
 Users coming from the previous portal experience are confused by the My HealtheVet label and link within the secondary nav (which leads to the landing page), expecting it to take them back to the older portal.
 
-
 This research is intended to start to answer the question: how might we scale the secondary nav to improve on both of these navigational difficulties? 
-OCTO Priorities
+
+### OCTO Priorities
 This research supports the following OCTO priorities:
 Our digital experiences are the best way to access VA health care and benefits.
 Our platforms are the best way to deliver products at VA.
