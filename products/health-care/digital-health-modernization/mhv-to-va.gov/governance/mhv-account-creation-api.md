@@ -51,12 +51,15 @@ flowchart TD
     A[previous checks for verified account, facilities] --> D(Is the user ID-verified?)
     D --> |Yes| G(Render application)
     D --> |No| H(What tools are they trying to access?)
-    H --> |Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health + render Acct Creation API error alert}
+    H --> |Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health}
     H --> |Other health tool| J(Render application)
 ```
 
-1. All impacted applications (SM, Meds, MR) should look for an MHV-Identifier before rendering a page for users.
-2. If an MHV-Identifier (`userHasMhvAccount` selector from MPI) is not detected, these applications should redirect/route-guard the user to the MHV landing page for triage and alerting if necessary.
+1. Applications check redux state for `user.profile.mhvAccountState` to determine if the user has an MHV account.
+2. examples can be found on the [landing page](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/mhv-landing-page/selectors/hasMhvAccount.js) and in [medical records](https://github.com/department-of-veterans-affairs/vets-website/blob/da4643caadc120cdf9d88fb0bd0d6941d76ff6e1/src/applications/mhv-medical-records/containers/App.jsx#L29)
+3. All impacted applications (SM, Meds, MR) should check the above MHV-Identifier before rendering a page for users.
+4. Do we want to make an `mhvAccountState` selector available via `src/platform/mhv` so that tool teams don't need to roll their own?
+5. If an MHV-Identifier is not detected, these applications should redirect/route-guard the user to the MHV landing page for triage and alerting if necessary.
 
 ### Affected health tool applications
 Tools: Medications, Medical Records, Secure Messages
