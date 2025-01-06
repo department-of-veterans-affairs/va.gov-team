@@ -51,11 +51,11 @@ None
 
 ### Medallia Feedback Requests - Q1 2025
 
-[Q1 2025 Analysis Spreadsheet]()
+[2025 Analysis Spreadsheet]()
 
 | Week  | From       | To         | Submitted By | Ticket Link  | 
 |-------|------------|------------|--------------|--------------|
-|   1   | 12-29-2025 | 1-4-2025   | Peter Russo  |              |
+|   1   | 12-29-2024 | 1-4-2025   | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/100000             |
 |   2   | 1-5-2025   | 1-11-2025  | Peter Russo  |              |
 |   3   | 1-12-2025  | 1-18-2025  | Peter Russo  |              |
 
@@ -77,7 +77,7 @@ None
 |   49  | 12-01-2024 | 12-07-2024 | Peter Russo | [98649](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98649)         | Done  |
 |   50  | 12-08-2024 | 12-14-2024 | Peter Russo | https://github.com/department-of-veterans-affairs/va.gov-team/issues/99166 | Done       |
 |   51  | 12-15-2024 | 12-21-2024 | Peter Russo | https://github.com/department-of-veterans-affairs/va.gov-team/issues/99595 | Done   |
-|   52  | 12-22-2024 | 12-28-2024 | Peter Russo | https://github.com/department-of-veterans-affairs/va.gov-team/issues/99717       | In Progress       |
+|   52  | 12-22-2024 | 12-28-2024 | Peter Russo | https://github.com/department-of-veterans-affairs/va.gov-team/issues/99717       | Done       |
 
 
 <details>
