@@ -61,7 +61,7 @@ Investigation
 - Collect the attachment IDs of documents missing a PEGA status within that batch
   ```ruby
   # Production console in Argo CD
-  forms = IvcChampvaForm.where(pega_status: nil)
+  form_and_attachments = IvcChampvaForm.where(pega_status: nil)
   ```
 - Provide the full list of attachment IDs and their PEGA statuses to the PEGA team for analysis
 
