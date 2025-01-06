@@ -8,10 +8,13 @@ The Data Grid pattern enables viewing and augmenting large data set. All data ca
 1. The Data Grid pattern will have affordances to present large data set on an entity
 2. columns
 3. rows
-4. sorting
-5. filtering
-6. In-field text editing
-7. renderers
+4. pagination
+5. cell editors
+    - sorting
+    - filtering
+    - ordering
+    - pinning
+    - selection
 8. Meets accessibility scores by WCAG 2.1 (Section 508) (update to 2.2)
 9. Compatible and _can_ be adopted by VADS and USWDS
     * https://design.va.gov
@@ -19,8 +22,11 @@ The Data Grid pattern enables viewing and augmenting large data set. All data ca
 <br>
   
 ## Not in Scope
+Note: Prioritized as post-MVP iteration
 1. quick filter (aka multi-selection filtering)
 2. date picker (aka date selection affordance)
+3. affixing column view (aka column stays in view during horizontal scrolling)
+   - [see slack for this priority agreement ](https://dsva.slack.com/archives/C04DMDC3TS8/p1734548335437739)
 <br>
 
 ## Pilot Partners
@@ -68,6 +74,9 @@ The Lung Cancer System app’s outcome is to help the clinician review the patie
 | DaysUntilRemovalFromAtbs  | number  |
 <br>
 
+#### LCS Data Schema for Testing
+[LCS Data Schema](https://github.com/department-of-veterans-affairs/clinical-design-system/blob/main/src/lib/tests/mock/dataGrid/nestedData.tsx)
+<br>
 
 ### 2. Task Manager (TM)
 The Task Manager app’s outcome (will get this from confluence)
@@ -79,7 +88,7 @@ The Task Manager app’s outcome (will get this from confluence)
 <br>
 
 #### TM Data Values in Scope
-**1. iTask**
+**1. ITask**
 | Data Value  | Format Type |
 | ------------- | ------------- |
 | id  | number  |
@@ -96,17 +105,26 @@ The Task Manager app’s outcome (will get this from confluence)
 | comments  | string, undefined |
 <br>
 
-**2. iTaskType**
+**2. ITaskType**
 | Data Value  | Format Type |
 | ------------- | ------------- |
 | id  | number  |
 | taskType  | string  |
 <br>
 
-**3. (pending table)**
+**3. ITeam**
 | Data Value  | Format Type |
 | ------------- | ------------- |
-|   |   |
+| id  | number  |
+| teamName  | string  |
+| facility  | string, undefined  |
+| members  | string  |
+| created  | Date  |
+| isCurrUserInTeam  | boolean  |
+<br>
+
+#### TM Data Schema for Testing
+_pending_
 <br>
 
 ## Epics
@@ -121,5 +139,4 @@ _(words words, lorem ipsum and link to mural?)_
 ## Design
 - https://www.figma.com/design/PoOrLUAvo6SbIJbIJNAlM5/Datagrid?node-id=6246-3
 - https://crispy-succotash-9k23jen.pages.github.io/?path=/docs/components-grid--docs
-
 <br>
