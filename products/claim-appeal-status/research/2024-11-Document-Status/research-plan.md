@@ -88,10 +88,10 @@ We intend to use Maximum Variation Sampling as a recruitment strategy. Below is 
 ### Pilot
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: Rocio De Santiago
-* Date and time of pilot session: Jan. 9, 2025 at 2 PM
+* Date and time of pilot session: Jan. 16, 2025 at 2 PM
 
 ### Research sessions
-* Planned dates of research: Jan. 16,17 and 20-22, 2025
+* Planned dates of research: Jan. 20-24, 2025
 
 ### Length of sessions
 
