@@ -1,4 +1,4 @@
-# Research Plan - Check in with an MSA after eCheck-in Unmoderated Survey
+# Research Plan - Community Care Self-Scheduling - Unmoderated UAT
 
 ## Background
 
