@@ -8,7 +8,9 @@ The goal of this team after successfully launching CPAP supplies has been to add
 ### Timeline & Current Status
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95836)
 - UX design - [Figma](https://www.figma.com/design/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?node-id=1164-12192&p=f&t=vtGlOc40Zs38yFHv-0)
-- Use cases / test cases - LINK
+- Prior to CPAP work in 2023, this product existed under the Benefits Portfolio, for history/context of this tool, go to this [folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
+- 2023 onwards: a small group of OCTO team members worked on launching CPAP supplies on the tool in 2022, following this our goal has been to add other supply types and redesign the app to align better with the current design system and address open accessibility issues.
+  
 
 ### Stakeholder Management
 - Denver Logistics Center : Responsible for shipping out supplies, manage any issues with orders and our app uses their data to show Veterans details about previous orders/what supplies they have available to order. 
@@ -18,21 +20,9 @@ The goal of this team after successfully launching CPAP supplies has been to add
 
 
 ### User Feedback & Research
-- Current User Research 
-o	Overview of recent research findings (e.g., user interviews, surveys, feedback)
-- Customer Support Insights 
-o	How user feedback from support tickets, reviews, or customer service is handled.
-- UX and Usability Testing 
-o	Details about ongoing or upcoming usability tests, A/B testing, and any key learnings.
-- Customer Journey & Personas 
-o	Key customer personas and journey maps (if applicable).
-### Risks & Challenges
-= Product Risks 
-o	Any potential or existing risks to the product’s success, such as market competition, regulatory changes, or internal challenges.
-- Mitigation Plans 
-o	Suggested actions or strategies to mitigate identified risks.
-- Escalation Procedures 
-o	How to escalate critical issues to leadership or cross-functional teams.
+- There have been 2 user research studies done on this work within the health portfolio so far.
+- [Study 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/supply-reordering-tool/research/2024-03-Supply-Reordering-Research): A usability study to analyze the current experience of the app
+- [Study 2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/supply-reordering-tool/research/2024-04-Meds%20and%20supplies%20concept%20testing): A concept study test where combining this tool with the prescriptions/medications refill experience was explored. Why: In a previous study, there was an indication that Veterans think there's a connection between medical supplies and medications. As our team continues to iterate on the medical supplies reordering functionality to MHV on VA.gov, we need to understand where Veterans expect to find medical supplies on the auth MHV home page, and how similar or different Veterans think about medications and medical supplies. This thinking was ultimately deprioritized in favor of redesigning the current app without combining with medications as the bigger risk was the current issues with the app and there were bigger challenges in combining with medications. 
 
 ### Ongoing Tasks & Administrative Details
 - Daily/Weekly/Monthly Routine 
