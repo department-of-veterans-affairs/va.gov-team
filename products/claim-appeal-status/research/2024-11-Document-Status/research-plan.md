@@ -14,9 +14,9 @@ Silent failures occur when a Veteran submits a document, but it fails to reach d
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
+Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) does this research support? Work with your VA lead and product manager as needed.
 
-* Our platforms are the best way to deliver products at VA.
+* Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 
 ### Veteran Journey
 * This work supports a Veteran whenever they are filing a disability compensation claim, which could occur across a wide swath of the Veteran journey, ranging all the way from "Getting out" to "Aging."
