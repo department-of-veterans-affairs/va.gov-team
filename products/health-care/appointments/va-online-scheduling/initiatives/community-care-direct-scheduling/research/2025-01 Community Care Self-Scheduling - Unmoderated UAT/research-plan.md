@@ -36,7 +36,7 @@ Once recruited tests will be conducted online at the participant’s leisure.
 
 ### Research Materials
 - [Survey link]
-- [Custom recruitment registration- Version 2]
+- [Custom recruitment registration]
 
 ## Recruitment
 __ cohorts, ___ participants each, total ___ responses. Minimum threshold of ___ completed responses.
