@@ -70,7 +70,7 @@ Before we head over to the website, we would like to start with a few warm-up qu
    IF YES - have you used the Yellow Ribbon Tool?
    IF YES - What was your experience like?
 
-Thank you for answering these questions. For this usability research session, we have pre-selected an institution that participates in the Yellow Ribbon program. 
+Thank you for answering these questions. For this usability research session, we have pre-selected an institution that participates in the Yellow Ribbon program. I am going to send over the link that I'd like you to open in the chat: https://staging.va.gov/education/gi-bill-comparison-tool/institution/31937132. Will give you a moment to access that. Please go ahead and share your screen once you have it open. Are you comfortable with how to do that?
 
 ## First Task: [Institution details review] - 7 minutes
 
