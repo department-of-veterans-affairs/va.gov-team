@@ -506,7 +506,7 @@ Source: GA4
 (care coordinator pages, i.e., health-services/mental-health-care/) 
 
 <details>
- <summary> Pageviews for care coordinator pages, i.e., health-services/mental-health-care/  </summary>
+ <summary> Pageviews for care coordinator pages (i.e., health-services/mental-health-care/) </summary>
  
 |	Health service page	|	December 2023|	January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 | October 2024 | November 2024 | December 2024 | 
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:| :---:|
@@ -526,19 +526,15 @@ Source: GA4
 <details>
  <summary> Pageviews for selected pages  </summary>
 
-|	Pageviews for selected pages | January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 October 2024 | November 2024 | December 2024 | 
+|	Pageviews for selected pages | January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 | October 2024 | November 2024 | December 2024 | 
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|	Contact us 	|	 35,885 	|	 46,253 	|	 42,387 	|	 39,082 	|	 42,085 	|	40,769	 | 	36,508 | | |
-|	Location and contact information 	|	 31,515 	|	 39,671 	|	 36,985 	|	 35,033 	|	 37,147 	|	36,279	 | 35,058	|||
-|	Health services offered here 	|	 29,902 	|	 37,713 	|	 35,469 	|	 33,092 	|	 34,785 	|	32,302	 | 27,084	|||
-|	Find a VA Location 	|	 27,398 	|	 33,563 	|	 32,588 	|	 31,229 	|	 32,936 	|	33,554	 | 	30,458|||
-|	See all locations 	|	 24,096 	|	 30,057 	|	 26,827 	|	 27,297 	|	 27,082 	|	19,963	 | 	n/a|||
-|	Campus map	|	 	 37,387 	|	 27,358 	|	 29,645 	|	31,896	|	32,728	|	30,367	| | |
-|	Programs	|	  40,275 	|	 33,921 	|	 31,918 	|	33,703	|	33,700	|	28,084	| | |
-|	VA Police	|	 8,713 	|	 5,366 	|	 5,771 	|	6,563	|	7,341	|	5,489	| | |
-|	Work with us		|	 105,732 	|	 85,832 	|	 67,323 	|	69,718	|	65,622	|	54,475	| | |
-|	Events		|	 35,724 	|	 35,157 	|	 14,346 	|	5,698	|	5,673	|	67,877	| ||
-|	Stories	 	|	 27,419 	|	 16,371 	|	 10,118 	|	9,643	|	10,872	|	8,070	| | |
+|	Contact us 	|	 35,885 	|	 46,253 	|	 42,387 	|	 39,082 	|	 42,085 	|	40,769	 | 	36,508 | 160,906 | 157,480 | 161,489 | 136,499 | 125,541|
+|	Health services offered here 	|	 29,902 	|	 37,713 	|	 35,469 	|	 33,092 	|	 34,785 	|	32,302	 | 27,084	|154,754 | 142,502 | 141,449| 120,036 | 95,530|
+|	Programs	|	  40,275 	|	 33,921 	|	 31,918 	|	33,703	|	33,700	|	28,084	|153,662 | 188,795| 200,661 | 189,360 | 144,728 |
+|	VA Police	|	 8,713 	|	 5,366 	|	 5,771 	|	6,563	|	7,341	|	5,489	| 6,470 | 6,443 | 7,794 | 6,013 | 4,883| |
+|	Work with us		|	 105,732 	|	 85,832 	|	 67,323 	|	69,718	|	65,622	|	54,475	| 282,852 | 286,569 | 354,350 | 271,914 | 214,240 |
+|	Events		|	 35,724 	|	 35,157 	|	 14,346 	|	5,698	|	5,673	|	67,877	| 55,485 | 60,393 | 56,866 | 72,430 | 29,538|
+|	Stories	 	|	 27,419 	|	 16,371 	|	 10,118 	|	9,643	|	10,872	|	8,070	| 81,673 | 85,627 | 88.489 | 78,883 | 72,031 |
 
 *VA Police | MMVP launched 12/20/2023 
 
