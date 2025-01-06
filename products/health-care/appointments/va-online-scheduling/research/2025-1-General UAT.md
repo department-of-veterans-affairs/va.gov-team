@@ -1,6 +1,5 @@
+# Research Plan for General UAT, Appointments team, 01/2025 
 
-	# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
 Briefly describe the background of your product. Consider:
