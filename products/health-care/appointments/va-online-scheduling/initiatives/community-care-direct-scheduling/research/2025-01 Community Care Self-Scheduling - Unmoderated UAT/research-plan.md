@@ -32,7 +32,7 @@ This study will give us insight into if Veterans notice and understand the infor
 This research will be conducted as an unmoderated survey study using Optimal Workshop. To recruit Veterans from the pilot sites, we will add information and a link on the confirmation page of the Community Care Self-Scheduling flow. This will lead to a tailored Perigean registration form so Perigean can easily identify the participants are looking to complete our UAT survey.
 
 ### Location
-Once recruited tests will be conducted online at the participant’s leisure.
+Tests will be conducted online at the participant’s leisure. 
 
 ### Research Materials
 - [Survey link]
