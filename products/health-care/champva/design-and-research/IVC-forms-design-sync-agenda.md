@@ -9,6 +9,22 @@
 		- Research Opportunities
  		- RUM Dashboard Planning 	 
   - ### Notes
+* Design Roadmap Review
+    * No updates needed
+* Discuss Multiple Claims/ Questions for CHAMVPA
+    * We went over [this mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1735938239777/e82b16f55ca39c4028197289c331b92466ab6f87) to better understand the problem. We left some notes and further questions in the mural
+    * Discussed how the third party liability questions (work/auto related accidents) are one of the driving factors for the current proposed multiple claims flow. We should ask CHAMPVA about some more details about their process when handling these questions. 
+    * Premal wants us to prioritize user experience over lifting burden for CHAMPVA processors. However we heard that batch claims caused significant processor delays. We should research more about these delays; what it means by delays and how it may or may not contribute to lengthy reimbursement periods. Also we will ask about the ratio of the provider/beneficiary batched claims.
+    * We will want to find out if we can have users submit multiple services and dates of services on one bill similar to RX claims?
+    * Jamie will work on cleaning up questions to bring to the CHAMPVA claims stakeholder meeting on Wednesday 1-8 will also think about what is the appropriate visual to show to give more context. 
+* 1010D OHI Merge/ OHI Letters
+    * Discussed the idea of a future state of CHAMPVA that can capture other updates such as school certs, OHI, marriage similar to 1010EZR
+    * Mentioned that the OHI was built with the updates and initial enrollment in mind. We should take a look at standalone form after the integration of in the 1010d to see if we can target the content more to specifically communicate that is for updating insurance/address information
+* Research Opportunities
+    * Gave an overview of the [mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1734718276719/2519a072b8fcd048659b4e146c7ba9bf73158871)
+* RUM Dashboard Planning
+* Talked about how the 1010 team uses it, for investigating errors and or low CSAT scores/ comments
+* Shared that the 1010 team uses a 10% sample for their forms with large volume (28K -52K per month). Probably would be a higher percentage if we set it up on our CHAMPVA forms
 
 ## December 30 2024
 - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell
