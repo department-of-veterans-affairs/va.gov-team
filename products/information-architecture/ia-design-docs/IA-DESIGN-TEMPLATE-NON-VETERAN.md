@@ -18,7 +18,10 @@
 
 
 ## <a name="map"></a>IA placement<br>
-*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
+*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map).*
+
+[INSERT sitemap image or description of placment]
+
 
 
 ## <a name="non-veteran-experience-url"></a>URL and title guidance - USE IF BUILT OUTSIDE THE VETERAN-FACING EXPERIENCE
@@ -37,6 +40,8 @@ The following suggestions and guidance are provided to help you determine your f
 ## <a name="veteran-experience-url"></a>URL, H1, title tag, and breadcrumb guidance - USE IF BUILT WITHIN THE VETERAN-FACING EXPERIENCE
 *H1 and breadcrumb requirements for each modified or new page within the experience. Teams must follow established standards as documented in the [VA Design System](https://design.va.gov/).*
 *Related standards: [URLs](https://design.va.gov/components/url-standards/), [H1s (Page titles and section titles)](https://design.va.gov/content-style-guide/page-titles-and-section-titles), [Breadcrumbs](https://design.va.gov/components/breadcrumbs), [Title tags](https://design.va.gov/content-style-guide/title-tags)*
+
+The following URLs, H1s, and breadcrumbs are final.  If any changes are needed to these elements, please work with IA to review and finalize. 
 
 1) [Page name/description] **COPY AS NEEDED**
 - URL:
