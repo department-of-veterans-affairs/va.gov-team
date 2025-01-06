@@ -1,5 +1,5 @@
 # Research plan for secondary nav expansion study, Jan/Feb 2025
-Background
+# Background
 Insights from MHV’s Adoption study, the Secondary Nav Comparison study, and the MHV Wayfinding study provide evidence that the MHV on VA.gov secondary navigation (abbreviated as “secondary nav” going forward) improves overall user experience of the portal. 
 
 
