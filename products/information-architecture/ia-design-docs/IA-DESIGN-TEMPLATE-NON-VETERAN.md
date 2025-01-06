@@ -79,7 +79,6 @@ The standard process for redirects can be found on the Platform website. Please 
 - Follow guidance provided in document as closely as possible.
 - Report your final URLs back to the IA and team that provided this guidance so they have awareness of overall VA.gov IA.
 - Submit a centralized content and IA ticket for support in implementing the entry points recommended above
-- Submit a request to the VA 508 office for an accessibility audit prior to shipping (or shortly thereafter) and correct any issues found
 - Submit a redirect request ticket for approval on any redirects at least 2 weeks prior to implementing them
 
 
