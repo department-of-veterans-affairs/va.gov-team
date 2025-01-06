@@ -59,7 +59,7 @@ In the event that one or more supporting document meant to accompany a user's su
 Investigation
 - Collect the attachment IDs of all documents associated with the given form submission (via the Production vets-api database)
 - Collect the attachment IDs of documents missing a PEGA status within that batch
-  ```rails
+  ```ruby
   # Production console in Argo CD
   forms = IvcChampvaForm.where(pega_status: nil)
   ```
