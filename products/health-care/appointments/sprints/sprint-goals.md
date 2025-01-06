@@ -3,8 +3,9 @@
 🟦 BE 🟩 FE 🟧 UX 🟪 PM   ✔️ Done, ❗High Priority, ⛔ Blocked, 🚧 Rolling Over, ⏱️ Dependency
 
 > combine the UX and eng boards in this view
+## FUTURE SPRINT 24 - 1/8/2025-1/21/2025
 
-## FUTURE SPRINT 23 - 12/25/2024-1/7/2025
+## SPRINT 23 - 12/25/2024-1/7/2025
 
 <!-- 
 
@@ -16,6 +17,10 @@ All issues in that were closed in this timeframe:
     
 - **Oracle Health**
     - 🟦 [Recent clinics endpoint enhancements - Filter by type of care #99311](99311)
+ 
+- **Direct Scheduling OH**
+    - ❗🚧 🟩 [Add initial screen and placeholder data for Select a Provider step #98224](98224)
+    - 🚧 🟩 [Add location and typeOfCare arguments and functionality to patient relationships #98864](98864)
 
 ## SPRINT 22 - 12/11/2024-12/24/2024 
 
