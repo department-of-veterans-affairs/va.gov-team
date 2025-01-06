@@ -57,9 +57,14 @@ Resolution
 In the event that one or more supporting document meant to accompany a user's submission does not reach S3, the following steps should be taken (in addition to all other actions listed in the [Steps section](#steps):
 
 Investigation
-- Collect the attachment IDs of all documents associated with the given form submission
+- Collect the attachment IDs of all documents associated with the given form submission (via the Production vets-api database)
 - Collect the attachment IDs of documents missing a PEGA status within that batch
+  ```rails
+  # Production console in Argo CD
+  forms = IvcChampvaForm.where(pega_status: nil)
+  ```
 - Provide the full list of attachment IDs and their PEGA statuses to the PEGA team for analysis
+
 Resolution
   - The PEGA team will provide a decision on whether or not the user needs to be contacted and asked for a resubmit of part or all of the form and its documents.
   - Based on the PEGA team's response, work with PM, PO, and PEGA team to reach out to the affected user(s).
