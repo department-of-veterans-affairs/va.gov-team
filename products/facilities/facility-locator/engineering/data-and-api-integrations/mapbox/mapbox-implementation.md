@@ -1,6 +1,8 @@
 # Mapbox Facility Locator implementation 
 
 ## Overview
+- **API usage**: Permanent Geocoding, Map Loads for Web, Static Images, Matrix
+
 We use Mapbox to render maps, most notably on the Facility Locator. In order to use Mapbox, an API key is required. One critical piece to understanding the architectural approach mapped out below is to understand that these Mapbox API keys are [visible to the public](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/462#issue-1205626603). Mapbox knows this and accounts for this by allowing (and suggesting) URL restrictions on the keys. So, for example, we can restrict our API keys to only work on API calls initiated from va.gov.
 
 This is great, and works for our public-facing sites. But the problem grows in scope when we recognize that this will not work for some of our non-production environments (CI, local). In these cases, we are working without a typical URL, so we cannot use URL restriction. Luckily, in these cases, the front ends are not viewable by the world, so we don't need to worry about the key being viewable in that context. We simply need to ensure that the key is not in the source code.
