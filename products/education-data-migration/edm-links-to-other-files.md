@@ -21,8 +21,8 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 ## WEAMS Public 
 - [Collaboration Cycle for Education Data Migration, WEAMS Public #90889](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90889)
 - [CAIA Intake for WEAMS Public #92369](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92369)
--   Updated on 1/3 with the following information:
--   <details>
+  Updated on 1/3 with the following information:
+  <details>
   <summary>Toggle information provided by Sam Walker</summary>
   Adding my recommendations here, for record-keeping, on the question of how to name institutions sub-pages:
 
