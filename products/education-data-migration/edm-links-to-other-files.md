@@ -25,30 +25,25 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
   <details>
   <summary>Toggle information provided by Sam Walker</summary>
   Adding my recommendations here, for record-keeping, on the question of how to name institutions sub-pages:
-
-I discussed with Sneha and Jen, and then also discussed in OCTO slack with Ariana.
-Two options:
-
-Adjust the breadcrumbs to include the institution name, rather than the current tool behavior of listing "Institution details" in the breadcrumb for each institution. Doing this means that the H1 of any sub-pages of the institution page should generally have lengths that are within the character limit.
-The opportunities here are:
-a) gives the tool breadcrumbs that are consistent with users' experiences across va.gov
-b) brings the tool into alignment with VADS guidance on aligning H1s and breadcrumbs and how breadcrumbs
-c) solves the H1 length issue in most cases.
-The risks here are:
-a) requires development time
-b) if there are a few sub-pages with very long titles, the team would need to either define a pattern for shortening these or create one-off manual solutions for shortening those strings.
-
-Retain the current breadcrumb structure, using "Institution details" for all institution pages, in which case institution sub-page H1s would likely list both the institution name and the title of the sub-page, to help the user stay oriented in the tool.
-The opportunities here are:
-a) provides solution #1 queued up in the backlog for a future team to pick up and implement as part of future work in the tool,
-b) short-term solution that allows the team to not re-work the breadcrumbs as part of current scope.
-Risks here are:
-a) the tool's breadcrumbs, which are currently out of alignment with VADS breadcrumb guidance, would stay out of alignment.
-b) H1s would also be out of alignment with VADS character counts guidance
-
-The character limit for these pages is technically 52 characters.
-
-I think option 1 would be the way to alleviate the issue, and that's what I advise. And also, I know that a lot of variables - including go-live timelines and engineering capacity - means that it's not always possible to do everything. Which is why, as part of option 2, I'd advise adding these changes to a future backlog if this isn't the time to implement them. My recommendation is check these two options with decision-makers so that Design has clear guidance on whether the scope can include adjusting the breadcrumb structure (which should solve most of the H1 length issue), or sticking with the current not-aligned approach for now and moving this change to the backlog.
+  I discussed with Sneha and Jen, and then also discussed in OCTO slack with Ariana.
+  Two options:
+  Adjust the breadcrumbs to include the institution name, rather than the current tool behavior of listing "Institution details" in the breadcrumb for each institution. Doing this means that the H1 of any sub-pages of the institution page should generally have lengths that are within the character limit.
+  The opportunities here are:
+    a) gives the tool breadcrumbs that are consistent with users' experiences across va.gov
+    b) brings the tool into alignment with VADS guidance on aligning H1s and breadcrumbs and how breadcrumbs
+    c) solves the H1 length issue in most cases.
+  The risks here are:
+    a) requires development time
+    b) if there are a few sub-pages with very long titles, the team would need to either define a pattern for shortening these or create one-off manual solutions for shortening those strings.
+  Retain the current breadcrumb structure, using "Institution details" for all institution pages, in which case institution sub-page H1s would likely list both the institution name and the title of the sub-page, to help the user stay oriented in the tool.
+  The opportunities here are:
+    a) provides solution #1 queued up in the backlog for a future team to pick up and implement as part of future work in the tool,
+    b) short-term solution that allows the team to not re-work the breadcrumbs as part of current scope.
+  Risks here are:
+    a) the tool's breadcrumbs, which are currently out of alignment with VADS breadcrumb guidance, would stay out of alignment.
+    b) H1s would also be out of alignment with VADS character counts guidance
+  The character limit for these pages is technically 52 characters.
+  I think option 1 would be the way to alleviate the issue, and that's what I advise. And also, I know that a lot of variables - including go-live timelines and engineering capacity - means that it's not always possible to do everything. Which is why, as part of option 2, I'd advise adding these changes to a future backlog if this isn't the time to implement them. My recommendation is check these two options with decision-makers so that Design has clear guidance on whether the scope can include adjusting the breadcrumb structure (which should solve most of the H1 length issue), or sticking with the current not-aligned approach for now and moving this change to the backlog.
 </details>
 
 ### Design Intent Feedback
