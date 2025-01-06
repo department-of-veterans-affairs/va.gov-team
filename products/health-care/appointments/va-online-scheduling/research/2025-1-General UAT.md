@@ -1,22 +1,56 @@
 # Research Plan for General UAT, Appointments team, 01/2025 
 
 
-## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+Background
+----------
 
-[Link to product brief](url goes here).
+VA Online Scheduling allows Veterans who are logged into VA.gov to schedule and manage their appointments.
 
-### OCTO Priorities 
+The appointments team has redesigned appointment details pages for all appointment types. This includes Upcoming, past, canceled and requests.  
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) does this research support? Work with your VA lead and product manager as needed.
+Also see [Product's initiative brief.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/appointment-details-redesign/appointment-details-redesign-initiative-brief.md)
 
-### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
 
+### OCTO Objectives
+
+This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme):
+
+* Veterans and their families can find a single, authoritative source of information
+
+* Logged-in users have a personalized experience, with relevant and time-saving features
+
+Increase 📈
+
+* Veteran satisfaction with VA.gov: by providing an appointments list that meets Veteran expectations and needs.
+
+Decrease 📉
+
+
+* Call center volume, wait time, and time to resolution: by providing the right information about appointments when Veterans need it
+
+### Veteran journey
+
+Veterans may interact with VAOS at different stages across the [veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
+
+Starting up
+
+* MTM: Attending to health needs
+
+Taking care of myself
+
+* MTM: Recognizing and addressing mental health needs
+* MTM: Managing health issues
+
+Putting down roots
+
+* Maintaining my emotional health
+* Engaging VA to access benefits and services
+
+Retiring
+
+
+* MTM: Taking care of my health
+* MTM: Managing my declining health
 ## Research Goals	
 What are you trying to learn from this research? 
 
