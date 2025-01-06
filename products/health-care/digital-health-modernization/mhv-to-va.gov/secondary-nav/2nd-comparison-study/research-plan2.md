@@ -126,9 +126,9 @@ We will keep track of participant demographic information (identified gender, ag
 
 ### Research sessions
 **Please schedule no more than 3 interviews per day. Planned dates of research (all in eastern time):**
-TBD
-TBD
-TBD
+* TBD
+* TBD
+* TBD
 
 ### Length of sessions
 * Session length: 1 hour
