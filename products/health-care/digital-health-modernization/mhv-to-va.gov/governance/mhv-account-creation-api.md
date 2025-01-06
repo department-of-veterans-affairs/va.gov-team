@@ -48,7 +48,7 @@ Three health tools (medications, medical records, and secure messages) require a
    
 ```mermaid
 flowchart TD
-    A[previous checks for verified account, facilities] --> D(Is the user ID-verified?)
+    A[previous checks for verified account, facilities] --> D(Does user have a MHV-Identifier?)
     D --> |Yes| G(Render application)
     D --> |No| H(What tools are they trying to access?)
     H --> |Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health}
