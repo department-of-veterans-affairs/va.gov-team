@@ -20,6 +20,7 @@ jobs:
 
   move-issue:
     runs-on: ubuntu-latest
+    if: contains(github.event.issue.labels.*.name, 'T1-access-request')  # Skip job if the label doesn't exist
     steps:
       - name: Move Issue to Access Requests Column
         uses: m7kvqbe1/github-action-move-issues@v1.1.2
