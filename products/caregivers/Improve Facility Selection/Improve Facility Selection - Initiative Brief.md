@@ -176,9 +176,17 @@
   - [ ] Contact Center guide review
 
 ### Incident Response Info
-- The 1010CG form is currently in production
-- The new paginated request endpoint is /v0/carefivers_assistance_claims/facilities
-- 1010CG [Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
+- The 1010CG form is currently in production.  This is an improvement to the Facility Selection page, providing a search function rather than a static dropdown list.
+- The new paginated request endpoint is /v0/caregivers_assistance_claims/facilities
+- [Endpoint Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Endpoint%20Monitoring%20%26%20Zero%20Silent%20Failures/10-10CG%20Monitor%20Playbook.md)
+- Datadog Dashboards
+     - [1010CG Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/zcn-whk-r5h/1010-cg-vagov-performance?fromUser=false&refresh_mode=sliding&from_ts=1736185712882&to_ts=1736200112882&live=true)
+     - [Sitewide Facilities](https://vagov.ddog-gov.com/dashboard/3vy-h6h-4ek/sitewide-facilities?fromUser=false&refresh_mode=sliding&from_ts=1736196473816&to_ts=1736200073816&live=true)
+- Points of Contact:
+     - Product manager - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us / GH "hdjustice"
+     - Engineer - Brandon Cooper |brandon.cooper1@va.gov / brandon.cooper@adhocteam.us /  GH "coope93'
+     - Engineer - Mitch Saltykov | dmitry.saltykov@va.gov / mitch.saltykovs@agile6.com / GH "mitch-a6"
+     - Product Owner - Patrick Bateman | patrick.bateman@va.gov
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
