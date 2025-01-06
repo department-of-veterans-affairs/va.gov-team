@@ -19,12 +19,13 @@ This research corresponds to the following points of the Veteran journey:
 This study will give us insight into if Veterans notice and understand the information added to the Check-in flow around seeing a staff member after completing eCheck-in, as well as gauge Veterans reactions to this new step in the process.
 
 ### Research Questions
-- What do Veterans value most about online check-in?
+- Question 1
 
 
 
 ### Hypotheses
-- What do Veterans value most about online check-in?
+- Question 1
+  - Hypothesis:
 
 
 ## Method
