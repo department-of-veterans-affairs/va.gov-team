@@ -27,14 +27,13 @@ The goal of this team after successfully launching CPAP supplies has been to add
 
 ### Ongoing Tasks & Administrative Details
 - Daily/Weekly/Monthly Routine 
-o	Common tasks that need to be done regularly (e.g., status updates, meetings, prioritization sessions).
+-	Common tasks that need to be done regularly (e.g., status updates, meetings, prioritization sessions).
 - Documentation 
-o	Location of important documents (e.g., Confluence, Google Drive).
+- Location of important documents (e.g., Confluence, Google Drive).
 - Approval Processes 
-o	Overview of how product decisions, budgets, or timelines are approved.
+- Overview of how product decisions, budgets, or timelines are approved.
 
 ### Tools, Platforms & Links
-- Any additional resources such as:
 - Datadog
 - Github Board
 - Research folder
