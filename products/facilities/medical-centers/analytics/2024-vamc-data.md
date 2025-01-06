@@ -10,7 +10,7 @@
 
 
 ## Satisfaction scores
-
+Scores are from A11 surveys (intercept), where users choose a rating from 1 to 5. In calculations, 4 and 5 are counted as 100%, others as 0%.
 <details>
  <summary> Average combined experience score </summary>
 
