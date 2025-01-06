@@ -20,6 +20,10 @@ jobs:
 
   move-issue:
     runs-on: ubuntu-latest
+    if: |
+     contains(github.event.issue.labels.*.name, 'new-vfs-team-member') ||
+     contains(github.event.issue.labels.*.name, 'new-vfs-team')
+
     steps:
       - name: Move Issue to Access Requests Column
         uses: m7kvqbe1/github-action-move-issues@v1.1.2
