@@ -22,11 +22,11 @@ OKR to measure the success of notifications reminding editors to review and upda
 ## Vet Center facility stats
 | Metric| December 2023 | January 2024 | February 2024 | March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 |September 2024|October 2024	|November 2024	|December 2024	|
 |---|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|
-| Number of Vet Centers | 300 | 300 | 300 | 302 | 302 | 304 |- |- | 302 | 302||||302|
-| Number of Outstations |20 | 20| 21 | 22 | 22 | 22 | 22 | 23 | 24| 24 ||||25|
-| Number of Mobile Vet Centers| 83|83 |83 | 83 | 83 | 83 | 83 | 83 | 83| 83||||85|
-| Number of CAPs | 519 |525 |528 | 534 | 537 | 537 |- |- | 546| 547||||558|
-| Number of Vet Center services| 3,741 |3,742 |3,742 | 3,746 | 3,749 | 3,749 | -|- | 3,756| 3,767||||3,768|
+| Number of Vet Centers | 300 | 300 | 300 | 302 | 302 | 304 |- |- | 302 | 302|||302|
+| Number of Outstations |20 | 20| 21 | 22 | 22 | 22 | 22 | 23 | 24| 24 |||25|
+| Number of Mobile Vet Centers| 83|83 |83 | 83 | 83 | 83 | 83 | 83 | 83| 83|||85|
+| Number of CAPs | 519 |525 |528 | 534 | 537 | 537 |- |- | 546| 547|||558|
+| Number of Vet Center services| 3,741 |3,742 |3,742 | 3,746 | 3,749 | 3,749 | -|- | 3,756| 3,767|||3,768|
 
 ## User data
 **January - June via Domo**
@@ -146,45 +146,11 @@ OKR to measure the success of notifications reminding editors to review and upda
 > Source: [VA.gov CSAT Score Dashboard domo](https://va-gov.domo.com/page/1545882322) (all urls)
 
 ### Average User Combined Experience & Count of Survey Responses by Month
+Scores are from A11 surveys (intercept), where users choose a rating from 1 to 5. In calculations, 4 and 5 are counted as 100%, others as 0%.
+![image](https://github.com/user-attachments/assets/ddef998c-1ec4-4bbc-bf0a-86179a195052)
 
-| Submission Month	| Avg User Combined Experience	| Survey Responses
-|---|:---:|:---:
-| January 2024	| 57.14%	| 13
-| February 2024	| 42.86%	| 11
-| March 2024	| 77.78%	| 14
-| April 2024	| 28.57%	| 11
-| May 2024	| 50.00%	| 11
 
-| Submission Month	|	Avg User Understanding	| Survey Responses
-|---|:---:|:---:
-| January 2024	| 66.67%	| 6
-| February 2024	| 60% | 5
-| March 2024 | 100% |	8
-| April 2024	| 83.33%	| 6
-| May 2024	| 50%	| 6
 
-| Submission Month	|	Avg User Trust	| Survey Responses
-|---|:---:|:---:
-| January 2024	| 40%	|5
-| February 2024	| 40%	|5
-| March 2024 | 62.5% |	8
-| April 2024 | 16.67%	| 6
-| May 2024	| 33.33%	| 6
 
-| Submission Month	|	Avg User Trust in VA's Commitment to Veterans	| Survey Responses
-|---|:---:|:---:
-| January 2024	| 60%	|5
-| February 2024	| 40%	|5
-| March 2024 | 62.5% |	8
-| April 2024 |	50%	| 6
-| May 2024	| 33.33%	| 6
-
-| Submission Month	|	Avg User Satisfaction | Survey Responses
-|---|:---:|:---:
-| January 2024	| 20%	|4
-| February 2024	|25%	|4
-| March 2024 | 20% |	5
-| April 2024 |	0%	| 3
-| May 2024	| 33.33%	| 3
 
 
