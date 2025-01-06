@@ -2,8 +2,17 @@
 
 ## Background
 
+**The Cleland Dole Act** addresses Veteran homelessness, access to care, community care, mental health, research, telehealth, prostate cancer, provider oversight and transparency, long-term care, rural health, benefits, information technology and more. 
 
-This study aims to get Veteran feedback on the Community Care self-schedulng pilot process, which will inform future iterations ahead of releasing to more sites.
+**Self-Scheduling and Community Care Self-scheduling Pilot Program**
+- As a congressional mandate under the Cleland-Dole Act, VA must address the following for Veterans by the end of 2024:
+Self-scheduling appointments
+- Allows Veterans seeking for primary care, specialty care, and mental health care under the Veteran’s Community Care Program to self-schedule, modify, and cancel appointments directly online
+- Allows VA to expand capabilities of an existing appointment self-scheduling technology or purchase a new appointment self-scheduling technology
+
+The pilot program MVP will allow Veterans at pilot sites in the Greater Los Angeles area to self-schedule physical therapy appointments using Appointments on va.gov once a referral is approved. They will also have the ability to cancel and reschedule those appointments.
+
+**This UAT study aims to get Veteran feedback on the Community Care self-schedulng pilot process and ensure that Veterans were able to complete the process successfully. These results will inform if future iterations are needed ahead of releasing to more sites.**
 
 ### OCTO Priorities
 The Community Care Self-Scheduling initiative aligns with the following OCTO-DE Priorities:
