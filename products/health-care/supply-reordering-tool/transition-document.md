@@ -35,10 +35,11 @@ The goal of this team after successfully launching CPAP supplies has been to add
 
 ### Tools, Platforms & Links
 - Datadog
-- Github Board
+- [Github Board](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95836)
 - Research folder
 - Go/No-Go Checklist
-- Collab Cycle Ticket 
+- [Collab Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89871)
+- [Midpoint Review Tickets](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+label%3Asupply-reordering+label%3Amidpoint-review)
 
 
 
