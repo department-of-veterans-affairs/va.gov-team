@@ -171,7 +171,7 @@
   - [x] Architecture Intent review (NEW step - added in October 2024) 11/26/2024
   - [ ] IA Review
   - [ ] Midpoint Review
-  - [ ] Staging Review
+  - [x] Staging Review 12/12/2024
   - [ ] Privacy & Security
   - [ ] Contact Center guide review
 
@@ -187,6 +187,14 @@
      - Engineer - Brandon Cooper |brandon.cooper1@va.gov / brandon.cooper@adhocteam.us /  GH "coope93'
      - Engineer - Mitch Saltykov | dmitry.saltykov@va.gov / mitch.saltykovs@agile6.com / GH "mitch-a6"
      - Product Owner - Patrick Bateman | patrick.bateman@va.gov
+     - MuleSoft/CARMA tech team
+          - Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
+          - Ramesh Dugar | ramesh.dugar@va.gov - CARMA engineer
+          - David Wald | David.Wald@va.gov - testing/integration lead
+          - Ranganathan Vekataraman | Ranganathan.Vekataraman@va.gov - CARMA engineer
+          - Igor Khurgin | igor.khurgin@va.gov - CARMA engineer
+          - Waleed Jaffar | wjaffar@salesforce.com - CARMA engineer
+          - Marla Clayton | marla.clayton@va.gov - Technical Project Manager CARMA
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
