@@ -4,7 +4,7 @@
 - [Satisfaction scores](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#satisfaction-scores)
 - [VAMC editor and facility stats](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#vamc-editor-and-facility-stats)
 - [Summary data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#summary-data)
-- [Health services] (#health-services)
+- [Health services](#health-services)
 - [Required health service pages](#required-health-service-pages)
 - [Other specified pages](#other-specified-pages)
 - [Manage your health online](#manage-your-health-online)
