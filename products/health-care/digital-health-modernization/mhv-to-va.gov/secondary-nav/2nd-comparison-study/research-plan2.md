@@ -104,18 +104,18 @@ We will keep track of participant demographic information (identified gender, ag
 	- **More than 3 times a month  (Automatically qualify - if still sourcing this user type - but collect answers to the rest of screener)**
 
 4. How comfortable are you with the idea of managing your health-related tasks online, such as scheduling appointments, viewing medical records, or communicating with health care professionals?
-          - Not at all comfortable (Disqualify)
-          - Slightly comfortable (Disqualify)
-          - Moderately comfortable (Disqualify)
-          - **Very comfortable (Qualify)**
-          - **Extremely comfortable (Qualify)**
+	- Not at all comfortable (Disqualify)
+	- Slightly comfortable (Disqualify)
+	- Moderately comfortable (Disqualify)
+	- **Very comfortable (Qualify)**
+	- **Extremely comfortable (Qualify)**
 
 5. How frequently do you use the internet for personal activities, such as browsing websites, online banking, or online shopping?
-          - Never (Disqualify)
-          - Rarely (Disqualify)
-          - Occasionally (Disqualify)
-          - **Regularly (Qualify)**
-          - **Frequently (Qualify)**
+	- Never (Disqualify)
+	- Rarely (Disqualify)
+	- Occasionally (Disqualify)
+	- **Regularly (Qualify)**
+	- **Frequently (Qualify)**
 
 ## Timeline
 - Submit for approval: TBD
