@@ -82,5 +82,5 @@ The Preview Instance does not support authentication by default. To successfully
 * If it is the first time authenticating an account on your instance, you will need to accept the VA Terms of Use.
 * You can now use the instance as normal for your testing
 
-Note: The Review instance logs do appear in DataDog. You will need to leverage the terminal to ssh to your instance and review logs manually as required.
+Note: The Review instance logs do not appear in DataDog. You will need to leverage the terminal to ssh to your instance and review logs manually as required.
 
