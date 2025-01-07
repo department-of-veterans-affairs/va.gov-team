@@ -119,8 +119,6 @@ Primary Criteria (Must-Haves):
 
 - 6 or more with cognitive disability
 
-- 3 or more in rural location
-
 - 3 or more without a degree
 
 - 2 or more women
