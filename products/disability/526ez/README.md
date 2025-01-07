@@ -54,8 +54,8 @@
  Team 1: 
  [ZenHub Workspace](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)
  GitHub team label: DBEX-TREX
-- Product manager: Jared Pace
-- Design and Research: Maya Carroll, Evelyn Hilbrich Davis
+- Product manager: Dotti Cummings
+- Design and Research: Maya Carroll, Lauren Dawson, Momo Miyazaki
 - Engineering: Aurora Hampton, Seth Darr, Christine Cereca, Mark Chae, Tommassina Miller
 - Delivery: Pam Macalintal
  
