@@ -64,7 +64,7 @@ TRUE: Most Veterans mentioned the benefit of adding search, filter, or a table o
 
 _"I would have thought \[notes\] would have been included with one of the previous ones... I guess when I hit VA lab results, usually if labs are outside the norm, you get some sort of note affiliated with that." -_ Participant 19
 
-Labels:
+Labels: PRDT: Medical-records, SPG: Cognitive Consideration
 
 **Finding 2: Most participants (9 of 12) did not understand what information could be found in the “VA Problem List.”**
 
@@ -78,7 +78,7 @@ _"I’ve never heard of a problem list... maybe it’s the VA problems that I’
 
 _“I have no idea... my diabetes, my back issues, surgeries I’ve had... I don’t know.”_ \- Participant 14
 
-Labels:
+Labels: PRDT: Medical-records, SPG: Cognitive Consideration
 
 **Finding 3: All participants understood what information could be found in “VA Notes.”**
 
@@ -86,7 +86,7 @@ Labels:
 
 _"\[VA Notes are\] findings by doctors and staff." -_ Participant 11
 
-Labels:
+Labels: PRDT: Medical-records, SPG: Cognitive Consideration
 
 **Finding 4: Most participants relied on scrolling to navigate through their Blue Button report.**
 
@@ -98,7 +98,7 @@ _"Right now I’m just kind of scrolling ‘cause I couldn’t really tell you h
 
 _"Other than scrolling down through this thing, I don’t know any other way of \[finding Lab Results\]." -_ Participant 19
 
-Labels:
+Labels: PRDT: Medical-records, SPG: Cognitive Consideration
 
 **Finding 5: All participants relied on scrolling through MyChart Test Results to identify their diabetes labs.**
 
@@ -106,7 +106,7 @@ Labels:
 
 _"In MyChart, you click on certain things, they open up instead of having to scroll through 500 pages or something in \[Blue Button\]." -_ Participant 16
 
-Labels:
+Labels: PRDT: Medical-records, SPG: Cognitive Consideration
 
 **Finding 6: Many participants mentioned filters while looking for specific records across domains in Blue Button.**
 
@@ -120,7 +120,7 @@ _"I would look up three years ago 2021 as an isolator and I would mainly have to
 
 _"If there was a place where I could just put a word diabetes, it could go through my records and just pull out the diabetes stuff and not give me the whole shebang."_ \- Participant 07
 
-Labels:
+Labels: PRDT: Medical-records, SPG: Cognitive Consideration
 
 **Finding 7: Most participants mentioned a search function while looking for specific records across domains in Blue Button.**
 
@@ -134,7 +134,7 @@ _"If I was able to put in the keyword or something to prevent that tedious searc
 
 _“You need to read through everything, cause there’s no way to look for keyword.”_ \- Participant 08
 
-Labels:
+Labels: PRDT: Medical-records, SPG: Cognitive Consideration
 
 **Finding 8: Most participants mentioned the potential benefits of jump links or a table of contents when finding the different sections within their Blue Button PDF report.**
 
@@ -142,7 +142,7 @@ Participants struggled to locate individual sections within their Blue Button re
 
 _"As a PDF, it’s not indexed so that you could click on something and go down to the lab portion. If I had just selected the lab work, that would be easier." -_ Participant 12
 
-Labels:
+Labels: PRDT: Medical-records, SPG: Cognitive Consideration
 
 **Finding 9: All participants used both test title and date to identify specific labs in both My HealtheVet and MyChart.**
 
@@ -154,7 +154,7 @@ _"I’m able to identify which test was done on which day" -_ Participant 09
 
 _“\[MyChart\] gives you the heading of what type of test it was, the date it was performed, and the doctor that requested it... so much better than the info dump.”_ - Participant 11
 
-Labels:
+Labels: PRDT: Medical-records, SPG: Cognitive Consideration
 
 **Finding 10: Most participants used the provider’s name, note date, and keywords associated with diabetes to identify notes about diabetes.**
 
@@ -166,7 +166,7 @@ _"I’m going to look for that date because it’s first on the list, right?... 
 
 _“\[MyChart\] gives you the information you need as to when it was, the doctor you saw, the clinic you went to, everything is contained right there.”_ - Participant 12
 
-Labels:
+Labels: PRDT: Medical-records, SPG: Cognitive Consideration
 
 **Finding 11: Participants spent more time finding the VA Problem List section within their Blue Button report than time locating a specific condition on the list.**
 
@@ -176,7 +176,7 @@ When finding an equivalent page in MyChart, participants took less time to under
 
 _“At this point, I have no clue \[where to find the diabetes diagnosis\]. It’s just a needle in a haystack for me.”_ \- Participant 11
 
-Labels:
+Labels: PRDT: Medical-records, SPG: Cognitive Consideration
 
 **Finding 12: Most participants expressed negative emotions while searching for a record in Blue Button compared to more neutral or positive emotions while using MyChart.**
 
@@ -190,7 +190,7 @@ _“I get overwhelmed with stuff like this... I only have so many \*\*\*\*s to g
 
 _“It shouldn’t be a skill level thing that only people with certain skills can \[find records in Blue Button\].”_ - Participant 07
 
-Labels:
+Labels: PRDT: Medical-records, SPG: Cognitive Consideration
 
 ## Additional Insights
 
@@ -206,7 +206,7 @@ _“I just usually wait a couple of days and then check \[for my results\]. I ha
 
 _“If I’m not mistaken \[the lab results\] come by email. I was going to say text, but I don’t know that the VA does text messages. But I know I get an email, ‘Your lab report is ready’ or something to that nature.”_ - Participant 15
 
-Labels:
+Labels: PRDT: Medical-records, SPG: Cognitive Consideration, DSP: Notifications
 
 **Additional Finding 2: Most participants needed moderator assistance with the calendar picker when generating a Blue Button report.**
 
@@ -214,7 +214,7 @@ Labels:
 
 3 additional participants successfully generated a report for the last three years by typing into the date field rather than using the calendar picker.
 
-Labels:
+Labels: PRDT: Medical-records, SPG: Cognitive Consideration
 
 ## Recommendations
 
