@@ -13,7 +13,7 @@ Thank you for joining us today! My name is Jamie, and I also have some colleague
 
 - I won’t be offended by any opinions you express.
 
-- This entire session should take about 40 minutes. I want to be sure not to keep you much longer, so I may occasionally interrupt you to move on to the next question.
+- This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally interrupt you to move on to the next question.
 
 - I’m hoping to record the session today, so that we capture your opinions accurately.  Please know that they will not be shared with anyone outside of this research study and will be deleted once our research is complete. Are you okay with us recording today?
 
@@ -49,7 +49,7 @@ _\*Start audio and screen recording.\*_
 
    1. Discuss cadence, information details, information about procedures, preparation, maps
 
-### Section 3: Thoughts on Content Based on Sample Emails - 10 minutes
+### Section 3: Thoughts on Content Based on Sample Emails - 15 minutes
 
 Let’s look at a sample of a [current reminder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/current-mhv-emailmockup.md):
 
