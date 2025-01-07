@@ -7,7 +7,7 @@ The "Enrollment Card" pattern will enable authenticated users to quickly underst
 Veterans often struggle to find, understand, and act on their benefits information due to:
 - Difficulty in finding benefits information in one place.
 - Inconsistent presentation of benefits data across VA systems.
-- A lack of personalized recommendations for additional benefits eligibility.
+- A lack of personalized recommendations for additional benefits eligibility. (probably not in scope currently)
 - Overwhelming or redundant information that increases cognitive load and discourages engagement.
 
 This fragmented experience creates inefficiencies and missed opportunities for Veterans to fully utilize their VA benefits.
