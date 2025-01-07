@@ -45,7 +45,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: 1/6/2024 - 1/17/2024
+- Desired date range: 1/6/2024 - 1/23/2024
 - How will you make the product available in production while limiting the number of users who can find/access it: feature toggle.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   - upload error rate < 5%
@@ -54,7 +54,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Links to the dashboard(s) showing "success criteria" metrics: [ivc-champva-forms](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=weekly&from_ts=1734391252265&to_ts=1734709253529&live=true)
 - Who is monitoring the dashboard(s)?: [FILL_IN]
 
-### Stage A: Canary - 1/6/2025
+### Stage A: Canary - 1/13/2025
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
@@ -71,13 +71,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage B: 25% of users - 1/7/2025
+### Stage B: 25% of users - 1/14/2025
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: Minimum 2 days
 - Percentage of Users: 25%
 
 #### Results
@@ -88,13 +88,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage C: 50% of users - 1/9/2025
+### Stage C: 50% of users - 1/16/2025
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: Minimum 2 days
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
@@ -105,13 +105,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage D: 75% of users
+### Stage D: 75% of users - 1/20/2025
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: Minimum 2 days
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
@@ -122,11 +122,11 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage E: 100% of users
+### Stage E: 100% of users - 1/23/25
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: Monitor at least 7 days and review any findings
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
