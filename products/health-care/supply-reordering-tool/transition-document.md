@@ -27,9 +27,9 @@ The goal of this team after successfully launching CPAP supplies has been to add
 
 ### Ongoing Tasks & Administrative Details
 - Daily/Weekly/Monthly Routine
-- Weekly Check-In Meeting with Design Lead - Jenny Wang and Developers, Richard Davis
-- Monthly/Bi-monthly Meeting with DLC Stakeholders
-- For any questions relevant to DLC we use a Teams Chat,email Patrick Booth (for technical questions Alberto) or ask in the Monthly meeting
+     - Weekly Check-In Meeting with Design Lead - Jenny Wang and Developers, Richard Davis
+     - Monthly/Bi-monthly Meeting with DLC Stakeholders
+             - For most questions relevant to DLC we use a Teams Chat,email Patrick Booth (for technical questions Alberto) or ask in the monthly meeting depending on urgency
 - Slack channel #va-cto-supply-reordering for discussions 
 
 ### Tools, Platforms & Links
@@ -39,6 +39,7 @@ The goal of this team after successfully launching CPAP supplies has been to add
 - [Collab Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89871)
 - [Midpoint Review Tickets](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+label%3Asupply-reordering+label%3Amidpoint-review)
 - [Data Flow Diagram for Zero Silent Failures](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727717727395/0aa30378aa18ef2c552e49f576771dbbaf51c46d)
+- [Slack channel](https://dsva.slack.com/archives/C05DFSM57FW)
  
 
 
