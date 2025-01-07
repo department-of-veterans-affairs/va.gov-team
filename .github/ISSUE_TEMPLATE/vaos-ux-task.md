@@ -10,9 +10,10 @@ projects: ["department-of-veterans-affairs/1214"]
 
 ## How to configure this issue
 * Add title and task description
-* Attach to an Epic. [List of Epics](https://github.com/orgs/department-of-veterans-affairs/projects/1214/views/13)
 * Add labels based on work type: `design`, `discovery`, `documentation`, or `strategy`
+* Set issue type to "Task"
 * Update the Acceptance Critera list
+* Attach to an Epic. [List of Epics](https://github.com/orgs/department-of-veterans-affairs/projects/1214/views/13)
 * **Delete this section**
 ---
 
