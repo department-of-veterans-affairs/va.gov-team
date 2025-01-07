@@ -56,21 +56,25 @@ This pattern supports OCTO’s 2025 OKRs and targets as follows:
 ## What're you building
 ### In-Scope
 **Enrollment Card Pattern:**
-- Displays currently active benefits and any paused benefits for users who have returned to active duty.
-- Displays eligibility for additional benefits and clear next steps for activation.
-- Includes links to detailed benefits pages for more information and/or actionable recommendations.
-- Decide how to access this benefits enrollment information on VA.gov
+- Develop an "Enrollment Card" pattern that includes guidance on how to:
+    - Display current VA benefits a Veteran receives 
+    - Display VA benefits a Veteran does not receive
+    - Display status of benefits for Veterans who return to active duty (and a way to pause/unpause them)
+    - Display links to detailed benefits pages for more information and/or actionable recommendations.
+    - Determine how a group of cards my be displayed and ordered
 
 **Governance and Documentation:**
 - Example code and usage guidelines to ensure adoption and scalability.
-- Content recommendations and accessibility compliance guidelines.
+- Content recommendations and accessibility compliance guidelines..
 
 **Validation:**
-- User testing to refine design and confirm usability.
+- Provide accessibility compliance adhering to Section 508 and WCAG guidelines.
 
 ### Out-of-Scope
-- Comprehensive redesigns of benefits pages or workflows beyond the scope of this pattern.
-- Significant new back-end systems integration for eligibility calculations.
+- Full redesigns of existing benefits pages or workflows outside the "Baseball Card" implementation.
+- Complex eligibility determinations requiring significant back-end system integration beyond currently available data.
+- Validate the pattern through usability testing with diverse Veteran personas (product teams will do this validation when they adopt our pattern).
+- Decide how to access this benefits enrollment information on VA.gov (auth exp team will decide this)
 
 
 ## Measuring Success
