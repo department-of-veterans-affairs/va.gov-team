@@ -3,7 +3,7 @@
 🟦 BE 🟩 FE 🟧 UX 🟪 PM   ✔️ Done, ❗High Priority, ⛔ Blocked, 🚧 Rolling Over, ⏱️ Dependency
 
 > combine the UX and eng boards in this view
-## FUTURE SPRINT 1 - 1/8/2025-1/21/2025
+## FUTURE SPRINT 24 - 1/8/2025-1/21/2025
 
 - **Appointment details null state tracking**
     - 🟩 [Add appointment details null state tracking - Type of Care #98976](98976)
@@ -41,7 +41,7 @@ All issues in that were closed in this timeframe:
     - ✔️ 🟩 [Indicate that links to profile open in a new tab #97372](97372)
     - ✔️ 🟩 [Update VAOS default font size to match normalization #96063](96063)
     - ✔️ 🟩 [Update the OH redirect alert on the VAOS home page #96736](96736)
-    - 🟩 [Update review page for direct schedule #96056](96056)
+    - ✔️ 🟩 [Update review page for direct schedule #96056](96056)
     - 🟩 [Add the link to the Facility Name on the Appointment Details Page #89129](89129)
 
 
