@@ -1,6 +1,6 @@
 ## VBA Regional office roll-out data
 > This file includes data relevant to initial training and publishing milestones.
-> User and interaction data is available in [2024-ro-data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/analytics/2024-ro-data.md) and [2025-ro-data]. 
+> User and interaction data is available in [2024-ro-data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/analytics/2024-ro-data.md) and [2025-ro-data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/analytics/2025-ro-data.md). 
 
 - Roll-out training and publishing milestones
   - [Training](#training)
