@@ -1,7 +1,7 @@
 # Mapbox Facility Locator implementation 
 
 ## Overview
-- **API usage**: Permanent Geocoding, Map Loads for Web, Static Images, Matrix
+- **API usage**: Geocoding V5, Map Loads for Web, Static Images, Matrix
 
 We use Mapbox to render maps, most notably on the Facility Locator. In order to use Mapbox, an API key is required. One critical piece to understanding the architectural approach mapped out below is to understand that these Mapbox API keys are [visible to the public](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/462#issue-1205626603). Mapbox knows this and accounts for this by allowing (and suggesting) URL restrictions on the keys. So, for example, we can restrict our API keys to only work on API calls initiated from va.gov.
 
@@ -66,7 +66,7 @@ As of 1/3/2025, this application is not yet in production.
 
 - **Entry**: http://staging.va.gov/contact-us/ask-va-too
 - **Code in vets-website**: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/ask-va
-- **API usage**: Permanent Geocoding
+- **API usage**: Geocoding V5
 
 This application has a search box for entering a (city, state) or zip code. It is used in two different flows: one for finding VA facilities and the other for finding educational institutions. This tool has a "Use my location" feature and uses both forward and reverse geocoding for parsing Mapbox results. No Mapbox map is rendered in this tool.
 
@@ -74,7 +74,7 @@ This application has a search box for entering a (city, state) or zip code. It i
 
 - **Entry**: https://va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/introduction
 - **Code in vets-website**: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/ask-va
-- **API usage**: Permanent Geocoding
+- **API usage**: Geocoding V5
 
 This application has a search box for entering a (city, state) or zip code to get the nearest VA facilities for Veterans needing care. This tool does not have a "Use my location" feature, so only forward geocoding is used when performing the search. No Mapbox map is rendered in this tool.
 
@@ -82,7 +82,7 @@ This application has a search box for entering a (city, state) or zip code to ge
 
 - **Entry**: https://va.gov/education/gi-bill-comparison-tool
 - **Code in vets-website**: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/gi
-- **API usage**: Permanent Geocoding, Map Loads for Web
+- **API usage**: Geocoding V5, Map Loads for Web
 
 On its "Search by location tab," this application has a search box for entering a (city, state) or zip code and renders a map after searches are performed. This tool has a "Use my location" feature and uses both forward and reverse geocoding for parsing Mapbox results.
 
@@ -91,6 +91,6 @@ On its "Search by location tab," this application has a search box for entering 
 
 - **Entry**: https://va.gov/get-help-from-accredited-representative/find-rep
 - **Code in vets-website**: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/representative-search
-- **API usage**: Permanent Geocoding
+- **API usage**: Geocoding V5
 
 This application has a search form for accredited VSO representatives, attorneys and claims agents. You can enter a full address with a (city, state) or a zip code. This tool has a "Use my location" feature and uses both forward and reverse geocoding for parsing Mapbox results.
