@@ -76,13 +76,8 @@ This pattern supports OCTO’s 2025 OKRs and targets as follows:
 ## Measuring Success
 We will track and measure the success of the "Enrollment Card" pattern using the following metrics:
 
-**User Metrics:**
-- Task completion rates and time-to-task completion.
-- Increase in user engagement with recommended benefits.
-- Improvements in user satisfaction (CSAT) scores.
-
 **Business Metrics:**
-- Reduction in support requests related to benefits inquiries.
+- As few staging review bugs as possible.
 - Increased adoption of the pattern by other VA teams.
 - Alignment with OCTO’s 2025 OKRs, including improved satisfaction (O1.1), reduced latency (O1.2), increasing non-OCTO-built capabilities (O2.4) and empowering teammates to make sustained impacts (O3.3).
 
