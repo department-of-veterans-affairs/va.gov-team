@@ -1,6 +1,6 @@
 # 10-10CG Endpoint Monitoring Playbook
 
-_last updated: 09-23-2024_
+_last updated: 01-07-2025_
 
 ## Overview
 
