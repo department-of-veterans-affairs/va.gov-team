@@ -9,7 +9,7 @@ The goal of this team after successfully launching CPAP supplies has been to add
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95836)
 - UX design - [Figma](https://www.figma.com/design/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?node-id=1164-12192&p=f&t=vtGlOc40Zs38yFHv-0)
 - Prior to CPAP work in 2023, this product existed under the Benefits Portfolio, for history/context of this tool, go to this [folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
-- 2023 onwards: a small group of OCTO team members worked on launching CPAP supplies on the tool in 2022, following this our goal has been to add other supply types and redesign the app to align better with the current design system and address open accessibility/usability issues.
+- Oct 2023 (CPAP supplies launch) onwards: following this our goal has been to add other supply types and redesign the app to align better with the current design system and address open accessibility/usability issues.
   
 
 ### Stakeholder Management
