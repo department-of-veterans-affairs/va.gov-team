@@ -1,7 +1,7 @@
 Internal VA Policy for MHV Credential Exception Management
 Version
 Current Version: 1.0
-Last Updated: [Insert Date]
+Last Updated: [January 6, 2025]
 Next Review: [Insert Date]
 
 **Purpose**
