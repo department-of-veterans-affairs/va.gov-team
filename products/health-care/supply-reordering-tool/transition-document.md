@@ -13,9 +13,9 @@ The goal of this team after successfully launching CPAP supplies has been to add
   
 
 ### Stakeholder Management
-- Denver Logistics Center : Responsible for shipping out supplies, manage any issues with orders and our app uses their data to show Veterans details about previous orders/what supplies they have available to order. 
+- Denver Logistics Center : Responsible for shipping out supplies, manage any issues with orders and our app uses their data to show Veterans details about previous orders/what supplies they have available to order.
    - Primary Contact : Patrick Booth
-   - Primary Engineering Contact : Alberto Haddock 
+   - Primary Engineering Contact : Alberto Haddock
 - We schedule a monthly meeting to check-in on progress with this work, for any in-between communication, we use Teams or email. 
 
 
@@ -26,21 +26,20 @@ The goal of this team after successfully launching CPAP supplies has been to add
 - [User Journey Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721711018020/d6fb79073dfb8345cad0539a7d5769e07f1e90c4?sender=ueeece9e244394145c84e5173)
 
 ### Ongoing Tasks & Administrative Details
-- Daily/Weekly/Monthly Routine 
--	Common tasks that need to be done regularly (e.g., status updates, meetings, prioritization sessions).
-- Documentation 
-- Location of important documents (e.g., Confluence, Google Drive).
-- Approval Processes 
-- Overview of how product decisions, budgets, or timelines are approved.
+- Daily/Weekly/Monthly Routine
+- Weekly Check-In Meeting with Design Lead - Jenny Wang and Developers, Richard Davis
+- Monthly/Bi-monthly Meeting with DLC Stakeholders
+- For any questions relevant to DLC we use a Teams Chat,email Patrick Booth (for technical questions Alberto) or ask in the Monthly meeting
+- Slack channel #va-cto-supply-reordering for discussions 
 
 ### Tools, Platforms & Links
 - Datadog
 - [Github Board](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95836)
-- Research folder
-- Go/No-Go Checklist
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/supply-reordering-tool/research)
 - [Collab Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89871)
 - [Midpoint Review Tickets](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+label%3Asupply-reordering+label%3Amidpoint-review)
-- Data Flow Diagram for Zero Silent Failures 
+- [Data Flow Diagram for Zero Silent Failures](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727717727395/0aa30378aa18ef2c552e49f576771dbbaf51c46d)
+ 
 
 
 
