@@ -1,6 +1,8 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+# 1/7/25 Biweekly VBA-DBEX Check-in
+1. Toxic Exposure Research Share Out (if there are no other urgent talking points.
 
 # 12/10/24 Biweekly VBA-DBEX Check-in
 Agenda
