@@ -1,8 +1,13 @@
-Internal VA Policy for MHV Credential Exception Management
+**Internal VA Policy for MHV Credential Exception Management**
+
 Version
+
 Current Version: 1.0
+
 Last Updated: [January 6, 2025]
+
 Next Review: [Insert Date]
+
 
 **Purpose**
 This document outlines the policy for managing exceptions to the MHV Credential after the credential is publicly sunset on 1/31/25. This ensures consistency, compliance, and security when granting or automating exceptions.
