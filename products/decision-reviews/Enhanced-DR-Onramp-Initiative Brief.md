@@ -15,7 +15,7 @@
 * Today, Veterans sometimes struggle to choose the right Decision Review option for their unique needs for a myriad of reasons, that can result in delays and unfavorable decisions. Veterans seem to sort cleanly into two groups, learners and doers. For some more information is good, and for others the opposite is true. Veterans aren't consistently able to clearly differentiate between the options and know how long each decision review option will take.   
 
 ## Desired User Outcomes
-- As a Veteran, I want to know the exact intent of each decision review option.
+- As a Veteran, I want to know the exact purpose of each decision review option.
 - As a Veteran, I want to feel I've been supplied enough engaging content to self-educate about the options.
 - As a Veteran, I want to know exactly how long I can expect a decision review option to take.
 - As a Veteran, I want to feel supported in changing my decision review selection if I desire to.
