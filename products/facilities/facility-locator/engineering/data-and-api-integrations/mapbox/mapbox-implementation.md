@@ -82,7 +82,7 @@ This application has a search box for entering a (city, state) or zip code to ge
 
 - **Entry**: https://va.gov/education/gi-bill-comparison-tool
 - **Code in vets-website**: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/gi
-- **API usage**: Permanent Geocoding, Map Loads for Web, Static Images
+- **API usage**: Permanent Geocoding, Map Loads for Web
 
 On its "Search by location tab," this application has a search box for entering a (city, state) or zip code and renders a map after searches are performed. This tool has a "Use my location" feature and uses both forward and reverse geocoding for parsing Mapbox results.
 
