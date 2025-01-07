@@ -1,3 +1,5 @@
+# Product outline
+
 ## Outcome Summary
 The "Enrollment Card" pattern will enable authenticated users to quickly understand their current benefits and discover additional benefits they may qualify for. By presenting this information in a concise, visually intuitive card format, the pattern will reduce time and effort for Veterans navigating benefits-related tasks, foster greater engagement with VA services, and improve trust through clear and actionable data presentation.
 
