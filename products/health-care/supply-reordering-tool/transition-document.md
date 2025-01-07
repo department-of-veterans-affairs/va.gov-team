@@ -40,6 +40,7 @@ The goal of this team after successfully launching CPAP supplies has been to add
 - [Midpoint Review Tickets](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+label%3Asupply-reordering+label%3Amidpoint-review)
 - [Data Flow Diagram for Zero Silent Failures](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727717727395/0aa30378aa18ef2c552e49f576771dbbaf51c46d)
 - [Slack channel](https://dsva.slack.com/archives/C05DFSM57FW)
+- [Ticket on Health DE Portfolio Board] (https://github.com/orgs/department-of-veterans-affairs/projects/940/views/3?filterQuery=portfolio%3A%22OCTO+Health%22+supply&pane=issue&itemId=28670898&issue=department-of-veterans-affairs%7Cdigital-experience-products%7C739) 
  
 
 
