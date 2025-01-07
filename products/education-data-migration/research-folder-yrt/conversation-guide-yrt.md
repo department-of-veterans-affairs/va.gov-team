@@ -70,7 +70,22 @@ Before we head over to the website, we would like to start with a few warm-up qu
    IF YES - have you used the Yellow Ribbon Tool?
    IF YES - What was your experience like?
 
-Thank you for answering these questions. For this usability research session, we have pre-selected an institution that participates in the Yellow Ribbon program. I am going to send over the link that I'd like you to open in the chat: https://staging.va.gov/education/gi-bill-comparison-tool/institution/31937132. Will give you a moment to access that. Please go ahead and share your screen once you have it open. Are you comfortable with how to do that?
+Thank you for answering these questions. For this usability research session, we have pre-selected an institution that participates in the Yellow Ribbon program. I am going to send over the link that I'd like you to open in the chat: https://staging.va.gov/education/gi-bill-comparison-tool/institution/31937132. I will give you a moment to access that. Please go ahead and share your screen once you have the link open. Let me know if you come across any issues.
+
+Mobile session how to screen share - 
+For iPhone:
+1. Tap ‘Share content’ (Green button at the bottom middle of the screen). If you can’t see the zoom menu, tap anywhere on your screen once, and it should appear.
+2. Tap on Screen.
+3. Tap Zoom.
+4. Tap start broadcast. After a count of 3, the entire device screen will be shared in the meeting.
+5. Tap the red bar at the top of your screen when you are ready to end the share.
+
+For Andriod:
+1. Tap "Share"
+2. Tap "Screen"
+3. May give a "sensitive info" alert
+4. May ask you to give Zoom permission to display over other apps, toggle yes. The hit the back arrow . Then it might just share your screen.
+5. Tap "Start now" (maybe)
 
 ## First Task: [Institution details review] - 7 minutes
 
