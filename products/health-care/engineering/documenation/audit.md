@@ -1,42 +1,45 @@
-# Audit, Create, Make Discoverable
+# Documentation audit Scope of Work
 
-The core ask:
+The primary objective is to produce standard documentation for the following APIs:
 
-Audit, create if missing and make discoverable standard documentation.
+    Medical Records
+    Secure Messaging
+    Medications
 
-For the main APIs that support MHV on va.gov
+These diagrams should include Oracle Health integrations. Even if they are still in development.
 
-- Medical Records
-- Secure Messaging
-- Medications
+## The Tickets Needed for this PI
 
-Technical Diagrams and Docs:
+- [SPIKE] Audit the current documentation and move to a centralized location
+- [DOCUMENTATION] Create what is missing
+- [DOCUMENTATION] Update if any documents are out of date
 
-- Architecture Diagrams. Preferably C4 style, but a diagram to map out how the system is designed
-  - with tech stacks (with versions) and external dependencies
-- Database Diagrams
-- Sequence diagrams of core features with happy path and failure points through the process
-- Full network diagram of the production environment
-- OpenAPI Swagger Docs for all APIs va.gov is consuming
-- CI/CD pipeline process and guide
-  - How to get code in production with CD
-  - How to get code in production without CD
+## Required Documentation
 
-Operations guides for:
+- Technical Diagrams and Documentation:
+  - **Architecture Diagrams:** Preferably in C4 model style, or another clear format, illustrating system design, tech stack (with versions), and external dependencies.
+  - **Database Diagrams:** Visual representation of database architecture and relationships.
+  - **Sequence Diagrams:** Diagrams for core features, detailing both happy path and failure points in the process.
+  - **Network Diagram:** Comprehensive diagram of the production environment's network architecture.
+  - **OpenAPI (Swagger) Documentation:** Detailed API documentation for all APIs consumed by VA.gov.
+  - **CI/CD Pipeline Documentation:**
+        Overview of the CI/CD pipeline process.
+        Step-by-step guide for deploying code to production with and without CD automation.
 
-- Process guide for releasing a new feature. From idea to ticket to PR to staging to production to rollout to monitoring, what is the workflow of a feature
-- How to get a developer environment set up.  This should be more as independent from being dependant on specific people as possible.
-  - BONUS: These steps should include running the application is a container (such as docker) and locally
-- Troubleshooting; How do figure whats going wrong, when things are going wrong. This should include, but not limited to
-  - Monitoring tools and how to navigate them to for common triage of problems
-  - Where to find logs and stack traces
-  - how to check the system health
-  - Contacts for external system dependencies issues
-- How to set up a brand new MHV API environment (Disaster recovery)
+- Operation Guides:
+  - **Feature Release Process Guide:**
+        End-to-end workflow for releasing new features, including ticket creation, PR, staging, production deployment, rollout, and monitoring.
+  - **Developer Environment Setup Guide:**
+        Instructions for setting up a development environment that is as independent of specific individuals as possible.
+        Bonus: Include instructions for running the application in a container (e.g., Docker) and locally.
+  - **Troubleshooting Guide:**
+        A detailed process for diagnosing and resolving issues, including:
+            Overview of monitoring tools and their use for common triage tasks.
+            Guidance on accessing logs, stack traces, and system health checks.
+            Contact information for external system dependency issues.
+    **Disaster Recovery Documentation:**
+        Steps for setting up a new MHV API *production* environment from scratch.
 
-These all should follow standards set by the Office of CTO engineering team and be located in the <https://github.com/department-of-veterans-affairs/mhv-developer-docs> repository
+## Quality and Compliance Standards
 
-## TODOs
-
-- {OCTO} Establish standards for each doc in the ask
-- {OCTO} Determine storage location (github vs confluence)
+All documentation should follow the guidelines established by the Office of the CTO Engineering team and be structured in accordance with the standards set for VA.gov documentation. The final deliverables must be uploaded to the MHV Developer Documentation repository.
