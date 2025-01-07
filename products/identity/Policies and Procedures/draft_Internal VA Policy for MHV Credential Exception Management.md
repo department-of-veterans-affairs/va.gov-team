@@ -3,16 +3,17 @@ Version
 Current Version: 1.0
 Last Updated: [Insert Date]
 Next Review: [Insert Date]
-Purpose
+
+**Purpose**
 This document outlines the policy for managing exceptions to the MHV Credential after the credential is publicly sunset on 1/31/25. This ensures consistency, compliance, and security when granting or automating exceptions.
 
-Applicability
+**Applicability**
 This policy applies to:
 VA Employees (and contractors if applicable) responsible for handling My HealtheVet (MHV) exception requests.
 Veterans and Callers requesting exceptions through the MHV Help Desk.
 Automated Exception Processing by the MHV Account Management Team.
 
-Policy Details
+**Policy Details**
 1. Exception Request Process
 A. Exceptions Upon Request
 When an exception is requested through the MHV Help Desk, the following information must be collected from the Veteran/Caller to verify their identity:
@@ -52,9 +53,10 @@ The representative's name.
 The date of the exception.
 Details of the exception granted.
 
-Enforcement
+**Enforcement**
 Failure to adhere to this policy may result in corrective action, up to and including revocation of account access for non-compliance.
-Revision History
-Initial Release: [Insert Date]
+
+**Revision History**
+Initial Release: [Jan 7, 2025]
 Next Review Date: [Insert Date]
 
