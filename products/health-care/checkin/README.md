@@ -43,14 +43,14 @@
 - Engineering
     - Full Stack
       - [Lee DeLarm](https://dsva.slack.com/archives/D05B37XJF8C)
-    - Front End
-      - [Brian Seek](https://dsva.slack.com/team/U02FLCLQ6J2)
+      - Bill Tran
+    - Front End      
       - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)  
     - Back End 
       - [Gaurav Gupta](https://dsva.slack.com/team/U02DB4BC10F)
       - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
     - Native Mobile App
-        - [Juan Castillo](https://dsva.slack.com/archives/D07QU9YQ7HA)
+      - [Juan Castillo](https://dsva.slack.com/archives/D07QU9YQ7HA)
     - Dev Ops
       - [Nathan Douglas](https://dsva.slack.com/team/U01DADWHLM6)
       - [Eric Oliver](https://dsva.slack.com/archives/D06M78EK1JM)
