@@ -18,6 +18,7 @@
   - Include a legend or key to clarify symbols and colors.
   - Show interactions with clear arrows that specify the nature of the communication (REST API, message queue, etc.).
   - Ensure diagrams are simple enough for stakeholders to understand but detailed enough for technical teams to use.
+  - Should include keys and secrets
 
 ## Database Diagrams
 
@@ -73,6 +74,7 @@
 - **Redundancy & Failover:** If applicable, indicate redundant systems or failover configurations.
 
 - **Key Best Practices:**
+  - This should include network maps of each environment (INTB, SYSB, etc.)
   - Include key network elements such as firewalls, proxies, load balancers, servers, routers, and cloud components.
   - Use standard networking symbols to improve clarity and understanding.
   - Ensure scalability and reliability features like VPNs, load balancing, or failover are depicted clearly.
@@ -110,9 +112,12 @@
   - **Deployment:** Visualizes how code moves to different environments (e.g., staging, production).
   - **Monitoring:** Includes monitoring and alerting stages for post-deployment.
 - **Feedback Loops:** Clearly indicate feedback mechanisms for failed builds or tests.
+- **Environments:** What environments are created (INTB, etc) and how to deploy to each pipeline
+- **Extension:** How to add a new step in the pipeline
+- **Diaster Recovery** How to set up new pipeline from scratch
 
 - **Key Best Practices:**
   - Use distinct, standardized symbols for each tool and stage (e.g., circles for start/end, arrows for process flow).
   - Label each stage with concise, descriptive names (e.g., "Build," "Test," "Deploy").
   - Include any external dependencies or integrations in the pipeline (e.g., third-party testing services, artifact repositories).
-  - Ensure the diagram covers both automated and manual steps clearly.
+  - Ensure the diagram covers both automated and manual steps clearly
