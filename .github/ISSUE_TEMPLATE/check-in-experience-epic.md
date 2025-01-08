@@ -15,7 +15,16 @@ As a Veteran, I would like to..... so that I can......
  - Slack threads
  - Documents
 
+## Product Documents
+- [ ] Initiative Brief
+- [ ] Feature Reference (for Appts)
+- [ ] Test Cases
+- [ ] QA Plan
+- [ ] TestRail Test Plan & Regression Plan
+- [ ] Update product guide
+
 ## Collaboration Cycle Steps
+- [ ] VA PO Kickoff Ticket
 - [ ] Collab Cycle Ticket
 - [ ] Design Intent
 - [ ] Midpoint Review
