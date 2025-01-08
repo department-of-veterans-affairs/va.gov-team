@@ -91,13 +91,13 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: Jan. 16, 2025 at 2 PM
 
 ### Research sessions
-* Planned dates of research: Jan. 20-24, 2025
+* Planned dates of research: Jan. 20-24 and 27,28 2025
 
 ### Length of sessions
 
 * Session length: 1 hour
 * Buffer time between sessions: 1 hour 
-* Maximum Sessions per day: 2 sessions per day
+* Maximum Sessions per day: 3 sessions per day
 
 ### Availability
 
