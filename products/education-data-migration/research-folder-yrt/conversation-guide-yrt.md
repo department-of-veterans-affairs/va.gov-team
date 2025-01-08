@@ -44,7 +44,7 @@ Before we start, I have a few things that I want to go over with you:
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
-   - **Ask the notetaker and observers to give a brief, camera-on introduction** like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
+   - **Do introductions! Ask the notetaker and observers to give a brief, camera-on introduction** like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 - **For the purpose of this study, you'll be interacting with a website today.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
