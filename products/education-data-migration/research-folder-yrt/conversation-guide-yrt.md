@@ -87,8 +87,7 @@ For Andriod:
 
 ## First Task: [Institution details review] - 7 minutes
 
-- Step 1: Please take a moment to go through the details provided for Columbia University in the City of New York.
-- Step 2: Can you find the yellow ribbon program information section on this page?
+- Step 1: Please take a moment to go through the details provided for Columbia University in the City of New York. Once you're finishied, can you find the yellow ribbon program information section on this page?
 
 ### Things to watch for:
 - [Does the participant understand meaning of xyz?]
