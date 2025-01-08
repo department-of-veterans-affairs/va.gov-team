@@ -1,5 +1,5 @@
 # IVC/VES Acceptance Testing Plan
-Date: 1/7/2025
+Updated: 1/8/2025
 
 ## Context
 Integrated Veteran Care Civilian Health and Medical Program of the Department of Veterans Affairs (IVC CHAMPVA) forms hosted on VA.gov currently submit to the PEGA system.
