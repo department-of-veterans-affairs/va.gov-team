@@ -233,7 +233,7 @@ Without clicking anything, take a moment to review the page. Remember to think a
 * What do you think is the relationship between what you're seeing here and what you saw in your email? 
   * [If needed for reference click the “reference email” button]
   * [Click the email logo to return to previous screen]
-* What do you think will happen when you submit your document?
+* What do you think will happen after you submit your document using one of these options?
 
 #### Things to watch for:
 
