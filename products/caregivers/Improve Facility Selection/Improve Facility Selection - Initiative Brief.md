@@ -142,6 +142,13 @@
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - VA stakeholder End-to-End testing
 
+---
+### Decisions Made
+- As a result of the Architecture Intent review meeting, we are advised to replace the GET function to POST to ensure URLs do not expose PII. Our current endpoint for retrieving the facilities list is a GET request where we pass the lat/long as query params in the URL. Because we log the urls, this is exposing what could be PII (the lat/long of a Veteran's address).
+
+- Simply changing GET to POST could be considered an anti-pattern. There were several ideas discussed in the team's meeting Slack thread, captured in the meeting notes. We have explored these and other options that may be the best solution here. Since other options required a more sitewide approach and is in the purview of the Platform Architecture team, the decision was made to follow their initial suggestion of changing from GET to POST which is also the same as the Facility Locator.
+
+---
 ### What're you building
 - Provide an updated facility selection page that is easy to use and understand.
   - Connect with active Facilities API in place of the current static JSON file
