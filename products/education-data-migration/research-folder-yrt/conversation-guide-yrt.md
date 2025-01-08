@@ -44,7 +44,7 @@ Before we start, I have a few things that I want to go over with you:
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
-   - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
+   - **Ask the notetaker and observers to give a brief, camera-on introduction** like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 - **For the purpose of this study, you'll be interacting with a website today.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
@@ -110,12 +110,11 @@ For Andriod:
 - [Does the participant notice xyz?]
 - Questions:
 1. Based on what you read, can you tell me what the yellow ribbon program is about?
-2. Can you tell us who is eligible for the Yellow Ribbon program?
-3. What is your first impression of the Yellow Ribbon Program section?
-4. What's your opinion on how the content displays?
-5. Do you find the content to be useful?
-6. If you could change anything about the presentation or content, what would you change?
-7. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate this task?
+2. What is your first impression of the Yellow Ribbon Program section?
+3. What's your opinion on how the content displays?
+4. Do you find the content to be useful?
+5. If you could change anything about the presentation or content, what would you change?
+6. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate this task?
 
 ## Third Task: [Functional review] - 7 minutes
 - Step 1: Select a degree level that you're interested in
