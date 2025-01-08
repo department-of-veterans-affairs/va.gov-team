@@ -27,7 +27,7 @@ This fragmented experience creates inefficiencies and missed opportunities for V
 We will validate assumptions and identify opportunities through:
 - Existing Research: Leverage past two years of analytics, user interviews, and comparative studies to inform design decisions.
 - Research: Expand on findings from the previous studies that explore personalization and navigation needs.
-- Testing and Feedback: Conduct usability testing with diverse Veteran personas, including those using assistive technologies, to ensure inclusivity and accessibility.
+- Testing and Feedback: Conduct usability testing with diverse Veteran personas, including those using assistive technologies, to ensure inclusivity and accessibility. (product teams will condusct user testing when implementing this pattern)
 
 ### Assumptions/Risks
 - Value Risks: Veterans may not understand or trust personalized benefit recommendations.
