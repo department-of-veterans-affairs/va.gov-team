@@ -51,6 +51,7 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - Product - Cartography Team: Robyn Singleton
 - Product - Secure Messaging: Patrick Bateman
 - Product - Medical Records, Cerner Integration: Marci McGuire
+- Product - Medications: Kay Lawyer
 - Design: Kaitlin Fink
 - Design: Kristen McConnell
 - Research: Robyn Singleton
