@@ -1,4 +1,4 @@
-# # IVC Forms **Missing Pega Status**
+# IVC Forms **Missing Pega Status**
 
 _last updated: 1/6/25_  
 
@@ -28,7 +28,7 @@ Keep these items in mind while working through the **Steps** section below:
 
 ## Steps
 
-When this monitor is triggered, follow these steps.
+When this monitor is triggered, follow these steps. _(For engineers, please also refer to this document: [Resolving Missing PEGA Status Issue](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/resolving-missing-pega-status.md) on using the production Rails console.)_
 
 Intake
 - Notify IVC Forms team product manager (PM) and delivery manager (DM) to open an incident ticket ([example here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94827)) for the IVC Forms team
@@ -53,6 +53,8 @@ Resolution
 - If traffic to the site has been altered, PO or PM will determine when to return to previous levels
   
 ## Missing Supporting Documents
+
+_In addition to this section, also consult [Resolving Missing PEGA Status Issue](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/resolving-missing-pega-status.md) for more technical details._
 
 In the event that one or more supporting document meant to accompany a user's submission does not reach S3, the following steps should be taken (in addition to all other actions listed in the [Steps section](#steps):
 
