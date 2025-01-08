@@ -14,7 +14,6 @@ This fragmented experience creates inefficiencies and missed opportunities for V
 
 ### Desired User Outcomes
 - Clear Information: Veterans can easily see and understand their current benefits at a glance.
-- Personalized Recommendations: Users are informed of additional benefits they may qualify for, with clear next steps.
 - Reduced Effort: Veterans spend less time searching for or deciphering benefits-related information, completing tasks more efficiently.
 - Enhanced Trust: Transparent presentation of data builds confidence in the accuracy and reliability of VA’s digital tools.
 
