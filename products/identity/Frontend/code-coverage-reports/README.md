@@ -45,8 +45,8 @@
 | ```vets-website/src/platform/site-wide/user-nav/containers/AutoSSO``` | ```yarn test:unit src/platform/site-wide/user-nav/tests/containers/AutoSSO.unit.spec.jsx --coverage --coverage-html``` |
 | ```vets-website/src/platform/user/tests/authentication/``` | ```yarn test:unit src/platform/user/tests/authentication/**/*.unit.spec.js --coverage --coverage-html```|
 | ```vets-website/src/platform/user/tests/authorization/components/IdentityNotVerified``` | ```yarn test:unit src/platform/user/tests/authorization/components/IdentityNotVerified.unit.spec.jsx --coverage --coverage-html``` |
-| ```vets-website/src/platform/utilities/tests/oauth``` | ```yarn test:unit src/platform/utilities/oauth --coverage --coverage-html``` |
-| ```vets-website/src/platform/utilities/tests/sso``` | ```yarn test:unit src/platform/utilities/sso --coverage --coverage-html``` |
+| ```vets-website/src/platform/utilities/tests/oauth``` | ```yarn test:unit src/platform/utilities/tests/oauth --coverage --coverage-html``` |
+| ```vets-website/src/platform/utilities/tests/sso``` | ```yarn test:unit src/platform/utilities/tests/sso --coverage --coverage-html``` |
 
 ## Reference 
 `.github/CODEOWNERS` file in `vets-website`
