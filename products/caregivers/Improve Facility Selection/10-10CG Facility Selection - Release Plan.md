@@ -38,7 +38,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - No UAT will be completed.  We held research and usability sessions in October 2024 to validate functionality and usability from Veterans and Caregivers within the staging environment.
-- The team will validate functionality in Production.
+- The team and Stakeholders will validate functionality in Production.
 
 #### Results
 
