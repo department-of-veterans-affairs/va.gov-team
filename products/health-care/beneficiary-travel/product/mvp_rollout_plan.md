@@ -133,7 +133,7 @@ team was able to resolve this as well.
 
 #### Planning
 
-- Length of time: 2 days, beginning when greenlit by the change management team
+- Length of time: 2 days, January 13 and January 14 
 - Percentage of Users (and roughly how many users do you expect this to be): 5% , on top of which we will include Ad Hoc, BAH, and VA veterans who have agreed to test the status page.
 
 #### Results
@@ -150,7 +150,7 @@ team was able to resolve this as well.
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 1 day, January 15
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
@@ -167,7 +167,7 @@ team was able to resolve this as well.
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 5 days, January 16 - 20
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
@@ -184,7 +184,7 @@ team was able to resolve this as well.
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 2 days, January 21 - 22
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
@@ -199,7 +199,7 @@ team was able to resolve this as well.
 
 #### Planning
 
-- Length of time: 1 day
+- Length of time: 1 day, January 23
 - Percentage of Users: 100%
 
 #### Results
