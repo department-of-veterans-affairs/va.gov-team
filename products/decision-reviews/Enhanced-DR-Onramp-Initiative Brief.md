@@ -18,7 +18,12 @@
 The ehhanced Decision Review onramp will focus on Veterans (or their accreditted representatives) that seek to file a disability compensation claim via the online supplemental claim form or the higher level review form AND Veterans that seek to file a Board Appeal including but not limited to disability compensation. Additionally, the enhanced onramp will key in on users that have first navigated to the "VA decision reviews and appeals" or "Choosing a decision review option" pages on VA.gov.  
 
 ## Competitors
-There are no "known" competitors for this particular initiative where there's capability to file a disability compensation claim or Board Appeal with the VA outside of direct VA options. 
+Competitors that provide information regarding clarification of decision review options
+- Accredited representatives
+- Online search articles (Ex. https://www.alperinlaw.com/library/understanding-your-decision-review-options.cfm)
+- Social platforms (Reddit, Facebook)
+
+There are no "known" competitors for the capability to file a disability compensation claim or Board Appeal with the VA 
 
 ## Desired User Outcomes
 - As a Veteran, I want to know the exact purpose of each decision review option.
