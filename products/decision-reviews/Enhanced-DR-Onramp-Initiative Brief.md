@@ -23,11 +23,14 @@ Why?
 
 ## Competitors
 Competitors that provide information regarding clarification of decision review options
-- Accredited representatives
+- Accredited representatives 
 - Online search articles (Ex. https://www.alperinlaw.com/library/understanding-your-decision-review-options.cfm)
 - Social platforms (Reddit, Facebook)
 
 There are no "known" competitors for the capability to file a disability compensation claim or Board Appeal with the VA 
+
+Considerations:
+-Do accredited reps have access to downstream VA systems to show Veterans?
 
 ## Desired User Outcomes
 - As a Veteran, I want to know the exact purpose of each decision review option.
