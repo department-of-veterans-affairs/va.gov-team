@@ -57,6 +57,7 @@ There are no "known" competitors for the capability to file a disability compens
 ## Risks
 - Not supporting users seeking to file claims NOT for disability compensation with our enhanced DR onramp can cause frustration for those users
 - Enhanced DR onramp makes users feel so confident in their options that they drop their accredited rep which they'd need for other VA tasks
+- Users gain false confidence in their decision review options that result in unfavorable outcomes
 
 ---
 ## Measuring Success
