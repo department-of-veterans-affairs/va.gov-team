@@ -42,3 +42,15 @@ Passcode: ?Nn2zTb+
     - This function makes sure that the page each page references in their switch link actually exists. It needs to be checked against the entire array of all the Lovell pages, so it has to be done near the end.
 7. Then all the Lovell data is mixed back in with all the other pages from Drupal
 8. The final step is taking the needed menu data, cloning it, and modifying it for Lovell. That menu data is mixed back into the rest of the Drupal data as well. The original menu used is then deleted so only the Lovell menu is used.
+
+## Real-time banners
+The VAMC System Banner Alert with Situation Updates content type (VSBAwSU) has an alternate publishing route than any other VAMC content. 
+* Drupal VSBAwSUs are saved
+* A Sidekiq job queries Drupal every 10 minutes for any new / updated content
+* Data from updates is saved in Redis
+* The `banners` service in vets-api provides that Drupal data via an API endpoint
+* The `/static-pages/situation-updates-banner` vets-website application displays banner content from the `banners` API
+
+**Technical architecture**: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2024-real-time-banners/engineering/technical-architecture.md
+
+**Monitoring:** https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/engineering/monitoring.md#real-time-banners
