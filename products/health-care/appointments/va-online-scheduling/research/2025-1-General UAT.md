@@ -52,7 +52,9 @@ Retiring
 * MTM: Taking care of my health
 * MTM: Managing my declining health
 ## Research Goals	
-What are you trying to learn from this research? 
+1. Evaluate how effectively Veterans navigate the appointments tool.
+2. Validate the usability of actions and tasks in the appointments tool.
+3. Evaluate how Veterans understand the information provided to them.
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
@@ -60,17 +62,31 @@ What are you trying to learn from this research?
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+**Navigation - Evaluate how effectively Veterans navigate the appointments tool**
+1.  How effectively can users, including those with screen readers (or voice control?), navigate through the app to locate and review appointment lists?
+2. Can Veterans navigate to and from sections, such as the AVS or other tools using the secondary navigation or back links?
+3. Does the navigation experience meet their expectations?
+
+**Action/Task - Validate the usability of actions and tasks in the appointments tool**
+1. Are Veterans able to complete tasks, such as scheduling appointments and requests, reviewing appointment details, canceling appointments, joining video visits, and adding appointments to their calendar, without confusion or error?
+2. Do users experience any challenges when completing these tasks?
+
+**Comprehension - Evaluate how Veterans understand the information provided to them.**
+1. Do Veterans understand instructions for preparing for their visit, and travel pay?
+2. Do Veterans understand the meaning of "Recent Locations"?
+3. Is error messaging clear and helpful, enabling Veterans to recover from issues and proceed with their tasks? Confusing?
+
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+1. Hypothesis for navigation:
+Veterans, including those using assistive technologies, will be able to navigate the app to locate and review their appointment lists efficiently without encountering barriers or confusion. Veterans will find the secondary navigation or back links intuitive and will successfully use them to navigate between sections.
+2. Hypothesis for completing tasks:
+Veterans will be able to complete key tasks (e.g., scheduling, reviewing, canceling, joining video visits, and adding appointments to their calendar) with minimal confusion or errors.
+3. Hypothesis for comprehension:
+Veterans will understand instructions for preparing for their visits. Veterans will correctly interpret the meaning of "Recent Locations" as places they have visited or scheduled appointments at. 
+
+
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
