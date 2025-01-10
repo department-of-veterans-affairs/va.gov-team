@@ -102,7 +102,7 @@ We are starting by building the initial wireframes for this process. This will a
 <details>
 
 - Team Name: govcio-vebt
-- GitHub Label: VEBT
+- GitHub Label: vebt edu forms
 - Slack channel: https://dsva.slack.com/archives/C0792CZTZJ5
 - Product POCs: Cinda Quattrini (cinda.quattrini@va.gov), Darla van Nieukerk (darla.vannieukerk@va.gov)
 - Stakeholders: Cinda Quattrini (cinda.quattrini@va.gov), Darla van Nieukerk (darla.vannieukerk@va.gov), Brian Grubb (brian.grubb@va.gov) 
