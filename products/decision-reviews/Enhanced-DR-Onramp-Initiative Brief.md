@@ -30,6 +30,7 @@ There are no "known" competitors for the capability to file a disability compens
 - As a Veteran, I want to feel I've been supplied enough engaging content to self-educate about the option differences.
 - Asa Veteran, I want to have confidence in my eligibility for a decision review.
 - As a Veteran, I want to know exactly how long I can expect a decision review option to take.
+- **As a Veteran, once I understand my decision review options, I want support in applying for them.
 
 ## Undesired User Outcomes
 - As a Veteran, I do not want the decision review options to be harder to choose between
