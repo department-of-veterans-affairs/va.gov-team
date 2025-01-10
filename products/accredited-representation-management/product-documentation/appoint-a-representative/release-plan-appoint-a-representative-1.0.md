@@ -33,7 +33,7 @@ Any uncovered issues or requirements that should be addressed prior to rollout?
 - [x] review the plan with your OCTO representative.
 
 **Verdict:Conditional Go**
-- We will be ready to enter Stage A (5%) when most reamaining issues in Sprint 11 are completed.
+- We will be ready to enter Stage A (5%) when most remaining issues in Sprint 11 are completed.
 - We will be ready to enter Stage B (50%) after significant open issues are resolved.
 
 ***
