@@ -894,7 +894,7 @@ _VA.gov CMS team: Meghana Khandekar, Ryan Sibley, Lapedra Tolson, Jane Newman, R
 #### June 17-24: Education Product Health Dashboard MVP
 *Platform Analytics & Insights Team, Research Lead: Layla Soileau*
 - 6 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/Platform/Teams/Analytics%20and%20Insights/Research/June%202019:%20Education%20Product%20Health%20Dashboard%20MVP)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/insights-analytics/research/product-health-prototype/version-1)
 
 #### June 17 - 21: Exploration of Veterans Perspectives of their VA Health Data
 *DSVA: Jane Newman*
