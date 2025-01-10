@@ -1,6 +1,6 @@
 # Documentation Audit Scope of Work
 
-The primary objective is to produce standard, long-living documentation for all APIs that power MVH on va.gov, including the following APIs:
+The primary objective is to produce standard, long-living documentation for all APIs that power MHV on va.gov, including the following APIs:
 
   - Medical Records
   - Secure Messaging
@@ -47,7 +47,7 @@ This should reflect what is currently being developed and how the team operates.
 
 ## Quality and Compliance Standards
 
-All documentation should follow the guidelines established by the Office of the CTO Engineering team and be structured following the standards set for VA.gov documentation. The final deliverables must be uploaded to the MHV Developer Documentation repository. An OCTO engineer should approve and review all documents early and often.
+All documentation should follow the guidelines established by the Office of the CTO Engineering team and be structured following the standards set for VA.gov documentation. The final deliverables must be uploaded to the MHV Developer Documentation repository (see section below for URL). An OCTO engineer should approve and review all documents early and often.
 
 For Diagrams, look at the [diagram standards](./document-standards.md).
 
