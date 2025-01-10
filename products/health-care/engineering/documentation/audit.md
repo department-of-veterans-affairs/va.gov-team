@@ -47,7 +47,7 @@ This should reflect what is currently being developed and how the team operates.
 
 ## Quality and Compliance Standards
 
-All documentation should follow the guidelines established by the Office of the CTO Engineering team and be structured following the standards set for VA.gov documentation. The final deliverables must be uploaded to the MHV Developer Documentation repository (see "Where and how to stor" section below for URL). An OCTO engineer should approve and review all documents early and often.
+All documentation should follow the guidelines established by the Office of the CTO Engineering team and be structured following the standards set for VA.gov documentation. The final deliverables must be uploaded to the MHV Developer Documentation repository (see "Where and how to store" section below for URL). An OCTO engineer should approve and review all documents early and often.
 
 For Diagrams, look at the [diagram standards](./document-standards.md).
 
