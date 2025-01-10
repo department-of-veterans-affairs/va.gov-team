@@ -2,7 +2,7 @@
 
 ## Feature Release Process Guide
 
-This guide outlines the complete workflow for releasing new features, ensuring consistency, reliability, and minimal downtime. The following detailed steps are minially what should be included:
+This guide outlines the complete workflow for releasing new features, ensuring consistency, reliability, and minimal downtime. The following detailed steps are minimally what should be included:
 
 - Ticket Creation:
   - Specify the ticketing system to be used (e.g., Jira).
@@ -89,6 +89,7 @@ This guide provides a step-by-step procedure for setting up a new production env
 - Environment Setup Steps:
   - Detailed steps for provisioning infrastructure (e.g., using Terraform, CloudFormation).
   - Configuration of key services (e.g., databases, caching layers).
+  - Steps for restoring databases and other production data from backups
 
 - Application Deployment:
   - Steps for deploying the application, including necessary configurations.
