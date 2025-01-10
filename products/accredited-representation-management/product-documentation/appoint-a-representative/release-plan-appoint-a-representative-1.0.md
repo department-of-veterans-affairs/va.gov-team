@@ -23,8 +23,8 @@ The following will take place right before Staged Rollout:
 - [x] Wrap the landing page react widget in the frontend feature toggle `appoint_a_representative_enable_frontend`
 - [x] Wrap the product in the frontend feature toggle `appoint_a_representative_enable_frontend` [#99874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99874)
 - [x] Enable the application in Production [#99874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99874)
-- [ ] Enable backend feature flag `use_veteran_models_for_appoint` to use the legacy tables (since the Accreditation API is not yet available) [#96246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96246)
-- [ ] Enable backend feature flag `appoint_a_representative_enable_pdf` to allow for searching for representatives in Appoint, generating the PDF, and sending the email notification. [#96246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96246)
+- [x] Enable backend feature flag `use_veteran_models_for_appoint` to use the legacy tables (since the Accreditation API is not yet available) [#96246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96246)
+- [x] Enable backend feature flag `appoint_a_representative_enable_pdf` to allow for searching for representatives in Appoint, generating the PDF, and sending the email notification. [#96246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96246)
 
 Any uncovered issues or requirements that should be addressed prior to rollout?
 
@@ -33,12 +33,8 @@ Any uncovered issues or requirements that should be addressed prior to rollout?
 - [x] review the plan with your OCTO representative.
 
 **Verdict:Conditional Go**
-
-- We will be ready to enter Stage A (10%) when most reamaining issues in Sprint 11 are completed.
-
-- We will be ready to enter Stage B (50%) after the two remaining larger isues are completed: 
-   - [Add Organization address validation to Trexler File process job](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96247)
-   - [Phone Number error does not match design system](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96854)
+- We will be ready to enter Stage A (5%) when most reamaining issues in Sprint 11 are completed.
+- We will be ready to enter Stage B (50%) after significant open issues are resolved.
 
 ***
 
@@ -83,27 +79,23 @@ The following will be considered before advancing rollout to the next stage:
 
 1. Errors in Datadog
 2. Google Analytics traffic to Appoint a Representative
-   1. Product growth: total users, new users, sessions, page views
-   2. Engagement: average sessions duration, views per session, average time on page
-   3. Navigation: top previous path sessions
 3. Test with a user in Production to confirm the experience functioning as expected
 
 ### Stage A Results (Jan 6-8, 2025)
 
 1. Errors in Datadog
 2. Google Analytics traffic to Appoint a Representative
-   1. Product growth: total users, new users, sessions, page views
-   2. Engagement: average sessions duration, views per session, average time on page
-   3. Navigation: top previous path sessions
-4. What changes (if any) need to be implemented before proceeding to the next rollout stage? 
+4. What changes (if any) need to be implemented before proceeding to the next rollout stage?
+   1. [Add Organization address validation to Trexler File process job](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96247)
+   2. [Datadog Monitoring | Appoint a Representative MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92287)
+   3. [VA Notify email confirmation is not being sent](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100645)
+   4. [2122 PDF generation is checking consent limit boxes when the user says allow everything](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100739)
+   5. [Medical authorizations not updating when selecting "some" then correcting to "all"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100627)
 
 ### Stage B Results (Jan 8-13, 2025)
 
 1. Errors in Datadog
 2. Google Analytics traffic to Appoint a Representative
-   1. Product growth: total users, new users, sessions, page views
-   2. Engagement: average sessions duration, views per session, average time on page
-   3. Navigation: top previous path sessions
 3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
 
 ## Post Launch Metrics
@@ -114,9 +106,6 @@ _Link to DOMO dashboards TBD_
 
 1. **Errors in Datadog**:
 2. Google Analytics traffic to Appoint a Representative
-   1. Product growth: total users, new users, sessions, page views
-   2. Engagement: average sessions duration, views per session, average time on page
-   3. Navigation: top previous path sessions
 12. **Contact Center calls (MyVA411)**: 
 13. **Feedback survey submmissions (Medallia)**: 
 
@@ -129,9 +118,6 @@ _Link to DOMO dashboards TBD_
 
 1. **Errors in Datadog**:
 2. 2. Google Analytics traffic to Appoint a Representative
-   1. Product growth: total users, new users, sessions, page views
-   2. Engagement: average sessions duration, views per session, average time on page
-   3. Navigation: top previous path sessions
 12. **Contact Center calls (MyVA411)**: 
 13. **Feedback survey submmissions (Medallia)**: 
 
@@ -148,4 +134,5 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 2. **What qualitative feedback have you gathered from users or other stakeholders?** 
 3. **Which assumptions you listed in your product outline were/were not validated?**
 4. **How might your product evolve now or in the future based on these results?** 
-5. **What technical tasks are needed to clean up (i.e., removal of feature toggles)?** 
+5. **What technical tasks are needed to clean up (i.e., removal of feature toggles)?**
+   1. [Remove unnecessary Appoint MVP feature flags](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99680)
