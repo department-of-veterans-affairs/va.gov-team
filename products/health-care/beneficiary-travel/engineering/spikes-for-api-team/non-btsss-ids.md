@@ -11,7 +11,6 @@ This is an another push to iterate on the existing portal centric architecture i
   - Adds latency and performance concerns
     - Potentially performant heavy calls that interact with other systems (VIA, MPI, ES, etc)
     - More calls over the TIC
-  - Adds brittleness and forces the client to create a state that can be lost
 - data sync issues
   - Puts the use cases around what to do if information doesn't exist or align with other systems in front and the Veteran vs it *just working out* since `we know all these already`
 
