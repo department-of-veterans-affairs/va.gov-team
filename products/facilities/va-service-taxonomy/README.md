@@ -21,6 +21,8 @@ The content structure of the taxonomy is built intentionally to accommodate the 
 - The taxonomy is consumed by the [Facilities API](https://developer.va.gov/explore/facilities/docs/facilities?version=current) for use by all VA digital products, and public third-party products
 
 ## Contacts / Content Governance
+Proposed new taxonomy terms or naming changes to existing terms should be reviewed by the "taxonomy council" which consists of the contacts listed below.
+
 Person | Email | Role |
 ---| --- | --- |
 Michelle Middaugh | suzanne.middaugh@va.gov | OCTO product owner 
@@ -29,7 +31,6 @@ Jenny Heiland-Luedtke | jennifer.heiland-luedtke@va.gov | Deputy Director, VHA D
 Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC) 
 TBD | tbd@va.gov | (VBA POC)
 
-Changes to Taxonomy should be reviewed by these stakeholders, including changing categories or heirarchy.
 
 ## Taxonomy structure
 
