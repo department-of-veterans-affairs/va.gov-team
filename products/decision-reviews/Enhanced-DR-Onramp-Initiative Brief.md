@@ -12,13 +12,19 @@
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* Today, Veterans sometimes struggle to choose the right Decision Review option for their unique needs for a myriad of reasons, that can result in delays and unfavorable decisions. Veterans seem to sort cleanly into two groups, learners and doers. For some more information is good, and for others the opposite is true. Veterans aren't consistently able to clearly differentiate between the options and know how long each decision review option will take.   
+* Today, Veterans sometimes struggle to choose the right Decision Review option for their unique needs for a myriad of reasons, that can result in delays and unfavorable decisions. Veterans seem to sort cleanly into two groups, learners and doers. For some more information is good, and for others the opposite is true. Veterans aren't consistently able to clearly differentiate between the options, know whether they are eligibile and know how long each decision review option will take.   
+
+## Target Audience
+The ehhanced Decision Review onramp will focus on Veterans (or their accreditted representatives) that seek to file a disability compensation claim via the online supplemental claim form or the higher level review form AND Veterans that seek to file a Board Appeal including but not limited to disability compensation. Additionally, the enhanced onramp will key in on users that have first navigated to the "VA decision reviews and appeals" or "Choosing a decision review option" pages on VA.gov.  
+
+## Competitors
+There are no "known" competitors for this particular initiative where there's capability to file a disability compensation claim or Board Appeal with the VA outside of direct VA options. 
 
 ## Desired User Outcomes
 - As a Veteran, I want to know the exact purpose of each decision review option.
-- As a Veteran, I want to feel I've been supplied enough engaging content to self-educate about the options.
+- As a Veteran, I want to feel I've been supplied enough engaging content to self-educate about the option differences.
+- Asa Veteran, I want to have confidence in my eligibility for a decision review.
 - As a Veteran, I want to know exactly how long I can expect a decision review option to take.
-- As a Veteran, I want to feel supported in changing my decision review selection if I desire to.
 
 ## Undesired User Outcomes
 - As a Veteran, I do not want the decision review options to be harder to choose between
@@ -28,9 +34,19 @@
 ## Desired Business Outcomes
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Reduction in Veterans that submit claims and appeals for which they do not qualify for
+- Reduction in 526 and 0995 end products that are switched
+- Reduction in duplicate submissions
+- Increase of Veterans that state they're satisfied with their online decision review experience
+
 
 ## Undesired Business Outcomes
--->
+- Increase in Veterans that state they're unhappy with their online decision review experience
+- Reduction in overall submissions
+
+## Risks
+- Not supporting users seeking to file claims NOT for disability compensation with our enhanced DR onramp can cause frustration for those users
+- Enhanced DR onramp makes users feel so confident in their options that they drop their accredited rep which they'd need for other VA tasks
 
 ---
 ## Measuring Success
