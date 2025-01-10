@@ -81,7 +81,7 @@ The following will be considered before advancing rollout to the next stage:
 2. Google Analytics traffic to Appoint a Representative
 3. Test with a user in Production to confirm the experience functioning as expected
 
-### Stage A Results (Jan 6-8, 2025)
+### Stage A Results (Jan 8-13, 2025)
 
 1. Errors in Datadog
 2. Google Analytics traffic to Appoint a Representative
@@ -92,7 +92,7 @@ The following will be considered before advancing rollout to the next stage:
    4. [2122 PDF generation is checking consent limit boxes when the user says allow everything](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100739)
    5. [Medical authorizations not updating when selecting "some" then correcting to "all"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100627)
 
-### Stage B Results (Jan 8-13, 2025)
+### Stage B Results (Jan 13-15, 2025)
 
 1. Errors in Datadog
 2. Google Analytics traffic to Appoint a Representative
@@ -102,7 +102,7 @@ The following will be considered before advancing rollout to the next stage:
 
 _Link to DOMO dashboards TBD_
 
-### 1-Week Results Post-Launch (Jan 13-19, 2025)
+### 1-Week Results Post-Launch (Jan 15-22, 2025)
 
 1. **Errors in Datadog**:
 2. Google Analytics traffic to Appoint a Representative
@@ -114,7 +114,7 @@ _Link to DOMO dashboards TBD_
 **OKRs:**
 
 
-### 1-Month Results Post Launch (Jan 13 - Feb 12, 2025)
+### 1-Month Results Post Launch (Jan 15 - Feb 14, 2025)
 
 1. **Errors in Datadog**:
 2. 2. Google Analytics traffic to Appoint a Representative
