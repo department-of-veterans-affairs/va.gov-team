@@ -2,11 +2,11 @@
 
 In order to improve stakeholder visibility and collaboration between engineering teams, standardized documentation  for all APIs that power MHV on va.gov should be available in a centralized location. This includes the following APIs:
 
-  - Medical Records
-  - Secure Messaging
-  - Medications
-  - Account Activity Log
-  - Session API
+- Medical Records
+- Secure Messaging
+- Medications
+- Account Activity Log
+- Session API
 
 This should reflect what is currently being developed and how the team operates. This is not an exercise in iterating on the current process but a documentation of where we are today. We accept that some of these documents need to be created and/or updated. There is also a real chance that a bunch of these exist, but they are not easily findable. This will be a cross-team effort to locate, update, create, and/or align the documentation.
 
@@ -22,7 +22,7 @@ This should reflect what is currently being developed and how the team operates.
   - **Code Owners**: Who owns it.
   - **Architecture Diagrams:** Preferably in C4 model style or another clear format, illustrating system design, tech stack (with versions), and external dependencies.
   - **Database Diagrams:** Visual representation of database architecture and relationships.
-  - **Sequence Diagrams:** for core features, detailing both happy path and failure points.
+  - **Sequence Diagrams:** for core features, detailing how data and/or users navigate both happy path and failure points.
   - **Network Diagram:** Comprehensive diagram of the production environment's network architecture.
   - **OpenAPI (Swagger) Documentation:** Detailed API documentation for all APIs consumed by VA.gov.
   - **CI/CD Pipeline Documentation:**
