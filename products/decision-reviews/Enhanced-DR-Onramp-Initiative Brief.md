@@ -19,7 +19,7 @@ The ehhanced Decision Review onramp will focus on Veterans (or their accreditted
 
 Why?
 - This is because the Decision Review team leading this initiative only currently supports the online form of these DR options currently so it's vital to keep this consistency.
-- This is because those static pages are the only VA.gov gateway pages that lead to users being able to submit a SC, HLR or NOD. 
+- This is because those static pages are the only VA.gov gateway pages that enable users to submit an online SC, HLR or NOD. 
 
 ## Competitors
 Competitors that provide information regarding clarification of decision review options
