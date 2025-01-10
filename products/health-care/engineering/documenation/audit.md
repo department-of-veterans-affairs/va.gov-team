@@ -2,11 +2,11 @@
 
 The primary objective is to produce standard, long-living documentation for all APIs that power MVH on va.gov, including the following APIs:
 
-  Medical Records
-  Secure Messaging
-  Medications
-  Account Activity Log
-  Session API
+  - Medical Records
+  - Secure Messaging
+  - Medications
+  - Account Activity Log
+  - Session API
 
 These documents should all exist in the same spot to be easily searched and shared.
 
@@ -21,7 +21,7 @@ This should reflect what is currently being developed and how the team operates.
 ## Required Documentation
 
 - Technical Diagrams and Documentation:
-  - **Code Owners**: Who owns it;
+  - **Code Owners**: Who owns it.
   - **Architecture Diagrams:** Preferably in C4 model style or another clear format, illustrating system design, tech stack (with versions), and external dependencies.
   - **Database Diagrams:** Visual representation of database architecture and relationships.
   - **Sequence Diagrams:** for core features, detailing both happy path and failure points.
@@ -53,7 +53,7 @@ For Diagrams, look at the [diagram standards](./document-standards.md).
 
 For operation guide, look at the [operations standards](./operations-guide-standards.md).
 
-Note that these are just starting points and are always up for iteration and adjusting as we create the documentation.
+Note that these are just starting points and are subject to iteration and adjustments as we improve the documentation.
 
 ## Where and how to store
 
@@ -62,6 +62,6 @@ Note that these are just starting points and are always up for iteration and adj
   - `/technical-documentation/medical-records`
   - `/technical-documentation/medications`
   - etc...
-- Beyond being in the API folder, the structure is up to the team. This main goal to get all things together in one place and create was missing
+- Beyond being in the API folder, the structure is up to the team. This main goal is to have a centralized location for all documentation and address any missing information.
 - All documents should be Github flavor markdown.
-  - diagrams should be embedded images or using [mermaid](https://mermaid.js.org/)
+  - diagrams should ideally be created with [mermaid](https://mermaid.js.org/) inline in the documentation, or embedded images when not practical.
