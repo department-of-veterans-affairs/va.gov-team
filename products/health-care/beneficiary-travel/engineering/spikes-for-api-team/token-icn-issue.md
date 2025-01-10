@@ -1,8 +1,6 @@
 # Problem: Creating a token without a valid ICN
 
-There is an......
-
-IDK enough details here to create a ticket
+ticket: https://jira.devops.va.gov/browse/BTSSS-8653
 
 ## Risks
 

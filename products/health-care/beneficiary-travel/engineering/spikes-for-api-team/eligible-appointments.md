@@ -18,9 +18,7 @@
 
 ## Proposed Spike
 
-One idea that is one the table is how can give clients some guidance into what appointments have a higher change of getting approved by creating an endpoint that allows for querying for what appointments are eligible
-
-## Additional Notes
+One idea that is one the table is how can give clients some guidance into what appointments have a higher change of getting approved by creating an API endpoint that allows for querying for what appointments are eligible given a date range.
 
 From the hip the API endpoint would look like
 
@@ -28,7 +26,7 @@ From the hip the API endpoint would look like
 GET /appointments/eligible
 
 Parameters
-- ICN (from token)
+- ICN (from token?)
 - Date range to check
 
 Returns

@@ -2,8 +2,11 @@
 
 When we creating a claim, the API requires using identifiers that are only found in the BTSSS (MS Dynamics) System. In using BTSSS specific ids for contact and appointment references, we are creating a tight coupling of systems; causing synchronization and performance issues.
 
+This is an another push to iterate on the existing portal centric architecture into a more API centric architecture.
+
 ## Risks
 
+- Depending on where the source ID comes from, may require more work from product teams
 - This approaches causes multiple API calls
   - Adds latency and performance concerns
     - Potentially performant heavy calls that interact with other systems (VIA, MPI, ES, etc)
