@@ -67,11 +67,12 @@ Investigation
   ```
 - Provide the full list of attachment IDs and their PEGA statuses to the PEGA team for analysis
  - The PEGA team will provide the applicant name and the batchID to the VA.gov team.
+ - In the event that a third party applicant has signed the document, the VA.gov team can obtain the email of the signer and give it to the EEV escalation team.
 
 Resolution
-  -In a private teams chat labeled CHAMPVA Production Support, the PEGA batch ID and name will be given to the EEV Escalation team (Scot Uyeoka supervisor) where an analyst will examine the application to see if it missing any informatoin for processing.
-  - The PEGA team will provide a decision on whether or not the user needs to be contacted and asked for a resubmit of part or all of the form and its documents and will electronically reach out to the applicant to make the application complete.
+
+  -In a private teams chat labeled **CHAMPVA Production Support**, the PEGA batch ID and name will be given to the EEV Escalation team (Scot Uyeoka supervisor) where an analyst will examine the application to see if it missing any informatoin for processing.
+  - The EEV Escalation team will provide a decision on whether or not the user needs to be contacted and asked for a resubmit of part or all of the form and its documents and will electronically reach out to the applicant to make the application complete.
   - The VA.gov team will clear the error.
-  - In the event that a third party applicant has signed the document, the VA.gov team can obtain the email of the signer and give it to the EEV escalation team.
   - Based on the PEGA team's response, work with PM, PO, and PEGA team to reach out to the affected user(s).
  
