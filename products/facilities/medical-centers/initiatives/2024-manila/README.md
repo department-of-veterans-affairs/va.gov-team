@@ -11,3 +11,6 @@ However, Manila is a special type of facility, and does not cleanly map to any e
 
 ## Epic
 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9419
+
+## Content model
+[Manila VA Clinic - Sitemap.xlsx](https://github.com/user-attachments/files/16753748/Manila.VA.Clinic.-.Sitemap.xlsx) (VA SharePoint)
