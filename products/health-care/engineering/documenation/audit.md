@@ -1,4 +1,4 @@
-# Documentation audit Scope of Work
+# Documentation Audit Scope of Work
 
 The primary objective is to produce standard, long-living documentation for all APIs that power MVH on va.gov, including the following APIs:
 
