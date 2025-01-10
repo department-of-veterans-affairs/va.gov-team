@@ -1,24 +1,38 @@
 
-# Product Outline: Form 22-8794
+# Product Outline: Form 22-1919
 
 ---
 
 ## Overview
-This form collects the names and signatures of individuals authorized to certify enrollment details for the Department of Veterans Affairs. This includes updates to the names and titles of all certifying officials.
+The solution is an intuitive and accessible online form that simplifies the process of reporting and identifying potential conflicts of interest for Veterans, VA employees, SAA employees, and proprietary school officials, ensuring compliance with legal restrictions while enhancing usability on VA.gov.
 
 ## Problem Statement
-How might we ensure that institutions accurately and efficiently update certifying official information to the Department of Veterans Affairs? The challenge lies in providing a clear, streamlined process for collecting and submitting the names and titles of authorized individuals whenever changes occur, ensuring compliance and reducing errors in enrollment certification.
+**Who**: Veterans, VA employees, SAA employees, and proprietary school officials involved in the education assistance process.  
+**What**: They face challenges in accurately reporting potential conflicts of interest due to the outdated and cumbersome nature of the current PDF form.  
+**Why**: The existing form is not user-friendly, making it difficult to ensure compliance with legal restrictions and process the required information efficiently.  
+**Where**: The issue arises within the education assistance reporting process on VA.gov, specifically when dealing with proprietary school-related conflicts of interest.  
+
+How might we create a user-friendly and accessible digital form on VA.gov that streamlines the process of reporting potential conflicts of interest, ensuring compliance with legal restrictions while improving the experience for Veterans, VA employees, SAA employees, and proprietary school officials?
+
+
  
 ## Desired User Outcomes
-A user would want to use this form to ensure their institution remains compliant with VA requirements by accurately updating and maintaining the records of authorized certifying officials. This helps avoid delays or issues with enrollment certifications, ensuring a smooth process for both the institution and the veterans they serve.
-<!-- 
-## Undesired User Outcomes -->
+
+- **Why would a user want to use this?**  
+A user would want to use this because it provides a streamlined, accessible, and efficient way to comply with legal requirements, replacing a cumbersome PDF process with a more intuitive online solution that saves time and reduces errors.  
+
+**With this problem solved, what should users be able to do/achieve that they couldn't before?**  
+Users should be able to easily report potential conflicts of interest, submit accurate and complete information, and navigate the form without confusion, ensuring compliance with legal requirements while minimizing administrative burdens.
+
+<!-- ## Undesired User Outcomes -->
 
 
 ## Desired Business Outcomes
-With this problem solved, the business will be able to maintain accurate and up-to-date records of certifying officials, ensuring compliance with VA requirements. This will streamline the enrollment certification process, reduce errors, and improve efficiency, ultimately supporting better service delivery for institutions and the Veterans they assist.
-<!-- 
-## Undesired Business Outcomes
+
+**Why would your business want this to exist?**  
+The VA would want this solution to exist to enhance compliance with legal restrictions, reduce administrative inefficiencies caused by incomplete or inaccurate submissions, and align with its commitment to providing Veterans, employees, and stakeholders with accessible, user-friendly digital services on VA.gov.
+
+<!-- ## Undesired Business Outcomes
 
 
 ---
@@ -47,19 +61,19 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - Key result: 
 
 
---- -->
+---
 
 ## Assumptions
-The most risky assumption is that institutions will consistently and accurately complete and submit Form 22-8794 with all required information (names, titles, and signatures) whenever changes occur. This assumes users understand the process, have access to the form, and can identify when updates are needed.
-
-Our solution approach will validate this assumption by providing clear instructions within the form interface, implementing guided steps for completing updates, and tracking submission rates to ensure compliance. Early functionality will include user testing with a small group of certifying officials to confirm that the process is intuitive and meets their needs.
+- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
-We are starting by building the initial wireframes for this process. This will allow us to focus on the core structure and functionality of the form. This helps ensure that the process is intuitive, the required information is easy to locate and input, and the user flow supports accurate and efficient form completion. Early wireframes also enable us to gather feedback from users and stakeholders, validating the design before moving into more detailed development stages.
+- *Why this solution / approach over other solutions / approaches?*
+- *What have you explicitly decided to not include in this initial set of functionality, and why?*
+- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-<!-- ### Initiatives
+### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
 - Initiative | [Link to Initiative Brief](#)

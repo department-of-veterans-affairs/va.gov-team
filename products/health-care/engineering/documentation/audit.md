@@ -10,7 +10,7 @@ The primary objective is to produce standard, long-living documentation for all 
 
 These documents should all exist in the same spot to be easily searched and shared.
 
-This should reflect what is currently being developed and how the team operates. This is not an exercise in iterating on the current process but a documentation of where we are today. We accept that some of these documents need to be created and/or updated. There is also a real chance that a bunch of these exist, but they are not easily findable. This will be a cross-team effort to create and align the documentation.
+This should reflect what is currently being developed and how the team operates. This is not an exercise in iterating on the current process but a documentation of where we are today. We accept that some of these documents need to be created and/or updated. There is also a real chance that a bunch of these exist, but they are not easily findable. This will be a cross-team effort to locate, update, create, and/or align the documentation.
 
 ## The Tickets Needed for this PI
 
