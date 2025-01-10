@@ -233,7 +233,7 @@ When would you like sessions scheduled?
 
 01/30/2025 12-3:30pm ET
 
-01/31/2025 12-3:30pm ET
+01/31/2025 2-4pm ET
 
 	
 ## Team Roles	
