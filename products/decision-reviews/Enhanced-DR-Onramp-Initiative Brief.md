@@ -17,6 +17,10 @@
 ## Target Audience
 The ehhanced Decision Review onramp will focus on Veterans (or their accreditted representatives) that seek to file a disability compensation claim via the online supplemental claim form or the higher level review form AND Veterans that seek to file a Board Appeal including but not limited to disability compensation. Additionally, the enhanced onramp will key in on users that have first navigated to the "VA decision reviews and appeals" or "Choosing a decision review option" pages on VA.gov.  
 
+Why?
+- This is because the Decision Review team leading this initiative only currently supports the online form of these DR options currently so it's vital to keep this consistency.
+- This is because those static pages are the only VA.gov gateway pages that lead to users being able to submit a SC, HLR or NOD. 
+
 ## Competitors
 Competitors that provide information regarding clarification of decision review options
 - Accredited representatives
