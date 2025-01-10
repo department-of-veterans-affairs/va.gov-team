@@ -16,3 +16,9 @@ https://vagov.ddog-gov.com/monitors/170096
 - Warning > 1, Alert > 3
 
 TODO: Sentry is slated for deprecation from the VA ecosystem. This monitor will need to be revised to stop using Sentry, ticketed in https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18708.
+
+
+### Real-Time banners
+Banners Failing to Update - https://vagov.ddog-gov.com/monitors/302589 
+
+Banners API is failing to respond successfully - https://vagov.ddog-gov.com/monitors/302592 - will alert if we see more than 3 errors from the API in any env within a 5 minute window.
