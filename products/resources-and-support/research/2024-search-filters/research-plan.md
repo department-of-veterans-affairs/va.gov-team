@@ -5,10 +5,10 @@
 ## Background
 Initially called the "Learning Center", Resources & Support (R&S) leverages a variety of Drupal content types to provide an unauthenticated self-serve library with targeted, supplemental information to help Veterans and other beneficiaries understand their VA benefits. Since launching in 2020, R&S has expanded to include 100 published articles (as of December 2024). We expect the number of articles will continue to grow via the ongoing migration of content to VA.gov from legacy sites. 
 
-CAIA's recent work to evaluate the content that is currently in the Benefit Hubs (428 published articles as of December 2024) determined that as much as 50% of the content is expected to be moved into RR&S. This anticipated growth accelerated the prioritization of ensuring the R&S experience adequately supports discoverability and Veteran understanding.
+CAIA's recent work to evaluate the content that is currently in the Benefit Hubs (428 published articles as of December 2024) determined that as much as 50% of the content is expected to be moved into R&S. This anticipated growth accelerated the prioritization of ensuring the R&S experience adequately supports discoverability and Veteran understanding.
 
 **Read more:**
-- [Resources & Support product brief](https://github.com/department-of-veterans-affair=s/va.gov-team/blob/master/products/resources-and-support/readme.md)
+- [Resources & Support product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/readme.md)
 - [Resources & Support search enhancements initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1)
 
 ### OCTO Priorities 
@@ -25,16 +25,16 @@ Objective 1: Our digital experiences are the best way to access VA health care a
 - Dying
 
 ## Research Goals	
-1. Confirm if the designs of the filter drawer and filter chips support user understanding of functionality
+1. Get user feedback on the new filter design and functionality to find information
 2. Understand which of the search, filtering, and browsing options users choose to interact with
 3. Learn if the labels and groupings of filters align with user mental models
  
 ### Outcome
-Validate the proposed design so we can start building it. There will be a second round of usability testing once it is built in Staging.
+Validate the proposed design so we can start building it. There will be a second round of usability testing once it is built in Staging to get feedback from assistive tech users.
 
 ### Research questions
 
-**Goal 1. Confirm if the designs of the filter drawer and filter chips support user understanding of functionality**
+**Goal 1. Get user feedback on the new filter design and functionality to find information**
 - Do users understand how to access the filter drawer?
 - Do users understand the and/or logic between filters across/within filter groups?
 - Do users understand the Apply filters, Clear all, and X buttons in filter drawer?
@@ -80,8 +80,8 @@ Validate the proposed design so we can start building it. There will be a second
 - Are there other filters that users expect that are missing?
 
 **Misc questions that cut across goals**
-- Do users find the infomation they are looking for, regardless of which path they take to get there?
-- Do diferent user groups (Veterans, family members and caregivers, service members) have different outcomes?
+- Do users find the information they are looking for, regardless of which path they take to get there?
+- Do different user groups (Veterans, family members and caregivers, service members) have different outcomes?
 - Are there other factors (e.g. frequency of VA.gov use, VA benefits received) that affect how easily users are able to find relevant information?
 - What are user expectations of the scope of R&S search vs site-wide search?
 - What are users previous experiences with searching/browsing for information on VA.gov?
@@ -89,14 +89,14 @@ Validate the proposed design so we can start building it. There will be a second
 ### Hypotheses
 1. Users will understand the search, filtering, and browsing functionality available to them 
 2. Users will understand the labels of filters and filter groups 
-3. Users will find the relevant information
+3. Users are able to find the information that they're looking for
 
 ## Methodology	
-- Semi-structured interviews 
-- Usability testing 
+We will conduct **remote moderated usability testing** to observe research participants using a mobile prototype.   
+
 
 ### Location
-Remote via Zoom
+Sessions will be conducted remotely over Zoom with transcripts. 
 
 ### Research materials
 
@@ -104,8 +104,10 @@ Remote via Zoom
 - [Link to mobile prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Resources-support?node-id=1014-7143&node-type=frame&t=Hqo6gTwXj6DNmGNd-0&scaling=scale-down&content-scaling=fixed&page-id=504%3A6304&starting-point-node-id=1014%3A7143&show-proto-sidebar=1&disable-default-keyboard-nav=1&hide-ui=1)
 	
 ## Recruitment - WIP
+-  Perigean to recruit **9 Veterans and 3 caregivers or family members** of Veterans who meet the below criteria in order to get a minimum of **10 completed sessions**, preferably evenly represented between mobile and desktop. 
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
+
+OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans, family members, caregivers, and Service members. 
 
 Before writing your recruitment criteria, be sure to review the following resources. 
 - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
@@ -114,15 +116,16 @@ Before writing your recruitment criteria, be sure to review the following resour
 ### Recruitment approach - WIP
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
 
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria - WIP
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+List the total number and type (Veterans, caregivers, etc.) of participants for this study.
+Recruit 12 people:
+6 Veterans
+2 Service members
+2 Caregivers of a Veteran
+2 Family members of a Veteran
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
