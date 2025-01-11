@@ -166,7 +166,7 @@ Please request enough dates and at ***least double the amount of time slots for 
 **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Send emails only for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
 - **Moderator:** Cindy Merrill
-- **Research guide writing and task development:** Cindy Merrill and Cindy Merrill
+- **Research guide writing and task development:** Cindy Merrill
 - **Participant recruiting & screening:** Perigean
 - **Project point of contact:** Cindy Merrill 
 - **Participant(s) for pilot test:** 
