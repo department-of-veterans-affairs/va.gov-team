@@ -17,10 +17,12 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 - Able to interact with travel reimbursement functionality directly on VA.gov and VA Flagship mobile app
 - Able to interact travel reimbursement functionality where it is needed by leveraging an API-first approach
 - Enjoy a simple, intuitive experience that meets all VA.gov accessibility, design standards, and performance standards
-
+- Positive feedback through Medallia
+ 
 ## Undesired User Outcomes
 
 - Increased usage of the existing Veteran-facing BTSSS portal
+- Frustration preventing submission of claims
 
 ## Desired Business Outcomes
 
@@ -83,7 +85,7 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 
 ### Initiatives
 
-- MVP - Status of a Claim | [Link to Initiative Brief](./feature-reference/mvp-implementation/)
+- MVP - Status of a Claim | 
 
 --- 
 
@@ -96,7 +98,7 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 - *Target Launch Date - Travel Pay Status Page*
   - May 2024
 - *Actual Launch Date* 
-  - TBD
+  - January 2025
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - Two months after actual launch
 
