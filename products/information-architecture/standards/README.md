@@ -7,9 +7,6 @@
 
 ### IA standards and IA-related components
 
-** = try to finish by the end of the year
-* = stretch goal for finishing by the end of the year
-
 [Sharepoint folder for standards documentation](https://dvagov-my.sharepoint.com/:f:/r/personal/michelle_northuis_va_gov/Documents/IA/Standards?csf=1&web=1&e=6XnSEl)
 
 Component/Pattern | Published documentation | Priority/Effort | POC | Revisions and work in progress | Status/Next steps | 
