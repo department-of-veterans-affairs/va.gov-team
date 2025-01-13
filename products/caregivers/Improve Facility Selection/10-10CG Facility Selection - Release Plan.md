@@ -91,7 +91,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 |Average time on page |Monthly Average Baseline (Jan-Dec 2023)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
-|Search page| 55 seconds |30 seconds|TBD|
+|Search page| 52 seconds |30 seconds|TBD|
 |Confirmation page |NEW|15 seconds|TBD|
 
 
