@@ -87,7 +87,7 @@ For Andriod:
 
 ## First Task: [Institution details review] - 7 minutes
 
-- Step 1: Please take a moment to go through the details provided for Columbia University in the City of New York. Once you're finishied, can you find the yellow ribbon program information section on this page?
+- Step 1: Please take a moment to go through the details provided for Columbia University in the City of New York. Once you're finishied, go to the Yellow Ribbon Program information section on this page.
 
 ### Things to watch for:
 - [Does the participant understand meaning of xyz?]
@@ -138,7 +138,7 @@ For Andriod:
 
 ## Post-Task Interview - 4 minutes
 This concludes our review, I just have a few final questions.
-- What's your overall opinion of the Yellow Ribbon Program information in the comparison tool?
+- What's your overall opinion of the Yellow Ribbon Program information section?
 - Did any tasks confuse you?
 - Do you have any additional comments?
 - Any questions for me?
