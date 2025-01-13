@@ -20,8 +20,8 @@ Deliver a seamless and positive experience for any Veteran or Caregiver who want
 
 ### Product Team
 - Kevin Duensing, Engineering Lead
-- Dan Hinze, Engineering
-- Athif Wulandana, Engineering
+- Liz Townsend, Engineering
+- Calvin Cieslak, Engineering
 - Micah Taylor, UX Design
 - Cara Frissell, Research
 
@@ -39,7 +39,6 @@ Deliver a seamless and positive experience for any Veteran or Caregiver who want
 - Matt Lamb, Developer
 - Joshua Patterson, Developer
 
-
 ## Communication
 
 GitHub label = `beneficiary-travel`
@@ -54,10 +53,6 @@ GitHub label = `beneficiary-travel`
 - [Product Outline](./product-outline-btsss.md)
 - Roadmap
   ![VA  BTSSS on VA gov Roadmap_2024-01-18_18-52-39](https://github.com/laurenernest/va.gov-team/assets/72046525/b287c732-1ff7-4268-a7ba-50fd4d3353b3)
-
-
-
-
 
 ## Research
 - [Path analysis research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104)
