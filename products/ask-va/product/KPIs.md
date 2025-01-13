@@ -1,5 +1,5 @@
 # Ask VA KPIs
-Last updated by @beckyphung on November 25, 2024
+Last updated by @beckyphung on January 13, 2025
 
 🚧 10/24 Update: We don't have all targets currently. Also, we're currently working on updating the **Performance KPIs** section.
 
@@ -80,8 +80,9 @@ Performance KPIs measure the technical aspects of Ask VA, such as speed, reliabi
 |KPI|Actual targets as of [date]|
 |:--|:--|
 |**Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions|VA.gov silent failures rate: ❓|
-|**Successful submissions to CRM**|xx|
-|**Failed submissions to CRM**|xx|
+|**Error rate (Form submissions to CRM)** - Decrease |xx|
+|**Error rate (Dashboard replies)** - Decrease |xx|
+|**Error rate (All APIs )** - Decrease |xx|
 |**Other things**|xx|
 
 ### Other performance metrics
