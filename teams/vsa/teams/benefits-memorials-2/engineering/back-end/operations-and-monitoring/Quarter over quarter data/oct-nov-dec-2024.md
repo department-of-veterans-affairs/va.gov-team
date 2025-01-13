@@ -1,13 +1,13 @@
 ## Summary of Performance Type Metrics by Quarter
-### Jul/Aug/Sept 2024
+### Oct/Nov/Dec 2024
 #### Medical Copay Metrics
-![Screenshot 2025-01-13 at 12 11 57 PM](https://github.com/user-attachments/assets/5a296dcc-e9d2-476a-8603-405bb446493c)
+![Screenshot 2025-01-13 at 12 16 47 PM](https://github.com/user-attachments/assets/1ad9d214-92b7-467b-bdd4-5403efaa06b0)
 
-![Screenshot 2025-01-13 at 12 08 59 PM](https://github.com/user-attachments/assets/2164a035-a15e-416e-95c5-820265b0b2f7)
+![Screenshot 2025-01-13 at 12 16 59 PM](https://github.com/user-attachments/assets/44aaa3ec-3f51-413b-a493-07ebdecab21c)
 
 
 #### Debt Metrics
-![Screenshot 2025-01-13 at 12 10 39 PM](https://github.com/user-attachments/assets/372d9090-6e51-44b9-951c-960294e18ef5)
+![Screenshot 2025-01-13 at 12 17 51 PM](https://github.com/user-attachments/assets/681a730a-4b42-437e-a587-3cab8925ec92)
 
-![Screenshot 2025-01-13 at 12 11 13 PM](https://github.com/user-attachments/assets/b448e04d-2536-4286-8fcb-f3feb2c22033)
+![Screenshot 2025-01-13 at 12 17 59 PM](https://github.com/user-attachments/assets/2c292f58-95f3-47d4-bf9d-3676372f943d)
 
