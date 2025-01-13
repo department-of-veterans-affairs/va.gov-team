@@ -1,5 +1,5 @@
 # Product outline for Ask VA
-Last updated by @beckyphung on January 3, 2025
+Last updated by @beckyphung on January 13, 2025
 
 **Jump to:**
 - [Overview](#overview)
@@ -73,15 +73,13 @@ These OKRs measure the success of our Phase 1 launch.
 ####  Objective 1: Bring form and dashboard up to VA.gov design, accessibility, content, and information architecture standards
 - Key result 1.1: Complete VA.gov platform collaboration cycle steps
 - Key result 1.2: **Satisfaction** - Increase customer satisfaction score (CSAT) from the current ask.va.gov benchmark
-- Key result 1.3: **Experience** - Increase experience rating from the current ask.va.gov benchmark
-- Key result 1.4: **Form completion rate** - Increase the percentage of successfully sent questions from the current ask.va.gov benchmark
-- Key result 1.5: **Routing** - Increase percentage of questions that are routed successfully by submitters from the current ask.va.gov benchmark
+- Key result 1.3: **Form completion rate** - Increase the percentage of successfully sent questions from the current ask.va.gov benchmark
+- Key result 1.4: **Routing** - Increase percentage of questions that are routed successfully by submitters from the current ask.va.gov benchmark
 
 |Key result|ask.va.gov benchmark|VA.gov metric (X months after launch)|
 |---|---|---|
 |Complete VA.gov platform collaboration cycle steps|n/a|n/a|
 |**Satisfaction** - Increase customer satisfaction score (CSAT)|Dec 2024 to Jan 2025 (18 days): 25%|tbd|
-|**Experience** - Increase experience rating|n/a|tbd|
 |**Form completion rate** - Increase the percentage of successfully sent questions|[May to October 2024 (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|tbd|
 |**Routing** - Increase percentage of questions that are routed successfully by submitters|[2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Determining%20Ask%20VA%20queue%20from%20question%20text.md#submitter-problem-statement-misrouting-and-form-burden): 93%|tbd|
 
