@@ -72,7 +72,7 @@ This research will provide insights into how effectively Veterans can navigate t
 2. Do users experience any challenges when completing these tasks?
 
 **Comprehension - Evaluate how Veterans understand the information provided to them.**
-1. Do Veterans understand instructions for preparing for their visit, and travel pay?
+1. Do Veterans understand instructions for preparing for their visit?
 2. Do Veterans understand the meaning of "Recent Locations"?
 3. Is error messaging clear and helpful, enabling Veterans to recover from issues and proceed with their tasks? Confusing?
 
