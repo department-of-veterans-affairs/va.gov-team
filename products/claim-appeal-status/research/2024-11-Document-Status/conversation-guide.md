@@ -174,12 +174,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 #### Things to watch for:
 
-* Do they notice the link to the document status in the confirmation message? Do they navigate to the Files tab to check the document status?
+* Do they notice the link to the document status in the confirmation message?
+* Do they navigate to the Files tab to check the document status?
   
 ⠀
-**PROMPT**: Now we’re going to pause and imagine that you’ve logged off and 3 days later, you get an email notification on your device.
-
 ## Part 2 E: Participant Logged out
+
+**PROMPT**: Now we’re going to pause and imagine that you’ve logged off and 3 days later, you get an email notification on your device.
 
 [Click on the name "Hector" on the top-right hand corner of the page]
 
