@@ -50,7 +50,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Rollout Planning
 
 - Desired date range:
-     - 01/20/2025 - 1/27/2025
+     - 01/21/2025 - 1/27/2025
 - How will you make the product available in production while limiting the number of users who can find/access it:
      -  We will use a feature toggle to limit access to the feature
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
@@ -104,7 +104,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 01/20/2025-01/21/2025 - 1 day
+     - 01/21/2025-01/22/2025 - 1 day
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 10%, approximately 65 page views per day
 
@@ -122,7 +122,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 01/21/2024-01/23/2024 - 2 days
+     - 01/22/2024-01/24/2024 - 2 days
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25%, about 162 users per day
 
@@ -140,7 +140,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 01/23/2025-01/27/2025 - 4 days
+     - 01/24/2025-01/27/2025 - 4 days
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 50%, about 325 users per day
 
