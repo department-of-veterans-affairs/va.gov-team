@@ -1,7 +1,17 @@
 # Running Design and Research Agenda
 
+## January 13 2024
+- Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
+	- Agenda Topics
+	  - Design Roadmap
+	  - Research Opportunities
+	  - The latest thoughts on the 1010D OHI Merge (Jina to share the embedded forms pattern from the 526 team)
+	  - Update to the Third Party Liability questions on the claim form. (time permitting)
+ 
+  - ### Notes
+
 ## January 06 2024
-- Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell
+- Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Jina Ryu
 	- Agenda Topics
 		- Design Roadmap Review	
 		- Discuss Multiple Claims/ Questions for CHAMVPA
