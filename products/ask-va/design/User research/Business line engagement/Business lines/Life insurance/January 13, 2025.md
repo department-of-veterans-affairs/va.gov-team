@@ -6,7 +6,7 @@
 
 - Ask VA VA.gov: Becky Phung, Tyler Gindraux
 - CRM: Chris Clemens, Tamara Kanterman, Shelby Carl
-- Life Insurance: Joseph Melvin
+- Life Insurance: Joseph Melvin, Adam Woolf
 
 ## Key takeaways
 
