@@ -10,7 +10,6 @@ The Veteran Facing Form team has a working implementation of this type of workfl
 ![image](https://github.com/user-attachments/assets/96724c59-575e-4bcb-a1b4-ad06168c75f8)
 When asked about how they got the signoff/approval for this approach, Matthew Dingee [replied](https://dsva.slack.com/archives/C044AGZFG2W/p1736181091595889?thread_ts=1723128859.703579&cid=C044AGZFG2W):
 > [@Jonathan Kamens](https://dsva.slack.com/team/U05PJC78K7B) and [@Don McCaughey](https://dsva.slack.com/team/U06PCD1R0EL) suggested and reviewed this approach in our Architecture Intent and we had a follow-up review with them. Your team should have the same touchpoint with them in the Engineering side of the Collab Cycle.
-- 
 
 ### Slack threads
 - https://dsva.slack.com/archives/C01DBGX4P45/p1730752151975239
