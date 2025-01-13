@@ -8,13 +8,14 @@ _[DRAFT]_
 
 **Self-Scheduling and Community Care Self-scheduling Pilot Program**
 - As a congressional mandate under the Cleland-Dole Act, VA must address the following for Veterans by the end of 2024:
+
 Self-scheduling appointments
 - Allows Veterans seeking for primary care, specialty care, and mental health care under the Veteran’s Community Care Program to self-schedule, modify, and cancel appointments directly online
 - Allows VA to expand capabilities of an existing appointment self-scheduling technology or purchase a new appointment self-scheduling technology
 
 The pilot program MVP will allow Veterans at pilot sites in the Greater Los Angeles area to self-schedule physical therapy appointments using Appointments on va.gov once a referral is approved. They will also have the ability to cancel and reschedule those appointments.
 
-**This UAT study aims to get Veteran feedback on the Community Care self-schedulng pilot process and ensure that Veterans were able to complete the process successfully. These results will inform if future iterations are needed ahead of releasing to more sites.**
+**This UAT study aims to get Veteran feedback on the Community Care self-scheduling pilot process and ensure that Veterans were able to complete the process successfully. These results will inform if future iterations are needed ahead of releasing to more sites.**
 
 ### OCTO Priorities
 The Community Care Self-Scheduling initiative aligns with the following OCTO-DE Priorities:
@@ -27,11 +28,10 @@ This research corresponds to the following points of the Veteran journey:
 ## Research Goals
 
 ### Outcome
-This study will give us insight into if Veterans notice and understand the information added to the Check-in flow around seeing a staff member after completing eCheck-in, as well as gauge Veterans reactions to this new step in the process.
+This study will give us insight into if Veterans from pilot sites were able to successfully and easily complete the Community Care Self-Scheduling process, as well as capture any feedback they have about the process. 
 
 ### Research Questions
 - Question 1
-
 
 
 ### Hypotheses
@@ -40,7 +40,10 @@ This study will give us insight into if Veterans notice and understand the infor
 
 
 ## Method
-This research will be conducted as an unmoderated survey study using Optimal Workshop. To recruit Veterans from the pilot sites, we will add information and a link on the confirmation page of the Community Care Self-Scheduling flow. This will lead to a tailored Perigean registration form so Perigean can easily identify the participants are looking to complete our UAT survey.
+This research will be conducted as an unmoderated survey study using Optimal Workshop. To recruit Veterans from the pilot sites, we will add information and a link on the confirmation page of the Community Care Self-Scheduling flow. This will lead to a tailored Perigean registration form so Perigean can easily identify the participants who are looking to complete our UAT survey for this specific feature.
+
+**Staff script/interception:**
+When CC scheduling staff contact Veterans and ask them if they would like to opt in to self-scheduling, we’ll have them ask Veterans if they’re interested in providing feedback on the process and, if so, to look out for a link at the end of the scheduling process to register to provide feedback at veteranusability.us. 
 
 ### Location
 Tests will be conducted online at the participant’s leisure. 
@@ -50,59 +53,35 @@ Tests will be conducted online at the participant’s leisure.
 - [Custom recruitment registration]
 
 ## Recruitment
-__ cohorts, ___ participants each, total ___ responses. Minimum threshold of ___ completed responses.
+__ cohorts, 9 participants each, total ___ responses. Minimum threshold of ___ completed responses.
 
 ### Primary criteria (must-haves)
 
 #### ALL Cohort participants
 - All must have a computer or mobile device and are willing to use it to complete the activity. 
-- All must be connected to the correct pilot sites and have used new the CC scheduling feature.
+- All must have used the unique registration form leading from the Community Care self-scheduling feature.
 
 
-**Cohort A: 9 Veterans age 18–24**
-- Group 1 (5 participants age 18–24)
-  - [Link for Cohort A/Group 1]
-- Group 2 (4 participants age 18–24)
-  - [Link for Cohort A/Group 2]
+**Cohort A: 9 Veterans**
+- First set 9 Veterans to register (1-9)
+  - [Link for Cohort A]
 
-**Cohort B: 9 Veterans age 25–34**
-- Group 1 (4 participants age 25–34)
-  - [Link for Cohort B/Group 1](https://dj540s05.optimalworkshop.com/questions/4043d036909c7ea5a2f33dbc99ad1de4?tag=b) 
-- Group 2 (5 participants age 25–34)
-  - [Link for Cohort B/Group 2]
+**Cohort B: 9 Veterans**
+- Second set 9 Veterans to register (10-18)
+  - [Link for Cohort B]
 
-**Cohort C: 9 Veterans age 35–44**
-- Group 1 (5 participants age 35–44)
-  - [Link for Cohort C/Group 1]
-- Group 2 (4 participants age 35–44)
-  - [Link for Cohort C/Group 2]) 
+**Cohort C: 9 Veterans**
+- Third set of 9 Veterans to register (19-27)
+  - [Link for Cohort C]
 
-**Cohort D: 9 Veterans age 45–54**
-- Group 1 (4 participants age 45–54)
-  - [Link for Cohort D/Group 1](https://dj540s05.optimalworkshop.com/questions/4043d036909c7ea5a2f33dbc99ad1de4?tag=d)
-- Group 2 (5 participants age 45–54)
-  - [Link for Cohort D/Group 2](https://dj540s05.optimalworkshop.com/questions/69f615416b6bb02d55ea4a9b9b2f7ee9?tag=d) 
+**Cohort D: 9 Veterans**
+- Fourth set of 9 Veterans to register (28-36)
+  - [Link for Cohort D]
 
-**Cohort E: 9 Veterans age 55–64**
-- Group 1 (5 participants age 55–64)
-  - [Link for Cohort E/Group 1](https://dj540s05.optimalworkshop.com/questions/4043d036909c7ea5a2f33dbc99ad1de4?tag=e)
-- Group 2 (4 participants age 55–64)
-  - [Link for Cohort E/Group 2](https://dj540s05.optimalworkshop.com/questions/69f615416b6bb02d55ea4a9b9b2f7ee9?tag=e) 
-
-**Cohort F: 9 Veterans age 65–74**
-- Group 1 (4 participants age 65–74)
-  - [Link for Cohort F/Group 1](https://dj540s05.optimalworkshop.com/questions/4043d036909c7ea5a2f33dbc99ad1de4?tag=f)
-- Group 2 (5 participants age 65–74)
-  - [Link for Cohort F/Group 2](https://dj540s05.optimalworkshop.com/questions/69f615416b6bb02d55ea4a9b9b2f7ee9?tag=f) 
-
-**Cohort G: 9 Veterans age 75 +**
-- Group 1 (5 participants age 75 +)
-  - [Link for Cohort G/Group 1](https://dj540s05.optimalworkshop.com/questions/4043d036909c7ea5a2f33dbc99ad1de4?tag=g)
-- Group 2 (4 participants age 75 +)
-  - [Link for Cohort G/Group 2](https://dj540s05.optimalworkshop.com/questions/69f615416b6bb02d55ea4a9b9b2f7ee9?tag=g)
+etc.
 
 
-### Secondary criteria (must-haves)
+### Secondary criteria
 - At least ___ women
 - At least ___ participants with a cognitive disability
 - At least ___ participants who are not Caucasian
@@ -110,13 +89,6 @@ __ cohorts, ___ participants each, total ___ responses. Minimum threshold of ___
 - At least ___ participants who don't have any degree or vocational training after high school (to include enlisted Veterans)
 - At least ___ people who live in a rural or remote area
 
-### Screener questions
-```
-1. Have you used the Community care self-schedluing feature to schedule a community care appointment on your smartphone, tablet, or desktop device?
-
-  - YES (meets criteria for the study)
-  - NO (does not meet criteria for the study)
-```
 
 ## Timeline
 
@@ -135,16 +107,13 @@ Availability:
 - **Date**
   - Available between ___ 
 
-- **Date**
-  - Available between ___
-
 
 ### Start date
 Flexible; based on Perigean's schedule to begin email recruitment
 
 ## Team Roles
 Steven Straily (steven.straily@agile6.com) will serve as primary researcher and project point of contact for this study.
-Christina Gednalske (christina.gednalske@adhocteam.us) is a the secondary point of contact.
+Christina Gednalske (christina.gednalske@adhocteam.us) is a secondary point of contact.
 
 ## Appendix
 ### Appendix Item A: Email to recruited participants
