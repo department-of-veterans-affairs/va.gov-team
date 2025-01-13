@@ -2,13 +2,40 @@
 
 ## January 13 2024
 - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
-	- Agenda Topics
+	- ### Agenda Topics
 	  - Design Roadmap
 	  - Research Opportunities
 	  - The latest thoughts on the 1010D OHI Merge (Jina to share the embedded forms pattern from the 526 team)
 	  - Update to the Third Party Liability questions on the claim form. (time permitting)
  
   - ### Notes
+    - Design Roadmap
+      * No changes
+    - The latest thoughts on the 1010D OHI Merge (Jina to share the embedded forms pattern from the 526 team)
+      * The intro page pattern includes an  OMB block for both forms
+      * The form utilizes the card pattern to add forms to support your claims
+      * The team tried to have everything merged together but they found that it made one of the steps longer and it didn’t work well with the stepper.
+      * The Veteran can start the form, can’t continue without.  Review page form just for 781
+      * The form uses an eyebrow header to label the 781 within the 526
+      * The form has an “Additional Form” section which shows on the review accordion
+      * Use can can opt out of secondary form if wanted
+      * The form has a reference to the paper form so a user can either submit it online or complete a pdf to upload.
+      * In User Research: Found if asked to do something (as in provide more evidence) they would want to just do it now.
+      * Action Item: Review other research for 526/781 form (create a ticket for next sprint)
+      * We asked about how the backend would work with if submitted together but the 526/781 form is on a different system from us
+    - Service Blueprints
+      * Create a digital workflow Blueprint for each form as they launch
+      * Is there a way to combine paper and digital form? Find examples of other teams that do this.  \
+
+    - Research Opportunities
+      * Do users care if these are 2 forms or treated as one application experience? Lois doesn't think that we will be able to get the answer for this with user research because it’s not a real world experience. 
+      * Does submitting these two forms at the same time create any issues for processing? Is there a need for OHI to be a separate form submitted first? These questions seem more high priority. 
+      * Keep in mind that VES will be moving in soon
+      * Desk research of “form in forms” should be the priority  
+      * We can come up with designs and maybe get some early feedback from stakeholders.
+      * We can use the new service blueprint to get the conversation going and find out what pain points that they see.
+      * We can look at the next steps questions too (Talk about how updates happen in the future? Talk to Pega and VES)
+      * Schedule a meeting on Thursday to continue the conversation and potential generate some backlog research items 
 
 ## January 06 2024
 - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Jina Ryu
