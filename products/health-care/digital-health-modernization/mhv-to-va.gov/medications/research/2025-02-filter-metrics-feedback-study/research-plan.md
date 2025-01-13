@@ -28,7 +28,7 @@ This research fits into these points of a Veteran's journey:
 
 ## Outcome
 
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+The results of this study will help us determine if our designs provide the best user experience for Veterans to find their medications. This will inform future design iterations and any further research strategy.
 
 ## Research Questions
 
