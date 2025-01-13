@@ -25,3 +25,4 @@ These are resources created while working on the `vaec-cie` migration through th
 - `global/github/app/private_key`: Private Key (PEM format) for the [Check-In Experience DevOps GitHub App](https://github.com/organizations/department-of-veterans-affairs/settings/apps/va-gov-check-in-experience-devops).
 - `(dev|stg|prod)/lorota/hash_salt`: Hash salt.
 - `(dev|stg|prod)/lorota/jwt_key`: JWT signing/verification key.
+- `(dev|stg|prod)/cie_test_scheduler/station_map`: Station Number-to-DUZ Map for working with Vista API
