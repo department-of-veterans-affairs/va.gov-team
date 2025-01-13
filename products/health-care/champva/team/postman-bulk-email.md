@@ -26,7 +26,7 @@ to multiple different email addresses via a single Postman batch run.
       `/dsva-vagov/vets-api/staging/vanotify/services/ivc_champva/api_key`
     - The `template_id` environment variable should match the email you're trying to send. These IDs can be found in VA Notify or the IVC AWS param store.
     - Refer back to the notifications api [README](https://github.com/department-of-veterans-affairs/notification-api/tree/main/documents/postman) for other variables
-5. Update the `send email` request to include the proper variable names (these will correspond to the variables the given VA Notify template expects AND the CSV headers in the CSV referenced in the pre-requisites section).
+5. Update the `send email` request to include the proper variable names (these will correspond to the variables the given VA Notify template expects AND the CSV headers in the CSV referenced in the pre-requisites section). Below is an example of the request configured for a bulk FMP1 confirmation email job:
 
     ![send_email_w_email](https://github.com/user-attachments/assets/26be2f84-b3be-4198-b6f9-5ad2745c9610)
 
