@@ -89,7 +89,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Key result: Maintain or reduce the amount of time a user selects a facility
 - Data Source: [Google Analytics - CG Facility page views & time](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8un9wi5nSN-WZ-KqWHHBPA)
 
-|Average time on page |Monthly Average Baseline (Jan-Dec 2023)| Target | 1 Month after launch|
+|Average time on page |Monthly Average Baseline (Jan-Dec 2024)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
 |Search page| 52 seconds |30 seconds|TBD|
 |Confirmation page |NEW|15 seconds|TBD|
