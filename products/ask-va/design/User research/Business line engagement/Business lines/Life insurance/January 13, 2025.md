@@ -17,6 +17,8 @@
 - To mitigate issues we're seeing with the "Other" topic, we'd like to review the health insurance topics. Right now, life insurance is the only category and topics that include the word 'insurance' and our assumption is this is why life insurance is getting CHAMPVA related inquiries that are meant for VHA.
 - We aren't able to make these changes right now. We will have to release on VA.gov with the current topic lists, but we should look at re-routing once we're live on VA.gov and assess whether this is still an issue. We can action changes on VA.gov.
 
+## Notes
+
 ### Topic: Signing in to VA life insurance portal
 
 - Becky: Our suggestion is to route this to VA Web Operations
