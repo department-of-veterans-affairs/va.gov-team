@@ -8,7 +8,7 @@ to multiple different email addresses via a single Postman batch run.
 ## Pre-requisites
 - Postman installed
 - A list of target email addresses, names, and relevant metadata compiled into a `.csv`.
-  - The CSV header row should have one column for each expected email template value. A sample CSV might look like:
+  - The CSV header row should have one column for each expected email template value. Here is a sample CSV that works for the FMP1 confirmation email:
     ```csv
     email_address,first_name,date_submitted,lighthouse_updated_at
     john@email.gov,John,10/28/2024,10/28/2024
@@ -24,9 +24,14 @@ to multiple different email addresses via a single Postman batch run.
 4. Set any necessary missing values in the staging-simplified environment. 
     - The IVC CHAMPVA VA Notify service API key is stored in an AWS param:
       `/dsva-vagov/vets-api/staging/vanotify/services/ivc_champva/api_key`
+    - The `template_id` environment variable should match the email you're trying to send. These IDs can be found in VA Notify or the IVC AWS param store.
     - Refer back to the notifications api [README](https://github.com/department-of-veterans-affairs/notification-api/tree/main/documents/postman) for other variables
-5. Create a CSV with the information you need to perform bulk emails. The CSV should have a column for each variable needed by VA Notify to send the email.
-6. In the Postman sidebar, open the context menu for `send EMAIL` and, click `Run folder`
+5. Update the `send email` request to include the proper variable names (these will correspond to the variables the given VA Notify template expects AND the CSV headers in the CSV referenced in the pre-requisites section).
+
+    ![send_email_w_email](https://github.com/user-attachments/assets/26be2f84-b3be-4198-b6f9-5ad2745c9610)
+
+6. Create a CSV with the information you need to perform bulk emails. The CSV should have a column for each variable needed by VA Notify to send the email.
+7. In the Postman sidebar, open the context menu for `send EMAIL` and, click `Run folder`
 
    ![context_menu](https://github.com/user-attachments/assets/6ef408db-b707-4e75-96c4-092dde5ab3f4 'Image of context menu')
    
@@ -43,14 +48,14 @@ to multiple different email addresses via a single Postman batch run.
     |-|-|
     |![preview](https://github.com/user-attachments/assets/827aab88-aabf-45d5-8904-2b1240ca6d65)|![csv_preview_open](https://github.com/user-attachments/assets/50c1ea03-578b-4fe5-b50f-11211c51f0f0)|
    
-11. Click the orange `Run notification-api-simplified` button in the bottom right to trigger the emails.
+10. Click the orange `Run notification-api-simplified` button in the bottom right to trigger the emails.
 
     |Run button|Post-run screen|
     |-|-|
     |![run_screen_button](https://github.com/user-attachments/assets/a24b0657-8fd8-468a-bad0-ecfd35f976fd)|![ran](https://github.com/user-attachments/assets/52360a22-a441-465f-866e-2f03021ff8f7)|
 
 
-13. Check your email to verify the notification came through as expected.
+11. Check your email to verify the notification came through as expected.
 
 These steps should be the same for the production environment. To use, select the production environment from the dropdown in the upper right corner.
 
