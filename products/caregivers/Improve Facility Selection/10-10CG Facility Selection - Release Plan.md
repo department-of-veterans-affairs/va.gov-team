@@ -59,6 +59,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
      - Total Applications being submitted (source: Datadog)
      - Facility Selection page - avg engagement time (source: Google Analytics)
      - New Facility Confirmation page - avg engagement time (source: Google Analytics)
+     - Page activity/engagement (button clicks, flow of traffic into and out of page, page drops, etc)(source: Google Analytics)
 
 
 ## Measuring Success
