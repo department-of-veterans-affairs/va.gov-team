@@ -26,7 +26,7 @@ Objective 1: Our digital experiences are the best way to access VA health care a
 
 ## Research Goals	
 1. Get user feedback on the new filter design and functionality to find information
-2. Understand which of the search, filtering, and browsing options users choose to interact with
+2. Understand which of the search, filtering, and browsing options users choose to interact with and in what order
 3. Learn if the labels and groupings of filters align with user mental models
  
 ### Outcome
@@ -39,12 +39,12 @@ Validate the proposed design so we can start building it. There will be a second
 - Do users understand the and/or logic between filters across/within filter groups?
 - Do users understand the Apply filters, Clear all, and X buttons in filter drawer?
 - Do users understand how to dimiss a filter once it's applied?
-- Do users understand how the filter chips on Detail pages function?
+- Do users understand how the filter chips on results/detail pages (w/X) work vs. on the landing page (w/o X)?
 - Are these understandable on both mobile and desktop?
   - Desktop would have hover states on components
   - Destop has filter drawer as a modal on right side of screen
 
-**Goal 2. Understand which of the search, filtering, and browsing options users choose to interact with**
+**Goal 2. Understand which of the search, filtering, and browsing options users choose to interact with and in what order**
 - Header
   - Hamburger menu (mobile)
   - Mega menu (desktop)
