@@ -111,7 +111,7 @@ team was able to resolve this as well.
 | VA.gov - Sustained high latency | p90 latency measures above x for time |
 
 **User-Facing Metrics (Google Analytics and Call Center)**
-***[Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/p419143770/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3D%252Fmy-health%252Ftravel-claim-status%26_r.explorerCard..startRow%3D0&ruid=D4F7103F-DEA1-4A09-B066-EE554BF6F5F0&collectionId=8429185582&r=all-pages-and-screens)
+***[Google Analytics Dashboard]([https://analytics.google.com/analytics/web/#/p419143770/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3D%252Fmy-health%252Ftravel-claim-status%26_r.explorerCard..startRow%3D0&ruid=D4F7103F-DEA1-4A09-B066-EE554BF6F5F0&collectionId=8429185582&r=all-pages-and-screens](https://analytics.google.com/analytics/web/#/p419143770/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3D%252Fmy-health%252Ftravel-pay%252Fclaims%26_r.explorerCard..startRow%3D0%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20250112%26_u.date01%3D20250113&r=all-pages-and-screens&ruid=D4F7103F-DEA1-4A09-B066-EE554BF6F5F0&collectionId=8429185582))
 
 | Metric Name | Description |
 | ----------- | ----------- |
