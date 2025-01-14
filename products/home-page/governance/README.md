@@ -28,20 +28,10 @@ Any requests to change the content in these sections must be requested and appro
 
 To be considered for placement within this section, the feature must meet set criteria and rank well based on a rubric of metrics.  
 
-**Evaluation process**
-- New candidates for placement can be evaluated against the criteria and rubric at any time. However, newly launched features should not be considered a candidate until they have been live to 100% of site visitors for at least 3 months.
-- Performance of the currently placed features are reviewed quarterly to evaluate how the feature is performing in its placement as well as measuring any impact on removed features. 
-
-**Placement consideration requirements**
-Features must meet the following criteria to be considered for placement:
-- The feature must be for Veterans.  It can serve other audiences, but it must serve Veterans.
-- The feature must be an interactive tool that allows users to complete tasks related to viewing, tracking, managing, or using benefits they have already applied for.  It cannot be a generic static content page or a benefit application.
-
-**Display guidance**
-- Minimum of 8, maximum of 10 options allowed, equally distributed across 2 columns
-- Items in order based on their rubric score - which accounts for views, utilization, and relevancy - from top left to bottom right
-- Features cannot overlap with another tool in the section 
-- Features cannot duplicate an option within the "Search tools" section
+**Requirements for placement consideration**
+- Features must meet the following criteria to be considered for placement:
+  - The feature must be for Veterans.  It can serve other audiences, but it must serve Veterans.
+  - The feature must be an interactive tool that allows users to complete tasks related to viewing, tracking, managing, or using benefits they have already applied for.  It cannot be a generic static content page or a benefit application.
 
 **Metrics evaluated in rubric**
 - Primary metric:  Demand
@@ -50,6 +40,10 @@ Features must meet the following criteria to be considered for placement:
   - How broadly does the feature apply across our audience, measured by the number of core benefit types the tool supports. Features that support multiple types of benefits have the opportunity to benefit more visitors. 
 - Secondary metric: Exposure
   - How prominant the feature currently is, measured by the number of places the feature is currently linked to from global/sitewide placements (home page, header, footer, and primary nav). Features with placement in those components already have a level of visibility and ease of access. 
+
+**Evaluation process**
+- New candidates for placement can be evaluated against the criteria and rubric at any time. However, newly launched features should not be considered a candidate until they have been live to 100% of site visitors for at least 3 months.
+- Performance of the currently placed features are reviewed quarterly to evaluate how the feature is performing in its placement as well as measuring any impact on removed features.
 
 Decision rationale:
 - Why only features intended to manage benefits already applied for? These features are often accessed multiple times within a benefit journey, and often the reason for return visits. In addition, these features are generally the more challenging pages to find.  The primary navigation menu and the benefit hub section of the homepage provide prominent navigation links to get visitors to general benefit information and forms to apply.  This section will provide quick access to tools that allow visitors to complete common tasks.
