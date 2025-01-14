@@ -8,6 +8,10 @@ The IIR team is implementing a net new way for Veterans to digitally access thei
 
 In most cases, it is simply a form for one's records. However, some states still have an individual coverage mandate, and in those states, the form is necessary for filing taxes. The form is not required by the IRS, but it is required to be sent by health care providers as of 2019.
 
+#### Context
+
+A previous team was working on this project in 2022 but it was never launched. IIR's goal is not to pick up where they left off but to reevaluate a true MVP (emphasis on the minimum) that is reliable. There is a desire for something to be released for the 2025 tax season so we are aiming for a late February/early March release.
+
 ### Problem Statement(s)
 
 - The VA spends approximately $4mil/year on printing and sending physical 1095-B forms to Veterans and dependents.
