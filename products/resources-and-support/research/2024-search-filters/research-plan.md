@@ -103,7 +103,7 @@ Sessions will be conducted remotely over Zoom with transcripts.
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/research/2024-search-filters/conversation-guide.md)
 - [Link to mobile prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Resources-support?node-id=1014-7143&node-type=frame&t=Hqo6gTwXj6DNmGNd-0&scaling=scale-down&content-scaling=fixed&page-id=504%3A6304&starting-point-node-id=1014%3A7143&show-proto-sidebar=1&disable-default-keyboard-nav=1&hide-ui=1)
 	
-## Recruitment - WIP
+## Recruitment
 
 ### Recruitment approach
 We would like Perigean to recruit **12 people** who meet the below criteria in order to get **10 completed sessions**: 
@@ -115,11 +115,11 @@ We would like Perigean to recruit **12 people** who meet the below criteria in o
 ### Required criteria (in decreasing order of priority)
   - *Primary criteria (must-haves):*
     - **NONE** need to use a screen reader or screen magnifier to access the Internet 
-    - **At least 5** have a smartphone and are willing to use it for the session and... 
-      - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen 
-      - Are willing to share over Zoom a web browser window on their smartphone 
-      - Have a working microphone on their smartphone 
-    - **At least 5** have a computer and are willing to use it for the session  
+    - **ALL** must have a smartphone or tablet and be willing to use it for the session and... 
+      - Have Zoom downloaded to their mobile device prior to the session and know how to share their screen 
+      - Are willing to share over Zoom a web browser window on their mobile device 
+      - Have a working microphone on their mobile device 
+  
   - *Secondary criteria (nice-to-haves):*
      - At least 4 people have a cognitive disability (e.g., TBI) 
      - At least 4 people are age 55 or older 
@@ -136,10 +136,10 @@ We would like Perigean to recruit **12 people** who meet the below criteria in o
     1. No *(ask next question)*
     2. Yes *(disqualify)*
 
-1. For this meeting, you'll need a device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using? *(RECORD)*
+1. For this meeting, you'll need a mobile device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using? *(RECORD)*
     1. Smartphone  
-    1. Computer 
     1. Tablet 
+    1. Computer *(disqualify)*
 
 1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
      1. No
@@ -147,7 +147,7 @@ We would like Perigean to recruit **12 people** who meet the below criteria in o
 
 1. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve. 
      1. No  
-     1. Yes *(RECRUIT 2)*
+     1. Yes *(RECRUIT 2 and RECORD as LGBTQ+)*
 
 ## Timeline - WIP
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
