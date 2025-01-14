@@ -5,8 +5,8 @@
 ## Attendees
 
 - Ask VA VA.gov Team: Becky Phung, Tyler Gindraux
-- Ask VA CRM Team: Chris Clemens, Tamara Kanterman, Shelby Carl
-- Life Insurance Team: Joseph Melvin, Adam Woolf
+- Ask VA CRM Team: Tamara Kanterman, Chris Clemens, Shelby Carl, Natalie Morales
+- Life Insurance Team: Joseph Melvin, Adam Woolf, Rebecca Brenen, Valerie Valach
 
 ## Key takeaways
 
