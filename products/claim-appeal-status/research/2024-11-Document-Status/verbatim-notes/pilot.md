@@ -20,7 +20,7 @@ Before we start, I have a few things that I want to go over with you:
 **Start recording.**
 
 * I have started recording. I'd like to confirm: Are you okay if I record my screen and the audio as we talk today? <br>
-    *Notes*
+    *[Notes]*
 
 ## Warm-up Questions (Optional) - 5 minutes
 
