@@ -82,5 +82,18 @@
 
 
 **December 2024 via GA4**
+|	---	|	 :---:	|	 :---:	|	 :---:	|	 :---: 	|	  :---: 	|	 :---:	|	  :---:	|
+|	Page path and screen class	|	Views	|	Views per session	|	Engagement rate	|	Entrances	|	Exits	|	Returning users	|	Total users	|
+|		|	 114,797 	|	5.38	|	0.90	|	 7,351 	|	 10,630 	|	 8,696 	|	 17,480 	|
+|	/health-care/income-limits/introduction	|	 28,595 	|	1.35	|	0.90	|	 4,864 	|	 4,664 	|	 8,673 	|	 17,446 	|
+|	/health-care/income-limits/review	|	 21,108 	|	1.55	|	1.00	|	 74 	|	 374 	|	 6,109 	|	 12,484 	|
+|	/health-care/income-limits/zip	|	 20,402 	|	1.40	|	1.00	|	 127 	|	 377 	|	 6,547 	|	 13,353 	|
+|	/health-care/income-limits/dependents	|	 20,060 	|	1.45	|	1.00	|	 18 	|	 223 	|	 6,231 	|	 12,761 	|
+|	/health-care/income-limits/results	|	 16,889 	|	1.23	|	0.99	|	 309 	|	 4,868 	|	 6,203 	|	 12,517 	|
+|	/health-care/income-limits/	|	 4,585 	|	1.07	|	0.99	|	 1,959 	|	 24 	|	 2,254 	|	 3,949 	|
+|	/health-care/income-limits/year	|	 3,146 	|	1.49	|	1.00	|	 -   	|	 88 	|	 969 	|	 2,044 	|
+|	/health-care/income-limits/results 2025	|	 6 	|	1.00	|	1.00	|	 -   	|	 6 	|	 6 	|	 6 	|
+|	/health-care/income-limits/reviewyou	|	6	|	1.00	|	1.00	|	 -   	|	 6 	|	 6 	|	 6 	|
+
 
 
