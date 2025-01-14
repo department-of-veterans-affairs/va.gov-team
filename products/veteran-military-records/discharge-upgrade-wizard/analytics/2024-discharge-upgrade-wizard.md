@@ -17,10 +17,10 @@
 |	Page path and screen class	|	 Views 	|	Average session duration	|	Total users 	|	Returning users | Engagement rate	|	 Entrances 	 | 	 Exits 	 | 
 |	---	|	 :---: 	|	:---: 	|	:---: 	|	:---: 	|	 :---:  	 | 	 :---:  	 |  :---:  	 | 
 |	Page path and screen class	|	Views	|	Average session duration	|	Returning users	|	Returning users	|	Engagement rate	|	Entrances	|	Exits	|
-|	/discharge-upgrade-instructions/	|	 28,339 	|	51 s	|	 11,743 	|	9051	|	81%	|	 10,757 	|	 9,165 	|
-|	/discharge-upgrade-instructions/questions	|	 13,648 	|	54 s	|	 9,051 	|	4963	|	97%	|	 416 	|	 1,609 	|
-|	/discharge-upgrade-instructions/guidance	|	 8,723 	|	2 min 33 s	|	 4,963 	|	3309	|	99%	|	 289 	|	 4,241 	|
-|	/discharge-upgrade-instructions	|	 5,990 	|	38 s	|	 3,309 	|	2757	|	95%	|	 802 	|	 1,221 	|
+|	/discharge-upgrade-instructions/	|	 28,339 	|	51 s	|	 11,743 	|	9,051	|	81%	|	 10,757 	|	 9,165 	|
+|	/discharge-upgrade-instructions/questions	|	 13,648 	|	54 s	|	 9,051 	|	4,963	|	97%	|	 416 	|	 1,609 	|
+|	/discharge-upgrade-instructions/guidance	|	 8,723 	|	2 min 33 s	|	 4,963 	|	3,309	|	99%	|	 289 	|	 4,241 	|
+|	/discharge-upgrade-instructions	|	 5,990 	|	38 s	|	 3,309 	|	2,757	|	95%	|	 802 	|	 1,221 	|
 |	/discharge-upgrade-instructions/request-dd214	|	 192 	|	0 s	|	 1,006 	|	32	|	100%	|	 128 	|	 32 	|
 |	/discharge-upgrade	|	 64 	|	2 s	|	 -   	|	0	|	100%	|	 32 	|	 -   	|
 |	/discharge-upgrade-instructions/guidence	|	 65 	|	11 s	|	 -   	|	0	|	100%	|	 -   	|	 -   	|
@@ -47,11 +47,11 @@
 
 |	Page path and screen class	|	Views	|	Average session duration	|	Total users	|	Returning users	|	Engagement rate	|	Entrances	|	Exits	|
 |	---	|	 :---: 	|	:---: 	|	:---: 	|	:---: 	|	 :---:  	 | 	 :---:  	 |  :---:  	 | 
-|	/discharge-upgrade-instructions/	|	 54,877 	|	72 s	|	19789	|	9700	|	82%	|	 11,471 	|	 14,538 	|
-|	/discharge-upgrade-instructions/questions	|	 25,355 	|	57 s	|	15636	|	7364	|	81%	|	 9,031 	|	 8,182 	|
-|	/discharge-upgrade-instructions/guidance	|	 12,875 	|	38 s	|	8954	|	4704	|	96%	|	 481 	|	 1,384 	|
-|	/discharge-upgrade-instructions	|	 9,047 	|	16 s	|	6488	|	3406	|	99%	|	 483 	|	 3,752 	|
-|	/discharge-upgrade-instructions/request-dd214	|	 2,036 	|	59 s	|	1622	|	1006	|	95%	|	 578 	|	 224 	|
+|	/discharge-upgrade-instructions/	|	 54,877 	|	72 s	|	19,789	|	9,700	|	82%	|	 11,471 	|	 14,538 	|
+|	/discharge-upgrade-instructions/questions	|	 25,355 	|	57 s	|	15,636	|	7,364	|	81%	|	 9,031 	|	 8,182 	|
+|	/discharge-upgrade-instructions/guidance	|	 12,875 	|	38 s	|	8,954	|	4,704	|	96%	|	 481 	|	 1,384 	|
+|	/discharge-upgrade-instructions	|	 9,047 	|	16 s	|	6,488	|	3406	|	99%	|	 483 	|	 3,752 	|
+|	/discharge-upgrade-instructions/request-dd214	|	 2,036 	|	59 s	|	1,622	|	1,006	|	95%	|	 578 	|	 224 	|
 
 
 
