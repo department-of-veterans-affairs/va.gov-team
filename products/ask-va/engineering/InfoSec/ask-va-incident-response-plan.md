@@ -6,17 +6,18 @@ The purpose of this plan is to outline what to do in the event there is an incid
 
 | Date      | Description of Change                                           | Author |
 | --------- | --------------------------------------------------------------- | ------ |
+|1/14/2025  | Updated contact list                                            | @arielma-tw       |
 | 1/13/2025 | Moved to Github. Cleaned up format and added new slack channels |  @arielma-tw      |
 
 
 ### Points of Contact
 
-| Title            | Name             | Phone        | Slack              | Email                     |
-| ---------------- | ---------------- | ------------ | ------------------ | ------------------------- |
-| VA Product Owner | Becky Phung      |              | DSVA               |                           |
-| Program Manager  | Megan Siddle     | 661-236-7464 | DSVA, Oddball      | megan.siddle@oddball.io   |
-| Product Manager  | Ariel Martinez   |              | DSVA, Thoughtworks | ariel.martinez@thoughtworks.com|
-| Tech Lead        | Joe Hall         | 334-546-9843 | DSVA, Thoughtworks | Joe.Hall@Thoughtworks.com |
+| Title            | Name             | Slack              | Email                     |
+| ---------------- | ---------------- | ------------ | ------------------             |
+| VA Product Owner | Becky Phung      | DSVA               |                           |
+| Program Manager  | Megan Siddle     | DSVA, Oddball      | megan.siddle@oddball.io   |
+| Product Manager  | Ariel Martinez   | DSVA, Thoughtworks | ariel.martinez@thoughtworks.com|
+| Tech Lead        | Joe Hall         | DSVA, Thoughtworks | Joe.Hall@Thoughtworks.com |
 
   
 
