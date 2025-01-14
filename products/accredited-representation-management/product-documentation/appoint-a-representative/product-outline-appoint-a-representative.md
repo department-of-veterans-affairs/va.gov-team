@@ -104,6 +104,26 @@ The base URL for this product is `/appoint-rep` and the form experience for this
 9. Next Steps `/next-steps`
    1. An email notification is sent via VA Notify to reiterate next steps
 
+## **Form Versioning Discrepancy**
+On October 27,2023, a new version of VA Forms 21-22 and 21-22a were released.
+
+1. 21-22 form updates:
+   1. Field 11a "Claimant's Date of Birth" in Section II has been added
+2. 21-22a form updates:
+   1. Field 11 "Claimant's Date of Birth" in Section II has been added
+   2. Field 19 "Authorization for Disclosure to Affiliated Personnel" has been added to allow additional authorization for
+      1. All associate attorneys, claims agents and support staff affiliated with the representative
+      2. Individually named administrative employees of the representative
+
+         
+The Appoint a Representative experience generates PDFs of the most up-to-date version of VA Forms 21-22 and 21-22a PDFs. 
+
+The Lighthouse auto-establishment service will be generating an older version of the form and uploading it to the eFolder in VBMS. Per the Lighthouse team 
+
+**Risk**: When Appoint a Reprsentative v2 (with digital submission) launches in Q1 2025, users will be able to download a copy of their completed 21-22 (the most up-to-date version), but Lighthouse will uploade an older version of the 21-22 (pre-Oct 2023) to the eFolder in VBMS. Lighthouse confirms that an older version of the PDF will not be an issue; confirmed by LH Benefits & Appeals APIs Crew Engineer Drew Fisher ([Slack message](https://dsva.slack.com/archives/C063D0M76HX/p1706308610572019?thread_ts=1706119737.834139&cid=C063D0M76HX)).
+ 
+
+
 
 ## **Future Plans and Ideas**
 
