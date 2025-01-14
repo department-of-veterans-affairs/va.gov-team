@@ -1,18 +1,19 @@
 ### 1/13/25
 #### Medallia Feedback
+No feedback for 1/13/25
+
 #### Google Analytics and DataDog
 
 | Metric Name | Description |
 | ----------- | ----------- |
 | Unique page views | 10 |
 | Repeat page views | 1 |
-| Are the users going out to BTSSS? | # of clicks on the help section's outbound link |
 | # of interactions | 47 |
 
 | Metric Name | Description |
 | ----------- | ----------- |
 | VA.gov - Endpoint errors | 6.2% |
-| Travel Pay API - Endpoint error count | Number of non-200,201 status codes to travel pay API endpoints |
+| Travel Pay API - Endpoint error count | Data pending collection |
 | Average latency | 2.63 sec |
 
 
