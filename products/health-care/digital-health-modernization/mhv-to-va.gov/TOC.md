@@ -36,12 +36,12 @@
         * [JIRA Epic](https://jira.devops.va.gov/browse/MHV-62180)
     * Collab Cycle Tickets
         * Open
-          - [Download Records](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92340)
-          - [Phase 1 Radiology Flow/Images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95081)
-          - [Settings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95082)
           - [Filters](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95083)
         * Closed
           - [Medical Records Initial Launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53454)
+          - [Download Records](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92340)
+          - [Phase 1 Radiology Flow/Images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95081)
+          - [Settings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95082)
     * Mapping Documentation
         * FHIR Publication
     * Figma
