@@ -56,11 +56,11 @@ To be considered for placement within this section, the feature must meet set cr
 To be considered for placement within this section, the feature must meet set criteria and rank well based on a rubric of metrics.  
 
 **Requirements for placement consideration**
-Features must meet the following criteria to be considered for placement:
-- The feature must be for Veterans.  It can serve other audiences, but it must serve Veterans.
-- The feature must be a VA.gov search tool.  A VA.gov search tools allows a user to query across existing information on VA.gov and see results based on their relevancy to their query. A search tool does not calculate or generate new information.
-- The search tool must search against a collection or sub-set of information on VA.gov to provide results that are more targeted than the global search experience.  The difference between these targeted results and the results of the global search must be clear to VA.gov visitors. 
-- The feature must rank within the top 3-4 highest scores in the evaluation rubric.
+- Features must meet the following criteria to be considered for placement:
+  - The feature must be for Veterans.  It can serve other audiences, but it must serve Veterans.
+  - The feature must be a VA.gov search tool.  A VA.gov search tools allows a user to query across existing information on VA.gov and see results based on their relevancy to their query. A search tool does not calculate or generate new information.
+  - The search tool must search against a collection or sub-set of information on VA.gov to provide results that are more targeted than the global search experience.  The difference between these targeted results and the results of the global search must be clear to VA.gov visitors. 
+  - The feature must rank within the top 3-4 highest scores in the evaluation rubric.
 
 
 **Metrics evaluated in rubric**
