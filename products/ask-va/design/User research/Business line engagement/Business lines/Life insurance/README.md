@@ -8,6 +8,7 @@
 
 |Stakeholder|Business area|
 |:--|:--|
+||Life insurance|
 |Cherronda Jeffcoat|Life insurance|
 
 ### Engagements
