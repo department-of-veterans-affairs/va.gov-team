@@ -115,10 +115,11 @@ We would like Perigean to recruit **12 people** who meet the below criteria in o
 ### Required criteria (in decreasing order of priority)
   - *Primary criteria (must-haves):*
     - **NONE** need to use a screen reader or screen magnifier to access the Internet 
-    - **ALL** must have a smartphone or tablet and be willing to use it for the session and... 
+    - **ALL** must have a mobile device (smartphone or tablet) and be willing to use it for the session and... 
       - Have Zoom downloaded to their mobile device prior to the session and know how to share their screen 
       - Are willing to share over Zoom a web browser window on their mobile device 
       - Have a working microphone on their mobile device 
+    - **AT LEAST 6** must be on a smartphone
   
   - *Secondary criteria (nice-to-haves):*
      - At least 4 people have a cognitive disability (e.g., TBI) 
@@ -137,8 +138,8 @@ We would like Perigean to recruit **12 people** who meet the below criteria in o
     2. Yes *(disqualify)*
 
 1. For this meeting, you'll need a mobile device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using? *(RECORD)*
-    1. Smartphone  
-    1. Tablet 
+    1. Smartphone *(RECRUIT at least 6 and ask next question)*
+    1. Tablet *(RECRUIT at most 6 and ask next question)*
     1. Computer *(disqualify)*
 
 1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
