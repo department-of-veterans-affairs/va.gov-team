@@ -13,7 +13,7 @@
 | ----------- | ----------- |
 | VA.gov - Endpoint errors | 6.2% |
 | Travel Pay API - Endpoint error count | Number of non-200,201 status codes to travel pay API endpoints |
-| VA.gov - Sustained high latency | p90 latency measures above x for time |
+| Average latency | 2.63 sec |
 
 
 ### Date
