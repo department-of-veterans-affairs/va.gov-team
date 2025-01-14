@@ -41,11 +41,14 @@ The advantages for this approach are:
 1. We can avoid having to redundantly store the 526ez PDF in S3 upon submission
 2. We avoid adding more time and complexity to an already overburdened and complex primary submission process
 3. Although we might build our own basic framework to manage this (per best practices, etc),
+
    a. we are not adding any new dependencies, be that on SimpleFormsAPI or S3 itself
+
    b. we have plenty of examples in code for use/re-use of the generatePDF endpoint
+
    c. we are employing basic well-established web processes that have been around forever
-4. The generatePDF endpoint is known to be very reasonably fast, and is unlikely to timeout upon request (as long as the Lighthouse service is up)
-5. The PDF effectively does not expire (as in the above implementation), so long as it still remains in VBMS. This could open us up to future features where the user could download the PDF at any time upon login, and not just that one time upon submission confirmation.
+5. The generatePDF endpoint is known to be very reasonably fast, and is unlikely to timeout upon request (as long as the Lighthouse service is up)
+6. The PDF effectively does not expire (as in the above implementation), so long as it still remains in VBMS. This could open us up to future features where the user could download the PDF at any time upon login, and not just that one time upon submission confirmation.
 
 ### Other Details
 - the new controller method would need to authenticate/authorize to the generatePDF endpoint with the user's credentials, along with the Form526Submission id belonging to the user. This can be accessed via the user's `user_uuid`, which is already available at the controller level
