@@ -29,7 +29,7 @@ jobs:
         run: echo "template-path=.github/ISSUE_TEMPLATE/application-promotion.yml" >> $GITHUB_ENV
         
       - name: Get form data
-        uses: stefanbuck/github-issue-parser@v2
+        uses: stefanbuck/github-issue-parser@v3
         id: issue-parser
         with:
           template-path: ${{ env.template-path }}
