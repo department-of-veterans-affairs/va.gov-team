@@ -1,42 +1,48 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for [Education Data Migration, WEAMS Public, 1/14/25]
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
 Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+- What problem is your product trying to solve? WEAMS Public is working to consolidate licenses and certifications, national exams, and programs details for institutions into the CT tool. This will allow users to access education benefits information quickly and easily. 
+- Where is your product situated on VA.gov? (ex: auth vs. unauth) In comparison tool and unauthenticated.
+- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one? Veterans are familiar with WEAMS Public. We are migrating the information from WEAMS Public into comparison tool.
 
 [Link to product brief](url goes here).
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) does this research support? Work with your VA lead and product manager as needed.
+Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) does this research support? Work with your VA lead and product manager as needed. This research supports all three objectives.
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
+1. Life stage - Putting down roots and moments that matter include engaging VA to access benefits and services.
+2. Life stage - Reinventing myself and moments that matter include acquiring the appropriate education, new skills, and credentials.
 
 ## Research Goals	
 What are you trying to learn from this research? 
+With this research goal, we will learn scenarios where users aren't able to find what they are looking, their pain points. From there, we will know how we can provide a more optimal solution. Are users able to use search criteria to find the license, certification or prep course they want? Does the content provided give them what they need to make the next decision? Is the language clear, easy to understand? How do they find the navigation experience? What is thier opinion on the presentation?
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+The next phase is to launch the WEAMS Public information within CT. The research will allow us to get feedback from users regarding the language, presentation, functionality, accessibility and we will make changes to our designs from the learnings.
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
-
+**Here are our research questions:**
+  
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 - What do you already know about this problem space?
 - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
 - Remember to constrain the hypothesis to the goals of your study!
+**Here is our hypothesis:**
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
@@ -48,6 +54,10 @@ Examples of common research methods include:
 - Tree tests - appropriate for evaluative research
 - Usability testing - appropriate for evaluative research
 - User acceptance testing (UAT) - required before product release
+  
+Qualitative usability testing is the research method we plan to execute to test the feasibility of the solution. We will focus on users behaviors, preferences, and overall experiences while interacting with the prototype. This method will involve a small group of participants who represent the target audience. 
+
+Participants will be guided through tasks and will be asked open-ended questions to gather their thoughts and detailed responses about their experience. We will also note down any issues, frustrations, or successes along the way.
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
@@ -58,14 +68,7 @@ Additional resources:
 - In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+This will be a remote research study and we will use Zoom.
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
