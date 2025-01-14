@@ -1,8 +1,8 @@
-name: Move issue to Platform Onboarding project column
+name: "Supp: move to Platform Onboarding column"
 
 on:
   issues:
-    types: 
+    types:
     - opened
     - labeled
 
@@ -25,7 +25,7 @@ jobs:
      contains(github.event.issue.labels.*.name, 'new-vfs-team')
 
     steps:
-      - name: Move Issue to Access Requests Column
+      - name: Move Issue to Platform Onboarding Column
         uses: m7kvqbe1/github-action-move-issues@v1.1.2
         with:
           github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
