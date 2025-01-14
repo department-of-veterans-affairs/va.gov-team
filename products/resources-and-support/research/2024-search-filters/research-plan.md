@@ -174,7 +174,7 @@ Planned dates of research: **January X-Y, 2025**
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
 
-### Length of sessions - WIP
+### Length of sessions 
 * Session length: **60 minutes** 
 * Buffer time between sessions: 1 hour
 * Maximum sessions per day: 3
@@ -187,7 +187,7 @@ Jan X, 2025 | 12-1, 2-3, 5-6, 7-8 pm
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***).
 	
-## Team Roles - WIP
+## Team Roles
 - **Moderator:** Cindy Merrill (cindy.merrill@agile6.com)
 - **Research guide writing and task development:** Cindy Merrill
 - **Participant recruiting & screening:** Perigean
