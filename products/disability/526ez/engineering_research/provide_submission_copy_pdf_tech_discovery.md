@@ -46,3 +46,6 @@ The advantages for this approach are:
    c. we are employing basic well-established web processes that have been around forever
 4. The generatePDF endpoint is known to be very reasonably fast, and is unlikely to timeout upon request (as long as the Lighthouse service is up)
 5. The PDF effectively does not expire (as in the above implementation), so long as it still remains in VBMS. This could open us up to future features where the user could download the PDF at any time upon login, and not just that one time upon submission confirmation.
+
+### Other Details
+- the new controller method would need to authenticate/authorize to the generatePDF endpoint with the user's credentials, along with the Form526Submission id belonging to the user. This can be accessed via the user's `user_uuid`, which is already available at the controller level
