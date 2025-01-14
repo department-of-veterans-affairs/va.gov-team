@@ -1,5 +1,8 @@
 # Release Plan: 0781 Redirect  
 
+## NOTE
+This feature has not been immplemented. ZSF priorities pushed this effort as out of scope for the DBEX Q4 Goals for 2024. 
+
 ## Purpose
 The purpose of this release plan is to document and align the delivery teams and stakeholders on what will be delivered and when. 
 
