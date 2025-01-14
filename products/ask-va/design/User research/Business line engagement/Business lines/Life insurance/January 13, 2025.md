@@ -11,10 +11,13 @@
 ## Key takeaways
 
 - We lean towards removing these topics and would like to confirm with Jeremy Haas of Web Operations:
-   - Signing in to VA life insurance portal (under Sign in)
-   - Accessing policy online (under Life insurance)
-   - Life insurance website issues (under Life insurance)
-- To mitigate issues we're seeing with the "Other" topic, we'd like to review the health insurance topics. Right now, life insurance is the only category and topics that include the word 'insurance' and our assumption is this is why life insurance is getting CHAMPVA related inquiries that are meant for VHA. 
+   - Signing in to VA life insurance portal (under `Sign in and technical issues` category)
+   - Accessing policy online (under `Life insurance` category)
+   - Insurance website issues (under `Life insurance` category)
+- We could also consider adding 'life' before these topics, so they would be:
+   - Insurance claims > Life insurance claims (under `Life insurance` category)
+   - Insurance premiums > Life insurance premiums (under `Life insurance` category) 
+- We'd also like to review the topics under the `Health care` category. Right now, `Life insurance` is the only category and/or topic that uses the word 'insurance' and we think this could be why people are submitting other types of insurance inquiries, usually related to VHA, under the `Life insurance` topic called, `Other`.
 - We aren't able to make these changes right now. We will have to release on VA.gov with the current topic lists, but we should look at re-routing once we're live on VA.gov and assess whether this is still an issue. We can action changes on VA.gov.
 
 ## Notes
