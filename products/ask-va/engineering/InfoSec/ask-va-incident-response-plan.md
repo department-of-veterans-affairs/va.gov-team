@@ -13,10 +13,9 @@ The purpose of this plan is to outline what to do in the event there is an incid
 
 | Title            | Name             | Phone        | Slack              | Email                     |
 | ---------------- | ---------------- | ------------ | ------------------ | ------------------------- |
-| VA Product Owner | Becky Phung      |              | DSVA               | becky.phung@va.gov        |
-| VA Product Owner | Andrea Schneider | 301-537-4450 | DSVA               | andrea.schneider3@va.gov  |
+| VA Product Owner | Becky Phung      |              | DSVA               |                           |
 | Program Manager  | Megan Siddle     | 661-236-7464 | DSVA, Oddball      | megan.siddle@oddball.io   |
-| Product Manager  | Ariel Martinez   |              | DSVA, Thoughtworks | ariel.martinez3@va.gov    |
+| Product Manager  | Ariel Martinez   |              | DSVA, Thoughtworks | ariel.martinez@thoughtworks.com|
 | Tech Lead        | Joe Hall         | 334-546-9843 | DSVA, Thoughtworks | Joe.Hall@Thoughtworks.com |
 
   
