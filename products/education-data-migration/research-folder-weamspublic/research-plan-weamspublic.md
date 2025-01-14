@@ -34,6 +34,7 @@ Consider bucketing research questions under research goals. For each question, t
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
 **Here are our research questions:**
   
 ### Hypothesis
@@ -42,6 +43,7 @@ What do you intend to learn and measure from this study? Think through these pro
 - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
 - Remember to constrain the hypothesis to the goals of your study!
+
 **Here is our hypothesis:**
 
 ## Methodology	
