@@ -9,6 +9,13 @@
 | Are the users going out to BTSSS? | # of clicks on the help section's outbound link |
 | # of interactions | 47 |
 
+| Metric Name | Description |
+| ----------- | ----------- |
+| VA.gov - Endpoint errors | 6.2% |
+| Travel Pay API - Endpoint error count | Number of non-200,201 status codes to travel pay API endpoints |
+| VA.gov - Sustained high latency | p90 latency measures above x for time |
+
+
 ### Date
 #### Medallia Feedback
 #### Google Analytics and DataDog
