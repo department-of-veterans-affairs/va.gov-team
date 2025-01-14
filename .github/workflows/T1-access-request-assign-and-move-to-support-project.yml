@@ -1,8 +1,8 @@
-name: Add Issue to Project Board
+name: "Supp: move to Access Requests column"
 
 on:
   issues:
-    types: 
+    types:
     - opened
     - labeled
 

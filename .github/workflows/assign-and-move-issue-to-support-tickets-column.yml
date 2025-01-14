@@ -1,8 +1,8 @@
-name: Add Issue to Project Board
+name: "Supp: move to Support Tickets column"
 
 on:
   issues:
-    types: 
+    types:
     - opened
     - labeled
 
@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     if: contains(github.event.issue.labels.*.name, 'Platform-Support-Ticket')  # Skip job if the label doesn't exist
     steps:
-      - name: Move Issue to Access Requests Column
+      - name: Move Issue to Support Tickets Column
         uses: m7kvqbe1/github-action-move-issues@v1.1.2
         with:
           github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
