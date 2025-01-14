@@ -4,15 +4,11 @@ Guidance around the use of the VA.gov homepage is published as the [Homepage tem
 
 Each section of the homepage is tightly controlled and governed to ensure we are delivering the clearest and most accessible experience possible for all Veterans, service members, their family members and their caregivers.
 
-### Sections owned by OPIA
-
 OPIA controls what content/information is displayed within these 2 sections of the homepage:
-- The main promo space at the top of the homepage content
+- The main promo space at the top left of the homepage content
 - The featured news section
 
 Any requests to change the content in these sections must be approved by OPIA, and OCTO content is responsible for implementing any changes.
-
-### Sections owned by OCTO
 
 OCTO controls what content/information is displayed within these sections of the homepage:
 - Create account section on the upper right corner of the page
