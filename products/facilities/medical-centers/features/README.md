@@ -25,6 +25,7 @@ Major features include:
 * [Stories](#stories)
 * [Events](#events)
 * [VAMC Detail Pages](#vamc-detail-pages)
+* CTA Widget
 
 ## Editor Knowledge Base
 https://prod.cms.va.gov/help/vamc
@@ -445,3 +446,20 @@ Top task pages currently created using VAMC Detail pages:
 * [How to edit a VAMC Pharmacy top task detail page](https://prod.cms.va.gov/help/vamc/how-to-edit-a-vamc-top-task-detail-page)
 * [How to edit a VAMC "Health Service Caregiver Page" using a detail page](https://prod.cms.va.gov/help/vamc/about-health-services/how-to-edit-a-vamc-health-service-caregiver-page-using-a-detail-page)
 
+
+## CTA widget
+The CTA widget is a vets-website application that allows users to log in from the VA.gov page where the CTA widget is placed, and be directed to a specific location within the authed experience. 
+
+Within VAMC pages, there are 5 pages that include a CTA widget. 
+* The Health Apps group, MHV Cartography team is responsible (in partnership with CAIA) for the content in those widgets, and may make code changes.
+* The React widget is then loaded into Drupal, and referenced from those 5 pages that appear on each VAMC.
+
+The Health Apps team does not have Drupal access, so may need support from the Facilities team for any future Drupal updates. 
+
+Widget | Benefits Page (CAIA + MHV Cartography / Identity teams own) | Example VAMC page (Identity owns the widget, may need Facilities support on Drupal side)
+--- | --- | ---
+HEALTH_RECORDS | https://www.va.gov/health-care/get-medical-records/ | https://www.va.gov/lovell-federal-health-care-va/medical-records-office/
+LAB_AND_TEST_RESULTS | https://www.va.gov/health-care/view-test-and-lab-results/ |
+MESSAGING | https://www.va.gov/health-care/secure-messaging/ |
+RX | https://www.va.gov/health-care/refill-track-prescriptions/ | https://www.va.gov/minneapolis-health-care/pharmacy/
+SCHEDULE_APPOINTMENTS | https://www.va.gov/health-care/schedule-view-va-appointments/ | https://www.va.gov/minneapolis-health-care/make-an-appointment/
