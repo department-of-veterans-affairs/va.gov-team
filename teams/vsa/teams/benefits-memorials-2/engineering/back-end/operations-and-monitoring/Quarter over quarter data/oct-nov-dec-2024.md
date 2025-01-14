@@ -1,5 +1,6 @@
 ## Summary of Performance Type Metrics by Quarter
 ### Oct/Nov/Dec 2024
+###### *Note: numbers do not take into account that DMC had issues with servers not having bandwidth.
 #### Medical Copay Metrics
 ![Screenshot 2025-01-13 at 12 16 47 PM](https://github.com/user-attachments/assets/1ad9d214-92b7-467b-bdd4-5403efaa06b0)
 
