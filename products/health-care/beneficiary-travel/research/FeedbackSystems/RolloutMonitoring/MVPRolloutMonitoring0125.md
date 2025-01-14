@@ -1,6 +1,13 @@
-### Date
+### 1/13/25
 #### Medallia Feedback
 #### Google Analytics and DataDog
+
+| Metric Name | Description |
+| ----------- | ----------- |
+| Unique page views | 10 |
+| Repeat page views | 1 |
+| Are the users going out to BTSSS? | # of clicks on the help section's outbound link |
+| # of interactions | 47 |
 
 ### Date
 #### Medallia Feedback
