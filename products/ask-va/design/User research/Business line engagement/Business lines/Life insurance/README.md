@@ -8,7 +8,7 @@
 
 |Stakeholder|Business area|
 |:--|:--|
-||Life insurance|
+|Joseph Melvin|Life insurance|
 |Cherronda Jeffcoat|Life insurance|
 
 ### Engagements
