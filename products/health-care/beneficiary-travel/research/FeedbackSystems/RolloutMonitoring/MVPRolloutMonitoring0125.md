@@ -19,6 +19,9 @@ No feedback for 1/13/25
 | VA.gov - Endpoint errors | 0 |
 | Travel Pay API - Endpoint error count | 8 |
 | Average latency | 2.8 sec |
+| Average latency | 2.8 sec |
+| Unique users accessing the API | 101 |
+
 
 
 ### 1/14/25 - 25%
@@ -38,6 +41,7 @@ Pending
 | VA.gov - Endpoint errors | 1 error |
 | Travel Pay API - Endpoint error count | 39 |
 | Average latency | 2.48 sec |
+| Unique users accessing the API | 538 |
 
 
 ### 1/15/25 - 25%
