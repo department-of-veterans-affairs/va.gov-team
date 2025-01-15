@@ -1,4 +1,4 @@
-# Conversation Guide 
+# Conversation Guide for Resources & Support Search Enhancements
 
 ## Moderator logistics
 
@@ -123,8 +123,16 @@ I would like you to look over this page and tell me about it. I'm interested in 
 
 Please try to **talk aloud** about what you're thinking and what you plan to do BEFORE selecting anything.
 
-- Step 1
-- Step 2
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+## Task 2: Check claim status
+Imagine that you submitted an application for VA benefits a few weeks ago and want to see when you can expect to hear back from the VA. 
+
+Show me how'd you'd try and find that information.
 
 ### Things to watch for:
 
@@ -132,21 +140,8 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Task 2: [TASK NAME] 
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Task 3: [TASK NAME]
-
-- Step 1
-- Step 2
+## Task 3: Community Care 
+Now imagine that you currently receive health care through the VA. You've heard that there are some situations where the VA will pay for health care from non-VA providers. Show me how you'd try to figure out if this applies to you.
 
 ### Things to watch for:
 
