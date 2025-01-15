@@ -60,7 +60,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 
 ## Staged Rollout Details
-**Rollout date range: January 6-13, 2025**
+**Rollout date range: January 6-21, 2025**
 - Limited production access to the Appoint a Representative application AND the related entry point on our landing page will be controlled through the frontend feature toggle `appoint_a_representative_enable_frontend`
 - Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed above)
 - For every 10% of users, we expect roughly 70 sessions per day.
@@ -69,7 +69,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 **Go/No Go meeting Friday January 3, 2025**
 1. Stage A: 5% of users on 1/8 (Wednesday) + implement Datadog monitoring in Production [#92287](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92287)
 2. Stage B: 50% of users on 1/13 (Monday)
-3. Stage C: 100% of users on 1/15 (Wednesday) + launch best bets for an initial boost to visibility + publish entry points
+3. Stage C: 100% of users on 1/21 (Tuesday) + launch best bets for an initial boost to visibility + publish entry points
 
 *** 
 
@@ -96,11 +96,12 @@ The following will be considered before advancing rollout to the next stage:
    4. [2122 PDF generation is checking consent limit boxes when the user says allow everything](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100739)
    5. [Medical authorizations not updating when selecting "some" then correcting to "all"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100627)
 
-### Stage B Results (Jan 13-15, 2025)
+### Stage B Results (Jan 13-21, 2025)
 
 1. Errors in Datadog
 2. Google Analytics traffic to Appoint a Representative
 3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
+   1. [Missing rep phone number causes 21-22a PDF generation error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101149)
 
 ## Post Launch Metrics
 
