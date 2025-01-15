@@ -33,15 +33,6 @@ Search research indicates that the VA forms page consistently gets high organic 
 - we want to create new content on this page to drive traffic to top tasks and to the top digital versions of form applications.
 - we want to add analytics tracking to all links and downloads.
 
-
-### Desired User Outcomes
-
-### Undesired User Outcomes
-
-### Desired Business Outcomes
-
-### Undesired Business Outcomes
-
 ---
 ### Measuring Success
 
@@ -81,28 +72,23 @@ Engagement
 ---
 
 ## Initiatives
-- MVP
-- Post-MVP
-- [PDF audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-09-pdf-audit/pdf_audit_2021.md) - 2021
-- [VA Form Data Evaluation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/form-data-mgmt/data_eval-Feb-2020.md) - Feb 2021
-- [Sort by last updated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/sort-by-last-updated/release-plan.md) - Feb 2021
-- [Language support discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/language-support/meetings/meeting-notes.md) - April 2021
-- [Improve search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/improve-search/README.md) - July 2021
-- [Connect search with details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/connect-search-with-details/README.md)
-- [Docusign POC](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/docusign-poc/meetings-decisions.md)
-- [PDF Modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/pdf_modal/accessibility/accessibility-staging-prep.md)
-- [PDF certificate warning alert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/initiatives/2022-03-pdf-cert-warning-alert) - Q4 2022
+
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/initiatives 
 
 ---
-## Important technical constraints and dependencies
 
-### Lighthouse API
+## Lighthouse Forms API dependency
 
-The forms endpoint on the Lighthouse Forms API has a rate limit. That limit was hit in August 2023 when a PACT Act deadline drove a huge surge in demand for a particular form. The presence of a rate limit is difficult to detect because the errors are masked by the many layers of the VA network stack. In practice, a rate limit could be experienced as 502 response codes occurring on the vets-api endpoint (https://api.va.gov/v0/forms), and 429 response codes on the Lighthouse endpoint (https://api.va.gov/services/va_forms/v0/forms).
+### Data flow
+Find Forms is integrated with the Lighthouse Forms API. 
+* Drupal pulls Forms DB data nightly
+* Lighthouse then pulls Forms data from the Drupal CMS
+* The VA.gov front-end then queries Lighthouse for Form data to display on the FE
 
-Rate limit history:
-- 240 requests / min = the orignal rate limit  ([slack thread](https://dsva.slack.com/archives/CBU0KDSB1/p1691433561014359?thread_ts=1691430186.980299&cid=CBU0KDSB1), from Kristen Brown)
-- 500/min = New rate limit as of 8/8/2023, after our increase request
+[Forms migration docs](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/migrations-forms.md)
+
+[Engineering / architecture docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/engineering.md)
+
 
 ---
 
@@ -157,6 +143,7 @@ Forms DB infrastructure is owned by Office of Information Technology (OIT). The 
 Lighthouse teams owns the Sidekiq job that imports CMS Forms data to Lighthouse, for populating Find a Form search results.
 |Name|Role|Email|
 |----|----|----|
+|Janet Coutinho | Lighthouse VA Forms PO | |
 |Michael Hobson |michael.hobson@adhocteam.us / shaun.hobson@va.gov | Product Manager, Lighthouse VA Forms API | 
 |Emily Goodrich |emily.goodrich@oddball.io | Delivery Manager, Lighthouse VA Forms API |
 |Kristen Brown |kristen.brown@adhocteam.us / kristen.brown5@va.gov | Software Engineer, Lighthouse VA Forms API (AdHoc)|
