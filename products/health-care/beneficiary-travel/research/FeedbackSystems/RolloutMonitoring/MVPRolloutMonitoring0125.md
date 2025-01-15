@@ -1,4 +1,7 @@
-### 1/13/25
+
+_Please note: Google Analytics Data is on a 48-hour delay (e.g. data for 1/13 will not be complete until 1/15)_ 
+
+### 1/13/25 - 5%
 #### Medallia Feedback
 No feedback for 1/13/25
 
@@ -6,9 +9,9 @@ No feedback for 1/13/25
 
 | Metric Name | Description |
 | ----------- | ----------- |
-| Unique page views | 10 |
-| Repeat page views | 1 |
-| # of interactions | 47 |
+| Unique page views | 93 |
+| Views per user | 1.13 |
+| # of interactions | 347 |
 
 | Metric Name | Description |
 | ----------- | ----------- |
@@ -17,11 +20,58 @@ No feedback for 1/13/25
 | Average latency | 2.63 sec |
 
 
-### Date
+### 1/14/25 - 25%
+#### Medallia Feedback
+Pending
+
+#### Google Analytics and DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| Unique page views | 55 |
+| Views per user | 1.1 |
+| # of interactions | 437 |
+
+### 1/15/25 - 25%
 #### Medallia Feedback
 #### Google Analytics and DataDog
 
-### Date
+### 1/16/25 - 50%
+#### Medallia Feedback
+#### Google Analytics and DataDog
+
+### 1/16/25 - 50%
+#### Medallia Feedback
+#### Google Analytics and DataDog
+
+### 1/17/25 - 50%
+#### Medallia Feedback
+#### Google Analytics and DataDog
+
+### 1/18/25 - 50%
+#### Medallia Feedback
+#### Google Analytics and DataDog
+
+### 1/19/25 - 50%
+#### Medallia Feedback
+#### Google Analytics and DataDog
+
+### 1/20/25 - 50%
+#### Medallia Feedback
+#### Google Analytics and DataDog
+
+### 1/21/25 - 75%
+#### Medallia Feedback
+#### Google Analytics and DataDog
+
+### 1/22/25 - 75%
+#### Medallia Feedback
+#### Google Analytics and DataDog
+
+### 1/23/25 - 100%
+#### Medallia Feedback
+#### Google Analytics and DataDog
+
+### 1/24/25 - 100%
 #### Medallia Feedback
 #### Google Analytics and DataDog
 
