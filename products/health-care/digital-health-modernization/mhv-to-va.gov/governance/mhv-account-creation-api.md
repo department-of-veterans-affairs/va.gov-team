@@ -106,7 +106,7 @@ type: ''
          {
             title: 'The server responded with status 500',
             detail: 'things fall apart',
-            code: '805'
+            code: 805
          }
       ],
    }
