@@ -43,7 +43,7 @@ The team will also start adding work for the transition off period by looking at
 
 In addition to the 0781, an issue in LightHouse is causing silent failures. The issue's root cause fix is still being reviewed, but the remediation of the claims that fell through this path will need support for remediation. Not certain yet if that will happen this sprint or next, waiting on LH and OCTO for more details on what to expect. 
 
-
+Team is leaving some time for making improvements on how we work. This will help support the OCTO goal for documentation and testing. 
 
 [Roadmap for Disability Benefits (DBEX) Team 2 (Carbs)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?wid=0-1728398176278)
 
