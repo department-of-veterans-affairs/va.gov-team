@@ -20,7 +20,7 @@ No feedback for 1/13/25
 | Travel Pay API - Endpoint error count | 8 |
 | Average latency | 2.8 sec |
 | Average latency | 2.8 sec |
-| Unique users accessing the API | 101 |
+| Unique users accessing the API | 91 |
 
 
 
