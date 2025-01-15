@@ -27,9 +27,9 @@ Pending
 #### Google Analytics and DataDog
 | Metric Name | Description |
 | ----------- | ----------- |
-| Unique page views | 55 |
-| Views per user | 1.1 |
-| # of interactions | 437 |
+| Unique page views | Available 1/16 |
+| Views per user | Available 1/16 |
+| # of interactions | Available 1/16 |
 
 ### 1/15/25 - 25%
 #### Medallia Feedback
