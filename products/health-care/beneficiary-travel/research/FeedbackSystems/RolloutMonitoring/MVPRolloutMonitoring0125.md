@@ -15,9 +15,9 @@ No feedback for 1/13/25
 
 | Metric Name | Description |
 | ----------- | ----------- |
-| VA.gov - Endpoint errors | 6.2% |
-| Travel Pay API - Endpoint error count | Data pending collection |
-| Average latency | 2.63 sec |
+| VA.gov - Endpoint errors | 0 |
+| Travel Pay API - Endpoint error count | 8 |
+| Average latency | 2.8 sec |
 
 
 ### 1/14/25 - 25%
