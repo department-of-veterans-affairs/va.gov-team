@@ -38,7 +38,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Dave and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is Cindy and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
 I work on making technology easier for Veterans and other beneficiaries to use in order to get information and benefits from the VA. Today I'm going to ask you a few questions, and then I'll ask you to do some specific tasks using a link that I will share with you.
@@ -52,7 +52,7 @@ If you need help with an existing claim or issue, we can connect you with someon
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
+- I know the folks who invited you to participate in this interview asked if it was OK to allow people to observe this interview, and I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
@@ -82,7 +82,7 @@ receive the URL? I can dictate it to you, or put it in the Zoom chat. (RECORD)
 5. About how frequently do you use VA.gov?
 6. How easy or difficult would you say it is to find information you're looking for on VA.gov?
 
-## Task Zero: Screen sharing and protoype link 
+## Task 0: Screen sharing and protoype link 
 
 Now we're going to transition over to looking at a prototype web site. I'd like you to try to use it, and please share your feedback while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing.
 
@@ -117,7 +117,9 @@ private window (Firefox, Safari) or InPrivate (Edge)
           - If don't see chat, ASK: Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
      - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
-## First Task: [TASK NAME] - Resources and Support impressions
+## Task 1: Impressions of R&S Landing page
+
+I would like you to look over this page and tell me about it. I'm interested in your impressions of what you see and any questions that you have.
 
 Please try to **talk aloud** about what you're thinking and what you plan to do BEFORE selecting anything.
 
@@ -128,10 +130,9 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Task 2: [TASK NAME] 
 
 - Step 1
 - Step 2
@@ -142,7 +143,7 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
+## Task 3: [TASK NAME]
 
 - Step 1
 - Step 2
@@ -152,6 +153,28 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
+
+## Task 4: [TASK NAME]
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+## Task 5: [TASK NAME]
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]## Consent to use video clips
 
 ## Post-Task Interview - X minutes
 
@@ -159,13 +182,11 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
 - Question 2
 - Any questions for me? 
 
-## Consent to use video clips
-
 - I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
    - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
 
-## Thank-You and Closing - X minutes
+## Thank You and Closing - X minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
