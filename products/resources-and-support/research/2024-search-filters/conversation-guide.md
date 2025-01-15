@@ -154,7 +154,7 @@ Let's assume that you just visited a VA medical center for an appointment, and y
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Task 5: [TASK NAME]
+## Task 5: Evidence to support claim
 Imagine you are preparing to apply to receive monthly payments from the VA. You know that there are certain documents you need to provide with your application, but you don't remember exactly what those documents are and want to look them up. Show me how'd you'd try to find that information.
 
 ### Things to watch for:
