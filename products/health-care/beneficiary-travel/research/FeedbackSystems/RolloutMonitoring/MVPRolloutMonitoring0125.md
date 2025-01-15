@@ -26,7 +26,7 @@ No feedback for 1/13/25
 
 ### 1/14/25 - 25%
 #### Medallia Feedback
-Pending
+No feedback for 1/14/25
 
 #### Google Analytics 
 | Metric Name | Description |
