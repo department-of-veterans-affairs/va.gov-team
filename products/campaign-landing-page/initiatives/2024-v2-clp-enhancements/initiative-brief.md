@@ -130,8 +130,8 @@ ensure that all campaigns that VA creates have these minimum values for DEPO:
 ### Collaboration Cycle
 Milestone | Date | Notes |
 ---| :---: | :---: |
-| Collaboration cycle kickoff request | 10/15/2024 |[#95014]https://github.com/orgs/department-of-veterans-affairs/projects/1442/views/1?filterQuery=resources&pane=issue&itemId=83522523&issue=department-of-veterans-affairs%7Cva.gov-team%7C95014) |
-| PO Sync | 10/30/2024 | |
+|  |  | |
+| PO Sync |  | |
 | Design Intent | | |
 | CMS Request| | |
 | Research review| | |
@@ -145,7 +145,7 @@ Milestone | Date | Notes |
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+
 
 #### Initiative Launch Dates
 - *Target Launch Date*
