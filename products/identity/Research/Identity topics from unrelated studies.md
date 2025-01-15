@@ -9,6 +9,18 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 - **Takeaway:**
 ----
 
+### Study name: 11-2024 Toxic Exposure Evaluative Research
+
+ -   **Team/Researchers:**  Maya Carroll, Lauren Dawson
+ -   **Date:**  November 2024
+ -   **Link to study:**  [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2024-11-Toxic%20Exposure),  [Findings report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Toxic%20Exposure%20Research%20Findings.md)
+ -   **Takeaways:**
+ - High Priority Issue #4: The requirement to authenticate to preview the form and to enter date into required fields to progress through the pages creates a less inclusive user experience.
+ - Logging onto staging was time-consuming and frustrating for participants.​
+      -   Walking participants through the login process was the most difficult part of every session. The process took up to 45 minutes, blocking 2 participants and preventing 2 others from completing the full session.​
+      - Dictating and zoom chatting the staging website URL and login criteria (username and password) was slow and error-prone, despite participant focus and positive attitude.
+
+
 ### Study name: 09-2024 Find help on Contact us
 - **Team/Researcher:** Becky Phung, Veteran support crew (contact us page)
 - **Date:** Sept 2024
