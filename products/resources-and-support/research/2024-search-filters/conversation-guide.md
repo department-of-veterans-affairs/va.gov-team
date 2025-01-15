@@ -124,49 +124,41 @@ I would like you to look over this page and tell me about it. I'm interested in 
 Please try to **talk aloud** about what you're thinking and what you plan to do BEFORE selecting anything.
 
 ### Things to watch for:
+- [Understand meaning of *Resources and support*?]
+- [Notice/click: *Search / Show filters / Featured / Common topics / Browse by benefit*]
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Task 2: Check claim status
-Imagine that you submitted an application for VA benefits a few weeks ago and want to see when you can expect to hear back from the VA. 
-
-Show me how'd you'd try and find that information.
+## Task 2: Claim status
+Imagine that you submitted an application for VA benefits a few weeks ago and want to see when you can expect to hear back from the VA. Show me how'd you'd try and find that information.
 
 ### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
+- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
+- [Notice *Claims and claim status* in *Common Topics*?]
+- [Try *Decision reviews and appeals*?]
 - [Etc]
 
 ## Task 3: Community Care 
 Now imagine that you currently receive health care through the VA. You've heard that there are some situations where the VA will pay for health care from non-VA providers. Show me how you'd try to figure out if this applies to you.
 
 ### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
+- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
+- [Does the participant understand meaning of *Community care*?]
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Task 4: [TASK NAME]
-
-- Step 1
-- Step 2
+## Task 4: Travel reimbursement
+Let's assume that you just visited a VA medical center for an appointment, and you took a train to get there. You learned that the VA will pay you back for the cost of your train ticket if you submit your receipt online. Show me how'd you'd try and learn how to do that.
 
 ### Things to watch for:
-
+- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
 
 ## Task 5: [TASK NAME]
-
-- Step 1
-- Step 2
+Imagine you are preparing to apply to receive monthly payments from the VA. You know that there are certain documents you need to provide with your application, but you don't remember exactly what those documents are and want to look them up. Show me how'd you'd try to find that information.
 
 ### Things to watch for:
-
+- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]## Consent to use video clips
