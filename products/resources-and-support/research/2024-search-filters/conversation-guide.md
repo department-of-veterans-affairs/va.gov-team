@@ -128,40 +128,122 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
 - [Notice/click: *Search / Show filters / Featured / Common topics / Browse by benefit*]
 
 ## Task 2: Claim status
-Imagine that you submitted an application for VA benefits a few weeks ago and want to see when you can expect to hear back from the VA. Show me how'd you'd try and find that information.
+Please go back to the first page you were on [landing pg via breadcrumb]. 
+
+Imagine that you submitted an application for VA benefits a few weeks ago and want to see when you can expect to hear back from the VA. Show me how you would try and find that information from here.
 
 ### Things to watch for:
-- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
-- [Notice *Claims and claim status* in *Common Topics*?]
-- [Try *Decision reviews and appeals*?]
+- [Navigation path: *Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+  - Search string: _________________________
+  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+- [Any confusion with *Decision reviews and appeals*?]
 - [Etc]
 
 ## Task 3: Community Care 
-Now imagine that you currently receive health care through the VA. You've heard that there are some situations where the VA will pay for health care from non-VA providers. Show me how you'd try to figure out if this applies to you.
+Please go back to the first page you were on [landing pg via breadcrumb].
+
+Now imagine that you currently receive health care through the VA. You've heard that there are some situations where the VA will pay for health care from non-VA providers. Show me how you would try to figure out if this applies to you.
 
 ### Things to watch for:
-- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
+- [Navigation path: *Search / Show filters / Featured / Common topics > Community care / Browse by benefit*]
+  - Search string: _________________________
+  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
 - [Does the participant understand meaning of *Community care*?]
 - [Does the participant notice xyz?]
 - [Etc]
 
 ## Task 4: Travel reimbursement
-Let's assume that you just visited a VA medical center for an appointment, and you took a train to get there. You learned that the VA will pay you back for the cost of your train ticket if you submit your receipt online. Show me how'd you'd try and learn how to do that.
+Please go back to the first page you were on [landing pg via breadcrumb].
+
+Let's assume that you just visited a VA medical center for an appointment, and you took a train to get there. You learned that the VA will pay you back for the cost of your train ticket if you submit your receipt online. Show me how you would try and learn how to do that.
 
 ### Things to watch for:
 - [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
+  - Search string: _________________________
+  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
 
 ## Task 5: Evidence to support claim
-Imagine you are preparing to apply to receive monthly payments from the VA. You know that there are certain documents you need to provide with your application, but you don't remember exactly what those documents are and want to look them up. Show me how'd you'd try to find that information.
+Please go back to the first page you were on [landing pg via breadcrumb].
+
+ Imagine you are preparing to apply to receive monthly payments from the VA. You know that there are certain documents you need to provide with your application, but you don't remember exactly what those documents are and want to look them up. Show me how you would try to find that information.
 
 ### Things to watch for:
 - [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
+  - Search string: _________________________
+  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]## Consent to use video clips
+
+## Task 6: Sign in
+Please go back to the first page you were on [landing pg via breadcrumb].
+
+Let's say that you're having some difficulty getting into your VA account online. Show me how you would try to get help on this. 
+
+### Things to watch for:
+- [Navigation path: *Search / Show filters / Featured: Signing in to VA.gov / Common topics / Browse by benefit*]
+  - Search string: _________________________
+  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+## Task 7: Payments and debt
+Please go back to the first page you were on [landing pg via breadcrumb].
+
+Please show me how you might check to see whether you owe the VA any money.
+
+### Things to watch for:
+- [Navigation path: *Search / Show filters / Featured / Common topics: Payments and debt / Browse by benefit*]
+  - Search string: _________________________
+  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+## Task 8: Discharge upgrade *(NOT for Service members)*
+Please go back to the first page you were on [landing pg via breadcrumb].
+
+Let's say that you want to change something about your military discharge. Show me how you would find information on that.
+
+### Things to watch for:
+- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
+  - Search string: _________________________
+  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+## Task X: TOPIC
+Please go back to the first page you were on [landing pg via breadcrumb].
+
+INSTRUCTIONS
+
+### Things to watch for:
+- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
+  - Search string: _________________________
+  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+## Task X: TOPIC
+Please go back to the first page you were on [landing pg via breadcrumb].
+
+INSTRUCTIONS
+
+### Things to watch for:
+- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
+  - Search string: _________________________
+  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
 
 ## Post-Task Interview - X minutes
 
