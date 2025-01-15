@@ -1,0 +1,12 @@
+# January 15, 2025 Medallia PCI Report Summary
+
+Created: January 15, 2025
+
+This is an analysis of Veteran feedback from Medallia on PCI from **January 1, 2025 - January 15, 2025**. 
+
+Feedback from Veterans is captured via Medallia. This report queries Medallia for comments that originated from the use of the in-app survey on the appointments-pre-check-in and appointment-check-in URLS & their sub URLS.
+
+
+## Notable Comments
+
+
