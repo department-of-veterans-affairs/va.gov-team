@@ -7,7 +7,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| veteranStatusCardUseLighthouseFrontend | When enabled, the Veteran Proof of Status card is shown/hidden based on the `veteranStatus` value returned from the Lighthouse Veteran Service History and Eligibility API. |
 
 ## Step 2: Validation
 
