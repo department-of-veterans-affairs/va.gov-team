@@ -31,6 +31,13 @@ Pending
 | Views per user | Available 1/16 |
 | # of interactions | Available 1/16 |
 
+| Metric Name | Description |
+| ----------- | ----------- |
+| VA.gov - Endpoint errors | 1 error |
+| Travel Pay API - Endpoint error count | 39 |
+| Average latency | 2.48 sec |
+
+
 ### 1/15/25 - 25%
 #### Medallia Feedback
 #### Google Analytics and DataDog
