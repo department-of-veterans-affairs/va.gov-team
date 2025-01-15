@@ -5,7 +5,7 @@ _Please note: Google Analytics Data is on a 48-hour delay (e.g. data for 1/13 wi
 #### Medallia Feedback
 No feedback for 1/13/25
 
-#### Google Analytics and DataDog
+#### Google Analytics 
 
 | Metric Name | Description |
 | ----------- | ----------- |
@@ -13,6 +13,7 @@ No feedback for 1/13/25
 | Views per user | 1.13 |
 | # of interactions | 347 |
 
+#### DataDog
 | Metric Name | Description |
 | ----------- | ----------- |
 | VA.gov - Endpoint errors | 0 |
@@ -24,13 +25,14 @@ No feedback for 1/13/25
 #### Medallia Feedback
 Pending
 
-#### Google Analytics and DataDog
+#### Google Analytics 
 | Metric Name | Description |
 | ----------- | ----------- |
 | Unique page views | Available 1/16 |
 | Views per user | Available 1/16 |
 | # of interactions | Available 1/16 |
 
+#### DataDog
 | Metric Name | Description |
 | ----------- | ----------- |
 | VA.gov - Endpoint errors | 1 error |
@@ -40,47 +42,58 @@ Pending
 
 ### 1/15/25 - 25%
 #### Medallia Feedback
-#### Google Analytics and DataDog
+#### Google Analytics
+#### DataDog
 
 ### 1/16/25 - 50%
 #### Medallia Feedback
-#### Google Analytics and DataDog
+#### Google Analytics
+#### DataDog
 
 ### 1/16/25 - 50%
 #### Medallia Feedback
-#### Google Analytics and DataDog
+#### Google Analytics
+#### DataDog
 
 ### 1/17/25 - 50%
 #### Medallia Feedback
-#### Google Analytics and DataDog
+#### Google Analytics
+#### DataDog
 
 ### 1/18/25 - 50%
 #### Medallia Feedback
-#### Google Analytics and DataDog
+#### Google Analytics
+#### DataDog
 
 ### 1/19/25 - 50%
 #### Medallia Feedback
-#### Google Analytics and DataDog
+#### Google Analytics
+#### DataDog
 
 ### 1/20/25 - 50%
 #### Medallia Feedback
-#### Google Analytics and DataDog
+#### Google Analytics
+#### DataDog
 
 ### 1/21/25 - 75%
 #### Medallia Feedback
-#### Google Analytics and DataDog
+#### Google Analytics
+#### DataDog
 
 ### 1/22/25 - 75%
 #### Medallia Feedback
-#### Google Analytics and DataDog
+#### Google Analytics
+#### DataDog
 
 ### 1/23/25 - 100%
 #### Medallia Feedback
-#### Google Analytics and DataDog
+#### Google Analytics
+#### DataDog
 
 ### 1/24/25 - 100%
 #### Medallia Feedback
-#### Google Analytics and DataDog
+#### Google Analytics
+#### DataDog
 
 ---
 **Engineering Metrics (Datadog)**
