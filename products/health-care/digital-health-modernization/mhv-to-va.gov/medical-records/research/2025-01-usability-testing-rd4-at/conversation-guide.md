@@ -69,11 +69,6 @@ Today we are trying to learn how a Veteran might use this product if they were o
 &nbsp;
 
 Part of understanding how well this product works is to know what you, the user, are thinking and feeling while you are using it. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Imagine that you are doing the tasks today and I am on the phone with you and can’t see your screen. Does that make sense?
-<br/>At the top right of the screen where your name would be, we have the name Pat. Pat is our test user and it is their information that we will see today. I will be referring to Pat as we go through the tasks today.
-
-&nbsp;
-
-If you are ready, we can begin.
 
 ## First Task: Generative Interview - 5 minutes
 
@@ -85,11 +80,17 @@ What do you think these settings mean?
 
 Who do you think has access to your records right now?
 
-_\[Optional prompt\]:_ Take a moment to read through this page. Does this help clarify the electronic sharing settings?
+_\[Optional prompt\]:_ Let's navigate to "Manage your medical records settings." Click the link in this section for me. Take a moment to read through this page. Does this help clarify the electronic sharing settings?
 
 ## Second Task: Sharing Settings - 10 minutes
 
 _\[intro to Pat\]_
+
+At the top right of the screen where your name would be, we have the name Pat. Pat is our test user and it is their information that we will see today. I will be referring to Pat as we go through the tasks today.
+
+&nbsp;
+
+_\[Optional prompt\]:_ Let's navigate to "Manage your medical records settings." Click the link in this section for me.
 
 - Tell me how Pat’s records will be shared using their current settings.
 - Pat likes to use the CVS Minute Clinic by their house when they can. Since it's a participating non-VA health care partner, they can share their VA records with CVS. In addition, this CVS has a pretty sweet candy section, so Pat is always down for a visit. Make the necessary updates so that Pat can share their medical record with CVS.
@@ -106,7 +107,7 @@ _\[once opted in\]_
 
 - Have Pat’s sharing settings been updated?
 - How will Pat’s records be shared now?
-- What kind of health information will be shared with Pat’s electronic medical record?
+- What kind of health information will be shared from Pat’s electronic medical record?
 
 I am going to provide you with a rating scale that we will be using throughout today’s session.
 
@@ -132,7 +133,7 @@ Have you ever looked at specialized test results like lipid panels or X-rays bef
 - How often do you see terms that you don’t understand?
   - What do you do with these terms?
 
-Pat wants to spend some time today reviewing their past test results before their next doctor appointment to stay up-to-date. They recently had an E. coli infection. Find those results for me please.
+Pat wants to spend some time today reviewing their past test results before their next doctor appointment to stay up-to-date. They recently had an E. coli infection. Show me how you would find those results please.
 
 _\[Do not interrupt participant – collecting Time on Task\]_
 
@@ -154,7 +155,7 @@ _\[if SR user\]_
 
 Please return to Pat’s test results.
 
-Pat had a biopsy of a mole taken on their back. Locate the results from their biopsy.
+Pat had a biopsy of a mole taken on their left finger. Locate the results from their biopsy.
 
 Would anything make it easier to identify these results?
 
@@ -164,9 +165,9 @@ Please return to Pat’s test results.
 
 Pat accidentally rolled their ankle while they were playing pickleball with their buddies over the summer. They went to the doctor to get it checked out and had some imaging done. Find their test results and open them up.
 
-_\[MRI Right Ankle\]_
+_\[ANKLE LEFT 3 VIEWS\]_
 
-- How do you feel about the process of finding Pat’s MRI images?
+- How do you feel about the process of finding Pat’s X-Ray images?
 - _\[if SR user\]_
   - As someone who is visually impaired, how do you handle images in your test results?  
         <br/>_\[Lab & test results\]_
