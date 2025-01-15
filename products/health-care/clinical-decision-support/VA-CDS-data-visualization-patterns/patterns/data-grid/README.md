@@ -27,6 +27,7 @@ Note: Prioritized as post-MVP iteration
 2. date picker (aka date selection affordance)
 3. affixing column view (aka column stays in view during horizontal scrolling)
    - [see slack for this priority agreement ](https://dsva.slack.com/archives/C04DMDC3TS8/p1734548335437739)
+4. expose the table state
 <br>
 
 ## Pilot Partners
@@ -35,7 +36,7 @@ The Lung Cancer System app’s outcome is to help the clinician review the patie
 <br>
 
 #### LCS Users
-- Power user(s):
+- Power user(s): 
 - Other users:
 <br>
 
