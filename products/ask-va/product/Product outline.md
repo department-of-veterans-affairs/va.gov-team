@@ -79,7 +79,7 @@ These OKRs measure the success of our Phase 1 launch.
 |Key result|ask.va.gov benchmark|VA.gov metric (X months after launch)|
 |---|---|---|
 |Complete VA.gov platform collaboration cycle steps|n/a|n/a|
-|**Satisfaction** - Increase customer satisfaction score (CSAT)|Dec 2024 to Jan 2025 (18 days): 25%|tbd|
+|**Satisfaction** - Increase customer satisfaction score (CSAT)|January 2025: 23%|tbd|
 |**Form completion rate** - Increase the percentage of successfully sent questions|[May to October 2024 (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|tbd|
 |**Routing** - Increase percentage of questions that are routed successfully by submitters|[2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Determining%20Ask%20VA%20queue%20from%20question%20text.md#submitter-problem-statement-misrouting-and-form-burden): 93%|tbd|
 
