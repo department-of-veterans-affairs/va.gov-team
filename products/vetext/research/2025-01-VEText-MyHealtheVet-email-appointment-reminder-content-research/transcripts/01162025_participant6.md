@@ -15,37 +15,37 @@ Thank you for joining us today! My name is Jamie, and I also have some colleague
 
 - This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally interrupt you to move on to the next question.
 
-- I’m hoping to record the session today, so that we capture your opinions accurately.  Please know that they will not be shared with anyone outside of this research study and will be deleted once our research is complete. Are you okay with us recording today?
+- I’m hoping to record the session today, so that we capture your opinions accurately.  Please know that they will not be shared with anyone outside of this research study and will be deleted once our research is complete. Are you okay with us recording today?
 
 - If for any reason and at any time you want to stop the session, please let me know.
 
 - Any questions before we get started?
 
-Ok, I’m going to hit the record button now. 
+Ok, I’m going to hit the record button now. 
 
 _\*Start audio and screen recording.\*_
 
 ### Section 1: Warm-Up Questions - 5 minutes
 
-1. What branch of the military did you serve in?
+1. What branch of the military did you serve in? *Marines. 
 
-2. When did you retire or separate?
+2. When did you retire or separate? *December, 1973.
 
-3. Do you currently receive health appointment reminder emails from the VA?
+3. Do you currently receive health appointment reminder emails from the VA? *Yes.
 
-4. Do you open/read those emails?
+4. Do you open/read those emails? *Yes.
 
-   1. If not, how do you get information about your appointments?
+   1. If not, how do you get information about your appointments? *
 
-5. Do you receive health appointment reminders by any other means like text message or phone call?
+5. Do you receive health appointment reminders by any other means like text message or phone call? *Yes, all formats.
 
-6. What do you find is your preferred method of communication about Veterans Health Administration appointments? Why? Does it change depending on the kind of appointment information that is being communicated?
+6. What do you find is your preferred method of communication about Veterans Health Administration appointments? Why? Does it change depending on the kind of appointment information that is being communicated? *Probably the texts. Easy to get to, open and look. Email, I have to run across it once I’m looking at the list of emails. *I use reminders on my phone. I have the date and who. I just make sure I get a reminder and make sure my reminders are correct. I usually put it in my phone right away because if I don’t’ I will forget to do it. If they give me a card, I will also take that. 
 
 
 
 ### Section 2: Preferred Content - 8 minutes
 
-1. When you open your email health appointment reminders, what information would you like to be included?
+1. When you open your email health appointment reminders, what information would you like to be included? *The date, time and who. Who am I going to be seeing. I have gone to appointments where I don’t know who I’m going to see and I don’t like that. One thing, it’s a reminder assuming I know who the doctor is and part of the reminder on what is going to take place. 
 
    1. Discuss cadence, information details, information about procedures, preparation, maps
 
@@ -53,27 +53,29 @@ _\*Start audio and screen recording.\*_
 
 Let’s look at a sample of a [current reminder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/current-mhv-emailmockup.md):
 
-1. Can you tell me about your experience receiving email appointment reminders from the Veterans Health Administration?
+1. Can you tell me about your experience receiving email appointment reminders from the Veterans Health Administration? *It’s helpful to because if you have an appointment in May, having a reminder for August is good because who knows what I will be doing in August since I’m retired and can do whatever I want to do. 
 
    1. (if also receiving VEText) How does this experience compare with your VEText texted appointment reminders?
 
 2. Is there information missing from the current reminder that you wish were included?
 
-3. How often are you receiving reminder emails from the Veterans Health Administration?
+3. How often are you receiving reminder emails from the Veterans Health Administration? * I get an appointment reminder that will have three appointments every once in a while. A lot of the times you have to confirm and again I double check what they are saying and what I have because a lot of times, they have been wrong. 
 
-   1. Is that good? Too much? What is ideal?
+   1. Is that good? Too much? What is ideal? * I like these. This type right here. Anytime as long as its before. A month would be good, and a week would be helpful, the day before is like, okay I get it now. I’d probably look at both but a text is good like anything else. 
 
    2. Discuss consolidation or how many appointments should be in a single email.
 
-4. How do you prefer for the Veterans Health Administration to communicate with you? - for example emails, sms, letters?
+4. How do you prefer for the Veterans Health Administration to communicate with you? - for example emails, sms, letters? * As long as I know who it’s for. I go to Maryland, and I see some in Baltimore and others elsewhere, and it’s good to know I have one on the 23rd and it I would like to know if its Baltimore downtown or Baltimore, Rockraven. 
 
 Let’s look at a possible [PHI sample reminder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/Pending-MHV-PHI-emailmockup.md)
 
-1. What are your thoughts here? What do you think of the additional information?
+1. What are your thoughts here? What do you think of the additional information? * Where it says to call your facility before your appointment; I generally don’t do that.  I don’t look at the information on the coronavirus. If I have to change my appointment, I know what to do, I would probably glance at it. * You can call the main number at a facility, but do I go to scheduling and the first time it was a run-around. For Rockraven, now I have their scheduling. 
+*The first thing I notice is the, “In-person appointment, you have a location, and information number, other than directions I think that is the important information. 
+*I think it would be especially if you haven’t been to that specific location. 
+*If you had a link there and highlighted to where you are supposed to go would be helpful. 
+2. If you had your choice of this (PHI) reminder and one with more generic information, which would you choose to receive? Why? *I like this one because there is more information and it doesn’t take up too much room. 
+3. Do you have any concerns about privacy with your appointment reminders? If so, does that influence your method of reminder? *No. Not likely anyone is going to see it but me. 
 
-2. If you had your choice of this (PHI) reminder and one with more generic information, which would you choose to receive? Why?
-
-3. Do you have any concerns about privacy with your appointment reminders? If so, does that influence your method of reminder?
 
 ### Closing Interview - 5 minutes
 
@@ -115,3 +117,4 @@ Great, well thank you so much again, and enjoy the rest of your day!
 **“We have covered all the questions I have for you today.** Thank you so much for your time and feedback.
 
 [Emergency exit strategy.](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies)
+
