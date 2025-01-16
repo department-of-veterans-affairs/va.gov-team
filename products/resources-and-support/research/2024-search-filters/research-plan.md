@@ -40,7 +40,7 @@ Validate the proposed design so we can start building it. There will be a second
 - Do users understand the Apply filters, Clear all, and X buttons in filter drawer?
 - Do users understand how to dimiss a filter once it's applied?
 - Do users understand how the filter chips on results/detail pages (w/X) work vs. on the landing page (w/o X)?
-- Are these understandable on both mobile and desktop?
+- Are these understandable on both mobile and desktop? **ONLY IF TESTING BOTH**
   - Desktop would have hover states on components
   - Destop has filter drawer as a modal on right side of screen
 
@@ -60,11 +60,12 @@ Validate the proposed design so we can start building it. There will be a second
   - Search box
   - Show filters button
   - Dismissible filter chips
-  - Clear all chip
+  - Clear all chips
 - Filter drawer
   - X (close) button in top right
   - Collapse all/expand all accordions
   - Individual accordions
+  - Individual filters--select 1 or multiple
   - Apply Filters button
   - Clear All button
 - Detail page
@@ -75,7 +76,7 @@ Validate the proposed design so we can start building it. There will be a second
 - Do users understand the filter group meanings: Audience, Benefit, Topic?
 - Do users of each audience type choose the filter that aligns with them?
 - Do users understand the individual filter labels?
-- What search terms would users put in search box?
+- What search terms do users put in the search box?
 - How do search terms overlap with or differ from filter labels?
 - Are there other filters that users expect that are missing?
 
@@ -83,7 +84,7 @@ Validate the proposed design so we can start building it. There will be a second
 - Do users find the information they are looking for, regardless of which path they take to get there?
 - Do different user groups (Veterans, family members and caregivers, service members) have different outcomes?
 - Are there other factors (e.g. frequency of VA.gov use, VA benefits received) that affect how easily users are able to find relevant information?
-- What are user expectations of the scope of R&S search vs site-wide search?
+- What are user expectations of the scope of R&S search vs. site-wide search?
 - What are users previous experiences with searching/browsing for information on VA.gov?
 
 ### Hypotheses
