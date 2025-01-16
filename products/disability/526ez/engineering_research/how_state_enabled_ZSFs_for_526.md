@@ -11,7 +11,7 @@ When our contract began, we inherited remediation of the Form 526 'silent' failu
 This process involved taking a [scripted version of the Form 526 Submission backup path](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/benefits/scripts/526/batch_remediation/historical) code and manually running it against a list of submission IDs. This involved
 
 - Using the script (created by Kyle Soskin, itterated on by Sam Stuckey) that essentially emulated the behavior of the backup submission path
-- Referencing and updating A 'master list' of failed submission IDs, provided by OCTO (I belive).
+- Referencing and updating a 'master list' of failed submission IDs, provided by OCTO.
 - Creating a final packaged PDF stored with a signed, expiring link.
 
 This way of doing it was rife with problems, more on that in the following sections. 
