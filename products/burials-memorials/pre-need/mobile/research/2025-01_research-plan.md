@@ -1,6 +1,6 @@
 ## Pre-Need Burial: Research Plan
 
-[work in progress; red highlighted sections are from the original template]
+[work in progress]
 
 
 ### Background
