@@ -4,6 +4,8 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
 ## Remaining work
 What's currently in the vets-website branch is a pretty high level skeleton, all the pages and basic functionaility are laid out, and remaining FE work is ticketed in the epic (**Digital Dispute (VBA) - FE/BE Development [#96176](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96176)**). We followed the setup progress in [VA.gov application generator](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-gov-application-generator), but noticed a few steps that we may still need to do in the more detailed **[Creating a new application](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-application)** documentation.
 
+**Note:** You will need the content-build changes locally if you want to test the application
+
 ### What's left outside of fleshing out the pages? 
 Steps missed from [Manual Setup](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-application#Creatinganewapplication-Manualsetup) that need to be completed: 
 - [ ] 3. Add an entry to `src/applications/registry.json` in the `content-build`
