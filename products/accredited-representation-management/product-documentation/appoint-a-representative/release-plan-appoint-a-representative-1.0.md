@@ -102,7 +102,7 @@ The following will be considered before advancing rollout to the next stage:
 2. Google Analytics traffic to Appoint a Representative
 3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
    1. [Missing rep phone number causes 21-22a PDF generation error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101149)
-   2. [Organizations are not being deleted from Appoint rep search (Production)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101221)
+   2. [Organizations in Appoint rep search (Production) do not match OGC's accreditation site](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101221)
 
 ## Post Launch Metrics
 
