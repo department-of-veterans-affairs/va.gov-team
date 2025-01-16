@@ -25,7 +25,8 @@ No feedback for 1/13/25
 
 ### 1/14/25 - 25%
 #### Medallia Feedback
-No feedback for 1/14/25
+
+1 user wanted but was unable to apply for travel pay. This user rated their satisfaction as 2. (VFS Questionnaire Form)
 
 #### Google Analytics 
 | Metric Name | Description |
@@ -45,7 +46,7 @@ No feedback for 1/14/25
 
 ### 1/15/25 - 25%
 #### Medallia Feedback
-Pending
+1 user response. This user did not say what task they were trying to accomplish. Rated their satisfaction as 1, explaining their reasoning as "just got the run around. Can't access travel reimbursement." (MyHealtheVet Form)
 
 #### Google Analytics
 | Metric Name | Description |
