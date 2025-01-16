@@ -1,5 +1,5 @@
 # Ask VA KPIs
-Last updated by @beckyphung on January 13, 2025
+Last updated by @beckyphung on January 16, 2025
 
 🚧 10/24 Update: We don't have all targets currently. Also, we're currently working on updating the **Performance KPIs** section.
 
@@ -17,7 +17,7 @@ User Experience KPIs measure how well Ask VA meets the needs and expectations of
 These are KPIs we want to actively track when we launch on VA.gov in 2025.
 |KPI|2024 targets as of 10/24/24|
 |:--|:--|
-|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: ❓<br>**VA.gov forms average**: ❓|
+|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average (2024)**: 30%<br>**VA.gov forms average**: ❓|
 |**Experience** - Increase experience rating to at least the VA.gov average|**VA.gov average**:57%<br>**VA.gov forms average**: 3.5|
 |**Form completion rate** - Increase the percentage of questions successfully sent by submitters to at least the VA.gov average form completion rate|**VA.gov average form completion rate**: 29%|
 |**Time to submit form** - Decrease the average time it takes submitters to send a question from ❓|❓|
@@ -32,8 +32,8 @@ These are other form metrics to track. We don't need these for launch.
 These are KPIs we want to actively track when we launch on VA.gov in 2025.
 KPI|2024 targets as of 10/24/24|
 |:--|:--|
-|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: ❓|
-|**Experience** - Increase experience rating to at least the VA.gov average|**VA.gov average**: 57%|
+|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average** (2024): 30%|
+|**Experience** - Increase experience rating to at least the VA.gov average|**VA.gov average (2024)**: 57%|
 |**Reply rate** - Increase the number of replies to questions to ❓|❓|
 |**Time to reply** - Decrease the average time it takes submitters to reply to a question from ❓|❓|
 
