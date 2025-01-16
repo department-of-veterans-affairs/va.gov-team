@@ -80,8 +80,8 @@ Performance KPIs measure the technical aspects of Ask VA, such as speed, reliabi
 |KPI|Actual targets as of [date]|
 |:--|:--|
 |**Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions|VA.gov silent failures rate: ❓|
-|**Error rate (Form submissions to CRM)** - Decrease ...|xx|
-|**Error rate (Dashboard replies)** - Decrease ... |xx|
+|**Error rate (Form submissions to CRM, Submit Inquiry)** - Decrease ... |xx|
+|**Error rate (Dashboard replies to CRM, Submit Reply)** - Decrease ... |xx|
 |**Error rate (All APIs )** - Decrease ... |xx|
 |**Latency (XX)** - Decrease ... |xx|
 |**Throughput (XX)** - Decrease ... |xx|
