@@ -1,6 +1,6 @@
 # VA.gov Homepage Ownership and Governance
 
-Guidance around the use of the VA.gov homepage is published as the [Homepage template in the VA Design System]() [COMING SOON!]
+Guidance around the use of the VA.gov homepage is published as the [Homepage template in the VA Design System](https://design.va.gov/templates/) [COMING SOON!]
 
 Each section of the homepage is tightly controlled and governed to ensure we are delivering the clearest and most accessible experience possible for all Veterans, service members, their family members and their caregivers.
 
@@ -23,6 +23,8 @@ Any requests to change the content in these sections must be requested and appro
 ## Governance of the "Top pages" section
 
 To be considered for placement within this section, the feature must meet set criteria and rank well based on a rubric of metrics.  
+
+[Homepage top pages section rubric](https://dvagov-my.sharepoint.com/:x:/r/personal/michelle_northuis_va_gov/Documents/IA/Standards%20%26%20Governance/Homepage%20rubric%20-%20top%20pages.xlsx?d=w9765e50df12e492cbee9fa915cd804f1&csf=1&web=1&e=dzNZrG)
 
 **Requirements for placement consideration**
 - Features must meet the following criteria to be considered for placement:
@@ -50,6 +52,8 @@ To be considered for placement within this section, the feature must meet set cr
 ## Governance of the "Search tools" section
 
 To be considered for placement within this section, the feature must meet set criteria and rank well based on a rubric of metrics.  
+
+[Homepage search tools section rubric](https://dvagov-my.sharepoint.com/:x:/r/personal/michelle_northuis_va_gov/Documents/IA/Standards%20%26%20Governance/Homepage%20rubric%20-%20search%20tools.xlsx?d=wd36ad5c629374f3d9c522421c9e6e53e&csf=1&web=1&e=5Vlqzn)
 
 **Requirements for placement consideration**
 - Features must meet the following criteria to be considered for placement:
