@@ -60,6 +60,7 @@ Pending
 | VA.gov - Endpoint errors | 0 |
 | Travel Pay API - Endpoint error count | 39 |
 | Average latency | 2.4 sec |
+| Unique users accessing the API | 702 |
 
 
 
