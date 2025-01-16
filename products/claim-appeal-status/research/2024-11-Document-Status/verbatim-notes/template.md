@@ -1,4 +1,4 @@
-# PILOT
+# TEMPLATE
 
 ## Intro - 5 minutes
 
