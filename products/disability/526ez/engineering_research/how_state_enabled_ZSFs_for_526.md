@@ -49,21 +49,21 @@ Specific problems we identified and raised at that time included...
 
 ### Problems with Monitoring
 
-Again, monitoring can only capture 'noisy errors,' which were no where near 100% of our failures. We suspected and raised this over and over, but was largely ignored at this point. This is when we began to realize we were going to need an audit, which in turn required state.
+Monitoring can only capture 'noisy errors,' which were no where near 100% of our failures. [We suspected and raised this issue](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#---we-rely-on-failure-state-assignment---) but were largely ignored at this point. This is when we began to realize we were going to need an audit, which in turn required state.
 
-Additionally, it was possible (and common) for a noisy failure to be alerted on, but then for nothing ever happened with that alert. Monitoring requires a dedicated person or team to ensure that the notified failures get addressed, which is essentially what the watch officers were brought in to do. This was a messy, slow, and only partially successful way of doing it. Here we started visualizing a 'Safety Net' that would hold failures, silent and noisy, until they were explicitly marked as remediated, which again required state.
+Additionally, it was possible (and common) for a noisy failure to be alerted on, but then for nothing ever happened with that alert. Monitoring requires a dedicated person or team to ensure that the notified failures get addressed, which is essentially what the watch officers were brought in to do. This was a messy, slow, and only partially successful way of doing it. Here we started visualizing a 'Safety Net' that would hold failures, silent and noisy, until they were explicitly marked as remediated. This also required state.
 
-### My solution; State
+### Our solution; 526 State
 
-I realized that if we were going to do an audit, have real tracking of remediation, and someday a safety net, we would need a programmatic concept of state. [Here I document my early case for building a 'state machine'](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md).
+We realized that if we were going to do an audit, have real tracking of remediation, and someday a safety net, we would need a programmatic concept of state. [Here we document the early case for building a 'state machine'](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md).
 
-At this point, we were still under a good deal of pressure to keep up with the 'bleeding', that is the constant flow of 'silent' (noisy) failures. Things got muddled here when Nathan took the first pass at designing the State Machine. His initial planning sprawled a bit and became untenable with the inclusion of Document Upload, and ultimately OCTO simply said "no." State became something of a dirty word, because the use case we was advising wasn't well understood.
+At this point, we were still under a good deal of pressure to keep up with the 'bleeding', that is the constant flow of 'silent' (noisy) failures. Things got muddled here when we took a first pass at designing the State Machine. THe initial planning sprawled a bit and became untenable with the inclusion of Document Upload, and ultimately OCTO simply said "no." State became something of a dirty word, because the use case we were advising wasn't well understood.
 
-Despite our documented, repeated insistence at this time that we needed some form of state to ever reach true 'zero silent failures', we was told it was not something we should focus on, and to keep up with remediation. Ultimately, we essentially built this in secret. We needed it to do what OCTO was asking, even though they seemed unwilling to hear our case.
+Despite our well documented and repeated insistence at this time that we needed some form of state to ever reach true 'zero silent failures', we were told it was not something we should focus on, and to keep up with remediation. Ultimately, we essentially built this in secret. We needed it to do what OCTO was asking, even though they seemed unwilling to acknowledge this truth.
 
 ## Bug fixes, in parallel.
 
-While we were doing V1 remediation, and secretly building state into the Form 526 Submission model, Thomas decided we should start generating lists of active, known bugs in the system categorized and ranked by how big of a problem they were. Again, OCTO didn't really want us doing this. They were being extremely prescriptive about "Remediate first, patch later."
+While we were doing V1 remediation, and quietly building state into the Form 526 Submission model, We decided we should start generating lists of active, known bugs in the system categorized and ranked by how big of a problem they were. Again, OCTO didn't really want us doing this. They were being extremely prescriptive about "Remediate first, patch later."
 
 We called this method of finding and ranking failures the ['Failure Scoreboard'](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/failure_reporting/failure_scoreboard.rb) and it was instrumental in identifying and patching failure points.
 
