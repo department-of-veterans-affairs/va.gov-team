@@ -113,15 +113,19 @@ Contact Us page
 
 ### After
 Desktop - Inactive
+
 ![image](https://github.com/user-attachments/assets/d6128e1a-f650-42be-919d-4b7a6cb46d4c)
 
 Desktop - active
+
 ![image](https://github.com/user-attachments/assets/5f426bb1-2c6e-4566-b474-087d924fd81b)
 
 Mobile - Inactive
+
 ![image](https://github.com/user-attachments/assets/7621f0c1-7b85-47ee-8ab9-ccb51abd36a4)
 
 Mobile - Active
+
 ![image](https://github.com/user-attachments/assets/89732b9e-1546-4ec4-836c-775fc91ec30a)
 
 
