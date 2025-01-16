@@ -96,6 +96,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 * Is there anything that is particularly confusing about what you see here?
 * What steps would you take to add a file to your claim?
 
+When the participant see the pre-populated upload file tell them: 
+
+**PROMPT**: For this demo, we’ve pre-uploaded a file to simulate selecting one from your device.
+
 #### Things to watch for:
 
 * What content on the page is most useful to the Veteran? Least helpful or confusing?
@@ -106,14 +110,24 @@ Before we look at the website, let’s start with a few warm-up questions.
 [Participant completes the File upload]
 
 * Now tell me what you see here.
+* How would you explain this message to a friend?
 * If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)
 * What do you think this card is trying to communicate (referring to the submission in progress card)?
 * Can you describe the relationship between the confirmation message and the "submission in progress" card?
-* What do you think will happen in a couple days after seeing this card?
+* ~~What do you think will happen in a couple days after seeing this card?~~
 
-[Click on the “next button” to see the file has now be added to the e-folder]
+**PROMPT:** Let's pause and imagine you come back later in the day to check on your uploaded.
 
-* Describe what happened here?
+[Click on the name "Hector" on the top-right hand corner of the page]
+
+* If you wanted to check the status of the claim where would you click?
+
+[Click on "Details"] 
+* Where would you go to check the progress your uploaded document?
+
+[Click on "Files tab"] 
+
+* Describe what happened here? (Prompt them to scroll up and down. If they haven't.)
 * What would you do next?
 
 #### Things to watch for:
@@ -156,6 +170,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 * Describe what you’re seeing here. Remember to think aloud as you do.
 * In your own words, can you describe what is being communicated?
 * If you wanted to respond to this request what would you do?
+
+When the participant see the pre-populated upload file remind them: 
+
+**PROMPT**: Just a reminder for this demo, we’ve pre-uploaded a file to simulate selecting one from your device.
 
 ### Part 2 D: Confirmation for tracked item - 15 minutes
 
