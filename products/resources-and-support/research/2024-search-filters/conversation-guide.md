@@ -134,10 +134,10 @@ Imagine that you submitted an application for VA benefits a few weeks ago and wa
 
 ### Things to watch for:
 - [Navigation path: *Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
-  - Search string: _________________________
+  - [Search string: ______________________________________________]
   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+  - [Filters: *Audience / Benefit / Topic*]
 - [Any confusion with *Decision reviews and appeals*?]
-- [Etc]
 
 ## Task 3: Community Care 
 Please go back to the first page you were on [landing pg via breadcrumb].
@@ -146,8 +146,9 @@ Now imagine that you currently receive health care through the VA. You've heard 
 
 ### Things to watch for:
 - [Navigation path: *Search / Show filters / Featured / Common topics > Community care / Browse by benefit*]
-  - Search string: _________________________
-  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+   - [Search string: ______________________________________________]
+   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+   - [Filters: *Audience / Benefit / Topic*]
 - [Does the participant understand meaning of *Community care*?]
 - [Does the participant notice xyz?]
 - [Etc]
@@ -159,11 +160,15 @@ Let's assume that you just visited a VA medical center for an appointment, and y
 
 ### Things to watch for:
 - [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
-  - Search string: _________________________
+  - [Search string: ______________________________________________]
   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+  - [Filters: *Audience / Benefit / Topic*]
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
-- [Etc]
+
+What if this this article didn't answer your question? What would you do next?
+- [Navigation path: *Search / Filters / Landing page*]
+
 
 ## Task 5: Evidence to support claim
 Please go back to the first page you were on [landing pg via breadcrumb].
@@ -172,11 +177,16 @@ Please go back to the first page you were on [landing pg via breadcrumb].
 
 ### Things to watch for:
 - [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
-  - Search string: _________________________
-  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+   - [Search string: ______________________________________________]
+   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+   - [Filters: *Audience / Benefit / Topic*]
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]## Consent to use video clips
+
+What if this this article didn't answer your question? What would you do next?
+- [Navigation path: *Search / Filters / Landing page*]
+
 
 ## Task 6: Sign in
 Please go back to the first page you were on [landing pg via breadcrumb].
@@ -185,8 +195,9 @@ Let's say that you're having some difficulty getting into your VA account online
 
 ### Things to watch for:
 - [Navigation path: *Search / Show filters / Featured: Signing in to VA.gov / Common topics / Browse by benefit*]
-  - Search string: _________________________
-  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+   - [Search string: ______________________________________________]
+   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+   - [Filters: *Audience / Benefit / Topic*]
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
@@ -198,8 +209,9 @@ Please show me how you might check to see whether you owe the VA any money.
 
 ### Things to watch for:
 - [Navigation path: *Search / Show filters / Featured / Common topics: Payments and debt / Browse by benefit*]
-  - Search string: _________________________
-  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+   - [Search string: ______________________________________________]
+   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+   - [Filters: *Audience / Benefit / Topic*]
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
@@ -212,8 +224,26 @@ Let's say that you want to change something about your military discharge. Show 
 
 ### Things to watch for:
 - [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
-  - Search string: _________________________
-  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+   - [Search string: ______________________________________________]
+   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+   - [Filters: *Audience / Benefit / Topic*]
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+What if this this article didn't answer your question? What would you do next?
+- [Navigation path: *Search / Filters / Landing page*]
+
+## Task X: TOPIC
+Please go back to the first page you were on [landing pg via breadcrumb].
+
+INSTRUCTIONS
+
+### Things to watch for:
+- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
+   - [Search string: ______________________________________________]
+   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+   - [Filters: *Audience / Benefit / Topic*]
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
@@ -225,21 +255,9 @@ INSTRUCTIONS
 
 ### Things to watch for:
 - [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
-  - Search string: _________________________
-  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Task X: TOPIC
-Please go back to the first page you were on [landing pg via breadcrumb].
-
-INSTRUCTIONS
-
-### Things to watch for:
-- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
-  - Search string: _________________________
-  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+   - [Search string: ______________________________________________]
+   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
+   - [Filters: *Audience / Benefit / Topic*]
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
