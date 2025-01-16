@@ -160,7 +160,7 @@ When the participant see the pre-populated upload file tell them:
 
 * Tell me what you see here.
 * Describe to me what this alert is communicating?
-* What stands out to you on this page?
+* What pieces of information would you say are important to you on this page?
 * If you wanted to learn more about the alert, what would you do?
 
 ### Part 2 C: Request page - 5 minutes
@@ -168,8 +168,9 @@ When the participant see the pre-populated upload file tell them:
 [Click on the details]
 
 * Describe what you’re seeing here. Remember to think aloud as you do.
-* In your own words, can you describe what is being communicated?
-* If you wanted to respond to this request what would you do?
+* In your own words, how would you describe what's being communicated?
+* ~~If you wanted to respond to this request what would you do?~~
+* If you wanted to upload your response, how would you go about it?
 
 When the participant see the pre-populated upload file remind them: 
 
@@ -231,7 +232,7 @@ Without clicking anything, take a moment to review the page. Remember to think a
 * What do you think is the relationship between what you're seeing here and what you saw in your email? 
   * [If needed for reference click the “reference email” button]
   * [Click the email logo to return to previous screen]
-* What do you expect to happen if you click the "X" button on the alert? If you sign out and then sign back in a few days later, would you expect to see anything related to this alert?
+* What do you expect to happen if you click the "X" button on the alert? If you sign out and then sign back in a few days later, would you expect to see this alert again?
 * What would you do next?
 
 #### If they say click on the files page
@@ -266,7 +267,7 @@ Without clicking anything, take a moment to review the page. Remember to think a
 * Overall, what did you think of what you saw today? Was it clear or confusing?
 * Was there anything helpful?
 * On a scale of 1-5, how confident do you feel about being able to resubmit your document if you received a notice like this in real life? (1 being least confident, 5 being most confident.)
-* On a scale of 1-5, how confident do you feel VA will effectively manage your paper documents you've submitted? (1 being least confident, 5 being most confident.)
+* On a scale of 1-5, How confident are you that VA will effectively manage the paper documents you’ve submitted? (1 being least confident, 5 being most confident.)
   * Why?
 * Any questions for me?
   
