@@ -90,7 +90,23 @@ Before we look at the website, let’s start with a few warm-up questions.
 *[Notes]*
 * Can you describe the relationship between the confirmation message and the "submission in progress" card?<br>
 *[Notes]*
-* What do you think will happen in a couple days after seeing this card?<br>
+
+**PROMPT:** Let's pause and imagine you come back later in the day to check on your uploaded.
+
+[Click on the name "Hector" on the top-right hand corner of the page]
+
+* If you wanted to check the status of the claim where would you click?<br>
+*[Notes]*
+
+[Click on "Details"] 
+* Where would you go to check the progress your uploaded document?<br>
+*[Notes]*
+
+[Click on "Files tab"] 
+
+* Describe what happened here? (Prompt them to scroll up and down. If they haven't.)<br>
+*[Notes]*
+* What would you do next?<br>
 *[Notes]*
 
 [Click on the “next button” to see the file has now be added to the e-folder]
