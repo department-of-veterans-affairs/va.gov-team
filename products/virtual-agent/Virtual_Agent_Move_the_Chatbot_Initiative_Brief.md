@@ -60,37 +60,39 @@ The VA.gov Chatbot is currently only available on the [Contact Us page](https://
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective: Enhance Veteran Experience with the Chatbot
-  - Key result: Rate of users clicking on chatbot: 5% or higher
   - Key result: Increase in rate of users responding "Yes" to end of conversation survey 
-- Objective: Improve Veterans' access to information 🍋
-  - Key result: Reduce the number of Veterans who are directed to offline channels (phone, in-person) for basic information access (by 10%?) 🍋
+- Objective: Improve Veterans' access to information 
+  - Key result: Rate of users clicking on chatbot: 5% or higher
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+*Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Moving the Chatbot to a launchable button on the lower right hand corner on a webpage renders it discoverable by the Veteran.
 - Veterans will find it valuable to engage with the Chatbot experience on the new pages.
 - Payload of the Chatbot will not affect the performance and the load times of the page the Chatbot is placed on.
-- Chatbot will need to meet the accessibility standard of the new page it is placed on.
-- To place the Chatbot on [About VA health benefits](https://www.va.gov/health-care/about-va-health-benefits/) page, the current knowledge base of the Chatbot need not be updated. 
+- Chatbot will need to meet the accessibility standard of the new pages it is placed on.
+- To place the Chatbot on [About VA health benefits](https://www.va.gov/health-care/about-va-health-benefits/) page and its sub-pages, the current knowledge base of the Chatbot does not need an update. 
 
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
-  - As a first thin slice, we are placing a floating chatbot on the [About VA health benefits](https://www.va.gov/health-care/about-va-health-benefits/). This will enable us to support the veterans who come to this FAQ page and provide quick answers with the Chatbot.
+  - As a first thin slice, we are placing a floating chatbot on the [About VA health benefits](https://www.va.gov/health-care/about-va-health-benefits/) page and its sub-pages. This will enable us to support the veterans who come to this FAQ page and provide quick answers with the Chatbot.
   - The Chatbot to be always sticking on the lower right corner. The Veterans can minimize the Chatbot as needed. The history of the conversation with the Chatbot will be available to be refered only for the current session.
+  - The Chatbot will load with the page-loads and wil remain an inactive state until the Veteran activates it by clicking on it.
   - We will support this on desktop, mobile & tablets.
-  - We will also release/expose the Chatbot on the new page to top 5% of the users. 
+  - We will persue an incremental release/launch process starting with 10% of the users to the selected pages.
+
 - *Why this solution / approach over other solutions / approaches?*
-  - This soultion will help us understand how the Veterans interact and engage with the Chatbot on a new page and monitor the performace and load times of the page. With insights gatehred form this luanch, we hope to improve the Chatbot with new features and also tweak it to place it on more pages.
+  - This soultion will help us understand how the Veterans interact and engage with the Chatbot in the context of the new pages as well as monitor the performace and load times of those pages. With insights gatehred form this luanch, we hope to improve the Chatbot with new features and place it on more pages.
+  - This approach is also supported by qualitative user reaseacrh that confirms that Veterans expect a ubiquitous floating chatbot.
+
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
-  - We will not include the ability to save and/or email the transcript/conversation to the Veterans, as this is capability does not already 
+  - We will not include the ability to save and/or email the transcript/conversation to the Veterans, as this is capability does not already present in the current state of the Chatbot.
+  - We will not contextualize the Chatbot's welcome message in this release.
+
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-  - After the launch on the [About VA health benefits](https://www.va.gov/health-care/about-va-health-benefits/) page, we will start placing the Chatbot on more pages on va.gov and also add more Chatbot features such as saving/emailing the transcript to the Veterans.
-
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
+  - After the launch on the [About VA health benefits](https://www.va.gov/health-care/about-va-health-benefits/) page and its sub-pages, we will start placing the Chatbot on more pages on va.gov and also add more Chatbot features such as saving/emailing the transcript to the Veterans.
+  - Our approach to ubiquity will be in partnership with the Va.gov Platform team.
 
 --- 
 
@@ -100,7 +102,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Dates
 - *Target Launch Date*
-  - Q2 2025 🍋
+  - March 7th, 2025
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -111,10 +113,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Narrative
 
 ### Current Status
-- Currently, the Chatbot lives on the [VA Chatbot product](https://www.va.gov/contact-us/virtual-agent/) page and is visible to 100% of the traffic visiting this page. It supports general information about a myriad of helath topics as well as authenticated flows for prescriptions and refills and claims status information.
-- The Chatbot is static on the page and does not float as the Veteran scrolls thorugh the page and cannot be minimized.
+- Currently, the Chatbot lives on the [VA Chatbot product](https://www.va.gov/contact-us/virtual-agent/) page and is visible to 100% of the traffic visiting this page. It provides general information about VA benefits and services as well as authenticated flows for prescriptions and refills, and claims status information.
+- The Chatbot is static on the page, does not float as the Veteran scrolls thorugh the page and cannot be minimized.
 
-### Key Decisions 🍋
+### Key Decisions
+- In Q1 FY 2025 the Chatbot team implemented architectural changes (a.k.a Rootbot) to imrpove quality of intent matching to better serve veetrans. We belivee that this has improved the performance of the chatbot such that it is ready for a qider audience.
 
 ---
    
