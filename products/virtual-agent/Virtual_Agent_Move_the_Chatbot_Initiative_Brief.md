@@ -134,11 +134,14 @@ Mobile - Active
 #### Communications
 
 <details>
-
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
+- Team Name: Virtual Agent
+- GitHub Label(s): Virtual-Agent
+- Slack channel: #va-chatbot-public
+- Product POCs: 
+   - Nathalie Rayter (Product Owner)
+   - Christina Schuler (Project Manager)
+   - Vrushali Patil (Product Manager)
+   - Anita Dewitt (Tech Lead)
 - Stakeholders: 
 
 </details>
@@ -164,7 +167,8 @@ _What offices/departments are critical to make this initiative successful?_
 </details>
 
 ---
-##Previous Work
+## Previous Work
+
 How might we meet the chatbot expectations of Veterans by moving the Chatbot from its current, static location?
 
 * The first iteration of the Virtual Agent Chatbot was first built as a Proof of Value in Spring 2021 and resided on a page wholly devoted to facilitate user research on this beta version of the chatbot. This page communicated the fact that the Chatbot was in beta testing, expectations when using the chatbot, explicit instructions on how to use the chatbot with a screen reader, and privacy information.
