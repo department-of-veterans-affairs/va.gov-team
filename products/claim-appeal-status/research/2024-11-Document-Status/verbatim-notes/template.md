@@ -205,7 +205,9 @@ Without clicking anything, take a moment to review the page. Remember to think a
 *[Notes]*
   * [If needed for reference click the “reference email” button]
   * [Click the email logo to return to previous screen]
-* What do you expect to happen if you click the "X" button on the alert? If you sign out and then sign back in a few days later, would you expect to see anything related to this alert?<br>
+* What do you expect to happen if you click the "X" button on the alert?
+*[Notes]*
+* If you sign out and then sign back in a few days later, would you expect to see anything related to this alert?<br>
 *[Notes]*
 * What would you do next?<br>
 *[Notes]*
