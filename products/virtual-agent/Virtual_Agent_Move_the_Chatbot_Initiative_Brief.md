@@ -83,7 +83,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Why this solution / approach over other solutions / approaches?*
   - This soultion will help us understand how the Veterans interact and engage with the Chatbot on a new page and monitor the performace and load times of the page. With insights gatehred form this luanch, we hope to improve the Chatbot with new features and also tweak it to place it on more pages.
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
-  - We will not include the ability to save and/or email the transcript/conversation to the Veterans. 
+  - We will not include the ability to save and/or email the transcript/conversation to the Veterans, as this is capability does not already 
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
   - After the launch on the [About VA health benefits](https://www.va.gov/health-care/about-va-health-benefits/) page, we will start placing the Chatbot on more pages on va.gov and also add more Chatbot features such as saving/emailing the transcript to the Veterans.
 
@@ -100,7 +100,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - Q2 2025 🍋
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -111,8 +111,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Narrative
 
 ### Current Status
+- Currently, the Chatbot lives on the [VA Chatbot product](https://www.va.gov/contact-us/virtual-agent/) page and is visible to 100% of the traffic visiting this page. It supports general information about a myriad of helath topics as well as authenticated flows for prescriptions and refills and claims status information.
+- The Chatbot is static on the page and does not float as the Veteran scrolls thorugh the page and cannot be minimized.
 
-### Key Decisions
+### Key Decisions 🍋
 
 ---
    
