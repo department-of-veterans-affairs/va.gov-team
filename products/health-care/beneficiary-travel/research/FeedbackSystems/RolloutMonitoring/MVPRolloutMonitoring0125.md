@@ -31,9 +31,9 @@ No feedback for 1/14/25
 #### Google Analytics 
 | Metric Name | Description |
 | ----------- | ----------- |
-| Unique page views | Available 1/16 |
-| Views per user | Available 1/16 |
-| # of interactions | Available 1/16 |
+| Unique page views | 541 |
+| Views per user | 1.11 |
+| # of interactions | 1 min 21 sec |
 
 #### DataDog
 | Metric Name | Description |
