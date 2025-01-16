@@ -10,7 +10,7 @@ The VA.gov Chatbot will be available across the VA.gov domain in the lower right
 
 The VA.gov Chatbot is currently only available on the [Contact Us page](https://va.gov/contact-us/virtual-agent/) of the website, which make it hard to find and limits its usefulness to website visitors. Moreover, Veteran research has validated that Veterans expect a chatbot to behave as it does on other websites: one that is anchored in the lower right-hand corner of a page, that is minimizable, and that remembers them across their session (i.e., can see recent conversation transcript).
 
-##Desired User Outcomes
+## Desired User Outcomes
 * Veterans are able to discover the Chatbot.
 * Veterans know where to find the Chatbot.
 * Veterans feel that the Chatbot follows patterns they expect across the web.
@@ -19,7 +19,7 @@ The VA.gov Chatbot is currently only available on the [Contact Us page](https://
 * Veterans are able to save their transcript for future reference.
 * Veterans are able to use the Chatbot with assistive technology.
 
-##Undesired User Outcomes
+## Undesired User Outcomes
 
 * Veterans are confused by the presentation/behavior of the Chatbot.
 * Veterans are obstructed in accessing the content they need on VA.gov because of the Chatbot.
@@ -47,11 +47,11 @@ The VA.gov Chatbot is currently only available on the [Contact Us page](https://
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
-| Average CSAT Score |      X       |                    |                    |        |
-| Rate of users clicking on Chatbot      |             |                    |                    |        |
-| Rate of returning users*      |             |                    |                    |        |
-| Rate of users engaging with the chatbot after clicking on it      |             |                    |                    |        |
-| End of Conversation Survey Response      |             |                    |                    |        |
+| Average CSAT Score (excluding nonresponses) |             |                    |         X           |        |
+| Rate of users clicking on Chatbot      |             |          X          |                    |        |
+| Rate of returning users*      |             |                    |          X          |        |
+| Rate of users engaging with the chatbot after clicking on it      |      X       |                    |                    |        |
+| End of Conversation Survey Response (excluding nonresponses)      |             |                    |         X           |        |
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
@@ -60,9 +60,8 @@ The VA.gov Chatbot is currently only available on the [Contact Us page](https://
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective:
-  - Key result: 
-  - Key result: 
-
+  - Key result: Rate of users clicking on chatbot: 5% or higher
+  - Key result: Increase in rate of users responding "Yes" to end of conversation survey 
 
 ---
 
