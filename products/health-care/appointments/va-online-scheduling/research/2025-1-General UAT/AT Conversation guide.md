@@ -26,37 +26,80 @@ Slack for real-time feedback from observers.
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
 
+## Introductions - 5 minutes
+
+### When the participant joins:
+
+- Thanks for joining us today! My name is Melissa I will be walking you through this session today. We also have a Peter here to take notes and make sure I don't miss anything.
+
+- Today we're going to talk about managing appointments on VA.gov, and how that experience works when using a screenreader. 
+
+- I have a few people on the team who are interested in listening in to our session as observers. They’re in the virtual waiting room right now. It’s completely fine if you choose to have the session without observers, so let me know what you’d prefer. Is it okay with you if they join us? 
+
+_If no_ In the [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) let observers know that the participant does not want them observing. 
+
+_If yes_ Thank you. I'll admit them now.
+
+ - [ ] Let observers join with their video on. Each observer should come off mute and introduce themselves, and then go back on mute with video off.
+
+There are a few things I want to mention about today's session:
+
+   - There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your thoughts, so that we can improve the appointment features and make it work better for everyone.
+    
+   - You will be interacting with your VA.gov account today. We would like to enable the updated appointments feature and have you browse it. This means anything you do here could affect your account, but we will not be asking you to make any changes today. We will want to look at your appointments list, so we may see your upcoming appointments and history. We won't share this with anyone outside of the session.
+   **Just to confirm**: Would you be comfortable sharing this information during this session? If not, that is completely fine.
+       - If no: would you be comfortable with logging in and describing what you see?
+    
+   - This entire session should take about 90 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+    
+   - We’ll talk together in the beginning, and then we will move to a part where I’ll ask you to open a link on your device,and share your screen with us. 
+    
+   - Finally, is it ok if I record the audio of our session today? Our team will use this as backup in case we need to refer to something you said. The recordings will be destroyed after.
+    
+   - **If for any reason and at any time you want to stop the session, please let me know. Any minutes you spend with us are valuable today. You will not be penalized in any way if we need to stop. Just let me know at any point if you’re uncomfortable continuing, and we will end.**
+* Does that all make sense, and sound okay to you?
+* Great! Any questions before we continue?
+* Ok, I'm going to hit the record button now. 
+
+_Start recording._
+
+* Just to confirm, is it ok if we record this session?
+
+## Participant Tech Setup
+
+Next, I want to get our tech set up.
+
+- **We like to use transcription to improve our notes. However, this Zoom setting turns on Closed Captions in Zoom, which can be a problem for screenreaders. Would it be disruptive do have Closed Captions on?**
+
+   - If no, turn on transcription.
+
+- Would you prefer video on or off?
+  
+- What device are you using to attend the session today?
+
+- What type of screenreader or other assistive technology are you using? (Voiceover? Something else?)
+
+- Does the device you're using have a screen to share?
+
+You will be interacting with your VA.gov account today. We are going to enable this new feature on your account for this session. Just know that this is live and while anything you do here could affect your account, we will not be asking you to make any changes today.
+    
+- Now I'm going to have you share your screen so that we can go over it together.
+
+**Would you prefer that I send that in the Zoom chat, to your email, or by another method?**
+- If another method, confirm their contact number/email address.
+- Send user [Link](https://www.va.gov/health-care/schedule-view-va-appointments) 
+
+- If participant can share their screen, walk them through screen sharing.
+    -  [Screenreader Screen Share Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist)
 
 
-## Intro - 5 minutes
+### If they can't share their screen
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
-
-Today we're going to talk about [description of your project].
+Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have you "drive" and verbally walk me through what you are doing. Does that sound alright?
 
 
-Before we start, I have a few things that I want to go over with you:
-
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
-   - If no: Use Slack to kindly ask the observers to leave the Zoom.
-   - If yes: Admit observers.
-   - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
-   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- (If applicable) **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-   - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
-
-*Start recording.*
-
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
+### If they can't share their audio
+????
 
 
 ## Warm-up Questions (Optional) - 5 minutes
@@ -68,45 +111,101 @@ Before we look at the website, let’s start with a few warm-up questions.
 - If no, skip to question 2.
 2. 
 
-## First Task: [TASK NAME] - X minutes
+## Task 1: Log in to VA.gov
 
-- Step 1
-- Step 2
+STARTING POINT: [va.gov appointment list](https://www.va.gov/health-care/schedule-view-va-appointments)
+
+PROMPT: Go ahead and login to your account using your email address and password. 
+
+## Task 2: Find the appointments list.
+
+PROMPT: Next, say you wanted to find out what health appointments you have scheduled for the next month. Show me how you would find that from here.
+
+And just to confirm, are you okay sharing your health appointment info during this session?
+
+#### Things to watch for:
+
+- Where do they struggle to navigate to the appointments list?
+- Was any part of the task easy?
+
+## Task 3: Understand an upcoming Appointment and then cancel it
+
+PROMPT: Tell me about some of the appointments you have coming up. Select one. What does "Prepare for your appointment" mean and what would you expect to be there? 
+
+Now we are going to cancel this appoitment. 
+
+**Follow up:** 
+- If they didn't navigate to the details page during the initial search: 
+    - If you needed to contact someone about one of these appointments, how would you find that information
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+- Does participant understand when appointment takes place? Especially for days with multiple appointments
+- Do they understand where it will take place?
+- Do they understand how/the modality?
 
-## Second Task: [TASK NAME] - X minutes
+## Task 4: Navigate to Pending Appointments
+You have requested some appointments that the VA hasn't confirmed yet. Can you find those from here?
 
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+**Follow up:** What are your thoughts on this page?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Does the participant click the “pending” link?
+- Can the participant find a pending appointment?
+- Can the participant find the time requested?
+- Does participant understand pending appointments?
 
-## Post-Task Interview - X minutes
+## Task 5: Understand Pending Appointments
+Tell me about some of the appointments you have requested.
 
-- Question 1
-- Question 2
-- Any questions for me? 
+**Follow up:** 
+- If they didn't navigate to the details page during the initial search: 
+    - If you no longer needed an appointment and wanted to cancel one of these requests, how would you do that from here?
+
+### Things to watch for:
+- How did they talk about requests? Have they experienced them before?
+
+## Task 6: Navigate to Past Appointments
+You want to check appointments that have already occurred. How would you do that? 
+
+#### Things to watch for:
+
+- Can they find the “past” link?_
+- Does participant understand past appointments?
+
+## Task 7: Understand Past Appointments and AVS
+What would you expect to find if you clicked on a specific past appoitment? Select a past appointment and tell me what information you find. Can you tell me what the after visit summary is?
+Is there anything missing? 
+
+## Task 8: Schedule an appointment
+You would like to schedule an appointment, how would you go about doing that? Go ahead and schedule an appointment. 
+
+Choose a location:
+What do you think "recent locations" means?
+
+
+## Task 9: Add an appointment to calendar
+Go ahead and add this appointment to your calendar, how you would you do that and what would you expect to happen?
+
+## Task 10: Join a video visit
+
+## Post-Task Interview
+
+- Does anything we went over today reflect how you manage your health care appointments? 
+
+- What tools do you use to track and manage your appointments.
+
+- What are some of the easiest-to use online tools for scheduling and managing appointment?
+
+- Thinking about all your scheduling activities (not just for health care) do you prefer to schedule online, over the phone, or some other way?
+
+- Of everything you saw today, what was the most confusing, or challenging?
+
+- What worked well?
+
+- What could we do better?
+
 
 ## Consent to use video clips
 
