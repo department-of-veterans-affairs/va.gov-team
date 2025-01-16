@@ -17,6 +17,20 @@ Please add any potential future topics you would like covered below:
 
 ## Topic Dives
 
+### 1/16/25 - VAMC Topic dive
+Covers: 
+* VA Services & how they tie to Systems & Facilities
+* VAMC Systems
+* VAMC Facilities (medical centers & clinics)
+* Operating Statuses
+* Banners w Situation Updates
+* Special snowflake VAMC Systems:
+  * Lovell
+  * VA Manila
+ 
+[VAMC topic dive recording](https://us06web.zoom.us/rec/share/K5O_oPXy1iD5L2Fy9FByf5ZsjdYqHO1YYB3jfirPR8koy6jLxfF9jMtpYy-gAIyu.4JiogAPNcSpjXSBR)
+Passcode: Qj$5sqPw
+
 ### 12/23/24 - Facility locator application
 [Sitewide Topic Dive - Facility Locator.pdf](https://github.com/user-attachments/files/18233560/sitewide-topic-dive--facility-locator.pdf)
 * Recording: https://us06web.zoom.us/rec/share/CUBz7RF7xENiiHo6Nt7y8dJx4bKVhwKis-hJyuEuoFmqZeb1ziySwWm6OUt96YYV.GLwE5MFcHwvAsdD-?startTime=1734986171000
