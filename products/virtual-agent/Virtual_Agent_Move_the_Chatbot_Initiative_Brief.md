@@ -83,8 +83,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 --- 
 
 ## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
+- We anticipate that the move to ubiquity on VA.gov will naturally increase discoverability of the Chatbot and do not plan to conduct marketing at this time.
 - [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Launch Dates
@@ -108,8 +107,23 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Screenshots
 
 ### Before
+Contact Us page
+![image](https://github.com/user-attachments/assets/68146255-63cb-4d68-8661-0a5daa9dc118)
+
 
 ### After
+Desktop - Inactive
+![image](https://github.com/user-attachments/assets/d6128e1a-f650-42be-919d-4b7a6cb46d4c)
+
+Desktop - active
+![image](https://github.com/user-attachments/assets/5f426bb1-2c6e-4566-b474-087d924fd81b)
+
+Mobile - Inactive
+![image](https://github.com/user-attachments/assets/7621f0c1-7b85-47ee-8ab9-ccb51abd36a4)
+
+Mobile - Active
+![image](https://github.com/user-attachments/assets/89732b9e-1546-4ec4-836c-775fc91ec30a)
+
 
 ---
 
