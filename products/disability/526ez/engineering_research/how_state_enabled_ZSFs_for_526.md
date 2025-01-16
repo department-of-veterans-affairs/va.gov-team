@@ -1,6 +1,6 @@
 # How State Enabled 'Zero Silent Failures' for the 526 Form
 
-This document is a fully biased view from my perspective of the history of remediation, how OCTO worked with team carbs, and at times against us in reaching zero silent failures for the form 526 submission on va.gov.  The purpose of this document is to illuminate, for posterity, how Team Carbs was able provide value by identifying and advocating for a better solution.
+This document is my personal perspective and memory of the history of remediation, how OCTO worked with team carbs, and at times against us in reaching zero silent failures for the form 526 submission on va.gov.  The purpose of this document is to illuminate, for posterity, how Team Carbs was able provide value by identifying and advocating for a better solution.
 
 ## Early Days
 
