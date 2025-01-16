@@ -4,8 +4,6 @@
 
 ## Getting to know you (10 minutes)
 
-5-7 minutes
-
   
 
 Welcome!
@@ -164,7 +162,7 @@ Can you walk me through how this debt has affected you recently, and what steps 
 -   If it were up to you, how would you like to address or resolve the debt or copay?
     
 
-### Warm-up Questions - 3-5 minutes
+## Warm-up Questions - (3-5 minutes)
 
 Before we look at the design prototype, let’s start with a few warm-up questions.
 
