@@ -15,9 +15,9 @@ Some applications may choose to alert users in-place rather than redirecting (ro
 flowchart TD
     A[sign-in] --> B(Is the user ID-verified?)
     B --> |Yes| C(Is there a facility in the profile?)
-    B --> |No| E{fa:fa-circle-exclamation route-guard user to /my-health OR render ID verification alert in-place}
+    B --> |No| E{fa:fa-circle-exclamation route-guard user to /my-health}
     C -->|Yes| D(Does the user have an MHV-Identifier?)
-    C -->|No| F{fa:fa-circle-exclamation route-guard user to /my-health OR render 'No access' alert in-place}
+    C -->|No| F{fa:fa-circle-exclamation route-guard user to /my-health}
     D --> |Yes| G(Render application)
     D --> |No| H(What tools are they trying to access?)
     H --> |Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health + render Acct Creation API error alert}
