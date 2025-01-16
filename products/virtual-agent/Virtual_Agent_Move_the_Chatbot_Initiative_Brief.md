@@ -84,7 +84,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Strategy
 - We anticipate that the move to ubiquity on VA.gov will naturally increase discoverability of the Chatbot and do not plan to conduct marketing at this time.
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/Floating%20Chatbot%20release%20plan)
 
 ## Launch Dates
 - *Target Launch Date*
