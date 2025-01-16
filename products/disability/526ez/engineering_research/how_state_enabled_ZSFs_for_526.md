@@ -75,13 +75,13 @@ The OCTO version involved simply going through emails and CSVs and collecting re
 
 Upon receiving this list, we began to do the audit in the way that we had designed and originally advocated for, using the ['Exclusive Methodology'](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#note-on-exclusive-methodology) and an ['Audit Funnel'](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md).
 
-This allowed us to identify several failures that were _actually silent_, such as [problems with our backup path polling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#1-repair-our-backup-submission-polling-job) and the [paranoid success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/paranoid_success_submissions.md) edge case, the latter of which litterlly no one on our team or OCTO knew about, and would've just continued to quietly existed if we hadn't decided to look into it without OCTOs prompting.
+This allowed us to identify several failures that were _actually silent_, such as [problems with our backup path polling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#1-repair-our-backup-submission-polling-job) and the [paranoid success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/paranoid_success_submissions.md) edge case, as well as many submissions that had come in since the end of the previous remediation.
 
-Once we had a clear picture of what was successful and what was remediated, our first audit was able to uncover well over 100,000 submissions that had been missed that were in a non-successful state.
+Once we had a clear picture of what was successful and what was remediated, **our first audit uncovered well over 100,000 submissions that had been missed** that were in a non-successful state.
 
 ## De-duplication
 
-OCTO identified that we were submitting lots of duplicate submissions for remediation, when just one would suffice. At their request, we build de-duplicating tools to compare submissions for 'sameness' within an OCTO defined tolerance. Again, we used state here to mark these duplicates as safe to ignore.
+OCTO identified that we were submitting lots of duplicate submissions for remediation, when just one would suffice. At their request, we build de-duplicating tools to compare submissions for 'sameness' within an OCTO defined tolerance. Here we used state here to mark these duplicates as safe to ignore.
 
 Here is the initial documentation about how we should de-duplicate using state, ['Identifying and Tagging Duplicates of Form526Submission'](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/deduplicating_526_submissions.md), and here is a subsequent document about a problem we discovered while developing the de-duplicating tools, ['Complex de-duping'](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/complex_submission_deduplication.md).
 
@@ -89,7 +89,7 @@ Here is the initial documentation about how we should de-duplicate using state, 
 
 ## State Improvements
 
-At this point, OCTO was aware we were using state, but was neither supporting nor fighting further improvements. It seemed that the value had become somewhat evident, and so we continued to develop our concept of submission state. This was work done without OCTOs prompting or encouragement, based on our own ideas and research. This allowed us to accommodate edge cases and provide a more robust, easy to understand version for future developers. We created a distinct model to allow and logic to allow for multiple remediation per submission. Some examples of problems this enhanced form of state tracking addressed are...
+At this point, OCTO was aware we were using state, but was neither supporting nor fighting further improvements. It seemed that the value had become somewhat evident, and so we continued to develop our concept of submission state. This was work done without OCTOs prompting or encouragement, based on our own ideas and research. This allowed us to accommodate edge cases and provide a more robust, easy to understand version for future developers. We created a distinct model `Form526SubmissionRemediation` and logic to allow for multiple remediations per submission. Some examples of problems this enhanced form of state tracking addressed are...
 
 - The constantly expiring links we were using, as well as technical difficulties in the down stream ingestion processes.
 - duplicate submission tracking
@@ -97,23 +97,23 @@ At this point, OCTO was aware we were using state, but was neither supporting no
 
 ## State today and 'The Safety Net'
 
-Through all of this, and even at the time of writing, OCTO has remained skeptical of the use of state for defining submission success. We thought a good way to demonstrate value was to create a non-technical, admin facing dashboard that simply displayed a count of how many submissions were in a non-explicitly-successful state and required investigation. This was, as was so much of this, something our team conceived of and built of on our own, with no prompting and little buy in from OCTO. This dashboard is currently **our only comprehensive source of truth for identifying 526 failures vets-api**.
+Through all of this, and even at the time of writing, OCTO has remained skeptical of the use of state for defining submission success. We thought a good way to demonstrate it's value was to create a non-technical, admin facing dashboard that simply displays a count of how many submissions are in a non-explicitly-successful state and require investigation. This was something our team conceived of and built of on our own, with no prompting and little buy-in from OCTO. This dashboard is currently **our only comprehensive source of truth for identifying 526 failures vets-api**.
 
-### Why was / is there no buy in for state?
+### Why was / is there no buy-in for state?
 
 **NOTE: These are best guesses and personal feelings from the author.**
 
-First, state, especially within the va.gov API database, is not necessarily the best solution. There has been talk of an alternate solution where we use universal identifiers that would allow event and / or state monitoring across the entire life cycle of a submission. This would be a much better solution, but as I know, at the moment it's not under serious consideration. It's also worth noting that this would simply be a different, broader form of state tracking, where we are able to see if a submission has registered a 'success event'.
+First, state, especially within the va.gov API database, is not necessarily the best solution. There has been talk of an alternate solution where we use universal identifiers that would allow event and / or state monitoring across the entire life cycle of a submission. This would be a much better implementation, but as far as I know at the moment it's not under development or serious consideration. It's also worth noting that this would simply be a different, broader form of state tracking, where we are able to see if a submission has registered a 'success event'.
 
-Second, it's weird having the web API be the source of truth for submissions. Ideally, vet-api would be a thin, pass-through API and our source of truth would be much farther down stream. However, the simple fact here is that **va.gov was being used as the system of record for recreating the submissions, as well as for several flavors of 'success tracking', and therefore is the logical place for this state**, at least for now.
+Second, it's weird architecture having our web API (which is essentially intended to be a simple data transformation system) be the source of truth for submissions. Ideally our source of truth would live much farther down stream with the VA or VBMS. However, the simple fact here is that **va.gov was being used as the system of record for recreating the submissions, as well as for several flavors of 'success tracking', and therefore was the logical place to put this state**, at least for now.
 
-Third, I suspect there were a lot of misunderstandings in the early dates about what state was for. Nathan's first pass at it ended up trying to do too much and potentially obfuscated the usefulness of what I was specifically advocation for.
+Third, I suspect there were a lot of misunderstandings in the early days about what state was for. Our team's first pass at it ended up trying to do too much and potentially obfuscated the usefulness of what we really needed it for.
 
-All together, this seemed to create the perception that State was poorly conceived, overwrought, and generally weird and in the wrong place.
+All together, this seemed to create the perception that state was poorly conceived, overwrought, and generally weird and in the wrong place.
 
 ## Summary
 
-The remediation effort we inherited would never have gotten us to true zero silent failures. Our team developed a way of actually getting there, and despite a lot of setbacks and pushback from OCTO, developed this system while simultaneously handling the remediation they asked for, as well as fixing the root causes. In summary...
+The remediation effort we inherited would never have gotten us to true zero silent failures on its own. Our team developed a way of actually getting there, and despite a lot of setbacks and pushback from OCTO, developed this system while simultaneously handling remediation and bug fixes. In summary...
 
 - Without state, we would've never had any reliable tracking of what had been remediated. Without the improvements, we never would've been able to keep up with the re-remediation and evolving needs of our stakeholders.
 - Without state, we never would've actually found any truly silent failures. Looking at errors was only giving us 'noisy' failures.
