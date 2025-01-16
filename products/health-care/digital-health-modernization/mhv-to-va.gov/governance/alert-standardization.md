@@ -6,6 +6,8 @@ To ensure a consistent Veteran experience and reduce cognitive load within the M
 * [User routing under access-limiting conditions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#user-routing-under-access-limiting-conditions)
 * [Missing MHV Identifier (Account Creation API)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#account-creation-api-error-alerts-ie-missing-mhv-uuid)
 * [Oracle-Health Routing alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#oracle-health--cerner-routing-alerts)
+* [Unauthenticated users](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#unauthenticated-users)
+* 403 forbidden alerts (guidance coming soon)
 * 404 page not found alerts (guidance coming soon)
 
 ## High-level API access logic
@@ -99,6 +101,12 @@ The alerts should display beneath the page H1 and lede text (if applicable), and
 
 ### Benefit hub pages: 
 Benefit hub pages corresponding with these tools currently have more complex versions of these alerts in place. We do not plan to update those alerts, and instead will remove them from benefit hub pages when the unauth page URLs for each tool are updated to point to the new version of the tool on VA.gov, by Milestone 1 deadline at the latest (ETA March 2025). More information about this [transition plan is available here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/transition/benefit-hub-page-updates.md).
+
+## Unauthenticated users
+The entire `/my-health` portal sits behind authentication and every application under this namespace must require authentication. Thus, any unauthenticated user who attempts to access a URL within any application in this space should trigger the sign-in modal. From there, we can determine whether or not the URL a user is attempting to reach can be reached by them or not. 
+
+## 403 Forbidden alerts
+Guidance coming soon. 
 
 ## 404 Page not found alerts 
 Guidance coming soon.
