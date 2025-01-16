@@ -84,6 +84,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 * Now tell me what you see here.<br>
 *[Notes]*
+* How would you explain this message to a friend?<br>
+*[Notes]*
 * If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)<br>
 *[Notes]*
 * What do you think this card is trying to communicate (referring to the submission in progress card)?<br>
