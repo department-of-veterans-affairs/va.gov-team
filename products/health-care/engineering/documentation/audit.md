@@ -19,7 +19,7 @@ This should reflect what is currently being developed and how the team operates.
 ## Required Documentation
 
 - Technical Diagrams and Documentation:
-  - **Code Owners**: Who owns it.
+  - **README**: A detailed README with who owns the code, relevant links and information to give engineers a place to get started.
   - **Architecture Diagrams:** Preferably in C4 model style or another clear format, illustrating system design, tech stack (with versions), and external dependencies.
   - **Database Diagrams:** Visual representation of database architecture and relationships.
   - **Sequence Diagrams:** for core features, detailing how data and/or users navigate both happy path and failure points.

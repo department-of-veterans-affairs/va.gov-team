@@ -1,5 +1,26 @@
 # [WIP] Standards for Documentations
 
+## README
+
+**Goal:** To provide a quick starting off point for an engineer approaching the code base
+
+**Standard:**
+
+- **Good Readme**:
+  - **Code owners** - Names of people and teams who own the code base. This should include was to contact the owners
+  - **Tech Stack** - What technology and version does the code user
+  - **Links to relevant docs** - Include links to set up docs, archecture diagrams and other relevant resources
+  - **Description** - A *brief* description of what problem the code base solves
+  - **Build Status** - The current build status in the CI
+  - **Code space specific knowledge** - Knowledge, FAQs, Gotchas, or other relevant knowledge that would be useful for a engineer
+  - **Monitoring** - Links to where the production instance can be monitored.
+
+- **Best Practices:**
+- A good readme is not a duplication of docs, but rather a list of links to relevant locations
+- These docs are geared toward helping an engineer not familiar with the code have a place to start to navigate it
+- This should live in the root directory of the code base, not in the doc directory.
+- [Vets website](https://github.com/department-of-veterans-affairs/vets-website) is a good example
+
 ## Architecture Diagrams (e.g., C4 Model)
 
 **Goal:** To provide a high-level view of the system’s structure, including components, interactions, and external dependencies.
@@ -15,7 +36,7 @@
 - **Best Practices:**
   - Use consistent, well-known shapes and symbols (rectangles for containers, cylinders for databases, etc.).
   - Label components and containers with clear, descriptive names.
-  - Include a legend or key to clarify symbols and colors.
+  - Include a legend or key to code symbols and colors.
   - Show interactions with clear arrows that specify the nature of the communication (REST API, message queue, etc.).
   - Ensure diagrams are simple enough for stakeholders to understand but detailed enough for technical teams to use.
   - Should include keys and secrets
