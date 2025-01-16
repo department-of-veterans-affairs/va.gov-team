@@ -33,7 +33,7 @@ No feedback for 1/14/25
 | ----------- | ----------- |
 | Unique page views | 541 |
 | Views per user | 1.11 |
-| # of interactions | 1 min 21 sec |
+| Time spent | 1 min 21 sec |
 
 #### DataDog
 | Metric Name | Description |
@@ -46,7 +46,15 @@ No feedback for 1/14/25
 
 ### 1/15/25 - 25%
 #### Medallia Feedback
+Pending
+
 #### Google Analytics
+| Metric Name | Description |
+| ----------- | ----------- |
+| Unique page views | Available 1/17/25|
+| Views per user | Available 1/17/25 |
+| Time spent | Available 1/17/25 |
+
 #### DataDog
 
 ### 1/16/25 - 50%
