@@ -129,9 +129,9 @@ TBD
 Team Roles
 ----------
 
-**Moderator:** TBD<br>
+**Moderator:** Steven Straily [steven.straily@agile6.com](mailto:steven.straily@agile6.com) <br>
 **Research conversation guide writing and task development:** Christina Gednalske [(christina.gednalske@adhocteam.us)](mailto:christina.gednalske@adhocteam.us), Ben Brasso [(ben.brasso@agile6.com)](mailto:ben.brasso@agile6.com)<br>
-**Project point of contact:** Christina Gednalske [(christina.gednalske@adhocteam.us)](mailto:christina.gednalske@adhocteam.us), Ben Brasso [(ben.brasso@agile6.com)](mailto:ben.brasso@agile6.com)<br>
+**Project point of contact:** Steven Straily [steven.straily@agile6.com](mailto:steven.straily@agile6.com), Christina Gednalske [(christina.gednalske@adhocteam.us)](mailto:christina.gednalske@adhocteam.us), <br>
 **VA Product Owner:** Kay Lawyer [(katherine.lawyer@va.gov)](mailto:katherine.lawyer@va.gov), Kristen McConnell [(kristen.mcconnell@va.gov)](mailto:kristen.mcconnell@va.gov), Lori Pusey [(lori.pusey@agile6.com)](mailto:lori.pusey@agile6.com), Stephen Barrs [(stephen.barrs@va.gov)](mailto:stephen.barrs@va.gov)<br>
 **Participants for pilot test:** n/a <br>
 **Note-takers:** n/a<br>
