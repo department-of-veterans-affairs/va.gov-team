@@ -74,13 +74,13 @@ _OBSERVE:_
 **General questions to ask during filing:**
 - Is anything confusing about this [step, information, page]?
 - I see you paused there. Could you tell me why that is?
-- I see you selected [only one facility]. Why's that?/Tell me more about that.
+- I see you selected [specific appointment]. Why's that?/Tell me more about that.
 
 _OBSERVE:_
 -   _Did they have difficulty with the identity verification?_
 -   _How long did it take for the first page to load after the identity verification?_
--   _Did they have any difficulty with the facilities selection (or single facility) screen?_
--   _If shown multiple facilities, which facilities did they select, and why?_ 
+-   _Did they have any difficulty with the appointment selection (or single appointment) screen?_
+-   _If shown multiple appointments, which appointment did they select, and why?_ 
 -   _Did they answer "No" to any travel reimbursement questions? Why or why not? And, if so, did they find the error pages easy or difficult to understand?_
 -   _Did they successfully submit their claim?_
 -   _Did they ever think they were done filing prior to completing the process?_
@@ -97,7 +97,7 @@ _OBSERVE:_
   
 - Why did you choose not to finish filing a claim today?
 
-**_If they filed one or more travel reimbursement claims:_**
+**_If they filed a travel reimbursement claim:_**
 
 - How easy or difficult was it to file your claim using this tool?
   - Which step of the process was most difficult or challenging?
@@ -105,16 +105,13 @@ _OBSERVE:_
     
 - How easy or difficult was it to understand what to do next after filing?
   
-- How easy or difficult was it to understand the status of your claim(s) after filing?
-  - What would you change or add to make it easier to understand the status of your claim(s) after filing?
+- How easy or difficult was it to understand the status of your claim after filing?
+  - What would you change or add to make it easier to understand the status of your claim after filing?
     
 - Have you tried other methods of filing for travel reimbursement?
   - _If yes:_ How does this compare to those other methods?
     
 -   Would you use this tool again?
-
-**_If they didn't select all appointments:_**
--   Thinking back to how you selected [1, 2, 3] appointment(s). How would you file a claim for your remaining appointments after this?
   
 -   Ok, great. I only have a few more follow-up questions for you. But first, do you have any questions or comments for me about this tool?
 
