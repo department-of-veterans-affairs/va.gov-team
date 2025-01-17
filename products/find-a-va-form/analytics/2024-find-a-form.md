@@ -103,10 +103,10 @@ December 2024
 | --- | --- | :---:|:---:|:---:|:---:|:---:|:---:|
 |	10-10ezr	|Health Benefits Update Form|	1725	|	1726	|	2003	|	1788	|	1450	| 8692 |
 |	10-10cg	| Application for Comprehensive Assistance for Family Caregivers Program|	1479	|	1356	|	929	|	957	|	464	| 5185 |
-|	10-10ez	| Instructions and Enrollment Application for Health Benefits	1386	|	1018	|	1233	|	649	|	772	|5058 |
+|	10-10ez	| Instructions and Enrollment Application for Health Benefits	| 1386	|	1018	|	1233	|	649	|	772	|5058 |
 |	10206	| Freedom of Information Act (FOIA) or Privacy Act (PA) Request|	1415	|	1508	|	1111	|	371	|	124	| 4529 |
 |	10182	| Decision Review Request: Board Appeal (Notice of Disagreement)|	1141	|	772	|	1018	|	403	|	681	| 4015 |
-|	1010ez	| Instructions and Enrollment Application for Health Benefits	865	|	557	|	957	|	772	|	557	| 3708 |
+|	1010ez	| Instructions and Enrollment Application for Health Benefits |	865	|	557	|	957	|	772	|	557	| 3708 |
 |	1010cg	|Application for Comprehensive Assistance for Family Caregivers Program|	402	|	493	|	557	|	434	|	526	| 2412 |
 |	10-5345| Request for and Authorization to Release Health Information| 	465	|	494	|	310	|	619	|	464	|2352 |
 |	10-10d	| Application for CHAMPVA Benefits|	403	|	678	|	372	|	587	|	310	| 2350 |
