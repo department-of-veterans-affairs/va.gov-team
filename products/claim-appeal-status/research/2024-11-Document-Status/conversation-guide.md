@@ -154,7 +154,7 @@ When the participant see the pre-populated upload file tell them:
 * Do they understand that they need to take action?
 * Is it clear that the alert will remain visible until VA has reviewed the file and not when the Veteran uploads the file?
 
-### Part 2 B: Status page - Buddy statement request - 5 minutes
+### Part 2 B: Status page - open request - 5 minutes
 
 [Click on "Details"]
 
@@ -189,6 +189,7 @@ When the participant see the pre-populated upload file remind them:
 **PROMPT**: Please scroll down to the "Documents" section. In this prototype, the page won’t scroll there automatically, but that’s the intended behavior in the final version.
 
 * Is this what you expect to see?
+* When you look at the other files listed, some have a status, and others don’t. How would you describe the difference between these files?
 * What would you do next?
 
 #### Things to watch for:
@@ -233,6 +234,7 @@ Without clicking anything, take a moment to review the page. Remember to think a
   * [If needed for reference click the “reference email” button]
   * [Click the email logo to return to previous screen]
 * What do you expect to happen if you click the "X" button on the alert? If you sign out and then sign back in a few days later, would you expect to see this alert again?
+* Is there anything in the alert you're not seeing that you wish was there?
 * What would you do next?
 
 #### If they say click on the files page
@@ -253,6 +255,7 @@ Without clicking anything, take a moment to review the page. Remember to think a
 * What do you think is the relationship between what you're seeing here and what you saw in your email? 
   * [If needed for reference click the “reference email” button]
   * [Click the email logo to return to previous screen]
+* How likely are you to re-upload the document instead of sending a physical copy?
 * What do you think will happen after you submit your document using one of these options?
 
 #### Things to watch for:
