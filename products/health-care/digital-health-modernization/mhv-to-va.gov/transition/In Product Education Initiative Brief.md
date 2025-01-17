@@ -1,54 +1,36 @@
 # In Product Education Initative Brief
-#### Overview
-
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
----
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+As we transition Veterans to our new MHV portal we want a way to introduce them to draw their attention to new features, patterns and expectations.  This initative is meant to gain users trust and give them confidence in the new MHV portal.  The outcome of this feature should lead to increased user satistisfaction of the MHV portal on VA.gov and an increase in user adoption of the portal. 
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- [MHV on VA.gov product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov)
+- [Medications product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications)
+- [Secure messaging product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product)
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+* VADS and USWDS don't have an in product education component that helps users note and understand changes to the UI as a means to help onboard them to new use patterns / expectations.
+* Users are used to behaviors and patterns in MHV and are sometimes confused or unsure of how to interact with things that change in the UI on MHV on VA.gov.
+* For example:
+  * On Secure Messaging - we have moved the secondary folders (drafts, trash, sent, my folders) from left side navigation to tabs at the top of the UI.  Users have reported through Medallia feedback that we have removed these from VA.gov becuase they aren't able to find them.
+  * On Medications - we've consolidated multiple lists on MHV into one list on MHV. Users have reported through Medallia feedback that their lists are too long or they can't find what their looking for like active prescriptions.  Filters on VA.gov was launched in December 2025 as an accoridon but users may not be familiar with this feature or why they should use it.
+* This initative contributes to OCTOs OKR of improving satisfaction with our web and mobile products by 5 points.
 
-<!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Users read the educational content within the new IPE component and familiarize themselves with the changes and new behaviors on VA.gov to be able to get the most out of their experience.
+- Users should become more confident in using the new MHV portal and increase their trust and satisfaction on the MHV on VA.gov portal.
 
 ## Undesired User Outcomes
-## Desired Business Outcomes
+- Users dismiss the IPE before reading comprehending the content.
+- Users get too familiar with this component and stop reading the content inside.
+- User satisfaction on the MHV on VA.gov portal goes down.
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+## Desired Business Outcomes
+- Behavior changes get communicated to users.
+- We are able to confidently move users to the new portal experience due to increased CSAT and improved user communciations.
 
 ## Undesired Business Outcomes
--->
+- UX teams over use the component and it becomes overlooked by users.
 
 ---
 ## Measuring Success
@@ -69,7 +51,7 @@
 - **Value Risks** (will people use it): 
   - .
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - [Google Rich Tool Tips inspiration](https://m3.material.io/components/tooltips/specs)
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Examples:
     - Upstream/Downstream API/Data availability and reliability
@@ -92,23 +74,30 @@
 ## Launch Planning
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
-
-- Kickoff ticket
+- [Medications IPE Collab Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101328)
+- SM IPE Collab Cycle Ticket
 
 ### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+##Secure Messaging
+- Design kickoff - 8/30
+- Designs complete
+
+##Medications
+- Goal is to have IPE in production for Medications filters before Milestone 1 - March 15
+- Designs complete -
+- 
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - March 15 
 - *Actual Launch Date* 
   - tbd
 
 ---
    
 ## Screenshots
+
 
 ### Before
 
