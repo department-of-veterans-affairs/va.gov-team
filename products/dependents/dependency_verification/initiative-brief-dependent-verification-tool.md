@@ -5,7 +5,7 @@
 
 <details>
  
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
+ *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within and between the team and the Crew Chief/PO/other teams.* 
  
 </details>
 
@@ -33,7 +33,7 @@ Decrease the over- and under-payment amount for dependent-related benefits by al
 - View/change dependents | [Landing Page](https://www.va.gov/view-change-dependents/)
 
 ## Problem
-Currently, the VA overpays $250 million in dependent benefits each year. If a Veteran is overpaid a benefit, they are required to re-pay the overpayment back to the VA. Updating dependency information outside of the 8-year requirement is voluntary, and the burden to remember to make dependency updates falls on the Veteran. Vertifying dependents through a paper form is also burdensome for many Veterans. These problems results in a very low-quality feedback loop for maintaining an accurate list of of what dependents are intended to be on award.
+Currently, the VA overpays $250 million in dependent benefits each year. If a Veteran is overpaid a benefit, they are required to re-pay the overpayment back to the VA. Updating dependency information outside the 8-year requirement is voluntary, and the burden of remembering to make dependency updates falls on the Veteran. Verifying dependents through a paper form is also burdensome for many Veterans. These problems result in a very low-quality feedback loop for maintaining an accurate list of what dependents are intended to be on the award.
 
 ## Desired User Outcomes
 
@@ -46,12 +46,12 @@ Currently, the VA overpays $250 million in dependent benefits each year. If a Ve
 
 
 ## Undesired User Outcomes
-- Veterans ignore communications (email and letter) prompting them to verify their dependents and they are under- or over-paid benefits.
+- Veterans ignore communications (email and letter) prompting them to verify their dependents and whether they are under or over-paid benefits.
 - Veterans find the process of verifying their dependency information on VA.gov confusing or too time-consuming.
 - Veterans find the process of updating their dependency information on VA.gov confusing or too time-consuming.
 
 ## Desired Business Outcomes
-- Veterans receive the benefits they are entitled to.
+- Veterans receive the benefits to which they are entitled.
 - The VA will save close to $250 million a year in overpayments.
 - Congressional obligations will be met.
 - The VA will mail out fewer dependency verification request letters (saving time, money, and resources)
@@ -65,8 +65,8 @@ Currently, the VA overpays $250 million in dependent benefits each year. If a Ve
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-<!-- * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
+<!-- * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes and not bringing about the undesired outcomes?*
+* _What are the most important metrics that track this product/initiative's success?_
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 * _**Limit 5-6 KPIs per product**__ -->
 
@@ -78,8 +78,8 @@ Currently, the VA overpays $250 million in dependent benefits each year. If a Ve
 | % of submission failures                                   | Form Health        |    0     | <1%    |
 
 
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
+### Objectives and Key Results (OKRs)
+_What are the measurable targets you're aiming for that deliver value for Veterans?_
 
 - Objective: Reduce the amount of time applicants are waiting for benefits.
   - Key result: Percentage comparison of annual updates compared to total (0%+)
@@ -99,14 +99,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Developing a solution that auto-generates and submits a form outside of a fully digitized form experience may require the customization of VA.gov patterns
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Providing an online option for Veterans to quickly verify their dependents may uncover other issues within the workstream (e.g. large influx of update requests)
+  - Providing an online option for Veterans to verify their dependents quickly may uncover other issues within the workstream (e.g. large influx of update requests)
   - Additional feedback and/or changes from VBA SMEs shortly before launch could impact release timelines
 
 ### What're you building
-- Email that will be sent annually to Veterans with dependents on their beneifts reminding them to verify their dependents on VA.gov
+- Email that will be sent annually to Veterans with dependents on their benefits reminding them to verify their dependents on VA.gov
 - Enhancements to the [view dependents page](https://www.va.gov/view-change-dependents/) that will allow Veterans to see additional info for each dependent
 - Adding a question to the view dependents page that asks Veterans if their dependent information has changed.
-   - If no, VA.gov will automatically generate a 21-0538 form, ask the Veteran to review the info and sign a statement of truth, and then submit the 21-0538 form.
+   - If no, VA.gov will automatically generate a 21-0538 form, ask the Veteran to review the info, sign a statement of truth, and then submit the 21-0538 form.
    - If yes, they will be directed to fill out the add/remove dependents form on VA.gov (21-686c/674).
 - We are not:
   - Digitizing the 21-0538 form into a complete form flow
@@ -169,14 +169,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   
 Benefits Dependents Experience Team: 
 - Product manager: Laura Steele
-- Design and Research: Julie Pedke and Ajia Wallace
-- Engineering: Thomas Blackwell (lead), Dakota Larson, Sean Midgley, Evan Smith
-- Delivery: Sarah Ortiz Shields
+- Design and Research: Ajia Wallace, Ruben Sun, Fiorella Geedi
+- Engineering: Matt Knight (lead), Dakota Larson, Sean Midgley, Evan Smith
+- Delivery: Amy Plange
 
 
 #### Stakeholders
 
-- VBA Stakeholders and SMEs: Daivd Reis, Brandi Traylor, Angela Moritz
+- VBA Stakeholders and SMEs: David Reis, Brandi Traylor, Angela Moritz
 - CAIA Team (content review)
 
 #### Privacy officer
