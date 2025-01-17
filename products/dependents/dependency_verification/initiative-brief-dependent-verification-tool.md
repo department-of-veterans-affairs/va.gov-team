@@ -131,6 +131,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 * [Link to Release Plan for this Initiative](TBD)
 
+#### CAIA's IA feedback
+[View feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/verify-dependents.md)
+
 #### Initiative Launch Dates
 - *Target Launch Date*: July/August 2024
 - *Actual Launch Date*:
