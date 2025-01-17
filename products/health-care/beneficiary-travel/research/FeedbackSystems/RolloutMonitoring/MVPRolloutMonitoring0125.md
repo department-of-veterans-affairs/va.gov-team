@@ -66,6 +66,9 @@ No feedback for 1/13/25
 ### 1/16/25 - 50%
 #### Medallia Feedback
 
+2 user responses, both using MyHealtheVet Form.  Rated satisfaction with the site at a 2 and 3.  Neither were able to accomplish their task, but we do not know what task they were trying to complete as the MHV survey form does not ask.  Both respondents rated their experience with the site today as a 2.  Asked to explain their rating, one respondent said  "Because the site had me login with the id but it took me to the Oregon website for the Va. not where I wanted to be and that makes fustration" and the other said "could not access travel pay reimbursement".  Asked what topics they were most interested in for upcoming articles, the respondent who cited the Oregon website said "Ones where you don't get the runaround for getting your care through the Community that you have had for years."
+
+
 #### Google Analytics
 | Metric Name | Description |
 | ----------- | ----------- |
