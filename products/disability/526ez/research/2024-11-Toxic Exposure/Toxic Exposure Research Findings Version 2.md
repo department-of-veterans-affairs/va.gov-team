@@ -28,16 +28,9 @@ Recording, presented and recorded on 12/20/2024
 **Jump to:** 
 
 [Research Goals](#research-goals)
-[Research Overview](#research-overview)
-[Problem Statement](#problem-statement)
-[Solution](#solution)
-[Desired Outcomes](#desired-outcomes)
 [Research Questions](#research-questions)
 [Methodology](#methodology)
-[Pre-Test Setup](#pre-test-setup)
-[Task Flow](#task-flow)
 [Hypotheses and Conclusions](#hypotheses-and-conclusions)
-[Additional AT Hypotheses and Conclusions](#additional-at-hypotheses-and-conclusions)
 [Key Findings](#key-findings)
 [Details of Findings](#details-of-findings)
 [Additional Insights](#additional-insights)
