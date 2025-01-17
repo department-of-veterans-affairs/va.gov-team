@@ -29,7 +29,7 @@ Michelle Middaugh | suzanne.middaugh@va.gov | OCTO product owner
 Danielle Thierry | danielle.thierry@va.gov | OCTO content and translation lead
 Jenny Heiland-Luedtke | jennifer.heiland-luedtke@va.gov | Deputy Director, VHA Digital Media (VAMC POC)
 Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC) 
-TBD | tbd@va.gov | (VBA POC)
+Shared VBA leadership responsibility | ofocomms.vbaco@va.gov | VBA POC
 
 
 ## Taxonomy structure
