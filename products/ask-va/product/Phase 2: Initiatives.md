@@ -1,5 +1,7 @@
 # Phase 2: Initiatives
-January to March
+**January to March**
+
+Last updated by @tygindraux: January 17, 2025
 
 ## Goals
 In Phase 2, we will find a balance between making quick, responsive improvements to the product while also bringing partners along on the journey. 
