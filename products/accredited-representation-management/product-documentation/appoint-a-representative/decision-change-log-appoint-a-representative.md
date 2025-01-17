@@ -58,5 +58,7 @@ _Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https:
   _Direction from Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1733853832182779?thread_ts=1733852923.213349&cid=C05L6HSJLHM))._
 - **12/18/2024**: Decided to remove the "Next Steps" cover page from the generated PDF, as it was causing accessibility issues with the pre-filled form.\
   _Confirmed by Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1734550746763029?thread_ts=1734541936.131369&cid=C05L6HSJLHM))._
+- **1/16/2025**: Confirmed the representative phone number is not required for processing a 21-22a.\
+  _Confirmed by stakeholder Jenny Rosenau (Compensation Services) in email "21-22/21-22a Required Fields?"._
 
   
