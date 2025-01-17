@@ -34,7 +34,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| virtual_agent_show_floating_chatbot | When ON, the Chatbot appears as a floating icon at the bottom of the page. When OFF, the Chatbot only appears as a static view port on the [Virtual Agent page](https://www.va.gov/contact-us/virtual-agent/)|
 
 ## Step 2: Validation
 
