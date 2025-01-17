@@ -10,55 +10,43 @@
 - [2021](#2021)
   
 ## CSAT Scores
+![image](https://github.com/user-attachments/assets/500b8762-3924-4104-88b6-f50fbe71e770)
 
-| Month/Quarter | CSAT Score % 
-| --- |:---:|
-| Aug 2024 | # |
-| Jul 2024 | 62.3% |
-|**Q2 Rollup 2024** | **58.7** |
-| Jun 2024 | 63% |
-| May 2024 | 56.6% |
-| Apr 2024 | 56.5% |
-|**Q1 Rollup 2024** | **52.44** |
-| Mar 2024 | 52.72% |
-| Feb 2024 | 52.68% |
-| Jan 2024 | 51.91% |
-|**Q4 2023 Rollup** | **51.43%** |
-| Dec 2023 | 51.98% |
-| Nov 2023 | 51.18% |
-| Oct 2023 | 51.14% |
+
+
 
 ## 2024
 
 ### Search page interactions
 #### Frequently used forms (blue boxes)	
-| Link	|	Aug-24 | 
-| --- | :---:|
-| File a VA disability claim - Apply online (link to VA Form 21-526EZ)	|	8039
-| Apply for the GI Bill and other education benefits (VA Forms 22-1990 and 22-1995) - Learn how to apply online		|	4528
-| Apply for VA health care  - Apply online (link to VA Form 10-10 EZ)		|	2,718
+| Link	| Aug-24 | Sept-24 | Oct-24 | Nov-24 | Dec-24 |
+| --- | :---:|:---:|:---:|:---:|:---:|
+| File a VA disability claim - Apply online (link to VA Form 21-526EZ)	|	 8,039 	 | 	 5,784 	 | 	 5,544 	 | 	 4,848 	 | 	 4,608 	 | 
+| Apply for the GI Bill and other education benefits (VA Forms 22-1990 and 22-1995) - Learn how to apply online	|	 4,528 	 | 	 3,384 	 | 	 3,048 	 | 	 2,208 	 |  2,760  | 
+| Apply for VA health care - Apply online (link to VA Form 10-10 EZ)	|	 2,718 	 | 	 2,448 	 | 	 2,616 	 | 	 2,616 	 | 	 2,832 	 | 
+
 	
 #### Manage your VA benefits and other information online	list
-| Link	|	event | Aug-24 | 
-| --- | ---|  :---:|
-| Change your direct deposit information	|	nav-linkslist	|	1704
-| Change your direct deposit information		|	nav-link-click	|	1492
-| Change your address in your VA.gov profile	|	nav-linkslist	|	813
-| Change your address in your VA.gov profile |	nav-link-click	|	660
-| Request your military records, including DD214	|	nav-linkslist	|	4416
-|Request your military records, including DD214	|	nav-link-click	|	4083
-| Get your VA records and documents online	|	nav-linkslist	|	6009
-| Get your VA records and documents online	|	nav-link-click	|	5704
+| Link	| event | Aug-24 | Sept-24 | Oct-24 | Nov-24 | Dec-24 |
+| --- |--- | :---:|:---:|:---:|:---:|:---:|
+| 	 Change your direct deposit information 	 | 	 nav-linkslist 	 | 	 1,704 	 | 	 1,224 	 | 	 1,296 	 | 	 1,008 	 | 	 936 	 | 
+| 	 Change your direct deposit information 	 | 	 nav-link-click 	 | 	 1,492 	 | 	 1,056 	 | 	 1,248 	 | 	 864 	 | 	 912 	 | 
+| 	 Change your address in your VA.gov profile 	 | 	 nav-linkslist 	 | 	 813 	 | 	 600 	 | 	 552 	 | 	 312 	 | 	 912 	 | 
+| 	 Change your address in your VA.gov profile 	 | 	 nav-link-click 	 | 	 660 	 | 	 480 	 | 	 480 	 | 	 288 	 | 	 768 	 | 
+| 	 Request your military records, including DD214 	 | 	 nav-linkslist 	 | 	 4,416 	 | 	 3,432 	 | 	 2,712 	 | 	 3,264 	 | 	 3,000 	 | 
+| 	 Request your military records, including DD214 	 | 	 nav-link-click 	 | 	 4,083 	 | 	 3,144 	 | 	 2,424 	 | 	 3,024 	 | 	 2,616 	 | 
+| 	 Get your VA records and documents online 	 | 	 nav-linkslist 	 | 	 6,009 	 | 	 3,984 	 | 	 5,784 	 | 	 4,272 	 | 	 5,040 	 | 
+| 	 Get your VA records and documents online 	 | 	 nav-link-click 	 | 	 5,704 	 | 	 3,864 	 | 	 5,232 	 | 	 4,104 	 | 	 4,704 	 | 
 
 ### More information box
-| Link	|	event | Aug-24 | 
-| --- | ---|  :---:|
-| SGLI, VGLI, and other VA life insurance programs	|	nav-linkslist	|	944
-| SGLI, VGLI, and other VA life insurance programs	|	nav-link-click	|	829
-| Department of Defense (DOD) forms	|	nav-linkslist	|	1520
-| Department of Defense (DOD) forms	|	nav-link-click	|	1364
-| Contact the VA forms managers	|	nav-linkslist	|	2386
-| Contact the VA forms managers	|	nav-link-click	|	2166
+| Link	| event | Aug-24 | Sept-24 | Oct-24 | Nov-24 | Dec-24 |
+| --- |--- | :---:|:---:|:---:|:---:|:---:|
+ | 	 SGLI, VGLI, and other VA life insurance programs 	 | 	 nav-linkslist 	 | 	 944 	 | 	 624 	 | 	 816 	 | 	 648 	 | 	 504 	 | 
+ | 	 SGLI, VGLI, and other VA life insurance programs 	 | 	 nav-link-click 	 | 	 829 	 | 	 576 	 | 	 720 	 | 	 552 	 | 	 432 	 | 
+ | 	 Department of Defense (DOD) forms 	 | 	 nav-linkslist 	 | 	 1,520 	 | 	 864 	 | 	 1,008 	 | 	 864 	 | 	 1,272 	 | 
+ | 	 Department of Defense (DOD) forms 	 | 	 nav-link-click 	 | 	 1,364 	 | 	 744 	 | 	 888 	 | 	 792 	 | 	 1,128 	 | 
+ | 	 Contact the VA forms managers 	 | 	 nav-linkslist 	 | 	 2,386 	 | 	 1,464 	 | 	 1,512 	 | 	 936 	 | 	 1,224 	 | 
+ | 	 Contact the VA forms managers 	 | 	 nav-link-click 	 | 	 2,166 	 | 	 1,272 	 | 	 1,392 	 | 	 864 	 | 	 1,176 	 | 
 
 ### Search metrics
 
