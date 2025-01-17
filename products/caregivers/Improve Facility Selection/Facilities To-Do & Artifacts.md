@@ -102,13 +102,13 @@
 - [x] Complete any Design and/or Development work from Usability/UAT sessions
 - [x] Update Error matrix documentation with any new error states
 - [x] Update any FE and/or BE Engineering documentation
-- [ ] Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
-- [ ] Update Contact Center guide
-- [ ] Submit Contact Center guide review ticket
+- [x] Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
+- [x] Update Contact Center guide
+- [x] Submit Contact Center guide review ticket
 - [x] Create Release Plan
      - [x] Include E2E test results & signoff
-- [ ] Conduct Launch Go/No Go with the team
-     - [ ] Review Release Plan
+- [x] Conduct Launch Go/No Go with the team
+     - [x] Review Release Plan
 - [ ] Launch in a phased manner, according to Release Plan
 - [ ] Continuous check-ins with downstream system
 - [ ] Schedule or close all remaining tickets
