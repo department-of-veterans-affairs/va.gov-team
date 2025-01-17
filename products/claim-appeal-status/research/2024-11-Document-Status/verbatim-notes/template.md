@@ -1,3 +1,9 @@
+> **Copy this template**
+
+> **File Name**: [p#-studyname-YY-MM-DD-TIME]
+
+> **Example file name:** p1-document-status-2024-01-21-9AM.md
+
 # TEMPLATE
 
 ## Intro - 5 minutes
