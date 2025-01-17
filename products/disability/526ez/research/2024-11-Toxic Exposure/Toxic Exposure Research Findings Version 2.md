@@ -165,6 +165,7 @@ See [research findings from the 2023 usability study](https://github.com/departm
 
 ### 
 
+*********
 
 ## Finding 1: Alert and TE questions hard to find on IPFs
 
@@ -190,6 +191,7 @@ A majority of Veterans did not appear to notice the In Progress Form (IPF) alert
 
 *Note: We are unsure if this task created a realistic enough scenario. We started the session with this task, and some participants have never used VA.gov before*.
 
+*********
 
 ## Finding 2: Dates \- A11y issues and poor error handling
 
@@ -210,6 +212,7 @@ Premature error validation and an unclear date format expectation made date rang
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfiCVeK-g3jUewU51iLyHr-5fZ3foy3HPJGQ4T2RUs9IcbROMEgWCdO17Bpi_wsBEfDw7b4XnO9ba2oV1fUhoFvVCVev-Dp9yIWv_Q6w0H7s_aNk2-5ShgsVz-7gnrvMyrCW6dp?key=Y4brp4DIxUDtCWSQ4qT7Us0H)**<br>
 **Screenshot of error handling issue**
 
+*********
 
 ## Finding 3: Flow strained recall and lacked context
 
@@ -229,6 +232,8 @@ Veterans users frequently got lost or confused while navigating through the list
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdPlRaeayAHXxI19ua-HLpV1C2gr54wbm2H4b5rJwb75qLA5TRFPmdAjxOTYo-LT0BBQn2a2Wi_pqZkFPU6nL0QV-bkvt1W9ZAM3gPHoCxblgG2dn7fQsXp6OspuD23kH4TwUh6Uw?key=Y4brp4DIxUDtCWSQ4qT7Us0H)**<br>
 **Screenshot of Toxic Exposure flow custom “Checkbox and Loop” design pattern**
 
+
+*********
 
 ## Finding 4: AT-users face too many barriers
 
@@ -255,6 +260,8 @@ The requirement to authenticate to preview the form and to enter dates into requ
 **Screenshot of VA.gov log in page**
 
 
+*********
+
 ## Finding 5: No affordance to reverse opt in and go back
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Comprehension testing, RESRCH: Remote, RESRCH: Usability Testing, SFTW: Screenreader
@@ -274,6 +281,8 @@ When participants navigated to the new questions from the In Progress Form (IPF)
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFBf-KnTPgM7W-k4c60nulL_dl2LQ3PfnYuw20YLDSHWCIvU6ItTNXDKTTtVC7BC2-fP-ZxpJLHYkDELI4wnM3koofktr7PKkO851LMu3txVMPaq_uYEoqfWNxlDLTRObxeXkJ_g?key=Y4brp4DIxUDtCWSQ4qT7Us0H)** <br>
 **Screenshot of lack of offramp from Toxic Exposure questionnaire to Review and Submit page**
 
+
+*********
 
 ## Finding 6: Flow navigation is unclear
 
@@ -298,6 +307,8 @@ Veterans struggled to orient themselves in the flow or set expectations for the 
 **Screenshot of the Form progress stepper component and H3 page heading**
 
 
+*********
+
 ## Finding 7: Too many controls for screen reader users
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing, Accessibility, SFTW: Screenreader
@@ -321,7 +332,9 @@ On Location 1 of 7 screen: *"Oh my gosh"- "that means I selected 7 locations and
 **Screenshot of the Gulf War page with too many checkboxes**
 
 
-## Finding 8: Concern that approximate dates may impact claim {#finding-8:-concern-that-approximate-dates-may-impact-claim}
+*********
+
+## Finding 8: Concern that approximate dates may impact claim
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE:  PACT ACT, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing, DSC: Form \- Date input, DSP: Ask users for dates, SPG: Toxic Exposure
 
@@ -345,6 +358,8 @@ P4 AT, a new screen reader user, noted that JAWS does not read "I'm not sure of 
 **Screenshot of the “I’m not sure” checkbox**
 
 
+*********
+
 ## Finding 9: Service Dates vs. Deployment Dates confusion
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing, DSC: Form \- Date input, DSP: Ask users for dates, DSP: Ask users for service history
@@ -362,6 +377,8 @@ Participants were unclear about what specific date ranges VA was requesting on d
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7y-WCPcrQtd-iNy2C00YRU0xkIIScW2PyQ-vILzN1xANacy6_l8e4ajVBfDVnIPoGVhm01kyi9y9FAN_oWV_WullAANwSbcIV1jhF7NYfQoO-S1Nl6dgJp1OVhkZAFAoWDCriTw?key=Y4brp4DIxUDtCWSQ4qT7Us0H)**<br>
 **Screenshot of the service dates components**
 
+
+*********
 
 ## Finding 10: Lack of definition for key exposure terms
 
@@ -390,6 +407,8 @@ On the Agent Orange screen, 2 participants wondered if they should count contact
 **Screenshot of unfamiliar toxic exposure terms**<br>
 
 
+*********
+
 # Additional Insights
 
 |  | Finding | Priority | Severity | Frequency | Impact to User |
@@ -399,6 +418,8 @@ On the Agent Orange screen, 2 participants wondered if they should count contact
 | **13** | Some participants who served in Vietnam expected to see the Agent Orange (AO)  appear earlier in the flow. | Low | Low | 2 out of 9 were surprised at the location of the AO section. 2 out of 9 were confused that no dates were asked in the AO section. | The ordering of the pages, Date, Date, Toxin, may not make sense to all users, especially those from the Vietnam War era. |
 | **14** | A majority of Veterans were already familiar with the Pact Act. Some were unsure on how to connect toxic exposure conditions with their service history without medical advice.  Some were unsure where to go to on VA.gov  to file. | Low | Low | 8 out of 9 were familiar with the PACT Act. 1 out of 9 mentioned being unsure on how to connect TE conditions with their service history without medical advice. | Marketing of the PACT act appears to be working and Veterans are familiar with the concept. |
 
+
+*********
 
 ## Finding 11: Optional fields mistaken for required
 
@@ -422,6 +443,8 @@ Participants did not know that fields were optional-- but likely would have felt
 **Screenshot of optional date fields**
 
 
+*********
+
 ## Finding 12: Low engagement with additional info
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ,RESRCH: Remote, RESRCH: Usability Testing, DSC: Additional info
@@ -438,6 +461,8 @@ Additional information sprinkled throughout the TE flow was rarely read by Veter
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd0h6Br_sMw1VjpA0XHP3lTttcKKiOLdAw6xXZ4qW9uZ-k9ZjPC_3QLBPyh-fznMzZLW186PUSL15OQS8GrKeirT0QYlEPLVPNOGcoPoVARsMwSzwqBZiiAByJmVmaNPzm86TE7eQ?key=Y4brp4DIxUDtCWSQ4qT7Us0H)**<br>
 **Screenshot of additional information component**
 
+
+*********
 
 ## Finding 13: Screen flow is not chronological
 
@@ -460,6 +485,8 @@ Some participants who served in Vietnam expected to see the Agent Orange appear 
 **Screenshot of Agent Orange page**
 
 
+*********
+
 ## Finding 14: Low support to determine eligibility
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing, SPG: Agent Orange, SPG: Burn Pit, SPG: Toxic Exposure
@@ -481,14 +508,17 @@ Of those who had heard of the Pact Act, 2 didn’t think they’d be eligible; 2
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJVeR7niblG04I01Ce9-g3ir0TYpB5sFMiAbTT6GJ0v7q9E8Ob10GYHw6eXzYyTqOcJVWQCrSoEa5KdOQbqGnkEP92n6wke569HSG8nsxajc1eya-NDI8dU7zUf3_V7wWjxXZ2rA?key=Y4brp4DIxUDtCWSQ4qT7Us0H)** <br>
 **Screenshot of areas on VA.gov where it would be helpful to provide Veterans with more information on eligibility**
 
+
+*********
+
 # Recommendations
 
 ## High/Medium Priority Items
 
 1. Veterans did not appear to notice the IPF Alert and the TE questions were hard to find.  
-* Possibly switch the alert component from the blue informational alert to the yellow warning alert.  
-* For screen readers, announce that the form update is an alert/ important information.  
-* Consider making it required for Veterans to acknowledge the alert.  
+   * Possibly switch the alert component from the blue informational alert to the yellow warning alert.  
+   * For screen readers, announce that the form update is an alert/ important information.  
+   * Consider making it required for Veterans to acknowledge the alert.  
 2. Premature error validation and an unclear date format expectation made date ranges difficult for screen readers to complete.  
 * Consider allowing users to enter date information before displaying the error (move field validation to the end of page).  
 * Set clear format expectations for the date, including \# of digits for year.  
@@ -610,6 +640,9 @@ In the Assistive Technology cohort, 2 of our Veterans experienced significant St
 * 2 of 2 Veterans were able to change a previously entered date.  
 * 2 of 2 Veterans were able to add a new location.  
 * 2 of 2  Veterans were able to add an unknown date range. (P5AT skipped this task, but demonstrated the ability to do so during Task 3.)
+
+
+*********
 
 # Appendix
 
