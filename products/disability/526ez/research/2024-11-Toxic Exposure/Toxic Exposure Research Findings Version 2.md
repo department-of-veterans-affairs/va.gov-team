@@ -99,12 +99,12 @@ We conducted 1-1.5 hour long remote moderated evaluative mixed methods testing s
 * **Non-AT Cohort:** Veterans who do not rely on assistive technology (AT) to navigate online.  
 * **AT Cohort:** Veterans who routinely use assistive technology to access digital platforms.
 
-## Pre-Test Setup {#pre-test-setup}
+## Pre-Test Setup
 
 * The 526EZ form was prefilled with mock data to simulate an in-progress claim.  
 * An In Progress Form (IPF) alert was configured to display at the top of the Review and Submit page, guiding users to the new toxic exposure questions in Section 2\.
 
-## Task Flow {#task-flow}
+## Task Flow
 
 1. Participants were asked to log into Staging \- VA.gov and access the 526EZ form.  
 2. Starting on the Review and Submit page, participants were instructed to navigate to the toxic exposure questions in Section 2 of the form.  
@@ -112,7 +112,7 @@ We conducted 1-1.5 hour long remote moderated evaluative mixed methods testing s
 
 By simulating a real-world interaction with the updated flow, we aimed to evaluate the usability, comprehension and accessibility of the new toxic exposure design for both AT and Non-AT users.
 
-# Hypotheses and Conclusions {#hypotheses-and-conclusions}
+# Hypotheses and Conclusions
 
 See [research findings from the 2023 usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-07-Toxic-Exposure/Form%20526%20Toxic%20Exposure%20Usability%20Research%20Summary%202023.pdf) and [design documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/toxic-exposure.md) for more context on these hypotheses. After analyzing the research, we realized that many of our original hypotheses were proven false or potentially false. Additional AT Hypotheses and Conclusions
 
@@ -127,7 +127,7 @@ See [research findings from the 2023 usability study](https://github.com/departm
 | 7 | Users are able to edit date ranges and feel confident in their answers. | **TRUE** \- Users were very confident in their answers, even if they were not able to correctly edit the date ranges. |
 | 8 | Users will be able to navigate back and correct errors from the summary screen. | **TRUE** \- 5 of 9 users stated that the Summary screens were helpful, however several participants were initially lost in trying to do so. |
 
-## Additional AT Hypotheses and Conclusions {#additional-at-hypotheses-and-conclusions}
+## Additional AT Hypotheses and Conclusions
 
 |  | Hypothesis | Conclusion |
 | :---- | :---- | :---- |
@@ -135,7 +135,7 @@ See [research findings from the 2023 usability study](https://github.com/departm
 | 2 | Location pages with lots of checkboxes will be verbose for screen reader users, who might find it overwhelming. | **MAYBE TRUE** \-  Specific pages, like the Gulf War page (lists 19 checkbox  items), were verbose and caused 2 out of 4  AT users to be overwhelmed as the screen reader read through each item. |
 | 3 | Only some AT users will understand that date fields are optional. | **FALSE** \- 4 out of 4 AT users did not understand that the date fields were optional. |
 
-# Key Findings {#key-findings}
+# Key Findings
 
 1. A majority of Veterans did not appear to notice the blue informational In Progress Form (IPF) Alert and the Toxic Exposure (TE) questions were hard to find.  
 2. Premature error validation and an unclear date format expectation made date ranges difficult for screen readers to complete.  
@@ -148,7 +148,7 @@ See [research findings from the 2023 usability study](https://github.com/departm
 9. Veterans were unclear about what specific date ranges VA was requesting on detail screens.  
 10. Veterans pointed out terminology they were unfamiliar with and would like to see better defined.
 
-# Details of Findings {#details-of-findings}
+# Details of Findings
 
 |  | Finding | Priority | Severity | Frequency | Impact to User |
 | ----- | :---- | :---- | :---- | :---- | :---- |
@@ -166,7 +166,7 @@ See [research findings from the 2023 usability study](https://github.com/departm
 ### 
 
 
-## Finding 1: Alert and TE questions hard to find on IPFs {#finding-1:-alert-and-te-questions-hard-to-find-on-ipfs}
+## Finding 1: Alert and TE questions hard to find on IPFs
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE:  PACT ACT, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing, Accessibility DSC: Alert boxes, SFTW: Screenreader, SPG: Blind/Visually Impaired, SPG: Toxic Exposure
 
@@ -191,7 +191,7 @@ A majority of Veterans did not appear to notice the In Progress Form (IPF) alert
 *Note: We are unsure if this task created a realistic enough scenario. We started the session with this task, and some participants have never used VA.gov before*.
 
 
-## Finding 2: Dates \- A11y issues and poor error handling {#finding-2:-dates---a11y-issues-and-poor-error-handling}
+## Finding 2: Dates \- A11y issues and poor error handling
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing, Accessibility, DSC: Form \- Date input, DSP: Ask users for dates, SFTW: Screenreader
 
@@ -211,7 +211,7 @@ Premature error validation and an unclear date format expectation made date rang
 **Screenshot of error handling issue**
 
 
-## Finding 3: Flow strained recall and lacked context {#finding-3:-flow-strained-recall-and-lacked-context}
+## Finding 3: Flow strained recall and lacked context
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Comprehension testing, RESRCH: Usability Testing  
 **Priority**: **High**
@@ -230,7 +230,7 @@ Veterans users frequently got lost or confused while navigating through the list
 **Screenshot of Toxic Exposure flow custom “Checkbox and Loop” design pattern**
 
 
-## Finding 4: AT-users face too many barriers {#finding-4:-at-users-face-too-many-barriers}
+## Finding 4: AT-users face too many barriers
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Comprehension testing, RESRCH: Remote, RESRCH: Usability Testing, Accessibility, DSC: Form \- Date input, DSP: Help users to sign in, SFTW: Screenreader
 
@@ -255,7 +255,7 @@ The requirement to authenticate to preview the form and to enter dates into requ
 **Screenshot of VA.gov log in page**
 
 
-## Finding 5: No affordance to reverse opt in and go back {#finding-5:-no-affordance-to-reverse-opt-in-and-go-back}
+## Finding 5: No affordance to reverse opt in and go back
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Comprehension testing, RESRCH: Remote, RESRCH: Usability Testing, SFTW: Screenreader
 
@@ -275,7 +275,7 @@ When participants navigated to the new questions from the In Progress Form (IPF)
 **Screenshot of lack of offramp from Toxic Exposure questionnaire to Review and Submit page**
 
 
-## Finding 6: Flow navigation is unclear {#finding-6:-flow-navigation-is-unclear}
+## Finding 6: Flow navigation is unclear
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE:  PACT ACT, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing, Accessibility, DSC: Progress bars, SPG: Toxic Exposure
 
@@ -298,7 +298,7 @@ Veterans struggled to orient themselves in the flow or set expectations for the 
 **Screenshot of the Form progress stepper component and H3 page heading**
 
 
-## Finding 7: Too many controls for screen reader users {#finding-7:-too-many-controls-for-screen-reader-users}
+## Finding 7: Too many controls for screen reader users
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing, Accessibility, SFTW: Screenreader
 
@@ -345,7 +345,7 @@ P4 AT, a new screen reader user, noted that JAWS does not read "I'm not sure of 
 **Screenshot of the “I’m not sure” checkbox**
 
 
-## Finding 9: Service Dates vs. Deployment Dates confusion {#finding-9:-service-dates-vs.-deployment-dates-confusion}
+## Finding 9: Service Dates vs. Deployment Dates confusion
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing, DSC: Form \- Date input, DSP: Ask users for dates, DSP: Ask users for service history
 
@@ -363,7 +363,7 @@ Participants were unclear about what specific date ranges VA was requesting on d
 **Screenshot of the service dates components**
 
 
-## Finding 10: Lack of definition for key exposure terms {#finding-10:-lack-of-definition-for-key-exposure-terms}
+## Finding 10: Lack of definition for key exposure terms
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE:  PACT ACT, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing, SPG: Toxic Exposure
 
@@ -390,7 +390,7 @@ On the Agent Orange screen, 2 participants wondered if they should count contact
 **Screenshot of unfamiliar toxic exposure terms**<br>
 
 
-# Additional Insights {#additional-insights}
+# Additional Insights
 
 |  | Finding | Priority | Severity | Frequency | Impact to User |
 | ----- | :---- | :---- | :---- | :---- | :---- |
@@ -400,7 +400,7 @@ On the Agent Orange screen, 2 participants wondered if they should count contact
 | **14** | A majority of Veterans were already familiar with the Pact Act. Some were unsure on how to connect toxic exposure conditions with their service history without medical advice.  Some were unsure where to go to on VA.gov  to file. | Low | Low | 8 out of 9 were familiar with the PACT Act. 1 out of 9 mentioned being unsure on how to connect TE conditions with their service history without medical advice. | Marketing of the PACT act appears to be working and Veterans are familiar with the concept. |
 
 
-## Finding 11: Optional fields mistaken for required {#finding-11:-optional-fields-mistaken-for-required}
+## Finding 11: Optional fields mistaken for required
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing, DSC: Form \- Date input
 
@@ -422,7 +422,7 @@ Participants did not know that fields were optional-- but likely would have felt
 **Screenshot of optional date fields**
 
 
-## Finding 12: Low engagement with additional info {#finding-12:-low-engagement-with-additional-info}
+## Finding 12: Low engagement with additional info
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ,RESRCH: Remote, RESRCH: Usability Testing, DSC: Additional info
 
@@ -439,7 +439,7 @@ Additional information sprinkled throughout the TE flow was rarely read by Veter
 **Screenshot of additional information component**
 
 
-## Finding 13: Screen flow is not chronological {#finding-13:-screen-flow-is-not-chronological}
+## Finding 13: Screen flow is not chronological
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing, SPG: Agent Orange
 
@@ -460,7 +460,7 @@ Some participants who served in Vietnam expected to see the Agent Orange appear 
 **Screenshot of Agent Orange page**
 
 
-## Finding 14: Low support to determine eligibility {#finding-14:-low-support-to-determine-eligibility}
+## Finding 14: Low support to determine eligibility
 
 **Labels**: AUD: Veterans, Alert Boxes, INTIVE: PACT Act, INTIVE: Toxic exposure, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing, SPG: Agent Orange, SPG: Burn Pit, SPG: Toxic Exposure
 
@@ -481,9 +481,9 @@ Of those who had heard of the Pact Act, 2 didn’t think they’d be eligible; 2
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJVeR7niblG04I01Ce9-g3ir0TYpB5sFMiAbTT6GJ0v7q9E8Ob10GYHw6eXzYyTqOcJVWQCrSoEa5KdOQbqGnkEP92n6wke569HSG8nsxajc1eya-NDI8dU7zUf3_V7wWjxXZ2rA?key=Y4brp4DIxUDtCWSQ4qT7Us0H)** <br>
 **Screenshot of areas on VA.gov where it would be helpful to provide Veterans with more information on eligibility**
 
-# Recommendations {#recommendations}
+# Recommendations
 
-## High/Medium Priority Items: {#high/medium-priority-items:}
+## High/Medium Priority Items
 
 1. Veterans did not appear to notice the IPF Alert and the TE questions were hard to find.  
 * Possibly switch the alert component from the blue informational alert to the yellow warning alert.  
@@ -520,7 +520,7 @@ Of those who had heard of the Pact Act, 2 didn’t think they’d be eligible; 2
 10. Veterans pointed out terminology they were unfamiliar with and would like to see better defined.  
 * Add hint text or links to definitions to clarify lesser known terms.
 
-## Low Priority Items {#low-priority-items}
+## Low Priority Items
 
 11. Participants did not know that fields were optional-- but likely would have felt pressure to fill them out either way.  
 * Propose visual optimizations and A11y improvements to clarify which fields are required.  
@@ -535,7 +535,7 @@ Of those who had heard of the Pact Act, 2 didn’t think they’d be eligible; 2
 * Add links to toxic exposure eligibility to Disability dropdown menu, Disability Hub, the eligibility page, and embedded in the toxic exposure flow in the 526ez.  
 * Update VA PACT Act marketing and web pages to drive veterans to file on 526ez.
 
-# Next Steps {#next-steps}
+# Next Steps
 
 | Timeframe | Action | Owner |
 | :---- | :---- | :---- |
@@ -543,15 +543,15 @@ Of those who had heard of the Pact Act, 2 didn’t think they’d be eligible; 2
 | 1/27/2025 | Present to Design COP | Lauren Dawson, Maya Carroll |
 | February \- March 2025 | Design optimizations to toxic exposure flow as a Q2 FY2025 stretch goal | Lauren Dawson, Maya Carroll |
 
-# Further research needed {#further-research-needed}
+# Further Research Needed
 
 Our participant demographics lacked racial and gender diversity. In future tests, we aim to recruit a more diverse group of participants.
 
-## Task Methodology and Completion {#task-methodology-and-completion}
+## Task Methodology and Completion
 
 We asked all participants to complete 4 tasks:
 
-### Non-AT Cohort {#non-at-cohort}
+### Non-AT Cohort
 
 **In Task 1** we asked the participants to review the In Progress Form informational alert (blue box). On the Review and Submit page, we asked participants, "Talk me through what you would expect to do before pressing submit" and then asked "Is there any action left for you to take on this screen?".
 
@@ -578,7 +578,7 @@ We asked all participants to complete 4 tasks:
 * 4 of 5 Veterans were able to add a new location.  
 * 4 of 4 Veterans were able to add an unknown date range.
 
-### AT Cohort {#at-cohort}
+### AT Cohort
 
 In the Assistive Technology cohort, 2 of our Veterans experienced significant Staging and Login issues. Of the 4 Veterans who were able to complete tasks, we observed the following:
 
@@ -611,7 +611,7 @@ In the Assistive Technology cohort, 2 of our Veterans experienced significant St
 * 2 of 2 Veterans were able to add a new location.  
 * 2 of 2  Veterans were able to add an unknown date range. (P5AT skipped this task, but demonstrated the ability to do so during Task 3.)
 
-# Appendix {#appendix}
+# Appendix
 
 | Research Artifacts |  |
 | :---- | :---- |
@@ -619,13 +619,15 @@ In the Assistive Technology cohort, 2 of our Veterans experienced significant St
 | Conversation Guides | [**Non-AT Conversation Guide**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Conversation%20Guide.md) ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Conversation%20Guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Conversation%20Guide.md))  [**AT Conversation Guide**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Conversation%20Guide.md]\(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Conversation%20Guide.md) ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Conversation%20Guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Conversation%20Guide.md)) |
 | Topline Summaries | [**Non-AT Topline Summary**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Cohort%20Topline%20Summary.md) ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Cohort%20Topline%20Summary.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Cohort%20Topline%20Summary.md))  [**AT Topline Summary**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT%20Cohort%20Topline%20Summary.md) ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT%20Cohort%20Topline%20Summary.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT%20Cohort%20Topline%20Summary.md)) |
 
-**![][image17]** **Screenshot of research artifacts**
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeifLN6QnIKupGXOdbgUhrutCpoLtKbvyond_LBlBjLN66X667EBFPD9wmr6hcdWpK-AH0KY713eStGLOFyeOsWEN8b7pTNtsFzQeGc3c1-ehVvvFA7G4l5_vg0k_CEG1W_4NUtEw?key=Y4brp4DIxUDtCWSQ4qT7Us0H)**
+**Screenshot of research artifacts** 
 
-## Tools used for Synthesis {#tools-used-for-synthesis}
+## Tools used for Synthesis
 
 We captured notes from sessions in Mural and facilitated three cross-functional interactive workshops with our scrum team to debrief after each cohort, to synthesize insights, prioritize issues,  and brainstorm recommendations. We used affinity mapping to identity key themes in Veteran’s feedback across both cohorts.
 
-**![][image18]** **Toxic Exposure Research Synthesis Mural**  
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeTS4CA4hgDRBahZlwgGy1sY--hsIDbl8KTeKNs3wlq7UmxIoJgTZxvceKmjZsYXdDgBgNVe8CUJzOEFG57WGBWlVWPQMkUi5wXRbCh7k_D_GKiwgdBtnqV3lkPQP2YGJz5bko-?key=Y4brp4DIxUDtCWSQ4qT7Us0H)**
+**Toxic Exposure Research Synthesis Mural**  
 ([https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1733261432321/a676897488241a79719cde01e16fce170d515560](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1733261432321/a676897488241a79719cde01e16fce170d515560))
 
 * We used **Figma** to create a clickable prototype of the toxic exposure flow to raise stakeholder awareness, as the VBA is more familiar with the paper version of the 526EZ than the digital one.  
@@ -637,29 +639,29 @@ We captured notes from sessions in Mural and facilitated three cross-functional 
 * We used **Slack** for session planning and real-time communication among team members.  
 * Finally, **Zoom** was used to conduct and record live sessions with Veteran participants.
 
-## Pages and applications used {#pages-and-applications-used}
+## Pages and Applications Used
 
 * Staging environment where we tested: [https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction))  
 * Prototype created to explain toxic exposure to stakeholders: [https://www.figma.com/proto/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?page-id=3177%3A2\&node-id=3177-42\&p=f\&viewport=-1554%2C1741%2C0.5\&t=KTsLbkEdhPl9fW40-1\&scaling=scale-down\&content-scaling=fixed\&starting-point-node-id=3177%3A42](https://www.figma.com/proto/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?page-id=3177%3A2&node-id=3177-42&p=f&viewport=-1554%2C1741%2C0.5&t=KTsLbkEdhPl9fW40-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3177%3A42)
 
-## Other supporting documents created {#other-supporting-documents-created}
+## Other Supporting Documents Created
 
 | Staging Test Setup | [Test Setup SOAP](https://docs.google.com/document/d/1hpTDkdasQd-TrrS7Bsh8eJRLDcCeA8TdYKolr0UdRJk/edit?usp=sharing) ([https://docs.google.com/document/d/1hpTDkdasQd-TrrS7Bsh8eJRLDcCeA8TdYKolr0UdRJk/edit?usp=sharing](https://docs.google.com/document/d/1hpTDkdasQd-TrrS7Bsh8eJRLDcCeA8TdYKolr0UdRJk/edit?usp=sharing)) |
 | :---- | :---- |
 | **Staging Test Setup Zoom Instructions** | [**Test Setup SOAP Zoom walkthrough**](https://friendsfromthecity.zoom.us/rec/share/dz_Ktt-j4AC6IEgsnEJUy9DP1Q84dBJ2RHTHlgZ19IpM8p5K8_t1AT9WN2Y2VgiP.rAMswwcjqwgnuEb4?startTime=1732643558000) ([https://friendsfromthecity.zoom.us/rec/share/dz\_Ktt-j4AC6IEgsnEJUy9DP1Q84dBJ2RHTHlgZ19IpM8p5K8\_t1AT9WN2Y2VgiP.rAMswwcjqwgnuEb4?startTime=1732643558000](https://friendsfromthecity.zoom.us/rec/share/dz_Ktt-j4AC6IEgsnEJUy9DP1Q84dBJ2RHTHlgZ19IpM8p5K8_t1AT9WN2Y2VgiP.rAMswwcjqwgnuEb4?startTime=1732643558000)  **Pw:** 6gz1v\!uY) |
 | **Testing Roles & Responsibilities** | [**Testing roles and responsibilities**](https://docs.google.com/document/d/1BEmcl_JfuDFf0zMHcxYUrpmlfGumGBZbuMHD8MM7-SA/edit?usp=sharing) ([https://docs.google.com/document/d/1BEmcl\_JfuDFf0zMHcxYUrpmlfGumGBZbuMHD8MM7-SA/edit?usp=sharing](https://docs.google.com/document/d/1BEmcl_JfuDFf0zMHcxYUrpmlfGumGBZbuMHD8MM7-SA/edit?usp=sharing)) |
 
-## Secondary research {#secondary-research}
+## Secondary Research
 
 * Toxic Exposure Usability Research Summary 2023: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-07-Toxic-Exposure/Form%20526%20Toxic%20Exposure%20Usability%20Research%20Summary%202023.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-07-Toxic-Exposure/Form%20526%20Toxic%20Exposure%20Usability%20Research%20Summary%202023.pdf)  
 * Toxic Exposure Pre-launch Review of Medallia Data [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/Toxic%20Exposure%20Pre-Launch%20Review%20of%20Medallia%20Data.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/Toxic%20Exposure%20Pre-Launch%20Review%20of%20Medallia%20Data.md)  
 * Monitoring Toxic Exposure Release: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md)
 
-## Who we talked to {#who-we-talked-to}
+## Who We Talked To
 
 We talked to **11 participants in total**. (2 AT participants were unable to complete the study which is why some of our results are based on 9 total participants.).  We worked alongside the **recruiting company, Perigean** to schedule **5 Non-AT** and **6 AT Veteran participants** for this research. We ran both Non-AT and AT studies in parallel evaluating the same flow for each cohort.
 
-### Recruitment criteria {#recruitment-criteria}
+### Recruitment Criteria
 
 We talked to **11 total participants.**
 
@@ -734,7 +736,7 @@ Disability and Assistive Technology (AT):
 * Sighted keyboard: 0  
 * Captions: 0
 
-### Target Audience {#target-audience}
+### Target Audience
 
 During recruitment, we targeted finding Veterans who were:
 
@@ -747,7 +749,7 @@ We were unable to source participants who:
 * Use screen magnification  
 * Had a mix of gender and racial diversity
 
-#### Two Cohorts Recruited {#two-cohorts-recruited}
+#### Two Cohorts Recruited
 
 |  | Cohort 1: Non-AT Veterans who do not use assistive technology | Cohort 2: AT Veterans do not use assistive technology |
 | :---- | :---- | :---- |
@@ -756,7 +758,7 @@ We were unable to source participants who:
 | Demographics | Mix of experience filing for disability benefits \- All 5 had filed in the past.  2 participants w/ cognitive disabilities 3 rural; 2 urban Mix of education Missing: Racial+gender diversity | Mix of experience filing for disability benefits \- 5 of 6  had filed in the past,  1 vision impairment was not service related. 3 rural; 3 urban 4 Males, 2 Females Mix of education, 1 Veteran without a degree Racial diversity: 3 White or Caucasian, 2 Black or African American, 1 Asian |
 | Service History | 2 \- Veterans served between 1961-1980  1 \\- Veteran served between 1975-1990 3 \\- Veteran served between 1990-2001 0 \\- Veteran served after 2001 | 2 \- Veterans served between 1961-1980  4 \\- Veteran served between 1975-1990 1 \\- Veteran served between 1990-2001 0 \\- Veteran served after 2001 |
 
-### Additional Recruitment Details {#additional-recruitment-details}
+### Additional Recruitment Details
 
 We requested that Perigean:
 
@@ -770,20 +772,20 @@ We requested that Perigean:
    3\. Alternative navigation users  
    4\. Screen magnification users
 
-## Underserved groups we haven’t talked to {#underserved-groups-we-haven’t-talked-to}
+## Underserved Groups We Haven’t Talked To
 
-**![][image19]**
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4GKVJEB1sebwEiq6pX4brUzLSESQ2QgHIoV8dxJfvjc8YD0Y04tZtcsMr8iP-1HPaU4ZUTZIGDE7EO-EoeD4scaMCY0DespXwAgpiBJTxhPOo9ouslGPDfGGaN7gFEreyeecjVw?key=Y4brp4DIxUDtCWSQ4qT7Us0H)**
 
 [**View the VA Recruiting Checker (Opens In a New Tab)**](https://docs.google.com/spreadsheets/d/1JK-3FVbUdragHNUEsfmqHXmBae6pOBG12tdyxDa2bOQ/edit?usp=sharing)  
 [https://docs.google.com/spreadsheets/d/1JK-3FVbUdragHNUEsfmqHXmBae6pOBG12tdyxDa2bOQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1JK-3FVbUdragHNUEsfmqHXmBae6pOBG12tdyxDa2bOQ/edit?usp=sharing)
 
-This research does not include the perspectives of the following marginalized Veteran groups: *List all groups in red from the spreadsheet*
+This research does not include the perspectives of the following marginalized Veteran groups: \(all groups in red from the spreadsheet\)
 
 * Non-AT Cohort was missing: Racial and Gender diversity
 
 ### 
 
-## Research Background {#research-background}
+## Research Background
 
 The **Honoring our Promise to Address Comprehensive Toxics (PACT) Act**, signed into law in August 2022, expands health care and benefits for veterans exposed to these toxic substances. More info on the **PACT Act (Opens in a new tab)**: [https://staging.va.gov/pact-act-eligibility/introduction](https://staging.va.gov/pact-act-eligibility/introduction)
 
@@ -820,16 +822,16 @@ The TE design was first tested in **July 2023** and updated based on research an
 
 **Screenshot of the IPF Alert on the Review and Submit page**
 
-## Toxic Exposure Flow Prototype {#toxic-exposure-flow-prototype}
+## Toxic Exposure Flow Prototype
 
 [**Link to Toxic Exposure Flow Prototype**](https://www.figma.com/proto/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?page-id=3177%3A2&node-id=3177-42&p=f&viewport=-1554%2C1741%2C0.5&t=KTsLbkEdhPl9fW40-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3177%3A42)  
 *(made with screenshots from staging)*
 
 [https://www.figma.com/proto/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?page-id=3177%3A2\&node-id=3177-42\&p=f\&viewport=-1554%2C1741%2C0.5\&t=KTsLbkEdhPl9fW40-1\&scaling=scale-down\&content-scaling=fixed\&starting-point-node-id=3177%3A42](https://www.figma.com/proto/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?page-id=3177%3A2&node-id=3177-42&p=f&viewport=-1554%2C1741%2C0.5&t=KTsLbkEdhPl9fW40-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3177%3A42)
 
-**![][image21]**
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdBoqf5EF5DqvZZZ5JROeQRF-plpVGeh3H05w5NLNfkqxnISuwjC4UuiWbg22u63IhQsQljlSLl8bDbISO5R10qL_dtKBIA-axuXHPQ6IEDX6GOKIo5Hk-pMnutjjyh0MGWlOeBwg?key=Y4brp4DIxUDtCWSQ4qT7Us0H)**
 
-## Study timelines {#study-timelines}
+## Study timelines
 
 From November to December 2024 (10+ weeks)
 
@@ -867,13 +869,13 @@ From November to December 2024 (10+ weeks)
 | Evan Burnett, Jamie Klentsky Fae, Sara Smith | **A11y Specialists** Assistive Technology Setup and Support | [evan.burnett@coforma.io](mailto:evan.burnett@coforma.io) [jamie.klenetsky@coforma.io](mailto:jamie.klenetsky@coforma.io) [sara.smith@oddball.io](mailto:sara.smith@oddball.io) |
 | Maria Taylor [https://perigeantechnologies.com/veteran-user-experience-studies/](https://perigeantechnologies.com/veteran-user-experience-studies/) | **Perigean Coordinator**  Participant recruiting and scheduling | [maria@perigeantechnologies.com](mailto:maria@perigeantechnologies.com) |
 
-## Research Lessons Learned {#research-lessons-learned}
+## Research Lessons Learned
 
 Accessibility issues with the study impacted how effectively assistive tech users were able to participate in sessions.
 
-### Research Issues {#research-issues}
+### Research Issues
 
-#### Logging Into Staging Difficult {#logging-into-staging-difficult}
+#### Logging Into Staging Difficult
 
 Logging onto staging was time-consuming and frustrating for participants.
 
@@ -882,7 +884,7 @@ Logging onto staging was time-consuming and frustrating for participants.
 * Recruitment emails from Perigean do not use accessible links (lacking descriptive link text; too much text).  
 * We worked with the Conditions team to try to implement a login workaround similar to their prototype, but based on the need for pre-fill information, it just wasn't viable for this study. In the future, we will ensure our timeline allows for time to build an accessible prototype and work with Perigean to streamline emails.
 
-#### 526ez and Siri {#526ez-and-siri}
+#### 526ez and Siri
 
 The 526ez is not accessible for Siri-users.
 
@@ -890,7 +892,7 @@ The 526ez is not accessible for Siri-users.
 * As a result, we cancelled one session in advance and were forced to end a screen reader session early when we learned that P9 struggled to type (letter-by-letter data entry).  
 * In the future, we will explore what it takes to make our form accessible to Siri users.
 
-#### AT Participants may need support {#at-participants-may-need-support}
+#### AT Participants may need support
 
 Nearly half of AT users shared that they often ask for help from others in a real life scenario.
 
