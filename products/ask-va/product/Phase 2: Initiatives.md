@@ -1,5 +1,4 @@
-# Phase 2: Initiatives
-**January to March**
+# Phase 2: Initiatives - January to March
 
 Last updated by @tygindraux: January 17, 2025
 
