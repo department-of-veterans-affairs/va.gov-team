@@ -516,54 +516,54 @@ Of those who had heard of the Pact Act, 2 didn’t think they’d be eligible; 2
 ## High/Medium Priority Items
 
 1. Veterans did not appear to notice the IPF Alert and the TE questions were hard to find.  
-   * Possibly switch the alert component from the blue informational alert to the yellow warning alert.  
-   * For screen readers, announce that the form update is an alert/ important information.  
-   * Consider making it required for Veterans to acknowledge the alert.  
+  * Possibly switch the alert component from the blue informational alert to the yellow warning alert.  
+  * For screen readers, announce that the form update is an alert/ important information.
+  * Consider making it required for Veterans to acknowledge the alert.  
 2. Premature error validation and an unclear date format expectation made date ranges difficult for screen readers to complete.  
-* Consider allowing users to enter date information before displaying the error (move field validation to the end of page).  
-* Set clear format expectations for the date, including \# of digits for year.  
+  * Consider allowing users to enter date information before displaying the error (move field validation to the end of page).  
+  * Set clear format expectations for the date, including \# of digits for year.  
 3. Users frequently got lost or confused while navigating back through the list and loops to edit responses (Task 4).  
-* Update custom ‘checkbox and loop’ components to v3 components.  
-* Make headings more prominent for Veterans.  
-* Move focus for AT to the H3.  
+  * Update custom ‘checkbox and loop’ components to v3 components.  
+  * Make headings more prominent for Veterans.
+  * Move focus for AT to the H3.  
 4. The requirement to authenticate to preview the form and to enter dates into required fields to progress through the pages created a less inclusive user experience.  
-* Explore opportunities to allow veterans to preview the form without authenticating (ex: delaying the need to authenticate until a veteran tries to submit a claim at the end of the flow.)  
-* Implement less restrictive error handling, so that veterans can navigate through the form without entering data into required fields.  
+  * Explore opportunities to allow veterans to preview the form without authenticating (ex: delaying the need to authenticate until a veteran tries to submit a claim at the end of the flow.)  
+  * Implement less restrictive error handling, so that veterans can navigate through the form without entering data into required fields.  
 5. When participants navigated to the new questions from the IPF alert, they expected they would be able to easily return to the Review and Submit page.  
-* For Veterans with an IPF, add an off ramp from the toxic exposure flow back to the Review and Submit page.  
-* Clarify where the link is taking Veterans in the descriptive link text “Answer our new questions.”  
+  * For Veterans with an IPF, add an off ramp from the toxic exposure flow back to the Review and Submit page.  
+  * Clarify where the link is taking Veterans in the descriptive link text “Answer our new questions.”  
 6. Veterans struggled to orient themselves within the form and did not understand how long the TE flow would be.  
-* Update and test the copy in the H3 and H4 page headings.  
-* Change the focus for screen readers from the progress stepper “ex: 2 of 5 Conditions” to the H3 heading “ex: location/condition.”  
-* Add an intro page that sets Veteran expectations for the TE flow.  
+  * Update and test the copy in the H3 and H4 page headings.  
+  * Change the focus for screen readers from the progress stepper “ex: 2 of 5 Conditions” to the H3 heading “ex: location/condition.”  
+  * Add an intro page that sets Veteran expectations for the TE flow.  
 7. Location pages- especially the Gulf War page \- was burdensome for AT users to review and complete.  
-* Limit the number of controls to max 7 per page.  
-* Break long lists across multiple pages.  
-* Collaborate with VBA to discuss how many locations are required to adjudicate claims.  
+  * Limit the number of controls to max 7 per page.  
+  * Break long lists across multiple pages.  
+  * Collaborate with VBA to discuss how many locations are required to adjudicate claims.  
 8. Veterans felt concerned about providing VA with inexact dates- but did not see “I’m not sure” as a viable alternative to concrete date ranges.  
-* Switch MM/DD/YYYY date component to MM/YYYY component.  
-* As an immediate improvement, consider changing the example date to remove the specific day. From "For example: January 19, 2000" to "For example: January 2000".  
-* Consider moving the “I’m not sure checkbox” above the date entry fields to assist AT users, and to provide a level of comfort to all users that approximate dates are acceptable.  
+  * Switch MM/DD/YYYY date component to MM/YYYY component.  
+  * As an immediate improvement, consider changing the example date to remove the specific day. From "For example: January 19, 2000" to "For example: January 2000".  
+  * Consider moving the “I’m not sure checkbox” above the date entry fields to assist AT users, and to provide a level of comfort to all users that approximate dates are acceptable.  
 9. Veterans were unclear about what specific date ranges VA was requesting on detail screens.  
-* Clarify “service start date” so Veterans understand what date range is expected.  
-* Add hint text to clarify what dates are needed.  
-10. Veterans pointed out terminology they were unfamiliar with and would like to see better defined.  
-* Add hint text or links to definitions to clarify lesser known terms.
+  * Clarify “service start date” so Veterans understand what date range is expected.  
+  * Add hint text to clarify what dates are needed.  
+10. Veterans pointed out terminology they were unfamiliar with and would like to see better defined.
+  * Add hint text or links to definitions to clarify lesser known terms.
 
 ## Low Priority Items
 
 11. Participants did not know that fields were optional-- but likely would have felt pressure to fill them out either way.  
-* Propose visual optimizations and A11y improvements to clarify which fields are required.  
-* Audit existing optional fields and determine if they are necessary for adjudication.  
-12. Additional information sprinkled through the TE flow was rarely read by Veterans.  
-* Expose additional info on the page to make it more visible.  
-* Consider A11y improvements to increase engagement with AT-users.  
-13. Some participants who served in Vietnam expected to see Agent Orange appear earlier in the flow.  
-* In the future, consider personalizing the flow to match the Veteran’s service history.  
-14. A majority of Veterans were already familiar with the Pact Act, but some were unsure if they met eligibility requirements. Some were unsure on how to connect  toxic exposure conditions with their service history without medical advice. Some were unsure where to go to on VA.gov  to file.  
-* Provide in-app support to help Veterans determine eligibility.  
-* Add links to toxic exposure eligibility to Disability dropdown menu, Disability Hub, the eligibility page, and embedded in the toxic exposure flow in the 526ez.  
-* Update VA PACT Act marketing and web pages to drive veterans to file on 526ez.
+   * Propose visual optimizations and A11y improvements to clarify which fields are required.   
+   * Audit existing optional fields and determine if they are necessary for adjudication.   
+12. Additional information sprinkled through the TE flow was rarely read by Veterans.   
+   * Expose additional info on the page to make it more visible.   
+   * Consider A11y improvements to increase engagement with AT-users.   
+13. Some participants who served in Vietnam expected to see Agent Orange appear earlier in the flow.   
+   * In the future, consider personalizing the flow to match the Veteran’s service history.   
+14. A majority of Veterans were already familiar with the Pact Act, but some were unsure if they met eligibility requirements. Some were unsure on how to connect  toxic exposure conditions with their service history without medical advice. Some were unsure where to go to on VA.gov to file.   
+   * Provide in-app support to help Veterans determine eligibility.   
+   * Add links to toxic exposure eligibility to Disability dropdown menu, Disability Hub, the eligibility page, and embedded in the toxic exposure flow in the 526ez.   
+   * Update VA PACT Act marketing and web pages to drive veterans to file on 526ez. 
 
 # Next Steps
 
@@ -649,9 +649,9 @@ In the Assistive Technology cohort, 2 of our Veterans experienced significant St
 ## Research Artifacts
 | Artifacts |  |
 | :---- | :---- |
-| Research Plans | [**Non-AT Research Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Research%20Plan.md)  ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Research%20Plan.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Research%20Plan.md))  [**AT Research Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Research%20Plan.md]\(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Research%20Plan.md) ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Research%20Plan.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Research%20Plan.md)) |
-| Conversation Guides | [**Non-AT Conversation Guide**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Conversation%20Guide.md) ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Conversation%20Guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Conversation%20Guide.md))  [**AT Conversation Guide**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Conversation%20Guide.md]\(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Conversation%20Guide.md) ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Conversation%20Guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Conversation%20Guide.md)) |
-| Topline Summaries | [**Non-AT Topline Summary**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Cohort%20Topline%20Summary.md) ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Cohort%20Topline%20Summary.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Cohort%20Topline%20Summary.md))  [**AT Topline Summary**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT%20Cohort%20Topline%20Summary.md) ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT%20Cohort%20Topline%20Summary.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT%20Cohort%20Topline%20Summary.md)) |
+| Research Plans | [**Non-AT Research Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Research%20Plan.md)  ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Research%20Plan.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Research%20Plan.md)) <br><br> [**AT Research Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Research%20Plan.md]\(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Research%20Plan.md) ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Research%20Plan.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Research%20Plan.md)) |
+| Conversation Guides | [**Non-AT Conversation Guide**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Conversation%20Guide.md) ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Conversation%20Guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Conversation%20Guide.md)) <br><br> [**AT Conversation Guide**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Conversation%20Guide.md]\(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Conversation%20Guide.md) ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Conversation%20Guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Conversation%20Guide.md)) |
+| Topline Summaries | [**Non-AT Topline Summary**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Cohort%20Topline%20Summary.md) ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Cohort%20Topline%20Summary.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Cohort%20Topline%20Summary.md)) <br><br> [**AT Topline Summary**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT%20Cohort%20Topline%20Summary.md) ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT%20Cohort%20Topline%20Summary.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT%20Cohort%20Topline%20Summary.md)) |
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeifLN6QnIKupGXOdbgUhrutCpoLtKbvyond_LBlBjLN66X667EBFPD9wmr6hcdWpK-AH0KY713eStGLOFyeOsWEN8b7pTNtsFzQeGc3c1-ehVvvFA7G4l5_vg0k_CEG1W_4NUtEw?key=Y4brp4DIxUDtCWSQ4qT7Us0H)**
 **Screenshot of research artifacts** 
@@ -682,7 +682,7 @@ We captured notes from sessions in Mural and facilitated three cross-functional 
 
 | Staging Test Setup | [Test Setup SOAP](https://docs.google.com/document/d/1hpTDkdasQd-TrrS7Bsh8eJRLDcCeA8TdYKolr0UdRJk/edit?usp=sharing) ([https://docs.google.com/document/d/1hpTDkdasQd-TrrS7Bsh8eJRLDcCeA8TdYKolr0UdRJk/edit?usp=sharing](https://docs.google.com/document/d/1hpTDkdasQd-TrrS7Bsh8eJRLDcCeA8TdYKolr0UdRJk/edit?usp=sharing)) |
 | :---- | :---- |
-| **Staging Test Setup Zoom Instructions** | [**Test Setup SOAP Zoom walkthrough**](https://friendsfromthecity.zoom.us/rec/share/dz_Ktt-j4AC6IEgsnEJUy9DP1Q84dBJ2RHTHlgZ19IpM8p5K8_t1AT9WN2Y2VgiP.rAMswwcjqwgnuEb4?startTime=1732643558000) ([https://friendsfromthecity.zoom.us/rec/share/dz\_Ktt-j4AC6IEgsnEJUy9DP1Q84dBJ2RHTHlgZ19IpM8p5K8\_t1AT9WN2Y2VgiP.rAMswwcjqwgnuEb4?startTime=1732643558000](https://friendsfromthecity.zoom.us/rec/share/dz_Ktt-j4AC6IEgsnEJUy9DP1Q84dBJ2RHTHlgZ19IpM8p5K8_t1AT9WN2Y2VgiP.rAMswwcjqwgnuEb4?startTime=1732643558000)  **Pw:** 6gz1v\!uY) |
+| **Staging Test Setup Zoom Instructions** | [**Test Setup SOAP Zoom walkthrough**](https://friendsfromthecity.zoom.us/rec/share/dz_Ktt-j4AC6IEgsnEJUy9DP1Q84dBJ2RHTHlgZ19IpM8p5K8_t1AT9WN2Y2VgiP.rAMswwcjqwgnuEb4?startTime=1732643558000) ([https://friendsfromthecity.zoom.us/rec/share/dz\_Ktt-j4AC6IEgsnEJUy9DP1Q84dBJ2RHTHlgZ19IpM8p5K8\_t1AT9WN2Y2VgiP.rAMswwcjqwgnuEb4?startTime=1732643558000](https://friendsfromthecity.zoom.us/rec/share/dz_Ktt-j4AC6IEgsnEJUy9DP1Q84dBJ2RHTHlgZ19IpM8p5K8_t1AT9WN2Y2VgiP.rAMswwcjqwgnuEb4?startTime=1732643558000)  **Pw:** 6gz1v\!uY) |
 | **Testing Roles & Responsibilities** | [**Testing roles and responsibilities**](https://docs.google.com/document/d/1BEmcl_JfuDFf0zMHcxYUrpmlfGumGBZbuMHD8MM7-SA/edit?usp=sharing) ([https://docs.google.com/document/d/1BEmcl\_JfuDFf0zMHcxYUrpmlfGumGBZbuMHD8MM7-SA/edit?usp=sharing](https://docs.google.com/document/d/1BEmcl_JfuDFf0zMHcxYUrpmlfGumGBZbuMHD8MM7-SA/edit?usp=sharing)) |
 
 ## Secondary Research
@@ -785,12 +785,12 @@ We were unable to source participants who:
 
 #### Two Cohorts Recruited
 
-|  | Cohort 1: Non-AT Veterans who do not use assistive technology | Cohort 2: AT Veterans do not use assistive technology |
+|  | Cohort 1: Non-AT Veterans who do not use assistive technology | Cohort 2: AT Veterans do not use assistive technology  |
 | :---- | :---- | :---- |
-| Sessions | We conducted five (**5**) 60-minute moderated usability sessions with non-AT users on staging. (P1, P2, P4, P5, P10AT\*)   Note: Although classified as an AT User \\- P10AT did not use screen magnification or other assistive technology during his session, so this user was moved into the Non-AT cohort for calculations of findings. | We conducted six (**6**), 90-minute, moderated usability sessions with AT users, in staging. (P1AT, P4AT, P11AT, P8AT, P5AT, P9AT).   P1 and P9 were blocked by staging and unable to complete the study. P11 and P8 did not complete Task 4 and were considered ‘incomplete’. 2 users completed all tasks: P4AT and P5AT. |
-| Devices & Technologies | **2** mobile users  \*\*3\*\* desktop users | **5** screen reader users   2 VoiceOver users on mobile 1 VoiceOver user on tablet 1 Fusion on desktop 1 JAWS on desktop \*\*1\*\* alternative navigation user TalkBack on mobile |
-| Demographics | Mix of experience filing for disability benefits \- All 5 had filed in the past.  2 participants w/ cognitive disabilities 3 rural; 2 urban Mix of education Missing: Racial+gender diversity | Mix of experience filing for disability benefits \- 5 of 6  had filed in the past,  1 vision impairment was not service related. 3 rural; 3 urban 4 Males, 2 Females Mix of education, 1 Veteran without a degree Racial diversity: 3 White or Caucasian, 2 Black or African American, 1 Asian |
-| Service History | 2 \- Veterans served between 1961-1980  1 \\- Veteran served between 1975-1990 3 \\- Veteran served between 1990-2001 0 \\- Veteran served after 2001 | 2 \- Veterans served between 1961-1980  4 \\- Veteran served between 1975-1990 1 \\- Veteran served between 1990-2001 0 \\- Veteran served after 2001 |
+| Sessions | We conducted five (**5**) 60-minute moderated usability sessions with non-AT users on staging. (P1, P2, P4, P5, P10AT\*)  <br><br>Note: Although classified as an AT User \- P10AT did not use screen magnification or other assistive technology during his session, so this user was moved into the Non-AT cohort for calculations of findings.  | We conducted six (**6**), 90-minute, moderated usability sessions with AT users, in staging. (P1AT, P4AT, P11AT, P8AT, P5AT, P9AT).  <br><br>P1 and P9 were blocked by staging and unable to complete the study.  <br><br>P11 and P8 did not complete Task 4 and were considered ‘incomplete’.  2 users completed all tasks: P4AT and P5AT. |
+| Devices & Technologies | **2** mobile users <br>**3** desktop users | **5** screen reader users  <br>2 VoiceOver users on mobile <br>1 VoiceOver user on tablet <br>1 Fusion on desktop <br>1 JAWS on desktop  <br>**1** alternative navigation user TalkBack on mobile |
+| Demographics | Mix of experience filing for disability benefits \- All 5 had filed in the past. <br><br>2 participants w/ cognitive disabilities <br><br>3 rural; 2 urban <br><br>Mix of education <br><br>Missing: Racial+gender diversity | Mix of experience filing for disability benefits \- 5 of 6  had filed in the past, <br><br>1 vision impairment was not service related. <br><br>3 rural; 3 urban <br><br>4 Males, 2 Females <br><br>Mix of education, 1 Veteran without a degree <br><br>Racial diversity: <br>3 White or Caucasian, <br>2 Black or African American, <br>1 Asian |
+| Service History | 2 \- Veterans served between 1961-1980 <br>1 \-  Veteran served between 1975-1990 <br>3 \- Veterans served between 1990-2001 <br>0 \- Veterans served after 2001  | 2 \- Veterans served between 1961-1980 <br>4 \-  Veterans served between 1975-1990 <br>1 \- Veteran served between 1990-2001 <br>0 \- Veterans served after 2001  |
 
 ### Additional Recruitment Details
 
@@ -801,10 +801,10 @@ We requested that Perigean:
 
 **4 screeners** were used (see Test Plans \- [Non-AT Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/Non-AT%20Research%20Plan.md) and [AT Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-11-Toxic%20Exposure/AT-%20Research%20Plan.md)):
 
-1. Non-AT users  
-   2\. Screen reader users  
-   3\. Alternative navigation users  
-   4\. Screen magnification users
+1. Non-AT users
+2. Screen reader users
+3. Alternative navigation users
+4. Screen magnification users
 
 ## Underserved Groups We Have Not Talked To
 
@@ -874,13 +874,13 @@ From November to December 2024 (10+ weeks)
 
 | Sprint | Dates | Deliverables |
 | :---- | :---- | :---- |
-| Sprint 9 | October 23 \- November 5, 2024 | Secondary research  TE knowledge shares  Align on research goals and methods |
-| Sprint 10 | November 6 \- November 19, 2024 | Research plans and screeners Conversations guides Test user setup plan Platform research review  Kickoff with Perigean |
-| Sprint 11 | November 20 \- December 3, 2024 | Recruiting and scheduling  Pilot studies with CAIA A11y  Moderated testing with non-AT participants |
-| Sprint 12 | December 4 \- December 17, 2024 | Moderated testing with AT participants  Facilitate debrief workshops  Facilitate prioritization and brainstorming workshop  Topline report summaries |
-| Sprint 13\* *\*Sprint 13 was extended to three weeks due to a billing cycle stipulation.* | December 18 \- January 7, 2024 | Data synthesis  Share-out presentation with VBA & OCTO  Recording share-out to Benefits & Health Second research share-out (due to holidays) on 1/13/2025   Final Github report  Design COP share-out on 1/27/2025 |
+| Sprint 9 | October 23 \- November 5, 2024 | Secondary research  TE knowledge shares  Align on research goals and methods |
+| Sprint 10 | November 6 \- November 19, 2024 | Research plans and screeners Conversations guides Test user setup plan Platform research review  Kickoff with Perigean |
+| Sprint 11 | November 20 \- December 3, 2024 | Recruiting and scheduling  Pilot studies with CAIA A11y  Moderated testing with non-AT participants |
+| Sprint 12 | December 4 \- December 17, 2024 | Moderated testing with AT participants  Facilitate debrief workshops  Facilitate prioritization and brainstorming workshop  Topline report summaries |
+| Sprint 13\* *\*Sprint 13 was extended to three weeks due to a billing cycle stipulation.* | December 18 \- January 7, 2024 | Data synthesis  Share-out presentation with VBA & OCTO  Recording share-out to Benefits & Health Second research share-out (due to holidays) on 1/13/2025   Final Github report  Design COP share-out on 1/27/2025 |
 
-## Our Roles {#our-roles}
+## Our Roles
 
 **15+ individuals contributed to this research study.**
 
@@ -893,15 +893,15 @@ From November to December 2024 (10+ weeks)
 
 | Name | Roles | Email |
 | :---- | :---- | :---- |
-| Shane Strassberg | **OCTO Research Lead**  Research Ops Manager, Approver, Advisor | [shane.strassberg@va.gov](mailto:shane.strassberg@va.gov) |
-| Shannon Ford | **OCTO Design Lead**  Design Manager, Approver, Advisor | [shannon.ford1@va.gov](mailto:shannon.ford1@va.gov) |
-| Maya Carroll | **Sr. Human-Centered Design Lead**  Research Ops Coordinator, Research Moderator, Workshop Facilitator, Presenter, Data analyst | [maya.carroll@agile6.com](mailto:maya.carroll@agile6.com), [maya.carroll@va.gov](mailto:maya.carroll@va.gov) |
-| Lauren Dawson | **UX Designer / UX Researcher**   Note Taker, Presenter, Data analyst | [Lauren.Dawson@agile6.com](mailto:Lauren.Dawson@agile6.com), [Lauren.Dawson1@va.gov](mailto:Lauren.Dawson1@va.gov) |
-| Evelyn Hilbrich Davis | **UX Researcher**  Research Ops Coordinator, Research Moderator, Workshop Facilitator, Presenter, Data analyst | [evelyn@cityfriends.tech](mailto:evelyn@cityfriends.tech) |
-| Christine Cereca, Jared Pace, Aurora Hampton, Seth Darr, Tomassina Miller, Pam Pacalintal | **Cross-functional Scrum team members**  Research Observers, Staging-user / Test Environment Setup, Workshop Participants, Note-Takers | [christine@cityfriends.tech](mailto:christine@cityfriends.tech), [jared.pace@agile6.com](mailto:jared.pace@agile6.com), [aurora.hampton@agile6.com](mailto:aurora.hampton@agile6.com), [pam.macalintal@agile6.com](mailto:pam.macalintal@agile6.com), [seth.darr@agile6.com](mailto:seth.darr@agile6.com), [tommasinamiller@navapbc.com](mailto:tommasinamiller@navapbc.com), |
-| Tracy Tran | **Lead Accessibility Engineer**  Planned AT recruitment/identified potential issues for the AT conversation guide, Research Observer, Workshop Participant, and subbed for CAIA Assistive Technology Setup and Support, as needed | [tracy.tran@agile6.com](mailto:tracy.tran@agile6.com) |
-| Evan Burnett, Jamie Klentsky Fae, Sara Smith | **A11y Specialists** Assistive Technology Setup and Support | [evan.burnett@coforma.io](mailto:evan.burnett@coforma.io) [jamie.klenetsky@coforma.io](mailto:jamie.klenetsky@coforma.io) [sara.smith@oddball.io](mailto:sara.smith@oddball.io) |
-| Maria Taylor [https://perigeantechnologies.com/veteran-user-experience-studies/](https://perigeantechnologies.com/veteran-user-experience-studies/) | **Perigean Coordinator**  Participant recruiting and scheduling | [maria@perigeantechnologies.com](mailto:maria@perigeantechnologies.com) |
+| Shane Strassberg | **OCTO Research Lead** <br>Research Ops Manager, Approver, Advisor | [shane.strassberg@va.gov](mailto:shane.strassberg@va.gov)  |
+| Shannon Ford | **OCTO Design Lead** <br>Design Manager, Approver, Advisor | [shannon.ford1@va.gov](mailto:shannon.ford1@va.gov)  |
+| Maya Carroll | **Sr. Human-Centered Design Lead** <br>Research Ops Coordinator, Research Moderator, Workshop Facilitator, Presenter, Data analyst | [maya.carroll@agile6.com](mailto:maya.carroll@agile6.com), [maya.carroll@va.gov](mailto:maya.carroll@va.gov) |
+| Lauren Dawson | **UX Designer / UX Researcher**  <br>Note Taker, Presenter, Data analyst | [Lauren.Dawson@agile6.com](mailto:Lauren.Dawson@agile6.com), [Lauren.Dawson1@va.gov](mailto:Lauren.Dawson1@va.gov) |
+| Evelyn Hilbrich Davis | **UX Researcher** <br>Research Ops Coordinator, Research Moderator, Workshop Facilitator, Presenter, Data analyst | [evelyn@cityfriends.tech](mailto:evelyn@cityfriends.tech) |
+| Christine Cereca, Jared Pace, Aurora Hampton, Seth Darr, Tomassina Miller, Pam Pacalintal | **Cross-functional Scrum team members** <br>Research Observers, Staging-user / Test Environment Setup, Workshop Participants, Note-Takers | [christine@cityfriends.tech](mailto:christine@cityfriends.tech), [jared.pace@agile6.com](mailto:jared.pace@agile6.com), [aurora.hampton@agile6.com](mailto:aurora.hampton@agile6.com), [pam.macalintal@agile6.com](mailto:pam.macalintal@agile6.com), [seth.darr@agile6.com](mailto:seth.darr@agile6.com), [tommasinamiller@navapbc.com](mailto:tommasinamiller@navapbc.com),  |
+| Tracy Tran | **Lead Accessibility Engineer** <br>Planned AT recruitment/identified potential issues for the AT conversation guide, Research Observer, Workshop Participant, and subbed for CAIA Assistive Technology Setup and Support, as needed | [tracy.tran@agile6.com](mailto:tracy.tran@agile6.com) |
+| Evan Burnett, Jamie Klentsky Fae, Sara Smith | **A11y Specialists**<br> Assistive Technology Setup and Support  | [evan.burnett@coforma.io](mailto:evan.burnett@coforma.io) [jamie.klenetsky@coforma.io](mailto:jamie.klenetsky@coforma.io) [sara.smith@oddball.io](mailto:sara.smith@oddball.io)  |
+| Maria Taylor [https://perigeantechnologies.com/veteran-user-experience-studies/](https://perigeantechnologies.com/veteran-user-experience-studies/) | **Perigean Coordinator** <br>Participant recruiting and scheduling | [maria@perigeantechnologies.com](mailto:maria@perigeantechnologies.com)  |
 
 ## Research Lessons Learned
 
