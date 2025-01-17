@@ -51,9 +51,9 @@ No feedback for 1/13/25
 #### Google Analytics
 | Metric Name | Description |
 | ----------- | ----------- |
-| Unique page views | Available 1/17/25|
-| Views per user | Available 1/17/25 |
-| Time spent | Available 1/17/25 |
+| Unique page views | 620|
+| Views per user | 1.17 |
+| Time spent | 1 min 17 sec |
 
 #### DataDog
 | Metric Name | Description |
@@ -67,27 +67,41 @@ No feedback for 1/13/25
 
 ### 1/16/25 - 50%
 #### Medallia Feedback
+
 #### Google Analytics
+| Unique page views | Available 1/21/25|
+| Views per user | Available 1/21/25 |
+| Time spent | Available 1/21/25 |
+
 #### DataDog
 
-### 1/16/25 - 50%
-#### Medallia Feedback
-#### Google Analytics
-#### DataDog
 
 ### 1/17/25 - 50%
 #### Medallia Feedback
+
 #### Google Analytics
+| Unique page views | Available 1/21/25|
+| Views per user | Available 1/21/25 |
+| Time spent | Available 1/21/25 |
+
 #### DataDog
 
 ### 1/18/25 - 50%
 #### Medallia Feedback
 #### Google Analytics
+| Unique page views | Available 1/21/25|
+| Views per user | Available 1/21/25 |
+| Time spent | Available 1/21/25 |
+
 #### DataDog
 
 ### 1/19/25 - 50%
 #### Medallia Feedback
 #### Google Analytics
+| Unique page views | Available 1/21/25|
+| Views per user | Available 1/21/25 |
+| Time spent | Available 1/21/25 |
+
 #### DataDog
 
 ### 1/20/25 - 50%
