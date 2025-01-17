@@ -30,7 +30,6 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 1. How do Veterans find out about filing a travel reimbursement claim by texting travel to 54804? 
 1. How easy or difficult is it for Veterans to initiate a claim?
 1. How easy or difficult is it to complete filing a claim?
-1. How easy or difficult is it to file more than 1 claim at multiple facilities? (If applicable.)
 1. Do Veterans understand what claim types they can file with this tool?
 1. Do Veterans understand when they can file claims with this tool?
 
@@ -66,8 +65,6 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
    - Veterans will find it extremely easy to initiate a claim, but some will have difficulties because of cellular reception. 
 1. How easy or difficult is it to complete filing a claim?
    - Veterans will find it extremely easy to file a claim from their smartphones. 
-1. How easy or difficult is it to file more than 1 claim at multiple facilities? (If applicable.)
-   - Veterans will find it extremely easy to file more than 1 claim in a single form (and extremely easy to understand that they're filing for multiple facilities). 
 1. Do Veterans understand what claim types they can file with this tool?
    - Veterans will be able to easily identify the two types of claims that they can file. 
 1. Do Veterans understand when they can file claims with this tool?
