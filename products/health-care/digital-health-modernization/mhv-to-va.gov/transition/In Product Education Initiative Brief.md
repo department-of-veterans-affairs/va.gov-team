@@ -73,12 +73,13 @@ As we transition Veterans to our new MHV portal we want a way to introduce them 
 - The component should visually stand apart from the tool UI ie. not using the same colors as alerts, etc. But it should not disrupt the tool interface or overlap with any page content or UI elements.  The component should be clearly associated with the UI element being referenced in the educational content for both sighted and non-sighted users.
 - Content should be clear and concise and limited to 2 sentences with a max of 120 characters total.  The first sentence of the component will be announced to screen readers when focusing on the related elements so it must include the most important content.  
 - The component should be used sparingly for changes that impact a lot of users or a critical function to use the tool effectively.  Ideally there should only be 1 IPE per page and not used on every page. It should not be used for important information needed to perform a task.  It should not be nested within a page or used for complex interactions.
+   [Figma File](https://www.figma.com/design/5uTyxzQa92awJV0dcVEhM6/Z---Navigation%2C-IA-%2B-In-Product-Education?node-id=4127-92994&t=PjEFG7nzKv601LsX-0)
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
 #### Additional Resources 
-- [Figma File](https://www.figma.com/design/5uTyxzQa92awJV0dcVEhM6/Z---Navigation%2C-IA-%2B-In-Product-Education?node-id=4127-92994&t=PjEFG7nzKv601LsX-0)
+
 - Design inspiration - [Google Rich Tooltip](https://m3.material.io/components/tooltips/specs)
 --- 
 
