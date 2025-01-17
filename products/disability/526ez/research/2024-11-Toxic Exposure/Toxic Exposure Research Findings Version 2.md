@@ -60,17 +60,17 @@ Initially, we considered conducting a single study with one test plan that inclu
 
 For example, “*Are location checkbox pages (especially those with many locations) overwhelming for screen readers?*” is an important consideration for Veterans using assistive technology.
 
-# Research Overview {#research-overview}
+# Research Overview
 
-## Problem Statement {#problem-statement}
+## Problem Statement
 
 Veterans exposed to toxic chemicals during their military service face significant challenges filing disability claims for presumptive conditions online, delaying access to the compensation benefits essential for managing their health needs.
 
-## Solution {#solution}
+## Solution
 
 Incorporate questions related to toxic exposures into the 21-526EZ paper and online form, enabling Veterans to claim toxic exposures while filing for disability compensation.
 
-## Desired Outcomes {#desired-outcomes}
+## Desired Outcomes
 
 **Key result 1: The online form has parity with the updated paper form**  
 100% of Veterans using the digitized disability form will use the most up-to-date version of the form, including toxic exposure information. 
@@ -84,7 +84,7 @@ Gather feedback and identify issues with the Toxic Exposure release through quan
 **Key result 4: Validate the Veteran experience is inclusive**  
 Test the usability of the toxic exposure questionnaire through moderated tests with Veterans using assistive technologies.
 
-# Research Questions {#research-questions}
+# Research Questions
 
 |  | Non-AT Veterans who do not use assistive technology | AT Veterans who use assistive technology |
 | :---- | :---- | :---- |
@@ -92,7 +92,7 @@ Test the usability of the toxic exposure questionnaire through moderated tests w
 | Goal 2 | **To determine if Veterans understand that the form has changed and that they can navigate to and add data for TE.**   Do Veterans with an In Progress Form understand that the form has changed and that they have the opportunity to answer new questions? To what extent do users opt in to respond to the toxic exposure questions? In what cases do users opt out? | **To determine if Veterans who use assistive technology understand that the form has changed and that they can navigate to and add data for TE.**  Are Veterans using assistive technology able to understand from the alert that the form has changed? Can users navigate to the toxic exposure questions from the review and submit screen? If they click on the link to answer new questions, do they understand they are going back so many pages? Do users experience problems closing the alert? If they close the blue box do they lose focus? To what extent do users opt in to respond to the toxic exposure questions? In what cases do users opt out? |
 | Goal 3 | **To assess how confident Veterans feel about their answers to toxic exposure questions.**   Overall, how do Veterans feel about the experience? What will users do when they are unsure of specific dates or locations? How does this uncertainty impact their confidence in the accuracy of their responses overall? Do Veterans understand that date fields are optional? If so, how do they feel about skipping over optional fields? How do users interact with the “I’m not sure” check box? Does the “comfort choice” increase confidence in their response? | **To assess Veterans who use assistive technology confidence about their answers to toxic exposure questions.**   Do AT users feel confident about the accuracy of their answers? How would they go back and check them, if they weren’t sure? Do Veterans know if they are eligible to complete TE questions? How do they know? What will users do when they are unsure of specific dates or locations? How does this uncertainty impact their confidence in the accuracy of their responses overall? Do Veterans feel comfortable skipping over optional fields? How do users interact with the “I’m not sure” check box? Does the “comfort choice” increase confidence in their response? |
 
-# Methodology {#methodology}
+# Methodology
 
 We conducted 1-1.5 hour long remote moderated evaluative mixed methods testing sessions via Zoom on December 2–17, 2024\. We tested the new Toxic Exposure flow in a staging environment with 11 participants, segmented into two cohorts:
 
