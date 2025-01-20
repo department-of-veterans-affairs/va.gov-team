@@ -31,12 +31,12 @@ This research corresponds to the following points of the Veteran journey:
 This study will give us insight into if Veterans from pilot sites were able to successfully and easily complete the Community Care Self-Scheduling process, as well as capture any feedback they have about the process. 
 
 ### Research Questions
-- Question 1
+- Will users be able to complete the Community Care Self-Scheduling process successfully?
 
 
 ### Hypotheses
-- Question 1
-  - Hypothesis:
+- Will users be able to complete the Community Care Self-Scheduling process successfully?
+  - Hypothesis: If users make an attempt to complete the self-scheduling process, then they should be able to successfully schedule without assistance.
 
 
 ## Method
