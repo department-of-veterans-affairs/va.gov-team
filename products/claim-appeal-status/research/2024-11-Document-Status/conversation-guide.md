@@ -112,6 +112,7 @@ When the participant see the pre-populated upload file tell them:
 * Now tell me what you see here.
 * How would you explain this message to a friend?
 * If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)
+* Is this what you expected to see?
 * What do you think this card is trying to communicate (referring to the submission in progress card)?
 * Can you describe the relationship between the confirmation message and the "submission in progress" card?
 * ~~What do you think will happen in a couple days after seeing this card?~~
@@ -128,6 +129,7 @@ When the participant see the pre-populated upload file tell them:
 [Click on "Files tab"] 
 
 * Describe what happened here? (Prompt them to scroll up and down. If they haven't.)
+* When you look at the other files listed, some have a status, and others don’t. How would you describe the difference between these files?
 * What would you do next?
 
 #### Things to watch for:
@@ -189,7 +191,7 @@ When the participant see the pre-populated upload file remind them:
 **PROMPT**: Please scroll down to the "Documents" section. In this prototype, the page won’t scroll there automatically, but that’s the intended behavior in the final version.
 
 * Is this what you expect to see?
-* When you look at the other files listed, some have a status, and others don’t. How would you describe the difference between these files?
+
 * What would you do next?
 
 #### Things to watch for:
@@ -268,8 +270,9 @@ Without clicking anything, take a moment to review the page. Remember to think a
 ## Post-Task Interview - 5 minutes
 
 * Overall, what did you think of what you saw today? Was it clear or confusing?
-* Was there anything helpful?
+* Was there anything specifically helpful?
 * On a scale of 1-5, how confident do you feel about being able to resubmit your document if you received a notice like this in real life? (1 being least confident, 5 being most confident.)
+  * Why?
 * On a scale of 1-5, How confident are you that VA will effectively manage the paper documents you’ve submitted? (1 being least confident, 5 being most confident.)
   * Why?
 * Any questions for me?
