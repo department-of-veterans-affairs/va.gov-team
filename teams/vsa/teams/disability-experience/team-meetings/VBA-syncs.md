@@ -7,7 +7,13 @@ Goal of the meeting series: addressing policy related or other open questions fo
 
 David's topics for discussion
 - Email on the backup path for submission experience
-- 5103 signature component 
+  - Is in development this sprint
+  - No staging review, very low risk
+  - Release date to be determined - team to give a best guess estimate to David (by EOD tomorrow) 
+- 5103 signature component
+  - TRex current sprint
+  - Requires a stanging review 
+  - Wed 29th planned launch date 
 
 # 1/7/25 Biweekly VBA-DBEX Check-in
 - 0781 Official Report Filed (Q11).
