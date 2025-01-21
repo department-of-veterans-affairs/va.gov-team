@@ -87,7 +87,8 @@ No feedback for 1/13/25
 
 ### 1/17/25 - 50%
 #### Medallia Feedback
-Pending
+2 user responses, one from VFS Questionnaire and one from MyHealtheVet form.  The respondent who completed the MyHealtheVet form rated their overall satisfaction with the site as a 5 and indicated that they were able to complete their task, but their task is unknown.  The respondent who completed the VFS Questionnaire rated their satisfaction as a 3, explaining "I don't see any travel information for October 2024 and November 2024. I submitted manual forms for these appointments.  Can you advise me."
+
 
 #### Google Analytics
 | Metric Name | Description |
@@ -107,7 +108,8 @@ Pending
 
 ### 1/18/25 - 50%
 #### Medallia Feedback
-Pending
+2 user responses, one from VFS Questionnaire and one from MyHealtheVet form.  The respondent who completed the MyHealtheVet form rated their overall satisfaction with the site as a 3 and indicated that they were able to complete their task, but their task is unknown.  The respondent who completed the VFS Questionnaire rated their satisfaction as a 1, explaining "Travel claim received error FBTOIC107E The token request with applies to: [https://fed.eauth.va.gov/oidcrp/sps/oidc/rp/OIDC-FED-RP/SSOE_OIDC] and issuer: [ivc:https://eauth.va.gov/oidcp] failed. Reason: [null]"
+
 
 #### Google Analytics
 | Metric Name | Description |
@@ -127,7 +129,8 @@ Pending
 
 ### 1/19/25 - 50%
 #### Medallia Feedback
-Pending
+2 user responses, both VFS Questionnaires.  Neither responded to the CSAT question.  One respondent indicated that they were able to complete their task but did not say what the task was.  The other indicated that they were not able to complete their task but did not explain their task, only responding that their task was "travel."
+
 
 #### Google Analytics
 | Metric Name | Description |
@@ -147,7 +150,8 @@ Pending
 
 ### 1/20/25 - 50%
 #### Medallia Feedback
-Pending
+1 user response using the VFS Questionnaire.  Rated their satisfaction as a 2.  Indicated that they were unable to complete their task, explaining "Why does it take more than 35 days to process travel?"
+
 
 #### Google Analytics
 | Metric Name | Description |
