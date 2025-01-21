@@ -8,7 +8,8 @@ Product sync: Michelle signed off: https://dsva.slack.com/archives/C07BVDGCY8H/p
 Jill to file Midpoint review request for SA+PD. Will split Mobile Map into its own Collab Cycle request. (Governance sign off in [20276 comments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61610#issuecomment-2591335989))
 
 ### 2023-? State-level pages are out of scope
-NCA had a use case for providing state-level search results. This was deemed out of scope for this initiative.
+NCA had a use case for providing state-level search results. This was deemed out of scope for this initiative. We will instead provide an adjusted handling for radius in search when filtering by NCA facilities, to address the need.
+
 Work to date is tracked in [#14915](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14915).
 Design work was completed within the epic [#13792](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11542)
 
