@@ -2,14 +2,7 @@
 >Started in: 3Q 2023
 
 ## History
-Three features are described in this initiative: 
-1. Services Autosuggest - In the Facility locator search filters, replacing the static Services list of 19 services with a field that can dynamically populate from all available System / Facility services based on user input. 
-2. Progressive Disclosure - In FL search filters, only showing fields when users can interact with them (in contrast to the current presentation of the disabled services filter)
-3. Mobile map iteration - Improving the mobile map user experience
-
-As of Q1 2025:
-Features 1 & 2, Services Autosuggest & Progressive Disclosure, will be researched and ship together. 
-Feature 3, mobile map, will be researched and ship separately.
+This initiative began with a very very large scope, described in [#11542](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11542).
 
 ### Related epics: 
 * [[SuperEpic] Facility Locator Services Autosuggest + Progressive Disclosure #20276](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20276)
