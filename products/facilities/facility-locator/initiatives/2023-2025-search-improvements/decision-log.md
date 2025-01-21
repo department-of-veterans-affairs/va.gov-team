@@ -5,7 +5,11 @@ Due to implementation details & UX questions that arose during build, Michael pr
 
 Product sync: Michelle signed off: https://dsva.slack.com/archives/C07BVDGCY8H/p1736527370365169?thread_ts=1736527133.055279&cid=C07BVDGCY8H.
 
+Features 1 & 2, Services Autosuggest & Progressive Disclosure, will be researched and ship together. 
+Feature 3, mobile map, will be researched and ship separately.
+
 Jill to file Midpoint review request for SA+PD. Will split Mobile Map into its own Collab Cycle request. (Governance sign off in [20276 comments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61610#issuecomment-2591335989))
+
 
 ### 2023-? State-level pages are out of scope
 NCA had a use case for providing state-level search results. This was deemed out of scope for this initiative. We will instead provide an adjusted handling for radius in search when filtering by NCA facilities, to address the need.
