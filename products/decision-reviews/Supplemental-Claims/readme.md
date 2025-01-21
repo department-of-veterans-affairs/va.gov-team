@@ -12,7 +12,9 @@
 |----|----|-----|
 |Amy Lai|Product Owner, Gov't Lead| amy.lai2@va.gov |
 |Julie Strothman|Design Lead, VA| julie.strothman@va.gov|
-|Shaun Burdick |Engineering Lead and interim Product Manager| shaun.burdick@coforma.io|
+|Cory Sohrakoff|Enginnering Lead, VA| Cory.T.Sohrakoff@omb.eop.gov|
+|Maurice DeBeary|Product Manager| maurice.debeary@coforma.io|
+|Shaun Burdick |Engineering Lead| shaun.burdick@coforma.io|
 |Eileen Chi| Research & Design |eileen.chi@coforma.io |
 |David Kennedy| Accessibility Lead | david.kennedy@adhocteam.us |
 |Robin Garrison |FE Engineer| robin.garrison@adhocteam.us |
