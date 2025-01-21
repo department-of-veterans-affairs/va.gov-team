@@ -64,6 +64,8 @@ Data collection will be remote. We will use Zoom.
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2025-01-usability-testing-rd4-at/conversation-guide.md)
 
+- [Link to Codespace](https://congenial-fiesta-jjp54vj7p9j3x6x-3001.app.github.dev/my-health/medical-records/)
+  
 ## Recruitment
 
 ### Recruitment approach
