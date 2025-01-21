@@ -1,14 +1,14 @@
 # Running Design and Research Agenda
 
-## January 21 2024
+## January 21 2025
 - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
 	- ### Agenda Topics
   - Design Roadmap
-  - Research Opportunities
-  - The latest thoughts on the 1010D OHI Merge (Jina to share the embedded forms pattern from the 526 team)
-  - Update to the Third Party Liability questions on the claim form. (time permitting)
+  - Discuss future multiple claims research
+  - Review Update CHAMPVA Service Blueprint
+  - Discuss FMP Direct Deposit and future research with past participants
   
-## January 13 2024
+## January 13 2025
  - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
 	- ### Agenda Topics
  	 - Design Roadmap
@@ -45,7 +45,7 @@
       * We can look at the next steps questions too (Talk about how updates happen in the future? Talk to Pega and VES)
       * Schedule a meeting on Thursday to continue the conversation and potential generate some backlog research items 
 
-## January 06 2024
+## January 06 2025
 - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Jina Ryu
 	- Agenda Topics
 		- Design Roadmap Review	
