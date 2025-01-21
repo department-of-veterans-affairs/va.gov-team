@@ -18,6 +18,9 @@ Feature 3, mobile map, will be researched and ship separately.
 * Feature 3: [Facility Locator Mobile Map experience #16001](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16001)
     * [[EPIC] Facility Locator Mobile Map usability testing #14518](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14518)
 
+Out of scope epics: 
+* [Facility Locator iteration: Provider core training / PPMS data #14225](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14225)
+
 
 ## User Journey
 Veterans use the Facility Locator as the single source of truth on VA.gov to find physical locations where s/he can receive benefits and services. Veterans expect search functionality that returns relevant and meaningful answers to their query with quick, relevant, and accurate information.
