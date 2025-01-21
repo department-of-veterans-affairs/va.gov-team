@@ -7,12 +7,12 @@ The Data Grid v2.0 pattern enables the product team to customize grid interactio
 
 ## Requirements in scope
 1. Data Grid API
-2. affixing column view (aka column stays in view during horizontal scrolling)
+3. affixing column view (aka column stays in view during horizontal scrolling)
    - [see slack for this priority agreement ](https://dsva.slack.com/archives/C04DMDC3TS8/p1734548335437739)
-3. quick filter (aka multi-selection filtering)
-4. date picker (aka date selection affordance)
-5. Meets accessibility scores by WCAG 2.1 (Section 508) (update to 2.2)
-6. Compatible and _can_ be adopted by VADS and USWDS
+4. quick filter (aka multi-selection filtering)
+5. date picker (aka date selection affordance)
+6. Meets accessibility scores by WCAG 2.1 (Section 508) (update to 2.2)
+7. Compatible and _can_ be adopted by VADS and USWDS
     * https://design.va.gov
     * https://designsystem.digital.gov
 <br>
@@ -20,6 +20,20 @@ The Data Grid v2.0 pattern enables the product team to customize grid interactio
 ## Pilot Partners
 ### 1. Lung Cancer Screening (LCS)
 The Lung Cancer System app’s outcome is to help the clinician review the patient’s profile at a glance so that the clinician can determine their next step.
+<br>
+
+**Desired Affordances**
+- manually adding/deleting data
+- manually adding/deleting/moving/selecting rows
+- creating custom filters
+- exporting state
+- retoring state
+- accessing client side filter
+- accessing client side sorting
+- accessing selected row(s)
+- grid options changes (changing column definition array on the fly)
+- get row by Id
+- get all rows
 <br>
 
 #### LCS Users
@@ -68,6 +82,18 @@ The Lung Cancer System app’s outcome is to help the clinician review the patie
 
 ### 2. Task Manager (TM)
 The Task Manager app’s outcome (will get this from confluence)
+<br>
+
+**Desired Affordances**
+- manually adding/deleting data
+- manually adding/deleting/moving rows
+- creating custom filters
+- "control over the rows (saved states instead calling again with each )
+- ability to remove or delete a row"
+- ability to add rows from the app
+- get data for row selection
+- column definitions, what data they hold, column name, how the data is rendered
+- print out all of the rows viewable in the screen
 <br>
 
 #### TM Users
