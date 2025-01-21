@@ -17,6 +17,13 @@ Please add any potential future topics you would like covered below:
 
 ## Topic Dives
 
+### 1/21/25 - Drupal client-side validation
+The client-side validation module in Drupal has some quirks. Sitewide implemented a new part of the module interface (submitted upstream to the module maintainer) to address an issue where a JQuery bug in the library used by the module causes client-side validation to stop working after it encounters validation errors on any date/time field. 
+
+Recording from Sitewide demo explains the change, why it was made, and some additional context about where client-side validation was broken and is now working again.
+
+Related to https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17896
+
 ### 1/16/25 - VAMC Topic dive
 Covers: 
 * VA Services & how they tie to Systems & Facilities
