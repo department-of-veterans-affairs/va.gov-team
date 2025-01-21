@@ -1,3 +1,5 @@
+#Supplemental Claims (21-0995) 2024 Updates
+
 ## Background
 Supplemental Claims (VA 21-0995) was digitized and published in initially in February 2023. Since then, stakeholders have made updates to the paper form, including optional but important new sections, rephrasing of questions, and new fields.
 In order for our digital Veteran userbase to successfully submit our form, we must also update our digital form to match the latest paper form updates.
@@ -14,6 +16,7 @@ Update the Supplemental Claims flow to include sections for living situation, MS
 - Review existing research on these forms and Veteran MST, identifying relevant findings to incorporate in our MVP
 - Collaborate with OCTO and VBA stakeholders throughout the design process
 - Review content changes with CAIA, including any changes needed to the benefits hub content related to the form change
+- Collaborate with LH to ensure that the endpoint includes the newest questions, and populates an updated form
 - Review new designs with the Platform team through the Collaboration Cycle
 - Implement updates
 - Conduct usability testing on the updated form
