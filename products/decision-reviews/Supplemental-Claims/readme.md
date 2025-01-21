@@ -17,7 +17,7 @@
 |David Kennedy| Accessibility Lead | david.kennedy@adhocteam.us |
 |Robin Garrison |FE Engineer| robin.garrison@adhocteam.us |
 |Derek Fong | BE Engineer | derek.fong@adhocteam.us |
-|Annie Tran|Engineer|annie.tran@coforma.io|
+|Molly Trombley-McCann | Engineer | molly.trombley-mccann@coforma.io |
 |Silke Dannemann|Delivery Manager|silke.dannemann@va.gov|
 |Michael Hobson | Product Manager, Lighthouse | michael.hobson@adhocteam.us |
 
