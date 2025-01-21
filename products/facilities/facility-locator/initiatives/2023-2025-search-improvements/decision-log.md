@@ -1,14 +1,16 @@
 ## Facility Locator Search Improvements Decision Log
 
-**brain dump of things to find timestamps for**
-* Cemetery search radius: expanding beyond current scope (which way did it go / what was the call)
-
 ### 2025-01-13: Feature groupings for research
 Due to implementation details & UX questions that arose during build, Michael proposed researching the Progressive Disclosure changes, rather than shipping ([here](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/19489#issuecomment-2560084702)).
 
 Product sync: Michelle signed off: https://dsva.slack.com/archives/C07BVDGCY8H/p1736527370365169?thread_ts=1736527133.055279&cid=C07BVDGCY8H.
 
 Jill to file Midpoint review request for SA+PD. Will split Mobile Map into its own Collab Cycle request. (Governance sign off in [20276 comments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61610#issuecomment-2591335989))
+
+### 2023-? State-level pages are out of scope
+NCA had a use case for providing state-level search results. This was deemed out of scope for this initiative.
+Work to date is tracked in [#14915](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14915).
+Design work was completed within the epic [#13792](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11542)
 
 ### 2023-09-21 Provider core training filters
 Provider core training data was integrated into vets-api. 
