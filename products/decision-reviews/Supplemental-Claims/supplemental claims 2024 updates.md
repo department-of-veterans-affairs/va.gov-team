@@ -1,4 +1,4 @@
-#Supplemental Claims (21-0995) 2024 Updates
+# Supplemental Claims (21-0995) 2024 Updates
 
 ## Background
 Supplemental Claims (VA 21-0995) was digitized and published in initially in February 2023. Since then, stakeholders have made updates to the paper form, including optional but important new sections, rephrasing of questions, and new fields.
