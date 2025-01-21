@@ -1,4 +1,4 @@
-# Data Grid PRD (Product Requirements Document)
+# Data Grid MVP PRD (Product Requirements Document)
 
 ## Data Grid Pattern Outcome 
 The Data Grid pattern enables viewing and augmenting large data set. All data can be sorted, edited, and filtered. All data is viewable in a single view without navigating away from the data grid. After interacting with the data, the user is able to synthesize the information and make decisions about next steps.<br/>
