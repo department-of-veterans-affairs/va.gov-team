@@ -6,7 +6,10 @@
 
 **Jump to:**
 
-- [Key Data Points](#key-data-points)
+- [Key Data](#key-data-points)
+   - [Medallia feedback survey](#medallia-feedback-survey)
+   - [Medallia intercept survey](#medallia-intercept-survey)
+   - [My VA411 calls](#MyVA411-calls)
 - [Discussion](#discussion)
 - [Comparisons](#comparisons)
 - [Recommendations](#recommendations)
@@ -19,10 +22,12 @@ This research considered the Medallia intercept survey, Medallia feedback survey
 
 We requested data from the Contact Center Team in December, in preparation for the holidays, so this "quarter" view only includes October and November. A researcher went through and tagged entries with 39 tag options. Often more than one tag was applied to a given entry. Entries that were clear duplicates or had no information in them were excluded. We calculated the researcher applied tags, each individual data set’s relevant data to come away with findings.
 
-* Medallia feedback survey  
+* Medallia feedback survey - folks get to this by pressing the "feedback" button at the bottom of a page on VA.gov
+  * We pulled data from surveys that were started on pages that are owned by our team or related to identity and sign in products
   * To assess sentiment, we primarily used the question “Please rate your experience with VA.gov today.” We mostly rated scores of 4 or 5 as positive, scores of 3 as neutral, and scores of 1 or 2 as negative.  
   * There were some exceptions made where the open field question “why did you select this rating” didn’t match in some kind of way. Since the goal here is to capture sentiment of sign in products, if a higher score was given but sign in was mentioned negatively in the open field, then the sentiment was adjusted down, and so forth. Another exception was in a couple of cases when no rating was left on the experience question, but the other questions were rated in a way that offered insight on the person’s sentiment. In that case we would add a sentiment rating that wasn't based off the response to the survey question about experience.
-* Medallia intercept survey
+* Medallia intercept survey - folks get to this by seeing a pop-up on screen
+    * We pulled data from surveys that were started on pages that are owned by our team or related to identity and sign in products 
     * To assess sentiment, we only used the question “what is your overall satisfaction with this site.” With scores on the 5 point scale, 4 and 5 were counted as positive, scores of 3 were rated neutral, and scores of 1 or 2 were rated negative.  
   * We gave no research finesse to this or other data on this survey.
 * MyVA411 data  
@@ -34,7 +39,8 @@ We requested data from the Contact Center Team in December, in preparation for t
 
 ## Key data points
 
-* Medallia intercept survey \- 192 total entries reviewed and 416 total tags applied  
+### Medallia feedback survey
+192 total entries reviewed and 416 total tags applied  
   * Top tags  
     * CSP transition, unable to sign in, verify, and MFA
 
@@ -93,7 +99,10 @@ We requested data from the Contact Center Team in December, in preparation for t
       * "The login worked but then went to an error screen every time"  
       * "trying to change my login with ID ME or Login Gov. Login Gov can't verify my information. I've lived here for 13 years and I get my VA checks here and get all my bills here. ID ME locks my phone camera when it wants to take a picture of my licenses and won't accept the upload.”  
       * "sign in process would not respond to requirement to 'text me' to retrieve my code"  
-* Medallia feedback survey \- 323 total entries were reviewed and 1596 total tags applied  
+
+
+### Medallia intercept survey
+323 total entries were reviewed and 1596 total tags applied  
   * Top tags  
     * unable to sign in, CSP transition, mobile app, set up account
 
@@ -145,10 +154,13 @@ We requested data from the Contact Center Team in December, in preparation for t
     * "There used to be an Option 1 for signing in"  
     * “"have to adjust to change, as usual"”  
     * "I've been using the new login va for some time now. Its easy to use."  
-    * “nothing on the page help me decide"  
-    * "what's the difference between them? Why do I have two choices?"  
-    * (page \- [https://www.va.gov/resources/should-i-create-a-logingov-or-idme-account-to-sign-in-to-vagov/](https://www.va.gov/resources/should-i-create-a-logingov-or-idme-account-to-sign-in-to-vagov/)  
-* MyVA411 data 14,480  total entries were reviewed and 29,793 total tags applied
+    * specifically about page \- [Should I create a Login.gov or ID.me account to sign in to VA.gov?](https://www.va.gov/resources/should-i-create-a-logingov-or-idme-account-to-sign-in-to-vagov/)
+      * “nothing on the page helped me decide"  
+      * "what's the difference between them? Why do I have two choices?"
+
+
+### MyVA411 calls 
+14,480 total entries were reviewed and 29,793 total tags applied
 
 | Top Research Tags (excluding "sign in") | \# of tags | % of issues |
 | :---- | ----- | ----- |
@@ -250,7 +262,7 @@ This data is often too high level or vauge for us to take specific actions. Howe
 * Check back on these data sources to see  
   * If MyVA411 `verification issues` Category decreases after the mass migration away from MHV credentials, this could mean the current increase is reasonable based on how many folks are migrating right now. If it stays elevated, it would be a concern.  
   * If MyVA411 `confirmation email issues` Type under the inability to sign in category changes as the mass migration away from MHV ends, this could mean the current increase is reasonable based on how many folks are migrating right now. If it stays elevated, it would be a concern.  
-  * It MyVA411 `forgot password` issues remain lower, or continue to decrease, this could be counted as a success of the credential deprecation effort.  
-  * If  MyVA411 `inability to sign in' Category issues remain lower, or continue to decrease, this could be counted as a success of the credential deprecation effort.  
-* Understand what code changes or what error page changes happened between March and October 2024 that might have directly or indirectly caused phone calls for these to decrease  
-  * If nothing, then look into if this is instead a change to how the call center classifies certain calls, to better be able to utilize this data in the future.
+  * If MyVA411 `forgot password` issues remain lower, or continue to decrease, this could be counted as a success of the credential deprecation effort.  
+  * If MyVA411 `inability to sign in' Category issues remain lower, or continue to decrease, this could be counted as a success of the credential deprecation effort.  
+* With fewer `EVSS` issues showing in MYVA411, understand what code changes or what error page changes happened between the February/March data and the October/Noveember data that might have directly or indirectly caused phone calls for these to decrease.  
+  * If nothing, then look into if this is a change in how the call center classifies certain calls, to better be able to utilize this data in the future.
