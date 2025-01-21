@@ -58,7 +58,7 @@ We will work closely with CRM to define a process to track, prioritize and actio
 #### We will deliver:
 - A shared spreadsheet (or workspace) with a backlog and current tasks
 
-### Test concepts with submitters that involve automation
+### Priority #1: Test concepts with submitters that involve automation
 We will prototype and test concepts where a submitter interacts with some type of automation. This might include testing concepts where a submitter receives an answer to a simple, close-ended question up front, or, where a submitter chooses a category, types their question and a topic is recommended to them. 
 
 #### This initiative will:
@@ -77,7 +77,7 @@ We will prototype and test concepts where a submitter interacts with some type o
 - At least 1 and no more than 4 concepts that have been prototyped in Figma
 - A spike that describes how to implement 1 concept
 
-### Design a page to explain the types of questions within a category
+### Priority #2: Design a page to explain the types of questions within a category
 We will design a page that allows us to explain the types of questions that can be asked within a category. There are some categories with many topics that route to the same place. Designing a page that lets us explain the types of questions you can ask, may help us reduce the number of categories and/or topic options without automation.
 
 #### This initiative will:
@@ -91,7 +91,7 @@ We will design a page that allows us to explain the types of questions that can 
 #### We will deliver:
 - A design that is ready for testing and/or sharing with the Change Control Board
 
-### Do a comparative analysis of contact experiences
+### Priority #3: Do a comparative analysis of contact experiences
 We will do a comparative analysis of contact forms to inform our future product vision. This will help us articulate the things we like or don’t like and where we want to go with Ask VA. It will be a visual exercise which can support future conversations.
 
 #### This initiative will:
