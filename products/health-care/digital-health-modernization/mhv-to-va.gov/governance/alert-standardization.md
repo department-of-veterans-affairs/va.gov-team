@@ -7,8 +7,9 @@ To ensure a consistent Veteran experience and reduce cognitive load within the M
 * [Missing MHV Identifier (Account Creation API)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#account-creation-api-error-alerts-ie-missing-mhv-uuid)
 * [Oracle-Health Routing alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#oracle-health--cerner-routing-alerts)
 * [Unauthenticated users](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#unauthenticated-users)
-* 403 forbidden alerts (guidance coming soon)
-* 404 page not found alerts (guidance coming soon)
+* 403 access denied error component (guidance coming soon)
+* 404 page not found component (guidance coming soon)
+* 500 internal service error component (guidance coming soon)
 
 ## High-level API access logic
 Applications should route-guard any users who do not meet two high-level gating requirements to the `/my-health` landing page to see the relevant alert in place there. The goal of this requirement is to have a single place to maintain and update alerts, and to prevent users without access to My HealtheVet from getting to deeper child pages within the experience. Instead, they will see certain alerts in place at the top of the portal, where we believe it is the best place to explain and contextualize why they do not have access, and steps they need to take in order to answer questions they may have about managing their healthcare on VA.gov. 
@@ -60,7 +61,7 @@ NOTE: Screenshots below are taken from this [Figma file](https://www.figma.com/d
 
 <details><summary>MHV landing page: MHV Basic account user</summary>
 
-<img width="800" alt="MHV Basic access alert" src="https://github.com/user-attachments/assets/33f4e433-3b1d-46db-b898-73b144705f75" />
+<img width="982" alt="Screenshot 2025-01-21 at 8 50 03 AM" src="https://github.com/user-attachments/assets/b2ff5e80-005f-436c-a3b5-01d568ac4118" />
 
 </details>
 
@@ -105,8 +106,11 @@ Benefit hub pages corresponding with these tools currently have more complex ver
 ## Unauthenticated users
 The entire `/my-health` portal sits behind authentication and every application under this namespace must require authentication. Thus, any unauthenticated user who attempts to access a URL within any application in this space should trigger the sign-in modal. Until a user signs in, we cannot determine whether a user has authorization to access the page they are attempting to reach. 
 
-## 403 Forbidden alerts
+## 403 Access denied error component
 Guidance coming soon. 
 
-## 404 Page not found alerts 
+## 404 Page not found component
+Guidance coming soon.
+
+## 500 Internal service error component
 Guidance coming soon.
