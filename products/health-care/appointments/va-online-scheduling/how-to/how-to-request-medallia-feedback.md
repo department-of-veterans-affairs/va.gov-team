@@ -56,8 +56,8 @@ None
 | Week  | From       | To         | Submitted By | Ticket Link  | 
 |-------|------------|------------|--------------|--------------|
 |   1   | 12-29-2024 | 1-4-2025   | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/100000             |
-|   2   | 1-5-2025   | 1-11-2025  | Peter Russo  |              |
-|   3   | 1-12-2025  | 1-18-2025  | Peter Russo  |              |
+|   2   | 1-5-2025   | 1-11-2025  | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/100918             |
+|   3   | 1-12-2025  | 1-18-2025  | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/101470 |
 
 ### Medallia Feedback Requests - Q4 2024
 
