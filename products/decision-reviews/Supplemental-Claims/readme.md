@@ -19,7 +19,6 @@
 |Derek Fong | BE Engineer | derek.fong@adhocteam.us |
 |Annie Tran|Engineer|annie.tran@coforma.io|
 |Silke Dannemann|Delivery Manager|silke.dannemann@va.gov|
-
 |Michael Hobson | Product Manager, Lighthouse | michael.hobson@adhocteam.us |
 
 ### VBA Subject Matter Experts  
