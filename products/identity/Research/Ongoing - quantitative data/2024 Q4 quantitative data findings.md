@@ -2,10 +2,9 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sign-in Transition, Identity Experience Team**
 
-- Researcher
-  - Clayton Zook | clayton.zook@oddball.io
+- Researcher - Clayton Zook | clayton.zook@oddball.io
 
-  **Jump to:**
+**Jump to:**
 
 - [Key Data Points](#key-data-points)
 - [Discussion](#discussion)
