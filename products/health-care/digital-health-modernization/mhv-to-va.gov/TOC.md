@@ -68,12 +68,12 @@
         * [JIRA Epic](https://jira.devops.va.gov/browse/MHV-62179)
     * Collab Cycle Tickets
         * Open
-          - [Contact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90850)
           - [Filter Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90138)
           - [Landing Page/Navigation Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90137)
           - [Plain Language Triage Group](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89985)
         * Closed
           - [Secure Messaging Initial Launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51115)
+          - [Contact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90850)
     * Documentation
     * Figma
         * Links to Designs
