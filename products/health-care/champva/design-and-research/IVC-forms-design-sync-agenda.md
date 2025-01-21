@@ -7,6 +7,26 @@
   - Discuss future multiple claims research
   - Review Update CHAMPVA Service Blueprint
   - Discuss FMP Direct Deposit and future research with past participants
+ 
+-  ### Notes
+    - Design Roadmap
+      * Rachel to present some options for the CHAMPVA multiple claims later in the sprint now that we have better stakeholder feedback on how they can process multiple claims. This won’t be for MVP but a future improvement
+      * It may be better to wait on working on the FMP Multiple Claims until we get some data on how the single claim is  working post launch.
+      * Continue research and design work on the  OHI/ 1010D merge
+      * Design will start to pull in 1010D post-launch improvements from [the spreadsheet] (https://docs.google.com/spreadsheets/d/1lrho8WwCQQ-7Lzje-AG5YN-zadPy-6c5SQRId_nQbYg/edit?gid=0#gid=0) as time permits within each sprint. This will span over multiple sprints.
+    - Research Planning
+      * Pre-fill from VA profile research will move to after the supporting docs in the next column on the [Research Planning Mural] 9https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1734718276719/2519a072b8fcd048659b4e146c7ba9bf73158871): Look into beneficiary profile. What do I see if I log in?
+      * Premal heard in a stakeholder meeting there's a problem with doc uploads. Design is already working on a UX improvement: Ticket: [#98909](https://github.com/orgs/department-of-veterans-affairs/projects/1533/views/1?pane=issue&itemId=90587480&issue=department-of-veterans-affairs%7Cva.gov-team%7C98909)
+      * Swap priority of supporting docs priority with CHAMVPA Pre-fill. Supporting docs may need to be broken down a little more. There are several topics within that area (duplicate HI cards, marriage doc, optional docs, mail-in docs, upload success messages)
+      * Consider talking to CHAMPVA stakeholders again about how processing of the 1010d digital form is going to find improvements that may be needed.
+      * We want to revisit conducting in-person research with the multiple claims processors at a later date. In person research may allow us to capture meaningful interactions that we can’t see remotely. We may be able to work some more in-person research with our users during that travel time to make it more valuable. If this is not deemed valuable we can conduct remote sessions.
+    - Service Blueprint 
+      * Premal getting new data on processing times. Keep fleshing this out. Lois to provide feedback on how easy this is to read and comprehend so UX can make improvements prior to working with the stakeholders.We want to continue notating missing info or questions
+    - FMP Direct Deposit
+      * AE team may be working on adding Direct Deposit to VA profile. This may not affect us though and may be good to get an idea on how the whole process works. May be draw out how we understand the direct deposit works according to what we heard from FMP stakeholders and desk research (on Slack) We can do this via a  service blueprint. We can show FMP stakeholders this to make sure we are both on the page and FMP or us are not missing anything
+      * We should read through the existing process/workflow of the FMP claims. Highlight what areas of the form that would be different due to the introduction of direct deposit which is expected to launch in April.
+      * Should we talk to past participants in the FMP user study? We can via Perigean. We should let Andy know that he can talk to past participants through Perigean. He can send us any updates he may want to provide to them
+
   
 ## January 13 2025
  - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
