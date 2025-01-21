@@ -22,7 +22,7 @@ In Phase 2, we will be guided by these principles:
 
 |Goal|Initiatives|
 |:--|:--|
-|How we work|[Co-define a product vision with partners](#co-define-a-product-vision-with-partners)<br>Set up a workflow for tracking and prioritizing business line requests(#set-up-a-workflow-for-tracking-and-prioritizing-business-line-requests)|
+|How we work|[Co-define a product vision with partners](#co-define-a-product-vision-with-partners)<br>[Set up a workflow for tracking and prioritizing business line requests](#set-up-a-workflow-for-tracking-and-prioritizing-business-line-requests)|
 |User experience|**Priority #1** Test concepts with submitters that involve automation<br>**Priority #2** Design a page to explain the types of questions within a category<br>**Priority #3** Do a comparative analysis of contact experiences<br>Do research to understand and observe agent processes<br>Update designs to use new VA Design System patterns|
 |Data|Prepare a follow-up email to send after a question is closed<br>Design a Power BI re-routing report<br>Support CRM to re-design the primary Ask VA Power BI report|
 
