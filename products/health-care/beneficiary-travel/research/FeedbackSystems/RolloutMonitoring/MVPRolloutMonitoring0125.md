@@ -87,6 +87,7 @@ No feedback for 1/13/25
 
 ### 1/17/25 - 50%
 #### Medallia Feedback
+Pending
 
 #### Google Analytics
 | Metric Name | Description |
@@ -96,10 +97,18 @@ No feedback for 1/13/25
 | Time spent | 1 min 13 sec |
 
 #### DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| VA.gov - Endpoint errors | 1 |
+| Travel Pay API - Endpoint error count | 84 |
+| Average latency | 2.32 sec |
+| Unique users accessing the API | 1,011 |
 
 
 ### 1/18/25 - 50%
 #### Medallia Feedback
+Pending
+
 #### Google Analytics
 | Metric Name | Description |
 | ----------- | ----------- |
@@ -108,9 +117,18 @@ No feedback for 1/13/25
 | Time spent | 1 min 1 sec |
 
 #### DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| VA.gov - Endpoint errors | 0 |
+| Travel Pay API - Endpoint error count | 27 |
+| Average latency | 2.4 sec |
+| Unique users accessing the API | 591 |
+
 
 ### 1/19/25 - 50%
 #### Medallia Feedback
+Pending
+
 #### Google Analytics
 | Metric Name | Description |
 | ----------- | ----------- |
@@ -119,14 +137,38 @@ No feedback for 1/13/25
 | Time spent | 1 min 15 sec |
 
 #### DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| VA.gov - Endpoint errors | 0 |
+| Travel Pay API - Endpoint error count | 19 |
+| Average latency | 2.42 |
+| Unique users accessing the API | 482 |
+
 
 ### 1/20/25 - 50%
 #### Medallia Feedback
+Pending
+
 #### Google Analytics
+| Metric Name | Description |
+| ----------- | ----------- |
+| Unique page views | Available 1/22/25 |
+| Views per user | Available 1/22/25 |
+| Time spent | Available 1/22/25 |
+
 #### DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| VA.gov - Endpoint errors | 0 |
+| Travel Pay API - Endpoint error count | 28 |
+| Average latency | 2.38 sec |
+| Unique users accessing the API | 660 |
+
 
 ### 1/21/25 - 75%
 #### Medallia Feedback
+Pending
+
 #### Google Analytics
 #### DataDog
 
