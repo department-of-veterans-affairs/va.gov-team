@@ -1,11 +1,22 @@
 ## Facility Locator Search Improvements Decision Log
 
 **brain dump of things to find timestamps for**
-* Provider training filters: not exposing in the FE
-* Mobile map research will run separate from services autosuggest & progressive disclosure
-* Progressive disclosure will run research rather than shipping direct to prod
 * Cemetery search radius: expanding beyond current scope (which way did it go / what was the call)
 
-### 2025-01: Feature groupings for research
+### 2025-01-13: Feature groupings for research
+Due to implementation details & UX questions that arose during build, Michael proposed researching the Progressive Disclosure changes, rather than shipping ([here](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/19489#issuecomment-2560084702)).
 
-  - Today, the number of providers who have received the Veteran-specific training is less than 1%. Until the training is more common, most searches will fail to return any results meeting the criteria and this filter will be likely to introduce more confusion than usefulness. 
+Product sync: Michelle signed off: https://dsva.slack.com/archives/C07BVDGCY8H/p1736527370365169?thread_ts=1736527133.055279&cid=C07BVDGCY8H.
+
+Jill to file Midpoint review request for SA+PD. Will split Mobile Map into its own Collab Cycle request. (Governance sign off in [20276 comments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61610#issuecomment-2591335989))
+
+### 2023-09-21 Provider core training filters
+Provider core training data was integrated into vets-api. 
+Data shows the number of providers who have received the Veteran-specific training is less than 1%. Until the training is more common, most searches will fail to return any results meeting the criteria and this filter will be likely to introduce more confusion than usefulness. 
+
+Front-end work is paused until training #s improve. ([Github comment](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14913#issuecomment-1729954124))
+
+
+### 2024-03-31: Contract boundary > Staffing changes
+Facility Locator mobile map research will pause due to contract boundary / staffing changes. 
+Tickets in research epic ([#14518](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14518)) will reflect the work done, and open tickets will be prioritized when staffing is sorted and project is prioritized for next steps.
