@@ -14,7 +14,7 @@ Feature 3, mobile map, will be researched and ship separately.
 ### Related epics: 
 * [[SuperEpic] Facility Locator Services Autosuggest + Progressive Disclosure #20276](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20276)
     * Feature 1: [[EPIC] Facility Locator: "Service type" field iterations #15541](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15541)
-    * Feature 2: [EPIC] Facility Locator progressive disclosure #19489](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/19489)
+    * Feature 2: [[EPIC] Facility Locator progressive disclosure #19489](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/19489)
 * Feature 3: [Facility Locator Mobile Map experience #16001](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16001)
     * [[EPIC] Facility Locator Mobile Map usability testing #14518](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14518)
 
