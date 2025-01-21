@@ -30,7 +30,7 @@ to multiple different email addresses via a single Postman batch run.
 
     ![send_email_w_email](https://github.com/user-attachments/assets/26be2f84-b3be-4198-b6f9-5ad2745c9610)
 
-6. Create a CSV with the information you need to perform bulk emails. The CSV should have a column for each variable needed by VA Notify to send the email.
+6. Create a CSV with the information you need to perform bulk emails. The CSV should have a column for each variable needed by VA Notify to send the email (see FMP1 example in [pre-requisites]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/postman-bulk-email.md#pre-requisites)) section above).
 7. In the Postman sidebar, open the context menu for `send EMAIL` and, click `Run folder`
 
    ![context_menu](https://github.com/user-attachments/assets/6ef408db-b707-4e75-96c4-092dde5ab3f4 'Image of context menu')
