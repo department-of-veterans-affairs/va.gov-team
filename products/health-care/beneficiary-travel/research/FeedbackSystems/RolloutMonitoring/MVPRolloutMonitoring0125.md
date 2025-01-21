@@ -72,9 +72,9 @@ No feedback for 1/13/25
 #### Google Analytics
 | Metric Name | Description |
 | ----------- | ----------- |
-| Unique page views | Available 1/21/25 |
-| Views per user | Available 1/21/25 |
-| Time spent | Available 1/21/25 |
+| Unique page views | 952 |
+| Views per user | 1.17 |
+| Time spent | 1 min 19 sec |
 
 #### DataDog
 | Metric Name | Description |
@@ -91,9 +91,9 @@ No feedback for 1/13/25
 #### Google Analytics
 | Metric Name | Description |
 | ----------- | ----------- |
-| Unique page views | Available 1/21/25 |
-| Views per user | Available 1/21/25 |
-| Time spent | Available 1/21/25 |
+| Unique page views | 1,015 |
+| Views per user | 1.18 |
+| Time spent | 1 min 13 sec |
 
 #### DataDog
 
@@ -103,9 +103,9 @@ No feedback for 1/13/25
 #### Google Analytics
 | Metric Name | Description |
 | ----------- | ----------- |
-| Unique page views | Available 1/21/25 |
-| Views per user | Available 1/21/25 |
-| Time spent | Available 1/21/25 |
+| Unique page views | 578 |
+| Views per user | 1.12 |
+| Time spent | 1 min 1 sec |
 
 #### DataDog
 
@@ -114,9 +114,9 @@ No feedback for 1/13/25
 #### Google Analytics
 | Metric Name | Description |
 | ----------- | ----------- |
-| Unique page views | Available 1/21/25 |
-| Views per user | Available 1/21/25 |
-| Time spent | Available 1/21/25 |
+| Unique page views | 454 |
+| Views per user | 1.09 |
+| Time spent | 1 min 15 sec |
 
 #### DataDog
 
