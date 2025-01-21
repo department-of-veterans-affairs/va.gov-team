@@ -2,7 +2,7 @@
 
 ### Team Communications
 
-- **Government lead**: Matthew Self
+- **Government lead**: Amy Lai
 - **Slack channel**: [#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
 - **Github labels**: benefits-team-1
 
