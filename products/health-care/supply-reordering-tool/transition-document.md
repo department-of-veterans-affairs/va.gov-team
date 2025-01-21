@@ -27,10 +27,10 @@ The goal of this team after successfully launching CPAP supplies has been to add
 
 ### Ongoing Tasks & Administrative Details
 - Daily/Weekly/Monthly Routine
-     - Weekly Check-In Meeting with Design Lead - Jenny Wang and Developers, Richard Davis
+     - Weekly Check-In Meeting - Jenny Wang (Design lead), Kay Lawyer (Product lead), and Developers, Richard Davis and Ni Chia
      - Monthly/Bi-monthly Meeting with DLC Stakeholders
              - For most questions relevant to DLC we use a Teams Chat,email Patrick Booth (for technical questions Alberto) or ask in the monthly meeting depending on urgency
-- Slack channel #va-cto-supply-reordering for discussions 
+- Slack channel #vagov-supply-reordering for discussions 
 
 ### Tools, Platforms & Links
 - Datadog
