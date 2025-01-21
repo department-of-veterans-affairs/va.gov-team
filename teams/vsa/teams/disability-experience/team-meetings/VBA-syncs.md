@@ -1,6 +1,14 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+# 1/21/25 Biweekly VBA-DBEX Check-in
+- 0781 Supporting Document File Types
+  - David knows he still has work to do on this
+
+David's topics for discussion
+- Email on the backup path for submission experience
+- 5103 signature component 
+
 # 1/7/25 Biweekly VBA-DBEX Check-in
 - 0781 Official Report Filed (Q11).
 - 0781 Supporting Document File Types
