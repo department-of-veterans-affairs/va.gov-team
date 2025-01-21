@@ -3,9 +3,9 @@
 
 ## Background
 Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve? WEAMS Public is working to consolidate licenses and certifications, national exams, and programs details for institutions into the CT tool. This will allow users to access education benefits information quickly and easily. 
-- Where is your product situated on VA.gov? (ex: auth vs. unauth) In comparison tool and unauthenticated.
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one? Veterans are familiar with WEAMS Public. We are migrating the information from WEAMS Public into comparison tool.
+- What problem is your product trying to solve? WEAMS Public is working to consolidate licenses and certifications, national exams, and programs details for institutions into the Comparison Tool. This will allow users to access education benefits information quickly and easily. 
+- Where is your product situated on VA.gov? (ex: auth vs. unauth) In Comparison Tool and unauthenticated.
+- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one? Veterans are familiar with WEAMS Public. We are migrating the information from WEAMS Public into Comparison Tool.
 
 [Link to product brief](url goes here).
 
@@ -21,13 +21,20 @@ Are there moments that matter?
 
 ## Research Goals	
 What are you trying to learn from this research? 
-With this research goal, we will learn scenarios where users aren't able to find what they are looking, their pain points. From there, we will know how we can provide a more optimal solution. Are users able to use search criteria to find the license, certification or prep course they want? Does the content provided give them what they need to make the next decision? Is the language clear, easy to understand? How do they find the navigation experience? What is thier opinion on the presentation?
+With this research goal, we will learn scenarios where users aren't able to find what they are looking, their pain points. From there, we will know how we can provide a more optimal solution.
+
+Are users able to use search criteria to find the license, certification or prep course they want? Does the content provided give them what they need to make the next decision? Is the language clear, easy to understand? How do they find the navigation experience? What is thier opinion on the presentation?
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
+**Here are our research goals:**
+1. Identify if users can find the content they are seeking.
+2. Validate if users will benefit from the presentation of the WEAMS Public in CT.
+3. Discover pain points or aspects of the design that need to be altered to improve the user experience. 
+
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
-The next phase is to launch the WEAMS Public information within CT. The research will allow us to get feedback from users regarding the language, presentation, functionality, accessibility and we will make changes to our designs from the learnings.
+The next phase is to launch WEAMS Public information within CT. The research will allow us to get feedback from users regarding the language, presentation, functionality, accessibility and we will make changes to our designs from the learnings.
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
@@ -36,6 +43,9 @@ Consider bucketing research questions under research goals. For each question, t
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
 **Here are our research questions:**
+1. Are the users able to find what they are looking for?
+2. Will the users benefit from the updated presentation of the WEAMS Public in CT?
+3. What are the current pain points that users are facing?
   
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -45,21 +55,12 @@ What do you intend to learn and measure from this study? Think through these pro
 - Remember to constrain the hypothesis to the goals of your study!
 
 **Here is our hypothesis:**
+Participants will easily find the information they are seeking if the presentation is intuitive and well-organized. A clear and user-friendly format should enhance the participants comprehension and overall satisfaction with the WEAMS Public functionality within Comparison Tool, ultimately improving their ability to make informed decisions and participate in the program. Participants will share potential gaps or areas for improvement in the presentation that could better meet their needs and enhance their experience. 
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
-  
 Qualitative usability testing is the research method we plan to execute to test the feasibility of the solution. We will focus on users behaviors, preferences, and overall experiences while interacting with the prototype. This method will involve a small group of participants who represent the target audience. 
 
-Participants will be guided through tasks and will be asked open-ended questions to gather their thoughts and detailed responses about their experience. We will also note down any issues, frustrations, or successes along the way.
+Participants will be guided through tasks in the staging environment and will be asked open-ended questions to gather their thoughts and detailed responses about their experience. We will also note down any issues, frustrations, or successes along the way.
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
@@ -74,7 +75,6 @@ This will be a remote research study and we will use Zoom.
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
@@ -92,30 +92,22 @@ For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/r
 If recruiting outside of Perigean’s participant database:
 - [Link to recruitment flyer](url goes here)
 	
-## Recruitment	
-
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+Our intended audience is Veterans, Veteran's family member, Veteran's caregiver, or service member.
+We plan to work with Perigean for recruitment.
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+### Screener Questions
+1. How often do you go online to access VA benefits and services?
+2. Have you ever used WEAMS Public? 
+3. Are you comfortable joining the session on mobile or desktop?
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+List the total number and type (Veterans, caregivers, etc.) of participants for this study.
+- Total 15 participants
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
+-10 who have used WEAMS Public national exam search, licenses and certification search, 
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
   Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
 
