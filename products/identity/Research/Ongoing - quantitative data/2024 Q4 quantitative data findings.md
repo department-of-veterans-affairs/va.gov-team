@@ -9,13 +9,14 @@
 
 - [Key Data Points](#key-data-points)
 - [Discussion](#discussion)
-- [Raw data](#raw-data)
+- [Comparisons](#comparisons)
+- [Recommendations](#recommendations)
 
 ## Background
 This research considered the Medallia intercept survey, Medallia feedback survey, and the MyVA411 Call Center data from October 1, 2024 to November 30, 2025. This is part of our team's regular checkin with quantitatitve data.
 
 
-## **Methodology** 
+## Methodology 
 
 We requested data from the Contact Center Team in December, in preparation for the holidays, so this "quarter" view only includes October and November. A researcher went through and tagged entries with 39 tag options. Often more than one tag was applied to a given entry. Entries that were clear duplicates or had no information in them were excluded. We calculated the researcher applied tags, each individual data set’s relevant data to come away with findings.
 
@@ -32,7 +33,7 @@ We requested data from the Contact Center Team in December, in preparation for t
   * There is further ticket data that we could ask for, but it would be highly likely to include PII so this would be a special request. Also with over 14,000 tickets it is already a lot of data to parse even without this.
 * Across data type
 
-## Data \- October and November
+## Key data points
 
 * Medallia intercept survey \- 192 total entries reviewed and 416 total tags applied  
   * Top tags  
@@ -231,7 +232,7 @@ We requested data from the Contact Center Team in December, in preparation for t
 |  |  | Profile \- Personal Information | 134 | 33.58% |
 | total | 14,480 |  | 14,480 |  |
 
-## Comparisons across data sets
+## Comparisons
 
 	The sign in experience has had major changes over the last 6 months, namely with the deprecation of 2 credential (sign in) options and being very close to removing one of those. While over the long run we believe this will increase satisfaction with sign in, in the near term it’s no surprise that it decreased. While veterans want to have fewer options at sign in, they also don’t want to leave the option they use. So deprecating an option that just a year ago accounted for over 20% of sign ins each month, is naturally going to make a lot of folks upset. Change is hard. Add on that the process for signing up for a modern, more secure credential (ie Login.gov or ID.me) is difficult, especially with identity verification part of the process, and it’s a recipe for a lot of unhappy folks. This change is particularly hard. We must understand this context as we consider the late 2024 scores and data as compared to early 2024\.  
 From early 2024, counting all of February and March, to late 2024, counting all of October and November, the number of Feedback surveys for identity related products decreased quite substantially, by 75%. Intercept surveys also decreased by 26%. My VA411 help center calls increased by 4%. The total number decrease in surveys (857 fewer responses) was not quite offset by the increase in help center calls related to identity (620 more calls). This is interesting with the deprecation work of 2 credentials, I would have hypothesized there’d be a net increase in both responses and calls. Instead we saw a net decrease between all feedback sources looked at here.  
