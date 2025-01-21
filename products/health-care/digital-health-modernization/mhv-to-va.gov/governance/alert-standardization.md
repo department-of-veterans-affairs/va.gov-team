@@ -1,4 +1,4 @@
-# My HealtheVet on VA.gov | Alert Standardization
+# My HealtheVet on VA.gov | Account Security & Access Standardization
 To ensure a consistent Veteran experience and reduce cognitive load within the My HealtheVet-on-VA.gov portal, it is necessary to **standardize application behavior under access-limiting conditions**. This document seeks to explain the logic and standardized alert designs for each of these scenarios, so that all teams are aligned and deliver end-users a consistent user experience. 
 
 ## On this page: 
