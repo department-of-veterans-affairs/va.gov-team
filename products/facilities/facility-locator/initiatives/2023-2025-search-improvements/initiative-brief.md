@@ -22,6 +22,7 @@ Feature 3, mobile map, will be researched and ship separately.
 
 Out of scope epics: 
 * [Facility Locator iteration: Provider core training / PPMS data #14225](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14225)
+* [Update Facility Locator API to search by state #14915](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14915)
 
 
 ## User Journey
