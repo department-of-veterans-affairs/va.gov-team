@@ -75,11 +75,14 @@ If you need help with an existing claim or issue, we can connect you with someon
 Before we look at the website, let’s start with a few warm-up questions.
 
 1. I understand you are a Veteran/service member/family member/caregiver. Is that right?
-2. What kind of device are you using today? (Computer / Tablet / Smartphone)
+2. What kind of device are you using today? (Computer / Tablet / Smartphone) 
+     - *(If computer, ask:)* What I'm going to show you is small--phone-sized. Do you have a smartphone or tablet that you could use to also join this session?
 3. I will be sharing a web page link with you during the session. How would you prefer to
 receive the URL? I can dictate it to you, or put it in the Zoom chat. (RECORD)
-4. When you want to lean about a program or service offered by the VA, where do you go to look for information?
-5. About how frequently do you use VA.gov?
+4. When you want to learn about a program or service offered by the VA, where do you go to look for information?
+5. About how often do you use VA.gov?
+1. Can you tell me about the last time you used VA.gov and what you were looking for? 
+     - What were the results? Did you find what you were looking for?
 6. How easy or difficult would you say it is to find information you're looking for on VA.gov?
 
 ## Task 0: Screen sharing and protoype link 
