@@ -16,12 +16,12 @@ Historically, the `SavedClaim` model is used to persist form data. For the Decis
 * [SavedClaim::NoticeOfDisagreement](https://github.com/department-of-veterans-affairs/vets-api/blob/6f0cc7f516e5f4b6b14d0b0a19f86b2ccfdec753/app/models/saved_claim/notice_of_disagreement.rb)
 * [SavedClaim::SupplementalClaim](https://github.com/department-of-veterans-affairs/vets-api/blob/6f0cc7f516e5f4b6b14d0b0a19f86b2ccfdec753/app/models/saved_claim/supplemental_claim.rb)
 
-These models are populated via the respective DecisionReview controllers/models:
+These models are populated via the respective DecisionReview controllers or model method:
 * [HigherLevelReviewController](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v2/higher_level_reviews_controller.rb#L28)
-* [NoticeOfDisagreementsController](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/appeal_submission.rb#L64)
+* [AppealSubmission](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/appeal_submission.rb#L64) for Notice of Disagreements
 * [SupplementalClaimsController](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/decision_reviews/app/controllers/decision_reviews/v1/supplemental_claims_controller.rb#L104)
 
-Once these records are stored, scheduled jobs fetch the latest form status and update the `metadata` column:
+Once these records are stored, scheduled jobs fetch the latest form and attachment statuses to update the `metadata` column:
 * [DecisionReviews::HlrStatusUpdaterJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/decision_reviews/app/sidekiq/decision_reviews/hlr_status_updater_job.rb)
 * [DecisionReview::NodStatusUpdaterJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/decision_reviews/app/sidekiq/decision_reviews/nod_status_updater_job.rb)
 * [DecisionReview::ScStatusUpdaterJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/decision_reviews/app/sidekiq/decision_reviews/sc_status_updater_job.rb)
