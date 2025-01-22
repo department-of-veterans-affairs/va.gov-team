@@ -999,7 +999,7 @@ _VA.gov CMS team: Meghana Khandekar, Kate Saul, Eric Chiu_
 _VA.gov CMS team: Eileen Webb, Kevin Walsh_
 
 * 5 participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/content/cms/authoring-experience/research/ax%20research%20-%20axstudy1%20-%20March%202019)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/vamc-pao-user-research-March-2019)
 
 #### March 5-15: VA.gov CMS: Office, User Research 1
 *VA.gov CMS team, Research Lead: Eric Chiu*
