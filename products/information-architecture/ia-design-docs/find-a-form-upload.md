@@ -118,7 +118,10 @@ No redirects needed for this work.
  
 
 ## <a name="bestbets"></a>Best Bets<br>
-No best bets needed -- we do not set up best bets for about-a-form pages.
+No best bets recommended.
+- Form flow pages will organically appear in search
+- Best bets for these flows would compete with key pages about the form in the benefit space
+- Search logs can be reviewed for any search trends related to these pages, and adjustments can be made as appropriate.
 
 ## <a name="stagedrollout"></a>Staged Rollout<br>
 The team is rolling this out to 100% of users for the two forms they're starting with, so we should not need the staged rollout widget.
