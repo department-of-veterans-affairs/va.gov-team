@@ -206,8 +206,6 @@ I want you to explore the available options as if you were on your own and viewi
 **PROMPT**: Now we’re logged back into the VA website to see your claim.
 Without clicking anything, take a moment to review the page. Remember to think aloud as you scroll up and down.
 
-* Tell me what you see here. <br>
-*[Notes]*
 * If you want to know more about this alert, what would you do?<br>
 *[Notes]*
 
