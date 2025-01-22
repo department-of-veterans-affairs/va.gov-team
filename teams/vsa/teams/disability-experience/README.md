@@ -40,13 +40,12 @@ At the highest level, the core disability experience team is here to own, from t
 | Evelyn Davis | UX Research | evelyn@cityfriends.tech | evelynhilbrichdavis | 1 |
 | Amy Plange | Delivery Manager | amy.plange@coforma.io | AmyPlange | 2 |
 | Scott Regenthal | Engineer | scott.regenthal@oddball.io | freeheeling | 2 |
-| JR Reed| Engineer |  | mreed101 | 2 |
+| JR Reed| Engineer |michael.reed16@va.gov| mreed101 | 2 |
 | Nathan Burgess  | Engineer | nathan.burgess@coforma.io | NB28VT | 2 |
 | Kyle Soskin | Engineer | kyle.soskin@coforma.io | kylesoskin | 2 |
 | Ruben Sun | Research and Design | ruben.sun@coforma.io | rubensun  | 2 |
-| Nichole Nicholas | Research and Design | nichole.nicholas@coforma.io | nnicholas7 | 2 |
+| Qian Chen | Research and Design | qian.chen@coforma.io |  | 2 |
 | Lisa Capaccioli| Product Manager | lisa.capaccioli@coforma.io | lisacapaccioli | 2 |
-
 
 ## Product outline
 
