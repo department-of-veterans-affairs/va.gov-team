@@ -225,7 +225,6 @@ Without clicking anything, take a moment to review the page. Remember to think a
 
 ### Part 2 G: Status page - Resubmit Error - 10 minutes
 
-* Tell me what you see.
 * Describe what you think this alert is telling you.
 * What do you think is the relationship between what you're seeing here and what you saw in your email? 
   * [If needed for reference click the “reference email” button]
