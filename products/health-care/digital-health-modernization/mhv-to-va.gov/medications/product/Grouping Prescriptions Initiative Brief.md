@@ -85,8 +85,7 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
    - VA.gov, MHV legacy and VAHB all display different types of objects and date ranges.  This problem exists today, but the objects will be even more different with these changes.
    - May need training and additional education for helpcenters and MHVC.
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+
 
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
