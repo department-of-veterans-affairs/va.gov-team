@@ -75,15 +75,17 @@ If you need help with an existing claim or issue, we can connect you with someon
 Before we look at the website, let’s start with a few warm-up questions.
 
 1. I understand you are a Veteran/service member/family member/caregiver. Is that right?
-2. What kind of device are you using today? (Computer / Tablet / Smartphone) 
+1. What kind of device are you using today? (Computer / Tablet / Smartphone) 
      - *(If computer, ask:)* What I'm going to show you is small--phone-sized. Do you have a smartphone or tablet that you could use to also join this session?
-3. I will be sharing a web page link with you during the session. How would you prefer to
+1. I will be sharing a web page link with you during the session. How would you prefer to
 receive the URL? I can dictate it to you, or put it in the Zoom chat. (RECORD)
-4. When you want to learn about a program or service offered by the VA, where do you go to look for information?
-5. About how often do you use VA.gov?
+1. What VA benefits, if any, do you have experience with? 
+    - *health care / education / career services / disability / home loan / pension / life insurance / burial benefits / __________*
+1. When you want to learn about a program or service offered by the VA, where do you go to look for information?
+1. About how often do you use VA.gov?
 1. Can you tell me about the last time you used VA.gov and what you were looking for? 
      - What were the results? Did you find what you were looking for?
-6. How easy or difficult would you say it is to find information you're looking for on VA.gov?
+1. How easy or difficult would you say it is to find information you're looking for on VA.gov?
 
 ## Task 0: Screen sharing and protoype link 
 
@@ -254,52 +256,24 @@ Let's say that you want to change something about your military discharge. Show 
 What if this this article didn't answer your question? What would you do next?
 - [Navigation path: *Search / Filters / Landing page*]
 
-## Task X: TOPIC
-Please go back to the first page you were on [landing pg via breadcrumb].
-
-INSTRUCTIONS
-
-### Things to watch for:
-- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
-   - [Search string: ______________________________________________]
-   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
-   - [Filters: *Audience / Benefit / Topic*]
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Task X: TOPIC
-Please go back to the first page you were on [landing pg via breadcrumb].
-
-INSTRUCTIONS
-
-### Things to watch for:
-- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
-   - [Search string: ______________________________________________]
-   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
-   - [Filters: *Audience / Benefit / Topic*]
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
 
 ## Post-Task Interview - X minutes
+1. Overall, about everything you've seen in this session...What worked *well* for you?
+1. What was *unclear or didn't work well* for you?
+1. What would you like to *change or add*?
+1. Is there anything else that we haven't talked about that you think I should know? 
 
-- Question 1
-- Question 2
-- Any questions for me? 
-
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
+**Are you still okay if we use any video or audio clips from this session?** *(yes / no)*
+- [If yes:] Is there any part of our discussion you would NOT want shared in a video clip?
 
 
 ## Thank You and Closing - X minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
 
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+If you know any other Veterans or family members who might be willing to participate in a future research session like this one, you can pass along the web link that you'll receive in your email from our team. 
 
-Thank you so much again, and enjoy the rest of your day!
+Thank you so much again, and I hope that enjoy the rest of your day!
 
 ## Emergency Exit
 
