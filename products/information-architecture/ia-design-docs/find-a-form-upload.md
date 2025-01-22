@@ -56,7 +56,7 @@ _Updated 1/22/2025 by MN_
   - Example: VA.gov home > Find a VA form > Upload VA forms
   - Each segment must exactly match the H1 of the corresponding page
 - Notes:
-  - **This page must be tagged as "noindex" to keep it from appearing in search results.**
+  - **Optional: This page can be tagged as "noindex" to keep it from appearing in search result.**
   - Each form will follow this same pattern above.
     
 
