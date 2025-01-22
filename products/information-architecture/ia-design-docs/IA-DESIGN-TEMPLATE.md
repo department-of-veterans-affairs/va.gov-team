@@ -25,7 +25,6 @@
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
 
-
 ## <a name="url"></a>Page URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
 
@@ -48,23 +47,26 @@ Teams must launch with at least one entry point that allows site visitors to nav
 
 ### Required entry point(s)
 
-**1. [Page/placement name]**
-- Placement description: 
-- Link label: 
-- Link destination: 
-- Notes:
+1. **[Page/placement name]**
+  - Placement description: 
+  - Link details
+    - Link label: 
+    - Link destination: 
+  - Notes:
+    - Who will update (IA, content, product team):
+    - When will this entry point go live (at launch? After staged rollout? after some designated time?):
 
 ### Additional key entry points
 _Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
 
-**1. [Page/placement name]**
-- Placement description: 
-- Link label:
-- Link destination:
-- Who will update (IA, content, product team):
-- When will this entry point go live (at launch? After staged rollout? after some designated time?):
-- Notes:
-
+1. **[Page/placement name]**
+  - Placement description: 
+  - Link details
+    - Link label: 
+    - Link destination: 
+  - Notes:
+    - Who will update (IA, content, product team):
+    - When will this entry point go live (at launch? After staged rollout? after some designated time?):
 
 ##  <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience.* 
