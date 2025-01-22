@@ -5,9 +5,7 @@
 - [Summary data](#summary-data)
 - [Search page interactions](#search-page-interactions)
 - [Search metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/analytics-find-a-form.md#search-metrics)
-- [Top results viewed](#top-results-viewed)
-- [Top results clicked](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/analytics-find-a-form.md#top-10-results-clicked)
-- [Top 10 downloaded files](#top-10-downloaded-files)
+- [Search result metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/analytics-find-a-form.md#search-result-metrics)
   
 ## CSAT Scores
 ![image](https://github.com/user-attachments/assets/500b8762-3924-4104-88b6-f50fbe71e770)
@@ -77,7 +75,8 @@ December 2024
  | 	 Contact the VA forms managers 	 | 	 nav-linkslist 	 | 	 2,386 	 | 	 1,464 	 | 	 1,512 	 | 	 936 	 | 	 1,224 	 | 
  | 	 Contact the VA forms managers 	 | 	 nav-link-click 	 | 	 2,166 	 | 	 1,272 	 | 	 1,392 	 | 	 864 	 | 	 1,176 	 | 
 
-### Search metrics
+## Search metrics
+>1Q via GA
 
 |	Metric	|	1Q 2024 | 
 | --- | :---:|
@@ -96,7 +95,62 @@ December 2024
 | Able to complete tasks (percent of surveys): No | 75% | 
 | Able to complete tasks (percent of surveys): No response | 9% |
 
-## Top 10 results viewed
+---
+
+> August - December via GA4
+
+| Queries |Aug-24 | Sept-24 | Oct-24 | Nov-24 | Dec-24 |
+| ---  | :---:|:---:|:---:|:---:|:---:|
+| Total queries | 287,317 | 221,615 |204,146 |161,179 | 147,233 | 
+| searched by numberic ID|	 189,619 (66%)	 | 	 144,173 (65%)	 | 	 135,968 (67%) 	 | 	 103,006 (64%)	 | 	 94,095 (64%)	 | 	 
+| searched with plain text | 97,698 | 77,442 | 68,178 | 58,173 | 53,138 |
+
+### Most frequently searched by numeric ID
+
+| Search term |Aug-24 | Sept-24 | Oct-24 | Nov-24 | Dec-24 |
+| ---  | :---:|:---:|:---:|:---:|:---:|
+|	total using numeric id	|	 189,619 	 | 	 144,173 	 | 	 135,968 	 | 	 103,006 	 | 	 94,095 	 | 	 666,861 	|
+|	526	|	 10,182 	 | 	 6,029 	 | 	 5,107 	 | 	 2,430 	 | 	 1,969 	 | 	 25,717 	|
+|	21-526ez	|	 7,264 	 | 	 4,647 	 | 	 5,632 	 | 	 4,278 	 | 	 3,478 	 | 	 25,299 	|
+|	21-4138	|	 5,631 	 | 	 3,818 	 | 	 4,431 	 | 	 3,604 	 | 	 2,093 	 | 	 19,577 	|
+|	21-22	|	 4,740 	 | 	 4,342 	 | 	 4,585 	 | 	 3,141 	 | 	 1,417 	 | 	 18,225 	|
+|	995	|	 6,585 	 | 	 3,262 	 | 	 3,324 	 | 	 1,694 	 | 	 1,232 	 | 	 16,097 	|
+|	20-0995	|	 4,125 	 | 	 2,616 	 | 	 2,587 	 | 	 2,279 	 | 	 2,863 	 | 	 14,470 	|
+|	4138	|	 4,493 	 | 	 3,017 	 | 	 1,912 	 | 	 1,325 	 | 	 1,420 	 | 	 12,167 	|
+|	21-4142	|	 3,449 	 | 	 2,648 	 | 	 1,509 	 | 	 1,635 	 | 	 1,604 	 | 	 10,845 	|
+|	10-10ezr	|	 1,725 	 | 	 1,726 	 | 	 2,003 	 | 	 1,788 	 | 	 1,450 	 | 	 8,692 	|
+|	21-686c	|	 1,822 	 | 	 1,605 	 | 	 1,634 	 | 	 1,389 	 | 	 1,112 	 | 	 7,562 	|
+
+### Most frequently searched using plain language text
+
+| Search term |Aug-24 | Sept-24 | Oct-24 | Nov-24 | Dec-24 |
+| ---  | :---:|:---:|:---:|:---:|:---:|
+|	total using plain language	|	97698	|	77442	|	68178	|	58173	|	53138	|
+|	intent to file	|	960	|	802	|	1112	|	803	|	772	|
+|	travel	|	1172	|	803	|	558	|	495	|	341	|
+|	direct deposit	|	648	|	370	|	1049	|	556	|	310	|
+|	foia	|	834	|	492	|	279	|	710	|	433	|
+|	burial	|	494	|	680	|	248	|	402	|	372	|
+|	dbq	|	402	|	527	|	617	|	402	|	248	|
+|	aid and attendance	|	711	|	463	|	341	|	341	|	279	|
+|	vhic	|	62	|	340	|	803	|	802	|	31	|
+|	champva	|	556	|	740	|	155	|	217	|	279	|
+|	coe	|	835	|	556	|	279	|	123	|	124	|
+|	dic	|	649	|	402	|	278	|	186	|	279	|
+|	ptsd	|	741	|	432	|	186	|	248	|	186	|
+|	release of information	|	680	|	217	|	186	|	434	|	155	|
+|	report of contact	|	401	|	709	|	217	|	155	|	186	|
+|	travel pay	|	371	|	493	|	248	|	247	|	217	|
+|	request	|	464	|	310	|	217	|	186	|	340	|
+|	fmla	|	310	|	248	|	433	|	124	|	248	|
+|	rfs	|	587	|	186	|	217	|	186	|	186	|
+|	mental health	|	618	|	186	|	310	|	186	|	0	|
+|	id card	|	216	|	186	|	278	|	433	|	186	|
+|	pension	|	556	|	277	|	247	|	155	|	31	|
+
+## Search result metrics
+
+### Top results viewed
 > August - December 2024 via GA4
 
 | Search term | Form | Aug - Clicks | Sept - Clicks | Oct - Clicks | Nov - Clicks | Dec - Clicks | Total |
@@ -117,7 +171,7 @@ December 2024
 
 
 
-## Top 10 results clicked 
+### Top results clicked 
 > 1Q 2024 (Jan - Mar)
 
 | Search result | Clicks | 
@@ -133,7 +187,7 @@ December 2024
 |	Application for DIC, Survivors Pension, and/or Accrued Benefits	|	2,794
 |	Appointment of Veterans Service Organization as Claimant's Representative	|	2,211
 
-## Top 10 results clicked 
+### Top results clicked 
 > August - December 2024 via GA4
 
 | URL | Form name | Aug - Clicks | Sept - Clicks | Oct - Clicks | Nov - Clicks | Dec - Clicks | 
@@ -149,7 +203,7 @@ December 2024
 |	https://www.va.gov/find-forms/about-form-10-7959c |CHAMPVA—Other Health Insurance (OHI) Certification |	93	|	31	|	124	|	155	|	124	|	
 |	https://www.va.gov/find-forms/about-form-10-10ez | Instructions and Enrollment Application for Health Benefits	|	124	|	31	|	31	|	155	|	93	|	
 
-## Top 10 downloaded files
+## Top downloaded files
 August 2024- December 2024 via GA4
 > based on Event name = file_download
 
