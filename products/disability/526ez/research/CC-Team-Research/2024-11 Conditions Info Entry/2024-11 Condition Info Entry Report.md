@@ -39,7 +39,7 @@ The conditions page on the 526EZ form is where Veterans input new conditions for
 
 A key focus of this exploration is updating the page from the deprecated single-page multiple response pattern to the recommended [multi-page variation](https://design.va.gov/patterns/ask-users-for/multiple-responses). In addition to the multi-step flow, we are also exploring changes to the order and phrasing of the cause-related questions that follow the initial condition entry. In this new approach, referred to as the _condition-by-condition_ approach, tested as Apple, Veterans would complete all questions about one condition before moving on to the next, rather than the current state, referred to as the _conditions-first approach_, tested as Cherry, listing all conditions upfront and then answering additional questions about each condition. 
 
-Seven usability tests were conducted via Zoom, including four participants who used screen readers and three who used screen magnifiers**.** The sessions focused on validating the usability and effectiveness of the flows and identifying any challenges or improvements needed for the new condition date and laterality questions.
+Seven usability tests were conducted via Zoom, including four participants who used screen readers and three who used screen magnifiers. The sessions focused on validating the usability and effectiveness of the flows and identifying any challenges or improvements needed for the new condition date and laterality questions.
 
 
 ## Research Goals
@@ -164,7 +164,6 @@ Hypothesis statement: ("Maybe True", “Likely True”, “Definitely True”, �
 
 ## Key Findings
 
-#### Overall Experience
 **Overall Experience**
 
 1. Participants demonstrated a high overall task completion rate, with all participants successfully able to enter multiple conditions. 
