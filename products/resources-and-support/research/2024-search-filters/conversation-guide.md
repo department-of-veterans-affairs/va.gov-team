@@ -128,14 +128,14 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
 
 ### Things to watch for:
 - [Understand meaning of *Resources and support*?]
-- [Notice/click: *Search / Show filters / Featured / Common topics / Browse by benefit*]
+- [Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
 ## Task 2: Claim status
 Please go back to the first page you were on [landing pg via breadcrumb]. 
 
 Imagine that you submitted an application for VA benefits a few weeks ago and want to see when you can expect to hear back from the VA. Show me how you would try and find that information from here.
 
-[Record navigation path: *Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
 
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
@@ -146,8 +146,12 @@ Imagine that you submitted an application for VA benefits a few weeks ago and wa
   - [Which filters do they use? *Audience / Benefit / Topic*]
   - [Any confusion re filter names or categories within?]
   - [Do they select multiple categories within a filter?]
-  - [Do they click on filter chips on search results page?] 
-  - [Any confusion re filter chipsmes or categories within?]
+  - [Any missing filters?]
+  - [Do they use *Apply filters* and/or *Clear all* buttons?]
+  - [Do they click on filter chips on search results page?]
+  - [Any confusion re filter chips w/X vs. w/o X?] 
+
+
 
 ### Things to watch for:
 
