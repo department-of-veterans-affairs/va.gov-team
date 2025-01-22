@@ -270,7 +270,7 @@ This data is often too high level or vauge for us to take specific actions. Howe
   * If nothing, then look into if this is a change in how the call center classifies certain calls, to better be able to utilize this data in the future.
   * However EVSS erros are generally not errors that this team can effect changes over, so likely not worthwhile spending too much time on.
 * Design chagnes
-   * Consider how to make the sign out button more clear or easier to find
+   * Consider if there are ways to make the sign out button more clear or easier to find
    * Reconsider ways to push veterans towards MFA methods other than SMS. This might require working with CSPs where there are methods they don't currently offer
    * Press on CSPs to offer a bar code scan option on their driver's license for the ID verification step. We know that taking a clear image is a problamatic step, and this set of data further supports that. How can we get the CSPs to make this step easier for folks?
    * Revisit the page [Should I create a Login.gov or ID.me account to sign in to VA.gov?](https://www.va.gov/resources/should-i-create-a-logingov-or-idme-account-to-sign-in-to-vagov/), since there were several mentions of this not being clear enough. Consider design and content changes that could better present the difference to folks.
