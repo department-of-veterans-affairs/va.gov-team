@@ -8,15 +8,17 @@
 **IA Tracker:** 
 
 **On this page:**
-- [User/page flows](#flows)
+- [Navigation flows](#flows)
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
-- [Launch coordination activities](#launchstuff)
+- [Redirets](#redirects)
+- [Search best bets](#bestbets)
+- [Launch coordination activities](#launch)
 
 
-## <a name="flows"></a>User/page flows <br>
-*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
+## <a name="flows"></a>Navigation flows <br>
+*Illustration and/or description of how users will navigate to and flow through the experience for all impacted visitors typies. This helps identify key entry points and findability requirements, user flow scenarios, and content/messaging needs across various scenarios.*
 
 
 ## <a name="map"></a>Page structure<br>
@@ -24,7 +26,7 @@
 
 
 
-## <a name="url"></a>URLs and breadcrumbs
+## <a name="url"></a>Page URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
 
 
@@ -38,23 +40,24 @@
 - Breadcrumb: 
 - Notes: 
 
-### Sub-URLs
+
 
 ## <a name="nav"></a>Entry points <br>
 
-### Navigation pathways and entry point for launch
-See more about [navigation pathways and entry points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/entry-points.md). Teams must launch with at least one navigation pathway.
+Teams must launch with at least one entry point that allows site visitors to navigate to the new content or feature. 
 
-**1) Add/Modify/Remove Page/menu name**
+### Required entry point(s)
+
+**1. [Page/placement name]**
 - Placement description: 
 - Link label: 
 - Link destination: 
 - Notes:
 
-### Secondary entry points
-_Any additional locations that the page should be navigable from such as the "About a form" page, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc.   These are secondary, and while they are still very important, are not required for launch._
+### Additional key entry points
+_Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
 
-**1. Add/Modify/Remove page/menu name** - 
+**1. [Page/placement name]**
 - Placement description: 
 - Link label:
 - Link destination:
@@ -62,31 +65,34 @@ _Any additional locations that the page should be navigable from such as the "Ab
 - When will this entry point go live (at launch? After staged rollout? after some designated time?):
 - Notes:
 
-### Crosslinks
-_Not required. Links in content or in related links sections of other pages that point to this feature. This includes places where an existing crosslink may need to be updated. This section is not intended to capture every crosslinking placement, it is only to capture placements identified during the IA design process for reference.  Crosslinks are primarily identified by the content team and stakeholders.  The content team will be responsible for finding all existing referring links that may need to be updated._
 
-**1. Add/Modify/Remove link on a specific page** - 
-- Placement description: 
-- Link label:
-- Link destination:
-- Who will update (IA, content, product team):
-- When will this entry point go live (at launch? After staged rollout? after some designated time?):
-- Notes: 
+##  <a name="redirects"></a>Redirects <br>
+*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience.* 
 
-## <a name="launchstuff"></a>Launch coordination activities <br>
-
-### Redirects
-*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=redirect-request.md) at least 2 weeks in advance.*  
+**For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=redirect-request.md) at least 2 weeks in advance.**  
 
 Current URL | Redirect to | Notes
 --- | --- | ---
  |  | 
 
 
-### Best bets
-*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find content and features that are not easily found or not ranking well in search. Existing best bets must be removed or updated when links/URLs change.*
+## <a name="bestbets"></a>Search best bets
+*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find key content and features that are not ranking search well or competing with similar pages in search results. Existing best bets must be removed or updated when links/URLs change.*
 
-**1. Add/Modify/Remove Page name best bet** - 
+**1. Best bet for [page name]** - 
+- Destination page:
+- Additional keywords:
+
+## <a name="launch"></a>Launch coordination <br>
+*Communication when preparing for launch is critical to ensuring all supporting content, links, and messaging are implemented in a timely manner to ensure a good experience. Missing any of these steps can result in findability challenges, incorrect or misleading information, duplicate content, etc. *
+
+Key task | Responsibility | When to complete | Additional info
+--- | --- | --- | ---
+Communicate date of staging review | | Once scheduled |
+Submit redirect request | | at least 2 weeks prior to implementation | 
+Communicate launch date | | |
+
+
 
 
 ### Staged rollout
