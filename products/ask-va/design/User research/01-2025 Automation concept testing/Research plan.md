@@ -35,7 +35,7 @@ Ask VA can support Veterans, their family members, and other submitters at many 
 
 The key goals of this study are:
 
-* understand how submitters expect to interact with and benefit from automation
+* understand how submitters expect to interact with and benefit from automation when sending a question to VA
 * review whether certain automation features make it easier, faster and/or more intuitive for Veterans to send a question through Ask VA
 
 ### Outcome
