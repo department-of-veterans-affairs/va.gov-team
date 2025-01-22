@@ -220,7 +220,6 @@ I want you to explore the available options as if you were on your own and viewi
 **PROMPT**: Now we’re logged back into the VA website to see your claim.
 Without clicking anything, take a moment to review the page. Remember to think aloud as you scroll up and down.
 
-* Tell me what you see here
 * If you want to know more about this alert, what would you do?
 
 ### Part 2 G: Status page - Resubmit Error - 10 minutes
@@ -247,7 +246,6 @@ Without clicking anything, take a moment to review the page. Remember to think a
 ### Part 2 H: Resubmit notice page - 10 minutes
 Without clicking anything, take a moment to review the page. Remember to think aloud as you scroll up and down.
 
-* Tell me what you see?
 * What do you think is the relationship between what you're seeing here and what you saw in your email? 
   * [If needed for reference click the “reference email” button]
   * [Click the email logo to return to previous screen]
