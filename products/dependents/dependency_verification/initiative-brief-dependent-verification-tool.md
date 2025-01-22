@@ -19,6 +19,7 @@
  - *Product: Disability Claims*
    - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
  
+ 
  </details>
  
  > 💡 Helpful guidance/tips
@@ -31,6 +32,7 @@ Decrease the over- and under-payment amount for dependent-related benefits by al
 **Related/Associated product(s)**
 - 21-0538 | [Mandatory Verification of Dependents Form](https://www.va.gov/find-forms/about-form-21-0538/)
 - View/change dependents | [Landing Page](https://www.va.gov/view-change-dependents/)
+- Dependent Verification findability | [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/findability.md)
 
 ## Problem
 Currently, the VA overpays $250 million in dependent benefits each year. If a Veteran is overpaid a benefit, they are required to re-pay the overpayment back to the VA. Updating dependency information outside the 8-year requirement is voluntary, and the burden of remembering to make dependency updates falls on the Veteran. Verifying dependents through a paper form is also burdensome for many Veterans. These problems result in a very low-quality feedback loop for maintaining an accurate list of what dependents are intended to be on the award.
@@ -131,8 +133,7 @@ _What are the measurable targets you're aiming for that deliver value for Vetera
 
 * [Link to Release Plan for this Initiative](TBD)
 
-#### CAIA's IA feedback
-[View feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/verify-dependents.md)
+
 
 #### Initiative Launch Dates
 - *Target Launch Date*: July/August 2024
