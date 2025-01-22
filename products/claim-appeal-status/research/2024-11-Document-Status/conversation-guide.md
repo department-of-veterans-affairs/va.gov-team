@@ -64,7 +64,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 **PROMPT**: Let's say you are signed into your VA.gov account and you're looking at this page. You submitted a claim a month ago, and you're logging in to check and see if there's been an update.
 
 * Do you know what this page is? If yes, what is it?
-* Describe to me what you're seeing here.
 * Imagine you’re waiting for this top claim to be decided, and you want to upload evidence. What would you do?
 
 #### Things to watch for:
@@ -109,7 +108,6 @@ When the participant see the pre-populated upload file tell them:
 
 [Participant completes the File upload]
 
-* Now tell me what you see here.
 * How would you explain this message to a friend?
 * If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)
 * Is this what you expected to see?
@@ -146,7 +144,6 @@ When the participant see the pre-populated upload file tell them:
 
 **PROMPT**: Now, we're going to imagine that the VA has requested evidence from you.
 
-* Tell me what you see here.
 * What do you think this alert is communicating?
 * Based on the text in this alert, when you upload your file, when do you expect the alert to disappear?
 * If you want to know more about this request, what would you do?
@@ -160,7 +157,6 @@ When the participant see the pre-populated upload file tell them:
 
 [Click on "Details"]
 
-* Tell me what you see here.
 * Describe to me what this alert is communicating?
 * What pieces of information would you say are important to you on this page?
 * If you wanted to learn more about the alert, what would you do?
@@ -182,7 +178,6 @@ When the participant see the pre-populated upload file remind them:
 
 [Participant completes the File upload]
 
-* Now tell me what you see here.
 * If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)
 
 
