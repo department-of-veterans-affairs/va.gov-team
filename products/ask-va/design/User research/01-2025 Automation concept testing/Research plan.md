@@ -10,10 +10,10 @@ Last updated by @tygindraux: January 22, 2025
 - [Methodology](#methodology)
 - [Recruitment](#recruitment)
 - [Timeline](#timeline)
+- [Pilot session](#pilot-session)
 - [Research sessions](#research-sessions)
 - [Team roles](#team-roles)
 - [Approved by](#approved-by)
-- [Appendix](#appendix)
 
 ## Background
 
@@ -62,6 +62,7 @@ Understand whether certain automation features make it easier, faster or more in
 
 1. TBD
 2. TBD
+3. TBD
 
 ## Methodology
 
@@ -91,45 +92,51 @@ We will work with Perigean to recruit Veterans.
 
 ### Recruitment criteria
 
-We will recruit 8 Veterans for a total of 5-6 completed sessions.
+We will recruit 10 Veterans for a total of 7-8 completed sessions.
 
 For more details about our criteria, refer to our [Recruitment ticket](add link).
 
 |# of participants|Criteria|
 |:--|:--|
-|Exactly 8|Are Veterans|
-|Exactly 8|Have contacted VA online or over the phone in the past year|
-|Exactly 8|Have signed in to VA.gov in the past year|
-|Exactly 4|Are willing to join from a mobile device|
-|Exactly 4|Are willing to join from a desktop device|
-|At least 4|Have a cognitive disability or consideration|
-|At least 4|Are over 55 years old|
-|At least 2|Identify Asian or Hispanic*|
-|At least 2|Identify as Black or Native|
-|At least 2|Are rural|
-|At least 2|Don't have a degree|
-|At least 1|Identify as a gender other than male|
-|At least 1|Identify as LGBTQ+|
-
-*We're aiming to fill gaps in our previous studies. We've specifically called out Asian or Hispanic demographics because we haven't been able to recruit participants from these demographics in our last two studies. We want to ensure we recruit these underserved Veterans.
+|Exactly 10|Are Veterans|
+|Exactly 10|Have contacted VA online or over the phone in the past year|
+|Exactly 10|Have signed in to VA.gov in the past year|
+|Exactly 10|Are willing to join the session from a mobile device|
+|At least 5|Have a cognitive disability or consideration|
+|At least 5|Are over 55 years old|
+|At least 4|Identify as Black, Asian, Hispanic or Native|
+|At least 3|Are rural|
+|At least 3|Don't have a degree|
+|At least 2|Identify as a gender other than male|
+|At least 2|Identify as LGBTQ+|
 
 ### Screener questions
 
 1. Have you contacted the VA online or over the phone in the past year? [Yes, no: Must answer Yes to qualify]
-2. Have you used Ask VA before? Share link to [Ask VA](https://ask.va.gov/). [Yes, no: Their answer won't have any impact on whether they qualify]
-3. Have you signed in to VA.gov in the past year? [Yes, no: Must answer Yes to qualify]
-4. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet. [Yes, no: Exactly half of participants must answer Yes to qualify]
-5. Are you able to join the Zoom session from a desktop or laptop computer? Any kind of desktop or laptop will work as long as it connects to the internet.  [Yes, no: Exactly half of participants must answer Yes to qualify]
-6. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.  [Yes, no: At least half of participants must answer Yes to qualify]
+2. Have you signed in to VA.gov in the past year? [Yes, no: Must answer Yes to qualify]
+3. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet. [Yes, no: Exactly half of participants must answer Yes to qualify]
+4. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.  [Yes, no: At least half of participants must answer Yes to qualify]
 
-## Pilot sessions
+## Timeline
 
-Perigean does **not** need to set up our pilot sessions. Tyler will schedule and add participants herself.
+|Date|Milestone|
+|:--|:--|
+|February 4, 2025|Research Review|
+|TBD February 10 or 11, 2025|Pilot session|
+|February 18 - 21, 2025|Research sessions|
+|February 24 - 28, 2025|Synthesis|
+|March 3, 2025|Share findings|
+|March 4 - 17, 2025|Support engineering spike|
+|March 17, 2025|Make recommendation|
+
+## Pilot session
+
+Perigean does **not** need to set up our pilot session. Tyler will schedule and add participants herself.
 
 ### Pilot
 
 - Pilot participant: TBD
-- Date and time of pilot session: TBD
+- Date and time of pilot session: TBD around Feb 10th or 11th
 
 ## Research sessions
 
@@ -139,20 +146,16 @@ Perigean does **not** need to set up our pilot sessions. Tyler will schedule and
 
 ### Availability
 
-We will provide 16 time slots, with the aim to book 8 sessions.
+We will provide 20 time slots, with the aim to book 10 sessions. Please prioritize filling earlier sessions in the schedule first.
 
-If possible, we'd like to prioritize filling earlier sessions in the schedule, first.
-
-These time slots are for Perigean. We will schedule sessions with business submitters ourselves, separately.
-
-**We’d also like to request that Perigean calls each participant to remind them about the session, in addition to emailing them. Please include the session time in each participant's respective time zone (from their address).**
+**When Perigean schedules the sessions, we request that they include the session time in the participant's respective time zone (from their address).**
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Monday, X|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
-|Tuesday, X|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
-|Wednesday, X|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
-|Thursday, X|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
+|Tuesday, February 18|9-10am, 10:30am-11:30am, 12-1pm, 1:30-2:30pm, 3-4pm|
+|Wednesday, February 19|9-10am, 10:30am-11:30am, 12-1pm, 1:30-2:30pm, 3-4pm|
+|Thursday, February 20|9-10am, 10:30am-11:30am, 12-1pm, 1:30-2:30pm, 3-4pm|
+|Friday, February 21|9-10am, 10:30am-11:30am, 12-1pm, 1:30-2:30pm, 3-4pm|
 
 ## Team roles
 
