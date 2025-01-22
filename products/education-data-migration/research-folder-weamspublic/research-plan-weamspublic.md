@@ -108,10 +108,14 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
--10 who have used WEAMS Public national exam search, licenses and certification search, looking up programs within institutions
--3 who have never used WEAMS Public
--2 user with PTSD
+- 10 who have used WEAMS Public national exam search, licenses and certification search, looking up programs within institutions
+- 3 who have never used WEAMS Public
+- 2 user with PTSD
+- 8 users join through desktop
+- 7 users join through mobile
 
+**Secondary criteria (nice-to-haves)**
+What criteria would strengthen your results? No secondary criteria.
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
@@ -120,8 +124,8 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: ekaterina.shick@va.gov
+* Date and time of pilot session: 1/31/25 between 1-3pm EST
 
 ### Research sessions
 * Planned dates of research: 2/5/25 - 2/10/25
@@ -129,23 +133,24 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ### Length of sessions
 * Session length: 45 minutes 
 * Buffer time between sessions: 30 minutes 
-* Maximum Sessions per day: 5 
+* Maximum Sessions per day: 4 sessions per day
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+
+For all planned dates of research we are available between 9:30am to 4pm EST.
 	
 ## Team Roles	
 **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
 
 **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Send emails only for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
-
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
+- Moderator: Sneha Kulkarni   
+- Research guide writing and task development (usually but not always same as moderator): Sneha Kulkarni        
+- Participant recruiting & screening: Perigean       
+- Project point of contact: Cassidy Beach, Theresa Simeone       
+- Participant(s) for pilot test: Sneha Kulkarni, Jennifer Drahota
+- Accessibility specialist (for sessions where support for assistive technology may be needed):        
+- Note-takers: Jennifer Drahota          
 - Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.
