@@ -33,22 +33,19 @@ Ask VA can support Veterans, their family members, and other submitters at many 
 
 ## Research goals
 
-The key goal of this study:
+The key goals of this study are:
 
-* TBD
-* TBD
-
-test ideas for automating parts of Ask VA
-identify which ideas to take forward 
-understand which features we should test in staging
+* understand how submitters expect to interact with and benefit from automation
+* review whether certain automation features make it easier, faster and/or more intuitive for Veterans to send a question through Ask VA
 
 ### Outcome
 
-This research will help us determine how we should use automation to support the submitter experience of Ask VA. We will develop a clear recommendation for which feature(s) to carry forward and prioritize building.
+This research will help us determine how we should use automation to support the submitter experience of Ask VA. 
+
+We will develop a clear recommendation for which feature(s) to carry forward and prioritize building.
 
 ### Research questions
 
-* 
 * TBD
 * TBD
 
