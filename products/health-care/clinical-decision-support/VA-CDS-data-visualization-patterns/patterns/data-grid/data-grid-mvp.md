@@ -36,8 +36,8 @@ The Lung Cancer System app’s outcome is to help the clinician review the patie
 <br>
 
 #### LCS Users
-- Power user(s): 
-- Other users:
+- Power user(s): LCS coordinator (RN, PA, NP)
+- Other users: n/a
 <br>
 
 #### LCS Data Values in Scope _(needs review)_
@@ -84,8 +84,9 @@ The Task Manager app’s outcome (will get this from confluence)
 <br>
 
 #### TM Users
-- Power user(s):
-- Other users:
+- Power user(s): co-located Teams (teams in a single site)
+- Other users: n/a
+- Out of Scope team: remote teams
 <br>
 
 #### TM Data Values in Scope
