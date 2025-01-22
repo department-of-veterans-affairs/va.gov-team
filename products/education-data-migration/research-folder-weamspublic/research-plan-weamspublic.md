@@ -7,7 +7,7 @@ Briefly describe the background of your product. Consider:
 - Where is your product situated on VA.gov? (ex: auth vs. unauth) In Comparison Tool and unauthenticated.
 - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one? Veterans are familiar with WEAMS Public. We are migrating the information from WEAMS Public into Comparison Tool.
 
-[Link to product brief](url goes here).
+[Link to product brief]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-data-migration/edm-weams-public-product-outline.md)).
 
 ### OCTO Priorities 
 
