@@ -50,13 +50,13 @@ Understand how submitters expect to interact with and benefit from automation wh
 * Do submitters recognize when something is automated? How does this change their experience?
 * What are submitters key hopes and fears when it comes to automation?
 * Which part of the process of submitting a question could benefit the most from automation?
-* Are there other ways submitters expect Ask VA to be automated, besides these concepts?
+* Are there other ways, besides these concepts, that submitters expect Ask VA to be automated?
 
 Understand whether certain automation features make it easier, faster or more intuitive for Veterans to send a question through Ask VA
 * How does this concept make it easier or more difficult for Veterans to ask their question?
 * How does this concept make it faster or slower for Veterans to ask their question?
-* How does this concept make it more intuitive or less for Veterans to ask their question?
-* Are there foreseeable issues with implementing this concept based on submitter's experiences?
+* How does this concept make it more or less intuitive for Veterans to ask their question?
+* Which issues do we foresee with implementing this concept based on submitter's experiences?
 
 ### Hypotheses
 
