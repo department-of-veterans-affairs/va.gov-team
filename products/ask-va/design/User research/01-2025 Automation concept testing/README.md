@@ -4,9 +4,9 @@
 [2025-01 Ask VA: Automation concept testing #TBD](add link)
 
 ## Background
-Ask VA (AVA) is an online portal that allows Veterans, caregivers and others to submit questions to VA and receive a secure response. Currently, AVA resides within a stand-alone Microsoft portal that is inconsistent with VA design standards, is not mobile-friendly, and has accessibility issues. 
+Ask VA (AVA) (AVA) lets Veterans, their family members and other submitters ask VA a question. Last year, VA received over 400,000 questions through Ask VA. Ask VA includes a form, where submitters share their question with VA, and, a dashboard, where submitters review past questions, read replies from VA and reply back.
 
-We need to move AVA to VA.gov. It should be mobile friendly, accessible and easy to submit an issue and receive updates and information that results in a final resolution. Ultimately, we want AVA to feel part of a cohesive and user-centered approach to support. This [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Product%20outline.md) includes more details.
+We’re currently moving Ask VA to VA.gov. It needs to be mobile friendly, accessible and simpler to ask a question. This [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Product%20outline.md) includes more details.
 
 ## Research goals
 * TBD
