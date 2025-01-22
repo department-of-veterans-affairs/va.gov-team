@@ -151,7 +151,9 @@ Imagine that you submitted an application for VA benefits a few weeks ago and wa
   - [Do they click on filter chips on search results page?]
   - [Any confusion re filter chips w/X vs. w/o X?] 
 
+[Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
+- [Found target content? successful / needed help / unsuccessful]
 
 ### Things to watch for:
 
