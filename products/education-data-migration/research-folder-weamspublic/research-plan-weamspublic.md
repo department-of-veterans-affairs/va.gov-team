@@ -11,7 +11,8 @@ Briefly describe the background of your product. Consider:
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) does this research support? Work with your VA lead and product manager as needed. This research supports all three objectives.
+Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) does this research support? 
+- This research supports all three objectives.
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
@@ -22,8 +23,6 @@ Are there moments that matter?
 ## Research Goals	
 What are you trying to learn from this research? 
 With this research goal, we will learn scenarios where users aren't able to find what they are looking, their pain points. From there, we will know how we can provide a more optimal solution.
-
-Are users able to use search criteria to find the license, certification or prep course they want? Does the content provided give them what they need to make the next decision? Is the language clear, easy to understand? How do they find the navigation experience? What is thier opinion on the presentation?
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
