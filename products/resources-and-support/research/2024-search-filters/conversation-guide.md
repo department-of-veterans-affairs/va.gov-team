@@ -135,11 +135,22 @@ Please go back to the first page you were on [landing pg via breadcrumb].
 
 Imagine that you submitted an application for VA benefits a few weeks ago and want to see when you can expect to hear back from the VA. Show me how you would try and find that information from here.
 
+[Record navigation path: *Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+
+- [**If they try to use *search***, ask:] What are you trying to do? 
+  - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
+  - [Record search string: ______________________________________________]
+  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+
+- [If they try **Show filters**...]
+  - [Which filters do they use? *Audience / Benefit / Topic*]
+  - [Any confusion re filter names or categories within?]
+  - [Do they select multiple categories within a filter?]
+  - [Do they click on filter chips on search results page?] 
+  - [Any confusion re filter chipsmes or categories within?]
+
 ### Things to watch for:
-- [Navigation path: *Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
-  - [Search string: ______________________________________________]
-  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
-  - [Filters: *Audience / Benefit / Topic*]
+
 - [Any confusion with *Decision reviews and appeals*?]
 
 ## Task 3: Community Care 
