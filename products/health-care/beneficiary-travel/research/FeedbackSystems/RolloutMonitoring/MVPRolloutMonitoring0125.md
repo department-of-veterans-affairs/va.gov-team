@@ -171,7 +171,7 @@ No feedback for 1/13/25
 
 ### 1/21/25 - 75%
 #### Medallia Feedback
-Pending
+1 user response using the VFS Questionnaire.  Rated their satisfaction as a 1, did not explain or answer any other questions.
 
 #### Google Analytics
 #### DataDog
