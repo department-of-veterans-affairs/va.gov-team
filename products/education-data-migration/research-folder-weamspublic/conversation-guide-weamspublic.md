@@ -70,9 +70,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 We want your unfiltered honest opinions so pleas help us understand your thought process and think out loud as you're working through the tasks.
 
-## First Task: [TASK NAME] - X minutes
+## First Task: [Licenses, certifications, and prep courses] - X minutes
 - Please take a moment to read and review the licenses, certifications, and prep courses...
-- Go ahead now make the selections of your choosing and select submit
+- Go ahead now make the selections of your choosing and select submit.
 - Walk me through what you see and think out loud while you're reviewing this search results page.
 - Please go ahead and make a selection from the results that you see.
 
@@ -89,7 +89,7 @@ We want your unfiltered honest opinions so pleas help us understand your thought
 4. Can you explain your thought process?
 5. Did the dropdown that appeared while you were typing the license/certification name allow you to choose what you wanted?
 6. Do the details within the licese/cert/prep course provide what you're looking for?
-7. Rate your overall experience on the steps you took to get here from 1 being easy and 5 being difficult?
+7. Rate your overall experience on the steps you took to get here from 1 being easy and 5 being difficult.
 
 
 ## Second Task: [TASK NAME] - X minutes
@@ -103,16 +103,22 @@ We want your unfiltered honest opinions so pleas help us understand your thought
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
+## Third Task: [National exams] - X minutes
 
-- Step 1
-- Step 2
+- Please take a moment to read and review this natioanl exams from the top.
+- Select an exam that you are interested in
 
 ### Things to watch for:
 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
+
+1. What did you take away from the intro paragraph?
+2. If you wanted to find out how to get reimbursed, how would you do that?
+3. What are the total number of exams?
+4. Can you tell me the steps you'd take to get reimbursement for a national exam?
+5. 
 
 ## Post-Task Interview - X minutes
 
