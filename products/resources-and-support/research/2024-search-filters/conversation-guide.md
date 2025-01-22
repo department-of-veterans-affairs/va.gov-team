@@ -133,7 +133,7 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
 - [Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
 ## Task 2: Claim status
-Please go back to the first page you were on [landing pg via breadcrumb].   
+Please go back to the first page you were on [landing pg via breadcrumb]. 
 
 Imagine that you submitted an application for VA benefits a few weeks ago and want to see when you can expect to hear back from the VA. Show me how you would try and find that information from here.
 
