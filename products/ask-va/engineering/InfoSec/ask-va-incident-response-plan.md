@@ -2,13 +2,12 @@
 
 The purpose of this plan is to outline what to do in the event there is an incident reported or identified that pertains to Ask VA (AVA). 
 
-#### Update History
+#### Last Updated
 
 | Date      | Description of Change                                           | Author |
 | --------- | --------------------------------------------------------------- | ------ |
 |1/22/2025  | Updated communication plan and incident investigations step     | @arielma-tw |
-|1/14/2025  | Updated contact list                                            | @arielma-tw       |
-| 1/13/2025 | Moved to Github. Cleaned up format and added new slack channels |  @arielma-tw      |
+
 
 
 ### Points of Contact
