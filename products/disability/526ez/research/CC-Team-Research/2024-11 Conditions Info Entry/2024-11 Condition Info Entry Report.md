@@ -14,7 +14,7 @@ Authors: [Sudeepti Bhatnagar](mailto:sudeeptibhatnagar@navapbc.com), [Kyra Berma
 
 - [Research Questions](#research-questions)
 
-- [**Methodology****** ](#methodology)
+- [Methodology](#methodology)
 
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
 
@@ -22,7 +22,7 @@ Authors: [Sudeepti Bhatnagar](mailto:sudeeptibhatnagar@navapbc.com), [Kyra Berma
 
 - [Details of findings](#details-of-findings)
 
-- [Recommendations](https://docs.google.com/document/d/1kOuTJdGdX4_uJ3Zk9z_AZirbBmYzmXH4_oWWRJQqDbA/edit?tab=t.0#heading=h.32j75itbvxru)
+- [Recommendations](#recommendations)
 
 - [Further research needed](#further-research-needed)
 
@@ -165,41 +165,37 @@ Hypothesis statement: ("Maybe True", “Likely True”, “Definitely True”, �
 ## Key Findings
 
 #### Overall Experience
+**Overall Experience**
 
-1. ### [Participants demonstrated a high overall task completion rate, with all participants successfully able to enter multiple conditions. ](#participants-demonstrated-a-high-overall-task-completion-rate-with-all-participants-successfully-able-to-enter-multiple-conditions)
+1. Participants demonstrated a high overall task completion rate, with all participants successfully able to enter multiple conditions. 
 
-2. ### [The multiple-page multiple response pattern appears to have improved usability and user experience compared to the current single-page pattern. ](#the-multiple-page-multiple-response-pattern-appears-to-have-improved-usability-and-user-experience-compared-to-the-current-single-page-pattern)
+2. The multiple-page multiple response pattern appears to have improved usability and user experience compared to the current single-page pattern. 
 
-3. [No clear preference or differentiation emerged between the Apple and Cherry prototypes. ](#no-clear-preference-or-differentiation-emerged-between-the-apple-and-cherry-prototypes)
+3. No clear preference or differentiation emerged between the Apple and Cherry prototypes. 
 
+**Areas of Improvement** 
 
-#### Areas of Improvement 
+Autocomplete Functionality: 
 
-### Autocomplete Functionality: 
+4. Participants using assistive technology struggled to discover and consistently use the autosuggestion feature, limiting its potential effectiveness.
 
-4. ### [Participants using assistive technology struggled to discover and consistently use the autosuggestion feature, limiting its potential effectiveness.](#autocomplete-functionality)
+Date Component: 
 
+5. Participants were unclear about the date question's content and uncertain about what date they should enter.
 
-### Date Component: 
+6. The aria-label for the date input was misleading, causing screen readers to announce it as "MM" rather than accurately indicating that users should select a month from a list..
 
-5. ### [Participants were unclear about the date question's content and uncertain about what date they should enter.](#date-component)
-6. ### [The aria-label for the date input was misleading, causing screen readers to announce it as "MM" rather than accurately indicating that users should select a month from a list.](#the-aria-label-for-the-date-input-was-misleading-causing-screen-readers-to-announce-it-as-mm-rather-than-accurately-indicating-that-users-should-select-a-month-from-a-list).
+Laterality question: 
 
+7.  The laterality question was effective in prompting participants to specify the side of the body when they had not already done so in the text input. However, the option to bypass this dedicated question by entering side descriptors directly into the condition text input raises concerns about data consistency and potential impacts on adjudication.
 
-### Laterality question: 
+Cause questions: 
 
-7. [ The laterality question was effective in prompting participants to specify the side of the body when they had not already done so in the text input. However, the option to bypass this dedicated question by entering side descriptors directly into the condition text input raises concerns about data consistency and potential impacts on adjudication.](#the-laterality-question-was-effective-in-prompting-participants-to-specify-the-side-of-the-body-when-they-had-not-already-done-so-in-the-text-input-however-the-option-to-bypass-this-dedicated-question-by-entering-side-descriptors-directly-into-the-condition-text-input-raises-concerns-about-data-consistency-and-potential-impacts-on-adjudication)
+8. Cause-related questions were generally clear and understandable, but some usability patterns indicate opportunities for improvement.
 
+Screen-reader specific challenges:
 
-### Cause questions: 
-
-8. ### [Cause-related questions were generally clear and understandable, but some usability patterns indicate opportunities for improvement.](#cause-questions)
-
-
-### Screen-reader specific challenges:
-
-9. ### [Screen reader participants were disproportionately affected by technical issues, which caused a more difficult user experience](#screen-reader-specific-challenges)
-
+9. Screen reader participants were disproportionately affected by technical issues, which caused a more difficult user experience
 
 ## Details of Findings
 
