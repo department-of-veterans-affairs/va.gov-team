@@ -18,7 +18,8 @@ Please add any potential future topics you would like covered below:
 ## Topic Dives
 
 ### 1/21/25 - Drupal client-side validation
-[Drupal client-side validation Recording]: https://us06web.zoom.us/rec/share/kckLh9vQVe8mMJ7uGGAY-J6huXE_Ik0TkMOeITAI3ngAuwOJGc5yn8nHnt__Njzk.8BTOWXlwzp8idG08
+
+[Drupal client-side validation Recording](https://us06web.zoom.us/rec/share/kckLh9vQVe8mMJ7uGGAY-J6huXE_Ik0TkMOeITAI3ngAuwOJGc5yn8nHnt__Njzk.8BTOWXlwzp8idG08)
 Passcode: ?K0tRqbj
 
 The client-side validation module in Drupal has some quirks. Sitewide implemented a new part of the module interface (submitted upstream to the module maintainer) to address an issue where a JQuery bug in the library used by the module causes client-side validation to stop working after it encounters validation errors on any date/time field. 
