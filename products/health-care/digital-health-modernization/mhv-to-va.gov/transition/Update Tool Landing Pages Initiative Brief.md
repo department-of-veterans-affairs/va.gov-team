@@ -117,5 +117,5 @@ Veterans can access their Messages and Medications with fewer clicks to find wha
 
 
 #### Stakeholders
-- OCC: Eric Spahn (Meds), Patty Henry (SM)
+- OCC: Eric Spahn (Meds), Patty Henry (SM), Bresha Lipscomb (MR)
 
