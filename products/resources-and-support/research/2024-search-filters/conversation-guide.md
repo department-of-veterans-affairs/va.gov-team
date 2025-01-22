@@ -176,6 +176,28 @@ Now imagine that you currently receive health care through the VA. You've heard 
 - [Does the participant notice xyz?]
 - [Etc]
 
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+
+- [**If they try to use *search***, ask:] What are you trying to do? 
+  - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
+  - [Record search string: ______________________________________________]
+  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+
+- [If they try **Show filters**...]
+  - [Which filters do they use? *Audience / Benefit / Topic*]
+  - [Any confusion re filter groups or items within the groups?]
+  - [Do they select multiple categories within a filter?]
+  - [Any confusion re and/or logic between filters and across filter groups?]
+  - [Any missing filters?]
+  - [Do they use *Apply filters* and/or *Clear all* buttons?]
+  - [Do they click on filter chips on search results page?]
+  - [Any confusion re filter chips w/X vs. w/o X?] 
+
+[Once they open the content page and think it's what they were looking for, say:] You can stop here. 
+
+- [Found target content? successful / needed help / unsuccessful]
+
+
 ## Task 4: Travel reimbursement
 Please go back to the first page you were on [landing pg via breadcrumb].
 
@@ -191,6 +213,27 @@ Let's assume that you just visited a VA medical center for an appointment, and y
 
 What if this this article didn't answer your question? What would you do next?
 - [Navigation path: *Search / Filters / Landing page*]
+
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+
+- [**If they try to use *search***, ask:] What are you trying to do? 
+  - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
+  - [Record search string: ______________________________________________]
+  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+
+- [If they try **Show filters**...]
+  - [Which filters do they use? *Audience / Benefit / Topic*]
+  - [Any confusion re filter groups or items within the groups?]
+  - [Do they select multiple categories within a filter?]
+  - [Any confusion re and/or logic between filters and across filter groups?]
+  - [Any missing filters?]
+  - [Do they use *Apply filters* and/or *Clear all* buttons?]
+  - [Do they click on filter chips on search results page?]
+  - [Any confusion re filter chips w/X vs. w/o X?] 
+
+[Once they open the content page and think it's what they were looking for, say:] You can stop here. 
+
+- [Found target content? successful / needed help / unsuccessful]
 
 
 ## Task 5: Evidence to support claim
@@ -210,6 +253,27 @@ Please go back to the first page you were on [landing pg via breadcrumb].
 What if this this article didn't answer your question? What would you do next?
 - [Navigation path: *Search / Filters / Landing page*]
 
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+
+- [**If they try to use *search***, ask:] What are you trying to do? 
+  - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
+  - [Record search string: ______________________________________________]
+  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+
+- [If they try **Show filters**...]
+  - [Which filters do they use? *Audience / Benefit / Topic*]
+  - [Any confusion re filter groups or items within the groups?]
+  - [Do they select multiple categories within a filter?]
+  - [Any confusion re and/or logic between filters and across filter groups?]
+  - [Any missing filters?]
+  - [Do they use *Apply filters* and/or *Clear all* buttons?]
+  - [Do they click on filter chips on search results page?]
+  - [Any confusion re filter chips w/X vs. w/o X?] 
+
+[Once they open the content page and think it's what they were looking for, say:] You can stop here. 
+
+- [Found target content? successful / needed help / unsuccessful]
+
 
 ## Task 6: Sign in
 Please go back to the first page you were on [landing pg via breadcrumb].
@@ -225,6 +289,27 @@ Let's say that you're having some difficulty getting into your VA account online
 - [Does the participant notice xyz?]
 - [Etc]
 
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+
+- [**If they try to use *search***, ask:] What are you trying to do? 
+  - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
+  - [Record search string: ______________________________________________]
+  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+
+- [If they try **Show filters**...]
+  - [Which filters do they use? *Audience / Benefit / Topic*]
+  - [Any confusion re filter groups or items within the groups?]
+  - [Do they select multiple categories within a filter?]
+  - [Any confusion re and/or logic between filters and across filter groups?]
+  - [Any missing filters?]
+  - [Do they use *Apply filters* and/or *Clear all* buttons?]
+  - [Do they click on filter chips on search results page?]
+  - [Any confusion re filter chips w/X vs. w/o X?] 
+
+[Once they open the content page and think it's what they were looking for, say:] You can stop here. 
+
+- [Found target content? successful / needed help / unsuccessful]
+
 ## Task 7: Payments and debt
 Please go back to the first page you were on [landing pg via breadcrumb].
 
@@ -238,6 +323,26 @@ Please show me how you might check to see whether you owe the VA any money.
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+
+- [**If they try to use *search***, ask:] What are you trying to do? 
+  - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
+  - [Record search string: ______________________________________________]
+  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+
+- [If they try **Show filters**...]
+  - [Which filters do they use? *Audience / Benefit / Topic*]
+  - [Any confusion re filter groups or items within the groups?]
+  - [Do they select multiple categories within a filter?]
+  - [Any confusion re and/or logic between filters and across filter groups?]
+  - [Any missing filters?]
+  - [Do they use *Apply filters* and/or *Clear all* buttons?]
+  - [Do they click on filter chips on search results page?]
+  - [Any confusion re filter chips w/X vs. w/o X?] 
+
+[Once they open the content page and think it's what they were looking for, say:] You can stop here. 
+
+- [Found target content? successful / needed help / unsuccessful]
 
 
 ## Task 8: Discharge upgrade *(NOT for Service members)*
@@ -256,6 +361,26 @@ Let's say that you want to change something about your military discharge. Show 
 
 What if this this article didn't answer your question? What would you do next?
 - [Navigation path: *Search / Filters / Landing page*]
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+
+- [**If they try to use *search***, ask:] What are you trying to do? 
+  - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
+  - [Record search string: ______________________________________________]
+  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+
+- [If they try **Show filters**...]
+  - [Which filters do they use? *Audience / Benefit / Topic*]
+  - [Any confusion re filter groups or items within the groups?]
+  - [Do they select multiple categories within a filter?]
+  - [Any confusion re and/or logic between filters and across filter groups?]
+  - [Any missing filters?]
+  - [Do they use *Apply filters* and/or *Clear all* buttons?]
+  - [Do they click on filter chips on search results page?]
+  - [Any confusion re filter chips w/X vs. w/o X?] 
+
+[Once they open the content page and think it's what they were looking for, say:] You can stop here. 
+
+- [Found target content? successful / needed help / unsuccessful]
 
 
 ## Post-Task Interview - X minutes
