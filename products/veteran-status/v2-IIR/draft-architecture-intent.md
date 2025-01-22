@@ -84,13 +84,13 @@ Please see our [Collaboration Cycle Request issue](https://github.com/department
 
 ## UX design description
 
-Please see the green section of our [UX designs](https://www.figma.com/design/AobGKkBvIiDuYXR2QqkytC/IIR-Veteran-Status?node-id=2812-32352). These changes are not expected to introduce engineering challenges
+Please see the green section of our [UX designs](https://www.figma.com/design/AobGKkBvIiDuYXR2QqkytC/IIR-Veteran-Status?node-id=2812-32352). These changes are not expected to introduce engineering challenges. NOTE: IIR is only implementing the va.gov designs. We will be working with the mobile app team to have them implement the mobile app designs.
 
 - The veteran status card is moved to its own page.
-- A card is added to [Profile](https://www.va.gov/profile) linking to the new page.
-- The banner at the top of the Profile page will have a new link to the veteran status card page.
+- A card is added to [Profile Hub](https://www.va.gov/profile) linking to the new page.
+- The name tag banner at the top of the Profile page will have a new link to the veteran status card page.
 - Text is refined and a FAQ section with an accordion is added.
-- Changes to the card including replacing service dates with 'veteran since', reordering the items on the card, and the addition of a watermark.
+- Changes to the card including replacing service dates with 'veteran since', reordering the items on the card, and updating the design of the card.
 - Addition on an email address link for issue resolution
 
 ## Frontend changes
