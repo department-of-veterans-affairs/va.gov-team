@@ -80,10 +80,10 @@ Performance KPIs measure the technical aspects of Ask VA, such as speed, reliabi
 |KPI|Actual targets as of [date]|
 |:--|:--|
 |**Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions|VA.gov silent failures rate: Currently, as defined, there are no silent failures that should occur and need to be tracked|
-|**Error rate (Form submissions to CRM, Submit Inquiry)** - The number of non 200 codes over a unit of time (e.g. per day)|xx|
-|**Error rate (Dashboard replies to CRM, Submit Reply)** - The number of non 200 codes over a unit of time (e.g. per day)|xx|
+|**Error rate (Form submissions to CRM, Submit Inquiry)** - The number of non 200 codes vs 200 (successful) codes over a unit of time (e.g. per day)|xx|
+|**Error rate (Dashboard replies to CRM, Submit Reply)** - The number of non 200 codes vs 200 (successful) codes over a unit of time (e.g. per day)|xx|
 |**Error rate (All APIs )** - The recommendation is to not track this as doing so could dilute Ask VA data. API owners have their own dashboards which the Ask VA team can monitor. |xx|
-|**Latency** - Average time to receive a successful response (200) from CRM.  |xx|
+|**Latency** - Average time to receive a successful response (200) from CRM over a unit of time.  |xx|
 |**Throughput** - Number of Transactions per unit of time (e.g. per day). Can be split by: 1)Successes and Failures and 2) Form submissions and Dashboard replies |xx|
 |**Other things**|xx|
 
