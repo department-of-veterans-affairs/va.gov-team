@@ -156,9 +156,9 @@ No feedback for 1/13/25
 #### Google Analytics
 | Metric Name | Description |
 | ----------- | ----------- |
-| Unique page views | Available 1/22/25 |
-| Views per user | Available 1/22/25 |
-| Time spent | Available 1/22/25 |
+| Unique page views | 668 |
+| Views per user | 1.13 |
+| Time spent | 1 min 4 sec |
 
 #### DataDog
 | Metric Name | Description |
