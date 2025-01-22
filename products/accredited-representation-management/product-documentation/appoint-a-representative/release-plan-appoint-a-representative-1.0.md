@@ -96,7 +96,7 @@ The following will be considered before advancing rollout to the next stage:
    4. [2122 PDF generation is checking consent limit boxes when the user says allow everything](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100739)
    5. [Medical authorizations not updating when selecting "some" then correcting to "all"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100627)
 
-### Stage B Results (Jan 13-21, 2025)
+### Stage B Results (Jan 13-23, 2025)
 
 1. Errors in Datadog
 2. Google Analytics traffic to Appoint a Representative
@@ -106,26 +106,24 @@ The following will be considered before advancing rollout to the next stage:
 
 ## Post Launch Metrics
 
-_Link to DOMO dashboards TBD_
+### 1-Week Results Post-Launch (Jan 23-30, 2025)
 
-### 1-Week Results Post-Launch (Jan 15-22, 2025)
-
-1. **Errors in Datadog**:
+1. Errors in Datadog:
 2. Google Analytics traffic to Appoint a Representative
-12. **Contact Center calls (MyVA411)**: 
-13. **Feedback survey submmissions (Medallia)**: 
+12. Contact Center calls (MyVA411): 
+13. Feedback survey submmissions (Medallia): 
 
 **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** 
 
 **OKRs:**
 
 
-### 1-Month Results Post Launch (Jan 15 - Feb 14, 2025)
+### 1-Month Results Post Launch (Jan 23 - Feb 23, 2025)
 
-1. **Errors in Datadog**:
-2. 2. Google Analytics traffic to Appoint a Representative
-12. **Contact Center calls (MyVA411)**: 
-13. **Feedback survey submmissions (Medallia)**: 
+1. Errors in Datadog:
+2. Google Analytics traffic to Appoint a Representative
+12. Contact Center calls (MyVA411): 
+13. Feedback survey submmissions (Medallia): 
 
 **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?**  
 
