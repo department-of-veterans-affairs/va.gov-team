@@ -154,29 +154,19 @@ Imagine that you submitted an application for VA benefits a few weeks ago and wa
   - [Do they click on filter chips on search results page?]
   - [Any confusion re filter chips w/X vs. w/o X?] 
 
+- [Any confusion with *Decision reviews and appeals*?]
+
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
 - [Found target content? successful / needed help / unsuccessful]
 
-### Things to watch for:
-
-- [Any confusion with *Decision reviews and appeals*?]
 
 ## Task 3: Community Care 
 Please go back to the first page you were on [landing pg via breadcrumb].
 
 Now imagine that you currently receive health care through the VA. You've heard that there are some situations where the VA will pay for health care from non-VA providers. Show me how you would try to figure out if this applies to you.
 
-### Things to watch for:
-- [Navigation path: *Search / Show filters / Featured / Common topics > Community care / Browse by benefit*]
-   - [Search string: ______________________________________________]
-   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
-   - [Filters: *Audience / Benefit / Topic*]
-- [Does the participant understand meaning of *Community care*?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Community care / Browse by benefit*]
 
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
@@ -192,6 +182,8 @@ Now imagine that you currently receive health care through the VA. You've heard 
   - [Do they use *Apply filters* and/or *Clear all* buttons?]
   - [Do they click on filter chips on search results page?]
   - [Any confusion re filter chips w/X vs. w/o X?] 
+
+- [Does the participant understand meaning of *Community care*?]
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
@@ -203,18 +195,7 @@ Please go back to the first page you were on [landing pg via breadcrumb].
 
 Let's assume that you just visited a VA medical center for an appointment, and you took a train to get there. You learned that the VA will pay you back for the cost of your train ticket if you submit your receipt online. Show me how you would try and learn how to do that.
 
-### Things to watch for:
-- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
-  - [Search string: ______________________________________________]
-  - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
-  - [Filters: *Audience / Benefit / Topic*]
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-
-What if this this article didn't answer your question? What would you do next?
-- [Navigation path: *Search / Filters / Landing page*]
-
-[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
@@ -230,6 +211,9 @@ What if this this article didn't answer your question? What would you do next?
   - [Do they use *Apply filters* and/or *Clear all* buttons?]
   - [Do they click on filter chips on search results page?]
   - [Any confusion re filter chips w/X vs. w/o X?] 
+
+What if this this article doesn't answer your question? What would you do next?
+- [Navigation path: *Search / Filters / Landing page*]
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
@@ -241,19 +225,7 @@ Please go back to the first page you were on [landing pg via breadcrumb].
 
  Imagine you are preparing to apply to receive monthly payments from the VA. You know that there are certain documents you need to provide with your application, but you don't remember exactly what those documents are and want to look them up. Show me how you would try to find that information.
 
-### Things to watch for:
-- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
-   - [Search string: ______________________________________________]
-   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
-   - [Filters: *Audience / Benefit / Topic*]
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]## Consent to use video clips
-
-What if this this article didn't answer your question? What would you do next?
-- [Navigation path: *Search / Filters / Landing page*]
-
-[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
@@ -270,6 +242,9 @@ What if this this article didn't answer your question? What would you do next?
   - [Do they click on filter chips on search results page?]
   - [Any confusion re filter chips w/X vs. w/o X?] 
 
+What if this this article didn't answer your question? What would you do next?
+- [Navigation path: *Search / Filters / Landing page*]
+
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
 - [Found target content? successful / needed help / unsuccessful]
@@ -280,16 +255,7 @@ Please go back to the first page you were on [landing pg via breadcrumb].
 
 Let's say that you're having some difficulty getting into your VA account online. Show me how you would try to get help on this. 
 
-### Things to watch for:
-- [Navigation path: *Search / Show filters / Featured: Signing in to VA.gov / Common topics / Browse by benefit*]
-   - [Search string: ______________________________________________]
-   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
-   - [Filters: *Audience / Benefit / Topic*]
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+[Record navigation path: *Header / Search / Show filters / Featured: Signing in to VA.gov / Common topics / Browse by benefit*]
 
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
@@ -316,14 +282,7 @@ Please go back to the first page you were on [landing pg via breadcrumb].
 Please show me how you might check to see whether you owe the VA any money.
 
 ### Things to watch for:
-- [Navigation path: *Search / Show filters / Featured / Common topics: Payments and debt / Browse by benefit*]
-   - [Search string: ______________________________________________]
-   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
-   - [Filters: *Audience / Benefit / Topic*]
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Payments and debt / Browse by benefit*]
 
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
@@ -350,18 +309,7 @@ Please go back to the first page you were on [landing pg via breadcrumb].
 
 Let's say that you want to change something about your military discharge. Show me how you would find information on that.
 
-### Things to watch for:
-- [Navigation path: *Search / Show filters / Featured / Common topics / Browse by benefit*]
-   - [Search string: ______________________________________________]
-   - ***NEED CANNED SEARCH SUGGESTION OPTIONS FROM DAVE***
-   - [Filters: *Audience / Benefit / Topic*]
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-What if this this article didn't answer your question? What would you do next?
-- [Navigation path: *Search / Filters / Landing page*]
-[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
@@ -377,6 +325,9 @@ What if this this article didn't answer your question? What would you do next?
   - [Do they use *Apply filters* and/or *Clear all* buttons?]
   - [Do they click on filter chips on search results page?]
   - [Any confusion re filter chips w/X vs. w/o X?] 
+
+What if this this article didn't answer your question? What would you do next?
+- [Navigation path: *Search / Filters / Landing page*]
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
@@ -402,7 +353,6 @@ If you know any other Veterans or family members who might be willing to partici
 Thank you so much again, and I hope that enjoy the rest of your day!
 
 ## Emergency Exit
-
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+We have covered all the questions I have for you today. Thank you so much for your time and feedback!
 
 
