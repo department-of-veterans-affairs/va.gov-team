@@ -21,19 +21,19 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 - Backend changes
   - [x] Does the project introduce any new or unusual infrastructure dependencies?
   - [x] Do you need to poll any APIs for status?
-  - [] Are you handling all failure and error cases while in custody of your users's data?
+  - [ ] Are you handling all failure and error cases while in custody of your users's data?
 - Internal API changes
   - [x] List new or modified APIs in `vets-api`
   - [x] Are you deprecating or removing any APIs?
-  - [] Do you have API documentation?
-  - [] Describe expected call patterns
+  - [ ] Do you have API documentation?
+  - [ ] Describe expected call patterns
 - External API changes
   - [x] List new or modified APIs for upstream or external systems
   - [x] Describe expected call patterns
   - [x] What PII or PHI will be transmitted to/from the external systems?
 - Background jobs
   - [x] List any required background processing
-  - [] Describe error and dead letter handling
+  - [ ] Describe error and dead letter handling
 - Data storage
   - [x] Describe new or modified databases, tables or columns
   - [x] Describe indexes and constraints
@@ -45,7 +45,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 - Infrastructure and network changes
   - [x] List any changes or additions
 - Test strategy
-  - [] Describe automated, manual and user acceptance test strategy (Todo: what can we say about UAT?)
+  - [ ] Describe automated, manual and user acceptance test strategy (Todo: what can we say about UAT?)
   - [x] Describe required test data and test user accounts
 - Rollout plan
   - [x] List scope of any feature flags
