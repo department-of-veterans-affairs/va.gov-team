@@ -53,7 +53,6 @@ _The following steps are performed by the **Platform Support Tier 1** team. Deta
 - [ ] Pagerduty access removed (if applicable. Check [pd users](https://dsva.pagerduty.com/users-new))
 - [ ] Sentry access removed (if applicable. Check [Sentry members](http://sentry.vfs.va.gov/settings/vsp/members/))
 - [ ] TestRail access removed (if applicable, Check [TestRail User List](https://dsvavsp.testrail.io/index.php?/admin/users/overview))
-- [ ] Zenhub license removed (If applicable. Check for license [here](https://app.zenhub.com/settings/o/department-of-veterans-affairs/users))
 - [ ] [Okta account](https://vfs.atlassian.net/wiki/spaces/OT/pages/2532508159/Offboarding+users+from+Okta) disabled
 
 ### Support Tier 2 - DevOps 🌷
