@@ -185,11 +185,15 @@ The following Veterans are eligible for MWR access under **10 U.S. Code § 1065*
 
 ### **Using the VIC for MWR access**:
 
-1. **Verification of eligibility**:
-    - The VIC can be presented at MWR facilities as proof of the Veteran’s eligibility, since it confirms their service and discharge status.
-    - Additional documentation (e.g., disability rating letter) may be required for Veterans with service-connected disabilities.
-2. **User fees**:
-    - **10 U.S. Code § 1065** (*MWR access*) allows the Department of Defense to impose user fees for individuals eligible solely under this statute to offset operational costs.
+1. **Verification of Eligibility:**  
+  The VIC can be presented at MWR facilities as proof of the Veteran’s eligibility, as it confirms their service and discharge status.  
+  - Additional documentation (e.g., disability rating letter) may be required for Veterans with service-connected disabilities.  
+
+2. **Current Limitations:**  
+  The VIC does not currently include specific indicators that would allow MWR access beyond confirming service-connected disabilities. This creates challenges for verifying eligibility for other qualifying categories (e.g., Purple Heart recipients, former POWs).  
+
+3. **Future Updates:**  
+  A future iteration of the VIC is expected to replace the disability rating marker with a "service-connected" indicator and potentially expand eligibility markers, simplifying MWR access for eligible Veterans.  
 
 ---
 
