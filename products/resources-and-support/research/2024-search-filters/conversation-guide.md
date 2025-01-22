@@ -76,7 +76,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 1. I understand you are a Veteran/service member/family member/caregiver. Is that right?
 1. What kind of device are you using today? (Computer / Tablet / Smartphone) 
-     - *(If computer, ask:)* What I'm going to show you is small--phone-sized. Do you have a smartphone or tablet that you could use to also join this session?
+     - *(If computer, ask:)* What I'm going to show you is small--phone-sized. Do you have a smartphone or tablet that you could use to also join this session? (If so, switch to it; if not, proceed with computer)
 1. I will be sharing a web page link with you during the session. How would you prefer to
 receive the URL? I can dictate it to you, or put it in the Zoom chat. (RECORD)
 1. What VA benefits, if any, do you have experience with? 

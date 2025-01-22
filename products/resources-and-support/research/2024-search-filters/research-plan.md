@@ -1,6 +1,6 @@
 # Research Plan for Resources & Support Search Enhancements
 **Product Team:** Sitewide Public Websites 
-<br>**Timeframe:** January 2025
+<br>**Timeframe:** February 2025
 
 ## Background
 Initially called the "Learning Center", Resources & Support (R&S) leverages a variety of Drupal content types to provide an unauthenticated self-serve library with targeted, supplemental information to help Veterans and other beneficiaries understand their VA benefits. Since launching in 2020, R&S has expanded to include 100 published articles (as of December 2024). We expect the number of articles will continue to grow via the ongoing migration of content to VA.gov from legacy sites. 
@@ -40,11 +40,13 @@ Validate the proposed design so we can start building it. There will be a second
 - Do users understand the Apply filters, Clear all, and X buttons in filter drawer?
 - Do users understand how to dimiss a filter once it's applied?
 - Do users understand how the filter chips on results/detail pages (w/X) work vs. on the landing page (w/o X)?
-- Are these understandable on both mobile and desktop? **ONLY IF TESTING BOTH**
-  - Desktop would have hover states on components
-  - Destop has filter drawer as a modal on right side of screen
 
 **Goal 2. Understand which of the search, filtering, and browsing options users choose to interact with and in what order**
+
+- What do people do first--searching, filtering, or browsing? 
+  - Do people ever use filters before searching? Why or why not?
+
+Navigation items to observe usage of:
 - Header
   - Hamburger menu (mobile)
   - Mega menu (desktop)
@@ -93,7 +95,9 @@ Validate the proposed design so we can start building it. There will be a second
 3. Users are able to find the information that they're looking for
 
 ## Methodology	
-We will conduct **remote moderated usability testing** to observe research participants using a mobile prototype.   
+We will conduct **remote moderated usability testing** to observe research participants using a mobile prototype. 
+
+(Note: Usability testing with desktop users and a desktop prototype will be a followup study.)
 
 
 ### Location
@@ -112,6 +116,10 @@ We would like Perigean to recruit **12 people** who meet the below criteria in o
 - 2 Service members
 - 2 Caregivers of a Veteran
 - 2 Family members of a Veteran
+
+We would like Perigean to walk the participants through 
+- Downloading the Zoom mobile app before entering the session
+- Enabling settings for screen sharing on their mobile device
 
 ### Required criteria (in decreasing order of priority)
   - *Primary criteria (must-haves):*
@@ -170,7 +178,7 @@ We will schedule 1-2 **pilot tests**:
 - Pilot 2: **Jan Z at X pm ET** with TBD email
 
 ### Research sessions - WIP
-Planned dates of research: **January X-Y, 2025** 
+Planned dates of research: **February X-Y, 2025** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
@@ -183,7 +191,7 @@ We would like to request that **Perigean calls each participant** to remind them
 ### Availability - WIP
 Team Availability | Time Slots (ET)
 ------------------|--------------
-Jan X, 2025 | 12-1, 2-3, 5-6, 7-8 pm
+Feb X, 2025 | 12-1, 2-3, 5-6, 7-8 pm
 
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***).
