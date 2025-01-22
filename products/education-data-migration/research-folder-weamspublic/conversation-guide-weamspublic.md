@@ -63,15 +63,18 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+1. Do you know where to find WEAMS Public information online?
+2. Are you familiar with WEAMS Public?
+3. Have you ever used WEAMS Public to search for national exams, licenses and certifications or programs within institutions?
+4. Can you tell us your experience?
+
+We want your unfiltered honest opinions so pleas help us understand your thought process and think out loud as you're working through the tasks.
 
 ## First Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+- Please take a moment to read and review the licenses, certifications, and prep courses...
+- Go ahead now make the selections of your choosing and select submit
+- Walk me through what you see and think out loud while you're reviewing this search results page.
+- Please go ahead and make a selection from the results that you see.
 
 ### Things to watch for:
 
@@ -79,6 +82,15 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
+
+1. Is the language presented in these pareagraphs understandable?
+2. Are these paragraphs too much information or do you think they should be condensed?
+3. Do you know what prep courses are? Where would you go to find out what prep courses mean? Tell us what information you found about them.
+4. Can you explain your thought process?
+5. Did the dropdown that appeared while you were typing the license/certification name allow you to choose what you wanted?
+6. Do the details within the licese/cert/prep course provide what you're looking for?
+7. Rate your overall experience on the steps you took to get here from 1 being easy and 5 being difficult?
+
 
 ## Second Task: [TASK NAME] - X minutes
 
