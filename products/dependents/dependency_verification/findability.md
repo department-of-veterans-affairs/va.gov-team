@@ -136,4 +136,9 @@ Based on our work with CAIA and their recommendations, we'll create a more solid
 
 Here is a link to our former preliminary timeline that we'll update as we further solidify our strategy: 
 
-[Go to preliminary timeline in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1731513183944)
+- [Go to design/research timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692908527043/0da94b7ded52e8a943d798bcb8ae39697c2fb56f?wid=0-1736454562185)
+- [Go to sprint planning timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692908527043/0da94b7ded52e8a943d798bcb8ae39697c2fb56f?wid=0-1732119679400)
+- [Go to preliminary timeline in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1731513183944)
+
+### CAIA's IA feedback
+[View feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/verify-dependents.md)
