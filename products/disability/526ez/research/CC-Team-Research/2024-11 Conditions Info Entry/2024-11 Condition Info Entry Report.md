@@ -115,7 +115,7 @@ From Dec 3rd to 11th, we conducted hour-long remote moderated usability sessions
 
 ### **Research materials**
 
-1. [Conversation Guide](https://docs.google.com/document/d/12bLzBBviYDFCwGKvPUU8CmESkpqbV3MrDcyik-WumeI/edit?tab=t.0#heading=h.mtc4swvlio8d)
+1. [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2024-11%20Conditions%20Info%20Entry/2024-11%20Conversation%20Guide%20-%20Conditions%20info%20entry.md)
 
 2. [Figma mock-ups of what we tested in Staging](https://www.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/\(526ez\)-Condition-information-entry?node-id=324-9662) 
 
