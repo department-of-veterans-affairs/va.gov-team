@@ -146,8 +146,9 @@ Imagine that you submitted an application for VA benefits a few weeks ago and wa
 
 - [If they try **Show filters**...]
   - [Which filters do they use? *Audience / Benefit / Topic*]
-  - [Any confusion re filter names or categories within?]
+  - [Any confusion re filter groups or items within the groups?]
   - [Do they select multiple categories within a filter?]
+  - [Any confusion re and/or logic between filters and across filter groups?]
   - [Any missing filters?]
   - [Do they use *Apply filters* and/or *Clear all* buttons?]
   - [Do they click on filter chips on search results page?]
