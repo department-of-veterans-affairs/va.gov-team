@@ -6,6 +6,7 @@ The purpose of this plan is to outline what to do in the event there is an incid
 
 | Date      | Description of Change                                           | Author |
 | --------- | --------------------------------------------------------------- | ------ |
+|1/22/2025  | Updated communication plan and incident investigations step     | @arielma-tw |
 |1/14/2025  | Updated contact list                                            | @arielma-tw       |
 | 1/13/2025 | Moved to Github. Cleaned up format and added new slack channels |  @arielma-tw      |
 
@@ -31,16 +32,16 @@ Team fields messages in the following channels 9am-6pm ET
 
 ### Slack Channels
 
-| Workspace | Channel Name            | Audience                                 |     |
-| --------- | ----------------------- | ---------------------------------------- | --- |
-| DSVA      | #ask-va-public          | Public Facing                            |     |
-| DSVA      | #ask-va-design          | Private Design Channel                   |     |
-| DSVA      | #ask-va-tech            | Private Tech Channel                     |     |
-| DSVA      | #ask-va-integration     | Private Team Channel (Includes CRM team) |     |
-| DSVA      | #ask-va-notifications   | Datadog/monitoring notifications         |     |
-| DSVA      | #vfs-platform-support   | Platform Support                         |     |
-| DSVA      | #vfs-all-teams          | All Veteran Facing Teams                 |     |
-| Oddball   | #askva_integration_team | Private Program Channel                  |     |
+| Workspace | Channel Name            | 
+| --------- | ----------------------- | 
+| DSVA      | #ask-va-public          | 
+| DSVA      | #ask-va-design          |
+| DSVA      | #ask-va-tech            | 
+| DSVA      | #ask-va-integration     | 
+| DSVA      | #ask-va-notifications   | 
+| DSVA      | #vfs-platform-support   | 
+| DSVA      | #vfs-all-teams          | 
+| Oddball   | #askva_integration_team |
 
   
 
@@ -92,8 +93,9 @@ Once the above information is known, immediately contact the COR for evaluation.
 
 ##### Steps to investigate/analyze
  - Check error logs (if you cannot reproduce the error(s), you don’t know if you’re fixing it (in most cases))
-- Sentry - Run a test to see if you get the expected results
-- Try to reproduce the error
+- Trace the error(s) in Datadog.
+- Try to reproduce the error in the log or app; Fix error and ensure the error can no longer be reproduced.
+  
 
 #### 4. Resolution and Recovery 
 Steps are taken to remove the incident and bring the system back to its previous working condition.
@@ -121,6 +123,7 @@ The resolution is retested, and in case the system is working as intended, the i
 
 ### Communication Plan
 
+- No PII/PHI should be shared while reporting or troubleshooting issues.
 - Thread incident topics in Slack and post them where your main stakeholders/collaborators can see and follow along.
 
 - Internal troubleshooting and/or discussion around possible solutions should occur in internal threads; however, progress updates and indications of clear next steps must be posted in the main incident threads. This informs our stakeholders of the actions we are taking while we execute and problem-solve.
