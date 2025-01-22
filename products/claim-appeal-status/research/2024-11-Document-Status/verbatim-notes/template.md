@@ -88,8 +88,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 [Participant completes the File upload]
 
-* Now tell me what you see here.<br>
-*[Notes]*
 * How would you explain this message to a friend?<br>
 *[Notes]*
 * If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)<br>
@@ -132,8 +130,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 **PROMPT**: Now, we're going to imagine that the VA has requested evidence from you.
 
-* Tell me what you see here.<br>
-*[Notes]*
 * What do you think this alert is communicating?<br>
 *[Notes]*
 * Based on the text in this alert, when you upload your file, when do you expect the alert to disappear?<br>
@@ -145,8 +141,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 [Click on "Details"]
 
-* Tell me what you see here.<br>
-*[Notes]*
 * Describe to me what this alert is communicating?<br>
 *[Notes]*
 * What stands out to you on this page?<br>
@@ -169,8 +163,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 [Participant completes the File upload]
 
-* Now tell me what you see here.<br>
-*[Notes]*
 * If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)<br>
 *[Notes]*
 
@@ -214,15 +206,13 @@ I want you to explore the available options as if you were on your own and viewi
 **PROMPT**: Now we’re logged back into the VA website to see your claim.
 Without clicking anything, take a moment to review the page. Remember to think aloud as you scroll up and down.
 
-* Tell me what you see here<br>
+* Tell me what you see here. <br>
 *[Notes]*
 * If you want to know more about this alert, what would you do?<br>
 *[Notes]*
 
 ### Part 2 G: Status page - Resubmit Error - 10 minutes
 
-* Tell me what you see.<br>
-*[Notes]*
 * Describe what you think this alert is telling you.<br>
 *[Notes]*
 * What do you think is the relationship between what you're seeing here and what you saw in your email?<br>
@@ -253,8 +243,6 @@ Without clicking anything, take a moment to review the page. Remember to think a
 ### Part 2 H: Resubmit notice page - 10 minutes
 Without clicking anything, take a moment to review the page. Remember to think aloud as you scroll up and down.
 
-* Tell me what you see?<br>
-*[Notes]*
 * What do you think is the relationship between what you're seeing here and what you saw in your email?<br>
 *[Notes]*
   * [If needed for reference click the “reference email” button]
