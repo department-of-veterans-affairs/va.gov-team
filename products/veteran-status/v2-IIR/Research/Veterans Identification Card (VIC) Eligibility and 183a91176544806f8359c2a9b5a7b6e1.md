@@ -1,6 +1,6 @@
 # Veterans Identification Card (VIC): Eligibility and Use
 
-**Sources**: [38 CFR § 3.1](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFRf5fe31f49d4f511/section-3.1) (*Veteran definition*), [38 CFR § 3.12](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFRf5fe31f49d4f511/section-3.12) (*Character of discharge*), [38 U.S. Code § 5706](https://www.notion.so/Veterans-Identification-Card-VIC-Eligibility-and-Use-183a91176544806f8359c2a9b5a7b6e1?pvs=21) (*Veterans identification card*), [10 U.S. Code § 1065](https://www.law.cornell.edu/uscode/text/10/1065) (*MWR access*), 38 CFR § 3.6 (*Active service*), 38 CFR § 3.7 (*Certain groups certified as active service*), 38 CFR § 3.12a (*Minimum service requirements*), 38 CFR § 3.203 (*Proof of service*).
+**Sources**: [38 CFR § 3.1](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFRf5fe31f49d4f511/section-3.1) (*Veteran definition*), [38 CFR § 3.12](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFRf5fe31f49d4f511/section-3.12) (*Character of discharge*), [38 U.S. Code § 5706](https://www.notion.so/Veterans-Identification-Card-VIC-Eligibility-and-Use-183a91176544806f8359c2a9b5a7b6e1?pvs=21) (*Veterans identification card*), [10 U.S. Code § 1065](https://www.law.cornell.edu/uscode/text/10/1065) (*MWR access*), 38 CFR § 3.6 (*Active service*), [38 CFR § 3.7](https://www.law.cornell.edu/cfr/text/38/3.7) (*Certain groups certified as active service*), [38 CFR § 3.12a](https://www.law.cornell.edu/cfr/text/38/3.12a) (*Minimum service requirements*), [38 CFR § 3.203](https://www.law.cornell.edu/cfr/text/38/3.203) (*Proof of service*).
 
 ---
 
@@ -23,7 +23,7 @@ To be considered a Veteran, you must have served in the military (Army, Navy, Ai
 - **Active duty for training**: Training duty where you became disabled or died from an illness or injury related to service.
 - **Inactive duty training**: Part-time training (like weekend drills) where you were injured, became disabled, or had a serious medical event (e.g., a heart attack or stroke) caused by service.
 
-**Quote from §3.6(a):**
+**Quote from §3.6(a) –** (*Active service)***:**
 
 > "Active military, naval, air, or space service includes active duty, any period of active duty for training during which the individual was disabled or died from a disease or injury incurred or aggravated in line of duty, and any period of inactive duty training during which the individual was disabled or died from an injury incurred or aggravated in line of duty or from certain medical conditions such as acute myocardial infarction, a cardiac arrest, or a cerebrovascular accident occurring during such training."
 > 
@@ -48,7 +48,7 @@ You usually need to have served:
 
 Exceptions exist if you were discharged early for hardship, injury, or other valid reasons.
 
-**Quote from §3.12a(a):**
+**Quote from §3.12a(a) –** (*Minimum service requirements*)**:**
 
 > "A person who originally enlists in a regular component of the Armed Forces after September 7, 1980, or who enters on active duty after October 16, 1981, and who does not complete a minimum period of service of 24 months of continuous active duty or the full period for which such person was called or ordered to active duty, is not eligible for any benefits administered by the Department of Veterans Affairs."
 > 
@@ -60,7 +60,7 @@ Some groups are recognized as Veterans even if they didn’t serve in traditiona
 - Members of the **Women Airforce Service Pilots (WASPs)** during WWII.
 - Certain **Filipino forces** during WWII.
 
-**Quote from §3.7(a):**
+**Quote from §3.7(a) –**(*Certain groups certified as active service*)**:**
 
 > "Service in the following groups has been certified as active military service and is therefore considered active duty for the purposes of all laws administered by the Department of Veterans Affairs."
 > 
@@ -71,7 +71,7 @@ You must provide official documents to prove your service and discharge status.
 
 The most common document is the **DD Form 214** (Certificate of Release or Discharge from Active Duty).
 
-**Quote from §3.203(a):**
+**Quote from §3.203(a) –** (*Proof of service*)**:**
 
 > "For the purpose of establishing entitlement to VA benefits, the Department of Veterans Affairs may accept evidence of service submitted by a claimant (or sent directly to the Department of Veterans Affairs by the service department), such as a DD Form 214, Certificate of Release or Discharge from Active Duty."
 > 
