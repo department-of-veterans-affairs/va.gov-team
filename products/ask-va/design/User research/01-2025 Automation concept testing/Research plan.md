@@ -125,7 +125,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |TBD February 10 or 11, 2025|Pilot session|
 |February 18 - 21, 2025|Research sessions|
 |February 24 - 28, 2025|Synthesis|
-|March 3, 2025|Share findings|
+|March 4, 2025|Share findings|
 |March 4 - 17, 2025|Support engineering spike|
 |March 17, 2025|Make recommendation|
 
