@@ -2,7 +2,7 @@
 NEW Sprint 25: 1/22/25 - 2/04/25
 
 ## 📅 Upcoming Dates  & 🏖️ PTO
-  * 
+  * Brittany in DC 1/28-1/30
     
 ## 📣 Announcements
 * A6 has changed the cadence of sprint plannings. We closed sprint 26 on 12/31 and to get in sync with other teams we will be starting sprint 24 on 1/2. New cadence will be:
