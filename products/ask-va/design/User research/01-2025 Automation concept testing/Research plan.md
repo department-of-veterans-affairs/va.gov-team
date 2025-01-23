@@ -125,11 +125,12 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |Date|Milestone|
 |:--|:--|
 |February 4, 2025|Research Review|
-|TBD February 10 or 11, 2025|Pilot session|
-|February 18 - 21, 2025|Research sessions|
-|February 24 - 28, 2025|Synthesis|
-|March 4, 2025|Share findings|
-|March 4 - 17, 2025|Support engineering spike|
+|February 10, 2025|Pilot session|
+|February 20 - 25, 2025|Research sessions|
+|February 20 - 27, 2025|Scrub, store and analyze transcripts|
+|February 28 - March 4, 2025|Synthesize findings|
+|March 5, 2025|Share insights|
+|March 5 - 17, 2025|Support engineering spike|
 |March 17, 2025|Make recommendation|
 
 ## Pilot session
@@ -139,7 +140,7 @@ Perigean does **not** need to set up our pilot session. Tyler will schedule and 
 ### Pilot
 
 - Pilot participant: TBD
-- Date and time of pilot session: TBD around Feb 10th or 11th
+- Date and time of pilot session: TBD on Feb 10th
 
 ## Research sessions
 
@@ -155,10 +156,10 @@ We will provide 20 time slots, with the aim to book 10 sessions. Please prioriti
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Tuesday, February 18|9-10am, 10:30am-11:30am, 12-1pm, 1:30-2:30pm, 3-4pm|
-|Wednesday, February 19|9-10am, 10:30am-11:30am, 12-1pm, 1:30-2:30pm, 3-4pm|
 |Thursday, February 20|9-10am, 10:30am-11:30am, 12-1pm, 1:30-2:30pm, 3-4pm|
 |Friday, February 21|9-10am, 10:30am-11:30am, 12-1pm, 1:30-2:30pm, 3-4pm|
+|Monday, February 24|9-10am, 10:30am-11:30am, 12-1pm, 1:30-2:30pm, 3-4pm|
+|Tuesday, February 25|9-10am, 10:30am-11:30am, 12-1pm, 1:30-2:30pm, 3-4pm|
 
 ## Team roles
 
