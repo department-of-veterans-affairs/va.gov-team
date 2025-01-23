@@ -9,7 +9,7 @@ Thank you for joining us today! My name is Jamie, and I also have some colleague
 
 - We aren’t trying to sell or promote any product or service to you.
 
-- There are no right or wrong answers. We just want to hear your opinions, so that we can improve the application and meet Veterans’ needs.
+- There are no right or wrong answers. We just want to hear your opinions, so that we can improve the emails and meet Veterans’ needs.
 
 - I won’t be offended by any opinions you express.
 
