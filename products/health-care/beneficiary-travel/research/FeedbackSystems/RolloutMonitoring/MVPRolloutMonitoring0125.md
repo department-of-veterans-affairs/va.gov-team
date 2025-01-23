@@ -190,6 +190,9 @@ No feedback for 1/13/25
 
 ### 1/22/25 - 75%
 #### Medallia Feedback
+
+1 user response using the VFS Questionnaire.  Rated their satisfaction as a 2 and indicated that they were unable to complete their task.  They explained their rating, saying "I would like to know why my claim payment was canceled on July 12, 2024 I supplied the documents for the travel, I live in City A (redacted), Florida and traveled to Gainesville Florida VA Hospital."  
+
 #### Google Analytics
 #### DataDog
 | Metric Name | Description |
