@@ -109,7 +109,7 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 - 10 who have used WEAMS Public national exam search, licenses and certification search, looking up programs within institutions
 - 3 who have never used WEAMS Public
-- 2 user with PTSD
+- 2 users with PTSD
 - 8 users join through desktop
 - 7 users join through mobile
 
@@ -124,13 +124,13 @@ When will the thing you are testing be finalized? Ideally it's ready a week befo
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: ekaterina.shick@va.gov
-* Date and time of pilot session: 1/31/25 between 1-3pm EST
+* Date and time of pilot session: 2/3/25 between 1-3pm EST
 
 ### Research sessions
 * Planned dates of research: 2/5/25 - 2/10/25
 
 ### Length of sessions
-* Session length: 45 minutes 
+* Session length: 60 minutes 
 * Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 4 sessions per day
 
