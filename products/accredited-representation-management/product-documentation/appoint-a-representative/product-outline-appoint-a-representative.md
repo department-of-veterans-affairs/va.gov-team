@@ -2,7 +2,7 @@
 
 Team: Accredited Representation Management
 
-Product URL:[ Request help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/appoint-rep)
+Product URL:[Request help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/appoint-rep)
 
 Main entry points:
 1. [Get help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/) (landing page)
