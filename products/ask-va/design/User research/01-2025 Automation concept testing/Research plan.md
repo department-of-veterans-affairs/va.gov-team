@@ -72,7 +72,7 @@ We will present 3 concepts (in varying orders) to submitters who will use and re
 
 The 3 concepts are:
 
-1. TBD
+1. **Recommend a topic based on a category and question:** Submitter choose category, submitter types question, system recommends topic to submitter, submitter chooses topic
 2. TBD
 3. TBD
 
