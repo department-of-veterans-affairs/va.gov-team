@@ -33,7 +33,7 @@ Developer and Product Manager will monitor analytics and logging at each rollout
 - Turn the feature flag on for Mike King in production
   - Confirm he sees the card
   - Confirm that monitoring is coming through as expected
-- Find three more Oddball Veterans we can test in production with
+- Find two more OCTO Veterans we can test in production with
   - Confirm they see the card
   - Confirm that monitoring is coming through as expected
 - Turn feature flag on for Jeff Barnes in production
@@ -42,14 +42,14 @@ Developer and Product Manager will monitor analytics and logging at each rollout
 
 #### Results
 
-- Number of users: [FILL_IN]
+- Number of users: 4
 - Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
   - [FILL_IN] : list
   - [FILL_IN] : of
   - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
+- Was any downstream service affected by the change?: No
 - Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? No
 - If yes, what: [FILL_IN] with ticket numbers
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
@@ -58,7 +58,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: January 13 - February 7
+- Desired date range: January 27 - February 7
 - How will you make the product available in production while limiting the number of users who can find/access it: we will be turning on the feature flag for a small percentage of users and increasing every few days.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
   - Percentage of CONFIRMED users : [FILL_IN]
@@ -72,7 +72,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: January 13 - January 15 (or until we see each possible NOT CONFIRMED status reason)
+- Length of time: January 27 - January 28 (or until we see each possible NOT CONFIRMED status reason)
 - Percentage of Users: 1% of users
 
 #### Results
@@ -91,7 +91,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: January 20th - January 22nd 
+- Length of time: January 28 - January 29 
 - Percentage of Users (and roughly how many users do you expect this to be): 10%
 
 #### Results
@@ -110,7 +110,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: January 22nd - January 26th
+- Length of time: January 29 - January 30
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
@@ -129,7 +129,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: January 27th - 29th
+- Length of time: January 31 - February 3
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
@@ -148,7 +148,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: January 29th - February 2nd
+- Length of time: February 3 - February 4
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
@@ -167,7 +167,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: February 3rd - 
+- Length of time: February 4 - 
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
