@@ -26,12 +26,20 @@ NEW Sprint 25: 1/22/25 - 2/04/25
    
 ## 📋 Previous Sprint Summary:
 In Sprint 26 the team provided support for multiple features and initiatives, outlined as follows:  
-* #### Backend support for Oracle Health to enable direct scheduling
-   * (VPG-296) Identified a bug in VetsAPI Patient Gateway where relationship requests without "applySchedulingConfig" resulted in an HTTP 500 error. This issue was resolved by updating the relationship processing, ensuring that relationship searches complete successfully even when "applySchedulingConfig" is not provided.
+* #### Appointment Requests
+  * Clinical Encounter Service created a new operation enabling VetsAPI-Patient Gateway to retrieve locations based on facility IDs, maintaining support for VetsAPI Patient Gateway and its use of the Cerner-FHIR-Adapter.
+  * VetsAPI-Patient Gateway evaluated Cerner eligibility rules and identified that some rules involved downstream calls to dependent services. These rules were refactored to execute in parallel, improving the overall performance of the /eligibility endpoint.
+* #### Direct Scheduling
+  * VetsAPI added a direct scheduling feature flag in appointment creation logic to check the type of appointment. Logic in VetsAPI was refined and overlapping feature flags were consolidated.
+  * VetsAPI-Patient Gateway modified the response array in VetsAPI to notify the front end if errors occurred while retrieving relationship data.
+* #### Appointment Cancellation
+  * VetsAPI-Patient Gateway added support for the VVS_ADHOC VAOS source filter in the VAOS Service.* #### Backend support for Oracle Health to enable direct scheduling
+* #### VetsAPI Logic Integration Support
+  * VetsAPI integrated front-end logic for determining appointment modality within the VetsAPI back end and now returns the result via a new modality field.
+* #### Build vets-api-patient-gateway to extend VAOS with Oracle Health write-back capabilities
+  * VetsAPI-Patient Gateway was updated to populate identifier values in Oracle Health for Cerner Fhir Adapter-sourced appointments. ​​For consistency, the identifier values are populated based on the existing logic in `mobile-appointment-service`.
 * #### Testing/Admin/Operational Support
-   * (VPG-293) VetsAPI Patient Gateway service design documentation was updated to address constraints identified by the VA Mobile Framework Architecture Team. The documentation was revised and resubmitted for approval.
-   * (CES-1239) Upgraded CES Test Utils, a library utilized by Clinical Encounter Service, to the latest Mobile Framework version 2.2.
-   * (CES-1240) Upgraded the CES Shared Library, which is also used by Clinical Encounter Service, to the latest Mobile Framework version 2.2.
+
 
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
