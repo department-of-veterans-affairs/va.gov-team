@@ -24,7 +24,7 @@ This doc outlines an understanding of responsibilities discussed on 10/15 with K
 | ENTRY POINT                                 | RESPONSIBLE (BUILDING) | ACCOUNTABLE (ADVISING) |
 |---------------------------------------------|:----------------------:|------------------------|
 | W1: MHV to Status Page                      | Cartography (Wes Rowe)              | Travel Pay             |
-| W2: Appts List to Details                   | UAE (@John Woolschlager))| UAE                    |
+| W2: Appts List to Details                   | UAE (@John Woolschlager)| UAE                    |
 | W3: Appt Details to SMOC                    | UAE (@John Woolschlager) | Travel Pay             |
 | W4: Appt Details to Claim Details           | UAE (@John Woolschlager) | Travel Pay             |
 | W5: Status Page to Claim Details            | Travel Pay (@Liz Townsend)| Travel Pay             |
