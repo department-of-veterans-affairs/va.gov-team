@@ -38,29 +38,32 @@ In Sprint 26 the team provided support for multiple features and initiatives, ou
   * VetsAPI integrated front-end logic for determining appointment modality within the VetsAPI back end and now returns the result via a new modality field.
 * #### Build vets-api-patient-gateway to extend VAOS with Oracle Health write-back capabilities
   * VetsAPI-Patient Gateway was updated to populate identifier values in Oracle Health for Cerner Fhir Adapter-sourced appointments. ​​For consistency, the identifier values are populated based on the existing logic in `mobile-appointment-service`.
+* #### Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
+  * Clinical Encounter Service updated search params to add the use of “_source” search param and removed -”vistaSite”  param and  references to getEhrSource and EHR_SOURCE.
+* #### Backend support for Oracle Health to Enable Appointment Requests
+  * VetsAPI-Patient Gateway was configured to enable the ability to apply a VA stop code exclusion list filter to clinic searches.  
 * #### Testing/Admin/Operational Support
-
+  * Clinical Encounter Service was updated to the latest version of Mobile-Framework (V2.2).
+  * Clinical Encounter Service upgraded to the latest version of Acheron, (V1.30)
+  * Clinical Encounter Service replaced use of the “vista-500” with “spl-vista” in Acheron to enable quicker turnaround times when applying new patches.
 
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
 
 * 🔴 Appointment Cancellation
-   * [VPG-303 VPG: Add support for VVS_ADHOC VAOS source filter](https://issues.mobilehealth.va.gov/browse/VPG-303)
 * 🟢 Appointment Requests
-   * [CES-1423 CFA: Reads should receive cerner location ids and only call cerner directly](https://issues.mobilehealth.va.gov/browse/CES-1423)
-   * [VPG-299 VPG: Evaluate Cerner eligibility rules in parallel](https://issues.mobilehealth.va.gov/browse/VPG-299)
-* 🟤 VetsAPI Logic Integration Support
-   * 🚧 [VPG-13 VetsAPI: implement FE logic for determining appointment modality](https://issues.mobilehealth.va.gov/browse/VPG-13) 
 * 🟠 Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
-   * [VPG-295 VPG: Populate identifier values for CFA-sourced appointments](https://issues.mobilehealth.va.gov/browse/VPG-295)
 * 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
-   * [CES-1419 CES: Update CES to use _source search param](https://issues.mobilehealth.va.gov/browse/CES-1419)
+* 🟤 VetsAPI Logic Integration Support
+   * [VGP-309 VPG: Move logic for determining if an appointment in the response should be displayed to the user](https://issues.mobilehealth.va.gov/browse/VPG-309)
+   * [VPG-308 VPG: Move any existing logic for Past appointment logic to vets-api](https://issues.mobilehealth.va.gov/browse/VPG-308)
 * 🔵 Direct Scheduling
-   * 🚧[VPG-302 VetsAPI: add direct scheduling feature flag to appointment creation logic](https://issues.mobilehealth.va.gov/browse/VPG-302)
-   * 🚧 [VPG-292 vets-api: include failures array in relationships endpoint](https://issues.mobilehealth.va.gov/browse/VPG-292)
+   * [CES-1299 CES: Determine EHR on appointment creation request](https://issues.mobilehealth.va.gov/browse/CES-1299)
 * ⚫️ Community Care - this work is being done by Devin working with the CIE team
-   * [VPG-310 CC: Update AppointmentsController#create method #98251](https://issues.mobilehealth.va.gov/browse/VPG-310)
+   * 🚧 [VPG-310 CC: Update AppointmentsController#create method #98251](https://issues.mobilehealth.va.gov/browse/VPG-310)
+   * [VPG-318 CC: Add request specs for AppointmentsController#create_draftmethod #101428](https://issues.mobilehealth.va.gov/browse/VPG-318)
 * 🟣 Testing/Admin/Operational Support
-   * [CES-1229 CFA: Update to Mobile-Framework v2.2](https://issues.mobilehealth.va.gov/browse/CES-1229)
+   * [VPG-316 VPG: Add tests for async processing exceptions](https://issues.mobilehealth.va.gov/browse/VPG-316)
+   * [CES-1477 CES: Update SQA with latest CES version](https://issues.mobilehealth.va.gov/browse/CES-1477)
 
 ## ✈️ Planned Releases
