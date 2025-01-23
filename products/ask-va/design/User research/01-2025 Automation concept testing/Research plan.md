@@ -66,7 +66,7 @@ Understand whether certain automation features make it easier, faster or more in
 
 ## Methodology
 
-This will be a moderated study conducted remotely over Zoom. We will use Figma prototypes with limited interactivity.
+This will be a moderated study conducted remotely over Zoom. We will use Figma prototypes with limited interactivity and test on mobile only.
 
 We will present 3 concepts (in varying orders) to submitters who will use and react to them. 
 
@@ -104,7 +104,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |Exactly 10|Are Veterans|
 |Exactly 10|Have contacted VA online or over the phone in the past year|
 |Exactly 10|Have signed in to VA.gov in the past year|
-|Exactly 10|Are willing to join the session from a mobile device|
+|**Exactly 10**|**Are willing to join the session from a mobile device**|
 |At least 5|Have a cognitive disability or consideration|
 |At least 5|Are over 55 years old|
 |At least 4|Identify as Black, Asian, Hispanic or Native|
