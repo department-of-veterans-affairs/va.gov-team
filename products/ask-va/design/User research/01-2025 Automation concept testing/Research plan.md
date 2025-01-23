@@ -74,7 +74,7 @@ The 3 concepts are:
 
 1. **Recommend a topic based on a category and question:** Submitter chooses a category, submitter inputs a question, system recommends a topic to the submitter, submitter chooses a topic.
 2. **Ask for more detail in the question to determine category and topic:** Submitter inputs a question, system tries to determine a category, topic and subtopic, if it can't figure it out the system asks the submitter to include more detail in their question and system tries a second time, if unsuccessful again, system asks submitter to choose a category, topic and subtopic themselves.
-3. **Determine whether a personal or general question:** Submitter inputs a question and chooses a category, topic and subtopic, system uses knowledge of other questions to determine whether this is a personal or general question, system sends submitter down path (more or less questions) based on determination.
+3. **Determine if it's a personal or general question based on information provided:** Submitter inputs a question and chooses a category, topic and subtopic, system uses knowledge of other questions to determine whether this is a personal or general question, system sends submitter down path (more or less questions) based on determination.
 
 ### Research materials
 
