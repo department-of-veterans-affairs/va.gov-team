@@ -2,9 +2,6 @@
 
 ## Moderator logistics
 
-### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
-
 ### Before all sessions:
 - Review participant list for participant name and screener question responses
 - Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON
@@ -24,13 +21,11 @@
 - Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF
 - Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants
 - Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON
-- Open standalone browser windows with prototype link: LINK
+- Open standalone browser windows with prototype link: **LINK TBD**
 - Do Not Disturb ON so no notifications
-- Make sure everyone is muted except me and the participant
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro*
 
 *When the participant is ready, turn on your camera and begin session with the intro*
 
@@ -38,10 +33,10 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Cindy and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is [MODERATOR NAME], and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-I work on making technology easier for Veterans and other beneficiaries to use in order to get information and benefits from the VA. Today I'm going to ask you a few questions, and then I'll ask you to do some specific tasks using a link that I will share with you.
+I work on making technology easier for Veterans and others to use in order to get information and benefits from the VA. Today I'm going to ask you a few questions, and then I'll ask you to do some specific tasks using a link that I will share with you.
 
 What I *hope* to do today is to get your feedback on something new that we're working on.
 
@@ -49,28 +44,37 @@ What I *don't want to do* is add to any frustration you may have had with gettin
 
 If you need help with an existing claim or issue, we can connect you with someone after this session. 
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+Today I'm going to ask you a few questions, and then I'll ask you to do some specific tasks using a website I will share with you.
+
+Before we start, I want to go over a few things:
+
+- **This entire session should take about an hour.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-- I know the folks who invited you to participate in this interview asked if it was OK to allow people to observe this interview, and I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
+- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Just let me know.
+- I know the folks who invited you to participate in this interview asked if it was OK to allow people to observe this interview, and I want to double-check this again with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
-   - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
-   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-   **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-   - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
+   - We have a few people from the team listening in today: there's [NAME] *(wave or say "hi")*, [NAME] *(wave or say "hi")*, etc. *(If I don't know the name of one of the observers, ask them to please turn on their camera and say their name aloud)*
+   - Could the observers please turn their cameras off now to save bandwidth?
 
-*Start recording.*
+- We like to record to confirm that we’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
+**Knowing this, are you comfortable if I record my screen and audio as we talk today?**
+  - *(If yes:)* Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
+*Select Record, then Record to the cloud.*
+
+*(If participant asks you to NOT record)* Are you comfortable if I save the transcript of the session?
+
+*In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save. (NEED TO DO THIS TO GET TRANSCRIPT)*
+
+**I have started recording.** I'd like to confirm: 
+- Are you comfortable if I record my screen and the audio as we talk today?
+- Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?
+
+*After checking that transcription is working, close the Transcript panel by clicking **Close Full Transcript** in the Show Captions menu.*
 
 
-## Warm-up Questions (Optional) - 5 minutes
+## Warm-up Questions
 
 Before we look at the website, let’s start with a few warm-up questions.
 
@@ -87,22 +91,20 @@ receive the URL? I can dictate it to you, or put it in the Zoom chat. (RECORD)
      - What were the results? Did you find what you were looking for?
 1. How easy or difficult would you say it is to find information you're looking for on VA.gov?
 
-## Task 0: Screen sharing and protoype link 
+## Task 0: Screen sharing 
 
-Now we're going to transition over to looking at a prototype web site. I'd like you to try to use it, and please share your feedback while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing.
+I would like you to share your screen with me so that I can see what you do during this session. Before you do this, I want to make sure you know that I will see your screen, so if you want to close any apps or turn off notifications that you don't want me to see, you could do that now.
 
 I'd like you to open a new window in a web browser and start sharing your screen with me.
 
 [Confirm screen sharing]
 
-Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. 
-I'll have you start from a URL that I'm going to [dictate/put into the Zoom chat] for you to use: PROTOTYPE URL
+I'll have you start from a URL that I'm going to [dictate/put into the Zoom chat] for you to use: **PROTOTYPE URL**
 
 Did you get the link?
-- If see “unsupported browser” error, ask to try a different browser or device, or share my
-screen (works for anyone) and mouse control (doesn't work w/iPhones)
+- If see “unsupported browser” error, ask to try a different browser or device, or share my screen (works for anyone) and mouse control (doesn't work w/iPhones)
 - If link doesn't open, copy the URL and open in a new incognito window (Chrome),
-private window (Firefox, Safari) or InPrivate (Edge)
+private window (Firefox, Safari), or InPrivate (Edge)
 
 [Confirm protoype is visible]
 
@@ -123,10 +125,11 @@ private window (Firefox, Safari) or InPrivate (Edge)
      - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 ## Task 1: Impressions of R&S Landing page
-
-I would like you to look over this page and tell me about it. I'm interested in your impressions of what you see and any questions that you have.
+Note that some parts of the page will work, and other parts will not. 
 
 Please try to **talk aloud** about what you're thinking and what you plan to do BEFORE selecting anything.
+
+Please look over this page and tell me about it. I'm interested in your impressions of what you see and any questions that you have.
 
 ### Things to watch for:
 - [Understand meaning of *Resources and support*?]
