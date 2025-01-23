@@ -82,14 +82,13 @@ Performance KPIs measure the technical aspects of Ask VA, such as speed, reliabi
 |**Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions|VA.gov silent failures rate: Currently, as defined, there are no silent failures that should occur and need to be tracked|
 |**Error rate (Form submissions to CRM, Submit Inquiry)** - The number of non 2xx codes vs 2xx (successful) codes over a unit of time (e.g. per day)|xx|
 |**Error rate (Dashboard replies to CRM, Submit Reply)** - The number of non 2xx codes vs 2xx (successful) codes over a unit of time (e.g. per day)|xx|
-|**Error rate (All APIs )** - The recommendation is to not track this as doing so could dilute Ask VA data. API owners have their own dashboards which the Ask VA team can monitor. we can incorporate a subset of those external dashboard widgets into our own dashboard if deemed important.|xx|
 |**Latency** - Average time to receive a successful response (2xx) from CRM over a unit of time. Will be tracked for Form submissions and Dashboard replies.  |xx|
 |**Throughput** - Number of Transactions per unit of time (e.g. per day). Can be split by: 1)Successes and Failures and 2) Form submissions and Dashboard replies |xx|
 |**Other things**|xx|
 
 ### Other performance metrics
 These are other performance metrics to track. We don't need these for launch.
-- [Other metrics]
+- Non-CRM API error rates: API owners have their own dashboards which the Ask VA team can monitor
 
 ## Business lines
 The Ask VA CRM team tracks business line KPIs in [the AVA Power BI report](https://app.powerbigov.us/groups/me/reports/e895dbed-17f3-45d1-8219-2b3fe27b8b7e?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&pbi_source=linkShare&bookmarkGuid=72bfed1d-0745-4452-a5e8-6a36551cb166). This includes metrics like: average resolution time (days to solve), number of authenticated submitters, submissions by category, and more.
