@@ -22,13 +22,6 @@ body:
   - type: markdown
     attributes:
       value: "## VFS product or feature information"
-  - type: checkboxes
-    id: verify-directory
-    attributes:
-      label: Verify information about your product or feature in the VFS Product Directory.
-      options:
-        - label: I have reviewed the [VFS Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory) and confirm that my information is correct (or that I have taken appropriate actions to update or add my product information to the directory).
-          required: true
   - type: input
     id: product-team
     attributes:
