@@ -25,7 +25,7 @@ NEW Sprint 25: 1/22/25 - 2/04/25
 * ⚫️ Community Care - this work is being done by Devin working with the CIE team 
    
 ## 📋 Previous Sprint Summary:
-In Sprint 26 the team provided support for multiple features and initiatives, outlined as follows:  
+In Sprint 24 the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Appointment Requests
   * Clinical Encounter Service created a new operation enabling VetsAPI-Patient Gateway to retrieve locations based on facility IDs, maintaining support for VetsAPI Patient Gateway and its use of the Cerner-FHIR-Adapter.
   * VetsAPI-Patient Gateway evaluated Cerner eligibility rules and identified that some rules involved downstream calls to dependent services. These rules were refactored to execute in parallel, improving the overall performance of the /eligibility endpoint.
