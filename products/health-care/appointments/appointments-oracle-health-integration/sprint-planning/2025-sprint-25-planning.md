@@ -33,7 +33,7 @@ In Sprint 24 the team provided support for multiple features and initiatives, ou
   * VetsAPI added a direct scheduling feature flag in appointment creation logic to check the type of appointment. Logic in VetsAPI was refined and overlapping feature flags were consolidated.
   * VetsAPI-Patient Gateway modified the response array in VetsAPI to notify the front end if errors occurred while retrieving relationship data.
 * #### Appointment Cancellation
-  * VetsAPI-Patient Gateway added support for the VVS_ADHOC VAOS source filter in the VAOS Service.* #### Backend support for Oracle Health to enable direct scheduling
+  * VetsAPI-Patient Gateway added support for the VVS_ADHOC VAOS source filter in the VAOS Service.
 * #### VetsAPI Logic Integration Support
   * VetsAPI integrated front-end logic for determining appointment modality within the VetsAPI back end and now returns the result via a new modality field.
 * #### Build vets-api-patient-gateway to extend VAOS with Oracle Health write-back capabilities
