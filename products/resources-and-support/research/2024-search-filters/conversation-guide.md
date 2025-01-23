@@ -135,6 +135,8 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
 ## Task 2: Claim status
 Please go back to the first page you were on [landing pg via breadcrumb]. 
 
+*[If participant is a caregiver or family member of a Veteran, replace "you" in the tasks with "the Veteran"/"your dad"/"they" or however they refer to the Veteran, unless they are the one who does VA tasks for the Veteran]*
+
 Imagine that you submitted an application for VA benefits a few weeks ago and want to see when you can expect to hear back from the VA. Show me how you would try and find that information from here.
 
 [Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
