@@ -134,7 +134,6 @@ Please look over this page and tell me about it. I'm interested in your impressi
 
 Please try to **talk aloud** about what you're thinking and what you want to do BEFORE selecting anything.
 
-### Things to watch for:
 - [Understand meaning of *Resources and support*?]
 - [Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
@@ -289,7 +288,6 @@ Please go back to the first page you were on [landing pg via breadcrumb or anoth
 
 Let's say that you're wondering whether you owe the VA any money. Show me how you might check this.
 
-### Things to watch for:
 [Record navigation path: *Header / Search / Show filters / Featured / Common topics > Payments and debt / Browse by benefit*]
 
 - [**If they try to use *search***, ask:] What are you trying to do? 
