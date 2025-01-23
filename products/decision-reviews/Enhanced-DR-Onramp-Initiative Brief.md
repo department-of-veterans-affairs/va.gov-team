@@ -4,7 +4,8 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* Enable Veterans to more confidently choose the appropriate pathway and reduce the amount of duplicate claims. 
+
+Veterans can confidently identify the decision review pathway or next step for their situation. There is a reduction in the number of decision review requests in incorrect pathways and reduction in duplicate requests. 
 
 **Related/Associated product(s)**
 - Decision Review forms | [Product(s) outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews) 
@@ -12,54 +13,55 @@
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* Today, Veterans sometimes struggle to choose the right Decision Review option for their unique needs for a myriad of reasons, that can result in delays and unfavorable decisions. Veterans seem to sort cleanly into two groups, learners and doers. For some more information is good, and for others the opposite is true. Veterans aren't consistently able to clearly differentiate between the options, know whether they are eligibile and know how long each decision review option will take.   
+
+Today, Veterans and other claimants and appellants sometimes struggle to choose the right decision review option for their unique needs for a myriad of reasons that can result in delays and unfavorable decisions. Veterans aren't consistently able to identify the differences between options, their eligibility, and if it will give them the chance at a best outcome.
 
 ## Target Audience
-The ehhanced Decision Review onramp will focus on Veterans (or their accreditted representatives) that seek to file a disability compensation claim via the online supplemental claim form or the higher level review form AND Veterans that seek to file a Board Appeal including but not limited to disability compensation. Additionally, the enhanced onramp will key in on users that have first navigated to the "VA decision reviews and appeals" or "Choosing a decision review option" pages on VA.gov.  
+The enhanced decision review onramp initiative will focus on Veterans (or their accredited representatives) that seek to file a decision review option for disability compensation on VA.gov. Additionally, the enhanced onramp will key in on users that have first navigated to these pages: "VA decision reviews and appeals", "Choosing a decision review option", or “Find a Form” on VA.gov or have used decision review-related search terms.
 
 Why?
-- This is because the Decision Review team leading this initiative only currently supports the online form of these DR options currently so it's vital to keep this consistency.
-- This is because those static pages are the only VA.gov gateway pages that enable users to submit an online SC, HLR or NOD. 
+- Limiting scope to appeals for disability compensation claims because it is what the team currently has the most subject matter expertise.
+- These VA.gov static gateway pages enable users to navigate to the decision review options and submit an online Supplemental Claim (SC), Higher Level Review (HLR), or Notice of Disagreement (NOD).
 
-## Competitors
-Competitors that provide information regarding clarification of decision review options
-- Accredited representatives 
-- Online search articles (Ex. https://www.alperinlaw.com/library/understanding-your-decision-review-options.cfm)
+
+## Audience
+All Veterans and other claimants/appellants who navigate to the gateway pages, namely those who seek information regarding their decision review options with the VA or seek to submit an online claim.- Accredited representatives 
+- Including, but not limited to, Veterans who just want to know of the options for future reference, Veterans who want to understand the options available prior to choosing one, and Veterans who are simply passing through to a specific decision review page.
+
+### Third-party Decision Review sources
+
+Where Veterans are finding information regarding clarification of decision review options:
+- Paid Veteran assistance programs
+- https://veteranai.co/
+- Online search articles (Example )
 - Social platforms (Reddit, Facebook)
-
-There are no "known" competitors for the capability to file a disability compensation claim or Board Appeal with the VA 
 
 Considerations:
 -Do accredited reps have access to downstream VA systems to show Veterans?
 
 ## Desired User Outcomes
-- As a Veteran, I want to know the exact purpose of each decision review option.
-- As a Veteran, I want to feel I've been supplied enough engaging content to self-educate about the option differences.
-- Asa Veteran, I want to have confidence in my eligibility for a decision review.
-- As a Veteran, I want to know exactly how long I can expect a decision review option to take.
-- **As a Veteran, once I understand my decision review options, I want support in applying for them.
+- As a Veteran, I will know the exact purpose of each decision review option.
+- As a Veteran, I feel VA has supplied enough engaging and understandable content to self-educate about the decision review options.
+- As a Veteran, I have confidence in my eligibility for the decision review I choose.
+- As a Veteran, I will have an idea of how long each decision review option takes
+
 
 ## Undesired User Outcomes
 - As a Veteran, I do not want the decision review options to be harder to choose between
 - As a Veteran, I do not want to feel overwhelmed making me not want to proceed with any decision review option
-
   
 ## Desired Business Outcomes
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 - Reduction in Veterans that submit claims and appeals for which they do not qualify for
-- Reduction in 526 and 0995 end products that are switched
+- Reduction in the number of disability claims that are submitted when a supplemental claim would have been more appropriate
 - Reduction in duplicate submissions
 - Increase of Veterans that state they're satisfied with their online decision review experience
 
-
 ## Undesired Business Outcomes
-- Increase in Veterans that state they're unhappy with their online decision review experience
-- Reduction in overall submissions
+- Increase of incorrect and duplicate claims
+- Negative impact to CSAT
 
 ## Risks
-- Not supporting users seeking to file claims NOT for disability compensation with our enhanced DR onramp can cause frustration for those users
-- Enhanced DR onramp makes users feel so confident in their options that they drop their accredited rep which they'd need for other VA tasks
+- Frustration from users who are seeking to file decision review for claims other than disability compensation (i.e., users who are not in our target audience) 
 - Users gain false confidence in their decision review options that result in unfavorable outcomes
 
 ---
@@ -69,11 +71,13 @@ Considerations:
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-- % reduction in form abandonment | N/A | TBD
-- % reduction in number of pathways started | N/A | TBD
-- % reduction in duplicate claims submitted | N/A | TBD
-- number of views on educational content | N/A | TBD
+- % reduction in form abandonment | DOMO and GA
+- % reduction in number of pathways started | form in progress count
+- % reduction in incorrect claims submitted | how is incorrect determined?
+- % reduction in duplicate claims submitted | 
+- Increased redirects to form introductions from targeted gateway pages Gateway page views
+- CSAT | how to measure (periodic page surveys? Does this already exist?)
+
 ---
 
 ## Discovery
