@@ -62,24 +62,21 @@ Veterans may be familiar with these tools or the VA forms they’re based on, bu
 ### Outcome
 With findings from this study, we’ll build a greater understanding of the Veteran’s mental model of dependent verification and usability of the flow and identify key moments of clarity and/or confusion. This will inform us of our improvements to the design of this product, including uncovering opportunities to improve language, flow, etc. 
 
-Evaluative findings will directly affect the design and content of our MVP email and verification experience that is set to begin a staged launch in Q2. More foundational insights will help us understand the comprehension of the request and gather expectations about dependent management in general.
+Evaluative findings will directly affect the design and content of our MVP email and verification experience. More foundational insights will help us understand the Veteran's comprehension of and expectations around dependent verification and will inform our plans for information architecture, entry points, and how to improve in-page comprehension. As a secondary outcome, foundational insights will inform longterm visioning for dependent management in general. 
 
 Our topline metric is reducing the average amount of debt accrued by Veterans and reducing the $250 million that overpayments cost the VA every year. This would also reduce the burden on VA employees who have to audit Veterans and manage debt. Secondarily, we will look to findings from this study to inform the long-term vision for enhancements to dependent management on VA.gov.
 
-Hypotheses
+### Hypotheses
 
-- Start Dependent Verification
-- Orient to online form
+**Task: Receive notification**
+- Most Veterans will be familiar with VA.gov notifications
+- Most Veterans will engage directly with the email notification
+- Veterans will have clarity around the request, but may face lack of clarity with understanding the implications of the request (
 
-Task: Receive notification
-Most Veterans will be familiar with VA.gov notifications
-Most Veterans will engage directly with the email notification
-Veterans will have clarity of X, but may face lack of clarity with X
+**Task: Locate verification tool**
+- Veterans will use VA.gov’s search or benefits menu to find dependent management tools and information.
 
-Task: Locate form (or other dependent management tools)
-Veterans will use VA.gov’s search or benefits menu to find dependent management tools and information.
-
-Task: Comprehend request
+**Task: Comprehend request**
 Most Veteran’s mental model will match the task to verify or update dependents.
 Most Veterans will understand that they must still respond to a paper 21-0538 request after completing the update or verify task on VA.gov (won’t disregard future paper requests)
 
