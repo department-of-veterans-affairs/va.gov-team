@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: January 22, 2025
+Last updated by @tygindraux: January 23, 2025
 
 **Jump ahead to:**
 - [Background](#background)
@@ -78,7 +78,7 @@ The 3 concepts are:
 
 ### Research materials
 
-* [Conversation guide](add link)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Conversation%20guide.md)
 * Prototypes
   * [Prototype 1: X](add link)
   * [Prototype 2: X](add link)
