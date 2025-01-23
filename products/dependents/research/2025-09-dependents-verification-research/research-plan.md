@@ -44,21 +44,22 @@ Veterans may be familiar with these tools or the VA forms they’re based on, bu
 
 ## Research Goals & Questions
 
-Understand the Veteran’s mental model of dependent verificationmanagement on VA.gov and their expectations for finding tools and completing tasks around dependent management.
-How does the Veteran find dependent management info and tools on VA.gov?
-What actions and benefits do they associate with dependent management?
-How do Veterans expect to be able to accomplish tasks they associate with dependent management? 
-Validate the usability of our 0538 email notification and va.gov flowdesigns determine whether they provide a clear path to verify and update dependents and where they might impede the Veteran from completing tasks.
-Do directions and other informative language provide clarity or confusion?
-Do the designs allow most Veterans to verify their dependents in one sitting?
-Do we see indicators that a Veteran would take action immediately upon receiving the email? Do they currently receive VA.gov notifications?
-What content or IA decisions might impede the Veteran from completing the task to verify? Update? 
-Understand how the flow, designs, and copy impact the Veteran’s understanding of the task. 
-Is the Veteran familiar with VA Form 0538?
-Does the Veteran’s mental model match the task they’re completing?
-Does the Veteran understand the impact of the dependency verification task?
-Do Veterans answer the yes/no question accurately and with clarity based on their dependents situation.
-Outcome
+- Understand the Veteran’s mental model of dependent verification on VA.gov and their expectations for finding tools and completing tasks around dependent management.
+  - How does the Veteran find dependent management info and tools on VA.gov?
+  - What actions and benefits do they associate with dependent management?
+  - How do Veterans expect to be able to accomplish tasks they associate with dependent management? 
+- Validate the usability of our 0538 email notification and va.gov flowdesigns determine whether they provide a clear path to verify and update dependents and where they might impede the Veteran from completing tasks.
+  - Do directions and other informative language provide clarity or confusion?
+  - Do the designs allow most Veterans to verify their dependents in one sitting?
+  - Do we see indicators that a Veteran would take action immediately upon receiving the email? Do they currently receive VA.gov notifications?
+  - What content or IA decisions might impede the Veteran from completing the task to verify? Update? 
+- Understand how the flow, designs, and copy impact the Veteran’s understanding of the task. 
+  - Is the Veteran familiar with VA Form 0538?
+  - Does the Veteran’s mental model match the task they’re completing?
+  - Does the Veteran understand the impact of the dependency verification task?
+  - Do Veterans answer the yes/no question accurately and with clarity based on their dependents situation.
+
+### Outcome
 With findings from this study, we’ll build a greater understanding of the Veteran’s mental model of dependent verification and usability of the flow and identify key moments of clarity and/or confusion. This will inform us of our improvements to the design of this product, including uncovering opportunities to improve language, flow, etc. 
 
 Evaluative findings will directly affect the design and content of our MVP email and verification experience that is set to begin a staged launch in Q2. More foundational insights will help us understand the comprehension of the request and gather expectations about dependent management in general.
