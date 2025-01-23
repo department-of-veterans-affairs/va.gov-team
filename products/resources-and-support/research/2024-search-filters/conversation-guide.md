@@ -360,6 +360,10 @@ If you know any other Veterans or family members who might be willing to partici
 
 Thank you so much again, and I hope that enjoy the rest of your day!
 
+[Open the Transcript panel, click **Save Transcript**]
+
+[End meeting for all]
+
 ## Emergency Exit
 We have covered all the questions I have for you today. Thank you so much for your time and feedback!
 
