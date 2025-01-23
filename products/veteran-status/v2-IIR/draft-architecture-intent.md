@@ -99,15 +99,15 @@ Please see the green section of our [UX designs](https://www.figma.com/design/Ao
 
 ## Backend changes
 
-This project does not introduce any new or unusual infrastructure dependencies. We do not need to poll any APIs for status.
+This project does not introduce any new or unusual infrastructure dependencies. We do not need to poll any APIs for status. We have error monitoring and logging in Datadog for the API we are hitting (Veteran Service History & Eligibility API).
 
 ## Internal API changes
 
-There will be no new or modified APIs in `vets-api`, however, this effort is dependent on API changes that are currently being developed.
+There will be no new or modified APIs in `vets-api`, however, this effort is dependent on API changes that are currently being developed. We have an upcoming ticket to write API documentation. `vets-website` makes a call to our `vets-api` endpoint which makes a request to the [LH API](https://developer.va.gov/explore/api/veteran-service-history-and-eligibility/docs?version=current) and returns that data to the frontend.
 
 ## External API changes
 
-There will be no new or modified APIs for upstream or external systems.
+There will be no new or modified APIs for upstream or external systems. The ICN is passed between `vets-api` and the LH API to identify the Veteran. ICN is scrubbed when it's returned to the FE.
 
 ## Background jobs
 
@@ -131,15 +131,15 @@ There will be no changes or additions.
 
 ## Test strategy
 
-Our feature is covered by [unit tests](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/personalization/profile/components/proof-of-veteran-status) which use mock data. Currently there are no end-to-end tests. We use [staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) for manual testing.
+Our feature is covered by [unit tests](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/personalization/profile/components/proof-of-veteran-status) which use mock data. Currently there are no end-to-end tests. We use [staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) for manual testing. We also test with a small number of real users in production before doing a mass slow rollout.
 
 ## Rollout plan
 
 We plan to use one feature flag to cover the new page as well as the new card and link on the profile page. It will also be used on the military information page where our feature currently lives.
 
-There is not really a need to coordinate with other teams. The [Military information](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/military-information/MilitaryInformation.jsx) page has these codeowners: @department-of-veterans-affairs/vsa-authd-exp-frontend @department-of-veterans-affairs/va-platform-cop-frontend
+We will be coordinating with the Profile/AuthEx team to review code changes to the name tag banner and Profile hub cards. The [Military information](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/military-information/MilitaryInformation.jsx) page has these codeowners: @department-of-veterans-affairs/vsa-authd-exp-frontend @department-of-veterans-affairs/va-platform-cop-frontend
 
-If rollback is required we can revert our changes and request an out-of-band deployment.
+Since we are only using feature flags for this work we will be ready to disable the feature flags if we encounter any errors or bugs. If a rollback is required we can revert our changes and request an out-of-band deployment.
 
 ## Internal administration tasks
 
@@ -147,4 +147,4 @@ We do not expect this work to introduce maintenance or administration tasks to b
 
 ## Security
 
-We have not done threat modeling. This product doesn't make technilogical or secuirty changes to merit such analysis.
+We don't have any questions regarding the items on the security checklist. We have not done threat modeling. This product doesn't make technilogical or security changes to merit such analysis.
