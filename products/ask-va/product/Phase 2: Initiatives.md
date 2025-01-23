@@ -118,7 +118,7 @@ We will gather insights about agent processes through observations and interview
 
 #### We will deliver:
 - A map of the agent reply process
-- A set of results from a survey
+- A set of findings about business lines and agent processes
 
 ### Update designs to use new VA Design System patterns
 We will update any designs to use new VA Design System patterns, where relevant. For example, there is a new prefill pattern we should update.
