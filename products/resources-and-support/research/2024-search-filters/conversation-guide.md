@@ -36,7 +36,7 @@
 Thanks for joining us today! My name is [MODERATOR NAME], and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-I work on making technology easier for Veterans and others to use in order to get information and benefits from the VA. Today I'm going to ask you a few questions, and then I'll ask you to do some specific tasks using a link that I will share with you.
+I work on making technology easier for Veterans and others to use in order to get information and benefits from the VA. 
 
 What I *hope* to do today is to get your feedback on something new that we're working on.
 
@@ -78,14 +78,17 @@ Before we start, I want to go over a few things:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. I understand you are a Veteran/service member/family member/caregiver. Is that right?
+1. I understand you are a (Veteran/service member/family member/caregiver). Is that right? 
+   - Thanks for confirming that.
 1. What kind of device are you using today? (Computer / Tablet / Smartphone) 
-     - *(If computer, ask:)* What I'm going to show you is small--phone-sized. Do you have a smartphone or tablet that you could use to also join this session? (If so, switch to it; if not, proceed with computer)
+     - [If computer, ask:] What I'm going to show you is small--phone-sized. Do you have a smartphone or tablet that you could use to also join this session? (If so, switch to it; if not, proceed with computer)
 1. I will be sharing a web page link with you during the session. How would you prefer to
-receive the URL? I can dictate it to you, or put it in the Zoom chat. (RECORD)
+receive the URL? I can dictate it to you, put it in the Zoom chat, or (smartphone only) my colleague could text it to you. (RECORD choice)
 1. What VA benefits, if any, do you have experience with? 
-    - *health care / education / career services / disability / home loan / pension / life insurance / burial benefits / __________*
+    - Health care / education / career services / disability / home loan / pension / life insurance / burial benefits / __________
 1. When you want to learn about a program or service offered by the VA, where do you go to look for information?
+    - Google / Facebook / MHV / eBenefits / Contact center call / email / VA.gov / ________________________
+
 1. About how often do you use VA.gov?
 1. Can you tell me about the last time you used VA.gov and what you were looking for? 
      - What were the results? Did you find what you were looking for?
@@ -109,20 +112,20 @@ private window (Firefox, Safari), or InPrivate (Edge)
 [Confirm protoype is visible]
 
 ### Screen sharing instructions (if needed)
-- In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a button that says Share (on phone, may need to scroll sideways or click More...) or Share Screen (on computer, button is green).
+- In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a button that says Share (on phone, may need to scroll sideways or click **More...**) or **Share Screen** (on computer, button is green).
      - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
      - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
-- Now I'd like you to share your screen with me. Tap on the button that says Share. You will then see options for what to share. Please choose "Screen" (phone) or your web browser.
+- Now I'd like you to share your screen with me. Tap on the button that says **Share**. You will then see options for what to share. Please choose **Screen** (phone) or your web browser.
 - Great, now I can see your screen! Thank you for your patience in figuring this out.
-- iPad: Broadcast screen
-- Backup plan if they cannot figure out how to share screen:
+- iPad: **Broadcast screen**
+- Backup plan if they can't figure out how to share screen:
      - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen? [Give mouse control--doesn't work w/iPhones] Can you click and see if you can move your mouse around on my screen?
 
 ### Instructions for finding Zoom chat (if needed)
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom.
-      - Computer: Just to the left of center is a conversation bubble that says Chat.
-          - If don't see chat, ASK: Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
-     - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+   - Computer: Just to the left of center is a conversation bubble that says Chat.
+      - (If don't see chat, ASK:) Do you see the red **Stop Share** button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the **Chat** button in the center of the Zoom controls.
+   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 ## Task 1: Impressions of R&S Landing page
 Note that some parts of the page will work, and other parts will not. 
