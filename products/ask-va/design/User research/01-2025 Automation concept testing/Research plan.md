@@ -36,7 +36,7 @@ Ask VA can support Veterans, their family members, and other submitters at many 
 The key goals of this study are:
 
 * understand how submitters expect to interact with and benefit from automation when sending a question to VA
-* understand whether certain automation features make it easier, faster or more intuitive for Veterans to send a question through Ask VA
+* understand which automation features make it easier, faster or more accurate for Veterans to send a question to VA
 
 ### Outcome
 
@@ -52,11 +52,11 @@ Understand how submitters expect to interact with and benefit from automation wh
 * Which part of the process of submitting a question could benefit the most from automation?
 * Are there other ways, besides these concepts, that submitters expect Ask VA to be automated?
 
-Understand whether certain automation features make it easier, faster or more intuitive for Veterans to send a question through Ask VA
-* How does this concept make it easier or more difficult for Veterans to ask their question?
-* How does this concept make it faster or slower for Veterans to ask their question?
-* How does this concept make it more or less intuitive for Veterans to ask their question?
-* Which issues do we foresee with implementing this concept based on submitter's experiences?
+Understand which automation features make it easier, faster or more accurate for Veterans to send a question to VA:
+* How does this concept make it easier or more difficult for Veterans to send their question to VA?
+* How does this concept make it faster or slower for Veterans to send their question to VA?
+* How does this concept make Veterans likely to send a more or less accurate question to VA?
+* Which issues do we foresee with implementing this concept based on submitter's experiences during testing?
 
 ### Hypotheses
 
