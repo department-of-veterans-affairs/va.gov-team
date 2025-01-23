@@ -205,3 +205,7 @@ Please request enough dates and at ***least double the amount of time slots for 
 - **Accessibility specialist:** N/A
 - **Note-takers:** Perigean
 - **Observers:** I will have a sign-up sheet for observers 
+
+## Approvals
+- Michelle Middaugh (Sitewide PO) on Jan XX, 2025
+- Shane Strassberg (VA Research Ops) on Jan XX, 2025

@@ -130,16 +130,16 @@ private window (Firefox, Safari), or InPrivate (Edge)
 ## Task 1: Impressions of R&S Landing page
 Note that some parts of the page will work, and other parts will not. 
 
-Please try to **talk aloud** about what you're thinking and what you plan to do BEFORE selecting anything.
-
 Please look over this page and tell me about it. I'm interested in your impressions of what you see and any questions that you have.
+
+Please try to **talk aloud** about what you're thinking and what you want to do BEFORE selecting anything.
 
 ### Things to watch for:
 - [Understand meaning of *Resources and support*?]
 - [Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
 ## Task 2: Claim status
-Please go back to the first page you were on [landing pg via breadcrumb]. 
+Please go back to the first page you were on [landing pg via breadcrumb or another way]. 
 
 *[If participant is a caregiver or family member of a Veteran, replace "you" in the tasks with "the Veteran"/"your dad"/"they" or however they refer to the Veteran, unless they are the one who does VA tasks for the Veteran]*
 
@@ -170,7 +170,7 @@ Imagine that you submitted an application for VA benefits a few weeks ago and wa
 
 
 ## Task 3: Community Care 
-Please go back to the first page you were on [landing pg via breadcrumb].
+Please go back to the first page you were on [landing pg via breadcrumb or another way].
 
 Now imagine that you currently receive health care through the VA. You've heard that there are some situations where the VA will pay for health care from non-VA providers. Show me how you would try to figure out if this applies to you.
 
@@ -199,7 +199,7 @@ Now imagine that you currently receive health care through the VA. You've heard 
 
 
 ## Task 4: Travel reimbursement
-Please go back to the first page you were on [landing pg via breadcrumb].
+Please go back to the first page you were on [landing pg via breadcrumb or another way].
 
 Let's assume that you just visited a VA medical center for an appointment, and you took a train to get there. You learned that the VA will pay you back for the cost of your train ticket if you submit your receipt online. Show me how you would try and learn how to do that.
 
@@ -220,7 +220,7 @@ Let's assume that you just visited a VA medical center for an appointment, and y
   - [Do they click on filter chips on search results page?]
   - [Any confusion re filter chips w/X vs. w/o X?] 
 
-What if this this article doesn't answer your question? What would you do next?
+What if this this page doesn't answer your question? What would you do next?
 - [Navigation path: *Search / Filters / Landing page*]
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
@@ -229,7 +229,7 @@ What if this this article doesn't answer your question? What would you do next?
 
 
 ## Task 5: Evidence to support claim
-Please go back to the first page you were on [landing pg via breadcrumb].
+Please go back to the first page you were on [landing pg via breadcrumb or another way].
 
  Imagine you are preparing to apply to receive monthly payments from the VA. You know that there are certain documents you need to provide with your application, but you don't remember exactly what those documents are and want to look them up. Show me how you would try to find that information.
 
@@ -250,7 +250,7 @@ Please go back to the first page you were on [landing pg via breadcrumb].
   - [Do they click on filter chips on search results page?]
   - [Any confusion re filter chips w/X vs. w/o X?] 
 
-What if this this article didn't answer your question? What would you do next?
+What if this this page didn't answer your question? What would you do next?
 - [Navigation path: *Search / Filters / Landing page*]
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
@@ -259,7 +259,7 @@ What if this this article didn't answer your question? What would you do next?
 
 
 ## Task 6: Sign in
-Please go back to the first page you were on [landing pg via breadcrumb].
+Please go back to the first page you were on [landing pg via breadcrumb or another way].
 
 Let's say that you're having some difficulty getting into your VA account online. Show me how you would try to get help on this. 
 
@@ -285,9 +285,9 @@ Let's say that you're having some difficulty getting into your VA account online
 - [Found target content? successful / needed help / unsuccessful]
 
 ## Task 7: Payments and debt
-Please go back to the first page you were on [landing pg via breadcrumb].
+Please go back to the first page you were on [landing pg via breadcrumb or another way].
 
-Please show me how you might check to see whether you owe the VA any money.
+Let's say that you're wondering whether you owe the VA any money. Show me how you might check this.
 
 ### Things to watch for:
 [Record navigation path: *Header / Search / Show filters / Featured / Common topics > Payments and debt / Browse by benefit*]
@@ -313,9 +313,9 @@ Please show me how you might check to see whether you owe the VA any money.
 
 
 ## Task 8: Discharge upgrade *(NOT for Service members)*
-Please go back to the first page you were on [landing pg via breadcrumb].
+Please go back to the first page you were on [landing pg via breadcrumb or another way].
 
-Let's say that you want to change something about your military discharge. Show me how you would find information on that.
+Let's say that you want to change some of the details about how you left the military. Show me how you would find information on that.
 
 [Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
@@ -334,7 +334,7 @@ Let's say that you want to change something about your military discharge. Show 
   - [Do they click on filter chips on search results page?]
   - [Any confusion re filter chips w/X vs. w/o X?] 
 
-What if this this article didn't answer your question? What would you do next?
+What if this this page didn't answer your question? What would you do next?
 - [Navigation path: *Search / Filters / Landing page*]
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
@@ -342,7 +342,7 @@ What if this this article didn't answer your question? What would you do next?
 - [Found target content? successful / needed help / unsuccessful]
 
 
-## Post-Task Interview - X minutes
+## Post-Task Interview - 7 minutes
 1. Overall, about everything you've seen in this session...What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
@@ -352,9 +352,9 @@ What if this this article didn't answer your question? What would you do next?
 - [If yes:] Is there any part of our discussion you would NOT want shared in a video clip?
 
 
-## Thank You and Closing - X minutes
+## Thank You and Closing - 3 minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
 
 If you know any other Veterans or family members who might be willing to participate in a future research session like this one, you can pass along the web link that you'll receive in your email from our team. 
 
@@ -363,4 +363,7 @@ Thank you so much again, and I hope that enjoy the rest of your day!
 ## Emergency Exit
 We have covered all the questions I have for you today. Thank you so much for your time and feedback!
 
+## Approvals
+- Michelle Middaugh (Sitewide PO) on Jan XX, 2025
+- Shane Strassberg (VA Research Ops) on Jan XX, 2025
 
