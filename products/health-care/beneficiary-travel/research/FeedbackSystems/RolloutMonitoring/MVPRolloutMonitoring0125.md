@@ -174,6 +174,12 @@ No feedback for 1/13/25
 1 user response using the VFS Questionnaire.  Rated their satisfaction as a 1, did not explain or answer any other questions.
 
 #### Google Analytics
+| Metric Name | Description |
+| ----------- | ----------- |
+| Unique page views | 1,677 |
+| Views per user | 1.17 |
+| Time spent | 1 min 21 sec |
+
 #### DataDog
 
 ### 1/22/25 - 75%
