@@ -124,7 +124,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 * Describe what happened here? (Prompt them to scroll up and down. If they haven't.)
 > NOTES
 
-* When you look at the other files listed, some have a status, and others don’t. How would you describe the difference between these files?
+* When you look at the other files listed, some have a status while others don’t. What would be your best guess as to why that is?
 > NOTES
 
 * What would you do next?
