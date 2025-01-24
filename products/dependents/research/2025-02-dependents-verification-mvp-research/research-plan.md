@@ -104,7 +104,7 @@ Sessions will be held remotely over Zoom.
 ### Research Materials
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-02-dependents-verification-mvp-research/conversation-guide.md)
-- Link to prototype
+- [Link to prototype](https://www.figma.com/design/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?node-id=1868-15803&t=1OImniqt5pucSNXq-1)
 
 ## Recruitment
 ### Recruitment approach
