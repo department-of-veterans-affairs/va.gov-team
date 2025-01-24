@@ -81,9 +81,9 @@ With the looming sunsetting of MHV and DSLogon it is incumbent that we use the U
   * Success seeing it: @name:V0\:\:UsersController* @payload.action:credential_emails (@payload.status:200 OR @payload.status:296)
   * Some kind of error with loading: @name:V0\:\:UsersController* @payload.action:credential_emails (@payload.status:500 OR @payload.status:401)
 * How many users click the “use my current account” button
-  (verified) sso_new_key @message_content:SSO_NEW_KEY*operation\:interstitial_verify*
+  * (verified) sso_new_key @message_content:SSO_NEW_KEY*operation\:interstitial_verify*
 * How many users click the “create a modern account” button
-  *(signup verified) sso_new_key @message_content:SSO_NEW_KEY*operation\:interstitial_signup*
+  * (signup verified) sso_new_key @message_content:SSO_NEW_KEY*operation\:interstitial_signup*
 * How many users returned from creating a modern credential
   * login_status_success @payload.operation:interstitial_signup env:eks-prod
 * How many users returned from logging into their modern credential when being informed they have one
