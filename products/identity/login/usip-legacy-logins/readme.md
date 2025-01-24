@@ -91,6 +91,7 @@ With the looming sunsetting of MHV and DSLogon it is incumbent that we use the U
 
 ## Solution approach
 * Progressively urgent communications to let Veterans know what is happening.
+  * Utlizing interstitials to notify MHV users of the upcoming deprecation.
 * UX changes to progressively de-emphasize the sunsetting credentials.
 * Timeline which accelerates nudging Veterans to move away from MHV and DSLogon as their sunset dates approach.
 
