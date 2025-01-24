@@ -87,7 +87,7 @@ receive the URL? I can dictate it to you, put it in the Zoom chat, or (smartphon
 1. What VA benefits, if any, do you have experience with? 
     - Health care / education / career services / disability / home loan / pension / life insurance / burial benefits / __________
 1. When you want to learn about a program or service offered by the VA, where do you go to look for information?
-    - Google / Facebook / MHV / eBenefits / Contact center call / email / VA.gov / ________________________
+    - Google / Facebook / Reddit / MHV / eBenefits / Contact center call / email / VA.gov / ________________________
 
 1. About how often do you use VA.gov?
 1. Can you tell me about the last time you used VA.gov and what you were looking for? 
@@ -146,22 +146,19 @@ Imagine that you submitted an application for VA benefits a few weeks ago and wa
 
 [Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
 
+- [Any confusion with *Decision reviews and appeals*?]
+
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
   - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
 
 - [If they try **Show filters**...]
-  - [Which filters do they use? *Audience / Benefit / Topic*]
-  - [Any confusion re filter groups or items within the groups?]
-  - [Do they select multiple categories within a filter?]
-  - [Any confusion re and/or logic between filters and across filter groups?]
-  - [Any missing filters?]
-  - [Do they use *Apply filters* and/or *Clear all* buttons?]
-  - [Do they click on filter chips on search results page?]
-  - [Any confusion re filter chips w/X vs. w/o X?] 
+  - [Note which filters used: *Audience / Benefit / Topic*]
+  - [+ which tags within the filters]
+- [Note if clicked on filter chips in search results / content page]
+- [Any confusions?] 
 
-- [Any confusion with *Decision reviews and appeals*?]
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
