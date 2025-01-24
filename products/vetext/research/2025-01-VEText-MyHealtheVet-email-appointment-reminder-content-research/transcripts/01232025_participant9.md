@@ -29,7 +29,7 @@ _\*Start audio and screen recording.\*_
 
 1. What branch of the military did you serve in? *Army
 
-2. When did you retire or separate? *1974-1982.
+2. When did you retire or separate? *1982
 
 3. Do you currently receive health appointment reminder emails from the VA? *Yes.
 
@@ -45,7 +45,7 @@ _\*Start audio and screen recording.\*_
 
 ### Section 2: Preferred Content - 8 minutes
 
-1. When you open your email health appointment reminders, what information would you like to be included? *Where, phone number, I wish there was a line that said if it's labs, rheumatology, dermatology (extra line on what type of appointment), address, date and time. *Fortunately, I have never had that problem. If it were between the villages outpatient where I usually go, they don’t have rheumatology and dermatology, I would only know the difference between the address. 
+1. When you open your email health appointment reminders, what information would you like to be included? *Where, phone number, I wish there was a line that said if it's labs, rheumatology, dermatology (extra line on what type of appointment), address, date and time. *Fortunately, I have never had that problem. If it were between (facility name) outpatient where I usually go, they don’t have rheumatology and dermatology, I would only know the difference between the address. 
 
    1. Discuss cadence, information details, information about procedures, preparation, maps
 
