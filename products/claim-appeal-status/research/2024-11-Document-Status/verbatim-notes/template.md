@@ -124,7 +124,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 * Describe what happened here? (Prompt them to scroll up and down. If they haven't.)
 > NOTES
 
-* When you look at the other files listed, some have a status while others don’t. What would be your best guess as to why that is?
+* When you look at the other files listed, some have a status while others don’t. What do you think is the difference between these files?
+> NOTES
+
+* When you look at the other files listed, some have a status while others don’t. What do you think is the difference between these files?
+> NOTES
+
+* Would you expect to see statuses on all of these files?"
 > NOTES
 
 * What would you do next?
