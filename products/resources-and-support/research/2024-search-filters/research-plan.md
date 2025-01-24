@@ -54,7 +54,7 @@ Navigation items to observe usage of:
 - Landing page
   - Search box
   - Show filters button
-  - Featured links
+  - Featured links to content page or search results page
   - Common topics
   - Browse by benefit
 - Results page
