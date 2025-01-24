@@ -64,8 +64,7 @@
       * We can use the new service blueprint to get the conversation going and find out what pain points that they see.
       * We can look at the next steps questions from the [1010d/ OHI mural] (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1734537770114/c43159bce476eaee8e52f597201223934411963b)too. Talk about how updates happen in the future? Talk to Pega and VES)
       * Schedule a meeting on Thursday to continue the conversation and potential generate some backlog research items 
-    - Research Opportunities	
-      * Notes from the research planning meeting: Lois was suggested to push the 1010/OHI merge user research to the later date; maybe post launch.
+    - Notes from the research planning meeting: Lois was suggested to push the 1010/OHI merge user research to the later date; maybe post launch.
       * General 1010d usability testing would pushed to a later date.
       * UX team suggested to run a short unmoderated study the using the term "sponsor" as other teams that cannot research this themselves would benefit from the results as well. This was orignally thought to coincide with the OHI/1010D merge research.  Lois suggested we depriotize it and possibly ask about the sponsor term during a more general 1010d usaubility study rather than having the card sort done through Optimal Workshop. She also suggested that we look at other teams research to limit doing our own research. 
 
