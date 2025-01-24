@@ -157,8 +157,7 @@ Imagine that you submitted an application for VA benefits a few weeks ago and wa
   - [Note which filters used: *Audience / Benefit / Topic*]
   - [+ which tags within the filters]
 - [Note if clicked on filter chips in search results / content page]
-- [Any confusions?] 
-
+- [Note any confusions or feedback] 
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
@@ -178,14 +177,10 @@ Now imagine that you currently receive health care through the VA. You've heard 
   - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
 
 - [If they try **Show filters**...]
-  - [Which filters do they use? *Audience / Benefit / Topic*]
-  - [Any confusion re filter groups or items within the groups?]
-  - [Do they select multiple categories within a filter?]
-  - [Any confusion re and/or logic between filters and across filter groups?]
-  - [Any missing filters?]
-  - [Do they use *Apply filters* and/or *Clear all* buttons?]
-  - [Do they click on filter chips on search results page?]
-  - [Any confusion re filter chips w/X vs. w/o X?] 
+  - [Note which filters used: *Audience / Benefit / Topic*]
+  - [+ which tags within the filters]
+- [Note if clicked on filter chips in search results / content page]
+- [Note any confusions or feedback] 
 
 - [Does the participant understand meaning of *Community care*?]
 
@@ -207,14 +202,10 @@ Let's assume that you just visited a VA medical center for an appointment, and y
   - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
 
 - [If they try **Show filters**...]
-  - [Which filters do they use? *Audience / Benefit / Topic*]
-  - [Any confusion re filter groups or items within the groups?]
-  - [Do they select multiple categories within a filter?]
-  - [Any confusion re and/or logic between filters and across filter groups?]
-  - [Any missing filters?]
-  - [Do they use *Apply filters* and/or *Clear all* buttons?]
-  - [Do they click on filter chips on search results page?]
-  - [Any confusion re filter chips w/X vs. w/o X?] 
+  - [Note which filters used: *Audience / Benefit / Topic*]
+  - [+ which tags within the filters]
+- [Note if clicked on filter chips in search results / content page]
+- [Note any confusions or feedback] 
 
 What if this this page doesn't answer your question? What would you do next?
 - [Navigation path: *Search / Filters / Landing page*]
@@ -237,14 +228,10 @@ Please go back to the first page you were on [landing pg via breadcrumb or anoth
   - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
 
 - [If they try **Show filters**...]
-  - [Which filters do they use? *Audience / Benefit / Topic*]
-  - [Any confusion re filter groups or items within the groups?]
-  - [Do they select multiple categories within a filter?]
-  - [Any confusion re and/or logic between filters and across filter groups?]
-  - [Any missing filters?]
-  - [Do they use *Apply filters* and/or *Clear all* buttons?]
-  - [Do they click on filter chips on search results page?]
-  - [Any confusion re filter chips w/X vs. w/o X?] 
+  - [Note which filters used: *Audience / Benefit / Topic*]
+  - [+ which tags within the filters]
+- [Note if clicked on filter chips in search results / content page]
+- [Note any confusions or feedback] 
 
 What if this this page didn't answer your question? What would you do next?
 - [Navigation path: *Search / Filters / Landing page*]
@@ -267,14 +254,10 @@ Let's say that you're having some difficulty getting into your VA account online
   - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
 
 - [If they try **Show filters**...]
-  - [Which filters do they use? *Audience / Benefit / Topic*]
-  - [Any confusion re filter groups or items within the groups?]
-  - [Do they select multiple categories within a filter?]
-  - [Any confusion re and/or logic between filters and across filter groups?]
-  - [Any missing filters?]
-  - [Do they use *Apply filters* and/or *Clear all* buttons?]
-  - [Do they click on filter chips on search results page?]
-  - [Any confusion re filter chips w/X vs. w/o X?] 
+  - [Note which filters used: *Audience / Benefit / Topic*]
+  - [+ which tags within the filters]
+- [Note if clicked on filter chips in search results / content page]
+- [Note any confusions or feedback] 
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
@@ -293,14 +276,10 @@ Let's say that you're wondering whether you owe the VA any money. Show me how yo
   - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
 
 - [If they try **Show filters**...]
-  - [Which filters do they use? *Audience / Benefit / Topic*]
-  - [Any confusion re filter groups or items within the groups?]
-  - [Do they select multiple categories within a filter?]
-  - [Any confusion re and/or logic between filters and across filter groups?]
-  - [Any missing filters?]
-  - [Do they use *Apply filters* and/or *Clear all* buttons?]
-  - [Do they click on filter chips on search results page?]
-  - [Any confusion re filter chips w/X vs. w/o X?] 
+  - [Note which filters used: *Audience / Benefit / Topic*]
+  - [+ which tags within the filters]
+- [Note if clicked on filter chips in search results / content page]
+- [Note any confusions or feedback] 
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
@@ -320,14 +299,10 @@ Let's say that you want to change some of the details about how you left the mil
   - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
 
 - [If they try **Show filters**...]
-  - [Which filters do they use? *Audience / Benefit / Topic*]
-  - [Any confusion re filter groups or items within the groups?]
-  - [Do they select multiple categories within a filter?]
-  - [Any confusion re and/or logic between filters and across filter groups?]
-  - [Any missing filters?]
-  - [Do they use *Apply filters* and/or *Clear all* buttons?]
-  - [Do they click on filter chips on search results page?]
-  - [Any confusion re filter chips w/X vs. w/o X?] 
+  - [Note which filters used: *Audience / Benefit / Topic*]
+  - [+ which tags within the filters]
+- [Note if clicked on filter chips in search results / content page]
+- [Note any confusions or feedback] 
 
 What if this this page didn't answer your question? What would you do next?
 - [Navigation path: *Search / Filters / Landing page*]
