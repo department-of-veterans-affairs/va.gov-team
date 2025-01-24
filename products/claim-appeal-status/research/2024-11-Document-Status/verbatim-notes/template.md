@@ -6,44 +6,18 @@
 
 # TEMPLATE
 
-## Intro - 5 minutes
-
-Thanks for joining us today! My name is [Gary/Skyler], and I'm going to be guiding you through the session today. I'm on a team that works with the VA on the VA.gov website. Today we're going to tal k about disability compensation claims and the Claim Status Tool.
-
-Before we start, I have a few things that I want to go over with you:
-
-* This entire session should take about 60 minutes. I want to be sure to end on time, so I may occasionally prompt you with the next question or topic.
-* In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-* Your participation in this interview is completely voluntary. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-* I want you to know that although I work on the VA.gov website, I have no access to your records or benefits, nor do I have the ability to change your claims or benefits in any way. I am not a specialist in benefits. My primary focus is to understand your experience with the website.
-* The people from Perigean who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. Is it okay with you to have  [specific number] people join us to observe this session?
-  * If yes: Admit observers.
-  * Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov.
-  * Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-* In this session, we’ll ask you to use a test version of the website. This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
-* I’d like to ask your permission to record the screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are deleted, and none of your comments would be attributed to you directly. Are you okay with me recording my screen and audio during this session?
-
-**Start recording.**
-
-* I have started recording. I'd like to confirm: Are you okay if I record my screen and the audio as we talk today? <br>
-    *[Notes]*
-
 ## Warm-up Questions (Optional) - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-* Have you used VA.gov before?<br>
-  *[Notes]*
-  * *If yes*, could you briefly describe the last time you used it?<br>
-  *[Notes]*
-* Have you ever filed an application for disability compensation (Form 526-EZ) with the VA?<br>
-  *[Notes]*
-* Have you uploaded files using Va.gov or VA mobile app?<br>
-  *[Notes]*
+* Have you used VA.gov before?
+> NOTES
+* Have you ever filed an application for disability compensation (Form 526-EZ) with the VA?
+> NOTES
 
-[Ask participant to share their screen]
+* Have you uploaded files using Va.gov or VA mobile app?
+> NOTES
 
-[Share [prototype link](https://www.figma.com/proto/m1Xt8XjVDjZIbliCYcCKpE/Document-status-%28formerly-silent-failures%29?node-id=2771-20256&t=YQPL10Sibs5kZtpY-1) with participant]
 
 ## Part 1: Uploading a file successfully
 
@@ -51,76 +25,121 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 **PROMPT**: Let's say you are signed into your VA.gov account and you're looking at this page. You submitted a claim a month ago, and you're logging in to check and see if there's been an update.
 
-* Do you know what this page is? If yes, what is it?<br>
-*[Notes]*
-* Describe to me what you're seeing here.<br>
-*[Notes]*
-* Imagine you’re waiting for this top claim to be decided, and you want to upload evidence. What would you do?<br>
-*[Notes]*
+* Do you know what this page is? If yes, what is it?
+> NOTES
+
+* Imagine you’re waiting for this top claim to be decided, and you want to upload evidence. What would you do?
+> NOTES
+
+#### Things to watch for:
+
+* Does the participant recognize the Claim Status Tool?
+* Do they recognize which claim is in progress?
 
 ### Part 1 B: Status Page - 5 minutes
 
 [Have the participant click "Details" on the in-progress claim]
 
-* Tell me what you see here. (Prompt them to scroll up and down.)<br>
-*[Notes]*
-* Is there anything particularly useful?<br>
-*[Notes]*
-* Is there anything particularly confusing?<br>
-*[Notes]*
-* If you wanted to upload evidence to your claim, what would you do?<br>
-*[Notes]*
+* Tell me what you see here. (Prompt them to scroll up and down.)
+> NOTES
+
+* Is there anything particularly useful?
+> NOTES
+
+* Is there anything particularly confusing?
+> NOTES
+
+* If you wanted to upload evidence to your claim, what would you do?
+> NOTES
+
+#### Things to watch for:
+
+* How do Veterans react to the Status page in general?
+> NOTES
+
+* Do Veterans read the recent activity section and find it important?
+> NOTES
+
+* Do Veterans know what to do if they want to add files to their claim online?
+> NOTES
 
 ### Part 1 C: Files Page - 10 minutes
 
 [Participant clicks into the Files tab]
 
-* Now tell me what you see here. (Prompt them to scroll up and down.)<br>
-*[Notes]*
-* Is there anything that is particularly useful about what you see here?<br>
-*[Notes]*
-* Is there anything that is particularly confusing about what you see here?<br>
-*[Notes]*
-* What steps would you take to add a file to your claim?<br>
-*[Notes]*
+* Now tell me what you see here. (Prompt them to scroll up and down.)
+> NOTES
+
+* Is there anything that is particularly useful about what you see here?
+> NOTES
+
+* Is there anything that is particularly confusing about what you see here?
+> NOTES
+
+* What steps would you take to add a file to your claim?
+> NOTES
+
+
+#### Things to watch for:
+
+* What content on the page is most useful to the Veteran? Least helpful or confusing?
+> NOTES
+
+* Do Veterans read the document files section and find it important?
+> NOTES
 
 ### Part 1 D: Confirmation message for successful file upload - 10 minutes
 
 [Participant completes the File upload]
 
-* How would you explain this message to a friend?<br>
-*[Notes]*
-* If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)<br>
-*[Notes]*
-* What do you think this card is trying to communicate (referring to the submission in progress card)?<br>
-*[Notes]*
-* Can you describe the relationship between the confirmation message and the "submission in progress" card?<br>
-*[Notes]*
+* How would you explain this message to a friend?
+> NOTES
+
+* If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)
+> NOTES
+
+* Is this what you expected to see?
+> NOTES
+
+* What do you think this card is trying to communicate (referring to the submission in progress card)?
+> NOTES
+
+* Can you describe the relationship between the confirmation message and the "submission in progress" card?
+> NOTES
+
 
 **PROMPT:** Let's pause and imagine you come back later in the day to check on your uploaded.
 
 [Click on the name "Hector" on the top-right hand corner of the page]
 
-* If you wanted to check the status of the claim where would you click?<br>
-*[Notes]*
+* If you wanted to check the status of the claim where would you click?
+> NOTES
 
 [Click on "Details"] 
-* Where would you go to check the progress your uploaded document?<br>
-*[Notes]*
+* Where would you go to check the progress your uploaded document?
+> NOTES
 
 [Click on "Files tab"] 
 
-* Describe what happened here? (Prompt them to scroll up and down. If they haven't.)<br>
-*[Notes]*
-* What would you do next?<br>
-*[Notes]*
+* Describe what happened here? (Prompt them to scroll up and down. If they haven't.)
+> NOTES
 
-[Click on the “next button” to see the file has now be added to the e-folder]
+* When you look at the other files listed, some have a status, and others don’t. How would you describe the difference between these files?
+> NOTES
 
-* Describe what happened here?<br>
-*[Notes]*
-* What would you do next?<br>
-*[Notes]*
+* What would you do next?
+> NOTES
+
+#### Things to watch for:
+
+* When they see the confirmation message, are they more likely to leave the page or check their submission status?
+> NOTES
+
+* Do they understand what the "submission in progress" card is?
+> NOTES
+
+* Once the document hits the eFolder, is it clear the submitted document is now added to their records and no longer pending?
+> NOTES
 
 ## Part 2: Failure processing file (Type 2 Failure)
 
@@ -130,51 +149,77 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 **PROMPT**: Now, we're going to imagine that the VA has requested evidence from you.
 
-* What do you think this alert is communicating?<br>
-*[Notes]*
-* Based on the text in this alert, when you upload your file, when do you expect the alert to disappear?<br>
-*[Notes]*
-* If you want to know more about this request, what would you do?<br>
-*[Notes]*
+* What do you think this alert is communicating?
+> NOTES
 
-### Part 2 B: Status page - Buddy statement request - 5 minutes
+* Based on the text in this alert, when you upload your file, when do you expect the alert to disappear?
+> NOTES
+
+* If you want to know more about this request, what would you do?
+> NOTES
+
+#### Things to watch for:
+
+* Do they understand that they need to take action?
+> NOTES
+
+* Is it clear that the alert will remain visible until VA has reviewed the file and not when the Veteran uploads the file?
+> NOTES
+
+### Part 2 B: Status page - open request - 5 minutes
 
 [Click on "Details"]
 
-* Describe to me what this alert is communicating?<br>
-*[Notes]*
-* What stands out to you on this page?<br>
-*[Notes]*
-* If you wanted to learn more about the alert, what would you do?<br>
-*[Notes]*
+* Describe to me what this alert is communicating?
+> NOTES
+
+* What pieces of information would you say are important to you on this page?
+> NOTES
+
+* If you wanted to learn more about the alert, what would you do?
+> NOTES
 
 ### Part 2 C: Request page - 5 minutes
 
 [Click on the details]
 
-* Describe what you’re seeing here. Remember to think aloud as you do.<br>
-*[Notes]*
-* In your own words, can you describe what is being communicated?<br>
-*[Notes]*
-* If you wanted to respond to this request what would you do?<br>
-*[Notes]*
+* Describe what you’re seeing here. Remember to think aloud as you do.
+> NOTES
+
+* In your own words, how would you describe what's being communicated?
+> NOTES
+
+* If you wanted to upload your response, how would you go about it?
+> NOTES
+
+When the participant see the pre-populated upload file remind them: 
+
+**PROMPT**: Just a reminder for this demo, we’ve pre-uploaded a file to simulate selecting one from your device.
 
 ### Part 2 D: Confirmation for tracked item - 15 minutes
 
 [Participant completes the File upload]
 
-* If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)<br>
-*[Notes]*
+* If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)
+> NOTES
 
 [Click on the alert, "Check the status of your document submission"]
 
 **PROMPT**: Please scroll down to the "Documents" section. In this prototype, the page won’t scroll there automatically, but that’s the intended behavior in the final version.
 
-* Is this what you expect to see?<br>
-*[Notes]*
-* What would you do next?<br>
-*[Notes]*
-  
+* Is this what you expect to see?
+> NOTES
+
+* What would you do next?
+> NOTES
+
+#### Things to watch for:
+
+* Do they notice the link to the document status in the confirmation message?
+> NOTES
+
+* Do they navigate to the Files tab to check the document status?
+> NOTES  
 ⠀
 ## Part 2 E: Participant Logged out
 
@@ -184,20 +229,22 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 **PROMPT**: Take a moment to review this page.
 
-* What are you feeling when you see this?<br>
-*[Notes]*
-* In your own words, describe what is being communicated.<br>
-*[Notes]*
-* Why do you think you are receiving this email?<br>
-*[Notes]*
-* What would you do next?<br>
-*[Notes]*
-  
+* What are you feeling when you see this?
+> NOTES
+
+* In your own words, describe what is being communicated.
+> NOTES
+
+* Why do you think you are receiving this email?
+> NOTES
+
+* What would you do next?
+> NOTES  
 ⠀
 I want you to explore the available options as if you were on your own and viewing the actual page.
 
-* Which option do you prefer and why?<br>
-*[Notes]*
+* Which option do you prefer and why?
+> NOTES
 
 ### Part 2 F: Return to VA.gov - 3 minutes
 
@@ -206,32 +253,39 @@ I want you to explore the available options as if you were on your own and viewi
 **PROMPT**: Now we’re logged back into the VA website to see your claim.
 Without clicking anything, take a moment to review the page. Remember to think aloud as you scroll up and down.
 
-* If you want to know more about this alert, what would you do?<br>
-*[Notes]*
+* If you want to know more about this alert, what would you do?
+> NOTES
 
 ### Part 2 G: Status page - Resubmit Error - 10 minutes
 
-* Describe what you think this alert is telling you.<br>
-*[Notes]*
-* What do you think is the relationship between what you're seeing here and what you saw in your email?<br>
-*[Notes]*
+* Describe what you think this alert is telling you.
+> NOTES
+
+* What do you think is the relationship between what you're seeing here and what you saw in your email? 
   * [If needed for reference click the “reference email” button]
   * [Click the email logo to return to previous screen]
-* What do you expect to happen if you click the "X" button on the alert?
-*[Notes]*
-* If you sign out and then sign back in a few days later, would you expect to see anything related to this alert?<br>
-*[Notes]*
-* What would you do next?<br>
-*[Notes]*
+> NOTES
+
+* What do you expect to happen if you click the "X" button on the alert? If you sign out and then sign back in a few days later, would you expect to see this alert again?
+> NOTES
+
+* Is there anything in the alert you're not seeing that you wish was there?
+> NOTES
+
+* What would you do next?
+> NOTES
 
 #### If they say click on the files page
 
-* What are you expecting to see here? (prompt them to scroll down)<br>
-*[Notes]*
-* Looking at this card, can you describe what's being communicated?<br>
-*[Notes]*
-* If you wanted to resubmit your documents what would you do?<br>
-*[Notes]*
+* What are you expecting to see here? (prompt them to scroll down)
+> NOTES
+
+* Looking at this card, can you describe what's being communicated?
+> NOTES
+
+* If you wanted to resubmit your documents what would you do?
+> NOTES
+
 * [click the CTA to resubmit documents]
 ⠀
 #### If they chose learn how to resubmit document
@@ -241,28 +295,42 @@ Without clicking anything, take a moment to review the page. Remember to think a
 ### Part 2 H: Resubmit notice page - 10 minutes
 Without clicking anything, take a moment to review the page. Remember to think aloud as you scroll up and down.
 
-* What do you think is the relationship between what you're seeing here and what you saw in your email?<br>
-*[Notes]*
+* What do you think is the relationship between what you're seeing here and what you saw in your email? 
   * [If needed for reference click the “reference email” button]
   * [Click the email logo to return to previous screen]
-* What do you think will happen after you submit your document using one of these options?<br>
-*[Notes]*
+> NOTES
 
+* How likely are you to re-upload the document instead of sending a physical copy?
+> NOTES
+
+* What do you think will happen after you submit your document using one of these options?
+> NOTES
+
+#### Things to watch for:
+
+* Do they use the "recent activity" section to track the progress of their upload?
+* Do they understand why they are seeing an email?
+* Can they identify the relationship between the email and in-app alerts?
+* Do they understand the options available for resubmitting files to VA?
 ⠀
 ## Post-Task Interview - 5 minutes
 
-* Overall, what did you think of what you saw today? Was it clear or confusing?<br>
-*[Notes]*
-* Was there anything helpful?<br>
-*[Notes]*
-* On a scale of 1-5, how confident do you feel about being able to resubmit your document if you received a notice like this in real life? (1 being least confident, 5 being most confident.)<br>
-*[Notes]*
-* On a scale of 1-5, how confident do you feel VA will effectively manage your paper documents you've submitted? (1 being least confident, 5 being most confident.)<br>
-*[Notes]*
-  * Why?<br>
-  *[Notes]*
-* Any questions for me?<br>
-*[Notes]*
+* Overall, what did you think of what you saw today? Was it clear or confusing?
+> NOTES
+
+* Was there anything specifically helpful?
+> NOTES
+
+* On a scale of 1-5, how confident do you feel about being able to resubmit your document if you received a notice like this in real life? (1 being least confident, 5 being most confident.)
+  * Why?
+> NOTES
+
+* On a scale of 1-5, How confident are you that VA will effectively manage the paper documents you’ve submitted? (1 being least confident, 5 being most confident.)
+  * Why?
+> NOTES
+
+* Any questions for me?
+> NOTES
   
 ## Thank-You and Closing - 1 minute
 
