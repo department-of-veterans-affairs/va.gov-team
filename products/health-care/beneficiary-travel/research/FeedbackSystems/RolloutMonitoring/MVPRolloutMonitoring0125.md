@@ -221,10 +221,10 @@ No feedback for 1/13/25
 #### DataDog
 | Metric Name | Description |
 | ----------- | ----------- |
-| VA.gov - Endpoint errors |  |
-| Travel Pay API - Endpoint error count |  |
-| Average latency |  |
-| Unique users accessing the API |  |
+| VA.gov - Endpoint errors | 1 |
+| Travel Pay API - Endpoint error count | 124 |
+| Average latency | 2.17 |
+| Unique users accessing the API | 2,170 |
 
 ### 1/24/25 - 100%
 #### Medallia Feedback
