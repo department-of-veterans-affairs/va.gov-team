@@ -9,61 +9,76 @@ The online 686c form allows Veterans to add or remove dependents from their VA b
 - 686c annual submission volume: 342,750 (2024)
 - 674 annual submission volume: 73,300 (2024)
 
+## Vison
+VA’s vision for Dependents Management on VA.gov is to create an accessible, efficient experience for Veterans and their families to manage and verify dependent information. This will ensure appropriate financial calculations and prevent over- (resulting in debt) and under-payments.
+
 ## Problem Statement
 Dependent information is used accross many forms and experiences on VA.gov (pension, disability, VA profile, etc.), and there is no unified user experience when interacting with dependency information.
+### Some specific problems of the application:
+- Hasn’t been proven to lead to faster or more accurate decisions.
+- Hasn't validated the proof of concept for the dependent verification MVP (VA Form 21- 0538), which is critical to ensure it offers a more effective experience than the paper form for Veterans and is actionable for both claims adjudicators and automation.
+- Leverages complex software, which slows development time and increases risk of critical bugs and production issues, especially related to form version updates.
 
-How might we provide a unified experience for Veterans when they need to view, add, remove, or update their dependent inforation across VA.gov?
+### Known User Pain Points:
+- Lack of intuitive and accessible dependent management experience.
+- Inability to edit dependent information.
+- Awareness of need to verify dependents.
+- Inability to verify dependents (digital MVP of VA Form 21-0538 is a work in-progress and proof of concept needs to be validated).
+- Poor findability, clarity, and interoperability of the dependent management experience across VA.gov.
+- Cumbersome for Veterans to start, re-start, edit, navigate, and review their application while filling out.
+- Having to provide information that the VA already has access to, leading to unnecessary effort, delays, and abandonment.
  
 ## Desired User Outcomes
 
-- The 686 and 674 online form flow submits information that can be successfully processed by downstream systems
-- Claims that fail to submit are successfully processed through a backup submission flow
-- Veterans have a positive experience when completing the 686/674 online forms
-- Veterans do not encounter accessibility issues with completing the online 686/674 form
-- Veterans have a cohesive experience on VA.gov when updating and viewing dependent information
-
-## Undesired User Outcomes
-- Online claims experience processing delays
-- Veterans find the form experience confusing, frustrating, or too cumbersome
-- Online claims are lost
+- Zero claims fail: Zero Veterans will submit a claim or associated evidence on VA.gov that silently fails in the background.
+- Zero incomplete claims: Zero Veterans will submit a claim on VA.gov and then be immediately requested by VA for additional information due to out-of-date or incomplete forms.
+- Faster claim decisions: Veterans submitting claims via VA.gov will receive decisions at least as quickly as those submitting similar claims via paper.
+- Increased digital usage: There will be a measurable increase in the proportion of claims submitted through VA.gov, compared to traditional paper submissions.
+- Improved digital experience: Veterans submitting claims through VA.gov will experience a more streamlined, user-friendly process than submitting paper claims, with increased satisfaction (CSAT) and ease of completion.
 
 ## Desired Business Outcomes
-- Online form submissions can be successfuly processed through RBPS
+- Timely form updates: Application forms will be updated to reflect paper form changes within a maximum of one year, with an optimal target of under six months.
+- Employee satisfaction: VA employees who evaluate claims will report a higher satisfaction score for claims received through VA.gov compared to similar claims received via paper.
+- Reduced manual intervention: VA employees will perform fewer manual actions on claims submitted via VA.gov, such as combining duplicate claims or adding missing data.
+- Reduced product maintenance burden: Product development teams working on VA.gov will experience a reduced burden in maintaining applications and supporting artifacts (such as design files, product documentation, etc.) ensuring stable operations and minimal production issues.
+- Faster error detection and resolution: Mean time to detection and mean time to resolution of application errors will be tracked and reduced throughout the project lifecycle.
 
-## Undesired Business Outcomes
-- 686 and 674 online form submissions generate claim errors that prevent automated processing 
+## Outcomes to be Avoided
+-  Increased time or effort for Veterans to submit claims.
+-  Increased the time or effort for VA employees to process claims.
+-  More development letters sent to Veterans requesting additional information due to incomplete or incorrect digital claim submissions.
+-  Reduced decision accuracy for claims submitted on VA.gov.
+-  Increased complexity in making updates to the application, which could hinder future improvement and/or increase production issues.
+-  Increased investment in tasks that do not contribute to government priorities or deliver value to end-users (Such as system re-architecture without proper consultation and approval of government platform leads or repeated research of well-known or deprioritized topic areas)
 
 ---
 ## Measuring Success
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
+<!--* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 * _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
+* _Include links to Domo or Google Analytics Dashboards/Reports_-->
 
 | KPI                             | Baseline Value | Target Value | Actual Value | Link to Data Source |
 |---------------------------------|----------------|--------------|--------------|---------------------|
 | # of 686 online claims per year |                |              |              |                     |
 | # of 674 online claims per year |                |              |              |                     |
 | # of claim errors               |                |              |              |                     |
+| # of claim failures             |                |              |              |                     |
 | # of session to complete claim  |                |              |              |                     |
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
+<!--_What are the measurable targets you're aiming for that delivers value for Veterans?_-->
 
 - Objective: Online 686/674 claims are processed as quickly as possible (automated processing)
   - Key result: Average # of days to process an online 686 form
   - Key result: Average # of days to process an online 674 form
 
 - Objective: Veterans have a positive experience when completing the online 686/674 form flow
-  - Key result: 
+  - Key result:
   - Key result: 
 ---
-
-## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
 ## Priorities
 
@@ -90,8 +105,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - January 2025: 674-only claims sent to RBPS for automated processing. Previously, VA.gov added a "manual" flag to 674-only claims that off-ramped them in BGS for manual processing (before they reached RBPS).
 
 ---
-## Known Issues
-
 ## Key Decisions
 
 ---
