@@ -194,6 +194,12 @@ No feedback for 1/13/25
 1 user response using the VFS Questionnaire.  Rated their satisfaction as a 2 and indicated that they were unable to complete their task.  They explained their rating, saying "I would like to know why my claim payment was canceled on July 12, 2024 I supplied the documents for the travel, I live in City A (redacted), Florida and traveled to Gainesville Florida VA Hospital."  
 
 #### Google Analytics
+| Metric Name | Description |
+| ----------- | ----------- |
+| Unique page views | 1,977 |
+| Views per user | 1.21 |
+| Time spent | 1 min 20 sec |
+
 #### DataDog
 | Metric Name | Description |
 | ----------- | ----------- |
@@ -204,8 +210,21 @@ No feedback for 1/13/25
 
 ### 1/23/25 - 100%
 #### Medallia Feedback
+
 #### Google Analytics
+| Metric Name | Description |
+| ----------- | ----------- |
+| Unique page views | Available 1/27/25 |
+| Views per user | Available 1/27/25 |
+| Time spent | Available 1/27/25 |
+
 #### DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| VA.gov - Endpoint errors |  |
+| Travel Pay API - Endpoint error count |  |
+| Average latency |  |
+| Unique users accessing the API |  |
 
 ### 1/24/25 - 100%
 #### Medallia Feedback
