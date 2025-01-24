@@ -91,11 +91,9 @@ team was able to resolve this as well.
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
-**Note: This rollout is on hold pending an update from the Change Management Team on the appropriate timeline.**
-
 #### Rollout Planning
 
-- Desired date range: Pending, December 2024
+- Desired date range: January 13-24, 2025
 - How will you make the product available in production while limiting the number of users who can find/access it: By using a feature flag.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Because this entire page is an MVP without a specific entry point just yet, we will be broadly monitoring health and engineering metrics as the key indicator of whether or not we can advance.
 - Links to the dashboard showing "success criteria" metrics: [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)
@@ -134,15 +132,15 @@ team was able to resolve this as well.
 #### Planning
 
 - Length of time: 2 days, January 13 and January 14 
-- Percentage of Users (and roughly how many users do you expect this to be): 5% , on top of which we will include Ad Hoc, BAH, and VA veterans who have agreed to test the status page.
+- Percentage of Users (and roughly how many users do you expect this to be): 5%
 
 #### Results
 
-- Number of unique users: 
-- Metrics at this stage (per your "success criteria"): 
-- Was any downstream service affected by the change?: yes | no |  N/A
-- Types of errors logged:
-- What changes (if any) are necessary based on the logs, feedback on user challenges, or VA challenges? 
+- Number of unique users: 553
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: No
+- Types of errors logged: 403, 400
+- What changes (if any) are necessary based on the logs, feedback on user challenges, or VA challenges?: We decided we should implement clearer error messaging to explain when a user was getting an error related to access issues.
 
 ### Stage B: 25% of users
 
@@ -155,11 +153,11 @@ team was able to resolve this as well.
 
 #### Results
 
-- Number of unique users: 
-- Metrics at this stage (per your "success criteria"):
-- Was any downstream service affected by the change?: yes | no |  N/A
-- Types of errors logged:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: 529
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: No
+- Types of errors logged: 403, 400
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None, except for error messaging change
 
 ### Stage C: 50% of users
 
@@ -172,11 +170,11 @@ team was able to resolve this as well.
 
 #### Results
 
-- Number of unique users: 
-- Metrics at this stage (per your "success criteria"):
-- Was any downstream service affected by the change?: yes | no |  N/A
-- Types of errors logged:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
+- Number of unique users: 2,943
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: No
+- Types of errors logged: 403, 400
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?: None
 
 ### Stage D: 75% of users
 
@@ -189,11 +187,11 @@ team was able to resolve this as well.
 
 #### Results
 
-- Number of unique users: 
-- Metrics at this stage (per your "success criteria"):
-- Was any downstream service affected by the change?: yes | no |  N/A
-- Types of errors logged:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
+- Number of unique users: 2,933
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: No
+- Types of errors logged: 403, 400
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?: Error messaging for pages - work ongoing.
 
 ### Stage E: 100% of users
 
@@ -204,11 +202,11 @@ team was able to resolve this as well.
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: 2,170
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: [PICK_ONE]: no
+- Types of errors logged: 403, 400
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? Error messaging deploys on Monday
 
 ## Post Launch metrics
 
