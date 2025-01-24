@@ -125,18 +125,6 @@ Primary criteria (must-haves):
 ](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/651)
 
 ## Timeline
-Please submit artifacts for Research Review 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
-
-1/17/25: Midpoint review
-1/20/25 - 1/24/25: Refine research materials and design
-1/27/25: Submit to research review
-1/27/25 - 2/7/25: Recruitment
-1/28/25 - 2/4/25: Finalize prototype etc. 
-2/4/25 - 2/7/25: Pilot sessions
-2/7/25: Finalize all research assets (incorporate feedback from pilot sessions)
-2/10/25 - 2/14/25: Research sessions
-2/17/25 - 3/18/25: Synthesis & Review
-3/19/25 - 3/31/25: Package findings and recommendations for handoff
 
 | Dates    | Step |
 | -------- | ------- |
@@ -152,14 +140,14 @@ Please submit artifacts for Research Review 8-9 days prior to the first planned 
 |3/19/25 - 3/31/25| Package findings and recommendations for handoff|
 
 ### Prepare
-Pilot participant email: TBD
-Date and time of pilot session: 1/29/25 - 1/31/25, times TBD
+- Pilot participant email: TBD
+- Date and time of pilot session: 2/4/25 - 2/7/25, times TBD
 ### Research sessions
-Planned dates of research: 2/10/25 - 2/14/25 
-Length of sessions
-Session length: 60 minutes 
-Buffer time between sessions: 30 minutes
-Maximum Sessions per day: 3
+- Planned dates of research: 2/10/25 - 2/14/25 
+- Length of sessions
+- Session length: 60 minutes 
+- Buffer time between sessions: 30 minutes
+- Maximum Sessions per day: 3
 ### Availability
 2/10/25 - 2/14/25
 
@@ -168,13 +156,13 @@ Maximum Sessions per day: 3
 ## Team Roles
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
 
-Moderator: Ajia Wallace, 480-748-0329, ajia.wallace@softrams.com
-Research guide writing and task development (usually but not always same as moderator): Ajia Wallace
-Participant recruiting & screening: Perigean, Ajia Wallace
-Project point of contact: Ajia Wallace
-Participant(s) for pilot test: TBD
-Accessibility specialist (for sessions where support for assistive technology may be needed): N/A
-Note-takers: Ruben Sun, Fiorella Geedi, others TBD
-Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side - we’ll share out a sign-up sheet as sessions are scheduled so stakeholders etc. can sign up to observe for specific sessions as their schedules allow. 
+- Moderator: Ajia Wallace, 480-748-0329, ajia.wallace@softrams.com
+- Research guide writing and task development (usually but not always same as moderator): Ajia Wallace
+- Participant recruiting & screening: Perigean, Ajia Wallace
+- Project point of contact: Ajia Wallace
+- Participant(s) for pilot test: TBD
+- Accessibility specialist (for sessions where support for assistive technology may be needed): N/A
+- Note-takers: Ruben Sun, Fiorella Geedi, others TBD
+- Observers: We’ll share out a sign-up sheet as sessions are scheduled so stakeholders etc. can sign up to observe for specific sessions as their schedules allow. 
 
 
