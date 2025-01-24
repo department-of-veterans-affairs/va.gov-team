@@ -14,7 +14,7 @@
 - Mark Dewey - OCTO Engineer
 - Stephen Barrs - OCTO Engineer
 - Sara Smith - 508 Accessibility Specialist [Oddball]
-- Lynne Johnson - Delivery Manager
+- Mark Carter - Delivery Manager
 - Wesley Rowe - Product Manager
 - Florence McCafferty - Design Lead
 - Jonathan Nelson - Designer
