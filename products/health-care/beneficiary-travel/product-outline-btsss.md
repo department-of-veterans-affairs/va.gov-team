@@ -85,14 +85,14 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 
 ### Initiatives
 
-- MVP - Status of a Claim | 
+- MVP - Status of a Claim: The Travel Pay Status Page, [now viewable](https://staging.va.gov/my-health/travel-pay/claims) to 100% of Veterans
+- Travel Pay Status Page: Simple, Mileage-Only Claims (SMOC)
 
 --- 
 
 ## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+-[Travel Pay Status Page Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+-[SMOC Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/SMOC%20Rollout%20Plan.md)
 
 ## Rollout Dates
 - *Target Launch Date - Travel Pay Status Page*
@@ -100,15 +100,9 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 - *Actual Launch Date* 
   - January 2025
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - Two months after actual launch
+  - Impact review after actual launch
 
 ---
-
-## Solution Narrative
-
-### Current Status
-
-### Key Decisions
 
 See [Decision Log](./decision-log.md)
 
