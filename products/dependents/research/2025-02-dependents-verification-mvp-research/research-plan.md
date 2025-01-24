@@ -77,7 +77,7 @@ Our topline metric is reducing the average amount of debt accrued by Veterans an
 - Veterans will use VA.gov’s search or benefits menu to find dependent management tools and information.
 
 **Task: Comprehend request**
-- Most Veteran’s mental model will match the task to verify or update dependents.
+- Most Veteran’s mental models will match the task to verify or update dependents.
 - Most Veterans will understand that they must still respond to a paper 21-0538 request after completing the update or verify task on VA.gov (won’t disregard future paper requests)
 
 **Task: Determine primary action (verify / update)**
