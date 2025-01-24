@@ -15,11 +15,11 @@
       * Continue research and design work on the  OHI/ 1010D merge
       * Design will start to pull in 1010D post-launch improvements from [the spreadsheet] (https://docs.google.com/spreadsheets/d/1lrho8WwCQQ-7Lzje-AG5YN-zadPy-6c5SQRId_nQbYg/edit?gid=0#gid=0) as time permits within each sprint. This will span over multiple sprints.
     - Research Planning
-      * Pre-fill from VA profile research will move to after the supporting docs in the next column on the [Research Planning Mural] 9https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1734718276719/2519a072b8fcd048659b4e146c7ba9bf73158871): Look into beneficiary profile. What do I see if I log in?
+      * Pre-fill from VA profile research will move to after the supporting docs in the next column on the [Research Planning Mural] (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1734718276719/2519a072b8fcd048659b4e146c7ba9bf73158871): Look into beneficiary profile. What do I see if I log in?. Lois suggested relying on the AE team to conduct the research on these on roles and relationships. We can re-evalutate the need to do our own research after we have looked at other team's research. 
       * Premal heard in a stakeholder meeting there's a problem with doc uploads. Design is already working on a UX improvement: Ticket: [#98909](https://github.com/orgs/department-of-veterans-affairs/projects/1533/views/1?pane=issue&itemId=90587480&issue=department-of-veterans-affairs%7Cva.gov-team%7C98909)
       * Swap priority of supporting docs priority with CHAMVPA Pre-fill. Supporting docs may need to be broken down a little more. There are several topics within that area (duplicate HI cards, marriage doc, optional docs, mail-in docs, upload success messages)
       * Consider talking to CHAMPVA stakeholders again about how processing of the 1010d digital form is going to find improvements that may be needed.
-      * We want to revisit conducting in-person research with the multiple claims processors at a later date. In person research may allow us to capture meaningful interactions that we can’t see remotely. We may be able to work some more in-person research with our users during that travel time to make it more valuable. If this is not deemed valuable we can conduct remote sessions.
+      * Lois and Premal want to revisit conducting in-person research with the multiple claims processors at a later date. In person research may allow us to capture meaningful interactions that we can’t see remotely. We may be able to work some more in-person research with our users during that travel time to make it more valuable. If this is not deemed valuable we can conduct remote sessions.
     - Service Blueprint 
       * Premal getting new data on processing times. Keep fleshing this out. Lois to provide feedback on how easy this is to read and comprehend so UX can make improvements prior to working with the stakeholders.We want to continue notating missing info or questions
     - FMP Direct Deposit
@@ -62,8 +62,12 @@
       * Desk research of “form in forms” should be the priority  
       * We can come up with designs and maybe get some early feedback from stakeholders.
       * We can use the new service blueprint to get the conversation going and find out what pain points that they see.
-      * We can look at the next steps questions too (Talk about how updates happen in the future? Talk to Pega and VES)
+      * We can look at the next steps questions from the [1010d/ OHI mural] (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1734537770114/c43159bce476eaee8e52f597201223934411963b)too. Talk about how updates happen in the future? Talk to Pega and VES)
       * Schedule a meeting on Thursday to continue the conversation and potential generate some backlog research items 
+    - Research Opportunities	
+      * Notes from the research planning meeting: Lois was suggested to push the 1010/OHI merge user research to the later date; maybe post launch.
+      * General 1010d usability testing would pushed to a later date.
+      * UX team suggested to run a short unmoderated study the using the term "sponsor" as other teams that cannot research this themselves would benefit from the results as well. This was orignally thought to coincide with the OHI/1010D merge research.  Lois suggested we depriotize it and possibly ask about the sponsor term during a more general 1010d usaubility study rather than having the card sort done through Optimal Workshop. She also suggested that we look at other teams research to limit doing our own research. 
 
 ## January 06 2025
 - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Jina Ryu
