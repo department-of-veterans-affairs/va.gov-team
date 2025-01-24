@@ -79,8 +79,8 @@ With the looming sunsetting of MHV and DSLogon it is incumbent that we use the U
 ### How to get tracking data - Interstitials
 * How many users see the interstitial
   * Success seeing it: @name:V0\:\:UsersController* @payload.action:credential_emails (@payload.status:200 OR @payload.status:296)
-* Some kind of error with loading: @name:V0\:\:UsersController* @payload.action:credential_emails (@payload.status:500 OR @payload.status:401)
-  * How many users click the “use my current account” button
+  * Some kind of error with loading: @name:V0\:\:UsersController* @payload.action:credential_emails (@payload.status:500 OR @payload.status:401)
+* How many users click the “use my current account” button
   (verified) sso_new_key @message_content:SSO_NEW_KEY*operation\:interstitial_verify*
 * How many users click the “create a modern account” button
   *(signup verified) sso_new_key @message_content:SSO_NEW_KEY*operation\:interstitial_signup*
