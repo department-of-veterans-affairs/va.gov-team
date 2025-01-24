@@ -6,8 +6,8 @@
 Between 1/13 and 1/22:
 
 * Unique users: 6,930
-* Views per user: 1.29
-* Time Spent on Page: 1 min 24 sec
+* Views per user: 1.3
+* Time Spent on Page: 1 min 26 sec
 * Average latency: 2.41 sec
 * API Endpoint errors: 463 (4.9%, majority were access issues)
 * VA.gov Endpoint errors: 13
