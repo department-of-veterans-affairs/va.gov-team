@@ -127,7 +127,8 @@ When the participant see the pre-populated upload file tell them:
 [Click on "Files tab"] 
 
 * Describe what happened here? (Prompt them to scroll up and down. If they haven't.)
-* When you look at the other files listed, some have a status while others don’t. What would be your best guess as to why that is?
+* When you look at the other files listed, some have a status while others don’t. What do you think is the difference between these files?
+* Would you expect to see statuses on all of these files?"
 * What would you do next?
 
 #### Things to watch for:
