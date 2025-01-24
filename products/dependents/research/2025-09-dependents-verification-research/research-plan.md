@@ -77,77 +77,82 @@ Our topline metric is reducing the average amount of debt accrued by Veterans an
 - Veterans will use VA.gov’s search or benefits menu to find dependent management tools and information.
 
 **Task: Comprehend request**
-Most Veteran’s mental model will match the task to verify or update dependents.
-Most Veterans will understand that they must still respond to a paper 21-0538 request after completing the update or verify task on VA.gov (won’t disregard future paper requests)
+- Most Veteran’s mental model will match the task to verify or update dependents.
+- Most Veterans will understand that they must still respond to a paper 21-0538 request after completing the update or verify task on VA.gov (won’t disregard future paper requests)
 
-Task: Determine primary action (verify / update)
-Veterans will expect to be able to edit, add, or remove individual dependents quickly
+**Task: Determine primary action (verify / update)**
+- Veterans will understand the difference between the tasks to verify and update
+- Veterans will expect to be able to edit, add, or remove individual dependents quickly
 
-Task: Complete verification
-Most Veterans will complete the dependency verification task with clarity and in one sitting.
-Some Veterans may find the abbreviated format of the form unexpected (one question > transition page > review page > confirmation)
-Methodology
+**Task: Complete verification**
+- Most Veterans will complete the dependency verification task with clarity and in one sitting.
+- Some Veterans may find the tool unfamiliar or unexpected
+
+
+## Methodology
 This study will consist of two parts: 
 
-Foundational research - a series of open-ended questions to gain further insight into the Veteran’s mental model of dependent management on VA.gov and their expectations around managing their dependents.
+**Foundational research**: a series of open-ended questions to gain further insight into the Veteran’s mental model of dependent management on VA.gov and their expectations around managing their dependents.
 
-Usability testing - this is appropriate to our goals of evaluating the flow, design, and content of this new experience and whether they cause clarity or confusion to discover opportunities for improvement before development. 
+**Usability testing**: This is appropriate to our goals of evaluating the flow, design, and content of this new experience and whether they cause clarity or confusion to discover opportunities for improvement before development. 
 
-Location
+If pilot tests indicate usability testing is being primed or otherwise influenced by the foundational line of questioning, we will alternate the order of usability test related questions and foundational questions by session. 
+
+### Location
 Sessions will be held remotely over Zoom.
 
-Research Materials
+### Research Materials
 
 Link to conversation guide
 Link to prototype
 
-Recruitment
-Recruitment approach
+## Recruitment
+### Recruitment approach
 We’ll partner with Perigean to recruit Veterans who meet our criteria
 
-Recruitment criteria
-Our goal is to include a minimum of 8 and recruit 12 to allow for no-shows and [early endings] Veterans using a lean maximum variation sampling strategy. 
+### Recruitment criteria
+Our goal is to include a minimum of 8 and recruit 12 (to allow for no-shows and sessions that end early Veterans) using a lean maximum variation sampling strategy. 
 
 Primary criteria (must-haves): 
-Veterans with disability benefits or Pension benefits
-Veterans with dependents on their VA benefits (disability or Pension) currently or previously (spouse, child, stepchild, adopted child, school-aged child (18-23 years old), permanently disabled child, parent) 
-Representative of the VA population (with the exception of assistive technology which we will not include in this lightweight prototype-based research but will include in following research in staging or post-launch). 
-Veterans of varying cognitive abilities, with at least 50% with some sort of cognitive impairment
-Veterans who are comfortable reading English
-Veterans who have access to a computer or other device that will run Zoom and the prototype
+- Veterans with disability benefits or Pension benefits
+- Veterans with dependents on their VA benefits (disability or Pension) currently or previously (spouse, child, stepchild, adopted child, school-aged child (18-23 years old), permanently disabled child, parent) 
+- Representative of the VA population (with the exception of assistive technology which we will not include in this lightweight prototype-based research but will include in following research in staging or post-launch). 
+- Veterans of varying cognitive abilities, with at least 50% with some sort of cognitive impairment
+- Veterans who are comfortable reading English
+- Veterans who have access to a computer or other device that will run Zoom and the prototype
 
-View recruitment request ticket
+[Go to recruitment request ticket
+](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/651)
 
-Timeline
+## Timeline
 Please submit artifacts for Research Review 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
 1/17/25: Midpoint review
-1/20/25 Complete preparation and submit to research review
-1/21/25 - 2/3/25: Recruitment
-1/28/25: Finalize prototype etc. 
-1/29/25 - 1/31/25: Pilot sessions
-2/3/25 - Finalize all research assets (incorporate feedback from pilot sessions)
+1/20/25 - 1/24/25: Refine research materials and design
+1/27/25: Submit to research review
+1/27/25 - 2/7/25: Recruitment
+1/28/25 - 2/4/25: Finalize prototype etc. 
+2/4/25 - 2/7/25: Pilot sessions
+2/7/25: Finalize all research assets (incorporate feedback from pilot sessions)
 2/10/25 - 2/14/25: Research sessions
-2/17/25 - 2/18/25: Cushion to account for no-shows, re-scheduling, etc.
 2/17/25 - 3/18/25: Synthesis & Review
 3/19/25 - 3/31/25: Package findings and recommendations for handoff
-Prepare
 
-
+### Prepare
 Pilot participant email: TBD
 Date and time of pilot session: 1/29/25 - 1/31/25, times TBD
-Research sessions
-Planned dates of research: 2/4/25 - 2/13/25 (with additional cushion 2/14/25 - 2/18/25)
+### Research sessions
+Planned dates of research: 2/10/25 - 2/14/25 
 Length of sessions
-Session length: < 1.5 hours (we want to address both foundational and usability questions with each participant and allow extra time in case a line of questioning extends beyond an hour)
+Session length: 60 minutes 
 Buffer time between sessions: 30 minutes
 Maximum Sessions per day: 3
-Availability
-2/4/25 - 2/18/25
+### Availability
+2/10/25 - 2/14/25
 
 8AM - 6PM EST
 
-Team Roles
+## Team Roles
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
 
 Moderator: Ajia Wallace, 480-748-0329, ajia.wallace@softrams.com
