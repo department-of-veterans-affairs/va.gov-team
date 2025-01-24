@@ -3,7 +3,7 @@ name: IA Tracker
 about: For documenting IA work to support CAIA team.
 title: "IA Tracker: [Project Name]"
 labels: sitewide CAIA, Sitewide IA
-assignees: 
+assignees: mnorthuis
 
 ---
 
