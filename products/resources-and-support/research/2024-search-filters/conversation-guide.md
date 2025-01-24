@@ -286,10 +286,10 @@ Let's say that you're wondering whether you owe the VA any money. Show me how yo
 - [Found target content? successful / needed help / unsuccessful]
 
 
-## Task 8: Discharge upgrade *(NOT for Service members)*
+## Task 8: Military records / Discharge upgrade *(NOT for Service members)*
 Please go back to the first page you were on [landing pg via breadcrumb or another way].
 
-Let's say that you want to change some of the details about how you left the military. Show me how you would find information on that.
+Let's say that you want to request an update to some of your military records. Show me how you would find information on that.
 
 [Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
@@ -313,9 +313,17 @@ What if this this page didn't answer your question? What would you do next?
 
 
 ## Post-Task Interview - 7 minutes
+Please go back to the first page you were on [landing pg via breadcrumb or another way].
 1. Overall, about everything you've seen in this session...What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
+1. [If they didn't use filters at all] Did you see the words with light blue underneath them?
+     1. What do you think they are, and how might you use them?
+     1. I don't think you used them before. Why was that? 
+     1. Are there some that you're unsure of what they mean?
+1. [If they used filters] Let's look back at the filters in the page you were using.
+     1. Are there some that you're unsure of what they mean?
+     1. Are any missing that you think should be there? 
 1. Is there anything else that we haven't talked about that you think I should know? 
 
 **Are you still okay if we use any video or audio clips from this session?** *(yes / no)*
