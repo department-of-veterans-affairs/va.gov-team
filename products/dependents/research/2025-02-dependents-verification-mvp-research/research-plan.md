@@ -48,7 +48,7 @@ Veterans may be familiar with these tools or the VA forms they’re based on, bu
   - How does the Veteran find dependent management info and tools on VA.gov?
   - What actions and benefits do they associate with dependent management?
   - How do Veterans expect to be able to accomplish tasks they associate with dependent management? 
-- Validate the usability of our 0538 email notification and va.gov flowdesigns determine whether they provide a clear path to verify and update dependents and where they might impede the Veteran from completing tasks.
+- Validate the usability of our 0538 email notification and va.gov designs and determine whether they provide a clear path to verify and update dependents and where they might impede the Veteran from completing tasks.
   - Do directions and other informative language provide clarity or confusion?
   - Do the designs allow most Veterans to verify their dependents in one sitting?
   - Do we see indicators that a Veteran would take action immediately upon receiving the email? Do they currently receive VA.gov notifications?
