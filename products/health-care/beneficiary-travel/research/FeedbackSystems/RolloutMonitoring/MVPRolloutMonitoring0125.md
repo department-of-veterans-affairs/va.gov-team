@@ -1,4 +1,23 @@
 
+# Rollout Monitoring for Travel Pay Status Page MVP on VA.gov
+
+
+## Overall Trends
+Between 1/13 and 1/22:
+
+* Unique users: 6,930
+* Views per user: 1.29
+* Time Spent on Page: 1 min 24 sec
+* Average latency: 2.41 sec
+* API Endpoint errors: 463 (4.9%, majority were access issues)
+* VA.gov Endpoint errors: 13
+
+<img width="565" alt="image" src="https://github.com/user-attachments/assets/3053b3d7-82d1-4882-a781-8a7b88ef01cd" />
+
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/519572c9-9d95-4f29-873f-201ddfbcfd14" />
+
+
+
 _Please note: Google Analytics Data is on a 48-hour delay (e.g. data for 1/13 will not be complete until 1/15)_ 
 
 ### 1/13/25 - 5%
