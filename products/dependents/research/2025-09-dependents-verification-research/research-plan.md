@@ -138,6 +138,19 @@ Please submit artifacts for Research Review 8-9 days prior to the first planned 
 2/17/25 - 3/18/25: Synthesis & Review
 3/19/25 - 3/31/25: Package findings and recommendations for handoff
 
+| Dates    | Step |
+| -------- | ------- |
+| 1/17/25  | Midpoint review   |
+| 1/20/25 - 1/24/25 | Refine research materials and design     |
+| 1/27/25    | Submit to research review    |
+| 1/27/25 - 2/7/25 | Recruitment|
+| 1/28/25 - 2/4/25 | Finalize prototype etc.| 
+|2/4/25 - 2/7/25| Pilot sessions| 
+|2/7/25| Finalize all research assets (incorporate feedback from pilot sessions)|
+|2/10/25 - 2/14/25| Research sessions|
+|2/17/25 - 3/18/25|Synthesis & Review|
+|3/19/25 - 3/31/25| Package findings and recommendations for handoff|
+
 ### Prepare
 Pilot participant email: TBD
 Date and time of pilot session: 1/29/25 - 1/31/25, times TBD
