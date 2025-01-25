@@ -65,7 +65,7 @@ Let’s look at a sample of a [current reminder](https://github.com/department-o
 
    2. Discuss consolidation or how many appointments should be in a single email.
 
-4. How do you prefer for the Veterans Health Administration to communicate with you? - for example emails, sms, letters? * As long as I know who it’s for. I go to Maryland, and I see some in Baltimore and others elsewhere, and it’s good to know I have one on the 23rd and it I would like to know if its Baltimore downtown or Baltimore, Rockraven. 
+4. How do you prefer for the Veterans Health Administration to communicate with you? - for example emails, sms, letters? * As long as I know who it’s for. I go to Maryland, and I see some in Baltimore and others elsewhere, and it’s good to know I have one on the 23rd and it I would like to know if its (VAMC) downtown or (VAMC, another location in same city) 
 
 Let’s look at a possible [PHI sample reminder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/Pending-MHV-PHI-emailmockup.md)
 
