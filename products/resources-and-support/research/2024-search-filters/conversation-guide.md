@@ -137,6 +137,29 @@ Please try to **talk aloud** about what you're thinking and what you want to do 
 - [Understand meaning of *Resources and support*?]
 - [Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
+## Task 1.5: Explore VA resources
+Please go back to the first page you were on [landing pg via breadcrumb or another way]. 
+
+Let's say that someone you know is getting ready to transition from active service to civilian life, and they asked you to help them understand how the VA can support them. Show me how you would look for information to share with them."
+
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
+
+- [**If they try to use *search***, ask:] What are you trying to do? 
+  - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
+  - [Record search string: ______________________________________________]
+  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+
+- [If they try **Show filters**...]
+  - [Note which filters used: *Audience / Benefit / Topic*]
+  - [+ which tags within the filters]
+- [Note if clicked on filter chips in search results / content page]
+- [Note any confusions or feedback] 
+
+[Once they open the content page and think it's what they were looking for, say:] You can stop here. 
+
+- [Found target content? successful / needed help / unsuccessful]
+
+
 ## Task 2: Claim status
 Please go back to the first page you were on [landing pg via breadcrumb or another way]. 
 
@@ -244,7 +267,7 @@ What if this this page didn't answer your question? What would you do next?
 ## Task 6: Sign in
 Please go back to the first page you were on [landing pg via breadcrumb or another way].
 
-Let's say that you're having some difficulty getting into your VA account online. Show me how you would try to get help on this. 
+Let's say that you want to refill a prescription but you're having some difficulty getting into your VA account online. Show me how you would try to get help on this. 
 
 [Record navigation path: *Header / Search / Show filters / Featured: Signing in to VA.gov / Common topics / Browse by benefit*]
 
