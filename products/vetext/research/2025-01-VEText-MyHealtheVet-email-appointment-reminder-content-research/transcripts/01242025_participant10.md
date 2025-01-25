@@ -72,7 +72,7 @@ Let’s look at a possible [PHI sample reminder](https://github.com/department-o
 
 1. What are your thoughts here? What do you think of the additional information? *This looks better. I think this look 100% better and stated very clearly.  It also tells you when it was last updated.  
 * I like that it has the clinic and clinic number. I assume this is not a general number. Hopefully, this is a direct number. Sometimes depending on your appointment, you don’t know where to get there if it was radiology or optometry. 
--Would having a link of a map be helpful? *I have mixed feelings about that. Technology can be a savvy tool but the same thing can be bad in the wrong hands. On one hand, it would be helpful to and not there to shoot the place. Now, if a person had bad intentions, now you have pinpointed where to go. We need to be on the side of caution. 
+-Would having a link of a map be helpful? *I have mixed feelings about that. Technology can be a savvy tool but the same thing can be bad in the wrong hands. Now, if a person had bad intentions, now you have pinpointed where to go. We need to be on the side of caution. 
 
 2. If you had your choice of this (PHI) reminder and one with more generic information, which would you choose to receive? Why? * I like that one (second option). 
 
