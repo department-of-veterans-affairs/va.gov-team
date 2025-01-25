@@ -27,7 +27,7 @@ _\*Start audio and screen recording.\*_
 
 ### Section 1: Warm-Up Questions - 5 minutes
 
-1. What branch of the military did you serve in? *Marine Corpse.
+1. What branch of the military did you serve in? *Marine Corps
 
 2. When did you retire or separate? *December 2003.
 
