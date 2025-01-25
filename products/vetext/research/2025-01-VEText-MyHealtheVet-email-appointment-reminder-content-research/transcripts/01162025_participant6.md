@@ -65,11 +65,11 @@ Let’s look at a sample of a [current reminder](https://github.com/department-o
 
    2. Discuss consolidation or how many appointments should be in a single email.
 
-4. How do you prefer for the Veterans Health Administration to communicate with you? - for example emails, sms, letters? * As long as I know who it’s for. I go to Maryland, and I see some in Baltimore and others elsewhere, and it’s good to know I have one on the 23rd and it I would like to know if its (VAMC) downtown or (VAMC, another location in same city) 
+4. How do you prefer for the Veterans Health Administration to communicate with you? - for example emails, sms, letters? * As long as I know who it’s for. I go to (VAMC), and I see some in (city name) and others elsewhere, and it’s good to know I have one on the 23rd and it I would like to know if its (VAMC) downtown or (VAMC, another location in same city) 
 
 Let’s look at a possible [PHI sample reminder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/Pending-MHV-PHI-emailmockup.md)
 
-1. What are your thoughts here? What do you think of the additional information? * Where it says to call your facility before your appointment; I generally don’t do that.  I don’t look at the information on the coronavirus. If I have to change my appointment, I know what to do, I would probably glance at it. * You can call the main number at a facility, but do I go to scheduling and the first time it was a run-around. For Rockraven, now I have their scheduling. 
+1. What are your thoughts here? What do you think of the additional information? * Where it says to call your facility before your appointment; I generally don’t do that.  I don’t look at the information on the coronavirus. If I have to change my appointment, I know what to do, I would probably glance at it. * You can call the main number at a facility, but do I go to scheduling and the first time it was a run-around. For (VA Facility), now I have their scheduling. 
 *The first thing I notice is the, “In-person appointment, you have a location, and information number, other than directions I think that is the important information. 
 *I think it would be especially if you haven’t been to that specific location. 
 *If you had a link there and highlighted to where you are supposed to go would be helpful. 
