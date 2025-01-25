@@ -1,4 +1,5 @@
-[GitHubProjectFiltersforCC.txt](https://github.com/user-attachments/files/18084583/GitHubProjectFiltersforCC.txt)# Veteran Self-Schedule Community Care (VSS CC) Initiative Brief 
+[GitHubProjectFiltersforCC.txt](https://github.com/user-attachments/files/18084583/GitHubProjectFiltersforCC.txt) 
+# Veteran Self-Schedule Community Care (VSS CC) Initiative Brief 
 
 - [Artifacts](#artifacts)
     - [Requirements Artifacts](#requirements-artifacts)
