@@ -92,8 +92,8 @@ Dependent information is used accross many forms and experiences on VA.gov (pens
 
 ### Initiatives
 - [2023 Validate Zip Codes for Military Bases Outside the U.S.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/21-686C-military-base-outside-the-US-address-issues/initiative-brief.md) (This validation was eventually added to the platform-level address design component.)
-- [2024 686 and 674 Online form Updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/Initiative-Brief-686-674-Form-Updates.md)
-- [2024 Dependent Verification Tool](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md)
+- [2024/25 686 and 674 Online form Updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/form_updates/Initiative-Brief-686-674-Form-Updates.md)
+- [2024/25 Dependent Verification Tool](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md)
 
 --- 
 ## Key Launch Dates
