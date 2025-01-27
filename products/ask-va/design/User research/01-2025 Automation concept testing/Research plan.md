@@ -79,7 +79,7 @@ We will present 3 concepts (in varying orders) to submitters who will use and re
 1. **Recommend a topic based on a category and question:** Submitter chooses a category and inputs a question, system recommends a topic to the submitter, submitter edits their topic or continues with recommendation.
 2. **Ask for a more detailed question to determine category and topic:** Submitter inputs a question, system alerts them to add more information so it can figure out where to send their question, system recommends a category and topic, submitter can edit their question or continue with recommendation.
 3. **Question helps narrow down the list of categories:** Submitter inputs a question, system uses question to narrow down the list of categories, submitter chooses a category, submitter chooses a topic.
-4. **Provide helpful links before someone decides whether to continue asking a question:** Submitter inputs a question, system uses question to provide helpful links to other information on VA.gov that may answer their question, submitter can choose to navigate away from asking a question or to continue by selecting their category.
+4. **Provide helpful links so someone can decide whether to continue asking a question:** Submitter inputs a question, system uses question to provide helpful links to other information on VA.gov that may answer their question, submitter can choose to navigate away from asking a question or to continue by selecting their category.
 
 ### Research materials
 
