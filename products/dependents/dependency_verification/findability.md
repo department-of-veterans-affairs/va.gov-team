@@ -16,6 +16,8 @@ This initiative consists of two parts:
 [Go to verification MVP designs in Figma
 ](https://www.figma.com/design/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?node-id=1574-12903&t=zqs6ZMV8Lfs9bYeD-1)
 
+[Go to CAIA IA findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/findability.md#caias-ia-feedback)
+
 ## Findability assessment: Goals, methodology, and expected outcomes
 
 ### Goals
