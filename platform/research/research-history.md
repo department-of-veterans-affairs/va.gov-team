@@ -1066,7 +1066,7 @@ _VA.gov CMS team: Jodi Leo, Eric Chiu, Meghana Khandekar_
 _CMS and Website Teams, Research Leads: Jeff Barnes & Mikki Northius_
 
 * 211 participants for tree testing the navigation (8-11 February), 348 participants for the close card sort for services listing (26 February - 1 March)
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/Facility%20research%20-%20facility%20IA%20-%20February%202019)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/facility%20IA%20-%20February%202019)
 
 #### February 5-8: BAH VetTec Discovery
 *BAH Platform Team, Research Leads: Amy Knox & Theresa McMurdo*
