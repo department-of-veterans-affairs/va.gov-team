@@ -15,12 +15,12 @@ User Experience KPIs measure how well Ask VA meets the needs and expectations of
 
 ### Form
 These are KPIs we want to actively track when we launch on VA.gov in 2025.
-|KPI|2024 targets as of 10/24/24|
-|:--|:--|
-|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average (2024)**: 30%<br>**VA.gov forms average**: ❓|
-|**Experience** - Increase experience rating to at least the VA.gov average|**VA.gov average**: 57%<br>**VA.gov forms average**: 3.5|
-|**Form completion rate** - Increase the percentage of questions successfully sent by submitters to at least the VA.gov average form completion rate|**VA.gov average form completion rate**: 29%|
-|**Time to submit form** - Decrease the average time it takes submitters to send a question from ❓|❓|
+|KPI|Current (2025)|2024 targets as of 10/24/24|
+|:--|:--|:--|
+|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|23%|**VA.gov average (2024)**: 30%<br>**VA.gov forms average**: ❓|
+|**Experience** - Increase experience rating to at least the VA.gov average|TBD after mid-Mar VA.gov launch|**VA.gov average**: 57%<br>**VA.gov forms average**: 3.5|
+|**Form completion rate** - Increase the percentage of questions successfully sent by submitters to at least the VA.gov average form completion rate|35%|**VA.gov average form completion rate**: 29%|
+|**Time to submit form** - Decrease the average time it takes submitters to send a question from ❓|TBD after mid-Mar VA.gov launch|❓|
 
 #### Other form metrics
 These are other form metrics to track. We don't need these for launch.
@@ -30,12 +30,12 @@ These are other form metrics to track. We don't need these for launch.
 
 ### Dashboard 
 These are KPIs we want to actively track when we launch on VA.gov in 2025.
-KPI|2024 targets as of 10/24/24|
-|:--|:--|
-|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average** (2024): 30%|
-|**Experience** - Increase experience rating to at least the VA.gov average|**VA.gov average (2024)**: 57%|
-|**Reply rate** - Increase the number of replies to questions to ❓|❓|
-|**Time to reply** - Decrease the average time it takes submitters to reply to a question from ❓|❓|
+KPI|Current (2025)|2024 targets as of 10/24/24|
+|:--|:--|:--|
+|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|TBD after mid-Mar VA.gov launch|**VA.gov average** (2024): 30%|
+|**Experience** - Increase experience rating to at least the VA.gov average|TBD after mid-Mar VA.gov launch|**VA.gov average (2024)**: 57%|
+|**Reply rate** - Increase the number of replies to questions to ❓|TBD after mid-Mar VA.gov launch|❓|
+|**Time to reply** - Decrease the average time it takes submitters to reply to a question from ❓|TBD after mid-Mar VA.gov launch|❓|
 
 ### Other dashboard metrics
 These are other dashboard metrics to track. We don't need these for launch.
