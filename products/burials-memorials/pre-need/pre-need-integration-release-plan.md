@@ -2,30 +2,17 @@
 <!-- markdownlint-disable MD024 -->
 # Pre-need integration release Plan Template
 
-So! You're thinking about how you want to launch your product. You know you'll perform usability testing and QA the heck out of it in staging, both critical components of product development. But they don't tell you how people will naturally use your product when you're not there to guide them to it, how any submitted data will get to VA, whether that data will be easy or difficult for VA to process, whether people will be likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment. All of which could be very detrimental to users, which is the antithesis of what we're here to do.
+## Release Plan Overview
 
-So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how Veterans will actually use it, and what problems it actually might have or create, and then fix/adjust before going live to millions of VA.gov users?**
+| Phase | Duration | Users | Dates |
+|---|---|---|---|
+|Phase 1: Staging testing |2 days|TBD| TBD |
+|Phase 2: Canary production testing |3 hours|TBD| TBD |
+|Phase 2D: 100% of users| indefinite | 100% users (auth and non-auth) |TBD|
+|Phase 3: Retire V1| permanent | 100% users (auth and non-auth) | TBD |
 
-Though issues in production happen, follow this template to minimize the chances and the effects of production issues.
-
-## When to use this release plan
-
-If you answer yes to any of the questions below, you'll need to create a release plan using this template.
-
-- Does the feature you are working on moderately or significantly affect the Veteran experience of the product?
-- Does the feature you are working on change the structure of the underlying data?
-- Does the feature's backend or downstream interactions change?
-- Is this a brand new experience for a Veteran?
-
-The team should develop this plan in parallel with the development of the feature your team is creating.
-
-## How to use this release plan
-
-1. Create a release plan using this template in your feature documentation. Optionally, remove the extra text from the template.
-2. Fill out all the details below.
-3. Review the release plan with the team and your OCTO before [releasing your app to production](#step-3-production-rollout).
-
----
+Considerations
+- Form volume is typically 25 authenticated submissions and 30 unauthenticated submissions per day
 
 ## Step 1: Development
 
@@ -35,7 +22,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| content-build registry.json | vagovprod: false |
 
 ## Step 2: Validation
 
@@ -43,9 +30,9 @@ Since we use a [continuous delivery](https://depo-platform-documentation.scrollh
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
@@ -87,13 +74,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 ### Define the Rollback process
 
-Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
-
-> Example
->
-> - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
-
-[FILL_IN]: create your rollback plan
+- Tech lead and developers will monitor analytics along with downstream application developers. If any major concerns are identified, we will begin the roll back process by switching the vagoprod flag back to false while we investigate, and fix identified issue(s).
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
