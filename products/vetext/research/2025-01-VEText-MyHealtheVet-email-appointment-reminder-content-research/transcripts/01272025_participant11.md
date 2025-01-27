@@ -82,7 +82,7 @@ Let’s look at a possible [PHI sample reminder](https://github.com/department-o
 3. Do you have any concerns about privacy with your appointment reminders? If so, does that influence your method of reminder? *Great point but poor question for me because I don’t know if it violates PHI or HIPPA. Let's say it has an infectious disease. Generally, people going to do that could be for STI or STD or prevention of something that could possibly be a violation. 
 -Would you think your email would be a scam if you opened the email reminder?  *As for as it was a scam, I would look for the sender and I were still concerned I would look into My HealtheVet to make sure my appointment was still there. I would look for a notice that warns people the reminders will look different. 
 - How would you like to see the notification of the change? *Would like to see it everywhere in every which way. 
--Why don’t Veterans show up? *A lot of Veterans, you get taught and its too easy to complain and they aren’t paying for it. They don’t have the financial impotence to show up. The third is the location. For me, I drive over an hour, and that’s in D.C.
+-Why don’t Veterans show up? *A lot of Veterans, you get taught and its too easy to complain and they aren’t paying for it. They don’t have the financial impetus to show up. The third is the location. For me, I drive over an hour, and that’s in D.C.
 ### Closing Interview - 5 minutes
 
 Do you have any comments or questions about VA health appointment reminder emails that we have not yet covered today?
