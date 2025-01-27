@@ -9,10 +9,10 @@ _**Overview:** This tracker is designed to align sprint goals with quarterly pri
   
 | Priority ID | Description | S.Epic |Status | Notes |  
 |-------------|---------------|-----------------|---------------|  ---------------|  
-| QP1 | Launch Wizard updates in production| [#48133](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/6?pane=issue&itemId=88349041&issue=department-of-veterans-affairs%7Cva.gov-team%7C48133)| TBD |  TBD |  
-| QP2 | Establish One VA Debt Letter PDF in production| [#84175](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84175) | TBD | TBD |   
-| QP3 | TBD | TBD | TBD |  TBD |  
-  
+| QP1 | Establish One VA Debt Letter PDF in production| [#84175](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84175) | TBD | TBD |   
+| QP2 | Launch Wizard updates in production| [#48133](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/6?pane=issue&itemId=88349041&issue=department-of-veterans-affairs%7Cva.gov-team%7C48133)| TBD |  TBD |  
+| QP3 | Payment History (VHA)  | TBD | TBD |  TBD |  
+| QP4 | CSAT / Medallia Work  | TBD | TBD |  TBD |   
 
 ## Sprint Goals - Sprint 1 [ 1/24/25 - 2/11/25] 
 **_Goals:_**
