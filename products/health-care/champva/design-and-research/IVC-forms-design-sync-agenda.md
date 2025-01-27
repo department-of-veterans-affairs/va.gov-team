@@ -1,12 +1,23 @@
 # Running Design and Research Agenda
 
+
+## January 27 2025
+ - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
+     - ### Agenda Topics
+         - Design Roadmap
+         - Review of the Multiple Claims flow options
+         - Review of health insurance selector for 1010D
+         - Review of additional desk research for 1010d/OHI merge
+         - Review of new updates to CHAMPVA service blueprint
+         - Questions involving how CHAMPA uses addresses and phone numbers of each of the different roles in the form: Signer, Sponsor and Applicant.
+
 ## January 21 2025
 - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
 	- ### Agenda Topics
-  - Design Roadmap
-  - Discuss future multiple claims research
-  - Review Update CHAMPVA Service Blueprint
-  - Discuss FMP Direct Deposit and future research with past participants
+      - Design Roadmap
+      - Discuss future multiple claims research
+      - Review Update CHAMPVA Service Blueprint
+      - Discuss FMP Direct Deposit and future research with past participants
  
 -  ### Notes
     - Design Roadmap
@@ -31,10 +42,10 @@
 ## January 13 2025
  - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
 	- ### Agenda Topics
- 	 - Design Roadmap
-   	 - Discuss future multiple claims research
-  	 - Review Update CHAMPVA Service Blueprint
-	 - Discuss FMP Direct Deposit and future research with past participants
+ 	    - Design Roadmap
+   	    - Discuss future multiple claims research
+  	    - Review Update CHAMPVA Service Blueprint
+	    - Discuss FMP Direct Deposit and future research with past participants
  
   - ### Notes
     - Design Roadmap
