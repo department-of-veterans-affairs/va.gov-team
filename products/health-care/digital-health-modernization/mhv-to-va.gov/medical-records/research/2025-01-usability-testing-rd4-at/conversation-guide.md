@@ -46,17 +46,9 @@ _\[If no: \]_
 
 I am going to drop a link to a website in the chat then hand it over to our accessibility specialist, Riley, to assist you with sharing your screen.
 
-_\[If no: \]_
+_\[If yes: \]_
 
 I am going to drop a link to a website in the chat. Go ahead and share your screen then open the link for me.
-
-_\[If on Desktop/Laptop/Tablet:\]_ I am going to have you take over the mouse on my screen. As soon as I get set up, I will give you instructions on what to do.  _\[when ready\]_ I am going to hand over control in just a second. When I do, you will see a notification pop up on your screen and then you will be able to control my screen. Ready?
-
-_\[If on mobile: \]_ Have you shared your screen over Zoom with your phone?
-
-_\[If yes: \]_ I dropped the link to the prototype in the chat. Go ahead and pull it up and when you are ready to share, please do so.
-
-_\[If no, follow protocol for particular OS (Android/iOS)\]_
 
 &nbsp;
 
@@ -80,7 +72,8 @@ What do you think these settings mean?
 
 Who do you think has access to your records right now?
 
-_\[Optional prompt\]:_ Let's navigate to "Manage your medical records settings." Click the link in this section for me. Take a moment to read through this page. Does this help clarify the electronic sharing settings?
+_\[Optional prompt\]:_ Let's navigate to "Manage your medical records settings." Click the link in this section for me. 
+Take a moment to read through this page. Does this help clarify the electronic sharing settings?
 
 ## Second Task: Sharing Settings - 10 minutes
 
@@ -93,7 +86,7 @@ At the top right of the screen where your name would be, we have the name Pat. P
 _\[Optional prompt\]:_ Let's navigate to "Manage your medical records settings." Click the link in this section for me.
 
 - Tell me how Pat’s records will be shared using their current settings.
-- Pat likes to use the CVS Minute Clinic by their house when they can. Since it's a participating non-VA health care partner, they can share their VA records with CVS. In addition, this CVS has a pretty sweet candy section, so Pat is always down for a visit. Make the necessary updates so that Pat can share their medical record with CVS.
+- Pat likes to use the CVS Minute Clinic by their house when they can. Since it's a participating non-VA health care partner, they can share their VA records with CVS. In addition, this CVS has a pretty sweet candy section, so Pat's totally fine with a visit. Make the necessary updates so that Pat can share their medical record with CVS.
 
 _\[if SR or VC user\]_
 
@@ -101,12 +94,12 @@ _\[if SR or VC user\]_
 
 _\[if SR user\]_
 
-- When navigating by the tab-key only, what would you expect the “opt out” button to read out?
+- When navigating by the tab-key only, what would you expect the “opt in” button to read out?
 
 _\[once opted in\]_
 
-- Have Pat’s sharing settings been updated?
-- How will Pat’s records be shared now?
+- Have Pat’s sharing settings been updated? How do you know?
+- It now says sharing settings are opted in. What does that mean?
 - What kind of health information will be shared from Pat’s electronic medical record?
 
 I am going to provide you with a rating scale that we will be using throughout today’s session.
@@ -141,12 +134,6 @@ _\[Do not interrupt participant – collecting Time on Task\]_
 
 - Is there anything on this page that could help you?
 
-_\[Microbiology\]_
-
-- Should Pat be concerned about their test results?
-- What should Pat do if they don’t understand their results?
-- Would anything make it easier to understand these results?
-
 _\[if SR user\]_
 
 - Are you able to understand Pat’s results with the current details read out by the screen reader?
@@ -167,10 +154,11 @@ Pat accidentally rolled their ankle while they were playing pickleball with thei
 
 _\[ANKLE LEFT 3 VIEWS\]_
 
+- How would you find Pat's x-ray image?
 - How do you feel about the process of finding Pat’s X-Ray images?
+- Would this be useful to you?
 - _\[if SR user\]_
   - As someone who is visually impaired, how do you handle images in your test results?  
-        <br/>_\[Lab & test results\]_
 
 We are going to pause here so I can get some feedback about this experience. Would you like me to provide you with the whole scale again?
 
@@ -191,19 +179,12 @@ On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being n
 
 ## Fourth Task: Vitals – 10 minutes
 
-_\[Lab & test results\]_
-
-Pat wants to check out their most recent blood pressure. Take me to that screen.
-
-_\[possible prompts to help participant navigate\]_
-
-- Is there anything on this page that could help you?
-- Would you expect to find blood pressure on this Lab & test results page?
-
 _\[Vitals\]_
 
-- What made you choose Vitals over the other options?
-- _\[if SR user\]_
+Pat wants to check out their most recent blood pressure. Take me to that result.
+
+Now I want to ask you some questions about Pat's past blood pressure results. How would you find those?
+- \[if SR user\]_
   - Let’s say there are 20 entries for Pat’s blood pressure. Is that something you would like to know before clicking into the Blood Pressure page?
 
 How has Pat’s blood pressure changed since December of 2022?
@@ -219,25 +200,6 @@ _\[if SR user\]_
 
 - Let’s disregard the 20 entries I mentioned earlier. How many total entries do you think there are for Blood Pressure?
 - Given that number you told me, what would you expect the screen reader to dictate as you tab through each result?
-
-Please return to Pat’s vitals.
-
-Pat is having a friendly argument with Jamie, their best friend from the \[branch\]. Jamie is a ½ inch taller today, but Pat swears they were once the same height. To prove it, Pat wants to find their height from their first VA physical in June of 2018.
-
-- How would you help Pat find that height from June 2018?
-
-&nbsp;
-
-_\[if they scroll, use pagination, or fail\]_
-
-- Tell me why you chose to scroll/use pagination to find Pat’s height.
-- What is guiding your search? (title, date, etc.)
-
-_\[after they find/don’t find height\]_
-
-- How do you feel about the process of finding/looking for that height from 6 years ago?
-- What makes you say that?
-- What would make it easier?  
 
 We are going to pause here so I can get some feedback about this experience.
 
@@ -259,7 +221,7 @@ _\[if <5\]_ What would make your answer a 5?
 
 ## Fifth Task: Care Summaries and Notes – 10 minutes
 
-Pat is looking for a note called “Primary Care Note” from this past January. How would you find that note?
+Pat is looking for a note called “Primary Care Note” from last January. How would you find that note?
 
 - How do you feel about the process of finding/looking for that note?
 - Would anything make it easier?
