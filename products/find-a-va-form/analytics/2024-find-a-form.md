@@ -102,7 +102,7 @@ December 2024
 | Queries |Aug-24 | Sept-24 | Oct-24 | Nov-24 | Dec-24 |
 | ---  | :---:|:---:|:---:|:---:|:---:|
 | Total queries | 287,317 | 221,615 |204,146 |161,179 | 147,233 | 
-| searched by numberic ID|	 189,619 (66%)	 | 	 144,173 (65%)	 | 	 135,968 (67%) 	 | 	 103,006 (64%)	 | 	 94,095 (64%)	 | 	 
+| searched by numeric ID|	 189,619 (66%)	 | 	 144,173 (65%)	 | 	 135,968 (67%) 	 | 	 103,006 (64%)	 | 	 94,095 (64%)	 | 	 
 | searched with plain text | 97,698 | 77,442 | 68,178 | 58,173 | 53,138 |
 
 ### Most frequently searched by numeric ID
