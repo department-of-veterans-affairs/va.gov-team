@@ -2,7 +2,7 @@
 
 
 ## January 27 2025
- - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
+ - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
      - ### Agenda Topics
          - Design Roadmap
          - Review of the Multiple Claims flow options
@@ -10,6 +10,32 @@
          - Review of additional desk research for 1010d/OHI merge
          - Review of new updates to CHAMPVA service blueprint
          - Questions involving how CHAMPA uses addresses and phone numbers of each of the different roles in the form: Signer, Sponsor and Applicant.
+      
+     - ### Notes
+          - Multiple claims
+               - Should we ask for a third party liability question for each claim? Would we need multiple pdfs to be able submit an answer to the work/auto injury claim for every upload? Would there be extra burden on the claim processors if we create multiple cover sheets (pdfs) for each form submission/group of claims? Do the work/auto injury radio buttons on every upload make the page too busy and more difficult for the user to navigate?
+               - Do we need to ask for file types on the uploads?
+               - Would applying the type of doc be useful for the processor? Do we need to ask the user for the document type?
+               - Jina has some examples to look at and some uploads for claims
+               - We can try to ask the work/auto injury questions at the end: Are any of these claims the cause of a work-related injury/auto accident?
+               - Do RX claims need to answer the work-related or auto accident questions? Check the stakeholder meeting video or ask the claims processors.
+               - Consider making it clearer that users need to upload the EOB as well as the billing statement.
+               - Co-design with the new workflow partners/processors. Show them the prototype. Ask if the workflows would be helpful to them.  Ask engineering if current prototypes are possible before we talk to the partners.
+        - The service blueprint
+             - Design used the RX Benefits service blueprint for reference which shows the separate tracks for digital and analog user experiences.
+             - On the CHAMPVA blueprint the front stage row needs to show the digital and analog processes which makes the blueprint really complex.
+             - We also need to keep the user journey timeline to show the differences in the analog and digital paths. Lois suggests that we try to reformat it. We can try to make it horizontal or a separate part of the blueprint to further simplify the design.
+             - We can try to identify each process with digital and analog icons to help simplify the blueprint. Look into adding a data row if needed like the example that Lois shared.
+             - The questions about the processes are marked with yellow stickies, most of them dealing with the self batches and how data gets entered into the system.
+             -  We can get these questions answered when we share this with the CHAMPVA partners.
+        - Gender Options
+            - Premal flagged the design system team on this question about genders now that there’s a new executive order about how this question appears on government forms.
+            - The design system will create something that is compliant with EO
+            - We ask for sex assigned at birth and not gender on the CHAMPVA application and claims form so we may not fall within the EO.
+       - Jamie to follow up Premal and Lois about the other items we didn’t get to discuss on the call
+             - The insurance selector on the 1010D
+             - The desk research on the 1010d/OHI merge
+             - Questions involving how CHAMPVA uses addresses and phone numbers 
 
 ## January 21 2025
 - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
