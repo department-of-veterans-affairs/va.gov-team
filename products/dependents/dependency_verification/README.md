@@ -70,6 +70,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - [Dependent Verification Tool](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md)
    - Launched: Target 2025
 - [Dependent Verification findability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/findability.md)
+   - Target 2025. Some of CAIA's IA feedback is being incorporated
 
 
 --- 
