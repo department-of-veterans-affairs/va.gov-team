@@ -118,7 +118,7 @@ Now let’s check out Pat’s vitals. Take me to that screen.
 
 ## Third Task: Microbiology, Pathology, and Radiology- 10 minutes
 
-_\[Landing Page\]_
+_\[Lab & Test Results\]_
 
 Have you ever looked at specialized test results like lipid panels or X-rays before reviewing them with a doctor?
 
@@ -152,7 +152,7 @@ Please return to Pat’s test results.
 
 Pat accidentally rolled their ankle while they were playing pickleball with their buddies over the summer. They went to the doctor to get it checked out and had some imaging done. Find their test results and open them up.
 
-_\[ANKLE LEFT 3 VIEWS\]_
+_\[Left Ankle X-Ray\]_
 
 - How would you find Pat's x-ray image?
 - How do you feel about the process of finding Pat’s X-Ray images?
@@ -221,8 +221,9 @@ _\[if <5\]_ What would make your answer a 5?
 
 ## Fifth Task: Care Summaries and Notes – 10 minutes
 
-Pat is looking for a note called “Primary Care Note” from last January. How would you find that note?
+_\[Care Summaries & Notes\]_
 
+Pat is looking for a note called “Primary Care Note” from last January. How would you find that note?
 - How do you feel about the process of finding/looking for that note?
 - Would anything make it easier?
 
