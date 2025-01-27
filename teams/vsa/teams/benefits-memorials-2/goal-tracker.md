@@ -1,8 +1,9 @@
 
 # Financial Management Team Goal Tracker  
-**Overview:** This tracker is designed to align sprint goals with quarterly priorities, providing a comprehensive view of goals achieved or pending and blockers/risks.  
----  
-  
+_**Overview:** This tracker is designed to align sprint goals with quarterly priorities, providing a comprehensive view of goals achieved._ 
+
+---
+
 ## Quarterly Priorities for FY25Q2 (Jan, Feb, Mar 2025)  
 *Quarter Sprints include 1, 2, 3, & 4*
   
@@ -12,9 +13,8 @@
 | QP2 | Establish One VA Debt Letter PDF in production| [#84175](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84175) | TBD | TBD |   
 | QP3 | TBD | TBD | TBD |  TBD |  
   
-  
-## Sprint Goals  
-### Sprint: 1 [ 1/24/25 - 2/11/25]  
+
+## Sprint Goals - Sprint 1 [ 1/24/25 - 2/11/25] 
 **_Goals:_**
 - [ ] UX: Finalization of wizard content and prototypes (QP1)  
 - [ ] UX: Wizard UX research planning approvals (QP1)  
@@ -24,7 +24,7 @@ _**Goals not Delivered + Notes:**_
  - [Details about goals not delivered will be documented here]
 
   
-### Sprint: 2 [ 2/12/25-2/25/25]  
+## Sprint Goals - Sprint 2 [ 2/12/25-2/25/25]  
 **_Goals:_**
 - [ ] Team: Sprint Goal (QtrPriority)  
 - [ ] Team: Sprint Goal (QtrPriority)  
@@ -34,7 +34,7 @@ _**Goals not Delivered + Notes:**_
 _**Goals not Delivered + Notes:**_
  - [Details about goals not delivered will be documented here]
   
-### Sprint: 3 [ 2/26/25-3/11/25]  
+## Sprint Goals - Sprint 3 [ 2/26/25-3/11/25]  
 **_Goals:_**
 - [ ] Team: Sprint Goal (QtrPriority)  
 - [ ] Team: Sprint Goal (QtrPriority)  
@@ -44,7 +44,7 @@ _**Goals not Delivered + Notes:**_
 _**Goals not Delivered + Notes:**_
  - [Details about goals not delivered will be documented here]
   
-### Sprint: 4 [3/12/25-3/25/25]  
+## Sprint Goals - Sprint 4 [3/12/25-3/25/25]  
 **_Goals:_**
 - [ ] Team: Sprint Goal (QtrPriority)  
 - [ ] Team: Sprint Goal (QtrPriority)  
