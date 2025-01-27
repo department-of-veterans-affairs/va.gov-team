@@ -264,13 +264,14 @@ This data is often too high level or vauge for us to take specific actions. Howe
   * If MyVA411 `confirmation email issues` Type under the inability to sign in category changes as the mass migration away from MHV ends, this could mean the current increase is reasonable based on how many folks are migrating right now. If it stays elevated, it would be a concern.  
   * If MyVA411 `forgot password` issues remain lower, or continue to decrease, this could be counted as a success of the credential deprecation effort.  
   * If MyVA411 `inability to sign in' Category issues remain lower, or continue to decrease, this could be counted as a success of the credential deprecation effort.
-  * If on the survey data some researcher tags are used less as we move further past the MHV sign-in option removal, particularly `CSP transition` 'verify' and 'set up account'. If these don't decrease it may indicate an issue at one of these steps, but if these do descrease, then it's likely that the increase during this review was due to how many folks are making the change right now.
+  * If on the survey data some researcher tags are used less as we move further past the MHV sign-in option removal, particularly `CSP transition` 'verify' and 'set up account'. If these don't decrease it may indicate an issue at one of these steps, but if these do decrease, then it's likely that the increase during this review was due to how many folks are making the change right now.
    * If on the survey data the negative sentiment decreases as folks get used to signing in with one of the modern credentials, then this data likely indicates the difficulty for folks to make a change from their normal process. If sentiment remains so negative, it could indicate an issue or extra hardships imposed by using a modern credential to sign in each time. 
-* With fewer `EVSS` issues showing in MYVA411, understand what code changes or what error page changes happened between the February/March data and the October/Noveember data that might have directly or indirectly caused phone calls for these to decrease. 
+* With fewer `EVSS` issues showing in MYVA411, understand what code changes or what error page changes happened between the February/March data and the October/November data that might have directly or indirectly caused phone calls for these to decrease. 
   * If nothing, then look into if this is a change in how the call center classifies certain calls, to better be able to utilize this data in the future.
-  * However EVSS erros are generally not errors that this team can effect changes over, so likely not worthwhile spending too much time on.
-* Design chagnes
+  * However EVSS errors are generally not errors that this team can effect changes over, so likely not worthwhile spending too much time on.
+* Design changes
    * Consider if there are ways to make the sign out button more clear or easier to find
    * Reconsider ways to push veterans towards MFA methods other than SMS. This might require working with CSPs where there are methods they don't currently offer
-   * Press on CSPs to offer a bar code scan option on their driver's license for the ID verification step. We know that taking a clear image is a problamatic step, and this set of data further supports that. How can we get the CSPs to make this step easier for folks?
+   * Press on CSPs to offer a bar code scan option on their driver's license for the ID verification step. We know that taking a clear image is a problematic step, and this set of data further supports that. How can we get the CSPs to make this step easier for folks?
    * Revisit the page [Should I create a Login.gov or ID.me account to sign in to VA.gov?](https://www.va.gov/resources/should-i-create-a-logingov-or-idme-account-to-sign-in-to-vagov/), since there were several mentions of this not being clear enough. Consider design and content changes that could better present the difference to folks.
+
