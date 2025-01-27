@@ -5,8 +5,7 @@ This repository contains research, documentation and diagrams for the VA Chabot.
 In case of a DDOS attack or inaprropriate use of the VA Chatbot, disable the `virtual_agent_token` toggle in flipper/features to block new connections to webchat. When the endpoint is healthy again, you can enable the `virtual_agent_token` toggle.
 
 ## Team ##
-<img width="1225" alt="Screenshot 2024-09-18 at 9 38 15 AM" src="https://github.com/user-attachments/assets/c565d405-d5a8-4958-a15a-2d845547f588">
-
+<img width="1225" alt="Screenshot 2025-01-27 at 2 46 30 PM" src="https://github.com/user-attachments/assets/62c95857-7f78-4e3f-962b-befbb8f21f94" />
 
 
 
