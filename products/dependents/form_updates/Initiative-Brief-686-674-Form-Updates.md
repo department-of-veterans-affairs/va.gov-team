@@ -43,15 +43,8 @@ Veterans submitting online 21-686c and 21-674 claims can trust that their submis
 - Sending the correct form pdf form version to RBPS for processing will rememdiate the proccesing errors we've observed.
 - Removing depreciated fields from the online form flows will streamline the experience for Veterans
 - Remediating critical accessibility issues will improve Veterans' experience with the form flows
-
-- **Value Risks** (will people use it): 
-  - 
-- **Usability Risks** (can people figure out how to use it):
-  - Addressing the critical accessibilty issues and removing depreciated form fields will not address existing problems with the form flow
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - 
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - 
+- Addressing the critical accessibilty issues and removing depreciated form fields will not address existing problems with the form flow
+- Current [limits on the findability](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717521751866/127cbff63df95bedf011a5463797989197bc069d) of the form on VA.gov may limit Veterans' ability to find the form
 
 ### What're you building
 - Update the 686 online form flow to include new fields and remove old fields
@@ -69,19 +62,17 @@ Veterans submitting online 21-686c and 21-674 claims can trust that their submis
 
 ## Launch Planning
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
-
 - [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74059)
 - [CAIA Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75068)
 
 ### Timeline 
-> Collab cycle kick off: January 19, 2024
-> CAIA kick off:
-> Design Intent: January 30, 2024
-> Midpoint Review: January 17, 2025
-> Staging Review: February 2025
+- Collab cycle kick off: January 19, 2024
+- CAIA kick off:
+- Design Intent: January 30, 2024
+- Midpoint Review: January 17, 2025
+- Staging Review: February 2025
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*: February 2025
