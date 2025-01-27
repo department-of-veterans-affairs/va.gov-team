@@ -1,12 +1,16 @@
-# **Accessibility Documentation**
+# Accessibility Documentation
 
 This documentation covers accessibility-related efforts for the 526ez form.
 
-## **Audits**
+## Audits
 
 - [A list of accessibility audits conducted on the 526ez](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/accessibility/audits.md)
 - [VA Platform Accessibility defect rubric](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-defect-severity-rubric) - This rubric is used to categorize and prioritize accessibility issues.
 - The team's [accessibility audit methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/accessibility/methodology.md)
+
+## Annotations
+- [Conditions - Info Entry flow](https://www.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/(526ez)-Condition-information-entry?node-id=538-16948)
+- [Disability Benefits Team 1 - New Confirmation page](https://www.figma.com/design/qyTtKDOTHZPGU59PAfqVhq/(526ez)-New-Confirmation-Page-and-Email-Touchpoints?node-id=8187-81090&t=p3ziITq3Qpe50Ovs-4)
 
 ## A11y 101 Sessions
 
