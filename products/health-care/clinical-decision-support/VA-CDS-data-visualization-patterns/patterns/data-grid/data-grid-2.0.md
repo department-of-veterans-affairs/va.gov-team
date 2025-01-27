@@ -10,9 +10,13 @@ The Data Grid v2.0 pattern enables the product team to customize grid interactio
 3. affixing column view (aka column stays in view during horizontal scrolling)
    - [see slack for this priority agreement ](https://dsva.slack.com/archives/C04DMDC3TS8/p1734548335437739)
 4. quick filter (aka multi-selection filtering)
-5. date picker (aka date selection affordance)
-6. Meets accessibility scores by WCAG 2.1 (Section 508) (update to 2.2)
-7. Compatible and _can_ be adopted by VADS and USWDS
+5. cell editor for date picker (aka date selection affordance)
+6. cell editor for select
+7. adding, deleting, and updating rows
+8. column reordering
+9. tagging
+10. Meets accessibility scores by WCAG 2.1 (Section 508) (update to 2.2)
+11. Compatible and _can_ be adopted by VADS and USWDS
     * https://design.va.gov
     * https://designsystem.digital.gov
 <br>
