@@ -77,14 +77,14 @@ These are other dashboard metrics to track. We don't need these for launch.
 
 ## Performance KPIs
 Performance KPIs measure the technical aspects of Ask VA, such as speed, reliability, and scalability. They help assess how efficiently the software functions and whether it can handle increasing workloads. The following metrics can be viewed for specific date ranges and/or by environment.
-|KPI|Actual targets as of [date]|
-|:--|:--|
-|**Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions|VA.gov silent failures rate: Currently, as defined, there are no silent failures that should occur and need to be tracked|
-|**Error rate (Form submissions to CRM, Submit Inquiry)** - The number of non 2xx codes vs 2xx (successful) codes over a unit of time (e.g. per day)|xx|
-|**Error rate (Dashboard replies to CRM, Submit Reply)** - The number of non 2xx codes vs 2xx (successful) codes over a unit of time (e.g. per day)|xx|
-|**Latency** - Average time to receive a successful response (2xx) from CRM over a unit of time. Will be tracked for Form submissions and Dashboard replies.  |xx|
-|**Throughput** - Number of Transactions per unit of time (e.g. per day). Can be split by: 1)Successes and Failures and 2) Form submissions and Dashboard replies |xx|
-|**Other things**|xx|
+|KPI|Current (2025)|Actual targets as of [date]|
+|:--|:--|:--|
+|**Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions|VA.gov silent failures rate: Currently, as defined, there are no silent failures that should occur and need to be tracked||
+|**Error rate (Form submissions to CRM, Submit Inquiry)** - The number of non 2xx codes vs 2xx (successful) codes over a unit of time (e.g. per day)|TBD after mid-Mar VA.gov launch||
+|**Error rate (Dashboard replies to CRM, Submit Reply)** - The number of non 2xx codes vs 2xx (successful) codes over a unit of time (e.g. per day)|TBD after mid-Mar VA.gov launch||
+|**Latency** - Average time to receive a successful response (2xx) from CRM over a unit of time. Will be tracked for Form submissions and Dashboard replies.|TBD after mid-Mar VA.gov launch||
+|**Throughput** - Number of Transactions per unit of time (e.g. per day). Can be split by: 1)Successes and Failures and 2) Form submissions and Dashboard replies |TBD after mid-Mar VA.gov launch||
+|**Other things**|TBD after mid-Mar VA.gov launch||
 
 ### Other performance metrics
 These are other performance metrics to track. We don't need these for launch.
