@@ -158,7 +158,7 @@ Please make sure that ALL participants are willing to complete the session **on 
 
 **Research sessions**
 
-- Planned dates of research: January 28 - February 4
+- Planned dates of research: January 29 - February 5
 
 **Length of sessions**
 
@@ -169,21 +169,21 @@ Please make sure that ALL participants are willing to complete the session **on 
 **Availability for AT Users**
 | **Day** | **Team Availability** | **Time Slots (Eastern Time Zone)** |
 | --- | --- | --- |
-| Tuesday | January 28, 2025 | 8:00am – 4:00pm |
 | Wednesday | January 29, 2025 | 8:00am – 5:00pm |
 | Thursday | January 30, 2025 | 8:00am – 5:00pm |
 | Friday | January 31, 2025 | 8:00am – 5:00pm |
 | Monday | February 3, 2025 | 8:00am – 5:00pm |
 | Tuesday | February 4, 2025 | 8:00am – 4:00pm |
+| Wednesday | February 5, 2025 | 8:00am – 5:00pm |
 
 **Availability for AT Users**
 | **Day** | **Team Availability** | **Time Slots (Eastern Time Zone)** |
 | --- | --- | --- |
-| Wednesday | February 5, 2025 | 8:00am – 5:00pm |
 | Thursday | February 6, 2025 | 8:00am – 5:00pm |
 | Friday | February 7, 2025 | 8:00am – 5:00pm |
 | Monday | February 10, 2025 | 8:00am – 5:00pm |
 | Tuesday | February 11, 2025 | 8:00am – 4:00pm |
+| Wednesday | February 12, 2025 | 8:00am – 5:00pm |
 
 ## Team Roles
 
