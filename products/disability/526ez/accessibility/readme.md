@@ -5,6 +5,7 @@ This documentation covers accessibility-related efforts for the 526ez form.
 ## **Audits**
 
 - [A list of accessibility audits conducted on the 526ez](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/accessibility/audits.md)
+- [VA Platform Accessibility defect rubric](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-defect-severity-rubric) - This rubric is used to categorize and prioritize accessibility issues.
 - Coming soon: Accessibility audit methodology
 
 ## A11y 101 Sessions
@@ -12,11 +13,16 @@ This documentation covers accessibility-related efforts for the 526ez form.
 Internal accessibility training sessions held for DBEX Team 1 & Conditions
 
 - [11/1/2024 A11y 101: Testing with Browser DevTools](https://dvagov.sharepoint.com/sites/vaabdvro/_layouts/15/stream.aspx?id=%2Fsites%2Fvaab[…]pied%2Eview%2E7639ccf7%2De3c2%2D4cc2%2D9253%2Decb1153c241e)
-    - 30 minute session on 5 quick accessibility tests you can perform using your internet browser’s developer tools. Demonstration is in the Google Chrome browser, but the features are common on Firefox, Internet Explorer and other browsers.
+    - 30 minute session on 5 quick accessibility tests you can perform using your internet browser’s developer tools. Demonstration is in the Google Chrome browser, but the features are common on Firefox, Internet Explorer and other browsers. Led by [@bacitracin](https://github.com/bacitracin)
 - [12/13/2024 A11y 101: Screenreaders part 1 video](https://dvagov.sharepoint.com/sites/vaabdvro/_layouts/15/stream.aspx?id=%2Fsites%2Fvaab[…]pied%2Eview%2Ed84d7add%2Df31e%2D4340%2D92a9%2De108c05415d8) &  [slides](https://dvagov.sharepoint.com/sites/vaabdvro/_layouts/15/stream.aspx?id=%2Fsites%2Fvaab[…]pied%2Eview%2Ed84d7add%2Df31e%2D4340%2D92a9%2De108c05415d8)
-    - 30 minute session on screenreader basics. The recording starts a few minutes/slides in.
+    - 30 minute session on screenreader basics. The recording starts a few minutes/slides in. Led by [@bacitracin](https://github.com/bacitracin)
 
 ## Resources
 
-- [Working with an A11y Engineer](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Accessibility/Working%20with%20an%20A11y%20Engineer.docx?d=w71d2f5540bad4216813c64b4257d449a&csf=1&web=1&e=DcSj4M)
-    - A short blurb with the job description, ways that an accessibility engineer can contribute to the team, and a list of tools that are commonly used for a11y testing.
+- [Working with an A11y Engineer](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Accessibility/Working%20with%20an%20A11y%20Engineer.docx?d=w71d2f5540bad4216813c64b4257d449a&csf=1&web=1&e=DcSj4M) - Written by [@bacitracin](https://github.com/bacitracin) - A short blurb with the job description, ways that an accessibility engineer can contribute to the team, and a list of tools that are commonly used for a11y testing.
+- [Web Content Accessibility Guidelines (WCAG) 2.2 Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/) - The VA requires that we meet WCAG 2.2 Level A and AA success criteria.
+
+### VA Platform docs
+ - [VA Platform Developer docs - Accessibility](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-testing)
+ - [What accessibility tools we use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/what-accessibility-tools-we-use.md) - This documentation, created by a previous incarnation of the CAIA team, covers the tools used for testing accessibility, particularly during accessibility audits.
+- [CAIA's Accessibility Cookbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/accessibility-cookbook.md) - CAIA's record of common accessibility issues and their solutions
