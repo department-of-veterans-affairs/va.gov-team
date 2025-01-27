@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: January 23, 2025
+Last updated by @tygindraux: January 27, 2025
 
 **Jump ahead to:**
 - [Background](#background)
@@ -46,6 +46,8 @@ We will develop a clear recommendation for which feature(s) to carry forward and
 
 ### Research questions
 
+Please note: I will add additional, specific research questions, once we finalize which 3 concepts we will test.
+
 Understand how submitters expect to interact with and benefit from automation when sending a question to VA:
 * Do submitters recognize when something is automated? How does this change their experience?
 * What are submitters key hopes and fears when it comes to automation?
@@ -60,6 +62,8 @@ Understand which automation features make it easier, faster or more accurate for
 
 ### Hypotheses
 
+Please note: I will add hypotheses, once we finalize which 3 concepts we will test.
+
 1. TBD
 2. TBD
 3. TBD
@@ -68,16 +72,14 @@ Understand which automation features make it easier, faster or more accurate for
 
 This will be a moderated study conducted remotely over Zoom. We will use Figma prototypes with limited interactivity and test on mobile only.
 
-We will present 3 concepts (in varying orders) to submitters who will use and react to them. 
+We will present 3 concepts (in varying orders) to submitters who will use and react to them:
 
-The 3 concepts are:
-
-[TO BE FINALIZED]
+Please note: I will update this, once we finalize which 3 concepts we will test.
 
 1. **Recommend a topic based on a category and question:** Submitter chooses a category and inputs a question, system recommends a topic to the submitter, submitter edits their topic or continues with recommendation.
-2. **Ask for a more detailed question to determine category and topic:** Submitter inputs a question, system recommends a category and topic, submitter can edit their topic or continue with recommendation.
+2. **Ask for a more detailed question to determine category and topic:** Submitter inputs a question, system alerts them to add more information so it can figure out where to send their question, system recommends a category and topic, submitter can edit their question or continue with recommendation.
 3. **Question helps narrow down the list of categories:** Submitter inputs a question, system uses question to narrow down the list of categories, submitter chooses a category, submitter chooses a topic.
-4. **Determine if it's a personal or general question based on information provided:** Submitter inputs a question, category and topic, system uses information to determine whether it’s a personal or general question (in other words, how much more information is required), submitter provides more or less information based on determination.
+4. **Provide helpful links before someone decides whether to continue asking a question:** Submitter inputs a question, system uses question to provide helpful links to other information on VA.gov that may answer their question, submitter can choose to navigate away from asking a question or to continue by selecting their category.
 
 ### Research materials
 
