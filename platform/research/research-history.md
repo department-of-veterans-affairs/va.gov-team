@@ -1044,7 +1044,7 @@ _VA.gov CMS team: Jodi Leo_
 _VA.gov CMS team: Jodi Leo, Eric Chiu, Meghana Khandekar_
 
 * 10 participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/Facility%20research%20-%20usability%20testing%20remote%20-%20February%202019)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/usability%20testing%20remote%20-%20February%202019)
 
 #### February 1-25: 526 Modernization Add a New Condition
 *Unicorns, Research Lead: Katelyn Caillouet & Alex Taylor*
