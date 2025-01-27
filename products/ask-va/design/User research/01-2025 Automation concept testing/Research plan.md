@@ -46,7 +46,7 @@ We will develop a clear recommendation for which feature(s) to carry forward and
 
 ### Research questions
 
-Please note: I will add additional, specific research questions, once we finalize which 3 concepts we will test.
+> **Please note:** I can add additional research questions once we decide which 3 concepts we will test.
 
 Understand how submitters expect to interact with and benefit from automation when sending a question to VA:
 * Do submitters recognize when something is automated? How does this change their experience?
@@ -62,7 +62,7 @@ Understand which automation features make it easier, faster or more accurate for
 
 ### Hypotheses
 
-Please note: I will add hypotheses, once we finalize which 3 concepts we will test.
+> **Please note:** I will add hypotheses once we decide which 3 concepts we will test.
 
 1. TBD
 2. TBD
@@ -74,7 +74,7 @@ This will be a moderated study conducted remotely over Zoom. We will use Figma p
 
 We will present 3 concepts (in varying orders) to submitters who will use and react to them:
 
-Please note: I will update this, once we finalize which 3 concepts we will test.
+> **Please note:** I will update this list after we decide which 3 concepts we will test. We will not test 4 concepts.
 
 1. **Recommend a topic based on a category and question:** Submitter chooses a category and inputs a question, system recommends a topic to the submitter, submitter edits their topic or continues with recommendation.
 2. **Ask for a more detailed question to determine category and topic:** Submitter inputs a question, system alerts them to add more information so it can figure out where to send their question, system recommends a category and topic, submitter can edit their question or continue with recommendation.
@@ -82,6 +82,8 @@ Please note: I will update this, once we finalize which 3 concepts we will test.
 4. **Provide helpful links before someone decides whether to continue asking a question:** Submitter inputs a question, system uses question to provide helpful links to other information on VA.gov that may answer their question, submitter can choose to navigate away from asking a question or to continue by selecting their category.
 
 ### Research materials
+
+> **Please note:** I will add links once we finalize all 3 prototypes.
 
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Conversation%20guide.md)
 * Prototypes
@@ -98,6 +100,8 @@ We will work with Perigean to recruit Veterans.
 ### Recruitment criteria
 
 We will recruit 10 Veterans for a total of 7-8 completed sessions.
+
+> **Please note:** I will add a link once I create a recruitment ticket.
 
 For more details about our criteria, refer to our [Recruitment ticket](add link).
 
@@ -140,6 +144,8 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 Perigean does **not** need to set up our pilot session. Tyler will schedule and add participants herself.
 
 ### Pilot
+
+> **Please note:** I will update this once we have scheduled a pilot participant.
 
 - Pilot participant: TBD
 - Date and time of pilot session: TBD on Feb 10th
