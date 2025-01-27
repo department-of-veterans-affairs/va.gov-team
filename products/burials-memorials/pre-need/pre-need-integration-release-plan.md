@@ -12,7 +12,7 @@
 |Phase 3: Retire V1| permanent | 100% users (auth and non-auth) | TBD |
 
 Considerations
-- Form volume is typically 25 authenticated submissions and 30 unauthenticated submissions per day
+- Form volume is typically 80 submissions per day
 
 ## Step 1: Development
 
