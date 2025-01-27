@@ -1050,13 +1050,12 @@ _VA.gov CMS team: Jodi Leo, Eric Chiu, Meghana Khandekar_
 *Unicorns, Research Lead: Katelyn Caillouet & Alex Taylor*
 - 14 Veterans thus far
 - [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/archive/feb-2019)
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/feb-2019/research-plan.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/archive/feb-2019/research-plan.md)
 
 #### February 19-22: Mission Act Community Care Sprint
 *Mission Act Community Care Sprint Team 2: Sheri Trivedi (OMB) and Lauryn Fantano (DDS)*
 - 5 Veterans
 - [Research Folder](https://github.com/usds/MISSION_Sprint/tree/master/user%20research)
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/archive/feb-2019/research-plan.md)
 
 #### February 19-21: VetTec Usability
 *Desiree Turner*
