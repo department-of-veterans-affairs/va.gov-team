@@ -25,7 +25,7 @@ Why?
 
 
 ## Audience
-All Veterans and other claimants/appellants who navigate to the gateway pages, namely those who seek information regarding their decision review options with the VA or seek to submit an online claim.- Accredited representatives 
+All Veterans and other claimants/appellants who navigate to the gateway pages, namely those who seek information regarding their decision review options with the VA or seek to submit an online claim.
 - Including, but not limited to, Veterans who just want to know of the options for future reference, Veterans who want to understand the options available prior to choosing one, and Veterans who are simply passing through to a specific decision review page.
 
 ### Third-party Decision Review sources
