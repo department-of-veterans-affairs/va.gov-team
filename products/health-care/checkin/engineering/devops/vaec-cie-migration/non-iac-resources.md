@@ -32,7 +32,7 @@ These are resources created while working on the `vaec-cie` migration through th
 - `(dev|stg|prod)/chip/jwt_key`: JWT signing/verification key.
 - `(dev|stg|prod)/lorota/hash_salt`: LoROTA hash salt for validating user auth requests.
 - `(dev|stg|prod)/lorota/jwt_key`: JWT signing/verification key.
-- `(dev|stg|prod)/cie_upstream_api/station_map`: Station Number-to-DUZ Map for working with Vista API
+- `(dev|stg|prod)/cie_upstream_api/station_map`: Station Number-to-DUZ Map for working with Vista API (deprecated)
 - `(dev|stg|prod)/cie_upstream_api/station_duz_map`: Station Number-to-DUZ Map for working with Vista API
 - `(dev|stg|prod)/cie_upstream_api/vista_api_key`: Vista API key (REST)
 - `(dev|stg|prod)/cie_upstream_api/vista_rpc_key`: Vista API key (RPC)
