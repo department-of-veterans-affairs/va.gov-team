@@ -16,8 +16,11 @@ _**Overview:** This tracker is designed to align sprint goals with quarterly pri
 
 ## Sprint Goals - Sprint 1 [ 1/24/25 - 2/11/25] 
 **_Goals:_**
-- [ ] UX: Finalization of wizard content and prototypes (QP1)  
-- [ ] UX: Wizard UX research planning approvals (QP1)  
+- [ ] UX: Mock up quick reference guide (QP?)
+- [ ] UX: Work with Contact Center to improve Medallia data (QP4)  
+- [ ] UX: Complete the Feb Medallia Report (QP4)
+- [ ] ENG: The Digital Dispute process is live on staging (QP?)
+- [ ] ENG: Sharepoint errors have a more descriptive notification and are reported to ENG for analysis (QP?)
 - [ ] Team: Sprint Goal (QtrPriority)  
 
 **Approvals:* (sent via email but approvals tracked here)*
@@ -33,8 +36,8 @@ _**Overview:** This tracker is designed to align sprint goals with quarterly pri
   
 ## Sprint Goals - Sprint 2 [ 2/12/25-2/25/25]  
 **_Goals:_**
-- [ ] Team: Sprint Goal (QtrPriority)  
-- [ ] Team: Sprint Goal (QtrPriority)  
+- [ ] UX: Finalization of wizard content and prototypes (QP1)  
+- [ ] UX: Wizard UX research planning approvals (QP1)  
 - [ ] Team: Sprint Goal (QtrPriority)  
 - [ ] Team: Sprint Goal (QtrPriority)  
 
