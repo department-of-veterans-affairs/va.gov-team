@@ -20,8 +20,15 @@ _**Overview:** This tracker is designed to align sprint goals with quarterly pri
 - [ ] UX: Wizard UX research planning approvals (QP1)  
 - [ ] Team: Sprint Goal (QtrPriority)  
 
-_**Goals not Delivered + Notes:**_
- - [Details about goals not delivered will be documented here]
+**Approvals:* (sent via email but approvals tracked here)*
+ - [ ] Ready to be sent for approvals
+ - [ ] VA PO approval received
+ - [ ] VA COR approval received
+ 
+
+*Not Delivered + Notes:*
+- [ ] Completed goals have been 'checked off' from above list
+- [ ] Details about goals not delivered will be documented here
 
   
 ## Sprint Goals - Sprint 2 [ 2/12/25-2/25/25]  
@@ -31,8 +38,15 @@ _**Goals not Delivered + Notes:**_
 - [ ] Team: Sprint Goal (QtrPriority)  
 - [ ] Team: Sprint Goal (QtrPriority)  
 
-_**Goals not Delivered + Notes:**_
- - [Details about goals not delivered will be documented here]
+**Approvals:* (sent via email but approvals tracked here)*
+ - [ ] Ready to be sent for approvals
+ - [ ] VA PO approval received
+ - [ ] VA COR approval received
+ 
+
+*Not Delivered + Notes:*
+- [ ] Completed goals have been 'checked off' from above list
+- [ ] Details about goals not delivered will be documented here
   
 ## Sprint Goals - Sprint 3 [ 2/26/25-3/11/25]  
 **_Goals:_**
@@ -41,8 +55,16 @@ _**Goals not Delivered + Notes:**_
 - [ ] Team: Sprint Goal (QtrPriority)  
 - [ ] Team: Sprint Goal (QtrPriority)  
 
-_**Goals not Delivered + Notes:**_
- - [Details about goals not delivered will be documented here]
+**Approvals:* (sent via email but approvals tracked here)*
+
+ - [ ] Ready to be sent for approvals
+ - [ ] VA PO approval received
+ - [ ] VA COR approval received
+ 
+
+*Not Delivered + Notes:*
+- [ ] Completed goals have been 'checked off' from above list
+- [ ] Details about goals not delivered will be documented here
   
 ## Sprint Goals - Sprint 4 [3/12/25-3/25/25]  
 **_Goals:_**
@@ -51,6 +73,13 @@ _**Goals not Delivered + Notes:**_
 - [ ] Team: Sprint Goal (QtrPriority)  
 - [ ] Team: Sprint Goal (QtrPriority)
   
-_**Goals not Delivered + Notes:**_
- - [Details about goals not delivered will be documented here]
+**Approvals:* (sent via email but approvals tracked here)*
+
+ - [ ] Ready to be sent for approvals
+ - [ ] VA PO approval received
+ - [ ] VA COR approval received
+ 
+*Not Delivered + Notes:*
+- [ ] Completed goals have been 'checked off' from above list
+- [ ] Details about goals not delivered will be documented here
   
