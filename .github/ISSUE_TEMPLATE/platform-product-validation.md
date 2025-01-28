@@ -2,7 +2,7 @@
 name: Platform Product issue template
 about: For filing standard issues. Includes validation section.
 title: ''
-labels: 'platform-product-team'
+labels: 'platform-sre-team'
 assignees: ''
 
 ---
