@@ -137,39 +137,17 @@ Please try to **talk aloud** about what you're thinking and what you want to do 
 - [Understand meaning of *Resources and support*?]
 - [Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
-## Task 1.5: Explore VA resources
-Please go back to the first page you were on [landing pg via breadcrumb or another way]. 
-
-Let's say that someone you know is getting ready to transition from active service to civilian life, and they asked you to help them understand how the VA can support them. Show me how you would look for information to share with them."
-
-[Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
-
-- [**If they try to use *search***, ask:] What are you trying to do? 
-  - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
-  - [Record search string: ______________________________________________]
-  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
-
-- [If they try **Show filters**...]
-  - [Note which filters used: *Audience / Benefit / Topic*]
-  - [+ which tags within the filters]
-- [Note if clicked on filter chips in search results / content page]
-- [Note any confusions or feedback] 
-
-[Once they open the content page and think it's what they were looking for, say:] You can stop here. 
-
-- [Found target content? successful / needed help / unsuccessful]
-
 
 ## Task 2: Claim status
 Please go back to the first page you were on [landing pg via breadcrumb or another way]. 
 
 *[If participant is a caregiver or family member of a Veteran, replace "you" in the tasks with "the Veteran"/"your dad"/"they" or however they refer to the Veteran, unless they are the one who does VA tasks for the Veteran]*
 
-Imagine that you submitted an application for VA benefits a few weeks ago and want to see when you can expect to hear back from the VA. Show me how you would try and find that information from here.
+Imagine that a few weeks ago you submitted a request to have your VA benefit application reconsidered, and you want to know when you can expect to hear back from the VA. Show me how you would try and find that information from here.
 
-[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Claims status / Browse by benefit*]
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics > Decision reviews and appeals / Browse by benefit*]
 
-- [Any confusion with *Decision reviews and appeals*?]
+- [Any confusion with *Claims and claim status*?]
 
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
@@ -308,13 +286,12 @@ Let's say that you're wondering whether you owe the VA any money. Show me how yo
 
 - [Found target content? successful / needed help / unsuccessful]
 
+## Task 8: Change job
+Please go back to the first page you were on [landing pg via breadcrumb or another way]. 
 
-## Task 8: Military records / Discharge upgrade *(NOT for Service members)*
-Please go back to the first page you were on [landing pg via breadcrumb or another way].
+Let's say that you're thinking about looking for a different kind of job, and you're wondering if the VA might be able to help you. Show me how you would try and find that information from here.
 
-Let's say that you want to request an update to some of your military records. Show me how you would find information on that.
-
-[Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
+[Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit > Careers & employment / Educ & training*]
 
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
@@ -326,9 +303,6 @@ Let's say that you want to request an update to some of your military records. S
   - [+ which tags within the filters]
 - [Note if clicked on filter chips in search results / content page]
 - [Note any confusions or feedback] 
-
-What if this this page didn't answer your question? What would you do next?
-- [Navigation path: *Search / Filters / Landing page*]
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
