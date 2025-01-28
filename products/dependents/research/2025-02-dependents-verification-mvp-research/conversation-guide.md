@@ -111,19 +111,19 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Review page
 
-8. Can you describe what information is shared here as you would with a friend?
-9. What would you do here if you noticed that you did need to add another dependent?
+9. Can you describe what information is shared here as you would with a friend?
+10. What would you do here if you noticed that you did need to add another dependent?
 
 ### Confirmation page
 
-10. From here, if you wanted to go back to the first page where you viewed your dependents, how would you do that?
+11. From here, if you wanted to go back to the first page where you viewed your dependents, how would you do that?
     - (If via breadcrumbs or the back button) what if you left this page. How would you find your way back from VA.gov?
 
 ### End of task
 
-11. How would you describe this process to a friend? 
-12. Was there anything unexpected or surprising about this experience? 
-13. Is there anything missing that would be helpful to you here?
+12. How would you describe this process to a friend? 
+13. Was there anything unexpected or surprising about this experience? 
+14. Is there anything missing that would be helpful to you here?
 
 ### Things to watch for
 - *Did the participant complete these tasks?*
