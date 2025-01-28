@@ -127,9 +127,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 * When you look at the other files listed, some have a status while others don’t. What do you think is the difference between these files?
 > NOTES
 
-* When you look at the other files listed, some have a status while others don’t. What do you think is the difference between these files?
-> NOTES
-
 * Would you expect to see statuses on all of these files?"
 > NOTES
 
