@@ -21,4 +21,4 @@ _What details are necessary for understanding the specific work or request track
 ---
 
 ## Validation
-_Assignee to add steps to this section. List the actions that need to be taken to confirm this issue is complete. Include any necessary links or context. State the expected outcome._
+_Assignee to add steps to this section. List the actions that need to be taken to confirm this issue is complete. Include any necessary links or context. State the expected outcome(s)._
