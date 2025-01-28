@@ -127,7 +127,7 @@ private window (Firefox, Safari), or InPrivate (Edge)
       - (If don't see chat, ASK:) Do you see the red **Stop Share** button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the **Chat** button in the center of the Zoom controls.
    - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
-## Task 1: Impressions of R&S Landing page
+## Task 1: Landing page impressions
 Note that some parts of the page will work, and other parts will not. 
 
 Please look over this page and tell me about it. I'm interested in your impressions of what you see and any questions that you have.
@@ -138,7 +138,7 @@ Please try to **talk aloud** about what you're thinking and what you want to do 
 - [Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
 
-## Task 2: Claim status
+## Task 2: Decision review
 Please go back to the first page you were on [landing pg via breadcrumb or another way]. 
 
 *[If participant is a caregiver or family member of a Veteran, replace "you" in the tasks with "the Veteran"/"your dad"/"they" or however they refer to the Veteran, unless they are the one who does VA tasks for the Veteran]*
