@@ -44,6 +44,8 @@ If the user-entered Service search term matches any of the following fields in v
     * Anywhere in description
     * Anywhere in Tricare description
 
+Within results of the priority and secondary matches, the order of their respective group results is based on the frequency of the service (count `#10` in the image) in the VA health services
+
 Lighthouse API ID should not be used for matching. 
 
 
