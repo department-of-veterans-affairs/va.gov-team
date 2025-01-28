@@ -20,6 +20,8 @@ Internal accessibility training sessions held for DBEX Team 1 & Conditions
     - 30 minute session on 5 quick accessibility tests you can perform using your internet browser’s developer tools. Demonstration is in the Google Chrome browser, but the features are common on Firefox, Internet Explorer and other browsers. Led by [@bacitracin](https://github.com/bacitracin)
 - [12/13/2024 A11y 101: Screenreaders part 1 video](https://dvagov.sharepoint.com/sites/vaabdvro/_layouts/15/stream.aspx?id=%2Fsites%2Fvaab[…]pied%2Eview%2Ed84d7add%2Df31e%2D4340%2D92a9%2De108c05415d8) &  [slides](https://dvagov.sharepoint.com/sites/vaabdvro/_layouts/15/stream.aspx?id=%2Fsites%2Fvaab[…]pied%2Eview%2Ed84d7add%2Df31e%2D4340%2D92a9%2De108c05415d8)
     - 30 minute session on screenreader basics. The recording starts a few minutes/slides in. Led by [@bacitracin](https://github.com/bacitracin)
+ 
+- Upcoming: 2//7/2025: A11y 101: What's WCAG? The Web Content Accessibility Guidelines
 
 ## Resources
 
