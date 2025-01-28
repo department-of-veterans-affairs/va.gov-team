@@ -1,5 +1,8 @@
 ## Facility Locator Search Improvements Decision Log
 
+### 2025-01-28: Suggested results matching / weighting
+Business logic that is used to order suggested results is documented in [engineering README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering#services-autosuggest).
+
 ### 2025-01-13: Feature groupings for research
 Due to implementation details & UX questions that arose during build, Michael proposed researching the Progressive Disclosure changes, rather than shipping ([here](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/19489#issuecomment-2560084702)).
 
