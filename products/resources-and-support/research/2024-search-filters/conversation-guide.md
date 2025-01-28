@@ -286,7 +286,7 @@ Let's say that you're wondering whether you owe the VA any money. Show me how yo
 
 - [Found target content? successful / needed help / unsuccessful]
 
-## Task 8: Change job
+## Task 8: Job change
 Please go back to the first page you were on [landing pg via breadcrumb or another way]. 
 
 Let's say that you're thinking about looking for a different kind of job, and you're wondering if the VA might be able to help you. Show me how you would try and find that information from here.
