@@ -269,7 +269,10 @@ Without clicking anything, take a moment to review the page. Remember to think a
   * [Click the email logo to return to previous screen]
 > NOTES
 
-* What do you expect to happen if you click the "X" button on the alert? If you sign out and then sign back in a few days later, would you expect to see this alert again?
+* What do you expect to happen if you click the "X" button on the alert? 
+> NOTES
+
+* If you sign out and then sign back in a few days later, would you expect to see this alert again?
 > NOTES
 
 * Is there anything in the alert you're not seeing that you wish was there?
