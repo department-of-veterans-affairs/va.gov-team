@@ -88,22 +88,26 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Second Task: Verify dependents  - 10 minutes
 ### “Your VA dependents” page
 
-1. Can you talk me through what you find on this page? 
-2. Can you describe what information is shared here as you would with a friend?
+1. Can you talk me through what you find on this page?
+   - (If not mentioned already) Is the difference between the sections for “Dependents on your VA benefits” and “Dependents not on your VA benefits” clear?
+   - Is it clear why it’s important to review your dependents and update or verify regularly?
+
 
 ### Update or verify
-3. There are two options under “Update or verify.” How would you describe those options to a friend?
+2. There are two options under “Update or verify.” How would you describe those options to a friend?
+3. If you saw that one of your dependents’ names was misspelled, what would you do here?
 4. Let’s say you review this page, and all of your dependents are correct. What would your next step be?
 
 ### Identifying information
 
 5. Can you describe what information is shared here as you would with a friend?
-6. What steps would you take if you noticed some of the information was incorrect?
+6. What steps would you take if you noticed your address was incorrect?
+   - (If not mentioned) Is it clear whether this information will impact your profile?
 
 ### Contact information
 
-6. Can you describe what information is shared here as you would with a friend?
-7. What steps would you take if you noticed your address was incorrect?
+7. Can you describe what information is shared here as you would with a friend?
+8. What would you do here if you noticed that you did need to add another dependent?
 
 ### Review page
 
@@ -113,6 +117,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 ### Confirmation page
 
 10. From here, if you wanted to go back to the first page where you viewed your dependents, how would you do that?
+    - (If via breadcrumbs or the back button) what if you left this page. How would you find your way back from VA.gov?
 
 ### End of task
 
