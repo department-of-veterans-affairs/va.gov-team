@@ -7,7 +7,7 @@ Veterans can access their Messages and Medications with fewer clicks to find wha
 - [MHV on VA.gov product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov)
 - [Medications product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications)
 - [Secure messaging product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product)
-  - [Remove SM Tool landing page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/feature-outlines/remove_tool_landing_page.md)
+  - [Remove SM Tool landing page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/feature-outlines/remove_tool_landing_page.md) (outdated)
 
 ## Problem
 - Veterans have to continuously go through a landing page to get into Medications or Secure Messaging when navigating through secondary navigation.  This requires an additional click(s) to get to the tasks they want to accomplish.
