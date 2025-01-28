@@ -34,22 +34,17 @@ The cheat sheet below maps the relevant chunks of data that are used in the matc
 
 ![Screenshot 2025-01-28 at 11 30 26 AM](https://github.com/user-attachments/assets/b7a20a12-24aa-4776-860a-971513889722)
 
-If the user-entered Service search term matches any of the following fields in va-healthcare-services.json, the related VA Service term will be returned as a suggested result (case insensitive): 
-* Anywhere in “Name”
-* Anywhere in “AKA”
-* Some “common condition” starts with a match of the text
-* The above are all equivalently weighted
-* Secondary matches are if they match (case insensitive)
-* Anywhere in description
-* Anywhere in Tricare description
+If the user-entered Service search term matches any of the following fields in va-healthcare-services.json, the related VA Service term will be returned as a suggested result (case insensitive). Suggested results are weighted as Primary or Secondary: 
+
+* Priority matches (Equivalently weighted)
+    * Anywhere in “Name”
+    * Anywhere in “AKA”
+    * Some “common condition” starts with a match of the text
+* Secondary matches (Equivalently weighted)
+    * Anywhere in description
+    * Anywhere in Tricare description
 
 Lighthouse API ID should not be used for matching. 
-
-
-#### Weighting
-
-`Need more info here`
-
 
 
 
