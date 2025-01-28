@@ -26,7 +26,6 @@ All Facility Locator data is delivered via facilities-api.
 ## Facility Locator business logic
 
 ### Services autosuggest 
-**1/28/25: in development, [initiative here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/initiatives/2023-2025-search-improvements))**
 
 When Facility Type = VA Health, Services field becomes an autosuggest field referencing VA Services taxonomy terms. 
 Taxonomy terms and their field data are parsed into a KISS data file: https://www.va.gov/data/cms/va-healthcare-services.json.
@@ -43,12 +42,13 @@ If the user-entered Service search term matches any of the following fields in v
 * Secondary matches are if they match (case insensitive)
 * Anywhere in description
 * Anywhere in Tricare description
-* They are also equivalently weighted
 
 Lighthouse API ID should not be used for matching. 
 
-**Weighting**
-Suggested results are ordered by weight. 
+
+#### Weighting
+
+`Need more info here`
 
 
 
