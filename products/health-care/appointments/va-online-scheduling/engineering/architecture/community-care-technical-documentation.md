@@ -98,6 +98,34 @@ classDiagram
 ```
 ## Sequence Diagrams
 
+### Workflow starting with VeText
+
+```mermaid
+sequenceDiagram
+    participant Vetext
+    participant Veteran
+    participant vets-website
+    participant vets-api
+    participant CCRA
+    participant EPS
+
+    Vetext->>Veteran: Sends encoded UCID in short URL
+    Veteran->>vets-website: Clicks text message
+    vets-website->>vets-api: Calls /referral(s)/:id (encoded UCID)
+    vets-api->>vets-api: Decodes UCID
+    vets-api->>CCRA: Requests referral data
+    CCRA-->>vets-api: Returns referral data
+    vets-api->>EPS: Checks for existing appointments with referral number
+    vets-api->>CCRA: Checks for existing appointments with referral number
+    EPS-->>vets-api: Returns appointment status
+    CCRA-->>vets-api: Returns appointment status
+    alt Status is good (not 'booked')
+        vets-api->>vets-website: Returns serialized success response
+    else Status is 'booked'
+        vets-api->>vets-website: Returns error message
+    end
+```
+
 ### Workflow once SMS/Email received
 ```mermaid
 sequenceDiagram
