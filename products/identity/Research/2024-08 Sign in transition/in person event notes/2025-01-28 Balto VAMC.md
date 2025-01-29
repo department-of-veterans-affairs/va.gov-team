@@ -12,7 +12,7 @@
    * We made one minor change in how we had typed it to how the tool said it should look and then it worked.
 * Not successful with 4 veterans
    * 1 veteran didn't have email on phone and didn't want to sign into email on provided laptop
-   * 1 veteran had trouble at setting up MFA step, but I don't recall and didn't take full notes on what that was about
+   * 1 veteran had an issue at setting up MFA step, but I didn't capture further details in my notes. I do recall a veteran without a cell phone who would have needed to mark down and use the generated codes to get set up. It might have been the case they didn't want to do that.
    * 1 caregiver didn't have the veteran's phone present to do the final phone verification step
       * Even though we got stuck there, she felt equipped after the walk through to do it at home
    * 1 we failed with both ID.me and Login.gov
