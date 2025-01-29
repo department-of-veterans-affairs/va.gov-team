@@ -51,16 +51,15 @@ Understand how submitters expect to interact with and benefit from automation wh
 * What are submitters key hopes and fears when it comes to automation?
 * Is it important for submitters to know when a recommendation or list of resources has been generated using an LLM (Large Language Model)?
 * Are there other ways, besides these concepts, that submitters expect Ask VA to be automated?
-* Which part of determining a category and topic could benefit the most from automation?
 
 Understand whether providing recommendations using automation will make it easier to ask a question or receive help:
-* How do these concepts make it easier or more difficult for Veterans to send their question to VA?
-* How do these concepts make it faster or slower for Veterans to send their question to VA?
-* How do these concepts make Veterans likely to send a more or less accurate question to VA?
+* How do these concepts make it easier or more difficult for Veterans to submit a question?
+* How do these concepts make it faster or slower for Veterans to submit a question?
+* How do these concepts make Veterans likely to send a more or less accurate submission to VA?
 * Do people prefer to receive a recommended category, topic or resource list and why?
 * Is it helpful to abstract the idea of a category and topic (eg. "We think your question is about ... and relates to ...") or insignificant?
 * Will people choose to stop asking their question in favor of accessing other helpful resources when they're suggested?
-* Which issues do we foresee with implementing this concept based on submitter's experiences during testing?
+* Which issues do we foresee with implementing these concepts based on submitters' experiences during testing?
 
 ### Hypotheses
 
