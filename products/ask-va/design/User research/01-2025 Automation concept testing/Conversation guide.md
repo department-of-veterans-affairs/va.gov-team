@@ -87,9 +87,9 @@ I’ve started recording. I'd like to confirm again: **Are you comfortable if I 
 It seems like we’re ready to get started. I'd like to begin by learning more about your experience with the VA and our online services.
 
 - So, how long have you been a Veteran?
-- Have you ever contacted the VA online?
-  - Have you ever used Ask VA or the VA chatbot?
-- When you think about having a good experience contact the VA, what is most important to you?
+- How often do you contact the VA right now?
+- Have you ever contacted the VA using Ask VA or the VA chatbot?
+- When you think about having a good experience contacting the VA, what is most important to you?
 
 Thanks. That's really helpful background for me.
 
