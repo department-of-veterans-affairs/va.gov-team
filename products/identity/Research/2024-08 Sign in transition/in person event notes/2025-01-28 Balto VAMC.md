@@ -42,4 +42,7 @@
 * Saw several CSP errors.
    * Login.gov with ID, phone number, and address verification.
    * ID.me with folks having an account already they either didn't know about or was otherwise not accessible to them.
-   * 
+   * images oof some errors
+![ID.me error after atempting to verify ID with passport](IDme-age-error.jpg)
+![Login.gov error not able to verify a correct address](Logingov-address-issue.jpg)
+![VA error titled we can't sign you in](VA-cant-sign-you-in-error.jpg)
