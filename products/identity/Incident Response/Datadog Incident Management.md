@@ -3,11 +3,8 @@
 This document describes how to declare an incident in Datadog and what the expected values should be when completing the documentation within the incident. 
 
 > [!NOTE]  
-> If an incident must be declared, the VA OCTO Identity Product Leadership must be notified directly via Slack and Pagerduty.
+> If an incident must be declared, the VA OCTO Identity Product Leadership must be notified directly via Slack and Pagerduty. [Roles and responsibilities for the incident response process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/IR%20Roles.md) are documented here.
 
-**Resources**
-- [How to determine the impact and severity of an incident](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Incident%20Declaration%20Guidelines.md)
-- [Roles and responsibilities for the incident response process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/IR%20Roles.md)
 ## How to declare an incident
 
 There are 2 ways to declare an incident:
