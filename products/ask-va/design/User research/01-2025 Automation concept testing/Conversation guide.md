@@ -35,10 +35,12 @@ Last updated by @tygindraux: January 28, 2025
 - [Intro - 5 minutes](#intro-5-minutes)
 - [Warm up - 5 minutes](#warm-up-5-minutes)
 - [Set up - 5 minutes](#set-up-5-minutes)
-- [Concept 1 - 10 minutes](#concept-1-10-minutes)
-- [Concept 2 - 10 minutes](#concept-2-10-minutes)
-- [Concept 3 - 10 minutes](#concept-3-10-minutes)
+- [Concept A - 10 minutes](#concept-A-10-minutes)
+- [Concept B - 10 minutes](#concept-B-10-minutes)
+- [Concept C - 10 minutes](#concept-C-10-minutes)
 - [Cool down - 5 minutes](#cool-down-5-minutes)
+
+We will show concepts A, B and C in different orders depending on the session.
 
 This guide also contains [pause or exit strategies](#pause-or-exit-strategies).
 
