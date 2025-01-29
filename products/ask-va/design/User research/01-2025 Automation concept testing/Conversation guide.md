@@ -88,13 +88,8 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
 
 - So, how long have you been a Veteran?
 - Have you ever contacted the VA online?
-  - `IF NO`
-    - Why might you contact the VA?
-    - If you were going to contact the VA, would you prefer to call, go online or get in touch another way?
-  - `IF YES`
-    - Can you tell me about a time when you contacted the VA online?
-    - How do you usually contact the VA? Why?
-    - Have you ever used Ask VA or the VA chatbot?
+  - Have you ever used Ask VA or the VA chatbot?
+- When you think about having a good experience contact the VA, what is most important to you?
 
 Thanks. That's really helpful background for me.
 
