@@ -2,32 +2,41 @@
 
 ## Overview
 
-This document describes the overall response process for any suitably severe incident related to components owned by the OCTO Identity Team. The incident response process is split into four categories: the determination incident impact, the incident declaration, ongoing incident management, and finally, the resolution of the incident.
+An incident is an event that compromises the security, performance, or availability of a service or component owned by the OCTO Identity team. The incident response process contains 4 categories: determine the impact, declare the incident, manage the ongoing incident, and resolve the incident. Review [roles and responsibilities for the incident response process here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/IR%20Roles.md).
 
-## Determination of Incident Impact
+> [!NOTE]  
+> Incidents that impact over 1,000 users in production need to be declared and managed in Datadog.
 
-- If a production monitor or alert has triggered, determine the priority of the incident:
-    - This will justify whether an incident must be declared, or if simple monitoring is sufficient
-    - Incident priorities are organized using P1, P2, P3, P4 levels
-    - P1 level incidents require an official incident declaration
-    - If a production alert for SSOe or SiS is active for 15 minutes or longer, it qualifies as a P1 and must be declared as an incident in Datadog.
-- The [incident declaration guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Incident%20Declaration%20Guidelines.md) document can be used to determine the priority of an incident.
+## Determine the impact
 
-## Declaring an Incident
+Monitors are set up to detect the thresholds to declare an incident for each [OCTO Identity service](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Incident%20Response/System%20Recovery%20Procedures#list-of-services). If you’re paged during pager duty, there has probably been some type of an incident.
 
-- Incident management is performed through [Datadog Incidents](https://vagov.ddog-gov.com/incidents)
-- Specific instructions for declaring an incident are described in [datadog incident management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md)
-- If an incident must be declared, the VA OCTO Identity Product Leadership must be notified directly via slack and pagerduty
-- If an incident requires code changes by the OCTO Identity team, in addition to the incident declaration, an Out of Band deploy is likely necessary. Follow the Platform OOB [process](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-policies#DeploymentPolicies-Requestingout-of-banddeploys)
+Refer to the [incident declaration guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Incident%20Declaration%20Guidelines.md) to assess the priority level. If you need to declare a P1 incident, you'll also document the [severity level](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Incident%20Declaration%20Guidelines.md) based on the overall user impact.
 
-## Ongoing Incident Management
+## Declare the incident
 
-- After an incident is declared, ongoing communication about the state of the incident are expected until resolution
-- Every 30 minutes, if the incident is not resolved, create a notification in the [declared incident page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md#declared-incident-page)
-    - Performing this action will post a message in the `#identity-support` Slack channel
+For P1 incidents notify VA OCTO Identity Product Leadership directly via Slack and Pagerduty. Then follow the [step-by-step instructions to declare the incident in Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md).
 
-## Resolving an Incident
+If an incident requires code changes by the OCTO Identity team, check the [guidelines for an Out of Band deploy](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-policies#DeploymentPolicies-Requestingout-of-banddeploys) to confirm if you need to request one for this incident.
 
-- When the alert has resolved, or incident has otherwise resolved, the datadog incident status can be set to `Resolved` and a notification should be sent from within Datadog to notify all relevant parties
-- Datadog can be used to generate a Post Mortem of the incident
-- System recovery procedure [documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Incident%20Response/System%20Recovery%20Procedures) can be consulted to determine proper testing and communication after incident resolution
+## Manage the ongoing incident
+
+The [incident commander](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/IR%20Roles.md) provides updates every 30 minutes on the status of a declared incident until it’s resolved.
+
+These updates are sent through notifications in Datadog. Recipients of the notification are set to the #identity-support Slack channel when you originally declare the incident.
+
+To create a [new notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md#send-a-notification) in Datadog:
+
+- Navigate to the [declared incident page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md#declared-incident-page).
+- Click the **Notifications** tab.
+- Click **New Notification** to create a new update.
+- Enter the information for your update, then click **Send**.
+
+## Resolve the incident
+
+When the service is restored and the incident is resolved:
+
+- Set the Datadog incident status to Resolved.
+- Generate a Post Mortem report of the incident.
+- Reference [system recovery procedure documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Incident%20Response/System%20Recovery%20Procedures) for the relevant service to determine proper testing and communication.
+- After all fields in Datadog are complete and accurate, the incident commander sets the incident to Completed and provides a link to the incident to [OCTO Identity team leadership](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md).
