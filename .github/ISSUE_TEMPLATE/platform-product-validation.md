@@ -1,5 +1,5 @@
 ---
-name: Platform Product issue template
+name: Platform Stability, Reliability, and Engineering (SRE) team issue template
 about: For filing standard issues. Includes validation section.
 title: ''
 labels: 'platform-sre-team'
