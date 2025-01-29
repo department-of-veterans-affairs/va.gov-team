@@ -15,74 +15,76 @@ _**Overview:** This tracker is designed to align sprint goals with quarterly pri
 | QP4 | CSAT / Medallia Work  | TBD | TBD |  TBD |   
 
 ## Sprint Goals - Sprint 1 [ 1/24/25 - 2/11/25] 
-**_Goals:_**
-- [ ] UX: Mock up quick reference guide (QP?)
+**_Goals:_** _Check when complete_
+- [ ] UX: Mock up quick reference guide (QPX)
 - [ ] UX: Work with Contact Center to improve Medallia data (QP4)  
 - [ ] UX: Complete the Feb Medallia Report (QP4)
-- [ ] ENG: The Digital Dispute process is live on staging (QP?)
-- [ ] ENG: Sharepoint errors have a more descriptive notification and are reported to ENG for analysis (QP?)
-- [ ] Team: Sprint Goal (QtrPriority)  
+- [ ] ENG: The Digital Dispute process is live on staging (QPX)
+- [ ] ENG: Sharepoint errors have a more descriptive notification and are reported to ENG for analysis (QPX)
 
-**Approvals:* (sent via email but approvals tracked here)*
+**_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals
- - [ ] VA PO approval received
- - [ ] VA COR approval received
+ - [ ] VA PO sent the Sprint Goals
+ - [ ] VA COR sent the Sprint Goals
+ - [ ] VA PO approved the Sprint Goals
+ - [ ] VA COR approved the Sprint Goals
  
-
-*Not Delivered + Notes:*
+**_Not Delivered + Notes:_**
 - [ ] Completed goals have been 'checked off' from above list
 - [ ] Details about goals not delivered will be documented here
 
   
 ## Sprint Goals - Sprint 2 [ 2/12/25-2/25/25]  
-**_Goals:_**
+**_Goals:_** _Check when complete_
 - [ ] UX: Finalization of wizard content and prototypes (QP1)  
 - [ ] UX: Wizard UX research planning approvals (QP1)  
 - [ ] Team: Sprint Goal (QtrPriority)  
 - [ ] Team: Sprint Goal (QtrPriority)  
 
-**Approvals:* (sent via email but approvals tracked here)*
+**_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals
- - [ ] VA PO approval received
- - [ ] VA COR approval received
+ - [ ] VA PO sent the Sprint Goals
+ - [ ] VA COR sent the Sprint Goals
+ - [ ] VA PO approved the Sprint Goals
+ - [ ] VA COR approved the Sprint Goals
  
-
-*Not Delivered + Notes:*
+**_Not Delivered + Notes:_**
 - [ ] Completed goals have been 'checked off' from above list
 - [ ] Details about goals not delivered will be documented here
   
 ## Sprint Goals - Sprint 3 [ 2/26/25-3/11/25]  
-**_Goals:_**
+**_Goals:_** _Check when complete_
 - [ ] Team: Sprint Goal (QtrPriority)  
 - [ ] Team: Sprint Goal (QtrPriority)  
 - [ ] Team: Sprint Goal (QtrPriority)  
 - [ ] Team: Sprint Goal (QtrPriority)  
 
-**Approvals:* (sent via email but approvals tracked here)*
-
+**_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals
- - [ ] VA PO approval received
- - [ ] VA COR approval received
+ - [ ] VA PO sent the Sprint Goals
+ - [ ] VA COR sent the Sprint Goals
+ - [ ] VA PO approved the Sprint Goals
+ - [ ] VA COR approved the Sprint Goals
  
-
-*Not Delivered + Notes:*
+**_Not Delivered + Notes:_**
 - [ ] Completed goals have been 'checked off' from above list
 - [ ] Details about goals not delivered will be documented here
   
 ## Sprint Goals - Sprint 4 [3/12/25-3/25/25]  
-**_Goals:_**
+**_Goals:_** _Check when complete_
 - [ ] Team: Sprint Goal (QtrPriority)  
 - [ ] Team: Sprint Goal (QtrPriority)  
 - [ ] Team: Sprint Goal (QtrPriority)  
 - [ ] Team: Sprint Goal (QtrPriority)
   
-**Approvals:* (sent via email but approvals tracked here)*
-
+**_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals
- - [ ] VA PO approval received
- - [ ] VA COR approval received
+ - [ ] VA PO sent the Sprint Goals
+ - [ ] VA COR sent the Sprint Goals
+ - [ ] VA PO approved the Sprint Goals
+ - [ ] VA COR approved the Sprint Goals
  
-*Not Delivered + Notes:*
+**_Not Delivered + Notes:_**
 - [ ] Completed goals have been 'checked off' from above list
 - [ ] Details about goals not delivered will be documented here
   
