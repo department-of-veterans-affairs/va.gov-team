@@ -35,42 +35,53 @@ Ask VA can support Veterans, their family members, and other submitters at many 
 
 The key goals of this study are:
 
-* understand how submitters expect to interact with and benefit from automation when sending a question to VA
-* understand which automation features make it easier, faster or more accurate for Veterans to send a question to VA
+* understand how submitters expect to interact with and benefit from automation when starting to send a question to VA
+* understand which automation features make it easier, faster or more accurate for Veterans to start sending a question to VA
 
 ### Outcome
 
-This research will help us determine how we should use automation to support the submitter experience of Ask VA. 
+This research will help us determine how we should use automation to support the submitter experience of Ask VA.
 
 We will develop a clear recommendation for which feature(s) to carry forward and prioritize building.
 
 ### Research questions
 
-Understand how submitters expect to interact with and benefit from automation when sending a question to VA:
+Understand how submitters expect to interact with and benefit from automation when starting to send a question to VA:
 * Do submitters recognize when something is automated? How does this change their experience either way?
 * What are submitters key hopes and fears when it comes to automation?
 * Is it important for submitters to know when a recommendation or list of resources has been generated using an LLM (Large Language Model)?
 * Are there other ways, besides these concepts, that submitters expect Ask VA to be automated?
+* Which part of determining a category and topic could benefit the most from automation?
 
-Understand which automation features make it easier, faster or more accurate for Veterans to send a question to VA:
+Understand which automation features make it easier, faster or more accurate for Veterans to start sending a question to VA:
 * How does this concept make it easier or more difficult for Veterans to send their question to VA?
 * How does this concept make it faster or slower for Veterans to send their question to VA?
 * How does this concept make Veterans likely to send a more or less accurate question to VA?
-* Which part of determining a category and topic could benefit the most from automation?
+* Is it helpful to abstract the idea of a category and topic (eg. "We think your question is about ... and relates to ...") or insignificant?
 * Will people choose to stop asking their question in favor of accessing other helpful resources when they're suggested?
 * Which issues do we foresee with implementing this concept based on submitter's experiences during testing?
 
 ### Hypotheses
 
-1. TBD
-2. TBD
-3. TBD
+1. Inputting your question to begin 'asking a question' through Ask VA is intuitive.
+2. It's helpful to be aware of the other options when you confirm if a category or topic suggestion is correct.
+3. Figuring out how to use the edit button to update a category, topic or question is clear.
+4. If you need to edit the category or topic that's been suggested, it's difficult to choose from a long list of options.
+5. It needs to be clear how much information you need to add to your question in order to get a more accurate suggestion.
+6. It's simpler when the idea of a category and topic is abstracted rather than having to choose each one.
+7. You don't think of a suggestion as being generated using AI, unless it's explicitly mentions AI.
+8. Knowing that a suggestion has been generated using AI can impact how much you trust the suggestion.
+9. People will choose to abandon Ask VA in favor of clicking a helpful link to get more information.
 
 ## Methodology
 
 This will be a moderated study conducted remotely over Zoom. We will use Figma prototypes with limited interactivity and test on mobile only.
 
-We will present 3 concepts (in varying orders) to submitters who will use and react to them:
+We will present 3 concepts to submitters in varying order to understand how they use and react to them.
+
+These concepts aim to:
+ - Make it easier to ask a question by providing recommendations or reducing cognitive load.
+ - Or provide you with resources or information up front.
 
 1. **Recommend a category and topic based on a question:** Submitter inputs a question, system recommends a category, submitter edits category or continues with recommendation, system recommends a topic, submitter edits topic or continues with recommendation.
 2. **Ask for a more detailed question to determine category and topic:** Submitter inputs a question, system describes which category and topic it thinks are a good fit, submitter can edit their question if they feel the recommendation should be different, if they don’t reach a successful recommendation, submitter can choose category and topic themselves.
