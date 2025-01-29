@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: January 27, 2025
+Last updated by @tygindraux: January 29, 2025
 
 **Jump ahead to:**
 - [Background](#background)
@@ -46,23 +46,21 @@ We will develop a clear recommendation for which feature(s) to carry forward and
 
 ### Research questions
 
-> **Please note:** I can add additional research questions once we decide which 3 concepts we will test.
-
 Understand how submitters expect to interact with and benefit from automation when sending a question to VA:
-* Do submitters recognize when something is automated? How does this change their experience?
+* Do submitters recognize when something is automated? How does this change their experience either way?
 * What are submitters key hopes and fears when it comes to automation?
-* Which part of the process of submitting a question could benefit the most from automation?
+* Is it important for submitters to know when a recommendation or list of resources has been generated using an LLM (Large Language Model)?
 * Are there other ways, besides these concepts, that submitters expect Ask VA to be automated?
 
 Understand which automation features make it easier, faster or more accurate for Veterans to send a question to VA:
 * How does this concept make it easier or more difficult for Veterans to send their question to VA?
 * How does this concept make it faster or slower for Veterans to send their question to VA?
 * How does this concept make Veterans likely to send a more or less accurate question to VA?
+* Which part of determining a category and topic could benefit the most from automation?
+* Will people choose to stop asking their question in favor of accessing other helpful resources when they're suggested?
 * Which issues do we foresee with implementing this concept based on submitter's experiences during testing?
 
 ### Hypotheses
-
-> **Please note:** I will add hypotheses once we decide which 3 concepts we will test.
 
 1. TBD
 2. TBD
@@ -74,22 +72,17 @@ This will be a moderated study conducted remotely over Zoom. We will use Figma p
 
 We will present 3 concepts (in varying orders) to submitters who will use and react to them:
 
-> **Please note:** I will update this list after we decide which 3 concepts we will test. We will not test 4 concepts.
-
-1. **Recommend a topic based on a category and question:** Submitter chooses a category and inputs a question, system recommends a topic to the submitter, submitter edits their topic or continues with recommendation.
-2. **Ask for a more detailed question to determine category and topic:** Submitter inputs a question, system alerts them to add more information so it can figure out where to send their question, system recommends a category and topic, submitter can edit their question or continue with recommendation.
-3. **Question helps narrow down the list of categories:** Submitter inputs a question, system uses question to narrow down the list of categories, submitter chooses a category, submitter chooses a topic.
-4. **Provide helpful links so someone can decide whether to continue asking a question:** Submitter inputs a question, system uses question to provide helpful links to other information on VA.gov that may answer their question, submitter can choose to navigate away from asking a question or to continue by selecting their category.
+1. **Recommend a category and topic based on a question:** Submitter inputs a question, system recommends a category, submitter edits category or continues with recommendation, system recommends a topic, submitter edits topic or continues with recommendation.
+2. **Ask for a more detailed question to determine category and topic:** Submitter inputs a question, system describes which category and topic it thinks are a good fit, submitter can edit their question if they feel the recommendation should be different, if they don’t reach a successful recommendation, submitter can choose category and topic themselves.
+3. **Provide helpful links so someone can decide whether to continue asking a question:** Submitter inputs a question, system uses question to provide helpful links to other information on VA.gov that may answer their question, submitter can choose to navigate away from asking a question or to continue by selecting their category.
 
 ### Research materials
 
-> **Please note:** I will add links once we finalize all 3 prototypes.
-
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Conversation%20guide.md)
 * Prototypes
-  * [Prototype 1: X](add link)
-  * [Prototype 2: X](add link)
-  * [Prototype 3: X](add link)
+  * [Prototype 1: Recommend a category and topic](add link)
+  * [Prototype 2: Ask for a more detailed question](add link)
+  * [Prototype 3: Provide helpful links](add link)
 
 ## Recruitment
 
