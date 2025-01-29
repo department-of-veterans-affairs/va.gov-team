@@ -50,9 +50,12 @@ Release plan is TBD, but expect a standard incremental release over several days
 ## Screenshots
 
 ### Before
-TBD
+Feature is net new on VA.gov and does not have a before screenshot. If additional reference is needed, view production state of the Personal Information section of va.gov/profile.
+
 ### After
-TBD
+![image](https://github.com/user-attachments/assets/8b9e8d17-8b71-4282-abc9-c764c4e93de1)
+
+![image](https://github.com/user-attachments/assets/449504a4-cd4c-4fc8-bd1f-6e792245229f)
 
 ---
 
