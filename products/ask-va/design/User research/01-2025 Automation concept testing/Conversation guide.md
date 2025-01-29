@@ -35,9 +35,9 @@ Last updated by @tygindraux: January 28, 2025
 - [Intro - 5 minutes](#intro-5-minutes)
 - [Warm up - 5 minutes](#warm-up-5-minutes)
 - [Set up - 5 minutes](#set-up-5-minutes)
-- [Concept A - 10 minutes](#concept-a-10-minutes)
-- [Concept B - 10 minutes](#concept-b-10-minutes)
-- [Concept C - 10 minutes](#concept-c-10-minutes)
+- [Concept 1 - 10 minutes](#concept-1-10-minutes)
+- [Concept 2 - 10 minutes](#concept-2-10-minutes)
+- [Concept 3 - 10 minutes](#concept-3-10-minutes)
 - [Cool down - 5 minutes](#cool-down-5-minutes)
 
 This guide also contains [pause or exit strategies](#pause-or-exit-strategies).
@@ -86,29 +86,47 @@ I’ve started recording. I'd like to confirm again: **Are you comfortable if I 
 
 It seems like we’re ready to get started. I'd like to begin by learning more about your experience with the VA and our online services.
 
-- I'm curious, how long have you been a Veteran?
-- Have you ever contacted the VA online or over the phone?
+- So, how long have you been a Veteran?
+- Have you ever contacted the VA online?
   - `IF NO`
     - Why might you contact the VA?
     - If you were going to contact the VA, would you prefer to call, go online or get in touch another way?
   - `IF YES`
-    - Can you tell me about a time when you contacted the VA?
+    - Can you tell me about a time when you contacted the VA online?
     - How do you usually contact the VA? Why?
-    - How was the support you received?
+    - Have you ever used Ask VA or the VA chatbot?
 
-> ADD MORE QUESTIONS HERE. PROBE ABOUT AUTOMATION.
+Thanks. That's really helpful background for me.
+
+I also want to ask you some questions about automation.
+
+Automation can mean different things. Today, I'm talking about automation where computers are doing the work that people usually do. This could be like having a robot helper take care of a task or help you do a task, like pay your bill automatically or help you summarize an article.
+
+- Do you recall every using an online tool or service that includes automation?
+- Is it always obvious when something is automated?
+- Is it important to know when something has been automated?
+
+Nowadays, people talk a lot about artificial intelligence, or AI. AI is like a sophisticated form of automation.
+
+- Do you have any hesitations or concerns about AI?
+- If you think about your interactions with the VA, are there ways that AI could make things easier?
+
+Awesome. Thanks for sharing your thoughts with me. 
 
 <details>
   <summary>Key things to notice</summary>
 
 - Why do they choose to contact VA (instead of going elsewhere or doing another task)?
 - How do they decide which channel to use when they contact the VA?
+- Have they used or heard of Ask VA or chatbot?
+- Do they recognize when something is automated? How does this change their experience either way?
+- What are their key hopes and fears with AI?
 
 </details>
 
 ## Set up (5 minutes)
 
-Thanks for sharing that with me. Now, we're going to shift gears.
+Now, we're going to shift gears.
 
 In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website. It might not work perfectly and we're going to be pretending like the information in the prototype is yours. 
 
