@@ -2,9 +2,10 @@
 01/29/2025 - 02/11/2025
 
 ## Engineering
-  - Alsion Jones
+  - Alison Jones
     - 0781 Paper Sync
       - Behavior changes description and summary skeleton
+      - Scope change -Behavior changes continue action without a selection	
   
   - Nathan Burgess
     - 0781 Paper Sync 
@@ -28,7 +29,9 @@
 
 - Kyle Soskin
   - Transition work
-  - Spike - 4142 with more than 5 non-VA locations - this is needed to help VBA decision on the number of non-VA locations that we allow 
+  - Spike - 4142 with more than 5 non-VA locations - this is needed to help VBA decision on the number of non-VA locations that we allow
+  - 0781 PS
+    - 0781 and evidence upload soltuion and planning 
 
 ## Research and Design
 [Sprint 48 Goals](https://dsva.slack.com/docs/T03FECE8V/F07N6EH4EUE?focus_section_id=temp:C:GJLc22dc09332794b5db34ecc6b0)
@@ -52,12 +55,13 @@ Kyle will be working with the other teams to hash out the details and hopefully 
 The team has started work for the transition off period by looking at mural boards, Github, and Datadog. This aligns with OCTO's goal for reducing the risk of not having the proper documentation for any team hand-offs at the end of the contract.
 Next steps will be to sync with Team 1 on naming conventions and how we manage Github without breaking links. 
 
-This is the month that the Carbs team has to monitor Watch Officer alerts. If any issues arise the team will hae to put time aside to work those. 
+This is the month that the Carbs team has to monitor Watch Officer alerts. If any issues arise the team will have to put time aside to work those. 
 
 The remediation team is looking for help in supporting their efforts. There is no planned work at this time, but it may come up during the sprint to support them. 
 
 [Roadmap for Disability Benefits (DBEX) Team 2 (Carbs)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?wid=0-1728398176278)
+[DBEX Carbs 2024 VA Disability 526 - Current sprint board](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/9)
 
 ## Notes
-- No need to prioritize any remediation work for the 0781 overflow issue for the upcoming sprint. Still considering tradeoffs + discussing with relevant parties in VBA
-- OCTO has not prioritized the Disability apps' compliance with the Front-end deployment pipeline changes for vets-website (Was due Feb 3, 2025) 
+- We are not prioritizing any remediation work at this time, just quick support as needed to keep them from being blocked. 
+- OCTO has not prioritized the Disability apps' compliance with the Front-end deployment pipeline changes for vets-website (Shedule to be due Feb 3, 2025) - no word if there will be any impacts to us if we don't have it done by Monday. 
