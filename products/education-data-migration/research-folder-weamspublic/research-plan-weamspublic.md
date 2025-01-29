@@ -124,10 +124,10 @@ When will the thing you are testing be finalized? Ideally it's ready a week befo
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: ekaterina.shick@va.gov
-* Date and time of pilot session: 2/3/25 between 1-3pm EST
+* Date and time of pilot session: 2/7/25 between 1-3pm EST
 
 ### Research sessions
-* Planned dates of research: 2/5/25 - 2/10/25
+* Planned dates of research: 2/10/25 - 2/12/25
 
 ### Length of sessions
 * Session length: 60 minutes 
