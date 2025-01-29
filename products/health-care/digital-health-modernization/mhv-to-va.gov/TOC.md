@@ -69,6 +69,7 @@
     * Collab Cycle Tickets
         * Open
           - [Filter Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90138)
+          - [Signature Settings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102012)
           - [Landing Page/Navigation Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90137)
           - [Plain Language Triage Group](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89985)
         * Closed
