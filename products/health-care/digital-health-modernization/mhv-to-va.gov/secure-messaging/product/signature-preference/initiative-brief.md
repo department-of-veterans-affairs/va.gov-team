@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Messaging signature preferences
 #### Overview
 
 Migrates message signature preferences from MHV Classic Secure Messaging tool to VA.gov Messages tool.
