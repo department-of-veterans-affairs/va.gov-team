@@ -35,9 +35,9 @@ Last updated by @tygindraux: January 28, 2025
 - [Intro - 5 minutes](#intro-5-minutes)
 - [Warm up - 5 minutes](#warm-up-5-minutes)
 - [Set up - 5 minutes](#set-up-5-minutes)
-- [Concept A - 10 minutes](#concept-A-10-minutes)
-- [Concept B - 10 minutes](#concept-B-10-minutes)
-- [Concept C - 10 minutes](#concept-C-10-minutes)
+- [Concept 1 - 10 minutes](#concept-A-recommend-a-category-and-topic-10-minutes)
+- [Concept 2 - 10 minutes](#concept-B-ask-for-a-more-detailed-question-10-minutes)
+- [Concept 3 - 10 minutes](#concept-C-provide-helpful-links-10-minutes)
 - [Cool down - 5 minutes](#cool-down-5-minutes)
 
 We will show concepts A, B and C in different orders depending on the session.
@@ -129,7 +129,7 @@ In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earli
 
 > Send link in Zoom chat.
 
-  * [Prototype A: Recommend a category and topic](add link)
+  * [Prototype A: Recommend a category and topic](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=117-8174&t=zZCiEN70ehoO9Epu-1&scaling=scale-down&content-scaling=fixed&page-id=117%3A7572&starting-point-node-id=117%3A8174)
   * [Prototype B: Ask for a more detailed question](add link)
   * [Prototype C: Provide helpful links](add link)
 
@@ -144,140 +144,191 @@ Thanks! Now I’m able to see your screen too.
 
 > Screen: Prototype 1, 2 or 3 depending on the session. The order to show the prototypes is noted in our schedule.
 
+Okay, so now let me tell you a little bit about this website.
+
+We're on VA.gov and this is a tool called Ask VA. Ask VA is a form that you can use to ask the VA a question. It can be a question about education, disability compensation, health care. Lots of things.
+
+In a moment, you're going to ask the VA a question. We'll talk about what's happening as we go along, so I can get your thoughts and feedback. 
+
+Everything sound okay?
+
 Jump to:
-- [Concept A]
-- Concept B
-- Concept C
+- [Concept A: Recommend a category and topic](#concept-A-recommend-a-category-and-topic-10-minutes)
+- [Concept B: Ask for a more detailed question](#concept-B-ask-for-a-more-detailed-question-10-minutes)
+- [Concept C: Provide helpful links](#concept-C-provide-helpful-links-10-minutes)
 
-## Concept A (10 minutes)
+## Concept A: Recommend a category and topic (10 minutes)
 
-Okay, so now taking a look at your screen. We see that we're on Ask VA and we're pretending like you're signed in. Pretend like this is your account.
+> Screen: Question page > Blank.
 
+So, first off.
 
-So, first off...
+- Without clicking anything yet, can you tell me what you would do on this page?
 
-- Can you describe this page to me? What are you noticing?
-- What are these boxes?
-- What do these dates mean? What days are those referring to?
-- What does this mean, where it says, "Health care"?
-- What does 'New' mean?
-- What does 'Solved' mean?
-- What is this text here, that says, "How do I access Secure Messaging on the VA website?" What is that text?
+Great. We can't type in this prototype, so we'll just pretend.
 
-Okay, so I think it's clear now that these are 3 questions that we're pretending like you submitted to the VA.
+Go ahead and click in the text box. And now we see your question.
 
-- Do any of these questions have a reply from VA yet?
-- Which question might have a reply? Why?
-- If there's not an easy way to tell which one has a reply, what would you do?
-- Does the status help you understand whether there's a reply?
+> Screen: Question page > Filled in.
 
-Okay, and let's say you remembered that the VA gave you some information about home loans and you signed in to re-read their response.
+> Question: "What services are available to help veterans transition back to civilian life, particularly for addressing emotional and psychological challenges?"
 
-- How would you find that question about home loans?
-- Are you able to search? How?
-- Are you able to sort the order of these cards? How?
+I'll give you a moment to read this question.
 
-Okay, so at this point, let's say that you want to check whether there's a reply for this `Solved` question you asked on `May 21st`.
+Okay, great. So, this is the question you're asking the VA.
 
-- Without clicking yet, can you tell me where you would click next?
-- What do you expect to happen when you click 'Check details'?
+- Can you show me what you would do next?
 
-Alright. Let's go ahead and click 'Check details' now.
+> Screen: Your category.
+
+Okay, let's take a moment to read this page.
+
+- Can you tell me about this page? What is this page about?
+- What is this page asking you to do?
+- Why does it say 'Disability compensation'?
+- How did it decide that your question relates to 'Disability compensation'?
+- What is the 'Edit' button for?
+- What happens if you don't think it relates to 'Disability compensation'?
+
+Let's try and edit this suggestion.
+
+- Can you show me how you would edit this suggestion?
+
+> Screen: Edit > Disability compensation.
+
+Let's say that you think your question is actually about health care.
+
+- Can you show me how you update the category?
+
+> Screen: Edit > Health care.
+
+> Screen: Edit > Save.
+
+- Okay, is there anything else you need to do at this point? Or are you ready to continue?
+
+> Screen: Your topic.
+
+- Without clicking anything yet, what is this page about?
+
+Great. Okay. We'll stop here. I want to hear your thoughts on this tool and what you just did.
+
+- What did you like about this process?
+- What did you find difficult or confusing?
+- Did you feel like any part of this process was automated?
+- Is it helpful or not helpful to have a category suggested to you? How so?
+
+Okay, awesome. We're going to move on to the next concept now. You can keep sharing your screen. [Or, jump to cool down.]
+
+Jump to:
+- [Concept A: Recommend a category and topic](#concept-A-recommend-a-category-and-topic-10-minutes)
+- [Concept B: Ask for a more detailed question](#concept-B-ask-for-a-more-detailed-question-10-minutes)
+- [Concept C: Provide helpful links](#concept-C-provide-helpful-links-10-minutes)
+- [Cool down](#cool-down)
 
 <details>
   <summary>Key things to notice</summary>
   
-- How do they find a question in their dashboard?
-- Which labels or details are useful in identifying a specific question?
-- Do they expect to be able to 'search' their dashboard?
-- Can they find the question they're looking for?
-- Do the statuses and icons make sense?
-- Can they find the link to review the details of their inquiry?
-- What do they expect to happen when they click 'Check details'?
-
+- Does this seem to make it easier or more difficult for someone to submit a question?
+- Does this seem to make it faster or slower for someone to submit a question?
+- Does this seem to make it more or less likely for someone to send an accurate submission to VA?
+- Do people think it's helpful to receive a suggested category and topic?
+- Is it clear where the recommendation comes from?
+- Do they face any issues confirming and/or editing the recommendation?
+ 
 </details>
 
-## Question details (20 minutes)
+## Concept B: Ask for a more detailed question (10 minutes)
 
-> Screen: Question details
+> Screen: Question page > Blank.
 
-Alright, so now we're on this page.
+So, first off.
 
-- First, can you describe this page to me? What are you noticing?
-- Is this what you expected to find on this page?
-- Is anything missing?
+- Without clicking anything yet, can you tell me what you would do on this page?
 
-If you'd like whether there's a reply...
+Great. We can't type in this prototype, so we'll just pretend.
 
-- Can you show me what you would do first?
-- Can you find the reponse from the VA?
+Go ahead and click in the text box. And now we see your question.
 
-I'll give you a minute to read their reply.
+> Screen: Question page > Filled in.
 
-- What are your thoughts, after reading this?
-- Is their reply what you expected?
-- If you had a follow-up question, can you reply back to the VA?
-- Let's say for a minute that you couldn't reply back to the VA, what would you do to follow up?
+> Question: "What resources are available for veterans who need support with mobility or assistive devices?"
+
+I'll give you a moment to read this question.
+
+Okay, great. So, this is the question you're asking the VA.
+
+- Can you show me what you would do next?
+
+> Screen: Question page > Processing.
+
+- What is happening now?
+
+Go ahead and click the screen again.
+
+> Screen: Suggested topic.
+
+Okay, let's take a moment to read this page.
+
+> STOPPED EDITING HERE.
+
+- Can you tell me about this page? What is this page about?
+- What is this page asking you to do?
+- Why does it say 'Disability compensation'?
+- How did it decide that your question relates to 'Disability compensation'?
+- What is the 'Edit' button for?
+- What happens if you don't think it relates to 'Disability compensation'?
+
+Let's try and edit this suggestion.
+
+- Can you show me how you would edit this suggestion?
+
+> Screen: Edit > Disability compensation.
+
+Let's say that you think your question is actually about health care.
+
+- Can you show me how you update the category?
+
+> Screen: Edit > Health care.
+
+> Screen: Edit > Save.
+
+- Okay, is there anything else you need to do at this point? Or are you ready to continue?
+
+> Screen: Your topic.
+
+- Without clicking anything yet, what is this page about?
+
+Great. Okay. We'll stop here. I want to hear your thoughts on this tool and what you just did.
+
+- What did you like about this process?
+- What did you find difficult or confusing?
+- Did you feel like any part of this process was automated?
+- Is it helpful or not helpful to have a category suggested to you? How so?
+
+Okay, awesome. We're going to move on to the next concept now. [Or, jump to cool down.]
+
+Jump to:
+- [Concept A: Recommend a category and topic](#concept-A-recommend-a-category-and-topic-10-minutes)
+- [Concept B: Ask for a more detailed question](#concept-B-ask-for-a-more-detailed-question-10-minutes)
+- [Concept C: Provide helpful links](#concept-C-provide-helpful-links-10-minutes)
+- [Cool down](#cool-down)
 
 <details>
   <summary>Key things to notice</summary>
   
-- What do they notice first when they review their question details?
-- Which labels or details are useful when they check their question details?
-- Do they scroll down to check the reply from VA, and can they find it?
-- Do they understand how or if they can reply back to VA?
-- If they can't reply to VA, what would they do if they have an issue or follow-up question?
-
-</details>
-
-Okay, so it does seem like you can reply to the VA...
-
-- Without clicking anything yet, can you describe how you would reply here?
-
-Great. Well, we can't actually type in the prototype today. But let's click on that box where you would type, and we'll pretend like you typed in your reply.
-
-> Screen: Reply drafted
-
-So, now we see your reply has been drafted.
-
-- What would you do next?
-
-Great. Let's go ahead and click send.
-
-> Screen: Reply sent
-
-I'll give you a minute to read this page.
-
-- Can you summarize this page for me?
-- Is anything missing from this page?
-- How do you get back to the Ask VA homepage from here?
-
-Okay, awesome. Let's go ahead and click 'Return to Ask VA.'
-
-<details>
-  <summary>Key things to notice</summary>
-  
-- Is any information missing from the reply confirmation?
-- Can they find the link to return to the dashboard?
-
-</details>
-
-> Screen: Dashboard
-
-- What page are we on now?
-- Has anything on this page changed, since you sent your reply to the VA?
-- Why do you think the status of this question changed from 'Solved' to 'Reopened'?
-
-<details>
-  <summary>Key things to notice</summary>
-  
-- Do they notice the status changed from 'Solved' to 'Reopened'?
-
+- Does this seem to make it easier or more difficult for someone to submit a question?
+- Does this seem to make it faster or slower for someone to submit a question?
+- Does this seem to make it more or less likely for someone to send an accurate submission to VA?
+- Do people think it's helpful to receive a suggested category and topic?
+- Is it helpful that the category and topic are more abstract? Do they notice the difference?
+- Is it clear where the recommendation comes from?
+- Do they face any issues editing and updating their question?
+ 
 </details>
 
 ## Cool down (5 minutes)
 
-Okay, we’re all finished with the prototype. So you can stop sharing your screen now.
+Okay, we’re all finished looking at prototypes. You can stop sharing your screen now.
 
 > Stop sharing screen
 
