@@ -78,7 +78,7 @@
     - [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707427471672/75fb6b9eea27c7b854e8b31c0e9017e2a54bb95a?sender=u37bb983bd3fc3cc00c7d3286)
 
 #### Priorities, Backlog, Sprints
-- [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715270046440/b2cf85a53d09a8caca454415626fecb5bae24a9b?sender=uc584f7fcc9a5090000259578)
+- [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719321335255/e7d232804a586f6ef154aadc508e73c0a45aa895)
 - [Scrum Board](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1)
 - [Sprint Goals](https://dsva.slack.com/docs/T03FECE8V/F082QPMJFC1)
 - [Sprint Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprintdemo/readme.md) 
