@@ -236,9 +236,9 @@ No feedback for 1/13/25
 #### Google Analytics
 | Metric Name | Description |
 | ----------- | ----------- |
-| Unique page views | Available 1/27/25 |
-| Views per user | Available 1/27/25 |
-| Time spent | Available 1/27/25 |
+| Unique page views | 2,357 |
+| Views per user | 1.18 |
+| Time spent | 1 min 20 sec |
 
 #### DataDog
 | Metric Name | Description |
@@ -252,24 +252,34 @@ No feedback for 1/13/25
 #### Medallia Feedback
 3 respondents all completed the VFS Questionnaire.  They rated their satisfaction as 1, 2 and 3.  The respondent who rated their satisfaction as a 1 did not indicate whether they had been able to complete their task or not.  Asked to explain, they said "Checking on travel claims Why have they all been denied."  The respondent who rated their satisfaction as a 3 indicated that they were not able to complete their task.  Asked to explain, they said "Checking on travel reimbursement and one was denied.  Why?"
 
-
-
 #### Google Analytics
-#### DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| Unique page views | 2,350 |
+| Views per user | 1.18 |
+| Time spent | 1 min 26 sec |
 
 ### 1/25/25 - 100%
 #### Medallia Feedback
 No feedback
 
 #### Google Analytics
-#### DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| Unique page views | 1,223 |
+| Views per user | 1.13 |
+| Time spent | 1 min 9 sec |
 
 ### 1/26/25 - 100%
 #### Medallia Feedback
 1 respondent completed the MyHealtheVet Form.  They rated their satisfaction as a 5 and indicated that they were able to complete their task, but did not provide any additional relevant information.
 
 #### Google Analytics
-#### DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| Unique page views | 1,083 |
+| Views per user | 1.11 |
+| Time spent | 1 min 3 sec |
 
 ---
 **Engineering Metrics (Datadog)**
