@@ -124,7 +124,7 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
 - 10/24 - Design Intent
 - 11/18 - Midpoint
 - 1/15 - Staging
-- Release V1 by end of PI 17 - Jan 21.
+- 1/29 - Released in production
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
@@ -135,7 +135,7 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
   - V1 - Jan 2025
   - Possible V2 coming later
 - *Actual Launch Date* 
-  - tbd
+  - Jan 29, 2025
 
 ---
    
