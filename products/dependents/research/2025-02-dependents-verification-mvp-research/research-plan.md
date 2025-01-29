@@ -121,6 +121,25 @@ Primary criteria (must-haves):
 - Veterans who are comfortable reading English
 - Veterans who have access to a computer or other device that will run Zoom and the prototype
 
+#### Screener questions:
+
+Have you ever claimed one or more dependent(s) on your VA benefits (disability or Pension)? Y/N [no would disqualify from the study]
+
+If yes, select the relationship of your dependent(s) (Check all that apply) [multi-select check boxes]
+
+[ ] Spouse (including same-sex and common-law marriages)
+[ ] Biological child
+[ ]  Stepchild
+[ ] Adopted child
+[ ]  Child under 18 years old
+[ ]  Child 18-23 years old enrolled in school full time
+[ ]  Child permanently incapable of self-support
+[ ]  Parent
+
+*Another primary criteria is at least 50% (4) with an identified cognitive disability.*
+
+**Screener question:** Do you find it difficult to remember or learn new things, focus on a task, or make decisions? [We ask this question because we want to make sure that our tools work for people who live with challenges like these.]
+
 [Go to recruitment request ticket
 ](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/651)
 
