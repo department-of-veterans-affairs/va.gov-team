@@ -121,8 +121,10 @@ sequenceDiagram
     CCRA-->>vets-api: Returns appointment status
     alt Status is good (not 'booked')
         vets-api->>vets-website: Returns serialized success response
+        vets-website->>Veteran: Display referral card
     else Status is 'booked'
         vets-api->>vets-website: Returns error message
+        vets-website->>Veteran: Display error notification
     end
 ```
 
