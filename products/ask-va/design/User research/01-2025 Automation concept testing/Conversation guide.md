@@ -123,35 +123,34 @@ Awesome. Thanks for sharing your thoughts with me.
 
 Now, we're going to shift gears.
 
-In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website. It might not work perfectly and we're going to be pretending like the information in the prototype is yours. 
-
-> DECIDE WHETHER I WILL MY SCREEN OR THEY WILL. BOTH OPTIONS WORK FOR THIS STUDY.
+In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website. It might not work perfectly and we're sometimes going to need to use our imagination. I'll help guide you through it.
 
 > Send link in Zoom chat.
 
-  * [Prototype 1: X](add link)
-  * [Prototype 2: X](add link)
-  * [Prototype 3: X](add link)
+  * [Prototype A: Recommend a category and topic](add link)
+  * [Prototype B: Ask for a more detailed question](add link)
+  * [Prototype C: Provide helpful links](add link)
 
-- Can you open the link in the chat?
+I just sent you a link in the Zoom chat.
+
+- Can you open the link?
 - Have you shared your screen on Zoom before?
   - `IF YES` Great. Can you please share your screen?
   - `IF NO` I’ll walk you through how to do that…
 
 Thanks! Now I’m able to see your screen too.
 
-> Screen: Prototype 1, 2 or 3 depending on the session.
+> Screen: Prototype 1, 2 or 3 depending on the session. The order to show the prototypes is noted in our schedule.
 
-And so, taking a look at your screen. We see that we're on Ask VA and we're pretending like you're signed in. Pretend like this is your account.
+Jump to:
+- [Concept A]
+- Concept B
+- Concept C
 
-<details>
-  <summary>Key things to notice</summary>
+## Concept A (10 minutes)
 
-- Are they familiar with Ask VA?
+Okay, so now taking a look at your screen. We see that we're on Ask VA and we're pretending like you're signed in. Pretend like this is your account.
 
-</details>
-
-## Dashboard (20 minutes)
 
 So, first off...
 
