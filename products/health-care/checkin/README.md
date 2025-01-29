@@ -33,22 +33,17 @@
     - Product
         - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
     - Delivery
-        - [Anita Halici](https://dsva.slack.com/archives/D055G32ES79)
-- UX
-    - Research
-      - [Christina Gednalske](https://dsva.slack.com/team/U02KVPC82VA)
-      - [Steven Straily](https://dsva.slack.com/archives/D07VBB5NP2A)
-    - Design
-      - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)  
-- Engineering
-    - Full Stack
+        - [Alex Parker](https://dsva.slack.com/team/U066D61DAEQ)
+    - Full Stack Engineers
       - [Lee DeLarm](https://dsva.slack.com/archives/D05B37XJF8C)
       - Bill Tran
-    - Front End      
+    - Front End Engineers
       - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)  
-    - Back End 
-      - [Gaurav Gupta](https://dsva.slack.com/team/U02DB4BC10F)
-      - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
+    - Back End Engineers
+      - [Phil DeFraties](https://dsva.slack.com/team/U089MDZ98BZ)
+      - Carlos Felix
+      - Devin McCurdy (temporary)
+      - Corey Ferris (temporary)
     - Native Mobile App
       - [Juan Castillo](https://dsva.slack.com/archives/D07QU9YQ7HA)
     - Dev Ops
