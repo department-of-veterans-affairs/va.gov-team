@@ -97,7 +97,7 @@ I also want to ask you some questions about automation.
 
 Automation can mean different things. Today, I'm talking about automation where computers are doing the work that people usually do. This could be like having a robot helper take care of a task or help you do a task, like pay your bill automatically or help you summarize an article.
 
-- Do you recall every using an online tool or service that includes automation?
+- Do you know if you've ever used an online tool or service that includes automation?
 - Is it always obvious when something is automated?
 - Is it important to know when something has been automated?
 
