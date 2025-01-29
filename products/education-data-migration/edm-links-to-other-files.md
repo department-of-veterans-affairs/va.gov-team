@@ -62,3 +62,5 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 - [Design Intent - IA Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #99464](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99464#event-15708767113)
 - [Design Intent - Design Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #99543](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99543#event-15733018527)
 - [Design Intent - Accessibility Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #99573](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99573#event-15736614996)
+### Midpoint Review Feedback 
+- [Midpoint Review - IA Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #102021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102021#event-16110612222)
