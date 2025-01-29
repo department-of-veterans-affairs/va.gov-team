@@ -79,17 +79,17 @@ This will be a moderated study conducted remotely over Zoom. We will use Figma p
 We will present 3 concepts to submitters in varying order to understand how they use and react to them.
 
 Concepts:
-1. **Recommend a category and topic based on a question:** Submitter inputs a question, system recommends a category, submitter edits category or continues with recommendation, system recommends a topic, submitter edits topic or continues with recommendation.
-2. **Ask for a more detailed question to determine category and topic:** Submitter inputs a question, system describes which category and topic it thinks are a good fit, submitter can edit their question if they feel the recommendation should be different, if they don’t reach a successful recommendation, submitter can choose category and topic themselves.
-3. **Provide helpful links so someone can decide whether to continue asking a question:** Submitter inputs a question, system uses question to provide helpful links to other information on VA.gov that may answer their question, submitter can choose to navigate away from asking a question or to continue by selecting their category.
+- **Concept A: Recommend a category and topic based on a question:** Submitter inputs a question, system recommends a category, submitter edits category or continues with recommendation, system recommends a topic, submitter edits topic or continues with recommendation.
+- **Concept B: Ask for a more detailed question to determine category and topic:** Submitter inputs a question, system describes which category and topic it thinks are a good fit, submitter can edit their question if they feel the recommendation should be different, if they don’t reach a successful recommendation, submitter can choose category and topic themselves.
+- **Concept C: Provide helpful links so someone can decide whether to continue asking a question:** Submitter inputs a question, system uses question to provide helpful links to other information on VA.gov that may answer their question, submitter can choose to navigate away from asking a question or to continue by selecting their category.
 
 ### Research materials
 
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Conversation%20guide.md)
 * Prototypes
-  * [Prototype 1: Recommend a category and topic](add link)
-  * [Prototype 2: Ask for a more detailed question](add link)
-  * [Prototype 3: Provide helpful links](add link)
+  * [Prototype A: Recommend a category and topic](add link)
+  * [Prototype B: Ask for a more detailed question](add link)
+  * [Prototype C: Provide helpful links](add link)
 
 ## Recruitment
 
