@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: January 28, 2025
+Last updated by @tygindraux: January 29, 2025
 
 ## Moderator logistics
 
@@ -130,8 +130,8 @@ In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earli
 > Send link in Zoom chat.
 
   * [Prototype A: Recommend a category and topic](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=117-8174&t=zZCiEN70ehoO9Epu-1&scaling=scale-down&content-scaling=fixed&page-id=117%3A7572&starting-point-node-id=117%3A8174)
-  * [Prototype B: Ask for a more detailed question](add link)
-  * [Prototype C: Provide helpful links](add link)
+  * [Prototype B: Ask for a more detailed question](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=139-2957&t=Znc7llXZ2zSJhRXO-0&scaling=min-zoom&content-scaling=fixed&page-id=134%3A4903)
+  * [Prototype C: Provide helpful links](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=73-14487&t=Znc7llXZ2zSJhRXO-0&scaling=scale-down&content-scaling=fixed&page-id=73%3A14484&starting-point-node-id=73%3A14487)
 
 I just sent you a link in the Zoom chat.
 
@@ -159,6 +159,8 @@ Jump to:
 
 ## Concept A: Recommend a category and topic (10 minutes)
 
+> Link to [Prototype A](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=117-8174&t=zZCiEN70ehoO9Epu-1&scaling=scale-down&content-scaling=fixed&page-id=117%3A7572&starting-point-node-id=117%3A8174)
+
 > Screen: Question page > Blank.
 
 So, first off.
@@ -171,24 +173,26 @@ Go ahead and click in the text box. And now we see your question.
 
 > Screen: Question page > Filled in.
 
-> Question: "What services are available to help veterans transition back to civilian life, particularly for addressing emotional and psychological challenges?"
+> Question: "What resources are available for veterans who need support with mobility or assistive devices?"
 
 I'll give you a moment to read this question.
 
 Okay, great. So, this is the question you're asking the VA.
 
-- Can you show me what you would do next?
+- Can you show me what you would do next? [You can click Continue.]
 
 > Screen: Your category.
 
 Okay, let's take a moment to read this page.
 
-- Can you tell me about this page? What is this page about?
+- Without clicking anything yet, can you tell me about this page? What is this page about?
 - What is this page asking you to do?
+- What would you do first?
 - Why does it say 'Disability compensation'?
 - How did it decide that your question relates to 'Disability compensation'?
 - What is the 'Edit' button for?
-- What happens if you don't think it relates to 'Disability compensation'?
+- What happens if you think your question does relate to 'Disability compensation'?
+- What about if you don't think it relates to 'Disability compensation'?
 
 Let's try and edit this suggestion.
 
@@ -239,6 +243,8 @@ Jump to:
 
 ## Concept B: Ask for a more detailed question (10 minutes)
 
+> Link to [Prototype B](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=139-2957&t=Znc7llXZ2zSJhRXO-0&scaling=min-zoom&content-scaling=fixed&page-id=134%3A4903)
+
 > Screen: Question page > Blank.
 
 So, first off.
@@ -257,44 +263,66 @@ I'll give you a moment to read this question.
 
 Okay, great. So, this is the question you're asking the VA.
 
-- Can you show me what you would do next?
+- Can you show me what you would do next? [You can click Continue.]
 
-> Screen: Question page > Processing.
+> Screen: Processing.
 
 - What is happening now?
-
-Go ahead and click the screen again.
 
 > Screen: Suggested topic.
 
 Okay, let's take a moment to read this page.
 
-> STOPPED EDITING HERE.
-
-- Can you tell me about this page? What is this page about?
+- Without clicking anything yet, can you tell me about this page? What is this page about?
 - What is this page asking you to do?
-- Why does it say 'Disability compensation'?
-- How did it decide that your question relates to 'Disability compensation'?
+- What would you do first?
+- How did it decide that your question is about 'disability compensation' and relates to 'how to file a claim.'
+- It mentions that something is AI-generated. What is AI-generated on this page?
 - What is the 'Edit' button for?
-- What happens if you don't think it relates to 'Disability compensation'?
+- Why would you edit your question?
+- What happens if you think your question does relate to 'Disability compensation'?
+- What about if you don't think it relates to 'Disability compensation'?
 
-Let's try and edit this suggestion.
+Let's say we don't like the suggestion it provided. 
 
-- Can you show me how you would edit this suggestion?
+- Can you show me what you would do?
+- How do you edit your question?
 
-> Screen: Edit > Disability compensation.
+> Screen: Edit > Your question.
 
-Let's say that you think your question is actually about health care.
+Without clicking anything, just talk me through what you need to do here.
 
-- Can you show me how you update the category?
+- Do you need to write a brand new question?
+- Do you need to delete part of your question?
+- Do you need to add information to your question?
 
-> Screen: Edit > Health care.
+Let's pretend that you added information to your question. You can just click anywhere on your screen.
 
-> Screen: Edit > Save.
+Okay, so now you have more information in your question.
 
-- Okay, is there anything else you need to do at this point? Or are you ready to continue?
+Let's save this change. [You can click 'Update.']
 
-> Screen: Your topic.
+> Screen: Processing.
+
+> Screen: Suggested topic. (Second try.)
+
+Okay, now tell me about this page.
+
+- What is this page telling you?
+- Is this the same suggestion they gave you before?
+- Why did their suggestion change?
+- What would you do if their suggestion was still not quite right?
+
+Go ahead and click no and we'll continue.
+
+> Screen: Select the category of your question.
+
+- What is this page asking you to do?
+- Why is it asking you to choose a category?
+
+Let's go ahead and choose 'Health care' and continue.
+
+> Screen: Select the topic of your question.
 
 - Without clicking anything yet, what is this page about?
 
@@ -303,7 +331,7 @@ Great. Okay. We'll stop here. I want to hear your thoughts on this tool and what
 - What did you like about this process?
 - What did you find difficult or confusing?
 - Did you feel like any part of this process was automated?
-- Is it helpful or not helpful to have a category suggested to you? How so?
+- How did you feel when it asked you to edit your question if you didn't like the suggestion?
 
 Okay, awesome. We're going to move on to the next concept now. [Or, jump to cool down.]
 
@@ -326,24 +354,115 @@ Jump to:
  
 </details>
 
+## Concept C: Provide helpful links (10 minutes)
+
+> Link to [Concept C](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=73-14487&t=Znc7llXZ2zSJhRXO-0&scaling=scale-down&content-scaling=fixed&page-id=73%3A14484&starting-point-node-id=73%3A14487)
+
+> Screen: Question page > Blank.
+
+So, first off.
+
+- Without clicking anything yet, can you tell me what you would do on this page?
+
+Great. We can't type in this prototype, so we'll just pretend.
+
+Go ahead and click in the text box. And now we see your question.
+
+> Screen: Question page > Filled in.
+
+> Question: "What resources are available for veterans who need support with mobility or assistive devices?"
+
+I'll give you a moment to read this question.
+
+Okay, great. So, this is the question you're asking the VA.
+
+- Can you show me what you would do next? [You can click Continue.]
+
+> Screen: Your category.
+
+Okay, let's take a moment to read this page.
+
+- Without clicking anything yet, can you tell me about this page? What is this page about?
+- What is this page asking you to do?
+- What would you do first?
+- What are these links towards the bottom half of the screen?
+- Why is it suggesting these specific links?
+- Would you choose to navigate to one of these links or not? Why?
+- Do you still need to choose a category? Why?
+
+Let's say you want to choose a category next.
+
+- Can you show me what you would do?
+
+As a reminder, your question is about mobility or assistive devices.
+
+- Which category would you choose? [Let's choose 'Health care'.]
+
+> Screen: Your category > Health care.
+
+- Without clicking anything, can you tell me what would you do next?
+- What do you expect to happen when you click continue?
+
+Let's go ahead and continue.
+
+> Screen: Your topic.
+
+- Without clicking anything yet, what is this page about?
+
+Great. Okay. We'll stop here. I want to hear your thoughts on this tool and what you just did.
+
+- What did you like about this process?
+- What did you find difficult or confusing?
+- Did you feel like any part of this process was automated?
+- Is it helpful to receive a list of resources and links?
+- Would you choose continue asking your question or navigate to a link instead?
+
+Okay, awesome. We're going to move on to the next concept now. [Or, jump to cool down.]
+
+Jump to:
+- [Concept A: Recommend a category and topic](#concept-A-recommend-a-category-and-topic-10-minutes)
+- [Concept B: Ask for a more detailed question](#concept-B-ask-for-a-more-detailed-question-10-minutes)
+- [Concept C: Provide helpful links](#concept-C-provide-helpful-links-10-minutes)
+- [Cool down](#cool-down)
+
+<details>
+  <summary>Key things to notice</summary>
+  
+- Does this seem to make it easier or more difficult for someone to submit a question?
+- Does this seem to make it faster or slower for someone to submit a question?
+- Does this seem to make it more or less likely for someone to send an accurate submission to VA?
+- Do people think it's helpful to receive a suggested category and topic?
+- Is it clear where the recommendations comes from?
+- Will people choose to stop asking their question in favor of accessing other helpful resources when they're suggested?
+- Do they face any issues editing and updating their question?
+ 
+</details>
+
 ## Cool down (5 minutes)
 
-Okay, we’re all finished looking at prototypes. You can stop sharing your screen now.
+Okay, we’re all finished looking at the prototypes. You can stop sharing your screen now.
 
 > Stop sharing screen
 
-I’d love to spend a little time reflecting before we finish.
+I’d love to spend some time reflecting before we finish.
 
-- What did you think of that process? Is there anything you liked?
-- Is there anything that could have been easier?
-- Let's say you wanted to tell another Veteran about Ask VA. How would you describe it to them?
-- If they needed help finding their reply from the VA, what would you tell them?
-- Is there anything else you want to share with me, about this process?
+We looked at 3 different ideas. I'm curious...
+
+- Which idea stood out to you the most? You can try and describe what you remember.
+- Is there anything (else) you liked?
+- Is there anything that you didn't like?
+- All 3 of these ideas provided a suggestion to you. Did you prefer when they suggested what your question was about or they suggested helpful links?
+- Did any of these ideas use AI?
+- If something is generated using AI, does that make you trust it more or less?
+- Is there anything else you'd like to share with me?
 
 <details>
   <summary>Key things to notice</summary>
   
 - What did they like and what would they change?
+- Do submitters recognize when something is automated or uses AI?
+- How does AI impact their trust, if at all?
+- Do submitters recognize or describe other ways they expect Ask VA to be automated?
 
 </details>
    
@@ -397,5 +516,5 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 ## Approved by:
 
-- Becky Phung, PO on May 21, 2024
-- Shane Strassberg, VA Research Ops on May 22, 2024
+- Becky Phung, PO on [TBC]
+- Shane Strassberg, VA Research Ops on [TBC]
