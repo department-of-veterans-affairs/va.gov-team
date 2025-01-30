@@ -39,8 +39,6 @@ Make the online dependent experience as easy to complete and cohesive as possibl
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/README.md)
 - Product Guide/Contact Center Guide
-- Things to know (various points of information we learned since the last transition in April 2022)
-- Stakeholder Meeting Notes
 
 #### 21-0538 Mandatory Verification of Dependents (paper form)
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/README.md)
@@ -56,13 +54,11 @@ Make the online dependent experience as easy to complete and cohesive as possibl
 - [Page/User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1687976281975/2a9c6ca9ea6d955afa7977c777bbb72b15280903?sender=u934f98f179a86c76e6ee9592)
 - [Wireframes and page designs](https://www.figma.com/file/7W55oNwdVXvXOTI9SaFzQ7/686c-Add-or-Remove-Dependents?type=design&node-id=8-9&mode=design&t=kcdjZspxOR8ocdvT-0)
 - Staging users
-- Analytics
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692908527043/0da94b7ded52e8a943d798bcb8ae39697c2fb56f?wid=0-1702913614567)
 
 ### Analytics dashboard:
-- Domo (consolidated forms dashboard)
-- Google Analytics
-- Important Google Analytics Event Labels
+- Domo (none)
+- Google Analytics (none)
 - [Backend Stats on DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/vad-969-xqc/benefits-dependents-686674?fromUser=false&refresh_mode=sliding&from_ts=1729703196402&to_ts=1737479196402&live=true)
 - [Backend monitoring](https://vagov.ddog-gov.com/monitors/manage?q=dependent&order=desc)
 - [Backup submission reporting](https://vagov.ddog-gov.com/dashboard/66t-jtz-guk/686c-674-backup-submission-reporting?fromUser=false&refresh_mode=sliding&from_ts=1736874419874&to_ts=1737479219874&live=true)
@@ -169,4 +165,4 @@ This table includes links to the individual feature directory and the latest ite
 - Bi-weekly Dependents Design Sync with Kevin, design/research, product, and VA Leads
 - Bi-weekly Product Sync with VA Leads, product manager, and delivery lead
 - Weekly engineering sync with VA Engineering Crew Lead and team Engineering Lead
-- Weekly design sync with VA Design Crew Lead, team design/researchers, product manager
+- [Weekly design sync](https://dsva.slack.com/docs/T03FECE8V/F0839KD75K8) with VA Design Crew Lead, team design/researchers, product manager
