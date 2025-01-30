@@ -144,7 +144,7 @@ Perigean does **not** need to set up our pilot session. Tyler will schedule hers
 ### Pilot
 
 - Pilot participant: Joe Hall
-- Date and time of pilot session: TBD on Feb 10th
+- Date and time of pilot session: 10-11am on Feb 10th
 
 ## Research sessions
 
