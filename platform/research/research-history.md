@@ -1102,7 +1102,7 @@ _CMS and Website Teams, Research Leads: Jeff Barnes & Mikki Northius_
 
 _VA.gov CMS team: Megan Casey, Kevin Walsh_
 * 20 participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/content/cms/authoring-experience/research/ax%20research%20-%20discovery%20-%20January%202019)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/VAMC-Pittsburgh-discovery-January2019)
 
 #### January 8-10, 2019: Facility - Discovery
 
