@@ -1096,8 +1096,7 @@ _CMS and Website Teams, Research Leads: Jeff Barnes & Mikki Northius_
 #### January 14-18: Discovery Upload Tool
 *API Team, Research Leads: Ian Hilton & Julia Elman*
 - 6 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/lighthouse/products/APIs/benefits-intake-api/research)
-- [Research Plan](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/lighthouse/products/APIs/benefits-intake-api/research/Digital_Mail_Upload_Form_Research_Plan.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/vets-contrib/tree/master/teams/benefits-team/Upload/Research)
 
 #### January 8-10, 2019: AX Discovery
 
