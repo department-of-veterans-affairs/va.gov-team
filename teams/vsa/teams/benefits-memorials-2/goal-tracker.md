@@ -16,11 +16,11 @@ _**Overview:** This tracker is designed to align sprint goals with quarterly pri
 
 ## Sprint Goals - Sprint 1 [ 1/24/25 - 2/11/25] 
 **_Goals:_** _Check when complete_
-- [ ] UX: Mock up quick reference guide (QPX)
+- [ ] UX: Mockup quick reference guide (QPX)
 - [ ] UX: Work with Contact Center to improve Medallia data (QP4)  
 - [ ] UX: Complete the Feb Medallia Report (QP4)
 - [ ] ENG: The Digital Dispute process is live on staging (QPX)
-- [ ] ENG: Sharepoint errors have a more descriptive notification and are reported to ENG for analysis (QPX)
+- [ ] ENG: SharePoint errors have a more descriptive notification and are reported to ENG for analysis (QPX)
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals
