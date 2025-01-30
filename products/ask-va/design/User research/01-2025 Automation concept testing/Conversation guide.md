@@ -95,16 +95,13 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
 
 Thanks. That's really helpful background for me.
 
-I also want to ask you some questions about automation.
+I also want to ask you some questions about artificial intelligence.
 
-Automation can mean different things. Today, I'm talking about automation where computers are doing the work that people usually do. This could be like having a robot helper take care of a task or help you do a task, like pay your bill automatically or help you summarize an article.
+> If they've never heard of AI: AI is a type of sophisticated automation. It can help you get personalized recommendations or summarize an article, for example.
 
-- Do you know if you've ever used an online tool or service that includes automation?
-- Is it always obvious when something is automated?
-- Is it important to know when something has been automated?
-
-Nowadays, people talk a lot about artificial intelligence, or AI. AI is like a sophisticated form of automation.
-
+- Do you know if you've ever used an online tool or service that includes artificial intelligence?
+- Is it always obvious when something uses artificial intelligence?
+- Is it important to know when something uses artificial intelligence?
 - Do you have any hesitations or concerns about AI?
 - If you think about your interactions with the VA, are there ways that AI could make things easier?
 
