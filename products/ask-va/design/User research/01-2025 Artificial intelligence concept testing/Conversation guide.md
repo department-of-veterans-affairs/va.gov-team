@@ -513,5 +513,5 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 ## Approved by:
 
-- Becky Phung, PO on [TBC]
+- Becky Phung, PO on January 30, 2025
 - Shane Strassberg, VA Research Ops on [TBC]
