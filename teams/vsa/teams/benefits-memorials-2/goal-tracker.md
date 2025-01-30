@@ -23,8 +23,8 @@ _**Overview:** This tracker is designed to align sprint goals with quarterly pri
 - [ ] ENG: SharePoint errors have a more descriptive notification and are reported to ENG for analysis (QPX)
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [ ] Ready to be sent for approvals
- - [ ] VA PO & COR sent the Sprint Goals
+ - [X] Ready to be sent for approvals
+ - [X] VA PO & COR sent the Sprint Goals
  - [ ] VA PO approved the Sprint Goals
  - [ ] VA COR approved the Sprint Goals
  
