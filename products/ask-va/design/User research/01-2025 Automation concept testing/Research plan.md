@@ -86,9 +86,9 @@ We will present 3 concepts to submitters in varying order to understand how they
 
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Conversation%20guide.md)
 * Prototypes
-  * [Prototype A: Recommend a category and topic](add link)
-  * [Prototype B: Ask for a more detailed question](add link)
-  * [Prototype C: Provide helpful links](add link)
+  * [Prototype A: Recommend a category and topic](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=117-8174&t=zZCiEN70ehoO9Epu-1&scaling=scale-down&content-scaling=fixed&page-id=117%3A7572&starting-point-node-id=117%3A8174)
+  * [Prototype B: Ask for a more detailed question](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=139-2957&t=Znc7llXZ2zSJhRXO-0&scaling=min-zoom&content-scaling=fixed&page-id=134%3A4903)
+  * [Prototype C: Provide helpful links](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=73-14487&t=Znc7llXZ2zSJhRXO-0&scaling=scale-down&content-scaling=fixed&page-id=73%3A14484&starting-point-node-id=73%3A14487)
 
 ## Recruitment
 
