@@ -9,7 +9,6 @@ Learn more about the [history of Ask VA](https://github.com/department-of-vetera
 
 - DSVA Slack: [#ask-va-public](https://dsva.slack.com/archives/C05A2F6DEAE)
 - Github Repository: [department-of-veterans-affairs/ask-va](https://github.com/department-of-veterans-affairs/ask-va)
-- Zenhub: [Ask VA](https://app.zenhub.com/workspaces/askva-647a476551689d06655cc815/board)
 
 ## Who we are
 
@@ -18,11 +17,11 @@ Learn more about the [history of Ask VA](https://github.com/department-of-vetera
 |Product Owner (OCTO), Designer|Becky Phung||
 |Product Owner (VES)|Natalie Morales||
 |Program Manager|Megan Siddle|megan.siddle@oddball.io|
-|Product Manager|CeeCee O'Connor|catherine.oconnor@thoughtworks.com|
+|Product Manager|Ariel Martinez|ariel.martinez@thoughtworks.com|
 |Lead Engineer|Joseph Hall|joe.hall@thoughtworks.com|
 |Engineer|Eddie Otero|eddie.otero@oddball.io|
 |Engineer|Khoa Nguyen|khoa.nguyen@oddball.io|
 |Engineer|Hemesh Patel|hemesh.patel@docme360.com|
 |Engineer|Jacob Cheriathundam|jacob@docme360.com|
 |UX Designer|Thomas Michaud|thomas.michaud@oddball.io|
-|UX Researcher/Designer|Tyler Gindraux|tyler@bluetiger.digital|
+|UX Researcher & Designer|Tyler Gindraux|tyler@bluetiger.digital|
