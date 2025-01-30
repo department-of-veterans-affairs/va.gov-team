@@ -13,7 +13,7 @@ There is more information about this initiative in [Phase 2: Initiatives](https:
 
 ## Email content
 
-Note: This content has not been reviewed by the VA.gov content team yet.
+Note: This content has not been reviewed by the VA.gov content team yet. They can help refine the content, so we don't need to worry too closely about this yet.
 
 > Dear [Submitter First Name],
 >
@@ -29,4 +29,4 @@ Note: I’m not sure whether we plan to include a link to a feedback survey? Or,
 
 ## Implementation approach
 
-Note: This will be completed by product with support from engineering and the CRM team. We should build on any exploration we’ve already done related to VA Notify
+Note: This will be completed by product with support from engineering and the CRM team. We should build on any exploration we’ve already done related to VA Notify.
