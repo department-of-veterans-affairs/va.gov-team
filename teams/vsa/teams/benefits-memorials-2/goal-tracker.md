@@ -24,8 +24,7 @@ _**Overview:** This tracker is designed to align sprint goals with quarterly pri
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals
- - [ ] VA PO sent the Sprint Goals
- - [ ] VA COR sent the Sprint Goals
+ - [ ] VA PO & COR sent the Sprint Goals
  - [ ] VA PO approved the Sprint Goals
  - [ ] VA COR approved the Sprint Goals
  
@@ -43,8 +42,7 @@ _**Overview:** This tracker is designed to align sprint goals with quarterly pri
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals
- - [ ] VA PO sent the Sprint Goals
- - [ ] VA COR sent the Sprint Goals
+ - [ ] VA PO & COR sent the Sprint Goals
  - [ ] VA PO approved the Sprint Goals
  - [ ] VA COR approved the Sprint Goals
  
@@ -61,8 +59,7 @@ _**Overview:** This tracker is designed to align sprint goals with quarterly pri
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals
- - [ ] VA PO sent the Sprint Goals
- - [ ] VA COR sent the Sprint Goals
+ - [ ] VA PO & COR sent the Sprint Goals
  - [ ] VA PO approved the Sprint Goals
  - [ ] VA COR approved the Sprint Goals
  
@@ -79,8 +76,7 @@ _**Overview:** This tracker is designed to align sprint goals with quarterly pri
   
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals
- - [ ] VA PO sent the Sprint Goals
- - [ ] VA COR sent the Sprint Goals
+ - [ ] VA PO & COR sent the Sprint Goals
  - [ ] VA PO approved the Sprint Goals
  - [ ] VA COR approved the Sprint Goals
  
