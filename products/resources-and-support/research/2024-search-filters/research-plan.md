@@ -197,11 +197,11 @@ Feb X, 2025 | 12-1, 2-3, 5-6, 7-8 pm
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***).
 	
 ## Team Roles
-- **Moderator:** Cindy Merrill (cindy.merrill@agile6.com)
+- **Moderator:** Rodney Little (rodney.little@civicactions.com)
 - **Research guide writing and task development:** Cindy Merrill
 - **Participant recruiting & screening:** Perigean
-- **Project point of contact:** Cindy Merrill 
-- **Participant(s) for pilot test:** 
+- **Project point of contact:** Cindy Merrill until Feb 7, then Rodney Little
+- **Participant(s) for pilot test:** TBD
 - **Accessibility specialist:** N/A
 - **Note-takers:** Perigean
 - **Observers:** I will have a sign-up sheet for observers 
