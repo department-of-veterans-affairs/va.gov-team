@@ -7,12 +7,12 @@ _**Overview:** This tracker is designed to align sprint goals with quarterly pri
 ## Quarterly Priorities for FY25Q2 (Jan, Feb, Mar 2025)  
 *Quarter Sprints include 1, 2, 3, & 4*
   
-| Priority ID | Description | S.Epic |Status | Notes |  
-|-------------|---------------|-----------------|---------------|  ---------------|  
-| QP1 | Establish One VA Debt Letter PDF in production| [#84175](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84175) | TBD | TBD |   
-| QP2 | Launch Wizard updates in production| [#48133](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/6?pane=issue&itemId=88349041&issue=department-of-veterans-affairs%7Cva.gov-team%7C48133)| TBD |  TBD |  
-| QP3 | Payment History (VHA)  | TBD | TBD |  TBD |  
-| QP4 | CSAT / Medallia Work  | TBD | TBD |  TBD |   
+| Priority ID | Description | S.Epic |Status | Notes | Launch in Production Goal |  
+|-------------|---------------|-----------------|---------------|  ---------------|  ---------------|  
+| QP1 | Establish One VA Debt Letter PDF in production| [#84175](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84175) | TBD | TBD |  March 2025 |
+| QP2 | Launch Wizard updates in production| [#48133](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/6?pane=issue&itemId=88349041&issue=department-of-veterans-affairs%7Cva.gov-team%7C48133)| TBD |  TBD |  March 2025|
+| QP3 | Payment History (VHA)  | [#18859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18859) | TBD |  TBD |  June 2025 or sooner|
+| QP4 | CSAT / Medallia Work  | TBD | TBD |  TBD |   N/A |
 
 ## Sprint Goals - Sprint 1 [ 1/24/25 - 2/11/25] 
 **_Goals:_** _Check when complete_
