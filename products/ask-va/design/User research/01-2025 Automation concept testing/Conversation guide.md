@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: January 29, 2025
+Last updated by @tygindraux: January 30, 2025
 
 ## Moderator logistics
 
@@ -113,7 +113,7 @@ Awesome. Thanks for sharing your thoughts with me.
 - Why do they choose to contact VA (instead of going elsewhere or doing another task)?
 - How do they decide which channel to use when they contact the VA?
 - Have they used or heard of Ask VA or chatbot?
-- Do they recognize when something is automated? How does this change their experience either way?
+- Do they recognize when something uses AI? How does this change their experience either way?
 - What are their key hopes and fears with AI?
 
 </details>
@@ -215,7 +215,7 @@ Great. Okay. We'll stop here. I want to hear your thoughts on this tool and what
 
 - What did you like about this process?
 - What did you find difficult or confusing?
-- Did you feel like any part of this process was automated?
+- Did you feel like any part of this process used artificial intelligence?
 - Is it helpful or not helpful to have a category suggested to you? How so?
 
 Okay, awesome. We're going to move on to the next concept now. You can keep sharing your screen. [Or, jump to cool down.]
@@ -327,7 +327,7 @@ Great. Okay. We'll stop here. I want to hear your thoughts on this tool and what
 
 - What did you like about this process?
 - What did you find difficult or confusing?
-- Did you feel like any part of this process was automated?
+- Did you feel like any part of this process used artificial intelligence?
 - How did you feel when it asked you to edit your question if you didn't like the suggestion?
 
 Okay, awesome. We're going to move on to the next concept now. [Or, jump to cool down.]
@@ -410,7 +410,7 @@ Great. Okay. We'll stop here. I want to hear your thoughts on this tool and what
 
 - What did you like about this process?
 - What did you find difficult or confusing?
-- Did you feel like any part of this process was automated?
+- Did you feel like any part of this process used artificial intelligence?
 - Is it helpful to receive a list of resources and links?
 - Would you choose continue asking your question or navigate to a link instead?
 
@@ -457,9 +457,9 @@ We looked at 3 different ideas. I'm curious...
   <summary>Key things to notice</summary>
   
 - What did they like and what would they change?
-- Do submitters recognize when something is automated or uses AI?
+- Do submitters recognize when something uses AI?
 - How does AI impact their trust, if at all?
-- Do submitters recognize or describe other ways they expect Ask VA to be automated?
+- Do submitters recognize or describe other ways they expect Ask VA to use AI?
 
 </details>
    
