@@ -23,7 +23,7 @@ In Phase 2, we will be guided by these principles:
 |Goal|Initiatives|
 |:--|:--|
 |How we work|[Co-define a product vision with partners](#co-define-a-product-vision-with-partners)<br>[Set up a workflow for tracking and prioritizing business line requests](#set-up-a-workflow-for-tracking-and-prioritizing-business-line-requests)|
-|User experience|[**Priority #1** Test concepts with submitters that involve automation](#priority-1-test-concepts-with-submitters-that-involve-automation)<br>[**Priority #2** Design a page to explain the types of questions within a category](#priority-2-design-a-page-to-explain-the-types-of-questions-within-a-category)<br>[**Priority #3** Do a comparative analysis of contact experiences](#priority-3-do-a-comparative-analysis-of-contact-experiences)<br>[Do research to understand and observe agent processes](#do-research-to-understand-and-observe-agent-processes)<br>[Update designs to use new VA Design System patterns](#update-designs-to-use-new-va-design-system-patterns)|
+|User experience|[**Priority #1** Test concepts with submitters that involve artificial intelligence](#priority-1-test-concepts-with-submitters-that-involve-artificial-intelligence)<br>[**Priority #2** Design a page to explain the types of questions within a category](#priority-2-design-a-page-to-explain-the-types-of-questions-within-a-category)<br>[**Priority #3** Do a comparative analysis of contact experiences](#priority-3-do-a-comparative-analysis-of-contact-experiences)<br>[Do research to understand and observe agent processes](#do-research-to-understand-and-observe-agent-processes)<br>[Update designs to use new VA Design System patterns](#update-designs-to-use-new-va-design-system-patterns)|
 |Data|[Prepare a follow-up email to send after a question is closed](#prepare-a-follow-up-email-to-send-after-a-question-is-closed)<br>[Design a Power BI re-routing report](#design-a-power-bi-re-routing-report)<br>[Support CRM to re-design the primary Ask VA Power BI report](#support-crm-to-re-design-the-primary-ask-va-power-bi-report)|
 
 ### Co-define a product vision with partners
@@ -58,8 +58,8 @@ We will work closely with CRM to define a process to track, prioritize and actio
 #### We will deliver:
 - A shared spreadsheet (or workspace) with a backlog and current tasks
 
-### Priority #1: Test concepts with submitters that involve automation
-We will prototype and test concepts where a submitter interacts with some type of automation. This might include testing concepts where a submitter receives an answer to a simple, close-ended question up front, or, where a submitter chooses a category, types their question and a topic is recommended to them. 
+### Priority #1: Test concepts with submitters that involve artificial intelligence
+We will prototype and test concepts where a submitter interacts with some type of artificial intelligence. This might include testing concepts where a submitter receives an answer to a simple, close-ended question up front, or, where a submitter chooses a category, types their question and a topic is recommended to them. 
 
 #### This initiative will:
 - Be led by design
