@@ -1109,7 +1109,7 @@ _VA.gov CMS team: Megan Casey, Kevin Walsh_
 _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 
 * 20 participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/Facility%20research%20-%20discovery%20-%20January%202019)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/discovery%20-%20January%202019)
 
 ### November 2018
 
