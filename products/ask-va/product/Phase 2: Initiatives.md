@@ -1,6 +1,6 @@
 # Phase 2: Initiatives - January to March
 
-Last updated by @tygindraux: January 17, 2025
+Last updated by @tygindraux: January 30, 2025
 
 ## Goals
 In Phase 2, we will find a balance between making quick, responsive improvements to the product while also bringing partners along on the journey. 
@@ -137,8 +137,8 @@ We will update any designs to use new VA Design System patterns, where relevant.
 We will write a follow-up email that should be sent to every submitter after a question is closed by an agent. This will allow us to capture inquiry specific feedback after the last step in a user’s journey. We can use this feedback to learn whether replies from VA are helping submitters complete the tasks they set out to do.
 
 #### This initiative will:
-- Be led by design
-- Be supported by product and engineering
+- Be led by design and product
+- Be supported by engineering and CRM
 - Be timeboxed to 1 sprint
 - Involve drafting content and getting it reviewed by CAIA
 - Involve learning how to implement an email
