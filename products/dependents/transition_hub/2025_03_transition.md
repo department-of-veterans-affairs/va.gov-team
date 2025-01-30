@@ -19,7 +19,6 @@
    - Launched on VA.gov: May 2018 with 674 form flow
    - 686c annual submission volume: 342,750 (2024)
    - Current pdf version on VA.gov: AUG 2022
-674 annual submission volume: 73,300 (2024)
 - The online form flow for the 21-686c form is integrated with the 21-674 form (Request for Approval of School Attendance). The 674 form is used to extend benefits to a Veteran’s child if they are between 18-23 years old and attending school full time. Normally, a minor child dependent ages out of benefits when they turn 18 unless a 674 is filed indicating the child is in school.
    - [About VA Form 21-674 (Request for Approval of School Attendance)](https://www.va.gov/find-forms/about-form-21-674/)
    - Launched on VA.gov: May 2018 with 686 form flow
@@ -27,7 +26,7 @@
    - Current pdf version on VA.gov: OCT 2021
 - The 21-0538 (Mandatory Verification of Dependents) is currently a paper form that this team was tasked with turning into an online tool. Preliminary research on a lightweight prototype was completed in Feb/Mar 2025.
    - [About VA Form 21-0538 (Mandatory Verification of Dependents)](https://www.va.gov/find-forms/about-form-21-0538/)
-   - 113,928 paper submitted forms per year
+   - 113,928 paper forms submitted per year
 
 ### Product Goal
 Make the online dependent experience as easy to complete and cohesive as possible, while ensuring that Veterans verify dependent information on a regular basis and that submissions are reliable and processed as quickly as possible.
