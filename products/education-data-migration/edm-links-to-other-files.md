@@ -9,12 +9,12 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 - [Collaboration Cycle for Education Data Migration, Yellow Ribbon Tool #90888](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90888)
 - [CAIA Intake for Yellow Ribbon Tool #92367](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92367)
 ### Design Intent Feedback
-- [Design Intent - IA Feedback #96852](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96852#event-15254368406)
-- [Design Intent - Accessibility Feedback #96915](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96915#event-15270298759)
+- [Design Intent - IA Feedback #96852](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96852#event-15254368406) - replied to all feedback 1/28/2025
+- [Design Intent - Accessibility Feedback #96915](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96915#event-15270298759) - replied to all feedback 1/28/2025
 ### Midpoint Review Feedback
-- [Midpoint Review - Accessibility Feedback - Education Data Migration, Yellow Ribbon Tool #99571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99571#event-15736459684)
-- [Midpoint Review - Content Feedback - Education Data Migration, Yellow Ribbon Tool #99563](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99563)
-- [Midpoint Review - IA Feedback - Education Data Migration, Yellow Ribbon Tool #99953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99953#event-15810387277)
+- [Midpoint Review - Accessibility Feedback - Education Data Migration, Yellow Ribbon Tool #99571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99571#event-15736459684) - replied to all feedback 1/28/2025
+- [Midpoint Review - Content Feedback - Education Data Migration, Yellow Ribbon Tool #99563](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99563) - replied to all feedback 1/30/2025
+- [Midpoint Review - IA Feedback - Education Data Migration, Yellow Ribbon Tool #99953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99953#event-15810387277) - replied to all feedback 1/28/2025
 ### Research Submission Feedback
 - [2025-01 Yellow Ribbon Program info in CT #764](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/764)
 
