@@ -23,9 +23,8 @@ After launching on VA.gov, we will focus on making quick, responsive improvement
 
 ### OCTO priorities
 
-This research supports the following OCTO FY24 priority:
-
-* Better experiences: Our digital experiences are the best way to access VA health care and benefits.
+This research supports the following OCTO FY25 priority:
+- Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.  
 
 ### Veteran journey
 
