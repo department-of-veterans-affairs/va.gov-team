@@ -11,7 +11,7 @@
 
 [Features and initiatives we worked on](#Features-and-initiatives-we-worked-on)
 
-[Our team, VA relationships, and stakeholder meeting cadence](#Our-team-March-2022-team-roster)
+[Our team, VA relationships, and stakeholder meeting cadence](#Our-team-2024/25-roster)
 
 ## Product context 
 - The online 21-686c form allows Veterans to add or remove dependents to/from their VA disability compensation or pension benefits. If a Veteran is supporting a dependent, they may be eligible to receive additional disability or pension compensation.
@@ -45,9 +45,11 @@ Make the online dependent experience as easy to complete and cohesive as possibl
 #### 21-0538 Mandatory Verification of Dependents (paper form)
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/README.md)
 - [Initative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md)
-- [Form Flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1715184967262) (proposed)
-- [Wireframes](https://www.figma.com/design/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?node-id=59-960&t=yWIz3IUP2uFChYib-0) (Figma)
-- Research
+- [Form Flow (proposed)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1715184967262) (proposed)
+- [Wireframes (proposed)](https://www.figma.com/design/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?node-id=59-960&t=yWIz3IUP2uFChYib-0) (Figma)
+- [MVP Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1723479332670)
+- [IA/User Flow Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=522-1737736233308)
+- [MVP Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research/2025-02-dependents-verification-mvp-research)
 
 ### Product artifacts
 - Content source of truth
@@ -79,14 +81,18 @@ Make the online dependent experience as easy to complete and cohesive as possibl
    - [Vets-Website](https://github.com/department-of-veterans-affairs/vets-website)
  
 ### Latest Discovery Research
-- Research folder
-- Research readout
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research)
+- [Dependents Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research/2023-09-dependents-research)
+- [Dependency Verification Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research/2025-02-dependents-verification-mvp-research)
 
 ### Team resources
 - [Team Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1237/views/12?sliceBy%5Bvalue%5D=686%2F674) (GitHub)
 - Sprint Planning
 - [Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692908527043/0da94b7ded52e8a943d798bcb8ae39697c2fb56f?wid=120-1729780466015) (Mural)
-
+- Ticketing
+   - Team label: dependents-benefits
+   - Product label: 686, 674, dependent-verification (if ticket is specific to one, but not all forms)
+   - Workstream: product, design, or engineering + frontend or backend
 
 ## Roadmap
 ### Done (recently)
@@ -115,14 +121,14 @@ Make the online dependent experience as easy to complete and cohesive as possibl
 
 ## Features and initiatives we worked on
 This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
-|Feature (Github link)|Completed|
-|---------------------|------|
+|Feature|Completed|
+|-------|---------|
 |Backup submission pathway implemented|Oct 5, 2023|
 |Code Yellow 1 closed. All failed dependency claims were rememdiated.|Aug 24, 2024|
 |Updated VA.gov to submit the Aug 2022 version of the 686c pdf (instead of the Sep 2018 version)|Aug 13, 2024|
 |Updated VA.gov to submit the Oct 2021 version of the 674 pdf (instead of the Jun 2019 version)|Aug 13, 2024|
 |“Action needed” emails to alert Veterans of a claim failure implemented|Nov 12, 2024|
-|Annual net worth value updated from $155,356 to the 2025 value of $159,240. This needs to be manually updated every year by November 30. Ticket to automate update is [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96876).| Dec 2, 2024|
+|Annual net worth value updated from $155,356 to $159,240. It needs to be manually updated every year by November 30. Ticket to automate update is [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96876).| Dec 2, 2024|
 |[686/674 form updated to v3 components](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/form_updates/Initiative-Brief-686-674-Form-Updates.md)| Mar 2025|
 |User research on dependency verification tool prototype|Feb/Mar 2025| 
 
@@ -131,7 +137,7 @@ This table includes links to the individual feature directory and the latest ite
 - [Dependent form updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74059) | [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/form_updates/Initiative-Brief-686-674-Form-Updates.md) | [CAIA Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75068)
 - [CAIA Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89314) for dependent card updates
 
-### Our team 2024/25 team roster
+### Our team 2024/25 roster
 - Product manager: Laura Steele | laura.steele1@va.gov / laura.steele@coforma.io
 - Engineering Lead: Matthew Knight | matthew.knight3@va.gov / matt.knight@coforma.io
 - Delivery Lead: Amy Plange | amy.plange@va.gov/ amy.plange@coforma.io
@@ -160,4 +166,7 @@ This table includes links to the individual feature directory and the latest ite
 |Yvette Allmond|Management Analyst|Office of Mission Support|yvette.allmond@va.gov | Source for providing unlocked pdf files that can be edited by VA.gov.|
 
 #### Reoccuring Stakeholders Meetings
-- Bi-weekly Dependents Product Sync with Kevin and design/research, product, and VA Leads
+- Bi-weekly Dependents Design Sync with Kevin, design/research, product, and VA Leads
+- Bi-weekly Product Sync with VA Leads, product manager, and delivery lead
+- Weekly engineering sync with VA Engineering Crew Lead and team Engineering Lead
+- Weekly design sync with VA Design Crew Lead, team design/researchers, product manager
