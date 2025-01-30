@@ -48,14 +48,14 @@ In Sprint 24 the team provided support for multiple features and initiatives, ou
   * Clinical Encounter Service replaced use of the “vista-500” with “spl-vista” in Acheron to enable quicker turnaround times when applying new patches.
 
 ## 🏆 Sprint Goals and Stories
-🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
-
+🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started; ⚠️ Removed from sprint 
 * 🔴 Appointment Cancellation
 * 🟢 Appointment Requests
+  * 🧗‍♀️[VPG-320 VPG: Update cerner appointment source filtering](https://issues.mobilehealth.va.gov/browse/VPG-320)
 * 🟠 Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
 * 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
 * 🟤 VetsAPI Logic Integration Support
-   * [VGP-309 VPG: Move logic for determining if an appointment in the response should be displayed to the user](https://issues.mobilehealth.va.gov/browse/VPG-309)
+   * ⚠️[VGP-309 VPG: Move logic for determining if an appointment in the response should be displayed to the user](https://issues.mobilehealth.va.gov/browse/VPG-309)
    * [VPG-308 VPG: Move any existing logic for Past appointment logic to vets-api](https://issues.mobilehealth.va.gov/browse/VPG-308)
 * 🔵 Direct Scheduling
    * [CES-1299 CES: Determine EHR on appointment creation request](https://issues.mobilehealth.va.gov/browse/CES-1299)
