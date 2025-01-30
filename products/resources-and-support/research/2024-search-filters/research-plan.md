@@ -48,9 +48,7 @@ Validate the proposed design so we can start building it. There will be a second
 
 Navigation items to observe usage of:
 - Header
-  - Hamburger menu (mobile)
-  - Mega menu (desktop)
-  - Search button (desktop)
+  - Hamburger menu 
 - Landing page
   - Search box
   - Show filters button
@@ -96,9 +94,6 @@ Navigation items to observe usage of:
 
 ## Methodology	
 We will conduct **remote moderated usability testing** to observe research participants using a mobile prototype. 
-
-(Note: Usability testing with desktop users and a desktop prototype will be a followup study.)
-
 
 ### Location
 Sessions will be conducted remotely over Zoom with transcripts. 
@@ -165,42 +160,46 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 ### Prepare - WIP
 Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.  
 
-Cindy is available for a kickoff call during any of these times: 
-- **Thu Jan X** 12 - 5 pm ET
-- **Fri Jan Y** 12 - 5 pm ET
+Dave and Rodney are available for a kickoff call during any of these times: 
+- **Mon Feb 10** TBD ET
+- **Tue Feb 11** TBD ET
 
-Please invite Cindy (cindy.merrill@agile6.com) and Dave (dave.pickett@civicactions.com) to the kickoff call.
+Please invite Rodney Little (rodney.little@civicactions.com) and Dave (dave.pickett@civicactions.com) to the kickoff call.
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
 We will schedule 1-2 **pilot tests**:
-- Pilot 1: **Jan Y at X pm ET** with TBD email
-- Pilot 2: **Jan Z at X pm ET** with TBD email
+- Pilot 1: **Feb TBD X pm ET** with TBD email
+- Pilot 2: **Feb TBD at X pm ET** with TBD email
 
 ### Research sessions - WIP
-Planned dates of research: **February X-Y, 2025** 
+Planned dates of research: **February 17-21, 2025** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
 
 ### Length of sessions 
 * Session length: **60 minutes** 
-* Buffer time between sessions: 1 hour
-* Maximum sessions per day: 3
+* Buffer time between sessions: 30 minutes
+* Maximum sessions per day: 4
 
 ### Availability - WIP
+
 Team Availability | Time Slots (ET)
 ------------------|--------------
-Feb X, 2025 | 12-1, 2-3, 5-6, 7-8 pm
+Feb 17, 2025 | 9-10, 10:30-11:30, 12-1, 1:30-2:30, 4-5, 5:30-6, 6:30-7:30 
+Feb 18, 2025 | 9-10, 1:30-2:30, 4-5, 5:30-6, 6:30-7:30 
+Feb 19, 2025 | 9-10, 10:30-11:30, 4-5, 5:30-6, 6:30-7:30 
+Feb 20, 2025 | 9-10, 10:30-11:30, 12-1, 1:30-2:30, 4-5, 5:30-6, 6:30-7:30 
+Feb 21, 2025 | 9-10, 4-5, 5:30-6, 6:30-7:30 
 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***).
+- **TBD Rodney: Might drop 4 slots so only provide 24**
 	
 ## Team Roles
 - **Moderator:** Rodney Little (rodney.little@civicactions.com)
-- **Research guide writing and task development:** Cindy Merrill
+- **Research guide writing and task development:** Cindy Merrill (cindy.merrill@agile6.com)
 - **Participant recruiting & screening:** Perigean
-- **Project point of contact:** Cindy Merrill until Feb 7, then Rodney Little
+- **Project point of contact:** Cindy Merrill only thru Feb 7 (cindy.merrill@agile6.com), Rodney Little (rodney.little@civicactions.com), and Dave Pickett (dave.pickett@civicactions.com)
 - **Participant(s) for pilot test:** TBD
 - **Accessibility specialist:** N/A
 - **Note-takers:** Perigean
