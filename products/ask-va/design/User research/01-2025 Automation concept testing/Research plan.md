@@ -139,13 +139,11 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 
 ## Pilot session
 
-Perigean does **not** need to set up our pilot session. Tyler will schedule and add participants herself.
+Perigean does **not** need to set up our pilot session. Tyler will schedule herself.
 
 ### Pilot
 
-> **Please note:** I will update this once we have scheduled a pilot participant.
-
-- Pilot participant: TBD
+- Pilot participant: Joe Hall
 - Date and time of pilot session: TBD on Feb 10th
 
 ## Research sessions
@@ -173,7 +171,7 @@ We will provide 20 time slots, with the aim to book 10 sessions. Please prioriti
 * Research guide writing and task development: Tyler Gindraux
 * Participant recruiting & screening: Perigean
 * Project point of contact: Tyler Gindraux
-* Participant for pilot test: TBD (Tyler will add to pilot session herself.)
+* Participant for pilot test: Joe Hall (Tyler will schedule pilot session herself.)
 * Accessibility specialist: -
 * Notetakers: Tyler will add notetakers to the invites herself.
 * Observers: Tyler will add observers to the invites herself.
