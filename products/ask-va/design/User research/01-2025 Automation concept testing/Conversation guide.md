@@ -210,6 +210,7 @@ Let's say that you think your question is actually about health care.
 > Screen: Your topic.
 
 - Without clicking anything yet, what is this page about?
+- Do any of these topics better relate to your question?
 
 Great. Okay. We'll stop here. I want to hear your thoughts on this tool and what you just did.
 
@@ -293,7 +294,7 @@ Without clicking anything, just talk me through what you need to do here.
 - Do you need to delete part of your question?
 - Do you need to add information to your question?
 
-Let's pretend that you added information to your question. You can just click anywhere on your screen.
+Let's pretend that you added information to your question. You can click on the text box with the question.
 
 Okay, so now you have more information in your question.
 
@@ -316,12 +317,14 @@ Go ahead and click no and we'll continue.
 
 - What is this page asking you to do?
 - Why is it asking you to choose a category?
+- Why do you think “Health care” is already selected?
 
 Let's go ahead and choose 'Health care' and continue.
 
 > Screen: Select the topic of your question.
 
 - Without clicking anything yet, what is this page about?
+- Do any of these topics better relate to your question?
 
 Great. Okay. We'll stop here. I want to hear your thoughts on this tool and what you just did.
 
