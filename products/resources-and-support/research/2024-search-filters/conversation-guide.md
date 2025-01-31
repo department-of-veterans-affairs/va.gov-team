@@ -158,6 +158,9 @@ Imagine that a few weeks ago you submitted a request to have your VA benefit app
 - [Note if clicked on filter chips in search results / content page]
 - [Note any confusions or feedback] 
 
+What if this this page doesn't answer your question? What would you do next?
+- [Navigation path: *Filter tags / Landing page*]
+
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
 - [Found target (Choosing a decision review option)? successful / needed help / unsuccessful]
@@ -183,6 +186,10 @@ Now imagine that you currently receive health care through the VA. You've heard 
 
 - [Does the participant understand meaning of *Community care*?]
 
+What if this this page doesn't answer your question? What would you do next?
+- [Navigation path: *Filter tags / Landing page*]
+
+
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
 - [Found target (Eligibility for community care)? successful / needed help / unsuccessful]
@@ -207,7 +214,7 @@ Let's assume that you just visited a VA medical center for an appointment, and y
 - [Note any confusions or feedback] 
 
 What if this this page doesn't answer your question? What would you do next?
-- [Navigation path: *Search / Filters / Landing page*]
+- [Navigation path: *Filter tags / Landing page*]
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
@@ -232,8 +239,8 @@ Please go back to the first page you were on [landing pg via breadcrumb or anoth
 - [Note if clicked on filter chips in search results / content page]
 - [Note any confusions or feedback] 
 
-What if this this page didn't answer your question? What would you do next?
-- [Navigation path: *Search / Filters / Landing page*]
+What if this this page doesn't answer your question? What would you do next?
+- [Navigation path: *Filter tags / Landing page*]
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
@@ -279,6 +286,9 @@ Let's say that you're wondering whether you owe the VA any money. Show me how yo
   - [+ which tags within the filters]
 - [Note if clicked on filter chips in search results / content page]
 - [Note any confusions or feedback] 
+
+What if this this page doesn't answer your question? What would you do next?
+- [Navigation path: *Filter tags / Landing page*]
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
