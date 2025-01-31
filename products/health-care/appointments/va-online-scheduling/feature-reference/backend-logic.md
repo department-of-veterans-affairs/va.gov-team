@@ -56,21 +56,24 @@ Appointments that Veterans have requested but VA has not booked.
 
 ## Determining if a user is eligible to schedule or request into a clinic
 
-Except for Primary Care and COVID, all types of care have CCM Settings:  
+Except for Primary Care, and COVID, all types of care have CCM Settings:  
    1) Yes, Any 
    2) Yes Seen within Last 12 months 
    3) Yes within last 36 months 
-   4) No     
--  Primary Care Direct has only two settings, Yes with PACT and No. 
-- Unlike the other types of care which can have up to a limit of two requests at a time, Primary Care has a limit of one.  
-- COVID has Yes and No.  COVID is only for direct scheduling and unlike all the other types of care does NOT have a Request setting.  
+   4) No
 
-**A Veteran's direct scheduling eligibility for PRIMARY CARE must be set to true if:**
+-  Primary Care Direct has only two settings, Yes with PACT and No.
+- VAOS does not require past history to schedule mental health and primary care appointments.
+   - On the front end, VAOS exempts Mental Health appointments and primary care) from the past appointment history checks [here](https://github.com/department-of-veterans-affairs/vets-website/blob/80bf5a603d7802dd3b9cf1a381dbd10fcf5047eb/src/applications/vaos/new-appointment/components/ClinicChoicePage/useClinicFormState.jsx#L62-L70) and [here](https://github.com/department-of-veterans-affairs/vets-website/blob/80bf5a603d7802dd3b9cf1a381dbd10fcf5047eb/src/applications/vaos/services/patient/index.js#L284-L289), [here](https://github.com/department-of-veterans-affairs/vets-website/blob/80bf5a603d7802dd3b9cf1a381dbd10fcf5047eb/src/applications/vaos/services/patient/index.js#L380-L393). 
+- Unlike the other types of care which can have up to a limit of two requests at a time, Primary Care has a limit of one. 
+- COVID has Yes and No.  COVID is only for direct scheduling and unlike all the other types of care does NOT have a Request setting.
+
+**A Veteran's direct scheduling eligibility for PRIMARY CARE or MENTAL HEALTH must be set to true if:**
 - CCM has type of care set to Yes 
 - AND Veteran has an assigned PACT team. 
 -  Else set to false
 
-**A Veteran's request eligibility for PRIMARY CARE must be set to true if:**
+**A Veteran's request eligibility for PRIMARY CARE or MENTAL HEALTH must be set to true if:**
 -  Veteran does not have a pending primary care request created within the last 120 days 
 - AND CCM has type of care set to Yes. 
 - Else set to false. 
