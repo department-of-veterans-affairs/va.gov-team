@@ -204,5 +204,5 @@ Feb 21, 2025 | 9-10, 4-5, 5:30-6, 6:30-7:30
 - **Observers:** We will have a sign-up sheet for observers 
 
 ## Approvals
-- Michelle Middaugh (Sitewide PO) on Feb X, 2025
+- Michelle Middaugh (Sitewide PO) on Jan 31, 2025
 - Shane Strassberg (VA Research Ops) on Feb X, 2025

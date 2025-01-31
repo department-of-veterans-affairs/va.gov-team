@@ -325,11 +325,14 @@ Please go back to the first page you were on [landing pg via breadcrumb or anoth
 1. [If they didn't use filters at all] Did you see the words with light blue underneath them?
      1. What do you think they are, and how might you use them?
      1. I don't remember you using them before. Can you tell me more about that? 
+     1. Would you like to try them now?
+          1. [After they try...] What do you think about using them? [want to know whether they changed the search results as expected]
      1. Which ones are you unsure about what they mean?
      1. Are there any missing that you think should be there? 
 1. [If they used filters] Let's look back at the filters you were using.
-     1. Which ones are you unsure about what they mean?
-     1. Are there any missing that you think should be there? 
+     1. What did you think about using them? [want to know whether they changed the search results as expected]
+     1. Which filters are you unsure about what they mean?
+     1. Are there any filters missing that you think should be there? 
 1. Is there anything else that we haven't talked about that you think I should know? 
 
 **Are you still okay if we use any video or audio clips from this session?** *(yes / no)*
@@ -352,6 +355,6 @@ Thank you so much again, and I hope that enjoy the rest of your day!
 We have covered all the questions I have for you today. Thank you so much for your time and feedback!
 
 ## Approvals
-- Michelle Middaugh (Sitewide PO) on Feb X, 2025
+- Michelle Middaugh (Sitewide PO) on Jan 31, 2025
 - Shane Strassberg (VA Research Ops) on Feb X, 2025
 
