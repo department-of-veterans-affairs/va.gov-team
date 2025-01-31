@@ -50,7 +50,7 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Desired date range or test duration: 2/24-2/28
+- Desired date range or test duration: 3/10-3/14
 - Desired number of users: 9
 - How you'll recruit the right production test users: Through Perigean, we will identify 9 eligible claimants with appointments in the last 30 days who are able to file a simple, mileage-only claim.
 - How you'll conduct the testing: Cara Frissell, our UX researcher, will conduct UAT
@@ -74,7 +74,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: 3/10-3/21
+- Desired date range: 3/24-4/2
 - How will you make the product available in production while limiting the number of users who can find/access it: Using the feature flag
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   - [FILL_IN] : list
@@ -91,7 +91,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 1 day, 3/3
+- Length of time: 1 day, 3/24
 - Percentage of Users (and roughly how many users do you expect this to be): 5%
 
 #### Results
@@ -108,7 +108,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 2 days, 3/4-3/5
+- Length of time: 2 days, 3/25-3/26
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
@@ -125,7 +125,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 2 days, 3/6-3/7
+- Length of time: 4 days, 3/27-3/30
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
@@ -142,7 +142,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 2 days, 3/10-3/11
+- Length of time: 2 days, 3/31-4/1
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
@@ -157,7 +157,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 1 day, 3/12
+- Length of time: 1 day, 4/2
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
