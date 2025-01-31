@@ -67,7 +67,7 @@ This is very much like a staging review but done in production! This is useful f
 We can provide training and resources for you and your team on accessibility best practices and methodologies above and beyond what Governance offers at onboarding. Also, don't miss the [accessibility champs program](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs)!
 
 ### Spot checks, general guidance
-We are always here for more general, off-the-cuff questions! Never hesitate to reach out to us on the DSVA Slack in either [#accessibility-helpl](https://dsva.slack.com/archives/C8E985R32) or the `pending name` channels.
+We are always here for more general, off-the-cuff questions! Never hesitate to reach out to us on the DSVA Slack in either [#accessibility-help](https://dsva.slack.com/archives/C8E985R32) or the `pending name` channels.
 
 ## How to contact us
 ### Reach out via Slack
