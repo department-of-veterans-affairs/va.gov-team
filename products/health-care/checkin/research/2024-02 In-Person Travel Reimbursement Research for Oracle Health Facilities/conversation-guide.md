@@ -13,7 +13,7 @@ Upon arrival at the clinics, take notes on the following:
 -   _How is the phone (e.g., SMS) and internet service?_
 
 #### Testing facility wi-fi:
-Take time to test the wi-fi while on site and determine if a back-up plan is needed. Some sites will have decent overall connectivity, while others may not and could require a longer process to troubleshoot/connect. Make sure you thoroughly understand the process at each site and are able to walk Veterans through it, if needed. 
+Take time to test the wi-fi while on site and determine if a back-up plan is needed. Some sites will have decent overall connectivity, while others may not and could require a longer process to troubleshoot/connect. Make sure to thoroughly understand the process at each site and be able to walk Veterans through it, if needed. 
 
 Back-up plans to try:
 - Be ready to walk Veterans through connecting to wi-fi at different sites (which might require different approaches). Note: this may increase the session time considerably. 
