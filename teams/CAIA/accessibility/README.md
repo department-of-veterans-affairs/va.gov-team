@@ -75,7 +75,7 @@ Reach out to ADE accessibility specialists through our `pending` Slack channel, 
 - @`handle-is-pending` (CAIA's accessibility specialists)
 
 ### Submit an intake ticket
-To start formally working with ADE accessibility specialists, submit a [Sitewide Content, Accessibility, and IA intake form ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2CNaomiPMC&labels=sitewide+CAIA&projects=&template=sitewide-CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E) in GitHub.
+To start formally working with ADE accessibility specialists, submit an intake ticket `Link Pending`in GitHub.
 
 ### Attend ADE office hours
 You can also reach us by attending our weekly office hours on `Day` at `Time` PM Eastern on Zoom. Sign up for a time slot on `TBD`
