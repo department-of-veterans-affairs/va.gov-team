@@ -17,7 +17,7 @@ Take time to test the wi-fi while on site and determine if a back-up plan is nee
 
 Back-up plans to try:
 - Be ready to walk Veterans through connecting to wi-fi at different sites (which might require different approaches). Note: this may increase the session time considerably. 
-- Try out the process without having Veterans connect to wi-fi, if cell-phone service is adequate.
+- Try out the application without having Veterans connect to wi-fi, if cell-phone service is adequate.
 - If still unable to connect, have a mobile prototype on-hand and have Veterans go through the process using the prototype. (Ideally, we should not have many of these, as viewing real data is important for this study.) 
 
 * * * * *
