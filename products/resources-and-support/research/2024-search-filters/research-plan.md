@@ -161,8 +161,8 @@ We would like Perigean to walk the participants through
 Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.  
 
 Dave and Rodney are available for a kickoff call during any of these times: 
-- **Mon Feb 10** TBD ET
-- **Tue Feb 11** TBD ET
+- **Mon Feb 10** 10 am - 5 pm ET
+- **Tue Feb 11** 10 am - 1 or 2-5 pm ET
 
 Please invite Rodney Little (rodney.little@civicactions.com) and Dave (dave.pickett@civicactions.com) to the kickoff call.
 
