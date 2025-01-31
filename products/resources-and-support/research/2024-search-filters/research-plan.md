@@ -201,8 +201,8 @@ Feb 21, 2025 | 9-10, 4-5, 5:30-6, 6:30-7:30
 - **Participant(s) for pilot test:** TBD
 - **Accessibility specialist:** N/A
 - **Note-takers:** Perigean
-- **Observers:** I will have a sign-up sheet for observers 
+- **Observers:** We will have a sign-up sheet for observers 
 
 ## Approvals
-- Michelle Middaugh (Sitewide PO) on Feb XX, 2025
-- Shane Strassberg (VA Research Ops) on Feb XX, 2025
+- Michelle Middaugh (Sitewide PO) on Feb X, 2025
+- Shane Strassberg (VA Research Ops) on Feb X, 2025
