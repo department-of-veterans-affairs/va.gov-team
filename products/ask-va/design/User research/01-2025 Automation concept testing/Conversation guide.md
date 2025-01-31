@@ -139,7 +139,7 @@ I just sent you a link in the Zoom chat.
 
 Thanks! Now I’m able to see your screen too.
 
-> Screen: Prototype 1, 2 or 3 depending on the session. The order to show the prototypes is noted in our schedule.
+> Screen: Prototype A, B or C depending on the session. The order to show the prototypes is noted in our schedule.
 
 Okay, so now let me tell you a little bit about this website.
 
