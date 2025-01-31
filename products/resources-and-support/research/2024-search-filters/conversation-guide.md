@@ -150,7 +150,7 @@ Imagine that a few weeks ago you submitted a request to have your VA benefit app
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
-  - Please try *Search suggestion **D***
+  - Please try Search suggestion **D**, and pretend you typed "reconsider benefits"
 
 - [If they try **Show filters**...]
   - [Note which filters used: *Audience / Benefit / Topic*]
@@ -176,7 +176,7 @@ Now imagine that you currently receive health care through the VA. You've heard 
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
-  - Please try *Search suggestion **C***
+  - Please try Search suggestion **C**, and pretend you typed "pay health care"
 
 - [If they try **Show filters**...]
   - [Note which filters used: *Audience / Benefit / Topic*]
@@ -205,7 +205,7 @@ Let's assume that you just visited a VA medical center for an appointment, and y
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
-  - Please try *Search suggestion **T***
+  - Please try Search suggestion **T**, and pretend you typed "submit train receipt"
 
 - [If they try **Show filters**...]
   - [Note which filters used: *Audience / Benefit / Topic*]
@@ -231,7 +231,7 @@ Please go back to the first page you were on [landing pg via breadcrumb or anoth
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
-  - Please try *Search suggestion **E***
+  - Please try Search suggestion **E**, and pretend you typed "application documents"
 
 - [If they try **Show filters**...]
   - [Note which filters used: *Audience / Benefit / Topic*]
@@ -257,7 +257,7 @@ Let's say that you want to refill a prescription but you're having some difficul
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
-  - Please try *Search suggestion **S***
+  - Please try Search suggestion **S**, and pretend you typed "get into VA account"
 
 - [If they try **Show filters**...]
   - [Note which filters used: *Audience / Benefit / Topic*]
@@ -279,7 +279,7 @@ Let's say that you're wondering whether you owe the VA any money. Show me how yo
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
-  - Please try *Search suggestion **P***
+  - Please try Search suggestion **P**, and pretend you typed "owe VA money"
 
 - [If they try **Show filters**...]
   - [Note which filters used: *Audience / Benefit / Topic*]
@@ -304,7 +304,7 @@ Let's say that you're thinking about looking for a different kind of job, and yo
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
-  - Please try *Search suggestion **J***
+  - Please try Search suggestion **J**, and pretend you typed "job help"
 
 - [If they try **Show filters**...]
   - [Note which filters used: *Audience / Benefit / Topic*]
