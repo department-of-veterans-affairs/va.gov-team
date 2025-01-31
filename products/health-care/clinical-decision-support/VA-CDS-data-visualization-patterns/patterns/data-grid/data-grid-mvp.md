@@ -135,7 +135,8 @@ _pending_
 <br>
 
 ## Research
-_(words words, lorem ipsum and link to mural?)_
+- Design Discovery: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1732294922350/bdc7dd116749c0c5b60c31c2e3544ecefe0b1b67
+- Technical Discovery: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738345863261/30f1c468a1624514b5a9319a74a088609cbc4c18
 <br>
 
 ## Design
