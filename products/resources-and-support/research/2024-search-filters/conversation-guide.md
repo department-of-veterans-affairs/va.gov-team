@@ -8,13 +8,12 @@
 
 ### 10-15 min before session:
 - Slack Perigean notetaker the link to notes doc in github
-- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
-     - Post p# and "observer instructions" in #feedback-backchannel
+- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers and post there:
+     - Post p# and brief summary of participant demographic info
      - @mention team members
-     - Share brief summary of participant demographic info
      - Mural link for notetaking
-     - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-     - Mute your Slack notifications.
+     - Send out [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+     - Mute your Slack notifications
 
 ### 5-10 min before session: Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting
 
@@ -23,8 +22,7 @@
 - Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON
 - Open standalone browser windows with prototype link: **LINK TBD**
 - Do Not Disturb ON so no notifications
-- In the Attendees section, make sure everyone except the participant is on mute.
-- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+- In the Participants window, make sure everyone except the participant and moderator are on mute.- In the Participant "more" menu, make sure "Play join and leave sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
 
 *When the participant is ready, turn on your camera and begin session with the intro*
@@ -152,7 +150,7 @@ Imagine that a few weeks ago you submitted a request to have your VA benefit app
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
-  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+  - Please try *Search suggestion **D***
 
 - [If they try **Show filters**...]
   - [Note which filters used: *Audience / Benefit / Topic*]
@@ -162,7 +160,7 @@ Imagine that a few weeks ago you submitted a request to have your VA benefit app
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target content? successful / needed help / unsuccessful]
+- [Found target (Choosing a decision review option)? successful / needed help / unsuccessful]
 
 
 ## Task 3: Community Care 
@@ -175,7 +173,7 @@ Now imagine that you currently receive health care through the VA. You've heard 
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
-  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+  - Please try *Search suggestion **C***
 
 - [If they try **Show filters**...]
   - [Note which filters used: *Audience / Benefit / Topic*]
@@ -187,7 +185,7 @@ Now imagine that you currently receive health care through the VA. You've heard 
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target content? successful / needed help / unsuccessful]
+- [Found target (Eligibility for community care)? successful / needed help / unsuccessful]
 
 
 ## Task 4: Travel reimbursement
@@ -200,7 +198,7 @@ Let's assume that you just visited a VA medical center for an appointment, and y
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
-  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+  - Please try *Search suggestion **T***
 
 - [If they try **Show filters**...]
   - [Note which filters used: *Audience / Benefit / Topic*]
@@ -213,7 +211,7 @@ What if this this page doesn't answer your question? What would you do next?
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target content? successful / needed help / unsuccessful]
+- [Found target (How to file VA travel reimbursement)? successful / needed help / unsuccessful]
 
 
 ## Task 5: Evidence to support claim
@@ -226,7 +224,7 @@ Please go back to the first page you were on [landing pg via breadcrumb or anoth
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
-  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+  - Please try *Search suggestion **E***
 
 - [If they try **Show filters**...]
   - [Note which filters used: *Audience / Benefit / Topic*]
@@ -239,7 +237,7 @@ What if this this page didn't answer your question? What would you do next?
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target content? successful / needed help / unsuccessful]
+- [Found target (Evidence to support VA pension,...)? successful / needed help / unsuccessful]
 
 
 ## Task 6: Sign in
@@ -252,7 +250,7 @@ Let's say that you want to refill a prescription but you're having some difficul
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
-  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+  - Please try *Search suggestion **S***
 
 - [If they try **Show filters**...]
   - [Note which filters used: *Audience / Benefit / Topic*]
@@ -262,7 +260,7 @@ Let's say that you want to refill a prescription but you're having some difficul
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target content? successful / needed help / unsuccessful]
+- [Found target (Signing in to VA.gov)? successful / needed help / unsuccessful]
 
 ## Task 7: Payments and debt
 Please go back to the first page you were on [landing pg via breadcrumb or another way].
@@ -274,7 +272,7 @@ Let's say that you're wondering whether you owe the VA any money. Show me how yo
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
-  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+  - Please try *Search suggestion **P***
 
 - [If they try **Show filters**...]
   - [Note which filters used: *Audience / Benefit / Topic*]
@@ -284,7 +282,7 @@ Let's say that you're wondering whether you owe the VA any money. Show me how yo
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target content? successful / needed help / unsuccessful]
+- [Found target (VA debt management)? successful / needed help / unsuccessful]
 
 ## Task 8: Job change
 Please go back to the first page you were on [landing pg via breadcrumb or another way]. 
@@ -296,7 +294,7 @@ Let's say that you're thinking about looking for a different kind of job, and yo
 - [**If they try to use *search***, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
-  - [Choose best match from list of options from DAVE] Please try *Search suggestion #X*
+  - Please try *Search suggestion **J***
 
 - [If they try **Show filters**...]
   - [Note which filters used: *Audience / Benefit / Topic*]
@@ -306,7 +304,7 @@ Let's say that you're thinking about looking for a different kind of job, and yo
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target content? successful / needed help / unsuccessful]
+- [Found target (GI Bill, Compare VA education benefits, or Career resources)? successful / needed help / unsuccessful]
 
 
 ## Post-Task Interview - 7 minutes
@@ -316,11 +314,12 @@ Please go back to the first page you were on [landing pg via breadcrumb or anoth
 1. What would you like to *change or add*?
 1. [If they didn't use filters at all] Did you see the words with light blue underneath them?
      1. What do you think they are, and how might you use them?
-     1. I don't think you used them before. Why was that? 
-     1. Are there some that you're unsure of what they mean?
-1. [If they used filters] Let's look back at the filters in the page you were using.
-     1. Are there some that you're unsure of what they mean?
-     1. Are any missing that you think should be there? 
+     1. I don't remember you using them before. Can you tell me more about that? 
+     1. Which ones are you unsure about what they mean?
+     1. Are there any missing that you think should be there? 
+1. [If they used filters] Let's look back at the filters you were using.
+     1. Which ones are you unsure about what they mean?
+     1. Are there any missing that you think should be there? 
 1. Is there anything else that we haven't talked about that you think I should know? 
 
 **Are you still okay if we use any video or audio clips from this session?** *(yes / no)*
