@@ -19,7 +19,8 @@ Our goal is to empower teams to deliver the most accessible products possible fo
 ## How ADE can help your team with accessibility
 The Accessibility Digital Experience team is a team of familiar faces, and some new, who are here to help your team deliver the highest, quality accessible product possible to our Veterans. 
 
-**This document explains some of the ways that ADE can help aide your team with accessibility.**
+> [!IMPORTANT]
+> **This document explains some of the ways that ADE can help aide your team with accessibility.**
 
 ### How we relate to the Collaboration Cycle
 We've grouped our offerings by how they relate to the [touch point meetings in the Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/). We've done this because the Collaboration Cycle is a well-known process for our community, and maps well to how we do work. 
@@ -30,10 +31,13 @@ We've grouped our offerings by how they relate to the [touch point meetings in t
 ## Services we offer
 What follows is a menu of the services we offer. 
 > [!TIP]
-> No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels. [View additional ways to reach out for support.](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/README.md#how-to-contact-us)
+> No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using the `#accessibility-help` or the `#TBD Pending channels. [View additional ways to reach out for support.](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/README.md#how-to-contact-us)
 
 ### Research support
-[ADE accessibility specialists can help with your user research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=caia-a11y-research.yaml). We can assist as you plan your research sessions, ensuring that they are equitable and account for important accessibility factors. [We recommend a pilot session with a ADE accessibility specialist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md) before running your research sessions, to mitigate any potential accessibility-related issues. When it comes time to run research sessions, we can also provide limited technical support for research participants who use screen readers. We can also observe your assistive technology sessions through an accessibility-focused lens, documenting accessibility-related issues the user encounters. 
+[ADE accessibility specialists can help with your user research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=caia-a11y-research.yaml). We can assist as you plan your research sessions, ensuring that they are equitable and account for important accessibility factors.  We can also observe your assistive technology sessions through an accessibility-focused lens, documenting accessibility-related issues the user encounters. 
+#### Pilot sessions
+[We recommend a pilot session with a ADE accessibility specialist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md) before running your research sessions, to mitigate any potential accessibility-related issues. When it comes time to run research sessions, we can also provide limited technical support for research participants who use screen readers. 
+
 > [!CAUTION]
 > Note that we cannot provide extensive, on call, technical support during research sessions - if you are worried about technical issues, we recommend running a pilot session or two with ADE specialists so that we can discuss ways to best support your needs.
 
@@ -63,7 +67,7 @@ This is very much like a staging review but done in production! This is useful f
 We can provide training and resources for you and your team on accessibility best practices and methodologies above and beyond what Governance offers at onboarding. Also, don't miss the [accessibility champs program](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs)!
 
 ### Spot checks, general guidance
-We are always here for more general, off-the-cuff questions! Never hesitate to reach out to us on the DSVA Slack in either the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.
+We are always here for more general, off-the-cuff questions! Never hesitate to reach out to us on the DSVA Slack in either [#accessibility-helpl](https://dsva.slack.com/archives/C8E985R32) or the `pending name` channels.
 
 ## How to contact us
 ### Reach out via Slack
