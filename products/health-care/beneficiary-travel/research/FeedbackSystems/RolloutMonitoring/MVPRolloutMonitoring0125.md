@@ -480,6 +480,104 @@ Qualitative feedback:
 ### 1/29/25 - 100%
 #### Medallia Feedback
 
+4 responses, 2 using the VFS Questionnaire and 2 using the MHV Form.  
+
+Task completion: 
+
+
+<table>
+  <tr>
+   <td>Were you able to do your task today? 
+   </td>
+   <td>Responses (N = 4)
+   </td>
+  </tr>
+  <tr>
+   <td>Yes
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td>No
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   <td>0
+   </td>
+  </tr>
+</table>
+
+
+CSAT: 
+
+
+<table>
+  <tr>
+   <td>What is your overall satisfaction with this site? (rating)
+   </td>
+   <td>Responses (N = 4 )
+   </td>
+  </tr>
+  <tr>
+   <td>1
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>2
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>3
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>4
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>5
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   <td>2
+   </td>
+  </tr>
+</table>
+
+
+Qualitative feedback:
+
+*Task trying to complete:*
+
+“I have not received travel payment for my last 2 visits.  Below are the claim numbers: T2 T6  Looking forward you your reply”
+
+“Have the VA pay my travel payment  The last deposit was May 2022”
+
+*Reason for rating:*
+
+“It now takes way too much time and effort to get onto the website!!”
+
+“easy enough”
+
+
+
 #### Google Analytics
 
 ### 1/30/25 - 100%
