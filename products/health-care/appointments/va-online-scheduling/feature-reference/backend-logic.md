@@ -54,7 +54,7 @@ Appointments that Veterans have requested but VA has not booked.
 | Sleep Medicine - Home Sleep Testing | 143 SLEEP STUDY                    |
 | Social Work                         | 125 SOCIAL WORK SERVICE            |
 
-## Determining eligibility to schedule into a clinic
+## Determining if a user is eligible to schedule or request into a clinic
 
 Except for Primary Care and COVID, all types of care have CCM Settings:  
    1) Yes, Any 
@@ -65,23 +65,23 @@ Except for Primary Care and COVID, all types of care have CCM Settings:
 - Unlike the other types of care which can have up to a limit of two requests at a time, Primary Care has a limit of one.  
 - COVID has Yes and No.  COVID is only for direct scheduling and unlike all the other types of care does NOT have a Request setting.  
 
-A Veteran's direct scheduling eligibility for PRIMARY CARE must be set to true if:
+**A Veteran's direct scheduling eligibility for PRIMARY CARE must be set to true if:**
 - CCM has type of care set to Yes 
 - AND Veteran has an assigned PACT team. 
 -  Else set to false
 
-A Veteran's request eligibility for PRIMARY CARE must be set to true if:
+**A Veteran's request eligibility for PRIMARY CARE must be set to true if:**
 -  Veteran does not have a pending primary care request created within the last 120 days 
 - AND CCM has type of care set to Yes. 
 - Else set to false. 
 
- A Veteran’s direct schedule eligibility for SPECIALTY CARE must be set to true if: 
+**A Veteran’s direct schedule eligibility for SPECIALTY CARE must be set to true if:**
 - CCM has type of care set to Yes, Any 
 - OR CCM has a type of care set to Yes with Last Seen in 12 or 36 months 
    - AND veteran has past appointment in that stop code with a VistA status of CHECKED IN or CHECKED OUT within the indicated CCM timeframe.
 - Else set to false. 
 
-A Veteran's request eligibility for the selected type of SPECIALTY CARE must be set to true if: 
+**A Veteran's request eligibility for the selected type of SPECIALTY CARE must be set to true if:**
  - Veteran does not have a pending care request created within the last 120 days for the specified request limit as set in CCM 
  - AND either:
       - CCM has type of care set to Yes, Any OR  
@@ -89,15 +89,15 @@ A Veteran's request eligibility for the selected type of SPECIALTY CARE must be 
           - AND veteran has past appointment in that stop code with a VistA status of CHECKED IN or CHECKED OUT within the indicated CCM timeframe.
 - Else set to false.  
 
-Clinics with the following attributes must NOT present to the Veteran for direct scheduling if at any of following are true:    
-- Clinic’s stop code is on the Office of Integrated Veteran Care’s stop code exclusion list
+**Clinics with the following attributes must NOT present to the Veteran for direct scheduling if at any of following are true:**   
+- Clinic's stop code is on the Office of Integrated Veteran Care’s stop code exclusion list
 - Clinic location name that starts with ZZ
 - Clinic location name that ends with -X
-- Clinic’s direct scheduling flag = No
-- Clinic’s direct scheduling flag = NULL
+- Clinic's direct scheduling flag = No
+- Clinic's direct scheduling flag = NULL
 - Clinics with secondary stop code = video telehealth. 
 
-Stop codes for video telehealth -  https://coderepo.mobilehealth.va.gov/projects/MACM/repos/vaec-map-consul-staging-tf-appconfigs/browse/vaos-service.tf?at=sqa#25
+[Stop codes for video telehealth](https://coderepo.mobilehealth.va.gov/projects/MACM/repos/vaec-map-consul-staging-tf-appconfigs/browse/vaos-service.tf?at=sqa#25)
 
 - The direct scheduling eligibility call is done first followed by the request eligibility call. VAOS calls a CDW stored procedure that looks for an active PACT assignment, finds the default Provider for the PACT and checks for the clinics associated with that Provider. Clinics are returned to VAOS and will be display unless filtered according to the business rules stated above.
 - For eligibility checks the past appointment can be at any location at either Child or Parent for eligibility to be true. Parent inherits any Child appointment(s) for eligibility check AND Children inherit Parent’s appointment(s) for eligibility check. 
@@ -106,9 +106,9 @@ Stop codes for video telehealth -  https://coderepo.mobilehealth.va.gov/projects
 - The request limit for Primary Care is one. Specialty care can set to one or two as desired by the site.
 
 
-## Determining if user can schedule or request appointment at clinic
+### User flow for different eligibility scenarios
 
-The default flow displayed must be as follows and must display  with appropriate message to veteran.  
+The default flow displayed must be as follows and must display with appropriate message to veteran.  
 
 | Veteran’s Direct Scheduling Eligibility | Veteran’s Request Eligibility           | Are clinics configured for direct scheduling? | VAOS Default Flow                                                                                                                                                                                      |
 | --------------------------------------- | --------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
