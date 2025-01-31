@@ -2,6 +2,8 @@
 # Financial Management Team Goal Tracker  
 _**Overview:** This tracker is designed to align sprint goals with quarterly priorities, providing a comprehensive view of goals achieved._ 
 
+Current/prior sprint tickets & completion rates can be seen [here](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/2?sliceBy%5Bvalue%5D=Sprint+1).
+
 ---
 
 ## Quarterly Priorities for FY25Q2 (Jan, Feb, Mar 2025)  
