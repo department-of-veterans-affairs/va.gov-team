@@ -206,7 +206,13 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 
 * GET `/vaos/v2/referrals` (new)
   
-  Sample Response
+  {
+    ucid: 123_123456,
+    startDate: startDate,
+    categoryOfCare: categoryOfCare,
+    expirationDate:
+    referralNo: 
+  }
   ```
   TBD
   ```
