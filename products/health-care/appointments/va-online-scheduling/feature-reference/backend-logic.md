@@ -87,7 +87,9 @@ Except for Primary Care and COVID, all types of care have CCM Settings:
       - CCM has type of care set to Yes, Any OR  
       - CCM has a type of care set to Yes with Last Seen in 12 or 36 months 
           - AND veteran has past appointment in that stop code with a VistA status of CHECKED IN or CHECKED OUT within the indicated CCM timeframe.
-- Else set to false.  
+- Else set to false.
+
+### Exceptions
 
 **Clinics with the following attributes must NOT present to the Veteran for direct scheduling if at any of following are true:**   
 - Clinic's stop code is on the Office of Integrated Veteran Care’s stop code exclusion list
