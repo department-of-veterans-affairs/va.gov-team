@@ -281,6 +281,122 @@ No feedback
 | Views per user | 1.11 |
 | Time spent | 1 min 3 sec |
 
+### 1/27/25 - 100%
+#### Medallia Feedback
+7 responses, 6 using the VFS Questionnaire and 1 using the MHV Form.  
+
+Task completion:
+<table>
+  <tr>
+   <td>Were you able to do your task today? 
+   </td>
+   <td>Responses (N = 7)
+   </td>
+  </tr>
+  <tr>
+   <td>Yes
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>No
+   </td>
+   <td>4
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   <td>2
+   </td>
+  </tr>
+</table>
+
+
+CSAT: 
+
+
+<table>
+  <tr>
+   <td>What is your overall satisfaction with this site? (rating)
+   </td>
+   <td>Responses (N = 7)
+   </td>
+  </tr>
+  <tr>
+   <td>1
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>2
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>3
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td>4
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>5
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   <td>2
+   </td>
+  </tr>
+</table>
+
+
+Qualitative feedback:
+
+“travel reimbursement 30 minutes trying it is always a hassle to find where you should try it”
+
+“I never filed a travel claim for [location redacted]. Why is there one showing under my account?”Someone needs to look into this.”
+
+“File a travel claim.  It says incomplete!”
+
+“Travel claim. How do we submit travel claims that referred to a civilian hospital?”
+
+
+#### Google Analytics
+
+### 1/28/25 - 100%
+#### Medallia Feedback
+
+#### Google Analytics
+
+### 1/29/25 - 100%
+#### Medallia Feedback
+
+#### Google Analytics
+
+### 1/30/25 - 100%
+#### Medallia Feedback
+
+#### Google Analytics
+
+### 1/31/25 - 100%
+#### Medallia Feedback
+
+#### Google Analytics
+
+
 ---
 **Engineering Metrics (Datadog)**
 ***[Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)*** 
