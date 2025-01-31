@@ -207,11 +207,10 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 * GET `/vaos/v2/referrals` (new)
   
   {
-    ucid: 123_123456,
+    UUID: 123_123456(encoded referralNo),
     startDate: startDate,
     categoryOfCare: categoryOfCare,
     expirationDate:
-    referralNo: 
   }
   ```
   TBD
