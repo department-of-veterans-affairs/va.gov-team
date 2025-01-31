@@ -146,15 +146,6 @@ How the API determines CC eligibility:
 - If a veteran does not have a community care eligibility code in the Enrollment System that enables veteran for Community Care, then the API will check drive time to any VAMC that offers that requested type of care.  Drive time standards are 30 minutes for Primary Care and 60 minutes for Specialty Care and is based on the drive times from veteran’s home address to any VA medical facility that offers that type of care.  
 - Primary Care eligibility has an additional check.   To be eligible for primary care veteran must meet either of the above two conditions and must NOT have an assigned active Patient Aligned Care Team (PACT).  In other words, Community Care eligible veterans that have an active PACT are not allowed to request Community Care primary care. 
 
-## VA facility page data sources
-
-- With VAOS-servicev2 we are now using MFSv2- which uses the Lighthouse Facilities API.
-- Lighthouse uses two data sources VAST and then CMS.  CMS data comes from a Facility Editor where the site personnel make actual changes to status, operating hours, etc.
-- Lighthouse's default is to use the CMS data first then VAST data . CMS data is more reliable, and updates are real time whereas VAST data can take a while to get updated.
-- Invalid VAOS facility classifications are NULL, Extended Care Site, MCS and Residential Care Site.  Sites with these classifications are filtered by the backend.  
-- A VA location will not display in the list if both Direct Schedule and Requests are set to NO in CCM. 
-
-
 ## Creating appointments and requests in backend systems
 
 
@@ -206,4 +197,12 @@ How the API determines CC eligibility:
    - Preferred city
    - Preferred state
    - Comments
+ 
+## VA facility page data sources
+
+- With VAOS-servicev2 we are now using MFSv2- which uses the Lighthouse Facilities API.
+- Lighthouse uses two data sources VAST and then CMS.  CMS data comes from a Facility Editor where the site personnel make actual changes to status, operating hours, etc.
+- Lighthouse's default is to use the CMS data first then VAST data . CMS data is more reliable, and updates are real time whereas VAST data can take a while to get updated.
+- Invalid VAOS facility classifications are NULL, Extended Care Site, MCS and Residential Care Site.  Sites with these classifications are filtered by the backend.  
+- A VA location will not display in the list if both Direct Schedule and Requests are set to NO in CCM. 
 
