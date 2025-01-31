@@ -50,6 +50,7 @@ KISS provides a way to create arbitrary static data files from Drupal content. T
 ### KISS Endpoints
 - https://www.va.gov/data/cms/vamc-ehr.json
 - https://www.va.gov/data/cms/vamc-facility-supplemental-status.json
+- https://www.va.gov/data/cms/va-healthcare-services.json
   
 ### Caching
 There are a couple other PRs that implement a caching mechanism that follows the same approach as that used for content-build at large. When `--pull-drupal` is issued, a content build will query Drupal for new data. Otherwise, cached static data files will be used.
