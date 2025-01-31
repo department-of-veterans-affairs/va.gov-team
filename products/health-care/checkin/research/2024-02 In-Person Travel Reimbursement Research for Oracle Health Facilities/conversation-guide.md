@@ -12,12 +12,12 @@ Upon arrival at the clinics, take notes on the following:
 -   _Where are the travel posters located?_
 -   _How is the phone (e.g., SMS) and internet service?_
 
-Take time to test the wi-fi while on site and determine if a backup plan is needed. Some sites will have decent overall connectivity. Others will have a longer process to log into the facility wi-fi. Make sure you thoroughly understand the process at each site and are able to walk Veterans through it, if needed. 
+Take time to test the wi-fi while on site and determine if a back-up plan is needed. Some sites will have decent overall connectivity, while others may not and could require a longer process to troubleshoot/connect to facility wi-fi. Make sure you thoroughly understand the process at each site and are able to walk Veterans through it, if needed. 
 
 Back-up plans to try:
-- Be able to walk Veterans through connecting to wi-fi at different sites (which might require different approaches). Note: this may increase the session time considerably. 
+- Be ready to walk Veterans through connecting to wi-fi at different sites (which might require different approaches). Note: this may increase the session time considerably. 
 - Try out the process without having Veterans connect to wi-fi, if cell-phone service is adequate.
-- If still unable to connect, have mobile prototype on-hand and have Veterans go through that process. (Ideally we should not have many of these, as viewing real data is important for this study.) 
+- If still unable to connect, have a mobile prototype on-hand and have Veterans go through the process using the prototype. (Ideally, we should not have many of these, as viewing real data is important for this study.) 
 
 * * * * *
 
