@@ -20,7 +20,7 @@
 - Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF
 - Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants
 - Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON
-- Open standalone browser windows with prototype link: **LINK TBD**
+- Open standalone browser windows with prototype link: **http://bit.ly/4gpazHd**
 - Do Not Disturb ON so no notifications
 - In the Participants window, make sure everyone except the participant and moderator are on mute.- In the Participant "more" menu, make sure "Play join and leave sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
@@ -100,7 +100,7 @@ I'd like you to open a new window in a web browser and start sharing your screen
 
 [Confirm screen sharing]
 
-I'll have you start from a URL that I'm going to [dictate/put into the Zoom chat] for you to use: **PROTOTYPE URL**
+I'll have you start from a URL that I'm going to [dictate/put into the Zoom chat] for you to use: **http://bit.ly/4gpazHd**
 
 Did you get the link?
 - If see “unsupported browser” error, ask to try a different browser or device, or share my screen (works for anyone) and mouse control (doesn't work w/iPhones)
