@@ -30,7 +30,7 @@ Objective 1: Our digital experiences are the best way to access VA health care a
 3. Learn if the labels and groupings of filters align with user mental models
  
 ### Outcome
-Validate the proposed design so we can start building it. There will be a second round of usability testing once it is built in Staging to get feedback from assistive tech users.
+Validate the proposed design so we can start building it. There may be a second round of usability testing once it is built in Staging to get feedback from assistive tech users.
 
 ### Research questions
 
@@ -45,14 +45,15 @@ Validate the proposed design so we can start building it. There will be a second
 
 - What do people do first--searching, filtering, or browsing? 
   - Do people ever use filters before searching? Why or why not?
+  - What do people do next?
 
-Navigation items to observe usage of:
+Observe the usage of the following navigation items:
 - Header
   - Hamburger menu 
 - Landing page
   - Search box
   - Show filters button
-  - Featured links to content page or search results page
+  - Featured links
   - Common topics
   - Browse by benefit
 - Results page
@@ -65,7 +66,7 @@ Navigation items to observe usage of:
   - X (close) button in top right
   - Collapse all/expand all accordions
   - Individual accordions
-  - Individual filters--select 1 or multiple
+  - Individual filters--select one or multiple
   - Apply Filters button
   - Clear All button
 - Detail page
@@ -80,12 +81,12 @@ Navigation items to observe usage of:
 - How do search terms overlap with or differ from filter labels?
 - Are there other filters that users expect that are missing?
 
-**Misc questions that cut across goals**
+**Other questions**
 - Do users find the information they are looking for, regardless of which path they take to get there?
 - Do different user groups (Veterans, family members and caregivers, service members) have different outcomes?
-- Are there other factors (e.g. frequency of VA.gov use, VA benefits received) that affect how easily users are able to find relevant information?
+- Are there other factors (e.g., frequency of VA.gov use, VA benefits received) that affect how easily users are able to find relevant information?
 - What are user expectations of the scope of R&S search vs. site-wide search?
-- What are users previous experiences with searching/browsing for information on VA.gov?
+- What are users' previous experiences with searching/browsing for information on VA.gov?
 
 ### Hypotheses
 1. Users will understand the search, filtering, and browsing functionality available to them 
@@ -96,7 +97,7 @@ Navigation items to observe usage of:
 We will conduct **remote moderated usability testing** to observe research participants using a mobile prototype. 
 
 ### Location
-Sessions will be conducted remotely over Zoom with transcripts. 
+Sessions will be conducted remotely over Zoom with transcripts please. 
 
 ### Research materials
 
@@ -123,7 +124,7 @@ We would like Perigean to walk the participants through
       - Have Zoom downloaded to their mobile device prior to the session and know how to share their screen 
       - Are willing to share over Zoom a web browser window on their mobile device 
       - Have a working microphone on their mobile device 
-    - **AT LEAST 6** must be on a smartphone
+    - **AT LEAST 6** must be on a smartphone (i.e., not a tablet)
   
   - *Secondary criteria (nice-to-haves):*
      - At least 4 people have a cognitive disability (e.g., TBI) 
@@ -154,10 +155,9 @@ We would like Perigean to walk the participants through
      1. No  
      1. Yes *(RECRUIT 2 and RECORD as LGBTQ+)*
 
-## Timeline - WIP
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+## Timeline
 
-### Prepare - WIP
+### Prepare
 Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.  
 
 Dave and Rodney are available for a kickoff call during any of these times: 
@@ -169,10 +169,10 @@ Please invite Rodney Little (rodney.little@civicactions.com) and Dave (dave.pick
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
 We will schedule 1-2 **pilot tests**:
-- Pilot 1: **Feb TBD X pm ET** with TBD email
-- Pilot 2: **Feb TBD at X pm ET** with TBD email
+- Pilot 1: **Feb TBD at X ET** with TBD email
+- Pilot 2: **Feb TBD at Y ET** with TBD email
 
-### Research sessions - WIP
+### Research sessions
 Planned dates of research: **February 17-21, 2025** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
@@ -183,7 +183,7 @@ We would like to request that **Perigean calls each participant** to remind them
 * Buffer time between sessions: 30 minutes
 * Maximum sessions per day: 4
 
-### Availability - WIP
+### Availability
 
 Team Availability | Time Slots (ET)
 ------------------|--------------
@@ -192,19 +192,17 @@ Feb 18, 2025 | 9-10, 1:30-2:30, 4-5, 5:30-6, 6:30-7:30
 Feb 19, 2025 | 9-10, 10:30-11:30, 4-5, 5:30-6, 6:30-7:30 
 Feb 20, 2025 | 9-10, 10:30-11:30, 12-1, 1:30-2:30, 4-5, 5:30-6, 6:30-7:30 
 Feb 21, 2025 | 9-10, 4-5, 5:30-6, 6:30-7:30 
-
-- **TBD Rodney: Might drop 4 slots so only provide 24**
 	
 ## Team Roles
 - **Moderator:** Rodney Little (rodney.little@civicactions.com)
 - **Research guide writing and task development:** Cindy Merrill (cindy.merrill@agile6.com)
 - **Participant recruiting & screening:** Perigean
-- **Project point of contact:** Cindy Merrill only thru Feb 7 (cindy.merrill@agile6.com), Rodney Little (rodney.little@civicactions.com), and Dave Pickett (dave.pickett@civicactions.com)
+- **Project point of contact:** Cindy Merrill *only thru Feb 7* (cindy.merrill@agile6.com), Rodney Little (rodney.little@civicactions.com), and Dave Pickett (dave.pickett@civicactions.com)
 - **Participant(s) for pilot test:** TBD
 - **Accessibility specialist:** N/A
 - **Note-takers:** Perigean
 - **Observers:** I will have a sign-up sheet for observers 
 
 ## Approvals
-- Michelle Middaugh (Sitewide PO) on Jan XX, 2025
-- Shane Strassberg (VA Research Ops) on Jan XX, 2025
+- Michelle Middaugh (Sitewide PO) on Feb XX, 2025
+- Shane Strassberg (VA Research Ops) on Feb XX, 2025
