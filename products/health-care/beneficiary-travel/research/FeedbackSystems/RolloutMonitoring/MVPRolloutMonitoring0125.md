@@ -379,6 +379,102 @@ Qualitative feedback:
 ### 1/28/25 - 100%
 #### Medallia Feedback
 
+3 responses, 2 using the VFS Questionnaire and 1 using the MHV Form.  
+
+Task completion: 
+
+
+<table>
+  <tr>
+   <td>Were you able to do your task today? 
+   </td>
+   <td>Responses (N = 3 )
+   </td>
+  </tr>
+  <tr>
+   <td>Yes
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>No
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   <td>0
+   </td>
+  </tr>
+</table>
+
+
+CSAT: 
+
+
+<table>
+  <tr>
+   <td>What is your overall satisfaction with this site? (rating)
+   </td>
+   <td>Responses (N = 3 )
+   </td>
+  </tr>
+  <tr>
+   <td>1
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>2
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>3
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>4
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>5
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   <td>1
+   </td>
+  </tr>
+</table>
+
+
+Qualitative feedback:
+
+*Task trying to complete:*
+
+“Dispute a rejected travel claim!”
+
+“Claim travel reimbursement for January 27 at [redacted] Chiropractic. Travel from [redacted address] to [redacted address, not VA location]”
+
+*Reason for rating:*
+
+“has left off many part i used before on old app”
+
+
+
 #### Google Analytics
 
 ### 1/29/25 - 100%
