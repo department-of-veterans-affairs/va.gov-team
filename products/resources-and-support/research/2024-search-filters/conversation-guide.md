@@ -342,6 +342,6 @@ Thank you so much again, and I hope that enjoy the rest of your day!
 We have covered all the questions I have for you today. Thank you so much for your time and feedback!
 
 ## Approvals
-- Michelle Middaugh (Sitewide PO) on Jan XX, 2025
-- Shane Strassberg (VA Research Ops) on Jan XX, 2025
+- Michelle Middaugh (Sitewide PO) on Feb X, 2025
+- Shane Strassberg (VA Research Ops) on Feb X, 2025
 
