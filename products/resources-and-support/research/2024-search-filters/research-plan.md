@@ -35,9 +35,9 @@ Validate the proposed design so we can start building it. There may be a second 
 ### Research questions
 
 **Goal 1. Get user feedback on the new filter design and functionality to find information**
-- Do users understand how to access the filter drawer?
+- Do users understand how to access the filter overlay modal?
 - Do users understand the and/or logic between filters across/within filter groups?
-- Do users understand the Apply filters, Clear all, and X buttons in filter drawer?
+- Do users understand the Apply filters, Clear all, and X buttons in filter overlay modal?
 - Do users understand how to dimiss a filter once it's applied?
 - Do users understand how the filter chips on results/detail pages (w/X) work vs. on the landing page (w/o X)?
 
@@ -62,7 +62,7 @@ Observe the usage of the following navigation items:
   - Show filters button
   - Dismissible filter chips
   - Clear all chips
-- Filter drawer
+- Filter overlay modal
   - X (close) button in top right
   - Collapse all/expand all accordions
   - Individual accordions
