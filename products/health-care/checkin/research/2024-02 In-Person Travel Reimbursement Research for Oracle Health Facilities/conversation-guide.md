@@ -12,6 +12,13 @@ Upon arrival at the clinics, take notes on the following:
 -   _Where are the travel posters located?_
 -   _How is the phone (e.g., SMS) and internet service?_
 
+Take time to test the wi-fi while on site and determine if a backup plan is needed. Some sites will have decent overall connectivity. Others will have a longer process to log into the facility wi-fi. Make sure you thoroughly understand the process at each site and are able to walk Veterans through it, if needed. 
+
+Back-up plans to try:
+- Be able to walk Veterans through connecting to wi-fi at different sites (which might require different approaches). Note: this may increase the session time considerably. 
+- Try out the process without having Veterans connect to wi-fi, if cell-phone service is adequate.
+- If still unable to connect, have mobile prototype on-hand and have Veterans go through that process. (Ideally we should not have many of these, as viewing real data is important for this study.) 
+
 * * * * *
 
 ### Intercept intro:
@@ -24,7 +31,7 @@ Intercept Veterans after checking out of their appointment, which may or may not
 
 - _If yes:_ And do you typically file for travel reimbursement for your medical appointments?
   - _If no:_ Ok, no problem. Would you like to try filing for travel right now? We have a new tool for filing a claim that we're testing that allows you to file right now from your smartphone.
-  - _If yes:_ Great. We have a new tool for filing a claim that we're testing that allows you to file right now from your smartphone. Would you like to try it out and file right now?
+  - _If yes:_ Great. We have a new tool for filing a claim that we're testing that allows you to file right now from your smartphone. Would you like to try it out and file right now? The process should take around 5-15 minutes.
     - _If yes:_ Excellent, thank you. If you'd like to stop at any time, just let me know and we can do that.
     - _If no:_ No problem, have a great day!
 
@@ -32,7 +39,7 @@ Intercept Veterans after checking out of their appointment, which may or may not
 
 ### Incentive:
 
-- Before we start, in exchange for your time today, we are offering a $10 participation check. Are you interested?
+- Before we start, in exchange for your time today, we are offering a participation check. You'll receive $5 for signing up, and then an additional amount depending on the length of the session. Are you interested?
 
 - _If no:_ No problem.
 
