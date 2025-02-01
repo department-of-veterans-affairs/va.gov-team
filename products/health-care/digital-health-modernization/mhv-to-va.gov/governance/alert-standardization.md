@@ -7,9 +7,9 @@ To ensure a consistent Veteran experience and reduce cognitive load within the M
 * [Missing MHV Identifier (Account Creation API)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#account-creation-api-error-alerts-ie-missing-mhv-uuid)
 * [Oracle-Health Routing alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#oracle-health--cerner-routing-alerts)
 * [Unauthenticated users](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#unauthenticated-users)
-* 403 access denied error component (guidance coming soon)
-* 404 page not found component (guidance coming soon)
-* 500 internal service error component (guidance coming soon)
+* [403 access denied component](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#403-access-denied-error-component)
+* [404 page not found component](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#404-page-not-found-component)
+* [500 internal service error alert](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#500-internal-service-error-component)
 
 ## High-level API access logic
 Applications should route-guard any users who do not meet two high-level gating requirements to the `/my-health` landing page to see the relevant alert in place there. The goal of this requirement is to have a single place to maintain and update alerts, and to prevent users without access to My HealtheVet from getting to deeper child pages within the experience. Instead, they will see certain alerts in place at the top of the portal, where we believe it is the best place to explain and contextualize why they do not have access, and steps they need to take in order to answer questions they may have about managing their healthcare on VA.gov. 
