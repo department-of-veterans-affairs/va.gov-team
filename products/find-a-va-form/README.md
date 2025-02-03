@@ -121,19 +121,22 @@ If you discover that a specific form PDF has a problem (dead link, incorrect inf
 
 ### Forms managers
 Forms managers provide an administrative function to manage Forms data entry and final approved PDFs per administration in the Forms DB. 
-|Name|Role re: Forms|
-|----|----|
-|Brian.Mano@VA.gov|Supervisory Program manager|
-|Lancaster, Maryetta <Maryetta.Lancaster@va.gov>|Interim VACO & NCA Forms manager|
-|Bennett, Grant <Grant.Bennett@va.gov>  | VHA Forms manager|
-|Kessinger, Nancy J. <nancy.kessinger@va.gov> | VBA Forms manager |
-|Allmond, Yvette M. <yvette.allmond@va.gov> | VBA Forms manager|
+
+To request an edit or change to a form, email the VA Forms Managers group email -> VAFormsManagers@mail.va.gov, copy Michelle Middaugh (suzanne.middaugh@va.gov) and the relevant individual contact below:
+
+|Form prefix | Administration | Forms POC|
+|----|----|----|
+|"10-" (e.g. 10-1234) | VHA | Bennett, Grant <Grant.Bennett@va.gov>: VHA Forms manager|
+|"2x-" prefix (e.g. 22-1234) | VBA | Kessinger, Nancy J. <nancy.kessinger@va.gov>: VBA Forms manager |
+|"VA-" (e.g. VA-1234)| Big VA | Lancaster, Maryetta <Maryetta.Lancaster@va.gov>: Interim VACO & NCA Forms manager|
 
 #### Other forms related contacts of note
 |Name|Role re: Forms|
 |----|----|
 |O'Donnell, Fran <frances.o'donnell@va.gov> | VHA Paperwork reduction act liaison to OMB |
 |Swearinger-Smith, Gail T. <Gail.SwearingerSmith@va.gov>|VHA forms admin|
+| Brian.Mano@VA.gov|Supervisory Program manager|
+|Allmond, Yvette M. <yvette.allmond@va.gov> | VBA Forms manager|
 
 ### Forms DB
 Forms DB infrastructure is owned by Office of Information Technology (OIT). The Forms DB is in maintenance mode.
