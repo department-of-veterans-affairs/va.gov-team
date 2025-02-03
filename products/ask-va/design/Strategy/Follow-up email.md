@@ -2,9 +2,10 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: January 30, 2025
+Last updated by @tygindraux: February 3, 2025
 
 ## About this document
+
 We will send a follow-up email to every submitter after a question is marked as ‘Solved’ (or ‘Replied’) by an agent. This will allow us to capture inquiry specific feedback after the last step in a user’s journey. 
 
 We can use this feedback to learn whether replies from VA are helping submitters complete the tasks they set out to do.
@@ -13,19 +14,19 @@ There is more information about this initiative in [Phase 2: Initiatives](https:
 
 ## Email content
 
-Note: This content has not been reviewed by the VA.gov content team yet. They can help refine the content, so we don't need to worry too closely about this yet.
+Note: This content has not been reviewed by the VA.gov content team yet.
 
 > Dear [Submitter First Name],
 >
 > Thank you for contacting the U.S. Department of Veterans Affairs.
 >
-> We recently replied to your question. We would like to learn about your experience using Ask VA. Please reply to this email and let us know:
+> Did our reply answer your question?
 >
-> - How was your experience contacting VA?
-> - Did our reply help answer your question?
+> [Yes or no]
 >
+> Your feedback will help us improve. Thank you.
 
-Note: I’m not sure whether we plan to include a link to a feedback survey? Or, if we plan to ask people to respond directly to this email? I also don’t know how open-ended we’d like to leave these questions and/or if we want to prioritize just asking whether our reply helped answer the question.
+Note: We're still clarifying how we will implement this. We may include a link to a survey. Overall, we want to ask a yes or no question about whether their question was answered.
 
 ## Implementation approach
 
