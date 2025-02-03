@@ -30,4 +30,6 @@ Note: We're still clarifying how we will implement this. We may include a link t
 
 ## Implementation approach
 
-Note: This will be completed by product with support from engineering and the CRM team. We should build on any exploration we’ve already done related to VA Notify.
+Note: This will be completed by product with support from engineering and the CRM team. Here are previous conversations that are relevant:
+- In #va-notify-public https://dsva.slack.com/archives/C010R6AUPHT/p1713277171321079
+- In #ask-va-integration https://dsva.slack.com/archives/C06LN37RT47/p1713459069732419
