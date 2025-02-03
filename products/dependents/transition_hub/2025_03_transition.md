@@ -87,7 +87,7 @@ Make the online dependent experience as easy to complete and cohesive as possibl
 - Ticketing
    - Team label: dependents-benefits
    - Product label: 686, 674, dependent-verification (if ticket is specific to one, but not all forms)
-   - Workstream: product, design, or engineering + frontend or backend
+   - Workstream label: discovery, product, design, or engineering + frontend or backend
 
 ## Roadmap
 ### Done (recently)
@@ -101,12 +101,12 @@ Make the online dependent experience as easy to complete and cohesive as possibl
 - 
 
 ### Next
-- Build out MVP of dependent verification tool to capture “no changes to dependents” and auto-submit a 21-0538 form.
-- Add claim submission in-progress email and update confirmation email to align with requirements from Zero Silent Failure initiative.
-- Understand complete user experience on VA.gov and identify areas for improvement. Example: Picklist of known dependents
+- Build out MVP of dependent verification tool to capture “no changes to dependents” and auto-submit a 21-0538 form. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1409))
+- Add claim submission in-progress email and update confirmation email to align with requirements from Zero Silent Failure initiative. Seperate existing confirmation email into seperate emails for each claim submission type. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1420))
 - Code modularization
-- Auto fill existing dependent information.
+- Auto fill spouse and dependent information ([discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102343))
 - [Migrate to RESTful APIs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91282)
+- Determine why submission and saved dates do not match MyVA. ([submission date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101056) and [saved date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101040))
 
 ### Future
 - Add the ability to [download a pdf of the submitted claim](https://github.com/orgs/department-of-veterans-affairs/projects/1237/views/13?sliceBy%5Bvalue%5D=ND%2FD+ZSF+%7C+Stage+5+%28Confirmation+page+full+update%29) from the confirmation page (as part of the Zero Silent Failure initiative). This work was put on hold until another team implements a solution.
