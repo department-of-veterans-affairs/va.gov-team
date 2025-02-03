@@ -143,6 +143,17 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
+1. Include provider, direct clinic numbers for scheduling and address including floor/building information
+2. Approve PHI version of email and offer it asap.
+3. Move forward with a more VADS formatted email that includes headings, highlighted appointment information and consider ways to consolidate/link out some of the non-appointment detail information such as how to prepare or change an appointment.
+4. Email formatting should be designed with sharability in mind (copy/paste, screen shots, link to share)
+5. Create a section for parking details for each facility
+6. Hyperlink a hospital map within the appointment information address for navigation
+7. Selecting communication preferences for all formats of reminders within VA Profile should clearly explain the result of each selection and be easily findable within the portal. Some Veterans may associate selection of VEText and/or MHV email reminders as “paperless” and conclude those selections opt them out of mailed reminders. I.E. if a Veteran selects that they want only email and text reminders, it should not be assumed
+8. that they also want paper reminders. The option to receive or not receive paper reminders should be an option. Finally, if reminder cadences are standard, consider adding how many reminders a Veteran can expect from each format (i.e. Emails are sent 7 days and 1 day prior to appointments)
+9. PHI needs to be explicitly explained as to what additional information will be contained
+10. Continue sending MHV reminders as a list of all upcoming appointments, however consider moving cadence to 7 days and 1 day prior; consider alternatives for frequent re-occurring appointments
+    
 * Recommendation 1
     * _Supporting evidence_
 * Recommendation 2
