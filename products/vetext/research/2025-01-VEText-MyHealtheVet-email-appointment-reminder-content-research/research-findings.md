@@ -52,7 +52,7 @@ This research will allow us to gauge Veteran satisfaction with current email app
     * *"Where do you go? If you really want to show up there on time, that really helps"*  -P1
     * *"I can go down my appointment list right now and just look at the information and the date and I can tell you who it's with*" -P8
 * **H2**: Veterans currently do not find the MHV email reminders as useful as the appointment list within the MHV portal: **Likely false**
-    * Veterans are using emails (and texts) as confirmation and/or reference to more complete information that they have already recorded in their personal calendars or that some check in VA.gov app
+    * Veterans are using emails (and texts) as confirmation and/or reference to more complete information that they have already recorded in their personal calendars or that some check in VA.gov app. Reminders are secondary to the more complete information they record at the time the appointment is made. More detailed information about the appointments (not contained in email reminder)comes from other sources (see below)
     * *"Typically what I'll do is go in and bounce that against my calendar, make sure there is not any inconsistencies" -P1*
     * *"I double check what they are saying and what I have because a lot of times, they have been wrong." -P6*
 * Veterans get detailed information:
@@ -67,9 +67,6 @@ This research will allow us to gauge Veteran satisfaction with current email app
 1\. Our methodology will be a remote moderated interview of Veterans where we will discuss with Veterans what information they want in email reminders for health appointments and what they would expect to be included.
 
 2\. After discussing what they would expect, we will show them an example of the existing MHV email reminder and ask them to share their thoughts on the content and cadence as well as how they currently use MHV email reminders.
-
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
 
 ## Key Findings
