@@ -24,6 +24,15 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] ENG: The Digital Dispute process is live on staging (QPX)
 - [ ] ENG: SharePoint errors have a more descriptive notification and are reported to ENG for analysis (QPX)
 
+### Sprint: 1 [ 1/24/25 - 2/11/25]  - Draft Chart Format   
+|Sprint Goal | QP Goal  |Date + Reason for change | End of Sprint Status|
+|--|--|--|--|
+|UX: Mockup quick reference guide|QPX|--|--|
+|UX: Work with Contact Center to improve Medallia data|QP4|--|--|
+|UX: Complete the Feb Medallia Report|QP4|--|--|
+|ENG: The Digital Dispute process is live on staging|QPX|--|--|
+|ENG: SharePoint errors have a more descriptive notification and are reported to ENG for analysis|QPX|--|--|
+
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals
  - [X] VA PO & COR sent the Sprint Goals
