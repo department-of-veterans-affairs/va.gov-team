@@ -75,7 +75,7 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Veterans want provider, direct clinic numbers and a more precise location information in MHV emails
+1. Veterans want provider (8/11 participants), direct clinic numbers and a more precise location information (7/11 participants) in MHV emails
 2. Email reminders work well as reference and backup to confirming details recorded in Veterans’ personal calendars
 3. Lack of detailed information in reminders forces Veterans to be detectives, make assumptions and create their own workarounds to determine appointment details
 4. Appointment reminders need to be concise and without “filler” information
