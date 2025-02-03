@@ -8,7 +8,9 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| travel_pay_power_switch | Main switch for the Travel Pay feature on VA.gov using the new BTSSS (travel pay) API. Enabled - Requests are handled as normal. Disabled - Requests are not handled. Server returns a 503 (Service Unavailable) until re-enabled. |
+| travel_pay_submit_mileage_expense | A switch that toggles availability of the submit mileage expense feature. Enabled - Requests are handled as normal. Frontend features are available per toggle settings. Disabled - Requests are not handled. Server returns a 503 (Service Unavailable) until re-enabled. Frontend features are not available. |
+| travel_pay_view_claim_details | A frontend-focused switch that toggles visibility of and access to the Travel Pay claim details page and entry point (features toggled together). Enabled - Entry point link and claim details page are viewable. Disabled - Entry point link and claim details page are not viewable. |
 
 ## Step 2: Validation
 
