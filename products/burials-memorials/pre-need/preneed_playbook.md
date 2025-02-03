@@ -1,11 +1,11 @@
-# [Product] Playbook
+# Preneed Integration Playbook
 
 NOTE: 
 - links to complete data for each of the sections below is welcome and encouraged.
 - This document serves the requirement of an incident response procedure for your product. This document should be iterated upon as changes are made to the product.
 
 ## Product Description
-quick sentence or two describing what the product does, also can be a link to the product outline
+Preneed product outline https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/README-2023.md#user-problem-statement
 
 ## Routes to code
 links here
