@@ -1,4 +1,4 @@
-[Online.Travel.Reimbursement.Submission.for.Oracle.Health.Facilities.Product.Guide_SRT_08072024.pdf](https://github.com/user-attachments/files/18593451/Online.Travel.Reimbursement.Submission.for.Oracle.Health.Facilities.Product.Guide_SRT_08072024.pdf)# Product Guides
+# Product Guides
 
 ## Check-in (or eCheck-in)
 
