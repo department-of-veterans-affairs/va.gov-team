@@ -121,7 +121,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 
 1. Have you contacted the VA online or over the phone in the past year? [Yes, no: Must answer Yes to qualify]
 2. Have you signed in to VA.gov in the past year? [Yes, no: Must answer Yes to qualify]
-3. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet. [Yes, no: Exactly half of participants must answer Yes to qualify]
+3. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet. [Yes, no: Must answer Yes to qualify]
 4. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.  [Yes, no: At least half of participants must answer Yes to qualify]
 
 ## Timeline
