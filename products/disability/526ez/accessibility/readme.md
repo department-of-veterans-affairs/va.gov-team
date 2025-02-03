@@ -9,7 +9,10 @@ This documentation covers accessibility-related efforts for the 526ez form.
 - The team's [accessibility audit methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/accessibility/methodology.md)
 
 ## Annotations
+### Conditions
 - [Conditions - Info Entry flow](https://www.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/(526ez)-Condition-information-entry?node-id=538-16948)
+
+### Disability Benefits Team 1
 - [Disability Benefits Team 1 - New Confirmation page](https://www.figma.com/design/qyTtKDOTHZPGU59PAfqVhq/(526ez)-New-Confirmation-Page-and-Email-Touchpoints?node-id=8187-81090&t=p3ziITq3Qpe50Ovs-4)
 
 ## A11y 101 Sessions
@@ -21,7 +24,15 @@ Internal accessibility training sessions held for DBEX Team 1 & Conditions
 - [12/13/2024 A11y 101: Screenreaders part 1 video](https://dvagov.sharepoint.com/sites/vaabdvro/_layouts/15/stream.aspx?id=%2Fsites%2Fvaab[…]pied%2Eview%2Ed84d7add%2Df31e%2D4340%2D92a9%2De108c05415d8) &  [slides](https://dvagov.sharepoint.com/sites/vaabdvro/_layouts/15/stream.aspx?id=%2Fsites%2Fvaab[…]pied%2Eview%2Ed84d7add%2Df31e%2D4340%2D92a9%2De108c05415d8)
     - 30 minute session on screenreader basics. The recording starts a few minutes/slides in. Led by [@bacitracin](https://github.com/bacitracin)
  
-- Upcoming: 2//7/2025: A11y 101: What's WCAG? The Web Content Accessibility Guidelines
+- Upcoming: 2/7/2025: A11y 101: What's WCAG? The Web Content Accessibility Guidelines
+
+## Assistive Technology Research
+### Conditions
+- [2024-11 Conditions Info Entry](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/CC-Team-Research/2024-11%20Conditions%20Info%20Entry)
+- [2024-07 Conditions Page Assistive Technology Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/CC-Team-Research/2024-07%20Conditions%20Page%20Assistive%20Technology%20Testing)
+
+### Disability Benefits Team 1
+- [2024-11-Toxic Exposure](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2024-11-Toxic%20Exposure)
 
 ## Resources
 
