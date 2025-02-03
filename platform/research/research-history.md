@@ -1121,8 +1121,7 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### November 6-16: GI Bill Statement of Benefits Wizard
 *Rainbows, Research Lead: Katelyn Caillouet*
 - 6 Veterans completed
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/statement-of-benefits/research)
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/statement-of-benefits/research/research-plan-110718.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/statement-of-benefits/v1/research/research-plan-110718.md)
 
 ### October 2018
 #### October 22-26: Brand Consolidation Preview.VA.gov Remote Testing with VA-Veterans (WBC Study 8)
