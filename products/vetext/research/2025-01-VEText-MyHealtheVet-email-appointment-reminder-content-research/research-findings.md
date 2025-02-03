@@ -5,7 +5,7 @@
 
 Date: 02/05/2025
 
-[Jamie Ramsay] [jamie.ramsay@oddball.io]
+Jamie Ramsay jamie.ramsay@oddball.io
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
