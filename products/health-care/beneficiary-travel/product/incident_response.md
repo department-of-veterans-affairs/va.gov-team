@@ -3,6 +3,7 @@
 ## Product Description
 The BTSSS (aka Travel Pay) feature allows Veterans who meet certain criteria to be reimbursed for traveling to appointments. At the time, the features include:
 * Claim Status
+* Simple, Mileage-Only Claims (SMOC)
 
 ## Routes to code
 - [Frontend application](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/travel-pay)
@@ -11,7 +12,7 @@ The BTSSS (aka Travel Pay) feature allows Veterans who meet certain criteria to 
 ## Contacts
 
 ### Team Members:
-- DSVA Product Lead: Kay Lawyer (katherine.lawyer@va.gov)
+- OCTO Product Lead: Kay Lawyer (katherine.lawyer@va.gov)
 - Team Product Manager: Ayush Chakravarty (ayush.chakravarty@adhocteam.us)
 - Tech Lead: Kevin Duensing (kevin.duensing@adhocteam.us)
 - OCTO Tech Lead: Mark Dewey (mark.dewey@va.gov)
@@ -24,6 +25,7 @@ The BTSSS (aka Travel Pay) feature allows Veterans who meet certain criteria to 
 
 ### Errors and Metrics
 [Datadog Monitors](https://vagov.ddog-gov.com/monitors/manage?q=travel%20pay&order=desc)
+
 
 ### Issue investigation steps
 - Flag to the platform team and security team that there is an incident using standard VA.gov practices
@@ -42,6 +44,7 @@ Feature disabled upon critical security incidents and PII incidents.
 
 #### Rollback
 Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics both on Google Analytics and DataDog. If they see a spike in errors or unexpected behavior, they will flag to the engineering team that there is a problem. The engineering team will do the following:
+
 #### If a critical severity issue
 1. The feature toggle will be disabled for all users
 2. Debugging will start immediately
@@ -65,3 +68,13 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
     - Never logged
     - Only shown to fully authenticated Veterans
     - Verified that claim numbers are shown only to the Veterans that own them
+
+## Alerts
+- The team is on production support during business hours (M-F, 9 am to 5 pm ET)
+- Team Members on production support:
+    - Kevin Duensing
+    - Liz Townsend
+    - Calvin Cieslak
+- Based on the type of issue, the team will take the following action:
+    -   Start a slack thread containing key information and tagging the product manager and other engineers to alert them
+    -   Discuss and determine the course of action needed to mitigate this issue in the short-term (day, week) and longer-term (month)
