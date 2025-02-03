@@ -2,7 +2,7 @@
 name: UAE UX Task Template
 about: Tasks for the Unified Appointments Experience Team
 title: ''
-labels: uae-ux
+labels: 
 assignees: ''
 projects: ["department-of-veterans-affairs/1214"]
 
