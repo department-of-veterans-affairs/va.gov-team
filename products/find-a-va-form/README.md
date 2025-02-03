@@ -115,14 +115,11 @@ Within VA, all administrations have an internal process to review & approve form
 
 ### Corrections
 If you discover that a specific form PDF has a problem (dead link, incorrect info, problems being fillable, incorrect metadata, etc.), the correct process to mitigate is: 
-* Reach out to the Forms manager for the administration in question (e.g. VBA, VACO, VHA) by email.
-* cc Michelle Middaugh, the OCTODE Product Owner of the Forms DB integration into Drupal and VA.gov
+* Email to the VA Forms Managers group email (VAFormsManagers@mail.va.gov), copy the relevant Forms manager (below) for the administration in question (e.g. VBA, VACO, VHA), cc Michelle Middaugh (suzanne.middaugh@va.gov), the OCTODE Product Owner of the Forms DB integration into Drupal and VA.gov
 * Provide the link to the form on VA.gov, and or the direct link to the PDF in question, and request that the Forms Manager correct the PDF and upload a new version to the Forms DB, or correct the form metadata, etc.
 
-### Forms managers
+**Forms managers**
 Forms managers provide an administrative function to manage Forms data entry and final approved PDFs per administration in the Forms DB. 
-
-To request an edit or change to a form, email the VA Forms Managers group email -> VAFormsManagers@mail.va.gov, copy Michelle Middaugh (suzanne.middaugh@va.gov) and the relevant individual contact below:
 
 |Form prefix | Administration | Forms POC|
 |----|----|----|
