@@ -1,7 +1,7 @@
 # About this research
 
 ## Study
-[2025-01 Ask VA: Automation concept testing #TBD](add link)
+[2025-01 Ask VA: Automation concept testing #791](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/791)
 
 ## Background
 Ask VA (AVA) lets Veterans, their family members and other submitters ask VA a question. In 2024, VA received over 500,000 questions through Ask VA. Ask VA includes a form, where submitters share their question with VA, and a dashboard, where submitters review past questions, read replies from VA and reply back.
