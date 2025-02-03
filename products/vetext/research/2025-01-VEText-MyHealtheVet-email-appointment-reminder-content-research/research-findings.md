@@ -1,11 +1,11 @@
 
-# [Study] Research Findings 
+# MyHealtheVet email Appointment Reminder Content Research Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE)
 
-Date: MM/DD/YYYY
+Date: 02/05/2025
 
-[Designer 1] [email], [Designer 2] [email]
+[Jamie Ramsay] [jamie.ramsay@oddball.io]
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -19,40 +19,55 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+- What content do Veterans want/expect in email health appointment reminders?
 
-_Then, describe your goals for this research_
+- What schedule is most effective for receiving appointment reminders?
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals)_
+- If email reminders are not useful currently, what could make them useful?
 
+
+### Outcome
+This research will allow us to gauge Veteran satisfaction with current email appointment reminders. Additionally, we may learn what can improve and then make content, functionality or cadence changes accordingly.
+
+   This will:
+
+  - Increase recipient satisfaction
+
+  - Decrease oversaturation of reminders
+
+  - Improve care by getting Veterans to their appointments, prepared with necessary information
 
 
 ## Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
-
-## Methodology 
-
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
+1. Overall do Veterans find value in email appointment reminders? Why or why not?
+2. Is there a way to make the content or cadence of email appointment reminders more useful?
 
 
-## Hypotheses and Conclusions
+### Hypothesis
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+* **H1:** Veterans want more information in MHV emails inclucing provider and location: **True**
+    * *"I've gone to appointments where I don't know who I am going to see and I don't like that." -P6*
+    * *"If it could say 4 North, which would be on the 4th floor on the North, that information would save time for me*
+    * *"Where do you go? If you really want to show up there on time, that really helps"*  -P1
+    * *"I can go down my appointment list right now and just look at the information and the date and I can tell you who it's with*" -P8
+* **H2**: Veterans currently do not find the MHV email reminders as useful as the appointment list within the MHV portal: **Likely false**
+    * Veterans are using emails (and texts) as confirmation and/or reference to more complete information that they have already recorded in their personal calendars or that some check in VA.gov app
+    * *"Typically what I'll do is go in and bounce that against my calendar, make sure there is not any inconsistencies" -P1*
+    * *"I double check what they are saying and what I have because a lot of times, they have been wrong." -P6*
+* Veterans get detailed information:
+    * at the time of appointment/confirmation email
+    * By making assumptions of who they are seeing and for what specialty based on prior knowledge of the location name
+    * Calling the facilities, which can take a long time or cause frustration when a call goes to the general (not clinic-specific) number
+    * Consulting the VA.gov app appointment information
+    * Using mailed appointment postcards, which may not arrive on time/inconsistent
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
 
-_Hypothesis statement_
+## Methodology	
+1\. Our methodology will be a remote moderated interview of Veterans where we will discuss with Veterans what information they want in email reminders for health appointments and what they would expect to be included.
+
+2\. After discussing what they would expect, we will show them an example of the existing MHV email reminder and ask them to share their thoughts on the content and cadence as well as how they currently use MHV email reminders.
+
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
