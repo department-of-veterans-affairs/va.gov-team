@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: January 30, 2025
+Last updated by @tygindraux: February 3, 2025
 
 **Jump ahead to:**
 - [Background](#background)
@@ -99,9 +99,7 @@ We will work with Perigean to recruit Veterans.
 
 We will recruit 10 Veterans for a total of 7-8 completed sessions.
 
-> **Please note:** I will add a link once I create a recruitment ticket.
-
-For more details about our criteria, refer to our [Recruitment ticket](add link).
+For more details about our criteria, refer to our [Recruitment ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/792).
 
 |# of participants|Criteria|
 |:--|:--|
