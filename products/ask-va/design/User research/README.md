@@ -14,7 +14,7 @@ This folder contains our user research documentation.
 |[Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/05-2024%20Dashboard)|Usability testing|May-June 2024|[#540](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/540)|
 |[Assistive technology: Form](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form)|Usability testing|August 2024|[#602](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/602)|
 |[Assistive technology: Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Dashboard)|Usability testing|September 2024|[#626](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/626)|
-|[Automation concept testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing)|Concept testing|Jan-March 2025||
+|[Automation concept testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing)|Concept testing|Jan-March 2025|[#791](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/791)|
 
 ## Questions?
 
