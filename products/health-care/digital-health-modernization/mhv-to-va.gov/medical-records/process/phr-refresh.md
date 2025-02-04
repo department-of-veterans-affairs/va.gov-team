@@ -53,7 +53,7 @@ sequenceDiagram
 		end
 		alt Patient record doesn't exist in FHIR
 			VA->>FHIR: GET /Patient
-			FHIR-->>VA: HTTP 500 "HAPI-1363: Either No patient<br />or multiple patient found"
+			FHIR-->>VA: HTTP 202 No patient found
 			VA-->>VW: HTTP 202 ACCEPTED
 		else Patient record exists in FHIR
 			alt Patient record not loaded in session
