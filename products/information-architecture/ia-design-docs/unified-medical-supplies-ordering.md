@@ -10,8 +10,7 @@
 * New URL: va.gov/my-health/order-medical-supplies
 
 ## On this page
-- [User/page flows](#flows)
-- [Page structure](#map)
+- [Sitemap](#map)
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
 - [Redirects](#redirects)
@@ -19,7 +18,7 @@
 
 ## <a name="flows"></a>User/page flows <br>
 
-## <a name="map"></a>Page structure<br>
+## <a name="map"></a>Sitemap<br>
 The form is broadening to cover additional medical supplies, but is also shrinking its sitemap. Updated sitemap is below:
 <img width="824" alt="Screenshot 2025-02-04 at 10 03 18 AM" src="https://github.com/user-attachments/assets/4d01bd7d-88af-42a6-b942-7c57bf73e7e8" />
 
