@@ -164,13 +164,13 @@ Dave and Rodney are available for a kickoff call during any of these times:
 - **Mon Feb 10** 10 am - 5 pm ET
 - **Tue Feb 11** 10 am - 1 or 2-5 pm ET
 
-Please invite Rodney Little (rodney.little@civicactions.com) and Dave (dave.pickett@civicactions.com) to the kickoff call.
+Please invite Rodney Little and Dave to the kickoff call.
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
 We will schedule 1-2 **pilot tests**:
-- Pilot 1: **Feb TBD at X ET** with TBD email
-- Pilot 2: **Feb TBD at Y ET** with TBD email
+- Pilot 1: **Feb TBD at X ET** with TBD 
+- Pilot 2: **Feb TBD at Y ET** with TBD 
 
 ### Research sessions
 Planned dates of research: **February 17-21, 2025** 
