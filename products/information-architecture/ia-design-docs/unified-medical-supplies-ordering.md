@@ -22,6 +22,7 @@ The form is broadening to cover additional medical supplies, but is also shrinki
 
 ## <a name="url"></a>URLs, breadcrumbs, title tags
 
+**High-level:**
 **Breadcrumbs**: The first & last page of the form should use the traditional breadcrumb component & reflects the /introduction page. The body of the form should have simple `<- Back` link breadcrumbs (on mobile + desktop) throughout. 
   * First & last page desktop: `VA.gov home > My HealtheVet > Order medical supplies`
   * First & last page mobile: `<- My HealtheVet`
@@ -29,6 +30,7 @@ The form is broadening to cover additional medical supplies, but is also shrinki
 **Title tags**: all pages of the form should have the same title tag
   * Order Medical Supplies | Veterans Affairs
 
+**Details** (page by page information):
 1. **Introduction page**
   * **URL**: va.gov/health-care/order-medical-supplies/introduction
   * **H1**: Order medical supplies
