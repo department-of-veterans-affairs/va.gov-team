@@ -87,11 +87,20 @@ There are two possible entry points to this form:
   * _this page does not check for a facility in the user's profile, the form itself will need to check for that and route-guard users to the /my-health landing page if a facility is not present. Users will see an appropriate warning alert in-place on the landing page telling users that they do not have access to My HealtheVet._
 
 ## <a name="redirects"></a>Redirects <br>
-It appears there is an empty directory at `va.gov/my-health/order-medical-supplies` - this needs to be redirected to the `/introduction` page. 
+It appears there is an empty directory at `va.gov/my-health/order-medical-supplies` - this needs to be redirected to the `/introduction` page (included in table below). 
+
+| Current URL                                                                         | Redirect to                                                 |
+|-------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| va.gov/health-care/order-hearing-aid-batteries-and-accessories                      | va.gov/my-health/order-medical-supplies/      |
+| va.gov/health-care/order-hearing-aid-batteries-and-accessories/*                    | va.gov/my-health/order-medical-supplies/      |
+| va.gov/my-health/order-medical-supplies                                             | va.gov/my-health/order-medical-supplies/introduction      |
 
 ## <a name="bestbets"></a>Best Bets<br>
 New medical supplies now supported by this form that should have best bets added
-* 
+* Item
+* Item
+* Item
+* Item
 
 ## ARCHIVE - Information about the previous version of this form:
 
