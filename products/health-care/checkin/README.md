@@ -37,12 +37,12 @@
     - Full Stack Engineers
       - [Lee DeLarm](https://dsva.slack.com/archives/D05B37XJF8C)
       - [Bill Tran](https://dsva.slack.com/team/U08BFMHL9MF)
+      - Carlos Felix
+      - [Phil DeFraties](https://dsva.slack.com/team/U089MDZ98BZ)
+      - [Devin McCurdy (temporary)](https://dsva.slack.com/team/U06HX72KD7Y)
     - Front End Engineers
       - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)  
-    - Back End Engineers
-      - [Phil DeFraties](https://dsva.slack.com/team/U089MDZ98BZ)
-      - Carlos Felix
-      - [Devin McCurdy (temporary)](https://dsva.slack.com/team/U06HX72KD7Y)
+    - Back End Engineers                 
       - [Corey Ferris (temporary)](https://dsva.slack.com/team/U01F5F6V8QN)
     - Native Mobile App
       - [Juan Castillo](https://dsva.slack.com/archives/D07QU9YQ7HA)
