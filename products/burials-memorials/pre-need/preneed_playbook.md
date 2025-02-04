@@ -5,7 +5,7 @@ NOTE:
 - This document serves the requirement of an incident response procedure for your product. This document should be iterated upon as changes are made to the product.
 
 ## Product Description
-Preneed product outline https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/README-2023.md#user-problem-statement
+[Preneed product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/README-2023.md#user-problem-statement)
 
 ## Routes to code
 links here
