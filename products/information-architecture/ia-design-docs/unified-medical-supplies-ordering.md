@@ -16,16 +16,81 @@
 ## <a name="flows"></a>User/page flows <br>
 
 ## <a name="map"></a>Page structure<br>
+The form is broadening to cover additional medical supplies, but is also shrinking its sitemap. Updated sitemap is below:
 
-## <a name="url"></a>URLs and breadcrumbs
+## <a name="url"></a>URLs, breadcrumbs, title tags
+
+**Breadcrumbs**: The first & last page of the form should use the traditional breadcrumb component & reflects the /introduction page. The body of the form should have simple `<- Back` link breadcrumbs (on mobile + desktop) throughout. 
+  * First & last page desktop: `VA.gov home > My HealtheVet > Order medical supplies`
+  * First & last page mobile: `<- My HealtheVet`
+  * Body of form: `<- Back`
+**Title tags**: all pages of the form should have the same title tag
+  * Order Medical Supplies | Veterans Affairs
+
+1. **Introduction page**
+  * **URL**: va.gov/health-care/order-medical-supplies/introduction
+  * **H1**: Order medical supplies
+  * **Lede text**: Use this form to order your medical supplies online
+  * **Breadcrumbs**: 
+    * Desktop: `VA.gov home > My HealtheVet > Order medical supplies`
+    * Mobile: `<- My HealtheVet`
+  * **Title tag**: Order Medical Supplies | Veterans Affairs
+2. **Select supplies page**
+  * **URL**: va.gov/my-health/order-medical-supplies/select-supplies
+  * **H1**: Order medical supplies
+  * **H2**: Select supplies (form stepper component)
+  * **Breadcrumbs**: `<- Back`
+  * **Title tag**: Order Medical Supplies | Veterans Affairs
+3. **Contact information page**
+  * **URL**: va.gov/my-health/order-medical-supplies/contact-information
+  * **H1**: Order medical supplies
+  * **H2**: Contact information (form stepper component)
+  * **Breadcrumbs**: `<- Back`
+  * **Title tag**: Order Medical Supplies | Veterans Affairs
+  * **Edit email address**
+    * URL: va.gov/health-care/order-medical-supplies/edit-email
+    * H3: Edit email address
+    * Other elements same as above
+  * **Edit shipping address**
+    * URL: va.gov/health-care/order-medical-supplies/edit-shipping
+    * H3: Edit shipping address
+    * Other elements same as above
+   
+4. **Review page**
+  * **URL**: va.gov/my-health/order-medical-supplies/review-order-details
+  * **H1**: Order medical supplies
+  * **H2**: Review order details
+  * **Breadcrumbs**: `<- Back`
+  * **Title tag**: Order Medical Supplies | Veterans Affairs
+
+5. **Confirmtation page**
+  * **URL**: `va.gov/my-health/order-medical-supplies/confirmation`
+  * **H1**: Order medical supplies
+  * **H2**:
+    * [Success alert]: You've submitted your medical supplies order
+    * [Error alert]: Reorder request not submitted
+  * **Breadcrumbs**:
+    * Desktop: `VA.gov home > My HealtheVet > Order medical supplies`
+    * Mobile: `<- My HealtheVet`
+  * **Title tag**: Order Medical Supplies | Veterans Affairs
 
 ## <a name="nav"></a>Entry points <br>
-
-## <a name="nav"></a>Entry points <br>
+There are two possible entry points to this form: 
+1. The My HealtheVet landing page at `va.gov/my-health` - this URL requires several validation checks for access
+  * check 1: must be signed-in
+  * check 2: must be ID-verified
+  * check 3: must have at least one VA facility listed in the user's profile
+2. The health care hub page for supply re-ordering at `va.gov/health-care/order-medical-supplies` - this URL has one less access check. This page can be accessed many ways: search engine, site search, side navigation/secondary nav, and primary mega menu nav. 
+  * check 1: Signed-in
+  * check 2: ID-verified
+  * _this page does not check for a facility in the user's profile, the form itself will need to check for that and route-guard users to the /my-health landing page if a facility is not present. Users will see an appropriate warning alert in-place on the landing page telling users that they do not have access to My HealtheVet._
 
 ## <a name="redirects"></a>Redirects <br>
+It appears there is an empty directory at `va.gov/my-health/order-medical-supplies` - this needs to be redirected to the `/introduction` page. 
 
 ## <a name="bestbets"></a>Best Bets<br>
+New medical supplies now supported by this form that should have best bets added
+* 
 
 ## ARCHIVE - Information about the previous version of this form:
 
