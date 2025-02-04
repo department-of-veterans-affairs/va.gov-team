@@ -42,30 +42,21 @@ graph TB
         subgraph "CC Experience"
             VA_API[Vets-API<br>Ruby on Rails]
             VA_NOTIFY[VA Notify]
-            POSTGRES[(Postgres DB)]
-            REDIS[(Redis Cache)]
-            SIDEKIQ[Sidekiq Job]
+            CCRA_SYSTEM
         end
     end
     MAP[MAP System]
     EPS[EPS System]
-    TWILIO[Twilio]
 
     User -->|HTTPS| VW
     VW -->|HTTPS| VA_API
-    VA_API -->|Read/Write| POSTGRES
-    VA_API -->|Cache| REDIS
-    VA_API -->|Trigger| SIDEKIQ
-    SIDEKIQ -->|Fetch Data| MAP
     VA_API -->|Schedule Appointments| EPS
-    VA_NOTIFY -->|Send Notifications| TWILIO
-    TWILIO -->|SMS/Email| User
     VA_API -->|Send Notifications| VA_NOTIFY
     
     classDef vaSystem fill:#e6f3ff,stroke:#333,stroke-width:2px;
     classDef external fill:#f9f9f9,stroke:#333,stroke-width:2px;
-    class VW,VA_API,VA_NOTIFY,POSTGRES,REDIS,SIDEKIQ vaSystem;
-    class MAP,EPS,TWILIO external;
+    class VW,VA_API,VA_NOTIFY vaSystem;
+    class MAP,EPS,CCRA external;
 ```
 
 ## Referral Data Model
