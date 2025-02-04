@@ -1,4 +1,3 @@
-# Note: This page is in draft
 # Unauthenticated page experience ratings: January 2025
 ## Related overall scores
 - **Total customer satisfaction score:** 53.9% (0% change from last period)
@@ -67,8 +66,10 @@ All pages have ratings of 2 or below.
    
 ## Analysis
 [Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20ratings%20tracking%20January%202025.xlsx?d=w3dfe289f7914463eb663c9eecee82d20&csf=1&web=1&e=ocRNrO)
+- This is the fifth month in a row R&S didn't meet our goal of 75% or higher "good" ratings, with a 60% "good" average rating. This can be attributed to large numbers of "bad" ratings for sign-in related pages. This will most likely continue during the sign-in transition process but we will continue to monitor it.
 - Performance isn't as high when broken down to individual pages:
   - 24% of pages are scoring at 90% or higher "good"
   - 49% of pages are meeting our goal of 75% or higher "good," while 57% of pages are scoring 70% or higher
   - 26% of pages are scoring at less than 50% "good," with 4% scoring at less than 10% "good" 
-- 
+- All but 2 of the lowest rated R&S pages (by lowest "good" rating percentage and highest volume of total responses with <50% "good" rating" were connected to sign-in. We'll continue to review Medallia feedback to determine if this has to do with the process or the content on the pages.
+- The PACT Act page continues to score high with a high number of views.
