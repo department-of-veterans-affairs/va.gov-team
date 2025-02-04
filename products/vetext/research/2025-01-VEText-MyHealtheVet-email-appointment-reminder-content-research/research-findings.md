@@ -264,7 +264,6 @@ One participant detailed thoughts on why Veterans might no-show to appointments,
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
 **1. PHI reminders should include: date, time, address including floor/building information, clinic name, appointment status, provider name, direct clinic numbers for scheduling, and modality (in-person, video, telephone) of appointment**
 
