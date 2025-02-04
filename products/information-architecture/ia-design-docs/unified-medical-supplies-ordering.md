@@ -23,6 +23,10 @@ The form is broadening to cover additional medical supplies, but is also shrinki
 ## <a name="url"></a>Page titles, URLs, breadcrumbs, title tags
 
 ### High-level specifications:
+**URL:** Base URL for this form: `va.gov/my-health/order-medical-supplies`
+**H1**: All pages of the form should be: "Order medical supplies
+**H2**: Will vary by form-stepper / chapter 
+**H3**: _If applicable, will provide more narrower page information below the form step_
 **Breadcrumbs**: The first & last page of the form should use the traditional breadcrumb component & reflects the /introduction page. The body of the form should have simple `<- Back` link breadcrumbs (on mobile + desktop) throughout. 
   * First & last page desktop: `VA.gov home > My HealtheVet > Order medical supplies`
   * First & last page mobile: `<- My HealtheVet`
