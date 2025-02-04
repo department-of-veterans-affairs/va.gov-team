@@ -194,8 +194,8 @@ Feb 20, 2025 | 9-10, 10:30-11:30, 12-1, 1:30-2:30, 4-5, 5:30-6, 6:30-7:30
 Feb 21, 2025 | 9-10, 4-5, 5:30-6, 6:30-7:30 
 	
 ## Team Roles
-- **Moderator:** Rodney Little (rodney.little@civicactions.com)
-- **Research guide writing and task development:** Cindy Merrill (cindy.merrill@agile6.com)
+- **Moderator:** Rodney Little 
+- **Research guide writing and task development:** Cindy Merrill
 - **Participant recruiting & screening:** Perigean
 - **Project point of contact:** Cindy Merrill *only thru Feb 7*, Rodney Little, and Dave Pickett 
 - **Participant(s) for pilot test:** TBD
