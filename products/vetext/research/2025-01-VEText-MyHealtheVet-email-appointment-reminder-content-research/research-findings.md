@@ -266,26 +266,37 @@ One participant detailed thoughts on why Veterans might no-show to appointments,
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-1. Include provider, direct clinic numbers for scheduling and address including floor/building information
+**1. PHI reminders should include: date, time, address including floor/building information, clinic name, appointment status, provider name, direct clinic numbers for scheduling, and modality (in-person, video, telephone) of appointment**
 
-2. Approve PHI version of email and offer it asap.
+    73% of participants want provider name in emails
+    64% of participants want address with building name/floor in emails
+    45% of participants want status listed in emails 
+    At least 50% of participants find value in including appointment modality in emails
+    Direct clinic numbers save Veterans time and frustration and should be prioritized for specialty clinics 
+ 
+      
+**2. Approve PHI version of email and offer it as soon as possible.**
 
-3. Move forward with a more VADS formatted email that includes headings, highlighted appointment information and consider ways to consolidate/link out some of the non-appointment detail information such as how to prepare or change an appointment.
+    100% of participants preferred the PHI email, both because it contained more useful information about an appointment as well as it was formatted in a way that made it more “user friendly.”
 
-4. Email formatting should be designed with sharability in mind (copy/paste, screen shots, link to share)
+  
+**3. Move forward with a more VADS formatted email that includes headings, highlighted appointment information and consider ways to consolidate/link out some of the non-appointment detail information such as how to prepare or change an appointment.**
 
-5. Create a section for parking details for each facility
+**4. Email formatting should be designed with sharability in mind (copy/paste, screen shots, link to share).**
 
-6. Hyperlink a hospital map within the appointment information address for navigation
+**5. Create a section for parking details for each facility**
 
-7. Selecting communication preferences for all formats of reminders within VA Profile should clearly explain the result of each selection and be easily findable within the portal. Some Veterans may associate selection of VEText and/or MHV email reminders as “paperless” and conclude those selections opt them out of mailed reminders. I.E. if a Veteran selects that they want only email and text reminders, one might assume they are that they also want paper reminders. The option to receive or not receive paper reminders should be an option. Finally, if reminder cadences are standard, consider adding how many reminders a Veteran can expect from each format (i.e. Emails are sent 7 days and 1 day prior to appointments).
+**6. Hyperlink a hospital map within the appointment information address for navigation**
+
+**7. Selecting communication preferences for all formats of reminders within VA Profile should clearly explain the result of each selection and be easily findable within the portal.**
+
+    Some Veterans may associate selection of VEText and/or MHV email reminders as “paperless” and conclude those selections opt them out of mailed reminders. I.E. if a Veteran selects that they want only email and text reminders, one might assume they are that they also want paper reminders. The option to receive or not receive paper reminders should be an option. Finally, if reminder cadences are standard, consider adding how many reminders a Veteran can expect from each format (i.e. Emails are sent 7 days and 1 day prior to appointments).
 
 9. PHI needs to be explicitly explained as to what additional information will be contained.
 
 10. Continue sending MHV reminders as a list of all upcoming appointments, however consider moving cadence to 7 days and 1 day prior; consider alternatives for frequent re-occurring appointments
     
-* Recommendation 1
-    * _Supporting evidence_
+
 
 
 ## Next Steps
