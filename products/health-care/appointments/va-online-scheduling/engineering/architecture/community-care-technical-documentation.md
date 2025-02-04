@@ -56,7 +56,7 @@ graph TB
     VA_API -->|Access Referral Data| MAP
     MAP -->|Provides Data| CCRA
     VA_API -->|Schedule Appointments| EPS
-    EPS -.->|Manual Entry (Air Gap)| CCRA
+    EPS -- "Manual Entry (Air Gap)" --> CCRA
 
     classDef vaSystem fill:#e6f3ff,stroke:#333,stroke-width:2px;
     classDef external fill:#f9f9f9,stroke:#333,stroke-width:2px;
