@@ -29,7 +29,7 @@ issue tickets (if they add value when describing known errors for your product)
 [Datadog Dasboard](http://vagov.ddog-gov.com/dashboard/vvx-8pb-yq3/40-10007?fromUser=false&refresh_mode=sliding&from_ts=1738509743584&to_ts=1738682543584&live=true)
 
 ### Issue investigation steps
-- Describe common issues that may arise and explain the basic troubleshooting steps or code to modify if these issues arise.
+- Errors that may arise are investigated and would be documented into a story to find fixes for the cause of the error.
 
 ### Flipper Features and Rollback
 There is no flipper feature, we will use the vagovprod flag in the registry file in the content build repo to handle any rollbacks.
