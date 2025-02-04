@@ -87,11 +87,11 @@ body:
   - type: dropdown
     id: mobile-web
     attributes:
-      label: Will your product live on the VA Mobile App?
+      label: Where will your product live?
       description: If you are building a product for VA.gov and the VA Mobile App then you must bring the product through the Collaboration Cycle twice, once for each domain.
       options:
-        - "Yes"
-        - "No"
+        - "VA.gov"
+        - "VA Mobile App"
     validations:
       required: true
   - type: dropdown
