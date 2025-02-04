@@ -15,7 +15,7 @@ The External Referral Appointment Scheduling System is designed to automate and 
 - Integration with VA Notify for sending referral notifications to veterans
 - Development of a frontend interface for veterans to view referrals and schedule appointments
 - Integration with the External Provider Services (EPS) system for appointment management
-- Implementation of a data retention policy for referral data
+- Integration with the CCRA (VA referrals and other info) via the MAP services as a pass through service
 - Ensuring compliance with VA accessibility standards
 
 ## Assumptions
@@ -23,8 +23,7 @@ The External Referral Appointment Scheduling System is designed to automate and 
 2. Veterans have access to either SMS or email for receiving notifications
 3. The EPS system is available and can be integrated for appointment scheduling
 4. Staff members will continue to manually synchronize appointment data between EPS and Vista systems
-5. The existing vets-api encryption library is suitable for securing referral data
-6. The system will operate within the VA's existing authentication framework
+5. The system will operate within the VA's existing authentication framework
 
 ## Design Decisions
 1. Utilization of Redux for state management in the frontend
@@ -196,7 +195,12 @@ sequenceDiagram
 2. User is directed to login and authenticate.
 3. After authentication, user is redirected to the referral page.
 4. Frontend retrieves referral data from Vets API and stores it in Redux.
-5. Frontend checks for EPS appointments and combines them with existing appointments in Redux.
+5. If an appointment exists that matches a referral number of the referral coming in, reject the apppointment, as we are ONLY booking first referral appointments
+6. Frontend checks for EPS appointments and combines them with existing appointments in Redux for the list.
+7. Clicking into the scheduling process shows referral information
+8. After the user verifies this information, they may go to the slots of the provider available (slots are date/time unique points that a user can book an appointment in)
+9. After choosing a slot, the user sees a final verification page
+10. Clicking confirm, will book the appointment in CCRA, and send the user a notification (there are some async processes here in the EPS system and the airgap to the CCRA system)
 
 ## Resources
 
@@ -228,48 +232,19 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 - An existing appointment refers to an appointment that has been made with a referral ID, that referral ID matches to a "new" referral, which means it was already made. We can also possibly hold referrals in our DB and mark them as "completed" or "referral made" in the same manner, after the user has completed making an appointment with a referral
 - Expired referrals are referrals whose end date has expired, regardless of if an appointment exists or not
 
-## Data Retention Policy
-
-### Two-tier Approach
-
-#### First Pass (Initial Release)
-- Store referral data from MAP until the appointment exists in CCRA.
-- Daily checks for appointment existence in Vista.
-- Additional check when user views appointments.
-- Remove referral data once the appointment is verified in Vista.
-- Verification involves matching patientICN, provider, and other data between EPS and Vista.
-
-#### Second Tier (Future Implementation)
-- Utilize CCRA to provide referralID.
-- Remove need to store referral information after user makes an appointment.
-- Use CCRA (via vets-api) to pull referral data and associated appointments from EPS or other systems.
-
-#### Addendum
-- Delete referrals after the expiration date (ReferralToDate).
-- Perform deletion during the daily scan for new referrals.
-
-## Security Considerations
-- Referral data encrypted using the existing vets-api encryption library.
-- Referral link in notifications contains an encrypted referralID.
-- Full authentication required before accessing referral information.
-
 ## Integration Points
 1. CCRA: Source of referral data
 2. VA Notify: For sending notifications to veterans
 3. EPS (External Provider Services): For appointment management
 
 ## Performance Considerations
-- The nightly job is not time-critical and can run for a couple of hours if needed.
-- Daily scans for appointment verification and referral expiration.
+- Drive time seems to take a long time to retrieve results
+- Async process in the confirmation
 
 ## Accessibility
 - The frontend interface will comply with existing VA accessibility standards.
 - No additional accessibility requirements specific to this project.
 
 ## Open Questions and Future Considerations
-1. What metrics should be tracked to measure the system's effectiveness and user satisfaction?
-2. Need to get what will be referred to as the providerID for the EPS system that matches to what's in the CCRA object. Refer to EPS document/yaml/json for the call `provider-services/{providerServiceId}`
-3. We need to add a shortURL for email/SMS (also need to expose CHIP / vets-api in order to do this)
-4. We MIGHT need to write something to parse data over FTP to get data from CCRA
-5. Text for initial scope (SMS)
-6. Get user data from full auth user object in vets-api to get address and phone and email
+1. Need to get what will be referred to as the providerID for the EPS system that matches to what's in the CCRA object. Refer to EPS document/yaml/json for the call `provider-services/{providerServiceId}`
+2. Get user data from full auth user object in vets-api to get address and phone and email
