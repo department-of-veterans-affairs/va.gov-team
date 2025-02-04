@@ -1,4 +1,4 @@
-# IA Design for Unified Medical Supply Ordering page
+# IA Design for Medical Supply re-order form
 **STATUS: Redesign in progress**
 
 **Team:** There isn't really a team dedicated to supply re-ordering. It's a combination of Cartography team (engineering) + OCTO Fellows Jasmine Yohannan (Product) & Jenny Wang (Design). 
