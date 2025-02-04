@@ -112,10 +112,19 @@
 |-----|-----------|----|-------|
 |ITF Migration|DataDog Dashboard for monitoring LH and EVVS traffic during migration|Link||
 
-## Engineering
+## Engineering  (NOTE: Seth reworked this section with some proposals 2/4/25)
+#### Github Repos
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
-
+#### Monitoring
+|Title|Description|Link|Version|
+|-----|-----------|----|-------|
+#### Support/Remediation
+|Title|Description|Link|Version|
+|-----|-----------|----|-------|
+#### Documentation
+|Title|Description|Link|Version|
+|-----|-----------|----|-------|
 
 ## Other Related
 |Title|Description|Link|Version|
