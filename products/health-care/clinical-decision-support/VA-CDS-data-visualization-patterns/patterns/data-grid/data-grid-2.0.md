@@ -6,20 +6,25 @@ The Data Grid v2.0 pattern enables the product team to customize grid interactio
 <br>
 
 ## Requirements in scope
-1. Data Grid API
-3. affixing column view (aka column stays in view during horizontal scrolling)
+1. exposing list of interactions
+2. sticky column view (aka column stays in view during horizontal scrolling)
    - [see slack for this priority agreement ](https://dsva.slack.com/archives/C04DMDC3TS8/p1734548335437739)
-4. quick filter (aka multi-selection filtering)
+   - important for a11y
+3. adding, deleting, and editing rows
+   - https://muhimasri.com/blogs/add-remove-react-table-rows/
+4. cell editor for select
 5. cell editor for date picker (aka date selection affordance)
-6. cell editor for select
-7. adding, deleting, and updating rows
-8. column reordering
-9. tagging
-10. Meets accessibility scores by WCAG 2.1 (Section 508) (update to 2.2)
-11. Compatible and _can_ be adopted by VADS and USWDS
-    * https://design.va.gov
-    * https://designsystem.digital.gov
+6. visual tagging in the table
+7. reordering columns (dragging and dropping columns)
+   - https://tanstack.com/table/latest/docs/guide/column-ordering
+8. quick filter (aka multi-selection filtering) (need to validate the variant)
+   - https://borstch.com/snippet/implementing-multi-select-filters-in-react-tanstack-table
+9. Meets accessibility scores by WCAG 2.1 (Section 508) (update to 2.2)
 <br>
+
+## Not in Scope
+
+
 
 ## Pilot Partners
 ### 1. Lung Cancer Screening (LCS)
