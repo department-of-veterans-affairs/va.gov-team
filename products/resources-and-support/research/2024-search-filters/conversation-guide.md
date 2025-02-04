@@ -248,7 +248,7 @@ What if this this page doesn't answer your question? What would you do next?
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target (Evidence to support VA pension,...)? successful / needed help / unsuccessful]
+- [Found target *(Evidence to support VA pension,...)*? successful / needed help / unsuccessful]
 
 
 ## Task 6: Sign in
@@ -272,7 +272,7 @@ Let's say that you want to refill a prescription but you're having some difficul
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target (Signing in to VA.gov)? successful / needed help / unsuccessful]
+- [Found target *(Signing in to VA.gov)*? successful / needed help / unsuccessful]
 
 ## Task 7: Payments and debt
 Please go back to the first page you were on [landing pg via breadcrumb or another way].
@@ -298,7 +298,7 @@ What if this this page doesn't answer your question? What would you do next?
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target (VA debt management)? successful / needed help / unsuccessful]
+- [Found target *(VA debt management)*? successful / needed help / unsuccessful]
 
 ## Task 8: Job change
 Please go back to the first page you were on [landing pg via breadcrumb or another way]. 
@@ -321,7 +321,7 @@ Let's say that you're thinking about looking for a different kind of job, and yo
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target (GI Bill, Compare VA education benefits, or Career resources)? successful / needed help / unsuccessful]
+- [Found target *(GI Bill, Compare VA education benefits, or Career resources)*? successful / needed help / unsuccessful]
 
 
 ## Post-Task Interview - 7 minutes
