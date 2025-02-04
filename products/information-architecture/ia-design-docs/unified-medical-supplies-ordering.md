@@ -5,6 +5,10 @@
 
 **What's changed:** The supply re-order form is scaling to support additional supplies for medical devices beyond just hearing aids and CPAP machines. Since the literal name of the form was scoped to those two things previously, several changes needed to be made: form name change, H1 changes, URL changes, unauth page updates, and addition of more radio buttons to handle the additional supplies. 
 
+**URL update:**
+* Old URL: va.gov/health-care/order-hearing-aid-batteries-and-accessories
+* New URL: va.gov/my-health/order-medical-supplies
+
 ## On this page
 - [User/page flows](#flows)
 - [Page structure](#map)
