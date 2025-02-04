@@ -52,7 +52,7 @@
 - ITSC (IT Strategic Comms) liaison: n/a
   
  Team 1: 
- [ZenHub Workspace](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)
+ [GitHub Projects Workspace](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2)
  GitHub team label: DBEX-TREX
 - Product manager: Dotti Cummings
 - Design and Research: Maya Carroll, Lauren Dawson, Momo Miyazaki
