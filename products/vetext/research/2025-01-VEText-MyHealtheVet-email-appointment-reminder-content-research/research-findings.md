@@ -71,20 +71,16 @@ This research will allow us to gauge Veteran satisfaction with current email app
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. Veterans want provider (8/11 participants), direct clinic numbers and a more precise location information (7/11 participants) in MHV emails
-2. Email reminders work well as reference and backup to confirming details recorded in Veterans’ personal calendars
-3. Lack of detailed information in reminders forces Veterans to be detectives, make assumptions and create their own workarounds to determine appointment details
-4. Appointment reminders need to be concise and without “filler” information
-5. Veterans are generally comfortable about PHI information being contained in their email and the usefulness of the additional information outweighs privacy concerns
-6. Veterans would like self-tailored control over how and what information they receive in reminders
-7. “Notification Preferences” section was mostly understood to be where Veterans can select the kind and amount of reminders they receive, but where this information is contained within current email is often skimmed, skipped or overlooked as superfluous “filler” 
-8. Getting to an appointment on time is a way of respecting fellow Veterans and content in reminders play a role in facilitating that
-9. Format of emails, font size and contrast, has a significant impact on usability
-10. Changes in MHV emails format should be communicated to Veterans in advance of release and across multiple channels
+1. Participants want** more appointment details in email reminders**, specifically provider, direct clinic numbers and a more precise location information
+2. Email reminders serve Veterans well as a **reference and backup to confirming appointment information** already recorded in Veterans’ personal calendars
+3. **Lack of detailed information** in reminders **forces Veterans to be detectives,** infer information from clues, and **create their own workarounds** to retrieve appointment details
+4. Email appointment reminders need to **be** **concise and without “filler” or “boilerplate” information**
+5. Participants were **generally comfortable about PHI information being contained in their email reminders,** and the **usefulness of the additional information outweighs privacy concerns.**
+6. Many participants would like **more control over how they receive reminders** and **what information is contained within** them.
+7. **“Notification Preferences” **section in the proposed, newly-formated MHV email was **mostly understood to be where Veterans can select the kind and amount of reminders they receive.** However, participants noted that this section is located in the part of the email that they **mostly skim or skip** because they focus only on appointment details.
+8. **Punctuality** fulfills Veterans in several ways including **feeling prepared**, being able to **economize trips to distant VAs** and demonstrating **respect to fellow Veterans**. **Precise and updated content in reminders play a role in facilitating timeliness.**
+9. **Format of emails, including font size and contrast**, has a significant** impact on usability.**
+10. **Changes **to the current MHV email format **should be communicated to Veterans** in advance of release and** across multiple channels.**
 
 
 ## Details of Findings 
