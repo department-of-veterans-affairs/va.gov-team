@@ -27,10 +27,11 @@ assignees: 'sara-amanda'
 
 ### What's the nature of your initiative and desired outcomes?
 
-`PLACEHOLDER TEXT for the nature of your initiative`
-
+- `PLACEHOLDER TEXT for the nature of your initiative`
+- `PLACEHOLDER TEXT for your desired outcomes`
+  
 ## Collaborate with ADE
-_[Review our menu of services,](https://github.com/department-of-veterans-affairs/va.gov-team/tree/f12c0655a990044374088eed0d48208e2a120708/teams/CAIA/accessibility) and check all the types of collaboration you're requesting, below:_
+[**Review our menu of services**,](https://github.com/department-of-veterans-affairs/va.gov-team/tree/f12c0655a990044374088eed0d48208e2a120708/teams/CAIA/accessibility) and check all the types of collaboration you're requesting, below:
 
 ### How would you like to collaborate with ADE?
 - [ ] Research support
@@ -74,7 +75,9 @@ Provide links to any supporting artifacts that can help us better understand you
 - [ ] I’m not sure
 
 ## Collaboration Cycle
-**Ticket Number:** `Link to Ticket` (if applicable)
+### Ticket Number
+`Link to Ticket` (if applicable)
+
 ### Which phases of the collaboration cycle have you completed?
 _Select all that apply._
 - [ ] Design intent
