@@ -37,7 +37,7 @@ The form is broadening to cover additional medical supplies, but is also shrinki
 ### Detailed page specifications
 1. **Introduction page**
   * **URL**: https://www.va.gov/health-care/order-medical-supplies/introduction
-  * **H1**: Order medical supplies
+  * **H1**: Medical supplies
   * **Lede text**: Use this form to order your medical supplies online
   * **Breadcrumbs**: 
     * Desktop: `VA.gov home > My HealtheVet > Order medical supplies`
