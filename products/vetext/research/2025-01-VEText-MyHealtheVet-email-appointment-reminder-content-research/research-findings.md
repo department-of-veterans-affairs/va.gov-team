@@ -207,19 +207,41 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+    **  Primary criteria (must-haves):** 
 
-We talked to **x participants.**
+
+* All must currently receive MyHealtheVet health appointment reminder emails
+* All must have had a VA health appointment in the last 12 months
+* Exactly 8 Veterans
+* Exactly 4 caregivers
+* Exactly 6 who primarily check emails on mobile devices
+* Exactly 6 who primarily check emails on desktop computers
+
+**Secondary criteria (nice-to-haves):**
+
+
+
+* 6 or more people of color
+* 6 or more age 55+
+* 6 or more with cognitive disability
+* 3 or more without a degree
+* 2 or more women
+* Veterans that additionally receive sms health appointment reminders through VEText
+* At least 1 who lives in a rural area
+* At least 1 Native Veteran
+* At least 1 LGBTQ+ Veteran
+
+We talked to **11 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 10 
+* Caregivers: 1 
+* Family members of a Veteran: 1 (caregiver was also a family member)  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 6 
+* Female: 5 
 
 
 LGBTQ+:
@@ -228,58 +250,59 @@ LGBTQ+:
 * Gay, lesbian, or bisexual: x
 
 
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+Devices used to check MHV email reminders: 
+* Desktop: 10 
+* Tablet: 1 
+* Smart phone: 8 
+
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 
+* 35-44: 2
+* 45-54: 1
+* 55-64: 3
+* 65+: 5
+* Unknown: 
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
+* High school degree or equivalent: 
+* Some college (no degree): 
+* Associate's degree, trade certificate or vocational training: 1
+* Bachelor's degree: 5
+* Master's degree: 4
+* Doctorate degree: 
 * Unknown: x
 
 
 Geographic location:
-* Urban: x
-* Rural: x
+* Urban: 6
+* Rural: 5
 * Unknown: x
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 7
+* Black: 2
+* Hispanic: 1
+* Biracial:
+* Asian: 
+* Native:
+* Prefer not to answer: 1
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 4
+* AT beginner: N/A
+* AT advanced user: N/A
+* Desktop screen reader: N/A
+* Mobile screen reader: N/A
+* Magnification/Zoom: N/A
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: N/A
+* Hearing aids: N/A
+* Sighted keyboard: N/A
+* Captions: N/A
 
 
 ## Underserved groups we haven’t talked to 
