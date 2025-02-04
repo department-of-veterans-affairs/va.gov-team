@@ -26,15 +26,15 @@ issue tickets (if they add value when describing known errors for your product)
 ## Troubleshooting
 
 ### Errors and Metrics
-link to errors and logs your product produces
-brief explanation of errors/metrics (or link to them here)
+[Datadog Dasboard](http://vagov.ddog-gov.com/dashboard/vvx-8pb-yq3/40-10007?fromUser=false&refresh_mode=sliding&from_ts=1738509743584&to_ts=1738682543584&live=true)
 
 ### Issue investigation steps
 - Describe common issues that may arise and explain the basic troubleshooting steps or code to modify if these issues arise.
 
 ### Flipper Features and Rollback
-- Is there a flipper feature? If yes, describe here and explain when to modify the flipper and to what exactly.
-- At what point, if applicable, should your code be rolled back, to what state? (optional)
+There is nno flipper feature, we will use the vagovprod flag in the registry file in the content build repo to handle any rollbacks.
 
 ## Security
 descibe any security concerns the responders should be aware, for example: Does your product have PII? Do you log senstive information that needs to be handled in a particular manner? Does your product have a known security vulnerability that has been accepted by leadership? etc.
+
+Product uses PII and that PII is scrubbed in cases of errors as not to display PII.
