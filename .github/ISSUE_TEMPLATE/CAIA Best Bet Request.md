@@ -27,7 +27,7 @@ Include any research or data you have to support the request.
  Is the page currently live? If not, when is it launching? Do you have any target dates we should be aware of?
 
 ### 5. Notify CAIA
-Post a link to this issue in Slack Channel #sitewide-content-ia and tag @Kristin Ouellette Muskat
+Post a link to this issue in Slack Channel #sitewide-content-accessibility-ia. 
 
 
 
