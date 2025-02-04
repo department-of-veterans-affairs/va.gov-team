@@ -57,7 +57,7 @@ The form is broadening to cover additional medical supplies, but is also shrinki
     * Other elements same as above
    
 4. **Review page**
-  * **URL**: va.gov/my-health/order-medical-supplies/review-order-details
+  * **URL**: va.gov/my-health/order-medical-supplies/review
   * **H1**: Order medical supplies
   * **H2**: Review order details
   * **Breadcrumbs**: `<- Back`
