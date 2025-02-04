@@ -114,17 +114,18 @@
 
 ## Engineering  (NOTE: Seth reworked this section with some proposals 2/4/25)
 #### Github Repos
-|Title|Description|Link|Version|
-|-----|-----------|----|-------|
+|Title|Description|Link|
+|-----|-----------|----|
 #### Monitoring
-|Title|Description|Link|Version|
+|Title|Description|Link|Last Updated|
 |-----|-----------|----|-------|
 #### Support/Remediation
-|Title|Description|Link|Version|
+|Title|Description|Link|Last Updated|
 |-----|-----------|----|-------|
 #### Documentation
-|Title|Description|Link|Version|
+|Title|Description|Link|Last Updated|
 |-----|-----------|----|-------|
+|Engineering Audit/Inventory|A list of engineering documents and a storehouse for documents saved in a non-standard format|[SharePoint folder](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Engineering/Audit%20and%20Inventory?csf=1&web=1&e=ZCN3CN)|01/31/25|
 
 ## Other Related
 |Title|Description|Link|Version|
