@@ -32,7 +32,7 @@ issue tickets (if they add value when describing known errors for your product)
 - Describe common issues that may arise and explain the basic troubleshooting steps or code to modify if these issues arise.
 
 ### Flipper Features and Rollback
-There is nno flipper feature, we will use the vagovprod flag in the registry file in the content build repo to handle any rollbacks.
+There is no flipper feature, we will use the vagovprod flag in the registry file in the content build repo to handle any rollbacks.
 
 ## Security
 descibe any security concerns the responders should be aware, for example: Does your product have PII? Do you log senstive information that needs to be handled in a particular manner? Does your product have a known security vulnerability that has been accepted by leadership? etc.
