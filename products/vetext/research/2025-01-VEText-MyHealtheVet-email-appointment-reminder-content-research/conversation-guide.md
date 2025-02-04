@@ -28,52 +28,44 @@ _\*Start audio and screen recording.\*_
 ### Section 1: Warm-Up Questions - 5 minutes
 
 1. What branch of the military did you serve in?
-
 2. When did you retire or separate?
-
 3. Do you currently receive health appointment reminder emails from the VA?
-
 4. Do you open/read those emails?
-
-   1. If not, how do you get information about your appointments?
-
+    1. If not, how do you get information about your appointments?
 5. Do you receive health appointment reminders by any other means like text message or phone call?
+6. What do you find is your preferred method of communication about Veterans Health Administration appointments? Why? 
+7. Walk me through your process of managing health appointment information from the time you schedule an appointment. Do you keep a personal calendar? What kind? Do you set your own reminders?
 
-6. What do you find is your preferred method of communication about Veterans Health Administration appointments? Why? Does it change depending on the kind of appointment information that is being communicated?
+
+### **Section 2: Preferred Content - 8 minutes**
 
 
 
-### Section 2: Preferred Content - 8 minutes
+1. When you open your email health appointment reminders, what information would you like to be included? What is the most important information?
 
-1. When you open your email health appointment reminders, what information would you like to be included?
 
-   1. Discuss cadence, information details, information about procedures, preparation, maps
-
-### Section 3: Thoughts on Content Based on Sample Emails - 15 minutes
+### **Section 3: Thoughts on Content Based on Sample Emails - 15 minutes**
 
 Let’s look at a sample of a [current reminder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/current-mhv-emailmockup.md):
 
+
+
 1. Can you tell me about your experience receiving email appointment reminders from the Veterans Health Administration?
-
-   1. (if also receiving VEText) How does this experience compare with your VEText texted appointment reminders?
-
 2. Is there information missing from the current reminder that you wish were included?
-
-3. How often are you receiving reminder emails from the Veterans Health Administration?
-
-   1. Is that good? Too much? What is ideal?
-
-   2. Discuss consolidation or how many appointments should be in a single email.
-
-4. How do you prefer for the Veterans Health Administration to communicate with you? - for example emails, sms, letters?
+3. How often are you receiving reminder emails from the Veterans Health Administration? Is that good? Too much? What is an ideal advance notice?
+4. How do you feel about having a list of all upcoming appointments? Would you like to have just the most immediate appointment in an email or a list of all upcoming appointments?
+5. When you are at a new facility or seeing a new provider, how do you usually find your way around the facility? Would it help to have a map of the facility itself? Would you like that linked in the reminder?
 
 Let’s look at a possible [PHI sample reminder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/product/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/Pending-MHV-PHI-emailmockup.md)
 
+
+
 1. What are your thoughts here? What do you think of the additional information?
+2. Notification preferences section: What would you think you do in this section?
+3. If you had your choice of this (PHI) reminder and one with more generic information, which would you choose to receive? Why?
+4. Do you have any concerns about privacy with an email appointment reminders that has this kind of information in it?
+5. If you saw a new email like this one in your inbox and it looked different, would you be suspicious? If you were not sure about an email that seemed to be from the Veterans Health Administration, how would you confirm its legitimacy?
 
-2. If you had your choice of this (PHI) reminder and one with more generic information, which would you choose to receive? Why?
-
-3. Do you have any concerns about privacy with your appointment reminders? If so, does that influence your method of reminder?
 
 ### Closing Interview - 5 minutes
 
