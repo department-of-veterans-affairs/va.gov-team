@@ -117,7 +117,7 @@ _Select all that apply._
 
 ```[tasklist]
 ## Related Tickets
-- [ ] https://github.com/department-of-veterans-affairs/va.gov-team/issues/####
+- [ ] https://github.com/department-of-veterans-affairs/va.gov-team/issues/102478
 - [ ] #ticketnumbergoeshere1
 - [ ] #ticketnumbergoeshere2
 - [ ] #ticketnumbergoeshere3
