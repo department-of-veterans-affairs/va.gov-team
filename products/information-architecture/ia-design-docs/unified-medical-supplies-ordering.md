@@ -103,11 +103,10 @@ It appears there is an empty directory at `va.gov/my-health/order-medical-suppli
 | https://www.va.gov/my-health/order-medical-supplies                                   | https://www.va.gov/my-health/order-medical-supplies/introduction      |
 
 ## <a name="bestbets"></a>Best Bets<br>
-New medical supplies now supported by this form that should have best bets added
-* Item
-* Item
-* Item
-* Item
+New medical devices with supplies that are now supported by this form that should have best bets added
+* TENS Unit
+* Nebulizer
+* Blood Pressure Monitor
 
 ## ARCHIVE - Information about the previous version of this form:
 
