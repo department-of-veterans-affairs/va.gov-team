@@ -129,8 +129,6 @@ sequenceDiagram
     participant User
     participant Frontend as Frontend (FE)
     participant VetsAPI as Vets API
-    participant Sidekiq as Sidekiq Job
-    participant Postgres as Postgres DB
     participant VistA as VistA
     participant EPS as EPS System
     participant VA as VA Notify
