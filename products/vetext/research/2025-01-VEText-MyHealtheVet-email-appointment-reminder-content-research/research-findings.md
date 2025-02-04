@@ -100,7 +100,7 @@ This research will allow us to gauge Veteran satisfaction with current email app
 ## Details of Findings 
 
 
-**1. What appointment details do Veterans want in MHV email appointment reminders?**
+**1.   What appointment details do Veterans want in MHV email appointment reminders?**
 
 Participants most consistently listed **date, time and place as essential detail information for appointment reminders.** This was a minimum and reflects the non-PHI details included in current MHV email reminders. **Provider name (8/11 participants)** and an exact **address specifically including floor and/or building name (7/11 participants)** were also repeated as desired details. One participant remarked that providers change frequently so that listing a provider was not as important. Participants cited the following reasons including provider's name: feeling **better prepared,** **personalizing interactions,** and not having an **expected provider switched to an unfamiliar provider** after driving a long distance for a visit. While **more than half of participants expressed a desire to add the address with building and/or floor** to help navigation and faster way-finding, one participant had **concerns that databases would not be maintained and out-of-date floor/building number might get communicated** in emails which could cause confusion.
 
@@ -300,21 +300,21 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/research-plan.md))
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/research-plan.md)
 
-[Conversation guide]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md))
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md)
 
 [Interview transcripts](link here)
 
 
 ## Tools used for Synthesis
 
-[Mural board] (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1737480479926/1cec996673a65b52cf78377a850f26d332ee59a9)
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1737480479926/1cec996673a65b52cf78377a850f26d332ee59a9)
 
 
 ## Pages and applications used
 
-[MHV email mockups] (https://www.figma.com/design/PeVgJbIBKCdJ1ENNuCCk6N/VEText-UX-Research-Assets?node-id=91-24641&t=NeQrUfV1j7anvF9F-1)
+[MHV email mockups](https://www.figma.com/design/PeVgJbIBKCdJ1ENNuCCk6N/VEText-UX-Research-Assets?node-id=91-24641&t=NeQrUfV1j7anvF9F-1)
 
 
 ## Other supporting documents created
