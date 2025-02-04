@@ -363,5 +363,5 @@ We have covered all the questions I have for you today. Thank you so much for yo
 
 ## Approvals
 - Michelle Middaugh (Sitewide PO) on Jan 31, 2025
-- Shane Strassberg (VA Research Ops) on Feb X, 2025
+- Shane Strassberg (VA Research Ops) on Feb 4, 2025
 
