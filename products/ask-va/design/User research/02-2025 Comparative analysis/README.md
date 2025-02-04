@@ -1,7 +1,7 @@
 # About this research
 
 ## Study
-This research involved a comparative analysis to review other websites alongside Ask VA. There is no associated issue in the Research Repository.
+This research involved a comparative analysis to identify and review support experiences on other websites and compare them to Ask VA. There is no associated issue in the Research Repository.
 
 ## Background
 Ask VA (AVA) lets Veterans, their family members and other submitters ask VA a question. In 2024, VA received over 500,000 questions through Ask VA. Ask VA includes a form, where submitters share their question with VA, and a dashboard, where submitters review past questions, read replies from VA and reply back.
