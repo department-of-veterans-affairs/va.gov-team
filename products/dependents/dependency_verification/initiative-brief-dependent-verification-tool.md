@@ -104,12 +104,17 @@ _What are the measurable targets you're aiming for that deliver value for Vetera
   - Additional feedback and/or changes from VBA SMEs shortly before launch could impact release timelines
 
 ### What're you building
-- Email that will be sent annually to Veterans with dependents on their benefits reminding them to verify their dependents on VA.gov
+MVP
 - Enhancements to the [view dependents page](https://www.va.gov/view-change-dependents/) that will allow Veterans to see additional info for each dependent
 - Adding a question to the view dependents page that asks Veterans if their dependent information has changed.
    - If no, VA.gov will automatically generate a 21-0538 form, ask the Veteran to review the info, sign a statement of truth, and then submit the 21-0538 form.
    - If yes, they will be directed to fill out the add/remove dependents form on VA.gov (21-686c/674).
-- We are not:
+
+Post-MVP
+- Work with VBA to update existing paper verification letter to notify Veterans they can now verify on VA.gov. This letter is sent to Veterans every 8-years asking them to verify the dependents on their benefits. If Veterans fail to respond, their benefits will be revoked and they may have to pay the VA back.
+- Email that will be sent annually to Veterans with dependents on their benefits reminding them to verify their dependents on VA.gov. It still needs to be determind how this email will be sent given that VBMS does not have a notification management system and it's not typically in scope for VA.gov to send notification emails.
+
+We are not:
   - Digitizing the 21-0538 form into a complete form flow
 
 #### Go-to-market
