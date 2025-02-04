@@ -107,10 +107,10 @@ Sessions will be conducted remotely over Zoom with transcripts please.
 ## Recruitment
 
 ### Recruitment approach
-We would like Perigean to recruit **12 people** who meet the below criteria in order to get **10 completed sessions**: 
-- 6 Veterans
+We would like Perigean to recruit **14 people** who meet the below criteria in order to get **10 completed sessions**: 
+- 7 Veterans
 - 2 Service members
-- 2 Caregivers of a Veteran
+- 3 Caregivers of a Veteran
 - 2 Family members of a Veteran
 
 We would like Perigean to walk the participants through 
@@ -124,7 +124,7 @@ We would like Perigean to walk the participants through
       - Have Zoom downloaded to their mobile device prior to the session and know how to share their screen 
       - Are willing to share over Zoom a web browser window on their mobile device 
       - Have a working microphone on their mobile device 
-    - **AT LEAST 6** must be on a smartphone (i.e., not a tablet)
+    - **AT LEAST 7** must be on a smartphone (i.e., not a tablet)
   
   - *Secondary criteria (nice-to-haves):*
      - At least 4 people have a cognitive disability (e.g., TBI) 
