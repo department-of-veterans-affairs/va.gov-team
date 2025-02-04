@@ -47,18 +47,18 @@ This research will allow us to gauge Veteran satisfaction with current email app
 ## Hypotheses and Conclusions
 
 * **Hypothesis 1:** Veterans want more information in MHV emails inclucing provider and location: **True**
-* 
+
     * *"I've gone to appointments where I don't know who I am going to see and I don't like that." -P6*
     * *"If it could say 4 North, which would be on the 4th floor on the North, that information would save time for me*
     * *"Where do you go? If you really want to show up there on time, that really helps"*  -P1
     * *"I can go down my appointment list right now and just look at the information and the date and I can tell you who it's with*" -P8
-    * 
+      
 * **Hypothesis 2**: Veterans currently do not find the MHV email reminders as useful as the appointment list within the MHV portal: **Likely false**
-* 
+
     * Veterans are using emails (and texts) as confirmation and/or reference to more complete information that they have already recorded in their personal calendars or that some check in VA.gov app. Reminders are secondary to the more complete information they record at the time the appointment is made. More detailed information about the appointments (not contained in email reminder)comes from other sources (see below)
     * *"Typically what I'll do is go in and bounce that against my calendar, make sure there is not any inconsistencies" -P1*
     * *"I double check what they are saying and what I have because a lot of times, they have been wrong." -P6*
-    * 
+      
 * Veterans get detailed information:
     * at the time of appointment/confirmation email
     * By making assumptions of who they are seeing and for what specialty based on prior knowledge of the location name
@@ -98,80 +98,100 @@ This research will allow us to gauge Veteran satisfaction with current email app
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work. [Learn how to add labels](https://depo-platform-documentation.scrollhelp.site/research-design/adding-labels-in-the-research-repository) in Platform documentation._
+
+**1. What appointment details do Veterans want in MHV email appointment reminders?**
+
+Participants most consistently listed date, time and place as essential detail information for appointment reminders. This was a minimum and reflects the non-PHI details included in current MHV email reminders. Provider name (8/11 participants) and an exact address specifically including floor and/or building name (7/11 participants) were also repeated as desired details. One participant remarked that providers change frequently so that listing a provider was not as important. Of the 8 participants who wanted to have the provider’s name included in the reminder for reasons including: feeling better prepared, personalizing interactions, and not having an expected provider switched to an unfamiliar provider after driving a long distance for a visit. While more than half of participants expressed a desire to add the address with building and/or floor to help navigation and faster way-finding, one participant had concerns that databases would not be maintained and out-of-date floor/building number might get communicated in emails and cause confusion.
 
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+> - “*If you're going to a new provider, it's kind nice to have their name.” - P4*
+> - *“There's been some switcheroonies going on when I go to the doctor.” - P3*
+> - *“If it could say 4 North, which would be on the 4th floor on the North, that information would save time for me.” - P1*
+
+Most participants also appreciated the inclusion of modality of appointment (in-person,  
+video, phone) as was included in the PHI reminder sample. Current MHV emails indicate that a Veteran can call to confirm the modality of appointment. One participant remarked how inconvenient that call would be for a single detail and said they would not make a phone call for that purpose. Only one participant mentioned that detail was not important as they attended in-person appointments exclusively.
+
+Including the status of an appointment (whether it has been canceled or confirmed) was important to include for 5 participants. For two participants, status was not important to include. And one participant indicated that listing the status felt judgmental.
+ 
+> - *“To me that's a little standoffish that you're counting how many times that I cancel." - P3*
+
+In comparing a list of all upcoming appointments versus a single appointment per email, 8/11 participants preferred to having all upcoming appointments included in a single email, as it helped them plan and prepare. 2/11 participants preferred to have only the most immediately upcoming appiontment in a reminder email.
 
 
-**Finding 1**
+**2. Email reminders serve Veterans well as a reference and backup to confirming appointment information already recorded in Veterans’ personal calendars.**
 
-Labels: label 1, label 2 
+All participants said that they regularly open and read MHV email appointment reminders, though one specified that it was secondary to reading text reminders. The most common usage of email appointment reminders was to cross-reference or doublecheck the information that participants recorded in their personal digital calendars or paper calendars. All but one participant described how they documented their appointments in their personal calendars almost immediately after scheduling the appointment, taking advantage of the ability to link the appointment to their calendar through email confirmations/reminders. Then, when a reminder came, they used the reminder to confirm nothing had changed or to “reassure” them that they had recorded the information correctly. One participant kept all reminder emails in an email folder as a reference archive. Only one participant said they did not record appointments to a personal calendar, and felt confident in their own memory and reminders.  
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+When Veterans are recording emails to their own personal digital calendars, they are often setting their own advance alerts based on factors like commute time or color-coding VA appointments. These digital calendars are often shared with family members and those who assist in transportation to appointments.
 
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> - "*Typically what I'll do is go in and bounce that against my calendar, make sure there is not any inconsistencies.” -P1*
+> - “*With the emails, I'm able to put the appointment in my Google calendar." - P2*
+> - “*I don't generally delete (email reminders). I have a VA file in my file system (on phone)” - P9* 
+> - “*As a person that  always has things on my calendar, sometimes things can get lost in the sauce. And just that reminder...I'm like, thanks for that.” - P10*
+> - "*I double check what they are saying and what I have because a lot of times, they have been wrong." - P6*
 
 
-**Finding 3**
 
-Labels: label 1, label 2 
+**3.Lack of detailed information in reminders forces Veterans to be detectives, infer information from clues,and create their own workarounds to retrieve appointment details**
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+As current MHV email reminders contain no PHI, the only appointment details provided are: date, time, VAMC name and appointment status. Participants remarked that it was by experience that they could look at the facility name and guess the specialty or provider based on where the appointment was located. So Veterans are assuming details rather or having to take extra steps and time to phone in and find out details. 
 
-Brief description
 
-> _Supporting data: Quote here_
+> - “*It doesn't really tell you where it is. It says go sign into MyHealtheVet" - P11*
+> - “*As long as I know where it is, I can generally figure out who it is" - P6*
+> - “*Why do I need to call in to get such a trivial piece of information?" - P10*
 
-> _Supporting data: Quote here_
 
+Frustrations in phoning VA facilities included: being on hold for 12 minutes, not being able to directly reach a specialty clinic, or having trouble reaching provider-specific schedulers who are only available limited times of the day. As a workaround, at least two participants said they saved direct lines to specialty clinics in their phones, “having a direct belly button to tickle when you need to” - P11, to avoid being routed through a general facility phone number.
+
+> - “*(The VA is) loathe to put clinic (phone) numbers into a lot of these emails." - P11*
+> - “*You know how hard it is to get through to your clinic sometimes?" - P9*
+> - “*That's kind of irking when you have to call the general number." - P10*
+
+Two participants pointed out that they used the VA.gov app to access complete details about their appointments.
+
+**4. Email appointment reminders need to be concise and without “filler” or “boilerplate” information**
+
+
+> - “*(The updated PHI email format) is more concise and precise" - P10*
+> - "*Be more concise." - P1*
+> - 
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
+One participant detailed thoughts on why Veterans might no-show to appointments, which included 3 factors: people in general like to complain, cumbersome travel distances to VA facilities, and lack of consequence for not showing up. The participant said that if distances were too far or required heavy-traffic commutes in urban areas, that could deter folks from getting to appointments. 
+> - “*The big thing with healthcare is access, and remembering to go to the appointments." - P11*
+> - “*It's a matter of showing up, being honest, and telling them why you're there and what you need and letting (VA providers) do their job." - P11*
 
 ## Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
 1. Include provider, direct clinic numbers for scheduling and address including floor/building information
+
 2. Approve PHI version of email and offer it asap.
+
 3. Move forward with a more VADS formatted email that includes headings, highlighted appointment information and consider ways to consolidate/link out some of the non-appointment detail information such as how to prepare or change an appointment.
+
 4. Email formatting should be designed with sharability in mind (copy/paste, screen shots, link to share)
+
 5. Create a section for parking details for each facility
+
 6. Hyperlink a hospital map within the appointment information address for navigation
-7. Selecting communication preferences for all formats of reminders within VA Profile should clearly explain the result of each selection and be easily findable within the portal. Some Veterans may associate selection of VEText and/or MHV email reminders as “paperless” and conclude those selections opt them out of mailed reminders. I.E. if a Veteran selects that they want only email and text reminders, it should not be assumed
-8. that they also want paper reminders. The option to receive or not receive paper reminders should be an option. Finally, if reminder cadences are standard, consider adding how many reminders a Veteran can expect from each format (i.e. Emails are sent 7 days and 1 day prior to appointments)
-9. PHI needs to be explicitly explained as to what additional information will be contained
+
+7. Selecting communication preferences for all formats of reminders within VA Profile should clearly explain the result of each selection and be easily findable within the portal. Some Veterans may associate selection of VEText and/or MHV email reminders as “paperless” and conclude those selections opt them out of mailed reminders. I.E. if a Veteran selects that they want only email and text reminders, one might assume they are that they also want paper reminders. The option to receive or not receive paper reminders should be an option. Finally, if reminder cadences are standard, consider adding how many reminders a Veteran can expect from each format (i.e. Emails are sent 7 days and 1 day prior to appointments).
+
+9. PHI needs to be explicitly explained as to what additional information will be contained.
+
 10. Continue sending MHV reminders as a list of all upcoming appointments, however consider moving cadence to 7 days and 1 day prior; consider alternatives for frequent re-occurring appointments
     
 * Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
     * _Supporting evidence_
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+To be determined based on next steps discussed by the team.
 
 
 ## Further research needed
@@ -181,21 +201,21 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/research-plan.md))
 
-[Conversation guide](link here)
+[Conversation guide]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md))
 
 [Interview transcripts](link here)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Mural board] (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1737480479926/1cec996673a65b52cf78377a850f26d332ee59a9)
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[MHV email mockups] (https://www.figma.com/design/PeVgJbIBKCdJ1ENNuCCk6N/VEText-UX-Research-Assets?node-id=91-24641&t=NeQrUfV1j7anvF9F-1)
 
 
 ## Other supporting documents created
@@ -240,7 +260,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 * At least 1 Native Veteran
 * At least 1 LGBTQ+ Veteran
 
-We talked to **11 participants.**
+We talked to **11 participants from 11 different states.**
 
 Audience segment:
 * Veterans: 10 
@@ -253,17 +273,11 @@ Gender:
 * Female: 5 
 
 
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
 
 Devices used to check MHV email reminders: 
 * Desktop: 10 
 * Tablet: 1 
 * Smart phone: 8 
-
 
 
 Age:
@@ -320,9 +334,4 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+* LGBTQ+
