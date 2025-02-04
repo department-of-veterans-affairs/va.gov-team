@@ -3,7 +3,12 @@ Goal of the meeting series: addressing policy related or other open questions fo
 
 # 2/4/25 Biweekly VBA-DBEX Check-in
 - 0781 and Claims for Increase (CFI)
+  - Submitting a 0781 will not support benefit a cliamant receive an increase for a service connected mental health condition
+  - 0781 will help to establish the service connection of the claim
+  - In the case where new conditions are identified in a claim for increase, these new conditions will be rerouted for development
+  - We may look to explore claim type comprehension (claim for new conditions vs CFI) down the line for now, we will proceed as these processes / forms are intended.
 - 0781 submission process for 20+ traumatic events
+  - Message to inform cliamants the ability to submit additional descriptions of traumatic events in by mail or in person upon hitting the 20 event limit.
 - Team DBEX-TREX Releases:
   - Today (2/4/2025): Received Email for Backup Path 🎉
     - We won’t see much activity with this as the Backup Path is rarely used now (🎉), but it is there.
