@@ -4,6 +4,14 @@ Goal of the meeting series: addressing policy related or other open questions fo
 # 2/4/25 Biweekly VBA-DBEX Check-in
 - 0781 and Claims for Increase (CFI)
 - 0781 submission process for 20+ traumatic events
+- Team DBEX-TREX Releases:
+  - Today (2/4/2025): Received Email for Backup Path 🎉
+    - We won’t see much activity with this as the Backup Path is rarely used now (🎉), but it is there.
+  - Next Sprint: Submitted Email
+    - Sending Veterans a confirmation email that their application has been submitted
+      - Primary Path: when we have their claim id, we show them the claim id in the confirmation page and submitted email
+      - Backup Path: we do not show them the claim id, as we do not have it, but they receive this email confirming we are processing the claim
+
 
 # 1/21/25 Biweekly VBA-DBEX Check-in
 - 0781 Supporting Document File Types
