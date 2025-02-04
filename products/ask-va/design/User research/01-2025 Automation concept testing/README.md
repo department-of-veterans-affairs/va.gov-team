@@ -10,7 +10,6 @@ After launching on VA.gov, we will focus on making quick, responsive improvement
 
 ## Research goals
 
-The key goals of this study are to:
 * understand how submitters expect to interact with and benefit from automation when asking VA a question online
 * understand whether providing recommendations using automation will make it easier to ask a question or receive help
 
