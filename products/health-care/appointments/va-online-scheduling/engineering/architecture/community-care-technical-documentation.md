@@ -54,7 +54,7 @@ graph TB
     VW -->|HTTPS| VA_API
     VA_API -->|Send Notifications| VA_NOTIFY
     VA_API -->|Access Referral Data| MAP
-    MAP -->|Retrieves Referral Data| CCRA
+    MAP <-- |Retrieves Referral Data| CCRA
     VA_API -->|Schedule Appointments| EPS
     EPS -- "Manual Entry (Air Gap)" --> CCRA
 
