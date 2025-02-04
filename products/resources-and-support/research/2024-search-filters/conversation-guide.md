@@ -164,7 +164,7 @@ What if this this page doesn't answer your question? What would you do next?
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target (Choosing a decision review option)? successful / needed help / unsuccessful]
+- [Found target *(Decision reviews FAQs / Choosing a decision review option / What your decision review or appeal status means)*? successful / needed help / unsuccessful]
 
 
 ## Task 3: Community Care 
@@ -194,7 +194,7 @@ What if this this page doesn't answer your question? What would you do next?
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target (Eligibility for community care)? successful / needed help / unsuccessful]
+- [Found target *(Eligibility for community care / About our VA community care network and covered services / How to get community care referrals and schedule appointments)*? successful / needed help / unsuccessful]
 
 
 ## Task 4: Travel reimbursement
@@ -221,7 +221,7 @@ What if this this page doesn't answer your question? What would you do next?
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target (How to file VA travel reimbursement)? successful / needed help / unsuccessful]
+- [Found target *(How to file VA travel reimbursement / Reimbursed VA travel expenses and mileage rate / How to set up direct deposit for VA travel pay reimbursement)*? successful / needed help / unsuccessful]
 
 
 ## Task 5: Evidence to support claim
