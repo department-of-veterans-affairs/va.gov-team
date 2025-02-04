@@ -15,8 +15,8 @@ issue tickets (if they add value when describing known errors for your product)
 
 ### Team Members:
 - DSVA Product Lead: _person’s name_ _persons's email_
-- Team Product Manager: _person’s name_ _persons's email_
-- _Additional Team Role_: _person’s name_ _persons's email_
+- Team Product Manager: Catherine Huges catherine.hughes2@va.gov
+- Tech Lead: Kenneth Santiago kenneth.santiago@va.gov
 
 ### Outage Contacts:
 - _Additional Team Role_: _person’s name_ _persons's email_
