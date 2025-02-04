@@ -14,7 +14,7 @@ issue tickets (if they add value when describing known errors for your product)
 ## Contacts
 
 ### Team Members:
-- DSVA Product Lead: _person’s name_ _persons's email_
+- DSVA Product Lead: Rhonda Jones rhonda.jones1@va.gov
 - Team Product Manager: Catherine Huges catherine.hughes2@va.gov
 - Tech Lead: Kenneth Santiago kenneth.santiago@va.gov
 
