@@ -129,7 +129,7 @@ We would like Perigean to walk the participants through
   - *Secondary criteria (nice-to-haves):*
      - At least 4 people have a cognitive disability (e.g., TBI) 
      - At least 4 people are age 55 or older 
-     - At least 2 people are 35 or under 
+     - At least 2 people are age 35 or under 
      - At least 2 people don't have any degree or vocational training after high school 
      - At least 2 people live in a rural or remote area 
      - At least 3 people of color 
