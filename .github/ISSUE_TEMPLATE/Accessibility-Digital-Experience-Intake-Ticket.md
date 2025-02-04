@@ -89,7 +89,7 @@ _Select all that apply._
 ```[tasklist]
 ### Next Steps for Your Team
 - [ ] Save and submit this intake ticket.
-- [ ] Start a new thread, and post a link to this ticket in the [accessibility-help] (https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Naomi Eke or Lakwi Perera.
+- [ ] Start a new thread, and post a link to this ticket in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Naomi Eke or Lakwi Perera.
 - [ ] If you're requesting accessibility support for usability research, submit a research support request next: Open an accessibility research support request.
 - [ ] If you're creating an experimental design, also contact the design system team: Read more about experimental designs 
 - [ ] Suggest an addition or update to the design system team
