@@ -120,14 +120,14 @@ _What are the measurable targets you're aiming for that deliver value for Vetera
 ## Launch Planning
 ### Collaboration Cycle
 
-- [Collab Cycle Ticket]()
-- [CAIA Review Request]()
+- [Collab Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83353)
+- [CAIA Review Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84170)
 - [Epic - Dependency Verification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62218)
 
 ### Timeline 
-- Design Intent: TBD
-- CAIA Kickoff Meeting: TBD
-- Midpoint Review: TBD
+- Design Intent: May 31, 2024
+- CAIA Kickoff Meeting: ?
+- Midpoint Review: January 17, 2025
 - Staging Review: TBD
 
 * [Link to Release Plan for this Initiative](TBD)
@@ -135,7 +135,7 @@ _What are the measurable targets you're aiming for that deliver value for Vetera
 
 
 #### Initiative Launch Dates
-- *Target Launch Date*: July/August 2024
+- *Target Launch Date*: mid/late 2025
 - *Actual Launch Date*:
 
 ---
@@ -152,20 +152,21 @@ _What are the measurable targets you're aiming for that deliver value for Vetera
 
 #### Communications
 
-- GitHub Label: tree, dependents-benefits, Dependency Verification
+- GitHub Label: dependents-benefits, Dependency Verification
 - Slack channel: #benefits-dependents-management
 - Demo video link: n/a
 - Test users: 
-- Product repo: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/burial-allowance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/dependency_verification)
+- [Product repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/dependency_verification)
 - Teams repo:
-- Zenhub board: Workspace - [Dependents Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new#workspaces/benefits-dependents-experience-6459139e7d64bf0015f6af13/board)
+- [GitHub project](https://github.com/orgs/department-of-veterans-affairs/projects/1237/views/19)
+- [GitHub milestone](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1409) 
 
 ---
 
 ## Team
 
 - Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
-- Product Owner: Emily Theis (emily.theis@va.gov)
+- Product Owner: Sanja Bajovic (Sanja.Bajovic2@va.gov)
   
 Benefits Dependents Experience Team: 
 - Product manager: Laura Steele
@@ -176,7 +177,7 @@ Benefits Dependents Experience Team:
 
 #### Stakeholders
 
-- VBA Stakeholders and SMEs: David Reis, Brandi Traylor, Angela Moritz
+- VBA Stakeholders and SMEs: Kevin Schneider (Kevin.SCHNEIDER1@va.gov), David Reis, Angela Moritz
 - CAIA Team (content review)
 
 #### Privacy officer
