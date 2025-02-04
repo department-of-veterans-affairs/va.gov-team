@@ -44,7 +44,7 @@ This research will allow us to gauge Veteran satisfaction with current email app
 2. Is there a way to make the content or cadence of email appointment reminders more useful?
 
 
-### Hypothesis
+## Hypotheses and Conclusions
 
 * **H1:** Veterans want more information in MHV emails inclucing provider and location: **True**
     * *"I've gone to appointments where I don't know who I am going to see and I don't like that." -P6*
