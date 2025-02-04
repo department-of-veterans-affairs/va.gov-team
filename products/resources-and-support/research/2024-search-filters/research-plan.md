@@ -143,7 +143,7 @@ We would like Perigean to walk the participants through
     2. Yes *(disqualify)*
 
 1. For this meeting, you'll need a mobile device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using? *(RECORD)*
-    1. Smartphone *(RECRUIT at least 6 and ask next question)*
+    1. Smartphone *(RECRUIT at least 7 and ask next question)*
     1. Tablet *(RECRUIT at most 6 and ask next question)*
     1. Computer *(disqualify)*
 
