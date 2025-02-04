@@ -582,11 +582,378 @@ Qualitative feedback:
 
 ### 1/30/25 - 100%
 #### Medallia Feedback
+3 responses, 1 using the VFS Questionnaire and 2 using the MHV Form.  
+
+Task completion: 
+
+
+<table>
+  <tr>
+   <td>Were you able to do your task today? 
+   </td>
+   <td>Responses (N = 3)
+   </td>
+  </tr>
+  <tr>
+   <td>Yes
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>No
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   <td>0
+   </td>
+  </tr>
+</table>
+
+
+CSAT: 
+
+
+<table>
+  <tr>
+   <td>What is your overall satisfaction with this site? (rating)
+   </td>
+   <td>Responses (N = 3)
+   </td>
+  </tr>
+  <tr>
+   <td>1
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>2
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>3
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>4
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>5
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   <td>0
+   </td>
+  </tr>
+</table>
+
+
+Qualitative feedback:
+
+“I completed my task!”
+
+“Every appointment over the last may years that I have kept with either Am Lake or Seattle I have used go my POV with Good to Go RFID pass in my windshield over the Tacoma Narrows Bridge. I quit claiming the toll because it is nigh unto impossible to get a same day receipt. Is there a way to circumvent that or file later for the toll?”
+
+
 
 #### Google Analytics
 
 ### 1/31/25 - 100%
 #### Medallia Feedback
+
+5 responses, 3 using the VFS Questionnaire and 2 using the MHV Form.  
+
+Task completion: 
+
+
+<table>
+  <tr>
+   <td>Were you able to do your task today? 
+   </td>
+   <td>Responses (N = 5)
+   </td>
+  </tr>
+  <tr>
+   <td>Yes
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>No
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   <td>0
+   </td>
+  </tr>
+</table>
+
+
+CSAT: 
+
+
+<table>
+  <tr>
+   <td>What is your overall satisfaction with this site? (rating)
+   </td>
+   <td>Responses (N = 5)
+   </td>
+  </tr>
+  <tr>
+   <td>1
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>2
+   </td>
+   <td>4
+   </td>
+  </tr>
+  <tr>
+   <td>3
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>4
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>5
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   <td>0
+   </td>
+  </tr>
+</table>
+
+
+Qualitative feedback:
+
+“logon is a pain... why so many different logins and having to get text, then enter number just to check millage.”
+
+“Website was easy to navigate”
+
+“Checking on travel reimbursement,  on incomplete claim I show no "send or finish" button on the page. Please process my claim.  Thank you.”
+
+“Why are my travel denied.”
+
+“Two appts at Charleston VA. Was paid for October XX, 2024.  Went again on Nov XX, 2024 for actual treatment.  Submitted but never paid. Please check records.”
+
+
+#### Google Analytics
+
+### 2/1/25 - 100%
+#### Medallia Feedback
+
+3 responses, all using the MHV Form.  
+
+Task completion: 
+
+
+<table>
+  <tr>
+   <td>Were you able to do your task today? 
+   </td>
+   <td>Responses (N = 3)
+   </td>
+  </tr>
+  <tr>
+   <td>Yes
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>No
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   <td>0
+   </td>
+  </tr>
+</table>
+
+
+CSAT: 
+
+
+<table>
+  <tr>
+   <td>What is your overall satisfaction with this site? (rating)
+   </td>
+   <td>Responses (N = 3)
+   </td>
+  </tr>
+  <tr>
+   <td>1
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>2
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>3
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>4
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>5
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   <td>0
+   </td>
+  </tr>
+</table>
+
+
+Qualitative feedback:
+“Having issues getting travel pay it just says it is manual review and does not seem to move from this status called and left a message and no return calls trying to get this sorted out with not much luck”
+
+“Trying to file a travel reimbursement claim online (twice now). It's not working. Shows incomplete. I'm 100% disabled. Evidently I have screwed up some data. Will file online a third time then mail in my claim. I think your "AI" claim handler program is decidedly not programmed to be helpful with disabled veterans.”
+
+#### Google Analytics
+
+### 2/2/25 - 100%
+#### Medallia Feedback
+
+1 responses, all using the VFS Questionnaire.  
+
+Task completion: 
+
+
+<table>
+  <tr>
+   <td>Were you able to do your task today? 
+   </td>
+   <td>Responses (N = 1)
+   </td>
+  </tr>
+  <tr>
+   <td>Yes
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>No
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   <td>0
+   </td>
+  </tr>
+</table>
+
+
+CSAT: 
+
+
+<table>
+  <tr>
+   <td>What is your overall satisfaction with this site? (rating)
+   </td>
+   <td>Responses (N = 1)
+   </td>
+  </tr>
+  <tr>
+   <td>1
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>2
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>3
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>4
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>5
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   <td>0
+   </td>
+  </tr>
+</table>
+
+
+Qualitative feedback:
+
+“Check on year long travel claim that wasn’t paid”
 
 #### Google Analytics
 
