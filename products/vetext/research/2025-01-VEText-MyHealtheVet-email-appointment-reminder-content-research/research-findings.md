@@ -290,11 +290,11 @@ _Put together initial recommendations here based on your findings along with sup
 
 **7. Selecting communication preferences for all formats of reminders within VA Profile should clearly explain the result of each selection and be easily findable within the portal.**
 
-* Some Veterans may associate selection of VEText and/or MHV email reminders as “paperless” and conclude those selections opt them out of mailed reminders. The option to receive or not receive paper reminders should be an option in VA profile in the same manner that Veterans opt in and out of text or email reminders. Finally, if reminder cadences are standard, consider documenting how many reminders a Veteran can expect from each format (i.e. Emails are sent 7 days and 1 day prior to appointments) in the section where they choose their notification preferences. Including this information may not be possible if reminder cadences vary for certain kinds of appointments.0
+* Some Veterans may associate selection of VEText and/or MHV email reminders as “paperless” and conclude those selections opt them out of mailed reminders. The option to receive or not receive paper reminders should be an option in VA profile in the same manner that Veterans opt in and out of text or email reminders. Finally, if reminder cadences are standard, consider documenting how many reminders a Veteran can expect from each format (i.e. Emails are sent 7 days and 1 day prior to appointments) in the section where they choose their notification preferences. Including this information may not be possible if reminder cadences vary for certain kinds of appointments.
 
-9. PHI needs to be explicitly explained as to what additional information will be contained.
+**9. PHI needs to be explicitly explained as to what additional information will be contained.**
 
-10. Continue sending MHV reminders as a list of all upcoming appointments, however consider moving cadence to 7 days and 1 day prior; consider alternatives for frequent re-occurring appointments
+**10. Continue sending MHV reminders as a list of all upcoming appointments, however consider moving cadence to 7 days and 1 day prior; consider alternatives for frequent re-occurring appointments.**
     
 *  73% of participants prefer the list of all upcoming appointments in a single email
 *  45% of participants said ideal advance notice is 1 week ahead of time (1 reminder)
