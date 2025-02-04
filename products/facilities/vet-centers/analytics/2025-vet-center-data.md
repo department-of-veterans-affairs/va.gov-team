@@ -39,7 +39,7 @@
 | Returning users  |25,166 (44%) ||||||||||||
 | Total event count  |363,465|||||||||||| 
 | Total pageviews  |81,706||||||||||||
-| Engagement rate  72.25%|||||||||||||
+| Engagement rate  | 72.25%|||||||||||
 | Views per sessions  |1.09||||||||||||
 | Session duration | 3m 1s ||||||||||||
 
