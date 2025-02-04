@@ -228,6 +228,11 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 - An existing appointment refers to an appointment that has been made with a referral ID, that referral ID matches to a "new" referral, which means it was already made. We can also possibly hold referrals in our DB and mark them as "completed" or "referral made" in the same manner, after the user has completed making an appointment with a referral
 - Expired referrals are referrals whose end date has expired, regardless of if an appointment exists or not
 
+## Submit Asynchronous Process
+1. When confirming and submitting the final appointment, the async process will be dual
+2. The FE will poll the /appointments/{appointmentId} endpoint until a valid response or failure returns (up to 30 to 60 seconds)
+3. The BE will poll the same endpoint, but send a notification via VA Notify the user on success or failure
+
 ## Integration Points
 1. CCRA: Source of referral data
 2. VA Notify: For sending notifications to veterans
