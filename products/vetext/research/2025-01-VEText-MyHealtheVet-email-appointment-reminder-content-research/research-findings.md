@@ -268,16 +268,16 @@ _Put together initial recommendations here based on your findings along with sup
 
 **1. PHI reminders should include: date, time, address including floor/building information, clinic name, appointment status, provider name, direct clinic numbers for scheduling, and modality (in-person, video, telephone) of appointment**
 
-    73% of participants want provider name in emails
-    64% of participants want address with building name/floor in emails
-    45% of participants want status listed in emails 
-    At least 50% of participants find value in including appointment modality in emails
-    Direct clinic numbers save Veterans time and frustration and should be prioritized for specialty clinics 
+* 73% of participants want provider name in emails
+* 64% of participants want address with building name/floor in emails
+* 45% of participants want status listed in emails 
+* At least 50% of participants find value in including appointment modality in emails
+* Direct clinic numbers save Veterans time and frustration and should be prioritized for specialty clinics 
  
       
 **2. Approve PHI version of email and offer it as soon as possible.**
 
-    100% of participants preferred the PHI email, both because it contained more useful information about an appointment as well as it was formatted in a way that made it more “user friendly.”
+* 100% of participants preferred the PHI email, both because it contained more useful information about an appointment as well as it was formatted in a way that made it more “user friendly.”
 
   
 **3. Move forward with a more VADS formatted email that includes headings, highlighted appointment information and consider ways to consolidate/link out some of the non-appointment detail information such as how to prepare or change an appointment.**
@@ -290,11 +290,16 @@ _Put together initial recommendations here based on your findings along with sup
 
 **7. Selecting communication preferences for all formats of reminders within VA Profile should clearly explain the result of each selection and be easily findable within the portal.**
 
-    Some Veterans may associate selection of VEText and/or MHV email reminders as “paperless” and conclude those selections opt them out of mailed reminders. I.E. if a Veteran selects that they want only email and text reminders, one might assume they are that they also want paper reminders. The option to receive or not receive paper reminders should be an option. Finally, if reminder cadences are standard, consider adding how many reminders a Veteran can expect from each format (i.e. Emails are sent 7 days and 1 day prior to appointments).
+* Some Veterans may associate selection of VEText and/or MHV email reminders as “paperless” and conclude those selections opt them out of mailed reminders. The option to receive or not receive paper reminders should be an option in VA profile in the same manner that Veterans opt in and out of text or email reminders. Finally, if reminder cadences are standard, consider documenting how many reminders a Veteran can expect from each format (i.e. Emails are sent 7 days and 1 day prior to appointments) in the section where they choose their notification preferences. Including this information may not be possible if reminder cadences vary for certain kinds of appointments.0
 
 9. PHI needs to be explicitly explained as to what additional information will be contained.
 
 10. Continue sending MHV reminders as a list of all upcoming appointments, however consider moving cadence to 7 days and 1 day prior; consider alternatives for frequent re-occurring appointments
+    
+*  73% of participants prefer the list of all upcoming appointments in a single email
+*  45% of participants said ideal advance notice is 1 week ahead of time (1 reminder)
+*  27% of participants said ideal advance notice is 1 week and 1 day ahead of time (2 reminders)
+
     
 
 
@@ -346,7 +351,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-    **  Primary criteria (must-haves):** 
+**Primary criteria (must-haves):** 
 
 
 * All must currently receive MyHealtheVet health appointment reminder emails
