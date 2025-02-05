@@ -59,12 +59,12 @@ In Sprint 24 the team provided support for multiple features and initiatives, ou
 🟠 Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
 🔵 Direct Scheduling
- CES-1299 CES: Determine EHR on appointment creation request
+  * CES-1299 CES: Determine EHR on appointment creation request
 ⚫️ Community Care - this work is being done by Devin working with the CIE team
-🚧 VPG-318 CC: Add request specs for AppointmentsController#create_draftmethod #101428
+  * 🚧 VPG-318 CC: Add request specs for AppointmentsController#create_draftmethod #101428
 🟣 Testing/Admin/Operational Support
-CES-1509 CES: SQA: Continued CES testing
-VPG-323 Update VPG to the latest dependency versions
+  * CES-1509 CES: SQA: Continued CES testing
+  * VPG-323 Update VPG to the latest dependency versions
 
 
 ## ✈️ Planned Releases
