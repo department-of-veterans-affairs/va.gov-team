@@ -21,6 +21,8 @@ sequenceDiagram
   alt include[:travel_pay_claims] && Flipper.enabled(view_claim_details)
     activate vaos
       vaos ->> tpm: associate_many_claims(appts)
+      tpm ->>+ tpapi: GET /api/v1.2/claims/search-by-appointment-date?{start,end}
+      tpm ->>+ tpm: Associate claim & metadata with appointment
       tpm ->> vaos: [appointments w/ claims]
       vaos ->> appts: [appointments w/ claims]
     deactivate vaos
