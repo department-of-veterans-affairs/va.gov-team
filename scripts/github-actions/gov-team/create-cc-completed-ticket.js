@@ -108,22 +108,34 @@ function getTouchpoint() {
 }
 
 // generate the title of the "created" ticket
-function getTitleInfo(issueBody, _title, labels) {
+function getTitleInfo(body, title, labels) {
+  return checkIfDSTStagingReview(labels)
+    ? getDSTTitle(title)
+    : getVFSTitle(body);
+}
+
+// get the title of the created ticket if the cc ticket is for a VFS review
+function getVFSTitle(body) {
   let title = `Completed: ${getTouchpoint()}`;
-  if (checkIfTicketValid(issueBody)) {
-    const { teamName, productName, featureName } = parse(issueBody);
+  if (checkIfTicketValid(body)) {
+    const { teamName, productName, featureName } = parse(body);
     title = `${title} - ${teamName} - ${productName}`;
     if (featureName && productName !== featureName) {
       title = `${title}/${featureName}`;
     }
-  } else if (checkIfDSTStagingReview(labels)) {
-    if (_title.toLowerCase().includes('staging review')) {
-      title = `Completed - ${_title}`;
-    } else {
-      title = `${title} - ${_title}`;
-    }
   }
   return title;
+}
+
+// get the title of the created ticket if the cc ticket is for a DST review
+function getDSTTitle(title) {
+  let _title;
+  if (title.toLowerCase().includes('staging review')) {
+    _title = `Completed - ${title}`;
+  } else {
+    _title = `Completed: ${getTouchpoint()} - ${title}`;
+  }
+  return _title;
 }
 
 // retrieve GH ticket
@@ -328,6 +340,8 @@ async function main() {
     if (itemId) {
       await addSprintToCompletedTicket(itemId, projectId);
       await addPointsToCompletedTicket(itemId, projectId);
+    } else {
+      console.log('could not get the itemId');
     }
     
   } catch (error) {
