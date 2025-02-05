@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+## 2/5/2025
+- Added retry in the scenario when the VA notification API fails to ensure the Veteran is notified; in the event all of the retries fail, the failure is logged 
+    - [Ticket 96416](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96416)
+
 ## 12/17/2024
 - Updated eCheck-in to include OMB information (burden, control no., exp. date) for completing the travel claim reimbursement form
     - [Epic 97418](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97418)
