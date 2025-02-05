@@ -292,7 +292,7 @@ One participant detailed thoughts on why Veterans might no-show to appointments,
 4. **Move forward with a VADS-formatted email that includes headings, highlighted appointment information and consider ways to consolidate/link out some of the non-appointment detail information such as how to prepare or change an appointment.**
     * All participants preferred the PHI version of the email reminder, no only for additional content, but many also thought it looked “very clear,” “easier on the eyes,” and distinguished information hierarchy better. Some of the non appointment detail information (How to manage your appointments, how to prepare, etc) may be able to be condensed, or linked out to other pages in lieu of bulleted text. Half of the participants said they did not read this information in the current email and wanted more concise email reminders. Bolded headings did help participants engage more with this information, however. This information should also be reviewed for redundancy. For example, one participant pointed out that the how to manage your appointments section  directed a user to a phone number that was already listed directly above in the appointment details.
     * *“Trying to streamline (reminders) down. I think that's the way to go.” - P3*
-    * “*"Right away, I can tell you I like this better.” - P7* 
+    * “*Right away, I can tell you I like this better.” - P7* 
 <img width="530" alt="VADS formatted email" src="https://github.com/user-attachments/assets/b8689fa3-f546-4f22-81c8-422ea26a5a39" />
 
 
