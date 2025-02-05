@@ -250,7 +250,13 @@ Response when an appointment is found
 ```
 {
     ...referralResponse
-    bookedAppointments: 0
+    appointments: [
+        {
+            id: 1234
+            startTime:
+            endTime:
+        }
+    }
 };
 ```
 * GET `/vaos/v2/appointments` (existing)
