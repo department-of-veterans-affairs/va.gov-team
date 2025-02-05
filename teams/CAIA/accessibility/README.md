@@ -31,7 +31,7 @@ We've grouped our offerings by how they relate to the [touch point meetings in t
 ## Services we offer
 What follows is a menu of the services we offer. 
 > [!TIP]
-> No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using our `@accessibility-de` handle on the `#accessibility-help` channel. [View additional ways to reach out for support.](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/README.md#how-to-contact-us)
+> No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using our `@accessibility-de` handle on the `#accessibility-help` channel. [View additional ways to reach out for support.](#how-to-contact-us)
 
 ### Research support
 [ADE accessibility specialists can help with your user research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ade-accessibility-research.yaml). We can assist as you plan your research sessions, ensuring that they are equitable and account for important accessibility factors.  We can also observe your assistive technology sessions through an accessibility-focused lens, documenting accessibility-related issues the user encounters. 
