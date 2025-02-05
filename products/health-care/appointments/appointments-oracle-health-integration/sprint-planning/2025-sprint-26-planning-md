@@ -26,27 +26,16 @@ NEW Sprint 26: 2/05/25 - 2/18/25
 * ⚫️ Community Care - this work is being done by Devin working with the CIE team 
    
 ## 📋 Previous Sprint Summary:
-In Sprint 24 the team provided support for multiple features and initiatives, outlined as follows:  
+In Sprint 25 the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Appointment Requests
-  * Clinical Encounter Service created a new operation enabling VetsAPI-Patient Gateway to retrieve locations based on facility IDs, maintaining support for VetsAPI Patient Gateway and its use of the Cerner-FHIR-Adapter.
-  * VetsAPI-Patient Gateway evaluated Cerner eligibility rules and identified that some rules involved downstream calls to dependent services. These rules were refactored to execute in parallel, improving the overall performance of the /eligibility endpoint.
-* #### Direct Scheduling
-  * VetsAPI added a direct scheduling feature flag in appointment creation logic to check the type of appointment. Logic in VetsAPI was refined and overlapping feature flags were consolidated.
-  * VetsAPI-Patient Gateway modified the response array in VetsAPI to notify the front end if errors occurred while retrieving relationship data.
-* #### Appointment Cancellation
-  * VetsAPI-Patient Gateway added support for the VVS_ADHOC VAOS source filter in the VAOS Service.
+  * VetsAPI Patient Gateway updated Cerner appointment source filtering by removing source filters from VaosClient.java and implementing manual filtering of Cerner appointments.
 * #### VetsAPI Logic Integration Support
-  * VetsAPI integrated front-end logic for determining appointment modality within the VetsAPI back end and now returns the result via a new modality field.
-* #### Build vets-api-patient-gateway to extend VAOS with Oracle Health write-back capabilities
-  * VetsAPI-Patient Gateway was updated to populate identifier values in Oracle Health for Cerner Fhir Adapter-sourced appointments. ​​For consistency, the identifier values are populated based on the existing logic in `mobile-appointment-service`.
-* #### Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
-  * Clinical Encounter Service updated search params to add the use of “_source” search param and removed -”vistaSite”  param and  references to getEhrSource and EHR_SOURCE.
-* #### Backend support for Oracle Health to Enable Appointment Requests
-  * VetsAPI-Patient Gateway was configured to enable the ability to apply a VA stop code exclusion list filter to clinic searches.  
+  * Migrated existing logic for past appointments from the web application to the VetsAPI layer, ensuring better maintainability and system consistency.
+* #### Community Care
+  * VetsAPI Patient Gateway introduced a new route, updating the AppointmentsController#create method to enable appointment creation within EPS.
 * #### Testing/Admin/Operational Support
-  * Clinical Encounter Service was updated to the latest version of Mobile-Framework (V2.2).
-  * Clinical Encounter Service upgraded to the latest version of Acheron, (V1.30)
-  * Clinical Encounter Service replaced use of the “vista-500” with “spl-vista” in Acheron to enable quicker turnaround times when applying new patches.
+  * VetsAPI Patient Gateway implemented additional tests to cover conditions related to asynchronous appointment searches that were previously untested.
+  * Clinical Encounter Service updated the SQA version to reflect enhanced functionality and ensure compatibility with the latest system updates.
 
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started; ⚠️ Removed from sprint 
