@@ -284,6 +284,12 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal.
 
+Happiness - CSAT
+Engagement - how many claims / what percentage of claims are submitted using the tool? We should be able to get this from PowerBI
+Adoption - conversion (how many users who start finish submitting a claim from Google Analytics)
+Retention - returning users (may not be possible using GA), unique users, how the percentage of claims submitted on the tool changes
+Task efficiency and effectiveness - completion rate (see Adoption, from GA), time on task from DOMO (confirm with VFS Analytics), “Get Help” link use from GA, did you complete your task question from Medallia
+
 ### 1-week results
 
 - Number of unique users: [FILL_IN]
