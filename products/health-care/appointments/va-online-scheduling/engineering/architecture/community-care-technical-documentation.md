@@ -203,16 +203,16 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 'Referral' and 'Provider' are going to be a new resources. Endpoints are:
 
 * GET `/vaos/v2/referrals` (new)
-  ```
-    [
-       {
-          uuid: "123_123456"
-          categoryOfCare: "Physical Therapy"
-          referralDate: "2025-06-02 10:30:00Z"
-          expirationDate: "2025-06-02"
-       }
-    ],
-  ```
+```
+[
+  {
+    "uuid": "123_123456",
+    "categoryOfCare": "Physical Therapy",
+    "referralDate": "2025-06-02T10:30:00Z",
+    "expirationDate": "2025-06-02"
+  }
+]
+```
 * GET `/vaos/v2/referrals/{referralNo}`
 Response when not booked ie: no appointments have been booked for this referral)
 ```
@@ -242,26 +242,27 @@ Response when not booked ie: no appointments have been booked for this referral)
     "id": 111,
     "name": "Dr. Moreen S. Rafa",
     "location": "FHA South Melbourne Medical Complex"
-  }
+  },
+  "appointments": []
 }
 
 ```
 Response when an appointment is found
 ```
 {
-    ...referralResponse
-    appointments: [
-        {
-            "id": "1234"
-            "startDate": "2025-03-15 10:30 AM",
-            "location": {
-              "address": "123 Main St, Springfield, IL, 62704",
-              "room": "Suite 405"
-            },
-            "confirmationStatus": "confirmed"
-        }
+  ...the referral response 
+  "appointments": [
+    {
+      "id": "1234",
+      "startDate": "2025-03-15 10:30 AM",
+      "location": {
+        "address": "123 Main St, Springfield, IL, 62704",
+        "room": "Suite 405"
+      },
+      "confirmationStatus": "confirmed"
     }
-};
+  ]
+}
 ```
 * GET `/vaos/v2/appointments` (existing)
 * GET `/vaos/v2/appointments/{appointmentId}` (existing)
