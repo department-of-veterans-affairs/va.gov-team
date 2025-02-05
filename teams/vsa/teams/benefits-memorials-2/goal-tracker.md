@@ -18,7 +18,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 
 ## Sprint Goals - Sprint 1 [ 1/24/25 - 2/11/25] 
 **_Goals:_** _Check when complete_
-- [ ] UX: Mockup quick reference guide (QPX)
+- [X] UX: Mockup quick reference guide (QPX)
 - [ ] UX: Work with Contact Center to improve Medallia data (QP4)  
 - [ ] UX: Complete the Feb Medallia Report (QP4)
 - [ ] ENG: The Digital Dispute process is live on staging (QPX)
