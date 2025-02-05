@@ -238,6 +238,7 @@ Patient friendly names:
          
 <summary>Doumentation</summary>
 
+- [Design decisions](https://www.figma.com/design/EHR9zBpGnAgc7bHqeIGEoT/OH-Direct-Schedule-MVP-%7C-Appointments-FE?node-id=6454-65361&t=YRQMCcHv7U8SDSUt-1)
 - [Scheduling problem statements](https://docs.google.com/presentation/d/1YtBj0Vs2ne3eH-nz9wRyfEZ0tQ1ns99j3cQSn4xl8Ss/edit?usp=sharing)
 - [20240304 VAOS OH Policy Discussion.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14670407/20240304.VAOS.OH.Policy.Discussion.pdf)
 - [Cerner Millennium Patient Self-Referral Direct Scheduling SOP - update_05302023- Signed.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14843268/Cerner.Millennium.Patient.Self-Referral.Direct.Scheduling.SOP.-.update_05302023-.Signed.pdf)
