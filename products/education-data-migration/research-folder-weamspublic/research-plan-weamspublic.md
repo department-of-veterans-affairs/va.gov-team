@@ -127,12 +127,12 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 2/7/25 between 1-3pm EST
 
 ### Research sessions
-* Planned dates of research: 2/10/25 - 2/13/25
+* Planned dates of research: 2/10/25 - 2/12/25
 
 ### Length of sessions
 * Session length: 60 minutes 
 * Buffer time between sessions: 30 minutes 
-* Maximum Sessions per day: 4 sessions per day
+* Maximum Sessions per day: 5 sessions per day
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
