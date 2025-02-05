@@ -22,7 +22,12 @@ sequenceDiagram
     activate vaos
       vaos ->>+ tpm: associate_many_claims(appts)
       tpm ->>+ tpapi: GET /api/v1.2/claims/search-by-appointment-date?{start,end}
-      tpm ->>+ tpm: Associate claim & metadata with appointment
+      tpapi ->>- tpm: [claims]
+
+      activate tpm
+        tpm ->> tpm: Associate claim & metadata with appointment
+      deactivate tpm
+
       tpm ->>- vaos: [appointments w/ claims]
       vaos ->> appts: [appointments w/ claims]
     deactivate vaos
