@@ -341,9 +341,7 @@ e.g. user flows, personas, etc.
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+[VA Appointment Notifications Service Map Research](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10-appointment-notifications-service-map/research-findings.md#findings)
 
 
 ## Who we talked to 
