@@ -34,7 +34,7 @@ What follows is a menu of the services we offer.
 > No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using the `#accessibility-help` or the `#TBD Pending channels. [View additional ways to reach out for support.](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/README.md#how-to-contact-us)
 
 ### Research support
-[ADE accessibility specialists can help with your user research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=caia-a11y-research.yaml). We can assist as you plan your research sessions, ensuring that they are equitable and account for important accessibility factors.  We can also observe your assistive technology sessions through an accessibility-focused lens, documenting accessibility-related issues the user encounters. 
+[ADE accessibility specialists can help with your user research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ade-accessibility-research.yaml). We can assist as you plan your research sessions, ensuring that they are equitable and account for important accessibility factors.  We can also observe your assistive technology sessions through an accessibility-focused lens, documenting accessibility-related issues the user encounters. 
 #### Pilot sessions
 [We recommend a pilot session with a ADE accessibility specialist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md) before running your research sessions, to mitigate any potential accessibility-related issues. When it comes time to run research sessions, we can also provide limited technical support for research participants who use screen readers. 
 
@@ -71,11 +71,10 @@ We are always here for more general, off-the-cuff questions! Never hesitate to r
 
 ## How to contact us
 ### Reach out via Slack
-Reach out to ADE accessibility specialists through our `pending` Slack channel, or tag us in your channel, using any of the following Slack handle:
-- @`handle-is-pending` (CAIA's accessibility specialists)
+Reach out to ADE accessibility specialists through our `pending` Slack channel, or tag us in your channel using @accessibility-de
 
 ### Submit an intake ticket
-To start formally working with ADE accessibility specialists, submit an intake ticket `Link Pending`in GitHub.
+To start formally working with ADE accessibility specialists, submit an [intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md) in GitHub.
 
 ### Attend ADE office hours
 You can also reach us by attending our weekly office hours on `Day` at `Time` PM Eastern on Zoom. Sign up for a time slot on `TBD`
