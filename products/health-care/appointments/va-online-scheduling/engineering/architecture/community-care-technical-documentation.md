@@ -214,6 +214,7 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
     ],
   ```
 * GET `/vaos/v2/referrals/{referralNo}`
+Response when not booked ie: no appointments have been booked for this referral)
 ```
 {
     uuid: '1234',
@@ -244,6 +245,13 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
     },
 };
 
+```
+Response when an appointment is found
+```
+{
+    ...referralResponse
+    bookedAppointments: 0
+};
 ```
 * GET `/vaos/v2/appointments` (existing)
 * GET `/vaos/v2/appointments/{appointmentId}` (existing)
