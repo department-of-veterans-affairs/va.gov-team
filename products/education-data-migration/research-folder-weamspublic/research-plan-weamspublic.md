@@ -123,11 +123,11 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: ekaterina.shick@va.gov
+* Pilot participant email: Will provide to Perigean 
 * Date and time of pilot session: 2/7/25 between 1-3pm EST
 
 ### Research sessions
-* Planned dates of research: 2/10/25 - 2/12/25
+* Planned dates of research: 2/10/25 - 2/13/25
 
 ### Length of sessions
 * Session length: 60 minutes 
@@ -149,7 +149,7 @@ For all planned dates of research we are available between 9:30am to 4pm EST.
 - Research guide writing and task development (usually but not always same as moderator): Sneha Kulkarni        
 - Participant recruiting & screening: Perigean       
 - Project point of contact: Cassidy Beach, Theresa Simeone       
-- Participant(s) for pilot test: Sneha Kulkarni, Jennifer Drahota
+- Participant(s) for pilot test: Sneha Kulkarni, Jennifer Drahota, Cassidy Beach
 - Accessibility specialist (for sessions where support for assistive technology may be needed):        
-- Note-takers: Jennifer Drahota          
+- Note-takers: Cassidy Beach         
 - Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.
