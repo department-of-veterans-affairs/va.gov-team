@@ -3,7 +3,7 @@ name: "Accessibility Digital Experience (ADE) Intake Form"
 about: Use this ticket to request collaboration on a new initiative with the Accessibility Digital Experience (ADE) team (pronounced /ād/). 
 title: '[ADE Intake]:<Team Name><Product><Requesting>'
 labels: 'ADE, ADE Intake'
-assignees: 'sara-amanda'
+assignees: artsymartha68,sara-amanda,NaomiPMC
 
 ---
 
@@ -104,6 +104,7 @@ _Select all that apply._
 - [ ] Receive new intake ticket
 - [ ] Respond to Slack message sent by VFS team upon submission
 - [ ] Reach out to the VFS team to set up Kickoff (if requested)
+- [ ] Reviewed by OCTO/Martha
 - [ ] Connect related tickets in this ticket
 - [ ] Create child tickets, as they apply to the work requested.
 - [ ] Create Quick Summary for top of ticket as a note.
