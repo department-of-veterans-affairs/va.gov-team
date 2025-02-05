@@ -331,11 +331,6 @@ Since oversaturation of reminders is a common complaint, where possible, informa
 To be determined based on next steps discussed by the team.
 
 
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
-
 ## Appendix
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/research-plan.md)
@@ -471,10 +466,11 @@ Disability and Assistive Technology (AT):
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
 
 * Veterans who are Asian and/or Native
-
 * Identify as LGBTQ+
-
 * Users of Assistive Technology
+  
+* 9% of participants were Hispanic, Latino or Spanish origin
+
+
