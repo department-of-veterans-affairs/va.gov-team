@@ -13,7 +13,7 @@ The ADE Accessibility team can help by running a pilot session with you before y
 - Get valuable feedback about your prototype and conversation guide, which you can then adjust before your study begins 
 
 ## First steps
-- Review this guide, as part of your [Assistive Technology Research Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&projects=&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name) ticket
+- Review this guide, as part of your [Assistive Technology Research Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ade-accessibility-research.yaml) ticket
 - After beginning to collaborate with ADE, let us know that you want to do a pilot
   - If you do, we'll create a child ticket to keep track of that work and provide feedback
 
