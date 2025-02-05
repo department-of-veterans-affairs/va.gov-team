@@ -93,7 +93,7 @@ function checkIfTicketValid(issueBody) {
 }
 
 function checkIfDSTStagingReview(labels) {
-  labels.map(label => label.name).includes(DST_SR_LABEL);
+  return labels.map(label => label.name).includes(DST_SR_LABEL);
 }
 
 //get the current touchpoint of the CC-Request ticket
@@ -117,8 +117,8 @@ function getTitleInfo(issueBody, _title, labels) {
       title = `${title}/${featureName}`;
     }
   } else if (checkIfDSTStagingReview(labels)) {
-    if (title.toLowerCase().includes('staging review')) {
-      title = `Completed: ${_title}`;
+    if (_title.toLowerCase().includes('staging review')) {
+      title = `Completed - ${_title}`;
     } else {
       title = `${title} - ${_title}`;
     }
