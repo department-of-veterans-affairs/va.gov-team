@@ -203,16 +203,48 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 'Referral' and 'Provider' are going to be a new resources. Endpoints are:
 
 * GET `/vaos/v2/referrals` (new)
-  
-  {
-    UUID: 123_123456(encoded referralNo),
-    startDate: startDate,
-    categoryOfCare: categoryOfCare,
-    expirationDate:
-  }
   ```
-  TBD
+    [
+       {
+          uuid: "123_123456"
+          categoryOfCare: "Physical Therapy"
+          referralDate: "2025-06-02 10:30:00Z"
+          expirationDate: "2025-06-02"
+       }
+    ],
   ```
+* GET `/vaos/v2/referrals/{referralNo}`
+```
+{
+    uuid: '1234',
+    expirationDate: '2024-12-12',
+    referralNumber: 'VA0000009880',
+    referringFacility: 'Batavia VA Medical Center w/ Dr. Moreen S. Rafa',
+    status: 'Approved',
+    sategoryOfCare: 'Physical Therapy',
+    stationID: '528A4',
+    sta6: '534',
+    referringFacilityInfo: {
+      facilityName: 'Batavia VA Medical Center',
+      facilityCode: '528A4',
+      description: 'Batavia VA Medical Center',
+      address: {
+        address1: '222 Richmond Avenue',
+        city: 'BATAVIA',
+        state: 'NY',
+        zipCode: '14020',
+      },
+      phone: '(585) 297-1000',
+    },
+    referralStatus: 'open',
+    provider: {
+      id: 111,
+      name: 'Dr. Moreen S. Rafa',
+      location: 'FHA South Melbourne Medical Complex',
+    },
+};
+
+```
 * GET `/vaos/v2/appointments` (existing)
 * GET `/vaos/v2/appointments/{appointmentId}` (existing)
 * POST `/vaos/v2/appointments` (existing)
