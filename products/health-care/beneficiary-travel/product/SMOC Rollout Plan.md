@@ -93,8 +93,16 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 1 day, 3/24
+- Length of time: 5 days minimum, 3/24-3/28 (or until all criteria is met and any issues are addressed)
 - Percentage of Users (and roughly how many users do you expect this to be): 5%
+
+| Criteria | Measurement |
+| ----------- | ----------- |
+| All users are able to successfully submit a claim | claims submitted on VA.gov = claims created in API |
+| Error Count | Key error types, percentages, and associated error messages |
+| Claims appearing for Stations | Claims submitted on VA.gov = Claims processed by TCP |
+| Claims in manual review | % and # of claims in manual review |
+   
 
 #### Results
 
@@ -103,6 +111,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+| Criteria | Measurement |
+| ----------- | ----------- |
+| All users are able to successfully submit a claim |   |
+| Error Count |   |
+| Claims appearing for Stations |  |
+| Claims in manual review |   |
 
 ### Stage B: 25% of users
 
@@ -110,8 +125,20 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 2 days, 3/25-3/26
+- Length of time: 2 weeks minimum (or until all criteria is met and any issues are addressed)
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
+
+| Criteria | Measurement |
+| ----------- | ----------- |
+| Claim submission error rate below 5% | Error rate upon submission on VA.gov |
+| Is total claim volume increasing by more than 10% | Total claim volume increase % |
+| Claims in manual review | % and # of claims in manual review from VA.gov |
+| Claims appearing for Stations | Claims submitted on VA.gov = Claims processed by TCP |
+| Claims in manual review | % and # of claims in manual review |
+| At least 10% of manual review claims adjudicated | % of VA.gov claims  adjudicated manual review |
+| Time to adjust manual claims | Change in time required to adjust manual claims |
+| All bugs are ticketed and given a severity rating | Total # of bugs by severity |
+| Critical bugs are all addressed | % of critical bugs addressed |
 
 #### Results
 
@@ -120,6 +147,18 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+| Criteria | Measurement |
+| ----------- | ----------- |
+| Claim submission error rate below 5% |  |
+| Is total claim volume increasing by more than 10% |  |
+| Claims in manual review |  |
+| Claims appearing for Stations |  |
+| Claims in manual review |  |
+| At least 10% of manual review claims adjudicated |  |
+| Time to adjust manual claims |  |
+| All bugs are ticketed and given a severity rating |  |
+| Critical bugs are all addressed |  |
 
 ### Stage C: 50% of users
 
@@ -127,8 +166,20 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 4 days, 3/27-3/30
+- Length of time: 2 weeks minimum (or until all criteria is met and any issues are addressed)
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
+
+| Criteria | Measurement |
+| ----------- | ----------- |
+| Claim submission error rate below 5% | Error rate upon submission on VA.gov |
+| Is total claim volume increasing by more than 10% | Total claim volume increase % |
+| Claims in manual review | % and # of claims in manual review from VA.gov |
+| Claims appearing for Stations | Claims submitted on VA.gov = Claims processed by TCP |
+| Claims in manual review | % and # of claims in manual review |
+| At least 10% of manual review claims adjudicated | % of VA.gov claims  adjudicated manual review |
+| Time to adjust manual claims | Change in time required to adjust manual claims |
+| All bugs are ticketed and given a severity rating | Total # of bugs by severity |
+| Critical bugs are all addressed | % of critical bugs addressed |
 
 #### Results
 
@@ -137,15 +188,37 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+| Criteria | Measurement |
+| ----------- | ----------- |
+| Claim submission error rate below 5% |  |
+| Is total claim volume increasing by more than 10% |  |
+| Claims in manual review |  |
+| Claims appearing for Stations |  |
+| Claims in manual review |  |
+| At least 10% of manual review claims adjudicated |  |
+| Time to adjust manual claims |  |
+| All bugs are ticketed and given a severity rating |  |
+| Critical bugs are all addressed |  |
 
 ### Stage D: 75% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
-#### Planning
-
-- Length of time: 2 days, 3/31-4/1
+- Length of time: 2 weeks minimum (or until all criteria is met and any issues are addressed)
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
+
+| Criteria | Measurement |
+| ----------- | ----------- |
+| Claim submission error rate below 5% | Error rate upon submission on VA.gov |
+| Is total claim volume increasing by more than 10% | Total claim volume increase % |
+| Claims in manual review | % and # of claims in manual review from VA.gov |
+| Claims appearing for Stations | Claims submitted on VA.gov = Claims processed by TCP |
+| Claims in manual review | % and # of claims in manual review |
+| At least 10% of manual review claims adjudicated | % of VA.gov claims  adjudicated manual review |
+| Time to adjust manual claims | Change in time required to adjust manual claims |
+| All bugs are ticketed and given a severity rating | Total # of bugs by severity |
+| Critical bugs are all addressed | % of critical bugs addressed |
 
 #### Results
 
@@ -154,13 +227,37 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+| Criteria | Measurement |
+| ----------- | ----------- |
+| Claim submission error rate below 5% |  |
+| Is total claim volume increasing by more than 10% |  |
+| Claims in manual review |  |
+| Claims appearing for Stations |  |
+| Claims in manual review |  |
+| At least 10% of manual review claims adjudicated |  |
+| Time to adjust manual claims |  |
+| All bugs are ticketed and given a severity rating |  |
+| Critical bugs are all addressed |  |
 
 ### Stage E: 100% of users
 
 #### Planning
 
-- Length of time: 1 day, 4/2
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
+- Length of time: 2 weeks minimum (or until all criteria is met and any issues are addressed)
+- Percentage of Users (and roughly how many users do you expect this to be): 75%
+
+| Criteria | Measurement |
+| ----------- | ----------- |
+| Claim submission error rate below 5% | Error rate upon submission on VA.gov |
+| Is total claim volume increasing by more than 10% | Total claim volume increase % |
+| Claims in manual review | % and # of claims in manual review from VA.gov |
+| Claims appearing for Stations | Claims submitted on VA.gov = Claims processed by TCP |
+| Claims in manual review | % and # of claims in manual review |
+| At least 10% of manual review claims adjudicated | % of VA.gov claims  adjudicated manual review |
+| Time to adjust manual claims | Change in time required to adjust manual claims |
+| All bugs are ticketed and given a severity rating | Total # of bugs by severity |
+| Critical bugs are all addressed | % of critical bugs addressed |
 
 #### Results
 
@@ -169,6 +266,19 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+| Criteria | Measurement |
+| ----------- | ----------- |
+| Claim submission error rate below 5% |  |
+| Is total claim volume increasing by more than 10% |  |
+| Claims in manual review |  |
+| Claims appearing for Stations |  |
+| Claims in manual review |  |
+| At least 10% of manual review claims adjudicated |  |
+| Time to adjust manual claims |  |
+| All bugs are ticketed and given a severity rating |  |
+| Critical bugs are all addressed |  |
+
 
 ## Post Launch metrics
 
