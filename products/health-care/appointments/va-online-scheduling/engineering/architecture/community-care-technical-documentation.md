@@ -217,33 +217,33 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 Response when not booked ie: no appointments have been booked for this referral)
 ```
 {
-    uuid: '1234',
-    expirationDate: '2024-12-12',
-    referralNumber: 'VA0000009880',
-    referringFacility: 'Batavia VA Medical Center w/ Dr. Moreen S. Rafa',
-    status: 'Approved',
-    sategoryOfCare: 'Physical Therapy',
-    stationID: '528A4',
-    sta6: '534',
-    referringFacilityInfo: {
-      facilityName: 'Batavia VA Medical Center',
-      facilityCode: '528A4',
-      description: 'Batavia VA Medical Center',
-      address: {
-        address1: '222 Richmond Avenue',
-        city: 'BATAVIA',
-        state: 'NY',
-        zipCode: '14020',
-      },
-      phone: '(585) 297-1000',
+  "uuid": "1234",
+  "expirationDate": "2024-12-12",
+  "referralNumber": "VA0000009880",
+  "referringFacility": "Batavia VA Medical Center w/ Dr. Moreen S. Rafa",
+  "status": "Approved",
+  "categoryOfCare": "Physical Therapy",
+  "stationID": "528A4",
+  "sta6": "534",
+  "referringFacilityInfo": {
+    "facilityName": "Batavia VA Medical Center",
+    "facilityCode": "528A4",
+    "description": "Batavia VA Medical Center",
+    "address": {
+      "address1": "222 Richmond Avenue",
+      "city": "BATAVIA",
+      "state": "NY",
+      "zipCode": "14020"
     },
-    referralStatus: 'open',
-    provider: {
-      id: 111,
-      name: 'Dr. Moreen S. Rafa',
-      location: 'FHA South Melbourne Medical Complex',
-    },
-};
+    "phone": "(585) 297-1000"
+  },
+  "referralStatus": "open",
+  "provider": {
+    "id": 111,
+    "name": "Dr. Moreen S. Rafa",
+    "location": "FHA South Melbourne Medical Complex"
+  }
+}
 
 ```
 Response when an appointment is found
