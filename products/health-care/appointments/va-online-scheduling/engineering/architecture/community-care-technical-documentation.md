@@ -260,7 +260,7 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 
 ## Submit Asynchronous Process
 1. When confirming and submitting the final appointment, the async process will be dual
-2. The FE will poll the /appointments/{appointmentId} endpoint until a valid response or failure returns (up to 30 to 60 seconds)
+2. The FE will submit the appointment and if successful poll the /appointments/{appointmentId} endpoint until a valid response or failure returns (up to 30 to 60 seconds)
 3. The BE will poll the same endpoint, but send a notification via VA Notify the user on success or failure
 
 ## Integration Points
