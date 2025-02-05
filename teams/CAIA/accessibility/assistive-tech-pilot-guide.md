@@ -1,5 +1,5 @@
 # Assistive Technology Pilot Guide
-- Jamie Klenetsky Fay, ADE
+- Jamie Klenetsky Fay, Accessibility Digital Experience (ADE) Team
 - Last updated February 5, 2025
 
 VA’s goal is for our products to be accessible to all who use them, including those with disabilities. Testing products with users of assistive technology (AT) helps us achieve this goal. But many VFS teams haven’t used AT themselves, or haven’t done research with AT users before. 
