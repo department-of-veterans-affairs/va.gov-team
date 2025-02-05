@@ -316,7 +316,9 @@ One participant detailed thoughts on why Veterans might no-show to appointments,
     * *"Our VA is so convoluted. I definitely got lost quite a few times." - P2*
       
 8. **Selecting communication preferences for all formats of reminders within VA Profile should clearly explain the result of each selection and be easily findable within the portal.**
-    * Some Veterans may associate selection of VEText and/or MHV email reminders as “paperless” and conclude that by making selections of email and text message, that they have opted out of mailed reminders. The option to receive or not receive paper reminders should be presented to Veterans. Since oversaturation of reminders is a ubiquitous complaint, where possible, information on the cadence of reminders should be presented at the time when Veterans are choosing which kinds of reminders they would like to receive. For example, when a Veteran is presented with the option to opt in to email appointment reminders, that selection should also list how many reminders the Veteran can expect for that modality of reminder. For example, “Email reminders will be sent 14 days and 3 days prior to an appointment.” PHI and non-PHI forms of reminders should be fully explained
+    * Some Veterans may associate selection of VEText and/or MHV email reminders as “paperless” and conclude that by making selections of email and text message, that they have opted out of mailed reminders. The option to receive or not receive paper reminders should be presented to Veterans.
+
+Since oversaturation of reminders is a common complaint, where possible, information on the cadence of reminders should be presented at the time when Veterans are choosing which kinds of reminders they would like to receive in [Notification Settings for Health Appointment Reminders](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?node-id=572-12658&t=ubf1850HW8krNJY9-1). For example, when a Veteran is presented with the option to opt in to email appointment reminders, that selection should also list how many reminders the Veteran can expect for that modality of reminder. For example, “Email reminders will be sent 14 days and 3 days prior to an appointment.” PHI and non-PHI forms of reminders should be fully explained
     * “*If you signed up to have everything electronically, then it should be electronically.” - P3*
     * *“It's got to be tailored to your communication preferences.” - P11*
     * *“I do not look at letters. I think you guys could save some money by not doing letters in this day and age, saving trees, saving stamps.” - P4*
@@ -352,7 +354,6 @@ _If there are demographics that were not included in this study or you discovere
 
 [MHV email mockups](https://www.figma.com/design/PeVgJbIBKCdJ1ENNuCCk6N/VEText-UX-Research-Assets?node-id=91-24641&t=NeQrUfV1j7anvF9F-1)
 
-
 ## Other supporting documents created
 
 e.g. user flows, personas, etc.
@@ -362,6 +363,10 @@ e.g. user flows, personas, etc.
 
 [VA Appointment Notifications Service Map Research](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10-appointment-notifications-service-map/research-findings.md#findings)
 
+
+[VA Notify Email Content Research](https://github.com/department-of-veterans-affairs/vanotify-team/blob/78b9922e8bda69e7e405414fee9f65f0223445c7/Research/2023-10-Email-Content-Research/Email%20Content%20Research%20Findings.md)
+
+[Notification Settings for Health Appointment Reminders](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?node-id=572-12658&t=ubf1850HW8krNJY9-1)
 
 ## Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
@@ -467,4 +472,9 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* LGBTQ+
+
+* Veterans who are Asian and/or Native
+
+* Identify as LGBTQ+
+
+* Users of Assistive Technology
