@@ -168,12 +168,13 @@ Please invite Rodney Little and Dave to the kickoff call.
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
-We will schedule 1-2 **pilot tests**:
-- Pilot 1: **Feb TBD at X ET** with TBD 
-- Pilot 2: **Feb TBD at Y ET** with TBD 
+We have scheduled 3 **pilot tests**:
+- Pilot 1: **Feb 6 at 4 pm ET** with Rocio De Santiago
+- Pilot 2: **Feb 7 at 2 pm ET** with Steven Strailly
+- Pilot 3: **Feb 12 at 4 pm ET** with Lee DeIarm
 
 ### Research sessions
-Planned dates of research: **February 17-21, 2025** 
+Planned dates of research: **February 18-24, 2025** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
@@ -186,19 +187,19 @@ We would like to request that **Perigean calls each participant** to remind them
 ### Availability
 
 Team Availability | Time Slots (ET)
-------------------|--------------
-Feb 17, 2025 | 9-10, 10:30-11:30, 12-1, 1:30-2:30, 4-5, 5:30-6, 6:30-7:30 
+------------------|-------------- 
 Feb 18, 2025 | 9-10, 1:30-2:30, 4-5, 5:30-6, 6:30-7:30 
 Feb 19, 2025 | 9-10, 10:30-11:30, 4-5, 5:30-6, 6:30-7:30 
 Feb 20, 2025 | 9-10, 10:30-11:30, 12-1, 1:30-2:30, 4-5, 5:30-6, 6:30-7:30 
 Feb 21, 2025 | 9-10, 4-5, 5:30-6, 6:30-7:30 
+Feb 24, 2025 | 9-10, 10:30-11:30, 12-1, 1:30-2:30, 4-5, 5:30-6, 6:30-7:30 
 	
 ## Team Roles
 - **Moderator:** Rodney Little 
 - **Research guide writing and task development:** Cindy Merrill
 - **Participant recruiting & screening:** Perigean
 - **Project point of contact:** Cindy Merrill *only thru Feb 7*, Rodney Little, and Dave Pickett 
-- **Participant(s) for pilot test:** TBD
+- **Participant(s) for pilot test:** Rocio De Santiago, Steven Strailly, and Lee DeIarm
 - **Accessibility specialist:** N/A
 - **Note-takers:** Perigean
 - **Observers:** We will have a sign-up sheet for observers 
