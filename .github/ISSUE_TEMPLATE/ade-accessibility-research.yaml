@@ -1,5 +1,5 @@
 name: "Assistive Technology Research Support Ticket (ADE)"
-description: "Request support for research with disabled Veterans using screen readers, as their primary source of assistive technology and/or observation from an a11y perspective."
+description: "Request support for research with disabled Veterans using screen readers, as their primary source of assistive technology and/or observation from an accessibility perspective."
 title: "[ADE Accessibility Research]: Team name, product name"
 labels: ["508/Accessibility, sitewide CAIA, sitewide accessibility, CAIA-a11y-research"]
 assignees: sara-amanda,NaomiPMC
@@ -60,7 +60,7 @@ body:
   id: research-details
   attributes:
     label: Calendar checking
-    description: Before moving forwards, please [review our capacity calendar for ADE availability](https://calendar.google.com/calendar/u/0/embed?src=c_f982350fc73a8162a1088ab14d00dd37335b2b559a60d6b67eb8021416f81c2a@group.calendar.google.com&ctz=America/Chicago)
+    description: Before moving forwards, please [review our capacity calendar for ADE availability](https://calendar.google.com/calendar/embed?src=c_f982350fc73a8162a1088ab14d00dd37335b2b559a60d6b67eb8021416f81c2a%40group.calendar.google.com&ctz=America%2FNew_York)
     options:
       - label: Based on this calendar, confirm we have specialists who can support your study in your desired timeframe
       - label: Confirm you are filing this support ticket at least 1 week in advance of said timeframe, so we have enough heads up to provide support
@@ -116,7 +116,7 @@ body:
       - label: Post a link to this ticket in the accessibility-help Slack channel and tag Naomi `@Naomi Eke`
       - label: Your team's researchers and observers read through platform guidance on research with assistive technology users
       - label: Review our [assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md) and request a pilot, if desired
-      - label: ADE Specialists are assigned to your research, be sure to add the respective a11y specialist(s) to your session invites (include the Zoom or Teams link). 
+      - label: ADE Specialists are assigned to your research, be sure to add the respective accessibility specialist(s) to your session invites (include the Zoom or Teams link). 
       - label: ADE Specialists review your conversation guide and research plan
       - label: Provide specialists your participant details like skill level, operating system, assistive tech used, browser
       - label: ADE specialists will provide you an optional feedback form to let us know how we can support y'all better into the future.
