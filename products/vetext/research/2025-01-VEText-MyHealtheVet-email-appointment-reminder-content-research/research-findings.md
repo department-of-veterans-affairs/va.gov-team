@@ -116,6 +116,9 @@ Including the **status of an appointment (whether it has been canceled or confir
 > - *“To me that's a little standoffish that you're counting how many times that I cancel." - P3*
 
 In comparing a list of all upcoming appointments versus a single appointment per email, **8/11 participants preferred to having all upcoming appointments included in a single email,** as it helped them plan and prepare. 2/11 participants preferred to have only the most immediately upcoming appiontment in a reminder email.
+<br />
+<br />
+
 ![MHV Research Synthesis 2025_2025-02-05_18-58-26](https://github.com/user-attachments/assets/074be72a-46bf-419a-8f16-41392c03e84f)
 
 
@@ -218,13 +221,13 @@ As mentioned above, this section is located in the part of the email that is mos
 <br />
 <br />
 
-**8. Punctuality fulfills Veterans in several ways including feeling prepared, being able to economize trips to distant VAs and demonstrating respect to fellow Veterans. Precise and updated content in reminders play a role in facilitating timeliness.**
+**8. Punctuality fulfills Veterans in several ways including feeling prepared, lessening stress, being able to economize trips to distant VAs, and demonstrating respect to fellow Veterans. Precise and updated content in reminders play a role in facilitating timeliness.**
 
-An additional benefit of more detailed information in email reminders was the **confidence in feeling more prepared for appointments.** This assurance in preparation has knock-on effects of not only **getting to appointments on time,** but also **demonstrating respect for other Veterans by not delaying subsequent appointments.** Having more precise information about an appointment **saves time in navigating new or large facilities.** Participants remarked that having **information about parking** such as which lots are closest to specific clinics and payment options would **save them time, frustration and get them to appointments on time.**
+An additional benefit of more detailed information in email reminders is the **confidence in feeling more prepared for appointments.** This assurance in preparation has knock-on effects of not only **getting to appointments on time,** but also **demonstrating respect for other Veterans by not delaying subsequent appointments.** Having thorough information about an appointment **saves time in navigating new or large facilities.** A few participants described scheduling several appointments into a single trip because they lived far from their VAMC. When appointments are condensed into one day, logistical planning and preparation are key to attending each of these. Participants remarked that having **information about parking** such as which lots are closest to specific clinics and payment options would **save them time, frustration and get them to appointments on time.**
 
 > - “*Just so you're mentally prepared for what needs to happen." - P10*
 > - “*(Reminders) keeps me right on time and doesn't disturb their scheduling...the fact that you know they gotta see somebody next." - P6*
-> - “*Just to navigate through the hospital can be time consuming. And there goes that 15 minutes early that you planned for” - P10*
+> - “*Navigating an unfamilar facility while getting to appointment on time can "add to your heartrate" - P6*
 <br />
 <br />
 
@@ -266,42 +269,58 @@ One participant detailed thoughts on why Veterans might no-show to appointments,
 
 ## Recommendations
 
-
-**1. PHI reminders should include: date, time, address including floor/building information, clinic name, appointment status, provider name, direct clinic numbers for scheduling, and modality (in-person, video, telephone) of appointment**
-
-* 73% of participants want provider name in emails
-* 64% of participants want address with building name/floor in emails
-* 45% of participants want status listed in emails 
-* At least 50% of participants find value in including appointment modality in emails
-* Direct clinic numbers save Veterans time and frustration and should be prioritized for specialty clinics 
- 
+1. **Approve the PHI version of email and offer it as an option as soon as possible.**
+    * 100% of participants preferred the PHI email, both because it contained more useful information about an appointment as well as it was formatted in a way that made it more “user friendly.”
       
-**2. Approve PHI version of email and offer it as soon as possible.**
+2. **For PHI email reminders include: facility address including floor/building information (if information is maintained up-to-date), clinic name, provider name, appointment status, modality, and direct phone numbers to clinics that have specialty schedulers (and times when they can be contacted).**
+    * 100% of of participants want at minimum date, time and address in emails
+    * 64% of participants want address with building name/floor in emails
+    * 64% of participants want clinic name or indication of procedure (i.e. labs)  in emails
+    * 73% of participants want provider name in emails (though it was lower in priority for some)
+    * 64% of participants want status listed in emails (although 1 participant only wanted to know confirmed)
+    * 82% of participants find value in including appointment modality (in-person, video, telephone) in emails
+    * Providing direct clinic phone numbers saves Veterans time and frustration and should be prioritized for, at minimum, clinics that have specialized schedulers
+      
+3. **Continue sending MHV reminders as a list of all upcoming appointments, however consider moving cadence to 7 days and 1 day prior.**
+    * 73% of participants said they preferred a list of appointments
+    * Being provided a list of all upcoming appointments in a single email was “reassuring” and helped with long term planning
+    * A few participants did point out that for frequent or re-occurring appointments, the volume of emails might become excessive and accommodations for series of appointments should be considered in this cadence
+    * The most common two responses for email cadence were
+        * 45%: 1 week advance notice (1 email)
+        * 27%: 1 week and 1 day advance notice (2 emails)
+          
+4. **Move forward with a VADS-formatted email that includes headings, highlighted appointment information and consider ways to consolidate/link out some of the non-appointment detail information such as how to prepare or change an appointment.**
+    * All participants preferred the PHI version of the email reminder, no only for additional content, but many also thought it looked “very clear,” “easier on the eyes,” and distinguished information hierarchy better. Some of the non appointment detail information (How to manage your appointments, how to prepare, etc) may be able to be condensed, or linked out to other pages in lieu of bulleted text. Half of the participants said they did not read this information in the current email and wanted more concise email reminders. Bolded headings did help participants engage more with this information, however. This information should also be reviewed for redundancy. For example, one participant pointed out that the how to manage your appointments section  directed a user to a phone number that was already listed directly above in the appointment details.
+    * *“Trying to streamline (reminders) down. I think that's the way to go.” - P3*
+    * “*"Right away, I can tell you I like this better.” - P7* 
+<img width="530" alt="VADS formatted email" src="https://github.com/user-attachments/assets/b8689fa3-f546-4f22-81c8-422ea26a5a39" />
 
-* 100% of participants preferred the PHI email, both because it contained more useful information about an appointment as well as it was formatted in a way that made it more “user friendly.”
 
-  
-**3. Move forward with a more VADS formatted email that includes headings, highlighted appointment information and consider ways to consolidate/link out some of the non-appointment detail information such as how to prepare or change an appointment.**
+5. **Email formatting should be designed with sharability in mind (copy/paste, screen shots, link to share).**
+    * Some participants noted that the PHI version of the email reminder seemed easier to share. For example, the graphic presentation of the information makes a clearer screenshot that a user could text to their caregiver or spouse. Similarly, participants pointed out that they often copy and pasted information from reminders. One caregiver said that they often share appointment information with other caregivers or other family members when they cannot accompany a Veteran to an appointment. Formatting should lend itself to making that kind of sharing seamless and without friction. 
+    * “*The presentation makes it really easy to copy and paste into a text.” -P7*
+<img width="510" alt="Screenshot comparison" src="https://github.com/user-attachments/assets/ca9540ec-4c29-4baa-972d-67b2853f10f5" />
 
-**4. Email formatting should be designed with sharability in mind (copy/paste, screen shots, link to share).**
 
-**5. Create a section for parking details for each facility**
+      
+6. **Help Veterans prepare themselves better by including parking information and any procedural requirements like fasting or not wearing deodorant.**
+    * Especially when attending Community Care appointments, parking can be distant from a building or require cash only. Knowing these details ahead of time can help Veterans plan accordingly and get them to their appointments on time. Similarly, knowing procedural details ahead of time minimizes stress.
+    * *“There are so many separate buildings (at their VA) that they have an underground tunnel that you can use to go to all the buildings” -P8*
+    * *“Just to navigate through the hospital can be time consuming. And there goes that 15 minutes early that you planned for.” - P10*
+    * *“"And then you park somewhere and they're like the clinic you need is on the other side of the campus." - P10*
+      
+7. **Hyperlink a map within the appointment information address for navigation.**
+    * 64% of participants want some kind of maplink provided with appointment address
+    * Several participants already copy and paste addresses into their GPS navigation and the link could save Users a step
+    * Responses were mixed whether the map should link to Google or Apple Maps or should be a more precise map of the VAMC facility itself. Further testing might be needed to target which is more helpful to Veterans. Once at a facility, a majority of participants said that they receive great help from front desk volunteers and facility signage. 
+    * *"Our VA is so convoluted. I definitely got lost quite a few times." - P2*
+      
+8. **Selecting communication preferences for all formats of reminders within VA Profile should clearly explain the result of each selection and be easily findable within the portal.**
+    * Some Veterans may associate selection of VEText and/or MHV email reminders as “paperless” and conclude that by making selections of email and text message, that they have opted out of mailed reminders. The option to receive or not receive paper reminders should be presented to Veterans. Since oversaturation of reminders is a ubiquitous complaint, where possible, information on the cadence of reminders should be presented at the time when Veterans are choosing which kinds of reminders they would like to receive. For example, when a Veteran is presented with the option to opt in to email appointment reminders, that selection should also list how many reminders the Veteran can expect for that modality of reminder. For example, “Email reminders will be sent 14 days and 3 days prior to an appointment.” PHI and non-PHI forms of reminders should be fully explained
+    * “*If you signed up to have everything electronically, then it should be electronically.” - P3*
+    * *“It's got to be tailored to your communication preferences.” - P11*
+    * *“I do not look at letters. I think you guys could save some money by not doing letters in this day and age, saving trees, saving stamps.” - P4*
 
-**6. Hyperlink a hospital map within the appointment information address for navigation**
-
-**7. Selecting communication preferences for all formats of reminders within VA Profile should clearly explain the result of each selection and be easily findable within the portal.**
-
-* Some Veterans may associate selection of VEText and/or MHV email reminders as “paperless” and conclude those selections opt them out of mailed reminders. The option to receive or not receive paper reminders should be an option in VA profile in the same manner that Veterans opt in and out of text or email reminders. Finally, if reminder cadences are standard, consider documenting how many reminders a Veteran can expect from each format (i.e. Emails are sent 7 days and 1 day prior to appointments) in the section where they choose their notification preferences. Including this information may not be possible if reminder cadences vary for certain kinds of appointments.
-
-**9. PHI needs to be explicitly explained as to what additional information will be contained.**
-
-**10. Continue sending MHV reminders as a list of all upcoming appointments, however consider moving cadence to 7 days and 1 day prior; consider alternatives for frequent re-occurring appointments.**
-    
-*  73% of participants prefer the list of all upcoming appointments in a single email
-*  45% of participants said ideal advance notice is 1 week ahead of time (1 reminder)
-*  27% of participants said ideal advance notice is 1 week and 1 day ahead of time (2 reminders)
-
-    
 
 
 
