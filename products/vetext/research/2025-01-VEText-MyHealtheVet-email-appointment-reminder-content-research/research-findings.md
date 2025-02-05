@@ -116,6 +116,8 @@ Including the **status of an appointment (whether it has been canceled or confir
 > - *“To me that's a little standoffish that you're counting how many times that I cancel." - P3*
 
 In comparing a list of all upcoming appointments versus a single appointment per email, **8/11 participants preferred to having all upcoming appointments included in a single email,** as it helped them plan and prepare. 2/11 participants preferred to have only the most immediately upcoming appiontment in a reminder email.
+![MHV Research Synthesis 2025_2025-02-05_18-58-26](https://github.com/user-attachments/assets/074be72a-46bf-419a-8f16-41392c03e84f)
+
 
 <br />
 <br />
