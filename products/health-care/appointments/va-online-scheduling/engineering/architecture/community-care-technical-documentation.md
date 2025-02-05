@@ -252,9 +252,13 @@ Response when an appointment is found
     ...referralResponse
     appointments: [
         {
-            id: 1234
-            startTime:
-            endTime:
+            "id": "1234"
+            "startDate": "2025-03-15 10:30 AM",
+            "location": {
+              "address": "123 Main St, Springfield, IL, 62704",
+              "room": "Suite 405"
+            },
+            "confirmationStatus": "confirmed"
         }
     }
 };
