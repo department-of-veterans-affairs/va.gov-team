@@ -109,6 +109,7 @@ function getTouchpoint() {
 
 // generate the title of the "created" ticket
 function getTitleInfo(body, title, labels) {
+  console.log('in getTitleInfo...')
   return checkIfDSTStagingReview(labels)
     ? getDSTTitle(title)
     : getVFSTitle(body);
@@ -116,6 +117,7 @@ function getTitleInfo(body, title, labels) {
 
 // get the title of the created ticket if the cc ticket is for a VFS review
 function getVFSTitle(body) {
+  console.log('in getVFSTitle...');
   let title = `Completed: ${getTouchpoint()}`;
   if (checkIfTicketValid(body)) {
     const { teamName, productName, featureName } = parse(body);
@@ -129,6 +131,7 @@ function getVFSTitle(body) {
 
 // get the title of the created ticket if the cc ticket is for a DST review
 function getDSTTitle(title) {
+  console.log('in getDSTTitle...');
   let _title;
   if (title.toLowerCase().includes('staging review')) {
     _title = `Completed - ${title}`;
