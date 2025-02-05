@@ -7,7 +7,7 @@
 
 
 
-# Accessibility Digital Experience
+# Accessibility Digital Experience (ADE) Team (pronounced /ād/)
 
 _Accessibility Digital Experience aka Accessibility DE or for short, ADE (pronounced "aide"), is OCTO's new accessibility team under SPRUCE._
 ## Our goal
