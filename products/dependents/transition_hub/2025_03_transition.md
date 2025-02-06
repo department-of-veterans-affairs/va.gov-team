@@ -14,22 +14,26 @@
 [Our team, VA relationships, and stakeholder meeting cadence](#Our-team-2024/25-roster)
 
 ## Product context 
-- The online 21-686c form allows Veterans to add or remove dependents to/from their VA disability compensation or pension benefits. If a Veteran is supporting a dependent, they may be eligible to receive additional disability or pension compensation.
+- The online **21-686c** form allows Veterans to add or remove dependents to/from their VA disability compensation or pension benefits. If a Veteran is supporting a dependent, they may be eligible to receive additional disability or pension compensation.
    - [About VA Form 21-686c (Application Request to Add and/or Remove Dependents)](https://www.va.gov/find-forms/about-form-21-686c/)
    - Launched on VA.gov: May 2018 with 674 form flow
    - 686c annual submission volume: 342,750 (2024)
    - Current pdf version on VA.gov: AUG 2022
-- The online form flow for the 21-686c form is integrated with the 21-674 form (Request for Approval of School Attendance). The 674 form is used to extend benefits to a Veteran’s child if they are between 18-23 years old and attending school full time. Normally, a minor child dependent ages out of benefits when they turn 18 unless a 674 is filed indicating the child is in school.
+- The online form flow for the **21-674** form (Request for Approval of School Attendance) is integrated with the 21-686c form. The 674 form is used to extend benefits to a Veteran’s child if they are between 18-23 years old and attending school full time. Normally, a minor child dependent ages out of benefits when they turn 18 unless a 674 is filed indicating the child is in school.
    - [About VA Form 21-674 (Request for Approval of School Attendance)](https://www.va.gov/find-forms/about-form-21-674/)
    - Launched on VA.gov: May 2018 with 686 form flow
    - 674 annual submission volume: 73,300 (2024)
    - Current pdf version on VA.gov: OCT 2021
-- The 21-0538 (Mandatory Verification of Dependents) is currently a paper form that this team was tasked with turning into an online tool. Preliminary research on a lightweight prototype was completed in Feb/Mar 2025.
+- The **21-0538** (Mandatory Verification of Dependents) is a paper form that is used to verify the dependents on a Veteran's disability or pension benefits. Veterans are required to submit this paper form every 8 years. This team was tasked with turning the form into a lightweight online tool. Preliminary research on a lightweight prototype was completed in Feb/Mar 2025. The mvp protype only captured a "no changes to my dependents" answer (vast majority of responses).
    - [About VA Form 21-0538 (Mandatory Verification of Dependents)](https://www.va.gov/find-forms/about-form-21-0538/)
    - 113,928 paper forms submitted per year
+   - The longer term goal is to add the ability for Veterans to indicate, "yes, I have changes to my dependents) and more fully integrated it into the 686/674 form flow.
+- The **21P-509** (Statement of Dependency of Parent) is currently a paper form used to add dependent parents to disability or pension benefits. It may eventually need to be integrated into the online form flow of 686/674
+   - [About VA Form 21P-509 (Statement of Dependency of Parent)](https://www.va.gov/find-forms/about-form-21p-509/)
 
 ### Product Goal
 Make the online dependent experience as easy to complete and cohesive as possible, while ensuring that Veterans verify dependent information on a regular basis and that submissions are reliable and processed as quickly as possible.
+- The long term goal is that Veterans can come to the dependent management area of VA.gov and add/remove their dependents (21-686c), request approval of their school-aged child (21-674), verify their dependents (21-0538), and add their dependent parent (21P-509) all within a single form flow experience. Many of these forms ask for the same information, so there is a lot of opportunity to leverage a single form experience to prefill information and reduce the burden on the Veteran to manage their dependents.
 
 ### Product portfolio
 #### 21-686c Add/Remove Dependent and 21-674 Request Approval of School Attendance
@@ -46,7 +50,10 @@ Make the online dependent experience as easy to complete and cohesive as possibl
 - [Wireframes (proposed)](https://www.figma.com/design/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?node-id=59-960&t=yWIz3IUP2uFChYib-0) (Figma)
 - [MVP Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1723479332670)
 - [IA/User Flow Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=522-1737736233308)
+- [VBA Verification Info](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf) (core goals, diary entries, mvp outline)
 - [MVP Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research/2025-02-dependents-verification-mvp-research)
+   - [Research cohort map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690311086208/96d5f59b299912bc8c69542e6943d5b2213b9c72)
+   - [Solution exploration](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689863079145/5b97ba9ea11077f983f3413167f6324f11aa04a8)
 
 ### Product artifacts
 - Content source of truth
@@ -107,12 +114,14 @@ Make the online dependent experience as easy to complete and cohesive as possibl
 - Auto fill spouse and dependent information ([discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102343))
 - [Migrate to RESTful APIs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91282)
 - Determine why submission and saved dates do not match MyVA. ([submission date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101056) and [saved date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101040))
+- Work with Infrastructure and Arcitecture team to improve findability of form (initial AI work in [GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/verify-dependents.md) and [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689863079145/5b97ba9ea11077f983f3413167f6324f11aa04a8))
 
 ### Future
 - Add the ability to [download a pdf of the submitted claim](https://github.com/orgs/department-of-veterans-affairs/projects/1237/views/13?sliceBy%5Bvalue%5D=ND%2FD+ZSF+%7C+Stage+5+%28Confirmation+page+full+update%29) from the confirmation page (as part of the Zero Silent Failure initiative). This work was put on hold until another team implements a solution.
 - Work with MyVA to update the [status card](https://design.va.gov/patterns/help-users-to/stay-informed-of-their-application-status#status-in-myva) shown to claimants as part of the Zero Silent Failure initiative.
 - Integrate dependent management into the MyVA profile experience. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102346))
 - Integrate dependent parent form (21-509) into 686/674 form flow on VA.gov. ([discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102348))
+- Expand functionality of dependency verification tool (21-0538) to capture "yes, I have changes to my dependents)
 - Explore reminders for life events ([discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102351))
 
 
