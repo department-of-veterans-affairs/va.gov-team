@@ -77,7 +77,7 @@ Remote on Zoom
 
 ### **Research materials**
 
-- [Link to conversation guide: Group 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2025-02-ARM-appointarep-live-usertest/conversation-guide-group1.md)
+- [Link to conversation guide: Group 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2025-02-ARM-appointarep-live-usertest/conversation-guide.md)
 
 
 ## **Recruitment**
