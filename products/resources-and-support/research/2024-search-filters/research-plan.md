@@ -164,7 +164,7 @@ Dave and Rodney are available for a kickoff call during any of these times:
 - **Mon Feb 10** 10 am - 5 pm ET
 - **Tue Feb 11** 10 am - 1 or 2-5 pm ET
 
-Please invite Rodney Little and Dave to the kickoff call.
+Please invite Rodney and Dave to the kickoff call.
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
