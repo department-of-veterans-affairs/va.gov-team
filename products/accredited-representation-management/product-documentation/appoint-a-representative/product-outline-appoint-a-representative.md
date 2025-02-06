@@ -46,10 +46,14 @@ There is not currently an experience on VA.gov for Veterans to appoint a represe
 
 ## **Solution Approach**
 
-Our immediate goal for the Appoint a Representative MVP is to mirror the 21-22 / 21-22a digital form fill functionality on eBenefits, but with a more consistent and intuitive experience that lives directly on VA.gov.
+Our immediate goal for the Appoint a Representative 1.0 (MVP) is to mirror the 21-22 / 21-22a digital form fill functionality on eBenefits, but with a more consistent and intuitive experience that lives directly on VA.gov. This digital form-fill experience was released to 100% of users on January 23, 2025.
 
-As we work towards this MVP, we will also be preparing for a future goal of digital submission by migrating EVSS endpoints to Lighthouse's Benefits Claims API (specifically the POA services) and working with the Accredited Representative Facing team.
-
+We are currently preparing Appoint a Representative 2.0 which introduces digital submission of the 21-22 form, for users that:
+- are LOA3 authentiated
+- are a Veteran
+- have selected a representative that accepts digital submission
+- have chose "online" as the preferred submission method
+If all of these conditions are met, the end of the Appoint experience will result in a POA request being sent to the representative to accept/decline in the Accredited Representative Portal.
 
 ## **Measuring Success**
 
@@ -126,9 +130,9 @@ The Lighthouse auto-establishment service will be generating an older version of
 
 ## **Future Plans and Ideas**
 
-When [Appoint a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) v2 (with digital submission) is released, we will work with stakeholders to redirect related pages within[ eBenefits](https://www.docstomarkdown.pro/convert-markdown-to-google-docs-online/%5Bhttps://www.ebenefits.va.gov/ebenefits/vso-search).
+When we are out of the digital submission pilot phase, we will work with stakeholders to redirect related pages within [eBenefits](https://www.docstomarkdown.pro/convert-markdown-to-google-docs-online/%5Bhttps://www.ebenefits.va.gov/ebenefits/vso-search) to point to [Appoint a Representative](https://www.va.gov/get-help-from-accredited-representative/appoint-rep/introduction) on VA.gov.
 
-Ideas for the next version are stored in our [Appoint a Representative v2](https://dsva.slack.com/docs/T03FECE8V/F07T60DAK7Z) Slack canvas, and we are targeting a pilot launch in March 2024.
+Ideas for the next versions are stored in our [Appoint a Representative v2](https://dsva.slack.com/docs/T03FECE8V/F07T60DAK7Z) Slack canvas, and we are targeting a pilot launch in March 2024.
 
 Longer term ideas for Appoint a Representative are stored in our[ ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
 
