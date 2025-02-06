@@ -54,9 +54,13 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 
       1. Is there any confusion with the ‘Street address line 2’ input?
 
+      2. Do users correctly interpret the "Note: If you submit another request, you'll cancel your current one." content on the confirmation page?
+
    3. Does the experience meet user expectations?
 
    4. Are the steps clear and actionable?
+
+      1. Are there any reasons why users are not navigating from the Download to the Next Steps pages?
 
    5. Are assistive technology (AT) users able to successfully use the feature?
 
@@ -90,57 +94,44 @@ Remote on Zoom
 
 ### **Research materials**
 
-- WIP Link to conversation guide
+- [Link to conversation guide: Group 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2025-02-ARM-appointarep-live-usertest/conversation-guide-group1.md)
 
 
 ## **Recruitment**
 
-### **Recruitment approach**
+## **Group 1 recruitment approach**
 
-Our target audience are 12 Veterans (with expectations of speaking to 8) who are actively searching for a VSO, with a split of AT and non-AT users.
+Our target audience are 4 Veterans (with expectations of speaking to 3) who are actively searching for, or working with, an attorney or claims agent.
 
 
 ### **Recruitment criteria**
 
-#### **Requesting a kick-off call**
+**Requesting a kick-off call**
 
-- WIP Enter dates and times for kick-off call
+- 02/12/2025 anytime 130 - 4 PM EST
 
-- Prior to their session we request that Perigean:
+**Participant criteria**
 
-  - Confirms AT participants will use the AT they indicated in their screener survey.
-
-  - Will email screen reader users links that will be utilized for the session.
-
-    - WIP Link for Perigean
-
-#### **Participant criteria**
-
-| **# of participants**      | **Criteria**                                                                                                                 | **Level** |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **VA.gov Use**             |                                                                                                                              |           |
-| All                        | Must have used, or are willing to use, VA.gov                                                                                | Primary   |
-| **Representative Support** |                                                                                                                              |           |
-| All                        | Actively searching for a representative to support with a claim or benefit OR started receiving support in the last 6 months | Primary   |
-| **Representative Type**    |                                                                                                                              |           |
-| Exactly 6                  | VSO (Veteran Service Organization or Officer)                                                                                | Primary   |
-| Exactly 6                  | Attorney or claims agent                                                                                                     | Primary   |
-| **Device Type**            |                                                                                                                              |           |
-| Exactly 4                  | Non-AT users                                                                                                                 | Primary   |
-| Exactly 4                  | Screen reader users                                                                                                          | Primary   |
-| Exactly 4                  | Magnification users who use magnification on VA.gov                                                                          | Primary   |
-| **Demographics**           |                                                                                                                              |           |
-| 6 or more                  | People of color (black, hispanic, asian, or Native American)                                                                 | Secondary |
-| 6 or more                  | Age 55+ yo                                                                                                                   | Secondary |
-| 6 or more                  | With cognitive disability                                                                                                    | Secondary |
-| 3 or more                  | In rural location                                                                                                            | Secondary |
-| 3 or more                  | With no degree                                                                                                               | Secondary |
-| 2 or more                  | Women                                                                                                                        | Secondary |
-| 1 or more                  | LGBTQ+                                                                                                                       | Secondary |
+| # of participants | Criteria | Level |
+| --- | --- | --- |
+| VA.gov Use |
+| All | Must have used, or are willing to use, VA.gov | Primary |
+| Representative Support |
+| All | Actively searching for a representative to support with a claim or benefit OR started receiving support in the last 6 months | Primary |
+| Representative Type |
+| All | Attorney or claims agent | Primary |
+| Demographics |
+| 2 or more | Age 55+ yo | Secondary |
+| 2 or more | With cognitive disability | Secondary |
+| 1 or more | People of color (black, hispanic, asian, or Native American) | Secondary |
+| 1 or more | In rural location | Secondary |
+| 1 or more | With no degree | Secondary |
+| 1 or more | Women | Secondary |
+| 1 or more | LGBTQ+ | Secondary |
 
 Generated using VA [maximum variation sampling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#Lean-MVS-Strategy) method.
 
-#### **Screener Questions: All Participants**
+**Screener Questions: All Participants**
 
 1. The following statements will refer to your engagement with representatives, which includes VSOs, attorneys, and claims agents. Select the option that best describes your current situation:
 
@@ -157,15 +148,10 @@ Generated using VA [maximum variation sampling](https://github.com/department-of
 2. What type of representative are you looking for support from?
 
    - Veterans Service Organization (VSO)
-
    - Veterans Service Officer
-
    - Attorney (paid service)
-
    - Claims agent (paid service)
-
    - None of the above
-
    - I’m not sure
 
 3. How often do you use VA.gov? Your best guess is okay.
@@ -183,8 +169,6 @@ Generated using VA [maximum variation sampling](https://github.com/department-of
    - Never, and would prefer not to use VA.gov
 
    - I’m not sure
-
-#### **Screener Questions: Cohort 1: Non-AT Users**
 
 4. How many representatives have you worked with in the last 5 years? Your best guess is okay.
 
@@ -214,98 +198,16 @@ Generated using VA [maximum variation sampling](https://github.com/department-of
 
    - I prefer not to answer
 
-#### **Screener Questions: Cohort 2: Magnification Users**
 
-4. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device?
+### **Timeline**
 
-   - Yes
+- [ ] 02/12 / Perigean kick-off call
 
-   - No
+- [ ] 02/12 – 02/19 / Recruitment with Perigean, requires 1 week
 
-5. How frequently do you use screen magnification on VA.gov? Your best guess is okay.
+- [ ] TBD / Complete pilot session
 
-   - Daily
-
-   - Weekly
-
-   - Monthly
-
-   - Every few months
-
-   - Never
-
-   - This question doesn't apply to me
-
-6. Can you join the Zoom session from your mobile or desktop device using the screen magnification tool you need to see your screen?
-
-   - Yes
-
-   - No
-
-   - This question doesn't apply to me
-
-7. Please list the name of the magnification tool you will use during the session.
-
-   - Open text box
-
-#### **Screener Questions: Cohort 3: Screen Reader Users**
-
-4. Do you use any of the following screen readers to access websites or applications? Please select all that apply.
-
-   - JAWS
-
-   - NVDA
-
-   - VoiceOver (iPhone, iPad, Mac)
-
-   - TalkBack (Android)
-
-   - Narrator (Windows)
-
-   - Other (Please specify): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-   - This question doesn't apply to me
-
-5. How frequently do you use a screen reader? Your best guess is okay.
-
-   - Daily
-
-   - Weekly
-
-   - Monthly
-
-   - Every few months
-
-   - Never
-
-   - This question doesn't apply to me
-
-6. Can you join the Zoom session from your mobile or desktop device using your screen reader?
-
-   - Yes
-
-   - No
-
-   - This question doesn't apply to me
-
-7. Please list the name of the screen reader you will use during the session.
-
-   - Open text box
-
-
-## **Timeline**
-
-- [ ] WIP DATE / Perigean kick-off call
-
-- [ ] WIP DATES / Recruitment with Perigean, requires 1 week
-
-- [ ] WIP DATE / Complete pilot session
-
-- [ ] WIP DATES / Conduct interviews, 12 days, 4 for each cohort
-
-- [ ] WIP DATES / Analysis and reporting
-
-- [ ] WIP DATE / Final presentation
+- [ ] 02/20 – 02/28 / Conduct interviews, requires 2x slots than required
 
 Timeline is an estimation and will be updated as dependencies clear. Some dependencies that can impact this timeline include:
 
@@ -316,25 +218,23 @@ Timeline is an estimation and will be updated as dependencies clear. Some depend
 
 ### **Prepare**
 
-When will the thing you are testing be finalized? WIP TBD, waiting on January launch
+When will the thing you are testing be finalized? 01/21/2025
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
 
-- WIP Pilot participant email: TBD
+- Pilot participant email: TBD
 
-- WIP Date and time of pilot session: TBD
+- Date and time of pilot session: TBD
 
 
 ### **Research sessions**
 
-- WIP Planned dates of research: TBD
+- Planned dates of research: 02/20/2025 – 02/28/2025
 
 
 ### **Length of sessions**
 
 - Session length: 60 minutes
-
-  - Screen reader session length: 90 minutes
 
 - Buffer time between sessions: 1 hour
 
@@ -343,25 +243,10 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### **Availability**
 
-- WIP Provide your availability
+- Available most days between 10 AM - 4 PM EST
 
+- Exceptions are:
 
-## **Team Roles**
+  - 02/25/2025 from 10 AM - 1 PM EST
 
-Please list the people who will be serving in each role. Include the **primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers**. If you need Perigean to take notes for you, indicate that next to Notetaker
-
-- WIP **\*Moderator:** Janelle Finnerty, 248-303-2329, janelle.finnerty\@oddball.io
-
-- **Research guide writing and task development:** Janelle Finnerty
-
-- **Participant recruiting & screening:** Perigean
-
-- WIP **Project point of contact:** Janelle Finnerty
-
-- WIP **Participant(s) for pilot test:** TBD
-
-- WIP **\*Accessibility specialist (for sessions where support for assistive technology may be needed):** TBD
-
-- **\*Notetakers:** Moderator ****will forward invites based on sign-up sheet.
-
-- **\*Observers:** Moderator ****will forward invites based on sign-up sheet.
+  - 02/27/2025 from 12 PM - 4 PM EST
