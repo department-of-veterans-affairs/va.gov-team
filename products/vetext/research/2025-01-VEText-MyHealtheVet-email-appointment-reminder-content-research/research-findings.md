@@ -87,7 +87,7 @@ This research will allow us to gauge Veteran satisfaction with current email app
 
 6. Many participants would like **more control over how they receive reminders** and **what information is contained within** them.
 
-7. ***Notification Preferences*** section in the proposed, newly-formated MHV email was **mostly understood to be where Veterans can select the kind and amount of reminders they receive.** However, participants noted that this section is located in the part of the email that they **mostly skim or skip** because they focus only on appointment details.
+7. ***Notification Preferences*** section in the proposed, newly-formatted MHV email was **mostly understood to be where Veterans can select the kind and amount of reminders they receive.** However, participants noted that this section is located in the part of the email that they **mostly skim or skip** because they focus only on appointment details.
 
 8. **Punctuality** fulfills Veterans in several ways including **feeling prepared**, being able to **economize trips to distant VAs** and demonstrating **respect to fellow Veterans**. **Precise and updated content in reminders play a role in facilitating timeliness.**
 
@@ -209,7 +209,7 @@ Two participants **wanted the option to go “paperless”** and cease mailed re
 <br />
 <br />
 
-**7. Notification Preferences section in the proposed, newly-formated MHV email was mostly understood to be where Veterans can select the kind and amount of reminders they receive.**
+**7. Notification Preferences section in the proposed, newly-formatted MHV email was mostly understood to be where Veterans can select the kind and amount of reminders they receive.**
 
 <img width="501" alt="notification preferences" src="https://github.com/user-attachments/assets/417e1dc2-b8a2-4067-8d8c-314df249d254" />
 
