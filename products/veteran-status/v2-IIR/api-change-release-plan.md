@@ -45,8 +45,8 @@ Developer and Product Manager will monitor analytics and logging at each rollout
 - Number of users: 4
 - Number of bugs identified / fixed: 1 / 3
   - [[BUG] Error Messages Are Not Displaying as Expected #1397](https://github.com/department-of-veterans-affairs/va-iir/issues/1397) | DONE
-  - [[BUG] Non 200 Response Not Returning Correct FE Error Message #1406](https://github.com/department-of-veterans-affairs/va-iir/issues/1406) | IN PROGRESS
-  - [[BUG] Add Loading Component to Vet Status](https://github.com/department-of-veterans-affairs/va-iir/issues/1393) | NOT STARTED
+  - [[BUG] Non 200 Response Not Returning Correct FE Error Message #1406](https://github.com/department-of-veterans-affairs/va-iir/issues/1406) | DONE
+  - [[BUG] Add Loading Component to Vet Status](https://github.com/department-of-veterans-affairs/va-iir/issues/1393) | STARTED
 - Was any downstream service affected by the change?: No
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? No
 
