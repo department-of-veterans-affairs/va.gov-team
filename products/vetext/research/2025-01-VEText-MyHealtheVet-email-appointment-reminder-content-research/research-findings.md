@@ -296,7 +296,7 @@ One participant detailed thoughts on why Veterans might no-show to appointments,
 <img width="530" alt="VADS formatted email" src="https://github.com/user-attachments/assets/b8689fa3-f546-4f22-81c8-422ea26a5a39" />
 
 
-5. **Email formatting should be designed with sharability in mind (copy/paste, screen shots, link to share).**
+5. **Email formatting should be designed with shareability in mind (copy/paste, screen shots, link to share).**
     * Some participants noted that the PHI version of the email reminder seemed easier to share. For example, the graphic presentation of the information makes a clearer screenshot that a user could text to their caregiver or spouse. Similarly, participants pointed out that they often copy and pasted information from reminders. One caregiver said that they often share appointment information with other caregivers or other family members when they cannot accompany a Veteran to an appointment. Formatting should lend itself to making that kind of sharing seamless and without friction. 
     * “*The presentation makes it really easy to copy and paste into a text.” -P7*
 <img width="510" alt="Screenshot comparison" src="https://github.com/user-attachments/assets/ca9540ec-4c29-4baa-972d-67b2853f10f5" />
