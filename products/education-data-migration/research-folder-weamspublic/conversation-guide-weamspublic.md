@@ -102,6 +102,7 @@ Add a staging link here
 
 **Questions:**
 1. Where would you go from here or what would you do next?
+2. Was this content useful?
 
 ### License in multiple states scenario
 - Go back to search
@@ -116,9 +117,9 @@ Add a staging link here
 
 ### Certification scenario
 - Go back to search
-- Please select certification for category type and enter in a certification name
+- Please select certification for category type and enter in a certification name you're interested in
 - Make a selection from the dropdown and select submit
-
+         
 **Questions:**
 1. How many results do you see?
 2. What would you do next?
