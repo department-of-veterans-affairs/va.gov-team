@@ -2,6 +2,8 @@
 
 This documentation covers accessibility-related efforts for the 526ez form.
 
+If you are new, check out the [Onboarding Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/accessibility/onboarding.md)
+
 ## Audits
 
 - [A list of accessibility audits conducted on the 526ez](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/accessibility/audits.md)
