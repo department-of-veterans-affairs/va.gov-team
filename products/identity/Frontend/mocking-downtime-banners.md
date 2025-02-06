@@ -16,7 +16,7 @@ This setup is required for either maintenance banners or downtime banners.
 1. In vets-website, navigate to the `DowntimeBanner.js` component in our authentication/components
 2. Comment out the `isLocalhost` variable 
 3. Create another `isLocalhost` variable just below and set it to **false**
-    1. ^ This exists because the `backend_statuses` api doesn’t work locally due to its PagerDuty dependency
+    1. ^ This exists because the `v0/backend_statuses` api doesn’t work locally due to its PagerDuty dependency
 4. Ensure your **vets-api** is NOT running as we are going to spin up a Node server to visually test.
 
 ## Node mock server setup
@@ -43,8 +43,8 @@ This setup is required for either maintenance banners or downtime banners.
 }
 ```
 
-1. Run `npm install` or `yarn` to install dependencies
-2. Create your `index.js` file and paste the basic Express server setup
+2. Run `npm install` or `yarn` to install dependencies
+3. Create your `index.js` file and paste the basic Express server setup
 
 ```jsx
 const express = require("express");
@@ -67,17 +67,18 @@ app.listen(port, () => {
 });
 ```
 
-1. Install if you have not already `nodemon` this will ensure your Node server will auto-refresh when making updates
+4. Install if you have not already `nodemon` this will ensure your Node server will auto-refresh when making updates
+5. Run `npm run start` or `yarn start`
 
 ## Mocking responses
 
-You can do 1 of 2 things to mock responses. Navigate to VA.gov, open up DevTools, and copy the network response from the `/v0/backend_statuses` endpoint and paste it in OR use the following response as a guide.
+You can do 1 of 2 things to mock responses. Navigate to VA.gov, open up DevTools, and copy the network response from the `v0/backend_statuses` endpoint and paste it in OR use the following response as a guide.
 
-> Note: I have intentionally left out statuses that don’t render in the sign-in modal / page.
+> Note: I have intentionally left out services that are not a dependency for the sign-in modal / page.
 
     
 <details>
-  <summary>Mocked JSON response <code>/v0/backend_statuses</code></summary>
+  <summary>Mocked JSON response <code>v0/backend_statuses</code></summary>
 
   ```javascript
     const response = {
