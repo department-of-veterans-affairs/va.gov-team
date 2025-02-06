@@ -1,5 +1,5 @@
 # Onboarding Guide: Accessibility Specialist for VA.gov
-`Last updated September 30, 2024`
+`Last updated February 6, 2025`
 
 
 > [!TIP]
@@ -143,16 +143,16 @@ In all cases, you have a pivotal role to play in the accessibility of your team'
 
 </details>
 
-### Supporting CAIA's Team
+### Supporting the Accessibility Digital Experience (ADE) Team
 
-<details><summary>Toggle to learn more about supporting CAIA :accessibility:</summary>
+<details><summary>Toggle to learn more about supporting ADE :accessibility:</summary>
 
-  The **Content, Accessibility, and Information Architecture team** ("CAIA") is a sitewide support team. If you're on CAIA, your role is to support product teams as they build their products. To do this, you will:
+  The **Accessibility Digital Experience** team (ADE) is a sitewide support team. If you're on ADE, your role is to support product teams as they build their products. To do this, you will:
 - Review products in the design phase for accessibility concerns
 - Conduct accessibility audits of products on staging and in production
 - Run [assistive technology research pilots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md)
 - Assist teams with assistive technology research sessions with participants with disabilities
-Review CAIA's full [menu of services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/README.md#services-we-offer) to learn more.
+Review ADE's full [menu of services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/README.md#services-we-offer) to learn more.
 </details>
 
 ### Supporting the Platform Governance team
@@ -206,7 +206,7 @@ The following channels are a must-join for accessibility specialists at VA.gov.
 
 - [#accessibility-specialists](https://dsva.slack.com/archives/C0335Q88X0S) (private channel for accessibility specialists) ⭐♿
 - [#accessibility-ops](https://dsva.slack.com/archives/C023ZKDJJK1) (public channel for accessibility champs and other accessibility fans)
-- [#accessibility-help](https://dsva.slack.com/archives/C8E985R32) (general requests for accessibility help, join post accessibility training)
+- [#accessibility-help](https://dsva.slack.com/archives/C8E985R32) (general requests for accessibility help, join post-accessibility training)
 - [#sitewide-content-accessibility-ia](https://dsva.slack.com/archives/C01K37HRUAH) (the public CAIA channel)
 
 These channels aren't required, but we recommend you join them. They'll give you visibility into different disciplines at VA.gov, along with the platform itself:
@@ -222,7 +222,7 @@ These channels aren't required, but we recommend you join them. They'll give you
 - [#random](https://dsva.slack.com/archives/C03FECE9P) 
 - [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) (design researchers and folks who support them)
 - [#trauma-practice](https://dsva.slack.com/archives/C04F9JLSATE) (informal group of folks interested in trauma informed/responsive design, meetings are available)
-- [#caia-team-internal](https://dsva.slack.com/archives/C03MP8MEPCN) (private channel for CAIA members)
+- [#accessibility-de-internal](https://dsva.slack.com/archives/C08B367JLLT) (private channel for ADE members)
 
 And if you're embedded on a product team, you might want to follow channels from other teams in your Crew. For example, if you're on a Benefits team, you might want to follow other Benefits teams' channels! This will give you insight into what those teams are up to, and open up more possibilities for cross-team collaboration.
 
@@ -234,7 +234,7 @@ If you want to keep abreast of accessibility happenings across VA.gov, you can s
    - **Examples:** Accessibility, accessible, audit, user research, ux, CAIA, user experience, a11y
 
 #### Tagging
-Use `@sitewide-caia-accessibility` in Slack to ping all CAIA accessibility specialists.
+Use `@accessibility-de` in Slack to ping all ADE accessibility specialists.
 
 </details>
 
@@ -242,7 +242,7 @@ Use `@sitewide-caia-accessibility` in Slack to ping all CAIA accessibility speci
 ## Primary contacts
 If you want to learn more about how accessibility works at VA.gov, reach out to:
 - [Martha Wilkes](https://dsva.slack.com/archives/D04NHP2FGEP)  OCTO - Accessibility Strategist/Designer [VA]
-- [Sara Smith](https://dsva.slack.com/team/U04NBMUH5C4) - CAIA - 508 Accessibility Specialist [Oddball]
+- [Sara Smith](https://dsva.slack.com/team/U04NBMUH5C4) - ADE - 508 Accessibility Specialist [Oddball]
 - [Brian DeConinck](mailto:brian.deconinck@adhocteam.us) - Platform/Governance - Accessibility Lead [Ad Hoc]
 - [Jeana Clark](https://dsva.slack.com/team/U049MQKDTT3) - Veteran Facing Forms, Accessibility Specialist (UX) [Ad Hoc]
 
@@ -279,7 +279,7 @@ If you use Figma, make sure to use our [accessibility annotations library](https
 You can also use Figma [plugins](https://www.figma.com/community/tag/a11y/plugins/free) to help check color contrast, readability, zoom, etc.
 
 ### PDFs
-If you've been tasked with creating or remediating a PDF, check out CAIA's [guide to creating accessible PDFs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/create-accessible-PDF.md).
+If you've been tasked with creating or remediating a PDF, check out ADE's [guide to creating accessible PDFs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/create-accessible-PDF.md).
 
 [Section508.gov's Content Creation page](https://www.section508.gov/create/) has detailed information about making accessible documents, presentations, spreadsheets, and PDFs.
 
