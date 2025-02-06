@@ -337,7 +337,7 @@ To be determined based on next steps discussed by the team.
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1737480479926/1cec996673a65b52cf78377a850f26d332ee59a9)
 
 
 ## Tools used for Synthesis
