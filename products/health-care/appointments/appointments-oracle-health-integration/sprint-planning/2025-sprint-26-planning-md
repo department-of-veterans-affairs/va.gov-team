@@ -43,7 +43,7 @@ In Sprint 25 the team provided support for multiple features and initiatives, ou
 🔴 Appointment Cancellation
 🟢 Appointment Requests
 🟤 VetsAPI Logic Integration Support
-   * [VPG-306 VPG: Move any existing logic for when to show join video link to vets-api](https://issues.mobilehealth.va.gov/browse/VPG-306)
+   *[VPG-306 VPG: Move any existing logic for when to show join video link to vets-api](https://issues.mobilehealth.va.gov/browse/VPG-306)
    * [VPG-307 VPG: Move logic for handling partial api responses and errors to vets-api](https://issues.mobilehealth.va.gov/browse/VPG-307)
 🟠 Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
