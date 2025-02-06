@@ -3,8 +3,14 @@ Log key Medical Records-specific decisions in the appropriate practice area tabl
 
 Log any decisions impacting all/multiple MHV on VA.gov applications in the [global MR decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md).
 
+## Feb 5, 2025
+### State of Product
+* All domains are in Phase 1, including Blue Button, CCD, Self-entered data, and diagnostic images
+  
+| Decision | Reasoning |
+|----------|-----------| 
+| For March, we will keep the My Goals link on MHV Classic.  In meantime, we will see how many people are looking at that data to determine if we need to include it on VA.gov before June or communicate more broadly that it will no longer be available after June 2. | We suspect, but don't know for certain, that this tool is not very popular, so we are going to do due diligence and gather some metrics before making a final decision.  |
 
-# Medical records design decisions
 ## Nov 15, 2024
 ### State of Product
 * Phase 0
@@ -146,14 +152,12 @@ Decisions made on OCC/OCTO Leadership meeting with Dr. Josephs, Theresa Hancock,
 | 7/18/2023 | Theresa Hancock, Bresha Lipscomb, Coulton Bunney, Marci McGuire  |  The User Interface for users to view their log info does not need to be baked into the applications in Phase 0, but we do need to provide a link from the new experience to the logs on My HealtheVet.  The timing for incorporating the log UI into the new experience will be determined based on the estimated lift to create that new page.  |  Getting the new experience in front of users was deemed to be a higher priority than replicating the logging access page in Phase 0 |
 | 6/13/2023 | Theresa Hancock, Bresha Lipscomb, Matthew Baum, Stephania Griffin, Peggy Pugh, Lauren Alexanderson, Coulton Bunney, Marci McGuire, Barry Egbert                  |  The logging in AAL can remain exactly the way it is set up in MHV currently  |  The current configuration was reviewed by Matt Baum and deemed sufficient.  |
 
-## Product
  | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 | 09/09/2022 | Lauren Alexanderson, Marci McGuire, Coulton Bunney                   |  We will bring engineering and design in earlier than we did with secure messaging                       |  rapid technical feedback will be more important in this application. |
 | 09/22/2022 | Lauren Alexanderson, Marci McGuire, Coulton Bunney      | We will likely start with immunizations first in the Medical Records app.| Should be straightforward compared to other sections        |
 
 
-## Functional (How it works)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |    1/12/23  |         Patty Henry          |             Update: We will NOT be moving forward with directly sharing medical records via MHV or VA.gov per the conversation with Patty Henry in today's Jira Backlog Grooming meeting for the following reasons:| Because users own this information, they are free to download/print their records to send to anyone they choose, using their own delivery methods. The Legacy feature, "Send My VA Health Summary" was a pilot feature that has been decommissioned. This feature is owned by Veterans Health Information Exchange (VHIE) program, not MHV.|
