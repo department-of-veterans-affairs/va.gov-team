@@ -179,6 +179,5 @@ Sessions will be limited to no more than 5 people, including 1 participant, 1 mo
 ## Approved by
 
 - Becky Phung, PO on January 30, 2025
-- Shane Strassberg, VA Research Ops on [Date]
-
+- Shane Strassberg, VA Research Ops on February 5, 2025
 
