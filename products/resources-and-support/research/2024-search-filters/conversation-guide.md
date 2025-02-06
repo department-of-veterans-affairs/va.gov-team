@@ -321,7 +321,7 @@ Let's say that you're thinking about looking for a different kind of job, and yo
 
 [Once they open the content page and think it's what they were looking for, say:] You can stop here. 
 
-- [Found target *(GI Bill, Compare VA education benefits, or Career resources)*? successful / needed help / unsuccessful]
+- [Found target *(GI Bill / Compare VA education benefits / Career resources / O**NET Interest Profiler)*? successful / needed help / unsuccessful]
 
 
 ## Post-Task Interview - 7 minutes
