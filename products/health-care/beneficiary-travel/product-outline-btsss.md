@@ -4,7 +4,7 @@
 
 ## Overview
 
-VA aims to improve the tooling and accessibility of the beneficiary travel system and experience. As part of our mission to improve Veteran access to care, the existing claim submission systems needs to be integrated more intentionally with VA.gov in order to make it easier for Veterans to find and use this benefit.
+VA aims to improve the tooling and accessibility of the beneficiary travel system and experience. As part of our mission to improve Veteran access to care, the existing claim submission systems needs to be integrated more intentionally with VA.gov and VA Health and Benefits mobile application in order to make it easier for Veterans to find and use this benefit.
 
 ## Problem Statement
 
