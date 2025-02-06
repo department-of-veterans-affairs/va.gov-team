@@ -7,7 +7,7 @@
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
 |Phase 1: Staging testing |2 days|TBD| May 19, 2025 - June 13, 2025 |
-|Phase 2D: 100% of users| indefinite | 100% users (auth and non-auth) |TBD|
+|Phase 2D: 100% of users| indefinite | 100% users (auth and non-auth) |July 17, 2025|
 |Phase 3: Retire V1| permanent | 100% users (auth and non-auth) | TBD |
 
 Considerations
@@ -38,38 +38,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 ## Step 3: Production rollout
 
-### Do I need a staged rollout?
-
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-- This change does not add substantial new functionality to VA.gov
-- This change does not impact user flows through tasks
-- This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
 #### Exceptions
 
-Currently, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
-
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
-
-DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 ### Define the Rollback process
 
@@ -79,10 +49,10 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
+- Desired date range or test duration: [May 19, 2025 - June 13, 2025]
 - Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
+- How you'll recruit the right production test users: [NA]
+- How you'll conduct the testing: [E2E test from va.gov to end system CaMEO]
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
 
 #### Results
