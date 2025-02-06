@@ -1,17 +1,17 @@
 > [!CAUTION]
-> **WIP**: Last udpated: Aug. 14, 2024 (see commit comments for details)
+> **WIP**: Last udpated: Februrary 6, 2025 (see commit comments for details)
 
-# How CAIA audits for accessibility
+# How the Accessibility Digital Experience (ADE) team audits for accessibility
 
-If you're a new accessibility specialist supporting VA.gov or on one of the product teams supported by one of those specialists, or an [A11Y Champ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community-aka-a11y-champs), you might wonder how CAIA's (Content, Accessibility and Information Architecture) team of accessibility specialists audits experiences for accessibility. 
+If you're a new accessibility specialist supporting VA.gov or on one of the product teams supported by one of those specialists, or an [Accessibility Champ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community-aka-a11y-champs), you might wonder how ADE's team of accessibility specialists audits experiences for accessibility. 
 
 **We'll go into that plus:**
-- [What's an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2024.md#whats-an-audit)
-- [When does an audit happen?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2024.md#when-does-it-happen)
-- [What are the outcomes of an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2024.md#what-are-the-outcomes)
-- [How long does an audit take?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2024.md#how-long-does-it-take)
-- [What is tested during an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2024.md#whats-tested)
-- [How to get started with an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2024.md#how-do-we-start-one-and-whats-the-process)
+- [What's an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2025.md#whats-an-audit)
+- [When does an audit happen?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2025.md#when-does-it-happen)
+- [What are the outcomes of an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2025.md#what-are-the-outcomes)
+- [How long does an audit take?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2025.md#how-long-does-it-take)
+- [What is tested during an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2025.md#whats-tested)
+- [How to get started with an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2025.md#how-do-we-start-one-and-whats-the-process)
    
 ## What's an audit?
 
@@ -22,9 +22,9 @@ An accessibility audit can be a prototype review or a design and code review of 
 - [Accessibility Best Practices](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-on-va-gov#AccessibilityonVA.gov-Applyaccessibilitybestpractices.1)
 - [Section 508 ICT Testing Baseline](https://ictbaseline.access-board.gov)
 
-### What's the difference between an audit from CAIA, accessibility feedback from the Governance team, and Section 508 testing?
-- CAIA and the Governance team audit products to ensure **usability** by people of all abilities. The focus is on the overall experience, not legal compliance.
-   - Contact CAIA at the start of the Collaboration Cycle. We'll review your product before your major touchpoints with the Governance team.
+### What's the difference between an audit from ADE, accessibility feedback from the Governance team, and Section 508 testing?
+- ADE and the Governance team audit products to ensure **usability** by people of all abilities. The focus is on the overall experience, not legal compliance.
+   - Contact ADE at the start of the Collaboration Cycle. We'll review your product before your major touchpoints with the Governance team.
    - Governance will review your product at Midpoint and Staging Review. They'll provide accessibility feedback and create defect tickets for you to correct issues. 
 - The Section 508 office audits products for **compliance** with Section 508 standards and policies. The focus is legal compliance. If anything doesn't meet compliance standards, they'll send you a report of issues to fix.
 
@@ -121,10 +121,10 @@ We generally rely on [WebAIM's recommended pairings](https://webaim.org/techniqu
 
 ## How do we start one and what's the process?
 
-The best way to engage with CAIA is early! The earlier in a project that we can get involved, the better. If you have work coming down the line that you would like input on, let us know. 
-- The best way to engage with us is to summon us into whatever slack channel you use to do the bulk of your work. Use @sitewide-caia-accessibility in Slack to ping all CAIA accessibility specialists, and we'll get the conversation started.
-- You can also reach out to CAIA through our #sitewide-content-accessibility-ia Slack channel
-- [We recommend starting with a CAIA Intake Ticket.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2CNaomiPMC&labels=sitewide+CAIA&projects=&template=sitewide-CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E) From there we’ll connect your team with one or more practice area specialists, who can provide the input that your team is requesting.
+The best way to engage with ADE is early! The earlier in a project that we can get involved, the better. If you have work coming down the line that you would like input on, let us know. 
+- The best way to engage with us is to summon us into whatever slack channel you use to do the bulk of your work. Use @accessibility-de in Slack to ping all ADE accessibility specialists, and we'll get the conversation started.
+- You can also reach out to ADE through the #accessibility-help Slack channel
+- [We recommend starting with a ADE Intake Ticket.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md) From there we’ll connect your team with one or more practice area specialists, who can provide the input that your team is requesting.
 
 ## About this Documentation 
 **Primary Source:** The framework of information used in this documentation was [taken from the previously-sunset VA Shared Support Team's version of "How We Audit" version Sept. 21, 2022.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/how-we-audit.md) 
