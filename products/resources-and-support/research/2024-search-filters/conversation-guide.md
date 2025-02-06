@@ -147,7 +147,7 @@ Imagine that a few weeks ago you submitted a request to have your VA benefit app
 
 - [Any confusion with *Claims and claim status*?]
 
-- [**If they try to use *search***, ask:] What are you trying to do? 
+- [If they try to use **search**, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
   - [If their search string seems surprising to you, probe so you understand what they're looking for] 
@@ -174,7 +174,7 @@ Now imagine that you currently receive health care through the VA. You've heard 
 
 [Record navigation path: *Header / Search / Show filters / Featured / Common topics > Community care / Browse by benefit*]
 
-- [**If they try to use *search***, ask:] What are you trying to do? 
+- [If they try to use **search**, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
   - [If their search string seems surprising to you, probe so you understand what they're looking for] 
@@ -204,7 +204,7 @@ Let's assume that you just visited a VA medical center for an appointment, and y
 
 [Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
-- [**If they try to use *search***, ask:] What are you trying to do? 
+- [If they try to use **search**, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
   - [If their search string seems surprising to you, probe so you understand what they're looking for] 
@@ -231,7 +231,7 @@ Please go back to the first page you were on [landing pg via breadcrumb or anoth
 
 [Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
-- [**If they try to use *search***, ask:] What are you trying to do? 
+- [If they try to use **search**, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
   - [If their search string seems surprising to you, probe so you understand what they're looking for] 
@@ -258,7 +258,7 @@ Let's say that you want to refill a prescription but you're having some difficul
 
 [Record navigation path: *Header / Search / Show filters / Featured: Signing in to VA.gov / Common topics / Browse by benefit*]
 
-- [**If they try to use *search***, ask:] What are you trying to do? 
+- [If they try to use **search**, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
   - [If their search string seems surprising to you, probe so you understand what they're looking for] 
@@ -281,7 +281,7 @@ Let's say that you're wondering whether you owe the VA any money. Show me how yo
 
 [Record navigation path: *Header / Search / Show filters / Featured / Common topics > Payments and debt / Browse by benefit*]
 
-- [**If they try to use *search***, ask:] What are you trying to do? 
+- [If they try to use **search**, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
   - [If their search string seems surprising to you, probe so you understand what they're looking for] 
@@ -307,7 +307,7 @@ Let's say that you're thinking about looking for a different kind of job, and yo
 
 [Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit > Careers & employment / Educ & training*]
 
-- [**If they try to use *search***, ask:] What are you trying to do? 
+- [If they try to use **search**, ask:] What are you trying to do? 
   - [If they say "type into the search box", ask:] You can't type anything into this prototype. What did you want to type?
   - [Record search string: ______________________________________________]
   - [If their search string seems surprising to you, probe so you understand what they're looking for] 
