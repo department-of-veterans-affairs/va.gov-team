@@ -91,7 +91,8 @@ Our target audience are 4 Veterans (with expectations of speaking to 3) who are 
 
 **Requesting a kick-off call**
 
-- 02/12/2025 anytime 130 - 4 PM EST
+- 02/12/2025 anytime 9 - 11 AM, or 1 - 2 PM EST
+
 
 **Participant criteria**
 
