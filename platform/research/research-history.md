@@ -1137,7 +1137,7 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### October 8-12: Health Care Application Duplicate Research
 *Not Affiliated With a Team, Research lead: Samara Strauss*
 - 7 Veterans who have submitted multiple applications for health care on Vets.gov
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2018-10)
 
 #### October 8-10: 526 Application
 *Unicorns Team, Research Lead: Alex Taylor*
