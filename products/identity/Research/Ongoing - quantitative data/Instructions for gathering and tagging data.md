@@ -1,4 +1,4 @@
-# Instructions for gathering and tagging data
+# Instructions for gathering and process for tagging data
 
 ## Base setup  
   * Medallia A11 questions are via intercept (ie popup)  
