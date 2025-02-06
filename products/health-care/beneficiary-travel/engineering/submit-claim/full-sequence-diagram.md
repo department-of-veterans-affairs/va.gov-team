@@ -1,38 +1,26 @@
-# Claim Status
+# Status
 
 `/my-health/travel-pay/claims`
 
 ```mermaid
 sequenceDiagram
     actor user as User
-    participant appts as Travel Pay Front-end
-    participant vaos as VAOS: vets-api
+    participant tp as Travel Pay Front-end
     participant tpm  as Travel Pay Backend: vets-api
-    participant tpapi as Travel Pay API
 
-    user ->> appts: /my-health/travel-pay/claims
-    appts ->> vaos: GET /vaos/v2/appointments
-
-    alt include[:travel_pay_claims] && Flipper.enabled(view_claim_details)
-      activate vaos
-        vaos ->>+ tpm: associate_many_claims(appts)
-        tpm ->>+ tpapi: GET /api/v1.2/claims/search-by-appointment-date?{start,end}
-        tpapi -->>- tpm: [claims]
-
-        activate tpm
-          tpm ->> tpm: Associate claim & metadata with appointment
-        deactivate tpm
-
-        tpm -->>- vaos: [appointments w/ claims]
-        vaos -->> appts: [appointments w/ claims]
-      deactivate vaos
-    else !include[:travel_pay_claims] || !Flipper.enabled(view_claim_details)
-      activate vaos
-        vaos -->> appts: [appointments]
-      deactivate vaos
+    user->>tp: /my-health/travel-pay/claims
+    tp->>tpm: GET /claims
+    activate tpm
+    tpm->>tp: [claim]
+    deactivate tpm
+    tp->>user: [claim]
+    alt No claims
+        tpm->>tp: []
+        tp->>user: "No travel claims to show."
+    else Error
+        tpm->>tp: Error
+        tp->>user: Show error alert
     end
-
-    appts ->> user: List of claims
 ```
 
 # Claim Details
@@ -44,21 +32,13 @@ sequenceDiagram
     actor user as User
     participant tp as Travel Pay Front-end
     participant tpm  as Travel Pay Backend: vets-api
-    participant vaos as VAOS: vets-api
 
     user->>tp: /my-health/travel-pay/claims/:id
-
     tp->>tpm: GET /claims/:id
     activate tpm
-
-    tpm ->> vaos: GET /vaos/v2/appointments/appt-id
-    activate vaos
-    vaos-->>tpm: {claim details}
-    deactivate vaos
-
-    tpm-->>tp: {claim details}
+    tpm->>tp: {claim details}
     deactivate tpm
-    tp-->>user: {claim details}
+    tp->>user: {claim details}
 ```
 
 # Simple Mileage-only Claim
