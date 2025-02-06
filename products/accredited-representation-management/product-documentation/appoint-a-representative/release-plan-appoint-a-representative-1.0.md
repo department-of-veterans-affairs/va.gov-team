@@ -1,4 +1,4 @@
-# Release Plan: Appoint a Representative 2.0 (digital submission pilot)
+# Release Plan: Appoint a Representative 1.0 (MVP)
 
 
 ### Development
