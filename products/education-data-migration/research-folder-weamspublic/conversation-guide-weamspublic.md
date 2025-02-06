@@ -192,7 +192,7 @@ Add a staging link here
 2. Did the results give you what you're looking for?
 3. If the user encountered an error message, ASK: did you find the error message to be helpful? If no, what would you like it to say instead?
 4. If the user did not encounter an error message, ask them reset search and type in "event planning"
-      5. Did you find the error message to be helpful? If no, what would you like it to say instead?
+     a. Did you find the error message to be helpful? If no, what would you like it to say instead?
 6. Did you refer to the abbreviations at any point?
 7. Do you find these abbreviaitions to be useful?
 8. On a scale of 1-5, 1 being easy and 5 being difficult, how was your experience navigating to another program type?
