@@ -11,7 +11,7 @@
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers and post there:
      - Post p# and brief summary of participant demographic info
      - @mention team members
-     - Mural link for notetaking
+     - Share Mural link for notetaking: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738793109607/9003012168cc00d3673c9babe90d7435ece613cf 
      - Send out [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
      - Mute your Slack notifications
 
