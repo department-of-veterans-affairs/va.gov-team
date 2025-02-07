@@ -1,9 +1,12 @@
 > [!CAUTION]
 > ## Team Transition In Progress
-> **1/31/2025:** CEDAR's CAIA contract has concluded and the new SPRUCE contract has begun for Accessibility Digital Experience.
-> - Accessibility DE is OCTO’s new accessibility team (all the same faces, and a few new ones!).
-> - We’re currently working on a new intake process for accessibility, a new channel, tags, updates to GitHub and more.
-> - If you need accessibility support, during this time of transition, please contact the Accessibility DE team on [#accessibility-help channel](https://dsva.slack.com/archives/C8E985R32).
+> **2/7/2025:** CEDAR's CAIA contract has concluded and the new SPRUCE contract has begun for Accessibility Digital Experience (pronounced /ād/).
+> - Accessibility DE is OCTO’s new accessibility team (all the same faces, plus a few new ones!).
+> - We’re currently working on onboarding new team members, and refining our processes.
+> - If you need accessibility support, during this time of transition, please contact the Accessibility DE team on:
+>     - [#accessibility-help channel](https://dsva.slack.com/archives/C8E985R32)
+>     - Be sure to tag us with our handle `@accessibility-de`
+> - [Read more about us, in our Feb. 6, 2025 announcement.](https://dsva.slack.com/canvas/C8E985R32?focus_section_id=temp:C:SDL8f9032f0740c4defaa0616679)
 
 
 
