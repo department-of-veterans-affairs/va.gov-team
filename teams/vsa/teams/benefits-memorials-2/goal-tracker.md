@@ -17,7 +17,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | QP4 | CSAT / Medallia Work  | [#102194](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102194) | In Progress |  Collaborating with Contact Center Team |   N/A |
 
 ## Sprint Goals - Sprint: 1 [1/24/25 - 2/11/25]  
-| Sprint Goal | QP Goal  | Reason if not complete | Date | End of Sprint Status |
+| Sprint Goal | QP Goal  | Reason if not complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 |UX: Mockup quick reference guide| QPX |--| 2/04/25| Complete |
 |UX: Work with Contact Center to improve Medallia data| QP4 |--|--|--|
@@ -36,7 +36,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] Any Additional details about goals **not** completed will be documented here
 
 ## Sprint Goals - Sprint: 2 [2/12/25-2/25/25] 
-| Sprint Goal | QP Goal  | Reason if not complete | Date | End of Sprint Status |
+| Sprint Goal | QP Goal  | Reason if not complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 | UX: Finalization of wizard content and prototypes | QP1 |--|--|--|
 | UX: Wizard UX research planning approvals | QP1 |--|--|--|
