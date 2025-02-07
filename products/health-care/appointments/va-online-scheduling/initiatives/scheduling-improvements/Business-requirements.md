@@ -70,22 +70,94 @@ For the VPG endpoint check, `relationshipAge`, we are proposing standardizing th
 ### Ideal Outcome:
 Veterans can digitally schedule an appointment with providers with whom they have an established relationship (Veteran had an appointment within the last **36 months** with that provider at that facility or another facility within the same healthcare system). If they do not have an established relationship in the selected care type, they will be sent to submit an **Appointment Request**.
 
-## VA Appointment Requests
+**VA Appointment Requests**
 
-1. As a Veteran, if I don’t have an established relationship in a care type that I need care for (limited to the care types listed above), I need to be able to digitally request an appointment **3 days and up to 390 days** with the VA in that care type.
+### 1. Veteran Appointment Requests
+As a Veteran, if I don’t have an established relationship in a care type that I need (limited to the care types listed above), I need to be able to digitally request an appointment from 3 days up to 390 days in advance with the VA in that care type.
 
-## Appointment Cancellation
+#### a. Veteran Selections in an Appointment Request:
+   1. Type of care that a Veteran needs
+   2. Preferred Facility Information:
+      - Facility name, address, and phone number
+   3. Up to three preferred dates and timeframes (AM/PM) for an appointment (Veterans must select at least one)
+   4. Preferred Modality (in-person, phone, video)
+   5. Veteran contact information (how to contact - phone/email - and preferred contact information)
+   6. Reason for appointment
 
-1. As a Veteran, I need to cancel appointments that I have at the VA.
-   - Veterans are allowed to **digitally cancel appointments up until the day before the appointment date**.
-   - **Initial launch:** Veterans will only be able to cancel **in-person, phone, and video** appointments.
+### 2. Viewing Appointment Requests
+As a Veteran, I need the ability to view submitted appointment requests, including all the information I selected in the above fields.
 
-## Appointment Rescheduling
+### 3. Cancelling Pending Appointment Requests
+As a Veteran, I need the ability to cancel pending appointment requests.
 
-1. As a Veteran, I need the ability to reschedule my VA appointments.
-   - Functionality would allow a Veteran to reschedule an appointment by keeping certain attributes (**location, type of care, provider, etc.**) while changing others (**time, date, appointment modality, etc.**).
+### 4. VA Staff Access to Appointment Requests
+As a VA staff member, I need the ability to see all Veteran-entered appointment requests and the data provided in the request in Revenue Cycle within a known Future Request Queue.
 
-## Oracle Health Testing and Connection Support
+#### a. Future Request Queues:
+   - Each color PACT team already has a future request queue
+   - Each specialty has a future request queue
+     1. **Ideal Scenario:** Veteran appointment requests go into already available queues (limitations may apply based on VA.gov team access)
+     2. **Alternative Option:** A generic Future Veteran Appointment Request queue (e.g., 668 Future Veteran Submitted Appointment Request)
 
-We anticipate needing support in testing all the scenarios listed above (and possible additional ones as they become known).
+### Notes
+- The initial implementation will NOT include the ability to request Community Care Appointments. This is an IVC decision. If this decision changes, Community Care request eligibility and capability should function the same as for VistA sites.
+- Future enhancements could include:
+  - As a Veteran, I need to know that the VA has tried to contact me about this appointment request so I can take action if further information is needed.
+
+---
+
+## **Appointment Cancellation**
+### 1. Veteran Appointment Cancellation
+As a Veteran, I need to cancel appointments that I have at the VA.
+
+#### a. Digital Cancellation Policy:
+   - Veterans can cancel appointments digitally up until the day before the appointment date.
+   - **Initial Launch:** Veterans will only be able to cancel in-person and phone appointments.
+   - **Video Appointments:** The link must be canceled along with the appointment; additional technical work is required to cancel all components.
+   - **CVT Appointments:** Need to cancel all resources; may be postponed until post-launch.
+   - **Pending IVC Decision:** Define business policies regarding any limitations on Veteran self-canceling.
+
+### 2. Non-Cancellable Appointments
+As a Veteran, I need to know if I can’t digitally cancel an appointment and what action I should take to cancel.
+
+#### a. Non-Cancellable Appointments:
+   1. Community Care appointments
+   2. COVID appointments
+   3. Compensation and Pension exam appointments
+   4. Telehealth (VA Video Care) appointments
+   - For these types, the user must contact the facility directly to cancel.
+
+### 3. High-Risk Veteran Cancellations
+As a VA Staff member, I need a new request opened if a Veteran with a high-risk flag cancels an appointment so I can attempt to reschedule it. This requirement should align with Patient Self-Referral and Direct Schedule policies.
+   - Verify if this logic is already in place for OH staff-facing products; enhancements may be needed.
+
+---
+
+## **Appointment Rescheduling**
+### 1. Veteran Appointment Rescheduling
+As a Veteran, I need the ability to reschedule my VA appointments.
+
+#### a. Rescheduling Functionality:
+   - Veterans can reschedule an appointment while maintaining certain attributes (location, type of care, provider, etc.) but changing others (time, date, modality, etc.).
+   - If rescheduling involves canceling and creating a new appointment, it should be seamless for the user.
+   - Veterans should be able to cancel the process and keep their current appointment if no better times are available.
+   - Business policies need to be aligned with IVC.
+   - OH support is required for API connections and data access.
+   - OH support is needed for testing and staging data in B1930.
+
+---
+
+## **Oracle Health Testing and Connection Support**
+We anticipate needing support in testing all scenarios listed above (and possible additional ones). Testing support includes but is not limited to:
+
+- Staging appointment test data for at least two test users in B1930
+- Scheduling appointments in various care types and modalities
+- Confirming that self-scheduled and self-canceled appointments appear correctly in Oracle Health staff applications (Revenue Cycle and Power Chart, if applicable)
+- Ensuring staff actions required due to Veteran transactions occur appropriately:
+  - Appointment requests route to the correct queues for processing.
+  - Certain Veteran-canceled appointments generate a new request for VA staff follow-up.
+  - Staff can easily view Veteran self-scheduled appointments to check if other appointments (e.g., labs, imaging) are needed.
+- Troubleshooting issues in B1930, with APIs, or with OH staff products in test and production environments.
+- Supporting any production site testing of the above scenarios.
+
 
