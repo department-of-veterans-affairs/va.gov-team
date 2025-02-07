@@ -1,7 +1,7 @@
 
 # MyHealtheVet email Appointment Reminder Content Research Research Findings 
 
-** Office of the CTO - Digital Experience (OCTO-DE)
+**Office of the CTO - Digital Experience (OCTO-DE)** 
 
 Date: 02/05/2025
 
