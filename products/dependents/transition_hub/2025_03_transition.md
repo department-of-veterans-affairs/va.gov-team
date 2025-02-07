@@ -131,11 +131,11 @@ This table includes links to the individual feature directory and the latest ite
 |Feature|Completed|
 |-------|---------|
 |Implemented backup submission pathway|Oct 5, 2023|
-|Supported Code Yellow 1 (find and rememdiate failed claims). Started March 2023 and closed Aug 2024.|Aug 24, 2024|
-|Updated VA.gov to submit the Aug 2022 version of the 686c pdf (instead of the Sep 2018 pdf)|Aug 13, 2024|
-|Updated VA.gov to submit the Oct 2021 version of the 674 pdf (instead of the Jun 2019 pdf)|Aug 13, 2024|
-|Implemented “action needed” emails to alert Veterans of a claim failure|Nov 12, 2024|
-|Updated annual net worth value from $155,356 to $159,240. It needs to be manually updated every year by November 30. Ticket to automate update is [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96876).| Dec 2, 2024|
+|Supported [Code Yellow 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20label%3Acode-yellow%20label%3Adependents-benefits) (find and rememdiate failed claims). Started March 2023 and closed Aug 2024.|Aug 24, 2024|
+|[Updated VA.gov to submit the Aug 2022 version of the 686c pdf](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1292?closed=1) (instead of the Sep 2018 pdf)|Aug 13, 2024|
+|[Updated VA.gov to submit the Oct 2021 version of the 674 pdf](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1292?closed=1) (instead of the Jun 2019 pdf)|Aug 13, 2024|
+|[Implemented “action needed” emails to alert Veterans of a claim failure](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1418?closed=1)|Nov 12, 2024|
+|[Updated annual net worth value from $155,356 to $159,240.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96647) It needs to be manually updated every year by November 30. Ticket to automate update is [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96876).| Dec 2, 2024|
 |[Update 686/674 form to v3 components](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/form_updates/Initiative-Brief-686-674-Form-Updates.md)| Mar 2025|
 |User research on dependency verification tool prototype|Feb/Mar 2025| 
 
