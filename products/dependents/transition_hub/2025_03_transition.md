@@ -36,14 +36,15 @@ Make the online dependent experience as easy to complete and cohesive as possibl
 - The long term goal is that Veterans can come to the dependent management area of VA.gov and add/remove their dependents (21-686c), request approval of their school-aged child (21-674), verify their dependents (21-0538), and add their dependent parent (21P-509) all within a single form flow experience. Many of these forms ask for the same information, so there is a lot of opportunity to leverage a single form experience to prefill information and reduce the burden on the Veteran to manage their dependents.
 
 ### Product portfolio
-#### 21-686c Add/Remove Dependent and 21-674 Request Approval of School Attendance
+#### 21-686c Add/Remove Dependent and 21-674 Request Approval of School Attendance Online Form Flow
 - [Staging link](https://staging.va.gov/view-change-dependents/add-remove-form-21-686c-v2/introduction)
 - [Production link](https://www.va.gov/view-change-dependents/add-remove-form-21-686c-v2/introduction)
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/README.md)
 - Product Guide/Contact Center Guide
 
-#### 21-0538 Mandatory Verification of Dependents (paper form)
+#### 21-0538 Mandatory Verification of Dependents Tool
+This tool is in the design stage and the 0538 form currenly only exists as a paper form.
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/README.md)
 - [Initative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md)
 - [Form Flow (proposed)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1716382766670)
