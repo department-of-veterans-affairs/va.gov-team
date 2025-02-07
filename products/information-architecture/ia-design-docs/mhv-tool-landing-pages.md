@@ -49,72 +49,121 @@ Notes:
 
 **1) NEW - MHV on VA.gov portal tool landing page**
   - URL: TBD
-  - Breadcrumb: Va.gov home > [H1 of health care hub page] > [H1 of page]
-      - Example breadcrumb: Va.gov home > Health care > Manage your health with My HealtheVet on VA.gov
-  - Notes: 
+  - Breadcrumb:
+    - Desktop: Va.gov home > [H1 of health care hub page] > [H1 of page]
+      - Example: Va.gov home > Health care > Manage your health with My HealtheVet on VA.gov
+    - Mobile: < [H1 of health care hub page]
+      - Example: < Health care
+  - Notes:
+    - Will have a sign in widget
 
 
 
 ## <a name="nav"></a>Entry points<br>
 
 ### Required entry point(s)
-*These entry points allow visitors to navigate to your feature and must be in place for launch. Provide proof of the implementation of these entry points at staging review.*  
+*These entry points allow visitors to navigate to your new feature and must be in place for launch. Provide proof of the implementation of these entry points at staging review.*  
 
 1. **Add and reorder links on [Health care benefit hub page](https://www.va.gov/health-care/)**
-  - Description:
-    - Add link to the MHV on VA.gov static tool landing page within the "Manage your health and benefits" section of the page, and remove the "View lab and test results" page from section
-    - Placed MHV on VA.gov link as the first option in the list
-    - Order of links in section (final link labels TBD):
-      - *Manage your health with My HealtheVet on VA.gov* (New link - URL TBD) 
-      - Schedule and manage health appointments
-      - Refill and track prescriptions
-      - Get VA medical records online
-      - Use secure message
-      - Get travel pay reimbursement
-      - Order medical supplies
-      - Get a Veteran Health Identification Card (VHIC)
-      - Review and pay copay bill
-      - Update health benefits information
-      - ~View lab and test results~ (Remove link)
-    - Pages within this section of the hub page have been reordered based on 1) the portal landing page first 2) page view of the main 4 portal tools and 3) page views of the remaining health tools 4) page views of any additional pages/crosslinks, with a max of 10 items to appear.
-
-2. **Update links on health care tool landing pages to link to MHV on VA.gov tools**
- - Description:
-   - Update sign in widget so visitor is directed to MHV on VA.gov in place of MHV Classic after signing in.
-   - Pages to update
-     - [Refill and track prescriptions](https://www.va.gov/health-care/refill-track-prescriptions)
-     - [Get VA medical records online](https://www.va.gov/health-care/get-medical-records)
-     - [Use secure message](https://www.va.gov/health-care/secure-messaging)
+    - ADD LINK: 
+      - Add link to the MHV on VA.gov static tool landing page within the "Manage your health and benefits" section of the page, and remove the "View lab and test results" page from section
+    - PLACEMENT:
+      - Placed MHV on VA.gov link as the first option in the list
+      - Order of links in section (final link labels TBD):
+        - *Manage your health with My HealtheVet on VA.gov* (New link - URL TBD) 
+        - Schedule and manage health appointments
+        - Refill and track prescriptions
+        - Get VA medical records online
+        - Use secure message
+        - Get travel pay reimbursement
+        - Order medical supplies
+        - Get a Veteran Health Identification Card (VHIC)
+        - Review and pay copay bill
+        - Update health benefits information
+        - ~View lab and test results~ (Remove link)
+    - NOTES:
+      - Pages within this section of the hub page have been reordered based on 1) the portal landing page first 2) page view of the main 4 portal tools and 3) page views of the remaining health tools 4) page views of any additional pages/crosslinks, with a max of 10 items to appear.
 
 
 ### Additional key entry points
 _Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
 
 1. **Health care benefit left nav**
-  - Description: 
-    - Add link to the MHV on VA.gov static tool landing page within the "Manage your health and benefits" section of the page, and remove the "View lab and test results" page from section
-    - Placed MHV on VA.gov link as the first option in the list
-    -  Order of links in section (final link labels TBD):
-      - *Manage your health with My HealtheVet on VA.gov* (New link - URL TBD) 
-      - Schedule and manage health appointments
-      - Refill and track prescriptions
-      - Get VA medical records online
-      - Use secure message
-      - Get travel pay reimbursement
-      - Order medical supplies
-      - Get a Veteran Health Identification Card (VHIC)
-      - Review and pay copay bill
-      - Update health benefits information
-      - COVID-19 vaccines at VA
-      - Request a decision review or clinical appeal
-      - ~View lab and test results~ (Remove link)
-    - Pages within this section of the hub page have been reordered based on 1) the portal landing page first 2) page view of the main 4 portal tools and 3) page views of the remaining health tools 4) page views of any additional pages/crosslinks, with a max of 10 items to appear.
+    - ADD LINK: 
+      - Add link to the MHV on VA.gov static tool landing page within the "Manage your health and benefits" section of the page, and remove the "View lab and test results" page from section
+    - PLACEMENT:
+      - Place MHV on VA.gov link as the first option in the list
+      -  Order of links in section (final link labels TBD):
+        - *Manage your health with My HealtheVet on VA.gov* (New link - URL TBD) 
+        - Schedule and manage health appointments
+        - Refill and track prescriptions
+        - Get VA medical records online
+        - Use secure message
+        - Get travel pay reimbursement
+        - Order medical supplies
+        - Get a Veteran Health Identification Card (VHIC)
+        - Review and pay copay bill
+        - Update health benefits information
+        - COVID-19 vaccines at VA
+        - Request a decision review or clinical appeal
+        - ~View lab and test results~ (Remove link)
+    - NOTES:
+      - Pages within this section of the hub page have been reordered based on 1) the portal landing page first 2) page view of the main 4 portal tools and 3) page views of the remaining health tools 4) page views of any additional pages/crosslinks, with a max of 10 items to appear.
 
-2. **Header**
-   - Description
-     - Add the "My Healthevet" link to the unauthenticated view of the header
+
+2. **Update links on health care tool landing pages to link to MHV on VA.gov tools**
+    - UPDATE LINK:
+      - Update sign in widget so visitor is directed to MHV on VA.gov in place of MHV Classic after signing in.
+    - PLACEMENT
+      - Pages to update
+        - [Refill and track prescriptions](https://www.va.gov/health-care/refill-track-prescriptions)
+        - [Get VA medical records online](https://www.va.gov/health-care/get-medical-records)
+        - [Use secure message](https://www.va.gov/health-care/secure-messaging)
+    - NOTES:
+
+
+3. **Header**
+    - ADD LINK:
+      - Add the "My Healthevet" link to the desktop version of the unauthenticated view of the header and the injected header.
+    - PLACEMENT:
+      - Right justified on primary nav row, same position as it is in auth header 
+    - NOTES:
+      - The option will link to the [Manage your health with My HealtheVet on VA.gov](www.va.gov/health-care/tbd) static tool landing page in the health care benefit hub.
+      - The link in the authenticated header will not change, that will continue to link directly to the [MHV on VA.gov portal landing page](www.va.gov/my-health)
+
 4. **Primary navigation**
+    - ADD/REMOVE/MODIFY LINKS:
+      - Modify list of links under the "Manage your health" column
+    - PLACEMENT/ORDER:
+      - Order of links 
+        - Schedule and manage health appointments
+        - Refill and track prescriptions
+        - _Get VA medical records online_ (New link - https://www.va.gov/health-care/get-medical-records)
+        - Use secure message
+        - _Get travel pay reimbursement_ (New link - https://www.va.gov/health-care/get-reimbursed-for-travel-pay)
+        - ~View lab and test results~ (Remove link)
+        - ~Order medical supplies~ (Remove link)
+
 5. **Homepage "Top pages" section**
+    - ADD/REMOVE/MODIFY LINKS:
+      - Modify list of links under the "Top pages section" on the home page
+    - PLACEMENT/ORDER:
+      - Order of links in left column 
+        - _Download VA benefit letters_ (New link - https://www.va.gov/records/download-va-letters)
+        - Get travel pay reimbursement
+        - Check claim, decision review, or appeal status
+        - Schedule and manage health appointments
+        - _View your disability rating_ (New link - https://www.va.gov/disability/view-disability-rating)
+      - Order of links in right column
+        - _Manage your health with My HealtheVet on VA.gov_ (New link - TBD)
+        - View your VA payment history
+        - _Check remaining GI Bill benefits_ (New link - https://www.va.gov/education/check-remaining-post-9-11-gi-bill-benefits)
+        - Review or update dependents
+        - _Review and manage VA debt_ (New link - https://www.va.gov/manage-va-debt/)
+        - ~Compare GI Bill schools~ (Remove link)
+        - ~Get mental health care~ (Remove link)
+        - ~Get VA medical records online~ (Remove link)
+
 
 ##  <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience.* 
