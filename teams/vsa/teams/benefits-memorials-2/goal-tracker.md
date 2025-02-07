@@ -19,10 +19,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 1 [1/24/25 - 2/11/25]  
 | Sprint Goal | QP Goal  | Reason if not complete | Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Mockup quick reference guide| QPX |--| 02/XX/25| Complete |
+|UX: Mockup quick reference guide| QPX |--| 2/04/25| Complete |
 |UX: Work with Contact Center to improve Medallia data| QP4 |--|--|--|
 |UX: Complete the Feb Medallia Report| QP4 |--|--|--|
-|ENG: The Digital Dispute process is live on staging| QPX |--| 02/04/25 | Complete |
+|ENG: The Digital Dispute process is live on staging| QPX |--| 2/04/25 | Complete |
 |ENG: SharePoint errors have a more descriptive notification and are reported to ENG for analysis| QPX |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
@@ -35,7 +35,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
-## Sprint Goals - Sprint: 2 [ 2/12/25-2/25/25] 
+## Sprint Goals - Sprint: 2 [2/12/25-2/25/25] 
 | Sprint Goal | QP Goal  | Reason if not complete | Date | End of Sprint Status |
 |--|--|--|--|--|
 | UX: Finalization of wizard content and prototypes | QP1 |--|--|--|
