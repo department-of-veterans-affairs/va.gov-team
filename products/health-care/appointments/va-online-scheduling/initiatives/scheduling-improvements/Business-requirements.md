@@ -19,7 +19,6 @@ When self-scheduling, patients must have seen that provider within a certain amo
 ### Proposal:
 For the VPG endpoint check, `relationshipAge`, we are proposing standardizing the number of months and removing the ability for individual facilities to enter a timeframe. Standardizing the amount of time permitted since the patient has last seen the provider will decrease the loading time by removing the facility configuration check.
 
-Here’s your table with the second column left blank:  
 
 | Care Type | relationshipAge |
 |-----------|-----------------------------|
@@ -35,7 +34,7 @@ Here’s your table with the second column left blank:
 | **Sleep Medicine - Home Sleep Testing** |  |
 | **Social Work** |  |  
 
-Let me know if you need any formatting changes!
+
 
 ## Self-Scheduling Requirements
 
