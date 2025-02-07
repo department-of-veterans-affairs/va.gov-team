@@ -12,14 +12,11 @@ Create a high-quality accessible service or suite of services within VA.gov to s
 [Link to team folder.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management)
 
 
-### **2024 OCTO Priorities**
+### **2025 OCTO Priorities**
 
-**Objective 1:** Our digital experiences are the best way to access VA health care and benefits.
+**Objective 1:** VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 
-- **Key Result 2:** Number of transactions processed using our products have increased by 25%.
-- **Key Result 4:** No transactions accepted by our products have a fatal error.
-
-[2024 OCTO Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md)
+[2025 OCTO Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md#octo-de-priorities-2025)
 
 
 ### **Veteran Journey**
