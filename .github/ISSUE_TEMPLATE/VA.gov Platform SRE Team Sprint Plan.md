@@ -1,5 +1,5 @@
 ---
-name: SRE Team Sprint Plan
+name: VA.gov Platform SRE Team Sprint Plan
 about: Use this template for creating sprint plans.
 title: "SRE Team Sprint [XX] Plan"
 labels: 
