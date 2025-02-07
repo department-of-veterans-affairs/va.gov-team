@@ -1,19 +1,27 @@
 # Status
 
-`/my-health/travel-pay/claims`
+## Visiting `/my-health/travel-pay/claims`
 
 ```mermaid
 sequenceDiagram
     actor user as User
     participant tp as Travel Pay Front-end
     participant tpm  as Travel Pay Backend: vets-api
+    participant tpapi as Travel Pay API
 
     user->>tp: /my-health/travel-pay/claims
+
     tp->>tpm: GET /claims
     activate tpm
-    tpm->>tp: [claim]
+        tpm->>tpapi: GET /api/v1.2/claims
+        activate tpapi
+            tpapi-->>tpm: [claim]
+        deactivate tpapi
+
+        tpm-->>tp: [claim]
     deactivate tpm
-    tp->>user: [claim]
+
+    tp-->>user: [claim]
     alt No claims
         tpm->>tp: []
         tp->>user: "No travel claims to show."
@@ -25,25 +33,85 @@ sequenceDiagram
 
 # Claim Details
 
-`/my-health/travel-pay/claims/{id}`
+## Visiting `/my-health/travel-pay/claims/{id}` directly
 
 ```mermaid
 sequenceDiagram
     actor user as User
     participant tp as Travel Pay Front-end
     participant tpm  as Travel Pay Backend: vets-api
+    participant tpapi as Travel Pay API
 
-    user->>tp: /my-health/travel-pay/claims/:id
-    tp->>tpm: GET /claims/:id
+    user->>tp: /my-health/travel-pay/claims/{id}
+
+    tp->>tpm: GET /claims/{id}
     activate tpm
-    tpm->>tp: {claim details}
+        tpm->>tpapi: GET /api/v1.2/claims
+        activate tpapi
+            tpapi-->>tpm: {claim details}
+        deactivate tpapi
+        tpm-->>tp: {claim details}
     deactivate tpm
-    tp->>user: {claim details}
+
+    tp-->>user: {claim details}
+```
+
+## Claim details entry from apppointments
+
+```mermaid
+sequenceDiagram
+    actor user as User
+    participant appts as Appointments Front-end
+    participant tp as Travel Pay Front-end
+    participant vaos as VAOS: vets-api
+    participant tpm  as Travel Pay Backend: vets-api
+    participant tpapi as Travel Pay API
+
+    user->>appts: /my-health/appointments/past
+    appts ->> vaos: GET /vaos/v2/appointments
+
+    alt include[:travel_pay_claims] && Flipper.enabled(view_claim_details)
+      activate vaos
+        vaos ->>+ tpm: associate_many_claims(appts)
+        tpm ->>+ tpapi: GET /api/v1.2/claims/search-by-appointment-date?{start,end}
+        tpapi ->>- tpm: [claims]
+
+        activate tpm
+          tpm ->> tpm: Associate claim & metadata with appointment
+        deactivate tpm
+
+        tpm -->>- vaos: [appointments w/ claims]
+        vaos -->> appts: [appointments w/ claims]
+      deactivate vaos
+    else !include[:travel_pay_claims] || !Flipper.enabled(view_claim_details)
+      activate vaos
+        vaos -->> appts: [appointments]
+      deactivate vaos
+    end
+    appts-->>user: Appointments list
+    user->>appts: Select appointment
+    alt appointment has claim && Flipper.enabled(view_claim_details)
+        appts-->>user: Appointment w/ claim details link
+        user->>tp: /my-health/travel-pay/claims/{id}
+
+        tp->>tpm: GET /claims/{id}
+        activate tpm
+            tpm->>tpapi: GET /api/v1.2/claims
+            activate tpapi
+                tpapi-->>tpm: {claim details}
+            deactivate tpapi
+            tpm-->>tp: {claim details}
+        deactivate tpm
+
+        tp-->>user: {claim details}
+    else !(appointment has claim) || !Flipper.enabled(view_claim_details)
+        appts-->>user: Appointment
+    end
 ```
 
 # Simple Mileage-only Claim
 
-`/my-health/travel-pay/file-new-claim/{id}`
+## Visiting `/my-health/travel-pay/file-new-claim/{id}`
 
 ```mermaid
 sequenceDiagram
@@ -98,4 +166,49 @@ sequenceDiagram
     deactivate tpm
 
     smoc ->> user: Submitted claim summary
+```
+
+## Entry from appointments
+
+```mermaid
+sequenceDiagram
+    actor user as User
+    participant appts as Appointments Front-end
+    participant smoc as Travel Pay Front-end
+    participant vaos as VAOS: vets-api
+    participant tpm  as Travel Pay Backend: vets-api
+    participant tpapi as Travel Pay API
+
+    user->>appts: /my-health/appointments/past
+    appts ->> vaos: GET /vaos/v2/appointments
+
+    alt include[:travel_pay_claims] && Flipper.enabled(view_claim_details)
+      activate vaos
+        vaos ->>+ tpm: associate_many_claims(appts)
+        tpm ->>+ tpapi: GET /api/v1.2/claims/search-by-appointment-date?{start,end}
+        tpapi ->>- tpm: [claims]
+
+        activate tpm
+          tpm ->> tpm: Associate claim & metadata with appointment
+        deactivate tpm
+
+        tpm -->>- vaos: [appointments w/ claims]
+        vaos -->> appts: [appointments w/ claims]
+      deactivate vaos
+    else !include[:travel_pay_claims] || !Flipper.enabled(view_claim_details)
+      activate vaos
+        vaos -->> appts: [appointments]
+      deactivate vaos
+    end
+    appts-->>user: Appointments list
+    user->>appts: Select appointment
+
+    alt appointment has claim && Flipper.enabled(view_claim_details)
+        appts-->>user: Appointment w/ travel reimbursement link
+        user->>smoc: /my-health/travel-pay/file-new-claim/{id}
+
+        Note over user,tpapi: SMOC flow from above
+    else !(appointment has claim) || !Flipper.enabled(view_claim_details)
+        appts-->>user: Appointment
+    end
 ```
