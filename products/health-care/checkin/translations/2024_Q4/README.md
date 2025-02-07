@@ -6,7 +6,8 @@
 
 ### Spanish
 
-### Tagalog
+### Tagalog (received 2/7/2025)
+- [FIL-Q4 2024 - Tagalog_2024-12-19_16-18-11.docx](https://github.com/user-attachments/files/18710802/FIL-Q4.2024.-.Tagalog_2024-12-19_16-18-11.docx)
 
 ## QA Screenshots sent to the State Department on TBD
 
