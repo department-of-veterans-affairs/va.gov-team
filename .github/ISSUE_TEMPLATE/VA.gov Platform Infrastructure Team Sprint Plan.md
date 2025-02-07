@@ -1,3 +1,11 @@
+---
+name: VA.gov Platform Infrastructure Team Sprint Plan
+about: Use this template for creating sprint plans.
+title: "Infrastructure Team Sprint [XX] Plan"
+labels: 
+assignees: 
+---
+
 ### Infrastructure Team 2025 Vision Roadmap
 
 
