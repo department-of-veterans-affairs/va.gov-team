@@ -1,0 +1,161 @@
+# IA Design for MHV on VA.gov - Tool landing pages and entry point visibility work
+**STATUS: In review**
+
+**Team:** MHV on VA.gov Portal / Cartography
+
+**Tickets:** 
+Content and IA intake:  https://github.com/department-of-veterans-affairs/va.gov-team/issues/93081
+
+**Supporting files:**
+Mural: [MHV on VA.gov entry points](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1728071932126/91696c078149ca319e0cf553278f2780db11efe8)
+
+**On this page:**
+- [Navigation flows](#flows)
+- [Page structure](#map)
+- [URLs and breadcrumbs](#url)
+- [Entry points](#nav)
+- [Redirets](#redirects)
+- [Search best bets](#bestbets)
+- [Launch coordination activities](#launch)
+
+
+## <a name="flows"></a>Navigation flows <br>
+*Illustration and/or description of how users will navigate to and flow through the experience for all impacted visitors typies. This helps identify key entry points and findability requirements, user flow scenarios, and content/messaging needs across various scenarios.*
+
+Notes:
+- The Medications and Messaging products both have landing pages in the auth tool.  Those landing pages will be eliminated and all content will be moved to R&S.
+- The only direct/deep links to the MHV on VA.gov portal landing page and tools will be on the Health care benefit hub tool landing pages.  All other links across the site will link to those tool landing pages first to prompt sign in.
+- This work will result in all links to MHV tools on VA.gov pointing at the VA.gov version.
+- This flow does not represent the flows for external deep links (i.e. bookmarks) directly to the portal landing page or the tools. That flow is documented within the sign in/MHV portal routing documentation. This only represents general flows through uanuth content to the portal. 
+
+![image of navigation flow](https://github.com/user-attachments/assets/11facdce-5037-46dd-a4b6-2019351d5aa9)
+ 
+
+## <a name="map"></a>Page structure<br>
+*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
+
+Notes:
+- The "View your VA lab and test results" page will be merged with the "Get your VA medical records" page.
+- A new page for the MHV on VA.gov portal landing page will be added.
+- Pages within this section of the hub will be reordered based on 1) the portal landing page first 2) page view of the main 4 portal tools and 3) page views of the remaining health tools 4) page views of any additional pages/crosslinks. 
+
+![image of sitemap for health care benefit hub](https://github.com/user-attachments/assets/cd0e7333-fcd9-41f4-92fa-a5437972a2c3)
+
+
+
+## <a name="url"></a>Page URLs and breadcrumbs
+*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
+
+
+**1) NEW - MHV on VA.gov portal tool landing page**
+  - URL: TBD
+  - Breadcrumb: Va.gov home > [H1 of health care hub page] > [H1 of page]
+      - Example breadcrumb: Va.gov home > Health care > Manage your health with My HealtheVet on VA.gov
+  - Notes: 
+
+
+
+## <a name="nav"></a>Entry points<br>
+
+### Required entry point(s)
+*These entry points allow visitors to navigate to your feature and must be in place for launch. Provide proof of the implementation of these entry points at staging review.*  
+
+1. **Add and reorder links on [Health care benefit hub page](https://www.va.gov/health-care/)**
+  - Description:
+    - Add link to the MHV on VA.gov static tool landing page within the "Manage your health and benefits" section of the page, and remove the "View lab and test results" page from section
+    - Placed MHV on VA.gov link as the first option in the list
+    - Order of links in section (final link labels TBD):
+      - *Manage your health with My HealtheVet on VA.gov* (New link - URL TBD) 
+      - Schedule and manage health appointments
+      - Refill and track prescriptions
+      - Get VA medical records online
+      - Use secure message
+      - Get travel pay reimbursement
+      - Order medical supplies
+      - Get a Veteran Health Identification Card (VHIC)
+      - Review and pay copay bill
+      - Update health benefits information
+      - ~View lab and test results~ (Remove link)
+    - Pages within this section of the hub page have been reordered based on 1) the portal landing page first 2) page view of the main 4 portal tools and 3) page views of the remaining health tools 4) page views of any additional pages/crosslinks, with a max of 10 items to appear.
+
+2. **Update links on health care tool landing pages to link to MHV on VA.gov tools**
+ - Description:
+   - Update sign in widget so visitor is directed to MHV on VA.gov in place of MHV Classic after signing in.
+   - Pages to update
+     - [Refill and track prescriptions](https://www.va.gov/health-care/refill-track-prescriptions)
+     - [Get VA medical records online](https://www.va.gov/health-care/get-medical-records)
+     - [Use secure message](https://www.va.gov/health-care/secure-messaging)
+
+
+### Additional key entry points
+_Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
+
+1. **Health care benefit left nav**
+  - Description: 
+    - Add link to the MHV on VA.gov static tool landing page within the "Manage your health and benefits" section of the page, and remove the "View lab and test results" page from section
+    - Placed MHV on VA.gov link as the first option in the list
+    -  Order of links in section (final link labels TBD):
+      - *Manage your health with My HealtheVet on VA.gov* (New link - URL TBD) 
+      - Schedule and manage health appointments
+      - Refill and track prescriptions
+      - Get VA medical records online
+      - Use secure message
+      - Get travel pay reimbursement
+      - Order medical supplies
+      - Get a Veteran Health Identification Card (VHIC)
+      - Review and pay copay bill
+      - Update health benefits information
+      - COVID-19 vaccines at VA
+      - Request a decision review or clinical appeal
+      - ~View lab and test results~ (Remove link)
+    - Pages within this section of the hub page have been reordered based on 1) the portal landing page first 2) page view of the main 4 portal tools and 3) page views of the remaining health tools 4) page views of any additional pages/crosslinks, with a max of 10 items to appear.
+
+2. **Header**
+   - Description
+     - Add the "My Healthevet" link to the unauthenticated view of the header
+4. **Primary navigation**
+5. **Homepage "Top pages" section**
+
+##  <a name="redirects"></a>Redirects <br>
+*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience.* 
+
+**For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=redirect-request.md) at least 2 weeks in advance.**  
+
+Current URL | Redirect to | Notes
+--- | --- | ---
+www.va.gov/health-care/view-test-and-lab-results/ | www.va.gov/health-care/get-medical-records/ | Merging pages
+www.va.gov/health-care/covid-19-vaccine/ | TBD R&S page | This may not be done with this work effort
+
+
+## <a name="bestbets"></a>Search best bets
+*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find key content and features that are not ranking search well or competing with similar pages in search results. Existing best bets must be removed or updated when links/URLs change.*
+
+**1. Best bet for [page name]** - 
+- Destination page:
+- Additional keywords:
+
+## <a name="launch"></a>Launch coordination <br>
+*Communication when preparing for launch is critical to ensuring all supporting content, links, and messaging are implemented in a timely manner to ensure a good experience. Missing any of these steps can result in findability challenges, incorrect or misleading information, duplicate content, etc. *
+
+Key task | Responsibility | When to complete | Additional info
+--- | --- | --- | ---
+Communicate date of staging review | | Once scheduled |
+Submit redirect request | | at least 2 weeks prior to implementation | 
+Communicate launch date | | |
+
+
+
+
+### Staged rollout
+*Is the team planning a staged rollout? Roll-outs hidden behind a flipper flag need a static page to place a sign in widget or CTA on. Pages/sections where a sign in widget can't be implemented - find a form pages, within accordions, hub pages*
+
+1. What is the team's staged rollout plan?
+2. Which page will have the widget that controls views?
+3. Does the team need to manage search-engine results during rollout?
+
+
+
+
+<hr>
+<hr>
+
