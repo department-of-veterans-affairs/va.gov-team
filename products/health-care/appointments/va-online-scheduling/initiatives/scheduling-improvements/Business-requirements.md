@@ -19,6 +19,24 @@ When self-scheduling, patients must have seen that provider within a certain amo
 ### Proposal:
 For the VPG endpoint check, `relationshipAge`, we are proposing standardizing the number of months and removing the ability for individual facilities to enter a timeframe. Standardizing the amount of time permitted since the patient has last seen the provider will decrease the loading time by removing the facility configuration check.
 
+Here’s your table with the second column left blank:  
+
+| Care Type | relationshipAge |
+|-----------|-----------------------------|
+| **Primary Care (Primary Care Medicine, Women’s Health, and GeriPACT)** |  |
+| **Outpatient Mental Health** |  |
+| **Amputation Services** |  |
+| **Audiology** |  |
+| **CPAP Clinic** |  |
+| **Food and Nutrition** | 36 months |
+| **MOVE! Program** |  |
+| **Ophthalmology** |  |
+| **Optometry** |  |
+| **Sleep Medicine - Home Sleep Testing** |  |
+| **Social Work** |  |  
+
+Let me know if you need any formatting changes!
+
 ## Self-Scheduling Requirements
 
 1. As a Veteran, I need to be able to digitally self-schedule an in-person, video, and/or telephone appointment with an established provider no earlier than **3 days** and up to **390 days** into the future in the following care types:
@@ -37,7 +55,7 @@ For the VPG endpoint check, `relationshipAge`, we are proposing standardizing th
 | **Sleep Medicine - Home Sleep Testing** | All providers must allow online scheduling |
 | **Social Work** | All providers must allow online scheduling |
 
-### Additional Requirements:
+
 
 - **Priority for initial release** is the ability to self-schedule in-person appointments.
 - To make this function work, developers in the Office of the CTO Appointments team need access to the following data:
