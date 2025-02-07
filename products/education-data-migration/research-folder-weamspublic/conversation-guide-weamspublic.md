@@ -30,7 +30,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [Sneha] and [Jenn] is taking notes.
+Thanks for joining us today! My name is [Sneha] and [Cass] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
 Today we're going to talk about [WEAMS Public information and how it will display within Comparison Tool. My team and I are migrating data from WEAMS Public into a more comprehensive, recognizable tool on VA.gov. With this migration, Veterans will be able to search for licenses, certifications, exams, and programs that are eligible for reimbursement through their VA benefits.]
