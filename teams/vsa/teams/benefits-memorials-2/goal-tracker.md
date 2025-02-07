@@ -16,22 +16,14 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | QP3 | Payment History (VHA)  | [#18859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18859) | TBD |  TBD |  June 2025 or sooner|
 | QP4 | CSAT / Medallia Work  | [#102194](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102194) | In Progress |  Collaborating with Contact Center Team |   N/A |
 
-## Sprint Goals - Sprint 1 [ 1/24/25 - 2/11/25] 
-**_Goals:_** _Check when complete_
-- [X] UX: Mockup quick reference guide (QPX)
-- [ ] UX: Work with Contact Center to improve Medallia data (QP4)  
-- [ ] UX: Complete the Feb Medallia Report (QP4)
-- [ ] ENG: The Digital Dispute process is live on staging (QPX)
-- [ ] ENG: SharePoint errors have a more descriptive notification and are reported to ENG for analysis (QPX)
-
-### Sprint: 1 [ 1/24/25 - 2/11/25]  - Draft Chart Format   
-|Sprint Goal | QP Goal  |Date + Reason for change | End of Sprint Status|
-|--|--|--|--|
-|UX: Mockup quick reference guide|QPX|--|--|
-|UX: Work with Contact Center to improve Medallia data|QP4|--|--|
-|UX: Complete the Feb Medallia Report|QP4|--|--|
-|ENG: The Digital Dispute process is live on staging|QPX| Complete 02/04/25 |--|
-|ENG: SharePoint errors have a more descriptive notification and are reported to ENG for analysis|QPX|--|--|
+## Sprint Goals - Sprint: 1 [1/24/25 - 2/11/25]  
+| Sprint Goal | QP Goal  | Reason if not complete | Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Mockup quick reference guide| QPX |--| 02/XX/25| Complete |
+|UX: Work with Contact Center to improve Medallia data| QP4 |--|--|--|
+|UX: Complete the Feb Medallia Report| QP4 |--|--|--|
+|ENG: The Digital Dispute process is live on staging| QPX |--| 02/04/25 | Complete |
+|ENG: SharePoint errors have a more descriptive notification and are reported to ENG for analysis| QPX |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals
@@ -39,17 +31,19 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA PO approved the Sprint Goals
  - [ ] VA COR approved the Sprint Goals
  
-**_Not Delivered + Notes:_**
-- [ ] Completed goals have been 'checked off' from above list
-- [ ] Details about goals not delivered will be documented here
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
 
-  
-## Sprint Goals - Sprint 2 [ 2/12/25-2/25/25]  
-**_Goals:_** _Check when complete_
-- [ ] UX: Finalization of wizard content and prototypes (QP1)  
-- [ ] UX: Wizard UX research planning approvals (QP1)  
-- [ ] Team: Sprint Goal (QtrPriority)  
-- [ ] Team: Sprint Goal (QtrPriority)  
+## Sprint Goals - Sprint: 2 [ 2/12/25-2/25/25] 
+| Sprint Goal | QP Goal  | Reason if not complete | Date | End of Sprint Status |
+|--|--|--|--|--|
+| UX: Finalization of wizard content and prototypes | QP1 |--|--|--|
+| UX: Wizard UX research planning approvals | QP1 |--|--|--|
+| UX: | QPX |--|--|--|
+| ENG: | QPX |--|--|--|
+| ENG: | QPX |--|--|--|
+| ENG: | QPX |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals
@@ -57,9 +51,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [ ] VA PO approved the Sprint Goals
  - [ ] VA COR approved the Sprint Goals
  
-**_Not Delivered + Notes:_**
-- [ ] Completed goals have been 'checked off' from above list
-- [ ] Details about goals not delivered will be documented here
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
   
 ## Sprint Goals - Sprint 3 [ 2/26/25-3/11/25]  
 **_Goals:_** _Check when complete_
