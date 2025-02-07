@@ -1,11 +1,16 @@
-# IA Design for [Product/page name]
-**STATUS: [In progress/In review/Complete]**
+# IA Design for Foreign Medical Program - Claim form
+**STATUS: IN PROGRESS**
 
 **Team:** [Team name]
 
-**CAIA Intake ticket:**
+**Tickets:**
+- [CAIA intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78275)
+- [Collab cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77082)
 
-**IA Tracker:** 
+**Supporting files:** 
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/product-outline.md)
+- [FMP Figma file](https://www.figma.com/design/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet-(10-7959f-2)?node-id=726-21596&p=f&t=r7uFTzWUW9KtTgTL-0)
+- [FMP Registration and Claims discovery](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705521134491/52690602ad9bb3ef8f9cbc82d48bd9698e63e83f?wid=0-1738792614730) (IA mural)
 
 **On this page:**
 - [Navigation flows](#flows)
@@ -20,24 +25,44 @@
 ## <a name="flows"></a>Navigation flows <br>
 *Illustration and/or description of how users will navigate to and flow through the experience for all impacted visitors typies. This helps identify key entry points and findability requirements, user flow scenarios, and content/messaging needs across various scenarios.*
 
+![image of navigation flow](https://github.com/user-attachments/assets/70ba87dc-ee00-4bfe-a626-02b6dd428477)
+
 
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
+- The FMP claim form is classified as a feature related to using, tracking, or managing your benefits and is therefore placed within the "Manage benefits" spoke
+- An R&S page was originally created to support the FMP claim process with the understanding that there wouldn't be a claim process in the Veteran experience.  With this change, the R&S page will be moved out of R&S and become a new page within the Veteran health care benefit hub to support the online claim form. 
+
+![image of sitemap](https://github.com/user-attachments/assets/f291c4c6-c186-4448-9ccd-c104e055c9df)
 
 ## <a name="url"></a>Page URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
 
 
-**1) Page name - Existing/New**
-- URL:
-- Breadcrumb: 
-- Notes: 
+**1) NEW - File a claim for FMP static page**
+    - DESCRIPTION:
+      - This is a Drupal static unauth content page that will provide general supporting information about the FMP claim form and process
+    - URL: www.va.gov/health-care/file-foreign-medical-program-claim/
+    - BREADCRUMB: 
+      - Desktop: VA.gov home > [Health care hub page H1] > [File a claim for FMP static page H1] 
+        - Example: VA.gov home > Health care > File a claim for the Foreign Medical Program
+      - Mobile: < [Health care hub page H1]
+        - Example: < Health care
+    - NOTES: 
 
-**2) Page name - Existing/New**
-- URL:
-- Breadcrumb: 
-- Notes: 
+**2) NEW - FMP Claim form**
+    - DESCRIPTION:
+      - This is form flow for the FMP claim form 10-7959f-2
+      - The URL provided is the canonical URL for the form, all pages within the form flow will be nested under this URL
+    - URL: www.va.gov/health-care/file-foreign-medical-program-claim/file-claim-form-10-7959f-2/
+    - BREADCRUMB: 
+      - Desktop: VA.gov home > [Health care hub page H1] > [File a claim for FMP static page H1] > [Claim form H1
+        - Example: VA.gov home > Health care > File a claim for the Foreign Medical Program > File a claim with VA Form 10-7959f-2
+      - Mobile: < [Health care hub page H1]
+        - Example: < Health care
+    - NOTES: 
+      - All links on the site should link to the canonical URL of the form not the /introduction page
 
 
 
@@ -47,26 +72,34 @@ Teams must launch with at least one entry point that allows site visitors to nav
 
 ### Required entry point(s)
 
-1. **[Page/placement name]**
-  - Placement description: 
-  - Link details
-    - Link label: 
-    - Link destination: 
-  - Notes:
-    - Who will update (IA, content, product team):
-    - When will this entry point go live (at launch? After staged rollout? after some designated time?):
+1. **[File a claim for FMP static page](www.va.gov/health-care/file-foreign-medical-program-claim/)** (New page)
+   - DESCRIPTION:
+     - This new static page must launch with the FMP claim form, it is the primary access point to the claim form
+     - The link label and placement on the page will be determined by content
+
+2. **Health care benefit hub left nav**
+    - In order to navigate to the new claim form through the claim form static content page, a link must be provided to the static content page.  The primary placement for this link is in the left nav.
+    - PLACEMENT: 
+      - The link option should be placed in the 2nd to last position, just above "Request a decision review or clinical appeal"
+        - If the option for "COVID-19 vaccines at VA" is still in the left nav at the time of this implementation, place this new link above the COVID-19 vaccines option.  The vaccine option will eventually be removed once that content is move to R&S.
+    - LINK DETAILS:
+      - Link label: Match the H1 of the destination page
+      - Link destination: www.va.gov/health-care/file-foreign-medical-program-claim/
+    - NOTES:
+      - The claim form will not appear in the left nav, only the static landing page.  This is the pattern used across the site for tool landing pages - only the landing page appears. 
 
 ### Additional key entry points
 _Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
 
-1. **[Page/placement name]**
-  - Placement description: 
-  - Link details
-    - Link label: 
-    - Link destination: 
-  - Notes:
-    - Who will update (IA, content, product team):
-    - When will this entry point go live (at launch? After staged rollout? after some designated time?):
+1. **[About form 10-7959f-2 page](https://www.va.gov/find-forms/about-form-10-7959f-2/)**
+    - A link to the online form and supporting content should be added to the about form page.
+    - PLACEMENT: Content will place per standard guidance for these pages.
+    - LINK DETAILS:
+      - Link label: Content will determine link label per guidance for these pages.
+      - Link destination: www.va.gov/health-care/file-foreign-medical-program-claim/file-claim-form-10-7959f-2/
+    - NOTES:
+      - Always link to the canonical URL of the form, not the /introduction page.
+
 
 ##  <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience.* 
@@ -75,7 +108,8 @@ _Any additional key locations that the page should be navigable from. Although t
 
 Current URL | Redirect to | Notes
 --- | --- | ---
- |  | 
+www.va.gov/resources/how-to-file-a-va-foreign-medical-program-claim/ | www.va.gov/health-care/file-foreign-medical-program-claim/ | Moving R&S page to benefit hub
+www.va.gov/health-care/foreign-medical-program/file-claim-form-10-7959f-2/ | www.va.gov/health-care/file-foreign-medical-program-claim/file-claim-form-10-7959f-2/ | Correct form URL. Ensure all form child pages are redirected.
 
 
 ## <a name="bestbets"></a>Search best bets
