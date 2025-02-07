@@ -35,6 +35,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
+
+
 ## Sprint Goals - Sprint: 2 [2/12/25-2/25/25] 
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
@@ -54,13 +56,18 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
-  
-## Sprint Goals - Sprint 3 [ 2/26/25-3/11/25]  
-**_Goals:_** _Check when complete_
-- [ ] Team: Sprint Goal (QtrPriority)  
-- [ ] Team: Sprint Goal (QtrPriority)  
-- [ ] Team: Sprint Goal (QtrPriority)  
-- [ ] Team: Sprint Goal (QtrPriority)  
+
+
+
+## Sprint Goals - Sprint: 3 [ 2/26/25-3/11/25] 
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+| UX: | QPX |--|--|--|
+| UX: | QPX |--|--|--|
+| UX: | QPX |--|--|--|
+| ENG: | QPX |--|--|--|
+| ENG: | QPX |--|--|--|
+| ENG: | QPX |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals
@@ -68,24 +75,28 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [ ] VA PO approved the Sprint Goals
  - [ ] VA COR approved the Sprint Goals
  
-**_Not Delivered + Notes:_**
-- [ ] Completed goals have been 'checked off' from above list
-- [ ] Details about goals not delivered will be documented here
-  
-## Sprint Goals - Sprint 4 [3/12/25-3/25/25]  
-**_Goals:_** _Check when complete_
-- [ ] Team: Sprint Goal (QtrPriority)  
-- [ ] Team: Sprint Goal (QtrPriority)  
-- [ ] Team: Sprint Goal (QtrPriority)  
-- [ ] Team: Sprint Goal (QtrPriority)
-  
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
+
+
+
+## Sprint Goals - Sprint: 4 [3/12/25-3/25/25]
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+| UX: | QPX |--|--|--|
+| UX: | QPX |--|--|--|
+| UX: | QPX |--|--|--|
+| ENG: | QPX |--|--|--|
+| ENG: | QPX |--|--|--|
+| ENG: | QPX |--|--|--|
+
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals
  - [ ] VA PO & COR sent the Sprint Goals
  - [ ] VA PO approved the Sprint Goals
  - [ ] VA COR approved the Sprint Goals
  
-**_Not Delivered + Notes:_**
-- [ ] Completed goals have been 'checked off' from above list
-- [ ] Details about goals not delivered will be documented here
-  
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
