@@ -109,7 +109,7 @@ _Any additional key locations that the page should be navigable from. Although t
 Current URL | Redirect to | Notes
 --- | --- | ---
 www.va.gov/resources/how-to-file-a-va-foreign-medical-program-claim/ | www.va.gov/health-care/file-foreign-medical-program-claim/ | Moving R&S page to benefit hub
-www.va.gov/health-care/foreign-medical-program/file-claim-form-10-7959f-2/ | www.va.gov/health-care/file-foreign-medical-program-claim/file-claim-form-10-7959f-2/ | Correct form URL. Ensure all form child pages are redirected.
+www.va.gov/health-care/foreign-medical-program/file-claim-form-10-7959f-2/ | www.va.gov/health-care/file-foreign-medical-program-claim/file-claim-form-10-7959f-2/ | Correct form URL. Ensure all form child pages are redirected. Ensure breadcrumb is properly updated to reflect corrected IA.
 
 
 ## <a name="bestbets"></a>Search best bets
