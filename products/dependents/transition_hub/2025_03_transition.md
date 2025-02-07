@@ -56,7 +56,7 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
    - [Research cohort map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690311086208/96d5f59b299912bc8c69542e6943d5b2213b9c72)
    - [Solution exploration](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689863079145/5b97ba9ea11077f983f3413167f6324f11aa04a8)
 
-### Product artifacts
+### Product artifacts for 686/674
 - Content source of truth
 - [Page/User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1687976281975/2a9c6ca9ea6d955afa7977c777bbb72b15280903?sender=u934f98f179a86c76e6ee9592)
 - [Wireframes and page designs](https://www.figma.com/file/7W55oNwdVXvXOTI9SaFzQ7/686c-Add-or-Remove-Dependents?type=design&node-id=8-9&mode=design&t=kcdjZspxOR8ocdvT-0)
@@ -85,16 +85,16 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
  
 ### Latest Discovery Research
 - [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research)
-- [Dependents Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research/2023-09-dependents-research)
+- [General Dependents Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research/2023-09-dependents-research)
 - [Dependency Verification Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research/2025-02-dependents-verification-mvp-research)
 
 ### Team resources
 - [Team Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1237/views/12?sliceBy%5Bvalue%5D=686%2F674) (GitHub)
-- Sprint Planning
+- Sprint Planning (need to create now/next/later board in GH project)
 - [Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692908527043/0da94b7ded52e8a943d798bcb8ae39697c2fb56f?wid=120-1729780466015) (Mural)
 - Ticketing
    - Team label: dependents-benefits
-   - Product label: 686, 674, dependent-verification (if ticket is specific to one, but not all forms)
+   - Product label: 686, 674, dependent-verification
    - Workstream label: discovery, product, design, or engineering + frontend or backend
 
 ## Roadmap
@@ -145,9 +145,9 @@ This table includes links to the individual feature directory and the latest ite
 - [CAIA Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89314) for dependent card updates
 
 ### Our team 2024/25 roster
+- Delivery Lead: Amy Plange | amy.plange@va.gov/ amy.plange@coforma.io
 - Product manager: Laura Steele | laura.steele1@va.gov / laura.steele@coforma.io
 - Engineering Lead: Matthew Knight | matthew.knight3@va.gov / matt.knight@coforma.io
-- Delivery Lead: Amy Plange | amy.plange@va.gov/ amy.plange@coforma.io
 - UX Design/Research Lead: Ruben Sun | ruben.sun@va.gov / ruben@coforma.io
 - UX Design/Research: Fiorella Geedi | fiorella.GeediCotrina@va.gov / fiorella.geedi@coforma.io
 - UX Design/Research: Ajia Wallace | ajia.wallace@va.gov / ajia.wallace@softrams.com
