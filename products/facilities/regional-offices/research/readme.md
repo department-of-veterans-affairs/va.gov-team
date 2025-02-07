@@ -139,7 +139,7 @@
 ## 4 - Public Contact Team Research
 
 - [Research epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10447)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/VBA-discovery)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2022-9-public-contact)
 
 ### Team
 - Denise Eisner - lead
