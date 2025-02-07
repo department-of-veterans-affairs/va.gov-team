@@ -60,15 +60,15 @@ Let's say that you're thinking about looking for a different kind of job, and yo
 1. Overall, about everything you've seen in this session...What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
-1. [If they didn't use filters at all] Did you see the words with light blue underneath them?
+1. *[If they didn't use filters]* Did you see the words with light blue underneath them?
      1. What do you think they are, and how might you use them?
      1. I don't remember you using them before. Can you tell me more about that? 
      1. Would you like to try them now?
-          1. [After they try...] What do you think about using them? [want to know whether they changed the search results as expected]
+          1. What do you think about using them? 
      1. Which ones are you unsure about what they mean?
      1. Are there any missing that you think should be there? 
-1. [If they used filters] Let's look back at the filters you were using.
-     1. What did you think about using them? [want to know whether they changed the search results as expected]
+1. *[If they used filters]* Let's look back at the filters you were using.
+     1. What did you think about using them? 
      1. Which filters are you unsure about what they mean?
      1. Are there any filters missing that you think should be there? 
 1. Is there anything else that we haven't talked about that you think I should know? 
