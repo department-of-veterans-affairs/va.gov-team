@@ -49,17 +49,6 @@ Backend CoP (*link to list of work with backend cop labels*)
 
 * [Issue title](link)
 
-DevOps CoP (*link to list of work with devops cop labels*)
-
-
-
-* [Issue title](link)
-
-Certificate Renewals (*link any cert. renewals planned or completed during the sprint*)
-
-
-
-* [Issue title](link)
 
 Support (link to any tickets that came through the support process originally. This does not include Tier 2 support.)
 
