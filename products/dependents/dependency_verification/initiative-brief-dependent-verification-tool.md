@@ -53,9 +53,10 @@ Currently, the VA overpays $250 million in dependent benefits each year. If a Ve
 
 ## Desired Business Outcomes
 - Veterans receive the benefits to which they are entitled.
-- The VA will save close to $250 million a year in overpayments.
+- Reduce the $250 million a year in overpayments.
 - Congressional obligations will be met.
 - The VA will mail out fewer dependency verification request letters (saving time, money, and resources)
+- The VA will spend less time tracking down Veterans to verify their dependents (saving time, money, and resources)
 
 ## Undesired Business Outcomes
 - Veterans do not receive the benefits they are entitled to.
