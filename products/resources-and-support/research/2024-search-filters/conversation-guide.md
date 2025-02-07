@@ -143,6 +143,8 @@ Please go back to the first page you were on [landing pg via breadcrumb or anoth
 
 Imagine that a few weeks ago you submitted a request to have your VA benefit application reconsidered, and you want to know when you can expect to hear back from the VA. Show me how you would try and find that information from here.
 
+- [If they ask **which benefit** the application was for, you can specify:] Disability benefits
+
 [Record navigation path: *Header / Search / Show filters / Featured / Common topics > Decision reviews and appeals / Browse by benefit*]
 
 - [Any confusion with *Claims and claim status*?]
@@ -229,6 +231,8 @@ Please go back to the first page you were on [landing pg via breadcrumb or anoth
 
  Imagine you are preparing to apply to receive monthly payments from the VA. You know that there are certain documents you need to provide with your application, but you don't remember exactly what those documents are and want to look them up. Show me how you would try to find that information.
 
+- [If they ask **which benefit** the application was for, you can specify:] Pension benefits
+
 [Record navigation path: *Header / Search / Show filters / Featured / Common topics / Browse by benefit*]
 
 - [If they try to use **search**, ask:] What are you trying to do? 
@@ -254,7 +258,9 @@ What if this this page doesn't answer your question? What would you do next?
 ## Task 6: Sign in
 Please go back to the first page you were on [landing pg via breadcrumb or another way].
 
-Let's say that you want to refill a prescription but you're having some difficulty getting into your VA account online. Show me how you would try to get help on this. 
+Let's say you're having some difficulty getting into your VA account online. Show me how you would try to get help on this. 
+
+- [If they ask **why they are trying to sign in**, you can say:] To refill a prescription.
 
 [Record navigation path: *Header / Search / Show filters / Featured: Signing in to VA.gov / Common topics / Browse by benefit*]
 
