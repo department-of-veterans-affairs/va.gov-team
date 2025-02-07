@@ -1,3 +1,11 @@
+---
+name: SRE Team Sprint Plan
+about: Use this template for creating sprint plans.
+title: "SRE Team Sprint [XX] Plan"
+labels: 
+assignees: 
+---
+
 ### SRE Team 2025 Vision Roadmap
 
 
