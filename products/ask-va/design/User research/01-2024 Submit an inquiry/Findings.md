@@ -259,7 +259,15 @@ And some Veterans suggested concepts that are similar to other VA services, such
 7. Reorganize and edit content on the home page so it's more direct.
 8. Remove US mail from contact preferences.
 9. Default all accordions to open on review page.
-  
+
+### Coming up with and prioritizing recommendations
+
+We ran a workshop with our team and stakeholders to determine recommendations. We prioritized these with our VA PO.
+
+![Screenshot from Mural showing diagram of ideation workshop](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/01-2024-Ideation-workshop.png)
+
+![Screenshot from Mural showing diagram of prioritization matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/01-2024-Recommendations.png)
+
 ## Next steps
 
 We're preparing for our next round of research in April-May. We aim to implement all of our recommendations before then.
