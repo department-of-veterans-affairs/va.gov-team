@@ -53,7 +53,7 @@ We tested the following steps:
 * Chapter 4: Review and submit
 * Submission page
 
-![Screenshot from Mural showing diagram of test journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Test-journey-Round-1-Jan-2024.png)
+![Screenshot from Mural showing diagram of test journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/01-2024-Test-journey.png)
 
 ## Hypotheses and conclusions
 
