@@ -383,5 +383,3 @@ This research does not include the perspectives of the following marginalized Ve
 * Hispanic participants
 * Without degrees
 * With cognitive disabilities
-
-![VA-recruitment-checker](
