@@ -1,15 +1,45 @@
 # Running Design and Research Agenda
 
 ## February 10 2025
- - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
+ - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Jina Ryu
      - ### Agenda Topics
          - UX roadmap
          - Entry point decision for OHI launch
          - What Lois learned re: IA for FMP + OHI
-         - Thoughts on the latest 1010d OHI Merge
          - Research Workshop with CHAMPVA partners on OHI/1010d merge
-      
+         - Thoughts on the latest 1010d OHI Merge
+
+
      - ### Notes
+       - UX roadmap
+           - Included more work on the CHAMPVA/FMP service blueprints in the next column
+           - Jina may have some work done on the FMP direct deposit (in the next column) so designers need to review her work before pointing our ticket
+           - Supporting Docs stakeholder research in the next column but may move to the later column if the service blueprint works overtakes it. 
+           - Continued work on the 1010d/OHI merge and 1010d improvements
+       - Entry point decision for OHI launch
+           - OHI is now pulling ahead of FMP in terms of priority
+           - No strong feelings on the approach we take on entry points
+           - We may have contact for CAIA (Randi) to work on react widgets
+           - Discussed supported as a standalone form or do we want it on the 1010d but Mikki (CAIA) stated that can’t put a form out there with an orphaned page. The OHI form must link to other relevant forms (meaning the 1010d)
+           - We are considering doing a fast follow to update the 1010d with small tweaks and content updates to accommodate the OHI being live
+           - Create ticket for looking into the interim solution with the least amount of engineering work
+       - What Lois learned re: IA for FMP + OHI
+           - Mikki (CAIA) has correct URLs, redirect and breadcrumbs
+           - The difference between CHAMPVA (family benefits) and FMP (Veteran Healthcare) is that FMP needs to be in a “manage your benefits” area of the site and CHAMPVA is in a “get your benefits/file a claim” are of the site
+           - FMP needs to have an engineering ticket to update the IA on FMP
+           - In the future we need to make sure we have before we need to go into staging review.
+           - Make sure CHAMPVA claims it has the correct IA in place. We should already have in the CHAMPVA family member benefits IA but we should double check.
+           - When we merge OHI or move CHAMPVA to the new authenticated experience we will need to rework IA with CAIA.
+       - Thoughts on the latest 1010d OHI Merge
+           - Designers need to look for a reference on how to format and where to ask yes/no health questions with the form
+           - I think we can remove the Medicare Part A and B with prescription. Medicare Part D would be the same thing
+           - We should clean up the flow at some point so it’s easier to follow. Reference the Healthcare team’s files
+           - Not sure where the HI selector would be based on the current flow. Designer should demonstrate that on the Figma
+           - Need to remove the list and loop for insurances because there are engineering and UX problems when it’s nested in another loop. We can treat it as the current OHI figma does (with no loop but a duplicate of insurance questions to capture data about an applicant's secondary insurance). We do need to represent these extra insurance screens on the figma file
+           - Double check the eyebrow headers. They aren’t consistent with the work done the 0781/526 work.
+       - Research Workshop with CHAMPVA partners on OHI/1010d merge
+           - Discussed briefly on the structure of the workshop Starting with some basic background context, our research and the flow of the current vs merge form process
+        
 
 ## January 27 2025
  - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
