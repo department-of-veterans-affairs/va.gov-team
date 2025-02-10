@@ -167,8 +167,8 @@ Now we are going to go through the programs section.
 
 ## Seven Task: [Program type section] - 7 minutes
 - Now I'd like for you to select the Institution of Higher Learning program type 
-- Take a moment to search for a program name that might interest you and select search. (Ask questions 1-4)
-- Go into the flight program type and look for PPIL 295 Tailwheel Transition (Ask question 5-7)
+- Take a moment to search for a program name that might interest you and select search. (Ask questions 1-5)
+- Go into the flight program type and look for PPIL 295 Tailwheel Transition (Ask question 6, 7)
    
 ### Things to watch for:
 - [Does the participant understand meaning of xyz?]
@@ -178,13 +178,12 @@ Now we are going to go through the programs section.
 **Questions:**
 1. On a scale of 1-5, 1 being easy and 5 being difficult, rate your experience in searching for a program.
 2. Did the results give you what you're looking for?
-3. If the user encountered an error message, ASK: did you find the error message to be helpful? If no, what would you like it to say instead?
-4. Reset search
+3. Do you find these abbreviaitions to be useful?
+4. If the user encountered an error message, ASK: did you find the error message to be helpful? If no, what would you like it to say instead?
 5. If the user did not encounter an error message, ask them reset search and type in "event planning"
      a. Did you find the error message to be helpful? If no, what would you like it to say instead?
 6. Did you refer to the abbreviations at any point?
-7. Do you find these abbreviaitions to be useful?
-8. On a scale of 1-5, 1 being easy and 5 being difficult, how was your experience navigating to another program type?
+7. On a scale of 1-5, 1 being easy and 5 being difficult, how was your experience navigating to another program type?
 
 
 ## Post-Task Interview - 5 minutes
