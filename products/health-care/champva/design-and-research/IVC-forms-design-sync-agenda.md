@@ -13,7 +13,7 @@
      - ### Notes
        - UX roadmap
            - Included more work on the CHAMPVA/FMP service blueprints in the next column
-           - Jina may have some work done on the FMP direct deposit (in the next column) so designers need to review her work before pointing our ticket
+           - Jina did some [work on the FMP direct deposit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738102756013/35b161555725af4051c763f264312d980eff7e4d) in the next column  so designers need to review her work before pointing our ticket
            - Supporting Docs stakeholder research in the next column but may move to the later column if the service blueprint works overtakes it. 
            - Continued work on the 1010d/OHI merge and 1010d improvements
        - Entry point decision for OHI launch
@@ -30,6 +30,9 @@
            - In the future we need to make sure we have before we need to go into staging review.
            - Make sure CHAMPVA claims it has the correct IA in place. We should already have in the CHAMPVA family member benefits IA but we should double check.
            - When we merge OHI or move CHAMPVA to the new authenticated experience we will need to rework IA with CAIA.
+           - Links shared:
+             - [FMP IA Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/foreign-medical-program-claim.md)
+             - [CHAMPVA IA ]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/foreign-medical-program-claim.md](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702677961676/13148d7aadd948a857eaa8fe5e04f6a9b09c3f9e))
        - Thoughts on the latest 1010d OHI Merge
            - Designers need to look for a reference on how to format and where to ask yes/no health questions with the form
            - I think we can remove the Medicare Part A and B with prescription. Medicare Part D would be the same thing
@@ -39,7 +42,7 @@
            - Double check the eyebrow headers. They aren’t consistent with the work done the 0781/526 work.
        - Research Workshop with CHAMPVA partners on OHI/1010d merge
            - Discussed briefly on the structure of the workshop Starting with some basic background context, our research and the flow of the current vs merge form process
-        
+        - Shared some more [research on Forms with a Form](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3712) for designers to review
 
 ## January 27 2025
  - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
