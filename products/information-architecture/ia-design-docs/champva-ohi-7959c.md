@@ -10,7 +10,7 @@
 
 **On this page:**
 - [User/page flows](#flows) *(Updated 2/10/25)*
-- [Page structure](#map) *(Updated 1/28/25)*
+- [Page structure](#map) *(Updated 2/10/25)*
 - [URLs and breadcrumbs](#url) *(Updated 1/28/25)*
 - [Entry points](#nav) *(Updated 1/28/25)*
 - [Redirects](#redirects)
@@ -27,11 +27,15 @@
 
 
 ## <a name="map"></a>Page structure<br>
-*(Updated 1/28/25)*
+*(Updated 2/10/25 - further defined rationale for structural approach)*
 
 ![screenshot of a site map showing placement of the pages](https://github.com/user-attachments/assets/8b2c261f-fb1d-45ad-ad66-20bd75d69b14)
 
 
+Notes:
+- The family member benefit hub - where CHAMPVA content and features live - is structured differently than the Veteran benefit hubs. The key difference is that the Veteran hubs have hard-coded groupings for "Get benefits" and "Manage benefits" which divides content and features based on needs before applying and after applying.
+- These groupings do not exist in the family hub, and the family hub has very little "Manage benfits" content or features, so that structure is not planned for that space at this time. 
+- Therefore, in the family member benefit hub, content and features related to getting benefits and managing benefits will both be nested under the primary benefit content page.
 
 
 ## <a name="url"></a>URLs and breadcrumbs
@@ -73,9 +77,10 @@
 
 2. [CHAMPVA application confirmation page](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/) 
     - Placement description:
-        - Add supporting content and link to the confirmation page of the online 10-10d form
+        - Add conditional supporting content and link to the confirmation page of the online 10-10d form for those applicants that did not upload an OHI with their application
     - Link label: Supporting content and link label to be determined by CAIA content
     - Link destination: /family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c/
+
 
 3. [About VA form 10-7959c page](https://www.va.gov/find-forms/about-form-10-7959c/)
     - Placement description:
