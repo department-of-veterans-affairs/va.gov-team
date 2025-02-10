@@ -54,7 +54,7 @@ Current process as described by Catherine Hughes</summary>
 
 </details>
 
-## Claims details
+## Findings regarding claims
 
 
 * [Message in Slack](https://dsva.slack.com/archives/C07SD9P7XB9/p1737125042278879?thread_ts=1736806052.889859&cid=C07SD9P7XB9) regarding the claim evaluation screen in the app
