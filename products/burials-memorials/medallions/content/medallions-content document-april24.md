@@ -6,13 +6,12 @@ Tablet/Desktop breadcrumb: 
 Mobile breadcrumb:   
 < [Headstones, Markers, and Medallions] (https://www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions 
  
-# Form title: Apply for a medallion in a private cemetery {h1}  
+# Form title: Apply for a medallion in a private cemetery {h1} 
   
 Equal to VA Form 40-1330M (Claim for Government Medallion to Affix to a Private Marker).  
   
 {if logged out, informational alert}   
  
-
 ## Sign in now to save your work in progress {h2}  
 
 Here’s how signing in now helps you:   
@@ -34,7 +33,7 @@ Start your application without signing in {link} 
 {if logged in, informational alert}   
   
 
-**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out.   
+**Note:** Since you’re signed in to your account, we can prefill part of your form based on your account details. You can also save your form in progress and come back later to finish filling it out. 
   
 
 Start the medallion application {link - action}   
@@ -42,17 +41,37 @@ Start the medallion application {link - action}  
 
 {end if logged in}   
   
-## Follow these steps to get started{h2 with h3 styling}  
+## Follow these steps to get started{h2}  
   
 {subway map}  
   
-### 1. Gather your information {h3}  
-  
-Here’s what you’ll need to apply: 
-* Deceased’s information such as legal name and date of birth. 
-* Military history of the Veteran 
-* Supporting documents including the Veteran’s DD214, pre-need letter, or other discharge documents. 
- 
+### 1. Check the Veteran's eligibility {h3}  
+
+Check our eligibility requirements before you apply. If you think the Veteran may be eligible, but you’re not sure, we encourage you to apply.
+
+Find out if the Veteran is eligible for a medallion {link - action}
+
+### 2. Contact the Veteran's cemetery {h3}
+
+Contact the Veteran’s cemetery and tell them that you’re applying for a medallion to put on a Veteran’s headstone or marker.  
+You’ll need to get this information from them:
+*The name of a representative from the Veteran’s cemetery
+*The representative’s email address
+
+ Also check if the cemetery will accept the size of medallion you request. 
+After you get this information, tell the representative to expect an email from VA about your application and to review and sign your application within 30 days.
+
+### 3. Gather the Veteran's information
+
+Here’s what you’ll need to apply: 
+*The Veteran’s Social Security number 
+*The Veteran’s date and place of birth 
+*The Veteran’s date of death 
+*The Veteran’s service periods 
+
+
+### 3. Gather the Veteran's information
+
 #### What if I need help filling out my application? {h4}  
  
 
