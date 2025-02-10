@@ -440,6 +440,7 @@ Sending focus to the legend may cause the heading to be read multiple times depe
 
 ### Further Reading
 
+* [Foundations: grouping forms with `<fieldset>` and `<legend>`](https://tetralogical.com/blog/2025/01/31/foundations-fieldset-and-legend/)
 * [Use legend and fieldset (Adrian Roselli)](https://adrianroselli.com/2022/07/use-legend-and-fieldset.html)
 * [Styling options for labels and fieldsets (Gov.UK)](https://design-system.service.gov.uk/get-started/labels-legends-headings/#styling-options-for-labels-and-legends)
 * [Fieldsets, Legends and Screen Readers again (TPGi)](https://www.tpgi.com/fieldsets-legends-and-screen-readers-again/)
