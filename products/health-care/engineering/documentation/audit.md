@@ -40,7 +40,7 @@ This should reflect what is currently being developed and how the team operates.
             Overview of monitoring tools and their use for everyday triage tasks.
             Guidance on accessing logs, stack traces, and system health checks.
             Contact information for external system dependency issues.
-    **Disaster Recovery Documentation:**
+  - **Disaster Recovery Documentation:**
         Steps for setting up a new MHV API *production* environment from scratch.
 
 ## Quality and Compliance Standards
