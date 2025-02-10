@@ -2,9 +2,59 @@
 
 __Output of ticket:__ [211](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/211)
 
+<details>
+<summary>Current process pulled from Mobile Team’s Sprint 0 documentation </summary>
+
+
+[Sprint 0 documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md)
+
+__Overview of the Veteran experience requesting pre-need decision letter__
+
+
+* Step 1: Find out if you are eligible.
+* Step 2: Choose the VA national cemetery where you’d prefer to be buried.
+* Step 3: Gather the supporting documents and information you’ll need to fill out the application.
+* Step 4: Be sure to fill out an application for each person requesting a pre-need eligibility determination.
+* Step 5: Submit application
+* Step 6: Claim reviewed by VA
+* Step 7: Claim closed
+    * If they qualify
+        * Veteran will receive a pre-need decision letter, benefits information sheet, brochure, and copy of supporting documents submitted
+    * If they do not qualify
+        * Veteran will receive a denial letter with an explanation and information on their rights to appeal or request another review and how to proceed [Form 20-0998](https://www.va.gov/find-forms/about-form-20-0998/)
+
+
+__Overview of the Veteran experience__ (once Veteran has qualified for pre-need burial eligibility)
+
+
+* Keep the letter in a safe place and use information when coordinating their burial wishes
+* They also qualify for burial benefits
+    * Opening / closing of the grave
+    * Burial liner provided by the government
+    * Headstone / market provided by the government
+    * Ongoing care of the gravesite
+    * Veteran, surviving spouse, or other family members may also qualify for survivor benefits
+* Talk with family members or authorized representatives about burial wishes and provide this documentation
+* Time of need - Veteran has passed and burial is needed(not Veteran facing)
+    * Person arranging burial to call the pre-planned funeral director or the National Cemetery Scheduling office to request burial - pre-need decision letter will be needed at that time
+        * If they do not have pre-need decision letter then work with funeral director to complete [steps](https://www.va.gov/burials-memorials/schedule-a-burial/)
+</details>
+
+
+<details>
+   <summary>
+Current process as described by Catherine Hughes</summary>
+
+[Slack message](https://dsva.slack.com/archives/C03QC459M0C/p1738774549212579?thread_ts=1738774231.517579&cid=C03QC459M0C)
+
+* A Pre-Need form is submitted by the Veteran or their family and the NCA will determine if they are eligible to be buried in a National Cemetery.  At that point the information and case has been logged in their system (outside of VA.gov)
+* When the individual passes away they reach back out to the NCA to put in, what is known as, a time of need request.  The NCA agent will search for and pull up the pre-Need case and generate a time of need case from it (this allows for information to be verified and prepopulate and for them to already have necessary eligibility documentation.
+* The agent will work with the caller to get a service scheduled at a National Cemetery and capture desired interment details. Once this is done the case is sent to the cemetery to complete the request by performing the interment
+* All the case processing and time of need work is done outside of VA.gov in a separate system.  We just capture and send the initial pre-need request
+
+</details>
 
 ## Claims details
-
 
 
 * [Message in Slack](https://dsva.slack.com/archives/C07SD9P7XB9/p1737125042278879?thread_ts=1736806052.889859&cid=C07SD9P7XB9) regarding the claim evaluation screen in the app
@@ -73,49 +123,3 @@ __Output of ticket:__ [211](https://github.com/department-of-veterans-affairs/va
 
 * __Pre-need claims never show as a claim on VA.gov__ ([Slack thread](https://dsva.slack.com/archives/C03QC459M0C/p1738774231517579))
 
-
-## Current process from [Mobile Team’s Pre-Need Burial Sprint 0 documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md)
-
-
-### __Overview of the Veteran experience requesting pre-need decision letter__
-
-
-
-* Step 1: Find out if you are eligible.
-* Step 2: Choose the VA national cemetery where you’d prefer to be buried.
-* Step 3: Gather the supporting documents and information you’ll need to fill out the application.
-* Step 4: Be sure to fill out an application for each person requesting a pre-need eligibility determination.
-* Step 5: Submit application
-* Step 6: Claim reviewed by VA
-* Step 7: Claim closed
-    * If they qualify
-        * Veteran will receive a pre-need decision letter, benefits information sheet, brochure, and copy of supporting documents submitted
-    * If they do not qualify
-        * Veteran will receive a denial letter with an explanation and information on their rights to appeal or request another review and how to proceed [Form 20-0998](https://www.va.gov/find-forms/about-form-20-0998/)
-
-
-### __Overview of the Veteran experience__ once Veteran has qualified for pre-need burial eligibility
-
-
-
-* Keep the letter in a safe place and use information when coordinating their burial wishes
-* They also qualify for burial benefits
-    * Opening / closing of the grave
-    * Burial liner provided by the government
-    * Headstone / market provided by the government
-    * Ongoing care of the gravesite
-    * Veteran, surviving spouse, or other family members may also qualify for survivor benefits
-* Talk with family members or authorized representatives about burial wishes and provide this documentation
-* Time of need - Veteran has passed and burial is needed(not Veteran facing)
-    * Person arranging burial to call the pre-planned funeral director or the National Cemetery Scheduling office to request burial - pre-need decision letter will be needed at that time
-        * If they do not have pre-need decision letter then work with funeral director to complete [steps](https://www.va.gov/burials-memorials/schedule-a-burial/)
-
-
-## Current process as described by Catherine Hughes in [Slack](https://dsva.slack.com/archives/C03QC459M0C/p1738774549212579?thread_ts=1738774231.517579&cid=C03QC459M0C)
-
-
-
-* A Pre-Need form is submitted by the Veteran or their family and the NCA will determine if they are eligible to be buried in a National Cemetery.  At that point the information and case has been logged in their system (outside of VA.gov)
-* When the individual passes away they reach back out to the NCA to put in, what is known as, a time of need request.  The NCA agent will search for and pull up the pre-Need case and generate a time of need case from it (this allows for information to be verified and prepopulate and for them to already have necessary eligibility documentation.
-* The agent will work with the caller to get a service scheduled at a National Cemetery and capture desired interment details. Once this is done the case is sent to the cemetery to complete the request by performing the interment
-* All the case processing and time of need work is done outside of VA.gov in a separate system.  We just capture and send the initial pre-need request
