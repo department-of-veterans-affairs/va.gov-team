@@ -9,7 +9,7 @@
 - [CAIA Intake](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77855)
 
 **On this page:**
-- [User/page flows](#flows) *(Updated 1/28/25)*
+- [User/page flows](#flows) *(Updated 2/10/25)*
 - [Page structure](#map) *(Updated 1/28/25)*
 - [URLs and breadcrumbs](#url) *(Updated 1/28/25)*
 - [Entry points](#nav) *(Updated 1/28/25)*
@@ -19,9 +19,11 @@
 
 
 ## <a name="flows"></a>Navigation flows <br>
-*(Updated 1/28/25)*
+*(Updated 2/10/25 - added entry point of CHAMPVA application confirmation page to flow diagram)*
 
-![screenshot of the navigational paths to the OHI form](https://github.com/user-attachments/assets/f72ce4d8-3852-4037-8fc1-dc20b90630ed)
+![screenshot of the navigational paths to the OHI form](https://github.com/user-attachments/assets/aea0b7bd-e46d-4934-a637-c1c845c4c484)
+
+
 
 
 ## <a name="map"></a>Page structure<br>
