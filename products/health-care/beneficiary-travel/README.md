@@ -19,6 +19,7 @@ Deliver a seamless and positive experience for any Veteran or Caregiver who want
 - Design/Research: Kristen McConnell
 
 ### Product Team
+- Ayush Chakravarty, Product Manager
 - Kevin Duensing, Engineering Lead
 - Liz Townsend, Engineering
 - Calvin Cieslak, Engineering
