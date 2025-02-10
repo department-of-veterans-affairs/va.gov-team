@@ -23,11 +23,17 @@ sequenceDiagram
 
     tp-->>user: [claim]
     alt No claims
-        tpm->>tp: []
+        tpapi-->>tpm: []
+        tpm-->>tp: []
         tp->>user: "No travel claims to show."
-    else Error
-        tpm->>tp: Error
-        tp->>user: Show error alert
+    else 4** status code error
+        tpapi-->>tpm: 400/401/404 error
+        tpm-->>tp: 400/401/404 error
+        tp->>user: Forbidden error alert: <br />"We can’t find any travel claims for you"
+    else Other error
+        tpapi-->>tpm: Error
+        tpm-->>tp: Error
+        tp->>user: Error alert: <br />"We’re sorry, we can’t access your travel claims right now"
     end
 ```
 
@@ -56,7 +62,7 @@ sequenceDiagram
     tp-->>user: {claim details}
 ```
 
-## Claim details entry from apppointments
+# Travel Pay entry from apppointments
 
 ```mermaid
 sequenceDiagram
@@ -90,7 +96,7 @@ sequenceDiagram
     end
     appts-->>user: Appointments list
     user->>appts: Select appointment
-    alt appointment has claim && Flipper.enabled(view_claim_details)
+    alt appt_has_claim
         appts-->>user: Appointment w/ claim details link
         user->>tp: /my-health/travel-pay/claims/{id}
 
@@ -102,10 +108,12 @@ sequenceDiagram
             deactivate tpapi
             tpm-->>tp: {claim details}
         deactivate tpm
-
         tp-->>user: {claim details}
-    else !(appointment has claim) || !Flipper.enabled(view_claim_details)
-        appts-->>user: Appointment
+    else !appt_has_claim
+        appts-->>user: Appointment w/ travel reimbursement link
+        user->>tp: /my-health/travel-pay/file-new-claim/{id}
+
+        Note over user,tpapi: SMOC flow (shown below)
     end
 ```
 
@@ -166,49 +174,4 @@ sequenceDiagram
     deactivate tpm
 
     smoc ->> user: Submitted claim summary
-```
-
-## Entry from appointments
-
-```mermaid
-sequenceDiagram
-    actor user as User
-    participant appts as Appointments Front-end
-    participant smoc as Travel Pay Front-end
-    participant vaos as VAOS: vets-api
-    participant tpm  as Travel Pay Backend: vets-api
-    participant tpapi as Travel Pay API
-
-    user->>appts: /my-health/appointments/past
-    appts ->> vaos: GET /vaos/v2/appointments
-
-    alt include[:travel_pay_claims] && Flipper.enabled(view_claim_details)
-      activate vaos
-        vaos ->>+ tpm: associate_many_claims(appts)
-        tpm ->>+ tpapi: GET /api/v1.2/claims/search-by-appointment-date?{start,end}
-        tpapi ->>- tpm: [claims]
-
-        activate tpm
-          tpm ->> tpm: Associate claim & metadata with appointment
-        deactivate tpm
-
-        tpm -->>- vaos: [appointments w/ claims]
-        vaos -->> appts: [appointments w/ claims]
-      deactivate vaos
-    else !include[:travel_pay_claims] || !Flipper.enabled(view_claim_details)
-      activate vaos
-        vaos -->> appts: [appointments]
-      deactivate vaos
-    end
-    appts-->>user: Appointments list
-    user->>appts: Select appointment
-
-    alt appointment has claim && Flipper.enabled(view_claim_details)
-        appts-->>user: Appointment w/ travel reimbursement link
-        user->>smoc: /my-health/travel-pay/file-new-claim/{id}
-
-        Note over user,tpapi: SMOC flow from above
-    else !(appointment has claim) || !Flipper.enabled(view_claim_details)
-        appts-->>user: Appointment
-    end
 ```
