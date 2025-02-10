@@ -40,9 +40,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 2 [2/12/25-2/25/25] 
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-| UX: Finalization of wizard content and prototypes | QP1 |--|--|--|
-| UX: Wizard UX research planning approvals | QP1 |--|--|--|
-| UX: | QPX |--|--|--|
+| UX: Define the path (PDF or HTML) version for the one VA Debt letter | QP1 |--|--|--|
+| UX: Finalization of wizard content mockups and prototypes for research and studies | QP2 |--|--|--|
+| UX: Define UX practice process and vision for 2025 | N/A |--|--|--|
+| UX: Complete one of the prior Medallia reports | QP4 |--|--|--|
 | ENG: | QPX |--|--|--|
 | ENG: | QPX |--|--|--|
 | ENG: | QPX |--|--|--|
