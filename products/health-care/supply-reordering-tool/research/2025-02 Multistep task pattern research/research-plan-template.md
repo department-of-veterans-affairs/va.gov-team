@@ -1,92 +1,55 @@
 
-	# Research Plan for [Team, Product, Date]
+	# Research Plan for [MHV portal, Supply reordering tool, 2025-02]
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+Veterans often need to quickly take actions, such as ordering medications or scheduling appointments through the MHV on VA.gov. Currently, the lack of guidance around tasks in the design system leads teams to develop their own approaches or rely on form templates, resulting in inconsistencies across the website and making it harder for Veterans to complete tasks efficiently. The teams can't fully rely on forms because they are used as a tool to collect information or facilitate processes related to tasks. By implementing the multistep task pattern for tasks on VA.gov, we can create a more straightforward experience that enables Veterans to easily and quickly complete their routine actions by dividing them into short, intuitive and manageable steps.  
 
-[Link to product brief](url goes here).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/supply-reordering-tool#medical-supplies-product-outlineoverview).
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) does this research support? Work with your VA lead and product manager as needed.
+This research supports the following OCTO priorities: 
+1. Objective 1, Key Result 1: Improve satisfaction with our web and mobile products. 
+2. Objective 1, Key Result 2: Reduce the total time Veterans spend waiting for a response from our digital experiences. 
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+The new pattern fits into the following stages of the Veteran journey: starting up, taking care of myself, putting down roots, retiring, aging. 
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+The purpose of this research is to compare the old (form pattern, version A) and new (task pattern, version B) versions of the medical supplies tool. Specifically, we want to understand:  
+1. If the multistep task pattern will make completing routine and simple tasks faster and easier for Veterans. 
+2. Veterans’ expectations when completing routine tasks. 
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+This research will validate the usefulness of the pattern for routine tasks and indicate that routine tasks need a pattern other than form for a simpler task completion experience.    
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+1. Which pattern option enables Veterans to complete reordering medical supplies more quickly?  
+2. Which pattern option do Veterans find to be more intuitive and less difficult to use? 
+3. Which pattern option increases satisfactions amongst Veterans in the digital patient portal experience? 
+4. Which pattern option builds greater trust in the VA with Veterans? 
+5. What are Veterans’ expectations when completing routine tasks?  
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+1. The average time to complete tasks will be lower on the new pattern. 
+2. The task success rate will be greater on the new pattern. 
+3. A higher proportion of Veterans will find the new pattern to be more intuitive and satisfying than the old experience. 
+4. The old pattern will produce higher rates of distrust in VA digital services than the new pattern. 
+5. Veterans expect to complete routine tasks quickly and in one session, rather than expecting to leave and come back to the task.  
+6. Veterans who are used to fill out forms on VA.gov may find the new pattern surprising and too short. 
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
-
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+Unmoderated A/B prototype testing using Optimal Workshop's prototype testing feature. We will publish 2 tests: one with version A (form pattern) and one with version B (multistep task pattern). Both tests will ask the same questions, but will have different prototypes. We will use SPSS or R studio for analysis. 
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Remote
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
 For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
 - [Link to email with instructions](url goes here)
 - [Link to prototype or OptimalSort session for group A](url goes here)
 - [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment	
 
@@ -97,14 +60,7 @@ Before writing your recruitment criteria, be sure to review the following resour
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel sheet saved on the VA network Sharepoint drive.  
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
@@ -131,28 +87,23 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: Feb 17 – Launch test 
+
+Feb 28 – Close test 
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+N/A - unmoderated study
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+N/A - unmoderated study
 	
 ## Team Roles	
-**Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
+Moderator: Jina Ryu
 
-**Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Send emails only for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
+Research guide writing and task development (usually but not always same as moderator): Jina Ryu and Jenny Wang 
 
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.
+Participant recruiting & screening: Jina Ryu
+
+Project point of contact: Jina Ryu
+
+Participant(s) for pilot test: Kaitlin Fink
