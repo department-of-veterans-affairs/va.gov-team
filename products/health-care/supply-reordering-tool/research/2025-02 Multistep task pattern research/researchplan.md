@@ -66,14 +66,20 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
 1. Do you have a My HealtheVet (MHV) account? 
+
 a. Yes 
+
 b. No (exclude) 
 
 2. In the past 12 months, how often did you complete one or more of these tasks on VA.gov?  
 Tasks: Refilling prescriptions, scheduling an appointment, reordering medical supplies, sending a message to your doctor 
+
 a. Once a week (recruit 120 between a and b)  
+
 b. Once a month  
+
 c. Once every few months (recruit 100 between c and d)  
+
 d. Once a year 
 
 ## Timeline
