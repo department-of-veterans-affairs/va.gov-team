@@ -1,7 +1,7 @@
 # Mapbox Facility Locator implementation 
 
 ## Overview
-- **API usage**: Geocoding V5, Map Loads for Web, Static Images, Matrix
+- **Mapbox APIs that are used on VA.gov**: Temporary Geocoding V5, Map Loads for Web, Static Images, Matrix
 
 We use Mapbox to render maps, most notably on the Facility Locator. In order to use Mapbox, an API key is required. One critical piece to understanding the architectural approach mapped out below is to understand that these Mapbox API keys are [visible to the public](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/462#issue-1205626603). Mapbox knows this and accounts for this by allowing (and suggesting) URL restrictions on the keys. So, for example, we can restrict our API keys to only work on API calls initiated from va.gov.
 
@@ -57,6 +57,27 @@ export const mapboxToken =
 ### Previous discovery / notes
 - [March 2022: Mapbox Predictive Search Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/discovery/predictive-geolocation-discovery.md)
 - [Questions & Answers about Mapbox (as of February 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/products/facilities/facility-locator/engineering/archive/mapbox-info.md)
+
+## Temporary Geocoding usage/cost (Q1 2025)
+Historically, the Facility Locator uses the Temporary Geocoding API for address lookup but we have not historically used the autosuggest feature. 
+
+In Q1 2025, autosuggest will be enabled ([#20241](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20241)). This will increase the Temporary Geocoding API usage by 5-7x previous usage levels, as we will send calls for user-typed data as they type, in order to return address suggestions. 
+
+### PRICING
+We have not currently locked in a pricing agreement for this increased usage, due to upcoming Sitewide end of period of performance, 3/31/2025. However: on the new Sitewide contract on SPRUCE, it would be advantageous to lock in pricing with Mapbox. Information from Mapbox sales / account rep:
+
+> Q: 1. If we lock in for an annual commitment, for example, at 7.5MM calls, and we get additional traffic, is everything over the annual commitment billed at a per-call rate as we do today?
+> 
+> A: Yes, this would be processed through signing an annual contract via our Account Management team. I'm happy to assist with this whenever your timeline permits.
+> The locked-in rates will be included in Exhibit A of the order form. We also offer an option to add credit to the annual agreement or early renewal to accommodate any additional growth.
+
+> Q: 2. If we lock in for 7.5MM calls, and find we are consistently over that, is it possible to adjust the annual commitment for our baseline?
+> 
+> A. The early renewal process can be used to address this. If you sign a multi-year agreement, we can also add top-up credit to each year in case the initial estimate proves to be too low.
+
+Options to pursue on new contract:
+1. Lock in an annual rate with Mapbox.
+2. See if VA can assume the Mapbox expense. (Through DOTS/Okta? Not sure.)
 
 ## Non-Sitewide Products That Use Mapbox
 
