@@ -1149,7 +1149,7 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### September 17-21: Brand Consolidation - Preview.va.gov Remote Testing Non-VA Vets
 *Team Hydra | Research Lead: Jeff Barnes*
 - 8 participants
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-6)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/193cdfbd53fc2ac7690fbc2c184a077f711adc7b/products/va-gov-relaunch-2018/user-research/study-6)
 
 #### September 10 - 11: VA.gov MHV Login + SSO Contextual Messages
 *Griffins Team, Research Lead: Layla Soileau*
