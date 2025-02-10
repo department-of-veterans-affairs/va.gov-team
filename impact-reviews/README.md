@@ -16,7 +16,7 @@ Curious what an Impact Review is like but not ready to commit to presenting? Che
 ## Upcoming Presentations
 If you're interested in presenting reach out to Anastasia Jakabcin via DM in the DSVA workspace or in the #impact-review channel, and add your team's details to the table below. Generally we aim to have no more than _two_ initiatives presented each month to allow enough time for discussion.
 
-_Presentations occur at 1:00pm ET_
+_Presentations occur at 1:05pm ET_
 |    Team      | Presenter | Initiative | Launch Date | Impact Review Date|
 |----|----|----|----|----|
 |Appointments Team on VA.gov | Jeff Roof|Appointment Details Redesign| August 2024| December 5, 2024 |
