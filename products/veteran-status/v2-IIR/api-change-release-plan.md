@@ -46,7 +46,7 @@ Developer and Product Manager will monitor analytics and logging at each rollout
 - Number of bugs identified / fixed: 1 / 3
   - [[BUG] Error Messages Are Not Displaying as Expected #1397](https://github.com/department-of-veterans-affairs/va-iir/issues/1397) | DONE
   - [[BUG] Non 200 Response Not Returning Correct FE Error Message #1406](https://github.com/department-of-veterans-affairs/va-iir/issues/1406) | DONE
-  - [[BUG] Add Loading Component to Vet Status](https://github.com/department-of-veterans-affairs/va-iir/issues/1393) | STARTED
+  - [[BUG] Add Loading Component to Vet Status](https://github.com/department-of-veterans-affairs/va-iir/issues/1393) | DONE
 - Was any downstream service affected by the change?: No
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? No
 
@@ -56,51 +56,50 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: January 27 - February 7
+- Desired date range: February 6 - February 13
 - How will you make the product available in production while limiting the number of users who can find/access it: we will be turning on the feature flag for a small percentage of users and increasing every few days.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-  - Percentage of CONFIRMED users : [FILL_IN]
-  - Percentage of NOT CONFIRMED users : [FILL_IN]
-  - Percentage breakdown of NOT CONFIRMED status reasons : [FILL_IN]
-  - Percentage breakdown of API response codes : [FILL_IN]
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
+  - Percentage of CONFIRMED users : 80%
+  - Percentage of NOT CONFIRMED, not eligible users : 1.3%
+  - Percentage of NOT CONFIRMED, other reasons : 18.8%
+  - Percentage of non 200 responses  : .6%
 - Who is monitoring the dashboard(s)?: Megan Commons & Kyle Henson
 
 ### Stage A: Canary
 
 #### Planning
 
-- Length of time: January 27 - January 28 (or until we see each possible NOT CONFIRMED status reason)
+- Length of time: February 6 (or until we see each possible NOT CONFIRMED status reason)
 - Percentage of Users: 1% of users
 
 #### Results
 
 - Number of unique users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"):
-  - Percentage of CONFIRMED users : [FILL_IN]
-  - Percentage of NOT CONFIRMED users : [FILL_IN]
-  - Percentage breakdown of NOT CONFIRMED status reasons : [FILL_IN]
-  - Percentage breakdown of API response codes : [FILL_IN]
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+  - Percentage of CONFIRMED users : 80%
+  - Percentage of NOT CONFIRMED, not eligible users : 1.3%
+  - Percentage of NOT CONFIRMED, other reasons : 18.8%
+  - Percentage of non 200 responses  : .6%
+- Was any downstream service affected by the change?: no
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage B: 10% of users
+### Stage B: 5% of users
 
 #### Planning
 
-- Length of time: January 28 - January 29 
-- Percentage of Users (and roughly how many users do you expect this to be): 10%
+- Length of time: February 7 - February 9
+- Percentage of Users (and roughly how many users do you expect this to be): 5%
 
 #### Results
 
 - Number of unique users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"):
-  - Percentage of CONFIRMED users : [FILL_IN]
-  - Percentage of NOT CONFIRMED users : [FILL_IN]
-  - Percentage breakdown of NOT CONFIRMED status reasons : [FILL_IN]
-  - Percentage breakdown of API response codes : [FILL_IN]
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+  - Percentage of CONFIRMED users : 80%
+  - Percentage of NOT CONFIRMED, not eligible users : 1.3%
+  - Percentage of NOT CONFIRMED, other reasons : 18.8%
+  - Percentage of non 200 responses  : .6%
+- Was any downstream service affected by the change?: no
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
@@ -108,17 +107,17 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: January 29 - January 30
+- Length of time: February 10
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
 
 - Number of unique users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"):
-  - Percentage of CONFIRMED users : [FILL_IN]
-  - Percentage of NOT CONFIRMED users : [FILL_IN]
-  - Percentage breakdown of NOT CONFIRMED status reasons : [FILL_IN]
-  - Percentage breakdown of API response codes : [FILL_IN]
+  - Percentage of CONFIRMED users : 
+  - Percentage of NOT CONFIRMED, not eligible users : 
+  - Percentage of NOT CONFIRMED, other reasons : 
+  - Percentage of non 200 responses  : 
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
@@ -127,17 +126,17 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: January 31 - February 3
+- Length of time: February 11
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
 
 - Number of unique users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"):
-  - Percentage of CONFIRMED users : [FILL_IN]
-  - Percentage of NOT CONFIRMED users : [FILL_IN]
-  - Percentage breakdown of NOT CONFIRMED status reasons : [FILL_IN]
-  - Percentage breakdown of API response codes : [FILL_IN]
+  - Percentage of CONFIRMED users : 
+  - Percentage of NOT CONFIRMED, not eligible users : 
+  - Percentage of NOT CONFIRMED, other reasons : 
+  - Percentage of non 200 responses  : 
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
@@ -146,17 +145,17 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: February 3 - February 4
+- Length of time: February 12
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
 
 - Number of unique users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"):
-  - Percentage of CONFIRMED users :  [FILL_IN]
-  - Percentage of NOT CONFIRMED users : [FILL_IN]
-  - Percentage breakdown of NOT CONFIRMED status reasons : [FILL_IN]
-  - Percentage breakdown of API response codes : [FILL_IN]
+  - Percentage of CONFIRMED users : 
+  - Percentage of NOT CONFIRMED, not eligible users : 
+  - Percentage of NOT CONFIRMED, other reasons : 
+  - Percentage of non 200 responses  : 
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
@@ -165,17 +164,17 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: February 4 - 
+- Length of time: February 13
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
 
 - Number of unique users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"):
-  - Percentage of CONFIRMED users : [FILL_IN]
-  - Percentage of NOT CONFIRMED users : [FILL_IN]
-  - Percentage breakdown of NOT CONFIRMED status reasons : [FILL_IN]
-  - Percentage breakdown of API response codes : [FILL_IN]
+  - Percentage of CONFIRMED users : 
+  - Percentage of NOT CONFIRMED, not eligible users : 
+  - Percentage of NOT CONFIRMED, other reasons : 
+  - Percentage of non 200 responses  : 
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
