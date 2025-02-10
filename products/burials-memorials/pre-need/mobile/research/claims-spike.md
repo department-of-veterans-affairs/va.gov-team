@@ -121,5 +121,5 @@ Current process as described by Catherine Hughes</summary>
 
 
 
-* __Pre-need claims never show as a claim on VA.gov__ ([Slack thread](https://dsva.slack.com/archives/C03QC459M0C/p1738774231517579))
+* __Pre-need burial claims never show as a claim on VA.gov__ ([Slack thread](https://dsva.slack.com/archives/C03QC459M0C/p1738774231517579))
 
