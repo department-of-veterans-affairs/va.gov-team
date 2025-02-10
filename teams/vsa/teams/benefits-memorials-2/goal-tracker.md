@@ -23,7 +23,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Work with Contact Center to improve Medallia data| QP4 |--|--|--|
 |UX: Complete the Feb Medallia Report| QP4 |--|--|--|
 |ENG: The Digital Dispute process is live on staging| QPX |--| 2/04/25 | Complete |
-|ENG: SharePoint errors have a more descriptive notification and are reported to ENG for analysis| QPX |--|--|--|
+|ENG: SharePoint errors have a more descriptive notification and are reported to ENG for analysis| QPX |--|2/07/25|Complete|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals
