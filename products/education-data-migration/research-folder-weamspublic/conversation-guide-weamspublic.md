@@ -84,18 +84,19 @@ We want your unfiltered, honest opinions so please help us understand your thoug
 1. Is the language presented in these paragraphs understandable?
 2. Are these paragraphs too much information or do you think they should be condensed?
 3. Do you know what prep courses are? Where would you go to find out what prep courses mean? Tell us what information you found.
-4. What are your thoughts on way these FAQs are ordered?
+4. What are your thoughts on the way the FAQs are laid out?
 
 ## Second Task: [Licenses, certifications, and prep courses search functionality review] - 6 minutes
 - Go ahead and select a category type and enter in a license and certification name that you're interested in (Ask question 1)
 - Please hit submit
-- Walk me through what you see and think out loud while you're reviewing this search results page (Ask question 2-4)   - Please go ahead and make a selection from the results that you see. (Ask question 5)
+- Walk me through what you see and think out loud while you're reviewing this search results page (Ask question 2-4)
+- Please go ahead and make a selection from the results that you see. (Ask question 5)
 
 **Questions:** 
 1. Did the dropdown that appeared while you were typing the license/certification name give you the options that you would expect?
 2. Please give me your opinions of the presentation and content layout for this search results page.
 3. What would you do if you wanted to see if this license (if they selected license) was in your state?
-4. What would you do if you wanted to see if there were any licenses or prep courses available for this license/certification name?
+4. What would you do if you wanted to see if there were any licenses or prep courses (if they selected certification) available for this license/certification name?
 5. Do the details within this particular license or certification provide what you're looking for?
 6. On a scale of 1-5, 1 being easy and 5 being difficult, rate your overall experience on the steps you took to get to this page. Please explain why you feel that way.
 
@@ -108,27 +109,7 @@ We want your unfiltered, honest opinions so please help us understand your thoug
 **Questions:**
 1. What would you do next?
 2. Was this content useful?
-
-### License in multiple states scenario
-- Go back to licenses, certifications, and prep courses homepage
-- Please make the follow selections: license for category type and enter in barber
-- Select barber from the dropdown options and select submit (Ask questions 1 and 2)
-- Take a moment now to explore the state filters (Ask question 3)
-  
-**Questions:**
- 1. Tell us what you see. What would you do next?
- 2. Do the results give you what you're looking for?
- 3. What are your thoughts on the state filters?
-
-### Certification scenario
-- Go back to search
-- Please select certification for category type and enter in a certification name you're interested in
-- Make a selection from the dropdown and select submit
-         
-**Questions:**
-1. How many results do you see?
-2. What would you do next?
-   
+    
 ### State of Connecticut Insurance Department, License, Details Page
 - Go back to search
 - Please select license for category type and enter the following license State of Connecticut Insurance Department
