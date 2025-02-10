@@ -2,7 +2,7 @@
 <br>
 
 ## Pattern Outcome 
-The Data Grid v2.0 pattern enables the product team to customize grid interactions. After interacting with the data, the user is able to synthesize the information and make decisions about next steps.<br/>
+The Data Grid 2.0 pattern will have more interaction capabilities. The consumer of this pattern will be able to customize interactions for their user experience.
 <br>
 
 ## Requirements in scope
