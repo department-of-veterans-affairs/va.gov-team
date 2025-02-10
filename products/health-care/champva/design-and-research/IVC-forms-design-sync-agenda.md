@@ -40,9 +40,10 @@
            - Not sure where the HI selector would be based on the current flow. Designer should demonstrate that on the Figma
            - Need to remove the list and loop for insurances because there are engineering and UX problems when it’s nested in another loop. We can treat it as the current OHI figma does (with no loop but a duplicate of insurance questions to capture data about an applicant's secondary insurance). We do need to represent these extra insurance screens on the figma file
            - Double check the eyebrow headers. They aren’t consistent with the work done the 0781/526 work.
+           - Shared some more [research on Forms with a Form](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3712) for designers to review
        - Research Workshop with CHAMPVA partners on OHI/1010d merge
            - Discussed briefly on the structure of the workshop Starting with some basic background context, our research and the flow of the current vs merge form process
-        - Shared some more [research on Forms with a Form](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3712) for designers to review
+     
 
 ## January 27 2025
  - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
