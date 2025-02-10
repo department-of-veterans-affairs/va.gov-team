@@ -1,19 +1,13 @@
-> **Copy this template**
-
-> **File Name**: [p#-studyname-YY-MM-DD-TIME]
-
-> **Example file name:** p1-document-status-2024-01-21-9AM.md
-
-# TEMPLATE
+# P5 2024 01 22 11AM
 
 ## Warm-up Questions (Optional) - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
 * Have you used VA.gov before?
-> NOTES
+> Yes
 * Have you ever filed an application for disability compensation (Form 526-EZ) with the VA?
-> NOTES
+> Yes
 
 * Have you uploaded files using Va.gov or VA mobile app?
 > NOTES
@@ -74,7 +68,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 > NOTES
 
 * Is there anything that is particularly confusing about what you see here?
-> NOTES
+> It felt like I was going up instead of down. Yeah, it actually does because it says I submitted on the 15th, but the order is going up. I expected it to go down instead—like the 15th, the 20th, and the 30th in descending order. So, yeah, I was expecting the order to be reversed. And, like I said, it’s a bit confusing because it shows I submitted on the 15th, but you’d expect to see the 15th, the 20th, and the 30th in order going down the line.
 
 * What steps would you take to add a file to your claim?
 > NOTES
