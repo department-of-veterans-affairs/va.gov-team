@@ -211,3 +211,5 @@ This flow also introduces the ability for Veterans to link multiple conditions t
 - We are employing a new pattern on plurality when Veterans can choose multiple selections. For these frames, we used disability(ies) and condition(s). This has been submitted for OCTO approval as part of the[ key terms index](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101196). 
 
 - Partner with CAIA on reviewing copy updates made throughout flow, with particular attention to the alert message. We want to ensure comprehension, follow established patterns and refine for brevity.
+- Partner with CAIA on reviewing use of terminology for veteran comprehension of existing terms including: disability, service-connect disability, condition, and explore understanding of exploratory terms including: rated condition, rated disability, etc. 
+  - This knowledge gap is referenced in [2021-11-30 Desk Research: Disability Compensation Claims (526EZ) Research with Veterans (https://community.max.gov/display/VAExternal/20221130-Desk+Research%3A+Disability+Compensation+Claims+%28526EZ%29+Research+with+Veterans)]
