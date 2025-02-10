@@ -1,5 +1,15 @@
 # Running Design and Research Agenda
 
+## February 10 2025
+ - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
+     - ### Agenda Topics
+         - UX roadmap
+         - Entry point decision for OHI launch
+         - What Lois learned re: IA for FMP + OHI
+         - Thoughts on the latest 1010d OHI Merge
+         - Research Workshop with CHAMPVA partners on OHI/1010d merge
+      
+     - ### Notes
 
 ## January 27 2025
  - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Andrea Merrell, Bo Altes, Premal Shah, Jina Ryu
