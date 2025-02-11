@@ -54,16 +54,16 @@ Task success (B) = Veteran clicks cancel on cancel modal
 ## Post-study Questions
 
 - Please rate your experience today.
-  - Very bad
-  - Somewhat bad
-  - Neither good nor bad
-  - Somewhat good
-  - Very good
+Very good
+Somewhat good
+Neither good nor bad
+Somewhat bad
+Very bad
 
 - How did this exercise change your trust in Veteran Affairs' ability to create user-friendly digital services?
-  - Decreased my trust
-  - Somewhat decreased my trust
-  - Neither increased nor decreased my trust
-  - Somewhat increased my trust
-  - Increased my trust
+Increased my trust
+Somewhat increased my trust
+Neither increased nor decreased my trust
+Somewhat decreased my trust
+Decreased my trust
 
