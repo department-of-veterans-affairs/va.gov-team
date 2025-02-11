@@ -34,7 +34,7 @@ Story points completed: [number of points]
 *Document only notable blockers and/or dependencies that impact high priority work.*
 
 #### OKRs: 
-*If your epic support any of the OCTO OKRs, note the OKRs above the epic title like this; **OKRs:** O2/KR1 - Add 100 more security controls to our AWS Cloud Environment*
+*If your epics or issues support any of the OCTO OKRs, note the OKRs above the epic title like this; **OKRs:** O2/KR1 - Add 100 more security controls to our AWS Cloud Environment*
 
 [Epic title](link)
 - [ ] [Issue title](link)
