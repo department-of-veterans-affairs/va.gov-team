@@ -20,10 +20,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 **PROMPT**: Let's say you are signed into your VA.gov account and you're looking at this page. You submitted a claim a month ago, and you're logging in to check and see if there's been an update.
 
 * Do you know what this page is? If yes, what is it?
-> NOTES
+> Yes, It's a trying decision. I would do Thank you regularly.
 
 * Imagine you’re waiting for this top claim to be decided, and you want to upload evidence. What would you do?
-> NOTES
+> Go to details.
 
 #### Things to watch for:
 
@@ -41,7 +41,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 > NOTES
 
 * Is there anything particularly confusing?
-> NOTES
+> It felt like I was going up instead of down. Yeah, it actually does because it says I submitted on the 15th, but the order is going up. I expected it to go down instead—like the 15th, the 20th, and the 30th in descending order. So, yeah, I was expecting the order to be reversed.
+> And, like I said, it’s a bit confusing because it shows I submitted on the 15th, but you’d expect to see the 15th, the 20th, and the 30th in order going down the line.
 
 * If you wanted to upload evidence to your claim, what would you do?
 > NOTES
@@ -316,7 +317,8 @@ Without clicking anything, take a moment to review the page. Remember to think a
 ## Post-Task Interview - 5 minutes
 
 * Overall, what did you think of what you saw today? Was it clear or confusing?
-> NOTES
+> It was pretty much mainly clear, but it was just a little bit confusing. Like I said, when you upload the documents and they’re not, it seemed like they should go from the down.
+> You know, the way they go, the way it looks is like you’ve got to go down to find out, and then you’ve got to go up instead of just going straight down looking at the dates and stuff. You know, you just go straight down, but the way it’s set up on the page, it’s like you’ve got to go all the way down to the page and then start scrolling up.
 
 * Was there anything specifically helpful?
 > NOTES
