@@ -9,6 +9,15 @@ The online 686c form allows Veterans to add or remove dependents from their VA d
 - 686c annual submission volume: 342,750 (2024)
 - 674 annual submission volume: 73,300 (2024)
 
+## Incident Response
+- Points of Contact
+   - Laura Steele (Product Manager)
+   - Matthew Knight (Engineering Lead)
+   - Sanja Bajovic (OCTO Product Owner)
+- Dashboards for debugging
+   - TBD
+- Engineering readme
+
 ## Vison
 VA’s vision for Dependents Management on VA.gov is to create an accessible, efficient experience for Veterans and their families to manage and verify dependent information. This will ensure appropriate financial calculations and prevent over- (resulting in debt) and under-payments.
 
