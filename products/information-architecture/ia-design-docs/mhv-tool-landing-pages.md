@@ -37,7 +37,8 @@ Notes:
 Notes:
 - The "View your VA lab and test results" page will be merged with the "Get your VA medical records" page.
 - A new page for the MHV on VA.gov portal landing page will be added.
-- Pages within this section of the hub will be reordered based on 1) the portal landing page first 2) page view of the main 4 portal tools and 3) page views of the remaining health tools 4) page views of any additional pages/crosslinks. 
+- Pages within this section of the hub will be reordered based on 1) the portal landing page first 2) page view of the main 4 portal tools and 3) page views of the remaining health tools 4) page views of any additional pages/crosslinks.
+- The sitemap shown does not reflect final page titles. 
 
 ![image of sitemap for health care benefit hub](https://github.com/user-attachments/assets/cd0e7333-fcd9-41f4-92fa-a5437972a2c3)
 
@@ -47,8 +48,8 @@ Notes:
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
 
 
-**1) NEW - MHV on VA.gov portal tool landing page**
-  - URL: TBD
+1) **NEW - MHV on VA.gov portal tool landing page**
+  - URL: www.va.gov/health-care/manage-health/
   - Breadcrumb:
     - Desktop: Va.gov home > [H1 of health care hub page] > [H1 of page]
       - Example: Va.gov home > Health care > Manage your health with My HealtheVet on VA.gov
@@ -57,6 +58,35 @@ Notes:
   - Notes:
     - Will have a sign in widget
 
+2) **REVISED - [Schedule and manage health appointments page](www.va.gov/health-care/schedule-view-va-appointments/)**
+    - Current URL: www.va.gov/health-care/schedule-view-va-appointments/
+    - New URL: www.va.gov/health-care/manage-appointments/
+    - Notes:
+      - Breadcrumb to be updated based on H1 change
+
+3) **REVISED - [Refill and track prescriptions page](www.va.gov/health-care/refill-track-prescriptions/)**
+    - Current URL:  www.va.gov/health-care/refill-track-prescriptions/
+    - New URL: www.va.gov/health-care/manage-prescriptions-medications/
+    - Notes:
+      - Breadcrumb to be updated based on H1 change
+     
+4) **REVISED - [Get VA medical records page](www.va.gov/health-care/get-medical-records/)**
+    - Current URL: www.va.gov/health-care/get-medical-records/ 
+    - New URL: www.va.gov/health-care/review-medical-records/ 
+    - Notes:
+      - Breadcrumb to be updated based on H1 change
+
+5) **REVISED - [Use secure message page](www.va.gov/health-care/secure-messaging/)**
+    - Current URL: www.va.gov/health-care/secure-messaging/
+    - New URL: www.va.gov/health-care/send-receive-messages/
+    - Notes:
+      - Breadcrumb to be updated based on H1 change
+     
+6 **REVISED - [Get travel pay reimbursement page](www.va.gov/health-care/get-reimbursed-for-travel-pay/)**
+    - Current URL: www.va.gov/health-care/get-reimbursed-for-travel-pay/
+    - New URL: TBD
+    - Notes:
+      - Breadcrumb to be updated based on H1 change
 
 
 ## <a name="nav"></a>Entry points<br>
@@ -70,10 +100,10 @@ Notes:
     - PLACEMENT:
       - Placed MHV on VA.gov link as the first option in the list
       - Order of links in section (final link labels TBD):
-        - *Manage your health with My HealtheVet on VA.gov* (New link - URL TBD) 
+        - *Manage your health with My HealtheVet* (Add - Link to www.va.gov/health-care/manage-health/) 
         - Schedule and manage health appointments
         - Refill and track prescriptions
-        - Get VA medical records online
+        - Get VA medical records 
         - Use secure message
         - Get travel pay reimbursement
         - Order medical supplies
@@ -94,7 +124,7 @@ _Any additional key locations that the page should be navigable from. Although t
     - PLACEMENT:
       - Place MHV on VA.gov link as the first option in the list
       -  Order of links in section (final link labels TBD):
-        - *Manage your health with My HealtheVet on VA.gov* (New link - URL TBD) 
+        - *Manage your health with My HealtheVet on VA.gov* (Add - Link to www.va.gov/health-care/manage-health/) 
         - Schedule and manage health appointments
         - Refill and track prescriptions
         - Get VA medical records online
@@ -172,9 +202,13 @@ _Any additional key locations that the page should be navigable from. Although t
 
 Current URL | Redirect to | Notes
 --- | --- | ---
-www.va.gov/health-care/view-test-and-lab-results/ | www.va.gov/health-care/get-medical-records/ | Merging pages
+www.va.gov/health-care/get-medical-records/ | www.va.gov/health-care/review-medical-records/ | Revising H1 and URL
+www.va.gov/health-care/view-test-and-lab-results/ | www.va.gov/health-care/review-medical-records/ | Merging pages
+www.va.gov/health-care/schedule-view-va-appointments/ | www.va.gov/health-care/manage-appointments/ | Revising H1 and URL
+www.va.gov/health-care/refill-track-prescriptions/ | www.va.gov/health-care/manage-prescriptions-medications/ | Revising H1 and URL
+www.va.gov/health-care/secure-messaging/ | www.va.gov/health-care/send-receive-messages/ | Revising H1 and URL
+www.va.gov/health-care/get-reimbursed-for-travel-pay/ | New URL: TBD | Revising H1 and URL
 www.va.gov/health-care/covid-19-vaccine/ | TBD R&S page | This may not be done with this work effort
-
 
 ## <a name="bestbets"></a>Search best bets
 *Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find key content and features that are not ranking search well or competing with similar pages in search results. Existing best bets must be removed or updated when links/URLs change.*
