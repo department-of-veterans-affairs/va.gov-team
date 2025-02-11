@@ -33,10 +33,11 @@ Before we get started a few things I want to go over:
 **Confirmations**
 
 - I want to confirm a few things from the notes I received prior to our session.
+  - During the session we will be asking you to complete a form on VA.gov and provide feedback. While the form is real, you will not be asked to sign in if you do not want to, and completing the form will have no impact on your VA.gov account in any way. Are you comfortable with proceeding?
   - **All participants/** I understand that you are \[searching for/working with] a \[VSO/attorney/claims agent]? Is that correct?
   - **AT participants/** Confirming you are on a \[device] and use \[AT software]? Are you able to use that software in our session today?
 - _If yes;_ Thank you so much for confirming.
-- _If no;_ Thank you for showing up today, but unfortunately we are looking for participants who \[are engaging with representatives]/\[use assistive technology]. Perigean will reach out to you to follow-up, but otherwise I’m going to end our session today. Thank you so much for your time. Have a good day.
+- _If no;_ Thank you for showing up today, but unfortunately we are looking for participants who [are comfortable providing feedback on VA.gov]/[are engaging with representatives]/[use assistive technology]. Perigean will reach out to you to follow-up, but otherwise I’m going to end our session today. Thank you so much for your time. Have a good day.
 
 **Legal**
 
@@ -101,10 +102,11 @@ Thank you for telling me about your experience. We’re going to switch topics t
 - [iPhone screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
 - [Android screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
 
-_Form landing page_
+_Introduction page_
 
 3. We’re going to imagine you’ve recently spoken to an \[attorney/claims agent] and they’ve asked you to fill out this form so they can support you with your claim.
-   1. _Keep in mind, we want to hear your thoughts, so say anything top of mind as you go._
+   1. _Reminder that completing the form will have no impact on your VA.gov account. While completing the form you may enter fake information if you are not comfortable using your personal information._
+   2. _Keep in mind, we want to hear your thoughts, so say anything top of mind as you go._
 4. Take a moment to review the page. What are your initial impressions?
 5. Any information missing that you’d like to see?
 
