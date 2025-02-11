@@ -8,7 +8,7 @@ The new dashboard views with merged SSOe & SiS counts for unique user authentica
 
 ## Findings
 
-**Finding 1:** The authentication counts on the legacy cards, based on SSOe, only don't align with the new cards for authentication counts. Primarily, this is attributable to that the fact that the legacy cards are based on a Splunk query using a distinct count of CSPIDs, whereas the new cards use a distict count by SECID. All CSP login accounts have a CSPID, regardless of whether the account is ID-verified or not, but only ID-verified accounts will be associated to a SECID. 
+**Finding 1:** The authentication counts on the legacy cards, based on SSOe only, don't align with the new cards for authentication counts. Primarily, this is attributable to that the fact that the legacy cards are based on a Splunk query using a distinct count of CSPIDs, whereas the new cards use a distict count by SECID. All CSP login accounts have a CSPID, regardless of whether the account is ID-verified or not, but only ID-verified accounts will be associated to a SECID. 
 
 Querying by CSPID, vs SECID, will include users who have authenticated at IAL1/LOA1. Note: this includes users who authenticated with non-ID-verified accounts, although authenticating at IAL1/LOA1 doesn't mean that the accounts aren't ID-verified. If these users also authenticated with a higher LOA/IAL, then they will be accounted for in the new reports. This latter situation does happen ~2000 times/month per CSP and very frequently for Login.gov (see next finding).  
 
@@ -18,7 +18,7 @@ The query by CSPID is currently not accounting for the following:
 1. Each authentication federation provides a disinct CSPID for same user, i.e. a user will have an authn log with a distinct CSPID for each of ID.me wrapper of MHV versus SSOe to MHV.
 2. Users can have multiple accounts with the same CSP and a distinct CSPID for each. CSPs take steps to prevent this and this is primarily just an issue with DS Logon.
 
-**Finding 2:** The discrepancy for Login.gov is considerably higher than for other CSPs. This was attributed to logins with non-id-verified accounts.  We believe that this is expected based on how the integration between VA.gov-SSOe-Login.gov and how users are up-leveled during the login flow, but would have to confirm this.
+**Finding 2:** The discrepancy for Login.gov is considerably higher than for other CSPs. This was attributed to logins at IAL1.  We believe that this is expected based on how the integration between VA.gov-SSOe-Login.gov and how users are up-leveled during the login flow, but would have to confirm this.
 
 **Finding 3:** There is a known issue where some users have multiple SECIDs and in these cases, the correlation to ICN fails. There are relatively few instances of this issue, ~100/month.  We're not currently attempting to map these to an ICN, so these users aren't accounted for in the new view.
 
