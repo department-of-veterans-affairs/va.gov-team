@@ -60,24 +60,32 @@ Before writing your recruitment criteria, be sure to review the following resour
 We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel sheet saved on the VA network Sharepoint drive.  
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+Total sample size will be 220. Recruitment will be ongoing until all cohorts are filled. 
+
+**Primary criteria (must-haves)**
+
+- Veterans  
+- Must currently receive VA healthcare benefits
+- Must have an active MHV account that they have accessed at least once in the past 12 months 
+
+**Screening questions**
 
 1. Do you have a My HealtheVet (MHV) account? 
 
-a. Yes 
-
-b. No (exclude) 
+	a. Yes 
+	
+	b. No (exclude) 
 
 2. In the past 12 months, how often did you complete one or more of these tasks on VA.gov?  
 Tasks: Refilling prescriptions, scheduling an appointment, reordering medical supplies, sending a message to your doctor 
 
-a. Once a week (recruit 120 between a and b)  
-
-b. Once a month  
-
-c. Once every few months (recruit 100 between c and d)  
-
-d. Once a year 
+	a. Once a week (recruit 120 between a and b)  
+	
+	b. Once a month  
+	
+	c. Once every few months (recruit 100 between c and d)  
+	
+	d. Once a year 
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
