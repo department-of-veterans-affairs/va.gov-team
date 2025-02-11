@@ -19,37 +19,37 @@ _The same script will be used for test A and B. The only difference between test
     - [ ] I had to attend to something else and was interrupted.
     - [ ] Other (please specify): __________
     
-## Task 1: Order a Supply
+## Task 1: Reorder a Supply
 
-### You need to reorder a hearing aid battery. Please complete reordering a hearing aid battery.
-Task success (A and B) = Veteran clicks submit on review page.
-
+- **Task**: Imagine you're running low on hearing aid batteries and need to get more. Please go through the process of reordering a hearing aid battery.
+- **Task success (A and B)** = Veteran clicks submit on review page.
+- **Objective**: To compare the efficiency and intuitiveness of the multistep task pattern (version B) against the old form pattern (version A) in the context of reordering medical supplies, and to understand if this new pattern meets veterans' expectations for completing routine tasks quickly and easily.
 ### Post-task questions
 1. How easy was it to reorder a hearing aid battery using this tool?
 2. Were there any points during the tasks where you felt lost or unsure of what to do next?
 3. How confident did you feel about submitting your medical supply order?
 4. What suggestions do you have to improve this experience?
 
-## Task 2: Order an Unavailable Supply
+## Task 2: Find Instructions for an Unavailable Supply 
 
-### You want to order a supply that is unavailable. How would you do that? You don’t need to submit an order, just find the instructions about how to order an unavailable supply. Once you find it, click "I have completed the task" to answer some follow up questions.
-
-Task success (A) = Veteran lands on select supplies page and clicks "complete task"
-Task success (B) = Veteran lands on "unavailable" view of landing page
-
+- **Task**: You want to order a CPAP tube. Find out how to order a CPAP tube, and click "I have completed the task" to answer some follow up questions.
+- **Task success (A)** = Veteran lands on select supplies page and clicks "complete task"
+- **Task success (B)** = Veteran lands on "unavailable" view of landing page
+- **Objective**: To assess which pattern option (A or B) provides clearer guidance to veterans when encountering unavailable supplies and to gauge if the new pattern aligns with veterans' expectations for handling such situations.
 ### Post-task questions
 1. How easy was it to find your unavailable supplies?
 2. How easy was it to understand that the supply was unavailable to reorder?
 3. How clear are the instructions for what to do if you want to order an unavailable supply?
 
-## Task 3: Cancel a Supply Order
 
-### You begin the process of ordering a hearing aid battery on VA.gov, but you discover that you have extra batteries and decide you no longer need to place the order. Please cancel your in-progress battery order.
-Task success (A) = Veteran clicks back to form intro page
-Task success (B) = Veteran clicks cancel on cancel modal
+## Task 3: Cancel an in-progress Supply Order / exit a task
 
+- **Task**: You begin the process of ordering a hearing aid battery on VA.gov, but you discover that you have extra batteries and decide you no longer need to place the order. Please cancel your in-progress battery order.
+- **Objective**: To evaluate which pattern option (A or B) offers a more straightforward and satisfying cancellation process, contributing to greater trust and satisfaction with the VA's digital patient portal experience.
 ### Post-task questions
 1. How easy was it to cancel your order?
+2. How confident did you feel that you successfully cancelled your medical supply order?
+
 
 ## Post-study Questions
 
