@@ -20,7 +20,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 **PROMPT**: Let's say you are signed into your VA.gov account and you're looking at this page. You submitted a claim a month ago, and you're logging in to check and see if there's been an update.
 
 * Do you know what this page is? If yes, what is it?
-> Yes, It's a trying decision. I would do Thank you regularly.
+> Yes, It's a saying decision and recview. I would do Thank you regularly. you see the claim and compensation. evertyhing. 
 
 * Imagine you’re waiting for this top claim to be decided, and you want to upload evidence. What would you do?
 > Go to details.
@@ -35,17 +35,21 @@ Before we look at the website, let’s start with a few warm-up questions.
 [Have the participant click "Details" on the in-progress claim]
 
 * Tell me what you see here. (Prompt them to scroll up and down.)
-> NOTES
+>  I see where I've claimed. Dec 15th. i see a date, what i claimed, status, files, overview and what I need to do. like it normally does. I see the entire page. 
+> I would scroll down and click files to make sure I have evertying in and everything is covered.
 
 * Is there anything particularly useful?
-> NOTES
+> yea, actually ugh., i can see i'm step 3 of 8 and it tells me the overviw of the process. i see dec 30th I moved to step 3. I would scroll down more. now i would go up to overview. i would tap the overview.
+> just to tsee the process and how far it is and what's it doing. after I check that then i would go to files to see if i have evertyign and not missing everyting. then go to overview to check on evertying. I would just make sure my I's are dotted and T's are crossed. 
 
 * Is there anything particularly confusing?
+> go down some more... yea.. ugh... yea... oh its going up instead of down. 
 > It felt like I was going up instead of down. Yeah, it actually does because it says I submitted on the 15th, but the order is going up. I expected it to go down instead—like the 15th, the 20th, and the 30th in descending order. So, yeah, I was expecting the order to be reversed.
 > And, like I said, it’s a bit confusing because it shows I submitted on the 15th, but you’d expect to see the 15th, the 20th, and the 30th in order going down the line. It's more convenient.
 
 * If you wanted to upload evidence to your claim, what would you do?
-> NOTES
+> ugh... I 'd scroll down to see where I can submit it. (still on the status page). there's no place to submit it.. **note**: he's reading the page. then says.
+> I guess I would go to files to see if iit will let me submit there. 
 
 #### Things to watch for:
 
@@ -63,7 +67,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 [Participant clicks into the Files tab]
 
 * Now tell me what you see here. (Prompt them to scroll up and down.)
-> NOTES
+> ok..yea ook.. claim files.. additional evidence.. ok yea, I can see a lot better. I figured it would be in files. yea. ok yea...
+>  I would keep scrolling down if I dno't have anything to upload. I see they have my documents, cross my T and dot my eye. I see they revieed my files. pending reviewd.  some files haven't been reviewed. that's what I'm looking for. I'm wondering why it haven't been revieed. the copy of DD214 says it wasnt reviewed, that looks like it should be reviewed. . the evided PDF (5103) was reviewed but why hasn't the other stuff been reviewed. I see the other see if the veteran stuff is left pending., tbut the dd214 was left with no review. that was submitted on the 15th but the other file was (5103) was esubmitted on the 16th (of december) that was reviewed why not the other one. Som that's sconfusing.
+> moderator - it sound like you expecting every file say reviewed at soe point?
+> Yea, you would figure it wouldbe more uniform like it'd be check. That would be confusing, because, as you can see right here, it was submitted on the 15th. That hasn’t been reviewed. But the one on the 16th Has got the green mark, and you got the one that’s pending. It doesn’t even say anything about the DD214, except that it was received on December 15th. Yeah, that makes a lot of sense that that will be complete.
 
 * Is there anything that is particularly useful about what you see here?
 > NOTES
@@ -72,7 +79,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 > It felt like I was going up instead of down. Yeah, it actually does because it says I submitted on the 15th, but the order is going up. I expected it to go down instead—like the 15th, the 20th, and the 30th in descending order. So, yeah, I was expecting the order to be reversed. And, like I said, it’s a bit confusing because it shows I submitted on the 15th, but you’d expect to see the 15th, the 20th, and the 30th in order going down the line.
 
 * What steps would you take to add a file to your claim?
-> NOTES
+> Oh, I scroll back up.  OK, I will have load file, upload file. I would select to see what file it is. make sure it's the right file. i would put the file I need and submit. here we go yep. i would go to overwiw or status to see if it was submit just to make sure it's gotten submitted (this is while looking at the confirmation message). He asserts he would look at status. 
 
 
 #### Things to watch for:
@@ -88,10 +95,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 [Participant completes the File upload]
 
 * How would you explain this message to a friend?
-> NOTES
+> > Oh it tell me how to check the document submission. It takes up to two days to receive the document. Yeah, that’s cool. OK, that’s cool.
 
 * If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)
-> NOTES
+> I would click on it—just a second. Yeah, I’d click on it, just to make sure and see what happens. Honestly, I would. OK, so I clicked on it. Alright, now I’ll go to... It’s in progress. It’s received. I’ll scroll down as well. Yeah, just curious. I’m just checking things out, scrolling down a bit more. Scrolling down a bit more. OK, alright. Now, I’ll scroll back up to take another look. Scrolling back up. A little more, one more. OK, I’ll go to "Overview" since I see it’s been submitted. I just wanted to check "Overview" to make sure everything looks right. So, when we clicked this to check the document submission status, it brought us here.
 
 * Is this what you expected to see?
 > NOTES
