@@ -44,12 +44,12 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | UX: Finalization of wizard content mockups and prototypes for research and studies | QP2 |--|--|--|
 | UX: Define UX practice process and vision for 2025 | N/A |--|--|--|
 | UX: Complete one of the prior Medallia reports | QP4 |--|--|--|
-| ENG: | QPX |--|--|--|
-| ENG: | QPX |--|--|--|
-| ENG: | QPX |--|--|--|
+| ENG: Have a clear path for one debt letter by define how the letter will be technically generated | QP1 |--|--|--|
+| ENG: Have an “Alpha” version of the Wizard live on staging | QP2 |--|--|--|
+| ENG: Harden the FSR – Have fewer issues and a higher confidence in data integrity by auditing parameters sent from frontend| N/A |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [ ] Ready to be sent for approvals
+ - [X] Ready to be sent for approvals
  - [ ] VA PO & COR sent the Sprint Goals
  - [ ] VA PO approved the Sprint Goals
  - [ ] VA COR approved the Sprint Goals
