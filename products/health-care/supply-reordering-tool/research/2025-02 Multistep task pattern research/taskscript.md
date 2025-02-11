@@ -42,10 +42,18 @@ _The same script will be used for test A and B. The only difference between test
 3. How clear are the instructions for what to do if you want to order an unavailable supply?
 
 
-## Task 3: Cancel an in-progress Supply Order / exit a task
+## Task 3A: Exit Supply Order
+_For Test A only_
+- **Task**: You begin the process of ordering a hearing aid battery on VA.gov, but you discover that you have extra batteries and decide you no longer need to place the order. Please exit your in-progress order.
+- **Objective**: To evaluate which pattern option (A or B) offers a more straightforward and satisfying exit path, contributing to greater trust and satisfaction with the VA's digital patient portal experience.
+### Post-task questions
+1. How easy was it to exit your order?
+2. How confident did you feel that you successfully exited your medical supply order?
 
+## Task 3B: Cancel an In-progress Supply Order
+_For Test B only_
 - **Task**: You begin the process of ordering a hearing aid battery on VA.gov, but you discover that you have extra batteries and decide you no longer need to place the order. Please cancel your in-progress battery order.
-- **Objective**: To evaluate which pattern option (A or B) offers a more straightforward and satisfying cancellation process, contributing to greater trust and satisfaction with the VA's digital patient portal experience.
+- **Objective**: To evaluate which pattern option (A or B) offers a more straightforward and satisfying exit path, contributing to greater trust and satisfaction with the VA's digital patient portal experience.
 ### Post-task questions
 1. How easy was it to cancel your order?
 2. How confident did you feel that you successfully cancelled your medical supply order?
