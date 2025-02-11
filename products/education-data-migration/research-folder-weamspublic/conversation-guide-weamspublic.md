@@ -63,9 +63,8 @@ Before we head over to the website, let’s start with a few warm-up questions.
 
 1. Do you know where to find WEAMS Public information online?
 2. Are you familiar with WEAMS Public?
-  Weams public is 
-4. Have you ever used WEAMS Public to search for national exams, licenses and certifications or programs within institutions?
-5. Can you tell us your experience?
+3. Have you ever used WEAMS Public to search for national exams, licenses and certifications or programs within institutions?
+4. Can you tell us your experience?
    
 We want your unfiltered, honest opinions so please help us understand your thought process and think out loud as you're working through the tasks. For the first few tasks we will be going through the licenses, certifications and prep courses portion.
 
