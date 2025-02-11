@@ -20,8 +20,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 |UX: Mockup quick reference guide| QPX |--| 2/04/25| Complete |
-|UX: Work with Contact Center to improve Medallia data| QP4 |--|--|--|
-|UX: Complete the Feb Medallia Report| QP4 |--|--|--|
+|UX: Work with Contact Center to improve Medallia data| QP4 |--| 2/011/25 | Complete |
+|UX: Complete the Feb Medallia Report| QP4 |--| 2/011/25 | Complete |
 |ENG: The Digital Dispute process is live on staging| QPX |--| 2/04/25 | Complete |
 |ENG: SharePoint errors have a more descriptive notification and are reported to ENG for analysis| QPX |--|2/07/25|Complete|
 
