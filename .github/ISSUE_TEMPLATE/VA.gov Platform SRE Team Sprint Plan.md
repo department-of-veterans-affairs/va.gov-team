@@ -3,7 +3,7 @@ name: VA.gov Platform SRE Team Sprint Plan
 about: Use this template for creating sprint plans.
 title: "SRE Team Sprint [XX] Plan"
 labels: 
-assignees: 
+assignees: AshleyGuerrant, kflow85, jwoodman5
 ---
 
 ### SRE Team 2025 Vision Roadmap
