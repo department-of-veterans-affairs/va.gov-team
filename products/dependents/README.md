@@ -11,18 +11,19 @@ The online 686c form allows Veterans to add or remove dependents from their VA d
 
 ## Incident Response
 - Points of Contact
-   - Laura Steele (Product Manager)
-   - Matthew Knight (Engineering Lead)
-   - Sanja Bajovic (OCTO Product Owner)
+   - Laura Steele (Product Manager) | laura.steele1@va.gov / laura.steele@coforma.io | steele-lm (github)
+   - Matthew Knight (Engineering Lead) | matthew.knight3@va.gov / matt.knight@coforma.io | mjknight50 (github)
+   - Sanja Bajovic (OCTO Product Owner) | sanja.bajovic2@va.gov | sanjabaj2 (github)
 - Dashboards for debugging
    - TBD
-- Engineering readme
+- Engineering [readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/engineering/README.md)
 
 ## Vison
 VA’s vision for Dependents Management on VA.gov is to create an accessible, efficient experience for Veterans and their families to manage and verify dependent information. This will ensure appropriate financial calculations and prevent over- (resulting in debt) and under-payments.
 
 ## Problem Statement
 Dependent information is used accross many forms and experiences on VA.gov (pension, disability, VA profile, etc.), and there is no unified user experience when interacting with dependency information.
+
 ### Some specific problems of the application:
 - Hasn’t been proven to lead to faster or more accurate decisions.
 - Hasn't validated the proof of concept for the dependent verification MVP (VA Form 21- 0538), which is critical to ensure it offers a more effective experience than the paper form for Veterans and is actionable for both claims adjudicators and automation.
