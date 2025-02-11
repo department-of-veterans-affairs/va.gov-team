@@ -174,7 +174,7 @@ This table includes links to the individual feature directory and the latest ite
 |Yvette Allmond|Management Analyst|Office of Mission Support|yvette.allmond@va.gov | Source for providing unlocked pdf files that can be edited by VA.gov.|
 
 #### Reoccuring Stakeholders Meetings
-- Bi-weekly Dependents Design Sync with Kevin, design/research, product, and VA Leads
+- [Bi-weekly Dependents Design Sync](https://dsva.slack.com/docs/T03FECE8V/F0839KD75K8) with Kevin, design/research, product, and VA Leads
 - Bi-weekly Product Sync with VA Leads, product manager, and delivery lead
 - Weekly engineering sync with VA Engineering Crew Lead and team Engineering Lead
 - [Weekly design sync](https://dsva.slack.com/docs/T03FECE8V/F0839KD75K8) with VA Design Crew Lead, team design/researchers, product manager
