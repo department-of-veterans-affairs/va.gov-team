@@ -32,7 +32,8 @@ Task success (A and B) = Veteran clicks submit on review page.
 
 ## Task 2: Order an Unavailable Supply
 
-### You want to order a supply that is unavailable. How would you do that? You don’t need to submit an order, just describe how you would order an unavailable supply using the prototype provided.
+### You want to order a supply that is unavailable. How would you do that? You don’t need to submit an order, just find the instructions about how to order an unavailable supply. Once you find it, click "I have completed the task" to answer some follow up questions.
+
 Task success (A) = Veteran lands on select supplies page and clicks "complete task"
 Task success (B) = Veteran lands on "unavailable" view of landing page
 
