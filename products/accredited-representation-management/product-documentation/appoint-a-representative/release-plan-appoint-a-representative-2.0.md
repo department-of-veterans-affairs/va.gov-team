@@ -25,6 +25,7 @@ The following will take place right before Staged Rollout:
 #### Go/No Go meeting TBD
 - [ ] review the release plan with your team.
 - [ ] review the plan with your OCTO representative.
+- [ ] test the 2.0 flow with Kevin Schneider / Sam Raudabaugh ❓
 
 **Verdict:TBD**
 
