@@ -16,9 +16,9 @@ Feature Toggle/flag:
 
 #### Technical Preparation
 The following will take place right before Staged Rollout:
-- [ ] Enable digital submissions for Connecticut Department of Veterans Affairs in Production #101542
-- [ ] Enable digital submission email confirmation in VA Notify Production #101050
-- [ ] Enable expiration email notifications in VA Notify Production #100841
+- [ ] Enable digital submissions for Connecticut Department of Veterans Affairs in Production [#101542](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101542)
+- [ ] Enable digital submission email confirmation in VA Notify Production [#101050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101050)
+- [ ] Enable expiration email notifications in VA Notify Production [#100841](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100841)
 
 #### Go/No Go meeting TBD
 - [ ] review the release plan with your team.
