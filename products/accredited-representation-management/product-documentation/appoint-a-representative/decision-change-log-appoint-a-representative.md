@@ -66,6 +66,9 @@ _Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https:
   _Decided in the Accredited Reps Crew Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F06H1TS0GBZ?focus_section_id=temp:C:IdV200e5a0b60b74fb5bc5018e80))._
 - **1/16/2025**: Confirmed the representative phone number is not required for processing a 21-22a.\
   _Confirmed by stakeholder Jenny Rosenau (Compensation Services) in email "21-22/21-22a Required Fields?"._
+- **1/29/2025**: Decided to require the Veteran phone number for users on the digital submission pathway, to ensure they receive post-submission email notifications.\
+  _Decided in the Accredited Reps Crew Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F06H1TS0GBZ?focus_section_id=temp:C:IdV9887da248f544e67a28e669f3))._
+
 
 
   
