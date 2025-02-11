@@ -85,6 +85,16 @@ body:
       value: |
         Please refer to the guidance on the [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff) page on Platform Website for detailed information and examples regarding these questions (below).
   - type: dropdown
+    id: mobile-web
+    attributes:
+      label: Where will your product live?
+      description: If you are building a product for VA.gov and the VA Mobile App then you must bring the product through the Collaboration Cycle twice, once for each domain.
+      options:
+        - "VA.gov"
+        - "VA Mobile App"
+    validations:
+      required: true
+  - type: dropdown
     id: visible-changes
     attributes:
       label: Will your work result in visible changes to the user experience?
