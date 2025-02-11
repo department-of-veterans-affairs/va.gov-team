@@ -16,13 +16,9 @@ Feature Toggle/flag:
 
 #### Technical Preparation
 The following will take place right before Staged Rollout:
-- [ ] Wrap the product in the frontend feature toggle `appoint_a_representative_enable_frontend` [#99874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99874) ❓
-- [ ] Enable the application in Production [#99874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99874)
-- [ ] Enable backend feature flag `appoint_a_representative_enable_2.0_features`
 - [ ] Enable digital submissions for Connecticut Department of Veterans Affairs in Production #101542
 - [ ] Enable digital submission email confirmation in VA Notify Production #101050
 - [ ] Enable expiration email notifications in VA Notify Production #100841
-- [ ] Anything else ❓
 
 #### Go/No Go meeting TBD
 - [ ] review the release plan with your team.
