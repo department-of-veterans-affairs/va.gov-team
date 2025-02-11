@@ -34,7 +34,8 @@ The following will take place right before Staged Rollout:
 - Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed above)
 
 **Rollout date range: March 11, 2025**
-1. Stage A: 100% of users on March 11 (Tuesday) + implement Datadog monitoring in Production [#99975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99975)
+1. Stage A: Enable for Kevin Schneider and Sam Raudabaugh ❓
+2. Stage B: 100% of users on March 11 (Tuesday) + implement Datadog monitoring in Production [#99975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99975)
 
 ***
 
