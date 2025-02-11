@@ -43,7 +43,7 @@ Patients that are treated at an EHRM transitioned facility will be asked to sele
 - Kickoff ticket
 
 ### Timeline 
-- **March 2025**: basic messaging functionality (view, reply, compose) is integrated with EHRM/Oracle Health at the MHV backend level**
+- **March 2025**: basic messaging functionality (view, reply, compose) is integrated with EHRM/Oracle Health at the MHV backend level
 - **After March 2025**: VA.gov messages tool makes changes described in this brief so users can select and send messages to EHRM recipients.
 
 #### Initiative Launch Dates
