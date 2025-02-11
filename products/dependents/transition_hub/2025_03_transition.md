@@ -116,6 +116,7 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 - [Migrate to RESTful APIs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91282)
 - Determine why submission and saved dates do not match MyVA. ([submission date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101056) and [saved date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101040))
 - Work with Infrastructure and Arcitecture team to [improve findability of forms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102744) (initial AI work in [GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/verify-dependents.md) and [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689863079145/5b97ba9ea11077f983f3413167f6324f11aa04a8))
+- Create [analytics dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102886) to better understand user and form behavior
 
 ### Future
 - Add the ability to [download a pdf of the submitted claim](https://github.com/orgs/department-of-veterans-affairs/projects/1237/views/13?sliceBy%5Bvalue%5D=ND%2FD+ZSF+%7C+Stage+5+%28Confirmation+page+full+update%29) from the confirmation page (as part of the Zero Silent Failure initiative). This work was put on hold until another team implements a solution.
