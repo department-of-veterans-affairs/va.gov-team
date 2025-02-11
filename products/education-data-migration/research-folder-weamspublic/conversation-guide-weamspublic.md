@@ -98,7 +98,7 @@ We want your unfiltered, honest opinions so please help us understand your thoug
 3. What would you do if you wanted to see if this license (if they selected license) was in your state?
 4. What would you do if you wanted to see if there were any licenses or prep courses (if they selected certification) available for this license/certification name?
 5. Do the details within this particular license or certification provide what you're looking for?
-6. On a scale of 1-5, 1 being easy and 5 being difficult, rate your overall experience on the steps you took to get to this page. Please explain why you feel that way.
+6. On a scale of 1-5, 1 being easy and 5 being difficult, rate your overall experience on the steps you took to get to this page. Can you tell me why you feel that way?
 
 ## Third Task: [Series of scenarios for functional review] - 10 minutes
 ### No results found scenario
@@ -118,7 +118,7 @@ We want your unfiltered, honest opinions so please help us understand your thoug
 - Find the Life Insurance Test and tell me the fee cost.
 
 **Questions:**
-1.  On a scale of 1-5, 1 being easy and 5 being difficult, rate your your experience in navigating to the Life Insurance Test fee cost.
+1.  On a scale of 1-5, 1 being easy and 5 being difficult, rate your your experience in navigating to the Life Insurance Test fee cost. Can you tell me why you feel that way?
 2.  What is your first impression of the list?
 
 Now we are going to go through the national exams section.
@@ -136,7 +136,7 @@ Now we are going to go through the national exams section.
 2. If you wanted to find out how to get reimbursed, how would you do that?
 3. What are the total number of exams displayed?
 4. Can you locate the SAT-scholastic assessment test?
-5. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate the overall ease or diffiuclty in completing the steps you just took?
+5. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate the overall ease or diffiuclty in completing the steps you just took. Can you tell me why you feel that way?
 
 ## Fifth Task: [National exams details page review] - 5 minutes
 - Select an exam that you are interested in and take a moment to review it. Please let me know when you are finished.
@@ -150,7 +150,7 @@ Now we are going to go through the national exams section.
 1. What's your first impression of this page?
 2. Do you find the content to be useful?
 3. If you wanted to move forward in taking this exam, what would you do next?
-4. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate the overall ease or diffiuclty in completing the steps you just took?
+4. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate the overall ease or diffiuclty in completing the steps you just took. Can you tell me why you feel that way?
 
 Now we are going to go through the programs section.
 ## Sixth Task: [Programs section] - 3 minutes
@@ -163,7 +163,7 @@ Now we are going to go through the programs section.
 - [Etc]
   
 **Questions:**
-1. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate your experience in finding the programs section?
+1. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate your experience in finding the programs section. Can you tell me why you feel that way?
 
 ## Seven Task: [Program type section] - 7 minutes
 - Now I'd like for you to select the Institution of Higher Learning program type 
@@ -176,14 +176,14 @@ Now we are going to go through the programs section.
 - [Etc]
   
 **Questions:**
-1. On a scale of 1-5, 1 being easy and 5 being difficult, rate your experience in searching for a program.
+1. On a scale of 1-5, 1 being easy and 5 being difficult, rate your experience in searching for a program. Can you tell me why you feel that way?
 2. Did the results give you what you're looking for?
 3. Do you find these abbreviaitions to be useful?
 4. If the user encountered an error message, ASK: did you find the error message to be helpful? If no, what would you like it to say instead?
 5. If the user did not encounter an error message, ask them reset search and type in "event planning"
      a. Did you find the error message to be helpful? If no, what would you like it to say instead?
 - Go into the flight program type and look for PPIL 295 Tailwheel Transition
-6. On a scale of 1-5, 1 being easy and 5 being difficult, how was your experience navigating to another program type?
+6. On a scale of 1-5, 1 being easy and 5 being difficult, how was your experience navigating to another program type. Can you tell me why you feel that way?
 
 
 ## Post-Task Interview - 5 minutes
