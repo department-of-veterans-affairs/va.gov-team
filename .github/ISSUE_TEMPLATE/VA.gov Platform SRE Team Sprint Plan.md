@@ -43,13 +43,13 @@ Story points completed: [number of points]
 - [ ] [Issue title](link)
 
 
-DevOps CoP (*link to list of work with devops cop labels*)
+Frontend CoP (*link to list of work with devops cop labels*)
 
 
 
 - [ ] [Issue title](link)
 
-Certificate Renewals (*link any cert. renewals planned or completed during the sprint*)
+Backend CoP (*link to list of work with devops cop labels*)
 
 
 
