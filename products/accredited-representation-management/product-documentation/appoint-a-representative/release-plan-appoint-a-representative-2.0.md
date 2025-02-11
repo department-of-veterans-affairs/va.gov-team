@@ -30,6 +30,14 @@ The following will take place right before Staged Rollout:
 
 **Verdict:TBD**
 
+## Staged Rollout Details
+
+- Limited production access to the v2 features of Appoint a Representative will be controlled through the frontend feature toggle `appoint_a_representative_enable_v2_features`
+- Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed above)
+
+**Rollout date range: March 11, 2025**
+1. Stage A: 100% of users on March 11 (Tuesday) + implement Datadog monitoring in Production [#99975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99975)
+
 ***
 
 ## Rollback Process
@@ -51,18 +59,6 @@ While we cannot think of any events that would be critical enough to merit a rol
 4. Follow up in the Slack alert thread with a link to the ticket
 
 ***
-
-
-## Staged Rollout Details
-**Rollout date range: March 11, 2025**
-- Limited production access to the v2 features of Appoint a Representative will be controlled through the frontend feature toggle `appoint_a_representative_enable_v2_features`
-- Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed above)
-
-## Staged Rollout Schedule
-**Go/No Go meeting TBD**
-1. Stage A: 100% of users on March 11 (Tuesday) + implement Datadog monitoring in Production [#99975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99975)
-
-*** 
 
 ### Staged Rollout Metrics
 
