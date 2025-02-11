@@ -90,7 +90,7 @@ We want your unfiltered, honest opinions so please help us understand your thoug
 - Go ahead and select a category type and enter in a license and certification name that you're interested in (Ask question 1)
 - Please hit submit
 - Walk me through what you see and think out loud while you're reviewing this search results page (Ask question 2-4)
-- Please go ahead and make a selection from the results that you see. (Ask question 5)
+- Please select view test amount details for your license or certification (Ask question 5)
 
 **Questions:** 
 1. Did the dropdown that appeared while you were typing the license/certification name give you the options that you would expect?
