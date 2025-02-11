@@ -42,7 +42,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 * Is there anything particularly confusing?
 > It felt like I was going up instead of down. Yeah, it actually does because it says I submitted on the 15th, but the order is going up. I expected it to go down instead—like the 15th, the 20th, and the 30th in descending order. So, yeah, I was expecting the order to be reversed.
-> And, like I said, it’s a bit confusing because it shows I submitted on the 15th, but you’d expect to see the 15th, the 20th, and the 30th in order going down the line.
+> And, like I said, it’s a bit confusing because it shows I submitted on the 15th, but you’d expect to see the 15th, the 20th, and the 30th in order going down the line. It's more convenient.
 
 * If you wanted to upload evidence to your claim, what would you do?
 > NOTES
