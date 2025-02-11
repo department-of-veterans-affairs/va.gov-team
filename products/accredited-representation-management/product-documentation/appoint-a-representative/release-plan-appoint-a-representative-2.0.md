@@ -4,7 +4,9 @@
 ### Development
 
 Feature Toggle/flag:
-`appoint_a_representative_enable_v2_features` will be disabled prior to staged rollout and will be enabled to an increasing % of users during the staged rollout. This will control visibility of both our Appoint a Representative product and it's related entry point on the CAIA landing page
+`appoint_a_representative_enable_v2_features` will be disabled prior to staged rollout and will be enabled as part of the 2.0 rollout. 
+
+This feature toggle is setup for authenticated users and we can also enable early access in Production to individual users, via email address.
 
 ### Validation
 
