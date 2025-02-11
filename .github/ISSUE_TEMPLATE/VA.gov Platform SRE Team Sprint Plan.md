@@ -30,7 +30,11 @@ Story points completed: [number of points]
 
 *If you did not plan or complete work under any of the specific sections below, write *N/A* in place of an issue title. If you do not have any standalone epic work, remove that section.*
 
+#### Blockers / Dependencies
+*Document only notable blockers and/or dependencies that impact high priority work.*
 
+#### OKRs: 
+*if your epic support any of the OCTO OKRs, note the OKRs above the epic title like this; **OKRs:** O2/KR1 - Add 100 more security controls to our AWS Cloud Environment*
 
 [Epic title](link)
 - [ ] [Issue title](link)
