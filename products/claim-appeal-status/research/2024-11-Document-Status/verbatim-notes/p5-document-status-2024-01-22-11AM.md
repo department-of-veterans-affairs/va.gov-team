@@ -171,14 +171,20 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 **PROMPT**: Now, we're going to imagine that the VA has requested evidence from you.
 
+> yea i would be trying to figure out what they're requesting. I would go to details.
+
 * What do you think this alert is communicating?
-> NOTES
+> I'm missing something... then its teling me, after I review it, it's going to go away. Where woudl it go to? Do I get a copy of it?
+> Mod: what are you reffring to as it?
+> the essage that is up there. but my cliam details.. after we finishing reviewing your response. What response? That's why I would go to details to try to figure out. But I would be scare to go to details because i might erase something. its confusing
+> Mode: this part goes away is confusing and the word response?
+> yea, are they talking about the whole blue (referring to the blue alert). or will the request go way? what will go away?
 
 * Based on the text in this alert, when you upload your file, when do you expect the alert to disappear?
-> NOTES
+> Moderator explained what the message meant
 
 * If you want to know more about this request, what would you do?
-> NOTES
+> moderator direct participant to the new page
 
 #### Things to watch for:
 
@@ -191,9 +197,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 ### Part 2 B: Status page - open request - 5 minutes
 
 [Click on "Details"]
+> ok in progress.. ok scroll up.. authorization to disclose information... read that... go to details. i would automatically go to details
 
 * Describe to me what this alert is communicating?
-> NOTES
+> It needs my permission to get information from non-VA sources. yea that's understandable. I would go to details to see what more you need from private sources. 
 
 * What pieces of information would you say are important to you on this page?
 > NOTES
@@ -207,12 +214,16 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 * Describe what you’re seeing here. Remember to think aloud as you do.
 > NOTES
-
 * In your own words, how would you describe what's being communicated?
-> NOTES
+> Its asking records from private medical doctors, personal informaiton, medical treatm, psychotherapy.. yea that makes sense.
+> what does that say about VA form? is it going to tell me about it or is that what I can download?
+> Mod: what's your instncts
+> its just goign to tell me about the form. it doens't tell me about to download it. It's about thhe form but it's not the form.
+> Mod: OK, so it so it sounds as though you're saying that this link will take you to read more about the form, but it doesn't necessarily tell you you're about to download the form.
+> well you see it says you the "download the form to fill it otu online but the link suggests it will just tell me about it. but I would click the link anyway to see. 
 
 * If you wanted to upload your response, how would you go about it?
-> NOTES
+> I would scroll down to tsee if there's aplace i can upload it. Yea, I would choose from this folder. if i have the form downloaded, i would fill it out do whatever I hav eto do. then upload it. 
 
 When the participant see the pre-populated upload file remind them: 
 
@@ -221,9 +232,18 @@ When the participant see the pre-populated upload file remind them:
 ### Part 2 D: Confirmation for tracked item - 15 minutes
 
 [Participant completes the File upload]
+see when the submission started Jan 19, 20205. I see it is in progress. and chlick "check the status" just to check it. 
 
 * If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)
-> NOTES
+> OK, I see it's documented. The submission started on January 19, 2025. I'd click checked the status of the document. I know it's in progress. I'm telling you, I would just checked. I'm pretty sure I'm not the only one who would say that, but I would definitely check as well.
+> Mod: Alright, so I'll go ahead and click that for you.
+> OK, scroll down and see what happened—if any evidence was added or anything else after all.
+> Mod: Oh, sorry, did I scroll down too quickly?
+> No, no, you're good. You're right where I need you to be (looking at the "submissions in progress" section on the files page).
+> And that's what I'm looking for—to make sure the authorization for release of information is in there. that's the main thing I'd be looking for. 
+> i see the otner forms down there (document recevied section) it says pending. Yes, its stil lconfusing, those files were submitted but it looks like they reviewed one thing and those files are just stiting there.
+> ok scroll down let's see if there's more I can do. then scroll up at the top. I would go to overview to check eveyrthing. I's are dotted T's are crossed. I would go to status. then files, scroll down to see if its still in progress.
+> the only thing that would confusing me (in document status) that green check mark is confusing me. I would think other people will think that as well.i 'm looking at the green check mark and wondering why the other files dont have anything.
 
 [Click on the alert, "Check the status of your document submission"]
 
