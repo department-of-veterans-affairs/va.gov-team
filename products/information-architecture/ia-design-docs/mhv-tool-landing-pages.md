@@ -226,18 +226,13 @@ www.va.gov/health-care/covid-19-vaccine/ | TBD R&S page | This may not be done w
 ## <a name="bestbets"></a>Search best bets
 *Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find key content and features that are not ranking search well or competing with similar pages in search results. Existing best bets must be removed or updated when links/URLs change.*
 
+**Best bet work is still in progress.**
+
 **1. Best bet for [page name]** - 
 - Destination page:
 - Additional keywords:
 
-## <a name="launch"></a>Launch coordination <br>
-*Communication when preparing for launch is critical to ensuring all supporting content, links, and messaging are implemented in a timely manner to ensure a good experience. Missing any of these steps can result in findability challenges, incorrect or misleading information, duplicate content, etc. *
 
-Key task | Responsibility | When to complete | Additional info
---- | --- | --- | ---
-Communicate date of staging review | | Once scheduled |
-Submit redirect request | | at least 2 weeks prior to implementation | 
-Communicate launch date | | |
 
 
 
