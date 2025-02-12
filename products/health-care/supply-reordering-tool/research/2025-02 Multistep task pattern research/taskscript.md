@@ -28,7 +28,6 @@ _The same script will be used for test A and B. The only difference between test
 1. How easy was it to reorder a hearing aid battery using this tool?
 2. Were there any points during the tasks where you felt lost or unsure of what to do next?
 3. How confident did you feel about submitting your medical supply order?
-4. What suggestions do you have to improve this experience?
 
 ## Task 2: Edit email address
 - **Task**: Imagine you want to order hearing aid batteries again, but this time with a new email address. Please go through the process of reordering a hearing aid battery again, but update your email address to newemail@gmail.com, then complete your order.
@@ -69,6 +68,8 @@ _For Test B only_
 
 ## Post-study Questions
 
+- What suggestions do you have to improve this experience?
+  
 - Please rate your experience today.
 Very good
 Somewhat good
