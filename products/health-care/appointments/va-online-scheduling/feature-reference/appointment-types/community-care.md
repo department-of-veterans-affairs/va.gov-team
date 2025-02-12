@@ -38,22 +38,37 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 \* See: [Treatment Specialty](../../../appointments-reference/data-reference/data-definitions.md#treatment-specialty)
 
 \*\* 03/18/2024 - We currently don't receive modality information for scheduled community care appointments, so we have to assume they could be telehealth or in-person. In the future we would like to show this information.
-  
+
+### Empty States and Alerts
+
+From [ticket 69852](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69852#issuecomment-2566736403): We retrieve the appointment information using one of the following calls:
+
+- From appointment list: `/vaos/v2/appointments?_include=facilities,clinics&start={today-120}&end={today+1}&statuses[]=proposed&statuses[]=cancelled` and `/vaos/v2/appointments?_include=facilities,clinics&start={today-30}&end={today+395}&statuses[]=booked&statuses[]=arrived&statuses[]=fulfilled&statuses[]=cancelled`
+- From appointment details page: `/vaos/v2/appointments/${id}?_include=facilities,clinics,avs`
+
+Data points:
+
+| Role | Section name | Source field name | Empty state logic |
+| - | - | - | - |
+| Appointment date and time | When | `appt.localStartTime` | Start time always populated |
+| Type of Care | What | `appt.serviceType` | Do not display if not available. |
+| Provider Name | Provider | `appt.practitioners[0].name` | Display "Provider information not available" if not available. |
+| Treatment Specialty | Provider | `appt.extension.ccTreatingSpecialty` | Display "Treatment specialty not available" if not available. |
+| Provider Address | Provider | `appt.extension.ccLocation.address` | Display "Address not available" if not available. |
+| Provider Phone | Provider | `appt.extension.ccLocation.telecom` | Do not display if not available. |
+| Veteran Reason For Appointment | Details you shared with your provider | `appt.patientComments` | Display "Not available" if not available. | 
+
+     
+ 
+
 ## Specifications
 
-**User flows:**
-- [Upcoming](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2019-19997&t=lDUJykyhV8NRJ2zc-4)
-[Past](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=127-22836&t=lDUJykyhV8NRJ2zc-4)
+**User flows**
+- [Upcoming appointments](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-2925&t=kDXwMWn2YUhVmLLB-4)
+- [Past appointments](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-3497&t=kDXwMWn2YUhVmLLB-4)
 
-**UI design specs:**
-- [Upcoming](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-27418&mode=design&t=wI89URYZ1M74WWRP-4)
-- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-27430&mode=design&t=wI89URYZ1M74WWRP-4)
-- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-27442&mode=design&t=wI89URYZ1M74WWRP-4)
-
-**Page content:**
-- [Upcoming](../../content/appointment-details.md#cc-appointment---upcoming)
-- [Past](../../content/appointment-details.md#cc-appointment---past)
-- [Canceled](../../content/appointment-details.md#cc-appointment---canceled)
+**UI design specs**
+[Community care details pages](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-114180&t=gPsyz7IrtgxZbZss-4)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
@@ -69,19 +84,6 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 
 [All events VAOS tracks](Link TBD)
 
-## Alerts and conditional states
-<!-- Any alerts that could display for this feature and what triggers them. -->
-
-### [Alert description]
-<!-- Add a new section for each alert -->
-
-**Alert trigger**
-[Description of what causes this alert to display]
-
-**Alert UI**
-- [User flow](Add link)
-- [State template](Add link)
-- [State content](Add link)
 
 ## Technical design
 <!-- Endpoints and sample responses -->

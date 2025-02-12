@@ -26,6 +26,8 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
 **Appointments displayed**
 
 Display future booked appointments in the upcoming list: 
+- Display appointments when they are created
+     - `vaos service` updates the appointment list in real time. On the FE, we call the appointment list endpoint to pull the latest list after appointment creation.
 - Display telehealth the appointments in the upcoming list for 240 mins / 4hours after start time 
 - Display non-telehealth appointments in the upcoming tab for 60 mins after the start time.
     - Once these timeframes have passed, display these appointments in the past list
@@ -173,7 +175,7 @@ Generic error when appointment list can't be displayed due to:
 
 To see the current api responses:
 - Navigate to the [vets-api swagger](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/)
-- Search for `https://api.va.gov/vaos/v2/apidocs`
+- Search for or paste this url in the explore bar `https://api.va.gov/vaos/v2/apidocs`
 
 <details>
   <summary>Sample response</summary>
@@ -214,94 +216,163 @@ To see the current api responses:
                 "display": "REGULAR"
               }
             ],
-            "text": "REGULAR"
-          }
-        ],
-        "patientIcn": "<ICN>",
-        "locationId": "983",
-        "clinic": "437",
-        "start": "2023-03-15T20:00:00Z",
-        "end": "2023-03-15T20:30:00Z",
-        "created": "2023-03-17T00:00:00Z",
-        "requestedPeriods": [
-          {
-            "start": "2023-03-15T00:00:00Z",
-            "end": "2023-03-15T00:00:00Z"
-          }
-        ],
-        "cancellable": true,
-        "extension": {
-          "ccLocation": {
-            "address": {}
-          },
-          "vistaStatus": [
-            "NO ACTION TAKEN"
-          ]
-        },
-        "serviceName": "CHY VISUAL FIELD",
-        "friendlyName": "VISUAL FIELD",
-        "location": {
-          "id": "983",
-          "type": "appointments",
-          "attributes": {
-            "id": "983",
-            "vistaSite": "983",
-            "vastParent": "983",
-            "type": "va_facilities",
-            "name": "Cheyenne VA Medical Center",
-            "classification": "VA Medical Center (VAMC)",
-            "timezone": {
-              "timeZoneId": "America/Denver"
-            },
-            "lat": 39.744507,
-            "long": -104.830956,
-            "website": "https://www.denver.va.gov/locations/directions.asp",
-            "phone": {
-              "main": "307-778-7550",
-              "fax": "307-778-7381",
-              "pharmacy": "866-420-6337",
-              "afterHours": "307-778-7550",
-              "patientAdvocate": "307-778-7550 x7517",
-              "mentalHealthClinic": "307-778-7349",
-              "enrollmentCoordinator": "307-778-7550 x7579"
-            },
-            "physicalAddress": {
-              "type": "physical",
-              "line": [
-                "2360 East Pershing Boulevard"
+            "text": "REGULAR",
+            "reasonCode": {
+              "coding": [
+                {
+                  "code": "Routine Follow-up"
+                }
               ],
-              "city": "Cheyenne",
-              "state": "WY",
-              "postalCode": "82001-5356"
+              "text": "string"
             },
-            "mobile": false,
-            "healthService": [
-              "Audiology",
-              "Cardiology",
-              "DentalServices",
-              "EmergencyCare",
-              "Gastroenterology",
-              "Gynecology",
-              "MentalHealthCare",
-              "Nutrition",
-              "Ophthalmology",
-              "Optometry",
-              "Orthopedics",
-              "Podiatry",
-              "PrimaryCare",
-              "SpecialtyCare",
-              "UrgentCare",
-              "Urology",
-              "WomensHealth"
-            ],
-            "operatingStatus": {
-              "code": "NORMAL"
+            "priority": 0,
+            "patientIcn": "<ICN>",
+            "locationId": "983",
+            "clinic": "437",
+            "serviceName": "CHY VISUAL FIELD",
+            "friendlyName": "VISUAL FIELD",
+            "location": {
+              "id": "983",
+              "type": "appointments",
+              "attributes": {
+                "id": "983",
+                "vistaSite": "983",
+                "vastParent": "983",
+                "type": "va_facilities",
+                "name": "Cheyenne VA Medical Center",
+                "classification": "VA Medical Center (VAMC)",
+                "timezone": {
+                  "timeZoneId": "America/Denver"
+                },
+                "lat": 39.744507,
+                "long": -104.830956,
+                "website": "https://www.denver.va.gov/locations/directions.asp",
+                "phone": {
+                  "main": "307-778-7550",
+                  "fax": "307-778-7381",
+                  "pharmacy": "866-420-6337",
+                  "afterHours": "307-778-7550",
+                  "patientAdvocate": "307-778-7550 x7517",
+                  "mentalHealthClinic": "307-778-7349",
+                  "enrollmentCoordinator": "307-778-7550 x7579"
+                },
+                "practitioners": [
+                  {
+                    "identifier": [
+                      {
+                        "system": "string",
+                        "value": "string"
+                      }
+                    ],
+                    "name": {
+                      "family": "string",
+                      "given": [
+                        "string"
+                      ]
+                    },
+                    "address": {
+                      "type": "postal",
+                      "line": [
+                        "string"
+                      ],
+                      "city": "string",
+                      "state": "string",
+                      "postalCode": "string",
+                      "country": "string",
+                      "text": "string"
+                    }
+                  }
+                ],
+                "start": "2024-10-11T17:47:03.902Z",
+                "localStartTime": "2024-10-11T17:47:03.902Z",
+                "end": "2024-10-11T17:47:03.902Z",
+                "minutesDuration": 0,
+                "slot": {
+                  "id": "string",
+                  "start": "2024-10-11T17:47:03.902Z",
+                  "end": "2024-10-11T17:47:03.902Z"
+                },
+                "created": "2024-10-11T17:47:03.902Z",
+                "preferredLocation": {
+                  "city": "string",
+                  "state": "string"
+                },
+                "requestedPeriods": [
+                  {
+                    "start": "2024-10-11T17:47:03.902Z",
+                    "localStartTime": "2024-10-11T17:47:03.902Z",
+                    "end": "2024-10-11T17:47:03.902Z"
+                  }
+                ],
+                "contact": {
+                  "telecom": [
+                    {
+                      "type": "email",
+                      "value": "string"
+                    }
+                  ]
+                },
+                "preferredTimesForPhoneCall": [
+                  "Morning"
+                ],
+                "cancelationReason": {
+                  "coding": [
+                    {
+                      "code": "Routine Follow-up"
+                    }
+                  ],
+                  "text": "string"
+                },
+                "description": "string",
+                "comment": "string",
+                "preferredLanguage": "string",
+                "cancellable": true,
+                "patientInstruction": "string",
+                "telehealth": {
+                  "url": "string",
+                  "group": "string",
+                  "vvsKind": "string",
+                  "atlas": {
+                    "siteCode": "string",
+                    "confirmationCode": "string",
+                    "address": {
+                      "streetAddress": "string",
+                      "city": "string",
+                      "state": "string",
+                      "zipCode": "string",
+                      "country": "string",
+                      "latitutde": 0,
+                      "longitude": 0,
+                      "additionalDetails": "string"
+                    }
+                  }
+                },
+                "extension": {
+                  "desiredDate": "2024-10-11T17:47:03.902Z",
+                  "ccLocation": {
+                    "practiceName": "string",
+                    "address": {
+                      "type": "postal",
+                      "line": [
+                        "string"
+                      ],
+                      "city": "string",
+                      "state": "string",
+                      "postalCode": "string",
+                      "country": "string",
+                      "text": "string"
+                    }
+                  },
+                  "ccRequestedCancellation": true
+                },
+                "preferredProviderName": "string",
+                "avsPath": "string"
+              }
             }
           }
-        }
+        ]
       }
-    },
-    
+    }
   ],
   "meta": {
     "pagination": {

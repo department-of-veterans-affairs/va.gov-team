@@ -1,6 +1,6 @@
 # My VA Health Care Inbox Link (with dot indicator) Frontend Documentation
 
-**Last updated:** May 6, 2024 - added VA-icon name
+**Last updated:** September 19, 2024 - added technical implementation details
 
 This document outlines specs for the link to access the health care secure messaging inbox within the Health Care section on My VA. For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
 
@@ -50,3 +50,10 @@ Use VA-icon `forum` for icon
 #### Content
 
 [Go to your inbox](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
+
+## Technical Implementation
+_how does this feature actually work - i.e. what endpoints are being called, who own those endpoints, what team(s) should be consulted if changes are needed or something breaks, etc._
+
+| Determining unread messages count | Implemented on | Docs updated on |
+| -- | -- | -- |
+| <ol><li>Check if `user` state includes `messaging` backend service</li><li>If yes, then [fetch unread messages](https://github.com/department-of-veterans-affairs/vets-website/blob/3d332cb34a7c95ff357486d5f1ae1610d60e323f/src/applications/personalization/dashboard/actions/messaging.js#L32-L49) (which calls the [countUnreadMessages](https://github.com/department-of-veterans-affairs/vets-website/blob/3c13374c725d5733a1df2522b861764db77d0b64/src/applications/personalization/dashboard/utils/helpers.js#L47-L61) function)</li></ol> We are grabbing the `unread_count` value from the `/my_health/v1/messaging` API endpoint. | October 2023 | September 2024 |

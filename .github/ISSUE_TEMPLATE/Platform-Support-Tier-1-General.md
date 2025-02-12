@@ -1,7 +1,7 @@
 ---
 name: Platform Support Tier 1
 about: Base template for tier 1 platform support team
-labels: platform-tech-team-support
+labels: ["platform-tech-team-support", "Platform-Support-Sprint-Work"]
 assignees: 
 
 ---

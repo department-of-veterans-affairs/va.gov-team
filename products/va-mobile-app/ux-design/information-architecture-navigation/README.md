@@ -7,15 +7,13 @@ See [High Level Project Summary](https://github.com/department-of-veterans-affai
 ### Phase I - Information Architecture Research ### 
 
 **Open Card Sort**
-- [Open Card Sort - Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md)
-- [Open Card Sort - Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md)
+- [Open Card Sort - Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort)
 
 **Closed Card Sort**
-- [Closed Card Sort - Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
-- [Closed Card Sort - Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md)
+- [Closed Card Sort - Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/information-architecture/2022-03-closed%20card%20sort)   
 
 **Output**
-- [VA Mobile App - Future state sitemap/flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture/readme.md#va-mobile-app-20-sitemap)
+- [VA Mobile App - Future state sitemap/flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture/readme.md#va-mobile-app-20-sitemap)  
  
 ### Phase II - Navigation Model Exploration & Implementation ###
 **Exploration**
@@ -29,4 +27,4 @@ See [High Level Project Summary](https://github.com/department-of-veterans-affai
 - [High fidelity screen templates for navigation model - Figma](https://www.figma.com/file/cdp7Be4UdYesq9fXeqaOgt/%F0%9F%9A%A2-Navigation2.0---ScreenTemplates---Shipped---VAMobile?node-id=0%3A1&t=MLR0Wl9QqzHyZTRd-1)
  
  ### Phase III -  Evaluative Research ###
-- [Usability Study - Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability)
+- [Navigation Usability Study - Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/navigation/new%20navigation%20usability)

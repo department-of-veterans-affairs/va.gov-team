@@ -23,9 +23,9 @@ The purpose of our work was to inform the information architecture, content and 
 
 * [VA Mobile App: Information Architecture & Navigation - High Level Project Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md) 
     * Research Findings:
-        * [VA Mobile App IA & Navigation: Open Card Sort Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md) (10/21)
-        * [VA Mobile App IA & Navigation: Closed Card Sort Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md) (3/22)
-        * [VA Mobile App IA & Navigation: Usability Findings ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md)(9/22)
+        * [VA Mobile App IA & Navigation: Open Card Sort Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort/Card-sort-research-report.md) (10/21)
+        * [VA Mobile App IA & Navigation: Closed Card Sort Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/information-architecture/2022-03-closed%20card%20sort/closed-card-sort-research-report.md) (3/22)
+        * [VA Mobile App IA & Navigation: Usability Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/navigation/new%20navigation%20usability/usability-findings.md)(9/22)
     * Design & Content Artifacts:
         * [VA Mobile App - Navigation UI Direction Recommendation](https://docs.google.com/presentation/d/1H-eNY4buJG0pHvHKYyPWpfNrpuuwUpBpr-w8Ph4QjiM/edit#slide=id.p1)
         * [VA Mobile App - Navigation Changes (Sprint Demo)](https://docs.google.com/presentation/d/1_XMxwrmv914uZAoWFkCmKs8ETFOHosR6Aq23iqKmblU/edit#slide=id.p1) 

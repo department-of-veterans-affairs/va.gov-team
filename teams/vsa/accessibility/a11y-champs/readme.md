@@ -1,4 +1,4 @@
-# Accessibility Champions Community (aka "A11y Champs")
+# Accessibility Champions Community
 Welcome to the VA accessibility champions community ✨
 
 We're a grassroots, volunteer-led educational program intent on scaling up VA.gov's focus on the disabled Veteran experience through:
@@ -58,13 +58,13 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA.go
 ### Level 4, Apprentice 🧠 (🚧 not written yet)
 - 4 hours to complete
 - Choose a specialty path between design, research, engineering, product, or QA
-- Shadow an a11y specialist and learn from each other through relational mentoring
+- Shadow an accessibility specialist and learn from each other through relational mentoring
 
 ### Level 5, Champion ⭐ (🚧 not written yet)
 Complete two of the following tasks:
 - [ ] Give a presentation or host a brown bag on accessibility to your team 
 - [ ] Write a blog post or article about an accessibility topic you learned about in this curriculum
-- [ ] Complete a maintenance audit for your product team with an a11y specialist
+- [ ] Complete a maintenance audit for your product team with an accessibility specialist
 - [ ] Facilitate a research session with Veterans using assistive technology
 - [ ] Write full accessibility annotations for a mockup going through the collaboration cycle
 
@@ -75,11 +75,11 @@ This is a lifelong journey, so we'll also ask for you to...
 Upon completion, you will be formally recognized as a `VA.gov Accessibility Champion` 🥳
 
 
-## What does "a11y" mean?
+<!-- ## What does "a11y" mean?
 
 Glad you asked! The word "accessibility" is often abbreviated to <strong> a11y </strong> — as in, "a", then 11 characters, and then "y". 
 
-Most folks pronounce a11y as "alley" or "a 11 y"
+Most folks pronounce a11y as "alley" or "a 11 y" -->
 
 ## Citational justice
 This was inspired by a curriculum designed by **Jen Strickland** and **Trevor Pierce**, who deserve full credit in establishing the groundwork to make this possible ♥️

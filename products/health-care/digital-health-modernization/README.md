@@ -3,26 +3,26 @@
 - This repository contains information about the team's history and current activity
 
 ## Landing Page/Home Team
-### Current as of 6/21/2023
+### Current as of 01/24/2025
 - Lauren Alexanderson - Sponsor
 - Kaitlin Fink - Patient Portal Design Lead
 - Ryan Thurlwell - OCTO Design Lead
-- Patrick Bateman - OCTO Product Lead
+- Marci McGuire - OCTO Product Lead
 - Robyn Singleton - OCTO Research Lead 
 - Danielle Thierry - OCTO Content & Translation Lead
 - Mikki Northius - OCTO Lead Information Architect
 - Mark Dewey - OCTO Engineer
 - Stephen Barrs - OCTO Engineer
 - Sara Smith - 508 Accessibility Specialist [Oddball]
-- Lynne Johnson - Delivery Manager
+- Mark Carter - Delivery Manager
 - Wesley Rowe - Product Manager
 - Florence McCafferty - Design Lead
 - Jonathan Nelson - Designer
-- Kat Brinkley - Researcher/Designer
-- Carlos Felix - Technical Architect
+- Athena Bozak - Researcher/Designer
+- Kevin Suarez - Full stack Developer
 - Daniel Cloud - Full stack Developer
 - Richard Davis - Full stack Developer
-- Jim Zaccardo - Full stack Developer
+- Ni Chia - Full stack Developer
 - Vacant - Accessibilty Specialist
 - Sara Sterkenburg - Information Architect
 

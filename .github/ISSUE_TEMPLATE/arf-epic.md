@@ -1,9 +1,11 @@
 ---
 name: ARF Epic
 about: Epic template for the ARF team
-title: ''
-labels: ['accredited-rep-facing', 'arf-eng', 'arf-des']
+title: '[ ARF ] Project title v# (Discipline)'
+labels: ['accredited-rep-facing']
 assignees: ''
+projects: 'Accredited Representative Facing'
+type: 'Epic'
 
 ---
 

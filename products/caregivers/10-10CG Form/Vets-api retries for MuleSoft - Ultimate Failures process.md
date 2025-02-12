@@ -1,4 +1,4 @@
-# Vets-api retries - catastrophic failures
+# Vets-api retries - ultimate failures
 
 In the summer of 2022, the 10-10 Health Apps team is implementing the retry capability, so that vets-api can retry calling MuleSoft when there is a response _other than_ status codes `201` or `202`.
 
@@ -38,6 +38,8 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
 12 |       0d 4h 5m 16s |     0d 11h 15m 44s
 13 |      0d 5h 46m 56s |      0d 17h 2m 40s
 14 |      0d 7h 57m 26s |        1d 1h 0m 6s
+15 |     0d 10h 41m 46s |     1d 11h 41m 52s
+16 |      0d 14h 5m 20s |      2d 1h 47m 12s
 
 <details>
      <Summary>Current Automatic Job Retry library - Table for approximate retry waiting times</Summary>
@@ -83,19 +85,14 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
      - Once the 10-10 Health Apps team's review determines that the MuleSoft team needs to be involved, an update will be posted to the Slack channel **vecms-carma_vadotgov_development_external** and an email will be sent to the audience below:
           - Patrick Bateman
           - Heather Justice
-          - Lihan Li
-          - Matt Long
+          - 1010_team@agile6.com
           - VACARMAOperationsTeam@va.gov
           - DTCMulesoftSupport@va.gov
      - Once the coordination begins, the teams can determine whether to start the process of retrieving failed PDF documents to send via an encrypted email to **vha12cspcarmaehr@va.gov** for manual processing
 
-- After 1 day of failed retries, any alerts will be posted to the Slack Channel **#health-tools-1010-apm**.  The alerts will also be emailed to the audience below:
+- After 1 day of failed retries (~25 hours), any alerts will be posted to the Slack Channel **#health-tools-1010-apm**.  The alerts will also be emailed to the audience below:
      - Patrick Bateman
      - Heather Justice
-     - Lihan Li
-     - Lisa Zapson
-     - Matt Long
-     - Nick Osmanski
      - VACARMAOperationsTeam@va.gov
      - DTCMulesoftSupport@va.gov
 

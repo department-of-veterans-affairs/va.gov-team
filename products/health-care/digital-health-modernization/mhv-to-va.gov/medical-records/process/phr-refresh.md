@@ -24,6 +24,8 @@ We would like to move the refresh to the VA.gov login process, so that informati
 - [First](https://dsva.slack.com/archives/CSFV4QTKN/p1693234923978159)
 - [Second](https://dsva.slack.com/archives/CSFV4QTKN/p1696623618380629)
 
+__Note: We are no longer actively pursuing this, as our flow without it seems to work well.__
+
 ## MHV ##
 
 ### Refresh delay for PHR refresh ###
@@ -35,11 +37,6 @@ We would like to move the refresh to the VA.gov login process, so that informati
 For more information on what happens in the backend when PHR refresh is initiated, see [this document](https://department-of-veterans-affairs.github.io/mhv-fhir-phr-mapping/background.html#general-processing-of-clinical-resources).
 
 ### Sequence Diagram ###
-# TODO
-- [ ] Add redis and 1 hour refresh data rule
-- [ ] confirm current diagram is correct
-- [ ] add `/session` call
-- [ ] ???  
 
 ```mermaid
 sequenceDiagram
@@ -56,7 +53,7 @@ sequenceDiagram
 		end
 		alt Patient record doesn't exist in FHIR
 			VA->>FHIR: GET /Patient
-			FHIR-->>VA: HTTP 500 "HAPI-1363: Either No patient<br />or multiple patient found"
+			FHIR-->>VA: HTTP 202 No patient found
 			VA-->>VW: HTTP 202 ACCEPTED
 		else Patient record exists in FHIR
 			alt Patient record not loaded in session

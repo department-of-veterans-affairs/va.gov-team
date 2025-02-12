@@ -1,44 +1,24 @@
 ## VBA Regional office roll-out data
-Source: (TBD)
+> This file includes data relevant to initial training and publishing milestones.
+> User and interaction data is available in [2024-ro-data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/analytics/2024-ro-data.md) and [2025-ro-data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/analytics/2025-ro-data.md). 
 
-## VBA editor stats
+- Roll-out training and publishing milestones
+  - [Training](#training)
+  - [Publishing](#publishing)
 
-| Metric | Baseline (measured January 2024)  | February 2024 | March 2024 | 
-| ---| :---:  | :---: |:---:  |
-| Total # of editors | 15 |17 |16 | 
-| % which have never logged in | 47% (7) | 18% (3) |< 1% (1) |
-| % which logged in during the 30 days prior | 6% | 12% | 63%| 
+## Roll-out training and publishing milestones
 
-## Roll-out phase
+###  Training 
+| Training Cohort | Number of Regional offices represented (cumulative % of total - 58)| Kick-off date 
+| --- | :---:| ---| 
+| 1 | 8 (14%) | January 23, 2024
+| 2 | 10 (31%)  | May 29, 2024
+| 3 | 10 (48%) | September 16, 2024
+| 4 | 30 (100%) | January 16, 2025
 
-### Publishing milestones
-| Date | # of Regional offices published (total = x)|
-| --- | ---|
-| | |
-| | |
-| | |
-| | |
-| | |
+### Publishing
 
-| Metric | 1Q 2024 | 2Q 2024 | 3Q 2024 | 4Q 2024
-|---|---|---|---|---|
-| Unique users	| | | | | 
-| Total interactions	| | | | | 
-| New users| | | | | 
-| Returning users | | | | | 
-| User interaction rate | | | | | 
-| Total interaction clicks | | | | | 
-| Average clicks per user | | | | | 
-| Average scroll depth | | | | | 
-| Desktop | | | | | 
-| Mobile | | | | | 
-
-### Top 5 services during roll-out
-(measured by clicks on accordions)
-| Service | 1Q 2024 | 2Q 2024 | 3Q 2024 | 4Q 2024
-|---|---|---|---|---|
-| | | | | | 
-| | | | | | 
-| | | | | | 
-| | | | | | 
-| | | | | | 
+| Metric | 	 	July-24 | Aug-24	 | 	Sep-24	 | Oct-24		 | 	Nov-24		 | Dec-24		 |  
+|	---| 	:---:	 | 	:---: | 	:---:	 | 	:---: | 	:---:	 | :---:	 |
+| # of new Regional offices modernized pages | 1 | 4 | 4 | 5 | 1 | 0| 
+| cumulative % (58) | 2% | 9% | 15% | 24% | 26%|26% | 

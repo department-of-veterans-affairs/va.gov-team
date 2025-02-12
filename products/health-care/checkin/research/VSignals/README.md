@@ -1,112 +1,65 @@
-# How to Request and Process VSignals Feedback
+# How to Access and Process VSignals Feedback
 
-1. Ben Brasso will e-mail the VSignals team (Mahdi Blaine at mahdi.blaine@va.gov) on the Monday before a sprint ends to get two weeks worth of VSignals reports.
-
-3. Before the new sprint starts, Ben Brasso will copy two weeks of comments into our aggregated spreadsheet, which is available on OneDrive.
-    1. The VSignals reports that we receive are a query from all VSignals feedback containing the words check-in and/or travel pay.
-    2. If you need access to the OneDrive document and do not have it, message Ben.
-    3. Once the comments are copied, Ben will message the check-in team member completing this week’s analysis.
-4. The check-in team member completing the analysis will open the Excel spreadsheet and review each comment. To do this, copy the comments, dates, and type columns from the file provided by Ben and past these below the last reporting period's information in the **Outpatient (New) tab**.
-    1. The comment categories and general guidelines for determining if a comments applies are as follows:
-        1. **Mobile Check-in - Good and Mobile Check-in - Bad**
-            1. **ONLY** score if you can determine from the comment that this 
-        3. **General Check-in - Good and General Check-in - Bad**
-            1. General check-in feedback includes any comments where the methods used to check-in can’t be determined or any comment generally referring to the “new” check-in process. With the “new” comments, it can’t be determined if they are referring to just the removal of the kiosk, checking in with staff, or using mobile check-in. This section also gathers any feedback about the overall process, such as “Check-in was great.”
-            2. **ONLY** score if the Veteran is referencing the check-in process
-            3. **DON'T** score if the comment is just about staff or non-check-in process complaints
-    2. If a comment applies to a category, then mark a 1 across from the comment in the corresponding category column. Leave the column blank if the comment doesn't apply. 
-        1. **If a comment does NOT apply to mobile or general check-in specifically, do not mark either column.** This is not always straightforward, but it helps to consider if the comment can standalone in a context other than check-in if the term "check-in" were to be remove. 
-            1. **Example - NOT mobile or general check-in related:** _"Check-in person ignored me for nearly 5 minutes. I had to stand their while they finished a conversation. This is the second time this has happened they should have the courtesy to not make us wait just so they can chit chat."_
-            2. **Example - General check-in related:** _"Everything was great from check-in to check-out. Staff were all helpful and kind and I was surprised how fast and easy it was. I was in and out in 30 min."_
-    3. **ALSO** score these common theme categories   ***************** NEW **********************
-        1.  Staff not using PCI even though Veterans are
-        2.  Trouble navigating larger facilities, specifically, where to check in and find their provider (e.g., when the check-in station is not close to the clinic) or after completing eCheck-in, there’s limited information on how to find the clinic
-        3.  Staff not contacting Veterans when appointments are canceled
-        4.  Concerns with check in at kiosks
-        5.  Facilities still using QR Codes, which shouldn't be used
-        6.  Long wait times at check in or no staff at check in counter
-        7.  Conflicting instructions to Veterans in appointment reminders
-5. Throughout this process, highlight particularly important, new, or interesting comments the team may want to return to in light yellow. 
-6. Next, calculate the percentage of comments for each category out of the total comments within the 2 week reporting period. (Sample formulas can be viewed in Row 2978.)
-    1. After completing the calculations, copy the row with the percentage of comments for each category. Add this row to the existing table in the **Mobile-General Trends Weekly tab**.
-    2. Change the data parameters of the graphs to include the new percentages from this reporting period that you just added. If they are not already included, create a series of 2D line with markers graphs that show the percentage across the different reporting periods.
-    3. Export the graphs, so they are ready to add to your final report.
-7. Update the [VSignals-trends.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/VSignals-trends.md) Github file
-    1. Update the analysis dates.
-    2. Update the Mobile Check-in and General Check-in graphs with the latest versions.
-    3. Update the list of Notable Comments to include a few important comments you highlighted this reporting period. 
-8. Create a GitHub summary that follows the format of the last one
-    - If you want to use the VSignalsCommentCopier spreadsheet macro to auto-generate the flagged comments into markdown, see [How to use the VSignalsCommentCopier macro](#how-to-use-the-vsignalscommentcopier-macro)
-10. Post a link to the GitHub summary in the VSignals GitHub ticket and on the #check-in-experience channel. Tag Shawn Adams in the post.
-
-## How to use the VSignalsCommentCopier macro
-- Download the VSignalsCommentCopier spreadsheet
-- Download the main VSignals spreadsheet to which you added the new data
-- Copy the new data from the main VSignals spreadsheet to the VSignalsCommentCopier spreadsheet
-    - NOTE: if you attempt to copy from the online copy, the cells will get messed us because a lot of comments have line breaks in them
-- Run the macro in the VSignalsCommentCopier spreadsheet that copies comments
-    - Choose a location to save the txt file
-    - Click OK when you get the message that the process is complete
-- Ooen the txt file and copy all of the txt to your new GitHub document
-    - Make sure any PHI/PII is masked with for example PII_NAME or PII_PHONE
-
-<details>
-    <summary>OLD PROCESSES</summary>
-    ## Process followed prior to Feb. 2023
-
-1. Ben Brasso will e-mail the VSignals team (Mahdi Blaine at mahdi.blaine@va.gov) on the Monday before a sprint ends to get two weeks worth of VSignals reports.
-2. Before the new sprint starts, Ben Brasso will copy two weeks of comments into our aggregated spreadsheet, which is available on OneDrive.
-    1. The VSignals reports that we receive are a query from all VSignals feedback containing the words check-in and/or travel pay.
-    2. If you need access to the OneDrive document and do not have it, message Ben.
-    3. Once the comments are copied, Ben will message the check-in team member completing this week’s analysis.
-3. The check-in team member completing the analysis will open the Excel spreadsheet and review each comment.
-    1.  The comment categories and general guidelines for determining if a comments applies are as follows:
-        1. Mobile CI - Good and Mobile CI - Bad
-        2. General Check-in - Good and General Check-in - Bad
-            1. General check-in feedback includes any comments where the methods used to check-in can’t be determined or any comment generally referring to the “new” check-in process. With the “new” comments, it can’t be determined if they are referring to just the removal of the kiosk, checking in with staff, or using mobile check-in. This section also gathers any feedback about the overall process, such as “Check-in was great.”
-        3. Kiosk - Good and Kiosk - Bad
-            1. Comments about wanting the kiosk back for check-in and/or travel pay were counted in the "Kiosk Good" comment total. Most bad comments were about the kiosks being broken.
-        4. Staff Attitude - Good and Staff Attitude - Bad
-        5. Travel Pay - Good and Travel Pay - Bad
-        6. General Appointment Feedback
-        7. Wait Times - Good and Wait Times - Bad
-    2. If a comment applies to a category, then mark a 1 across from the comment in the corresponding category column. Leave the column blank if the comment doesn't apply.
-        2. If a new category is needed, it can be added as a new column.
-5. Next, calculate the percentage of comments for each category out of the total comments within the 2 week reporting period. (Sample formulas can be viewed in Row 2978.)
-    1. After completing the calculations, copy the last mm-dd-yyyyTrends tab. Name the new tab with the new date, then copy the percentage calculations into the table at the top of this new trends tab.
-    2. You can now create a series of 2D line with markers graphs that show the percentage across the different reporting periods.
-    3. Export the graphs, so they are ready to add to your final report.
-6. Calculate the number of comments within each category for each day of the 2 week reporting period. (Sample formulas can be viewed in Rows 2979 - 2994.)
-    1. You can now created a series of 2D line with markers graphs that show the total comments for each day in the reporting period.
-    2. Export the graphs, so they are ready to add to your final report.
-7. Create a summary report on GitHub
-    1. Look to [this previous summary as a guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/2022-12-23-VSignals.md).
-    2. Make sure to include a summary of the General Appointment Feedback comments as that category isn't part of the graphs created.
-    3. Also, create a list of 2 - 3 Key Insights from this analysis. For instance, have any numbers changed greatly from the last reports? 
-6. Post the summary on GitHub within this folder.
-    1. File format: yyyy-mm-dd-VSignals.md
-7. Post a link to the GitHub summary on the #check-in-experience channel. Tag Shawn Adams in the post.
-
-## Process followed prior to Dec. 2022
-
-1. Ben Brasso will e-mail the VSignals team (Mahdi Blaine at mahdi.blaine@va.gov) on the Monday before a sprint ends to get two weeks worth of VSignals reports.
-2. Before the new sprint starts, Ben Brasso will copy two weeks of comments into our aggregated spreadsheet, which is available on OneDrive.
-    1. The VSignals reports that we receive are a query from all VSignals feedback containing the word check-in.
-    2. If you need access to the OneDrive document and do not have it, message Ben.
-    3. Once the comments are copied, Ben will message the check-in team member completing this week’s analysis.
-3. The check-in team member completing analysis will open the Excel spreadsheet in the desktop app.
-    1. Opening the spreadsheet in the desktop app will enable the multi-select dropdown tagging capability. The web app does not have this capability.
-4. The check-in team member completing analysis will review each comment.
-    1.  First, they will categorize each comment using the dropdown.
-        1. **At least one category from the green list of tags must be selected for each comment.** Yellow tags are secondary options. View the "Tags" sheet to see which tags are green and yellow.
-        2. If a new category is needed, it can be added to the “Tags” sheet. Once added, it will automatically populate in the synthesis sheet. Be sure to decide if the new category is meets the criteria for a green (primary category, where at least one must be selected) or yellow (secondary optional category) tag.
-    2. If a summary or note is needed about a particular comment, then it can be added to the “Notes” column.
-5. Create a quick summary report
-    1. Look to [this previous summary as a guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/2022-09-VSignals.md).
-6. Post the summary on GitHub within this folder.
-    1. File format: yyyy-mm-dd-VSignals.md
-7. Post a link to the GitHub summary on the #check-in-experience channel. Tag Shawn Adams in the post.
-
-*We need to still talk to Research Ops about adding these summaries to the research repo and the process that will involve. They want us to help create a taxonomy for the tags associated with VSignals summaries.*
-
-</details>
+1. Go to this [VSignals Live Feed & Search](https://va.voice.va.gov/sso/va/applications/ex_WEB-5/pages/1294?roleId=30908&f.search=%25kiosk%25%20OR%20%25check%20in%25%20OR%20%25check-in%25%20OR%20%25checkin%25%20NOT%20rx%20NOT%20pharmacy%20NOT%20prescription%20NOT%20prescriptions&f.question-score=k_va_vhaconsolidated_ease_scale5&f.timeperiod=10078&f.reporting-date=k_vavoice_response_date_timezone_datetime)
+    - Click on Time Period (top of the page)
+        - ![image](https://github.com/user-attachments/assets/e4934e17-1a69-425f-a6fe-df7dd690629f)
+    - Click + to add a new time range
+        - ![image](https://github.com/user-attachments/assets/1168c35c-c943-40e7-8d75-ba1c169726dc)
+    - Enter a new date range and click Save
+        - ![image](https://github.com/user-attachments/assets/79973dd1-a94a-42a7-88b2-b45b7b3a358a)
+    - Scroll down halway and click Run on the right side of the page
+        - ![image](https://github.com/user-attachments/assets/5fd01434-225c-4941-8284-a634da9d8cdf)
+    - Click download in the upper right and select Excel
+        - ![image](https://github.com/user-attachments/assets/67fd2a07-32fe-43c6-a043-df0e153d4370)
+2. Download [this spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/VSignalsCommentCopier.xlsm) that has macros to process the data
+3. Copy everything from the VSignals spreadsheet you downloaded to the macro spreadsheet
+4. Run macro 'VSignalsFormatter' to format the data that you copied into the spreadsheet, this macro does the following
+    - Deletes unnecessary columns
+    - Adds the rating columns
+    - Wraps all columns so that you can see the titles & data
+    - Sizes the Comments column so that you can easily read the comments
+    - Filters to ONLY show the 'OUTPATIENT - HEALTHCARE VISIT' Survey Type
+    - Filters to hide all rows with blank Comments
+11. Read each comment and place a '1' in the macro spreadsheet column that matches the Veteran's comment sentiments
+       * Like PCI - Veteran indicated that they like PCI
+       * Mobile CI - Bad - Veteran did not like PCI
+       * General Check-in - Good - Veteran had positive commments about the check-in process (ignore comments about staff behavior)
+       * General Check-in - Bad	- Veteran had negative commments about the check-in process (ignore comments about staff behavior)
+       * Staff not using PCI even though Veterans are - Veteran used PCI but staff told them it doesn't work or the clinic doesn't use it
+       * Trouble navigating larger facilities - Veteran had issues finding where to go in the facility
+       * Staff not contacting Veterans when appointments are canceled - Veteran thought they had an appointment but it was cancelled without their knowledge 
+       * Concerns with check in at kiosks - Veteran indicated they want the kiosk back 
+       * Facilities still using QR Codes - Veteran tried to use the QR code 
+       * Long wait times at check in or no staff at check in counter - Veteran encountered long wait times at check-in counters or found no staff at check-in counter 
+       * Conflicting instructions to Veterans in appointment reminders - Veteran was confused by the appointment reminders 
+       * Trouble updating contact info - Veteran wanted to update their contact information via PCI but got frustrated when they found they could not 
+       * Issues verifying identity - Veteran had trouble verifying their identity 
+       * Pre-Check-in or Check-in link issues - Veteran if the Veteran encountered issues with their PCI link 
+       * Too many notifications - Veteran felt they were receiving too many notifications
+12. Run macro 'CopyCommentsAsMarkDown' to copy the comments for columns where you placed a '1', change the comments to markdown format, and save them to a new text file 
+13. Sum the '1's in these columns
+    -  Like PCI
+    -  Mobile CI - Bad
+    -  General Check-in - Good
+    -  General Check-in - Bad
+14. Determine the % of 1's in the 4 columns above by dividing by the total number of comments
+15. Copy the % for each of the 4 columns above into [this VSignalsGraphs spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/VSignals%20Graphs.xlsm)
+    - Add your new date range to the bottom of the table
+    - Copy the % for each of the 4 columns to the table
+    - Click on each of the 2 graphs and change the data range to include your new date range
+    - Save the file and re-upload it to GitHub for the next person to use
+17. Create a GitHub document similar to [this one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/2024/2024-12-15-VSignals.md)
+    - Copy the comments from the text file created by the 'CopyCommentsAsMarkDown' macro to this new GitHub document
+    - Take a screenshot of each of the 2 graphs from the graph spreadsheet and past into the GitHub document
+    - Scrub the comments of PII/PHI. Read through every user comment you pasted into the GitHub docuemnt and replace personal information with asterisks or number symbols. Replace data with codes as follows
+        - Email addresses - PII_EMAIL
+        - Names - PII_NAME
+        - Social security numbers - PII_SSN
+        - Phone numbers - PII_PHONE
+        - Other identifying info - PII_OTHER   
+13. Commit the new GitHub document
+14. Paste a link to the document in [check-in-experience Slack channel](https://dsva.slack.com/archives/C022AC2STBM) and call out these folks:  Kay Lawyer, Kristen McConnell, Stephen Barrs and the CIE team
+15. In order to ensure there is no PII/PHI on your local machine
+    - Permanently delete the spreadsheet downloaded from the VSignals feed
+    - Permanently delete the VSignals comments text file
+    - Remove the data from the macro spreadsheet and save it for use next sprint

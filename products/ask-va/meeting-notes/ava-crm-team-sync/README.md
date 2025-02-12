@@ -1,3 +1,243 @@
+11/05/2024 
+Agenda:
+- General Updates
+- Confirm the collection process of "Counselor" for VRE Inquiries
+- Clarification about veteran and dependent relationships
+- Clarification about education/general question
+- Overview of Change Management - Collab on Draft
+
+
+General Updates
+- Aligned on launch of 1st week of april
+- Test script development for form is almost done, dashboard drafting is beginning 
+
+Confirm the collection process of "Counselor" for VRE Inquiries
+- This is a free text field
+
+Clarification about veteran and dependent relationships
+- For veteran relationship - we were going to add step child, should we just send child?
+- Decision: add step child, khoa to send ID for the value
+
+Clarification about education/general question
+-Can we just send attorney instead of accredited rep (we refer to them as private representative in other VA forms)
+should we add field for accredited representative 
+- Decision: update an existing value to include accredited representative. 
+- Change VSO to accredited Representative 
+- FYI All previous values may change to accredited representative 
+- We know for education questions, they are treated as general questions , we will hide who is the question about
+- Should we hide the value of that field?
+- Decision:  we should send the value of the field 
+
+Overview of Change Management - Collab on Draft - Potential Contents: 
+- Documentation requirements for release + Release Cadence
+- Definition of major + minor features
+- Testing requirements
+- Access controls
+- How do we manage requests from the business lines ? 
+- Acceptance Criteria of the Feature (Confirm with who ever is bringing it up)
+
+Agenda for next meeting:
+- Review change management skeleton
+- Review Mural Board Timeline
+
+Release Scehdule:
+- Pats R release will be november 22nd
+- Release 13 will be December 16th 
+
+
+
+
+10/29/2024:
+
+
+- Contact Preferences per category - Eddie
+- how do we accept attachments from inquiries - Eddie
+- Silent Failures Check List Update -Joe
+- Medallia Implementation - Shelby/ Becky
+- Timeline - CeeCee / Becky
+
+Notes:
+
+Contact Preferences per category - Eddie
+	- Contact preferences are typically hard coded - Chris investigating
+
+how do we accept attachments from inquiries - Eddie
+- Every category says if it allows attachments or not, when we retrieve inquiries is it possible to see if inquiry allows attachments, as an added field 
+- Otherwise we would look up the category for the inquiry as a separate action
+- Action: Kyle investigating if we allow attachment at the inquiry level
+- There is a field on the inquiry if the reply is open or not 
+
+Silent Failures Check List Update -Joe
+- Creating a slack channel for communication, doing prep for our future conversations 
+
+Survey Button:  - Shelby/ Becky
+- FYI: Footer will appear at the bottom of every page no additional work
+- Button on the page in the white space will require some additional development 
+- Option 1: Could add a grey line between the two buttons 
+- Option 2: if we can’t do that can we have the feedback as a link and not button
+- Having the button right justified is not looking possible (kyle)
+-- If we can’t move it to right hand side then we can distinguish it as a feedback link 
+-- Can we create a white invisible button or add a float between the two buttons>  it only moves 1 pixel non viable 
+- Security issue: Creating it as a link (medallia is javascript, it might be blocked by security blockers. If it is in a button then it is encoded and will pass these blockers.)
+- Decision discussed: Given the constraints, move Feedback button up to the center of the footer at the top above the columns
+
+Timeline - CeeCee / Becky
+
+10/22/2024
+Agenda: 
+- Insomnia Testing Review 120 /137 requests
+- CRM access for Ask.VA.GOV QA environment
+- review open questions
+- review scope tracker for questions
+- review test graduation across environments
+
+
+
+120/137 Flows
+- Selected for every cat, topic, subtopic plus some specific routing rules re. regions . 
+- Testing via Insomnia - we test via the middleware/API layer which includes mapping and translation.
+- CRM will be testing queue routing via postman, 542 rules which will be tested. 
+
+Staging Access for CRM to AskVA.GOV
+- Goal: more visibility into what is in staging, would like to walk through the experience themselves. Reduce communication/ questions around status. 
+- Staging: should match what is being captured in Demo. some minor rework occurring to correct some form flow issues. 
+- Access here: https://staging.va.gov/contact-us/ask-va-too/
+- No need to share additional test user account 
+
+Open Questions in Tracker:
+- Teams> General Channel> Files> Testing Files> Ask.Va Phase 1 Test Tracker
+- LOA = Level of Authentication
+
+
+**10/15/2024**
+Updates from Previous week:
+- Completed Dress Rehearsal!
+
+This weeks Agenda: 
+- Review Upcoming CRM Releases + Queue Rules
+- Review Payload + Submit Updates
+- Manual testing scenarios/scripts [FORM]
+
+
+**10/8/2024**
+Updates from Previous Week:
+- Prepping for Dress Rehearsal
+- Confirming + Implementing Payload updates
+Agenda for this week!
+- Dress Rehearsal  + Integration Script Coverage- Joe
+- Timeline Changes - CeeCee
+- CRM API conversations - Kyle + Ask.VA.Gov Devs
+- request from Education team - Additional Options under Compliance Surveys- Becky
+
+- Action items:
+  - CRM to review the potential 120 flows for testing, highlighting if we ought to be testing specific scenarios like regional rules etc. 
+
+
+**9/24/24**
+What was done since last touch points:
+- completed automated test scripts for dress rehearsal
+- updated timeline
+- dry run of 1 insomnia test inquiry for integration testing
+- run through of CRM test call outs doc
+  
+For this session:
+- discuss steps for dress rehearsal - next week - CeeCee
+- discuss update(s) to test plan - CeeCee
+- review test call out doc if there are new updates- Shelby
+- begin 3rd party outage conversations and discuss silent failures - Joe
+Tech Asks: – Khoa
+	- Can we get option Set in 1 go (Kyle/Shelby to discuss, seems doable) 
+	Attachment in replies
+	- Mirrors the Submit Inquiry - Kyle-approved!
+	- Personal/Business/Auth/Unauth  - Currently, all Unauth’d – Khoa (Action Item) Kyle to look into on CRM side. 
+ -- Notes: 
+  	-  Authenticated is not really an option - Chris
+	-  Unauth’d/Business/Personal are mutually exclusive
+  	- Inquiry contains ^^^^ value, shows on dashboard
+	- Unauth’d never on dash since we don’t know that it’s really you.
+
+- Review of test variations documented by Becky to ensure we’re getting full(ish) coverage. Document on github, Mural linked.
+-  Action Item: Becky and Shelby to compare notes and merge into a master document of test variants
+
+  Action Items: 
+  -  Becky and Shelby to compare notes and merge into a master document of test variants
+
+**9/17/24:**
+- What was done since last touch point: 
+- Insomnia Inquiry Review + 1st Collection Round Trip 
+- AVA CRM Test Call Outs
+- Team collaboration on bringing Test Coverage to 60% on AVA - VA.GOV - in progress
+
+**For this session: :**
+- Timeline Review
+- Insomnia Collection Round Trip Run Through and Feedback
+- AVA CRM Test Call Outs
+- Flow Mapping Doc Review
+- Discussion CRM Question: How are we handling the “for the dependent of a vet” when the submitter is the dependent? Specifically, how are VeteranRelationship and DependentRelationship populated?
+
+**9/9/2024:**
+**What was done since Last touch point:** 
+- Collaboration Cycle QA Read Out:
+- Updates to Test Doc + Timeline
+- Reviewed Mapping Doc
+- Drafting Insomnia Test
+- Unit Test Code Coverage: 
+
+**What we will be doing today: **
+- Insomnia Inquiry Update
+- Unit Test Code Coverage Report Example
+- Leadership Acceptance of Test Plan Deep Dive
+- Update to Governance Cycle: Data Dog Coverage of APIs before Staging
+- Testing Timeline End to End Testing
+
+Action Item: 
+
+
+9/3/2024:
+Action Items: 
+- CeeCee:  Update testing docs (add links to Test Plan: Dress Rehearsal, Categories description, description of mvp 2 E2E test scripts ) 
+- Joe: Continue working on unit test code coverage + draft insomnia inquiry for Life insurance
+- Terri: Send AVA CRM the category mapping doc in teams
+- Shelby to send by monday EOD
+- CeeCee + Shelby to attend Collaboration Cycle Office Hours 
+
+Tuesday Agenda
+- Insomnia test draft 
+- Coverage report on unit test coverage 
+- Discuss new potential CRM Sync ways of working
+
+
+##8/20/2024
+
+**Agenda**
+
+- Review Research Plan for Dashboard
+- Review Mockups for Dashboard
+- Questions for CRM about dashboard
+ 
+ - **Question:** Confirming you don’t currently include the ‘We’ve received your question’ etc. first email in the dashboard, right?
+ -  **Answer**: Just the response. We’ve received your inquiry is only for the unauthenticated experience. 
+ -  **Question**: how are we keeping track of the new requests, Do you store/include timestamps in the dashboard (in addition to dates)?
+ - 	 **Answer**: Based on the correspondence of the email, the timestamp is available and can be added
+Timestamp for created on will be UTC 
+		- Kyle to add, will be included in the sprint planning
+	- **Question**: After a question is reopened(and also rerouted) , when VA replies back it’s moved back to closed, right?
+	- **Answer:** It would not be automatically be closed
+	- if they did a send and solve it would, if they just sent a correspondence then it might not automatically close.The Agent would be performing the solve.
+
+
+
+**Notes & Key Questions: **
+
+- How might we change statuses for an inquiry 
+	- Can we get a timestamp associated with an inquiry
+	- Replies are typically sent as a string, can we keep the format from the va (maintaining spaces, and paragraphs) The mock up currently is just a paragraph, uncertain if this data is formatted or is parseable
+	- *Shelby confirmed there are paragraph breaks and formatting is maintained from when the message is sent. *
+-  Can we determine whether something is a response or reply from a user? 
+- CRM to check that data dictionary - Hemesh to ask the Team. 
+- Any Updates on CRM Test Plans 
+- Drafting dev. Testing vs business testing this afternoon.
+
 08/13/2024 
 
 **Agenda August 13th**

@@ -1,6 +1,9 @@
 ## README - Analytics
 
-The following pages (prior to 2023) are available in the [Analytics > redesign folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page/analytics/redesign). 
+This folder contains quantitative data about the Facility Locator, including metrics recorded in GA4.
+> Qualitative (Medallia) feedback about the product are available in the [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page/research).
+>
+> The following pages (prior to 2023) are available in the [Analytics > redesign folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page/analytics/redesign). 
 
 - [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/analytics/redesign/baseline-event-data.md) 
    - _unique mobile and desktop events on the VA.gov home page, 3/24/2021 - 4/22/2021 and 3/24/2022 - 4/22/2022_

@@ -3,39 +3,6 @@
 
 
 
-<details>
-<summary>FUTURE SPRINT - 10/2/2024 - 10/15/2024 </summary>
-______________________________________________________________________________________________________________________________________________________
-
-## SPRINT 17 - 10/2/2024 - 10/15/2024  ------- FUTURE FUTURE / TENTATIVE ------
-
-#### PLANNED RELEASES 
-- NONE
-
-#### SPRINT TICKETS
-
-      
-</details>
-
-
-______________________________________________________________________________________________________________________________________________________
-
-
-
-<details>
-<summary>FUTURE SPRINT - 9/18/2024 - 10/1/2024 </summary>
-______________________________________________________________________________________________________________________________________________________
-
-## SPRINT 16 - 9/18/2024 - 10/1/2024  ------- FUTURE FUTURE / TENTATIVE ------
-
-#### PLANNED RELEASES 
-- NONE
-
-#### SPRINT TICKETS
-
-      
-</details>
-
 
 ______________________________________________________________________________________________________________________________________________________
 
@@ -51,11 +18,31 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments**
+    - **Sub Goal: [Feature] Tech & Design Debt**
+       - ❗ Check if we're unblocked to push up PRs (due to ongoing discussion about EPS information in vets-website)
+       - ⛔ WAITING ON SCOPE DECISIONS:
+          - First appointment or all appointments scheduled within referral expiration?
+          - What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.)
+          - Still using VA Notify for notification?
+       - ❗ Create new design tickets when scope decisions have been made
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
       - 🟥 [[Design] Make updates to scheduling links to help with confusion around link redundancy](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91113)
-      - 🟥 [[Design] Update referral introduction page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91115)
-      - 🟥 [[Design] Update Filter filed value for practice](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91450)
-      
+      - 🟥 [[Design] Change expiration date format in task card](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91114)
+      - 🟥 [[Design] Create final wireframes for short-term referral location solution](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91938)
+    - **Sub Goal: [Feature] MOU ISA**
+      - 🟥 🟦 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
+    - **Sub Goal: [Feature] Get New Referrals**
+      - 🟦 [[SPIKE] How are we going to set up a database to store referral IDs?](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91911)
+      - ⛔ ❗ 🟥 Fill out work request for VA Notify
+      - ⛔ 🟥 Send messages to Melanie for review and Privacy Officer
+    - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
+      - 🟥 [[Design] Add cancel steps into Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88898)
+    - **Sub Goal: [Feature] Get CC app within vets-website set up**
+      - 🟦 [[FE] Time selection inline validation error](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91914)
+
+
+
+ 
 </details>
 
 
@@ -70,24 +57,24 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Tech & Design Debt**
-       - ❗ 🟦 [Get vets-website staging env pointing to WellHive Sandbox](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88892)
-       - 🟦 [Meet with Ben and Jeff to get project onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90953)
-       - 🟦 [Meet with Simi and Lee to get onboarded from engineering perspective](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90956)
+       - ~❗ 🟦 [Get vets-website staging env pointing to WellHive Sandbox](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88892)~
+       - ~🟦 [Meet with Ben and Jeff to get project onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90953)~
+       - ~🟦 [Meet with Simi and Lee to get onboarded from engineering perspective](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90956)~
     - **Sub Goal: [Feature] Get New Referrals**
-       - 🟦 Stephen checking if referral ID is considered PHI (to know if we can append it to an inbound url to VA.gov) 
-       - ❗ 🟦 [[SPIKE] How are we going to solve for knowing the referral ID from a unique url from a text message (VA Notify)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/90906)
-       - 🟦 [[Spike] Determine how we'll keep track of which referrals we've sent to VA Notify or not](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/90907)
-       - ❗ 🟥 Fill out work request for VA Notify
-       - 🟥 Send messages to Melanie for review and Privacy Officer
+       - ✔️ 🟦 Stephen checking if referral ID is considered PHI (to know if we can append it to an inbound url to VA.gov) 
+       - ✔️ ❗ 🟦 [[SPIKE] How are we going to solve for knowing the referral ID from a unique url from a text message (VA Notify)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/90906)
+       - ✔️ 🟦 [[Spike] Determine how we'll keep track of which referrals we've sent to VA Notify or not](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/90907)
+       - :roller_skate: ❗ 🟥 Fill out work request for VA Notify
+       - :roller_skate: 🟥 Send messages to Melanie for review and Privacy Officer
     - **Sub Goal: [Feature] Get connected with WellHive**
-       - 🟦 [[Eng] Create WellHive endpoints in vets-api](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/89819)
+       - ~🟦 [[Eng] Create WellHive endpoints in vets-api](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/89819)~
     - **Sub Goal: [Feature] Conduct research study with Veterans**
-       - 🟨 [[Research] Create readme of research findings and move Research Repo ticket to done](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88890)
-       - 🟨 Present research findings readout to OCTO, VSS, EPS, IEN, PMD
+       - ✔️ 🟨 [[Research] Create readme of research findings and move Research Repo ticket to done](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88890)
+       - ✔️ 🟨 Present research findings readout to OCTO, VSS, EPS, IEN, PMD
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
-       - 🟥 [Create low-fi design options for referrals in Appts app](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/90909)
-       - 🟥 [Implement design or a11y changes to date and time picker component error alert or inline alert](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/90908)
-       - 🟥 Address new design tickets as a result of research recommendations
+       - ✔️ 🟥 [Create low-fi design options for referrals in Appts app](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/90909)
+       - ✔️ 🟥 [Implement design or a11y changes to date and time picker component error alert or inline alert](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/90908)
+       - ✔️ 🟥 Address new design tickets as a result of research recommendations
        - 🟥 [[Design] Move distance to default and how to display distance and estimated travel time in provider list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91096)
     
       

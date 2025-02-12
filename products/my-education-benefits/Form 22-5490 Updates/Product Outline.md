@@ -13,15 +13,15 @@ Currently, the authenticated experience as a user applying for Fry/DEA,Ch35 bene
 ## Desired User Outcomes
 
 - Pre-filled information on file for authenticated users, _including_ an updated method for pre-filling and selecting a Veteran or service member that makes the applicant eligible to their benefits
-- Benefit estimations shown before applying to ensure that the user is getting best benefit for them
-- New & intuitive designs with a shortned flow that only asks the most important questions required for processing
-- The ability to yield a near real-time decision after submitting the application for some authenticated users
+- New & intuitive designs with a shortened flow that only asks the most important questions required for processing
+- The future ability to yield a near real-time decision after submitting the application for some authenticated users
 
 ## Undesired User Outcomes
 
 
 ## Desired Business Outcomes
 
+- Consolidate user experience when applying for educational benefits.  Update My Education Benefits to support 5490 in addition to 1990.
 - Shorter education application processing times for applicants so they can use their benefits promptly
 
 ## Undesired Business Outcomes
@@ -49,10 +49,12 @@ To measure the effectiveness of the application in accomplishing its objectives,
 ## Solution Approach
 
 *What are you going to build now, and why have you decided to start there?*
-- Improving the 22-5490 is a part of the larger goal to modernize and digitize the GI Bill for Veterans, service members, and their families. 
+- Improving the 22-5490 is a part of the larger goal to modernize and digitize the GI Bill for Veterans, service members, and their families.
+- Provide an option for applicants to apply for FRY/CH35 benefits via My Education Benefits.
+- Update hyperlinks in How-To-Apply wizard to direct traffic to My Education Benefits Forms.
 
 *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- The updates to the 22-5490 will be primarily for authenticated users. At the current time, we want to prioritize the forms that will facilitate better claims processing and thus a more impactful experience in their education journey.  
+- The updates to the 22-5490 will be primarily for authenticated users. The ability to submit an application through My Education benefits will lead to, but not include currently, automated adjucation of the claim.  
 
 *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 - Our My Education Benefits team will continue to observe other VA education edu benefit forms and see how we can best improve them & add new features for active students. 
@@ -76,7 +78,7 @@ What marketing, outreach, or communications are necessary for this product to be
 
 ## Launch Dates
 - *Target Launch Date*
-  - TBD
+  - December 2024
 
 ---
 
@@ -103,8 +105,8 @@ What marketing, outreach, or communications are necessary for this product to be
 Team Name: My Education Benefits
 GitHub Label: @department-of-veterans-affairs/my-education-benefits
 Slack channel: education-benefits
-Product POCs: Cesar Santiago (tech lead), Audra Ayotte(Businesss Lead), Leelah Holmes (Design Lead)
-Stakeholders: Tammy Hurley, Eddie Ricks, Ricardo Da Silva
+Product POCs: Cesar Santiago (tech lead), Clayton Holcomb(Businesss Lead), Alex Ferzola (Design Lead)
+Stakeholders: Eddie Ricks (VA)
 
 </details>
 
@@ -113,8 +115,8 @@ Stakeholders: Tammy Hurley, Eddie Ricks, Ricardo Da Silva
 <details>
  
 Cesar Santiago: Tech Lead
-Audra Ayotte: HCD Lead
-Leelah Holmes: Design Lead
+Clayton Holcomb: Non33 Lead
+Alex Ferzola: Design Lead
  
 </details>
 

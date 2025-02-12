@@ -2,7 +2,7 @@
 
 **Last updated:** February 14, 2024
 
-Direct deposit use case documentation is available in this directory.
+Direct deposit use case documentation is available in this directory. As of August 2024 this supports C&P as well as Chapter 33 EDU benefits with plans to support Chapter 35 in the future.
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 

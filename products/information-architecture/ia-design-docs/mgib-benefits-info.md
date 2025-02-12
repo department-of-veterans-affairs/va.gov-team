@@ -1,5 +1,6 @@
  # IA Design for Manage Your Benefits page within MGIB VYE tool
 **STATUS: In progress**
+8/26/24 - Updated by MN - removed crosslink within Profile, updated other crosslinks to go to the static page, not deep link into an auth page.
 
 **Team:** VYE
 
@@ -40,7 +41,7 @@ This page will live on the same level as verifying enrollments page.
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
 
 
-1. **VYE for MGIB benefits** - Add
+1. **VYE for MGIB benefits - www.va.gov/education/verify-school-enrollment/mgib-enrollments/** - Add
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/
   - Notes: This will be the home for this in the meantime
@@ -48,16 +49,17 @@ This page will live on the same level as verifying enrollments page.
 ### Note for the crosslinks below:
 We'll want to distinguish the global va.gov Profile from the info that will only be used to manage MGIB benefits. Work closely with Sitewide Content to make this clear to Veterans, something along the lines of "updating your info in this tool will not change the info in VA.gov Profile." I defer to Sitewide Content's expertise on what that would look like!
 
-2. **[VA.gov Profile](https://www.va.gov/profile)** - Add
-  - Placement description:
-  - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/
-  - Notes: Work with both Auth team and Sitewide Content for where and how to include info
+~2. **[VA.gov Profile](https://www.va.gov/profile)** - Add~
+  - ~Placement description:~
+  - ~Link label: TBD by Sitewide Content~
+  - ~Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/~
+  - ~Notes: Work with both Auth team and Sitewide Content for where and how to include info~
 -------
 
 3. **[Change your address in your VA.gov profile](https://www.va.gov/change-address/)** - Add
   - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/
+  - Link destination: ~www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/~   <br>  www.va.gov/education/verify-school-enrollment/
+  - Notes: Consider adding content and link to this page to indicate that changes to contact information for MGIB benefits can be made using the VYE tool, WAVE is no longer available
 
 <kbd> <img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/550fcada-8f61-4b72-bef0-91122d048d6c"> </kbd>
 
@@ -65,7 +67,8 @@ We'll want to distinguish the global va.gov Profile from the info that will only
 
 4. **[Change your direct deposit information](https://www.va.gov/change-direct-deposit/)** - Add
   - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/
+  - Link destination: ~www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/~  <br>   www.va.gov/education/verify-school-enrollment/
+  - Notes: Consider adding content and link to this page to indicate that changes to direct deposit information for MGIB benefits can be made using the VYE tool, WAVE is no longer available
 
 <kbd> <img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/9868b71c-ed9c-4bce-9620-3b425df9ff6a"> </kbd>
 
@@ -73,7 +76,8 @@ We'll want to distinguish the global va.gov Profile from the info that will only
 
 5. **[Change your address on file with VA](https://www.va.gov/resources/change-your-address-on-file-with-va/)** - Modify
   - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/
+ - Link destination: ~www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/~   <br>  www.va.gov/education/verify-school-enrollment/
+  - Notes: Consider adding content and link to this page to indicate that changes to contact information for MGIB benefits can be made using the VYE tool, WAVE is no longer available
 
 <kbd> <img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/dca3b3f3-3d2e-4594-bab1-54da0e604302"> </kbd>
 

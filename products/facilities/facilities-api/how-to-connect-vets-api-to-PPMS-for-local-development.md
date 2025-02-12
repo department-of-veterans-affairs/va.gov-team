@@ -42,8 +42,8 @@ The following steps need to be performed each development session, since the MFA
 1. Establish an MFA token in your shell. From the root of the devops repository, run `. ./utilities/issue_mfa.sh <Aws.Username> <2FA code>`. Username is your login credential not the access key Id. It should print output like "AWS Session credentials saved. Will expire in 12 hours".
    * Note the `. ` in front of this command, this is needed to source the output of this command into your existing shell.
    * `/utilities/issue_mfa.sh` runs `aws sts get-session-token` with `--serial-number` and `--token-code` parameters, then sets multiple environment variables such as `AWS_SESSION_TOKEN`.
-2. Use the `devops/utilities/ssm-portforwarding.sh` script to start the session. e.g. `./utilities/ssm-portforwarding.sh fwdproxy dev 5303 4443`
-    1. the first argument is the application (we use the fwdproxy application to connect to PPMS)
+2. Use the `devops/utilities/ssm-portforwarding.sh` script to start the session. e.g. `./utilities/ssm-portforwarding.sh forward-proxy dev 5303 4443`
+    1. the first argument is the application (we use the forward-proxy application to connect to PPMS)
     2. the second argument is the environment - dev/staging both use the nprod endpoint so either works
     3. the third is the local port you want to use (see below)
     4. the fourth is the port on the AWS instance to use (on dev, staging, and prod 4443 is PPMS)

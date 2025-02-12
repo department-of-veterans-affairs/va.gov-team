@@ -47,40 +47,60 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 2. A fix will be prioritized and worked on
 3. The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
 
-### Phase IA: moderated production testing (also known as User Acceptance Testing, or UAT)
+### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
 
-- Desired date range or test duration: Aug 22 - Aug 23
-- Desired number of users: 2
+- Date range or test duration: Aug 22 - Sept 4
+- Number of users: 2
 - How you'll recruit the right production test users: We have identified two BAH Veterans
 - How you'll conduct the testing: UAT
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: Through use of a feature flag
 
 #### Results
 
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
+- Number of users: 2
+- Number of bugs identified / fixed: 2
+  - STS Bug: Our service account wasn't configured correctly to include the ICN; team resolved this.
+  - Incorrect config: The team was using out-of-date credentials; upstream service provided us with the updated credentials.
+  - Overwrite issue: our request headers were getting overridden - the root cause was the need to support two API keys, but our team was able to resolve this as well.
+- Was any downstream service affected by the change?: No
+- Types of errors logged: N/A
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
+- Latency: For succesful responses to the API, we had between 4 seconds and 23 seconds of latency. The team suspects that latency had a positive correlation with number of claims.
+
+### Phase I: Friends and Family testing and 5% of users
+
+#### Planning
+
+- Desired date range or test duration: Week of Oct 15
+- Desired number of users: 19
+- How you'll recruit the right production test users: We have identified 19 Veterans with VA.gov email logins to whom we will reach out and offer to test our authenticated experience.
+- How you'll conduct the testing: We will offer them an optimal workshop survey asking them to verify a few pieces of information.
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: Through use of a feature flag
+
+#### Results
+
+- Number of users: 5; we had users log in and view the page per GA, but no one provided direct feedback.
+- Number of bugs identified / fixed: none
+team was able to resolve this as well.
+- Was any downstream service affected by the change?: No
+- Types of errors logged: N/A
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
+- Latency: For succesful responses to the API, we had between 4 seconds and 23 seconds of latency. The team suspects that latency had a positive correlation with number of claims.
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
 #### Rollout Planning
 
-- Desired date range: Aug 23 - Aug 29
+- Desired date range: January 13-24, 2025
 - How will you make the product available in production while limiting the number of users who can find/access it: By using a feature flag.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Because this entire page is an MVP without a specific entry point just yet, we will be broadly monitoring health and engineering metrics as the key indicator of whether or not we can advance.
-- Links to the dashboard(s) showing "success criteria" metrics: 
+- Links to the dashboard showing "success criteria" metrics: [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)
 - Who is monitoring the dashboard(s)?: UX Leads, Engineering Lead, and Product Manager
 
-
 **Engineering Metrics (Datadog)**
-
 ***[Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)*** 
-
 
 | Metric Name | Description |
 | ----------- | ----------- |
@@ -89,6 +109,8 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 | VA.gov - Sustained high latency | p90 latency measures above x for time |
 
 **User-Facing Metrics (Google Analytics and Call Center)**
+***[Google Analytics Dashboard]([https://analytics.google.com/analytics/web/#/p419143770/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3D%252Fmy-health%252Ftravel-claim-status%26_r.explorerCard..startRow%3D0&ruid=D4F7103F-DEA1-4A09-B066-EE554BF6F5F0&collectionId=8429185582&r=all-pages-and-screens](https://analytics.google.com/analytics/web/#/p419143770/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3D%252Fmy-health%252Ftravel-pay%252Fclaims%26_r.explorerCard..startRow%3D0%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20250112%26_u.date01%3D20250113&r=all-pages-and-screens&ruid=D4F7103F-DEA1-4A09-B066-EE554BF6F5F0&collectionId=8429185582))
+
 | Metric Name | Description |
 | ----------- | ----------- |
 | Unique page views | # of individuals (% of users) who are visiting this page at least once |
@@ -109,16 +131,16 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Length of time: 2 days, beginning Aug 30
-- Percentage of Users (and roughly how many users do you expect this to be): 5% , on top of which we will include Ad Hoc, BAH, and VA veterans who have agreed to test the status page.
+- Length of time: 2 days, January 13 and January 14 
+- Percentage of Users (and roughly how many users do you expect this to be): 5%
 
 #### Results
 
-- Number of unique users: 
-- Metrics at this stage (per your "success criteria"): 
-- Was any downstream service affected by the change?: yes | no |  N/A
-- Types of errors logged:
-- What changes (if any) are necessary based on the logs, feedback on user challenges, or VA challenges? 
+- Number of unique users: 553
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: No
+- Types of errors logged: 403, 400
+- What changes (if any) are necessary based on the logs, feedback on user challenges, or VA challenges?: We decided we should implement clearer error messaging to explain when a user was getting an error related to access issues.
 
 ### Stage B: 25% of users
 
@@ -126,16 +148,16 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 1 day, January 15
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
 
-- Number of unique users: 
-- Metrics at this stage (per your "success criteria"):
-- Was any downstream service affected by the change?: yes | no |  N/A
-- Types of errors logged:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: 529
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: No
+- Types of errors logged: 403, 400
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None, except for error messaging change
 
 ### Stage C: 50% of users
 
@@ -143,16 +165,16 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 5 days, January 16 - 20
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
 
-- Number of unique users: 
-- Metrics at this stage (per your "success criteria"):
-- Was any downstream service affected by the change?: yes | no |  N/A
-- Types of errors logged:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
+- Number of unique users: 2,943
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: No
+- Types of errors logged: 403, 400
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?: None
 
 ### Stage D: 75% of users
 
@@ -160,31 +182,31 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 2 days, January 21 - 22
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
 
-- Number of unique users: 
-- Metrics at this stage (per your "success criteria"):
-- Was any downstream service affected by the change?: yes | no |  N/A
-- Types of errors logged:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
+- Number of unique users: 2,933
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: No
+- Types of errors logged: 403, 400
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?: Error messaging for pages - work ongoing.
 
 ### Stage E: 100% of users
 
 #### Planning
 
-- Length of time: 1 day
+- Length of time: 1 day, January 23
 - Percentage of Users: 100%
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: 2,170
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: [PICK_ONE]: no
+- Types of errors logged: 403, 400
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? Error messaging deploys on Monday
 
 ## Post Launch metrics
 

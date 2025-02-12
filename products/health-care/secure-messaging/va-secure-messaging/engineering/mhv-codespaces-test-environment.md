@@ -15,8 +15,19 @@ Before you begin, make sure you have the following:
 1. In Github, click on your profile icon in the top right corner. Select Settings
 2. In the left hand navigation panel, navigate to Codespaces
 3. Click on the "New secret" button.
-4. Enter the name `VETS_WEBSITE_MHV_MOCK_SERVICE` and value `YES` for your secret, and click on the "Add secret" button.
-5. To speed the the build time and if static content is not required, optionally set another secret name `VETS_WEBSITE_BUILD_CONTENT` with value `NO`
+4. Configure `VETS_WEBSITE_MHV_MOCK_SERVICE` secret:
+   - Enter the name `VETS_WEBSITE_MHV_MOCK_SERVICE`
+   - Set value to  `YES` for your secret
+   - Select `vets-website` in repository access dropdown
+   - Click on the "Add secret" button.
+   - <img width="300" src="https://github.com/user-attachments/assets/caab09ec-43a8-4751-9bea-e693336162d7" />
+
+6. To speed the the build time and if static content is not required, optionally set another secret name `VETS_WEBSITE_BUILD_CONTENT`
+   - Click on the "New secret" button
+   - Enter the name `VETS_WEBSITE_BUILD_CONTENT`
+   - Set value to  `NO`
+   - Select `vets-website` in repository access dropdown
+   - Click on the "Add secret" button.
 
 ### 2. Open the `vets-website` Repository in Codespaces
 1. Navigate to the [vets-website repository](https://github.com/department-of-veterans-affairs/vets-website) in your web browser.

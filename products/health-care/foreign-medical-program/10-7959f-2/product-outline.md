@@ -74,7 +74,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 --- 
 
 ## Launch Strategy
-- [Link to Release Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [10-7959f-2-release-plan](products/health-care/foreign-medical-program/10-7959f-2/10-7959f-2-release-plan.md)
 
 ## Launch Dates
 - *Target Launch Date*

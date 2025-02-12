@@ -9,7 +9,7 @@ After discovering long-standing issues with the 526ez and 686c forms, we have en
 * Monitors to trigger Slack alerts based on those logs[^3]
 * Real User Monitoring[^4]
 
-Though there is, and should always be, room for improvement, our logging and monitoring for NOD is fairly comprehensive.  But we have yet to build more comprehensive logging and monitoring for the SC and HLR forms.  Once we have the capacity, we ought to bring SC and HLRk up to par with NOD.
+Though there is, and should always be, room for improvement, our logging and monitoring for all 3 forms is fairly comprehensive.
 
 ## Logging
 
@@ -17,9 +17,9 @@ While building more comprehensive logging and monitoring for the NOD form, we es
 
 ## Monitoring
 
-The enumerated monitors below (see “Monitors” sections below) are configured to send alerts to the #benefits-alerts-notifications and #benefits-decision-reviews-notifications channels in VA’s Slack.  The former channel contains alerts from all benefits teams, including our own.  The latter channel contains alerts from our Decision Reviews apps only.  We have a rotating Monitor Triage Duty role (see “Monitor Triage Duty” below) to monitor this latter channel.
+The enumerated monitors below (see “Monitors” sections below) are configured to send alerts to #benefits-decision-reviews-notifications channel in VA’s Slack.  The channel contains alerts from our Decision Reviews apps only.  [TBD - Rotating Monitor Triage Duty role for monitoring this channel]
 
-### Monitor Triage Duty
+### Monitor Triage Duty [\*\*Pending Process Changes\*\*]
 
 Every sprint, at least one engineer is assigned to monitor the #benefits-decision-reviews-notifications channel and triage any alerts that pop up during the sprint.  That engineer’s monitor triage work is represented by a ticket like [this one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77054).  Please note the description in the linked ticket.  The goal of monitor triage is _not_ to immediately resolve any bugs that arise.  Rather, the goal is to conduct a preliminary investigation to determine whether no follow up is necessary, or if follow up is necessary, to draft a ticket to be discussed and prioritized at the next standup (see “Creating a Bug Ticket” below).  Traditionally, we have assigned 2 points to this ticket.
 
@@ -29,7 +29,7 @@ Towards the end of an engineer’s monitor triage duty, they should create a tri
 
 ### Creating a Bug Ticket
 
-We add bug tickets to [this board](https://github.com/orgs/department-of-veterans-affairs/projects/876/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C46447480%2C46447511%2C46447563%2C56266716%2C%22Labels%22%5D).  When creating a bug ticket, don’t worry too much about creating “The Perfect Ticket.”  If you can, great; but if you can’t, you will be able to refine it later.  But please do make sure to indicate the following:
+We add bug tickets to our Product Backlog using our [bug ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Decision-Reviews-Team%2Cneeds-grooming%2Cneeds-refinement%2Cbug&projects=&template=Decision-Reviews-Bug-Template.md&title=).  When creating a bug ticket, don’t worry too much about creating “The Perfect Ticket.”  If you can, great; but if you can’t, you will be able to refine it later.  But please do make sure to indicate the following:
 
 1. The date and time of the bug.
 2. The severity of the bug (i.e. the extent of harm it causes to the Veteran), including whether it is a silent error.
@@ -41,7 +41,7 @@ We add bug tickets to [this board](https://github.com/orgs/department-of-veteran
 
 Ideally, you would have gained a rough sense of the severity and impact of the bug during your preliminary investigation.  If you didn’t, consider extending it to learn these crucial details.  If doing so would be impracticable or otherwise unjustifiable during the current sprint, please indicate that the severity or impact are unknown.
 
-Most bug tickets must begin as spikes, since the root cause of a bug is often not immediately apparent.  For such spikes, you can assume that the bug ticket will be an 8 hour (1 point) spike ticket, and that the goal of the spike ticket will be to:
+Most bug tickets begin as spikes, since the root cause of a bug is often not immediately apparent.  For such spikes, you can assume that the bug ticket will be an 8 hour (1 point) spike ticket, and that the goal of the spike ticket will be to:
 
 1. Understand the root cause well enough to draft a non-spike ticket to address it.  Or, push a bug fix if the root cause is _very_ easy to fix.
 2. If necessary and possible, somehow resolve the Veteran(s)’s immediate issue.  And if necessary but not possible, draft a follow-up ticket to do the same.
@@ -70,11 +70,9 @@ Every error is different, but here are some general tips for investigating error
 
 You can oftentimes find the backtrace for an error by clicking on a log’s “trace” tab, clicking “View Trace Details,” and then clicking “Errors.”
 
-Many logs contain a user_uuid that you can use to find related errors in Sentry (via the `user.id` parameter).
+Many logs contain a user_uuid that you can use to find related errors in Sentry (via the `user.id` parameter) if there are not enough details from the DataDog trace. Keep in mind that there are plans to sunset our use of Sentry, so if you find a specific case where there is additional logging that is only being sent to Sentry, please create a ticket to cover adding similar logging to DataDog. [Here is an example](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90265) of that kind of ticket.
 
 Job logs contain a `@named_tags.jid` that you can use to find other logs associated with the job.  This can help you determine, among other things, whether a failed job succeeded on retry.  You can find job logs using the `class` and `jid` of the job (e.g. `@named_tags.class:"DecisionReview::SubmitUpload" @named_tags.jid:12345`).
-
-Sometimes, 503 and 504 errors are erroneously characterized as 4xx errors.  This problem is ticketed [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66874).
 
 #### Inspecting InProgressForm Data
 
@@ -165,12 +163,15 @@ We also have [browser monitoring enabled](https://github.com/department-of-veter
 
 ### Monitors
 
-* [Supplemental Claims errors](https://vagov.ddog-gov.com/monitors/159197?view=spans)
-* [Supplemental Claims API traffic is low](https://vagov.ddog-gov.com/monitors/159229?view=spans)
-* [Supplemental Claims API traffic anomaly check](https://vagov.ddog-gov.com/monitors/169719?view=spans)
+* [SC - Overall Claim Submission traffic is low](https://vagov.ddog-gov.com/monitors/215137)
+* [SC - Overall Claim Submission - Errors]([https://vagov.ddog-gov.com/monitors/159197?view=spans](https://vagov.ddog-gov.com/monitors/215138))
+* [SC - Overall Claim Submission API traffic anomaly check](https://vagov.ddog-gov.com/monitors/215144)
+* [SC - Get Contestable Issues - Error rate](https://vagov.ddog-gov.com/monitors/215140)
 * [NOD/SC - Evidence Upload to Lighthouse - Permanent Errors](https://vagov.ddog-gov.com/monitors/168064?view=spans)
 * [NOD and SC Evidence traffic is low](https://vagov.ddog-gov.com/monitors/159450?view=spans)
 * [NOD and SC Evidence traffic anomaly check](https://vagov.ddog-gov.com/monitors/169739?view=spans)
+* [Form 4142 errors (Ancillary Form)](https://vagov.ddog-gov.com/monitors/160408)
+* [Form 4142 submissions anomaly check](https://vagov.ddog-gov.com/monitors/175149)
 
 ### Google Analytics
 
@@ -188,9 +189,10 @@ We also have [browser monitoring enabled](https://github.com/department-of-veter
 
 ### Monitors
 
-* [Higher Level Review errors](https://vagov.ddog-gov.com/monitors/159451?view=spans)
-* [Higher Level Review API traffic is low](https://vagov.ddog-gov.com/monitors/159452?view=spans)
-* [Higher Level Review API traffic anomaly check](https://vagov.ddog-gov.com/monitors/169720?view=spans)
+* [HLR - Overall Claim Submission traffic is low](https://vagov.ddog-gov.com/monitors/216092)
+* [HLR - Overall Claim Submission API traffic anomaly check](https://vagov.ddog-gov.com/monitors/216093)
+* [HLR - Overall Claim Submission - Errors](https://vagov.ddog-gov.com/monitors/216091)
+* [HLR - Get Contestable Issues - Error rate](https://vagov.ddog-gov.com/monitors/216094)
 
 ### Google Analytics
 

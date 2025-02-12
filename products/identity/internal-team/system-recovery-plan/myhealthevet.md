@@ -35,3 +35,5 @@ Once we have received notice from the OCTO Platform Team that VA.gov infrastruct
    3. [Production Outbound [MHV Unified Sign-in] logingov IAL1 SSOe](https://vagov.ddog-gov.com/monitors/89572)  
    4. [Production [MHV Unified Sign-in] VA.gov Auto Sign-in Test IDme SSOe](https://vagov.ddog-gov.com/monitors/89573)  
    5. [Production [MHV Unified Sign-in] VA.gov Auto Sign-in Test MHV SSOe](https://vagov.ddog-gov.com/monitors/89574)
+3. Login with MHV LOA1 account using the account credentials with the name "sylvest2" linked [here[(https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Test%20Documentation/test_accounts.md)
+4. State in the #identity-support channel that all MHV services have been confirmed to be working.

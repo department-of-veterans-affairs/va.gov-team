@@ -6,7 +6,7 @@ Date: 2/08/2024
 
 Cara Frissell (cara.frissell@adhocteam.us)
 
-[Research readout](link here)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-status/v1/Research/2023-12-VetStatus-Use-Case-Discovery/FindingsDeck.md)
 
 ## OCTO Priorities 
 

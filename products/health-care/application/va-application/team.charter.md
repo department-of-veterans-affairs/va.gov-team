@@ -44,7 +44,8 @@ Health Products
 - Matt Kerns | matthew.kerns@va.gov / matt.kerns@agile6.com / GH "mkerns1" - Frontend Engineer
 - Derrick Ellerbie | derrick.ellerbie@va.gov / derrick.ellerbie@Agile6.com / GH "dellerbie" - Full Stack Engineer
 - Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com / GH "JoshingYou1" - Full Stack/Backend focus Engineer
-- Mitch Saltykov | dmitry.saltykov@va.gov / mitch.saltykovs@agile6.com / GH TBD - Full Stack Engineer
+- Mitch Saltykov | dmitry.saltykov@va.gov / mitch.saltykovs@agile6.com / GH "mitch-a6" - Full Stack Engineer
+- Brandon Cooper |brandon.cooper1@va.gov / brandon.cooper@adhocteam.us /  GH "coope93' - Full Stack/Backend focus Engineer
 - Luis Simauchi | luis.simauchi@va.gov / luis.simauchi@adhocteam.us / GH "luis-simauchi" - Sr Data Analyst
 - Allan To | allan.to@va.gov / allan.to@adhocteam.us / GH "allanto-ah" - QA Engineer
 

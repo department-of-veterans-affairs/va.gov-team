@@ -1,7 +1,7 @@
 name: "Collaboration Cycle Request"
 description: "Begin engaging with the Collaboration Cycle."
 title: "Collaboration Cycle for [Team Name, Product Name, Feature Name]"
-labels: ["collab-cycle-review", "collaboration-cycle", "CC-Request", "sitewide CAIA"]
+labels: ["collab-cycle-review", "collaboration-cycle", "CC-Request"]
 assignees: []
 body:
   - type: markdown
@@ -22,13 +22,6 @@ body:
   - type: markdown
     attributes:
       value: "## VFS product or feature information"
-  - type: checkboxes
-    id: verify-directory
-    attributes:
-      label: Verify information about your product or feature in the VFS Product Directory.
-      options:
-        - label: I have reviewed the [VFS Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory) and confirm that my information is correct (or that I have taken appropriate actions to update or add my product information to the directory).
-          required: true
   - type: input
     id: product-team
     attributes:
@@ -92,6 +85,16 @@ body:
       value: |
         Please refer to the guidance on the [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff) page on Platform Website for detailed information and examples regarding these questions (below).
   - type: dropdown
+    id: mobile-web
+    attributes:
+      label: Where will your product live?
+      description: If you are building a product for VA.gov and the VA Mobile App then you must bring the product through the Collaboration Cycle twice, once for each domain.
+      options:
+        - "VA.gov"
+        - "VA Mobile App"
+    validations:
+      required: true
+  - type: dropdown
     id: visible-changes
     attributes:
       label: Will your work result in visible changes to the user experience?
@@ -122,6 +125,15 @@ body:
         - "Other"
     validations:
       required: true
+  - type: dropdown
+    id: architecture-intent
+    attributes:
+      label: Does your work require non-trivial code changes or involve PII/PHI?
+      description: If so, you need an [engineering and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/collab-cycle/architecture-intent-meeting.md).
+      options:
+        - "Yes"
+        - "No"
+        - "Unsure"
   - type: dropdown
     id: analytics-domo
     attributes:

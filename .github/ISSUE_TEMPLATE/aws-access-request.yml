@@ -132,3 +132,5 @@ body:
       - label: "If user is on a VFS team but not a team member in Atlas, add the 'NOT YET' label and instruct them to start the [Platform orientation process](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html)"
       - label: "If a user is on a Platform team but not on the Platform Team Roster in Confluence, add the 'NOT YET' label and instruct them to reach out to their Product Manager to be added."
       - label: "Comment in this issue saying which roster the user is listed in."
+      - label: |
+          :warning: Is production access being requested or extended? Be sure to communicate to the Tier 1 Team that they need to set a reminder for the access expiration :warning:

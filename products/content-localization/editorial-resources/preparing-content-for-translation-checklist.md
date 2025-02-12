@@ -92,5 +92,5 @@ _Note: This is a WIP checklist._
 
 | Like this | Not like this |
 |---|---|
-| [Descubra si es elegible para la atención médica de VA (en inglés)](https://www.va.gov/health-care/eligibility/) | [Descubra si es elegible para la atención médica de VA](https://www.va.gov/health-care/eligibility/)  |
+| [Obtenga más información sobre estos problemas poco frecuentes en el sitio web de los CDC (en inglés)](https://www.cdc.gov/vaccine-safety/vaccines/covid-19.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fvaccines%2Fsafety%2Fsafety-of-vaccines.html) | [Obtenga más información sobre estos problemas poco frecuentes en el sitio web de los CDC](https://www.cdc.gov/vaccine-safety/vaccines/covid-19.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fvaccines%2Fsafety%2Fsafety-of-vaccines.html) |
 

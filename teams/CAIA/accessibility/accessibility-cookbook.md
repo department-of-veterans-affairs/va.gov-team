@@ -209,3 +209,250 @@ Another way to think about this through the lens of our work on VA.gov and assoc
 ### Last updated
 
 May 20, 2024
+
+***
+
+## Visually hidden link / button text best practices
+
+When we think about assistive technology, we usually think of - and test for - screen readers first. But there are other widely used types of assistive tech that we need to account for.
+
+Users with motor difficulties may use **voice command applications** to control their devices. This includes navigating websites and filling out online forms. Applications include Dragon (Windows, third-party), Voice Control (Mac and iOS, built-in), and Speech Recognition (Windows 10, built-in).
+
+For example, to activate a link with the visible label “My Profile” on a web page, a user of a voice command app can say “Click ‘My Profile.’” to activate the link.
+
+### Accessibility problem being solved
+
+We often use `aria-label` or `aria-labelledby` to create text for assistive technology that better explains the purpose of a button or link. For example, [form review pages](https://design.va.gov/templates/forms/review) have an "Edit" button for each section of the form. These are differentiated by pulling in the section heading - the "Edit" button under "Personal information" has an `aria-label` of "Edit personal information." This works very well for screen readers.
+
+The problem: Voice command applications display different behavior when the visual label ("Edit") doesn't match the computed accessible name, or accName (the `aria-label` or `aria-labelledby`). Some solely use the visual label, some soley use the accName, and some use a mix of both!
+
+### Ideal state
+
+Our goal is for as many users as possible, using whatever technology they need in order to access VA.gov, to easily select links and buttons.
+
+**Ideally,** teams should use distinct visual labels for each link / button on a screen. This avoids the issue of needing `aria-label` or `aria-labelledby` entirely.
+
+When this isn't always possible, due to visual design constraints (for example, link / button text on too many lines on mobile devices), you'll need to use `aria` in some capacity. This is fine, but the visual label and the `aria` text must start with the **same word**.
+- **Do this:** `<button aria-label="Edit personal information">Edit</button>` - most voice command applications will work if you say "Click 'Edit'"
+- **Not this:** `<button aria-label="Please submit the form">Submit</button>` - some voice command applications will _not_ work if you say "Click 'Submit'"
+
+### aria-label or aria-labelledby?
+
+`aria-labelledby` is preferred because it uses visual text to create an accName. That text is able to be translated by machine translation apps like Google Translate. If you're able, use `aria-labelledby`! 
+
+Example:
+```
+<h2 id="theHeading">Personal information</h2>
+<button id="theButton" aria-labelledby="theButton theHeading">Edit</button>
+The accName here is "Edit Personal information.
+```
+
+`aria-label` does _not_ translate, since the label is in an HTML attribute. But **if you're using VADS components**, you **must** use `aria-label` - components use the ShadowDOM, and can't access anything outside of themselves (like a heading further up the page). Use the component's props to add an `aria-label`.
+
+Example:
+```
+<va-button
+  label="Edit personal information"
+  onClick={function noRefCheck(){}}
+  text="Edit"
+/>
+```
+
+
+### Implementation notes
+**Note:** MacOS and iOS Voice Control generally uses the computed accName only to identify links and buttons; only distinct visual labels will be 100% usable by this group. However, these users have other ways to access links and buttons, via numbered flags or a numbered grid, so these aren’t wholly inaccessible to them.
+
+### How we tested
+First, we created a [testing script](https://coforma-jamie.github.io/VoiceCommandTest/) to test interactive elements - links, buttons, radio buttons, checkboxes, text inputs - with unique instances of `aria-label` and `aria-labelledby` for a variety of "vanilla" semantic HTML interactive elements and VADS components.
+
+Then we tried activating each element using the visual label and its `aria` accName (if applicable), and recorded our findings in a [spreadsheet](https://docs.google.com/spreadsheets/d/154S4eYogg-k-Lx-GFLZuriIs8Nr3q2LO7gRY3jxamvU/edit?gid=0#gid=0).
+
+To test, we used these apps:
+- Voice Control (MacOS and iOS)
+- Dragon
+- Windows Speech Recognition (Win 10)
+- Windows Voice Access (Win 11)
+- Talon
+- Android Voice Access
+
+### Further reading
+- [What is an accessible name?, TPGi](https://www.tpgi.com/what-is-an-accessible-name/)
+- [GH ticket #92432 - Voice command and interactive elements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92432)
+
+### Last updated
+October 15, 2024
+
+***
+
+## Fieldsets, Legends, Labels
+
+
+### Best practices
+
+#### Quick HTML Tutorial
+
+`<input>` is how a user enters information (radio buttons, text boxes, etc.)
+
+`<label>` tells a user what the `<input>` is for
+
+`<fieldset>` puts more than one `<input>` into a group, and `<legend>` describes the group. 
+
+### Accessibility problem being solved
+
+By placing the checkboxes or radio buttons in a fieldset, and the appropriate label or question for the options in the legend, the label or question is programmatically connected to the presented options.  Without this programmatic association, screen reader users would only hear the labels on the radio button or checkboxes announced and wouldn't know why they should choose a particular option.
+
+You can also use fieldsets and legends to multiple questions about the same topic.  For example, an address is composed of many fields for street, city, state. You may place the words "Mailing address" in the legend, and all of the address fields in the fieldset. This helps users understand that you are collecting a mailing address vs. some other type of address.
+
+
+#### When to use a fieldset and legend
+
+You should use fieldsets and legends when:
+* You ask a question that has multiple choices (using radio buttons or checkboxes)
+* You have several items you need to group relating to the same topic (like with text inputs, selects, etc)
+
+
+#### When not to use a fieldset and legend
+
+You should not use a fieldset and legend when:
+
+* You have a single form field where the label is descriptive enough to capture the information needed.
+
+
+### Ideal State
+
+Note, that without annotations, it’s not clear what the intended fieldset/legend should be.
+
+
+#### Example 1 - Text input
+
+<img width="622" alt="text input with headings and hint text" src="https://github.com/user-attachments/assets/e5d8a361-3357-4a8c-b409-1e529e7ac4bd" />
+
+
+<details><summary>Expand to see annotated screenshot</summary>
+  
+<img width="1173" alt="text input with annotaitons" src="https://github.com/user-attachments/assets/63695056-a927-4f3d-bff8-99036e84e376" />
+
+Annotations make this more clear to an engineer or anyone else reviewing the designs.
+
+</details>
+
+##### Coded example
+
+```JavaScript
+<fieldset>
+  <legend>
+    <h1 class="some-heading-class">Heading [will be announced when tabbing into the first input in the fieldset]</h1>
+    <span class="some-helper-text-class">Helper text, inside the legend but styled to look like regular text [will be announced when tabbing into the first input in the fieldset]</span>
+  </legend>
+  <p>Helper text, outside the legend [will NOT be announced when tabbing into the first input in the fieldset]</p>
+  <va-text-input label="Input label [will be announced]" hint="Hint text [will be announced etc]" ... />
+</fieldset>
+```
+
+- [Codepen link](https://codepen.io/Jeana-Clark/pen/jENBmBW)
+- [Codepen test example](https://cdpn.io/pen/debug/jENBmBW)
+
+##### Video examples from the major screen readers
+
+<details><summary>NVDA</summary>
+  
+  https://github.com/user-attachments/assets/4f204650-bc73-4b07-ab88-fe6cc5d5bf31
+
+</details>
+
+
+<details><Summary>JAWS</Summary>
+  https://github.com/user-attachments/assets/ad694dc6-3c09-45e3-b7f6-a1fb8532bf4a
+</details>
+
+<details><summary>Mac VoiceOver</summary>
+  
+  https://github.com/user-attachments/assets/7ed327a2-ddf4-4887-9eb0-2eaea5286153
+
+</details>
+
+
+#### Example 2 - Checkbox group
+
+<img width="519" alt="preview of checkbox group" src="https://github.com/user-attachments/assets/4ddeca5b-df73-4e6f-b5a9-e068139b162c" />
+
+
+<details><summary>Expand to see annotated screenshot</summary>
+  
+<img width="1033" alt="checkbox group with annotations" src="https://github.com/user-attachments/assets/68d75f62-0ef6-4c72-8b02-9d0d8060f792" />
+
+
+Annotations make this more clear to an engineer or anyone else reviewing the designs.
+
+</details>
+
+##### Code example
+
+* [Codepen link](https://codepen.io/Jeana-Clark/pen/NPKVPKy)
+* [Codepen test example](https://cdpn.io/pen/debug/NPKVPKy)
+
+
+##### Video examples from the major screen readers
+
+<details><summary>NVDA</summary>
+  
+  https://github.com/user-attachments/assets/c162036e-9b6a-4c78-9cb1-c923c02e60ce
+
+</details>
+
+<details><summary>JAWS</summary>
+  
+  https://github.com/user-attachments/assets/1ce9b002-6a41-4b6f-96b0-69d1321c620d
+
+</details>
+
+<details><summary>Mac Voiceover</summary>
+
+  https://github.com/user-attachments/assets/89dfb783-e186-4954-93a3-1eefb5952fd7
+
+</details>
+
+
+### Other considerations
+
+#### Headings as `<label>` or `<legend>`
+
+There's a semantic difference when you want to make a `<label>` a heading or a `<legend>` a heading.
+
+For example, if you have only a text input or text area label, and you want to make that a heading, the heading tag has to be wrapped *around* the label.
+
+**Note:** This is only partially supported in the VA Design System. More to come.
+
+However, if you want to have a heading over a group of fields, or a checkbox/radio group, you will place the heading inside the legend
+
+
+#### Content considerations
+
+Besides a heading, strings of text can also be placed within the legend. However, they cannot have any other semantic meaning. List items cannot be placed in a legend. Links, or multiple paragraphs also cannot be placed in a legend. 
+
+Designers should consider only adding text that is necessary for screen readers to understand the context of the question or task. Adding a lot of text can lead to verbosity that's hard for some users to comprehend.
+
+
+#### Focus management
+
+Sending focus to the legend may cause the heading to be read multiple times depending on the screen reader.
+
+
+### Further Reading
+
+* [Foundations: grouping forms with `<fieldset>` and `<legend>`](https://tetralogical.com/blog/2025/01/31/foundations-fieldset-and-legend/)
+* [Use legend and fieldset (Adrian Roselli)](https://adrianroselli.com/2022/07/use-legend-and-fieldset.html)
+* [Styling options for labels and fieldsets (Gov.UK)](https://design-system.service.gov.uk/get-started/labels-legends-headings/#styling-options-for-labels-and-legends)
+* [Fieldsets, Legends and Screen Readers again (TPGi)](https://www.tpgi.com/fieldsets-legends-and-screen-readers-again/)
+* [Grouping form controls with headings (Accessibility Developer Guide)](https://www.accessibility-developer-guide.com/examples/forms/grouping-with-headings/)
+* [How to guides: Making labels and legends headings (Gov.UK)](https://design-system.service.gov.uk/get-started/labels-legends-headings/)
+
+### Last updated
+February 3, 2025
+
+Written by: @Jeana-adhoc 
+
+With thanks to: @davidakennedy, @briandeconinck, @coforma-jamie 
+
+***
+

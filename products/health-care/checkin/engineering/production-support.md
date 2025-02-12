@@ -14,7 +14,7 @@ Here is the current production support guidance for Check-in Experience team:
                 - Primary - is responsible for responding to incidents/issues
                 - Secondary - is the next person in line to be Primary and takes over for the Primary if they need to be OOO
             - On call persons will get a call/text if an issue needs to be addressed (depending on your configuration in PagerDuty)
-        - Use the [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/decisions/Chip-Lorota-Playbook.md) to guide incident/issue response
+        - Use the [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/vetext-pci-incident-response/incident-response-playbook.md) to guide incident/issue response
         - In the event that an issue is resulting from something upstream, bring attention to the issue in the following [vettext-production-support channel](https://dsva.slack.com/archives/C052BC1893K) and use the following call-out "@vetext-tier-3-team"
     - Slack channels
         - [#check-in-production-support](https://dsva.slack.com/archives/C02UP02HHGX)

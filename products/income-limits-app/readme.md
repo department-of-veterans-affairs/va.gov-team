@@ -160,7 +160,7 @@ Primary stakeholders are in VHA Member Services
 Veteran Health Administration (VHA) > [Undersecretary for Health] > Operations > Member Services
 
 Under Member Services are:
-  - Healthcare Eligibility Center (HEC)
+  - Health Eligibility Center (HEC)
     - EED (Enrollment and Eligibility) – _believe this is a child office to HEC_
   - Veterans Transportation Program (VTP) – manages beneficiary travel reimbursement program
 

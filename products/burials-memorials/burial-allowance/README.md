@@ -14,6 +14,7 @@ VA Form 21P-530 (Application for Burial Benefits) enables eligible individuals t
 - [Prefilling military history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/feature-briefs/Service%20history%20API.md)
 - [High Level Archtictecure Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/BurialFlow.png)
 - [Data Flow Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/Burial%20Data%20Flow%20Diagram.png)
+- [Product guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/contact-center/vfs-product-guides)
 
 ---
 ## Incident Response
@@ -114,3 +115,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - VBA Stakeholders and SMEs: Eric Henne, Terrence Minyard, Chelsey Carlin, Maureen Domzalski, Jennifer Feuer, Derek Uttley
 - CAIA Team (content review)
+
+#### Privacy officer
+ - Renu Roy (renu.roy@va.gov) 

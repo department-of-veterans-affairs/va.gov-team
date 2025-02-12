@@ -1,4 +1,4 @@
-# IA Design for V1 Transition Questionnaire
+# IA Design for V2 Transition Questionnaire
 **STATUS:In Progress**
 
 **Team:** Transition experience
@@ -23,18 +23,18 @@ Slack channel: #ves-transition
 
 
 ## <a name="map"></a>Page structure<br>
-For the MVP, this tool will only display careers/employment benefits. But, the future plan is to have this tool display all types of benefits. Therefore, we decided to publish this page into ROOT so that we don't have to change the URL a bunch of times as new benefits are added to the tool. 
+[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716219020147/013c6f25f45e35963469c7bb7a94b66e1402f663?wid=0-1722446695647)
+For the V1, this tool will only display careers/employment benefits, and will be shown in production only to a specific set of internal VA users. For V2, the team will include all main benefit types, and the tool will become available to general VA.gov users. 
+![Screenshot 2024-10-21 at 3 59 35 PM](https://github.com/user-attachments/assets/93460129-2279-4ab9-a009-a1a2f4e1d3e5)
 
-![Screenshot 2024-07-31 at 12 24 37 PM](https://github.com/user-attachments/assets/b205f124-ec07-465f-852f-0861f372b551)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
 The URL should be a permenant home for the tool. 
 
 **1) Transition experience benefit questionnaire - New**
-- URL: va.gov/benefit-eligibility-questionnaire/ (TBD!!!)
-- Breadcrumb: none since only 2 levels deep?
-- Notes: This URL is not finalized -- it's just a suggestion to show the idea of the URL being benefit-agnostic, rather than focused specifically on careers. The final URL needs to be created in partnership with the content team.
+- URL: va.gov/discover-your-benefits/
+- Breadcrumb: none since only 2 levels deep
 
 ### Sub-URLs
 The CAIA IA team would like to give feedback on the sub urls that the team suggests. 
@@ -44,28 +44,19 @@ The CAIA IA team would like to give feedback on the sub urls that the team sugge
 ### Primary entry point
 _Most of the time this is the CTA on a tool static landing page (a sign in widget).  For forms, it may be on a How to apply page or equivalent. Sometimes the only way to access a feature is via navigation component (top, left) or a header/footer/home page link. This is the only entry point that HAS to be ready to launch when a team goes through staging review._
 
-1. **Transition experience V1 questionnaire static page** - New
-  - Placement description: An action link (since this tool is not auth-only) below descriptor content on the page.
-  - Link label: TBD by content
-  - Link destination: TBD tool URL
-![Screenshot 2024-07-31 at 12 34 17 PM](https://github.com/user-attachments/assets/b6d678e3-cc08-44d2-896b-455dcd3caa2f)
-
-
-### Secondary entry points
-_Any additional locations that the page should be navigable from.  This is often an about-a-form page, an R&S page about the feature, or can be left nav or mega menu.   These are secondary, and while they are still very important, are not required for launch._
-
-1. **Careers and employment hub page** - Add
-  - Placement description: In the 'More information and resources' section, after 'VetSuccess on Campus' and before 'Veteran Readiness and Employment glossary'
-  - Link label: TBD by content
-  - Link destination: TBD questionnaire static page
-![Screenshot 2024-07-31 at 12 30 45 PM](https://github.com/user-attachments/assets/1f4ed0b9-2bc5-4ea7-9e72-1e61f8c34e63)
-
-2. **Careers and employment left nav** - Add
-  - Placement description: In the 'More  resources' section, after 'VetSuccess on Campus' and before 'Program definitions'
+1. **[Getting started with VA](https://www.va.gov/resources/getting-started-with-va/)** - Add
+   -  Placement description: TBD by content, but somewhere on this page we can direct ppl to the questionnaire static page
   - Link label: TBD by content
   - Link destination: TBD questionnaire static page
 
-![Screenshot 2024-07-31 at 12 31 04 PM](https://github.com/user-attachments/assets/4d1ba735-0fd2-4d32-b268-ca9cbddecb4e)
+
+### Secondary entry points - BLOCKED
+
+1. **[Service member hub page](https://www.va.gov/service-member-benefits/)** - Add
+  - Placement description: Add a new 'Other VA benefits and services' grey box section (like this one in the [disability hub](https://www.va.gov/disability/)), and link to the R+S page from there. 
+  - Link label: Getting started with the VA
+  - Link destination: https://www.va.gov/resources/getting-started-with-va/
+  - NOTE: the team is still deciding whether they want to put an entry point here, because there is so much more traffic (60k/month according to Gene). So since we aren't doing incremental release, it is riskier to add an entry point here, in case something goes wrong, or we find that info is incorrect. Decision: don't include this entry point at launch, but we could consider adding it in the future. 
 
 
 ## <a name="redirects"></a>Redirects <br>
@@ -73,15 +64,7 @@ No redirects needed since this is a net-new tool
 
 
 ## <a name="bestbets"></a>Best Bets<br>
-We could look into a best bet that might make sense, but unlikely that users are going to be searching for careers-specific explorer tool
+We could look into a best bet that might make sense, but unlikely that users are going to be searching for careers-specific explorer tool. Our current best bet strategy is to keep the best bet on the getting-started-at-VA R+S page, rather than creating an additional one for the questionnaire. 
 
 ## <a name="stagedrollout"></a>Staged Rollout<br>
-*Is the team planning a staged rollout? Pages/sections that can't have a widget: find a form pages, within accordions, hub pages*
-
-**[Which static page has the widget, ie the main entry point?]**
-
-
-
-
-<hr>
-<hr>
+The team is not going to do a staged rollout.

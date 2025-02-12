@@ -45,6 +45,7 @@ The results of the usability portion of the study will help us determine if our 
 3. What goals are Veterans hoping to accomplish within Medical Records?
 4. What are Veterans’ expectations and use cases for printing/downloading Medical Records?
 5. What are Veterans’ perceptions of the new experience in which they view their records on screen?
+6. How do the goals, expectations, and experiences with Medical Records for Veterans who use assistive technologies vary from those who do not?
 
 ## **Hypothesis**
 
@@ -339,18 +340,18 @@ Note: Please do not schedule more than 4 sessions per day.
 
 ## Team Roles
 
-Moderator: Mel Stern ([melissa.stern@bylight.net](mailto:melissa.stern@bylight.net))
+Moderator: Mel Stern 
 
 Research guide writing and task development: Anne Kennedy, Mel Stern, Melissa Ashton
 
 Participant recruiting & screening: Perigean
 
-Project point of contact: Anne Costello Kennedy ([anne.costello@bylight.com](mailto:anne.costello@bylight.com))
+Project point of contact: Anne Costello Kennedy 
 
-Accessibility specialist: Riley Orr (<riley.orr@adhocteam.us>)
+Accessibility specialist: Riley Orr 
 
 Participants for pilot test: TBD – we will do this ourselves, thank you.
 
-Note-takers: Melissa Ashton (<melissa.ashton@bylight.com>)
+Note-takers: Melissa Ashton 
 
-Observers: Marci McGuire (<marci.mcguire@va.gov>) Kaitlin Fink ([kaitlin.fink@va.gov](mailto:kaitlin.fink@va.gov)), Lexi Wunder ([alexia.wunder@bylight.com](mailto:alexia.wunder@bylight.com)) Scott Tyrcha ([scott.tyrcha@bylight.com](mailto:scott.tyrcha@bylight.com))
+Observers: Marci McGuire, Kaitlin Fink, Lexi Wunder, Scott Tyrcha 

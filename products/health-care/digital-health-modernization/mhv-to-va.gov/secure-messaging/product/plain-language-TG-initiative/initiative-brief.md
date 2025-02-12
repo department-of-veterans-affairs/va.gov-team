@@ -33,7 +33,7 @@ Date | Description | Links
 November 2022 | Discovery research with MHV Coordinators and VA SMEs | [Readout on Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2022-11-triage-group-naming-discovery) 
 April 2023 | Solution discovery and initial proposals | [Solutions readout with stakeholders](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FSecure%20Messaging%2FTriage%20Group%20Naming%2FPrior%20Research%20pre%202024%2FTriage%5FSolutions%5FAprilDiscussion%20%281%29%202023%2Epdf&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac&parent=%2Fsites%2FHealthApartment%2FShared%20Documents%2FSecure%20Messaging%2FTriage%20Group%20Naming%2FPrior%20Research%20pre%202024) 
 August - October 2023 | Triage group naming generation research to understand Veterans behaviors and expectations when figuring out who to message | [Readout on Github (October 2023)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study)  
-March - May 2024 | Site visits to facilitis to observe MHV Coordinator workflows | link coming
+March - May 2024 | Site visits to facilities to observe MHV Coordinator workflows | link coming
 August 2024 | Comparative study for new care team names | [Study plan on Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2024-07-Care-Names-Comparative-Study/2024-07-Care-Names-Comparative-Study-research-plan.md)
 
 ## Root cause: poor data standardization and quality at point of triage group creation
@@ -100,34 +100,74 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 - On VA.gov/VAHB, introduce [combo box component from USWDS](https://designsystem.digital.gov/components/combo-box/) to combine select with typehead to make improved names even quicker to find. Note: this is a new component that needs to be introduced with VADS team to jumpstart that process
 
 ### User stories
-- As an SM admin user, I need to efficiently *create* triage groups with the structured data fields that enable a plain language, standardized patient experience. The following will be new fields:
-    -   Location (also sometimes known as division name). This will associate a Medical Center or Clinic (CBOC). [Location will come from the same source](https://www.va.gov/data/cms/vamc-system.json) that the VA.gov public site uses for unauthenticated experience. For example, [see the Boston VA locations listed on VA.gov](https://www.va.gov/boston-health-care/locations/). Note: sometimes a location will need to operate as a *systemwide* location (e.g. VA Boston) vs. at a certain location (e.g. Jamaica Plain Medical Center). 
+
+#### Admin user
+- As an SM admin user, I need to efficiently *create* triage groups with the structured data fields that enable a plain language, standardized patient experience.
+- The following will be new fields:
+    -   Location (also sometimes known as division name). This will associate a Medical Center or Clinic (CBOC). [Location will come from the same source](https://www.va.gov/data/cms/vamc-system.json) that the VA.gov public site uses for unauthenticated experience. For example, [see the Boston VA locations listed on VA.gov](https://www.va.gov/boston-health-care/locations/).
+    -   Note: sometimes a location will need to operate as a *systemwide* location (e.g. VA Boston) vs. at a certain location (e.g. Jamaica Plain Medical Center). A user will select "healthcare system wide" option from the dropdown under Location to designate this.
     -   Group type (i.e. primary care) and when relevant subgroup types that will cascade upon selection of group type. [See proposed group type/subgroup times documented here on VA Sharepoint](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Secure%20Messaging/Triage%20Group%20Naming/2024.07.29%20-%20MVP%20triage%20group%20types%20and%20subgroups.xlsx?d=w9b8985d58e0b482cb370bb8240060d65&csf=1&web=1&e=1DraJN).
     -   If applicable, the team name (e.g. PACT Team, Blue Team). Free text.
     -   If applicable, the lead provider name (ex. Allen Smith). Enumerated options from MHV data source.
+      - For the admin user, we will need to include the DUZ number in the DXP Admin lead provider dropdown. This will not be included in the patient-facing requiredDisplay but it is only to assist the admin user in selecting the right provider.
     -   Note: only Location and Group type will be mandatory; team name & provider name will remain optional
 - As an SM admin user, I need to efficiently *edit* triage groups with structured data fields, aligned to the new fields added above.
-  
+- Update 9/17: A note on technical implementation in the above- there will be a computed attribute "requiredDisplay" returned to front-end clients for all human facing instances of the new triage group name (e.g. patient users on VAHB, patient users on VA.gov, clincian users on SM Clincian, admin users on SM Admin). These clients should use the "requiredDisplay" which will be concatenated from the individual need data fields. The legacy "name" attribute will contain the triage group names and will be used to ensure backwards compatability with the VSSC tool in the short term.
+
+#### Patient user
 - As a patient, when selecting a triage group to message, I want to see plain language identifiers (i.e. location, doctor name, and care type) so that I can quickly and confidently identify the right team to message.
-   - (in need of validation) The *order* of the information displayed should be: Location, Care Type, Doctor name, Team Name.
+   - (validated 9/16 based on research) The *order* of the information displayed should be: Location, Care Type, Team Name, Doctor name. For example: "Glen Burnie VA Clinic | Primary care | Blue team - Thierer, Chris"
+   - When optional information is not entered, it will not render. For example: "VA Pittsburgh | Admin | Record amendment"
    - There should be no acronyms (aside from VA), specialized terminology, abbreviations, and symbols.
-   - Capitalization follows standard style guide for VA content (no all caps) and should be sentence case.
-   - The Select list with the new triage group names will be presented with the following rules:
+   - Capitalization follows standard style guide for VA content (no all caps) and should be sentence case.[ Please see Sharepoint document with specific capitalization rules](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Secure%20Messaging/2024.09.17%20Plain%20language%20triage%20groups%20rules%20for%20patient-facing%20requir.docx?d=w6d2468e423a64d7cba1172f01e2e364f&csf=1&web=1&e=jTjuQZ). 
+   - *Order rules*: The Select list with the new triage group names will be presented with the following rules:
   - 1) triage groups grouped by healthcare system (facility) and in alphabetized order within a system grouping;
   - 2) groups with a healthcare system with be in alphabetized order;
   - 3) Exception: any group identified as primary Care should be moved to the top of the list within a health care system (facility) grouping
- - As a patient, I want to be able to identify groups grouped by healthcare system (facility) so that I can more quickly find what I'm looking for.
+ - [decoupled in scope; can proceed independent from this initiative or as a rider] As a patient, I want to be able to identify groups grouped by healthcare system (facility) so that I can more quickly find what I'm looking for.
    - The groups will be clustered by the optgroup tag (noted above).
-- As a patient, I want to be able to use typeahead so that I can filter down options presented.
+- [descoped from MVP; fast follow] As a patient, I want to be able to use typeahead so that I can filter down options presented.
   - We will be using a combobox to achieve this based on USWDS (noted above). 
 
-### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-- Due to backend data limitations/constraints, we will be starting with a pilot for SM users in VISN 1 at the 3 healthcare systems (Boston, Connecticut, and Providence). Users with care teams in these systems would see the new improved experience on the front end.
-- We will need to conduct outreach with MHV Coordinators (staff) at these facilities to ensure they understand expectations for creating and editing new triage groups using the new standard.
-- After the initial pilot, we will identify additional user-facing marketing, and outreach activities as we scale.
+---
+   
+## Screenshots for VA.gov 
 
---- 
+### Before on VA.gov
+![image](https://github.com/user-attachments/assets/402a0e13-1e21-41c9-a46d-c754240b0815)
+
+
+### After on VA.gov
+Note: In the mock up below, the Maryland and DC healthcare systems are using the new method. Providence is still operating as status quo. This is shown for illustration that for the pilot, it is an accepted state that some (most all) systems will be status quo while the 3 pilot sites will not. Users may see a mix like this when registered across systems.
+
+Updated: 9/26/2024
+
+![image](https://github.com/user-attachments/assets/d61efdc4-c270-4c63-9fe8-7a37daa80a80)
+
+
+
+### Updated 9/5/25 as "Nice to have" (not "must have" for pilot launch)
+Typeahead combobox - pending a11y discussions and decisions decisions on how combobox functionality should work
+
+![image](https://github.com/user-attachments/assets/31eb440a-3505-4708-bd47-8e57bb6d39f9)
+
+
+---
+
+## For context: screenshots on Admin Portal
+
+In order to enable these changes on front-end, the MHV Administrative Portal will also be updated. This goes beyond the scope of this ticket for VA.gov, but sharing here for awareness.
+
+###  Before on SM Administrative Portal
+![image](https://github.com/user-attachments/assets/92363f0e-e806-4b99-b74a-736a8867af99)
+
+###  After on SM Administrative Portal
+updated 9/17
+![image](https://github.com/user-attachments/assets/d5e0391b-af97-4708-a93b-ba3709167693)
+
+
+---
+
 
 ## Launch Planning
 ### Collaboration Cycle
@@ -145,6 +185,7 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
     * target Midpoint Review with demo of prototype and handoff to ByLight team to shepherd from here
 * October-November 2024: 
     * With start of PI17 on October 16th, SM admin portal development starts for limited production pilot and any additional FE changes.
+    * Updated 9/17: Thie pilot should have patient-facing changes coordinated across VAHB, SM on VA.gov, and SM Classic for a consistent patient experience.
 * Mid November: target Staging Review to demo solution in VA.gov and VAHB
 * November-December 2024: development is completed, and we launch limited production pilot for VISN 1 users. 
  
@@ -155,35 +196,12 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
   - December 2024
 - *Actual Launch Date* 
   - tbd
-
----
-   
-## Screenshots for VA.gov 
-
-### Before on VA.gov
-![image](https://github.com/user-attachments/assets/402a0e13-1e21-41c9-a46d-c754240b0815)
-
-
-### After on VA.gov
-Note: Final order of identifiers is pending validation from comparative study.
-![image](https://github.com/user-attachments/assets/ee819ebb-64ff-48f5-a9f1-53272e95e97e)
-![image](https://github.com/user-attachments/assets/a64d04a9-1475-4866-a963-897ac056ef7c)
-
-
----
-
-## For context: screenshots on Admin Portal
-
-In order to enable these changes on front-end, the MHV Administrative Portal will also be updated. This goes beyond the scope of this ticket for VA.gov, but sharing here for awareness.
-
-###  Before on SM Administrative Portal
-![image](https://github.com/user-attachments/assets/92363f0e-e806-4b99-b74a-736a8867af99)
-
-###  After on SM Administrative Portal
-Note: Pending validation from prototype on feasibility of these data fields
-![image](https://github.com/user-attachments/assets/9a51a719-1cb8-47ff-b9da-f590b7bdbec8)
-
-
+    
+### Go-to-market 
+> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+- Due to backend data limitations/constraints, we will be starting with a pilot for SM users in VISN 1 at the 3 healthcare systems (Boston, Connecticut, and Providence). Users with care teams in these systems would see the new improved experience on the front end.
+- We will need to conduct outreach with MHV Coordinators (staff) at these facilities to ensure they understand expectations for creating and editing new triage groups using the new standard.
+- After the initial pilot, we will identify additional user-facing marketing, and outreach activities as we scale.
 
 ---
 
@@ -193,7 +211,7 @@ Note: Pending validation from prototype on feasibility of these data fields
 - Team Name: Secure Messaging 
 - GitHub Label(s):  vfs-mhv-secure-messaging 
 - Slack channel: #mhv-secure-messaging, #mhv-sm-redesign-devs
-- Product POCs: Janie Tankard Carnock (OCTO)
+- Product POCs: Janie Tankard Carnock (OCTO) - January 2024-Oct 2024; Patrick Bateman, Oct 2024 and beyond
 
 #### Stakeholders
 *What offices/departments are critical to make this initiative successful?*

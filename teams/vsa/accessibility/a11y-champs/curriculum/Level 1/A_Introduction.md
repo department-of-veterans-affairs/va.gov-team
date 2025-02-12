@@ -7,7 +7,7 @@
   - get started with your very first screen reader
 
 ## Join our community
-- [ ] [Join and introduce yourself on the `#a11y-champs` channel on VA slack](https://dsva.slack.com/archives/C0552U2L30S)
+- [ ] [Join and introduce yourself on the `#accessibility-champs` channel on VA slack](https://dsva.slack.com/archives/C0552U2L30S)
 - [ ] Let us know your name, role, what team you're on, and why you decided to start your accessibility champion journey
 
 ## Accessibility, compliance, and experience
@@ -50,7 +50,7 @@ In doing so, we can design products and services that don't need to be remediate
 Phew. Deep breath. Feel free to take a break, we’re not going anywhere. You can also continue on if you’d like, the choice is 100% yours.
 A couple of reminders before moving on to the next part of level 1:
 - [ ] <strong>[Complete this feedback survey (Microsoft Forms)](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAToLe2lUM0FTUlRTRUxIMEhTVjc1RExON1JTVTk2Vi4u).</strong> This curriculum is a work in progress. If you have feedback from the technical (broken links) to the educational (hard to follow curriculum) or just want to say something nice, we'd love to hear it.
-- [ ] <strong>Share your questions and thoughts in the `#a11y-champs` channel.</strong> Did you learn something new today? Have a follow up question to this lesson? Let us know in the `#a11y-champs` channel! 
+- [ ] <strong>Share your questions and thoughts in the `#accessibility-champs` channel.</strong> Did you learn something new today? Have a follow up question to this lesson? Let us know in the `#accessibility-champs` channel! 
 - [ ] Move on to part 2 of level 1, or bookmark it for safekeeping.
 
 <strong>[Continue to level 1 part B: learning how to ask for help ➡️](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/Level%201/B_Ask.md)</strong>

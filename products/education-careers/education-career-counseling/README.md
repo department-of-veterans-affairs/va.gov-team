@@ -97,10 +97,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 #### Stakeholders
 - Office/Department:
    - OCTO (Emily Theis, Julie Strotham, Steve Albers)
-   - VBA (Terry Brown)
+   - VBA (Terry Brown, Paige Forte and Christina Velazquez). All work at Office of Outreach, Transition, and Economic Development (OTED)
 
 #### Team Members
  - DEPO Lead: Sarah Ortiz Shields
  - PM: Laura Steele
  - Engineering: Thomas Blackwell
  - Research/Design: Julie Pedtke, Fiorella Geedi
+
+#### Privacy officer
+ - Renu Roy (renu.roy@va.gov) 

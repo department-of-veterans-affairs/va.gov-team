@@ -2,8 +2,9 @@
 name: ARF Engineering Bug Issue
 about: Bug issues for the ARF Engineering team
 title: ''
-labels: ['accredited-rep-facing', 'arf-eng']
+labels: ['accredited-rep-facing', 'engineering']
 assignees: ''
+type: 'Bug'
 
 ---
 

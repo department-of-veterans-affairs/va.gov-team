@@ -1,6 +1,8 @@
 # Mapbox Facility Locator implementation 
 
 ## Overview
+- **Mapbox APIs that are used on VA.gov**: Temporary Geocoding V5, Map Loads for Web, Static Images, Matrix
+
 We use Mapbox to render maps, most notably on the Facility Locator. In order to use Mapbox, an API key is required. One critical piece to understanding the architectural approach mapped out below is to understand that these Mapbox API keys are [visible to the public](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/462#issue-1205626603). Mapbox knows this and accounts for this by allowing (and suggesting) URL restrictions on the keys. So, for example, we can restrict our API keys to only work on API calls initiated from va.gov.
 
 This is great, and works for our public-facing sites. But the problem grows in scope when we recognize that this will not work for some of our non-production environments (CI, local). In these cases, we are working without a typical URL, so we cannot use URL restriction. Luckily, in these cases, the front ends are not viewable by the world, so we don't need to worry about the key being viewable in that context. We simply need to ensure that the key is not in the source code.
@@ -55,3 +57,61 @@ export const mapboxToken =
 ### Previous discovery / notes
 - [March 2022: Mapbox Predictive Search Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/discovery/predictive-geolocation-discovery.md)
 - [Questions & Answers about Mapbox (as of February 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/products/facilities/facility-locator/engineering/archive/mapbox-info.md)
+
+## Temporary Geocoding usage/cost (Q1 2025)
+Historically, the Facility Locator uses the Temporary Geocoding API for address lookup but we have not historically used the autosuggest feature. 
+
+In Q1 2025, autosuggest will be enabled ([#20241](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20241)). This will increase the Temporary Geocoding API usage by 5-7x previous usage levels, as we will send calls for user-typed data as they type, in order to return address suggestions. 
+
+### PRICING
+We have not currently locked in a pricing agreement for this increased usage, due to upcoming Sitewide end of period of performance, 3/31/2025. However: on the new Sitewide contract on SPRUCE, it would be advantageous to lock in pricing with Mapbox. Information from Mapbox sales / account rep:
+
+> Q: 1. If we lock in for an annual commitment, for example, at 7.5MM calls, and we get additional traffic, is everything over the annual commitment billed at a per-call rate as we do today?
+> 
+> A: Yes, this would be processed through signing an annual contract via our Account Management team. I'm happy to assist with this whenever your timeline permits.
+> The locked-in rates will be included in Exhibit A of the order form. We also offer an option to add credit to the annual agreement or early renewal to accommodate any additional growth.
+
+> Q: 2. If we lock in for 7.5MM calls, and find we are consistently over that, is it possible to adjust the annual commitment for our baseline?
+> 
+> A. The early renewal process can be used to address this. If you sign a multi-year agreement, we can also add top-up credit to each year in case the initial estimate proves to be too low.
+
+Options to pursue on new contract:
+1. Lock in an annual rate with Mapbox.
+2. See if VA can assume the Mapbox expense. (Through DOTS/Okta? Not sure.)
+
+## Non-Sitewide Products That Use Mapbox
+
+### Ask VA
+
+As of 1/3/2025, this application is not yet in production.
+
+- **Entry**: http://staging.va.gov/contact-us/ask-va-too
+- **Code in vets-website**: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/ask-va
+- **API usage**: Geocoding V5
+
+This application has a search box for entering a (city, state) or zip code. It is used in two different flows: one for finding VA facilities and the other for finding educational institutions. This tool has a "Use my location" feature and uses both forward and reverse geocoding for parsing Mapbox results. No Mapbox map is rendered in this tool.
+
+### Caregivers
+
+- **Entry**: https://va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/introduction
+- **Code in vets-website**: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/ask-va
+- **API usage**: Geocoding V5
+
+This application has a search box for entering a (city, state) or zip code to get the nearest VA facilities for Veterans needing care. This tool does not have a "Use my location" feature, so only forward geocoding is used when performing the search. No Mapbox map is rendered in this tool.
+
+### GI
+
+- **Entry**: https://va.gov/education/gi-bill-comparison-tool
+- **Code in vets-website**: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/gi
+- **API usage**: Geocoding V5, Map Loads for Web
+
+On its "Search by location tab," this application has a search box for entering a (city, state) or zip code and renders a map after searches are performed. This tool has a "Use my location" feature and uses both forward and reverse geocoding for parsing Mapbox results.
+
+
+### Representative Search
+
+- **Entry**: https://va.gov/get-help-from-accredited-representative/find-rep
+- **Code in vets-website**: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/representative-search
+- **API usage**: Geocoding V5
+
+This application has a search form for accredited VSO representatives, attorneys and claims agents. You can enter a full address with a (city, state) or a zip code. This tool has a "Use my location" feature and uses both forward and reverse geocoding for parsing Mapbox results.

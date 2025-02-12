@@ -103,3 +103,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - VBA Stakeholders and SMEs: John Blankenship (Directof of LGY), R. Colin Deaso (Assist. Direcctor of LGY), Jennifer Spencer (Program Analyst)
 - CAIA Team (content review)
+
+#### Privacy officer
+Chiquita Dixson (chiquita.dixson@va.gov)

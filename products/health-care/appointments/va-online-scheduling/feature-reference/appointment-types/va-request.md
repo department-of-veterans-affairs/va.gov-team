@@ -37,6 +37,28 @@ Data requirements table:
 | [Cancel Action](../tools/tool-cancel.md) | ✅         | ✅       |          |
 | [Print Action](../tools/tool-print.md)   | ✅         | ✅       | ✅        |
 
+### Alerts and Empty States
+
+From ticket https://github.com/department-of-veterans-affairs/va.gov-team/issues/69855#issuecomment-2568039600
+
+We retrieve the appointment information using one of the following calls:
+
+- From appointment list: `/vaos/v2/appointments?_include=facilities,clinics&start={today-120}&end={today+2}&statuses[]=proposed&statuses[]=cancelled`
+- From appointment details page: `/vaos/v2/appointments/${id}?_include=facilities,clinics`
+
+Data points:
+
+| Role | Section name | Source field name | Empty state logic |
+| - | - | - | - |
+| Preferred Dates and Times | Preferred date and time | `appt.localStartTime` | Always populated since it's a required field. |
+| Type of Care | Type of care | `appt.serviceType` | Display "Type of care not noted" if not available. |
+| Preferred Modality | How you prefer to attend | `appt.preferredModality` | Always populated since it's a required field. |
+| Facility Name | Facility | `facilityData[locationId].name` or `appt.location.attributes.name` | When not available, display "Facility details not available" and display a link to find or view facility information. |
+| Facility Address | Facility | `facilityData[locationId].physicalAddress` or `appt.location.attributes.physicalAddress` | Do not display if not available. |
+| Facility Phone Number | Phone | `facilityData[locationId].phone.main` | Display "Not available" if not available. |
+| Veteran Reason For Appointment | Details you’d like to share with your provider | `appt.reasonForAppointment` and `appt.patientComments` | Display "Not available" if not available. | 
+| Veteran Contact Information | Your contact details | `appt.contact` | Always populated since it's a required field. | 
+
 ## Specifications
 
 **User flows**
@@ -66,19 +88,6 @@ Data requirements table:
 
 [All events VAOS tracks](Link TBD)
 
-## Alerts and conditional states
-<!-- Any alerts that could display for this feature and what triggers them. -->
-
-### [Alert description]
-<!-- Add a new section for each alert -->
-
-**Alert trigger**
-[Description of what causes this alert to display]
-
-**Alert UI**
-- [User flow](Add link)
-- [State template](Add link)
-- [State content]()
 
 ## Technical design
 <!-- Endpoints and sample responses -->

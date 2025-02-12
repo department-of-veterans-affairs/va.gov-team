@@ -2,7 +2,7 @@
 
 **Last updated:** December 1, 2022
 
-**Note:** This documentation was created for the initial product build, and hasn't been maintained by the team since. For the latest information on notification preferences, including mock-ups, read our [use case docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/use-cases).
+**Note:** This documentation was created for the initial product build, and hasn't been maintained by the team since. For the latest information on notification preferences, including mock-ups, read our [use case docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/README.md).
 
 ## Relevant links
 

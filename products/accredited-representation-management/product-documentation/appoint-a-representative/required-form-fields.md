@@ -95,7 +95,7 @@ https://www.vba.va.gov/pubs/forms/vba-21-22a-are.pdf
         4. State  :white_check_mark: 
         5. Country :white_check_mark: 
         6. Zip Code/Postal Code  :white_check_mark: 
-    4. Telephone Number of Individual Appointed as Claimant’s Representative  :white_check_mark: 
+    4. Telephone Number of Individual Appointed as Claimant’s Representative 
     5. Email Address of Individual Appointed as Claimant’s Representative
 17. .
     1. Signature of Veteran Named in Item 1 or Claimant in Item 10 :orange_circle: _required if 16B = Individual Providing Representation Under Section 14.630_

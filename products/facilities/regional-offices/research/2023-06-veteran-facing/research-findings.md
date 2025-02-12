@@ -4,7 +4,7 @@ Date: 010/13/2023
 
 **Alexis Logsdon**, [alexis.logsdon@a1msolutions.com](alexis.logsdon@a1msolutions.com)
 
-[Research readout (must be logged in to VA system to view)](https://dvagov.sharepoint.com/b:/r/sites/SitewideFacilitiesTeam/Shared%20Documents/General/VBA/20231012%20VBA%20Regional%200ffices%20Usability%20Research%20Readout.pdf)
+[Research readout (must be logged in to VA system to view)](https://dvagov.sharepoint.com/sites/SitewideFacilitiesTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSitewideFacilitiesTeam%2FShared%20Documents%2FGeneral%2FVBA%2F20231012%20VBA%20Regional%20Offices%20Usability%20Research%20Readout%2Epdf&parent=%2Fsites%2FSitewideFacilitiesTeam%2FShared%20Documents%2FGeneral%2FVBA)
 
 <br>
 

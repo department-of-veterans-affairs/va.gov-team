@@ -1,12 +1,26 @@
 # Design decisions tracker (most recent to least)
 Started June 26, 2024
 
+### Landing page preparation for Medical records phase 1 launch
+
+### 1. Update _Records_ link in the Secondary navigation 
+- Will update the link to point to https://www.va.gov/my-health/medical-records/ (instead of My HealtheVet National portal) 
+
+### 2. Remove the expandable alert 
+#### Reasons 
+- Only .05% of Veterans expanded the alert
+- No longer need a "coming soon" section or "Go back to the previous version of My HealtheVet" link. Therefore, decided that the expandable alert provided little value to the Veteran. 
+
+###3. 
+
+[Implementation ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86489)
+
 ### Landing page content for no-access alerts
 
 ### Breadcrumbs on landing page
 Breadcrumbs convention changed and different for MHV home page on desktop vs. mobile. 
 
-[Implementation ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86489)
+[Implementation ticket]([https://github.com/department-of-veterans-affairs/va.gov-team/issues/86489](https://app.zenhub.com/workspaces/mhv-on-vagov-landing-page-62619a987d74510018ecc546/issues/gh/department-of-veterans-affairs/va.gov-team/91873))
 
 ## Past decisions
 Decisions made before June 26, 2024 (starting with most recent)

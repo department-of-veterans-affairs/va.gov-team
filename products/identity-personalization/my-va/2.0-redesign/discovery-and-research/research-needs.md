@@ -119,6 +119,7 @@ Even with previous research and an analytics review, we feel strongly that talki
   - The existing logged in homepage
   - My VA
   - [This blue sky protoype of a logged in VA.gov](https://vsateams.invisionapp.com/console/share/X3WBOA3QSWR)
+    - [archived PDF copy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/blue-sky-prototype)
   
 #### Additional user research
 

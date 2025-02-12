@@ -1,6 +1,5 @@
 # Socks Proxy Setup
-
-More detailed instructions for setting up the socks proxy (somewhat manually) are [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#configure-the-socks-proxy) but you can also set it up with the config below and the `socks.sh` script in this directory.
+Official instructions and recommended approach for setting up the socks proxy are [here](https://depo-platform-documentation.scrollhelp.site/getting-started/accessing-internal-tools-via-socks-proxy#AccessingInternalTools(viaSOCKSProxy)-PrerequisitesPrerequisitesforSOCKSProxyconfiguration). The approach below and the `socks.sh` script in this directory can also be used but requires more manual work.
 
 First, copy the external SSH config into your `~/.ssh/config` file: (ask a devops colleague for the config setting or 
 get it from [here](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config)).
@@ -23,7 +22,7 @@ $ ssh-add -K ~/.ssh/id_rsa_vagov
 $ ssh socks -D 2001 -N
 ```
 
-You may have to accept keys for servers from various IP addresses after running those commands. If it doesn't throw an error, try to [confirm the proxy works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#test-and-use-the-socks-proxy) with the instructions linked. Once you have confirmed it works, you can use the `socks.sh` script, as follows: (you may also want to create an alias)
+You may have to accept keys for servers from various IP addresses after running those commands. You can then use the `socks.sh` script, as follows: (you may also want to create an alias)
 
 ```
 $ ./socks.sh on  # turn on socks proxy
@@ -42,4 +41,4 @@ $ SOCKS_NETWORK="USB 10/100/1000 LAN" ./socks.sh off
 
 The socks script will start the socks proxy, configure the proxy settings on your computer to use a `proxy.pac` file, and start a small webserver to serve that file up. The proxy.pac file will send only a few URLs to the proxy, sending everything else directly to the internet.
 
-Finally, If you want to use a browser other than Chrome or Safari, you'll need to configure your browser to use the system proxy. This has been tested on OSX 10.14 and 10.15, and works with Chrome, Firefox and Safari. Chrome and Safari use the system proxy by default; you can set it up for Firefox by following [these instructions](https://support.mozilla.org/en-US/kb/connection-settings-firefox).
+Finally, if you want to use a browser other than Chrome or Safari, you'll need to configure your browser to use the system proxy. This has been tested on OSX 14.5, and works with Chrome, Firefox and Safari. Chrome and Safari use the system proxy by default; you can set it up for Firefox by following [these instructions](https://support.mozilla.org/en-US/kb/connection-settings-firefox).

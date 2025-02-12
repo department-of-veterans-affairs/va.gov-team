@@ -1,5 +1,7 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
+`Migration completed`
+
 **Last Updated: December 11, 2023 -- updating metrics**
 
 ### Communications
@@ -36,6 +38,8 @@
 ## Overview
 
 EVSS -- the VA backend that stores direct deposit for comp & pen, disability ratings, and more -- is being retired in favor of the Lighthouse platform. Lighthouse has been working hard to migrate data from EVSS to their platform, and they have successfully done so with direct deposit for comp & pen information. This means that we need to reintegrate the VA.gov profile to point to Lighthouse instead of EVSS.
+
+[Sensitive repo link](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/lighthouse-migration)
 
 ## Problem Statement
 

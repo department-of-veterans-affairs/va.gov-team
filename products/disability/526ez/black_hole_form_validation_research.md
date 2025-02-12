@@ -1,5 +1,5 @@
 ## Summary of Attempt at gathering recent 6 months data
-There were over 4,000 Failed 526 Submissions in the past 6 months. We were able to pull data from of them 565. Of those 565 submissions, there were 1282 errors and warnings (oftentimes, more than one error/warning was attached to a submission). They consisted of 853 Errors and 422 Warnings. Errors cause the submission to fail - warnings do not.
+There were over 4,000 Failed 526 Submissions in the past 6 months. We were able to pull data from 565 of them. Of those 565 submissions, there were 1282 errors and warnings (oftentimes, more than one error/warning was attached to a submission). They consisted of 853 Errors and 422 Warnings. Errors cause the submission to fail - warnings do not.
 
 ### Error Results
 

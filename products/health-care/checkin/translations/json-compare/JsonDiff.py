@@ -6,7 +6,6 @@ Compares 2 json files and finds all keys that are present in the first file but 
 """
 
 import json
-import re
 import easygui
 from easygui import *
 from deepdiff import DeepDiff
@@ -38,16 +37,16 @@ diff_result = DeepDiff(base_json, compare_json)
 
 # CREATE JSON OBJECT FOR MISSING KEYS & THEIR ENGLISH VALUES
 missing_keys = diff_result['dictionary_item_removed']
+
 missing_key_values = {}
 for i in missing_keys:
-    key = (re.search('root\[\'(.*)\'\]', i)).group(1)
+    key = i[6:-2]
     missing_key_values[key] = base_json[key]
 
 # SAVE MISSING KEYS & THEIR ENGLISH VALUE TO THE SPECIFIED FILE
 output_file = Path(output_file_name)
 output_file.touch(exist_ok=True)
 with open(output_file, 'w') as output_file:
-    json.dump(missing_key_values, output_file, indent=4)
-
+    json.dump(missing_key_values, output_file, indent=4)   
 
 

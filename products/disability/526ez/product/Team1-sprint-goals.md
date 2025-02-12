@@ -1,10 +1,197 @@
-# Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
+# Sprint goals for Benefits Disability Experience Team 1 (DBEX-TREX)
+
+## Sprint 12 Goals
+**Dec 4 - Dec 17, 2024**
+
+### Goal 1: Update retryable and non-retyable error handling to prepare for the Rated Disability Migration.
+
+#### We'll know we've achieved the goal when:
+- Lighthouse API retries are attempted for errors that were previously non-retryable in EVSS, increasing primary path submissions.
+
+### Goal 2: Enable BDD claims testing in staging by implementing the Lighthouse Benefits Reference Data staging endpoint integration
+
+#### We'll know we've achieved the goal when:
+- Successful BDD test claim submission from staging.va.gov to Lighthouse staging.
+
+### Goal 3: Complete Staging Review and release New Confirmation Page & Primary Path Received Email
+
+#### We'll know we've achieved the goal when:
+- Daily confirmation page views remain consistent with typical submission volume, ‘submission-taking-too-long' events drop to zero, primary path emails successfully delivering to Veterans, all staging review requirements met.
+
+*Additional hypothesis to monitor:*
+
+*We expect to see a reduction in duplicate submissions as Veterans have clearer confirmation of their claim status. We'll track this trend but note it may be influenced by multiple factors beyond these feature changes.*
+
+### Goal 4: Prepare 5103 and Claim Certification feature for release and complete the necessary Platform touchpoints required to complete Staging Review.
+
+#### We'll know we've achieved the goal when:
+- Name validation risks are documented and addressed, all Platform staging review requirements are met (accessibility, testing, documentation), Platform approves the features for production.
+
+### Goal 5: Conduct AT usability testing sessions
+
+#### We'll know we've achieved the goal when:
+- We share at least one topline summary by sprint end with OCTO stakeholders.
+
+### Goal 6: Design Provide a Copy (PDF) on Confirmation page.
+
+#### We'll know we've achieved the goal when:
+- Figma mocks are approved by the team and OCTO stakeholders.
+
+## Sprint 11 Goals
+Nov 20 - Dec 3, 2024
+
+- [Watch Dog of Watch Dogs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/monitors/%5BZSF%5D%20DBEX%20Teams%20SOP%20(Standard%20Operating%20Procedure)%20for%20monitor%20and%20alert%20response.md): @aurora-a-k-a-lightning 
+
+### Goal 1: Prepare for the Rated Disabilities migration.
+
+#### We'll know we've achieved the goal when:
+- Tests in Staging have been performed and we understand the feasibility of migrating this endpoint and how we'll plan to do it.
+
+### Goal 2: Prepare the New Confirmation Page and Received Email features for release and complete the prep work required to complete Staging Review.
+
+#### We'll know we've achieved the goal when:
+- All required artifacts are prepared for Staging Review and it’s scheduled.
+
+### Goal 3: Prepare for the Toxic Exposure usability research study.
+
+#### We'll know we've achieved the goal when:
+- We are ready for usability sessions starting 12/2. Pilot studies are complete. Research sessions are scheduled and CAIA/observers/notetakers have signed up for sessions. Data management material is ready and HCD is aligned on approach for synthesis. OMB component is updated. Application and GA metrics for 1.1 are shared with OCTO on 11/25.
+
+### Goal 4: Complete development of the 5103 language alerts and Claim Certification / Signature Component to ensure Veterans are notified of any evidence needed to support their disability claim and enable them to sign the 526 form digitally. Both features are tested as working in a local environment.
+
+#### We'll know we've achieved the goal when:
+- OCTO and VBA approve a demo of the working solution.
+
+### Goal 5: Create a plan to bring the 526 into compliance with the 2022 paper form.
+
+#### We'll know we've achieved the goal when:
+- The top three prioritized items are planned on the product roadmap with activities designated for each item.
+
+
+---
+## Sprint 10 Goals
+- [Watch Dog of Watch Dogs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/monitors/%5BZSF%5D%20DBEX%20Teams%20SOP%20(Standard%20Operating%20Procedure)%20for%20monitor%20and%20alert%20response.md): @aurora-a-k-a-lightning 
+
+**Paper Form Sync**
+
+- Product Discovery: Reevaluate the remaining Paper Form Sync work
+
+**Toxic Exposure**
+
+- Rollout TE 1.1 to 100%
+- Finalize TE research study materials and submit to Platform
+
+**Submission Experience**
+
+- Implement New Confirmation Page w/ no claim ID flow
+- Release Planning for New Confirmation Page and New Email Touchpoints
+- Create toggle & trigger for Received email
+- ~Design the HTML version of “Provide a Copy” (Release horizon 1.0)*~
+- Design 5103 language
+- Product Discovery: Display Submission Status on va.gov
+
+**Platform**
+
+- Begin BRD (Separation Locations) migration
+
+**Product Enhancements**
+- Technical Discovery: V3 Component re-discovery & prioritization
+
+
+
+
+
+
+## Sprint 9
+10/23 - 11/5
+
+**Paper Form Sync**
+- Reevaluate the remaining HCD tasks (a joint effort between TREX and CARBS) and engineering work (TREX only) for the 5103 form and signature component.
+
+**Toxic Exposure**
+- Prepare and perform 1.1 Moderated Production Testing
+- UX monitoring of TE Release (v1.0 100% rollout)
+- Draft evaluative research goals and plan for TE Release (a joint effort between TREX and CARBS)
+
+**Submission Experience**
+- Create feature toggle for New Confirmation Page
+- Update Confirmation Page and Email Touchpoints to align more closely to new VFF and VA-notify templates ( the work will be scoped minimally to avoid impacting engineering timelines.)
+- Alignment on implementation approach for New Email Touchpoints
+- Integrate stakeholder feedback on solution direction for Provide a Copy of Submission
+
+**Zero Silent Failures**
+- Establish a procedure for DBEX teams to monitor and action on application alerts
+
+**Product Enhancements**
+- Address "Scroll behavior does not respond to prefers-reduced-motion setting" on Review and Submit page
+
+
+## Sprint 8
+10/9 - 10/22
+
+**Toxic Exposure**
+- 1.0 50% rollout
+- Reduce Veteran burden and improve data quality by switching to va-data month year option (stretch goal)
+
+**Submission Experience**
+- New Confirmation Page and Email Touchpoints annotations for Engineering
+- Accessibility audit, including Review pages (stretch goal)
+
+**Zero Silent Failures**
+- Enhance DD Metrics ~~& 0781 remediation discovery~~*
+- Provide migration LOE of BRD and PCIU to OCTO
+
+*Change of plan mid sprint, Team 2 completed
+
+## Sprint 7
+9/25 - 10/8
+
+**Toxic Exposure**
+* Complete 100% rollout
+* Address high priority submission and validation errors
+* Prep for 1.1 release
+
+**Submission Experience**
+* Finalize New Confirmation Page and New Email Touchpoints (formerly T&T) design and prep stories for implementation
+* Refine Submission Record & Tracking solution direction and align w OCTO
+
+**Other**
+* Discovery on Zero Silent Failures (ZSF) work
+* Address inconsistencies in Toxic Exposure metrics
+* Collab with Carbs on new high priority work
+  * Accounting for unknowns re new items that arise out of priority discussions this week, and primarily any ZSF work
+
+## Sprint 6
+9/11 - 9/24
+
+**Toxic Exposure**
+* Complete 75% rollout
+  * [stretch] Complete 100% rollout
+* Address high priority submission and validation errors
+
+⠀**Submission Experience**
+* Submit Timely & Truthful for CAIA review
+  * Revise designs if possible
+* Con’t: Describe (draft) high level intent of up to 3 solutions for Submission Record and Tracking
+
+## Sprint 5
+Period 8/28 - 9/10
+
+**Toxic Exposure**
+- Complete 5% and 10% Canary rollout
+- Address high priority submission and validation errors
+
+**Submission Experience**
+- Revise design for Timely and Truthful
+- Reflect insights from ideation workshop
+
 
 ## Sprint 4
 8/14 - 8/27
 
 **Toxic Exposure**
-- Complete 5% Canary rollout
+- (Complete Staging Review)
+- Complete 5% Canary rollout >
 - Evaluate user metrics (Medallia & GA) to inform research
   
 **Paper Form Sync**

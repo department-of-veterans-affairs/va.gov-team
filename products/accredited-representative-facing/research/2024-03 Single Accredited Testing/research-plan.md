@@ -47,10 +47,10 @@ Any/all points when a Veteran needs support filing and accessing their benefits.
 Online, over Zoom. Point of contact is Renata Keck, UX Researcher/Designer.
 
 ### Research materials
-- Link to [conversation guide](https://docs.google.com/document/d/1VO5H0DBhPuTEetj068H6cstV2qn8qtRNk6ewxTT284c/edit)
-- Link to [recruitment plan](https://docs.google.com/document/d/14xLcuD5Pq67qmnpiY8_r7t7x00bprE2xSviJUOreY5U/edit#heading=h.dneu68fnw65f)
-- Link to [Veterans Service Officer 21-22 accept/decline prototype](https://www.figma.com/proto/C3sdnDf8anVqXVdmiCWwq8/%F0%9F%9A%A7-Accredited-Rep-Facing?page-id=0%3A146&type=design&node-id=437-34553&viewport=104%2C1305%2C0.05&t=NPr6SMchXdOO5N4R-8&scaling=min-zoom&starting-point-node-id=437%3A34553&hotspot-hints=0&hide-ui=1)
-- Link to [note taking and debrief Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711575270185/83b03fe96dcafe9f42b206e0dc3efbfd2457c1f2?sender=u8cf3f08a008c2b61ad621433)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/2024-03%20Single%20Accredited%20Testing/conversation-guide.md)
+- [Recruitment plan](https://docs.google.com/document/d/14xLcuD5Pq67qmnpiY8_r7t7x00bprE2xSviJUOreY5U/edit#heading=h.dneu68fnw65f)
+- [Veterans Service Officer 21-22 accept/decline prototype](https://www.figma.com/proto/C3sdnDf8anVqXVdmiCWwq8/%F0%9F%9A%A7-Accredited-Rep-Facing?page-id=0%3A146&type=design&node-id=437-34553&viewport=104%2C1305%2C0.05&t=NPr6SMchXdOO5N4R-8&scaling=min-zoom&starting-point-node-id=437%3A34553&hotspot-hints=0&hide-ui=1)
+- [Note taking and debrief Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711575270185/83b03fe96dcafe9f42b206e0dc3efbfd2457c1f2?sender=u8cf3f08a008c2b61ad621433)
 
 ## Recruitment
 Our target audience is 8 Veterans Service Officers (with expectations of speaking to 5) who are accredited through a single Veterans Service Organization (VSOrg) and whose primary role is to work directly with Veterans and claimants. Our goal is to have an even split between junior and more senior or experienced VSOffs.

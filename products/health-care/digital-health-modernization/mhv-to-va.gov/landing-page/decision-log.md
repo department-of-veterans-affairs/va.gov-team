@@ -6,7 +6,7 @@ Please log key MHV to VA.gov Landing Page decisions related to the below practic
 |------|-------------------|-------------------------|-----------|
 | 2/28/2023     |Patrick Bateman                   | Landing page rollout won't have a "trusted users" phase; we will start with 5% of users.                        | Would like to follow the same pattern used for other VA.gov apps          |
 | 6/4/2024 | Mikki/Kaitlin/CAIA | Landing page will not have an unauthenticated version | Unauthenticated information about MHV will be centralized in unauth areas of the website, most likely R&S (resources & support) |
-|  |  |  |  |
+| 12/30/2024 | Cartog/Kaitlin | SM, Meds and MR will not handle Account Creation API right away | the MVP for tools (SM, Meds, MR) handling missing `mhv-uuid` will be redirecting users to the MHV landing page, which will try again to retireve the uuid or alert about the issue |
 |  |  |  |  |
 |  |  |  |  |
 

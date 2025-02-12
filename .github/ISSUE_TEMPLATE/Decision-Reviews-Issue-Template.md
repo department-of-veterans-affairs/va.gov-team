@@ -5,9 +5,7 @@ title: ""
 labels:
   [
     "Decision-Reviews-Team",
-    "needs-grooming",
-    "needs-refinement",
-    "needs-estimate",
+    "needs-refinement"
   ]
 assignees: ""
 ---
@@ -26,7 +24,13 @@ assignees: ""
 
 - Add here
 
-## Outcome, Success Measure, KPI(S), and Tracking Link
+## Tasks
+
+- [ ] _Task_
+- [ ] _Task_
+- [ ] _Task_
+
+## Dependencies 
 
 - Add here
 
@@ -36,13 +40,6 @@ assignees: ""
 - [ ] _AC_
 - [ ] _AC_
 
-## Designs and Build Notes
-
-- Add here
-
-### Enablement team (if needed)
-@ member of team
-
 ## Out of scope
 
 - Add here
@@ -51,11 +48,17 @@ assignees: ""
 
 - Add here
 
-## Tasks
+## Designs and Build Notes
 
-- [ ] _Task_
-- [ ] _Task_
-- [ ] _Task_
+- Add here
+
+## Outcome, Success Measure, KPI(S), and Tracking Link
+
+- Add here
+
+### Enablement team (if needed)
+@ member of team
+
 
 ## Definition of Ready
 

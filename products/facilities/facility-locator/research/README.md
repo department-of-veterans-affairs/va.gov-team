@@ -1,5 +1,8 @@
 # Facility Locator User Research README
 
+PLEASE STORE ANY NEW RESEARCH FILES WITHIN THE [INITIATIVE FOLDER](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initatives) THAT CORRESPONDS TO THE PROJECT, and then link them here. 
+
+
 ## Research Summary
 |	Research title	|	Date	|	Research objectives	|	Link to findings	|
 |	-----	|	-----	|	-----	|	-----	|

@@ -23,6 +23,32 @@ All Facility Locator data is delivered via facilities-api.
 * [**facilities-api data sources**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api#data-sources) describes all the data sources available to facilities-api
 * [**facilities-api Lighthouse API integration**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api/README.md#lighthouse-integration) includes information on Lighthouse API endpoint mapping, API consumers / keys, rate limits, and the process to [request a rate limit increase](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api/README.md#request-api-limit-increase)
 
+## Facility Locator business logic
+
+### Services autosuggest 
+
+When Facility Type = VA Health, Services field becomes an autosuggest field referencing VA Services taxonomy terms. 
+Taxonomy terms and their field data are parsed into a KISS data file: https://www.va.gov/data/cms/va-healthcare-services.json.
+
+The cheat sheet below maps the relevant chunks of data that are used in the matching algorithm.
+
+![Screenshot 2025-01-28 at 11 30 26 AM](https://github.com/user-attachments/assets/b7a20a12-24aa-4776-860a-971513889722)
+
+If the user-entered Service search term matches any of the following fields in va-healthcare-services.json, the related VA Service term will be returned as a suggested result (case insensitive). Suggested results are weighted as Primary or Secondary: 
+
+* Priority matches (Equivalently weighted)
+    * Anywhere in “Name”
+    * Anywhere in “AKA”
+    * Some “common condition” starts with a match of the text
+* Secondary matches (Equivalently weighted)
+    * Anywhere in description
+    * Anywhere in Tricare description
+
+Within results of the priority and secondary matches, the order of their respective group results is based on the frequency of the service (count `#10` in the image) in the VA health services
+
+Lighthouse API ID should not be used for matching. 
+
+
 
 ### OLD INFO that needs to be verified
 Previously, we talked about facilities-api and facility locator interchangeably. Now facilities-api is considered its own product. Some of the old docs are likely out of date, but some information may be valuable. Docs we need to sort out: 

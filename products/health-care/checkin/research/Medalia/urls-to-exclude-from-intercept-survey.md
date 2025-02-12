@@ -37,7 +37,6 @@ These URLs should be excluded from the list of URLs from which the Medallia Inte
 - This URL will have an appended (not query string) UUID
   - /health-care/appointment-pre-check-in/appointment-details
 
-
 ## OH Travel
 - /my-health/appointment-travel-claim/verify
 - /my-health/appointment-travel-claim/travel-pay
@@ -46,3 +45,7 @@ These URLs should be excluded from the list of URLs from which the Medallia Inte
 - /my-health/appointment-travel-claim/travel-address
 - /my-health/appointment-travel-claim/travel-review
 - /my-health/appointment-travel-claim/travel-agreement
+
+## Veteran Self Schedule Community Care Appointments (Web)
+- /my-health/appointments/schedule-referral/
+- /my-health/appointments/schedule-referral/date-time

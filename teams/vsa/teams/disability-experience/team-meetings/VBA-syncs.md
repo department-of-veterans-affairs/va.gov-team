@@ -1,6 +1,135 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+# 2/4/25 Biweekly VBA-DBEX Check-in
+- 0781 and Claims for Increase (CFI)
+  - Submitting a 0781 will not support benefit a cliamant receive an increase for a service connected mental health condition
+  - 0781 will help to establish the service connection of the claim
+  - In the case where new conditions are identified in a claim for increase, these new conditions will be rerouted for development
+  - We may look to explore claim type comprehension (claim for new conditions vs CFI) down the line for now, we will proceed as these processes / forms are intended.
+- 0781 submission process for 20+ traumatic events
+  - Message to inform cliamants the ability to submit additional descriptions of traumatic events in by mail or in person upon hitting the 20 event limit.
+- Team DBEX-TREX Releases:
+  - Today (2/4/2025): Received Email for Backup Path 🎉
+    - We won’t see much activity with this as the Backup Path is rarely used now (🎉), but it is there.
+  - Next Sprint: Submitted Email
+    - Sending Veterans a confirmation email that their application has been submitted
+      - Primary Path: when we have their claim id, we show them the claim id in the confirmation page and submitted email
+      - Backup Path: we do not show them the claim id, as we do not have it, but they receive this email confirming we are processing the claim
+
+
+# 1/21/25 Biweekly VBA-DBEX Check-in
+- 0781 Supporting Document File Types
+  - David knows he still has work to do on this
+
+David's topics for discussion
+- Email on the backup path for submission experience
+  - Is in development this sprint
+  - No staging review, very low risk
+  - Release date to be determined - team to give a best guess estimate to David (by EOD tomorrow) 
+- 5103 signature component
+  - TRex current sprint
+  - Requires a stanging review 
+  - Wed 29th planned launch date 
+
+# 1/7/25 Biweekly VBA-DBEX Check-in
+- 0781 Official Report Filed (Q11).
+- 0781 Supporting Document File Types
+- Toxic Exposure Research Share Out (if there are no other urgent talking points).
+
+# 12/10/24 Biweekly VBA-DBEX Check-in
+Agenda
+1. Separation Location Code Requirements: Should we require separation location codes for Reservists who do not have Title 10 activation status?
+    - it doesn't matter if they have title 10 activation
+   
+   next steps:
+    - look into what in the world this is doing. flow chart, screencapture/video of what fields are mapped to what with these questions
+      
+2. Benefits Delivery at Discharge (BDD) End Date Validation: Should we standardize our approach to active duty end date validation for Reservist claims by either:
+
+    a. Removing end date requirements across all claim types, or
+
+    b. Maintaining the current end date validation specifically for BDD claims?
+
+   - beyond 180 days they can't file a claim
+   - reservists can be way out in the future
+   - "obligation date" instead of "active duty date" for reservists/national guard?
+   - reservists are entering their obligation date at the military history section
+   - ask for two different military histories? one active duty, one not?
+   - list and loop for military service?
+   - david come up with 3 or 4 scenarios that we need to account for while looking at the UX
+   -- current reservist; coming out of active duty; hardest: current;y in reserves, on active duty, filing a claim based on federal orders in 2003
+   --  update language?
+   
+- next steps:
+     1. no change to date validation,
+     2. designs from david,
+     3. shape research project to redesign the UX - address the issue of confusion of language "obligation" versus "active" duty. look to see if new 526 design incorporates this           
+
+4. Provide a Copy, PDF: Is there a legal or policy reason that the 526 PDF we provide to Veteran be the one from the eFolder? Is there a specific part or component of the form that must be the same? If it has to be from the eFolder, this significantly increases the engineering effort, if not we can do this much faster.
+ - no real reason for it to be the exact copy from the eFolder
+ - be careful with date stamps because of timezones
+ - decision reviews teams looking into watermark on generated pdf retrieved from LH
+ -- don't need to care that much, but we'll check into it - LOE
+
+next steps:
+   1. ask DR team about watermark
+   2. research options about eFolder interface
+   3. using generatePDF is a viable option if eFolder is high LOE
+   
+
+## 10/29/24 Biweekly VBA-DBEX Check-in
+### Notes
+1. 0781 opt out flow - when veterans opt out of 0781, should we automatically delete the 0781 evidence that they uploaded as well (supporting docs and treatment details)
+2. Question from shannon - 0781 supporting docs, what will they be labeled as?
+* RS - it will be hard coded
+* SF - ask VBA what will these docs be ideally typed as in VBMS?
+3. Aurora/Tommasina: Do we need to dynamically capture claimant certification (as a part of 5103 work) even though it is required in order to submit 526? 
+
+
+## 10/01/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+1. Ruben: Continue the discussion for 4142:
+   * How private medical facilities are notified
+   * How requests to limit consent are handled
+   * How is it done today when using the paper form that allows them to enter more than, but not submit them separately?
+   * 4142 vs. 4142a - the 4142 is the specific consent and is individually provided to each provider. the VA leverages a contractor to solicit that info, and they're apt to only disclose specifics to the vendor. The 4142a is a valid process for VBA, where there's multiple providers on one form. 
+2. How is overflow content being handled? For 0781, we're trying to decide if we should limit fields to paper form, or put them on overflow. (ex. there's 6 spaces for events. should we allow for more and put extras on overflow, or limit to 6 entries?) ![Screenshot 2024-09-26 at 9 08 27 AM](https://github.com/user-attachments/assets/53a01405-f316-4c65-baf4-680b991b6a19)
+   * don't think overflow would affect that
+   * the "additional remarks" is the catch all for extra stuff that overflows 
+   * "i don't think limiting would be needed" - kevin
+   * "they can attach additional pages too, or veteran will submit 4138 where they will continue the info one. remarks space is pretty big enough already though" -kevin
+
+4. Jina: does VBA have a new file type for display in VBMS for the new form? (0781)
+   * SF - david put the new name in a slack message a week or two ago and it is different. more closely matches title of new name of the form
+   * [slack thread]([url](https://dsva.slack.com/archives/C04KW0B46N5/p1726770800020109))
+     
+6. An update on 25% Toxic Exposure release is forthcoming. Here's a brief recap on the current existing silent failures: The four failed submissions from July were remediated this morning by Sam on Team 2. The 'xx' date submissions are still awaiting front-end and backend-fixes before they can be remediated. Tommasina will remediate the 14 duplicate submissions today (might need support on Sharepoint access if Emily isn't able to add her), and she is still investigating the 2 other missing 'icn' submissions.
+
+
+## 9/17/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+
+1. Mike: seeking VBA signoff on design for [Submission Experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md) > Timely and Truthful Submission ([Zenhub epic](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/82076) / [Github epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82076) / [Figma mockups](https://www.figma.com/design/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129729&t=yuh8OGDS9kvw7KCR-1))
+2. Ruben: Continue the discussion for 4142:
+   * How private medical facilities are notified
+   * How requests to limit consent are handled
+   * How is it done today when using the paper form that allows them to enter more than, but not submit them separately?
+3. Jina: does VBA have a new file type for display in VBMS for the new form? (0781) 
+
+## 9/3/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+* Jina - We looked into how the 4142 is generated in the backend. If 5 providers are inputted, then one PDF 4142 with all 5 providers on it are generated. We want to double check that this is same PDF is sent to all 5 providers. ([ticket link]([url](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/6?pane=issue&itemId=75109776))) - separate 4142 goes to each provider. the grouped provider can be for a 4142a. 
+what happens if multiple providers is sent to one provider? this is a HIPPA concern. it'll come back as "we haven't seen X for this condition" 
+* Jina - which SC category does "traumatic event" fall under? - majority of time for traumatic event, it'd be the first option (direct SC). but there could be scenarios where it was aggravated by an event. so that'd be the third bullet. 
+add (traumatic event)
+* TREX - 2022/TE Form526 5% (Canary) release: how is the data looking for 10% release from VBA's side?
 
 ## 8/20/24 Biweekly VBA-DBEX Check-in
 ### In attendance

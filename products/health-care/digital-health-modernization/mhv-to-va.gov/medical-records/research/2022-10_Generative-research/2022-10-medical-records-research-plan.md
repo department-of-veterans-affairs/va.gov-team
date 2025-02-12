@@ -313,13 +313,13 @@ Nov. 11, 2022 | 10-11 am; 11:30 am - 12:30 pm; 1-2 pm; 2:30-3:30 pm; 4-5 pm; 5:3
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
-- Moderator:	Robyn Singleton (robyn.singleton@adhocteam.us)
+- Moderator:	Robyn Singleton 
 - Research guide writing and task development:	Robyn Singleton 
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Robyn Singleton 
 - Participants for pilot test:	TBD
 - Note-takers: TBD
-- Observers:	Jonathan Nelson (jonathan.nelson@adhocteam.us); Coulton Bunney (coulton.bunney@va.gov); Marci McGuire (marci.mcguire@adhocteam.us), Jenny Wang (Yizhen.Wang@va.gov), Alexia Wunder (alexia.wunder@bylight.com), Lauren Alexanderson (Lauren.Alexanderson@va.gov), all others to sign up via sign up list. 
+- Observers:	Jonathan Nelson; Coulton Bunney; Marci McGuire, Jenny Wang, Alexia Wunder, Lauren Alexanderson, all others to sign up via sign up list. 
 
 ## Approvals
 - Reviewed and approved by Coulton Bunney (PO) on Oct. 17, 2022

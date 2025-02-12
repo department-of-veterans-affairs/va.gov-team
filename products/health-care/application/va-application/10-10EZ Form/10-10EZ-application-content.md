@@ -2,7 +2,7 @@
 
 ---
 
-- [VA Mural flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1687376928311/303a0fbb8ffe1353eedf695ac86a6e069cd2003f?sender=uadf1ed7fe7c76f0914967329)
+- [VA Mural flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711487613901/3f988d8dd69c59340e4b850ef5caf362fa490927?sender=uadf1ed7fe7c76f0914967329)
 - [Figma wireflow - PENDING UPDATE](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=0-6&mode=design&t=DlVyBuMijvoU6rw6-0)
 
 --- 
@@ -1789,37 +1789,36 @@ You only need to enter one date range. We’ll use this information to find your
 
 ### Page: Health insurance
 
-#### URL: health-care/apply/application/insurance-information/general
+#### URL: health-care/apply/application/insurance-information/your-health-insurance
 
 [component progress bar]
 [h2] Step 5 of 6: Insurance information
 [end progress bar]
 
+[h3] Your health insurance
 
-[p] Health insurance includes any coverage that you get through a spouse or significant other. Health insurance also includes Medicare, private insurance, or insurance from your employer.
+[p] In the next few questions, we’ll ask you about your health insurance.
 
-
-[label] Do you have health insurance coverage?(*Required)
-
-[additional info component]
-
-[title] Why we ask this information
-
-[content]
+[p] Health insurance includes any coverage that you get through a spouse or significant other. Health insurance also includes private insurance or insurance from your employer.
 
 [p] We ask for this information for billing purposes only. Your health insurance coverage doesn’t affect the VA health care benefits you can get.
 
-[p] Giving us your health insurance information helps you for these reasons:
+[additional info label] Why giving us your health insurance information may help you
 
-[ul]
+[additional info content] 
+[bold] Giving us your health insurance information may help you for these reasons:
 
-We must bill your private health insurance provider for any care, supplies, or medicines we provide to treat your non-service-connected conditions. If you have a VA copayment, we may be able to use the payments from your provider to cover some or all of your copayment.
-Your private insurance provider may apply your VA health care charges toward your annual deductible. Your annual deductible is the amount of money you pay toward your care each year before your insurance starts to pay for care.
+- We must bill your private health insurance provider for any care, supplies, or medicines we provide to treat your non-service-connected conditions. If you have a VA copay, we may be able to use the payments from your provider to cover some or all of your copay.
+- Your private insurance provider may apply your VA health care charges toward your annual deductible. Your annual deductible is the amount of money you pay toward your care each year before your insurance starts to pay for care.
+[end additional info component]
 
-[end ul]
+[button pair] [<< Back] [Continue >>]
 
-[END additional info component]
 
+#### URL: health-care/apply/application/insurance-information/general
+
+
+[label] Do you have health insurance coverage?(*Required)
 
 [radio select options]
 Yes

@@ -1,26 +1,34 @@
 ---
 name: Sitewide Content, Accessibility, and IA Intake Form
-about: Use this ticket to start collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) team.
+about: Use this ticket to start collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA)  team.
 title: "[CAIA Intake] <Team Name>: <Initiative Name>"
-labels: sitewide CAIA
-assignees: strelichl,NaomiPMC
+labels: sitewide CAIA, CAIA Intake
+assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA,mnorthuis
 
 ---
 # Content, accessibility, information architecture (CAIA) new initiative collaboration request
 
-Use this ticket to request collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) team.
+Use this ticket to request collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) shared services team. Feel free to delete instructions and unselected options from the ticket to make it easier to scan.
 
-## About your team
+## Your team
 
-- **Team name**: `Insert name`
-- **OCTO product owner:** `Insert product owner`
-- **Product name:** `Insert product name`
-- **Product manager:**  `Insert product manager`
-- **Slack channel:** `Insert and link to OCTO slack channel`
-- **Dedicated content writer on your team (if you have one):** `Insert name and/or GH handle`
-- **Dedicated a11y specialist on your team (if you have one):** `Insert name and/or GH handle`
+
+- **Product name:**
+- **Team name**:
+- **OCTO product owner:** 
+- **Product manager:** 
+- **Designer(s):** 
+- **Slack channel:** 
+- **Dedicated content writer on your team (if you have one):** 
+- **Dedicated a11y specialist on your team (if you have one):**
+
+## CAIA specialists involved
+_Filled out by CAIA_
+- **IA:** 
+- **Content:** 
+- **Accessibility:** 
  
-## About your initiative
+## Your Initiative
 
 ### Which of these descriptions best fits the work we’ll partner on?
 Select all that apply.
@@ -30,11 +38,14 @@ Select all that apply.
 - [ ] Translating a form or tool into Spanish
 - [ ] Adding new unauthenticated content to VA.gov
 - [ ] Updating existing unauthenticated content on VA.gov
-- [ ] Something else:  `insert description`
+- [ ] Something else:  
 
 ### What's the nature of your initiative and desired outcomes?
-
 `Tell us briefly about your work and the outcomes you’re aiming to achieve.`
+
+## Supporting artifacts
+Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. Include artifacts like your product outline, user flows, mockups and prototypes, or any draft content. FOR FIGMA/MURAL: please tell us which screens/board/section to look at so we don't leave comments on old stuff. 
+- [Supporting artifact<name>]
 
 ## Collaboration timeframe
 
@@ -75,10 +86,6 @@ Select all that apply.
 If you’re going through the collaboration cycle, provide a link to your Collaboration Cycle Request:
 - **Hyperlinked Ticket Number:** 
 
-## Supporting artifacts
-Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. Include artifacts like your product outline, user flows, mockups and prototypes, or any draft content.
-- [Supporting artifact<name>]
-
 ## Next steps
 - [ ] Review the remaining next steps in the **VFS team tasks** section here.
 - [ ] **If you also need engineering support from the public websites team**, fill out their intake request form as well: [Open a public websites intake request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Public+Websites%2C+Sitewide+content&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+sitewide-content%2C+needs-grooming&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
@@ -86,3 +93,4 @@ Provide links to any supporting artifacts that can help us better understand you
 - [ ] **If you're creating an experimental design**, also contact the design system team: [Read more about experimental designs](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) <br> [Suggest an addition or update to the design system team](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update)
 - [ ] **If you're requesting a11y support for usability research**, submit a research support request next: [Open an a11y research support request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name)
 - [ ] **If you are requesting content support**, please share your content source of truth (preferably as a SharePoint document).
+- [ ] Please don't close this intake when work is complete - CAIA will close and track

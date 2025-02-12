@@ -2,6 +2,9 @@
 
 See [the Search playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-playbook.md) for access, tooling and support specifics.
 
+[Search User flow (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1728324454952/c3cbd6203c07712994f5c5e4f9d6e81bfc2432e4?sender=u0b235d03cbd64f7f93673243)
+
+
 ### Search.gov Integration & Background
 
 VA.gov search is powered by Search.gov, a service of the General Services Administration, supporting the search boxes on over 2,000 websites, across 30% of federal domains.  
@@ -56,6 +59,7 @@ TODO: Find a way to get an architecture diagram long the lines of [the Forms one
 * Responses from Search.gov come back to the fwdproxy. At this stage, if Search.gov returns a 503, sometimes the errors aren't fully parsible or structured enough. So we don't always know exactly what happened between the Search.gov response and our backend API (vets-api / fwdproxy).
     * There are different types of 503 errors. Right now (March 2024) we can't differentiate the flavors of 503s we get from Search.gov at the fwdproxy level. But also: Search.gov shouldn't be returning 503s. 
     * Getting a more structured error response at the fwdproxy layer would be a Platform / vets-api structural ask, we think.
+    * To help handle this instability [per Search.gov's recommendation](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18736), in September 2024 a [search_use_v2_gsa](https://github.com/department-of-veterans-affairs/vets-api/pull/18450) flipper was introduced to allow updating the Search.gov API endpoint to the latest https://api.gsa.gov/technology/searchgov based URL
 
 ### Open Questions
 

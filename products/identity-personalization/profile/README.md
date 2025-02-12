@@ -1,6 +1,6 @@
 # Section Outline: The VA.gov Profile
 
-**Last Updated: 3/22/2024 -- updated products and features**
+**Last Updated: 8/30/2024 -- updated GA4 link**
 
 ## Table of Contents
 
@@ -41,11 +41,10 @@ The [VA.gov profile](https://staging.va.gov/profile) provides a centralized plac
 |[Profile Hub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/README.md)|Main hub for linking to profile pages and content|n/a|n/a|  AE Profile |
 [Personal information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information)| Shows full name, date of birth, preferred name, gender identity, and disability rating| MPI for full name; VA Profile for gender identity and preferred name; Lighthouse for disability rating| MPI ([#vsp-identity](https://dsva.slack.com/channels/vsp-identity)); [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov); Lighthouse ([#lighthouse-delivery-platform-support](https://dsva.slack.com/channels/lighthouse-delivery-platform-support))|  AE Profile |
 |[Contact information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)| Shows home and mailing addresses, phone numbers, and email address| VA Profile| [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov)| AE Profile |
-|[Personal Health Care Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/021152e8d81407bec78b8ba5bad45e803de83338/products/identity-personalization/profile/personal-health-care-contacts/README.md)|     | VA Profile  |     | MHV Cartogrophy Team |
+|[Personal Health Care Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-health-care-contacts)|     | VA Profile  |     | MHV Cartogrophy Team |
 |[Military information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)| Shows military branch(es) of service and service period(s)| VA Profile | [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov) |  AE Profile |
 |[Veteran Status Card](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-status/README.md)| The veteran status card is part of the Military Info Page|      | [#veteran-status](https://dsva.slack.com/archives/C061RNJQ6SE/p1711980999826959) |  Veteran Status Card Team |
-|[Direct deposit information: Comp & Pen](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)| Allows comp & pen payment recipients to update their direct deposit information| Lighthouse |  Lighthouse ([#lighthouse-delivery-platform-support](https://dsva.slack.com/channels/lighthouse-delivery-platform-support)) or Nichole Harris (harris_nichole@bah.com) |  AE Profile |
-|[Direct deposit information: Education](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)| Allows education payment recipients to update their direct deposit information| BGS | Linda Ciston (linda.ciston@va.gov)|  AE Profile |
+|[Direct deposit information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)| Allows comp & pen payment recipients and Ch33 recipients to update their direct deposit information| Lighthouse |  Lighthouse ([#lighthouse-delivery-platform-support](https://dsva.slack.com/channels/lighthouse-delivery-platform-support)) or Nichole Harris (harris_nichole@bah.com) |  AE Profile |
 |[Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)| Allows people to update whether they'd like to receive particular notifications, and in what format| VA Profile| [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov)|  AE Profile |
 |[Account security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/README.md)| Allows people to verify their identity and add 2FA | N/A | If there is an identity-related issue, contact [#vsp-identity](https://dsva.slack.com/channels/vsp-identity)|  AE Profile |
 |[Connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps)| Allows people to disconect third-party apps from their account | Lighthouse | Carey Otto (carey.otto@adhocteam.us)| Lighthouse |
@@ -191,7 +190,16 @@ Current projects are actively managed in the AE Profile Github project, the char
 
 ### Domo
 - [Profile Domo dashboard](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1834995012%3FuserId%3D66061986)
-### GA 
+
+### GA4
+- [GA4 Report](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/AzkvB_SjSh2-KrYPsyzvaA) `WIP` we're rebuilding our analytics regime
+
+#### Legacy GA
+
+<details><summary>Details</summary>
+<p>
+
+
 - [Personal information GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/-x0K5pQPRTaQCa_WzXnEDg/a50123418w177519031p176188361/)
 - [Contact information GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
 - [Address validation GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/)
@@ -201,6 +209,10 @@ Current projects are actively managed in the AE Profile Github project, the char
 - [Account security GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/AuydfL6WR7WS_nXqNhC5GA/a50123418w177519031p176188361/)
 - [Connected apps GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/-7uuXRP8QJOLgqwi7s5OOg/a50123418w177519031p176188361/)
 
+
+</p>
+</details> 
+
 ### Data Dog
 - [AE Profile Data Dog Monitors](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?view=spans)
 
@@ -208,11 +220,11 @@ Current projects are actively managed in the AE Profile Github project, the char
 
 - [Personal Info Backend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/backend_documentation.md)
 - [Contact Info Backend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/backend_documentation.md)
-- [Comp & Pen Direct Deposit (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/direct_deposit/backend_direct_deposit_comp_and_pen.md)
-- [Education Direct Deposit (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/direct_deposit/backend_direct_deposit_education.md)
+- [Direct Deposit Backend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/direct-deposit/backend)
 - [Notification Settings (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/profile/notification_settings)
 - [Account Security (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/account_security/backend_documentation.md)
 - Connected Apps (supported by Lighthouse)
+- Personal Health Contacts (owned by MHV Cartogrophy team)
 
 
 ## Frontend
@@ -221,24 +233,15 @@ Current projects are actively managed in the AE Profile Github project, the char
 - [Hub Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/hub/frontend_documentation.md)
 - [Personal Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/frontend_documentation.md)
 - [Contact Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/frontend_documentation.md)
-- [Direct Deposit (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/direct_deposit/frontend_documentation.md)
+- [Direct Deposit (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/direct-deposit/frontend)
 - [Notification Settings (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/notification_settings/frontend_documentation.md)
 - [Account Security (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/account_security/frontend_documentation.md)
 - [Connected Apps (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/connected_apps/frontend_documentation.md)
 - [Service Maintenace and Outage Procedures for FE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/profile-service-maintenance-outage-procedures.md)
 - [Feature Toggle Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/feature-toggle-guidance.md)
+- Personal Health Contacts (owned by MHV Cartogrophy team)
 
 ## Design 
-
-### Sketch files
-
-- [Personal information](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
-- [Contact information](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
-- [Military Information](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
-- [Direct deposit](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131)
-- [Notification settings](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
-- [Account Security](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc)
-- [Connected apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
 
 ### Figma files
 [Account Experience Figma Project containing all related AE products/features](https://www.figma.com/files/project/176473451/Account-Experience?fuid=1281705750009777247)

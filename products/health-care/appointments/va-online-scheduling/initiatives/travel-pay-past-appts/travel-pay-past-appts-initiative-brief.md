@@ -29,13 +29,17 @@ A Veteran can submit a mileage-only travel reimbursement claim for a past appoin
 ## Undesired Outcomes
 - Veterans do not understand that they can submit **only** a mileage-only claim using this new method.
 - Veterans do not undersatnd how to submit a mileage-only claim via VA.gov.
-- Veterans prefer to submit a travel reimbursement claim via a paper form or the BTSSS portal.
 
-## Key Decisions
-- We are limiting submission of a travel reimbursement claim to mileage-only claims because that is the only type of claim the BTSSS API currently supports.
-
-## Measuring Success
-- Increase in the number of BT claims being submitted 
+## Metrics
+- Number of Veterans who choose to file a travel reimbursement claim on VA.gov
+    - Click event on the "File a travel reimbursement claim" link on VA.gov
+    - ![image](https://github.com/user-attachments/assets/1c2d0bf4-921d-4a63-b960-5db38c708e9c)
+- Number of Veterans who choose to view their claim status on VA.gov
+    - Click event on the "Check you claim status" link
+    - ![image](https://github.com/user-attachments/assets/5ce71c8b-31dd-4ce3-8fcd-86c7433668ba)
+- Number of Veterans who choose to learn more about how to file a claim on VA.gov
+    - Click event on the "Learn more about travel reimbursement"
+    - ![image](https://github.com/user-attachments/assets/c3110fc1-c56c-4516-9f33-f610031518ca)
   
 ## Discovery
 
@@ -54,7 +58,7 @@ A Veteran can submit a mileage-only travel reimbursement claim for a past appoin
 
 ### Assumptions/Risks
 
-- **Value Risks** (will people use it): Limited to mileage-only travel reimbursement claims because that comprises approximately 80% of all travel claims and is the only claim type supported by the BTSSS API.  
+- **Value Risks** (will people use it): Limited to mileage-only travel reimbursement claims because that comprises approximately 80% of all travel claims.  
 - **Usability Risks** (can people figure out how to use it): Usability risks are mostly limited to the complexity of the new travel form 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data): None
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact): Getting the word out to Veterans about the feature will help determine the success of the feature.
@@ -64,32 +68,36 @@ A Veteran can submit a mileage-only travel reimbursement claim for a past appoin
 ### User Flow
 [User Flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722263210448/33062955940eb08d097dbd88a8dc98488ac2ffcc?sender=uc584f7fcc9a5090000259578)
 
+### Wireframes
+[Wireframes](https://www.figma.com/design/RzugGEmu4drhCSHTyQ6hjl/Simple-mileage-only-travel-pay-claim-submission?node-id=2135-3&node-type=canvas&t=nTKuyiruyK0ah1Z6-0)
+
 ### Solution Steps
+- Veteran logs into VA.gov
 - Veteran navigates to past appointments on VA.gov
-- Veteran chooses a past appointment and navigates to the appointment details for the selected appointment
-- Veteran chooses to file a BT claim for the selected appointment
-    - Appointment will only have the option to file if the following criteria are met
-        - Appointment occured before today and within the last 30 days
-        - Appointment is one of these in-person appointment types
+- Veteran selects a past appointment and navigates to the appointment details for the selected appointment
+- System determines if the selected appointment is eligible for mileage-only travel reimbursement
+    - An appointment is eligible for mileage-only travel reimbursement when
+        - It occured within the last 30 days
+        - It is one of these in-person appointment types:
             - In-person appointment
             - In-person vaccine appointment
-            - Video at a VA facility appointment
-        - No BT claim has been filed for the Veteran for the same day and same facility as the selected appointment
-- System navigates the Veteran to the new online mileage-only BT claim form
-    - NOTE: System passes the Veteran's patient ICN and appointment date & time to the new BTSSS form
-- Veteran answers 'Yes' to the following questions
-    - Filing mileage-only claim?
-    - Used own vehicle to travel to the appointment?
-    - Travelled from Veteran's on-file home address?
-- Veteran chooses to submit the form
-- System submits a BT claim for the selected appointment date & facility for the Veteran
-
-### Wireframes
-TBD
+            - Video at a VA facility appointment 
+- If the selected appointment is eligible for a mileage-only travel claim, Veteran can choose one of these actions    
+    - If no claim has yet been filed for the selected appointment date and facility, Veteran can choose to submit a claim
+        - System navigates the Veteran to the new online mileage-only BT claim form 
+        - Veteran answers 'Yes' to the following questions
+            - Filing mileage-only claim?
+            - Used own vehicle to travel to the appointment?
+            - Travelled from Veteran's on-file home address?
+        - Veteran submits the form
+        - Veteran receives confirmation that their claim has been submitted
+    - If a claim has already been filed for the selected appointment date and facility, Veteran can choose to view the status of the claim
+        - System navigates the Veteran to the new BT Status Claim tool
+        - Veteran views the status of the claim
 
 ## Launch Planning
 - [Collaboration Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89153)
-- [Release Plan]() - TBD
+- [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/travel-pay-past-appts/travel-pay-past-appts-release-plan.md)
 - [Team Channel](https://dsva.slack.com/archives/C022AC2STBM) 
 - [Team Members](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/README.md#team-members)
 - Stakeholders: Kay Lawyer (OCC), Kristen McConnell, Stephen Barrs

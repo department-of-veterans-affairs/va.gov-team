@@ -1,8 +1,6 @@
 # Caregivers Product Outline
-- GitHub Label: 1010-team
-- Slack channel: #1010-health-apps
-- VA.gov link: https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction
-- Product POCs: Heather Justice
+---
+- [10-10CG - Zero Silent Failures checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Endpoint%20Monitoring%20&%20Zero%20Silent%20Failures/10-10CG%20Zero%20Silent%20Failures%20checklist.md)
 ---
 
 ### Table of Contents
@@ -155,6 +153,13 @@ CARMA data is agile due to appeal outcomes, reinstatements, delayed data entry, 
 - 7/6/2022: Sign as a Representative - content update
 - 7/21/2022: "Same Address" Checkbox (Caregiver can use checkbox to indicate they have the same address as the Veteran)
 - 9/23/2022: Mulesoft Integration ph 2 (queueing and retries)
+- 9/12/2023: Updated to memorable date component
+- 3/6/2024: Completed removing eMIS references within form (eMIS deprecated)
+- 6/26/2024: Root URL updated from `va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/` to `va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/`
+- 7/8/2024: Form updates from latest OMB review
+- 9/24/2024: Added `submitted_at` subattribute in schema
+- TBD Facilities search
+- TBD OAuth update
 
 ---
 

@@ -26,18 +26,16 @@ Please note, this is for the calendar year 2024.
 |---------|----------------------|-----------------------|---------------------|-------------------------|
 | Q1      | Medium               | Medium                | High                | High                    |
 | Q2      | High                 | High                  | Elite               | Elite                   |
-| Q3      |                      |                       |                     |                         |
+| Q3      | Elite                | High                  | Elite               | Elite                   |
 | Q4      |                      |                       |                     |                         |
 
-Notes:
-- Toward the end of Q2, Notify moved to on demand deployments due to our Continuous Delivery pipeline automation. We have had no deployment failures, though if we did we are confident we could quickly rollback and restore - hence our elite rating in those categories.
 
 **Strike**
 |Quarter | Deployment Frequency Rating | Lead Time for Changes Rating | Change Failure Rate Rating | Time to Restore Service Rating |
 |---------|----------------------|-----------------------|---------------------|-------------------------|
 | Q1      | High                 | High                  | Elite               | Elite                   |
 | Q2      | Elite                | High                  | Elite               | Elite                   |
-| Q3      |                      |                       |                     |                         |
+| Q3      | Elite                | High                  | Elite               | Elite                   |
 | Q4      |                      |                       |                     |                         |
 
 #### Platform Satisfaction
@@ -52,16 +50,8 @@ Very Satisfied (5) Satisfied (4) Neutral (3) Unsatisfied (2) Very Unsatisfied (1
 | Q3      |               |
 | Q4      |               |
 
-#### API Throughput
-Proof of concept performance comparison of v2 and v3 endpoints
-
-|               | Average Response Time | P95 Response Time | Minimum Response Time | Maximum Response Time |
-|---------------|-----------------------|-------------------|-----------------------|-----------------------|
-| V2 email 3750 | 496ms                 | 813ms             | 496ms                 | 2 seconds             |
-| V3 email 3750 | 195ms                 | 417ms             | 180ms                 | 2 seconds             |
-
 #### Access reviews
-This is not applicable for our teams as we utilize platform and identity managed tools that already have processes in place to monitor user activity and deactivate users as needed. Our Strike team is working with the IAM team to ensure VA offboarding events are integrated with the Self Service Portal. Users can only access Portal if they have a valid PIV card and access to the VA Network.
+Under construction! 90 Day Self Service Portal Access reviews WIP.
 
 ## 500 foot view: VA Notify themes
 - Self Service Portal Capabilities

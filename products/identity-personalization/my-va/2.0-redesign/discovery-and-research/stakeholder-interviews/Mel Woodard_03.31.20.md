@@ -27,7 +27,7 @@ Looked at financial, medical sector, insurance websites, and some more less trad
 
 #### Can you show me some of your designs and talk about why you made some of those decisions?
 
-(Discussing [personalization blue sky prototype](https://vsateams.invisionapp.com/console/share/X3WBOA3QSWR))
+(Discussing [personalization blue sky prototype(archived as a PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/blue-sky-prototype)
 
 As we were working through the concepts, we were on the fly trying to come up with things that would be useful for Veterans to see. We broke it [dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-dashboard.png) down into a few different buckets (shown as columns) we thought would be most useful: 
 

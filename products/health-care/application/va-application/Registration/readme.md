@@ -32,6 +32,17 @@ Provide guidance for Active Duty Service Members and Veterans who want to regist
 - Shared design with HEC Stakeholders on 4/10/2024, receiving verbal excitment and approvals
 - Shared Experiment parameters with HEC stakeholders on 8/14/2024, receiving verbal interest and approvals
 
+#### Decision made on 8/28/2024
+- CAIA (Content) suggested to provide an "I'm not sure" option, along with the radio options to "Register for connected service care" or "Enroll in the full benefits package".
+- When demo'd to PO, concern was brought up that the "I'm not sure" option would direct users through the application and submit.
+     - This pathway is the same as the "enroll in full benefits package" option, duplicative action which is not advisable
+- The team came together to discuss the "I'm not sure" option, and how best to present it to Veterans
+- DECISION MADE
+     - Remove "I'm not sure" as a radio button option
+     - Add some hint or other type of text on the screen to guide Veterans to select the "Enroll in full benefits package" option if they are not sure.
+     - UX team will discuss with CAIA on proper content
+     - We will not launch Reg Only into production until after these changes are made to the current development (in QA)
+
 
 
 ## Problem
@@ -58,23 +69,34 @@ There is an interest from the HEC (Health Eligibilty Center) and VEO (Veteran Ex
      - The forecast of 250 registration selections is based on approximately one-third of monthly service-connected care only registration volumes (850-900)
      - The number of 'Back' button clicks, form exits and download link clicks are estimations derived to support our hypothesis.
 
-### Targets
-- Source Data - Google Analytics, Datadog (Links TBD)
+### Weekly Average user activity
+- Source Data
+     - [GA4 Authenticated](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Xpk8PijJQpCkXPUsBezQbQ) and [GA4 Unauthenticated ](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/rsa8M9z3TwiggRM6G6fCRw)
+     - [Datadog](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=true&refresh_mode=paused&from_ts=1727928000000&to_ts=1730260740000&live=false)
+     - [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1_P5Gd5yOGte5oya5HtdEdYebeauOuwHt4tasiMHzDPE/edit?gid=0#gid=0) (this will be moved to GitHub once experiment is complete)
 
-|Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|
-|---------|---------------|-------------|----------|---------------|---------------|----------|
-| Monthly Average | 18000 | 11000 | 250 | 200 |50 | 10 |
-| 3-month Total | x | x | x | x |x | x |
+|Timeblock|# of application starts|# of selection page views|# of accordion clicks|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|
+|---------|---------------|-------------|----------|---------------|---------------|----------|----------|----------|----------|
+| Historical Weekly Avg | 4,500 | 2,750 |62 | N/A | 50 |12 | 2 |2%|19%|
+| 3-month Weekly Avg | 2,968 | 142 | 58 | 47 |5 | 34 | 0 |33%|72%|
 
-### Results
-|Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|
-|---------|---------------|----------------|----------|---------------|---------------|----------|
-|Month 1| x | x | x | x |x | x |
-|Month 2| x | x | x | x |x | x |
-|Month 3| x | x | x | x |x | x |
-| Monthly Average | x | x | x | x |x | x |
-| 3-month Total | x | x | x | x |x | x |
+### Monthly Totals and Average user activity
+|Timeblock|# of application starts|# of selection page views|# of accordion clicks|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|
+|---------|---------------|-------------|----------|---------------|---------------|----------|----------|----------|----------|
+|Target Monthly Average | 18,000 | 11,000 |N/A |250 | 200 |50 | 10 |29% | 20% |
+|Month 1| 11,872 | 567 | 234 | 188 |20 | 135 | 0 |33%|72%|
+|Month 2| x | x | x | x |x | x | x |x | x |
+|Month 3| x | x | x | x |x | x | x |x | x |
+|Experiment Monthly Average |3,957 | 189 | 78 | 63 |7 | 45 | 0 |33% | 72% |
+|3-month Total | x | x | x | x |x | x | x |x | x |
 
+### Monthly totals of users who selected Registration, went back to the question, selected Enroll and moved forward through the form
+|Month|# of users on Question Page|# of users on Reg page|# of users back to Question page|# of users select Enroll and move to next page|% of users changed Path|
+|---------|---------------|-------------|----------|---------------|---------------|
+|Monthly Target|850 |250 |200 |200 |80% |
+|October|832|99|56|42|21%|
+|November| x |x |x |x |x |
+|December| x |x |x |x |x |
 
 ## Research questions/Supplemental Metrics
 - Is there enough interest in registering for service connected care only?
@@ -185,6 +207,16 @@ Section III
 
 
 ### After
+
+- New Enrollment/Registration question page
+     - ![image](https://github.com/user-attachments/assets/0a25f3a2-881c-4f17-8b5f-74d19d4fd4a1)
+
+- Additional Info expanded
+     - ![image](https://github.com/user-attachments/assets/a3ae620e-7a38-4d5a-8686-837a7b573ea5)
+
+- Registration Info page
+     - ![image](https://github.com/user-attachments/assets/9dbfad9a-f6d3-4792-93ec-7953ed50731a)
+
 
 ---
 

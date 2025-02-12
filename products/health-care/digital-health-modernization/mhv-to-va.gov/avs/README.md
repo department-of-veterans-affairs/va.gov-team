@@ -148,6 +148,7 @@ See the [AVS Engineering document](https://github.com/department-of-veterans-aff
   - Kay Lawyer - OCTO Product Lead, [katherine.lawyer@va.gov](mailto:katherine.lawyer@va.gov)
   - Kristen McConnell - OCTO UX Lead, [kristen.mcconnell@va.gov](mailto:kristen.mcconnell@va.gov)
   - Adrian Rollett - OCTO Engineering Lead, [adrian.rollett@va.gov](mailto:adrian.rollett@va.gov)
+  - Rob Durkin - OCTO AVS (Clinical interface and Generation) Engineering Lead [robert.durkin@va.gov](mailto:robert.durkin@va.gov)
   - Nina Anusavice - UX Designer, [Nina.Anusavice@va.gov](mailto:Nina.Anusavice@va.gov)
 </details>
 

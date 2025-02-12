@@ -1,128 +1,42 @@
-# Incident Response 
+# Incident Response
 
-## Overview: 
-Now that we have created our [Service Level Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Login%20SLO/SLIs_and_SLOs.md) and published our [Service Level Agreements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/identity_SLA_template.md), it is time to create procedures surrounding what happens when incidents arise relating to those objectives and/or agreements. 
+## Overview
 
-This is part of the book of work that maps to _O1-KR2: VA.gov authentication SLOs are developed._
+An incident is an event that compromises the security, performance, or availability of a service or component owned by the OCTO Identity team. The incident response process contains 4 categories: determine the impact, declare the incident, manage the ongoing incident, and resolve the incident.
 
-Think of it as the thrilling conclusion of the trilogy that started with the SLO proect, and left us on a cliffhanger at the conclusion of the SLA project!
+> [!NOTE]  
+> Incidents that impact over 1,000 users in production are considered P1 and need to be declared and managed in Datadog.
 
+## Determine the impact
 
-## Problem Statement: 
-We currently do not have an end-to-end methodology for defining, tracking, communicating and resolving incidents that are related to our Service Level Agreements. In order to better serve Veterans and other VA.gov teams, we need to implement and communicate a formalized Incident Response process which includes the following:
-* Incident Management process
-* Outage Communication strategies for Veterans and other VA.gov teams.
-* System recovery plan.
-  * This an ATO requirement.
-* Internal reporting on incidents.
+Monitors are set up to detect the thresholds to declare an incident for each [OCTO Identity service](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Incident%20Response/System%20Recovery%20Procedures#list-of-services). If you’re paged during pager duty, there has probably been some type of an incident.
 
-## Relevant Documents:
-**From the SLO & SLA Projects**
-- [SLO & SLI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Login%20SLO/SLIs_and_SLOs.md)
-- [SLA Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/identity_SLA_template.md)
-- [Incident Management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/Incident%20Management.md)
+Refer to the [incident declaration guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Incident%20Declaration%20Guidelines.md) to assess the priority level. If you need to declare a P1 incident, you'll also document the [severity level](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Incident%20Declaration%20Guidelines.md) based on the overall user impact.
 
-**UX Communication Recommendations**
-- [Authentication Status Internal Communication for VA Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content-research-internal-teams.md)
-- [Content Research for Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content%20research%20for%20Veterans.md)
+## Declare the incident
 
-**What Platform Does**
-- [Incident Response Documentation for Application Teams](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te)
+For P1 incidents notify VA OCTO Identity Product Leadership directly via Slack and Pagerduty. Then follow the [step-by-step instructions to declare the incident in Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md).
 
-**Identity Processes Previously Established**
-- [SSOe Outage on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Policies%20and%20Procedures/SSOe_Outage_Response.md)
-- [Update Monitors Alerts Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/Monitoring%20and%20Alerting/Monitors_Alerts_Datadog.md) (very old, should be deleted after mined for use)
+If an incident requires code changes by the OCTO Identity team, check the [guidelines for an Out of Band deploy](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-policies#DeploymentPolicies-Requestingout-of-banddeploys) to confirm if you need to request one for this incident.
 
-**Other Docs**
-- [Refinement (May 24, 2024)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Refinement.md)
-- [Datadog Incident Management]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md)
+## Manage the ongoing incident
 
+The [incident commander](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/IR%20Roles.md) provides updates every 30 minutes on the status of a declared incident until it’s resolved.
 
-## What's In Scope: 
-### These deliverables:
-* [Incident Management Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Incident%20Management%20System.md)
-* [Outage Communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Outage%20Communication.md)
-  * Internal
-  * External (when applicable)
-* [System Recovery Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/System%20Recovery%20Process.md)
-* [Internal Reporting on Incidents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Internal%20Reporting.md)
+These updates are sent through notifications in Datadog. Recipients of the notification are set to the #identity-support Slack channel when you originally declare the incident.
 
+To create a [new notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md#send-a-notification) in Datadog:
 
-### For these areas of responsibility:
-**Directly Responsible**
-- Unified Sign-in Page (USiP)
-- Single Sign-On External (SSOe)
-- Sign-in Service (SiS)
-- Terms of Use (ToU)
+- Navigate to the [declared incident page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md#declared-incident-page).
+- Click the **Notifications** tab.
+- Click **New Notification** to create a new update.
+- Enter the information for your update, then click **Send**.
 
-**Indirectly Responsible (to a point)**
-- Credential Service Providers (CSP)
-- Master Person Index (MPI)
+## Resolve the incident
 
-  
-## Out of Scope: (for this iteration)
-As per Samara:
-* Status Page
-* Planned Outage Communications
+When the service is restored and the incident is resolved:
 
-## High-Level Use Cases:
-* As a VA.gov team member, I would like the Identity team to create a process for incident response & management, so that I may know what to expect when there are service outages.
-* As a VA.gov user, I would like to see notifications which tell me there is a current issue with logging into VA.gov, so I understand why I cannot currently login.
-* As a VA.gov team member, I would like the Identity Team to notify me if there is a sign-in issue, so that I make take the proper actions at my end to help facilitate a solution.
-* As a VA.gov team member, I would like the Identity Team to create a System Recovery Plan so that I understand their steps for system recovery.
-* As a VA.gov team member, I would like the Identity Team to create a process for reporting on Incidents to other internal teams, so I might understand root causes of incidents, resolutions of incidents and how to prevent future incidents.
-
-
-## Assumptions:
-- We build upon what we we put in the [SLA Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/identity_SLA_template.md) for the definition of Incident.
-- We update the current Datadog alert links, which are currently broken.
-- We determine and document where our lines of responsibilites begin and end.
-- We automate as much of the communication as is possible.
-- The System Recovery piece will help fulfill our ATO responsibilities (two for the price of one!)
-- We come up with a prioritization / triage process for alerts based upon severity. (Possibly starting with that SLA doc.)
-- We revisit our levels of response within our current off-hour alerts (in datadog).
-- We come with with a list of sources of incident reporting and what the response will be. (Or maybe a table?)
-
-
-
-## Solution Approach: 
-In order to track each Deliverable by each Area of Responsibility, we've created this table:
-
-| Deliverable →   Area  ↓   | Incident Management Process     | Outage Comms (Internal) | Outage Comms (External) | System Recovery | Internal Reporting | 
-| :------------- |:------------- | :----- | :----- |  :----- |  :----- |
-| **USiP** | | | | | |
-| **SSOe** | | | | | |
-| **SiS** | | | | | |
-| **ToU**| | | | | |
-| **Login.gov** | | | | | |
-| **ID.Me** | | | | | |
-| **MHV**| | | | | |
-| **DS Logon** | | | | | |
-| **MPI** | | | | | |
-
-The early thinking is that each field will contain a link to where our documentation for that solution exists. It may not be be that every single field will be filled out, but if a field doesn't need to be filled out, as simple "n/a" will suffice.
-  
-## Technical Considerations:
-| Issue         | Notes         | 
-| :------------- |:-------------| 
-| Update the downtime banners to fire based on authentication method, either SiS or SSOe. Today the banner shows if the SSOe service is down even if a user is trying to login with SiS (oauth=true param set)| We need to add a PD integration within PD, we need to figure out how to handle backend statuses, potentially need to update the frontend banner settings, need to update the datadog monitor for SiS              |
-
-## UX/ Design Considerations:
-| Issue         | Notes         | 
-| ------------- |:------------- | 
-| Language & placements for outage messages for Vets |  Review current outage messages   |
-
-## Measuring Success:
-| KPI           | Notes         | 
-| ------------- |:------------- | 
-| MTTA (Mean Time To Acknolwedge |  [MTTA Monthly Review Procedure](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/Reports/MTTA_Instructions.md)             |
-| Time to Remediate | Will need to figure out how to properly measure this | 
-
-
-## Milestones:
-* Launch Dates
-
-
-## Future Scope:
-
-
+- Set the Datadog incident status to Resolved.
+- Generate a Post Mortem report of the incident.
+- Reference [system recovery procedure documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Incident%20Response/System%20Recovery%20Procedures) for the relevant service to determine proper testing and communication.
+- After all fields in Datadog are complete and accurate, the [incident commander](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/IR%20Roles.md) sets the incident to Completed and provides a link to the incident to [OCTO Identity team leadership](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md).

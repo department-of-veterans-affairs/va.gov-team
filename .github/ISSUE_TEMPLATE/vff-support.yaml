@@ -1,0 +1,94 @@
+name:  VFF support
+description: VFF Support request
+title: "Forms support: [Team Name, Component]"
+labels: "1-forms-audit-digitize,vff-support"
+assignees: "ndsprinkle"
+projects: ["department-of-veterans-affairs/1443"]
+body:
+- type: input
+  id: team
+  attributes:
+    label: Team name
+    description: Team or crew
+  validations:
+    required: true
+- type: input
+  id: slack
+  attributes:
+    label: DSVA Slack Channel
+    description: Where can we talk with you?
+  validations:
+    required: true
+- type: input
+  id: contact
+  attributes:
+    label: Point(s) of contact
+    description: Who should be kept informed of the status of this request. Please tag them here.
+  validations:
+    required: true
+- type: input
+  id: component
+  attributes:
+    label: Component/Pattern
+    description: What's the name of the component or pattern you are having problems with?
+- type: checkboxes
+  id: typerequest
+  attributes:
+    label: Type of request
+    description: You may select more than one
+    options:
+      - label: Bug
+      - label: Feature request
+      - label: Documentation change
+      - label: Not sure
+  validations:
+    required: true
+- type: checkboxes
+  id: typeproblem
+  attributes:
+    label: Type of problem
+    description: You may select more than one
+    options:
+      - label: UX/Design
+      - label: Engineering/Dev
+      - label: Not sure
+  validations:
+    required: true
+- type: textarea
+  id: details
+  attributes:
+    label: Describe the issue
+    description: "Describe the issue and what problem it's creating. If you have a screenshot or video, add those here"
+    value: |
+      ...
+- type: textarea
+  id: repro
+  attributes:
+    label: Reproduction steps
+    description: "How do you trigger this issue? Please walk us through it step by step. Include any relevant device, browser, and assistive technology."
+    value: |
+      1.
+      2.
+      3.
+      ...
+- type: textarea
+  id: solution
+  attributes:
+    label: Proposed solution or next steps
+    description: "If there is an easy HTML, CSS, or JavaScript markup fix, add it after creating this ticket. If it is a longer fix or you do not have a ready solution, provide next steps."
+    value: |
+      ...
+- type: dropdown
+  id: priority
+  attributes:
+    label: How urgent is this request? Please select the appropriate option below
+    options:
+      - This issue is blocking work currently in progress
+      - This issue is affecting work currently in progress but we have a workaround
+      - This issue is blocking work planned within the next few sprints
+      - This issue is not blocking any work
+      - Other
+  validations:
+    required: true
+  
+

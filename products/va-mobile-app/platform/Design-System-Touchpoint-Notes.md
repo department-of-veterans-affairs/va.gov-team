@@ -1,9 +1,49 @@
-Meeting time: Bi-weekly Thursdays 3:35pm ET-4:00pm ET
+Meeting time: Bi-weekly Wednesdays 1:05pm ET-1:30pm ET
 Agenda:
 
 *   Discuss any blockers or open questions on the Mobile Design System work
 *   Review open action items
 *   Discuss progress and risks 
+
+## 11/20/24
+*   Figma transition
+    *   constraints:
+        *   1 folder
+        *   memory issues with many files
+            *   Do we want to bring over graveyard files?
+    *   timing
+        *   Week of 11/18 - move files within AH Figma
+        *   Week of 11/25 - work with IT to move files to VA Figma
+        *   Week of 12/2 - clean up files in VA Figma
+
+  
+## 10/23/24
+*   Figma account transition
+    *   blue sky dream: everyone at VA is on one Organizational account
+    *   VA has Professional account, AdHoc has Organizational account
+    *   Ryan to talk to Matt Dingee
+*   Checkbox tile spacing feedback
+    *   DS team has a ticket to look into this.
+    *   will also look at how our new typography stuff could affect this
+*   Link crashes
+    *   flag added to new link component to determine if the component is causing the crash, looks like it is
+    *   We will look at this ASAP
+    *   Android only: ~2500/day (Payment History page is worst), ~4% increase in crashes
+
+## 10/9/24
+*   Review Q4 Plan
+*   Home Icon sizing
+    *   post in Slack to ask VADS
+*   Spacing Token questions from Demo
+    *   Create documentation of the Spacing pattern(s)
+*   Light mode / Dark Mode from Demo
+    *   screen templates not in DS right now
+
+## 9/25/24
+*   Pilots and Design Systems - idea for collaboration
+
+## 8/28/24
+*   VADS status with the documentation merge
 
 ## 7/30/24
 *   Typography Tokens update

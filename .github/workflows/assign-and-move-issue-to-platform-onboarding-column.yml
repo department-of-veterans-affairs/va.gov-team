@@ -1,0 +1,34 @@
+name: "Supp: move to Platform Onboarding column"
+
+on:
+  issues:
+    types:
+    - opened
+    - labeled
+
+jobs:
+  add_to_project:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Add Platform Support Issues to Project
+        uses: actions/add-to-project@main
+        with:
+          project-url: https://github.com/orgs/department-of-veterans-affairs/projects/1408
+          github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          labeled: new-vfs-team, new-vfs-team-member
+
+  move-issue:
+    runs-on: ubuntu-latest
+    if: |
+     contains(github.event.issue.labels.*.name, 'new-vfs-team-member') ||
+     contains(github.event.issue.labels.*.name, 'new-vfs-team')
+
+    steps:
+      - name: Move Issue to Platform Onboarding Column
+        uses: m7kvqbe1/github-action-move-issues@v1.1.2
+        with:
+          github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          project-url: https://github.com/orgs/department-of-veterans-affairs/projects/1408
+          target-labels: new-vfs-team-member, new-vfs-team
+          target-column: Platform Onboarding

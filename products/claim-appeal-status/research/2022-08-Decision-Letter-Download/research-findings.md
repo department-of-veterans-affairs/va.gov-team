@@ -6,6 +6,9 @@ Date: 09/29/2022
 
 Skyler Schain · skyler@coforma.io
 
+[Research Readout (PDF)](https://github.com/user-attachments/files/17261551/DLD.Research.Share.pdf)
+
+
 
 # Research Goals
 Multiple research study findings suggest that the ability to download decision letters is a feature many veterans would like. Currently, veterans need to wait for their decision letters to arrive via physical mail and, if they lose them, need to request one by reaching out to a call center representative or through other online channels with transaction costs that diminish their experience. Veterans often need to provide copies of their decision letters to a representative to pursue disagreement pathways related to the decision. In addition, some benefits provided by third-parties require a decision letter as proof of the veterans’ disability status.

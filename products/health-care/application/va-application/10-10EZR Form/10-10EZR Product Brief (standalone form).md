@@ -169,6 +169,8 @@ In future iterations, we plan to review for alternative locations and other syst
 - New form being built online
      - 12/20/2023 - EZR Form launched at 10% over the holiday week
 
+### [Zero Silent Failures Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/10-10EZR%20Zero%20Silent%20Failure%20Checklist.MD)
+
 #### Key deliverables
 
 - Design documentation

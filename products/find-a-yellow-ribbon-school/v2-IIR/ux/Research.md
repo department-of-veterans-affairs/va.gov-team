@@ -220,3 +220,19 @@ We will be running a pilot session by sending out the card sort to members of ou
 +1 202-818-8710
 Work extension
 1305
+
+####
+**Results of test**
+
+The Card sort results have been completed. Based upon the results of the test we proposed the following categories:
+- Diplomas
+- Certificates
+- Undergraduate Degrees (includes Associates and Bachelors)
+- Graduate Degrees (Includes Masters and Doctoral)	(Graduate)
+- Professional Degrees
+- Post Baccalaureate Programs
+- Other
+
+  The updated [figma designs](https://www.figma.com/file/V9h74B7cMc71BLjCr5L9yX/Yellow-Ribbon-Search?type=design&node-id=110%3A3477&mode=design&t=3cFobRXijjsQzqJr-1) with the new data points can be found here.
+
+  Our proposed mapping of the current categories to our proposed categories can be found [in this location](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/v2-IIR/ux/Degree%20Type%20Categorization.xlsx)

@@ -18,27 +18,30 @@ The MHV team has created an api called the MHV account creation API which the VA
         6. `vaTermsOfUseDateTime`
     2. Values optional for API request:
         1. CSP supplied email
-2. Vets-api MUST use a signed JWT created by vets-api STS to the MHV team and the JWT MUST contain the proper user ICN value and format
-    1. TBD: proper JWT format
-3. Vets-api MUST not call the MHV account creation API for a user who cannot successfully login to the VA.gov portal.
+2. The cache that stores the result of the MHV account creation API MUST expire every 24 hours. The next user authenticated action MUST make a fresh call to the MHV account creation API to ensure there is fresh data loaded into the cache from the response.
+    1. This is to ensure if there is an update to the users MHV account information we get the latest data, such as updated access to secure messaging.
+3. Vets-api MUST use a signed JWT created by vets-api STS to the MHV team and the JWT MUST contain the proper user ICN value and format
+4. Vets-api MUST not call the MHV account creation API for a user who cannot successfully login to the VA.gov portal.
     1. Note: if the user has a date of death or otherwise account blocking flag, the user will not be able to login and the MHV account creation api should be impossible/not allowed to be called.
     2. If a user has not accepted terms and conditions they cannot login and also therefore should not be able to have an MHV account creation api process initiated for them.
-4. Vets-api MUST ensure the ICN used to generate the JWT is not deprecated
+5. Vets-api MUST ensure the ICN used to generate the JWT is not deprecated
     1. Note: calling MPI at the start of the sidekiq job to get an updated ICN if it's available is the likely solution here.
-5. Vets-api MUST ensure the ICN used to call the MHV APIs matches the ICN within the JWT used to call the MHV APIs
-6. Vets-api MUST ensure the ICN used to call the MHV APIs is not deprecated
+6. Vets-api MUST ensure the ICN used to call the MHV APIs matches the ICN within the JWT used to call the MHV APIs
+7. Vets-api MUST ensure the ICN used to call the MHV APIs is not deprecated
     1. Note: the JWT used to get the token to call the API will be different which is why this is an explicitly called out requirement
-7. Vets-api MUST log all requests, responses, and errors from the MHV account creation API
-8. Vets-api MUST log all requests, responses, and errors for all JWT actions associated with the account creation API
+8. Vets-api MUST log all requests, responses, and errors from the MHV account creation API
+9. Vets-api MUST log all requests, responses, and errors for all JWT actions associated with the account creation API
     1. Logs MUST at least include icn, session id, user uuid
-9. Vets-api MUST write to a new frontend serializer for the storage of the MHV attributes
-10. Vets-api MUST look for a temporary ICN and show the user an error if a non-temporary active ICN is not present.
+10. Vets-api MUST write to a new frontend serializer for the storage of the MHV attributes
+11. Vets-api MUST look for a temporary ICN and show the user an error if a non-temporary active ICN is not present.
     1. va.gov frontend MUST show an error message to the user stating there was an issue processing their user attributes, refer them to the help desk. Make this a new error code number so that we can inform the helpdesk to forward the issue onto IAM for a temporary ICN user.
+12. Vets-api MUST update the MHV related values within the user redis cache after a successful mhv account creation api call
+13. Vets-api MUST make a method available that allows internal vets-api applications to get a status of the MHV account creation API call made during user authentication.
 
 ## Host Endpoints
 
-- Dev - http://api-intb.myhealth.va.gov
-- Staging - https://api-sysb.myhealth.va. gov
+- Dev -[https://apigw-intb.aws.myhealth.va.gov](https://apigw-intb.aws.myhealth.va.gov)
+- Staging - [https://apigw-sysb.aws.myhealth.va.gov](https://apigw-intb.aws.myhealth.va.gov)
 - Production - [https://api.myhealth.va.gov](https://api.myhealth.va.gov/)
 
 ## API Paths
@@ -76,9 +79,9 @@ The MHV team has created an api called the MHV account creation API which the VA
 2. MHV-54109 - this requirement states if the account has multiple active MHV accounts you will return an error to us stating they have multiple accounts. What are we to do with this user on va.gov? I was under the impression MHV was going to take care of this automatically as part of the account creation api process.
     1. What should va.gov do in this situation? **Call the help desk**
 3. MHV-60526 - Multiple Accounts found with same Traits: what should va.gov do in this situation?
-    1. **Waiting on api spec update**
+    1. Try back later to create MHV account. MHV Account Cannot be created / updated at the time of request. MHV adds these accounts to their Audit table to fix these accounts.
 4. MHV-57486 - Active MHV Account Found by Traits - MHV shall update the account found and return the response back to the caller: what should va.gov do in this situation?
-    1. **Waiting on api spec update**
+    1. MHV returns the User Profile Id to continue using the account. Va.gov can start using the account information as needed.
 5. What should va.gov do if SM account creation fails?
     1. **Nothing, show the user an error message. Some users do not qualify for SM.**
 6. How important is it that we process temporary ICNs, we do not currently support them on VA.gov
@@ -96,8 +99,8 @@ The MHV team has created an api called the MHV account creation API which the VA
 - MHV credential - the username and password object of an MHV account. This object will no longer be accessible by external users after Jan 2025.
 - **Facility ID or station ID -** required for MHV account creation API call logic can be found as follows from MPI:
     - VHA facility IDs show up as PI correlations using the station ID, example (from VA MPI - DFN Examples):
-        
-        *VHA correlated systems   Id <id root=“2.16.840.1.113883.4.349” extension=“123456^PI^station#OfVHASystem^USVHA”/>*
+        - VHA correlated systems   Id <id root=“2.16.840.1.113883.4.349” extension=“123456^PI^station#OfVHASystem^USVHA”/>
+        - Station IDs which correlate to proper treatment facilities are [[358, 718], [720, 740], [743, 758]] and "741MM"
         
 
 ## Contacts
@@ -114,3 +117,6 @@ The MHV team has created an api called the MHV account creation API which the VA
 
 1. Vets-api will not process temporary ICNs but not for the purposes of calling the MHV account creation API. VA.gov will display an error to the user informing them of an attribute error that must be resolved by the help desk. The error message should be new so that we know how to tell the help desk what kind of error it is. The help desk should refer the users information to the IAM team to resolve the issue.
 2. Vets-api will only call the account creation api if the user has an assigned facility id from the MPI response. Carnetta and Joe confirmed this via Teams on 8/21/24.
+
+## Documentation from MHV
+The pdf files for the api specs and use cases have been stored on the private github folder [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/vsp/teams/Identity/Product%20Documentation/MHV%20account%20creation%20api%20on%20vagov).

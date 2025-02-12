@@ -1,0 +1,34 @@
+name: Set PO-sync flag
+
+on:
+  issues:
+    types:
+      - labeled
+
+jobs:
+  do-sync:
+    name: Update Collab Cycle Project Board for PO-Sync
+    runs-on: ubuntu-latest
+
+    if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') && github.event.label.name == 'PO-Sync-approved'}}
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '22'
+
+    - name: Install dependencies
+      run: |
+        npm i axios@^1.7.7 axios-retry@^3.9.1
+
+    - name: Run script
+      env:
+        GOV_TEAM_TOKEN: ${{ secrets.GOV_TEAM_TOKEN }}
+        PROJECT_NUMBER: 998
+        ISSUE_TITLE: ${{ github.event.issue.title }}
+
+      run: node ./scripts/github-actions/gov-team/po-sync.js

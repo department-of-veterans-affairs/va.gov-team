@@ -1,10 +1,88 @@
 # Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
+
+## Overview
+Benefit Hubs describe available benefits provided by VA. Benefit Hubs include: 
+* VA Benefits taxonomy
+* Benefit Hub Landing pages
+* Benefit hub menus
+* Benefit Detail Pages that describe various aspects of the available benefit, including:
+  * How to apply 
+  * About
+  * Eligibility
+  * After you apply
+ 
+Benefit Hubs are also integrated with the VA.gov homepage, and the VA.gov header megamenu.
+ 
+### VA Benefits taxonomy
+The VA Benefits taxonomy contains taxonomy terms that can contain their own metadata. This taxonomy is intended to act as a single source of truth for VA Benefits content that should appear in multiple places throughout Benefit Detail Pages, and the rest of VA.gov.
+
+VA Benefits taxonomy Drupal interface: https://prod.cms.va.gov/admin/structure/taxonomy/manage/va_benefits_taxonomy/overview
+
+As of Jan 2025, the VA Benefits taxonomy is partially populated in Drupal with metadata and terms, but is not yet integrated with any front-end templates on VA.gov.
+
+### Benefit Hub Landing Pages
+Benefit Hub Landing Pages contain high level content about each benefit, and are an entry point for site visitors to access more information on eligibility, how to apply, etc. 
+
+Benefit Hub Landing Page content: https://prod.cms.va.gov/admin/content?title=&type=landing_page&moderation_state=published&owner=All
+
+The list of all Benefit Hubs exists and is presented in a couple of places across VA.gov: 
+* **Homepage**: includes a list of Hubs, managed via the [VA.gov home page benefit hub list menu](https://prod.cms.va.gov/admin/structure/menu/manage/home-page-hub-list)
+* **Header megamenu**: includes a full section of Hub / detail page links, created via the [Header megamenu](https://prod.cms.va.gov/admin/structure/menu/manage/header-megamenu)
+
+#### Benefit hub menus
+Each Benefit Hub has an associated menu, which creates a left sidebar within that hub: 
+* [Burials & Memorials hub](https://prod.cms.va.gov/admin/structure/menu/manage/burials-and-memorials-benef)
+* [Careers & Employment hub](https://prod.cms.va.gov/admin/structure/menu/manage/careers-employment-benefits)
+* [Disability hub](https://prod.cms.va.gov/admin/structure/menu/manage/disability-benefits-hub)
+* [Education hub](https://prod.cms.va.gov/admin/structure/menu/manage/education-benefits-hub)
+* [Family & Caregiver hub](https://prod.cms.va.gov/admin/structure/menu/manage/family-and-caregiver-benefits)
+* [Health Care hub](https://prod.cms.va.gov/admin/structure/menu/manage/health-care-benefits-hub)
+* [Housing Assistance hub](https://prod.cms.va.gov/admin/structure/menu/manage/housing-assistance-benefits)
+* [Life Insurance hub](https://prod.cms.va.gov/admin/structure/menu/manage/life-insurance-benefits-hub)
+* [Pension hub](https://prod.cms.va.gov/admin/structure/menu/manage/pension-benefits-hub)
+* [Records hub](https://prod.cms.va.gov/admin/structure/menu/manage/records-benefits-hub)
+
+#### Drupal / FE build documentation
+The [Benefits Hubs Structure mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1735915490728/50e4d41a0029327d5cfbc87e4ce1df0c90ea1fee) shows how Drupal content structure maps to the VA.gov presentation of Benefit Hubs and Benefit Hub Detail Pages. 
+
+### Benefit Detail Pages
+The Benefit Detail Page is an older highly flexible Drupal content type, that allows for a very loose content structure. 
+
+Future state epic to build more structure for Benefit Detail pages: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13752
+
+Benefit Detail Page content: https://prod.cms.va.gov/admin/content?title=&type=page&moderation_state=published&owner=All
+
+
+## Initiatives
+Initiative information lives within the greater Benefit Hub product documentation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/benefit-hubs/initiatives
 
 ---
 
-## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+## Benefit Hub Owners (Jan 2025)
+
+### Content
+- Owner: Sitewide Content & IA team (CAIA) owns the content for Benefit Hubs and Detail pages.
+  - VA PO: Danielle Thierry, Beth Potts, Mikki Northuis (IA)
+- GitHub Label: `Sitewide Content`
+- Slack channel: #sitewide-content-accessibility-ia
+
+### Software
+- Owner: VA.gov Sitewide Product Team owns the Drupal and Front-end builds for Benefit Hub products.
+  - VA PO: Michelle Middaugh
+- GitHub Label: `sitewide`
+- Slack channel: #sitewide-program
+- Stakeholders: CAIA are the primary stakeholders and define product requirements for improvements to the Benefit Hub products.
+
+
+### Stakeholders
+VBA teams are stakeholders for content about specific benefits.
+
+
+
+
+
+# Blank template to be populated
+
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
@@ -65,26 +143,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
-- Initiative | [Link to Initiative Brief](#)
 
---- 
-
-## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-
-## Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch?*
-  - 
----
 
 ## Solution Narrative
 
@@ -101,36 +161,4 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### After
 
 ---
-
-#### Communications
-
-<details>
-
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
-
-</details>
-
-#### Team Members
-
-<details>
- 
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
- 
-</details>
-
-
-#### Stakeholders
-
-<details>
- 
-_What offices/departments are critical to make this initiative successful?_
- 
-</details>
 

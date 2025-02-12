@@ -1,6 +1,6 @@
 # How prefill works
 
-Last updated by @tygindraux: July 9, 2024
+Last updated by @tygindraux: January 2, 2025
 
 **Jump to:**
   - [Initial prefill pattern](#initial-prefill-pattern)
@@ -24,7 +24,14 @@ These identifiers are pulled from their identity credential. The submitter is no
 
 ### If any information is missing from their profile
 
-However, if their identity credential is missing any of these identifiers (`First name`, `Last name`, `DOB`, `SSN`), we will **skip** the initial prefill pattern.
+It's possible that a user is missing one or more of these identifiers
+- First name
+- DOB
+- SSN
+
+This is because first name is not necessarily required, although last name is required. Also, for some credentials, birth month/year is required but not necessarily birth date. And for certain credentials, some out of country users will have an alternate identifier to a SSN.
+
+If a user is missing any of these identifiers (first name, last name, DOB or SSN), we **skip** the initial prefill pattern.
 
 Instead, the submitter will go directly to the category page, and so on. Then, the `Tell us about yourself` page will appear within the form, similar to an unauthenticated flow. But, we will prefill whichever information we **do** have on file from their identity credential.
 

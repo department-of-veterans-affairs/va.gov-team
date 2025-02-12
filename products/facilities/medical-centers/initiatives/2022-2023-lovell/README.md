@@ -1,5 +1,8 @@
 # Lovell Federal Health Care Center
 ## Overview
+The Captain James A. Lovell Federal Health Care Center serves Veterans and active duty military, their family members, and military retirees. They also care for an estimated 40,000 Navy recruits. Therefore, existing VAMC page design cannot support Lovell Federal health care system's unique needs.
+
+* [Final feature documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/features/README.md#lovell)
 - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/lovell-initiative-brief.md)
 - [Initiative ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9655) 
 
@@ -27,7 +30,3 @@ This project transitioned teams in April 2022. It is currently managed by Facili
 ## Facilities Team v.1
 - [Original epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022)
 - [Research & design hub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/lovell-federal-health.md)
-
-
-## Tribal knowledge
-Sometime, let's document these things more formally: 

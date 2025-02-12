@@ -6,7 +6,7 @@ Date: 02/05/2024
 
 Gary Homidas gary.homidas@adhocteam.us, Skyler Schain skyler.schain@coforma.io
 
-[Research readout](https://docs.google.com/presentation/d/1b2CWI4cUN7ZmPUE_XnXZuV-TivTjX6b05ymPnFyOXgw/edit#slide=id.g892adcb623_0_141)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/Claim%20Contextualization%20Research%20Findings.pdf)
 
 **Jump to:**
 

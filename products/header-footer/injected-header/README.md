@@ -31,7 +31,7 @@ To test:
   3. Type `document.cookie = "proxyRewrite=true;"`, and hit Enter. This creates a cookie that you will then find under Application cookies in dev tools until you clear cookies.
   4. Refresh the page, and injected header should load.
   5. Open developer tools, Console
-  6. Type `fetch(https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/generated/headerFooter.json)`, and hit Enter. You **might** get more than one error, but we are looking for a CORS error specifically. If you get the below error, CORS is **not** working for this site. In this case, open a ticket with Platform to add the domain to the S3 bucket CORS policies.
+  6. Type `fetch('https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/generated/headerFooter.json')`, and hit Enter. You **might** get more than one error, but we are looking for a CORS error specifically. If you get the below error, CORS is **not** working for this site. In this case, open a ticket with Platform to add the domain to the S3 bucket CORS policies. [example Platform support request](https://dsva.slack.com/archives/CBU0KDSB1/p1716398255107869)
   7. Perform test steps for the www domain
 
 Example CORS error to look out for:

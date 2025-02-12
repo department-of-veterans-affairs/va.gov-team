@@ -1,5 +1,7 @@
 # Project outline: Direct deposit for edu
 
+`Deprecated 7/2024` - [see private repo for current direct deposit details](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md) ch33 was [migrated to CorpDB and combined with the C&P form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/ch33-bdn-corpdb-migration/README.md). Regardless of direct deposit type there is not a separate EDU form in the profile 
+
 Last Updated December 7, 2021
 
 ## POCs

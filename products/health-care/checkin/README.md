@@ -25,27 +25,30 @@
 - [Resources Developed outside the CIE Team](#resources-developed-outside-the-cie-team)
 
 ## Team Members
-- OCTO health pod
-    - Kay Lawyer (PO)
-    - Kristen McConnell (UX)
-    - Stephen Barrs (Eng)
-- Product Manager - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
-- Delivery Manager & Scrum Master - [Anita Halici](https://dsva.slack.com/archives/D055G32ES79)
-- UX Researchers & Designers
-  - [Ben Brasso](https://dsva.slack.com/team/U0360TY9E9H)
-  - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)
-  - [Christina Gednalske](https://dsva.slack.com/team/U02KVPC82VA)
-- Full Stack Engineers
-  - [Lee DeLarm](https://dsva.slack.com/archives/D05B37XJF8C)
-- Frontend Engineers
-  - [Brian Seek](https://dsva.slack.com/team/U02FLCLQ6J2)
-  - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)  
-- Backend Engineers
-  - [Gaurav Gupta](https://dsva.slack.com/team/U02DB4BC10F)
-  - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
-- DevOps Engineers
-  - [Nathan Douglas](https://dsva.slack.com/team/U01DADWHLM6)
-  - [Eric Oliver](https://dsva.slack.com/archives/D06M78EK1JM)
+- Management
+    - OCTO
+        - Kay Lawyer (PO)
+        - Kristen McConnell (UX)
+        - Stephen Barrs (Eng)
+    - Product
+        - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
+    - Delivery
+        - [Alex Parker](https://dsva.slack.com/team/U066D61DAEQ)
+    - Full Stack Engineers
+      - [Lee DeLarm](https://dsva.slack.com/archives/D05B37XJF8C)
+      - [Bill Tran](https://dsva.slack.com/team/U08BFMHL9MF)
+      - Carlos Felix
+      - [Phil DeFraties](https://dsva.slack.com/team/U089MDZ98BZ)
+      - [Devin McCurdy (temporary)](https://dsva.slack.com/team/U06HX72KD7Y)
+    - Front End Engineers
+      - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)  
+    - Back End Engineers                 
+      - [Corey Ferris (temporary)](https://dsva.slack.com/team/U01F5F6V8QN)
+    - Native Mobile App
+      - [Juan Castillo](https://dsva.slack.com/archives/D07QU9YQ7HA)
+    - Dev Ops
+      - [Nathan Douglas](https://dsva.slack.com/team/U01DADWHLM6)
+      - [Eric Oliver](https://dsva.slack.com/archives/D06M78EK1JM)
 
 ## Terminology
 - **Pre-Registration:** The verification of up to date insurance information, contact information, next of kin, and emergency contact information for VA medical appointments. As a VHA Directive, pre-registration must be completed at least once within 7 days of an appointment and does not need to be completed again if another appointment is within 7 days of its completion.  
@@ -60,9 +63,12 @@
 - [Day of Appointment Travel Reimbursement Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/oracle-health-travel-product-outline.md)
 - [Product Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
 - [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
+- [How to Update Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/update-product-guides.md)
 - [Other Product FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/faqs/faqs.md)
 - [Product Demo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-demos#product-demo)
+- [508 Audits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/508-audits)
 - [Responding to Veteran Complaints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/responding-to-veteran-complaints.md)
+- [Zero Silent Failures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/zero-failures/)
 - PCI Service Blueprint with 45MR, filing BT claim and "Are you at the facility?" page
     - [Review Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782?sender=u37bb983bd3fc3cc00c7d3286)
     - [Download PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/15504772/PCI.Service.Blueprint_2024-05-30_19-13-58.pdf)
@@ -72,21 +78,19 @@
     - [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707427471672/75fb6b9eea27c7b854e8b31c0e9017e2a54bb95a?sender=u37bb983bd3fc3cc00c7d3286)
 
 #### Priorities, Backlog, Sprints
-- [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715270046440/b2cf85a53d09a8caca454415626fecb5bae24a9b?sender=uc584f7fcc9a5090000259578)
-- [Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719321335255/bee29c80ac07f79dda849e071acaa88b17e2f5f6?sender=uc584f7fcc9a5090000259578)
-- [Scrum Board](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?repos=133843125)
-- [Sprint Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprints/sprint-goals.md)
+- [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719321335255/e7d232804a586f6ef154aadc508e73c0a45aa895)
+- [Scrum Board](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1)
+- [Sprint Goals](https://dsva.slack.com/docs/T03FECE8V/F082QPMJFC1)
 - [Sprint Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprintdemo/readme.md) 
 
 #### Product Releases 
 - [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
-- [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md)
 - [Feature Flags](https://api.va.gov/flipper/features)
 
 #### Metrics and Veteran Feedback
 - [Analytics Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/analytics#readme)
-- [How to Request and Process VSignals Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals)
-- [How to Request and Process Medallia Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/how-to-request-medalia-feedback.md)
+- [How to Request and Process VSignals Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals#readme)
+- [How to Request and Process Medallia Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/how-to-request-and-process-medalia-feedback.md)
 - [Medallia URL Exclusion List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/urls-to-exclude-from-intercept-survey.md)
 - [How to Generate an Analytics Report for VA Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/how-to-generate-analytics-report-for-stakeholders.md)
   
@@ -115,6 +119,7 @@
 - [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 - [How to Send SNOW Incident Reports](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/snow-reports.md)
 - [How to Send Patient Check-in System Down Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/system-down-notifications.md)
+- [Incident Management on VA.gov](https://depo-platform-documentation.scrollhelp.site/support/incident-management)
 
 ## Process 
 
@@ -133,16 +138,28 @@
 - [eCheck-in](https://yourit.va.gov/kb_view.do?sys_kb_id=07548a9787478dd03502b889cebb3587&sysparm_rank=2&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
 
 ## Engineering
-- Code Repositories
+- Code Repositories (or search [here](https://github.com/search?q=org%3Adepartment-of-veterans-affairs%20topic%3Acheck-in-experience&type=repositories))
   - [vets-website](https://github.com/department-of-veterans-affairs/vets-website)
   - [vets-api](https://github.com/department-of-veterans-affairs/vets-api)
   - [CHIP API](https://github.com/department-of-veterans-affairs/chip)
   - [LoROTA API](https://github.com/department-of-veterans-affairs/lorota)
-  - [checkin-devops](https://github.com/department-of-veterans-affairs/checkin-devops/)
-  - [cie-datadog-log-forwarder](https://github.com/department-of-veterans-affairs/cie-datadog-log-forwarder/)
-  - [cie-staging-scheduler](https://github.com/department-of-veterans-affairs/cie-staging-scheduler/)
-  - [cie-utility-api](https://github.com/department-of-veterans-affairs/cie-utility-api/)
   - [octo-vista-api](https://github.com/department-of-veterans-affairs/octo-vista-api/)
+  - [cie-staging-scheduler](https://github.com/department-of-veterans-affairs/cie-staging-scheduler/)
+- Code Repositories (DevOps)
+  - [checkin-devops](https://github.com/department-of-veterans-affairs/checkin-devops/): General DevOps repository and root IaC for the `vaec-cms` and `vaec-cie` AWS accounts
+  - [cie-bash](https://github.com/department-of-veterans-affairs/cie-bash/): Bash scripts shared across multiple repositories and projects
+  - [cie-codebuild-ghar](https://github.com/department-of-veterans-affairs/cie-codebuild-ghar/): Terraform module to configure Self-Hosted GitHub Actions Runners in AWS CodeBuild.
+  - [cie-datadog-log-forwarder](https://github.com/department-of-veterans-affairs/cie-datadog-log-forwarder/): Terraform module to configure the Datadog Log Forwarder in the `vaec-cie` AWS account.
+  - [cie-downstream-api](https://github.com/department-of-veterans-affairs/cie-downstream-api/): Terraform module for managing a "downstream" API for services to interact with CHIP and LoROTA.
+  - [cie-dsva-iac](https://github.com/department-of-veterans-affairs/cie-dsva-iac/): Terraform configuration for managing Check-In Experience resources within the `dsvagovcloud` AWS account.
+  - [cie-github-actions](https://github.com/department-of-veterans-affairs/cie-github-actions/): GitHub Actions that can be reused across Check-In Experience projects.
+  - [cie-github-repos](https://github.com/department-of-veterans-affairs/cie-github-repos/): Terraform configuration for managing Check-In Experience GitHub repositories.
+  - [cie-iam-manager](https://github.com/department-of-veterans-affairs/cie-iam-manager/): Terraform configuration for managing IAM roles, policies, and other access control resources in the `vaec-cie` AWS account.
+  - [cie-system-tests](https://github.com/department-of-veterans-affairs/cie-system-tests/): Automated tests that leverage the known-working code of CHIP and LoROTA to validate the infrastructure in the `vaec-cie` AWS account.
+  - [cie-terraform-modules](https://github.com/department-of-veterans-affairs/cie-terraform-modules/): Terraform modules that can be reused across Check-In Experience projects.
+  - [cie-test-repo](https://github.com/department-of-veterans-affairs/cie-test/): A test repository without any real content, just used to validate Terraform modules that act on a specified repository.
+  - [cie-upstream-api](https://github.com/department-of-veterans-affairs/cie-upstream-api/): Terraform module for managing an "upstream" API for CHIP and LoROTA to interact with Vista API, BTSSS, and other APIs.
+  - [cie-utility-api](https://github.com/department-of-veterans-affairs/cie-utility-api/): Terraform module for managing a "utility" API that exposes endpoints useful for debugging and interacting with the deployed instances of CHIP and LoROTA.
 - [Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/architecture-diagrams)
 - [System Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering)
 - [QA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/qa)

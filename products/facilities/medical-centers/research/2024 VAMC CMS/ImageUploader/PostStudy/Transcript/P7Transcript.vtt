@@ -1,0 +1,1866 @@
+WEBVTT
+
+1
+00:00:02.290 --> 00:00:03.080
+David: And
+
+2
+00:00:04.059 --> 00:00:10.190
+David: yeah, I've started the recording. And I'd like to confirm, are you comfortable if I record my screen and audio as we talk today.
+
+3
+00:00:10.730 --> 00:00:12.240
+michael compeau: I am happy with that. Yeah.
+
+4
+00:00:12.610 --> 00:00:13.920
+David: Great, great, great, great, great.
+
+5
+00:00:13.990 --> 00:00:24.139
+David: Okay, Michael. So my 1st question for you is, could you tell me a little bit about your role at the Va. And how often you're using drupal cms to upload images.
+
+6
+00:00:24.720 --> 00:00:25.430
+michael compeau: Okay.
+
+7
+00:00:27.430 --> 00:00:34.139
+michael compeau: I joined public affairs in the Va. 5 years after I joined the Va.
+
+8
+00:00:34.660 --> 00:00:45.779
+michael compeau: After 30 years in private industry, doing everything from marketing for palm pilot software to marketing for mobile construction software
+
+9
+00:00:45.870 --> 00:00:46.890
+michael compeau: to
+
+10
+00:00:48.110 --> 00:00:51.840
+michael compeau: helping do marketing and sales for
+
+11
+00:00:52.020 --> 00:00:54.173
+michael compeau: semiconductors and
+
+12
+00:00:57.370 --> 00:01:24.590
+michael compeau: basically databases for a united way organization. So I've done a lot of different things right? So I came into the Va. And I've worked with drupal on the outside the semiconductor firm. I stood up an entire site within drupal and worked within drupal for another semiconductor resource site. So I was familiar.
+
+13
+00:01:25.900 --> 00:01:26.750
+michael compeau: And
+
+14
+00:01:27.581 --> 00:01:30.140
+michael compeau: then quickly shocked at the
+
+15
+00:01:31.980 --> 00:01:40.280
+michael compeau: tiny box that we were put into at the Va, so yeah, Erica, that's for you. So I
+
+16
+00:01:40.690 --> 00:01:43.090
+michael compeau: spend, maybe
+
+17
+00:01:44.170 --> 00:01:58.080
+michael compeau: I would guess I upload images no more in my role which is media relations. So I'm doing news releases press releases media advisories and stories. Va stories. Okay.
+
+18
+00:01:58.080 --> 00:02:16.060
+michael compeau: typically, I will sometimes be called upon because of my editor status to update health services in various sections of the whole network. So I might be changing Cboc hours. I might be updating dialysis related information. In some cases. So
+
+19
+00:02:16.600 --> 00:02:21.619
+michael compeau: I've got lots of comments about that. But that's not our scope today. So images.
+
+20
+00:02:22.470 --> 00:02:27.248
+michael compeau: I upload a lot less than I'd like to. How about we start there.
+
+21
+00:02:27.590 --> 00:02:29.000
+David: Tell me more about that.
+
+22
+00:02:29.000 --> 00:02:32.970
+michael compeau: Well, because I can't upload an image with a news release.
+
+23
+00:02:33.010 --> 00:02:36.399
+michael compeau: Really? Well, I can do one, I think, one.
+
+24
+00:02:36.430 --> 00:02:37.660
+michael compeau: as I recall.
+
+25
+00:02:37.790 --> 00:02:43.210
+michael compeau: So there are instances where it might be nice to have some flexibility. With that.
+
+26
+00:02:43.280 --> 00:02:49.719
+michael compeau: I have tried in one instance for a story, to upload an animation.
+
+27
+00:02:49.730 --> 00:02:55.389
+michael compeau: because I can't do a quick carousel of 2 images. So I made a a
+
+28
+00:02:55.830 --> 00:03:08.098
+michael compeau: animation, and the animation didn't work once it was uploaded. So those are the things I've experienced. Basically related to lockdown issues with
+
+29
+00:03:08.700 --> 00:03:13.460
+michael compeau: the templates. I would like to put images
+
+30
+00:03:13.560 --> 00:03:21.136
+michael compeau: in and amongst the information on pages so that we can portray information in a more
+
+31
+00:03:23.300 --> 00:03:49.800
+michael compeau: better ui ux experience for our customers, because I come from the commercial industry and actually managing visitor. Path through websites towards a e-commerce goal, and we do not with drupal have any capability or understanding and flexibility to do that kind of path management for visitors with the
+
+32
+00:03:50.610 --> 00:03:51.660
+michael compeau: Klugey
+
+33
+00:03:53.760 --> 00:03:59.140
+michael compeau: structure we've been given which has basically been designed to
+
+34
+00:03:59.410 --> 00:04:00.334
+michael compeau: create
+
+35
+00:04:01.660 --> 00:04:10.829
+michael compeau: a professional directory like pages of information, all formatted the same. So that it's easy.
+
+36
+00:04:10.910 --> 00:04:12.222
+michael compeau: you know, for
+
+37
+00:04:12.800 --> 00:04:15.089
+michael compeau: us ourselves to manage.
+
+38
+00:04:15.500 --> 00:04:22.050
+michael compeau: It's not designed with the user in mind. And it's my biggest problem with how we have gone about this up to this point.
+
+39
+00:04:22.070 --> 00:04:24.329
+michael compeau: so I'll shut up. Now about that.
+
+40
+00:04:25.320 --> 00:04:26.020
+David: So.
+
+41
+00:04:26.020 --> 00:04:30.230
+michael compeau: I would I would use images a heck of a lot more if I could, in a lot more places.
+
+42
+00:04:30.650 --> 00:04:37.718
+David: Yeah. So let's talk about stories. For like one example, when you're getting when you're working on a story,
+
+43
+00:04:39.080 --> 00:04:47.429
+David: could you describe the general workflow when you're uploading an image like where the image is coming from, and then, if you go through.
+
+44
+00:04:47.430 --> 00:04:56.520
+michael compeau: Well, we have a medical media department. We are a tier one, a facility. So we're at the highest level of complexity, and probably the most number of people within public affairs.
+
+45
+00:04:56.886 --> 00:05:05.299
+michael compeau: Who are responsible here at this facility for drupal. I know that may not be the case everywhere, but here. It's in public affairs, domain.
+
+46
+00:05:05.360 --> 00:05:06.510
+michael compeau: And so
+
+47
+00:05:07.313 --> 00:05:30.299
+michael compeau: I have a photographer in medical media. He does not touch the website. He does not touch drupal. He will share a file with me on onedrive or folder. I mean on onedrive. I will download those images to my computer, because that's the only way it works. God help us! And then I will upload those
+
+48
+00:05:30.360 --> 00:05:33.329
+michael compeau: at the time I'm I'm publishing the story.
+
+49
+00:05:34.200 --> 00:05:37.370
+michael compeau: Okay, so I will upload those as a
+
+50
+00:05:37.380 --> 00:05:39.580
+michael compeau: as a save and insert
+
+51
+00:05:39.910 --> 00:05:41.090
+michael compeau: option.
+
+52
+00:05:41.310 --> 00:05:48.430
+michael compeau: because the other dark button next to the grayed out save and insert, doesn't work, so I don't use it because it's broken.
+
+53
+00:05:48.650 --> 00:05:49.750
+David: They've been select.
+
+54
+00:05:50.130 --> 00:05:51.340
+michael compeau: Yeah, that doesn't work.
+
+55
+00:05:51.430 --> 00:05:55.400
+michael compeau: That's useless. Take it off. If if it's not going to do anything, get rid of it.
+
+56
+00:05:56.970 --> 00:06:06.480
+David: Cool, cool. Okay? And then tell me about preparing the image. Do you find yourself ever doing cropping or things like that before?
+
+57
+00:06:07.570 --> 00:06:14.019
+michael compeau: the occasions in which I'm doing annoying needless cropping
+
+58
+00:06:14.100 --> 00:06:22.160
+michael compeau: really mostly relates to issues, not with drupal with, but with team site because of key staff.
+
+59
+00:06:23.590 --> 00:06:24.250
+David: Okay.
+
+60
+00:06:24.810 --> 00:06:45.490
+michael compeau: And where they have to be a very certain aspect ratio and a very certain and I know there's open source tools that could easily do all of that for us, and allow us a whizzy wig. Repositioning of images. It would be nice to see something like that. I I almost always upload the image as original format.
+
+61
+00:06:45.880 --> 00:07:02.803
+michael compeau: So I select that I'm not using one of the other 15 options, for you know this many pixels by this many pixels or 4 by 3 aspect. I'm not doing that. I'm just using original format the way it comes out of the camera. That's plenty good for me. We need to get the image up and and
+
+62
+00:07:03.720 --> 00:07:12.989
+michael compeau: there's few enough people that see it, anyway, on the actual internal page. If we look at visitors. It's not worth too much extra time if it's not easy.
+
+63
+00:07:13.830 --> 00:07:14.520
+David: Got it.
+
+64
+00:07:14.790 --> 00:07:15.660
+David: My
+
+65
+00:07:16.790 --> 00:07:23.729
+David: correct me if I'm wrong. It. The staff profiles, those are all one by one, like squares. Is that correct?
+
+66
+00:07:23.730 --> 00:07:25.030
+michael compeau: No.
+
+67
+00:07:25.130 --> 00:07:26.170
+michael compeau: no.
+
+68
+00:07:26.540 --> 00:07:28.299
+David: Files. No, okay.
+
+69
+00:07:28.860 --> 00:07:30.310
+David: yeah. So
+
+70
+00:07:32.310 --> 00:07:44.365
+David: we'll get into that. But in a Co. In a second I have one more question for you. Do you ever use images from the media library? Or do you typically upload new ones?
+
+71
+00:07:44.710 --> 00:07:48.310
+michael compeau: Now I'm going to ask you to define Media library.
+
+72
+00:07:49.300 --> 00:07:52.789
+David: Yes, so the media library is
+
+73
+00:07:53.160 --> 00:07:58.790
+David: all the images that have been uploaded. So perhaps you've uploaded an image of like
+
+74
+00:07:59.908 --> 00:08:03.130
+David: for a story, and you want to reuse it.
+
+75
+00:08:03.380 --> 00:08:08.830
+michael compeau: Oh, okay, I have seen that I'm adding text so that I could find it.
+
+76
+00:08:10.760 --> 00:08:11.750
+michael compeau: I am
+
+77
+00:08:12.340 --> 00:08:16.510
+michael compeau: rarely ever assuming that it's worth my time to look
+
+78
+00:08:16.610 --> 00:08:38.129
+michael compeau: for an image because I'm doing new things. New news release new stories, new events happening around our local Va new region. So I'm not looking for historical past postings. To then utilize. The only time I would look for something from the past to maybe utilize would be when I go to
+
+79
+00:08:38.880 --> 00:08:43.370
+michael compeau: divos, or whatever the heck the military site is called with all the images.
+
+80
+00:08:43.730 --> 00:08:45.700
+michael compeau: You don't even know what I'm talking about.
+
+81
+00:08:45.700 --> 00:08:46.390
+David: Really, I know.
+
+82
+00:08:46.390 --> 00:08:49.510
+michael compeau: Okay. So this is important to know about, because
+
+83
+00:08:49.550 --> 00:08:50.590
+michael compeau: because
+
+84
+00:08:50.960 --> 00:09:04.670
+michael compeau: when I'm looking for pictures of maybe a doctor who had served in the service, and I'm looking for an image of them in fatigues. Or what have you? Then I will go to the military's public Affairs website, which
+
+85
+00:09:04.840 --> 00:09:12.959
+michael compeau: is a full repository of all the various armed service branches and all the images that all the public affairs officers have uploaded
+
+86
+00:09:13.160 --> 00:09:29.100
+michael compeau: and utilize, or maybe not utilized, but upload it. So they're all available. So then, because they're disciplined about data entry and metadata, I can put in their rank, and I can put in their service, and I can put in their last name, and I can find pictures of individuals there.
+
+87
+00:09:29.990 --> 00:09:35.370
+michael compeau: I've never used the provision for the quote unquote media library within drupal.
+
+88
+00:09:35.550 --> 00:09:36.660
+michael compeau: because
+
+89
+00:09:37.410 --> 00:09:43.500
+michael compeau: I'm never in a used case where I expect to be able to find something from somewhere else
+
+90
+00:09:43.710 --> 00:10:04.220
+michael compeau: like another. Va. Why am I ever gonna look for somebody's photo of a person on another Va. Unless they're coming here as a director, in which case we're gonna take a new picture of them as they arrive here in our medical media group. Right? And so I will utilize that picture. So I think the use case for that library
+
+91
+00:10:04.350 --> 00:10:07.390
+michael compeau: is you're going to find is very low.
+
+92
+00:10:07.970 --> 00:10:08.720
+David: Got it very well.
+
+93
+00:10:08.720 --> 00:10:09.819
+michael compeau: Rarely utilized.
+
+94
+00:10:10.620 --> 00:10:11.370
+David: Okay.
+
+95
+00:10:12.200 --> 00:10:15.240
+David: so let's go on to our 1st task.
+
+96
+00:10:15.738 --> 00:10:30.810
+David: So what I was hoping we could do and let me know if you need help with. This is to open your Cms log in and share your screen, and we're going to go through the process of uploading a story
+
+97
+00:10:30.970 --> 00:10:31.770
+David: or.
+
+98
+00:10:31.770 --> 00:10:37.359
+michael compeau: So I should have some way to actually share. Oh, I see. Now, okay, yep, there it is.
+
+99
+00:10:38.060 --> 00:10:39.750
+michael compeau: Okay. Let's do this.
+
+100
+00:10:42.590 --> 00:10:43.879
+michael compeau: Can everyone see.
+
+101
+00:10:44.540 --> 00:10:46.000
+David: Yep, that looks good.
+
+102
+00:10:46.190 --> 00:10:47.650
+michael compeau: Alright. So
+
+103
+00:10:49.060 --> 00:10:55.489
+michael compeau: I'm gonna go here to my link, which you see is right at the top, where I can find it quickly. Yep.
+
+104
+00:10:58.870 --> 00:11:00.809
+michael compeau: it's gonna take me in here.
+
+105
+00:11:00.890 --> 00:11:09.409
+michael compeau: And at this point I'm going to not go to the outreach hub, because that's other different public affairs. People that have responsibility for that.
+
+106
+00:11:09.780 --> 00:11:13.639
+michael compeau: I'm responsible for the Va. Northeast Ohio healthcare.
+
+107
+00:11:14.450 --> 00:11:21.360
+michael compeau: and it always annoys me that you that there's different capitalization in there, and healthcare isn't capitalized and
+
+108
+00:11:21.530 --> 00:11:31.700
+michael compeau: northeast. Ohio is okay. So now I'm at my list where the most recent things that I did, for example, the news release this morning. You can see that that's
+
+109
+00:11:33.960 --> 00:11:36.280
+michael compeau: at the top. Everyone seeing this.
+
+110
+00:11:37.090 --> 00:11:38.100
+David: Yup, I'll see you back.
+
+111
+00:11:38.100 --> 00:11:40.550
+michael compeau: Alright. So you said a new story.
+
+112
+00:11:40.820 --> 00:11:44.629
+David: Well, whatever you find yourself doing the most that's.
+
+113
+00:11:44.630 --> 00:11:45.659
+michael compeau: Okay. Well, either one.
+
+114
+00:11:45.660 --> 00:11:46.210
+David: So.
+
+115
+00:11:46.350 --> 00:11:52.570
+michael compeau: It's gonna be almost the same exact process, because I'm going to go here to content. I assume you can see the cascading menus.
+
+116
+00:11:52.610 --> 00:11:58.340
+michael compeau: And then I'm going to either choose a new news release or I'm going to go down to New Story.
+
+117
+00:11:58.430 --> 00:12:02.539
+michael compeau: or I might be adding a staff profile because we do hire
+
+118
+00:12:02.850 --> 00:12:15.360
+michael compeau: not much anymore. But we do hire new people from time to time that need a new profile, or they get promoted to a level where they need a staff profile. So if I go in there and hit new story, for example.
+
+119
+00:12:15.610 --> 00:12:17.120
+David: Yeah, let's start with story.
+
+120
+00:12:17.930 --> 00:12:19.820
+michael compeau: Now I'm going to wait for it to respond.
+
+121
+00:12:26.130 --> 00:12:27.499
+michael compeau: and I come here
+
+122
+00:12:28.060 --> 00:12:38.389
+michael compeau: now before I even do this. Of course I'm going to have a Microsoft word document that I've already written, and it's been reviewed by my supervisor
+
+123
+00:12:38.790 --> 00:12:44.409
+michael compeau: or the Pao, or whoever needs to review it, or all of the many people that need to review it.
+
+124
+00:12:44.440 --> 00:12:46.050
+michael compeau: So that will
+
+125
+00:12:48.140 --> 00:12:50.930
+michael compeau: be done before I get here. Okay.
+
+126
+00:12:51.360 --> 00:12:52.030
+David: Got it.
+
+127
+00:12:52.600 --> 00:12:53.370
+michael compeau: So
+
+128
+00:12:55.290 --> 00:12:57.250
+michael compeau: I'll put in the title
+
+129
+00:12:57.718 --> 00:13:04.000
+michael compeau: The author. Now that I've created a profile for myself that can be brought up.
+
+130
+00:13:06.080 --> 00:13:11.910
+michael compeau: this is obviously going to be a story into the story section, because that's the way we do things correctly.
+
+131
+00:13:12.040 --> 00:13:34.369
+michael compeau: And I have to make sure that I remember to check Va. Northeast Ohio healthcare over here, because somehow it's not automatic, even though that's who I'm associated with in the login. I've always wondered why that was not programmatically taken care of. And instead, I have to choose. Maybe it's because of this strange left to right outreach or mainstream thing here.
+
+132
+00:13:34.370 --> 00:13:48.349
+michael compeau: then I'm gonna slap the the lead in here the 1st sentence hopefully. This gives me enough characters for the 1st sentence. It often does not, particularly in news releases, and that frustrates the hell out of me.
+
+133
+00:13:48.370 --> 00:13:51.769
+michael compeau: I would like that to be 450 characters.
+
+134
+00:13:52.260 --> 00:13:55.210
+michael compeau: because there are times when
+
+135
+00:13:55.230 --> 00:13:59.129
+michael compeau: the 1st sentence has to include our whole name.
+
+136
+00:13:59.160 --> 00:14:06.559
+michael compeau: In fact, every time Va. Northeast Ohio healthcare system, how many characters is that a lot?
+
+137
+00:14:07.200 --> 00:14:09.569
+michael compeau: Then I have to start talking about content.
+
+138
+00:14:10.320 --> 00:14:15.360
+michael compeau: so that 300 character limit can be a real restriction
+
+139
+00:14:16.030 --> 00:14:28.519
+michael compeau: in getting something to make sense. And my only option, if I can't cover it right, is to reword that entire 1st sentence and then paste the the story the way I want it, including the original 1st sentence down below.
+
+140
+00:14:29.440 --> 00:14:30.250
+David: Got it. Got it.
+
+141
+00:14:30.250 --> 00:14:35.329
+michael compeau: So I'm doing more work, because this 300 character limit is
+
+142
+00:14:35.580 --> 00:14:40.820
+michael compeau: hard and fast and inflexible and doesn't understand different content.
+
+143
+00:14:41.360 --> 00:14:42.240
+michael compeau: I see.
+
+144
+00:14:43.260 --> 00:14:45.909
+michael compeau: So they'll paste that in here.
+
+145
+00:14:46.060 --> 00:14:46.660
+David: Okay.
+
+146
+00:14:51.740 --> 00:14:57.049
+michael compeau: And then I'm gonna go down here and I'm gonna paste the main content in there.
+
+147
+00:14:57.445 --> 00:15:05.629
+michael compeau: And all the rich formatting for Microsoft word that I paste in there is gonna disappear. And then I'm gonna remember to curse
+
+148
+00:15:05.690 --> 00:15:17.450
+michael compeau: at drupal again, because now I have to reformat it all because it wasn't utilizing the schema for Microsoft words storage of rich text.
+
+149
+00:15:17.610 --> 00:15:20.119
+michael compeau: Or I suppose I could save
+
+150
+00:15:20.190 --> 00:15:31.739
+michael compeau: the file as a rich text, file an Rtf file and copy and paste, and then I hope you're going to tell me. Oh, yeah, then that'll paste. In fine, Mike, or you're gonna frustrate me and say, no, it'll still paste in as plain text.
+
+151
+00:15:33.560 --> 00:15:35.609
+David: I wish I could tell you. I don't know.
+
+152
+00:15:35.750 --> 00:16:01.889
+michael compeau: So that's a good thing to know, because that would help a work product is to basically allow me to save it as an Rtf. Knowing then that I could paste it and not lose formatting, because I'll have bullets, I'll have indents, you know. You want indented bullets. Well, once you get this and you paste it in there. The only way to to suddenly try to change the indenting is to drive into source.
+
+153
+00:16:01.920 --> 00:16:07.219
+michael compeau: which we have very little flexibility given in there for HTML editing, anyway.
+
+154
+00:16:07.220 --> 00:16:07.970
+David: But.
+
+155
+00:16:07.970 --> 00:16:11.020
+michael compeau: So. So that's what I do.
+
+156
+00:16:11.290 --> 00:16:24.069
+michael compeau: So I would paste it in there. Then I'd have to reformat it all by looking back at my word document and making sure, I echoed. All of that. Look at the links and make sure all the links are still fully
+
+157
+00:16:24.490 --> 00:16:26.275
+michael compeau: have full integrity.
+
+158
+00:16:27.250 --> 00:16:42.300
+michael compeau: and haven't been fouled up by the Va. Let's obscure your link so it won't work machinations that it does if you paste into email, or, for example, stuff like that. You're looking like you don't know what I'm talking about.
+
+159
+00:16:43.320 --> 00:16:45.120
+David: I don't think I do exactly, but.
+
+160
+00:16:45.120 --> 00:16:46.210
+michael compeau: Okay, so.
+
+161
+00:16:46.655 --> 00:16:47.099
+David: Idea.
+
+162
+00:16:47.310 --> 00:16:48.460
+michael compeau: So like.
+
+163
+00:16:49.300 --> 00:16:53.500
+michael compeau: Let me give you a good example right here. Can you still see my screen? Now.
+
+164
+00:16:53.680 --> 00:16:54.280
+David: Yes.
+
+165
+00:16:54.530 --> 00:16:56.059
+michael compeau: My email from you.
+
+166
+00:16:57.410 --> 00:17:01.420
+David: This. This, I I don't see my, your email from.
+
+167
+00:17:01.490 --> 00:17:04.240
+David: Well, yeah, I see the drupal contact management system.
+
+168
+00:17:04.240 --> 00:17:08.629
+michael compeau: Yeah, that's what that's what I'm talking about. So now look here, when I hover over that.
+
+169
+00:17:08.819 --> 00:17:14.720
+michael compeau: do you see? Original URL? Right there in the pop up. Okay. Now look at the lower left.
+
+170
+00:17:14.790 --> 00:17:19.050
+michael compeau: Look at the the toolbar area, whatever down at the bottom
+
+171
+00:17:19.130 --> 00:17:26.390
+michael compeau: it says, Https, Colon, slash! Slash! Gcc, 0 2 dot safe links dot protection.
+
+172
+00:17:26.530 --> 00:17:27.569
+michael compeau: Okay.
+
+173
+00:17:27.680 --> 00:17:32.210
+michael compeau: that's what the Va does to Urls whenever it gets a chance.
+
+174
+00:17:32.830 --> 00:17:34.419
+michael compeau: It obscures them.
+
+175
+00:17:34.860 --> 00:17:42.779
+michael compeau: And if you happen to be so green as to copy a link from an email like this and paste it
+
+176
+00:17:42.810 --> 00:17:45.009
+michael compeau: into drupal.
+
+177
+00:17:45.780 --> 00:17:48.120
+michael compeau: You get a unknown link
+
+178
+00:17:48.250 --> 00:17:54.069
+michael compeau: because it won't convert it back to the real original. URL. You see in this, pop up. Okay.
+
+179
+00:17:54.940 --> 00:17:59.009
+David: I see it's adding in that whole safe link, protection.
+
+180
+00:17:59.010 --> 00:17:59.930
+michael compeau: Yes.
+
+181
+00:18:00.450 --> 00:18:01.850
+David: And ideally.
+
+182
+00:18:01.850 --> 00:18:05.240
+michael compeau: So if I copy that hyperlink right
+
+183
+00:18:05.390 --> 00:18:06.320
+michael compeau: then.
+
+184
+00:18:07.940 --> 00:18:09.910
+michael compeau: If I copy that hyperlink.
+
+185
+00:18:11.586 --> 00:18:14.949
+michael compeau: Let's see, let's show me. Show me the damn link.
+
+186
+00:18:16.690 --> 00:18:21.490
+michael compeau: paste this plain text. Yeah, see, it's pasting that bad link.
+
+187
+00:18:21.810 --> 00:18:22.580
+michael compeau: Right?
+
+188
+00:18:22.890 --> 00:18:26.959
+michael compeau: That that is what it's using to try and make the link.
+
+189
+00:18:27.140 --> 00:18:29.220
+David: I see I see what you're saying.
+
+190
+00:18:29.220 --> 00:18:35.560
+michael compeau: That's a problem, because it makes more bad links, and it makes for a workflow. That
+
+191
+00:18:35.640 --> 00:18:44.239
+michael compeau: means there's a more, a greater chance for error. I don't know if there's a way to head that off of the pass programmatically, but I know this takes time
+
+192
+00:18:44.450 --> 00:18:47.449
+michael compeau: cleaning up these kind of unsafe links.
+
+193
+00:18:48.186 --> 00:18:49.180
+michael compeau: Takes time
+
+194
+00:18:50.530 --> 00:18:53.050
+michael compeau: or unworking quote, unquote, safe link
+
+195
+00:18:53.950 --> 00:18:56.200
+michael compeau: is probably a more accurate way to put it.
+
+196
+00:18:56.620 --> 00:18:59.113
+David: Yeah, well, thank you for sharing that.
+
+197
+00:18:59.940 --> 00:19:05.510
+David: yeah, I'll yeah. We're we're we're definitely taking notes on on what you're sharing.
+
+198
+00:19:06.789 --> 00:19:11.730
+michael compeau: Okay. So once that's all done, then I'll go down here, and if I have
+
+199
+00:19:11.980 --> 00:19:27.550
+michael compeau: 6 images that have been sent to me by the photographer that actually are really helpful to tell a story altogether. I go oh, damn! And then I curse drupal again for a couple of seconds, and then I pick one image, because that's all I can really do.
+
+200
+00:19:29.370 --> 00:19:30.409
+David: So you you're normal.
+
+201
+00:19:30.410 --> 00:19:31.320
+michael compeau: Only.
+
+202
+00:19:31.760 --> 00:19:32.930
+michael compeau: yeah.
+
+203
+00:19:35.350 --> 00:19:41.310
+michael compeau: for stories. Like, let's say, we have a 100 year old veteran who celebrates a birthday party.
+
+204
+00:19:43.180 --> 00:19:49.039
+michael compeau: If if on social media. I'm going to post 7 images. Why shouldn't I be able to post 7 images here?
+
+205
+00:19:50.870 --> 00:19:59.799
+michael compeau: If we've taken 7 images and taken the time to send a photographer. Why can't our story here include 7 images.
+
+206
+00:20:00.610 --> 00:20:01.250
+David: Yeah.
+
+207
+00:20:02.030 --> 00:20:04.099
+michael compeau: So those are the questions I ask myself.
+
+208
+00:20:07.380 --> 00:20:11.949
+michael compeau: And then, yeah, once I go out here, then and I'm gonna select.
+
+209
+00:20:12.210 --> 00:20:14.440
+michael compeau: Let's say I go to pictures
+
+210
+00:20:14.530 --> 00:20:15.480
+michael compeau: and
+
+211
+00:20:17.280 --> 00:20:18.850
+michael compeau: let's see here.
+
+212
+00:20:22.620 --> 00:20:25.779
+michael compeau: I'm going to take an image. And I'm going to upload that
+
+213
+00:20:28.610 --> 00:20:29.690
+michael compeau: hopefully.
+
+214
+00:20:29.740 --> 00:20:31.948
+michael compeau: Okay, there we finally go.
+
+215
+00:20:32.750 --> 00:20:55.059
+michael compeau: I'll type in a description or quote unquote caption. It's not clear what's being done with this description, I think. It would be good to actually have a label that more clearly describes how that's going to be used, or how it might be used, whether it's for search made metadata from your library, or whatever. It would be good to have a better explanation of that.
+
+216
+00:20:55.612 --> 00:21:16.780
+michael compeau: Obviously the need to have to go in here when I've already selected back behind out there that it's for Va. Northeast Ohio stories. The fact that I have to then go in here and find Va. Northeast Ohio seems needlessly redundant, especially when we have a list of you know, 700 locations.
+
+217
+00:21:17.760 --> 00:21:18.590
+michael compeau: That's
+
+218
+00:21:18.930 --> 00:21:19.740
+michael compeau: that's
+
+219
+00:21:20.370 --> 00:21:24.429
+michael compeau: that's an engineer's decision. That is not a usability decision.
+
+220
+00:21:25.135 --> 00:21:34.790
+michael compeau: It's nice that we've got a place for alternative text, because that keeps us 508 compliant. And then, as I said before, for crop image, I'm always going down here to original
+
+221
+00:21:35.080 --> 00:21:36.050
+michael compeau: always
+
+222
+00:21:36.190 --> 00:21:37.219
+michael compeau: every time.
+
+223
+00:21:37.860 --> 00:21:44.419
+michael compeau: and then, as I said before, save and select, is useless, so we use, save and insert, even though it's grayed out.
+
+224
+00:21:44.440 --> 00:21:48.150
+michael compeau: I don't know who decided that this should be blue, and this should be
+
+225
+00:21:48.430 --> 00:21:51.489
+michael compeau: gray when this is the one that actually makes things happen
+
+226
+00:22:15.660 --> 00:22:17.930
+michael compeau: alright. And then
+
+227
+00:22:18.760 --> 00:22:21.409
+michael compeau: at this point we should be all
+
+228
+00:22:21.580 --> 00:22:25.139
+michael compeau: done right, so I can hit, save, and insert again.
+
+229
+00:22:30.520 --> 00:22:32.920
+michael compeau: because the Alt text made me
+
+230
+00:22:32.960 --> 00:22:34.000
+michael compeau: finish it.
+
+231
+00:22:34.190 --> 00:22:38.440
+michael compeau: But then it should come back here, we'll show the little media there.
+
+232
+00:22:39.230 --> 00:22:44.150
+michael compeau: We will realize that the description I type for that photo is not going to appear in the caption.
+
+233
+00:22:45.750 --> 00:22:49.200
+michael compeau: which is disappointing, but would have helped save work.
+
+234
+00:22:51.750 --> 00:22:53.969
+michael compeau: And then I type another caption.
+
+235
+00:23:01.180 --> 00:23:10.269
+michael compeau: and down here I can decide whether it's feature or not whether it's going to be in a certain order or not, and then select.
+
+236
+00:23:10.560 --> 00:23:13.749
+michael compeau: You know how I'm going to put it in review.
+
+237
+00:23:18.240 --> 00:23:24.920
+David: That's perfect, and you don't know. You don't need to continue on further. I think we're ready to jump on to our second task. Now.
+
+238
+00:23:24.920 --> 00:23:26.020
+michael compeau: Okay.
+
+239
+00:23:26.020 --> 00:23:26.370
+David: With the.
+
+240
+00:23:26.370 --> 00:23:27.369
+michael compeau: Out of here.
+
+241
+00:23:27.930 --> 00:23:39.279
+David: Perfect. Well, thank you so much for walking me through that really, really fantastic feedback. I'm gonna go and jump. Have are you familiar with events, pages, and creating events.
+
+242
+00:23:39.280 --> 00:23:40.530
+michael compeau: Sure. Yeah.
+
+243
+00:23:40.960 --> 00:23:43.290
+David: Okay, great. Great. So.
+
+244
+00:23:43.290 --> 00:23:53.370
+michael compeau: We don't usually use those because those are done by the outreach coordinators, which is a different job description. Typically.
+
+245
+00:23:54.680 --> 00:23:55.520
+David: Got it.
+
+246
+00:23:56.360 --> 00:23:57.510
+David: But.
+
+247
+00:23:57.510 --> 00:23:59.209
+michael compeau: We get asked to fix them.
+
+248
+00:23:59.420 --> 00:24:02.239
+David: You get asked to fix them. Okay? So you're familiar with them enough?
+
+249
+00:24:02.710 --> 00:24:05.410
+David: We have a an example of
+
+250
+00:24:06.460 --> 00:24:11.930
+David: It's a prototype. It's a potential redesign of the image upload system. It
+
+251
+00:24:13.320 --> 00:24:24.540
+David: will mimic for the most part, the functionality that you're seeing in your stories. But this is just the one that we've created. So I went ahead and shared with you a link on zoom.
+
+252
+00:24:26.960 --> 00:24:31.060
+michael compeau: All right, let me close this out and stop sharing.
+
+253
+00:24:34.810 --> 00:24:36.240
+michael compeau: okay, I see it here.
+
+254
+00:24:37.030 --> 00:24:40.399
+David: So, yeah, and reshare your screen. That would be fantastic.
+
+255
+00:24:40.400 --> 00:24:42.420
+michael compeau: Yeah, we'll do. Once I get it going.
+
+256
+00:24:42.620 --> 00:24:43.670
+David: Perfect, perfect.
+
+257
+00:24:48.170 --> 00:24:49.480
+michael compeau: Alright.
+
+258
+00:24:51.460 --> 00:24:52.770
+michael compeau: And
+
+259
+00:24:56.990 --> 00:24:57.840
+michael compeau: is that it?
+
+260
+00:24:58.240 --> 00:25:00.079
+michael compeau: No, that's not it. Whoops.
+
+261
+00:25:00.850 --> 00:25:03.641
+michael compeau: that must be it. Okay.
+
+262
+00:25:05.780 --> 00:25:08.350
+michael compeau: okay, you should be seeing it now.
+
+263
+00:25:08.690 --> 00:25:11.950
+David: Yes, fantastic. Okay, so
+
+264
+00:25:12.424 --> 00:25:25.870
+David: now, I'm showing you a potential redesign of the image upload system. This is 1st for events, but at the same time. That that current flow of the image should be very similar out.
+
+265
+00:25:25.870 --> 00:25:32.239
+michael compeau: So this this same bottom half of the window is is able to be lifted and put into the other tools.
+
+266
+00:25:32.240 --> 00:25:37.169
+David: Exactly. It'll be on like like you can imagine it for stories or for anything else as well. But.
+
+267
+00:25:37.170 --> 00:25:37.910
+michael compeau: Sure.
+
+268
+00:25:37.910 --> 00:25:39.670
+David: Prototype. We just have events.
+
+269
+00:25:40.840 --> 00:25:52.279
+David: so now I'd like you to imagine that you start to create a new event for veterans. You've already entered in the date and time which location it's going to be happening at. And now it's time to upload the image.
+
+270
+00:25:52.510 --> 00:25:54.820
+David: But please show me how you would do that.
+
+271
+00:25:55.190 --> 00:26:03.059
+michael compeau: One thing to note locations, for these events aren't restricted to Va. Facility locations.
+
+272
+00:26:04.660 --> 00:26:05.380
+David: Gotcha.
+
+273
+00:26:05.380 --> 00:26:06.470
+michael compeau: So
+
+274
+00:26:07.620 --> 00:26:09.590
+michael compeau: just to make that
+
+275
+00:26:09.750 --> 00:26:11.670
+michael compeau: comment, because
+
+276
+00:26:13.070 --> 00:26:15.020
+michael compeau: sometimes they're at
+
+277
+00:26:15.040 --> 00:26:30.410
+michael compeau: other locations and not so I don't know, cause I haven't. I haven't seen the rest of this page to know whether I have to choose from one of the existing facilities like I did for assigning my story, or whether you let me just type in an address.
+
+278
+00:26:30.950 --> 00:26:37.159
+michael compeau: But it's something for you to think about. You're gonna want to allow people, if it's not from an existing facility
+
+279
+00:26:37.700 --> 00:26:44.649
+michael compeau: to be able to type in an a name of a place. Maybe it's going to be at the football hall of Fame in Akron, Ohio.
+
+280
+00:26:45.190 --> 00:26:46.040
+michael compeau: Then I want to be able.
+
+281
+00:26:46.040 --> 00:26:46.410
+David: Yeah.
+
+282
+00:26:46.410 --> 00:26:47.890
+michael compeau: Add in, and the address.
+
+283
+00:26:47.890 --> 00:26:55.889
+David: I think I misspoke the event will be listed on. We we entered in where the event will be listed, I believe. Lower on.
+
+284
+00:26:55.890 --> 00:27:07.119
+michael compeau: That's what you mean. All right. Okay. I wanted to make sure, because I wasn't sure. All right. So once I get to this point you've given me control. So I can actually click on this. Is that right?
+
+285
+00:27:07.120 --> 00:27:14.530
+David: Yes, you can click on it. It's a prototype, so like you can't exactly do everything. But we'll talk about them.
+
+286
+00:27:15.190 --> 00:27:18.389
+michael compeau: Okay. And this recommended image size.
+
+287
+00:27:18.923 --> 00:27:28.740
+michael compeau: Does that mean that I have to have modified my image to that size first? st Or is it, warning me that it's going to be cropping to
+
+288
+00:27:28.870 --> 00:27:31.990
+michael compeau: similarly configured number of megapixels.
+
+289
+00:27:34.990 --> 00:27:36.799
+David: I'm not sure. What. What do you think.
+
+290
+00:27:38.928 --> 00:27:41.071
+michael compeau: You're good. Good, good answer.
+
+291
+00:27:41.710 --> 00:27:46.139
+michael compeau: I would like it to simply be advising me that that the maximum
+
+292
+00:27:46.320 --> 00:27:55.210
+michael compeau: vertical number of pixels is this the maximum width is, or X is going to be this and that.
+
+293
+00:27:55.360 --> 00:27:59.509
+michael compeau: My image will be resized to this automatically.
+
+294
+00:28:00.990 --> 00:28:01.440
+David: Gotcha.
+
+295
+00:28:01.440 --> 00:28:07.769
+michael compeau: That's what I'd like and expect to happen that if 500 is the maximum in one direction that
+
+296
+00:28:07.960 --> 00:28:14.630
+michael compeau: the the tool will handle resizing that to fit the aspect ratio provided.
+
+297
+00:28:15.350 --> 00:28:28.969
+michael compeau: After all, you're allowing 10 MB. That's going to be far bigger than that, to begin with. So that's why I would expect that. And because the tools we're using to generate these images make images way bigger than
+
+298
+00:28:29.070 --> 00:28:39.120
+michael compeau: than those parameters. And so it doesn't make sense to ask someone to go through another step before they're using a tool based in the cloud where all this heavy lifting could be done for me.
+
+299
+00:28:39.600 --> 00:28:47.499
+David: Yeah, so I'm curious. Is that are those bullets useful for you? What would make those bullets more useful for you?
+
+300
+00:28:52.740 --> 00:28:56.389
+michael compeau: You've got the supported file types here.
+
+301
+00:29:00.220 --> 00:29:02.890
+michael compeau: supporting gif would be helpful.
+
+302
+00:29:03.940 --> 00:29:06.929
+michael compeau: You're young, so I'll translate.
+
+303
+00:29:07.010 --> 00:29:09.640
+michael compeau: You. Call it Gif. You're wrong, but that's okay.
+
+304
+00:29:10.020 --> 00:29:13.209
+michael compeau: But if it supported Gif, that would be helpful.
+
+305
+00:29:13.420 --> 00:29:14.060
+David: Okay.
+
+306
+00:29:16.120 --> 00:29:16.870
+michael compeau: and
+
+307
+00:29:18.170 --> 00:29:25.620
+michael compeau: The the size is really important to know, because there can be circumstances where you're getting something much bigger than that
+
+308
+00:29:25.960 --> 00:29:33.229
+michael compeau: but recommended seems to be the wrong word, because I don't know looking at that, whether recommended means
+
+309
+00:29:33.639 --> 00:29:36.359
+michael compeau: I need to do something or I don't.
+
+310
+00:29:37.410 --> 00:29:42.979
+michael compeau: Does that mean you're going to size at this? Does it mean that it that the image
+
+311
+00:29:42.990 --> 00:29:48.050
+michael compeau: size with 2 different numbers there? X and Y is actually
+
+312
+00:29:48.120 --> 00:29:52.939
+michael compeau: the at the one aspect ratio that's allowed. I can't upload square.
+
+313
+00:29:53.100 --> 00:29:56.609
+michael compeau: or is it going to be 500 by 500 pixels? If I upload square.
+
+314
+00:29:57.270 --> 00:29:58.049
+David: Got it.
+
+315
+00:29:58.570 --> 00:30:03.499
+michael compeau: Unclear to me? Or is it 1,750 by 1,750? If I upload square?
+
+316
+00:30:03.800 --> 00:30:05.360
+michael compeau: Or do I have a choice?
+
+317
+00:30:06.760 --> 00:30:11.350
+David: So it's not. It's not incredibly clear what will happen to your image.
+
+318
+00:30:11.350 --> 00:30:12.050
+michael compeau: Yes.
+
+319
+00:30:12.050 --> 00:30:12.680
+David: When you upload it.
+
+320
+00:30:12.680 --> 00:30:20.009
+michael compeau: Or whether I'll waste time if I try and upload it without changing its size first, st and I don't even know other than
+
+321
+00:30:20.340 --> 00:30:25.650
+michael compeau: I am assuming the maximum dimension, because it doesn't say their maximum dimension is
+
+322
+00:30:25.700 --> 00:30:27.080
+michael compeau: this, by this
+
+323
+00:30:28.630 --> 00:30:35.710
+David: So just and you're so it sounds like you're you don't often upload events, but one of the parameters
+
+324
+00:30:35.820 --> 00:30:37.330
+David: is that it
+
+325
+00:30:37.570 --> 00:30:41.039
+David: must be a 7 by 2 aspect, ratio.
+
+326
+00:30:42.380 --> 00:30:43.870
+michael compeau: 7 by 2,
+
+327
+00:30:44.730 --> 00:30:46.489
+michael compeau: 7 by 2.
+
+328
+00:30:47.020 --> 00:30:48.350
+michael compeau: So it's a banner.
+
+329
+00:30:48.650 --> 00:30:49.869
+David: Like a banner. Yes.
+
+330
+00:30:51.560 --> 00:30:54.299
+michael compeau: Show me an example of that banner on this page
+
+331
+00:30:54.380 --> 00:30:56.559
+michael compeau: in the proper aspect ratio.
+
+332
+00:30:56.650 --> 00:30:58.680
+michael compeau: and put the bullets inside it
+
+333
+00:31:00.620 --> 00:31:02.609
+michael compeau: and say, example, image.
+
+334
+00:31:04.930 --> 00:31:05.960
+michael compeau: because.
+
+335
+00:31:06.030 --> 00:31:08.840
+michael compeau: as I'm looking at 1750 by 500,
+
+336
+00:31:09.620 --> 00:31:16.880
+michael compeau: I've done this for years, and I can't tell you which of those 2 dimensions is the up and down, and which is the side to side by just looking at that can't remember.
+
+337
+00:31:17.410 --> 00:31:18.170
+David: Yeah.
+
+338
+00:31:18.740 --> 00:31:19.760
+David: Yeah.
+
+339
+00:31:20.230 --> 00:31:22.360
+David: Okay, feel free to keep going.
+
+340
+00:31:22.360 --> 00:31:46.699
+michael compeau: Room. There, put put the example, banner right for me, and show me this is 1750. By 500 your image will be cropped to this size. If that's what's gonna happen. Or make sure that your content fits within this. And ideally, I would be able to upload anything and a mask of the exact size that you want, an aspect ratio, a mask of that size is going to show up over the photo
+
+341
+00:31:46.810 --> 00:31:56.679
+michael compeau: and allow me to position it up, down, left, right, whatever, until what I want to see shows up, or I can resize it. Until it fits
+
+342
+00:31:56.880 --> 00:31:59.109
+michael compeau: within. You know that parameter.
+
+343
+00:32:02.690 --> 00:32:06.720
+David: Please click the upload image button. Let's see what happens.
+
+344
+00:32:08.830 --> 00:32:16.040
+michael compeau: Alright. So you've got an example. Well, that is, that's a good start. Now. I can't move anything so.
+
+345
+00:32:16.040 --> 00:32:22.149
+David: Yeah. And that's just because it's a prototype, unfortunately, but like, ideally, yeah, I was excited for you to click that.
+
+346
+00:32:22.150 --> 00:32:25.273
+michael compeau: You're on right track. Right? Hell, yeah.
+
+347
+00:32:25.720 --> 00:32:27.519
+David: We're aligned there.
+
+348
+00:32:27.930 --> 00:32:30.910
+michael compeau: Yeah, no, that's absolutely yup
+
+349
+00:32:31.676 --> 00:32:33.070
+michael compeau: alternative text.
+
+350
+00:32:33.080 --> 00:32:34.490
+michael compeau: And
+
+351
+00:32:34.510 --> 00:32:36.430
+michael compeau: okay, good
+
+352
+00:32:38.080 --> 00:32:42.340
+michael compeau: and save and upload. Oh, my God, thank you.
+
+353
+00:32:42.830 --> 00:32:44.029
+michael compeau: Very clear.
+
+354
+00:32:47.030 --> 00:32:48.890
+michael compeau: No, that's that's very nice.
+
+355
+00:32:49.920 --> 00:32:55.873
+michael compeau: very nice, having the preset aspect ratio, and that it just goes to that excellent
+
+356
+00:32:56.830 --> 00:32:57.540
+michael compeau: yeah.
+
+357
+00:32:59.990 --> 00:33:03.879
+David: Okay, so what stands out to you about this new design.
+
+358
+00:33:06.310 --> 00:33:13.259
+michael compeau: I don't know whether I can resize the photo, or will be able to to only use a portion of that
+
+359
+00:33:14.034 --> 00:33:14.770
+michael compeau: image.
+
+360
+00:33:15.150 --> 00:33:22.570
+michael compeau: But here's the deal. Usually when I want to upload something related to event. What I really want to upload is the flyer
+
+361
+00:33:22.610 --> 00:33:34.079
+michael compeau: that was created by our medical media team. That is, 8 and a half by 11. That has all the information on it already done. So I'm not creating yet another image just for this place.
+
+362
+00:33:35.400 --> 00:33:38.399
+michael compeau: I want to be able to use what I've already got.
+
+363
+00:33:38.620 --> 00:33:41.500
+michael compeau: so I'd like to be able to upload
+
+364
+00:33:41.530 --> 00:34:00.479
+michael compeau: the flyer thing. Now, if you want to make me do a preview of that flyer, and you're going to give me a ski goggle view of just a part of that image that I can position as you were showing in your tool, and then you can click on it, and it brings up the whole image. Win.
+
+365
+00:34:03.160 --> 00:34:04.780
+David: Got it, so
+
+366
+00:34:05.950 --> 00:34:08.510
+David: did the new features in this
+
+367
+00:34:08.860 --> 00:34:11.690
+David: help you upload the image more efficiently
+
+368
+00:34:12.350 --> 00:34:13.929
+David: in this new design.
+
+369
+00:34:14.100 --> 00:34:18.087
+michael compeau: It was cleaner cause you reduced steps, and you already know that.
+
+370
+00:34:18.659 --> 00:34:20.788
+michael compeau: so that was good.
+
+371
+00:34:22.080 --> 00:34:25.119
+michael compeau: because of the things I already mentioned.
+
+372
+00:34:25.800 --> 00:34:28.969
+michael compeau: I don't know if I have that same
+
+373
+00:34:29.560 --> 00:34:30.679
+michael compeau: glee.
+
+374
+00:34:31.017 --> 00:34:37.920
+michael compeau: When you roll out the tool, if I don't know for sure what else happens, and if you were to take and lift this
+
+375
+00:34:38.010 --> 00:34:44.229
+michael compeau: directly into, for example, pasting for stories or news releases for image support.
+
+376
+00:34:44.659 --> 00:34:45.610
+michael compeau: then
+
+377
+00:34:45.870 --> 00:34:48.710
+michael compeau: I would want to know.
+
+378
+00:34:48.810 --> 00:35:14.559
+michael compeau: Do I have a choice of aspect ratios for that image. Do I have the ability to choose a thumbnail, which is maybe a part of the image, and then, when the whole story is clicked on after the preview page, because you know, the preview page and drupal's got the little lead with the headline, and you could put a thumbnail image next to that, that thumbnail doesn't have to be the same as the other image. It could be especially section portion, just like you crop this one
+
+379
+00:35:14.620 --> 00:35:21.849
+michael compeau: right? In order to lead to this, the thumbnail could be a section. And then, when I go to the actual story the whole picture loads.
+
+380
+00:35:22.230 --> 00:35:32.819
+michael compeau: and it shows me that I have options for the in the carousel to see up to the other 20 images that I uploaded also with your new tool that you're going to create
+
+381
+00:35:33.170 --> 00:35:34.050
+michael compeau: this week
+
+382
+00:35:34.790 --> 00:35:35.550
+michael compeau: tomorrow.
+
+383
+00:35:36.460 --> 00:35:38.660
+David: So you'd like just to reiterate
+
+384
+00:35:38.790 --> 00:35:40.230
+David: just the
+
+385
+00:35:42.110 --> 00:35:43.160
+David: so it
+
+386
+00:35:43.400 --> 00:35:47.770
+David: for this on the stories pages, the stories that you are always working on.
+
+387
+00:35:47.910 --> 00:35:52.014
+David: you'd you'd like to be able to like kind of crop into that
+
+388
+00:35:52.380 --> 00:35:53.710
+David: the thumbnail.
+
+389
+00:35:53.820 --> 00:35:59.619
+David: Identify what you want your thumbnail to look like and also be able to upload other imagery, imagery.
+
+390
+00:35:59.620 --> 00:36:03.430
+michael compeau: Yeah, let me let me give you an example. This is still sharing right.
+
+391
+00:36:03.430 --> 00:36:04.290
+David: Yep. Yep.
+
+392
+00:36:04.420 --> 00:36:06.440
+michael compeau: All right. So let's have a look at this
+
+393
+00:36:06.970 --> 00:36:08.580
+michael compeau: in stories. Here.
+
+394
+00:36:09.470 --> 00:36:16.350
+michael compeau: let's look at this right here. This is where this issue came up Secretary Mcdonough, and it's visit Cleveland.
+
+395
+00:36:16.790 --> 00:36:17.630
+michael compeau: Alright.
+
+396
+00:36:17.900 --> 00:36:24.630
+michael compeau: This is specifically the image that had been made to be a rotating with 2 images.
+
+397
+00:36:25.450 --> 00:36:28.899
+michael compeau: Okay? And only the 1st one ever shows up.
+
+398
+00:36:29.430 --> 00:36:30.190
+David: Got it.
+
+399
+00:36:30.720 --> 00:36:31.550
+michael compeau: Okay.
+
+400
+00:36:33.010 --> 00:36:45.269
+michael compeau: what I might like is back on this page to have just a view of the veteran itself zoomed in. So you can see what's going on there, instead of the whole entire image
+
+401
+00:36:45.350 --> 00:36:46.550
+michael compeau: sunk down.
+
+402
+00:36:47.170 --> 00:36:54.839
+michael compeau: There are times when it would communicate more and be a better usability aspect for me to select
+
+403
+00:36:56.140 --> 00:37:04.510
+michael compeau: a portion of an image, because otherwise it gets too tiny. You can't see what's going on here. It can't do its job in drawing interest
+
+404
+00:37:04.570 --> 00:37:06.809
+michael compeau: and helping create more clicks
+
+405
+00:37:06.830 --> 00:37:08.620
+michael compeau: if it is not
+
+406
+00:37:09.380 --> 00:37:11.870
+michael compeau: appearing to be more salient.
+
+407
+00:37:12.660 --> 00:37:17.789
+michael compeau: and I can do that if you can give me the ability to to zoom in for the thumbnail.
+
+408
+00:37:20.180 --> 00:37:24.090
+David: So cause these thumbnails. They look all pretty standard size.
+
+409
+00:37:24.090 --> 00:37:24.610
+michael compeau: Yeah.
+
+410
+00:37:24.610 --> 00:37:26.969
+David: That aspect ratio would be the same.
+
+411
+00:37:28.510 --> 00:37:32.840
+David: But you're saying being able to like zoom into someone's face, or like
+
+412
+00:37:33.210 --> 00:37:38.190
+David: make that aspect ratio a little bit like more cropped around the things that.
+
+413
+00:37:38.190 --> 00:37:52.789
+michael compeau: I'm not. I'm not saying that I think like here. This this image just is a different size. So that's why the thumbnail is different, right? But you notice that's because there's a white edge over here. There's white margins.
+
+414
+00:37:52.890 --> 00:37:55.100
+michael compeau: because artificially, I did that.
+
+415
+00:37:58.330 --> 00:38:05.240
+David: And tell me about you artificially doing that. How? What process did you use to add in those late margins.
+
+416
+00:38:05.520 --> 00:38:10.160
+michael compeau: I pasted the image I had into paint and drug it into the middle.
+
+417
+00:38:10.800 --> 00:38:11.809
+David: You drag it into the middle.
+
+418
+00:38:11.810 --> 00:38:15.750
+michael compeau: Left to right for the size that I needed it to be.
+
+419
+00:38:15.750 --> 00:38:17.969
+David: And what size did you need it to be? And.
+
+420
+00:38:17.970 --> 00:38:19.639
+michael compeau: Oh, I don't remember. I.
+
+421
+00:38:19.640 --> 00:38:22.360
+David: Or how did you find out what size you needed it to be?
+
+422
+00:38:22.510 --> 00:38:23.550
+michael compeau: Oh, that
+
+423
+00:38:26.010 --> 00:38:31.049
+michael compeau: That I think in this case was dictated by
+
+424
+00:38:33.580 --> 00:38:40.910
+michael compeau: no, not in that case, but in this case it was dictated by its use. I think, in social media or something like that.
+
+425
+00:38:41.790 --> 00:38:44.950
+michael compeau: So we're always looking to reduce
+
+426
+00:38:45.150 --> 00:38:48.529
+michael compeau: effort right? And not have to touch an image
+
+427
+00:38:48.580 --> 00:38:59.400
+michael compeau: in new ways, nor rely on medical media. Nobody wants to create a work order saying, crop off the left and right of this image and send it back. Nobody wants to do that.
+
+428
+00:38:59.550 --> 00:39:11.859
+michael compeau: The medical media is busy enough with a, you know, 4 days deep in work without me asking for them to crop something. So that's why, having these tools at the point of
+
+429
+00:39:12.415 --> 00:39:22.654
+michael compeau: the point of care, if I can say that right here at the point of editing is the right place for those, because these are not sophisticated.
+
+430
+00:39:23.040 --> 00:39:26.100
+michael compeau: things that have to be thought out. They just have to be.
+
+431
+00:39:26.760 --> 00:39:32.360
+David: Now would would the tool that we were just looking at in the redesigned version
+
+432
+00:39:32.510 --> 00:39:35.790
+David: been able to support you, cutting off that left and right.
+
+433
+00:39:36.250 --> 00:39:38.630
+michael compeau: Yes, if I can zoom in and out.
+
+434
+00:39:38.870 --> 00:39:40.269
+David: If you can zoom in and out.
+
+435
+00:39:40.270 --> 00:39:44.310
+michael compeau: Yeah, yeah, that sounds like that would be exactly correct. Yup.
+
+436
+00:39:44.960 --> 00:39:46.040
+David: Fantastic.
+
+437
+00:39:46.350 --> 00:39:54.030
+michael compeau: Like. In this case we had to do layering to try and get the idea across, because again, we didn't have option of a Carousel
+
+438
+00:39:54.500 --> 00:40:06.249
+michael compeau: would have liked to have had a variety of different photos, but the only way we could collapse the idea down to communicate anything was in in with one image was to do this kind of
+
+439
+00:40:06.340 --> 00:40:07.910
+michael compeau: layering over.
+
+440
+00:40:08.470 --> 00:40:09.300
+michael compeau: So
+
+441
+00:40:10.740 --> 00:40:16.209
+michael compeau: I know this is not what you're working on right now, but I'm never gonna miss a chance to tell you so.
+
+442
+00:40:16.700 --> 00:40:21.590
+David: Yeah, I'm I'm curious. Who's are you doing that? Layering also in paint?
+
+443
+00:40:22.516 --> 00:40:32.280
+michael compeau: No, no, that was done by the actual medical media people. I'm telling you did it in paint because it was me doing it. I I was not going to fill out a work order for somebody else.
+
+444
+00:40:32.630 --> 00:40:34.170
+David: I see. Yeah, got it.
+
+445
+00:40:34.170 --> 00:40:40.750
+michael compeau: And and even though I've got a license to the adobe creatives, cloud and have experience
+
+446
+00:40:41.430 --> 00:40:44.030
+michael compeau: 15 years working with Photoshop, but
+
+447
+00:40:44.650 --> 00:40:50.039
+michael compeau: it takes longer to load the app than it does to get done. What you need to get done.
+
+448
+00:40:50.540 --> 00:40:51.999
+David: Got it got it so.
+
+449
+00:40:52.000 --> 00:41:08.280
+michael compeau: It makes sense to have again. You've got all this great power of being in the cloud with these tools that are open source in drupal for being able to do this manipulation. Just give us access to the tools. Let us do it at the point of publishing.
+
+450
+00:41:08.430 --> 00:41:14.489
+michael compeau: It makes way more sense than to have a part of a pre publishing workflow upstream, back upstream.
+
+451
+00:41:15.820 --> 00:41:17.590
+David: Great, great. So
+
+452
+00:41:18.850 --> 00:41:23.029
+David: Think that we're we're we're just at time here.
+
+453
+00:41:24.170 --> 00:41:26.540
+David: I wanted to ask if you have
+
+454
+00:41:26.820 --> 00:41:28.789
+David: any questions for me.
+
+455
+00:41:32.970 --> 00:41:40.510
+michael compeau: I have lots of questions, none that you're going to be able to answer. So I'm not going to embarrass you by asking them.
+
+456
+00:41:40.930 --> 00:41:51.930
+David: Yeah, I appreciate. But I am an independent researcher. So we're working with site wide. But I don't think I can answer very specific questions.
+
+457
+00:41:52.370 --> 00:41:58.990
+michael compeau: Yeah, no problem. I mean. So I I hope I've given you like the key user stories here.
+
+458
+00:41:59.240 --> 00:42:14.730
+David: Yes, no, I so appreciate the thoughtfulness of your feedback. I would like to invite any other questions if our observers or notetakers had any questions they'd like to ask at this time.
+
+459
+00:42:19.480 --> 00:42:20.939
+michael compeau: Anybody still at your desk?
+
+460
+00:42:23.540 --> 00:42:25.350
+Megan Commons: Still here, but no questions for me.
+
+461
+00:42:27.060 --> 00:42:27.910
+Steve Rancour (he/him): No questions.
+
+462
+00:42:27.910 --> 00:42:38.649
+Erika Washburn: No questions, Michael, but you've given me a lot to think about. I've already started writing some notes down, because I know this is about image uploader. But you've given us a lot of feedback on other items. So I'm going to take these back to
+
+463
+00:42:38.760 --> 00:42:40.380
+Erika Washburn: my colleague as well, so we can.
+
+464
+00:42:40.380 --> 00:43:01.509
+michael compeau: I I appreciate the opportunity to tell you about this. Well, I mean, like, I said, I worked in the software biz, so I get it, and I know it's hard sitting in your office somewhere else, not using the tools every day, or in that actual workflow to know what the pain points are. So I appreciate you asking and and doing this work.
+
+465
+00:43:03.130 --> 00:43:07.129
+David: Great. Well, thank you so much, Michael, and I hope you have a great rest of your day.
+
+466
+00:43:07.130 --> 00:43:09.120
+michael compeau: Yeah. Take care. Thanks. Guys.
+

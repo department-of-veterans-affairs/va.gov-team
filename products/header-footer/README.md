@@ -16,16 +16,16 @@ Note: Be aware that there are also "copycat" injected headers such as https://ww
 ## Product Ownership
 | | VA.gov header & footer | Injected header/footer | 
 | --- | --- | --- |
-| Content | Sitewide Content | N/A
-| Design  | Sitewide Product team | N/A |
-| Build & compiled presentation | Design System, including Analytics and Components | Design System | 
-| Delivery | Design System | Sitewide Product team (proxy-rewrite app) | 
+| Content | Sitewide Content Team | Sitewide Content Team |
+| Design & Research  | Sitewide Product Team in partnership with Design System Team | Sitewide Product Team in partnership with Design System Team |
+| Build & compiled presentation (including analytics) | Design System Team | Design System Team | 
+| Delivery | Design System Team - incl. anything visual, errors due to style or markup changes / introduction of components | Sitewide Product Team (via proxy-rewrite app) - incl. CORS errors, problems with injection, Drupal data structure errors in injection, or addition of new sites for injection | 
 
 **Sitewide Content**
 - OCTO Lead: Danielle Thierry
 - OCTO Slack channel: #sitewide-content-accessibility-ia
 
-**Sitewide Product team**
+**Sitewide Product Team**
  - OCTO Sitewide Lead: Michelle Middaugh
  - VA Design lead: Amanda Klausmeier
  - OCTO Slack channel: #sitewide-public-websites
@@ -33,6 +33,12 @@ Note: Be aware that there are also "copycat" injected headers such as https://ww
 **VA Design System Team**
  - OCTO Design System Team lead: Matt Dingee
  - OCTO Slack channel: #platform-design-system
+
+### Other products within the header owned by other teams
+The Header and Footer contain elements that are managed separately as standalone products and have their own product development cycles. Those include: 
+* On-site search: Sitewide Product Team
+* Veterans Crisis Line modal: Design System Team
+* Authenticated menu and Login modal: Identity Team
 
 ## Problem Statement
 

@@ -231,10 +231,10 @@ _If cross-accredited, end session now._
     1. Would you mind telling me why you chose a _#_?
 
 Preference test:
-- [https://www.figma.com/proto/JpQxsY8thlIxxtkRI3aHAP/ARP-homepage-explorations?type=design&node-id=1-2086&t=TLfs59duzIjlts1c-0&scaling=min-zoom&page-id=0%3A1](https://www.figma.com/proto/JpQxsY8thlIxxtkRI3aHAP/ARP-homepage-explorations?type=design&node-id=1-2086&t=TLfs59duzIjlts1c-0&scaling=min-zoom&page-id=0%3A1)
+- https://www.figma.com/design/C3sdnDf8anVqXVdmiCWwq8/ARF---April-2024-usability-test?node-id=2381-578626&t=hwLuLasn8MzJeJn9-1
 
 Find a Rep:
-- [https://www.va.gov/get-help-from-accredited-representative/find-rep/](https://www.va.gov/get-help-from-accredited-representative/find-rep/) (Ask them what stands out, then ask them to search for themselves)
+- https://www.va.gov/get-help-from-accredited-representative/find-rep/ (Ask them what stands out, then ask them to search for themselves)
 
 ## Consent to use video clips
 - I want to circle back and re-confirm that you are comfortable if we were to share a video clip of this session with our VA partners? Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.

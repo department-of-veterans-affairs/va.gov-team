@@ -123,13 +123,13 @@
   
 - [Link to Platform Page](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/analytics-request)
 - **Responsible:**  Product - after coding is completed
-- [Create analytics ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+collaboration-cycle%2C+collab-cycle-review%2C+gtm&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BTeam+Name+-+Feature+Name%5D)
+- [analytics ticket](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/92984)
+- [dashboard ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93019)
   - **Add the following artificats**
      - Product Outline
       - Authenticated Test user Log ins
-      - Staging URL
+      - [Staging URL](https://staging.va.gov/health-care/foreign-medical-program/file-claim-form-10-7959f-2)
       - Document Page URL, interactions [Example](https://docs.google.com/spreadsheets/d/1krS0RLSjrT6VGmYk1sNF3GlypOSkXh9kJGKoCqUaFy4/edit#gid=0)
-- **Create a DOMO Dashboard Reuest** [KPI DOMO Dashboard request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+kpi-dashboard&template=analytics-request-kpi-dashboard.md&title=Analytics+KPI+dashboard+request+for+%5BTeam%5D)
 
 </details>
 

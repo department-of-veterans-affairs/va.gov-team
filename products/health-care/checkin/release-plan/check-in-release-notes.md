@@ -12,6 +12,14 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+## 2/5/2025
+- Added retry (3 times) in the scenario when the VA notification API fails to ensure the Veteran is notified; in the event all of the retries fail, the failure is logged (VA Notify has it's own retry mechanism, this is an additional retry mechanism on top of that)
+    - [Ticket 96416](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96416)
+
+## 12/17/2024
+- Updated eCheck-in to include OMB information (burden, control no., exp. date) for completing the travel claim reimbursement form
+    - [Epic 97418](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97418)
+
 ## 8/27/2024
 - Updated Pre-Check-in to include a link to information about how to prepare for your upcoming appointment
     - [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/medication-review.md)

@@ -61,8 +61,8 @@
 - [x] Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket
      - [x] Present design and obtain feedback
 - [x] Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket
-- [ ] Finalize design with feedback
-     - [ ] Present to team, stakeholders and any other interested parties
+- [x] Finalize design with feedback
+     - [x] Present to team, stakeholders and any other interested parties
 - [x] Create prototype or basic working functionality in environments
 - [x] Create Research Plan and Conversation Guide
 - [x] Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket
@@ -77,7 +77,9 @@
 - [ ] Engage downstream system team for End-to-End QA coordination
      - [ ] Create E2E use cases and document results
      - [ ] Obtain signoff from downstream system team
-- [ ] Request Analytics review - Refer back to the initial Collaboration Cycle Request ticket
+- [x] Request Analytics review - Refer back to the initial Collaboration Cycle Request ticket
+     - [x] [analytics ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92984)
+     - [x] [dashboard ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93019)
 - [ ] Complete QA and Accessibility QA
      - [ ] Complete QA with feature toggle enabled and disabled to confirm toggle effectiveness (Reference [Testing process notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Testing%20with%20the%20Feature%20Toggle.md))
      - [ ] [Accessbility QA ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)

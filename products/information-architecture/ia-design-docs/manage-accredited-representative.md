@@ -60,6 +60,8 @@ The new tool will live under ROOT since it supports all benefit types.
 - URL: va.gov/get-help-from-accredited-representative/**appoint-rep**
 - Breadcrumb:  Home > [H1 of accredted rep landing page] > [H1 of appoint a rep tool]
 
+### Sub-URLs
+The Sub URLs for the V1 appoint flow can be found in the team's [github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/product-outline-appoint-a-representative.md) under 'Release History'. 
 
 ## <a name="nav"></a>Entry points <br>
 - For the MVP, the main entry points of the tool are: the existing left nav/hub links from disability and decision reviews.
@@ -73,7 +75,7 @@ Additionally, we identified a need for entry points potentially in the Profile (
 
 ![User journey with 'view my current rep' task](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/f146286a-70ae-4baf-af60-bb45097684d4)
 
-Note: the accredited rep team thinks that the current entry point plan wont provide enough access for veterans due to 2 factors: 1) 70% of claims are submitted w/ accredited rep support, which is an overwhelming majority that might need this tool [Source](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/claims-with-representatives-analytics.xlsx) and 2) In a previous study that relied on existing navigation, only 1/10 veterans were able to find the accredited rep info [Source](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md). Given the demonstrated need and the nav study failure, they think we should bump these pages up. 
+Note: the accredited rep team thinks that the current entry point plan wont provide enough access for veterans due to 2 factors: 1) 70% of claims are submitted w/ accredited rep support, which is an overwhelming majority that might need this tool [Source](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2023-12-ARM-analytics/research-findings.md#claims-submitted-with-and-without-representation-fy-2023) and 2) In a previous study that relied on existing navigation, only 1/10 veterans were able to find the accredited rep info [Source](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md). Given the demonstrated need and the nav study failure, they think we should bump these pages up. 
 
 Here was our IA response:
 - 1. The main menu and homepage are super political pages — there’s a lot of stakeholder review that we have to go through to add anything to those, so in general we want to be 100% sure that it belongs there.

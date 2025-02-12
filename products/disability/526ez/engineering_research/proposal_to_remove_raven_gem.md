@@ -1,7 +1,7 @@
 # Proposal to refactor SentryLogging (remove Raven)
 
 ## NOTE!!!
-I’m not proposing getting rid of Sentry logging, this proposal is for the refactoring of a module called SentryLogging.  The naming is confusing, but this is an important distinction to keep in mind.  We are not yet in a position to get rid of Sentry or Grafana, even though word on the street is they will eventually be marginalized in favor of DataDog.
+This proposal is for the refactoring of a module called SentryLogging, not for getting rid of SentryLogging.  The naming is confusing, but this is an important distinction to keep in mind.  We are not yet in a position to get rid of Sentry or Grafana, even though word on the street is they will eventually be marginalized in favor of DataDog.
 ## What:
 SentryLogging is a module that wraps Raven, a gem which allows us to log directly to sentry.
 ## Why is it there:

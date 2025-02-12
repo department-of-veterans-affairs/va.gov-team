@@ -17,8 +17,35 @@ Please add any potential future topics you would like covered below:
 
 ## Topic Dives
 
-### - NGrok
-- @dsasser
+### 1/21/25 - Drupal client-side validation
+
+[Drupal client-side validation Recording](https://us06web.zoom.us/rec/share/kckLh9vQVe8mMJ7uGGAY-J6huXE_Ik0TkMOeITAI3ngAuwOJGc5yn8nHnt__Njzk.8BTOWXlwzp8idG08)
+Passcode: ?K0tRqbj
+
+The client-side validation module in Drupal has some quirks. Sitewide implemented a new part of the module interface (submitted upstream to the module maintainer) to address an issue where a JQuery bug in the library used by the module causes client-side validation to stop working after it encounters validation errors on any date/time field. 
+
+Recording from Sitewide demo explains the change, why it was made, and some additional context about where client-side validation was broken and is now working again.
+
+Related to https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17896
+
+### 1/16/25 - VAMC Topic dive
+Covers: 
+* VA Services & how they tie to Systems & Facilities
+* VAMC Systems
+* VAMC Facilities (medical centers & clinics)
+* Operating Statuses
+* Banners w Situation Updates
+* Special snowflake VAMC Systems:
+  * Lovell
+  * VA Manila
+ 
+[VAMC topic dive recording](https://us06web.zoom.us/rec/share/K5O_oPXy1iD5L2Fy9FByf5ZsjdYqHO1YYB3jfirPR8koy6jLxfF9jMtpYy-gAIyu.4JiogAPNcSpjXSBR)
+Passcode: Qj$5sqPw
+
+### 12/23/24 - Facility locator application
+[Sitewide Topic Dive - Facility Locator.pdf](https://github.com/user-attachments/files/18233560/sitewide-topic-dive--facility-locator.pdf)
+* Recording: https://us06web.zoom.us/rec/share/CUBz7RF7xENiiHo6Nt7y8dJx4bKVhwKis-hJyuEuoFmqZeb1ziySwWm6OUt96YYV.GLwE5MFcHwvAsdD-?startTime=1734986171000
+* Passcode: zv06Hm@B
 
 ### 7/10/24 - Find a Form
 https://us06web.zoom.us/rec/share/nhSoIaTcjXapnmI6VbM0i7tSLUMJTPWD7WlN2r1hauB1U5k3_Fb1_CxW7swzg47N.-kGMFqgUx35QgVaj?startTime=1720642043000

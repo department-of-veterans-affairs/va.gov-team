@@ -81,13 +81,11 @@ We will test the following steps:
 * Chapter 4: Review and submit
 * Submission page
 
-![Screenshot from Mural showing diagram of test journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Test-journey-Round-1-Jan-2024.png)
-
-Diagram of test journey, [also available in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702577156510/63987723a59c971b96105858b484e9061622c235?wid=0-1703093103991).
+![Screenshot from Mural showing diagram of test journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/01-2024-Test-journey.png)
 
 ### Research materials
 
-* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2024%20Submit%20an%20inquiry/Conversation%20guide.md)
 * [Mobile prototype](https://www.figma.com/proto/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?type=design&node-id=458-26839&t=9OMFZtUo0fWacEp5-1&scaling=min-zoom&page-id=458%3A26803&starting-point-node-id=458%3A26839&mode=design)
 * [Desktop prototype](https://www.figma.com/proto/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?page-id=458%3A37863&type=design&node-id=458-37864&viewport=74%2C584%2C0.48&t=uyRpLCeij3dT4AAD-1&scaling=min-zoom&starting-point-node-id=458%3A37864&mode=design)
 * [Mural: Planning](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702577156510/63987723a59c971b96105858b484e9061622c235?wid=0-1703093103991)
