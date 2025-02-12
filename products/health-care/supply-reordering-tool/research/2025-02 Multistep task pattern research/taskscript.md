@@ -39,7 +39,7 @@ _The same script will be used for test A and B. The only difference between test
 
 ## Task 3: Find Instructions for an Unavailable Supply 
 
-- **Task**: You want to order a CPAP tube. Find out how to order a CPAP tube, and click "I have completed the task" to answer some follow up questions.
+- **Task**: Locate your unavailable supplies and the instructions on how to reorder them.
 - **Task success (A)** = Veteran lands on select supplies page and clicks "complete task"
 - **Task success (B)** = Veteran lands on "unavailable" view of landing page
 - **Objective**: To assess which pattern option (A or B) provides clearer guidance to veterans when encountering unavailable supplies and to gauge if the new pattern aligns with veterans' expectations for handling such situations.
