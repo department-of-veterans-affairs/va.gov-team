@@ -22,7 +22,7 @@ The purpose of this research is to compare the old (form pattern, version A) and
 2. Veterans’ expectations when completing routine tasks. 
 
 ### Outcome
-This research will validate the usefulness of the pattern for routine tasks and indicate that routine tasks need a pattern other than form for a simpler task completion experience.    
+This research will validate if a new pattern for routine tasks is a better process for simple task completion than a form pattern. 
 
 ### Research questions
 1. Which pattern option enables Veterans to complete reordering medical supplies more quickly?  
