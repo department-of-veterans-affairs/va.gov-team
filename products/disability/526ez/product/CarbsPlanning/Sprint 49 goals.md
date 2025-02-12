@@ -14,7 +14,7 @@
       - 0781 Upload a document (no password)
       - 0781 Upload a document (with password)
       - Modal - delete an uploaded document
-- OOO 02/13 - 02/15
+    - OOO 02/13 - 02/15
   
   - JR
     - 0781 Paper Sync
