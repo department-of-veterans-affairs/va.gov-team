@@ -13,7 +13,8 @@
     - 0781 Paper Sync 
       - 0781 Upload a document (no password)
       - 0781 Upload a document (with password)
-      - Modal - delete an uploaded document	
+      - Modal - delete an uploaded document
+- OOO 02/13 - 02/15
   
   - JR
     - 0781 Paper Sync
@@ -38,6 +39,7 @@
     - Scope change - yes/no prompts for receiving treatment at VA facility 	
     - Scope change - yes/no prompts for receiving treatment at private facility	
     - Scope change - update file list on evidence upload page	(_currently blocked, waiting on OCTO to confirm a requirement_)
+  - OOO 02/21 and 02/24
 
 ## Research and Design
 [Sprint 49 Goals](https://dsva.slack.com/docs/T03FECE8V/F07N6EH4EUE)
