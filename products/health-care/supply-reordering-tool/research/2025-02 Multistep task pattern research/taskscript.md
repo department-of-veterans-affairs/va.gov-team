@@ -34,6 +34,9 @@ _The same script will be used for test A and B. The only difference between test
 - **Task**: Imagine you want to order hearing aid batteries again, but this time with a new email address. Please go through the process of reordering a hearing aid battery again, but update your email address to newemail@gmail.com, then complete your order.
 - **Task success (A and B)** = Veteran clicks submit on review page with **updated email.**
 - **Objective**: To assess which pattern option (A or B) Veterans are more successful and faster in editing their email address.
+### Post-task questions
+1. How easy was it to edit your email?
+2. How confident did you feel that you successfully edited your email?
 
 ## Task 3: Find Instructions for an Unavailable Supply 
 
