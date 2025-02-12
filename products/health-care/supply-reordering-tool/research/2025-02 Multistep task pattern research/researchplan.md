@@ -58,7 +58,7 @@ Before writing your recruitment criteria, be sure to review the following resour
 We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel sheet saved on the VA network Sharepoint drive.  
 
 ### Recruitment criteria
-Total sample size will be 383 per corhort. There will be 2 cohorts: test A and test B. Recruitment will be ongoing until all cohorts are filled. 
+Total sample size will be 383 per corhort, so 766 total. There will be 2 cohorts: test A and test B. Recruitment will be ongoing until all cohorts are filled. 
 
 **Primary criteria (must-haves)**
 
@@ -77,13 +77,13 @@ Total sample size will be 383 per corhort. There will be 2 cohorts: test A and t
 2. In the past 12 months, how often did you complete one or more of these tasks on My HealtheVet?  
 **Tasks:** Scheduling an appointment, sending a message to your doctor, refilling VA prescriptions, reordering medical supplies
 
-	a. Once a week (recruit 120 between a and b)  
+	a. Once a week (recruit 96 for A, 96 for B) 
 	
-	b. Once a month  
+	b. Once a month  (recruit 96 for A, 96 for B) 
 	
-	c. Once every few months (recruit 100 between c and d)  
+	c. Once every few months (recruit 96 for A, 96 for B) 
 	
-	d. Once a year 
+	d. Once a year (recruit 95 for A, 95 for B) 
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
@@ -97,7 +97,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Research sessions
 Feb 17 – Launch test 
-Feb 28 – Close test 
+March 28 – Close test 
 	
 ## Team Roles	
 Moderator: Jina Ryu
