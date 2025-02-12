@@ -17,7 +17,7 @@ Last updated by @tygindraux: February 12, 2025
 
 This will help us articulate the things we like or don’t like and which direction to go with Ask VA. It will feed into product vision exercises we plan to do with partners.
 
-### Methdology
+### Methodology
 
 1. Identify websites to compare.
 2. Review the contact experience on the website.
@@ -34,6 +34,5 @@ I reviewed the following contact experiences:
 - [RNID Contact Us](https://rnid.org.uk/about-us/contact-rnid/)
 - [Atlassian Contact Form](https://www.atlassian.com/company/contact)
 - [Grammarly Contact Us](https://support.grammarly.com/hc/en-us/requests/new#/)
-
 
 
