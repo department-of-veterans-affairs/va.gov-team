@@ -27,9 +27,7 @@ This research will validate the usefulness of the pattern for routine tasks and 
 ### Research questions
 1. Which pattern option enables Veterans to complete reordering medical supplies more quickly?  
 2. Which pattern option do Veterans find to be more intuitive and less difficult to use? 
-3. Which pattern option increases satisfactions amongst Veterans in the digital patient portal experience? 
-4. Which pattern option builds greater trust in the VA with Veterans? 
-5. What are Veterans’ expectations when completing routine tasks?  
+3. What are Veterans’ expectations when completing routine tasks?  
 
 ### Hypothesis
 1. The average time to complete tasks will be lower on the new pattern. 
@@ -58,7 +56,7 @@ Before writing your recruitment criteria, be sure to review the following resour
 We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel sheet saved on the VA network Sharepoint drive.  
 
 ### Recruitment criteria
-Total sample size will be 220. Recruitment will be ongoing until all cohorts are filled. 
+Total sample size will be 383 per corhort. There will be 2 cohorts: test A and test B. Recruitment will be ongoing until all cohorts are filled. 
 
 **Primary criteria (must-haves)**
 
