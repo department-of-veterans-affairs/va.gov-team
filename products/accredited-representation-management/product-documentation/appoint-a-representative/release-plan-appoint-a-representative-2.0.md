@@ -22,10 +22,11 @@ The following will take place right before Staged Rollout:
 - [ ] Enable digital submission email confirmation in VA Notify Production [#101050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101050)
 - [ ] Enable expiration email notifications in VA Notify Production [#100841](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100841)
 
-#### Go/No Go meeting TBD
-- [ ] review the release plan with your team.
-- [ ] review the plan with your OCTO representative.
-- [ ] test the 2.0 flow with Kevin Schneider / Sam Raudabaugh ❓
+#### Go/No Go meeting March 6, 2025
+- [ ] test the 2.0 flow in Production
+- [ ] review the release plan
+- [ ] determine a verdict
+
 
 **Verdict:TBD**
 
@@ -35,8 +36,7 @@ The following will take place right before Staged Rollout:
 - Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed above)
 
 **Rollout date range: March 11, 2025**
-1. Stage A: Enable for Kevin Schneider and Sam Raudabaugh ❓
-2. Stage B: 100% of users on March 11 (Tuesday) + implement Datadog monitoring in Production [#99975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99975)
+1. Stage A: 100% of users on March 11 (Tuesday) + implement Datadog monitoring in Production [#99975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99975)
 
 ***
 
