@@ -114,6 +114,10 @@ Notes:
     - NOTES:
       - Pages within this section of the hub page have been reordered based on 1) the portal landing page first 2) page view of the main 4 portal tools and 3) page views of the remaining health tools 4) page views of any additional pages/crosslinks, with a max of 10 items to appear.
 
+2. **Update sign in widgets on all MHV tool landing pages**
+    - Description:
+      - The sign in widgets (React) on the existing health tool landing pages display multiple CTAs once a visitor has signed in to support links to MHV Classic and Oracle health (My VA health).
+      - With this work
 
 ### Additional key entry points
 _Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
