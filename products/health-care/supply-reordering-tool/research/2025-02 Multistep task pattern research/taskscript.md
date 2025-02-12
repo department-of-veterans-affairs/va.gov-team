@@ -30,7 +30,12 @@ _The same script will be used for test A and B. The only difference between test
 3. How confident did you feel about submitting your medical supply order?
 4. What suggestions do you have to improve this experience?
 
-## Task 2: Find Instructions for an Unavailable Supply 
+## Task 2: Edit email address
+- **Task**: Imagine you want to order hearing aid batteries again, but this time with a new email address. Please go through the process of reordering a hearing aid battery again, but update your email address to newemail@gmail.com, then complete your order.
+- **Task success (A and B)** = Veteran clicks submit on review page with **updated email.**
+- **Objective**: To assess which pattern option (A or B) Veterans are more successful and faster in editing their email address.
+
+## Task 3: Find Instructions for an Unavailable Supply 
 
 - **Task**: You want to order a CPAP tube. Find out how to order a CPAP tube, and click "I have completed the task" to answer some follow up questions.
 - **Task success (A)** = Veteran lands on select supplies page and clicks "complete task"
@@ -42,17 +47,17 @@ _The same script will be used for test A and B. The only difference between test
 3. How clear are the instructions for what to do if you want to order an unavailable supply?
 
 
-## Task 3A: Exit Supply Order
+## Task 4A: Exit Supply Order
 _For Test A only_
-- **Task**: You begin the process of ordering a hearing aid battery on VA.gov, but you discover that you have extra batteries and decide you no longer need to place the order. Please exit your in-progress order.
+- **Task**: Imagine you're in the middle of the process of ordering a hearing aid battery, but you discover you have extra batteries and decide you no longer need to place the order. Please exit your in-progress battery order.
 - **Objective**: To evaluate which pattern option (A or B) offers a more straightforward and satisfying exit path, contributing to greater trust and satisfaction with the VA's digital patient portal experience.
 ### Post-task questions
 1. How easy was it to exit your order?
 2. How confident did you feel that you successfully exited your medical supply order?
 
-## Task 3B: Cancel an In-progress Supply Order
+## Task 4B: Cancel an In-progress Supply Order
 _For Test B only_
-- **Task**: You begin the process of ordering a hearing aid battery on VA.gov, but you discover that you have extra batteries and decide you no longer need to place the order. Please cancel your in-progress battery order.
+- **Task**: Imagine you're in the middle of the process of ordering a hearing aid battery, but you discover you have extra batteries and decide you no longer need to place the order. Please cancel your in-progress battery order.
 - **Objective**: To evaluate which pattern option (A or B) offers a more straightforward and satisfying exit path, contributing to greater trust and satisfaction with the VA's digital patient portal experience.
 ### Post-task questions
 1. How easy was it to cancel your order?
