@@ -1,14 +1,21 @@
 # Release Plan: Appoint a Representative 2.0 (digital submission pilot)
 
-
-### Development
-
 Feature Toggle/flag:
 `appoint_a_representative_enable_v2_features` will be disabled prior to staged rollout and will be enabled as part of the 2.0 rollout. 
 
 This feature toggle is setup for authenticated users and we can also enable early access in Production to individual users, via email address.
 
-### Validation
+#### Go/No Go meeting March 6, 2025
+- [ ] Test the 2.0 flow in Production
+- [ ] Review the release plan
+- [ ] Determine a verdict
+
+**Verdict:TBD**
+
+# Staged Rollout Details
+
+- Limited production access to the v2 features of Appoint a Representative will be controlled through the frontend feature toggle `appoint_a_representative_enable_v2_features`
+- Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed below)
 
 #### Platform Preparation
 - [ ] All "launch blocking" items from Staging Review have been addressed
@@ -22,20 +29,8 @@ The following will take place right before Staged Rollout:
 - [ ] Enable digital submission email confirmation in VA Notify Production [#101050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101050)
 - [ ] Enable expiration email notifications in VA Notify Production [#100841](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100841)
 
-#### Go/No Go meeting March 6, 2025
-- [ ] Test the 2.0 flow in Production
-- [ ] Review the release plan
-- [ ] Determine a verdict
 
-
-**Verdict:TBD**
-
-## Staged Rollout Details
-
-- Limited production access to the v2 features of Appoint a Representative will be controlled through the frontend feature toggle `appoint_a_representative_enable_v2_features`
-- Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed above)
-
-**Rollout date range: March 11, 2025**
+#### Rollout date: March 11, 2025
 1. Stage A: 100% of users on March 11 (Tuesday) + implement Datadog monitoring in Production [#99975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99975)
 
 ***
