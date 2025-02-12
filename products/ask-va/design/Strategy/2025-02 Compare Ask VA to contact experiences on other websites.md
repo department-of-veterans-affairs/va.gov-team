@@ -1,4 +1,4 @@
-# Comparative analysis of contact experiences on other websites
+# Compare Ask VA to contact experiences on other websites
 
 Ask VA VA.gov Team
 
