@@ -15,8 +15,10 @@ This is a look back at all of the responses for the 6 questions on the  FSR cust
 ## 1. I was able to easily complete this form online.
 
 **107 Responses**
+
 **Mean: 4.1**
-**Median: Strongly Agree (5)**
+
+**Mode: Strongly Agree (5)**
 
 |Score|Response|# of Responses|
 |--|--|--|
@@ -27,7 +29,7 @@ This is a look back at all of the responses for the 6 questions on the  FSR cust
 | 5 | Strongly Agree | 55 |
 
 
- ## 2. Did you find any section of the form confusing or unclear? Please
+ ## 2. Did you find any section of the form confusing or unclear? 
  
 Users are able to select all that apply.
 
@@ -50,12 +52,16 @@ Open text field provided.
 **57 Qualitative Responses total**
 
 **Everything is fine, no suggestions**
+
 Approximately 21 Responses 
+
 Most responses included "None" and "N/A".
 
 "It was simple don't change"
 
-**Suggestions for Improvement: FSR Form-specific**
+**Suggestions for Improvement:** 
+
+**FSR Form-specific**
 
 **Adding attachments**
 
@@ -103,7 +109,6 @@ Can pop up on all Debt Portal pages and FSR introduction page
 ## Why did you select that rating? 
 
 
-> verification, navigation and payment is all so complicated and unnecessary
 
 
 
@@ -121,6 +126,8 @@ Can pop up on all Debt Portal pages and FSR introduction page
 
 
 > Signing up and getting verified using ID.me is horrendous. It took me multiple tries over a month period.
+
+> verification, navigation and payment is all so complicated and unnecessary
 
 
 **Copay Page Feedback**
@@ -225,7 +232,7 @@ Appears on all VA.gov pages (blue button feedback)
 
 **Wanting to see debt letters**
 
-I just want a download copy of both Debt letters. I have spent over an hour trying to get a copy of these letters yet no where to be found. No real explanation of why I have a debt. I recieved another debt letter in the mail for 83 days of service in FY23 which I belive I already paid in NOV of 24 now I have two letters for over 10,000 dollars that I'd like to know why.
+> I just want a download copy of both Debt letters. I have spent over an hour trying to get a copy of these letters yet no where to be found. No real explanation of why I have a debt. I recieved another debt letter in the mail for 83 days of service in FY23 which I belive I already paid in NOV of 24 now I have two letters for over 10,000 dollars that I'd like to know why.
 
 **Positive feedback**
 
