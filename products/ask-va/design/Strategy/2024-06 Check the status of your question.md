@@ -1,4 +1,4 @@
-# Check the status of your question search.
+# Check the status of your question
 
 Ask VA VA.gov
 
