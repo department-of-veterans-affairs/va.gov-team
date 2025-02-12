@@ -120,12 +120,12 @@ Notes:
         - all content within the existing React widgets will be removed and updated content will be implemented within the applicable Drupal pages
         - all sign in widgets will only provide a single CTA deep linking visitors to the applicable tool within the MHV on VA.gov experience
         - a new sign in widget will be created for the new "Manage your health" unauth page that will link visitors to the [MHV on VA.gov portal landing page](www.va.gov/my-health)
-       - Pages that will need new or updated widget (these are the existing URLs, not the new URLs)
+       - Pages that will need new or updated widget
          - [MHV on VA.gov portal tool landing page](www.va.gov/health-care/manage-health/) to link to www.va.gov/my-health/
-         - [Schedule and manage health appointments page](www.va.gov/health-care/schedule-view-va-appointments/) to link to www.va.gov/my-health/appointments/
-         - [Refill and track prescriptions page](www.va.gov/health-care/refill-track-prescriptions/) to link to www.va.gov/my-health/medications/
-         - [Get VA medical records page](www.va.gov/health-care/get-medical-records/) to link to www.va.gov/my-health/medical-records/
-         - [Use secure message page](www.va.gov/health-care/secure-messaging/) to link to www.va.gov/my-health/messages/
+         - [Schedule and manage health appointments page](www.va.gov/health-care/manage-appointments/) to link to www.va.gov/my-health/appointments/
+         - [Refill and track prescriptions page](www.va.gov/health-care/manage-prescriptions-medications/) to link to www.va.gov/my-health/medications/
+         - [Get VA medical records page](www.va.gov/health-care/review-medical-records/) to link to www.va.gov/my-health/medical-records/
+         - [Use secure message page](www.va.gov/health-care/send-receive-messages/) to link to www.va.gov/my-health/messages/
 
 
 ### Additional key entry points (post-launch)
