@@ -83,7 +83,7 @@ Notes:
      
 6 **REVISED - [Get travel pay reimbursement page](www.va.gov/health-care/get-reimbursed-for-travel-pay/)**
     - Current URL: www.va.gov/health-care/get-reimbursed-for-travel-pay/
-    - New URL: TBD
+    - New URL: www.va.gov/health-care/file-travel-pay-reimbursement/
     - Notes:
       - Breadcrumb to be updated based on H1 change
 
@@ -154,18 +154,7 @@ _Any additional key locations that the page should be navigable from. Although t
       - Pages within this section of the hub page have been reordered based on 1) the portal landing page first 2) page view of the main 4 portal tools and 3) page views of the remaining health tools 4) page views of any additional pages/crosslinks, with a max of 10 items to appear.
 
 
-2. **Update links on health care tool landing pages to link to MHV on VA.gov tools**
-    - UPDATE LINK:
-      - Update sign in widget so visitor is directed to MHV on VA.gov in place of MHV Classic after signing in.
-    - PLACEMENT
-      - Pages to update
-        - [Refill and track prescriptions](https://www.va.gov/health-care/refill-track-prescriptions)
-        - [Get VA medical records online](https://www.va.gov/health-care/get-medical-records)
-        - [Use secure message](https://www.va.gov/health-care/secure-messaging)
-    - NOTES:
-
-
-3. **Header**
+2. **Header**
     - ADD LINK:
       - Add the "My Healthevet" link to the desktop version of the unauthenticated view of the header and the injected header.
     - PLACEMENT:
@@ -174,7 +163,7 @@ _Any additional key locations that the page should be navigable from. Although t
       - The option will link to the [Manage your health with My HealtheVet on VA.gov](www.va.gov/health-care/tbd) static tool landing page in the health care benefit hub.
       - The link in the authenticated header will not change, that will continue to link directly to the [MHV on VA.gov portal landing page](www.va.gov/my-health)
 
-4. **Primary navigation**
+3. **Primary navigation**
     - ADD/REMOVE/MODIFY LINKS:
       - Modify list of links under the "Manage your health" column
     - PLACEMENT/ORDER:
@@ -220,7 +209,7 @@ www.va.gov/health-care/view-test-and-lab-results/ | www.va.gov/health-care/revie
 www.va.gov/health-care/schedule-view-va-appointments/ | www.va.gov/health-care/manage-appointments/ | Revising H1 and URL
 www.va.gov/health-care/refill-track-prescriptions/ | www.va.gov/health-care/manage-prescriptions-medications/ | Revising H1 and URL
 www.va.gov/health-care/secure-messaging/ | www.va.gov/health-care/send-receive-messages/ | Revising H1 and URL
-www.va.gov/health-care/get-reimbursed-for-travel-pay/ | New URL: TBD | Revising H1 and URL
+www.va.gov/health-care/get-reimbursed-for-travel-pay/ | www.va.gov/health-care/file-travel-pay-reimbursement/ | Revising H1 and URL
 www.va.gov/health-care/covid-19-vaccine/ | TBD R&S page | This may not be done with this work effort
 
 ## <a name="bestbets"></a>Search best bets
@@ -231,9 +220,6 @@ www.va.gov/health-care/covid-19-vaccine/ | TBD R&S page | This may not be done w
 **1. Best bet for [page name]** - 
 - Destination page:
 - Additional keywords:
-
-
-
 
 
 
