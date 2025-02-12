@@ -16,7 +16,6 @@ Mural: [MHV on VA.gov entry points](https://app.mural.co/t/departmentofveteransa
 - [Entry points](#nav)
 - [Redirets](#redirects)
 - [Search best bets](#bestbets)
-- [Launch coordination activities](#launch)
 
 
 ## <a name="flows"></a>Navigation flows <br>
@@ -114,12 +113,22 @@ Notes:
     - NOTES:
       - Pages within this section of the hub page have been reordered based on 1) the portal landing page first 2) page view of the main 4 portal tools and 3) page views of the remaining health tools 4) page views of any additional pages/crosslinks, with a max of 10 items to appear.
 
-2. **Update sign in widgets on all MHV tool landing pages**
+2. **Sign in widgets on all MHV tool landing pages**
     - Description:
       - The sign in widgets (React) on the existing health tool landing pages display multiple CTAs once a visitor has signed in to support links to MHV Classic and Oracle health (My VA health).
       - With this work
+        - all content within the existing React widgets will be removed and updated content will be implemented within the applicable Drupal pages
+        - all sign in widgets will only provide a single CTA deep linking visitors to the applicable tool within the MHV on VA.gov experience
+        - a new sign in widget will be created for the new "Manage your health" unauth page that will link visitors to the [MHV on VA.gov portal landing page](www.va.gov/my-health)
+       - Pages that will need new or updated widget (these are the existing URLs, not the new URLs)
+         - [MHV on VA.gov portal tool landing page](www.va.gov/health-care/manage-health/) to link to www.va.gov/my-health/
+         - [Schedule and manage health appointments page](www.va.gov/health-care/schedule-view-va-appointments/) to link to www.va.gov/my-health/appointments/
+         - [Refill and track prescriptions page](www.va.gov/health-care/refill-track-prescriptions/) to link to www.va.gov/my-health/medications/
+         - [Get VA medical records page](www.va.gov/health-care/get-medical-records/) to link to www.va.gov/my-health/medical-records/
+         - [Use secure message page](www.va.gov/health-care/secure-messaging/) to link to www.va.gov/my-health/messages/
 
-### Additional key entry points
+
+### Additional key entry points (post-launch)
 _Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
 
 1. **Health care benefit left nav**
@@ -232,13 +241,6 @@ Communicate launch date | | |
 
 
 
-
-### Staged rollout
-*Is the team planning a staged rollout? Roll-outs hidden behind a flipper flag need a static page to place a sign in widget or CTA on. Pages/sections where a sign in widget can't be implemented - find a form pages, within accordions, hub pages*
-
-1. What is the team's staged rollout plan?
-2. Which page will have the widget that controls views?
-3. Does the team need to manage search-engine results during rollout?
 
 
 
