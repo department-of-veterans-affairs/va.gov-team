@@ -1,7 +1,5 @@
 # IA Design for Foreign Medical Program - Claim form
-**STATUS: IN PROGRESS**
-
-**Team:** [Team name]
+**STATUS: COMPLETE 2/10/2025**
 
 **Tickets:**
 - [CAIA intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78275)
@@ -40,29 +38,30 @@
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
 
 
-**1) NEW - File a claim for FMP static page**
+1) **NEW - File an FMP claim static page**
     - DESCRIPTION:
-      - This is a Drupal static unauth content page that will provide general supporting information about the FMP claim form and process
+      - This is a Drupal unauth content page that will provide general supporting information about the FMP claim form and process
+      - This content is currently in an [R&S page](www.va.gov/resources/how-to-file-a-va-foreign-medical-program-claim/) that will be retired and redirected to this new page
     - URL: www.va.gov/health-care/file-foreign-medical-program-claim/
     - BREADCRUMB: 
-      - Desktop: VA.gov home > [Health care hub page H1] > [File a claim for FMP static page H1] 
+      - Desktop: VA.gov home > [Health care hub page H1] > [File an FMP claim static page H1] 
         - Example: VA.gov home > Health care > File a claim for the Foreign Medical Program
       - Mobile: < [Health care hub page H1]
         - Example: < Health care
     - NOTES: 
 
-**2) NEW - FMP Claim form**
+2) **NEW - FMP claim form 10-7959f-2**
     - DESCRIPTION:
-      - This is form flow for the FMP claim form 10-7959f-2
-      - The URL provided is the canonical URL for the form, all pages within the form flow will be nested under this URL
+      - This is form flow for the FMP claim form 10-7959f-2.
+      - The URL provided is the canonical URL for the form, all pages within the form flow will be nested under this URL.
     - URL: www.va.gov/health-care/file-foreign-medical-program-claim/file-claim-form-10-7959f-2/
     - BREADCRUMB: 
-      - Desktop: VA.gov home > [Health care hub page H1] > [File a claim for FMP static page H1] > [Claim form H1
+      - Desktop: VA.gov home > [Health care hub page H1] > [File an FMP claim static page H1] > [Claim form H1]
         - Example: VA.gov home > Health care > File a claim for the Foreign Medical Program > File a claim with VA Form 10-7959f-2
-      - Mobile: < [Health care hub page H1]
-        - Example: < Health care
+      - Mobile: < [File an FMP claim static page H1]
+        - Example: < File a claim for the Foreign Medical Program
     - NOTES: 
-      - All links on the site should link to the canonical URL of the form not the /introduction page
+      - All links on the site should link to the canonical URL of the form not the /introduction page.
 
 
 
@@ -70,25 +69,26 @@
 
 Teams must launch with at least one entry point that allows site visitors to navigate to the new content or feature. 
 
-### Required entry point(s)
+### Required entry point(s) for launch
 
-1. **[File a claim for FMP static page](www.va.gov/health-care/file-foreign-medical-program-claim/)** (New page)
+1. **[File an FMP claim static page](www.va.gov/health-care/file-foreign-medical-program-claim/)** (New page)
    - DESCRIPTION:
-     - This new static page must launch with the FMP claim form, it is the primary access point to the claim form
-     - The link label and placement on the page will be determined by content
+     - This new static page must launch with the FMP claim form, it is the primary access point to the online claim form.
+     - The link label and placement on the page will be determined by content.
+
 
 2. **Health care benefit hub left nav**
-    - In order to navigate to the new claim form through the claim form static content page, a link must be provided to the static content page.  The primary placement for this link is in the left nav.
+    - In order to navigate to the new online claim form through the static content page, a link must be provided to the static content page.  The primary placement for this link is in the left nav.
     - PLACEMENT: 
       - The link option should be placed in the 2nd to last position, just above "Request a decision review or clinical appeal"
-        - If the option for "COVID-19 vaccines at VA" is still in the left nav at the time of this implementation, place this new link above the COVID-19 vaccines option.  The vaccine option will eventually be removed once that content is move to R&S.
+        - The order of these links are being rearranged with the [MHV work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/mhv-tool-landing-pages.md). That work is moving the "COVID-19 vaccines at VA" link to the 2nd to last position until this page can be removed. If it is still in the left nav at the time of this implementation, place this new link above the COVID-19 vaccines option (3rd from last).  The vaccine option will eventually be removed once that content is move to R&S.
     - LINK DETAILS:
       - Link label: Match the H1 of the destination page
       - Link destination: www.va.gov/health-care/file-foreign-medical-program-claim/
     - NOTES:
       - The claim form will not appear in the left nav, only the static landing page.  This is the pattern used across the site for tool landing pages - only the landing page appears. 
 
-### Additional key entry points
+### Additional key entry points (post-launch)
 _Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
 
 1. **[About form 10-7959f-2 page](https://www.va.gov/find-forms/about-form-10-7959f-2/)**
