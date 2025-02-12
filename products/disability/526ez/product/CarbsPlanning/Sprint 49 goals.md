@@ -45,6 +45,8 @@
 _Onboarding of Qian is blocking the prototype work as she needs write access to Figma and her request has not been approved yet_
 
 ## Sumary
+Reminder: Monday is a holiday 
+
 Upon reviewing the scope of the 0781 Paper Sync initiative, it was proposed that the team should explore options for modifying the existing minimal viable product (MVP). The team did some revisions to the designs and flow and came up with a solution that we'll work on this sprint. 
 - New page capturing provider types the claimant went to receive treatment for their traumatic events and behavioral changes to be included as a part of section 3 mental health statement to capture responses for question 12 on the 0781.
 - [ 4.11 0781 Supporting evidence document types ] to be included as a part of section 3 mental health statement to capture responses for question 13b on VA Form 21-0781 (this page will no longer generate individual upload pages based on selections entered).
