@@ -1,8 +1,8 @@
 ---
-name: "Internal CAIA a11y Short Ticket"
-about: Template for CAIA a11y members to utilize, when needing to create a ticket oustide the intake process. 
-title: 'Internal CAIA a11y Short Ticket'
-labels: 'Sitewide CAIA, sitewide accessibility'
+name: "Internal ADE Accessibility Short Ticket"
+about: Template for ADE members to utilize, when needing to create a ticket oustide the intake process. 
+title: 'Internal ADE Accessibility Short Ticket'
+labels: 'ADE'
 assignees: 'sara-amanda'
 
 ---
@@ -39,7 +39,7 @@ assignees: 'sara-amanda'
 - [ ] Acceptance Criteria `Example 3`
 ```
 ```[tasklist]
-## Ticket Updates (CAIA Internal)
+## Ticket Updates (ADE Internal)
 - [ ] _Connect to an `Epic` or `Intake` (what body of work is this a part of?)_
 - [ ] _Label with `Originator/Team` (product team or stakeholder requesting support)_
 - [ ] _Label date in the `Open Date` field_
@@ -54,7 +54,6 @@ assignees: 'sara-amanda'
 
 ```[tasklist]
 ### Related Tickets
-- [ ] https://github.com/department-of-veterans-affairs/va.gov-team/issues/55956
 - [ ] #ticketnumbergoeshere1
 - [ ] #ticketnumbergoeshere2
 - [ ] #ticketnumbergoeshere3
