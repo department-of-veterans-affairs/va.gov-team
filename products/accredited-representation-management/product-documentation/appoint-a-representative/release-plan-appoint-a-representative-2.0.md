@@ -23,9 +23,9 @@ The following will take place right before Staged Rollout:
 - [ ] Enable expiration email notifications in VA Notify Production [#100841](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100841)
 
 #### Go/No Go meeting March 6, 2025
-- [ ] test the 2.0 flow in Production
-- [ ] review the release plan
-- [ ] determine a verdict
+- [ ] Test the 2.0 flow in Production
+- [ ] Review the release plan
+- [ ] Determine a verdict
 
 
 **Verdict:TBD**
