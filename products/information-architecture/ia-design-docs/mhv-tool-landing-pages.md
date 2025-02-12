@@ -1,5 +1,5 @@
 # IA Design for MHV on VA.gov - Tool landing pages and entry point visibility work
-**STATUS: In review**
+**STATUS: FINAL**
 
 **Team:** MHV on VA.gov Portal / Cartography
 
