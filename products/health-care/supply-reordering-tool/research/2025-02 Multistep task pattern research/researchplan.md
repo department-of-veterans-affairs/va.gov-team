@@ -42,7 +42,9 @@ Unmoderated A/B prototype testing using Optimal Workshop's prototype testing fea
 Remote
 
 ### Research materials
-- Link to [task guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/taskscript.md)
+- Link to [task script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/taskscript.md)
+- [Optimal workshop test A (forms pattern)](https://dj540s05.optimalworkshop.com/prototype/69a65c79522f49090e00933abef233ea)
+- [Optimal workshop test B (task pattern)](https://dj540s05.optimalworkshop.com/prototype/u3llmhfw)
 	
 ## Recruitment	
 
