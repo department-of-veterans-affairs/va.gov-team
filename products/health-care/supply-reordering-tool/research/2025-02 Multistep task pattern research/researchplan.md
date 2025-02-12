@@ -96,8 +96,8 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-Feb 17 – Launch test 
-March 28 – Close test 
+- **Feb 17:** Launch test 
+- March 28: Close test (not a strict deadline, priority is getting enough participants recruited)
 	
 ## Team Roles	
 Moderator: Jina Ryu
