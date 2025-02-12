@@ -101,13 +101,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 > I would click on it—just a second. Yeah, I’d click on it, just to make sure and see what happens. Honestly, I would. OK, so I clicked on it. Alright, now I’ll go to... It’s in progress. It’s received. I’ll scroll down as well. Yeah, just curious. I’m just checking things out, scrolling down a bit more. Scrolling down a bit more. OK, alright. Now, I’ll scroll back up to take another look. Scrolling back up. A little more, one more. OK, I’ll go to "Overview" since I see it’s been submitted. I just wanted to check "Overview" to make sure everything looks right. So, when we clicked this to check the document submission status, it brought us here.
 
 * Is this what you expected to see?
-> NOTES
+> Yeah, yeah. No! I see a copy of my DD214. Oh, but that's just a simulation, right? Yeah. OK. Yeah, yeah. So that should be fine because you have the right date on there. It shows that I submitted it, and it's marked as in progress. As long as I know you received it, I’m satisfied.
 
 * What do you think this card is trying to communicate (referring to the submission in progress card)?
-> NOTES
+> Oh, just what I submitted and the date I submitted it. and my submissin is in progress it's not fully submitted, i jnow you guys got it so I'm good with it honestly. 
 
 * Can you describe the relationship between the confirmation message and the "submission in progress" card?
-> NOTES
+> yeah.. well this one says it'll take us 2 days to received your sumibttions (referrgint to green alert) it doesn't say it down there. But why does it says it's in progress? Oh that's it... its says it's in progress. Yea that would be fine. As long as it is has the same date on there. I don't see anything wrong with that. 
 
 
 **PROMPT:** Let's pause and imagine you come back later in the day to check on your uploaded.
@@ -115,22 +115,39 @@ Before we look at the website, let’s start with a few warm-up questions.
 [Click on the name "Hector" on the top-right hand corner of the page]
 
 * If you wanted to check the status of the claim where would you click?
-> NOTES
+> ummmm... well.. ugh.. scroll down. yea, I would click on details to see everything. Because it say is in progress, just to see. 
 
 [Click on "Details"] 
 * Where would you go to check the progress your uploaded document?
-> NOTES
+> Scroll down... I would check the overview of the process, to see everything that I have submitted and an idea of how far along I am—like, for example, how close I am to step four. See everyting that was  submitted and trying to guestimate if I’m closer to step four.
+> Well, there really wouldn’t be anything else I could do until the "in progress" gets done (referring to the status page "in progress tag).
+> Moderator: OK. And you’re saying there’s nothing you can do at this point? So, you’re referring to the "in progress" status?
+> Yea that in progress you have to wait until it process then I would come back and see if it processes after 2 days.
+> Moderator: what do you think this in progress is referring to?
+> ughh the file I just submitted.
+> Mod: i'll direct us to the files page and scroll down for you (to the documents received section).
+> **Note**: He thinks the in progress tag on the status page is referring to the file he just submitted
 
 [Click on "Files tab"] 
 
 * Describe what happened here? (Prompt them to scroll up and down. If they haven't.)
-> NOTES
+> ok.. see that's what's confusing right there. that received January 16th (newSupportingDocument.pdf), then the review and and review by VA and see all of that would be confusing because those dates.
+> Let me see...Wait a minute. Oh no... Oh yeah... I would be clicking on all that, to be honest with you. (referring to the individual files in documents received) whaterver I can click on to see what they have, what tehy're doing.
+> But I see the NewSuportingDocument.pdf.  It doesn’t say "pending review" or nothing though, and it doesn’t have a green checkmark or anything.
+> Mod: Do you recognize this file, the new supporting document?
+> Yes, I do. I remember—that’s the file we submitted, correct?
+> Mod: So can you describe what happened with this file?
+> Yeah, I've submitted my document. It just said it was received on the 16th, but it doesn't say its been review or in progress. I wouldn't know anything about that. i would just call and see if they got it or not.
+> See that's what..see, that's what would be confusing you. I know these are files you submitted, but none of these have it (status). There's only one that's been reviewed. So and one being 1 pending review. It would just be confusing to me that whole scenario. you don't know what you received or didn't received... you don't know. 
+
 
 * When you look at the other files listed, some have a status while others don’t. What do you think is the difference between these files?
-> NOTES
+> yea that would be really confusing to me. well I know, 1 says newSuportdocument. and one says copy of DD214. andother says the same thign at the bottom. I submitted it one month then submitted it again. why? Honestly it'sall confusng.
+> The whole, the whole thing would be confusing, OK, because I don't know if I don't know if you could click on any of that to see what's going on with it, 'cause you you'd be, you'd be wondering, OK, So what happened to this do what happened to the one on the 15th?
 
 * Would you expect to see statuses on all of these files?"
-> NOTES
+> that would be frustating, it really would because you don't know nothing. If it was more uniform with the checkmarks, it would be a whole lot easier. I would have to pick up the phone and call VA to ask them what's going on. 
+
 
 * What would you do next?
 > NOTES
