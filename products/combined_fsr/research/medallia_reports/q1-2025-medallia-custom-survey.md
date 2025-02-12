@@ -44,6 +44,7 @@ Open text field provided.
 **186 Responses total**
 
 **Everything is fine, no suggestions**
+
 Approximately 44 Responses 
 
 Most responses included "None" and "N/A".
@@ -57,6 +58,7 @@ Most responses included "None" and "N/A".
 > "None, please make more things available online like this for easier access and completion."
 
 **Suggestions for Improvement: FSR Form-specific**
+
 Approximately 33 Responses
 
 - Expenses
@@ -84,6 +86,7 @@ Approximately 33 Responses
 > Easier text to read and a guidance of the way the form is filled out
 
 **FSR Form Bugs**
+
 Approximately 12 Responses 
 > "The section about prior employment wouldn't let me input dates. I also had to try and submit the request 5 different times. It kept telling me I couldn't do it and there was an issue on the VA's end of things"
 
@@ -102,6 +105,7 @@ Approximately 12 Responses
 
 
 **Service Design**
+
 Approximately 12 Responses 
 >"I wish I could fill 5655 once a year and not have to submit every month to request relief. My income doesn't change and a complete waste of resources."
 
@@ -117,7 +121,9 @@ Approximately 12 Responses
 
 
 **Sitewide**
+
 Approximately 3 Responses  
+
 All related to findability
 > "The form is difficult to find. Also this request was made previously but nowhere to be found. No place to find results of a request. Had previously also requested to have copays lowered. No way to find the answer or if was even received."
 
