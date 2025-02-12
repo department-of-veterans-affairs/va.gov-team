@@ -4,8 +4,8 @@
 ## Engineering
   - Alison Jones
     - 0781 Paper Sync
-      - Scope change -Behavior list [3.12] destructive action modal _(blocked by the spike for how to remove persitent data) _
-      - Scope change -Behavior combat intro [3.11] destructive action modal _(blocked by the spike for how to remove persitent data) _
+      - Scope change -Behavior list [3.12] destructive action modal _(blocked by the spike for how to remove persitent data)_
+      - Scope change -Behavior combat intro [3.11] destructive action modal _(blocked by the spike for how to remove persitent data)_
       - Behavioral description pages content
       - Behavioral summary content
    
@@ -26,7 +26,7 @@
     - 0781 paper sync
       -  Scope change - Traumatic events Official Report (no MST Events) [3.9] 
       -  Scope change - Traumatic events Official Report (with MST Events) [3.9]
-      -  Scope change - Traumatic events Official Report are you sure modal - _(blocked by the spike for how to remove persitent data) _
+      -  Scope change - Traumatic events Official Report are you sure modal _(blocked by the spike for how to remove persitent data)_
       -  Scope change - Limiting the number of events message
       -  Update JSON schema for events official reports
       -  Scope change - Deleting an event message (when there is only one event)
@@ -37,11 +37,12 @@
     - Spike - removing data after a selection destructive action confirmation alerts
     - Scope change - yes/no prompts for receiving treatment at VA facility 	
     - Scope change - yes/no prompts for receiving treatment at private facility	
-    - Scope change - update file list on evidence upload page	- _currently blocked, waiting on OCTO for a requirement _
+    - Scope change - update file list on evidence upload page	(_currently blocked, waiting on OCTO to confirm a requirement_)
 
 ## Research and Design
 [Sprint 49 Goals](https://dsva.slack.com/docs/T03FECE8V/F07N6EH4EUE)
-_Onboarding of Qian is blocking the protype work as she needs write access to Figma and her request has not been approved yet_
+
+_Onboarding of Qian is blocking the prototype work as she needs write access to Figma and her request has not been approved yet_
 
 ## Sumary
 Upon reviewing the scope of the 0781 Paper Sync initiative, it was proposed that the team should explore options for modifying the existing minimal viable product (MVP). The team did some revisions to the designs and flow and came up with a solution that we'll work on this sprint. 
