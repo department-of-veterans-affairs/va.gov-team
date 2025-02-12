@@ -1,7 +1,7 @@
 # IA Design for CHAMPVA OHI (Other health insurance) Supplemental form 7959c
 **STATUS: Final**
 - 7/14/2024 - Draft complete KOM
-- 1/28/2025 - Finalized MN
+- 2/12/2025 - Finalized MN
 
 **Team:** IVC Forms
 **Tickets:** 
@@ -15,10 +15,10 @@
 - [User/page flows](#flows) *(Updated 2/10/25)*
 - [Page structure](#map) *(Updated 2/10/25)*
 - [URLs and breadcrumbs](#url) *(Updated 1/28/25)*
-- [Entry points](#nav) *(Updated 1/28/25)*
+- [Entry points](#nav) *(Updated 2/12/25)*
+- [Best Bets](#bestbets) *(Updated 2/12/25)*
 - [Redirects](#redirects)
-- [Best Bets](#bestbets) *(Updated 1/28/25)*
-- [Staged Rollout](#stagedrollout)
+
 
 
 ## <a name="flows"></a>Navigation flows <br>
@@ -58,24 +58,24 @@ Notes:
 
 ### Required entry point(s)
 
+1. [CHAMPVA benefits page](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/)
+    - Description:
+      - Placement on page to be determined by content team 
+      - If a staged roll-out is planned, this page will house the flipper
+    - Link label: Supporting content and link label to be determined by CAIA content
+    - Link destination: /family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c/
+
+
+
+![Mock-up of left nav showing new menu item](https://github.com/user-attachments/assets/f4114e77-c458-4bec-ad8e-0b34087c2cd2)
+
+### Other key entry points (post-launch)
+
 1. Family benefits hub left nav
     - Placement description:
       - Nested under Health and disability benefits > CHAMPVA
       - The second link under CHAMPVA in the family member hub left nav
-    - Link label: Sumbit other insurance
-    - Link destination: /family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c/
-
-![Mock-up of left nav showing new menu item](https://github.com/user-attachments/assets/f4114e77-c458-4bec-ad8e-0b34087c2cd2)
-
-### Other key entry points
-
-1. [CHAMPVA benefits page](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/)
-  <br> *This can be an alternative to the required entry point in the left nav. Either the left nav or the on page link need to be in place with launch so visitors can navigate to the form.
-    - Placement description:
-      - Under the "Supporting documents for your application" section
-      - In the accordion titled "If you have other health insurance (including Medicare)
-      - Add supporting content an a link to the OHI form
-    - Link label: Supporting content and link label to be determined by CAIA content
+    - Link label: TBD based on H1 of page
     - Link destination: /family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c/
 
 2. [CHAMPVA application confirmation page](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/) 
@@ -100,16 +100,12 @@ No redirects because this online form does not exist yet
 ## <a name="bestbets"></a>Best Bets<br>
 *(Updated 1/28/25)*
 
-Existing/New | URL  | Title  | Description | Keywords | Notes  
---- | --- | --- | --- | --- | ---
-Existing | https://www.va.gov/find-forms/about-form-10-7959c/ | Reporting Changes for Your 10-10d Application (VA Form 10-7959c) | Use VA Form 10-7959c when you are applying for CHAMPVA and need to declare changes as part of your VA Form 10-10d application. | 10-7959c, form 10-7959c, va 10-7959c, va form 10-7959c | Update this best bet to direct users to the online form rather than the "About form" page.  Update title and description.  Review keywords. 
+- There are currently 4 best bets related to CHAMPVA in place.  These best bets should be reviewed against guidance, and updated or removed as appropriate. 
 
-## <a name="stagedrollout"></a>Staged Rollout<br>
-*Is the team planning a staged rollout? Pages/sections that can't have a widget: find a form pages, within accordions, hub pages*
+![image](https://github.com/user-attachments/assets/528ec22c-5ef1-476d-b1e2-cf6d8d805303)
 
-Yes, team is planning staged rollout.
 
-**[Which static page has the widget, ie the main entry point?]**
+
 
 
 
