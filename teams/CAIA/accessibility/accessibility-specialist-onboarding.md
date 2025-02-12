@@ -184,7 +184,7 @@ Meeting Name | About | Frequency | Joining
 **VA Accessibility Specialist Weekly Sync** | All accessibility specialists meet for community support and to discuss group topics | Thursdays at 1:00 ET | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [accessibility weekly sync Zoom call](https://adhocteam-us.zoom.us/j/89015804002?pwd=WCtWaUt4eWtETThVQ3VSTzFmendtQT09). 
 **VA Accessibility Specialist Office Hours** |`Optional` accessibility specialist only calls for us to support one another | Fridays at 11:00 a.m. ET | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [accessibility office hours Zoom call](https://adhocteam-us.zoom.us/j/85623586331?pwd=SEFhUUFzckMyN2RXSXA0STFseVZIdz09).  
 **VA.gov 508 Monthly** |Opportunity to chat with folks from VA 508 Office, Veterans from Blinded Veterans Association and National Association of Blinded Veterans | 3rd Wednesday at 4:00 ET | [Request to join by reaching out to Martha, OCTO's accessibility lead](https://dsva.slack.com/archives/D04NHP2FGEP) 
-**CAIA Office Hours** |The CAIA team holds office hours every Tuesday at 4:00 ET. If you're on a product team and want any content, information architecture, or accessibility feedback, chat with CAIA!| Tuesdays at 4 p.m. ET | [Sign up for a time slot](https://dsva.slack.com/docs/T03FECE8V/F06JTSH7CHZ) on CAIA's Canvas. 
+**ADE Office Hours** |To be determined
 
 </details>
 
@@ -201,13 +201,12 @@ Meeting Name | About | Frequency | Joining
 - Please keep your Slack profile up to date. It helps us know who you are, what you do, and what team you work on.
 - Follow these [Slack profile guidelines](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile).
 
-#### Channels
+#### Channels and handles
 The following channels are a must-join for accessibility specialists at VA.gov.
 
 - [#accessibility-specialists](https://dsva.slack.com/archives/C0335Q88X0S) (private channel for accessibility specialists) ⭐♿
 - [#accessibility-ops](https://dsva.slack.com/archives/C023ZKDJJK1) (public channel for accessibility champs and other accessibility fans)
-- [#accessibility-help](https://dsva.slack.com/archives/C8E985R32) (general requests for accessibility help, join post-accessibility training)
-- [#sitewide-content-accessibility-ia](https://dsva.slack.com/archives/C01K37HRUAH) (the public CAIA channel)
+- [#accessibility-help](https://dsva.slack.com/archives/C8E985R32) (general requests for accessibility help, and home of the ADE team)
 
 These channels aren't required, but we recommend you join them. They'll give you visibility into different disciplines at VA.gov, along with the platform itself:
 - [#platform-design-system](https://dsva.slack.com/archives/C01DBGX4P45) (VA.gov's design system is at [design.va.gov](https://design.va.gov/)) 
