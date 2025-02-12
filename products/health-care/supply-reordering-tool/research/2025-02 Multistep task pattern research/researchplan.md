@@ -35,9 +35,7 @@ This research will validate the usefulness of the pattern for routine tasks and 
 1. The average time to complete tasks will be lower on the new pattern. 
 2. The task success rate will be greater on the new pattern. 
 3. A higher proportion of Veterans will find the new pattern to be more intuitive and satisfying than the old experience. 
-4. The old pattern will produce higher rates of distrust in VA digital services than the new pattern. 
-5. Veterans expect to complete routine tasks quickly and in one session, rather than expecting to leave and come back to the task.  
-6. Veterans who are used to fill out forms on VA.gov may find the new pattern surprising and too short. 
+4. Veterans expect to complete routine tasks quickly and in one session, rather than expecting to leave and come back to the task.  
 
 ## Methodology	
 Unmoderated A/B prototype testing using Optimal Workshop's prototype testing feature. We will publish 2 tests: one with version A (form pattern) and one with version B (multistep task pattern). Both tests will ask the same questions, but will have different prototypes. We will use SPSS or R studio for analysis. 
@@ -76,8 +74,8 @@ Total sample size will be 220. Recruitment will be ongoing until all cohorts are
 	
 	b. No (exclude) 
 
-2. In the past 12 months, how often did you complete one or more of these tasks on VA.gov?  
-Tasks: Refilling prescriptions, scheduling an appointment, reordering medical supplies, sending a message to your doctor 
+2. In the past 12 months, how often did you complete one or more of these tasks on My HealtheVet?  
+**Tasks:** Scheduling an appointment, sending a message to your doctor, refilling VA prescriptions, reordering medical supplies
 
 	a. Once a week (recruit 120 between a and b)  
 	
