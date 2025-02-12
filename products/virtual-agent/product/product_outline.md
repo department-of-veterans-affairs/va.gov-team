@@ -34,14 +34,12 @@ The areas we address:
 Up until now, the bot has been trained in the following pages for general knowledge questions: 
 
 * Healthcare
-* Disability
 * PACT
 * Authentication
-* Compensation claims and appeals
-* Decision Letters
+* Compensation claims 
 * Sign-in Support
 
-Our current feature in progress is the [Prescriptions Skill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md) in partnership with OCC with the goal of allowing Veterans to list, track, and refill their prescriptions through the Chatbot. This feature is set to have a preliminary launch in October of 2023 and a Health Chat MVP launch by January 2024.
+One of our valuable features, the [Prescriptions Skill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md) built in partnership with OCC, allows Veterans to list, track, and refill their prescriptions through the Chatbot.
 
 ###  Analytics
 * [VA Chatbot DOMO Dashboard](https://va-gov.domo.com/page/939649897?userId=111029849)
@@ -69,8 +67,10 @@ The VA Chatbot measures KPIs through Google Analytics and our dashboard on DOMO.
 
 ### Release Plan
 
-Upcoming releases: 
+Recent releases: 
 - Sunsetting Skills - Appeals, Decision Letters and Disability Claims: February 2025
+
+Upcoming releases:
 - Ubiquitous bot - First pass: March 2025
 
 PoV Launch: June 2021
