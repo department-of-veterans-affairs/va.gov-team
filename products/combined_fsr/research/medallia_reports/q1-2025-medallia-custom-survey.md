@@ -7,7 +7,9 @@ This is a look back at all of the responses for the 6 questions on the  FSR cust
 ## 1. I was able to easily complete this form online.
 
 **193 Responses**
+
 **Mean: 3.92**
+
 **Median: Agree (4)**
 
 |Score|Response|# of Responses|
@@ -43,7 +45,9 @@ Open text field provided.
 
 **Everything is fine, no suggestions**
 Approximately 44 Responses 
+
 Most responses included "None" and "N/A".
+
 >"Nothing to say. Everything is good"
 
 > "I think is quite straightforward and easy to use ."
@@ -122,7 +126,9 @@ All related to findability
 ## 4. I would recommend completing this form online instead of paper to another Veteran?
 
 **171 Responses**
+
 **Mean: 4.19**
+
 **Median: Strongly Agree (5)**
 
 |Score|Response|# of Responses|
@@ -138,8 +144,11 @@ All related to findability
 ## 5. General VA Trust
 
 **169 Responses**
+
 **Mean: 3.83**
+
 **Median: Somewhat increased my trust (4)**
+
 |Score|Response|# of Responses|
 |--|--|--|
 | 1 | Decreased my trust | 12 |
@@ -151,8 +160,11 @@ All related to findability
 
 ## 6. Trust in VA Commitment to Veterans
 **167 Responses**
+
 **Mean: 3.78**
-**Median:: Modest level of trust (4)**
+
+**Median: Modest level of trust (4)**
+
 |Score|Response|# of Responses|
 |--|--|--|
 | 1 | High level of distrust | 16 |
