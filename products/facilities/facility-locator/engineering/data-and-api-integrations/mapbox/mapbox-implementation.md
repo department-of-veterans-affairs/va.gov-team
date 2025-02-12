@@ -53,6 +53,17 @@ export const mapboxToken =
 ```
 ☝️ This is what is sent to the browser.
 
+## Facility Locator location search
+In Mapbox there are `place_types`, and [their docs](https://docs.mapbox.com/api/search/geocoding-v5/#geographical-feature-types) spell out what each of these means in API terms. We currently (2/2025) limit `place_type` to matches on:
+
+place_type | Mapbox definition
+--- | ---
+`place` | "Typically these are **cities**, villages, municipalities, etc. They’re usually features used in postal addressing, and are suitable for display in ambient end-user applications where current-location context is needed (for example, in weather displays)."
+`region`| "Top-level sub-national administrative features, such as **states in the United States** or provinces in Canada or China."
+`postcode`| "Postal codes used in country-specific national addressing systems."
+`locality` | "Official sub-city features present in countries where such an additional administrative layer is used in postal addressing, or where such features are commonly referred to in local parlance. Examples include city districts in Brazil and Chile and arrondissements in France."  (Notably does not include LA parishes.)
+`country` | "Generally recognized **countries** or, in some cases like Hong Kong, an area of quasi-national administrative status that has a designated country code under ISO 3166-1."
+
 
 ### Previous discovery / notes
 - [March 2022: Mapbox Predictive Search Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/discovery/predictive-geolocation-discovery.md)
