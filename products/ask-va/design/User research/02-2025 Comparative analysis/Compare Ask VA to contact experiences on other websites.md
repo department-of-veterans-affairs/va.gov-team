@@ -27,8 +27,8 @@ This will help us articulate the things we like or don’t like and which direct
 
 I reviewed the following contact experiences:
 - [GOV.UK/Contact](https://www.gov.uk/contact)
-- [USAJOBS.gov Help Center](https://help.usajobs.gov/how-to)
 - [Government of Canada Contact Us](https://www.canada.ca/en/contact.html)
+- [USAJOBS.gov Help Center](https://help.usajobs.gov/how-to)
 - [Con Edison Contact Us](https://www.coned.com/en/contact-us)
 - [National Grid Contact Form](https://www.nationalgridus.com/NY-Home/Contact-Us/)
 - [RNID Contact Us](https://rnid.org.uk/about-us/contact-rnid/)
@@ -37,12 +37,16 @@ I reviewed the following contact experiences:
 
 ### If Ask VA worked like GOV.UK/Contact
 
-- VA.gov would have specific contact pages set up for each service. These are different to the hub or information pages for each service. (This is similar to Government of Canada.)
-- For example, there would be a contact page for Education benefits and work study. And a contact page for Life insurance.
-- You would navigate to the Life insurance contact page, and it would include links to information or tasks, followed by contact information.
-- We would direct people to contact via phone, mail, chatbot or complete a task online. Whenever possible, we would direct people to complete tasks.
-- The only contact form we might have would be a form to contact VA.gov about website issues. You wouldn't need to sign in, there would be 3 fields, and you have the option to receive a reply or not. You don't receive a reference number and it's not clear how long it takes to receive a reply.
-- Some services may have their own contact tool which looks like a form but it's not something you submit. For example, if NCA had a contact tool, the first question would ask, "How can we help you today?" with about 7 options (like topics). Your answer would direct you to a follow-up question or eventually a page with information about tasks and contact details for NCA.
+- VA.gov would have specific contact pages set up for each service. These would be different to hub or information pages.
+- For example, there would be a contact page for education benefits and work study and a contact page for life insurance.
+- The life insurance contact page would have links to information or tasks followed by contact information.
+- People would be directed to get in touch via phone, mail, chatbot or complete a task online. Whenever possible, they would be directed to complete tasks.
+- The only contact form we may have would be a form to contact VA.gov about website issues. You wouldn't need to sign in to use it. There would be 3 fields and you would have the option to receive a reply or not. You would not receive a reference number and it wouldn't be clear how long it takes to receive a reply.
+- Some services may have their own contact tool which looks like a form, but it's not something you submit. For example, if NCA had a contact tool, the first question would ask, "How can we help you today?" with around 7 options. Your answer would direct you to a follow-up question or eventually a contact page for NCA that also includes tasks.
 - Whether you are authenticated or not, your contact experience would be the same. However, you do need to sign in to complete certain tasks, like file taxes.
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/1-GOV.UK.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/GOV.UK.png)
+
+### If Ask VA worked like Government of Canada Contact Us
+
+Then: 
