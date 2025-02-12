@@ -48,7 +48,7 @@ The form updates will be broken into two phases to expidite improvements to the 
 ### The phase 2 release plan will need to consider the following use cases:
 1. Applications In-Progress
    - After 100% release:
-      - If users are in an active session, they will be taken back to the start of the form and any data they entered on v1 of the form will be migrated to v2. The users will then review their data on v2 of the form and finish completing their v2 submission.
+      - If users are in an active session, they will be taken back to the start of the form and any data they entered on v1 of the form will appear in the new v2 form. The users will then review their data on v2 of the form and finish completing their v2 submission.
 2. Applications Not Started
    - After 100% release
       - Users will complete v2.
@@ -67,7 +67,7 @@ The form updates will be broken into two phases to expidite improvements to the 
 1. Form field updates on some pages
 2. Form component updates (v1 to v3)
 3. High-priority accessibility updates (level 0-2)
-4. Info alert on the form information page letting new users or in-progress users who were migrated to v2 know that the form has been updated.
+4. Info alert on the form information page letting in-progress users who were redirected back to the start of the form that the form has been updated and they need to review the info they've already entered.
 5. Udpated confirmation page to show submission status to Veteran.
 7. New submission in-progress email to notify Veteran their submission is in-progress.
 8. Updated "claim received" (aka confirmation email) notifying Veteran that their submission was suceessful.
