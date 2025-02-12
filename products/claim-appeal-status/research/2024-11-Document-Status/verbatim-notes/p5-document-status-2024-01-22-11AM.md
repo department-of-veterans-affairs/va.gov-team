@@ -68,8 +68,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 * Now tell me what you see here. (Prompt them to scroll up and down.)
 > ok..yea ook.. claim files.. additional evidence.. ok yea, I can see a lot better. I figured it would be in files. yea. ok yea...
->  I would keep scrolling down if I dno't have anything to upload. I see they have my documents, cross my T and dot my eye. I see they revieed my files. pending reviewd.  some files haven't been reviewed. that's what I'm looking for. I'm wondering why it haven't been revieed. the copy of DD214 says it wasnt reviewed, that looks like it should be reviewed. . the evided PDF (5103) was reviewed but why hasn't the other stuff been reviewed. I see the other see if the veteran stuff is left pending., tbut the dd214 was left with no review. that was submitted on the 15th but the other file was (5103) was esubmitted on the 16th (of december) that was reviewed why not the other one. Som that's sconfusing.
+
+>  I would keep scrolling down if I dno't have anything to upload. I see they have my documents, cross my T and dot my eye. I see they revieed my files. pending reviewed.  some files haven't been reviewed. that's what I'm looking for. I'm wondering why it haven't been revieed. the copy of DD214 says it wasnt reviewed, that looks like it should be reviewed. . the evided PDF (5103) was reviewed but why hasn't the other stuff been reviewed. I see the other see if the veteran stuff is left pending., tbut the dd214 was left with no review. that was submitted on the 15th but the other file was (5103) was esubmitted on the 16th (of december) that was reviewed why not the other one. Som that's sconfusing.
+
 > moderator - it sound like you expecting every file say reviewed at soe point?
+
 > Yea, you would figure it wouldbe more uniform like it'd be check. That would be confusing, because, as you can see right here, it was submitted on the 15th. That hasn’t been reviewed. But the one on the 16th Has got the green mark, and you got the one that’s pending. It doesn’t even say anything about the DD214, except that it was received on December 15th. Yeah, that makes a lot of sense that that will be complete.
 
 * Is there anything that is particularly useful about what you see here?
@@ -95,7 +98,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 [Participant completes the File upload]
 
 * How would you explain this message to a friend?
-> > Oh it tell me how to check the document submission. It takes up to two days to receive the document. Yeah, that’s cool. OK, that’s cool.
+> Oh it tell me how to check the document submission. It takes up to two days to receive the document. Yeah, that’s cool. OK, that’s cool.
 
 * If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)
 > I would click on it—just a second. Yeah, I’d click on it, just to make sure and see what happens. Honestly, I would. OK, so I clicked on it. Alright, now I’ll go to... It’s in progress. It’s received. I’ll scroll down as well. Yeah, just curious. I’m just checking things out, scrolling down a bit more. Scrolling down a bit more. OK, alright. Now, I’ll scroll back up to take another look. Scrolling back up. A little more, one more. OK, I’ll go to "Overview" since I see it’s been submitted. I just wanted to check "Overview" to make sure everything looks right. So, when we clicked this to check the document submission status, it brought us here.
@@ -132,17 +135,25 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 * Describe what happened here? (Prompt them to scroll up and down. If they haven't.)
 > ok.. see that's what's confusing right there. that received January 16th (newSupportingDocument.pdf), then the review and and review by VA and see all of that would be confusing because those dates.
+
 > Let me see...Wait a minute. Oh no... Oh yeah... I would be clicking on all that, to be honest with you. (referring to the individual files in documents received) whaterver I can click on to see what they have, what tehy're doing.
+
 > But I see the NewSuportingDocument.pdf.  It doesn’t say "pending review" or nothing though, and it doesn’t have a green checkmark or anything.
+
 > Mod: Do you recognize this file, the new supporting document?
+
 > Yes, I do. I remember—that’s the file we submitted, correct?
+
 > Mod: So can you describe what happened with this file?
+
 > Yeah, I've submitted my document. It just said it was received on the 16th, but it doesn't say its been review or in progress. I wouldn't know anything about that. i would just call and see if they got it or not.
+
 > See that's what..see, that's what would be confusing you. I know these are files you submitted, but none of these have it (status). There's only one that's been reviewed. So and one being 1 pending review. It would just be confusing to me that whole scenario. you don't know what you received or didn't received... you don't know. 
 
 
 * When you look at the other files listed, some have a status while others don’t. What do you think is the difference between these files?
 > yea that would be really confusing to me. well I know, 1 says newSuportdocument. and one says copy of DD214. andother says the same thign at the bottom. I submitted it one month then submitted it again. why? Honestly it'sall confusng.
+
 > The whole, the whole thing would be confusing, OK, because I don't know if I don't know if you could click on any of that to see what's going on with it, 'cause you you'd be, you'd be wondering, OK, So what happened to this do what happened to the one on the 15th?
 
 * Would you expect to see statuses on all of these files?"
@@ -175,9 +186,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 * What do you think this alert is communicating?
 > I'm missing something... then its teling me, after I review it, it's going to go away. Where woudl it go to? Do I get a copy of it?
+
 > Mod: what are you reffring to as it?
+
 > the essage that is up there. but my cliam details.. after we finishing reviewing your response. What response? That's why I would go to details to try to figure out. But I would be scare to go to details because i might erase something. its confusing
+
 > Mode: this part goes away is confusing and the word response?
+
 > yea, are they talking about the whole blue (referring to the blue alert). or will the request go way? what will go away?
 
 * Based on the text in this alert, when you upload your file, when do you expect the alert to disappear?
@@ -215,11 +230,17 @@ Before we look at the website, let’s start with a few warm-up questions.
 * Describe what you’re seeing here. Remember to think aloud as you do.
 > NOTES
 * In your own words, how would you describe what's being communicated?
-> Its asking records from private medical doctors, personal informaiton, medical treatm, psychotherapy.. yea that makes sense.
+
+> Its asking records from private medical doctors, personal informaiton, medical treatment, psychotherapy.. yea that makes sense.
+
 > what does that say about VA form? is it going to tell me about it or is that what I can download?
+
 > Mod: what's your instncts
+
 > its just goign to tell me about the form. it doens't tell me about to download it. It's about thhe form but it's not the form.
+
 > Mod: OK, so it so it sounds as though you're saying that this link will take you to read more about the form, but it doesn't necessarily tell you you're about to download the form.
+
 > well you see it says you the "download the form to fill it otu online but the link suggests it will just tell me about it. but I would click the link anyway to see. 
 
 * If you wanted to upload your response, how would you go about it?
@@ -236,24 +257,29 @@ see when the submission started Jan 19, 20205. I see it is in progress. and chli
 
 * If we were not here, what would be your next step? (Prompt them to scroll up and down. If they haven't.)
 > OK, I see it's documented. The submission started on January 19, 2025. I'd click checked the status of the document. I know it's in progress. I'm telling you, I would just checked. I'm pretty sure I'm not the only one who would say that, but I would definitely check as well.
+
 > Mod: Alright, so I'll go ahead and click that for you.
+
 > OK, scroll down and see what happened—if any evidence was added or anything else after all.
-> Mod: Oh, sorry, did I scroll down too quickly?
-> No, no, you're good. You're right where I need you to be (looking at the "submissions in progress" section on the files page).
-> And that's what I'm looking for—to make sure the authorization for release of information is in there. that's the main thing I'd be looking for. 
-> i see the otner forms down there (document recevied section) it says pending. Yes, its stil lconfusing, those files were submitted but it looks like they reviewed one thing and those files are just stiting there.
-> ok scroll down let's see if there's more I can do. then scroll up at the top. I would go to overview to check eveyrthing. I's are dotted T's are crossed. I would go to status. then files, scroll down to see if its still in progress.
-> the only thing that would confusing me (in document status) that green check mark is confusing me. I would think other people will think that as well.i 'm looking at the green check mark and wondering why the other files dont have anything.
 
 [Click on the alert, "Check the status of your document submission"]
 
 **PROMPT**: Please scroll down to the "Documents" section. In this prototype, the page won’t scroll there automatically, but that’s the intended behavior in the final version.
 
 * Is this what you expect to see?
-> NOTES
+> Mod: Oh, sorry, did I scroll down too quickly?
+
+> No, no, you're good. You're right where I need you to be (looking at the "submissions in progress" section on the files page).
+
+> And that's what I'm looking for—to make sure the authorization for release of information is in there. that's the main thing I'd be looking for. 
+
+> i see the otner forms down there (document recevied section) it says pending. Yes, its stil lconfusing, those files were submitted but it looks like they reviewed one thing and those files are just stiting there.
 
 * What would you do next?
-> NOTES
+> ok scroll down let's see if there's more I can do. then scroll up at the top. I would go to overview to check eveyrthing. I's are dotted T's are crossed. I would go to status. then files, scroll down to see if its still in progress.
+
+> the only thing that would confusing me (in document status) that green check mark is confusing me. I would think other people will think that as well.i 'm looking at the green check mark and wondering why the other files dont have anything.
+
 
 #### Things to watch for:
 
@@ -270,55 +296,72 @@ see when the submission started Jan 19, 20205. I see it is in progress. and chli
 [Click on the name "Hector" on the top-right hand corner of the page]
 
 **PROMPT**: Take a moment to review this page.
+> can't process the document that was submitted. Well.. why not!
 
 * What are you feeling when you see this?
-> NOTES
+> it says there was a problem, now i have to investiagate. why not? did I do something wrong?
 
 * In your own words, describe what is being communicated.
-> NOTES
+> scrolls down.. by mail.. by person? I couldn't re-submit it no where?
 
 * Why do you think you are receiving this email?
 > NOTES
 
 * What would you do next?
-> NOTES  
+> I would click on "find" a VA regional office near you.
+
+> I can't submit it (online) it saying I can't submit it
 ⠀
 I want you to explore the available options as if you were on your own and viewing the actual page.
 
 * Which option do you prefer and why?
-> NOTES
+> It depends, if i'm closer i would go in person, if not, I'd probably mail it.
+
+> I would click "Find VA reginoal office" to see how close it is to me and I would weigh my options.
+
+> Mod: so why would doing it in person, assuming that there is one close to you, why would doing it in person appeal to you more? 
+
+> I want to give to a personal person. I'd rather hand deliver it or, you know, know that they got it cause the mail always can mess up and the mail's always running late. And as we know being in America, it's always a problem with the mail.
 
 ### Part 2 F: Return to VA.gov - 3 minutes
 
 [Click on the "exit" button on the top-right hand corner of the page]
 
 **PROMPT**: Now we’re logged back into the VA website to see your claim.
+
 Without clicking anything, take a moment to review the page. Remember to think aloud as you scroll up and down.
 
 * If you want to know more about this alert, what would you do?
-> NOTES
+> scroll up just a bit. 3 of 8 evidence gatheering. move to decebmer 30... ok i would go to details because I need to resubmit i'm curious to know what's going on with it.
 
 ### Part 2 G: Status page - Resubmit Error - 10 minutes
 
 * Describe what you think this alert is telling you.
-> NOTES
+> i see its telling me we need more information. and there's a problem witht he system. I know i didnf t do it so there's gotta be a relieft. I see there's a new form.
+
+> autohriozation to release of infomraiton (reading the documet type listed in the alert (e.g. new-va-21-4142.pdf) and reads the linked request title, authorizationt o disclose information)
+
+> Honeslty I would click on both links: the authorization to discose request type to be nosey. i'm expecting to see the form I filled out. then I would click "learn how to resumibt the doucment by mail" 
 
 * What do you think is the relationship between what you're seeing here and what you saw in your email? 
   * [If needed for reference click the “reference email” button]
   * [Click the email logo to return to previous screen]
-> NOTES
+> the email that you just showed me? its the same... I need to submit. it s gave me the the information at first. I just waent in there to look more in depth. but I would pay attention to that "we need to you sesumit a doucment" they way you have it out there is really good. 
 
 * What do you expect to happen if you click the "X" button on the alert? 
-> NOTES
+> Alllll of that's going to go away. the whold orange thing, everyting in the orange
+**Note**: he's referring to the alert as orange but it's a red alert
 
 * If you sign out and then sign back in a few days later, would you expect to see this alert again?
-> NOTES
+> No. they took it off.
 
 * Is there anything in the alert you're not seeing that you wish was there?
-> NOTES
+> well.. they couldn't because of the system and you're telling me that I need to submit it by person or by mail?
+
+> but why do I need to "learn how to submit document by person or mail" they just told me. is this a reminder? that's how I would look at it. 
 
 * What would you do next?
-> NOTES
+> Note: he would click the "learn how to submit"..
 
 #### If they say click on the files page
 
@@ -330,7 +373,6 @@ Without clicking anything, take a moment to review the page. Remember to think a
 
 * If you wanted to resubmit your documents what would you do?
 > NOTES
-
 * [click the CTA to resubmit documents]
 ⠀
 #### If they chose learn how to resubmit document
@@ -343,13 +385,26 @@ Without clicking anything, take a moment to review the page. Remember to think a
 * What do you think is the relationship between what you're seeing here and what you saw in your email? 
   * [If needed for reference click the “reference email” button]
   * [Click the email logo to return to previous screen]
-> NOTES
+
+> oh that's what I'd bee looking at. its already submitted the document the date it failed.. I would scroll down to see how to resubmit your document. 
+
+> Like I said, I would find a regional office near me. see if there's one and weigh my options.
+
+> then I would go down to read "how to confirmed we received".. yea that's about right. 
 
 * How likely are you to re-upload the document instead of sending a physical copy?
-> NOTES
+> I'd rather re-upload my document. I wish they had a way you can re-upload because mailing or going in person is extremly inconviennt.
 
-* What do you think will happen after you submit your document using one of these options?
-> NOTES
+> Mod: So if we were not here, right, like if you're getting this in real life, would you try to re-upload it or would you just try to send the copies like the first time around once you see this message?
+
+> I wouldn't even waste my time trying to re upload it.
+
+> Mod: you'll just go ahead and send copies in?
+
+> yea, just plain and simple. It's just cut to the chase. I wouldn't try to re-upload it, it wouldn't make sense. 
+
+* What do you think will happen after you submit your document using one of these options? 
+> I would expect it to tell me what the process is. If i logged out. I would come back to see that you guys got it for sure. To let me know it's been verified. 
 
 #### Things to watch for:
 
@@ -361,22 +416,38 @@ Without clicking anything, take a moment to review the page. Remember to think a
 ## Post-Task Interview - 5 minutes
 
 * Overall, what did you think of what you saw today? Was it clear or confusing?
-> It was pretty much mainly clear, but it was just a little bit confusing. Like I said, when you upload the documents and they’re not, it seemed like they should go from the down.
+> It was pretty much mainly clear, but it was just a little bit confusing. Like I said, when you upload the documents and they’re not... it seemed like they should go from the down.
+
 > You know, the way they go, the way it looks is like you’ve got to go down to find out, and then you’ve got to go up instead of just going straight down looking at the dates and stuff. You know, you just go straight down, but the way it’s set up on the page, it’s like you’ve got to go all the way down to the page and then start scrolling up.
 
+> Mod: OK, so referring to the recent activity, how they started with like, I guess the most recent day and then going to the older ones, you feel like it should be the other way.
+
+> Yeah..yeah. because you have to go down and look back up. instead of just reading down the page. 
+
 * Was there anything specifically helpful?
-> NOTES
+> Yeah, it told me everything I needed to do, and it stood out—especially the warnings. They made it clear that there was no point in trying to upload the documents because they wouldn’t go through. That was really helpful because most people would probably still try to submit them anyway. But it plainly states not to do it. In so many words, it clearly says to mail it or bring it in. So, right then and there, you know not to try submitting it. I mean, most people with common sense wouldn’t attempt to submit it.
 
 * On a scale of 1-5, how confident do you feel about being able to resubmit your document if you received a notice like this in real life? (1 being least confident, 5 being most confident.)
   * Why?
-> NOTES
+> I say it'd be  4. I'd be kinda weary, because I don't know if the proper person received it. I got to hand it to somebody in the building, but it's the proper people going to get it. and that's what I'd be worried about. did they received it, did it go through the process.
+
+> Mod: So it sounds as though you're confident in submitting the documents themselves, but you're not so confident of what will happen once you've already turned it over.
+
+> So many times that's happened.
 
 * On a scale of 1-5, How confident are you that VA will effectively manage the paper documents you’ve submitted? (1 being least confident, 5 being most confident.)
   * Why?
-> NOTES
+> Honestly? 2. You have to understand, the VA makes you feel a bit leery about a lot of things. When you're dealing with them, there's always that uncertainty. I guess you don’t really trust anyone, but in the back of your mind, you’re always wondering—did they actually receive it? Was it sent to the right people? Did it end up in the proper place? You're just in limbo because you don't know. That uncertainty is the most frustrating part because there’s no real confirmation. You can hand it in, and they might say, "Oh, OK, thank you. I’ll make sure it goes in the file." But how would you really know? Mistakes happen, and work gets lost all the time.
+
+> Mod: OK, so knowing that like receiving some sort of confirmation that your paper documents were received will boost your confidence.
+
+> It definitely would because you know it's there, you know they got it, and that’s one less thing on your mind. You’re not left wondering, "OK, well, I haven’t heard if they got the documents." One of the biggest concerns is making sure you receive the paperwork you need. Because if the paperwork isn’t submitted, you get denied, you’re stuck in limbo, and you end up with even more paperwork. That’s one of the biggest challenges I’ve had to deal with—making sure you got the document, checking if it went through, if you received it, and if you reviewed it.
+
 
 * Any questions for me?
-> NOTES
+> No, no but this was fun though.
+
+> the site is really good. just little bitty thing. they put somethign on your mind that make you think  when you get off there..like did htey get the paperwork?
   
 ## Thank-You and Closing - 1 minute
 
