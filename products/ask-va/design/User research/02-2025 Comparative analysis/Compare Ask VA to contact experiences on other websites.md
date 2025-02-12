@@ -28,9 +28,9 @@ This will help us articulate the things we like or don’t like and which direct
 I reviewed the following contact experiences:
 - [GOV.UK/Contact](https://www.gov.uk/contact)
 - [Government of Canada Contact Us](https://www.canada.ca/en/contact.html)
+- [National Grid Contact Form](https://www.nationalgridus.com/NY-Home/Contact-Us/)
 - [USAJOBS.gov Help Center](https://help.usajobs.gov/how-to)
 - [Con Edison Contact Us](https://www.coned.com/en/contact-us)
-- [National Grid Contact Form](https://www.nationalgridus.com/NY-Home/Contact-Us/)
 - [RNID Contact Us](https://rnid.org.uk/about-us/contact-rnid/)
 - [Atlassian Contact Form](https://www.atlassian.com/company/contact)
 - [Grammarly Contact Us](https://support.grammarly.com/hc/en-us/requests/new#/)
@@ -53,7 +53,7 @@ If Ask VA worked like GOV.UK/Contact, then:
 
 ### Government of Canada Contact Us
 
-If Ask VA worked like Government of Canada Contact Us, then:
+If Ask VA worked like Government of Canada, then:
 
 - VA.gov would have specific contact pages set up for each service. These would be different to hub or information pages.
 - For example, there would be a contact page for education benefits and work study and a contact page for life insurance.
@@ -67,9 +67,22 @@ If Ask VA worked like Government of Canada Contact Us, then:
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/CANADA.png)
 
+### National Grid Contact Form
+
+If Ask VA worked like National Grid, then:
+
+- VA.gov's Contact us page would be divided into tasks and/or channels. For example, book an appointment, submit a claim, email us, mail us, call us.
+- If you needed general support, you would be directed to either Ask VA or FAQs.
+- Ask VA would include two types of forms. For feedback or to get in touch. If you fill out a feedback form, you will not receive a response back. Otherwise, you can use the contact form and you will receive a response within 2 business days.
+- The form includes 8 fields. It asks you to choose a category from 9 options. There are 0-7 topics within 2 of the categories.
+- After you submit your question, you  receive a reference number. You will receive a response via email.
+- Whether you are authenticated or not, your contact experience would be the same. However, you do need to sign in to complete certain tasks, like paying a bill.
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/NATIONALGRID.png)
+
 ### USAJOBS.gov Help Center
 
-If Ask VA worked like USAJOBS.gov Help Center, then:
+If Ask VA worked like USAJOBS.gov, then:
 
 - Benefits and other information pages on VA.gov would link to Ask VA.
 - If you choose to contact VA.gov instead of find information or complete a task online, you will fill out a form (Ask VA) to request assistance by phone or email.
@@ -81,7 +94,7 @@ If Ask VA worked like USAJOBS.gov Help Center, then:
 
 ### Con Edison Contact Us
 
-If Ask VA worked like Con Edison Contact Us, then:
+If Ask VA worked like Con Edison, then:
 
 - VA.gov would encourage you to either call a phone number, complete a task online or use a contact form (Ask VA).
 - If you chose to fill out the contact form, a representative would contact you within 3 business days.
@@ -92,3 +105,40 @@ If Ask VA worked like Con Edison Contact Us, then:
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/CONEDISON.png)
 
+### RNID Contact us
+
+If Ask VA worked like RNID, then:
+
+- VA.gov's Contact us page would first encourage you to use other tools to complete tasks online, before contacting VA.
+- The Contact us page would be categorized by channel. Ask us a question (Ask VA) would be described as an online form and deprioritized on the contact page.
+- The contact form includes 5 fields: 4 required, 1 optional. It is optional, but the contact form let's you choose from 13 topics.
+- You don't receive a reference number if you submit a contact form, this is different to a ticketing system. You will receive an email within 1 to 5 working days.
+- There is no need or option to sign in to contact RNID or use their services.
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/RNID.png)
+
+### Atlassian Contact Form
+
+If Ask VA worked like Atlassian, then:
+
+- VA.gov's Contact us page would be categorized by what you need support with. For example, technical issues or health care. Ask VA would be linked under one or more of these headings.
+- If you clicked Ask VA, you would be encouraged to sign in for a quicker support experience. You have the option to continue without signing in.
+- Ask VA would ask for your email. Then, it would ask 'How can we help you?' and you can choose from 7 options. Conditional fields appear so you may need to choose a more specific topic, or you might skip this.
+- As you go through the form, you would be given an automated solution before you submit a request. You could still choose to submit the request if their solution didn't help.
+- Depending on what your question is about, the solution may direct you to complete a task online, like read an FAQ or book an appointment.
+- If you choose to submit the request, you don't receive a reference number. It's unclear how long it will take to hear back over email.
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/ATLASSIAN.png)
+
+### Grammarly Contact Form
+
+If Ask VA worked like Grammarly, then:
+
+- VA.gov Contact us page would be equivalent to Ask VA. There would be no other channels or way to get in touch with VA.
+- You would be encouraged to sign in for a faster support experience. You have the option to continue without signing in.
+- Ask VA would ask, 'What did you want to talk to us about?' and provide 8 options. It may also ask you to choose a topic (0 to 11 topics depending on the category) or you skip this.
+- It would use the category and topic to suggest helpful information, 'You may find this article helpful.' If you still need help (the article didn't help), you have the option to submit a form.
+- If you choose to submit a form, conditional fields appear based on your responses (category, topic, etc.)
+- You wouldn't receive a reference number if you carry through and submit the form. And it's unclear how long it will take for them to reply back to you via email.
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/GRAMMARLY.png)
