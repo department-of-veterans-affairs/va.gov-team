@@ -84,6 +84,8 @@
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
 
+### Addditional Links
+- [SHMD App and Website Audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1733945376690/0922bcaa83d13ab4336e6e04608e515f73bf5033)
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
