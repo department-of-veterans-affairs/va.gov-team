@@ -1222,7 +1222,7 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### July 12-16: Benefits Recommendations Discovery
 *Dragons Team, research lead: Samara Strauss*
 - 6 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Recommendations/Research/MVP%20Research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/1904650f829517820230b18092ca91fde8a1a910/products/identity-personalization/my-va/my-va-mvp/2018-find-va-benefits/Discovery/User%20Research)
 
 ### June 2018
 
