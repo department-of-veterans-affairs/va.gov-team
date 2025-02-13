@@ -2,7 +2,12 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: February 12, 2025
+Last updated by @tygindraux: February 13, 2025
+
+**Jump to:**
+- [Purpose](#purpose)
+- [Analysis](#analysis)
+- [Insights](#insights)
 
 ## Purpose
 
