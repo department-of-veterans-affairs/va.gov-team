@@ -40,7 +40,7 @@ I reviewed the following contact experiences:
 - [Atlassian Contact Form](https://www.atlassian.com/company/contact)
 - [Grammarly Contact Us](https://support.grammarly.com/hc/en-us/requests/new#/)
 
-After reviewing each website, I re-imagined Ask VA as if it worked like ___ contact experience.
+I reviewed each website and took notes in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738276336649/31f5cc8b2eb56f67173d0318e5e38bda887b53bd). (Note: You may not have access to this Mural board.) After reviewing each website, I re-imagined Ask VA as if it worked like ___ contact experience.
 
 ### GOV.UK/Contact
 
