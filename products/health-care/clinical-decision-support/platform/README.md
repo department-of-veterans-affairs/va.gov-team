@@ -1,76 +1,68 @@
 # Clinical Decision Support Platform
-The goal of the platform is to provide onboarded applications with the capabilities of a robust cloud infrastructure and the SMART-on-FHIR container (SOFC), such as enabling applications to launch from CPRS, keeping patient context through CCOW, authenticating via SSOi and accessing real-time patient data in VistA and Cerner.
-
-Developers can abstract away previously solved problems, and focus on domain-specific knowledge to maximize clinical benefit and patient outcomes. It would also allow developers to quickly deploy, test, and productionalize new applications, which can in turn shorten the time to value for development teams assisting clinicians.
+The CDS Platform is meant to be the home for all impactful clinical decision support-related tools, information and data visualization that support and transform clinician workflow built upon a platform that is integrated to key VA systems and provides the highest quality of monitoring and alerting. Our team works to enable application teams to develop and deploy modern, scalable applications more quickly and securely, while providing clinicians with an improved user experience as they provide clinical care.
 
 # About the Product
 ## North Star Goal 
-The SoF Platform is in its infancy, and yet we already have significant interest from teams who wish to build upon it.  We believe by creating a platform that makes it easy to build, deploy, and test clinical applications, teams will use the platform and more value will accrue to clinicians.  We also believe that clinicians will return when they can discover easy-to-use applications that focus on good user experience and solve relevant problems.
+The goal of the platform is to provide applications with the capabilities of a robust cloud infrastructure and the SMART-on-FHIR container (SOFC), such as enabling applications to launch from CPRS, keeping patient context through CCOW, authenticating via SSOi and accessing real-time patient data in VistA and Cerner. We also work to bring innovative technologies to VA such as CDS (Clinical Decision Support) Hooks and Gen Ai. 
+
+We believe by creating a platform that makes it easy to build, deploy, and test clinical applications, teams will use the platform and more value will accrue to clinicians.  We also believe that clinicians will return when they can discover easy-to-use applications that focus on good user experience and solve relevant problems.
 
 ## User Problem Statement
-As a clinician, I want to develop Clinical Decision Support Tools that are SMART-on-FHIR compliant and can be launched from CPRS. 
+As a clinician, I want to develop new and access existing Clinical Decision Support Tools that are SMART-on-FHIR compliant and can be launched from CPRS. 
 
 ## About the Team
 ### GitHub/ZenHub/Teams/Jira
 GitHub label = https://github.com/department-of-veterans-affairs/cds-platform 
+GitHub Projects board - https://github.com/orgs/department-of-veterans-affairs/projects/1531/views/1?filterQuery=&layout=board
 
-Link to Teams folder if applicable: https://teams.microsoft.com/l/team/19%3acjqbmHEdRLQlaEXYUojKbFA1hLqX01bSYH69TuPA4uM1%40thread.tacv2/conversations?groupId=b025cb2a-8cfd-4073-8ccc-c12532786e2e&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf 
+Link to Teams folder if applicable: 
+https://dvagov.sharepoint.com/:f:/s/CDSProgramTeam/EtZ6F-XnVf1MjbA3L18v0j0Bcnsdi4ryfrwi5BuLqAS5CQ?email=December.Bergh%40va.gov&e=NsYUzX
 
+Link to Jira if applicable: N/A
 
 ### Slack Channels
-•	#cds-tools-team
 •	#cds-platform-public
-
+•	#cds-all-teams
 
 ### Team Members
-OCTO-DE/DEPO:
-- Shane Elliott (VA OCTO)
+VA Product Owner:
+- Shane Elliott 
 
 Program Management:
-- Jeremy Stitz (ThoughtWorks/TW)
+- December Kinney Bergh (Thoughtworks)
 
 Product Management:
-- Reshmi Nair (TW)
+- Maria Becker (Thoughtworks)
 
 Design & Research:
-- Rachel Murray (TW)
+- Liz Blasi (Thoughtworks)
 
 Engineering:
-- Phil Herbert (TW, Tech Lead)
-- Filip Fafara (TW, Domain Principal)
-- Sarah Cnota (TW, Developer)
-- Ashley Gentles (TW, Developer)
-- Daniel Olson (TW, Developer)
-- Mae Duphorne (TW, Developer)
-- Nitheesha Karnati (TW, Quality Analyst)
+- Obedi Ferreira (Thoughtworks, Tech Lead)
+- Filip Fafara (Thoughtworks, Solution Architect)
+- Frances Henshall (Thoughtworks, Developer)
+- Sarah Cnota (Thoughtworks, Developer)
+- Daniel Olson (Thoughtworks, Developer)
+- Ashley Gentles (Thoughtworks, Developer)
+- Fara Hughes (Thoughtworks, Developer)
+- MR Ngo (Thoughtworks, Developer)
+- Charly McRae-Olson (Thoughtworks, Quality Analyst)
 
 ### What We're Working On
-•	The CDSP platform team conducted engagements with 11 different teams across the VA and identified use cases for development and/or integration efforts. Those use cases include:
-
-o	Virtual Care Manager
-	Pending prioritization
-
-o	STORM – Opioid management
-	In production!
-
+•	The team is currently working on building out a patient context two-way sync capability needed by CDS Application teams, building out our ability to measure DORA metrics, and bringing innovative technology to VA in CDS Hooks. We are preparing to undertake migrating VistA-api-x to the CDS Platform as well as improving our platform’s security and reliability. Finally, towards the end of this quarter, we will be working to enhance the user experience of the CDS Console itself by implementing a new navigational structure towards our longer-term vision of bringing functionality out of apps and into the Console, i.e., our vision of the Console as a workspace.
 
 ### Product Documentation
-- Link to Roadmap
-- Link to Objectives & Key Results
-- Link to Product Guide
+- Link to Roadmap: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1674674528186/c9d0278695b3bbfcfc8165915d33e186c80c4205?sender=507fb07e-9469-400a-9bc3-84c65e7ccfb4
+- Link to Objectives & Key Results: https://app.powerbigov.us/groups/me/reports/ea598d96-c83e-49ca-9b7d-7dbbcb843fa7/ReportSection8b30be71ad182aed892b?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf
 
 ### Who We Work With
-VA Business Owners:
-- Dr. Jonathan Nebeker, Deputy Director CIDMO
+CDSC:
 
-VA Stakeholders & their roles: 
-- Dr. Jeffery Honeycutt (Chief of Radiology, CIO, Lexington VAMC)
-- Dr. Doug Martin (CIDMO via IPA)
-- Charleen Short (Program Analyst, Strategic Investment Management, VHA Office of Informatics and Analytics)
-- Dr. Steve Brown (Director, VHA Health and Medical Informatics Office)
-- Charu Puri (Lead Program Specialist, VHA/OIA/HI Health Systems Informatics)
-- Doug Wahl (Health Systems Specialist, VHA/OHI/CIDMO/Health Solutions Management)
-- Seema Nazeer (Supervisor Program Analysis Officer, VHA OHI/HSM)
-- Dr. Paul Veregge (VHA, CIDMO)
-- Dr. Shannon Brown (Philadelphia VAMC)
-- Dr. Elaine Hunolt (Director, Interagency Health Informatics, VHA OHI)
+-	Peter Koutsovitis 
+-	Amanda Klausmeier
+
+VA Stakeholders: 
+
+-	Todd Nordahl (VHA)
+-	Dr. Steve Brown (Director, VHA Health and Medical Informatics Office)
+-	Dr. Jonathan Nebeker, Deputy Director CIDMO
