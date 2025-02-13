@@ -199,6 +199,16 @@ _Any additional key locations that the page should be navigable from. Although t
         - ~Get mental health care~ (Remove link)
         - ~Get VA medical records online~ (Remove link)
 
+6. **[My VA](www.va.gov/my-va/)**
+    - ADD/REMOVE/MODIFY LINKS:
+      - Modify list of links under the "Manage your health" section link users directly to the MHV on VA.gov portal tools
+      - Remove existing widget to "Choose the right health portal"
+
+### Other entry point and crosslink work
+_Any additional key crosslinking opportunities or link changes needed across the site.  This is not intended to capture all link needs, but to document any key work discussed in this space._ 
+
+- Many of the core health tool pages will have H1 and URL updates.  These changes will need to be made in all places these links exist across the modernized site.
+- 
 
 ##  <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience.* 
