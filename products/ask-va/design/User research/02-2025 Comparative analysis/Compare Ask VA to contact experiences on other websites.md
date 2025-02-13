@@ -170,7 +170,7 @@ Ask VA is a Type 1 experience. There are ways it is similar and different to oth
 |Ask VA|Other Type 1 services|
 |:--|:--|
 |Ask VA is called an "online tool."|Most similar services would call Ask VA a "contact form" or refer to it as "emailing" VA.|
-|Ask VA sends most responses via a dashboard that requires sign in, unless you don't sign in or request a phone call.|Most similar services send their response via email or phone call.|
+|Ask VA sends most responses via a dashboard that requires sign in, unless you don't sign in or request a phone call.|Most similar services send their response via email or phone call. And don't require sign in.|
 |Ask VA responds within 7 business days.|Most similar services respond in 1 to 3 business days.|
 |Ask VA includes 16 to 42 fields and some are optional.|Most similar services include around 6 fields and some are optional.|
 |Ask VA asks for a category, topic and subtopic to categorize a question.|Most similar services just ask for a category and sometimes a topic, or neither.|
