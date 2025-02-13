@@ -203,7 +203,7 @@ Examples of Type 2:
 
 Ask VA could operate more similarly to Type 3. Instead of the focus being on letting a user submit something, the focus would be on guiding a user through steps to complete a task.
 
-If Ask VA worked like this, a user would start to fill out the form and be interrupted at various points with a recommendation. For example, if your question is about 'Survivor benefits,' then you could receive a recommendation to read an FAQ on 'How to apply for Survivor benefits' or 'Set up direct deposit.' There is no dead-end, though, because if the recommendation doesn't help, you can continue to the next question, until eventually reaching the end where you submit a form. Ask Va would require more intelligent branching and customization, moving away from a Type 1 experience.
+If Ask VA worked like this, a user would start to fill out the form and be interrupted at various points with a recommendation. For example, if your question is about 'Survivor benefits,' then you could receive a recommendation to read an FAQ on 'How to apply for Survivor benefits' or 'Set up direct deposit.' If the recommendation doesn't help, you can continue to the next question. Until eventually reaching the end where you submit a form. Ask Va would require more intelligent branching and customization, moving away from a Type 1 experience.
 
 Ask VA is currently, however, similar to Type 3 in the way that sign in works. Type 3 services to tend offer the option to sign in for a 'faster' experience. This is similar to Ask VA.
 
