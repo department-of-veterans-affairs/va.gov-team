@@ -72,18 +72,7 @@ Total sample size will be 383 per corhort, so 766 total. There will be 2 cohorts
 
 	a. Yes 
 	
-	b. No (exclude) 
-
-2. In the past 12 months, how often did you complete one or more of these tasks on My HealtheVet?  
-**Tasks:** Scheduling an appointment, sending a message to your doctor, refilling VA prescriptions, reordering medical supplies
-
-	a. Once a week (recruit 96 for A, 96 for B) 
-	
-	b. Once a month  (recruit 96 for A, 96 for B) 
-	
-	c. Once every few months (recruit 96 for A, 96 for B) 
-	
-	d. Once a year (recruit 95 for A, 95 for B) 
+	b. No (exclude)
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
@@ -92,8 +81,8 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: kaitlin.fink@va.gov
-* Date and time of pilot session: 2/11
+* We will first pilot tests A and B with 5 veterans each (so 10 veterans total)
+* Then we will troubleshoot as needed, and recruit for the full number
 
 ### Research sessions
 - **Feb 19:** Launch test 
