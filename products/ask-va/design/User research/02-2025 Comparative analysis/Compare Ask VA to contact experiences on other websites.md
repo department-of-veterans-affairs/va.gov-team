@@ -31,47 +31,16 @@ This will help us articulate the things we like or don’t like and which direct
 ## Analysis
 
 I reviewed the following contact experiences:
-- [GOV.UK/Contact](https://www.gov.uk/contact)
-- [Government of Canada Contact Us](https://www.canada.ca/en/contact.html)
 - [National Grid Contact Form](https://www.nationalgridus.com/NY-Home/Contact-Us/)
 - [USAJOBS.gov Help Center](https://help.usajobs.gov/how-to)
 - [Con Edison Contact Us](https://www.coned.com/en/contact-us)
 - [RNID Contact Us](https://rnid.org.uk/about-us/contact-rnid/)
+- [GOV.UK/Contact](https://www.gov.uk/contact)
+- [Government of Canada Contact Us](https://www.canada.ca/en/contact.html)
 - [Atlassian Contact Form](https://www.atlassian.com/company/contact)
 - [Grammarly Contact Us](https://support.grammarly.com/hc/en-us/requests/new#/)
 
 I reviewed each website and took notes in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738276336649/31f5cc8b2eb56f67173d0318e5e38bda887b53bd). (Note: You may not have access to this Mural board.) After reviewing each website, I re-imagined Ask VA as if it worked like ___ contact experience.
-
-### GOV.UK/Contact
-
-If Ask VA worked like GOV.UK/Contact, then:
-
-- VA.gov would have specific contact pages set up for each service. These would be different to hub or information pages.
-- For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.'
-- The 'Life insurance' contact page would have links to information or tasks followed by contact information.
-- People would be directed to get in touch via phone, mail, chatbot or complete a task online. Whenever possible, they would be directed to complete tasks.
-- The only contact form would be for website issues, for example a link doesn't work on a page. You wouldn't need to sign in to use the form.
-- The contact form would have 3 fields and you would have the option to receive a reply or not. You would not receive a reference number and it wouldn't be clear how long it takes to receive a reply.
-- Some services may have their own contact tool which looks like a form, but it's not something you submit. For example, if NCA had a contact tool, the first question would ask, "How can we help you today?" with around 7 options. Your answer would direct you to a follow-up question or eventually a contact page for NCA that also includes tasks.
-- Your contact experience would be the same whether you sign in or not. However, you do need to sign in to complete certain tasks, like file taxes.
-
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/GOV.UK.png)
-
-### Government of Canada Contact Us
-
-If Ask VA worked like Government of Canada, then:
-
-- VA.gov would have specific contact pages set up for each service. These would be different to hub or information pages.
-- For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.'
-- The 'Life insurance' contact page would have links to information or tasks followed by contact information.
-- People would be directed to get in touch via phone, mail, chatbot or complete a task online. Whenever possible, they would be directed to complete tasks.
-- There would also be an option to 'get general help' either 'by telephone' or 'by email.' If you choose by email, you're directed to Ask VA.
-- Ask VA would be a contact form with 10 fields, 7 are required and 3 are optional. It has 9 categories with 1-6 topics in each category.
-- Sometimes a category doesn't contain a topic. Instead, you receive a link to book an appointment, for example. The goal is to get you to complete a task, whenever possible.
-- After you submit your question, you receive a reference number. You should receive a phone call within 2 business days.
-- Your contact experience would be the same whether you sign in or not. However, you do need to sign in to complete certain tasks, like booking some appointments.
-
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/CANADA.png)
 
 ### National Grid Contact Form
 
@@ -123,6 +92,37 @@ If Ask VA worked like RNID, then:
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/RNID.png)
 
+### GOV.UK/Contact
+
+If Ask VA worked like GOV.UK/Contact, then:
+
+- VA.gov would have specific contact pages set up for each service. These would be different to hub or information pages.
+- For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.'
+- The 'Life insurance' contact page would have links to information or tasks followed by contact information.
+- People would be directed to get in touch via phone, mail, chatbot or complete a task online. Whenever possible, they would be directed to complete tasks.
+- The only contact form would be for website issues, for example a link doesn't work on a page. You wouldn't need to sign in to use the form.
+- The contact form would have 3 fields and you would have the option to receive a reply or not. You would not receive a reference number and it wouldn't be clear how long it takes to receive a reply.
+- Some services may have their own contact tool which looks like a form, but it's not something you submit. For example, if NCA had a contact tool, the first question would ask, "How can we help you today?" with around 7 options. Your answer would direct you to a follow-up question or eventually a contact page for NCA that also includes tasks.
+- Your contact experience would be the same whether you sign in or not. However, you do need to sign in to complete certain tasks, like file taxes.
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/GOV.UK.png)
+
+### Government of Canada Contact Us
+
+If Ask VA worked like Government of Canada, then:
+
+- VA.gov would have specific contact pages set up for each service. These would be different to hub or information pages.
+- For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.'
+- The 'Life insurance' contact page would have links to information or tasks followed by contact information.
+- People would be directed to get in touch via phone, mail, chatbot or complete a task online. Whenever possible, they would be directed to complete tasks.
+- There would also be an option to 'get general help' either 'by telephone' or 'by email.' If you choose by email, you're directed to Ask VA.
+- Ask VA would be a contact form with 10 fields, 7 are required and 3 are optional. It has 9 categories with 1-6 topics in each category.
+- Sometimes a category doesn't contain a topic. Instead, you receive a link to book an appointment, for example. The goal is to get you to complete a task, whenever possible.
+- After you submit your question, you receive a reference number. You should receive a phone call within 2 business days.
+- Your contact experience would be the same whether you sign in or not. However, you do need to sign in to complete certain tasks, like booking some appointments.
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/CANADA.png)
+
 ### Atlassian Contact Form
 
 If Ask VA worked like Atlassian, then:
@@ -162,8 +162,10 @@ These 8 websites demonstrate 3 distinct types of contact experiences:
 ### Ask VA is Type 1
 
 > 1: Submit a contact form for review
+>
+> A user fills out a form and submits it for review. An organization replies back later. The process is completely asynchronous.
 
-Ask VA is a Type 1 experience. Submitters fill out a form and submit it for review. The process is completely asynchronous.
+Ask VA is a Type 1 experience. There are ways it is similar and different to other Type 1 services:
 
 |Ask VA|Other Type 1 services|
 |:--|:--|
@@ -173,14 +175,36 @@ Ask VA is a Type 1 experience. Submitters fill out a form and submit it for revi
 |Ask VA includes 16 to 42 fields and some are optional.|Most similar services include around 6 fields and some are optional.|
 |Ask VA asks for a category, topic and subtopic to categorize a question.|Most similar services just ask for a category and sometimes a topic, or neither.|
 
+Examples of Type 1:
+- [National Grid Contact Form](https://www.nationalgridus.com/NY-Home/Contact-Us/)
+- [USAJOBS.gov Help Center](https://help.usajobs.gov/how-to)
+- [Con Edison Contact Us](https://www.coned.com/en/contact-us)
+- [RNID Contact Us](https://rnid.org.uk/about-us/contact-rnid/)
+
 ### Ask VA is very different to Type 2
 
 > 2: Find a contact page for an individual service
+>
+> A user searches a 'Contact us' page to find a department to contact. They navigate to a department's contact page. They choose which channel to use.
 
-Ask VA will never operate like Type 2. It is possible that VA.gov could operate like Type 2. In this contact experience, VA.gov would have specific contact pages set up for each business line, which are different to hub or information pages. For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.' The 'Life insurance' contact page would have contact information for the life insurance team. Ask VA would be a channel available on each contact page. Ask VA could operate like it does now, as a Type 1 experience.
+Ask VA will never operate like Type 2 but it is possible that VA.gov could operate like Type 2. 
+
+VA.gov would have specific contact pages set up for each business line, which are different to hub or information pages. For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.' The 'Life insurance' contact page would have contact information for the life insurance team. Ask VA would be a channel available on each contact page. Ask VA could operate like it does now, as a Type 1 experience.
+
+Examples of Type 2:
+- [GOV.UK/Contact](https://www.gov.uk/contact)
+- [Government of Canada Contact Us](https://www.canada.ca/en/contact.html)
 
 ### Ask VA could be more similar to Type 3
 
 > 3: Answer questions and receive a recommendation
+>
+> A user answers a question or a series of questions. They are interrupted with a recommendation to complete a task or read more information. If they don't reach resolution, they eventually submit a form.
 
-Ask VA could operate more similarly to Type 3. In this contact experience, 
+Ask VA could operate more similarly to Type 3. Instead of the focus being on letting a user submit something, the focus would be on guiding a user through steps to complete a task.
+
+If Ask VA worked like this, a user would start to fill out the form and be interrupted at various points with a recommendation. For example, if your question is about 'Survivor benefits,' then you could receive a recommendation to read an FAQ on 'How to apply for Survivor benefits' or 'Set up direct deposit.' There is no dead-end, though, because if the recommendation doesn't help, you can continue to the next question, until eventually reaching the end where you submit a form. Ask Va would require more intelligent branching and customization, moving away from a Type 1 experience.
+
+Examples of Type 3:
+- [Atlassian Contact Form](https://www.atlassian.com/company/contact)
+- [Grammarly Contact Us](https://support.grammarly.com/hc/en-us/requests/new#/)
