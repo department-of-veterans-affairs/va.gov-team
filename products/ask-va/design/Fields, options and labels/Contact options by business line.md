@@ -34,7 +34,7 @@ For a complete list, jump to [contact rules by topic](#contact-rules-by-topic).
 |`Guardianship, custodianship, or fiduciary issues`|Email, phone and US Mail are always `ENABLED`|
 |`Health care`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Housing assistance and home loans`|Email and phone are always `ENABLED`, US Mail is always `DISABLED`|
-|`Life insurance`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
+|`Life insurance`|Email and phone are always `ENABLED`, US Mail is always `DISABLED`|
 |`Pension`|Email, phone and US Mail are always `ENABLED`|
 |`Sign in and technical issues`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
 |`Survivor benefits`|Email, phone and US Mail are always `ENABLED`|
