@@ -154,7 +154,6 @@
 
   Now, I’m going to ask you to review and respond to multiple pages at one time. Especially in the beginning, I might pause and ask you questions. Take the time you need– you can also stop or take a break at any point.
 
-
   **`[Mental Health Support- Events Intro]`**
 
   **Task 1: Comprehension of Intro Content**
@@ -185,12 +184,10 @@
 * :brain: What do you expect will happen next?
 
   **Look out for:**
-
-* Comprehension of options (traumatic event \+ report types) for making informed choice  
-* Ease of adding events multi-response pattern  
-  * Attempts to return to previous page from an interior page (not possible)  
-* Response to card visual/summary view for reviewing data entry
-
+   - Comprehension of options (traumatic event \+ report types) for making informed choice  
+   - Ease of adding events multi-response pattern  
+     - Attempts to return to previous page from an interior page (not possible)  
+   - Response to card visual/summary view for reviewing data entry
 
   **`[Event list + edit screens]`**
 
@@ -200,8 +197,8 @@
 
   **Look out for:**
 
-* Perceived differences between the edit and add flow  
-* Attempts to return to previous page from an interior page (not possible)
+   - Perceived differences between the edit and add flow  
+   - Attempts to return to previous page from an interior page (not possible)
 
   :x:**Cancel Add from Edit mode:** If you wanted to cancel the change you just made, how would you do it?
 
