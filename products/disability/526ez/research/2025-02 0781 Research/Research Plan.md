@@ -127,9 +127,9 @@ We are looking to complete 7-9 sessions. Because of the sensitive nature of the 
 3. Identify as gender other than male (At least n=4)  
 4. LGBTQ+ (At least n=1)
 
-ADD RECRUITMENT TICKET
 
-Screener Questions (Please include the answers to all screener questions on the participant roster. Thank you\!)
+**Screener Questions **
+(Please include the answers to all screener questions on the participant roster. Thank you\!)
 
 1. We’re asking Veterans to share their experience with us so that we can improve the process of filing claims related to traumatic events. However, we know it can be difficult to talk about these topics. We’ll ask you questions about your experience filling out a VA form, which could involve sharing some limited details about your own mental health or traumatic experiences. Are you comfortable sharing your experience with us?  
 * Yes \[Recruit\]  
@@ -182,8 +182,7 @@ Screener Questions (Please include the answers to all screener questions on the 
 * Maximum Sessions per day: 3 per day
 
 ### **Availability**
-
-## **Add dates and time slots**
+ **Add dates and time slots**
 
 ## **Team Roles**
 
@@ -196,25 +195,3 @@ Screener Questions (Please include the answers to all screener questions on the 
 * Note-takers: Evelyn Hilbrich Davis, Ruben Sun  
 * Observers: TBD via sign up
 
-# **Participant Communications to send to Perigean (For Reuse from Concept Testing)**
-
-Hi, thanks for a great kickoff\! Here are the items we discussed:  
-We’d like the study name that appears to Veterans to be: **VA Form Research**
-
-* Email content we’d like included in the email sent *after* participants sign up:  
-  * **Who will be there:** You’ll join a Zoom call with two members of our research team. You’ll get to decide at the start of the interview if you’re comfortable with additional researchers joining (up to four people total). If there’s anyone you’d like to have on the call like a friend, therapist, or family member, they are welcome to join.  
-  * **How long it’ll last:** Each session is scheduled for 90 minutes. We may not need to use the entire time, and you’ll have the option to stop at any point. You’ll still receive compensation even if we end early. We’ll also have a scheduled break part way through the session.  
-  * **What we’ll cover:** We’ll ask you questions about your experience filling out a VA form, which could involve sharing some limited details about your own mental health or traumatic experiences. You can decide how much detail you’re comfortable sharing.  
-  * **Confidentiality:** Anything you share with us will be kept confidential. None of your comments will be attributed to you directly. Any identifying information will be removed as a part of our analysis.  
-* Reminder phone call blurb:  
-  * As a reminder, in this study we’ll ask you questions about your experience filling out a VA form, which could involve sharing some limited details about your own mental health or traumatic experiences. We know it can be difficult to talk about these topics, so let us know if you have any concerns. If there’s anyone you’d like to have on the call like a friend, therapist, or family member, they are welcome to join.  
-* As you can see above, we’d like to offer Veterans the option to bring a supportive friend/family member/therapist to their session. Would this require that person to complete a consent form? The intent is that they’d just be there for support, but it’s possible they could chime in with a comment and it would be recorded.
-
-**Phone script:**  
-As a reminder, in this study we’ll ask you questions about your experience filling out a VA form, which could involve sharing some limited details about your own mental health or traumatic experiences. We know it can be difficult to talk about these topics, so let us know if you have any concerns. If there’s anyone you’d like to have on the call like a friend, therapist, or family member, they are welcome to join.  
-**Email:**
-
-* **Who will be there:** You’ll join a Zoom call with two members of our research team. You’ll get to decide at the start of the interview if you’re comfortable with additional researchers joining (up to four people total). If there’s anyone you’d like to have on the call like a friend, therapist, or family member, they are welcome to join.  
-* **How long it’ll last:** Each session is scheduled for 90 minutes. We may not need to use the entire time, and you’ll have the option to stop at any point. You’ll still receive compensation even if we end early. We’ll also have a scheduled break part way through the session.  
-* **What we’ll cover:** We’ll ask you questions about your experience filling out a VA form, which could involve sharing some limited details about your own mental health or traumatic experiences. You can decide how much detail you’re comfortable sharing.  
-* **Confidentiality:** Anything you share with us will be kept confidential. None of your comments will be attributed to you directly. Any identifying information will be removed as a part of our analysis.
