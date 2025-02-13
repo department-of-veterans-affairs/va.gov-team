@@ -126,6 +126,9 @@ Notes:
          - [Refill and track prescriptions page](www.va.gov/health-care/manage-prescriptions-medications/) to link to www.va.gov/my-health/medications/
          - [Get VA medical records page](www.va.gov/health-care/review-medical-records/) to link to www.va.gov/my-health/medical-records/
          - [Use secure message page](www.va.gov/health-care/send-receive-messages/) to link to www.va.gov/my-health/messages/
+         - Facility appointment pages - example page: https://www.va.gov/minneapolis-health-care/make-an-appointment/
+         - Facility medical records pages - example page: https://www.va.gov/minneapolis-health-care/medical-records-office/
+         - Facility pharmacy pages - example page: https://www.va.gov/minneapolis-health-care/pharmacy/
 
 
 ### Additional key entry points (post-launch)
