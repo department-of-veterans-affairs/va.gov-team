@@ -25,7 +25,6 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 
 **Product Management**
 - Jeff Roof (lead)
-- Leah De La Costa
 
 **User Experience**
 - Peter Russo (lead)
@@ -34,11 +33,11 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 
 **Engineering**
 - Simi Adebowale (lead)
-- AJ Magdub
 - Corey Ferris
 - Ryan Shaw
 - Jennie McGibney
 - Tony Williams
+- John Lou
 
 ### How we we work together
 
