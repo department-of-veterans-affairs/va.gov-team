@@ -113,7 +113,7 @@ _Introduction page_
 _Form landing page/ Representative Status Widget_
 
 6. What are your thoughts on the:
-   1. Signed out/ _Sign in with a verified account to request help from a VA accredited representative_ section?
+   1. Signed out/ _Sign in with a verified account_ section?
    2. Signed in/ _Your current VSO/attorney/claims agent_ section?
 7. Is there any information missing you’d like to see?
 8. When you’re ready, start the form as you normally would. I’m going to pause you at the end of each section to ask follow-up questions.
