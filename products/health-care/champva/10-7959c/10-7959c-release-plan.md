@@ -43,16 +43,16 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: mm/dd/yyyy - mm/dd/yyyy
+- Desired date range: 02/24/2025 - 03/07/2025
 - How will you make the product available in production while limiting the number of users who can find/access it: feature toggle.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   - upload error rate < 5%
   - zero silent failures
   - callback error rate < 1%
 - Links to the dashboard(s) showing "success criteria" metrics: [ivc-champva-forms](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=weekly&from_ts=1734391252265&to_ts=1734709253529&live=true)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
+- Who is monitoring the dashboard(s)?: IVC Forms Team
 
-### Stage A: Canary - mm/dd/yyyy
+### Stage A: Canary - 02/25/2025
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
@@ -69,7 +69,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage B: 25% of users - mm/dd/yyyy
+### Stage B: 25% of users - 2/26/2025
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
