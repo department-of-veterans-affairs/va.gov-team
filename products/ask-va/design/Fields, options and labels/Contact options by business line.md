@@ -1,6 +1,6 @@
 # Contact options by business line
 
-Last updated by @tygindraux: February 6, 2025
+Last updated by @tygindraux: February 13, 2025
 
 Jump to:
 - [How this pattern works](#how-this-patterns-works)
@@ -33,7 +33,7 @@ For a complete list, jump to [contact rules by topic](#contact-rules-by-topic).
 |`Education benefits and work study`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Guardianship, custodianship, or fiduciary issues`|Email, phone and US Mail are always `ENABLED`|
 |`Health care`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
-|`Housing assistance and home loans`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
+|`Housing assistance and home loans`|Email and phone are always `ENABLED`, US Mail is always `DISABLED`|
 |`Life insurance`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
 |`Pension`|Email, phone and US Mail are always `ENABLED`|
 |`Sign in and technical issues`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
