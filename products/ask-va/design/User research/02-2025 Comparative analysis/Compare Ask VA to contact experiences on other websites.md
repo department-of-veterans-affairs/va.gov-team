@@ -153,6 +153,25 @@ If Ask VA worked like Grammarly, then:
 
 ## Insights
 
-- A contact form is either used as a 'traditional' form. You fill it out, send it off, and wait.
-- Or, it's used a wizard. It asks you questions to get closer to what you need to know and offers links or information. The goal is to get you to complete a task, whenever possible.
-- Other websites would refer to Ask VA as a contact form. Even those that let you sign in, for a "faster" experience, call it a contact form.
+These 8 websites demonstrate 3 distinct types of contact experiences:
+
+1. Find a contact page for an individual service
+2. Submit a contact form for review
+3. Answer questions and receive a recommendation
+
+Right now, Ask VA operates most similarly to #2. Submitters fill out a form and submit it for review. The process is completely asynchronous.
+
+|Item|Ask VA|Similar services|
+|:--|:--|:--|
+|Tool or form|Ask VA is not referred to as a contact form, it's called an "online tool."|Most similar services would call Ask VA a "contact form."|
+|Response channel|Ask VA sends most responses via a dashboard that requires sign in.|Most similar services send their response via email or phone call.|
+|Turnaround time|Ask VA sends responses within 7 business days.|Most similar services respond in 1 to 3 business days.|
+|Number of fields|Ask VA includes 16 to 42 fields and some are optional.|Most similar services include around 6 fields and some are optional.|
+|Category, topic, subtopic|Ask VA asks for a category, topic and subtopic to categorize a questions.|Most similar services just ask for a category and sometimes a topic.|
+
+It's unlikely that Ask VA would operate like #1. This would VA.gov to have specific contact pages set up for each service, which are different to hub or information pages. For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.' The 'Life insurance' contact page would have contact information for the life insurance team. You could choose to get in touch via different channels.
+
+- The only contact form would be for website issues, for example a link doesn't work on a page. You wouldn't need to sign in to use the form.
+- The contact form would have 3 fields and you would have the option to receive a reply or not. You would not receive a reference number and it wouldn't be clear how long it takes to receive a reply.
+- Some services may have their own contact tool which looks like a form, but it's not something you submit. For example, if NCA had a contact tool, the first question would ask, "How can we help you today?" with around 7 options. Your answer would direct you to a follow-up question or eventually a contact page for NCA that also includes tasks.
+- Your contact experience would be the same whether you sign in or not. However, you do need to sign in to complete certain tasks, like file taxes.
