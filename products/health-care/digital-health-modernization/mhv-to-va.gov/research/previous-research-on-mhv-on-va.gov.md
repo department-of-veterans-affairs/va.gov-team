@@ -11,7 +11,6 @@ Below is a list of research that has been carried out to develop and support the
 - [2020-12 Digital Health Modernization Generative Research Study 1](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/6) (September 2021)
 
 ## MHV on VA.gov content, IA, and navigability research
-- [Cross-tool filters study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2024-11-MR-SM-RX-usability-study) (November 2024)
 - [Comparison study of secondary navigation options](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study) (January 2024)
 - [Secondary Navigation Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research) (October 2023)
 - [2023-07 Health Wayfinding Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study) (July/ August 2023)
