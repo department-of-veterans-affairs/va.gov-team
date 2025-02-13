@@ -26,7 +26,8 @@ Internal accessibility training sessions held for DBEX Team 1 & Conditions
 - [12/13/2024 A11y 101: Screenreaders part 1 video](https://dvagov.sharepoint.com/sites/vaabdvro/_layouts/15/stream.aspx?id=%2Fsites%2Fvaab[…]pied%2Eview%2Ed84d7add%2Df31e%2D4340%2D92a9%2De108c05415d8) &  [slides](https://dvagov.sharepoint.com/sites/vaabdvro/_layouts/15/stream.aspx?id=%2Fsites%2Fvaab[…]pied%2Eview%2Ed84d7add%2Df31e%2D4340%2D92a9%2De108c05415d8)
     - 30 minute session on screenreader basics. The recording starts a few minutes/slides in. Led by [@bacitracin](https://github.com/bacitracin)
  
-- Upcoming: 2/7/2025: A11y 101: What's WCAG? The Web Content Accessibility Guidelines
+- [2/7/2025: A11y 101: What's WCAG? The Web Content Accessibility Guidelines video](https://dvagov.sharepoint.com/:v:/s/vaabdvro/Eb05vd2tZbFFvxpT3pTrYTYBfl_H2GWoIAYcZTs5l4dbwA?e=97dEbR) and [slides](https://dvagov.sharepoint.com/:p:/s/vaabdvro/EbtRDiLo8XBIotqUUGZbQecBPdRm_rV1zarA2ybtCzzlNQ?e=sSmTr9)
+    - 30 minute overview of the Web Content Accessibility Guidelines that we use as the standard at the VA. Led by [@bacitracin](https://github.com/bacitracin)
 
 ## Assistive Technology Research
 ### Conditions
