@@ -1,10 +1,10 @@
-# [Study] Research Findings 
+# Document Status Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
 
-Date: MM/DD/YYYY
+Date: 02/12/2025
 
-[Designer 1] [email], [Designer 2] [email]
+Gary Homidas gary.homidas@adhocteam.us, Skyler Schain skyler.schain@coforma.io
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
