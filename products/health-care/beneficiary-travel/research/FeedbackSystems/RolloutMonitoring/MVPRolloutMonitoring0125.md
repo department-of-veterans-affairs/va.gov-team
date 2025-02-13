@@ -3,7 +3,7 @@
 
 
 Synopsis of first 30 days of feedback, January 13 - February 9, 2025: 
-[Status page_ first 30 days.pdf](https://github.com/user-attachments/files/18788041/Status.page_.first.30.days.pdf)
+
 
 ## Overall Trends
 Between 1/13 and 1/22:
