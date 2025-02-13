@@ -163,11 +163,11 @@ Right now, Ask VA operates most similarly to Type 2. Submitters fill out a form 
 
 |Ask VA|Other Type 2 services|
 |:--|:--|
-|Ask VA is not referred to as a contact form, it's called an "online tool."|Most similar services would call Ask VA a "contact form."|
+|Ask VA is called an "online tool."|Most similar services would call Ask VA a "contact form."|
 |Ask VA sends most responses via a dashboard that requires sign in.|Most similar services send their response via email or phone call.|
 |Ask VA sends responses within 7 business days.|Most similar services respond in 1 to 3 business days.|
 |Ask VA includes 16 to 42 fields and some are optional.|Most similar services include around 6 fields and some are optional.|
-|Ask VA asks for a category, topic and subtopic to categorize a questions.|Most similar services just ask for a category and sometimes a topic.|
+|Ask VA asks for a category, topic and subtopic to categorize.|Most similar services just ask for a category and sometimes a topic.|
 
 It's unlikely that Ask VA would operate like #1. This would VA.gov to have specific contact pages set up for each service, which are different to hub or information pages. For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.' The 'Life insurance' contact page would have contact information for the life insurance team. You could choose to get in touch via different channels.
 
