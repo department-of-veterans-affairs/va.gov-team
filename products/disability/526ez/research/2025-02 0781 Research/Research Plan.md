@@ -1,6 +1,6 @@
 # Research Plan for Benefits and Claims Disability Experience Team, New VA Form 0781 Usability Testing, February 2025
 
-**Background**  
+### **Background**  
 The Benefits and Claims Disability Experience Team is building the digital version of the new VA Form 21-0781  
 *Statement in Support of Claimed Mental Health Disorder(s) Due to an In-Service Traumatic Event (s)*. The digital 0781 is an optional ancillary form that is embedded in the 526ez form on VA.gov. Overall, we aim to make the process of claiming PTSD and related conditions faster and less retraumatizing.
 
