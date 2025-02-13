@@ -155,13 +155,13 @@ If Ask VA worked like Grammarly, then:
 
 These 8 websites demonstrate 3 distinct types of contact experiences:
 
-Type 1. Find a contact page for an individual service
-Type 2. Submit a contact form for review
-Type 3. Answer questions and receive a recommendation
+1. Find a contact page for an individual service
+2. Submit a contact form for review
+3. Answer questions and receive a recommendation
 
 Right now, Ask VA operates most similarly to Type 2. Submitters fill out a form and submit it for review. The process is completely asynchronous.
 
-|Ask VA|Other type 2 services|
+|Ask VA|Other Type 2 services|
 |:--|:--|
 |Ask VA is not referred to as a contact form, it's called an "online tool."|Most similar services would call Ask VA a "contact form."|
 |Ask VA sends most responses via a dashboard that requires sign in.|Most similar services send their response via email or phone call.|
