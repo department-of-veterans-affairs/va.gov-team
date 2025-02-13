@@ -128,7 +128,8 @@ We are looking to complete 7-9 sessions. Because of the sensitive nature of the 
 4. LGBTQ+ (At least n=1)
 
 
-**Screener Questions **
+### **Screener Questions**
+
 (Please include the answers to all screener questions on the participant roster. Thank you\!)
 
 1. We’re asking Veterans to share their experience with us so that we can improve the process of filing claims related to traumatic events. However, we know it can be difficult to talk about these topics. We’ll ask you questions about your experience filling out a VA form, which could involve sharing some limited details about your own mental health or traumatic experiences. Are you comfortable sharing your experience with us?  
