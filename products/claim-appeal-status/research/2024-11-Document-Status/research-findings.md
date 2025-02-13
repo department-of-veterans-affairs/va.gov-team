@@ -4,7 +4,7 @@
 
 Date: 02/12/2025
 
-Gary Homidas gary.homidas@adhocteam.us, Skyler Schain skyler.schain@coforma.io
+Gary Homidas gary.homidas@adhocteam.us
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -18,43 +18,49 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
-_Then, describe your goals for this research_
+The Claim Status Tool (CST) is utilized by Veterans from the 'Starting Up' phase through the 'Aging' phase of the Veteran journey map. CST's file upload experience on VA.gov needs improvement, as Veterans often find the status of their uploaded documents unclear. Previously, silent failures occurred when documents failed to process without notifying the Veteran. To address this, we now send error notification emails, eliminating silent failures. While we’ve resolved this issue, it’s important to highlight the past impact—causing confusion, delays, and repeated failed attempts due to the lack of real-time updates.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals)_
+Our goal is to provide real-time transparency, reducing anxiety and enabling self-service resolution through clear, actionable feedback. We also aim to decrease the number of support inquiries through this approach.
 
+The purpose of this research was to:
+
+1. Evaluate whether participants can use the alerts and statuses to effectively understand different types of success and upload failures.
+2. Identify whether Veterans recognize the connection between a failure notification email and the in-app alerts for Type 2 failures.
+3. Identify what a Veteran expects to happen when they mail in documents
+4. Understand how the upload status impacts trust in the claims process
+ 
+[See full research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2024-11-Document-Status/research-plan.md)
 
 
 ## Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+1. Is the "In progress" state useful - do they understand that the document hasn't been completely uploaded to their claim?
+2. Do Veterans make the connection between the email content and the in-app alerts
+3. Do Veterans understand what to do after seeing the email and/or in-app alerts for failed uploads?
+4. Do Veterans feel confident in VA's ability to properly process their mailed-in documents? What do Veterans expect to happen in CST when they mail in a document?
+5. Do the interactions result in any concerns about deadlines or impact trust in VA?
 
 ## Methodology 
 
-_Brief description of method chosen_
+We conducted hour-long remote moderated research sessions via Zoom. Participants were presented with three distinct scenarios and asked to navigate through them, share their thoughts, and describe the actions they would take in each situation. The three scenarios were as follows:
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
+1. Voluntarily uploading additional evidence to a claim.
+2. Uploading a specific file requested by the VA.
+3. Reviewing a failure notice in an email and in CST.
 
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
+* The proposed design makes it clear what the status of the uploaded document is.
+   * **Definitely True:** 8 of 8 participants understood that their documents were in progress and were able to identifiy when said document has been added to the claim. 
+* Veterans will know what to do in scenarios where document uploads were successful and scenarios where document uploads failed.
+   * **Likely True:** All participants understood that they need to re-submit their documents. In the event of a downstream failure due to system operations, ideally, we want Veterans to avoid attempting to re-upload, as suggested by the email and website content. However, 2 out of 8 participants said they would still try to re-upload using the claim status tool because of the perceived convenience of using electronic services rather than mailing the document or personally delivering it to a VA facility.
+* Users will find that real-time in-app status updates enhance the overall service experience by complementing the information provided via email, offering additional clarity and reassurance during the document upload process.
+   * **Likely True:** 7 of 7 participants understood that the in-app status and alerts complemented the failure notice email they received during the study. Some participants noted that the alerts in CST provided more detail about the error situation.
+   * **Note**: One session ended early before we could reach this part of the prototype.
+* Providing Veterans with clarity via in-app status updates will reduce the need for support inquiries.
+   * **Not enough information:** We did not directly seek feedback on this matter. However, during our sessions, a few participants shared different reasons for why they would call. One participant said they would call to verify that the email they received wasn’t a scam, while another mentioned they would call if they were unsure about the email’s content. Ultimately, we need to review call center data post-launch to accurately confirm this.
 
 ## Key Findings
 
