@@ -1,4 +1,4 @@
-**KNOWLEDGE TRANSFER RECORDING**
+**KNOWLEDGE TRANSFER RECORDINGS**
 
 - CHIP & LoROTA
   - [CHIP & LoROTA Knowledge Transfer - April 18, 2023](https://us06web.zoom.us/rec/share/Ngnro0s8JdxmWR3CAEDU85KNOuZFTeCZ5cEPYJSi7sw4zek5kNFof0UUl2-_bnmL.6NCH4P3vNl886BB0) Passcode: yc0^b*#2
