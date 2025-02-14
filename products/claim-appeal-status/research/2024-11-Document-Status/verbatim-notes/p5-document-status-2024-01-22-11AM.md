@@ -311,10 +311,10 @@ see when the submission started Jan 19, 20205. I see it is in progress. and chli
 > I would click on "find" a VA regional office near you.
 
 > I can't submit it (online) it saying I can't submit it
-⠀
-I want you to explore the available options as if you were on your own and viewing the actual page.
 
-* Which option do you prefer and why?
+I want you to explore the available options as if you were on your own and viewing the actual page. 
+ * Which option do you prefer and why?
+
 > It depends, if i'm closer i would go in person, if not, I'd probably mail it.
 
 > I would click "Find VA reginoal office" to see how close it is to me and I would weigh my options.
