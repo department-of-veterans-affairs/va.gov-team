@@ -60,6 +60,8 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 ### Recruitment criteria
 Total sample size will be 383 per corhort, so 766 total. There will be 2 cohorts: test A and test B. Recruitment will be ongoing until all cohorts are filled. 
 
+_This was based on a population size of 70,000 medical supplies users, 95% confidence, and 5% confidence_
+
 **Primary criteria (must-haves)**
 
 - Veterans  
@@ -85,8 +87,9 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Then we will troubleshoot as needed, and recruit for the full number
 
 ### Research sessions
-- **Feb 19:** Launch test 
-- **March 28:** Close test (not a strict deadline, priority is getting enough participants recruited)
+- **Feb 19:** Launch pilot test (5 veterans get test A, 5 veterans get test B)
+- **Feb 26:** Launch final test with remaining sample size 
+- **March 28:** Close test (not a strict deadline, priority is getting enough participants recruited to meet sample size requirements)
 	
 ## Team Roles	
 Moderator: Jina Ryu
