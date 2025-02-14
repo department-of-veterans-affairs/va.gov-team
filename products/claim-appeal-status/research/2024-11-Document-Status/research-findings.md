@@ -74,13 +74,13 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 3. After reading the email and in-app alerts, all seven participants acknowledged that they must resubmit documents that failed to upload to their claim.
 
-4. Finding four
+4. Veterans gave VA an average confidence rating of 4.3 out of 5 for properly managing their mailed-in documents and adding them to their claim.
 
-5. Finding five
+5. Veterans reported an average confidence level of 4.7 out of 5 in their ability to successfully submit their documents to the VA based on the instructions provided in the email and CST.
 
-6. While the CST components and content were generally clear and understandable, many participants were confused by the inconsistency in file statuses under document received —some files displayed statuses like "Pending Review" or "Reviewed By," while others had no statuses.
+6. 7 of 7 participants expected VA to send a confirmation email or notification once their submitted physical documents were received and added to their claim. 
 
-7. Finding seven
+7. While the CST components and content were generally clear and understandable, many participants were confused by the inconsistency in file statuses under document received —some files displayed statuses like "Pending Review" or "Reviewed By VA," while others had no statuses.
 
 
 ## Details of Findings 
