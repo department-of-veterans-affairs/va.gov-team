@@ -215,8 +215,7 @@ Now, I’m going to ask you to review and respond to multiple pages at one time.
 **Task 2: Add Traumatic Events**
 Walk me through how you would respond to questions about traumatic events.
 -   *[Types of Traumatic Events]* What information on this page, if any, did you find unclear or confusing?
--   _[Event list]_Imagine you forgot which event type you selected on the previous page.
--   	- How would you go back and check? 
+-   _[Event list]_
 -   *[Official report]* What categories on this page, if any, did you find unclear or confusing?
 -   *[Prompt report type]* For our purposes, imagine you would select "police report."
 -  *[Remove Police report] If you decided you didn't want to add police report information, what would you do here?
@@ -382,7 +381,10 @@ We're going to pick up where we left of after completing the section on behavior
 ---
 **Task 3: Add Private Provider Info**
 Walk me through how you would complete this page.
--   Cancel from Add Mode *[4.6.1A- Add new facility]*: Imagine you changed your mind. You no longer want to include this provider on your claim. How would you do it?
+- 
+-   *[Add new facility]* Imagine you forgot what you entered on the previous page. How would you check and see?
+-   	- Delete from edit state:[Imagine you changed your mind. You no longer want to include this provider on your claim. How would you do it?
+-   **[Review] **What information would you expect to see on one of these cards? 
 
 > Look out for:
 > -   Behavior of multi-response add mode
