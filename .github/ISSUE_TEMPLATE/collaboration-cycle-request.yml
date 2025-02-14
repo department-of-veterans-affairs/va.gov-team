@@ -129,7 +129,7 @@ body:
     id: architecture-intent
     attributes:
       label: Does your work require non-trivial code changes or involve PII/PHI?
-      description: If so, you need an [engineering and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/collab-cycle/architecture-intent-meeting.md).
+      description: If so, you will need to complete an [Architecture Intent](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/collab-cycle/architecture-intent-meeting.md), a review meeting with the engineering and security teams.
       options:
         - "Yes"
         - "No"
