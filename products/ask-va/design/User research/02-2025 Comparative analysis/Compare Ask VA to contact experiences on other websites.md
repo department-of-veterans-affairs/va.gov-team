@@ -187,7 +187,7 @@ Examples of Type 1:
 >
 > A user searches a 'Contact us' page to find a department to contact. They navigate to a department's contact page. They choose which channel to use.
 
-Ask VA is very differnt to a Type 2 experience, but VA.gov, more generally, has similarities with Type 2. If VA.gov worked **exactly** like a Type 2 experience, it would have have specific contact pages for each business line, which are **different** to hub or information pages. For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.' 
+Ask VA is very different to a Type 2 experience, but VA.gov has similarities with Type 2. If VA.gov worked **exactly** like a Type 2 experience, it would have have specific contact pages for each business line, which are **different** to hub or information pages. For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.' 
 
 We can still, however, compare this to the [right rail](https://design.va.gov/templates/hub#right-rail) VA.gov has on hub pages. Each hub page lists different ways to contact VA, including Ask VA and other channels.
 
