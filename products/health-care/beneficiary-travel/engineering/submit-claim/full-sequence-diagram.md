@@ -11,11 +11,11 @@ sequenceDiagram
     participant redis as Redis
     participant tpapi as Travel Pay API
 
-    note over user,tp: Typical VA.gov Sign-In Flow</b><br/><br/>va.gov-team repo: <br/>products/identity/Products/Sign-In Service/<br/>Engineering Docs/Authentication Types/<br/>Client Auth (User)/<br/>auth_flows/cookie_oauth.md#sequence-diagram
+    note over user,tp: Typical VA.gov Sign-In Flow<br/><br/>va.gov-team repo: <br/>products/identity/Products/Sign-In Service/<br/>Engineering Docs/Authentication Types/<br/>Client Auth (User)/<br/>auth_flows/cookie_oauth.md#sequence-diagram
     
-    user->>tp: /my-health/travel-pay/claims
+    user->>tp: /my-health/travel-pay/*
 
-    tp->>tpm: GET /claims
+    tp->>tpm: /claims/*
 
     activate tpm
         tpm ->> redis: Get cached tokens
