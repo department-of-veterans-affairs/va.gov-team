@@ -961,5 +961,330 @@ Or, check our resources and support section for answers to common questions.
 Go back to VA.gov homepage {action-link}
 
 {Need help footer}
+
 ---  
+
+# Form title: Apply for a medallion in a private cemetery {h1}
+VA Form 40-1330M
+Someone applied to get a medallion put on a deceased Veteran’s headstone or marker in a private cemetery. They provided your name and contact information for the cemetery.
+You’ll need to sign in or create a verified account to access the application. Then, you’ll need to provide additional details for the medallion, and review and sign the application.
+If any of the information in the application is wrong, don’t sign it. Contact the applicant and ask them to submit a new application. 
+## Sign in with a verified account {h2}
+You’ll need to sign in with an identity-verified account through one of our account providers. Identity verification helps us protect all Veterans’ information and prevent scammers from stealing their benefits.
+**Don't yet have a verified account?** Create a **Login.gov** or ID.me account. We’ll help you verify your identity for your account now.
+**Not sure if your account is verified? ** Sign in here. If you still need to verify your identity, we'll help you do that now.
+Sign in or create an account {Primary button}
+
+Respondent burden: **15 minutes**
+OMB Control #: **2900-0222**
+Expiration date: **09/30/2027**
+View Privacy Act Statement {Secondary button}
+--
+[Modal]
+Respondent Burden: This information is collected in accordance with section 3507 of the Paperwork Reduction Act of 1995. Accordingly, we may not conduct or sponsor, and you are not required to respond to a collection of information unless it displays a valid OMB number. We anticipate the time expended by individuals who complete this form will average 15 minutes per response, including the time to review instructions, search existing data sources, gather the necessary data, and complete and review the collection of information. Your response is voluntary and not required to obtain or retain benefits to which you may be entitled. Send comments concerning the accuracy of this burden estimate, including suggestions for reducing this burden or any other aspect of this collection of information to the VA Clearance Officer (005R1B), 810 Vermont Avenue, NW, Washington, DC 20420. Please DO NOT send claims for, or correspondence regarding benefits to this address.
+Privacy Act Information: Title 38 U.S.C. 2402 authorizes the solicitation of this information. VA considers the responses you submit confidential (38 U.S.C. 5701). VA may only disclose this information outside the VA if the disclosure is authorized under the Privacy Act, including the routine uses identified in the VA system of records, 175VA41A, published in the Federal Register. VA considers the requested information relevant and necessary to determine maximum benefits under the law. The purpose for which the records are used will include, but will not be limited to the provision of VA burial and memorial benefits; provision of information about VA burial and memorial benefits, including specific claims; determination of eligibility for burial in a VA national cemetery; disclosure of military service information upon request from VA funded State and Tribal Veterans cemeteries; coordination of committal services and interment upon request of families, funeral homes, and others of eligible decedents at VA national cemeteries.
+
+--
+[Minimal header]
+## Chapter Title: Step 1 of 5: Applicant information {h2} 
+## Applicant details
+This is who applied to get a medallion put on the Veteran’s headstone or marker. 
+
+{un-editable card}
+
+- **Applicant name:** Name
+- **Applicant relationship to the Veteran:** Relationship 
+- **Applicant phone number:** Phone number
+- **Applicant email address:** Email
+  
+{end un-editable card}
+**Note:** To protect the applicant and Veteran’s information, we don’t allow online changes to this application. If you need to change this information, you can contact the applicant directly.
+
+Finish this application later {link}
+Back | Continue {button group}
+--
+[Minimal header]
+# Form title: None
+## Chapter Title: Step 2 of 5: Veteran information {h2} 
+## Veteran details
+This is the deceased Veteran. The medallion will be put on their headstone or marker. 
+
+{un-editable card}
+- **Veteran name:** Name
+- **Does the Veteran’s grave have a privately purchased, permanent crypt, headstone, marker, or mausoleum?:**  Answer
+  
+{end un-editable card}
+
+
+**Note:** To protect the applicant and Veteran’s information, we don’t allow online changes to this application. If you need to change this information, you can contact the applicant directly.
+
+Finish this application later {link}
+Back | Continue {button group}
+--
+[Minimal header]
+# Form title: None
+## Chapter Title: Step 3 of 5: Burial information {h2} 
+## Cemetery details
+
+{un-editable card}
+
+- **Cemetery name:** Name
+- **Cemetery email address:** Address
+  
+{end un-editable card}
+
+**Note:** To protect the applicant and Veteran’s information, we don’t allow online changes to this application. If you need to change this information, you can contact the applicant directly.
+
+Finish this application later {link}
+Back | Continue {button group}
+
+--
+
+[Minimal header]
+# Form title: None
+## Chapter Title: Step 3 of 5: Burial information {h2} 
+## Cemetery contact information
+
+Phone number (*Required) {Form field}
+
+Finish this application later {link}
+Back | Continue {button group}
+
+--
+
+[Minimal header]
+# Form title: None
+## Chapter Title: Step 3 of 5: Burial information {h2} 
+### Cemetery address
+
+Tell us where the cemetery is located.
+
+Country {select}
+
+Street address {input field}
+
+Street address line 2 {input field}
+
+City {input field}
+
+State {input field}
+
+Postal code {input field}
+
+Finish this application later {link}
+Back | Continue {button group}
+
+--
+
+[Minimal header]
+# Form title: None
+## Chapter Title: Step 3 of 5: Burial information {h2} 
+### Select the cemetery address
+
+We found a similar address to the one you entered.
+**[if address found]**
+Tell us which address you'd like to use. (*Required)
+{tile with radio buttons}
+- Address you entered: [address]
+{tile with radio buttons}
+- Suggested address: [address]
+
+**[if address NOT  found]**
+{yellow alert}
+### Check the address you entered{h3}
+We can’t confirm the address you entered with the U.S. Postal Service. Check the address before continuing.
+{end yellow alert}
+
+### Check your mailing address {h4}
+You entered:
+{address block}
+
+- Address
+
+{end address block}
+
+If the address is correct, you can continue. If you need to edit the address, you can go back.
+
+{additional help}
+
+Why we can’t confirm the address you entered
+The address you entered may not be in the U.S. Postal Service’s records. Or, you may have entered an error or the wrong information.
+
+{end additional help}
+
+Finish this application later {link}
+Back | Continue {button group}
+
+--
+
+[Minimal header]
+# Form title: None
+## Chapter Title: Step 4 of 5: Memorial items{h2} 
+### Medallion details
+
+This is the medallion that will be put on the Veteran’s headstone or marker. 
+If the medallion doesn’t fit the cemetery’s requirements, ask the applicant to submit a new application for a different medallion size.
+
+{un-editable card}
+
+- **Medallion type:** Type
+- **Medallion size:** Size
+  
+{end un-editable card}
+
+**Note:** To protect the applicant and Veteran’s information, we don’t allow online changes to this application. If you need to change this information, you can contact the applicant directly.
+
+Finish this application later {link}
+Back | Continue {button group}
+
+--
+
+[Minimal header]
+# Form title: None
+## Chapter Title: Step 4 of 5: Memorial items{h2} 
+### Delivery contact information for medallion
+
+Tell us who to deliver the medallion to. We’ll contact them at the email address and phone number you provide here.
+
+First name (*Required) {input field}
+
+Last name (*Required) {input field}
+
+Email address (*Required) {input field}
+
+Phone number (*Required) {input field}
+
+Finish this application later {link}
+Back | Continue {button group}
+
+--
+
+[Minimal header]
+# Form title: None
+## Chapter Title: Step 4 of 5: Memorial items{h2} 
+### Delivery address for medallion
+
+Country (*Required) {select}
+
+Street address (*Required)  {input field}
+
+Street address line 2 (*Required) {input field}
+
+City (*Required)  {input field}
+
+State (*Required)  {input field}
+
+Postal code (*Required)  {input field}
+
+Finish this application later {link}
+Back | Continue {button group}
+
+--
+
+[Minimal header]
+# Form title: None
+## Chapter Title: Step 4 of 5: Memorial items {h2} 
+### Select the delivery address for medallion
+
+We found a similar address to the one you entered.
+**[if address found]**
+Tell us which address you'd like to use. (*Required)
+{tile with radio buttons}
+- Address you entered: [address]
+{tile with radio buttons}
+- Suggested address: [address]
+
+**[if address NOT found]**
+{yellow alert}
+### Check the address you entered{h3}
+We can’t confirm the address you entered with the U.S. Postal Service. Check the address before continuing.
+{end yellow alert}
+
+### Check your mailing address {h4}
+You entered:
+{address block}
+- Address
+{end address block}
+
+If the address is correct, you can continue. If you need to edit the address, you can go back.
+
+{additional help}
+
+Why we can’t confirm the address you entered
+The address you entered may not be in the U.S. Postal Service’s records. Or, you may have entered an error or the wrong information.
+
+{end additional help}
+
+
+Finish this application later {link}
+Back | Continue {button group}
+
+--
+
+[Minimal header]
+# Form title: None
+## Chapter Title: Step 5 of 5: Review application {h2} 
+### Review the application
+{accordions}  
+  
+- Applicant information  
+- Veteran information  
+- Burial information  
+- Memorial items 
+- Review application 
+  
+{end accordions} 
+
+If any of the information in the application is wrong, don’t sign it. Contact the applicant and ask them to submit a new application. 
+**Note:**  According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information (Reference: 18 U.S.C. 1001).
+
+### Statement of truth {h4}
+By signing this statement, I certify the medallion will be affixed to a privately purchased headstone or marker in the cemetery listed at no expense to the government, and all information entered on this claim is true and correct to the best of my knowledge. I also certify, to the best of my knowledge, that the decedent has never committed a serious crime, such as murder or other offense that could have resulted in imprisonment for life, has never been convicted of a serious crime, and has never been convicted of a sexual offense for which the Veteran was sentenced to a minimum of life imprisonment or a period of 99 years or more.
+I have read and accept the privacy policy
+Your full name {input field}
+I certify that the information is correct and true to the best of my knowledge and belief. (*Required) {checkbox}
+
+Finish this application later {link}
+Back | Submit application {button group}
+
+--
+
+# Apply for a medallion in a private cemetery {h1}
+VA Form 40-1330M
+
+{success alert}
+## You’ve signed the application {h2}
+We’ll tell the applicant that you’ve signed their application.
+
+### Save a copy of your application {h3}
+If you’d like a PDF copy of your signed application, you can download it.
+
+Download a copy of your VA Form 
+40-1330M (PDF) {link}
+
+{accordion}
+Information on this application
+{end accordion}
+
+#### Print this confirmation page {h4}
+
+If you’d like to keep a copy of the information on this page, you can print it now. 
+
+Print this page for your records {primary button} 
+
+## What to expect {h2}
+{subway map}
+### We’ll review the application
+If we need more information or don’t approve the application, we’ll contact the applicant.
+This can take up to 30 days.
+
+### We’ll mail the medallion {h2}
+If we approve the application, we’ll send the medallion to the delivery address you provided. 
+This can take up to 60 days.
+
+## How to contact us if you have questions {h2}
+Call us at 800-827-6947 (TTY:711). We’re here Monday through Friday, 8:00 a.m. to 7:30 p.m. ET.
+
+Go back to VA.gov homepage {action- link)
+
 
