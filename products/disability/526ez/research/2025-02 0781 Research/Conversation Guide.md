@@ -53,7 +53,8 @@
 * **We want to ensure this process is as supportive and user-friendly as possible.** We’ll be showing you some in-progress designs for this form, which we like to call a prototype. Our questions will focus on your experience filling out this VA form, which could involve sharing some limited details about your own mental health or traumatic experiences.   
   * The details you share about your personal experiences with your filing experience or the claim submission itself are up to you. If you wish to keep your feedback focused on the online form itself, you’re also welcome to do that, too.
 
-* **Your participation in this interview is completely voluntary.** You have control over the pace and any content we discuss. Whether you choose to participate or not will not affect your benefits with the VA. You will be paid for the whole session, even if we end early. 
+* **Your participation in this interview is completely voluntary.** You have control over the pace and any content we discuss. Whether you choose to participate or not will not affect your benefits with the VA. You will be paid for the whole session, even if we end early.
+  * **Do you still feel comfortable participing in the study today?**
 
 - **Your honest feedback will help us improve this tool.** We truly value your opinions. There are no right or wrong answers here—this is about understanding your experience and how we can make this process better for everyone.
 
