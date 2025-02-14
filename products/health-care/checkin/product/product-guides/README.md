@@ -2,11 +2,11 @@
 
 ## Check-in (or eCheck-in)
 
-Last uploaded: July 22, 2024
+Last uploaded: February 14, 2025
 
-- [E-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/16337337/PATIENT.CHECK-IN_PRODUCT_GUIDE.v2.4.SRT.07162024.pdf)
+- [E-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/18801315/PATIENT.CHECK-IN_PRODUCT_GUIDE.v2.4.SRT.07162024.pdf)
 
-- [E-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/16337341/PATIENT.CHECK-IN_PRODUCT_GUIDE.v2.4.SRT.07162024.docx)
+- [E-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/18801316/PATIENT.CHECK-IN_PRODUCT_GUIDE.v2.4.SRT.07162024.docx)
 
 ## Pre-Check-In
 
