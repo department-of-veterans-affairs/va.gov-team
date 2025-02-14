@@ -202,7 +202,7 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 
 'Referral' and 'Provider' are going to be a new resources. Endpoints are:
 
-* GET `/vaos/v2/referrals` (new)
+### * GET `/vaos/v2/referrals` (new)
 ```
 [
   {
@@ -213,7 +213,7 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
   }
 ]
 ```
-* GET `/vaos/v2/referrals/{referralNo}`
+### * GET `/vaos/v2/referrals/{referralNo}`
 Response when not booked ie: no appointments have been booked for this referral)
 ```
 {
@@ -264,9 +264,9 @@ Response when an appointment is found
   ]
 }
 ```
-* GET `/vaos/v2/appointments` (existing)
-* GET `/vaos/v2/appointments/{appointmentId}` (existing)
-* GET `/vaos/v2/appointments/{appointmentId}` (new)
+### * GET `/vaos/v2/appointments` (existing)
+### * GET `/vaos/v2/appointments/{appointmentId}` (existing)
+### * GET `/vaos/v2/appointments/{appointmentId}` (new)
 ```
 {
   "appointment": {
@@ -337,10 +337,10 @@ Response when an appointment is found
   }
 }
 ```
-* POST `/vaos/v2/appointments` (existing)
-* GET `/vaos/v2/providers` (new)
-* GET `/vaos/v2/providers/{providerId}/slots` (new)
-* GET `/vaos/v2/providers/{providerId}/drivetime` (new)
+### * POST `/vaos/v2/appointments` (existing)
+### * GET `/vaos/v2/providers` (new)
+### * GET `/vaos/v2/providers/{providerId}/slots` (new)
+### * GET `/vaos/v2/providers/{providerId}/drivetime` (new)
 
 
 ## Removing duplicates and preventing duplicates of referrals
