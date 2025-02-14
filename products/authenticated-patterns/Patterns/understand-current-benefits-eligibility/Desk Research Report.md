@@ -51,7 +51,7 @@ The Service List pattern consists of a few components and UI elements, including
 ### Conducting the research
 
 
-#### Polling the Network
+#### Polling the network
 
 We started by [reaching out](https://dsva.slack.com/archives/C0NGDDXME/p1737562184398659) to the greater VADS design community in the #design slack channel and requested support in locating relevant research resources on the topic of benefits lists. We heard back from several teams including:
 * My HealtheVet
@@ -59,7 +59,7 @@ We started by [reaching out](https://dsva.slack.com/archives/C0NGDDXME/p17375621
 * Benefits Tools
 
 
-#### Relevant Labels in GitHub
+#### Relevant labels in GitHub
 
 We reviewed the research they pointed out, searching for relevant insights related to each of the components we include in our pattern. In addition to this outreach, we also reviewed the [research repository in GitHub](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue) for studies tagged with the following labels:
 * [DSC: Card](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSC%3A%20Card) (16 linked studies)
@@ -67,7 +67,7 @@ We reviewed the research they pointed out, searching for relevant insights relat
 * [DSC: Link - Action](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSC%3A%20Link%20-%20Action) (13 linked studies)
 
 
-##### Suggested Future Research
+##### Suggested future research
 
 There were a few labels for components in the research repository that did not have any studies attached to them. If your team is conducting a study that includes any of the following components, we recommend you ask questions about them and add their label to your study for future review:
 * [‘DSC: Icon’](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aopen+label%3A%22DSC%3A+Icon%22+)
@@ -85,11 +85,12 @@ We also searched EnjoyHQ for relevant insights. While GitHub makes it easy to se
 * “Change in status”
 
 
-### Supportive Findings
+### Supportive findings
 
 Through a detailed review of relevant studies, we found some interesting insights related to lists across a variety of products in our portfolio. The insights fell into a few key themes detailed below. 
 
-#### Theme 1 - Veterans liked seeing lists of relevant information in one place.
+#### Theme 1
+##### Veterans liked seeing lists of relevant information in one place.
 
 There are many examples of lists used throughout VA.gov, such as those for appointments, prescriptions, payments, claims, and debts, among others. Across some of the studies reviewed for these products, we heard Veterans discuss their desire to see all of their important information in one central location[^1]. 
 
@@ -105,12 +106,13 @@ For lists of tools, such as the appointments list, where teams tested a version 
 All of these studies help to provide use cases where a pattern like ours will be a helpful addition to the design library. Moving away from a bordered card style, providing a header link that allows the Veteran to navigate to a detailed view and back to the list again, as well as the overall concept of providing a singular source of information on the current Veteran benefits are all features that are validated by the research referenced in this finding. 
 
 
-##### Suggested Future Research
+##### Suggested future research
 * Wayfinding tools used in lists  (such as filter, sorting, toggle, and the dot/unread notification components) need further exploration with how they interact with the service list pattern 
 * The order of the items in the service list pattern should be studied to ensure they match Veteran expectations and mental models[^8]
 
 
-#### Theme 2 - Statuses were helpful for comprehension, but could cause confusion if Veterans did not understand their meaning.
+#### Theme 2 
+##### Statuses were helpful for comprehension, but could cause confusion if Veterans did not understand their meaning.
 
 Many different products use the status tag component to communicate different messages to Veterans, and it is generally well-understood from the research we reviewed[^9]. Sometimes statuses were accompanied by color, and other times they used the dot component (not yet in VADS) that is often used to communicate if messages are unread. 
 
@@ -122,13 +124,14 @@ While some statuses were only one word (such as “paused”, “declined”, �
 Providing an informative status within a UI component that is visually striking makes a difference in whether that status is seen and understood. By including the status in a tag component inside of the service list component, we will help Veterans to understand important information about their benefit.
 
 
-##### Suggested Future Research
+##### Suggested future research
 * The recommended status content should be investigated to ensure it matches Veteran mental models. 
     * We should also try to understand if short, succinct statuses are better or worse than longer, descriptive statuses.
 * Additional insight is needed around the use of colors in status tags and their effectiveness in communicating the status meaning. There is currently an [experimental design for colored tags](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2993) that can be used to explore this.
 
 
-#### Theme 3 - Veterans were easily able to understand when a list item needed action and how to resolve it.
+#### Theme 3 
+##### Veterans were easily able to understand when a list item needed action and how to resolve it.
 
 A few lists we reviewed featured some kind of call to action (CTA) link within their list item that tested well with Veterans[^11]. For example, Veterans were easily able to begin the process of scheduling an appointment within the appointment list item during the Community care self-scheduling research study[^12].
 
@@ -141,7 +144,7 @@ While this feature tested well overall, as the CTA component gets formally codif
 ###### “I would want to see if there was something else I needed to do, or if everything I’ve submitted is sufficient for them to make a decision. Am I waiting on something specific, or is there something else I need to send?” [- P14](https://app.enjoyhq.com/projects/8w4Y7aPRa/inbox/documents?documentId=ce4e3a04-b0ff-4f1a-bbb0-ba850cbe5903&highlightId=&page=0&query=&sortBy=original_created_at&stats=eyJ0eXBlIjoiIiwicHJvcGVydHkiOiIiLCJuZXN0ZWRQcm9wZXJ0eSI6IiIsImJyZWFrZG93biI6IiIsImNoYXJ0IjoiIiwic2l6ZSI6IjEwIiwic2VyaWVzIjpudWxsLCJyZXBvcnRJZCI6bnVsbH0%253D&statsEnabled=false)[^13]
 
 
-##### Suggested Future Research
+##### Suggested future research
 * The team who creates the new Critical information component should ensure that the content of the component addresses the following elements to ensure the Veteran is clear on the steps they need to take:
         * Who needs to act
         * What action is needed
