@@ -95,19 +95,16 @@ Once complete, ask the notetaker and observers to turn off their cameras for the
 -   We have a few options for how we document today’s session to ensure we capture your feedback accurately.
     
 
--   We can record the audio and video.
+	-   We can record the audio and video.
     
--   We can record only audio, or conduct the session with cameras off.
+	-   We can record only audio, or conduct the session with cameras off.
     
--   Or we can not record, and we’ll just use our notes to reflect what we learn from you.
-    
-
--   Whichever option you chose, the recordings will be deleted after the study, and none of your comments will be attributed to you directly.
-    
--   Let me know which choice you feel comfortable with and will move forward with your option.
+	-   Or we can not record, and we’ll just use our notes to reflect what we learn from you.
     
 
--   If yes: We can also make adjustments as we go. If you end up deciding you’d prefer we not use the recordings, we’ll stop recording and delete what we’ve captured.
+-   Whichever option you chose, the recordings will be deleted after the study, and none of your comments will be attributed to you directly.  Let me know which choice you feel comfortable with to get started. We can make changes as we go. 
+    
+	-   If yes: If you end up deciding you’d prefer we not use the recordings, we’ll stop recording and delete what we’ve captured.
     
 
 Start recording.
