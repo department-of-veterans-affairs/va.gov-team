@@ -153,6 +153,7 @@ For today’s session, we are going to imagine you’re filing for disability be
 For the purpose of this study, we have already added 2 conditions to the prototype– tinnitus and asthma. We know this won’t exactly match your experience, so you can imagine that it reflects whatever conditions you would enter, personally.
 
 **Task:  Add Mental Heath Condition**
+
 -   Walk me through how you would approach adding [mental health condition listed] to your claim. Take the time you need– you can also stop or take a break at any point.
  
 > Look out for:
@@ -179,7 +180,8 @@ Next, we are going to move quickly through a handful of screens that are not rel
 Thanks for your patience moving quickly through those screens. We are going to slow down now for the rest of the session. For each page, review the content and tell me what you’re thinking– I will ask you questions and direct you to fill out the form as we go.
 
 **Task: Comprehension of 0781 Intro + Opt-in**
-[Choice Page] Walk me through how you would approach completing this page.
+
+_[Choice Page]_ Walk me through how you would approach completing this page.
 **Post-Task Qs:**
 -   What do you think is the purpose of this page?
 -   [Cut for time] What questions do you still have about deciding whether or not you should fill out the 0781?
@@ -199,6 +201,7 @@ Thanks for your patience moving quickly through those screens. We are going to s
 Now, I’m going to ask you to review and respond to multiple pages at one time. Especially in the beginning, I might pause and ask you questions. Take the time you need– you can also stop or take a break at any point
 
 **Task 1: Comprehension of Intro Content**
+
 -   *[ Mental Health Support]*  What information on this page do you think is most important?
 -   *[Intro page]* What do you think this page is saying?
 -   :What do you expect will happen next?
@@ -210,6 +213,7 @@ Now, I’m going to ask you to review and respond to multiple pages at one time.
   ---
 
 **Task 2: Add Traumatic Events**
+
 Walk me through how you would respond to questions about traumatic events.
 -   *[Types of Traumatic Events]* What information on this page, if any, did you find unclear or confusing?
 -   _[Event list]_
@@ -232,13 +236,16 @@ Walk me through how you would respond to questions about traumatic events.
 
   ---
 **Task 3:  Modify Traumatic Events**
+
 **3.1 Edit Event** 
+
 Imagine you made a mistake when entering the date for [x event]. How would you change it?
 > Look out for:
 > -   Perceived differences between the edit and add flow
 > -   Attempts to return to previous page from an interior page (not possible)
 
 **3.2 Cancel Add from Edit mode**
+
 If you wanted to cancel the change you just made, how would you do it?
 -  In your own words, what is the yellow alert saying?
 > Look out for:
@@ -247,6 +254,7 @@ If you wanted to cancel the change you just made, how would you do it?
 > -   Attempts to return from a page from an interior page (not possible)
 
 **3.3  Delete Event**
+
 Imagine you changed your mind. You no longer want to include [x event] on your claim. How would you remove it?
 -  In your own words, what is the yellow alert saying?
 > Look out for:
@@ -255,6 +263,7 @@ Imagine you changed your mind. You no longer want to include [x event] on your c
 
     
 **Post-Task Qs:**
+
 -   How easy or difficult was it to make changes to your responses?
 -   How would you feel about submitting your claim without any traumatic events?
     
@@ -265,6 +274,7 @@ Imagine you changed your mind. You no longer want to include [x event] on your c
 Just like we did before, I’m going to ask you to review and respond to multiple pages at once. I may ask you questions as we go; take the time you need– you can also stop or take a break at any point.
 
 **Task 1:  Comprehension of Behavioral Choices Intro + Opt-in**
+
 -   *[Intro page]* How would you describe the purpose of this page?
 -   What do you expect will happen next in the form?
 -   *[Opt-in page]* Explain how you decided what to select on this page.
@@ -276,6 +286,7 @@ Just like we did before, I’m going to ask you to review and respond to multipl
    ---
 
 **Task 2: Add Behavioral Changes**
+
 -   *[Behavior list]* Walk me through how you would approach adding behavioral changes.
 -   *[After they select behaviors]*  For our purposes, also select "I didn't experience any behavioral changes after my traumatic events" and press continue
 -   *[Validation error]* In your own words, what just happened? What would you do next?
@@ -296,7 +307,9 @@ Just like we did before, I’m going to ask you to review and respond to multipl
 
 **Task 3: Modify Behavioral Changes**
 
-**3.1  Edit Behavioral Change** Imagine you decide you want to edit a description to one of your behavioral changes. How would you do it?
+**3.1  Edit Behavioral Change** 
+
+Imagine you decide you want to edit a description to one of your behavioral changes. How would you do it?
 > Look out for:
 > -   Ease of making edits, navigation
 
@@ -329,6 +342,7 @@ Do you feel ready to continue? You have control over the pace and any content we
 We're going to pick up where we left of after completing the section on behavioral changes. Continue to review the pages; I will ask questions and prompt you to answer questions as we go.
 
 **Task 1: Comprehension of Concluding 0781 Pages (MST + Additional Information)**
+
 -   *[MST-Consent]* What questions do you have about this page, if any?
 -   *[Additional information]* Would you expect to add anything to this page?
     
@@ -337,6 +351,7 @@ We're going to pick up where we left of after completing the section on behavior
 
 ---
 **Task 2: Remove 0781**
+
 *[0781 Review]* Imagine you decided that you don’t want to submit a mental health statement as part of your claim. How would you remove it?
  	- In your own words, what is the yellow alert saying? 
 	-  How easy or difficult was it to delete the form?
@@ -372,6 +387,7 @@ We're going to pick up where we left of after completing the section on behavior
 ---
  
 **Task 2: Upload PMR & Complete 4142**
+
 -   *[Non-VA upload]* What information on this page, if any, do you find unclear or confusing? 
 	-   **Delete from Add:** Imagine you wanted to remove the document you uploaded. How would you do it?
  		-  In your own words, what is the yellow alert saying? 		
@@ -384,6 +400,7 @@ We're going to pick up where we left of after completing the section on behavior
 
 ---
 **Task 3: Add Private Provider Info**
+
 Walk me through how you would complete this page.
 - 
 -   *[Add new facility]* Imagine you forgot what you entered on the previous page. How would you check and see?
@@ -398,6 +415,7 @@ Walk me through how you would complete this page.
    ---
 
 **Task 4: Comprehension of Supporting Documents**
+
 -   *[Supporting doc choice page]* Walk me through how you would complete this page.
 -   What, if anything, is missing or confusing about these options?
 -   For our purposes, imagine you wanted to add a lay or witness statement.
@@ -420,6 +438,7 @@ Walk me through how you would complete this page.
 ## Opt-out
 
 **Task: Remove 0781**
+
 Imagine you decided that you don’t want to submit a mental health statement as part of your claim. How would you remove it?
 
 **Post-Task Qs:**
