@@ -62,8 +62,9 @@ In addition, learnings on the multi-response pattern and destructive actions (am
 **Goal 3: Multi-response Pattern:** Evaluate the usability of the multi-response pattern.
 
 * How do Veterans navigate through the multi-response pattern?  
-* What issues, if any, do Veterans have with the differences between the add and edit behavior?  
-* What impact do the summary cards have on Veterans’ ability to keep track of their responses?
+* What issues, if any, do Veterans have with the differences between the add and edit behavior?
+* What do Veterans expect the save state to be when stopping adding or editing a multi-response mid-action?
+* How do Veterans know (or feel confident) that their answers are what they intended when reviewing their answers in a multi-response pattern mid-form and on the final review page? 
 
 ## **Hypothesis**
 
