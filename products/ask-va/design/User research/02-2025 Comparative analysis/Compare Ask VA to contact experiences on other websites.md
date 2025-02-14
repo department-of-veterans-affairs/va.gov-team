@@ -187,9 +187,13 @@ Examples of Type 1:
 >
 > A user searches a 'Contact us' page to find a department to contact. They navigate to a department's contact page. They choose which channel to use.
 
-Ask VA will never operate like Type 2 but it is possible that VA.gov could operate like Type 2. 
+Ask VA will never operate like Type 2 but it is possible that VA.gov could operate like Type 2.
 
-VA.gov would have specific contact pages set up for each business line, which are different to hub or information pages. For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.' The 'Life insurance' contact page would have contact information for the life insurance team. Ask VA would be a channel available on each contact page. Ask VA could operate like it does now, as a Type 1 experience.
+If VA.gov worked exactly like a Type 2 experience, it would have have specific contact pages for each business line, which are different to hub or information pages. For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.' 
+
+This is similar to the [right rail](https://design.va.gov/templates/hub#right-rail) VA.gov has on hub pages. Hub pages include different ways to contact VA, including Ask VA. The value of a Type 2 experience is that you spend time narrowing down who to contact and end up with _specific_ contact information for a department. You expect a specific phone number for 'Education benefits and work study' when you're on [va.gov/education](https://www.va.gov/education/), for example. 
+
+The problem is, Ask VA is general. It's a way to contact all (or most) departments at VA. So, while you previously spent time narrowing down which department to contact, you now have to do this again within the form. This seam could be designed more thoughtfully. For example, if you land on Ask VA from [va.gov/education](https://www.va.gov/education/), the form knows you are asking a question about education and your Type 1 experience of filling out the form is more efficient.
 
 Examples of Type 2:
 - [GOV.UK/Contact](https://www.gov.uk/contact)
