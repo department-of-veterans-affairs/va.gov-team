@@ -12,6 +12,9 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+## 2/13/2025
+- Removed from eCheck-in and OH Travel content that referenced the 30-day deadline to file a travel reimbursement claim
+    - [Ticket 102233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102233)
 ## 2/5/2025
 - Added retry (3 times) in the scenario when the VA notification API fails to ensure the Veteran is notified; in the event all of the retries fail, the failure is logged (VA Notify has it's own retry mechanism, this is an additional retry mechanism on top of that)
     - [Ticket 96416](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96416)
