@@ -262,6 +262,7 @@ Imagine you changed your mind. You no longer want to include [x event] on your c
 -   How would you feel about submitting your claim without any traumatic events?
     
 ---
+
 ### 0781 Behavioral Changes (15 min)
 
 Just like we did before, I’m going to ask you to review and respond to multiple pages at once. I may ask you questions as we go; take the time you need– you can also stop or take a break at any point.
@@ -340,7 +341,9 @@ We're going to pick up where we left of after completing the section on behavior
 ---
 **Task 2: Remove 0781**
 *[0781 Review]* Imagine you decided that you don’t want to submit a mental health statement as part of your claim. How would you remove it?
--   How easy or difficult was it to delete the form?
+ 	- In your own words, what is the yellow alert saying? 
+	-  How easy or difficult was it to delete the form?
+ 
 -   *[Review screen]* Overall, how useful do you find this screen? 
 -   What do you expect will happen next?
  
@@ -359,8 +362,8 @@ We're going to pick up where we left of after completing the section on behavior
 	-   What do you expect will happen next?
 -   *[Medical record source choice page]* According to this page, what are your options for including medical records?
 	-   Which would you select?
--   For our purposes, please select Private Medical Records and "I don't want to review any medical records for my claim and press continue.
--   *[Validation error]* In your own words, what just happened? What would you do next?
+	-   Validation error: For our purposes, please select Private Medical Records and "I don't want to review any medical records for my claim" and press continue.
+		-   In your own words, what just happened? What would you do next?
 -   *[PMR Submission method page]* For our purposes, select "I have medical records from some providers, but I need you to request records from other providers.
 -   What do you expect will happen next?
     
@@ -373,7 +376,8 @@ We're going to pick up where we left of after completing the section on behavior
  
 **Task 2: Upload PMR & Complete 4142**
 -   *[Non-VA upload]* What information on this page, if any, do you find unclear or confusing? 
--   Delete doc: Imagine you wanted to remove the document you uploaded. How would you do it?
+	-   **Delete from Add:** Imagine you wanted to remove the document you uploaded. How would you do it?
+ 		-  In your own words, what is the yellow alert saying? 		
 -   *[4142 Auth]* What is the purpose of this page?
     
 > Look out for:
@@ -386,7 +390,8 @@ We're going to pick up where we left of after completing the section on behavior
 Walk me through how you would complete this page.
 - 
 -   *[Add new facility]* Imagine you forgot what you entered on the previous page. How would you check and see?
--   	- Delete from edit state:[Imagine you changed your mind. You no longer want to include this provider on your claim. How would you do it?
+-   	- **Delete from edit state** : Imagine you changed your mind. You no longer want to include this provider on your claim. How would you do it?
+-   		- In your own words, what is the yellow alert saying? 
 -   **[Review] **What information would you expect to see on one of these cards? 
 
 > Look out for:
@@ -399,9 +404,15 @@ Walk me through how you would complete this page.
 -   *[Supporting doc choice page]* Walk me through how you would complete this page.
 -   What, if anything, is missing or confusing about these options?
 -   For our purposes, imagine you wanted to add a lay or witness statement.
--   *[Lay statement upload]* This is where you would add your lay statement.
-	- Imagine you wanted to remove the document you uploaded. How would you expect to delete it?
-*-   [Evidence summary]* What do you think is the purpose of this page?
+	-  *[Lay statement upload]* What, if anything, is missing or confusing about this page?
+		- **Delete:** Imagine you wanted to remove the document you uploaded. How would you expect to delete it?
+- [Evidence summary]*
+   - **Remove from summary:** Imagine you decided you no longer want to provide any private medical records. How would you remove them from your claim?
+  	 - In your own words, what is the yellow alert trying to say? 
+
+   **Post-Task Qs:**
+- How easy or difficult was it to remove 
+-  What do you think is the purpose of this [review] page?
 -   What do you expect will happen next?
   
 > Look out for:
