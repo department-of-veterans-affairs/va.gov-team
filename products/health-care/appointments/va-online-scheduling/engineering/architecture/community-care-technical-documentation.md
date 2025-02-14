@@ -266,7 +266,7 @@ Response when an appointment is found
 ```
 * GET `/vaos/v2/appointments` (existing)
 * GET `/vaos/v2/appointments/{appointmentId}` (existing)
-* GET `/vaos/v2/appointments/{appointmentId} (new)
+* GET `/vaos/v2/appointments/{appointmentId}` (new)
 ```
 {
   "appointment": {
