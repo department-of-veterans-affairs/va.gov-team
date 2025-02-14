@@ -36,11 +36,7 @@ The idea for this pattern was presented to the portfolio during the [Blue Sky pr
 
 ### Pattern components
 
-[add image] 
-
-![An annotated Service list item, calling out the header, critical information, status, details, and link.](images/image1.png "image_tooltip")
-
-![Equality-checker-for-Update-Prefill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design-and-research/Screenshots/Equality%20Tracker%20for%20Update%20Prefill%20Study.png)
+![An annotated Service list item, calling out the header, critical information, status, details, and link.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/understand-current-benefits-eligibility/Annotated%20Service%20List.png)
 
 The Service List pattern consists of a few components and UI elements, including:
 
