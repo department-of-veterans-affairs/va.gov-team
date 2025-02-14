@@ -187,13 +187,13 @@ Examples of Type 1:
 >
 > A user searches a 'Contact us' page to find a department to contact. They navigate to a department's contact page. They choose which channel to use.
 
-Ask VA will never operate like Type 2 but it is possible that VA.gov could operate like Type 2.
+Ask VA is very differnt to a Type 2 experience, but VA.gov, more generally, has similarities with Type 2. If VA.gov worked **exactly** like a Type 2 experience, it would have have specific contact pages for each business line, which are **different** to hub or information pages. For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.' 
 
-If VA.gov worked exactly like a Type 2 experience, it would have have specific contact pages for each business line, which are different to hub or information pages. For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.' 
+Right now, though, we can compare this to the [right rail](https://design.va.gov/templates/hub#right-rail) VA.gov has on hub pages. Each hug page lists different ways to contact VA, including Ask VA. 
 
-This is similar to the [right rail](https://design.va.gov/templates/hub#right-rail) VA.gov has on hub pages. Hub pages include different ways to contact VA, including Ask VA. The value of a Type 2 experience is that you spend time narrowing down who to contact and end up with _specific_ contact information for a department. You expect a specific phone number for 'Education benefits and work study' when you're on [va.gov/education](https://www.va.gov/education/), for example. 
+The value of a Type 2 experience is that you spend time narrowing down who to contact and end up with **specific** contact information for a department. You expect a specific phone number for 'Education benefits and work study' when you're on [va.gov/education](https://www.va.gov/education/), for example. 
 
-The problem is, Ask VA is general. It's a way to contact all (or most) departments at VA. So, while you previously spent time narrowing down which department to contact, you now have to do this again within the form. This seam could be designed more thoughtfully. For example, if you land on Ask VA from [va.gov/education](https://www.va.gov/education/), the form knows you are asking a question about education and your Type 1 experience of filling out the form is more efficient.
+However, Ask VA is general. It's a way to contact all (or most) departments at VA. So, while you previously spent time narrowing down which department to contact, you now have to do this again within the Ask VA form. We can use our understanding of Type 2 services to design this seam more thoughtfully. For example, if you land on Ask VA from [va.gov/education](https://www.va.gov/education/), the form knows you are asking a question about education and filling out the form is more efficient.
 
 Examples of Type 2:
 - [GOV.UK/Contact](https://www.gov.uk/contact)
