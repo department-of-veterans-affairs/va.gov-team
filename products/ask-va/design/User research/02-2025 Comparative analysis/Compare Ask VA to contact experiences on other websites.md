@@ -189,7 +189,7 @@ Examples of Type 1:
 
 Ask VA is very differnt to a Type 2 experience, but VA.gov, more generally, has similarities with Type 2. If VA.gov worked **exactly** like a Type 2 experience, it would have have specific contact pages for each business line, which are **different** to hub or information pages. For example, there would be a contact page for 'Education benefits and work study' and a contact page for 'Life insurance.' 
 
-Right now, though, we can compare this to the [right rail](https://design.va.gov/templates/hub#right-rail) VA.gov has on hub pages. Each hug page lists different ways to contact VA, including Ask VA. 
+We can still, however, compare this to the [right rail](https://design.va.gov/templates/hub#right-rail) VA.gov has on hub pages. Each hub page lists different ways to contact VA, including Ask VA and other channels.
 
 The value of a Type 2 experience is that you spend time narrowing down who to contact and end up with **specific** contact information for a department. You expect a specific phone number for 'Education benefits and work study' when you're on [va.gov/education](https://www.va.gov/education/), for example. 
 
