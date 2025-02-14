@@ -68,17 +68,17 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
+1. All participants understood that their recently submitted file was still in progress and had not been added to their claim as long as the "In Progress" card remained visible.
 
-2. Finding two
+2. 7 of 7 participants recognized that the upload failure notification email directly corresponds to the failure alerts displayed in CST.
 
-3. Finding three
+3. After reading the email and in-app alerts, all seven participants acknowledged that they must resubmit documents that failed to upload to their claim.
 
 4. Finding four
 
 5. Finding five
 
-6. Finding six
+6. While the CST components and content were generally clear and understandable, many participants were confused by the inconsistency in file statuses under document received —some files displayed statuses like "Pending Review" or "Reviewed By," while others had no statuses.
 
 7. Finding seven
 
