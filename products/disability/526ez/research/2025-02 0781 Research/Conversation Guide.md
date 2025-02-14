@@ -219,6 +219,7 @@ Walk me through how you would respond to questions about traumatic events.
 -   *[Official report]* What categories on this page, if any, did you find unclear or confusing?
 -   *[Prompt report type]* For our purposes, imagine you would select "police report."
 -  *[Remove Police report] If you decided you didn't want to add police report information, what would you do here?
+	-  In your own words, what is the yellow alert saying? 	
 -   *[Event list summary]* Overall, how useful do you find this screen?
     
 **Post-Task Qs:**
@@ -242,6 +243,7 @@ Imagine you made a mistake when entering the date for [x event]. How would you c
 
 **3.2 Cancel Add from Edit mode**
 If you wanted to cancel the change you just made, how would you do it?
+-  In your own words, what is the yellow alert saying?
 > Look out for:
 > -   Ease of editing behavior in multi-response pattern
 > -   Understanding that users can cancel on an interior page the middle of an edit flow without losing content on earlier page
@@ -249,6 +251,7 @@ If you wanted to cancel the change you just made, how would you do it?
 
 **3.3  Delete Event**
 Imagine you changed your mind. You no longer want to include [x event] on your claim. How would you remove it?
+-  In your own words, what is the yellow alert saying?
 > Look out for:
 > -   Comprehension of the modal
 > -   UX of committing a destructive action
