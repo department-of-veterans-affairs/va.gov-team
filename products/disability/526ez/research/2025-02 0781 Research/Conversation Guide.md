@@ -215,6 +215,8 @@ Now, I’m going to ask you to review and respond to multiple pages at one time.
 **Task 2: Add Traumatic Events**
 Walk me through how you would respond to questions about traumatic events.
 -   *[Types of Traumatic Events]* What information on this page, if any, did you find unclear or confusing?
+-   _[Event list]_Imagine you forgot which event type you selected on the previous page.
+-   	- How would you go back and check? 
 -   *[Official report]* What categories on this page, if any, did you find unclear or confusing?
 -   *[Prompt report type]* For our purposes, imagine you would select "police report."
 -  *[Remove Police report] If you decided you didn't want to add police report information, what would you do here?
