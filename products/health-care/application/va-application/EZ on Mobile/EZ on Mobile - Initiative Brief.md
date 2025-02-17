@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# EZ on Mobile - Initiative Brief
 - Epic - TBD
 - Design file - TBD
 
@@ -7,6 +7,7 @@
 
 **Related/Associated product(s)**
 - Product | [10-10EZ product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
+- Product | MOBILE APP LINK
 
 ## Problem
 - Currently, the 10-10EZ form is only accessible through the VA.gov website. This can be inconvenient for Veterans who primarily use mobile devices, leading to potential abandonment of applications or delayed submissions.
