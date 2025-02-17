@@ -1,5 +1,5 @@
 # Choose-your-own-adventure - Initiative Brief
-- Epic - [#103252](https://issues/103252)
+- Epic - [#103252](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103252)
 - Design file - TBD
 - Related work - [EZ CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Choose-your-own-adventure/Choose-your-own-adventure%20-%20Initiative%20Brief.md)
 
