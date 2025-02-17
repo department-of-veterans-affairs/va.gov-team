@@ -23,6 +23,7 @@ We need to update sign-in, ID-verification, and Cerner-OH routing alerts on all 
 * Medical records - _these pages will be combined during Phase 2_
   * [View your VA lab and test results](https://www.va.gov/health-care/view-test-and-lab-results/)
   * [Get your VA medical records online](https://www.va.gov/health-care/get-medical-records/)
+* Facility page templates (e.g. https://www.va.gov/kansas-city-health-care/make-an-appointment/)
 
 ## Phase 1 updates - DONE
 Timeline: updates must be shipped by mid-December 2024.
