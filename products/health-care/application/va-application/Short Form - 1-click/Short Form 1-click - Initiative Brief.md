@@ -3,7 +3,7 @@
 - Design file - TBD
 
 ## Outcome Summary
-* Shortening the 10-10EZ form to a 1-click apply action for authenticated Veterans.
+* Shortening the 10-10EZ form to a 1-click apply action for current Short Form - Authenticated Veterans.
 * They would be able to review their prefilled information and submit with no other actions needed.
 * This will streamline the application process, reduce friction, and increase the number of Veterans able to successfully submit the form.
 
