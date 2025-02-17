@@ -1,5 +1,5 @@
 # Short Form 1-click - Initiative Brief
-- Epic - TBD
+- Epic - [#103258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103258)
 - Design file - TBD
 
 ## Outcome Summary
