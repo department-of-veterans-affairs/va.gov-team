@@ -1,4 +1,4 @@
-# 10-10EZ Registration Path - Initiative Brief
+# 10-10EZ Registration Path V2 - Initiative Brief
 
 ## Outcome Summary
 Provide an online option for Veterans who want to register for VA health care with their preferred facility, but do not want to or are unable/ineligible to enroll.
