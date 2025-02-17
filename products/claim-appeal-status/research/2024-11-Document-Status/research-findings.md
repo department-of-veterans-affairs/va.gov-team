@@ -133,6 +133,9 @@ Brief description
 ## Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+1. 6 out of 7 participants preferred to hand-deliver their evidence to the VA when asked about their delivery preference.
+2. Nearly half of the participants who read the failure notice resubmit instructions expressed concerns about writing their full Social Security numbers on a document that might be sent via U.S. mail.
+3. Most participants wanted to know why their file failed in the downstream services before it could be added to their claim. Every participant that wanted an explanation blamed themselves for the upload failing despite seeing the note that it was a system error.
 
 
 ## Recommendations
