@@ -24,7 +24,7 @@ We need to update sign-in, ID-verification, and Cerner-OH routing alerts on all 
   * [View your VA lab and test results](https://www.va.gov/health-care/view-test-and-lab-results/)
   * [Get your VA medical records online](https://www.va.gov/health-care/get-medical-records/)
 
-## Phase 1 updates
+## Phase 1 updates - DONE
 Timeline: updates must be shipped by mid-December 2024.
 
 Tasks
