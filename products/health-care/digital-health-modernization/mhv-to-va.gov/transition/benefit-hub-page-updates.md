@@ -30,10 +30,8 @@ Tasks
 - [x] Update initial sign-in widgets on the pages listed above (under "affected pages") to match [new VADS versions](https://design.va.gov/components/alert/alert-sign-in/)
 - [x] Update ID-verification alerts on those same pages to match [new VADS versions](https://design.va.gov/components/alert/alert-sign-in/)
 - [x] Remove OH/Cerner routing alerts for appointments unauth page
-- [x] Ensure OH/Cerner routing alerts are in place on unauth pages for Secure messages, Medications, and Medical Records - _these alerts will need to be updated to reflect recent guidance and suggestions from the governance team that was given to the appointments team. Cartography created a [template version of this alert in Figma here](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Sign-In?node-id=263-24267&node-type=canvas&t=6GWonl0uzAh40ZVQ-0)._
+- [x] Ensure OH/Cerner routing alerts are in place on unauth pages for Secure messages, Medications, and Medical Records - _these alerts will not be updated or standardized at this time since they are slated to be removed completely by the Phase 2 timeline._
 
-### Image of alert template for benefit hub pages: 
-<img width="1023" alt="Screenshot 2024-11-19 at 1 01 27 PM" src="https://github.com/user-attachments/assets/ba629aa1-00bd-460d-aa63-04f18ce8cfb4">
 
 **Note:** _These updates should align with updates to health care URLs on the My VA page. But updates to URLs on benefit hub pages will not take place until Phase 2 (below)._
 
