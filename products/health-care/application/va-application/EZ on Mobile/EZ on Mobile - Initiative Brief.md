@@ -1,5 +1,5 @@
 # EZ on Mobile - Initiative Brief
-- Epic - TBD
+- Epic - [#103255](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103255)
 - Design file - TBD
 
 ## Outcome Summary
