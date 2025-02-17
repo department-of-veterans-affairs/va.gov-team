@@ -1,5 +1,5 @@
 # Choose-your-own-adventure - Initiative Brief
-- Epic - TBD
+- Epic - [#103253](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
 - Design file - TBD
 - Related work - [Short Form 1-click](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form%20-%201-click/Short%20Form%201-click%20-%20Initiative%20Brief.md)
 
