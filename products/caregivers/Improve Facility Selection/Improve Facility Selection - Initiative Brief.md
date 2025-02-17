@@ -176,11 +176,11 @@
   - [x] Design Intent 3/20/2023
   - [x] [Research Review](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/674) 9/10/2024
   - [x] Architecture Intent review (NEW step - added in October 2024) 11/26/2024
-  - [ ] IA Review
+  - [x] IA Review
   - [ ] Midpoint Review
   - [x] Staging Review 12/12/2024
-  - [ ] Privacy & Security
-  - [ ] Contact Center guide review
+  - [x] Privacy & Security
+  - [x] Contact Center guide review
 
 ### Incident Response Info
 - The 1010CG form is currently in production.  This is an improvement to the Facility Selection page, providing a search function rather than a static dropdown list.
