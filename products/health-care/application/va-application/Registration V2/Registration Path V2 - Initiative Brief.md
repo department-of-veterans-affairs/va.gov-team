@@ -10,6 +10,7 @@ Provide an online option for Veterans who want to register for VA health care wi
 - [Registration 2.0 Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1739463026996/c99d187206065abafe18dfebb1f2acc4ac6a973b)
 - [Figma file](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=7548-50929&p=f&t=wvcvy5fiYaOtWbYE-0)
 - Start of  & super rough [prototype](https://www.figma.com/proto/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=8088-389264&t=wvcvy5fiYaOtWbYE-0&scaling=scale-down&content-scaling=fixed&page-id=7548%3A50929&starting-point-node-id=8088%3A389264)
+- [VES Swagger Doc](https://dev.ves.va.gov/ves-registration-svc/swagger-ui/index.html) (as of 2/14/2025) - Must be on VA network to access
 - [VHA Directive (amended January 10, 2023)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Registration/Registration%20and%20Enrollment%20directive%20-%201601A_01(1)_D_2020-07-07.pdf)
      - Definitions:
           - **Registration**: Adding a Veteran or Patient into ES or the VA's electronic health record for the purpose of receiving services at a VA medical facility.  Registration in ES must be completed prior to enrollment.
