@@ -6,7 +6,7 @@ Provide an online option for Veterans who want to register for VA health care wi
 **Related/Associated Product(s) and Resources
 - [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 - [MVP Registration Only - Experiment Proposal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Registration/Reg%20Only%20experiment%20proposal.md)
-- [Epic - Registration Path V2 #TBD]
+- [Epic - Registration Path V2 #103257](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103257)
 - [Registration 2.0 Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1739463026996/c99d187206065abafe18dfebb1f2acc4ac6a973b)
 - [Figma file](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=7548-50929&p=f&t=wvcvy5fiYaOtWbYE-0)
 - Start of  & super rough [prototype](https://www.figma.com/proto/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=8088-389264&t=wvcvy5fiYaOtWbYE-0&scaling=scale-down&content-scaling=fixed&page-id=7548%3A50929&starting-point-node-id=8088%3A389264)
