@@ -38,6 +38,7 @@ Tasks
 ## Phase 2 updates: 
 Timeline: updates should be made behind feature flags and ready for launch by March 15, 2025. 
 
+- [ ] Coordinate with auth experience team to update URL destinations, link text, and design of the health care section of My VA 
 - [ ] Update content on pages to match names of tools as they are used in My HealtheVet on VA.gov & better speak to the new experience
   * Secure messaging --> secure messages
   * Health records --> medical records
