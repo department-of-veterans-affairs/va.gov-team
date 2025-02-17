@@ -15,7 +15,6 @@
 - The form is designed to collect all possible information from all applicants, rather than being tailored to authenticated Veterans with pre-existing data. Other costraints may include legacy system limitations and policy requirements.
 - This initiative furthers OCTO-DE's mission by streamlining processes through digital solutions, thereby increasing access to health care and improving the Veteran experience.
 
-<!--
 ## Desired User Outcomes
 - Veterans should be able to submit their 10-10EZ application with a single click, after reviewing prefilled information, significantly reducing the time and effort required.
 
