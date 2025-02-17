@@ -1,5 +1,6 @@
 # Transition updates to health care benefit hub pages 
 Date: November 14, 2024
+Updated: February 17, 2025
 
 ## Overview
 We need to update sign-in, ID-verification, and Cerner-OH routing alerts on all `/health-care` static benefit hub pages representing the "big four" tools. The over-arching goal is broken up into two phases: 1.) to update recently launched global sign-in & ID-verification alerts ([see VADS here](https://design.va.gov/components/alert/alert-sign-in/)) on static health-care pages representing the My HealtheVet health portal tools; and 2.) to update static pages for health-care tools to reflect language that is consistent with My HealtheVet and update URLs to point to the new version of the tools on VA.gov. 
@@ -38,8 +39,9 @@ Tasks
 ## Phase 2 updates: 
 Timeline: updates should be made behind feature flags and ready for launch by March 15, 2025. 
 
-- [ ] Coordinate with auth experience team to update URL destinations, link text, and design of the health care section of My VA 
-- [ ] Update content on pages to match names of tools as they are used in My HealtheVet on VA.gov & better speak to the new experience
+- [ ] Coordinate with auth experience team to update URL destinations, link text, and design of the health care section of My VA
+- [ ] Update sign-in & ID-verification widgets in facilities template for health tool sections. The flow of alerts is uniform for all instances - only thing that would vary is the link text/URL pair revealed after sign-in for each tool. 
+- [ ] Update content on static `/health-care` pages to match names of tools as they are used in My HealtheVet on VA.gov & better speak to the new experience
   * Secure messaging --> secure messages
   * Health records --> medical records
   * Pharmacy --> medications
