@@ -26,6 +26,8 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
+**OBJ: Increase submissions for homeless Veterans through an available online option to apply for VA health care**
+
 
 | Metric| Baseline | Target | 1 Month|
 |-------| ------- | ------- | -------|
