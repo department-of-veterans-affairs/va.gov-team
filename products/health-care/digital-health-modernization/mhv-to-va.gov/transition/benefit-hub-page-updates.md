@@ -40,19 +40,50 @@ Tasks
 ## Phase 2 updates - IN PROGRESS
 Timeline: updates should be made behind feature flags and ready for launch by March 15, 2025. 
 
-- [ ] Coordinate with auth experience team to update URL destinations, link text, and design of the health care section of My VA
-- [ ] Update sign-in & ID-verification widgets in facilities template for health tool sections. The flow of alerts is uniform for all instances - only thing that would vary is the link text/URL pair revealed after sign-in for each tool. 
+**Cartography**:
+- [ ] Coordinate with auth experience team to update My VA
+  - Modify list of links under the "Health care" section link to send users directly to the MHV on VA.gov portal tools
+  - Remove existing OH/Cerner alert widget to "Choose the right health portal"
+- [ ] Update sign-in & ID-verification widgets in facilities template for health tool sections. There are three sections in the template to update:
+  - Facility appointment pages - example page: https://www.va.gov/minneapolis-health-care/make-an-appointment/
+  - Facility medical records pages - example page: https://www.va.gov/minneapolis-health-care/medical-records-office/
+  - Facility pharmacy pages - example page: https://www.va.gov/minneapolis-health-care/pharmacy/
+- [ ] Static health tool pages:
+  - Remove Cerner/OH routing alerts from pages for medications, secure messages, and medical records
+  - Ensure React widgets for sign-in and ID-verification alerts are present on all 5 pages. 
+  - Update primary action links on each page to route users to the new VA.gov version of the tools:
+    - Manage your health with My HealtheVet on VA.gov (NEW PAGE) - `va.gov/my-health/`
+    - Appointments - _already done_
+    - Medications - needs to point to: `va.gov/my-health/medications/`
+    - Secure messages - needs to point to: `va.gov/my-health/secure-messages/`
+    - Medical records - needs to point to: `va.gov/my-health/medical-records/`
+
+**CAIA:** 
 - [ ] Update content on static `/health-care` pages to match names of tools as they are used in My HealtheVet on VA.gov & better speak to the new experience
   * Secure messaging --> secure messages
   * Health records --> medical records
   * Pharmacy --> medications
 - [ ] Consolidate the two medical records pages into one
-- [ ] Remove Cerner/OH routing alerts from medications, secure messages, and Medical records unauth pages
-- [ ] Update the links to My HealtheVet (that are revealed behind Sign-in and ID-verification widgets) to point to the new My HealtheVet on VA.gov tools.
-  * Appointments - _already done_
-  * Medications - needs to point to: `va.gov/my-health/medications/`
-  * Secure messages - needs to point to: `va.gov/my-health/secure-messages/`
-  * Medical records - needs to point to: `va.gov/my-health/medical-records/`
+- [ ] Create new Manage your health with My HealtheVet on VA.gov page (which will link to va.gov/my-health)
+- [ ] Update URLs & H1s of all "big 4" static pages
+- [ ] Update Drupal secondary/sidenav links to these pages
+- [ ] Update best bets (in progress from Sara's report)
+- [ ] Move medications & SM landing page content to R&S pages
+- [ ] Redirect old URLs for those static pages to the new ones:
+
+Current URL | Redirect to | Notes
+--- | --- | ---
+www.va.gov/health-care/get-medical-records/ | www.va.gov/health-care/review-medical-records/ | Revising H1 and URL
+www.va.gov/health-care/view-test-and-lab-results/ | www.va.gov/health-care/review-medical-records/ | Merging pages
+www.va.gov/health-care/schedule-view-va-appointments/ | www.va.gov/health-care/manage-appointments/ | Revising H1 and URL
+www.va.gov/health-care/refill-track-prescriptions/ | www.va.gov/health-care/manage-prescriptions-medications/ | Revising H1 and URL
+www.va.gov/health-care/secure-messaging/ | www.va.gov/health-care/send-receive-messages/ | Revising H1 and URL
+www.va.gov/health-care/get-reimbursed-for-travel-pay/ | www.va.gov/health-care/file-travel-pay-reimbursement/ | Revising H1 and URL
+www.va.gov/health-care/covid-19-vaccine/ | TBD R&S page | This may not be done with this work effort
+
+**CAIA - post-launch items:**
+- [ ] Post-launch: Update mega menu
+- [ ] Post-launch: Update top links on VA.gov home page
  
 
 ## Notes
