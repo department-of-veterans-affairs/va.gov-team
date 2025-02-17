@@ -2,7 +2,7 @@
 Date: November 14, 2024
 
 ## Overview
-We need to update sign-in, ID-verification, and Cerner-OH routing alerts on all /health-care benefit hub pages representing the "big four" tools prior to EOY 2024. The over-arching goal is to update recently launched global sign-in & ID-verification alerts ([see VADS here](https://design.va.gov/components/alert/alert-sign-in/)) on static health-care pages representing the My HealtheVet health portal tools. 
+We need to update sign-in, ID-verification, and Cerner-OH routing alerts on all `/health-care` static benefit hub pages representing the "big four" tools. The over-arching goal is broken up into two phases: 1.) to update recently launched global sign-in & ID-verification alerts ([see VADS here](https://design.va.gov/components/alert/alert-sign-in/)) on static health-care pages representing the My HealtheVet health portal tools; and 2.) to update static pages for health-care tools to reflect language that is consistent with My HealtheVet and update URLs to point to the new version of the tools on VA.gov. 
 
 ### Why does this matter? 
 * Current alerts reference four sign-in credentials, but we are sunsetting the My HealtheVet credential by this timeline, so we can no longer reference it. This language must be updated by January 31, 2025.
@@ -10,17 +10,21 @@ We need to update sign-in, ID-verification, and Cerner-OH routing alerts on all 
   * Removing cross-links on VA.gov to the Classic portal. By the Milestone 1 date, VA.gov will prioritize and point to the new My HealtheVet
   * We will completely sunset appointments on MHV Classic
 
+## Timeline:
+* **Phase 1**: updates that need to be made by mid-December 2024
+* **Phase 2**: updates that need to be made by My HealtheVet's "Milestone 1" deadline of March 15, 2025
+
 ## Affected pages: 
 * **Net new page**: Manage your health on My HealtheVet (va.gov/health-care/manage-health)
 * Medications | [Refill and track VA prescriptions](https://staging.va.gov/health-care/refill-track-prescriptions/)
 * Secure messages | [Use secure messaging](https://www.va.gov/health-care/secure-messaging/)
 * Appointments | [Schedule and manage health appointments](https://www.va.gov/health-care/schedule-view-va-appointments/)
-* Medical records - _these pages will be combined into a single page prior to the Milestone 1 timeline_
+* Medical records - _these pages will be combined during Phase 2_
   * [View your VA lab and test results](https://www.va.gov/health-care/view-test-and-lab-results/)
   * [Get your VA medical records online](https://www.va.gov/health-care/get-medical-records/)
 
 ## Phase 1 updates
-Timeline: updates must be shipped by mid-December 2024
+Timeline: updates must be shipped by mid-December 2024.
 
 Tasks
 - [x] Update initial sign-in widgets on the pages listed above (under "affected pages") to match [new VADS versions](https://design.va.gov/components/alert/alert-sign-in/)
@@ -31,11 +35,10 @@ Tasks
 ### Image of alert template for benefit hub pages: 
 <img width="1023" alt="Screenshot 2024-11-19 at 1 01 27 PM" src="https://github.com/user-attachments/assets/ba629aa1-00bd-460d-aa63-04f18ce8cfb4">
 
-
-**Note:** _These updates should align with updates to health care URLs on the My VA page. But updates to URLs on benefit hub pages will not take place until the second quarter of 2025. See Phase 2 plan below._
+**Note:** _These updates should align with updates to health care URLs on the My VA page. But updates to URLs on benefit hub pages will not take place until Phase 2 (below)._
 
 ## Phase 2 updates: 
-Timeline: updates should be made between Feb-Mar 2025
+Timeline: updates should be made behind feature flags and ready for launch by March 15, 2025. 
 
 - [ ] Update content on pages to match names of tools as they are used in My HealtheVet on VA.gov & better speak to the new experience
   * Secure messaging --> secure messages
