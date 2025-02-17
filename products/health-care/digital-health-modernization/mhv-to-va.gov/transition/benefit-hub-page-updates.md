@@ -36,7 +36,7 @@ Tasks
 
 **Note:** _These updates should align with updates to health care URLs on the My VA page. But updates to URLs on benefit hub pages will not take place until Phase 2 (below)._
 
-## Phase 2 updates: 
+## Phase 2 updates - IN PROGRESS
 Timeline: updates should be made behind feature flags and ready for launch by March 15, 2025. 
 
 - [ ] Coordinate with auth experience team to update URL destinations, link text, and design of the health care section of My VA
