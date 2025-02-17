@@ -1,5 +1,5 @@
 # CG on Mobile app - Initiative Brief
-- Epic - #103250
+- Epic - [#103250](https://issues/103250)
 - Design file - TBD
 
 ## Outcome Summary
