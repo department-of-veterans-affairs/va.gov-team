@@ -61,7 +61,7 @@
   - There is a risk that Stakeholders will be resistant, however We will reassure and validate that the same information collected today will be transmitted.  There will be no incomplete or inaccurate forms submitted as a result of this feature.
 
 ### What're you building
-- Develop a 1-click submission option for authenticated Veterans on the 10-10EZ form. Prefill the form with existing data (expand on this). 
+- Develop a 1-click submission option for current Short Form - authenticated Veterans on the 10-10EZ form. Prefill the form with existing data (expand on this). 
 - Allow users to review and edit prefilled information before submitting.
 
 --- 
