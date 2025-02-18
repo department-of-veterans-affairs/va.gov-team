@@ -7,7 +7,7 @@
 Content and IA intake:  https://github.com/department-of-veterans-affairs/va.gov-team/issues/93081
 
 **Supporting files:**
-Mural: [MHV on VA.gov entry points](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1728071932126/91696c078149ca319e0cf553278f2780db11efe8)
+Mural: [MHV on VA.gov entry points](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1728071932126/91696c078149ca319e0cf553278f2780db11efe8?wid=4-1738695366260)
 
 **On this page:**
 - [Navigation flows](#flows)
@@ -39,7 +39,7 @@ Notes:
 - Pages within this section of the hub will be reordered based on 1) the portal landing page first 2) page view of the main 4 portal tools and 3) page views of the remaining health tools 4) page views of any additional pages/crosslinks.
 - The sitemap shown does not reflect final page titles. 
 
-![image of sitemap for health care benefit hub](https://github.com/user-attachments/assets/cd0e7333-fcd9-41f4-92fa-a5437972a2c3)
+![image of sitemap for health care benefit hub](https://github.com/user-attachments/assets/9cb7a635-35a6-49bc-be53-46554ffbdd47)
 
 
 
