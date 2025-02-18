@@ -44,9 +44,10 @@
 | Metric| Baseline | Target | 1 Month|
 |-------| ------- | ------- | -------|
 |Rate of task completion (Medallia) | TBD | TBD | TBD|
-|Average Time to Complete Multiple Forms | TBD | TBD | TBD|
+|Rate of click-thru to next form| TBD | TBD | TBD|
 |Number of Users Completing Multiple Forms Concurrently | TBD | TBD | TBD|
 |Number of Forms completed concurrently | TBD | TBD | TBD|
+|Average Time to Complete Multiple Forms | TBD | TBD | TBD|
 
 ## Discovery
 ### Assumptions/Risks
