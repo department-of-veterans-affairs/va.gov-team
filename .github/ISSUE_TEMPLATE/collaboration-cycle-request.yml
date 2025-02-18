@@ -106,10 +106,10 @@ body:
   - type: dropdown
     id: iteration
     attributes:
-      label: Is this an iteration on an existing product/feature?
+      label: Are you iterating on an existing product or is this a new product?
       options:
-        - "Yes"
-        - "No"
+        - "Iterating on an existing product"
+        - "This is a new product"
     validations:
       required: true
   - type: dropdown
