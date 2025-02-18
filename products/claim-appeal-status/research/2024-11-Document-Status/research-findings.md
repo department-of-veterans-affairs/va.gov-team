@@ -167,10 +167,8 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
+* Continue using the design approach to differentiate 'In Progress' documents from 'Documents Received,' but unify the terms 'Submission started on' and 'Submitted on' to align the language better.
+    * _Only confusion is starts on jan 16 and submitted on jan 16. Maybe a little confusing. – P12_
 * Recommendation 2
     * _Supporting evidence_
 
