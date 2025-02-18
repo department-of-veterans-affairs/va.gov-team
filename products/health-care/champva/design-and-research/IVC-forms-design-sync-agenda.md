@@ -1,5 +1,18 @@
 # Running Design and Research Agenda
 
+## February 18 2025
+ - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Jina Ryu, Rachel Pope, Luis Simauchi
+     - ### Agenda Topics
+         - UX roadmap
+         - CHAMPVA Application/Claims Blueprints
+         - FMP Blueprints/Thoughts on the meeting with FMP Claims last week
+         - 1010D/OHI merge stakeholder research
+	 - Contact questions for CHAMPVA
+
+     - ### Notes
+     - ### Action Items
+
+
 ## February 10 2025
  - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Jina Ryu
      - ### Agenda Topics
