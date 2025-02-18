@@ -31,12 +31,13 @@ This will help us articulate when people should use Ask VA instead of another su
 
 I will review the following support channels:
 
-- My HealtheVet Secure Messaging (MHV SM)
-- Chatbot
+- [My HealtheVet Secure Messaging (MHV SM)](https://www.va.gov/health-care/secure-messaging/)
+- [VA chatbot](https://www.va.gov/contact-us/virtual-agent/)
 - MyVA411 main information line
 - VA benefits hotline
 - GI Bill hotline
 - National Call Center for Homeless Veterans
 - VA health benefits hotline
 - My HealtheVet help desk
+- [My HealtheVet contact form](https://www.myhealth.va.gov/mhv-portal-web/contact-mhv)
 - [VET-HOME Inquiry](https://vethome.va.gov/inquiry/)
