@@ -26,7 +26,7 @@ _The same script will be used for test A and B. The only difference between test
 - **Objective**: To compare the efficiency and intuitiveness of the multistep task pattern (version B) against the old form pattern (version A) in the context of reordering medical supplies, and to understand if this new pattern meets veterans' expectations for completing routine tasks quickly and easily.
 ### Post-task questions
 1. How easy was it to reorder a hearing aid battery using this tool?
-2. How confident did you feel about submitting your order?
+2. If this were real, how confident would you feel that the you successfully submitted your medical supply order? 
 3. Was there any point during the task where you felt lost or unsure of what to do next?
 
 ## Task 2: Edit email address
