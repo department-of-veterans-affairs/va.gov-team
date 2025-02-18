@@ -2,7 +2,8 @@
 NEW Sprint 1: 2/19/25 - 3/05/25
 
 ## 📅 Upcoming Dates  & 🏖️ PTO
-  *
+  * Devin M. 2/24-3/3
+  * Drew C. 2/28
     
 ## 📣 Announcements
 * A6 has changed the cadence of sprint plannings. We closed sprint 26 on 12/31 and to get in sync with other teams we will be starting sprint 24 on 1/2. New cadence will be:
