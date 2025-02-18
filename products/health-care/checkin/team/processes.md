@@ -6,7 +6,7 @@
 - [Planning](#planning)
 - [Sprint Reviews](#sprint-reviews)
 - [Testing](#testing)
-- [Validating](#validating)
+- [Reviewing](#reviewing)
 - [Releasing](#releasing)  
 - [Feedback](#feedback)
 - [Release Notifications](#release-notifications)
@@ -65,7 +65,7 @@
     - Review their Sprint Goals, providing code/UI demos where appropriate
     - Indicate if a goal is needing to be rolled over and why    - 
 
- ## Validating
+ ## Reviewing
 - Ticket owner will, upon completion of a ticket
     - **For FE Tickets**
         - Move to Review column; add screenshots to ticket, ask UX to review, submit PR requests; Attach to the ticket a link to the PR    
