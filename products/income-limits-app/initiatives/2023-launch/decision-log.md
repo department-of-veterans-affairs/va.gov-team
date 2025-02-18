@@ -71,7 +71,7 @@ Other learnings:
 - US code 32 says EED can’t look at income until PG5
 - Coapys are determined on a case-by-case basis by the medical director of the VAMC providing services. There is no set national test that determines copay.
 
-## 2/9 meeting with Danielle Thierry (Content) and Dave Conlon
+## 2/9/23 meeting with Danielle Thierry (Content) and Dave Conlon
 
 **Key decision:** Pause user research until we can get certainty on what thresholds need to be presented to Veterans.
 
