@@ -10,7 +10,49 @@
 	 - Contact questions for CHAMPVA
 
      - ### Notes
+         - UX roadmap
+          	- Putting focus on service blueprints work and OHI interim merge solution 
+         - CHAMPVA Application/Claims Blueprints
+          	- Lets revisit the blueprint on a regular basis to make updates and the process evolves. It needs to be a living doc
+          	- We work  in the VES backend mapping on a future blueprint. There is a recording on the demo available to help with this.
+           	- Premal, Lois and Rachel will send their notes to Jamie to compile and determine changes needed. 
+
+         - FMP Blueprints
+         	- We completed the first revision of the FMP application blueprint. We still need to fill in a lot of gaps with the stakeholders
+          	- Jamie to send out the link to the FMP application blueprint to Premal and Lois
+           	- Designers are working on the FMP claims portion of the blueprint this week which will capture a higher level process from Adam’s demo
+          
+	- Thoughts on the meeting with FMP Claims last week
+ 		- Adam stated that they just need one pdf for each claim submission
+   		- Multiple claims seems like it will work but we will need to revisit with the PEGA to see if they can manage the docs appropriatel
+     		- We need to think about how this news might apply to the CHAMPVA Claim. Keep in mind that there is a little more complexity with the EOB and secondary insurance with CHAMPVA Claims to think about. 
+
+         - 1010D/OHI merge stakeholder research
+         	- We need to think about when it is the right timing to have these conversations now that we need to move fast on an interim solution. We can put some of these conversations after OHI is released.
+         	- We may need to have some smaller conservations about the interim solution as well.
+          	- We could use this time to ask about why we collect certain insurance info and if we need all of this info?
+           	- Consider working these questions into the blueprint service conversations with them.
+           	- Consider during the next CHAMPVA meeting we can go over what our merge plans are with them. They seem more concerned with how the data gets over to them rather than the new U
+           	- Build up a user story surrounding this but talk about what they should be prepared for during each phase in terms of enrollment processing and data.
+           	- We should come up with a solid staged plan for the CHAMPVA app/OHI integration. 
+
+	 - Contact questions for CHAMPVA
+  		- Ask more about if we have different applicants (main applicants vs the dependents) who are receiving what.
+    		- Email may be an ineffective way to ask these questions. We should schedule this during our regular meeting with them and walk them through the questions using visuals (the paper form and/or the digital form.paper form and walk them through this.
+      		- Consider adding these improvements while we are working on the OHI interim solution
+        -  Lois’s departure
+        	-  Lois will be leaving 2 weeks from now
+         	-  Lois will get Luis up to speed on IVC data capture.
+          	-  Premal and Bo can introduce him to our Datadog 
+
+
      - ### Action Items
+     	- Lois will get Luis up to speed on IVC data capture.
+        -  Premal and Bo can introduce Luis to our Datadog
+        -  Jamie to send an agenda to CHAMPVA partners prior to the meetings.
+        -  Set up more automations to cancel meetings with no agenda items.
+        -  Premal, Lois and Rachel will send their notes form teh CHAMPVA service blueprint meeting with the partners to Jamie to compile and determine changes needed.
+        -  Jamie to send out the link to the FMP application blueprint to Premal and Lois. Lois and Premal to review the mural and leave comments. We can talk more during next weeks sync 	
 
 
 ## February 10 2025
