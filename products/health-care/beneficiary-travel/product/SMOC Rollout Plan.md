@@ -52,8 +52,8 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Desired date range or test duration: 3/10-3/14
-- Desired number of users: 9
+- Desired date range or test duration: TBA, pending VTP approval
+- Desired number of users: 30
 - How you'll recruit the right production test users: Through Perigean, we will identify 9 eligible claimants with appointments in the last 30 days who are able to file a simple, mileage-only claim.
 - How you'll conduct the testing: Cara Frissell, our UX researcher, will conduct UAT
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: We will put them behind the feature flag.
@@ -76,7 +76,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: 3/24-4/2
+- Desired date range: TBA, pending VTP approval
 - How will you make the product available in production while limiting the number of users who can find/access it: Using the feature flag
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   - [FILL_IN] : list
@@ -93,7 +93,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 5 days minimum, 3/24-3/28 (or until all criteria is met and any issues are addressed)
+- Length of time: TBA, pending VTP approval - 5 days minimum, 3/24-3/28 (or until all criteria is met and any issues are addressed)
 - Percentage of Users (and roughly how many users do you expect this to be): 5%
 
 | Criteria | Measurement |
@@ -125,7 +125,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 2 weeks minimum (or until all criteria is met and any issues are addressed)
+- Length of time: TBA, pending VTP approval 2 weeks minimum (or until all criteria is met and any issues are addressed)
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 | Criteria | Measurement |
@@ -205,7 +205,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
-- Length of time: 2 weeks minimum (or until all criteria is met and any issues are addressed)
+- Length of time: TBA, pending VTP approval; 2 weeks minimum (or until all criteria is met and any issues are addressed)
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 | Criteria | Measurement |
@@ -244,7 +244,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 2 weeks minimum (or until all criteria is met and any issues are addressed)
+- Length of time: TBA, pending VTP approval; 2 weeks minimum (or until all criteria is met and any issues are addressed)
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 | Criteria | Measurement |
