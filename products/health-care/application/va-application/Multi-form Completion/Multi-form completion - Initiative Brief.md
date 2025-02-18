@@ -69,8 +69,9 @@
 
 ### What're you building
 - Iteration 1: Prompt users with the next logical form after completing the first. Prefill the next form with entered data (this may not be possible).
-- Iteration 2: Prompt users with a list of additional forms after completing the first. Prefill selected forms with entered data (this may not be possible).
-- Iteration 3: Present a list of all eligible forms that can be selected and submitted concurrently using the same data. (Where would this be prompted?)
+- Iteration 2: Prompt users with a list of additional forms after completing the first. 
+- Iteration 3: Prefill selected forms with entered data (this may not be possible).
+- Iteration 4: Present a list of some (start small & least complex?) eligible forms that can be selected and submitted concurrently using the same data. (Where would this be prompted?)
 
 --- 
 
