@@ -6,10 +6,7 @@ NEW Sprint 1: 2/19/25 - 3/05/25
   * Drew C. 2/28
     
 ## 📣 Announcements
-* A6 has changed the cadence of sprint plannings. We closed sprint 26 on 12/31 and to get in sync with other teams we will be starting sprint 24 on 1/2. New cadence will be:
-  * Sprint 25: 1/22/25 to 2/4/25
-  * Sprint 26: 2/5/25 to 2/18/25
-  * *Please note the numbers of the sprints have changed. This is to align us with other teams so we will start 2025 fresh with sprint 24*
+* A6 has changed the cadence of sprint plannings. We are now back to Sprint 1!
 
 ## 🏆 Overarching Goals
 * 🔴 Appointment Cancellation
