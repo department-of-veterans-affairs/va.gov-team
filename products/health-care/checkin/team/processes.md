@@ -67,11 +67,12 @@
 
  ## Validating
 - Ticket owner will, upon completion of a ticket
-    - Move the ticket to the Validate column                 
-    - Attach to the ticket screenshots of the completed work
-    - Attach to the ticket a link to the PR
-    - Call out the UX person associated with the feature and request validation            
-    - Close the ticket once all reviews have been completed and the code merged to main/master (may create a 0-point merge ticket if waiting on Platform PR)
+    - **For FE Tickets**
+        - Move to Review column; add screenshots to ticket, ask UX to review, submit PR requests; Attach to the ticket a link to the PR    
+        - Move to closed after UX reviews and PRs are done; merge code
+    - **For BE Tickets**
+        - Move to Review column, submit PRs; Attach to the ticket a link to the PR    
+        - Move to closed once PRs are done, merge code             
 - Reviewer will
     - Add a comment to the ticket when their review is complete
       
@@ -79,7 +80,7 @@
 - Manual Testing
     - Product Manager will create TestRail test cases 
     - Testers will use TestRail test cases to test new features
-    - Midpoint/Staging review folks will use the TestRail test cases to understand how to test the feature    
+    - Staging review folks will use the TestRail test cases to understand how to test the feature    
 - Automated Testing
     - Engineers will create Cypress tests
 
