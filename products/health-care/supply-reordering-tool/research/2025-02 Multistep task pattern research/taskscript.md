@@ -11,7 +11,7 @@ _The same script will be used for test A and B. The only difference between test
   - Finish the task in one session [continue to task]
   - Leave and come back to finish the task [continue to question 3]
 
-3. Why would you leave the task?
+3. Why did you leave the task?
     - [ ] The instructions were unclear or confusing.
     - [ ] I needed additional information not provided in the current task flow.
     - [ ] I encountered technical issues or errors.
@@ -61,7 +61,7 @@ Note: if you get stuck, press "R" to restart the prototype
 
 ## Post-study Questions
 
-- What suggestions do you have to improve this experience?
+- Is there anything you would add, remove, or change about this experience?
   
 - Please rate your experience today.
 Very good
