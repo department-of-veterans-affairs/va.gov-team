@@ -129,7 +129,7 @@ We’re now going to move to some screen sharing
 * Moving away from burials specifically for a moment, have you filed out any sort of form with VA before? This could be either paper forms or on the computer.
     * If so, what was your experience like after completing it, regarding next steps for your form?
     * Were there things you wished had gone differently?
-* Returning to burials, I’m now going to send you another link [[prototype of application on mobile](https://www.figma.com/proto/XW0MKGL4iuHHRChVFVD6mF/MFS-Pre-need-burials?page-id=24331%3A36881&node-id=24331-36882&p=f&viewport=-25%2C382%2C0.22&t=b4GLL2YIaeD2NcaM-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=24331%3A36882&hotspot-hints=0)]
+* Returning to burials, I’m now going to send you another link [[prototype of application on mobile](https://www.figma.com/proto/XW0MKGL4iuHHRChVFVD6mF/MFS-Pre-need-burials?page-id=24480%3A20737&node-id=24480-23451&viewport=411%2C-127%2C0.5&t=H8zQMctx3T9NmBSm-1&scaling=min-zoom&content-scaling=fixed&hotspot-hints=0)]
     * This is the online application for pre-need burial benefit. It’s a demo, so this is not connected to your account.
         * I won’t have you fill anything out here; this is more to aid our conversation
         * This demo is set up to represent a signed-in account for a person named Sammy
