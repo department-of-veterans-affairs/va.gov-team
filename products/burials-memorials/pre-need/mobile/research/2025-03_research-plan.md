@@ -111,7 +111,7 @@ Semi-structured interviews over Zoom, from their mobile devices
 
 
 
-* [Link to conversation guide](?tab=t.q3282co9rzap)
+* [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/research/2025-03_conversation-guide.md))
 * Unauthenticated portion of VA.gov
 * [Prototype](https://www.figma.com/proto/XW0MKGL4iuHHRChVFVD6mF/MFS-Pre-need-burials?page-id=24480%3A20737&node-id=24480-23451&viewport=25%2C331%2C0.22&t=nmCxkQwVjVRyoqRr-1&scaling=min-zoom&content-scaling=fixed&hotspot-hints=0): [to be viewed on a phone]
     * This will primarily serve as a method to facilitate conversations rather than for usability testing. Many elements have been removed from the design to maintain a high-level discussion.
