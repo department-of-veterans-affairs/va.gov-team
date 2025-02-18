@@ -1,4 +1,4 @@
-# Multi-form bundling - Initiative Brief
+# Multi-form completion - Initiative Brief
 - Epic - [#103260](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)
 - Design file - TBD
 
