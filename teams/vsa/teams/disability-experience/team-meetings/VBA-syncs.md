@@ -1,5 +1,7 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
+# 2/18/25 Biweekly VBA-DBEX Check-in
+- Agenda TBD
 
 # 2/4/25 Biweekly VBA-DBEX Check-in
 - 0781 and Claims for Increase (CFI)
