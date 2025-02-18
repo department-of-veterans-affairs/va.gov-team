@@ -39,3 +39,4 @@ I will review the following support channels:
 - National Call Center for Homeless Veterans
 - VA health benefits hotline
 - My HealtheVet help desk
+- [VET-HOME Inquiry](https://vethome.va.gov/inquiry/)
