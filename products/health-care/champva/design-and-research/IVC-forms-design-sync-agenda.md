@@ -40,11 +40,7 @@
   		- Ask more about if we have different applicants (main applicants vs the dependents) who are receiving what.
     		- Email may be an ineffective way to ask these questions. We should schedule this during our regular meeting with them and walk them through the questions using visuals (the paper form and/or the digital form.paper form and walk them through this.
       		- Consider adding these improvements while we are working on the OHI interim solution
-        -  Lois’s departure
-        	-  Lois will be leaving 2 weeks from now
-         	-  Lois will get Luis up to speed on IVC data capture.
-          	-  Premal and Bo can introduce him to our Datadog 
-
+   
 
      - ### Action Items
      	- Lois will get Luis up to speed on IVC data capture.
