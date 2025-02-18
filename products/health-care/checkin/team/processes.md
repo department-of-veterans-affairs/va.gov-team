@@ -92,8 +92,8 @@
     - Notify Training, Contact Center, & Comms of the release (see [Notifications of Releases & Updates to Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/processes.md#notifications-of-releases--updates-to-planned-releases))
 
 ## Feedback
-[Process for analyzing VSignal data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/README.md)
-[Process for analyzing Medallia data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/how-to-request-and-process-medalia-feedback.md)
+- [Process for analyzing VSignal data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/README.md)
+- [Process for analyzing Medallia data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/how-to-request-and-process-medalia-feedback.md)
    
 ## Release Notifications
 - Notification message for updates to Planned Releases
