@@ -27,7 +27,7 @@ Notes:
 - This work will result in all links to MHV tools on VA.gov pointing at the VA.gov version.
 - This flow does not represent the flows for external deep links (i.e. bookmarks) directly to the portal landing page or the tools. That flow is documented within the sign in/MHV portal routing documentation. This only represents general flows through uanuth content to the portal. 
 
-![image of navigation flow](https://github.com/user-attachments/assets/11facdce-5037-46dd-a4b6-2019351d5aa9)
+![image of navigation flow](https://github.com/user-attachments/assets/9cb7a635-35a6-49bc-be53-46554ffbdd47)
  
 
 ## <a name="map"></a>Page structure<br>
@@ -39,7 +39,7 @@ Notes:
 - Pages within this section of the hub will be reordered based on 1) the portal landing page first 2) page view of the main 4 portal tools and 3) page views of the remaining health tools 4) page views of any additional pages/crosslinks.
 - The sitemap shown does not reflect final page titles. 
 
-![image of sitemap for health care benefit hub](https://github.com/user-attachments/assets/9cb7a635-35a6-49bc-be53-46554ffbdd47)
+![image of sitemap for health care benefit hub](https://github.com/user-attachments/assets/52fd223e-bb2d-4126-89c3-a5adef7b1f45)
 
 
 
@@ -48,14 +48,14 @@ Notes:
 
 
 1) **NEW - MHV on VA.gov portal tool landing page**
-  - URL: www.va.gov/health-care/manage-health/
-  - Breadcrumb:
-    - Desktop: Va.gov home > [H1 of health care hub page] > [H1 of page]
-      - Example: Va.gov home > Health care > Manage your health with My HealtheVet on VA.gov
-    - Mobile: < [H1 of health care hub page]
-      - Example: < Health care
-  - Notes:
-    - Will have a sign in widget
+    - URL: www.va.gov/health-care/manage-health/
+    - Breadcrumb:
+      - Desktop: Va.gov home > [H1 of health care hub page] > [H1 of page]
+        - Example: Va.gov home > Health care > Manage your health with My HealtheVet on VA.gov
+      - Mobile: < [H1 of health care hub page]
+        - Example: < Health care
+    - Notes:
+      - Will have a sign in widget
 
 2) **REVISED - [Schedule and manage health appointments page](www.va.gov/health-care/schedule-view-va-appointments/)**
     - Current URL: www.va.gov/health-care/schedule-view-va-appointments/
@@ -81,7 +81,7 @@ Notes:
     - Notes:
       - Breadcrumb to be updated based on H1 change
      
-6 **REVISED - [Get travel pay reimbursement page](www.va.gov/health-care/get-reimbursed-for-travel-pay/)**
+6) **REVISED - [Get travel pay reimbursement page](www.va.gov/health-care/get-reimbursed-for-travel-pay/)**
     - Current URL: www.va.gov/health-care/get-reimbursed-for-travel-pay/
     - New URL: www.va.gov/health-care/file-travel-pay-reimbursement/
     - Notes:
@@ -179,7 +179,7 @@ _Any additional key locations that the page should be navigable from. Although t
         - ~View lab and test results~ (Remove link)
         - ~Order medical supplies~ (Remove link)
 
-5. **Homepage "Top pages" section**
+4. **Homepage "Top pages" section**
     - ADD/REMOVE/MODIFY LINKS:
       - Modify list of links under the "Top pages section" on the home page
     - PLACEMENT/ORDER:
@@ -199,7 +199,7 @@ _Any additional key locations that the page should be navigable from. Although t
         - ~Get mental health care~ (Remove link)
         - ~Get VA medical records online~ (Remove link)
 
-6. **[My VA](www.va.gov/my-va/)**
+5. **[My VA](www.va.gov/my-va/)**
     - ADD/REMOVE/MODIFY LINKS:
       - Modify list of links under the "Manage your health" section link users directly to the MHV on VA.gov portal tools
       - Remove existing widget to "Choose the right health portal"
