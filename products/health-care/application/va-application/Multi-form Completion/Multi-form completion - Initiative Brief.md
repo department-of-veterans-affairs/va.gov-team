@@ -4,11 +4,11 @@
 
 ## Outcome Summary
 - Enabling Veterans to complete multiple forms using the same data input.
-- This will be achieved through several iterations:
-     - Prompting with the next logical form after completing the first
-     - Prefilling subsequent forms with entered data
-     - Prompting for additional forms
-     - Allowing selection and simultaneous submission of multiple forms.
+- This could be achieved through several iterations:
+     - MVP: Prompting for 10-10CG upon completion of 10-10EZ and receipt of "enrolled" determination for Veterans with 70% or higher disability rating and prefilling with previously entered data/MPI
+     - Prompting for additional forms that may be logical next steps for Veterans
+     - Work with form owners to prefill with previously entered data/MPI
+     - Working with form owners to create a selection list and simultaneous submission of multiple forms
 - This will streamline the application process, reduce redundancy, and enhance the overall Veteran experience.
 
 - **MVP Scope**: Prompting for 10-10CG upon completion of 10-10EZ and receipt of "enrolled" determination for Veterans with 70% or higher disability rating
