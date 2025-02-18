@@ -118,7 +118,6 @@
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1a092434-1989-4900-b709-f3345246ef83)
 
-![CIE Development Process - BPMN process flow (1)](https://user-images.githubusercontent.com/86678742/174146999-201947c6-33b6-4564-bb64-a1bce22631df.jpeg)
 
 
 
