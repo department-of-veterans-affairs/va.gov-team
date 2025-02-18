@@ -4,6 +4,7 @@
 - [CIE and UX Collaboration](#cie-and-ux-collaboration)
 - [Refinement](#refinement)
 - [Planning](#planning)
+- [Sprint Reviews](#sprint-reviews)
 - [Testing](#testing)
 - [Validating](#validating)
 - [Releasing](#releasing)  
@@ -56,7 +57,14 @@
          - Agree on the Sprint Goals/Tickets 
 - After Planning
     - Product Manager will assign the current sprint to each ticket in the Sprint Goals and move tickets to "Current Sprint"
- 
+
+## Sprint Reviews
+- Product Manage will
+    - Record the Sprint Review and past the recording [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprintdemo/readme.md)
+- Team members will
+    - Review their Sprint Goals, providing code/UI demos where appropriate
+    - Indicate if a goal is needing to be rolled over and why    - 
+
  ## Validating
 - Ticket owner will, upon completion of a ticket
     - Move the ticket to the Validate column                 
