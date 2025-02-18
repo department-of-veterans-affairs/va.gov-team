@@ -13,34 +13,31 @@ Last updated by @tygindraux: February 18, 2025
 
 ### Research goals
 
-TBC
-TBC
-
-- Review how other websites provide help before asking someone to submit an inquiry
-- Review how many fields are included on other websites' contact forms
-- Review how other websites ask for information that lets them categorize or route an inquiry
-- Review how being signed in (or not) changes the experience of contacting another organization online
+- Review how support channels are described and distinguished from one another
+- Review how teams measure the success of each support channel (where possible)
+- Review the steps required to receive help from each support channel
+- Review how or if each channel ask for information that lets them categorize or route an inquiry
+- Review how being signed in (or not) changes the experience of using each support tool
 
 ### Outcome
 
-TBC
-
-This will help us articulate the things we like or don’t like and which direction to go with Ask VA. It will feed into product vision exercises we plan to do with partners.
+This will help us articulate when people should use Ask VA instead of another support channel. And consider whether we need to design better seams between Ask VA and other channels. It will feed into product vision exercises we plan to do with partners.
 
 ### Methodology
 
-TBC
-
-1. Identify websites to compare.
-2. Review the contact experience on the website.
+1. Identify channels to compare.
+2. Review support experience of each channel.
 3. Compare to Ask VA.
 
 ## Analysis
 
-I reviewed the following contact experiences:
+I will review the following support channels:
 
 - My HealtheVet Secure Messaging (MHV SM)
-- TBC
-- TBC
-
-I reviewed each channel and took notes in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738276336649/31f5cc8b2eb56f67173d0318e5e38bda887b53bd). (Note: You may not have access to this Mural board.) After reviewing each website, I re-imagined Ask VA as if it worked like ___ contact experience.
+- Chatbot
+- MyVA411 main information line
+- VA benefits hotline
+- GI Bill hotline
+- National Call Center for Homeless Veterans
+- VA health benefits hotline
+- My HealtheVet help desk
