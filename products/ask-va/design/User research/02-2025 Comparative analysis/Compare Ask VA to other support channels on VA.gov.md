@@ -16,8 +16,6 @@ Last updated by @tygindraux: February 18, 2025
 - Review how support channels are described and distinguished from one another
 - Review how teams measure the success of each support channel (where possible)
 - Review the steps required to receive help from each support channel
-- Review how or if each channel ask for information that lets them categorize or route an inquiry
-- Review how being signed in (or not) changes the experience of using each support tool
 
 ### Outcome
 
