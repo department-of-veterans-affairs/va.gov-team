@@ -1,5 +1,8 @@
 ## Facility Locator Search Improvements Decision Log
 
+### 2025-02-18 Priority order for research: Mobile map first
+Mobile map prototype is complete. While Progressive Disclosure is complete, Services autosuggest still requires some work to implement the new autosuggest component. With this in mind, and because Mobile Map already has a starting point for draft plan & conversation guide, we will prioritize Mobile Map research study during 2025 Q1. 
+
 ### 2025-01-28: Suggested results matching / weighting
 Business logic that is used to order suggested results is documented in [engineering README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering#services-autosuggest).
 
