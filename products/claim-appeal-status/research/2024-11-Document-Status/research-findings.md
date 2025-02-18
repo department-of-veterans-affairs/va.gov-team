@@ -26,7 +26,7 @@ Our goal is to provide real-time transparency, reducing anxiety and enabling sel
 The purpose of this research was to:
 
 1. Evaluate whether participants can use the alerts and statuses to effectively understand different types of success and upload failures.
-2. Identify whether Veterans recognize the connection between a failure notification email and the in-app alerts for Type 2 failures.
+2. Identify whether Veterans recognize the connection between a failure notification email and the in-app alerts.
 3. Identify what a Veteran expects to happen when they mail in documents
 4. Understand how the upload status impacts trust in the claims process
  
@@ -53,9 +53,10 @@ We conducted hour-long remote moderated research sessions via Zoom. Participants
 ## Hypotheses and Conclusions
 
 * The proposed design makes it clear what the status of the uploaded document is.
-   * **Definitely True:** 8 of 8 participants understood that their documents were in progress and were able to identifiy when said document has been added to the claim. 
+   * **Definitely True:** 8 of 8 participants understood that their documents were in progress and were able to identifiy when the document has been added to the claim. 
 * Veterans will know what to do in scenarios where document uploads were successful and scenarios where document uploads failed.
-   * **Likely True:** All participants understood that they need to re-submit their documents. In the event of a downstream failure due to system operations, ideally, we want Veterans to avoid attempting to re-upload, as suggested by the email and website content. However, 2 out of 8 participants said they would still try to re-upload using the claim status tool because of the perceived convenience of using electronic services rather than mailing the document or personally delivering it to a VA facility.
+   * **Likely True:** During successful uploads, all participants understood that they had to wait for the file to be added to their claim and then check VA.gov to confirm its receipt. When a document failed to upload due to a downstream system error, participants knew they needed to resubmit it. Although we desire Veterans to avoid reuploading their file and the email and web content provide non-digital options to submit, 2 out of 7 participants said they would still attempt to re-upload using the claim status tool due to the perceived convenience of using electronic services over mailing or personally delivering documents to a VA facility.
+   * **Note**: One session ended early before we could reach this part of the prototype.
 * Users will find that real-time in-app status updates enhance the overall service experience by complementing the information provided via email, offering additional clarity and reassurance during the document upload process.
    * **Likely True:** 7 of 7 participants understood that the in-app status and alerts complemented the failure notice email they received during the study. Some participants noted that the alerts in CST provided more detail about the error situation.
    * **Note**: One session ended early before we could reach this part of the prototype.
@@ -64,40 +65,30 @@ We conducted hour-long remote moderated research sessions via Zoom. Participants
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
-
 1. All participants understood that their recently submitted file was still in progress and had not been added to their claim as long as the "In Progress" card remained visible.
 
-2. Every participant recognized that the upload failure notification email directly corresponds to the failure alerts displayed in CST. ~~Every participant who experienced the upload failure scenario recognized the relationship between the email content and the failure alerts displayed in CST.~~ 
+2. Every participant recognized that the upload failure notification email directly corresponds to the failure alerts displayed in CST.
 
 3. After reading the email and in-app alerts, all seven participants acknowledged that they must resubmit documents that failed to upload to their claim.
 
-4. Most participants are confident in VA's abliity to properly managing their mailed-in documents and adding them to their claim.
+4. Most participants are confident in VA's ability to properly manage their mailed-in documents and add them to their claim.
 
 5. Veterans reported an average confidence level of 4.7 out of 5 in their ability to successfully submit their documents to the VA based on the instructions provided in the email and CST.
 
 6. 7 of 7 participants expected VA to send a confirmation email or notification once their submitted physical documents were received and added to their claim. 
 
-7. While the CST components and content were generally clear and understandable, many participants were confused by the inconsistency in file statuses under document received —some files displayed statuses like "Pending Review" or "Reviewed By VA," while others had no statuses.
+7. While the CST components and content were generally clear and understandable, many participants were uncertain about the inconsistency in file statuses under 'Documents Received.' Some files displayed statuses like 'Pending Review' or 'Reviewed by VA,' while others had no status.
 
 
 ## Details of Findings 
-
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work. [Learn how to add labels](https://depo-platform-documentation.scrollhelp.site/research-design/adding-labels-in-the-research-repository) in Platform documentation._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
 
 **Finding 1: All participants understood that their recently submitted file was still in progress and had not been added to their claim as long as the "In Progress" card remained visible.**
 
 Labels: BNFT: Disability, PRDT: Claim-status-tool, RESRCH: CST Document status, RESRCH: Evaluative, RESRCH: Interviews, RESRCH: Remote, RESRCH: Usability Testing
 
-8 of 8 participants presented with this scenario understood that their recently uploaded evidence was still in progress and had not yet been added to their claim. They drew this understanding from the confirmation message indicating the document was in progress and from the two sections on the files page that categorize documents: 'Submission in Progress' and 'Documents Received.'
+8 of 8 participants presented with this scenario understood that their recently uploaded document was still in progress and had not yet been added to their claim. They drew this understanding from the confirmation message indicating the document was in progress and from the two sections on the files page that categorize documents: 'Submission in Progress' and 'Documents Received.'
 
-Note: This is the only key finding that captured a response from P6. His session ended early due to technical difficulties and his late arrival. All other findings are based on responses from 7 participants.
+**Note**: This is the only key finding that captured a response from P6. His session ended early due to technical difficulties and his late arrival. All other findings are based on responses from 7 participants.
 
 > _The submission is in progress, but it's going to take two business days to see my document. So, you guys put the link to check the status. You can follow that link to make sure if they received it or not... I mean reviewed it. – P1_
 
@@ -105,9 +96,10 @@ Note: This is the only key finding that captured a response from P6. His session
 
 
 **Finding 2: Every participant recognized that the upload failure notification email directly corresponds to the failure alerts displayed in CST.**
+
 Labels: BNFT: Disability, PRDT: Claim-status-tool, RESRCH: CST Document status, RESRCH: Evaluative, RESRCH: Interviews, RESRCH: Remote, RESRCH: Usability Testing
 
-In a hypothetical scenario, participants were guided through a file-uploading process that initially appeared successful. However, they imagined that three days later, they would receive an email notifying them that their uploaded file had not been added to their claim due to a system error. When they revisited CST, they noticed notifications alerting them to the failed delivery. All seven participants recognized that the upload failure notification email directly corresponded to the failure alerts displayed in CST.
+In a hypothetical scenario, participants were guided through a file-uploading process that initially appeared successful. However, they imagined that three days later, they would receive an email notifying them that their uploaded file had not been added to their claim due to a system error. When they revisited CST, they received notifications alerting them to the failed delivery. All seven participants recognized that the upload failure notification email directly corresponded to the failure alerts displayed in CST.
 
 > _The email just tells me that I have a notice, if I'm correct. VA.gov tells me exactly what that notice is. – P8_
 
@@ -123,54 +115,54 @@ Participants understood that they needed to submit physical copies of their docu
 
 > _... So it looks like I would need to resubmit by mail or in person. If I get this email in, let's say it's referring to a docoument that I'm not familiar with it's saying that I can call the VA to get more information. – P4_
 
-**Finding 4: Most participants are confident in VA's abliity to properly managing their mailed-in documents and adding them to their claim.**
+**Finding 4: Most participants are confident in VA's ability to properly manage their mailed-in documents and add them to their claim.**
 
 Labels: BNFT: Disability, PRDT: Claim-status-tool, RESRCH: CST Document status, RESRCH: Evaluative, RESRCH: Interviews, RESRCH: Remote, RESRCH: Usability Testing
 
-Veterans gave VA an average confidence rating of 4.4 out of 5 for properly managing their mailed-in documents and adding them to their claim. They waiveredd in terms of how timely will the document be added to their claim. Some mentioned concerns over files beiing lost.
+Participants gave VA an average confidence rating of 4.4 out of 5 for adding mailed-in documents to their claim. They expressed uncertainty about how quickly the document would be added. While those who have submitted physical copies in the past haven’t experienced mishandled documents, two participants mentioned concerns about lost files based on stories they had heard.
 
-Participants rated VA’s ability to properly manage their mailed-in documents and add them to their claim an average of 4.4 out of 5. However, they expressed uncertainty about how timely the document would be added to their claim, with 2 mentioning concerns about files being lost.
+> _You always hear those few individuals who say they sent something to VA and they lost everything. I would say 5 (rating) because I haven't had those issues personally. – P4_
 
-> _Supporting data: Quote here_
+> _Very confident, I have great experience with VA.gov – P8_
 
-> _Supporting data: Quote here_
-
-**Finding 5**
+**Finding 5: Veterans reported an average confidence level of 4.7 out of 5 in their ability to successfully submit their documents to the VA based on the instructions provided in the email and CST.**
 
 Labels: BNFT: Disability, PRDT: Claim-status-tool, RESRCH: CST Document status, RESRCH: Evaluative, RESRCH: Interviews, RESRCH: Remote, RESRCH: Usability Testing
 
-Brief description
+During the study, participants reviewed sample email and web page content with instructions on submitting physical documents to VA if their digital uploads failed. They also received guidance on confirming VA's receipt of their documents. With this information, participants felt confident in their ability to submit physical copies successfully. 
 
-> _Supporting data: Quote here_
+> _...every step is very descriptive. You have all the information you need. Never did I feel like one of my questions or concerns wasn't answered by following along with the process. – P4_
 
-> _Supporting data: Quote here_
+> _Yeah I can do it, it's self-explanatory as far as they give you the options of mailing it in or having that link to show the regional offices.  – P13_
 
-**Finding 6**
-
-Labels: BNFT: Disability, PRDT: Claim-status-tool, RESRCH: CST Document status, RESRCH: Evaluative, RESRCH: Interviews, RESRCH: Remote, RESRCH: Usability Testing
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-**Finding 7**
+**Finding 6: 7 of 7 participants expected VA to send a confirmation email or notification once their submitted physical documents were received and added to their claim.**
 
 Labels: BNFT: Disability, PRDT: Claim-status-tool, RESRCH: CST Document status, RESRCH: Evaluative, RESRCH: Interviews, RESRCH: Remote, RESRCH: Usability Testing
 
-Brief description
+After participants indicated their preferred delivery option (e.g., by mail or in person) for submitting physical copies of their documents, they all expected VA to proactively issue a confirmation, despite the resubmit notice page stating that Veterans would need to call to confirm if VA received the documents. Additionally, most participants assumed the file would appear in CST, despite the files page stating that only documents uploaded via CST would be displayed.
 
-> _Supporting data: Quote here_
+> _I would probably get another email or notification and I would come back to the site to check the status of the submission. And see the progress of the submission of that form. – P8_
 
-> _Supporting data: Quote here_
+> _To confirm: Call us. Oh. I don’t like that at all. Preferably I’d get an email that says we received it and your claim status has been updated. – P10_
+
+**Finding 7: While the CST components and content were generally clear and understandable, many participants were uncertain about the inconsistency in file statuses under 'Documents Received.' Some files displayed statuses like 'Pending Review' or 'Reviewed by VA,' while others had no status.**
+
+Labels: BNFT: Disability, PRDT: Claim-status-tool, RESRCH: CST Document status, RESRCH: Evaluative, RESRCH: Interviews, RESRCH: Remote, RESRCH: Usability Testing
+
+On the files page, the 'Documents Received' section shows the files Veterans submit through CST. Tracked files, which are VA-requested files, are monitored by the system and may display statuses like 'Pending Review' or 'Reviewed by VA.' Voluntary submissions, however, are not tracked and do not have statuses. When asked why some files had statuses and others did not, participants were unsure but expected all files to have a status indicating they were reviewed or 'looked at.'
+
+> _... I see they’ve been received but would be nice to see reviewed or accepted. Would like to know if someone looked at them. – P10_
+
+> _He thinks that all would have  a status. every document will have a position hold. Your buddy statement may be the last thing to be reviewed. – Moderator note for P6_
+
+> _He expects a status for every file and color-coded labels to communicate meaning. He likes the green checkmark to indicate that everything is good, yellow for pending, and another color for submitted. – Moderator note for P10_
 
 ## Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-1. 6 out of 7 participants preferred to hand-deliver their evidence to the VA when asked about their delivery preference.
-2. Nearly half of the participants who read the failure notice resubmit instructions expressed concerns about writing their full Social Security numbers on a document that might be sent via U.S. mail.
-3. Most participants wanted to know why their file failed to be uploaded to their claim. Every participant that wanted an explanation blamed themselves for the upload failing despite seeing the note that it was a system error.
+1. 6 out of 7 participants preferred to hand-deliver their evidence to VA when asked about their delivery preference, with some citing the system failure as a reason for wanting instant confirmation that their document was received.
+2. Nearly half of the participants who read the failure notice resubmit instructions expressed concerns about writing their full Social Security numbers on a document that could be sent via U.S. mail.
+3. Most participants wanted to know why their file failed to upload to their claim. Among those seeking an explanation, all blamed themselves for the upload failure, despite the note indicating it was a system error.
 
 
 ## Recommendations
