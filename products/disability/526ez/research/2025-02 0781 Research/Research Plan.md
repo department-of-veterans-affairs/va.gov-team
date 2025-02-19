@@ -177,11 +177,11 @@ We are looking to complete 7-9 sessions. Because of the sensitive nature of the 
 
 ### **Research sessions**
 
-* Planned dates of research: End of February/Early March, TBD
+* Planned dates of research: March 4-14
 
 ### **Length of sessions**
 
-* Session length: 75 minutes (will firm up once we complete the conversation guide)  
+* Session length: 90 minutes
 * Buffer time between sessions: 1 hour  
 * Maximum Sessions per day: 3 per day
 
