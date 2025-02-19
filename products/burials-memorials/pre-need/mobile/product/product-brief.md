@@ -1,52 +1,3 @@
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see useful information and inline alerts.
-* ERRORs: 2
-* WARNINGs: 0
-* ALERTS: 3
-
-Conversion time: 0.846 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β44
-* Tue Feb 18 2025 10:47:55 GMT-0800 (PST)
-* Source doc: Untitled document
-* Tables are currently converted to HTML tables.
-
-ERROR:
-undefined internal link to this URL: "https://docs.google.com/document/d/18aNfTYvRFwODubAR2QfiP3FGJ8Hmnj2-9e92ISy8m1M/edit#heading=h.i3v65itiwpyp".link text: 202411XX Pre-Needs Burial Levelset Meeting
-?Did you generate a TOC with blue links?
-
-
-ERROR:
-undefined internal link to this URL: "https://docs.google.com/document/d/1hNr1CvN9s9Huh836F7PpMTqmCDa8uXxNpMrSuSGknas/edit#heading=h.hcip15lfb3xn".link text: Lessons Learned: Pre-Need Burial Claims
-?Did you generate a TOC with blue links?
-
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 2; WARNINGs: 0; ALERTS: 3.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # Pre-Need Burial Product Brief
 
 
@@ -81,14 +32,8 @@ _From Spike ticket [#82](https://github.com/department-of-veterans-affairs/va-mo
     * [va.gov Controller](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/preneeds/burial_forms_controller.rb)
 * It’s worth noting that the mobile controller doesn't really do anything with confirmation emails or anything like that, so there are some slight differences.
 * Per conversation between Kenny Santiago (from one of the main vets-api teams) and Andrew Herzberg (a dev from the flagship team) that happened in slack: Santiago says they had just picked up the API as part of their portfolio and they needed to do some research to see if there were additional options that we were currently exposing via the API.
-
-
-
-   [conversation screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/images/pre-need_background_conversation.png)
-
-
-
-
+   * [conversation screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/images/pre-need_background_conversation.png)
+   * [conversation transcript](products/burials-memorials/pre-need/mobile/docs-media/transcript_pre-need_background_conversation.md)
 * We should follow up with whatever team currently owns that API and figure out if that research was ever done and/or if it could be. Looking at the code for the va.gov controller, it doesn't look like much has changed significantly since then, so the answers could be: "We haven't done that research", or "We did it and there isn't a downstream API to support status checks".
 
 
@@ -248,25 +193,24 @@ _Taken from [Flagship Mobile Brief:](https://github.com/department-of-veterans-a
 
 * VA business owner: Jeff Barnes
 * Stakeholders to be involved or interviewed: Include a representative from the contact center and an individual responsible for manually entering forms into EOAS.
-* 
 
 
 ## Communication Plan
 
 
-## All information will be communicated via the OCTO Slack channel [mobile-feature-support-private](https://dsva.slack.com/archives/C07S7TJRK0B).
+All information will be communicated via the OCTO Slack channel [mobile-feature-support-private](https://dsva.slack.com/archives/C07S7TJRK0B).
 
 
 
-* Stand-Ups (oddball resources): Held Monday, Tuesday, Wednesday from 1:00 - 1:30 am eastern and Thursdays at 1:30pm eastern. 
-* Weekly Engineering sync: Held weekly on Thursdays from 11:30-11:55am eastern.
-* Weekly UX sync: Held weekly on Thursdays from 3:30-3:55am eastern.
+* Stand-Ups (oddball resources): Held Monday, Tuesday, Wednesday from 1:00 - 1:30pm eastern and Thursdays at 12:30pm eastern. 
+* Weekly Engineering sync: Held weekly on Tuesdays from 2:00 - 3:00pm eastern.
+* Weekly UX sync: Held weekly on Thursdays from 2:00 - 3:00pm eastern.
 
 
 ## Launch Plan
 
 
-## _Outline the strategy for launching the initiative, including: target launch date and any phased releases, marketing and promotion strategies, user training or onboarding plans, customer support readiness, monitoring and gathering user feedback post-launch._
+_Outline the strategy for launching the initiative, including: target launch date and any phased releases, marketing and promotion strategies, user training or onboarding plans, customer support readiness, monitoring and gathering user feedback post-launch._
 
 
 ## Success Criteria
@@ -283,7 +227,6 @@ Align with how other claims are measured and tracked today and do something simi
 
 ## Conclusion
 
-
 _Summarize the key points and emphasize the initiative's strategic significance._
 
 
@@ -292,17 +235,8 @@ _Summarize the key points and emphasize the initiative's strategic significance.
     * Is login required to use this service? (See [original charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/jun-2017-mvp/vets.gov-pre-need-burial-charter-6.23.17.pdf), section 1, bullet #4)
 * Lessons learned (about the discovery process)
 * Links to key documents (discovery readout, charter, etc.)
-    * 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "202411XX Pre-Needs Burial Levelset Meeting"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[202411XX Pre-Needs Burial Levelset Meeting](https://docs.google.com/document/d/18aNfTYvRFwODubAR2QfiP3FGJ8Hmnj2-9e92ISy8m1M/edit#heading=h.i3v65itiwpyp)
-    * 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Lessons Learned: Pre-Need Burial Claims"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Lessons Learned: Pre-Need Burial Claims](https://docs.google.com/document/d/1hNr1CvN9s9Huh836F7PpMTqmCDa8uXxNpMrSuSGknas/edit#heading=h.hcip15lfb3xn)
-    * [Pre-Need Burial research](https://docs.google.com/document/d/1rJZEgiwS4DG0UbN4D5uWO1kJlz0di7nPveSB3jOu-r4/edit) - Natasha & Emily’s document that contains current process with notes and other questions some have been moved here
+    * [Lessons Learned: Pre-Need Burial Claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/product/lessons-learned.md)
+    * [Pre-Need Burial research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/research/ux-discovery.md) - Natasha & Emily’s document that contains current process with notes and other questions some have been moved here
 
 
 ## Outstanding Questions
@@ -316,28 +250,23 @@ _Summarize the key points and emphasize the initiative's strategic significance.
     * What if they lose the letter? Is it available to download from their VA.gov account?
     * Are Veterans going to be okay with only finding out about this in the mail?
     * Could we show it in the app under Benefits > VA letters and documents?
-    * __Answers: __Pre-need burial letters are only sent via paper mail due to technical limitations. If they lose the letter, they would need to reach out to NCA at this point. They are not able to access it on their VA.gov account because NCA does not currently integrate with VA.gov.
+    * __Answers:__ Pre-need burial letters are only sent via paper mail due to technical limitations. If they lose the letter, they would need to reach out to NCA at this point. They are not able to access it on their VA.gov account because NCA does not currently integrate with VA.gov.
 * How long does it typically take for the VA to make a decision on a pre-need burial claim?
     * From [Pre-Need Eligibility For Burial In A VA Cemetery | Veterans Affairs](https://www.va.gov/burials-memorials/pre-need-eligibility/), “Note: We’ve received a large number of pre-need eligibility applications, and it’s slowing down our approval process. We’ll let you know when we’ve received your application and how long we think it’ll take to make a decision. We’re sorry for the delay.”
 * What notifications do users receive for the pre-need burial form on VA.gov?
     * Per [Figma for VA.gov](https://www.figma.com/design/3aSSS4Exs7kFn17lN9wIM4/Pre-Need---Integration-Prototype?node-id=0-54342&t=DrKc326WdVsCG9Rh-1), there’s a success message design for submission that may differ from what’s currently built (need to verify). It says they’ll receive a confirmation email and will be notified by mail or phone if they need more details.
     * Is an email currently being fired upon submission and does it contain an expected timeframe/what to expect?
-        * __Answers:__ VA.gov sends notifications for the following for pre-need burial: __Submitted__,__ in progress__, __approved__, __error__ (first three through IBM automation, latter through VANotify). Submission emails do not currently have an estimated timeframe for a decision.
+        * __Answers:__ VA.gov sends notifications for the following for pre-need burial: __Submitted__, __in progress__, __approved__, __error__ (first three through IBM automation, latter through VANotify). Submission emails do not currently have an estimated timeframe for a decision.
 * If users start a pre-need burial claim on VA.gov, does it show as started somewhere within the UI with a way for them to finish it?
-    * __Answers: __Yes, draft applications can be finished within 60 days of starting them
+    * __Answers:__ Yes, draft applications can be finished within 60 days of starting them
     * Could we surface if a pre-need burial claim has been started but has not yet been submitted? Thinking we could link to VA.gov if we’re not building this process in the app.
 
 
 ## Glossary
 
-EOAS: Eligibility Office Automation System
-
-NCA: National Cemetery Administration
-
-OCTO: Office of the Chief Technology Officer
-
-QA: Quality Assurance
-
-VA: Veteran’s Administration
-
+EOAS: Eligibility Office Automation System  
+NCA: National Cemetery Administration  
+OCTO: Office of the Chief Technology Officer  
+QA: Quality Assurance  
+VA: Veteran’s Administration  
 UX: User Experience
