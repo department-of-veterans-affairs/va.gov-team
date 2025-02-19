@@ -100,7 +100,8 @@ The prototype will include:
 
 ### **Research materials**
 
-* Add materials once developed
+[* Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-02%200781%20Research/Conversation%20Guide.md)
+[Prototype](https://www.figma.com/proto/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?page-id=14990%3A2&node-id=15722-103002&viewport=18767%2C20102%2C0.84&t=XN3Ge3QyJ6ViISJl-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=15722%3A103002&show-proto-sidebar=1)
 
 ### **Recruitment approach**
 
