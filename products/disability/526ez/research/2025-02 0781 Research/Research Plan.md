@@ -139,34 +139,34 @@ We are looking to complete 7-9 sessions. Because of the sensitive nature of the 
 * Yes \[Recruit\]  
 * No \[Do not recruit\]
 
-1. Have you ever filed a claim for disability benefits?  
+2. Have you ever filed a claim for disability benefits?  
 * Yes \[Advance\]  
 * No \[Do not recruit\]
 
-1. Did you claim any of the following conditions? You can check multiple types.  
+3. Did you claim any of the following conditions? You can check multiple types.  
 * PTSD \[Recruit 2\]  
 * Military sexual trauma (MST) \[Recruit at least 2\]  
 * Other mental health conditions related to a traumatic event, such as depression or anxiety \[Recruit 2\]  
 * None of the above \[Do not recruit\]
 
-1. What type of event(s) contributed to your condition?  
+4. What type of event(s) contributed to your condition?  
 * Combat \[Recruit at least 1\]  
 * Personal trauma, such as robbery \[Recruit at least 1\]  
 * Military sexual trauma (MST) \[Recruit at least 1\]  
 * Other, such as a natural disaster \[Recruit at least 1\]  
 * None of the above or not sure \[Recruit at least 1\]
 
-1. How recently did you file your claim?  
+5. How recently did you file your claim?  
 * Within the last year \[Recruit at least 2\]  
 * 1-3 years ago \[Recruit at least 1\]  
 * 3-5 years ago \[Recruit 1\]  
 * Over 5 years ago \[Recruit 2\]
 
-1. Which device would you feel comfortable using to join our Zoom session and share your screen?  
+6. Which device would you feel comfortable using to join our Zoom session and share your screen?  
 * Desktop or laptop \[Recruit at least 3\]  
 * Smart mobile phone \[Recruit 3\]
 
-1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.  
+7. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.  
 * Yes \[Recruit at least 3\]  
 * No \[Recruit\]
 
