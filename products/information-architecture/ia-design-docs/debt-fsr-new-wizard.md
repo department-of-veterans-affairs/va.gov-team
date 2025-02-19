@@ -1,5 +1,6 @@
 # IA Design for FSR benefit debt management options
-**STATUS: In review**
+**STATUS: Final**
+- 2/19/2025 - MN: Updated with final direction
 
 **Team:** 
 - #debt-resolution
@@ -26,8 +27,7 @@ _Illustration and/or description of how users will navigate to and flow through 
 - The R&S content will be findable via internal and external search and links, as well as direct links from the Manage VA debt landing page and the FSR introduction page
 - The R&S pages(s) will provide links back to the Manage VA debt landing page and FSR introduction page as appropriate
 
-
-![navigational flow image](https://github.com/user-attachments/assets/3e129bfe-1c48-4aeb-b72c-059809b527da)
+![navigational flow image](https://github.com/user-attachments/assets/24235dff-a5ce-4d52-87ae-baa746980fa0)
 
 
 ## <a name="map"></a>Page structure<br>
