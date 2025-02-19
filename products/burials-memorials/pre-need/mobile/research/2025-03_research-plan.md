@@ -16,7 +16,7 @@ The VA app currently lacks any features related to pre-need eligibility, such as
 
 This research aims to evaluate which aspects of the pre-need burial eligibility process should be integrated into the VA mobile app to better serve Veterans' needs.
 
-[Product Brief](products/burials-memorials/pre-need/mobile/product/product-brief.md)
+[Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/product/product-brief.md)
 
 
 ## OCTO Priorities
