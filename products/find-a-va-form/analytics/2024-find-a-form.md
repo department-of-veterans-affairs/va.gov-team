@@ -7,8 +7,18 @@
 - [Search metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/analytics-find-a-form.md#search-metrics)
 - [Search result metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/analytics-find-a-form.md#search-result-metrics)
   
-## CSAT Scores
-![image](https://github.com/user-attachments/assets/500b8762-3924-4104-88b6-f50fbe71e770)
+## CSAT Average user combined experience
+- CSAT dashboard in DOMO, CSAT captured by filtering this dashboard by month and facility locator url.
+- Experience scores are based on A11 survey. Where users choose a rating from 1 to 5, 4 and 5 are counted as 100%, others as 0%.
+
+<details>
+	<summary>Scores are for the search page itself (does not include About pages)</summary>
+	
+![image](https://github.com/user-attachments/assets/34f83fc4-267b-4710-8d5e-17fdc6ffd6aa)
+
+
+</details>
+
 
 ## Summary data
 > pertains to landing page only
