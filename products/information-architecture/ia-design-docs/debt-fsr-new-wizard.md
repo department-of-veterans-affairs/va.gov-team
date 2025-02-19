@@ -8,7 +8,10 @@
 - Product manager: @Tom-Davis
 - Designer: @josephrlee, @mgleo, @charlottecesana
 
-**CAIA Intake:** [71331](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/26?pane=issue&itemId=46704947)
+**Supporting files**
+- CAIA Intake: [71331](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/26?pane=issue&itemId=46704947)
+- IA Mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1682537441750/a9937e9953d80c221c5165131f611026e0419c7b?wid=275-1739996478792
+- 
 
 
 **On this page:**
