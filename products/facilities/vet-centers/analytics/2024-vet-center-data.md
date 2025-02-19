@@ -1,14 +1,28 @@
 ## 2024 Vet Center page data 
 > for data prior to 2024, please visit [Vet Center data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/analytics/vet-center-data.md)
 
+- [CSAT scores](#csat-scores)
 - [Vet Center editor stats](#vet-center-editor-stats)
 - [Vet Center facility stats](#vet-center-facility-stats)
 - [User data](#user-data)
 - [Interaction data](#interaction-data)
 - [Service views](#service-views)
 - [Other interactions](#other-interactions)
-- [CSAT scores](#csat-scores)
+
   
+
+## CSAT scores
+
+> Source: [VA.gov CSAT Score Dashboard domo](https://va-gov.domo.com/page/1545882322) (all urls)
+> Scores are from A11 surveys (intercept), where users choose a rating from 1 to 5. In calculations, 4 and 5 are counted as 100%, others as 0%.
+
+<details>
+  <summary>Average User Combined Experience & Count of Survey Responses by Month</summary>
+ 
+  ![image](https://github.com/user-attachments/assets/a8ea36c6-2141-4477-b434-c012cabbc9cd)
+
+</details>
+
 ## Vet Center editor stats
 OKR to measure the success of notifications reminding editors to review and update their webpage content (_launched 10.01.2023_): % of editors who have logged into CMS in the last 30 days (RCS leadership and team editors excluded)
 
@@ -84,8 +98,7 @@ OKR to measure the success of notifications reminding editors to review and upda
 |	Average session duration	|	1m 32s	|	1m 38s	|	1m 57s	|	2m 09s	|	1m 50 s	|	2m 08s	|
 |	Engagement rate	|	60.34%	|	81.20%	|	81.51%	|	79.62%	|81.72%		|	83.19%	|
 
-## ## Other interactions
-
+## Other interactions
 
 **January - June via Domo**
 
@@ -141,13 +154,7 @@ OKR to measure the success of notifications reminding editors to review and upda
 |	Whole health  (O)	|	 850 	|	 932 	|	 983 	|	 973 	|	1014	|	 916 	|	 900 	 | 	 910 	 | 	 924 	 | 	 1,022 	 | 	 902 |571|464|
 |	Women Veteran care (O) 	|	 389 	|	 465 	|	 562 	|	 602 	|	534	|	 533 	|	 479 	 | 	 1,440 	 | 	 508 	 | 	 566 	 | 	 448 |311|267|
 
-## CSAT scores
 
-> Source: [VA.gov CSAT Score Dashboard domo](https://va-gov.domo.com/page/1545882322) (all urls)
-
-### Average User Combined Experience & Count of Survey Responses by Month
-Scores are from A11 surveys (intercept), where users choose a rating from 1 to 5. In calculations, 4 and 5 are counted as 100%, others as 0%.
-![image](https://github.com/user-attachments/assets/ddef998c-1ec4-4bbc-bf0a-86179a195052)
 
 
 
