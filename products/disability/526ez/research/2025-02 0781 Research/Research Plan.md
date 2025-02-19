@@ -177,16 +177,20 @@ We are looking to complete 7-9 sessions. Because of the sensitive nature of the 
 
 ### **Research sessions**
 
-* Planned dates of research: March 4-14
+* Planned dates of research: March 3-7; 10-14
 
 ### **Length of sessions**
 
 * Session length: 90 minutes
 * Buffer time between sessions: 1 hour  
-* Maximum Sessions per day: 3 per day
+* Maximum Sessions per day: Allow for 3 per day if needed
 
 ### **Availability**
- **Add dates and time slots**
+March 3-
+- 9:00-10:30am EST
+- 12-1:30 EST
+- 2:30-4:00 EST
+Add one extra timeslot on March 4-6 and 11-13 for 5-6:30 EST
 
 ## **Team Roles**
 
