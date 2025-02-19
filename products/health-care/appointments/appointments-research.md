@@ -4,7 +4,7 @@ Feel free to link to relevant studies. Questions or comments? Contact peter.russ
 Here is a list of research studies related to appointments on VA.gov: 
 - [VA online scheduling (VAOS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md#va-online-scheduling-vaos)
 - [Community care (CC)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md#community-care-cc)
-- Check-in
+- [Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md#check-in)
 - Oracle health (OH)
 - Travel pay 
 - Tele-urgent care
