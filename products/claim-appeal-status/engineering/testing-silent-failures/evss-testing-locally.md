@@ -117,7 +117,3 @@
 8. Run `vets-api` and `vets-website` locally
 9. Go to the claim status tool, select a claim, navigate to the Files Tab and upload a file
 10. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 0 records were added/updated to the evidence_submissions table and an email was sent to you for a failed document upload
-
-
-# How to Test EVSS Silent Failure Work in Staging
-
