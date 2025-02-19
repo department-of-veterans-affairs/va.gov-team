@@ -56,4 +56,4 @@ assignees: artsymartha68,sara-amanda,NaomiPMC,lakper
 > - Instead, related tickets will be connected to tickets via sub-issues.
 > ##### Connecting Tickets
 > - **To connect an existing ticket**, choose the drop-down from "create sub-issue" and select "add existing issue"
-> - To connect a new issue, choose the drop-down from "create sub-issue" and select "create sub-issue," and select the respective template. 
+> - **To connect a new issue,** choose the drop-down from "create sub-issue" and select "create sub-issue," and select the respective template. 
