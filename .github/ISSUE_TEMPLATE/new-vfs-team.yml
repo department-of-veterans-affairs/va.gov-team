@@ -57,6 +57,7 @@ body:
         - "Health Tools"  
         - "Benefit Tools"  
         - "Lighthouse API"  
+        - "Platform"
         - "Other (Specify below)"
     validations:  
       required: true  
