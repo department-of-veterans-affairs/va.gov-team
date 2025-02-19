@@ -59,7 +59,7 @@
 ## EVSS - Testing upload failure for type 1 and 2 and the document upload failure email
 ### When cst_send_evidence_submission_failure_emails is enabled
 1. Perform steps 1-14 noted in the **Testing upload success section**
-2. Create an ID.me Account in Staging 
+2. Create an ID.me Account in Staging, instructions [here](products/claim-appeal-status/engineering/onboarding/create-idme-staging-account.md)
 3. Within the ArgoCD terminal using rails console run the following commands to change the record to a failure and run the document upload failure email cron job...
    ```
    // Find your evidence submission passing in your claim id and tracked item id if necessary
@@ -86,5 +86,7 @@
 
    // Run this command to run the failure notification email job that sends a document upload failure email to a user
    Lighthouse::EvidenceSubmissions::FailureNotificationEmailJob.perform_async
+
+   // Look up your evidence submission record and you should see your record now has a va_notify_id and and a va_notify_date
    ```
-4. 
+4. Id you changed the User Account ID of the evidence submission record then you should expect to recevie a document upload failure notification email
