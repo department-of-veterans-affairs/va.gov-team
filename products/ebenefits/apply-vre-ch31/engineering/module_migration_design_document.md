@@ -34,7 +34,7 @@ Add the following structure to the newly created module.  Copy the file contents
 ```
 modules/vre/
 ├── app/
-    ├── controllers/
+    ├── controllers/v0/ <- version the controllers
     │   └── claims_controller.rb
     ├── models/
     │   └── veteran_readiness_employment_claim.rb
