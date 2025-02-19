@@ -88,7 +88,8 @@ Because there are no changes to the primary task flow - ability to navigate to a
 ##  <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience.* 
 
-**For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=redirect-request.md) at least 2 weeks in advance.**  
+Redirect ticket to be created and managed by the content and IA team 
+
 
 | Page Name                | Current URL                                                       | Will redirect to…               |
 |--------------------------|-------------------------------------------------------------------|---------------------------------|
