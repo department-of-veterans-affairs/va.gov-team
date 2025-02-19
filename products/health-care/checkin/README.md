@@ -26,30 +26,29 @@
 - [Resources Developed outside the CIE Team](#resources-developed-outside-the-cie-team)
 
 ## Team Members
-- Management
-    - OCTO
-        - Kay Lawyer (PO)
-        - Kristen McConnell (UX)
-        - Stephen Barrs (Eng)
-    - Product
-        - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
-    - Delivery
-        - [Alex Parker](https://dsva.slack.com/team/U066D61DAEQ)
-    - Full Stack Engineers
-      - [Lee DeLarm](https://dsva.slack.com/archives/D05B37XJF8C)
-      - [Bill Tran](https://dsva.slack.com/team/U08BFMHL9MF)
-      - Carlos Felix
-      - [Phil DeFraties](https://dsva.slack.com/team/U089MDZ98BZ)
-      - [Devin McCurdy (temporary)](https://dsva.slack.com/team/U06HX72KD7Y)
-    - Front End Engineers
-      - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)  
-    - Back End Engineers                 
-      - [Corey Ferris (temporary)](https://dsva.slack.com/team/U01F5F6V8QN)
-    - Native Mobile App
-      - [Juan Castillo](https://dsva.slack.com/archives/D07QU9YQ7HA)
-    - Dev Ops
-      - [Nathan Douglas](https://dsva.slack.com/team/U01DADWHLM6)
-      - [Eric Oliver](https://dsva.slack.com/archives/D06M78EK1JM)
+- OCTO Managers
+    - Kay Lawyer (PO)
+    - Kristen McConnell (UX)
+    - Stephen Barrs (Eng)
+- Product Manager
+    - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
+- Delivery Manager
+    - [Alex Parker](https://dsva.slack.com/team/U066D61DAEQ)
+- Full Stack Engineers
+  - [Lee DeLarm](https://dsva.slack.com/archives/D05B37XJF8C)
+  - [Bill Tran](https://dsva.slack.com/team/U08BFMHL9MF)
+  - Carlos Felix
+  - [Phil DeFraties](https://dsva.slack.com/team/U089MDZ98BZ)
+  - [Devin McCurdy (temporary)](https://dsva.slack.com/team/U06HX72KD7Y)
+- Front End Engineers
+  - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)  
+- Back End Engineers                 
+  - [Corey Ferris (temporary)](https://dsva.slack.com/team/U01F5F6V8QN)
+- Native Mobile App
+  - [Juan Castillo](https://dsva.slack.com/archives/D07QU9YQ7HA)
+- Dev Ops
+  - [Nathan Douglas](https://dsva.slack.com/team/U01DADWHLM6)
+  - [Eric Oliver](https://dsva.slack.com/archives/D06M78EK1JM)
 
 ## Team Meetings Groups and Access
 - GitHub Project (write access & custom views)
