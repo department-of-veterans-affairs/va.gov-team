@@ -58,7 +58,6 @@ A veteran's eligibility and service history would determine which letters they a
 * **Minimum Essential Coverage Letter:** This letter shows that you have Minimum Essential Coverage (MEC) as provided by VA. MEC means that your health care plan meets the health insurance requirements under the Affordable Care Act.
 * **Proof of Creditable Prescription Drug Coverage:** This letter proves that you qualify for Medicare Part D prescription drug coverage.
 * **Proof of Service Card:** This card shows that you served honorably in the Armed Forces. You can use it as proof of status to receive discounts at certain stores or restaurants.
-* **Service Verification Letter:** This letter shows your branch of service, the date you started active duty, and the date you were discharged from active duty.
 
 ## APIs
 See the [EVSS letters and GIBS error messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/evss-integration/letters-and-gibs-error-messages-mapping.md) mapping for details about EVSS endpoints and data provided.
