@@ -31,7 +31,7 @@ Lynn Stahl - Product Manager
 
 Throughout VA.gov, there are many instances where Veterans can see lists of benefits they either currently have or are eligible to receive (such as in the Claims Status Tool, prescriptions, and appointments among others). Those lists often vary in style and components used, but there is a common thread among them. This pattern gives unified guidance to teams whose products include lists of benefits and tools. It aims to reduce cognitive load for Veterans, by providing a consistent experience. This aids us in our overall portfolio goal to create products and services that are trauma-informed and to make the process of interacting with VA.gov as seamless and positive as possible for Veterans.
 
-The idea for this pattern was presented to the portfolio during the [Blue Sky presentation](https://dsva.slack.com/archives/C07SD9P7XB9/p1734111940363469?thread_ts=1734108245.226369&cid=C07SD9P7XB9) series by Ryan Thurwell in January 2025. 
+The idea for this pattern was presented to the portfolio during the [Blue Sky presentation](https://dsva.slack.com/archives/C07SD9P7XB9/p1734111940363469?thread_ts=1734108245.226369&cid=C07SD9P7XB9) series by Ryan Thurlwell in January 2025. 
 
 
 ### Pattern components
