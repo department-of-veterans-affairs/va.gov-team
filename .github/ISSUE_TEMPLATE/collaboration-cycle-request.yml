@@ -85,6 +85,15 @@ body:
       value: |
         Please refer to the guidance on the [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff) page on Platform Website for detailed information and examples regarding these questions (below).
   - type: dropdown
+    id: visible-changes
+    attributes:
+      label: Will your work result in visible changes to the user experience?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: dropdown
     id: mobile-web
     attributes:
       label: Where will your product live?
@@ -95,22 +104,12 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: visible-changes
+    id: iteration
     attributes:
-      label: Will your work result in visible changes to the user experience?
+      label: Are you iterating on an existing product or is this a new product?
       options:
-        - "Yes"
-        - "No"
-    validations:
-      required: true
-  - type: dropdown
-    id: user-research
-    attributes:
-      label: Are you doing research with VA.gov users?
-      options:
-        - "Yes"
-        - "No"
-        - "Unsure"
+        - "Iterating on an existing product"
+        - "This is a new product"
     validations:
       required: true
   - type: dropdown
@@ -126,14 +125,15 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: architecture-intent
+    id: user-research
     attributes:
-      label: Does your work require non-trivial code changes or involve PII/PHI?
-      description: If so, you need an [engineering and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/collab-cycle/architecture-intent-meeting.md).
+      label: Are you doing research with VA.gov users?
       options:
         - "Yes"
         - "No"
         - "Unsure"
+    validations:
+      required: true
   - type: dropdown
     id: analytics-domo
     attributes:
@@ -165,6 +165,15 @@ body:
         - "Unsure"
     validations:
       required: true
+  - type: dropdown
+    id: architecture-intent
+    attributes:
+      label: Does your work require non-trivial code changes or involve PII/PHI?
+      description: If so, you need an [engineering and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/collab-cycle/architecture-intent-meeting.md).
+      options:
+        - "Yes"
+        - "No"
+        - "Unsure"
   - type: markdown
     attributes:
       value: "## Artifacts"
