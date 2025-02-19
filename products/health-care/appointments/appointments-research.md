@@ -1,13 +1,14 @@
 # Appointments-Related Research on VA.gov
-Here is a list of research studies related to appointments on VA.gov. Feel free to link to relevant studies. Questions or comments? Contact peter.russo@adhocteam.us or ask on Slack in #appointments-fe-team.
+Feel free to link to relevant studies. Questions or comments? Contact peter.russo@adhocteam.us or ask on Slack in #appointments-fe-team.
 
-VA online scheduling (VAOS)
-Community care (CC)
-Check-in
-Oracle health (OH)
-Travel pay 
-Tele-urgent care
-VAHB mobile app 
+Here is a list of research studies related to appointments on VA.gov: 
+- VA online scheduling (VAOS)
+- Community care (CC)
+- Check-in
+- Oracle health (OH)
+- Travel pay 
+- Tele-urgent care
+- VAHB mobile app 
 
 
 ## Community care (CC)
