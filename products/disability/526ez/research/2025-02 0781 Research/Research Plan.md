@@ -186,10 +186,11 @@ We are looking to complete 7-9 sessions. Because of the sensitive nature of the 
 * Maximum Sessions per day: Allow for 3 per day if needed
 
 ### **Availability**
-March 3-
+March 3-7; 10-14
 - 9:00-10:30am EST
 - 12-1:30 EST
 - 2:30-4:00 EST
+
 Add one extra timeslot on March 4-6 and 11-13 for 5-6:30 EST
 
 ## **Team Roles**
