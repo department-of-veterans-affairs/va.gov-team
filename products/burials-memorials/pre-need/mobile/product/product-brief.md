@@ -32,8 +32,8 @@ _From Spike ticket [#82](https://github.com/department-of-veterans-affairs/va-mo
     * [va.gov Controller](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/preneeds/burial_forms_controller.rb)
 * It’s worth noting that the mobile controller doesn't really do anything with confirmation emails or anything like that, so there are some slight differences.
 * Per conversation between Kenny Santiago (from one of the main vets-api teams) and Andrew Herzberg (a dev from the flagship team) that happened in slack: Santiago says they had just picked up the API as part of their portfolio and they needed to do some research to see if there were additional options that we were currently exposing via the API.
-   * [conversation screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/images/pre-need_background_conversation.png)
-   * [conversation transcript](products/burials-memorials/pre-need/mobile/docs-media/transcript_pre-need_background_conversation.md)
+   * [conversation screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/docs-media/pre-need_background_conversation.png)
+   * [conversation transcript](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/docs-media/transcript_pre-need_background_conversation.md)
 * We should follow up with whatever team currently owns that API and figure out if that research was ever done and/or if it could be. Looking at the code for the va.gov controller, it doesn't look like much has changed significantly since then, so the answers could be: "We haven't done that research", or "We did it and there isn't a downstream API to support status checks".
 
 
