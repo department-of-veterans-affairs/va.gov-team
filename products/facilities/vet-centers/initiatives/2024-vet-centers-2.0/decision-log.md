@@ -8,7 +8,7 @@ Features that are designed but will not be build for Satellite locations pages &
 Scope TBD: Vet Center banner alerts: Michelle would like us to scope it out / assess level of effort, and then we can decide if it fits into this effort.
 
 
-## 2025-04-16
+## 2024-04-16
 
 **In Scope**
 )_updated 4/16/2024_
