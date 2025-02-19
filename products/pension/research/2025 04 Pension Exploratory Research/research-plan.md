@@ -109,7 +109,7 @@ Primary criteria (must-haves)
 
 - Pension-eligible
 
-- Applied for pension within the last calendar year
+- Applied for pension within the last 2 calendar years
 
 
 Demographic must-haves
