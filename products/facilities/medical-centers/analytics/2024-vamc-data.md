@@ -14,7 +14,7 @@ Scores are from A11 surveys (intercept), where users choose a rating from 1 to 5
 <details>
  <summary> Average combined experience score </summary>
 
-![image](https://github.com/user-attachments/assets/bcdc5e34-d1e5-4d36-b32a-06ad48d8d731)
+![image](https://github.com/user-attachments/assets/8e84715d-8d89-4cff-b26d-924f6bcaf340)
 
 </details>
 
