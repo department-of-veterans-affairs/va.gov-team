@@ -2,9 +2,12 @@
 
 ## Overview
 
-Income is one aspect that determine's a Veteran's eligibility for benefits from VA. An [existing application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) (no longer working) allows Veterans, their caregivers, family members, and others to look up the financial thresholds based on location and number of dependents.
+Income is one aspect that determine's a Veteran's eligibility for benefits from VA. The modernized Income Limits application was launched to VA.gov in August 2023 (replacing an outdated / no-longer-maintained application and allows Veterans, their caregivers, family members, and others to look up the financial thresholds based on location and number of dependents.
 
-[See Mural of existing application here.](https://app.mural.co/t/departmentofveteransaffairs9999/m/vagov6717/1657807571797/ee2497db0a9c637538f51e38546ffe3eaea508c0?wid=0-1658947024174)
+The Income Limits application pulls income limit / threshold data monthly from the Veteran Enrollment System (VES), a well-governed database of income limits/thresholds going back years. VES data is based on raw HUD tables on which GMT numbers are based. 
+
+For annual updates of thresholds: Data refresh is now automated. A github workflow now monthly runs a Sidekiq data import from VES. More detail in [Income Limits Technical Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/engineering/technical-architecture.md) docs
+
 
 ## Problem Statement
 
@@ -152,16 +155,16 @@ See decision log in this folder.
 
 ## Stakeholders
 
-
-Primary stakeholders are in VHA Member Services
+Primary stakeholders are in **VHA Member Services**
 
 ### Relevant VA org structure
 
 Veteran Health Administration (VHA) > [Undersecretary for Health] > Operations > Member Services
 
 Under Member Services are:
-  - Health Eligibility Center (HEC)
+  - Health Eligibility Center (HEC) - governs income verification 
     - EED (Enrollment and Eligibility) – _believe this is a child office to HEC_
+    - Veteran Enrollment System (VES) - a well-governed database of income limits/thresholds going back years
   - Veterans Transportation Program (VTP) – manages beneficiary travel reimbursement program
 
 ### Individuals
@@ -171,8 +174,8 @@ Under Member Services are:
 - Lindsey Peace – our main stakeholder and SME. She works in the Income Verification Division at HEC, so she has expertise in assessing which priority group Veterans are placed (only for Veterans whose priority group is affected by income, typically groups 5-8)
 
 **Technical SME in HEC:**
-- Joshua Faulkner (tech) – tech SME regarding the Veteran Enrollment System (VES), which keeps a well-governed database of income limits/thresholds going back years
-  - Josh is our key to accessing the VES database, if we use that as (part of) our database
+- Joshua Faulkner (tech) – tech SME regarding the Veteran Enrollment System (VES)
+  - Josh is our key to accessing the VES database, which Income Limits pulls data from monthly to receive any updates to thresholds / limits
 
 #### In EED:
 **Business SMEs:**
@@ -181,7 +184,6 @@ Under Member Services are:
 
 #### Technical SMEs in Member Services:
 - Steve Ward - Requirements Office within Member Services, reports to Eric Swain. SME in limits themselves, builds a spreadsheet with new numbers for each year and distributes to owners of various systems within VHA that need to update their limits/thresholds annually (eg VistA)
-  - Steve would be a key player if we need to maintain our own database of income limits, as he is a trusted source of annual updates
 
 #### Other SMEs in Member Services
 - Stacy Rine – Executive Assistant in Member Services - she and Eric Swain were our original points of contact. However, we later learned that she was associated with the old wizard for reasons of history; she passed us to HEC (Lindsey) and is no longer involved.
@@ -194,11 +196,7 @@ For copy and information provided to Veterans in the app:
 - She has looked to other SMEs (above) for help understanding benefits and how eligibility is determined for Veterans in certain circumstances - specifically those who receive a VA pension, aid-and-attendance, or housebound benefits.
 
 For calcluations of the actual thresholds:
-- Lindsey Peace currently has approval responsibility for the new numbers every year. However, she expressed discomfort with that and would prefer the responsibility go to a more technical stakeholder who can independently validate thresholds (e.g., against the raw HUD tables on which GMT numbers are based).
-- We anticipate engaging with Steve Ward or Josh Faulkner to confirm that our app is returning the correct threshold amounts for Veterans in specific circumstances.
-  - Josh's VES database has a table of GMT (geographic means test, i.e. zip code driven) thresholds which the new Income Limits app will either 1) use directly via database connection or 2) check our results against.
-
-For annual updates of thresholds:
-- TBD – We hope to leverage an external database that will be updated annually. For numbers that we have to import manually every year, we expect to have to re-certify with Josh or Lindsey
-
+- As of 2023: Lindsey Peace currently had approval responsibility for the new numbers every year. However, she expressed discomfort with that and would prefer the responsibility go to a more technical stakeholder who can independently validate thresholds (e.g., against the raw HUD tables on which GMT numbers are based).
+- Josh Faulkner helps to confirm that our app is returning the correct threshold amounts for Veterans in specific circumstances, based on VES data.
+  - Josh's VES database has a table of GMT (geographic means test, i.e. zip code driven) thresholds which the new Income Limits app imports / builds upon. More detail in [Income Limits Technical Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/engineering/technical-architecture.md) docs
 
