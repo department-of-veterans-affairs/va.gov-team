@@ -13,7 +13,7 @@ Here is a list of research studies related to appointments on VA.gov:
 ## VA online scheduling (VAOS)
 
 ### 2023 
-- [Appointment List Screen Reader Usability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2023-02-appt-list-usability-screenreader) - VAOS, February
+- [Appointment List Screen Reader Usability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2023-02-appt-list-usability-screenreader) - February
 ### 2022
 - [Appointments List Usability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-09-appts-list-usability) - September
 - [Request Manager Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-08-request-manager-discovery-research) - August
