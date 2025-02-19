@@ -109,7 +109,7 @@ Before we look at the prototype, let’s start with a couple of warm-up question
 
 Now it’s time to send you the prototype we’d like to have you review. I am going to send you a link in the Zoom chat–please open the page when you receive it.
 
-[Prototype link]([url](https://www.figma.com/proto/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?page-id=14990%3A2&node-id=15722-103002&viewport=18767%2C20102%2C0.84&t=XN3Ge3QyJ6ViISJl-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=15722%3A103002&show-proto-sidebar=1))
+[Prototype link](https://www.figma.com/proto/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?page-id=14990%3A2&node-id=15722-103002&viewport=18767%2C20102%2C0.84&t=XN3Ge3QyJ6ViISJl-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=15722%3A103002&show-proto-sidebar=1)
 
 Now, I’d like you to share your screen for the remainder of the session. Please let me know if I walk you through how to screen share.
 
