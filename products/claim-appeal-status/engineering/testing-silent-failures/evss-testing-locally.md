@@ -2,7 +2,7 @@
 
 ## EVSS - Testing upload success 
 ### When cst_send_evidence_submission_failure_emails is enabled
-1. Make sure that you have SOCKS access, if you dont follow this [guide]()
+1. Make sure that you have SOCKS access, if you dont follow this [guide](products/claim-appeal-status/engineering/onboarding/socks-and-sentry-access.md)
 2. Open an SSH tunnel in terminal by doing the following
    ```
       // Go into devops/utilities
@@ -45,7 +45,7 @@
     1. The new records `upload_status` should be SUCCESS and there should be a `delete_date`
 
 ### When cst_send_evidence_submission_failure_emails is disabled
-1. Make sure that you have SOCKS access, if you dont follow this [guide]()
+1. Make sure that you have SOCKS access, if you dont follow this [guide](products/claim-appeal-status/engineering/onboarding/socks-and-sentry-access.md)
 2. Open an SSH tunnel in terminal by doing the following
    ```
       // Go into devops/utilities
