@@ -1,4 +1,4 @@
-# Research Plan for Pension Benefits, Increase UX Performance and Efficiencies for VA 21P-527EZ, April 2025 [#675](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/675)
+# Research Plan for Pension Benefits: Increase UX Performance and Efficiencies for VA 21P-527EZ, April 2025 [#675](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/675)
 
 ## Background
 
