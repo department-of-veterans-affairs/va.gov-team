@@ -3,18 +3,12 @@ Feel free to link to relevant studies. Questions or comments? Contact peter.russ
 
 Here is a list of research studies related to appointments on VA.gov: 
 - VA online scheduling (VAOS)
-- Community care (CC)
+- [Community care (CC)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md#community-care-cc)
 - Check-in
 - Oracle health (OH)
 - Travel pay 
 - Tele-urgent care
 - VAHB mobile app 
-
-
-## Community care (CC)
-### 2024 
-- [Community Care Self-Scheduling - Usability and Concept Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md) - August
-
 
 ## VA online scheduling (VAOS)
 
@@ -24,6 +18,11 @@ Here is a list of research studies related to appointments on VA.gov:
 - [Appointments List Usability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-09-appts-list-usability) - September
 - [Request Manager Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-08-request-manager-discovery-research) - August
 - [MHV and VAOS Appointments List Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery) - January 
+
+
+## Community care (CC)
+### 2024 
+- [Community Care Self-Scheduling - Usability and Concept Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md) - August
 
 
 ## Check-in
