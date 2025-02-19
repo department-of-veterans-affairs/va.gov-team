@@ -67,8 +67,6 @@ Notes:
 
 
 
-![Mock-up of left nav showing new menu item](https://github.com/user-attachments/assets/f4114e77-c458-4bec-ad8e-0b34087c2cd2)
-
 ### Other key entry points (post-launch)
 
 1. Family benefits hub left nav
@@ -77,6 +75,8 @@ Notes:
       - The second link under CHAMPVA in the family member hub left nav
     - Link label: TBD based on H1 of page
     - Link destination: /family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c/
+![Mock-up of left nav showing new menu item](https://github.com/user-attachments/assets/f4114e77-c458-4bec-ad8e-0b34087c2cd2)
+
 
 2. [CHAMPVA application confirmation page](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/) 
     - Placement description:
@@ -89,8 +89,8 @@ Notes:
     - Placement description:
       - Add supporting content and link to the online version of the form
       - Follow standard placement guidance for the "About form" pages
-  - Link label: Supporting content and link label to be determined by CAIA content
-  - Link destination: /family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c/
+    - Link label: Supporting content and link label to be determined by CAIA content
+    - Link destination: /family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c/
 
 
 ## <a name="redirects"></a>Redirects <br>
