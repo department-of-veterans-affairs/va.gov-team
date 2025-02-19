@@ -6,7 +6,7 @@ Since relaunching the web-based version of VA Form 21P-527EZ in January 2024, th
 
 Three studies previously completed by the pension team include: [VSO Research (Fall ‘24)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2024-09%20527EZ%20VSO%20Research/research-findings.md), [VSR Shadowing (Spring ‘24)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2024-05%20527EZ%20VSR%20Shadowing/report.md), and [Usability Study (Winter ‘24)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2024%2002%20Pension%20Usability%20Evaluation/research-findings.md). Through this research, it was found that the majority of our participants were likely not eligible for Veterans Pension. We have since learned that **pension-eligible Veterans can be challenging to contact and recruit, as many of them are in later stages of life**, may be in assisted living facilities, and are likely to be experiencing significant health challenges or financial hardship.
 
-Although some form changes have been prioritized to address issues that interfere with accurate and efficient benefit dispersals, opportunity exists to validate and deepen learnings specifically with pension-eligible Veterans and Veteran advocates (such as family members); who were identified in previous research as likely to have a large role in supporting or even driving pension applications. 
+Although some form changes have been [prioritized](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/Pension-Related%20Research%20Discovery%20Findings%20and%20Prioritization.md) to address issues that interfere with accurate and efficient benefit dispersals, opportunity exists to validate and deepen learnings specifically with pension-eligible Veterans and Veteran advocates (such as family members); who were identified in previous research as likely to have a large role in supporting or even driving pension applications. 
 
 This study aims to better establish understanding of end users and their experience learning about, applying for, maintaining, and receiving Veterans Pension benefits. We also seek to validate existing learnings and applicable design changes to ensure they are meeting and exceeding user needs. We hypothesize that taking a phased approach focused on both exploratory and evaluative research, will (1) provide a more holistic understanding of the pension-eligible Veteran journey, (2) align more closely with user needs and (3) therefore inform design improvements in more impactful ways.  
 
@@ -33,15 +33,15 @@ This research maps to the following stages of the [Veteran journey](https://gith
 
 ### Phase 1: Discovery (Exploratory)
 
-**Better understand our end users and their experience learning about, applying for, maintaining, and receiving Veterans Pension benefits.**
+**1. Better understand our end users and their experience learning about, applying for, maintaining, and receiving Veterans Pension benefits.**
 
-- How do users learn about the Veteran pension benefit (Awareness)
+- How do users learn about the Veteran pension benefit? (Awareness)
 
-- What is their experience applying for Veteran pension benefit (Application Usage and Completion)
+- What is their experience applying for the Veteran pension benefit? (Application Usage and Completion)
 
-- What is their experience receiving and maintaining Veteran pension benefit (Post-submission/ Approval)
+- What is their experience receiving and maintaining the Veteran pension benefit? (Post-submission/ Approval)
 
-**Validate existing research findings or identify divergences in what we understand about the Veteran journey that have been gathered so far; especially by proxy in the VSO study.**
+**2. Validate existing research findings or identify divergences in what we understand about the Veteran journey that have been gathered so far; especially by proxy in the [VSO study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2024-09%20527EZ%20VSO%20Research/research-findings.md).**
 
 - What are the convergences and divergences in the Veteran and advocate experience in this study compared to existing research?
 
@@ -61,9 +61,9 @@ We anticipate that this research will:
 
 - Validate and provide direction for the most impactful VA 21P-527EZ form changes that will increase accurate and efficient benefit dispersals.
 
-- Create informal updates to existing [journey maps](https://app.mural.co/t/departmentofveteransaffairs9999/m/hcdveo2185/1650040181744/b41f183d67ce4e5ebb73d043835c9c1180bbd840?wid=0-1650056257256) to be used as an internal resource in order to base form improvements on most up-to-date user priorities and experience.
+- Create informal updates to existing [journey maps](https://app.mural.co/t/departmentofveteransaffairs9999/m/hcdveo2185/1650040181744/b41f183d67ce4e5ebb73d043835c9c1180bbd840?wid=0-1650056257256) to be used as an internal resource (in order to base form improvements on most up-to-date user priorities and experience).
 
-- Reducing errors and boosting efficiency for adjudicators by making the form easier to complete for end users,  streamline backend workflows, and reduce processing times (secondary).
+- Reduce errors and boost efficiency for adjudicators by making the form easier to complete for end users,  streamline backend workflows, and reduce processing times (secondary).
 
 ### Hypotheses
 
@@ -73,7 +73,7 @@ We anticipate that this research will:
 
 - Veterans often need others to help support completion of the application, such as a VSO, family member, or other advocate.
 
-- Veterans experience challenges completing the application such as: how much information is required for submission, unclear or missing information, and lack of direction on necessary follow up steps.
+- Veterans experience challenges completing the application such as: the large amount of information required for submission, unclear or missing information, and lack of direction on necessary follow-up steps.
 
 - Veterans experience high error rates post application submission that require additional action on the part of them or their advocate.
 
@@ -114,63 +114,63 @@ Primary criteria (must-haves)
 
 Demographic must-haves
 
-- We are looking for a heterogenous group of participants demographically reflective of those who use the form day to day. 
+- We are looking for a heterogenous group of participants demographically reflective of those who use the form day-to-day. 
 
 
 ## Veteran Screening Questions:
 
 Note: The *notes in italics* are for Perigean to understand the purpose of each question, not to be displayed to screener respondents.
 
-1. Are you currently receiving VA disability compensation VA benefits? (**If a Veteran is receiving** disability compensation they are highly unlikely to be eligible for pension) 
+1. Are you currently receiving VA disability compensation VA benefits? (_If a Veteran is receiving disability compensation they are highly unlikely to be eligible for pension_) 
 
- - Yes (exclude participant)
+    - Yes (exclude participant)
 
- - No
+    - No
 
-2. Are you currently or anticipating receiving a military retirement pension?  *(If a Veteran is receiving a military pension they are highly unlikely to be eligible for VA pension)
+2. Are you currently or anticipating receiving a military retirement pension?  (_If a Veteran is receiving a military pension they are highly unlikely to be eligible for VA pension_)
 
- - Yes (exclude participant)
+     - Yes (exclude participant)
 
- - No
+     - No
 
-3. Are you receiving Supplemental Security Income (SSI)? *(To receive Supplemental Security Income (SSI), you must be disabled, blind, or 65 or older, and have limited income and resources, regardless of your work history. If receiving SSI they are highly likely to be eligible for 527EZ pension benefit) 
+3. Are you receiving Supplemental Security Income (SSI)? (_To receive Supplemental Security Income (SSI), you must be disabled, blind, or 65 or older, and have limited income and resources, regardless of your work history. If receiving SSI they are highly likely to be eligible for 527EZ pension benefit_) 
 
- - Yes (preferred recruit)
+     - Yes (preferred recruit)
 
- - No
+     - No
 
 4. Have you attempted to apply for [Veterans Pension](https://www.va.gov/pension/eligibility/) using VA Form 21P-527EZ online, on paper, or with assistance from a third party in the last two years?
 
- - Yes using online form
+     - Yes, using online form
 
- - Yes using paper form
+     - Yes, using paper form
    
- - Yes with assistance from a Veteran Service Officer (VSO), family member, etc.
+     - Yes, with assistance from a Veteran Service Officer (VSO), family member, etc.
 
- - No (exclude)
+     - No (exclude participant)
 
-## Veteran Family Members/ Advocate Screening Questions:
+## Veteran Family Member/ Advocate Screening Questions:
 
 1. Have you attempted to help a Veteran family member or a Veteran friend to apply for [Veterans Pension](https://www.va.gov/pension/eligibility/) using the VA Form 21P-527EZ in the last two years (online, on paper, with additional third party assistance, etc.)?
 
- - Yes
+     - Yes
 
- - No (exclude)
+     - No (exclude participant)
 
 2. How far into the process did you provide support to the Veteran?
 
- - Learning about Veteran Pension benefit or application process
+     - Learning about Veteran Pension benefit or application process
 
- - Starting or completing the Veteran Pension application
+     - Starting or completing the Veteran Pension application
 
- - Supporting the Veteran to complete follow-up steps after application submission (e.g. responding to development letters, etc.)
+     - Supporting the Veteran to complete follow-up steps after application submission (e.g. responding to development letters, etc.)
 
 
 3. Did the Veteran you supported in the process end up being approved for Veterans Pension?
 
- - Yes
+     - Yes
 
- - No
+     - No
 
 
 ## Timeline
@@ -242,9 +242,4 @@ Participant recruiting & screening:
 
 Project point of contact: Chavie Cramer ([chavie.cramer@coforma.](mailto:chavie.cramer@coforma.io)[io](mailto:chavie.cramer@coforma.io)); Kristin Ouellette Muskat  ([kristin.o.m@coforma.io](mailto:kristin.o.m@coforma.io)) 
 
-Participant(s) for pilot test: TBD
-
-## Resources
-
-- TBD
 
