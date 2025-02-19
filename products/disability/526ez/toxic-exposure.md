@@ -13,7 +13,7 @@ Disability compensation, disability benefits, toxic exposure, PACT Act, 526 ez
     - [Collaboration Cycle milestone](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1075) (includes guidance from 2 midpoint reviews)
     - [CAIA Content Feedback Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76216) (service connection question content, February, 2024)
     - [CAIA intake request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71168) (December, 2023)
-
+5. [Video walkthru](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Projects/2024%20Toxic%20Exposure/toxic-exposure-walkthru.mov?csf=1&web=1&e=9oCifH)
 ## Team
 
 1. Design: [@Kate-allbee](https://github.com/Kate-allbee),  [@mengA6](https://github.com/mengA6)
