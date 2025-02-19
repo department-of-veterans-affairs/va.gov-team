@@ -39,7 +39,9 @@ This is pulled from the inquiries endpoint so it's regularly updating. AVA Admin
 
 |If|Then|Unless|
 |:--|:--|:--|
-|Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans` `Benefits issues outside the U.S.`|Require Veteran's `Branch of Service`|Who is your question about? = `It's a general question`|
+|Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans`|Require Veteran's `Branch of Service`|Who is your question about? = `It's a general question`|
+|Category = `Benefits issues outside the U.S.` and topic = `Disability compensation`|Require Veteran's `Branch of Service`|Who is your question about? = `It's a general question`|
+|All other categories|Don't collect Veteran's `Branch of service`||
 
 Even if the question is **not** about the Veteran, we still need to require the Veteran's branch of service (for these categories and if it's not a general question). While this data is in MPI, agents are not able to look this up using their MPI search tool in the CRM.
 
