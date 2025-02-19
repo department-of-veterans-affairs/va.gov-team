@@ -3,6 +3,7 @@
 **Quick Links**
 
 - [Team Members](#team-members)
+- [Team Meetings Groups and Access](#team-meetings-groups-and-access)
 - [Terminology](#terminology)
 - [Product](#product)
     - [Product Documentation](#product-documentation)
@@ -49,6 +50,23 @@
     - Dev Ops
       - [Nathan Douglas](https://dsva.slack.com/team/U01DADWHLM6)
       - [Eric Oliver](https://dsva.slack.com/archives/D06M78EK1JM)
+
+## Team Meetings Groups and Access
+- GitHub Project (write access & custom views)
+- Slack groups
+    - @backend (for BE or FS folks)
+    - @frontend (for FE or FS folks)
+- Meetings
+    - Planning Meeting - occurs on the last Tuesday of each sprint (Lori owns via VA email)
+        - Sprint Review
+        - 5 minute break
+        - Planning
+        - 5 minute break
+        - Retrospective
+    - Stand Up - occurs Monday through Thursday (except on day of Planning) (Lori owns via VA email in 2 separate meetings)    
+    - Engineering refinement - occurs every Monday (Lori owns via A6 email)
+    - Engineering Sync - occurs every Thursday (Lee owns)
+    - UAE SOS - occurs every Monday (Anita owns)
 
 ## Terminology
 - **Pre-Registration:** The verification of up to date insurance information, contact information, next of kin, and emergency contact information for VA medical appointments. As a VHA Directive, pre-registration must be completed at least once within 7 days of an appointment and does not need to be completed again if another appointment is within 7 days of its completion.  
