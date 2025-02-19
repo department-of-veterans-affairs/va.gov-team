@@ -191,7 +191,8 @@ March 3-7; 10-14
 - 12-1:30 EST
 - 2:30-4:00 EST
 
-Add one extra timeslot on March 4-6 and 11-13 for 5-6:30 EST
+For March 4-6 and 11-13
+- Addiitonal time slot 5-6:30 EST
 
 ## **Team Roles**
 
