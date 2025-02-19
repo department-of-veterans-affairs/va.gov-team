@@ -1,17 +1,21 @@
 ---
 name: VA Financial Management Standard Issue Template
 about: Standard ticket template for the VA Financial Management Team
-title: '[Project] Title of the work (Due date if requested)'
 labels: vsa-debt
+type: 'Task'
 assignees: ''
 ---
       
 
 ## Issue Description
-Given: (The beginning state of the scenario)      
-When: (Specific action that the user takes)      
-Then: (Testable outcome that can be captured in the testing section, usually caused by the action in When)              
+_Provide a simple description of the task_
+- If requested by an individual note who they are and their contact information.
 
+_Provide a technical description of the task._
+
+- Given: (The beginning state of the scenario)      
+- When: (Specific action that the user takes)      
+- Then: (Testable outcome that can be captured in the testing section, usually caused by the action in When)              
 
 ## Tasks
 - [ ] Task 1
@@ -34,19 +38,19 @@ Then: (Testable outcome that can be captured in the testing section, usually cau
 Test procedures:      
 *If additional testing steps or credentials to perform testing are needed list them here*    
 
-## Ticket Creation - Definition of Ready
-<details><summary>Ticket requirements</summary>
-      
-- [ ] Description written
-- [ ] Tasks defined
-- [ ] Acceptance criteria written
-- [ ] Testing defined
-- [ ] Add Labels
-- [ ] Assign Type
-- [ ] Assign Priority (Normal = Medium)
-- [ ] Assign Group(s)
-- [ ] Assign to a Project
-- [ ] Attach to an Parent Epic
-- [ ] Estimate Points
+## Bug Ticket Resolution  
+- [ ] If this is a Bug or Fix - Check this box and complete the information below.
+- Additional description of bug once the cause was identified.  
+      - Answer
+- Root Cause - what caused this issue?  
+      - Answer
+- Impact - how were Veterans impacted? (i.e. FSR submissions which ones, date range, etc)  
+      - Answer
+- Resolution Details - what was the fix & when did it go live.  
+      - Answer
+- Follow Up Actions - any additional/further work that came out of fixing the bug?  
+      - Answer
+- Preventative Measures - any planned steps to prevent similar issues in the future?  
+      - Answer
 
 </details>
