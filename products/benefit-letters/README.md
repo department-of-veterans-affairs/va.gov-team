@@ -67,12 +67,14 @@ See the [EVSS letters and GIBS error messages](https://github.com/department-of-
 vets-api -> vets-website: List of error codes, descriptions, and UIs
 
 ## Service-Level Objectives (SLOs)
-The general site-wide availability and latency objectives that are monitored in Prometheus apply to VA Letters as well. See here for details.
+The general site-wide availability and latency objectives that are monitored in Datadog apply to Your VA letters and documents as well. See here for details.
 
 Additionally, there are a few monitored SLOs specifically applicable to the Letters application:
-* **Availability:** 5xx responses should not exceed 5% of total responses for more than 5 consecutive minutes Link
-* **Latency:** Percent of requests served in under 10 seconds should not drop to or below 95% of total requests for more than 5 consecutive minutes [NOTE: Temporarily disabled due to known EVSS service issues] Link
-* **Incident Response:** Any availability / latency incident should be acknowledged within 15 minutes of initial alert. Link
+* **Availability:** Letters backend service [5xx errors are at 100% of budget](https://vagov.ddog-gov.com/monitors/282691)
+* **Latency:** Percent of requests served in under 10 seconds should not drop to or below 95% of total requests for more than 5 consecutive minutes [NOTE: The EVSS latency threshold was changed from 10 to 100 seconds in Datadog.]
+  * [EVSS Letters latency](https://vagov.ddog-gov.com/monitors/193373)
+  * [Lighthouse Letters Generator latency](https://vagov.ddog-gov.com/monitors/193367)
+* A number of [additional monitors](https://vagov.ddog-gov.com/monitors/manage?q=letters&order=desc) have been set up for latency, low download counts, and high error counts. These monitors encompass EVSS and Lighthouse.
 
 ## KPIs
 
@@ -83,7 +85,7 @@ _tbd_
 See the [swagger docs for EVSS's `lettergenerator` services ](https://pint.ebenefits.va.gov/wss-lettergenerator-services-web/swagger-ui/index.html?url=https://pint.ebenefits.va.gov/domain1/wss-lettergenerator-services-web/rest/swagger.yaml#/) (must be on VA network) -or- [copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/veteran-military-records/swagger-va-letters.yaml)
 
 ## Product Decisions
-_tbd_ link to our decision brief for the consolidation to one step
+_tbd_ Link to our decision brief for the consolidation to one step when it's available.
 
 ## Team
 
