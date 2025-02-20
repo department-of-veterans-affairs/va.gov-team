@@ -56,8 +56,8 @@
 4. The record should have a `delete_date` and `upload_status` of SUCCESS
 
 ## Testing delete evidence submission record job runs when cst_send_evidence_submission_failure_emails is enabled
-1. Follow steps 1-8 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#when-cst_send_evidence_submission_failure_emails-is-enabled) to create a IN_PROGRESS evidence submission record
-2. Follow steps 1-4 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#testing-document-upload-status-polling-job-when-cst_send_evidence_submission_failure_emails-is-enabled) to update the upload_status to SUCESS and add a delete_date
+1. Follow steps 1-8 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#when-cst_send_evidence_submission_failure_emails-is-enabled) to create an evidence submission record with an upload_status IN_PROGRESS
+2. Follow steps 1-4 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#testing-document-upload-status-polling-job-when-cst_send_evidence_submission_failure_emails-is-enabled) to update the upload_status to SUCCESS and add a delete_date
 3. Open a rails console in the terminal
       1. Run `rails c` or `rails console` in a terminal
 4. Run the following commands to change the record to have an earlier delete_date and run the delete evidence submission record cron job...
