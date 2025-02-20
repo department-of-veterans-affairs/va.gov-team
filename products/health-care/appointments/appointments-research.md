@@ -7,7 +7,7 @@ Here is a list of research studies related to appointments on VA.gov:
   - Tele-urgent care
 - [Community care (CC)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md#community-care-cc)
 - [Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md#check-in)
-- [Travel pay]() 
+- [Travel pay](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md#travel-pay) 
 - [VAHB mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md#vahb-mobile-app) 
 
 
