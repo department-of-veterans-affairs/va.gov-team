@@ -127,8 +127,11 @@ In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earli
 > Send link in Zoom chat.
 
   * [Prototype A: Recommend a category and topic](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=117-8174&t=zZCiEN70ehoO9Epu-1&scaling=scale-down&content-scaling=fixed&page-id=117%3A7572&starting-point-node-id=117%3A8174)
+      * [bit.ly/concept-A](https://bit.ly/concept-A)
   * [Prototype B: Ask for a more detailed question](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=139-2957&t=Znc7llXZ2zSJhRXO-0&scaling=min-zoom&content-scaling=fixed&page-id=134%3A4903)
+      * [bit.ly/concept-B](https://bit.ly/concept-B)
   * [Prototype C: Provide helpful links](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=73-14487&t=Znc7llXZ2zSJhRXO-0&scaling=scale-down&content-scaling=fixed&page-id=73%3A14484&starting-point-node-id=73%3A14487)
+      * [https://bit.ly/concept-C](https://bit.ly/concept-C)
 
 I just sent you a link in the Zoom chat.
 
@@ -158,7 +161,7 @@ Jump to:
 
 ## Concept A: Recommend a category and topic (10 minutes)
 
-> Link to [Prototype A: Recommend a category and topic](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=117-8174&t=zZCiEN70ehoO9Epu-1&scaling=scale-down&content-scaling=fixed&page-id=117%3A7572&starting-point-node-id=117%3A8174)
+> Link to [Prototype A: bit.ly/concept-A](https://bit.ly/concept-A)
 
 > Screen: Question page > Blank.
 
@@ -245,7 +248,7 @@ Jump to:
 
 ## Concept B: Ask for a more detailed question (10 minutes)
 
-> Link to [Prototype B](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=139-2957&t=Znc7llXZ2zSJhRXO-0&scaling=min-zoom&content-scaling=fixed&page-id=134%3A4903)
+> Link to [Prototype B: bit.ly/concept-B](https://bit.ly/concept-B)
 
 > Screen: Question page > Blank.
 
@@ -362,7 +365,7 @@ Jump to:
 
 ## Concept C: Provide helpful links (10 minutes)
 
-> Link to [Concept C](https://www.figma.com/proto/ifZqIdl3YRZ7rk3riz7MZN/AVA-Phase-2---Exploration?node-id=73-14487&t=Znc7llXZ2zSJhRXO-0&scaling=scale-down&content-scaling=fixed&page-id=73%3A14484&starting-point-node-id=73%3A14487)
+> Link to [Prototype C: bit.ly/concept-C](https://bit.ly/concept-C)
 
 > Screen: Question page > Blank.
 
