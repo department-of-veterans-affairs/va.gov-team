@@ -86,7 +86,7 @@ body:
   id: pilot
   attributes:
     label: Are you interested in doing a pilot of your study with a ADE accessibility specialist before the study begins?
-    description: Review the [Assistive Technology Pilot Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md) to learn about piloting with ADE.
+    description: Review the [Assistive Technology Pilot Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md) to learn about piloting with ADE.
     options:
       - label: Yes, we are interested in doing a pilot
     
@@ -115,7 +115,7 @@ body:
     options:
       - label: Post a link to this ticket in the accessibility-help Slack channel and tag Naomi `@Naomi Eke`
       - label: Your team's researchers and observers read through platform guidance on research with assistive technology users
-      - label: Review our [assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md) and request a pilot, if desired
+      - label: Review our [assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md) and request a pilot, if desired
       - label: ADE Specialists are assigned to your research, be sure to add the respective accessibility specialist(s) to your session invites (include the Zoom or Teams link). 
       - label: ADE Specialists review your conversation guide and research plan
       - label: Provide specialists your participant details like skill level, operating system, assistive tech used, browser
