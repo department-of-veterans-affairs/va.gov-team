@@ -72,7 +72,7 @@ For each of the opportunities and recommendations listed below, the team will ut
    2. **Recommendation:** Complete a usability study to test the multi-response list/loop pattern with the goal of assessing its effectiveness in improving task flow, reducing complexity, and ensuring clarity on next steps.  
    3. **Impact:** We expect that a usability study testing specific instances of the multi-response list/loop pattern on the pension form will enhance user experience, support the identification and reduction of potential errors, and better align the pension form with VA.gov Experience Standards. 
 
-For a more detailed overview of the opportunities and recommendations listed above, refer to this PDF \[prioritization PDF link pending\].
+For a more detailed overview of the opportunities and recommendations listed above, refer to [this PDF](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pension/research/2025-02%20HCD%20Prioritization).
 
 ## **Next Steps**
 
@@ -115,7 +115,7 @@ The team will work cross-functionally to ensure that any product-led analytics a
 
 ## **Appendix**
 
-\[Prioritization spreadsheet link pending\]
+[Prioritization spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pension/research/2025-02%20HCD%20Prioritization)
 
 ## **Tools used for Synthesis**
 
