@@ -55,6 +55,31 @@
    ```
 4. The record should have a `delete_date` and `upload_status` of SUCCESS
 
+## Testing delete evidence submission record job runs when cst_send_evidence_submission_failure_emails is enabled
+1. Follow steps 1-8 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#when-cst_send_evidence_submission_failure_emails-is-enabled) to create a IN_PROGRESS evidence submission record
+2. Follow steps 1-4 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#testing-document-upload-status-polling-job-when-cst_send_evidence_submission_failure_emails-is-enabled) to update the upload_status to SUCESS and add a delete_date
+3. Open a rails console in the terminal
+      1. Run `rails c` or `rails console` in a terminal
+4. Run the following commands to change the record to have an earlier delete_date and run the delete evidence submission record cron job...
+   ```
+   // Find your evidence submission passing in your claim id and tracked item id if necessary
+   es = EvidenceSubmission.find_by(claim_id: <YOUR_CLAIM_ID>, tracked_item_id: <YOUR_TRACKED_ITEM_ID>)
+   es //run this to see the current  evidence submission id
+   
+   // Check the current delete_date
+   es.delete_date
+   
+   // Update the delete_date to be a date that has passed. If you do the current date it wont be picked up until the date is in the past.
+   es.update(delete_date: "<NEW_DATE>")
+   
+   // Run this command to run the delete evidence submission record job that deletes records
+   Lighthouse::EvidenceSubmissions::DeleteEvidenceSubmissionRecordsJob.perform_async
+   
+   // Run this to verify that the record is deleted, nothing should come up
+   EvidenceSubmission.where(id: <YOUR_EVIDENCE_SUBMISSION_ID>) // should return 0 results
+   ```
+5. Your record should now be deleted
+
 ## Testing upload failure
 ### Type 1 error, when cst_send_evidence_submission_failure_emails is enabled
 1. Change the following feature flags...
@@ -93,4 +118,4 @@
    // Run this command to run the failure notification email job that sends a document upload failure email to a user
    Lighthouse::EvidenceSubmissions::FailureNotificationEmailJob.perform_async
    ```
-6. You'll see the record in the evidence_submission table now has a `va_notify_id` and `va_notify_date` and you should receive an document upload failure email
+6. You'll see the record in the evidence_submission table now has a `va_notify_id` and `va_notify_date` and you should receive a document upload failure email
