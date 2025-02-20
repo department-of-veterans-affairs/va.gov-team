@@ -150,9 +150,9 @@ In all cases, you have a pivotal role to play in the accessibility of your team'
   The **Accessibility Digital Experience** team (ADE) is a sitewide support team. If you're on ADE, your role is to support product teams as they build their products. To do this, you will:
 - Review products in the design phase for accessibility concerns
 - Conduct accessibility audits of products on staging and in production
-- Run [assistive technology research pilots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md)
+- Run [assistive technology research pilots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md)
 - Assist teams with assistive technology research sessions with participants with disabilities
-Review ADE's full [menu of services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/README.md#services-we-offer) to learn more.
+Review ADE's full [menu of services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/README.md#services-we-offer) to learn more.
 </details>
 
 ### Supporting the Platform Governance team
@@ -171,7 +171,7 @@ If you're on the Governance team, you help ensure VFS teams build products that 
 
 We may be decentralized, but we're not alone! Together, VA's accessibility specialists form the **Accessibility Community of Practice (CoP)**. 
 
-The CoP is a group of accessibility specialists and accessibility-minded designers, researchers, and developers from across VA.gov. Members are from CAIA, Governance, and product teams alike. We support each other by answering questions, meeting on a regular basis, and sharing resources. We also help others by answering their accessibility questions on public Slack channels.
+The CoP is a group of accessibility specialists and accessibility-minded designers, researchers, and developers from across VA.gov. Members are from ADE, Governance, and product teams alike. We support each other by answering questions, meeting on a regular basis, and sharing resources. We also help others by answering their accessibility questions on public Slack channels.
 
 Join us!
 
@@ -230,7 +230,7 @@ If you want to keep abreast of accessibility happenings across VA.gov, you can s
 - **Navigate to:** Preferences > Notifications
 - **Use** **commas** to separate each keyword. 
 - **Keywords** are not case sensitive. 
-   - **Examples:** Accessibility, accessible, audit, user research, ux, CAIA, user experience, a11y
+   - **Examples:** Accessibility, accessible, audit, user research, ux, ADE, user experience, a11y
 
 #### Tagging
 Use `@accessibility-de` in Slack to ping all ADE accessibility specialists.
@@ -266,7 +266,7 @@ If you are new to the accessibility space, or know someone that is, check out th
 Anyone working at the VA, with access to the DSVA slack channel, can become an accessibility champion through this curriculum.
 
 ### Tooling
-Learn what [tools we use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/tools-we-use.md) to audit products on VA.gov. The list includes various plugins, extensions, and applications.
+Learn what [tools we use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/tools-we-use.md) to audit products on VA.gov. The list includes various plugins, extensions, and applications.
 
 We also recommend installing the new [VA page checker Chrome extension](https://chromewebstore.google.com/detail/va-page-checker/bohcdnelkeimoooidokojkcjdaahjbkb?pli=1), which highlights design system components and accessibility issues on VA.gov pages.
 
@@ -278,7 +278,7 @@ If you use Figma, make sure to use our [accessibility annotations library](https
 You can also use Figma [plugins](https://www.figma.com/community/tag/a11y/plugins/free) to help check color contrast, readability, zoom, etc.
 
 ### PDFs
-If you've been tasked with creating or remediating a PDF, check out ADE's [guide to creating accessible PDFs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/create-accessible-PDF.md).
+If you've been tasked with creating or remediating a PDF, check out ADE's [guide to creating accessible PDFs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/create-accessible-PDF.md).
 
 [Section508.gov's Content Creation page](https://www.section508.gov/create/) has detailed information about making accessible documents, presentations, spreadsheets, and PDFs.
 
@@ -289,12 +289,12 @@ Use these resources to create accessible forms on VA.gov:
 
 ### Tricky accessibility issues
 Accessibility specialists have created guides on the following technical topics:
-- [Focus tracking](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/focus-tracking.md)
-- [Headings and accessibility best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/accessibility-cookbook.md#headings-and-accessibility-best-practices)
-- [Buttons vs. links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/accessibility-cookbook.md#choose-the-right-element-buttons-vs-links)
-- [When to use ARIA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/accessibility-cookbook.md#when-to-use-aria)
+- [Focus tracking](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/focus-tracking.md)
+- [Headings and accessibility best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/accessibility-cookbook.md#headings-and-accessibility-best-practices)
+- [Buttons vs. links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/accessibility-cookbook.md#choose-the-right-element-buttons-vs-links)
+- [When to use ARIA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/accessibility-cookbook.md#when-to-use-aria)
 
 ### Mobile testing
-Learn how to [test websites on mobile devices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/mobile-accessibility-testing-guidance.md).
+Learn how to [test websites on mobile devices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/mobile-accessibility-testing-guidance.md).
 
   </details>
