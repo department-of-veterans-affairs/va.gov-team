@@ -14,7 +14,6 @@
 7. Go to the claim status tool, select a claim, navigate to the Files Tab and upload a file
 8. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 1 record was added/updated to the evidence_submissions table
     1. The new records `upload_status` should be IN_PROGRESS
-    2. The new records `delete_date` should NOT be nil
 
 ### When cst_send_evidence_submission_failure_emails is disabled
 1. Change the following feature flags...
@@ -30,10 +29,10 @@
 8. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that no records were added/updated to the evidence_submissions table
 
 ## Testing document upload status polling job when cst_send_evidence_submission_failure_emails is enabled
-1. Follow steps 1-8 [here]()
+1. Follow steps 1-8 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#when-cst_send_evidence_submission_failure_emails-is-enabled)
 2. Open a rails console in the terminal
       1. Run `rails c` or `rails console` in a terminal
-3. Run the following commands to change the record upload_status run the document upload status polling job...
+3. Run the following commands run the document upload status polling job...
    ```
     // Find your evidence submission passing in your claim id and tracked item id if necessary
    es = EvidenceSubmission.find_by(claim_id: <YOUR_CLAIM_ID>, tracked_item_id: <YOUR_TRACKED_ITEM_ID>)
@@ -41,13 +40,20 @@
 
    // Check the current upload_status
    es.upload_status
+
+   // Check the current delete_date
+   es.delete_date
    
    // Run this command to run the document upload status polling job that updates the records upload_status
    Lighthouse::EvidenceSubmissions::EvidenceSubmissionDocumentUploadPollingJob.perform_async
    
-   // Run this to verify that the record is upload_status has changed
+   // Run this to verify that the records is upload_status has changed
    EvidenceSubmission.where(id: <YOUR_EVIDENCE_SUBMISSION_ID>).upload_status // should return SUCCESS
+
+   // Should also see that there is now a delete_date
+   EvidenceSubmission.where(id: <YOUR_EVIDENCE_SUBMISSION_ID>).delete_date // should NOT be nil
    ```
+4. The record should have a `delete_date` and `upload_status` of SUCCESS
 
 ## Testing upload failure
 ### Type 1 error, when cst_send_evidence_submission_failure_emails is enabled
@@ -64,21 +70,27 @@
 7. Run `vets-api` and `vets-website` locally
 8. Go to the claim status tool, select a claim, navigate to the Files Tab and upload a file
 9. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 1 record was added/updated to the evidence_submissions table
-    1. The new records `upload_status` should be FAILED and it should have an `acknowledgment_date`, `failed_date`, `error_message` and `template_metadata -> personalisation -> date_failed`
-Go to rails console and run Lighthouse::EvidenceSubmissions::FailureNotificationEmailJob.perform_async
-You'll see the record in the evidence_submission table now has a va_notify_id and va_notify_date and should receive an email
+        1. The new records `upload_status` should be FAILED and it should have an `acknowledgment_date`, `failed_date`, `error_message` and `template_metadata -> personalisation -> date_failed`
+
+### Type 2 error, when cst_send_evidence_submission_failure_emails is enabled
+1. Follow steps 1-8 to add a record with an IN_PROGRESS upload_status [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#when-cst_send_evidence_submission_failure_emails-is-enabled)
+2. Update `lib/lighthouse/benefits_documents/upload_status_updater.rb` and comment out the logic for lines 64-66. Add the line `process_failure` - this will make it so we set the record upload_status to FAILED regardless of what Lighthouse returns.
+        1. NOTE: You could also do a update in rails console and just change the necessary fields so that the record is FAILED
+3. Re-run `vets-api` and `vets-website` locally
+4. Run the polling job to update the upload_status by follow steps 1-3 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#testing-document-upload-status-polling-job-when-cst_send_evidence_submission_failure_emails-is-enabled)
+        1. NOTE: you will see an `upload_status` of FAILED
+6. Afterwards do `rails c` or `rails console` in a terminal 
+        1. The new records `upload_status` should be FAILED and it should have an `acknowledgment_date`, `failed_date`, `error_message` and `template_metadata -> personalisation -> date_failed`
 
 ## Testing document upload failure email job runs when cst_send_evidence_submission_failure_emails is enabled
-1. Follow steps 1-8 [here]()
+1. For a type 1 error Follow steps 1-8 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#type-1-error-when-cst_send_evidence_submission_failure_emails-is-enabled) OR For a type 2 error Follow steps 1-8 [here]()
 2. Update `app/sidekiq/lighthouse/evidence_submissions/failure_notification_email_job.rb` so that in `notify_client.send_email()` we replace `recipient_identifier: { id_value: icn, id_type: 'ICN' }` with `email_address: 'YOUR_EMAIL',`
 3. Re-run `vets-api`
 4. Open a rails console in the terminal
-      1. Run `rails c` or `rails console` in a terminal
+        1. Run `rails c` or `rails console` in a terminal
 5. Run the following command to run the failure notification email job that sends a document upload failure email to a user
    ```
    // Run this command to run the failure notification email job that sends a document upload failure email to a user
    Lighthouse::EvidenceSubmissions::FailureNotificationEmailJob.perform_async
    ```
 6. You'll see the record in the evidence_submission table now has a `va_notify_id` and `va_notify_date` and you should receive an document upload failure email
-
-
