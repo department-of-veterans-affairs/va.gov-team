@@ -1,3 +1,9 @@
+> [!CAUTION]
+> ## This information is out of date
+> **2/20/2025:** CAIA accessibility is now the ADE team. This information has moved to our new ADE folder.
+> 
+> New link: [Accessibility onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/accessibility-specialist-onboarding.md)
+
 # Onboarding Guide: Accessibility Specialist for VA.gov
 `Last updated February 6, 2025`
 
