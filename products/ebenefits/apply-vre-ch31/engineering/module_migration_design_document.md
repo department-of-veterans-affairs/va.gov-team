@@ -121,6 +121,9 @@ modules/vre/
 - Enhanced Monitoring/Logging around transition period
 - Performance metrics comparison between implementations
 
+**Possible Namespace Clashes**
+There are two libraries consumed by the VRE system: `/lib/res` (`RES` namespace) and `/lib/vre` (`VRE` namespace).  It's possible that a `Service` in the new module might clash with the existing service in `/lib/vre`, so classes might not be able to retain their original names, post-migration
+
 ## Reference
 
 ### Files
