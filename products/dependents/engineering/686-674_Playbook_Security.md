@@ -14,7 +14,17 @@ The online 686c form allows Veterans to add or remove dependents from their VA d
 
 ## Routes to code
 links here
-issue tickets (if they add value when describing known errors for your product)
+
+## Known Issues
+- PDF page size error [#903833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90383) and [#91831](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91831)
+- The `lib/bgs/form686c.rb` block is only logging a warning when it should be raising and error [#94467](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94467)
+- List of known errors that need to be investigated [#101120](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101120)
+- Metrics and logging need to be added to SubmitDependentsPdfJob VBMS uploads [#100911](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100911)
+- Add metrics and monitors to failure points [#100943](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100943)
+- Unique contrant person error [#67527](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67527)
+- Remoev retries and exhaustion handler from 'SubmitDependentsPDFJob' [#100960](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100960)
+- Spouse ssn and file number do not match [#64137](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64137) and [#64340](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64340)
+- Veteran ssn and file number do not match [#64138](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64138) and [#64339](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64339)
 
 ## Contacts
 
