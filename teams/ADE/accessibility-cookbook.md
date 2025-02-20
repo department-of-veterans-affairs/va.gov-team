@@ -54,7 +54,7 @@ How might we create a heading structure on pages and forms that help everyone, p
 
 ### Further reading
 
-- [Headings presentation (pptx)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/CAIA/accessibility/presentations/Headings.pptx)
+- [Headings presentation (pptx)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/ADE/presentations/Headings.pptx)
 - [W3C page structure tutorial](https://www.w3.org/WAI/tutorials/page-structure/headings/)
 - [Accessible heading structure](https://www.a11yproject.com/posts/how-to-accessible-heading-structure/)
 
@@ -131,8 +131,8 @@ Assistive technology users rely on proper semantics to access web content. They 
           - _Make it a Button_
 
 ### Further reading
-- [Links (pptx)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/CAIA/accessibility/presentations/Links.pptx)
-- [Buttons and links and action links (pptx)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/CAIA/accessibility/presentations/Buttons%20and%20Links%20and%20Action%20Links.pptx)
+- [Links (pptx)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/ADE/presentations/Links.pptx)
+- [Buttons and links and action links (pptx)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/ADE/presentations/Buttons%20and%20Links%20and%20Action%20Links.pptx)
 
 ### Last updated
 
@@ -199,7 +199,7 @@ Another way to think about this through the lens of our work on VA.gov and assoc
 
 - [Accessibility in the VA Design System](https://design.va.gov/about/accessibility/)
 - [Accessibility annotations for VA.gov applications](https://design.va.gov/about/accessibility/accessibility-annotations)
-- [Live regions (pptx)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/CAIA/accessibility/presentations/Live%20Regions.pptx)
+- [Live regions (pptx)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/ADE/presentations/Live%20Regions.pptx)
 
 ### Further reading
 
