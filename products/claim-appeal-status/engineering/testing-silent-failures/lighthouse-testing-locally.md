@@ -27,3 +27,24 @@
 6. Run `vets-api` and `vets-website` locally
 7. Go to the claim status tool, select a claim, navigate to the Files Tab and upload a file
 8. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that no records werw added/updated to the evidence_submissions table
+
+## Testing document upload status polling job when cst_send_evidence_submission_failure_emails is enabled
+1. Follow steps 1-8 [here]()
+2. Open a rails console in the terminal
+      1. Run `rails c` or `rails console` in a terminal
+3. Run the following commands to change the record upload_status run the document upload status polling job...
+   ```
+    // Find your evidence submission passing in your claim id and tracked item id if necessary
+   es = EvidenceSubmission.find_by(claim_id: <YOUR_CLAIM_ID>, tracked_item_id: <YOUR_TRACKED_ITEM_ID>)
+   es //run this to see the current evidence submission id
+
+   // Check the current upload_status
+   es.upload_status
+   
+   // Run this command to run the document upload status polling job that updates the records upload_status
+   Lighthouse::EvidenceSubmissions::EvidenceSubmissionDocumentUploadPollingJob.perform_async
+   
+   // Run this to verify that the record is upload_status has changed
+   EvidenceSubmission.where(id: <YOUR_EVIDENCE_SUBMISSION_ID>).upload_status // should return SUCCESS
+   ```
+
