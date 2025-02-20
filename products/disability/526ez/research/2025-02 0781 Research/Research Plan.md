@@ -172,6 +172,7 @@ We are looking to complete 7-9 sessions. Because of the sensitive nature of the 
 
 ### **Prepare**
 
+* Perigean Kick-off: 2/20 2-5pm EST 2/21 9am-12pm EST; 1-2pm EST; 3-5pm EST
 * Pilot participant email: TBD  
 * Date and time of pilot session: TBD
 
