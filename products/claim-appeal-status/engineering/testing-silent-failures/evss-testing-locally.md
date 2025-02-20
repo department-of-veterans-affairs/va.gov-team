@@ -87,7 +87,7 @@
 9. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 0 records were added/updated to the evidence_submissions table
 
 ## EVSS - Testing delete evidence submission record job runs when cst_send_evidence_submission_failure_emails is enabled
-1. Follow steps 1-8 [here](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-locally.md#when-cst_send_evidence_submission_failure_emails-is-enabled)
+1. Follow steps 1-8 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-locally.md#when-cst_send_evidence_submission_failure_emails-is-enabled)
 2. Open a rails console in the terminal
       1. Run `rails c` or `rails console` in a terminal
 3. Run the following commands to change the record to have an earlier delete_date and run the delete evidence submission record cron job...
@@ -122,9 +122,6 @@
 8. Go to the claim status tool, select a claim, navigate to the Files Tab and upload a file
 9. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 1 record was added/updated to the evidence_submissions table
     1. The new records `upload_status` should be FAILED and there should be an `acknowledgment_date`, `failed_date`, `error_message` and `template_metadata -> personalisation -> date_failed`
-10. Go to rails console and run `Lighthouse::EvidenceSubmissions::FailureNotificationEmailJob.perform_async` to run the failure notification email job that sends a document upload failure email to a user
-    1. NOTE: Normally this job runs daily 
-12. You'll see the record in the evidence_submission table now has a `va_notify_id` and `va_notify_date` and you should receive an document upload failure email
 
 ### When cst_send_evidence_submission_failure_emails is disabled
 1. Make sure you do NOT have an open an SSH tunnel in terminal
@@ -140,3 +137,15 @@
 8. Run `vets-api` and `vets-website` locally
 9. Go to the claim status tool, select a claim, navigate to the Files Tab and upload a file
 10. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 0 records were added/updated to the evidence_submissions table and an email was sent to you for a failed document upload
+
+## EVSS - Testing document upload failure email job runs when cst_send_evidence_submission_failure_emails is enabled
+1. Follow steps 1-12 here
+2. Open a rails console in the terminal
+      1. Run `rails c` or `rails console` in a terminal
+3. Run the following command to run the failure notification email job that sends a document upload failure email to a user
+   ```
+   // Run this command to run the failure notification email job that sends a document upload failure email to a user or wait for 24 hours for the job to run automatically
+   Lighthouse::EvidenceSubmissions::FailureNotificationEmailJob.perform_async
+   ```
+4. You'll see the record in the evidence_submission table now has a `va_notify_id` and `va_notify_date` and you should receive an document upload failure email
+
