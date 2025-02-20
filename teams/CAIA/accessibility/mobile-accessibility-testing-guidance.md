@@ -1,3 +1,10 @@
+> [!CAUTION]
+> ## This information is out of date
+> **2/20/2025:** CAIA accessibility is now the ADE team. This information has moved to our new ADE folder.
+> 
+> New link: [Mobile web accessibility testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/mobile-accessibility-testing-guidance.md)
+
+
 # Mobile Web Accessibility Testing
 
 [Analytics show](https://analytics.usa.gov/veterans-affairs) that nearly half of all traffic to VA.gov comes from mobile devices. As such, we feel that it is exceedingly important to do accessibility testing specifically for mobile devices. This document is written for and by The Sitewide Content, Accessibility, and Information Architecture (CAIA) team in the VA Office of the CTO (OCTO) accessibility specialists, but should be generally applicable to anyone interested in doing mobile web accessibility testing. This document provides guidance on how to perform manual mobile accessibility testing for web applications (as opposed to mobile apps).
