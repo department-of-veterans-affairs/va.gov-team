@@ -1,5 +1,5 @@
 > [!CAUTION]
-> **WIP**: Last udpated: Februrary 6, 2025 (see commit comments for details)
+> **WIP**: Last udpated: Februrary 20, 2025
 
 # How the Accessibility Digital Experience (ADE) team audits for accessibility
 
