@@ -18,7 +18,8 @@ Here is a list of research studies related to appointments on VA.gov:
 ### 2022
 - [Appointments List Usability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-09-appts-list-usability) - September
 - [Request Manager Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-08-request-manager-discovery-research) - August
-- [MHV and VAOS Appointments List Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery) - January 
+- [MHV and VAOS Appointments List Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery) - January
+- [Tele-urgent Care Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-01-tele-urgent-care-interviews) - January 
 ### 2021
 - [Request Clarification Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2021-11-request-clarification-research) - November
 - [Appointment Notifications Service Map Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2021-10-appointment-notifications-service-map-research) - October
@@ -41,7 +42,6 @@ Here is a list of research studies related to appointments on VA.gov:
 ### 2017
 - [VAOS usability UAT](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2017-12-access-usability) - December
 - [VAOS discoverability interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2017-10-discoverability) - October
-
 
 
 ## Community care (CC)
@@ -76,9 +76,3 @@ Here is a list of research studies related to appointments on VA.gov:
 ### 2022
 - [VA Mobile Appointment Request Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/appointment-scheduling/usability-testing/research-findings.md) - May
 
-
-
-## Tele-urgent care
-
-### 2022
-- [Tele-urgent Care Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-01-tele-urgent-care-interviews) - January 
