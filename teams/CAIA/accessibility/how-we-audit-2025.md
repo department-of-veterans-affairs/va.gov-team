@@ -1,4 +1,10 @@
 > [!CAUTION]
+> ## This information is out of date
+> **2/20/2025:** CAIA accessibility is now the ADE team. This information has moved to our new ADE folder.
+> 
+> New link: [How the ADE team audits for accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/how-we-audit.md)
+
+> [!CAUTION]
 > **WIP**: Last udpated: Februrary 6, 2025 (see commit comments for details)
 
 # How the Accessibility Digital Experience (ADE) team audits for accessibility
