@@ -1,6 +1,7 @@
 > [!CAUTION]
 > ## This information is out of date
 > **2/20/2025:** CAIA accessibility is now the ADE team. This information has moved to our new ADE folder.
+> 
 > New link: [Accessibility cookbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/accessibility-cookbook.md)
 
 
