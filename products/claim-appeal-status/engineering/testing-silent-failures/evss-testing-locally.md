@@ -108,6 +108,7 @@
    // Run this to verify that the record is deleted, nothing should come up
    EvidenceSubmission.where(id: <YOUR_EVIDENCE_SUBMISSION_ID>) // should return 0 results
    ```
+5. Your record should now be deleted
 
 ## Testing upload failures for type 1 and 2 errors
 ### When cst_send_evidence_submission_failure_emails is enabled
