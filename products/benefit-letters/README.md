@@ -88,7 +88,9 @@ _tbd_ Link to our decision brief for the consolidation to one step when it's ava
 
 ## Team
 
-- Product Owners: Amy Lai and Julie Strothman
+- OCTO Product Owner: Amy Lai
+- OCTO Design Lead: Julie Strothman
+- OCTO Eng Lead: Cory Sohrakoff
 - Product Manager: Saliha Ghaffar
 - Design Lead: Shawn Collins
 - Content Lead: Rick Allen
