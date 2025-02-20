@@ -102,13 +102,13 @@
 2. Update `lib/lighthouse/benefits_documents/upload_status_updater.rb` and comment out the logic for lines 64-66. Add the line `process_failure` - this will make it so we set the record upload_status to FAILED regardless of what Lighthouse returns.
         1. NOTE: You could also do a update in rails console and just change the necessary fields so that the record is FAILED
 3. Re-run `vets-api` and `vets-website` locally
-4. Run the polling job to update the upload_status by follow steps 1-3 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#testing-document-upload-status-polling-job-when-cst_send_evidence_submission_failure_emails-is-enabled)
+4. Run the polling job to update the upload_status by following steps 1-3 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#testing-document-upload-status-polling-job-when-cst_send_evidence_submission_failure_emails-is-enabled)
         1. NOTE: you will see an `upload_status` of FAILED
 6. Afterwards do `rails c` or `rails console` in a terminal 
         1. The new records `upload_status` should be FAILED and it should have an `acknowledgment_date`, `failed_date`, `error_message` and `template_metadata -> personalisation -> date_failed`
 
 ## Testing document upload failure email job runs when cst_send_evidence_submission_failure_emails is enabled
-1. For a type 1 error Follow steps 1-8 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#type-1-error-when-cst_send_evidence_submission_failure_emails-is-enabled) OR For a type 2 error Follow steps 1-8 [here]()
+1. For a type 1 error Follow steps 1-8 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#type-1-error-when-cst_send_evidence_submission_failure_emails-is-enabled) OR For a type 2 error follow steps 1-8 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#type-2-error-when-cst_send_evidence_submission_failure_emails-is-enabled)
 2. Update `app/sidekiq/lighthouse/evidence_submissions/failure_notification_email_job.rb` so that in `notify_client.send_email()` we replace `recipient_identifier: { id_value: icn, id_type: 'ICN' }` with `email_address: 'YOUR_EMAIL',`
 3. Re-run `vets-api`
 4. Open a rails console in the terminal
