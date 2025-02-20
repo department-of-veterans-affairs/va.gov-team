@@ -1,6 +1,6 @@
 # How to Test EVSS Silent Failure Work Locally
 
-## EVSS - Testing upload success 
+## Testing upload success 
 ### When cst_send_evidence_submission_failure_emails is enabled
 1. Make sure that you have SOCKS access, if you dont follow this [guide](products/claim-appeal-status/engineering/onboarding/socks-and-sentry-access.md)
 2. Open an SSH tunnel in terminal by doing the following
@@ -86,7 +86,7 @@
 8. Go to the claim status tool, select a claim, navigate to the Files Tab and upload a file
 9. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 0 records were added/updated to the evidence_submissions table
 
-## EVSS - Testing delete evidence submission record job runs when cst_send_evidence_submission_failure_emails is enabled
+## Testing delete evidence submission record job runs when cst_send_evidence_submission_failure_emails is enabled
 1. Follow steps 1-8 [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-locally.md#when-cst_send_evidence_submission_failure_emails-is-enabled)
 2. Open a rails console in the terminal
       1. Run `rails c` or `rails console` in a terminal
@@ -109,7 +109,7 @@
    EvidenceSubmission.where(id: <YOUR_EVIDENCE_SUBMISSION_ID>) // should return 0 results
    ```
 
-## EVSS - Testing upload failures for type 1 and 2 errors
+## Testing upload failures for type 1 and 2 errors
 ### When cst_send_evidence_submission_failure_emails is enabled
 1. Make sure you do NOT have an open an SSH tunnel in terminal
 2. Change the following feature flags...
@@ -138,7 +138,7 @@
 9. Go to the claim status tool, select a claim, navigate to the Files Tab and upload a file
 10. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 0 records were added/updated to the evidence_submissions table and an email was sent to you for a failed document upload
 
-## EVSS - Testing document upload failure email job runs when cst_send_evidence_submission_failure_emails is enabled
+## Testing document upload failure email job runs when cst_send_evidence_submission_failure_emails is enabled
 1. Follow steps 1-12 here
 2. Open a rails console in the terminal
       1. Run `rails c` or `rails console` in a terminal
