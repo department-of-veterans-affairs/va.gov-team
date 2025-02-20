@@ -7,11 +7,11 @@ Here is a list of research studies related to appointments on VA.gov:
   - Tele-urgent care
 - [Community care (CC)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md#community-care-cc)
 - [Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md#check-in)
-- Travel pay 
-- VAHB mobile app 
+- [Travel pay]() 
+- [VAHB mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md#vahb-mobile-app) 
 
 
-## VA online scheduling (VAOS)
+## VA Online Scheduling (VAOS)
 
 ### 2024
 - [Appointment Details Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md) - August
@@ -53,7 +53,7 @@ Here is a list of research studies related to appointments on VA.gov:
 - [VAOS discoverability interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2017-10-discoverability) - October
 
 
-## Community care (CC)
+## Community Care (CC)
 
 ### 2024 
 - [Community Care Self-Scheduling - Usability and Concept Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md) - August
@@ -62,21 +62,16 @@ Here is a list of research studies related to appointments on VA.gov:
 - [Community Care Selection Usability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2020-10-cc-provider-selection-usability) - October
 
 
-
 ## Check-in
 
 ### 2024
 - [Check in with an MSA after eCheck-in experimental in-person UAT with Veterans and clinic staff](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2024-10%20Check%20in%20with%20an%20MSA%20after%20eCheck-in%20experiment%20in-person%20UAT%20with%20Veterans%20and%20clinic%20staff) = October
 - [Check in with an MSA after eCheck-in Unmoderated Survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2024-10%20Check%20in%20with%20an%20MSA%20after%20eCheck-in%20Unmoderated%20Survey/Topline%20Summary%20(WIP).md) - October
 - [Unmoderated Content Evaluation for Multiple Facilities Selection in BT Oracle Health App](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2024-04%20Unmoderated%20Content%20Evaluation%20for%20Multiple%20Facilities%20Selection%20in%20BT%20Oracle%20Health%20App/research-findings.md) - April
-- [In-Person UAT for Travel Reimbursement on Smartphone at VA Oracle Health Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2024-02%20In-Person%20Travel%20Reimbursement%20Research%20for%20Oracle%20Health%20Facilities) - TBD
 ### 2023
-- [Past Appointment Travel Reimbursement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-11%20Past%20Appointments%20Travel%20Reimbursement%20Generative%20Usability%20Study/research-findings.md) - November
 - [Remove QR Code from Poster Pilot at VISN 6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-08%20Remove%20QR%20Code%20from%20Poster%20Pilot/findings-presentation.md) - August
 - [Patient Check In (PCI): Unified Check-In Generative Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/research-findings.md) - April
 ### 2022
-- [Patient Check In (PCI): Travel Reimbursement Research, Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre/research-findings.md) - December
-- [Patient Check In (PCI): Travel Reimbursement Research, Staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Staff%20Interviews%20at%20Wilkes-Barre/research-findings.md) - December
 - [Patient Check In ID Verification - SSN4 Text Input vs. Date of Birth (DoB) Memorable Date Comparison](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-10%20Patient%20Check%20In%20ID%20Verification%20-%20SSN4%20Text%20Input%20vs.%20Date%20of%20Birth%20(DoB)%20Memorable%20Date%20Comparison/research-findings.md) - October
 - [Pre-check-in Appointment Information Prioritization](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/180) - September
 - [Enabling Pre-check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/research-findings.md) - June
@@ -91,8 +86,22 @@ Here is a list of research studies related to appointments on VA.gov:
 - [Health Questionnaire: MVP Usability](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/50) - October
 
 
+## Travel Pay 
 
-## VAHB mobile app 
+### 2024
+- [In-Person UAT for Travel Reimbursement on Smartphone at VA Oracle Health Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2024-02%20In-Person%20Travel%20Reimbursement%20Research%20for%20Oracle%20Health%20Facilities) - TBD
+- [Travel Claims Status Language Generative Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2024-06-Travel-Claim-Status-Language-Generative-Study/ResearchFindings.md) - June
+- [Reimbursement Status Look and Feel Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2024-04-Reimbursement-Status-Look-and-Feel-Study/ResearchFindings.md) - April
+- [Travel Pay Status Visibility Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2024-01-Status%20Visibility%20IA%20Study/ResearchFindings.md) - January
+### 2023
+- [Past Appointment Travel Reimbursement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-11%20Past%20Appointments%20Travel%20Reimbursement%20Generative%20Usability%20Study/research-findings.md) - November
+### 2022
+- [Patient Check In (PCI): Travel Reimbursement Research, Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre/research-findings.md) - December
+- [Patient Check In (PCI): Travel Reimbursement Research, Staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Staff%20Interviews%20at%20Wilkes-Barre/research-findings.md) - December
+- [BTSSS Path Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2022-04-btsss-path-analysis) - April
+
+
+## VAHB Mobile App 
 
 ### 2022
 - [VA Mobile Appointment Request Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/appointment-scheduling/usability-testing/research-findings.md) - May
