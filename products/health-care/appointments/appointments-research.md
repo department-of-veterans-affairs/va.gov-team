@@ -1,5 +1,5 @@
 # Appointments-Related Research on VA.gov
-Feel free to link to relevant studies. Questions or comments? Contact peter.russo@adhocteam.us or ask on Slack in #appointments-fe-team.
+Feel free to link to relevant studies. Questions or comments? Contact Kristen McConnell or ask on Slack in #unified-appointments-experience.
 
 Here is a list of research studies related to appointments on VA.gov: 
 - [VA online scheduling (VAOS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md#va-online-scheduling-vaos)
