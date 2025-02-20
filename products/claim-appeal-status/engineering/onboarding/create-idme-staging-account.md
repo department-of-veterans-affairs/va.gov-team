@@ -7,5 +7,6 @@
 6. You will have an email with a 6 digit code sent to you, input that code and submit.
 7. You’ll be asked about multifactor authentication, set that up and pick a type and verify.
 8. You’ll be asked to verify your identity, pick a type and verify.
-10. Log into your user account, navigate to your profile and add an email
-    1. Once done verifying you will have a staging user and you can use rails console to get your user account, update evidence submission records with your user ICN
+10. Log into your user account, navigate to your Name, select `Profile` from the drop down
+11. On the Profile page select `Contact Information` and add an email address and save
+12. You can use `rails console` to get your user account and update evidence submission records with your user ICN
