@@ -1272,7 +1272,7 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### May 29-30, 2018 - Notifications Research
 *Rainbows Team, research lead: Samara Strauss*
 - 3 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2018-notifications-work/HCA%20MVP/Research/May%202018_Notes)
 
 ### April 2018
 
