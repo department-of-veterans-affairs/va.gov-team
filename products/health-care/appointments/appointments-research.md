@@ -13,7 +13,11 @@ Here is a list of research studies related to appointments on VA.gov:
 
 ## VA online scheduling (VAOS)
 
+### 2024
+- [Appointment Details Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md) - August
+- [Appointments Oracle Health Integration and Scheduling Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-05-oh-scheduling/research-findings.md) - May
 ### 2023 
+- [Appointments on MHV on VA.gov UAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-11-mhv-on-va-gov-phase-2b-vaos-uat/research-findings.md) - November
 - [Appointment List Screen Reader Usability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2023-02-appt-list-usability-screenreader) - February
 ### 2022
 - [Appointments List Usability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-09-appts-list-usability) - September
