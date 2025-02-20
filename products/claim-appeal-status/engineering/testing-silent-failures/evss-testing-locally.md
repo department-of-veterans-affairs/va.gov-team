@@ -86,6 +86,29 @@
 8. Go to the claim status tool, select a claim, navigate to the Files Tab and upload a file
 9. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 0 records were added/updated to the evidence_submissions table
 
+## EVSS - Testing delete evidence submission record job runs when cst_send_evidence_submission_failure_emails is enabled
+1. Follow steps 1-8 [here](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-locally.md#when-cst_send_evidence_submission_failure_emails-is-enabled)
+2. Open a rails console in the terminal
+      1. Run `rails c` or `rails console` in a terminal
+3. Run the following commands to change the record to have an earlier delete_date and run the delete evidence submission record cron job...
+   ```
+   // Find your evidence submission passing in your claim id and tracked item id if necessary
+   es = EvidenceSubmission.find_by(claim_id: <YOUR_CLAIM_ID>, tracked_item_id: <YOUR_TRACKED_ITEM_ID>)
+   es //run this to see the current  evidence submission id
+   
+   // Check the current delete_date
+   es.delete_date
+   
+   // Update the delete_date to be a date that has passed. If you do the current date it wont be picked up until the date is in the past.
+   es.update(delete_date: "<NEW_DATE>")
+   
+   // Run this command to run the delete evidence submission record job that deletes records or wait for 24 hours for the job to run automatically
+   Lighthouse::EvidenceSubmissions::DeleteEvidenceSubmissionRecordsJob.perform_async
+   
+   // Run this to verify that the record is deleted, nothing should come up
+   EvidenceSubmission.where(id: <YOUR_EVIDENCE_SUBMISSION_ID>) // should return 0 results
+   ```
+
 ## EVSS - Testing upload failures for type 1 and 2 errors
 ### When cst_send_evidence_submission_failure_emails is enabled
 1. Make sure you do NOT have an open an SSH tunnel in terminal
