@@ -117,10 +117,9 @@
     2. `cst_send_evidence_submission_failure_emails` is enabled
 4. Locally make sure your `settings.local.yml` in `vets-api` has a [vanotify section](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/benefits-management-tools/claim-status-tool/engineering/va-notify.md)
 5. Update `app/sidekiq/evss/document_upload.rb` so that sidekiq retries are set to 0 for testing locally
-6. Update `app/sidekiq/lighthouse/evidence_submissions/failure_notification_email_job.rb` so that in `notify_client.send_email()` we replace `recipient_identifier: { id_value: icn, id_type: 'ICN' }` with `email_address: 'YOUR_EMAIL',`
-7. Run `vets-api` and `vets-website` locally
-8. Go to the claim status tool, select a claim, navigate to the Files Tab and upload a file
-9. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 1 record was added/updated to the evidence_submissions table
+6. Run `vets-api` and `vets-website` locally
+7. Go to the claim status tool, select a claim, navigate to the Files Tab and upload a file
+8. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 1 record was added/updated to the evidence_submissions table
     1. The new records `upload_status` should be FAILED and there should be an `acknowledgment_date`, `failed_date`, `error_message` and `template_metadata -> personalisation -> date_failed`
 
 ### When cst_send_evidence_submission_failure_emails is disabled
@@ -139,13 +138,15 @@
 10. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 0 records were added/updated to the evidence_submissions table and an email was sent to you for a failed document upload
 
 ## Testing document upload failure email job runs when cst_send_evidence_submission_failure_emails is enabled
-1. Follow steps 1-12 here
-2. Open a rails console in the terminal
+1. Follow steps 1-8 here
+2. Update `app/sidekiq/lighthouse/evidence_submissions/failure_notification_email_job.rb` so that in `notify_client.send_email()` we replace `recipient_identifier: { id_value: icn, id_type: 'ICN' }` with `email_address: 'YOUR_EMAIL',`
+3. Re-run `vets-api`
+4. Open a rails console in the terminal
       1. Run `rails c` or `rails console` in a terminal
-3. Run the following command to run the failure notification email job that sends a document upload failure email to a user
+5. Run the following command to run the failure notification email job that sends a document upload failure email to a user
    ```
    // Run this command to run the failure notification email job that sends a document upload failure email to a user or wait for 24 hours for the job to run automatically
    Lighthouse::EvidenceSubmissions::FailureNotificationEmailJob.perform_async
    ```
-4. You'll see the record in the evidence_submission table now has a `va_notify_id` and `va_notify_date` and you should receive an document upload failure email
+6. You'll see the record in the evidence_submission table now has a `va_notify_id` and `va_notify_date` and you should receive an document upload failure email
 
