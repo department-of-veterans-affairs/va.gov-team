@@ -121,7 +121,7 @@ Users will receive communications through the VA about its updates. Our team wil
   - June 2024 - Discovery 
   - July 2024 / August 2024 – Design and Development 
   - September 2024 – Iteration and Testing, Bug Fixes 
-  - February 2025 – Deployment 
+  - March or April 2025 – Launch in CT  
   - April 2025 – Project End 
 - *Actual Launch Date* 
   - tbd 
@@ -205,7 +205,7 @@ WEAMS Development – Warren Majors (Warren.Majors@va.gov)
 
 <details> 
 
-- DEPO Lead: Jason Wolf (Jason.wolf1@va.gov)       
+- DEPO Lead: Theresa Simeone (Theresa.Simeone@VA.gov)       
 - PM: Cassidy Beach (Cassidy.Beach@VA.gov) 
 - Engineering: Vanson Samuel (Vanson.Samuel@VA.gov) 
 - Research/Design: Sneha Kulkarni (Sneha.Kulkarni@VA.gov) 
