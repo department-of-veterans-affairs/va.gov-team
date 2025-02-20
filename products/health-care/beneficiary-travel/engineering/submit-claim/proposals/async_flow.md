@@ -2,7 +2,7 @@
 
 This proposal is intended to potentially reduce or eliminate the need for asynchronous processing of simple mileage only claims.
 
-The bet is that the bulk of the processing time occurs in the `GET /appointments` request to the Travel Pay API, especially if the appointments need to be synced.
+The bet is that the bulk of the processing time occurs in the `GET /appointments` request to the Travel Pay API, especially if the appointments need to be synced from VistA to BTSSS.
 
 Making an _asyncrhonous_ call to a newly exposed `vets-api` endpoint to fetch and find a relevant appointment at the beginning of the flow could be a way to reduce the dependency on sidekiq.
 
