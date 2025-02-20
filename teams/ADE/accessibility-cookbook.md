@@ -1,6 +1,6 @@
 # Accessibility cookbook
 
-![Julia Child with a wooden hammer held aloft, happily grinning as she is about to smash something she is cooking in a TV kitchen.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/CAIA/accessibility/bin/julia-with-hammer.jpg)
+![Julia Child with a wooden hammer held aloft, happily grinning as she is about to smash something she is cooking in a TV kitchen.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/ADE/bin/julia-with-hammer.jpg)
 
 ## What is this
 
@@ -99,7 +99,7 @@ Assistive technology users rely on proper semantics to access web content. They 
 
 ### Implementation notes
 
-![Button or link flow chart](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/CAIA/accessibility/bin/button-or-link.png)
+![Button or link flow chart](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/ADE/button-or-link.png)
 
 #### Should this be a button or link?
 
