@@ -24,30 +24,27 @@ NEW Sprint 1: 2/19/25 - 3/05/25
    
 ## 📋 Previous Sprint Summary:
 In Sprint 24 the team provided support for multiple features and initiatives, outlined as follows:  
-* #### Appointment Requests
-  * VetsAPI Patient Gateway updated Cerner appointment source filtering by removing source filters from VaosClient.java and implementing manual filtering of Cerner appointments.
-* #### VetsAPI Logic Integration Support
-  * Migrated existing logic for past appointments from the web application to the VetsAPI layer, ensuring better maintainability and system consistency.
+* #### Direct Scheduling
+  *  Determine EHR on appointment creation request Clinical Encounter Service was updated so that appointment creation requests are forwarded to the correct Electronic Health Record (EHR) system based on site location, ensuring accurate processing.
+  *  VetsAPI Patient Gateway updated CodeSystems.java to modify the VA_SYSTEM_LOCATION value, aligning it with the correct system value for each facility as defined in ces-ig.
 * #### Community Care
-  * VetsAPI Patient Gateway introduced a new route, updating the AppointmentsController#create method to enable appointment creation within EPS.
+  * VetsAPI enhanced request specifications for AppointmentsController#create_draftmethod, adding more tests to cover different scenarios and edge cases.
+  * VetsAPI implemented a new GET /appointments/{appointment_id} endpoint, which calls EPS::AppointmentService#get_appointment to retrieve details of a specific appointment from EPS.
 * #### Testing/Admin/Operational Support
-  * VetsAPI Patient Gateway implemented additional tests to cover conditions related to asynchronous appointment searches that were previously untested.
-  * Clinical Encounter Service updated the SQA version to reflect enhanced functionality and ensure compatibility with the latest system updates.
+  * VetsAPI Patient Gateway updated various Kubernetes and client dependencies to the latest versions, ensuring improved stability and performance.
 
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started; ⚠️ Removed from sprint 
 
 * 🟤 VetsAPI Logic Integration Support
-   * [VPG-306 VPG: Move any existing logic for when to show join video link to vets-api](https://issues.mobilehealth.va.gov/browse/VPG-306)
-   * [VPG-307 VPG: Move logic for handling partial api responses and errors to vets-api](https://issues.mobilehealth.va.gov/browse/VPG-307)
+   * 🚧 [VPG-306 VPG: Move any existing logic for when to show join video link to vets-api](https://issues.mobilehealth.va.gov/browse/VPG-306)
 * 🔵 Direct Scheduling
    * [CES-1299 CES: Determine EHR on appointment creation request](https://issues.mobilehealth.va.gov/browse/CES-1299)
 * ⚫️ Community Care - this work is being done by Devin working with the CIE team
-   * 🚧 [VPG-318 CC: Add request specs for AppointmentsController#create_draftmethod #101428](https://issues.mobilehealth.va.gov/browse/VPG-318)
-   * [VPG-324 CC: Implement GET /appointments/{appointment_id} for a specific EPS appointment](https://issues.mobilehealth.va.gov/browse/VPG-324)
+   * [VPG-332 CC: Use cached provider_id, appointment_type_id, and end_date for creating](https://issues.mobilehealth.va.gov/browse/VPG-332) 
 * 🟣 Testing/Admin/Operational Support
-   * [CES-1509 CES: SQA: Continued CES testing](https://issues.mobilehealth.va.gov/browse/CES-1509)
-   * [VPG-323 Update VPG to the latest dependency versions](https://issues.mobilehealth.va.gov/browse/VPG-323)
+   * 🚧 [CES-1509 CES: SQA: Continued CES testing](https://issues.mobilehealth.va.gov/browse/CES-1509)
+   * [VPG-331 Update unit test logic to not depend on time of day](https://issues.mobilehealth.va.gov/browse/VPG-331)
 
 
 ## ✈️ Planned Releases
