@@ -44,6 +44,7 @@ In Sprint 24 the team provided support for multiple features and initiatives, ou
    * [VPG-307 VPG: Move logic for handling partial api responses and errors to vets-api](https://issues.mobilehealth.va.gov/browse/VPG-307)
 * 🔵 Direct Scheduling
    * [CES-1299 CES: Determine EHR on appointment creation request](https://issues.mobilehealth.va.gov/browse/CES-1299)
+   * [VPG-327 Update location facility system to use ces-ig value](https://issues.mobilehealth.va.gov/browse/VPG-327)
 * ⚫️ Community Care - this work is being done by Devin working with the CIE team
    * 🚧 [VPG-318 CC: Add request specs for AppointmentsController#create_draftmethod #101428](https://issues.mobilehealth.va.gov/browse/VPG-318)
    * [VPG-324 CC: Implement GET /appointments/{appointment_id} for a specific EPS appointment](https://issues.mobilehealth.va.gov/browse/VPG-324)
