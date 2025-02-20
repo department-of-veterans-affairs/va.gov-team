@@ -102,7 +102,7 @@
    // Update the delete_date to be a date that has passed. If you do the current date it wont be picked up until the date is in the past.
    es.update(delete_date: "<NEW_DATE>")
    
-   // Run this command to run the delete evidence submission record job that deletes records or wait for 24 hours for the job to run automatically
+   // Run this command to run the delete evidence submission record job that deletes records
    Lighthouse::EvidenceSubmissions::DeleteEvidenceSubmissionRecordsJob.perform_async
    
    // Run this to verify that the record is deleted, nothing should come up
