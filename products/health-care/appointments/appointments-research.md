@@ -17,9 +17,14 @@ Here is a list of research studies related to appointments on VA.gov:
 - [Appointment Details Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-findings.md) - August
 - [Appointments Oracle Health Integration and Scheduling Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-05-oh-scheduling/research-findings.md) - May
 ### 2023 
-- [Appointments on MHV on VA.gov UAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-11-mhv-on-va-gov-phase-2b-vaos-uat/research-findings.md) - November
+- [Appointments on MHV on VA.gov Phase 2b UAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-11-mhv-on-va-gov-phase-2b-vaos-uat/research-findings.md) - November
+- [MHV Coordinator Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-10-coordinator-feedback/research-report.md) - October
+- [Appointment Details Redesign Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-10-appt-details-redesign/research-findings.md) - October
+- [Scheduling Staff](https://app.enjoyhq.com/projects/o5228Eqe7/plan#h1:TW9kZXJhdG9yJTIwQ2hlY2tsaXN0) - September
+- [Print Button Analytics and Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-08-print-button-analytics/research-report.md) - August
 - [Appointment List Screen Reader Usability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2023-02-appt-list-usability-screenreader) - February
 ### 2022
+- [Provider-based, Multi-modality Scheduling Discovery](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2022-12-provider-based-multi-modality-scheduling-discovery/discovery-round-1-internal.md) - December
 - [Appointments List Usability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-09-appts-list-usability) - September
 - [Request Manager Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-08-request-manager-discovery-research) - August
 - [MHV and VAOS Appointments List Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery) - January
