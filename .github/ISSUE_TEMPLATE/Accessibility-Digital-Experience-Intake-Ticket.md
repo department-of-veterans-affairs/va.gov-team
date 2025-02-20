@@ -31,7 +31,7 @@ assignees: artsymartha68,sara-amanda,NaomiPMC,lakper
 - `PLACEHOLDER TEXT for your desired outcomes`
   
 ## Collaborate with ADE
-[**Review our menu of services**,](https://github.com/department-of-veterans-affairs/va.gov-team/tree/f12c0655a990044374088eed0d48208e2a120708/teams/CAIA/accessibility) and check all the types of collaboration you're requesting, below:
+[**Review our menu of services**,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting, below:
 
 ### How would you like to collaborate with ADE?
 - [ ] Research support
@@ -93,7 +93,7 @@ _Select all that apply._
 ### Next Steps for Your Team
 - [ ] Save and submit this intake ticket.
 - [ ] Start a new thread, and post a link to this ticket in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Naomi Eke or Lakwi Perera.
-- [ ] If you're requesting accessibility support for usability research, submit a research support request next: [Open an accessibility research support request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name).
+- [ ] If you're requesting accessibility support for usability research, submit a research support request next: [Open an accessibility research support request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/ade-accessibility-research.yaml).
 - [ ] If you're creating an experimental design, also contact the design system team: [Read more about experimental designs](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) 
 - [ ] [Suggest an addition or update to the design system team](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update)
 - [ ] Please don't close this intake when work is complete - ADE will close and track.
