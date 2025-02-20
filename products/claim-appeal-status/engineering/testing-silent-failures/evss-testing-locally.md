@@ -145,7 +145,7 @@
       1. Run `rails c` or `rails console` in a terminal
 5. Run the following command to run the failure notification email job that sends a document upload failure email to a user
    ```
-   // Run this command to run the failure notification email job that sends a document upload failure email to a user or wait for 24 hours for the job to run automatically
+   // Run this command to run the failure notification email job that sends a document upload failure email to a user
    Lighthouse::EvidenceSubmissions::FailureNotificationEmailJob.perform_async
    ```
 6. You'll see the record in the evidence_submission table now has a `va_notify_id` and `va_notify_date` and you should receive an document upload failure email
