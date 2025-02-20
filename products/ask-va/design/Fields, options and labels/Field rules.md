@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: December 5, 2024
+Last updated by @tygindraux: February 20, 2024
 
 This document is for our design team to communicate field rules. This list is alphabetical.
 
@@ -27,7 +27,7 @@ This document is for our design team to communicate field rules. This list is al
 
 ## Attachments
 
-In the form, this is pulled from the categories endpoint so it's regularly updating. AVA Admins have the ability to change these rules at any point, without being part of a release.
+In the form, this is pulled from the categories endpoint so it's regularly updating. AVA Admins have the ability to change these rules at any point, without being part of a release. Attachments are not allowed for unauthenticated submissions.
 
 In the dashboard, TBC.
 
