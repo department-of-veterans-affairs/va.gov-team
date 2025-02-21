@@ -54,7 +54,7 @@
 2. Create an ID.me Account in Staging, instructions [here](products/claim-appeal-status/engineering/onboarding/create-idme-staging-account.md)
 
 ### Testing the document upload failure email job runs
-1. Perform steps 1-2 noted in the [Testing uploading a file in the CST]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-staging.md#testing-uploading-a-file-in-the-cst](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-staging.md#testing-uploading-a-file-in-the-cst-1))
+1. Perform steps 1-2 noted in the [Testing uploading a file in the CST](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-staging.md#testing-uploading-a-file-in-the-cst-1)
 2. Within the ArgoCD terminal using rails console run the following commands to change the record to a failure and run the document upload failure email cron job...
    1. NOTE: If you dont run this manually it is set up to run daily
    ```
