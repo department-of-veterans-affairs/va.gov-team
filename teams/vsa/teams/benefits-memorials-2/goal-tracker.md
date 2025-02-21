@@ -41,7 +41,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 | UX: Define the path (PDF or HTML) version for the one VA Debt letter | QP1 |--|02/20|--|
-| UX: Finalization of wizard content mockups and prototypes for research and studies | QP2 |Blocked by CAIA|02/20|Blocked|
+| UX: Finalization of wizard content mockups and prototypes for research and studies | QP2 |Blocked by CAIA|--|Blocked|
 | UX: Define UX practice process and vision for 2025 | N/A |--|--|--|
 | UX: Complete one of the prior Medallia reports | QP4 |--|--|--|
 | ENG: Have a clear path for one debt letter by define how the letter will be technically generated | QP1 |--|--|--|
