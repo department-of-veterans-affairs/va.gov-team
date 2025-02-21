@@ -74,15 +74,19 @@
    es.update(upload_status: 'FAILED', delete_date: nil, acknowledgement_date: <DESIRED_DATE>, failed_date: <DESIRED_DATE>, error_message: 'EVSS::DocumentUpload document upload failure')
 
    // After the update check each field to make sure it is updated correctly
-
-   // If you have an ICN in staging, look up your account id using your icn and update the evidence submission record with your account id
-   // This will make it so that when we run the failure email cron job, you will receive the email
-   account_id = UserAccount.find_by(icn: "<YOUR_ICN>").id
-   es.update(user_account_id: account_id)
-
-   // Run this command to run the failure notification email job that sends a document upload failure email to a user or wait for 24 hours for the job to run automatically
-   Lighthouse::EvidenceSubmissions::FailureNotificationEmailJob.perform_async
-
-   // Look up your evidence submission record and you should see your record now has a va_notify_id and and a va_notify_date
    ```
-3. Id you changed the User Account ID of the evidence submission record then you should expect to recevie a document upload failure notification email
+3. You should now have a record with a FAILED upload_status, a nil delete_date, an acknowledgement_date, a failed_date, an error_message and a template_metadata -> personalisation -> date_failed
+4. Within the ArgoCD terminal using rails console run the following commands to update the User Account ID on a record and to run the document upload failure email cron job...
+    1. NOTE: If you dont run this manually it is set up to run daily
+    ```
+    // If you have an ICN in staging, look up your account id using your icn and update the evidence submission record with your account id
+    // This will make it so that when we run the failure email cron job, you will receive the email
+    account_id = UserAccount.find_by(icn: "<YOUR_ICN>").id
+    es.update(user_account_id: account_id)
+    
+    // Run this command to run the failure notification email job that sends a document upload failure email to a user or wait for     // 24 hours for the job to run automatically
+    Lighthouse::EvidenceSubmissions::FailureNotificationEmailJob.perform_async
+    
+    // Look up your evidence submission record and you should see your record now has a va_notify_id and and a va_notify_date
+    ```
+5. If you changed the User Account ID of the evidence submission record then you should expect to receive a document upload failure notification email
