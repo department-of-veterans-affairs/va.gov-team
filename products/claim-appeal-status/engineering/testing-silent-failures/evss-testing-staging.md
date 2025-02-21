@@ -20,7 +20,7 @@
 11. Afterwards go back to [ArgoCD](https://argocd.vfs.va.gov ) and login
 12. Search for the project `vets-api-staging`
 13. Selected a pod with `vets-api-web` and select `Exec`
-14. A new screen will open up with a terminal, type in `bundle exec rails c -- sandbox` (this will load the rails console)
+14. A new screen will open up with a terminal, type in `bundle exec rails c` (this will load the rails console)
 15. Run `EvidenceSubmission.count` you should see the additional record added to your count
     1. To find your specific record you can do `EvidenceSubmission.last` OR `EvidenceSubmission.where(claim_id: <YOUR_CLAIM_ID)` OR `EvidenceSubmission.where(claim_id: <YOUR_CLAIM_ID>, tracked_item_id: <YOUR_TRACKED_ITEM_ID>)`
     2. The new records `upload_status` should be SUCCESS and there should be a `delete_date`
