@@ -47,4 +47,4 @@ Internal accessibility training sessions held for DBEX Team 1 & Conditions
 ### VA Platform docs
  - [VA Platform Developer docs - Accessibility](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-testing)
  - [What accessibility tools we use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/what-accessibility-tools-we-use.md) - This documentation, created by a previous incarnation of the CAIA team, covers the tools used for testing accessibility, particularly during accessibility audits.
-- [CAIA's Accessibility Cookbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/accessibility-cookbook.md) - CAIA's record of common accessibility issues and their solutions
+- [ADE's Accessibility Cookbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/accessibility-cookbook.md) - Record of common accessibility issues and their solutions
