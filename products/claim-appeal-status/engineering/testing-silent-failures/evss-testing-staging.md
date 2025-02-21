@@ -26,7 +26,8 @@
     2. The new records `upload_status` should be **SUCCESS** and there should be a `delete_date`
 
 ### Testing the delete evidence submission record job 
-1. Within the ArgoCD terminal using rails console run the following commands to change the record to have an earlier delete_date and run the delete evidence submission record cron job...
+1. Perform steps 1-14 noted in the [Testing uploading a file in the CST](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-staging.md#testing-uploading-a-file-in-the-cst)
+2. Within the ArgoCD terminal using rails console run the following commands to change the record to have an earlier delete_date and run the delete evidence submission record cron job...
     1. NOTE: If you dont run this manually it is set up to run daily
     ```
     // Find your evidence submission passing in your claim id and tracked item id if necessary
@@ -49,11 +50,12 @@
 
 ## EVSS - Testing upload failure for type 1 and 2 when cst_send_evidence_submission_failure_emails is enabled
 ### Testing uploading a file in the CST
-1. Perform steps 1-14 noted in the **Testing upload success section**
+1. Perform steps 1-14 noted in the [Testing uploading a file in the CST](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-staging.md#testing-uploading-a-file-in-the-cst)
 2. Create an ID.me Account in Staging, instructions [here](products/claim-appeal-status/engineering/onboarding/create-idme-staging-account.md)
 
 ### Testing the document upload failure email job runs
-1. Within the ArgoCD terminal using rails console run the following commands to change the record to a failure and run the document upload failure email cron job...
+1. Perform steps 1-2 noted in the [Testing uploading a file in the CST]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-staging.md#testing-uploading-a-file-in-the-cst](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-staging.md#testing-uploading-a-file-in-the-cst-1))
+2. Within the ArgoCD terminal using rails console run the following commands to change the record to a failure and run the document upload failure email cron job...
    1. NOTE: If you dont run this manually it is set up to run daily
    ```
    // Find your evidence submission passing in your claim id and tracked item id if necessary
@@ -83,4 +85,4 @@
 
    // Look up your evidence submission record and you should see your record now has a va_notify_id and and a va_notify_date
    ```
-2. Id you changed the User Account ID of the evidence submission record then you should expect to recevie a document upload failure notification email
+3. Id you changed the User Account ID of the evidence submission record then you should expect to recevie a document upload failure notification email
