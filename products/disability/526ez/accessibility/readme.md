@@ -13,6 +13,8 @@ If you are new, check out the [Onboarding Checklist](https://github.com/departme
 ## Annotations
 ### Conditions
 - [Conditions - Info Entry flow](https://www.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/(526ez)-Condition-information-entry?node-id=538-16948)
+- [Conditions - Apple Prototype - Full Flow with Updates](https://www.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/(526ez)-Condition-information-entry?node-id=1673-103033&t=x7XRdVo84N7t0w42-0)
+- [Conditions - Recommended Secondary Claims Flow](https://www.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/(526ez)-Condition-information-entry?node-id=1673-103033&t=x7XRdVo84N7t0w42-0)
 
 ### Disability Benefits Team 1
 - [Disability Benefits Team 1 - New Confirmation page](https://www.figma.com/design/qyTtKDOTHZPGU59PAfqVhq/(526ez)-New-Confirmation-Page-and-Email-Touchpoints?node-id=8187-81090&t=p3ziITq3Qpe50Ovs-4)
