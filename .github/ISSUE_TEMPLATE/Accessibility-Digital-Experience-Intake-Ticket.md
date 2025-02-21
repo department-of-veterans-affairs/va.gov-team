@@ -35,6 +35,12 @@ assignees: artsymartha68,sara-amanda,NaomiPMC,lakper
 
 ### How would you like to collaborate with ADE?
 - [ ] Research support
+    - [ ] Discuss research plan / conversation guide / recruitment of AT users
+    - [ ] Advise on accessible prototypes
+    - [ ] Schedule pilot session with an AT user
+    - [ ] Schedule technical support during AT research sessions
+    - [ ] Document accessibility-related issues during AT research sessions
+    - [ ] Conduct research for your team
 - [ ] Accessibility test planning
 - [ ] Support design discovery
 - [ ] Review wireframes or mockups
@@ -87,20 +93,16 @@ _Select all that apply._
 
 
 
-
-
-```[tasklist]
-### Next Steps for Your Team
+## Next Steps for Your Team
 - [ ] Save and submit this intake ticket.
 - [ ] Start a new thread, and post a link to this ticket in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Naomi Eke or Lakwi Perera.
-- [ ] If you're requesting accessibility support for usability research, submit a research support request next: [Open an accessibility research support request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/ade-accessibility-research.yaml).
+- [ ] If you're requesting accessibility support for user research, submit a research support request next: [Open an accessibility research support request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/ade-accessibility-research.yaml).
 - [ ] If you're creating an experimental design, also contact the design system team: [Read more about experimental designs](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) 
 - [ ] [Suggest an addition or update to the design system team](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update)
 - [ ] Please don't close this intake when work is complete - ADE will close and track.
-```
 
-```[tasklist]
-## Ticket Updates (ADE Internal)
+## ADE Internal
+### Ticket Updates
 - [ ] Receive new intake ticket
 - [ ] Respond to Slack message sent by VFS team upon submission
 - [ ] Reach out to the VFS team to set up Kickoff (if requested)
@@ -117,11 +119,13 @@ _Select all that apply._
 - [ ] _Update date in `Last Checked` field_
 - [ ] _Label with `Actual` (level of effort it took to complete this ticket)_
 - [ ] _Update date in_ `Closed Date`
-```
 
-```[tasklist]
-## Related Tickets
-- [ ] #ticketnumbergoeshere1
-- [ ] #ticketnumbergoeshere2
-- [ ] #ticketnumbergoeshere3
-```
+### Related Tickets (ADE Internal)
+> [!IMPORTANT]
+> #### Tasks are Now Sub-Issues
+> - Related tickets are no longer being tracked in task lists, due to the planned depreceiation of tasks by GitHub in April 2025. 
+> - Instead, related tickets will be connected to tickets via sub-issues.
+> ##### Connecting Tickets
+> - **To connect an existing ticket**, choose the drop-down from "create sub-issue" and select "add existing issue"
+> - **To connect a new issue,** choose the drop-down from "create sub-issue" and select "create sub-issue," and select the respective template. 
+
