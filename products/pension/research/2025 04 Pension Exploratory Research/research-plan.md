@@ -65,6 +65,15 @@ We anticipate that this research will:
 
 - Reduce errors and boost efficiency for adjudicators by making the form easier to complete for end users,  streamline backend workflows, and reduce processing times (secondary).
 
+### Measurement
+
+We anticipate that research findings once applied will result downstream in:
+
+- Reduction in length of time and complexity required to complete the form for Veterans and advocates.
+- Reduction in length of time and complexity required to process the form for adjudicators.
+- Reduction in number of development letters sent to Veterans and advocates due to submission errors.
+
+
 ### Hypotheses
 
 - Veterans tend to seek out pension benefits when they are already experiencing financial hardship or other adverse conditions.
