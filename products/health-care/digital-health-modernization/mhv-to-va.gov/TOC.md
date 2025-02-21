@@ -36,12 +36,12 @@
         * [JIRA Epic](https://jira.devops.va.gov/browse/MHV-62180)
     * Collab Cycle Tickets
         * Open
-          - [Download Records](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92340)
-          - [Phase 1 Radiology Flow/Images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95081)
-          - [Settings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95082)
           - [Filters](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95083)
         * Closed
           - [Medical Records Initial Launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53454)
+          - [Download Records](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92340)
+          - [Phase 1 Radiology Flow/Images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95081)
+          - [Settings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95082)
     * Mapping Documentation
         * FHIR Publication
     * Figma
@@ -68,12 +68,14 @@
         * [JIRA Epic](https://jira.devops.va.gov/browse/MHV-62179)
     * Collab Cycle Tickets
         * Open
-          - [Contact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90850)
+          - March Milestone! [Landing Page/Navigation Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90137)
+          - March Milestone! [Signature Settings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102012) 
           - [Filter Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90138)
-          - [Landing Page/Navigation Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90137)
+          - [Oracle Health Curated List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102015)
           - [Plain Language Triage Group](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89985)
         * Closed
           - [Secure Messaging Initial Launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51115)
+          - [Contact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90850)
     * Documentation
     * Figma
         * Links to Designs

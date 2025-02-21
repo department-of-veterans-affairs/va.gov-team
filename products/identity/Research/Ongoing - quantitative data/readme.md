@@ -10,9 +10,9 @@ About every quarter we plan to request new survey and support data from the Vete
 
 | Date of data pull | Data requested | Date of request | Request ticket | notes
 | --- | ---| --- | --- | --- |
-| Oct - Nov 2024 | Medallia, survey | Dec 6 | [98616](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98616) |
+| Oct - Nov 2024 | Medallia, surveys | Dec 6 | [98616](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98616) |
 | Oct - Nov 2024 |  MyVA411, support | Dec 6 | [98615](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98615) |
-| Jan - Apr 2024 | Medallia, survey | May 7 | [82577](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82577) | Part of [2024-04 FE Sign in Flows](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-04%20FE%20Sign%20in%20Flows) |
+| Jan - Apr 2024 | Medallia, surveys | May 7 | [82577](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82577) | Part of [2024-04 FE Sign in Flows](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-04%20FE%20Sign%20in%20Flows) |
 | Jan - Apr 2024 | MyVA411, support | May 7 | [82569](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82569) | Part of [2024-08 Sign In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-08%20Sign%20In%20Experience%20-%20Call%20Center%20Data%20Analysis) |
 
 ## Documentation

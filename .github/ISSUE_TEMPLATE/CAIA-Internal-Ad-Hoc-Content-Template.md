@@ -4,7 +4,7 @@ about: Internal CAIA template for general ad hoc content requests.
 title: 'Ongoing content support for ad hoc requests'
 labels: 'sitewide CAIA, sitewide content'
 project: 'Sitewide CAIA'
-assignees: laurwill
+assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA
 ---
 
 > [!WARNING]

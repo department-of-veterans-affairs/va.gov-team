@@ -69,7 +69,7 @@ We believe this pattern may consist of:
 - Kickoff ticket
 
 ### Finalized Pattern
-We have completed our research study and finalized our recommendations for this pattern which can be found (here)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/patterns/update-prefilled-information/Help-users-to-Update-prefilled-information.md]
+We have completed our research study and finalized our recommendations for this pattern which can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/update-prefilled-information/Help%20users%20to%20update%20prefilled%20information.md).
 
 ### Timeline 
 

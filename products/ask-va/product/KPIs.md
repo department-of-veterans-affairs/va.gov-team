@@ -1,5 +1,5 @@
 # Ask VA KPIs
-Last updated by @beckyphung on November 25, 2024
+Last updated by @beckyphung on January 16, 2025
 
 🚧 10/24 Update: We don't have all targets currently. Also, we're currently working on updating the **Performance KPIs** section.
 
@@ -15,12 +15,12 @@ User Experience KPIs measure how well Ask VA meets the needs and expectations of
 
 ### Form
 These are KPIs we want to actively track when we launch on VA.gov in 2025.
-|KPI|2024 targets as of 10/24/24|
-|:--|:--|
-|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: ❓<br>**VA.gov forms average**: ❓|
-|**Experience** - Increase experience rating to at least the VA.gov average|**VA.gov average**:57%<br>**VA.gov forms average**: 3.5|
-|**Form completion rate** - Increase the percentage of questions successfully sent by submitters to at least the VA.gov average form completion rate|**VA.gov average form completion rate**: 29%|
-|**Time to submit form** - Decrease the average time it takes submitters to send a question from ❓|❓|
+|KPI|Current (2025)|2024 targets as of 10/24/24|
+|:--|:--|:--|
+|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|23%|**VA.gov average (2024)**: 30%<br>**VA.gov forms average**: ❓|
+|**Experience** - Increase experience rating to at least the VA.gov average|TBD after mid-Mar VA.gov launch|**VA.gov average**: 57%<br>**VA.gov forms average**: 3.5|
+|**Form completion rate** - Increase the percentage of questions successfully sent by submitters to at least the VA.gov average form completion rate|35%|**VA.gov average form completion rate**: 29%|
+|**Time to submit form** - Decrease the average time it takes submitters to send a question from ❓|TBD after mid-Mar VA.gov launch|❓|
 
 #### Other form metrics
 These are other form metrics to track. We don't need these for launch.
@@ -30,12 +30,12 @@ These are other form metrics to track. We don't need these for launch.
 
 ### Dashboard 
 These are KPIs we want to actively track when we launch on VA.gov in 2025.
-KPI|2024 targets as of 10/24/24|
-|:--|:--|
-|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: ❓|
-|**Experience** - Increase experience rating to at least the VA.gov average|**VA.gov average**: 57%|
-|**Reply rate** - Increase the number of replies to questions to ❓|❓|
-|**Time to reply** - Decrease the average time it takes submitters to reply to a question from ❓|❓|
+KPI|Current (2025)|2024 targets as of 10/24/24|
+|:--|:--|:--|
+|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|TBD after mid-Mar VA.gov launch|**VA.gov average** (2024): 30%|
+|**Experience** - Increase experience rating to at least the VA.gov average|TBD after mid-Mar VA.gov launch|**VA.gov average (2024)**: 57%|
+|**Reply rate** - Increase the number of replies to questions to ❓|TBD after mid-Mar VA.gov launch|❓|
+|**Time to reply** - Decrease the average time it takes submitters to reply to a question from ❓|TBD after mid-Mar VA.gov launch|❓|
 
 ### Other dashboard metrics
 These are other dashboard metrics to track. We don't need these for launch.
@@ -76,17 +76,19 @@ These are other dashboard metrics to track. We don't need these for launch.
    - Time when user clicked send button `minus` time when user arrived on question details page
 
 ## Performance KPIs
-Performance KPIs measure the technical aspects of Ask VA, such as speed, reliability, and scalability. They help assess how efficiently the software functions and whether it can handle increasing workloads.
-|KPI|Actual targets as of [date]|
-|:--|:--|
-|**Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions|VA.gov silent failures rate: ❓|
-|**Successful submissions to CRM**|xx|
-|**Failed submissions to CRM**|xx|
-|**Other things**|xx|
+Performance KPIs measure the technical aspects of Ask VA, such as speed, reliability, and scalability. They help assess how efficiently the software functions and whether it can handle increasing workloads. The following metrics can be viewed for specific date ranges and/or by environment.
+|KPI|Current (2025)|Actual targets as of [date]|
+|:--|:--|:--|
+|**Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions|VA.gov silent failures rate: Currently, as defined, there are no silent failures that should occur and need to be tracked||
+|**Error rate (Form submissions to CRM, Submit Inquiry)** - The number of non 2xx codes vs 2xx (successful) codes over a unit of time (e.g. per day)|TBD after mid-Mar VA.gov launch||
+|**Error rate (Dashboard replies to CRM, Submit Reply)** - The number of non 2xx codes vs 2xx (successful) codes over a unit of time (e.g. per day)|TBD after mid-Mar VA.gov launch||
+|**Latency** - Average time to receive a successful response (2xx) from CRM over a unit of time. Will be tracked for Form submissions and Dashboard replies.|TBD after mid-Mar VA.gov launch||
+|**Throughput** - Number of Transactions per unit of time (e.g. per day). Can be split by: 1)Successes and Failures and 2) Form submissions and Dashboard replies |TBD after mid-Mar VA.gov launch||
+|**Other things**|TBD after mid-Mar VA.gov launch||
 
 ### Other performance metrics
 These are other performance metrics to track. We don't need these for launch.
-- [Other metrics]
+- Non-CRM API error rates: API owners have their own dashboards which the Ask VA team can monitor
 
 ## Business lines
 The Ask VA CRM team tracks business line KPIs in [the AVA Power BI report](https://app.powerbigov.us/groups/me/reports/e895dbed-17f3-45d1-8219-2b3fe27b8b7e?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&pbi_source=linkShare&bookmarkGuid=72bfed1d-0745-4452-a5e8-6a36551cb166). This includes metrics like: average resolution time (days to solve), number of authenticated submitters, submissions by category, and more.

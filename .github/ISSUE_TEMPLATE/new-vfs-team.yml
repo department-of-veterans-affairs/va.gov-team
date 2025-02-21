@@ -1,0 +1,172 @@
+name: "New VFS Team"
+description: "Complete this form to provide essential information about your new VFS team."
+title: "[New VFS Team]: Team Name Here "  
+labels: ["new-vfs-team", "platform-orientation", "platform-tech-team-support"]  
+body:  
+  - type: markdown  
+    attributes:  
+      value: "## Welcome and Introduction\nWe are excited to welcome your team to VA.gov! Please complete this form to provide essential team details."
+
+  - type: input  
+    id: team-name  
+    attributes:  
+      label: "Team Name"  
+      description: "Enter your team's name."  
+      placeholder: "Example: VA Digital Services Team"  
+    validations:  
+      required: true  
+
+  - type: input  
+    id: octo-de-product-owner  
+    attributes:  
+      label: "OCTO-DE Product Owner"  
+      description: "Enter the name of your OCTO-DE Product Owner."  
+    validations:  
+      required: true  
+
+  - type: dropdown  
+    id: va-business-owner  
+    attributes:  
+      label: "VA Business Owner"  
+      description: "Select the appropriate VA Business Owner."  
+      options:  
+        - "OCTO (Office of the CTO)"  
+        - "VHA (Veterans Health Administration)"  
+        - "VBA (Veterans Benefits Administration)"  
+        - "NCA (National Cemetery Administration)"  
+        - "VACO (Veterans Affairs Central Office)"  
+        - "Other (Specify below)"  
+    validations:  
+      required: true  
+
+  - type: input  
+    id: va-business-owner-other  
+    attributes:  
+      label: "Other VA Business Owner (if applicable)"  
+      description: "If you selected 'Other' above, specify the VA Business Owner."  
+      placeholder: "Enter other VA Business Owner"  
+
+  - type: dropdown  
+    id: crew  
+    attributes:  
+      label: "Crew"  
+      description: "Select the crew your team belongs to."  
+      options:  
+        - "Sitewide"  
+        - "Account Experience"  
+        - "Health Tools"  
+        - "Benefit Tools"  
+        - "Lighthouse API"  
+        - "Platform"
+        - "Other (Specify below)"
+    validations:  
+      required: true  
+
+  - type: input  
+    id: crew-other  
+    attributes:  
+      label: "Other Crew (if applicable)"  
+      description: "If you selected 'Other' above, specify the Crew."  
+      placeholder: "Enter other Crew"  
+
+  - type: input  
+    id: github-team-name  
+    attributes:  
+      label: "GitHub Team Name"  
+      description: "Enter your team's GitHub name."  
+    validations:  
+      required: true  
+
+  - type: input  
+    id: github-team-label  
+    attributes:  
+      label: "GitHub Team Label"  
+      description: "Enter the GitHub team label."  
+    validations:  
+      required: true  
+
+  - type: input  
+    id: team-launch-date  
+    attributes:  
+      label: "Team Launch Date"  
+      description: "Provide the expected launch date for your team."  
+      placeholder: "YYYY-MM-DD"  
+    validations:  
+      required: true  
+
+  - type: input  
+    id: public-slack-channel  
+    attributes:  
+      label: "Public Slack Channel"  
+      description: "Enter the name of your public Slack channel for communication."  
+    validations:  
+      required: true  
+
+  - type: textarea  
+    id: other-team-names  
+    attributes:  
+      label: "Other Team Names (if applicable)"  
+      description: "List any other names your team may be known by."  
+
+  - type: checkboxes  
+    id: team-info-added  
+    attributes:  
+      label: "Confirm team information has been added"  
+      options:  
+        - label: "This information has been added."  
+          required: true  
+
+  - type: checkboxes  
+    id: tot-team-of-teams  
+    attributes:  
+      label: "Team of Teams (ToT) Meeting Invitation"  
+      options:  
+        - label: "Contacted `@Julia Badillo` or `@Erica Robbins [GovCIO_VetsPS]` on the #team-of-teams-slide-collection channel for an invite."  
+          required: true  
+
+  - type: checkboxes  
+    id: team-introduction  
+    attributes:  
+      label: "Introduce your team on Slack"  
+      options:  
+        - label: "Introduced our team on #vfs-all-teams Slack channel, including team name, Product Manager, Product Owner, crew, and VA.gov products."  
+          required: true  
+
+  - type: checkboxes  
+    id: platform-orientation  
+    attributes:  
+      label: "Platform Orientation for Team Members"  
+      options:  
+        - label: "Directed team members to [New VFS team members guidance](https://depo-platform-documentation.scrollhelp.site/getting-started/Guidance-for-new-teams-and-team-members.2132803700.html#Guidancefornewteamsandteammembers-NewVFSTeammembers)."  
+          required: true  
+        - label: "Confirmed all team members have completed the process."  
+          required: true  
+
+  - type: checkboxes  
+    id: review-product-info  
+    attributes:  
+      label: "Review and Update Team's Product Information"  
+      options:  
+        - label: "Reviewed our product(s) in the [VA Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)."  
+          required: true  
+        - label: "Confirmed that all of our team's products are listed correctly."  
+          required: true  
+        - label: "If updates were needed, followed the [user guide](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory-user-guide) to make changes."  
+          required: true  
+
+  - type: checkboxes  
+    id: ato-orientation  
+    attributes:  
+      label: "Authorization to Operate (ATO) Orientation"  
+      options:  
+        - label: "Posted in #platform-security Slack channel to request and schedule an ATO team orientation."  
+          required: true  
+        - label: "Confirmed that the orientation has been completed."  
+          required: true  
+
+  - type: checkboxes  
+    id: platform-checklist  
+    attributes:  
+      label: "Platform Checklist (For Platform Use Only)"  
+      options:  
+        - label: "New VFS Team has been added to the VFS Team Roster located in [Atlas](https://www.va.gov/atlas/)."  

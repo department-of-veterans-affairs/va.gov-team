@@ -41,7 +41,7 @@ Monitors for each product are described within product folders. e.g.
 | [FAQ Page](#faq-page) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [“How to apply” wizards](#how-to-apply--benefit-wizards)  |
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [On-site search (using search.gov)](#on-site-search-using-searchgov) | [React widgets use within CMS](#react-widgets-use-within-cms) |
 | [Full-width Alert](#full-width-alert) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | [BTSSS react widget](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/travel-reimbursement-btsss) |
-| [VA.gov Homepage](#vagov-homepage) | [CTA React widget](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/cta-widget) | . |
+| [VA.gov Homepage](#vagov-homepage) | . | . |
 | [Promo Banner](#promo-banner) | . |  .  |
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
 | [Resources & Support](#resources-and-support) |  . | . |
@@ -86,12 +86,6 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 - [ ] VA Benefits taxonomy - (Drupal only) - https://prod.cms.va.gov/admin/structure/taxonomy/manage/va_benefits_taxonomy/overview
 
 ### React Applications: 
-- [ ] CTA widgets - until MHV Cartography takes them in Feb 2025
-    - [ ] Get medical records - https://www.va.gov/health-care/get-medical-records/
-    - [ ] Make appointment - https://www.va.gov/health-care/schedule-view-va-appointments/
-    - [ ] Refill/track prescriptions - https://www.va.gov/health-care/refill-track-prescriptions/
-    - [ ] Send secure message - https://www.va.gov/health-care/secure-messaging/
-    - [ ] View test and lab results page - https://www.va.gov/health-care/view-test-and-lab-results/
 - [ ] Discharge upgrade wizard - https://www.va.gov/discharge-upgrade-instructions/
 - [ ] Income Limits app - https://www.va.gov/health-care/income-limits/introduction
 - [ ] PACT Act app - Not yet shipped (12/24): https://staging.va.gov/pact-act-eligibility/introduction
@@ -99,7 +93,7 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 </details>
 
 ## Changelog
-* 11/2024: In Jan/Feb 2025, MHV Cartography team will take ownership of the 5 CTA widget apps currently owned by PW
+* 1/14/2025: Identity team now owns the central vets-website cta-widget application. The MHV Cartography team may have a stake in the content / behavior of the  6 CTA widget invocations that are present on VAMC pages.
 * 09/23/2024: Design System Team now owns the global Header and footer markup: https://dsva.slack.com/archives/C52CL1PKQ/p1727120068414909
 * 07/2024: Design System team now owns the Veterans Crisis Line modal as a component: https://dsva.slack.com/archives/C06V7AAFVH7/p1721850350022329?thread_ts=1720203529.734199&cid=C06V7AAFVH7
 * [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md) - previous doc of tools that were moved from Decision Tools > Search & Discovery and are now under Public Websites purview
@@ -517,6 +511,10 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/produc
 
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/cta-widget
 
+This product was formerly owned by Public Websites. 
+As of 1/14/2025, Identity team owns the centralized cta-widget vets-website application. 
+There are 6 instances of this widget that appear on VAMC pages, and are loaded into VAMC pages via Drupal. If any changes are required for these widgets, the MHV Cartography team (part of Health Apps) may need to coordinate with the Facilities team for support.
+
 
 ## Discharge upgrade wizard
 The Discharge Upgrade Wizard is a tool Veterans may use to understand whether they are eligible to apply for a change to their discharge status. 
@@ -848,4 +846,4 @@ Transformers for specific CMS fields / templates: [https://github.com/department
 
 Static CMS page with a React widget. 
 
-The widget was no longer used as of 3/22/2022, so will be deprecated in 2024/early 2025: https://dsva.slack.com/archives/C52CL1PKQ/p1733496776695149 
+The widget was no longer used as of 3/22/2022, so was deprecated in 2024: https://dsva.slack.com/archives/C52CL1PKQ/p1733496776695149 

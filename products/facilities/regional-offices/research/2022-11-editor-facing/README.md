@@ -1,0 +1,1 @@
+VBA Editor facing research was prepped but never conducted. Instead: we launched the Drupal UI and performed editor training sessions, and took an iterative approach to improving the Drupal interfaced based on feedback from trainings.

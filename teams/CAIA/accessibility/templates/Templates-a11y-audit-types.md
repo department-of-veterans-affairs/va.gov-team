@@ -1,15 +1,13 @@
 > [!NOTE]
-> - **Last Updated:** `8/26/2024`
-> - **Source of Truth:** CAIA a11ys Auditing Process
+> **Last Updated:** `2/12/2025`
 
-# Templates for a11y Audits
-The following a11y audit documentation has been created via Google Docs, in order to create the most accessible version of each document for our team. Rather than duplicate this content, we are linking to the shared Google files,below.
+# Templates for Accessibility Audits
+The following accessibility audit documentation has been created via Google Docs, in order to create the most accessible version of each document for our team. Rather than duplicate this content, we are linking to the shared Google files,below.
 
-CAIA a11y support offerings are detailed in the [Menu of Services](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/CAIA/accessibility), we offer.
+ADE support offerings are detailed in the [ADE Menu of Services](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/CAIA/accessibility#services-we-offer).
 
 > [!TIP]
-> - When reviewing the templates, each document will have a last updated date in the first-page header. If you make any updates to a template, please adjust the date accordingly, to guarantee content freshness.
-> - Always review the [CAIA a11y menu of services](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/CAIA/accessibility#review-wireframes-and-figma-prototypes), after updates, in the event the description needs updated.
+> - When reviewing the templates, each document will have a last updated date in the first-page header. If you make any updates to a template, please adjust the date accordingly.
 
 ## Review Wireframes and Figma Prototypes
 
@@ -17,7 +15,7 @@ CAIA a11y support offerings are detailed in the [Menu of Services](https://githu
 - We can also work with you and advise on how to annotate designs to ensure that they are easy to implement in an accessible way.
 
 ### Figma Template
-[Accessibility Review: **Figma Prototype**](https://docs.google.com/document/d/1iWT1OiGsE6GpevBIGDpTHTJCC8FJt5qPYze38scEeSo/edit?usp=sharing)
+[Accessibility Review: **Figma Prototype**](https://docs.google.com/document/d/1oIMVsxYitmY-dyWu9zpek-MUnbY42PszkupNvgda1wI/edit?usp=drive_link)
 
 ## Staging / CodePen / Production Audit
 
@@ -26,8 +24,8 @@ CAIA a11y support offerings are detailed in the [Menu of Services](https://githu
 - We can audit products for accessibility issues on desktop and mobile devices (subject to device availability among CAIA specialists).
 
 ### Coded Audit Templates
-- [Coded Product Accessibility Audit: **Desktop**](https://docs.google.com/document/d/1wvNI7XLYteytPlib97_2dVXkdPyd82IyORbNHn54kkw/edit?usp=sharing)
-- [Coded Product Accessibility Audit: **Mobile**](https://docs.google.com/document/d/1J_MiOV9Nz9RxsGqLJ4M7JUzbxAuVnX22b03-adD0hns/edit?usp=sharing)
+- [Coded Product Accessibility Audit: **Desktop**](https://docs.google.com/document/d/1Lerxk2rZp9Eeyb1XUP_9YCsYtKUdSxMCrzDzYj726xs/edit?usp=drive_link)
+- [Coded Product Accessibility Audit: **Mobile**](https://docs.google.com/document/d/1M9Yc9WjvQDr98J5n-Ahfw1KWnBONiyGEMjogQmMEUGY/edit?usp=drive_link)
 
 ## Health Check Audit
 

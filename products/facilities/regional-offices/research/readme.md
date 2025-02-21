@@ -139,7 +139,7 @@
 ## 4 - Public Contact Team Research
 
 - [Research epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10447)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/VBA-discovery)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2022-9-public-contact)
 
 ### Team
 - Denise Eisner - lead
@@ -172,10 +172,10 @@
 - When should some benefits be encouraged or promoted to be done online or a phone call?
 - Does the Public Contact staff handle any aspect of the facility's website?
 
-## 5 - Editor Research
+## 5 - Editor Research (planned, not conducted)
 
 - [Research epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10185)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/VBA-discovery)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2024-01-editor-facing)
 
 ### Team
 - Denise Eisner - lead

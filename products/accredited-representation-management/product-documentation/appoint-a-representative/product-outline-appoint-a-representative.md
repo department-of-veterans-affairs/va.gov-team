@@ -2,7 +2,7 @@
 
 Team: Accredited Representation Management
 
-Product URL:[ Request help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/appoint-rep)
+Product URL:[Request help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/appoint-rep)
 
 Main entry points:
 1. [Get help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/) (landing page)
@@ -46,16 +46,20 @@ There is not currently an experience on VA.gov for Veterans to appoint a represe
 
 ## **Solution Approach**
 
-Our immediate goal for the Appoint a Representative MVP is to mirror the 21-22 / 21-22a digital form fill functionality on eBenefits, but with a more consistent and intuitive experience that lives directly on VA.gov.
+Our immediate goal for the Appoint a Representative 1.0 (MVP) is to mirror the 21-22 / 21-22a digital form fill functionality on eBenefits, but with a more consistent and intuitive experience that lives directly on VA.gov. This digital form-fill experience was released to 100% of users on January 23, 2025.
 
-As we work towards this MVP, we will also be preparing for a future goal of digital submission by migrating EVSS endpoints to Lighthouse's Benefits Claims API (specifically the POA services) and working with the Accredited Representative Facing team.
-
+We are currently preparing Appoint a Representative 2.0 which introduces digital submission of the 21-22 form, for users that:
+- are LOA3 authentiated
+- are a Veteran
+- have selected a representative that accepts digital submission
+- have chose "online" as the preferred submission method
+If all of these conditions are met, the end of the Appoint experience will result in a POA request being sent to the representative to accept/decline in the Accredited Representative Portal.
 
 ## **Measuring Success**
 
-Monthly performance metrics are currently documented in Sharepoint: the [Performance Metrics](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representation%20Management%2FPerformance%20Metrics\&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) folder includes raw data, which is summarized in the monthly [Sprint Report](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representation%20Management%2FVeteran%20Facing%20Sprint%20Reports%20and%20Demos\&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) decks.
-
-We are actively working with the Platform Analytics team to visualize our[ ARM OKRs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718224425278/b300ea8d63dcaaa0cdad0ebf6b4a65a20fcc9371?sender=ubac5f0487f25bc4431288699) in a Domo dashboard at a future time.
+1. [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/iiz-nnm-2em/arm-appoint-a-representative?fromUser=true&refresh_mode=monthly&from_ts=1735718400000&to_ts=1737609578840&live=true)
+2. [GA4 explore report](https://analytics.google.com/analytics/web/?pli=1#/analysis/p419143770/edit/s8Td-mYMQoKwisXggjlrqw)
+3. We are actively working with the Platform Analytics team to have our experience reported in the [VA.gov Forms KPIs Domo dashboard](https://va-gov.domo.com/page/447193050?userId=1801042161)
 
 
 ## **Supporting Documentation**
@@ -70,7 +74,7 @@ We are actively working with the Platform Analytics team to visualize our[ ARM O
 
 ### Version 1.0 (MVP)
 
-Appoint a Representative 1.0 (MVP) is targeted to release to 100% of users on January 13, 2024 ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/release-plan-appoint-a-representative-1.0.md)). The team will partner with CAIA to implement Bets Bets and entry points.
+Appoint a Representative 1.0 (MVP) released to 100% of users on January 23, 2025 ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/release-plan-appoint-a-representative-1.0.md)). 
 
 The base URL for this product is `/appoint-rep` and the form experience for this version includes:
 
@@ -104,12 +108,31 @@ The base URL for this product is `/appoint-rep` and the form experience for this
 9. Next Steps `/next-steps`
    1. An email notification is sent via VA Notify to reiterate next steps
 
+## **Form Versioning Discrepancy**
+
+**Risk**: When Appoint a Reprsentative v2 (with digital submission) launches in Q1 2025, users will be able to download a copy of their completed 21-22 (the most up-to-date version), but Lighthouse will uploade an older version of the 21-22 (pre-Oct 2023) to the eFolder in VBMS. 
+
+On October 27,2023, a new version of VA Forms 21-22 and 21-22a were released.
+
+1. 21-22 form updates:
+   1. Field 11a "Claimant's Date of Birth" in Section II has been added
+2. 21-22a form updates:
+   1. Field 11 "Claimant's Date of Birth" in Section II has been added
+   2. Field 19 "Authorization for Disclosure to Affiliated Personnel" has been added to allow additional authorization for
+      1. All associate attorneys, claims agents and support staff affiliated with the representative
+      2. Individually named administrative employees of the representative
+
+         
+The Appoint a Representative experience generates PDFs of the most up-to-date version of VA Forms 21-22 and 21-22a PDFs. 
+
+The Lighthouse auto-establishment service will be generating an older version of the form and uploading it to the eFolder in VBMS. Lighthouse confirms that an older version of the PDF will not be an issue; confirmed by LH Benefits & Appeals APIs Crew Engineer Drew Fisher ([Slack message](https://dsva.slack.com/archives/C063D0M76HX/p1706308610572019?thread_ts=1706119737.834139&cid=C063D0M76HX)).
+
 
 ## **Future Plans and Ideas**
 
-When [Appoint a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) v2 (with digital submission) is released, we will work with stakeholders to redirect related pages within[ eBenefits](https://www.docstomarkdown.pro/convert-markdown-to-google-docs-online/%5Bhttps://www.ebenefits.va.gov/ebenefits/vso-search).
+When we are out of the digital submission pilot phase, we will work with stakeholders to redirect related pages within [eBenefits](https://www.docstomarkdown.pro/convert-markdown-to-google-docs-online/%5Bhttps://www.ebenefits.va.gov/ebenefits/vso-search) to point to [Appoint a Representative](https://www.va.gov/get-help-from-accredited-representative/appoint-rep/introduction) on VA.gov.
 
-Ideas for the next version are stored in our [Appoint a Representative v2](https://dsva.slack.com/docs/T03FECE8V/F07T60DAK7Z) Slack canvas, and we are targeting a pilot launch in March 2024.
+Ideas for the next versions are stored in our [Appoint a Representative v2](https://dsva.slack.com/docs/T03FECE8V/F07T60DAK7Z) Slack canvas, and we are targeting a pilot launch in March 2024.
 
 Longer term ideas for Appoint a Representative are stored in our[ ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
 

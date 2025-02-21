@@ -1,5 +1,11 @@
 # Identity Research
 
+## CY 2025
+
+| Date            | Subject                 | Description          | Findings     |
+| :-------------  | :-------------          | :-------------       | :----------- |
+| Jan | quantitative data review | regular check in of survey and help center data covering Oct/Nov 2024 |
+
 ## CY 2024
 
 | Date            | Subject                 | Description          | Findings     |
@@ -12,9 +18,7 @@
 | May 2024 | Identity support process | remote, moderated usability/UAT sessions of a new Slackbot to standardize our team's support request intake | [Demo slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-05%20Support%20Process%20Slackbot%20UAT/2024-05%20Slackbot%20UAT%20research%20readout%20slides.md) |
 | Aug 2024 | Analytics Review | secondary research to uncover findings and guide future research | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-08%20Analytics/2024-08%20Google%20Analytics%20identity%20related%20findings.md) |
 | Sept 2024 | Sign in page changes for CSP deprecation | 10 remote, moderated usability sessions | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-08%20Sign%20in%20transition/2024-08%20Research%20Findings.md) |
-| Nov 2024 | Guardian access| tbd | |
-| | | | |
-
+| Nov 2024 | Guardian access| this research was paused before starting recruitment due to a change in priorities, we do expect to pick this work back up | [research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-11%20Guardian%20access) |
 
 ## CY 2023
 

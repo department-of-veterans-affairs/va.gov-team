@@ -48,34 +48,31 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 
 **Federal employees** 
 - Portfolio: Lauren Alexanderson
-- Product - Cartography Team: Patrick Bateman
-- Product - Secure Messaging: Janie Tankard Carnock
+- Product - Cartography Team: Robyn Singleton
+- Product - Secure Messaging: Patrick Bateman
 - Product - Medical Records, Cerner Integration: Marci McGuire
+- Product - Medications: Kay Lawyer
 - Design: Kaitlin Fink
-- Design: Ryan Thurlwell
-- Design: Robyn Singleton
+- Design: Kristen McConnell
+- Research: Robyn Singleton
 - Design: Jenny Wang, Digital Corps Fellow
-- Product: Jasmine Yohannan, Digital Corps Fellow
+- Product: Jasmine Yohannan, Digital Corps Fellow 
 
 **Contractors (Agile Six)**
-- Delivery Manager: Lynne Johnson
+- Delivery Manager: Mark Carter
 - Product Manager: Wes Rowe
-- Technical Architect: Carlos Felix
-- Team Coach: Mike Collier
-- Delivery Coach: Stephen Smythe
-- Design Lead: Florence McCafferty
-- Researcher/Designer: Kat Brinkley
-- Full Stack Engineer: Richard Davis
+- Design: Florence McCafferty
+- Research: Athena Bozak
+- Engineer: Richard Davis
+- Engineer: Kevin Suarez
 
 **Contractors (Ad Hoc)** 
 - Design: Jonathan Nelson
 - Engineering: Daniel Cloud
-- Engineering: Jim Zaccardo
-- Accessibility: Vacant
-- Information Architect: Sara Sterkenberg
+- Engineering: Ni Chia
+- Accessibility: Riley Orr
+- Information Architect: Sara Sterkenburg
 - QA (shared with Health Enrollment): Allan To
-
-
 
 ## Business Partners
 

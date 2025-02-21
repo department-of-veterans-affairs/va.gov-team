@@ -76,11 +76,12 @@ vets-api is deployed using a similar URL as the website
 
 The Preview Instance does not support authentication by default. To successfully authenticate you need to take a couple of extra steps. 
 
+* Use a browser instance with CORS disabled
 * Append ‘?next=loginModal&oauth=false’ to your instance URL and load the page
 * Authenticate as normal using accounts from the Test User Dashboard [https://tud.vfs.va.gov/](https://tud.vfs.va.gov/)
 * You may get a security alert that requires you to bypass. On Chrome the alert occurs on the `http://<instance>-api.review.vetsgov-internal/v1/sessions/callback` URL, and provides you an option to ‘Send Anyway’
 * If it is the first time authenticating an account on your instance, you will need to accept the VA Terms of Use.
 * You can now use the instance as normal for your testing
 
-Note: The Review instance logs do appear in DataDog. You will need to leverage the terminal to ssh to your instance and review logs manually as required.
+Note: The Review instance logs do not appear in DataDog. You will need to leverage the terminal to ssh to your instance and review logs manually as required.
 

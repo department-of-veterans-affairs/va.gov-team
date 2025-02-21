@@ -15,7 +15,7 @@ The External Referral Appointment Scheduling System is designed to automate and 
 - Integration with VA Notify for sending referral notifications to veterans
 - Development of a frontend interface for veterans to view referrals and schedule appointments
 - Integration with the External Provider Services (EPS) system for appointment management
-- Implementation of a data retention policy for referral data
+- Integration with the CCRA (VA referrals and other info) via the MAP services as a pass through service
 - Ensuring compliance with VA accessibility standards
 
 ## Assumptions
@@ -23,8 +23,7 @@ The External Referral Appointment Scheduling System is designed to automate and 
 2. Veterans have access to either SMS or email for receiving notifications
 3. The EPS system is available and can be integrated for appointment scheduling
 4. Staff members will continue to manually synchronize appointment data between EPS and Vista systems
-5. The existing vets-api encryption library is suitable for securing referral data
-6. The system will operate within the VA's existing authentication framework
+5. The system will operate within the VA's existing authentication framework
 
 ## Design Decisions
 1. Utilization of Redux for state management in the frontend
@@ -38,35 +37,31 @@ The External Referral Appointment Scheduling System is designed to automate and 
 ```mermaid
 graph TB
     User((User))
+    
     subgraph "VA.gov"
         VW[Vets-Website<br>React App]
         subgraph "CC Experience"
             VA_API[Vets-API<br>Ruby on Rails]
             VA_NOTIFY[VA Notify]
-            POSTGRES[(Postgres DB)]
-            REDIS[(Redis Cache)]
-            SIDEKIQ[Sidekiq Job]
         end
     end
+    
     MAP[MAP System]
+    CCRA[CCRA System]
     EPS[EPS System]
-    TWILIO[Twilio]
 
     User -->|HTTPS| VW
     VW -->|HTTPS| VA_API
-    VA_API -->|Read/Write| POSTGRES
-    VA_API -->|Cache| REDIS
-    VA_API -->|Trigger| SIDEKIQ
-    SIDEKIQ -->|Fetch Data| MAP
-    VA_API -->|Schedule Appointments| EPS
-    VA_NOTIFY -->|Send Notifications| TWILIO
-    TWILIO -->|SMS/Email| User
     VA_API -->|Send Notifications| VA_NOTIFY
-    
+    VA_API -->|Access Referral Data| MAP
+    MAP -->|Retrieves Referral Data| CCRA
+    VA_API -->|Schedule Appointments| EPS
+    EPS -- "Manual Entry (Air Gap)" --> CCRA
+
     classDef vaSystem fill:#e6f3ff,stroke:#333,stroke-width:2px;
     classDef external fill:#f9f9f9,stroke:#333,stroke-width:2px;
-    class VW,VA_API,VA_NOTIFY,POSTGRES,REDIS,SIDEKIQ vaSystem;
-    class MAP,EPS,TWILIO external;
+    class VW,VA_API,VA_NOTIFY vaSystem;
+    class MAP,EPS,CCRA external;
 ```
 
 ## Referral Data Model
@@ -98,14 +93,42 @@ classDiagram
 ```
 ## Sequence Diagrams
 
+### Workflow starting with VeText
+
+```mermaid
+sequenceDiagram
+    participant Vetext
+    participant Veteran
+    participant vets-website
+    participant vets-api
+    participant CCRA
+    participant EPS
+
+    Vetext->>Veteran: Sends encoded UCID in short URL
+    Veteran->>vets-website: Clicks text message
+    vets-website->>vets-api: Calls /referral(s)/:id (encoded UCID)
+    vets-api->>vets-api: Decodes UCID
+    vets-api->>CCRA: Requests referral data
+    CCRA-->>vets-api: Returns referral data
+    vets-api->>EPS: Checks for existing appointments with referral number
+    vets-api->>CCRA: Checks for existing appointments with referral number
+    EPS-->>vets-api: Returns appointment status
+    CCRA-->>vets-api: Returns appointment status
+    alt Status is good (not 'booked')
+        vets-api->>vets-website: Returns serialized referral data with empty appointments array
+        vets-website->>Veteran: Display referral card
+    else Status is 'booked'
+        vets-api->>vets-website: Returns serialized referral data with populated appointments array
+        vets-website->>Veteran: Display already scheduled alert
+    end
+```
+
 ### Workflow once SMS/Email received
 ```mermaid
 sequenceDiagram
     participant User
     participant Frontend as Frontend (FE)
     participant VetsAPI as Vets API
-    participant Sidekiq as Sidekiq Job
-    participant Postgres as Postgres DB
     participant VistA as VistA
     participant EPS as EPS System
     participant VA as VA Notify
@@ -166,7 +189,12 @@ sequenceDiagram
 2. User is directed to login and authenticate.
 3. After authentication, user is redirected to the referral page.
 4. Frontend retrieves referral data from Vets API and stores it in Redux.
-5. Frontend checks for EPS appointments and combines them with existing appointments in Redux.
+5. If an appointment exists that matches a referral number of the referral coming in, reject the apppointment, as we are ONLY booking first referral appointments
+6. Frontend checks for EPS appointments and combines them with existing appointments in Redux for the list.
+7. Clicking into the scheduling process shows referral information
+8. After the user verifies this information, they may go to the slots of the provider available (slots are date/time unique points that a user can book an appointment in)
+9. After choosing a slot, the user sees a final verification page
+10. Clicking confirm, will book the appointment in CCRA, and send the user a notification (there are some async processes here in the EPS system and the airgap to the CCRA system)
 
 ## Resources
 
@@ -174,18 +202,149 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 
 'Referral' and 'Provider' are going to be a new resources. Endpoints are:
 
-* GET `/vaos/v2/referrals` (new)
-  
-  Sample Response
-  ```
-  TBD
-  ```
-* GET `/vaos/v2/appointments` (existing)
-* GET `/vaos/v2/appointments/{appointmentId}` (existing)
-* POST `/vaos/v2/appointments` (existing)
-* GET `/vaos/v2/providers` (new)
-* GET `/vaos/v2/providers/{providerId}/slots` (new)
-* GET `/vaos/v2/providers/{providerId}/drivetime` (new)
+### * GET `/vaos/v2/referrals` (new)
+```
+[
+  {
+    "uuid": "123_123456",
+    "categoryOfCare": "Physical Therapy",
+    "referralDate": "2025-06-02T10:30:00Z",
+    "expirationDate": "2025-06-02"
+  }
+]
+```
+### * GET `/vaos/v2/referrals/{referralNo}`
+Response when not booked ie: no appointments have been booked for this referral)
+```
+{
+  "uuid": "1234",
+  "expirationDate": "2024-12-12",
+  "referralNumber": "VA0000009880",
+  "referringFacility": "Batavia VA Medical Center w/ Dr. Moreen S. Rafa",
+  "status": "Approved",
+  "categoryOfCare": "Physical Therapy",
+  "stationID": "528A4",
+  "sta6": "534",
+  "referringFacilityInfo": {
+    "facilityName": "Batavia VA Medical Center",
+    "facilityCode": "528A4",
+    "description": "Batavia VA Medical Center",
+    "address": {
+      "address1": "222 Richmond Avenue",
+      "city": "BATAVIA",
+      "state": "NY",
+      "zipCode": "14020"
+    },
+    "phone": "(585) 297-1000"
+  },
+  "referralStatus": "open",
+  "provider": {
+    "id": 111,
+    "name": "Dr. Moreen S. Rafa",
+    "location": "FHA South Melbourne Medical Complex"
+  },
+  "appointments": []
+}
+
+```
+Response when an appointment is found
+```
+{
+  ...the referral response 
+  "appointments": [
+    {
+      "id": "1234",
+      "startDate": "2025-03-15 10:30 AM",
+      "location": {
+        "address": "123 Main St, Springfield, IL, 62704",
+        "room": "Suite 405"
+      },
+      "confirmationStatus": "confirmed"
+    }
+  ]
+}
+```
+### * POST `/vaos/v2/draft_appointment/` (new?)
+```
+{
+  "appointment": {
+    "id": "EEKoGzEf",
+    "state": "draft",
+    "patientId": "care-nav-patient-casey"
+  },
+  "provider": {
+    "id": "9mN718pH",
+    "name": "Dr. Bones @ FHA South Melbourne Medical Complex",
+    "isActive": true,
+    "individualProviders": [
+      {
+        "name": "Dr. Bones",
+        "npi": "91560381x"
+      }
+    ],
+    "providerOrganization": {
+      "name": "Meridian Health (Sandbox 5vuTac8v)"
+    },
+    "location": {
+      "name": "FHA South Melbourne Medical Complex",
+      "address": "1105 Palmetto Ave, Melbourne, FL, 32901, US",
+      "latitude": 28.08061,
+      "longitude": -80.60322,
+      "timezone": "America/New_York"
+    },
+    "networkIds": ["sandboxnetwork-5vuTac8v"],
+    "schedulingNotes": "New patients need to send their previous records to the office prior to their appt.",
+    "appointmentTypes": [
+      {
+        "id": "ov",
+        "name": "Office Visit",
+        "isSelfSchedulable": true
+      }
+    ],
+    "specialties": [
+      {
+        "id": "208800000X",
+        "name": "Urology"
+      }
+    ],
+    "visitMode": "phone",
+    "features": {
+      "isDigital": true,
+      "directBooking": {
+        "isEnabled": true,
+        "requiredFields": ["phone", "address", "name", "birthdate", "gender"]
+      }
+    }
+  },
+  "slots": {
+    "count": 2,
+    "slots": []
+  },
+  "drivetime": {
+    "origin": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    },
+    "destination": {
+      "distanceInMiles": 313,
+      "driveTimeInSecondsWithoutTraffic": 19096,
+      "driveTimeInSecondsWithTraffic": 19561,
+      "latitude": 44.475883,
+      "longitude": -73.212074
+    }
+  }
+}
+```
+### * GET `/vaos/v2/appointments` (existing)
+### * GET `/vaos/v2/appointments/{appointmentId}` (existing)
+### * GET `/vaos/v2/appointments/{appointmentId}` (new)
+```
+TBD
+```
+### * POST `/vaos/v2/appointments` (existing)
+### * GET `/vaos/v2/providers` (new)
+### * GET `/vaos/v2/providers/{providerId}/slots` (new)
+### * GET `/vaos/v2/providers/{providerId}/drivetime` (new)
 
 
 ## Removing duplicates and preventing duplicates of referrals
@@ -193,30 +352,10 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 - An existing appointment refers to an appointment that has been made with a referral ID, that referral ID matches to a "new" referral, which means it was already made. We can also possibly hold referrals in our DB and mark them as "completed" or "referral made" in the same manner, after the user has completed making an appointment with a referral
 - Expired referrals are referrals whose end date has expired, regardless of if an appointment exists or not
 
-## Data Retention Policy
-
-### Two-tier Approach
-
-#### First Pass (Initial Release)
-- Store referral data from MAP until the appointment exists in CCRA.
-- Daily checks for appointment existence in Vista.
-- Additional check when user views appointments.
-- Remove referral data once the appointment is verified in Vista.
-- Verification involves matching patientICN, provider, and other data between EPS and Vista.
-
-#### Second Tier (Future Implementation)
-- Utilize CCRA to provide referralID.
-- Remove need to store referral information after user makes an appointment.
-- Use CCRA (via vets-api) to pull referral data and associated appointments from EPS or other systems.
-
-#### Addendum
-- Delete referrals after the expiration date (ReferralToDate).
-- Perform deletion during the daily scan for new referrals.
-
-## Security Considerations
-- Referral data encrypted using the existing vets-api encryption library.
-- Referral link in notifications contains an encrypted referralID.
-- Full authentication required before accessing referral information.
+## Submit Asynchronous Process
+1. When confirming and submitting the final appointment, the async process will be dual
+2. The FE will submit the appointment and if successful poll the /appointments/{appointmentId} endpoint until a valid response or failure returns (up to 30 to 60 seconds)
+3. The BE will poll the same endpoint, but send a notification via VA Notify the user on success or failure
 
 ## Integration Points
 1. CCRA: Source of referral data
@@ -224,17 +363,13 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 3. EPS (External Provider Services): For appointment management
 
 ## Performance Considerations
-- The nightly job is not time-critical and can run for a couple of hours if needed.
-- Daily scans for appointment verification and referral expiration.
+- Drive time seems to take a long time to retrieve results
+- Async process in the confirmation
 
 ## Accessibility
 - The frontend interface will comply with existing VA accessibility standards.
 - No additional accessibility requirements specific to this project.
 
 ## Open Questions and Future Considerations
-1. What metrics should be tracked to measure the system's effectiveness and user satisfaction?
-2. Need to get what will be referred to as the providerID for the EPS system that matches to what's in the CCRA object. Refer to EPS document/yaml/json for the call `provider-services/{providerServiceId}`
-3. We need to add a shortURL for email/SMS (also need to expose CHIP / vets-api in order to do this)
-4. We MIGHT need to write something to parse data over FTP to get data from CCRA
-5. Text for initial scope (SMS)
-6. Get user data from full auth user object in vets-api to get address and phone and email
+1. Need to get what will be referred to as the providerID for the EPS system that matches to what's in the CCRA object. Refer to EPS document/yaml/json for the call `provider-services/{providerServiceId}`
+2. Get user data from full auth user object in vets-api to get address and phone and email

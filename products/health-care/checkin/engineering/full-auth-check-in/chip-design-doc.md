@@ -37,7 +37,7 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
 
 ### Check-In
 
-#### `POST /authenticated-check-in`
+#### `POST /authenticated-checkin`
 - Description: Check into an appointment and Set eCheckInStarted (happens in initiateCheckIn now), setCheckIn, and eCheckInComplete in vista.
 - Request Body:
   - `appointmentIEN` (string): The unique identifier of the appointment.
@@ -48,7 +48,7 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
   - Body (object): The Response Object which contains the following fields
     - `id` (string): appointmentIEN
     - `message` (string): Check-in success with appointmentIen: ${appointmentIen}, patientDfn: ${patientDfn}, stationNo: ${stationNo}
-    - `type` (string): AuthenticatedCheckinResponse
+    - `type` (string): 'authenticatedCheckinResponse'
   ---
   - Status Code: 400
   - Body: (object): Invalid Patient and/or Appointment data
@@ -57,7 +57,7 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
       - `status` (string) 400
       - `title` (string) `clinic-e-check-in-not-allowed`, `appointment-has-bad-status`, `appointment-check-in-too-early`, `appointment-check-in-too-late`, `patient-contact-info-needs-update`, `patient-emergency-contact-needs-update`, `patient-next-of-kin-needs-update`, `patient-insurance-needs-update`
     - `message` (string): Check-in unsuccessful with appointmentIen: ${appointmentIen}, patientDfn: ${patientDfn}, stationNo: ${stationNo}
-    - `type` (string): AuthenticatedCheckinResponse
+    - `type` (string): authenticatedCheckinResponse
    
       
 
@@ -76,7 +76,7 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
   - Status Code: 200 OK
   - Body (object): The demographics object
     - `id` (string): The patientDfn
-    - `type` (string): AuthenticatedGetDemographicsResponse
+    - `type` (string): 'authenticatedGetDemographicsResponse'
     - `data`(object)
 	    - `insuranceVerificationNeeded` (boolean)
 	    - `needsConfirmation` (boolean)

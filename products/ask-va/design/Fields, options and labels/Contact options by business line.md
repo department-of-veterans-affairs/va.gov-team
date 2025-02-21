@@ -1,6 +1,6 @@
 # Contact options by business line
 
-Last updated by @tygindraux: November 8, 2024
+Last updated by @tygindraux: February 13, 2025
 
 Jump to:
 - [How this pattern works](#how-this-patterns-works)
@@ -33,8 +33,8 @@ For a complete list, jump to [contact rules by topic](#contact-rules-by-topic).
 |`Education benefits and work study`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Guardianship, custodianship, or fiduciary issues`|Email, phone and US Mail are always `ENABLED`|
 |`Health care`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
-|`Housing assistance and home loans`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
-|`Life insurance`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
+|`Housing assistance and home loans`|Email and phone are always `ENABLED`, US Mail is always `DISABLED`|
+|`Life insurance`|Email and phone are always `ENABLED`, US Mail is always `DISABLED`|
 |`Pension`|Email, phone and US Mail are always `ENABLED`|
 |`Sign in and technical issues`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
 |`Survivor benefits`|Email, phone and US Mail are always `ENABLED`|
@@ -152,10 +152,10 @@ Subtopics are not listed here, because they follow the same contact rules as the
 |`Survivor benefits`|Payment issues|✅|✅|✅|
 |`Veteran ID Card (VIC)`|Veteran Health Identification Card (VHIC) for health appointments|✅|✖️|✖️|
 |`Veteran ID Card (VIC)`|Veteran ID Card (VIC) for discounts|✅|✖️|✖️|
-|`Veteran Readiness and Employment`|Financial issues|✅|✅|✅|
-|`Veteran Readiness and Employment`|Following up on application or contacting counselor|✅|✅|✅|
-|`Veteran Readiness and Employment`|How to apply|✅|✅|✅|
-|`Veteran Readiness and Employment`|Other|✅|✅|✅|
+|`Veteran Readiness and Employment`|Financial issues|✅|✅|✖️|
+|`Veteran Readiness and Employment`|Following up on application or contacting counselor|✅|✅|✖️|
+|`Veteran Readiness and Employment`|How to apply|✅|✅|✖️|
+|`Veteran Readiness and Employment`|Other|✅|✅|✖️|
 
 ### Why we sometimes offer U.S. mail as an option
 In March 2024, we documented some reasons why the following business lines wanted to keep the US mail option for their category and/or topic.

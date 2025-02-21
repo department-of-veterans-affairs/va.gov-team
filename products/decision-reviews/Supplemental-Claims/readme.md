@@ -2,7 +2,7 @@
 
 ### Team Communications
 
-- **Government lead**: Matthew Self
+- **Government lead**: Amy Lai
 - **Slack channel**: [#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
 - **Github labels**: benefits-team-1
 
@@ -12,14 +12,15 @@
 |----|----|-----|
 |Amy Lai|Product Owner, Gov't Lead| amy.lai2@va.gov |
 |Julie Strothman|Design Lead, VA| julie.strothman@va.gov|
-|Shaun Burdick |Engineering Lead and interim Product Manager| shaun.burdick@coforma.io|
+|Cory Sohrakoff|Enginnering Lead, VA| Cory.T.Sohrakoff@omb.eop.gov|
+|Maurice DeBeary|Product Manager| maurice.debeary@coforma.io|
+|Shaun Burdick |Engineering Lead| shaun.burdick@coforma.io|
 |Eileen Chi| Research & Design |eileen.chi@coforma.io |
 |David Kennedy| Accessibility Lead | david.kennedy@adhocteam.us |
 |Robin Garrison |FE Engineer| robin.garrison@adhocteam.us |
 |Derek Fong | BE Engineer | derek.fong@adhocteam.us |
-|Annie Tran|Engineer|annie.tran@coforma.io|
+|Molly Trombley-McCann | Engineer | molly.trombley-mccann@coforma.io |
 |Silke Dannemann|Delivery Manager|silke.dannemann@va.gov|
-
 |Michael Hobson | Product Manager, Lighthouse | michael.hobson@adhocteam.us |
 
 ### VBA Subject Matter Experts  

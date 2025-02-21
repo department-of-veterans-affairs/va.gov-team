@@ -30,7 +30,6 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 1. How do Veterans find out about filing a travel reimbursement claim by texting travel to 54804? 
 1. How easy or difficult is it for Veterans to initiate a claim?
 1. How easy or difficult is it to complete filing a claim?
-1. How easy or difficult is it to file more than 1 claim at multiple facilities? (If applicable.)
 1. Do Veterans understand what claim types they can file with this tool?
 1. Do Veterans understand when they can file claims with this tool?
 
@@ -66,8 +65,6 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
    - Veterans will find it extremely easy to initiate a claim, but some will have difficulties because of cellular reception. 
 1. How easy or difficult is it to complete filing a claim?
    - Veterans will find it extremely easy to file a claim from their smartphones. 
-1. How easy or difficult is it to file more than 1 claim at multiple facilities? (If applicable.)
-   - Veterans will find it extremely easy to file more than 1 claim in a single form (and extremely easy to understand that they're filing for multiple facilities). 
 1. Do Veterans understand what claim types they can file with this tool?
    - Veterans will be able to easily identify the two types of claims that they can file. 
 1. Do Veterans understand when they can file claims with this tool?
@@ -108,7 +105,7 @@ TBD
 
 ### Research Materials
 
-- [Conversation guide]
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2024-02%20In-Person%20Travel%20Reimbursement%20Research%20for%20Oracle%20Health%20Facilities/conversation-guide.md)
 - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md)
 - [Userflow](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=1265-1102&mode=design&t=wB0sPLNcuTzdlun8-4)
 - [Figma Designs](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=96-709&mode=design&t=Llh0Gzeyt9TY1W5W-0)
@@ -132,9 +129,9 @@ TBD
 Team Roles
 ----------
 
-**Moderator:** TBD<br>
+**Moderator:** Steven Straily [steven.straily@agile6.com](mailto:steven.straily@agile6.com) <br>
 **Research conversation guide writing and task development:** Christina Gednalske [(christina.gednalske@adhocteam.us)](mailto:christina.gednalske@adhocteam.us), Ben Brasso [(ben.brasso@agile6.com)](mailto:ben.brasso@agile6.com)<br>
-**Project point of contact:** Christina Gednalske [(christina.gednalske@adhocteam.us)](mailto:christina.gednalske@adhocteam.us), Ben Brasso [(ben.brasso@agile6.com)](mailto:ben.brasso@agile6.com)<br>
+**Project point of contact:** Steven Straily [steven.straily@agile6.com](mailto:steven.straily@agile6.com), Christina Gednalske [(christina.gednalske@adhocteam.us)](mailto:christina.gednalske@adhocteam.us), <br>
 **VA Product Owner:** Kay Lawyer [(katherine.lawyer@va.gov)](mailto:katherine.lawyer@va.gov), Kristen McConnell [(kristen.mcconnell@va.gov)](mailto:kristen.mcconnell@va.gov), Lori Pusey [(lori.pusey@agile6.com)](mailto:lori.pusey@agile6.com), Stephen Barrs [(stephen.barrs@va.gov)](mailto:stephen.barrs@va.gov)<br>
 **Participants for pilot test:** n/a <br>
 **Note-takers:** n/a<br>

@@ -184,15 +184,11 @@ The `codespaces-start.sh` script has been updated in `vets-website` to include a
 
 The following Codespaces user secrets have been introduced. These secrets are added in the same way as was previously outlined for adding `VETS_WEBSITE_BUILD_CONTENT`
 
-1. `MAKE_APP_PUBLIC`: Enables public port setup for the application.
-   - Value: Set to "YES" to enable public ports.
-   - Usage: Acts as an on/off switch for the public app bootstrapping process. If this is not set, or set to anything other than "YES" the startup script will not start the application for you.
-
-2. `MOCK_RESPONSES`: Specifies the path to mock server responses.
+1. `MOCK_RESPONSES`: Specifies the path to mock server responses.
    - Default: `src/platform/testing/local-dev-mock-api/common.js`
    - Usage: Set this to use custom mock responses. An engineer should be able to provide you with the path to your app's mock server entry file (if that has been set up). The default common responses are pretty barebones, so don't expect much to work if you use them, besides some feature toggles, user, and maintenance windows endpoints.
 
-3. `ENTRY_APPS`: Defines specific apps to be built in watch mode.
+2. `ENTRY_APPS`: Defines specific apps to be built in watch mode.
    - Format: Comma-separated list of app names that should be accessible (e.g., "static-pages,auth")
    - Usage: Optimizes build time by focusing on specific apps, if this is not set, then it will build all applications in the Codespace, and startup time will be extended.
 
@@ -209,11 +205,13 @@ Users can opt into running public prototypes through Codespaces by configuring t
 
 2. Create a new Codespace for the project
 
-3. The application will automatically start based on your configured secrets
+3. Immediately after a Codespace has been created refresh the page, and update the name of the Codespace so that it begins with 'va-public-'. For example, if the Codespace name was 'stunning space xylophone' then it should be renamed as 'va-public-stunning space xylophone'. This naming convention is used during the Codespace startup scripts to detect whether you want a Codespace to be public or not. By utilizing the name of the Codespace, we can have public and private Codespaces running as needed. 
 
-4. Access the public prototype using the provided Codespace URL You can view this public url in the 'ports' section of the Codespace VS Code instance that runs in your browser, as was outline in the section [Making the frontend public](#making-the-frontend-public)
+4. The application will automatically start based on your configured secrets
 
-5. Navigate to your application's url like `/profile`, `/my-va`, etc
+5. Access the public prototype using the provided Codespace URL You can view this public url in the 'ports' section of the Codespace VS Code instance that runs in your browser, as was outline in the section [Making the frontend public](#making-the-frontend-public)
+
+6. Navigate to your application's url like `/profile`, `/my-va`, etc
 
 ### Related Resources
 

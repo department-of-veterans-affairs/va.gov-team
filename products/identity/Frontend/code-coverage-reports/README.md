@@ -6,9 +6,8 @@
    > Note: Ensure you add the ```--coverage --coverage-html``` flag when running unit tests in the platform directory
 4. Wait for unit tests to finish and ensure all tests are passing for the given application/directory
 5. Open coverage ```index.html``` in browser to view report.
-   - Navigate to ```vets-website/coverage/index.html```
-   - Copy file path
-   - Paste file path to browser
+   - Use the ```cd coverage``` terminal command to navigate to ```vets-website/coverage``` directory
+   - Open file in browser using ```open index.html``` terminal command
 6. Take a screenshot of the code coverage report for each Identity-owned application and directory
    > Note: Do not screenshot this for the `platform/user/authentication/tests` as the displayed numbers are shared with CoP and incorrect
 7. Create a new monthly report file in the [code coverage reports](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Frontend/code-coverage-reports) directory using the following naming convention: `{year}-{month}.md` (see [December 2024 code coverage report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Frontend/code-coverage-reports/2024-12.md) as an example)
@@ -45,8 +44,8 @@
 | ```vets-website/src/platform/site-wide/user-nav/containers/AutoSSO``` | ```yarn test:unit src/platform/site-wide/user-nav/tests/containers/AutoSSO.unit.spec.jsx --coverage --coverage-html``` |
 | ```vets-website/src/platform/user/tests/authentication/``` | ```yarn test:unit src/platform/user/tests/authentication/**/*.unit.spec.js --coverage --coverage-html```|
 | ```vets-website/src/platform/user/tests/authorization/components/IdentityNotVerified``` | ```yarn test:unit src/platform/user/tests/authorization/components/IdentityNotVerified.unit.spec.jsx --coverage --coverage-html``` |
-| ```vets-website/src/platform/utilities/tests/oauth``` | ```yarn test:unit src/platform/utilities/oauth --coverage --coverage-html``` |
-| ```vets-website/src/platform/utilities/tests/sso``` | ```yarn test:unit src/platform/utilities/sso --coverage --coverage-html``` |
+| ```vets-website/src/platform/utilities/tests/oauth``` | ```yarn test:unit src/platform/utilities/tests/oauth --coverage --coverage-html``` |
+| ```vets-website/src/platform/utilities/tests/sso``` | ```yarn test:unit src/platform/utilities/tests/sso --coverage --coverage-html``` |
 
 ## Reference 
 `.github/CODEOWNERS` file in `vets-website`
@@ -73,3 +72,4 @@
 | Version number | Author | Revision date | Description |
 | --- | --- | --- | --- |
 | 0.1 | Caitlin Neathawk | 12/3/2024 | Initial creation |
+| 0.2 | Caitlin Neathawk | 1/8/2025 | <ul><li>Test command typo fix</li><li>Instructions update</li></ul> |

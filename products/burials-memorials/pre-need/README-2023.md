@@ -70,18 +70,20 @@ Veterans (and their loved ones) want to choose which VA cemetary they'd like to 
 
 - **VA Executive Sponsor** `*`: Ouslander, Michael S. Michael.Ouslander@va.gov 
 - **VA Policy Expert(s)**: 
-- **VA Digital Strategist(s)** `*`: Matt Self 
+- **VA Digital Strategist(s)** `*`: Matt Dingee 
 - **Product Manager** `*`: Hughes, Catherine (Cat) M. (BAH) Catherine.Hughes2@va.gov
-- **Design Lead**: Cruz Granados, Cindy A. (Booz Allen Hamilton) Cindy.CruzGranados@va.gov
+- **Design Lead**: Yamrus, Carly (BAH) <Carly.Yamrus@va.gov>
 - **Eng Lead**: Santiago, Kenneth (Booz Allen Hamilton) Kenneth.Santiago@va.gov
 - **VA Web Comms Partner**: 
 - **VA Contact Center Liason**:
-- **Production Testing Partner(s)**: EOAS - Cuong Tang 
-- **Content Writer(s)**: 
+- **Production Testing Partner(s)**: BTRS - Rhonda Jones 
+- **Content Writer(s)**:
+    - Stewart, Kelby R. (BAH) <Kelby.Stewart@va.gov>
+    - Downs-bowen, Jessica A. (booz Allen Hamilton Inc) <Jessica.Downs-Bowen@va.gov>
 - **Front and Back-end Engineer(s)**: 
     - Santiago, Kenneth (Booz Allen Hamilton) Kenneth.Santiago@va.gov
-    - Gilbert, Douglas C. (Booz Allen Hamilton) Douglas.Gilbert@va.gov
-    - Sherrow, Alexander J. (BAH) Alexander.Sherrow@va.gov
+    - Antonioli, Adam M. (BAH) <Adam.Antonioli@va.gov>
+    - Boardman, Jordan [USA] <Boardman_Thomas@bah.com>
     - Fewin, Connor J. (BAH) Connor.Fewin@va.gov
   - **Stakeholders**:
     - Office/Department:

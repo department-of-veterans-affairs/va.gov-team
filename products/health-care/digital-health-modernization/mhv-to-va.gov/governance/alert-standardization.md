@@ -1,23 +1,26 @@
-# My HealtheVet on VA.gov | Alert Standardization
+# My HealtheVet on VA.gov: Standards for account security, access, and error states
 To ensure a consistent Veteran experience and reduce cognitive load within the My HealtheVet-on-VA.gov portal, it is necessary to **standardize application behavior under access-limiting conditions**. This document seeks to explain the logic and standardized alert designs for each of these scenarios, so that all teams are aligned and deliver end-users a consistent user experience. 
 
 ## On this page: 
 * [High-level API access logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#high-level-api-access-logic)
 * [User routing under access-limiting conditions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#user-routing-under-access-limiting-conditions)
-* [Account Creation API error alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#account-creation-api-error-alerts-ie-missing-mhv-uuid)
+* [Missing MHV Identifier (Account Creation API)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#account-creation-api-error-alerts-ie-missing-mhv-uuid)
 * [Oracle-Health Routing alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#oracle-health--cerner-routing-alerts)
-* 404 page not found alerts (guidance coming soon)
+* [Unauthenticated users](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#unauthenticated-users)
+* [403 access denied component](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#403-access-denied-error-component)
+* [404 page not found component](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#404-page-not-found-component)
+* [500 internal service error alert](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#500-internal-service-error-component)
 
 ## High-level API access logic
-Some applications may choose to alert users in-place rather than redirecting (route-guarding) them to the MHV landing page. Route-guarding is the preferred approach for the sake of maintaining a consistent experience across tools in the portal.
+Applications should route-guard any users who do not meet two high-level gating requirements to the `/my-health` landing page to see the relevant alert in place there. The goal of this requirement is to have a single place to maintain and update alerts, and to prevent users without access to My HealtheVet from getting to deeper child pages within the experience. Instead, they will see certain alerts in place at the top of the portal, where we believe it is the best place to explain and contextualize why they do not have access, and steps they need to take in order to answer questions they may have about managing their healthcare on VA.gov. 
 
 ```mermaid
 flowchart TD
     A[sign-in] --> B(Is the user ID-verified?)
     B --> |Yes| C(Is there a facility in the profile?)
-    B --> |No| E{fa:fa-circle-exclamation route-guard user to /my-health OR render ID verification alert in-place}
+    B --> |No| E{fa:fa-circle-exclamation route-guard user to /my-health}
     C -->|Yes| D(Does the user have an MHV-Identifier?)
-    C -->|No| F{fa:fa-circle-exclamation route-guard user to /my-health OR render 'No access' alert in-place}
+    C -->|No| F{fa:fa-circle-exclamation route-guard user to /my-health}
     D --> |Yes| G(Render application)
     D --> |No| H(What tools are they trying to access?)
     H --> |Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health + render Acct Creation API error alert}
@@ -58,7 +61,7 @@ NOTE: Screenshots below are taken from this [Figma file](https://www.figma.com/d
 
 <details><summary>MHV landing page: MHV Basic account user</summary>
 
-<img width="800" alt="MHV Basic access alert" src="https://github.com/user-attachments/assets/33f4e433-3b1d-46db-b898-73b144705f75" />
+<img width="982" alt="Screenshot 2025-01-21 at 8 50 03 AM" src="https://github.com/user-attachments/assets/b2ff5e80-005f-436c-a3b5-01d568ac4118" />
 
 </details>
 
@@ -100,5 +103,14 @@ The alerts should display beneath the page H1 and lede text (if applicable), and
 ### Benefit hub pages: 
 Benefit hub pages corresponding with these tools currently have more complex versions of these alerts in place. We do not plan to update those alerts, and instead will remove them from benefit hub pages when the unauth page URLs for each tool are updated to point to the new version of the tool on VA.gov, by Milestone 1 deadline at the latest (ETA March 2025). More information about this [transition plan is available here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/transition/benefit-hub-page-updates.md).
 
-## 404 Page not found alerts 
+## Unauthenticated users
+The entire `/my-health` portal sits behind authentication and every application under this namespace must require authentication. Thus, any unauthenticated user who attempts to access a URL within any application in this space should trigger the sign-in modal. Until a user signs in, we cannot determine whether a user has authorization to access the page they are attempting to reach. 
+
+## 403 Access denied error component
+Guidance coming soon. 
+
+## 404 Page not found component
+Guidance coming soon.
+
+## 500 Internal service error component
 Guidance coming soon.

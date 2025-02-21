@@ -4,7 +4,7 @@
 
 ## Overview
 
-VA aims to improve the tooling and accessibility of the beneficiary travel system and experience. As part of our mission to improve Veteran access to care, the existing claim submission systems needs to be integrated more intentionally with VA.gov in order to make it easier for Veterans to find and use this benefit.
+VA aims to improve the tooling and accessibility of the beneficiary travel system and experience. As part of our mission to improve Veteran access to care, the existing claim submission systems needs to be integrated more intentionally with VA.gov and VA Health and Benefits mobile application in order to make it easier for Veterans to find and use this benefit.
 
 ## Problem Statement
 
@@ -17,10 +17,12 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 - Able to interact with travel reimbursement functionality directly on VA.gov and VA Flagship mobile app
 - Able to interact travel reimbursement functionality where it is needed by leveraging an API-first approach
 - Enjoy a simple, intuitive experience that meets all VA.gov accessibility, design standards, and performance standards
-
+- Positive feedback through Medallia
+ 
 ## Undesired User Outcomes
 
 - Increased usage of the existing Veteran-facing BTSSS portal
+- Frustration preventing submission of claims
 
 ## Desired Business Outcomes
 
@@ -83,30 +85,24 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 
 ### Initiatives
 
-- MVP - Status of a Claim | [Link to Initiative Brief](./feature-reference/mvp-implementation/)
+- MVP - Status of a Claim: The Travel Pay Status Page, [now viewable](https://staging.va.gov/my-health/travel-pay/claims) to 100% of Veterans
+- Travel Pay Status Page: Simple, Mileage-Only Claims (SMOC)
 
 --- 
 
 ## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+-[Travel Pay Status Page Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+-[SMOC Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/SMOC%20Rollout%20Plan.md)
 
 ## Rollout Dates
 - *Target Launch Date - Travel Pay Status Page*
   - May 2024
 - *Actual Launch Date* 
-  - TBD
+  - January 2025
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - Two months after actual launch
+  - Impact review after actual launch
 
 ---
-
-## Solution Narrative
-
-### Current Status
-
-### Key Decisions
 
 See [Decision Log](./decision-log.md)
 

@@ -47,8 +47,6 @@ An issue was found in the benefits-disability-notifications alerts that the team
 
 [Roadmap for Disability Benefits (DBEX) Team 2 (Carbs)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?wid=0-1728398176278)
 
-With the leaving of one of the engineers, the team will be taking time for doing a handoff between team members. :( 
-
 ## Notes
 - No need to prioritize any remediation work for the 0781 overflow issue for the upcoming sprint. Still considering tradeoffs + discussing with relevant parties in VBA
 - Disability apps compliant with the Front-end deployment pipeline changes for vets-website (due Feb 3, 2025) needs more discussion with Team TREX to plan this work together.

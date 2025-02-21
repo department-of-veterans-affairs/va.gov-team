@@ -58,5 +58,17 @@ _Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https:
   _Direction from Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1733853832182779?thread_ts=1733852923.213349&cid=C05L6HSJLHM))._
 - **12/18/2024**: Decided to remove the "Next Steps" cover page from the generated PDF, as it was causing accessibility issues with the pre-filled form.\
   _Confirmed by Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1734550746763029?thread_ts=1734541936.131369&cid=C05L6HSJLHM))._
+- **1/14/2025**: Decided to allow digital submission users to download a copy of a completed 21-22, even if it'll be a different version than what Lighthouse will upload to VBMS as part of auto-establishment. As long as the form we're providing is the latest form, that should be acceptable. \
+  _Decided in the ARM Leadership Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD6922a943f21249f2ada4477a9))._
+- **1/14/2025**: Decided not to mask the prefilled SSN, so users can see/verify the number without having to interact with the text input field. \
+  _Decided in the ARM Leadership Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBDfd42152122cd4a1793d8a5e57))._
+- **1/15/2025**: Decided not to include a confirmation number on the Confirmation page, for digital submission users, because it will not provide any real use to Veterans (our use case is different than other forms, in that "submitting" send the request to the representative, not VA for processing).\
+  _Decided in the Accredited Reps Crew Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F06H1TS0GBZ?focus_section_id=temp:C:IdV200e5a0b60b74fb5bc5018e80))._
+- **1/16/2025**: Confirmed the representative phone number is not required for processing a 21-22a.\
+  _Confirmed by stakeholder Jenny Rosenau (Compensation Services) in email "21-22/21-22a Required Fields?"._
+- **1/29/2025**: Decided to require the Veteran phone number for users on the digital submission pathway, to ensure they receive post-submission email notifications.\
+  _Decided in the Accredited Reps Crew Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F06H1TS0GBZ?focus_section_id=temp:C:IdV9887da248f544e67a28e669f3))._
+
+
 
   

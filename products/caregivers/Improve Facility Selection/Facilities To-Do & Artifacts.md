@@ -48,7 +48,7 @@
 <Details>
 
 - [x] Create Initiative Brief with the Problem Statement and as many details known
-     - [ ] Update the Initiative Brief after each step with links to the artifacts and more details known
+     - [x] Update the Initiative Brief after each step with links to the artifacts and more details known
 - [x] Discovery
      - [x] What is the problem to be solved
      - [x] What solutions have been made (internal or external) to resolve this problem
@@ -83,15 +83,15 @@
 - [x] Complete development
      - [x] Engineers work with Designers on any questions/clarifications
      - [x] Present to team for validation
-     - [ ] Present to Stakeholders for validation
+     - [x] Present to Stakeholders for validation
 - [x] Complete QA and Accessibility QA
 - [x] Engage downstream system team for End-to-End QA coordination
      - [x] Create E2E use cases and document results
-     - [ ] Obtain signoff from downstream system team
-- [ ] Request Analytics review - Refer back to the initial Collaboration Cycle Request ticket
-- [ ] Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket
-     - [ ] Review findings with the team
-     - [ ] Create tickets for work to be completed before launch
+     - [x] Obtain signoff from downstream system team
+- [x] Request Analytics review - Refer back to the initial Collaboration Cycle Request ticket
+- [x] Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket
+     - [x] Review findings with the team
+     - [x] Create tickets for work to be completed before launch
 - [x] Create Usability and/or UAT research plan and conversation guide
 - [x] Request Research Plan review
 - [x] Schedule Usability/UAT sessions with Perigean
@@ -99,23 +99,18 @@
      - [x] Synthesize research findings, if needed (not usually needed for UAT)
      - [x] Review findings with the team
      - [x] Make any necessary tickets/changes for design and/or development
-- [ ] Complete any Design and/or Development work from Usability/UAT sessions
-- [ ] Update Error matrix documentation with any new error states
+- [x] Complete any Design and/or Development work from Usability/UAT sessions
+- [x] Update Error matrix documentation with any new error states
 - [x] Update any FE and/or BE Engineering documentation
-- [ ] Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
-- [ ] Update Contact Center guide
-- [ ] Submit Contact Center guide review ticket
-- [ ] Create Release Plan
-     - [ ] Include E2E test results & signoff
-- [ ] Conduct Launch Go/No Go with the team
-     - [ ] Review this checklist
-     - [ ] Review Release Plan
+- [x] Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
+- [x] Update Contact Center guide
+- [x] Submit Contact Center guide review ticket
+- [x] Create Release Plan
+     - [x] Include E2E test results & signoff
+- [x] Conduct Launch Go/No Go with the team
+     - [x] Review Release Plan
 - [ ] Launch in a phased manner, according to Release Plan
 - [ ] Continuous check-ins with downstream system
-- [ ] Conduct Usability/UAT sessions
-     - [ ] Synthesize research findings, if needed (not usually needed for UAT)
-     - [ ] Review findings with the team
-     - [ ] Make any necessary tickets for design and/or development
 - [ ] Schedule or close all remaining tickets
      - Some tickets may be backlogged for future work, as they were not required to launch
 

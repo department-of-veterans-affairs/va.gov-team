@@ -8,6 +8,8 @@ assignees: ''
 ---
 
 ## Tasks
+- Request Medallia data
+- Get VSignals data from feed
 - Analyze the VSignals data for the half of the month in which this ticket resides
 - Analyze the Medallia data for the half of the month in which this ticket resides
 - Post report on GitHub & Slack

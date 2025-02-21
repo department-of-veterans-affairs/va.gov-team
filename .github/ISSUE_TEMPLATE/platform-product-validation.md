@@ -1,8 +1,8 @@
 ---
-name: Platform Product issue template
+name: Platform Stability, Reliability, and Engineering (SRE) team issue template
 about: For filing standard issues. Includes validation section.
 title: ''
-labels: 'platform-product-team'
+labels: ['platform-sre-team', 'needs-refinement']
 assignees: ''
 
 ---
@@ -21,4 +21,4 @@ _What details are necessary for understanding the specific work or request track
 ---
 
 ## Validation
-_Assignee to add steps to this section. List the actions that need to be taken to confirm this issue is complete. Include any necessary links or context. State the expected outcome._
+_Assignee to add steps to this section. List the actions that need to be taken to confirm this issue is complete. Include any necessary links or context. State the expected outcome(s)._

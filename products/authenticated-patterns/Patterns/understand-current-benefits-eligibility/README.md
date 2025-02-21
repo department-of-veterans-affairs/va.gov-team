@@ -1,3 +1,5 @@
+# Product outline
+
 ## Outcome Summary
 The "Enrollment Card" pattern will enable authenticated users to quickly understand their current benefits and discover additional benefits they may qualify for. By presenting this information in a concise, visually intuitive card format, the pattern will reduce time and effort for Veterans navigating benefits-related tasks, foster greater engagement with VA services, and improve trust through clear and actionable data presentation.
 
@@ -5,14 +7,13 @@ The "Enrollment Card" pattern will enable authenticated users to quickly underst
 Veterans often struggle to find, understand, and act on their benefits information due to:
 - Difficulty in finding benefits information in one place.
 - Inconsistent presentation of benefits data across VA systems.
-- A lack of personalized recommendations for additional benefits eligibility.
-- Overwhelming or redundant information that increases cognitive load and discourages engagement.
+- A lack of personalized recommendations for additional benefits eligibility. (probably not in scope currently)
+- Unclear, erroneous or redundant information that increases cognitive load and discourages engagement.
 
 This fragmented experience creates inefficiencies and missed opportunities for Veterans to fully utilize their VA benefits.
 
 ### Desired User Outcomes
 - Clear Information: Veterans can easily see and understand their current benefits at a glance.
-- Personalized Recommendations: Users are informed of additional benefits they may qualify for, with clear next steps.
 - Reduced Effort: Veterans spend less time searching for or deciphering benefits-related information, completing tasks more efficiently.
 - Enhanced Trust: Transparent presentation of data builds confidence in the accuracy and reliability of VA’s digital tools.
 
@@ -26,7 +27,7 @@ This fragmented experience creates inefficiencies and missed opportunities for V
 We will validate assumptions and identify opportunities through:
 - Existing Research: Leverage past two years of analytics, user interviews, and comparative studies to inform design decisions.
 - Research: Expand on findings from the previous studies that explore personalization and navigation needs.
-- Testing and Feedback: Conduct usability testing with diverse Veteran personas, including those using assistive technologies, to ensure inclusivity and accessibility.
+- Testing and Feedback: Conduct usability testing with diverse Veteran personas, including those using assistive technologies, to ensure inclusivity and accessibility. (product teams will condusct user testing when implementing this pattern)
 
 ### Assumptions/Risks
 - Value Risks: Veterans may not understand or trust personalized benefit recommendations.
@@ -54,33 +55,32 @@ This pattern supports OCTO’s 2025 OKRs and targets as follows:
 ## What're you building
 ### In-Scope
 **Enrollment Card Pattern:**
-- Displays currently active benefits and any paused benefits for users who have returned to active duty.
-- Displays eligibility for additional benefits and clear next steps for activation.
-- Includes links to detailed benefits pages for more information and/or actionable recommendations.
-- Decide how to access this benefits enrollment information on VA.gov
+- Develop an "Enrollment Card" pattern that includes guidance on how to:
+    - Display current VA benefits a Veteran receives 
+    - Display VA benefits a Veteran does not receive
+    - Display status of benefits for Veterans who return to active duty (and a way to pause/unpause them)
+    - Display links to detailed benefits pages for more information and/or actionable recommendations.
+    - Determine how a group of cards my be displayed and ordered
 
 **Governance and Documentation:**
 - Example code and usage guidelines to ensure adoption and scalability.
-- Content recommendations and accessibility compliance guidelines.
+- Content recommendations and accessibility compliance guidelines..
 
 **Validation:**
-- User testing to refine design and confirm usability.
+- Provide accessibility compliance adhering to Section 508 and WCAG guidelines.
 
 ### Out-of-Scope
-- Comprehensive redesigns of benefits pages or workflows beyond the scope of this pattern.
-- Significant new back-end systems integration for eligibility calculations.
+- Full redesigns of existing benefits pages or workflows outside the "Baseball Card" implementation.
+- Complex eligibility determinations requiring significant back-end system integration beyond currently available data.
+- Validate the pattern through usability testing with diverse Veteran personas (product teams will do this validation when they adopt our pattern).
+- Decide how to access this benefits enrollment information on VA.gov (auth exp team will decide this)
 
 
 ## Measuring Success
 We will track and measure the success of the "Enrollment Card" pattern using the following metrics:
 
-**User Metrics:**
-- Task completion rates and time-to-task completion.
-- Increase in user engagement with recommended benefits.
-- Improvements in user satisfaction (CSAT) scores.
-
 **Business Metrics:**
-- Reduction in support requests related to benefits inquiries.
+- As few staging review bugs as possible.
 - Increased adoption of the pattern by other VA teams.
 - Alignment with OCTO’s 2025 OKRs, including improved satisfaction (O1.1), reduced latency (O1.2), increasing non-OCTO-built capabilities (O2.4) and empowering teammates to make sustained impacts (O3.3).
 

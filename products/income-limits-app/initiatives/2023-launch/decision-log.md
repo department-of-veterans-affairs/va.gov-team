@@ -71,7 +71,7 @@ Other learnings:
 - US code 32 says EED can’t look at income until PG5
 - Coapys are determined on a case-by-case basis by the medical director of the VAMC providing services. There is no set national test that determines copay.
 
-## 2/9 meeting with Danielle Thierry (Content) and Dave Conlon
+## 2/9/23 meeting with Danielle Thierry (Content) and Dave Conlon
 
 **Key decision:** Pause user research until we can get certainty on what thresholds need to be presented to Veterans.
 
@@ -101,6 +101,13 @@ UX considerations for prototype:
 
 Documents created for navigating clarifications:
 - [Key questions and clarifications log](https://dvagov-my.sharepoint.com/:w:/r/personal/wesley_rowe_va_gov/_layouts/15/doc2.aspx?sourcedoc=%7Baa8ec9aa-008d-4968-9cf9-2e22652b0829%7D&action=edit&cid=d63f995f-dd65-41c3-bede-bf1db7e16c17) – a MS Word doc stored on Sharepoint (Wes's account). Discussions were had in comments; Lindsey P participated.
+
+## 11/3/22
+https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11372#issuecomment-1302905173
+Dave Conlon approved of moving straight to UX design.
+
+## 10/28/22 
+After conducting the first few Income Limits research sessions, Cindy Merrill flagged that we weren't really getting much information about eligibility or income limits specifically. Wes Rowe, Michelle Middaugh, Dave Pickett and Cindy discussed possible pivots on 10/20 and asked to Dave Conlon for clarification on the research strategy. Wes reported back with clear answers on 10/25. The research & pm team met again on 10/27 to plan next steps. [#11372](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11372) outlines those proposed next steps so we can take the plan back to Dave C for sign off before moving ahead.
 
 
 

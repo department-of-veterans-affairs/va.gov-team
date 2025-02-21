@@ -1,16 +1,24 @@
 ## Home Screen CSAT Scores 
 
-| Month/Quarter | CSAT Score % 
-| --- |:---:|
-| Aug 2024 | # |
-| Jul 2024 | # |
-| Jun 2024 | # |
-| May 2024 | # |
-| Apr 2024 | 61.61% |
-| Q1 Rollup 2024 | 61.23% |
-| Mar 2024 | 60.52% |
-| Feb 2024 | 63.73% |
-| Jan 2024 | 59.95% |
+### 2024 Average user combined experience
+[CSAT dashboard in DOMO](https://va-gov.domo.com/page/1545882322), CSAT captured by filtering this dashboard by month and facility locator url. 
+
+Legend 
+- Experience scores are based on A11 survey. Where users choose a rating from 1 to 5, 4 and 5 are counted as 100%, others as 0%. 
+
+<details>
+	<summary> Scores expressed on the homepage URL </summary>
+
+
+![image](https://github.com/user-attachments/assets/85c05815-8fa3-47ce-8f63-62bf84663f53)
+
+
+
+</details>
+
+### 2023
+| Date | Score |
+| --- | --- |
 |Q4 2023 Rollup | 57.44% |
 | Dec 2023 | 60.05% |
 | Nov 2023 | 56.71% |

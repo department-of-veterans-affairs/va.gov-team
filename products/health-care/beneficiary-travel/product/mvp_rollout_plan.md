@@ -91,11 +91,9 @@ team was able to resolve this as well.
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
-**Note: This rollout is on hold pending an update from the Change Management Team on the appropriate timeline.**
-
 #### Rollout Planning
 
-- Desired date range: Pending, December 2024
+- Desired date range: January 13-24, 2025
 - How will you make the product available in production while limiting the number of users who can find/access it: By using a feature flag.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Because this entire page is an MVP without a specific entry point just yet, we will be broadly monitoring health and engineering metrics as the key indicator of whether or not we can advance.
 - Links to the dashboard showing "success criteria" metrics: [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)
@@ -111,7 +109,7 @@ team was able to resolve this as well.
 | VA.gov - Sustained high latency | p90 latency measures above x for time |
 
 **User-Facing Metrics (Google Analytics and Call Center)**
-***[Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/p419143770/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3D%252Fmy-health%252Ftravel-claim-status%26_r.explorerCard..startRow%3D0&ruid=D4F7103F-DEA1-4A09-B066-EE554BF6F5F0&collectionId=8429185582&r=all-pages-and-screens)
+***[Google Analytics Dashboard]([https://analytics.google.com/analytics/web/#/p419143770/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3D%252Fmy-health%252Ftravel-claim-status%26_r.explorerCard..startRow%3D0&ruid=D4F7103F-DEA1-4A09-B066-EE554BF6F5F0&collectionId=8429185582&r=all-pages-and-screens](https://analytics.google.com/analytics/web/#/p419143770/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3D%252Fmy-health%252Ftravel-pay%252Fclaims%26_r.explorerCard..startRow%3D0%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20250112%26_u.date01%3D20250113&r=all-pages-and-screens&ruid=D4F7103F-DEA1-4A09-B066-EE554BF6F5F0&collectionId=8429185582))
 
 | Metric Name | Description |
 | ----------- | ----------- |
@@ -133,16 +131,16 @@ team was able to resolve this as well.
 
 #### Planning
 
-- Length of time: 2 days, beginning when greenlit by the change management team
-- Percentage of Users (and roughly how many users do you expect this to be): 5% , on top of which we will include Ad Hoc, BAH, and VA veterans who have agreed to test the status page.
+- Length of time: 2 days, January 13 and January 14 
+- Percentage of Users (and roughly how many users do you expect this to be): 5%
 
 #### Results
 
-- Number of unique users: 
-- Metrics at this stage (per your "success criteria"): 
-- Was any downstream service affected by the change?: yes | no |  N/A
-- Types of errors logged:
-- What changes (if any) are necessary based on the logs, feedback on user challenges, or VA challenges? 
+- Number of unique users: 553
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: No
+- Types of errors logged: 403, 400
+- What changes (if any) are necessary based on the logs, feedback on user challenges, or VA challenges?: We decided we should implement clearer error messaging to explain when a user was getting an error related to access issues.
 
 ### Stage B: 25% of users
 
@@ -150,16 +148,16 @@ team was able to resolve this as well.
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 1 day, January 15
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
 
-- Number of unique users: 
-- Metrics at this stage (per your "success criteria"):
-- Was any downstream service affected by the change?: yes | no |  N/A
-- Types of errors logged:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: 529
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: No
+- Types of errors logged: 403, 400
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None, except for error messaging change
 
 ### Stage C: 50% of users
 
@@ -167,16 +165,16 @@ team was able to resolve this as well.
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 5 days, January 16 - 20
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
 
-- Number of unique users: 
-- Metrics at this stage (per your "success criteria"):
-- Was any downstream service affected by the change?: yes | no |  N/A
-- Types of errors logged:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
+- Number of unique users: 2,943
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: No
+- Types of errors logged: 403, 400
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?: None
 
 ### Stage D: 75% of users
 
@@ -184,31 +182,31 @@ team was able to resolve this as well.
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 2 days, January 21 - 22
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
 
-- Number of unique users: 
-- Metrics at this stage (per your "success criteria"):
-- Was any downstream service affected by the change?: yes | no |  N/A
-- Types of errors logged:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
+- Number of unique users: 2,933
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: No
+- Types of errors logged: 403, 400
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?: Error messaging for pages - work ongoing.
 
 ### Stage E: 100% of users
 
 #### Planning
 
-- Length of time: 1 day
+- Length of time: 1 day, January 23
 - Percentage of Users: 100%
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: 2,170
+- Metrics at this stage (per your "success criteria"): please see detailed [MVP monitoring doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/FeedbackSystems/RolloutMonitoring/MVPRolloutMonitoring0125.md)
+- Was any downstream service affected by the change?: [PICK_ONE]: no
+- Types of errors logged: 403, 400
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? Error messaging deploys on Monday
 
 ## Post Launch metrics
 

@@ -3,12 +3,21 @@
 Last Updated - 5/15/2024
 
 ## Where to find us
-- GitHub Label: disability-experience
+- GitHub Labels:
+  - disability-experience
+  - DBEX-Carbs
+  - DBEX-TREX 
 - Slack channel: #benefits-disability
 - Product repo: [va.gov-team/tree/master/products/disability/526ez ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
 - Teams repo: [va.gov-team/teams/vsa/teams/disability-experience/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
 - [ZenHub Workspace Team 1](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)
 - [ZenHub Workspace Team 2](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/board)
+- Project boards
+  - [Disability Benefits 526ez](https://github.com/orgs/department-of-veterans-affairs/projects/1473/views/1)
+  - [DBEX Carbs 2024 VA Disability 526](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/7)
+  - [Disability Benefits 526ez - T-REX](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/6)
+- [Figma VA.gov Platform](https://www.figma.com/files/team/1278375444205744118/recents-and-sharing?fuid=1127219626551318446)
+- [Mural Va.gov Benefits and Claims ](https://app.mural.co/t/departmentofveteransaffairs9999)
 
 ## General team overview
 
@@ -29,16 +38,16 @@ At the highest level, the core disability experience team is here to own, from t
 | Christine Cereca | Engineer | christine@cityfriends.tech | christinec-fftc | 1 |
 | Mark Chae | Engineer | markchae@navapbc.com | mchae-nava | 1 |
 | Evelyn Davis | UX Research | evelyn@cityfriends.tech | evelynhilbrichdavis | 1 |
-| Sarah Shields | Delivery Manager | sarah.shields@coforma.io | sortizsh | 2 |
+| Amy Plange | Delivery Manager | amy.plange@coforma.io | AmyPlange | 2 |
 | Scott Regenthal | Engineer | scott.regenthal@oddball.io | freeheeling | 2 |
-| Sam Stuckey | Engineer | sam.stuckey@oddball.io | SamStuckey | 2 |
+| JR Reed| Engineer |michael.reed16@va.gov| mreed101 | 2 |
 | Nathan Burgess  | Engineer | nathan.burgess@coforma.io | NB28VT | 2 |
-| Thomas Blackwell | Engineer | thomas.blackwell@coforma.io | tblackwe | 2 |
-| Julie Pedtke | Research and Design | julie.pedtke@coforma.io | juliepedtke | 2 |
-| Nichole Nicholas | Research and Design | nichole.nicholas@coforma.io | nnicholas7 | 2 |
+| Kyle Soskin | Engineer | kyle.soskin@coforma.io | kylesoskin | 2 |
+| Ruben Sun | Research and Design | ruben.sun@coforma.io | rubensun  | 2 |
+| Qian Chen | Research and Design | qian.chen@coforma.io |  | 2 |
 | Lisa Capaccioli| Product Manager | lisa.capaccioli@coforma.io | lisacapaccioli | 2 |
-
 
 ## Product outline
 
 ## Roadmaps
+- [DBEX Roadmap 2024 roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123)

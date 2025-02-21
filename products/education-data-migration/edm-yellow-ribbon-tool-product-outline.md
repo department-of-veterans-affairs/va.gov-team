@@ -120,8 +120,8 @@ The riskiest assumption that YRT will interface correctly into CT.
   - June 2024 - Discovery
   - July 2024 / August 2024 – Design and Development
   - September 2024 – Iteration and Testing, Bug Fixes
-  - February 2025 – Deployment, estimated 
-  - April 2025 – Project End
+  - March 19. 2025 - Launch on Comparison Tool
+  - April 12, 2025 – Project End
 - *Actual Launch Date*
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -175,7 +175,7 @@ N/A
 
 <details>
 
-- DEPO Lead: Jason Wolf (Jason.Wolf1@VA.gov)
+- DEPO Lead: Theresa Simeone (Theresa.Seimone@VA.gov)
 - PM: Cassidy Beach (Cassidy.Beach@VA.gov)
 - Engineering: Vanson Samuel (Vanson.Samuel@VA.gov)
 - Research/Design: Sneha Kulkarni (Sneha.Kulkarni@VA.gov)

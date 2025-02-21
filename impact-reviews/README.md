@@ -16,10 +16,11 @@ Curious what an Impact Review is like but not ready to commit to presenting? Che
 ## Upcoming Presentations
 If you're interested in presenting reach out to Anastasia Jakabcin via DM in the DSVA workspace or in the #impact-review channel, and add your team's details to the table below. Generally we aim to have no more than _two_ initiatives presented each month to allow enough time for discussion.
 
-_Presentations occur at 1:00pm ET_
+_Presentations occur at 1:05pm ET_
 |    Team      | Presenter | Initiative | Launch Date | Impact Review Date|
 |----|----|----|----|----|
 |Appointments Team on VA.gov | Jeff Roof|Appointment Details Redesign| August 2024| December 5, 2024 |
 |1010 Team|Heather Justice| EZ - Registration Only Path MVP| October 2024| January 16, 2025 |
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | _Enter Impact Review date|
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | _Enter Impact Review date|
+| IVC Forms | Bo Altes| CHAMPVA Enrollment | December 2024 | February 6, 2025|
+| BTSSS |Ayush Chakravarty|MVP Travel Reimbursement Status page|January 2025|March 20, 2025|
+| IIR |Mike King|Welcome to my VA version 1|January 2025|April 10, 2025|

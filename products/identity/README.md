@@ -17,6 +17,7 @@ We help teams set up and monitor a secure signed in experience for VA.gov applic
 3. [Understanding verified identity](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#understanding-verified-identity)
 4. [Planning and testing identity](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#planning-and-testing-identity)
 5. [Requesting support from the Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#requesting-support-from-the-identity-team)
+6. [Identity Incident Response](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#identity-incident-response)
 
 ## **Signing in to VA.gov**
 
@@ -83,13 +84,17 @@ Any product involving identity should review the relevant [identity error handli
 
 ### Contact our team
 
-- Slack channel: [#vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN)
+- Slack channel: [#identity-support](https://dsva.slack.com/archives/CSFV4QTKN)
 - Product managers:
-    - Mike King ([Mike.King@oddball.io](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Mike.King@oddball.io))
-    - Jim Connelly ([jim.connelly@oddball.io](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/jim.connelly@oddball.io)).
+    - Joelle Wells
+    - Lainey Trahan
 - VA point of contact:
     - Tom Black ([thomas.black2@va.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/thomas.black2@va.gov))
     - Samara Strauss ([samara.strauss@va.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/samara.strauss@va.gov)).
+
+## Identity Incident Response
+
+- The Identity Incident Response procedure and supporting documents can be found within our [Incident Response Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Incident%20Response).
 
 ### Additional resources
 The Identity team will assist VA.gov application teams during the initial client application integration and provide support as detailed [in this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-resources-for-authentication-support.md).

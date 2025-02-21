@@ -76,9 +76,22 @@ With the looming sunsetting of MHV and DSLogon it is incumbent that we use the U
 * Call center calls (metric TBD)
 * VSignals (metric TBD)
 
+### How to get tracking data - Interstitials
+* How many users see the interstitial
+  * Success seeing it: @name:V0\:\:UsersController* @payload.action:credential_emails (@payload.status:200 OR @payload.status:296)
+  * Some kind of error with loading: @name:V0\:\:UsersController* @payload.action:credential_emails (@payload.status:500 OR @payload.status:401)
+* How many users click the “use my current account” button
+  * (verified) sso_new_key @message_content:SSO_NEW_KEY*operation\:interstitial_verify*
+* How many users click the “create a modern account” button
+  * (signup verified) sso_new_key @message_content:SSO_NEW_KEY*operation\:interstitial_signup*
+* How many users returned from creating a modern credential
+  * login_status_success @payload.operation:interstitial_signup env:eks-prod
+* How many users returned from logging into their modern credential when being informed they have one
+  * login_status_success @payload.operation:interstitial_verify env:eks-prod
 
 ## Solution approach
 * Progressively urgent communications to let Veterans know what is happening.
+  * Utlizing interstitials to notify MHV users of the upcoming deprecation.
 * UX changes to progressively de-emphasize the sunsetting credentials.
 * Timeline which accelerates nudging Veterans to move away from MHV and DSLogon as their sunset dates approach.
 

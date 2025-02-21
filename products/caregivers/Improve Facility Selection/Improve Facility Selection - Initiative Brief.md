@@ -2,6 +2,7 @@
 
 #### [Epic for 10-10CG Improve Facility Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
 #### [Transition document for Facility Selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Facility%20selection.md)
+#### [Endpoint Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Endpoint%20Monitoring%20%26%20Zero%20Silent%20Failures/10-10CG%20Monitor%20Playbook.md)
 
 ---
 
@@ -109,16 +110,16 @@
 |Applications | Monthly Average Baseline (Jan 2022-Jan 2023)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
 |Total Apps Rerouted | 423 | TBD | TBD |
-|Total Apps Submitted | 5,923 | TBD | TBD |
+|Total Apps Submitted | 5,923 | No Change | TBD |
 
 
 #### Key result: Maintain or reduce the amount of time a user selects a facility
 - Data Source: [Google Analytics - CG Facility page views & time](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8un9wi5nSN-WZ-KqWHHBPA)
 
-|Average time on page |Monthly Average Baseline (Jan-Dec 2023)| Target | 1 Month after launch|
+|Average time on page |Monthly Average Baseline (Jan-Dec 2024)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
-|Search page| 55 seconds |TBD|TBD|
-|Confirmation page |NEW|TBD|TBD|
+|Search page| 52 seconds |30 seconds|TBD|
+|Confirmation page |NEW|15 seconds|TBD|
 
 ---
 
@@ -141,6 +142,13 @@
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - VA stakeholder End-to-End testing
 
+---
+### Decisions Made
+- As a result of the Architecture Intent review meeting, we are advised to replace the GET function to POST to ensure URLs do not expose PII. Our current endpoint for retrieving the facilities list is a GET request where we pass the lat/long as query params in the URL. Because we log the urls, this is exposing what could be PII (the lat/long of a Veteran's address).
+
+- Simply changing GET to POST could be considered an anti-pattern. There were several ideas discussed in the team's meeting Slack thread, captured in the meeting notes. We have explored these and other options that may be the best solution here. Since other options required a more sitewide approach and is in the purview of the Platform Architecture team, the decision was made to follow their initial suggestion of changing from GET to POST which is also the same as the Facility Locator.
+
+---
 ### What're you building
 - Provide an updated facility selection page that is easy to use and understand.
   - Connect with active Facilities API in place of the current static JSON file
@@ -168,16 +176,32 @@
   - [x] Design Intent 3/20/2023
   - [x] [Research Review](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/674) 9/10/2024
   - [x] Architecture Intent review (NEW step - added in October 2024) 11/26/2024
-  - [ ] IA Review
+  - [x] IA Review
   - [ ] Midpoint Review
-  - [ ] Staging Review
-  - [ ] Privacy & Security
-  - [ ] Contact Center guide review
+  - [x] Staging Review 12/12/2024
+  - [x] Privacy & Security
+  - [x] Contact Center guide review
 
 ### Incident Response Info
-- The 1010CG form is currently in production
-- The new paginated request endpoint is /v0/carefivers_assistance_claims/facilities
-- 1010CG [Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
+- The 1010CG form is currently in production.  This is an improvement to the Facility Selection page, providing a search function rather than a static dropdown list.
+- The new paginated request endpoint is /v0/caregivers_assistance_claims/facilities
+- [Endpoint Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Endpoint%20Monitoring%20%26%20Zero%20Silent%20Failures/10-10CG%20Monitor%20Playbook.md)
+- Datadog Dashboards
+     - [1010CG Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/zcn-whk-r5h/1010-cg-vagov-performance?fromUser=false&refresh_mode=sliding&from_ts=1736185712882&to_ts=1736200112882&live=true)
+     - [Sitewide Facilities](https://vagov.ddog-gov.com/dashboard/3vy-h6h-4ek/sitewide-facilities?fromUser=false&refresh_mode=sliding&from_ts=1736196473816&to_ts=1736200073816&live=true)
+- Points of Contact:
+     - Product manager - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us / GH "hdjustice"
+     - Engineer - Brandon Cooper |brandon.cooper1@va.gov / brandon.cooper@adhocteam.us /  GH "coope93'
+     - Engineer - Mitch Saltykov | dmitry.saltykov@va.gov / mitch.saltykovs@agile6.com / GH "mitch-a6"
+     - Product Owner - Patrick Bateman | patrick.bateman@va.gov
+     - MuleSoft/CARMA tech team
+          - Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
+          - Ramesh Dugar | ramesh.dugar@va.gov - CARMA engineer
+          - David Wald | David.Wald@va.gov - testing/integration lead
+          - Ranganathan Vekataraman | Ranganathan.Vekataraman@va.gov - CARMA engineer
+          - Igor Khurgin | igor.khurgin@va.gov - CARMA engineer
+          - Waleed Jaffar | wjaffar@salesforce.com - CARMA engineer
+          - Marla Clayton | marla.clayton@va.gov - Technical Project Manager CARMA
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*

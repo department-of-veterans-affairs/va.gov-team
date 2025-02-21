@@ -4,7 +4,7 @@ about: Internal CAIA template for ad hoc requests for content work on health too
 title: 'Ongoing content support for health tools'
 labels: 'sitewide CAIA, sitewide content'
 project: 'Sitewide CAIA'
-assignees: laurwill
+assignees: DanielleTheirryUSDSVA
 ---
 
 > [!WARNING]

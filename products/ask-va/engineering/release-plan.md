@@ -124,8 +124,8 @@ Examples:
 * If yes, what: [FILL_IN] with ticket numbers
 
 ## Roll Out Planning
-Proposed Dark Launch Jan 15-17th 
-* Desired date range: Starting Jan 20th for Canary Release,
+Targeting Launch March 10-17th 
+* Desired date range: Starting March 10th for Canary Release,
   * Canary Launch: 500 Submitters or 10% of traffic
   * Stage A: 25% of Submitters 
   * Stage B: 50% of submitters 

@@ -18,6 +18,7 @@ const {
 } = process.env;
 
 const CUSTOMER_SUPPORT_EPIC_NAME = 'Governance Team Collaboration Cycle Customer Support';
+const DST_SR_LABEL = 'DS-Staging-Review';
 const [owner, repo] = GITHUB_REPOSITORY.split('/');
 
 const TICKET_STRINGS = {
@@ -91,6 +92,10 @@ function checkIfTicketValid(issueBody) {
   return true;
 }
 
+function checkIfDSTStagingReview(labels) {
+  return labels.map(label => label.name).includes(DST_SR_LABEL);
+}
+
 //get the current touchpoint of the CC-Request ticket
 function getTouchpoint() {
   const labelMap = {
@@ -103,16 +108,35 @@ function getTouchpoint() {
 }
 
 // generate the title of the "created" ticket
-function getTitleInfo(issueBody) {
+function getTitleInfo(body, title, labels) {
+  return checkIfDSTStagingReview(labels)
+    ? getDSTTitle(title)
+    : getVFSTitle(body);
+}
+
+// get the title of the created ticket if the cc ticket is for a VFS review
+function getVFSTitle(body) {
   let title = `Completed: ${getTouchpoint()}`;
-  if (checkIfTicketValid(issueBody)) {
-    const { teamName, productName, featureName } = parse(issueBody);
+  if (checkIfTicketValid(body)) {
+    const { teamName, productName, featureName } = parse(body);
     title = `${title} - ${teamName} - ${productName}`;
     if (featureName && productName !== featureName) {
       title = `${title}/${featureName}`;
     }
   }
   return title;
+}
+
+// get the title of the created ticket if the cc ticket is for a DST review
+function getDSTTitle(title) {
+  console.log('in getDSTTitle...');
+  let _title;
+  if (title.toLowerCase().includes('staging review')) {
+    _title = `Completed - ${title}`;
+  } else {
+    _title = `Completed: ${getTouchpoint()} - ${title}`;
+  }
+  return _title;
 }
 
 // retrieve GH ticket
@@ -291,8 +315,8 @@ async function addSprintToCompletedTicket(itemId, projectId) {
 
 async function main() {
   try {
-    const { body, milestone } = await getGHIssue(ISSUE_NUMBER);
-    const newTitle = getTitleInfo(body);
+    const { body, title: _title, labels, milestone } = await getGHIssue(ISSUE_NUMBER);
+    const newTitle = getTitleInfo(body, _title, labels);
     const _milestone = milestone?.number ?? null;
 
     // create completed ticket
@@ -317,6 +341,8 @@ async function main() {
     if (itemId) {
       await addSprintToCompletedTicket(itemId, projectId);
       await addPointsToCompletedTicket(itemId, projectId);
+    } else {
+      console.log('could not get the itemId');
     }
     
   } catch (error) {

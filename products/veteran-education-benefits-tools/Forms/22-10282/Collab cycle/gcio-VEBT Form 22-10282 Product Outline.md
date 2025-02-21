@@ -141,18 +141,15 @@ This form will be made available on VA.gov's education and training page. Users 
 
 ---
    
-## Screenshots
-[Figma link containing the initial phase of our work](https://www.figma.com/design/QTjUfSK6tYBSu7I1dYJaeO/VSAM-Forms_Wireframes?node-id=17%3A2&t=2DFfhwnAqYmafOwt-1)
-
 ---
 
 #### Communications
 
 <details>
 
-- Team Name: govcio-vfep
+- Team Name: govcio-vebt
 - GitHub Label: 
-- Slack channel: https://join.slack.com/share/enQtNzI5ODQ2MjU3OTg5Mi0xMDMzZTc1MzRmZWVhY2U0NTA2MzFkM2I0ZjAwZjYzMjJmZjViMWZiYmU3MTlmYWUzMzdiNzgwZGM1ZDJlNTQ2
+- Slack channel: https://dsva.slack.com/archives/C0792CZTZJ5
 - Product POCs: Cinda Quattrini
 - Stakeholders: Patricia Terry, Schnell Carraway
 
@@ -162,9 +159,9 @@ This form will be made available on VA.gov's education and training page. Users 
 
 <details>
  
- - DEOP Lead: Jarred Simon (@jsimonVA) (jarred.simon@va.gov)
- - PM: Kara Ciprich (kara.ciprich@va.gov), Lexi Betz (alexis.betz@va.gov)
- - Engineering: Vish Ashok (test engineer/business analyst) (vishnav.ashok@va.gov), Jarred Simon (@jsimonVA) (dev lead) (jarred.simon@va.gov)
+ - DEOP Lead: FE: Elizabeth Wendling (elizabeth.wendling@va.gov), BE: Gregg Puhala (gregg.puhala@va.gov)
+ - PM: Kara Ciprich (kara.ciprich@va.gov)
+ - Engineering: FE: Elizabeth Wendling (elizabeth.wendling@va.gov), BE: Gregg Puhala (gregg.puhala@va.gov)
  - Research/Design: Ariana Adili (@arianaadili) (ariana.adili@va.gov), Amelia Hacking (amelia.hacking@va.gov)
  
 </details>
@@ -173,7 +170,7 @@ This form will be made available on VA.gov's education and training page. Users 
 #### Stakeholders
 
 <details>
- - Cinda Quattrini (cinda.quattrini@va.gov)
+Cinda Quattrini (cinda.quattrini@va.gov), Darla van Nieukerk (darla.vannieukerk@va.gov), Brian Grubb (brian.grubb@va.gov)
  
 </details>
 

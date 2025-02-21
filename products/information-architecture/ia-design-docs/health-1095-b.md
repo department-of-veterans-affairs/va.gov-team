@@ -42,7 +42,7 @@ Download form 1095b page   | www.va.gov/records/download-your-irs-1095-b   | Hom
 
 **A/R/M** | **Page/component** | **Link destination** | **Label** | **Placement/description of change**
 --- | --- | --- | --- | ---
-Add   | [Records hub page](https://www.va.gov/records/)   |  [defined by Sitewide content]   |  Placed as 5th option, after "Download your VA benefit letters".  Sitewide content to determine the link label and teaser text
+Add   | [Records hub page](https://www.va.gov/records/)   | |  [defined by Sitewide content]   |  Placed as 5th option, after "Download your VA benefit letters".  Sitewide content to determine the link label and teaser text
 Add   | Records left nav   |  TBD   |  Download your IRS 1095-B tax form |  Placed as 6th option, after "Download your VA benefit letters".  Although we do occasionaly shorten the left nav lable, it is best practice for the left nav label to match the H1. In this particular case, even a shortened version (which would closely match the URL segment) will still wrap to a 2nd line, so I recommend using the full H1.  
 
 **Note:** The above table captures the primary entry points from within core navigation elements.  Additional entry points can be placed in content pages as needed. 

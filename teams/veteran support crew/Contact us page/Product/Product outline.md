@@ -35,9 +35,9 @@ First, we’ll conduct [usability tests](https://github.com/department-of-vetera
 -	People trust VA more because support channels, especially the website, can provide needed answers.
 
 ## Initiatives
-### "Contact us" page initial improvements (2024)
+### "Contact us" page initial improvements (2024/2025)
 - **Description**: Update content based on: user research, a review of other support experiences on websites/mobile apps, and a review of current analytics and user feedback.
-- **Timing**: FY24 Q4 (Jul to Sep) to FY25 Q1 (Oct to Dec)
+- **Timing**: FY24 Q4 (Jul to Sep) to FY25 Q2 (Jan to Mar)
 - **Objective**: Increase customer satisfaction score to 25%.
 - **Key results**:
    - User insights based on Medallia survey responses

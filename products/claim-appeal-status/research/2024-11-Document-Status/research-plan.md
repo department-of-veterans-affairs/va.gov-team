@@ -14,9 +14,9 @@ Silent failures occur when a Veteran submits a document, but it fails to reach d
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
+Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) does this research support? Work with your VA lead and product manager as needed.
 
-* Our platforms are the best way to deliver products at VA.
+* Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 
 ### Veteran Journey
 * This work supports a Veteran whenever they are filing a disability compensation claim, which could occur across a wide swath of the Veteran journey, ranging all the way from "Getting out" to "Aging."
@@ -59,7 +59,7 @@ Remote on Zoom
 
 For moderated usability tests: 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2024-11-Document-Status/converstation-guide.md)
-- [Prototype [Figma]](https://www.figma.com/proto/m1Xt8XjVDjZIbliCYcCKpE/Document-status-(formerly-silent-failures)?node-id=2771-20256&t=4ob4NYp2CvadqwOG-1)
+- [Prototype [Figma]](https://www.figma.com/proto/m1Xt8XjVDjZIbliCYcCKpE/Document-status-(formerly-silent-failures)?page-id=2771%3A20256&node-id=3110-56951&viewport=172%2C935%2C0.14&t=uNSW6uI6bRfPATaC-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3110%3A56951)
 	
 ## Recruitment	
 
@@ -88,16 +88,16 @@ We intend to use Maximum Variation Sampling as a recruitment strategy. Below is 
 ### Pilot
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: Rocio De Santiago
-* Date and time of pilot session: Jan. 9, 2025 at 2 PM
+* Date and time of pilot session: Jan. 16, 2025 at 2 PM
 
 ### Research sessions
-* Planned dates of research: Jan. 16,17 and 20-22, 2025
+* Planned dates of research: Jan. 20-24 and 27, 28 2025
 
 ### Length of sessions
 
 * Session length: 1 hour
 * Buffer time between sessions: 1 hour 
-* Maximum Sessions per day: 2 sessions per day
+* Maximum Sessions per day: 3 sessions per day
 
 ### Availability
 

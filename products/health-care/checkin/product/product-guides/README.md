@@ -2,11 +2,11 @@
 
 ## Check-in (or eCheck-in)
 
-Last uploaded: July 22, 2024
+Last uploaded: February 14, 2025
 
-- [E-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/16337337/PATIENT.CHECK-IN_PRODUCT_GUIDE.v2.4.SRT.07162024.pdf)
+- [E-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/18801315/PATIENT.CHECK-IN_PRODUCT_GUIDE.v2.4.SRT.07162024.pdf)
 
-- [E-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/16337341/PATIENT.CHECK-IN_PRODUCT_GUIDE.v2.4.SRT.07162024.docx)
+- [E-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/18801316/PATIENT.CHECK-IN_PRODUCT_GUIDE.v2.4.SRT.07162024.docx)
 
 ## Pre-Check-In
 
@@ -18,10 +18,8 @@ Last uploaded: July 25, 2024
 
 ## Day of Appointment Travel Claim Submission
 
-Last uploaded: August 5, 2024
+Last uploaded: February 14, 2025
 
-- [PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/16553466/Online.Travel.Reimbursement.Submission.for.Oracle.Health.Facilities.Product.Guide_SRT_08072024.pdf)
+- [PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/18801024/Online.Travel.Reimbursement.Submission.for.Oracle.Health.Facilities.Product.Guide_SRT_08072024.pdf)
 
-- [PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/16553464/Online.Travel.Reimbursement.Submission.for.Oracle.Health.Facilities.Product.Guide_SRT_08072024.docx)
-
-- [PRODUCT GUIDE (Word) (SharePoint)](https://dvagov-my.sharepoint.com/:w:/g/personal/benjamin_brasso_va_gov/EeGuX9JRFw1AgxZIZ7_JLlYBqMkXmzXGjhlR53dDjfqj-A?e=AMwAtl)
+- [PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/18801025/Online.Travel.Reimbursement.Submission.for.Oracle.Health.Facilities.Product.Guide_SRT_08072024.docx)

@@ -9,6 +9,7 @@
 |Stakeholder|Business area|
 |:--|:--|
 |Laura Rodriguez|LGY (Loan Guaranty Service)|
+|Iyabo Morrison|LGY (Loan Guaranty Service)|
 
 ### Engagements
 

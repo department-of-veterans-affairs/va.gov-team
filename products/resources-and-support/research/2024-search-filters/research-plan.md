@@ -1,14 +1,14 @@
 # Research Plan for Resources & Support Search Enhancements
 **Product Team:** Sitewide Public Websites 
-<br>**Timeframe:** January 2025
+<br>**Timeframe:** February 2025
 
 ## Background
 Initially called the "Learning Center", Resources & Support (R&S) leverages a variety of Drupal content types to provide an unauthenticated self-serve library with targeted, supplemental information to help Veterans and other beneficiaries understand their VA benefits. Since launching in 2020, R&S has expanded to include 100 published articles (as of December 2024). We expect the number of articles will continue to grow via the ongoing migration of content to VA.gov from legacy sites. 
 
-CAIA's recent work to evaluate the content that is currently in the Benefit Hubs (428 published articles as of December 2024) determined that as much as 50% of the content is expected to be moved into RR&S. This anticipated growth accelerated the prioritization of ensuring the R&S experience adequately supports discoverability and Veteran understanding.
+CAIA's recent work to evaluate the content that is currently in the Benefit Hubs (428 published articles as of December 2024) determined that as much as 50% of the content is expected to be moved into R&S. This anticipated growth accelerated the prioritization of ensuring the R&S experience adequately supports discoverability and Veteran understanding.
 
 **Read more:**
-- [Resources & Support product brief](https://github.com/department-of-veterans-affair=s/va.gov-team/blob/master/products/resources-and-support/readme.md)
+- [Resources & Support product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/readme.md)
 - [Resources & Support search enhancements initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1)
 
 ### OCTO Priorities 
@@ -25,30 +25,31 @@ Objective 1: Our digital experiences are the best way to access VA health care a
 - Dying
 
 ## Research Goals	
-1. Confirm if the designs of the filter drawer and filter chips support user understanding of functionality
-2. Understand which of the search, filtering, and browsing options users choose to interact with
+1. Get user feedback on the new filter design and functionality to find information
+2. Understand which of the search, filtering, and browsing options users choose to interact with and in what order
 3. Learn if the labels and groupings of filters align with user mental models
  
 ### Outcome
-Validate the proposed design so we can start building it. There will be a second round of usability testing once it is built in Staging.
+Validate the proposed design so we can start building it. There may be a second round of usability testing once it is built in Staging to get feedback from assistive tech users.
 
 ### Research questions
 
-**Goal 1. Confirm if the designs of the filter drawer and filter chips support user understanding of functionality**
-- Do users understand how to access the filter drawer?
+**Goal 1. Get user feedback on the new filter design and functionality to find information**
+- Do users understand how to access the filter overlay modal?
 - Do users understand the and/or logic between filters across/within filter groups?
-- Do users understand the Apply filters, Clear all, and X buttons in filter drawer?
+- Do users understand the Apply filters, Clear all, and X buttons in filter overlay modal?
 - Do users understand how to dimiss a filter once it's applied?
-- Do users understand how the filter chips on Detail pages function?
-- Are these understandable on both mobile and desktop?
-  - Desktop would have hover states on components
-  - Destop has filter drawer as a modal on right side of screen
+- Do users understand how the filter chips on results/detail pages (w/X) work vs. on the landing page (w/o X)?
 
-**Goal 2. Understand which of the search, filtering, and browsing options users choose to interact with**
+**Goal 2. Understand which of the search, filtering, and browsing options users choose to interact with and in what order**
+
+- What do people do first--searching, filtering, or browsing? 
+  - Do people ever use filters before searching? Why or why not?
+  - What do people do next?
+
+Observe the usage of the following navigation items:
 - Header
-  - Hamburger menu (mobile)
-  - Mega menu (desktop)
-  - Search button (desktop)
+  - Hamburger menu 
 - Landing page
   - Search box
   - Show filters button
@@ -60,11 +61,12 @@ Validate the proposed design so we can start building it. There will be a second
   - Search box
   - Show filters button
   - Dismissible filter chips
-  - Clear all chip
-- Filter drawer
+  - Clear all chips
+- Filter overlay modal
   - X (close) button in top right
   - Collapse all/expand all accordions
   - Individual accordions
+  - Individual filters--select one or multiple
   - Apply Filters button
   - Clear All button
 - Detail page
@@ -75,98 +77,133 @@ Validate the proposed design so we can start building it. There will be a second
 - Do users understand the filter group meanings: Audience, Benefit, Topic?
 - Do users of each audience type choose the filter that aligns with them?
 - Do users understand the individual filter labels?
-- What search terms would users put in search box?
+- What search terms do users put in the search box?
 - How do search terms overlap with or differ from filter labels?
 - Are there other filters that users expect that are missing?
 
-**Misc questions that cut across goals**
-- Do users find the infomation they are looking for, regardless of which path they take to get there?
-- Do diferent user groups (Veterans, family members and caregivers, service members) have different outcomes?
-- Are there other factors (e.g. frequency of VA.gov use, VA benefits received) that affect how easily users are able to find relevant information?
-- What are user expectations of the scope of R&S search vs site-wide search?
-- What are users previous experiences with searching/browsing for information on VA.gov?
+**Other questions**
+- Do users find the information they are looking for, regardless of which path they take to get there?
+- Do different user groups (Veterans, family members and caregivers, service members) have different outcomes?
+- Are there other factors (e.g., frequency of VA.gov use, VA benefits received) that affect how easily users are able to find relevant information?
+- What are user expectations of the scope of R&S search vs. site-wide search?
+- What are users' previous experiences with searching/browsing for information on VA.gov?
 
 ### Hypotheses
 1. Users will understand the search, filtering, and browsing functionality available to them 
 2. Users will understand the labels of filters and filter groups 
-3. Users will find the relevant information
+3. Users are able to find the information that they're looking for
 
 ## Methodology	
-- Semi-structured interviews 
-- Usability testing 
+We will conduct **remote moderated usability testing** to observe research participants using a mobile prototype. 
 
 ### Location
-Remote via Zoom
+Sessions will be conducted remotely over Zoom with transcripts please. 
 
 ### Research materials
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/research/2024-search-filters/conversation-guide.md)
 - [Link to mobile prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Resources-support?node-id=1014-7143&node-type=frame&t=Hqo6gTwXj6DNmGNd-0&scaling=scale-down&content-scaling=fixed&page-id=504%3A6304&starting-point-node-id=1014%3A7143&show-proto-sidebar=1&disable-default-keyboard-nav=1&hide-ui=1)
 	
-## Recruitment - WIP
+## Recruitment
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
+### Recruitment approach
+We would like Perigean to recruit **14 people** who meet the below criteria in order to get **10 completed sessions**: 
+- 7 Veterans
+- 2 Service members
+- 3 Caregivers of a Veteran
+- 2 Family members of a Veteran
 
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
+We would like Perigean to walk the participants through 
+- Downloading the Zoom mobile app before entering the session
+- Enabling settings for screen sharing on their mobile device
 
-### Recruitment approach - WIP
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+### Required criteria (in decreasing order of priority)
+  - *Primary criteria (must-haves):*
+    - **NONE** need to use a screen reader or screen magnifier to access the Internet 
+    - **ALL** must have a mobile device (smartphone or tablet) and be willing to use it for the session and... 
+      - Have Zoom downloaded to their mobile device prior to the session and know how to share their screen 
+      - Are willing to share over Zoom a web browser window on their mobile device 
+      - Have a working microphone on their mobile device 
+    - **AT LEAST 7** must be on a smartphone (i.e., not a tablet)
+  
+  - *Secondary criteria (nice-to-haves):*
+     - At least 4 people have a cognitive disability (e.g., TBI) 
+     - At least 4 people are age 55 or older 
+     - At least 2 people are age 35 or under 
+     - At least 2 people don't have any degree or vocational training after high school 
+     - At least 2 people live in a rural or remote area 
+     - At least 3 people of color 
+     - At least 2 women 
+     - At least 2 people are LGBTQ+ 
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
+### Screening Questions
 
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+1. Do you use screen reader or screen magnifier technology to use the Internet? 
+    1. No *(ask next question)*
+    2. Yes *(disqualify)*
 
-### Recruitment criteria - WIP
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+1. For this meeting, you'll need a mobile device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using? *(RECORD)*
+    1. Smartphone *(RECRUIT at least 7 and ask next question)*
+    1. Tablet *(RECRUIT at most 6 and ask next question)*
+    1. Computer *(disqualify)*
 
-**Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
+     1. No
+     2. Yes *(RECRUIT and RECORD as having a cognitive disability)*
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+1. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve. 
+     1. No  
+     1. Yes *(RECRUIT 2 and RECORD as LGBTQ+)*
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+## Timeline
 
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+### Prepare
+Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.  
 
-## Timeline - WIP
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+Dave and Rodney are available for a kickoff call during any of these times: 
+- **Mon Feb 10** 10 am - 5 pm ET
+- **Tue Feb 11** 10 am - 1 or 2-5 pm ET
 
-### Prepare - WIP
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+Please invite Rodney and Dave to the kickoff call.
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+**Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
-### Research sessions - WIP
-* Planned dates of research:
+We have scheduled 3 **pilot tests**:
+- Pilot 1: **Feb 7 at 12:30 pm ET** with Rocio De Santiago
+- Pilot 2: **Feb 7 at 2 pm ET** with Steven Strailly
+- Pilot 3: **Feb 12 at 4 pm ET** with Lee DeIarm
 
-### Length of sessions - WIP
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+### Research sessions
+Planned dates of research: **February 18-24, 2025** 
 
-### Availability - WIP
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
+We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+
+### Length of sessions 
+* Session length: **60 minutes** 
+* Buffer time between sessions: 30 minutes
+* Maximum sessions per day: 4
+
+### Availability
+
+Team Availability | Time Slots (ET)
+------------------|-------------- 
+Feb 18, 2025 | 9-10, 1:30-2:30, 4-5, 5:30-6, 6:30-7:30 
+Feb 19, 2025 | 9-10, 10:30-11:30, 4-5, 5:30-6, 6:30-7:30 
+Feb 20, 2025 | 9-10, 10:30-11:30, 12-1, 1:30-2:30, 4-5, 5:30-6, 6:30-7:30 
+Feb 21, 2025 | 9-10, 4-5, 5:30-6, 6:30-7:30 
+Feb 24, 2025 | 9-10, 10:30-11:30, 12-1, 1:30-2:30, 4-5, 5:30-6, 6:30-7:30 
 	
-## Team Roles - WIP
-
-**Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Send emails only for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
-
-- **Moderator:** Dave Pickett
-- **Research guide writing and task development:** Dave Pickett
+## Team Roles
+- **Moderator:** Rodney Little 
+- **Research guide writing and task development:** Cindy Merrill
 - **Participant recruiting & screening:** Perigean
-- **Project point of contact:** Dave Pickett 
-- **Participant(s) for pilot test:** 
+- **Project point of contact:** Cindy Merrill *only thru Feb 7*, Rodney Little, and Dave Pickett 
+- **Participant(s) for pilot test:** Rocio De Santiago, Steven Strailly, and Lee DeIarm
 - **Accessibility specialist:** N/A
 - **Note-takers:** Perigean
-- **Observers:** I will have a sign-up sheet for obeservers 
+- **Observers:** We will have a sign-up sheet for observers 
+
+## Approvals
+- Michelle Middaugh (Sitewide PO) on Jan 31, 2025
+- Shane Strassberg (VA Research Ops) on Feb 4, 2025

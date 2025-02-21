@@ -38,19 +38,17 @@ Yellow Ribbon Program information and how it will display within Comparison Tool
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
-   - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
+   - **Do introductions! Ask the notetaker and observers to give a brief, camera-on introduction** like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 - **For the purpose of this study, you'll be interacting with a website today.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-   - Knowing that, are you comfortable if I record my screen and audio as we talk today?
 - **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
    - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
 *Start recording.*
@@ -70,12 +68,26 @@ Before we head over to the website, we would like to start with a few warm-up qu
    IF YES - have you used the Yellow Ribbon Tool?
    IF YES - What was your experience like?
 
-Thank you for answering these questions. For this usability research session, we have pre-selected an institution that participates in the Yellow Ribbon program. 
+Thank you for answering these questions. For this usability research session, we have pre-selected an institution that participates in the Yellow Ribbon program. I am going to send over the link that I'd like you to open in the chat: https://staging.va.gov/education/gi-bill-comparison-tool/institution/31937132. I will give you a moment to access that. Please go ahead and share your screen once you have the link open. Let me know if you come across any issues.
+
+Mobile session how to screen share - 
+For iPhone:
+1. Tap ‘Share content’ (Green button at the bottom middle of the screen). If you can’t see the zoom menu, tap anywhere on your screen once, and it should appear.
+2. Tap on Screen.
+3. Tap Zoom.
+4. Tap start broadcast. After a count of 3, the entire device screen will be shared in the meeting.
+5. Tap the red bar at the top of your screen when you are ready to end the share.
+
+For Andriod:
+1. Tap "Share"
+2. Tap "Screen"
+3. May give a "sensitive info" alert
+4. May ask you to give Zoom permission to display over other apps, toggle yes. The hit the back arrow . Then it might just share your screen.
+5. Tap "Start now" (maybe)
 
 ## First Task: [Institution details review] - 7 minutes
 
-- Step 1: Please take a moment to go through the details provided for Columbia University in the City of New York.
-- Step 2: Go to Yellow Ribbon Program information.
+- Step 1: Please take a moment to go through the details provided for Columbia University in the City of New York. Once you're finishied, go to the Yellow Ribbon Program information section on this page.
 
 ### Things to watch for:
 - [Does the participant understand meaning of xyz?]
@@ -95,12 +107,11 @@ Thank you for answering these questions. For this usability research session, we
 - [Does the participant notice xyz?]
 - Questions:
 1. Based on what you read, can you tell me what the yellow ribbon program is about?
-2. Can you tell us who is eligible for the Yellow Ribbon program?
-3. What is your first impression of the Yellow Ribbon Program section?
-4. What's your opinion on how the content displays?
-5. Do you find the content to be useful?
-6. If you could change anything about the presentation or content, what would you change?
-7. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate this task?
+2. What is your first impression of the Yellow Ribbon Program section?
+3. What's your opinion on how the content displays?
+4. Do you find the content to be useful?
+5. If you could change anything about the presentation or content, what would you change?
+6. On a scale of 1-5, 1 being easy and 5 being difficult, how would you rate this task?
 
 ## Third Task: [Functional review] - 7 minutes
 - Step 1: Select a degree level that you're interested in
@@ -127,7 +138,7 @@ Thank you for answering these questions. For this usability research session, we
 
 ## Post-Task Interview - 4 minutes
 This concludes our review, I just have a few final questions.
-- What's your overall opinion of the Yellow Ribbon Program information in the comparison tool?
+- What's your overall opinion of the Yellow Ribbon Program information section?
 - Did any tasks confuse you?
 - Do you have any additional comments?
 - Any questions for me?

@@ -4,7 +4,7 @@ about: Internal CAIA template for ongoing content updates to the Style Guide.
 title: 'Ongoing content support for Style Guide'
 labels: 'sitewide CAIA, sitewide content'
 project: 'Sitewide CAIA'
-assignees: laurwill,megzehn
+assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA
 ---
 
 > [!WARNING]

@@ -1,5 +1,4 @@
-# 686 Usability Research: P4 (Maria Cortes)
-
+# 686 Usability Research: P4
 ### Warm up
 
 - *Tell me a little about yourself*

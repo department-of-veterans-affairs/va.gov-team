@@ -48,15 +48,18 @@ Three health tools (medications, medical records, and secure messages) require a
    
 ```mermaid
 flowchart TD
-    A[previous checks for verified account, facilities] --> D(Is the user ID-verified?)
+    A[previous checks for verified account, facilities] --> D(Does user have a MHV-Identifier?)
     D --> |Yes| G(Render application)
     D --> |No| H(What tools are they trying to access?)
-    H --> |Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health + render Acct Creation API error alert}
+    H --> |Meds, Records, SM| I{fa:fa-circle-exclamation route-guard user to /my-health}
     H --> |Other health tool| J(Render application)
 ```
 
-1. All impacted applications (SM, Meds, MR) should look for an MHV-Identifier before rendering a page for users.
-2. If an MHV-Identifier (`userHasMhvAccount` selector from MPI) is not detected, these applications should redirect/route-guard the user to the MHV landing page for triage and alerting if necessary.
+1. Applications check redux state for `user.profile.mhvAccountState` to determine if the user has an MHV account.
+2. examples can be found on the [landing page](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/mhv-landing-page/selectors/hasMhvAccount.js) and in [medical records](https://github.com/department-of-veterans-affairs/vets-website/blob/da4643caadc120cdf9d88fb0bd0d6941d76ff6e1/src/applications/mhv-medical-records/containers/App.jsx#L29)
+3. All impacted applications (SM, Meds, MR) should check the above MHV-Identifier before rendering a page for users.
+4. Do we want to make an `mhvAccountState` selector available via `src/platform/mhv` so that tool teams don't need to roll their own?
+5. If an MHV-Identifier is not detected, these applications should redirect/route-guard the user to the MHV landing page for triage and alerting if necessary.
 
 ### Affected health tool applications
 Tools: Medications, Medical Records, Secure Messages
@@ -77,7 +80,63 @@ There are many side-door entry points to the health tools themselves (list below
 6. If we do not see an MHV-Identifier, a new `AlertMhvUserAction` alert is rendered along with a modified landing page. Page modification includes: suppressing links in grey cards for each of the affected health applications. This avoids some dead-ends to those tools that a user lacks access to, and adds clarity to the meaning of the alert.
 
 ## <a name="qa">QA guide and test cases</a>
-_Add instructions to this documentation around the AC-API for tool teams so that they understand how to use redux to test whether their route-guards for the AC-API actually send users to the /my-health page to experience relevant AC-API error alerts in the case of errors. Include specific test cases & recommendations on how to validate the route-guard using redux._
+Steps to get the alert to appear for testing in the staging environment
+
+**Pre-requisite:**
+1. Install Redux DevTools Chrome extension
+
+**Steps:**
+1. Login as vets.gov.user+12@gmail.com (or any staging user that has access to the My HealtheVet landing page on VA.gov)
+2. Navigate to the My HealtheVet landing page by clicking on “My HealtheVet” in the top nav bar under the Profile Name (https://staging.va.gov/my-health/)
+3. Right click anywhere on the white space of the MHV landing page and select on “Inspect”
+4. A new menu should appear and in the top menu, click on `>>` and select “Redux”.
+5. Another menu should now appear and at the bottom of this menu, click on “Inspector” and make sure the button that looks like this `>_` is selected. You should see a text box at the bottom of the new menu now that has the below:
+```
+{
+type: ''
+}
+```
+6. Now refresh the browser page
+7. In the new menu, wait a couple seconds for the page to finish loading and then at the text box at the bottom, delete everything and paste this:
+```
+{
+   type: 'fetchAccountStatusSuccess',
+   data: {
+      errors: [
+         {
+            title: 'The server responded with status 500',
+            detail: 'things fall apart',
+            code: 805
+         }
+      ],
+   }
+}
+```
+8. Click on “Dispatch” at the bottom left of the menu.
+9. The alert should now appear in the MHV landing page.
+10. If you want to take a look at the other alerts, you can change the number 805 (in the code above) to one of the numbers below and then click on "Dispatch" again. The alert should change:
+    1. 801
+    2. 805
+    3. 806
+    4. 807
+    5. 500
+
+**Test cases:**
+1. Verify that an existing user can sign in as expected
+    1. Login as a user that has access to the My HealtheVet landing page on VA.gov
+    2. Navigate to the My HealtheVet landing page (https://staging.va.gov/my-health/)
+    3. Verify that this user does not see any of the error alerts
+2. Verify that a newly created user can sign in as expected
+    1. Create a new testing user in staging
+    2. Go to the MyHealtheVet landing page
+        1. At this point, this user should be unverified and an alert should appear to tell the user to register/verify their account
+    3. Go through the verification process
+    4. Go back to the My HealtheVet landing page on VA.gov
+    5. Verify that this user does not see any of the error alerts   
+3. Verify that user action-able error alerts appear using the above steps and one of the 4 error codes (801, 805, 806, 807)
+    1. Follow the above steps to get the error alerts to appear in staging using the redux devtools
+4. Verify that a generic error alerts appear when using the above steps and not one of the 4 error codes (500)
+    1. Follow the above steps to get the error alerts to appear in staging using the redux devtools
 
 ## <a name="future">Planned future-state improvements</a>
 As stated earlier in this document, there are many side-door entry points into the affected health tools (medications, medical records, secure messages) from across VA.gov and from even outside of it. Instead of instantly route-guarding those users to the `/my-health` page to experience these error alerts when they occur, we hypothesize that it would make more sense for users to see the relevant alerts _in place within the application they expected to access_.

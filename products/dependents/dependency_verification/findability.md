@@ -16,6 +16,8 @@ This initiative consists of two parts:
 [Go to verification MVP designs in Figma
 ](https://www.figma.com/design/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?node-id=1574-12903&t=zqs6ZMV8Lfs9bYeD-1)
 
+[Go to CAIA IA findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/verify-dependents.md)| [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=522-1737736233308)
+
 ## Findability assessment: Goals, methodology, and expected outcomes
 
 ### Goals
@@ -40,7 +42,7 @@ In the future, our methodology may include other types of testing, such as card 
 
 ## Findability discovery
 
-As a part of our initiative, our team did some discovery work to understand how Veterans might find information about the "verification of dependents." Part of our hypothesis is that Veterans with out-of-date dependents may be less engaged with the dependents experience on VA.gov. Because these Veterans may be less familiar with navigating VA.gov, we want to pay extra attention to the ease of findability when designing our new verification MVP. More than this, we know how important it is that even Veterans who don't follow our happy path (the CTA in the annual notification email) are able to find information about dependent verification and how to verify independent of the email.
+As a part of our initiative, our team did some discovery work to understand how Veterans might find information about the "verification of dependents." Part of our hypothesis is that Veterans with out-of-date dependents may be less engaged with the dependents' experience on VA.gov. Because these Veterans may be less familiar with navigating VA.gov, we want to pay extra attention to the ease of findability when designing our new verification MVP. More than this, we know how important it is that even Veterans who don't follow our happy path (the CTA in the annual notification email) are able to find information about dependent verification and how to verify independent of the email.
 
 We want to ensure that Veterans can easily find information on dependent verification on VA.gov and also that they're presented with information on dependent verification in relevant spaces even when they don't know to search for it. 
 
@@ -59,7 +61,7 @@ Using the following phrases did not render the "About form" page for Verificatio
 - Dependent verification
 - Verification of dependent 
 
-Only when using exact phrasing from the title of the form, "Verification of dependents," did we see the "About form" page for Verification of dependents in the search results.
+Only when using exact phrasing from the form title, "Verification of dependents," did we see the "About form" page for Verification of dependents in the search results.
 
 #### Questions
 - _HMW surface Verification information in the search results?_
@@ -86,10 +88,10 @@ A review of the parent "static page" for dependent pages revealed a few potentia
   - _HMW make the Dependents Verification information discoverable on VA.gov?_
 
 ## Context and priorities
-We understand that these findings have far-reaching implications and that solving for these issues takes time and further discovery. Our priorities for the scope of addressing these issues are listed here:
+We understand that these findings have far-reaching implications and that solving these issues takes time and further discovery. Our priorities for the scope of addressing these issues are listed here:
 
 ### The dependent verification MVP
-Any improvements to findability should be first focused on the dependent verification MVP. Our thoughts on what that must/should include are listed here, but we are open to further suggestions from our work with CAIA beyond the improvements we recommend.
+Any improvements to findability should first focus on the dependent verification MVP. Our thoughts on what that must/should include are listed here, but we are open to further suggestions from our work with CAIA beyond the improvements we recommend.
 
 #### Must haves
 - A way for authenticated and unauthenticated Veterans to easily find information about verification of dependents
@@ -104,7 +106,7 @@ Beyond the verification MVP, our discovery revealed issues with the findability 
 - Aligning with other VA.gov forms
 
 ### VA.gov
-Our discovery may have revealed issues with information architecture across VA.gov. This is our lowest priority but still important to our team. After the findability of the verification MVP and other dependents experience content, we would love to lend our efforts to potential improvements to information architecture across VA.gov and how the dependents experience fits within VA.gov where possible. 
+Our discovery may have revealed issues with information architecture across VA.gov. This is our lowest priority but still important to our team. After the findability of the verification MVP, and other dependents' experience content, we would love to lend our efforts to potential improvements to information architecture across VA.gov and how the dependent's experience fits within VA.gov where possible. 
 
 ## Unknowns
 This is a space to make explicit our unknowns regarding the verification MVP and its findability: 
@@ -136,4 +138,9 @@ Based on our work with CAIA and their recommendations, we'll create a more solid
 
 Here is a link to our former preliminary timeline that we'll update as we further solidify our strategy: 
 
-[Go to preliminary timeline in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1731513183944)
+- [Go to design/research timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692908527043/0da94b7ded52e8a943d798bcb8ae39697c2fb56f?wid=0-1736454562185)
+- [Go to sprint planning timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692908527043/0da94b7ded52e8a943d798bcb8ae39697c2fb56f?wid=0-1732119679400)
+- [Go to preliminary timeline in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1731513183944)
+
+## CAIA's IA feedback
+[View feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/verify-dependents.md)

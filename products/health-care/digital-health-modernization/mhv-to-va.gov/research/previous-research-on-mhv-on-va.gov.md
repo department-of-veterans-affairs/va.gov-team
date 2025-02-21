@@ -11,7 +11,6 @@ Below is a list of research that has been carried out to develop and support the
 - [2020-12 Digital Health Modernization Generative Research Study 1](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/6) (September 2021)
 
 ## MHV on VA.gov content, IA, and navigability research
-- [Cross-tool filters study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2024-11-MR-SM-RX-usability-study) (November 2024)
 - [Comparison study of secondary navigation options](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study) (January 2024)
 - [Secondary Navigation Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research) (October 2023)
 - [2023-07 Health Wayfinding Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study) (July/ August 2023)
@@ -34,6 +33,7 @@ Below is a list of research that has been carried out to develop and support the
 - [Research on broader context of Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/prior-research) (no date)
 
 ## Medical Records research
+- [Medical Records Usability Study Round 4 (AT)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2025-01-usability-testing-rd4-at) (January 2025)
 - [Medical Records Findability Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2024-10-findability-study) (October 2024)
 - [Medical Records in VA.gov Usability Study Round 3 (AT)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2024-08-usability-testing-rd3-at) (August 2024)
 - [Medical Records Usability Testing - Round 2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2024-03-usability-testing-rd2-at) (May 2024)

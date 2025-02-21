@@ -1,6 +1,6 @@
 # MHV on VA.gov Medical Records Product Outline
 
-Last Updated: Oct 17. 2024
+Last Updated: February 3. 2025
 
 ### Communications
 
@@ -28,31 +28,43 @@ Last Updated: Oct 17. 2024
 
 
 ## Overview
-Medical Records on VA.gov will provide Veterans with the same ability to view their VA health care data providers as on MyHealtheVet (MHV) today The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use.  Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
+Medical Records on VA.gov will provide Veterans with the same ability to view their VA health care data providers as on the standalone MyHealtheVet (MHV) health portal. 
 
-The development and release of functionality will occur in five 'phases' to align with the release strategy of all MHV products.  After gaining approval via the collaboration cycle, each 'domain' of Medical Records will enter into Phase 0 one at a time.  After all domains are in Phase 0, they will then deploy together to 1% of users, and then to Phases 1-4.
+The new tool will employ modern technology and user-centered design to ensure that the tool is accessible, intuitive, and simple to use.  Moving this product out of the standalone health portal and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.  Integrating data from Oracle Health will also make the multi-year rollout of Oracle Health seamless to Veterans, giving them access to their health records regardless of their facility's rollout status, and without requiring the Veteran to know which system their facility is on.
+
+The development and release of each discrete application (also referred to as domains) was completed sequentially for the private beta (trusted users) release, which was referred to as Phase 0. A small group of ~150 Veterans were invited via email to try out the new experience and share feedback by emailing a dedicated mailbox.  The domains are:
+
   - Allergies
   - Vaccines
   - Lab and Test Results, consisting of:
     -  Chemistry/Hematology
     -  Microbiology
-    -  Pathology results
+    -  Cytology
+    -  Surgical pathology
+    -  Electron microscopy
     -  Radiology images & Reports
   - Care Summaries and Notes, consisting of:
-    - VA Notes
-    - Admission & Discharge Summaries
+    - VA progress notes
+    - Admission & sdischarge Summaries
     - After Visit Summaries
   - Health Conditions
-  - Vitals
-  - Downloadable Reports (consolidation of all domains into a single report)
-    - Blue Button Report
-    - Continuity of Care Document (CCD), previously referred to as VA Health Summary
+  - Vital signs
+  - Downloadable Reports 
+    - Blue Button Report (customizable, and in addition to health data, includes demographic information and, optional, a brief military history from the Department of Defense.
+    - Continuity of Care Document (CCD), previously referred to as VA Health Summary, a file in standardized CCDA XML format that can be imported into other electronic health record (EHR) systems.
+    - Self-entered health data, data that was entered on My HealtheVet portal prior to June 2025, after which the ability to enter that data will be retired.  Going forward, patient-reported data will be collected during health visits, and will be accessible from a new Share My Health Data tool managed by Veterans Health Information Exchange (VHIE), or by making a request at local Release of Information (ROI) office.
+
+All medical records applications entered Phase 1 (public beta) simultaneously in Dec 2024.  Links on the existing My HealtheVet portal were added to invite users to try out the new medical records experience.  By mid-March 2025, medical records will be made available to 1% of users.  Once Oracle data has been inttegrated into all domains, Medical Records will be made available to all users.
 
 ## Problem Statement
-Medical Records on MyHealtheVet was researched and developed 20 years ago and remains largely unchanged from UI, IA, accessibility, and technology perspectives.  Furthermore, some of the rationale and decisions that drove the original medical records design may no longer be valid or timely today, and therefore should be re-examined and challenged where appropriate.
+Medical Records on MyHealtheVet was researched and developed 20 years ago and remains largely unchanged from UI, IA, accessibility, and technology perspectives.  Some of the rationale and decisions that drove the original medical records design may no longer be valid or timely today, and therefore should be re-examined and challenged where appropriate. 
+
+VA is also in the midst of replacing its interally built clinicial portal with a Oracle Health's PowerChart, and migrating patient health data from the VA's VistA database into Oracle's Millenium database.  This rollout will happen one facility at a time over several years, during which time health data for unconverted facilities will remain in VistA.
+
+This project will also integrate health data from Millineum with VistA data so that Veterans can see either, or both, regardless of the system their health facility/facilties are on.
 
 ## Opportunities
-How might we leverage user-centered design strategies, modern tech, and VA.gov design system and components to create a more intutive, user-friendly, and performant medical records experience than exists today?
+How might we leverage user-centered design strategies, modern tech, and VA.gov design system and components to create a more intutive, user-friendly, and performant medical records experience that gives Veterans seamless visibility of their health data derived from VistA or Millenium?
  
 ## User Outcomes
 ### Desired User Outcomes
@@ -62,6 +74,7 @@ How might we leverage user-centered design strategies, modern tech, and VA.gov d
 - Users no longer need to move between two different web sites (VA.gov and MHV) to perform various health care-related tasks
 - User confidence and satisfaction increase as a result of a more consistent, reliable, and performant application
 - Users who utilize assistive technology such as screen readers are able to easily use medical records
+- Users will be able to access their health records without needing to know if their facility has been converted to Oracle Health.
 
 ### Undesired User Outcomes
 

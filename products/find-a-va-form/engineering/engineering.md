@@ -58,12 +58,19 @@ Find Forms uses an API key that belongs to the **`VAGOV` consumer**. This key is
 **This API key is shared** [Background on shared API keys (Slack)](https://dsva.slack.com/archives/CUB5X5MGF/p1695666665300929) The rate limit for this API Key is shared across all of those APIs. If one API has a spike in traffic, that will affect the rate limit for all other APIs using the same key. 
 
 ### **Rate limits**
+The forms endpoint on the Lighthouse Forms API has a rate limit. That limit was hit in August 2023 when a PACT Act deadline drove a huge surge in demand for a particular form. The presence of a rate limit is difficult to detect because the errors are masked by the many layers of the VA network stack. In practice, a rate limit could be experienced as 502 response codes occurring on the vets-api endpoint (https://api.va.gov/v0/forms), and 429 response codes on the Lighthouse endpoint (https://api.va.gov/services/va_forms/v0/forms).
+
 Rate limits are applied _**per consumer**_ to _**all APIs**_ accessed by that consumer.
 As of 9/23, the API rate limit is **1,000 requests/min.** (The 1,000 requests/min. rate limit applies to the collective traffic across all APIS accessed by the consumer/key.)
 
 If/when we request rate limit changes, that rate limit will be set for all APIs accessed by the `VAGOV` API consumer (listed above), even if products are using different API keys. And, other products' rate limit requests may affect the Forms product.
 
 More info on [rate limit changes (Github)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/troubleshooting.md#request-api-limit-increase).
+
+Rate limit history:
+- 240 requests / min = the orignal rate limit  ([slack thread](https://dsva.slack.com/archives/CBU0KDSB1/p1691433561014359?thread_ts=1691430186.980299&cid=CBU0KDSB1), from Kristen Brown)
+- 500/min = New rate limit as of 8/8/2023, after our increase request
+
 
 ### Error messages
 When API hits a rate limit, an error message will be displayed to end users, "We're sorry. Something went wrong when we tried to load the search widget." That message originates from Drupal in a React widget on the Find-Form node:

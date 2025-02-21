@@ -1,55 +1,43 @@
 # VA Service Taxonomy Product Brief
 
-[Key resources](#key-resources) 
+[Overview](#overview)
 
-[What to know about the product](#what-to-know-about-the-product)
-
-[Contacts](#contacts)
+[Contacts](#contacts--content-governance)
 
 [Taxonomy structure](#taxonomy-structure)
 
 [Directory of taxonomy research](#directory-of-taxonomy-research)
 
-## Key resources 
 
-- [**VSA Facilities Team transition folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) | March 2022
-- [**VSA Facilities Team Research and Design Hub document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vsa-ux-transition-doc.md) | March 2022
+## Overview
 
-**Other taxonomy documentation**
-- [Health service taxonomy Github product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/facilities/medical-centers/services-taxonomy)
-- [Vaccination taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/facilities/vaccination-taxonomy/README.md)
-- [Vet Center service taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2021-03-services-taxonomy)
-- View or download the [VHA health services taxonomy](https://prod.cms.va.gov/vha-health-services) (_requires VA network connection but not Drupal credentials_)
-- The taxonomy lives and is maintained (i.e., edited) in [Drupal](https://prod.cms.va.gov/admin/structure/taxonomy/manage/health_care_service_taxonomy/overview) (_requires VA network connection_ and _Drupal credentials_)
+The **VA services taxonomy** is the official, customer-facing list of services offered across VA's 1,200 health care facilities (VHA), Vet Centers (VHA), and Benefit offices (VBA).
+
+The VA Services taxonomy was originally designed to create a centralized naming system for VA Services, in order to ensure a consistent Veteran experience across VA facility locations and offices. This inclusive taxonomy represents a range of benefits and services, and allows for naming consistency and the ability to map overlapping services delivered by different types of facilities, and allows searchability, improved findability, and reduces the cognitive load on Veterans. For example, counseling services are offered at VA medical facilities _and_ Vet Centers. Some readjustment services are delivered at Vet Centers _and_ VBA locations _plus_ by VBA representatives inside VA medical facilities. 
+
+The content structure of the taxonomy is built intentionally to accommodate the nuances of complex services.
+
+- The taxonomy is maintained (i.e., edited) in [Drupal](https://prod.cms.va.gov/admin/structure/taxonomy/manage/health_care_service_taxonomy/overview) (requires VA network connection and _Drupal credentials)
 - The taxonomy is consumed by the [Facilities API](https://developer.va.gov/explore/facilities/docs/facilities?version=current) for use by all VA digital products, and public third-party products
 
-## What to know about the product 
-
-The service taxonomy was originally designed as the _**VHA health service taxonomy**_ and intended to be the official, customer-facing list of services offered across VA's 1,200 health care facilities. It was designed to create a consistent naming system for patients enrolled in VA health care and used by all VA digital health products. Over time, the taxonomy is evolving into the **_VA service taxonomy_** which extends beyond purely health services and supports Vet Centers and other VA business lines, such as VBA. 
-
-The creation of an inclusive taxonomy representing a range of benefits and services allows for naming consistency plus the ability to map overlapping services delivered by different types of facilities. For example, counseling services are offered at VA medical facilities _and_ Vet Centers. Some readjustment services are delivered at Vet Centers _and_ VBA locations _plus_ by VBA representatives inside VA medical facilities. 
-
-The content structure of the taxonomy accommodates the nuances of certain services.
-
-By using a universal, inclusive taxonomy, we allow searchability, improve findability, and reduce the cognitive load on Veterans. 
-
 ## Contacts / Content Governance
+Proposed new taxonomy terms or naming changes to existing terms should be reviewed by the "taxonomy council" which consists of the contacts listed below.
+
 Person | Email | Role |
 ---| --- | --- |
 Michelle Middaugh | suzanne.middaugh@va.gov | OCTO product owner 
 Danielle Thierry | danielle.thierry@va.gov | OCTO content and translation lead
 Jenny Heiland-Luedtke | jennifer.heiland-luedtke@va.gov | Deputy Director, VHA Digital Media (VAMC POC)
 Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC) 
-TBD | tbd@va.gov | (VBA POC)
+Shared VBA leadership responsibility | ofocomms.vbaco@va.gov | VBA POC
 
-Changes to Taxonomy should be reviewed by these stakeholders, including changing categories or heirarchy.
 
 ## Taxonomy structure
 
-- Service name (required): Cardiology
-- Patient-friendly name: Heart and circulation
-- Common conditions: heart disease, high blood pressure, heart rhythm disorders, angina, vascular diseases
-- Description (required) : Our cardiology specialists offer advanced treatment and care for conditions affecting your heart and blood vessels, including heart disease, stroke, heart rhythm disorders and high blood pressure.
+- Service name (required): e.g. Cardiology
+- Patient-friendly name: e.g. Heart and circulation
+- Common conditions: e.g. heart disease, high blood pressure, heart rhythm disorders, angina, vascular diseases
+- Description (required) : e.g. Our cardiology specialists offer advanced treatment and care for conditions affecting your heart and blood vessels, including heart disease, stroke, heart rhythm disorders and high blood pressure.
 
 ## Directory of taxonomy research 
 
@@ -66,3 +54,7 @@ The following research was completed by the Facilities Team and its predecessors
 |	Health services taxonomy |	January 2018	|	Exploration of health care services, provider search and clinical services descriptions on VA.gov	|	[Jan 2018 Health service taxonomy findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/facilities/medical-centers/services-taxonomy/health-taxonomy-research/Exploration-of-Health-Care-Services-on-VA.gov.pdf)		
 
 
+## Historical team documentation
+
+- [**VSA Facilities Team transition folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) | March 2022
+- [**VSA Facilities Team Research and Design Hub document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vsa-ux-transition-doc.md) | March 2022

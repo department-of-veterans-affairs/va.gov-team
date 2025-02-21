@@ -47,7 +47,7 @@ See also Operating status/facility level alerts (cross-product)
 | Urgent Care MVP |  | [Epic #26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26770) | [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design/urgent-care-redesign) | [In production](https://www.va.gov/find-locations) |
 | Urgent Care Mashup | | [Epic #10402](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10402)| [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design/urgent-care-mashup-Jul-2020) | [In production](https://www.va.gov/find-locations) |
 | Emergency care mashup | | [Epic #7683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7683) | [UX Pin](https://preview.uxpin.com/8767aa9028468a26be090fd044d9ff26e40a8f95#/pages/138402705/simulate/no-panels?mode=i) | [In production](https://www.va.gov/find-locations) |
-| Search improvements - 2023 | [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/initiatives/2023-search-improvements/2023-initiative-brief.md) | | | 
+| Search improvements - 2023 | [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/initiatives/2023-2025-search-improvements/initiative-brief.md) | | | 
 | Service-centric search | [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/initiatives/2021-service-centric-search/initiative-brief.md) | | | |
 
 ### VAMC Modernized pages 

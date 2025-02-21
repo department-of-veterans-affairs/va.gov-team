@@ -6,8 +6,6 @@
 
 ## Step 1: Development
 
-You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
-
 List the features toggles here.
 
 | Toggle name | Description |
@@ -18,9 +16,10 @@ List the features toggles here.
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+     - [x] Complete End to End testing and obtain signoff from stakeholders
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
@@ -37,23 +36,12 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
+- No UAT will be completed.  We held research and usability sessions in October 2024 to validate functionality and usability from Veterans and Caregivers within the staging environment.
+- The team and Stakeholders will validate functionality in Production.
 
 #### Results
 
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
+- N/A
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
@@ -61,9 +49,15 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
+- Desired date range:
+     - 01/21/2025 - 1/27/2025
+- How will you make the product available in production while limiting the number of users who can find/access it:
+     -  We will use a feature toggle to limit access to the feature
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
+     - Total Applications being submitted (source: Datadog)
+     - Facility Selection page - avg engagement time (source: Google Analytics)
+     - New Facility Confirmation page - avg engagement time (source: Google Analytics)
+     - Page activity/engagement (button clicks, flow of traffic into and out of page, page drops, etc)(source: Google Analytics)
 
 
 ## Measuring Success
@@ -82,24 +76,25 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Key result: Reduce the number of applications that are rerouted (obtained from CSP leadership)
 - From Jan 1, 2022 through Jan 25, 2023, there were 5,496 CARMA cases rerouted to a different facility.
    - At this time, there is no simple way to determine whether the case was rerouted at the Veteran/Caregiver request or due to having a non-caregiver supported facility on the form.
-- Data Source: Caregiver Stakeholder team and [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&fullscreen_end_ts=1730229097128&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1730225497128&fullscreen_widget=1652960129845848&refresh_mode=sliding&from_ts=1730224696206&to_ts=1730228296206&live=true)
+- Data Source:
+     - Rerouted applications - Caregiver Stakeholder team
+     - Applications submitted - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&fullscreen_end_ts=1730229097128&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1730225497128&fullscreen_widget=1652960129845848&refresh_mode=sliding&from_ts=1730224696206&to_ts=1730228296206&live=true)
  
 |Applications | Monthly Average Baseline (Jan 2022-Jan 2023)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
-|Total Apps Rerouted | 423 | TBD | TBD |
-|Total Apps Submitted | 5,923 | TBD | TBD |
+|Total Apps Rerouted | 423 | 400 | TBD |
+|Total Apps Submitted | 5,923 | No Change | TBD |
 
 
 #### Key result: Maintain or reduce the amount of time a user selects a facility
 - Data Source: [Google Analytics - CG Facility page views & time](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8un9wi5nSN-WZ-KqWHHBPA)
 
-|Average time on page |Monthly Average Baseline (Jan-Dec 2023)| Target | 1 Month after launch|
+|Average time on page |Monthly Average Baseline (Jan-Dec 2024)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
-|Search page| 55 seconds |TBD|TBD|
-|Confirmation page |NEW|TBD|TBD|
+|Search page| 52 seconds |30 seconds|TBD|
+|Confirmation page |NEW|15 seconds|TBD|
 
 
-- Links to the dashboard(s) showing traffic and errors metrics: [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&fullscreen_end_ts=1730229097128&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1730225497128&fullscreen_widget=1652960129845848&refresh_mode=sliding&from_ts=1730224696206&to_ts=1730228296206&live=true)
 - Who is monitoring the dashboard(s)?: Heather Justice & Luis Simauchi
 ---
 
@@ -109,7 +104,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 01/6/20248 - 1 day
+     - 01/21/2025-01/22/2025 - 1 day
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 10%, approximately 65 page views per day
 
@@ -127,7 +122,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 01/7/2024-01/8/2024 - 2 days
+     - 01/22/2024-01/24/2024 - 2 days
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25%, about 162 users per day
 
@@ -145,7 +140,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 01/9/2024-01/13/2024 - 4 days
+     - 01/24/2025-01/27/2025 - 4 days
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 50%, about 325 users per day
 
@@ -163,7 +158,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 01/13/2024
+     - 01/27/2025
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 100%, about 650 users per day
 
@@ -180,7 +175,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal.
 
-- [Link to GA4 10-10CG Facility Page dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8un9wi5nSN-WZ-KqWHHBPA)
+- [GA4 10-10CG Facility Page dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8un9wi5nSN-WZ-KqWHHBPA)
+- [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&fullscreen_end_ts=1730229097128&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1730225497128&fullscreen_widget=1652960129845848&refresh_mode=sliding&from_ts=1730224696206&to_ts=1730228296206&live=true)
 
 ### 1-week results
 

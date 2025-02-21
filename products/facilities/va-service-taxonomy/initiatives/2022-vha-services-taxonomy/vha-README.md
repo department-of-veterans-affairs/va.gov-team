@@ -1,4 +1,4 @@
-# VHA Health Services Taxonomy
+# VHA Health Services Taxonomy 2022
 
 The VHA health services taxonomy is the official, customer-facing list of services offered across VA's 1,200 health care facilities. It was designed to create a consistent naming system for patients enrolled in VA health care. All VA digital health products should use the taxonomy.
 

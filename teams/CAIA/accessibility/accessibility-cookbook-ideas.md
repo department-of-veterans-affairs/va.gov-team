@@ -1,3 +1,9 @@
+> [!CAUTION]
+> ## This information is out of date
+> **2/20/2025:** CAIA accessibility is now the ADE team. This information has moved to our new ADE folder.
+> 
+> New link: [Accessibility cookbook ideas](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/accessibility-cookbook-ideas.md)
+
 # Cookbook Recipe Ideas
 
 - ~**When to use ARIA**: When to rely on native HTML features and when to lean on ARIA.~

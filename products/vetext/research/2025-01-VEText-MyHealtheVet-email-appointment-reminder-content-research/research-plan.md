@@ -119,8 +119,6 @@ Primary Criteria (Must-Haves):
 
 - 6 or more with cognitive disability
 
-- 3 or more in rural location
-
 - 3 or more without a degree
 
 - 2 or more women
@@ -235,7 +233,7 @@ When would you like sessions scheduled?
 
 01/30/2025 12-3:30pm ET
 
-01/31/2025 12-3:30pm ET
+01/31/2025 2-4pm ET
 
 	
 ## Team Roles	

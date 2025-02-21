@@ -2,14 +2,14 @@
 
 #### Communications
 * **Github Label**: [va-virtual-agent](https://github.com/department-of-veterans-affairs/va-virtual-agent)
-* **Slack channel**: [#va-virtual-agent-public](https://join.slack.com/share/enQtNTk5NzM1NDM2ODUxOC02NDRjNmZlYWJiYWJhOWU4Y2ViNDI1OWUyMzI5YTI4OTUwMzFkODE2OWUzOGNlOGY1M2NjOWJjMjc1MTc4YzJk), [#va-virtual-agent-platform](https://join.slack.com/share/enQtNjAwNjQ0ODU2MTA0NC0wM2IzYWQ2MWRiZTc1MTliMjExNDU1MGEyNmZjNmY5OTM0MjQ2NDIyYjhkZjAxYjQ1YTQ3ODk1ODQyOTU5M2Y5)
+* **Slack channel**: [#va-chatbot-public]([https://join.slack.com/share/enQtNTk5NzM1NDM2ODUxOC02NDRjNmZlYWJiYWJhOWU4Y2ViNDI1OWUyMzI5YTI4OTUwMzFkODE2OWUzOGNlOGY1M2NjOWJjMjc1MTc4YzJk](https://dsva.slack.com/archives/C01KTS3F493))
 
 #### Point of Contacts
 * **OCTO-DE Product Lead**: Luciana Morais, Nathalie Rayter (VES)
-* **Product Manager**: Joy Elizabeth
-* **Project Manager**: Zinal Patel
-* **Technical Lead**: Karan Krishnani
-* **Quality Analyst**: Swapna Krishnankutty
+* **Product Manager**: Vrushali Patil
+* **Project Manager**: Christina Schuler
+* **Technical Lead**: Anita Dewitt
+* **Quality Analyst**: Nida Qamar
 
 #### Platform Partners
 | Team                 | Feature                  | Initiative Brief         | Dates        |
@@ -34,18 +34,16 @@ The areas we address:
 Up until now, the bot has been trained in the following pages for general knowledge questions: 
 
 * Healthcare
-* Disability
 * PACT
 * Authentication
-* Compensation claims and appeals
-* Decision Letters
+* Compensation claims 
 * Sign-in Support
 
-Our current feature in progress is the [Prescriptions Skill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md) in partnership with OCC with the goal of allowing Veterans to list, track, and refill their prescriptions through the Chatbot. This feature is set to have a preliminary launch in October of 2023 and a Health Chat MVP launch by January 2024.
+One of our valuable features, the [Prescriptions Skill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md) built in partnership with OCC, allows Veterans to list, track, and refill their prescriptions through the Chatbot.
 
 ###  Analytics
 * [VA Chatbot DOMO Dashboard](https://va-gov.domo.com/page/939649897?userId=111029849)
-* Google Analytics
+* [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/qZQrOtnURw6343Pv7oiGbQ)
 
 The VA Chatbot measures KPIs through Google Analytics and our dashboard on DOMO. Some of our most used and/or desired measurements of success include: 
 - Engagement rates
@@ -59,7 +57,7 @@ The VA Chatbot measures KPIs through Google Analytics and our dashboard on DOMO.
 
 
 ### Incident Response
-* PoC: `#va-virtual-agent-public` Slack channel (DSVA Slack)
+* PoC: `#va-chatbot-public` Slack channel (DSVA Slack)
 * Dependent VA backends
   * vets-api
   * Lighthouse API
@@ -67,11 +65,12 @@ The VA Chatbot measures KPIs through Google Analytics and our dashboard on DOMO.
   * [Sentry](http://sentry.vfs.va.gov/organizations/vsp/dashboard/17/?environment=production&project=3)
 
 
-
 ### Release Plan
 
-Upcoming releases: 
-- Prescriptions Skill MVP: October 2023
-- Health Chat Integration MVP: January 2024
+Recent releases: 
+- Sunsetting Skills - Appeals, Decision Letters and Disability Claims: February 2025
+
+Upcoming releases:
+- Ubiquitous bot - First pass: March 2025
 
 PoV Launch: June 2021

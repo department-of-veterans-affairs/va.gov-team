@@ -1,7 +1,12 @@
 # **VA.gov Identity Team Incident Declaration Guidelines**
+## Overview
+An incident is an event that compromises the security, performance, or availability of a [service or component owned by the OCTO Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Incident%20Response/System%20Recovery%20Procedures#list-of-services). This includes outages, bugs, or performance issues that significantly impact users. All incidents are classified based on P1 to P4 priority (P1 as high priority, P4 as low priority). All declared incidents additionally are classified with a severity level sev-1 (total outage) to sev-5 (expected or low impact outage).
 
-An incident within the scope of the OCTO Identity team is an event that compromises the security, performance, or availability of key authentication services on VA.gov. This includes outages, bugs, or performance issues that significantly impact users. All incidents are classified based on P1 to P4 priority (P1 as high priority, P4 as low priority). All declared incidents additionally are classified with a severity level sev-1 to sev-5 (sev-1 representing total outage, sev-5 representing expected, or otherwise low impact outage)
-
+> [!NOTE]  
+> Incidents that impact over 1,000 users in production need to be [declared and managed in Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md).
+> - If a production alert for SSOe or SiS is active for 15 minutes or longer, it qualifies as a P1 and must be declared as an incident in Datadog.
+> - If a production outage lasts more than 15 minutes, it likely has affected 1,000 users or more.
+> - Outages shorter than 15 minutes typically do not have sufficient impact to justify an incident declaration.
 
 ## **Priority Levels**
 

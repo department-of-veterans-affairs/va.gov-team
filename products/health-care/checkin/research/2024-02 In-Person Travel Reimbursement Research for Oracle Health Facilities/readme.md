@@ -1,7 +1,7 @@
 # In-Person UAT for Travel Reimbursement on Smartphone at VA Oracle Health Facilities
 
 Date(s): TBD<br/>
-Moderator(s): TBD
+Moderator(s): Steven Straily and TBD
 
 ## Quick Links 
 

@@ -16,21 +16,23 @@ Historically, the `SavedClaim` model is used to persist form data. For the Decis
 * [SavedClaim::NoticeOfDisagreement](https://github.com/department-of-veterans-affairs/vets-api/blob/6f0cc7f516e5f4b6b14d0b0a19f86b2ccfdec753/app/models/saved_claim/notice_of_disagreement.rb)
 * [SavedClaim::SupplementalClaim](https://github.com/department-of-veterans-affairs/vets-api/blob/6f0cc7f516e5f4b6b14d0b0a19f86b2ccfdec753/app/models/saved_claim/supplemental_claim.rb)
 
-These models are populated via the respective DecisionReviewV1 controllers:
-* [HigherLevelReviewController](https://github.com/department-of-veterans-affairs/vets-api/blob/6f0cc7f516e5f4b6b14d0b0a19f86b2ccfdec753/app/controllers/v1/higher_level_reviews_controller.rb#L28)
-* [NoticeOfDisagreementsController](https://github.com/department-of-veterans-affairs/vets-api/blob/6f0cc7f516e5f4b6b14d0b0a19f86b2ccfdec753/app/controllers/v1/notice_of_disagreements_controller.rb#L27)
-* [SupplementalClaimsController](https://github.com/department-of-veterans-affairs/vets-api/blob/6f0cc7f516e5f4b6b14d0b0a19f86b2ccfdec753/app/controllers/v1/supplemental_claims_controller.rb#L110)
+These models are populated via the respective DecisionReview controllers or model method:
+* [HigherLevelReviewController](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v2/higher_level_reviews_controller.rb#L28)
+* [AppealSubmission](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/appeal_submission.rb#L64) for Notice of Disagreements
+* [SupplementalClaimsController](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/decision_reviews/app/controllers/decision_reviews/v1/supplemental_claims_controller.rb#L104)
 
-Once these records are stored, several hourly jobs fetch the latest form status and update the `metadata` column:
-* [DecisionReview::SavedClaimHlrStatusUpdaterJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/decision_review/saved_claim_hlr_status_updater_job.rb)
-* [DecisionReview::SavedClaimNodStatusUpdaterJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/decision_review/saved_claim_nod_status_updater_job.rb)
-* [DecisionReview::SavedClaimScStatusUpdaterJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/decision_review/saved_claim_sc_status_updater_job.rb)
+Once these records are stored, scheduled jobs fetch the latest form and attachment statuses to update the `metadata` column:
+* [DecisionReviews::HlrStatusUpdaterJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/decision_reviews/app/sidekiq/decision_reviews/hlr_status_updater_job.rb)
+* [DecisionReview::NodStatusUpdaterJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/decision_reviews/app/sidekiq/decision_reviews/nod_status_updater_job.rb)
+* [DecisionReview::ScStatusUpdaterJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/decision_reviews/app/sidekiq/decision_reviews/sc_status_updater_job.rb)
+
+See [DecisionReviews::SavedClaimStatusUpdaterJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/decision_reviews/app/sidekiq/decision_reviews/saved_claim_status_updater_job.rb) for the inherited base class.
 
 When a form has moved to the final success state (`complete`) along with all of the associated evidence (`vbms`), a timestamp is set (`delete_date`) to schedule the future deletion of the record.
 
-Another scheduled job [DecisionReview::DeleteSavedClaimRecordsJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/decision_review/delete_saved_claim_records_job.rb) checks for any records that has a `delete_date` in the past and deletes them from the database.
+Another scheduled job [DecisionReviews::DeleteSavedClaimRecordsJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/decision_reviews/app/sidekiq/decision_reviews/delete_saved_claim_records_job.rb) checks for any records that has a `delete_date` in the past and deletes them from the database.
 
-See [periodic_jobs.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/5a4b2c45172907ee2bf68788eb8c6f9338e7d405/lib/periodic_jobs.rb#L177-L183) for the job schedule.
+See [periodic_jobs.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/b8d7d9a6ef77b5145accea229ecb71e8f80c7b99/lib/periodic_jobs.rb#L223-L229) for the job schedule.
 
 ## Monitoring
 

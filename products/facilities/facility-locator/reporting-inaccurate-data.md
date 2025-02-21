@@ -19,7 +19,7 @@ Vet Centers | Email the name of the facility and the missing or inaccurate detai
 Vet Center Outstations | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
 Vet Centers Community Access Point  | Contact the CMS help desk (support@va-gov.atlassian.net) 
 NCA Cemeteries | XML is source of truth for name and website only. All other data comes from CDW as source of truth. Email the name of the facility and the missing or inaccurate detail to NCA through the task tracker at OEMI Digital Services Task Tracker. Email ncawebservices@va.gov for their awareness, and please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
-VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov). Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
+VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact Michelle Middaugh (email: suzanne.middaugh@va.gov) on the DSVA #facilities-support channel  and send her the link to the ticket |
 Community care providers and pharmacies (usually non-VA facilities)	| Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
 
  ## Services
