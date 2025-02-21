@@ -58,7 +58,7 @@ List of all 41 studies included in our metasynthesis evaluation:
 4. [My HealtheVet comparison study of secondary nav options, January 2024](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study)
 5. [My HealtheVet secondary navigation prototype usability study, October 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research)
 6. [My VA Discovery research - Personalization 2.0, 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
-7. [VA Mobile app - synthesis of discovery research] (_Mural is in Ad Hoc corporate space_)
+7. VA Mobile app - synthesis of discovery research (_Mural is in Ad Hoc corporate space_)
 8. [My VA & logged-in home page research, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md)
 9. [My VA redesign research findings, Dec 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
 10. [MHV Co-branding research by VA mobile app, March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/2021-03-mhv-co-branding%20research)
@@ -76,7 +76,14 @@ List of all 41 studies included in our metasynthesis evaluation:
 22. [Baseline wayfinding research on VA.gov, April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding#baseline-wayfinding-research-on-vagov-april-2021)
 23. [Mobile app current experience discovery, July 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/post-launch-discovery/2022-07-current-experience-discovery)
 24. [Health apartment tree test, Nov 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/IA-tree-test-11-2021/IA-tree-test-analysis.md)
-25. 
+25. [Review of related user research: Mobile app personalization, July 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
+26. [Mobile app personalized home screen eval research, June 2024](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-04%20evaluative%20research)
+27. [Mobile comparative analysis: Personalized and contextual home screen content, July 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md)
+28. [VA mobile app: IA and Navigation: Evaluative research, Sept 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/navigation/new%20navigation%20usability)
+29. [MHV on VA.gov Adoption of MHV, Nov 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/adoption-study/research-findings.md)
+30. [Homepage guerrilla test, Dec 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021)
+31. [Landing page usability test, March 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research)
+32. [Health and benefits info arch research: Open card sort, Oct 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort)
 
 
 
