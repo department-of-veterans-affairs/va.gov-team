@@ -25,6 +25,7 @@
     1. To find your specific record you can do `EvidenceSubmission.last` OR `EvidenceSubmission.where(claim_id: <YOUR_CLAIM_ID)` OR `EvidenceSubmission.where(claim_id: <YOUR_CLAIM_ID>, tracked_item_id: <YOUR_TRACKED_ITEM_ID>)`
     2. The new records `upload_status` should be **SUCCESS** and there should be a `delete_date`
 16. Within the ArgoCD terminal using rails console run the following commands to change the record to have an earlier delete_date and run the delete evidence submission record cron job...
+    1. NOTE: If you dont run this manually it is set up to run daily
     ```
     // Find your evidence submission passing in your claim id and tracked item id if necessary
     es = EvidenceSubmission.find_by(claim_id: <YOUR_CLAIM_ID>, tracked_item_id: <YOUR_TRACKED_ITEM_ID>)
@@ -42,13 +43,14 @@
     // Run this to verify that the record is deleted, nothing should come up
     EvidenceSubmission.where(id: <YOUR_EVIDENCE_SUBMISSION_ID>) // should return 0 results
     ```
-17. Your record should now be deleted
+18. Your record should now be deleted
 
 ## EVSS - Testing upload failure for type 1 and 2 and the document upload failure email job runs
 ### When cst_send_evidence_submission_failure_emails is enabled
 1. Perform steps 1-14 noted in the **Testing upload success section**
 2. Create an ID.me Account in Staging, instructions [here](products/claim-appeal-status/engineering/onboarding/create-idme-staging-account.md)
 3. Within the ArgoCD terminal using rails console run the following commands to change the record to a failure and run the document upload failure email cron job...
+   1. NOTE: If you dont run this manually it is set up to run daily
    ```
    // Find your evidence submission passing in your claim id and tracked item id if necessary
    es = EvidenceSubmission.find_by(claim_id: <YOUR_CLAIM_ID>, tracked_item_id: <YOUR_TRACKED_ITEM_ID>)
@@ -77,4 +79,4 @@
 
    // Look up your evidence submission record and you should see your record now has a va_notify_id and and a va_notify_date
    ```
-4. Id you changed the User Account ID of the evidence submission record then you should expect to recevie a document upload failure notification email
+5. Id you changed the User Account ID of the evidence submission record then you should expect to recevie a document upload failure notification email
