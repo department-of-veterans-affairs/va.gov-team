@@ -37,7 +37,7 @@
 - Full Stack Engineers
   - [Lee DeLarm](https://dsva.slack.com/archives/D05B37XJF8C)
   - [Bill Tran](https://dsva.slack.com/team/U08BFMHL9MF)
-  - Carlos Felix
+  - [Carlos Felix](https://dsva.slack.com/archives/D08E0TM332B)
   - [Phil DeFraties](https://dsva.slack.com/team/U089MDZ98BZ)
   - [Devin McCurdy (temporary)](https://dsva.slack.com/team/U06HX72KD7Y)
 - Front End Engineers
