@@ -26,12 +26,13 @@ In February 2025, the Cartography Team worked with OCTO research lead Robyn Sing
     * When do Veterans’ needs for health-related tools or information cross over into other areas (like benefits or education), and where does this overlap cause confusion or make it hard for them to find what they need?
 
 ## <a name="methods"></a>Methods <br>
-**Identifying a pool of previous studies**
+### Identifying a pool of previous studies
 Our team identified and analyzed 41 previous studies that we thought were most relevant to re-analysis in order to identify the rationale for previous decisions within My HealtheVet and broader authenticated experience, as well as surfacing any pain points that may still persist in 2025. These studies were initially conducted by a wide variety of teams and OCTO leads, from card-sort and tree-test studies, VAHB mobile app personalization studies, studies on the VA.gov homepage redesign, adjacent healthcare application, and more. A full list of citations to the 41 studies that were reviewed are listed below in the "Sources cited" section. 
 
-**Seeking specific information**
+### Seeking specific information
 We re-analyzed these studies, looking for research findings that touched on comprehension and navigation pain points, which rolled up to our core research questions. Since many of these studies are multiple years old, primary pain points or problems may have been solved or remedied already, so the current validity of old findings is certainly a quesiton. We paid some attention to our knowledge of what has and has not changed since each study occurred. We realized that this is an imperfect process. 
 
+### Evaluating the findings
 We bubbled up themes related to our research questions from each study, and if a given theme rang true across _more than one study_, we considered it a "finding" for the purposes of this report. However, our confidence in the validity of that finding was determined based on an evidence rating rubric. We used this rubric (see section below) to rank our findings as "low  our confidence in the severity and validity that they represent in terms of the broader user experience both within and beyond the health portal on VA.gov.  
 
 ## <a name="rubric"></a>Confidence rubric <br>
