@@ -23,7 +23,7 @@
 14. A new screen will open up with a terminal, type in `bundle exec rails c` (this will load the rails console)
 15. Run `EvidenceSubmission.count` you should see the additional record added to your count
     1. To find your specific record you can do `EvidenceSubmission.last` OR `EvidenceSubmission.where(claim_id: <YOUR_CLAIM_ID)` OR `EvidenceSubmission.where(claim_id: <YOUR_CLAIM_ID>, tracked_item_id: <YOUR_TRACKED_ITEM_ID>)`
-    2. The new records `upload_status` should be SUCCESS and there should be a `delete_date`
+    2. The new records `upload_status` should be **SUCCESS** and there should be a `delete_date`
 16. Within the ArgoCD terminal using rails console run the following commands to change the record to have an earlier delete_date and run the delete evidence submission record cron job...
     ```
     // Find your evidence submission passing in your claim id and tracked item id if necessary
