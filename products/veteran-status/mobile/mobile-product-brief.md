@@ -39,5 +39,4 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 
 * Back end development will need to be completed ahead of front end development, though some work can be done in tandem  
 * General overview of approach: API integration \> error message surfacing \> enable for all users  
-* Ticketed work  
-  * TBD
+* Ticketed work: see [the epic for this work](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/83)
