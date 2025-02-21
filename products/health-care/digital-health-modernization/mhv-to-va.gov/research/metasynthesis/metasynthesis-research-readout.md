@@ -50,6 +50,8 @@ We quickly realized the need to measure the relative evidence for each insight, 
 ## <a name="insights"></a>Insights <br>
 
 ## <a name="sources"></a>Sources cited <br>
+List of all 41 studies included in our metasynthesis evaluation: 
+
 1. [MHV on VA.gov Round 2 Initial Prototype - Usability Research/POC - mobile users, May 2024](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability))
 2. [Health wayfinding study, July 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study))
 3. [My Health IA tree-test, January 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test/research-plan.md)
