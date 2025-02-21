@@ -1,6 +1,6 @@
 # How to Test EVSS Silent Failure Work in Staging
 
-## EVSS - Upload success when cst_send_evidence_submission_failure_emails is enabled
+## Upload success when cst_send_evidence_submission_failure_emails is enabled
 ### Testing uploading a file in the CST
 1. Make sure you have ArgoCD Access
     1. If you dont have access you can go to [this](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Cplatform-tech-team-support%2Cops-access-request&projects=&template=vetsapi-argo-terminal-access.yaml&title=Vets-api+terminal+access+for+%5Bindividual%5D) link and create a github ticket to get access
@@ -48,7 +48,7 @@
     ```
 18. Your record should now be deleted
 
-## EVSS - Upload failure for type 1 and 2 when cst_send_evidence_submission_failure_emails is enabled
+## Upload failure for type 1 and 2 when cst_send_evidence_submission_failure_emails is enabled
 ### Testing uploading a file in the CST
 1. Perform steps 1-14 noted in the [Testing uploading a file in the CST](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-staging.md#testing-uploading-a-file-in-the-cst)
 2. Create an ID.me Account in Staging, instructions [here](products/claim-appeal-status/engineering/onboarding/create-idme-staging-account.md)
