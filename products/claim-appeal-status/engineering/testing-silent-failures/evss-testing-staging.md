@@ -4,27 +4,27 @@
 ### When cst_send_evidence_submission_failure_emails is enabled
 1. Make sure you have ArgoCD Access
     1. If you dont have access you can go to [this](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Cplatform-tech-team-support%2Cops-access-request&projects=&template=vetsapi-argo-terminal-access.yaml&title=Vets-api+terminal+access+for+%5Bindividual%5D) link and create a github ticket to get access
-3. Make sure you have SOCKS ACCESS
+2. Make sure you have SOCKS ACCESS
     1. If you dont have access you can go to [this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/onboarding/socks-and-sentry-access.md#how-to-get-socks-access)
     2. Make sure to Open an SSH tunnel after getting SOCKS access details in the link above
-6. Go to [ArgoCD](https://argocd.vfs.va.gov ) and login
-7. Search for the project `vets-api-staging`
-8. Selected a pod with `vets-api-web` and select `Exec`
-9. A new screen will open up with a terminal, type in `bundle exec rails c` (this will load the rails console)
-10. 14. Run `EvidenceSubmission.count` and note how many records there are
-11. Change the following feature flags...
+3. Go to [ArgoCD](https://argocd.vfs.va.gov ) and login
+4. Search for the project `vets-api-staging`
+5. Selected a pod with `vets-api-web` and select `Exec`
+6. A new screen will open up with a terminal, type in `bundle exec rails c` (this will load the rails console)
+7. Run `EvidenceSubmission.count` and note how many records there are
+8. Change the following feature flags...
     1. `benefits_documents_use_lighthouse` is disabled
     2. `cst_send_evidence_submission_failure_emails` is enabled
-8. Go to Staging and log into a user that has a claim.
-9. Select a claim from the claim status tool list,navigate to the Files Tab and upload a file
-10. Afterwards go back to [ArgoCD](https://argocd.vfs.va.gov ) and login
-11. Search for the project `vets-api-staging`
-12. Selected a pod with `vets-api-web` and select `Exec`
-13. A new screen will open up with a terminal, type in `bundle exec rails c -- sandbox` (this will load the rails console)
-14. Run `EvidenceSubmission.count` you should see the additional record added to your count
+9. Go to Staging and log into a user that has a claim.
+10. Select a claim from the claim status tool list,navigate to the Files Tab and upload a file
+11. Afterwards go back to [ArgoCD](https://argocd.vfs.va.gov ) and login
+12. Search for the project `vets-api-staging`
+13. Selected a pod with `vets-api-web` and select `Exec`
+14. A new screen will open up with a terminal, type in `bundle exec rails c -- sandbox` (this will load the rails console)
+15. Run `EvidenceSubmission.count` you should see the additional record added to your count
     1. To find your specific record you can do `EvidenceSubmission.last` OR `EvidenceSubmission.where(claim_id: <YOUR_CLAIM_ID)` OR `EvidenceSubmission.where(claim_id: <YOUR_CLAIM_ID>, tracked_item_id: <YOUR_TRACKED_ITEM_ID>)`
     2. The new records `upload_status` should be SUCCESS and there should be a `delete_date`
-15. Within the ArgoCD terminal using rails console run the following commands to change the record to have an earlier delete_date and run the delete evidence submission record cron job...
+16. Within the ArgoCD terminal using rails console run the following commands to change the record to have an earlier delete_date and run the delete evidence submission record cron job...
     ```
     // Find your evidence submission passing in your claim id and tracked item id if necessary
     es = EvidenceSubmission.find_by(claim_id: <YOUR_CLAIM_ID>, tracked_item_id: <YOUR_TRACKED_ITEM_ID>)
@@ -42,7 +42,7 @@
     // Run this to verify that the record is deleted, nothing should come up
     EvidenceSubmission.where(id: <YOUR_EVIDENCE_SUBMISSION_ID>) // should return 0 results
     ```
-16. Your record should now be deleted
+17. Your record should now be deleted
 
 ## EVSS - Testing upload failure for type 1 and 2 and the document upload failure email job runs
 ### When cst_send_evidence_submission_failure_emails is enabled
