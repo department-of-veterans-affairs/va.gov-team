@@ -1,4 +1,4 @@
-## **SMOC UAT / Beta**
+## **SMOC UAT Beta**
 
 
 ## **Background**
@@ -82,7 +82,7 @@ Zoom
 
 [Link to conversation guide](url goes here)
 
-[Link to prototype](url goes here)
+[Use feature flag on live VA.gov website](https://www.va.gov/)
 
 
 ## **Recruitment**
