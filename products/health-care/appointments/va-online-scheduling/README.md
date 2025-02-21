@@ -15,16 +15,13 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 
 ### Team members
 
-**OCTO Product Owners**
-- Kay Lawyer
-- Stephen Barrs
-- Kristen McConnell
-
-**Program Management**
-- Lauren Ernest
+**OCTO Product Leads**
+- Kay Lawyer - Product Owner
+- Stephen Barrs - Engineering Lead
+- Kristen McConnell - UX Lead
 
 **Product Management**
-- Jeff Roof (lead)
+- TBD
 
 **User Experience**
 - Peter Russo (lead)
