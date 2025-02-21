@@ -47,12 +47,17 @@ We quickly realized the need to measure the relative evidence for each insight, 
 * 30-45 points: **medium confidence** in evidence
 * 45-60points: **high confidence** in evidence
 
-
-
-
-
 ## <a name="insights"></a>Insights <br>
 
 ## <a name="sources"></a>Sources cited <br>
+1. [MHV on VA.gov Round 2 Initial Prototype - Usability Research/POC - mobile users, May 2024](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability))
+2. [Health wayfinding study, July 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study))
+3. [My Health IA tree-test, January 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test/research-plan.md)
+4. [My HealtheVet comparison study of secondary nav options, January 2024](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study)
+5. [My HealtheVet secondary navigation prototype usability study, October 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research)
+6. [My VA Discovery research - Personalization 2.0, 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
+7. [My VA & logged-in home page research, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md)
+8. [MHV Co-branding research by VA mobile app, March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/2021-03-mhv-co-branding%20research)
+9. [Health Apt Tree Test - Health Hub, Health Apt, Deeper Nav, Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1)
 
 ## <a name="next"></a>Next steps <br>
