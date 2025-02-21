@@ -17,6 +17,14 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 - [Midpoint Review - IA Feedback - Education Data Migration, Yellow Ribbon Tool #99953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99953#event-15810387277) - replied to all feedback 1/28/2025
 ### Research Submission Feedback
 - [2025-01 Yellow Ribbon Program info in CT #764](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/764)
+### Staging Review Feedback 
+- [Staging Review finding: Add header to cards #103579](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103579#event-16405016903)
+- [Staging Review finding: No capitalization after colons #103582](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103582#event-16405018216)
+- [Staging Review finding: Acronym or Initialization without context #103583](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103583#event-16405018622)
+- [Staging Review finding: Additional info component contains definition of degree levels but only appears after filters are applied #103581](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103581#event-16405017776)
+- [Staging Review finding: Use of "the" before "VA"  #103580](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103580#event-16405017312)
+- [Staging Review finding: Order of options on Degree Level dropdown doesn't match expected sequence #103577](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103577#event-16405015903)
+- [Staging Review finding: "On this page" links move viewport but don't move keyboard focus #103578](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103578#event-16405016469)
 
 ## WEAMS Public 
 - [Collaboration Cycle for Education Data Migration, WEAMS Public #90889](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90889)
