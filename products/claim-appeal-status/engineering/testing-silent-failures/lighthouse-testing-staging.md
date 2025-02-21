@@ -27,7 +27,7 @@
     2. The new records `upload_status` should be **IN_PROGRESS**
 
 ### Testing the lighthouse document upload status polling job
-1. Perform steps 1-14 noted in the [Testing uploading a file in the CST]()
+1. Perform steps 1-14 noted in the [Testing uploading a file in the CST](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-staging.md#testing-uploading-a-file-in-the-cst)
 2. Within the ArgoCD terminal using rails console run the following commands to run the lighthouse document upload status polling job...
     1. NOTE: If you dont run this manually it is set up to run hourly
     ```
@@ -53,7 +53,7 @@
 3. The record should have a `delete_date` and `upload_status` of **SUCCESS**
 
 ### Testing the delete evidence submission record job 
-1. Perform steps 1-2 noted in the [Testing the lighthouse document upload status polling job]()
+1. Perform steps 1-3 noted in the [Testing the lighthouse document upload status polling job](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-staging.md#testing-the-lighthouse-document-upload-status-polling-job)
 2. Run the following commands to change the record to have an earlier delete_date and run the delete evidence submission record cron job...
     1. NOTE: If you dont run this manually it is set up to run daily
     ```
