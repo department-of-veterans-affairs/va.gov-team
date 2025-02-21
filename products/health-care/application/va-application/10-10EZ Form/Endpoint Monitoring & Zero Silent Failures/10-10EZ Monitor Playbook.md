@@ -138,7 +138,7 @@ _last updated: 01-06-2025_
 
 - No Action needed, this alert is letting us know that the error rate is back to normal
 
-## Slack & Email Alert: "1010EZ Silent Failure on sending submission failure email"
+## Slack & Email Alert: "1010EZ Silent Failure on sending submission failure email [VA Notify callback]"
 
 - A 10-10EZ Form submission has failed submission, and the email that is sent to the Veteran has failed sending through VANotify.
 - We should have already seen a `1010EZ submission job has failed with no retries left` failure, and then this monitor would trigger roughly 24 hours later if the email also fails (The email send operation is in a sidekiq job that has 14 retries).
@@ -155,7 +155,7 @@ _last updated: 01-06-2025_
 ### Steps
 
 - There should be a corresponding rails log named `Error notification to user failed to deliver` and with metadata containing the notification_id and form id (`{ notification_record_id: notification_record.id, form_number: metadata['form_number'] }`). The form id is `10-10EZ`.
-- Query the database with `VANotify::Notification.find_by(notification_id: notification_id)` to find the failed email address. This email should correspond to a Personal Information Log from roughly 24 hours prior that is created when a 10-10EZ Form fails submission. Use this log to:
+- Query the database with `VANotify::Notification.find_by(notification_id: notification_id)` to find the failed notification record. The `to` attribute will be the Veteran's email address that we attempted to send the email message to. This email should correspond to a Personal Information Log from roughly 24 hours prior that is created when a 10-10EZ Form fails submission. Use this log to:
   - Obtain Veteran contact information (Name, Phone number)
   - Send the Veteran contact information via secure, encrypted email (from va.gov email address) to VHAHECEEDAdministrators@va.gov
   - Explain what has happened (submission failure) and provide the Veteran contact info.
