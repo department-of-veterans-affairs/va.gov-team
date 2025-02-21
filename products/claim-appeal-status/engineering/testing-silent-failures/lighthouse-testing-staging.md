@@ -1,4 +1,4 @@
-# How to Test Lighthouse Silent Failure Work Locally
+# How to Test Lighthouse Silent Failure Work in Staging
 
 ## Upload success when `cst_send_evidence_submission_failure_emails` is enabled
 ### Testing uploading a file in the CST
