@@ -2,13 +2,13 @@
 By: Athena Bozak, Florence McCafferty, Jonathan Nelson, Sara Sterkenburg
 
 ## Executive Summary
+A "metasynthesis" in research refers to a method of synthesizing and interpreting findings from multiple qualitative research studies; combining their themes and meaning in order to develop new knowledge, theories, explanations, or insights.
 
-In February 2025, the Cartography Team worked with OCTO research lead Robyn Singleton to analyze past research studies in the VA research repository through the lens of high-level research questions related to both My HealtheVet and the broader authenticated experience on VA.gov. We hoped to surface any insights that rang true across multiple studies and measure our degree of confidence in that insight. From our confidence in these insights or findings, we believe research insights with a high degree of confidence can unblock strategic business decisions that will generate known user value. Research insights with a low degree of confidence indicate that additional research will need to be conducted to confirm whether or not they are ripe for design solutioning. In effect, this research report seeks to develop a research and design roadmap: exposing known pain points in the user's navigation and behavioral experience that can move into solutioning; and possible pain points, where further research study development would make the most sense as the business is able to take it on. 
+In February 2025, the Cartography Team worked with OCTO research lead Robyn Singleton to analyze 41 past research studies from the VA research repository through the lens of high-level research questions related to both My HealtheVet and the broader authenticated experience on VA.gov. We hoped to surface new insights that held true across multiple studies, and measure our degree of confidence in that insight. We believe research insights with a high degree of confidence can unblock strategic business decisions that will generate known user value. Research insights with a low degree of confidence indicate that additional research will need to be conducted to confirm whether or not they are ripe for design solutioning. In effect, this research report seeks to develop a research and design roadmap: exposing known pain points in the user's navigation and behavioral experience that can move into solutioning; and possible pain points, where further research study development would make the most sense as the business is able to take it on. 
 
 ## On this page
 * [Research questions](#questions)
 * [Methods](#methods)
-* [Confidence rubric](#rubric)
 * [Insights](#insights)
 * [Sources cited](#sources)
 * [Next steps](#next)
@@ -27,15 +27,29 @@ In February 2025, the Cartography Team worked with OCTO research lead Robyn Sing
 
 ## <a name="methods"></a>Methods <br>
 ### Identifying a pool of previous studies
-Our team identified and analyzed 41 previous studies that we thought were most relevant to re-analysis in order to identify the rationale for previous decisions within My HealtheVet and broader authenticated experience, as well as surfacing any pain points that may still persist in 2025. These studies were initially conducted by a wide variety of teams and OCTO leads, from card-sort and tree-test studies, VAHB mobile app personalization studies, studies on the VA.gov homepage redesign, adjacent healthcare application, and more. A full list of citations to the 41 studies that were reviewed are listed below in the "Sources cited" section. 
+Our team identified and analyzed 41 previous studies that we thought were most relevant to re-analysis in order to surface any previously identified pain points related to comprehension + navigation that may still persist in relation to the My HealtheVet health portal on VA.gov and the broader authenticated experience. These studies were initially conducted by a wide variety of teams working on VA.gov, and vary in methods from card-sort and tree-test studies, evaluative research, generative research. Some broadly consider authenticated experiences on VA.gov, information organization, user needs for personalization and help, and more. A full list of citations to the 41 studies that were reviewed are listed below in the "Sources cited" section. 
 
 ### Seeking specific information
-We re-analyzed these studies, looking for research findings that touched on comprehension and navigation pain points, which rolled up to our core research questions. Since many of these studies are multiple years old, primary pain points or problems may have been solved or remedied already, so the current validity of old findings is certainly a quesiton. We paid some attention to our knowledge of what has and has not changed since each study occurred. We realized that this is an imperfect process. 
+As a team, we divided up the studies and re-analyzed each one. Some were highly releavnt to our research questions, and others turned out to be less valuable. Since many of these studies are multiple years old, primary pain points or problems may have been solved or remedied already, so the current validity of old findings is certainly a question. We paid some attention to our knowledge of what has and has not changed since each study occurred and bubbled up insights from each study. If a given insight rang true across _more than one study_, we considered it a macro "insight" for the purposes of this report. 
 
 ### Evaluating the findings
-We bubbled up themes related to our research questions from each study, and if a given theme rang true across _more than one study_, we considered it a "finding" for the purposes of this report. However, our confidence in the validity of that finding was determined based on an evidence rating rubric. We used this rubric (see section below) to rank our findings as "low  our confidence in the severity and validity that they represent in terms of the broader user experience both within and beyond the health portal on VA.gov.  
+We quickly realized the need to measure the relative evidence for each insight, and our confidence that the problem persists now in 2025. So, we developed a confidence rating rubric to rank our insights in a consistent way. Each insight will be marked with a low, medium, or high confidence rating.
 
-## <a name="rubric"></a>Confidence rubric <br>
+#### Confidence rubric:
+| # of studies | Data diversity  | Recency | Study quality/rigor |
+|:-------------|:----------------|:--------|:--------------------|
+| Single comprehensive studies (5 points) | Single method (5 points) | Outdated: more than 2 years old (5 points) | Low (5 points) |
+| Two different studies (10 points) | Two methods (10 points) | Slightly outdated: 1-2 years old (10 points) | Mild (10 points) |
+| Three or more studies (15 points) | Mixed methods (15 points) | Recent: less than 1 year (15 points) | High (15 points) |
+
+**Add values and calculate the score:**
+* 20-30 total points: **low confidence** in evidence
+* 30-45 points: **medium confidence** in evidence
+* 45-60points: **high confidence** in evidence
+
+
+
+
 
 ## <a name="insights"></a>Insights <br>
 
