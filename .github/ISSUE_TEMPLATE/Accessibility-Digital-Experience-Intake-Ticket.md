@@ -37,7 +37,7 @@ assignees: artsymartha68,sara-amanda,NaomiPMC,lakper
 - [ ] Research support [(if yes, please open an additional research ticket)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/ade-accessibility-research.yaml)
     - [ ] Discuss research plan / conversation guide / recruitment of AT users
     - [ ] Advise on accessible prototypes
-    - [ ] Schedule a [pilot session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md), with an ADE Accessibility Specialist.
+    - [ ] Schedule a [pilot session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md), with an ADE Accessibility Specialist
     - [ ] Schedule technical support, during AT research sessions
     - [ ] Document accessibility-related issues, during AT research sessions
     - [ ] Conduct research, for your team
