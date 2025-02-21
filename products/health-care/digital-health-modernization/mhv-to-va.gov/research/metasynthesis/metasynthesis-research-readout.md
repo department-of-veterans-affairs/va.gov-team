@@ -38,9 +38,9 @@ We quickly realized the need to measure the relative evidence for each insight, 
 #### Confidence rubric:
 | # of studies | Data diversity  | Recency | Study quality/rigor |
 |:-------------|:----------------|:--------|:--------------------|
-| Single comprehensive studies (5 points) | Single method (5 points) | Outdated: more than 2 years old (5 points) | Low (5 points) |
-| Two different studies (10 points) | Two methods (10 points) | Slightly outdated: 1-2 years old (10 points) | Mild (10 points) |
-| Three or more studies (15 points) | Mixed methods (15 points) | Recent: less than 1 year (15 points) | High (15 points) |
+| Two studies | 1 method (5 points) | Outdated: more than 2 years old (5 points) | Low (5 points) |
+| Three studies (10 points) | 2 methods (10 points) | Slightly outdated: 1-2 years old (10 points) | Medium (10 points) |
+| More than three studies (15 points) | Mixed methods (15 points) | Recent: less than 1 year (15 points) | High (15 points) |
 
 **Add values and calculate the score:**
 * 20-30 total points: **low confidence** in evidence
@@ -58,13 +58,19 @@ List of all 41 studies included in our metasynthesis evaluation:
 4. [My HealtheVet comparison study of secondary nav options, January 2024](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study)
 5. [My HealtheVet secondary navigation prototype usability study, October 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research)
 6. [My VA Discovery research - Personalization 2.0, 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
-7. [My VA & logged-in home page research, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md)
-8. [MHV Co-branding research by VA mobile app, March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/2021-03-mhv-co-branding%20research)
-9. [Health Apt Tree Test - Health Hub, Health Apt, Deeper Nav, Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1)
-10. [Digital Health Modernization Generative Research Study, Sept 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1)
-11. [MHV Personal info discovery, April 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/mhv-user-interviews)
-12. [MHV on VA.gov Round 1 Initial Prototype Usability Research/POC, March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability)
-13. [Claim appeal status: Initial decisions research, Apr 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-03-Initial-Decisions-CST/research-findings.md)
-14. 
+7. [My VA Personalization 2.0 strategy, 2019]
+8. [My VA & logged-in home page research, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md)
+9. [MHV Co-branding research by VA mobile app, March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/2021-03-mhv-co-branding%20research)
+10. [Health Apt Tree Test - Health Hub, Health Apt, Deeper Nav, Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1)
+11. [Digital Health Modernization Generative Research Study, Sept 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1)
+12. [MHV Personal info discovery, April 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/mhv-user-interviews)
+13. [MHV on VA.gov Round 1 Initial Prototype Usability Research/POC, March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability)
+14. [Claim appeal status: Initial decisions research, Apr 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-03-Initial-Decisions-CST/research-findings.md)
+15. [VA Mobile App IA research, 2021-2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/information-architecture)
+16. [Healthcare application flow research, Sept 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2021-09-Flow%20Research/research-findings.md)
+17. [VA Mobile App: IA and Nav Research: Close card sort, March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/information-architecture/2022-03-closed%20card%20sort)
+18. [My VA audit, March 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md)
+19. 
+
 
 ## <a name="next"></a>Next steps <br>
