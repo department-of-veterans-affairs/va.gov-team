@@ -61,5 +61,10 @@ List of all 41 studies included in our metasynthesis evaluation:
 7. [My VA & logged-in home page research, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md)
 8. [MHV Co-branding research by VA mobile app, March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/2021-03-mhv-co-branding%20research)
 9. [Health Apt Tree Test - Health Hub, Health Apt, Deeper Nav, Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1)
+10. [Digital Health Modernization Generative Research Study, Sept 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1)
+11. [MHV Personal info discovery, April 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/mhv-user-interviews)
+12. [MHV on VA.gov Round 1 Initial Prototype Usability Research/POC, March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability)
+13. [Claim appeal status: Initial decisions research, Apr 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-03-Initial-Decisions-CST/research-findings.md)
+14. 
 
 ## <a name="next"></a>Next steps <br>
