@@ -158,7 +158,7 @@ Zoom
 
 
 
-* Planned dates of research: Tuesday 3/11 - Thursday 3/20
+* Planned dates of research: Tuesday 3/11 - Wednesday 3/19
 
 
 ### **Length of sessions**
