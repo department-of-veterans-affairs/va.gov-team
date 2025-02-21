@@ -51,7 +51,10 @@
   - [Eric Oliver](https://dsva.slack.com/archives/D06M78EK1JM)
 
 ## Team Meetings Groups and Access
-- GitHub Project (write access & custom views)
+- [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y2llLXRlYW1AYWdpbGU2LmNvbQ)
+- GitHub
+    - [FE & BE Project](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1) (write access & custom views)
+    - [DO Project](https://github.com/orgs/department-of-veterans-affairs/projects/1215/views/22)
 - Slack groups
     - @backend (for BE or FS folks)
     - @frontend (for FE or FS folks)
