@@ -3,7 +3,7 @@
 * **GitHub Label:** cst-performance-optimization
 * **Slack Channel:** [#](https://lighthouseva.slack.com/messages/CJD573TMZ)benefits-team-1
 * **Product:** CST
-* **GitHub Issue:** TBD
+* **GitHub Issue:** [HERE](https://github.com/orgs/department-of-veterans-affairs/projects/1549/views/3?pane=issue&itemId=99212476&issue=department-of-veterans-affairs%7Cva.gov-team%7C103722)
 
 ---
 
