@@ -4,7 +4,7 @@ By: Athena Bozak, Florence McCafferty, Jonathan Nelson, Sara Sterkenburg
 ## Executive Summary
 A "metasynthesis" in research refers to a method of synthesizing and interpreting findings from multiple qualitative research studies; combining their themes and meaning in order to develop new knowledge, theories, explanations, or insights.
 
-In February 2025, the Cartography Team worked with OCTO research lead Robyn Singleton to analyze 33 past research studies from the VA research repository through the lens of high-level research questions related to both My HealtheVet and the broader authenticated experience on VA.gov. We hoped to surface new insights that held true across multiple studies, and measure our degree of confidence in that insight. We believe research insights with a high degree of confidence can unblock strategic business decisions that will generate known user value. Research insights with a low degree of confidence indicate that additional research will need to be conducted to confirm whether or not they are ripe for design solutioning. In effect, this research report seeks to develop a research and design roadmap: exposing known pain points in the user's navigation and behavioral experience that can move into solutioning; and possible pain points, where further research study development would make the most sense as the business is able to take it on. 
+In February 2025, the Cartography Team worked with OCTO research lead Robyn Singleton to analyze 34 past research studies from the VA research repository through the lens of high-level research questions related to both My HealtheVet and the broader authenticated experience on VA.gov. We hoped to surface new insights that held true across multiple studies, and measure our degree of confidence in that insight. We believe research insights with a high degree of confidence can unblock strategic business decisions that will generate known user value. Research insights with a low degree of confidence indicate that additional research will need to be conducted to confirm whether or not they are ripe for design solutioning. In effect, this research report seeks to develop a research and design roadmap: exposing known pain points in the user's navigation and behavioral experience that can move into solutioning; and possible pain points, where further research study development would make the most sense as the business is able to take it on. 
 
 ## On this page
 * [Research questions](#questions)
@@ -27,7 +27,7 @@ In February 2025, the Cartography Team worked with OCTO research lead Robyn Sing
 
 ## <a name="methods"></a>Methods <br>
 ### Identifying a pool of previous studies
-Our team identified and analyzed 33 previous studies that we thought were most relevant to re-analysis in order to surface any previously identified pain points related to comprehension + navigation that may still persist in relation to the My HealtheVet health portal on VA.gov and the broader authenticated experience. These studies were initially conducted by a wide variety of teams working on VA.gov, and vary in methods from card-sort and tree-test studies, evaluative research, generative research. Some broadly consider authenticated experiences on VA.gov, information organization, user needs for personalization and help, and more. A full list of citations to the 33 studies that were reviewed are listed below in the "Sources cited" section. 
+Our team identified and analyzed 34 previous studies that we thought were most relevant to re-analysis in order to surface any previously identified pain points related to comprehension + navigation that may still persist in relation to the My HealtheVet health portal on VA.gov and the broader authenticated experience. These studies were initially conducted by a wide variety of teams working on VA.gov, and vary in methods from card-sort and tree-test studies, evaluative research, generative research. Some broadly consider authenticated experiences on VA.gov, information organization, user needs for personalization and help, and more. A full list of citations to the 34 studies that were reviewed are listed below in the "Sources cited" section. 
 
 ### Seeking specific information
 As a team, we divided up the studies and re-analyzed each one. Some were highly releavnt to our research questions, and others turned out to be less valuable. Since many of these studies are multiple years old, primary pain points or problems may have been solved or remedied already, so the current validity of old findings is certainly a question. We paid some attention to our knowledge of what has and has not changed since each study occurred and bubbled up insights from each study. If a given insight rang true across _more than one study_, we considered it a macro "insight" for the purposes of this report. 
@@ -50,7 +50,7 @@ We quickly realized the need to measure the relative evidence for each insight, 
 ## <a name="insights"></a>Insights <br>
 
 ## <a name="sources"></a>Sources cited <br>
-List of all 33 studies included in our metasynthesis evaluation: 
+List of all 34 studies included in our metasynthesis evaluation: 
 
 1. [MHV on VA.gov Round 2 Initial Prototype - Usability Research/POC - mobile users, May 2024](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability))
 2. [Health wayfinding study, July 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study))
@@ -85,6 +85,7 @@ List of all 33 studies included in our metasynthesis evaluation:
 31. [Landing page usability test, March 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research)
 32. [Health and benefits info arch research: Open card sort, Oct 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort)
 33. [VA Mobile research review: Personalized app homescreen, Nov 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
+34. [Travel pay status visibility study, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2024-01-Status%20Visibility%20IA%20Study/ResearchFindings.md)
 
 
 
