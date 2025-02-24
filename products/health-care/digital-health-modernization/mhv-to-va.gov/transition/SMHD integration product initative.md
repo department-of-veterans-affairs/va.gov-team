@@ -119,7 +119,7 @@ No experience today, but current experience on MHV National Portal with Shared V
 - Team Name: MHV Portal 
 - GitHub Label(s): 
 - Slack channel: mhv-health-portal-coordination, mhv-on-vagov-cartography-team
-- Product POCs: Kaitlin Fink, Patrick Bateman, Marci McGuire
+- Product POCs: Kaitlin Fink, Patrick Bateman, Marci McGuire, Bresha Lipscomb
 
 
 #### Stakeholders
