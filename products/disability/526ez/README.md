@@ -13,7 +13,6 @@
 - Keywords: disability compensation, 21-526EZ, all claims, increase only
 - Product repo: [va.gov-team/tree/master/products/disability/526ez ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
 - Teams repo: [va.gov-team/teams/vsa/teams/disability-experience/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience)
-- Quick reference to product related information - [links here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/quick-links.md)
 - Onboarding and Orientation - [Link to doc on team repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience/onboarding#readme)
 ---
 
