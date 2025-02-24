@@ -1,6 +1,6 @@
 ---
-name: UAE UX Task Template
-about: Tasks for the Unified Appointments Experience Team
+name: UAE UX User Feedback Synthesis Template
+about: User Feedback Synthesis for the Unified Appointments Experience Team
 title: '[Team] User Feedback Synthesis - Week # 2025'
 labels: 
 assignees: ''
