@@ -5,7 +5,8 @@
 OCC has launched a new app/website for Veterans to track their shared vitals called Share My Health Data. Veterans need to be able to access this website from the patient portal on VA.gov to manage their health information from a central location.  This work needs to be complete on VA.gov by the time we sunset the MHV national portal since veterans were able to do this through the Shared Vitals feature there. 
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- [MHV Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov)
+- VAHB outline
 
 ## Problem
 - Veterans need to be able to seamlessly manage their health information from the health portal on VA.gov and VAHB.  
@@ -48,30 +49,24 @@ Data available today:
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
-
 - **Value Risks** (will people use it): 
-  - .
+  - Veterans don't understand the value of the SMHD app through the integration points on VA.gov/VAHB.
+  - Veterans don't click on the integration and we risk veterans not getting the care they need or expect of the VA because they don't share with their providers.
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - Veterans get frusturated with the experience of going between two sites/apps.
+  - Veterans need to sign-in twice.
+  - Veterans get frusturated they need to notify their providers that they are using the integration.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
-  
+  - QA/testing across multiple organizations
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+  - Coordinating strategy, content and direction across multiple organizations
 
 ### What're you building
 - A seamless sign-in integration with the new SMHD app/website from VA.gov and VAHB so users only have to authenticate once.
 - Content and placement within the portal and health section of the app that drives users to enage with the link and share their health information.
-- Careful consideration on placement and communication on VA.gov/VAHB and associating this product with MHV.  Taking lessons learned about association of MHV sign in credentials with the new portal experience. And being mindful that this is not a replacement for shared vitals but more. 
-- 
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
+- Careful consideration on placement and communication on VA.gov/VAHB and associating this product with MHV.  Taking lessons learned about association of MHV sign in credentials with the new portal experience. And being mindful that this is not a replacement for shared vitals but more. With this we should consider placing this outside of the Medical Records section on Va.gov.
+- We want to ensure there is a smooth user experience for veterans who click on this link from the VA.gov/VAHB and back again but we are not responsible for the user experience on the SMHD website/app.
+- Veterans understand the value of sharing their data with there providers and veterans who specifically need more care and support from their providers.
 
 ### Addditional Links
 - [SHMD App and Website Audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1733945376690/0922bcaa83d13ab4336e6e04608e515f73bf5033)
@@ -83,7 +78,7 @@ Notes from SME meeting 2/19 with Dr. Newton, Dr. Shah, Kim Bielicki, Theresa Han
 - We've learned from the MHV sign-in transition that communications and associating the sign-in to the new MHV experience on VA.gov can have some downsteam impacts on the Veteran experience so we should be cognizant of how we communicate the new SHMD app/website to users and where it shows up on VA.gov.  
 - The web version allows users to connect CGM devices, the mobile version veterans can connect bluetooth devices.  There is a pilot going on to understand if veterans have a prefernce of mobile vs web in connecting CGM devices.
 - There are no plans for the personal health information users can self-enter on MHV today to be added to the SHMD experience.  We know from research with veterans they have confusion with this and intepret the word share differently.  We should take this into consideration when designing the content and experience on VA.gov and the transition/sunset communications on MHV classic for self-entered information.  Also consider the language of that currently exists with the VHIE (veterans health information exchange) and sharing data through that.
-- 
+- Veterans do still have to tell they're provider they are using SMHD for them to be notified.  Providers have nothing telling them/notifying them of the patients using this app.
 
   
 #### Go-to-market 
@@ -104,7 +99,7 @@ Notes from SME meeting 2/19 with Dr. Newton, Dr. Shah, Kim Bielicki, Theresa Han
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - No later than Milestone 2 : June 4, 2025 
 - *Actual Launch Date* 
   - tbd
 
@@ -113,34 +108,21 @@ Notes from SME meeting 2/19 with Dr. Newton, Dr. Shah, Kim Bielicki, Theresa Han
 ## Screenshots
 
 ### Before
+No experience today, but current experience on MHV National Portal with Shared Vitals
+
 
 ### After
 
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
-
-<details>
-
-- Team Name: 
+- Team Name: MHV Portal 
 - GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
-
-</details>
+- Slack channel: mhv-health-portal-coordination, mhv-on-vagov-cartography-team
+- Product POCs: Kaitlin Fink, Patrick Bateman, Marci McGuire
 
 
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
-
-<details>
-  
-- Office/Department:
-- Contact(s): 
+- Office/Department: Office of Connected Care 
+- Contact(s): Dr. Terry Newton, Dr. Nil Shah, Dr. Meredith Josephs, Theresa Hancock, Kim Bielicki
  
-</details>
-
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
