@@ -35,7 +35,7 @@ This initiative will follow a structured **short-, medium-, and long-term** perf
 
 # Audiences Served  
 
-* **Veterans** using CST to track their disability compensation claims.  
+* **Veterans** using CST to track their claims.  
 * **VA.gov developers & engineers** responsible for CST maintenance.  
 * **Lighthouse API teams** supporting CST’s backend performance.  
 * **VA decision-makers** tracking performance trends and Veteran experience improvements.  
