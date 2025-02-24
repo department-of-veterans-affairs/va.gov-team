@@ -84,6 +84,7 @@ List of all 32 studies included in our metasynthesis evaluation:
 30. [Homepage guerrilla test, Dec 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021)
 31. [Landing page usability test, March 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research)
 32. [Health and benefits info arch research: Open card sort, Oct 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/information-architecture/2021-10-open%20card%20sort)
+33. [VA Mobile research review: Personalized app homescreen, Nov 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
 
 
 
