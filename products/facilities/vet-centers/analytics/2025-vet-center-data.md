@@ -87,18 +87,19 @@
 |---|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:|
 |	Addiction and substance use care (R)	|	 752 	|||||||||||||
 |	Community engagement (R)	|	 1,562 	|||||||||||||
-|	Couples and family counseling  (R)	|	 1,834 	|||||||||||||
+|	Couples and family counseling  (R)	|	 1,808	|||||||||||||
 | Grief and bereavement counseling  (R) |	 931 	|||||||||||||
 |	Homeless Veteran care (O) |	 512 	|||||||||||||
 |	Intimate partner violence support (O)	|	 90 	|||||||||||||
 |	LGBTQ+ Veteran care (O) |	 422 	|||||||||||||
-|	Mental health care  (R)	|	 2,314 	|||||||||||||
+|	Mental health care  (R)	|	 2,637 	|||||||||||||
 |	Military sexual trauma care  (R)	|	 720 	||||||||||||||	
 |	Minority Veteran care (O)	|	 240 	|||||||||||||
-|	PTSD care (R)	|2,072 ||||||||||||	
+|	PTSD care (R)	|2,062 ||||||||||||	
 |	Recreation and creative arts therapy (O)	| 120||||||||||||	
-|	Returning service member care (R)	|964||||||||||||	
+|	Returning service member care (R)	|997||||||||||||	
 |	Suicide prevention  (R)	|	421 |||||||||||||	
+| Veteran connections (R) |2,613 ||||||||||||	
 |	VR&E programs (O)	|60 ||||||||||||	
 |	Whole health (O)	|	 630 	|||||||||||||
 |	Women Veteran care (O)	|	 301 	|||||||||||||
