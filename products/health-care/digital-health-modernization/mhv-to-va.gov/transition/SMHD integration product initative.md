@@ -1,63 +1,48 @@
 # SMHD Integration to MHV on VA.gov Initiative Brief
 #### Overview
 
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
----
-
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+OCC has launched a new app/website for Veterans to track their shared vitals called Share My Health Data. Veterans need to be able to access this website from the patient portal on VA.gov to manage their health information from a central location.  This work needs to be complete on VA.gov by the time we sunset the MHV national portal since veterans were able to do this through the Shared Vitals feature there. 
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+- Veterans need to be able to seamlessly manage their health information from the health portal on VA.gov and VAHB.  
+- Veterans should be able to understand the value of using the SMHD app/website to enter their health information and share with their providers.
+- Veterans should be able to find all the tools to manage their healthcare in one place without having to carry the mental load of where they should go to look. 
 
-<!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Veterans go to va.gov/my-health or VAHB-> Health section to navigate to and manage all of their healthcare needs.
+- Veterans understand the value of using SMHD and choose to interact with it.
+- Veterans sign-in once and can maintain their credentials across the two sites/apps without having to sign-in again.
 
 ## Undesired User Outcomes
+- Veterans do not engage with the SMHD app/website from the portal/app.
+- Veterans get frusturated with the experience of going between two sites/apps.
+- Users associate this as a replacement for shared vitals.
+  
 ## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
+- Veterans use of SMHD goes up over time.
+- 
 ## Undesired Business Outcomes
--->
+- Veterans usage of SMHD goes down from the baseline use of Shared Vitals/SHMD today.
+- Users associate this as a replacement for shared vitals and don't find value in using the new app. 
 
 ---
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+> *Example: 
+> Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+ We do not have access to current data or a great baseline of use.  The success of SHMD goes beyond the reach of VA.gov/VAHB but we would like to create awareness in the product.  Team will work on KPI based on the design we move forward with.  
+
+- Increase the total number of clicks from VAHB/VA.gov | Baseline of 0 | Target X% of all users | Link to data source
+
+Data available today: 
+- Between 2021-12-17 and 2025-02-19, 12,016 veterans entered 1,045,375 observations into PGHD (Shared vitals) - Data came from Dr. Terry Newton
+- 4000 users of SMHD app as of 2/18 - Data came from Iron Bow program team Balbi Todd
 
 ---
 
@@ -80,12 +65,27 @@
     - VA stakeholder testing, marketing, compliance requirements 
 
 ### What're you building
+- A seamless sign-in integration with the new SMHD app/website from VA.gov and VAHB so users only have to authenticate once.
+- Content and placement within the portal and health section of the app that drives users to enage with the link and share their health information.
+- Careful consideration on placement and communication on VA.gov/VAHB and associating this product with MHV.  Taking lessons learned about association of MHV sign in credentials with the new portal experience. And being mindful that this is not a replacement for shared vitals but more. 
+- 
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
 
 ### Addditional Links
 - [SHMD App and Website Audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1733945376690/0922bcaa83d13ab4336e6e04608e515f73bf5033)
+
+### Addditional Context on the app 
+Notes from SME meeting 2/19 with Dr. Newton, Dr. Shah, Kim Bielicki, Theresa Hancock, Robyn Singleton, Lauren Alexanderson, Kaitlin Fink: 
+- SMHD app/website is more than just a replacement of Shared Vitals experience that exists on MHV today.  It's an ecosystem that has a lot of clinical uses and value to both providers and Veterans.
+- SMHD has it's own ATO.  Data is stored in FISMA high database and is covered under a SORN and NARA retention standards.
+- We've learned from the MHV sign-in transition that communications and associating the sign-in to the new MHV experience on VA.gov can have some downsteam impacts on the Veteran experience so we should be cognizant of how we communicate the new SHMD app/website to users and where it shows up on VA.gov.  
+- The web version allows users to connect CGM devices, the mobile version veterans can connect bluetooth devices.  There is a pilot going on to understand if veterans have a prefernce of mobile vs web in connecting CGM devices.
+- There are no plans for the personal health information users can self-enter on MHV today to be added to the SHMD experience.  We know from research with veterans they have confusion with this and intepret the word share differently.  We should take this into consideration when designing the content and experience on VA.gov and the transition/sunset communications on MHV classic for self-entered information.  Also consider the language of that currently exists with the VHIE (veterans health information exchange) and sharing data through that.
+- 
+
+  
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
