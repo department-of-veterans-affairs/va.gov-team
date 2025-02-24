@@ -1,7 +1,7 @@
 # Running Design and Research Agenda
 
 ## February 24 2025
- - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Jina Ryu, Rachel Pope, Luis Simauchi
+ - Attendees: Jamie Fiore, Lois Lewis, Jina Ryu, Rachel Pope, Luis Simauchi
      - ### Agenda Topics
      	- UX roadmap
      	- Review FMP Blueprints
@@ -10,7 +10,48 @@
      	- Review with the flow of CHAMPVA Claims
 
      - ### Notes
+     	- UX roadmap
+      		- OHI interim solution. Premal would like to see a progression from the proposed interim to final to decide if we should move forward with an interim solution or pursue the full merge.
+        	- Service Blueprints including the CHAMPVA application revisions are complete. Will review the Service Blueprints with their respective partners in the upcoming weeks:
+         		- 2-26-25: [FMP Registration](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726509235996/ff111e83b48f92992985959ac9da581b955278b5?wid=0-1739474922274)
+           		- 3-4-25: [CHAMPVA  Application/ OHI](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723309711950/72864bacb39ee1c8cd48f80735b6f6994a72b6ca?wid=877-1740102312426)
+           		- 3-5-25: [CHAMPA Claims](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723309711950/72864bacb39ee1c8cd48f80735b6f6994a72b6ca?wid=877-1740102312426)
+           		- 3-12-25 [FMP Claims](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726509235996/ff111e83b48f92992985959ac9da581b955278b5?wid=0-1739474922274)
+     	- Review FMP Blueprints
+      		- Jamie gave a review of the FMP service blueprint
+        	- The goal is to confirm the processes that are mapped out for accuracy with the FMP partners. The Designer’s questions for the partners are marked in the yellow stickies on the [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726509235996/ff111e83b48f92992985959ac9da581b955278b5?wid=0-1739474922274).
+         	- On the call, Premal will introduce our goal for creating these blueprints to the partners.
+          	- *Question:* Should we make claims on the call because it's fresh in their minds? We will try to touch on this if time permits. Premal will check if someone from claims will be on the call.
+          	- FMP claims is still not 100% in production so discussing the the claims as a part of the service blueprint calls may derail the conversation
+
+     	- Review Updates on the CHAMPVA application and OHI process questions
+      		- Jamie to work these questions on [the Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1734537770114/c43159bce476eaee8e52f597201223934411963b?wid=0-1738617772074) during the review of the CHAMPVA application service blueprints on 3-4-25
+        	- We discussed each question as a group, revised them and made notes on which to ask.
+ 
+     	- Upcoming data analysis needs for research
+      		- Question: How do we utilize data analysis to discover more insights on OHI to prepare us for the merge and future iterations?
+        	- We have CSAT surveys which Andrea should have.
+         	- We can share via SLACK with PII scrubbed.
+         	- Premal can share CSAT surveys via our VA.gov emails
+          	- We may want to utilize RUM and other analytics that our team has access to do some research on how users upload docs
+          	- We all agree that we need to streamline the document uploads on the 1010d. We all are leaning towards just requiring everything but would like to have some more research to support this.
+          	- There are some basic research questions on the [Research Planning Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1734718276719/2519a072b8fcd048659b4e146c7ba9bf73158871?wid=0-1736971900898). 
+ 
+     	- Review with the flow of CHAMPVA Claims
+      		- Issues that Lois has found while reviewing the form on staging:
+        		- There is something weird happening on the headers for the EOB upload. Designers should take  a look at it. Jamie also mentioned it is difficult at first glance to determine if the EOB upload is different from the billing statement upload. We may want to revisit that at some point.
+          		- *Question:* Why do we have the sponsor first on the claim? We believe it was a carry over from the CHAMVPA Application.
+            		- *Question:* Why are we asking to confirm eligibility for the sponsor? We believe it was a carry over from the CHAMVPA Application as well
+              		- The CHAMPVA member has no place in the form. For the short term we may change it to just capture the SSN. Engineers will need to coordinate with Designers to update the UI.
+                	- CHAMPVA may no longer be using the SSN as the CHAMPVA member number. We will look at this when it changes.  
+ 
      - ### Action Items
+     	- Rachel to mockup or present the OHI/1010d merge interim solution and compare it to the full merge.
+     	- Designers to coordinate with the engineers on the update to the CHAMPVA member number question on the Claims forms
+      	- Designers look into the issues found on the CHAMPVA staging review and discuss it with the team. It should be documented on the figma file as well.
+       	- Premal to send the CSAT surveys to the designer’s VA emails.
+       	- Designers to work with Luis on the research data needed on Supporting Document Upload
+
 
 ## February 18 2025
  - Attendees: Jamie Fiore, Lois Lewis, Andrea Merrell, Bo Altes, Jina Ryu, Rachel Pope, Luis Simauchi
