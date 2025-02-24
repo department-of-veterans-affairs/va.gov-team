@@ -1,15 +1,16 @@
 # Zero Silent Failures
 
 ## Product
-This checklist is currently scoped to the "Get Status" tool, with interactions that are read-only
+This checklist is currently scoped to the "Get Status" and Simple, Mileage-Only Claims tools, with interactions that do not involve any email confirmations or notifications.
 
 ### Checklist
 
 #### Start
 
 - [x] Do you know when your application shipped to production?
-	- Roughly mid-September 2024
-- [x] Did your application use the same APIs when it shipped as it does today?
+	- Roughly mid-September 2024 (Get Status)
+ 	- Predicted March 10, 2025 (Simple, Mileage-Only Claims)
+- [x] Do your applications use the same APIs when it shipped as it does today?
 	- Yes
 
 #### Monitoring
