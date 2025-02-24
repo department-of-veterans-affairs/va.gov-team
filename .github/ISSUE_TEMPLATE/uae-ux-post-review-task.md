@@ -1,5 +1,5 @@
 ---
-name: UAE UX Feedback/Review Template
+name: UAE UX Post-Review Task Template
 about: Feedback/Review for the Unified Appointments Experience Team
 title: ''
 labels: 
