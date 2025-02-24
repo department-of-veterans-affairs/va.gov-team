@@ -79,6 +79,15 @@ Notes from SME meeting 2/19 with Dr. Newton, Dr. Shah, Kim Bielicki, Theresa Han
 - The web version allows users to connect CGM devices, the mobile version veterans can connect bluetooth devices.  There is a pilot going on to understand if veterans have a prefernce of mobile vs web in connecting CGM devices.
 - There are no plans for the personal health information users can self-enter on MHV today to be added to the SHMD experience.  We know from research with veterans they have confusion with this and intepret the word share differently.  We should take this into consideration when designing the content and experience on VA.gov and the transition/sunset communications on MHV classic for self-entered information.  Also consider the language of that currently exists with the VHIE (veterans health information exchange) and sharing data through that.
 - Veterans do still have to tell they're provider they are using SMHD for them to be notified.  Providers have nothing telling them/notifying them of the patients using this app.
+  - There is guidance in the field for providers to tell how to use it. (AI: Kaitlin trying to get ahold of the guidance providers get)
+  - Providers can connect directly from their CPRS console to the diabetes dashboard where all the CGM data is available.
+- There is a broad ecosystem of clinical usage of the data in SMHD:
+  - meet quality metrics around hypertension
+  - continuous glucose monitors to manage diabetes
+  - connect movement and activity and tie these to move goals
+- Veterans who get continuous glucose monitors through the VA should be encouraged to connect their accounts through SMHD to share with their healthcare team.
+- SMHD web version has same features and functions as the app just no bluetooth connection.  Users can connect continuous glucose monitors (CGMs) through the website.
+- There is currently a CGM pilot with 40 pharmacists all over the VA with the web version to understand do veterans prefer a mobile or web app to connect CGM devices.
 
   
 #### Go-to-market 
