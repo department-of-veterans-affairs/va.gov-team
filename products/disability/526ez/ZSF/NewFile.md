@@ -6,5 +6,4 @@ This solution was to notify the Veteran via an email alerting to them that there
 Silent failures are any errors that occur within the application on any public facing VA platform (VA.gov, mobile application, VA Notify, et. al.) whereby the user (Veteran, claimant, 3rd party, etc.) interacting with your application is NOT made aware that an error has occurred.
 [How to discover if your application has a silent failure](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-discover-if-your-app-has-silent-failures.md)
 
-# Zero Silent Failure Emails
 
