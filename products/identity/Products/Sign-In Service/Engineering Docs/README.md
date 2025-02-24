@@ -36,7 +36,7 @@ Sign in Service is also configured to handle two types of backend authorization:
 
 * [Private Key JWT](auth_flows/private_key_jwt.md): This flow allows a backend API unconnected to the original `/authorize` request to complete auth and obtain tokens by passing a JWT signed by their pre-registered private key, essentially allowing a different client to complete the user's auth from the one that initiated it.
 
-* [Service Account Auth](auth_flows/service_account.md): This flow allows APIs to register a `Service Account` with which to request a special backend-authentication access_token; this flow is not a replacement for the regular end-user PKCE flow.
+* [Service Account Auth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)/README.md): This flow allows APIs to register a `Service Account` with which to request a special backend-authentication access_token; this flow is not a replacement for the regular end-user PKCE flow.
 
 ## Client Configuration & Service Account
 
