@@ -45,8 +45,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | UX: Define UX practice process and vision for 2025 | N/A |--|--|--|
 | UX: Complete one of the prior Medallia reports | QP4 |--|--|--|
 | ENG: Have a clear path for one debt letter by define how the letter will be technically generated | QP1 |--|--|--|
-| ENG: Have an “Alpha” version of the Wizard live on staging | QP2 |--|--|--|
-| ENG: Harden the FSR – Have fewer issues and a higher confidence in data integrity by auditing parameters sent from frontend| N/A |--|--|--|
+| ENG: Have an “Alpha” version of the Wizard live on staging | QP2 |--|2/24|Completed|
+| ENG: Harden the FSR – Have fewer issues and a higher confidence in data integrity by auditing parameters sent from frontend| N/A |--|2/24|Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals
