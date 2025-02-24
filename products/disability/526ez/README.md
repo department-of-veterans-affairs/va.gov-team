@@ -60,12 +60,12 @@
  
 
  Team 2:
- [ZenHub Workspace](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/board)
+ Github Project: [DBEX Carbs 2024 VA Disability 526](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/7)
  GitHub team label: DBEX-CARBS
 - Product manager: Lisa Capaccioli
-- Design and Research: Julie Pedtke, Nichole Nicholas
-- Engineering: Thomas Blackwell, Nathan Burgess, Sam Stuckey, Scott Regenthal
-- Delivery: Sarah Ortiz Shields
+- Design and Research: Ruben Sun, Evelyn Hillbrich Davis, Qian Chen
+- Engineering: Kyle Soskin, Nathan Burgess, Scott Regenthal, Alison Jones, JR Reed
+- Delivery: Amy Plange
 
 # Quick links
 
@@ -84,6 +84,8 @@
 |Model/Flow Board|Mural board for flow diagrams related to 526ez|[Link](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1683913843847?sender=u1dc3a1dc47390e0b38d61593&key=32140ed2-e82d-492a-b0b0-a77fe6a993ee)||
 |Issue Management Strategy|Defines rubric for assessing issues for severity as well strategy for addressing them|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=1-1683888631128)||
 |526 Flow-Active| Most up to date 526 application flow| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-11-Shadowing-Research)| November 2023|
+|526 Feature briefs | Feature briefs for new initiatives | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/product/feature-briefs)
+|Team Carbs Story Mapping | Team 2's 2024 initiatives | [Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718308823134/02c2c9ea74f16b276692af8f31eb65202acc7928)
 
 ## First Read
 |Title|Description|Link|Version|
@@ -114,7 +116,7 @@
 ## Engineering
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
-
+Engineering research | Discovery and/or technical approach documents from engineering reseach | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/engineering_research)
 
 ## Other Related
 |Title|Description|Link|Version|
