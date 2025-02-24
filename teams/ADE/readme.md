@@ -54,7 +54,8 @@ When you’re ready to conduct user research, our ADE accessibility specialists 
 - Simulating a participant using AT during a [pilot session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md)
 - Providing live technical support during AT research sessions
 - Observing research sessions with users of AT
-- Documenting accessibility-related issues encountered 
+- Documenting accessibility-related issues encountered
+- Moderating research sessions
 
 There may also be opportunities to collaborate with an accessibility researcher to conduct research. If you’re interested, let us know!
 
