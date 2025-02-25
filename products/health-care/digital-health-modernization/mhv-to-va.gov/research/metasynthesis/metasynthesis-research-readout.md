@@ -130,6 +130,44 @@ In healthcare specifically, a social listening study identified a high negative 
 - “How do I know if my wife is covered healthcare wise? Do I need to start paying for Tricare? I’ve heard a lot about CHAMPVA - should we apply for that? I’m 100% P&T sorry for all the questions and a bit of a breakdown. It’s a lot and I”m pretty confused by all of it. I just want my loved ones taken care of.” (Social listening healthcare mental model, Sept 2024)
 - I just had my first appointment yesterday and the nurse looked stunned when I told her I had no other insurance. She explained that if I were in a car crash or something, it'd be unlikely that the VA would pay for the treatment I'd receive in the ER. (Social listening healthcare mental model, Sept 2024)
 
+---
+
+### Insight 3: Veterans want to be notified about changes, updates, or new information - especially time-sensitive information. 
+
+Studies supporting this insight:
+VA Mobile App Prototype Testing and Co-Design Research, 2020
+Landing page gap analysis, July 2024
+VA Mobile research review: Personalized app homescreen, Nov 2021
+Mobile comparative analysis: Personalized and contextual home screen content, July 2023
+Review of related user research: Mobile app personalization, July 2023
+Methods:
+Usability study
+Co-design research
+Desk research
+Comparative analysis
+Details: 
+Findings around notifications emerged in five of the studies reviewed. 
+Veterans value timely, personalized notifications to enhance transparency, manage claims, and stay informed about relevant updates.
+Notifications are highly useful. Veterans value learning about something relevant as soon as possible and voiced that notifications could bring more transparency to their VA experience (VA Mobile App Prototype Testing and Co-Design Research, 2020). 
+
+Personalized notifications and more general notifications both have potential to be useful, but personal ones are much higher value (VA Mobile App Prototype Testing and Co-Design Research, 2020). 
+"There are town hall meetings - any kind of meetings - VA does lots of good things, if I knew about them I could schedule appointments and attend." -- P4
+"Notifications would be really useful - the more specific ones that are personalized. That would function the way I think VA launchpad could have been." -- P5
+"VA information would need to be more specific...important things that are happening that we need to know about and suggestions for other things I am eligible for or any changes to their policies [are the types of things I want to be notified about]." -- P2
+
+Transparency in claim status updates are critical, with Veterans requesting clear timestamps, pending status indicators, and proactive notifications (VA Mobile App Prototype Testing and Co-Design Research, 2020) 
+Veterans value a system that allows them to manage their claims and documents to the best of their ability. This management includes timely notifications, shortcuts to streamline frequent tasks, and secure messaging to receive answers on demand (Review of related user research: Mobile app personalization, July 2023). 
+
+
+Veterans' mental model around notifications is shaped by their online experiences.
+A comparative analysis reviewing 26 apps across industries found notifications in 16 of the apps reviewed. 
+Notifications were present in half of the apps, but overwhelmingly they were not included on the home screen (Mobile comparative analysis: Personalized and contextual home screen content, July 2023) 
+Further research revealed,  
+All competitors use badge indicators and/or card-style notifications to draw the user's attention to new, unread, or time-sensitive information (Landing page gap analysis, July 2024)
+
+All competitors highly personalize the page to clearly communicate information unique to the user. Personalized components (notification cards or sections with specific content) are almost always given primary hierarchy placement on the page, but some features are prioritized as secondary (i.e. notification badges that are less visually "loud" or prominent) (Landing page gap analysis, July 2024). 
+
+When it comes to notifications and updates on the My VA webpage, Veterans expect to see them at the top of the page (VA Mobile research review: Personalized app homescreen, Nov 2021) 
 
 
 ## <a name="sources"></a>Sources cited <br>
