@@ -42,7 +42,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |--|--|--|--|--|
 | UX: Define the path (PDF or HTML) version for the one VA Debt letter | QP1 |--|02/25/25|Completed|
 | UX: Finalization of wizard content mockups and prototypes for research and studies | QP2 |Blocked by CAIA|02/20/25|Blocked|
-| UX: Define UX practice process and vision for 2025 | N/A |--|--|--|
+| UX: Define UX practice process and vision for 2025 | N/A |--|2/25/25|Completed|
 | UX: Complete one of the prior Medallia reports | QP4 |--|02/25/25|Completed|
 | ENG: Have a clear path for one debt letter by define how the letter will be technically generated | QP1 |--|2/24/25|Completed|
 | ENG: Have an “Alpha” version of the Wizard live on staging | QP2 | CAIA feedback has shifted development implementation plan | 02/24/25 | Incomplete/Blocked |
