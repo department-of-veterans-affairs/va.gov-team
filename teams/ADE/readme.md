@@ -62,6 +62,16 @@ There may also be opportunities to collaborate with an accessibility researcher 
 > [!CAUTION]
 > Note that we cannot provide extensive on call technical support during research sessions. If you are worried about technical issues, we recommend running a pilot session or two with ADE specialists so that we can discuss ways to best support your needs.
 
+### VA 508 office audit review
+> [!TIP]
+> This is a new service offered by the ADE team.
+
+We will review the results of your VA 508 office audit and:
+- Determine what team owns each issue
+- Write up instructions for how to correct each issue
+- Provide those instructions to relevant teams
+- Update the VA 508 office when issues are corrected
+
 ### Accessibility test planning
 We can work with a team to develop an accessibility-focused testing plan so that during design and development you are able to continually ensure that your product is accessible. We can help develop the plan, and walk you through how to run the tests. We have experience creating plans for both automated and manual testing.
 
