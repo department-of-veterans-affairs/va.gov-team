@@ -60,11 +60,9 @@ We anticipate that this research will:
 
 We anticipate that research findings once applied will result downstream in:
 
-- Reduction in length of time and complexity required to complete the form for Veterans and advocates.
-- Reduction in length of time and complexity required to process the form for adjudicators.
+- Reduction in length of time required to complete the form for Veterans and advocates.
+- Reduction in length of time required to process the form for adjudicators.
 - Reduction in number of development letters sent to Veterans and advocates due to submission errors.
-- Increase in accuracy and effieciency for benefit approvals and dispersals.
-
 
 ### Hypotheses
 
