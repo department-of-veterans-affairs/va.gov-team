@@ -80,9 +80,7 @@ We anticipate that research findings once applied will result downstream in:
 
 ##  Methodology
 
-In phase 1, we will be facilitating two sets of semi-structured interviews with pension-eligible Veterans and advocates. We will utilize open ended questions that will help us map to the overall journey phases including: awareness, application completion, and post-submission/ benefit approval.
-
-In phase 2 we are anticipating a remote moderated usability study with the same population (see recruitment section for more detail). Details for exact methodology will be added once we are closer to phase 2 research start.
+We will be facilitating two sets of semi-structured interviews with pension-eligible Veterans and advocates. We will utilize open ended questions that will help us map to the overall journey phases including: awareness, application completion, and post-submission/ benefit approval.
 
 ### Location
 
