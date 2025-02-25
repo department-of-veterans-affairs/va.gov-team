@@ -152,8 +152,7 @@ Google Analytics traffic to Appoint a Representative ([GA4 explore report](https
 4. 683 sessions to /appoint-rep/confirmation aka the Download page
 5. 598 sessions to /appoint-rep/next-steps
 
-Contact Center calls (MyVA411): 
-- N/A
+Contact Center calls (MyVA411): None
 
 Feedback survey submmissions (Medallia): 
 - 
