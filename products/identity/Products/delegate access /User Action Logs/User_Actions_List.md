@@ -1,5 +1,23 @@
 # User Actions List
 
+### What We're Defining
+- **_Event type_**: types of access events tracked in the user action database for regulatory and compliance purposes.
+- **_Event description_**: describes the action taken and the specific asset or benefit accessed.
+
+### Guidance for Writing Event Descriptions
+- Start with one of these verbs: Add, Create, Delete, Download, Update, View
+  - We can add verbs if needed
+- Describe the action completely and concisely
+- Write event actions in the present tense, not past tense.
+- Events have a status: Initial, Success, or Error
+- Include the exact document, form, or benefit name as needed
+
+{{ User action }} {{ Resource accessed or updated }} {{ Specific form, document, or benefit }}
+
+Example: Add  direct deposit for pension and disability
+
+### Current List
+
 |   Event type    |                   Event description                    |
 | :-------------- | :----------------------------------------------------- |
 | Sign-in account | Create account on {{ Login.gov }}                      |
