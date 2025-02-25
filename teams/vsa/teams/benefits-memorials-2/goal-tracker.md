@@ -63,16 +63,17 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 3 [ 2/26/25-3/11/25] 
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-| UX: | QPX |--|--|--|
-| UX: | QPX |--|--|--|
-| UX: | QPX |--|--|--|
-| ENG: | QPX |--|--|--|
-| ENG: | QPX |--|--|--|
-| ENG: | QPX |--|--|--|
+| UX: Write VHA Payment History stakeholder and SME feedback survey and distribute for feedback | QP3 |--|--|--|
+| UX: Complete the Monthly Medallia report| QP3 |--|--|--|
+| UX: Create a Q3 2024 retrospective report for Custom Survey Medallia feedback | QP3 |--|--|--|
+| ENG: Enable the feature flag for the activation of the one VA debt letter presentation button (Staging) | QP1 |--|--|--|
+| ENG: Debts and copay data appear on the One VA debt letter (Staging) | QP1 |--|--|--|
+| ENG: Payment history feature work has begun development | QP3 |--|--|--|
+| ENG: Veterans are presented with the correct contact information (phone number updates) | N/A |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [ ] Ready to be sent for approvals
- - [ ] VA PO & COR sent the Sprint Goals
+ - [X] Ready to be sent for approvals
+ - [X] VA PO & COR sent the Sprint Goals
  - [ ] VA PO approved the Sprint Goals
  - [ ] VA COR approved the Sprint Goals
  
