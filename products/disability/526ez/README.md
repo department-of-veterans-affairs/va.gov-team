@@ -86,7 +86,7 @@
 |526 Flow-Active| Most up to date 526 application flow| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-11-Shadowing-Research)| November 2023|
 |526 Feature briefs | Feature briefs for new initiatives | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/product/feature-briefs)
 |Team Carbs Story Mapping | Team 2's 2024 initiatives | [Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718308823134/02c2c9ea74f16b276692af8f31eb65202acc7928)
-|Disability Release Plans | DBEX Release plan | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans)
+|Disability Release Plans | Disability experience team-docs release plans | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans)
 
 ## First Read
 |Title|Description|Link|Version|
