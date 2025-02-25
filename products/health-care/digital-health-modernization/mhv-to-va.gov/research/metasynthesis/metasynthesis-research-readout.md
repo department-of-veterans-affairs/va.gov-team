@@ -49,7 +49,7 @@ We quickly realized the need to measure the relative evidence for each insight, 
 
 ## <a name="insights"></a>Insights <br>
 
-**Insight 1: Veterans value personalization. They want an experience tailored to their current benefits, claims, and tasks.**
+### Insight 1: Veterans value personalization. They want an experience tailored to their current benefits, claims, and tasks.
 
 High-confidence - RQ2
 
@@ -83,7 +83,7 @@ Veterans prefer a concise overview of urgent or actionable items on a landing pa
 Many participants expressed appreciation for the personalization of My VA. Those who favored the homepage valued its versatility and the range of actions it allowed. Meanwhile, users who preferred My VA highlighted its streamlined and personalized experience. Regardless of their preference, both groups acknowledged the benefits of My VA’s personalization (My VA 2 research, March 2021). 
 ____
 
-**Insight 2: Veterans expect that VA.gov can leverage information it already has about them to surface details about additional benefits that they’re likely to be eligible for.**
+### Insight 2: Veterans expect that VA.gov can leverage information it already has about them to surface details about additional benefits that they’re likely to be eligible for.**
 
 High-confidence  RQ2
 
