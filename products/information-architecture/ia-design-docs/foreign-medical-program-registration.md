@@ -1,5 +1,6 @@
 # IA Design for Foreign Medical Program Registration
-**STATUS: Draft**
+**STATUS: FINAL**
+- 2/25/25 - Marked spec as final (MN)
 
 **Team:** IVC Forms
 **IA Request:** [74190](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74190)
