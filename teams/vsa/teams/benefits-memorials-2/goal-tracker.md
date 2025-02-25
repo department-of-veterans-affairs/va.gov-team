@@ -40,10 +40,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 2 [2/12/25-2/25/25] 
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-| UX: Define the path (PDF or HTML) version for the one VA Debt letter | QP1 |--|02/20|--|
-| UX: Finalization of wizard content mockups and prototypes for research and studies | QP2 |Blocked by CAIA|--|Blocked|
+| UX: Define the path (PDF or HTML) version for the one VA Debt letter | QP1 |--|02/25/25|Completed|
+| UX: Finalization of wizard content mockups and prototypes for research and studies | QP2 |Blocked by CAIA|02/20/25|Blocked|
 | UX: Define UX practice process and vision for 2025 | N/A |--|--|--|
-| UX: Complete one of the prior Medallia reports | QP4 |--|--|--|
+| UX: Complete one of the prior Medallia reports | QP4 |--|02/25/25|Completed|
 | ENG: Have a clear path for one debt letter by define how the letter will be technically generated | QP1 |--|2/24/25|Completed|
 | ENG: Have an “Alpha” version of the Wizard live on staging | QP2 | CAIA feedback has shifted development implementation plan | 02/24/25 | Incomplete/Blocked |
 | ENG: Harden the FSR – Have fewer issues and a higher confidence in data integrity by auditing parameters sent from frontend| N/A |--|2/24/25|Completed|
