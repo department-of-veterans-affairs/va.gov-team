@@ -1,5 +1,6 @@
 # IA Design for CHAMPVA Online Form 1010d
-**STATUS: Early draft**
+**STATUS: FINAL**
+- 2/25/25 - Marked as final (MN)
 
 **Team:** [IVC forms
 ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/README.md)
@@ -40,7 +41,6 @@ See most up-to-date user flow in mural [here](https://app.mural.co/t/departmento
   - Link destination: va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/
   - Note: this page will also be moved to the family member hub as part of that work. See IA spec for family member hub: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/family-hub-phase-1.md
     
-![champva benefits static page](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/514f4385-df84-4833-8c82-3d44994b302e)
 
 2.**Add to new family member hub left nav**
   - Placement description: The first link under CHAMPVA in the family member hub left nav
