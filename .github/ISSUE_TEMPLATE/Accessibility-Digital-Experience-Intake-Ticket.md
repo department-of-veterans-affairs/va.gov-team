@@ -41,6 +41,7 @@ assignees: artsymartha68,sara-amanda,NaomiPMC,lakper
     - [ ] Schedule technical support during AT research sessions
     - [ ] Document accessibility-related issues during AT research sessions
     - [ ] Conduct research for your team
+- [ ] VA 508 office audit review
 - [ ] Accessibility test planning
 - [ ] Support design discovery
 - [ ] Review wireframes or mockups
