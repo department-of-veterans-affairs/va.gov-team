@@ -23,6 +23,7 @@ Adding features to the process that do not make it easier for Veterans to access
 - Conversion % - % who successfully verified their ID and completed check-in/pre-check-in 
 - Error % - % of API errors on claim submission 
 - Downtime % - % of time application was not available (100 - uptime)
+- Customer Satisfaction Score - User satisfaction scores (scale 1-5) from Medallia surveys completed from OH Travel URLs for 3 questions: VA.gov Experience, VA.gov Understanding, General VA Trust
 
 ### MVP Key Performance Indicators (KPIs)
 - Steady increase travel pay requests at Oracle Health sites
