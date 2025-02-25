@@ -101,10 +101,14 @@ Zoom
 
 * All have VA health care as a benefit
 * All must have traveled for a medical appointment at least once in the past year
-* 5 must be new claimant with a complex claim for an appointment in the past 6 months that has not yet been submitted
-* 5 must be new claimant with a simple mileage only claim for an appointment in the past 6 months that has not yet been submitted
-* 5 must be established claimant with a complex claim for an appointment in the past 6 months that has not yet been submitted
-* 4 must be established claimant with simple mileage only claim in the past 6 months that has not yet been submitted
+* 3 must be new claimant with a complex claim for an appointment in the past 6 months that has not yet been submitted
+* 3 must be new claimant with a simple mileage only claim for an appointment in the past 6 months that has not yet been submitted
+* 3 must be established claimant with a complex claim for an appointment in the past 6 months that has not yet been submitted
+* 2 must be established claimant with simple mileage only claim in the past 6 months that has not yet been submitted
+* 2 must be new claimant with a complex claim for an appointment completed Wednesday, 2/19/25 - Wednesday, 2/26/25 that has not yet been submitted
+* 2 must be new claimant with a simple mileage only claim for an appointment completed Wednesday, 2/19/25 - Wednesday, 2/26/25 that has not yet been submitted
+* 2 must be established claimant with a complex claim for an appointment completed Wednesday, 2/19/25 - Wednesday, 2/26/25 that has not yet been submitted
+* 2 must be established claimant with simple mileage only claim for an appointment completed Wednesday, 2/19/25 - Wednesday, 2/26/25 that has not yet been submitted
 * 1 must be an established claimant with a recently submitted claim
 
 *Secondary criteria (nice-to-haves)*
@@ -129,12 +133,16 @@ Zoom
 2. Have you **ever** filed for travel reimbursement for your VA facility (VA Medical Center or VA Outpatient Clinic) or authorized care in the community medical appointments? You could have filed in paper, using an onsite kiosk, on your mobile phone at Check-in, or using the Beneficiary Travel Self-Service System website (BTSSS).
     * Yes, I have filed for travel reimbursement [meets established claimant criteria]
     * No, I have never filed for travel reimbursement [meets new claimant criteria]
+
+3. Did you complete a medical appointment at a VA Medical Center or VA Outpatient Clinic between the dates of Wednesday, 2/19/25 - Wednesday, 2/26/25?
+    * Yes
+    * No
       
-3. Have you filed for travel reimbursement for your most recent medical appointment at a VA Medical Center or VA Outpatient Clinic?
+4. Have you filed for travel reimbursement for your most recent medical appointment at a VA Medical Center or VA Outpatient Clinic?
     * Yes [meets criteria for confirm submission] 
     * No [meets criteria]
       
-4. Considering your most recent trip to a VA Medical Center or VA Outpatient Clinic for a medical appointment, which of the following, if any, would you file for? Select all that apply.
+5. Considering your most recent trip to a VA Medical Center or VA Outpatient Clinic for a medical appointment, which of the following, if any, would you file for? Select all that apply.
     * Reimbursement **only** for gas mileage from my house to the clinic [meets criteria for simple mileage only claimant]
     * **In addition to other costs**, reimbursement for gas mileage from my house to the clinic [meets criteria for complex claimant]
     * Reimbursement for tolls or parking I had to use to get to the clinic [meets criteria for complex claimant]
@@ -158,7 +166,7 @@ Zoom
 
 
 
-* Planned dates of research: Tuesday 3/11 - Wednesday 3/19
+* Planned dates of research: Tuesday 3/11 - Thursday 3/20
 
 
 ### **Length of sessions**
