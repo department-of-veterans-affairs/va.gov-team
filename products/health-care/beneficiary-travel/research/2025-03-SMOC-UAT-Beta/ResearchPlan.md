@@ -101,18 +101,15 @@ Zoom
 
 * All have VA health care as a benefit
 * All must have traveled for a medical appointment at least once in the past year
-* 3 must be new claimant with a complex claim for an appointment in the past 6 months that has not yet been submitted
-* 3 must be new claimant with a simple mileage only claim for an appointment in the past 6 months that has not yet been submitted
-* 3 must be established claimant with a complex claim for an appointment in the past 6 months that has not yet been submitted
-* 2 must be established claimant with simple mileage only claim in the past 6 months that has not yet been submitted
-* 2 must be new claimant with a complex claim for an appointment completed Wednesday, 2/19/25 - Wednesday, 2/26/25 that has not yet been submitted
-* 2 must be new claimant with a simple mileage only claim for an appointment completed Wednesday, 2/19/25 - Wednesday, 2/26/25 that has not yet been submitted
-* 2 must be established claimant with a complex claim for an appointment completed Wednesday, 2/19/25 - Wednesday, 2/26/25 that has not yet been submitted
-* 2 must be established claimant with simple mileage only claim for an appointment completed Wednesday, 2/19/25 - Wednesday, 2/26/25 that has not yet been submitted
+* 5 must be new claimant with a complex claim for an appointment in the past 6 months that has not yet been submitted
+* 4 must be established claimant with a complex claim for an appointment in the past 6 months that has not yet been submitted
 * 1 must be an established claimant with a recently submitted claim
+* 2 must be new claimant with a simple mileage only claim for an appointment in the past 6 months that has not yet been submitted
+* 3 must be new claimant with a simple mileage only claim for an appointment completed Wednesday, 2/19/25 - Wednesday, 2/26/25 that has not yet been submitted
+* 2 must be established claimant with simple mileage only claim in the past 6 months that has not yet been submitted
+* 3 must be established claimant with simple mileage only claim for an appointment completed Wednesday, 2/19/25 - Wednesday, 2/26/25 that has not yet been submitted
 
 *Secondary criteria (nice-to-haves)*
-
 
 
 * 10 of 20 participants are aged 55 years or older 
