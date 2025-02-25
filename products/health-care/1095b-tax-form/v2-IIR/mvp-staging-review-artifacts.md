@@ -29,7 +29,7 @@
 - 
 
 ### E2E Tests
-- 
+- Our end-to-end tests perform the required accessibility check and live here: `vets-website/src/applications/static-pages/download-1095b/tests/01-1095b-authed.cypress.spec.js`
 
 ### Code Coverage
 - 
