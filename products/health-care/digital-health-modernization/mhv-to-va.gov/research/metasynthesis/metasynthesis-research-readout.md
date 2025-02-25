@@ -69,7 +69,7 @@ High-confidence - RQ2
 
 **Details:** 
 
-_Veterans desire a personalized and centralized online experience, that streamlines access to their most relevant benefits, tasks, and personalized notifications. _
+Veterans desire a personalized and centralized online experience, that streamlines access to their most relevant benefits, tasks, and personalized notifications.
 
 **Examples across the study:**
 
