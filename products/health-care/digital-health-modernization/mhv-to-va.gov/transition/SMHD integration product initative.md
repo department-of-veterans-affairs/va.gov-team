@@ -118,6 +118,7 @@ Notes from SME meeting 2/19 with Dr. Newton, Dr. Shah, Kim Bielicki, Theresa Han
 
 ### Before
 No experience today, but current experience on MHV National Portal with Shared Vitals
+![image](https://github.com/user-attachments/assets/e2f132ae-ae6a-493e-8bbf-8fed81d44210)
 
 
 ### After
