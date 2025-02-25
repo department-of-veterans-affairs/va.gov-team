@@ -113,10 +113,29 @@
 |-----|-----------|----|-------|
 |ITF Migration|DataDog Dashboard for monitoring LH and EVVS traffic during migration|Link||
 
+## Features/Initiatives
+TODO: should be adding project features here? or link to a different page 
+
 ## Engineering
-|Title|Description|Link|Version|
+#### Github Repos
+|Title|Description|Link|
+|-----|-----------|----|
+#### Monitoring
+|Title|Description|Link|Last Updated|
+|-----|-----------|----|-------|
+#### Support/Remediation (Production SOP)
+|Title|Description|Link|Last Updated|
+|-----|-----------|----|-------|
+#### Documentation
+|Title|Description|Link|Last Updated|
 |-----|-----------|----|-------|
 Engineering research | Discovery and/or technical approach documents from engineering reseach | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/engineering_research)
+|Engineering Audit/Inventory|A list of engineering documents and a storehouse for documents saved in a non-standard format|[SharePoint folder](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Engineering/Audit%20and%20Inventory?csf=1&web=1&e=ZCN3CN)|01/31/25|
+#### Tech Debt
+TODO: Highlight important tech debt items
+#### Zero Silent Failures
+TODO: Examples of failures before/after
+TODO: Policies 
 
 ## Other Related
 |Title|Description|Link|Version|
