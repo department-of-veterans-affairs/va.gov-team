@@ -73,6 +73,7 @@ Data available today:
 - Sandbox: https://smhd2.mapsandbox.net/smhdWeb/
 - Staging/SQA: https://veteran.apps-staging.va.gov/smhdWeb
 - Production: https://veteran.apps.va.gov/smhdWeb/
+- https://mobile.va.gov/app/share-my-health-data
 
 ### Addditional Context on the app 
 Notes from SME meeting 2/19 with Dr. Newton, Dr. Shah, Kim Bielicki, Theresa Hancock, Robyn Singleton, Lauren Alexanderson, Kaitlin Fink: 
