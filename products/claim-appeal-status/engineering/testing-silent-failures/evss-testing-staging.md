@@ -113,26 +113,3 @@
    // Note the # of failed records increased by 5
    EvidenceSubmission.failed.count
    ```
-
-### Query for mass updating records from SUCCESS to FAILED for Ligthhouse
-1. Add uploads to stating
-2. Within the ArgoCD terminal using rails console run the following commands to change multiple records to a failure...
-   ```
-   // Check number of records created today for Lighthouse (BenefitsDocuments::Service)
-   EvidenceSubmission.where(upload_status: 'SUCCESS', job_class: 'BenefitsDocuments::Service', created_at: Time.zone.now.beginning_of_day..Time.zone.now.end_of_day).count
-
-   // Note the # of failed records
-   EvidenceSubmission.failed.count
-
-   // Add limit to only grab a certain # of those records for Lighthouse (BenefitsDocuments::Service) and update them to be failed
-   // Copy and paste all of this into rails c and it should work
-   evidence_submissions = EvidenceSubmission.where(upload_status: 'SUCCESS', job_class: 'BenefitsDocuments::Service', created_at: Time.zone.now.beginning_of_day..Time.zone.now.end_of_day).limit(5)
-   evidence_submissions.all.each do | es |
-       new_personalisation = JSON.parse(es.template_metadata)['personalisation']
-       new_personalisation['date_failed'] = new_personalisation['date_submitted']
-       es.update(template_metadata: { personalisation: new_personalisation }.to_json, upload_status: 'FAILED', delete_date: nil, acknowledgement_date: es.created_at + 30.days, failed_date: es.created_at, error_message: 'EVSS::DocumentUpload document upload      failure')
-   end
-
-   // Note the # of failed records increased by 5
-   EvidenceSubmission.failed.count
-   ```
