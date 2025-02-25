@@ -13,7 +13,7 @@
 - [Testing](#testing)
 - [Releasing](#releasing)
 - [Measuring Success](#measuring-success)
-    - [Key Performance Indicators](#key-performance-indicators}
+    - [Key Performance Indicators](#key-performance-indicators)
     - [Metrics to Capture](#metrics-to-capture)
     - [Metrics Dashboards](#metrics-dashboards)
 
