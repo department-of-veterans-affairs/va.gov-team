@@ -8,7 +8,7 @@ Three studies previously completed by the pension team include: [VSO Research (F
 
 Although some form changes have been [prioritized](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/Pension-Related%20Research%20Discovery%20Findings%20and%20Prioritization.md) to address issues that interfere with accurate and efficient benefit dispersals, opportunity exists to validate and deepen learnings specifically with pension-eligible Veterans and Veteran advocates (such as family members); who were identified in previous research as likely to have a large role in supporting or even driving pension applications. 
 
-This study aims to better establish understanding of end users and their experience learning about, applying for, maintaining, and receiving Veterans Pension benefits. We also seek to validate existing learnings and applicable design changes to ensure they are meeting and exceeding user needs. We hypothesize that taking a phased approach focused on both exploratory and evaluative research, will (1) provide a more holistic understanding of the pension-eligible Veteran journey, (2) align more closely with user needs and (3) therefore inform design improvements in more impactful ways.  
+This study aims to better establish understanding of end users and their experience learning about, applying for, maintaining, and receiving Veterans Pension benefits. We also seek to validate existing learnings and applicable design changes to ensure they are meeting and exceeding user needs. This study will lay the groundwork for future usability studies focused on speeding up completion and processing of the form, reducing errors leading to avoidable development letters, and meeting the needs of Veterans and advocates better.   
 
 
 ### OCTO Priorities
@@ -31,8 +31,6 @@ This research maps to the following stages of the [Veteran journey](https://gith
 
 ## Research Goals
 
-### Phase 1: Discovery (Exploratory)
-
 **1. Better understand our end users and their experience learning about, applying for, maintaining, and receiving Veterans Pension benefits.**
 
 - How do users learn about the Veteran pension benefit? (Awareness)
@@ -45,13 +43,6 @@ This research maps to the following stages of the [Veteran journey](https://gith
 
 - What are the convergences and divergences in the Veteran and advocate experience in this study compared to existing research?
 
-### Phase 2: Usability (Evaluative) 
-
-*As this is based on pending design work and learnings from phase 1, we have included some details below but will update before phase 2 starts in more detail.* 
-
-**Validate design changes to the form based on previous usability testing and other research.**
-
-- Will likely include design fixes and other improvements with the highest direct impact to increase accuracy and efficiency based on previous research, such as the Financial and Household Information sections. 
 
 ### Outcomes
 
@@ -72,6 +63,7 @@ We anticipate that research findings once applied will result downstream in:
 - Reduction in length of time and complexity required to complete the form for Veterans and advocates.
 - Reduction in length of time and complexity required to process the form for adjudicators.
 - Reduction in number of development letters sent to Veterans and advocates due to submission errors.
+- Increase in accuracy and effieciency for benefit approvals and dispersals.
 
 
 ### Hypotheses
@@ -102,15 +94,11 @@ Research materials for moderated interviews include:
 
 - Conversation guide (link to come)
 
-- Conversation stimuli (likely relevant in phase 2)
-
 ## Recruitment
 
 ### Recruitment approach
 
-Using Perigean to recruit for phase 1, we would like to schedule: 15 pension-eligible Veteran participants and 10 pension-eligible Veteran family members or other advocates in order to achieve 6-8 completed sessions for each user group.
-
-For phase 2 we would like to provide first invites to phase 1 participants to build on previously established rapport (as this is a hard to engage population) and provide transparency to those initially engaged and then launch a second recruiting effort using Perigean that accounts for attrition.
+Using Perigean to recruit, we would like to schedule: 15 pension-eligible Veteran participants and 10 pension-eligible Veteran family members or other advocates in order to achieve 6-8 completed sessions for each user group.
 
 ### Recruitment criteria
 
