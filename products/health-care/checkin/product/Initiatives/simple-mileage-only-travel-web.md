@@ -16,9 +16,16 @@ Adding features to the process that do not make it easier for Veterans to access
 
 ## Measuring Success
 
+### Metrics to Capture
+- Audience - Count of successful ID verifications
+- Completions - Count of check-ins/pre-check-ins completed 
+- Verification % - % who attempted to verify their ID and succeeded
+- Conversion % - % who successfully verified their ID and completed check-in/pre-check-in 
+- Error % - % of API errors on claim submission 
+- Downtime % - % of time application was not available (100 - uptime)
+
 ### MVP Key Performance Indicators (KPIs)
 - Steady increase travel pay requests at Oracle Health sites
-- At least 70% check in completion rate once a Veteran authenticates their identity
 - Favorable feedback from Veterans who use travel pay reimbursement at OH facilities
 
 ## Launch Planning
