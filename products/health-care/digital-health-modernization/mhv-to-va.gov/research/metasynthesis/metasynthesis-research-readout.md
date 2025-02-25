@@ -49,6 +49,39 @@ We quickly realized the need to measure the relative evidence for each insight, 
 
 ## <a name="insights"></a>Insights <br>
 
+**Insight 1: Veterans value personalization. They want an experience tailored to their current benefits, claims, and tasks.**
+
+High-confidence - RQ2
+
+**Studies this insight appeared in:**
+- Landing page gap analysis, July 2024
+- My VA audit, March 2023
+- Mobile comparative analysis: Personalized and contextual home screen content, July 2023
+- VA Mobile App IA research, 2021-2022
+- VA Mobile App Prototype Testing and Co-Design Research, 2020 
+- My VA redesign research findings, Dec 2020
+
+**Methods:**
+- Usability study
+- Co-design research
+- Discovery research
+- Card sort
+
+**Details:** 
+
+_Veterans desire a personalized and centralized online experience, that streamlines access to their most relevant benefits, tasks, and personalized notifications. _
+
+**Examples across the study:**
+
+"Veterans want their experience to be tailored to them—a 'digital version of themselves'” reflecting what matters to them, right now (Review of related user research: Mobile app personalization, July 2023). 
+
+"Veterans want a page that is focused on current information specific to them, rather than generalized information for all Veterans " (VA.gov home page user research, 2023). 
+
+Veterans had positive reactions to seeing My VA immediately upon login because it was more personalized and showed them "their stuff" (My VA audit, March 2023).
+Veterans prefer a concise overview of urgent or actionable items on a landing page...(My VA redesign research findings, Dec 2020). 
+
+Many participants expressed appreciation for the personalization of My VA. Those who favored the homepage valued its versatility and the range of actions it allowed. Meanwhile, users who preferred My VA highlighted its streamlined and personalized experience. Regardless of their preference, both groups acknowledged the benefits of My VA’s personalization (My VA 2 research, March 2021). 
+
 ## <a name="sources"></a>Sources cited <br>
 List of all 34 studies included in our metasynthesis evaluation: 
 
