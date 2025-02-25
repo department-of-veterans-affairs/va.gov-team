@@ -57,6 +57,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
+- **ENG: Have an “Alpha” version of the Wizard live on staging**
+  - Our front end team worked on implementing the initial (bare bones) version of the wizard based on a "sub task" design where veterans answer a series of questions to determine if the FSR was the appropriate for resolving their issue. The effort has been blocked pending additional guidance from the CAIA team since we may be continuing with an alternate approach.
 
 
 
