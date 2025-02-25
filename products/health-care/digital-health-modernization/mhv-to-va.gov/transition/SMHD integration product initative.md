@@ -70,6 +70,9 @@ Data available today:
 
 ### Addditional Links
 - [SHMD App and Website Audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1733945376690/0922bcaa83d13ab4336e6e04608e515f73bf5033)
+- Sandbox: https://smhd2.mapsandbox.net/smhdWeb/
+- Staging/SQA: https://veteran.apps-staging.va.gov/smhdWeb
+- Production: https://veteran.apps.va.gov/smhdWeb/
 
 ### Addditional Context on the app 
 Notes from SME meeting 2/19 with Dr. Newton, Dr. Shah, Kim Bielicki, Theresa Hancock, Robyn Singleton, Lauren Alexanderson, Kaitlin Fink: 
