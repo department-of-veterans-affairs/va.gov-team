@@ -153,6 +153,7 @@ Google Analytics traffic to Appoint a Representative ([GA4 explore report](https
 5. 598 sessions to /appoint-rep/next-steps
 
 Contact Center calls (MyVA411): None
+
 Feedback survey submmissions (Medallia): General VA frustration or searching for a representative. There was one Appoint-specific comment, indicating the user was looking to submit their 21-22 online but could not.
 
 **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?**  
