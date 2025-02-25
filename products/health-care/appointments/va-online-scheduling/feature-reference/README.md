@@ -116,7 +116,7 @@ These pages are the starting point for all the other scheduling flows. Users are
 ### Direct Schedule Community Care Appointments
 | Feature | Description |
 |---|---|
-| [Direct schedule community care appointment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/feature-reference/community-care-direct-scheduling/community-care-feature-reference.md)  | Veteran can directly schedule a community care appointment |
+| [Direct schedule community care appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/feature-reference/community-care-direct-scheduling/community-care-feature-reference.md)  | Veteran can directly schedule a community care appointment |
 
 ### Direct-Schedule COVID-19 vaccine appointments
 
