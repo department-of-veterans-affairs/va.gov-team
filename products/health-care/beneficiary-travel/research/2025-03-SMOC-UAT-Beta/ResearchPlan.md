@@ -80,7 +80,7 @@ Zoom
 
 ### **Research materials**
 
-[Link to conversation guide](url goes here)
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2025-03-SMOC-UAT-Beta/ConversationGuide.md)
 
 [Use feature flag on live VA.gov website](https://www.va.gov/)
 
