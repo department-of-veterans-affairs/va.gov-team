@@ -23,8 +23,11 @@ As a Veteran, I would like to..... so that I can......
     - [ ] QA Plan
     - [ ] Release Plan
     - [ ] Product Guide(s)
-        - [ ] [GitHub PDF copy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/vaos-product-guide.pdf)
-        - [ ] [SharePoint Word copy](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Appointments/Appointments%20FE%20Product%20Guide/Appointments%20FE%20Product%20Guide.docx?d=wb3c411ab0f244546b84fe712991bea7a&csf=1&web=1&e=Q2gzGx)
+        - Appointments
+            - [ ] [GitHub PDF copy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/vaos-product-guide.pdf)
+            - [ ] [SharePoint Word copy](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Appointments/Appointments%20FE%20Product%20Guide/Appointments%20FE%20Product%20Guide.docx?d=wb3c411ab0f244546b84fe712991bea7a&csf=1&web=1&e=Q2gzGx)
+        - eCheck-in, Pre-Check-in, & OH Travel
+            - [ ] [Word & PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/README.md)
     - [ ] Release Notes
 - Metrics
     - [ ] Define Metrics to Capture
