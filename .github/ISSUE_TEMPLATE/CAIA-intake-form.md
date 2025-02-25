@@ -1,17 +1,16 @@
 ---
-name: Sitewide Content, Accessibility, and IA Intake Form
-about: Use this ticket to start collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA)  team.
-title: "[CAIA Intake] <Team Name>: <Initiative Name>"
+name: Content and IA Centralized Team Intake Form
+about: Use this ticket to start collaboration on a new initiative with the centralized content and information architecture team.
+title: "[Content/IA Intake] <Team Name>: <Initiative Name>"
 labels: sitewide CAIA, CAIA Intake
 assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA,mnorthuis
 
 ---
-# Content, accessibility, information architecture (CAIA) new initiative collaboration request
+# Content and information architecture collaboration request
 
 Use this ticket to request collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) shared services team. Feel free to delete instructions and unselected options from the ticket to make it easier to scan.
 
 ## Your team
-
 
 - **Product name:**
 - **Team name**:
@@ -22,7 +21,7 @@ Use this ticket to request collaboration on a new initiative with the sitewide c
 - **Dedicated content writer on your team (if you have one):** 
 - **Dedicated a11y specialist on your team (if you have one):**
 
-## CAIA specialists involved
+## Content and IA team members assigned:
 _Filled out by CAIA_
 - **IA:** 
 - **Content:** 
