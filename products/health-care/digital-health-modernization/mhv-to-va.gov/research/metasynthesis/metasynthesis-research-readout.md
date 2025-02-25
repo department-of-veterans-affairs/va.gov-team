@@ -81,6 +81,56 @@ Veterans had positive reactions to seeing My VA immediately upon login because i
 Veterans prefer a concise overview of urgent or actionable items on a landing page...(My VA redesign research findings, Dec 2020). 
 
 Many participants expressed appreciation for the personalization of My VA. Those who favored the homepage valued its versatility and the range of actions it allowed. Meanwhile, users who preferred My VA highlighted its streamlined and personalized experience. Regardless of their preference, both groups acknowledged the benefits of My VA’s personalization (My VA 2 research, March 2021). 
+____
+
+**Insight 2: Veterans expect that VA.gov can leverage information it already has about them to surface details about additional benefits that they’re likely to be eligible for.**
+
+High-confidence  RQ2
+
+**Studies supporting this insight:**
+
+- VA Mobile App Prototype Testing and Co-Design Research, 2020
+- Logged-in homepage research, 2020
+- Mobile app discovery, 2022
+- Mobile app personalization, July 2023
+- Landing page gap analysis, July 2024
+- Generative research on transitioning service-members, 2024
+- Social listening healthcare mental model, Sept 2024
+- VA mobile app prototype testing and co-design research [insert date]
+- Health apartment tree test 2021
+  
+**Methods:**
+
+- Usability study
+- Co-design research
+- Discovery research
+- Social listening
+- Tree-test
+
+**Details:**
+
+Across at least 9 studies and nearly 30% of the studies reviewed for this metasynthesis, there are recurrent themes of Veterans expecting the VA to leverage known information about them to connect them with additional benefits that they may be eligible for.
+
+More specifically, Veterans are interested in clear information that helps them: 
+
+- Learning about benefits that they may not already know about;
+- Understand the likelihood of their eligibility before taking the time to apply
+- Whether or not their family members are eligible for care
+- How to determine their eligibility for additional health benefits like dental and vision care 
+
+**Example findings from various studies:**
+
+- “Veterans are overwhelmed … [they] do not know what they’re eligible for, and aren’t sure how to find out. Veterans expect the VA to make use of their personal information: personalize their VA.gov and MHV experience, use personal and military information to make recommendations for benefits they are likely to be eligible for.” (Logged-in homepage research, 2020)
+- Many Veterans suggested that a “benefits screening tool” or recommendation system could surface benefits they may be eligible for based on their profile. (Digital Health Modernization Generative Research Study, Sept 2021)
+- "[I want to know] things we may be eligible for: all the resources VA offers. For example, I didn't know about Vocational Rehab until the VA person who helped me do my claim told me about it. [I’d like to see it all together] on one page instead of going through websites." - (P2, VA mobile app prototype testing and co-design research)
+- The GI Bill comparison tool is great but what are the other things you could be eligible for? There is no quick and dirty "this is what you may be qualified for." (P3, Transitioning service-member interview; My VA Personalization 2.0 discovery research) 
+
+In healthcare specifically, a social listening study identified a high negative sentiment around eligibility (7/25 posts analyzed), and also found that there is significant misinformation about how eligibility and care coverage works (10/26 posts analyzed). Veterans expect transparency when they become eligible for a new benefit type, or a change in the amount of coverage; but on the other hand they also expect to be notified if their coverage decreases or they lose access. 
+
+- “How do I know if my wife is covered healthcare wise? Do I need to start paying for Tricare? I’ve heard a lot about CHAMPVA - should we apply for that? I’m 100% P&T sorry for all the questions and a bit of a breakdown. It’s a lot and I”m pretty confused by all of it. I just want my loved ones taken care of.” (Social listening healthcare mental model, Sept 2024)
+- I just had my first appointment yesterday and the nurse looked stunned when I told her I had no other insurance. She explained that if I were in a car crash or something, it'd be unlikely that the VA would pay for the treatment I'd receive in the ER. (Social listening healthcare mental model, Sept 2024)
+
+
 
 ## <a name="sources"></a>Sources cited <br>
 List of all 34 studies included in our metasynthesis evaluation: 
