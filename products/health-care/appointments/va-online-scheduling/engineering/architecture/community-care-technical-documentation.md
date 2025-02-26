@@ -264,7 +264,14 @@ Response when an appointment is found
   ]
 }
 ```
-### * POST `/vaos/v2/draft_appointment/` (new?)
+### * POST `/vaos/v2/epsApi/draftReferralAppointment` (new?)
+Request:
+```
+{
+  "referralId": "add2f0f4-a1ea-4dea-a504-a54ab57c6800"
+}
+```
+Response:
 ```
 {
   "appointment": {
