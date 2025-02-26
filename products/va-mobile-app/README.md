@@ -10,53 +10,32 @@ Nearly 40% of all traffic to VA.gov comes from users on their mobile devices. Th
 
 ### VA Product Owners
 
-- Rachel Han
 - Ryan Thurlwell (Design)
-- Don McCaughey (Engineering)
 
-### Program Management
+### Product
 
-- Seth Eheart - Program Manager
+- Becca Tupaj - Product Lead
+- Brenda Rocha - Product Manager
 
-### Product & Data
+### Design
 
-- Matt Hall - Product Leadership
-- Ameet Sarkar - Product
-- Stacy Blackwood - Product
-- Alayna Abel - Product
-- Kelly Lein - Product
-- Victor Ezeamama - Data
-
-### UX
-
-- Holly Collier - UX Leadership
-- Brea Blackwelder - Accessibility Design
-- Lauren Russell - Design
-- Jessica Woodin - Design
-- Megan Graham - Research
-- Misty Milliron-Grant - Content Strategist
+- Jonathan Post - Designer
+- Kira Evsanaa - Designer / Researcher
 
 ### Engineering
 
-- Tim Wright - Engineering Leadership
-- Chika Adibemma - Engineer
-- Chris Alexander - Engineer
-- Theo Bentum - Engineer
+- Tim Wright - Engineering Lead
+- Chris Troiano - Engineer
+- John Marchi - Engineer
 - Jon Bindbeutel - Engineer
-- Jason Conigliari - Engineer
-- Andrew Herzberg - Engineer
-- Dylan Nienberg - Engineer
-- Jayson Perkins - Engineer
-- Narin Ratana - Engineer
-- Tim Roettger - Engineer
-- Rachel Bontrager - Engineer, QA
-- Therese Dickson - Engineer, QA
-- Tom Gammons - Engineer, QA
-- Charnelle Domguia - Engineer, Dev Ops
+- Ken Li - Engineer
+- Ryan McNeil - Backend Engineer
+- Tony Doan - Engineer
+- Ken Harrison - Engineer, QA
+- Josh Bergman - Engineer, Dev Ops
 
 ## Communications
 - DSVA Slack: #va-mobile-app
-- Zenhub tag: va-mobile-app
 
 
 
