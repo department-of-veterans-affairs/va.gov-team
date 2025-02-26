@@ -52,13 +52,23 @@
 _Research and Design are blocked on the 0781 Research work._
 
 ## Sumary
+This sprint we have two people out of office for part of the time which will decrease some of our velocity. 
 
+The goal of this sprint is to complete as much of the frontend user experience first. We have some a lot of scope changes that we want to get in which includes the content changes Liz requested, new pages to support the 0781 questions (Types of medical providers and Supporting evidence document types) and adding the 0781 Review page. The destructive action modals are high priority and our largest amount of work. This is a new solution that has not been implemented before in Beneafits and Claims. We believe our solution is doable, but we could run into possible blockers and issues as we navigate through the solution to remove data for the first time. 
 
+Design has some minor changes to the design specs to support the team better in finding the "final" versions of the scope changes. 
+
+With the announcement that the Perigean contract for managing and scheduling research participants was cancelled, the research on 0781 will be blocked. This impacts the following planned work:
+- Support Perigean to recruit participants for 0781 research study, #101889
+- Conduct 0781 research sessions, #103937
+
+The team will follow up with OCTO for any changes and suggestions to work around this blocker. If we can't unblock the work, the team will regroup to think of other ways Research & Design can use this sprint time. 
+
+In addition to the 0781 Paper Sync we have some effort to support the remediation team on claims that failed due to invalid emails and we are also doing the March benefits-disability-notifications alerts watch. Any new issues may decrease capacity on 0781 depending on the severity. We'll keep the communication going and making sure that OCTO is aware of any impacts this additional work will have on our delivery. 
 
 [Roadmap for Disability Benefits (DBEX) Team 2 (Carbs)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?wid=0-1728398176278)
 
 [DBEX Carbs 2024 VA Disability 526 - Current sprint board](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/9)
 
 ## Notes
-- We are not prioritizing any remediation work at this time. 
 - OCTO has not prioritized the Disability apps' compliance with the Front-end deployment pipeline changes for vets-website (Shedule to be due Feb 3, 2025) - no word if there will be any impacts to us if we don't have it done by Monday. 
