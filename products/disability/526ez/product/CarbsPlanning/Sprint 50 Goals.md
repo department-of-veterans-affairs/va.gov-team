@@ -7,7 +7,7 @@
     - 0781 Paper Sync
       - Scope change - Content change for 0781 opt in page
       - Scope change - Content change for behavioral changes intro
-      - Bug - behavior types error message focus _(stretch goals, this is a component bug that impacts more than just behavioral types and needs a new solution) _
+      - Bug - behavior types error message focus _(stretch goals, this is a component bug that impacts more than just behavioral types and needs a new solution)_
 
    
   - Nathan Burgess
@@ -43,7 +43,7 @@
     - Spike - opt out of a file upload needs solutioning _Stretch goal and might be move to out of scope_
   - Silent Failure
     - Reprocessing of two 526 evidence failures	
-    - 
+    
 
 
 ## Research and Design
