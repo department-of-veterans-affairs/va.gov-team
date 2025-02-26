@@ -183,16 +183,8 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
-
-_Create design tickets to address recommendations and finding_
-
-_Iterate on design incorporating insights from this study_
-
-
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+* _Create design tickets to address recommendations and finding_
+* _Iterate on design incorporating insights from this study_
 
 
 ## Appendix
