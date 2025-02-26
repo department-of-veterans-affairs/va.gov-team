@@ -1,9 +1,7 @@
 > [!CAUTION]
-> ## Team Transition In Progress
-> **1/31/2025:** CEDAR's CAIA contract has concluded and the new SPRUCE contract has begun for Accessibility Digital Experience.
-> - Accessibility DE is OCTO’s new accessibility team (all the same faces, and a few new ones!).
-> - We’re currently working on a new intake process for accessibility, a new channel, tags, updates to GitHub and more.
-> - If you need accessibility support, during this time of transition, please contact the Accessibility DE team on [#accessibility-help channel](https://dsva.slack.com/archives/C8E985R32).
+> ## This information is out of date
+> **2/20/2025:** CAIA accessibility is now the ADE team. This information has moved to our new ADE folder.
+> New link: [Accessibility Digital Experience (ADE) team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/readme.md)
 
 
 
