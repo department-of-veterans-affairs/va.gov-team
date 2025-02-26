@@ -5,7 +5,7 @@
 | Date            | Subject                 | Description          | Findings     |
 | :-------------  | :-------------          | :-------------       | :----------- |
 | Jan | quantitative data review | regular check in of survey and help center data covering Oct/Nov 2024 | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/Ongoing%20-%20quantitative%20data/2024%20Q4%20quantitative%20data%20findings.md) |
-| Feb | delegate secondary research | understanding past research related to delegate access | [Read out](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/delegate%20access%20/Delegate%20Access%20Resources.pdf) |
+| Feb | delegate secondary research | understanding past research related to delegate access | [Demo slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/delegate%20access%20/Delegate%20Access%20Resources.pdf) |
 
 ## CY 2024
 
