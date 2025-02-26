@@ -30,7 +30,7 @@
 | Jun 2023       | Mocked authentication   | 3 remote, moderated usability sessions to find painpoints | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-06%20Mocked%20Authentication/Mocked%20Authentication%20research%20findings.md)
 | Aug 2023        | Unified terms of use    | 13 remote, moderated sessions to test a prototype terms of use page and flow | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-07%20Terms%20of%20Use/2023-08%20Terms%20of%20use%20research%20findings.md)
 | Nov 2023        | Manage signed in devices | 13 remote, moderated sessions | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-11%20Manage%20Signed-in%20Devices%20/2023-11%20Manage%20Signed-in%20Devices%20Research%20Findings.md)
-| Nov 2023       | FIDO & FIDO2 and Passkeys | A "phase 0" secondary research discovery | [Report](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/research/2024-03%20Fraud%20prevention/FIDO%20%26%20FIDO2%20and%20Passkeys.md)
+| Nov 2023       | FIDO & FIDO2 and Passkeys | secondary research, discovery | [Report](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/research/2024-03%20Fraud%20prevention/FIDO%20%26%20FIDO2%20and%20Passkeys.md)
 
 - Past research from this team that relates to login.gov or credential migration can be found in
    - [the identity subfolder named - login.gov](https://github.com/department-of-veterans-affairs/va.gov-team/tree/5ab5826e440cb5bf2874aaa5b3a4f3d7ed32e875/products/identity/login.gov)
