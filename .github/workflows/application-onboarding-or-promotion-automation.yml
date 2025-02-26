@@ -102,7 +102,7 @@ jobs:
           steps.application_exists.outputs.application_exists == 'false' ||
           steps.environment_check.outputs.environment_exists == 'false'
         id: cpr
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v5
         with:
           path: vsp-infra-argocd
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
