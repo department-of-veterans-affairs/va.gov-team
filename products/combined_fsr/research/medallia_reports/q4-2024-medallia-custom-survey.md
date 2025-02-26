@@ -8,8 +8,11 @@ This is a look back at all of the responses for the 6 questions on the FSR custo
 ## 1. I was able to easily complete this form online.
 
 **Responses: 247**
+
 **Mean: 4.14**
+
 **Median: High level of trust (5)**
+
 |Score|Response|# of Responses|
 |--|--|--|
 | 1 | Strongly Disagree | 26 |
@@ -41,6 +44,7 @@ Open text field provided.
 **Responses total: 119**
 
 **Everything is fine, no suggestions**
+
 Approximately 66 Responses 
 Most responses included "None" and "N/A".
 
@@ -53,6 +57,7 @@ Most responses included "None" and "N/A".
 >"None it was easy for someone who does not no much about computers"
 
 **Suggestions for Improvement: Digital FSR Form-specific**
+
 Approximately 21 Responses
 >"Under Household expenses there was no where to indicate phone/internet or tv. Also under the assests you asked for the value of my home, but not for how much I owed on it."
 
@@ -68,6 +73,7 @@ Credit card debt
 >"The expenses line only allows for loans when a lot of debt is also in credit card debit. Adding this in will contribute to a more open field of understanding where debt and payments are going."
 
 **Service Design: Veteran's interactions outside the digital FSR form and other changes needed outside of digital form**
+
 Approximately 13 Responses 
 
 >"I filed for MST and was told because of this I would not have a bill"
@@ -84,6 +90,7 @@ Spouse
 >"Add separated for the Veteran when putting income as my husband has disability and receives all the funds as I have none at this time."
 
 **FSR Form Bugs**
+
 Approximately 8 Responses
 
 >"It kept logging me out and it would not save my updates."
@@ -120,6 +127,7 @@ Approximately 8 Responses
 
 
 **Sitewide**
+
 Approximately 6 Responses  
 
 >"Make is easier to find and simpler to use. The website is too bright why is there no dark mode? this site hurts my eyes"
@@ -127,8 +135,11 @@ Approximately 6 Responses
 >"If you save it to return later it is hard to locate again. Maybe a drop down box when you first enter the website to allow you to go to the save form without having to find it."
 
 ## 4. I would recommend completing this form online instead of paper to another Veteran.
+
 **Responses: 211**
+
 **Mean: 4.3**
+
 **Median: High level of trust (5)**
 
 |Score|Response|# of Responses|
@@ -142,7 +153,9 @@ Approximately 6 Responses
 ## 5. General VA Trust
 
 **Responses: 204**
+
 **Mean: 3.99**
+
 **Median:  Modest level of trust  (4)**
 
 |Score|Response|# of Responses|
@@ -156,7 +169,9 @@ Approximately 6 Responses
 
 ## 6. Trust in VA Commitment to Veterans
 **Responses:  203**
+
 **Mean: 4.11**
+
 **Median:  High level of trust (5)**
 
 |Score|Response|# of Responses|
