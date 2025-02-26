@@ -2,7 +2,10 @@
 # Product Outline: Veteran Readiness & Employement (Chapter 31), Form 28-1900
 
 ## Overview
+> Note: an archive of previous work is located [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/apply-vre-ch31).
+
 Formerly called Vocational Rehabilitation and Employment, the online 28-1900 form allows Veterans with a service-connected disability that limits their ability to work or prevents them from working helps them explore employment options and address education or training needs. In some cases, the Veteran's family members may also qualify for certain benefits.
+
 
 There are several [VR&E support-and-service "tracks"](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/) Veterans utilize.
 
@@ -96,7 +99,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 #### Communications
-- Team Name: Benefits Non-Disability Experience Team (Team Umbrella)
+- Team Name: VA-IIR
 - GitHub Team Label: non-disability-benefits
 - GitHub Product Label: CH31, vr&e
 - Slack channel: benefits-non-disability

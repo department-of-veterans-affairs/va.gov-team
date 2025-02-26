@@ -1,3 +1,7 @@
+> 
+> **DEPRECATED 02/2025**: This documentation is here for historical purposes only.  Please refer to the [updated documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/vocational-rehab/README.md).
+> =  
+ 
 # VA Veteran Readiness & Employment (CH31)
 _(previously Vocational Rehabilitaion and Employment)_
 
