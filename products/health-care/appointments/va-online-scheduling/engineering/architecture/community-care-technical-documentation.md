@@ -412,7 +412,23 @@ Response:
   }
 }
 ```
-### * POST `/vaos/v2/appointments` (existing)
+### * POST `/vaos/v2/epsApi/appointments` (existing)
+Request:
+```
+{
+  "referralId": "add2f0f4-a1ea-4dea-a504-a54ab57c6800",
+  "slotId": "5vuTac8v-practitioner-1-role-2|e43a19a8-b0cb-4dcf-befa-8cc511c3999b|2025-01-02T15:30:00Z|30m0s|1736636444704|ov1",
+  "draftApppointmentId": "EEKoGzEf"
+}
+```
+Response:
+```
+{
+  "data": {
+    "appointmentId": "EEKoGzEf"
+  }
+}
+```
 ### * GET `/vaos/v2/providers` (new)
 ### * GET `/vaos/v2/providers/{providerId}/slots` (new)
 ### * GET `/vaos/v2/providers/{providerId}/drivetime` (new)
