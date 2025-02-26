@@ -9,7 +9,7 @@ Last Uploaded: February 25, 2025, Version 2.0
 - [Appointments Product Guide.pdf](https://github.com/user-attachments/files/18972601/Appointments.Product.Guide.pdf)
 
 
-</br></br>
+</br>
 <details>
 <summary>Instructions for Updating the Product Guides</summary>
   
