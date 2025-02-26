@@ -8,3 +8,6 @@ Last uploaded: February 25, 2025
 - [Appointments Product Guide.docx](https://github.com/user-attachments/files/18972602/Appointments.Product.Guide.docx)
 - [Appointments Product Guide.pdf](https://github.com/user-attachments/files/18972601/Appointments.Product.Guide.pdf)
 
+
+## DO NOT USE
+- [Old Product Guide prior to 2025](https://github.com/user-attachments/files/18984686/vaos-product-guide.pdf)
