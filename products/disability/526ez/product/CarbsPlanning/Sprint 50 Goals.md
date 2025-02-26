@@ -31,6 +31,7 @@
       -  Scope change - Traumatic events Official Report (no MST Events) [3.9] inline error message - _currently blocked by VFF, design to find a new solution_
       -  Scope change - Traumatic events Official Report (with MST Events) [3.9] inline error message - _currently blocked by VFF, design to find a new solution_
       - Scope change - Traumatic events Official Report destructive action modal
+      - Scope change - Content change for event list message for number of events
       - EE Team support - Will paragraph breaks be preserved in the data that's sent
       - Create utility function to handle submission of 0781V2 data	
 
@@ -43,7 +44,9 @@
     - Spike - opt out of a file upload needs solutioning _Stretch goal and might be move to out of scope_
   - Silent Failure
     - Reprocessing of two 526 evidence failures	
-    
+
+- Work not planned
+  - [0781 PS] Behavioral type list: rename 'none' property to view only - _If capacity opens up we'll try to start this_ 
 
 
 ## Research and Design
