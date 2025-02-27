@@ -1,5 +1,5 @@
 
-> Note (Feb 2025): This list is no longer being maintained. The [BMT Figma Project](https://www.figma.com/files/project/175598391) has a full list of design specs for Claim Status Tool.
+> Note (Feb 2025): Please refer to the [BMT Figma Project](https://www.figma.com/files/project/175598391) for a full list of design specs for Claim Status Tool.
 
 # Claims and Appeals design specs (2022—2024)
 A repository of design work completed. Files listed below have gone through the design process and are either shipped or awaiting development. 
