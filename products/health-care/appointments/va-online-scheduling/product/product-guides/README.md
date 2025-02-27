@@ -5,8 +5,8 @@ Last Uploaded: February 26, 2025, Version 2.0
 > - Blue highlights are for Community Care Scheduling feature not yet released
 > - Yellow highlights are for Submit Travel Reimbursement Claim feature not yet released
 
-[Appointments.Product.Guide.docx](https://github.com/user-attachments/files/18994232/Appointments.Product.Guide.docx)
-[Appointments.Product.Guide.pdf](https://github.com/user-attachments/files/18994230/Appointments.Product.Guide.pdf)
+- [Appointments.Product.Guide.docx](https://github.com/user-attachments/files/18994232/Appointments.Product.Guide.docx)
+- [Appointments.Product.Guide.pdf](https://github.com/user-attachments/files/18994230/Appointments.Product.Guide.pdf)
 
 </br>
 <details>
