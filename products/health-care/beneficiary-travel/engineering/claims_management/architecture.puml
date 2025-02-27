@@ -1,0 +1,56 @@
+@startuml container_vagov_travel_pay_claims_mgmt
+skinparam shadowing false
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+LAYOUT_LANDSCAPE()
+title [Container] VA.gov Travel Pay: Claims Management
+
+Person(veteran, "Veteran", "The main user of the Travel Pay app on VA.gov. Has appointments and related travel compensation needs.")
+System_Boundary(tpapp, "VA.gov Travel Pay") {
+  Boundary(vagov_fe, "VA.gov Frontend (vets-website)") {
+    Container(tp_fe, "Travel Pay Frontend", "ReactJS", "The Travel Pay application on VA.gov.")
+    Container_Ext(mhv_fe, "My HealtheVet Frontend", "ReactJS", "The entry point to the travel pay claim status tool")
+  }
+  
+  Boundary(vagov_be, "VA.gov Backend (vets-api)") {
+    Container(tp_be, "vets-api Travel Pay Module", "Ruby on Rails", "The request handler, business logic, and external integration point for travel pay.")
+  }
+
+  Rel(mhv_fe, tp_fe, "Redirects Veterans to status page")
+  Rel(tp_fe, tp_be, "Requests all travel pay resources through", "HTTPS/JSON")
+}
+
+System_Ext(sis, "Sign-in Service Identity Broker", "Authenticates users and systems")
+System_Ext(tpapi, "Travel Pay API", "Creates claims and provides claim status leveraging multiple upstream services.")
+
+Lay_D(tpapi, tpapp)
+
+Rel(tp_be, sis, "Authenticates itself via STS by receiving a token from")
+Rel(veteran, mhv_fe, "Requests health information (incl travel pay status) using")
+Rel_D(tp_be, tpapi, "Gets claims information, creates new claims using")
+Rel(tpapi, sis, "Verifies access token with")
+@enduml
+
+@startuml component_vagov_travel_pay_claims_mgmt
+skinparam shadowing false
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
+LAYOUT_LANDSCAPE()
+title [Component] VA.gov Travel Pay: Claims Management
+
+Person(veteran, "Veteran", "The main user of the Travel Pay app on VA.gov. Has appointments and related travel compensation needs.")
+
+Container(vagov_fe, "vets-website", "ReactJS", "The frontend codebase for VA.gov")
+System_Ext(tpapi, "Travel Pay API", "Creates claims and provides claim status leveraging multiple upstream services.")
+
+Container_Boundary(tp_be, "vets-api Travel Pay Module") {
+  Component(tp_ctl, "Travel Pay Claims Controller", "Ruby/Rails", "The main request handler for VA.gov travel pay frontend requests. Validates requests and standardizes errors.")
+  Component(tp_claims_svc, "Travel Pay Claims Service", "Ruby/Rails", "Makes external requests to the travel pay API claims resource endpoints, serializes data for consumption by frontend.")
+  Component(tp_auth_svc, "Travel Pay Auth Service", "Ruby/Rails", "Makes external requests to the travel pay API authN/authZ resource endpoints.")
+}
+
+Rel(veteran, vagov_fe, "Manages claims with")
+Rel(vagov_fe, tp_ctl, "Makes API requests to", "JSON/HTTPS")
+Rel(tp_ctl, tp_claims_svc, "Processes requests with")
+Rel(tp_ctl, tp_auth_svc, "")
+Rel(tp_claims_svc, tpapi,  "Makes API requests to", "JSON/HTTPS")
+Rel(tp_auth_svc, tpapi, "")
+@enduml
