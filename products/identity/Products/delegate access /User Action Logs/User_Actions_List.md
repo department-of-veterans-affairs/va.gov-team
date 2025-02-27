@@ -1,30 +1,41 @@
-# User Actions List
+# User action event descriptions
+A pattern to write and scale event descriptions for user action records in the audit database. 
 
-### What We're Defining
-- **_Event type_**: types of access events tracked in the user action database for regulatory and compliance purposes.
-- **_Event description_**: describes the action taken and the specific asset or benefit accessed.
+## Overview
+- User action records include both an event type and event description
+- Event descriptions need to be clear and distinct
+- For the MVP this list includes access events only
 
-### Guidance for Writing Event Descriptions
-- Start with one of these verbs: Add, Create, Delete, Download, Update, View
-  - We can add verbs if needed
-- Describe the action completely and concisely
-- Write event actions in the present tense, not past tense.
-- Events have a status: Initial, Success, or Error
-- Include the exact document, form, or benefit name as needed
+### Terminology
+- **Access event:** a user action where sensitive information is **updated** in a database by a user or system
+- **Audit database:** logs for access events stored on vets-api and Amazon Web Services (AWS) for 7 years
+- **Event description**: describes the user action taken and the specific resource accessed or updated
+- **Event type**: categories of access events, including: Sign in, Profile, Payments, Documents, Forms
+- **Resource:** types of sensitive information, including: account, identity, password, direct deposit
 
+## How to write event descriptions
+### Content guidelines
+- Describe the user action taken and the specific resource accessed or updated. 
+- If applicable, include the related form, document, or benefit name.
+- Most event descriptions start with one of these verbs: Add, Update, Submit, Download.
+- Write user actions in the present tense, not past tense, because events also include a status: Initial, Success, or Error.
+- For sign-in and identity terminology, refer to the [content design system](https://design.va.gov/content-style-guide/specific-topics-and-programs/sign-in-and-identity-verification).
+
+### Content pattern
 {{ User action }} {{ Resource accessed or updated }} {{ Specific form, document, or benefit }}
 
-Example: Add  direct deposit for pension and disability
+### Examples
+- Add  direct deposit for pension and disability
+- Update VA Form 21-10210 Lay/Witness Statement
+- Sign in on VA.gov
 
-### Current List
+## User action event list
+User actions prioritized for the MVP
 
 |   Event type    |                   Event description                    |
 | :-------------- | :----------------------------------------------------- |
-| Sign-in account | Create account on {{ Login.gov }}                      |
-|                 | Verify identity on {{ Login.gov }}                     |
-|                 | Update password on {{ ID.me }}                         |
-|                 | Sign in on {{ ID.me }}                                 |
-|                 | Add multifactor authentication on {{ Login.gov }}      |
+| Sign-in         | Sign in {{ on VA.gov }}                                |
+|                 | Verify identity* {{ on ID.me }}                        |
 | Profile         | Update mailing address                                 |
 |                 | Update phone number                                    |
 |                 | Update email address                                   |
@@ -34,15 +45,31 @@ Example: Add  direct deposit for pension and disability
 |                 | Update direct deposit for tuition                      |
 |                 | Add direct deposit for travel pay reimbursement        |
 |                 | Update direct deposit for travel pay reimbursement     |
-| Prescriptions   | Request prescription refill                            |
-|                 | View prescriptions list                                |
-|                 | Track prescription order                               |
-| Secure messages | Send a secure message                                  |
-|                 | View messages list                                     |
 | Documents       | Download Blue Button report                            |
 |                 | Download VA benefits letter                            |
 |                 | Download VA Health summary PDF                         |
-|                 | View VA Health summary                                 |
 | Forms           | Submit VA Form 21-10210 Lay/Witness Statement          |
-|                 | Submit VA Form 10-10EZ Application for Health Benefits |
+|                 | Update VA Form 10-10EZ Application for Health Benefits |
 
+*Currently we only track identity verification if the user previously signed in with an unverified account.
+
+## Future phases
+
+Incorporate more data from Credential Service Providers (CSPs)
+
+|   Event type    |                   Event description                    |
+| :-------------- | :----------------------------------------------------- |
+| Sign-in         | Create account on {{ Login.gov }}                      |
+|                 | Verify identity on {{ Login.gov }}                     |
+|                 | Update password on {{ ID.me }}                         |
+|                 | Sign in on {{ ID.me }}                                 |
+|                 | Add multifactor authentication on {{ Login.gov }}      |
+
+Incorporate actions from [My HealtheVet Activity History](https://www.myhealth.va.gov/account-activity-history-summary)
+
+|   Event type    |                   Event description                    |
+| :-------------- | :----------------------------------------------------- |
+| Prescriptions   | Request prescription refill                            |
+|                 | View prescriptions list                                |
+| Secure messages | Send secure message                                    |
+|                 | Open secure message                                    |
