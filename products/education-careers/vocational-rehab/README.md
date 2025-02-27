@@ -2,7 +2,8 @@
 # Product Outline: Veteran Readiness & Employement (Chapter 31), Form 28-1900
 
 ## Overview
-> Note: an archive of previous work is located [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/apply-vre-ch31).
+> Note: an archive of previous work is located [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/apply-vre-ch31).  An [offboarding doc](https://docs.google.com/document/d/13Dm3cPJA_LIWvQFgBK0ShuDGPNdqObwGTUjdO5YNwkE/edit?tab=t.0) (access required) was created when this product was handed off to the VA-IIR team.
+
 
 Formerly called Vocational Rehabilitation and Employment, the online 28-1900 form allows Veterans with a service-connected disability that limits their ability to work or prevents them from working helps them explore employment options and address education or training needs. In some cases, the Veteran's family members may also qualify for certain benefits.
 
@@ -12,6 +13,8 @@ There are several [VR&E support-and-service "tracks"](https://www.va.gov/careers
 - [About VA Form 28-1900](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/) 
 - [Start wizard questionnare](https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/start)
 - [Online form tool](https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/introduction)
+
+For engineering information, please view the associated [README](./engineering/README.md).
 
 ### The VR&E Process
 - Someone applies for VR&E (VA.gov or paper)
@@ -103,7 +106,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - GitHub Team Label: non-disability-benefits
 - GitHub Product Label: CH31, vr&e
 - Slack channel: benefits-non-disability
-- Product POCs: Laura Steele (product manager), Emily Theis (OCTO Lead)
+- Product POCs: Peter Egan(product manager), Adam King (Tech Lead)
 
 #### Stakeholders
 - Office/Department:
@@ -111,10 +114,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
    - VBA (Donna Robinson, Calvin Fisher, Sarah Debel). Policy & procedures (Pamela Salazar, Sharon Hirsch, Maria E. Sullivan)
 
 #### Team Members
- - DEPO Lead: Sarah Ortiz Shields
- - PM: Laura Steele
- - Engineering: Thomas Blackwell
- - Research/Design: Julie Pedtke, Fiorella Geedi
+ - PM: Mike King
+ - Engineering:
+   - Adam King (Tech Lead)
+   - Kyle Henson (Full Stack Developer)
+   - Kris Pethtel (Full Stack Developer)
+   - John Rodriguez (Front End Developer)
+   - Nick Sayre (Front End Developer)
+ - Research/Design: Ian Hilton
 
 #### Privacy officer
  - Renu Roy (renu.roy@va.gov) 
