@@ -24,7 +24,7 @@
 [21-8940]: /products/disability/ancillary-forms/21-8940.md
 [intent-to-file]: intent-to-file.md
 
-## Disability compensation forms
+## Disability compensation forms (location in the codebase)
 - [21-526EZ (Application for Disability Compensation and Related Compensation Benefits)][21-526ez]
   - This is the main disability compensation form
 - [21-0966 (Intent To File A Claim For Compensation)][intent-to-file]
@@ -49,13 +49,14 @@
 - Contact center partner: Chante Lantos-Swett, Kimberly Monroe-Daniels
 - Web comms partner: n/a
 - ITSC (IT Strategic Comms) liaison: n/a
+- VBA contact: David Reis
   
  Team 1: 
  [Github Project](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2)
  GitHub team label: DBEX-TREX
 - Product manager: Mike Marinos
 - Design and Research: Maya Carroll, Lauren Dawson, Momo Miyazaki
-- Engineering: Aurora Hampton, Seth Darr, Christine Cereca, Mark Chae, Tommassina Miller
+- Engineering: Aurora Hampton, Seth Darr, Christine Cereca, Mark Chae, Tommasina Miller
 - Delivery: Pam Macalintal
  
 
