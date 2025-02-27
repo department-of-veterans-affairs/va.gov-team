@@ -13,18 +13,21 @@ assignees: AshleyGuerrant, kflow85, jwoodman5
 * [Roadmap](https://vfs.atlassian.net/wiki/spaces/~712020d2fbd572ca6b4c94b469a3bdb618888c/pages/3722248239/Stability+Reliability+Engineering+SRE+Team+Roadmap+Q1+2025+DRAFT)
 
 
-### Sprint [XX] Goals
+### Sprint Goals
 
 
 _Write a short description of your goal(s) for the sprint. This could be a sentence or a short paragraph and should include any high priority work, but does not need to include <span style="text-decoration:underline;">all</span> planned work._
 
 
 
-### Sprint [XX] Priorities
+### Sprint Priorities
 
 Story points planned: [number of points]
 
 Story points completed: [number of points]
+
+###  Support Rotation or PTO
+*Note any team member on support or PTO this sprint and note which it is
 
 #### Epics & Issues</span>
 
