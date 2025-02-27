@@ -1,5 +1,23 @@
 ## Facility Locator Search Improvements Decision Log
 
+### 2025-02-27
+https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16001#issuecomment-2689051079
+From UX sync: Given: 
+* Perigean recruitment changes
+* End of PoP upcoming 
+* Potential risk to shipping both Mobile Map and Progressive Disclosure changes , with both of those in mind
+
+Some strategic changes to our plans for these FL features.
+
+**Mobile map / Progressive Disclosure**: 
+want to move ahead toward trying to launch, and not block on research. **Next step: staging review.** Scheduling will require
+    * All the artifacts (QA standards, Technical architecture, Foundational a11y testing, etc etc etc etc, check the Collab Cycle docs)
+    * 4-business-day lead time for Governance to review those artifacts before Staging Review date
+
+**Services Autosuggest:** 
+* will still pursue research options, Brittany will continue on plan / convo guide as soon as mobile map artifacts are settled. 
+* Study will still include Progressive Disclosure since it's a desktop/mobile research plan, just the feature will be live in prod (assuming we get to ship) while we research.
+
 ### 2025-02-18 Priority order for research: Mobile map first
 Mobile map prototype is complete. While Progressive Disclosure is complete, Services autosuggest still requires some work to implement the new autosuggest component. With this in mind, and because Mobile Map already has a starting point for draft plan & conversation guide, we will prioritize Mobile Map research study during 2025 Q1. 
 
