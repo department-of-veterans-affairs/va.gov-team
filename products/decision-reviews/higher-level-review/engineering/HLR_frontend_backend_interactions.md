@@ -1,10 +1,13 @@
 # List of Higher-Level Review Frontend/Backend Interactions
 
+- For general `vets-api` documentation use [Swagger v0 docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/)
+- For Higher-Level Review (HLR) endpoints. use [Swagger v1 docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/?url=https://dev-api.va.gov/v1/apidocs)
+
 ## Prefill Veteran Contact Information
 
   Prefill a list of Veteran contact information from the VA profile
 
-  `/v0/user` - data integrated into main endpoint ([simulate an error in VAP contact info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67648#issuecomment-1830718716))
+  `GET /v0/user` - data integrated into main endpoint ([simulate an error in VAP contact info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67648#issuecomment-1830718716))
 
 | External System(s)   | # of occurrences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | ---------
@@ -15,7 +18,7 @@
 
   Prefill a list of Veteran account details
 
-  `/v0/in_progress_forms/20-0996` - prefill data only from first in progress call
+  `GET /v0/in_progress_forms/20-0996` - prefill data only from first in progress call
 
 | External System(s)   | # of occurrences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | ---------
@@ -26,7 +29,7 @@
 
   Saving of a users progress through the form
 
-  `/v0/in_progress_forms/20-0996` - get in progress data upon return, and save in progress data when form data changes
+  `PUT /v0/in_progress_forms/20-0996` - get in progress data upon return, and save in progress data when form data changes
 
 | External System(s)   | # of occurrences           | Responses                    | Outcome / Message
 | -------------------- | ------------------------- | ---------------------------- | ---------
@@ -38,7 +41,9 @@
 
   Gets a list of contestable issues the veteran can choose from for this claim
 
-  `/v1/higher_level_reviews/contestable_issues/compensation`
+  `GET /decision_reviews/v1/higher_level_reviews/contestable_issues(/:benefit_type)(.:format)`
+
+  We currently only use this for the `compensation` benefit type
 
 | External System(s)   | # of occurrences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | ---------
@@ -49,10 +54,27 @@
 
   The overall submission of the request
 
-  `/v1/higher_level_reviews`
+  `POST /decision_reviews/v2/higher_level_reviews(.:format)`
+
+  `GET /decision_reviews/v2/higher_level_reviews/:id(.:format)`
 
 | External System(s)   | # of occurrences           | Responses     | Outcome / Message
 | -------------------- | ------------------------- | --------------| ---------
 | Lighthouse           | 1 per submission          | 200           | Redirect to confirmation page. <br> Success alert. <br> Header: We've received your Higher-Level Review<br> Body: When we've completed our review, we'll mail you a decision packet with the details of our decision. <details><summary>Screenshot</summary><img alt="confirmation page showing that the submission was successful" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/136959/1d30b755-780f-4b25-82df-46e746495ad1" /></details>
 |                      |                           | 403 Forbidden | Error alert. <br> Header: We're sorry. We can't submit your request right now.<br> Body: We're working to fix the problem. Please make sure you're connected to the internet, and then try saving your request again.<br> Save your request (link)<br> If you're still doesn't work please call us at 800-698-2411. If you have hearing loss, call TTY:711. <details><summary>Screenshot</summary><img alt="error alert on review & submit page informing them that the request didn't go through there is also a save in progress error window" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/136959/6d2360cd-1eeb-49c4-8240-50f4438c40f2" /></details>
 |                      |                           | Any other     | Error alert. <br> Header: We're sorry, there was an error connecting to VA.gov. <br> Body: Please check your internet connection and try again. <details><summary>Screenshot</summary><img alt="error alert on review & submit page informing them that there was an error connecting to va.gov" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/136959/43a2a246-6690-4a0e-8901-592433105204" /></details>
+
+<hr>
+
+## General Form API calls
+
+- `GET /v0/feature_toggles` - Feature Toggles
+- `GET /v0/maintenance_windows` - Shows downtime notification alerts
+- `GET /data/cms/vamc-ehr.json` - Global electronic health records file (not sure what uses it)
+- `GET /v0/profile/status` - Get status after profile updates
+- `GET /v0/user?now=*` - Get user status after update
+- `GET /v0/user_transition_availabilities` - Get status after update
+- `PUT /v0/profile/telephones` - Get status after update
+- `PUT /v0/profile/email_addresses` - Get status after update
+- `PUT /v0/profile/addresses` - Get status after update
+- `POST /v0/profile/address_validation` - Get address validation
