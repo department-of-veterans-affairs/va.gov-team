@@ -7,12 +7,12 @@ A pattern to write and scale event descriptions for user action records in the a
 - For the MVP this list of events is focused on sign-in events and access events that **update** database resources
 
 ### Terminology
-- **Access event:** a user action where sensitive information is accessed or updated in a database by a user or system
+- **Access event:** an action where sensitive information is accessed or updated in a database by a user or system
 - **Audit database:** logs for access events stored on vets-api and Amazon Web Services (AWS) for 7 years
 - **Event description**: describes the user action taken and the specific resource accessed or updated
 - **Event type**: categories of access events, including: sign in, profile, payments, documents, forms
 - **Resource:** types of sensitive information accessed in a database, including: account, identity, password, direct deposit
-- **User action:** verbs used to describe resources accessed or updated in a database
+- **User action:** verbs used to describe accessing or updating resources in a database
 
 ## How to write event descriptions
 ### Guidelines
