@@ -76,7 +76,7 @@ I reviewed each channel and took notes in [Mural](https://app.mural.co/t/departm
 
 I reviewed the descriptions of 6 different VA phone lines. They all involve making a phone call and interacting with a representative or phone tree to receive help or complete a task.
 
-- **MyVA411 main information line** is for Veterans and their support networks to contact VA using a 'main, toll-free number.' It will connect to a specific department or office or a VA cal center agent.
+- **MyVA411 main information line** is for Veterans and their support networks to contact VA using a 'main, toll-free number.' It connects you to a specific department or a VA call center agent.
 - **VA benefits hotline** can help with finding out the status of a claim or appeal, updating your direct deposit information, requesting a letter, reporting a death or getting answers to other questions about VA benefits.
 - **VA health benefits hotline** can help with enrolling in VA health care under TERA, paying a bill, asking about Community Care billing, enrolling in CHAMPVA or getting answers to other questions about VA health  care benefits.
 - **GI Bill hotline** is for finding out how to verify your enrollment, updating your direct deposit information, checking payment information, or getting answers to other questions about VA education benefits and claims.
