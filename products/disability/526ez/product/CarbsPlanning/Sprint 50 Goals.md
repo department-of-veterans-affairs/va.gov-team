@@ -33,14 +33,14 @@
       - Scope change - Traumatic events Official Report destructive action modal
       - Scope change - Content change for event list message for number of events
       - EE Team support - Will paragraph breaks be preserved in the data that's sent
-      - Create utility function to handle submission of 0781V2 data	
+      - Create utility function to handle submission of 0781V2 data	- includes the PDF data to the correct forms work
 
 
 - Kyle Soskin
   OOO 03/06-03/07
   - Transition work
   - 0781 PS
-    - PDF forms medical record location data
+    - PDF forms medical record location data - _NOTE the solution for this was added to the "utility function to handle submission" and this ticket was moved to end-to-end testing_
     - Spike - opt out of a file upload needs solutioning _Stretch goal and might be move to out of scope_
   - Silent Failure
     - Reprocessing of two 526 evidence failures	
