@@ -4,7 +4,7 @@ A pattern to write and scale event descriptions for user action records in the a
 ## Overview
 - User action records include both an event type and event description
 - Event descriptions need to be clear and distinct
-- For the MVP this list of events is focused on sign-in events and access events that **update** database resources
+- For the MVP this list of user actions is focused on sign-in events and access events that **update** database resources
 
 ### Terminology
 - **Access event:** an action where sensitive information is accessed or updated in a database by a user or system
@@ -33,7 +33,7 @@ A pattern to write and scale event descriptions for user action records in the a
 - Update VA Form 21-10210 Lay/Witness Statement
 - Sign in on VA.gov
 
-## User action event list
+## User actions list
 User actions prioritized for the MVP
 
 |   Event type    |                   Event description                    |
