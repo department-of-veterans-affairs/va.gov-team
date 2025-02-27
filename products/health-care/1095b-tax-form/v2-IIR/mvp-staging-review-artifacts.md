@@ -15,7 +15,7 @@
   
 ### Accessibility Test Artifcat
 - [Issue 103891](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103891)
-   - We identified two issues that we are currently  working to resolve but will not be resolved for the Staging Review
+   - We identified two issues that we are currently working to resolve; however, they will not be resolved prior to Staging Review.
 
 ### Regression Test Plan
 - 
