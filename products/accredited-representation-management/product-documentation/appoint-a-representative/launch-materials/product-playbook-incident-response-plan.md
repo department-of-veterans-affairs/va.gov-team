@@ -37,6 +37,8 @@ Errors and performance metrics for the 'Appoint a Representative' feature are ca
 
 - **ARM's Datadog Service:** ARM's Datadog service is called [_representation-management_](https://vagov.ddog-gov.com/apm/services/representation-management/operations/rack.request/resources?dependencyMap=qson%3A%28data%3A%28telemetrySelection%3Aall_sources%29%2Cversion%3A%210%29&deployments=qson%3A%28data%3A%28hits%3A%28selected%3Aversion_count%29%2Cerrors%3A%28selected%3Aversion_count%29%2Clatency%3A%28selected%3Ap95%29%2CtopN%3A%215%29%2Cversion%3A%210%29&env=eks-prod&fromUser=false&groupMapByOperation=null&isInferred=false&panels=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&resources=qson%3A%28data%3A%28visible%3A%21t%2Chits%3A%28selected%3Atotal%29%2Cerrors%3A%28selected%3Atotal%29%2Clatency%3A%28selected%3Ap95%29%2CtopN%3A%215%29%2Cversion%3A%211%29&summary=qson%3A%28data%3A%28visible%3A%21t%2Cchanges%3A%28%29%2Cerrors%3A%28selected%3Acount%29%2Chits%3A%28selected%3Acount%29%2Clatency%3A%28selected%3Alatency%2Cslot%3A%28agg%3A95%29%2Cdistribution%3A%28isLogScale%3A%21f%29%2CshowTraceOutliers%3A%21t%29%2Csublayer%3A%28slot%3A%28layers%3Aservice%29%2Cselected%3Apercentage%29%2ClagMetrics%3A%28selectedMetric%3A%21s%2CselectedGroupBy%3A%21s%29%29%2Cversion%3A%211%29&start=1732205570609&end=1732209170609&paused=true) and is part of the [_OCTO Benefits Portfolio_](https://vagov.ddog-gov.com/organization-settings/teams/02d65116-27e9-11ee-ad54-da7ad0900007/benefits) team.
 
+- **Custom Datadog Dashboard:** [Appoint a Representative](https://vagov.ddog-gov.com/dashboard/iiz-nnm-2em/arm-appoint-a-representative?fromUser=true&refresh_mode=monthly&from_ts=1735718400000&to_ts=1737609578840&live=true)
+
 ### Issue Investigation Steps
 
 This section outlines the steps to investigate and resolve issues related to the "Appoint a Representative" feature.
@@ -61,12 +63,18 @@ This section outlines the steps to investigate and resolve issues related to the
 
 ### Flipper Features and Rollback
 
+#### MVP
+
 - Enables Appoint a Representative frontend - `appoint_a_representative_enable_frontend`
 - Enables Appoint a Representative PDF generation endpoint - `appoint_a_representative_enable_pdf`
 - Use the original veteran_x models to power Appoint a Rep entity search - `use_veteran_models_for_appoint`
 
+#### V2
+
+- Enables Appoint a Representative 2.0 features for the frontend and the backend - `appoint_a_representative_enable_v2_features`
+
 ## Security
 
-PII and PHI is collected from authenticated users who start or complete the Appoint a Representative form flow; the data is encrypted and temporarily saved in the SiP (Save in Progress) forms table -- `in_progress_forms` -- in the VA.gov Postgresql database. From our understanding, the data is purged after 60 days.
+PII and PHI is collected from authenticated users who start or complete the Appoint a Representative form flow; the data is encrypted and temporarily saved in the SiP (Save in Progress) forms table -- `in_progress_forms` -- in the VA.gov Postgresql database. Once the user either completes the form flow and downloads the PDF or submits the request online, the SiP record is deleted, otherwise, if the user never completes the form flow, from our understanding, the data is purged after 60 days.
 
 When the request to generate the 21-22/21-22a PDF is made, the user's PII and PHI data is encrypted in transit via HTTPS but the data, including the generated PDF, is not persisted anywhere.
