@@ -25,7 +25,7 @@ A pattern to write and scale event descriptions for user action records in the a
   - Use "Update" for changes to existing resources
 - For sign-in and identity terminology, refer to the [content design system](https://design.va.gov/content-style-guide/specific-topics-and-programs/sign-in-and-identity-verification).
 
-### Structure
+### Pattern
 {{ User action }} {{ Resource accessed or updated }} {{ Specific form, document, or benefit }}
 
 ### Examples
