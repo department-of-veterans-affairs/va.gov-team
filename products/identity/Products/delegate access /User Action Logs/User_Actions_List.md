@@ -2,9 +2,9 @@
 A pattern to write and scale event descriptions for user action records in the audit database. 
 
 ## Overview
-- User action records include both an event type and event description
-- Event descriptions need to be clear and distinct
-- For the MVP this list of user actions is focused on sign-in events and access events that **update** database resources
+- User action records include both an event type and event description.
+- Event descriptions need to be clear and distinct.
+- For the MVP this list of user actions is focused on sign-in events and access events that **update** database resources.
 
 ### Terminology
 - **Access event:** an action where sensitive information is accessed or updated in a database by a user or system
