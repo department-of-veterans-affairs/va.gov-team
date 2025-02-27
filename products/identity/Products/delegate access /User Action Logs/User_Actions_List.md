@@ -1,4 +1,4 @@
-# User action event descriptions
+# User action events
 A pattern to write and scale event descriptions for user action records in the audit database. 
 
 ## Overview
