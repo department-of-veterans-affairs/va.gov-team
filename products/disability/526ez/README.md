@@ -24,7 +24,7 @@
 [21-8940]: /products/disability/ancillary-forms/21-8940.md
 [intent-to-file]: intent-to-file.md
 
-## Disability compensation forms (location in the codebase)
+## Information on Disability compensation forms 
 - [21-526EZ (Application for Disability Compensation and Related Compensation Benefits)][21-526ez]
   - This is the main disability compensation form
 - [21-0966 (Intent To File A Claim For Compensation)][intent-to-file]
@@ -102,6 +102,7 @@
 
 
 ## Research
+TODO: add link to Sharepoint
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
 |Summary of past 526ez research|Includes research from 2016-2021, from VEO 2023, and heuristic evaluation 2022|[Link](https://docs.google.com/presentation/d/16s9L1zCopBFH-_C3Bm0f6arFul7d-asn7T3Sfa5d1dw/edit?usp=sharing)|Feb 2023|
@@ -111,6 +112,7 @@
 |Submission Status Research Study| Evaluative research of confirmation page and post-submission emails | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2024-07-Submission-Status) | July 2024|
 
 ## Analytics
+TODO: how is this different from the Monitoring section?
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
 |ITF Migration|DataDog Dashboard for monitoring LH and EVVS traffic during migration|Link||
@@ -120,12 +122,13 @@ TODO: should be adding project features here? or link to a different page
 
 ## Engineering
 #### Github Repos
+TODO: add vets-json-schema
 |Title|Description|Link|
 |-----|-----------|----|
 |vets-api|va.gov backend code, and also lighthouse code (in the `modules` folder)|https://github.com/department-of-veterans-affairs/vets-api/|
 |vets-website|va.gov website code|https://github.com/department-of-veterans-affairs/vets-website|
 |va.gov-team|This repo, this is where all tickets/issues go, and where most documentation should go|https://github.com/department-of-veterans-affairs/va.gov-team|
-|va.gov-team-sensative|Area for sensative items such as post-mortems, security things, and other internal or sensitive documentation|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive|
+|va.gov-team-seniative|Area for sensitive items such as post-mortems, security things, and other internal or sensitive documentation|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive|
 
 
 #### Monitoring
@@ -146,6 +149,7 @@ Engineering research | Discovery and/or technical approach documents from engine
 |Engineering Audit/Inventory|A list of engineering documents and a storehouse for documents saved in a non-standard format|[SharePoint folder](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Engineering/Audit%20and%20Inventory?csf=1&web=1&e=ZCN3CN)|01/31/25|
 #### Tech Debt
 TODO: Highlight important tech debt items
+- Continue to remove feature toggles ([#103854](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?filterQuery=-type%3AEpic+tech+debt&pane=issue&itemId=99400084&issue=department-of-veterans-affairs%7Cva.gov-team%7C103854))
 #### Zero Silent Failures
 TODO: Examples of failures before/after
 TODO: Policies 
