@@ -74,7 +74,7 @@
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
 |Idea board|List of ideas, scoping and prioritization| [Link ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=0-1680617210045&sender=u1dc3a1dc47390e0b38d61593)|Feb 2023|
-|Stakeholder Map|Stakeholder map for Disability Claim Submission via 526|[Link](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1674666875176/5bffb27d080685913fc74b5e4e2179511e4c2089?sender=ub46ab2ca03c3ddd9a8ac0157)||
+|Stakeholder Map|Stakeholder map for Disability Claim Submission via 526|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1740676248932/c5880a877bbc25cc4e3b0bad0defd3faa336e872)||
 |Zenhub board|Backlog for Disability Experience product started in Feb 2023. Decommissioned end of 2024 |[Link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)|Feb 2023|
 |Staging|Login to Staging site for va.gov|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/staging-login-instructions.md)||
 |526 sitemap|Shows flows and screenshots|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1680211466282/0b44cead253b62f1fde2dbed4a83a1345764b56d?wid=8-1682631266214&sender=u2905941a69b3083a009c9997)||
