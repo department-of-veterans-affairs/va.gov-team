@@ -1,6 +1,6 @@
 ## Facility Locator Search Improvements Decision Log
 
-### 2025-02-27
+### 2025-02-27 Priority changes due to Perigean contract end / Sitewide contract timing
 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16001#issuecomment-2689051079
 From UX sync: Given: 
 * Perigean recruitment changes
