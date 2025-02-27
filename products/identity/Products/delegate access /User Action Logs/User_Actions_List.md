@@ -12,7 +12,7 @@ A pattern to write and scale event descriptions for user action records in the a
 - **Event description**: describes the user action taken and the specific resource accessed or updated
 - **Event type**: categories of access events, including: sign in, profile, payments, documents, forms
 - **Resource:** types of sensitive information accessed in a database, including: password, direct deposit, etc.
-- **User action:** verbs used to describe accessing or updating resources in a database
+- **User action:** a verb used to describe accessing or updating resources in a database
 
 ## How to write event descriptions
 ### Guidelines
