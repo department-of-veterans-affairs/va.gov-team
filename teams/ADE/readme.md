@@ -39,12 +39,38 @@ What follows is a menu of the services we offer.
 > No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using our `@accessibility-de` handle on the `#accessibility-help` channel. [View additional ways to reach out for support.](#how-to-contact-us)
 
 ### Research support
-[ADE accessibility specialists can help with your user research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ade-accessibility-research.yaml). We can assist as you plan your research sessions, ensuring that they are equitable and account for important accessibility factors.  We can also observe your assistive technology sessions through an accessibility-focused lens, documenting accessibility-related issues the user encounters. 
-#### Pilot sessions
-[We recommend a pilot session with a ADE accessibility specialist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md) before running your research sessions, to mitigate any potential accessibility-related issues. When it comes time to run research sessions, we can also provide limited technical support for research participants who use screen readers. 
+> [!TIP]
+> Good news! We not only have a new name, but we also have new services to offer your team! Be sure to review our recently expanded assistive technology research service offerings in this section of our service menu! 
+
+We can now aid your research work and help you both plan and conduct UX research with users of assistive technology (AT). More specifically, we can provide guidance with
+- Writing research plans 
+- Defining recruitment criteria
+- Crafting screening questions for inclusive recruiting
+- Writing conversation guides
+- Building accessible prototypes
+- Moderating research sessions
+
+When you’re ready to conduct user research, our ADE accessibility specialists can aid your team by
+- Simulating a participant using AT during a [pilot session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md)
+- Providing live technical support during AT research sessions
+- Observing research sessions with users of AT
+- Documenting accessibility-related issues encountered
+- Moderating research sessions
+
+There may also be opportunities to collaborate with an accessibility researcher to conduct research. If you’re interested, let us know!
 
 > [!CAUTION]
-> Note that we cannot provide extensive, on call, technical support during research sessions - if you are worried about technical issues, we recommend running a pilot session or two with ADE specialists so that we can discuss ways to best support your needs.
+> Note that we cannot provide extensive on call technical support during research sessions. If you are worried about technical issues, we recommend running a pilot session or two with ADE specialists so that we can discuss ways to best support your needs.
+
+### VA 508 office audit review
+> [!TIP]
+> This is a new service offered by the ADE team.
+
+We will review the results of your VA 508 office audit and:
+- Determine what team owns each issue
+- Write up instructions for how to correct each issue
+- Provide those instructions to relevant teams
+- Update the VA 508 office when issues are corrected
 
 ### Accessibility test planning
 We can work with a team to develop an accessibility-focused testing plan so that during design and development you are able to continually ensure that your product is accessible. We can help develop the plan, and walk you through how to run the tests. We have experience creating plans for both automated and manual testing.

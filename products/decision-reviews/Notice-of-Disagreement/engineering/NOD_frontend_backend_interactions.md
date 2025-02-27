@@ -1,10 +1,13 @@
 # List of Notice of Disagreement Frontend/Backend Interactions
 
+- For general `vets-api` documentation use [swagger v0 docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/)
+- For Notice of Disagreement (NOD) endpoints. use [swagger v1 docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/?url=https://dev-api.va.gov/v1/apidocs)
+
 ## Prefill Veteran Contact Information
 
   Prefill a list of Veteran contact information from the VA profile
 
-  `/v0/user` - data integrated into main endpoint ([simulate an error in VAP contact info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67648#issuecomment-1830718716))
+  `GET /v0/user` - data integrated into main endpoint ([simulate an error in VAP contact info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67648#issuecomment-1830718716))
 
 | External System(s)   | # of occurrences   | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | ---------
@@ -15,7 +18,7 @@
 
   Prefill a list of Veteran account details
 
-  `/v0/in_progress_forms/10182` - prefill data only from first in progress call
+  `GET /v0/in_progress_forms/10182` - prefill data only from first in progress call
 
 | External System(s)   | # of occurrences   | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | ---------
@@ -26,7 +29,7 @@
 
   Saving of a users progress through the form
 
-  `/v0/in_progress_forms/10182` - get in progress data upon return, and save in progress data when form data changes
+  `PUT /v0/in_progress_forms/10182` - get in progress data upon return, and save in progress data when form data changes
 
 | External System(s)   | # of occurrences          | Responses                    | Outcome / Message
 | -------------------- | ------------------------- | ---------------------------- | ---------
@@ -38,7 +41,7 @@
 
   Gets a list of contestable issues the veteran can choose from for this claim
 
-  `/v0/notice_of_disagreements/contestable_issues`
+  `GET /decision_reviews/v1/notice_of_disagreements/contestable_issues(.:format)`
 
 | External System(s)   | # of occurrences       | Responses  | Outcome / Message
 | -------------------- | ---------------------- | ---------- | ---------
@@ -47,9 +50,9 @@
 
 ## Evidence Upload (before submission)
 
-  Putting user uploaded file into S3
+  Storing user uploaded file into S3
 
-  `/v0/decision_review_evidence`
+  `POST /decision_reviews/v1/decision_review_evidence(.:format)`
 
 | External System(s)   | # of occurrences                           | Responses                        | Outcome / Message
 | -------------------- | -------------------------------------------| -------------------------------- | ---------
@@ -62,7 +65,9 @@
 
   The overall submission of the claim
 
-  `/v1/notice_of_disagreements`
+  `POST /decision_reviews/v1/notice_of_disagreements(.:format)`
+
+  `GET /decision_reviews/v1/notice_of_disagreements/:id(.:format)`
 
 | External System(s)   | # of occurrences          | Responses     | Outcome / Message
 | -------------------- | ------------------------- | --------------| ---------
@@ -78,3 +83,19 @@
 | -------------------- | ------------------------- | ---------------------------- | ---------
 | Lighthouse           | 0-Many per submission     | 200                          | Happens via queued job after submission, user is not aware if this succeeds.
 |                      |                           | Any other                    | Happens via queued job, user is not aware if this fails. Uploaded evidence does not get to the VA, while the user thinks that it did.
+
+<hr>
+
+## General Form API calls
+
+- `GET /v0/feature_toggles` - Feature Toggles
+- `OPTIONS /v0/maintenance_windows` - Maintenance window preflight check
+- `GET /v0/maintenance_windows` - Shows downtime notification alerts
+- `GET /data/cms/vamc-ehr.json` - Global electronic health records file (not sure what uses it)
+- `GET /v0/profile/status` - Get status after profile updates
+- `GET /v0/user?now=*` - Get user status after update
+- `GET /v0/user_transition_availabilities` - Get status after update
+- `PUT /v0/profile/telephones` - Get status after update
+- `PUT /v0/profile/email_addresses` - Get status after update
+- `PUT /v0/profile/addresses` - Get status after update
+- `POST /v0/profile/address_validation` - Get address validation

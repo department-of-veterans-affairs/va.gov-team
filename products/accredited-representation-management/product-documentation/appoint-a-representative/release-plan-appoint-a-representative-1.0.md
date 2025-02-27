@@ -122,7 +122,7 @@ What changes (if any) need to be implemented before proceeding to the next rollo
 
 ### 1-Week Results Post-Launch (Jan 23-30, 2025)
 
-Datadog Endpoint activity ([representation-management dashboard](https://vagov.ddog-gov.com/apm/entity/service%3Arepresentation-management?compareVersionEnd=0&compareVersionPaused=false&compareVersionStart=0&dependencyMap=qson%3A%28data%3A%28telemetrySelection%3Aall_sources%29%2Cversion%3A%210%29&deployments=qson%3A%28data%3A%28hits%3A%28selected%3Aversion_count%29%2Cerrors%3A%28selected%3Aversion_count%29%2Clatency%3A%28selected%3Ap95%29%2CtopN%3A%215%29%2Cversion%3A%210%29&env=eks-prod&errors=qson%3A%28data%3A%28issueSort%3AFIRST_SEEN%29%2Cversion%3A%210%29&fromUser=false&groupMapByOperation=null&logs=qson%3A%28data%3A%28indexes%3A%5B%5D%29%2Cversion%3A%210%29&operationName=rack.request&panels=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&resources=qson%3A%28data%3A%28visible%3A%21t%2Chits%3A%28selected%3Atotal%29%2Cerrors%3A%28selected%3Atotal%29%2Clatency%3A%28selected%3Ap95%29%2CtopN%3A%215%29%2Cversion%3A%211%29&summary=qson%3A%28data%3A%28visible%3A%21t%2Cchanges%3A%28%29%2Cerrors%3A%28selected%3Acount%29%2Chits%3A%28selected%3Acount%29%2Clatency%3A%28selected%3Alatency%2Cslot%3A%28agg%3A95%29%2Cdistribution%3A%28isLogScale%3A%21f%29%2CshowTraceOutliers%3A%21t%29%2Csublayer%3A%28slot%3A%28layers%3AserviceAndInferred%29%2Cselected%3Apercentage%29%2ClagMetrics%3A%28selectedMetric%3A%21s%2CselectedGroupBy%3A%21s%29%29%2Cversion%3A%211%29&traces=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&start=1736351702936&end=1736366102936&paused=false))
+Datadog Endpoint activity ([Appoint a Representative Datadog dashboard](https://vagov.ddog-gov.com/dashboard/iiz-nnm-2em/arm-appoint-a-representative?fromUser=true&refresh_mode=monthly&from_ts=1735718400000&to_ts=1737609578840&live=true))
 1. 0 errors
 2. 554 requests to our endpoint for returning representatives in search results
 3. 243 requests to our endpoint for 21-22 PDF generation
@@ -138,19 +138,28 @@ Google Analytics traffic to Appoint a Representative ([GA4 explore report](https
 
 ### 1-Month Results Post Launch (Jan 23 - Feb 23, 2025)
 
-1. Errors in Datadog:
-2. Google Analytics traffic to Appoint a Representative
-12. Contact Center calls (MyVA411): 
-13. Feedback survey submmissions (Medallia): 
+Datadog Endpoint activity ([Appoint a Representative Datadog dashboard](https://vagov.ddog-gov.com/dashboard/iiz-nnm-2em/arm-appoint-a-representative?fromUser=true&refresh_mode=monthly&from_ts=1735718400000&to_ts=1737609578840&live=true))
+1. 0 errors
+2. 2k requests to our endpoint for returning representatives in search results
+3. 895 requests to our endpoint for 21-22 PDF generation
+4. 66 requests to our endpoint for 21-22a PDF generation
+6. 660 requests to our endpoint for sending the "Next Steps" email notification
+
+Google Analytics traffic to Appoint a Representative ([GA4 explore report](https://analytics.google.com/analytics/web/?pli=1#/analysis/p419143770/edit/s8Td-mYMQoKwisXggjlrqw))
+1. 4,592 sessions to /appoint-rep/introduction (majority referred from our landing page, but there is also some traffic from the "About VA Form" pages)
+2. 1,936 sessions to /appoint-rep/representative-select
+3. 934 sessions to /appoint-rep/representative-contact
+4. 683 sessions to /appoint-rep/confirmation aka the Download page
+5. 598 sessions to /appoint-rep/next-steps
+
+Contact Center calls (MyVA411): None
+
+Feedback survey submmissions (Medallia): General VA frustration or searching for a representative. There was one Appoint-specific comment, indicating the user was looking to submit their 21-22 online but could not.
 
 **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?**  
-
-**OKRs:**
-
+Already emerging from research, as well as the Feedback survey submission: rethink how to inform users when the path ends in PDF generation (not online submission).
 
 ## Post-Launch Questions
-
-_To be completed once you have gathered your initial set of data, as outlined above._
 
 1. **How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?**
 2. **What qualitative feedback have you gathered from users or other stakeholders?** 

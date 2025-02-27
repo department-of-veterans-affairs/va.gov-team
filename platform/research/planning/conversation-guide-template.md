@@ -2,7 +2,7 @@
 
 ## Moderator logistics
 ### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
+- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist). 
 
 - Complete any project-specific setup tasks for this study (List them below)
 

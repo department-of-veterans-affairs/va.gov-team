@@ -28,7 +28,7 @@ Veterans who have overpayment debts and/or medical copayments currently receive 
 - Simplify and streamlined process for viewing debts and copays on a singular letter format.
 - Decreased confusion of the current debt level.
 - Improved customer satisfaction and Veteran experience
-- Standardization of the complete debt overview.
+- Standardization of the complete debt overview to align with Stakeholder provided template.
 
 **Undesired**
  - Presenting Veterans with an incomplete view of debt information
@@ -37,8 +37,9 @@ Veterans who have overpayment debts and/or medical copayments currently receive 
 ## Requirements
 - As a general guideline, if the information is on the letter that is mailed to a Veteran (copay statement or demand letter) then it should be included on the One VA Debt Letter. Included elements to include: Veteran Information including Name, Address, File Number;  Outstanding/Current Account Balance;  Payment;  Late fees;   Date debt was generated.
 - Document must be in a format that veteran can download print or save a copy for their records
-- Format of letter should emulate medical co-pay statements as accurate as closely as possible
+- Format of letter should emulate medical co-pay statements and draft provided by stakeholders as accurate as closely as possible. Presenting "card" information in the format generally provided by HMTL will not align with business requirements
 - Data needs to be accurate and consistent with information seen on the va.gov debt portal
+- Only outstanding payment information needs to be reflected; any debts or copays that have been paid will not be added to this letter
 - Provide users with an easy “Download” or “Generate” button to generate this letter
 - Letter needs to be formatted properly to ensure readability and clearly display information 2 users
 - Analytics need to be established to track the number of letters that have been generated
@@ -46,6 +47,7 @@ Veterans who have overpayment debts and/or medical copayments currently receive 
 - Ensure the generated letter is mobile friendly
 - Usability testing is required to ensure accurate data representation
 - Previous payment information can be included on but is not required for MVP
+- 
   
 **VA One Debt Letter MVP Draft can be found on Super Epic**
 
@@ -55,9 +57,11 @@ Veterans who have overpayment debts and/or medical copayments currently receive 
 - Integrating two debts (medical copays and benefit overpayments) into a single PDF document
 - Ability to view and download document from the debt summary page on the debt portal. 
 - Integration of "payments made" in the transaction information on the letter
+- leverage existing data provided (for copays by VBS API; for overpayments by DMC API)
 
 **Out of Scope**
-- Additional debt types beyond the two initially planned
+- Additional debt types beyond the two initially planned (meaning only copays and benefit overpayments will be included in MVP)
+- Copay Data from Lighthouse API integration will not be included in the MVP of this Letter
 
 |REFERENCE LINKS|
 |----------------------------------------------|

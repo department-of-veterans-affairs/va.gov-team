@@ -1,4 +1,4 @@
-# Using Codespaces with experimental branches of Vets-website and Component Library
+# Using experimental branches of the Component Library with vets-website on GitHub Codespaces
 
 Description:
 

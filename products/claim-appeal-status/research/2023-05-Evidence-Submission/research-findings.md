@@ -6,7 +6,7 @@ Date: June 2023
 
 Skyler Schain · skyler@coforma.io
 
-[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/files/11875309/Evidence.Submission.Research.Findings.pdf) (PDF)
+[Research readout (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/11875309/Evidence.Submission.Research.Findings.pdf)
 
 
 ## Research Goals

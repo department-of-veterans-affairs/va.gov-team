@@ -40,14 +40,6 @@ Use Case 2 - Veteran Logs into VA.gov to Schedule their Appointment
 - [Userflow](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-2&node-type=canvas&t=LiHZZTWFuTyHRAZk-0)
 - [Wireframes](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=2490-44318&node-type=canvas&t=mCEHUfLmEffXZ0jD-0)
 
-## Metrics
-- Number of Veterans who choose to directly schedule their community care appointment
-    - Click events for "Go to your referral details to start scheduling" link on "Appoiuntments" page    
-    - Click events for "Schedule your appointment" on "Referral for" page
-    - Click events for "Schedule your appointment" on "Referrals and requests" page
-    - Click events for "Continue" on "Schedule an appointment with your provider" page
-    - Click events for "Confirm" on "Review your appointment details" page
-
 ## Technical design
 [Technical documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/community-care-technical-documentation.md)
 

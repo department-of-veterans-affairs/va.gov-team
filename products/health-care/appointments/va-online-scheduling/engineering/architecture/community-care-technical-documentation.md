@@ -264,7 +264,14 @@ Response when an appointment is found
   ]
 }
 ```
-### * POST `/vaos/v2/draft_appointment/` (new?)
+### * POST `/vaos/v2/epsApi/draftReferralAppointment` (new?)
+Request:
+```
+{
+  "referralId": "add2f0f4-a1ea-4dea-a504-a54ab57c6800"
+}
+```
+Response:
 ```
 {
   "appointment": {
@@ -337,11 +344,91 @@ Response when an appointment is found
 ```
 ### * GET `/vaos/v2/appointments` (existing)
 ### * GET `/vaos/v2/appointments/{appointmentId}` (existing)
-### * GET `/vaos/v2/appointments/{appointmentId}` (new)
+### * GET `/vaos/v2/eps_appointments/{appointmentId}` (new)
 ```
-TBD
+{
+  "data": {
+    "id": "qdm61cJ5",
+    "type": "eps_appointment",
+    "attributes": {
+      "appointment": {
+        "id": "qdm61cJ5",
+        "status": "booked",
+        "patientIcn": "care-nav-patient-casey",
+        "created": "2025-02-10T14:35:44Z",
+        "locationId": "sandbox-network-5vuTac8v",
+        "clinic": "Aq7wgAux",
+        "start": "2024-11-21T18:00:00Z",
+        "referralId": "12345",
+        "referral": {
+          "referralNumber": "12345",
+          "facilityName": "Linda Loma",
+          "facilityPhone": "555-555-5555"
+          "typeOfCare": "Physical Therapy"
+          "modality": "In Person"
+        }
+      },
+      "provider": {
+        "id": "test-provider-id",
+        "name": "Timothy Bob",
+        "isActive": true,
+        "individualProviders": [
+          {
+            "name": "Timothy Bob",
+            "npi": "test-npi"
+          }
+        ],
+        "providerOrganization": {
+          "name": "test-provider-org-name"
+        },
+        "location": {
+          "name": "Test Medical Complex",
+          "address": "207 Davishill Ln",
+          "latitude": 33.058736,
+          "longitude": -80.032819,
+          "timezone": "America/New_York"
+        },
+        "networkIds": [
+          "sandbox-network-test"
+        ],
+        "schedulingNotes": "New patients need to send their previous records to the office prior to their appt.",
+        "appointmentTypes": [
+          {
+            "id": "off",
+            "name": "Office Visit",
+            "isSelfSchedulable": true
+          }
+        ],
+        "specialties": [
+          {
+            "id": "test-id",
+            "name": "Urology"
+          }
+        ],
+        "visitMode": "phone",
+        "features": null
+      } 
+    }
+  }
+}
 ```
-### * POST `/vaos/v2/appointments` (existing)
+### * POST `/vaos/v2/epsApi/appointments` (existing)
+Request:
+```
+{
+  "referralId": "add2f0f4-a1ea-4dea-a504-a54ab57c6800",
+  "slotId": "5vuTac8v-practitioner-1-role-2|e43a19a8-b0cb-4dcf-befa-8cc511c3999b|2025-01-02T15:30:00Z|30m0s|1736636444704|ov1",
+  "draftApppointmentId": "EEKoGzEf"
+}
+```
+Response:
+```
+{
+  "data": {
+    "appointmentId": "EEKoGzEf"
+  }
+}
+```
 ### * GET `/vaos/v2/providers` (new)
 ### * GET `/vaos/v2/providers/{providerId}/slots` (new)
 ### * GET `/vaos/v2/providers/{providerId}/drivetime` (new)

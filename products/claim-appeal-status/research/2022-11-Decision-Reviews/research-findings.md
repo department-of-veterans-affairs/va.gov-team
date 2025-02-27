@@ -6,6 +6,7 @@ Date: Feb 2023
 
 Skyler Schain (skyler@coforma.io)
 
+[Research Readout (PDF)](https://github.com/user-attachments/files/18996261/2023.02.Decision.Review.Research.Share.pdf)
 
 ## Research Goals
 With this research, we are hoping to speak with Veterans who have engaged in a decision review. We want to learn more about the pain points in this user journey.

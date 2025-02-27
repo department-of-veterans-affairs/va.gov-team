@@ -40,13 +40,13 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 2 [2/12/25-2/25/25] 
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-| UX: Define the path (PDF or HTML) version for the one VA Debt letter | QP1 |--|--|--|
-| UX: Finalization of wizard content mockups and prototypes for research and studies | QP2 |--|--|--|
-| UX: Define UX practice process and vision for 2025 | N/A |--|--|--|
-| UX: Complete one of the prior Medallia reports | QP4 |--|--|--|
-| ENG: Have a clear path for one debt letter by define how the letter will be technically generated | QP1 |--|--|--|
-| ENG: Have an “Alpha” version of the Wizard live on staging | QP2 |--|--|--|
-| ENG: Harden the FSR – Have fewer issues and a higher confidence in data integrity by auditing parameters sent from frontend| N/A |--|--|--|
+| UX: Define the path (PDF or HTML) version for the one VA Debt letter | QP1 |--|02/25/25|Completed|
+| UX: Finalization of wizard content mockups and prototypes for research and studies | QP2 |Blocked by CAIA|02/20/25|Blocked|
+| UX: Define UX practice process and vision for 2025 | N/A |--|2/25/25|Completed|
+| UX: Complete one of the prior Medallia reports | QP4 |--|02/25/25|Completed|
+| ENG: Have a clear path for one debt letter by define how the letter will be technically generated | QP1 |--|2/24/25|Completed|
+| ENG: Have an “Alpha” version of the Wizard live on staging | QP2 | CAIA has shifted development implementation plan | 02/24/25 | Blocked |
+| ENG: Harden the FSR – Have fewer issues and a higher confidence in data integrity by auditing parameters sent from frontend| N/A |--|2/24/25|Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals
@@ -55,26 +55,29 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
+- [X] All goals have been updated in the sprint chart
+- [X] Any Additional details about goals **not** completed will be documented here
+- **ENG: Have an “Alpha” version of the Wizard live on staging**
+  - Our front end team worked on implementing the initial (bare bones) version of the wizard based on a "sub task" design where veterans answer a series of questions to determine if the FSR was the appropriate for resolving their issue. The effort has been blocked pending additional guidance from the CAIA team since we may be continuing with an alternate approach.
 
 
 
 ## Sprint Goals - Sprint: 3 [ 2/26/25-3/11/25] 
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-| UX: | QPX |--|--|--|
-| UX: | QPX |--|--|--|
-| UX: | QPX |--|--|--|
-| ENG: | QPX |--|--|--|
-| ENG: | QPX |--|--|--|
-| ENG: | QPX |--|--|--|
+| UX: Write VHA Payment History stakeholder and SME feedback survey and distribute for feedback | QP3 |--|--|--|
+| UX: Complete the Monthly Medallia report| QP3 |--|--|--|
+| UX: Create a Q3 2024 retrospective report for Custom Survey Medallia feedback | QP3 |--|--|--|
+| ENG: Enable the feature flag for the activation of the one VA debt letter presentation button (Staging) | QP1 |--|--|--|
+| ENG: Debts and copay data appear on the One VA debt letter (Staging) | QP1 |--|--|--|
+| ENG: Payment history feature work has begun development | QP3 |--|--|--|
+| ENG: Veterans are presented with the correct contact information (phone number updates) | N/A |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [ ] Ready to be sent for approvals
- - [ ] VA PO & COR sent the Sprint Goals
- - [ ] VA PO approved the Sprint Goals
- - [ ] VA COR approved the Sprint Goals
+ - [X] Ready to be sent for approvals
+ - [X] VA PO & COR sent the Sprint Goals
+ - [X] VA PO approved the Sprint Goals
+ - [X] VA COR approved the Sprint Goals
  
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart

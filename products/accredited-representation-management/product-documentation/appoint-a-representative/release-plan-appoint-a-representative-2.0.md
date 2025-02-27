@@ -19,8 +19,8 @@ This feature toggle is setup for authenticated users and we can also enable earl
 
 #### Platform Preparation
 - [ ] All "launch blocking" items from Staging Review have been addressed
-- [ ] All "should fix" items from QA have been addressed
-- [ ] Contact Center Review is complete 
+- [ ] All "Before release" items have been addressed
+- [x] Contact Center Review is submitted 
 - [ ] Privacy, Security, IA Readiness Review is complete
 
 #### Technical Preparation

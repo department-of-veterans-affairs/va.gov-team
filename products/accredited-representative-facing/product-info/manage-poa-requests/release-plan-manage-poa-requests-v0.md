@@ -74,7 +74,7 @@ The following metrics will be considered before advancing rollout to the next pi
 
 ## Post Launch Metrics
 
-_Link to DOMO dashboards TBD_
+_Link to Datadog dashboards TBD_
 
 1. [Traffic for all Accredited Rep Portal pages]( )
 2. [User Engagement]( ) (segmented by accredited rep users vs. all users of VA.gov)

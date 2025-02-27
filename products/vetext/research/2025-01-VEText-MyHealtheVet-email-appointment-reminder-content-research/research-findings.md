@@ -7,7 +7,7 @@ Date: 02/05/2025
 
 Jamie Ramsay jamie.ramsay@oddball.io
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+Research readout([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/research/2025-01-VEText-MyHealtheVet-email-appointment-reminder-content-research/research-findings-presentation.md))
 
 **Jump to:**
 
@@ -136,6 +136,7 @@ When Veterans are recording emails to their own personal digital calendars, they
 > - “*I don't generally delete (email reminders). I have a VA file in my file system (on phone)” - P9* 
 > - “*As a person that  always has things on my calendar, sometimes things can get lost in the sauce. And just that reminder...I'm like, thanks for that.” - P10*
 > - "*I double check what they are saying and what I have because a lot of times, they have been wrong." - P6*
+<img width="2462" alt="appointment path" src="https://github.com/user-attachments/assets/2d88b133-e388-43b1-9303-327cb52858b3" />
 
 <br />
 <br />
@@ -280,7 +281,8 @@ One participant detailed thoughts on why Veterans might no-show to appointments,
     * 64% of participants want status listed in emails (although 1 participant only wanted to know confirmed)
     * 82% of participants find value in including appointment modality (in-person, video, telephone) in emails
     * Providing direct clinic phone numbers saves Veterans time and frustration and should be prioritized for, at minimum, clinics that have specialized schedulers
-      
+      ![PHI version based on research recs](https://github.com/user-attachments/assets/a3359628-1ea0-41cd-bcc9-dcc0d1c04f6a)
+
 3. **Continue sending MHV reminders as a list of all upcoming appointments, however consider moving cadence to 7 days and 1 day prior.**
     * 73% of participants said they preferred a list of appointments
     * Being provided a list of all upcoming appointments in a single email was “reassuring” and helped with long term planning

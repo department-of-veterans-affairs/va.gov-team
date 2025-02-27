@@ -1,6 +1,6 @@
 # How to Test EVSS Silent Failure Work in Staging
 
-## EVSS - Testing upload success when cst_send_evidence_submission_failure_emails is enabled
+## Upload success when cst_send_evidence_submission_failure_emails is enabled
 ### Testing uploading a file in the CST
 1. Make sure you have ArgoCD Access
     1. If you dont have access you can go to [this](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Cplatform-tech-team-support%2Cops-access-request&projects=&template=vetsapi-argo-terminal-access.yaml&title=Vets-api+terminal+access+for+%5Bindividual%5D) link and create a github ticket to get access
@@ -26,7 +26,8 @@
     2. The new records `upload_status` should be **SUCCESS** and there should be a `delete_date`
 
 ### Testing the delete evidence submission record job 
-1. Within the ArgoCD terminal using rails console run the following commands to change the record to have an earlier delete_date and run the delete evidence submission record cron job...
+1. Perform steps 1-14 noted in the [Testing uploading a file in the CST](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-staging.md#testing-uploading-a-file-in-the-cst)
+2. Within the ArgoCD terminal using rails console run the following commands to change the record to have an earlier delete_date and run the delete evidence submission record cron job...
     1. NOTE: If you dont run this manually it is set up to run daily
     ```
     // Find your evidence submission passing in your claim id and tracked item id if necessary
@@ -47,13 +48,14 @@
     ```
 18. Your record should now be deleted
 
-## EVSS - Testing upload failure for type 1 and 2 when cst_send_evidence_submission_failure_emails is enabled
+## Upload failure for type 1 and 2 when cst_send_evidence_submission_failure_emails is enabled
 ### Testing uploading a file in the CST
-1. Perform steps 1-14 noted in the **Testing upload success section**
+1. Perform steps 1-14 noted in the [Testing uploading a file in the CST](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-staging.md#testing-uploading-a-file-in-the-cst)
 2. Create an ID.me Account in Staging, instructions [here](products/claim-appeal-status/engineering/onboarding/create-idme-staging-account.md)
 
 ### Testing the document upload failure email job runs
-1. Within the ArgoCD terminal using rails console run the following commands to change the record to a failure and run the document upload failure email cron job...
+1. Perform steps 1-2 noted in the [Testing uploading a file in the CST](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/evss-testing-staging.md#testing-uploading-a-file-in-the-cst-1)
+2. Within the ArgoCD terminal using rails console run the following commands to change the record to a failure and run the document upload failure email cron job...
    1. NOTE: If you dont run this manually it is set up to run daily
    ```
    // Find your evidence submission passing in your claim id and tracked item id if necessary
@@ -72,15 +74,42 @@
    es.update(upload_status: 'FAILED', delete_date: nil, acknowledgement_date: <DESIRED_DATE>, failed_date: <DESIRED_DATE>, error_message: 'EVSS::DocumentUpload document upload failure')
 
    // After the update check each field to make sure it is updated correctly
-
-   // If you have an ICN in staging, look up your account id using your icn and update the evidence submission record with your account id
-   // This will make it so that when we run the failure email cron job, you will receive the email
-   account_id = UserAccount.find_by(icn: "<YOUR_ICN>").id
-   es.update(user_account_id: account_id)
-
-   // Run this command to run the failure notification email job that sends a document upload failure email to a user or wait for 24 hours for the job to run automatically
-   Lighthouse::EvidenceSubmissions::FailureNotificationEmailJob.perform_async
-
-   // Look up your evidence submission record and you should see your record now has a va_notify_id and and a va_notify_date
    ```
-2. Id you changed the User Account ID of the evidence submission record then you should expect to recevie a document upload failure notification email
+3. You should now have a record with a FAILED upload_status, a nil delete_date, an acknowledgement_date, a failed_date, an error_message and a template_metadata -> personalisation -> date_failed
+4. Within the ArgoCD terminal using rails console run the following commands to update the User Account ID on a record and to run the document upload failure email cron job...
+    1. NOTE: If you dont run this manually it is set up to run daily
+    ```
+    // If you have an ICN in staging, look up your account id using your icn and update the evidence submission record with your account id
+    // This will make it so that when we run the failure email cron job, you will receive the email
+    account_id = UserAccount.find_by(icn: "<YOUR_ICN>").id
+    es.update(user_account_id: account_id)
+    
+    // Run this command to run the failure notification email job that sends a document upload failure email to a user or wait for     // 24 hours for the job to run automatically
+    Lighthouse::EvidenceSubmissions::FailureNotificationEmailJob.perform_async
+    
+    // Look up your evidence submission record and you should see your record now has a va_notify_id and and a va_notify_date
+    ```
+5. If you changed the User Account ID of the evidence submission record then you should expect to receive a document upload failure notification email
+
+### Query for mass updating records from SUCCESS to FAILED for EVSS
+1. Add uploads to stating
+2. Within the ArgoCD terminal using rails console run the following commands to change multiple records to a failure...
+   ```
+    // Check number of records created today for EVSS (EVSSClaimService)
+   EvidenceSubmission.where(upload_status: 'SUCCESS', job_class: 'EVSSClaimService', created_at: Time.zone.now.beginning_of_day..Time.zone.now.end_of_day).count
+
+   // Note the # of failed records
+   EvidenceSubmission.failed.count
+
+   // Add limit to only grab a certain # of those records for EVSS (EVSSClaimService) and update them to be failed
+   // Copy and paste all of this into rails c and it should work
+   evidence_submissions = EvidenceSubmission.where(upload_status: 'SUCCESS', job_class: 'EVSSClaimService', created_at: Time.zone.now.beginning_of_day..Time.zone.now.end_of_day).limit(5)
+   evidence_submissions.all.each do | es |
+       new_personalisation = JSON.parse(es.template_metadata)['personalisation']
+       new_personalisation['date_failed'] = new_personalisation['date_submitted']
+       es.update(template_metadata: { personalisation: new_personalisation }.to_json, upload_status: 'FAILED', delete_date: nil, acknowledgement_date: es.created_at + 30.days, failed_date: es.created_at, error_message: 'EVSS::DocumentUpload document upload      failure')
+   end
+
+   // Note the # of failed records increased by 5
+   EvidenceSubmission.failed.count
+   ```

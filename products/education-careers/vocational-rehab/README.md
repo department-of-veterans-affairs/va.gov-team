@@ -4,6 +4,7 @@
 ## Overview
 > Note: an archive of previous work is located [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/apply-vre-ch31).  An [offboarding doc](https://docs.google.com/document/d/13Dm3cPJA_LIWvQFgBK0ShuDGPNdqObwGTUjdO5YNwkE/edit?tab=t.0) (access required) was created when this product was handed off to the VA-IIR team.
 
+
 Formerly called Vocational Rehabilitation and Employment, the online 28-1900 form allows Veterans with a service-connected disability that limits their ability to work or prevents them from working helps them explore employment options and address education or training needs. In some cases, the Veteran's family members may also qualify for certain benefits.
 
 

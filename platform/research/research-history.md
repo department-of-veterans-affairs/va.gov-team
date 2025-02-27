@@ -1321,7 +1321,7 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### March 12-16 - Notifications Research
 *Dragons Team, Research Lead: Samara Strauss, moderated by Elissa Frankle Olinsky*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2018-notifications-work/HCA%20MVP/Research)
 
 #### March 7-9 - VR&E Usability Research
 *Rainbows Project, research leads: Mike Eng & Elissa Frankle Olinsky. This study was cut short due to stakeholder blocker issues.*
