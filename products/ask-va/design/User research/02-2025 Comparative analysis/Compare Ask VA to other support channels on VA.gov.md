@@ -74,7 +74,7 @@ I reviewed each channel and took notes in [Mural](https://app.mural.co/t/departm
 
 ### Phone numbers
 
-I reviewed the descriptions of 6 different VA phone lines:
+I reviewed the descriptions of 6 different VA phone lines. They all involve making a phone call and interacting with a representative or phone tree to receive help or complete a task.
 
 - **MyVA411 main information line** is for Veterans and their support networks to contact VA using a 'main, toll-free number.' It will connect to a specific department or office or a VA cal center agent.
 - **VA benefits hotline** can help with finding out the status of a claim or appeal, updating your direct deposit information, requesting a letter, reporting a death or getting answers to other questions about VA benefits.
