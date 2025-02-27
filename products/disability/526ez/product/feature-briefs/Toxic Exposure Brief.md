@@ -14,7 +14,7 @@ Today, while Veterans can file disability compensation for conditions believed t
 
 ## Proposed Solution
 
-## See [TE Figma Files](https://www.figma.com/design/dBKlB23Hs2oa53euXcXmmK/526-%2F-Toxic-Exposure-%2F-Paper-Sync?node-id=34-73279&p=f&t=urnN1yIMbK2E48qj-0)
+See [TE Figma Files](https://www.figma.com/design/dBKlB23Hs2oa53euXcXmmK/526-%2F-Toxic-Exposure-%2F-Paper-Sync?node-id=34-73279&p=f&t=urnN1yIMbK2E48qj-0)
 
 ## In Scope
 
