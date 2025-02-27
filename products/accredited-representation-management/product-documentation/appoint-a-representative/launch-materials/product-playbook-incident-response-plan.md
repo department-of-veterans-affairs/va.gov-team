@@ -61,12 +61,18 @@ This section outlines the steps to investigate and resolve issues related to the
 
 ### Flipper Features and Rollback
 
+#### MVP
+
 - Enables Appoint a Representative frontend - `appoint_a_representative_enable_frontend`
 - Enables Appoint a Representative PDF generation endpoint - `appoint_a_representative_enable_pdf`
 - Use the original veteran_x models to power Appoint a Rep entity search - `use_veteran_models_for_appoint`
 
+#### V2
+
+- Enables Appoint a Representative 2.0 features for the frontend and the backend - `appoint_a_representative_enable_v2_features`
+
 ## Security
 
-PII and PHI is collected from authenticated users who start or complete the Appoint a Representative form flow; the data is encrypted and temporarily saved in the SiP (Save in Progress) forms table -- `in_progress_forms` -- in the VA.gov Postgresql database. From our understanding, the data is purged after 60 days.
+PII and PHI is collected from authenticated users who start or complete the Appoint a Representative form flow; the data is encrypted and temporarily saved in the SiP (Save in Progress) forms table -- `in_progress_forms` -- in the VA.gov Postgresql database. Once the user either completes the form flow and downloads the PDF or submits the request online, the SiP record is deleted, otherwise, if the user never completes the form flow, from our understanding, the data is purged after 60 days.
 
 When the request to generate the 21-22/21-22a PDF is made, the user's PII and PHI data is encrypted in transit via HTTPS but the data, including the generated PDF, is not persisted anywhere.
