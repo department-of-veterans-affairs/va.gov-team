@@ -1,7 +1,7 @@
 # Design Resources
 Useful links for design work related to the Benefits Management Tools team
 
-## Benefits Management Tools Figma Project
+### Benefits Management Tools Figma Project
 
 Collection of all design files for BMT work
 
@@ -13,13 +13,19 @@ A resource for any designer working on CST. Contains elements for organizing fil
 
 [Link](https://www.figma.com/file/lbRZz68qGRGTdUigcoJq3a/Local-BMT-Components?type=design&node-id=24-7&mode=design&t=ukDdQoSFmlnRaKLn-11)
 
-### CST App Map 
+### CST V2
 
-An overview of the CST UI (past and present). This is an unifinished document that needs consistent maintenance to stay relevant as the CST interface changes and new features are added and/or removed.
+Source of truth for CST. Has been maintiained to incorporate any new changes to the CST UI since early 2024. Any CST UI changes should be added here to reflect the current state of the tool.
+
+[Link](https://www.figma.com/design/F8U4wddaFouUPVd4mGBMDI/CST-V2?node-id=0-809&p=f&t=OzFhEGGRFnBC4dvh-0)
+
+### CST App Map (Depracated)
+
+An overview of the CST UI (past and present). This was meant to capture the old version of CST before the creation of CST V2. This can still be a helpful reference for finding older UI states or UIs that have not yet been updated (e.g. appeals). 
 
 [Link](https://www.figma.com/file/y27KDDtZLBDSVZmAjXdbJn/CST-App-Map?type=design&node-id=221-154&mode=design&t=s1fVDfk3xgl0BFe6-0)
 
-## CST Mural Space 
+### CST Mural Space 
 
 Mural boards for BMT design work and documentation. (Requires OKTA authentication)
 
