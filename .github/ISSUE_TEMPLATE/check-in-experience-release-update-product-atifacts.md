@@ -17,10 +17,10 @@ Update product guide, as necessary, based on the feature release.
      - [ ] OH Travel
      - [ ] Appointments
 - [ ] Create a Content ticket with updated screenshots for changes to the Resources & Support (R&S) articles in VA.gov, if necessary
-- [ ] Create a Contact Center review ticket & schedule a review; Put the link to the ticket in the main collab cycle ticket
+- [ ] Create a Contact Center review ticket; Put the link to the ticket in the main collab cycle ticket
 
 ## Acceptance Criteria
 - [ ] Product Guides are up-to-date 
-- [ ] Product Guides have been published to Git
+- [ ] Product Guides have been published to Git (and SharePoint for Appointments guide)
 - [ ] R&D articles are up-to-date (or scheduled for publishing)
-- [ ] Contact Center review has been scheduled
+- [ ] Contact Center ticket has been created
