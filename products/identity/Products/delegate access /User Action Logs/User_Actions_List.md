@@ -4,24 +4,29 @@ A pattern to write and scale event descriptions for user action records in the a
 ## Overview
 - User action records include both an event type and event description
 - Event descriptions need to be clear and distinct
-- For the MVP this list includes access events only
+- For the MVP this list of events is focused on sign-in events and access events that **update** database resources
 
 ### Terminology
-- **Access event:** a user action where sensitive information is **updated** in a database by a user or system
+- **Access event:** a user action where sensitive information is accessed or updated in a database by a user or system
 - **Audit database:** logs for access events stored on vets-api and Amazon Web Services (AWS) for 7 years
 - **Event description**: describes the user action taken and the specific resource accessed or updated
-- **Event type**: categories of access events, including: Sign in, Profile, Payments, Documents, Forms
-- **Resource:** types of sensitive information, including: account, identity, password, direct deposit
+- **Event type**: categories of access events, including: sign in, profile, payments, documents, forms
+- **Resource:** types of sensitive information accessed in a database, including: account, identity, password, direct deposit
+- **User action:** verbs used to describe resources accessed or updated in a database
 
 ## How to write event descriptions
-### Content guidelines
+### Guidelines
 - Describe the user action taken and the specific resource accessed or updated. 
 - If applicable, include the related form, document, or benefit name.
-- Most event descriptions start with one of these verbs: Add, Update, Submit, Download.
+- Most event descriptions start with one of these verbs: Add, Create, Update, Submit, Download.
+  - Use "Add" for user actions that can be completed more than once
+  - Use "Create" for user actions that can only be completed once, such as creating an account with a CSP
+  - Use "Update" for forms saved in progress
+  - Use "Submit" for forms that are completed
 - Write user actions in the present tense, not past tense, because events also include a status: Initial, Success, or Error.
 - For sign-in and identity terminology, refer to the [content design system](https://design.va.gov/content-style-guide/specific-topics-and-programs/sign-in-and-identity-verification).
 
-### Content pattern
+### Structure
 {{ User action }} {{ Resource accessed or updated }} {{ Specific form, document, or benefit }}
 
 ### Examples
