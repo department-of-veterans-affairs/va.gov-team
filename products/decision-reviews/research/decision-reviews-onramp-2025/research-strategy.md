@@ -72,3 +72,21 @@ We'll use the findings from this research to iterate on the guided decision revi
 2. We believe that appropriate resources will be surfaced for users looking for more information regarding decision reviews.
 3. We believe that separating the guided decision review into three separate pre-form questionnaire does not decrease it's effectiveness to help Veterans.
 
+### Possible Methods of testing
+- Moderated interview + usability testing
+- Unmoderated decision tree testing
+- A/B Testing
+- Medalia: Pop-up feedback surveys at intro page
+
+## Metrics
+
+### KPIs
+
+- % reduction in form abandonment | DOMO and GA
+- % reduction in number of pathways started | form in progress count
+- % reduction in incorrect claims submitted | how is incorrect determined?
+- % reduction in duplicate claims submitted |
+- Increased redirects to form introductions from targeted gateway pages Gateway page views
+- CSAT | how to measure (periodic page surveys? Does this already exist?)
+
+
