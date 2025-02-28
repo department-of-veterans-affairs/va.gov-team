@@ -87,6 +87,3 @@ We'll use the findings from this research to iterate on the guided decision revi
 - % reduction in incorrect claims submitted | how is incorrect determined?
 - % reduction in duplicate claims submitted |
 - Increased redirects to form introductions from targeted gateway pages Gateway page views
-- CSAT | how to measure (periodic page surveys? Does this already exist?)
-
-
