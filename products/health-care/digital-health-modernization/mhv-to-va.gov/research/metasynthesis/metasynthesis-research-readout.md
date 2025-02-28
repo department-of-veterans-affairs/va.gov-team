@@ -114,10 +114,12 @@ Lower numbers of users are clicking on health-periphery task. We don't know if t
 - whether people aren't finding them or noticing them
 - if people simply do them elsewhere (BTSSS; pay.gov; paper/ in-person)
 - that not everyone connects those concepts in their mental models (some evidence to this in UXRs)
+  
 --
-***2. What are the highest impact navigation-related pain points (General/all of VA?) What navigation problems that cause the biggest challenges or make it hardest for Veterans to accomplish their tasks?***
+2. What are the highest impact navigation-related pain points (General/all of VA?) What navigation problems that cause the biggest challenges or make it hardest for Veterans to accomplish their tasks?***
 --
-## Insight 7: Veterans need a seamless way to access health and disability benefits information, but conflating the two creates confusion and inefficiencies. 
+
+## Insight 1: Veterans need a seamless way to access health and disability benefits information, but conflating the two creates confusion and inefficiencies. 
 
 High-confidence  RQ2  (2020 \-2024)
 
@@ -178,11 +180,15 @@ Veterans struggle with redundancy and resubmitting documentation across platform
 
 *  "VA has all my stuff but they want me to resubmit it as new evidence. Have to download the info from VA, highlight what the doctor said on what day, and then submit it as new evidence... then schedule another appointment." (P9, Landing Page Gap Analysis, July 2024\)
 
-**3. How do behaviors differ (or don’t) in the health space compared with the benefits space (health/ general all of VA)?**
+--
+3. How do behaviors differ (or don’t) in the health space compared with the benefits space (health/ general all of VA)?**
     * Do Veterans use My HealtheVet (health) differently than they use VA.gov for benefits? If so, how? If not, what’s the same?
+--
 
-_**4. What do Veterans expect from an authenticated experience on VA.gov that includes benefits from a range of VA sub-agencies? (general/all of VA)**
+--
+4. What do Veterans expect from an authenticated experience on VA.gov that includes benefits from a range of VA sub-agencies? (general/all of VA)**
     * What do Veterans want or expect when they log in to VA.gov, especially when it comes to easily accessing benefits and services from different VA departments (like health care, education, or disability)?_
+--
 
 ## Insight 1: Veterans value personalization. They want an experience tailored to their current benefits, claims, and tasks.
 
