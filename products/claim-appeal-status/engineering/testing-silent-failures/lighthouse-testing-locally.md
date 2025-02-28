@@ -95,7 +95,7 @@
 7. Run `vets-api` and `vets-website` locally
 8. Go to the claim status tool, select a claim, navigate to the Files Tab and upload a file
 9. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 1 record was added/updated to the evidence_submissions table
-        1. The new records `upload_status` should be FAILED and it should have an `acknowledgment_date`, `failed_date`, `error_message` and `template_metadata -> personalisation -> date_failed`
+        1. The new records `upload_status` should be FAILED and it should have a `failed_date`, `error_message` and `template_metadata -> personalisation -> date_failed`
 
 ### Type 2 error, when cst_send_evidence_submission_failure_emails is enabled
 1. Follow steps 1-8 to add a record with an IN_PROGRESS upload_status [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#when-cst_send_evidence_submission_failure_emails-is-enabled)
