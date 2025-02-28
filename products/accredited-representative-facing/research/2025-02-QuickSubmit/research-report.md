@@ -15,15 +15,15 @@ Type of Research: User interview
 
 Jump to:
 
-- [Background](#_kvvd0m5385jp)
-- [Research Goals](#_5rudm017qcgc)
-- [Executive Summary](#_apdyp4wpqh9c)
-- [Key Findings](#_2wc97arqmjr5)
+- [Background](# Background)
+- [Research Goals](#_Research Goals)
+- [Executive Summary](#_Executive Summary)
+- [Key Findings](#_Key Findings)
   - [Feature specific feedback](#_bwnl2gfvtdgw)
   - [Potential improvements](#bwnl2gfvtdgw)
-- [Recommendations](#_ryt761xsrpq1)
-- [Future Questions](#_tgz7l9mfced2)
-- [Appendix](#_5ux8m5wemo7a)
+- [Recommendations](#_Recommendations)
+- [Future Questions](# Future Questions)
+- [Appendix](#_Appendix)
 
 # Background
 
