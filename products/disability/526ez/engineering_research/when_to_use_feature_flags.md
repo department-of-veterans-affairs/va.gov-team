@@ -42,7 +42,7 @@ Consider these potential complications for using feature flags.
 - Are there any long-term implications for the feature flag? Will a certain piece of data be set one way or another as a result? For example, we used `started_form_version` to track which users submitted under one feature flag.
 
 ## Environment checks as an alternative to feature flags
-Sometimes using a feature flag is impossible, like if the changes are available on a page that doesn't require a user to be logged in, such as the Intro to 526 form page. (We need to use a particular user in order to turn on the feature flag in Staging for testing, so if we don't have a user, we cannnot test.) In that case, you can use an environment check in the frontend that looks for the Staging environment.
+Sometimes using a feature flag is impossible, like if the changes are available on a page that doesn't require a user to be logged in, such as the Intro to 526 form page. (We need to use a particular user in order to turn on the feature flag in Staging for testing, so if we don't have a user, we cannot test.) In that case, you can use an environment check in the frontend that looks for the Staging environment.
 
 ### Frontend: 
  Here is how we did it for the frontend: `if (!environment.isLocalhost())` ([link to pull request](https://github.com/department-of-veterans-affairs/vets-website/pull/33294/files)).
