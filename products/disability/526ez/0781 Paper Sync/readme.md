@@ -15,6 +15,7 @@ Create a new 0781 online form that will match the newest paper version of the PD
 
 
 # Resources
+- [Epic] 0781 Paper Sync 	https://github.com/department-of-veterans-affairs/va.gov-team/issues/87438
 - [Story Mapping Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718308823134/02c2c9ea74f16b276692af8f31eb65202acc7928?wid=0-1719930043260)
 - [Figma 0781 redesigns](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=9856-83462&t=us3dJI6ZkhtJ0Wz8-4)
 - [Figma 0781 redesigns-final](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=8144-135894)
