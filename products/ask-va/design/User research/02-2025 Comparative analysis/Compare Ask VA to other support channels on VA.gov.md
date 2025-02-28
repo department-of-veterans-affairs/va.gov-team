@@ -85,26 +85,19 @@ I reviewed the descriptions of 6 different VA phone lines. They all involve maki
 
 ## Insights
 
-We can distinguish support channels by whether they are asynchronous or synchronous.
+We can distinguish support channels by:
+- **When:** whether they are asynchronous or synchronous*
+- **What:** what they can support with
+- **How:** how they provide support
 
-Synchronous support involves real-time communication. Asynchronous support refers to communication that happens over a period of time, through back-and-forth.
-
-|Channel|Type of communication|
-|:--|:--|
-|Ask VA|Asynchronous|
-|MHV secure messaging|Asynchronous|
-|MHV contact form|Asynchronous|
-|VET-HOME Inquiry|Asynchronous|
-|VA chatbot|Synchronous|
-|Phone calls|Synchronous|
-
-We can also consider what each channel can support people with.
-
-|Channel|Type of communication|Supports with|
-|:--|:--|:--|
-|Ask VA|Asynchronous|You can ask about education, disability compensation, health care and many other topics.|
-|MHV secure messaging|Asynchronous|You can communicate securely with your VA health care team.|
-|MHV contact form|Asynchronous|You can ask about or communicate issues with the My HealtheVet website.|
-|VET-HOME Inquiry|Asynchronous|You can schedule an environmental health registry evaluation or ask about environmental exposure related issues.|
+|Channel|When|What|How|
+|:--|:--|:--|:--|
+|Ask VA|Asynchronous|You can ask about education, disability compensation, health care and many other topics.|You submit a question and receive a reply within 10 business days.|
+|MHV secure messaging|Asynchronous|You can communicate securely with your VA health care team.|You write messages and save drafts and receive a reply within 3 business days.|
+|MHV contact form|Asynchronous|You can ask about or communicate issues with the My HealtheVet website.|Submit a question or issue and receive a reply.|
+|VET-HOME Inquiry|Asynchronous|You can schedule an environmental health registry evaluation or ask about environmental exposure related issues.|Schedule an evaulation or submit a question 
 |VA chatbot|Synchronous|You can ask general questions about some VA benefits and services.|
-|Phone calls|Synchronous|Depending on which phone number, you can ask about a range of VA related issues.|
+|Phone calls|Synchronous|Depending on which phone number you call, you can ask about a range of VA related issues.|
+
+
+*Synchronous support involves real-time communication. Asynchronous support refers to communication that happens over a period of time, through back-and-forth.
