@@ -146,6 +146,10 @@ TODO: add vets-json-schema
 #### Support/Remediation (Production SOP)
 |Title|Description|Link|Last Updated|
 |-----|-----------|----|-------|
+|Troubleshooting on staging|Misc notes for troubleshooting submission failures on staging|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/troubleshooting-on-staging.md|7/31/24
+|SOP: Toxic Exposure/Lighthouse Form526 Submission Troubleshooting|Practical guide for engineers for troubleshooting 526 submissions.|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md#pdf-generation|9/16/24
+|TREX DEBUG TOOLS (EVSS -> Lighthouse Form 526 Submit)|Instructions on how to use the Form 526 "Test Harness", an important tool for local BE development against the Lighthouse submit endpoint. It is used in conjunction with the "form526_submit.rb" file listed in the same directory|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/benefits/scripts/526/TREX/DEBUG#evss---lighthouse-form-526-submit|5/16/24
+|Team 1 526 Submission Remediation Playbook|Playbook on how to officially remediate failed 526 submissions, with links to important guides relevant to generalized remediation|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/remediation_playbook.md|10/9/24
 #### Documentation
 |Title|Description|Link|Last Updated|
 |-----|-----------|----|-------|
