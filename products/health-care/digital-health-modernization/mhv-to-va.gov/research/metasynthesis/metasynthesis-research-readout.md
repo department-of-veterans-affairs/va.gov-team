@@ -296,7 +296,40 @@ Veterans’ expectations about what this “central page” should look like are
 
 <img width="592" alt="Screenshot 2025-02-28 at 10 42 27 AM" src="https://github.com/user-attachments/assets/0e4dbbce-92e2-4661-99c9-8fbc46aeca93" />
 
-    
+## Insight 5: Veterans have heightened information needs when they encounter major life transitions.
+
+Medium confidence  RQ 4  Needs more research
+
+Studies that support this insight
+
+* Generative research on transitioning service-members, 2024  
+* My VA Personalization 2.0 discovery research, 2020  
+* Social listening healthcare mental model, Sept 2024  
+* VES Veteran Unmet Needs report, 2024
+
+Methods:
+
+* Social listening  
+* Generative research  
+* Usability study
+
+Details: 
+
+The differences and severity of needs among Veterans are most pronounced during major life transitions. Aligning examples of these transitions to the [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf), the first and most universal change occurs when Veterans start up with the VA. Two studies point to the need for an onboarding process for recently separated Veterans, naming their need for orientation to the vast suite of benefits that they may be eligible for with the VA. Direct interviews with recently separated Veterans deeply reflect the lack of training around how to *use benefits* at the VA, what to apply for first based on their needs, and how to figure out what they and their family members are eligible for. Veterans want to be guided through the process (My VA Personalization 2.0 discovery research). 
+
+* The complexity of the VA discourages people from applying for benefits. Especially people with cognitive considerations. (Generative research on transitioning service-members, 2024\)   
+* Separating service members have the additional stress of getting to know the VA for the first time and figuring out how to settle into their lives outside of the military. While there are many ways we could better address \[their needs\], one of the biggest ones is creating an onboarding experience for first time users at the VA. (My VA Personalization 2.0 discovery research)  
+  * “Is there a walk through to the websites, like a point and click to see what is available and what is provided? It would assist in properly navigating the website … Walk me through how to… fill prescription or make an appointment.” (P1, Transitioning service-member interview)  
+  * I mean even if it were just a link \[on the website\] that said "separating: this is how we help" and have a page and links that are categorized that it was easy to navigate. Or apply for different situations or types of people that are getting out. Like going to school click here, going right into a job click here, something like that.” (P2, Transitioning service-member interview)   
+* Veterans transitioning to  civilian  life face challenges  in relating  to  non-military individuals,  workforce entry,  securing  basic necessities, accessing essential  services such as healthcare  and insurance, and adapting  to  a different  pace of life. This transition is notably  challenging,  with  43% of service members  experiencing  serious suicide  risk factors  in the  first  three  months  after  military  discharge. (VES Veteran Unmet Needs report, 2024\)
+
+Once Veterans have “started up” and move on to “putting down roots” or “taking care of themselves,” Veterans feel concerned and unclear about what could change if they go through another major transition, such as losing their job, getting married or divorced, retiring, or having a child. A change in their disability rating can also create confusion as to how that impacts their access to care.
+
+ It is possible that a major health diagnosis could be considered a similarly massive life transition, but we did not find evidence in the research at this stage to back that up. We recommend additional generative research to better understand what significant life changes are stressors for Veterans both within and beyond healthcare.  
+
+* In a social listening study conducted by the 10-10 health applications team, 3 of 11 reddit posts cited getting a new job or having a change in income that meant they no longer met the income limits to qualify for VA health care.A common concern was that giving VHA information about their employer health insurance plan would remove their eligibility to VA healthcare. (Social listening healthcare mental model, Sept 2024).  
+  * “I just got a new job last year and I’m making more. It’s over the income limit. It doesn’t say I’d get kicked out \[of VA medical benefits\] tho. The providers I’m currently seeing are great and I’d rather not have to look for a new one.”   
+  * “I am waiting on approval for a \[...\] claim that should put me at 10% \[service-connected disability rating\]. Will I be eligible for VA care at that point or will my income level continue to prevent me from utiliz\[ing\] VA healthcare services?”    
 **5. What are the use cases where there’s overlap between health and other areas, where people might not find what they need in the health space? (Health/general all of VA)**
     * When do Veterans’ needs for health-related tools or information cross over into other areas (like benefits or education), and where does this overlap cause confusion or make it hard for them to find what they need?
     
