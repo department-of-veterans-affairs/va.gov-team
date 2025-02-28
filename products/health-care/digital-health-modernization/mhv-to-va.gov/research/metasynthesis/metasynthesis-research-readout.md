@@ -117,15 +117,13 @@ Lower numbers of users are clicking on health-periphery task. We don't know if t
 
 ***2. What are the highest impact navigation-related pain points (General/all of VA?) What navigation problems that cause the biggest challenges or make it hardest for Veterans to accomplish their tasks?***
 
-### Insight 1: What stops users from finding what they're looking for on VA? Uncertainty about which benefit hub a task belongs to### 
 
-Medium-confidence - RQ2
 
 **3. How do behaviors differ (or don’t) in the health space compared with the benefits space (health/ general all of VA)?**
     * Do Veterans use My HealtheVet (health) differently than they use VA.gov for benefits? If so, how? If not, what’s the same?
 
-**4. What do Veterans expect from an authenticated experience on VA.gov that includes benefits from a range of VA sub-agencies? (general/all of VA)**
-    * What do Veterans want or expect when they log in to VA.gov, especially when it comes to easily accessing benefits and services from different VA departments (like health care, education, or disability)?
+_**4. What do Veterans expect from an authenticated experience on VA.gov that includes benefits from a range of VA sub-agencies? (general/all of VA)**
+    * What do Veterans want or expect when they log in to VA.gov, especially when it comes to easily accessing benefits and services from different VA departments (like health care, education, or disability)?_
 
 ### Insight 1: Veterans value personalization. They want an experience tailored to their current benefits, claims, and tasks.
 
@@ -212,26 +210,58 @@ In healthcare specifically, a social listening study identified a high negative 
 
 ### Insight 3: Veterans want to be notified about changes, updates, or new information - especially time-sensitive information. 
 
-Studies supporting this insight:
-VA Mobile App Prototype Testing and Co-Design Research, 2020
-Landing page gap analysis, July 2024
-VA Mobile research review: Personalized app homescreen, Nov 2021
-Mobile comparative analysis: Personalized and contextual home screen content, July 2023
-Review of related user research: Mobile app personalization, July 2023
-Methods:
-Usability study
-Co-design research
-Desk research
-Comparative analysis
-Details: 
-Findings around notifications emerged in five of the studies reviewed. 
-Veterans value timely, personalized notifications to enhance transparency, manage claims, and stay informed about relevant updates.
-Notifications are highly useful. Veterans value learning about something relevant as soon as possible and voiced that notifications could bring more transparency to their VA experience (VA Mobile App Prototype Testing and Co-Design Research, 2020). 
+High confidence - RQ4
+
+**Studies supporting this insight:**
+
+- VA Mobile App Prototype Testing and Co-Design Research, 2020
+- Landing page gap analysis, July 2024
+- VA Mobile research review: Personalized app homescreen, Nov 2021
+- Mobile comparative analysis: Personalized and contextual home screen content, July 2023
+- Review of related user research: Mobile app personalization, July 2023
+
+**Methods:**
+
+- Usability study
+- Co-design research
+- Desk research
+- Comparative analysis
+  
+**Details:**
+
+Findings around notifications emerged in five of the studies reviewed. These studies clarify that Veterans want proactive, transparent information and updates from the VA. They see notifications as a way to achieve this. 
+Timely, personalized notifications would help Veterans take action on time-sensitive tasks such as managing claims, and stay informed about relevant updates. (VA Mobile app prototype testing and co-design research, 2020; Review of related user research: Mobile app personalization, July 2023)
 
 Personalized notifications and more general notifications both have potential to be useful, but personal ones are much higher value (VA Mobile App Prototype Testing and Co-Design Research, 2020). 
 "There are town hall meetings - any kind of meetings - VA does lots of good things, if I knew about them I could schedule appointments and attend." -- P4
 "Notifications would be really useful - the more specific ones that are personalized. That would function the way I think VA launchpad could have been." -- P5
 "VA information would need to be more specific...important things that are happening that we need to know about and suggestions for other things I am eligible for or any changes to their policies [are the types of things I want to be notified about]." -- P2
+
+**Importance of clear and granular notifications:**
+
+Personalized notifications and more general notifications both have the potential to be useful, but personal ones are of much higher value (VA Mobile app prototype testing and co-design research, 2020). Further, simple status updates are inadequate. They need contextual details and more information to be useful (e.g., claim type, date, next steps) to interpret the status and understand where a given application, submission, or claim is in the process.
+In early 2024, analytics data for the “Go to inbox” link on the My VA page saw a 47% increase in traffic when a red notification dot was next to it. This data indicates that calling attention to links and areas with “new” or “unread” information does drive engagement (Notification dot indicator analytics, September 19, 2023). 
+
+**Examples:**
+
+- "[Status of a claim] is a big stressor - you don’t know where you are in the process, hard to know what step you are on. I just want to see where I am in the process and what else I have to do." (P3, VA Mobile app prototype testing and co-design research, 2020).
+- "There are town hall meetings - any kind of meetings - VA does lots of good things, if I knew about them I could schedule appointments and attend." -- P4
+- "VA information would need to be more specific...important things that are happening that we need to know about and suggestions for other things I am eligible for or any changes to their policies [are the types of things I want to be notified about]." -- P2
+- Transparency in claim status updates are critical, with Veterans requesting clear timestamps, pending status indicators, and proactive notifications (VA Mobile app prototype testing and co-design research, 2020). 
+
+_Veterans' mental model around notifications is shaped by their online experiences._
+
+A comparative analysis reviewing 26 apps across industries found notifications in 16 of the apps reviewed. 
+
+- Notifications were present in half of the apps, but overwhelmingly they were not included on the home screen (Mobile comparative analysis: Personalized and contextual home screen content, July 2023) 
+
+Further research revealed,  
+
+- All competitors use badge indicators and/or card-style notifications to draw the user's attention to new, unread, or time-sensitive information (Landing page gap analysis, July 2024)
+- All competitors highly personalize the page to clearly communicate information unique to the user. Personalized components (notification cards or sections with specific content) are almost always given primary hierarchy placement on the page, but some features are prioritized as secondary (i.e. notification badges that are less visually "loud" or prominent) (Landing page gap analysis, July 2024). 
+- When it comes to notifications and updates on the My VA webpage, Veterans expect to see them at the top of the page (VA Mobile research review: Personalized app homescreen, Nov 2021) 
+
+
 
 Transparency in claim status updates are critical, with Veterans requesting clear timestamps, pending status indicators, and proactive notifications (VA Mobile App Prototype Testing and Co-Design Research, 2020) 
 Veterans value a system that allows them to manage their claims and documents to the best of their ability. This management includes timely notifications, shortcuts to streamline frequent tasks, and secure messaging to receive answers on demand (Review of related user research: Mobile app personalization, July 2023). 
