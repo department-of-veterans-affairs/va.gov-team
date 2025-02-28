@@ -20,7 +20,7 @@ Nearly 40% of all traffic to VA.gov comes from users on their mobile devices. Th
 ### Design
 
 - Jonathan Post - Designer
-- Kira Evsanaa - Designer / Researcher
+- Kira Evsanaa - Designer
 
 ### Engineering
 
