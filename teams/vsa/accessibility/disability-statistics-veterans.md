@@ -1,20 +1,21 @@
 # Disability statistics of Veterans
 
-* Approximately 40% of American Veterans have an identified disability, but there are likely many more that are not identified, in part due to the military culture.
+* About 50% of Veterans had some kind of disability in 2022. This includes: 
+  * 30% of Veterans with a service-connected disability
+  * Veterans who self-reported to the American Community Survey (ACS).
+  * There are likely many more that are not identified, in part due to the military culture.
 
-* About **1.52 million (8.5 percent) Veterans had a service-connected disability rating of 70 percent or higher**.
+* About **12.8 percent of Veterans had a service-connected disability rating of 70 percent or higher** in 2022, up from 2.6 percent in 2008..
 
-* Of those who served after the terror attacks of Sept. 11, 2001, in Afghanistan, Iraq, and other war zones, **about 41 percent have VA disability ratings, compared to 25 percent of Veterans of other eras**.
+* As of 2018, about **16 percent of Veterans who served after the terror attacks of Sept. 11, 2001, in Afghanistan, Iraq, and other war zones have VA disability ratings** - the most of any service cohort.**.
 
-* **Nearly half (47.7 percent) of all Gulf War II Veterans with a disability report a cognitive difficulty**. 
+* **9.6 percent of post-9/11 Veterans with a service-connected disability report a cognitive difficulty.** 
 
-* **Approximately 300,000 Veterans (18.5 percent) who have returned from Afghanistan and Iraq are currently suffering from PTSD or major depression**.
+* 29 percent of Veterans who served during post-9/11 wars in Afghanistan or Iraq are either suffering from PTSD or will at some point in their lives. **PTSD is 3 times more likely among Veterans who were deployed**.
 
-* **Over 20 Veterans take their lives each day**
+* **Over 17 Veterans take their lives each day.** Suicide rates were highest among Veterans between ages 18 and 34.
 
-* **About 320,000 (19.5 percent) report experiencing a traumatic brain injury (TBI) during deployment**.
-
-* An estimated **31 percent of troops returning from Iraq and Afghanistan have a mental health condition or reported experiencing a TBI**.
+* **Between 11 and 23 percent of servicemembers reported experiencing a traumatic brain injury (TBI) during deployment in Afghanistan and Iraq.**
 
 * As of December 2008, over 30,000 troops have returned from a combat zone with visible wounds and a range of permanent disabilities. **An estimated 25-40 percent have less visible wounds—psychological and neurological injuries associated with post traumatic stress disorder (PTSD) or traumatic brain injury (TBI)**, which have been dubbed “signature injuries” of the Iraq War.
 
@@ -22,6 +23,10 @@
     > There are more than 20 million American Veterans. 40% living in rural areas. Many rely on VA benefits just to get by. More than 9 million of our Veterans rely on VA health care. (_It shouldn't be this hard to serve your country._ by Shulkin)
     > In 2018, there were around 16.3 million male veterans and 1.65 million female veterans in the U.S. <br/>
     > About 3.51 million veterans were male and between 35 and 54 years of age.<br/>
+    > https://www2.census.gov/library/publications/2024/demo/acs-58.pdf<br/>
+    > https://www.ptsd.va.gov/understand/common/common_veterans.asp<br/>
+    > https://www.mentalhealth.va.gov/docs/data-sheets/2024/2024-Annual-Report-Part-2-of-2_508.pdf<br/>
+    > https://pmc.ncbi.nlm.nih.gov/articles/PMC5501743/<br/>
     > https://www.statista.com/statistics/250316/us-veterans-by-disability-status/ <br/>
     > https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf <br/>
     > https://www.rand.org/pubs/monographs/MG720.html <br/>
