@@ -116,7 +116,7 @@ Lower numbers of users are clicking on health-periphery task. We don't know if t
 - that not everyone connects those concepts in their mental models (some evidence to this in UXRs)
   
 --
-2. What are the highest impact navigation-related pain points (General/all of VA?) What navigation problems that cause the biggest challenges or make it hardest for Veterans to accomplish their tasks?***
+>2. What are the highest impact navigation-related pain points (General/all of VA?) What navigation problems that cause the biggest challenges or make it hardest for Veterans to accomplish their tasks?>***
 --
 
 ## Insight 1: Veterans need a seamless way to access health and disability benefits information, but conflating the two creates confusion and inefficiencies. 
