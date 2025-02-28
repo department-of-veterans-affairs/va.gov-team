@@ -132,7 +132,7 @@ TODO: add vets-json-schema
 |vets-api|va.gov backend code, and also lighthouse code (in the `modules` folder)|https://github.com/department-of-veterans-affairs/vets-api/|
 |vets-website|va.gov website code|https://github.com/department-of-veterans-affairs/vets-website|
 |va.gov-team|This repo, this is where all tickets/issues go, and where most documentation should go|https://github.com/department-of-veterans-affairs/va.gov-team|
-|va.gov-team-seniative|Area for sensitive items such as post-mortems, security things, and other internal or sensitive documentation|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive|
+|va.gov-team-sensitive|Area for sensitive items such as post-mortems, security things, and other internal or sensitive documentation|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive|
 
 
 #### Monitoring
