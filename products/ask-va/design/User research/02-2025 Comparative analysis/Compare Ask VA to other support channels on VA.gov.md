@@ -87,7 +87,7 @@ I reviewed the descriptions of 6 different VA phone lines. They all involve maki
 
 We can distinguish support channels by whether they are asynchronous or synchronous.
 
-Synchronous support involves real-time communication. Asyncronous support refers to communication that happens over a period of time, through back-and-forth.
+Synchronous support involves real-time communication. Asynchronous support refers to communication that happens over a period of time, through back-and-forth.
 
 |Channel|Type of communication|
 |:--|:--|
