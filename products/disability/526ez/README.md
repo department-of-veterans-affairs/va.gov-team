@@ -143,7 +143,6 @@ TODO: add vets-json-schema (Tommasina is working on this.)
 |Monitors/Alerts|The list of 526 related datadog alerts/monitors, they alert into the [#benefits-disability-notifications](https://dsva.slack.com/archives/C05URMLM09Z) channel|https://vagov.ddog-gov.com/monitors/manage?q=service%3Adisability-application&order=desc||
 |Playbooks|Various documents around errors that may occur and what to do when encountered|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/benefits/playbooks/526||
 #### Support/Remediation (Production SOP)
-TODO: Seth is going to fill this out with more scripts.
 |Title|Description|Link|Last Updated|
 |-----|-----------|----|-------|
 |Troubleshooting on staging|Misc notes for troubleshooting submission failures on staging|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/troubleshooting-on-staging.md|7/31/24
@@ -152,6 +151,7 @@ TODO: Seth is going to fill this out with more scripts.
 |Team 1 526 Submission Remediation Playbook|Playbook on how to officially remediate failed 526 submissions, with links to important guides relevant to generalized remediation|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/remediation_playbook.md|10/9/24
 |[ZSF] SOP (Standard Operating Procedure) for Watch Dog of Watch Dogs for DBEX teams (T-REX 🦖 and CARBS 🍞)|Procedural guide for Watch Officer Duty|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/monitors/%5BZSF%5D%20DBEX%20Teams%20SOP%20(Standard%20Operating%20Procedure)%20for%20monitor%20and%20alert%20response.md|11/6/24
 |OCTO Watch Officer|Repository To Provide Actions and Issues Scoping for the Watch Officers Issue Board|https://github.com/department-of-veterans-affairs/octo_watchofficer|2/27/24
+|teams/benefits/scripts/526|A folder of miscellanous script used in 526 support, development and research|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/benefits/scripts/526|1/17/2025
 #### Documentation
 |Title|Description|Link|Last Updated|
 |-----|-----------|----|-------|
