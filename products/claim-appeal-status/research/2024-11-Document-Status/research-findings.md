@@ -180,6 +180,8 @@ _Any additional insights that aren't "key findings." These can be powerful comme
     * _It says there was a problem, now I have to investigate. Why not? Did I do something wrong? – P5_
 * Adjust the text format to emphasize important content with a higher visual hierarchy.
     * _Participants recommended highlighting important content, such as requiring Social Security numbers on physical document copies, using iconography to make information stand out, and emphasizing helpful tips that set expectations for Veterans when they speak to call center staff._
+* When a file upload fails, explore a future feature allowing Veterans to add files using a partial SSN in combination with other PII (e.g., full claim number and partial DOB) to reduce security concerns with mailing documents.
+    * _Almost half of participants who read the failure notice resubmission instructions expressed concerns about mailing documents with their full Social Security numbers._  
 
 ## Next Steps
 
