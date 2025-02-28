@@ -49,6 +49,80 @@ We quickly realized the need to measure the relative evidence for each insight, 
 
 ## <a name="insights"></a>Insights <br>
 
+***1. What are the most consistent health-related navigational pain points (health specific)?***
+    * What are the common issues or frustrations Veterans face when trying to find or use health-related tools and information on MHV?
+
+**How are people moving within the portal?**
+
+In Jan: had 1.1M in portal
+
+- 445k used secondary nav: 280k desktop; 152k mobile
+- Most of this is not happening on landing page, implying that it’s mostly cross-tool activity
+- Much less mega menu: 13k in MHV (compared with 56k My VA, which has &gt;2M users in Jan)
+- At least &gt;200k used back button in Jan. Data is spotty bc juxtaposing between GA and DD, and missing info on SM and meds. Lots of bb usage in medical records (makes sense). 
+- 50k (4.5%) left /my-health for /my-va; compared with 48k (7%) in July 
+- 750k (~75%) of exits happen on /my-health
+
+**Findings details**
+
+- Most people using either secondary navs or back buttons
+- Less people use primary nav to orient selves, but some still do ((<100k, so <10%)
+- Less people go to My VA now than 6 months ago
+- Majority of /my-health users (75%) exit VA.gov from a /my-health page
+- We still don’t have great metrics to feel very confident, but given magnitude of difference, I think we can conclude that most people are staying within the portal to do portal things.
+
+**How are people moving outside of the portal?**
+
+_How much traffic are health-adjacent pages seeing?_
+
+- 33k clicks on Pay copay link by 29k users (3%)
+- Compared with 85k views of /manage-va-debt/summary/copay-balances
+- Travel claim status: 29k (3%)
+- Travel reimbursement clicks: 18k
+- Compared with 48k clicked from /my-va
+- Bottom cards getting much less clicks than top cards → might not be due to placement but other factors influencing products
+
+**Category 1 (most consistent):**
+
+Pain points with common health tasks that differ most from MHV Classic experience AND have a lot of information: 
+
+- Meds & MR → issues with finding specific information, issues with learning new experience
+- See Nov-Jan Transition Evaluation for more details.
+
+**Category 2 (less consistent but still present):**
+
+The IA of VA.gov works best for users that are not logged in and are browsing (looking to read about benefits and eligibility). Users that are logged in and are seeking to complete tasks employ other methods to navigate the site.
+
+- Seeing relatively low usage of health-periphery tasks in portal. Unclear if it's because users do those tasks elsewhere anyways (e.g., go straight to Pay.gov with their EOB; go to BTSSS/ fill out paper claim)
+
+   - 33k clicks on Pay copay link by 29k users (3%)
+      - Compared with 85k views of /manage-va-debt/summary/copay-balances
+
+      - Travel claim status: 29k (3%)
+      - Travel reimbursement clicks: 18k
+         - Compared with 48k clicked from /my-va
+
+
+- Bottom cards getting much less clicks than top cards → might not be due to placement but other factors influencing products
+- 3k/ 1.1M (<1%) of users click "Check your claim, etc." link from primary nav (was 3rd most common primary nav event from /my-health: see report spun up and blessed by Jamie)
+- 31k (3%) clicked on Profile link from /my-health
+
+**Findings details**
+
+Lower numbers of users are clicking on health-periphery task. We don't know if that low usage reflects:
+- how much those products are needed by this audience (doubtful for copay, travel reimbursement, travel claims; maybe for profile);
+- whether people aren't finding them or noticing them
+- if people simply do them elsewhere (BTSSS; pay.gov; paper/ in-person)
+- that not everyone connects those concepts in their mental models (some evidence to this in UXRs)
+
+
+
+
+
+
+
+
+    
 ### Insight 1: Veterans value personalization. They want an experience tailored to their current benefits, claims, and tasks.
 
 High-confidence - RQ2
