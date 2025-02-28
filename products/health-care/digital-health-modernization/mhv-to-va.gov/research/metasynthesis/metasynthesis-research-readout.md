@@ -516,8 +516,7 @@ Research shows that Veterans frequently backtrack, search across platforms, or a
 * Some Veterans assume clicking on their approved disabilities should provide a clear breakdown of their ratings and associated benefits, but instead, they must search multiple locations to piece it together (P2, Logged-in Homepage Research, May 2020\)
 
 
-
-List of all 34 studies included in our metasynthesis evaluation: 
+**List of all 34 studies included in our metasynthesis evaluation:** 
 
 1. [MHV on VA.gov Round 2 Initial Prototype - Usability Research/POC - mobile users, May 2024](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability))
 2. [Health wayfinding study, July 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study))
