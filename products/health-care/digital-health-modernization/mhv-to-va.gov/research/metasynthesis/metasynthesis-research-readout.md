@@ -117,7 +117,66 @@ Lower numbers of users are clicking on health-periphery task. We don't know if t
 
 ***2. What are the highest impact navigation-related pain points (General/all of VA?) What navigation problems that cause the biggest challenges or make it hardest for Veterans to accomplish their tasks?***
 
+## Insight 7: Veterans need a seamless way to access health and disability benefits information, but conflating the two creates confusion and inefficiencies. 
 
+## **High-confidence  RQ2**  (2020 \-2024)
+
+**Studies that support this insight:**
+
+* [My VA & logged-in home page research, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md)  
+* [Digital Health Modernization Generative Research Study, Sept 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1)  
+* [MHV on VA.gov Round 1 Initial Prototype Usability Research/POC, March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability)  
+* [Health Apt Tree Test \- Health Hub, Health Apt, Deeper Nav, Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1)  
+* Research Outline and Recommendations: VA.gov Auth Experience, April 2023  
+* [Health wayfinding study, July 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study))  
+* [MHV on VA.gov Round 2 Initial Prototype \- Usability Research/POC \- mobile users, May 2024](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability))  
+* Landing Page Gap Analysis, July 2024
+
+**Methods**:
+
+* Usability Study  
+* Card Sorting  
+* Discovery Research  
+* Tree Testing
+
+**Summary**
+
+Various Studies show that Veterans often conflate the health and benefits space on VA.gov, unsure where to find their health and disability benefits information. As a result, they frequently search across multiple platforms, backtrack, or abandon their search when the information isn’t where they expect. The separation of health and benefits services deepens this confusion, leading to inefficiencies and frustration. These findings highlight the need for clearer distinctions between health and benefits platforms to better align with Veterans’ expectations and improve access to essential services.  
+
+**Tasks** (*Health Apt Tree Test \- Health Hub, Health Apt, Deeper Nav, Dec 2022\)*
+
+* Determining health benefits eligibility based on disability rating:   
+  * Some participants searched under Health Care \> Eligibility, while others looked under My VA Health Care \> VA Health Care Coverage or Disability Rating, leading to inconsistencies in search behavior.  
+  * Some backed out of About VA Health Benefits after realizing it did not contain the information they were looking for.  
+  * Others assumed their VA Health Summary \> Records would contain benefit details but abandoned the search when they realized it wasn’t there.  
+* Finding dental coverage eligibility:  
+  * Participants needed to determine if they qualified for VA dental care but struggled with where to start.  
+  * Many first searched under Health Care \> Eligibility, while others looked under VA Health Care Coverage or Help and Resources, leading to inefficient navigation.  
+* Finding PTSD-related information for a Veteran they care for:  
+  * Many assumed PTSD resources would be in Health Care but ultimately relied on Help Pages, FAQs, and User Guides instead of direct navigation.  
+  * Some checked their VA Health Summary, thinking it might contain PTSD-related information.
+
+Veterans face confusion and inefficiencies when navigating multiple platforms for health and disability-related benefits, often switching between VA.gov, MHV, and other resources to complete tasks.
+
+* "VA.gov, My HealtheVet, eBenefits, military.com—there are too many websites that you can go to and it can get confusing." (P4, *MHV on VA.gov Round 2 Initial Prototype \- Usability Research/POC \- mobile users, May 2024\)*  
+* "MHV is strictly for health records and doctor interactions. My VA is for everything else, but I don’t understand why I need to switch back and forth." (P1, Health Wayfinding Study, July 2023\)  
+*  "My VA is more focused on benefits, while MHV is more focused on healthcare, but managing overlapping tasks across both platforms was frustrating." (P29, Health Wayfinding Study, July 2023\)  
+*  "Sees disability benefits on the page and would expect them to be on eBenefits. They are used to going to eBenefits, so it would be another thing they have to learn." (P7, MHV on VA.gov Round 1 Initial Prototype Usability Research/POC, March 2022\)  
+*  Veterans associate VA.gov more with benefits rather than health services, relying on My HealtheVet for health-related tasks. (Digital Health Modernization Generative Research Study, Sept 2021\)
+
+Veterans expect clearer connections between disability ratings, health benefits, and related tools.
+
+*  "When you click Disabilities you're approved for, once you click on there, there could be a link that goes to track your disabilities and it breaks down your ratings and has claims and appeals information." (P2, Logged-in Homepage Research, May 2020\)  
+*  The VA’s information architecture does not align with Veterans’ mental models for accessing their benefits. (Logged-in Homepage Research, May 2020\)
+
+Veterans appreciate a personalized dashboard but still struggle to understand their available health and disability benefits.
+
+*  "Veterans want a clear indication of the specific types of healthcare benefits they are enrolled in (e.g., vision, dental) and the source of that healthcare (VA vs. other provider).” (Research Outline and Recommendations: VA.gov Auth Experience, April 2023\)
+
+   
+Veterans struggle with redundancy and resubmitting documentation across platforms.
+
+*  "VA has all my stuff but they want me to resubmit it as new evidence. Have to download the info from VA, highlight what the doctor said on what day, and then submit it as new evidence... then schedule another appointment." (P9, Landing Page Gap Analysis, July 2024\)
 
 **3. How do behaviors differ (or don’t) in the health space compared with the benefits space (health/ general all of VA)?**
     * Do Veterans use My HealtheVet (health) differently than they use VA.gov for benefits? If so, how? If not, what’s the same?
