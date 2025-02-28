@@ -71,7 +71,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | ENG: Enable the feature flag for the activation of the one VA debt letter presentation button (Staging) | QP1 |--|--|--|
 | ENG: Debts and copay data appear on the One VA debt letter (Staging) | QP1 |--|--|--|
 | ENG: Payment history feature work has begun development | QP3 |--|--|--|
-| ENG: Veterans are presented with the correct contact information (phone number updates) | N/A |--|--|--|
+| ENG: Veterans are presented with the correct contact information (phone number updates) | N/A |--|02/27/25|Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals
