@@ -1,6 +1,6 @@
 ## [WIP] When to use feature flags for Form 526
 
-Because of the lack of a true staging environment, releasing new features or even bug fixes can be impossible to test and very risky. One way to mitigate the risk of causing issues to users in production is to use feature flags.
+Because of the lack of a true staging environment, releasing new features or even bug fixes can be impossible to test and very risky. One way to mitigate the risk of causing issues to users in Production is to use feature flags.
 
 For Form 526, which has so many dependencies and external connections during the application and submission process, we recommend using feature flags for _any_ new functionality and critical bug fixes as a way to safely test before a full deploy. With a feature flag in place, you can turn on the feature flag in Staging for your particular testing user once your code has been merged and deployed. 
 
@@ -8,13 +8,26 @@ For Form 526, which has so many dependencies and external connections during the
 
  To use, follow these steps in Platform's [guide to using Feature Toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide). 
 
+ As a general QA process for using feature flags, we recommend the following:
+ 1. Merge pull request with new feature gated by the feature flag
+ 2. Once the pull request has been merged and deployed, turn on the feature flag in Staging for your testing user
+ 3. Test the feature in Staging for your testing user
+ 4. [optional] at this point, you could also try a moderated production test user by turning the feature on for a certain production user and walking them through the submission process to confirm your feature is working properly. This would be for more complex/high-risk features. 
+ 5. Use the test in Staging to gut-check your monitoring dashboard in DataDog for success (Make sure that the Staging user's test actually hit the place you're wanting it to hit.)
+ 6. If the change looks good on Staging, begin turning on the feature flag for a small percentage of users in Production
+ 7. For a simple feature that looks good on Staging, turn on the feature for 100% of users in Production. By testing this way first (before removing the feature flag), you can quickly turn off the feature with the feature flag if something goes wrong.
+ 8. Monitor production error/success metrics in DataDog
+ 9. Once you've determined the success of the feature, submit a pull request to remove the feature flag. After it's merged, you will need to remove the feature flag from the database.
+
 ### Unit testing  
 
 Add the appropriate unit tests with the feature flag enabled and disabled. For backend tests, make sure to generate new VCR cassettes that accurately reflect any changes as a result of the feature flag. 
 
 ### Releasing and monitoring feature flags 
 
-As with any release, plan ways to track feature flag usage with error handling and APM dashboards. For the backend, ensure methods raise exceptions that log the invoker and feature name. 
+- Plan how to track which users have hit the feature (we liked to use logging with Rails.logger.info or statsd, or by checking data in a parameter of the request).
+- Track errors within your APM dashboards. For the backend, ensure methods raise exceptions that log the invoker and feature name.
+- Anticipate how you will track error percentage changes over time with an incremental rollout
 
 ### Removing feature flags
 
@@ -22,7 +35,6 @@ Because of the nature of the VA ecosystem, it can be hard to remove feature flag
 
 ### Potential issues
 Consider any long-term implications of feature flags. 
-- Do you have any way to track which users have hit which feature?
 - Are there multiple feature flags in play at once? How does that affect the code path and user experience?
 - How will you determine success of the feature?
 - How will you fully release the feature? Are you incrementing by percentage of users? Or is it a simple change and you can deploy to 100% after a quick confirmation from Staging? 
