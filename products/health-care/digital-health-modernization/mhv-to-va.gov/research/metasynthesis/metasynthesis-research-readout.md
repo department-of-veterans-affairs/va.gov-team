@@ -297,7 +297,7 @@ Veterans’ expectations about what this “central page” should look like are
 * Almost every site we looked at (Delta and Google being exceptions) predominantly display content related only to the user upon logging in. The sites typically included very little, if any, generic marketing or promotional content in the main body upon login. (Logged-in Homepage Redesign: Comparative Analysis, 2020\)  
 * The Cartography team took on a gap analysis research effort in 2024 that identified significant differences in the information architecture approach and level of personalization on the My HealtheVet landing page compared to common authenticated portals on major financial, travel, and health websites ([Gap analysis research on the My HealtheVet on VA.gov homepage, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/gap-analysis-2024.md)) 
 
-
+<img width="592" alt="Screenshot 2025-02-28 at 10 42 27 AM" src="https://github.com/user-attachments/assets/0e4dbbce-92e2-4661-99c9-8fbc46aeca93" />
 
     
 **5. What are the use cases where there’s overlap between health and other areas, where people might not find what they need in the health space? (Health/general all of VA)**
