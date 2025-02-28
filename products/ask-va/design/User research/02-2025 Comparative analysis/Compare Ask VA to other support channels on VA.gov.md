@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: February 27, 2025
+Last updated by @tygindraux: February 28, 2025
 
 **Jump to:**
 - [Purpose](#purpose)
@@ -82,3 +82,29 @@ I reviewed the descriptions of 6 different VA phone lines. They all involve maki
 - **GI Bill hotline** is for finding out how to verify your enrollment, updating your direct deposit information, checking payment information, or getting answers to other questions about VA education benefits and claims.
 - **National Call Center for Homeless Veterans** is for 'Homeless Veterans to talk privately with a trained VA representative for free.' They connect people with programs, services and community resources and provide support.
 - **My HealtheVet help desk** is for 'technical support for managing your health care online with My HealtheVet.'
+
+## Insights
+
+We can distinguish support channels by whether they are asynchronous or synchronous.
+
+Synchronous support involves real-time communication. Asyncronous support refers to communication that happens over a period of time, through back-and-forth.
+
+|Channel|Type of communication|
+|:--|:--|
+|Ask VA|Asynchronous|
+|MHV secure messaging|Asynchronous|
+|MHV contact form|Asynchronous|
+|VET-HOME Inquiry|Asynchronous|
+|VA chatbot|Synchronous|
+|Phone calls|Synchronous|
+
+We can also consider what each channel can support people with.
+
+|Channel|Type of communication|Supports with|
+|:--|:--|:--|
+|Ask VA|Asynchronous|You can ask about education, disability compensation, health care and many other topics.|
+|MHV secure messaging|Asynchronous|You can communicate securely with your VA health care team.|
+|MHV contact form|Asynchronous|You can ask about or communicate issues with the My HealtheVet website.|
+|VET-HOME Inquiry|Asynchronous|You can schedule an environmental health registry evaluation or ask about environmental exposure related issues.|
+|VA chatbot|Synchronous|You can ask general questions about some VA benefits and services.|
+|Phone calls|Synchronous|Depending on which phone number, you can ask about a range of VA related issues.|
