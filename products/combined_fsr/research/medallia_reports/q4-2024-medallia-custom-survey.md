@@ -11,7 +11,7 @@ This is a look back at all of the responses for the 6 questions on the FSR custo
 
 **Mean: 4.14**
 
-**Median: High level of trust (5)**
+**Median: Strongly Agree (5)**
 
 |Score|Response|# of Responses|
 |--|--|--|
