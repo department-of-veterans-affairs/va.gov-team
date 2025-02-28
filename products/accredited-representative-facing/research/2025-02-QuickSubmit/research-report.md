@@ -19,8 +19,8 @@ Jump to:
 - [Research Goals](#research-goals)
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
-  - [Feature specific feedback](##4\.-feature-specific-feedback)
-  - [Potential improvements](##potential-improvements)
+  - [Feature specific feedback](##4.-feature-specific-feedback)
+  - [Potential improvements](##5.-potential-improvements)
 - [Recommendations](#recommendations)
 - [Future Questions](#future-questions)
 - [Appendix](#appendix)
@@ -59,7 +59,9 @@ QuickSubmit has a singular purpose — to submit claim forms and evidence for cl
 - “SEP system 95% of the time, it doesn't upload the document. I try MyVA too, and it doesn't work.” – P1
 - “I could submit them directly off Vetraspec… but it was like when I would submit them… they were out there floating for awhile, which is troublesome if you’re filing a 21-22 and trying to see what the Vet has previously claimed.” – P2, who now only uses QuickSubmit to upload files.
 
-<br/>
+<br/>![image (9)](https://github.com/user-attachments/assets/1d447e29-33b1-42e7-8368-093b37351d4d)
+<br/>![Screenshot 2025-02-28 at 9 37 18 AM](https://github.com/user-attachments/assets/f9914593-2f12-488c-a46c-ee0fe1a472ed)
+
 
 ## 2\. Representatives felt very positive about QuickSubmit’s ease and success rate
 
@@ -110,6 +112,7 @@ Representatives selected an “Emergent Indicator” when a claimant should have
 - "For those guys \[with ALS\], claims cannot be taking 3,4,5 months to process. They’ve got to be very, very quick. And so I’m very lucky in that I work in a VA regional office and I can contact \[RO Coaches\] and say, I just submitted a claim for this person.” – P3
 - “A lot of times when they are in a nursing home, I definitely use the age indicator… although the pension people tell me that doesn’t pertain to them, I still do it.” – P2
 
+<br/>![image (8)](https://github.com/user-attachments/assets/c69125ba-e9fb-430d-b3a2-28eb556e6392)
 
 
 ## 4.3 Feature: Receive confirmation of submission by email
@@ -124,6 +127,7 @@ Importance: High
 
 Two representatives previewed files within a submission to make certain that the file they uploaded was the one intended. Sometimes a claimant would ask them to check, and other times, the preview adds assurance. One representative did not use the preview because she reviewed files before she scanned them and then also reviewed them on her computer prior to uploading.
 
+<br/>![Screenshot 2025-02-28 at 9 39 28 AM](https://github.com/user-attachments/assets/4a0cd541-cebf-4142-996e-a915ad176f4d)
 
 
 ## 4.5 Feature: View claim upload status
@@ -240,4 +244,4 @@ The Veterans facing forms team conducted a quick accessibility audit to identify
 
 These were semi-structured interviews held over two days.
 
-- [Link to conversation guide](https://docs.google.com/document/d/1TpMcu3YOSOuttERnljrmpcmpbSBJSJ8jqwKtAvV9ZGI/edit?usp=drive_link)
+- [Link to conversation guide](products/accredited-representative-facing/research/2025-02-QuickSubmit/research-plan-conversation-guide.md)
