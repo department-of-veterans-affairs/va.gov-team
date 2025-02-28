@@ -34,11 +34,12 @@ Add the appropriate unit tests with the feature flag enabled and disabled. For b
 Because of the nature of the VA ecosystem, it can be hard to remove feature flags in the same sprint as when the feature flag got deployed. Therefore, we recommend using a separate ticket as a "fast-follow" for removing the feature flag. Please make sure to remove the feature flag from the codebase as soon as it isn't needed. NB: you'll need to manually remove the feature flag from the database in Argo after the removal pull request gets merged. 
 
 ### Potential issues
-Consider any long-term implications of feature flags. 
+Consider these potential complications for using feature flags. 
 - Are there multiple feature flags in play at once? How does that affect the code path and user experience?
 - How will you determine success of the feature?
 - How will you fully release the feature? Are you incrementing by percentage of users? Or is it a simple change and you can deploy to 100% after a quick confirmation from Staging? 
-- What will de-commissioning the feature flag look like? 
+- What will de-commissioning the feature flag look like?
+- Are there any long-term implications for the feature flag? Will a certain piece of data be set one way or another as a result? For example, we used `started_form_version` to track which users submitted under one feature flag.
 
 ## Environment checks as an alternative to feature flags
 Sometimes using a feature flag is impossible, like if the changes are available on a page that doesn't require a user to be logged in, such as the Intro to 526 form page. (We need to use a particular user in order to turn on the feature flag in Staging for testing, so if we don't have a user, we cannnot test.) In that case, you can use an environment check in the frontend that looks for the Staging environment.
@@ -47,6 +48,6 @@ Sometimes using a feature flag is impossible, like if the changes are available 
  Here is how we did it for the frontend: `if (!environment.isLocalhost())` ([link to pull request](https://github.com/department-of-veterans-affairs/vets-website/pull/33294/files)).
 
 ### Backend:
-In the backend environment, vets-api uses RAILS_ENV but both Staging and Production environments are actually set to `production.` Therefore, you must use `Settings.vsp_environment` to check for the proper environment. 
+In the backend environment, vets-api's RAILS_ENV for both Staging and Production environments is actually set to `production.` Therefore, you must use `Settings.vsp_environment` to check for the proper environment. 
 
 
