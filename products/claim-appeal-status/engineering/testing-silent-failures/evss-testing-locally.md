@@ -121,7 +121,8 @@
 6. Run `vets-api` and `vets-website` locally
 7. Go to the claim status tool, select a claim, navigate to the Files Tab and upload a file
 8. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 1 record was added/updated to the evidence_submissions table
-    1. The new records `upload_status` should be FAILED and there should be an `acknowledgment_date`, `failed_date`, `error_message` and `template_metadata -> personalisation -> date_failed`
+    1. The new records `upload_status` should be FAILED and there should be a `failed_date`, `error_message` and `template_metadata -> personalisation -> date_failed`
+    2. If it is a type 1 error there will not be a `acknowledgment_date` populated but if it is a type 2 error this field will be populated 
 
 ### When cst_send_evidence_submission_failure_emails is disabled
 1. Make sure you do NOT have an open an SSH tunnel in terminal
