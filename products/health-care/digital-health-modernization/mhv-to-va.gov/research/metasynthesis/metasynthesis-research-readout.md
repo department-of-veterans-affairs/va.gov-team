@@ -8,6 +8,8 @@ In February 2025, the Cartography Team worked with OCTO research lead Robyn Sing
 
 We believe research insights with a high degree of confidence can unblock strategic business decisions that will generate known user value. Research insights with a low degree of confidence indicate that additional research will need to be conducted to confirm whether or not they are ripe for design solutioning. In effect, this research report seeks to develop a research and design roadmap: exposing known pain points in the user's navigation and behavioral experience that can move into solutioning; and possible pain points, where further research study development would make the most sense as the business is able to take it on. 
 
+[You can also see the Mural with findings here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1740573784046/a8239e9a7c4a4df356f547adb8d66cec24a5c71d?sender=u24af215c7d9bf806b8545488). 
+
 ## On this page
 * [Research questions](#questions)
 * [Methods](#methods)
