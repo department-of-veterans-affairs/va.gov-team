@@ -1,8 +1,8 @@
-## [WIP] When to use feature flags
+## [WIP] When to use feature flags for Form 526
 
-Because of the lack of a true staging environment, releasing new features, or even bug fixes, can be impossible to test and very risky. One way to mitigate the risk of causing issues to users in production is to use Feature Flags.
+Because of the lack of a true staging environment, releasing new features or even bug fixes can be impossible to test and very risky. One way to mitigate the risk of causing issues to users in production is to use feature flags.
 
-We recommend using feature flags for _any_ new functionality and critical bug fixes as a way to safely test before a full deploy. With a feature flag in place, you can turn on the feature flag in Staging for your particular testing user once your code has been merged and deployed. 
+For Form 526, which has so many dependencies and external connections during the application and submission process, we recommend using feature flags for _any_ new functionality and critical bug fixes as a way to safely test before a full deploy. With a feature flag in place, you can turn on the feature flag in Staging for your particular testing user once your code has been merged and deployed. 
 
 ## How to use feature flags
 
@@ -25,6 +25,7 @@ Consider any long-term implications of feature flags.
 - Do you have any way to track which users have hit which feature?
 - Are there multiple feature flags in play at once? How does that affect the code path and user experience?
 - How will you determine success of the feature?
+- How will you fully release the feature? Are you incrementing by percentage of users? Or is it a simple change and you can deploy to 100% after a quick confirmation from Staging? 
 - What will de-commissioning the feature flag look like? 
 
 ## Environment checks as an alternative to feature flags
