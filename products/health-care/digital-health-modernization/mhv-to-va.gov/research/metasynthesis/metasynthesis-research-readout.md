@@ -482,7 +482,7 @@ Veterans expect a dedicated space for healthcare-related payments rather than mi
 * Veterans struggled to determine where financial tools like copays and travel reimbursement belong within the VA system. *(P6, P8, Health Wayfinding Study, July 2023\)*  
 * Veterans frequently searched for broad financial terms alongside health-related terms, suggesting that the current structure does not align with their expectations. *(Logged-in Homepage Discovery, 2020\)*
 
-Insight 10: Veterans have historically struggled to find their health and benefits information due to fragmented platforms, often requiring switching between platforms.  While progress has been made in integrating MHV onto VA.gov  potential confusion and inefficiencies may still arise if health and disability benefits information are conflated rather than clearly distinguished.  
+## Insight 10: Veterans have historically struggled to find their health and benefits information due to fragmented platforms, often requiring switching between platforms.  While progress has been made in integrating MHV onto VA.gov  potential confusion and inefficiencies may still arise if health and disability benefits information are conflated rather than clearly distinguished.  
 
 **Medium-confidence  RQ3**  
 
@@ -515,38 +515,7 @@ Research shows that Veterans frequently backtrack, search across platforms, or a
 * Veterans have faced significant inefficiencies when navigating multiple platforms to manage their health and disability benefits, often switching between VA.gov, MHV, and other resources to complete tasks. "VA.gov, My HealtheVet, eBenefits, military.com—there are too many websites that you can go to, and it can get confusing." (P4, MHV on VA.gov Round 2 Initial Prototype \- Usability Research/POC \- Mobile Users, May 2024).  
 * Some Veterans assume clicking on their approved disabilities should provide a clear breakdown of their ratings and associated benefits, but instead, they must search multiple locations to piece it together (P2, Logged-in Homepage Research, May 2020\)
 
-Insight 10: Veterans have historically struggled to find their health and benefits information due to fragmented platforms, often requiring switching between platforms.  While progress has been made in integrating MHV onto VA.gov  potential confusion and inefficiencies may still arise if health and disability benefits information are conflated rather than clearly distinguished.  
 
-**Medium-confidence  RQ3**  
-
-**Studies that support this insight:**
-
-* My VA & logged-in home page research, 2020  
-* Digital Health Modernization Generative Research Study, Sept 2021  
-* MHV on VA.gov Round 1 Initial Prototype Usability Research/POC, March 2022  
-* Health Apt Tree Test \- Health Hub, Health Apt, Deeper Nav, Dec 2022  
-* Research Outline and Recommendations: VA.gov Auth Experience, April 2023  
-* Health wayfinding study, July 2023\)  
-* MHV on VA.gov Round 2 Initial Prototype \- Usability Research/POC \- mobile users, May 2024\)  
-* Landing Page Gap Analysis, July 2024
-
-**Methods:**
-
-* Usability Study  
-* Card Sorting  
-* Discovery Research  
-* Tree Testing
-
-Veterans have historically struggled to find their health and benefits information due to fragmented platforms, often switching between systems to complete tasks. Integrating MHV into VA.gov has helped address these inefficiencies, but confusion may still arise if health and disability benefits aren’t clearly distinguished. Veterans’ past experiences with separate platforms may continue to shape how they navigate the new system.
-
-Research shows that Veterans frequently backtrack, search across platforms, or abandon tasks when information isn’t where they expect. Managing overlapping healthcare and benefits tasks remains a challenge, and transitioning to a new system requires relearning navigation, which can add frustration.While MHV’s integration into VA.gov is progress, ongoing research is needed to ensure Veterans can easily find what they need, reducing confusion and improving access to essential services. 
-
-**Examples**
-
-* Transitioning to a new system requires \[users\] to relearn where to find information, adding to frustration and difficulty in completing tasks (P7, MHV on VA.gov Round 1 Initial Prototype Usability Research/POC, March 2022).  
-* Veterans experience confusion and frustration when managing tasks that overlap between benefits and healthcare. P29: Observed that My VA is more focused on benefits, while MHV is more focused on healthcare, but found it frustrating to manage overlapping tasks across both platforms. (P29, Health Wayfinding Study, July 2023\)  
-* Veterans have faced significant inefficiencies when navigating multiple platforms to manage their health and disability benefits, often switching between VA.gov, MHV, and other resources to complete tasks. "VA.gov, My HealtheVet, eBenefits, military.com—there are too many websites that you can go to, and it can get confusing." (P4, MHV on VA.gov Round 2 Initial Prototype \- Usability Research/POC \- Mobile Users, May 2024).  
-* Some Veterans assume clicking on their approved disabilities should provide a clear breakdown of their ratings and associated benefits, but instead, they must search multiple locations to piece it together (P2, Logged-in Homepage Research, May 2020\)## <a name="sources"></a>Sources cited <be>
 
 List of all 34 studies included in our metasynthesis evaluation: 
 
