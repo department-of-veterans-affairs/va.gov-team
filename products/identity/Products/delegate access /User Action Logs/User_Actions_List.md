@@ -1,4 +1,4 @@
-# User actions: content guide
+# User actions content guide
 A pattern to write and scale event types and event descriptions for user action records in the [audit database](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/delegate%20access%20#2-audit-database---immutable-logs-of-delegate-actions-for-compliance). 
 
 ## Overview
@@ -10,9 +10,9 @@ A pattern to write and scale event types and event descriptions for user action 
 - **Access event:** an action where sensitive information is accessed or updated in a database by a user or system
 - **Audit database:** logs for access events stored on vets-api and Amazon Web Services (AWS) for 7 years
 - **Event description**: describes the user action taken and the specific resource accessed or updated
-- **Event type**: categories of access events, including: sign in, profile, payments, documents, forms
-- **Resource:** types of sensitive information accessed in a database, including: password, direct deposit, etc.
-- **User action:** a verb used to describe accessing or updating resources in a database
+- **Event type**: categories of access events, currently includes: sign in, profile, payments, documents, forms
+- **Resource:** types of sensitive information accessed in a database, such as: password, direct deposit, or mailing address
+- **User action:** a verb used to describe accessing or updating resources in a database, such as: create, update, or add
 
 ## How to write event descriptions
 ### Guidelines
@@ -74,6 +74,5 @@ Incorporate more actions from [My HealtheVet Activity History](https://www.myhea
 |   Event type    |                   Event description                    |
 | :-------------- | :----------------------------------------------------- |
 | Prescriptions   | Request prescription refill                            |
-|                 | View prescriptions list                                |
 | Secure messages | Send secure message                                    |
-|                 | Open secure message                                    |
+|                 | View secure message                                    |
