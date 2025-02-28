@@ -42,7 +42,7 @@
 
 
 ## Team
-
+Government Stakeholders:
 - Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
 - Comp Services policy and process partners: Paul Schute (paul.shute@va.gov)
 - Product Owner:  Emily Theis (emily.theis@va.gov)
@@ -159,7 +159,7 @@ Engineering research | Discovery and/or technical approach documents from engine
 |Engineering Audit/Inventory|A list of engineering documents and a storehouse for documents saved in a non-standard format|[SharePoint folder](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Engineering/Audit%20and%20Inventory?csf=1&web=1&e=ZCN3CN)|01/31/25|
 #### Tech Debt
 TODO: Highlight important tech debt items
-- Continue to remove feature toggles ([#103854](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?filterQuery=-type%3AEpic+tech+debt&pane=issue&itemId=99400084&issue=department-of-veterans-affairs%7Cva.gov-team%7C103854))
+
 #### Zero Silent Failures
 TODO: Examples of failures before/after
 TODO: Policies 
