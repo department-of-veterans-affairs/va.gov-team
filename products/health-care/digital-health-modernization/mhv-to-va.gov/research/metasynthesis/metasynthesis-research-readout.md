@@ -51,11 +51,13 @@ We quickly realized the need to measure the relative evidence for each insight, 
 
 ## <a name="insights"></a>Insights <be>
 
-**Insight 1: How are people moving within the portal?**
+**Insight 1**
+
+**How are people moving within the portal?**
 
 RQ1 
 
-In Jan: had 1.1M in portal
+**In Jan: had 1.1M in portal**
 
 - 445k used secondary nav: 280k desktop; 152k mobile
 - Most of this is not happening on landing page, implying that it’s mostly cross-tool activity
@@ -115,11 +117,170 @@ Lower numbers of users are clicking on health-periphery task. We don't know if t
 - whether people aren't finding them or noticing them
 - if people simply do them elsewhere (BTSSS; pay.gov; paper/ in-person)
 - that not everyone connects those concepts in their mental models (some evidence to this in UXRs)
+
+
+## Insight 2: Veterans value personalization. They want an experience tailored to their current benefits, claims, and tasks.
+
+High-confidence - RQ4
+
+**Studies this insight appeared in:**
+- Landing page gap analysis, July 2024
+- My VA audit, March 2023
+- Mobile comparative analysis: Personalized and contextual home screen content, July 2023
+- VA Mobile App IA research, 2021-2022
+- VA Mobile App Prototype Testing and Co-Design Research, 2020 
+- My VA redesign research findings, Dec 2020
+
+**Methods:**
+- Usability study
+- Co-design research
+- Discovery research
+- Card sort
+
+**Details:** 
+
+Veterans desire a personalized and centralized online experience, that streamlines access to their most relevant benefits, tasks, and personalized notifications.
+
+**Examples across the study:**
+
+"Veterans want their experience to be tailored to them—a 'digital version of themselves'” reflecting what matters to them, right now (Review of related user research: Mobile app personalization, July 2023). 
+
+"Veterans want a page that is focused on current information specific to them, rather than generalized information for all Veterans " (VA.gov home page user research, 2023). 
+
+Veterans had positive reactions to seeing My VA immediately upon login because it was more personalized and showed them "their stuff" (My VA audit, March 2023).
+Veterans prefer a concise overview of urgent or actionable items on a landing page...(My VA redesign research findings, Dec 2020). 
+
+Many participants expressed appreciation for the personalization of My VA. Those who favored the homepage valued its versatility and the range of actions it allowed. Meanwhile, users who preferred My VA highlighted its streamlined and personalized experience. Regardless of their preference, both groups acknowledged the benefits of My VA’s personalization (My VA 2 research, March 2021). 
+
+## Insight 3: Veterans want to be notified about changes, updates, or new information - especially time-sensitive information. 
+
+High confidence - RQ4
+
+**Studies supporting this insight:**
+
+- VA Mobile App Prototype Testing and Co-Design Research, 2020
+- Landing page gap analysis, July 2024
+- VA Mobile research review: Personalized app homescreen, Nov 2021
+- Mobile comparative analysis: Personalized and contextual home screen content, July 2023
+- Review of related user research: Mobile app personalization, July 2023
+
+**Methods:**
+
+- Usability study
+- Co-design research
+- Desk research
+- Comparative analysis
   
+**Details:**
 
-## Insight 2: Veterans need a seamless way to access health and disability benefits information, but conflating the two creates confusion and inefficiencies. 
+Findings around notifications emerged in five of the studies reviewed. These studies clarify that Veterans want proactive, transparent information and updates from the VA. They see notifications as a way to achieve this. 
+Timely, personalized notifications would help Veterans take action on time-sensitive tasks such as managing claims, and stay informed about relevant updates. (VA Mobile app prototype testing and co-design research, 2020; Review of related user research: Mobile app personalization, July 2023)
 
-High-confidence  RQ2  (2020 \-2024)
+Personalized notifications and more general notifications both have potential to be useful, but personal ones are much higher value (VA Mobile App Prototype Testing and Co-Design Research, 2020). 
+"There are town hall meetings - any kind of meetings - VA does lots of good things, if I knew about them I could schedule appointments and attend." -- P4
+"Notifications would be really useful - the more specific ones that are personalized. That would function the way I think VA launchpad could have been." -- P5
+"VA information would need to be more specific...important things that are happening that we need to know about and suggestions for other things I am eligible for or any changes to their policies [are the types of things I want to be notified about]." -- P2
+
+**Importance of clear and granular notifications:**
+
+Personalized notifications and more general notifications both have the potential to be useful, but personal ones are of much higher value (VA Mobile app prototype testing and co-design research, 2020). Further, simple status updates are inadequate. They need contextual details and more information to be useful (e.g., claim type, date, next steps) to interpret the status and understand where a given application, submission, or claim is in the process.
+In early 2024, analytics data for the “Go to inbox” link on the My VA page saw a 47% increase in traffic when a red notification dot was next to it. This data indicates that calling attention to links and areas with “new” or “unread” information does drive engagement (Notification dot indicator analytics, September 19, 2023). 
+
+**Examples:**
+
+- "[Status of a claim] is a big stressor - you don’t know where you are in the process, hard to know what step you are on. I just want to see where I am in the process and what else I have to do." (P3, VA Mobile app prototype testing and co-design research, 2020).
+- "There are town hall meetings - any kind of meetings - VA does lots of good things, if I knew about them I could schedule appointments and attend." -- P4
+- "VA information would need to be more specific...important things that are happening that we need to know about and suggestions for other things I am eligible for or any changes to their policies [are the types of things I want to be notified about]." -- P2
+- Transparency in claim status updates are critical, with Veterans requesting clear timestamps, pending status indicators, and proactive notifications (VA Mobile app prototype testing and co-design research, 2020). 
+
+_Veterans' mental model around notifications is shaped by their online experiences._
+
+A comparative analysis reviewing 26 apps across industries found notifications in 16 of the apps reviewed. 
+
+- Notifications were present in half of the apps, but overwhelmingly they were not included on the home screen (Mobile comparative analysis: Personalized and contextual home screen content, July 2023) 
+
+Further research revealed,  
+
+- All competitors use badge indicators and/or card-style notifications to draw the user's attention to new, unread, or time-sensitive information (Landing page gap analysis, July 2024)
+- All competitors highly personalize the page to clearly communicate information unique to the user. Personalized components (notification cards or sections with specific content) are almost always given primary hierarchy placement on the page, but some features are prioritized as secondary (i.e. notification badges that are less visually "loud" or prominent) (Landing page gap analysis, July 2024). 
+- When it comes to notifications and updates on the My VA webpage, Veterans expect to see them at the top of the page (VA Mobile research review: Personalized app homescreen, Nov 2021) 
+
+## Insight 4: Veterans want a central authenticated place that they see as a “jumping off point,” where they can return again and again to re-center themselves. 
+
+Medium confidence - RQ4
+
+Studies that support this insight:
+
+* Authenticated user generative research, 2020  
+* VA.gov home page user research, 2023  
+* Generative research on Transitioning Service Members, 2024  
+* Logged-in Homepage Redesign: Comparative Analysis  
+* [My HealtheVet landing page gap analysis, July 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/gap-analysis-2024.md)
+
+Methods:
+
+* Generative research  
+* Comparative analysis
+
+Details:
+
+A study from 2020 interviewed 10 Veterans and determined key needs for an authenticated experience that we are still not quite delivering today (Logged-in homepage user research, 2020\)
+
+1. We should focus the logged-in homepage on helping Veterans complete tasks as directly as possible (not linking them through multiple content pages to get to where they want to go).  
+2. We should minimize content on the logged-in homepage that is not specific to the user.
+
+We still see these same needs articulated in studies as recent as 2024\. While My VA has gone through several iterations, Veteran feedback and competitive analysis both suggest that users expect curated dashboard pages that are highly conditional, showing the Veteran only the most actionable information that is relevant to them in one central place, where they can return over and over again to understand timely updates, view in-progress tasks, and easily navigate to authenticated pages where they can manage their health and benefits.  
+
+* "Veterans want a page that is focused on current information specific to them, rather than generalized information for all Veterans." (VA.gov home page user research, 2023\)  
+* Veterans would like to see us surface benefit recommendations alongside existing benefit management in a single place. (Generative research on Transitioning Service Members, 2024\)  
+* When Veterans were asked to design their own home page, they created pages that gave them access to most important tasks in one place, guided them to benefits information and recommendations, minimized content not specific to them, and provided them with important updates. (Logged-in homepage research, 2020\)
+
+Veterans’ expectations about what this “central page” should look like are impacted by their broader experiences on other websites and authenticated portals, where Veterans regularly engage with features “make them feel known” and are more relevant to them than what we offer on VA.gov. These pages are also easier to find in portals outside of VA.gov, where the purpose of the site is more straightforward and isn’t balancing multiple benefit types in one place. In general, Veterans seem to understand that this “central page” would not reflect *all* of their information, and that they may need to go off to another page to get fuller information or details.
+
+* Veterans are looking for a personal summary with clear calls to action and an “at-a-glance” understanding of the status of each item that needs their attention so that they can quickly identify statuses and top tasks that should be completed. ([My VA Redesign research findings, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md))  
+* Almost every site we looked at (Delta and Google being exceptions) predominantly display content related only to the user upon logging in. The sites typically included very little, if any, generic marketing or promotional content in the main body upon login. (Logged-in Homepage Redesign: Comparative Analysis, 2020\)  
+* The Cartography team took on a gap analysis research effort in 2024 that identified significant differences in the information architecture approach and level of personalization on the My HealtheVet landing page compared to common authenticated portals on major financial, travel, and health websites ([Gap analysis research on the My HealtheVet on VA.gov homepage, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/gap-analysis-2024.md)) 
+
+<img width="592" alt="Screenshot 2025-02-28 at 10 42 27 AM" src="https://github.com/user-attachments/assets/0e4dbbce-92e2-4661-99c9-8fbc46aeca93" />
+
+## Insight 5: Veterans have heightened information needs when they encounter major life transitions.
+
+Medium confidence  RQ 4  Needs more research
+
+Studies that support this insight
+
+* Generative research on transitioning service-members, 2024  
+* My VA Personalization 2.0 discovery research, 2020  
+* Social listening healthcare mental model, Sept 2024  
+* VES Veteran Unmet Needs report, 2024
+
+Methods:
+
+* Social listening  
+* Generative research  
+* Usability study
+
+Details: 
+
+The differences and severity of needs among Veterans are most pronounced during major life transitions. Aligning examples of these transitions to the [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf), the first and most universal change occurs when Veterans start up with the VA. Two studies point to the need for an onboarding process for recently separated Veterans, naming their need for orientation to the vast suite of benefits that they may be eligible for with the VA. Direct interviews with recently separated Veterans deeply reflect the lack of training around how to *use benefits* at the VA, what to apply for first based on their needs, and how to figure out what they and their family members are eligible for. Veterans want to be guided through the process (My VA Personalization 2.0 discovery research). 
+
+* The complexity of the VA discourages people from applying for benefits. Especially people with cognitive considerations. (Generative research on transitioning service-members, 2024\)   
+* Separating service members have the additional stress of getting to know the VA for the first time and figuring out how to settle into their lives outside of the military. While there are many ways we could better address \[their needs\], one of the biggest ones is creating an onboarding experience for first time users at the VA. (My VA Personalization 2.0 discovery research)  
+  * “Is there a walk through to the websites, like a point and click to see what is available and what is provided? It would assist in properly navigating the website … Walk me through how to… fill prescription or make an appointment.” (P1, Transitioning service-member interview)  
+  * I mean even if it were just a link \[on the website\] that said "separating: this is how we help" and have a page and links that are categorized that it was easy to navigate. Or apply for different situations or types of people that are getting out. Like going to school click here, going right into a job click here, something like that.” (P2, Transitioning service-member interview)   
+* Veterans transitioning to  civilian  life face challenges  in relating  to  non-military individuals,  workforce entry,  securing  basic necessities, accessing essential  services such as healthcare  and insurance, and adapting  to  a different  pace of life. This transition is notably  challenging,  with  43% of service members  experiencing  serious suicide  risk factors  in the  first  three  months  after  military  discharge. (VES Veteran Unmet Needs report, 2024\)
+
+Once Veterans have “started up” and move on to “putting down roots” or “taking care of themselves,” Veterans feel concerned and unclear about what could change if they go through another major transition, such as losing their job, getting married or divorced, retiring, or having a child. A change in their disability rating can also create confusion as to how that impacts their access to care.
+
+ It is possible that a major health diagnosis could be considered a similarly massive life transition, but we did not find evidence in the research at this stage to back that up. We recommend additional generative research to better understand what significant life changes are stressors for Veterans both within and beyond healthcare.  
+
+* In a social listening study conducted by the 10-10 health applications team, 3 of 11 reddit posts cited getting a new job or having a change in income that meant they no longer met the income limits to qualify for VA health care.A common concern was that giving VHA information about their employer health insurance plan would remove their eligibility to VA healthcare. (Social listening healthcare mental model, Sept 2024).  
+  * “I just got a new job last year and I’m making more. It’s over the income limit. It doesn’t say I’d get kicked out \[of VA medical benefits\] tho. The providers I’m currently seeing are great and I’d rather not have to look for a new one.”   
+  * “I am waiting on approval for a \[...\] claim that should put me at 10% \[service-connected disability rating\]. Will I be eligible for VA care at that point or will my income level continue to prevent me from utiliz\[ing\] VA healthcare services?”    
+
+## Insight 6: Veterans need a seamless way to access health and disability benefits information, but conflating the two platforms creates confusion and inefficiencies. 
+
+## **High-confidence  RQ2**  (2020 \-2024)
 
 **Studies that support this insight:**
 
@@ -178,216 +339,9 @@ Veterans struggle with redundancy and resubmitting documentation across platform
 
 *  "VA has all my stuff but they want me to resubmit it as new evidence. Have to download the info from VA, highlight what the doctor said on what day, and then submit it as new evidence... then schedule another appointment." (P9, Landing Page Gap Analysis, July 2024\)
 
+## Insight 7: Veterans have historically struggled to find their health and benefits information due to fragmented platforms, often requiring switching between platforms.  While progress has been made in integrating MHV onto VA.gov  potential confusion and inefficiencies may still arise if health and disability benefits information are conflated rather than clearly distinguished.     
 
-## Insight 3: Veterans value personalization. They want an experience tailored to their current benefits, claims, and tasks.
-
-High-confidence - RQ4
-
-**Studies this insight appeared in:**
-- Landing page gap analysis, July 2024
-- My VA audit, March 2023
-- Mobile comparative analysis: Personalized and contextual home screen content, July 2023
-- VA Mobile App IA research, 2021-2022
-- VA Mobile App Prototype Testing and Co-Design Research, 2020 
-- My VA redesign research findings, Dec 2020
-
-**Methods:**
-- Usability study
-- Co-design research
-- Discovery research
-- Card sort
-
-**Details:** 
-
-Veterans desire a personalized and centralized online experience, that streamlines access to their most relevant benefits, tasks, and personalized notifications.
-
-**Examples across the study:**
-
-"Veterans want their experience to be tailored to them—a 'digital version of themselves'” reflecting what matters to them, right now (Review of related user research: Mobile app personalization, July 2023). 
-
-"Veterans want a page that is focused on current information specific to them, rather than generalized information for all Veterans " (VA.gov home page user research, 2023). 
-
-Veterans had positive reactions to seeing My VA immediately upon login because it was more personalized and showed them "their stuff" (My VA audit, March 2023).
-Veterans prefer a concise overview of urgent or actionable items on a landing page...(My VA redesign research findings, Dec 2020). 
-
-Many participants expressed appreciation for the personalization of My VA. Those who favored the homepage valued its versatility and the range of actions it allowed. Meanwhile, users who preferred My VA highlighted its streamlined and personalized experience. Regardless of their preference, both groups acknowledged the benefits of My VA’s personalization (My VA 2 research, March 2021). 
-
-## Insight 4: Veterans expect that VA.gov can leverage information it already has about them to surface details about additional benefits that they’re likely to be eligible for.**
-
-High-confidence  RQ4
-
-**Studies supporting this insight:**
-
-- VA Mobile App Prototype Testing and Co-Design Research, 2020
-- Logged-in homepage research, 2020
-- Mobile app discovery, 2022
-- Mobile app personalization, July 2023
-- Landing page gap analysis, July 2024
-- Generative research on transitioning service-members, 2024
-- Social listening healthcare mental model, Sept 2024
-- VA mobile app prototype testing and co-design research [insert date]
-- Health apartment tree test 2021
-  
-**Methods:**
-
-- Usability study
-- Co-design research
-- Discovery research
-- Social listening
-- Tree-test
-
-**Details:**
-
-Across at least 9 studies and nearly 30% of the studies reviewed for this metasynthesis, there are recurrent themes of Veterans expecting the VA to leverage known information about them to connect them with additional benefits that they may be eligible for.
-
-More specifically, Veterans are interested in clear information that helps them: 
-
-- Learning about benefits that they may not already know about;
-- Understand the likelihood of their eligibility before taking the time to apply
-- Whether or not their family members are eligible for care
-- How to determine their eligibility for additional health benefits like dental and vision care 
-
-**Example findings from various studies:**
-
-- “Veterans are overwhelmed … [they] do not know what they’re eligible for, and aren’t sure how to find out. Veterans expect the VA to make use of their personal information: personalize their VA.gov and MHV experience, use personal and military information to make recommendations for benefits they are likely to be eligible for.” (Logged-in homepage research, 2020)
-- Many Veterans suggested that a “benefits screening tool” or recommendation system could surface benefits they may be eligible for based on their profile. (Digital Health Modernization Generative Research Study, Sept 2021)
-- "[I want to know] things we may be eligible for: all the resources VA offers. For example, I didn't know about Vocational Rehab until the VA person who helped me do my claim told me about it. [I’d like to see it all together] on one page instead of going through websites." - (P2, VA mobile app prototype testing and co-design research)
-- The GI Bill comparison tool is great but what are the other things you could be eligible for? There is no quick and dirty "this is what you may be qualified for." (P3, Transitioning service-member interview; My VA Personalization 2.0 discovery research) 
-
-In healthcare specifically, a social listening study identified a high negative sentiment around eligibility (7/25 posts analyzed), and also found that there is significant misinformation about how eligibility and care coverage works (10/26 posts analyzed). Veterans expect transparency when they become eligible for a new benefit type, or a change in the amount of coverage; but on the other hand they also expect to be notified if their coverage decreases or they lose access. 
-
-- “How do I know if my wife is covered healthcare wise? Do I need to start paying for Tricare? I’ve heard a lot about CHAMPVA - should we apply for that? I’m 100% P&T sorry for all the questions and a bit of a breakdown. It’s a lot and I”m pretty confused by all of it. I just want my loved ones taken care of.” (Social listening healthcare mental model, Sept 2024)
-- I just had my first appointment yesterday and the nurse looked stunned when I told her I had no other insurance. She explained that if I were in a car crash or something, it'd be unlikely that the VA would pay for the treatment I'd receive in the ER. (Social listening healthcare mental model, Sept 2024)
-
-## Insight 5: Veterans want to be notified about changes, updates, or new information - especially time-sensitive information. 
-
-High confidence - RQ4
-
-**Studies supporting this insight:**
-
-- VA Mobile App Prototype Testing and Co-Design Research, 2020
-- Landing page gap analysis, July 2024
-- VA Mobile research review: Personalized app homescreen, Nov 2021
-- Mobile comparative analysis: Personalized and contextual home screen content, July 2023
-- Review of related user research: Mobile app personalization, July 2023
-
-**Methods:**
-
-- Usability study
-- Co-design research
-- Desk research
-- Comparative analysis
-  
-**Details:**
-
-Findings around notifications emerged in five of the studies reviewed. These studies clarify that Veterans want proactive, transparent information and updates from the VA. They see notifications as a way to achieve this. 
-Timely, personalized notifications would help Veterans take action on time-sensitive tasks such as managing claims, and stay informed about relevant updates. (VA Mobile app prototype testing and co-design research, 2020; Review of related user research: Mobile app personalization, July 2023)
-
-Personalized notifications and more general notifications both have potential to be useful, but personal ones are much higher value (VA Mobile App Prototype Testing and Co-Design Research, 2020). 
-"There are town hall meetings - any kind of meetings - VA does lots of good things, if I knew about them I could schedule appointments and attend." -- P4
-"Notifications would be really useful - the more specific ones that are personalized. That would function the way I think VA launchpad could have been." -- P5
-"VA information would need to be more specific...important things that are happening that we need to know about and suggestions for other things I am eligible for or any changes to their policies [are the types of things I want to be notified about]." -- P2
-
-**Importance of clear and granular notifications:**
-
-Personalized notifications and more general notifications both have the potential to be useful, but personal ones are of much higher value (VA Mobile app prototype testing and co-design research, 2020). Further, simple status updates are inadequate. They need contextual details and more information to be useful (e.g., claim type, date, next steps) to interpret the status and understand where a given application, submission, or claim is in the process.
-In early 2024, analytics data for the “Go to inbox” link on the My VA page saw a 47% increase in traffic when a red notification dot was next to it. This data indicates that calling attention to links and areas with “new” or “unread” information does drive engagement (Notification dot indicator analytics, September 19, 2023). 
-
-**Examples:**
-
-- "[Status of a claim] is a big stressor - you don’t know where you are in the process, hard to know what step you are on. I just want to see where I am in the process and what else I have to do." (P3, VA Mobile app prototype testing and co-design research, 2020).
-- "There are town hall meetings - any kind of meetings - VA does lots of good things, if I knew about them I could schedule appointments and attend." -- P4
-- "VA information would need to be more specific...important things that are happening that we need to know about and suggestions for other things I am eligible for or any changes to their policies [are the types of things I want to be notified about]." -- P2
-- Transparency in claim status updates are critical, with Veterans requesting clear timestamps, pending status indicators, and proactive notifications (VA Mobile app prototype testing and co-design research, 2020). 
-
-_Veterans' mental model around notifications is shaped by their online experiences._
-
-A comparative analysis reviewing 26 apps across industries found notifications in 16 of the apps reviewed. 
-
-- Notifications were present in half of the apps, but overwhelmingly they were not included on the home screen (Mobile comparative analysis: Personalized and contextual home screen content, July 2023) 
-
-Further research revealed,  
-
-- All competitors use badge indicators and/or card-style notifications to draw the user's attention to new, unread, or time-sensitive information (Landing page gap analysis, July 2024)
-- All competitors highly personalize the page to clearly communicate information unique to the user. Personalized components (notification cards or sections with specific content) are almost always given primary hierarchy placement on the page, but some features are prioritized as secondary (i.e. notification badges that are less visually "loud" or prominent) (Landing page gap analysis, July 2024). 
-- When it comes to notifications and updates on the My VA webpage, Veterans expect to see them at the top of the page (VA Mobile research review: Personalized app homescreen, Nov 2021) 
-
-## Insight 6: Veterans want a central authenticated place that they see as a “jumping off point,” where they can return again and again to re-center themselves. 
-
-Medium confidence  RQ4
-
-Studies that support this insight:
-
-* Authenticated user generative research, 2020  
-* VA.gov home page user research, 2023  
-* Generative research on Transitioning Service Members, 2024  
-* Logged-in Homepage Redesign: Comparative Analysis  
-* [My HealtheVet landing page gap analysis, July 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/gap-analysis-2024.md)
-
-Methods:
-
-* Generative research  
-* Comparative analysis
-
-Details:
-
-A study from 2020 interviewed 10 Veterans and determined key needs for an authenticated experience that we are still not quite delivering today (Logged-in homepage user research, 2020\)
-
-1. We should focus the logged-in homepage on helping Veterans complete tasks as directly as possible (not linking them through multiple content pages to get to where they want to go).  
-2. We should minimize content on the logged-in homepage that is not specific to the user.
-
-We still see these same needs articulated in studies as recent as 2024\. While My VA has gone through several iterations, Veteran feedback and competitive analysis both suggest that users expect curated dashboard pages that are highly conditional, showing the Veteran only the most actionable information that is relevant to them in one central place, where they can return over and over again to understand timely updates, view in-progress tasks, and easily navigate to authenticated pages where they can manage their health and benefits.  
-
-* "Veterans want a page that is focused on current information specific to them, rather than generalized information for all Veterans." (VA.gov home page user research, 2023\)  
-* Veterans would like to see us surface benefit recommendations alongside existing benefit management in a single place. (Generative research on Transitioning Service Members, 2024\)  
-* When Veterans were asked to design their own home page, they created pages that gave them access to most important tasks in one place, guided them to benefits information and recommendations, minimized content not specific to them, and provided them with important updates. (Logged-in homepage research, 2020\)
-
-Veterans’ expectations about what this “central page” should look like are impacted by their broader experiences on other websites and authenticated portals, where Veterans regularly engage with features “make them feel known” and are more relevant to them than what we offer on VA.gov. These pages are also easier to find in portals outside of VA.gov, where the purpose of the site is more straightforward and isn’t balancing multiple benefit types in one place. In general, Veterans seem to understand that this “central page” would not reflect *all* of their information, and that they may need to go off to another page to get fuller information or details.
-
-* Veterans are looking for a personal summary with clear calls to action and an “at-a-glance” understanding of the status of each item that needs their attention so that they can quickly identify statuses and top tasks that should be completed. ([My VA Redesign research findings, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md))  
-* Almost every site we looked at (Delta and Google being exceptions) predominantly display content related only to the user upon logging in. The sites typically included very little, if any, generic marketing or promotional content in the main body upon login. (Logged-in Homepage Redesign: Comparative Analysis, 2020\)  
-* The Cartography team took on a gap analysis research effort in 2024 that identified significant differences in the information architecture approach and level of personalization on the My HealtheVet landing page compared to common authenticated portals on major financial, travel, and health websites ([Gap analysis research on the My HealtheVet on VA.gov homepage, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/gap-analysis-2024.md)) 
-
-<img width="592" alt="Screenshot 2025-02-28 at 10 42 27 AM" src="https://github.com/user-attachments/assets/0e4dbbce-92e2-4661-99c9-8fbc46aeca93" />
-
-## Insight 7: Veterans have heightened information needs when they encounter major life transitions.
-
-Medium confidence  RQ 4  Needs more research
-
-Studies that support this insight
-
-* Generative research on transitioning service-members, 2024  
-* My VA Personalization 2.0 discovery research, 2020  
-* Social listening healthcare mental model, Sept 2024  
-* VES Veteran Unmet Needs report, 2024
-
-Methods:
-
-* Social listening  
-* Generative research  
-* Usability study
-
-Details: 
-
-The differences and severity of needs among Veterans are most pronounced during major life transitions. Aligning examples of these transitions to the [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf), the first and most universal change occurs when Veterans start up with the VA. Two studies point to the need for an onboarding process for recently separated Veterans, naming their need for orientation to the vast suite of benefits that they may be eligible for with the VA. Direct interviews with recently separated Veterans deeply reflect the lack of training around how to *use benefits* at the VA, what to apply for first based on their needs, and how to figure out what they and their family members are eligible for. Veterans want to be guided through the process (My VA Personalization 2.0 discovery research). 
-
-* The complexity of the VA discourages people from applying for benefits. Especially people with cognitive considerations. (Generative research on transitioning service-members, 2024\)   
-* Separating service members have the additional stress of getting to know the VA for the first time and figuring out how to settle into their lives outside of the military. While there are many ways we could better address \[their needs\], one of the biggest ones is creating an onboarding experience for first time users at the VA. (My VA Personalization 2.0 discovery research)  
-  * “Is there a walk through to the websites, like a point and click to see what is available and what is provided? It would assist in properly navigating the website … Walk me through how to… fill prescription or make an appointment.” (P1, Transitioning service-member interview)  
-  * I mean even if it were just a link \[on the website\] that said "separating: this is how we help" and have a page and links that are categorized that it was easy to navigate. Or apply for different situations or types of people that are getting out. Like going to school click here, going right into a job click here, something like that.” (P2, Transitioning service-member interview)   
-* Veterans transitioning to  civilian  life face challenges  in relating  to  non-military individuals,  workforce entry,  securing  basic necessities, accessing essential  services such as healthcare  and insurance, and adapting  to  a different  pace of life. This transition is notably  challenging,  with  43% of service members  experiencing  serious suicide  risk factors  in the  first  three  months  after  military  discharge. (VES Veteran Unmet Needs report, 2024\)
-
-Once Veterans have “started up” and move on to “putting down roots” or “taking care of themselves,” Veterans feel concerned and unclear about what could change if they go through another major transition, such as losing their job, getting married or divorced, retiring, or having a child. A change in their disability rating can also create confusion as to how that impacts their access to care.
-
- It is possible that a major health diagnosis could be considered a similarly massive life transition, but we did not find evidence in the research at this stage to back that up. We recommend additional generative research to better understand what significant life changes are stressors for Veterans both within and beyond healthcare.  
-
-* In a social listening study conducted by the 10-10 health applications team, 3 of 11 reddit posts cited getting a new job or having a change in income that meant they no longer met the income limits to qualify for VA health care.A common concern was that giving VHA information about their employer health insurance plan would remove their eligibility to VA healthcare. (Social listening healthcare mental model, Sept 2024).  
-  * “I just got a new job last year and I’m making more. It’s over the income limit. It doesn’t say I’d get kicked out \[of VA medical benefits\] tho. The providers I’m currently seeing are great and I’d rather not have to look for a new one.”   
-  * “I am waiting on approval for a \[...\] claim that should put me at 10% \[service-connected disability rating\]. Will I be eligible for VA care at that point or will my income level continue to prevent me from utiliz\[ing\] VA healthcare services?”    
-
-## Insight 8: Veterans need a well-structured and intuitive navigation  that aligns with their expectations, allowing them to efficiently locate, understand, and manage their health and benefits information without unnecessary steps or confusion.   
-
-High-confidence  RQ4  (2020-2023)
+**High-confidence  RQ4  (2020-2023)**
 
 **Studies that support this insight:**
 
@@ -405,8 +359,11 @@ High-confidence  RQ4  (2020-2023)
 * Generative Research  
 * Tree Test
 
-**Summary:**   
-Veterans often struggle with knowing where to start when looking for health and benefits information on VA.gov. Inconsistent categorization and fragmented navigation lead them to rely on search, external resources, or redundant pathways rather than direct entry points. Many Veterans attempt to locate tasks based on assumptions about where information should be but encounter unexpected placements and deep navigation structures making it difficult to complete tasks efficiently. Without clear and intuitive entry points, Veterans face unnecessary trial and error, frustration, and delays in accessing critical resources and information.
+**Summary:** 
+
+Veterans have historically struggled to find their health and benefits information due to fragmented platforms, often switching between systems to complete tasks. Integrating MHV into VA.gov has helped address these inefficiencies, but confusion may still arise if health and disability benefits aren’t clearly distinguished. Veterans’ past experiences with separate platforms may continue to shape how they navigate the new system.
+
+Research shows that Veterans frequently backtrack, search across platforms, or abandon tasks when information isn’t where they expect. Managing overlapping healthcare and benefits tasks remains a challenge, and transitioning to a new system requires relearning navigation, which can add frustration.While MHV’s integration into VA.gov is progress, ongoing research is needed to ensure Veterans can easily find what they need, reducing confusion and improving access to essential services. 
 
 Veterans struggled to determine where tasks related to benefits and health should reside.
 
@@ -440,9 +397,9 @@ Many Veterans struggle with navigation due to long pages and overwhelming conten
 *  Many never opened the VA Benefits and Health Care megamenu, missing navigation options that could have led them to key health and benefits information. *(Research Outline and Recommendations: VA.gov Auth Experience, April 2023\)*  
 *   "It is a lot of information, and it’s overwhelming." (*P11, Research Outline and Recommendations: VA.gov Auth Experience, April 2023\)*
 
-## Insight 9: Veterans expect an intuitive way to access health-related financial tools, such as copays and travel reimbursements. Better alignment with their expectations will reduce confusion, minimize unnecessary navigation, and improve task efficiency.
+## Insight 8: Veterans expect a straightforward and intuitive way to access financial tools such as copays and travel reimbursements and debts. When these tools are not located where they anticipate, it leads to unnecessary navigation across the platform, and difficulty completing tasks efficiently. Aligning access points with Veterans’ mental models can reduce confusion, streamline navigation, and improve task completion.  
 
-High-confidence  RQ5  (2020-2023)
+**High-confidence  RQ5  (2020-2023)**
 
 **Studies that support this insight:**
 
@@ -461,7 +418,11 @@ High-confidence  RQ5  (2020-2023)
 * Usability Study  
 * Generative Research
 
-Across multiple studies, Veterans experienced confusion and inefficiencies when searching for health-related financial tools like copays, travel reimbursements, and medical billing. Many expected these tools to be within health-related sections rather than grouped under broader financial management categories like "Manage Your VA Debt." This misalignment with Veterans’ expectations led to unnecessary navigation loops, reliance on multiple platforms, and difficulty completing tasks efficiently, ultimately causing frustration and delays in accessing essential financial resources.
+Multiple studies indicate that Veterans experience confusion and inefficiencies when searching for health-related financial tools. Expectations around where these tools should be located vary, leading Veterans to navigate between platforms, backtrack, or abandon tasks when they struggle to find the right information.
+
+As Veterans transition to and become accustomed to MHV on VA.gov, further research is needed to understand how they prefer to view and access their financial information. Specifically, it is important to explore whether maintaining health-related financial tools separately from other benefits tools aligns with their expectations or if a more consolidated approach would improve usability.
+
+This misalignment forces Veterans to rely on homepage top tasks or My VA links, which they often find insufficient. Many search using broad financial terms alongside health-related terms, suggesting that the current structure does not match their expectations. The resulting frustration and delays in accessing essential financial resources highlight the need for a more intuitive and seamless navigation experience.Ongoing research will help determine the best way to organize financial tools within VA.gov, ensuring Veterans can efficiently access the information they need without unnecessary navigation barriers. 
 
 Veterans frequently bounced between My VA, MHV, and VA.gov while searching for copays and travel pay reimbursements, unsure where to start.
 
@@ -483,39 +444,6 @@ Veterans expect a dedicated space for healthcare-related payments rather than mi
 * Many relied on homepage top tasks or My VA links but found them insufficient for locating specific financial tools. *(Research Outline and Recommendations: VA.gov Auth Experience, April 2023\)*  
 * Veterans struggled to determine where financial tools like copays and travel reimbursement belong within the VA system. *(P6, P8, Health Wayfinding Study, July 2023\)*  
 * Veterans frequently searched for broad financial terms alongside health-related terms, suggesting that the current structure does not align with their expectations. *(Logged-in Homepage Discovery, 2020\)*
-
-## Insight 10: Veterans have historically struggled to find their health and benefits information due to fragmented platforms, often requiring switching between platforms.  While progress has been made in integrating MHV onto VA.gov  potential confusion and inefficiencies may still arise if health and disability benefits information are conflated rather than clearly distinguished.  
-
-**Medium-confidence  RQ3**  
-
-**Studies that support this insight:**
-
-* My VA & logged-in home page research, 2020  
-* Digital Health Modernization Generative Research Study, Sept 2021  
-* MHV on VA.gov Round 1 Initial Prototype Usability Research/POC, March 2022  
-* Health Apt Tree Test \- Health Hub, Health Apt, Deeper Nav, Dec 2022  
-* Research Outline and Recommendations: VA.gov Auth Experience, April 2023  
-* Health wayfinding study, July 2023\)  
-* MHV on VA.gov Round 2 Initial Prototype \- Usability Research/POC \- mobile users, May 2024\)  
-* Landing Page Gap Analysis, July 2024
-
-**Methods:**
-
-* Usability Study  
-* Card Sorting  
-* Discovery Research  
-* Tree Testing
-
-Veterans have historically struggled to find their health and benefits information due to fragmented platforms, often switching between systems to complete tasks. Integrating MHV into VA.gov has helped address these inefficiencies, but confusion may still arise if health and disability benefits aren’t clearly distinguished. Veterans’ past experiences with separate platforms may continue to shape how they navigate the new system.
-
-Research shows that Veterans frequently backtrack, search across platforms, or abandon tasks when information isn’t where they expect. Managing overlapping healthcare and benefits tasks remains a challenge, and transitioning to a new system requires relearning navigation, which can add frustration.While MHV’s integration into VA.gov is progress, ongoing research is needed to ensure Veterans can easily find what they need, reducing confusion and improving access to essential services. 
-
-**Examples**
-
-* Transitioning to a new system requires \[users\] to relearn where to find information, adding to frustration and difficulty in completing tasks (P7, MHV on VA.gov Round 1 Initial Prototype Usability Research/POC, March 2022).  
-* Veterans experience confusion and frustration when managing tasks that overlap between benefits and healthcare. P29: Observed that My VA is more focused on benefits, while MHV is more focused on healthcare, but found it frustrating to manage overlapping tasks across both platforms. (P29, Health Wayfinding Study, July 2023\)  
-* Veterans have faced significant inefficiencies when navigating multiple platforms to manage their health and disability benefits, often switching between VA.gov, MHV, and other resources to complete tasks. "VA.gov, My HealtheVet, eBenefits, military.com—there are too many websites that you can go to, and it can get confusing." (P4, MHV on VA.gov Round 2 Initial Prototype \- Usability Research/POC \- Mobile Users, May 2024).  
-* Some Veterans assume clicking on their approved disabilities should provide a clear breakdown of their ratings and associated benefits, but instead, they must search multiple locations to piece it together (P2, Logged-in Homepage Research, May 2020\)
 
 
 **List of all 34 studies included in our metasynthesis evaluation:** 
