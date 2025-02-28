@@ -121,7 +121,7 @@ The Identity team is here to help! We're dedicated to ensuring your integration 
 - Check out our [frequently asked questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Troubleshooting/SiS%20FAQ).
 - Join us in our scheduled [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Support/README.md) meeting.
 - Start a thread in the [#vsp-identity channel](https://dsva.slack.com/archives/CSFV4QTKN) of the OCTO Slack workspace.
-- Send an email to Mike King at mike.king@oddball.io.
+- Send an email to Joe Niquette.
 
 ## Perform integration testing
 
