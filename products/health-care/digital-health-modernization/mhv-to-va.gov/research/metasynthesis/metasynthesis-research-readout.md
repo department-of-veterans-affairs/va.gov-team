@@ -115,17 +115,21 @@ Lower numbers of users are clicking on health-periphery task. We don't know if t
 - if people simply do them elsewhere (BTSSS; pay.gov; paper/ in-person)
 - that not everyone connects those concepts in their mental models (some evidence to this in UXRs)
 
+***2. What are the highest impact navigation-related pain points (General/all of VA?) What navigation problems that cause the biggest challenges or make it hardest for Veterans to accomplish their tasks?***
 
+### Insight 1: What stops users from finding what they're looking for on VA? Uncertainty about which benefit hub a task belongs to### 
 
+Medium-confidence - RQ2
 
+**3. How do behaviors differ (or don’t) in the health space compared with the benefits space (health/ general all of VA)?**
+    * Do Veterans use My HealtheVet (health) differently than they use VA.gov for benefits? If so, how? If not, what’s the same?
 
+**4. What do Veterans expect from an authenticated experience on VA.gov that includes benefits from a range of VA sub-agencies? (general/all of VA)**
+    * What do Veterans want or expect when they log in to VA.gov, especially when it comes to easily accessing benefits and services from different VA departments (like health care, education, or disability)?
 
-
-
-    
 ### Insight 1: Veterans value personalization. They want an experience tailored to their current benefits, claims, and tasks.
 
-High-confidence - RQ2
+High-confidence - RQ4
 
 **Studies this insight appeared in:**
 - Landing page gap analysis, July 2024
@@ -159,7 +163,7 @@ ____
 
 ### Insight 2: Veterans expect that VA.gov can leverage information it already has about them to surface details about additional benefits that they’re likely to be eligible for.**
 
-High-confidence  RQ2
+High-confidence  RQ4
 
 **Studies supporting this insight:**
 
@@ -242,6 +246,16 @@ All competitors use badge indicators and/or card-style notifications to draw the
 All competitors highly personalize the page to clearly communicate information unique to the user. Personalized components (notification cards or sections with specific content) are almost always given primary hierarchy placement on the page, but some features are prioritized as secondary (i.e. notification badges that are less visually "loud" or prominent) (Landing page gap analysis, July 2024). 
 
 When it comes to notifications and updates on the My VA webpage, Veterans expect to see them at the top of the page (VA Mobile research review: Personalized app homescreen, Nov 2021) 
+
+    
+**5. What are the use cases where there’s overlap between health and other areas, where people might not find what they need in the health space? (Health/general all of VA)**
+    * When do Veterans’ needs for health-related tools or information cross over into other areas (like benefits or education), and where does this overlap cause confusion or make it hard for them to find what they need?
+    
+
+
+
+    
+
 
 
 ## <a name="sources"></a>Sources cited <br>
