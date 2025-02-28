@@ -115,18 +115,17 @@ Government Stakeholders:
 |526ez Submission Status Research | Evaluative research of confirmation page and post-submission emails | [GitHub Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2024-07-Submission-Status) | Jul 2024|
 |Toxic Exposure (New Questions) Research| Evaluative research of confirmation page and post-submission emails | [SharePoint Link](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?isAscending=true&e=5%3A0f5e8995f1784d9aa59021cdc4776530&sharingv2=true&fromShare=true&CID=d7176fa1%2Dc0b0%2D7000%2D6dfa%2Df91eba2b481a&cidOR=SPO&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience%2F5%20%2D%20Research%20and%20Design%2F2024%2D11%20Toxic%20Exposure%20%28New%20Questions%29%20Research&sortField=LinkFilename&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) | Nov 2024|
 
-## Analytics
-TODO: how is this different from the Monitoring section?
+## Google Analytics
+TODO: Ask Evelyn about GA and/or if she could elaborate on the state of this
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
-|ITF Migration|DataDog Dashboard for monitoring LH and EVVS traffic during migration|Link||
 
 ## Features/Initiatives
-TODO: should be adding project features here? or link to a different page 
+TODO: should be adding project features here? or link to a different page (Lauren is working on this.)
 
 ## Engineering
 #### Github Repos
-TODO: add vets-json-schema
+TODO: add vets-json-schema (Tommasina is working on this.)
 |Title|Description|Link|
 |-----|-----------|----|
 |vets-api|va.gov backend code, and also lighthouse code (in the `modules` folder)|https://github.com/department-of-veterans-affairs/vets-api/|
@@ -135,7 +134,7 @@ TODO: add vets-json-schema
 |va.gov-team-sensitive|Area for sensitive items such as post-mortems, security things, and other internal or sensitive documentation|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive|
 
 
-#### Monitoring
+#### DataDog Monitoring
 |Title|Description|Link|Last Updated|
 |-----|-----------|----|-------|
 |526 Overall Dashboard|Overall starting place to view overall 526 health, a good place to start any investigating|https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/benefits-form-526-disability-compensation?fromUser=false&refresh_mode=sliding&from_ts=1740566518257&to_ts=1740580918257&live=true||
@@ -144,6 +143,7 @@ TODO: add vets-json-schema
 |Monitors/Alerts|The list of 526 related datadog alerts/monitors, they alert into the [#benefits-disability-notifications](https://dsva.slack.com/archives/C05URMLM09Z) channel|https://vagov.ddog-gov.com/monitors/manage?q=service%3Adisability-application&order=desc||
 |Playbooks|Various documents around errors that may occur and what to do when encountered|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/benefits/playbooks/526||
 #### Support/Remediation (Production SOP)
+TODO: Seth is going to fill this out with more scripts.
 |Title|Description|Link|Last Updated|
 |-----|-----------|----|-------|
 |Troubleshooting on staging|Misc notes for troubleshooting submission failures on staging|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/troubleshooting-on-staging.md|7/31/24
@@ -158,10 +158,11 @@ TODO: add vets-json-schema
 Engineering research | Discovery and/or technical approach documents from engineering reseach | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/engineering_research)
 |Engineering Audit/Inventory|A list of engineering documents and a storehouse for documents saved in a non-standard format|[SharePoint folder](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Engineering/Audit%20and%20Inventory?csf=1&web=1&e=ZCN3CN)|01/31/25|
 #### Tech Debt
-TODO: Highlight important tech debt items
+TODO: Highlight important tech debt items (Mike is making a list of important backlog items.)
+- Next steps for Submission Experience emails
 
 #### Zero Silent Failures
-TODO: Examples of failures before/after
+TODO: Examples of failures before/after (is Kyle/Carbs working on this?)
 TODO: Policies 
 
 ## Other Related
