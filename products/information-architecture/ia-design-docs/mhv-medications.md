@@ -5,7 +5,6 @@
 
 **On this page:**
 - [Decision log](#decision-log)
-- [User/page flows](#flows)
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
@@ -24,7 +23,7 @@
 * May 2024: Go/No-Go for Medications, delayed to May 31st
 * May 2024: Staging review for Phase 1 scheduled for May 30th, 2024
 
-## <a name="map"></a>Medications sitemap<br>
+## <a name="map"></a>Page structure<br>
 <img width="444" alt="Screenshot 2025-02-28 at 10 11 54 AM" src="https://github.com/user-attachments/assets/de191c35-9bb6-428e-836c-f9bb6c1d3733" />
 
 ## <a name="url"></a>URLs and breadcrumbs
