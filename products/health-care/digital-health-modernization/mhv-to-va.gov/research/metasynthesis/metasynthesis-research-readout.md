@@ -49,7 +49,7 @@ We quickly realized the need to measure the relative evidence for each insight, 
 
 ## <a name="insights"></a>Insights <be>
 
-## Insight 1: **How are people moving within the portal?**
+**Insight 1: How are people moving within the portal?**
 
 RQ1 
 
