@@ -17,7 +17,7 @@ Once you have access you will log into Citrix and do the following:
 
 ## How to make a claim in Staging
 1. Go to Mock Staging Users [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) and select a user that you want to add the claim to.Grab that users SSN.
-2. Log into [VBMS]()
+2. Log into [VBMS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/onboarding/vbms.md#how-to-log-into-vbms)
 3. Click the Search tab and paste in the SSN from Mock Staging Users, and click the Open Profile button
 4. Click claims tab (wait for claims to load)
 5. Click a claim - you’ll be directed to a new page
@@ -30,7 +30,7 @@ Once you have access you will log into Citrix and do the following:
 
 ## How to add a tracked item to a claim in Staging:
 1. Go to Mock Staging Users [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) and select a user that you want to add the claim to.Grab that users SSN.
-2. Log into [VBMS]()
+2. Log into [VBMS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/onboarding/vbms.md#how-to-log-into-vbms)
 3. There are two options for adding a tracked item to a claim..
     1. Look for the claim based off of the users SSN
         1. Click the Search tab and paste in the SSN from Mock Staging Users, and click the Open Profile button
@@ -45,14 +45,15 @@ Once you have access you will log into Citrix and do the following:
   8. You have now created a tracked item on a claim
 
 ## How to add contentions to a claim:
-1. Log into VBMS and Go to the Search tab
-2. Paste in the claim id and click Open Claim button
-3. Click the ‘Contentions’ arrow
-4. Click the ‘Add Contention’ button
-5. Select a contention and
-6. Select a classification
-7. Click the ‘Save and Add’ button
-8. You have now created a contention on a claim
+1. Go to Mock Staging Users [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) and select a user that you want to add the claim to.Grab that users SSN.
+2. Log into [VBMS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/onboarding/vbms.md#how-to-log-into-vbms)
+3. Paste in the claim id and click Open Claim button
+4. Click the ‘Contentions’ arrow
+5. Click the ‘Add Contention’ button
+6. Select a contention and
+7. Select a classification
+8. Click the ‘Save and Add’ button
+9. You have now created a contention on a claim
 
 ## How to move a step in VBMS:
 There are two ways…
