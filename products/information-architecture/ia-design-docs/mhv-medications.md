@@ -12,6 +12,7 @@
 - [Redirects](#redirects)
 
 ## <a name="decision-log"></a>Decision Log
+* **Winter 2025: Removing the "About medications" page from the product sitemap. This will remove some funky IA where we were forcing this page to be the front-door of the application even though it's structurally positioned as a child page. Information that was previously on this page will now be distributed throughout the project, and some will move to the static `/health-care` informational page about medications.**
 * Fall 2024: Moving forward with two product improvements that are currently going through collab cycle: 
   * Grouping medications - _still in progress / design iterations_
   * Adding filters to the medications list - _planned to ship by EOY. Go/no-go is scheduled for mid-December._
@@ -22,14 +23,9 @@
 * February-March 2024: User research sessions
 * May 2024: Go/No-Go for Medications, delayed to May 31st
 * May 2024: Staging review for Phase 1 scheduled for May 30th, 2024
-  
-## <a name="flows"></a>My HealtheVet basic user flow<br>
-Routes into My HealtheVet tools (in Phase 1 or higher) at initial time of integration (June 2024): 
-<img width="780" alt="Screenshot 2024-05-28 at 9 00 37 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/72bc7ab9-2b9d-450a-8ab8-5afc011cd2ac">
 
 ## <a name="map"></a>Medications sitemap<br>
-<img width="936" alt="Screenshot 2024-12-03 at 11 19 40 AM" src="https://github.com/user-attachments/assets/85b8ec03-ce6d-455e-8f1e-a232f1f94dc2">
-
+<img width="393" alt="Screenshot 2025-02-28 at 10 06 40 AM" src="https://github.com/user-attachments/assets/60f75616-d03a-45ca-8639-aca6f6fcd965" />
 
 ## <a name="url"></a>URLs and breadcrumbs
 
@@ -37,12 +33,12 @@ The launch of medications to Phase 1 will coincide with all tools that are in Ph
 * [Full integration breadcrumb plan](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713558793852/31aadcbae7070a6f0f4cfea4f63e568721f1480d?sender=uf94a77a19aaf687331c09367)
 * [My HealtheVet sitemap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713450017254/6daf1f320cba1054fdfd840e4a7c881dda87120c), showing current + future (integration) state
 
-**1)About medications (forced entry point/landing page)**
-- URL: www.va.gov/my-health/medications/about
-- Breadcrumb: 
-  - desktop: VA.gov home > My HealtheVet > About medications
-  - mobile: < My HealtheVet
-- Title tag: About Medications | Veterans Affairs
+~**1)About medications (forced entry point/landing page)**~ REMOVED
+- ~URL: www.va.gov/my-health/medications/about~
+- ~Breadcrumb:~ 
+  - ~desktop: VA.gov home > My HealtheVet > About medications~
+  - ~mobile: < My HealtheVet~
+- ~Title tag: About Medications | Veterans Affairs~
 
 **2) Medications list view - NEW**
 - URL: www.va.gov/my-health/medications/
