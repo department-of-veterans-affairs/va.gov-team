@@ -49,10 +49,9 @@ We quickly realized the need to measure the relative evidence for each insight, 
 
 ## <a name="insights"></a>Insights <be>
 
->**1. What are the most consistent health-related navigational pain points (health specific)?**
->* What are the common issues or frustrations Veterans face when trying to find or use health-related tools and information on MHV?
+## Insight 1: **How are people moving within the portal?**
 
-**How are people moving within the portal?**
+RQ1 
 
 In Jan: had 1.1M in portal
 
@@ -115,11 +114,8 @@ Lower numbers of users are clicking on health-periphery task. We don't know if t
 - if people simply do them elsewhere (BTSSS; pay.gov; paper/ in-person)
 - that not everyone connects those concepts in their mental models (some evidence to this in UXRs)
   
---
->2. What are the highest impact navigation-related pain points (General/all of VA?) What navigation problems that cause the biggest challenges or make it hardest for Veterans to accomplish their tasks?>***
---
 
-## Insight 1: Veterans need a seamless way to access health and disability benefits information, but conflating the two creates confusion and inefficiencies. 
+## Insight 2: Veterans need a seamless way to access health and disability benefits information, but conflating the two creates confusion and inefficiencies. 
 
 High-confidence  RQ2  (2020 \-2024)
 
@@ -180,17 +176,8 @@ Veterans struggle with redundancy and resubmitting documentation across platform
 
 *  "VA has all my stuff but they want me to resubmit it as new evidence. Have to download the info from VA, highlight what the doctor said on what day, and then submit it as new evidence... then schedule another appointment." (P9, Landing Page Gap Analysis, July 2024\)
 
---
-3. How do behaviors differ (or don’t) in the health space compared with the benefits space (health/ general all of VA)?**
-    * Do Veterans use My HealtheVet (health) differently than they use VA.gov for benefits? If so, how? If not, what’s the same?
---
 
---
-4. What do Veterans expect from an authenticated experience on VA.gov that includes benefits from a range of VA sub-agencies? (general/all of VA)**
-    * What do Veterans want or expect when they log in to VA.gov, especially when it comes to easily accessing benefits and services from different VA departments (like health care, education, or disability)?_
---
-
-## Insight 1: Veterans value personalization. They want an experience tailored to their current benefits, claims, and tasks.
+## Insight 3: Veterans value personalization. They want an experience tailored to their current benefits, claims, and tasks.
 
 High-confidence - RQ4
 
@@ -223,7 +210,7 @@ Veterans prefer a concise overview of urgent or actionable items on a landing pa
 
 Many participants expressed appreciation for the personalization of My VA. Those who favored the homepage valued its versatility and the range of actions it allowed. Meanwhile, users who preferred My VA highlighted its streamlined and personalized experience. Regardless of their preference, both groups acknowledged the benefits of My VA’s personalization (My VA 2 research, March 2021). 
 
-## Insight 2: Veterans expect that VA.gov can leverage information it already has about them to surface details about additional benefits that they’re likely to be eligible for.**
+## Insight 4: Veterans expect that VA.gov can leverage information it already has about them to surface details about additional benefits that they’re likely to be eligible for.**
 
 High-confidence  RQ4
 
@@ -270,7 +257,7 @@ In healthcare specifically, a social listening study identified a high negative 
 - “How do I know if my wife is covered healthcare wise? Do I need to start paying for Tricare? I’ve heard a lot about CHAMPVA - should we apply for that? I’m 100% P&T sorry for all the questions and a bit of a breakdown. It’s a lot and I”m pretty confused by all of it. I just want my loved ones taken care of.” (Social listening healthcare mental model, Sept 2024)
 - I just had my first appointment yesterday and the nurse looked stunned when I told her I had no other insurance. She explained that if I were in a car crash or something, it'd be unlikely that the VA would pay for the treatment I'd receive in the ER. (Social listening healthcare mental model, Sept 2024)
 
-## Insight 3: Veterans want to be notified about changes, updates, or new information - especially time-sensitive information. 
+## Insight 5: Veterans want to be notified about changes, updates, or new information - especially time-sensitive information. 
 
 High confidence - RQ4
 
@@ -323,7 +310,7 @@ Further research revealed,
 - All competitors highly personalize the page to clearly communicate information unique to the user. Personalized components (notification cards or sections with specific content) are almost always given primary hierarchy placement on the page, but some features are prioritized as secondary (i.e. notification badges that are less visually "loud" or prominent) (Landing page gap analysis, July 2024). 
 - When it comes to notifications and updates on the My VA webpage, Veterans expect to see them at the top of the page (VA Mobile research review: Personalized app homescreen, Nov 2021) 
 
-## Insight 4: Veterans want a central authenticated place that they see as a “jumping off point,” where they can return again and again to re-center themselves. 
+## Insight 6: Veterans want a central authenticated place that they see as a “jumping off point,” where they can return again and again to re-center themselves. 
 
 Medium confidence  RQ4
 
@@ -361,7 +348,7 @@ Veterans’ expectations about what this “central page” should look like are
 
 <img width="592" alt="Screenshot 2025-02-28 at 10 42 27 AM" src="https://github.com/user-attachments/assets/0e4dbbce-92e2-4661-99c9-8fbc46aeca93" />
 
-## Insight 5: Veterans have heightened information needs when they encounter major life transitions.
+## Insight 7: Veterans have heightened information needs when they encounter major life transitions.
 
 Medium confidence  RQ 4  Needs more research
 
@@ -451,10 +438,6 @@ Many Veterans struggle with navigation due to long pages and overwhelming conten
 *  Many never opened the VA Benefits and Health Care megamenu, missing navigation options that could have led them to key health and benefits information. *(Research Outline and Recommendations: VA.gov Auth Experience, April 2023\)*  
 *   "It is a lot of information, and it’s overwhelming." (*P11, Research Outline and Recommendations: VA.gov Auth Experience, April 2023\)*
 
---
-**5. What are the use cases where there’s overlap between health and other areas, where people might not find what they need in the health space? (Health/general all of VA)**
-    * When do Veterans’ needs for health-related tools or information cross over into other areas (like benefits or education), and where does this overlap cause confusion or make it hard for them to find what they need?
---    
 ## Insight 9: Veterans expect an intuitive way to access health-related financial tools, such as copays and travel reimbursements. Better alignment with their expectations will reduce confusion, minimize unnecessary navigation, and improve task efficiency.
 
 High-confidence  RQ5  (2020-2023)
@@ -498,11 +481,6 @@ Veterans expect a dedicated space for healthcare-related payments rather than mi
 * Many relied on homepage top tasks or My VA links but found them insufficient for locating specific financial tools. *(Research Outline and Recommendations: VA.gov Auth Experience, April 2023\)*  
 * Veterans struggled to determine where financial tools like copays and travel reimbursement belong within the VA system. *(P6, P8, Health Wayfinding Study, July 2023\)*  
 * Veterans frequently searched for broad financial terms alongside health-related terms, suggesting that the current structure does not align with their expectations. *(Logged-in Homepage Discovery, 2020\)*
-
- 
-
-    
-
 
 
 ## <a name="sources"></a>Sources cited <br>
