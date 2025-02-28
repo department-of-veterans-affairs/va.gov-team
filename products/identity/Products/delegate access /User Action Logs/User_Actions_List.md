@@ -1,5 +1,5 @@
-# User actions
-A pattern to write and scale event descriptions for user action records in the audit database. 
+# User actions: content guide
+A pattern to write and scale event types and event descriptions for user action records in the [audit database](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/delegate%20access%20#2-audit-database---immutable-logs-of-delegate-actions-for-compliance). 
 
 ## Overview
 - User action records include both an event type and event description.
@@ -49,11 +49,11 @@ User actions prioritized for the MVP
 |                 | Update direct deposit for tuition                      |
 |                 | Add direct deposit for travel pay reimbursement        |
 |                 | Update direct deposit for travel pay reimbursement     |
-| Documents       | Download Blue Button report                            |
-|                 | Download VA benefits letter                            |
-|                 | Download VA Health summary PDF                         |
-| Forms           | Submit VA Form 21-10210 Lay/Witness Statement          |
-|                 | Update VA Form 10-10EZ Application for Health Benefits |
+| Documents       | Download {{ Blue Button report }}                      |
+|                 | Download {{ VA benefits letter }}                      |
+|                 | Download {{ VA Health summary PDF }}                   |
+| Forms           | Submit {{ VA Form 21-10210 Lay/Witness Statement }}    |
+|                 | Update {{ VA Form 10-10EZ Application for Health Benefits |
 
 *Currently we only track identity verification if the user previously signed in with an unverified account.
 
@@ -63,10 +63,10 @@ Incorporate more data from Credential Service Providers (CSPs)
 
 |   Event type    |                   Event description                    |
 | :-------------- | :----------------------------------------------------- |
-| Sign-in         | Create account on {{ Login.gov }}                      |
-|                 | Verify identity on {{ Login.gov }}                     |
-|                 | Update password on {{ ID.me }}                         |
-|                 | Sign in on {{ ID.me }}                                 |
+| Sign-in         | Create account {{ on Login.gov }}                      |
+|                 | Verify identity {{ on Login.gov }}                     |
+|                 | Update password {{ on ID.me }}                         |
+|                 | Sign in {{ on ID.me }}                                 |
 |                 | Add multifactor authentication on {{ Login.gov }}      |
 
 Incorporate more actions from [My HealtheVet Activity History](https://www.myhealth.va.gov/account-activity-history-summary)
