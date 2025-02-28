@@ -20,7 +20,7 @@ Jump to:
 - [Executive Summary](#_apdyp4wpqh9c)
 - [Key Findings](#_2wc97arqmjr5)
   - [Feature specific feedback](#_bwnl2gfvtdgw)
-  - [Potential improvements](#_ev0zhcxc7l0t)
+  - [Potential improvements](## 5\. Potential improvements)
 - [Recommendations](#_ryt761xsrpq1)
 - [Future Questions](#_tgz7l9mfced2)
 - [Appendix](#_5ux8m5wemo7a)
