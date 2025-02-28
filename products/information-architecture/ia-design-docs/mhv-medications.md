@@ -29,10 +29,6 @@
 
 ## <a name="url"></a>URLs and breadcrumbs
 
-The launch of medications to Phase 1 will coincide with all tools that are in Phase 1+ being integrated onto VA.gov (discoverable and linkable from other My HealtheVet tools). 
-* [Full integration breadcrumb plan](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713558793852/31aadcbae7070a6f0f4cfea4f63e568721f1480d?sender=uf94a77a19aaf687331c09367)
-* [My HealtheVet sitemap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713450017254/6daf1f320cba1054fdfd840e4a7c881dda87120c), showing current + future (integration) state
-
 ~**1)About medications (forced entry point/landing page)**~ REMOVED
 - ~URL: www.va.gov/my-health/medications/about~
 - ~Breadcrumb:~ 
