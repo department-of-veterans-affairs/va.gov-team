@@ -40,7 +40,7 @@
       5. You should now be logged into ArgoCD
 
 ## How to use ArgoCD with rails console
-1. Follow the instructions [here]() to log into ArgoCD
+1. Follow the instructions [here](https://vagov.ddog-gov.com/account/login?next=%2Fdashboard%2Fu27-88d-58v%3Frefresh_mode%3Dsliding%26from_ts%3D1707240076862%26to_ts%3D1707243676862%26live%3Dtrue) to log into ArgoCD
 2. Search for the project that you want to view (EX: vets-api-staging)
 3. Selected a pod (the green checkmark square) with `vets-api-web` and select `Exec`
 4. A terminal will popup in a new window, Type `bundle exec rails c --sandbox` in the terminal
