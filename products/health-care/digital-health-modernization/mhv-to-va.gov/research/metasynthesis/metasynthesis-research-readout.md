@@ -261,21 +261,43 @@ Further research revealed,
 - All competitors highly personalize the page to clearly communicate information unique to the user. Personalized components (notification cards or sections with specific content) are almost always given primary hierarchy placement on the page, but some features are prioritized as secondary (i.e. notification badges that are less visually "loud" or prominent) (Landing page gap analysis, July 2024). 
 - When it comes to notifications and updates on the My VA webpage, Veterans expect to see them at the top of the page (VA Mobile research review: Personalized app homescreen, Nov 2021) 
 
+## Insight 4: Veterans want a central authenticated place that they see as a “jumping off point,” where they can return again and again to re-center themselves. 
+
+Medium confidence  RQ4
+
+Studies that support this insight:
+
+* Authenticated user generative research, 2020  
+* VA.gov home page user research, 2023  
+* Generative research on Transitioning Service Members, 2024  
+* Logged-in Homepage Redesign: Comparative Analysis  
+* [My HealtheVet landing page gap analysis, July 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/gap-analysis-2024.md)
+
+Methods:
+
+* Generative research  
+* Comparative analysis
+
+Details:
+
+A study from 2020 interviewed 10 Veterans and determined key needs for an authenticated experience that we are still not quite delivering today (Logged-in homepage user research, 2020\)
+
+1. We should focus the logged-in homepage on helping Veterans complete tasks as directly as possible (not linking them through multiple content pages to get to where they want to go).  
+2. We should minimize content on the logged-in homepage that is not specific to the user.
+
+We still see these same needs articulated in studies as recent as 2024\. While My VA has gone through several iterations, Veteran feedback and competitive analysis both suggest that users expect curated dashboard pages that are highly conditional, showing the Veteran only the most actionable information that is relevant to them in one central place, where they can return over and over again to understand timely updates, view in-progress tasks, and easily navigate to authenticated pages where they can manage their health and benefits.  
+
+* "Veterans want a page that is focused on current information specific to them, rather than generalized information for all Veterans." (VA.gov home page user research, 2023\)  
+* Veterans would like to see us surface benefit recommendations alongside existing benefit management in a single place. (Generative research on Transitioning Service Members, 2024\)  
+* When Veterans were asked to design their own home page, they created pages that gave them access to most important tasks in one place, guided them to benefits information and recommendations, minimized content not specific to them, and provided them with important updates. (Logged-in homepage research, 2020\)
+
+Veterans’ expectations about what this “central page” should look like are impacted by their broader experiences on other websites and authenticated portals, where Veterans regularly engage with features “make them feel known” and are more relevant to them than what we offer on VA.gov. These pages are also easier to find in portals outside of VA.gov, where the purpose of the site is more straightforward and isn’t balancing multiple benefit types in one place. In general, Veterans seem to understand that this “central page” would not reflect *all* of their information, and that they may need to go off to another page to get fuller information or details.
+
+* Veterans are looking for a personal summary with clear calls to action and an “at-a-glance” understanding of the status of each item that needs their attention so that they can quickly identify statuses and top tasks that should be completed. ([My VA Redesign research findings, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md))  
+* Almost every site we looked at (Delta and Google being exceptions) predominantly display content related only to the user upon logging in. The sites typically included very little, if any, generic marketing or promotional content in the main body upon login. (Logged-in Homepage Redesign: Comparative Analysis, 2020\)  
+* The Cartography team took on a gap analysis research effort in 2024 that identified significant differences in the information architecture approach and level of personalization on the My HealtheVet landing page compared to common authenticated portals on major financial, travel, and health websites ([Gap analysis research on the My HealtheVet on VA.gov homepage, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/gap-analysis-2024.md)) 
 
 
-Transparency in claim status updates are critical, with Veterans requesting clear timestamps, pending status indicators, and proactive notifications (VA Mobile App Prototype Testing and Co-Design Research, 2020) 
-Veterans value a system that allows them to manage their claims and documents to the best of their ability. This management includes timely notifications, shortcuts to streamline frequent tasks, and secure messaging to receive answers on demand (Review of related user research: Mobile app personalization, July 2023). 
-
-
-Veterans' mental model around notifications is shaped by their online experiences.
-A comparative analysis reviewing 26 apps across industries found notifications in 16 of the apps reviewed. 
-Notifications were present in half of the apps, but overwhelmingly they were not included on the home screen (Mobile comparative analysis: Personalized and contextual home screen content, July 2023) 
-Further research revealed,  
-All competitors use badge indicators and/or card-style notifications to draw the user's attention to new, unread, or time-sensitive information (Landing page gap analysis, July 2024)
-
-All competitors highly personalize the page to clearly communicate information unique to the user. Personalized components (notification cards or sections with specific content) are almost always given primary hierarchy placement on the page, but some features are prioritized as secondary (i.e. notification badges that are less visually "loud" or prominent) (Landing page gap analysis, July 2024). 
-
-When it comes to notifications and updates on the My VA webpage, Veterans expect to see them at the top of the page (VA Mobile research review: Personalized app homescreen, Nov 2021) 
 
     
 **5. What are the use cases where there’s overlap between health and other areas, where people might not find what they need in the health space? (Health/general all of VA)**
