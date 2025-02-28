@@ -50,7 +50,7 @@ We quickly realized the need to measure the relative evidence for each insight, 
 ## <a name="insights"></a>Insights <br>
 
 ***1. What are the most consistent health-related navigational pain points (health specific)?***
-    * What are the common issues or frustrations Veterans face when trying to find or use health-related tools and information on MHV?
+**What are the common issues or frustrations Veterans face when trying to find or use health-related tools and information on MHV?**
 
 **How are people moving within the portal?**
 
