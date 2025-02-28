@@ -48,10 +48,10 @@ We quickly realized the need to measure the relative evidence for each insight, 
 * 45-60points: **high confidence** in evidence
 
 ## <a name="insights"></a>Insights <br>
-
+--
 ***1. What are the most consistent health-related navigational pain points (health specific)?***
 **What are the common issues or frustrations Veterans face when trying to find or use health-related tools and information on MHV?**
-
+--
 **How are people moving within the portal?**
 
 In Jan: had 1.1M in portal
@@ -114,12 +114,12 @@ Lower numbers of users are clicking on health-periphery task. We don't know if t
 - whether people aren't finding them or noticing them
 - if people simply do them elsewhere (BTSSS; pay.gov; paper/ in-person)
 - that not everyone connects those concepts in their mental models (some evidence to this in UXRs)
-
+--
 ***2. What are the highest impact navigation-related pain points (General/all of VA?) What navigation problems that cause the biggest challenges or make it hardest for Veterans to accomplish their tasks?***
-
+--
 ## Insight 7: Veterans need a seamless way to access health and disability benefits information, but conflating the two creates confusion and inefficiencies. 
 
-## **High-confidence  RQ2**  (2020 \-2024)
+High-confidence  RQ2  (2020 \-2024)
 
 **Studies that support this insight:**
 
@@ -389,11 +389,111 @@ Once Veterans have “started up” and move on to “putting down roots” or �
 * In a social listening study conducted by the 10-10 health applications team, 3 of 11 reddit posts cited getting a new job or having a change in income that meant they no longer met the income limits to qualify for VA health care.A common concern was that giving VHA information about their employer health insurance plan would remove their eligibility to VA healthcare. (Social listening healthcare mental model, Sept 2024).  
   * “I just got a new job last year and I’m making more. It’s over the income limit. It doesn’t say I’d get kicked out \[of VA medical benefits\] tho. The providers I’m currently seeing are great and I’d rather not have to look for a new one.”   
   * “I am waiting on approval for a \[...\] claim that should put me at 10% \[service-connected disability rating\]. Will I be eligible for VA care at that point or will my income level continue to prevent me from utiliz\[ing\] VA healthcare services?”    
+
+## Insight 8: Veterans need a well-structured and intuitive navigation  that aligns with their expectations, allowing them to efficiently locate, understand, and manage their health and benefits information without unnecessary steps or confusion.   
+
+High-confidence  RQ4  (2020-2023)
+
+**Studies that support this insight:**
+
+* My VA & logged-in home page research, 2020  
+* Digital Health Modernization Generative Research Study, September 2021  
+* Health apartment tree test, Nov 2021  
+* Health Apt Tree Test \- Health Hub, Health Apt, Deeper Nav, Dec 2022  
+* My Health IA tree-test, January 2023  
+* Research Outline and Recommendations: VA.gov Auth Experience, April 2023  
+* MHV on VA.gov Round 2 Initial Prototype \- Usability Research/POC \- mobile users, May 2024
+
+**Methods:**
+
+* Usability Study  
+* Generative Research  
+* Tree Test
+
+**Summary:**   
+Veterans often struggle with knowing where to start when looking for health and benefits information on VA.gov. Inconsistent categorization and fragmented navigation lead them to rely on search, external resources, or redundant pathways rather than direct entry points. Many Veterans attempt to locate tasks based on assumptions about where information should be but encounter unexpected placements and deep navigation structures making it difficult to complete tasks efficiently. Without clear and intuitive entry points, Veterans face unnecessary trial and error, frustration, and delays in accessing critical resources and information.
+
+Veterans struggled to determine where tasks related to benefits and health should reside.
+
+*  “I think I would go to Benefits and Health Care... then I would click on Health Care... and then I would go over to Manage Your Health.” *(P16, Tree Test of the Health Apartment IA)*  
+* Some users expected their VA health summary to be useful but struggled to find it under Records \> VA Health Summary. *(Tree Test of the Health Apartment IA)*  
+*  Some Veterans initially looked under eligibility when searching for health care information, indicating confusion about where management tasks should reside. *(Tree Test of the Health Apartment IA)*
+
+Veterans rely on external resources and redundant tools when they can’t find what they need.
+
+* Veterans often relied on Help and Resources \> Help Pages, FAQs, User Guides or Contact Us instead of direct pathways, indicating uncertainty. *(Tree Test of the Health Apartment IA)*  
+* "VA.gov, My HealtheVet, eBenefits, military.com—there are too many websites that you can go to, and it can get confusing." *(P4, MHV on VA.gov Round 2 Initial Prototype Usability Research/POC – Mobile Users, May 2024\)*  
+*  "I already go to eBenefits for my disability rating, so I assume that’s where my VA health care benefits are too." *(P7, Digital Health Modernization Generative Research Study, Sept 2021\)*
+
+ Search behavior indicates confusion on where to start.
+
+*  Logged-in Homepage Discovery data shows that "Benefits" **(\~150K searches)** and "Health" **(\~59K searches)** were among the most searched terms, suggesting that Veterans frequently search for them together rather than knowing where to locate information directly. *(Logged-in Homepage Discovery)*  
+*  High success with low directness: Participants completed tasks but took inefficient paths, indicating that task locations did not match their expectations. *(My Health IA Tree Test, January 2023\)*
+
+   
+Veterans struggle to find key health and benefits information, as the site structure does not align with their expectations for where tasks should be completed.
+
+* Veterans had difficulty locating information on dental care, mental health services, and community care due to their deep placement in the IA. *(Health Apt Tree Test \- Health Hub, Health Apt, Deeper Nav, Dec 2022\)*  
+* Veterans struggled with nested structures—findability improved when keywords were placed higher in the IA. *(Health Apt Tree Test \- Health Hub, Health Apt, Deeper Nav, Dec 2022\)*  
+*  P9: "What if I need to do something that is not here? What would I do then?" Finding anything is really challenging on VA.gov. *(Logged-in Homepage Research, May 2020*)  
+* P14 initially looked under Disability when seeking letters, indicating a misalignment in where Veterans expect information to be housed. *(Logged-in Homepage Research, May 2020\)*  
+* "Track disability claim would go under 'My info.' Upload claim or appeal under 'My info.' All of that is stuff you’d do pertaining strictly to you." *(P9, Logged-in Homepage Research, May 2020\)*
+
+Many Veterans struggle with navigation due to long pages and overwhelming content.
+
+* Almost half of participants reported difficulty finding needed information, especially if it wasn’t in the "top 4" boxes on the homepage. *(Research Outline and Recommendations: VA.gov Auth Experience, April 2023\)*  
+*  Many never opened the VA Benefits and Health Care megamenu, missing navigation options that could have led them to key health and benefits information. *(Research Outline and Recommendations: VA.gov Auth Experience, April 2023\)*  
+*   "It is a lot of information, and it’s overwhelming." (*P11, Research Outline and Recommendations: VA.gov Auth Experience, April 2023\)*
+
+--
 **5. What are the use cases where there’s overlap between health and other areas, where people might not find what they need in the health space? (Health/general all of VA)**
     * When do Veterans’ needs for health-related tools or information cross over into other areas (like benefits or education), and where does this overlap cause confusion or make it hard for them to find what they need?
-    
+--    
+## Insight 9: Veterans expect an intuitive way to access health-related financial tools, such as copays and travel reimbursements. Better alignment with their expectations will reduce confusion, minimize unnecessary navigation, and improve task efficiency.
 
+High-confidence  RQ5  (2020-2023)
 
+**Studies that support this insight:**
+
+* My VA & logged-in home page research, 2020  
+* Logged-in Homepage Discovery, 2020  
+* [VA Mobile app prototype testing and co-design research, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/mobile-app-MVP/2020-06-prototype-testing/testing-summary.md#claims-features-are-highly-useful-checking-a-claims-status-and-direct-access-to-claims-support-through-an-app-are-highly-useful)  
+* Digital Health Modernization Generative Research Study, Sept 2021  
+* VA Mobile App: IA and Navigation Evaluative Research, Sept 2022  
+* Research Outline and Recommendations: VA.gov Auth Experience, April 2023  
+* Health Wayfinding Study, July 2023
+
+**Methods:**
+
+* Usability Study  
+* Discovery Research  
+* Usability Study  
+* Generative Research
+
+Across multiple studies, Veterans experienced confusion and inefficiencies when searching for health-related financial tools like copays, travel reimbursements, and medical billing. Many expected these tools to be within health-related sections rather than grouped under broader financial management categories like "Manage Your VA Debt." This misalignment with Veterans’ expectations led to unnecessary navigation loops, reliance on multiple platforms, and difficulty completing tasks efficiently, ultimately causing frustration and delays in accessing essential financial resources.
+
+Veterans frequently bounced between My VA, MHV, and VA.gov while searching for copays and travel pay reimbursements, unsure where to start.
+
+* "It’d be great if I didn’t have to leave MHV to go to travel pay or other healthcare tools.” *(P16, P23,* VA [Mobile app prototype testing and co-design research, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/mobile-app-MVP/2020-06-prototype-testing/testing-summary.md#claims-features-are-highly-useful-checking-a-claims-status-and-direct-access-to-claims-support-through-an-app-are-highly-useful)*)*  
+* P6, P18: Veterans bounced between My VA, MHV, and VA.gov while trying to locate travel pay reimbursement and copay information, unsure where these tools should reside. *(Digital Health Modernization Generative Research Study, Sept 2021\)*
+
+ This pattern of inefficiency extends to expectations for where health-related payments should live:
+
+* Veterans did not expect to find copays under "Manage Your VA Debt," assuming instead that these tools would be housed within health sections. *(P16, P23, Health Wayfinding Study, July 2023\)*  
+* "This is a bad place…this is not clear. If I’m looking for something that’s related just to health care, I want it under health care. Logically I would never think to go to My VA.” *(P16, Health Wayfinding Study, July 2023\)*
+
+Veterans expect a dedicated space for healthcare-related payments rather than mixing them with general financial obligations.
+
+* 4 out of 9 Veterans in card sorting exercises created a separate "Payments" section, indicating a strong mental model for keeping financial tools in one place. *(VA Mobile App: IA and Navigation Evaluative Research, Sept 2022\)*  
+* "Everything to do with money I'd like to keep in one place." *(P14, VA Mobile App: IA and Navigation Evaluative Research, Sept 2022\)*
+
+ Navigation inefficiencies were further confirmed through usability testing:
+
+* Many relied on homepage top tasks or My VA links but found them insufficient for locating specific financial tools. *(Research Outline and Recommendations: VA.gov Auth Experience, April 2023\)*  
+* Veterans struggled to determine where financial tools like copays and travel reimbursement belong within the VA system. *(P6, P8, Health Wayfinding Study, July 2023\)*  
+* Veterans frequently searched for broad financial terms alongside health-related terms, suggesting that the current structure does not align with their expectations. *(Logged-in Homepage Discovery, 2020\)*
+
+ 
 
     
 
