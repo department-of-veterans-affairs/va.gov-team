@@ -125,7 +125,7 @@ Lower numbers of users are clicking on health-periphery task. We don't know if t
 _**4. What do Veterans expect from an authenticated experience on VA.gov that includes benefits from a range of VA sub-agencies? (general/all of VA)**
     * What do Veterans want or expect when they log in to VA.gov, especially when it comes to easily accessing benefits and services from different VA departments (like health care, education, or disability)?_
 
-### Insight 1: Veterans value personalization. They want an experience tailored to their current benefits, claims, and tasks.
+## Insight 1: Veterans value personalization. They want an experience tailored to their current benefits, claims, and tasks.
 
 High-confidence - RQ4
 
@@ -157,9 +157,8 @@ Veterans had positive reactions to seeing My VA immediately upon login because i
 Veterans prefer a concise overview of urgent or actionable items on a landing page...(My VA redesign research findings, Dec 2020). 
 
 Many participants expressed appreciation for the personalization of My VA. Those who favored the homepage valued its versatility and the range of actions it allowed. Meanwhile, users who preferred My VA highlighted its streamlined and personalized experience. Regardless of their preference, both groups acknowledged the benefits of My VA’s personalization (My VA 2 research, March 2021). 
-____
 
-### Insight 2: Veterans expect that VA.gov can leverage information it already has about them to surface details about additional benefits that they’re likely to be eligible for.**
+## Insight 2: Veterans expect that VA.gov can leverage information it already has about them to surface details about additional benefits that they’re likely to be eligible for.**
 
 High-confidence  RQ4
 
@@ -206,9 +205,7 @@ In healthcare specifically, a social listening study identified a high negative 
 - “How do I know if my wife is covered healthcare wise? Do I need to start paying for Tricare? I’ve heard a lot about CHAMPVA - should we apply for that? I’m 100% P&T sorry for all the questions and a bit of a breakdown. It’s a lot and I”m pretty confused by all of it. I just want my loved ones taken care of.” (Social listening healthcare mental model, Sept 2024)
 - I just had my first appointment yesterday and the nurse looked stunned when I told her I had no other insurance. She explained that if I were in a car crash or something, it'd be unlikely that the VA would pay for the treatment I'd receive in the ER. (Social listening healthcare mental model, Sept 2024)
 
----
-
-### Insight 3: Veterans want to be notified about changes, updates, or new information - especially time-sensitive information. 
+## Insight 3: Veterans want to be notified about changes, updates, or new information - especially time-sensitive information. 
 
 High confidence - RQ4
 
