@@ -99,7 +99,7 @@ We can distinguish support channels by:
 |VA chatbot|Synchronous|You can ask general questions about some VA benefits and services.|You communicate with a bot and receive a link to information on VA.gov in real-time.|
 |Phone calls|Synchronous|Depending on which phone number you call, you can ask about a range of VA related topics.|You communicate with a person and receive help in real-time.|
 
-### Ask VA is more similar to other asynchronous channels
+### Ask VA is similar to other asynchronous channels
 
 > These include:
 > - MHV secure messaging
@@ -117,7 +117,7 @@ With all 3 of these support channels:
 - you don't know who you're communicating with when you fill out the form
 - you can ask a question without signing in
 
-#### Ask VA is less similar to MHV secure messaging
+#### Ask VA is least similar to MHV secure messaging
 
 Because with secure messaging:
 - you're required to sign in and you need to be eligible to use it
@@ -130,10 +130,19 @@ Because with secure messaging:
 > - VA chatbot
 > - Phone calls
 
-Because Ask VA involves asynchronous communication, it's fairly differnt to VA chatbot or phone calls which deliver support in real-time.
+Because Ask VA involves asynchronous communication, it's fairly different to VA chatbot or phone calls which deliver support in real-time.
 
-However, if Ask VA becomes more like a [Type 3 support experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#ask-va-could-be-more-similar-to-type-3), then it could be come more similar to VA chatbot. This could bring up questions about overlap.
+However, if Ask VA becomes more like a [Type 3 support experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#ask-va-could-be-more-similar-to-type-3), then it will become more similar to VA chatbot.
 
-### There are little to no seams designed between Ask VA and other support channels
+### Seams and overlap
 
-Text
+There are currently little to no seams designed between Ask VA and other support channels.
+
+These seams exist:
+- Ask VA suggests using VA chatbot if you have a general question in order to get help more quickly
+- VA chatbot suggests using Ask VA if you can't get help through chatbot
+
+But we could design more seams, like:
+- Ask VA could link to MHV secure messaging when a question is for a VA health care team
+- MHV secure messaging could link to Ask VA for other questions that are not for your VA health care team
+- VA chatbot could link to Ask VA
