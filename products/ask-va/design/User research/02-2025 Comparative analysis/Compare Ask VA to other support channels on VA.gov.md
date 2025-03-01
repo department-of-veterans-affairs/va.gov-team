@@ -101,4 +101,14 @@ We can distinguish support channels by:
 
 Ask VA is most similar to other asynchronous channels. In comparison to these, Ask VA:
 - has the longest reply window
-- is the least specific, in other words, can help with the widest range of topics
+- is the least specific, in other words, provides support for the widest range of topics
+
+Ask VA is most similar to MHV contact form and VET-HOME Inquiry. For all 3 of these support channels:
+- you fill out a form and submit it
+- you don't know who you're communicating with when you fill out the form
+- you can ask a question without signing in
+
+Ask VA is different to MHV secure messaging, because with secure messaging:
+- you're required to sign in and you need to be eligible to use it
+- you know which health care team you're sending a message to
+- it mimics the experience of email, where you can save drafts, delete messages, etc.
