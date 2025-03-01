@@ -101,6 +101,11 @@ We can distinguish support channels by:
 
 ### Ask VA is more similar to other asynchronous channels
 
+> These include:
+> - MHV secure messaging
+> - MHV contact form
+> - VET-HOME Inquiry
+
 In comparison to other asynchronous channels, Ask VA:
 - has the longest reply window
 - is the least specific, in other words, provides support for the widest range of topics
@@ -120,6 +125,10 @@ Because with secure messaging:
 - it mimics the experience of email, where you can save drafts, delete messages, etc.
 
 ### Ask VA is different to synchronous channels
+
+> These include:
+> - VA chatbot
+> - Phone calls
 
 Because Ask VA involves asynchronous communication, it's fairly differnt to VA chatbot or phone calls which deliver support in real-time.
 
