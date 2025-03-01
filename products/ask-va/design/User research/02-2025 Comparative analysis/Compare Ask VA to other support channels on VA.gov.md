@@ -94,7 +94,7 @@ We can distinguish support channels by:
 |:--|:--|:--|:--|
 |Ask VA|Asynchronous|You can ask about education, disability compensation, health care and many other topics.|You submit a question and receive a reply within 10 business days.|
 |MHV secure messaging|Asynchronous|You can communicate securely with your VA health care team.|You send a message and receive a reply within 3 business days.|
-|MHV contact form|Asynchronous|You can ask about or communicate issues with the My HealtheVet website.|You submit a question or issue and receive a reply within 3 business days.|
+|MHV contact form|Asynchronous|You can ask questions or log issues related to the My HealtheVet website.|You submit a question or issue and receive a reply within 3 business days.|
 |VET-HOME Inquiry|Asynchronous|You can schedule an environmental health registry evaluation or ask about environmental exposure related issues.|You schedule an evaulation or submit a question and receive a reply within 5 business days.|
 |VA chatbot|Synchronous|You can ask general questions about some VA benefits and services.|You communicate with a bot and receive a link to information on VA.gov in real-time.|
 |Phone calls|Synchronous|Depending on which phone number you call, you can ask about a range of VA related issues.|You communicate with a person and receive help in real-time.|
