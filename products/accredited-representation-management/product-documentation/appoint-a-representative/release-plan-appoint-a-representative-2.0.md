@@ -26,8 +26,7 @@ This feature toggle is setup for authenticated users and we can also enable earl
 #### Technical Preparation
 The following will take place right before Staged Rollout:
 - [ ] Enable digital submissions for Connecticut Department of Veterans Affairs in Production [#101542](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101542)
-- [ ] Enable digital submission email confirmation in VA Notify Production [#101050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101050)
-- [ ] Enable expiration email notifications in VA Notify Production [#100841](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100841)
+- [ ] Enable Appoint v2 email notifications in VA Notify Production [#101050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101050)
 - [ ] Email notification for POA acceptance is ready in Production (Confirm with Lighthouse)
 
 #### Rollout date: March 11, 2025
