@@ -99,16 +99,32 @@ We can distinguish support channels by:
 |VA chatbot|Synchronous|You can ask general questions about some VA benefits and services.|You communicate with a bot and receive a link to information on VA.gov in real-time.|
 |Phone calls|Synchronous|Depending on which phone number you call, you can ask about a range of VA related topics.|You communicate with a person and receive help in real-time.|
 
-Ask VA is most similar to other asynchronous channels. In comparison to these, Ask VA:
+### Ask VA is more similar to other asynchronous channels
+
+In comparison to other asynchronous channels, Ask VA:
 - has the longest reply window
 - is the least specific, in other words, provides support for the widest range of topics
 
-Ask VA is most similar to MHV contact form and VET-HOME Inquiry. For all 3 of these support channels:
+#### Ask VA is most similar to MHV contact form and VET-HOME Inquiry
+
+With all 3 of these support channels:
 - you fill out a form and submit it
 - you don't know who you're communicating with when you fill out the form
 - you can ask a question without signing in
 
-Ask VA is different to MHV secure messaging, because with secure messaging:
+#### Ask VA is less similar to MHV secure messaging
+
+Because with secure messaging:
 - you're required to sign in and you need to be eligible to use it
 - you know which health care team you're sending a message to
 - it mimics the experience of email, where you can save drafts, delete messages, etc.
+
+### Ask VA is different to synchronous channels
+
+Because Ask VA involves asynchronous communication, it's fairly differnt to VA chatbot or phone calls which deliver support in real-time.
+
+However, if Ask VA becomes more like a [Type 3 support experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#ask-va-could-be-more-similar-to-type-3), then it could be come more similar to VA chatbot. This could bring up questions about overlap.
+
+### There are little to no seams designed between Ask VA and other support channels
+
+Text
