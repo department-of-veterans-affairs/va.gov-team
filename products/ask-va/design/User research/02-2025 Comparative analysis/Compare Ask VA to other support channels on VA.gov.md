@@ -136,9 +136,9 @@ Because Ask VA involves asynchronous communication, it's fairly different to VA 
 
 Having multiple asynchronous support channels for different purposes is not inherently a bad or confusing thing.
 
-But, there are currently little to no seams designed between Ask VA and other support channels. This makes it difficult for people to understand and distinguish between support channels. This means people may use the wrong tool for their situation or preferences.
+But, there are currently little to no seams designed between Ask VA and other support channels. This makes it difficult for people to understand and distinguish between support channels. And means people may use the wrong tool for their situation or preferences.
 
-These seams do exist:
+These seams currently exist:
 - Ask VA suggests using VA chatbot if you have a general question in order to get help more quickly
 - VA chatbot suggests using Ask VA if you can't get help through chatbot
 
@@ -150,7 +150,7 @@ But we could design more seams, like:
 - Ask VA could link to VET-HOME Inquiry when a question is related to environmental exposures
 - VET-HOME Inquiry could link to Ask VA for other questions that are not related to environmental exposures
 
-If Ask VA becomes more like a [Type 3 support experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#ask-va-could-be-more-similar-to-type-3), then we should be intentional about the overlap between these tools. This could be designed in different ways:
+And if Ask VA becomes more like a [Type 3 support experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#ask-va-could-be-more-similar-to-type-3), then we should be intentional about the overlap between Ask VA and VA chatbot. There are different ways this overlap could be designed or managed, for example:
 - You could start your question using VA chatbot, and if you don't receive help through the links provided, the chatbot could send you to Ask VA to submit a form
-- You could start your question using VA chatbot, and if you don't receive help through the links provided, the chatbot could continue asking questions 
-- 
+- You could start your question using VA chatbot, and if you don't receive help through the links provided, the chatbot could continue asking questions
+- Or, Ask VA could learn from VA chatbot's model for surfacing information based on a question text and the Ask VA experience could remain more like a form or wizard
