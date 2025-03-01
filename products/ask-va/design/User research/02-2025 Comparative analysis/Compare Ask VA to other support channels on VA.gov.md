@@ -92,11 +92,13 @@ We can distinguish support channels by:
 
 |Channel|When|What|How|
 |:--|:--|:--|:--|
-|Ask VA|Asynchronous|You can ask about education, disability compensation, health care and many other VA related topics.|You submit a question and receive a reply within 10 business days.|
+|Ask VA|Asynchronous|You can ask about education, disability compensation, health care and many other VA related topics.|You submit a question or document and receive a reply within 10 business days.|
 |MHV secure messaging|Asynchronous|You can communicate securely with your VA health care team.|You send a message and receive a reply within 3 business days.|
 |MHV contact form|Asynchronous|You can ask questions or log issues related to the My HealtheVet website.|You submit a question or issue and receive a reply within 3 business days.|
-|VET-HOME Inquiry|Asynchronous|You can schedule an environmental health registry evaluation or ask about environmental exposure related issues.|You schedule an evaulation or submit a question and receive a reply within 5 business days.|
+|VET-HOME Inquiry|Asynchronous|You can schedule an environmental health registry evaluation or ask about environmental exposure related issues.|You schedule an evaluation or submit a question and receive a reply within 5 business days.|
 |VA chatbot|Synchronous|You can ask general questions about some VA benefits and services.|You communicate with a bot and receive a link to information on VA.gov in real-time.|
 |Phone calls|Synchronous|Depending on which phone number you call, you can ask about a range of VA related topics.|You communicate with a person and receive help in real-time.|
 
-*Synchronous support involves real-time communication. Asynchronous support refers to communication that happens over a period of time, through back-and-forth.
+Ask VA is most similar to other asynchronous channels. In comparison to these, Ask VA:
+- has the longest reply window
+- is the least specific, in other words, can help with the widest range of topics
