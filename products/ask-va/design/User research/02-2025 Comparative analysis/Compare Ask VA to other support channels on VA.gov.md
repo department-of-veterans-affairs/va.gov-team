@@ -136,9 +136,9 @@ However, if Ask VA becomes more like a [Type 3 support experience](https://githu
 
 ### Designing seams
 
-There are currently little to no seams designed between Ask VA and other support channels.
+There are currently little to no seams designed between Ask VA and other support channels. This makes it difficult for people to understand and distinguish between support channels. This means people may use the wrong tool for their situation or preferences.
 
-These seams exist:
+These seams do exist:
 - Ask VA suggests using VA chatbot if you have a general question in order to get help more quickly
 - VA chatbot suggests using Ask VA if you can't get help through chatbot
 
