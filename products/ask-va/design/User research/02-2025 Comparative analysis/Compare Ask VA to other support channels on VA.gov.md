@@ -130,13 +130,13 @@ Because with secure messaging:
 > - VA chatbot
 > - Phone calls
 
-Because Ask VA involves asynchronous communication, it's fairly different to VA chatbot or phone calls which deliver support in real-time.
-
-However, if Ask VA becomes more like a [Type 3 support experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#ask-va-could-be-more-similar-to-type-3), then it will become more similar to VA chatbot.
+Because Ask VA involves asynchronous communication, it's fairly different to VA chatbot or phone calls which deliver support in real-time. But, if Ask VA becomes more like a [Type 3 support experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#ask-va-could-be-more-similar-to-type-3), then it will become more similar to VA chatbot.
 
 ### Designing seams
 
-There are currently little to no seams designed between Ask VA and other support channels. This makes it difficult for people to understand and distinguish between support channels. This means people may use the wrong tool for their situation or preferences.
+Having multiple asynchronous support channels for different purposes is not inherently a bad or confusing thing.
+
+But, there are currently little to no seams designed between Ask VA and other support channels. This makes it difficult for people to understand and distinguish between support channels. This means people may use the wrong tool for their situation or preferences.
 
 These seams do exist:
 - Ask VA suggests using VA chatbot if you have a general question in order to get help more quickly
@@ -145,4 +145,12 @@ These seams do exist:
 But we could design more seams, like:
 - Ask VA could link to MHV secure messaging when a question is for a VA health care team
 - MHV secure messaging could link to Ask VA for other questions that are not for your VA health care team
-- VA chatbot could link to Ask VA
+- Ask VA could link to MHV contact form when a question is related to the My HealtheVet website
+- MHV contact form could link to Ask VA for other questions that are not related to the My HealtheVet website
+- Ask VA could link to VET-HOME Inquiry when a question is related to environmental exposures
+- VET-HOME Inquiry could link to Ask VA for other questions that are not related to environmental exposures
+
+If Ask VA becomes more like a [Type 3 support experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#ask-va-could-be-more-similar-to-type-3), then we should be intentional about the overlap between these tools. This could be designed in different ways:
+- You could start your question using VA chatbot, and if you don't receive help through the links provided, the chatbot could send you to Ask VA to submit a form
+- You could start your question using VA chatbot, and if you don't receive help through the links provided, the chatbot could continue asking questions 
+- 
