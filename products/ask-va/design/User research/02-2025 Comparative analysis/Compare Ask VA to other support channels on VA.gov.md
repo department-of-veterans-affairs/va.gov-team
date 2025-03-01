@@ -134,7 +134,7 @@ Because Ask VA involves asynchronous communication, it's fairly different to VA 
 
 However, if Ask VA becomes more like a [Type 3 support experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#ask-va-could-be-more-similar-to-type-3), then it will become more similar to VA chatbot.
 
-### Seams and overlap
+### Designing seams
 
 There are currently little to no seams designed between Ask VA and other support channels.
 
