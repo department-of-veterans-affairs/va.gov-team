@@ -109,7 +109,7 @@ Demographic must-haves
 
 - We are looking for a heterogenous group of participants demographically reflective of those who use the form day-to-day.
 
-We would like to meet with Perigean for a kick off during any of these dates/ times below or using a method of their choosing for scheduling.  
+We would like to meet with Perigean for a kick off during any of these dates/ times below or flexible based on their needs.  
 
 - 3/5 3-4pm ET
 - 3/6 11am-1pm ET
