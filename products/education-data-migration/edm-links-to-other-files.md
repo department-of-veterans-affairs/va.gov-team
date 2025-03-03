@@ -56,13 +56,13 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 </details>
 
 ### Design Intent Feedback
-- [Design Intent - IA Feedback - Education Data Migration, WEAMS Public #98839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98839#event-15607359715) 
-- [Design Intent - Accessibility Feedback - Education Data Migration, WEAMS Public #98857](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98857#event-15611083835)
+- [Design Intent - IA Feedback - Education Data Migration, WEAMS Public #98839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98839#event-15607359715) - replied to all feedback Feb 2025
+- [Design Intent - Accessibility Feedback - Education Data Migration, WEAMS Public #98857](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98857#event-15611083835) - replied to all feedback Feb 2025
 
 ### Midpoint Review Feedback
-- [Midpoint Review - Design Feedback - Education Data Migration, WEAMS Public #101444](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101444#event-16030284079)
-- [Midpoint Review - IA Feedback - Education Data Migration, WEAMS Public #101584](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101584#event-16035612020)
-- [Midpoint Review - Accessibility Feedback - Education Data Migration, WEAMS Public #101873](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101873#event-16084759168)
+- [Midpoint Review - Design Feedback - Education Data Migration, WEAMS Public #101444](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101444#event-16030284079) - replied to all feedback Feb 2025
+- [Midpoint Review - IA Feedback - Education Data Migration, WEAMS Public #101584](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101584#event-16035612020) - replied to all feedback Feb 2025
+- [Midpoint Review - Accessibility Feedback - Education Data Migration, WEAMS Public #101873](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101873#event-16084759168) - replied to all feedback Feb 2025
 
 ## CT Homepage
 - [Collaboration Cycle EDM and VEBT team, GI Bill Comparison Tool homepage #98557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98557)
