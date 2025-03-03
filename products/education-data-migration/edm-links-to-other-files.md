@@ -2,7 +2,7 @@
 This page houses the links to the GitHub files that do not live in the EDM GitHub folder to allow for easier acccess.
 
 ## Statement of Benefits
-- [Collaboration Cycle for Education Data Migration, Statement of Benefits #87676](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87676)
+- Closed March 2025 [Collaboration Cycle for Education Data Migration, Statement of Benefits #87676](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87676) SOB was live on VA.gov and did not need to go through the Collaboartion Cycle 
 - [Content and IA updates for Post-9/11 GI Bill Statement of Benefits tool #96163](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96163#issuecomment-2465793582)
 
 ## Yellow Ribbon Tool
