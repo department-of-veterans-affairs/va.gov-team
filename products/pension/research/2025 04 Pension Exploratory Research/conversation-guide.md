@@ -176,8 +176,7 @@ We understand from the screener that the application was [submitted or stopped].
 - Were there any follow up steps or communications you got from the VA or others after pausing the application?
 
 - Can you share how it felt at this point in the process (e.g. frustrated, confused, motivated for resolution, etc.)
-
-- *Moderator note: be aware this might be sensitive for the participant to share and we should be listening actively and empathizing as appropriate; but also making sure to not express stronger sentiment than that of the participant.*
+   - *Moderator note: be aware this might be sensitive for the participant to share and we should be listening actively and empathizing as appropriate; but also making sure to not express stronger sentiment than that of the participant.*
 
 
 **Submitted** 
@@ -209,7 +208,7 @@ We understand from the screener that the application was [submitted or stopped].
 
 So far we have been discussing the process and experience with the application itself. In order to better understand the full journey, we hope to get more specific about receiving and maintaining benefits. Some of this might touch on sensitive information like finances. Would you be open to discussing this?
 
-   - [if no] Thanks for letting me know. We can move on to a few final questions then. [skip to resume all section]
+   - [if no] Thanks for letting me know. We can move on to a few final questions then. **[skip to resume all section]**
 
    - [if yes] Thank you. As we go through these, feel free to skip any you prefer not to answer.
 
@@ -262,34 +261,33 @@ I have just a couple more questions and then we will shift to wrap up.
 
 - *To what extent did time or effort spent feel commensurate with the submission outcome?*
 
-## Post-Task Interview - X minutes
+## Wrap Up Questions - 10 minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+We really appreciate you taking the time to share your thoughts with us today. Your feedback and perspective is so helpful to us as we continue to improve the experience of applying for benefits. We have just one or two closing questions for you as we wrap up.
 
-## Consent to use video clips
+- [*Moderator note: Skip if short on time*] As you reflect on what you’ve shared, how would you rate the following processes on a scale of 1-5 (where 1 is terrible and 5 is amazing):
+   - Learning about pension
+   - Applying for pension
+   - Setting up pension payments
+   - Managing pension payments
 
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
+- While there are many people working on these forms and experiences, you really are the expert and we want to learn from you.
+   - Is there any advice you would give to those designing the forms or experience that you think would make the biggest difference?
+**[OR]** 
+   - If you could wave a magic wand and change anything about the experience of applying for and getting/managing your pension, what would it be? 
 
+- Do you have any questions for me?
 
-## Thank-You and Closing - X minutes
+- As we wrap up our conversation today, is there anything else that you’d like to share that we didn't get a chance to discuss?
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+## Thank-You and Closing - 5 minutes
 
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+Those are all of the questions we had for today!
 
-Thank you so much again, and enjoy the rest of your day!
+We wanted to make sure you knew what the next steps are in this project. After we finish this research learning about the pension experience, we hope to shift to test specific features of the form with Veterans and their advocates.
 
-##
+During the screening process this should have been mentioned and you had a chance to share if you were interested or not in this follow up study. We have made note of your preferences, but if that changes at any time, please don’t hesitate to reach out to your contact person at Perigean who helped set up this meeting. 
 
-## Emergency Exit
+Lastly, so you’re aware, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
-
-
+Thank you so much again for your time, and enjoy the rest of your day!
