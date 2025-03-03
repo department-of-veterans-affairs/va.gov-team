@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: February 28, 2025
+Last updated by @tygindraux: March 3, 2025
  
 **Jump to:**
 - [Purpose](#purpose)
@@ -137,17 +137,18 @@ However, the dashboard experience of Ask VA is somewhat similar to MHV secure me
 
 Because Ask VA involves asynchronous communication, it's fairly different to VA chatbot or phone calls which deliver support in real-time. But, if Ask VA becomes more like a [Type 3 support experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#ask-va-could-be-more-similar-to-type-3), then it will become more similar to VA chatbot.
 
-### Designing seams
+### Joining things up
 
-Having multiple asynchronous support channels for different purposes is not inherently a bad or confusing thing.
+Having multiple asynchronous support channels for different purposes is not inherently a bad or confusing thing. Even if VA's goal is to limit and merge these eventually.
 
-But, there are currently little to no seams designed between Ask VA and other support channels. This makes it difficult for people to understand and distinguish between support channels. And means people may use the wrong tool for their situation or preferences.
+But, the issue while multiple channels continue to exist, is that they're not joined up. There are very few moments where Ask VA is joined up with another support channels. This makes it difficult for people to understand and distinguish between support channels. And means people may use the wrong tool for their situation or preferences.
 
-These seams currently exist:
+These paths currently exist:
+- Ask VA links to the MyVA411 main information line or the GI Bill hotline on each page in the form
 - Ask VA suggests using VA chatbot if you have a general question in order to get help more quickly
 - VA chatbot suggests using Ask VA if you can't get help through chatbot
 
-But we could design more seams, like:
+But we could design more paths, like:
 - Ask VA could link to MHV secure messaging when a question is for a VA health care team
 - MHV secure messaging could link to Ask VA for other questions that are not for your VA health care team
 - Ask VA could link to MHV contact form when a question is related to the My HealtheVet website
