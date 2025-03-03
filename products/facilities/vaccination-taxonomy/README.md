@@ -1,4 +1,9 @@
+# Context
+Vaccination taxonomy was a research project in 2020. The taxonomy did not launch as a technical product, but evolved into the Supplemental Status model that was later mostly deprecated in 2023.
+
 ## Health Services - Vaccination Services Taxonomy #17522
+https://github.com/department-of-veterans-affairs/va.gov-team/issues/17522
+
 The Facilities and VAOS teams need better understanding of the process for searching for community care providers to inform the PPMS taxonomy work and to improve the Veteran search experience. 
 
 ## What we need to do
