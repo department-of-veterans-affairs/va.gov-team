@@ -90,7 +90,9 @@ Sitewide products span several repositories where we are contributors and not ow
 
 ### Drupal CMS
 Owners: CMS Platform team, [#sitewide-cms-platform](https://app.slack.com/client/T03FECE8V/CT4GZBM8F)
+
 VA PO: Erika Washburn
+
 PM: Grace Kretschmer Tran
 
 #### CMS Helpdesk
@@ -104,6 +106,7 @@ The [Flagged Facilities process](https://github.com/department-of-veterans-affai
 
 ### Lighthouse
 Lighthouse is VA's external-facing enterprise-stable API solution. 
+
 We work with 2 separate Lighthouse API teams: 
 
 **Lighthouse Facilities API**
@@ -116,6 +119,7 @@ We work with 2 separate Lighthouse API teams:
 Also owned by the CMS team. 
 
 These systems provide the templating layer for Drupal content, aka "the backend of the front-end."
+
 Content-build is the legacy system slowly being replaced by next-build. 
 
 ### Vets-website
@@ -134,6 +138,8 @@ We own ensuring no dead links to content in our portfolios, which means creating
 [Redirect implementation strategies](https://depo-platform-documentation.scrollhelp.site/developer-docs/redirect-implementation-strategies) provides more context on the variety of types of redirect you may be asked to manage.
 
 IA owners: Content/IA, @mnorthuis as primary POC, [#content-ia-centralized-team](https://app.slack.com/client/T03FECE8V/C01K37HRUAH)
+
 Technical Owners of revproxy 301 server-side redirects: Platform Devops, [#platform-cop-devops](https://app.slack.com/client/T03FECE8V/C04CYC4LMU6)
+
 Technical Owners of proxy-rewrite client-side redirects: Public Websites (us!) 
 
