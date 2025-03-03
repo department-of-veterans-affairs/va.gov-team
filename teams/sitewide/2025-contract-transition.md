@@ -19,6 +19,8 @@ The Facilities & Public Websites product portfolios are comprised of a variety o
 
 Additional channels for communication with partner teams are listed below in [Partner team information](#partner-team-information).
 
+[Team onboarding information (Sharepoint)](https://dvagov.sharepoint.com/:w:/r/sites/SitewideContract/_layouts/15/Doc.aspx?sourcedoc=%7B33C442DA-4735-4F5B-9568-93B6C05BC97E%7D&file=Sitewide%20Onboarding%20TEMPLATE.docx&action=default&mobileredirect=true) includes information on how to gain access to systems needed for contributing to Drupal, etc.
+
 ## Strategic priorities (Now, Next, Later)
 Now, Next, Later roadmap by quarter is in a DSVA Slack list: [Sitewide Strategic Priorities](https://dsva.slack.com/lists/T03FECE8V/F07JG0HFHBP?view_id=View085PKFEB18)
 
