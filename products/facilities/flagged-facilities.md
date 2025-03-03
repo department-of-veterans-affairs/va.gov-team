@@ -17,6 +17,7 @@ The Facilities team and Drupal CMS Helpdesk work together to process information
 * **Helpdesk**: needs to review that queue and create Github tickets using the appropriate [Runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/flagged-facilities.md#runbooks) below, based on the type of facility, and type of flag.  
   * If Helpdesk does not have bandwidth, alert Facilities team and ask for help creating Github tickets.
   * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13624 will eventually create a Flag to track which Flagged facilities don't have Github tickets. Until then: Helpdesk can keep track of the process for creating Github tickets however they like, using "Stefanie's spreadsheet" or otherwise.
+  * The [Flagged Facilities kanban board (Github Projects)](https://github.com/orgs/department-of-veterans-affairs/projects/1461) tracks the status of related tickets, in terms of addressing flagged changes.
 * Then: **Helpdesk and Facilities** all follow the Github runbook tickets. 
   * Within each runbook ticket, the steps required by Helpdesk (specifically), Drupal engineering, or "Drupal Admin" (which could be either engineers or Helpdesk) are articulated, in order. 
   * Each new sprint, tickets related to flagged facilities will be prioritized, at the discretion of the Facilities PO, relative to other sprint priorities.
