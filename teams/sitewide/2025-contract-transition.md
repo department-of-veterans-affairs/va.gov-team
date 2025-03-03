@@ -4,18 +4,13 @@ The Facilities & Public Websites product portfolios are comprised of a variety o
 
 ## Table of contents
 1. [Team channels](#team-channels)
-2. Strategic Priorities / Roadmap
-3. Projects in flight & Status of those projects, including:
-    * Product briefs
-    * Initiative briefs
-    * Epics
-    * Collab Cycle epics
-4.  Product porfolio & maintenance documentation, including:
-    * Product guides, which include Stakeholder information
-    * Maintenance docs
-    * Monitoring docs
-    * Regression test plans
-5. Partner team information
+2. [Strategic Priorities / Roadmap](#strategic-priorities-now-next-later)
+3. [Projects in flight](d#projects-in-flight) 
+4. [Product porfolio](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide/2025-contract-transition.md#product-porfolio--maintenance-documentation) & maintenance documentation, including:
+    * [Facilities portfolio](#facilities-portfolio)
+    * [Public Websites portfolio](#public-websites-portfolio)
+    * [Monitoring docs](#monitoring)
+5. [Partner team information](#partner-team-information)
 
 ### Team channels
 [#sitewide-program](https://app.slack.com/client/T03FECE8V/C03LFSPGV16) - cross-team channel that includes many members of partner teams
@@ -30,17 +25,17 @@ Now, Next, Later roadmap by quarter is in a DSVA Slack list: [Sitewide Strategic
 
 ## Projects in flight
 
-Project | Portfolio | Epic | Documentation | Status
---- | --- | --- | --- | ---
- |  |  |  |   
- |  |  |  |   
- |  |  |  |   
- |  |  |  |   
- |  |  |  |   
- |  |  |  |   
- |  |  |  |   
- |  |  |  |   
- |  |  |  |   
+Project | Portfolio | Epic | Documentation | Collab Cycle, if any | Status
+--- | --- | --- | --- | --- | ---
+ |  |  |  |   |
+ |  |  |  |   |
+ |  |  |  |   |
+ |  |  |  |   |
+ |  |  |  |   |
+ |  |  |  |   |
+ |  |  |  |   |
+ |  |  |  |   |
+ |  |  |  |   |
 
 
 
@@ -82,7 +77,10 @@ Broadly, Public Websites is the software development team supporting the VA's Co
 P1 products in this portfolio will receive attention from the DSVA watch officer in case of outages, and require timely response to any operational issues.
 
 ### Monitoring
-Each portfolio doc linked above includes monitoring documentation within the `[product]/engineering/monitoring.md` path for the product. Rollup information is available here: 
+Each portfolio doc linked above includes monitoring documentation within the `[product]/engineering/monitoring.md` path for the product. 
+
+Topline on monitoring channels, Datadog information, and escalation response are in the [DSVA Slack #sitewide-program channel canvas](https://dsva.slack.com/canvas/C03LFSPGV16)
+
 
 
 ## Partner team information
