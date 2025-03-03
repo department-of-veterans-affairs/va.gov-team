@@ -100,7 +100,6 @@ Government Stakeholders:
 |Veteran personas|From Veteran Experience Office includes ten personas and additional tools|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)|May 2016, current as of 2022|
 |Veteran personas and 526 use cases|Connects VA veteran personas with 526 use cases and experiences|[Link]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/personausecases.md))|March 2023|
 
-
 ## Research
 [Link to Research in Sharepoint](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?e=5:0f5e8995f1784d9aa59021cdc4776530&sharingv2=true&fromShare=true&CID=d7176fa1-c0b0-7000-6dfa-f91eba2b481a&cidOR=SPO&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&isAscending=true&id=/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/5%20-%20Research%20and%20Design&sortField=LinkFilename&viewid=3fa7a9bb-3d4e-44c2-b93f-629268a08e72)
 
@@ -122,6 +121,12 @@ TODO: Ask Evelyn about GA and/or if she could elaborate on the state of this
 
 ## Features/Initiatives
 TODO: should be adding project features here? or link to a different page (Lauren is working on this.)
+
+ - [Toxic Exposure Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Toxic%20Exposure%20Brief.md)
+ - [5103 Equivalent Language Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/5103%20Equivalent%20Language%20Brief.md)
+ - [Signature Component Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Signature%20Component%20Brief.md)
+ - [Provide a Copy of Submission Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/provide-a-copy-pdf.md)
+ - [Submission Experience Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md)
 
 ## Engineering
 #### Github Repos
