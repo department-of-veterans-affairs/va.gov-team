@@ -34,7 +34,7 @@ During this study, we plan to take a trauma-informed approach by:
 
 ### Day of session
 
-1. Start a thread in #feedback-backchannel (ex: Proactive Benefits Outreach Exploration P3 starts in 10 minutes :thread: ) and tag your observers for the session
+- Start a thread in #feedback-backchannel (ex: Proactive Benefits Outreach Exploration P3 starts in 10 minutes :thread: ) and tag your observers for the session
 
 - Type “observer instructions” in the channel at the beginning of your day of sessions to give your observers tips
 
