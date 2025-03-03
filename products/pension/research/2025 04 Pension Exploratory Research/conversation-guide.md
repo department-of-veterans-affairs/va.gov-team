@@ -95,19 +95,43 @@ If yes: Once I start recording, I am going to confirm that you are okay with me 
 
 I have started recording. Just to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Warm-up Questions (Optional) - 5 minutes
+## Warm-up Questions - 5 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+*Goal: Understand relevant background and context for participant experiences.*
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+**Veteran Participant**
 
-## First Task: [TASK NAME] - X minutes
+- Before we get started learning about your experiences with applying for Veteran pension, can you share if you have ever applied for any other programs with the VA?
 
-- Step 1
-- Step 2
+- We will have a chance to go into the specifics but does anything stand out to you as particularly different or similar to your experience learning about or applying for those other programs compared to Veterans pension?
+
+**Veteran Advocate Participant**
+
+- Can you share how you are connected to the Veteran you supported through the application process?
+
+- How often do you assist the Veteran with this type of activity (e.g. learning about programs, filling out forms, etc.)?
+
+## First Task: Learning about Pension - 10 minutes
+
+*When and how did you first learn about the Veterans pension benefit?
+
+- Were there specific factor(s) that led you to seek out or apply for the pension benefit at the time you did?
+
+- How did you determine this program might be something you (or the veteran) were eligible for?
+
+- What did you already know about the pension benefit before applying?
+
+- What surprised you to learn?
+
+- Did you have any assumptions about the pension benefit or application before applying? 
+
+### *Things to listen for:*
+
+- *What level of understanding did the Veteran or advocate already have and how did they come to know or believe what they did?*
+
+- *What mental models or previous experience are they relying on to determine actions or make sense of next steps?*
+
+- *Were there any people, programs, communications, etc. that were particularly helpful or unhelpful in learning about Veterans pension and applying?*
 
 ### Things to watch for:
 
