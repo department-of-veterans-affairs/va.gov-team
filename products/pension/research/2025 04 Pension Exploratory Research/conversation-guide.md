@@ -35,16 +35,16 @@ During this study, we plan to take a trauma-informed approach by:
 ### Day of session
 
 - [ ] Start a thread in #feedback-backchannel (ex: Proactive Benefits Outreach Exploration P3 starts in 10 minutes :thread: ) and tag your observers for the session
-- Type “observer instructions” in the channel at the beginning of your day of sessions to give your observers tips
-- Also send the instructions to any observers not in slack (like VBA partners)
+   - Type “observer instructions” in the channel at the beginning of your day of sessions to give your observers tips
+   - Also send the instructions to any observers not in slack (like VBA partners)
 
 - [ ] Make sure you mute all notifications (including slack), and close unnecessary applications
 
 - [ ] Have your conversation guide somewhere accessible that the participant cannot see
 
 - [ ] Zoom reminders:
-- Make sure you have [transcriptions enabled](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-a-transcript)
-- Make sure to hit record after permission is granted!
+   - Make sure you have [transcriptions enabled](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-a-transcript)
+   - Make sure to hit record after permission is granted!
 
 - [ ] Keep handy the [Tech set-up checklis](https://depo-platform-documentation.scrollhelp.site/research-design/tech-set-up-checklist)[t ](https://depo-platform-documentation.scrollhelp.site/research-design/tech-set-up-checklist)and [Troubleshooting Research Sessions](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr) in case the participant needs help during the session.
 
@@ -150,11 +150,11 @@ We understand that you applied using the [insert application type noted in scree
 **Additional questions for Veteran Advocate Participant**
 
 - We have heard from others that it is common for a family member or other advocate to fill out the form as if they are the veteran themselves. Would you be open to sharing how you went about it?
- - [if hesitant] I just want to make sure to say your answers will not be linked directly back to you or the veteran in any way. Understanding this aspect of the form experience is helpful for us as we think about how it is actually being used so it matches up better with your expectations and preferences.
+   - [if hesitant] I just want to make sure to say your answers will not be linked directly back to you or the veteran in any way. Understanding this aspect of the form experience is helpful for us as we think about how it is actually being used so it matches up better with your expectations and preferences.
  
 - [if yes] Did you fill out the form with or without signing in?
- - [if yes to sign in] Do you happen to remember if it was generally at the beginning, middle, or end when you signed in?
-  - [if hesitant] For context this is because we have certain features connected to sign in and we want to make sure we are applying them in the best way.
+   - [if yes to sign in] Do you happen to remember if it was generally at the beginning, middle, or end when you signed in?
+   - [if hesitant] For context this is because we have certain features connected to sign in and we want to make sure we are applying them in the best way.
 
 ### *Things to listen for:*
 
@@ -209,10 +209,9 @@ We understand from the screener that the application was [submitted or stopped].
 
 So far we have been discussing the process and experience with the application itself. In order to better understand the full journey, we hope to get more specific about receiving and maintaining benefits. Some of this might touch on sensitive information like finances. Would you be open to discussing this?
 
-***[if no] ****Thanks for letting me know. We can move on to a few final questions then. [skip to resume all section]*
+   - [if no] Thanks for letting me know. We can move on to a few final questions then. [skip to resume all section]
 
-***[if yes] ****Thank you. As we go through these, feel free to skip any you prefer not to answer. * \
-
+   - [if yes] Thank you. As we go through these, feel free to skip any you prefer not to answer.
 
 - What happened after you got the decision?
 
@@ -238,12 +237,11 @@ So far we have been discussing the process and experience with the application i
 
 - [If the advocate has proactively shared that the Veteran is deceased] I can imagine it was difficult when the Veteran passed. May I ask a question related to closing down their benefits?
 
-- *Moderator note: Only ask if **<span style="text - decoration: underline;">the advocate volunteered this info*</span>* and was **<span style="text - decoration: underline;">not overly distressed*</span>* sharing these details. *
+   - *Moderator note: Only ask if **<span style="text - decoration: underline;">the advocate volunteered this info*</span>* and was **<span style="text - decoration: underline;">not overly distressed*</span>* sharing these details.*
 
 - Did you find there were difficulties or complications related to the pension benefit - such as overpayments that required resolution?
 
-** \
-Resume all** \
+**Resume all** 
 I have just a couple more questions and then we will shift to wrap up. 
 
 - How would you describe the overall experience applying for Veteran pension?
