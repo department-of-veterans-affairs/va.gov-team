@@ -16,9 +16,9 @@
      - Brandon
      - Renata
 
-## Notes
+## Registration
 - **Shawn** goes over background
- ![image](https://github.com/user-attachments/assets/bcf5dc61-6edb-4575-b55f-cbe85e8fdbe1)
+- ![image](https://github.com/user-attachments/assets/bcf5dc61-6edb-4575-b55f-cbe85e8fdbe1)
 
 * **Patrick** - what is User Need here?
     * Why would a Veteran land here?
@@ -33,12 +33,11 @@
 * **Shawn** - Need to have the business involved
 - [ ] **HDJ - Action item** to set up meeting with Simone & Team
 
----
-* NoK/EC
-    * Ready and in SQA smoke testing this week! 
-        * Once done, will be ready for consuming and testing
-    * VA Profile using this, which would call this new service
-    * Also update will be pushed to VA Profile
-    * Whatever JF says to do, that is what our team can do
-    * In the past, for this kind of Associated Person info has gone thru VA Profile, reading off VES and updating via VA Profile
+## NoK/EC
+* Ready and in SQA smoke testing this week!
+    * Once done, will be ready for consuming and testing
+* VA Profile using this, which would call this new service
+* Also update will be pushed to VA Profile
+* Whatever JF says to do, that is what our team can do
+* In the past, for this kind of Associated Person info has gone thru VA Profile, reading off VES and updating via VA Profile
 - [ ] **Action Item**: Confirm with Josh F: Do we call VES? Or do we call VA Profile that updates VES?
