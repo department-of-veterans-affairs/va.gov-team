@@ -5,7 +5,7 @@
      - Heather Justice
      - Emily Brown
      - Jessica Stump
-     - Alex Seelig
+     - Patrick Bateman
      - Frye, Ashuntus L. 
      - Muthupalaniappan, Meenatchi M.
      - Campbell, Michael E.
