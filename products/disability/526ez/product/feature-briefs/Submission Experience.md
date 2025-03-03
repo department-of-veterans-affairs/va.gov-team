@@ -188,6 +188,9 @@ TBC
 We are tracking the work in the [Submission Experience project on the roadmap](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/roadmap?project=z2lkoi8vcmfwdg9yl1byb2ply3qvodiymty) - see various epics within it.
 
 The [User Story Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711478063212/5b744d81f239e5ae30aaf28ff98414a9dc3c7e72?sender=ubd79255de28cd574d7575469) is used to map out the initiative's features and user stories.
+
+See the [Figma Files](https://www.figma.com/design/f0CuXrBUVs86NDm6cqmduK/526-/-Submission?node-id=56-56258&p=f&t=w3xLHevjUNbmSBg8-0)
+
 ### When does the submission experience “end”?
 When the claim is established in VBMS and all initial doc uploads succeed or the submission process ultimately fails (clarified [in Slack](https://dsva.slack.com/archives/C053UDWMH7U/p1712083884346289?thread_ts=1711719139.052369&cid=C053UDWMH7U)).
 ### What is the detailed delivery plan?
@@ -199,4 +202,4 @@ Each delivery phase of the Submission Experience is detailed in the Epic for eac
 - [526ez Shadowing Veteran Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md)
 - [Submission Experience Maps](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711478063212/5b744d81f239e5ae30aaf28ff98414a9dc3c7e72?sender=ubd79255de28cd574d7575469)
 - [DBEX Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?sender=ubd79255de28cd574d7575469)
-- [Submission Research Plan](https://docs.google.com/document/d/1GLBJqNpNMyOfcidtigNqWd8F2c6adueraY-ybj7Q5E8/edit) for "Veteran has clear expectations of submission status"
+- [Submission Research Plan](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/5%20-%20Research%20and%20Design/2024-07%20526ez%20Submission%20Status/Research%20Plan%20for%20526%20Submission%20Status.docx?d=w8364eb7d734c42669baddef988264d98&csf=1&web=1&e=2hH3aA) for "Veteran has clear expectations of submission status"
