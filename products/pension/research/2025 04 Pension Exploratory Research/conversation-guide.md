@@ -155,13 +155,13 @@ We understand that you applied using the [insert application type noted in scree
 
 - We have heard from others that it is common for a family member or other advocate to fill out the form as if they are the veteran themselves. Would you be open to sharing how you went about it?
 
-- [if hesitant] I just want to make sure to say your answers will not be linked directly back to you or the veteran in any way. Understanding this aspect of the form experience is helpful for us as we think about how it is actually being used so it matches up better with your expectations and preferences.
+-- [if hesitant] I just want to make sure to say your answers will not be linked directly back to you or the veteran in any way. Understanding this aspect of the form experience is helpful for us as we think about how it is actually being used so it matches up better with your expectations and preferences.
 
 - [if yes] Did you fill out the form with or without signing in?
 
-- [if yes to sign in] Do you happen to remember if it was generally at the beginning, middle, or end when you signed in?
+-- [if yes to sign in] Do you happen to remember if it was generally at the beginning, middle, or end when you signed in?
 
-- [if hesitant] For context this is because we have certain features connected to sign in and we want to make sure we are applying them in the best way.
+-- [if hesitant] For context this is because we have certain features connected to sign in and we want to make sure we are applying them in the best way.
 
 ### *Things to listen for:*
 
