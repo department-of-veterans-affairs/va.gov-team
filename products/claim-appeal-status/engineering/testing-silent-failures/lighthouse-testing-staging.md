@@ -75,7 +75,7 @@
     ```
 3. Your record should now be deleted
 
-## Upload failure for type 1 and 2 when cst_send_evidence_submission_failure_emails is enabled
+## Testing upload failures - db update to make it look like the polling job returned a FAILED upload_status, when cst_send_evidence_submission_failure_emails is enabled
 1. Perform steps 1-14 noted in the [Testing uploading a file in the CST](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-staging.md#testing-uploading-a-file-in-the-cst)
 2. Within the ArgoCD terminal using rails console run the following commands to change the record to a failure and run the document upload failure email cron job...
    1. NOTE: If you dont run this manually it is set up to run daily
