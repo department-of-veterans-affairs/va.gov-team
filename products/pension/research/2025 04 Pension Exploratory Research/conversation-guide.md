@@ -183,21 +183,21 @@ We understand from the screener that the application was [submitted or stopped].
 
 - Once you submitted the form were any additional actions needed on your part [or the part of the Veteran you were supporting]?
 
-- How did you find out additional action was needed?
+   - How did you find out additional action was needed?
 
-- Did you know what action was required and how to do so?
+   - Did you know what action was required and how to do so?
 
-- What, if any, resolution was reached?
+   - What, if any, resolution was reached?
 
 - We understand that the Veteran was [approved/denied]. Is this correct?
 
-- Did you understand why it [was or was not] approved?
+   - Did you understand why it [was or was not] approved?
 
-- What information was provided communicating the decision?
+   - What information was provided communicating the decision?
 
-- What next steps or expectations were set by the communication?
+   - What next steps or expectations were set by the communication?
 
-- What, if any, questions did you have that were or were not addressed?
+   -  What, if any, questions did you have that were or were not addressed?
 
 
 **If Approved for Pension**
@@ -208,9 +208,9 @@ We understand from the screener that the application was [submitted or stopped].
 
 So far we have been discussing the process and experience with the application itself. In order to better understand the full journey, we hope to get more specific about receiving and maintaining benefits. Some of this might touch on sensitive information like finances. Would you be open to discussing this?
 
-   - [if no] Thanks for letting me know. We can move on to a few final questions then. **[skip to resume all section]**
+[if no] Thanks for letting me know. We can move on to a few final questions then. **[skip to resume all section]**
 
-   - [if yes] Thank you. As we go through these, feel free to skip any you prefer not to answer.
+[if yes] Thank you. As we go through these, feel free to skip any you prefer not to answer.
 
 - What happened after you got the decision?
 
