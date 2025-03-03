@@ -34,34 +34,30 @@ During this study, we plan to take a trauma-informed approach by:
 
 ### Day of session
 
-- Start a thread in #feedback-backchannel (ex: Proactive Benefits Outreach Exploration P3 starts in 10 minutes :thread: ) and tag your observers for the session
-
+- [ ] Start a thread in #feedback-backchannel (ex: Proactive Benefits Outreach Exploration P3 starts in 10 minutes :thread: ) and tag your observers for the session
 - Type “observer instructions” in the channel at the beginning of your day of sessions to give your observers tips
-
 - Also send the instructions to any observers not in slack (like VBA partners)
 
-- Make sure you mute all notifications (including slack), and close unnecessary applications
+- [ ] Make sure you mute all notifications (including slack), and close unnecessary applications
 
-- Have your conversation guide somewhere accessible that the participant cannot see
+- [ ] Have your conversation guide somewhere accessible that the participant cannot see
 
-- Zoom reminders:
-
+- [ ] Zoom reminders:
 - Make sure you have [transcriptions enabled](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-a-transcript)
-
 - Make sure to hit record after permission is granted!
 
-- Keep handy the [Tech set-up checklis](https://depo-platform-documentation.scrollhelp.site/research-design/tech-set-up-checklist)[t ](https://depo-platform-documentation.scrollhelp.site/research-design/tech-set-up-checklist)and [Troubleshooting Research Sessions](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr) in case the participant needs help during the session.
+- [ ] Keep handy the [Tech set-up checklis](https://depo-platform-documentation.scrollhelp.site/research-design/tech-set-up-checklist)[t ](https://depo-platform-documentation.scrollhelp.site/research-design/tech-set-up-checklist)and [Troubleshooting Research Sessions](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr) in case the participant needs help during the session.
 
-- Review [tips on moderating](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Moderatingtips)[ ](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Moderatingtips)and [responding to emergencies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html)
+- [ ] Review [tips on moderating](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Moderatingtips)[ ](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Moderatingtips)and [responding to emergencies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html)
 
-- Near the end of your session, take a look at the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) and see if anyone brought up questions that you can address with your participant.
+- [ ] Near the end of your session, take a look at the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) and see if anyone brought up questions that you can address with your participant.
 
 ### Starting the session
 
-- In the Attendees section, make sure everyone except the participant is on mute.
-- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked.
-- Check your [screensharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro.
+- [ ] In the Attendees section, make sure everyone except the participant is on mute.
+- [ ] In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked.
+- [ ] Check your [screensharing setup] and share permissions for participants.
+- [ ] When the participant is ready, begin the session with the following intro.
 
 
 
