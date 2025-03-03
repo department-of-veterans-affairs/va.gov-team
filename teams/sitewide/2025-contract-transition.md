@@ -3,7 +3,8 @@
 The Facilities & Public Websites product portfolios are comprised of a variety of products with a vast array a tech stacks for each product. This is a wayfinding document to help a new team understand what products you own, how to maintain them & keep up operations, and the roadmap of current priorities and projects in flight. 
 
 ## Table of contents
-2. Strategic Priorities slack list
+1. [Team channels](#team-channels)
+2. Strategic Priorities / Roadmap
 3. Projects in flight & Status of those projects, including:
     * Product briefs
     * Initiative briefs
@@ -16,10 +17,31 @@ The Facilities & Public Websites product portfolios are comprised of a variety o
     * Regression test plans
 5. Partner team information
 
+### Team channels
+[#sitewide-program](https://app.slack.com/client/T03FECE8V/C03LFSPGV16) - cross-team channel that includes many members of partner teams
+[#sitewide-facilities](https://app.slack.com/client/T03FECE8V/C0FQSS30V) - comms specific to Facilities portfolio
+[#sitewide-public-websites](https://app.slack.com/client/T03FECE8V/C52CL1PKQ) - comms specific to Public Websites portfolio
+
+Additional channels for communication with partner teams are listed below in [Partner team information](#partner-team-information).
 
 ## Strategic priorities (Now, Next, Later)
+Now, Next, Later roadmap by quarter is in a DSVA Slack list: [Sitewide Strategic Priorities](https://dsva.slack.com/lists/T03FECE8V/F07JG0HFHBP?view_id=View085PKFEB18)
 
-## Projects in flight & Status
+
+## Projects in flight
+
+Project | Portfolio | Epic | Documentation | Status
+--- | --- | --- | --- | ---
+ |  |  |  |   
+ |  |  |  |   
+ |  |  |  |   
+ |  |  |  |   
+ |  |  |  |   
+ |  |  |  |   
+ |  |  |  |   
+ |  |  |  |   
+ |  |  |  |   
+
 
 
 ## Product porfolio & maintenance documentation
