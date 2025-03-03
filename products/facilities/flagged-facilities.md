@@ -1,5 +1,5 @@
 # Flagged Facilities
-Last updated: 5/8/2024
+Last updated: 3/3/2025
 
 The Facilities Team is responsible for ensuring that VA.gov presents the latest correct data available about a Facility. 
 The Drupal CMS Helpdesk is responsible for communicating with Editors about changed Facilities, where relevant. 
