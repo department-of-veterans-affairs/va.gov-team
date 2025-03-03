@@ -9,12 +9,12 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 - [Collaboration Cycle for Education Data Migration, Yellow Ribbon Tool #90888](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90888)
 - [CAIA Intake for Yellow Ribbon Tool #92367](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92367)
 ### Design Intent Feedback
-- [Design Intent - IA Feedback #96852](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96852#event-15254368406) - replied to all feedback 1/28/2025
-- [Design Intent - Accessibility Feedback #96915](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96915#event-15270298759) - replied to all feedback 1/28/2025
+- Closed January 2025 [Design Intent - IA Feedback #96852](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96852#event-15254368406) 
+- Closed January 2025 [Design Intent - Accessibility Feedback #96915](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96915#event-15270298759) 
 ### Midpoint Review Feedback
-- [Midpoint Review - Accessibility Feedback - Education Data Migration, Yellow Ribbon Tool #99571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99571#event-15736459684) - replied to all feedback 1/28/2025
-- [Midpoint Review - Content Feedback - Education Data Migration, Yellow Ribbon Tool #99563](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99563) - replied to all feedback 1/30/2025
-- [Midpoint Review - IA Feedback - Education Data Migration, Yellow Ribbon Tool #99953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99953#event-15810387277) - replied to all feedback 1/28/2025
+- Closed January 2025 [Midpoint Review - Accessibility Feedback - Education Data Migration, Yellow Ribbon Tool #99571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99571#event-15736459684) 
+- Closed January 2025 [Midpoint Review - Content Feedback - Education Data Migration, Yellow Ribbon Tool #99563](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99563)
+- Closed January 2025 [Midpoint Review - IA Feedback - Education Data Migration, Yellow Ribbon Tool #99953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99953#event-15810387277) 
 ### Research Submission Feedback
 - [2025-01 Yellow Ribbon Program info in CT #764](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/764)
 ### Staging Review Feedback 
@@ -56,23 +56,23 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 </details>
 
 ### Design Intent Feedback
-- [Design Intent - IA Feedback - Education Data Migration, WEAMS Public #98839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98839#event-15607359715) - replied to all feedback Feb 2025
-- [Design Intent - Accessibility Feedback - Education Data Migration, WEAMS Public #98857](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98857#event-15611083835) - replied to all feedback Feb 2025
+- Closed February 2025 [Design Intent - IA Feedback - Education Data Migration, WEAMS Public #98839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98839#event-15607359715)
+- Closed February 2025 [Design Intent - Accessibility Feedback - Education Data Migration, WEAMS Public #98857](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98857#event-15611083835)
 
 ### Midpoint Review Feedback
-- [Midpoint Review - Design Feedback - Education Data Migration, WEAMS Public #101444](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101444#event-16030284079) - replied to all feedback Feb 2025
-- [Midpoint Review - IA Feedback - Education Data Migration, WEAMS Public #101584](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101584#event-16035612020) - replied to all feedback Feb 2025
-- [Midpoint Review - Accessibility Feedback - Education Data Migration, WEAMS Public #101873](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101873#event-16084759168) - replied to all feedback Feb 2025
+- Closed February 2025 [Midpoint Review - Design Feedback - Education Data Migration, WEAMS Public #101444](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101444#event-16030284079) 
+- Closed February 2025 [Midpoint Review - IA Feedback - Education Data Migration, WEAMS Public #101584](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101584#event-16035612020) 
+- Closed February 2025 [Midpoint Review - Accessibility Feedback - Education Data Migration, WEAMS Public #101873](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101873#event-16084759168) 
 
 ## CT Homepage
 - [Collaboration Cycle EDM and VEBT team, GI Bill Comparison Tool homepage #98557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98557)
 - [CAIA Intake EDM & VEBT: Publishing a GI Bill Comparison Tool homepage #99990](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99990)
 
 ### Design Intent Feedback
-- [Design Intent - IA Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #99464](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99464#event-15708767113) - replied to all feedback 3/3/2025
-- [Design Intent - Design Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #99543](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99543#event-15733018527) - replied to all feedback 3/3/2025
-- [Design Intent - Accessibility Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #99573](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99573#event-15736614996) - replied to all feedback 3/3/2025
+- Closed March 2025 [Design Intent - IA Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #99464](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99464#event-15708767113)
+- Closed March 2025 [Design Intent - Design Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #99543](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99543#event-15733018527)
+- Closed March 2025 [Design Intent - Accessibility Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #99573](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99573#event-15736614996)
 ### Midpoint Review Feedback 
-- [Midpoint Review - IA Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #102021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102021#event-16110612222) - replied to all feedback 3/3/2025
-- [Midpoint Review - Design Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #101934](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101934#event-16096543265) - replied to all feedback 3/3/2025
--  [Midpoint Review - Accessibility Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #102227](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102227#event-16133713720) - replied to all feedback 3/3/2025
+- Closed March 2025 [Midpoint Review - IA Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #102021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102021#event-16110612222)
+- Closed March 2025 [Midpoint Review - Design Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #101934](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101934#event-16096543265)
+- Closed March 2025 [Midpoint Review - Accessibility Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #102227](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102227#event-16133713720)
