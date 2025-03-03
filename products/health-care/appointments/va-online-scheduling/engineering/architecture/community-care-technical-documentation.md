@@ -218,6 +218,7 @@ Response when not booked ie: no appointments have been booked for this referral)
 ```
 {
   "uuid": "1234",
+  "referralDate": "2025-06-02T10:30:00Z",
   "expirationDate": "2024-12-12",
   "referralNumber": "VA0000009880",
   "referringFacility": "Batavia VA Medical Center w/ Dr. Moreen S. Rafa",
