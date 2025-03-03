@@ -95,7 +95,9 @@ Zoom
 We will partner with Perigean to recruit Veterans. We request a 30 minute kickoff meeting with Perigean to align on what is needed and desired from the sample. Availability for potential kickoff meeting times with Perigean, depending on their availability is below.  Additional times can be made available based on Perigean's schedule.  
 
 Thursday, 3/6 1:30pm EST
+
 Thursday, 3/6 4pm EST
+
 Friday, 3/7 11:30am EST
 
 
