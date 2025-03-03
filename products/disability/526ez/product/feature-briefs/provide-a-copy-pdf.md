@@ -20,6 +20,10 @@ This approach would retrieve PDFs from our existing S3 storage where they reside
 ### Option 3: eFolder Access
 This solution would retrieve PDFs directly from the Veteran's eFolder, providing Veterans access to their official claim documents. The implementation requires new integration points with VBMS document services and establishing proper security controls for accessing the eFolder. While VBA partners expressed interest in eFolder retrieval, the asynchronous nature of our form processing makes that approach complex. We could look into eFolder integration down the road, but since our form processes asynchronously, that might not be the best fit. Documents may take varying amounts of time to appear in the eFolder, creating timing challenges of providing the PDF on the Confirmation page. This approach only works for primary path submissions and would require security reviews. The solution necessitates new monitoring systems to track document availability and manage complex error scenarios.
 
+See [Figma File](https://www.figma.com/design/RzYxoYowRtRXTPcEP3bkJM/%28526ez%29-Provide-a-copy-of-submission?node-id=0-1&t=yXjTUdMvpTwusyxG-1) <br>
+[#90455](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?sliceBy%5Bvalue%5D=Sprint%208&pane=issue&itemId=74344095&issue=department-of-veterans-affairs%7Cva.gov-team%7C90455) - Prioritize solution ideas for Provide a Copy of Submission <br>
+[#94824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94824) - HCD Brief for “Provide a copy of submission
+
 ## In Scope
 - PDF generation/retrieval functionality on the confirmation page
 - Download capability for generated documents
