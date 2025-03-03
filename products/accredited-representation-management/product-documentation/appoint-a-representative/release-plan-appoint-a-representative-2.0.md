@@ -29,7 +29,7 @@ The following will take place right before Staged Rollout:
 - [ ] Enable Appoint v2 email notifications in VA Notify Production [#101050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101050)
 - [ ] Email notification for POA acceptance is ready in Production (Confirm with Lighthouse)
 
-#### Rollout date: March 11, 2025
+#### Rollout date: March 11, 2025 @ 1pm ET
 1. Stage A: 100% of users on March 11 (Tuesday) + implement Datadog monitoring in Production [#99975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99975)
 
 ***
