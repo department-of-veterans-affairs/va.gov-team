@@ -110,11 +110,13 @@ Friday, 3/7 11:30am EST
 
 * All have VA health care as a benefit
 * All must have traveled for a medical appointment at least once in the past year
+* All participants must have had a VA medical appointment within the 30 days prior to their interview session 
 * 5 must be new claimant with a complex claim for an appointment dated 2/22/25 - 3/24/25 that has not yet been submitted
 * 5 must be new claimant with a simple mileage only claim for an appointment dated 2/22/25 - 3/24/25 that has not yet been submitted
 * 5 must be established claimant with simple mileage only claim for an appointment dated 2/22/25 - 3/24/25 that has not yet been submitted
 * 4 must be established claimant with a complex claim for an appointment dated 2/22/25 - 3/24/25 that has not yet been submitted
 * 1 must be an established claimant with a recently submitted claim
+  
 
 *Secondary criteria (nice-to-haves)*
 
@@ -148,14 +150,16 @@ Friday, 3/7 11:30am EST
     * No, the appointment has happened but I have not submitted for travel reimbursement [meets criteria]
     * No, I have not submitted for travel reimbursement as the appointment has not yet happened [meets criteria]
       
-5. Considering your most recent trip to a VA Medical Center or VA Outpatient Clinic for a medical appointment, which of the following, if any, would you file for? Select all that apply.
+5.  What was the date of your last medical appointment at a VA Medical Center or VA Outpatient Clinic?
+   Open end
+
+6. Considering your most recent trip to a VA Medical Center or VA Outpatient Clinic for a medical appointment, which of the following, if any, would you file for? Select all that apply.
     * Reimbursement **only** for gas mileage from my house to the clinic [meets criteria for simple mileage only claimant]
     * **In addition to other costs**, reimbursement for gas mileage from my house to the clinic [meets criteria for complex claimant]
     * Reimbursement for tolls or parking I had to use to get to the clinic [meets criteria for complex claimant]
     * Reimbursement for a hotel accommodation used for my appointment [meets criteria for complex claimant]
     * Reimbursement for public transportation or taxi [meets criteria for complex claimant]
     * None [not eligible for study] 
-
 
 ## **Timeline**
 
