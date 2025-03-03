@@ -90,13 +90,13 @@ Zoom
 
 ### **Recruitment approach**
 
-12 completed sessions required.  Recruit 20 Veterans using Perigean recruiting services and the Perigean participant pool.  We will have a kickoff call with Perigean the week of **Monday, 2/24/25** and aim to start testing the week of **Monday, 3/10/25.** We will work with VTP and Perigean to begin the process of setting up a separate database of participants who come in through Travel Pay VSOs that can be used going forward.  The logistics of this will be addressed in the kickoff call with Perigean. 
+12 completed sessions required.  Recruit 20 Veterans using Perigean recruiting services and the Perigean participant pool.  We will have a kickoff call with Perigean the week of **Monday, 3/3/25** and aim to start testing the week of **Monday, 3/17/25.** We will work with VTP and Perigean to begin the process of setting up a separate database of participants who come in through Travel Pay VSOs that can be used going forward.  The logistics of this will be addressed in the kickoff call with Perigean. 
 
-We will partner with Perigean to recruit Veterans. We request a 30 minute kickoff meeting with Perigean to align on what is needed and desired from the sample. Availability for potential kickoff meeting times with Perigean, depending on their availability is below.
+We will partner with Perigean to recruit Veterans. We request a 30 minute kickoff meeting with Perigean to align on what is needed and desired from the sample. Availability for potential kickoff meeting times with Perigean, depending on their availability is below.  Additional times can be made available based on Perigean's schedule.  
 
-Thursday, 2/27 4pm EST
-Friday, 2/28 11am EST
-Friday, 2/28 11:30am EST
+Thursday, 3/6 1:30pm EST
+Thursday, 3/6 4pm EST
+Friday, 3/7 11:30am EST
 
 
 
