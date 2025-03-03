@@ -172,7 +172,7 @@ Friday, 3/7 11:30am EST
 
 
 
-* Planned dates of research: Tuesday 3/11 - Thursday 3/20
+* Planned dates of research: Tuesday 3/18 - Thursday 3/27
 
 
 ### **Length of sessions**
@@ -184,66 +184,6 @@ Friday, 3/7 11:30am EST
 * Maximum Sessions per day: 5
 
 **Availability**
-
-**Tuesday, 3/11**
-
-10am EST - 11am EST
-
-11:30am EST - 12:30 pm EST
-
-1pm EST - 2pm EST
-
-2:30pm EST - 3:30 pm EST 
-
-4pm EST - 5pm EST 
-
-**Wednesday, 3/12**
-
-10am EST - 11am EST
-
-11:30am EST - 12:30 pm EST
-
-1pm EST - 2pm EST
-
-2:30pm EST - 3:30 pm EST 
-
-4pm EST - 5pm EST 
-
-**Thursday, 3/13**
-
-10am EST - 11am EST
-
-11:30am EST - 12:30 pm EST
-
-1pm EST - 2pm EST
-
-2:30pm EST - 3:30 pm EST 
-
-4pm EST - 5pm EST 
-
-**Friday, 3/14**
-
-10am EST - 11am EST
-
-11:30am EST - 12:30 pm EST
-
-1pm EST - 2pm EST
-
-2:30pm EST - 3:30 pm EST 
-
-4pm EST - 5pm EST 
-
-**Monday, 3/17**
-
-10am EST - 11am EST
-
-11:30am EST - 12:30 pm EST
-
-1pm EST - 2pm EST
-
-2:30pm EST - 3:30 pm EST 
-
-4pm EST - 5pm EST 
 
 **Tuesday, 3/18**
 
@@ -270,6 +210,66 @@ Friday, 3/7 11:30am EST
 4pm EST - 5pm EST 
 
 **Thursday, 3/20**
+
+10am EST - 11am EST
+
+11:30am EST - 12:30 pm EST
+
+1pm EST - 2pm EST
+
+2:30pm EST - 3:30 pm EST 
+
+4pm EST - 5pm EST 
+
+**Friday, 3/21**
+
+10am EST - 11am EST
+
+11:30am EST - 12:30 pm EST
+
+1pm EST - 2pm EST
+
+2:30pm EST - 3:30 pm EST 
+
+4pm EST - 5pm EST 
+
+**Monday, 3/24**
+
+10am EST - 11am EST
+
+11:30am EST - 12:30 pm EST
+
+1pm EST - 2pm EST
+
+2:30pm EST - 3:30 pm EST 
+
+4pm EST - 5pm EST 
+
+**Tuesday, 3/25**
+
+10am EST - 11am EST
+
+11:30am EST - 12:30 pm EST
+
+1pm EST - 2pm EST
+
+2:30pm EST - 3:30 pm EST 
+
+4pm EST - 5pm EST 
+
+**Wednesday, 3/26**
+
+10am EST - 11am EST
+
+11:30am EST - 12:30 pm EST
+
+1pm EST - 2pm EST
+
+2:30pm EST - 3:30 pm EST 
+
+4pm EST - 5pm EST 
+
+**Thursday, 3/27**
 
 10am EST - 11am EST
 
