@@ -72,7 +72,7 @@ For a complete technical diagram of the submission process, [visit this Mural](h
 To view the service design sketches we created, see our [Submission Experience Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711478063212/5b744d81f239e5ae30aaf28ff98414a9dc3c7e72?sender=u9f3830b1ee3516bdcf2e2000). Current-state maps date to April 2024.
 
  
-A list of resources we referenced can be found [in this spreadsheet.](https://docs.google.com/spreadsheets/d/1j9hnf0MBEMYxOYkPgev-AgRYPZW25ghICd8gKGtEp8o/edit#gid=0)
+A list of resources we referenced can be found [in this spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/7%20-%20Projects/2024%20Submission%20Experience/Discovery/%28Partial%29%20Resource%20List%20-%20526%20Submission%20Experience.xlsx?d=wc0fa90b4ddfd4c4ea5840a39019b590a&csf=1&web=1&e=T0fHbO).
 
 ## Submission Scenario Overview  
 See the [Submission Experience Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711478063212/5b744d81f239e5ae30aaf28ff98414a9dc3c7e72?sender=u9f3830b1ee3516bdcf2e2000) for current state blueprints.
