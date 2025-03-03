@@ -125,9 +125,9 @@ Our VA.gov facilities and services products are powered by the VA.gov Drupal CMS
 - [#sitewide-cms-platform](https://dsva.slack.com/channels/cms-team) - Drupal CMS Platform Team slack channel
 - [#cms-support](https://dsva.slack.com/channels/cms-support) - Drupal CMS Support slack channel
 
-**Facilities API**
+**Lighthouse Facilities API**
 
 - [Repo](https://github.com/department-of-veterans-affairs/vets-api)
 - [Documentation](https://developer.va.gov/explore/facilities/docs/facilities?version=current)
 - [Information about the data sources](https://github.com/department-of-veterans-affairs/lighthouse-facilities#readme)
-
+- [#cms-lighthouse](https://app.slack.com/client/T03FECE8V/C02BTJTDFTN) - Communication channel with Lighthouse Facilities API team
