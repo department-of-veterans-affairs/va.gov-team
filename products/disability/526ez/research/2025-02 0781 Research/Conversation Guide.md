@@ -445,8 +445,7 @@ Next, we’re going to walk through how you might add support to your claim. It 
 Look out for:
 
 * Expectations around evidence collection  
-* Comprehension of medical record option type  
-* Perception and comprehension of validation error
+* Comprehension of medical record option type
 
 ---
 
@@ -482,16 +481,15 @@ Look out for:
 
 * And here is an example of how an entry would look.
 
-* Based on this quick flythrough, 
+* Based on this quick flythrough, what questions do you have about the process of requesting medical records?
 
 *Look out for:*
 
-* *Behavior of multi-response add mode*  
-* *Cancelling from add mode*
+* *Comprehension of adding medical records* 
 
 ---
 
-#### **Task 4: Add & Modify Supporting Documents**
+#### **Task 4: Add Supporting Documents**
 
 We’re going to slow back down our review.  
 
@@ -520,7 +518,8 @@ For this next task, walk me through how you would respond to questions about sup
 
 ##### \[Screen 4- Evidence summary\] 
 
-* How did the evidence section meet or differ from your expectations?  
+* **4.1 Change evidence collection method:** Imagine you just realized that you already have copies of your medical records ready to upload – so you don’t need VA to request them for you anymore. How would you go about making this change in the form?  
+* **4.2 Evidence Flow:** How did the evidence section meet or differ from your expectations?  
   * Is there any additional information or context the design could have provided to improve it?
 
 *Look out for:*
