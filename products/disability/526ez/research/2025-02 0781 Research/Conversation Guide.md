@@ -16,7 +16,7 @@
 
   * Invite observers
 
-  * Invite your team and stakeholders to sessions. [Limit your observers](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#creating-a-safe-space-for-participants) to 3-4 per session so participants aren’t overwhelmed.
+    * Invite your team and stakeholders to sessions. [Limit your observers](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#creating-a-safe-space-for-participants) to 3-4 per session so participants aren’t overwhelmed.
 
 * Prepare as moderator
 
@@ -49,47 +49,43 @@
 
 * **Welcome, and thank you so much for taking the time to join us today.** My name is \[NAME\], and \[NOTETAKER NAME\] will be here to assist by taking notes. We’re here to listen and learn from your experiences. Would you like to briefly introduce yourself?
 
-* **Today, we’ll discuss a new section of the disability claim form on VA.gov** designed to support Veterans in claiming PTSD and related mental health conditions resulting from traumatic experiences during their time in the military, including sexual assault or harassment. This entire session should take about 90 minutes. We may not use the entire time. We’ll also have a scheduled break part way through the session.
+* **Today, we’ll discuss the disability compensation form,** including a new section designed to support Veterans in claiming PTSD and related mental health conditions. This session is scheduled for 90 minutes. We may not need to use the entire time, and you’ll have the option to stop at any point. 
 
-* **We want to ensure this process is as supportive and user-friendly as possible.** We’ll be showing you some in-progress designs for this form, which we like to call a prototype. Our questions will focus on your experience filling out this VA form, which could involve sharing some limited details about your own mental health or traumatic experiences. 
+* **We want to ensure this process is as supportive and user-friendly as possible.** We’ll be showing you some in-progress designs for this form, which we like to call a prototype. Our questions will focus on your experience filling out the form, which could involve sharing some limited details about your own mental health or traumatic experiences. 
 
-  * The details you share about your personal experiences with your filing experience or the claim submission itself are up to you. If you wish to keep your feedback focused on the online form itself, you’re also welcome to do that, too.
+* **Your participation in this interview is completely voluntary.** Whether you choose to participate or not will not affect your benefits with the VA. You will be paid for the whole session, even if we end early. You have control over the pace and any content we discuss. 
 
-* **Your participation in this interview is completely voluntary.** You have control over the pace and any content we discuss. Whether you choose to participate or not will not affect your benefits with the VA. You will be paid for the whole session, even if we end early. 
-
-* **Your honest feedback will help us improve this tool.** We truly value your opinions. There are no right or wrong answers here—this is about understanding your experience and how we can make this process better for everyone.
-
-* **If at any point you need a break**, want to skip a question, stop, or reschedule the session, please let us know. Your well-being is our priority. We can also check in to see how we feel as we go.
+* **If at any point you need a break**, want to skip a question, stop, or reschedule the session, let us know. We can also check in to see how we feel as we go.
 
   \[Pause\]
 
-* **Do you have any more questions for me before I continue?** 
+* **Do you have any questions so far?** 
 
 * **Are you comfortable participating in today’s session?** 
 
   * \[If yes\] Sounds good. We’ll check in throughout the session in case you change your mind. Your perspective is helpful regardless of how much of the session we complete. 
 
-  * \[If no\] Sounds good, thanks for your time today. If you decide you’d like to reschedule the session please reach out to Perigean.
+    * \[If no\] Sounds good, thanks for your time today. If you decide you’d like to reschedule the session please reach out to Perigean. Either way, we appreciate your joining us.  
 
 **A couple final logistics…** 
 
-* **I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview** — we have a couple folks who’d like to join, they include researchers and designers. Are you okay with a couple of additional observers during this session?
+* **I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview.** Are you okay with one additional observer joining us for this session? 
 
   * If no: Use Slack to kindly ask the observers to leave the Zoom.
 
-  * If yes: Admit observers.
+    * If yes: Admit observers.
 
-Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
+Then, ask the notetaker and observer to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
 
-\[Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth\]
+\[Once complete, ask the notetaker and observer to turn off their cameras for the remainder of the session to save bandwidth\]
 
-* We want to make sure you're comfortable with how we document today’s session. We have two options:
+* Next, we’d like to check in and see how you’d prefer we document today’s session. We have a couple of options: 
 
   * **We can record the audio and video.** This would help us double-check that we’ve captured your thoughts accurately. The recordings will be deleted after the study is completed, and none of your responses will be linked directly to you.
 
-  * **Alternatively, we can choose not to record.** In that case, we’ll take notes to reflect what we learn from you, but there will be no recordings.
+    * **Alternatively, we can choose not to record.** In that case, we’ll take notes to reflect what we learn from you, but there will be no recordings.
 
-* Please let us know which option feels best for you today. Your comfort and privacy are our priority
+* Which option would you prefer?
 
   *  If yes: If you end up deciding you’d prefer we not use the recordings, we’ll stop recording and delete what we’ve captured.
 
@@ -105,63 +101,59 @@ Before we look at the prototype, let’s start with a couple of warm-up question
 
 * Based on what you shared with Perigean, I see you claimed \[relevant condition\]. Is this correct?
 
-## **Technology Set-Up \+ Prototype Overview**
+## **Prototype Overview \+ Technology Set-Up**
 
-Now it’s time to send you the prototype we’d like to have you review. I am going to send you a link in the Zoom chat–please open the page when you receive it.
+Now it’s time to send you the prototype we’d like to have you review. 
 
-* [Prototype link](https://www.figma.com/proto/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?page-id=14990%3A2&node-id=15722-103002&viewport=18767%2C20102%2C0.84&t=XN3Ge3QyJ6ViISJl-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=15722%3A103002&show-proto-sidebar=1)
-
-Now, I’d like you to share your screen for the remainder of the session. Please let me know if I walk you through how to screen share.
-
-* [Troubleshooting guide for mobile](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions)
-
-* [General troubleshooting](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr)
-
-* **Next, we’ll explore a prototype with the new design.** The prototype will look like VA.gov, but certain elements like links and certain buttons don’t work like you would expect them to. For example, this prototype does not allow for typing. Wherever you encounter a text field, give us a sense of what you would expect to write.
+* **The prototype will look like VA.gov, but certain elements like links and certain buttons don’t work like you would expect them to**. For example, this prototype does not allow for typing. Wherever you encounter a text field, give us a sense of what you would expect to respond.
 
 * **As I mentioned, some parts of this form may ask about sensitive topics,** like your condition or a brief description of a traumatic event. You can share as much or as little as you’re comfortable with, and it’s okay to pause or skip any questions.
 
   * As we go through, you can use your own personal experience to complete the form.
 
-  * Or, if you’re not comfortable sharing your personal experience, you can silently imagine how you might answer questions, and speak generally about how someone might respond.
+    * Or, if you’re not comfortable sharing your personal experience, you can silently imagine how you might answer questions, and speak generally about how someone might respond.
+
+* **Your honest feedback will help us improve this tool.** We truly value your opinions. There are no right or wrong answers here—this is about understanding your experience and how we can make this process better for everyone.
 
 * **Whenever you can, talk out loud to share your thought process as you complete tasks.** This will help me understand your experience. I might remind you to think out loud because this can feel unnatural and be easy to forget.
 
+* **I am going to send you a link to the prototype** in the Zoom chat–please open the page when you receive it.
+
+[Prototype link](https://www.figma.com/proto/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?page-id=14990%3A2&node-id=16013-56374&viewport=2354%2C-895%2C0.1&t=6sbEczo7TStGBfpA-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=16013%3A56374&show-proto-sidebar=1%20)
+
+Now, I’d like you to share your screen for the remainder of the session. Let me know if I walk you through how to screen share.
+
+* [Troubleshooting guide for mobile](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions)
+
+* [General troubleshooting](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr)
+
 ---
 
-## **Conditions- Step 2 (5-10 min)**
+## **Conditions- Step 2 (\>5 minutes)**
 
-For today’s session, we are going to imagine you’re filing for disability benefits for the first time. Assume that you’ve already logged into [VA.gov](http://va.gov) and completed the first step of the form– focused on questions about your contact information and military service. You are currently working on the second part of the form– adding the conditions you are filing for.
+For today's session, you'll imagine you're filing for disability benefits for the first time. You've already logged into VA.gov and completed the first step of the form. This covers your contact information, and military service.
 
-For the purpose of this study, we have already added 2 conditions to the prototype– tinnitus and asthma. We know this won’t exactly match your experience, so you can imagine that it reflects whatever conditions you would enter, personally.
+Imagine you are now working through Step 2 and just finished adding conditions to your claim. As you see here, we've pre-filled a few sample conditions for the prototype, including PTSD. You can think of them as whatever conditions you'd personally be entering. 
 
-#### **Task 1:  Add Mental Heath Condition**
+#### **Task 1: Step 2 Overview** 
 
-First, we would like to see how you would approach adding a condition to your claim. It would take us about 5-10 minutes. Is that ok with you? 
+We are going to move quickly through the rest of step 2\. They are not relevant for our study, but will give you context for how the form works. 
 
-##### \[Add condition flow\]
+##### \[Conditions list\]
 
-*Look out for:*
+* This screen highlights the conditions you just entered. Click continue.
 
-* *Learning here will contribute to Goal 1 (Understanding of Form Structure)*
+##### \[TE screen\]
 
-* *How does repetition of service connection questions impact Veteran perception of the flow overall*
+* We will not be looking at toxic exposure questions today. Click continue.
 
-##### \[Toxic Exposure opt-in screen\] 
+\[POW screen\] 
 
-* Next, we are going to move quickly through a handful of screens that are not relevant to our study.
-
-  * Select “I am not claiming any conditions related to toxic exposure” and press continue.
-
-##### \[POW screen\] 
-
-* On this screen, you would typically add information about any time spent as a POW. Select “No” and press continue.
+* On this screen, you would typically add information about any time spent as a POW. Click continue. 
 
 ##### \[Additional Benefits opt-in\] 
 
-* Select “No” and press continue.
-
-**\[Researcher to pause– take an  informal wellness check before continuing\]**
+* We will not claim additional benefits in today’s study– Click continue.
 
 ---
 
@@ -169,15 +161,22 @@ First, we would like to see how you would approach adding a condition to your cl
 
 ### 0781 Intro (5 min)
 
-Thanks for your patience moving quickly through those screens. We are going to slow down now for the rest of the session. For each page, review the content and tell me what you’re thinking.
+Thanks for your patience moving quickly through those screens. We’re going to slow down now for the rest of the session. 
+
+The next part of the design touches on traumatic experiences. It should take around 15 minutes– are you ok to continue?
+
+Please complete each page however you would do it if you were alone. I will prompt you with questions as we go. 
+
+* You can respond using your own experience, or speak more generally.   
+* Do your best to share your thought process out loud if you’re comfortable. 
 
 #### **Task 1: Comprehension of 0781 Intro \+ Opt-in**
 
 ##### \[0781 choice page\]
 
-* How would you complete this page, personally? 
-
-  * What do you think is the purpose of this page?
+* What was your thought process for selecting \[x\]?  
+  * Did any information on this page help you to make your decision?   
+  * \[If other than yes was selected\] Please select “yes” for the purpose of our study.
 
 *Look out for:*
 
@@ -189,16 +188,16 @@ Thanks for your patience moving quickly through those screens. We are going to s
 
 ### 0781 Traumatic events (15 min)
 
-Next, we would like to go through a part of the design that asks about traumatic events you may have experienced. You can draw from your own experience or respond generally. The section would take us about 15 minutes. Would that be alright with you? 
-
 #### **Task 2: Comprehension of Intro Content**
 
 ##### \[Screen 1- Mental health support\]
 
+* This page includes a list of mental health resources that are available to you through VA. We’re going to move past it for the sake of time. 
+
 ##### \[Screen 2-Events intro\] 
 
-* What do you think this page is saying?  
-* What do you expect will happen next?
+* How would you describe the purpose of this page?  
+  * Based on this page, what do you expect will happen next?
 
 *Look out for:*
 
@@ -211,28 +210,34 @@ Next, we would like to go through a part of the design that asks about traumatic
 
 ##### \[Screen 1- Types of Traumatic Events\] 
 
-* What information on this page, if any, did you find unclear or confusing?
+* Do you have any questions about the information on this page? If so, what?
 
 ##### \[Screen 2- Event list\]
 
+* \[If the user opts out of traumatic events\] Are you comfortable explaining how you decided to skip traumatic events?   
+  * For our purposes, do you mind adding an event? You do not need to use your own experience. 
+
 ##### \[Screen 3- Event details\]
+
+* \[Observe and prompt to continue\]
 
 ##### \[Screen 4- Official report\] 
 
-* \[After participant walks through the page\] For our purposes, imagine you would select "police report."
+* Was any content on this page unclear or confusing? If so, which?  
+* For our purposes, imagine you would select "police report."
 
-##### \[Screen 5-Police report\] 
+\[Screen 5- Police report\]
 
-* If you decided you didn't want to add police report information, how would you expect to remove it?   
-  * What is the purpose of the yellow alert?
+* \[Observe and prompt to continue\]
 
-##### \[Event list summary\] 
+##### \[Screen 5- Event list summary\] 
 
-* Overall, how useful do you find this screen?
+* For the sake of the study, we’ve added fake information about a traumatic event to this card. You can imagine your personal information is represented here.   
+  * What do you think is the purpose of this screen? 
 
 **Post-Task Qs:**
 
-* Do you have any thoughts or feedback on the design? 
+* What feedback do you have on the design for adding a traumatic event?
 
 *Look out for:*
 
@@ -247,16 +252,24 @@ Next, we would like to go through a part of the design that asks about traumatic
 
 Now I’m going to ask you to show me how you would go about changing your responses. 
 
-**4.1 Edit Event**: Imagine you made a mistake when entering the date for \[x event\]. How would you change it?
+**4.1 Edit Event**: Imagine you entered the wrong date for a traumatic event. How would you go about fixing it? 
 
 *Look out for:*
 
 * *Perceived differences between the edit and add flow*  
 * *Attempts to return to previous page from an interior page (not possible)*
 
-**4.2 Cancel Add from Edit mode**: If you wanted to cancel the change you just made, how would you do it?
+**4.2 Cancel Edit**: Imagine you rewrote your description of a traumatic event, but decided you preferred your original answer. How would you undo your change?
 
 * In your own words, what is the yellow alert saying?
+
+* What would you expect to happen if you pressed the “X” in the upper right corner? 
+
+  * For our purposes, go ahead and press that X and continue. 
+
+##### **4.3 Remove Police Report:** Imagine you decided you don’t want to include a police report in your claim. How would you remove it?
+
+* What is the purpose of the yellow alert?
 
 *Look out for:*
 
@@ -264,7 +277,7 @@ Now I’m going to ask you to show me how you would go about changing your respo
 * *Understanding that users can cancel on an interior page the middle of an edit flow without losing content on earlier page*  
 * *Attempts to return from a page from an interior page (not possible)*
 
-**4.3 Delete Event**: Imagine you changed your mind. You no longer want to include \[x event\] on your claim. How would you remove it?
+**4.4 Delete Event**: Imagine you decided you don’t want to include the event on your claim. What would you do next?
 
 * In your own words, what is the yellow alert saying?
 
@@ -275,7 +288,7 @@ Now I’m going to ask you to show me how you would go about changing your respo
 
 **Overall Post-Task Qs:**
 
-* How easy or difficult was it to make changes?  
+* On a scale of 1 to 5, how was your experience making these changes? With 1 being very difficult to 5 being very easy.  
 * How would you feel about submitting your claim without any traumatic events?
 
 **\[Researcher to pause– take an  informal wellness check before continuing\]**
@@ -284,9 +297,11 @@ Now I’m going to ask you to show me how you would go about changing your respo
 
 ### 0781 Behavioral Changes (15 min)
 
-Next, we would like to go through a part of the design that deals with behavioral changes. It would take us about 15 minutes. Would that be alright with you? 
+The next set of tasks will focus on how your life changed as a result of your traumatic experiences. It will take about 15 minutes. Are you ok to continue?
 
-#### **Task 5:  Comprehension \+ Add Behavioral Choices**
+Continue reviewing the form at your own pace. As before, you can respond using your own experience, or speak more generally. 
+
+#### **Task 5:  Comprehension \+ Add Behavioral Changes**
 
 ##### \[Screen 1- Intro page\] 
 
@@ -295,15 +310,17 @@ Next, we would like to go through a part of the design that deals with behaviora
 
 ##### \[Screen 2- only Combat\] 
 
-* Explain how you decided what to select on this page.
+* \[non-Combat\] This page wouldn’t be relevant for your claim. Let’s continue on.
+
+* \[Combat only\] Explain how you decided what to select on this page.
 
 ##### \[Screen 3- Behavior list\] 
 
-* \[After participant selects\] What, if anything, do you find unclear or confusing on this page?
+* \[After participant walks through page\] For this task, please select at least 3 behavioral changes. 
 
 ##### \[Screen 4- Behavior description\]
 
-* You’ll notice on this page that the behavior doesn’t match the one you selected on the previous page. Imagine for our purposes that this matched one of the boxes you checked on the last page.
+* You’ll notice on this page that the behavioral changes don’t match the ones you selected. Imagine for our purposes that this matched one of the boxes you checked on the last page.
 
 ##### \[Screen 5- Behavior summary\]
 
@@ -311,7 +328,7 @@ Next, we would like to go through a part of the design that deals with behaviora
 
 **Post-Task Qs:**
 
-* Do you have any thoughts or feedback on the design? 
+* What feedback do you have on the design for adding a behavioral change? 
 
 *Look out for:*
 
@@ -322,19 +339,21 @@ Next, we would like to go through a part of the design that deals with behaviora
 
 #### **Task 6: Modify Behavioral Changes**
 
-Next, I’m going to ask you to show me how you would go about changing your responses. 
+Next, I’m going to ask you to show me how you would go about changing your responses. You’ll notice we’ve added sample content about behavioral responses for this task.  
 
 ##### \[Edit behavior- Behavior summary\]
 
-**6.1  Edit Behavioral Change**: Imagine you decide you want to edit a description to one of your behavioral changes. How would you do it?
+**6.1  Edit Behavioral Change**: Imagine you decide you want to change a description of one of your behavioral changes. How would you do it?
 
 *Look out for:*
 
 * *Ease of making edits, navigation*
 
-**6.2  Remove Behavioral Change:** Imagine you no longer want to include \[x behavior\] on your claim. How would you remove it?
+**6.2  Remove Behavioral Change:** Imagine you no longer want to include the behavioral change “I experienced other behavioral changes that were not in this list” on your claim. How would you update your claim?
 
 * In your own words, what is the yellow alert saying?
+
+**6.3 Return to Summary Screen:** Imagine you wanted to review your answers on the summary page. How would you navigate there? 
 
 *Look out for:*
 
@@ -344,8 +363,8 @@ Next, I’m going to ask you to show me how you would go about changing your res
 
 **Post-Task Qs:**
 
-* How easy or difficult was it to make these changes?  
-* How would you feel about submitting your claim without adding any behavioral changes
+* On a scale of 1 to 5, how was your experience making these changes? With 1 being very difficult to 5 being very easy?  
+* How would you feel about submitting your claim without adding any behavioral changes?
 
 ---
 
@@ -365,29 +384,35 @@ Do you feel ready to continue? It’s up to you. You have control over the pace 
 
 #### **Task 7: Review and Opt out**
 
-We're going to pick up where we left off. Continue to review the pages; I will ask questions and prompt you to answer questions as we go. This section will take around 5 minutes. 
+We're going to pick up where we left off. Please continue to review and complete pages.
 
 ##### \[Screen 1- only MST-Consent\] 
 
-* What questions do you have about this page, if any?
+* \[MST only\] Do you have any questions about this page?
 
-##### \[Screen 2- Additional information\] 
+* \[non-MST\] This page wouldn’t be relevant for your claim. Let’s continue on.
 
-* Would you expect to add anything to this page?
+\[Screen 2- Additional information\] 
+
+* \[Observe and prompt to continue\]
 
 ##### \[Screen 3- 0781 Review\] 
 
-* Based on this page, where do you think you are in the disability compensation form? 
+* Looking at this screen, where do you think you are in the disability compensation form process?
 
-* \[Opt-out\] Imagine you decided that you don’t want to submit a mental health statement as part of your claim. How would you remove it? 
+* Which aspects of the mental health statement surprised you, for good or for bad?
+
+  * Is there any additional information or context the design could have provided to improve the experience?
+
+* \[Opt-out\] Imagine you decided that you don’t want to submit a mental health statement as part of your claim. What would you do? 
 
   * What is the yellow alert trying to communicate?
 
+    * What would you expect to be deleted from your claim?
+
 **Post Task Qs**
 
-* Can you describe your experience removing the form?
-
-* What would you expect to be deleted from your claim? 
+* On a scale of 1 to 5, how was your experience removing the form? With 1 being very difficult to 5 being very easy?
 
 *Look out for:*
 
@@ -399,7 +424,7 @@ We're going to pick up where we left off. Continue to review the pages; I will a
 
 ## **Evidence- Step 4 (15-20 min)**
 
-Next, we would like to go through a part of the design that deals with behavioral changes. It would take us about 15-20 minutes. Would that be alright with you? 
+Next, we’re going to walk through how you might add support to your claim. It would take us about 15-20 minutes. Does that sound ok?
 
 #### **Task 1: Selection of Evidence Type/Submission Method**
 
@@ -407,47 +432,33 @@ Next, we would like to go through a part of the design that deals with behaviora
 
 *  Based on this page, what do you think will happen next?
 
-
 ##### \[Screen 2- Medical record source choice page\] 
 
-* What are your options for including medical records?
+* What was your thought process for deciding how to respond?
 
-  * Which would you select?
-
-* *\[Prompt validation error\]* For our purposes, please select Private Medical Records and "I don't want to review any medical records for my claim" and press continue.  
-  * In your own words, what just happened? What would you do next?
+* For our purposes, please select “Private”
 
 ##### \[ Screen 3- PMR Submission method page\] 
 
-* What do you think is the purpose of this page?
-
-* For our purposes, select "I have medical records from some providers, but I need you to request records from other providers.
+* For our purposes, “I want VA to request my records from all my providers” 
 
 Look out for:
 
-* Expectations around evidence collection
-
-* Comprehension of medical record option type
-
+* Expectations around evidence collection  
+* Comprehension of medical record option type  
 * Perception and comprehension of validation error
 
 ---
 
-#### **Task 2: Upload PMR & Complete 4142**
+#### **Task 2: Complete 4142**
 
-##### \[Screen 1- Non-VA upload\] 
+##### \[Screen 1- 4142 Auth\] 
 
-* What information on this page, if any, do you find unclear or confusing?
+* What is this page asking you to do, in your own words? 
 
-* \[Delete upload\] Imagine you wanted to remove the document you uploaded. How would you do it?
+  * Do you have any questions about the content on this page?
 
-  * In your own words, what is the yellow alert saying?
-
-##### \[Screen 2- 4142 Auth\] 
-
-* What is the purpose of this page?
-
-*Look out for:*
+Look out for:
 
 * *Comprehension of upload process*  
 * *Understanding of options/limited consent of 4142*  
@@ -455,21 +466,23 @@ Look out for:
 
 ---
 
-#### **Task 3: Add & Modify Private Provider Info**
+#### **Task 3: Add Private Provider Info**
 
 ##### \[Screen 1- Private Provider Request\]
 
-Walk me through how you would add a new provider. 
+* For the sake of time, we’re going to move quickly through requesting medical records.
 
-##### \[Screen 2- Add non-VA provider\] 
+  * In order for VA to collect medical records on your behalf, they need provider information. Go ahead and select “Add a treatment provider.”
 
-* \[Navigate back in add mode\] From this page, imagine you forgot which facilities you already listed. How would you check and see?
+##### \[Screen 2- Add non-VA information\]
 
-* \[Delete from add mode\]**:** Imagine you changed your mind. You no longer want to include this provider on your claim. How would you do it?
+* Imagine you’d fill out contact information for your provider and press continue.
 
 ##### \[Screen 3- Review page\] 
 
-* What information about your provider request would you expect to see on one of these cards?
+* And here is an example of how an entry would look.
+
+* Based on this quick flythrough, 
 
 *Look out for:*
 
@@ -480,18 +493,25 @@ Walk me through how you would add a new provider.
 
 #### **Task 4: Add & Modify Supporting Documents**
 
-Next, show me how you would respond to questions about supporting documents. 
+We’re going to slow back down our review.  
+
+For this next task, walk me through how you would respond to questions about supporting documents. 
 
 ##### \[Screen 1- Supporting doc choice page\] 
 
-* Do you have any questions about anything on this page? 
+* What is the purpose of supporting documents, based on this page?
 
-  * For our purposes, imagine you wanted to add a lay or witness statement.
+  * How do they compare to the earlier evidence collection?
+
+* For our purposes, select both “Lay statements from family members or roommates” and “I don’t have any supporting documents.”
+
+  * \[Validation error\] What just happened? How would you go about fixing it? 
+
+    * \[Once fixed\] Let’s move ahead with the lay statement selected.
 
 ##### \[Screen 2- Lay statement upload\] 
 
-* What, if anything, is missing or confusing about this page?
-
+* What questions do you have about this page, if any?  
 * We can assume you uploaded the document and keep moving here. 
 
 ##### \[Screen 3- Upload supporting doc\] 
@@ -500,14 +520,8 @@ Next, show me how you would respond to questions about supporting documents.
 
 ##### \[Screen 4- Evidence summary\] 
 
-* Imagine you decided you no longer want to provide any private medical records. How would you remove them from your claim?
-
-  * In your own words, what is the yellow alert trying to say?
-
-**Post-Task Qs:**
-
-* What do you think is the purpose of this \[review\] page?  
-* What do you expect will happen next?
+* How did the evidence section meet or differ from your expectations?  
+  * Is there any additional information or context the design could have provided to improve it?
 
 *Look out for:*
 
@@ -520,9 +534,9 @@ Next, show me how you would respond to questions about supporting documents.
 
 ## **0781 Opt-out (5 min)**
 
-#### **Task: Remove 0781**
+#### **Task 5: Remove 0781**
 
-We’re going to skip over Step 5 of the disability compensation form and end today’s session by looking at the final page in the form. 
+We’re going to move onto the final step of the disability compensation form and end today’s session by looking at the final page in the form. 
 
 \[Review and Submit page\]
 
@@ -531,7 +545,7 @@ Imagine you decided that you don’t want to submit a mental health statement as
 **Post-Task Qs:**
 
 * What do you expect would happen if you opted out?  
-* How easy or difficult was it to delete the form?
+* On a scale of 1 to 5, how was your experience removing the form? With 1 being very difficult to 5 being very easy?
 
 *Look out for:*
 
@@ -545,7 +559,7 @@ Imagine you decided that you don’t want to submit a mental health statement as
 
 Thank you so much for walking us through the designs. Before we reach the end of the session, we have 10 minutes of wrap-up questions. 
 
-- Were there any aspects of the process we just went through that stood out as positive or negative?
+* If a fellow Veteran was thinking about filing for a mental health condition, what would you tell them about the process you experienced today– whether positive or negative? 
 
 * Were there any points where the transition between pages of the form felt abrupt or disconnected? If so, where?
 
@@ -555,11 +569,11 @@ Thank you so much for walking us through the designs. Before we reach the end of
 
   * \[If no\] What were the moments that were unexpected or confusing?
 
-* When you were filling out the form, did you know which questions were optional and which ones were required?
+* When you were filling out the form, did you understand which questions were optional and which ones were required?
 
   * Would you have felt comfortable skipping sections? Why or why not?
 
-* How did you find the process of removing or changing information within the form?
+* Overall, how easy or difficult did it feel to change your mind and make adjustments to the form?
 
 * If you had a magic wand and could change anything about the process we just went through, what would it be?
 
@@ -570,8 +584,6 @@ Do you have any questions for me before we end the session?
 ## **Thank-You and Closing  (5 min)**
 
 **We really appreciate you taking the time to share your thoughts with us today.** Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-**Lastly, Perigean will be sending you a thank you note** with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 **Thank you once again for sharing your time and experiences with us.** Your feedback is invaluable, and we appreciate your contribution. Please take care, and have a wonderful rest of your day.
 
