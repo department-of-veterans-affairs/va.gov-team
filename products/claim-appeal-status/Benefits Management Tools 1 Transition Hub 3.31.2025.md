@@ -14,31 +14,27 @@
 <br>
 
 ## Table of Contents
-[Product context, portfolio, and artifacts](#product-context)
+[Product context, portfolio, and artifacts](#portfolio-context)
 
 [Roadmap](#roadmap)
 
 [Features and initiatives we worked on](#Features-and-initiatives-we-worked-on)
 
-[Our team, VA relationships, and stakeholder meeting cadence](#Our-team-March-2022-team-roster)
+[Enablement Team Contacts](#enablement-team)
 
 
 <br>
 
-## Product context 
-The 10-10EZ: Application for VA health care was one of the first applications to be adapted to online on va.gov. Currently we are working to improve the UX and functionality. 
-
-- Used by Veterans to apply for health care
-- Averaging 12,500 submissions per month
-- Login is available, but not required
-     - Some fields are prefilled for authenticated users
-     - Authenticated users can "save in progress" and return to complete their application
+## Portfolio context 
+### Claim Status Tool
+### VA Benefits Letters
+### Rated Disabilities
 
 <br>
 
 
 ### Product portfolio
-**10-10EZ Application VA health care**
+**Claim Status Tool**
 - [Staging link](https://staging.va.gov/health-care/apply/application/introduction)
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
@@ -54,6 +50,8 @@ The 10-10EZ: Application for VA health care was one of the first applications to
 
 ### Product artifacts
 - [Content source of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/10-10EZ-application-copy.md)
+- [Claim Status Tool Data Flow Diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1663867462895/b0161ab939bba7d08f6bea07e3663d9d5cea22d4)
+- [Upstream Service Contacts](link)
 - [Page/User flow](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923531828/474bfdde942c22a0df26ad416a0b23e36b834d4a?sender=u6ad375c1c8425e5bfec67027)
 - [Sketch file](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6) with wireflows and page designs (including proposals and experiments)
 - [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
@@ -125,51 +123,14 @@ This table includes links to the individual feature directory and the latest ite
 
 <br>
 
+## Enablement Team
 
-## Our team 2023 team roster
-
-- Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
-- Nick Osmanski | nick.osmanski@va.gov / nick.osmanski@amida.com -- UX Design/Research
-- Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
-- Matt Long | matthew.long@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
-- Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
-
-## VA relationships
-
-- Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
-- Patrick Bateman | patrick.bateman@va.gov - Product Owner
-- Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
-- Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
-- Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
-- Danielle Thierry | danielle.thierry@va.gov -- Content writer
-
-**HEC (Health Eligibility Center) Program Team**
-- **TBD** (main point of contact between the program and VA.gov) - Tarsha Tremble was previous HEC Project lead, and has moved to another position. As of 2/13/2023, we are still pending a new project lead.
-- Edward Horne | edward.horne@va.gov -- Associate Director, HEC
-- Stacey Echols  | stacey.echols@va.gov  --  Deputy Director, HEC
-- Christopher Hawkins  | christopher.hawkins2@va.gov  -- Supervisory Management Analyst
-- Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
-- Cheylanda Griffith  | cheylanda.griffith@va.gov  --  Supervisory Program Specialist
-- Kimberly Bostic | Kimberly.Bostic@va.gov -- Associate Director, QA division HEC
-- Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
-- Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
-- Annie Rice | Annie.Rice@va.gov -- Contact Representative office
-
-**Enrollment System (ES)**
-- Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD
+- Amy Lai | lauren.alexanderson@va.gov - Product Owner
+- Julie Strothman | patrick.bateman@va.gov - Design Lead
+- Cory Osbourne | katherine.lawyer@va.gov - Engineering Lead
+- Zack Goldfine | mark.dewey@va.gov - Deputy CTO, Benefits Lead
+- Steve Albers |stephen.barrs@va.gov - Engineering Product Owner
 
 
-<br>
-
-
-### Recurring stakeholder meetings
-
-- 10-10EZ Online Application Update
-   - HEC team and VA.gov team meet bi-weekly on Wednesdays at 2pm ET/11am PT for 1 hour
-   - **TBD** is main POC for agenda
-
-
-
-<br>
 
 ---
