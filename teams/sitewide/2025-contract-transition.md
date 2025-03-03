@@ -1,4 +1,4 @@
-# Sitewide (Facilities / Public Websites) March 2025 contract transition
+# Sitewide Facilities & Public Websites - March 2025 contract transition
 
 ## Table of contents
 1. Strategic Priorities slack list
