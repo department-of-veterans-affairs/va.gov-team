@@ -7,7 +7,7 @@ April 2024
 ## Background  
 This document is a part of the discovery that took place in Spring 2024, but focuses only on findings from Veteran user research.
 
-Separating it from t[he main discovery document](https://docs.google.com/document/d/15GAoSNIlhfXOkz8dKGUtZU0wVk2VHGMdmMJ_sPKmah4/edit) to improve findability.
+Separating it from [the main discovery document](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/7%20-%20Projects/2024%20Submission%20Experience/Discovery/UX%20and%20Systems%20Discovery%20-%20526%20Submission%20Experience.docx?d=w5ae740489dd9484f88aebded25eafd46&csf=1&web=1&e=QKCK6J) to improve findability.
 
 ## Relevant links
 
