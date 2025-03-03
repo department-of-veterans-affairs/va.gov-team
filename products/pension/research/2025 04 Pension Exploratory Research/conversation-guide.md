@@ -170,23 +170,21 @@ We understand that you applied using the [insert application type noted in scree
 - *What factors (specific to the form or otherwise) most contributed to successful or unsuccessful completion of the application?*
 
 
-## Results Post-Submission or "Abandon" (e.g. Stopping the Process) - 15 minutes
+## Results Post-Submission or Stopping the Process - 15 minutes
 
 We understand from the screener that the application was [submitted or stopped]. Is this correct?
 
-**Abandoned**
+**Stopped**
 
 - Can you share what led you to not go through with finishing the application?
 
 - Were there any follow up steps or communications you initiated after pausing the application?
 
-- *Moderator note: While technically an incomplete form might be classified as an “abandon,” this verbiage might be distressing or raise defensiveness for the participant. Therefore ****we are using the word “stopped” in how the questions are framed****. *
-
 - Were there any follow up steps or communications you got from the VA or others after pausing the application?
 
 - Can you share how it felt at this point in the process (e.g. frustrated, confused, motivated for resolution, etc.)
 
-- *Moderator note: be aware this might be sensitive for the participant to share and we should be listening actively and empathizing as appropriate; but also making sure to not express stronger sentiment than that of the participant.* \
+- *Moderator note: be aware this might be sensitive for the participant to share and we should be listening actively and empathizing as appropriate; but also making sure to not express stronger sentiment than that of the participant.*
 
 
 **Submitted** 
@@ -210,7 +208,7 @@ We understand from the screener that the application was [submitted or stopped].
 - What, if any, questions did you have that were or were not addressed?
 
 
-**If Approved for Pension **
+**If Approved for Pension**
 
 - After you had gone through the process of getting approved, was there anything that was challenging or surprised you about the steps you had to take to actually get your payments?
 
