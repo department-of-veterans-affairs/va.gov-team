@@ -60,16 +60,12 @@ August 2024 - Present (Implementation Change Management)
 |Project Manager|Heather Galvan-Guzman|heather@themostudio.com|heather.galvan@va.gov|
 |CX Strategist|Bess Green|bess@digitalfoundry.com|
 |Systems Architect| Steve Dickson|sdickson@greenthreadsllc.com|steve.dickson@va.gov|
-|Sr. Project Manager|Aiden Barr|aiden@themostudio.com|aiden.barr@va.gov|
 |Event Planner|Katie Parks|katie@themostudio.com|
 |Software Engineer|John Marchi|j_marchi@digitalfoundry.com|
-|Manager, Design Strategy|Sophia Philip|sophia@themostudio.com|sophia.philip@va.gov
 |Content Strategist|Tristan Jung|tristan@themostudio.com| tristan.jung@va.gov|
-|UX Designer|Jonathan Post|jonathan@themostudio.com|jonathan.post@va.gov|
 |Service Designer, Supervisor|Christine Julian|christine@themostudio.com|christine.julian@va.gov|
 |UX Strategist|Matthew Declercq|m_declercq@digitalfoundry.com|
 |Service Designer|Jillian King|jillian@themostudio.com|jillian.king@va.gov|
-|Sr. Service Designer|Sofia Kirkman|sofia@themostudio.com|Sofia.Kirkman@va.gov| 
 |Accessibility Specialist|Josh Kim| 
 </details>
 
