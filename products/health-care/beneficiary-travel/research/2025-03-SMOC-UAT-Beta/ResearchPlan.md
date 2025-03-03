@@ -110,13 +110,11 @@ Friday, 3/7 11:30am EST
 
 * All have VA health care as a benefit
 * All must have traveled for a medical appointment at least once in the past year
-* 5 must be new claimant with a complex claim for an appointment in the past 6 months that has not yet been submitted
-* 4 must be established claimant with a complex claim for an appointment in the past 6 months that has not yet been submitted
+* 5 must be new claimant with a complex claim for an appointment dated 2/22/25 - 3/24/25 that has not yet been submitted
+* 5 must be new claimant with a simple mileage only claim for an appointment dated 2/22/25 - 3/24/25 that has not yet been submitted
+* 5 must be established claimant with simple mileage only claim for an appointment dated 2/22/25 - 3/24/25 that has not yet been submitted
+* 4 must be established claimant with a complex claim for an appointment dated 2/22/25 - 3/24/25 that has not yet been submitted
 * 1 must be an established claimant with a recently submitted claim
-* 2 must be new claimant with a simple mileage only claim for an appointment in the past 6 months that has not yet been submitted
-* 3 must be new claimant with a simple mileage only claim for an appointment completed Wednesday, 2/19/25 - Wednesday, 2/26/25 that has not yet been submitted
-* 2 must be established claimant with simple mileage only claim in the past 6 months that has not yet been submitted
-* 3 must be established claimant with simple mileage only claim for an appointment completed Wednesday, 2/19/25 - Wednesday, 2/26/25 that has not yet been submitted
 
 *Secondary criteria (nice-to-haves)*
 
@@ -140,13 +138,15 @@ Friday, 3/7 11:30am EST
     * Yes, I have filed for travel reimbursement [meets established claimant criteria]
     * No, I have never filed for travel reimbursement [meets new claimant criteria]
 
-3. Did you complete a medical appointment at a VA Medical Center or VA Outpatient Clinic between the dates of Wednesday, 2/19/25 - Wednesday, 2/26/25?
-    * Yes
-    * No
+3. Did you complete or do you intend to complete a medical appointment at a VA Medical Center or VA Outpatient Clinic between the dates of Saturday, 2/22/25 - Monday, 3/24/25?
+    * Yes, I have already completed the appointment
+    * Yes, I have an appointment upcoming within those dates that I intend to complete
+    * No [not eligible for study]
       
-4. Have you filed for travel reimbursement for your most recent medical appointment at a VA Medical Center or VA Outpatient Clinic?
+4. Have you filed for travel reimbursement for your medical appointment at a VA Medical Center or VA Outpatient Clinic between the dates of Saturday, 2/22/25 - Monday, 3/24/25 ?
     * Yes [meets criteria for confirm submission] 
-    * No [meets criteria]
+    * No, the appointment has happened but I have not submitted for travel reimbursement [meets criteria]
+    * No, I have not submitted for travel reimbursement as the appointment has not yet happened [meets criteria]
       
 5. Considering your most recent trip to a VA Medical Center or VA Outpatient Clinic for a medical appointment, which of the following, if any, would you file for? Select all that apply.
     * Reimbursement **only** for gas mileage from my house to the clinic [meets criteria for simple mileage only claimant]
