@@ -113,7 +113,7 @@ I have started recording. Just to confirm: Are you comfortable if I record my sc
 
 ## First Task: Learning about Pension - 10 minutes
 
-*When and how did you first learn about the Veterans pension benefit?
+### When and how did you first learn about the Veterans pension benefit?
 
 - Were there specific factor(s) that led you to seek out or apply for the pension benefit at the time you did?
 
@@ -133,12 +133,6 @@ I have started recording. Just to confirm: Are you comfortable if I record my sc
 
 - *Were there any people, programs, communications, etc. that were particularly helpful or unhelpful in learning about Veterans pension and applying?*
 
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
 
 ## Second Task: [TASK NAME] - X minutes
 
