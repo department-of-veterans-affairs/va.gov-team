@@ -1,8 +1,8 @@
-# Note: This page is in draft
+![image](https://github.com/user-attachments/assets/10aee5ef-dcc1-4c8b-b52b-16ed293c13f6)# Note: This page is in draft
 # Unauthenticated page experience ratings: February 2025
 ## Related overall scores
 - **Total customer satisfaction score:** 57.3% (0% change from last period)
-- **Average resources and support good/bad experience score:** XX% "good" experience rating overall XXXX out of XXXXX total)
+- **Average resources and support good/bad experience score:** 62% "good" experience rating overall 9,874 out of 15,806 total)
 
 ## Experience ratings (1 to 5 scale)
 
@@ -25,9 +25,9 @@ All pages have ratings of 2 or below.
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
-  - XX% (XX of XXX) R&S pages have a 75% or higher "good" score
-  - XX% (XX of XXX) R&S pages have a 51% - 74% "good" score
-  - XX% (XX of XXX) R&S pages have a 50% or lower "good" score
+  - 52% (70 of 136) R&S pages have a 75% or higher "good" score
+  - 21% (29 of 136) R&S pages have a 51% - 74% "good" score
+  - 27% (36 of 136) R&S pages have a 50% or lower "good" score
     
 - **Breakdown of resources and support scores by 10s:*
 
@@ -41,17 +41,32 @@ All pages have ratings of 2 or below.
    
 ### 5 resources and support pages with the lowest "good" ratings percentage overall and at least 10 total responses
 
-1.     
+1. [Can I call VA to reset my login.gov or ID.me password](https://www.va.gov/resources/can-i-call-va-to-reset-my-logingov-or-idme-password/) (8% good out of 12 total responses)
+2. [How to get help with concerns at a VA health facility](https://www.va.gov/resources/how-to-get-help-with-concerns-at-a-va-health-facility/) (12% good out of 26 total responses)
+3. [Support for common login.gov and ID.me issues](https://www.va.gov/resources/support-for-common-logingov-and-idme-issues/) (13% good out of 449 total responses)
+4. [Can I delete my login.gov or ID.me account](https://www.va.gov/resources/can-i-delete-my-logingov-or-idme-account/) (15% good out of 59 total responses)
+5. [How to verify your identity for your login.gov account](https://www.va.gov/resources/how-to-verify-your-identity-for-your-logingov-account/) (16% good out of 75 total responses)
+        
 ### 5 resources and support pages with the highest volume of total responses and >75% "good" rating
 
-1.      
+1. [What should I bring to my health care appointments](https://www.va.gov/resources/what-should-i-bring-to-my-health-care-appointments/) (90% good out of 3,051 total responses)
+2. [How to check in with your smartphone for some VA appointments](https://www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) (90% good out of 973 total responses)
+3. [The PACT Act and your VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) (90% good out of 709 total responses)
+4. [VEText for VA health care reminders and updates](https://www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates/) (96% good out of 258 total responses)
+5. [Getting care through CHAMPVA](https://www.va.gov/resources/getting-care-through-champva/) (88% good out of 240 total responses)
+      
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
-1.    
+1. [Creating an account for VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov/) (28% good out of 2,645 total responses)
+2. [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/) (43% good out of 1,634 total responses)
+3. [Support for common login.gov and ID.me issues](https://www.va.gov/resources/support-for-common-logingov-and-idme-issues/) (13% good out of 449 total responses)
+4. [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/) (23% good out of 395 total responses)
+5. [How to access My HealtheVet on VA.gov](https://www.va.gov/resources/how-to-access-my-healthevet-on-vagov/) (30% good out of 215 total responses)
+   
 ## Analysis
 [Resources and support ratings spreadsheet]
 - Performance isn't as high when broken down to individual pages:
-  - XX% of pages are scoring at 90% or higher "good"
-  - XX% of pages are meeting our goal of 75% or higher "good," while XX% of pages are scoring 70% or higher
-  - XX% of pages are scoring at less than 50% "good," with X% scoring at less than 10% "good" 
+  - 29% of pages are scoring at 90% or higher "good"
+  - 52% of pages are meeting our goal of 75% or higher "good," while 52% of pages are scoring 70% or higher
+  - 26% of pages are scoring at less than 50% "good," with 4% scoring at less than 10% "good" 
 - 
