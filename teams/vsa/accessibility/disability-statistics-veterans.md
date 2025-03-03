@@ -23,6 +23,7 @@
     > There are more than 20 million American Veterans. 40% living in rural areas. Many rely on VA benefits just to get by. More than 9 million of our Veterans rely on VA health care. (_It shouldn't be this hard to serve your country._ by Shulkin)
     > In 2018, there were around 16.3 million male veterans and 1.65 million female veterans in the U.S. <br/>
     > About 3.51 million veterans were male and between 35 and 54 years of age.<br/>
+    > https://disabilitystatistics.org/acs-custom?indStat=10
     > https://www2.census.gov/library/publications/2024/demo/acs-58.pdf<br/>
     > https://www.ptsd.va.gov/understand/common/common_veterans.asp<br/>
     > https://www.mentalhealth.va.gov/docs/data-sheets/2024/2024-Annual-Report-Part-2-of-2_508.pdf<br/>
