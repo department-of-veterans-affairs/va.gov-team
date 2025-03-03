@@ -41,5 +41,5 @@ The Contention Classification Team is currently using GA to analyze the 'new dis
   
 ### Resources 
 A majority of this thinking is pulled from other teams working on the 526ez. 
-[Single source of truth Domo/Google Analytics]([url](https://docs.google.com/document/d/19Cfs8L1SmUaRUsWbOF35Y0BUsYz_c-QtlIltO6LEp3Y/edit#heading=h.t2fki7dfdv2r)https://docs.google.com/document/d/19Cfs8L1SmUaRUsWbOF35Y0BUsYz_c-QtlIltO6LEp3Y/edit#heading=h.t2fki7dfdv2r) 
+[Single source of truth Domo/Google Analytics](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/6%20-%20Analytics/Single%20Source%20of%20Truth_%20Domo_%20Analytics%20Resources.docx?d=w6b2b9d82054043ad9e983215ac905c2a&csf=1&web=1&e=hve7KH)
 
