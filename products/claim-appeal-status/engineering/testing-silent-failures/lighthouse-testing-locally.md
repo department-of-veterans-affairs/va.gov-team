@@ -81,7 +81,7 @@
 5. Your record should now be deleted
 
 ## Testing upload failure
-### Type 1 error, when cst_send_evidence_submission_failure_emails is enabled
+### Testing upload failures - error occurs in document_upload.rb, when cst_send_evidence_submission_failure_emails is enabled
 1. Change the following feature flags...
     1. `benefits_documents_use_lighthouse` is enabled
     2. `cst_synchronous_evidence_uploads` is disabled
@@ -97,7 +97,7 @@
 9. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 1 record was added/updated to the evidence_submissions table
         1. The new records `upload_status` should be FAILED and it should have a `failed_date`, `error_message` and `template_metadata -> personalisation -> date_failed`
 
-### Type 2 error, when cst_send_evidence_submission_failure_emails is enabled
+### Testing upload failures - lighthouse returns a FAILED upload_status, when cst_send_evidence_submission_failure_emails is enabled
 1. Follow steps 1-8 to add a record with an IN_PROGRESS upload_status [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/lighthouse-testing-locally.md#when-cst_send_evidence_submission_failure_emails-is-enabled)
 2. Update `lib/lighthouse/benefits_documents/upload_status_updater.rb` and comment out the logic for lines 64-66. Add the line `process_failure` - this will make it so we set the record upload_status to FAILED regardless of what Lighthouse returns.
         1. NOTE: You could also do a update in rails console and just change the necessary fields so that the record is FAILED
