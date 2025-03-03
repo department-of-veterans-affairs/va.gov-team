@@ -170,16 +170,108 @@ We understand that you applied using the [insert application type noted in scree
 - *What factors (specific to the form or otherwise) most contributed to successful or unsuccessful completion of the application?*
 
 
-## Third Task: [TASK NAME] - X minutes
+## Results Post-Submission or "Abandon" (e.g. Stopping the Process) - 15 minutes
 
-- Step 1
-- Step 2
+We understand from the screener that the application was [submitted or stopped]. Is this correct?
 
-### Things to watch for:
+**Abandoned**
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Can you share what led you to not go through with finishing the application?
+
+- Were there any follow up steps or communications you initiated after pausing the application?
+
+- *Moderator note: While technically an incomplete form might be classified as an “abandon,” this verbiage might be distressing or raise defensiveness for the participant. Therefore ****we are using the word “stopped” in how the questions are framed****. *
+
+- Were there any follow up steps or communications you got from the VA or others after pausing the application?
+
+- Can you share how it felt at this point in the process (e.g. frustrated, confused, motivated for resolution, etc.)
+
+- *Moderator note: be aware this might be sensitive for the participant to share and we should be listening actively and empathizing as appropriate; but also making sure to not express stronger sentiment than that of the participant.* \
+
+
+**Submitted** 
+
+- Once you submitted the form were any additional actions needed on your part [or the part of the Veteran you were supporting]?
+
+- How did you find out additional action was needed?
+
+- Did you know what action was required and how to do so?
+
+- What, if any, resolution was reached?
+
+- We understand that the Veteran was [approved/denied]. Is this correct?
+
+- Did you understand why it [was or was not] approved?
+
+- What information was provided communicating the decision?
+
+- What next steps or expectations were set by the communication?
+
+- What, if any, questions did you have that were or were not addressed?
+
+
+**If Approved for Pension **
+
+- After you had gone through the process of getting approved, was there anything that was challenging or surprised you about the steps you had to take to actually get your payments?
+
+**If Approved for Pension ****AND**** Time Allows Continue [if not skip to Resume All]**
+
+So far we have been discussing the process and experience with the application itself. In order to better understand the full journey, we hope to get more specific about receiving and maintaining benefits. Some of this might touch on sensitive information like finances. Would you be open to discussing this?
+
+***[if no] ****Thanks for letting me know. We can move on to a few final questions then. [skip to resume all section]*
+
+***[if yes] ****Thank you. As we go through these, feel free to skip any you prefer not to answer. * \
+
+
+- What happened after you got the decision?
+
+- Did you have to do anything or set anything up?
+
+- When did your payments start?
+
+- Did you know what your payments would be?
+
+- Did you ever have any problems with the payments after they started?
+
+- Was the amount of payments what you expected to get? Did they cover your expenses? If not, how did you cover your remaining expenses?
+
+- Did you ever get overpayments that you had to pay back?
+
+- Do you know of any factors that would change the income you received from Veterans Pension? 
+
+**Additional questions for Veteran Advocate Participant**
+
+- Do you have a role in managing the Veteran’s finances?
+
+- How was the experience making sure pension payments went where they needed to go?
+
+- [If the advocate has proactively shared that the Veteran is deceased] I can imagine it was difficult when the Veteran passed. May I ask a question related to closing down their benefits?
+
+- *Moderator note: Only ask if **<span style="text - decoration: underline;">the advocate volunteered this info*</span>* and was **<span style="text - decoration: underline;">not overly distressed*</span>* sharing these details. *
+
+- Did you find there were difficulties or complications related to the pension benefit - such as overpayments that required resolution?
+
+** \
+Resume all** \
+I have just a couple more questions and then we will shift to wrap up. 
+
+- How would you describe the overall experience applying for Veteran pension?
+
+- When you think about  <span style="text - decoration: underline;">completing the form, </span>did it feel worth the effort you put in? 
+
+- Did the level of effort <span style="text - decoration: underline;">throughout the overall process</span> align with your expectations? 
+
+### *Things to listen for:*
+
+- *What factors or motivations led to form submission or abandon.*
+
+- *To what extent was follow up action needed post-submission or abandon?*
+
+- *What were the specific factors or areas that follow up action were most associated with? (e.g. a specific area on the form, technical error, etc.)*
+
+- *Was the level of information or instruction given adequate for the Veteran or advocate to respond and/or take necessary actions?*
+
+- *To what extent did time or effort spent feel commensurate with the submission outcome?*
 
 ## Post-Task Interview - X minutes
 
