@@ -29,7 +29,6 @@ Similar to most other types of search tools, Veterans should be able to begin a 
 
 ## Facilities products
 - [Process for reporting inaccurate data in Facility Locator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md#process-for-reporting-inaccurate-data-in-facility-locator)
-- [Product documentation index](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/product-documentation.md)
 
 ### COPY/PASTABLE product list
 <details><summary>List in accordion. Please update with any product ownership changes</summary>
