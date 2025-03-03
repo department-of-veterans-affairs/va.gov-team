@@ -51,7 +51,7 @@ Flow into forms. The same pattern applies to both forms.
 - Refer to the design system's guidance for [page titles and section titles](https://design.va.gov/content-style-guide/page-titles-and-section-titles), [URLs](https://design.va.gov/components/url-standards/), and [title tags](https://design.va.gov/content-style-guide/title-tags) when finalizing the form pages' H1s and URLs.
 - Suggested URLs are below, the team can modify as needed, so long as they meet VA design system standards. 
   - 85/15 Rule form 
-    - Suggested URL: www.va.gov/school-administrators/report-85-15-enrollment-ratios/
+    - Suggested URL: www.va.gov/school-administrators/report-85-15-enrollment-ratio/
     - Breadcrumb:  VA.gov home > Resources for schools > [H1 of form introduction page]
   - 35% Exemption form
     - Suggested URL: www.va.gov/school-administrators/35-percent-exemption/
