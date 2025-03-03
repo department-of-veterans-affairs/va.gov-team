@@ -12,7 +12,7 @@ The Facilities & Public Websites product portfolios are comprised of a variety o
     * [Monitoring docs](#monitoring)
 5. [Partner team information](#partner-team-information)
 
-### Team channels
+## Team channels
 [#sitewide-program](https://app.slack.com/client/T03FECE8V/C03LFSPGV16) - cross-team channel that includes many members of partner teams
 [#sitewide-facilities](https://app.slack.com/client/T03FECE8V/C0FQSS30V) - comms specific to Facilities portfolio
 [#sitewide-public-websites](https://app.slack.com/client/T03FECE8V/C52CL1PKQ) - comms specific to Public Websites portfolio
