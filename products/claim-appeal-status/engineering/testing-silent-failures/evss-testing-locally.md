@@ -110,7 +110,7 @@
    ```
 5. Your record should now be deleted
 
-## Testing upload failures for type 1 and 2 errors
+## Testing upload failures - error occurs in document_upload.rb
 ### When cst_send_evidence_submission_failure_emails is enabled
 1. Make sure you do NOT have an open an SSH tunnel in terminal
 2. Change the following feature flags...
