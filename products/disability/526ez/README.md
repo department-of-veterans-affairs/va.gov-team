@@ -120,7 +120,7 @@ TODO: Ask Evelyn about GA and/or if she could elaborate on the state of this
 |-----|-----------|----|-------|
 
 ## Features/Initiatives
-TODO: should be adding project features here? or link to a different page (Lauren is working on this.)
+TODO: add project features here
 
  - [Toxic Exposure Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Toxic%20Exposure%20Brief.md)
  - [5103 Equivalent Language Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/5103%20Equivalent%20Language%20Brief.md)
