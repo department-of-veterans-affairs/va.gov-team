@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/10aee5ef-dcc1-4c8b-b52b-16ed293c13f6)# Note: This page is in draft
+# Note: This page is in draft
 # Unauthenticated page experience ratings: February 2025
 ## Related overall scores
 - **Total customer satisfaction score:** 57.3% (0% change from last period)
