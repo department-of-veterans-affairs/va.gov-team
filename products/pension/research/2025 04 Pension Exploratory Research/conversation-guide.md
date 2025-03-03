@@ -150,8 +150,8 @@ We understand that you applied using the [insert application type noted in scree
 
 - Were there any instances where something was especially helpful or challenging in completing the application?
 
- \
-**More questions for ****Veteran advocate**
+ 
+**Additional questions for ****Veteran advocate**
 
 - We have heard from others that it is common for a family member or other advocate to fill out the form as if they are the veteran themselves. Would you be open to sharing how you went about it?
 
