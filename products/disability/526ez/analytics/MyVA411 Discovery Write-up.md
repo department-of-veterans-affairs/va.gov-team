@@ -118,12 +118,12 @@ With the data analysis, we will take a hybrid approach of 1 & 2, leaning into St
 
 # Relevant Links
 [Processing and Utilizing Veteran Support Data](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data)
+
 [How to use MyVA411 data in Domo](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/how-to-use-contact-center-data-in-domo)
-[Discovery Notes document](https://docs.google.com/document/d/1vOy9Yyemm2AeMSC9NQBukWoaz67RNWt5pWkqSZ2OWpI/edit)
 
-  
+[Discovery Notes document](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/5%20-%20Research%20and%20Design/2024-10%20Toxic%20Exposure%20Monitoring/MyVA411%20Discovery%20Notes.docx?d=w0ccc32bd65c345ce8f4ce593696e0f09&csf=1&web=1&e=i0xGoT)
 
-[Research-ops channel conversation about approaches taken by other teams.](https://dsva.slack.com/archives/C0216PL32HJ/p1728312464840329)
+[Research-ops channel conversation about approaches taken by other teams](https://dsva.slack.com/archives/C0216PL32HJ/p1728312464840329)
 
 [Contact Center outreach](https://dsva.slack.com/archives/CNCEXNXK4/p1727103863129169)
 
