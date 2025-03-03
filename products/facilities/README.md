@@ -96,9 +96,10 @@ These products provide detailed information about specific VA facilities to help
 - VHA Vet Center facility product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers) | github label: [Vet Center](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Vet%20Center)
 
 **Currently being modernized**
-- VBA Regional Office facility system product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices) | github label: [Regional office](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Regional%20office)
+- VBA Regional Office (RO) facility system product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices) | github label: [Regional office](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Regional%20office) - Product is launched; RO content is being created / reviewed / published on a rolling basis by VBA editors and leadership
 
 **Future facilities to modernize**
+- Vet Center Satellite locations
 - VAMC VHA Mobile | [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2021-vamc-vha-mobile-redesign/initiative-brief.md) | [VSA Mobile Health Clinics UX research and design hub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/mobile-health-clinics.md)
 - NCA National Cemetery facility product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/cemeteries) | github label: [Cemeteries](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Cemeteries)
 - VBA non-Regional Office facilities | github label: [VBA](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/VBA)
