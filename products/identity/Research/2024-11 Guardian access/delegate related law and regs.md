@@ -17,10 +17,10 @@
 | Veterans Benefits, Health Care, and Information Technology Act | Modified point in which attorneys or accredited agents could charge fees for services. Changed qualifications and standards for accredited attorneys |
 | Wounded Warriors Access Act (Public Law 118-21) | Requires a secure website or online tool for a claimant, agent, or representative to submit an electronic request for records maintained by the VA. |
 | Creating Advanced Streamlined Electronic Services for Constituents (CASES) Act (Public Law 116-50) | Directs OMB to require each federal agency to accept electronic identity proofing and authentication processes that allow an individual, under the Privacy Act of 1974 |
-| Veterans Benefits Improvement Act of 2022 (H.R. 7556) |  |
-|  |  |
-|  |  |
-|  |  |
+| ‘Elizabeth Dole Home and Community Based Services for
+6 Veterans and Caregivers Act of 2023 (Public Law No: 118-210) | Supports caregivers and makes caregiver support more easily accessible |
+| The Caregivers and Veterans Omnibus Health Services Act of 2010 (Public Law 111–163) | Provides comprehensive support to family caregivers of veterans. This includes training, financial support, and access to counseling services. It also introduced programs like the Family Caregiver Program, which provides resources to those caring for severely injured veterans. |
+| The VA MISSION Act of 2018 (Public Law No: 115-182) | Provides increased access to support services and training to caregivers, and imposes reporting requirements about barriers to caregiver programs |
 |  |  |
 |  |  |
 |  |  |
