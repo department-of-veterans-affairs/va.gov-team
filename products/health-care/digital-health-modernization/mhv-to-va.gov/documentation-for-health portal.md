@@ -29,7 +29,7 @@ Links to Figma files, test users, and previous research
   
 **An overview of MHV on VA.gov—what it is and why it’s happening
 
-## <a name="Existing features - Where are we now?"></a>existingfeatures<be>
+## <a name="existingfeatures"></a>Existing features - Where are we now?<be>
 
 The current state: 
 - existing features/where are we now,
