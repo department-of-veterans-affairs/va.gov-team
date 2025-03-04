@@ -8,7 +8,7 @@ This document serves as a resource for future work, ensuring that our team and f
 
 * [Background of the My HealtheVet transition](#Background)
 * [Existing features - Where are we now?](#existingfeatures)
-* 
+* [2025 goals/key milestones - Where are we going?](#2025goals)
 
 
 
@@ -31,7 +31,7 @@ Links to Figma files, test users, and previous research
 
 ## <a name="existingfeatures"></a>Existing features - Where are we now?<be>
 
-The current state: 
-- existing features/where are we now,
-- 2025 goals/key milestones
+## <a name="2025goals"></a>2025 goals/key milestones - Where are we going?<be>
+
+
 - High level metrics about performance and adoption of the portal
