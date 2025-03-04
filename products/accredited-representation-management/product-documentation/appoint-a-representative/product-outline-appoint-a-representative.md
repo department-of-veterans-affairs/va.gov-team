@@ -53,6 +53,7 @@ We are currently preparing Appoint a Representative 2.0 which introduces digital
 - are a Veteran
 - have selected a representative that accepts digital submission
 - have chose "online" as the preferred submission method
+
 If all of these conditions are met, the end of the Appoint experience will result in a POA request being sent to the representative to accept/decline in the Accredited Representative Portal.
 
 ## **Measuring Success**
