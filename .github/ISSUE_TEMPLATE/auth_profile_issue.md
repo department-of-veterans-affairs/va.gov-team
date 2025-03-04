@@ -1,6 +1,6 @@
 ---
-name: Authenticated Experience Profile New Issue Template
-about: Basic template for creating Authenticated Experience Profile team issues
+name: Authenticated Experience Issue Template
+about: Basic template for creating Authenticated Experience team issues
 title: Practice Area | Profile | [Project]| [Issue Name]
 labels: authenticated-experience, needs-refinement, profile
 assignees: ''
