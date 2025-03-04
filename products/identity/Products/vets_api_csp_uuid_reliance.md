@@ -101,6 +101,34 @@
 - uses access_token.user_uuid to find a RepresentativeUser
 - impact: low
 
+## Mobile
+
+### Awards
+
+- `vets-api/modules/mobile/app/controllers/mobile/v0/awards_controller.rb`
+- uses user_uuid for "Mobile::V0::Award" id
+- impact: low
+
+### PaymentInformation
+
+- `vets-api/modules/mobile/app/controllers/mobile/v0/payment_information_controller.rb`
+- create "Mobile::V0::PaymentInformation" & legacy creation methods using user_uuid
+- impact: low
+
+### Users
+
+- `vets-api/modules/mobile/app/controllers/mobile/v0/users_controller.rb`
+- `vets-api/modules/mobile/app/controllers/mobile/v1/users_controller.rb`
+- uses user_uuid to enqueue a job & attempt to look up "IAMUser"/"User" with it
+- same for "Vet360LinkingJob"
+- impact: moderate
+
+### FaciltyInfo
+
+- `vets-api/modules/mobile/app/models/mobile/v0/adapters/facility_info.rb`
+- create "Mobile::V0::FacilityInfo" using user_uuid
+- impact: low
+
 ## Class, Form, & Job Submissions
 
 ### EVSSClaim
@@ -164,34 +192,6 @@
 - `vets-api/modules/debts_api/app/controllers/debts_api/v0/financial_status_reports_controller.rb`
 - uses user_uuid to look up "DebtsApi::V0::Form5655Submission" & attempt to run "DebtsApi::V0::FsrRehydrationService"
 - impact: moderate
-
-### Mobile
-
-#### Awards
-
-- `vets-api/modules/mobile/app/controllers/mobile/v0/awards_controller.rb`
-- uses user_uuid for "Mobile::V0::Award" id
-- impact: low
-
-#### PaymentInformation
-
-- `vets-api/modules/mobile/app/controllers/mobile/v0/payment_information_controller.rb`
-- create "Mobile::V0::PaymentInformation" & legacy creation methods using user_uuid
-- impact: low
-
-#### Users
-
-- `vets-api/modules/mobile/app/controllers/mobile/v0/users_controller.rb`
-- `vets-api/modules/mobile/app/controllers/mobile/v1/users_controller.rb`
-- uses user_uuid to enqueue a job & attempt to look up "IAMUser"/"User" with it
-- same for "Vet360LinkingJob"
-- impact: moderate
-
-#### FaciltyInfo
-
-- `vets-api/modules/mobile/app/models/mobile/v0/adapters/facility_info.rb`
-- create "Mobile::V0::FacilityInfo" using user_uuid
-- impact: low
 
 ### EducationCareerCounselingClaims
 
