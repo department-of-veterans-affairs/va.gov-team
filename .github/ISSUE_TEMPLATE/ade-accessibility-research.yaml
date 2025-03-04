@@ -6,7 +6,7 @@ assignees: sara-amanda,lakper,cindymerrill,artsymartha68
 body:
 - type: markdown
   attributes:
-    value: "## Your team's information"
+    value: "## About your team"
 - type: textarea
   id: team
   attributes:
@@ -14,11 +14,13 @@ body:
     description: This will help us reach out to you if needed
     value: |
       Team name:
-      OCTO-DE product owner:
-      Product manager:
-      Designer:
-      FE engineer:
-      Product/team Slack channel:
+      Product name:
+      OCTO Product Owner:
+      Product Manager:
+      Designer/Researcher:
+      Dedicated accessibility specialist on your team (if you have one):
+      Accessibility Champ on your team (if you have one):
+      Product/team Slack channel (to communicate about this ticket):
       ...
     render: bash
   validations:
