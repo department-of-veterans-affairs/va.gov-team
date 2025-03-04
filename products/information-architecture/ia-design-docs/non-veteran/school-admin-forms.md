@@ -1,5 +1,7 @@
-# IA Design for School Administrator - Form 1919 (Conflicting Interests Certification for Proprietary Schools)
-**STATUS: DRAFT**
+# IA Design for School Administrator Forms
+**STATUS: ONGOING**
+
+This spec covers the general approach for digitized SCO forms that will be placed within the /school-administrators/ sub-directory of VA.gov. Information about each form will be added as it is worked on. 
 
 **Team:** [Team name]
 - Team name: govcio-vebt
@@ -7,13 +9,14 @@
 
 **Related tickets/docs/files**
 - Content and IA ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/103835
-- IA Mural
+- [IA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1728420465790/8c90120e504744ecb3db02068818df573ddab93b)
 - Team's files
   - [Figma file](https://www.figma.com/design/9dlTPeLY6kUq19m4YrjyF7/VEBT-Form-22-1919%3A-Conflicting-Interests?node-id=2529-24298&t=14gA2vCBa4YrkuJz-1)
   - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-education-benefits-tools/Forms/22-1919/collab%20cycle/22-1919%20Product%20Outline-%20GOVCIO-VEBT%20Update)
   - [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718211888145/62b605a599fa763fd3a91f46fb89b74f0748d1bb)
 
 **On this page:**
+- [User/page flows](#user-page-flows)
 - [IA placement](#map)
 - [URL and title guidance](#non-veteran-experience-url)
 - [URL, H1, title tag and breadcrumb guidance](#veteran-experience-url)
@@ -22,11 +25,20 @@
 - [Product team responsibiities](#responsibilities)
 
 
+## <a name="flows"></a>User/page flows <br>
+_Illustration of of page flow._
+
+- Visitors will primarily access these forms through the "Resources for schools" page. As the parent page of these forms, the page must contain a link to each of the forms digitized.
+- Each form will also have an "About form" page published within the "Find a VA form" search tool on VA.gov which will include a link to both the PDF and the online form.  These pages are published and maintained by the Content and IA team.
+- These forms will also be findable via internal and external search engines. 
+
+<img width="608" alt="image" src="https://github.com/user-attachments/assets/827e2732-9383-428e-a1e2-17d4b88be5e4" />
+
 
 ## <a name="map"></a>IA placement<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map).*
 
-[INSERT sitemap image or description of placment]
+<img width="493" alt="image" src="https://github.com/user-attachments/assets/1b423a48-4ec0-4966-a453-682e4549cc39" />
 
 
 
