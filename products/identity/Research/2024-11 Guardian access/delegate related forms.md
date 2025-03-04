@@ -19,5 +19,6 @@
 | 10-5345 | Request for and Authorization to Release Health Information | https://www.va.gov/find-forms/about-form-10-5345/ |
 | 21-0972 | Alternate Signer Certification | https://www.va.gov/find-forms/about-form-21-0972/ |
 | 21-0845 | Authorization to Disclose Personal Information to a Third Party | https://www.va.gov/find-forms/about-form-21-0845/ |
-| VA21a | Application for Accreditation as a Claims Agent or Attorney | https://www.va.gov/find-forms/about-form-21a/ |
+| 21a | Application for Accreditation as a Claims Agent or Attorney | https://www.va.gov/find-forms/about-form-21a/ |
+| 21P-4107 | Used by fiduciaries to account for funds they manage on behalf of a veteran beneficiary | https://www.vba.va.gov/pubs/forms/VBA-21P-4706b-ARE.pdf |
 | DD Form 3005 | Application for surrougate association for DOD Self-Service (DS) Logon | https://www.cac.mil/Portals/53/Documents/dd3005_2024.pdf |
