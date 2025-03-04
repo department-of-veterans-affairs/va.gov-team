@@ -13,7 +13,7 @@ If a guide has been updated recently and this doc has been kept up to date, most
 If there are any questions about the latest version of a product guide, reach out to the Contact Center team in DSVA slack in #vsp-contact-center-support<br><br>
 2. Drafts of new versions are created and shared internally<br>
 Make updates to the docs with [MS Word change tracker](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a#:~:text=Click%20or%20tap%20at%20the,moves%20to%20the%20next%20change.) on. This will identify changes that have been made since the last version. Share with your product team for internal review via sharepoint in
-[Disability Benefits Experience/Documents/Drafts](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Documentation/Drafts?csf=1&web=1&e=Bq1VNW).
+[Disability Benefits Experience/0 -Veterans & the 526ez/Product Guide Drafts](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/0%20-%20Veterans%20%26%20the%20526ez/Product%20Guide%20Drafts?csf=1&web=1&e=rsbjUT).
 This allows for better collaboration than uploading the docs to GitHub. Please add your proposed new version to the changelog below with an 'In Progress' note so other teams will know there is a new revision in progress. <br><br>
 3. Submit drafts for Contact Center review<br>
 Follow steps in [request-contact-center-review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md)
