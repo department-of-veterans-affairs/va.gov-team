@@ -32,11 +32,11 @@
 ### E2E Tests
 - Our end-to-end tests perform the required accessibility check and live here: `vets-website/src/applications/static-pages/download-1095b/tests/01-1095b-authed.cypress.spec.js`
 
-### Code Coverage
+### Unit Test Coverage
 - 
 
-### Endpoint Monitoring Playbook
-- 
+### Endpoint Monitoring
+- We are currently in the middle of setting these up. We will have monitors and alerts for: 1) backend nightly job failures 2) PDF/TXT download failures 3) missing blank form for the prior year.
 
 ### Logging Silent Failures
-- 
+- Silent Failures are not applicable to this work. A Veteran only signs in and downloads a document.
