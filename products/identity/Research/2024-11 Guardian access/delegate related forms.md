@@ -20,3 +20,4 @@
 | 21-0972 | Alternate Signer Certification | https://www.va.gov/find-forms/about-form-21-0972/ |
 | 21-0845 | Authorization to Disclose Personal Information to a Third Party | https://www.va.gov/find-forms/about-form-21-0845/ |
 | VA21a | Application for Accreditation as a Claims Agent or Attorney | https://www.va.gov/find-forms/about-form-21a/ |
+| DD Form 3005 | Application for surrougate association for DOD Self-Service (DS) Logon | https://www.cac.mil/Portals/53/Documents/dd3005_2024.pdf |
