@@ -1,0 +1,113 @@
+@startuml context_vagov_travel_pay
+skinparam shadowing false
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+LAYOUT_LANDSCAPE()
+title [Context] VA.gov Travel Pay
+
+Person(veteran, "Veteran", "The main user of the Travel Pay app on VA.gov. Has appointments and related travel compensation needs.")
+Boundary(vagov_platform, "VA.gov Platform") {
+  System(tpapp, "VA.gov Travel Pay", "The travel pay app on VA.gov allows Veterans to submit and review travel compensation claims")
+  System_Ext(sis, "Sign-in Service Identity Broker", "Allows for federated authentication of users")
+}
+System_Ext(tpapi, "Travel Pay API", "Creates claims and provides claim status leveraging multiple upstream services.")
+System_Ext(btsss, "Beneficiary Self-Service System", "MS Dynamics system of record for travel reimbursement claims")
+
+Rel(tpapp, sis, "Authenticates Veteran")
+Rel(veteran, tpapp, "Makes claims requests and views claims statuses from")
+Rel(tpapp, tpapi, "Gets claims information, creates new claims using")
+Rel(tpapi, btsss, "Gets/stores claims")
+@enduml
+
+@startuml container_vagov_travel_pay
+skinparam shadowing false
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+LAYOUT_LANDSCAPE()
+title [Container] VA.gov Travel Pay
+
+Person(veteran, "Veteran", "The main user of the Travel Pay app on VA.gov. Has appointments and related travel compensation needs.")
+System_Boundary(tpapp, "VA.gov Travel Pay") {
+  Boundary(vagov_fe, "VA.gov Frontend (vets-website)") {
+    Container_Ext(appts_fe, "Appointments Frontend", "ReactJS", "The appoinments management app on VA.gov")
+    Container(tp_fe, "Travel Pay Frontend", "ReactJS", "The Travel Pay application on VA.gov.")
+    Container_Ext(mhv_fe, "My HealtheVet Frontend", "ReactJS", "The entry point to the travel pay claim status tool")
+  }
+  
+  Boundary(vagov_be, "VA.gov Backend (vets-api)") {
+    Container(tp_be, "vets-api Travel Pay Module", "Ruby on Rails", "The request handler, business logic, and external integration point for travel pay.")
+    Container_Ext(appts_be, "vets-api Appointments (VAOS) Module", "Ruby on Rails", "The request handler, business logic, and external integration point for appointments.")
+  }
+
+  Rel(mhv_fe, tp_fe, "Redirects Veterans to status page")
+  Rel(appts_be, tp_be, "Associates appointments to travel claims with")
+  Rel(appts_fe, appts_be, "Gets appointment information through", "HTTPS/JSON")
+  Rel(appts_fe, tp_fe, "Redirects Veterans to appropriate Travel Pay action")
+  Rel(tp_fe, tp_be, "Requests all travel pay resources through", "HTTPS/JSON")
+  Rel_D(tp_fe, appts_be, "Requests single appt info with", "HTTPS/JSON")
+}
+
+System_Ext(sis, "Sign-in Service Identity Broker", "Authenticates users and systems")
+System_Ext(tpapi, "Travel Pay API", "Creates claims and provides claim status leveraging multiple upstream services.")
+
+Lay_D(tpapi, tpapp)
+
+Rel(tp_be, sis, "Authenticates itself via STS by receiving a token from")
+Rel(veteran, appts_fe, "Requests claim creation and asserts status using")
+Rel(veteran, mhv_fe, "Requests health information (incl travel pay status) using")
+Rel_D(tp_be, tpapi, "Gets claims information, creates new claims using")
+@enduml
+
+@startuml deploy_vagov_travel_pay
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Deployment.puml
+LAYOUT_LANDSCAPE()
+title [Deployment] VA.gov Travel Pay 
+
+Deployment_Node(aws_vpc, "AWS VPC") {
+  Deployment_Node(eks, "EKS Cluster") {
+    Container(tp_be, "Travel Pay Backend", "Ruby on Rails", "The backend VA.gov (aka vets-api) request handler for all the frontend integrations.")
+    ContainerDb(redis, "Redis Store", "redis")
+    Rel(tp_be, redis, "Caches information using")
+  }
+}
+
+Deployment_Node(tic, "Trusted Internet Connection (TIC)") {
+  Deployment_Node(tic_gw_n, "TIC Gateway North")
+  Deployment_Node(tic_gw_e, "TIC Gateway East")
+}
+
+Deployment_Node(ms_vpc, "Azure VPC") {
+    Container_Ext(tpapi, "Travel Pay API", "C#, .Net MVC", "Creates claims and provides claim status leveraging multiple upstream services.")
+    ContainerDb_Ext(sql, "Claim Ingest DB", "sql")
+    Rel_D(tpapi, sql, "Retrieves resources")
+}
+
+BiRel(tp_be, tic, "Handles packet inspection")
+BiRel(tic, tpapi, "Handles packet inspection")
+@enduml
+
+@startuml component_vagov_travel_pay_dedicated
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
+
+title [Component] vets-api Travel Pay Module
+Container_Ext(vagov_fe, "vets-website", "ReactJS", "The frontend codebase for VA.gov")
+Container_Ext(appts_be, "vets-api Appointments (VAOS) Module", "Ruby/Rails", "The request handler, business logic, and external integration point for appointments.")
+System_Ext(tpapi, "Travel Pay API", "Creates claims and provides claim status leveraging multiple upstream services.")
+
+Container_Boundary(tp_be, "vets-api Travel Pay Module") {
+  Component(tp_ctl, "Travel Pay Claims Controller", "Ruby/Rails", "The main request handler for VA.gov travel pay frontend requests. Validates requests and standardizes errors.")
+  Component(tp_appts_svc, "Travel Pay Appts Service", "Ruby/Rails", "Makes external requests to the travel pay API appts resource endpoints, serializes data for consumption by frontend.")
+  Component(tp_claims_svc, "Travel Pay Claims Service", "Ruby/Rails", "Makes external requests to the travel pay API claims resource endpoints, serializes data for consumption by frontend.")
+  Component(tp_exp_svc, "Travel Pay Expenses Service", "Ruby/Rails", "Makes external requests to the travel pay API expense resource endpoints, serializes data for consumption by frontend.")
+  Component(tp_auth_svc, "Travel Pay Auth Service", "Ruby/Rails", "Makes external requests to the travel pay API authN/authZ resource endpoints.")
+}
+
+Rel(vagov_fe, tp_ctl, "Makes API requests to", "JSON/HTTPS")
+Rel(tp_ctl, tp_appts_svc, "")
+Rel(tp_ctl, tp_claims_svc, "Processes requests with")
+Rel(tp_ctl, tp_exp_svc, "")
+Rel(tp_ctl, tp_auth_svc, "")
+Rel(tp_appts_svc, tpapi, "")
+Rel(tp_claims_svc, tpapi,  "Makes API requests to", "JSON/HTTPS")
+Rel(tp_exp_svc, tpapi, "")
+Rel(tp_auth_svc, tpapi, "")
+Rel(appts_be, tp_claims_svc, "Merges claims with appointments")
+@enduml
