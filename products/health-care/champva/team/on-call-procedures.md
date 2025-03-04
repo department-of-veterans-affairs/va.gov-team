@@ -36,6 +36,36 @@ end
 get_statuses
 ```
 
+## To view all submissions associated with an email address:
+```ruby
+def get_batches(email_addr)
+    results= IvcChampvaForm.where(email: email_addr)
+
+    batches = {}
+
+    # Group all results into batches by form UUID
+    results.map {|el| 
+        batch = IvcChampvaForm.where(form_uuid: el.form_uuid)
+        batches[el.form_uuid] = batch
+    }
+
+    # Print out details of each batch:
+    batches.each {|batch_id, batch|
+        nil_in_batch = batch.where(pega_status: nil)
+        el = batch[0] #nil_in_batch[0]
+        puts "---"
+        puts "#{el.first_name} #{el.last_name} missing PEGA status on #{nil_in_batch.length}/#{batch.length} attachments - #{el.email}\n"
+        puts "Form UUID:   #{el.form_uuid}"
+        puts "Form:   #{el.form_number}"
+        puts "Uploaded at: #{el.created_at}"
+        puts "S3 Status:   #{batch.distinct.pluck(:s3_status)}\n"
+    }
+    true
+end
+
+get_batches
+```
+
 ## To clear a missing status:
 ```ruby
 form = IvcChampvaForm.find("form_id")
