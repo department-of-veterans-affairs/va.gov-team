@@ -1,10 +1,10 @@
 # Appoint a Representative Data Flow
 
-View the 'Appoint a Representative' data flow chart [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/launch-materials/images/appoint-a-rep-data-flow.png).
+View the 'Appoint a Representative' data flow chart [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/launch-materials/images/v2/data-flow.png). Data is transferred from the user's browser to a VA.gov server via HTTPS.
 
 ## What data is collected or used, and where, including information such as credentials used by this system?
 
-The only new data that is being collected is the data input by an authenticated user who starts or completes the Appoint a Representative form flow; the data is encrypted and temporarily saved in the SiP (Save in Progress) forms table -- `in_progress_forms` -- in the VA.gov Postgresql database. From our understanding, the data is purged after 60 days.
+The only new data that is being collected is the data input by an authenticated user who starts or completes the Appoint a Representative form flow; the data is encrypted and temporarily saved in the SiP (Save in Progress) forms table -- `in_progress_forms` -- in the VA.gov Postgresql database. After the user completes the flow and clicks the _Continue_ button on the _Review_ page, the user's `in_progress_forms` record is deleted. If the user starts but doesn't complete the flow, the record is automatically purged after 60 days.
 
 ## Who accesses the data and in what capacity (read or read-write)?
 
