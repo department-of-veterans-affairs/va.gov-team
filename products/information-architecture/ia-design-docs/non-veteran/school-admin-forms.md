@@ -43,9 +43,13 @@ _Illustration of of page flow._
 
 
 
-## <a name="non-veteran-experience-url"></a>URL and title guidance - USE IF BUILT OUTSIDE THE VETERAN-FACING EXPERIENCE
-*General guidance for URLs and page titles.  It is not required, but it is suggested that teams follow established standards and guidance documented in the [VA Design System](https://design.va.gov/).*
-*Related standards: [URLs](https://design.va.gov/components/url-standards/), [H1s (Page titles and section titles)](https://design.va.gov/content-style-guide/page-titles-and-section-titles), [Breadcrumbs](https://design.va.gov/components/breadcrumbs), [Title tags](https://design.va.gov/content-style-guide/title-tags)*
+## <a name="non-veteran-experience-url"></a>URL, breadcrumb, and title guidance
+
+- Teams should follow the VA Design System guidance for URLs, breadcrumbs, and page titles.  
+  - [URLs](https://design.va.gov/components/url-standards/)
+  - [H1s (Page titles and section titles)](https://design.va.gov/content-style-guide/page-titles-and-section-titles)
+  - [Breadcrumbs](https://design.va.gov/components/breadcrumbs)
+  - [Title tags](https://design.va.gov/content-style-guide/title-tags)*
 
 The following suggestions and guidance are provided to help you determine your final URLs and page titles. Only the main page of your experience/feature - typically the top or parent page - is provided. Beyond this top level page, you can create additional supporting pages as needed for your feature.  
 
