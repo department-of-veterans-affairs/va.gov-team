@@ -14,6 +14,8 @@
 * Backend implementation
   * Feature flag for version add
   * Integration with Travel Pay API `/claims/:id`
+  * Integrate with Travel Pay API `/claims/:id/documents`
+  * Integrate with Travel Pay API `/claims/:id/documents/:doc_id`
   * Controller version addition for calling detailed `/claims/:id` on show route
   * Generate document links
   * Download vets-api endpoint
