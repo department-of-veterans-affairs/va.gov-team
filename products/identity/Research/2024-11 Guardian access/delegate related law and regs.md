@@ -3,11 +3,12 @@
 - see also []()
 - this dosen't claim to be an exahustive list, and all of these might not be relevent for online or digital delegate access.
 
-| Law or regulation | Description |
-| --- | --- |
-| 38 U.S. Code § 5902 | Recognition of representatives of organizations for claims |
-| 38 U.S. Code § 5903 | Recognition of power of attorney individuals for a claim |
-| 38 U.S. Code § 5904 | Recognition of agents and attorneys for claims |
+| Law or regulation | Description | Forms |
+| --- | --- | --- |
+| 38 C.F.R. § 14.631 | Power of Attorney for VA Benefits, NOT including durable POA for health care and advance directives. Enables veterans to appoint an organization or individual representative to manage their VA benefit claims and appeals. Including how POA is revoked. Also defines claiment and representative | VA Form 21-22 and VA Form 21-22a |
+| 38 C.F.R. § 17.32 | Defines advance directives for veterans usign VA healthcare, including durable power of attorney for health care, but NOT including power of attorney for other VA benefits or claims | 
+| 38 U.S. Code § 5901-5905 | Governs the accreditation of veteran service officers, attorneys, and agents who represent veterans in benefits claims before the VA. Also prohibits unauthorized individuals from assisting veterans with claims |
+| VA Fiduciary Program (38 U.S.C. §§ 5502, 5506-5510) | covers payments, definition of fiduciary, certification process, and reporting |
 | 38 U.S. Code § 5701(b) | Allows for disclosure of private information to a claimant’s representative for claims concerning only the claimant |
 | 38 U.S. Code § 7331 | Requires all patient care to be carried out with informed consent of the patient, or a representative when necessary |
 | 38 U.S. Code § 7332 | Allows for disclosure of medical records to representatives and surrogates when a practitioner deems it necessary for informed consent |
@@ -15,24 +16,24 @@
 | Privacy Act of 1974 (5 U.S.C. § 552a) | Establishes code of fair information practices governing the maintenance, use, and dissemination of information |
 | Health Insurance Portability and Accountability Act | National standards to protect sensitive patient health information from being disclosed without consent |
 | Veterans Benefits, Health Care, and Information Technology Act | Modified point in which attorneys or accredited agents could charge fees for services. Changed qualifications and standards for accredited attorneys |
-| Wounded Warriors Access Act (Public Law 118-21) | Requires a secure website or online tool for a claimant, agent, or representative to submit an electronic request for records maintained by the VA. |
-| Creating Advanced Streamlined Electronic Services for Constituents (CASES) Act (Public Law 116-50) | Directs OMB to require each federal agency to accept electronic identity proofing and authentication processes that allow an individual, under the Privacy Act of 1974 |
-| ‘Elizabeth Dole Home and Community Based Services for
-6 Veterans and Caregivers Act of 2023 (Public Law No: 118-210) | Supports caregivers and makes caregiver support more easily accessible |
-| The Caregivers and Veterans Omnibus Health Services Act of 2010 (Public Law 111–163) | Provides comprehensive support to family caregivers of veterans. This includes training, financial support, and access to counseling services. It also introduced programs like the Family Caregiver Program, which provides resources to those caring for severely injured veterans. |
-| The VA MISSION Act of 2018 (Public Law No: 115-182) | Provides increased access to support services and training to caregivers, and imposes reporting requirements about barriers to caregiver programs |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Wounded Warriors Access Act (Public Law 118-21) | Requires a secure website or online tool for a claimant, agent, or representative to submit an electronic request for records maintained by the VA |
+| Creating Advanced Streamlined Electronic Services for Constituents (CASES) Act (Public Law 116-50) | Requires agencies to accept electronic forms that allow individuals to consent to the disclosure of their records  |
+| Rehabilitation Act of 1973, Section 504 (29 U.S.C. § 794) | A civil rights law that prohibits discrimination including against veterans and their caregivers in accessing benefits and care|
+| Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Pub. L. 116–315) | Requires increased speed, data sharing, and transparency of claim status, including with an acredited representative and including electronic access |
+| Privacy Act of 1974  | protects individuals' personal information from being collected, used, and disclosed by federal agencies. It also gives individuals rights to access and correct their records |
+
+More related to caregiver material support and not so much access to data and ability to care for a ward
+- Elizabeth Dole Home and Community Based Services for Veterans and Caregivers Act of 2023 (Public Law No: 118-210) - supports caregivers and makes caregiver support more easily accessible
+- The VA MISSION Act of 2018 (Public Law No: 115-182) - provides increased access to support services and training to caregivers, and imposes reporting requirements about barriers to caregiver programs
+- The Caregivers and Veterans Omnibus Health Services Act of 2010 (Public Law 111–163) - provides comprehensive support to family caregivers of veterans. This includes training, financial support, and access to counseling services. It also introduced programs like the Family Caregiver Program, which provides resources to those caring for severely injured veterans.
+
+
+VA.gov pages about delegates,representatives, and caregivers
+- [Help article about removing a fiduciary](https://www.va.gov/resources/what-if-i-dont-want-a-fiduciary-anymore/)
+- [VA accredited representative FAQs](https://www.va.gov/resources/va-accredited-representative-faqs/)
+- [Fiduciary program](https://www.benefits.va.gov/fiduciary/)
+   - "Upon determining a beneficiary is unable to manage his or her financial affairs, VA will appoint a fiduciary. The fiduciary, normally chosen by the beneficiary, must undergo an investigation of their suitability to serve. This investigation includes a criminal background check, review of credit report, personal interview, and recommendations of character references. Only after a complete investigation is a fiduciary appointed to manage a beneficiaries VA benefits. "
+- [Family and caregiver benefites page](https://www.va.gov/family-and-caregiver-benefits/)
+- [Caregiver support program](https://www.caregiver.va.gov)
+- [Acredited representative page](https://www.va.gov/get-help-from-accredited-representative/)
+- [MOAA.org page about guardian vs fiduciary](https://www.moaa.org/micro/caregiver/legal/guardianshipfiduciary/)
