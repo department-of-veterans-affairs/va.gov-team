@@ -6,7 +6,7 @@
 
 ## Contacts
 
-- _All team members can also be reached via the Accredited Representative Facing team DSVA Slack channel: [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW)
+- _All team members can also be reached via the Accredited Representative Facing team DSVA Slack channel: [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW)_
 
 ### Team Members
 
