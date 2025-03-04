@@ -2,7 +2,7 @@ name: "Assistive Technology Research Support Ticket (ADE)"
 description: "Request support for research with disabled Veterans using screen readers, as their primary source of assistive technology and/or observation from an accessibility perspective."
 title: "[ADE Accessibility Research]: Team name, product name"
 labels: ["508/Accessibility, ADE, ADE Research"]
-assignees: sara-amanda,NaomiPMC,lakper,cindymerrill,artsymartha68
+assignees: sara-amanda,lakper,cindymerrill,artsymartha68
 body:
 - type: markdown
   attributes:
