@@ -15,16 +15,24 @@
         - Enter “Disability Experience” for VFS Team
   - Another template for PO/PMs for establishing a new team in VFS, if necessary
 - Get added to slack channels in DSVA Slack - after SAC adjudication is complete
-   - benefits-onboarding
-      - This initiates VA onboarding with buddy assignments
+   - accessibility-help
   - benefits-disability
   - benefits-ce-dbex_issue_reporting
   - benefits-disablity_design
-  - benefits-disability-engineering
-  - va-forms
-  - vfs-all-teams
-  - vfs-platform-support
+  - benefits-engineering
+  - benefits-onboarding-offboarding
+      - This initiates VA onboarding with buddy assignments
+  - benefits-portfolio
   - design
+  - platform-design-system
+  - status-vets-website
+  - va-forms
+  - vfs-frontend
+  - vfs-all-teams
+  - vfs-change-announcements
+  - vfs-platform-support
+  - vfs-evss-service-migration
+  
 - Ask your DM/team-member to request access to Github [sample ticket # 14451](https://github.com/department-of-veterans-affairs/github-user-requests/issues/14451) - after SAC adjudication is complete
 - You must have access to your va.gov email address to obtain a Mural license. As long as one person on the team has a VA mural license the rest of the team can contribute as visitors. Licenses have associated cost and are limited. The team's PO is the POC.
 
