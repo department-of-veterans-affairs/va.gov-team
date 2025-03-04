@@ -132,9 +132,9 @@ When and how did you first learn about the Veterans pension benefit?
 
 ## Applying for Pension - 15 minutes
 
-We understand that you applied using the [insert application type noted in screener]. Is this correct?
+There are a few different ways to apply for Veterans pension such as on paper or online. Can you share the method you used in your application? 
 
-- There are a few different ways to apply for Veterans pension such as on paper or online. Can you share more about why you used the method you did?
+- Can you share more about why you used the method you did?
 
 - About how long did it take you to fill out the application?
 
