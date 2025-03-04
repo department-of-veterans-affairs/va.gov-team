@@ -28,8 +28,8 @@ This section will focus on how to identify and measure errors and performance me
 
 #### Error Logging
 
-- **Sentry Integration:** Ensure Sentry is properly integrated into both vets-api and vets-website. Sentry will capture any runtime errors, performance issues, or exceptions in the application.
-- **Error Alerts:** Set up Sentry alerts to notify the team via email or Slack when critical errors occur or when error rates exceed a predefined threshold (NOTIFICATIONS HAVE NOT BEEN SETUP YET).
+- **Datadog Integration:** Ensure Datadog is properly integrated into both vets-api and vets-website. Datadog will capture any runtime errors, performance issues, or exceptions in the application.
+- **Error Alerts:** Set up Datadog alerts to notify the team via email or Slack when critical errors occur or when error rates exceed a predefined threshold (NOTIFICATIONS HAVE NOT BEEN SETUP YET).
 - **Error Types and Frequencies:** Regularly review error logs to identify common or recurring issues. Pay special attention to error types, frequencies, and the severity of impacts on users.
 
 #### Performance Metrics
@@ -54,15 +54,15 @@ This section outlines the steps to investigate and resolve issues related to the
 
 #### Detailed Investigation
 
-- **Log Analysis:** Review Sentry logs to pinpoint the error's origin. Look for stack traces, error messages, and the conditions under which the error occurred.
-- **Reproduction:** Attempt to reproduce the issue in a test environment based on the information from Sentry and user reports.
+- **Log Analysis:** Review Datadog logs to pinpoint the error's origin. Look for stack traces, error messages, and the conditions under which the error occurred.
+- **Reproduction:** Attempt to reproduce the issue in a test environment based on the information from Datadog and user reports.
 - **Cross-Reference Metrics:** Use Datadog to cross-reference performance metrics around the time the issue occurred. This can help identify if the issue is isolated or part of a larger systemic problem.
 
 #### Resolution and Follow-Up
 
 - **Fix Implementation:** Once the issue is identified and understood, develop a fix. This could involve code changes, configuration updates, or infrastructure adjustments.
 - **Testing and Deployment:** Test the fix thoroughly in a staging environment before deploying to production.
-- **Monitoring Post-Fix:** Closely monitor Sentry and Datadog after deploying the fix to ensure the issue is resolved and no new issues have arisen.
+- **Monitoring Post-Fix:** Closely monitor Datadog after deploying the fix to ensure the issue is resolved and no new issues have arisen.
 - **Postmortem Analysis:** Conduct a postmortem analysis to understand the root cause and document learnings. Update the playbook accordingly to improve response for future incidents.
 
 ### Flipper Features and Rollback
