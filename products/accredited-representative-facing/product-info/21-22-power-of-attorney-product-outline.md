@@ -58,6 +58,10 @@ We will collaborate with Office of General Counsel and VBA VSO liaison (Marty Ca
 ## Launch Dates
 Target Launch Date: Mar 11, 2025
 
+## Supporting Documentation
+- [Product Playbook/Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/product-info/manage-poa-requests/launch-materials/product-playbook-incident-response-plan.md)
+- [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/product-info/manage-poa-requests/release-plan-manage-poa-requests-v0.md)
+
 #### Communications
 
 - Team Name: Accredited Representative Facing
