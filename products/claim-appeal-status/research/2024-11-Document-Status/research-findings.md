@@ -168,20 +168,22 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 ## Recommendations
 
-* Continue using this design approach to differentiate 'In Progress' documents from 'Documents Received,' but unify the terms 'Submission Started On' and 'Submitted On' to align the better language.
+* Continue using this design approach to differentiate 'In Progress' documents from 'Documents Received,' but unify the terms 'Submission Started On' and 'Submitted On' to align the language better.
     * _Only confusion (part) is “starts on Jan 16” and “submitted on Jan 16”. Maybe a little confusing. – P12_
-* Send notifications to Veterans to confirm that their physical documents have been received and added to their claims.
-    * _I think bringing it in person would make the review process much quicker. At some point whether you send it by mail or in person if you check the status it should...reflect that they actually have the document that they need. – P4_
-* Provide an alternative option for digitally resubmitting documents to the VA if the initial upload fails.
-    * _… that’s why you have to embrace tech… they see veterans every day. They see a lot of people and you lose confidence that something can get lost. – P13_
-* Create a consistent UI design for individual file statuses under the 'Documents Received' section to meet Veterans' expectations that all documents will have a status, regardless of whether they are a 'tracked item' or not.
-    * _Most participants expected every file to have a status indicating that it has been reviewed._
-* Provide Veterans with a substantive explanation of why the file upload failed or reassure them that they are not at fault for the failure.
-    * _It says there was a problem, now I have to investigate. Why not? Did I do something wrong? – P5_
-* Adjust the text format to emphasize important content with a higher visual hierarchy.
+* Update content to ensure that important information is clearly communicated.
     * _Participants recommended highlighting important content, such as requiring Social Security numbers on physical document copies, using iconography to make information stand out, and emphasizing helpful tips that set expectations for Veterans when they speak to call center staff._
-* When a file upload fails, explore a future feature allowing Veterans to add files using a partial SSN in combination with other PII (e.g., full claim number and partial DOB) to reduce security concerns with mailing documents.
-    * _Almost half of participants who read the failure notice resubmission instructions expressed concerns about mailing documents with their full Social Security numbers._  
+* Explore a UI design for received file statuses under the 'Documents Received' section to resolve the lack of clarity around tracked items having status and unrequested files not having status.
+    * _Most participants expected every file to have a status indicating that it has been reviewed._
+* Consider sending notifications to Veterans to confirm that their physical documents have been received and added to their claims.
+    * _I think bringing it in person would make the review process much quicker. At some point whether you send it by mail or in person if you check the status it should...reflect that they actually have the document that they need. – P4_
+
+## Additional Considerations
+* When possible, provide Veterans with a substantive explanation of why the file upload failed; in all cases reassure them that they are not at fault for the failure.
+    * _It says there was a problem, now I have to investigate. Why not? Did I do something wrong? – P5_
+* Provide an alternative option for digitally re-submitting documents to the VA if the initial upload fails.
+    * _… that’s why you have to embrace tech… they see veterans every day. They see a lot of people and you lose confidence that something can get lost. – P13_
+* Explore ways to associate files to the correct Veterans and claims without requiring a full SSN for mailed documents. If an upload fails, allow Veterans to use a partial SSN and other PII (e.g., claim number, partial DOB) to reduce privacy concerns.
+    * _3 of 7 participants who read the failure notice resubmission instructions expressed concerns about mailing documents with their full Social Security numbers._
 
 ## Next Steps
 
