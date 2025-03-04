@@ -1,4 +1,3 @@
-# Note: This page is in draft
 # Unauthenticated page experience ratings: February 2025
 ## Related overall scores
 - **Total customer satisfaction score:** 57.3% (0% change from last period)
@@ -30,6 +29,11 @@ All pages have ratings of 2 or below.
   - 27% (36 of 136) R&S pages have a 50% or lower "good" score
     
 - **Breakdown of resources and support scores by 10s:*
+
+<img width="361" alt="image" src="https://github.com/user-attachments/assets/3de5ac97-9bba-42f6-8999-de491fd3f0ac" />
+
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/ea4df0d8-a7c0-4f19-a68d-b41f4623a788" />
+
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
 
@@ -64,9 +68,12 @@ All pages have ratings of 2 or below.
 5. [How to access My HealtheVet on VA.gov](https://www.va.gov/resources/how-to-access-my-healthevet-on-vagov/) (30% good out of 215 total responses)
    
 ## Analysis
-[Resources and support ratings spreadsheet]
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20ratings%20tracking%20February%202025.xlsx?d=w571b299de17c4c90b3321aae340af4b6&csf=1&web=1&e=IVF3wm)
+- This is the sixth month in a row R&S didn't meet our goal of 75% or higher "good" ratings, with a 62% "good" average rating. This is slightly higher than last month. This can be attributed to large numbers of "bad" ratings for sign-in related pages. This will most likely continue during the sign-in transition process but we will continue to monitor it.
 - Performance isn't as high when broken down to individual pages:
   - 29% of pages are scoring at 90% or higher "good"
   - 52% of pages are meeting our goal of 75% or higher "good," while 52% of pages are scoring 70% or higher
   - 26% of pages are scoring at less than 50% "good," with 4% scoring at less than 10% "good" 
-- 
+- All of the lowest scoring pages were connected to sign-in. While we believe this is more about the process than the content on the pages, we'll continue to monitor Medallia feedback to learn if there are any changes we can make to improve these pages.
+- The PACT Act continues to score high with a high number of responses (90% "good" with 709 total responses).
+- Pages connected to health care appointments also got a high number of responses and high "good" ratings. These include VEText for VA health care reminders and updates, What should I bring to my health care appointments, and How to check in with your smartphone for some VA appointments. 
