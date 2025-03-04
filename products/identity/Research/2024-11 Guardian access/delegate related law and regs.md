@@ -5,7 +5,7 @@
 
 | Law or regulation | Description | Forms |
 | --- | --- | --- |
-| 38 C.F.R. § 14.631 | Power of Attorney for VA Benefits, NOT including durable POA for health care and advance directives. Enables veterans to appoint an organization or individual representative to manage their VA benefit claims and appeals. Including how POA is revoked. Also defines claiment and representative | VA Form 21-22 and VA Form 21-22a |
+| 38 C.F.R. § 14.631 | Power of Attorney for VA Benefits, NOT including durable POA for health care and advance directives. Enables veterans to appoint an organization or individual representative to manage their VA benefit claims and appeals. Including how POA is revoked. Also defines claimant and representative | VA Form 21-22 and VA Form 21-22a |
 | 38 C.F.R. § 17.32 | Defines advance directives for veterans usign VA healthcare, including durable power of attorney for health care, but NOT including power of attorney for other VA benefits or claims | 
 | 38 U.S. Code § 5901-5905 | Governs the accreditation of veteran service officers, attorneys, and agents who represent veterans in benefits claims before the VA. Also prohibits unauthorized individuals from assisting veterans with claims |
 | VA Fiduciary Program (38 U.S.C. §§ 5502, 5506-5510) | covers payments, definition of fiduciary, certification process, and reporting |
