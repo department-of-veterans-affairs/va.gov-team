@@ -8,9 +8,7 @@ This document serves as a resource for future work, ensuring that our team and f
 
 * [Background of the My HealtheVet transition](#Background)
 * [Existing features - Where are we now?](#existingfeatures)
-* [Insights](#insights)
-* [Sources cited](#sources)
-* [Next steps](#next)
+* 
 
 
 
@@ -31,7 +29,7 @@ Links to Figma files, test users, and previous research
   
 **An overview of MHV on VA.gov—what it is and why it’s happening
 
-## <a name="Existing features - Where are we now?"></a>Existing features - Where are we now?<be>
+## <a name="Existing features - Where are we now?"></a>existingfeatures<be>
 
 The current state: 
 - existing features/where are we now,
