@@ -67,7 +67,9 @@ This section outlines the steps to investigate and resolve issues related to the
 
 ### Flipper Features and Rollback
 - Add pilot participant emails to whitelist to enable their access to the Accredited Representative Portal
-- Will need to work with the Accredited Representation Management team to [disable feature toggle as a rollback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/launch-materials/product-playbook-incident-response-plan.md#v2)
+- For rollback, we will need to work with the Accredited Representation Management team to [disable feature toggle as a rollback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/launch-materials/product-playbook-incident-response-plan.md#v2)
+
+Note: We will be in direct contact with all 13 pilot participants during the pilot phase. Any issues that arise, we will be able assist. 
 
 ## Security
 <!--  descibe any security concerns the responders should be aware, for example: Does your product have PII? Do you log senstive information that needs to be handled in a particular manner? Does your product have a known security vulnerability that has been accepted by leadership? etc. -->
