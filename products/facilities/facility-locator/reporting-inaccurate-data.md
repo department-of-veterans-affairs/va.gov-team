@@ -9,6 +9,18 @@ Jump to:
 * [Facility status &#8595; ](#facility-status)
 * [Facility & CMS Team workflows](#facilities--cms-team-workflows)
 
+## Facility souce of truth
+
+| Facility type | Source | 
+| --- | --- |  
+| VA health (VAMCs, CBOCs, etc) |  VAST -> VSSC -> BISL - > CDW -> Lighthouse  | 
+| Vet Centers and Outstations |  VAST -> VSSC -> BISL - > CDW -> Lighthouse  | 
+| Vet Center CAPs | Editor created in Drupal - no presence in VAST |
+| VBA (Region offices, Satellites and other benefit location types) | Sandy's DB - > CDW -> Lighthouse  |
+| NCA - national cemeteries | name and website from NCA XML - all other data from CDW XML file |
+| NCA - state cemeteries | NCA XML file |
+| Community care providers and pharmacies (usually non-VA facilities)	| PPMS 
+
 ## Addresses, phone numbers, hours, map thumbnails
 
 Facility type	|	Process
@@ -18,9 +30,9 @@ VHA Clinics | Email the name of the facility and the missing or inaccurate detai
 Vet Centers | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
 Vet Center Outstations | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
 Vet Centers Community Access Point  | Contact the CMS help desk (support@va-gov.atlassian.net) 
-NCA Cemeteries | XML is source of truth for name and website only. All other data comes from CDW as source of truth. Email the name of the facility and the missing or inaccurate detail to NCA through the task tracker at OEMI Digital Services Task Tracker. Email ncawebservices@va.gov for their awareness, and please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
+NCA Cemeteries | Email the name of the facility and the missing or inaccurate detail to NCA through the task tracker at OEMI Digital Services Task Tracker. Email ncawebservices@va.gov for their awareness, and please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
 VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact Michelle Middaugh (email: suzanne.middaugh@va.gov) on the DSVA #facilities-support channel  and send her the link to the ticket |
-Community care providers and pharmacies (usually non-VA facilities)	| Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
+Community care providers and pharmacies (usually non-VA facilities)	| PPMS - Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
 
  ## Services
  
