@@ -228,9 +228,9 @@ Maximum Sessions per day: 3
 
 Moderators:
 
-- Chavie Cramer ([chavie.cramer@coforma.](mailto:chavie.cramer@coforma.io)[io](mailto:chavie.cramer@coforma.io))  
+- Chavie Cramer  
 
-- Kristin Ouellette Muskat  ([kristin.o.m@coforma.io](mailto:kristin.o.m@coforma.io)) 
+- Kristin Ouellette Muskat  
 
 Research guide writing and task development: Same as above
 
@@ -238,6 +238,6 @@ Participant recruiting & screening:
 
 - Perigean
 
-Project point of contact: Chavie Cramer ([chavie.cramer@coforma.](mailto:chavie.cramer@coforma.io)[io](mailto:chavie.cramer@coforma.io)); Kristin Ouellette Muskat  ([kristin.o.m@coforma.io](mailto:kristin.o.m@coforma.io)) 
+Project point of contact: Chavie Cramer; Kristin Ouellette Muskat  
 
 
