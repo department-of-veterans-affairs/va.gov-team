@@ -19,6 +19,16 @@ Source of truth for CST. Has been maintiained to incorporate any new changes to 
 
 [Link](https://www.figma.com/design/F8U4wddaFouUPVd4mGBMDI/CST-V2?node-id=0-809&p=f&t=OzFhEGGRFnBC4dvh-0)
 
+#### Notable sections
+
+[Recent Activity + Documents Filed Sections](https://www.figma.com/design/F8U4wddaFouUPVd4mGBMDI/CST-V2?node-id=966-7066) 
+
+This section documents the various UI elements and technical behavior of the Recent Activity and Documents Received sections.
+
+[Claim Phases](https://www.figma.com/design/F8U4wddaFouUPVd4mGBMDI/CST-V2?node-id=966-7066) 
+
+This section documents the user experience for tracking initial disability compensation claims in CST.
+
 ### CST App Map (Depracated)
 
 An overview of the CST UI (past and present). This was meant to capture the old version of CST before the creation of CST V2. This can still be a helpful reference for finding older UI states or UIs that have not yet been updated (e.g. appeals). 
