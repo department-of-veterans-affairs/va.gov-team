@@ -8,12 +8,13 @@ This spec covers the general approach for digitized SCO forms that will be place
 - Slack: #govcio-vebt-team
 
 **Related tickets/docs/files**
-- Content and IA ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/103835
-- [IA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1728420465790/8c90120e504744ecb3db02068818df573ddab93b)
-- Team's files
+- Content and IA tickets:
+  - Form 22-1919 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/103835
+  - Form 22-8794 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/103841
+- Design files:
+  - [IA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1728420465790/8c90120e504744ecb3db02068818df573ddab93b)
   - [Figma file](https://www.figma.com/design/9dlTPeLY6kUq19m4YrjyF7/VEBT-Form-22-1919%3A-Conflicting-Interests?node-id=2529-24298&t=14gA2vCBa4YrkuJz-1)
-  - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-education-benefits-tools/Forms/22-1919/collab%20cycle/22-1919%20Product%20Outline-%20GOVCIO-VEBT%20Update)
-  - [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718211888145/62b605a599fa763fd3a91f46fb89b74f0748d1bb)
+  - [Team's user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718211888145/62b605a599fa763fd3a91f46fb89b74f0748d1bb)
 
 **On this page:**
 - [User/page flows](#user-page-flows)
