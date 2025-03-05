@@ -61,8 +61,13 @@ alt AccreditedRepresentative is Logged In
         alt Success Response from Lighthouse
             Backend -> VAGovDB : Create Record in 'ar_power_of_attorney_request_decisions' Table\n(decision_type: 'acceptance'|'declination')
             Backend -> VAGovDB : Create Record in 'ar_power_of_attorney_request_resolutions' Table\n(resolving_type: 'decision')
-            Backend --> Frontend : Return Success Response with Updated Request Data
-            Frontend --> AccreditedRepresentative : Display Success Message & Updated Status
+            Backend -> VAGovDB : Update Record in 'ar_power_of_attorney_form_submissions' Table\n(status: PENDING|FAILED|SUCCEEDED)
+            note right
+              POA Request can be in terminal state (accepted)
+              while form submission is in FAILED state
+            end note
+            Backend --> Frontend : Return Success Response with Updated Request & Submission Data
+            Frontend --> AccreditedRepresentative : Display Success Message, Updated Status & Submission Status
         else Error Response from Lighthouse
             Backend --> Frontend : Return Error Response
             Frontend --> AccreditedRepresentative : Display Error Message & No Status Change
