@@ -34,9 +34,24 @@ We aim to make the updated experiences accessible, streamlined, and intuitive. I
 
 ## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
 
+
+
 ## <a name="2025goals"></a>Where are we going? - 2025 goals/key milestones<be>
 
 ## <a name="directoryofteams"></a>Directory of teams<be>
+
+The MHV to VA.gov initiative consists of several different products, each with its own discrete product outlines and teams:
+
+The MHV to VA.gov Initiative consists of several different products, each with their own discrete product outlines:
+  - [MHV on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md) (overall initiative, team members, business partners)
+  - [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product)
+  - [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
+  - [Pharmacy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/README.md)
+  - [Newsletter](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/newsletter)
+  - [Community Care](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/community-care)
+  - [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling) - VAOS team will be doing the work to integrate this into the health portal.
+  - [Health Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/health-resources)
+
 
 ## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
 
