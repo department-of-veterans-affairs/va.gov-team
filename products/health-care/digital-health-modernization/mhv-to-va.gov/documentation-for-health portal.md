@@ -9,6 +9,7 @@ This document serves as a resource for future work, ensuring that our team and f
 * [Background of the My HealtheVet transition](#background)
 * [Where are we now? - Existing features](#existingfeatures)
 * [Where are we going? - 2025 goals/key milestones](#2025goals)
+* [Directory of teams](#Directoryofteams)
 * [High-level performance and adoption metrics for the health portal](#metrics)
 * [Design resources](#design)
 * [Engineering resources](#engineering) 
@@ -34,6 +35,8 @@ We aim to make the updated experiences accessible, streamlined, and intuitive. I
 ## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
 
 ## <a name="2025goals"></a>Where are we going? - 2025 goals/key milestones<be>
+
+## <a name="Directoryofteams"></a>Directory of teams<be>
 
 ## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
 
