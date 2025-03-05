@@ -10,6 +10,8 @@ This document serves as a resource for future work, ensuring that our team and f
 * [Where are we now? - Existing features](#existingfeatures)
 * [Where are we going? - 2025 goals/key milestones](#2025goals)
 * [High-level performance and adoption metrics for the health portal](#metrics)
+* [Design resources](#design)
+* [Engineering resources](#engineering) 
 
 
 
@@ -27,8 +29,6 @@ Links to Figma files, test users, and previous research
 - An overview of MHV on VA.gov—what it is and why trantion is happening
 - Link to product overview
 - History of MHV, etc
-  
-**An overview of MHV on VA.gov—what it is and why it’s happening
 
 ## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
 
@@ -36,4 +36,6 @@ Links to Figma files, test users, and previous research
 
 ## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
 
-- High level metrics about performance and adoption of the portal
+## <a name="design"></a>Design resources<be>
+
+## <a name="engineering"></a>Engineering resources<be>
