@@ -1,7 +1,7 @@
 # 1095-B MVP Staging Review Artifacts  
 
 ### Staging URL
-- https://staging.va.gov/download-your-irs-1095-b (Drupal page with dynamic content that has been made available in Staging for testing purposes)
+- https://staging.va.gov/records/download-your-irs-1095-b (Drupal page with dynamic content that has been made available in Staging for testing purposes)
 
 ### Test Users & scenarioes
 -  LOA3 user who has a 1095-B form - vets.gov.user+54@gmail.com | 242SsNrLgPv5
