@@ -18,6 +18,7 @@ body:
   id: product
   attributes:
     label: What is the name of your product?
+  validations:
     required: true
 
 - type: input
@@ -25,7 +26,8 @@ body:
   attributes:
     label: What is the name of your product/team slack channel (to communicate about this ticket)?
     description: We can use this channel to communicate about this ticket
-  required: true
+  validations:
+    required: true
 
 - type: textarea
   id: team
