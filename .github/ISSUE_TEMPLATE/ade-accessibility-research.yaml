@@ -20,69 +20,38 @@ body:
       Designer/Researcher:
       Dedicated accessibility specialist on your team (if you have one):
       Accessibility Champ on your team (if you have one):
-      Product/team Slack channel (to communicate about this ticket):
+      Product/team slack channel (to communicate about this ticket):
       ...
     render: bash
   validations:
     required: true
 
-- type: dropdown
-  id: champion-1
+- type: markdown
   attributes:
-    label: Do you have an accessibility champion?
-    description: If you don't have one, totally ok! Let us know if you're interested in becoming one. [Learn more about becoming an Accessibility Champion](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community)
+    value: "## About your research study (if known)"
 
-    options:
-      - No, we don't have a champion (yet)
-      - No, but we are interested in training one!
-      - Yes, we have a champion
+- type: input
+  id: timeframe
+  attributes:
+    label: What is the timeframe for your testing?
+    description: We will check on our team’s availability and then get back to you
   validations:
     required: true
 
 - type: input
-  id: champion-2
+  id: num-participants
   attributes:
-    label: If you have an accessibility champion, what's their name?
-    description: We'll aim to partner with them if they have time.
-  validations:
-    required: false
-    
-- type: input
-  id: champion-3
-  attributes:
-    label: Is anyone on your team interested in becoming an accessibility champion?
-    description: We'll reach out to them separately to get them started on their journey!
-  validations:
+    label: How many participants using assistive tech do you want?
+  validations: 
     required: false
 
-- type: markdown
-  attributes:
-    value: "## Research details"
 - type: checkboxes
   id: research-details
   attributes:
     label: Calendar checking
     description: Before moving forwards, please [review our capacity calendar for ADE availability](https://calendar.google.com/calendar/embed?src=c_f982350fc73a8162a1088ab14d00dd37335b2b559a60d6b67eb8021416f81c2a%40group.calendar.google.com&ctz=America%2FNew_York)
     options:
-      - label: Based on this calendar, confirm we have specialists who can support your study in your desired timeframe
-      - label: Confirm you are filing this support ticket at least 1 week in advance of said timeframe, so we have enough heads up to provide support
-
-- type: checkboxes
-  id: calendar
-  attributes:
-    label: Have you reviewed the ADE capacity calendar?
-    description: Make sure your research's timeframe occurs when we have time to support y'all
-    options:
-      - label: Yes, we have reviewed the ADE capacity calendar and can confirm specialists are available to support in our research timeframe
-  validations:
-    required: true
-    
-- type: input
-  id: timeframe
-  attributes:
-    label: When is the timeframe for your testing?
-  validations:
-    required: true
+      - label: Confirm you are filing this support ticket at least 2 weeks in advance of this timeframe, so there's enough lead time to provide support
 
 - type: checkboxes
   id: pilot
@@ -125,6 +94,27 @@ body:
       - label: ADE Specialists create a research notes template
       - label: ADE Post research, specialists will add accessibility findings to your research folder
      
-      
-      
+- type: dropdown
+  id: champion-1
+  attributes:
+    label: Do you have an accessibility champion?
+    description: If you don't have one, totally ok! Let us know if you're interested in becoming one. [Learn more about becoming an Accessibility Champion](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community)
+
+    options:
+      - No, we don't have a champion (yet)
+      - No, but we are interested in training one!
+      - Yes, we have a champion
+  validations:
+    required: true
+
+
+    
+- type: input
+  id: champion-3
+  attributes:
+    label: Is anyone on your team interested in becoming an accessibility champion?
+    description: We'll reach out to them separately to get them started on their journey!
+  validations:
+    required: false
+
 
