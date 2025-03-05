@@ -113,7 +113,7 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 - Test pension-related [income questions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76468) and [API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76465)
 
 ### Next
-- Build out MVP of dependent verification tool to capture “no changes to dependents” and auto-submit a 21-0538 form. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1409))
+- Build out [MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md#whatre-you-building) of dependent verification tool to capture “no changes to dependents” and auto-submit a 21-0538 form. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1409)).
 - Add claim submission in-progress email and update confirmation email to align with requirements from Zero Silent Failure initiative. Seperate existing confirmation email into seperate emails for each claim submission type. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1420))
 - Code modularization
 - Auto fill spouse and dependent information ([discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102343))
@@ -121,6 +121,7 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 - Determine why submission and saved dates do not match MyVA. ([submission date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101056) and [saved date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101040))
 - Work with Infrastructure and Arcitecture team to [improve findability of forms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102744) (initial AI work in [GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/verify-dependents.md) and [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689863079145/5b97ba9ea11077f983f3413167f6324f11aa04a8))
 - Create [analytics dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102886) to better understand user and form behavior
+- [Test and review design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103842) of the pension-related income questions in the 686/674 for flow. These questions were added when the forms were originally launched on VA.gov, but never turned on in production. They capture the answers needed for the pension line of business to adjust changes in benefits.
 
 ### Future
 - Add the ability to [download a pdf of the submitted claim](https://github.com/orgs/department-of-veterans-affairs/projects/1237/views/13?sliceBy%5Bvalue%5D=ND%2FD+ZSF+%7C+Stage+5+%28Confirmation+page+full+update%29) from the confirmation page (as part of the Zero Silent Failure initiative). This work was put on hold until another team implements a solution.
