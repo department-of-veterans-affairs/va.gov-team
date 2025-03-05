@@ -42,7 +42,6 @@ We aim to make the updated experiences accessible, streamlined, and intuitive. I
 
 The MHV to VA.gov initiative consists of several different products, each with its own discrete product outlines and teams:
 
-The MHV to VA.gov Initiative consists of several different products, each with their own discrete product outlines:
   - [MHV on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md) (overall initiative, team members, business partners)
   - [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product)
   - [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
