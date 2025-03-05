@@ -7,7 +7,9 @@ Delegates are responsible for managing the care or finacial affairs of Veterans 
 - [Product information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/delegate%20access%20)
 
 
-## Related research
+## Related research and artifacts
+- [VA Delegate Access Current State v0.109](https://drive.google.com/file/d/1ZSwzSNEosANbqH731wsqvu1woyGfpGKv/view?usp=sharing) - note: best viewed by downloading
+- [VA Delegate Access Future State v0.36](https://drive.google.com/file/d/1ygY5Xy8v8KKpuudSIZ0nMq5i-ZPO7x_S/view?usp=sharing)  - note: best viewed by downloading
 - [2023-11 ARM find a representative user test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2023-11-ARM-findarep-nav-usertest/research-findings.md#key-findings)
    - Fidning 1 - Veterans main goal for getting a representative is to aid in fast, comprehensive, successful filing of their claims. When that goal is not met, Veterans look for alternative support.
    - Finding 4 - Veterans continuously struggled with understanding representative terms and roles.
