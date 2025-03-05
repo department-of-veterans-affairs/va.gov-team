@@ -29,7 +29,7 @@
    - As a Veteran I want my 1095-B form to be secure so that my information is protected - user needs to be verified, not just signed into va.gov and they see a verification alert.
 
 ### Coverage for References
-- Functionality has been verified via staging test users for all user stories - 100% 
+- Functionality has been verified via test users for all user stories - 100% 
 
 ### Summary (Defects) Reports
 - N/A
