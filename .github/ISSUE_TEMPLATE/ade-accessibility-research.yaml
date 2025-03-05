@@ -24,10 +24,10 @@ body:
 - type: input
   id: slack-channel
   attributes:
-    label: What is the name of your product/team slack channel (to communicate about this ticket)?
+    label: What is the name of your product/team slack channel?
     description: We can use this channel to communicate about this ticket
   validations:
-    required: true
+    required: false
 
 - type: textarea
   id: team
@@ -40,8 +40,7 @@ body:
       Designer/Researcher:
       Dedicated accessibility specialist on your team (if you have one):
       Accessibility Champ on your team (if you have one):
-      Product/team slack channel (to communicate about this ticket):
-      ...
+    
     render: bash
   validations:
     required: true
