@@ -57,7 +57,15 @@ As of December 2025, all four of the essential health tools are now fully availa
 
 ## <a name="2025goals"></a>Where are we going? - 2025 goals/key milestones<be>
 
+**Milestone 1 (3/17/25)** 
 
+- VA.gov tools pages and facility pages keep users on VA.gov + Appointments redirects to VA.gov
+
+**MIlestone 2 (6/2/25)**
+
+- Secure message, Meds, and Medical Records re-directs to VA.gov 
+
+<img width="889" alt="Screenshot 2025-03-05 at 5 39 19 PM" src="https://github.com/user-attachments/assets/9906d976-6bd8-4d3f-acca-41c46c2cde03" />
 
 
 ## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
