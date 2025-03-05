@@ -18,7 +18,7 @@
    - We identified two issues that we are currently working to resolve; however, they will not be resolved prior to Staging Review.
 
 ### Regression Test Plan
-- This is a net new feature/product, future  iterations will include a regression plan to ensure stable user experience. This is not applicable for this MVP product.
+- This is a net new feature/product, future  iterations will include a regression plan to ensure stable user experience. This is not applicable for this MVP product. If major issues arise during release, we will disable the feature toggle.
 
 ### Test Plan
 - We will be enable feature toggle `show_digital_form_1095b` for X% of users, increasing to 100%. At each stage of release we will manually verify and document all aspects of the product including the following test scenarios:
