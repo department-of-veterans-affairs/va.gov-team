@@ -60,6 +60,7 @@ body:
 - type: checkboxes
   id: research-details
   attributes:
+    label: Check for lead time
     options:
       - label: Confirm you are filing this support ticket at least 2 weeks in advance of this timeframe, so there's enough lead time to provide support
 
