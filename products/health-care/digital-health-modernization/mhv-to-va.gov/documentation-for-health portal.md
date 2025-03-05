@@ -26,6 +26,8 @@ Research from 2018, repeated in late 2020, shows that Veterans find it difficult
 
 The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov. As we consolidate the health experience, we will work closely with the "classic" My HealtheVet / Office of Connected Care (OCC) and with teams throughout OCTO.
 
+We aim to make the updated experiences accessible, streamlined, and intuitive. In a single place on VA.gov, Veterans will be able to manage all interactions with VA related to health, plus learn/manage other benefits. 
+
 [See the full product brief here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md)
 
 
