@@ -99,7 +99,7 @@ Before we look at the prototype, let’s start with a couple of warm-up question
 
 * To help us get started, could you share a bit about your experience with completing a disability claim, whether online or with a paper form?
 
-* Based on what you shared with Perigean, I see you claimed \[relevant condition\]. Is this correct?
+* Based on what you shared with Perigean, I see you claimed a mental health condition. Is this correct?
 
 ## **Prototype Overview \+ Technology Set-Up**
 
@@ -163,7 +163,7 @@ We are going to move quickly through the rest of step 2\. They are not relevant 
 
 Thanks for your patience moving quickly through those screens. We’re going to slow down now for the rest of the session. 
 
-The next part of the design touches on traumatic experiences. It should take around 15 minutes– are you ok to continue?
+The next part of the design touches on traumatic experiences. It should take around 20-25 minutes– are you ok to continue?
 
 Please complete each page however you would do it if you were alone. I will prompt you with questions as we go. 
 
@@ -186,7 +186,7 @@ Please complete each page however you would do it if you were alone. I will prom
 
 ---
 
-### 0781 Traumatic events (15 min)
+### 0781 Traumatic events (20 min)
 
 #### **Task 2: Comprehension of Intro Content**
 
@@ -226,7 +226,7 @@ Please complete each page however you would do it if you were alone. I will prom
 * Was any content on this page unclear or confusing? If so, which?  
 * For our purposes, imagine you would select "police report."
 
-\[Screen 5- Police report\]
+\[Screen 5- Police report location\]
 
 * \[Observe and prompt to continue\]
 
@@ -259,7 +259,7 @@ Now I’m going to ask you to show me how you would go about changing your respo
 * *Perceived differences between the edit and add flow*  
 * *Attempts to return to previous page from an interior page (not possible)*
 
-**4.2 Cancel Edit**: Imagine you rewrote your description of a traumatic event, but decided you preferred your original answer. How would you undo your change?
+**4.2 Cancel Edit**: Imagine you started to rewrite details about your traumatic event, but then decided you wanted to keep your original answers. How would you approach discarding your changes? 
 
 * In your own words, what is the yellow alert saying?
 
@@ -270,6 +270,8 @@ Now I’m going to ask you to show me how you would go about changing your respo
 ##### **4.3 Remove Police Report:** Imagine you decided you don’t want to include a police report in your claim. How would you remove it?
 
 * What is the purpose of the yellow alert?
+
+* Go ahead and delete it.
 
 *Look out for:*
 
@@ -295,9 +297,9 @@ Now I’m going to ask you to show me how you would go about changing your respo
 
 ---
 
-### 0781 Behavioral Changes (15 min)
+### 0781 Behavioral Changes (20 min)
 
-The next set of tasks will focus on how your life changed as a result of your traumatic experiences. It will take about 15 minutes. Are you ok to continue?
+The next set of tasks will focus on how your life changed as a result of your traumatic experiences. It will take about 20 minutes. Are you ok to continue?
 
 Continue reviewing the form at your own pace. As before, you can respond using your own experience, or speak more generally. 
 
@@ -310,9 +312,9 @@ Continue reviewing the form at your own pace. As before, you can respond using y
 
 ##### \[Screen 2- only Combat\] 
 
-* \[non-Combat\] This page wouldn’t be relevant for your claim. Let’s continue on.
+* \[only Combat\] This page would be relevant for your claim if your condition was combat-related. 
 
-* \[Combat only\] Explain how you decided what to select on this page.
+  * If so, explain to me how you decided what to select on this page.
 
 ##### \[Screen 3- Behavior list\] 
 
@@ -353,6 +355,8 @@ Next, I’m going to ask you to show me how you would go about changing your res
 
 * In your own words, what is the yellow alert saying?
 
+* Go ahead and delete the event. 
+
 **6.3 Return to Summary Screen:** Imagine you wanted to review your answers on the summary page. How would you navigate there? 
 
 *Look out for:*
@@ -388,9 +392,9 @@ We're going to pick up where we left off. Please continue to review and complete
 
 ##### \[Screen 1- only MST-Consent\] 
 
-* \[MST only\] Do you have any questions about this page?
+* \[MST only\]This page would be relevant for your claim if your condition was MST-related. 
 
-* \[non-MST\] This page wouldn’t be relevant for your claim. Let’s continue on.
+  * If this would be you, what questions do you have about this page?
 
 \[Screen 2- Additional information\] 
 
@@ -430,7 +434,9 @@ Next, we’re going to walk through how you might add support to your claim. It 
 
 ##### \[Screen 1- Evidence orientation\]
 
-*  Based on this page, what do you think will happen next?
+* In your own words, what options does VA give you for evidence collection? 
+
+* Based on this page, what do you think will happen next?
 
 ##### \[Screen 2- Medical record source choice page\] 
 
@@ -518,8 +524,8 @@ For this next task, walk me through how you would respond to questions about sup
 
 ##### \[Screen 4- Evidence summary\] 
 
-* **4.1 Change evidence collection method:** Imagine you just realized that you already have copies of your medical records ready to upload – so you don’t need VA to request them for you anymore. How would you go about making this change in the form?  
-* **4.2 Evidence Flow:** How did the evidence section meet or differ from your expectations?  
+* Does anything stand out to you about this page?  
+* How did the evidence section meet or differ from your expectations?  
   * Is there any additional information or context the design could have provided to improve it?
 
 *Look out for:*
