@@ -31,7 +31,7 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 
 Research from 2018, repeated in late 2020, shows that Veterans find it difficult to navigate commonplace interactions with VA health care. The VA ecosystem is so complex that veterans feel discouraged from applying for, managing, and maximizing their benefits.
 
-While the team’s core responsibility focuses on the MHV landing page, close collaboration with other teams ensures Veterans have a seamless experience managing their healthcare in a single place. 
+While the team’s core responsibility focuses on the MHV landing page and Secondary Navigation, close collaboration with other teams ensures that Veterans have a seamless experience managing their healthcare in a single place. 
 
 [See the full product brief here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md)
 
