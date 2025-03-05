@@ -1,5 +1,5 @@
 name: "Research Support Ticket (ADE)"
-description: "Request support for user research with Veterans who are using assistive technology"
+description: "Request support for user research with Veterans who are using assistive technology (AT)"
 title: "[ADE Research]: Team name - product name"
 labels: ["508/Accessibility, ADE, ADE Research"]
 assignees: sara-amanda,lakper,cindymerrill,artsymartha68
@@ -60,7 +60,7 @@ body:
 - type: checkboxes
   id: research-details
   attributes:
-    label: Check for lead time
+    label: Are you allowing enough lead time?
     options:
       - label: Confirm you are filing this support ticket at least 2 weeks in advance of this timeframe, so there's enough lead time to provide support
 
@@ -72,14 +72,24 @@ body:
     required: false
 
 - type: checkboxes
-  id: pilot
+  id: AT-types
   attributes:
-    label: Are you interested in doing a pilot of your study with a ADE accessibility specialist before the study begins?
-    description: Review the [Assistive Technology Pilot Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md) to learn about piloting with ADE.
+    label: What types of AT do you want to test?
     options:
-      - label: Yes, we are interested in doing a pilot
+      - label: Screen readers
+      - label: Screen magnifiers
+      - label: Speech recognition
+      - label: Other
     
-    
+   - type: checkboxes
+  id: device-types
+  attributes:
+    label: What devices do you want to test?
+    options:
+      - label: Mobile phones
+      - label: Tablets
+      - label: Desktops/laptops
+     
 - type: textarea
   id: artifacts
   attributes:
