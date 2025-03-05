@@ -47,9 +47,13 @@ The MHV to VA.gov initiative consists of several different products, each with i
 
 ## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
 
-In September 2023, the My HealtheVet on VA.gov landing page was launched (see more about the landing page here)[https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page]. 
+In September 2023, the My HealtheVet on VA.gov landing page was launched ([see more about the landing page here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page)). 
 
-Utilizing a phased approach, teams have validated and iterated on My HealtheVet on VA.gov experience to ensure that it meets the needs of Veterans and caregivers.  All major health tools (appointments, medications, secure messaging, and medical records) are now available on VA.gov.  
+Utilizing a phased approach, teams have worked to methodically add the four health tools to My HealtheVet on VA.gov (appointments, medications, secure messaging, and medical records). This allowed teams to monitor, validate and iterate on the My HealtheVet on VA.gov experience to ensure that it meets the needs of Veterans and caregivers.  
+
+As of June 21, 2024, the major health tools (appointments, medications, secure messaging, and medical records) are now available on VA.gov.  
+
+
 
 **Brief timeline** 
 
