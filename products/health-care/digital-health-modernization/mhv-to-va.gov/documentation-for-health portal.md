@@ -25,9 +25,10 @@ Links to Figma files, test users, and previous research
 
 **Overview**
 
+
 Research from 2018, repeated in late 2020, shows that Veterans find it difficult to navigate commonplace interactions with VA health care. The VA ecosystem is so complex that veterans feel discouraged from applying for, managing, and maximizing their benefits.
 
-The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov. As we consolidate the health experience, we will work closely with the "classic" My HealtheVet / Office of Connected Care (OCC) and with teams throughout OCTO.
+The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov, mirgating from [My HealtheVet classic](https://www.myhealth.va.gov/mhv-portal-web/home).  As we consolidate the health experience, we will work closely with the "classic" My HealtheVet / Office of Connected Care (OCC) and with teams throughout OCTO.
 
 We aim to make the updated experiences accessible, streamlined, and intuitive. In a single place on VA.gov, Veterans will be able to manage all interactions with VA related to health, plus learn/manage other benefits. 
 
@@ -36,7 +37,9 @@ We aim to make the updated experiences accessible, streamlined, and intuitive. I
 
 ## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
 
+Utilizing a phased approach, we have validated and iterated on My HealtheVet on VA.gov to ensure that it meets the needs of Veterans and caregivers. All major health tools (appointments, medications, secure messaging, and medical records) are now available on VA.gov. 
 
+ goal is to encourage more Veterans to make the new MHV experience on VA.gov their primary portal and retire the duplicate portal experiences that cause Veteran confusion.
 
 ## <a name="2025goals"></a>Where are we going? - 2025 goals/key milestones<be>
 
