@@ -1,0 +1,95 @@
+@startuml
+
+actor AccreditedRepresentative
+participant "vets-website\n(React Frontend)" as Frontend
+participant "vets-api\n(Ruby on Rails Backend)" as Backend
+participant "Lighthouse API\n(Benefits Claims API)" as LighthouseAPI
+database "GitHub repository" as Github
+database "VA.gov Database\n(PostgreSQL)" as VAGovDB
+
+' --- POA REQUEST LIST ---
+AccreditedRepresentative -> Frontend : Access POA Request List View
+Frontend -> Frontend : Show List of VSO POA Requests
+alt AccreditedRepresentative is Logged In
+    Frontend -> Backend : GET /v0/accredited_representative_portal/poa_requests
+    Backend -> Backend : Verify AccreditedRepresentative Authentication
+
+    Backend -> VAGovDB : SELECT * FROM ar_user_account_accredited_individuals\nWHERE power_of_attorney_holder_type = 'veteran_service_organization'\nAND user_account_email = ?
+
+    Backend -> VAGovDB : SELECT r.*, f.*, res.*\nFROM ar_power_of_attorney_requests r\nJOIN ar_power_of_attorney_forms f ON f.power_of_attorney_request_id = r.id\nLEFT JOIN ar_power_of_attorney_request_resolutions res\nON res.power_of_attorney_request_id = r.id\nWHERE r.accredited_individual_registration_number = ?
+
+    VAGovDB --> Backend : Return POA Request List Data
+    Backend --> Frontend : Return POA Request List Response
+    Frontend --> AccreditedRepresentative : Display POA Request List
+else AccreditedRepresentative is Not Logged In
+    Frontend --> AccreditedRepresentative : Display Login Required Message
+    Frontend -> Frontend : Redirect to Login Page
+end
+
+' --- POA REQUEST DETAILS ---
+AccreditedRepresentative -> Frontend : Access POA Request Details View
+Frontend -> Frontend : Show POA Request Details
+alt AccreditedRepresentative is Logged In
+    Frontend -> Backend : GET /v0/accredited_representative_portal/poa_requests/{id}
+    Backend -> Backend : Verify AccreditedRepresentative Authentication
+
+    Backend -> VAGovDB : SELECT * FROM ar_user_account_accredited_individuals\nWHERE power_of_attorney_holder_type = 'veteran_service_organization'\nAND user_account_email = ?
+
+    Backend -> VAGovDB : SELECT r.*, f.data, res.*\nFROM ar_power_of_attorney_requests r\nJOIN ar_power_of_attorney_forms f ON f.power_of_attorney_request_id = r.id\nLEFT JOIN ar_power_of_attorney_request_resolutions res\nON res.power_of_attorney_request_id = r.id\nWHERE r.id = ? AND r.accredited_individual_registration_number = ?
+
+    VAGovDB --> Backend : Return POA Request Details Data
+    Backend --> Frontend : Return POA Request Details Response
+    Frontend --> AccreditedRepresentative : Display POA Request Details
+else AccreditedRepresentative is Not Logged In
+    Frontend --> AccreditedRepresentative : Display Login Required Message
+    Frontend -> Frontend : Redirect to Login Page
+end
+
+' --- POA REQUEST DECISION ---
+AccreditedRepresentative -> Frontend : Post Decision on accepting POA Request
+Frontend -> Frontend : Post Decision on accepting POA Request
+alt AccreditedRepresentative is Logged In
+    Frontend -> Backend : POST /v0/accredited_representative_portal/poa_requests/{id}/decisions
+    
+    group Decision Processing
+        Backend -> Backend : Verify AccreditedRepresentative Authentication
+        Backend -> VAGovDB : Query 'ar_user_account_accredited_individuals' Table for Authorization
+        
+        Backend -> LighthouseAPI : Submit Decision to Benefits Claims API
+        LighthouseAPI --> Backend : Return Decision Status
+        
+        alt Success Response from Lighthouse
+            Backend -> VAGovDB : Create Record in 'ar_power_of_attorney_request_decisions' Table\n(decision_type: 'acceptance'|'declination')
+            Backend -> VAGovDB : Create Record in 'ar_power_of_attorney_request_resolutions' Table\n(resolving_type: 'decision')
+            Backend --> Frontend : Return Success Response with Updated Request Data
+            Frontend --> AccreditedRepresentative : Display Success Message & Updated Status
+        else Error Response from Lighthouse
+            Backend --> Frontend : Return Error Response
+            Frontend --> AccreditedRepresentative : Display Error Message & No Status Change
+        end
+    end
+else AccreditedRepresentative is Not Logged In
+    Frontend --> AccreditedRepresentative : Display Login Required Message
+    Frontend -> Frontend : Redirect to Login Page
+end
+
+' --- ALLOW LIST SYNC ---
+note over Backend
+  Scheduled job runs every 15 minutes
+  AccreditedRepresentativePortal::AllowListSyncJob
+end note
+
+Backend -> Github: Fetch current allow list CSV from sensitive data repo
+Github --> Backend: Return allow list data
+
+Backend -> VAGovDB: Sync ar_user_account_accredited_individuals table\nwith current CSV data
+
+note right of VAGovDB
+  Table schema:
+  - accredited_individual_registration_number
+  - power_of_attorney_holder_type ('veteran_service_organization')
+  - user_account_email
+  - user_account_icn
+end note
+
+@enduml
