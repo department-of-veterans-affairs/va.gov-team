@@ -30,7 +30,7 @@ Links to Figma files, test users, and previous research
   
 **An overview of MHV on VA.gov—what it is and why it’s happening
 
-## <a name="existingfeatures"></a>- Where are we now? - Existing features<be>
+## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
 
 ## <a name="2025goals"></a>Where are we going? - 2025 goals/key milestones<be>
 
