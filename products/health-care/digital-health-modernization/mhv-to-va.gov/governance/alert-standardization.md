@@ -107,10 +107,15 @@ Benefit hub pages corresponding with these tools currently have more complex ver
 The entire `/my-health` portal sits behind authentication and every application under this namespace must require authentication. Thus, any unauthenticated user who attempts to access a URL within any application in this space should trigger the sign-in modal. Until a user signs in, we cannot determine whether a user has authorization to access the page they are attempting to reach. 
 
 ## 403 Access denied error component
-There are two versions of the 403 component: one specific to  more general for larger VA.gov
+Caution: the 403 access denied error component is still subject to change. [Link to experimental design ticket.](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3741)
 
+The 403 error sends the user to a new page; this error component will only be experienced by users with access to My HealtheVet who attempt to access a url that they do not have access to within the /my-health name space (i.e. a records url for a different user). As shown in the screenshot below, the 403 error includes guidance to call the My HealtheVet help desk, try other health-related resources, or navigate someplace new using the MHV secondary nav.
 
+[Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=685-14636)
 
+<details><summary>403 for MHV users</summary>
+![image](https://github.com/user-attachments/assets/c624f557-3cff-415d-85ee-2008b8415961)
+</details>
 
 ## 404 Page not found component
 Guidance coming soon.
