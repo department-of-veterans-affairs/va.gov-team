@@ -11,12 +11,12 @@ This document serves as a resource for future work, ensuring that our team and f
 * [Where are we going? - 2025 goals/key milestones](#2025goals)
 * [Directory of teams](#directoryofteams)
 * [High-level performance and adoption metrics for the health portal](#metrics)
-* [Design resources](#design)
+* [Design and research resources](#design)
 * [Engineering resources](#engineering) 
 
 
 Relevant Murals, including API logic for the health portal
-A directory of teams in this space, including POs
+
 Links to Figma files, test users, and previous research
 
 ## <a name="background"></a>Background of the My HealtheVet transition<be>
@@ -54,6 +54,6 @@ The MHV to VA.gov initiative consists of several different products, each with i
 
 ## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
 
-## <a name="design"></a>Design resources<be>
+## <a name="design"></a>Design and research resources<be>
 
 ## <a name="engineering"></a>Engineering resources<be>
