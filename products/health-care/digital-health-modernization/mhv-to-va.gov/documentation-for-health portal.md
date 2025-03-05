@@ -14,21 +14,20 @@ This document serves as a resource for future work, ensuring that our team and f
 * [Engineering resources](#engineering) 
 
 
-
-
-
 Relevant Murals, including API logic for the health portal
 A directory of teams in this space, including POs
 Links to Figma files, test users, and previous research
 
+## <a name="Background"></a>Background of the My HealtheVet transition<be>
 
-## <a name="background"></a>Background of the My HealtheVet transition<be>
-
-- Background
 **Overview**
-- An overview of MHV on VA.gov—what it is and why trantion is happening
-- Link to product overview
-- History of MHV, etc
+
+Research from 2018, repeated in late 2020, shows that Veterans find it difficult to navigate commonplace interactions with VA health care. The VA ecosystem is so complex that veterans feel discouraged from applying for, managing, and maximizing their benefits.
+
+The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov. As we consolidate the health experience, we will work closely with the "classic" My HealtheVet / Office of Connected Care (OCC) and with teams throughout OCTO.
+
+[See the full product brief here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md)
+
 
 ## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
 
