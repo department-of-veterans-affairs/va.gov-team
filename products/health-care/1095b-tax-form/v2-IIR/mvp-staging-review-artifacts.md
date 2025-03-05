@@ -15,7 +15,7 @@
   
 ### Accessibility Test Artifcat
 - [Issue 103891](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103891)
-   - We identified two issues that we are currently working to resolve; however, they will not be resolved prior to Staging Review.
+   - We identified two issues that we are currently working to resolve.
 
 ### Regression Test Plan
 - This is a net new feature/product, future  iterations will include a regression plan to ensure stable user experience. This is not applicable for this MVP product. If major issues arise during release, we will disable the feature toggle.
