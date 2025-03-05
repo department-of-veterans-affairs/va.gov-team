@@ -8,7 +8,7 @@ body:
   attributes:
     value: "## About your team"
 - type: input
-  id: team
+  id: team-name
   attributes:
     label: What is the name of your team?
   validations:
