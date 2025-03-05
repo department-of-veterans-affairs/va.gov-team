@@ -59,11 +59,28 @@ As of December 2025, all four of the essential health tools are now fully availa
 
 **Milestone 1 (3/17/25)** 
 
-- VA.gov tools pages and facility pages keep users on VA.gov + Appointments redirects to VA.gov
+- Appointments no longer available on MHV. MHV Classic link redirects to appointments on VA.gov.
+- All health care links on VA.gov (facility pages, tools pages, My VA, etc.) will direct to the portal
+on VA.gov for a consistent experience. Users will be able to “Go back to the previous version of
+MHV” via links in the portal, but the user interface will not encourage users to go to MHV Classic.
+- No changes to secure message, medications, or medical records on the new or classic MHV
+experiences. Users who directly go to MHV Classic will continue to have the same experience.
+- Update MHV Classic “Try Me” banners to let users know that coming soon (June 1), users will be re-
+directed to VA.gov for secure messaging, medications, and medical records.
+- MyVA Health users can still get to MyVA Health from both portals.
 
-**MIlestone 2 (6/2/25)**
+**Milestone 2 (6/2/25)**
 
-- Secure message, Meds, and Medical Records re-directs to VA.gov 
+- Secure messaging, medications, and medical records no longer available on MHV. Link re-directs to
+tools on the new MHV experience on VA.gov. Appointments will continue to re-direct to the new
+experience.
+- mhv-portal-web/home will serve primarily as a familiar landing page for users to get to where they
+want to go as we transition to VA.gov experience. The MHV Classic experience will continue to have
+a limited number of features available, that are not yet available on VA.gov (e.g. newsletter).
+- MHV Portal on VA.gov will include a link to SMHD.
+- MHV Portal on VA.gov will no longer have "Go back to the previous version of MHV" links for the
+tool experiences. There will be some links embedded in the portal back to MHV for experiences
+that are not yet on VA.gov. There will still be links to My VA Health.
 
 <img width="889" alt="Screenshot 2025-03-05 at 5 39 19 PM" src="https://github.com/user-attachments/assets/9906d976-6bd8-4d3f-acca-41c46c2cde03" />
 
