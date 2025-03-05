@@ -57,6 +57,8 @@ As of December 2025, all four of the essential health tools are now fully availa
 
 ## <a name="2025goals"></a>Where are we going? - 2025 goals/key milestones<be>
 
+*Milestones are subject to change* 
+
 **Milestone 1 (3/17/25)** 
 
 - Appointments no longer available on MHV. MHV Classic link redirects to appointments on VA.gov.
