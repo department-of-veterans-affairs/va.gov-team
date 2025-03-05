@@ -25,7 +25,9 @@ Links to Figma files, test users, and previous research
 
 **Overview**
 
-The My HealtheVet (MHV) project is part of the Health Modernization Initiative at the VA, operating within the Office of the CTO (OCTO). The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov, mirgating from [My HealtheVet classic](https://www.myhealth.va.gov/mhv-portal-web/home). 
+The My HealtheVet (MHV) project is part of the Health Modernization Initiative at the VA, operating within the Office of the CTO (OCTO). 
+
+The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov, mirgating from [My HealtheVet classic](https://www.myhealth.va.gov/mhv-portal-web/home). 
 
 Research from 2018, repeated in late 2020, shows that Veterans find it difficult to navigate commonplace interactions with VA health care. The VA ecosystem is so complex that veterans feel discouraged from applying for, managing, and maximizing their benefits.
 
