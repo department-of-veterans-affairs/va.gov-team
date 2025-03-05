@@ -1,0 +1,61 @@
+@startuml
+
+actor "Accredited Representative"
+participant "vets-website\n(React Frontend)" as Frontend
+participant "vets-api\n(Rails Backend)" as Backend
+participant "Lighthouse API\n(Benefits Claims API)" as LighthouseAPI
+database "VA.gov Database\n(PostgreSQL)" as VAGovDB
+
+' --- List POA Requests Flow ---
+"Accredited Representative" -> Frontend: View POA Requests List
+Frontend -> Backend: GET /v0/accredited_representative_portal/poa_requests
+activate Backend
+
+Backend -> VAGovDB: Verify rep in ar_user_account_accredited_individuals
+VAGovDB --> Backend: Authorization Status
+
+Backend -> VAGovDB: Query POA Requests with Joins:\n- power_of_attorney_forms\n- power_of_attorney_request_resolutions\n- accredited_individual\n- accredited_organization
+VAGovDB --> Backend: POA Requests Data
+
+Backend --> Frontend: JSON Response with POA List
+deactivate Backend
+Frontend --> "Accredited Representative": Display POA Requests
+
+' --- View POA Request Details Flow ---
+"Accredited Representative" -> Frontend: Select POA Request
+Frontend -> Backend: GET /v0/accredited_representative_portal/poa_requests/{id}
+activate Backend
+
+Backend -> VAGovDB: Verify rep authorization for request
+VAGovDB --> Backend: Authorization Status
+
+Backend -> VAGovDB: Query Single POA Request with:\n- Form Data\n- Resolution Status\n- Accredited Individual Info\n- Organization Info
+VAGovDB --> Backend: Detailed POA Data
+
+Backend --> Frontend: JSON Response with POA Details
+deactivate Backend
+Frontend --> "Accredited Representative": Display POA Details
+
+' --- Make Decision Flow ---
+"Accredited Representative" -> Frontend: Submit Decision\n(Accept/Decline)
+Frontend -> Backend: POST /v0/accredited_representative_portal/poa_requests/{id}/decision
+activate Backend
+
+Backend -> VAGovDB: Verify rep can make decision
+VAGovDB --> Backend: Authorization Status
+
+Backend -> LighthouseAPI: Submit POA Decision
+LighthouseAPI --> Backend: Decision Status
+
+alt Successful Decision
+    Backend -> VAGovDB: Create PowerOfAttorneyRequestDecision
+    Backend -> VAGovDB: Create PowerOfAttorneyRequestResolution
+    Backend --> Frontend: Success Response
+    Frontend --> "Accredited Representative": Display Success & Updated Status
+else Failed Decision
+    Backend --> Frontend: Error Response
+    Frontend --> "Accredited Representative": Display Error Message
+end
+deactivate Backend
+
+@enduml
