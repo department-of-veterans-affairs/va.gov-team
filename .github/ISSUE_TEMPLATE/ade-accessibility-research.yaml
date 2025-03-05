@@ -112,7 +112,7 @@ body:
       - label: CodePen
       - label: Staging
       - label: Other    
-validations:
+  validations:
     required: true
 
 - type: textarea
