@@ -1,6 +1,6 @@
-name: "Accessibility Research Support Ticket (ADE)"
+name: "Research Support Ticket (ADE)"
 description: "Request support for user research with Veterans who are using assistive technology"
-title: "[ADE Accessibility Research]: Team name, product name"
+title: "[ADE Research]: Team name - product name"
 labels: ["508/Accessibility, ADE, ADE Research"]
 assignees: sara-amanda,lakper,cindymerrill,artsymartha68
 body:
@@ -60,7 +60,6 @@ body:
 - type: checkboxes
   id: research-details
   attributes:
-    label: Check for lead time
     options:
       - label: Confirm you are filing this support ticket at least 2 weeks in advance of this timeframe, so there's enough lead time to provide support
 
