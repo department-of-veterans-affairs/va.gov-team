@@ -18,10 +18,15 @@
    - We identified two issues that we are currently working to resolve; however, they will not be resolved prior to Staging Review.
 
 ### Regression Test Plan
-- 
+- This is a net new feature/product, future  iterations will include a regression plan to ensure stable user experience. This is not applicable for this MVP product.
 
 ### Test Plan
-- 
+- We have a combination of manual user testing, unit testing, and E2E testing. At each stage of release we will manually verify and document all aspects of the product including the following test scenarios:
+   - As a Veteran I want to be able to view and download my 1095-B form online so that I can file my taxes. - happy path, download links appear
+   - As a Veteran who uses a screen reader, I want to be able to know what info is on my 1095-B so that I can file taxes appropriately. - happy path, text file available
+   - As a Veteran I want to know if I don’t have a 2024 1095-B so that I can take the appropriate actions. - user does not have a 1095-B in the database
+   - As a Veteran I want to know if I am unable to download my 1095-B files so that I can take the appropriate actions to resolve. - user encounters an error when trying to download their files
+   - As a Veteran I want my 1095-B form to be secure so that my information is protected - user needs to be verified, not just signed into va.gov
 
 ### Coverage for References
 - 
