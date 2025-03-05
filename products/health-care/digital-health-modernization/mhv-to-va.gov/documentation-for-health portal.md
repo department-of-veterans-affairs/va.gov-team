@@ -9,9 +9,9 @@ This document serves as a resource for future work, ensuring that our team and f
 ## On this page
 
 * [Background of the My HealtheVet transition](#background)
+* [Directory of teams](#directoryofteams)
 * [Where are we now? - Existing features](#existingfeatures)
 * [Where are we going? - 2025 goals/key milestones](#2025goals)
-* [Directory of teams](#directoryofteams)
 * [High-level performance and adoption metrics for the health portal](#metrics)
 * [Design and research resources](#design)
 * [Engineering resources](#engineering) 
@@ -35,15 +35,6 @@ While the team’s core responsibility focuses on the MHV landing page, close co
 
 [See the full product brief here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md)
 
-
-## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
-
-Utilizing a phased approach, we have validated and iterated on My HealtheVet on VA.gov to ensure that it meets the needs of Veterans and caregivers. All major health tools (appointments, medications, secure messaging, and medical records) are now available on VA.gov. 
-
- goal is to encourage more Veterans to make the new MHV experience on VA.gov their primary portal and retire the duplicate portal experiences that cause Veteran confusion.
-
-## <a name="2025goals"></a>Where are we going? - 2025 goals/key milestones<be>
-
 ## <a name="directoryofteams"></a>Directory of teams<be>
 
 The MHV to VA.gov initiative consists of several different products, each with its own discrete product outlines and teams:
@@ -56,6 +47,16 @@ The MHV to VA.gov initiative consists of several different products, each with i
   - [Community Care](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/community-care)
   - [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling)
   - [Health Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/health-resources)
+
+## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
+
+Utilizing a phased approach, we have validated and iterated on My HealtheVet on VA.gov to ensure that it meets the needs of Veterans and caregivers. All major health tools (appointments, medications, secure messaging, and medical records) are now available on VA.gov. 
+
+ goal is to encourage more Veterans to make the new MHV experience on VA.gov their primary portal and retire the duplicate portal experiences that cause Veteran confusion.
+
+## <a name="2025goals"></a>Where are we going? - 2025 goals/key milestones<be>
+
+
 
 
 ## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
