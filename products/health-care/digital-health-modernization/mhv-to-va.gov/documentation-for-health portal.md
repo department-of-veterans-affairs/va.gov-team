@@ -1,4 +1,4 @@
-# My HealtheVet/Health portal transition documentation (WIP) 
+# My HealtheVet on VA.gov transition documentation (WIP) 
 
 Last Update: March 5, 2025
 
