@@ -45,11 +45,6 @@ The MHV to VA.gov initiative consists of several different products, each with i
   - [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/README.md)
   - [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling)
 
-    
-  - [Newsletter](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/newsletter)
-  - [Community Care](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/community-care)
-  - [Health Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/health-resources)
-
 ## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
 
 Utilizing a phased approach, we have validated and iterated on My HealtheVet on VA.gov to ensure that it meets the needs of Veterans and caregivers. All major health tools (appointments, medications, secure messaging, and medical records) are now available on VA.gov. 
