@@ -37,7 +37,7 @@ While the team’s core responsibility focuses on the MHV landing page, close co
 
 ## <a name="directoryofteams"></a>Directory of teams<be>
 
-The MHV to VA.gov initiative consists of several different products, each with its own discrete product outlines and teams:
+The MHV to VA.gov initiative consists of several different products, each with its discrete product outlines and teams:
 
   - [MHV on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md) (overall initiative) 
   - [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product)
@@ -47,8 +47,14 @@ The MHV to VA.gov initiative consists of several different products, each with i
 
 ## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
 
-Utilizing a phased approach, we have validated and iterated on My HealtheVet on VA.gov to ensure that it meets the needs of Veterans and caregivers. All major health tools (appointments, medications, secure messaging, and medical records) are now available on VA.gov. 
+In September 2023, the My HealtheVet on VA.gov landing page was launched (see more about the landing page here)[https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page]. 
 
+Utilizing a phased approach, teams have validated and iterated on My HealtheVet on VA.gov experience to ensure that it meets the needs of Veterans and caregivers.  All major health tools (appointments, medications, secure messaging, and medical records) are now available on VA.gov.  
+
+**Brief timeline** 
+
+ - 
+ - 
  goal is to encourage more Veterans to make the new MHV experience on VA.gov their primary portal and retire the duplicate portal experiences that cause Veteran confusion.
 
 ## <a name="2025goals"></a>Where are we going? - 2025 goals/key milestones<be>
