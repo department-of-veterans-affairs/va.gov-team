@@ -7,14 +7,14 @@ This document serves as a resource for future work, ensuring that our team and f
 ## On this page
 
 * [Background of the My HealtheVet transition](#Background)
-* [Existing features - Where are we now?](#existingfeatures)
-* [2025 goals/key milestones - Where are we going?](#2025goals)
+* [Where are we now? - Existing features](#existingfeatures)
+* [Where are we going? - 2025 goals/key milestones](#2025goals)
+* [High-level performance and adoption metrics for the health portal](#metrics)
 
 
 
 
 
-High-level performance and adoption metrics for the portal
 Relevant Murals, including API logic for the health portal
 A directory of teams in this space, including POs
 Links to Figma files, test users, and previous research
@@ -29,9 +29,10 @@ Links to Figma files, test users, and previous research
   
 **An overview of MHV on VA.gov—what it is and why it’s happening
 
-## <a name="existingfeatures"></a>Existing features - Where are we now?<be>
+## <a name="existingfeatures"></a>- Where are we now? - Existing features<be>
 
-## <a name="2025goals"></a>2025 goals/key milestones - Where are we going?<be>
+## <a name="2025goals"></a>Where are we going? - 2025 goals/key milestones<be>
 
+## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
 
 - High level metrics about performance and adoption of the portal
