@@ -107,12 +107,31 @@ Benefit hub pages corresponding with these tools currently have more complex ver
 The entire `/my-health` portal sits behind authentication and every application under this namespace must require authentication. Thus, any unauthenticated user who attempts to access a URL within any application in this space should trigger the sign-in modal. Until a user signs in, we cannot determine whether a user has authorization to access the page they are attempting to reach. 
 
 ## 403 Access denied error component
+There are two versions of the 403 component: one specific to  more general for larger VA.gov
 
 
-[Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=685-14636)
+
 
 ## 404 Page not found component
 Guidance coming soon.
 
 ## 500 Internal service error component
-Guidance coming soon.
+There are two versions of the 500 component copy; one provides a basic guidance to users to recover (refresh browser) and can be used in any scenario in which the basic guidance would be the same. The other version is only a template and teams that need to deviate from the basic guidance will need to write their own copy to help users recover from the error. 
+
+On the question of placement: This error component should appear after the page's H1 and lede text (if applicable) and before any other content on the page.
+
+[Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=753-3)
+
+<details><summary>Screenshot of version 1 (w basic guidance)</summary>
+<img width="569" alt="error text reads as followed. Header: Sorry, your request could not be completed. Paragraph: [Tool or application name] is not working as expected. Try again by refreshing your web browser. If you encounter the problem again, come back later." src="https://github.com/user-attachments/assets/0e6ede66-6c44-468a-ba61-7df9c5197bc5" />
+</details>
+
+<details><summary>Screenshot of version 2 (template)</summary>
+<img width="577" alt="Sorry, your request could not be completed. Paragraph: [Tool or application name] is not working as expected." src="https://github.com/user-attachments/assets/9bef8f4d-a8f6-4d0b-b26e-cf9f0b52deeb" /> />
+</details>
+
+<details><summary>Placement of alert on VA.gov pages examples</summary>
+![image](https://github.com/user-attachments/assets/f0d1a687-6bfc-45cb-9f9a-06008f67963b)
+![image](https://github.com/user-attachments/assets/72de0fa5-df6f-498e-bd19-a1a1623f4ab0)
+</details>
+
