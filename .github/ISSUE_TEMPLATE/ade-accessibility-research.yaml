@@ -81,7 +81,7 @@ body:
       - label: Speech recognition
       - label: Other
     
-   - type: checkboxes
+- type: checkboxes
   id: device-types
   attributes:
     label: What devices do you want to test?
