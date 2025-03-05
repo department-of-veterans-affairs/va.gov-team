@@ -49,17 +49,11 @@ The MHV to VA.gov initiative consists of several different products, each with i
 
 In September 2023, the My HealtheVet on VA.gov landing page was launched ([see more about the landing page here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page)). 
 
-Utilizing a phased approach, teams have worked to methodically add the four health tools to My HealtheVet on VA.gov (appointments, medications, secure messaging, and medical records). This allowed teams to monitor, validate and iterate on the My HealtheVet on VA.gov experience to ensure that it meets the needs of Veterans and caregivers.  
+Using a phased approach, teams have systematically integrated the four major health tools — appointments, medications, secure messaging, and medical records — into My HealtheVet on VA.gov. An "opt-in" experience in production allowed Veterans to access these tools on VA.gov while enabling teams to monitor usage, validate performance, and continuously refine the experience. 
 
-As of June 21, 2024, the major health tools (appointments, medications, secure messaging, and medical records) are now available on VA.gov.  
+On June 2024, the [Secondary Navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/README.md) was launched to enhance Veterans' awareness and navigation of health tools available within My HealtheVet on VA.gov. This improvement aims to reduce the likelihood of Veterans searching for healthcare-related tools in unauthenticated areas of VA.gov, such as the megamenu.
 
-
-
-**Brief timeline** 
-
- - 
- - 
- goal is to encourage more Veterans to make the new MHV experience on VA.gov their primary portal and retire the duplicate portal experiences that cause Veteran confusion.
+As of December 2025, all four of the essential health tools are now fully available on VA.gov.
 
 ## <a name="2025goals"></a>Where are we going? - 2025 goals/key milestones<be>
 
