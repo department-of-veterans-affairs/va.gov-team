@@ -21,7 +21,7 @@
 - This is a net new feature/product, future  iterations will include a regression plan to ensure stable user experience. This is not applicable for this MVP product.
 
 ### Test Plan
-- We have a combination of manual user testing, unit testing, and E2E testing. At each stage of release we will manually verify and document all aspects of the product including the following test scenarios:
+- We will be enable feature toggle `show_digital_form_1095b` for X% of users, increasing to 100%. At each stage of release we will manually verify and document all aspects of the product including the following test scenarios:
    - As a Veteran I want to be able to view and download my 1095-B form online so that I can file my taxes. - happy path, download links appear
    - As a Veteran who uses a screen reader, I want to be able to know what info is on my 1095-B so that I can file taxes appropriately. - happy path, text file available
    - As a Veteran I want to know if I don’t have a 2024 1095-B so that I can take the appropriate actions. - user does not have a 1095-B in the database
@@ -29,10 +29,10 @@
    - As a Veteran I want my 1095-B form to be secure so that my information is protected - user needs to be verified, not just signed into va.gov
 
 ### Coverage for References
-- 
+- Functionality has been verified via staging test users for all user stories - 100% 
 
 ### Summary (Defects) Reports
-- 
+- N/A
 
 ### E2E Tests
 - Our end-to-end tests perform the required accessibility check and live here: `vets-website/src/applications/static-pages/download-1095b/tests/01-1095b-authed.cypress.spec.js`
