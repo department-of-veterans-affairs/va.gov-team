@@ -109,7 +109,7 @@ The entire `/my-health` portal sits behind authentication and every application 
 ## 403 Access denied error component
 Caution: the 403 access denied error component is still subject to change. [Link to experimental design ticket.](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3741)
 
-The 403 error sends the user to a new page; this error component will only be experienced by users with access to My HealtheVet who attempt to access a url that they do not have access to within the /my-health name space (i.e. a records url for a different user). As shown in the screenshot below, the 403 error includes guidance to call the My HealtheVet help desk, try other health-related resources, or navigate someplace new using the MHV secondary nav.
+The 403 error sends the user to a new page; this error component will only be experienced by users with access to My HealtheVet who attempt to access a url within the /my-health name space, for which that they lack credentials (i.e. a records url for a different user). As shown in the screenshot below, the 403 error includes guidance to call the My HealtheVet helpdesk, try other health-related resources, or navigate elsewhere within the portal using the MHV secondary nav.
 
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=685-14636)
 
@@ -119,7 +119,9 @@ The 403 error sends the user to a new page; this error component will only be ex
 </details>
 
 ## 404 Page not found component
-Guidance coming soon.
+Caution: the 404 page not found component is still subject to change. [Link to experimental design ticket.](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2912)
+
+Like the 403, the 404 error sends the user to a new page. 
 
 ## 500 Internal service error component
 There are two versions of the 500 component copy; one provides a basic guidance to users to recover (refresh browser) and can be used in any scenario in which the basic guidance would be the same. The other version is only a template and teams that need to deviate from the basic guidance will need to write their own copy to help users recover from the error. 
