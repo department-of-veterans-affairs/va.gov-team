@@ -113,8 +113,9 @@ The 403 error sends the user to a new page; this error component will only be ex
 
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=685-14636)
 
-<details><summary>403 for MHV users</summary>
-![image](https://github.com/user-attachments/assets/c624f557-3cff-415d-85ee-2008b8415961)
+<details><summary>403 error page for MHV users</summary>
+<img src="https://github.com/user-attachments/assets/015ea1f8-4322-4141-888c-76c28433c475" />
+    
 </details>
 
 ## 404 Page not found component
@@ -127,16 +128,10 @@ On the question of placement: This error component should appear after the page'
 
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=753-3)
 
-<details><summary>Screenshot of version 1 (w basic guidance)</summary>
-<img width="569" alt="error text reads as followed. Header: Sorry, your request could not be completed. Paragraph: [Tool or application name] is not working as expected. Try again by refreshing your web browser. If you encounter the problem again, come back later." src="https://github.com/user-attachments/assets/0e6ede66-6c44-468a-ba61-7df9c5197bc5" />
+<details><summary>Messages' Inbox page: 500 w basic guidance</summary>
+<img src="https://github.com/user-attachments/assets/3cefe57b-2756-42eb-943e-8d27b456e16c" />
 </details>
 
-<details><summary>Screenshot of version 2 (template)</summary>
-<img width="577" alt="Sorry, your request could not be completed. Paragraph: [Tool or application name] is not working as expected." src="https://github.com/user-attachments/assets/9bef8f4d-a8f6-4d0b-b26e-cf9f0b52deeb" /> />
+<details><summary>Messages' Inbox page: No access to MHV</summary>
+<img src="https://github.com/user-attachments/assets/1495620e-ab91-4ea4-90e2-4fd736598df2" />
 </details>
-
-<details><summary>Placement of alert on VA.gov pages examples</summary>
-![image](https://github.com/user-attachments/assets/f0d1a687-6bfc-45cb-9f9a-06008f67963b)
-![image](https://github.com/user-attachments/assets/72de0fa5-df6f-498e-bd19-a1a1623f4ab0)
-</details>
-
