@@ -7,14 +7,32 @@ body:
 - type: markdown
   attributes:
     value: "## About your team"
+- type: input
+  id: team
+  attributes:
+    label: What is the name of your team?
+  validations:
+    required: true
+
+- type: input
+  id: product
+  attributes:
+    label: What is the name of your product?
+    required: true
+
+- type: input
+  id: slack-channel
+  attributes:
+    label: What is the name of your product/team slack channel (to communicate about this ticket)?
+    description: We can use this channel to communicate about this ticket
+  required: true
+
 - type: textarea
   id: team
   attributes:
     label: Who's on your team?
     description: This will help us reach out to you if needed
     value: |
-      Team name:
-      Product name:
       OCTO Product Owner:
       Product Manager:
       Designer/Researcher:
@@ -38,20 +56,19 @@ body:
   validations:
     required: true
 
+- type: checkboxes
+  id: research-details
+  attributes:
+    label: Check for lead time
+    options:
+      - label: Confirm you are filing this support ticket at least 2 weeks in advance of this timeframe, so there's enough lead time to provide support
+
 - type: input
   id: num-participants
   attributes:
     label: How many participants using assistive tech do you want?
   validations: 
     required: false
-
-- type: checkboxes
-  id: research-details
-  attributes:
-    label: Calendar checking
-    description: Before moving forwards, please [review our capacity calendar for ADE availability](https://calendar.google.com/calendar/embed?src=c_f982350fc73a8162a1088ab14d00dd37335b2b559a60d6b67eb8021416f81c2a%40group.calendar.google.com&ctz=America%2FNew_York)
-    options:
-      - label: Confirm you are filing this support ticket at least 2 weeks in advance of this timeframe, so there's enough lead time to provide support
 
 - type: checkboxes
   id: pilot
@@ -61,7 +78,6 @@ body:
     options:
       - label: Yes, we are interested in doing a pilot
     
-
     
 - type: textarea
   id: artifacts
