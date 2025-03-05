@@ -128,10 +128,11 @@ On the question of placement: This error component should appear after the page'
 
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=753-3)
 
-<details><summary>Messages' Inbox page: 500 w basic guidance</summary>
-<img src="https://github.com/user-attachments/assets/3cefe57b-2756-42eb-943e-8d27b456e16c" />
+<details><summary>Messages' Inbox page: 500 **with** guidance</summary>
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/e2b47c05-510b-4ac8-9e04-1e0f3faf8c68" />
 </details>
 
-<details><summary>Messages' Inbox page: No access to MHV</summary>
-<img src="https://github.com/user-attachments/assets/1495620e-ab91-4ea4-90e2-4fd736598df2" />
+<details><summary>Messages' Inbox page: 500: **no** guidance</summary>
+<img width="930" alt="image" src="https://github.com/user-attachments/assets/754d38c3-6356-4d2d-8e04-3045f0547960" />
 </details>
+
