@@ -90,6 +90,30 @@ body:
       - label: Tablets
       - label: Desktops/laptops
      
+- type: checkboxes
+  id: prototype-type
+  attributes:
+    label: What kind of prototypes (if any) are you planning?
+    options:
+      - label: CodePen
+      - label: Staging
+      - label: Other
+     
+- type: markdown
+  attributes:
+    value: "## Research support requested"
+
+- type: checkboxes
+  id: support-types
+  attributes:
+    label: What kind(s) of research help would you like from ADE?
+    options:
+      - label: CodePen
+      - label: Staging
+      - label: Other    
+validations:
+    required: true
+
 - type: textarea
   id: artifacts
   attributes:
