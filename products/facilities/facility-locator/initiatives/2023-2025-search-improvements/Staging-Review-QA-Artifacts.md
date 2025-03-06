@@ -33,7 +33,7 @@ All e2e tests now test interactions of all potential flipper and on/off states
 </details>
 
 
-### Change to using segmented control component
+### Change to using segmented control component and pin selection
 
 **Mobile/Mobile Map/Mobile Result List tests verify that segmented controls exist with flipper on and off and checks that behavior is maintained**
 
@@ -41,7 +41,7 @@ All e2e tests now test interactions of all potential flipper and on/off states
   <img width="1728" alt="mobile cypress" src="https://github.com/user-attachments/assets/d585c20c-1e27-47f1-a3c3-a3fc09de293c" />
 </details>
 
-<details><summary>Mobile Map View with and without segmented control</summary>
+<details><summary>Mobile Map View with and without segmented control - tests pin selection </summary>
   <img width="1728" alt="mobile-search-map-view cypress" src="https://github.com/user-attachments/assets/4a9c00b1-a1a8-4680-babb-d3c54ede0da2" />
 </details>
 
