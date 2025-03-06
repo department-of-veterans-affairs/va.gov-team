@@ -39,7 +39,7 @@
    - We also have one test to verify the download links populate and are download-able and another test to check error message populates for users when there is a server error 
 
 ### Unit Test Coverage
-- We are currently in the middle of writing additional unit tests to meet he 80% minimum requirement. As of March 6th, here are the percentages:
+- We are currently in the middle of writing additional unit tests to meet the 80% minimum requirement. As of March 6th, here are the percentages:
     - Lines = 65.85%
     - Functions = 56.52%
     - Statements = 67.05%
