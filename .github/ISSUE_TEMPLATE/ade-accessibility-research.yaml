@@ -156,7 +156,7 @@ body:
     required: true
 
 - type: checkboxes
-  id: next-steps
+  id: next-steps-team
   attributes:
     label: Next steps for you
     description: After submitting this ticket, please complete the following tasks
@@ -168,12 +168,17 @@ body:
       - label: (later) If ADE specialists are assigned to support your research sessions, provide each specialist with your participant’s AT years of experience, device, operating system, assistive tech, and browser (if known)
       - label: (later) Fill out the optional feedback form to let us know how we can support you better 
 
-      - label: ADE Specialists review your conversation guide and research plan
-      - label: Provide specialists your participant details like skill level, operating system, assistive tech used, browser
-      - label: ADE specialists will provide you an optional feedback form to let us know how we can support y'all better into the future.
-      - label: ADE Specialists create a research notes template
-      - label: ADE Post research, specialists will add accessibility findings to your research folder
-    
+- type: checkboxes
+  id: next-steps-ADE
+  attributes:
+    label: ADE team members will work on these tasks, depending on what you requested
+    options:
+      - label: Reply to you and schedule a meeting if needed
+      - label: Assign accessibility specialist(s) to work with you
+      - label: Review your research plan and conversation guide
+      - label: Create a research notes template
+      - label: Add accessibility findings to your research folder after the research sessions
+      - label: Send optional feedback form  
     
 
 
