@@ -36,12 +36,18 @@
 
 ### E2E Tests
 - Our end-to-end tests perform the required accessibility check and live here: `vets-website/src/applications/static-pages/download-1095b/tests/01-1095b-authed.cypress.spec.js`
+   - We have one test to verify the download links populate and are download-able
+   - We have another test to check error message populates for users when there is a server error 
 
 ### Unit Test Coverage
-- 
+- We are currently in the middle of writing additional unit tests to meet he 80% minimum requirement. As of March 6th, here are the percentages:
+    - Lines = 65.85%
+    - Functions = 56.52%
+    - Statements = 67.05%
+    - Branches = 71.87%
 
 ### Endpoint Monitoring
-- We are currently in the middle of setting these up. Besides the required monitors we will have additional monitors and alerts for: 1) backend nightly job failures 2) PDF/TXT download failures 3) missing blank form for the prior year.
+- We are currently in the middle of setting these up. Besides the required monitors we will have additional monitors and alerts for: 1) backend nightly job failures 2) PDF/TXT download failures.
 
 ### Logging Silent Failures
 - Silent Failures are not applicable to this work. A Veteran only signs in and downloads a document.
