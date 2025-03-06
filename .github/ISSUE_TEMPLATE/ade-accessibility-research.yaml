@@ -122,7 +122,7 @@ body:
       - label: Pilot with an accessibility specialist
       - label: Live technical support during your AT research sessions  
 
-  - type: checkboxes
+- type: checkboxes
   id: help-moderation
   attributes:
     label: Help with research sessions
