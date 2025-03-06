@@ -105,7 +105,8 @@ Before we look at the prototype, let’s start with a couple of warm-up question
 
 Now it’s time to send you the prototype we’d like to have you review. 
 
-* **The prototype will look like VA.gov, but certain elements like links and certain buttons don’t work like you would expect them to**. For example, this prototype does not allow for typing. Wherever you encounter a text field, give us a sense of what you would expect to respond.
+* **The prototype will look like VA.gov, but certain elements like links and certain buttons don’t work like you would expect them to**. For example, this prototype does not allow for typing. Wherever you encounter a text field, give us a sense of what you would expect to respond.   
+  * Throughout the prototype, you will notice that we have added some fake answers that will not match your own experience. We’ll flag it as we go through the form so you’re not surprised. 
 
 * **As I mentioned, some parts of this form may ask about sensitive topics,** like your condition or a brief description of a traumatic event. You can share as much or as little as you’re comfortable with, and it’s okay to pause or skip any questions.
 
@@ -133,7 +134,7 @@ Now, I’d like you to share your screen for the remainder of the session. Let m
 
 For today's session, you'll imagine you're filing for disability benefits for the first time. You've already logged into VA.gov and completed the first step of the form. This covers your contact information, and military service.
 
-Imagine you are now working through Step 2 and just finished adding conditions to your claim. As you see here, we've pre-filled a few sample conditions for the prototype, including PTSD. You can think of them as whatever conditions you'd personally be entering. 
+Imagine you are now working through Step 2 and just finished adding conditions to your claim. As you see here, we've pre-filled a few fake conditions for the prototype. You can think of them as whatever conditions you'd personally be entering. 
 
 #### **Task 1: Step 2 Overview** 
 
@@ -232,7 +233,7 @@ Please complete each page however you would do it if you were alone. I will prom
 
 ##### \[Screen 5- Event list summary\] 
 
-* For the sake of the study, we’ve added fake information about a traumatic event to this card. You can imagine your personal information is represented here.   
+* For the sake of the study, we’ve added fake information about a traumatic event to this card, so it doesn’t reflect your personal experience.   
   * What do you think is the purpose of this screen? 
 
 **Post-Task Qs:**
@@ -257,7 +258,7 @@ Now I’m going to ask you to show me how you would go about changing your respo
 *Look out for:*
 
 * *Perceived differences between the edit and add flow*  
-* *Attempts to return to previous page from an interior page (not possible)*
+* *Attempts to return to previous page from an interior page*
 
 **4.2 Cancel Edit**: Imagine you started to rewrite details about your traumatic event, but then decided you wanted to keep your original answers. How would you approach discarding your changes? 
 
@@ -269,8 +270,7 @@ Now I’m going to ask you to show me how you would go about changing your respo
 
 ##### **4.3 Remove Police Report:** Imagine you decided you don’t want to include a police report in your claim. How would you remove it?
 
-* What is the purpose of the yellow alert?
-
+* What is the purpose of the yellow alert?  
 * Go ahead and delete it.
 
 *Look out for:*
@@ -301,7 +301,7 @@ Now I’m going to ask you to show me how you would go about changing your respo
 
 The next set of tasks will focus on how your life changed as a result of your traumatic experiences. It will take about 20 minutes. Are you ok to continue?
 
-Continue reviewing the form at your own pace. As before, you can respond using your own experience, or speak more generally. 
+Continue to complete each screen, speaking out loud. As before, you can respond using your own experience, or speak more generally. 
 
 #### **Task 5:  Comprehension \+ Add Behavioral Changes**
 
@@ -318,11 +318,15 @@ Continue reviewing the form at your own pace. As before, you can respond using y
 
 ##### \[Screen 3- Behavior list\] 
 
-* \[After participant walks through page\] For this task, please select at least 3 behavioral changes. 
+* Next, I’m going to give you a fake scenario to use to complete the next task.  Imagine you were mugged while you were in service. As a result, you experienced 3 different behavioral changes.   
+  * You started requesting more time off  
+  * You went to the doctor more  
+  * You started taking more Tylenol  
+* How would you add these behavioral changes to your claim? 
 
 ##### \[Screen 4- Behavior description\]
 
-* You’ll notice on this page that the behavioral changes don’t match the ones you selected. Imagine for our purposes that this matched one of the boxes you checked on the last page.
+* \[Ask immediately\] What do you think is the purpose of this page?
 
 ##### \[Screen 5- Behavior summary\]
 
@@ -351,7 +355,7 @@ Next, I’m going to ask you to show me how you would go about changing your res
 
 * *Ease of making edits, navigation*
 
-**6.2  Remove Behavioral Change:** Imagine you no longer want to include the behavioral change “I experienced other behavioral changes that were not in this list” on your claim. How would you update your claim?
+**6.2  Remove Behavioral Change:** Imagine you no longer want to include the behavioral change “Increased or decreased use of over-the-counter medications” on your claim. How would you update your claim?
 
 * In your own words, what is the yellow alert saying?
 
@@ -580,7 +584,7 @@ Thank you so much for walking us through the designs. Before we reach the end of
 
 * Overall, how did you find the experience of changing your mind and make adjustments to the form?
 
-  * Are there any situations in which you would imagine changing your mind while com
+  * Are there any situations in which you would imagine changing your mind while completing the form?
 
 * If you had a magic wand and could change anything about the process we just went through, what would it be?
 
