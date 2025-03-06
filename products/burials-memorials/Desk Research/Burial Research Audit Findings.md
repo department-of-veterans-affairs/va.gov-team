@@ -1,6 +1,6 @@
 #Burial Research Audit- Findings
 
-##About
+##Process
 As part of the Pension and Burial Benefits team taking on the work of updating the VA Form 21P-530EZ, Application for Burial Benefits, we are conducting a review of related existing research. 
 
 - Review research conducted by Fiorella Geedi on the Non-Disability Benefit team
