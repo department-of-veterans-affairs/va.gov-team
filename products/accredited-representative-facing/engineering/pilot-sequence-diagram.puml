@@ -50,8 +50,13 @@ LighthouseAPI --> Backend: Decision Status
 alt Successful Decision
     Backend -> VAGovDB: Create PowerOfAttorneyRequestDecision
     Backend -> VAGovDB: Create PowerOfAttorneyRequestResolution
-    Backend --> Frontend: Success Response
-    Frontend --> "Accredited Representative": Display Success & Updated Status
+    Backend -> VAGovDB: Update PowerOfAttorneyFormSubmission\n(status: PENDING|FAILED|SUCCEEDED)
+    note right
+      Request can be in terminal state (accepted)
+      while form submission is in FAILED state
+    end note
+    Backend --> Frontend: Success Response with Updated Request & Submission Status
+    Frontend --> "Accredited Representative": Display Success, Updated Status & Submission Status
 else Failed Decision
     Backend --> Frontend: Error Response
     Frontend --> "Accredited Representative": Display Error Message
