@@ -31,35 +31,6 @@
 8. Go to the `config` folder and create a file called `settings.local.yml`
 9. In that new file add the following to the file…
   ```
-  betamocks:
-   # For NATIVE installation
-   # The relative path to department-of-veterans-affairs/vets-api-mockdata
-   enabled: true
-   recording: false
-   cache_dir: ../vets-api-mockdata
-  
-  
-  # binaries:
-   # For NATIVE and DOCKER installation
-   # A "virus scanner" that always returns success for development purposes
-   # NOTE: You may need to specify a full path instead of a relative path
-   # clamdscan: ./bin/fake_clamdscan
-  
-  
-  # NOTE: This file is excluded by railsconfig in the test env.
-  # Use config/settings/test.local.yml instead.
-  # See "Note" at https://github.com/rubyconfig/config#developer-specific-config-files
-  
-  
-  # redis
-  redis:
-   host: redis_host
-   port: 6379
-  
-  
-  # settings.local.yml
-  saml:
-   authn_requests_signed: false
   # lighthouse
   lighthouse:
    auth:
@@ -72,18 +43,6 @@
        client_id: <Your Client ID that you created>
        rsa_key: config/certs/lighthouse/benefits-claims/key.pem
      use_mocks: true
-  # mvi
-  mvi:
-   mock: true
-  # vet360
-  vet360:
-   url: https://localhost:4447
-  #evss
-  evss:
-   url: https://localhost:4447
-   mock_letters: true
-   letters:
-     url: https://localhost:4447
   ```
 10. Update the lighthouse/benefits_claims/access_token/client_id with the VA API OAuth Client Id that you copied
 11. Now you should be able to run vets-api locally with beta mocks
