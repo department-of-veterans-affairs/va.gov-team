@@ -1,1 +1,0 @@
-Relocated to https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md#facilities-and-facility-locator-pages-dependencies-and-testing
