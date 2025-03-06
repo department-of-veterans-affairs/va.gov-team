@@ -159,7 +159,7 @@ body:
   id: next-steps
   attributes:
     label: Next steps for you
-    description: After submitting this ticket, please complete the following:
+    description: After submitting this ticket, please complete the following
     options:
       - label: Post a link to this ticket in the `#accessibility-help` Slack channel and tag @Lakwi Perera and @Cindy Merrill
       - label: Your team's researchers and observers read through platform guidance on research with assistive technology users
