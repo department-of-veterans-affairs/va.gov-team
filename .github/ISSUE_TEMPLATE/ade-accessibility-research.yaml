@@ -162,9 +162,12 @@ body:
     description: After submitting this ticket, please complete the following tasks
     options:
       - label: Post a link to this ticket in the "accessibility-help" Slack channel with tags @Lakwi Perera and @Cindy Merrill
-      - label: Your team's researchers and observers read through platform guidance on research with assistive technology users
-      - label: Review our [assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md) and request a pilot, if desired
-      - label: ADE Specialists are assigned to your research, be sure to add the respective accessibility specialist(s) to your session invites (include the Zoom or Teams link). 
+      - label: Read Platform guidance on [research with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)
+      - label: If you requested a pilot, review our [assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md) and request a pilot, if desired
+      - label: (later) If ADE specialists are assigned to support your research sessions, add each specialist to the corresponding session invite with videoconferencing link
+      - label: (later) If ADE specialists are assigned to support your research sessions, provide each specialist with your participant’s AT years of experience, device, operating system, assistive tech, and browser (if known)
+      - label: (later) Fill out the optional feedback form to let us know how we can support you better 
+
       - label: ADE Specialists review your conversation guide and research plan
       - label: Provide specialists your participant details like skill level, operating system, assistive tech used, browser
       - label: ADE specialists will provide you an optional feedback form to let us know how we can support y'all better into the future.
