@@ -10,6 +10,7 @@ projects: ["department-of-veterans-affairs/1214"]
 
 ## How to configure this issue
 * Add or update title of ticket to the following format: UX Support Sprint (Number)
+* Add Parent relationship to tie ticket to [[Epic] UX Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102252)
 * **Delete this section**
 ---
   
