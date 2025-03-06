@@ -19,9 +19,9 @@ When we compared Ask VA to contact experiences on other websites, our goals were
 * Review how being signed in (or not) changes the experience of contacting another organization online
 
 When we compared Ask VA to other support channels on VA.gov, our goals were to:
-* TBC
-* TBC
-* TBC
+* Review how support channels are described and distinguished from one another
+* Review how teams measure the success of each support channel (where possible)
+* Review the steps required to receive help from each support channel
 
 ## Recruitment
 There is no recruitment for this study.
