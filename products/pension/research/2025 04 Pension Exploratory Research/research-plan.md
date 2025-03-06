@@ -102,7 +102,7 @@ Primary criteria (must-haves)
 
 - Pension-eligible
 
-- Applied for pension within the last 2 calendar years
+- Applied for pension within the last 5 calendar years
 
 
 Demographic must-haves
@@ -137,7 +137,7 @@ Note: The *notes in italics* are for Perigean to understand the purpose of each 
 
      - No
 
-4. Have you attempted to apply for [Veterans Pension](https://www.va.gov/pension/eligibility/) using VA Form 21P-527EZ online, on paper, or with assistance from a third party in the last two years?
+4. Have you attempted to apply for [Veterans Pension](https://www.va.gov/pension/eligibility/) using VA Form 21P-527EZ online, on paper, or with assistance from a third party in the last 5 years?
 
      - Yes, using online form
 
@@ -175,7 +175,7 @@ Note: The *notes in italics* are for Perigean to understand the purpose of each 
 
 ### Research sessions
 
-Planned dates of research: 04/02/25 - 04/25/25  
+Planned dates of research: 04/02/25 - 05/16/25  
 
 Research scheduled to start the week of April 4th
 
