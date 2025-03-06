@@ -36,8 +36,7 @@
 
 ### E2E Tests
 - Our end-to-end tests perform the required accessibility check and live here: `vets-website/src/applications/static-pages/download-1095b/tests/01-1095b-authed.cypress.spec.js`
-   - We have one test to verify the download links populate and are download-able
-   - We have another test to check error message populates for users when there is a server error 
+   - We also have one test to verify the download links populate and are download-able and another test to check error message populates for users when there is a server error 
 
 ### Unit Test Coverage
 - We are currently in the middle of writing additional unit tests to meet he 80% minimum requirement. As of March 6th, here are the percentages:
