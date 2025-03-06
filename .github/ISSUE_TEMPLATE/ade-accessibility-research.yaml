@@ -149,9 +149,9 @@ body:
       - [Prototype or mockups](insert URL here between the parentheses)
       - [Research plan](insert URL here between the parentheses)
       - [Conversation guide](insert URL here between the parentheses)
-      - [Epics/issue that may be helpful](insert URL here between the parentheses)
       - [Research folder in github](insert URL here between the parentheses)
-      ...
+      - [Epics/issue that may be helpful](insert URL here between the parentheses)
+      
   validations:
     required: true
 
