@@ -2,11 +2,12 @@
 #### Overview
 
 <details>
-    Representatives need a way to submit forms for their claimants. We had a way for veterans to submit forms using Simple forms. We forked Simple Forms code as a starting point. Lifting and shifting the code saved us a lot of time. In the early design phases, it became clear that forking the code rather than reusing it in-place was the better option:
-        - We needed to make it an ARP app which required some changes to make it function
-        - We need to do additional checks on the backend for POA
-        - We will eventually need to add multi-form upload for documents that require supporting evidence
-        - We wanted to make the process easier for reps by making the digital form all one page
+Representatives need a way to submit forms for their claimants. We had a way for veterans to submit forms using Simple Forms. We forked Simple Forms code as a starting point. Lifting and shifting the code saved us a lot of time. In the early design phases, it became clear that forking the code rather than reusing it in-place was the better option:
+
+- We needed to make it an Accredited Representative Portal (ARP) app which required functionality changes
+- We need to do additional checks on the backend for an established Power of Attorney (POA)
+- We will eventually need to add multi-form upload for documents that require supporting evidence
+- Because reps are power users, we wanted to simplify the process by making the digital form one page
  
 </details>
 
@@ -25,17 +26,20 @@
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem? 
-- We needed a way for Representatives to upload and submit documents for their claimants
+* What is the problem and who is affected? And, what evidence do we have of the problem?
+ 
+Representatives need a reliable tool to upload and submit documents for their claimants. Stakeholder Enterprise Portal (SEP) is able to process claims well. However, forms were often outdated, which could delay processing even more. This is [the research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-10-VSO-VAbenefits-interviews/research-findings.md#detractors-pain-points) that references the VSOs pain points. 
+
 * How does this initiative help further OCTO-DE's mission and goals?
-- When fully rolled out, this will increase the number of digital claims submissions through va.gov
+  
+When fully rolled out, this will increase the number of digital claims submissions through VA.gov. By increasing the number of claims, this would allow more Veterans to gain access to VA health care and benefits faster. 
 
 ---
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
+> 💡 *VA.gov products measure success against Ease of Use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Number of forms submitted
@@ -50,15 +54,21 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - Will reps log into ARP to use it
+  - Reps would be able to access it in the ARP, which is also where they can manage POA requests
+  - Some reps may continue to use third-party tools but the quick access to VBMS after accepting POA requests might entice them
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - none. Simple forms proved the need
+  - None. Simple Forms proved the need
 
 ### What're you building
-> A digital form submission tool
+A digital form submission tool
+- Ability to upload a standalone 686c PDF and routed through central mail
+- Established Intent-to-File with structured data directly to VBMS
+- Support 526 form PDF upload, and routed through central mail
+- Ability to upload supporting documents 
+- Ability to track past submissions made through ARP
 
 #### Go-to-market 
-> We are working with the Connecticut VA to test our product first and have also received feedback from other groups
+We are working with the Connecticut DVA and other VSOs to test our first iteration. We will be working with the VSO Liaison to onboard any other VSO organizations.
 
 --- 
 
@@ -74,8 +84,8 @@
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
-- *Target Launch Date*
-  - tbd
+- *Target Gradual Rollout Launch Date*
+  - May 28, 2025
 - *Actual Launch Date* 
   - tbd
 
@@ -109,6 +119,10 @@ Digital Form as One Page
 - GitHub Label(s): benefits-accredited-rep-facing
 - Slack channel: veteran-facing-forms
 - Product POCs:
+Product Owner: Jennifer Bertsch - jennifer.bertsch@va.gov
+Engineering Lead: Steve Albers - steve.albers@va.gov
+Design Lead: Lesley Ropp - lesley.ropp@va.gov
+Product Manager: Candi Lemoine - candi.lemoine@oddball.io
 
 </details>
 
@@ -118,7 +132,7 @@ Digital Form as One Page
 
 <details>
   
-- Office/Department:
+- Office/Department: 
 - Contact(s): 
  
 </details>
