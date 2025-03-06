@@ -6,7 +6,7 @@ Designed exclusively for non-technical users, the VA Digital Form Builder aims t
 
 We see the Digital Form Builder as a catalyst for change, streamlining form creation, automating tasks, and eliminating redundancies—all while reducing errors and avoiding the need for costly custom development.  This paves the way for a more responsive and agile VA system, enabling VA staff to work smarter, not harder. 
 
-## Aheres to 21st Century IDEA requirements 
+## Aligns with 21st Century IDEA requirements 
 
 - **Supports VA Digitization Modernation** – By leveraging existing VA data and ensuring accessibility compliance, the Form Builder aligns with VA’s goal of improving efficiency and user experience across services.
    -  By leveraging the VA Forms Library, the solution maintains accessibility and compliance standards while reducing redundant development efforts.
