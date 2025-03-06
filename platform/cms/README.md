@@ -55,7 +55,7 @@ Documentation about the CMS lives in various places
 
 ## How to Reach Us
 
-### CMS Team
+### CMS Team (through Dec 2024)
 - Erika Washburn, VA Product Owner - Slack `@Erika Washburn`
 - Michelle Dooley, Program Manager - Slack `@Michelle Dooley`
 - Grace Kretschmer Tran, Senior Product Manager - Slack `@Grace Kretschmer`
