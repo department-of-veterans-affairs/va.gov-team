@@ -290,7 +290,7 @@ Now I’m going to ask you to show me how you would go about changing your respo
 
 **Overall Post-Task Qs:**
 
-* On a scale of 1 to 5, how was your experience making these changes? With 1 being very difficult to 5 being very easy.  
+* On a scale of 1 to 5, how was your experience making these changes? With 1 being very difficult to 5 being very easy.   
 * How would you feel about submitting your claim without any traumatic events?
 
 **\[Researcher to pause– take an  informal wellness check before continuing\]**
@@ -434,7 +434,7 @@ Next, we’re going to walk through how you might add support to your claim. It 
 
 ##### \[Screen 1- Evidence orientation\]
 
-* In your own words, what options does VA give you for evidence collection? 
+* What is the purpose of this page?
 
 * Based on this page, what do you think will happen next?
 
@@ -481,7 +481,7 @@ Look out for:
 
 ##### \[Screen 2- Add non-VA information\]
 
-* Imagine you’d fill out contact information for your provider and press continue.
+* Imagine you’d fill out contact information for your provider and press **save and return**
 
 ##### \[Screen 3- Review page\] 
 
@@ -503,9 +503,7 @@ For this next task, walk me through how you would respond to questions about sup
 
 ##### \[Screen 1- Supporting doc choice page\] 
 
-* What is the purpose of supporting documents, based on this page?
-
-  * How do they compare to the earlier evidence collection?
+* What is the purpose of supporting documents? 
 
 * For our purposes, select both “Lay statements from family members or roommates” and “I don’t have any supporting documents.”
 
@@ -525,8 +523,9 @@ For this next task, walk me through how you would respond to questions about sup
 ##### \[Screen 4- Evidence summary\] 
 
 * Does anything stand out to you about this page?  
-* How did the evidence section meet or differ from your expectations?  
-  * Is there any additional information or context the design could have provided to improve it?
+* How did the process of adding evidence meet or differ from your expectations?  
+  * Is there any additional information or context the design could have provided to improve it?  
+  * What did you think of the placement of the supporting document section?
 
 *Look out for:*
 
@@ -549,7 +548,7 @@ Imagine you decided that you don’t want to submit a mental health statement as
 
 **Post-Task Qs:**
 
-* What do you expect would happen if you opted out?  
+* What do you expect would happen if you removed the mental health statement?  
 * On a scale of 1 to 5, how was your experience removing the form? With 1 being very difficult to 5 being very easy?
 
 *Look out for:*
@@ -564,7 +563,8 @@ Imagine you decided that you don’t want to submit a mental health statement as
 
 Thank you so much for walking us through the designs. Before we reach the end of the session, we have 10 minutes of wrap-up questions. 
 
-* If a fellow Veteran was thinking about filing for a mental health condition, what would you tell them about the process you experienced today– whether positive or negative? 
+* Imagine a Veteran friend was thinking about filing for a mental health condition. What would tell them about the experience?   
+  * Is there anything you would warn them about? 
 
 * Were there any points where the transition between pages of the form felt abrupt or disconnected? If so, where?
 
@@ -576,9 +576,11 @@ Thank you so much for walking us through the designs. Before we reach the end of
 
 * When you were filling out the form, did you understand which questions were optional and which ones were required?
 
-  * Would you have felt comfortable skipping sections? Why or why not?
+  * Would you have felt comfortable skipping optional questions? Why or why not?
 
-* Overall, how easy or difficult did it feel to change your mind and make adjustments to the form?
+* Overall, how did you find the experience of changing your mind and make adjustments to the form?
+
+  * Are there any situations in which you would imagine changing your mind while com
 
 * If you had a magic wand and could change anything about the process we just went through, what would it be?
 
@@ -590,7 +592,7 @@ Do you have any questions for me before we end the session?
 
 **We really appreciate you taking the time to share your thoughts with us today.** Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-**Thank you once again for sharing your time and experiences with us.** Your feedback is invaluable, and we appreciate your contribution. Please take care, and have a wonderful rest of your day.
+**Thanks\! Lastly, Perigean will be sending you a thank you note** with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 ## **\[For moderators only\] Emergency Exit**
 
