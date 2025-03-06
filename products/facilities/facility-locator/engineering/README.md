@@ -96,13 +96,12 @@ https://np.dws.ppms.va.gov/v1.0/ProviderLocator?address=40.415217,-74.057114&max
 In the Facility locator, search results will return Facilities or providers. Facility titles will be linked in search results. Where those facility titles link to is dependent on the state of the Facility modernization / publishing. 
 
 In short: 
-* If a facility has a modernized, published Drupal page: The linked title will point to the modernized page.
-* If a facility does NOT have a modernized, published Drupal page: the linked title will point to a Facility Locator detail page.
+* If a facility has a modernized, published Drupal page: That URL gets sent to Lighthouse, and the facility-locator app will use that URL via vets-api. The linked title will point to the modernized page.
+* If a facility does NOT have a modernized, published Drupal page: 
+    * the linked title will point to a Facility Locator detail page.
+    * The URL will be provided by Lighthouse, who receive it from a different source depending on Facility type. (VBA = Sandy's/Michelle's DB; NCA = XML files)
 
 The Facility Locator will never point out to TeamSites. Always only either a modernized, or a facility locator detail, page.
-
-Previous docs that need LH verification, asked here: https://dsva.slack.com/archives/C02BTJTDFTN/p1741292194688549
-> Lighthouse references Drupal as the source of truth for URLs for modernized content. Lighthouse owns a file called the "websites CSV." That file is considered the definitive truth for where any given Facility's content lives, as single source of truth. However: in some cases, a non-modernized site will list the previous TeamSite page as its live page. In these cases, facility locator has code in vets-website that will, instead of pointing out to the TeamSite page listed in websites CSV, will send users to a Facility Locator detail page for that facility's content. 
 
 
 ### Incident response  
