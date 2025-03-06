@@ -2,8 +2,7 @@
 
 The current process of filling out, submitting, and maintaining forms is cumbersome for both veterans and VA staff, often causing delays, errors, and frustration. Additionally, staff managing paper forms typically lack the expertise and resources to convert PDF forms into online formats or update digital versions, leaving them reliant on developers. It became clear that a digital solution was essential to help both VA staff and veterans overcome these challenges, which is exactly why the Digital Form Builder was designed to do. 
 
-Designed exclusively for non-technical users, the VA Digital Form Builder aims to transform the way forms are created and maintained, providing a seamless, efficient, and user-friendly solution for both Veterans and VA staff, aligning with the overall vision of reducing burdens and enhancing digital experiences. The Form Builder solution is a low / no-code tool to streamline processes for VA staff and eliminate redundancy without incurring additional custom development costs.
-
+Designed exclusively for non-technical users, the VA Digital Form Builder aims to transform the way forms are created and maintained, providing a seamless, efficient, and user-friendly solution for both Veterans and VA staff, aligning with the overall vision of reducing burdens and enhancing digital experiences.
 
 We see the Digital Form Builder as a catalyst for change, streamlining form creation, automating tasks, and eliminating redundancies—all while reducing errors and avoiding the need for costly custom development.  This paves the way for a more responsive and agile VA system, enabling VA staff to work smarter, not harder. 
 
