@@ -20,6 +20,8 @@
 
 ## E2E tests (per feature)
 
+All e2e tests now test interactions of all potential flipper and on/off states
+
 ### Add TTY
 
 <details><summary>In List View (verifies TTY exists and is correct value)</summary>
@@ -33,7 +35,20 @@
 
 ### Change to using segmented control component
 
-<details><summary>Test verifies that controls exist with flipper on and off and checks that behavior is maintained (and tests for all interactions with other flippers)</summary>
-<img width="1654" alt="Screenshot 2025-03-05 at 1 48 00 PM" src="https://github.com/user-attachments/assets/5327c820-7e6d-43f5-bf6c-094b361e5600" />
+**Mobile/Mobile Map/Mobile Result List tests verify that segmented controls exist with flipper on and off and checks that behavior is maintained**
+
+<details><summary>Mobile views</summary>
+  <img width="1728" alt="mobile cypress" src="https://github.com/user-attachments/assets/d585c20c-1e27-47f1-a3c3-a3fc09de293c" />
 </details>
+
+<details><summary>Mobile Map View with and without segmented control</summary>
+  <img width="1728" alt="mobile-search-map-view cypress" src="https://github.com/user-attachments/assets/4a9c00b1-a1a8-4680-babb-d3c54ede0da2" />
+</details>
+
+<details><summary>Mobile List View with and without segmented control</summary>
+  <img width="1728" alt="mobile cypress" src="https://github.com/user-attachments/assets/d585c20c-1e27-47f1-a3c3-a3fc09de293c" />
+</details>
+
+
+
 
