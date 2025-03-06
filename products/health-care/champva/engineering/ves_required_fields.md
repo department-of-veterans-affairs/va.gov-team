@@ -46,7 +46,7 @@ These components are the top-level required properties of a CHAMPVA application.
 `firstName`|String of beneficiary's first name| string | yes |
 `lastName`|String of beneficiary's last name| string | yes |
 `personUUID`|UUID identifying this specific beneficiary on this application| UUID | yes |
-`ssn`|String of beneficiary's SSN matching regex: `"^(?!(000\|666\|9))\\d{3}(?!00)\\d{2}(?!0000)\\d{4}$"`| string | yes  |
+`ssn`|String of beneficiary's SSN matching regex: `"^(?!(000\|666\|9))\d{3}(?!00)\d{2}(?!0000)\d{4}$"`| string | yes  |
 
 ### Certification (type)
 
@@ -64,7 +64,7 @@ These components are the top-level required properties of a CHAMPVA application.
 `firstName`|String of beneficiary's first name| string | yes |
 `lastName`|String of beneficiary's last name| string | yes |
 `personUUID`|UUID identifying this specific sponsor on this application| UUID | yes |
-`ssn`|String of sponsor's SSN matching regex: `"^(?!(000\|666\|9))\\d{3}(?!00)\\d{2}(?!0000)\\d{4}$"`| string | yes  |
+`ssn`|String of sponsor's SSN matching regex: `"^(?!(000\|666\|9))\d{3}(?!00)\d{2}(?!0000)\d{4}$"`| string | yes  |
 
 #### Address (sub-type)
 
