@@ -102,16 +102,17 @@ body:
      
 - type: markdown
   attributes:
-    value: "## Research support requested"
+    value: "## What kind(s) of research help would you like from ADE?"
 
 - type: checkboxes
   id: support-types
   attributes:
-    label: What kind(s) of research help would you like from ADE?
+    label: Review research materials:
     options:
-      - label: CodePen
-      - label: Staging
-      - label: Other    
+      - label: Research plan
+      - label: Recruitment criteria
+      - label: Screening questions for inclusive recruiting
+      - label: Conversation guide    
   validations:
     required: true
 
