@@ -18,7 +18,7 @@ The Locator also uses Mapbox via API key for mapping functionality.
 
 
 ## Facilities-API integration 
-All Facility Locator data is delivered via facilities-api.
+All Facility Locator data is delivered via facilities-api, which is integrated with the [Lighthouse Facilities API](https://developer.va.gov/explore/api/va-facilities).
 
 * [**facilities-api data sources**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api#data-sources) describes all the data sources available to facilities-api
 * [**facilities-api Lighthouse API integration**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api/README.md#lighthouse-integration) includes information on Lighthouse API endpoint mapping, API consumers / keys, rate limits, and the process to [request a rate limit increase](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api/README.md#request-api-limit-increase)
@@ -39,12 +39,12 @@ If the user-entered Service search term matches any of the following fields in v
 * Priority matches (Equivalently weighted)
     * Anywhere in “Name”
     * Anywhere in “AKA”
-    * Some “common condition” starts with a match of the text
 * Secondary matches (Equivalently weighted)
+    * Some “common condition” starts with a match of the text
     * Anywhere in description
     * Anywhere in Tricare description
 
-Within results of the priority and secondary matches, the order of their respective group results is based on the frequency of the service (count `#10` in the image) in the VA health services
+Within results of the priority and secondary matches, results are alpha-sorted.
 
 Lighthouse API ID should not be used for matching. 
 
@@ -96,21 +96,22 @@ https://np.dws.ppms.va.gov/v1.0/ProviderLocator?address=40.415217,-74.057114&max
 In the Facility locator, search results will return Facilities or providers. Facility titles will be linked in search results. Where those facility titles link to is dependent on the state of the Facility modernization / publishing. 
 
 In short: 
-* If a facility has a modernized, published Drupal page: The linked title will point to the modernized page.
-* If a facility does NOT have a modernized, published Drupal page: the linked title will point to a Facility Locator detail page.
+* If a facility has a modernized, published Drupal page: That URL gets sent to Lighthouse, and the facility-locator app will use that URL via vets-api. The linked title will point to the modernized page.
+* If a facility does NOT have a modernized, published Drupal page: 
+    * the linked title will point to a Facility Locator detail page.
+    * The URL will be provided by Lighthouse, who receive it from a different source depending on Facility type. (VBA = Sandy's/Michelle's DB; NCA = XML files)
 
-Lighthouse owns a file called the "websites CSV." That file is considered the definitive truth for where any given Facility's content lives, as single source of truth. However: in some cases, a non-modernized site will list the previous TeamSite page as its live page. In these cases, facility locator has code in vets-website that will, instead of pointing out to the TeamSite page listed in websites CSV, will send users to a Facility Locator detail page for that facility's content. 
+The Facility Locator will never point out to TeamSites. Always only either a modernized, or a facility locator detail, page.
 
-Meaning: the Facility Locator will never point out to TeamSites. Always only either a modernized, or a facility locator detail, page.
 
 ### Incident response  
-Last updated: 12/28/2023
+Last updated: 3/6/2025
 
 #### Points of contact for system and dependent VA backends
    - Lighthouse 
-     - #api-facilities in DSVA Slack
+     - #cms-lighthouse in DSVA Slack
      - Dawn Pruitt, VA PO
-     - Adam Stilton, Engineering lead (adam.stilton@libertyits.com)
+     - Adam Stilton, Engineering lead (adam.stilton@libertyits.com) (through March 2025)
    - Platform team / vets-api: #vfs-platform-support in DSVA slack  
    - PPMS (upstream system) 
      - incidents must be reported via [YourIT Service Portal](https://yourit.va.gov/va?id=va_report_incident)
@@ -133,7 +134,7 @@ Links to dashboards that help identify and debug application issues
 4. [Unit Testing](#unit-testing)
 5. [Integration Testing](#integration-testing)
 
-## Landscape chart
+## Landscape chart - 3/2025 NEEDS UPDATE
 ```mermaid
 flowchart TD;
     subgraph VA
@@ -168,59 +169,68 @@ flowchart TD;
     cb -- week days --> deploy((Deployment))
 ```
 
-## System Dependencies (2022, needs review / update)
+## System Dependencies (2025, needs review / update)
+
 
 ### CMS (prod/staging)
 #### Content-build
 The CMS system is the primary dependency on which content-build relies. All pages are processed from the pages.json file statically at compile time and therefore doesn’t depend on CMS at runtime. This makes it not a likely point of failure. The only type of failure that could happen is if the CMS diverges from the graphql queries in `stages/build/drupal/graphql`. If there is divergence, broken pages will result (verified by modifying data in the graphql queries without corresponding values in the CMS– causing banners to appear when they shouldn’t). The metalsmith build process doesn’t seem to indicate what testing is being done on the pages built from the liquid components. There don’t seem to be any tests to guarantee correctness of data on any page. This is likely due to the fact that the majority of pages are dynamic based on CMS content.
 
-> In case of failure, likely contact Steve Wirt or Christian Burk, but in the case of something like “CMS is not responding” escalate to the platform team. 
+> In case of failure, contact [#sitewide-cms-platform](https://app.slack.com/client/T03FECE8V/CT4GZBM8F).
+
+### Next-build
+Next-build is the next-gen content publishing mechanism that will eventually replace content-build. The same logic and dependency notes generally apply.
 
 #### Vets-website
-Vets-website does not directly pull from dynamic CMS. So, changes in CMS will not affect vets-website. It does pull from static CMS data in the form of the `https://www.va.gov/data/cms/vamc-ehr.json`. However, this is a small portion of the data on vets-website. There is an indirect link between CMS and vets-website, in that CMS pushes data to LightHouse and LightHouse is consumed via vets-api by vets-website.
+Vets-website does not directly pull from dynamic CMS. So, changes in CMS will not affect vets-website. Vets-website does pull from static CMS data in the form of the `https://www.va.gov/data/cms/vamc-ehr.json`. However, this is a small portion of the data on vets-website. There is an indirect link between CMS and vets-website, in that CMS pushes data to LightHouse and LightHouse is consumed via vets-api by vets-website.
 
 ### Vets-api
+The facilities-api in vets-api is more thoroughly documented at [products/facilities/facilities-api](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api/README.md).
 
 #### Content-build
-No dependencies in content-build
+No vets-api dependencies in content-build
 
 #### Vets-website
-Vets-website heavily uses vets-api for all facility related data (locator/find-locations/details about various types of facilities). All calls to vets-api from vets-website should be using vets-api’s v1 endpoints.
+Vets-website heavily uses vets-api for all facility related data (locator/find-locations/details about various types of facilities). All calls to vets-api from vets-website should be using vets-api’s v2 endpoints.
 
 | Facility type | endpoint called by vets-website | 
 | --- | --- |
-Vet Centers, VA Benefits, VAMC facilities, and VA Cemeteries |  `https://api.va.gov/facilities_api/v1/va`|
-| Community care providers | `https://api.va.gov/facilities_api/v1/ccp/provider`
-| Urgent care | `https://api.va.gov/facilities_api/v1/ccp/urgent_care`| 
-| Emergency care | `https://api.va.gov/facilities_api/v1/va?type=health&services[]=EmergencyCare` and `https://api.va.gov/facilities_api/v1/ccp/provider?specialties` with several (4) specialties |
-| Pharmacy | `https://api.va.gov/facilities_api/v1/ccp/pharmacy`|
+Vet Centers, VA Benefits, VAMC facilities, and VA Cemeteries |  `https://api.va.gov/facilities_api/v2va`|
+| Community care providers | `https://api.va.gov/facilities_api/v2/ccp/provider`
+| Urgent care | `https://api.va.gov/facilities_api/v2/ccp/urgent_care`| 
+| Emergency care | `https://api.va.gov/facilities_api/v2/va?type=health&services[]=EmergencyCare` and `https://api.va.gov/facilities_api/v2/ccp/provider?specialties` with several (4) specialties |
+| Pharmacy | `https://api.va.gov/facilities_api/v2/ccp/pharmacy`|
 
-All routes on Vets-api are managed by the Facilities team and monitored in datadog. Facilities team, up to this point, has been managing the routes but ICs on the team had not had access to datadog directly. We recently got access to datadog. 
+All routes on Vets-api are managed by the Facilities team and monitored in datadog. 
 
-> Vets-api is a bit ambiguous who the line of defense is for when the system fails. If vets-api services dev, sandbox, staging, or prod are not responding, escalate to the platform team via a support request. These systems are on EKS and therefore unlikely to be completely down. 
+> Vets-api is a bit ambiguous who the line of defense is for when the system fails. If vets-api services dev, sandbox, staging, or prod are not responding, escalate to the Platform team via a support request in #vfs-platform0-support. These systems are on EKS and therefore unlikely to be completely down. 
 
 ### Lighthouse (LH)
-While lighthouse is not directly called by vets-website or content-build, vets-api heavily relies on lighthouse for data. CMS feeds data directly to lighthouse and therefore, to some degree vets-website depends indirectly on CMS.
+While lighthouse is not directly called by vets-website or content-build, vets-api heavily relies on lighthouse for data. CMS feeds data directly to Lighthouse and therefore, to some degree vets-website depends indirectly on CMS.
 
-> Questions about LH on the DSVA slack platform channel often end up identifying that the platform team does not control LH or operate on LH in any meaningful way.
+> Questions about LH on the DSVA slack Platform channel often end up identifying that the platform team does not control LH or operate on LH in any meaningful way.
 
 ### "Sandy’s" Database 
 (Owned by Michelle Middaugh) 
+This database is the source of truth for information about VBA Facilities.
+
 While Sandy’s database is not directly called by vets-website or content-build, vets-api and CMS rely on data from this database for things such as location of facilities, hours of operation, etc. 
 
 > Questions about this database should be directed to Michelle.
 
 ### VAST
+VAST (Veteran Affairs Site Tracking) is a VA-owned data system that is the source of truth for hours, address, naming for VHA Facilities.
+
 Outside OCTO. VAST is consumed by Lighthouse Facilities API
 
 
 ## Component Dependencies
 
 ### Content-build
-Uses the dsva components which in turn use uswds components
+Uses VA Design System (VADS) components which in turn use uswds components
 
 ### Vets-website
-Uses the dsva components which use uswds components
+Uses the VADS components which use uswds components
 
 > If components are not functioning correctly, contact design system team
 

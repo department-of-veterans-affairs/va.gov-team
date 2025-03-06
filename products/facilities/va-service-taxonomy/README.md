@@ -27,7 +27,7 @@ Person | Email | Role |
 ---| --- | --- |
 Michelle Middaugh | suzanne.middaugh@va.gov | OCTO product owner 
 Danielle Thierry | danielle.thierry@va.gov | OCTO content and translation lead
-Jenny Heiland-Luedtke | jennifer.heiland-luedtke@va.gov | Deputy Director, VHA Digital Media (VAMC POC)
+TBD March 2025| | Deputy Director, VHA Digital Media (VAMC POC)
 Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC) 
 Shared VBA leadership responsibility | ofocomms.vbaco@va.gov | VBA POC
 
@@ -53,8 +53,3 @@ The following research was completed by the Facilities Team and its predecessors
 |	CMS Health services taxonomy |	May 2019	|	Evaluate the prons and cons of having health/facility service content prsented in alphabetical order or grouped by similarity, such as primary care/speciality care	|	[May 2019 Health service taxonomy findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2021-03-services-taxonomy/20190522_VAgovCMS_facilities_healthserviceIA_synthesis_full%20(2).pptx)		
 |	Health services taxonomy |	January 2018	|	Exploration of health care services, provider search and clinical services descriptions on VA.gov	|	[Jan 2018 Health service taxonomy findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/facilities/medical-centers/services-taxonomy/health-taxonomy-research/Exploration-of-Health-Care-Services-on-VA.gov.pdf)		
 
-
-## Historical team documentation
-
-- [**VSA Facilities Team transition folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) | March 2022
-- [**VSA Facilities Team Research and Design Hub document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vsa-ux-transition-doc.md) | March 2022
