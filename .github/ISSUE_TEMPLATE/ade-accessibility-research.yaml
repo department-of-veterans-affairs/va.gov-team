@@ -105,7 +105,7 @@ body:
     value: "## What kind(s) of research help would you like from ADE?"
 
 - type: checkboxes
-  id: review-research-materials
+  id: help-research-materials
   attributes:
     label: Review research materials
     options:
@@ -116,18 +116,51 @@ body:
   validations:
     required: false
 
+- type: checkboxes
+  id: help-tech-support
+  attributes:
+    label: Provide technical support
+    options:
+      - label: Help building an accessible prototype
+      - label: Pilot with an accessibility specialist
+      - label: Live technical support during your AT research sessions  
+  validations:
+    required: false
+
+  - type: checkboxes
+  id: help-moderation
+  attributes:
+    label: Help with research sessions
+    options:
+      - label: Advise on moderating AT research sessions
+      - label: Have an accessibility researcher moderate your AT research sessions
+      - label: Have an accessibility specialist observe your AT research sessions and document accessibility-related issues encountered  
+      - label: Collaborate with an accessibility researcher to research a specific topic of interest
+  validations:
+    required: false
+
+- type: input
+  id: research-topic
+  attributes:
+    label: If you want to collaborate with an accessibility researcher to research a specific topic of interest, what is the topic?
+    description: We will reach out to you to discuss this
+  validations:
+    required: false
+
+
 - type: textarea
   id: artifacts
   attributes:
-    label: Supporting artifacts (if any)
+    label: Artifacts about your study (if any)
     description: If relevant, please provide supporting artifacts as available
     value: |
-      - [Product outline](Insert URL here between the parenthesis)
-      - [User flows](Insert URL here between the parenthesis)
-      - [Prototype or mockups](Insert URL here between the parenthesis)
-      - [Research plan](Insert URL here between the parenthesis)
-      - [Research conversation guide](Insert URL here between the parenthesis)
-      - [Epics/issue that may be helpful](Insert URL here between the parenthesis)
+      - [Product outline](insert URL here between the parentheses)
+      - [User flows](insert URL here between the parentheses)
+      - [Prototype or mockups](insert URL here between the parentheses)
+      - [Research plan](insert URL here between the parentheses)
+      - [Conversation guide](insert URL here between the parentheses)
+      - [Epics/issue that may be helpful](insert URL here between the parentheses)
+      - [Research folder in github](insert URL here between the parentheses)
       ...
   validations:
     required: true
@@ -146,28 +179,7 @@ body:
       - label: ADE specialists will provide you an optional feedback form to let us know how we can support y'all better into the future.
       - label: ADE Specialists create a research notes template
       - label: ADE Post research, specialists will add accessibility findings to your research folder
-     
-- type: dropdown
-  id: champion-1
-  attributes:
-    label: Do you have an accessibility champion?
-    description: If you don't have one, totally ok! Let us know if you're interested in becoming one. [Learn more about becoming an Accessibility Champion](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community)
-
-    options:
-      - No, we don't have a champion (yet)
-      - No, but we are interested in training one!
-      - Yes, we have a champion
-  validations:
-    required: true
-
-
     
-- type: input
-  id: champion-3
-  attributes:
-    label: Is anyone on your team interested in becoming an accessibility champion?
-    description: We'll reach out to them separately to get them started on their journey!
-  validations:
-    required: false
+    
 
 
