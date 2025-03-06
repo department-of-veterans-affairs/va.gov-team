@@ -41,7 +41,7 @@
 - 
 
 ### Endpoint Monitoring
-- We are currently in the middle of setting these up. We will have monitors and alerts for: 1) backend nightly job failures 2) PDF/TXT download failures 3) missing blank form for the prior year.
+- We are currently in the middle of setting these up. Besides the required monitors we will have additional monitors and alerts for: 1) backend nightly job failures 2) PDF/TXT download failures 3) missing blank form for the prior year.
 
 ### Logging Silent Failures
 - Silent Failures are not applicable to this work. A Veteran only signs in and downloads a document.
