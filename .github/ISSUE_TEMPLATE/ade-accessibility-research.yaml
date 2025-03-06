@@ -113,8 +113,7 @@ body:
       - label: Recruitment criteria
       - label: Screening questions for inclusive recruiting
       - label: Conversation guide    
-  validations:
-    required: false
+
 
 - type: checkboxes
   id: help-tech-support
