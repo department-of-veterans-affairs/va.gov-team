@@ -1,4 +1,4 @@
-## [WIP] When to use feature flags for Form 526
+## When to use feature flags for Form 526
 
 Because of the lack of a true staging environment, releasing new features or even bug fixes can be impossible to test and very risky. One way to mitigate the risk of causing issues to users in Production is to use feature flags.
 
