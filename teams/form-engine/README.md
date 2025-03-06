@@ -7,16 +7,18 @@ Designed exclusively for non-technical users, the VA Digital Form Builder aims t
 
 We see the Digital Form Builder as a catalyst for change, streamlining form creation, automating tasks, and eliminating redundancies—all while reducing errors and avoiding the need for costly custom development.  This paves the way for a more responsive and agile VA system, enabling VA staff to work smarter, not harder. 
 
-## Key Benefits and Capabilities
+## Aheres to 21st Century IDEA requirements 
 
-- **Supports VA’s Digital Modernization Efforts** – By leveraging existing VA data and ensuring accessibility compliance, the Form Builder aligns with VA’s goal of improving efficiency and user experience across services.
+- **Supports VA Digitization Modernation** – By leveraging existing VA data and ensuring accessibility compliance, the Form Builder aligns with VA’s goal of improving efficiency and user experience across services.
    -  By leveraging the VA Forms Library, the solution maintains accessibility and compliance standards while reducing redundant development efforts.
 
-- **Streamlines Form Completion** – VA staff will no longer need to repeatedly enter the same information. The tool pre-fills known data, reducing errors and saving time.
+- **Streamlines Form Completion** – VA staff will no longer need to repeatedly enter the same information. This tool will eventually pre-fill known data, reducing errors and saving time.
 
 - **Empowers VA Staff** – Non-technical users can create, update, and manage forms without relying on developers, allowing faster response times to veterans’ needs.
 
-- **Accelerates Form Processing** – Digital-first workflows and automation reduce manual tasks, enabling quicker submission and processing of benefits applications.
+- **Accelerates Form Processing** – Digital-first workflows and automation will reduce manual tasks, enabling quicker submission and processing of benefits applications.
+   - Developing a matching PDF for Form 21-4140 revealed significant infrastructure limitations, particularly the reliance on manual processes in the current form submission workflow. We provided the VA with key insights to guide future modernization efforts, emphasizing the need to automate the submission process.
+
  
 
 
