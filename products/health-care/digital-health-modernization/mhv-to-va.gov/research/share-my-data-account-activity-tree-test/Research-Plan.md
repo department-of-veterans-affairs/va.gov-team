@@ -31,9 +31,10 @@ Findings will provide insights into the optimal placement and structure of these
 - **Gaps in discoverability** that may require IA refinements.  
 
 ## Research Questions  
-- Where do authenticated MHV users expect to find **‘Share My Health Data’** within MHV on VA.gov?  
-- Where do authenticated MHV users expect to find **‘Account Activity History’** within MHV on VA.gov?  
-- What **challenges** do users face in locating these features, and how can the **IA be improved**?  
+- Where do MHV users expect to find **‘Share My Health Data’** within MHV on VA.gov?  
+- Where do MHV users expect to find **‘Account Activity History’** within MHV on VA.gov?  
+- What challenges do users face in locating the ‘Share My Health Data’ and ‘Account Activity History’ features within MHV on VA.gov, and how can the information architecture be improved to enhance discoverability?
+- Does the labeling of the ‘Account Activity History’ link align with users’ expectations, or would alternative terminology improve clarity and findability?   
 
 ## Hypotheses  
 ### **Share My Health Data Link**  
