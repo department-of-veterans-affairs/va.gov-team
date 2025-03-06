@@ -159,9 +159,9 @@ body:
   id: next-steps
   attributes:
     label: Next steps for you
-    description: After submitting this ticket, please complete the following
+    description: After submitting this ticket, please complete the following tasks
     options:
-      - label: Post a link to this ticket in the `#accessibility-help` Slack channel and tag @Lakwi Perera and @Cindy Merrill
+      - label: Post a link to this ticket in the #accessibility-help Slack channel with tags @Lakwi Perera and @Cindy Merrill
       - label: Your team's researchers and observers read through platform guidance on research with assistive technology users
       - label: Review our [assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md) and request a pilot, if desired
       - label: ADE Specialists are assigned to your research, be sure to add the respective accessibility specialist(s) to your session invites (include the Zoom or Teams link). 
