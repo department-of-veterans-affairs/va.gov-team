@@ -6,10 +6,17 @@ Designed exclusively for non-technical users, the VA Digital Form Builder aims t
 
 We see the Digital Form Builder as a catalyst for change, streamlining form creation, automating tasks, and eliminating redundancies—all while reducing errors and avoiding the need for costly custom development.  This paves the way for a more responsive and agile VA system, enabling VA staff to work smarter, not harder. 
 
-## Aligned with 21st Century IDEA requirements 
+## Aligned to 2025 OCTO OKRs
+
+The VA Digital Form Builder actively contributes toward the following 2025 OCTO OKRs:
+
+- **Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.**
+  - OKR 1.1:  Improve satisfaction with our web and mobile products by 5 points.
+ 
+## Key Benefits and Capabilities
 
 - **Supports VA Digitization Modernation** – By leveraging existing VA data and ensuring accessibility compliance, the Form Builder aligns with VA’s goal of improving efficiency and user experience across services.
-   -  We have been able to utilize the VA Forms Library, this solution maintains accessibility and compliance standards while reducing redundant development efforts.
+   -  We have been able to utilize the VA Forms Library components allowing us to maintain accessibility and compliance standards while reducing redundant development efforts.
 
 - **Increase Processing Efficiency and Reduce Manual Work** – **Automate** repetitive tasks to decrease administrative burden on VA Staff. VA staff will no longer need to repeatedly enter the same information. This tool will pre-fill known data, reducing errors and saving time.
   
@@ -17,16 +24,6 @@ We see the Digital Form Builder as a catalyst for change, streamlining form crea
 
 - **Accelerates Form Processing** – Digital-first workflows and automation will reduce manual tasks, enabling quicker submission and processing of benefits applications.
    - Developing a matching PDF for Form 21-4140 revealed significant infrastructure limitations, particularly the reliance on manual processes in the current form submission workflow. We provided the VA with key insights to guide future modernization efforts, emphasizing the need to automate the submission process.
-
-## Success Criteria
-
-- **Faster Form Completion** - Reduction in time spent filling out forms.
-
-- **Fewer Errors and Redunacies** - Pre-filled data ensures accuracy.
-
-- **Higher Staff Adoption** - VA staff independently using the tool.
-  
-- **Faster Processing Times** - Reduction in time from submission to benefit processing.
  
 ## Milestones Completed as of March 2025
 
