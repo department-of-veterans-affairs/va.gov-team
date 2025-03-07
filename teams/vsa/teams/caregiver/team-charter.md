@@ -35,7 +35,7 @@ Health Products
 ### Team Members:
 - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us / GH "hdjustice" - Product manager
 - Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com / GH "alexseelig" - Product manager
-- Emily Brown | emily.brown8@va.gov / emily.brown@agile6.com / GH "emily-brown34" - Delivery Lead
+- Alexandria "Alex" Parker | alexandria.parker@va.gov / alexandria.parker@agile6.com / GH "ACParker89" - Delivery Lead
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / "jessicastump" - Sr UX Design/Research
 - Angela Agosto | angela.agosto1@va.gov / angela.agosto@adhocteam.us / GH "aagosto90" - UX Design/Research
 - Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck" - UX Design/Research
@@ -55,10 +55,8 @@ Health Products
 **OCTO-DE**
 - Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
 - Patrick Bateman | patrick.bateman@va.gov - Product Owner
-- Lois Lewis | lois.lewis2@va.gov - UX Lead
-- Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
-- Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
-- Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
+- Amanda Klausmeier | amanda.klausmeier@va.gov - Design Lead
+- Jinu Ryu | jina.ryu@va.gov - Design
 - Danielle Thierry | danielle.thierry@va.gov - Content writer
 
 **HEC (Health Eligibility Center) Program Team**
@@ -74,6 +72,8 @@ Health Products
 - Shana Watson | shana.watson@va.gov -- Member Services SME
 - Simone Gully | simone.gully@va.gov -- Member Services SME
 - Amanda Scully | amanda.scully@va.gov -- Member Services SME
+- Amanda Fulton | amanda.fulton@va.gov -- Member Services SME
+- Tiffany Gaines | tiffany.gaines@va.gov -- Member Services SME
 
 **Enrollment System (ES)** (End-to-End Testing POCs)
 - Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)
