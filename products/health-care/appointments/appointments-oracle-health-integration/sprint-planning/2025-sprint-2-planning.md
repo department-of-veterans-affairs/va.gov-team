@@ -24,13 +24,15 @@ NEW Sprint 1: 3/05/25 - 3/19/25
 ## 📋 Previous Sprint Summary:
 In Sprint 24 the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Direct Scheduling
-  *  Determine EHR on appointment creation request Clinical Encounter Service was updated so that appointment creation requests are forwarded to the correct Electronic Health Record (EHR) system based on site location, ensuring accurate processing.
-  *  VetsAPI Patient Gateway updated CodeSystems.java to modify the VA_SYSTEM_LOCATION value, aligning it with the correct system value for each facility as defined in ces-ig.
-* #### Community Care
-  * VetsAPI enhanced request specifications for AppointmentsController#create_draftmethod, adding more tests to cover different scenarios and edge cases.
-  * VetsAPI implemented a new GET /appointments/{appointment_id} endpoint, which calls EPS::AppointmentService#get_appointment to retrieve details of a specific appointment from EPS.
+  *  VetsAPI Patient Gateway updated query logic to ensure that community care appointments are always returned from VAOS, even when the Electronic Health Record (EHR) system is Oracle.
+  *  Clinical Encounter Service modified multi-EHR reads to return OperationOutcomes instead of a list. This change allows Clinical Encounter Service to differentiate between a valid ResourceNotFoundException and an invalid ForbiddenOperationException.
+
 * #### Testing/Admin/Operational Support
-  * VetsAPI Patient Gateway updated various Kubernetes and client dependencies to the latest versions, ensuring improved stability and performance.
+  *  VetsAPI Patient Gateway updated references to the latest available version of mobile-oauth-sts, improving system stability and security.
+  *  VetsAPI Patient Gateway reworked unit test logic to eliminate dependencies on the time of day, resolving errors that occurred within four hours of midnight.
+  *  Clinical Encounter Service transitioned from using the DISABLED_RESOURCES property to a permissions-based model, allowing for more flexible and configurable resource management.
+  *  Clinical Encounter Service implemented a new DRL rule that enforces access restrictions, ensuring that veterans can only read their own appointments. Unauthorized access attempts now trigger a 403 Forbidden response.
+
 
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started; ⚠️ Removed from sprint 
