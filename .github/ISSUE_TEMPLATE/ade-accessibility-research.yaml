@@ -144,13 +144,13 @@ body:
     label: Artifacts about your study (if any)
     description: If relevant, please provide supporting artifacts as available
     value: |
-      - [Product outline](insert URL here between the parentheses)
-      - [User flows](insert URL here between the parentheses)
-      - [Prototype or mockups](insert URL here between the parentheses)
-      - [Research plan](insert URL here between the parentheses)
-      - [Conversation guide](insert URL here between the parentheses)
-      - [Research folder in github](insert URL here between the parentheses)
-      - [Epics/issue that may be helpful](insert URL here between the parentheses)
+      - [Product outline](insert URL here)
+      - [User flows](insert URL here)
+      - [Prototype or mockups](insert URL here)
+      - [Research plan](insert URL here)
+      - [Conversation guide](insert URL here)
+      - [Research folder in github](insert URL here)
+      - [Epics/issue that may be helpful](insert URL here)
       
   validations:
     required: true
