@@ -72,15 +72,11 @@ Even though your feature has been tested and ready, production is still a differ
 
 **Planning**
 
-•	Desired date range or test duration: [FILL_IN]
+•	Desired date range or test duration: **3/5/25 - 3/11/25**
 
-•	Desired number of users: [FILL_IN]
+•	Desired number of users: **5 users**
 
-•	How you'll recruit the right production test users: [FILL_IN]
-
-•	How you'll conduct the testing: [FILL_IN]
-
-•	How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
+•	How you'll conduct the testing: **We will share a script and link to staging to execute functional testing.**
 
 **Results**
 
