@@ -65,7 +65,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 3 [ 2/26/25-3/11/25] 
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-| UX: Write VHA Payment History stakeholder and SME feedback survey and distribute for feedback | QP3 |--|--|--|
+| UX: Write VHA Payment History stakeholder and SME feedback survey and distribute for feedback | QP3 |--|3/7/25|Completed|
 | UX: Complete the Monthly Medallia report| QP3 |--|--|--|
 | UX: Create a Q3 2024 retrospective report for Custom Survey Medallia feedback | QP3 |--|--|--|
 | ENG: Enable the feature flag for the activation of the one VA debt letter presentation button (Staging) | QP1 |--|--|--|
