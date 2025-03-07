@@ -130,7 +130,7 @@ Test a small Veteran population to ensure any obvious bugs/edge cases are found.
 
 •	Metrics at this stage (per your "success criteria"): **errors stay below < 5%**
 
-•	Was any downstream service affected by the change?: [PICK_ONE]: **no** 
+•	Was any downstream service affected by the change?: **no** 
 
 •	Types of errors logged: [FILL_IN]
 
@@ -151,7 +151,7 @@ Planning
 
 •	Metrics at this stage (per your "success criteria"): **errors stay < 5%**
 
-•	Was any downstream service affected by the change?: [PICK_ONE]: **no**
+•	Was any downstream service affected by the change?: **no**
 
 •	Types of errors logged: [FILL_IN]
 
@@ -173,7 +173,7 @@ Test a larger user population to ensure larger usage patterns expose no issues.
 
 •	Metrics at this stage (per your "success criteria"): **errors stay < %5**
 
-•	Was any downstream service affected by the change?: [PICK_ONE]: **no**
+•	Was any downstream service affected by the change?:  **no**
 
 •	Types of errors logged: [FILL_IN]
 
