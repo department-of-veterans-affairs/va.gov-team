@@ -1,6 +1,8 @@
-# DRAFT DRAFT DRAFT
+## 
 
 All estimates assume we have the dependencies, designs, etc we need to implement
+
+Total min \~ 24 weeks, total max \~38 weeks.
 
 ## Claims Management
 
@@ -24,13 +26,14 @@ Dependencies:
 
 * API connections built (in progress) and deployed (coming v2)
 
-## Complex Claims: Submitting for non-mileage expenses
+## Complex Claims: Submitting for non-SMOC expenses
 
-Dev complete estimate: **min \~ 8 weeks, max \~ 12 weeks**  
+Dev complete estimate: **min \~ 10 weeks, max \~ 14 weeks**  
 Functionality:
 
 * Start claim  
 * Re-engage with existing claim  
+* Add mileage expense  
 * Add lodging expense  
 * Add air travel expense  
 * Add common carrier expense  
@@ -69,7 +72,7 @@ Dependencies:
 
 There may be a case where a user says “no” to “submitting only mileage?” and then needs to submit mileage AND toll, for example.
 
-Dev complete estimate: **min \~ 4 weeks, max \~ 10 weeks**  
+Dev complete estimate: **min \~ 6 weeks, max \~ 12 weeks**  
 Functionality:
 
 * Start claim  
@@ -85,7 +88,8 @@ Functionality:
 Unknowns:
 
 * The user experience will inform the difficulty of the implementation  
-* Completing milestones in certain orders changes the estimate
+* Completing milestones in certain orders changes the estimate  
+* Do we need to show veterans the route used to calc mileage?
 
 Risks:
 
@@ -95,30 +99,6 @@ Dependencies:
 
 * API endpoints exist for adding/removing/viewing expenses  
 * API endpoints exist for uploading/removing/viewing files
-
-## Complex Claims: Mileage from different origin address
-
-Dev complete estimate: **min \~2 weeks, max \~ 4 weeks**  
-Functionality:
-
-* Start claim  
-* Add mileage expense  
-* Submit claim
-
-Unknowns:
-
-* How complicated does this need to be?  
-  * Is it enough to tweak the SMOC flow?  
-  * Does tweaking the SMOC flow encourage more tweaking down the line, when that’s maybe not what we want to do?
-
-Assumptions:
-
-* Assumes “otherwise simple” (no tolls, parking, or other complexities)  
-* This is not necessarily an update of the user’s home address
-
-Dependencies:
-
-1. API endpoints exist for adding address information to the expense
 
 ## Complex Claims: Travel claims for community care appointments
 
@@ -147,3 +127,29 @@ Dependencies:
 
 * API needs to support finding community care appointments in its system
 
+<hr />
+
+## (INCL ABOVE) Complex Claims: Mileage from different origin address
+
+Dev complete estimate: **min \~2 weeks, max \~ 4 weeks**  
+Functionality:
+
+* Start claim  
+* Add mileage expense  
+* Submit claim
+
+Unknowns:
+
+* How complicated does this need to be?  
+  * Is it enough to tweak the SMOC flow?  
+  * Does tweaking the SMOC flow encourage more tweaking down the line, when that’s maybe not what we want to do?  
+  * Is this considered 1-way mileage (to \+ from) or round trip?
+
+Assumptions:
+
+* Assumes “otherwise simple” (no tolls, parking, or other complexities)  
+* This is not necessarily an update of the user’s home address
+
+Dependencies:
+
+1. API endpoints exist for adding address information to the expense
