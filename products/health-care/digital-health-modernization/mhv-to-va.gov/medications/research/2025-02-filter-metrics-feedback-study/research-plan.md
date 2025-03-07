@@ -1,4 +1,4 @@
-# Research Plan for MHV on VA.gov, Medications - Filter (Jan - Feb 2025)
+# Research Plan for MHV on VA.gov, Medications - Filter (Dec - Feb 2025)
 
 ## Background
 
