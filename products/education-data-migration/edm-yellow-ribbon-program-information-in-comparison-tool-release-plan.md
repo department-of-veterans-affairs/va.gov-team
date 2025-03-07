@@ -10,13 +10,13 @@ When to use this release plan
 
 If you answer yes to any of the questions below, you'll need to create a release plan using this template. 
 
-Does the feature you are working on moderately or significantly affect the Veteran experience of the product? 
+Does the feature you are working on moderately or significantly affect the Veteran experience of the product? Yes
 
-Does the feature you are working on change the structure of the underlying data? 
+Does the feature you are working on change the structure of the underlying data? Yes
 
-Does the feature's backend or downstream interactions change? 
+Does the feature's backend or downstream interactions change? Yes
 
-Is this a brand new experience for a Veteran? 
+Is this a brand new experience for a Veteran? Yes
 
 The team should develop this plan in parallel with the development of the feature your team is creating. 
 
@@ -58,13 +58,13 @@ Before enabling your feature toggle in production, you'll need to:
 
  Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to: 
 
- review the plan with your DEPO/OCTO representative. 
+ review the plan with your DEPO/OCTO representative. Review with Theresa Simeone as our DEPO
 
  review the release plan with your team. 
 
 Step 3: Production rollout 
 
-Do I need a staged rollout? 
+Do I need a staged rollout? Yes
 
 Yes, a staged rollout is required unless you can confidently answer "yes" to all of the following: 
 
@@ -143,3 +143,176 @@ Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
 [FILL_IN] : list 
 
 [FILL_IN] : of 
+
+[FILL_IN]: Tickets of bugs/changes 
+
+Was any downstream service affected by the change?: yes/no, [FILL_IN] 
+
+Types of errors logged: [FILL_IN] 
+
+Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no 
+
+If yes, what: [FILL_IN] with ticket numbers 
+
+Phase II: Staged Rollout (also known as unmoderated production testing) 
+
+We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons. 
+
+Rollout Planning 
+
+Desired date range: 3/19 in 2 hour increments over a total of 6 hours 
+
+Targeting 7am – 1pm ET 
+
+How will you make the product available in production while limiting the number of users who can find/access it: The feature toggle has the ability to control the amount of people by enabling the % of actors during the production rollout.  
+
+What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: [use your KPIs to help guide this. It could be things like abandonment rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.] 
+
+Error rate < 5% 
+
+Links to the dashboard(s) showing "success criteria" metrics: Datadog https://vagov.ddog-gov.com/dashboard/   
+
+Who is monitoring the dashboard(s)?: Vanson Samuel will be monitoring 
+
+The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs. 
+
+Stage A: Canary 
+
+Test a small Veteran population to ensure any obvious bugs/edge cases are found. 
+
+Planning 
+
+Length of time: 2 hours (minimum 2 hours) 
+
+Percentage of Users (and roughly how many users do you expect this to be): 5% (Recommendation: select a percentage that targets ~500 users, or at most 10%) 
+
+Results 
+
+Number of unique users: [FILL_IN] 
+
+Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the Rollout Planning section 
+
+Was any downstream service affected by the change?: [PICK_ONE]: yes | no | N/A 
+
+Types of errors logged: [FILL_IN] 
+
+What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN] 
+
+Stage B: 25% of users 
+
+Test a larger user population to ensure larger usage patterns expose no issues. 
+
+Planning 
+
+Length of time: 2 hours (minimum 2 hours) 
+
+Percentage of Users (and roughly how many users do you expect this to be): 25% 
+
+Results 
+
+Number of unique users: [FILL_IN] 
+
+Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the Rollout Planning section 
+
+Was any downstream service affected by the change?: [PICK_ONE]: yes | no | N/A 
+
+Types of errors logged: [FILL_IN] 
+
+What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN] 
+
+Stage C: 50% of users 
+
+
+Planning 
+
+Length of time: 2 hours (minimum 2 hours) 
+
+Percentage of Users (and roughly how many users do you expect this to be): 50% 
+
+Results 
+
+Number of unique users: [FILL_IN] 
+
+Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the Rollout Planning section 
+
+Was any downstream service affected by the change?: [PICK_ONE]: yes | no | N/A 
+
+Types of errors logged: [FILL_IN] 
+
+What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN] 
+
+Stage D: 100% of users 
+
+Test a larger user population to ensure larger usage patterns expose no issues. 
+
+Planning 
+
+Length of time: 2 hours (minimum 2 hours) 
+
+Percentage of Users (and roughly how many users do you expect this to be): 100% 
+
+Results 
+
+Number of unique users: [FILL_IN] 
+
+Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the Rollout Planning section 
+
+Was any downstream service affected by the change?: [PICK_ONE]: yes | no | N/A 
+
+Types of errors logged: [FILL_IN] 
+
+What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN] 
+
+Post Launch metrics 
+
+Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal. 
+
+1-week results 
+
+Number of unique users: [FILL_IN] 
+
+Post-launch KPI 1 actual: [FILL_IN] 
+
+Post-launch KPI 2 actual: [FILL_IN] 
+
+Post-launch KPI 3 actual: [FILL_IN] 
+
+Any issues with VA handling/processing?: [PICK_ONE]: yes | no | N/A 
+
+Types of errors logged: [FILL_IN] 
+
+Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no | N/A 
+
+If yes, what: [FILL_IN] 
+
+1-month results 
+
+Number of unique users: [FILL_IN] 
+
+Post-launch KPI 1 actual: [FILL_IN] 
+
+Post-launch KPI 2 actual: [FILL_IN] 
+
+Post-launch KPI 3 actual: [FILL_IN] 
+
+Any issues with VA handling/processing?: [PICK_ONE]: yes | no | N/A 
+
+Types of errors logged: [FILL_IN] 
+
+Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no | N/A 
+
+If yes, what: [FILL_IN] 
+
+Post-launch Questions 
+
+To be completed once you have gathered your initial set of data, as outlined above. 
+
+How do the KPIs you gathered compare to your pre-launch definition(s) of "success"? 
+
+What qualitative feedback have you gathered from users or other stakeholders? 
+
+Which assumptions you listed in your product outline were/were not validated? 
+
+How might your product evolve now or in the future based on these results? 
+
+What technical tasks are needed to clean up (i.e., removal of feature toggles)? 
