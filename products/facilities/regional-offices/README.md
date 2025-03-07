@@ -17,7 +17,35 @@
 ## Overview 
 VBA Regional Office sites will be modernized, similarly to the modernization of VAMC sites and Vet Center sites. Modernized VBA sites will leverage existing CMS design patterns, improve accessibilty, provide an efficient moblie experience, and give Veterans and beneficiaries seeking access to their benefits more consistent, accurate, and timely information.
 
-## Problem Statement
+As of March 2025: 
+* Regional offices were launched as a modernized template in 2024
+* Local office editors have been trained in waves to use Drupal for content entry
+* ROs are being published on a rolling basis, based on VBA approval: https://prod.cms.va.gov/admin/content?title=&type=vba_facility&moderation_state=All&owner=191
+
+
+  
+## Description
+
+This is the new VA.gov facility product for VA's Facilities that offer Benefits Services
+
+- VBA runs 58 Regional Offices, with hundreds of child facilities (i.e., intake sites, VocRehab sites, Vet Success on Campus sites, and others?)
+- Like VAMCs, ROs are a network of facilities; the Regional Office is the parent facility, and other benefits facilities are children
+- VBA's facilities are unique because they provide VA benefits help for all three administrations (i.e., they will help you apply for health care and get burial benefits)
+
+### **Business partners:**
+- Lew Boone, Interim Chief (9/1/2023), Digital Media and Design, VBA Strategic Engagement
+- Tanekwa Bournes, VBA Strategic Engagement & VBA facilities lead
+- Kenyonna Power, VBA Strategic Engagement 
+- Derek Hommema, VBA Office of Field Operations
+- Brigette Murray, VBA Office of Field Operations
+
+### **VBA Stakeholders:**
+- Laura O'Shea, Office of Policy Overview at VBA 
+- Jamie Statton, Office of Policy Overview at VBA 
+
+
+
+## Launch Problem Statement
 The legacy VBA RO sites are authored in Teamsite, have a dense and unweidly presentation, are not mobile optimized, are prone to accessibilty issues, and do not have a rigorous content model. 
 How might we leverage what we've learned from VAMC and Vet Center modernization, and apply some of the same processes to produce RO pages consistent with other pages in the modernized experience. 
 
@@ -45,25 +73,6 @@ How might we leverage what we've learned from VAMC and Vet Center modernization,
 - Increased 508 issues
 - Increased call center cases 
 - CSAT lower than the average of other pages in the modernized experience
-  
-## Description
-
-This is the new VA.gov facility product for VA's Facilities that offer Benefits Services
-
-- VBA runs 58 Regional Offices, with hundreds of child facilities (i.e., intake sites, VocRehab sites, Vet Success on Campus sites, and others?)
-- Like VAMCs, ROs are a network of facilities; the Regional Office is the parent facility, and other benefits facilities are children
-- VBA's facilities are unique because they provide VA benefits help for all three administrations (i.e., they will help you apply for health care and get burial benefits)
-
-### **Business partners:**
-- Lew Boone, Interim Chief (9/1/2023), Digital Media and Design, VBA Strategic Engagement
-- Tanekwa Bournes, VBA Strategic Engagement & VBA facilities lead
-- Kenyonna Power, VBA Strategic Engagement 
-- Derek Hommema, VBA Office of Field Operations
-- Brigette Murray, VBA Office of Field Operations
-
-### **VBA Stakeholders:**
-- Laura O'Shea, Office of Policy Overview at VBA 
-- Jamie Statton, Office of Policy Overview at VBA 
 
 ## Approach
 - Research, design, and define the facilities hierarchical structure as it relates to Veteran needs and understanding
@@ -112,4 +121,4 @@ The data call in August 2021 defined these as the different types of VBA Facilit
 * [National Editor onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/initiatives/2024-national-mvp)
 
 # Incident response
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-pages/technical-documentation.md#incident-response
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-pages/README.md#incident-response

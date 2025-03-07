@@ -1,5 +1,5 @@
 # Facility Supplemental Status and Description
-The supplemental status and accompanying supplemental status more info is designed to be extensible to account for rapidly changing&nbsp; requirements for Facility level statuses.
+The supplemental status and accompanying supplemental status more info was designed to be extensible to account for rapidly changing&nbsp; requirements for Facility level statuses.
 
 ## History
 

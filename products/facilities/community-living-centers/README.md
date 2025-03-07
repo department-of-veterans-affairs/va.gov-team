@@ -2,7 +2,9 @@
 
 [Community Living Center general information](https://www.va.gov/GERIATRICS/pages/VA_Community_Living_Centers.asp)
 
-Community Living Centers deliver nursing home level of care, and they can be a temporary or permanent home. They can provide a variety of services, from short term nursing, rehabilitation, and hospice care, to long term assisted living care.
+Community Living Centers deliver nursing home level of care, and they can be a temporary or permanent home. They can provide a variety of services, from short term nursing, rehabilitation, and hospice care, to long term assisted living care. CLCs are not represented in the modernized VA.gov with their own pages as of March 2025.
+
+CLCs are governed by VHA (Veterans Healthcare Administration).
 
 ### Example locations
 
