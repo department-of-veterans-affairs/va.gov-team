@@ -163,7 +163,7 @@ body:
     options:
       - label: Post a link to this ticket in the "accessibility-help" Slack channel with tags @Lakwi Perera and @Cindy Merrill
       - label: Read Platform guidance on [research with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)
-      - label: If you requested a pilot, review our [assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md) and request a pilot, if desired
+      - label: Review our [assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md)
       - label: (later) If ADE specialists are assigned to support your research sessions, add each specialist to the corresponding session invite with videoconferencing link
       - label: (later) If ADE specialists are assigned to support your research sessions, provide each specialist with your participant’s AT years of experience, device, operating system, assistive tech, and browser (if known)
       - label: (later) Fill out the optional feedback form to let us know how we can support you better 
@@ -178,7 +178,7 @@ body:
       - label: Review your research plan and conversation guide
       - label: Create a research notes template
       - label: Add accessibility findings to your research folder after the research sessions
-      - label: Send optional feedback form  
+      - label: (later) Send optional feedback form  
     
 
 
