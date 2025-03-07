@@ -126,9 +126,9 @@ Test a small Veteran population to ensure any obvious bugs/edge cases are found.
 
 **Results**
 
-•	Number of unique users: **5% of users will be exposed to new feature** 
+•	Number of unique users: **5% of users will be exposed to the new features** 
 
-•	Metrics at this stage (per your "success criteria"): **the errors stay below < 5%**
+•	Metrics at this stage (per your "success criteria"): **errors stay below < 5%**
 
 •	Was any downstream service affected by the change?: [PICK_ONE]: **no** 
 
