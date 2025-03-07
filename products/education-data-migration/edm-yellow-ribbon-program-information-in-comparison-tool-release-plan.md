@@ -84,12 +84,6 @@ Even though your feature has been tested and ready, production is still a differ
 
 •	Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
 
-o	[FILL_IN] : list
-
-o	[FILL_IN] : of
-
-o	[FILL_IN]: Tickets of bugs/changes
-
 •	Was any downstream service affected by the change?: yes/no, [FILL_IN]
 
 •	Types of errors logged: [FILL_IN]
