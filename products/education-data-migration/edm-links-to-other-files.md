@@ -26,6 +26,9 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 - [Staging Review finding: Acronym or Initialization without context #103583](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103583#event-16405018622)
 - [Staging Review finding: Use of "the" before "VA"  #103580](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103580#event-16405017312)
 - [Staging Review finding: Order of options on Degree Level dropdown doesn't match expected sequence #103577](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103577#event-16405015903)
+### Launch Prep
+- [Readiness Review [Education Data Migration, Yellow Ribbon Tool] #2269](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/2269) 
+- [YRT Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-data-migration/edm-yellow-ribbon-program-information-in-comparison-tool-release-plan.md)
 
 ## WEAMS Public 
 - [Collaboration Cycle for Education Data Migration, WEAMS Public #90889](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90889)
