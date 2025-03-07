@@ -1,7 +1,10 @@
-`Draft`
+`Draft`   This work was completed by the IIR team and not the profile team, hence the draft state of this document 
+
+[See Collab cycle ticket from the IIR team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82257)
+
 # Project Outline: User Profile Completion
 
-**Last Update:** 5/21/2024 added artifacts
+**Last Update:** 3/7/2025 - This work Launched in February of 2025 by the IIR team
 
 ## Communications
 - **Github labels**: authenticated-experience; profile-completion
