@@ -68,7 +68,7 @@ body:
 - type: input
   id: num-participants
   attributes:
-    label: How many participants using assistive tech do you want?
+    label: How many participants using assistive tech (AT) do you want?
   validations: 
     required: false
 
