@@ -77,4 +77,4 @@ All Endpoints (`/facilities_api/v2/va/**` and `/facilities_api/v2/ccp`) are moni
 
 ## Silent failures
 
-Currently we do not have silent failures after a silent failures audit.
+Currently we do not have silent failures (besides a silent failure that is being handled in an after a silent failures audit.
