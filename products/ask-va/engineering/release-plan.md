@@ -126,11 +126,11 @@ Examples:
 ## Roll Out Planning
 Targeting Launch March 17-24th 
 * Desired date range: Starting March 17th for Canary Release,
-  * Canary Launch: 500 Submitters or 10% of traffic
-  * Stage A: 25% of Submitters 
-  * Stage B: 50% of submitters 
-  * Stage C: 75% of Submitters
-  * Stage D: 100% of Submitters\
+  * Canary Launch: 500 Submitters or 10% of traffic (Monday, March 17)
+  * Stage A: 25% of Submitters (Tuesday, March 18)
+  * Stage B: 50% of submitters (Wednesday, March 19)
+  * Stage C: 75% of Submitters (Thursday and Friday, March 20-21)
+  * Stage D: 100% of Submitters (Monday, March 24)
 **Watchout:** End of week and end of month are high volume, a weekend or monday would be the best approach in early or middle of month\
 **Decision:** a day minimum per stage to monitor click responses.
 * How will you make the product available in production while limiting the number of users who can find/access it: 
