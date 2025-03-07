@@ -110,16 +110,17 @@
 <br>
 
 
-## Features and initiatives we worked on
+## Features and initiatives we worked on between April 1 2024 and March 31st 2025
 This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
 
-| Feature (Github link) | AKA | Status |
-| :--- | :--- | :--- |
-| [Household section optimization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Household%20section.md) | N/A | Dev in progress |
-| [10-10EZ Baseline Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Baseline%20Study.md) | N/A | Research completed Jan-Feb 2023 |
-| [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also similarly designed for 10-10CG use | In design |
-| [Notiifcations: Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Confirmation%20Emails.md) | N/A | Pending ES roadmap schedule, HEC Team to inform us |
-| [Short Form Expansion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Short%20Form%20Expansion.md) | Combat status | Initial discovery - Pending further discussions with stakeholders |
+| Feature                                      | AKA                                        | Status                                                         |
+|----------------------------------------------|--------------------------------------------|----------------------------------------------------------------|
+| Re-designed Claims Detail Page              | Improved Evidence Request Initiative       | Released April 2024                                            |
+| Re-designed Overview Page and Incorporating 8 claim phase paradigm | Improved Claim Contextualization Initiative | Released August 2024                                           |
+| Improved 5103 Request Experience            | N/A                                        | Released November 2024                                         |
+| Silent Failure Notification Emails          | Eliminate Silent Failures Initiative       | Phase 1 (exhaustion handler) released December 2024, Phase 2 (polling solution) released March 2025 |
+| Decision Letter Notifications               | Event Bus Notifications, Event-based Architecture Initiative | In progress, beginning staging testing and validation testing  |
+
 
 <br>
 
