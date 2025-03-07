@@ -106,7 +106,7 @@ Benefit hub pages corresponding with these tools currently have more complex ver
 ## Unauthenticated users
 The entire `/my-health` portal sits behind authentication and every application under this namespace must require authentication. Thus, any unauthenticated user who attempts to access a URL within any application in this space should trigger the sign-in modal. Until a user signs in, we cannot determine whether a user has authorization to access the page they are attempting to reach. 
 
-## 403 Access denied error component
+## 403 Access denied component
 The 403 error sends the user to a new page; this error component will only be experienced by users with access to My HealtheVet who attempt to access a url within the /my-health name space, for which that they lack credentials (i.e. a records url for a different user). As shown in the screenshot below, the 403 error includes guidance to call the My HealtheVet helpdesk, try other health-related resources, or navigate elsewhere within the portal using the MHV secondary nav.
 
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=685-14636)
@@ -126,7 +126,7 @@ The Cartography team took on designing and building a React 404 error based loos
 
 </details>
 
-## 500 Internal service error component
+## 500 Internal service component
 There are two versions of the 500 component copy; one provides basic guidance to users to recover (refresh browser) and can be used in any scenario in which the basic guidance would be the same. The other version is only a template and teams that need to deviate from the basic guidance will need to write their own copy to help users recover from the error. The intention behind creating two versions is to explicitly sanction and encourage teams to write their own copy when specific instructions would be useful to the user. 
 
 On the question of placement: This error component should appear after the page's H1 and lede text (if applicable) and before any other content on the page.
