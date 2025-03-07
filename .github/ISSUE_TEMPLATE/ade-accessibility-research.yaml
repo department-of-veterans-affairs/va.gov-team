@@ -135,7 +135,7 @@ body:
 - type: input
   id: research-topic
   attributes:
-    label: If you want to collaborate with an accessibility researcher to research a specific topic of interest, what is the topic?
+    label: If you want to collaborate with an accessibility researcher to research a specific topic, what is the topic?
     description: We will reach out to you to discuss this
 
 - type: textarea
