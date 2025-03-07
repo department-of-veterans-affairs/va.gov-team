@@ -107,8 +107,6 @@ Benefit hub pages corresponding with these tools currently have more complex ver
 The entire `/my-health` portal sits behind authentication and every application under this namespace must require authentication. Thus, any unauthenticated user who attempts to access a URL within any application in this space should trigger the sign-in modal. Until a user signs in, we cannot determine whether a user has authorization to access the page they are attempting to reach. 
 
 ## 403 Access denied error component
-Caution: the 403 access denied error component is still subject to change. [Link to experimental design ticket.](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3741)
-
 The 403 error sends the user to a new page; this error component will only be experienced by users with access to My HealtheVet who attempt to access a url within the /my-health name space, for which that they lack credentials (i.e. a records url for a different user). As shown in the screenshot below, the 403 error includes guidance to call the My HealtheVet helpdesk, try other health-related resources, or navigate elsewhere within the portal using the MHV secondary nav.
 
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=685-14636)
@@ -119,9 +117,14 @@ The 403 error sends the user to a new page; this error component will only be ex
 </details>
 
 ## 404 Page not found component
-Caution: the 404 page not found component is still subject to change. [Link to experimental design ticket.](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2912)
+The Cartography team took on designing and building a React 404 error based loosely on the Drupal version for VA.gov. We have not (yet) created a version specific to My HealtheVet, so all My HealtheVet users who change a link under the /my-health namespace to an incorrect / non-existant url will be sent to this same 404. At this point, the React version of the VA.gov 404 is still in experimental design and is still subject to changes. [Experimental design ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2912)
 
-Like the 403, the 404 error sends the user to a new page. 
+[Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=915-33082)
+
+<details><summary>404 Page not found for VA.gov</summary>
+<img src="https://github.com/user-attachments/assets/f62d1256-f9c9-41ad-9af4-9b62e2baddf1" />
+
+</details>
 
 ## 500 Internal service error component
 There are two versions of the 500 component copy; one provides basic guidance to users to recover (refresh browser) and can be used in any scenario in which the basic guidance would be the same. The other version is only a template and teams that need to deviate from the basic guidance will need to write their own copy to help users recover from the error. The intention behind creating two versions is to explicitly sanction and encourage teams to write their own copy when specific instructions would be useful to the user. 
