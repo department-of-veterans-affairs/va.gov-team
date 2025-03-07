@@ -1,11 +1,13 @@
 # ‘Share My Health Data’ App and ‘Account Activity’ IA Research Plan | MHV on VA.gov  
 
 ## Background  
-Currently, authenticated My HealtheVet (MHV) users do not have a way to locate ‘Share My Health Data’ within the new MHV experience on VA.gov, as this functionality has yet to be implemented. While MHV Classic allows Veterans to share health data, it requires manual entry of health information. The Office of Connected Care’s (OCC) **Share My Health Data** app enhances this by enabling automatic synchronization with smart health devices, reducing manual entry and streamlining data sharing with VA health care teams. Veterans can still manually log key health metrics—such as blood pressure, heart rate, glucose, pulse oximetry, temperature, and weight—if their device is not compatible.  
+As My HealtheVet (MHV) transitions to VA.gov, integrating key features from MHV Classic, such as **Share My Health Data** and **Account Activity History**, requires a clear understanding of where authenticated users expect to find them. While these features support Veterans in managing their health data and tracking account activity, their placement within VA.gov has not yet been determined. Identifying where users naturally look for these tools will help ensure they are easily accessible and aligned with their expectations.
 
-Similarly, **Account Activity History** is a legally mandated feature that provides authenticated MHV users with visibility into their account activity, including who accessed their account, what information was viewed, what changes were made, and the type of action performed. While this feature exists in MHV Classic, it has not yet been integrated into MHV on VA.gov.  
+In MHV Classic, Veterans tracked health metrics through a self-reporting tool that required manual entry. The Office of Connected Care’s (OCC) Share My Health Data app expands on this functionality by enabling automatic synchronization with smart health devices, reducing the need for manual input and streamlining data sharing with VA care teams. For devices that are not compatible, users would still be able to manually log key health metrics, including blood pressure, heart rate, glucose, pulse oximetry, temperature, and weight.
 
-This tree test study will evaluate where Veterans expect to find these features on MHV within VA.gov. The findings will help refine the site's information architecture (IA)to improve discoverability, usability, and alignment with Veterans’ mental models.  
+Account Activity History is a legally mandated feature that provides authenticated MHV users with a record of their account activity, including who accessed their account, what information was viewed, any changes made, and the type of action performed. 
+
+This study will examine user expectations for the placement of feature links within MHV on VA.gov. Insights from the findings will guide decisions on site structure, optimizing discoverability, enhancing usability, and ensuring alignment with user mental models.
 
 ## OCTO Priorities  
 **Objective 1:** VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.  
