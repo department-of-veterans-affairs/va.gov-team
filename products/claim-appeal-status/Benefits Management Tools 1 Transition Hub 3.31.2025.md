@@ -107,6 +107,7 @@
 - CST: Expand claim letter sorting functionality
 - CST: Introduce C&P exam experience improvements
 - 5103 silent failure polling solution
+- Evidence request email notifications
 
 
 <br>
