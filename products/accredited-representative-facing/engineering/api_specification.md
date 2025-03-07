@@ -8,7 +8,7 @@
 ```
 
 ## Responses
-### 401 - Unauthorized
+### 401 Unauthorized
 ```json
 {
   "errors": "Access token JWT is malformed"
@@ -25,7 +25,7 @@
 ```
 
 ## Responses
-### 403 - Forbidden
+### 403 Forbidden
 ```json
 {
   "errors": [
@@ -38,7 +38,7 @@
 *__Get user__*
 
 ## Responses
-### 200 - OK
+### 200 OK
 ```json
 {
   "account": {
@@ -67,7 +67,7 @@
 ```
 
 ## Responses
-### 200 - OK
+### 200 OK
 Array of [`poaRequestJson`](#poaRequestJson)
 
 # `GET /v0/power_of_attorney_requests/:id`
@@ -80,9 +80,17 @@ Array of [`poaRequestJson`](#poaRequestJson)
 ```
 
 ## Responses
-### 200 - OK
+### 200 OK
 [`poaRequestJson`](#poaRequestJson)
 
+### 404 Not Found
+```json
+{
+  "errors": [
+    "Record not found"
+  ]
+}
+```
 
 # `POST /v0/power_of_attorney_requests/:id/decision`
 *__Create power of attorney request decision__*
@@ -98,9 +106,27 @@ Array of [`poaRequestJson`](#poaRequestJson)
 ```
 
 ## Responses
-### 200 - OK
+### 200 OK
 ```json
 {}
+```
+
+### 400 Bad Request
+```json
+{
+  "errors": [
+    "Invalid type parameter - Types accepted: [acceptance declination]"
+  ]
+}
+```
+
+### 404 Not Found
+```json
+{
+  "errors": [
+    "Record not found"
+  ]
+}
 ```
 
 # `poaRequestJson`
@@ -158,6 +184,9 @@ Array of [`poaRequestJson`](#poaRequestJson)
     "type": "veteran_service_organization",
     "name": "Some Organization",
     "id": "123"
+  },
+  "powerOfAttorneyFormSubmission": {
+    "status": "FAILED"
   }
 }
 ```
