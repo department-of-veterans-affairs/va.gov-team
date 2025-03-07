@@ -21,13 +21,13 @@ This feature toggle is setup for authenticated users and we can also enable earl
 - [ ] All "launch blocking" items from Staging Review have been addressed
 - [ ] All "Before release" items have been addressed
 - [x] Contact Center Review is submitted 
-- [ ] Privacy, Security, IA Readiness Review is complete
+- [x] Privacy, Security, IA Readiness Review is complete
 
 #### Technical Preparation
 The following will take place right before Staged Rollout:
-- [ ] Enable digital submissions for Connecticut Department of Veterans Affairs in Production [#101542](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101542)
+- [x] Enable digital submissions for Connecticut Department of Veterans Affairs in Production [#101542](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101542)
 - [ ] Enable Appoint v2 email notifications in VA Notify Production [#101050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101050)
-- [ ] Email notification for POA acceptance is ready in Production (Confirm with Lighthouse)
+- [x] Email notification for POA acceptance is ready in Production (Confirm with Lighthouse)
 
 #### Rollout date: March 11, 2025 @ 1pm ET
 1. Stage A: 100% of users on March 11 (Tuesday) + implement Datadog monitoring in Production [#99975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99975)
