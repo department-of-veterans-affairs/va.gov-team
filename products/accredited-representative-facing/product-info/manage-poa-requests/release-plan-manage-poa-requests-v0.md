@@ -6,7 +6,7 @@
 Feature Toggle:
 We will whitelist Connecticut Veteran Affairs (DVA) representatives so they can gain access to the Accredited Rep Portal. This will control visibility of the portal overall.
 
-#### Go/No Go meeting March 6, 2025
+#### Go/No Go meeting March 10, 2025
 - [ ] Test the v0 flow in Production
 - [ ] Review the release plan
 - [ ] Determine a verdict
@@ -18,15 +18,28 @@ We will whitelist Connecticut Veteran Affairs (DVA) representatives so they can 
 - [ ] Unit tests and E2E tests are complete
 - [ ] QA by ARF team
 - [ ] Any lingering issues that are needed to address prior to rollout?
-- [ ] Whitelist email addresses for Connecticut Department of Veterans Affairs 
+- [ ] Whitelist email addresses for Connecticut Department of Veterans Affairs
+- [ ] Completion of end to end testing
 
 #### Platform Preparation
 - [ ] All "launch blocking" items from Staging Review have been addressed
 - [ ] All "should fix" items from QA have been addressed
 - [ ] Privacy, Security, IA Readiness Review is complete
 
-#### Content Preparation
+#### Launch Preparation
 - [ ] Onboarding docs has been reviewed for accuracy and approved by stakeholders
+- [ ] Conduct CT participant orientation
+- [ ] Notifying stakeholders of launch
+    - VBA - Martin Caraway and Kevin Schneider
+    - VEO - Melissa Rebstock and Laurie Baker
+    - GCLAWS - Randy Trexler
+    - VES - Lisa K
+    - OGC - Charlotte Price, Christa Shriber, Nate Kroes, and Jonathan Taylor
+
+
+
+
+
 
 ***
 
@@ -55,6 +68,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 - Rollout date: March 11, 2025
 - Limited production access will be controlled whitelisting email addresses of pilot participants
 - Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representative-facing-notifications, to initiate our rollback process (detailed above)
+- Veterans will be able to see CT participants and submit Form 21-22 digitally
 
 *** 
 
