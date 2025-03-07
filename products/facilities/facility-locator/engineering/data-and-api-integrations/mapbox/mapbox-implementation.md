@@ -72,7 +72,7 @@ place_type | Mapbox definition
 ## Temporary Geocoding usage/cost (Q1 2025)
 Historically, the Facility Locator uses the Temporary Geocoding API for address lookup but we have not historically used the autosuggest feature. 
 
-In Q1 2025, autosuggest will be enabled ([#20241](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20241)). This will increase the Temporary Geocoding API usage by 5-7x previous usage levels, as we will send calls for user-typed data as they type, in order to return address suggestions. 
+In Q1 2025, location autosuggest was enabled ([#20241](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20241)). This will increase the Temporary Geocoding API usage by 5-7x previous usage levels, as we will send calls for user-typed data as they type, in order to return address suggestions. 
 
 ### PRICING
 We have not currently locked in a pricing agreement for this increased usage, due to upcoming Sitewide end of period of performance, 3/31/2025. However: on the new Sitewide contract on SPRUCE, it would be advantageous to lock in pricing with Mapbox. Information from Mapbox sales / account rep:

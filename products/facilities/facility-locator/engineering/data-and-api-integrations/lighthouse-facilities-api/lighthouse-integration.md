@@ -7,10 +7,9 @@ Lighthouse API documentation: https://developer.va.gov/explore/api/va-facilities
 
 
 ### Lighthouse integration
-2024-01: Facility Locator is integrated with V0 of the facilities API. 
-V1 will be adopted before V0 EOL. Epic = https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14507
+Facility Locator is integrated with V1 of the facilities API. Epic = https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14507
 
-Facility Locator calls to Lighthouse use the `VADOTGOV_FacilityLocator` is 4000/minute API consumer.
+Facility Locator calls to Lighthouse via the [vets-api facilities-api](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api) use the `VADOTGOV_FacilityLocator` is 4000/minute API consumer.
 `VADOTGOV_FacilityLocator` 
 * As of Dec 2023, the rate limit is set to 4000/minute
 * has a single key (vs. some API consumers may have multiple associated keys, with a single shared rate limit). 
@@ -30,7 +29,7 @@ Facility Locator calls to Lighthouse use the `VADOTGOV_FacilityLocator` is 4000/
 * Facility data is returned as either JSON, or GeoJSON based upon request type, using `FacilitySerializer` or `GeoSerializer`.
 
 
-**/facilities_api/v1/va** 
+**/facilities_api/v2/va** 
 Used for searches in which Facility type =
 - VA health
 - VA benefits
@@ -38,19 +37,19 @@ Used for searches in which Facility type =
 - Vet Centers
 - Urgent care + Service type = VA urgent care
 
-**/facilities_api/v1/ccp/provider**
+**/facilities_api/v2/ccp/provider**
 Used for searches in which Facility type =
 - Community care providers (in VA’s network)
 
-**/facilities_api/v1/ccp/specialties**
+**/facilities_api/v2/ccp/specialties**
 Used to populate the typeahead for searches in which Facility type =
 - Community care providers (in VA’s network)
 
-**/facilities_api/v1/ccp/pharmacy**
+**/facilities_api/v2/ccp/pharmacy**
 Used for searches in which Facility type =
 - Community care pharmacies
 
-**/facilities_api/v1/ccp/urgent_care** 
+**/facilities_api/v2/ccp/urgent_care** 
 Used for searches in which Facility type =
 - Urgent care + Service type = Community urgent care (in VA’s network)
 

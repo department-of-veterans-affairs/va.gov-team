@@ -6,6 +6,11 @@ These pages are changed by editors at different levels, but the resulting conten
 ## Naming conventions
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/naming-schema
 
+## Operating status
+Facility status and the related info exists in two iterations.
+1. [Facility Status and More Info](status.md) - now called Operating Status
+2. [Supplemental Status and More Info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-pages/supplemental_status.md) - Now deprecated (as of 2024)
+
 ## Automated Testing
 Automated Testing of these pages is difficult, due to the potentially changing nature of the data. From one day to the next, a facility may be closed and inaccessible, and should that happen, testing that may include that site is complicated. We currently do not generate Cypress tests using production data for this reason.
 
@@ -39,14 +44,14 @@ Other Facilities products share the same Lighthouse API consumer:
 API consumer (production): `FacilitiesDrupalCMS`
 API consumer (sandbox): `cms-facilities`
 
-This API consumer is primarily used to POST data to Lighthouse production (`cms-overlay` endpoint), for cases where the CMS is the source of truth. As of April 2024 this includes: 
+This API consumer is primarily used to POST data to Lighthouse production (`cms-overlay` endpoint), for cases where the CMS is the source of truth. As of March 2025 this includes: 
 * Operating Status
 * Detailed Services
 * Health Care System
      * health connect phone
 * Core Fields
     * Mental Health phone
-    * Facility URL (not yet used)
+    * Facility URL 
 
 **This API key is shared** 
 Right now this API key only accesses the Facilities API. But within Lighthouse, the rate limit for API Keys is shared across all accessed APIs. If this key were used to access multiple APIs, traffic spikes will affect the rate limit for all other APIs using the same key. 
@@ -72,9 +77,9 @@ For `cms-overlay` data to be present in Sandbox, it must be manually synced by t
 
 ### Points of contact for system and dependent VA backends
    - Lighthouse 
-     - #api-facilities in DSVA Slack
+     - #cms-lighthouse in DSVA Slack
      - Dawn Pruitt, VA PO
-     - Adam Stilton, Engineering lead (adam.stilton@libertyits.com)
+     - Adam Stilton, Engineering lead (adam.stilton@libertyits.com) (through March 2025)
    - Platform team / vets-api: #vfs-platform-support in DSVA slack  
  
 

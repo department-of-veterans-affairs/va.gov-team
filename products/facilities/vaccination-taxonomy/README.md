@@ -1,5 +1,5 @@
 # Context
-Vaccination taxonomy was a research project in 2020. The taxonomy did not launch as a technical product, but evolved into the Supplemental Status model that was later mostly deprecated in 2023.
+Vaccination taxonomy was a research project in 2020. The taxonomy did not launch as a technical product, but evolved into the [Supplemental Status model](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-pages/supplemental_status.md) that was later mostly deprecated in 2023.
 
 ## Health Services - Vaccination Services Taxonomy #17522
 https://github.com/department-of-veterans-affairs/va.gov-team/issues/17522
