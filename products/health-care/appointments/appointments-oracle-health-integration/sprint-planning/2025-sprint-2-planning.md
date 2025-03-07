@@ -38,14 +38,19 @@ In Sprint 24 the team provided support for multiple features and initiatives, ou
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started; ⚠️ Removed from sprint 
 
 * 🟤 VetsAPI Logic Integration Support
-   * 🚧 [VPG-306 VPG: Move any existing logic for when to show join video link to vets-api](https://issues.mobilehealth.va.gov/browse/VPG-306)
+   * ⚠️ [VPG-306 VPG: Move any existing logic for when to show join video link to vets-api](https://issues.mobilehealth.va.gov/browse/VPG-306)
+* 🟠 Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
+   * [VPG-337 Implement Spring caching for CLS and CTPS client calls](https://issues.mobilehealth.va.gov/browse/VPG-337)
 * 🔵 Direct Scheduling
-   * [CES-1299 CES: Determine EHR on appointment creation request](https://issues.mobilehealth.va.gov/browse/CES-1299)
-* ⚫️ Community Care - this work is being done by Devin working with the CIE team
-   * [VPG-332 CC: Use cached provider_id, appointment_type_id, and end_date for creating](https://issues.mobilehealth.va.gov/browse/VPG-332) 
+   * [CES-1579 Set total on returned bundles](https://issues.mobilehealth.va.gov/browse/CES-1579)
+   * [VPG-338 Filter inactive Providers out of relationship results](https://issues.mobilehealth.va.gov/browse/VPG-338)
+   * [CES-1586 Remove system requirement for clinic slot searches](https://issues.mobilehealth.va.gov/browse/CES-1586)
+   * [CES-1585 Require JWT to be provided](https://issues.mobilehealth.va.gov/browse/CES-1585)
 * 🟣 Testing/Admin/Operational Support
    * 🚧 [CES-1509 CES: SQA: Continued CES testing](https://issues.mobilehealth.va.gov/browse/CES-1509)
-   * [VPG-331 Update unit test logic to not depend on time of day](https://issues.mobilehealth.va.gov/browse/VPG-331)
+   * [VPG-339 Address MviClient technical debt](https://issues.mobilehealth.va.gov/browse/VPG-339)
+   * [CES-1578 Migrate to kustomized mobile-oauth and h2](https://issues.mobilehealth.va.gov/browse/CES-1578)
+   * [CES-1597 Expose $appointment-types operation](https://issues.mobilehealth.va.gov/browse/CES-1597)
 
 
 ## ✈️ Planned Releases
