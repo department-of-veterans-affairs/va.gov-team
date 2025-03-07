@@ -5,7 +5,7 @@ Feature Toggle/flag:
 
 This feature toggle is setup for authenticated users and we can also enable early access in Production to individual users, via email address.
 
-#### Go/No Go meeting March 6, 2025
+#### Go/No Go meeting TBD
 - [ ] Test the 2.0 flow in Production
 - [ ] Review the release plan
 - [ ] Determine a verdict
@@ -29,7 +29,7 @@ The following will take place right before Staged Rollout:
 - [ ] Enable Appoint v2 email notifications in VA Notify Production [#101050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101050)
 - [x] Email notification for POA acceptance is ready in Production (Confirm with Lighthouse)
 
-#### Rollout date: March 11, 2025 @ 1pm ET
+#### Rollout date: March 18, 2025 @ 1pm ET
 1. Stage A: 100% of users on March 11 (Tuesday) + implement Datadog monitoring in Production [#99975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99975)
 
 ***
