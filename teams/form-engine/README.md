@@ -28,11 +28,34 @@ We see the Digital Form Builder as a catalyst for change, streamlining form crea
   
 - **Faster Processing Times** - Reduction in time from submission to benefit processing.
  
-## Milestones Completed from June 2024 - March 2025
+## Milestones Completed as of March 2025
 
-
+- **Technical Proof of Concept**
+   - Integrated single-app form-renderer code from initial spike
+      - Added KISS Configuration for digital forms
+      - Normalized content-build output
+      - Added "Steps" to Digital Form Content Type
+- **Recreated Form 21-4140 (Employment History Questionnaire**
+- **Submitted VA Form 21-4140 to Benefits API**
+- **Ability to view Employment History Questionnaire on Staging**
+- **Collaboration Cycle preparation and participation:**
+   - Architecture Intent Review
+   - CMS Platform Team Review
+   - Midpoint Review Process
+   - Staging Review (upcoming)
+ - **Form Builder Role and Permissioning in Drupal**
+ - **Completed Designs for customization of single response questions**
 
 ## DSVA Slack Channel
 
 Please reach out to us at our DSVA Slack channel: `#tmf-form-builder`
  
+## Key Stakeholders
+- Matthew Dingee, VA Product Owner, VA, matthew.dingee@va.gov
+- Kara Kemahli, Product Manager, Ad Hoc, kara@adhocteam.us
+- Stephen Smythe, Delivery Manager, Agile 6, stephen.smythe@agile6.com
+- Ryan Koch, Engineer, Agile 6, ryan.koch@agile6.com
+- Ryan Koch, Engineer, Agile 6, ryan.koch@agile6.com
+- Derek Houck, Engineer, Agile 6, derek.houck@agile6.com
+- Brian Wilke, UX/Design, copilot, brian.wilke@copilot.llc
+- Nicole Rodriguez, UX/Design, Ad Hoc, nicole.rodriguez@adhocteam.us
