@@ -80,7 +80,7 @@ Even though your feature has been tested and ready, production is still a differ
 
 **Results**
 
-•	Number of users: [FILL_IN]
+•	Number of users: 5
 
 •	Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
 
@@ -120,17 +120,17 @@ Test a small Veteran population to ensure any obvious bugs/edge cases are found.
 
  **Planning**
 
-•	Length of time: 2 hours (minimum 2 hours)
+•	Length of time: **2 hours** (minimum 2 hours)
 
-•	Percentage of Users (and roughly how many users do you expect this to be): 5% (Recommendation: select a percentage that targets ~500 users, or at most 10%)
+•	Percentage of Users (and roughly how many users do you expect this to be): **5%** (Recommendation: select a percentage that targets ~500 users, or at most 10%)
 
 **Results**
 
-•	Number of unique users: [FILL_IN]
+•	Number of unique users: **5% of users will be exposed to new feature** 
 
-•	Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the Rollout Planning section
+•	Metrics at this stage (per your "success criteria"): **the errors stay below < 5%**
 
-•	Was any downstream service affected by the change?: [PICK_ONE]: yes | no | N/A
+•	Was any downstream service affected by the change?: [PICK_ONE]: **no** 
 
 •	Types of errors logged: [FILL_IN]
 
@@ -141,17 +141,17 @@ Test a small Veteran population to ensure any obvious bugs/edge cases are found.
 Test a larger user population to ensure larger usage patterns expose no issues.
 Planning
 
-•	Length of time: 2 hours (minimum 2 hours)
+•	Length of time: **2 hours** (minimum 2 hours)
 
-•	Percentage of Users (and roughly how many users do you expect this to be): 25%
+•	Percentage of Users (and roughly how many users do you expect this to be): **25%**
 
 **Results**
 
-•	Number of unique users: [FILL_IN]
+•	Number of unique users: **25% of users will be exposed to the new features** 
 
-•	Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the Rollout Planning section
+•	Metrics at this stage (per your "success criteria"): **errors stay < 5%**
 
-•	Was any downstream service affected by the change?: [PICK_ONE]: yes | no | N/A
+•	Was any downstream service affected by the change?: [PICK_ONE]: **no**
 
 •	Types of errors logged: [FILL_IN]
 
@@ -163,17 +163,17 @@ Test a larger user population to ensure larger usage patterns expose no issues.
 
 **Planning**
 
-•	Length of time: 2 hours (minimum 2 hours)
+•	Length of time: **2 hours** (minimum 2 hours)
 
-•	Percentage of Users (and roughly how many users do you expect this to be): 50%
+•	Percentage of Users (and roughly how many users do you expect this to be): **50%**
 
 **Results**
 
-•	Number of unique users: [FILL_IN]
+•	Number of unique users: **50% of users are exposed to the new features** 
 
-•	Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the Rollout Planning section
+•	Metrics at this stage (per your "success criteria"): **errors stay < %5**
 
-•	Was any downstream service affected by the change?: [PICK_ONE]: yes | no | N/A
+•	Was any downstream service affected by the change?: [PICK_ONE]: **no**
 
 •	Types of errors logged: [FILL_IN]
 
@@ -185,17 +185,17 @@ Test a larger user population to ensure larger usage patterns expose no issues.
 
 **Planning**
 
-•	Length of time: 2 hours (minimum 2 hours)
+•	Length of time: **2 hours** (minimum 2 hours)
 
-•	Percentage of Users (and roughly how many users do you expect this to be): 100%
+•	Percentage of Users (and roughly how many users do you expect this to be): **100%**
 
 **Results**
 
-•	Number of unique users: [FILL_IN]
+•	Number of unique users: **100% of users are exposed to the new features** 
 
-•	Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the Rollout Planning section
+•	Metrics at this stage (per your "success criteria"): **errors stay < 5%**
 
-•	Was any downstream service affected by the change?: [PICK_ONE]: yes | no | N/A
+•	Was any downstream service affected by the change?: **no**
 
 •	Types of errors logged: [FILL_IN]
 
