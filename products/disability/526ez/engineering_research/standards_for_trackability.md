@@ -9,18 +9,19 @@ When a user first logs into the application, a veritable swarm of identifiers as
 Any number of these IDs (especially ICN, for some reason) have come under scrutiny for tracking purposes at various times, for fear of exposing PII or secrets about a particular user to the public or other external systems (such as DataDog). What has "risen to the surface" as the "safest" to use is called the `user_uuid`. The **user_uuid** is essentially the id of a user's provider id- the provider with which they logged in. For example if they logged in with the ID.me service, the `user_uuid` value is that of their `idme_uuid`. 
 
 This user_uuid is effectively a "universal id" within the vets-api and vets-website world, as it is:
-- included in every request made from the website
+- logged with every login request made to the website
 - saved to various important database records, such as the `InProgressForm` table (which stores info about the user's application state), and the `Form526Submission` table (which stores the user's final submission data)
 
-### Front End Tracking
+### Front End Tracking/Tracing
 
-Since the `user_uuid` is sent with every request, and every request is logged within DataDog, it is possible to observe a fairly complete picture of which pages a particular user has visited, and whether or not they have submitted the application.
+Since the `user_uuid` is logged with every login request, it is possible to observe a fairly complete picture of which pages a particular user has visited, whether or not they have submitted the application, by:
+1. Searching in [DataDog Log Explorer](https://vagov.ddog-gov.com/logs?query=&cols=host%2Cservice&fromUser=true&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1741307468619&to_ts=1741308368619&live=true) for "Logged in user with id [`user_uuid`]"
+2. Grabbing the IP address from the entry and
+3. Searching again in Log Explorer by that IP address
 
-TODO: show examples of using a user_uuid with DataDog to get the above
+Another way that user progress within the 526ez application is tracked is via Google Analytics. However, our resident expert in this left before we could offload this knowledge from them ☹️
 
-Another way that user progress within the 526ez application is tracked is via Google Analytics. TODO: fill in info about this
-
-## ...To The Back End
+## Back End Tracking/Tracing
 
 The above capabilities can be helpful in troubleshooting issues and/or tracking page visits in the front end, but what about gather information about what happens _after_ the user has submitted the application? A user's submitted application moves through a vast array of processes, database operations, external API calls, and email outputs on its way to its ultimate destination (VBMS). Not surprisingly, logging a user's `user_uuid` becomes an important factor in tracking (or tracing) the progress of a user's 526ez application through the backend- not to mention allowing for generalized statistics on certain functions.
 
@@ -60,3 +61,8 @@ When we go to the query view, we can see that our graph employs our log entry of
 
 ![image](https://github.com/user-attachments/assets/e515e4b7-557f-4ecf-b4b2-eb617058623a)
 
+When clicking on a point on the graph and choosing **View related logs**, you can find the full output of our log message. The below example is from a lower environment (NOT Production)
+
+![image](https://github.com/user-attachments/assets/51da2904-e386-427e-8f75-98680fbad607)
+
+Happy tracking, and happy tracing to you! Good luck!
