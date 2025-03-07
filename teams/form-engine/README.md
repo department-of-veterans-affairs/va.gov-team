@@ -18,7 +18,7 @@ We see the Digital Form Builder as a catalyst for change, streamlining form crea
 - **Accelerates Form Processing** – Digital-first workflows and automation will reduce manual tasks, enabling quicker submission and processing of benefits applications.
    - Developing a matching PDF for Form 21-4140 revealed significant infrastructure limitations, particularly the reliance on manual processes in the current form submission workflow. We provided the VA with key insights to guide future modernization efforts, emphasizing the need to automate the submission process.
 
-## Success Metrics
+## Success Criteria
 
 - **Faster Form Completion** - Reduction in time spent filling out forms.
 
