@@ -102,17 +102,17 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 •	**Targeting 7am – 1pm ET**
 
-•	How will you make the product available in production while limiting the number of users who can find/access it: The feature toggle has the ability to control the amount of people by enabling the % of actors during the production rollout. 
+•	How will you make the product available in production while limiting the number of users who can find/access it: 
 
-•	What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: [use your KPIs to help guide this. It could be things like abandonment rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
+**The feature toggle has the ability to control the amount of people by enabling the % of actors during the production rollout.**
+
+•	What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
 
 o	**Error rate < 5%**
 
-•	Links to the dashboard(s) showing "success criteria" metrics: Datadog https://vagov.ddog-gov.com/dashboard
+•	Links to the dashboard(s) showing "success criteria" metrics: **Datadog https://vagov.ddog-gov.com/dashboard**
 
 •	Who is monitoring the dashboard(s)?: **Vanson Samuel will be monitoring**
-
-The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.
 
 ## **Stage A: Canary**
 
