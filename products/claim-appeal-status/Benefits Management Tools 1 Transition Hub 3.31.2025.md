@@ -91,20 +91,22 @@
 ## Roadmap
 
 
-**Now**
-- Improve UX of Household information section
+**Now** (Current Quarter beginning April 1 2025)
+- Introduce event-based architecture and decision letter notifications
+- CST: Complete VBMS_Connect migration to new LH claim documents service
+- CST: Document status feature
+- CST: Complete initial load time performance improvement discovery
 
-**Next**
-- Update address design to align with design system and add option for Veterans abroad address and homeless consideration
-- Redesign screener at application start for unauthenticated users
+**Next** (Quarter beginning July 1 2025)
+- Introduce gradual performance improvements to CST that reduce latency and load times
+- Complete discovery into introducing additional claim events via event-based architecture (Event Bus)
+- Complete discovery into C&P exam improvement opportunities
+- CST: Improve file history experience
 
-**Future**
-- Short form for combat status Veterans
-- Evaluate if some questions can be removed for all applicants 
-- Facility selection redesign
-- Improve Military history section
-- Notifications: Confirmation Email/text (Intake Request sent to HEC to get on roadmap)
-- Multilingual 
+**Future** (Quarter beginning October 2025)
+- CST: Expand claim letter sorting functionality
+- CST: Introduce C&P exam experience improvements
+- 5103 silent failure polling solution
 
 
 <br>
