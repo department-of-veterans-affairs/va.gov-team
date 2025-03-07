@@ -50,5 +50,31 @@ All e2e tests now test interactions of all potential flipper and on/off states
 </details>
 
 
+## Unit Test coverage 
+
+**Segmented Button group/Control Component internal functioning is tested by DST as a DST component**
+
+**Segmented Button Group/Control Component actions are tested by E2E above**
+
+**Mobile Map Pin** 
+
+- Search Result
+
+<img width="861" alt="Screenshot 2025-03-07 at 12 52 47 PM" src="https://github.com/user-attachments/assets/a46a3086-d5da-4fa9-bb98-f99f9bb67218" />
 
 
+**Mobile Map Result below map**
+
+- Result Mapper decides what data to show (updated/separated into a component and tested with Mobile Map)
+
+<img width="1718" alt="Screenshot 2025-03-07 at 2 41 27 PM" src="https://github.com/user-attachments/assets/6e927b5c-6b27-4be5-b9e8-06f41454cbac" />
+
+
+
+## Endpoint Monitoring
+
+All Endpoints (`/facilities_api/v2/va/**` and `/facilities_api/v2/ccp`) are monitored. Mapbox endpoints are not monitored because they are external to VA systems. We make synthetic queries in Datatdog to them, but we cannot assess their logs.
+
+## Silent failures
+
+Currently we do not have silent failures after a silent failures audit.
