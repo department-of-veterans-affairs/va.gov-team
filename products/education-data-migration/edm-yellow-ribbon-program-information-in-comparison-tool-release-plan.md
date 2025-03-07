@@ -132,14 +132,15 @@ Test a small Veteran population to ensure any obvious bugs/edge cases are found.
 
 •	Was any downstream service affected by the change?: **no** 
 
-•	Types of errors logged: [FILL_IN]
+•	Types of errors logged: **All traffic is logged by Vets-website into Datadog. We will be looking for http status codes with errors (4XX)**
 
-•	What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+•	What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? **If challenges are encountered, we would try to make the necessary code changes or rollback.**
 
 ## **Stage B: 25% of users**
 
 Test a larger user population to ensure larger usage patterns expose no issues.
-Planning
+
+**Planning**
 
 •	Length of time: **2 hours** (minimum 2 hours)
 
@@ -153,9 +154,9 @@ Planning
 
 •	Was any downstream service affected by the change?: **no**
 
-•	Types of errors logged: [FILL_IN]
+•	Types of errors logged: **All traffic is logged by Vets-website into Datadog. We will be looking for http status codes with errors (4XX)**
 
-•	What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+•	What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? **If challenges are encountered, we would try to make the necessary code changes or rollback.**
 
 ## **Stage C: 50% of users**
 
@@ -175,9 +176,9 @@ Test a larger user population to ensure larger usage patterns expose no issues.
 
 •	Was any downstream service affected by the change?:  **no**
 
-•	Types of errors logged: [FILL_IN]
+•	Types of errors logged: **All traffic is logged by Vets-website into Datadog. We will be looking for http status codes with errors (4XX)**
 
-•	What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+•	What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? **If challenges are encountered, we would try to make the necessary code changes or rollback.**
 
 ## **Stage D: 100% of users**
 
@@ -197,9 +198,9 @@ Test a larger user population to ensure larger usage patterns expose no issues.
 
 •	Was any downstream service affected by the change?: **no**
 
-•	Types of errors logged: [FILL_IN]
+•	Types of errors logged: **All traffic is logged by Vets-website into Datadog. We will be looking for http status codes with errors (4XX)**
 
-•	What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+•	What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? **If challenges are encountered, we would try to make the necessary code changes or rollback.**
 
  ## **Post Launch metrics**
  
