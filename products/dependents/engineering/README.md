@@ -13,3 +13,7 @@
 ## Code Repository
 - [Vets-API](https://github.com/department-of-veterans-affairs/vets-api)
 - [Vets-Website](https://github.com/department-of-veterans-affairs/vets-website)
+
+## Playbooks
+- [Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/engineering/686-674_Monitoring_Playbook.md)
+- [Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/engineering/686-674_Playbook_Security.md)
