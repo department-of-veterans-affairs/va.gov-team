@@ -5,6 +5,14 @@ labels: ["508/Accessibility, ADE, ADE Research"]
 assignees: sara-amanda,lakper,cindymerrill,artsymartha68
 body:
 
+#> [!NOTE] 
+#> - **High-Level Overview**: `Team Name`
+#> - ** Services being utilized: (pilot, tech support, research planning)
+#> - **Assistive Tech Users** for tech support: `TBD #` AT Users for studies (# recruited or “estimated” next to a number)
+#> - **Artifacts Available**: `TBD` if waiting to receive from team
+#> - **Testing Environment:** `TBD` if waiting to receive from team
+#> - **Assistive Tech Being Used**: (screen readers, screen magnifiers, text to speech)
+
 - type: markdown
   attributes:
     value: "## About your team"
@@ -96,6 +104,7 @@ body:
   attributes:
     label: What kind of prototypes (if any) are you planning?
     options:
+      - label: GitHub Codespace 
       - label: CodePen
       - label: Staging
       - label: Other
