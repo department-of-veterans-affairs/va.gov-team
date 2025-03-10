@@ -61,7 +61,7 @@ On June 2024, the [Secondary Navigation](https://github.com/department-of-vetera
 
 *Milestones are subject to change* 
 
-**Milestone 1 (3/17/25) 
+**Milestone 1 (3/17/25)**
 
 - Appointments no longer available on MHV. MHV Classic link redirects to appointments on VA.gov.
 - All health care links on VA.gov (facility pages, tools pages, My VA, etc.) will direct to the portal
@@ -77,6 +77,11 @@ For more information regarding **Milestone 2**, **the Oracle Health integration 
 
 ## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
 
+- [Monitoring, Reporting, and Feedback](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=QGJNSi&CID=5667b80d%2D4ee2%2D46b6%2Da293%2Df55fbab8b5e1&FolderCTID=0x012000E6CB91B251F8F14F832E520FAF90885D&id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FGeneral%2FMonitoring%2C%20Reporting%2C%20and%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac)
+    - Includes
+    - [Medallia feedback](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Monitoring,%20Reporting,%20and%20Feedback/Medallia%20feedback?csf=1&web=1&e=h9cZ0u)
+    - [Product metrics and feedback reports](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Monitoring,%20Reporting,%20and%20Feedback/Monthly%20Product%20Metrics%20%26%20Feedback%20Reports?csf=1&web=1&e=qmWxPb)
+    -  [Monthly transition evaluation reports](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Monitoring,%20Reporting,%20and%20Feedback/Monthly%20Transition%20Evaluation%20reports?csf=1&web=1&e=1Ekyyg)
 
 ## <a name="design"></a>Design and research resources<be>
 
