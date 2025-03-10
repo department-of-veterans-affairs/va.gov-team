@@ -44,6 +44,10 @@
     - Functions = 56.52%
     - Statements = 67.05%
     - Branches = 71.87%
+ 
+- 3/10 UPDATE | We now have 80% coverage for each:
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd8GXkjtgFVu7Xkocohx5uyaNKBuW90Nxbg1RPCpvT22N_eOv6o92rXFCzsIdxVBQ0CVmVjmXl-OYTLxBZgCjP3nJhLLhFO2_QO_1nIw2ya75-IWxjDVm3sDBrghd09M2-XNQei0A?key=MlalvZwP57rXsVu6VobtPZXs)
+
 
 ### Endpoint Monitoring
 - We are currently in the middle of setting these up. Besides the required monitors we will have additional monitors and alerts for: 1) backend nightly job failures 2) PDF/TXT download failures.
