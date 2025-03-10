@@ -82,13 +82,12 @@ Some VA.gov users have outdated or incorrect contact email addresses, leading to
 
 ## Launch Planning
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
 
 - Kickoff ticket
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-
+TK
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
@@ -98,6 +97,12 @@ Some VA.gov users have outdated or incorrect contact email addresses, leading to
   - tbd
 
 ---
+
+## Important Artifacts
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104525)
+  - [Experience Crew Product/Project Tracking Ticket](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/1252)   
+- [Mural for ideation](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1741604960245/d32c6003ed9134cebe4c30284a1e349177e035f7)
+  
    
 ## Screenshots
 
