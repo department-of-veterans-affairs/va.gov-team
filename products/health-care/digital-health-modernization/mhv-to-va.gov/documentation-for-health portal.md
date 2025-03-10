@@ -143,4 +143,4 @@ You can learn more about getting started with research at VA here: [Research at 
 
 - [My HealtheVet on VA.gov - API logic diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717177396025/367057c4a9219404c3b7080e71210082b3c65771?sender=u24af215c7d9bf806b8545488) 
 
-[For more documentation and resources for developers go here] (https://design.va.gov/about/developers/) 
+[For more documentation and resources for developers, go here](https://design.va.gov/about/developers/) 
