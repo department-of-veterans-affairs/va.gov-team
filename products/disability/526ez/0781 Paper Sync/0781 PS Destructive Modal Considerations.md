@@ -87,3 +87,7 @@ Pros:
 
 Cons:
 - Seems clunky
+
+## Contractor Recommendation
+### Recommendation
+### Reasoning
