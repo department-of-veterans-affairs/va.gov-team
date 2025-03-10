@@ -21,7 +21,7 @@ Pending
 We have to support destructive actions in our new 0781 flow. This includes, allowing a user to opt-out of the flow entirely, or to decide against answering specific sub-componetns of the form flow. 
 It is possible, the user could have already answered some of these questions, and then navigated back, to the area that asked if they wanted to answer the questions or not. If they change their answer after answering some of the questions, we have to delete that data, and make sure it does not make its way onto the form(s)/submission(s).
 
-This is a destructive action, that the user is initiating. VA guidance (find link, insert here) is that we should alert the user and make them confirm, before doing a destructive action. 
+This is a destructive action that the user is initiating. VA guidance instructs to [prompt to confirm](https://design.va.gov/components/alert/#additional-reasons-to-consider-something-else:~:text=Destructive%20actions.%20If%20an%20action%20will%20result%20in%20destroying%20a%20user%E2%80%99s%20work%20(for%20example%2C%20deleting%20an%20application)%20use%20a%20more%20intrusive%20pattern%2C%20such%20as%20a%20confirmation%20modal%20dialogue%2C%20to%20allow%20the%20user%20to%20confirm%20that%20this%20is%20what%20they%20want.) before performing the destructive action. 
 
 We are trying to decide, how to best accomplish that.
 
@@ -34,59 +34,63 @@ TBD
 ### Options Considered
 Here are the various options, with the pros and cons of each listed.
 
-#### Option 1 - UX modal using forms library to do so.
+## Option 1a - [Confirm through modal prompt](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88727&t=mG6EsOEiWXdijIen-11) through native form library pages & components
 Description: This uses a modal to prompt the user to confirm if they want to opt-out of, or remove answers they already provided, using the forms library pages and components.
 
-Pros:
-- Sticks to original planned design
-- Pages are already built
-- Forms library is the default thing to use
-- Some technical research has already been conducted for this
+**Design Considerations**
+- (+) Follows common patterns found in other platforms and digital experiences
+- (+) Conforms to platform guidence surrounding how to handle destructive actions
+- (+) Allows users to change their responses at review and submit through experience native to the forms library (modal appears in the prompt item in review)
 
-Cons:
-- Requires refactoring/building around "hacking" the forms library, in an new/unconventional way
-- Not been done before
-- Design potentially doesn't like modals
+**Technical Considerations**
+- (+) Pages are already built
+- (+) Forms library is the default thing to use
+- (+) Some technical research has already been conducted for this
+- (-) Requires refactoring/building around "hacking" the forms library — may be difficult to maintain
+- (-) Not been done before
 
 
-
-#### Option 2 - UX modal using custom page
+## Option 1b - [Confirm through modal prompt](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88727&t=mG6EsOEiWXdijIen-11) using custom page
 Description: This uses a modal to prompt the user to confirm if they want to opt-out of, or remove answers they already provided, using the forms library components, on a custom/from-scratch page.
 
-Pros:
-- Sticks to original planned design
-- This is how modals are done elsewhere
-- More flexibilty/less "hacking"
-- Less unknowns
-- Could be made to be more reusable than a hacked forms-library-only solution (could be scope-creep in doing so though)
+**Design Considerations**
+- See above.
 
-Cons:
-- Need to make page from scratch (not a huge lift, just additional effort)
-- Design potentially doesn't like modals
-- Not using the forms library stuff is probably discouraged somewhat or not prefered from forms library team (but tons of pages with VA modal are custom pages, so not a huge con)
+**Technical Considerations**
+- (+) More flexibilty/less "hacking"
+- (+) Less unknowns
+- (+) Could be made to be more reusable than a hacked forms-library-only solution (could be scope-creep in doing so though)
+- (-) Need to make page from scratch (not a huge lift, just additional effort)
+- (-) Would not benefit from built-in accessibility functionality
+- (-) Sunk cost of existing efforts funneled into option 1a
+- (-) Not using the forms library pages / components is discouraged (but tons of pages with VA modals are custom pages)
 
 
-#### Options 3 - New page 
+## Options 2 - [Confirm through on page alert](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88728&t=mG6EsOEiWXdijIen-11)
+Description: Allows for the user to confirm their intent to proceed and delete content through an on-page warning alert.
+
+**Design Considerations**
+- (-) Does not follow common patterns found in other patterns and digital experiences
+- (-) Controls living within the alert may cause confusion with page options and controls in the rest of the form page the alert shows up in
+- (+) Allows for users to change their responses at review and submit in a way that feels compatible with the existing review and revise experience.
+
+**Technical Considerations**
+- (-) Requires additional technical discovery
+- (-) May run into similar limitations as as using native modal prompts
+
+
+## Options 3 - [Confirm in separate injected page](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88729&t=8tz10BpOG3VvI7UE-11)
 Description: This uses a new page, proceeding the choice to discard data, to prompt the user to confirm if they want to opt-out of, or remove answers they already provided, using the forms library pages and components, on a new page, instead of a modal.
 
-Pros:
-- Appears easiest/quickest from engineering standpoint
-- uses 100% forms library known conventions
-- Is not a modal
+**Design Considerations**
+- Does not follow common patterns found in other patterns and digital experiences
+- Experience feels disruptive and tacked-on
+- Introduces complexity with changing responses on the review page, requiring the injection of an additional item for review that requires “editing” to confirm the action (the injected page)
 
-Cons:
-- Potentially unknown UX experience
-- (Ruben are there any to add here??)
+**Technical Considerations**
+- (+) Appears easiest/quickest from engineering standpoint
+- (+) Uses 100% forms library known conventions
 
-
-#### Options 4 - On page alert (Ruben, any additions????)
-Description: 
-
-Pros:
-- Is not a modal
-
-Cons:
-- Seems clunky
 
 ## Contractor Recommendation
 ### Recommendation
