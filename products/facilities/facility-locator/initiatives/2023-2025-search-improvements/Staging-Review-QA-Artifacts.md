@@ -15,8 +15,8 @@
   - [x] [accessibility and functional testing 2/13/2025](https://github.com/department-of-veterans-affairs/vets-website/pull/34362#issuecomment-2658335577)
 
 ## Traceability reports
-(when a regression appears know why and where and what change caused it)
 
+If changes don't pass automated regression tests (as in cypress e2e tests or unit tests) we catch those immediately. For manual test-plan runs, we facilitate them on a per PR/feature basis so we know what changes cause failure.
 
 ## E2E tests (per feature)
 
