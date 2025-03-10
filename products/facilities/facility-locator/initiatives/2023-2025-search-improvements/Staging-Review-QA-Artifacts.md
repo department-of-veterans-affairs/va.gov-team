@@ -1,5 +1,24 @@
 # Staging Review QA Artifacts for Mobile Maps Collab Cycle
 
+## Overview of app and QA risks
+
+The adjustments to the mobile map can be broken up into two types: 1) additions (pin selection, selected result below the map, and TTY number), 2) change (move from tabs to segmented control)
+
+### Additions risk and complexity: 
+
+**Pin Selection / selected result display below the map**
+Complexity: this feauture has the highest complexity of the changes since it deals with mapbox map behavior and changes to interactions. Since clicking on the map pins before did not work, the change requires that a few pieces of code were reorganized. The reorganization improved compartmentalization of pieces and testsability. E2E testing was significantly improved and increased for mobile map features as a result. The feature of reusing result items for the item appearing below the map means that no QA concerns were added. The testing of the ResultMapper that was contained into a separate function was significantly improved over the current state. No new API interactions occur.
+
+Risk: The risk is minimal since it doesn't change the structure of the application, and simplifies testing and organization.
+
+**TTY**
+Complexity is very low and risk is equally very low. This is just adding a va-telephone component
+
+### Changes risk and complexity
+
+**Tabs -> Segmented Control**
+Complexity and Risk: Moderate complexity, though it no longer relies on external dependencies to construct the tabs so we reduce risk that way. Risk of the changes are minimized because of restructuring that happened elsewhere with compartmentalization of the map rendering. So the risk of anything changing for QA and accessibility and funcitonality is very low.
+
 ## Test plans (by feature)
 
 - [x] [add TTY to search results](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18480)
