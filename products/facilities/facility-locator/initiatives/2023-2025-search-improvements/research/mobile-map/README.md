@@ -1,3 +1,5 @@
 # Facility Locator: Mobile map research
 
-[Add details here]
+This folder contains research documents relating to the Q1+Q2 2025 research into the updated mobile map on VA.gov.
+
+This research is currently on hold until April 2025.
