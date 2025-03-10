@@ -62,7 +62,7 @@ We will recruit **100 MHV users** through our recruitment partners, Perigean, ba
 - Wednesday, March 12, 9:00 AM - 3:00 PM (PST)
 
 ### **Recruitment Approach**  
-We are partnering with Perigean to recruit 100 Veterans for this tree test study, aiming to launch by **March 17, 2025**. The study will include Veterans, divided into two groups: those who have an active My HealtheVet (MHV) account and have accessed it at least once within the past year, and those who have **not** have a My HealtheVet (MHV) account. This approach ensures a balanced representation of user experiences to inform the optimal placement of these features within VA.gov. Additionally, we will gather participant data on accessing account activity history and using health data-sharing tools through post-test questions rather than as recruitment screening criteria.
+We are partnering with Perigean to recruit 100 Veterans for this tree test study, aiming to launch by **March 17, 2025**. The study will include Veterans, divided into two groups: Veterans who have an active My HealtheVet (MHV) account and have accessed it at least once within the past year, and Veterans who do not have a My HealtheVet (MHV) account. This approach ensures a balanced representation of user experiences to inform the optimal placement of these features within VA.gov. Additionally, we will gather participant data on accessing account activity history and using health data-sharing tools through post-test questions rather than as recruitment screening criteria.
 
 ### **Recruitment Criteria**  
 **How many participants do you want in your study?**
