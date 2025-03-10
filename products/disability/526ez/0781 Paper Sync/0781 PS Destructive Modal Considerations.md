@@ -83,9 +83,9 @@ Description: Allows for the user to confirm their intent to proceed and delete c
 Description: This uses a new page, proceeding the choice to discard data, to prompt the user to confirm if they want to opt-out of, or remove answers they already provided, using the forms library pages and components, on a new page, instead of a modal.
 
 **Design Considerations**
-- Does not follow common patterns found in other patterns and digital experiences
-- Experience feels disruptive and tacked-on
-- Introduces complexity with changing responses on the review page, requiring the injection of an additional item for review that requires “editing” to confirm the action (the injected page)
+- (-) Does not follow common patterns found in other patterns and digital experiences
+- (-) Experience feels disruptive and tacked-on
+- (-) Introduces complexity with changing responses on the review page, requiring the injection of an additional item for review that requires “editing” to confirm the action (the injected page)
 
 **Technical Considerations**
 - (+) Appears easiest/quickest from engineering standpoint
