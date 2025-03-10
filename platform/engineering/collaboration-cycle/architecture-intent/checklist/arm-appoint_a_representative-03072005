@@ -43,7 +43,7 @@ Some of the items below may not apply to your work--that's okay. You may not be 
     - [x] New table: `accredited_individuals`
     - [x] New table: `accredited_organizations`
     - [x] New table: `accreditations`
-  - [ ] Describe indexes and constraints
+  - [x] Describe indexes and constraints
     - [x] Indexes and constraints for `accredited_individuals`
       - `t.index ["full_name"], name: "index_accredited_individuals_on_full_name"`
       - `t.index ["location"], name: "index_accredited_individuals_on_location", using: :gist`
@@ -56,7 +56,58 @@ Some of the items below may not apply to your work--that's okay. You may not be 
     - [x] Indexes and constraints for `accreditations`
       - `t.index ["accredited_individual_id", "accredited_organization_id"], name: "index_accreditations_on_indi_and_org_ids", unique: true`
       - `t.index ["accredited_organization_id"], name: "index_accreditations_on_accredited_organization_id"`
-  - [ ] Identify PII and PHI and where and how it will be stored, processed, expired and deleted
+  - [x] Identify PII and PHI and where and how it will be stored, processed, expired and deleted
+    - The following PII is publically available and is served up in our Find A Representative search engine.
+    - If the data expires it will be soft-deleted by changing a record's `is_active` value from `true` to `false`
+    - None of the data will be deleted.
+      - [x] PII and PHI in `accredited_individuals`
+        - "first_name"
+        - "middle_initial"
+        - "last_name"
+        - "full_name"
+        - "email"
+        - "phone"
+        - "address_type"
+        - "address_line1"
+        - "address_line2"
+        - "address_line3"
+        - "city"
+        - "country_code_iso3"
+        - "country_name"
+        - "county_name"
+        - "county_code"
+        - "international_postal_code"
+        - "province"
+        - "state_code"
+        - "zip_code"
+        - "zip_suffix"
+        - "raw_address"
+        - "lat"
+        - "long"
+        - "location"
+      - [x] PII and PHI in `accredited_organizations`
+        - "name"
+        - "phone"
+        - "address_type"
+        - "address_line1"
+        - "address_line2"
+        - "address_line3"
+        - "city"
+        - "country_code_iso3"
+        - "country_name"
+        - "county_name"
+        - "county_code"
+        - "international_postal_code"
+        - "province"
+        - "state_code"
+        - "zip_code"
+        - "zip_suffix"
+        - "raw_address"
+        - "lat"
+        - "long"
+        - "location"
+      - [x] PII and PHI in `accreditations`
+        - NA
 - Libraries and dependencies
   - [x] List new or updated dependencies. None.
 - Metrics, logging, observability, alerting
