@@ -1,6 +1,6 @@
-name: Codeowner access request for [NAME]
+name: Codeowner access request
 description: Request required PR review exemption. 
-title: "Codeowner access request for [NAME HERE]: "
+title: "Codeowner access request for [NAME]"
 labels: ["platform-tech-team-support", "T1-access-request"]
 body:
   - type: input
