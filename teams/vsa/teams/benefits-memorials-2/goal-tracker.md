@@ -89,14 +89,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 4 [3/12/25-3/25/25]
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-| UX: Analyze VHA Payment History stakeholder and SME feedback survey and share with Government PO
-| UX: Improve FSR questions comprehension by providing improvements, based on Veteran feedback (mockups only to share with SMEs)
-| UX: Medallia, CSAT, and KPI discovery and alignment (part 2)
-| UX: Create final retrospective report for Custom Survey Medallia feedback
-| UX: | QPX |--|--|--|
-| UX: | QPX |--|--|--|
-| UX: | QPX |--|--|--|
-| ENG: | QPX |--t |--|--|
+| UX: Analyze VHA Payment History stakeholder and SME feedback survey and share with Government PO |QP3|--|--|
+| UX: Medallia, CSAT, and KPI discovery and alignment (part 2)|QP4|--|--|
+| UX: Create final retrospective report for Custom Survey Medallia feedback|QP4|--|--|
+| UX: Improve FSR questions comprehension by providing improvements, based on Veteran feedback (mockups only to share with SMEs)|N/A|--|--|
 | ENG: | N/A |Complete the Debt Resolve Page updates in staging and PR submitted |--|--|
 | ENG: | N/A |Research and resolve all bugs that were moved into or discovered in the sprint |--|--|
 
