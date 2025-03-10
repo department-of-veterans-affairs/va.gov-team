@@ -1,6 +1,4 @@
-
-# Initiative Brief - Contact Email Verification 
-
+# Initiative Brief Template
 #### Overview
 
 <details>
@@ -26,31 +24,28 @@
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+The objective of this initiative is to improve the accuracy and completeness of contact information within VA.gov user profiles by building a contact email verification process. The goal is to ensure that VA Profile/VA Notify/VA.gov Profile are able to support sending timely and critical communications from the VA to verified email addresses, leading to improved engagement and reduced errors in delivery.
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+Some VA.gov users have outdated or incorrect contact email addresses, leading to missed communications regarding benefits, healthcare, and other services. This issue affects veterans who rely on VA services, as well as VA staff who depend on accurate contact information for outreach.
 
-<!--
-## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+### Key Challenges:
 
-## Undesired User Outcomes
-## Desired Business Outcomes
+- The current profile setup does not require email confirmation.
+- Inaccurate or outdated emails contribute to missed notifications and delays in service completion
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+### Root Causes:
+- Lack of mandatory email confirmation during profile setup.
+- Users not being aware of the importance of maintaining updated contact details.
+- Insufficient prompts and frictionless workflows encouraging updates. (IIR launched a product focused on new users onboarding to the VA. This will need to form part and parcel of that process and is something of an extension of what they launched)
 
-## Undesired Business Outcomes
--->
+## Alignment with OCTO-DE Goals:
+- Enhances user engagement and trust by ensuring seamless communication.
+- Supports VA’s mission of providing timely and accurate information to veterans.
+- Strengthens VA.gov’s data integrity and service effectiveness.
 
 ---
 ## Measuring Success
