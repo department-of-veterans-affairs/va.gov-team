@@ -1,5 +1,17 @@
 # Running Design and Research Agenda
 
+## March 10 2025
+ - Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Rachel Pope, Renata Keck, Andrea Merril
+     - ### Agenda Topics
+     	- UX roadmap
+     	- Review the UX roadmap
+      - Ongoing discussion: OHI interim solutions (update IA + static/intro pages?)
+      - Rescheduling design sync
+      - discuss options for direct deposit content in FMP
+      - Identify any topics for stakeholder meeting with FMP team on Wednesday (this can be done async if we don't have time)
+
+
+
 ## February 24 2025
  - Attendees: Jamie Fiore, Lois Lewis, Jina Ryu, Rachel Pope, Luis Simauchi
      - ### Agenda Topics
