@@ -17,10 +17,6 @@ This document serves as a resource for future work, ensuring that our team and f
 * [Engineering resources](#engineering) 
 
 
-Relevant Murals, including API logic for the health portal
-
-Links to Figma files, test users, and previous research
-
 ## <a name="background"></a>Background of the My HealtheVet transition<be>
 
 **Overview**
@@ -99,7 +95,7 @@ that are not yet on VA.gov. There will still be links to My VA Health.
 
 ## <a name="design"></a>Design and research resources<be>
 
-**Figma** 
+### Figma 
 
 Design teams at VA use Figma to view, share, and collaborate on our work. Here are some helpful Figma links. 
 
@@ -117,7 +113,7 @@ _Health specific_
 - [My HealtheVet - Meds & Devices](https://www.figma.com/files/team/1278375444205744118/project/176500922/MHV---Meds-%26-Devices?fuid=1094287939207433857)
 - [My HealtheVet - Messages](https://www.figma.com/files/team/1278375444205744118/project/198497820/MHV---Messages?fuid=1094287939207433857) 
 
-**Reserach** 
+### Reserach 
 
 _The following are some helpful health portal related links._
 
@@ -134,7 +130,7 @@ _Tool specific research_
 
 You can learn more about getting started with research at VA here: [Research at VA](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va).
 
-**Murals** 
+### Murals 
 
 - [Cartographers - MHV on VA.gov portal](https://app.mural.co/invitation/room/1698186759596?code=02f984b27ce94456b25ea2a67987e582&sender=u24af215c7d9bf806b8545488)
 - [MHV on VA.gov](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521) 
@@ -147,3 +143,4 @@ You can learn more about getting started with research at VA here: [Research at 
 
 - [My HealtheVet on VA.gov - API logic diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717177396025/367057c4a9219404c3b7080e71210082b3c65771?sender=u24af215c7d9bf806b8545488) 
 
+[For more documentation and resources for developers go here] (https://design.va.gov/about/developers/) 
