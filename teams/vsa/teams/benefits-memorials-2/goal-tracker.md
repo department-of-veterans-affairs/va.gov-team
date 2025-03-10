@@ -92,9 +92,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | UX: | QPX |--|--|--|
 | UX: | QPX |--|--|--|
 | UX: | QPX |--|--|--|
-| ENG: | QPX |--|--|--|
-| ENG: | QPX |--|--|--|
-| ENG: | QPX |--|--|--|
+| ENG: | QPX |--t |--|--|
+| ENG: | N/A |Complete the Debt Resolve Page updates in staging and PR submitted |--|--|
+| ENG: | N/A |Research and resolve all bugs that were moved into or discovered in the sprint |--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals
