@@ -67,6 +67,9 @@ _last updated: 01-07-2025_
 ## Slack & Email Alert: "Triggered: 1010CG submission job has failed ten retries"
 
 - At least one application submission has been retried 10 times, and has failed. The submission will retry 6 more times before failing completely
+- A statsD metric should have been incremented for `vets_api.statsd.api_form1010cg_async_failed_ten_retries` with a tag containing the `claim_id`. That `claim_id` can be used to find the `claim` record in the database.
+- If the submission ultimately fails, we would expect the "Triggered: 1010CG submission job has failed with no retries left" monitor to trigger within 2 days of this monitor being triggered. 
+- To validate a submission has succeeded after this monitor is triggered, the `claim_id` can be used to check if there is a `claim` record in the database. If it is no longer present the submission has since succeeded, and if it has yet to succeed the record will still exist. 
 
 ### Required access
 

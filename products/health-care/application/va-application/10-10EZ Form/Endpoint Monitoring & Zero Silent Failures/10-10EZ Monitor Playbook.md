@@ -63,7 +63,7 @@ _last updated: 01-06-2025_
 
 ## Slack & Email Alert: "Triggered: 1010EZ submission job has failed with no retries left"
 
-- At least one application submission has been retried 14 times, has failed and will not be retried again.
+- At least one application submission has been retried 16 times, has failed and will not be retried again.
 
 ### Required access
 
