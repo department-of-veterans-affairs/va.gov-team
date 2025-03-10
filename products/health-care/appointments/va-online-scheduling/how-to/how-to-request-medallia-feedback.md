@@ -1,6 +1,12 @@
-# **How to Request and Process Medallia Feedback**
+# **How to Request and Process User Feedback**
 
-## How to Request
+All user feedback and analysis is captured in the [Appointments User Feedback sharepoint folder](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FHealthApartment%2FShared%20Documents&viewpath=%2Fsites%2FHealthApartment%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FAppointments%2FUser%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac)
+
+[2025 user feedback spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis.xlsx?d=wdaa5b5f611b649a28c4fcbc0bc8ef07a&csf=1&web=1&e=ZOW5q7)
+
+[2025 monthly feedback deck](https://dvagov.sharepoint.com/:p:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B1DFC1162-BA23-4198-B25E-FEEA23033455%7D&file=Medallia%20Feedback%202025.pptx&action=edit&mobileredirect=true)
+
+## How to Request Medallia Feedback
 
 Using the template below, submit a ticket in GitHub to Contact Center to collect the Medallia feedback. The feedback should be emailed to a VA.gov email address since it may contain PHI/PII information. 
 
@@ -15,6 +21,24 @@ User Surveys
 **Data Source Type**
 
 Medallia
+
+**Date  Range Start and End**
+Medallia Feedback Requests - Q1 2025
+
+| Week  | From       | To         | Submitted By | Ticket Link  | 
+|-------|------------|------------|--------------|--------------|
+|   1   | 12-29-2024 | 1-4-2025   | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/100000             |
+|   2   | 1-5-2025   | 1-11-2025  | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/100918             |
+|   3   | 1-12-2025  | 1-18-2025  | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/101470 |
+|   4   | 01-19-2025 | 01-25-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/101828 |
+|   5   | 01-26-2025 | 02-01-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/102347 |
+|   6   | 02-02-2025 | 02-08-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/102775 |
+|   7   | 02-09-2025 | 02-15-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/103020 |
+|   8   | 02-16-2025 | 02-22-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/103664 |
+|   9   | 02-23-2025 | 03-01-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/103666 |
+|   10  | 03-02-2025 | 03-08-2025 | Peter Russo  |  |
+|   11  | 03-09-2025 | 03-15-2025 | Peter Russo  |  |
+|   12  | 03-16-2025 | 03-22-2025 | Peter Russo  |  |
 
 **Product Name(s)**
 
@@ -49,28 +73,65 @@ None
 
 [Your VA email address]
 
-### Medallia Feedback Requests - Q1 2025
+Note: Contact Center will email you the feedback to the VA email address you provide.
 
-[2025 Analysis Spreadsheet]()
 
-| Week  | From       | To         | Submitted By | Ticket Link  | 
-|-------|------------|------------|--------------|--------------|
-|   1   | 12-29-2024 | 1-4-2025   | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/100000             |
-|   2   | 1-5-2025   | 1-11-2025  | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/100918             |
-|   3   | 1-12-2025  | 1-18-2025  | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/101470 |
-|   4   | 01-19-2025 | 01-25-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/101828 |
-|   5   | 01-26-2025 | 02-01-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/102347 |
-|   6   | 02-02-2025 | 02-08-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/102775 |
-|   7   | 02-09-2025 | 02-15-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/103020 |
-|   8   | 02-16-2025 | 02-22-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/103664 |
-|   9   | 02-23-2025 | 03-01-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/103666 |
-|   10  | 03-02-2025 | 03-08-2025 | Peter Russo  |  |
-|   11  | 03-09-2025 | 03-15-2025 | Peter Russo  |  |
-|   12  | 03-16-2025 | 03-22-2025 | Peter Russo  |  |
+## How to Process Feedback
+
+This process is the same for Medallia and VA Mobile Feedback
+
+2. Download the spreadsheet to your machine on the VA network. 
+
+3. Scrub the feedback of PII/PHI. Read through every user comment and replace personal information with codes as follows:
+- Email addresses - PII_EMAIL
+- Names - PII_NAME
+- Social security numbers - PII_SSN
+- Phone numbers - PII_PHONE
+- Other identifying info - PII_OTHER
+
+4. Copy the feedback into the appropriate tab of the current user feedback file.
+
+5. Check that the headings are correct across the entire sheet. The order the data points are received in does change.
+
+6. Sort the sheet by "URL". Move any feedback under the `https://www.va.gov/health-care/schedule-view-va-appointments/` URL to the Appts Benefits Hub tab. 
+
+
+## How to Analyze Feedback
+
+**Add codes**
+
+Codes for themes and feature requests are in the [user feedback spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis.xlsx?d=wdaa5b5f611b649a28c4fcbc0bc8ef07a&csf=1&web=1&e=ZOW5q7) (2025). Look in the tabs with those names. 
+
+
+Codes for sentiment are:
+* Positive
+* Negative
+* Mixed
+* Neutral
+
+Add the `quote` code to any piece of feedback that you want to share with the team.
+
+## How to report/share out feedback
+
+**Weekly reports**
+
+- Filter each sheet by the date range you're analyzing
+- Add a second filter on the codes column for any cell that contains `quote`.
+- Copy the quotes into the [running analysis sheet](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis%20-%20Select%20Quotes.docx?d=w2738630d47d64de68e05cef933b39cea&csf=1&web=1&e=mHnZM7) (2025 example)
+
+**Monthly IVC reports**
+
+Add a section for the previous month to the [2025 monthly feedback deck](https://dvagov.sharepoint.com/:p:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B1DFC1162-BA23-4198-B25E-FEEA23033455%7D&file=Medallia%20Feedback%202025.pptx&action=edit&mobileredirect=true). Update the dates and copy in the relevant charts.
+
+**Monthly MHV feedback spreadsheets**
+The MHV teams use a different process and format for analyzing user feedback.
+
+## Previous feedback requests
+
+<details>
+<summary> Medallia Feedback Requests - Q4 2024 </summary>
 
 ### Medallia Feedback Requests - Q4 2024
-
-[Q4 2024 Analysis Spreadsheet]()
 
 | Week  | From       | To         | Submitted By | Ticket Link  | Status |
 |-------|------------|------------|--------------|--------------|--------|
@@ -87,6 +148,8 @@ None
 |   50  | 12-08-2024 | 12-14-2024 | Peter Russo | https://github.com/department-of-veterans-affairs/va.gov-team/issues/99166 | Done       |
 |   51  | 12-15-2024 | 12-21-2024 | Peter Russo | https://github.com/department-of-veterans-affairs/va.gov-team/issues/99595 | Done   |
 |   52  | 12-22-2024 | 12-28-2024 | Peter Russo | https://github.com/department-of-veterans-affairs/va.gov-team/issues/99717       | Done       |
+
+</details>
 
 
 <details>
@@ -136,8 +199,6 @@ None
 | Week 26 Jun 23-Jun 29 | Peter Russo | [87329](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87329) | In progress |
 
 </details>
-
-### Older requests
 
 <details>
 <summary> Medallia Feedback Requests - Q1 2024 </summary>
@@ -200,33 +261,3 @@ None
 | Week 39 September 25th - October 1st | Melissa Lefevre  | ✅ [66687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66687) |
 </details>
 
-## How to Collect and Process Feedback
-
-1. Contact Center will email the feedback to the address you provided.
-
-2. Download the spreadsheet to your machine on the VA network. 
-
-3. Rename the spreadsheet in the following format:
-`VAOS Medallia [YYYY] Q[#] Week[##]` 
-For example: VAOS Medallia 2023 Q4 Week 44
-
-This naming convention lets us sort all the feedback files by date.
-
-4. Scrub the feedback of PII/PHI. Read through every user comment and replace personal information with asterisks or number symbols.
-   
-Replace them with codes as follows
-- Email addresses - PII_EMAIL
-- Names - PII_NAME
-- Social security numbers - PII_SSN
-- Phone numbers - PII_PHONE
-- Other identifying info - PII_OTHER
-
-5. As you review, note any issues that may be new or indicate that something is broken. You'll email this information to the team in the last step.
-
-6. Upload the scrubbed file to the [Teams user feedback folder](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FAppointments%2FUser%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac). Check that it is named so that it can be sorted by date.
-
-7. Share the file, including your notes of any potential issues that raise concern to  Simi, Jeff, Leah, Kay, Peter, Melissa, Ciera (using their VA email addresses).
-
-8. If any issues that seem urgent show up, note them for the team in the #appointments-fe-meetup channel.
-
-## How to Analyze Feedback
