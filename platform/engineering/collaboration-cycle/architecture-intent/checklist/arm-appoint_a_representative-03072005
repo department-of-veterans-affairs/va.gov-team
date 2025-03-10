@@ -9,37 +9,56 @@ Some of the items below may not apply to your work--that's okay. You may not be 
 ## Checklist
 
 - Product description
-  - [ ] Brief overview of motivation for the change from an engineering & security point of view
+  - [x] For the past 1.5 years, we've relied on a weekly .XLSX file to be shared with us from OGC with updated representative and organization data that we sanitize and push to the `va.gov-teams-sensitive repo`. A Sidekiq job runs daily to check if the file has been updated in the last 24 hours; if it has been, we grab the file, interate through the records in specific sheets, diff the data, and update records in the `veteran_representatives` and `veteran_organizations` if they need to be updated. We're replacing this XLSX file with the new Accrediation API that GCLAWS built for us.
   - [ ] Link to Collaboration Cycle Request issue
 - UX design description
-  - [ ] For user-facing changes, link to UX prototype or wireframes if available
+  - [x] NA ~For user-facing changes, link to UX prototype or wireframes if available~
   - [ ] Call out any engineering challenges; UX is reviewed in the [Design Intent meeting][DI]
 - Frontend changes
-  - [ ] Identify any significant code changes
-  - [ ] Identify any new design system components needed or changes to current components
-  - [ ] Describe any product analytics being gathered
+  - [x] NA ~Identify any significant code changes~
+  - [x] NA ~Identify any new design system components needed or changes to current components~
+  - [x] NA ~Describe any product analytics being gathered~
 - Backend changes
-  - [ ] Does the project introduce any new or unusual infrastructure dependencies?
-  - [ ] Do you need to poll any APIs for status?
-  - [ ] Are you handling all failure and error cases while in custody of your users's data?
+  - [x] Does the project introduce any new or unusual infrastructure dependencies? No.
+  - [x] Do you need to poll any APIs for status? No.
+  - [x] NA ~Are you handling all failure and error cases while in custody of your users's data?~
 - Internal API changes
-  - [ ] List new or modified APIs in `vets-api`
-  - [ ] Are you deprecating or removing any APIs?
-  - [ ] Do you have API documentation?
-  - [ ] Describe expected call patterns
+  - [x] NA ~List new or modified APIs in `vets-api`~
+  - [x] Are you deprecating or removing any APIs? No.
+  - [x] NA ~Do you have API documentation?!
+  - [x] NA ~Describe expected call patterns~
 - External API changes
-  - [ ] List new or modified APIs for upstream or external systems
-  - [ ] Describe expected call patterns
-  - [ ] What PII or PHI will be transmitted to/from the external systems?
+  - [x] List new or modified APIs for upstream or external systems. GCLAWS Accediation API
+  - [x] Describe expected call patterns
+    - [x] Endpoint 1
+    - [x] Endpoint 2
+    - [x] Endpoint 3
+    - [x] Endpoint 4
+  - [x] What PII or PHI will be transmitted to/from the external systems? Representative and Organization data is transmitted from the Accrediation API but all of the information is public and is the content that is served in our Find a Representative search results.
 - Background jobs
   - [ ] List any required background processing
   - [ ] Describe error and dead letter handling
 - Data storage
-  - [ ] Describe new or modified databases, tables or columns
+  - [x] Describe new or modified databases, tables or columns
+    - [x] New table: `accredited_individuals`
+    - [x] New table: `accredited_organizations`
+    - [x] New table: `accreditations`
   - [ ] Describe indexes and constraints
+    - [x] Indexes and constraints for `accredited_individuals`
+      - `t.index ["full_name"], name: "index_accredited_individuals_on_full_name"`
+      - `t.index ["location"], name: "index_accredited_individuals_on_location", using: :gist`
+      - `t.index ["poa_code"], name: "index_accredited_individuals_on_poa_code"`
+      - `t.index ["registration_number", "individual_type"], name: "index_on_reg_num_and_type_for_accredited_individuals", unique: true`
+    - [x] Indexes and constraints for `accredited_organizations`
+      - `t.index ["location"], name: "index_accredited_organizations_on_location", using: :gist`
+      - `t.index ["name"], name: "index_accredited_organizations_on_name"`
+      - `t.index ["poa_code"], name: "index_accredited_organizations_on_poa_code", unique: true`
+    - [x] Indexes and constraints for `accreditations`
+      - `t.index ["accredited_individual_id", "accredited_organization_id"], name: "index_accreditations_on_indi_and_org_ids", unique: true`
+      - `t.index ["accredited_organization_id"], name: "index_accreditations_on_accredited_organization_id"`
   - [ ] Identify PII and PHI and where and how it will be stored, processed, expired and deleted
 - Libraries and dependencies
-  - [ ] List new or updated dependencies
+  - [x] List new or updated dependencies. None.
 - Metrics, logging, observability, alerting
   - [ ] Identify key areas to monitor
 - Infrastructure and network changes
