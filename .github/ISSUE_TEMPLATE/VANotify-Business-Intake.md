@@ -3,7 +3,7 @@ name: VANotify Business Intake Form
 about: To submit a request with the VANotify Team
 title: Business intake form for [Your Business or team]
 labels: vanotify-intake
-assignees: GitSamJennings, christy-tongty, davidconlon, kbelikova-oddball
+assignees: GitSamJennings, davidconlon, kbelikova-oddball
 ---
 
 ## Your Details
