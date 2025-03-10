@@ -93,6 +93,7 @@ I’m omitting the last theme because some of the example questions didn’t mat
 ### When will I receive my benefits or payments?
 [Apply for education benefits as an eligible dependent](https://www.va.gov/family-and-caregiver-benefits/education-and-careers/apply-for-dea-fry-form-22-5490/introduction)
 > After you apply, you may get an automatic decision.
+
 > Note: In some cases, we may need more time to make a decision. If you don’t get an 
 automatic decision right after you apply, you’ll receive a decision letter in the mail in about 
 30 days. And we’ll contact you if we need more information.
@@ -114,6 +115,7 @@ automatic decision right after you apply, you’ll receive a decision letter in 
 ### How do I update my information (e.g., name, address, direct deposit)?
 [Managing your VA.gov profile](https://www.va.gov/resources/managing-your-vagov-profile/)
 > You can change your address, phone number, or email address online from your VA.gov profile. Use the edit button that’s next to the information you want to change.
+
 > Please note: If you change your address in your VA.gov profile, you may still need to contact some benefits offices directly to make sure they have your current information on file.
 
 [How to change your legal name on file with VA](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/)
