@@ -14,7 +14,7 @@ In this doc:
 -	[Dataset details](#dataset-details)
 -	[Prompt](#prompt)
 -	[Top questions](#top-questions)
--	[Connecting top questions to VA.gov pages](#connecting-top-question-to-va.gov-pages)
+-	[Connecting top questions to VA.gov pages](#connecting-top-questions-to-vagov-pages)
 -	[Other takeaways](#other-takeaways)
  
 ## Potential use case
