@@ -19,8 +19,8 @@ Some of the items below may not apply to your work--that's okay. You may not be 
 
 #### Number of Records in Staging
 
-- **Representatives:** 14191
-- **Organizations:** 110
+- **`veteran_representatives`:** 14191
+- **`veteran_organizations`:** 110
 
 ### Seed the New Tables
 
