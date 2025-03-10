@@ -95,7 +95,6 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | UX: Improve FSR questions comprehension by providing improvements, based on Veteran feedback (mockups only to share with SMEs)|N/A|--|--|
 | ENG: Complete the API integration to populate the Copay and debt data on the one VA Debt Letter | QP1 |--|--|--|
 | ENG: Complete the analysis of the One debt letter accessibility and define the approachd  | QP1 |--|--|--|
-| ENG: Silent Error Emails are ready for feature flag release  | N/A |--|--|--|
 | ENG: Complete the Debt Resolve Page updates in staging and PR submitted  | N/A |--|--|--|
 | ENG: Research and resolve all bugs that were moved into or discovered in the sprint | N/A |--|--|--|
 
