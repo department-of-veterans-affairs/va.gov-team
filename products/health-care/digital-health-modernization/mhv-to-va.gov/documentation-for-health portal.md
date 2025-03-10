@@ -140,3 +140,10 @@ You can learn more about getting started with research at VA here: [Research at 
 - [MHV on VA.gov](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521) 
 
 ## <a name="engineering"></a>Engineering resources<be>
+
+- [This directory contains engineering info that applies to the entire MHV to VA.gov project](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/engineering)
+
+**Relevant murals**
+
+- [My HealtheVet on VA.gov - API logic diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717177396025/367057c4a9219404c3b7080e71210082b3c65771?sender=u24af215c7d9bf806b8545488) 
+
