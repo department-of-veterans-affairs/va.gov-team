@@ -99,8 +99,6 @@ that are not yet on VA.gov. There will still be links to My VA Health.
 
 Design teams at VA use Figma to view, share, and collaborate on our work. Here are some helpful Figma links. 
 
-_VA design system_
-
 - [VA design system](https://www.figma.com/files/team/1278375444205744118/project/105082786/VA-Design-System?fuid=1094287939207433857)
 
 **More specific information on the the VA design system can be found on the [Getting started with design.va.gov](design.va.gov)**
@@ -130,7 +128,7 @@ _Tool specific research_
 
 You can learn more about getting started with research at VA here: [Research at VA](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va).
 
-### Murals 
+### Relevant Mural rooms 
 
 - [Cartographers - MHV on VA.gov portal](https://app.mural.co/invitation/room/1698186759596?code=02f984b27ce94456b25ea2a67987e582&sender=u24af215c7d9bf806b8545488)
 - [MHV on VA.gov](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521) 
