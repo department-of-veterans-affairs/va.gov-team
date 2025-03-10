@@ -136,6 +136,7 @@ You can learn more about getting started with research at VA here: [Research at 
 
 **Murals** 
 
-- (Cartographers - MHV on VA.gov portal)[https://app.mural.co/invitation/room/1698186759596?code=02f984b27ce94456b25ea2a67987e582&sender=u24af215c7d9bf806b8545488]
+- [Cartographers - MHV on VA.gov portal](https://app.mural.co/invitation/room/1698186759596?code=02f984b27ce94456b25ea2a67987e582&sender=u24af215c7d9bf806b8545488)
+- [MHV on VA.gov](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521) 
 
 ## <a name="engineering"></a>Engineering resources<be>
