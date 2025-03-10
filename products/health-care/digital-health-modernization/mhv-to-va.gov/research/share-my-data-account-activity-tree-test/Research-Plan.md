@@ -21,7 +21,7 @@ This study will identify where users naturally expect to find links to ‘Share 
 - Aging  
 
 ## Research Goals  
-The goal of this research is to determine where users intuitively expect to find links to ‘Share My Health Data’ and ‘Account Activity History’ MHV on VA.gov through task-based interactions in an unmoderated tree test.
+The goal of this research is to identify where users naturally expect to find links to ‘Share My Health Data’ and ‘Account Activity History’ on MHV within VA.gov by conducting a task-based unmoderated tree test.
 
 ## Outcome  
 Findings from this research will determine where users intuitively expect to find links to ‘Share My Health Data’ and ‘Account Activity History,’ ensuring they can efficiently locate the tools needed to share their healthcare metrics and monitor their account activity within MHV on VA.gov.
