@@ -77,7 +77,7 @@ For more information regarding **Milestone 2**, **the Oracle Health integration 
 
 ## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
 
-Folder containing metrics for the health portal can be seen in Sharepoint: [Monitoring, Reporting, and Feedback] (https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=QGJNSi&CID=5667b80d%2D4ee2%2D46b6%2Da293%2Df55fbab8b5e1&FolderCTID=0x012000E6CB91B251F8F14F832E520FAF90885D&id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FGeneral%2FMonitoring%2C%20Reporting%2C%20and%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac) (Sharepoint)
+Folder containing metrics for the health portal can be seen in Sharepoint: [Monitoring, Reporting, and Feedback](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=QGJNSi&CID=5667b80d%2D4ee2%2D46b6%2Da293%2Df55fbab8b5e1&FolderCTID=0x012000E6CB91B251F8F14F832E520FAF90885D&id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FGeneral%2FMonitoring%2C%20Reporting%2C%20and%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac) (Sharepoint)
 
 This folder contains metrics on the following: 
 
@@ -133,4 +133,4 @@ You can learn more about getting started with research at VA here: [Research at 
 
 - [My HealtheVet on VA.gov - API logic diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717177396025/367057c4a9219404c3b7080e71210082b3c65771?sender=u24af215c7d9bf806b8545488) 
 
-[For more documentation and resources for developers, go here](https://design.va.gov/about/developers/) 
+For more documentation and [resources for developers, go here](https://design.va.gov/about/developers/) 
