@@ -67,7 +67,7 @@ Broadly, this portfolio is comprised of:
 
 ### Public Websites portfolio 
 [Public Websites portfolio docs (Github va.gov-team/products)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites) 
-Broadly, Public Websites is the software development team supporting the VA's Content/IA team, who drive portfolio priorities in partnership with our PO. P nroducts include: 
+Broadly, Public Websites is the software development team supporting the VA's Content/IA team, who drive portfolio priorities in partnership with our PO. Products include: 
 * VA.gov homepage (P1)
 * Form finder (https://va.gov/find-forms) -  (P1)
 * On-site search in the header -  (P1)
