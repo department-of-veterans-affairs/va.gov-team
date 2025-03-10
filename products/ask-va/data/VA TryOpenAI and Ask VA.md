@@ -134,7 +134,7 @@ automatic decision right after you apply, you’ll receive a decision letter in 
 ## Other takeaways
 ### Stopped generating answer when asking for too much in the prompt.
 -	Original prompts included: 
-   - “Provide a complete list of question IDs that apply to each top question.”
+   - “Provide a complete list of question IDs that apply to each top question
    - “Provide 3 example questions exactly as provided from the dataset for each top question and their corresponding ID. Do not change these example questions in any way. Also provide an estimate of the number of questions that apply to each top question.”
 ### Provide a response, but didn’t include everything in the prompt
 - Original prompt: 
