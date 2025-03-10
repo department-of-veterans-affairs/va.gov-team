@@ -1,7 +1,5 @@
 # Phased rollout 
 
-
-# Phased rollout of document service migration
 ## Phase I: Canary (1%)
 ### Planning: 
 Desired date range or test duration: 3/10 2025
