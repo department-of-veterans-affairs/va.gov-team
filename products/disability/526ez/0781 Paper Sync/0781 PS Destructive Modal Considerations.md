@@ -35,7 +35,7 @@ TBD
 Here are the various options, with the pros and cons of each listed.
 
 ## Option 1 - UX modal using forms library to do so.
-Description: 
+Description: This uses a modal to prompt the user to confirm if they want to opt-out of, or remove answers they already provided, using the forms library pages and components.
 
 Pros:
 - Sticks to original planned design
@@ -51,7 +51,7 @@ Cons:
 
 
 ## Option 2 - UX modal using custom page
-Description: 
+Description: This uses a modal to prompt the user to confirm if they want to opt-out of, or remove answers they already provided, using the forms library components, on a custom/from-scratch page.
 
 Pros:
 - Sticks to original planned design
@@ -67,28 +67,23 @@ Cons:
 
 
 ## Options 3 - New page 
-Description: 
+Description: This uses a new page, proceeding the choice to discard data, to prompt the user to confirm if they want to opt-out of, or remove answers they already provided, using the forms library pages and components, on a new page, instead of a modal.
 
 Pros:
 - Appears easiest/quickest from engineering standpoint
 - uses 100% forms library known conventions
+- Is not a modal
 
 Cons:
 - Potentially unknown UX experience
 - (Ruben are there any to add here??)
 
 
-## Options 4 - On page alert 
+## Options 4 - On page alert (Ruben, any additions????)
 Description: 
 
-
-
-## Option 1a,2a,3a - Soft delete 
-Description: This involves, NOT deleteing the data until the final transform at the end, at submission time. this could potentially make the options above less complex, but has been off the table more or less due to risk of accedentally transmitting user data being unacceptable.
-
 Pros:
-- This could enable the other options to be less complex/quicker
+- Is not a modal
 
 Cons:
-- Introduces risk that data is not purged correctly and may get through unintentionally (this is a risk in any of the above too, but it is a higher risk in this option)
-
+- Seems clunky
