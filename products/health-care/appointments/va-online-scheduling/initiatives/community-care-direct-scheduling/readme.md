@@ -38,6 +38,7 @@ This initiative allows Veterans to directly schedule a community care appointmen
 - [MVP Wireframes](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=2490-44318&t=4E3sLy8lYzxyOpUL-1)
 - [CC VSS After Consult Approval Workflow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717007634301/2e9fa61206c18e8cf196e2deb612eb0b577fb458)
 - [CC VSS Referral to VA Notify Workflow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1724857034587/50f5a6735d13d9273970da070a5573385dd7fb2c)
+- [CC VSS VEText/VA Notify template content (in SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Appointments/Projects/2024%20Community%20Care%20Digital%20Self-Scheduling/vetext/CC%20Veteran%20Self-Scheduling%20VeText%20Templates.docx?d=wd132b693833f4a28afedad8ea6a252f0&csf=1&web=1&e=ARQ1Ec)
 
 #### Engineering Artifacts
 - [Care Nav API Endpoints (SharePoint)](https://dvagov.sharepoint.com/:x:/s/HealthApartment/EVXEu66555xIs5UMghBrAvIBjUuwc-AMyLC_YsCmTJfQbg?e=Ec9AuH)
