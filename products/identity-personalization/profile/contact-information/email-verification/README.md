@@ -40,9 +40,9 @@ Some VA.gov users have outdated or incorrect contact email addresses, leading to
 
 | KPI                                       | Baseline | Target | Data Source               |
 |-------------------------------------------|----------|--------|---------------------------|
-| Percentage of users with confirmed emails | X%       | Y%     | GA, Domo                  |
-| Reduction in email bounce rate            | X%       | Y%     | GA                        |
-| Increase in successful email deliveries   | X%       | Y%     | Internal VA email reports |
+| Percentage of users with confirmed emails | X%       | Y%     | VA Profile                |
+| Reduction in email bounce rate            | X%       | Y%     | GA? VA Profile, VA Notify |
+| Increase in successful email deliveries   | X%       | Y%     | VA Notify                 |
 | Improved user trust/satisfaction score    | X        | Y      | VA.gov feedback surveys   |
 
 
