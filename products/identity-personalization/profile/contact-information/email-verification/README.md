@@ -12,8 +12,8 @@ Currently, emails are not confirmed, can be stale, and are relied upon heavily b
 The objective of this initiative is to improve the accuracy and completeness of contact information within VA.gov user profiles by building a contact email verification process. The goal is to ensure that VA Profile/VA Notify/VA.gov Profile are able to support sending timely and critical communications from the VA to verified email addresses, leading to improved engagement and reduced errors in delivery.
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
-
+- [Contact Information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information#readme)
+  
 ## Problem
 Some VA.gov users have outdated or incorrect contact email addresses, leading to missed communications regarding benefits, healthcare, and other services. This issue affects veterans who rely on VA services, as well as VA staff who depend on accurate contact information for outreach.
 
