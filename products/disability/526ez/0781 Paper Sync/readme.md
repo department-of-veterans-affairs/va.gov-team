@@ -1,4 +1,4 @@
-# 0781 Paper Sync Initiativehttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/0781%20Paper%20Sync/readme.md
+# 0781 Paper Sync Initiativehttps
 
 For Veterans who have been diagnosed with PTSD (post traumatic stress disorder) or mentalth health disorders and want to apply for related benefits or services, the VA.gov's new online 0781 form provides all the questions related for claiming mental health conditions and in-service traumatic events need to submit a benefits claim. Unlike the previous version of the 0781 form, the new online form will be in compliance by being up to date with the most recent paper form version (_June 2024_). 
 
