@@ -12,18 +12,83 @@ Pending
 * Sam Wiley
 * Leah Keeler
 * Shannon Ford
+* Nathan Burgess
+* Robin Garrison
+* Ruben Sun
 * Lisa Capaccioli
 
 ### Context
-Describe the circumstances which have necessitated this decision.
+We have to support destructive actions in our new 0781 flow. This includes, allowing a user to opt-out of the flow entirely, or to decide against answering specific sub-componetns of the form flow. 
+It is possible, the user could have already answered some of these questions, and then navigated back, to the area that asked if they wanted to answer the questions or not. If they change their answer after answering some of the questions, we have to delete that data, and make sure it does not make its way onto the form(s)/submission(s).
+
+This is a destructive action, that the user is initiating. VA guidance (find link, insert here) is that we should alert the user and make them confirm, before doing a destructive action. 
+
+We are trying to decide, how to best accomplish that.
 
 ### Decision
-Summarize the decision in a few paragraphs or less. Start with, "We will..."
+TBD
 
 ### Consequences
-Enumerate the good, bad, and ugly results of this decision. Be sure to include the teams impacted and 
-the types of impacts this decision may have.
+TBD
 
 ### Options Considered
-If multiple options were considered, enumerate them along with their benefits + downsides, and 
-why they weren’t selected.
+Here are the various options, with the pros and cons of each listed.
+
+## Option 1 - UX modal using forms library to do so.
+Description: 
+
+Pros:
+- Sticks to original planned design
+- Pages are already built
+- Forms library is the default thing to use
+- Some technical research has already been conducted for this
+
+Cons:
+- Requires refactoring/building around "hacking" the forms library, in an new/unconventional way
+- Not been done before
+- Design potentially doesn't like modals
+
+
+
+## Option 2 - UX modal using custom page
+Description: 
+
+Pros:
+- Sticks to original planned design
+- This is how modals are done elsewhere
+- More flexibilty/less "hacking"
+- Less unknowns
+- Could be made to be more reusable than a hacked forms-library-only solution (could be scope-creep in doing so though)
+
+Cons:
+- Need to make page from scratch (not a huge lift, just additional effort)
+- Design potentially doesn't like modals
+- Not using the forms library stuff is probably discouraged somewhat or not prefered from forms library team (but tons of pages with VA modal are custom pages, so not a huge con)
+
+
+## Options 3 - New page 
+Description: 
+
+Pros:
+- Appears easiest/quickest from engineering standpoint
+- uses 100% forms library known conventions
+
+Cons:
+- Potentially unknown UX experience
+- (Ruben are there any to add here??)
+
+
+## Options 4 - On page alert 
+Description: 
+
+
+
+## Option 1a,2a,3a - Soft delete 
+Description: This involves, NOT deleteing the data until the final transform at the end, at submission time. this could potentially make the options above less complex, but has been off the table more or less due to risk of accedentally transmitting user data being unacceptable.
+
+Pros:
+- This could enable the other options to be less complex/quicker
+
+Cons:
+- Introduces risk that data is not purged correctly and may get through unintentionally (this is a risk in any of the above too, but it is a higher risk in this option)
+
