@@ -38,3 +38,4 @@ Practice areas will document their feedback on the VFS-provided artifacts follow
 - [ ] Add the touchpoint labels
 - [ ] Add the practice area labels
 - [ ] Add the Collaboration Cycle initiative milestone
+- [ ] Add the 'collaboration-cycle-mobile-app' label if this feedback is for the mobile app
