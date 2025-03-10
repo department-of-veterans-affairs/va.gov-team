@@ -25,5 +25,6 @@
             * Calls are tried to be done before the letter gets there, help get the needed info over the phone
     * How can we use this to kick off a notification to the Veteran?
         * Onboard VES to VA Notify - best long-term solution
-            * Heather to share these details with Angela Fulton and assist in getting a Change Request created and prioritized with the business for VES to schedule.
+        * [x] Heather to share these details with Angela Fulton and assist in getting a Change Request created and prioritized with the business for VES to schedule.
         * 10-10 team to work with MyVA team to show statuses on MyVA
+            * [x] Preliminary meeting scheduled with MyVA PM Travis Cahill to talk thru needs
