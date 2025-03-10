@@ -87,6 +87,7 @@ Topline on monitoring channels, Datadog information, and escalation response are
 
 ## Partner team information
 Sitewide products span several repositories where we are contributors and not owners. 
+The [Repo relationship map (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723134921510/3622bf7305d3e10698094aa13525f36617c472d7?sender=u0b235d03cbd64f7f93673243) includes high level information about how these systems connect, and interact in Prod & lower environments.
 
 ### Drupal CMS
 Owners: CMS Platform team, [#sitewide-cms-platform](https://app.slack.com/client/T03FECE8V/CT4GZBM8F)
@@ -107,7 +108,7 @@ The [Flagged Facilities process](https://github.com/department-of-veterans-affai
 ### Lighthouse
 Lighthouse is VA's external-facing enterprise-stable API solution. 
 
-We work with 2 separate Lighthouse API teams: 
+We work with 2 separate Lighthouse API teams, both of whom are transitioning contracts as of 3/31/2025 as well. VA POs will need to establish comms with the incoming contract teams: 
 
 **Lighthouse Facilities API**
 - [#cms-lighthouse](https://app.slack.com/client/T03FECE8V/C02BTJTDFTN) - Communication channel with Lighthouse Facilities API team
@@ -127,6 +128,8 @@ Repository / deploy and CI/CD process for React applications on VA.gov, which in
 
 Owners: Platform FE, [#platform-cop-frontend](https://app.slack.com/client/T03FECE8V/C04868KS69L)
 
+Daily deploy will be disabled in Q2 2025 in favor of CI/CD. Apps owned by Sitewide (articulated in [Sitewide tech stacks (VA Sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/SitewideContract/Shared%20Documents/Sitewide%20product%20portfolio%20tech%20stack.xlsx?d=w32777179456a4ad1b2b8082d244fe51e&csf=1&web=1&e=VTP8Nh)) will require a technical approver to sign off on production deploys. Message Curt Bonade on the FE Platform team to have your reviewers added to the [fe-deployment-approval-team](https://github.com/orgs/department-of-veterans-affairs/teams/fe-deployment-approval-team/members), to help manage deploys. Deploy notices are posted to [#status-vets-website](https://app.slack.com/client/T03FECE8V/C02V265VCGH)
+
 ### Vets-api
 Repository / deploy and CI/CD process for the Ruby on rails vets-api, which includes API services that power several products in our portfolio including the Facility locator, On-site search, Find forms, among others. 
 
@@ -137,9 +140,9 @@ We own ensuring no dead links to content in our portfolios, which means creating
 
 [Redirect implementation strategies](https://depo-platform-documentation.scrollhelp.site/developer-docs/redirect-implementation-strategies) provides more context on the variety of types of redirect you may be asked to manage.
 
-IA owners: Content/IA, @mnorthuis as primary POC, [#content-ia-centralized-team](https://app.slack.com/client/T03FECE8V/C01K37HRUAH)
+IA owners: Content/IA, Mikki Northuis is primary IA POC, [#content-ia-centralized-team](https://app.slack.com/client/T03FECE8V/C01K37HRUAH)
 
 Technical Owners of revproxy 301 server-side redirects: Platform Devops, [#platform-cop-devops](https://app.slack.com/client/T03FECE8V/C04CYC4LMU6)
 
-Technical Owners of proxy-rewrite client-side redirects: Public Websites (us!) 
+Technical Owners of [Injected header](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/injected-header) / proxy-rewrite client-side redirects: Public Websites (us!) 
 
