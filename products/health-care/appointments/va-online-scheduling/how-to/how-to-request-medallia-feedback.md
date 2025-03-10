@@ -23,6 +23,7 @@ User Surveys
 Medallia
 
 **Date  Range Start and End**
+
 Medallia Feedback Requests - Q1 2025
 
 | Week  | From       | To         | Submitted By | Ticket Link  | 
@@ -73,12 +74,33 @@ None
 
 [Your VA email address]
 
-Note: Contact Center will email you the feedback to the VA email address you provide.
+Note: Contact Center will email you the feedback to the VA email address you provide. See "How to process feedback" for next steps.
 
+## How to pull "VA Mobile App" feedback
+
+Note that this isn't feedback from the VA mobile app. It just comes from a form with that name.
+
+1. Access [this Power BI report](https://app.powerbigov.us/groups/me/reports/aca54410-27d4-41a5-a376-bcd67c1c4e70/ReportSection8279b935900d2a4a0166?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf) (Process for gaining access tba)
+
+2. Open the Reviews tab
+
+3. Under App Selection, choose `VA Online Scheduling` and `VA Online Scheduling Redesign`
+
+4. Choose the timeframe you're analyzing.
+
+5. All other fields can be "All"
+
+6. Click the sneaky More Options button, then Export Data
+
+7. Select Data with current layout
+
+8. Download to your computer.
+
+See "How to process feedback" for next steps.
 
 ## How to Process Feedback
 
-This process is the same for Medallia and VA Mobile Feedback
+This process is the same for Medallia and VA Mobile Form Feedback.
 
 2. Download the spreadsheet to your machine on the VA network. 
 
@@ -93,7 +115,9 @@ This process is the same for Medallia and VA Mobile Feedback
 
 5. Check that the headings are correct across the entire sheet. The order the data points are received in does change.
 
-6. Sort the sheet by "URL". Move any feedback under the `https://www.va.gov/health-care/schedule-view-va-appointments/` URL to the Appts Benefits Hub tab. 
+6. Sort the sheet by "URL". Move any feedback under the `https://www.va.gov/health-care/schedule-view-va-appointments/` URL to the Appts Benefits Hub tab.
+
+7. Delete the original file from your computer.
 
 
 ## How to Analyze Feedback
@@ -113,18 +137,23 @@ Add the `quote` code to any piece of feedback that you want to share with the te
 
 ## How to report/share out feedback
 
-**Weekly reports**
+### Weekly reports
 
 - Filter each sheet by the date range you're analyzing
 - Add a second filter on the codes column for any cell that contains `quote`.
 - Copy the quotes into the [running analysis sheet](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis%20-%20Select%20Quotes.docx?d=w2738630d47d64de68e05cef933b39cea&csf=1&web=1&e=mHnZM7) (2025 example)
 
-**Monthly IVC reports**
+### Monthly IVC reports 
 
 Add a section for the previous month to the [2025 monthly feedback deck](https://dvagov.sharepoint.com/:p:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B1DFC1162-BA23-4198-B25E-FEEA23033455%7D&file=Medallia%20Feedback%202025.pptx&action=edit&mobileredirect=true). Update the dates and copy in the relevant charts.
 
-**Monthly MHV feedback spreadsheets**
-The MHV teams use a different process and format for analyzing user feedback.
+### Monthly MHV on VA.gov feedback spreadsheets
+
+The MHV teams use a different process and format for analyzing user feedback. The monthly spreadsheets are in this folder: [MHV on VA.gov](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FHealthApartment%2FShared%20Documents&viewpath=%2Fsites%2FHealthApartment%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FGeneral%2FMonitoring%2C%20Reporting%2C%20and%20Feedback%2FMedallia%20feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac)
+
+Copy the data into that sheet, following the provided format.
+
+You do not need to add the universal codes. Just sentiment and other health tool.
 
 ## Previous feedback requests
 
