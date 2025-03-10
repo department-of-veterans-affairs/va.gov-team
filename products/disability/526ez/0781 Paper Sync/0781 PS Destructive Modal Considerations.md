@@ -34,7 +34,7 @@ TBD
 ### Options Considered
 Here are the various options, with the pros and cons of each listed.
 
-## Option 1 - UX modal using forms library to do so.
+#### Option 1 - UX modal using forms library to do so.
 Description: This uses a modal to prompt the user to confirm if they want to opt-out of, or remove answers they already provided, using the forms library pages and components.
 
 Pros:
@@ -50,7 +50,7 @@ Cons:
 
 
 
-## Option 2 - UX modal using custom page
+#### Option 2 - UX modal using custom page
 Description: This uses a modal to prompt the user to confirm if they want to opt-out of, or remove answers they already provided, using the forms library components, on a custom/from-scratch page.
 
 Pros:
@@ -66,7 +66,7 @@ Cons:
 - Not using the forms library stuff is probably discouraged somewhat or not prefered from forms library team (but tons of pages with VA modal are custom pages, so not a huge con)
 
 
-## Options 3 - New page 
+#### Options 3 - New page 
 Description: This uses a new page, proceeding the choice to discard data, to prompt the user to confirm if they want to opt-out of, or remove answers they already provided, using the forms library pages and components, on a new page, instead of a modal.
 
 Pros:
@@ -79,7 +79,7 @@ Cons:
 - (Ruben are there any to add here??)
 
 
-## Options 4 - On page alert (Ruben, any additions????)
+#### Options 4 - On page alert (Ruben, any additions????)
 Description: 
 
 Pros:
