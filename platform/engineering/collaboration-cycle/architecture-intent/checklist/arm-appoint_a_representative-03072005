@@ -6,6 +6,87 @@ Your document should be brief and high-level. Please keep it to a single page. F
 
 Some of the items below may not apply to your work--that's okay. You may not be able to fill in some items that _do_ apply to your work--that's also okay. If you don't have answers, please come ready to ask questions.
 
+## Overview
+
+### Consuming the Accreditation API
+
+#### Number of Records in Latest Trexler File
+
+- **Attorneys:** 5292
+- **Claims Agents:** 599
+- **Representatives:** 18102 (many are duplicate representatives with unique POA)
+- **Organizations:** 95
+
+#### Number of Records in Staging
+
+- **Representatives:** 14191
+- **Organizations:** 110
+
+### Seed the New Tables
+
+Seed the new `accredited_individuals`, `accredited_organizations`, and `accreditations` tables with records from the legacy `veteran_representatives` and `veteran_organizations` tables so we don’t have to hit the Address Validation API for all of the records again.
+
+**Steps:**
+
+1. **Create a Rake Task**  
+   Create a rake task to copy records from the legacy representatives and organizations tables into the new ones:
+
+   - Add organizations.
+   - Add representatives and create records in the `accreditations` join table.
+
+2. **Use Batch Processing**  
+   Use Rails’ `find_in_batches` and `insert_all` Active Record commands to process the records in chunks of 1000. For example:
+
+   ```ruby
+   OldModel.find_in_batches(batch_size: 1000) do |batch|
+     transformed_records = batch.map do |record|
+       {
+         new_field1: record.field1,
+         new_field2: record.field2,
+         # … other transformations as needed
+         created_at: Time.current,
+         updated_at: Time.current
+       }
+     end
+
+     # Insert the transformed batch into the new table in one query
+     NewModel.insert_all(transformed_records)
+   end
+   ```
+
+We’ll run this rake task once.
+
+**This approach ensures that:**
+
+- **Memory Usage** is kept low since only 1,000 records are processed at a time.
+- **Performance** is maintained by executing fewer, more efficient SQL queries (one per batch).
+- **Simplicity** is retained since it’s an in-place operation without the overhead of background job systems like Sidekiq.
+
+### Create Daily Sidekiq Job to Consume the Accreditation API
+
+Create a daily job to hit the Accreditation API to update the `accredited_individuals`, `accredited_organizations`, and `accreditations` tables.
+
+**Modifications and Logic Adjustments:**
+
+- **Active Flag/Soft Delete:**  
+  Add an `is_active` column (defaulting to `true`) to the `accredited_individuals` and `accredited_organizations` tables. If the Accreditation API doesn’t include an individual or organization, update the corresponding record's `is_active` column to `false` for soft delete.
+
+- **Import Logic Changes:**  
+  Keep much of the logic from the Trexler File import except:
+
+  - Create new records that don’t exist.
+  - Mark records that exist in our tables but are missing from the Accreditation API response as `is_active = false` to “soft delete” them.
+  - Diff a record’s `raw_address` in our tables with the corresponding Accreditation API record to determine if the address needs to be updated.
+  - Diff the `phone` value instead of the `phone_number` value (since we no longer use `phone_number`).
+  - Diff the individual’s names (since names may change due to events like marriage).
+  - Continue to diff the email.
+
+- **Other Considerations:**
+  - Determine what to do with `can_accept_reject_poa`.
+  - Keep the existing Sidekiq job/implementation to update records.
+
+This setup should help maintain data integrity while ensuring the Accreditation API updates are applied consistently across our systems.
+
 ## Checklist
 
 - Product description
@@ -31,10 +112,10 @@ Some of the items below may not apply to your work--that's okay. You may not be 
   - [x] List new or modified APIs for upstream or external systems. OGC's Accediation API
   - [x] Describe expected call patterns
     - Base URL: `https://ogccotst1.dva.va.gov:4501`
-    - [x] `GET` paginated results from `api/v2/accreditations/Agents`
-    - [x] `GET` paginated results from `api/v2/accreditations/Attorneys`
-    - [x] `GET` paginated results from `api/v2/accreditations/Representatives`
-    - [x] `GET` paginated results from `api/v2/accreditations/VeteranServiceOrganizations`
+    - [x] `GET` paginated results from `/api/v2/accreditations/Agents`
+    - [x] `GET` paginated results from `/api/v2/accreditations/Attorneys`
+    - [x] `GET` paginated results from `/api/v2/accreditations/Representatives`
+    - [x] `GET` paginated results from `/api/v2/accreditations/VeteranServiceOrganizations`
   - [x] What PII or PHI will be transmitted to/from the external systems? Representative and Organization data is transmitted from the Accrediation API but all of the information is public and is the content that is served in our Find a Representative search results.
 - Background jobs
   - [ ] List any required background processing
