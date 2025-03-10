@@ -43,15 +43,15 @@ The MHV to VA.gov initiative consists of several different products, each with i
 
 ## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
 
-**My HealtheVet on VA.gov Landing page**
+### My HealtheVet on VA.gov Landing page**
 
 In September 2023, the My HealtheVet on VA.gov landing page was launched ([see more about the landing page here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page)). 
 
-**Four main health tools**
+### Four main health tools 
 
 Using a phased approach, teams have systematically integrated the four major health tools — [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling),  [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/README.md), [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product), and [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md) — into My HealtheVet on VA.gov. An "opt-in" experience in production allowed Veterans to access these tools on VA.gov while enabling VA teams to monitor usage, validate performance, and refine the experience. 
 
-**Secondary Navigation**
+### Secondary Navigation
 
 On June 2024, the [Secondary Navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/README.md) was launched to enhance Veterans' awareness and navigation of health tools available within My HealtheVet on VA.gov. This improvement aims to reduce the likelihood of Veterans searching for healthcare-related tools in unauthenticated areas of VA.gov, such as the megamenu.
 
@@ -61,7 +61,7 @@ On June 2024, the [Secondary Navigation](https://github.com/department-of-vetera
 
 *Milestones are subject to change* 
 
-**Milestone 1 (3/17/25)** 
+**Milestone 1 (3/17/25) 
 
 - Appointments no longer available on MHV. MHV Classic link redirects to appointments on VA.gov.
 - All health care links on VA.gov (facility pages, tools pages, My VA, etc.) will direct to the portal
@@ -73,22 +73,7 @@ experiences. Users who directly go to MHV Classic will continue to have the same
 directed to VA.gov for secure messaging, medications, and medical records.
 - MyVA Health users can still get to MyVA Health from both portals.
 
-**Milestone 2 (6/2/25)**
-
-- Secure messaging, medications, and medical records no longer available on MHV. Link re-directs to
-tools on the new MHV experience on VA.gov. Appointments will continue to re-direct to the new
-experience.
-- mhv-portal-web/home will serve primarily as a familiar landing page for users to get to where they
-want to go as we transition to VA.gov experience. The MHV Classic experience will continue to have
-a limited number of features available, that are not yet available on VA.gov (e.g. newsletter).
-- MHV Portal on VA.gov will include a link to SMHD.
-- MHV Portal on VA.gov will no longer have "Go back to the previous version of MHV" links for the
-tool experiences. There will be some links embedded in the portal back to MHV for experiences
-that are not yet on VA.gov. There will still be links to My VA Health.
-
-<img width="889" alt="Screenshot 2025-03-05 at 5 39 19 PM" src="https://github.com/user-attachments/assets/9906d976-6bd8-4d3f-acca-41c46c2cde03" />
-
-**Oracle Health on VA.gov** 
+For more information regarding **Milestone 2**, **the Oracle Health integration on VA.gov**, and **VAHB Health Features**, [please see the plan in Sharepoint](https://dvagov.sharepoint.com/:p:/r/sites/OCTO-Health/_layouts/15/Doc.aspx?sourcedoc=%7B06E09678-7D2D-4AEA-991D-BF33A960F896%7D&file=2.24725%20-%20MHV%20on%20VA.gov%20Transition%20Timeline%202025.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&ct=1741186637169&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&cid=7c137060-4176-4ad3-bae1-df9d57e6a12c&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=dc48b4cc-a814-40f7-aa78-a1286844355b). 
 
 **
 ## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
