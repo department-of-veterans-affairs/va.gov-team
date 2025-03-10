@@ -1,4 +1,5 @@
-# Initiative Brief Template
+# Initiative Brief - Email Verification 
+
 #### Overview
 
 Currently, emails are not confirmed, can be stale, and are relied upon heavily by us to communicate with users. We need to be able to communicate with our users in the event of a failure. Accounts with no email address in the VA.gov Profile make this more difficult.
@@ -36,35 +37,43 @@ Some VA.gov users have outdated or incorrect contact email addresses, leading to
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+| KPI                                       | Baseline | Target | Data Source               |
+|-------------------------------------------|----------|--------|---------------------------|
+| Percentage of users with confirmed emails | X%       | Y%     | GA, Domo                  |
+| Reduction in email bounce rate            | X%       | Y%     | GA                        |
+| Increase in successful email deliveries   | X%       | Y%     | Internal VA email reports |
+| Improved user trust/satisfaction score    | X        | Y      | VA.gov feedback surveys   |
+
 
 ---
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Users may not see immediate value in confirming their email addresses.
+  - Some users may abandon the process if it is too complex.
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - We're forcing users to navigate to their email, some users w/cognitive impairments may not be able to complete the process end to end
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+  - Ensuring a seamless verification flow without technical glitches (may need VA Notify and Identity team support)
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+  - Coordination with multiple VA departments for policy alignment.
+  - Compliance with security and privacy regulations.
 
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
+
+#### In Scope
+
+- Implement a mandatory or strongly encouraged email confirmation step during profile updates.
+- Introduce periodic prompts reminding users to verify their email addresses.
+- Provide clearer messaging on why email confirmation is critical.
+- Automate detection and alerts for invalid/bounced emails.
+
+#### Out of Scope:
+- Expanding verification to other contact details such as phone numbers (future consideration).
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
@@ -99,28 +108,11 @@ Some VA.gov users have outdated or incorrect contact email addresses, leading to
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
 
-<details>
-
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
-
-</details>
+- Team Name: Authenticated Experience 
+- GitHub Label(s): authenticated-experience, contact-information
+- Slack channel: #accountexp-authexp
+- Product POCs: Travis Cahill, Chante Lantos-Swett
 
 
-#### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
 
-<details>
-  
-- Office/Department:
-- Contact(s): 
- 
-</details>
-
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
