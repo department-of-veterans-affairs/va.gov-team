@@ -1,7 +1,7 @@
 # Phased rollout of back-end tables
 ## Phase I: Canary (1%)
 ### Planning: 
-Desired date range or test duration: 3/3-3/4 2025 
+Desired date range or test duration: 3/10-3/11 2025 
 Actual date range of test duration:  
 
 Desired number of users: 500  
@@ -16,7 +16,7 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 
 ## Phase II: 25% - 100%
 ### Planning 
-Desired date range or test duration: 3/4-2-7 2025  
+Desired date range or test duration: 3/11-3/25 2025  
 Desired number of users:1,000 - 10,000
 - In this phase we will expand the release at increments of 25%, allowing at least one full bnusiness day to gather the necessary data to ensure the information coming through to end users matches expected behavior.
 
