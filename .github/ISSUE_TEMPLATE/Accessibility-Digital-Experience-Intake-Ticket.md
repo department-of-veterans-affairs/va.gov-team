@@ -96,7 +96,7 @@ _Select all that apply._
 
 ## Next Steps for Your Team
 - [ ] Save and submit this intake ticket.
-- [ ] Start a new thread, and post a link to this ticket in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Naomi Eke or Lakwi Perera.
+- [ ] Start a new thread, and post a link to this ticket in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Lakwi Perera.
 - [ ] If you're requesting accessibility support for user research, submit a research support request next: [Open an accessibility research support request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/ade-accessibility-research.yaml).
 - [ ] If you're creating an experimental design, also contact the design system team: [Read more about experimental designs](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) 
 - [ ] [Suggest an addition or update to the design system team](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update)
