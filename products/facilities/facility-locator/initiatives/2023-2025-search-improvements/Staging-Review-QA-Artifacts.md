@@ -2,7 +2,7 @@
 
 ## Overview of app and QA risks
 
-The adjustments to the mobile map can be broken up into two types: 1) additions (pin selection, selected result below the map, and TTY number), 2) change (move from tabs to segmented control)
+The adjustments to the mobile map can be broken up into two types: 1) additions (pin selection, selected result below the map, and TTY number), 2) change (move from tabs to segmented control). In effect, the additions and changes make clicking on a map pin have an action (approximates current behavior on desktop/tablet with improvements for mobile), and replaces the outdated and problematic react tabs components that were not being updated (external dependencies and not in line with USWDS). The addition of the TTY number to results allows users to click that number in accordance with guidance from DST and USWDS.
 
 ### Additions risk and complexity: 
 
