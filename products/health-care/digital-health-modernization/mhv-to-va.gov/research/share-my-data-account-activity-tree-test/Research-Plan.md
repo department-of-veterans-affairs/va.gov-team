@@ -1,9 +1,9 @@
 # ‘Share My Health Data’ App and ‘Account Activity’ IA Research Plan | MHV on VA.gov  
 
 ## Background  
-As My HealtheVet (MHV) transitions to VA.gov, integrating key features from MHV Classic, such as **Share My Health Data** and *Account Activity History*, requires a clear understanding of where authenticated users expect to find them. While these features support Veterans in managing their health data and tracking account activity, their placement within VA.gov has not yet been determined. Identifying where users naturally look for these tools will help ensure they are easily accessible and aligned with their expectations.
+As My HealtheVet (MHV) transitions to VA.gov, integrating key features from MHV Classic, such as **Share My Health Data** and **Account Activity History**, requires a clear understanding of where authenticated users expect to find them. While these features support Veterans in managing their health data and tracking account activity, their placement within VA.gov has not yet been determined. Identifying where users naturally look for these tools will help ensure they are easily accessible and aligned with their expectations.
 
-In MHV Classic, Veterans tracked health metrics through a self-reporting tool that required manual entry. The Office of Connected Care’s (OCC) Share My Health Data app expands on this functionality by enabling automatic synchronization with smart health devices, reducing the need for manual input and streamlining data sharing with VA care teams. For devices that are not compatible, users would still be able to manually log key health metrics, including blood pressure, heart rate, glucose, pulse oximetry, temperature, and weight.
+Historically, Veterans have recorded their health metrics using either a self-reporting tool or the Share My Health Data app, developed by the Office of Connected Care (OCC). The Share My Health Data app allows automatic syncing with smart health devices, reducing the need for manual entry and making it easier to share data with VA care teams. For devices that are not compatible with the app, users can still manually log key health metrics, such as blood pressure, heart rate, glucose levels, pulse oximetry, temperature, and weight.
 
 Account Activity History is a legally mandated feature that provides authenticated MHV users with a record of their account activity, including who accessed their account, what information was viewed, any changes made, and the type of action performed. 
 
@@ -51,20 +51,18 @@ A tree test study will be conducted using Optimal Workshop (Treejack) to assess 
 ### **Recruitment**  
 We will recruit **100 MHV users** through our recruitment partners, Perigean, based on the following criteria:  
 
-**Group 1 (50 participants):**  
-- Users who have experience using health data-sharing tools, such as manually inputting or sharing vitals on My HealtheVet.  
-- Have accessed their account activity history at least once within the last six months.  
+**Group 1 (50 Veterans):**  
+- Veterans who have an active MHV account and have accessed it at least once in the last year. 
 
-**Group 2 (50 participants):**  
-- Users with no prior experience with health data sharing or account activity history.  
-- Have been active MHV users within the last six months.  
+**Group 2 (50 Veterans):**  
+- Veterans who do not have an MHV account.
 
 ### **Availability for Potential Kickoff Meeting Times with Perigean**  
-- Monday, March 10: 9:00 AM - 2:00 PM (PST) 
-- Tuesday, March 11: 9:00 AM - 2:00 PM (PST) 
+- Tuesday, March 11, 9:00 AM - 2:00 PM (PST)
+- Wednesday, March 12, 9:00 AM - 3:00 PM (PST)
 
 ### **Recruitment Approach**  
-We are partnering with Perigean to recruit 100 Veterans for this tree test study, aiming to launch by March 13, 2025. The study will include active My HealthVet (MHV) users, divided into two groups: those who have previously shared or manually entered their health data and viewed their account activity history on MHV, and those who have not used either feature before. This approach ensures a balanced representation of user experiences to inform the optimal placement of these features within VA.gov.
+We are partnering with Perigean to recruit 100 Veterans for this tree test study, aiming to launch by **March 17, 2025**. The study will include active My HealthVet (MHV) users, divided into two groups: those who have previously shared or manually entered their health data and viewed their account activity history on MHV, and those who have not used either feature before. This approach ensures a balanced representation of user experiences to inform the optimal placement of these features within VA.gov. Additionally, we will gather participant data on accessing account activity history and using health data-sharing tools through post-test questions rather than as recruitment screening criteria.
 
 ### **Recruitment Criteria**  
 **How many participants do you want in your study?**
@@ -73,65 +71,55 @@ We are partnering with Perigean to recruit 100 Veterans for this tree test study
 **How many completed sessions do you need to consider your study complete?**
 100
 
-**Cohort Assignment**
-Cohort 1: Must answer "Yes" to both Question 4 and Question 5.
-Cohort 2: Must answer "No" to both Question 4 and Question 5.
+**Group Assignment**
+- Group 1: My HealtheVet (MHV) users
+- Group 2: Non-MHV users
 
 **All participants must:**
-- be Veterans
-- receive VA healthcare benefits
-- have an active My HealtheVet (MHV) account that they have accessed at least once in the past 12 months
-- have a computer or tablet and be comfortable following written instructions to complete simple, lightweight tasks on their own (~15 min.)
+- Be Veterans
+- Receive VA healthcare benefits
+- Have a computer or tablet and be comfortable following written instructions to complete simple, lightweight tasks on their own (~15 min.)
 
-**Cohort 1 (50 Veterans)**
-Participants must have completed both of the following tasks at least once in the past 12 months:
-- manually entered health vitals on My HealtheVet (e.g., blood pressure, blood sugar, body temperature, weight, heart rate, pain level, pulse oximetry, respiratory rate)
-- viewed their account activity history on My HealtheVet
+**Group 1 (50 Veterans - MHV Users)**
+Veterans with an active My HealtheVet (MHV) account who have logged in at least once in the past year.
 
-**Cohort 2 (50 Veterans)**
-Participants must not have experience with either of the following tasks in the past 12 months:
-- manually entering health vitals on My HealtheVet.
-- viewing their account activity history on My HealtheVet.
+**Group 2 (50 Veterans - Non-MHV Users)**
+Veterans who do **not** have a My HealtheVet (MHV) account.
 
 **Screener Questions:**
 1. Do you currently receive VA healthcare benefits?
 - a. Yes (Continue)
 - b. No (Exclude)
 
-2. Do you have a My HealtheVet (MHV) account?
-- a. Yes (Continue)
-- b. No (Exclude)
+2. Do you have an My HealtheVet (MHV) account?
+- a. Yes (Qualifies for Group 1)
+- b. No (Qualifies for Group 2)
 
-3. Have you accessed your My HealtheVet account at least once in the past 12 months?
-- a. Yes (Continue)
-- b. No (Exclude)
+**Questions 3 and 4 are post-test questions designed to collect participant characteristic data only. Do not use the following questions for screening or exclude participants based on their responses.**
 
-4. In the past 12 months, have you manually entered your health vitals on My HealtheVet?
-(Examples include blood pressure, blood sugar, body temperature, weight, heart rate, pain level, pulse oximetry, respiratory rate.)
-a. Yes (Proceed to Question 5)
-b. No (Proceed to Question 6)
+3. In the past 12 months, have you recorded your health vitals on My HealtheVet or the Share My Health Data App? *(Examples include blood pressure, blood sugar, body temperature, weight, heart rate, pain level, pulse oximetry, respiratory rate.)*   
+- a. Yes 
+- b. No 
 
-5. In the past 12 months, have you viewed your account activity history on My HealtheVet?
-- a. Yes (Qualifies for Cohort 1)
-- b. No (Proceed to Question 6)
-
-6. If you answered “No” to both Questions 4 and 5, you qualify for Cohort 2.
-
-**Contingency Plan for Recruitment:*
-If, after two weeks, Perigean is unable to secure enough participants meeting the full criteria for Cohort 1 (i.e., experience with both manually entering health vitals and viewing account activity history), then recruitment should proceed with participants who have experience with at least one of these tasks
-
+4. In the last 12 months, have you viewed details about logins or changes made in your My HealtheVet account? *(Examples includee seeing who accessed your account, what changes were made to your account, and when information was viewed.)*
+- a. Yes 
+- b. No
+  
 ## Length of Sessions  
 - Unmoderated  
 - Aim for ~15 minutes per session
 
 ## Timeline  
-- **3/6:** Finalize research plan  
+- **3/6:** Researh plan peer review
 - **3/7:** Submit recruitment request 
-- **3/9 - 3/10:** ReOps & Perigean review 
-- **3/13:** Tree test launch (ongoing until recruitment target is met)  
+- **3/10:** ReOps & Perigean review
+- **3/10 - 3/11**: Finalize plan and complete Optimal Workshop study
+- **3/11 - 3/12**: Peregiean kick-off 
+- **3/17:** Target launch date  
 
 ## Research Sessions  
-- Planned test launch date: March 13, 2025  
+- Planned test launch date: March 17, 2025
+- Duration: Ongoing until the participant threshold is met.
 
 ## Team Roles  
 - Researcher: Athena Bozak  
