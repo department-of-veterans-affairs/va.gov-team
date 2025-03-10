@@ -14,6 +14,7 @@ What metrics-based criteria will you look at before advancing rollout to the nex
      
 - Index error rate: < 2.5%
 - Download error rate: < 0.3%
+- Call center complaints: 0
 
 ### Results:  
 
