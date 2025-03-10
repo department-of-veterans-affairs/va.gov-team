@@ -15,7 +15,7 @@ This document serves as a resource for future work, ensuring that our team and f
 * [High-level performance and adoption metrics for the health portal](#metrics)
 * [Design and research resources](#design)
 * [Engineering resources](#engineering) 
-* [Quality Assurance](#QA)
+* [Quality Assurance](#qa)
 
 ## <a name="background"></a>Background of the My HealtheVet transition<be>
 
@@ -135,8 +135,9 @@ You can learn more about getting started with research at VA here: [Research at 
 
 For more documentation and [resources for developers, go here](https://design.va.gov/about/developers/) 
 
-## <a name="QA"></a>Quality Assurance<be>
+## <a name="qa"></a>Quality Assurance<be>
 
+<a name="background"></a>Background of the My HealtheVet transition<be>
 You will want to verify and validate your product in one of the standard Platform environments.
 
 Please see [developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) to learn more about quality assurance. 
