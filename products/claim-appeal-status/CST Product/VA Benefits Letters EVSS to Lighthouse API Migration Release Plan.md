@@ -1,4 +1,4 @@
-# Phased rollout of back-end tables
+# Phased rollout 
 ## Phase I: Canary (1%)
 ### Planning: 
 Desired date range or test duration: 3/10-3/11 2025 
