@@ -118,8 +118,9 @@ This setup should help maintain data integrity while ensuring the Accreditation 
     - [x] `GET` paginated results from `/api/v2/accreditations/VeteranServiceOrganizations`
   - [x] What PII or PHI will be transmitted to/from the external systems? Representative and Organization data is transmitted from the Accrediation API but all of the information is public and is the content that is served in our Find a Representative search results.
 - Background jobs
-  - [ ] List any required background processing
-  - [ ] Describe error and dead letter handling
+  - [x] List any required background processing
+    - [x] The `Veteran::Organizations::QueueUpdates` and `Veteran::Representatives::QueueUpdates` Sidekiq jobs will be a replaced by new Sidekiq job that iterates through the 4 new Accrediation API endpoints, diffs each record against its corresponding record in our tables, and batches chunks of records to the existing `Veteran::Organizations::Update` and `Veteran::Representatives::Update` Sidekiq jobs (which will need to be modified).
+  - [x] NA ~Describe error and dead letter handling~
 - Data storage
   - [x] Describe new or modified databases, tables or columns
     - [x] New table: `accredited_individuals`
@@ -193,12 +194,13 @@ This setup should help maintain data integrity while ensuring the Accreditation 
 - Libraries and dependencies
   - [x] List new or updated dependencies. None.
 - Metrics, logging, observability, alerting
-  - [ ] Identify key areas to monitor
+  - [x] We'll continue to get alerts in the OCTO [#benefits-representation-management-notifications](https://dsva.slack.com/archives/C06QG3C318D) channel which provides a summary of organization updates as well as error notifications for representative and organization updates.
 - Infrastructure and network changes
-  - [ ] List any changes or additions
+  - [x] We submitted a New BPE Connection request to ESECC so we can hit the new Accreditation API from vets-api staging and production environments. Our requests were approved and the network changes were performed many months ago.
 - Test strategy
-  - [ ] Describe automated, manual and user acceptance test strategy
-  - [ ] Describe required test data and test user accounts
+  - [x] We'll update the RSPEC unit tests that currently cover the XLSX/`veteran_representatives` and `veteran_organizations` table updates
+  - [x] We'll do manual testing locally and in staging before running the new Sidekiq job in production
+  - [x] NA ~Describe required test data and test user accounts~
 - Rollout plan
   - [ ] List scope of any feature flags
   - [ ] Identify other teams to coordinate with
