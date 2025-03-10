@@ -43,7 +43,7 @@ The MHV to VA.gov initiative consists of several different products, each with i
 
 ## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
 
-### My HealtheVet on VA.gov Landing page**
+### My HealtheVet on VA.gov Landing page
 
 In September 2023, the My HealtheVet on VA.gov landing page was launched ([see more about the landing page here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page)). 
 
@@ -77,6 +77,7 @@ For more information regarding **Milestone 2**, **the Oracle Health integration 
 
 **
 ## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
+
 
 ## <a name="design"></a>Design and research resources<be>
 
