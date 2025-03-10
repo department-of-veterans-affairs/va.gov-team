@@ -104,3 +104,6 @@ The current implementation of handling missing contact info **goes against** the
 
 ### **Steps to Resolve**
 - In `src/platform/user/profile/vap-svc/components/ProfileInformationEditView.jsx`, need to reposition the Update and Cancel buttons under `ProfileInformationActionButtons`
+
+### Considerations
+- Do we want to override/change how the orientation is currently defined in the platform form system?
