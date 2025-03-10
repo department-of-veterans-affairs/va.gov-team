@@ -15,7 +15,7 @@ This document serves as a resource for future work, ensuring that our team and f
 * [High-level performance and adoption metrics for the health portal](#metrics)
 * [Design and research resources](#design)
 * [Engineering resources](#engineering) 
-* [Quality Assurance (QA)](#QA)
+* [Quality Assurance](#QA)
 
 ## <a name="background"></a>Background of the My HealtheVet transition<be>
 
