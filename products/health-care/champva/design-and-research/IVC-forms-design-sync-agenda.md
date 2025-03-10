@@ -1,7 +1,7 @@
 # Running Design and Research Agenda
 
 ## March 10 2025
- - Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Rachel Pope, Renata Keck, Andrea Merril
+ - Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Rachel Pope, Renata Keck, Andrea Merril, Mike Mooney, Amanda Klaumeiser
      - ### Agenda Topics
       	- UX roadmap
       	- Review the UX roadmap
