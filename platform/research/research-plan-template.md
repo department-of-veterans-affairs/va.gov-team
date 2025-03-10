@@ -156,3 +156,7 @@ Please request enough dates and at ***least double the amount of time slots for 
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
 - Note-takers:	
 - Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.
+
+## Approvals
+- Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]
+- Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]
