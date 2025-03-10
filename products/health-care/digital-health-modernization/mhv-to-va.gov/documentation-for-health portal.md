@@ -47,15 +47,15 @@ The MHV to VA.gov initiative consists of several different products, each with i
 
 ## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
 
-**My HealtheVet on VA.gov Landing page** 
+_My HealtheVet on VA.gov Landing page_
 
 In September 2023, the My HealtheVet on VA.gov landing page was launched ([see more about the landing page here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page)). 
 
-**Four main health tools** 
+_Four main health tools_
 
 Using a phased approach, teams have systematically integrated the four major health tools — [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling),  [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/README.md), [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product), and [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md) — into My HealtheVet on VA.gov. An "opt-in" experience in production allowed Veterans to access these tools on VA.gov while enabling VA teams to monitor usage, validate performance, and refine the experience. 
 
-**Secondary Navigation** 
+_Secondary Navigation_ 
 
 On June 2024, the [Secondary Navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/README.md) was launched to enhance Veterans' awareness and navigation of health tools available within My HealtheVet on VA.gov. This improvement aims to reduce the likelihood of Veterans searching for healthcare-related tools in unauthenticated areas of VA.gov, such as the megamenu.
 
@@ -91,6 +91,7 @@ tool experiences. There will be some links embedded in the portal back to MHV fo
 that are not yet on VA.gov. There will still be links to My VA Health.
 
 <img width="889" alt="Screenshot 2025-03-05 at 5 39 19 PM" src="https://github.com/user-attachments/assets/9906d976-6bd8-4d3f-acca-41c46c2cde03" />
+
 
 
 ## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
