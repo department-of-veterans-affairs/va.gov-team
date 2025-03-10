@@ -15,7 +15,7 @@ This document serves as a resource for future work, ensuring that our team and f
 * [High-level performance and adoption metrics for the health portal](#metrics)
 * [Design and research resources](#design)
 * [Engineering resources](#engineering) 
-
+* [Quality Assurance (QA)](#QA) 
 
 ## <a name="background"></a>Background of the My HealtheVet transition<be>
 
@@ -93,7 +93,7 @@ Design teams at VA use Figma to view, share, and collaborate on our work. Here a
 
 - [VA design system](https://www.figma.com/files/team/1278375444205744118/project/105082786/VA-Design-System?fuid=1094287939207433857)
 
-**More specific information on the the VA design system can be found on the [Getting started with design.va.gov](design.va.gov)**
+More specific information on the the VA design system can be found on the [Getting started with design.va.gov](design.va.gov)
 
 _Health specific_ 
 
@@ -134,3 +134,11 @@ You can learn more about getting started with research at VA here: [Research at 
 - [My HealtheVet on VA.gov - API logic diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717177396025/367057c4a9219404c3b7080e71210082b3c65771?sender=u24af215c7d9bf806b8545488) 
 
 For more documentation and [resources for developers, go here](https://design.va.gov/about/developers/) 
+
+## <a name="QA"></a>Quality Assurance (QA)<be>
+
+You will want to verify and validate your product in one of the standard Platform environments.
+
+Please see [developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) to learn more about quality assurance. 
+
+The staging environment (https://staging.va.gov/) is an essential tool to review work for teams. You can see a [list of staging credentials in the sensative repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/15c8f93da2a19bbe38705cfbde1179a6c36e25a8/Administrative/vagov-users/mvi-staging-users.csv#L18) that allows you to sign in to https://staging.va.gov to review work. 
