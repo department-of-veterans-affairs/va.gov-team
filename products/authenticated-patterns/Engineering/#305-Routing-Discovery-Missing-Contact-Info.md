@@ -31,6 +31,10 @@ The current implementation of handling missing contact info **goes against** the
 - **Actual:** When you click the Back browser button, you have to click TWICE. After you click twice, it completely takes you out of the form and takes you back to wherever you were BEFORE getting into the form. 
 - **Expected:** Clicking **Back should return to the last page the user was at**. 
   - Might be multiple history entries being added during navigation.
+ 
+### **4️⃣ Update/Cancel buttons orientation on Edit pages**
+- **Actual:** Update (left) Cancel (right)
+- **Expected:** Button order should likely follow "Back" and "Continue", which is standard for other VA.gov form flows.
 
 ---
 
@@ -91,5 +95,12 @@ The current implementation of handling missing contact info **goes against** the
 ### **Steps to Resolve**
 - Add a popstate event listener in ContactInfoLoader.jsx that updates the history stack when the browser's back button is clicked. Popstate is triggered when a user navigates through their browser history and help track and manage navigation behavior properly. 
 
+---
 
+## **🔴 Issue #4: Update/Cancel buttons orientation on Edit pages**
 
+### **Observations in the Code**
+- Since this button orientation is defined in the platform `ProfileInformationEditView.jsx` file, it suggests that this is an established way of displaying the buttons and is most likely being used in other forms this way.
+
+### **Steps to Resolve**
+- In `src/platform/user/profile/vap-svc/components/ProfileInformationEditView.jsx`, need to reposition the Update and Cancel buttons under `ProfileInformationActionButtons`
