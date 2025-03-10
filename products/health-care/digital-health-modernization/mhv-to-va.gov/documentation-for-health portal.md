@@ -101,6 +101,14 @@ that are not yet on VA.gov. There will still be links to My VA Health.
 
 **Figma** 
 
+Design teams at VA use Figma to view, share, and collaborate on our work.
+
+**VA design system** 
+
+- [VA design system](https://www.figma.com/files/team/1278375444205744118/project/105082786/VA-Design-System?fuid=1094287939207433857)
+
+**More specific information on the the VA design system can be found on the [Getting started with design.va.gov](design.va.gov)**
+
 **Health specific** 
 
 - [My HealtheVet - Portal](https://www.figma.com/files/team/1278375444205744118/project/176500480/MHV---Portal?fuid=1094287939207433857) (For more general projects across the portal - including but not limited to: **The secondary navigation** and **My HealtheVet on VA.gov laning page.**) 
@@ -109,9 +117,6 @@ that are not yet on VA.gov. There will still be links to My VA Health.
 - [My HealtheVet - Meds & Devices](https://www.figma.com/files/team/1278375444205744118/project/176500922/MHV---Meds-%26-Devices?fuid=1094287939207433857)
 - [My HealtheVet - Messages](https://www.figma.com/files/team/1278375444205744118/project/198497820/MHV---Messages?fuid=1094287939207433857) 
 
-**VA design system** 
-
-- [VA design system](https://www.figma.com/files/team/1278375444205744118/project/105082786/VA-Design-System?fuid=1094287939207433857) 
 
 
 ## <a name="engineering"></a>Engineering resources<be>
