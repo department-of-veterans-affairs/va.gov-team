@@ -25,15 +25,16 @@ Some of the items below may not apply to your work--that's okay. You may not be 
 - Internal API changes
   - [x] NA ~List new or modified APIs in `vets-api`~
   - [x] Are you deprecating or removing any APIs? No.
-  - [x] NA ~Do you have API documentation?!
+  - [x] NA ~Do you have API documentation?~
   - [x] NA ~Describe expected call patterns~
 - External API changes
-  - [x] List new or modified APIs for upstream or external systems. GCLAWS Accediation API
+  - [x] List new or modified APIs for upstream or external systems. OGC's Accediation API
   - [x] Describe expected call patterns
-    - [x] Endpoint 1
-    - [x] Endpoint 2
-    - [x] Endpoint 3
-    - [x] Endpoint 4
+    - Base URL: `https://ogccotst1.dva.va.gov:4501`
+    - [x] `GET` paginated results from `api/v2/accreditations/Agents`
+    - [x] `GET` paginated results from `api/v2/accreditations/Attorneys`
+    - [x] `GET` paginated results from `api/v2/accreditations/Representatives`
+    - [x] `GET` paginated results from `api/v2/accreditations/VeteranServiceOrganizations`
   - [x] What PII or PHI will be transmitted to/from the external systems? Representative and Organization data is transmitted from the Accrediation API but all of the information is public and is the content that is served in our Find a Representative search results.
 - Background jobs
   - [ ] List any required background processing
