@@ -22,3 +22,4 @@ Create a new 0781 online form that will match the newest paper version of the PD
 - [Draft - 0781 Field Mapping Tracker](https://docs.google.com/spreadsheets/d/1pdJ5W-dJ56ysxrtkWl8d6Rsurf2nxXDqb8-7C9oGwcg/edit?gid=354068332#gid=354068332)
 - [Final -0781 PS Field Mapping.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/0781%20Paper%20Sync/0781%20PS%20Field%20Mapping.md)
 - [Final - 0781 PS New SubURL.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/0781%20Paper%20Sync/0781%20PS%20New%20SubURL.md)
+- [0781 Paper Sync Staging Manual Testing](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-526EZ-0781-mental-health.md) 
