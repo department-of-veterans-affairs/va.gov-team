@@ -1,29 +1,44 @@
 # Staging Review QA Artifacts for Mobile Maps Collab Cycle
 
+## [QA Standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards) met in this doc
+- [x] [Test plan](#test-plans-by-feature)
+- [x] [Traceability reports](#traceability-reports)
+- [x] [E2E test participation](#e2e-tests-per-feature)
+- [x] [Unit test coverage](#unit-test-coverage)
+- [x] [Endpoint monitoring](#endpoint-monitoring)
+- [x] [Logging silent failures](#silent-failures)
+
 ## Overview of app and QA risks
 
-The adjustments to the mobile map can be broken up into two types: 1) additions (pin selection, selected result below the map, and TTY number), 2) change (move from tabs to segmented control). In effect, the additions and changes make clicking on a map pin have an action (approximates current behavior on desktop/tablet with improvements for mobile), and replaces the outdated and problematic react tabs components that were not being updated (external dependencies and not in line with USWDS). The addition of the TTY number to results allows users to click that number in accordance with guidance from DST and USWDS.
+The adjustments to the Facility Locator mobile map can be broken up into two types: 
+1. Additions: pin selection, selected result below the map, and TTY number
+2. Changes: move from tabs to segmented control.
+
+In effect, the additions and changes make clicking on a map pin have an action (approximates current behavior on desktop/tablet with improvements for mobile), and replaces the outdated and problematic react tabs components that were not being updated (external dependencies and not in line with USWDS). The addition of the TTY number to results allows users to click that number in accordance with guidance from DST and USWDS.
 
 ### Additions risk and complexity: 
 
 **Pin Selection / selected result display below the map**
-Complexity: this feauture has the highest complexity of the changes since it deals with mapbox map behavior and changes to interactions. Since clicking on the map pins before did not work, the change requires that a few pieces of code were reorganized. The reorganization improved compartmentalization of pieces and testsability. E2E testing was significantly improved and increased for mobile map features as a result. The feature of reusing result items for the item appearing below the map means that no QA concerns were added. The testing of the ResultMapper that was contained into a separate function was significantly improved over the current state. No new API interactions occur.
+Complexity: this feature has the highest complexity of the changes since it deals with mapbox map behavior and changes to interactions. Since clicking on the map pins before did not work, the change requires that a few pieces of code were reorganized. The reorganization improved compartmentalization of pieces and testability. E2E testing was significantly improved and increased for mobile map features as a result. The feature of reusing result items for the item appearing below the map means that no QA concerns were added. The testing of the ResultMapper that was contained into a separate function was significantly improved over the current state. No new API interactions occur.
 
 Risk: The risk is minimal since it doesn't change the structure of the application, and simplifies testing and organization.
 
 **TTY**
-Complexity is very low and risk is equally very low. This is just adding a va-telephone component
+In Facility Locator search results, va-telephone component was added for TTY phone number. Complexity is very low and risk is equally very low. 
+
+We got additional feedback about how TTY is represented in search results, and will modify that in the future to align with guidance, under [#20395](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20395).
 
 ### Changes risk and complexity
 
-**Tabs -> Segmented Control**
-Complexity and Risk: Moderate complexity, though it no longer relies on external dependencies to construct the tabs so we reduce risk that way. Risk of the changes are minimized because of restructuring that happened elsewhere with compartmentalization of the map rendering. So the risk of anything changing for QA and accessibility and funcitonality is very low.
+**Map/List view Tabs now use Segmented Button group (experimental design pattern)**
+Complexity and Risk: Moderate complexity, though this feature no longer relies on external dependencies to construct the tabs so we reduce risk that way. Risk of the changes are minimized because of restructuring that happened elsewhere with compartmentalization of the map rendering. So the risk of anything changing for QA and accessibility and functionality is very low.
 
 ## Test plans (by feature)
+We developed this iteration as three smaller features, each tested & merged independently, but all hidden by the same flipper. Test plans rode along with each feature ticket: 
 
-- [x] [add TTY to search results](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18480)
-  - Presence of accessibility feature (not present previously)
-  - [x] [Run on 1/30/2025]()
+- [x] Ticket: [add TTY to search results](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18480)
+  - [Test plan articulated in PR](https://github.com/department-of-veterans-affairs/vets-website/pull/34322) - Run on 1/30/2025
+  - Validated presence of accessibility feature (not present previously)
 - [x] [Change tabs to segmented button group](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20153)
   - Removes react-tabs (not a USWDS compliant / VA DST component) and now uses DST segmented control component
   - [x] [accessibility and functional testing run on 2/3/2025](https://github.com/department-of-veterans-affairs/vets-website/pull/34468#issuecomment-2634214377)
@@ -35,11 +50,12 @@ Complexity and Risk: Moderate complexity, though it no longer relies on external
 
 ## Traceability reports
 
+Traceability is not directly reportable for this feature set. 
 If changes don't pass automated regression tests (as in cypress e2e tests or unit tests) we catch those immediately. For manual test-plan runs, we facilitate them on a per PR/feature basis so we know what changes cause failure.
 
 ## E2E tests (per feature)
 
-All e2e tests now test interactions of all potential flipper and on/off states
+All e2e tests now test interactions of all potential flipper and on/off states.
 
 ### Add TTY
 
@@ -96,4 +112,4 @@ All Endpoints (`/facilities_api/v2/va/**` and `/facilities_api/v2/ccp`) are moni
 
 ## Silent failures
 
-Currently we do not have silent failures (besides a silent failure that is being handled in an after a silent failures audit and adding a visible failure warning and logging -- unrelated to this staging review).
+Currently we do not have silent failures. 
