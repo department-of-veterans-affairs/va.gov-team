@@ -13,6 +13,11 @@ Product: Accredited Representative Portal (ARP)
 
 Type of Research: User interview
 
+[Presentation deck](https://dvagov.sharepoint.com/:p:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Claims%20submission/Research/2025%2002%20VSO%20feedback%20on%20QuickSubmit/QuickSubmit%20VSO%20feedback%20research%2002%202025.pptx?d=w769fbae97ee84785bd31d2498d81d5d7&csf=1&web=1&e=6TFsrK)
+
+[Presentation recording](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Claims%20submission/Research/2025%2002%20VSO%20feedback%20on%20QuickSubmit/Accredited%20Rep%20Facing%20Research%20Shareout_%20VSO%20feedback%20on%20QuickSubmit-20250310_153154-Meeting%20Recording.mp4?csf=1&web=1&e=Degtof)
+
+
 Jump to:
 
 - [Background](#background)
