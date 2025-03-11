@@ -14,6 +14,8 @@ You can currently reach Ask VA at [ask.va.gov](https://ask.va.gov/). By end of M
 - Launch date: June 30, 2025
 
 #### Objectives and key results (OKRs)
+Objectives and Key results (OKRs) help us measure success of specific targeted objectives for a specific initiative or time period.
+
 This initiative aligns with the following 2025 OCTO OKRs: 
 - Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
    - Key result 1 (Satisfaction): Improve satisfaction with our web and mobile products by 5 points.
