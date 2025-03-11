@@ -41,6 +41,7 @@ The OCTO Login & Identity team has been tasked with validating a user need aroun
 - How do court-appointed guardians manage their Veterans' care now? What do they manage (eg. just health care; other benefits)?
 - What are the consequences if we do not build delegate access?
 - Can we leverage the existing IAM delegate tool? If not, what do we need to build?
+- Where should the delegate designation and delegate <> Veteran relationship be stored?
 - Where should delegate consent forms be stored?
 
 ### Hypotheses
