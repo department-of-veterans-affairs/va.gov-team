@@ -122,4 +122,6 @@ Sunk cost is already sunk. We do not belive this is a compelling enough argument
 As mentioned in the bullet, there are many pages that are Custom Pages. It is not always a bad thing to use a Custom Page; the Forms Library pages have known functionality they cannot support, and in those cases a Custom Page is utilized. 
 
 ## Decision
-[Once the decision we'll add it to the document]
+03/11/2025 3:30 PM
+OCTO confirmed in our meeting that they agree and accept the team's recommendation to with Option 1b.  
+Lisa confirmed that this will impact a total of 12 modal. Two of which are for the file upload to remove the document. This feature has not been solutioned yet and will need to be planned later. The other 10 modals includes the Review and Submit page, which the team has not had time to review if there will be any impact to adding modals to that page. There is a potential risk that adding modals to Review and Submit may not be as easily feasible.  
