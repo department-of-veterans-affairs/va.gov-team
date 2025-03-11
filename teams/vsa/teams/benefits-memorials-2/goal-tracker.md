@@ -80,7 +80,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
+- [X] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
       
 
@@ -101,9 +101,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | ENG: Align with DMC IDT on technical requirements for Digital Debt Dispute initiative | N/A |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [ ] Ready to be sent for approvals
- - [ ] VA PO & COR sent the Sprint Goals
- - [ ] VA PO approved the Sprint Goals
+ - [X] Ready to be sent for approvals
+ - [X] VA PO & COR sent the Sprint Goals
+ - [X] VA PO approved the Sprint Goals
  - [ ] VA COR approved the Sprint Goals
  
 **_Delivery + Notes:_**
