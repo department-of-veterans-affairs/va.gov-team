@@ -1,4 +1,4 @@
-# ADR001 - 526ez embedded 0781 Paper Sync Destructive Actions Decsion Document
+# ADR001 - 526ez embedded 0781 Paper Sync Destructive Actions Decision Document
 March 11, 2025 
 
 ### Status
