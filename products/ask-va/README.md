@@ -11,7 +11,7 @@ You can currently reach Ask VA at [ask.va.gov](https://ask.va.gov/). By end of M
 
 ### Prefill topic questions with NLP data model
 - Dates: July 2024 to June 2025 
-- Expected launch: June 30, 2025
+- Launch date: June 30, 2025
 
 #### Objectives and key results (OKRs)
 This initiative aligns with the following 2025 OCTO OKRs: 
@@ -32,7 +32,7 @@ It also includes these OKRs:
 
 ### Move frontend to VA.gov
 - Dates: June 2023 to March 2025 
-- Expected launch: March 24, 2025
+- Launch date: March 24, 2025
 
 #### Objectives and key results (OKRs)
 This initiative aligns with the following 2025 OCTO OKRs: 
