@@ -34,7 +34,7 @@ Description: This uses a modal to prompt the user to confirm if they want to opt
 **Design Considerations**
 - (+) Follows common patterns found in other platforms and digital experiences
 - (+) Conforms to platform guidence surrounding how to handle destructive actions
-- (+) Allows users to change their responses at review and submit through experience native to the forms library (modal appears in the prompt item in review)
+- (+) Allows users to [change their responses at review and submit](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17518-112797&t=8oelFOHVaNWUTIaM-11) through experience native to the forms library (modal appears in the prompt item in review)
 
 **Technical Considerations**
 - (+) Pages are already built
@@ -71,7 +71,7 @@ Description: Allows for the user to confirm their intent to proceed and delete c
 **Design Considerations**
 - (-) Does not follow common patterns found in other digital experiences
 - (-) Controls living within the alert may cause confusion with page options and controls in the rest of the form page the alert shows up in
-- (+) Allows for users to change their responses at review and submit in a way that feels compatible with the existing review and revise experience.
+- (+) Allows for users to [change their responses at review and submit](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17518-117359&t=8oelFOHVaNWUTIaM-11) in a way that feels compatible with the existing review and revise experience.
 
 **Technical Considerations**
 - (-) Requires additional technical discovery
@@ -84,7 +84,7 @@ Description: This uses a new, conventional Forms Library page to prompt the user
 **Design Considerations**
 - (-) Does not follow common patterns found in other digital experiences
 - (-) Experience feels disruptive and tacked-on
-- (-) Introduces complexity when changing responses on the review page, requiring the injection of an additional item for review that requires “editing” to confirm the action (the injected page)
+- (-) Introduces complexity when changing [responses on the review page](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17518-121972&t=8oelFOHVaNWUTIaM-11), requiring the injection of an additional item for review that requires “editing” to confirm the action (the injected page)
 
 **Technical Considerations**
 - (+) Appears easiest/quickest from an engineering standpoint
