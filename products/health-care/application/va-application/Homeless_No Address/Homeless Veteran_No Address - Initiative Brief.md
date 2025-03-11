@@ -3,7 +3,8 @@
 - Design file - TBD
 
 ## Outcome Summary
-- We want to add an option on the 10-10EZ Form for homeless Veterans to indicate they do not have a home or mailing address. The form will default to the selected facility address and send a "bad address" indicator to the Enrollment System. 
+- We want to add an option on the 10-10EZ Form for homeless Veterans to indicate they do not have a home or mailing address.
+     - Today, the staff member will enter the facility address in VES and there is some sort of bad address indicator
 - This will allow more Veterans, who do not have an address they want to input, to successfully submit the EZ Form online.
 
 **Related/Associated product(s)**
