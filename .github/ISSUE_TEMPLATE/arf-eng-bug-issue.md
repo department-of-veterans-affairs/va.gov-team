@@ -16,8 +16,11 @@ type: 'Bug'
 2. 
 3. 
 
-### Expected vs Actual Behavior
-<!-- What you expected to happen vs what actually happened -->
+### Expected Behavior
+<!-- What you expected to happen; you can reference a Figma design -->
+
+### Actual Behavior
+<!-- What actually happened -->
 
 ### Severity
 <!-- Severity level of the bug (low, medium, high) -->
