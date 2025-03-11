@@ -40,8 +40,10 @@ Description: This uses a modal to prompt the user to confirm if they want to opt
 - (+) Pages are already built
 - (+) Forms library is the default thing to use
 - (+) Some technical research has already been conducted for this
-- (-) Requires refactoring/building around "hacking" the forms library — may be difficult to maintain
-- (-) Not been done before
+- (-) Requires refactoring/building around "hacking" the forms library 
+- (-) May be difficult to maintain, tech debt introduced 
+- (-) Additional risk in utilizing/exploiting non-standard functionality
+- (-) Not been done before, unknown unknowns likely exist
 
 
 ## Option 1b - [Confirm through modal prompt](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88727&t=mG6EsOEiWXdijIen-11) using custom page
