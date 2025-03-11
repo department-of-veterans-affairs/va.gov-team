@@ -1410,7 +1410,7 @@ Majority synthesis done post-its
 
 *Unicorns Team, Research Lead: Laura Cochran*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/sep-2017)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/archive/sep-2017)
 
 #### September 9-14: Vets.gov Baseline Research
 *Sitewide initiative, research lead: Elissa Frankle Olinsky*
