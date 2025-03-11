@@ -27,7 +27,7 @@ Despite being fully built out, My HealtheVet never fully utilized delegate acces
 
 ### Current need
 
-The OCTO Login & Identity team has been tasked with validating a user need around online delegate access. If that need is validated, our team needs to determine the MVP use case and user needs for delegate access, determine the unique security concerns and constraints for providing delegate access on VA.gov (vs. My HealtheVet, which only housed health care information), and build the infrastructure and end-user experience that will support delegate access on VA.gov.
+The OCTO Login & Identity team has been tasked with validating a user need around online delegate access. If that need is validated, our team needs to determine the MVP use case and user needs for delegate access, determine the unique security concerns and constraints for providing delegate access on VA.gov, and build the infrastructure and end-user experience that will support delegate access on VA.gov.
 
 ## User Problem Statement
 
