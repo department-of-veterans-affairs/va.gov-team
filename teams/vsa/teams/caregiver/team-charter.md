@@ -90,6 +90,7 @@ Health Products
 - Tamara Scott | tamara.scott@va.gov  -- Social Worker: Caregiver Support Program
 - Margaret Featherstone | Margaret.Featherston@va.gov  -- Caregiver Support Program Manager
 - Hollie-Lyn James | hollie.speer@va.gov -- Health System Specialist
+- Gaspare Caruso | gaspare.caruso@va.gov -- Clinical Program Coordinator
 - Drew DeRocco  | drew.derocco@va.gov -- PMO, scheduling
 
 **CARMA team/MuleSoft.Salesforce team** (End-to-End Testing POCs)
