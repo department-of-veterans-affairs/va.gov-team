@@ -18,6 +18,17 @@ Pending
 * Lisa Capaccioli
 
 ### Context
+
+Veterans may sometimes answer questions but later decide they no longer wish to provide those responses. To ensure their confidence, any changes they make should guarantee that the previously entered data will not be included in their submission.
+
+Our solution empowers users to modify their responses with the assurance that previously saved data will be removed. This gives them the confidence that their updated choices will reflect their intentions.
+
+To support this "destructive action," we must clearly notify users about the consequences of their changes. Additionally, we will provide them with an opportunity to confirm their decision or reconsider before the changes take effect.
+
+The proposed solution was to implement a modal that appears after the user has answered questions, opted to change their responses to indicate they no longer wish to answer, and clicked the "continue" action. The modal would prompt the user to either confirm or cancel their decision. Upon confirmation, only the data associated with that specific question would be deleted, and the user would proceed to the next page as part of the "continue" action.
+
+This solution posed several challenges that the team believed required further exploration, including identifying potential risks and assessing the level of effort involved.
+
 We have to support destructive actions in our new 0781 flow. This includes, allowing a user to opt-out of the flow entirely, or to decide against answering specific sub-componetns of the form flow. 
 It is possible, the user could have already answered some of these questions, and then navigated back, to the area that asked if they wanted to answer the questions or not. If they change their answer after answering some of the questions, we have to delete that data, and make sure it does not make its way onto the form(s)/submission(s).
 
