@@ -1,4 +1,4 @@
-**HCD Design Directory Read Me**
+**HCD Design File Read Me**
 
 (Created: 3/11/2025, L. Dawson)
 
