@@ -66,8 +66,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 | UX: Write VHA Payment History stakeholder and SME feedback survey and distribute for feedback | QP3 |--|3/7/25|Completed|
-| UX: Complete the Monthly Medallia report| QP3 |--|--|--|
-| UX: Create a Q3 2024 retrospective report for Custom Survey Medallia feedback | QP3 |--|--|--|
+| UX: Complete the Monthly Medallia report| QP3 |--|3/11/25|Completed|
+| UX: Create a Q3 2024 retrospective report for Custom Survey Medallia feedback | QP3 |--|3/11/25|Completed|
 | ENG: Enable the feature flag for the activation of the one VA debt letter presentation button (Staging) | QP1 |--|2/19/25|Completed|
 | ENG: Debts and copay data appear on the One VA debt letter (Staging) | QP1 |Awaiting PR approval|2/28/25|Blocked|
 | ENG: Payment history feature work has begun development | QP3 |--|2/28/25|Completed|
