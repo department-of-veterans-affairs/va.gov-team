@@ -18,18 +18,17 @@ Pending
 * Lisa Capaccioli
 
 ### Background
-Veterans may sometimes answer questions but later decide they no longer wish to provide those responses. To ensure their confidence, any changes they make should guarantee that the previously entered data will not be included in their submission.Our solution empowers users to modify their responses with the assurance that previously saved data will be removed. This gives them the confidence that their updated choices will reflect their intentions. To support this "destructive action," we must clearly notify users about the consequences of their changes. Additionally, we will provide them with an opportunity to confirm their decision or reconsider before the changes take effect.
+Veterans may sometimes answer questions but later decide they no longer wish to provide those responses. To ensure their confidence, any changes they make should guarantee that the previously entered data will not be included in their submission. Our solution empowers users to modify their responses with the assurance that previously saved data will be removed. This gives them the confidence that their updated choices will reflect their intentions. 
 
 The proposed solution was to implement a modal that appears after the user has answered questions, opted to change their responses to indicate they no longer wish to answer, and clicked the "continue" action. The modal would prompt the user to either confirm or cancel their decision. Upon confirmation, only the data associated with that specific question would be deleted, and the user would proceed to the next page as part of the "continue" action.
 
-
-### The problem
 This solution posed several challenges that the team believed required further exploration, including identifying potential risks and assessing the level of effort involved.
 
-
+### The problem
+The standard Forms Library framework didn't support the flow as were intending to use it. Deleting data was generally restricted to only the pages the modal appeared on. Our solution was to delete data from within the 0781 flow. This meant customizing the Forms Library component. After careful deliberation and discussions, it was determined that to make this work it would mean "hacking" the form to do something that it was not originally intended for. Which may be a risk in the future to maintain. 
 
 ### Options Considered
-Here are the various options, with the pros and cons of each listed.
+Collboarating between the team engineers, designer, product, VFF team members, and engineers from other VABC teams, the team came up with some options for possible solutions and included both the pros and cons of each option to help OCTO be more informed and to support their decision.
 
 ## Option 1a - [Confirm through modal prompt](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88727&t=mG6EsOEiWXdijIen-11) through native form library pages & components
 Description: This uses a modal to prompt the user to confirm if they want to opt-out of, or remove answers they already provided, using the forms library pages and components.
