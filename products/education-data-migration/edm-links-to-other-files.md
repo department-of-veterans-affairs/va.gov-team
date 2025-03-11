@@ -1,23 +1,27 @@
 # Links to EDM GitHub files
 This page houses the links to the GitHub files that do not live in the EDM GitHub folder to allow for easier acccess.
 
-## Statement of Benefits
+## Statement of Benefits (Closed)
 - Closed March 2025 [Collaboration Cycle for Education Data Migration, Statement of Benefits #87676](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87676) SOB was live on VA.gov and did not need to go through the Collaboartion Cycle 
 - Closed December 2024 [Content and IA updates for Post-9/11 GI Bill Statement of Benefits tool #96163](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96163#issuecomment-2465793582)
 
 ## Yellow Ribbon Tool
 - [Collaboration Cycle for Education Data Migration, Yellow Ribbon Tool #90888](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90888)
 - [CAIA Intake for Yellow Ribbon Tool #92367](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92367)
-### Design Intent Feedback
+
+### Design Intent Feedback (Closed)
 - Closed January 2025 [Design Intent - IA Feedback #96852](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96852#event-15254368406) 
 - Closed January 2025 [Design Intent - Accessibility Feedback #96915](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96915#event-15270298759) 
-### Midpoint Review Feedback
+
+### Midpoint Review Feedback (Closed)
 - Closed January 2025 [Midpoint Review - Accessibility Feedback - Education Data Migration, Yellow Ribbon Tool #99571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99571#event-15736459684) 
 - Closed January 2025 [Midpoint Review - Content Feedback - Education Data Migration, Yellow Ribbon Tool #99563](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99563)
 - Closed January 2025 [Midpoint Review - IA Feedback - Education Data Migration, Yellow Ribbon Tool #99953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99953#event-15810387277) 
-### Research Submission Feedback
+
+### Research Submission Feedback (Closed)
 - [2025-01 Yellow Ribbon Program info in CT #764](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/764)
-### Staging Review Feedback 
+
+### Staging Review Feedback (Closed)
 - Closed March 2025 **LAUNCH BLOCKING ISSUE** [QA Standards - Education Data Migration - Yellow Ribbon Tool #103549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103549#event-16390815495)
 - Closed March 2025 **LAUNCH BLOCKING ISSUE** [Staging Review finding: "On this page" links move viewport but don't move keyboard focus #103578](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103578#event-16405016469)
 - Closed March 2025 [Staging Review finding: Add header to cards #103579](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103579#event-16405016903) Not making the change: Reviewed this ticket with you during Staging Review and I called out that these cards cannot be unique because there can be more than one with the same college or professional school. We agreed to leave it as is.
@@ -26,6 +30,7 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 - Closed March 2025 [Staging Review finding: Acronym or Initialization without context #103583](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103583#event-16405018622)
 - Closed March 2025 [Staging Review finding: Use of "the" before "VA"  #103580](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103580#event-16405017312)
 - Closed March 2025 [Staging Review finding: Order of options on Degree Level dropdown doesn't match expected sequence #103577](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103577#event-16405015903)
+
 ### Launch Prep
 - [Readiness Review [Education Data Migration, Yellow Ribbon Tool] #2269](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/2269) 
 - [YRT Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-data-migration/edm-yellow-ribbon-program-information-in-comparison-tool-release-plan.md)
@@ -58,24 +63,29 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
   I think option 1 would be the way to alleviate the issue, and that's what I advise. And also, I know that a lot of variables - including go-live timelines and engineering capacity - means that it's not always possible to do everything. Which is why, as part of option 2, I'd advise adding these changes to a future backlog if this isn't the time to implement them. My recommendation is check these two options with decision-makers so that Design has clear guidance on whether the scope can include adjusting the breadcrumb structure (which should solve most of the H1 length issue), or sticking with the current not-aligned approach for now and moving this change to the backlog.
 </details>
 
-### Design Intent Feedback
+### Design Intent Feedback (Closed)
 - Closed February 2025 [Design Intent - IA Feedback - Education Data Migration, WEAMS Public #98839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98839#event-15607359715)
 - Closed February 2025 [Design Intent - Accessibility Feedback - Education Data Migration, WEAMS Public #98857](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98857#event-15611083835)
 
-### Midpoint Review Feedback
+### Midpoint Review Feedback (Closed)
 - Closed February 2025 [Midpoint Review - Design Feedback - Education Data Migration, WEAMS Public #101444](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101444#event-16030284079) 
 - Closed February 2025 [Midpoint Review - IA Feedback - Education Data Migration, WEAMS Public #101584](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101584#event-16035612020) 
-- Closed February 2025 [Midpoint Review - Accessibility Feedback - Education Data Migration, WEAMS Public #101873](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101873#event-16084759168) 
+- Closed February 2025 [Midpoint Review - Accessibility Feedback - Education Data Migration, WEAMS Public #101873](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101873#event-16084759168)
+
+### Staging Review Feedback
 
 ## CT Homepage
 - [Collaboration Cycle EDM and VEBT team, GI Bill Comparison Tool homepage #98557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98557)
 - [CAIA Intake EDM & VEBT: Publishing a GI Bill Comparison Tool homepage #99990](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99990)
 
-### Design Intent Feedback
+### Design Intent Feedback (Closed)
 - Closed March 2025 [Design Intent - IA Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #99464](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99464#event-15708767113)
 - Closed March 2025 [Design Intent - Design Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #99543](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99543#event-15733018527)
 - Closed March 2025 [Design Intent - Accessibility Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #99573](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99573#event-15736614996)
-### Midpoint Review Feedback 
+
+### Midpoint Review Feedback (Closed)
 - Closed March 2025 [Midpoint Review - IA Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #102021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102021#event-16110612222)
 - Closed March 2025 [Midpoint Review - Design Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #101934](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101934#event-16096543265)
 - Closed March 2025 [Midpoint Review - Accessibility Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #102227](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102227#event-16133713720)
+
+### Staging Review Feedback
