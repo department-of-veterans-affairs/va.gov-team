@@ -58,6 +58,7 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 
 ### Product artifacts for 686/674
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692908527043/0da94b7ded52e8a943d798bcb8ae39697c2fb56f?wid=0-1702913614567)
+- [General testing plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/form_updates/general_testing_plan.md) for product updates
 
 ### Design artifacts
 - Design [readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/design/README.md)
