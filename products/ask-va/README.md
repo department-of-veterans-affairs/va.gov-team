@@ -1,17 +1,62 @@
-# Ask VA VA.gov team
-Ask VA (AVA) is an online portal that allows Veterans, caregivers, and supporting personnel in education, debt, loans, etc. to submit questions to VA and receive a secure message response. Currently, Ask VA  resides within a stand-alone Microsoft portal that is inconsistent with the VA design standards, is not mobile-friendly, and has accessibility issues.
+## Ask VA (VA.gov team)
+Ask VA (AVA) is a digital support channel for Veterans, family members and other submitters. You can use Ask VA to ask a question about education benefits, disability compensation, health care and many other topics. Ask VA should only be used for non-urgent needs.
 
-Ask VA on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystem to quickly and accurately answer users' questions. Users should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want Ask VA to feel part of a cohesive and user-centered approach to support.
+You can currently reach Ask VA at [ask.va.gov](https://ask.va.gov/). By end of March 2025, you'll be able to reach Ask VA on VA.gov at [va.gov/contact-us/ask-va](https://va.gov/contact-us/ask-va).
 
-Learn more about the [history of Ask VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/background.md).
+## Current initiatives
+|Initiatives|Status|Launch date|
+|:---|:---|:---|
+|Prefill topic questions with NLP data model|In-progress|June 30, 2025|
+|Move frontend to VA.gov|In-progress|March 24, 2025|
 
-## Where to find us 
+### Prefill topic questions with NLP data model
+- Dates: July 2024 to June 2025 
+- Expected launch: June 30, 2025
 
+#### Objectives and key results (OKRs)
+This initiative aligns with the following 2025 OCTO OKRs: 
+- Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
+   - Key result 1 (Satisfaction): Improve satisfaction with our web and mobile products by 5 points.
+
+It also includes these OKRs: 
+- Objective (Quicker form): Users complete the form in less time
+   - Key result (Time to submit form): Decrease time to submit form by x
+ - Objective (Higher engagement): Users successfully complete the form at a higher rate
+    - Key result (Form completion rate): Increase the percentage of successfully sent questions by 5 points
+
+|Key result|Baseline (ask.va.gov)|Key result after X months|
+|:---|:---|:---|
+|Satisfaction|January 2025: 23%|x|
+|Time to submit form|unknown|x|
+|Form completion rate|[May to October (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|x|
+
+### Move frontend to VA.gov
+- Dates: June 2023 to March 2025 
+- Expected launch: March 24, 2025
+
+#### Objectives and key results (OKRs)
+This initiative aligns with the following 2025 OCTO OKRs: 
+- Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.  
+   - Key result 1 (Satisfaction): Improve satisfaction with our web and mobile products by 5 points.
+
+It also includes these OKRs: 
+- Objective (Usability): Users complete the form more easily
+   - Key result (Form completion rate): Increase the percentage of successfully sent questions by 5 points
+   - Key result (Accurate routing): Increase percentage of questions that are routed successfully by submitters to 95%
+
+|Key result|Baseline (ask.va.gov)|After X months|
+|:---|:---|:---|
+|Satisfaction|January 2025: 23%|x|
+|Form completion rate|[May to October (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|x|
+|Accurate routing|[2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Determining%20Ask%20VA%20queue%20from%20question%20text.md#submitter-problem-statement-misrouting-and-form-burden): 93%|x|
+
+## Where to find us
 - DSVA Slack: [#ask-va-public](https://dsva.slack.com/archives/C05A2F6DEAE)
-- Github Repository: [department-of-veterans-affairs/ask-va](https://github.com/department-of-veterans-affairs/ask-va)
+- Github repository: [department-of-veterans-affairs/ask-va](https://github.com/department-of-veterans-affairs/ask-va)
+- Figma: [Ask VA team](https://www.figma.com/files/team/1278375444205744118/project/174974739/Ask-VA?fuid=1248985325385082769)
+- Mural: [Ask VA room](https://app.mural.co/t/departmentofveteransaffairs9999/r/1686859097688)
 
-## Who we are
-
+## Our team
 |Role|Assigned|Contact|
 |:---|:---|:---|
 |Product Owner (OCTO), Designer|Becky Phung||
@@ -25,3 +70,4 @@ Learn more about the [history of Ask VA](https://github.com/department-of-vetera
 |Engineer|Jacob Cheriathundam|jacob@docme360.com|
 |UX Designer|Thomas Michaud|thomas.michaud@oddball.io|
 |UX Researcher & Designer|Tyler Gindraux|tyler@bluetiger.digital|
+![image](https://github.com/user-attachments/assets/5539cbf8-d16d-4d38-a416-801dd1561d62)
