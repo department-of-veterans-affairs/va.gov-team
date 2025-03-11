@@ -1,12 +1,12 @@
 # Product Guides for Appointments on VA.gov
 
-Last Uploaded: February 27, 2025, Version 2.0
+Last Uploaded: March 11, 2025, Version 2.1
 > [!NOTE]  
 > - Blue highlights are for Community Care Scheduling feature not yet released
 > - Yellow highlights are for Submit Travel Reimbursement Claim feature not yet released
 
-- [Appointments.Product.Guide.pdf](https://github.com/user-attachments/files/19014480/Appointments.Product.Guide.pdf)
-- [Appointments.Product.Guide.docx](https://github.com/user-attachments/files/19014479/Appointments.Product.Guide.docx)
+- [Appointments.Product.Guide.pdf](https://github.com/user-attachments/files/19197620/Appointments.Product.Guide.pdf)
+- [Appointments.Product.Guide.docx](https://github.com/user-attachments/files/19197621/Appointments.Product.Guide.docx)
 
 
 </br>
