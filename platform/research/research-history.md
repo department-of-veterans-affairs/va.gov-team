@@ -1478,7 +1478,7 @@ Majority synthesis done post-its
 #### May 15-18 - Rx Tracking and MHV Account Creation Usability
 *Kudos Team, Research Lead: Natalie Moore*
 - 5 Veterans
-- Research Folder
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/f10a856ce2fc15a4bbc77780ef3ab18c2eb39179/products/identity/login/mhv/mhv-account-creation_2017)
 
 #### May 10-12 - GI Bill Enrollment Status
 *Unicorns Team, Research Lead: Laura Cochran*
