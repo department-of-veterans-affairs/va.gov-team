@@ -1415,7 +1415,7 @@ Majority synthesis done post-its
 #### September 9-14: Vets.gov Baseline Research
 *Sitewide initiative, research lead: Elissa Frankle Olinsky*
 - 6 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/discovery/2017-vso/output/journey-map/vso-journey-disability-claim-11x17-10.20.17.pdf)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/archive/discovery/2017-vso/output/journey-map/vso-journey-disability-claim-11x17-10.20.17.pdf)
 
 ### August 2017
 
