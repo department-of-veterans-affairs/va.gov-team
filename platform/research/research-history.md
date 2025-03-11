@@ -1364,7 +1364,7 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### December 6-21: Scheduling Accessibility/Usability Research
 *Scheduling Sprint Team, research leads: Jeff Barnes & Lauren Alexanderson*
 - 6 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/research/2017-studies/access-usability)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/mobile-app-discovery/research/access-usability)
 
 #### Homepage Refresh Usability Research
 
