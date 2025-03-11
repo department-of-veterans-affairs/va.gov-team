@@ -1,7 +1,7 @@
 ---
 name: Fed. engineer PR approver checklist
 about: Checklist to ensure you are prepared to become a PR approver for your team's code
-title: ''
+title: 'PR approver checklist for [name of federal engineer]'
 labels: ['']
 assignees: ''
 ---
