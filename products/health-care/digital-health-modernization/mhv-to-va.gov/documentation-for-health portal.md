@@ -55,7 +55,7 @@ Using a phased approach, teams have systematically integrated the four major hea
 
 On June 2024, the [Secondary Navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/README.md) was launched to enhance Veterans' awareness and navigation of health tools available within My HealtheVet on VA.gov. This improvement aims to reduce the likelihood of Veterans searching for healthcare-related tools in unauthenticated areas of VA.gov, such as the megamenu.
 
-**As of December 2025, all four of the essential health tools are now fully available on VA.gov.** 
+**As of December 2024, all four of the essential health tools are now fully available on VA.gov.** 
 
 ## <a name="2025goals"></a>Where are we going? - 2025 goals/key milestones<be>
 
