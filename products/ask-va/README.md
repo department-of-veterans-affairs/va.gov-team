@@ -19,9 +19,9 @@ This initiative aligns with the following 2025 OCTO OKRs:
    - Key result 1 (Satisfaction): Improve satisfaction with our web and mobile products by 5 points.
 
 It also includes these OKRs: 
-- Objective (Quicker form): Users complete the form in less time
+- Objective: Users complete the form in less time
    - Key result (Time to submit form): Decrease time to submit form by x
- - Objective (Higher engagement): Users successfully complete the form at a higher rate
+ - Objective: Users successfully complete the form at a higher rate
     - Key result (Form completion rate): Increase the percentage of successfully sent questions by 5 points
 
 |Key result|Baseline (ask.va.gov)|After X months|
@@ -40,7 +40,7 @@ This initiative aligns with the following 2025 OCTO OKRs:
    - Key result 1 (Satisfaction): Improve satisfaction with our web and mobile products by 5 points.
 
 It also includes these OKRs: 
-- Objective (Usability): Users complete the form more easily
+- Objective: Users complete the form more easily
    - Key result (Form completion rate): Increase the percentage of successfully sent questions by 5 points
    - Key result (Accurate routing): Increase percentage of questions that are routed successfully by submitters to 95%
 
