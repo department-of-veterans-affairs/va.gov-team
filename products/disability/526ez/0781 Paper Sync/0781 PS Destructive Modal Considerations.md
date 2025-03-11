@@ -1,12 +1,10 @@
-# ADR001 - 526ez embedded 0781 Paper Sync Destructive Actions
-
-(from [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/96040d545254651a83e3d1d2d28d2c41ee41f224/products/va-mobile-app/engineering/adr/_template.md?plain=1))
+# ADR001 - 526ez embedded 0781 Paper Sync Destructive Actions Decsion Document
+March 11, 2025 
 
 ### Status
 Pending
 
-
-### Decider(s)
+### Team members
 * Kyle Soskin @kylesoskin
 * Emily Theis
 * Sam Wiley
@@ -17,7 +15,7 @@ Pending
 * Ruben Sun
 * Lisa Capaccioli
 
-### Background
+## Background
 Veterans may sometimes answer questions but later decide they no longer wish to provide those responses. To ensure their confidence, any changes they make should guarantee that the previously entered data will not be included in their submission. Our solution empowers users to modify their responses with the assurance that previously saved data will be removed. This gives them the confidence that their updated choices will reflect their intentions. 
 
 The proposed solution was to implement a modal that appears after the user has answered questions, opted to change their responses to indicate they no longer wish to answer, and clicked the "continue" action. The modal would prompt the user to either confirm or cancel their decision. Upon confirmation, only the data associated with that specific question would be deleted, and the user would proceed to the next page as part of the "continue" action.
@@ -89,12 +87,9 @@ Description: This uses a new page, proceeding the choice to discard data, to pro
 
 
 ## Contractor Recommendation
-### Recommendation
+[recomemndation here]
 ### Reasoning
+[why we are making this recommendation here]
 
-
-### Decision
-TBD
-
-### Consequences
-TBD
+## Decision
+[Once the decision we'll add it to the document]
