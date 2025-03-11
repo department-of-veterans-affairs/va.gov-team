@@ -184,7 +184,7 @@ Meeting Name | About | Frequency | Joining
 **VA Accessibility Specialist Weekly Sync** | All accessibility specialists meet for community support and to discuss group topics | Thursdays at 1:00 ET | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [accessibility weekly sync Zoom call](https://adhocteam-us.zoom.us/j/89015804002?pwd=WCtWaUt4eWtETThVQ3VSTzFmendtQT09). 
 **VA Accessibility Specialist Office Hours** |`Optional` accessibility specialist only calls for us to support one another | Fridays at 11:00 a.m. ET | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [accessibility office hours Zoom call](https://adhocteam-us.zoom.us/j/85623586331?pwd=SEFhUUFzckMyN2RXSXA0STFseVZIdz09).  
 **VA.gov 508 Monthly** |Opportunity to chat with folks from VA 508 Office, Veterans from Blinded Veterans Association and National Association of Blinded Veterans | 3rd Wednesday at 4:00 ET | [Request to join by reaching out to Martha, OCTO's accessibility lead](https://dsva.slack.com/archives/D04NHP2FGEP) 
-**ADE Office Hours** |To be determined
+**ADE Office Hours** |Wednesdays at 3:00 ET | Teams can [sign up on Calendly](https://calendly.com/platform-office-hours/accessibility-office-hours) to RSVP.
 
 </details>
 
