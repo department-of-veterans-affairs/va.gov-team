@@ -24,7 +24,7 @@ It also includes these OKRs:
  - Objective (Higher engagement): Users successfully complete the form at a higher rate
     - Key result (Form completion rate): Increase the percentage of successfully sent questions by 5 points
 
-|Key result|Baseline (ask.va.gov)|Key result after X months|
+|Key result|Baseline (ask.va.gov)|After X months|
 |:---|:---|:---|
 |Satisfaction|January 2025: 23%|x|
 |Time to submit form|unknown|x|
