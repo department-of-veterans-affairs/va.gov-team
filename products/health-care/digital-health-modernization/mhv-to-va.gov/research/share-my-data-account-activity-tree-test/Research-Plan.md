@@ -32,7 +32,6 @@ Findings from this research will determine where users intuitively expect to fin
 - Where do MHV users expect to find **‘Share My Health Data’** within MHV on VA.gov?
 - Where do MHV users expect to find **‘Account Activity History’** within MHV on VA.gov?
 - How easily can users find the ‘Share My Health Data’ and ‘Account Activity History’ features within MHV on VA.gov, and what can their navigation patterns tell us about improving discoverability?
-- Does the labeling of the ‘Account Activity History’ link align with users’ expectations, or would alternative terminology improve clarity and findability? (Note: ‘Share My Health Data’ is an official OCC app, and its labeling cannot be tested.)
 
 ## Hypotheses  
 ### **Share My Health Data Link**  
