@@ -94,7 +94,7 @@ It is our recommendation that we go with Option 1b - [Confirm through modal prom
 
 ### Reasoning
 
-This option allows us to accomplish the original design, as already approved. in both functionality and visual design. 
+This option allows us to accomplish the original design, as already approved, in both functionality and visual design. 
 
 The negatives described are not blockers in our opinion. 
 
