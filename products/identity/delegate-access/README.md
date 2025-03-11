@@ -34,10 +34,10 @@ The OCTO Login & Identity team has been tasked with validating a user need aroun
 ### Questions
 
 - There are many kinds of delegates at VA. Where should we focus our MVP?
-- How do caregivers manage their Veterans' business at VA (Eg. online, over the phone, in-person, etc)? What do caregivers actually need to do on behalf of a Veteran?
+- How do caregivers manage their Veterans' business at VA (Eg. online, over the phone, in-person, etc)? What do caregivers actually do on behalf of Veterans?
 - What consent forms are needed to designate someone online delegate access?
 - How can we revoke access?
-- Is there a legally above-board way to grant delegate access to people who care for incapacitated Veterans? Does this population (eg. court-appointed guardians) need online access?
+- Is there a legally above-board way to grant delegate access to court-appointed guardians since the Veteran can not provide explicit consent? Does this population need online access?
 - How do court-appointed guardians manage their Veterans' care now? What do they manage (eg. just health care; other benefits)?
 - What are the consequences if we do not build delegate access?
 - Can we leverage the existing IAM delegate tool? If not, what do we need to build?
@@ -47,8 +47,6 @@ The OCTO Login & Identity team has been tasked with validating a user need aroun
 
 - The primary delegate access use case will be for caregivers. This population only needs to manage health care-related tasks on behalf of the Veteran they care for.
 - Caregivers do not actually need to see a(nother) Veteran's entire VA.gov account.
-
-## Challenges and Risks
 
 ## Scope
 
