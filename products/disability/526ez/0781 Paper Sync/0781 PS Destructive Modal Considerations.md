@@ -17,30 +17,16 @@ Pending
 * Ruben Sun
 * Lisa Capaccioli
 
-### Context
-
-Veterans may sometimes answer questions but later decide they no longer wish to provide those responses. To ensure their confidence, any changes they make should guarantee that the previously entered data will not be included in their submission.
-
-Our solution empowers users to modify their responses with the assurance that previously saved data will be removed. This gives them the confidence that their updated choices will reflect their intentions.
-
-To support this "destructive action," we must clearly notify users about the consequences of their changes. Additionally, we will provide them with an opportunity to confirm their decision or reconsider before the changes take effect.
+### Background
+Veterans may sometimes answer questions but later decide they no longer wish to provide those responses. To ensure their confidence, any changes they make should guarantee that the previously entered data will not be included in their submission.Our solution empowers users to modify their responses with the assurance that previously saved data will be removed. This gives them the confidence that their updated choices will reflect their intentions. To support this "destructive action," we must clearly notify users about the consequences of their changes. Additionally, we will provide them with an opportunity to confirm their decision or reconsider before the changes take effect.
 
 The proposed solution was to implement a modal that appears after the user has answered questions, opted to change their responses to indicate they no longer wish to answer, and clicked the "continue" action. The modal would prompt the user to either confirm or cancel their decision. Upon confirmation, only the data associated with that specific question would be deleted, and the user would proceed to the next page as part of the "continue" action.
 
+
+### The problem
 This solution posed several challenges that the team believed required further exploration, including identifying potential risks and assessing the level of effort involved.
 
-We have to support destructive actions in our new 0781 flow. This includes, allowing a user to opt-out of the flow entirely, or to decide against answering specific sub-componetns of the form flow. 
-It is possible, the user could have already answered some of these questions, and then navigated back, to the area that asked if they wanted to answer the questions or not. If they change their answer after answering some of the questions, we have to delete that data, and make sure it does not make its way onto the form(s)/submission(s).
 
-This is a destructive action that the user is initiating. VA guidance instructs to [prompt to confirm](https://design.va.gov/components/alert/#additional-reasons-to-consider-something-else:~:text=Destructive%20actions.%20If%20an%20action%20will%20result%20in%20destroying%20a%20user%E2%80%99s%20work%20(for%20example%2C%20deleting%20an%20application)%20use%20a%20more%20intrusive%20pattern%2C%20such%20as%20a%20confirmation%20modal%20dialogue%2C%20to%20allow%20the%20user%20to%20confirm%20that%20this%20is%20what%20they%20want.) before performing the destructive action. 
-
-We are trying to decide, how to best accomplish that.
-
-### Decision
-TBD
-
-### Consequences
-TBD
 
 ### Options Considered
 Here are the various options, with the pros and cons of each listed.
@@ -106,3 +92,10 @@ Description: This uses a new page, proceeding the choice to discard data, to pro
 ## Contractor Recommendation
 ### Recommendation
 ### Reasoning
+
+
+### Decision
+TBD
+
+### Consequences
+TBD
