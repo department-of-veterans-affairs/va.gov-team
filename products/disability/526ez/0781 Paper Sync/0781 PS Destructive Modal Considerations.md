@@ -90,13 +90,15 @@ Description: This uses a new page, proceeding the choice to discard data, to pro
 
 ## Contractor Recommendation
 
-It is our recommendation that we go with Option 1b - [Confirm through modal prompt](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88727&t=mG6EsOEiWXdijIen-11) using custom page
+It is our recommendation that we go with Option 1b - [Confirm through modal prompt](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88727&t=mG6EsOEiWXdijIen-11) using custom page.
 
 ### Reasoning
 
 This option allows us to accomplish the original design, as already approved, in both functionality and visual design. 
 
-The negatives described are not blockers in our opinion. 
+When compaing 1a vs 1b, option 1b we think is able to be done in less time, and also has less unknowns. The flexibility of a custom page, means we have more options available to solve any issues, where-as the rigidness of the forms library could potentially restrict us in being able to deliver quickly in 1a (as it already has). 
+
+Additionally, the negatives described are not blockers in our opinion. 
 
 - (-) Need to make page from scratch (not a huge lift, just additional effort)
 
