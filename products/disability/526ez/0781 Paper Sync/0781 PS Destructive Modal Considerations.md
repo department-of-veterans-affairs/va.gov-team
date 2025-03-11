@@ -89,9 +89,30 @@ Description: This uses a new page, proceeding the choice to discard data, to pro
 
 
 ## Contractor Recommendation
-[recomemndation here]
+
+It is our recommendation that we go with Option 1b - [Confirm through modal prompt](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88727&t=mG6EsOEiWXdijIen-11) using custom page
+
 ### Reasoning
-[why we are making this recommendation here]
+
+This option allows us to accomplish the original design, as already approved. in both functionality and visual design. 
+
+The negatives described are not blockers in our opinion. 
+
+- (-) Need to make page from scratch (not a huge lift, just additional effort)
+
+This negative is not a huge deal. 
+  
+- (-) Would not benefit from built-in accessibility functionality
+
+We belive this can be mitigated such that it is still accessibly built, just on a custom page, with a small bump in effort to review/confirm accessibilty. 
+  
+- (-) Sunk cost of existing efforts funneled into option 1a
+
+Sunk cost is already sunk. We do not belive this is a compelling enough argument to make us keep with option 1a. Plus we had to sink this effort, to arrive at where we are now. It gave us a better understanding of the forms library, modal, and how they interact (or do not interact).
+
+- (-) Not using the forms library pages / components is discouraged (but tons of pages with VA modals are custom pages)
+
+As mentioned in the bullet, there are many pages that are custom pages. It is not a bad thing to use a custom page, the forms library pages have known things they cannot support and in those cases using a custom page is utilized. 
 
 ## Decision
 [Once the decision we'll add it to the document]
