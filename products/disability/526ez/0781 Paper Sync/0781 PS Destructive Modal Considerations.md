@@ -23,7 +23,7 @@ The proposed solution was to implement a modal that appears after the user has a
 This solution posed several challenges that the team believed required further exploration, including identifying potential risks and assessing the level of effort involved.
 
 ### The problem
-The standard Forms Library framework didn't support the flow as were intending to use it. Deleting data was generally restricted to only the pages the modal appeared on. Our solution was to delete data from within the 0781 flow. This meant customizing the Forms Library component. After careful deliberation and discussions, it was determined that to make this work it would mean "hacking" the form to do something that it was not originally intended for. ("Hacking" meaning the code is custom built, not likely to be reused by other teams, and may be a risk in the future to maintain.) 
+The standard Forms Library framework didn't support the flow as we were intending to use it. Deleting data was generally restricted to only the pages the modal appeared on. Our solution was to delete data from within the 0781 flow. This meant customizing the Forms Library component. After careful deliberation and discussions, it was determined that to make this work it would mean "hacking" the form to do something that it was not originally intended for. ("Hacking" meaning the code is custom built, not likely to be reused by other teams, and may be a risk in the future to maintain.) 
 
 ### Options Considered
 Collboarating between the team engineers, designer, product, VFF team members, and engineers from other VABC teams, the team came up with some options for possible solutions and included both the pros and cons of each option to help OCTO be more informed and to support their decision.
