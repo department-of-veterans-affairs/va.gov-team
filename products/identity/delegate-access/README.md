@@ -5,12 +5,13 @@
 ## POCs
 **Slack channel**: [#identity](https://dsva.slack.com/channels/identity); [#sign-in-experience](https://dsva.slack.com/channels/sign-in-experience)
 
-#### Login & Identity team leads
-- Samara Strauss | OCTO Product Lead 
-- Tom Black | OCTO Engineering Lead 
-- Joelle Wells | Contractor Product Manager
-- Lainey Trahan | Contractor Product Manager
-- Joe Niquette | Contractor Engineering Lead
+|**Team member**|**Role**|
+|----------------|---------------|
+|Samara Strauss | OCTO Product Lead 
+|Tom Black | OCTO Engineering Lead 
+|Joelle Wells | Contractor Product Manager
+|Lainey Trahan | Contractor Product Manager
+|Joe Niquette | Contractor Engineering Lead
   
 ## Overview
 
@@ -32,9 +33,28 @@ The OCTO Login & Identity team has been tasked with validating a user need aroun
 
 ### Questions
 
+- There are many kinds of delegates at VA. Where should we focus our MVP?
+- How do caregivers manage their Veterans' business at VA (Eg. online, over the phone, in-person, etc)? What do caregivers actually need to do on behalf of a Veteran?
+- What consent forms are needed to designate someone online delegate access?
+- How can we revoke access?
+- Is there a legally above-board way to grant delegate access to people who care for incapacitated Veterans? Does this population (eg. court-appointed guardians) need online access?
+- How do court-appointed guardians manage their Veterans' care now? What do they manage (eg. just health care; other benefits)?
+- What are the consequences if we do not build delegate access?
+- Can we leverage the existing IAM delegate tool? If not, what do we need to build?
+- Where should delegate consent forms be stored?
+
 ### Hypotheses
 
+- The primary delegate access use case will be for caregivers. This population only needs to manage health care-related tasks on behalf of the Veteran they care for.
+- Caregivers do not actually need to see a(nother) Veteran's entire VA.gov account.
+
 ## Challenges and Risks
+
+## Scope
+
+### In-scope
+
+### Out of scope
 
 ## User Problem Statement
 
