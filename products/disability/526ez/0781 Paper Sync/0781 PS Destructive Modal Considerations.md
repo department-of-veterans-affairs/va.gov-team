@@ -23,7 +23,7 @@ The proposed solution was to implement a modal that appears after the user has a
 This solution posed several challenges that the team believed required further exploration, including identifying potential reliability/data integrity risks and assessing the level of effort involved.
 
 ### The problem
-The standard Forms Library framework doesn't support the flow as we intended to use it. Most importantly, it doesn't by default support deleting data captured on pages other than the one the user is currently viewing. As the pages were already built using the standard Forms Library pattern, we would have had to do some unconvetional/brittle code tricks to force this to work. Because this approach hadn't been taken before, it presented a lot of risk to maintainability, tech debt, and data integrity.
+The standard Forms Library framework doesn't support the flow as we intended to use it. Most importantly, it doesn't by default support deleting data captured on pages other than the one the user is currently viewing. As the pages were already built using the standard Forms Library pattern, we would have had to do some unconventional/brittle code tricks to force this to work. Because this approach hadn't been taken before, it presented a lot of risk to maintainability, tech debt, and data integrity.
 
 ### Options Considered
 Collboarating between team engineers, design, product, VFF team members, and engineers from other VABC teams, the team came up with some options for possible solutions, including both the pros and cons of each option to better inform OCTO and help support their decision making.
