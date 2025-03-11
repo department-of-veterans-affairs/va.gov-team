@@ -122,3 +122,121 @@ N = 1
 | 3 | Neither Agree nor Disagree | 4 |
 | 4 | Agree | 8 |
 | 5 | Strongly Agree | 33 |
+
+
+
+
+
+## 5. General VA Trust
+
+**Responses: 57**
+
+**Mean: 3.73**
+
+**Mode (most occurring):  Neither trust or distrust  (3)**
+
+|Score|Response|# of Responses|
+|--|--|--|
+| 1 | High level of distrust | 1 |
+| 2 | Modest level of distrust | 1 |
+| 3 | Neither trust or distrust | 24 |
+| 4 | Modest level of trust | 5 |
+| 5 | High level of trust | 16 |
+
+
+## 6. Trust in VA Commitment to Veterans
+**Responses:  57**
+
+**Mean: 4.16**
+
+**Mode:  High level of trust (5)**
+
+|Score|Response|# of Responses|
+|--|--|--|
+| 1 | High level of distrust | 3 |
+| 2 | Modest level of distrust | 2 |
+| 3 | Neither trust or distrust | 5 |
+| 4 | Modest level of trust | 13 |
+| 5 | High level of trust | 25 |
+
+
+There is a strong pattern of higher rating of Veteran trust in VA Commitment to Veterans than General VA Trust, across surveys filled out on the VA Debt Portal and Financial Management products (Financial Status Report). 
+
+
+# A11 Intercept Survey 
+Can pop up on all Debt Portal pages and FSR introduction page 
+(5% of visitors at least 60 seconds on page and doesn't reappear for 90 days) 
+
+## Please rate your experience with VA.gov today
+
+**31 Responses**
+**Mean: 2.67**
+**Mode: 5**
+
+
+
+## Why did you select that rating? 
+
+
+**Service Design Issues**
+
+**Unable to check status**
+
+I have paid on one of the prescription bills but it was not listed.  I found I needed another authentication way, but already have one. I have been trying for a month to get the ratings listing for both my husband, a vet, and myself and the website is always down.  So there is no way to check our statuses.
+
+
+**Taking too long for dependency claim.**
+
+# VA.gov VFS Questionnaire (blue button 'provide feedback' > self initiated)
+
+Appears on all VA.gov pages (blue button feedback)
+
+## What is your overall satisfaction with this site?
+
+
+**64 Responses**
+**Mean: 2.04**
+**Mode: 1**
+
+
+## What task were you trying to do today?
+
+
+**Service design issues**
+
+N = 5
+
+>send VA copies of my orders to active duty to suspend my va comp payments.
+
+>I just contacted the VA financial services regarding my medical copayment. The staff refuses to answer me on why the extra questions when identifying myself over the phone. The 1st two representatives were unprofessional. Is this what going back to the office looks like now for us Veterans?
+
+>I'm told I have a debt, but I'm also believe in owed for back pay to last year for 3 dependents. I'm requesting a review of this situation please.
+
+
+**Payment history lacking, timing discrepancy, cannot verify payment went through**
+
+N = 11
+
+>Tried to pay $15 charge and it looked like it went through "maybe" but now I look back in at my account after having to log back in and there is no sign the payment was applied.  Will check back in a day or two and keep an eye on my card account.  This is all a muddled mess that made me burn through ~5 of the backup codes for logins and wasted my time it seems...
+
+>Verify my copay. I always pay my copay bill right away, and it always is wrong when I look it up! One time I paid the bill thinking the web site was correct and it was not and the money was refunded. Why is this so hard to keep current?
+
+>Contest my copay that has already been paid on 25 February 2025! I have the damn receipt and I have signed up for the payment record keeping site! 
+
+
+**Paying multiple times**
+
+N  = 2
+
+
+**Wanting to see past statements**
+
+N = 1
+
+>Please provide an easy link to locate and download past statements.
+
+**New login difficulty**
+
+N = 2
+
+
