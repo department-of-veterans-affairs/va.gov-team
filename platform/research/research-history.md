@@ -1392,7 +1392,7 @@ Majority synthesis done post-its
 #### October 24-31: Scheduling Disoverability Research
 *Scheduling Sprint Team, research lead: Lauren Alexanderson, moderated by Melissa Schaff*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/research/2017-studies/discoverability)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/mobile-app-discovery/research/discoverability)
 
 ### September 2017
 
