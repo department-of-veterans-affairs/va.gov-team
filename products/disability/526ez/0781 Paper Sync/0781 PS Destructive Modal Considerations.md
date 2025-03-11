@@ -124,6 +124,6 @@ As mentioned in the bullet, there are many pages that are Custom Pages. It is no
 ## Decision
 03/11/2025 3:30 PM
 
-OCTO confirmed in our meeting that they agree and accept the team's recommendation to with Option 1b.  
+OCTO confirmed in our meeting that they agree and accept the team's recommendation to go with Option 1b.  
 
 Lisa confirmed that this will impact a total of 12 modal. Two of which are for the file upload to remove the document. This feature has not been solutioned yet and will need to be planned later. The other 10 modals includes the Review and Submit page, which the team has not had time to review if there will be any impact to adding modals to that page. There is a potential risk that adding modals to Review and Submit may not be as easily feasible.  
