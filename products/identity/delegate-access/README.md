@@ -60,6 +60,12 @@ The OCTO Login & Identity team has been tasked with validating a user need aroun
 - The primary delegate access use case will be for caregivers. This population only needs to manage health care-related tasks on behalf of the Veteran they care for.
 - Caregivers do not actually need to see a(nother) Veteran's entire VA.gov account.
 
+## Challenges and Risks
+
+- VA has a ton of delegate types. Needing to account for multiple delegate types or access nuances on VA.gov could quickly become complex and unwieldy.
+- VA.gov houses both health and benefit information. In order to give a person access to someone else's information, we need to make sure that proper consent is given and meets HIPAA and other privacy laws.
+- IAM has built a delegate tool, but IAM has a full roadmap and might not be able to develop and update that tool on the timeline we need them to.
+
 ## Backend
 
 (Add background backend documentation and links to other relevant documentation)
