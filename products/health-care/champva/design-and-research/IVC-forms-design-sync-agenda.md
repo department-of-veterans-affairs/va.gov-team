@@ -10,7 +10,17 @@
       	- discuss options for direct deposit content in FMP
       	- Identify any topics for stakeholder meeting with FMP team on Wednesday (this can be done async if we don't have time)
 
+   - ### Notes
+     	- UX roadmap
+     	  - Look through 1010d/OHI integration mocks as a team before declaring it ready for dev
+     	  - Premal: concerned about the length of the form and experience. Wants to make it as streamlined as possible. Jina has experience with unmoderated prototype testing in Optimal Workshop, will follow up with her about possibly running that.
+     	  - Amanda: interested in designing during a claim, having OHI embedded and prefilled with whatever is already in the system
+     	  - Action item: update the now/next/later to be more at the epics level to communicate initiatives in-progress
+     	  - Include the IA work on the OHI. This is important to resolve soon. 
 
+     	- Ongoing discussion: OHI interim solutions (update IA + static/intro pages?)
+     	- Discuss options for direct deposit content in FMP
+     	- Rescheduling design sync
 
 ## February 24 2025
  - Attendees: Jamie Fiore, Lois Lewis, Jina Ryu, Rachel Pope, Luis Simauchi
