@@ -6,11 +6,6 @@ labels: platform-initiative
 assignees: ''
 
 ---
-## Status
-_Update each sprint until completed_
-| Date | Status | Launch Date (see above) | Notes |
-| ----- | ------ | ------------------------- | ------ |
-| Date of update | not-started, in-progress, done | on-track, off-track | enter brief, blockers, dependencies, etc. |
 
 ## Problem Statement 
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
@@ -89,4 +84,4 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
 ## TODOs
 - [ ] Convert this issue to an epic
 - [ ] Add your team's label to this epic
-- [ ] Add this initiative to the [Digital Experience Product Board](https://github.com/orgs/department-of-veterans-affairs/projects/306?card_filter_query=label%3Acrew-platform) using [these instructions](https://vfs.atlassian.net/wiki/spaces/AP/pages/2120974387/Platform+Initiative+Guidelines+for+Digital+Experience+Product+Board)
+- [ ] Add this initiative to the [Platform Priorities Board](https://github.com/orgs/department-of-veterans-affairs/projects/306?card_filter_query=label%3Acrew-platform)
