@@ -12,8 +12,9 @@ During these stages, the team will monitor the following Shared Metrics of Succe
     * **Error rate**  - The number of non 2xx codes vs 2xx (successful) codes for Form submissions and Dashboard replies.
 	- **Latency** - Average time to receive a successful response (2xx) from CRM for Form submissions and Dashboard replies.
 	- **Throughput** - Number of requests. Requests = Form submissions
-	- Medallia survey to monitor sentiment and user feedback.
-		- Are any users reporting errors
+- Medallia survey to monitor sentiment and user feedback.
+	- Are any users reporting errors
+ - Reports from agents and business lines
 
 #### Primary Concerns
 
