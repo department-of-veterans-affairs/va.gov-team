@@ -34,8 +34,6 @@ In this doc:
 This is only a subset of data from 3/5/2025. The chatbot stopped generating a response when I tried to input questions from the entire day (2023 questions/582109 characters).
 
 I also very minimally cleaned the data. This included removing line breaks and added a number to the start of each question. In retrospect, I could have appended the original inquiry number to each question. The inquiry number contains 17 characters and would have added more length to the question though.
-
-Reach out to becky.phung@va.gov to learn more about this dataset.
  
 ## Prompt
 Identify the top 5 questions people ask VA based on this dataset of questions people have sent to VA in the following format. The Question ID is the number in front of the question (ex: 1.).
