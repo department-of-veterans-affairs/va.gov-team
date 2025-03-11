@@ -1,27 +1,25 @@
 # Product outline for Ask VA
-Last updated by @beckyphung on January 13, 2025
+Last updated by @beckyphung on March 11, 2025
 
 **Jump to:**
 - [Overview](#overview)
-- [Problem Statement](#problem-statement)
+- [Problem statement](#problem-statement)
 - [Outcomes](#outcomes)
-- [Measuring Success](#measuring-success)
-- [Solution Approach](#solution-approach)
-- [Launch Strategy](#launch-strategy)
-- [Examples of Design Updatess](#examples-of-design-updates)
-- [Team and Stakeholders](#team-and-stakeholders)
+- [Measuring success](#measuring-success)
+- [Solution approach](#solution-approach)
+- [Launch atrategy](#launch-strategy)
+- [Examples of design epdatess](#examples-of-design-updates)
+- [Team and stakeholders](#team-and-stakeholders)
 
 ## Overview
 Ask VA (AVA) is a digital support channel for Veterans, family members and other submitters. You can use Ask VA to ask a question about education benefits, disability compensation, health care and many other topics. Ask VA should only be used for non-urgent needs.
 
-## Problem Statement
-Submitter should easily and intuitively be able to ask a question through Ask VA on VA.gov.
-   - **Who**: The submitter - This could be the Veteran, their caregiver, their supporting personnel, or their dependents (authenticated or un-authenticated).
-   - **What**: The current form design and content needs to better align with VA.gov design, content, and accessibility standards for the submitter. 
-   - **Why**: The submitter will have a more cohesive and consistent experience with accessing VA support, benefits, and services on VA.gov.
-   - **Where**: The form needs to reside in VA.gov so that it is easily locatable and can potentially integrate with other VA.gov applications (ex. Chatbot).
+You can currently reach Ask VA at [ask.va.gov](https://ask.va.gov/). By end of March 2025, you'll be able to reach Ask VA on VA.gov at [va.gov/contact-us/ask-va](https://va.gov/contact-us/ask-va).
 
-**How might we** create an inquiry form that is easier for Veterans and other users to ask VA a question online?
+## Problem statement
+**Background**: Veterans and family members can ask a variety of questions to VA because VA offers many different types of benefits. There are multiple VA staff teams who can answer only one or a few types of questions. It can be more convenient and accessible to contact VA online rather than traditional support channels, like phone calls or going in-person to a VA facility. 
+
+**Ask VA's solution**: Ask VA is frontend application where Veterans, family members, and other submitters can get answers to any VA question without having to understand the internal VA bureaucracy. The frontend integrates with a backend customer relationship management (CRM) application that routes questions to the correct VA team. Multiple VA teams can access the CRM.
 
 ## Outcomes
 We expect Veterans and other submitters to meet these outcomes after we launch Phase 1: 
