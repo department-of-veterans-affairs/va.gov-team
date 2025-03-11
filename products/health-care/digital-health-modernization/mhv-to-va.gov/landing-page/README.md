@@ -6,7 +6,7 @@
 - Slack channel: [#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ)
 - Product POCs: 
   - Lauren Alexanderson - OCTO Sponsor
-  - Patrick Bateman - OCTO Product Owner
+  - Marci Mcguire - OCTO Product Owner
   - Kaitlin Fink - OCTO UX Lead
  
 - Stakeholders: 
