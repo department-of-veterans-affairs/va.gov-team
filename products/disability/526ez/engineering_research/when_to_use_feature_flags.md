@@ -4,6 +4,8 @@ Because of the lack of a true staging environment, releasing new features or eve
 
 For Form 526, which has so many dependencies and external connections during the application and submission process, we recommend using feature flags for _any_ new functionality and critical bug fixes as a way to safely test before a full deploy. With a feature flag in place, you can turn on the feature flag in Staging for your particular testing user once your code has been merged and deployed. 
 
+Note: some of this information is referenced in a more visual format on the [Release Decision Tree](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1741023269404/b25b8ec851c51b0df379e9b271460751cc4612a9) in Mural. 
+
 ## How to use feature flags
 
  To use, follow these steps in Platform's [guide to using Feature Toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide). 
@@ -28,6 +30,7 @@ Add the appropriate unit tests with the feature flag enabled and disabled. For b
 - Plan how to track which users have hit the feature (we liked to use logging with Rails.logger.info or statsd, or by checking data in a parameter of the request).
 - Track errors within your APM dashboards. For the backend, ensure methods raise exceptions that log the invoker and feature name.
 - Anticipate how you will track error percentage changes over time with an incremental rollout
+- More on Form 526 standards for trackabilty [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/standards_for_trackability.md)
 
 ### Removing feature flags
 
