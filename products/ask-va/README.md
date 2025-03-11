@@ -59,15 +59,14 @@ It also includes these OKRs:
 ## Our team
 |Role|Assigned|Contact|
 |:---|:---|:---|
-|Product Owner (OCTO), Designer|Becky Phung||
-|Product Owner (VES)|Natalie Morales||
-|Program Manager|Megan Siddle|megan.siddle@oddball.io|
-|Product Manager|Ariel Martinez|ariel.martinez@thoughtworks.com|
-|Lead Engineer|Joseph Hall|joe.hall@thoughtworks.com|
-|Engineer|Eddie Otero|eddie.otero@oddball.io|
-|Engineer|Khoa Nguyen|khoa.nguyen@oddball.io|
-|Engineer|Hemesh Patel|hemesh.patel@docme360.com|
-|Engineer|Jacob Cheriathundam|jacob@docme360.com|
-|UX Designer|Thomas Michaud|thomas.michaud@oddball.io|
-|UX Researcher & Designer|Tyler Gindraux|tyler@bluetiger.digital|
-![image](https://github.com/user-attachments/assets/5539cbf8-d16d-4d38-a416-801dd1561d62)
+|Product owner (OCTO), Designer|Becky Phung||
+|Product owner (VES)|Natalie Morales||
+|Program manager|Megan Siddle|megan.siddle@oddball.io|
+|Product manager|Ariel Martinez|ariel.martinez@thoughtworks.com|
+|Lead engineer|Joseph Hall|joe.hall@thoughtworks.com|
+|Frontned engineer|Eddie Otero|eddie.otero@oddball.io|
+|Frontned engineer|Hemesh Patel|hemesh.patel@docme360.com|
+|Backend engineer|Khoa Nguyen|khoa.nguyen@oddball.io|
+|Data engineer (part-time)|Jacob Cheriathundam|jacob@docme360.com|
+|UX designer|Thomas Michaud|thomas.michaud@oddball.io|
+|UX researcher & Designer|Tyler Gindraux|tyler@bluetiger.digital|
