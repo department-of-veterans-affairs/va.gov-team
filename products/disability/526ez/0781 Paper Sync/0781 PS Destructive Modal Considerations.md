@@ -23,13 +23,13 @@ The proposed solution was to implement a modal that appears after the user has a
 This solution posed several challenges that the team believed required further exploration, including identifying potential reliability/data integrity risks and assessing the level of effort involved.
 
 ### The problem
-The standard Forms Library framework didn't support the flow as we were intending to use it. For starters, it doesn't by default support deleting data from pages other than the one the user is on. As the pages had already been built using the standard Forms Library pattern, we would have had to do some unconvetional/brittle code tricks to force this to work. Nobody has taken this approach before so that presented a lot of risk to maintainability, tech debt, and data integrity.
+The standard Forms Library framework doesn't support the flow as we intended to use it. Most importantly, it doesn't by default support deleting data captured on pages other than the one the user is currently viewing. As the pages were already built using the standard Forms Library pattern, we would have had to do some unconvetional/brittle code tricks to force this to work. Because this approach hadn't been taken before, it presented a lot of risk to maintainability, tech debt, and data integrity.
 
 ### Options Considered
-Collboarating between the team engineers, designer, product, VFF team members, and engineers from other VABC teams, the team came up with some options for possible solutions and included both the pros and cons of each option to help OCTO be more informed and to support their decision.
+Collboarating between team engineers, design, product, VFF team members, and engineers from other VABC teams, the team came up with some options for possible solutions, including both the pros and cons of each option to better inform OCTO and help support their decision making.
 
 ## Option 1a - [Confirm through modal prompt](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88727&t=mG6EsOEiWXdijIen-11) on a page built using the normal Forms Library pattern.
-Description: This uses a modal to prompt the user to confirm if they want to opt-out of, or remove answers they already provided.
+Description: This uses a modal to prompt the user to confirm if they want to opt-out of or remove answers already provided.
 
 **Design Considerations**
 - (+) Follows common patterns found in other platforms and digital experiences
@@ -65,7 +65,7 @@ Description: This uses a modal to prompt the user to confirm if they want to opt
 - (-) Not using the Forms Library pattern is generally discouraged (but is widely used for more complex UX, including in ALL places we are currently using the VA Modal we would use here)
 
 
-## Options 2 - [Confirm through on page alert](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88728&t=mG6EsOEiWXdijIen-11)
+## Option 2 - [Confirm through on page alert](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88728&t=mG6EsOEiWXdijIen-11)
 Description: Allows for the user to confirm their intent to proceed and delete content through an on-page warning alert.
 
 **Design Considerations**
@@ -78,7 +78,7 @@ Description: Allows for the user to confirm their intent to proceed and delete c
 - (-) May run into similar limitations as as we did with Option 1a
 
 
-## Options 3 - [Confirm in separate injected page](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88729&t=8tz10BpOG3VvI7UE-11)
+## Option 3 - [Confirm in separate injected page](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88729&t=8tz10BpOG3VvI7UE-11)
 Description: This uses a new, conventional Forms Library page to prompt the user to confirm if they want to opt-out of and remove answers they already provided for part of the flow, instead of asking for this in a modal on the opt out page (Option 1a and 1b)
 
 **Design Considerations**
@@ -99,7 +99,7 @@ It is our recommendation that we go with Option 1b - [Confirm through modal prom
 
 This option allows us to accomplish the original design, as already approved, in both functionality and visual design. 
 
-When comparing 1a vs 1b, option 1b we think is able to be done in less time, and also has less unknowns. The flexibility of a custom page, means we have more options available to solve any issues, where-as the rigidness of the forms library could potentially restrict us in being able to deliver quickly in 1a (as it already has).
+When comparing 1a vs 1b, we believe option 1b is able to be implemented in less time, and also has fewer unknowns. The flexibility of a custom page means we have more options available to solve any issues, whereas the rigidness of the Forms Library could potentially restrict us from being able to quikcly deliver option 1a (as it already has).
 
 As noted above, Custom Pages are how most teams have tackled more complex UX designs that aren't baked into the Forms Library by default.
 
@@ -107,19 +107,19 @@ Additionally, the negatives described are not blockers in our opinion:
 
 - (-) Need to make page from scratch (not a huge lift, just additional effort)
 
-Most of the functionality we would build from scratch has already been done on several Custom Pages all throughout the app. Additionally, all of the content has already been filled in and that would just be copy pasted.
+Most of the functionality required to build from scratch has already been done on several Custom Pages all throughout the app. Additionally, all of the content has already been created and would simply be copy pasted.
   
 - (-) Would not benefit from built-in accessibility functionality
 
-We belive this can be mitigated such that it is still accessibly built, as has been done on other Custom Pages, with a small bump in effort from our team to review/confirm accessibilty. 
+We belive this can be mitigated such that it is still accessibly built, as has been done on other Custom Pages, with a small bump in effort from our team to review/confirm accessibilty requirements are met. 
   
 - (-) Sunk cost of existing efforts funneled into option 1a
 
-Sunk cost is already sunk. We do not belive this is a compelling enough argument to make us keep with option 1a. Plus we had to sink this effort, to arrive at where we are now. It gave us a better understanding of the forms library, modal, and how they interact (or do not interact). It would make option 1b much easier than it would have been.
+Sunk cost is already sunk. We do not belive this is a compelling enough argument to require we continue with option 1a. Plus, we had to sink this effort already to arrive where we are now. It gave us a better understanding of the Forms Library and modal, and how they interact (or do not interact). It would make option 1b much easier than it would have been.
 
-- (-) Not using the forms library pages / components is discouraged (but tons of pages with VA modals are custom pages)
+- (-) Not using the forms library pages / components is discouraged (however, many pages with VA modals are custom pages)
 
-As mentioned in the bullet, there are many pages that are Custom Pages. It is not always a bad thing to use a Custom Page, the Forms Library pages have known things they cannot support and in those cases using a Custom Page is utilized. 
+As mentioned in the bullet, there are many pages that are Custom Pages. It is not always a bad thing to use a Custom Page; the Forms Library pages have known functionality they cannot support, and in those cases a Custom Page is utilized. 
 
 ## Decision
 [Once the decision we'll add it to the document]
