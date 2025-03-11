@@ -112,7 +112,7 @@ Sunk cost is already sunk. We do not belive this is a compelling enough argument
 
 - (-) Not using the forms library pages / components is discouraged (but tons of pages with VA modals are custom pages)
 
-As mentioned in the bullet, there are many pages that are custom pages. It is not a bad thing to use a custom page, the forms library pages have known things they cannot support and in those cases using a custom page is utilized. 
+As mentioned in the bullet, there are many pages that are custom pages. It is not always a bad thing to use a custom page, the forms library pages have known things they cannot support and in those cases using a custom page is utilized. 
 
 ## Decision
 [Once the decision we'll add it to the document]
