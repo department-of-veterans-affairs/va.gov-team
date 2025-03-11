@@ -31,8 +31,23 @@ This brief will help your team create content for your product that aligns with 
 | **smartphone** | Veterans must have a smartphone (a mobile phone with internet access) to check in for appointments with their phone. Always use "smartphone" for this use case, not "mobile phone." | Check in content standard |  7.20.22 |
 | **type of care** | Type of care refers to the specialty, i.e. primary care, mental health. | VAOS content standard  | 7.20.22 |
 
-
 **Note:** Terms may evolve with usability testing.
+
+## Appointment reminders
+
+Last updated: March 11, 2025
+
+Based on a meeting between Shane Elliott, Kay, Kristen, Lauren A., and the Privacy Office, using a signed 2023 MOU as guidance, we can only **include** the following ePHI/PII fields in **unencrypted** email reminders for Veterans who opt-in via VeText/VA.gov profile:
+- Date/time of appointment
+- Status
+- Location
+- Phone number
+
+The following information is deemed protected information: 
+- VA Medical Center
+- VA Clinic Name, Floor/Room
+- Clinic contact information
+- Additional contact (extension)
 
 ## Research findings
 
