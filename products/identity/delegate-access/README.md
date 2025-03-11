@@ -29,6 +29,17 @@ Despite being fully built out, My HealtheVet never fully utilized delegate acces
 
 The OCTO Login & Identity team has been tasked with validating a user need around online delegate access. If that need is validated, our team needs to determine the MVP use case and user needs for delegate access, determine the unique security concerns and constraints for providing delegate access on VA.gov (vs. My HealtheVet, which only housed health care information), and build the infrastructure and end-user experience that will support delegate access on VA.gov.
 
+## User Problem Statement
+
+- As a delegate, I need to manage a(nother) Veteran's business with VA on their behalf.
+- As a person who interacts with VA, I need an ID.me or Login.gov account to manage my VA business online.
+
+## Business goals
+
+- Determine need for delegate access to VA.gov.
+- Support delegates and caregivers in conducting business with VA on behalf of another person, whether they would like to conduct that business online, over the phone, or in person.
+- Abide by all privacy and security laws and protocols required to protect people's information.
+
 ## Questions and Hypotheses
 
 ### Questions
@@ -49,29 +60,16 @@ The OCTO Login & Identity team has been tasked with validating a user need aroun
 - The primary delegate access use case will be for caregivers. This population only needs to manage health care-related tasks on behalf of the Veteran they care for.
 - Caregivers do not actually need to see a(nother) Veteran's entire VA.gov account.
 
-## Scope
-
-### In-scope
-
-### Out of scope
-
-## User Problem Statement
-
-TBD
-
-## Business goals
-
-TBD
-
 ## Backend
 
-TBD
+(Add background backend documentation and links to other relevant documentation)
 
 ## Frontend
 
-TBD
+(Add background frontend documentation and links to other relevant documentation)
 
 ## Design and UX
 
-TBD
+(Add background design documentation and links to other relevant documentation, like Figma files, UX research, etc)
+
 
