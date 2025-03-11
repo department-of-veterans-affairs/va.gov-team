@@ -1,6 +1,6 @@
-# ‘Share My Health Data’ App and ‘Account Activity’ IA Research Plan | MHV on VA.gov  
+# ‘Share My Health Data’ and ‘Account Activity’ IA Research Plan | MHV on VA.gov  
 
-[Treejack Study Link #1 (Share My Health Data)](https://dj540s05.optimalworkshop.com/treejack/1w7z62v5)
+[Treejack Link_Share My Health Data and Account Activity IA Tree Test ](https://dj540s05.optimalworkshop.com/treejack/1w7z62v5)
 
 ## Background  
 As My HealtheVet (MHV) transitions to VA.gov, integrating key features from MHV Classic, such as **Share My Health Data** and **Account Activity History**, requires a clear understanding of where authenticated users expect to find them. While these features support Veterans in managing their health data and tracking account activity, their placement within VA.gov has not yet been determined. Identifying where users naturally look for these tools will help ensure they are easily accessible and aligned with their expectations.
