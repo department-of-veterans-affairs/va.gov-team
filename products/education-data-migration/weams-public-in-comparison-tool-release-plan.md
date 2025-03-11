@@ -72,7 +72,7 @@ Even though your feature has been tested and ready, production is still a differ
 
 **Planning**
 
-•	Desired date range or test duration: **3/5/25 - 3/11/25**
+•	Desired date range or test duration: **2/20/25 - 2/25/25**
 
 •	Desired number of users: **5 users**
 
