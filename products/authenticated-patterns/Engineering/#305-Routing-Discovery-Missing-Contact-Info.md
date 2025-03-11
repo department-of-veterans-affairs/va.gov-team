@@ -107,3 +107,8 @@ The current implementation of handling missing contact info **goes against** the
 
 ### Considerations
 - Do we want to override/change how the orientation is currently defined in the platform form system?
+
+---
+
+## **🔷 Alternative solution** 
+Revert to the original process for handling missing contact information. When the user reaches the contact info review page, display an alert indicating any missing information. Prevent them from navigating away from the page until all required fields are completed.
