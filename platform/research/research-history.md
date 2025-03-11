@@ -1427,10 +1427,7 @@ Majority synthesis done post-its
 #### August 17: 526/Disability Compensation, Veterans
 *Discovery Sprint: Unicorns Team, Research Lead: Melissa Schaff*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/discovery/2017-discovery-sprint)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/aug-2017/moderator-guide-template.md)
-- [Discovery Sprint Output](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/discovery/2017-discovery-sprint/output)
-- [Veteran Disability Claim Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/discovery/2017-discovery-sprint/output/journey-map/veteran-journey-disability-claim-11x17-anonymous-9.4.17.pdf)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/archive/discovery/2017-discovery-sprint)
 
 ### July 2017
 
