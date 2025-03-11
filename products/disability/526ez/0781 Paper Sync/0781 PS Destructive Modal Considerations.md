@@ -49,8 +49,11 @@ Description: This uses a modal to prompt the user to confirm if they want to opt
 ## Option 1b - [Confirm through modal prompt](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=17488-88727&t=mG6EsOEiWXdijIen-11) using [Custom Page](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-bypass-schema-form)
 Description: This uses a modal to prompt the user to confirm if they want to opt-out of, or remove answers they already provided, on a page built outside of the typical Forms Library. These are called "Custom Pages" and they are an approach used by several teams in places where the Forms Library doesn't support advanced functionality by default.
 
-**Design Considerations**
-- See above.
+**Design Considerations (same as 1a)**
+- (+) Follows common patterns found in other platforms and digital experiences
+- (+) Conforms to platform guidence surrounding how to handle destructive actions
+- (+) Allows users to change their responses at review and submit through experience native to the forms library (modal appears in the prompt item in review)
+
 
 **Technical Considerations**
 - (+) Without being restricted by the Forms Library, this can be built using normal front end best practices
