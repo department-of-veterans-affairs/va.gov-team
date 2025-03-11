@@ -5,8 +5,8 @@
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
 |Phase 0: Staging testing |5 days|N/A| March 10-14, 2025  |
-|Phase 1: Canary production testing |3 days|1% of users - 10 claims min.| March 17, 2024  |
-|Phase 2: 25% of users |7 days|25% of users (auth users only)|March 20, 2024|
+|Phase 1: Canary production testing |2 days|5% of users - 10 claims min.| March 17, 2024  |
+|Phase 2: 25% of users |5 days|25% of users |March 19, 2024|
 |Phase 3: 100% of users| indefinite | 100% users |March 24, 2024|
 
 
@@ -113,7 +113,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time: 3 days
-- Percentage of Users (and roughly how many users do you expect this to be): 1%
+- Percentage of Users (and roughly how many users do you expect this to be): 5%
 
 #### Results
 
