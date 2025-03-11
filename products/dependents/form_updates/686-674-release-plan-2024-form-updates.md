@@ -39,17 +39,16 @@ The form updates will be broken into two phases to expidite improvements to the 
    - Update all design system components from v1 patterns to v3 patterns
    - Fix high-priority accessibility issues
    - Improve form flow patterns
-   - Update confirmation page to align with mvp design from zero silent failure initiative
-   - Implement a claim in-progress email notification per the zero silent failure initiative
-   - Update claim received email (aka confirmation email) per the zero silent failure initiative
 
 [Release plan user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714073866859/62dbc2bda8fa99a2d87d3e5ed9103d99f96b8769?wid=522-1714073889846)
 
-### The phase 2 release plan will need to consider the following use cases:
-1. Applications In-Progress
+### The phase 2 release plan will need to consider the following [use cases](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714073866859/62dbc2bda8fa99a2d87d3e5ed9103d99f96b8769?wid=522-1714073889846):
+1. Applications In-Progress (active session)
    - After 100% release:
       - If users are in an active session, they will be taken back to the start of the form and any data they entered on v1 of the form will appear in the new v2 form. The users will then review their data on v2 of the form and finish completing their v2 submission.
-2. Applications Not Started
+2. Applications In-Progress (non-active session)
+      - If users start a form before the updated, leave the active session, and then return after the form updates, they will be taken back to the start of the form and see an [info alert](https://www.figma.com/design/7W55oNwdVXvXOTI9SaFzQ7/686c-Add-or-Remove-Dependents?node-id=3607-35894&t=6VbyLPxmE0TkiFGp-1) noting that the form has been updated. All of their v1 form data will appear in the v2 form.
+3. Applications Not Started
    - After 100% release
       - Users will complete v2.
 
@@ -65,12 +64,10 @@ The form updates will be broken into two phases to expidite improvements to the 
 
 ### This phase 2 release will include the following components:
 1. Form field updates on some pages
-2. Form component updates (v1 to v3)
+2. Form component updates (v1 to v3) on all pages
 3. High-priority accessibility updates (level 0-2)
 4. Info alert on the form information page letting in-progress users who were redirected back to the start of the form that the form has been updated and they need to review the info they've already entered.
-5. Udpated confirmation page to show submission status to Veteran.
-7. New submission in-progress email to notify Veteran their submission is in-progress.
-8. Updated "claim received" (aka confirmation email) notifying Veteran that their submission was suceessful.
+6. Ability to submit multiple 674s within the same session/loop.
 ---
 
 ## Step 1: Development
@@ -99,6 +96,12 @@ Before enabling your feature toggle in production, you'll need to:
   - [ ] review the release plan with your team.
 
 ## Step 3: Production rollout
+- 1 day before release: An [info alert banner](https://www.figma.com/design/7W55oNwdVXvXOTI9SaFzQ7/686c-Add-or-Remove-Dependents?node-id=5201-37740&t=8ZxCIVyFDYV4Zawb-0) will be added to the top of every form page to alert users that the form will be undergoing maintenance on a specific date and they will be taken back to the start of the form to review their information before they submit.
+- Release: Flipper will be enabled in production.
+   - In-progress active sessions will continue through to the submission page. When the user clicks submit, they will be redirected back to the start of the form and alerted of the udpate and asked to review their information.
+   - In-progress non-active sessions will re-start the form at the information page and see an alert notifying them of the udpate and asking them to review their information.
+   - Inactive (new) users will see the info alert on the information page notifying them that the form has been updated.
+
 <!--
 ### Do I need a staged rollout?
 
@@ -145,6 +148,7 @@ Rollback plan:
    - New users will be directed to v1 of the form.
 
 ## Phase I: LAUNCH
+The 686/674 form flow underwent significant updates to all pages within the form flow, which makes it difficult to provide a phased launch experience for users without significant risk. Because of this, the url for the v1 form will be redirected to the v2 form on the backend, so that any form data already entered/saved will "migrate" to the v2 form when the user tries to submit the form. We acknowledge that allowing an active user to continue through the v1 form and then redirecting them when they try to submit is not ideal, but there are siginifcant limitations within the form experience that prevent us from "catching" and redirecting them during their active session. 
 
 #### Rollout Planning
 
