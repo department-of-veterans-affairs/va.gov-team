@@ -103,7 +103,7 @@ _Health specific_
 - [My HealtheVet - Meds & Devices](https://www.figma.com/files/team/1278375444205744118/project/176500922/MHV---Meds-%26-Devices?fuid=1094287939207433857)
 - [My HealtheVet - Messages](https://www.figma.com/files/team/1278375444205744118/project/198497820/MHV---Messages?fuid=1094287939207433857) 
 
-### Reserach 
+### Research 
 
 _The following are some helpful health portal related links._
 
