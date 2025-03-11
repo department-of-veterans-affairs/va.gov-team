@@ -105,12 +105,18 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 ## Roadmap
 ### Done (recently)
 - Updated form flow to produce Aug 2022 version of pdf on Aug 13, 2024.
-- [Updated form flow](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1292) to use v3 design system components, improve user experience, and comply with current accessibility requirements.
 - Send [674-only claims from VA.gov directly to RBPS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97875) rather than flagging them for manual processing.
 - Completed concept testing for the [MVP prototype](https://www.figma.com/design/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?node-id=59-960&t=yWIz3IUP2uFChYib-0) of dependent verification tool. Intent is to capture “no changes to dependents” through an online tool on VA.gov and submit a 21-0538 (dependent verification) form on the Veteran’s behalf.
 - [Met with CAIA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84170) in January 2025 to discuss [IA of dependent experience](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=91-1737736233308) and [improvement opportunities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=522-1737736233308).
 
 ### Now
+- Test and release [updated form flow](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1292) to use v3 design system components, improve user experience, and comply with current accessibility requirements. See general testing guidelines [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/form_updates/general_testing_plan.md).
+   - The form updates have passed the [Collaboration Cycle staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74059) stage gate, so the changes are ready for release after testing is complete. The initial release was postponed due to ongoing issues with some of the new v3 design system components, but workarounds were implmented where needed. Given the time invested in fixing or working around the component limitations, we ran out of runway to complete end-to-end testing with OBI/RBPS stakeholders, so the release was delayed. We have developed workarounds for the following issues, and tickets have been submitted to fix the component-related issues at the Platform level:
+      - [#103781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103781): Validation error
+      - [#103778](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103778): Remove additional info (this workflow needs to be reviewed)
+      - [#103783](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103783): Button imposter component
+      - [#103784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103784): File input imposter component
+  - Post release, an [accessibility audit needs to be requested from the VA 508 Office](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office#RequestsupportfromtheVA508office-AuditRequest). This is required even if no accessibility issues were found during the Staging Review. Once the audit has been requested, add a comment to the [collab cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74059) with the 508 ticket number and close the collab cycle review ticket.
 - Test pension-related [income questions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76468) and [API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76465)
 
 ### Next
