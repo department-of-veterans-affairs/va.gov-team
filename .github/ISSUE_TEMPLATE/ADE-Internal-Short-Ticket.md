@@ -3,7 +3,7 @@ name: "Internal ADE Accessibility Short Ticket"
 about: Template for ADE members to utilize, when needing to create a ticket oustide the intake process such as a child ticket or an internal ADE work ticket. 
 title: 'Internal ADE Accessibility Short Ticket'
 labels: 'ADE'
-assignees: artsymartha68,sara-amanda,NaomiPMC,lakper
+assignees: artsymartha68,sara-amanda,lakper
 
 ---
 
