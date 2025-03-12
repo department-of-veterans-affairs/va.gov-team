@@ -49,7 +49,7 @@ We will conduct **remote moderated usability testing** to observe research parti
 
 ### Research materials
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment. 
-- Link to conversation guide
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2023-2025-search-improvements/research/mobile-map/2025-03-conversation-guide.md)
 - [Link to prototype](https://staging.va.gov/find-locations)
 
 ### Location
@@ -114,7 +114,7 @@ We’d like to recruit **9 participants** for a total of **7 completed sessions*
 ## Timeline
 
 ### Research sessions
-* Planned dates of research TBD
+* Planned dates of research: March 24 through April 11, 2025
 
 
 ### Length of sessions
@@ -124,18 +124,18 @@ We’d like to recruit **9 participants** for a total of **7 completed sessions*
 * Maximum Sessions per day: 2
 
 ### Availability
-TBD based on dates of research 
+12 PM to 6 PM EST every weekday
 
 
 ## Team Roles	
-- Moderator: TBD
+- Moderator: Brittany Iannuzzi
 - Research guide writing and task development: Brittany Iannuzzi	
 - Participant recruiting & screening: Perigean	
-- Project point of contact: TBD
+- Project point of contact: Brittany Iannuzzi
 - Participant(s) for pilot test: TBD
 - Accessibility specialist: Shamia Alam or Cindy Merrill
 - Note-takers: Perigean provides
 - Observers: TBD
 
 # Related materials
-Conversation guide
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2023-2025-search-improvements/research/mobile-map/2025-03-conversation-guide.md)
