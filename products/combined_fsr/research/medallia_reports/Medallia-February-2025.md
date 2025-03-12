@@ -113,6 +113,7 @@ N = 1
 ## 4. I would recommend completing this form online instead of paper to another Veteran?
 
 **54 Responses**
+
 **Mode: Strongly Agree (5)**
 
 |Score|Response|# of Responses|
