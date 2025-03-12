@@ -1614,7 +1614,7 @@ Majority synthesis done post-its
 #### September 21-27 - Education 1990 Usability Test
 *Research Lead: Alex Taylor?*
 - 4 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/1990)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/1990/discovery)
 - [First wireframes](https://app.moqups.com/greg@adhocteam.us/l32hJ36b/view/page/ad9695a23), second prototype run locally.
 - [Summary results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/application/1990/discovery/key-findings-9-28-16.md)
 
