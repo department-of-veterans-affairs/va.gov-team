@@ -55,7 +55,7 @@ Government Stakeholders:
  [Github Project](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2)
  GitHub team label: DBEX-TREX
 - Product manager: Mike Marinos
-- Design and Research: Maya Carroll, Lauren Dawson, Momo Miyazaki
+- Design and Research: Lauren Dawson, Melissa Schaff, Tashi Islam
 - Engineering: Aurora Hampton, Seth Darr, Christine Cereca, Mark Chae, Tommasina Miller
 - Delivery: Pam Macalintal
  
