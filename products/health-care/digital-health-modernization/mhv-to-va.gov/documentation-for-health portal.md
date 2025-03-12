@@ -13,7 +13,8 @@ This document serves as a resource for future work, ensuring that our team and f
 * [Where are we now? - Existing features](#existingfeatures)
 * [Where are we going? - 2025 goals/key milestones](#2025goals)
 * [High-level performance and adoption metrics for the health portal](#metrics)
-* [Design and research resources](#design)
+* [Design resources](#design)
+* [Reserach resources](#reserach)
 * [Engineering resources](#engineering) 
 * [Quality Assurance](#qa)
 
@@ -85,7 +86,8 @@ This folder contains metrics on the following:
  - [Product metrics and feedback reports](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Monitoring,%20Reporting,%20and%20Feedback/Monthly%20Product%20Metrics%20%26%20Feedback%20Reports?csf=1&web=1&e=qmWxPb) (Sharepoint)
  - [Monthly transition evaluation reports](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Monitoring,%20Reporting,%20and%20Feedback/Monthly%20Transition%20Evaluation%20reports?csf=1&web=1&e=1Ekyyg) (Sharepoint)
 
-## <a name="design"></a>Design and research resources<be>
+## <a name="design"></a>Design<be>
+
 
 ### Design system 
 
@@ -115,6 +117,7 @@ Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/fil
 
 - [VA design system](https://www.figma.com/files/team/1278375444205744118/project/105082786/VA-Design-System?fuid=1094287939207433857) 
 
+## <a name="research"></a>Research<be>
 
 ### Research
 
