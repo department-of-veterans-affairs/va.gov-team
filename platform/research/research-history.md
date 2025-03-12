@@ -1482,7 +1482,7 @@ Majority synthesis done post-its
 
 #### May 10-12 - GI Bill Enrollment Status
 *Unicorns Team, Research Lead: Laura Cochran*
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/statement-of-benefits/research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/statement-of-benefits/v1/research)
 
 #### May - Appeals Usability Testing Round 2
 *Research lead: Natalie Moore*
