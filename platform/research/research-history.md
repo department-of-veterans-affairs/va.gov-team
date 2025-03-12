@@ -1587,7 +1587,7 @@ Majority synthesis done post-its
 
 #### October 27-28 - Prescription refill & secure messaging
 - 4 participants
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/secure-messaging/research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/secure-messaging/vets-secure-messaging/research)
 
 #### October 20-21 - Claims status and logon usability
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/sunsets-team/blob/master/track-claim-status/design-documents/research/usability-testing_10-20-2016.md)
