@@ -86,7 +86,7 @@ This folder contains metrics on the following:
  - [Product metrics and feedback reports](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Monitoring,%20Reporting,%20and%20Feedback/Monthly%20Product%20Metrics%20%26%20Feedback%20Reports?csf=1&web=1&e=qmWxPb) (Sharepoint)
  - [Monthly transition evaluation reports](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Monitoring,%20Reporting,%20and%20Feedback/Monthly%20Transition%20Evaluation%20reports?csf=1&web=1&e=1Ekyyg) (Sharepoint)
 
-## <a name="design"></a>Design resources<be>
+## <a name="design"></a>Design and research resources<be>
 
 ### Design system 
 
@@ -96,21 +96,25 @@ Specific information on the VA design system can be found on the [Getting starte
 
 ### Figma 
 
-Design teams at VA use Figma to view, share, and collaborate on our work. Here are some helpful Figma links. 
+VA design teams use Figma to view, share, and collaborate on our work. Here are some helpful Figma links. 
 
 Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/files/team/1278375444205744118/project/176500480/MHV---Portal?fuid=1094287939207433857) room. This space contains the design files for the team's responsibilities, including My HealtheVet landing page and Secondary navigation. 
 
 ### My HealtheVet landing page specific 
 
-The goals of the landing page is to provide Veterans and caregivers the ability to: 
+[Landing page Figma file](https://www.figma.com/design/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?node-id=11-1274&t=0dq4hNUoyUU06DuN-1) 
 
-- Easily and quickly navigate to information about qualifying and signing up for health benefits.
-- Easily register for a qualified authentication account in order to access My HealtheVet tools and content.
-- Sign on one time when moving from VA.gov to My HealtheVet tools or from My HealtheVet to VA.gov. 
+### Important My HealtheVet landing page research 
 
-- [Landing page Figma file](https://www.figma.com/design/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?node-id=11-1274&t=0dq4hNUoyUU06DuN-1) 
-- Important research
-- Relevnet murals 
+**MHV on VA.gov: Landing page research**
+
+The purpose of this research was to assess users' reactions to and expectations of the updated landing page for MHV on VA.gov, whether the current wayfinding tactics are effective at guiding users through the page, how users expect to be able to update health-related preferences, and how users expect timely statuses and notifications to be communicated to them. 
+
+- [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research/2023-04-landing-page-readout.md)
+
+**Relevnet murals** 
+
+
 
 ### Secondary navigation 
 
