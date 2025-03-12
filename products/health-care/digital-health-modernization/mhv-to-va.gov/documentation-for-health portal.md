@@ -95,7 +95,7 @@ Design teams at VA use Figma to view, share, and collaborate on our work. Here a
 
 More specific information on the the VA design system can be found on the [Getting started with design.va.gov](design.va.gov)
 
-_Health specific_ 
+### Health specific Figma files 
 
 - [My HealtheVet - Portal](https://www.figma.com/files/team/1278375444205744118/project/176500480/MHV---Portal?fuid=1094287939207433857) (For more general projects across the portal - including but not limited to: **The secondary navigation** and **My HealtheVet on VA.gov landing page.**) 
 - [My HealtheVet - Unified Appointments](https://www.figma.com/files/team/1278375444205744118/project/175332858/MHV---Unified-Appointments?fuid=1094287939207433857) 
