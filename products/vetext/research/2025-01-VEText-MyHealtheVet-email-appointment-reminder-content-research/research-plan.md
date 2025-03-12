@@ -1,10 +1,10 @@
 
-# Research Plan for VEText Team, MyHealtheVet email appointment reminders content Veteran feedback, 01/2025
+# Research Plan for VEText Team, My HealtheVet email appointment reminders content Veteran feedback, 01/2025
 
 ## Background
 VEText is a platform for sending SMS messages to Veterans. These messages can be either one way or interactive. It was developed to lower no-show rates for Veterans’ health appointments by a team at the VA Loma Linda Healthcare system and rolled out nationally in 2018.
 
-VEText will begin additionally sending the email appointment reminders for MyHealtheVet, as MyHealtheVet migrates to VA.gov. We would like to evaluate the content, cadence or functionality of those email appointment reminders by asking Veterans for feedback. This feedback will determine if changes should be made to the content, cadence or functionality in order to improve Veterans’ experience using email health appointment reminders.
+VEText will begin additionally sending the email appointment reminders for MyHealtheVet, as My HealtheVet migrates to VA.gov. We would like to evaluate the content, cadence or functionality of those email appointment reminders by asking Veterans for feedback. This feedback will determine if changes should be made to the content, cadence or functionality in order to improve Veterans’ experience using email health appointment reminders.
 
 [Link to Team Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/vetext)
 
@@ -92,7 +92,7 @@ Our intended audience for this research is 12 Veterans and caregivers who regula
 
 - Prior to their session we request that Perigean:
 
-  - Confirm that participants receive and use MyHealtheVet email appointment reminders for their VA Health appointments and has interacted with these emails within the last year
+  - Confirm that participants receive and use My HealtheVet email appointment reminders for their VA Health appointments and has interacted with these emails within the last year
 
   - Review the recruitment email
   - 12 total participants (8 Veterans, 4 caregivers) for this study. 
@@ -100,7 +100,7 @@ Our intended audience for this research is 12 Veterans and caregivers who regula
 **Primary criteria (must-haves)**
 Primary Criteria (Must-Haves):
 
-- All must currently receive MyHealtheVet health appointment reminder emails
+- All must currently receive My HealtheVet health appointment reminder emails
 
 - All must have had a VA health appointment in the last 12 months
 
@@ -133,13 +133,13 @@ Primary Criteria (Must-Haves):
 
 **Screener Questions: All Participants**
 
-1. Do you currently manage your VA Health appointments using MyHealtheVet email appointment reminders?
+1. Do you currently manage your VA Health appointments using My HealtheVet email appointment reminders?
 
-   1. Yes, I receive and use MyHealtheVet email appointment reminders to let me know when I have an upcoming health appointment
+   1. Yes, I receive and use My HealtheVet email appointment reminders to let me know when I have an upcoming health appointment
 
-   2. Yes, I receive use MyHealtheVet email appointment reminders but I do not open the emails
+   2. Yes, I receive use My HealtheVet email appointment reminders but I do not open the emails
 
-   3. No, I do not use MyHealtheVet email appointment reminders
+   3. No, I do not use My HealtheVet email appointment reminders
 
 2) Have you seen a healthcare provider in a VA medical center or other VA healthcare facility in the last 12 months?
 
@@ -147,7 +147,7 @@ Primary Criteria (Must-Haves):
 
    2. No
 
-3. Have you received a MyHealtheVet email health appointment reminder in the last year?
+3. Have you received a My HealtheVet email health appointment reminder in the last year?
 
    1. Yes
 
@@ -161,7 +161,7 @@ Primary Criteria (Must-Haves):
 
    3. Phone calls
 
-5. What device do you use to check your MyHealtheVet email appointment reminders? (select all that apply)
+5. What device do you use to check your My HealtheVet email appointment reminders? (select all that apply)
 
    1. Desktop computer
 
