@@ -72,7 +72,7 @@ Health Products
 - Shana Watson | shana.watson@va.gov -- Member Services SME
 - Simone Gully | simone.gully@va.gov -- Member Services SME
 - Amanda Scully | amanda.scully@va.gov -- Member Services SME
-- Angela Fulton | amanda.fulton@va.gov -- Member Services SME
+- Angela Fulton | angela.fulton@va.gov -- Member Services SME
 - Tiffany Gaines | tiffany.gaines@va.gov -- Member Services SME
 
 **Enrollment System (ES)** (End-to-End Testing POCs)
