@@ -24,9 +24,13 @@ OCC has launched a new app/website for Veterans to track their shared vitals cal
 - Users associate this as a replacement for shared vitals.
   
 ## Desired Business Outcomes
-- Veterans use of SMHD goes up over time.
-- 
+- The number of Veterans who are aware of SMHD increases over time - pending data
+- The number of Veterans who sign up to use SMHD increases over time - pending data
+- The number of Veterans who collect a device or manually input data into SMHD increases over time - pending data
+- The number of SMHD users equals or exceeds the number of users who used Shared Vitals app
+  
 ## Undesired Business Outcomes
+- Veterans awareness of SMHD does not increase over time
 - Veterans usage of SMHD goes down from the baseline use of Shared Vitals/SHMD today.
 - Users associate this as a replacement for shared vitals and don't find value in using the new app. 
 
