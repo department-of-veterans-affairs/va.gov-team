@@ -86,14 +86,14 @@ This folder contains metrics on the following:
  - [Product metrics and feedback reports](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Monitoring,%20Reporting,%20and%20Feedback/Monthly%20Product%20Metrics%20%26%20Feedback%20Reports?csf=1&web=1&e=qmWxPb) (Sharepoint)
  - [Monthly transition evaluation reports](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Monitoring,%20Reporting,%20and%20Feedback/Monthly%20Transition%20Evaluation%20reports?csf=1&web=1&e=1Ekyyg) (Sharepoint)
 
-## <a name="design"></a>Design<be>
+## <a name="design"></a>Design resources<be>
 
 
 ### Design system 
 
 The VA.gov Design System is the front-end framework for VA.gov. Utilizing it in the design process will help create consistent experiences on VA.gov. 
 
-Specific information on the VA design system can be found on the [Getting started with design.va.gov](https://design.va.gov/about/). 
+Specific information on the VA design system can be found on the [Getting started with design.va.gov](https://design.va.gov/about/). You can also check out the [VA design system Figma](https://www.figma.com/files/team/1278375444205744118/project/105082786/VA-Design-System?fuid=1094287939207433857). 
 
 ### Figma 
 
@@ -113,13 +113,9 @@ Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/fil
 - [My HealtheVet - Meds & Devices](https://www.figma.com/files/team/1278375444205744118/project/176500922/MHV---Meds-%26-Devices?fuid=1094287939207433857)
 - [My HealtheVet - Messages](https://www.figma.com/files/team/1278375444205744118/project/198497820/MHV---Messages?fuid=1094287939207433857)
 
-**VA design system Figma**
 
-- [VA design system](https://www.figma.com/files/team/1278375444205744118/project/105082786/VA-Design-System?fuid=1094287939207433857) 
+## <a name="research"></a>Research resources<be>
 
-## <a name="research"></a>Research<be>
-
-### Research
 
 _The following are some helpful health portal related links._
 
