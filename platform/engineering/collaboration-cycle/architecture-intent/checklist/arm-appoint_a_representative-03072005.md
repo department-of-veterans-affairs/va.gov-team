@@ -2,9 +2,9 @@
 
 For the past 1.5 years, we've relied on a weekly `.XLSX` file from the Office of General Counsel (OGC) containing updated representative and organization data. We sanitize this data and push it to the `va.gov-teams-sensitive` repository. A Sidekiq job runs daily to check if the file has been updated in the last 24 hours. If it has, we retrieve the file, iterate through specific sheets, compare the data, and update records in the `veteran_representatives` and `veteran_organizations` tables as needed.
 
-We are now replacing this manual `.XLSX` file update process with an automated integration that consumes the new Accreditation API developed by OGC. Additionally, we will deprecate the legacy `veteran_representatives` and `veteran_organizations` tables, previously created by Lighthouse, in favor of three new tables: `accredited_individuals`, `accredited_organizations`, and `accreditations`. These new tables provide a more structured and flexible data model.
+We are now replacing the manual `.XLSX` file update process with an automated integration that consumes the new Accreditation API developed by OGC. Additionally, we will discontinue the use of the `veteran_representatives` and `veteran_organizations` tables, which were originally created by Lighthouse and later heavily modified by us, in favor of three new tables: `accredited_individuals`, `accredited_organizations`, and `accreditations`. These new tables offer a more structured and flexible data model. Once the transition is complete, we will revert the Lighthouse tables to their original state before our modifications and remove all related code from the `veteran` module, as it will no longer be needed.
 
-To provide context, here are the current record counts in the staging environment, which should match production:
+To provide context, here are the current record counts in the staging environment, which should be pretty close what's in production:
 
 #### Record Counts in Staging
 
@@ -137,7 +137,7 @@ By implementing this architecture, we ensure data consistency, streamline the up
       - `t.index ["accredited_individual_id", "accredited_organization_id"], name: "index_accreditations_on_indi_and_org_ids", unique: true`
       - `t.index ["accredited_organization_id"], name: "index_accreditations_on_accredited_organization_id"`
   - [x] Identify PII and PHI and where and how it will be stored, processed, expired and deleted
-    - The following PII is publically available and is served up in our Find A Representative search engine.
+    - The following PII is representative and organization data (and is not veteran data) and is publically available and is served up in our Find A Representative search engine.
     - If the data expires it will be soft-deleted by changing a record's `is_active` value from `true` to `false`
     - None of the data will be deleted.
       - [x] PII and PHI in `accredited_individuals`
