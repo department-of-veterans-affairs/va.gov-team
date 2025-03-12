@@ -3,7 +3,7 @@
 
 ### Introduction - 5 minutes
 
-Thank you for joining us today! My name is Jamie, and I also have some colleagues on the line taking notes (introduce). We are here today to talk about the Veteran Email Preferences for health appointment reminders from MyHealtheVet. I am going to ask you a series of questions to help us understand what types of information you’d expect in these health appointment reminders and what else you might like for these emails to include. 
+Thank you for joining us today! My name is Jamie, and I also have some colleagues on the line taking notes (introduce). We are here today to talk about the Veteran Email Preferences for health appointment reminders from My HealtheVet. I am going to ask you a series of questions to help us understand what types of information you’d expect in these health appointment reminders and what else you might like for these emails to include. 
 
 \*\*Before we start, there are a few things I’d like to mention:\*\*
 
