@@ -125,15 +125,14 @@ Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/fil
 - Relevant Murals: [Comparative analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694530015144/bb1ff2600f6e417f2c58abe793f158119aaac44a?sender=uebde62ceb342c6477fb09406)
 
 
-
-### Additional Relevant Mural Rooms 
+### Relevant Mural Rooms 
 
 - [Cartographers - MHV on VA.gov portal](https://app.mural.co/invitation/room/1698186759596?code=02f984b27ce94456b25ea2a67987e582&sender=u24af215c7d9bf806b8545488)
 - [MHV on VA.gov](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521) 
 
-### Additional portal related links
+### Portal related research links
 
-_The following are some helpful health portal related links._
+_The following are some helpful health portal related research links._
 
 - [Portal level research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research)
 - [Landing page research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research)
