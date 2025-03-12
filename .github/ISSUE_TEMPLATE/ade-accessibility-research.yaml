@@ -41,10 +41,10 @@ body:
 - type: textarea
   id: team
   attributes:
-    label: Who's on your team?
+    label: Who's on your team? (names + slack handles if different from names)
     description: This will help us reach out to you if needed
     value: |
-      OCTO Product Owner:
+      OCTO Product Owner: 
       Product Manager:
       Designer/Researcher:
       Dedicated accessibility specialist on your team (if you have one):
