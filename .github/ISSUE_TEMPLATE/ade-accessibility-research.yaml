@@ -165,7 +165,7 @@ body:
 - type: checkboxes
   id: next-steps-team-now
   attributes:
-    label: Next steps for you now
+    label: Next steps for you now:
     description: After submitting this ticket, please complete the following tasks
     options:
       - label: Post a link to this ticket in the "accessibility-help" Slack channel and tag Lakwi Perera and Cindy Merrill
