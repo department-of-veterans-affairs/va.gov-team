@@ -87,21 +87,33 @@ This folder contains metrics on the following:
 
 ## <a name="design"></a>Design and research resources<be>
 
-Specific information on the VA design system can be found on the [Getting started with design.va.gov](design.va.gov) 
+### Design system 
+
+The VA.gov Design System is the front-end framework for VA.gov. Utilizing it in the design process will help create consistent experiences on VA.gov. 
+
+Specific information on the VA design system can be found on the [Getting started with design.va.gov](https://design.va.gov/about/). 
 
 ### Figma 
 
 Design teams at VA use Figma to view, share, and collaborate on our work. Here are some helpful Figma links. 
 
-### Health specific Figma files 
+Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/files/team/1278375444205744118/project/176500480/MHV---Portal?fuid=1094287939207433857) room. This space contains the design files for the team's responsibilities, including My HealtheVet landing page and Secondary navigation. 
 
-- [My HealtheVet - Portal](https://www.figma.com/files/team/1278375444205744118/project/176500480/MHV---Portal?fuid=1094287939207433857) (For more general projects across the portal - including but not limited to: **The secondary navigation** and **My HealtheVet on VA.gov landing page.**) 
+- **My HealtheVet landing page** 
+
+- **Secondary navigation** 
+
+  
+### Additional health specific Figma files 
+
 - [My HealtheVet - Unified Appointments](https://www.figma.com/files/team/1278375444205744118/project/175332858/MHV---Unified-Appointments?fuid=1094287939207433857) 
 - [My HealtheVet - Medical Records](https://www.figma.com/files/team/1278375444205744118/project/176500754/MHV---Medical-Records?fuid=1094287939207433857)
 - [My HealtheVet - Meds & Devices](https://www.figma.com/files/team/1278375444205744118/project/176500922/MHV---Meds-%26-Devices?fuid=1094287939207433857)
 - [My HealtheVet - Messages](https://www.figma.com/files/team/1278375444205744118/project/198497820/MHV---Messages?fuid=1094287939207433857)
 
-The [VA design system](https://www.figma.com/files/team/1278375444205744118/project/105082786/VA-Design-System?fuid=1094287939207433857) 
+**VA design system Figma**
+
+- [VA design system](https://www.figma.com/files/team/1278375444205744118/project/105082786/VA-Design-System?fuid=1094287939207433857) 
 
 
 ### Research
