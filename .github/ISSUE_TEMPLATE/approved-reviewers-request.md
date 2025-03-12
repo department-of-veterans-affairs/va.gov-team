@@ -18,6 +18,7 @@ Certain federal engineers can get approval to review their team's code and bypas
 
 - [ ] Thoroughly review the [Code review guide for vets-api](https://vfs.atlassian.net/wiki/spaces/BCP/pages/3155394563/Code+review+guide+for+vets-api).
 - [ ] Review and save this [PR tips page](https://vfs.atlassian.net/wiki/spaces/BCP/pages/3918135327/PR+tips+for+federal+engineers) for details once you start reviewing and merging PRs.
+- [ ] Review the [PR best practices](https://depo-platform-documentation.scrollhelp.site/developer-docs/submitting-pull-requests-for-approval) for the Platform.
 - [ ] I understand that by approving changes, I am responsible for leading efforts to address any issues that may arise. This includes facilitating blameless postmortems and driving the implementation of necessary remediations and improvements.
 
 ## Tools and Access
