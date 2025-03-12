@@ -1619,7 +1619,7 @@ Majority synthesis done post-its
 - [Summary results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/application/1990/discovery/key-findings-9-28-16.md)
 
 #### September 9-16 - Claims Status usability testing
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/claims-status)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/claims-status/track-claim-status/research)
 - [Prototype: Vets.gov Claims Status](https://marvelapp.com/2cch4ch/screen/15005515)
 - [Prototype: eBenefits Claims Status](https://marvelapp.com/2cf16da/screen/15034382)
 
