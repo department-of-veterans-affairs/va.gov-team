@@ -105,8 +105,10 @@ Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/fil
 - [My HealtheVet - Medical Records](https://www.figma.com/files/team/1278375444205744118/project/176500754/MHV---Medical-Records?fuid=1094287939207433857)
 - [My HealtheVet - Meds & Devices](https://www.figma.com/files/team/1278375444205744118/project/176500922/MHV---Meds-%26-Devices?fuid=1094287939207433857)
 - [My HealtheVet - Messages](https://www.figma.com/files/team/1278375444205744118/project/198497820/MHV---Messages?fuid=1094287939207433857)'
-  
-### My HealtheVet landing page specific helpful links 
+
+### Landing page products' helpful links
+
+#### My HealtheVet landing page specific helpful links 
 
 - [Landing page design decision tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/design/decisions-tracker.md) 
 - [Landing page Figma file](https://www.figma.com/design/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?node-id=11-1274&t=0dq4hNUoyUU06DuN-1) 
@@ -115,7 +117,7 @@ Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/fil
     - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research/2023-04-landing-page-readout.md)
 - Relevant Murals: [Landing page iterations](https://app.mural.co/invitation/room/1698186759596?code=02f984b27ce94456b25ea2a67987e582&sender=u24af215c7d9bf806b8545488) 
 
-### Secondary navigation helpful links
+#### Secondary navigation helpful links
 
 - [Secondary navigation Figma file](https://www.figma.com/design/6nWnlJUjSK91V9hjc3p0LN/MHV-Secondary-Nav?node-id=0-1&t=azNbSaD6b43w3149-1)
 - Secondary nav comparison study: [See the plan here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/2nd-comparison-study/research-plan.md)
