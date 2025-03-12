@@ -86,11 +86,12 @@ body:
       - label: Have an accessibility researcher moderate your AT research sessions
       - label: Have an accessibility specialist observe your AT research sessions and document accessibility-related issues encountered  
       - label: Collaborate with an accessibility researcher to research a specific topic of interest
+      - label: Request accessibility research on a specific topic
 
 - type: input
   id: research-topic
   attributes:
-    label: If you want to collaborate with an accessibility researcher to research a specific topic, what is the topic?
+    label: If you want to request accesssibility research on a specific topic, what is the topic?
     description: We will reach out to you to discuss this
 
 - type: markdown
@@ -113,7 +114,7 @@ body:
 - type: input
   id: num-participants
   attributes:
-    label: How many participants using assistive tech (AT) do you want?
+    label: How many participants using assistive tech (AT) are you planning?
   validations: 
     required: false
 
