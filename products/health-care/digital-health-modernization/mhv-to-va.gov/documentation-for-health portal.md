@@ -14,7 +14,7 @@ This document serves as a resource for future work, ensuring that our team and f
 * [Where are we going? - 2025 goals/key milestones](#2025goals)
 * [High-level performance and adoption metrics for the health portal](#metrics)
 * [Design resources](#design)
-* [Reserach resources](#reserach)
+* [Research resources](#research)
 * [Engineering resources](#engineering) 
 * [Quality Assurance](#qa)
 
@@ -115,7 +115,6 @@ Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/fil
 
 
 ## <a name="research"></a>Research resources<be>
-
 
 _The following are some helpful health portal related links._
 
