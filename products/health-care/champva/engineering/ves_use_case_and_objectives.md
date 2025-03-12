@@ -43,7 +43,7 @@ As we're now required to upload to two separate backends, data consistency becom
 - If PEGA upload is successful, submit to VES
 	- if VES fails, manual intervention is required
 
-Since PEGA is the more complicated backend and we expect more failures to occur uploading to it than to VES, we want to ensure the VES upload should succeed before we attempt the PEGA submission.  This is a simple validation of required fields on the incoming requests.  Submitting to PEGA after this initial validation provides flexibility to perform retriesshould the upload fail, and means we shouldn't continue to attempt a VES upload since we don't want the services getting out of sync.  With a successful PEGA submission, here we already expect the VES upload to succeed and so we perform it.  Since we expect VES to succeed more often than PEGA uploads, we can significantly reduce the occurrences of the services getting out of sync by performing the uploads in this order.
+Since PEGA is the more complicated backend and we expect more failures to occur uploading to it than to VES, we want to ensure the VES upload should succeed before we attempt the PEGA submission.  This is a simple validation of required fields on the incoming requests.  Submitting to PEGA after this initial validation provides flexibility to perform retries should the upload fail, and means we shouldn't continue to attempt a VES upload since we don't want the services getting out of sync.  With a successful PEGA submission, here we already expect the VES upload to succeed and so we perform it.  Since we expect VES to succeed more often than PEGA uploads, we can significantly reduce the occurrences of the services getting out of sync by performing the uploads in this order.
 
 One issue lies with a successful PEGA submission but an unsuccessful VES submission.  In this case we expect manual intervention will be required.
 
@@ -63,7 +63,7 @@ To assist with our retry logic, specifically with Sidekiq jobs which may run lon
 
 #### Looped uploads
 
-PEGA submission logic includes automatic retried for failed uploads, which recreate the PDFs from all the original files and attempts to resubmit everything.  For VES, we don't expect to see similar failures but will likely reuse the retry logic regardless. 
+PEGA submission logic includes automatic retries for failed uploads, which recreate the PDFs from all the original files and attempts to resubmit everything.  For VES, we don't expect to see similar failures but will likely reuse the retry logic regardless. 
 
 A separate [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105021) to refactor the retry logic in `UploadsController::handle_file_uploads` to a common method/utility will allow us to reuse the existing code without duplication.  This logic encapsulates:
 
@@ -73,6 +73,6 @@ A separate [ticket](https://github.com/department-of-veterans-affairs/va.gov-tea
 
 #### Sidekiq job
 
-Separate to this basic retry loop is a mechanism to verify files have been received by PEGA.  This is a Sidekiq job periodically loads all submission records from our database with a `nil` PEGA status, and will attempt to reupload the documents.  Emails are sent to PEGA for submissions which are still failing after a set number of days (7 by default).
+Separate to this basic retry loop is a mechanism to verify files have been received by PEGA.  This is a Sidekiq job that periodically loads all submission records from our database with a `nil` PEGA status, and will attempt to reupload the documents.  Emails are sent to PEGA for submissions which are still failing after a set number of days (7 by default).
 
 For VES, this logic may be repurposed - since we're only executing a simple POST request to submit data, it is much simpler to attempt resubmissions given we will be storing the request parameters in a new `ves_data` column.  
