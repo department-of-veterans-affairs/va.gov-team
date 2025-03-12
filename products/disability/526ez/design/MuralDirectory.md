@@ -1,5 +1,5 @@
 # MURAL DIRECTORY
-This is a list of Murals created to help teams understand and contribute to the design of the 526EZ and its associated forms.
+This is a list of Murals created to help teams understand and contribute to the design of the 526EZ and its associated forms. _(as of 3/12/2025)_
 
 ## 526ez Form 
 [Master 526ez Form Flow Active](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686768383603/3f4415dd2ddb71bbd104ebefd92a2c7b553ad792) - This flow represents the current state of the 21-526EZ, excluding in-progress changes, which will be designed in Figma or other Murals. 
