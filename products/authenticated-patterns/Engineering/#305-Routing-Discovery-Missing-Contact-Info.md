@@ -1,4 +1,5 @@
 # **Resolving Contact Info Navigation Issues**
+Related [ticket](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/305)
 
 Experimental branch and draft PR with suggested fixes
 
@@ -112,3 +113,29 @@ The current implementation of handling missing contact info **goes against** the
 
 ## **🔷 Alternative solution** 
 Revert to the original process for handling missing contact information. When the user reaches the contact info review page, display an alert indicating any missing information. Prevent them from navigating away from the page until all required fields are completed.
+
+## **🟩 Decision**
+Considerations from reviewing the branch / draft PR:
+
+- new Redux reducers are introduced.
+  - To do this we will first need to decouple the reducer from our mock form app and make a 'single use' reducer that can be imported on a form by form basis from platform.
+  - Less than ideal because it requires an additional step for each app when adding the feature and introducing a point of failure if not followed. This breaks from the existing solution which is a singular function call with no additional wiring up via reducers.
+  - It also introduces some additional global state that could be considered overhead and not used anywhere else but for this flow.
+
+  
+- the `RoutedSavableApp` component is modified to add additional 'componentDidUpdate' lifecycle calls. This means that whenever the RoutedSavableApp props update (which is unfortunately pretty much every change of a form / every keystroke into a field) then the functions will be called to get session storage and check against it. Performance wise this isn't good, and is compounded since we are also doing JSON parsing in this lifecycle hook. I don't know of a better way around this, but because this would affect every form, whether it uses the new ContactInfo component or not, I think it would be better not to touch this component if at all possible.
+- The addition of session storage to persist url history, does have some security concerns. If a url history entry is captured that has a refresh token or access token in the url query params (which is what is done when doing SSO auth redirects) then there could be the potential that these tokens could be accessed by a malicious chrome extension or script running on the page. This is a pretty small attack surface, but is still something to consider.
+- Duplicating browser history state in session storage would not be considered best practice and goes against web standards. If a user decides not to allow session storage on their browser, this feature would not work.
+- Having this additional reliance on session storage, a new Redux reducer, and changes to the RoutedSavableApp results in this not being able to be put behind a feature toggle due to complexity and the inability to check toggle values before initiating the Redux state store.
+- This will solve the routing and navigation issues, but focus and a11y still need to be worked out
+
+
+**Notes on using the existing implementation:**
+
+- maintains best practice for the focus state on each field after editing success or failure
+- code maintenance is done in a single place without touching global form system components and redux state
+- design changes are low LOE to update to match our existing pattern designs
+- wont require any additional work by other teams already using the ContactInfo component to implement
+
+
+From an engineering perspective, my suggestion would be to not continue down a rework of the navigation flow integration. LOE is high, the potential for breaking changes is real, and the time involved in getting this rework tested and implemented could potentially push back engineering work, especially if we are going to undertake the task of building a new review page pattern. 
