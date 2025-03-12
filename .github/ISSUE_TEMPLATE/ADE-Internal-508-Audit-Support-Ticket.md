@@ -106,7 +106,7 @@ Insert background
 - [ ] _Update date in `Last Checked` field_
 - [ ] _Label with `Actual` (level of effort it took to complete this ticket)_
 - [ ] _Update date in_ `Closed Date`
-- [ ] _Make sure the `ADE 508 RECHECK` label is on this ticket upon closing and that a follow-up date has been established and calendared. 
+- [ ] _Make sure the `ADE 508 RECHECK` label is on this ticket upon closing and that a follow-up date has been established and calendared. _
 - [ ] **Read** About this Template section, at the bottom of this ticket.
 - [ ] **Delete** About this Template section, at the bottom of this ticket, after reading. 
 
@@ -134,5 +134,6 @@ Insert background
       - **Child Tickets aka Sub-Issues**:
           - If this ticket is a `Child` ticket aka `sub-issue` ... add the appropriate labels for `ADE 508 FLAG CRITICAL` or `ADE 508 FLAG HIGH` or `ADE 508 FLAG MEDIUM` or `ADE 508 FLAG LOW`
 </details>
+
 > [!WARNING]
 _Please delete this alert after reading and/or prior to saving this ticket template._
