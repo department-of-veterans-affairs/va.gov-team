@@ -16,7 +16,7 @@
   
   - JR
     - 0781 Paper Sync
-      - Scope change - Modal - opt out of 0781 destructive action modal (for 0781 choice page only) - _This is large and slightly more complicated than some of our other destructive modals. We may have to brek this down into smaller tickets and spread the work out. TBD_
+      - Scope change - Modal - Opt out of 0781 destructive action modal (for 0781 choice page only) - _This is large and slightly more complicated than some of our other destructive modals. We may have to break this down into smaller tickets and spread the work out. TBD_
 
          
  - Scott Regenthal
