@@ -172,7 +172,7 @@ body:
       - label: Read Platform guidance on [research with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)
       - label: Review our [assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md)
 
--- type: checkboxes
+- type: checkboxes
   id: next-steps-team-later
   attributes:
     label: If ADE specialists are assigned to support your research sessions, you'll need to do these later
