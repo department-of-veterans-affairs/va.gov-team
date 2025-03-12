@@ -13,6 +13,13 @@
     - Add spouse via tribal ceremony, add two children; remove child who got married
     - Add spouse via other marriage type, add 1 student who has been on benefits before and 1 student who has not been on benefits before; remove child who left school
     - Add a student
+   - 674 Test scenarios used by RBPS testing team
+      - VA.gov 674-1: Pension add school child (RBPS should process)
+      - VA.gov 674-2: Compensation add school child (RBPS should process)
+      - VA.gov 674-3: Pension add school child - School not accredited (RBPS should off-ramp for manual review)
+      - VA.gov 674-4: Pension add school child - DOB miss-match (RBPS should off-ramp for manual review)
+      - VA.gov 674-5: Pension add school child - Receiving Tuition (RBPS should off-ramp for manual review)
+      - VA.gov 674-6: Pension add school child - School start date in future (RBPS should off-ramp for manual review) 
 
 ## Instructions for Design Review
 1.	Review copy for design match
