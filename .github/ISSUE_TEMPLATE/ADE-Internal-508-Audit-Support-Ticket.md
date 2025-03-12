@@ -35,8 +35,8 @@ assignees: artsymartha68,sara-amanda,lakper
 ## 508 Audit Feedback Received
 > [!TIP]
 > _Paste in the text from the 508 Audit Report the team received via email from the 508 office, for your product here._
-> [Ref. Section 508 ICT Testing Baseline Portfolio All Baseline Tests for Web.](https://ictbaseline.access-board.gov/allwebbaselines.html)
-> [Ref. Impact Table](https://www.section508.gov/content/mapping-wcag-to-fpc/)
+> - [Ref. Section 508 ICT Testing Baseline Portfolio All Baseline Tests for Web.](https://ictbaseline.access-board.gov/allwebbaselines.html)
+> - [Ref. Impact Table](https://www.section508.gov/content/mapping-wcag-to-fpc/)
 
 `Insert report here.`
 
@@ -95,8 +95,8 @@ Insert background
 ## ADE Internal
 ### Ticket Updates
 - [ ] _Connect to an `Epic/Parent` or `Intake` (what body of work is this a part of?) If this is the `Epic/Parent`, connect related tickets as sub-issues._
-- [ ] _If this is the `Epic/Parent` ticket ... add label for `ADE 508 RECHECK`
-- [ ] _If this ticket is a `Child` ticket aka `sub-issue` please add the appropriate labels for `ADE 508 FLAG CRITICAL`;`ADE 508 FLAG HIGH`; `ADE 508 FLAG MEDIUM` or `ADE 508 FLAG LOW`
+- [ ] _If this is the `Epic/Parent` ticket, add label for `ADE 508 RECHECK`_
+- [ ] _If this ticket is a `Child` ticket aka `sub-issue` please add the appropriate labels for `ADE 508 FLAG CRITICAL`;`ADE 508 FLAG HIGH`; `ADE 508 FLAG MEDIUM` or `ADE 508 FLAG LOW`_
 - [ ] _Label with `Originator/Team` (product team or stakeholder requesting support; ADE if internal)_
 - [ ] _Label date in the `Open Date` field_
 - [ ] _Label with `Estimate` (level of effort expected for this ticket)_
