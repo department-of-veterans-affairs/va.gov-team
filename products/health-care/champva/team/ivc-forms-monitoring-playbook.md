@@ -62,8 +62,11 @@ Investigation
 - Collect the attachment IDs of all documents associated with the given form submission (via the Production vets-api database)
 - Collect the attachment IDs of documents missing a PEGA status within that batch
   ```ruby
-  # Production console in Argo CD
-  form_and_attachments = IvcChampvaForm.where(pega_status: nil)
+  # Create an instance of the production support helper class (only need to do once per console session)
+  msc = IvcChampva::ProdSupportUtilities::MissingStatusCleanup.new
+
+  # Collect and display any submissions with missing statuses
+  missing = msc.get_missing_statuses
   ```
 - Provide the full list of attachment IDs and their PEGA statuses to the PEGA team for analysis
  - The PEGA team will provide the applicant name and the batchID to the VA.gov team.
