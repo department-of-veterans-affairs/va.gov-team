@@ -27,27 +27,7 @@ The "Missing Pega Status" dashboard widget indicates that certain forms haven't 
 bundle exec rails console
 ```
 
-5. Query the Database:
-
-* Use the IvcChampvaForm model to query the database for forms with a missing pega_status:
-
-```Ruby
-# Rails console
-IvcChampvaForm.where(pega_status: nil)
-```
-
-6. Update the pega_status:
-
-* For each form with a missing pega_status, update the value to "Manually Processed":
-
-```Ruby
-# Rails console
-form = IvcChampvaForm.find(form_id)
-form.update(pega_status: "Manually Processed")
-form.save
-```
-
-* Replace form_id with the actual ID of the form you want to update.
+5. Identify and update submissions using the commmands shown in [this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/on-call-procedures.md).
 
 <h2> Additional Considerations: </h2>
 
