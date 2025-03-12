@@ -124,20 +124,12 @@ Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/fil
 - [My HealtheVet - Meds & Devices](https://www.figma.com/files/team/1278375444205744118/project/176500922/MHV---Meds-%26-Devices?fuid=1094287939207433857)
 - [My HealtheVet - Messages](https://www.figma.com/files/team/1278375444205744118/project/198497820/MHV---Messages?fuid=1094287939207433857)
 
-### Relevant Mural Rooms 
+### Additional Relevant Mural Rooms 
 
 - [Cartographers - MHV on VA.gov portal](https://app.mural.co/invitation/room/1698186759596?code=02f984b27ce94456b25ea2a67987e582&sender=u24af215c7d9bf806b8545488)
 - [MHV on VA.gov](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521) 
 
-## <a name="research"></a>Research resources<be>
-
-### Portal wide research 
-
-### Landing page 
-
-### Secondary navigation 
-
-
+### Additional portal related links
 
 _The following are some helpful health portal related links._
 
@@ -153,7 +145,6 @@ _Tool specific research_
 - [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research) 
 
 You can learn more about getting started with research at VA here: [Research at VA](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va).
-
 
 
 ## <a name="engineering"></a>Engineering resources<be>
