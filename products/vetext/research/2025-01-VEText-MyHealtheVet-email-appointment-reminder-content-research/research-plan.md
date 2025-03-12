@@ -4,7 +4,7 @@
 ## Background
 VEText is a platform for sending SMS messages to Veterans. These messages can be either one way or interactive. It was developed to lower no-show rates for Veterans’ health appointments by a team at the VA Loma Linda Healthcare system and rolled out nationally in 2018.
 
-VEText will begin additionally sending the email appointment reminders for MyHealtheVet, as My HealtheVet migrates to VA.gov. We would like to evaluate the content, cadence or functionality of those email appointment reminders by asking Veterans for feedback. This feedback will determine if changes should be made to the content, cadence or functionality in order to improve Veterans’ experience using email health appointment reminders.
+VEText will begin additionally sending the email appointment reminders for My HealtheVet, as My HealtheVet migrates to VA.gov. We would like to evaluate the content, cadence or functionality of those email appointment reminders by asking Veterans for feedback. This feedback will determine if changes should be made to the content, cadence or functionality in order to improve Veterans’ experience using email health appointment reminders.
 
 [Link to Team Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/vetext)
 
