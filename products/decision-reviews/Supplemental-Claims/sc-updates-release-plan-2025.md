@@ -34,7 +34,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| insert here | This toggle enables the spring SC updates |
+| sc_new_form | This toggle enables the spring SC updates |
 
 ## Step 2: Validation
 
