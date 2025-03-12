@@ -91,7 +91,7 @@ body:
 - type: input
   id: research-topic
   attributes:
-    label: If you want to request accesssibility research on a specific topic, what is the topic?
+    label: If you want to request accessibility research on a specific topic, what is the topic?
     description: We will reach out to you to discuss this
 
 - type: markdown
@@ -111,13 +111,6 @@ body:
     options:
       - label: Confirm you are filing this support ticket at least 2 weeks in advance of this timeframe, so there's enough lead time to provide support
 
-- type: input
-  id: num-participants
-  attributes:
-    label: How many participants using assistive tech (AT) are you planning?
-  validations: 
-    required: false
-
 - type: checkboxes
   id: AT-types
   attributes:
@@ -128,6 +121,13 @@ body:
       - label: Speech recognition
       - label: Other
     
+- type: input
+  id: num-participants
+  attributes:
+    label: How many participants (total) using assistive tech (AT) are you planning?
+  validations: 
+    required: false
+
 - type: checkboxes
   id: device-types
   attributes:
@@ -150,7 +150,7 @@ body:
 - type: textarea
   id: artifacts
   attributes:
-    label: Artifacts about your study (if any)
+    label: Artifacts about your study (if you have any at this time)
     description: If relevant, please provide supporting artifacts as available
     value: |
       - [Product outline](insert URL here)
@@ -163,29 +163,34 @@ body:
 
 
 - type: checkboxes
-  id: next-steps-team
+  id: next-steps-team-now
   attributes:
-    label: Next steps for you
+    label: Next steps for you now
     description: After submitting this ticket, please complete the following tasks
     options:
       - label: Post a link to this ticket in the "accessibility-help" Slack channel and tag Lakwi Perera and Cindy Merrill
       - label: Read Platform guidance on [research with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)
       - label: Review our [assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md)
-      - label: (later) If ADE specialists are assigned to support your research sessions, add each specialist to the corresponding session invite with videoconferencing link
-      - label: (later) If ADE specialists are assigned to support your research sessions, provide each specialist with your participant’s AT years of experience, device, operating system, assistive tech, and browser (if known)
-      - label: (later) Fill out the optional feedback form to let us know how we can support you better 
 
-- type: checkboxes
+-- type: checkboxes
+  id: next-steps-team-later
+  attributes:
+    label: If ADE specialists are assigned to support your research sessions, you'll need to do these later
+    options:
+      - label: Add each specialist to the corresponding session invite with videoconferencing link
+      - label: Provide each specialist with your participant’s AT years of experience, device, operating system, assistive tech, and browser (if known)
+
+ type: checkboxes
   id: next-steps-ADE
   attributes:
-    label: ADE team members will work on these tasks, depending on what you requested
+    label: This what ADE team members will do, depending on what you requested
     options:
       - label: Reply to you and schedule a meeting if needed
       - label: Assign accessibility specialist(s) to work with you
       - label: Review your research plan and conversation guide
       - label: Create a research notes template
       - label: Add accessibility findings to your research folder after the research sessions
-      - label: (later) Send optional feedback form  
+      - label: Send optional feedback form  
     
 
 
