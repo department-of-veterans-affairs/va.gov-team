@@ -37,7 +37,7 @@ This brief will help your team create content for your product that aligns with 
 
 Last updated: March 11, 2025
 
-Based on a meeting between Shane Elliott, Kay, Kristen, Lauren A., and the Privacy Office, using a signed 2023 MOU as guidance, we can only **include** the following ePHI/PII fields in **unencrypted** email reminders for Veterans who opt-in via VeText/VA.gov profile:
+Based on a meeting between the Unified Appointment Experience Team and the Privacy Office, using a signed 2023 MOU as guidance, we can only **include** the following ePHI/PII fields in **unencrypted** email reminders for Veterans who opt-in via VeText/VA.gov profile:
 - Date/time of appointment
 - Status
 - Location
