@@ -1,41 +1,34 @@
-# Architecture Intent meeting template
+# ARM: Consuming the Accreditation API – Architecture Intent
 
-## Instructions
+For the past 1.5 years, we've relied on a weekly `.XLSX` file from the Office of General Counsel (OGC) containing updated representative and organization data. We sanitize this data and push it to the `va.gov-teams-sensitive` repository. A Sidekiq job runs daily to check if the file has been updated in the last 24 hours. If it has, we retrieve the file, iterate through specific sheets, compare the data, and update records in the `veteran_representatives` and `veteran_organizations` tables as needed.
 
-Your document should be brief and high-level. Please keep it to a single page. Focus on the high level and link to supporting material where appropriate; this is _not_ a detailed engineering spec.
+We are now replacing this manual `.XLSX` file update process with an automated integration that consumes the new Accreditation API developed by OGC. Additionally, we will deprecate the legacy `veteran_representatives` and `veteran_organizations` tables, previously created by Lighthouse, in favor of three new tables: `accredited_individuals`, `accredited_organizations`, and `accreditations`. These new tables provide a more structured and flexible data model.
 
-Some of the items below may not apply to your work--that's okay. You may not be able to fill in some items that _do_ apply to your work--that's also okay. If you don't have answers, please come ready to ask questions.
+To provide context, here are the current record counts in the staging environment, which should match production:
 
-## Overview
+#### Record Counts in Staging
 
-### Consuming the Accreditation API
-
-#### Number of Records in Latest Trexler File
-
-- **Attorneys:** 5292
-- **Claims Agents:** 599
-- **Representatives:** 18102 (many are duplicate representatives with unique POA)
-- **Organizations:** 95
-
-#### Number of Records in Staging
-
-- **`veteran_representatives`:** 14191
+- **`veteran_representatives`:** 14,191
 - **`veteran_organizations`:** 110
 
-### Seed the New Tables
+This document outlines our approach to transitioning from the `.XLSX` ingest process to automatically consuming the Accreditation API.
 
-Seed the new `accredited_individuals`, `accredited_organizations`, and `accreditations` tables with records from the legacy `veteran_representatives` and `veteran_organizations` tables so we don’t have to hit the Address Validation API for all of the records again.
+---
 
-**Steps:**
+## Seeding the New Tables
+
+To avoid unnecessary API calls to the Address Validation API, we will prepopulate the new `accredited_individuals`, `accredited_organizations`, and `accreditations` tables using data from the legacy `veteran_representatives` and `veteran_organizations` tables.
+
+### Steps:
 
 1. **Create a Rake Task**  
-   Create a rake task to copy records from the legacy representatives and organizations tables into the new ones:
+   Develop a Rake task to migrate records from the legacy tables to the new schema:
 
-   - Add organizations.
-   - Add representatives and create records in the `accreditations` join table.
+   - Populate the `accredited_organizations` table.
+   - Populate the `accredited_individuals` table and create corresponding records in the `accreditations` join table.
 
-2. **Use Batch Processing**  
-   Use Rails’ `find_in_batches` and `insert_all` Active Record commands to process the records in chunks of 1000. For example:
+2. **Implement Batch Processing**  
+   Use Rails' `find_in_batches` and `insert_all` methods to process records in chunks of 1,000. For example:
 
    ```ruby
    OldModel.find_in_batches(batch_size: 1000) do |batch|
@@ -43,54 +36,58 @@ Seed the new `accredited_individuals`, `accredited_organizations`, and `accredit
        {
          new_field1: record.field1,
          new_field2: record.field2,
-         # … other transformations as needed
+         # Other necessary transformations
          created_at: Time.current,
          updated_at: Time.current
        }
      end
 
-     # Insert the transformed batch into the new table in one query
+     # Efficiently insert the transformed batch into the new table
      NewModel.insert_all(transformed_records)
    end
    ```
 
-We’ll run this rake task once.
+   This Rake task will be executed once.
 
-**This approach ensures that:**
+### Benefits of This Approach:
 
-- **Memory Usage** is kept low since only 1,000 records are processed at a time.
-- **Performance** is maintained by executing fewer, more efficient SQL queries (one per batch).
-- **Simplicity** is retained since it’s an in-place operation without the overhead of background job systems like Sidekiq.
+- **Optimized Memory Usage** – Only 1,000 records are processed at a time, preventing memory overload.
+- **Improved Performance** – Batch inserts reduce the number of database queries, enhancing efficiency.
+- **Simplicity** – The migration is an in-place operation, avoiding the complexity of background job systems like Sidekiq.
 
-### Create Daily Sidekiq Job to Consume the Accreditation API
+---
 
-Create a daily job to hit the Accreditation API to update the `accredited_individuals`, `accredited_organizations`, and `accreditations` tables.
+## Daily Sidekiq Job for Accreditation API Integration
 
-**Modifications and Logic Adjustments:**
+A new daily Sidekiq job will fetch data from the Accreditation API to update the `accredited_individuals`, `accredited_organizations`, and `accreditations` tables.
 
-- **Active Flag/Soft Delete:**  
-  Add an `is_active` column (defaulting to `true`) to the `accredited_individuals` and `accredited_organizations` tables. If the Accreditation API doesn’t include an individual or organization, update the corresponding record's `is_active` column to `false` for soft delete.
+### Modifications & Logic Adjustments:
 
-- **Import Logic Changes:**  
-  Keep much of the logic from the Trexler File import except:
+- **Active Flag & Soft Deletion**
 
-  - Create new records that don’t exist.
-  - Mark records that exist in our tables but are missing from the Accreditation API response as `is_active = false` to “soft delete” them.
-  - Diff a record’s `raw_address` in our tables with the corresponding Accreditation API record to determine if the address needs to be updated.
-  - Diff the `phone` value instead of the `phone_number` value (since we no longer use `phone_number`).
-  - Diff the individual’s names (since names may change due to events like marriage).
-  - Continue to diff the email.
+  - Add an `is_active` column (default: `true`) to the `accredited_individuals` and `accredited_organizations` tables.
+  - If an individual or organization is missing from the API response, mark its `is_active` column as `false` rather than deleting the record.
 
-- **Other Considerations:**
-  - Determine what to do with `can_accept_reject_poa`.
-  - Keep the existing Sidekiq job/implementation to update records.
+- **Import Logic Updates**  
+  Retain core logic from the existing `.XLSX` import process, with the following modifications:
 
-This setup should help maintain data integrity while ensuring the Accreditation API updates are applied consistently across our systems.
+  - Insert new records for individuals and organizations that do not yet exist.
+  - Mark records as inactive (`is_active = false`) if they exist in our database but are absent from the Accreditation API response.
+  - Compare `raw_address` values to detect address changes.
+  - Compare `phone` values instead of `phone_number`, since `phone_number` is no longer in use.
+  - Compare individual names to account for changes (e.g., due to marriage).
 
-## Checklist
+- **Additional Considerations**
+  - Retain the existing Sidekiq job structure for record updates.
+  - Determine the appropriate handling of the `can_accept_reject_poa` field.
+  - If the Accreditation API response includes `created_at` and `updated_at` fields for each record, we can optimize updates by skipping records that have not been created or modified in the last 24 hours, reducing unnecessary processing.
+
+By implementing this architecture, we ensure data consistency, streamline the update process, and improve overall system reliability.
+
+## Architecture Intent Checklist
 
 - Product description
-  - [x] For the past 1.5 years, we've relied on a weekly .XLSX file to be shared with us from OGC with updated representative and organization data that we sanitize and push to the `va.gov-teams-sensitive repo`. A Sidekiq job runs daily to check if the file has been updated in the last 24 hours; if it has been, we grab the file, interate through the records in specific sheets, diff the data, and update records in the `veteran_representatives` and `veteran_organizations` if they need to be updated. We're replacing this XLSX file with the new Accrediation API that GCLAWS built for us.
+  - [x] As mentioned above, for the past 1.5 years, we've relied on a weekly `.XLSX` file from the Office of General Counsel (OGC) containing updated representative and organization data. We sanitize this data and push it to the `va.gov-teams-sensitive` repository. A Sidekiq job runs daily to check if the file has been updated in the last 24 hours. If it has, we retrieve the file, iterate through specific sheets, compare the data, and update records in the `veteran_representatives` and `veteran_organizations` tables as needed.
   - [ ] Link to Collaboration Cycle Request issue
 - UX design description
   - [x] NA ~For user-facing changes, link to UX prototype or wireframes if available~
@@ -213,16 +210,3 @@ This setup should help maintain data integrity while ensuring the Accreditation 
   - [x] What questions do you have regarding items on the [security checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/collab-cycle/architecture-intent-meeting.md#security-checklist)?
   - [x] Are there any other security concerns about your project that you want to discuss? No.
   - [ ] What [threat modeling](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html) have you done, and how did the results influence your planned architecture?
-
-## Where to put this checklist and what to name it
-
-This document should be in markdown and should be dropped into the following location when complete:
-
-va.gov-team-sensitive/tree/master/platform/engineering/collaboration-cycle/architecture-intent/checklist/
-
-Name the file in the following format:
-[team]-[application]-[date]
-
-Team and application should match your Collab Cycle kick-off ticket (so we know who you are). Date should be supplied in the format MMDDYYYY.
-
-Once you've dropped this checklist into this folder, please update your Collab Cycle ticket with the location as well as a link to your user data flow document.
