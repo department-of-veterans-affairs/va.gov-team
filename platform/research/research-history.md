@@ -1537,7 +1537,7 @@ Majority synthesis done post-its
 #### February 16-17 - Facility locator & Blue Button
 *Research Leads: Natalie Moore and Sophia Dengo*
 - 5-6 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/archive)
 
 ### January 2017
 
