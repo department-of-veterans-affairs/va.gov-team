@@ -96,7 +96,8 @@ body:
 
 - type: markdown
   attributes:
-    value: "## About your research study (fill in whatever you know at this time)"
+    value: |
+      ## About your research study (fill in whatever you know at this time)
 
 - type: input
   id: timeframe
@@ -161,6 +162,11 @@ body:
       - [Research folder in github](insert URL here)
       - [Epics/issue that may be helpful](insert URL here)
 
+- type: markdown
+  attributes:
+    value: |
+      ## Next Steps
+
 
 - type: checkboxes
   id: next-steps-team-now
@@ -168,7 +174,7 @@ body:
     label: Next steps for you now
     description: After submitting this ticket, please complete the following tasks
     options:
-      - label: Post a link to this ticket in the "accessibility-help" Slack channel and tag Lakwi Perera and Cindy Merrill
+      - label: Post a link to this ticket in the OCTO slack "accessibility-help" channel and tag Lakwi Perera and Cindy Merrill
       - label: Read Platform guidance on [research with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)
       - label: Review our [assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md)
 
