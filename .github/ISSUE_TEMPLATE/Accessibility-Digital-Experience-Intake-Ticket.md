@@ -3,7 +3,7 @@ name: "Accessibility Digital Experience (ADE) Intake Form"
 about: Use this ticket to request collaboration on a new initiative with the Accessibility Digital Experience (ADE) team (pronounced /ād/). 
 title: '[ADE Intake]:<Team Name><Product><Requesting>'
 labels: 'ADE, ADE Intake'
-assignees: artsymartha68,sara-amanda,NaomiPMC,lakper
+assignees: artsymartha68,sara-amanda,lakper
 
 ---
 
