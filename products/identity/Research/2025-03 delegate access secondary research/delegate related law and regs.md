@@ -2,6 +2,9 @@
 - where delegate access = all kinds of guardians, caregivers, alternate signers, and representatives
 - see also []()
 - this dosen't claim to be an exahustive list, and all of these might not be relevent for online or digital delegate access.
+- Grok AI readout of the process to gain delegate access to a veteran's online account *** To be validated *** 
+   - [Version 1](https://grok.com/share/bGVnYWN5_a6bd3b2d-b166-452b-ac4e-bf0ca22e1acf)
+   - [Version 2](https://grok.com/share/bGVnYWN5_100770c1-7786-43e7-b225-f23df6892605)
 
 | Law or regulation | Description | Forms |
 | --- | --- | --- |
@@ -12,11 +15,12 @@
 | 38 U.S. Code § 5701(b) | Allows for disclosure of private information to a claimant’s representative for claims concerning only the claimant |
 | 38 U.S. Code § 7331 | Requires all patient care to be carried out with informed consent of the patient, or a representative when necessary |
 | 38 U.S. Code § 7332 | Allows for disclosure of medical records to representatives and surrogates when a practitioner deems it necessary for informed consent |
+| 38 CFR 1.600–1.603 |  | |
 | 45 CFR § 164.308 | Requires risk analysis, authorization and clearance procedures, and safeguards against disclosure of protected health information |
-| Privacy Act of 1974 (5 U.S.C. § 552a) | Establishes code of fair information practices governing the maintenance, use, and dissemination of information |
+| Privacy Act of 1974 (5 U.S.C. § 552a) | Establishes code of fair information practices governing the maintenance, use, and dissemination of information. Namely that personal information can only be shared if they (in this case the veteran) has given consent | can include POA (generally), which means for VA probably VA 21-22 and 21-22a |
 | Health Insurance Portability and Accountability Act | National standards to protect sensitive patient health information from being disclosed without consent |
 | Veterans Benefits, Health Care, and Information Technology Act | Modified point in which attorneys or accredited agents could charge fees for services. Changed qualifications and standards for accredited attorneys |
-| Wounded Warriors Access Act (Public Law 118-21) | Requires a secure website or online tool for a claimant, agent, or representative to submit an electronic request for records maintained by the VA |
+| Wounded Warriors Access Act (Public Law 118-21) | Requires a secure website or online tool for a claimant, agent, or representative to submit an electronic request for records maintained by the VA. Notibly it does not require online access for managing care |
 | Creating Advanced Streamlined Electronic Services for Constituents (CASES) Act (Public Law 116-50) | Requires agencies to accept electronic forms that allow individuals to consent to the disclosure of their records  |
 | Rehabilitation Act of 1973, Section 504 (29 U.S.C. § 794) | A civil rights law that prohibits discrimination including against veterans and their caregivers in accessing benefits and care|
 | Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Pub. L. 116–315) | Requires increased speed, data sharing, and transparency of claim status, including with an acredited representative and including electronic access |
