@@ -2,7 +2,7 @@
 
 ## Foundational Artifacts
 [Journeys of Veterans Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) (VEO, 2019?) 
-[Disability Compensation Veteran Experience Journey Map](https://drive.google.com/file/d/1mfigVlDd70gKihsY8T6mE60NhLXlk_z-/view?usp=sharing) (VEO, 2023) + [Additional version](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/discovery/2017-discovery-sprint/output/journey-map/veteran-journey-disability-claim-11x17-anonymous-9.4.17.pdf) (2019)
+[Disability Compensation Veteran Experience Journey Map](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/0%20-%20Veterans%20%26%20the%20526ez/JourneyMap_V16_20230119.pdf?csf=1&web=1&e=TdKNln) (VEO, 2023) + [Additional version](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/discovery/2017-discovery-sprint/output/journey-map/veteran-journey-disability-claim-11x17-anonymous-9.4.17.pdf) (2019)
 
 **Related to VA employee processing of claims:**
 - [VSR journey map](https://app.mural.co/t/nava4113/m/nava4113/1629127127393/79eff6cd37a254993bb9907aa80a50fcc47716a3?sender=ua6bf216e03489400c6664986) (VRO, 2021) + [Report on Notion](https://www.notion.so/Aug-2021-VSR-Journey-Research-0a94b3a68deb469b992275f6ddab40be) + [Report on Sharepoint](https://dvagov.sharepoint.com/:w:/s/vaabdvro/EWnhesCqQGVOswr_HUKRgMUBJU7dn5g2JMEg_PqV6Isl_w?e=r9jO9h) 
