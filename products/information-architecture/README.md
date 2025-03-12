@@ -47,13 +47,13 @@ In addition, well-organized content that utilizes clear and relevant labeling al
 - OCTO Lead Information Architect: Mikki Northuis (michelle.northuis@va.gov)
 
 - Sitewide IA
-  - @jonichan-ia,  Amy Grace Wells
+  - Joni Chane (@jonichan-ia),  Amy Grace Wells
   - Slack: #sitewide-content-ia
 - Health portal IA:
-  - @sterkenbergsara
+  - Sara Sterkenberg (@sterkenbergsara)
   - Slack: #mhv-on-vagov-cartography-team
 - Governance IA
-  - @erinwhite
+  - Erin White (@erinwhite)
   - Slack: #vfs-platform-support
 
 
