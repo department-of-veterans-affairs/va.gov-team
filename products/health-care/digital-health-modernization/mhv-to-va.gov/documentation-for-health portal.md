@@ -13,8 +13,7 @@ This document serves as a resource for future work, ensuring that our team and f
 * [Where are we now? - Existing features](#existingfeatures)
 * [Where are we going? - 2025 goals/key milestones](#2025goals)
 * [High-level performance and adoption metrics for the health portal](#metrics)
-* [Design resources](#design)
-* [Research resources](#research)
+* [Design and research resources](#design)
 * [Engineering resources](#engineering) 
 * [Quality Assurance](#qa)
 
