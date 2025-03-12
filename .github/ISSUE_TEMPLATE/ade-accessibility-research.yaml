@@ -56,6 +56,45 @@ body:
 
 - type: markdown
   attributes:
+    value: |
+      ## What kind(s) of research help would you like from ADE?
+
+- type: checkboxes
+  id: help-research-materials
+  attributes:
+    label: Review research materials
+    options:
+      - label: Research plan
+      - label: Recruitment criteria
+      - label: Screening questions for inclusive recruiting
+      - label: Conversation guide    
+- type: checkboxes
+  id: help-tech-support
+  attributes:
+    label: Provide technical support
+    options:
+      - label: Help building an accessible prototype
+      - label: Pilot with an accessibility specialist
+      - label: Live technical support during your AT research sessions  
+
+- type: checkboxes
+  id: help-moderation
+  attributes:
+    label: Help with research sessions
+    options:
+      - label: Advise on moderating AT research sessions
+      - label: Have an accessibility researcher moderate your AT research sessions
+      - label: Have an accessibility specialist observe your AT research sessions and document accessibility-related issues encountered  
+      - label: Collaborate with an accessibility researcher to research a specific topic of interest
+
+- type: input
+  id: research-topic
+  attributes:
+    label: If you want to collaborate with an accessibility researcher to research a specific topic, what is the topic?
+    description: We will reach out to you to discuss this
+
+- type: markdown
+  attributes:
     value: "## About your research study (if known)"
 
 - type: input
@@ -108,49 +147,6 @@ body:
       - label: CodePen
       - label: Staging
       - label: Other
-     
-- type: markdown
-  attributes:
-    value: "## What kind(s) of research help would you like from ADE?"
-
-- type: markdown
-  attributes:
-    value: |
-      ## TEST HEADING What kind(s) of research help would you like from ADE?
-
-- type: checkboxes
-  id: help-research-materials
-  attributes:
-    label: Review research materials
-    options:
-      - label: Research plan
-      - label: Recruitment criteria
-      - label: Screening questions for inclusive recruiting
-      - label: Conversation guide    
-- type: checkboxes
-  id: help-tech-support
-  attributes:
-    label: Provide technical support
-    options:
-      - label: Help building an accessible prototype
-      - label: Pilot with an accessibility specialist
-      - label: Live technical support during your AT research sessions  
-
-- type: checkboxes
-  id: help-moderation
-  attributes:
-    label: Help with research sessions
-    options:
-      - label: Advise on moderating AT research sessions
-      - label: Have an accessibility researcher moderate your AT research sessions
-      - label: Have an accessibility specialist observe your AT research sessions and document accessibility-related issues encountered  
-      - label: Collaborate with an accessibility researcher to research a specific topic of interest
-
-- type: input
-  id: research-topic
-  attributes:
-    label: If you want to collaborate with an accessibility researcher to research a specific topic, what is the topic?
-    description: We will reach out to you to discuss this
 
 - type: textarea
   id: artifacts
