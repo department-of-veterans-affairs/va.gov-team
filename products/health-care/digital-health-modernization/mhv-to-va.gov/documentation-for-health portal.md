@@ -88,7 +88,6 @@ This folder contains metrics on the following:
 
 ## <a name="design"></a>Design resources<be>
 
-
 ### Design system 
 
 The VA.gov Design System is the front-end framework for VA.gov. Utilizing it in the design process will help create consistent experiences on VA.gov. 
@@ -101,11 +100,25 @@ Design teams at VA use Figma to view, share, and collaborate on our work. Here a
 
 Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/files/team/1278375444205744118/project/176500480/MHV---Portal?fuid=1094287939207433857) room. This space contains the design files for the team's responsibilities, including My HealtheVet landing page and Secondary navigation. 
 
-- **My HealtheVet landing page** 
+### My HealtheVet landing page specific 
 
-- **Secondary navigation** 
+The goals of the landing page is to provide Veterans and caregivers the ability to: 
 
-  
+- Easily and quickly navigate to information about qualifying and signing up for health benefits.
+- Easily register for a qualified authentication account in order to access My HealtheVet tools and content.
+- Sign on one time when moving from VA.gov to My HealtheVet tools or from My HealtheVet to VA.gov. 
+
+- [Landing page Figma file](https://www.figma.com/design/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?node-id=11-1274&t=0dq4hNUoyUU06DuN-1) 
+- Important research
+- Relevnet murals 
+
+### Secondary navigation 
+
+- What is it 
+- Figma file
+- Important research
+- Relevnet murals
+
 ### Additional health specific Figma files 
 
 - [My HealtheVet - Unified Appointments](https://www.figma.com/files/team/1278375444205744118/project/175332858/MHV---Unified-Appointments?fuid=1094287939207433857) 
@@ -113,8 +126,20 @@ Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/fil
 - [My HealtheVet - Meds & Devices](https://www.figma.com/files/team/1278375444205744118/project/176500922/MHV---Meds-%26-Devices?fuid=1094287939207433857)
 - [My HealtheVet - Messages](https://www.figma.com/files/team/1278375444205744118/project/198497820/MHV---Messages?fuid=1094287939207433857)
 
+### Relevant Mural Rooms 
+
+- [Cartographers - MHV on VA.gov portal](https://app.mural.co/invitation/room/1698186759596?code=02f984b27ce94456b25ea2a67987e582&sender=u24af215c7d9bf806b8545488)
+- [MHV on VA.gov](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521) 
 
 ## <a name="research"></a>Research resources<be>
+
+### Portal wide research 
+
+### Landing page 
+
+### Secondary navigation 
+
+
 
 _The following are some helpful health portal related links._
 
@@ -131,10 +156,7 @@ _Tool specific research_
 
 You can learn more about getting started with research at VA here: [Research at VA](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va).
 
-### Relevant Mural Rooms 
 
-- [Cartographers - MHV on VA.gov portal](https://app.mural.co/invitation/room/1698186759596?code=02f984b27ce94456b25ea2a67987e582&sender=u24af215c7d9bf806b8545488)
-- [MHV on VA.gov](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521) 
 
 ## <a name="engineering"></a>Engineering resources<be>
 
