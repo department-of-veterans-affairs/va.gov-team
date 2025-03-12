@@ -122,7 +122,7 @@ Insert background
      - To quickly spin up child work tickets that can connect to parent 508 audit tickets from ADE.
      - To quickly generate work tickets for the ADE team to track their internal work. 
  - **New Ticket:** 
-     - [**Create a new ADE 508 Audit Support Ticket**](xyz)
+     - [**Create a new ADE 508 Audit Support Ticket**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-Internal-508-Audit-Support-Ticket.md)
          - Deliniate if it is a parent ticket (Epic)
              - [ADE Intake]: `TEAM NAME`: `PRODUCT AUDITED`: 508 Audit Report Findings Support
          - or, if it is a child ticket (sub-issue)
