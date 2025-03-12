@@ -247,7 +247,7 @@ People also try to sway the tool away from an incorrect suggestion. Editing thei
 
 - Design and agree a now, next and later approach to category and topic determination
 - Decide when in the form to offer helpful information and determine design and technical approach
-- Add content within form and/or on confirmation page that lets people know which team will answer their question
+- Add content within the form and/or on the confirmation page that lets people know which team will answer their question
 
 ## Further research needed
 
