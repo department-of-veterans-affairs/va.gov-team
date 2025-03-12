@@ -180,7 +180,7 @@ body:
       - label: Add each specialist to the corresponding session invite with videoconferencing link
       - label: Provide each specialist with your participant’s AT years of experience, device, operating system, assistive tech, and browser (if known)
 
- type: checkboxes
+- type: checkboxes
   id: next-steps-ADE
   attributes:
     label: This what ADE team members might do, depending on what you requested
