@@ -101,18 +101,22 @@ By implementing this architecture, we ensure data consistency, streamline the up
   - [ ] Link to Collaboration Cycle Request issue
 - UX design description
   - [x] NA ~For user-facing changes, link to UX prototype or wireframes if available~
-  - [x] Call out any engineering challenges; UX is reviewed in the [Design Intent meeting][DI] None.
+  - [x] Call out any engineering challenges; UX is reviewed in the [Design Intent meeting][DI]
+    - None.
 - Frontend changes
   - [x] NA ~Identify any significant code changes~
   - [x] NA ~Identify any new design system components needed or changes to current components~
   - [x] NA ~Describe any product analytics being gathered~
 - Backend changes
-  - [x] Does the project introduce any new or unusual infrastructure dependencies? No.
-  - [x] Do you need to poll any APIs for status? No.
+  - [x] Does the project introduce any new or unusual infrastructure dependencies?
+    - No.
+  - [x] Do you need to poll any APIs for status?
+    - No.
   - [x] NA ~Are you handling all failure and error cases while in custody of your users's data?~
 - Internal API changes
   - [x] NA ~List new or modified APIs in `vets-api`~
-  - [x] Are you deprecating or removing any APIs? No.
+  - [x] Are you deprecating or removing any APIs?
+  - No.
   - [x] NA ~Do you have API documentation?~
   - [x] NA ~Describe expected call patterns~
 - External API changes
@@ -199,13 +203,14 @@ By implementing this architecture, we ensure data consistency, streamline the up
       - [x] PII and PHI in `accreditations`
         - NA
 - Libraries and dependencies
-  - [x] List new or updated dependencies. None.
+  - [x] List new or updated dependencies.
+    - None.
 - Metrics, logging, observability, alerting
   - [x] We'll continue to get alerts in the OCTO [#benefits-representation-management-notifications](https://dsva.slack.com/archives/C06QG3C318D) channel which provides a summary of organization updates as well as error notifications for representative and organization updates.
 - Infrastructure and network changes
   - [x] We submitted a New BPE Connection request to ESECC so we can hit the new Accreditation API from vets-api staging and production environments. Our requests were approved and the network changes were performed many months ago.
 - Test strategy
-  - [x] We'll update the RSPEC unit tests that currently cover the XLSX/`veteran_representatives` and `veteran_organizations` table updates and we'll write additional tests as necessary
+  - [x] We'll update the RSPEC unit tests that currently cover the `.XLSX` `veteran_representatives` and `veteran_organizations` table updates and we'll write additional tests as necessary
   - [x] We'll do manual testing locally and in staging before running the new Sidekiq job in production
   - [x] NA ~Describe required test data and test user accounts~
 - Rollout plan
@@ -214,7 +219,8 @@ By implementing this architecture, we ensure data consistency, streamline the up
   - [x] NA ~IDescribe rollback plan~
     - We don't need a rollback plan. We simply won't start using the new tables until we've confirmed they've been populated successfully.
 - Internal administration tasks
-  - [x] What maintenance or administration tasks do you anticipate will need to be performed periodically? None.
+  - [x] What maintenance or administration tasks do you anticipate will need to be performed periodically?
+    - None.
   - [x] Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.). NA
 - Security
   - [x] What questions do you have regarding items on the [security checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/collab-cycle/architecture-intent-meeting.md#security-checklist)?
