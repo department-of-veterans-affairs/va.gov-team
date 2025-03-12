@@ -63,24 +63,34 @@ A new daily Sidekiq job will fetch data from the Accreditation API to update the
 
 ### Modifications & Logic Adjustments:
 
-- **Active Flag & Soft Deletion**
+#### Soft Deletion
 
-  - Add an `is_active` column (default: `true`) to the `accredited_individuals` and `accredited_organizations` tables.
-  - If an individual or organization is missing from the API response, mark its `is_active` column as `false` rather than deleting the record.
+- Add an `is_active` column (default: `true`) to the `accredited_individuals` and `accredited_organizations` tables.
+- If an individual or organization is missing from the API response, mark its `is_active` column as `false` rather than deleting the record.
 
-- **Import Logic Updates**  
-  Retain core logic from the existing `.XLSX` import process, with the following modifications:
+If there's a security concern with persisting inactive individuals indefinitely, we could implement one of the following solutions:
 
-  - Insert new records for individuals and organizations that do not yet exist.
-  - Mark records as inactive (`is_active = false`) if they exist in our database but are absent from the Accreditation API response.
-  - Compare `raw_address` values to detect address changes.
-  - Compare `phone` values instead of `phone_number`, since `phone_number` is no longer in use.
-  - Compare individual names to account for changes (e.g., due to marriage).
+**Secure Soft Deletion:** Instead of simply setting `is_active = false`, null out non-encrypted data fields while storing the original record in an encrypted JSON blob for more secure long-term storage. This ensures that sensitive information is not easily accessible while still retaining the ability to restore or audit historical data if needed.
 
-- **Additional Considerations**
-  - Retain the existing Sidekiq job structure for record updates.
-  - Determine the appropriate handling of the `can_accept_reject_poa` field.
-  - If the Accreditation API response includes `created_at` and `updated_at` fields for each record, we can optimize updates by skipping records that have not been created or modified in the last 24 hours, reducing unnecessary processing.
+**Inactive Tables for Historical Data:** Instead of soft deleting records, move inactive representatives and organizations to dedicated `inactive_accredited_individuals` and `inactive_accredited_organizations` tables. These tables would have the same structure as the active ones but store records in an encrypted format. Once a record is moved to its corresponding inactive table, it would be deleted from the active dataset.
+
+Out of these two potential solutions, _Secure Soft Deletion_ would be easier to implement and require fewer schema changes. _Inactive Tables for Historical Data_ would provide better organization and a clearer distinction between active and inactive records.
+
+### Import Logic Updates
+
+Retain core logic from the existing `.XLSX` import process, with the following modifications:
+
+- Insert new records for individuals and organizations that do not yet exist.
+- Mark records as inactive (`is_active = false`) if they exist in our database but are absent from the Accreditation API response.
+- Compare `raw_address` values to detect address changes.
+- Compare `phone` values instead of `phone_number`, since `phone_number` is no longer in use.
+- Compare individual names to account for changes (e.g., due to marriage).
+
+### Additional Considerations
+
+- Retain the existing Sidekiq job structure for record updates.
+- Determine the appropriate handling of the `can_accept_reject_poa` field.
+- If the Accreditation API response includes `created_at` and `updated_at` fields for each record, we can optimize updates by skipping records that have not been created or modified in the last 24 hours, reducing unnecessary processing.
 
 By implementing this architecture, we ensure data consistency, streamline the update process, and improve overall system reliability.
 
