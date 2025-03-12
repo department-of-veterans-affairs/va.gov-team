@@ -106,7 +106,7 @@ Insert background
 - [ ] _Update date in `Last Checked` field_
 - [ ] _Label with `Actual` (level of effort it took to complete this ticket)_
 - [ ] _Update date in_ `Closed Date`
-- [ ] _Make sure the `ADE 508 RECHECK` label is on this ticket upon closing and that a follow-up date has been established and calendared. _
+- [ ] _Make sure the `ADE 508 RECHECK` label is on this ticket upon closing and that a follow-up date has been established and calendared._
 - [ ] **Read** About this Template section, at the bottom of this ticket.
 - [ ] **Delete** About this Template section, at the bottom of this ticket, after reading. 
 
