@@ -1,5 +1,5 @@
 
-# MyHealtheVet email Appointment Reminder Content Research Research Findings 
+# My HealtheVet email Appointment Reminder Content Research Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE)** 
 
@@ -376,7 +376,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 **Primary criteria (must-haves):** 
 
 
-* All must currently receive MyHealtheVet health appointment reminder emails
+* All must currently receive My HealtheVet health appointment reminder emails
 * All must have had a VA health appointment in the last 12 months
 * Exactly 8 Veterans
 * Exactly 4 caregivers
