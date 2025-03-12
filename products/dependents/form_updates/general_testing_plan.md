@@ -6,14 +6,14 @@
    - Minimal submission: As few fields filled out as possible to ensure data prints on pdf as expected and form can be processed with minimal info.
    - Overflow/kitchen sink: Overflow as many fields as possible to ensure data that overflows the pdf field is printed on the pdf overflow page as expected.
 - Use Cases
-   - Veteran lives on U.S. military base, add spouse via religious ceremony, add stepchild who you have adopted, remove former spouse
-   - Veteran lives outside the U.S, add spouse via civil ceremony, add biological child, add stepchild, remove parent who has died
-   - Veteran based outside the U.S., add spouse via common law, add student, add permanently disabled child; remove deceased child, remove deceased spouse
-   - Add spouse by proxy, add adopted child, add student (same child), remove stepchild who left household
+   - Veteran lives on U.S. military base, add spouse via religious ceremony, add stepchild who you have adopted, remove former spouse (686 add/remove)
+   - Veteran lives outside the U.S, add spouse via civil ceremony, add biological child, add stepchild, remove parent who has died (686 add/remove)
+   - Veteran based outside the U.S., add spouse via common law, add student, add permanently disabled child; remove deceased child, remove deceased spouse (686 add/remove)
+   - Add spouse by proxy, add adopted child, add student (same child), remove stepchild who left household (686 add/remove + 674)
    - Add spouse via tribal ceremony, add two children; remove child who got married
-   - Add spouse via other marriage type, add 1 student who has been on benefits before and 1 student who has not been on benefits before; remove child who left school
-   - Add a student
-- 674 Test scenarios used by RBPS testing team
+   - Add spouse via other marriage type, add 1 student who has been on benefits before and 1 student who has not been on benefits before; remove child who left school (686 add/remove + 674)
+   - Add a student (674)
+- 674 testing scenarios used by RBPS testing team
    - VA.gov 674-1: Pension add school child (RBPS should process)
    - VA.gov 674-2: Compensation add school child (RBPS should process)
    - VA.gov 674-3: Pension add school child - School not accredited (RBPS should off-ramp for manual review)
