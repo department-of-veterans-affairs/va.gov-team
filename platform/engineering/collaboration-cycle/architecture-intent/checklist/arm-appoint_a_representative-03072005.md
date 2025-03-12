@@ -218,5 +218,6 @@ By implementing this architecture, we ensure data consistency, streamline the up
   - [x] Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.). NA
 - Security
   - [x] What questions do you have regarding items on the [security checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/collab-cycle/architecture-intent-meeting.md#security-checklist)?
-  - [x] Are there any other security concerns about your project that you want to discuss? No.
+  - [x] Are there any other security concerns about your project that you want to discuss?
+    - Yes. If an individual becomes 'inactive' we'd like to 'soft delete' their record for historical purposes, so their record could potentially live indefinitely. Is it okay to store an 'inactive' record as-is (not encrypted) or would you rather us encrypt it?
   - [ ] What [threat modeling](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html) have you done, and how did the results influence your planned architecture?
