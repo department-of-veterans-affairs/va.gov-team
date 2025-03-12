@@ -1,7 +1,21 @@
 # Locative / search rules used in Facility Locator
-LAST UPDATED: November 2019
+LAST UPDATED: March 2025
 
-**TODO: 2023-12-18: Update for modern age or deprecate**
+## Mapbox Implementation
+Is documented in [products/facilities/facility-locator/engineering/data-and-api-integrations/mapbox/mapbox-implementation.md#facility-locator-location-searc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/data-and-api-integrations/mapbox/mapbox-implementation.md#facility-locator-location-search)
+
+Includes notes on logic for which `place_types` (location entities) are handled, and how. 
+
+## Lighthouse search radius
+Be default, search parameters sent to Lighthouse return results within a 10-mile bounding box. 
+
+The Facility Locator performs math to help translate bounding box into radius (is this true? We'll confirm with [#18068](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18068) )
+
+
+
+
+
+# **TODO: 2023-12-18: Update info below for modern age or deprecate**
 
 ## Location NOT detected, NOT entered:
 
