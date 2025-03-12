@@ -68,7 +68,7 @@ We presented 3 concepts to submitters in varying order to understand how they us
 3. Part of a secure support experience is knowing who you're contacting.
 4. People second guess themselves and let the tool take them down the wrong path.
 5. It's reasonable to suggest categories based on other similar questions that Veterans have asked in the past.
-6. People prefer answering questions to narrow down choices, rather than the tool jumping to a conclusion right away.
+6. People prefer choosing from a list of narrow options, rather than the tool jumping to a conclusion right away.
 7. While people are good at identifying if a suggestion is wrong, it's difficult to choose the correct category or topic from a list.
 8. When you're asked to update your question, it changes your understanding of what Ask VA is and how it works.
 
@@ -168,7 +168,7 @@ And it's as technical as we need to be, with most people being unfamiliar with t
 
 > "I think it's a reasonable approach [to use other similar questions to suggest a category]. You see it all the time now. Does anybody else have the same question?" P1
 
-### Finding 6: People prefer answering questions to narrow down choices, rather than the tool jumping to a conclusion straight away.
+### Finding 6: People prefer choosing from a list of narrow options, rather than the tool jumping to a conclusion right away.
 
 _Labels: `AUD: Veterans`, `PRDT: AVA`_
 
