@@ -102,9 +102,8 @@ Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/fil
 
 ### My HealtheVet landing page specific 
 
-[Landing page Figma file](https://www.figma.com/design/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?node-id=11-1274&t=0dq4hNUoyUU06DuN-1) 
-
-### Important My HealtheVet landing page research 
+- [Landing page design decision tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/design/decisions-tracker.md) 
+- [Landing page Figma file](https://www.figma.com/design/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?node-id=11-1274&t=0dq4hNUoyUU06DuN-1) 
 
 **MHV on VA.gov: Landing page research**
 
@@ -118,8 +117,17 @@ The purpose of this research was to assess users' reactions to and expectations 
 
 ### Secondary navigation 
 
-- What is it 
-- Figma file
+Previous research has shown two important things about how Veterans use health care tools (eg secure messaging):
+
+Veterans are very used to the MHV National Portal and have found ways to navigate it
+Veterans tend to lose their way when completing tasks within MHV-on-VAgov, straying into unauthenticated areas of VAgov and getting lost.
+By the end of Q3, 2024, millions of Veterans will be trying to use the new health care tools on VAgov because the National Portal is being sunsetted. We need to design a more coherent experience for the MHV tools, so that Veterans are able to stay within MHV tools if they want. (But they can still benefit from integration with the rest of VAgov if they choose to.)
+
+Our proposed solution is a secondary nav – i.e., secondary to the VAgov header/mega-menu.
+
+- [Secondary navigation Figma file](https://www.figma.com/design/6nWnlJUjSK91V9hjc3p0LN/MHV-Secondary-Nav?node-id=0-1&t=azNbSaD6b43w3149-1) 
+- Research findings: [Secondary nav component usability/generative study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/MHV%20on%20VA.gov%20Secondary%20Nav.%20Research%20Readout.pdf)
+- Competitive analysis of secondary nav across the internet: [mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694530015144/bb1ff2600f6e417f2c58abe793f158119aaac44a?sender=uebde62ceb342c6477fb09406)
 - Important research
 - Relevnet murals
 
