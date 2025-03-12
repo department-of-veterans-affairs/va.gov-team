@@ -87,11 +87,11 @@ This folder contains metrics on the following:
 
 ## <a name="design"></a>Design and research resources<be>
 
+Specific information on the VA design system can be found on the [Getting started with design.va.gov](design.va.gov) 
+
 ### Figma 
 
 Design teams at VA use Figma to view, share, and collaborate on our work. Here are some helpful Figma links. 
-
-More specific information on the the VA design system can be found on the [Getting started with design.va.gov](design.va.gov) and see the Figma [VA design system](https://www.figma.com/files/team/1278375444205744118/project/105082786/VA-Design-System?fuid=1094287939207433857). 
 
 ### Health specific Figma files 
 
@@ -99,7 +99,10 @@ More specific information on the the VA design system can be found on the [Getti
 - [My HealtheVet - Unified Appointments](https://www.figma.com/files/team/1278375444205744118/project/175332858/MHV---Unified-Appointments?fuid=1094287939207433857) 
 - [My HealtheVet - Medical Records](https://www.figma.com/files/team/1278375444205744118/project/176500754/MHV---Medical-Records?fuid=1094287939207433857)
 - [My HealtheVet - Meds & Devices](https://www.figma.com/files/team/1278375444205744118/project/176500922/MHV---Meds-%26-Devices?fuid=1094287939207433857)
-- [My HealtheVet - Messages](https://www.figma.com/files/team/1278375444205744118/project/198497820/MHV---Messages?fuid=1094287939207433857) 
+- [My HealtheVet - Messages](https://www.figma.com/files/team/1278375444205744118/project/198497820/MHV---Messages?fuid=1094287939207433857)
+
+The [VA design system](https://www.figma.com/files/team/1278375444205744118/project/105082786/VA-Design-System?fuid=1094287939207433857) 
+
 
 ### Research
 
