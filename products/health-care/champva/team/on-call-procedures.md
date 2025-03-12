@@ -8,67 +8,45 @@
     - To find a user by uuid: `IvcChampvaForm.where(form_uuid: 'xyz').where(pega_status: nil)`
 
 ## To check for submissions with missing PEGA status in Rails console: 
+
 ```ruby
-def get_statuses
-    all_nil_statuses = IvcChampvaForm.where(pega_status: nil)
+# Create an instance of the production support helper class (only need to do once per console session)
+msc = IvcChampva::ProdSupportUtilities::MissingStatusCleanup.new
+```
 
-    batches = {}
+```ruby
+# Collect and display any submissions with missing statuses
+missing = msc.get_missing_statuses
 
-    # Group all nil results into batches by form UUID
-    all_nil_statuses.map {|el| 
-        batch = IvcChampvaForm.where(form_uuid: el.form_uuid)
-        batches[el.form_uuid] = batch
-    }
-
-    # Print out details of each batch that contains a missing PEGA status:
-    batches.each {|batch_id, batch|
-        nil_in_batch = batch.where(pega_status: nil)
-        el = nil_in_batch[0]
-        puts "---"
-        puts "#{el.first_name} #{el.last_name} missing PEGA status on #{nil_in_batch.length}/#{batch.length} attachments - #{el.email}\n"
-        puts "Form UUID:   #{el.form_uuid}"
-        puts "Uploaded at: #{el.created_at}"
-        puts "S3 Status:   #{nil_in_batch.distinct.pluck(:s3_status)}\n"
-    }
-    true
-end
-
-get_statuses
+# EXAMPLE OUTPUT:
+# ---
+# Sponsor Surname missing PEGA status on 1/1 attachments - test@email.com
+# Form UUID:   7c30a37a-75e8-4314-94ae-da3cb27c5dcf
+# Form:   10-10D
+# Uploaded at: 2025-03-12 14:02:38 UTC
+# S3 Status:   ["S3 UploadFile failure for 7c30a37a-75e8-4314-94ae-da3cb27c5dcf_vha_10_10d1.pdf: upload failure"]
 ```
 
 ## To view all submissions associated with an email address:
+
+With an instance of `MissingStatusCleanup` defined:
+
 ```ruby
-def get_batches(email_addr)
-    results= IvcChampvaForm.where(email: email_addr)
-
-    batches = {}
-
-    # Group all results into batches by form UUID
-    results.map {|el| 
-        batch = IvcChampvaForm.where(form_uuid: el.form_uuid)
-        batches[el.form_uuid] = batch
-    }
-
-    # Print out details of each batch:
-    batches.each {|batch_id, batch|
-        nil_in_batch = batch.where(pega_status: nil)
-        el = batch[0] #nil_in_batch[0]
-        puts "---"
-        puts "#{el.first_name} #{el.last_name} missing PEGA status on #{nil_in_batch.length}/#{batch.length} attachments - #{el.email}\n"
-        puts "Form UUID:   #{el.form_uuid}"
-        puts "Form:   #{el.form_number}"
-        puts "Uploaded at: #{el.created_at}"
-        puts "S3 Status:   #{batch.distinct.pluck(:s3_status)}\n"
-    }
-    true
-end
-
-get_batches
+user_subs = msc.get_batches_for_email('test@email.com')
 ```
 
 ## To clear a missing status:
+
+First, gather a collection of batches
+
 ```ruby
-form = IvcChampvaForm.find("form_id")
-form.update(pega_status: "Manually Processed")
-form.save
+batches = msc.get_batches_for_email('test@email.com') # OR: batches = msc.get_missing_statuses
+```
+
+Then, identify the `form_uuid` of the batch you want to manually process and pass it to `manually_process_batch` like so:
+```ruby
+msc.manually_process_batch(batches['7c30a37a-75e8-4314-94ae-da3cb27c5dcf'])
+
+# EXAMPLE OUTPUT:
+# Setting 7c30a37a-75e8-4314-94ae-da3cb27c5dcf_vha_10_10d1.pdf to 'Manually Processed'
 ```
