@@ -62,46 +62,6 @@ Most responses included "None" and "N/A".
 >"much appreciated system I am down due to brain damage and physical damage from a accident on a bicycle I have not worked for 3 1/2 years I appreciate this ability to get some help right now while I recover"
 
 
-**Suggestions for Improvement: Digital FSR Form-specific**
-
-Approximately 34 Responses
-
-Income
->"Make it where you can select your pay stub information as bi-weekly, monthly, or bi-monthly so not as much math has to be done to enter the amount. Plus the retirement account amount is limited to $70,000. Make it more."
-
-This limit was previously requested by stakeholders.  Thanks to comments that Veterans have made via Medallia surveys, a recent review by stakeholders took place and this limit will be removed. 
-
->"There is no reason you should have to itemize a paycheck like that. Just ask for the gross then the net pay and you'll KNOW what the difference is. An Excel sheet would do better than this. Nightmare!"
-
->"Income: no place accurately states long term disability payments Expenses: cell phone and internet not listed? Needed in today's world Relief options: what are benefits/cons of options?"
-
-
-Expenses
-
->"There should be distinction made for income going to nursing homes. This is not clearly stated on the form and when the veteran's income is going to a nursing home for nursing home care that needs to be a section by itself."
-
->"expenses credit cards don't really have a beginning balance do they? would that be 0 or the max of a credit card or the max someone had charged it to?"
-
->"I did not know if vehical lones should go"
-
-
-Edit personal information
-
->"Being able to edit birthday. It appears it is formatted in the screen as mm/dd/year and my birthday is backwards the day is in the month position and the month is in the day"
-
->"Allow me to change personal information directly through this page"
-
-
-Other 
-
->"Error messages should be larger text. I could tell color change till my kid ask about it."
-
->"Uploading supporting dcoumnetrs not supported."
-
->"If an area is missed, a written pop-up note should show. Guiding the individual on what's missing or what to do next."
-
->"Make it so that you can't keep submitting new forms, so that we know when the form is offically submitted. Its hard to determine if the form is truly submitted because it continues to say processing even when "submitted"
-
 
 **Service Design: Veteran's interactions outside the digital FSR form and other changes needed outside of digital form**
 
@@ -159,15 +119,57 @@ Other
 >"Some one to actually talk to and not require me to fax things to some one"
 
 
-**FSR Form Bugs**
+**Suggestions for Improvement: Digital FSR Form-specific**
 
-Approximately 4 Responses
+Approximately 35 Responses
 
->"I was not able to enter information on my IRA account. The form would not advance to the next page."
+Income
+>"Make it where you can select your pay stub information as bi-weekly, monthly, or bi-monthly so not as much math has to be done to enter the amount. Plus the retirement account amount is limited to $70,000. Make it more."
+
+This limit was previously requested by stakeholders.  Thanks to comments that Veterans have made via Medallia surveys, a recent review by stakeholders took place and this limit will be removed. 
+
+>"There is no reason you should have to itemize a paycheck like that. Just ask for the gross then the net pay and you'll KNOW what the difference is. An Excel sheet would do better than this. Nightmare!"
+
+>"Income: no place accurately states long term disability payments Expenses: cell phone and internet not listed? Needed in today's world Relief options: what are benefits/cons of options?"
+
+
+Expenses
+
+>"There should be distinction made for income going to nursing homes. This is not clearly stated on the form and when the veteran's income is going to a nursing home for nursing home care that needs to be a section by itself."
+
+>"expenses credit cards don't really have a beginning balance do they? would that be 0 or the max of a credit card or the max someone had charged it to?"
+
+>"I did not know if vehical lones should go"
+
+
+Edit personal information
+
+>"Being able to edit birthday. It appears it is formatted in the screen as mm/dd/year and my birthday is backwards the day is in the month position and the month is in the day"
+
+>"Allow me to change personal information directly through this page"
+
+
+Other 
+
+>"Error messages should be larger text. I could tell color change till my kid ask about it."
+
+>"Uploading supporting dcoumnetrs not supported."
+
+>"If an area is missed, a written pop-up note should show. Guiding the individual on what's missing or what to do next."
+
+>"Make it so that you can't keep submitting new forms, so that we know when the form is offically submitted. Its hard to determine if the form is truly submitted because it continues to say processing even when "submitted"
 
 >"YOU SHOW "PENSION" IN TWO DIFFERENT SECTIONS"
 
-This is brought up in both the income section and assets questions.
+^This is asked in both the income section and assets questions.
+
+
+
+**FSR Form Bugs**
+
+Approximately 3 Responses
+
+>"I was not able to enter information on my IRA account. The form would not advance to the next page."
 
 >"I don't have a computer and use the mobile app, occasionally it's a little wonky."
 
