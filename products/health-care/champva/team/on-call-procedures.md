@@ -34,7 +34,8 @@ With an instance of `MissingStatusCleanup` defined:
 ```ruby
 user_subs = msc.get_batches_for_email('test@email.com')
 
-# EXAMPLE OUTPUT (note the "Uploaded at" times, "Form", and number of attachments. This looks like a successful auto-retry:
+# EXAMPLE OUTPUT (note the "Uploaded at" times, "Form", and number of attachments.
+# This looks like a successful auto-retry)
 # ---
 # Sponsor Surname missing PEGA status on 1/1 attachments - test@email.com
 # Form UUID:   7c30a37a-75e8-4314-94ae-da3cb27c5dcf
