@@ -183,7 +183,8 @@ body:
  type: checkboxes
   id: next-steps-ADE
   attributes:
-    label: This what ADE team members will do, depending on what you requested
+    label: This what ADE team members might do, depending on what you requested
+    description: test text
     options:
       - label: Reply to you and schedule a meeting if needed
       - label: Assign accessibility specialist(s) to work with you
