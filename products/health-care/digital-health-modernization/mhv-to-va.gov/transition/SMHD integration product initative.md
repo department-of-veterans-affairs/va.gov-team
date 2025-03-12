@@ -86,7 +86,7 @@ Notes from SME meeting 2/19 with Dr. Newton, Dr. Shah, Kim Bielicki, Theresa Han
 - We've learned from the MHV sign-in transition that communications and associating the sign-in to the new MHV experience on VA.gov can have some downsteam impacts on the Veteran experience so we should be cognizant of how we communicate the new SHMD app/website to users and where it shows up on VA.gov.  
 - The web version allows users to connect CGM devices, the mobile version veterans can connect bluetooth devices.  There is a pilot going on to understand if veterans have a prefernce of mobile vs web in connecting CGM devices.
 - There are no plans for the personal health information users can self-enter on MHV today to be added to the SHMD experience.  We know from research with veterans they have confusion with this and intepret the word share differently.  We should take this into consideration when designing the content and experience on VA.gov and the transition/sunset communications on MHV classic for self-entered information.  Also consider the language of that currently exists with the VHIE (veterans health information exchange) and sharing data through that.
-- Veterans do still have to tell they're provider they are using SMHD for them to be notified.  Providers have nothing telling them/notifying them of the patients using this app.
+- Veterans do still have to tell their provider they are using SMHD for them to be notified.  Providers have nothing telling them/notifying them of the patients using this app.
   - There is guidance in the field for providers to tell how to use it. (AI: Kaitlin trying to get ahold of the guidance providers get)
   - Providers can connect directly from their CPRS console to the diabetes dashboard where all the CGM data is available.
 - There is a broad ecosystem of clinical usage of the data in SMHD:
@@ -137,7 +137,7 @@ No experience today, but current experience on MHV National Portal with Shared V
 - Team Name: MHV Portal 
 - GitHub Label(s): 
 - Slack channel: mhv-health-portal-coordination, mhv-on-vagov-cartography-team
-- Product POCs: Kaitlin Fink, Patrick Bateman, Marci McGuire, Bresha Lipscomb
+- Product POCs: Kaitlin Fink, Patrick Bateman, Marci McGuire, Bresha Lipscomb, Robyn Singleton
 
 
 #### Stakeholders
