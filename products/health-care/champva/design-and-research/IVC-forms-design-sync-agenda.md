@@ -16,11 +16,33 @@
      	  - Premal: concerned about the length of the form and experience. Wants to make it as streamlined as possible. Jina has experience with unmoderated prototype testing in Optimal Workshop, will follow up with her about possibly running that.
      	  - Amanda: interested in designing during a claim, having OHI embedded and prefilled with whatever is already in the system
      	  - Action item: update the now/next/later to be more at the epics level to communicate initiatives in-progress
-     	  - Include the IA work on the OHI. This is important to resolve soon. 
-
+     	  - Include the IA work on the OHI. This is important to resolve soon.
      	- Ongoing discussion: OHI interim solutions (update IA + static/intro pages?)
+     	    - Short term
+     	 		- Mark standalone OHI as for updates only, not initial application (HIGH priority, per Premal) <- Action item: taking to CAIA office hours tomorrow (include Jina on CAIA OH invite). Ask CAIA during office hours about removing the link on the static page and adding a message on the intro page for the form about when to use it 
+     	   	- Long term
+     	   		- Merge and make required with 1010d
+     	   	 	- Merge and make optional in a claims submission
+     	   	  	- And then we might be able to review the link on the static page.
+     	   	  	- Premal to talk to the business to make sure OHI forms are now getting thrown away and the form that are coming in now are just for updates.  
+
+
      	- Discuss options for direct deposit content in FMP
+     		- Designers will send direct deposit updates for FMP async 
      	- Rescheduling design sync
+     		- Andrea will reschedule
+     	 	- Premal can be optional after Mike is comfortable with relaying info from these meetings to him. Amanda and Jina will need to attend.
+     	  	- Perhaps set up a Zoom call via A6’s account so it’s easier to share screens
+    - ### Action Items
+    	- Update the links on the tickets and reorganize the UX roadmap to include larger initiatives grouped with individual tickets
+    	 - Discuss the OHI link on the 1010d static page removal with CAIA at office hours.
+    	 - Send direct deposit updates for FMP async to Premal
+    	 - Find a time to reschedule the Design Sync     
+
+     		
+ 
+ 
+     	   
 
 ## February 24 2025
  - Attendees: Jamie Fiore, Lois Lewis, Jina Ryu, Rachel Pope, Luis Simauchi
