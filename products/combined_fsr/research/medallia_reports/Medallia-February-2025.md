@@ -239,4 +239,11 @@ N = 1
 
 N = 2
 
+# CSAT Scores (from Domo dashboard for 2/1/2025 - 2/28/2025)
+
+### Trust in VA's Commitment to Veterans
+104 respondents - CSAT 74.04%
+
+### Users Trust of VA (in general)
+104 respondents - 44.23%
 
