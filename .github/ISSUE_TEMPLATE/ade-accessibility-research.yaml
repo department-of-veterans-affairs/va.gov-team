@@ -95,15 +95,13 @@ body:
 
 - type: markdown
   attributes:
-    value: "## About your research study (if known)"
+    value: "## About your research study (fill in whatever you know at this time)"
 
 - type: input
   id: timeframe
   attributes:
     label: What is the timeframe for your testing?
     description: We will check on our team’s availability and then get back to you
-  validations:
-    required: true
 
 - type: checkboxes
   id: research-details
@@ -161,9 +159,7 @@ body:
       - [Conversation guide](insert URL here)
       - [Research folder in github](insert URL here)
       - [Epics/issue that may be helpful](insert URL here)
-      
-  validations:
-    required: true
+
 
 - type: checkboxes
   id: next-steps-team
