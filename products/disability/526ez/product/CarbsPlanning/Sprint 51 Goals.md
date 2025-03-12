@@ -12,8 +12,7 @@
   - Nathan Burgess
     - 0781 Paper Sync
       - Scope change -Behavior combat intro [3.11] destructive action modal
-      - Behavioral type list: rename 'none' property to view only
-  
+   
   - JR
     - 0781 Paper Sync
       - Scope change - Modal - Opt out of 0781 destructive action modal (for 0781 choice page only) - _This is large and slightly more complicated than some of our other destructive modals. We may have to break this down into smaller tickets and spread the work out. TBD_
@@ -65,7 +64,7 @@ Production readiness tasks are on their way. We'll have a draft release plan and
 
 We are also doing the March benefits-disability-notifications alerts watch. Any new issues may decrease capacity on 0781 depending on the severity. We'll keep the communication going and making sure that OCTO is aware of any impacts this additional work will have on our delivery.
 
-Implement VA Notify callbacks for silent failure emails and update your silent failure logging accordingly was deemed a priority, and Team TRex believes they can plan it. Team Carbs may have to support this effort. We hope that this will be minimal as it would impact completing our work on 0781
+Implement VA Notify callbacks for silent failure emails and update your silent failure logging accordingly was deemed a priority, and Team TRex believes they can plan it. Team Carbs may have to support this effort. We hope that this will be minimal as it would impact completing our work on 0781.
 
 [Roadmap for Disability Benefits (DBEX) Team 2 (Carbs)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?wid=0-1728398176278)
 
@@ -73,4 +72,4 @@ Implement VA Notify callbacks for silent failure emails and update your silent f
 
 ## Notes
 - OCTO has not prioritized the Disability apps' compliance with the Front-end deployment pipeline changes for vets-website (Shedule to be due Feb 3, 2025) - no word if there will be any impacts to us if we don't have it done by Monday.
-- 
+  
