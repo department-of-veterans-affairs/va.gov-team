@@ -240,7 +240,7 @@ People also try to sway the tool away from an incorrect suggestion. Editing thei
 4. Help people understand labels by providing descriptions, so there's less guessing involved.
 5. Include content about a suggestion being 'based on other similar questions Veterans have asked' without getting any more technical.
 6. Offer a narrower list of categories to choose from, rather than jumping straight to one suggestion.
-7. Don't add an additional triage layer that's more than categories.
+7. Don't add a new, first triage layer that's more broad than categories.
 8. Don't include the option to let people edit their question to generate an updated category.
 
 ## Next steps
