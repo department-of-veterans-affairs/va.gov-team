@@ -59,7 +59,7 @@ These were tasks we asked if Team TRex could help support if they have capacity
 
 
 ## Sumary
-Our first priority and main goals this sprint is to get the destructive modals done. We have to complete the modals on the main pages first and then determine if those modals can be used in Review and Sbumit or if we'll have additonal work to do to customize the Review and Submit options. 
+Our first priority and main goals this sprint is to get the destructive modals done. We have to complete the modals on the main pages first. Then we'll be able to determine if those modals can be used in Review and Sbumit or if we'll have additonal work to do to customize the Review and Submit options. 
 Hopefully once the modals are done there won't be any additional changes. That will conclude the UI work needed for the 0781 paper sync. There may be more schema tweaks that are necessary (a couple that Team TRex is taking on), but testing frontend and backend for end-to-end testing would be next. 
 Production readiness tasks are on their way. We'll have a draft release plan and calendar and hope to have some of our staging review prep work done as well. 
 
