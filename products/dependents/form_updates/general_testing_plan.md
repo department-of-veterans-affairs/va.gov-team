@@ -5,21 +5,21 @@
    - Maximal submission: As many fields filled out as possible to ensure data prints on pdf as expected.
    - Minimal submission: As few fields filled out as possible to ensure data prints on pdf as expected and form can be processed with minimal info.
    - Overflow/kitchen sink: Overflow as many fields as possible to ensure data that overflows the pdf field is printed on the pdf overflow page as expected.
- - Use Cases
-    - Veteran lives on U.S. military base, add spouse via religious ceremony, add stepchild who you have adopted, remove former spouse
-    - Veteran lives outside the U.S, add spouse via civil ceremony, add biological child, add stepchild, remove parent who has died
-    - Veteran based outside the U.S., add spouse via common law, add student, add permanently disabled child; remove deceased child, remove deceased spouse
-    - Add spouse by proxy, add adopted child, add student (same child), remove stepchild who left household
-    - Add spouse via tribal ceremony, add two children; remove child who got married
-    - Add spouse via other marriage type, add 1 student who has been on benefits before and 1 student who has not been on benefits before; remove child who left school
-    - Add a student
-   - 674 Test scenarios used by RBPS testing team
-      - VA.gov 674-1: Pension add school child (RBPS should process)
-      - VA.gov 674-2: Compensation add school child (RBPS should process)
-      - VA.gov 674-3: Pension add school child - School not accredited (RBPS should off-ramp for manual review)
-      - VA.gov 674-4: Pension add school child - DOB miss-match (RBPS should off-ramp for manual review)
-      - VA.gov 674-5: Pension add school child - Receiving Tuition (RBPS should off-ramp for manual review)
-      - VA.gov 674-6: Pension add school child - School start date in future (RBPS should off-ramp for manual review) 
+- Use Cases
+   - Veteran lives on U.S. military base, add spouse via religious ceremony, add stepchild who you have adopted, remove former spouse
+   - Veteran lives outside the U.S, add spouse via civil ceremony, add biological child, add stepchild, remove parent who has died
+   - Veteran based outside the U.S., add spouse via common law, add student, add permanently disabled child; remove deceased child, remove deceased spouse
+   - Add spouse by proxy, add adopted child, add student (same child), remove stepchild who left household
+   - Add spouse via tribal ceremony, add two children; remove child who got married
+   - Add spouse via other marriage type, add 1 student who has been on benefits before and 1 student who has not been on benefits before; remove child who left school
+   - Add a student
+- 674 Test scenarios used by RBPS testing team
+   - VA.gov 674-1: Pension add school child (RBPS should process)
+   - VA.gov 674-2: Compensation add school child (RBPS should process)
+   - VA.gov 674-3: Pension add school child - School not accredited (RBPS should off-ramp for manual review)
+   - VA.gov 674-4: Pension add school child - DOB miss-match (RBPS should off-ramp for manual review)
+   - VA.gov 674-5: Pension add school child - Receiving Tuition (RBPS should off-ramp for manual review)
+   - VA.gov 674-6: Pension add school child - School start date in future (RBPS should off-ramp for manual review) 
 
 ## Instructions for Design Review
 1.	Review copy for design match
