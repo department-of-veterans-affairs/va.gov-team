@@ -123,7 +123,12 @@ As mentioned in the bullet, there are many pages that are Custom Pages. It is no
 
 ## Decision
 03/11/2025 3:30 PM
+[Slack](https://dsva.slack.com/archives/C04KW0B46N5/p1741722383243239)
 
 OCTO confirmed in our meeting that they agree and accept the team's recommendation to go with Option 1b.  
 
 Lisa confirmed that this will impact a total of 12 modal. Two of which are for the file upload to remove the document. This feature has not been solutioned yet and will need to be planned later. The other 10 modals includes the Review and Submit page, which the team has not had time to review if there will be any impact to adding modals to that page. There is a potential risk that adding modals to Review and Submit may not be as easily feasible.  
+
+RE: 0781 upload opt out (includes remvoing the file)
+
+We had a spike for this sprint to solution the removing the file in this use case. Unfortunately Kyle got pulled into other issues (production). We have to do the spike this sprint now. Which if done soon enough and we don't have any issues or risks, then maybe we can do the modal too. We just don't know yet.
