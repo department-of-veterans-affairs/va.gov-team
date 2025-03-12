@@ -181,7 +181,7 @@ body:
 - type: checkboxes
   id: next-steps-team-later
   attributes:
-    label: If ADE specialists are assigned to support your research sessions, you'll need to do these tasks later after recruiting
+    label: If ADE specialists are assigned to support your research sessions, you'll need to do these tasks after recruiting
     options:
       - label: Add each specialist to the corresponding session invite with videoconferencing link
       - label: Provide each specialist with your participant’s AT years of experience, device, operating system, assistive tech, and browser (if known)
