@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>VA Benefits Eligibility Tool</title>
+  <!-- Using FontAwesome CDN for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700">
+  <style>
+    /* Minimal CSS Reset */
+    html, body, div, span, applet, object, iframe,
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+    a, abbr, acronym, address, big, cite, code,
+    del, dfn, em, img, ins, kbd, q, s, samp,
+    small, strike, strong, sub, sup, tt, var,
+    b, u, i, center, dl, dt, dd, ol, ul, li,
+    fieldset, form, label, legend, table, caption,
+    tbody, tfoot, thead, tr, th, td,
+    article, aside, canvas, details, embed, figure, figcaption,
+    footer, header, hgroup, menu, nav, output, ruby, section, summary,
+    time, mark, audio, video {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      font-size: 100%;
+      font: inherit;
+      vertical-align: baseline;
+    }
+    article, aside, details, figcaption, figure,
+    footer, header, hgroup, menu, nav, section {
+      display: block;
+    }
+    body {
+      line-height: 1.6;
+      background: #f4f4f9;
+      color: #3d4449;
+      font-family: "Open Sans", sans-serif;
+      padding: 20px;
+    }
+    /* Container with a modern card look */
+    .container {
+      max-width: 800px;
+      margin: 30px auto;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      padding: 30px;
+    }
+    /* Typography */
+    h1 {
+      font-family: "Roboto Slab", serif;
+      font-size: 2.5em;
+      margin-bottom: 20px;
+      text-align: center;
+      color: #2a2f45;
+    }
+    p {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #555;
+    }
+    /* Form styling */
+    .form-group {
+      margin-bottom: 20px;
+    }
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: 600;
+      color: #555;
+    }
+    select, input[type="date"] {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 1em;
+      transition: border-color 0.3s;
+    }
+    select:focus, input[type="date"]:focus {
+      outline: none;
+      border-color: #f56a6a;
+    }
+    /* Button styling */
+    .button-group {
+      text-align: center;
+      margin: 20px 0;
+    }
+    button {
+      background-color: #f56a6a;
+      color: #fff;
+      border: none;
+      padding: 12px 20px;
+      font-size: 1em;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      margin: 5px;
+    }
+    button:hover {
+      background-color: #f67878;
+    }
+    /* Results sections */
+    #results { margin-top: 30px; }
+    .benefit {
+      border-left: 5px solid;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 4px;
+      background: #fafafa;
+    }
+    .benefit strong {
+      display: block;
+      margin-bottom: 8px;
+      font-size: 1.2em;
+    }
+    h3 {
+      margin-top: 30px;
+      margin-bottom: 15px;
+      padding-bottom: 5px;
+      border-bottom: 2px solid #f56a6a;
+      color: #2a2f45;
+    }
+    /* Benefit color codes */
+    .eligible { border-color: #28a745; }
+    .ineligible { border-color: #dc3545; }
+    /* Additional Benefits Section matching other UI categories */
+    .additional-benefits {
+      margin-top: 30px;
+    }
+    .additional-benefits h3 {
+      /* Use same h3 styling as other sections */
+      margin-top: 30px;
+      margin-bottom: 15px;
+      padding-bottom: 5px;
+      border-bottom: 2px solid #f56a6a;
+      color: #2a2f45;
+    }
+    .additional-benefits .benefit {
+      border-left: 5px solid #17a2b8;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 4px;
+      background: #fafafa;
+      text-align: center;
+    }
+    .additional-benefits a {
+      color: #007bff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .additional-benefits a:hover {
+      text-decoration: underline;
+    }
+    /* Responsive design */
+    @media (max-width: 600px) {
+      .container {
+        padding: 20px;
+      }
+      h1 {
+        font-size: 2em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>VA Benefits Eligibility Tool</h1>
+    <p>Please enter your veteran details below and click "Check Eligibility" to see which benefits you qualify for.</p>
+    
+    <!-- Input Form -->
+    <div class="form-group">
+      <label for="dischargeStatus"><i class="fas fa-user-shield"></i> Discharge Status</label>
+      <select id="dischargeStatus">
+        <option value="honorable">Honorable</option>
+        <option value="general">General Under Honorable Conditions</option>
+        <option value="other">Other Than Honorable</option>
+        <option value="dishonorable">Dishonorable</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="healthcareService"><i class="fas fa-notes-medical"></i> Healthcare Service Period meets requirement?</label>
+      <select id="healthcareService">
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="post911Service"><i class="fas fa-flag"></i> Post‑9/11 GI Bill Service Period (≥90 days after 9/10/2001) met?</label>
+      <select id="post911Service">
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="montgomeryService"><i class="fas fa-book"></i> Montgomery GI Bill Service Period (≈2 years) met?</label>
+      <select id="montgomeryService">
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="homeLoanService"><i class="fas fa-home"></i> VA‑Backed Home Loan Service Period (90 days wartime / 181 days peacetime) met?</label>
+      <select id="homeLoanService">
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="disabilityRating"><i class="fas fa-wheelchair"></i> Service-Connected Disability?</label>
+      <select id="disabilityRating">
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="purpleHeart"><i class="fas fa-heart"></i> Purple Heart Recipient?</label>
+      <select id="purpleHeart">
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="dateOfBirth"><i class="fas fa-calendar-alt"></i> Date of Birth</label>
+      <input type="date" id="dateOfBirth" />
+    </div>
+    
+    <div class="button-group">
+      <button onclick="randomizeVeteranDetails()"><i class="fas fa-random"></i> Randomize Details</button>
+      <button onclick="checkEligibility()"><i class="fas fa-check"></i> Check Eligibility</button>
+    </div>
+    
+    <h2>Results</h2>
+    <div id="results"></div>
+    
+    <!-- New Additional Benefits Section -->
+    <div class="additional-benefits">
+      <h3>Additional Benefits</h3>
+      <div class="benefit">
+        You may be eligible for additional benefits. For more information, please visit 
+        <a href="https://www.va.gov/service-member-benefits/" target="_blank" rel="noopener noreferrer">
+          VA Service Member Benefits
+        </a>.
+      </div>
+    </div>
+  </div>
+  
+  <script>
+    // Helper functions
+    function getRandomFromArray(arr) {
+      return arr[Math.floor(Math.random() * arr.length)];
+    }
+    function randomDate(start, end) {
+      const date = new Date(start.getTime() + Math.random() * (end.getTime() - start.getTime()));
+      return date.toISOString().split('T')[0];
+    }
+    
+    function randomizeVeteranDetails() {
+      const dischargeOptions = ["honorable", "general", "other", "dishonorable"];
+      const yesNoOptions = ["yes", "no"];
+      document.getElementById('dischargeStatus').value = getRandomFromArray(dischargeOptions);
+      document.getElementById('healthcareService').value = getRandomFromArray(yesNoOptions);
+      document.getElementById('post911Service').value = getRandomFromArray(yesNoOptions);
+      document.getElementById('montgomeryService').value = getRandomFromArray(yesNoOptions);
+      document.getElementById('homeLoanService').value = getRandomFromArray(yesNoOptions);
+      document.getElementById('disabilityRating').value = getRandomFromArray(yesNoOptions);
+      document.getElementById('purpleHeart').value = getRandomFromArray(yesNoOptions);
+      document.getElementById('dateOfBirth').value = randomDate(new Date(1940, 0, 1), new Date(2000, 11, 31));
+    }
+    
+    function checkEligibility() {
+      const dischargeStatus = document.getElementById('dischargeStatus').value;
+      const healthcareService = document.getElementById('healthcareService').value;
+      const post911Service = document.getElementById('post911Service').value;
+      const montgomeryService = document.getElementById('montgomeryService').value;
+      const homeLoanService = document.getElementById('homeLoanService').value;
+      const disabilityRating = document.getElementById('disabilityRating').value;
+      const purpleHeart = document.getElementById('purpleHeart').value;
+      const dob = document.getElementById('dateOfBirth').value;
+      
+      const resultsDiv = document.getElementById('results');
+      resultsDiv.innerHTML = '';
+      
+      let fullyDetermined = [];
+      let ineligibleBenefits = [];
+      
+      // Acceptable discharge: anything except "dishonorable"
+      const acceptableDischarge = (dischargeStatus !== 'dishonorable');
+      
+      // Fully Determined Benefits (Eligible)
+      if (acceptableDischarge && healthcareService === 'yes') {
+        fullyDetermined.push({
+          title: 'VA Healthcare',
+          description: 'Provides comprehensive medical services—from hospital care to preventive services.',
+          attributes: 'dischargeStatus, healthcareService',
+          cta: 'Apply now'
+        });
+      }
+      if (acceptableDischarge && (post911Service === 'yes' || montgomeryService === 'yes')) {
+        fullyDetermined.push({
+          title: 'GI Bill Benefits',
+          description: 'Support for education with tuition coverage, housing allowances, and book stipends.',
+          attributes: 'dischargeStatus, post911Service or montgomeryService',
+          cta: 'Apply now'
+        });
+      }
+      if (acceptableDischarge && homeLoanService === 'yes') {
+        fullyDetermined.push({
+          title: 'VA‑Backed Home Loans',
+          description: 'Helps purchase, build, or refinance your home with favorable terms.',
+          attributes: 'dischargeStatus, homeLoanService',
+          cta: 'Apply now'
+        });
+      }
+      if (acceptableDischarge && disabilityRating === 'yes') {
+        fullyDetermined.push({
+          title: 'Disability Compensation',
+          description: 'Offers monthly, tax-free payments based on your service-connected disability.',
+          attributes: 'dischargeStatus, disabilityRating',
+          cta: 'Apply now'
+        });
+        fullyDetermined.push({
+          title: 'Veteran Readiness and Employment (VR&E)',
+          description: 'Provides career counseling and job training for Veterans with documented disabilities.',
+          attributes: 'dischargeStatus, disabilityRating',
+          cta: 'Apply now'
+        });
+        fullyDetermined.push({
+          title: 'Veterans Affairs Life Insurance (VALife)',
+          description: 'Offers permanent life insurance coverage up to $40,000 for Veterans with a service-connected disability.',
+          attributes: 'dischargeStatus, disabilityRating',
+          cta: 'Apply now'
+        });
+      }
+      if (acceptableDischarge) {
+        fullyDetermined.push({
+          title: 'Burial in a VA National Cemetery',
+          description: 'Provides a dignified, no-cost burial option for eligible Veterans and their families.',
+          attributes: 'dischargeStatus',
+          cta: 'Apply now'
+        });
+        if (dischargeStatus !== 'honorable') {
+          fullyDetermined.push({
+            title: 'Apply for a Discharge Upgrade',
+            description: 'Upgrading your discharge may unlock additional benefits. Check eligibility for an upgrade.',
+            attributes: 'dischargeStatus',
+            cta: 'Apply now'
+          });
+        }
+      }
+      
+      // Ineligible Benefits (Based on missing required attributes)
+      if (!acceptableDischarge) {
+        ineligibleBenefits.push({
+          title: 'VA Healthcare',
+          description: 'Ineligible due to Dishonorable discharge status.',
+          attribute: 'dischargeStatus',
+          cta: 'Review your discharge status'
+        });
+        ineligibleBenefits.push({
+          title: 'GI Bill Benefits',
+          description: 'Ineligible due to Dishonorable discharge status.',
+          attribute: 'dischargeStatus',
+          cta: 'Review your discharge status'
+        });
+        ineligibleBenefits.push({
+          title: 'VA‑Backed Home Loans',
+          description: 'Ineligible due to Dishonorable discharge status.',
+          attribute: 'dischargeStatus',
+          cta: 'Review your discharge status'
+        });
+        ineligibleBenefits.push({
+          title: 'Disability Compensation',
+          description: 'Ineligible due to Dishonorable discharge status.',
+          attribute: 'dischargeStatus',
+          cta: 'Review your discharge status'
+        });
+        ineligibleBenefits.push({
+          title: 'Veteran Readiness and Employment (VR&E)',
+          description: 'Ineligible due to Dishonorable discharge status.',
+          attribute: 'dischargeStatus',
+          cta: 'Review your discharge status'
+        });
+        ineligibleBenefits.push({
+          title: 'Veterans Affairs Life Insurance (VALife)',
+          description: 'Ineligible due to Dishonorable discharge status.',
+          attribute: 'dischargeStatus',
+          cta: 'Review your discharge status'
+        });
+      }
+      if (healthcareService === 'no') {
+        ineligibleBenefits.push({
+          title: 'VA Healthcare',
+          description: 'Ineligible because Healthcare Service Period does not meet the required threshold.',
+          attribute: 'healthcareService',
+          cta: 'Review your service record'
+        });
+      }
+      if (!(post911Service === 'yes' || montgomeryService === 'yes')) {
+        ineligibleBenefits.push({
+          title: 'GI Bill Benefits',
+          description: 'Ineligible because neither Post‑9/11 nor Montgomery GI Bill Service Period requirements are met.',
+          attribute: 'post911Service/montgomeryService',
+          cta: 'Review your service record'
+        });
+      }
+      if (homeLoanService === 'no') {
+        ineligibleBenefits.push({
+          title: 'VA‑Backed Home Loans',
+          description: 'Ineligible because Home Loan Service Period does not meet the required threshold.',
+          attribute: 'homeLoanService',
+          cta: 'Review your service record'
+        });
+      }
+      if (disabilityRating === 'no') {
+        ineligibleBenefits.push({
+          title: 'Disability Compensation',
+          description: 'Ineligible because there is no documented service-connected disability.',
+          attribute: 'disabilityRating',
+          cta: 'Review your disability record'
+        });
+        ineligibleBenefits.push({
+          title: 'Veteran Readiness and Employment (VR&E)',
+          description: 'Ineligible because there is no documented service-connected disability.',
+          attribute: 'disabilityRating',
+          cta: 'Review your disability record'
+        });
+        ineligibleBenefits.push({
+          title: 'Veterans Affairs Life Insurance (VALife)',
+          description: 'Ineligible because there is no documented service-connected disability.',
+          attribute: 'disabilityRating',
+          cta: 'Review your disability record'
+        });
+      }
+      
+      // Function to display benefit lists
+      function addBenefits(list, sectionTitle, className) {
+        if (list.length === 0) return;
+        const section = document.createElement('div');
+        section.innerHTML = `<h3>${sectionTitle}</h3>`;
+        list.forEach(benefit => {
+          const div = document.createElement('div');
+          div.className = 'benefit ' + className;
+          div.innerHTML = `<strong>${benefit.title}</strong><br>
+          ${benefit.description}<br>
+          <em>Relevant Attribute(s):</em> ${benefit.attributes || benefit.attribute}<br>
+          <button onclick="alert('${benefit.cta}')">${benefit.cta}</button>`;
+          section.appendChild(div);
+        });
+        resultsDiv.appendChild(section);
+      }
+      
+      addBenefits(fullyDetermined, 'Fully Determined Benefits You Qualify For', 'eligible');
+      addBenefits(ineligibleBenefits, 'Benefits You Are Ineligible For', 'ineligible');
+    }
+  </script>
+</body>
+</html>
