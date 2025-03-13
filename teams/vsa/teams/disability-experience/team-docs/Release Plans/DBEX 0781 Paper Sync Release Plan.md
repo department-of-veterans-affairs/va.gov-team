@@ -5,13 +5,16 @@
 The purpose of this release plan is to document and align the delivery teams and stakeholders on what will be delivered and when. This release plan is specifically for the 0781 Paper Sync MVP (first release). It is not intended to include the next generation of enhancements to the 0781 product (i.e., supporting documents, in progress forms, etc). 
 
 ## Feature description
-
+For Veterans who have been diagnosed with PTSD (post traumatic stress disorder) or mental health issues and want to apply for related benefits or services, the VA.gov's new online 0781 form provides all the questions related for claiming mental health conditions and in-service traumatic events need to submit a benefits claim. Unlike the previous version of the 0781 form, the new online form will be in compliance by being up to date with the most recent paper form version (June 2024).
 
 ## Project goals
-
+Create a new 0781 online form that will match the newest paper version of the PDF form. The data in the online form will used in the generation of the new (2024) 0781 PDF that will be sent to the eFolder after a successful submit.
 
 ## Success criteria
-
+Deliver a new 0781 form that can capture the same data that is needed as the 2024 PDF form.
+Keep the existing form available for claims already in progress and for piloting the new version.
+Direct users who do not have a claim already in progress to the new online 0781 form.
+Human centered design to help reduce friction and abandonment among Veterans filling out the forms.
 
 ## Resource materials
 - [0781 Paper Sync Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87438) 
