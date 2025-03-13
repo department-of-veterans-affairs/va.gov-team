@@ -13,7 +13,7 @@
 6. Run `vets-api` and `vets-website` locally
 7. Go to the claim status tool, select a claim, navigate to the Files Tab and upload a file
 8. Afterwards if you do `rails c` or `rails console` in a terminal and run `EvidenceSubmission.count` you should see that 1 record was added/updated to the evidence_submissions table
-    1. The new records `upload_status` should be IN_PROGRESS
+    1. The new records `upload_status` should be QUEUED
 
 ### When cst_send_evidence_submission_failure_emails is disabled
 1. Change the following feature flags...
