@@ -245,10 +245,8 @@ People also try to sway the tool away from an incorrect suggestion. Editing thei
 
 ## Next steps
 
-- Design an approach to category and topic determination focused on recommending a shorter list options based on a question
+- [Design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/2025-03%20Design%20strategy:%20Categories,%20topics%20and%20subtopics%20in%20Phase%202.md) to category and topic determination focused on recommending a shorter list options based on a question
 - Decide when in the form to offer helpful information and determine design and technical approach
-- Add content that lets people know our suggestions are based on past, similar questions
-- Add content that let peoples know which team will answer their question
 
 ## Further research needed
 
