@@ -101,6 +101,8 @@ Other considerations:
 Key Deliverables:
 - [design](https://www.figma.com/file/Tfhq5h2LwXEeEEtFBAAFOv/10-7959a?type=design&node-id=13-80&mode=design&t=YuafvBbuKozoXYFY-0)
 - research
+  - [Stakeholder Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/stakeholders/2024-06-stakeholder-research-plan-and-conversasion-guide.md)
+  - [User Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/user-research/2024-08-Research-Plan-for-Integrated-Veteran-Care-(IVC)-Team%2C-Form-10-7959a%2C-August-1st.md)
 - testing plan
 
 ### Key Decisions
