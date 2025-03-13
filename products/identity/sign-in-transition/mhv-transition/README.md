@@ -53,6 +53,7 @@ Between July 2024 and March 2025, VA engaged in an organization-wide campaign to
 
 - [Datadog: Authentication stats](https://vagov.ddog-gov.com/dashboard/e3q-6kp-9r4/vagov-identity-stats-public?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1739303027604&to_ts=1741895027604&live=true)
 - [Domo: Sign-in transition dashboard](https://va-gov.domo.com/page/1862108618?userId=367226722)
+- [Datadog: Interstitial metrics](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vagov-identity-monitor-dashboard?fromUser=false&index=*&refresh_mode=paused&from_ts=1737125001775&to_ts=1737139401775&live=false&tile_focus=3815395182095420)
 
 (Samara to add metrics)
 
@@ -67,12 +68,18 @@ Between July 2024 and March 2025, VA engaged in an organization-wide campaign to
 ## Design and UX
 
 ### Research
-- [Sign In Experience - Call Center Data Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-08%20Sign%20In%20Experience%20-%20Call%20Center%20Data%20Analysis)
-- [Sign in transition](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-08%20Sign%20in%20transition)
-- [Research Repo Ticket](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/2?filterQuery=&pane=issue&itemId=77753830)
-- [Enjoy HQ project](https://app.enjoyhq.com/projects/QwXlGYvnK/plan)
+- [GH folder: Sign In Experience - Call Center Data Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-08%20Sign%20In%20Experience%20-%20Call%20Center%20Data%20Analysis)
+- [GH Folder: Sign in transition](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-08%20Sign%20in%20transition)
+- [Research Repo Ticket: Sign in transition](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/2?filterQuery=&pane=issue&itemId=77753830)
+- [Enjoy HQ project: Sign in transition](https://app.enjoyhq.com/projects/QwXlGYvnK/plan)
 
 ### Design
 - [User flow iterations - Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1724333905063/6c6192d24519142a244970b2db83539d4c2b1b2e)
-- [Sign in page and interstitial prototyping and final designs - Figma](https://www.figma.com/design/skWgD0gHYGlKSoLdH097OX/Sign-in-changes-for-CSP-deprecation?node-id=0-1&p=f&t=5OteE9M1bWiVehHX-0)
-- [Sign in page design for final MHV removal - Figma](https://www.figma.com/design/d3fRL81XY4o9tncCOjmRNS/Sign-in-page---MHV-removal?node-id=0-1&p=f&t=1vJHp2KkIyUWeStF-0)
+- [User flows for modern CSP account creation - Figma](https://www.figma.com/design/kjhHcpanHjaEGPcT7Oe5uC/User-flows-for-modern-CSP-account-creation?node-id=0-1&p=f&t=miTEvylWp7mWp5F3-0)
+- [Sign in page and modal iteration history - Figma](https://www.figma.com/design/d3fRL81XY4o9tncCOjmRNS/Sign-in-page---MHV-removal?node-id=779-269620&t=UEbf8wTuMvVBhubf-0)
+- [Sign in page and modal for MHV deadline extension design - Figma](https://www.figma.com/design/d3fRL81XY4o9tncCOjmRNS/Sign-in-page---MHV-removal?node-id=774-269619&m=dev)
+- [Sign in page and modal for MHV final removal - Figma](https://www.figma.com/design/d3fRL81XY4o9tncCOjmRNS/Sign-in-page---MHV-removal?node-id=555-161481&t=9myGrgBTXCOvntHV-0)
+- [Interstitial designs - Figma](https://www.figma.com/design/d3fRL81XY4o9tncCOjmRNS/Sign-in-page---MHV-removal?node-id=774-269621&m=dev)
+- [Production test account sign-in page design - Figma](https://www.figma.com/design/d3fRL81XY4o9tncCOjmRNS/Sign-in-page---MHV-removal?node-id=114-116740&t=9myGrgBTXCOvntHV-0)
+- [MHV exepmtion sign-in page design - Figma](https://www.figma.com/design/d3fRL81XY4o9tncCOjmRNS/Sign-in-page---MHV-removal?node-id=888-233925&t=9myGrgBTXCOvntHV-0)
+- [Updated sign-in alerts - VADS](https://design.va.gov/components/alert/alert-sign-in/)
