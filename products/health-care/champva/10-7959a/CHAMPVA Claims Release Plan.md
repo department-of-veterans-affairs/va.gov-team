@@ -35,11 +35,11 @@ PM and PO will monitor analytics. If they see a spike in errors or unexpected be
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN] 3/17-3/21
-- Desired number of users: [FILL_IN] 10+
-- How you'll recruit the right production test users: [FILL_IN] Perigean?
-- How you'll conduct the testing: [FILL_IN] Moderated
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN] FIGMA Prototype
+- Desired date range or test duration: 3/19-3/26
+- Desired number of users: 10+
+- How you'll recruit the right production test users: Perigean
+- How you'll conduct the testing: User Interviews
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: Staging
 
 #### Results
 
@@ -59,7 +59,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN] 3/24-3/28
+- Desired date range: 4/2/2025-4/11/2025
 - How will you make the product available in production while limiting the number of users who can find/access it: Feature Toggle.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   - Upload error rate < 5%
