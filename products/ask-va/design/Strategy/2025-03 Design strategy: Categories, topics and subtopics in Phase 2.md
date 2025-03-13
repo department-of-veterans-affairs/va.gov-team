@@ -16,13 +16,20 @@ We have an opportunity to improve the start of the form and reduce burden on sub
 
 ## Hypothesis
 
-In July 2024, we started an initiative to build and train a natural language processing (NLP) model to accurately predict a category, topic and subtopic based on a question [[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)]. 
+In July 2024, we started an initiative to build and train a natural language processing (NLP) model to accurately predict a category, topic and subtopic based on a question [[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)].
 
 We hypothesized that by pre-filling these selections and letting a submitter review the predictions, we could improve the start of the form and reduce unnecessary burden.
 
 ### Testing our hypothesis
 
-To test our hypothesis and better understand how an NLP model should surface predictions to submitters, we conducted user research in February 2025.
+We conducted user research in February 2025 to better understand how an NLP model should surface predictions to submitters, among other opportunities for automation [[7]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Research%20plan.md))].
+
+We learned that:
+- Part of a secure support experience is knowing who you're contacting.
+- People second guess themselves and let the tool take them down the wrong path.
+- It's reasonable to suggest categories based on other similar questions that Veterans have asked in the past.
+- People prefer choosing from a list of narrow options, rather than the tool jumping to a conclusion right away.
+- While people are good at identifying if a suggestion is wrong, it's difficult to choose the correct category or topic from a list.
 
 
 
@@ -61,3 +68,5 @@ These steps focus on design work. We may add to or amend these next steps as we 
 - [4] [Compare Ask VA to other support channels on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20other%20support%20channels%20on%20VA.gov.md#insights)
 - [5] [Ask VA KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md) 
 - [6] [Prefill topic questions with NLP data model initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)
+- [7] [User research plan to test concepts that automate steps in Ask VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Research%20plan.md)
+- [8] [Findings from user research in February 2025](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Findings.md#key-findings)
