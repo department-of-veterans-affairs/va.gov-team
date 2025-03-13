@@ -76,13 +76,13 @@ Each participant was shown the following:
 2. Most Veterans will understand that they must still respond to a paper 21-0538 request after completing the update or verify task on VA.gov (won’t disregard future paper requests)
      1. LIKELY FALSE: When prompted with receiving a paper 0538 after verifying on VA.gov caused confusion. Participants interpreted the 0538 batch letter as confirmation of verification on VA.gov or were confused/upset that they received this, seeing it as redundant. Many would call the VA to gain clarity. 
 2. Veterans will understand the difference between the tasks to verify and update
-    3. LIKELY TRUE: Most participants accurately followed the update/verify paths, with 2 even reading the description below the selection header. 
+     3. LIKELY TRUE: Most participants accurately followed the update/verify paths, with 2 even reading the description below the selection header. 
 4. Veterans will expect to be able to edit, add, or remove individual dependents quickly
-    5. DEFINITELY TRUE: Most participants expected to be able to update dependent information on VA.gov.  
+     5. DEFINITELY TRUE: Most participants expected to be able to update dependent information on VA.gov.  
 6. Most Veterans will complete the dependency verification task with clarity and in one sitting.
-    7. LIKELY TRUE: When following the happy path, most participants completed the task and described it as "quick" and "easy." If participants saw personal information that needed correction or ran into other points of confusion, it would often prompt them to call the VA, risking abandonment of the task. 
+     7. LIKELY TRUE: When following the happy path, most participants completed the task and described it as "quick" and "easy." If participants saw personal information that needed correction or ran into other points of confusion, it would often prompt them to call the VA, risking abandonment of the task. 
 8. Some Veterans may find the tool unfamiliar or unexpected
-    9. MAYBE FALSE: Most were familiar with the standard form layout, Your VA Dependents, and the dependents parent page. A couple of participants found it surprising that they were asked to review/confirm personal information as a part of verifying their dependents. 
+     9. MAYBE FALSE: Most were familiar with the standard form layout, Your VA Dependents, and the dependents parent page. A couple of participants found it surprising that they were asked to review/confirm personal information as a part of verifying their dependents. 
 
 
 
