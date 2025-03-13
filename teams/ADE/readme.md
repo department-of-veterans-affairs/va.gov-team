@@ -1,20 +1,7 @@
-# Accessibility Digital Experience (ADE) team
-
-> [!CAUTION]
-> ## Team Transition In Progress
-> **2/7/2025:** CEDAR's CAIA contract has concluded and the new SPRUCE contract has begun for Accessibility Digital Experience (pronounced /ād/).
-> - Accessibility DE is OCTO’s new accessibility team (all the same faces, plus a few new ones!).
-> - We’re currently working on onboarding new team members, and refining our processes.
-> - If you need accessibility support, during this time of transition, please contact the Accessibility DE team on:
->     - [#accessibility-help channel](https://dsva.slack.com/archives/C8E985R32)
->     - Be sure to tag us with our handle `@accessibility-de`
-> - [Read more about us, in our Feb. 6, 2025 announcement.](https://dsva.slack.com/canvas/C8E985R32?focus_section_id=temp:C:SDL8f9032f0740c4defaa0616679)
-
-
-
 # Accessibility Digital Experience (ADE) Team (pronounced /ād/)
 
-_Accessibility Digital Experience aka Accessibility DE or for short, ADE (pronounced "aide"), is OCTO's new accessibility team under SPRUCE._
+_Accessibility Digital Experience aka Accessibility DE or for short, ADE (pronounced /ād/), is OCTO's new accessibility team under SPRUCE._ [Read more about us, in our Feb. 6, 2025 announcement.](https://dsva.slack.com/canvas/C8E985R32?focus_section_id=temp:C:SDL8f9032f0740c4defaa0616679)
+
 ## Our goal
 Our goal is to empower teams to deliver the most accessible products possible for Veterans. We do this by providing teams with insights, training, and support as accessibility subject matter experts.
 
@@ -25,7 +12,7 @@ Our goal is to empower teams to deliver the most accessible products possible fo
 The Accessibility Digital Experience team is a team of familiar faces, and some new, who are here to help your team deliver the highest, quality accessible product possible to our Veterans. 
 
 > [!IMPORTANT]
-> **This document explains some of the ways that ADE can help aide your team with accessibility.**
+> **This document explains some of the ways that ADE can help aid your team with accessibility.** 
 
 ### How we relate to the Collaboration Cycle
 We've grouped our offerings by how they relate to the [touch point meetings in the Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/). We've done this because the Collaboration Cycle is a well-known process for our community, and maps well to how we do work. 
