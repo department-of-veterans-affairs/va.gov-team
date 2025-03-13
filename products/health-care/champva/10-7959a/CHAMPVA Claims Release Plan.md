@@ -1,6 +1,6 @@
 
 <!-- markdownlint-disable MD024 -->
-# Release Plan Template
+# 1079-59a CHAMPVA Claims Release Plan
 
 So! You're thinking about how you want to launch your product. You know you'll perform usability testing and QA the heck out of it in staging, both critical components of product development. But they don't tell you how people will naturally use your product when you're not there to guide them to it, how any submitted data will get to VA, whether that data will be easy or difficult for VA to process, whether people will be likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment. All of which could be very detrimental to users, which is the antithesis of what we're here to do.
 
@@ -35,7 +35,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| [FILL_IN] | If enabled shows the digital form experience for form 10-7959a CHAMPVA Claims (IVC CHAMPVA) |
 
 ## Step 2: Validation
 
@@ -93,17 +93,17 @@ Even though your feature has been tested and ready, production is still a differ
 >
 > - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
 
-[FILL_IN]: create your rollback plan
+PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will work with the team to get the FE engineer to disable the toggle and identify the issue.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
+- Desired date range or test duration: [FILL_IN] 3/17-3/21
+- Desired number of users: [FILL_IN] 10+
+- How you'll recruit the right production test users: [FILL_IN] Perigean?
+- How you'll conduct the testing: [FILL_IN] Moderated
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN] FIGMA Prototype
 
 #### Results
 
@@ -123,25 +123,25 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
+- Desired date range: [FILL_IN] 3/24-3/28
+- How will you make the product available in production while limiting the number of users who can find/access it: Feature Toggle.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
+  - Upload error rate < 5%
+  - Zero silent failures
+  - Callback error rate < 1%
+- Links to the dashboard(s) showing "success criteria" metrics: [ivc-champva-forms](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=weekly&from_ts=1734391252265&to_ts=1734709253529&live=true)
+- Who is monitoring the dashboard(s)?:  IVC Forms Team
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
-### Stage A: Canary
+### Stage A: Canary - 3/31/2025
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+- Length of time: 24 hours and >0 submits
+- Percentage of Users (and roughly how many users do you expect this to be): 1%-5%
 
 #### Results
 
@@ -151,13 +151,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage B: 25% of users
+### Stage B: 25% of users - 4/1/2025
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 2 days
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
@@ -168,13 +168,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage C: 50% of users
+### Stage C: 50% of users - 4/3/2025
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 2 days
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
@@ -185,13 +185,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage D: 75% of users
+### Stage D: 75% of users - 4/7/2025
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 2 days
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
@@ -202,11 +202,11 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage E: 100% of users
+### Stage E: 100% of users - 4/9/2025
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: Monitor at least 7 days and review any findings
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
