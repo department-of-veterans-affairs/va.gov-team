@@ -4,7 +4,7 @@ January – February 2025
 
 Melissa Stern
 
-\[Research readout\](link here)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/60752fdb5b41075621b221a69770f537cdafaf7b/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2025-01-usability-testing-rd4-at/MR4_Readout.pdf)
 
 ## Research Goals
 
