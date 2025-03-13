@@ -22,7 +22,7 @@ Veterans are mandated to verify their dependents' status every 8 years with VA F
 
 The purpose of this research was to 
 1. Understand the Veteran’s mental model of dependent verification on VA.gov and their expectations for finding tools and completing tasks around dependent verification.
-2, Validate the usability of our 0538 email notification and va.gov designs and determine whether they provide a clear path to verify and update dependents and
+2. Validate the usability of our 0538 email notification and va.gov designs and determine whether they provide a clear path to verify and update dependents and
 3. Understand how the flow, designs, and copy impact the Veteran’s understanding of the task.
 
 _[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
