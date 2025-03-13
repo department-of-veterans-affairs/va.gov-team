@@ -1,47 +1,78 @@
-# WIP - Delegate Access Solution 1 Pager - WIP
 
-The Delegate Access Solution enables authorized delegates to securely act on behalf of Veterans within VA digital services. With the deprecation of My HealtheVet (MHV) credentials, this solution ensures continued access in a scalable and regulatory-compliant manner.
+**Last Updated: March 11, 2025 -- Outline created**
+     
+## POCs
+**Slack channel**: [#identity](https://dsva.slack.com/channels/identity); [#sign-in-experience](https://dsva.slack.com/channels/sign-in-experience)
 
-## Background
+|**Team member**|**Role**|
+|----------------|---------------|
+|Samara Strauss | OCTO Product Lead 
+|Tom Black | OCTO Engineering Lead 
+|Joelle Wells | Contractor Product Manager
+|Lainey Trahan | Contractor Product Manager
+|Joe Niquette | Contractor Engineering Lead
+  
+## Overview
 
-VA reducing its CSPs from four to two will improve the security, availability, and customer experience of signing into VA web and mobile properties. However, there is one group – people acting on behalf of another person – that are not accommodated by this move. These groups currently use the My HealtheVet user ID and password of the Veterans whom they care for to log in and manage their health online. This is an insecure vector for fraud, yet many people are used to working in this way. 
+VA recently retired its use of the My HealtheVet user ID and password (March 2025), and plans to retire its use of DS Logon after 9/30/2025. As such, VA is requiring all people to create an ID.me or Login.gov account if they want to manage their VA health care and benefits online.
 
-Both Login.gov and ID.me require that a person signing up for a new account and verifying their identity is who they say they are. Caregivers are not allowed to create an account on behalf of a Veteran. This makes sense from a security and fraud prevention posture, and it is also in line with what both Login.gov and ID.me do: these organizations are in the business of identity management, not access management.  
+Both ID.me and Login.gov require that a person verify as themselves, and verifying on behalf of someone else is not allowed. As such, ID.me and Login.gov will not allow delegates to verify a credential for another person (ie. the veteran whom they care for), which means that delegates can not transition to ID.me or Login.gov as we are asking other users to do.
 
-As such, the Office of the CTO would like to build delegate access so that delegates with a verified Login.gov or ID.me account can have their information securely linked to the ICN of the Veteran whom they care for. This is essential to VA's effort to fully retire the My HealtheVet user ID and password. Without delegate functionality through Login.gov or ID.me, VA cannot fully retire the MHV user ID and password.
+### My HealtheVet delegate solution
 
-## Problem Statement
+In 2021, the My HealtheVet team worked with the IAM team to launch a delegate solution for the My HealtheVet website. IAM built a tool that supported delegate designation. This tool sent a consent form to a Veteran to designate a delegate, and then tied that Veteran's information to that of their delegate. The tool could also revoke delegate access. When people who'd been granted delegate access signed into My HealtheVet, they would see an option to view My HealtheVet as themselves or as the Veteran for whom they were a delegate.
 
-Court-appointed guardians and internal VA users will lose access to Veteran and test accounts due to MHV credential deprecation. A secure, transparent, and compliant solution is necessary to maintain access for authorized delegates while ensuring security.
+Despite being fully built out, My HealtheVet never fully utilized delegate access outside of a small group of internal staff. This functionality was never launched to the broader Veteran/caregiver population.
 
-## Target Audience
+### Current need
 
-- **Veterans & Beneficiaries:** Ensuring continued support from authorized delegates.  
-- **Primary Users:** Court-appointed guardians, legally authorized delegates.  
-- **VA Internal Users:** VA employees and contractors who need access to production test accounts.  
+The OCTO Login & Identity team has been tasked with validating a user need around online delegate access. If that need is validated, our team needs to determine the MVP use case and user needs for delegate access, determine the unique security concerns and constraints for providing delegate access on VA.gov, and build the infrastructure and end-user experience that will support delegate access on VA.gov.
 
-## Core Products & Features
+## User Problem Statement
 
-### 1. Profile Selector Workflow - Secure delegate login with role-based access control
-- Allows authorized delegates to log in and select the Veteran they represent.
-- Displays a persistent “View As” indicator to ensure transparency.
+- As a delegate, I need to manage a(nother) Veteran's business with VA on their behalf.
+- As a person who interacts with VA, I need an ID.me or Login.gov account to manage my VA business online.
 
-### 2. Audit Database - Immutable logs of delegate actions for compliance
-- Secure logging of delegate actions for compliance and security.
-- Meets VA RCS 10-1 and NIST standards.
+## Business goals
 
-### 3. User Actions View - Dashboard view of user interactions
-- Delegate users can track their actions for transparency and accountability.
-- Enhances user trust and compliance adherence.
+- Determine need for delegate access to VA.gov.
+- Support delegates and caregivers in conducting business with VA on behalf of another person, whether they would like to conduct that business online, over the phone, or in person.
+- Abide by all privacy and security laws and protocols required to protect people's information.
 
-## High-Level Roadmap
+## Questions and Hypotheses
 
-🔹 MVP launch with VA employee test accounts.  
-🔹 Initial rollout to court-appointed guardians.  
-🔹 Expansion to broader use cases for production test accounts.  
-🔹 Automate permissions, improve UX, integrate with other VA services.  
+### Questions
 
-## Dependencies
+- There are many kinds of delegates at VA. Where should we focus our MVP?
+- How do caregivers manage their Veterans' business at VA (Eg. online, over the phone, in-person, etc)? What do caregivers actually do on behalf of Veterans?
+- What consent forms are needed to designate someone online delegate access?
+- How can we revoke access?
+- Is there a legally above-board way to grant delegate access to court-appointed guardians since the Veteran can not provide explicit consent? Does this population need online access?
+- How do court-appointed guardians manage their Veterans' care now? What do they manage (eg. just health care; other benefits)?
+- What are the consequences if we do not build delegate access?
+- Can we leverage the existing IAM delegate tool? If not, what do we need to build?
+- Where should the delegate designation and delegate <> Veteran relationship be stored?
+- Where should delegate consent forms be stored?
 
-⚠️ New MPI person type is added and available for use in the IAM toolkit.  
+### Hypotheses
 
+- The primary delegate access use case will be for caregivers. This population only needs to manage health care-related tasks on behalf of the Veteran they care for.
+- Caregivers do not actually need to see a(nother) Veteran's entire VA.gov account.
+
+## Challenges and Risks
+
+- VA has a ton of delegate types. Needing to account for multiple delegate types or access nuances on VA.gov could quickly become complex and unwieldy.
+- VA.gov houses both health and benefit information. In order to give a person access to someone else's information, we need to make sure that proper consent is given and meets HIPAA and other privacy laws.
+- IAM has built a delegate tool, but IAM has a full roadmap and might not be able to develop and update that tool on the timeline we need them to.
+
+## Backend
+
+(Add background backend documentation and links to other relevant documentation)
+
+## Frontend
+
+(Add background frontend documentation and links to other relevant documentation)
+
+## Design and UX
+
+(Add background design documentation and links to other relevant documentation, like Figma files, UX research, etc)
