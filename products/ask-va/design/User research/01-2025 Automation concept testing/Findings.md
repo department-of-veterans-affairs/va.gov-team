@@ -240,14 +240,14 @@ People also try to sway the tool away from an incorrect suggestion. Editing thei
 - Include content about a suggestion being 'based on other similar questions Veterans have asked' without getting any more technical.
 - Let people know which team will answer their question.
   
-2. Offer helpful links mid-form based on informatoin people share.
+2. Offer helpful links in the form based on information people share.
 - Determine the right moment(s) to offer helpful links based on information people share.
 - Make it clear you can still continue with the form if you don't want to click a link or don't find an answer on your own.
 
 ## Next steps
 
-- Create a [design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/2025-03%20Design%20strategy:%20Categories,%20topics%20and%20subtopics%20in%20Phase%202.md) for category and topic determination focused on recommending a shorter list options based on a question
-- Decide when in the form to offer helpful information and determine design and technical approach
+- Develop a [design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/2025-03%20Design%20strategy:%20Categories,%20topics%20and%20subtopics%20in%20Phase%202.md) to recommend a shorter list of category, topic and subtopic options based on a question.
+- Develop a design strategy to offer helpful information in the form. And determine a technical approach.
 
 ## Further research needed
 
