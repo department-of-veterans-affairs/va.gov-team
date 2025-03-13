@@ -1,3 +1,12 @@
+# 0781 Paper Sync Data Fields
+Below are the list of data element that were used in the 0781 paper sync initiative.  
+The user flow for filling out the 0781 data begins with the 0781 choice page and concludes after supporting evidence uploads. 
+The data fields are those from the new [VA Form 21-0781 Form name:Statement in Support of Claimed Mental Health Disorder(s) Due to an In-Service Traumatic Event(s)](https://www.va.gov/find-forms/about-form-21-0781/)
+
+- [526 Product repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
+- [0781 Paper Sync](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/0781%20Paper%20Sync)
+- [Epic 0781 Paper Sync #87438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87438)
+- [Designs specs](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=14625-58056)
 
 
 | PDF Section # | PDF Field #                                              | 0781 PDF Form Field Name                                                                                                                                                                                                    | Online Version Question                                                                                                                 | Notes                                                                                                                                                                                                                                          | PDF character count |
