@@ -181,12 +181,6 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 *To be completed once you have gathered your initial set of data, as outlined above.*
 1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-2. What qualitative feedback have you gathered from users or other stakeholders?
-3. Which assumptions you listed in your product outline were/were not validated?
-4. How might your product evolve now or in the future based on these results?
-5. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
-
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
 1. What qualitative feedback have you gathered from users or other stakeholders?
 1. Which assumptions you listed in your product outline were/were not validated?
 1. How might your product evolve now or in the future based on these results?
