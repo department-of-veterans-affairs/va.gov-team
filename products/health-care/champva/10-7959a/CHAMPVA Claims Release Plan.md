@@ -35,22 +35,20 @@ PM and PO will monitor analytics. If they see a spike in errors or unexpected be
 
 #### Planning
 
-- Desired date range or test duration: 3/19-3/26
-- Desired number of users: 10+
+- Desired date range or test duration: 8/23/2024-9/11/2024
+- Desired number of users: 8
 - How you'll recruit the right production test users: Perigean
-- How you'll conduct the testing: User Interviews
+- How you'll conduct the testing: User/Usability Interviews
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: Staging
 
 #### Results
 
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
+- Number of users: 7
+- Number of bugs identified / fixed: 0/0
+  - https://github.com/department-of-veterans-affairs/va.gov-team/issues/98798
+- Was any downstream service affected by the change?: yes/no, no
 - Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
 - If yes, what: [FILL_IN] with ticket numbers
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
