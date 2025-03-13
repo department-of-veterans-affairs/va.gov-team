@@ -37,6 +37,7 @@ Human centered design to help reduce friction and abandonment among Veterans fil
 
 ## Production release plan
 Canary rollout plan: 
+The rollout plan involves deploying the new 0781 flow version to a small, representative subset of users (the "canary" group) before releasing it to the entire user base, allowing for early detection of issues and a swift rollback if necessary. 
 
 Release date: 
 
@@ -51,6 +52,16 @@ Percentage of Users (and roughly how many users do you expect this to be): 1% of
 ## Risks
 
 ## Production issues recovery plan
- 
+DBEX team Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering teams will be on standby to disable the flippers which redirect all submissions back to the existing 0781 path. 
 
+The recovery playbook is included in the QA document linked in this issue 
+
+## Rollback
+Rollback if any of the following is encountered
+- Qualitative anomalies that affect a significant number of users
+- Any new severe or widespread errors identified
+- High volume of 500 errors
+- High volume of Call Center complaints
+- Abnormally high latency
+- Traffic metrics deviate abnormally from the Flipper allotment
 
