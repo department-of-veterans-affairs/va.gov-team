@@ -13,5 +13,5 @@ This folder contains documentation related our design strategy during Phase 2.
 ## Questions?
 
 You can join [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) or reach out:
-- Tyler Gindraux: tyler@bluetiger.digital | tyler.gindraux@va.gov
-- Thomas Michaud: thomas.michaud@oddball.io | thomas.michaud@va.gov
+- Tyler Gindraux: tyler@bluetiger.digital
+- Thomas Michaud: thomas.michaud@oddball.io
