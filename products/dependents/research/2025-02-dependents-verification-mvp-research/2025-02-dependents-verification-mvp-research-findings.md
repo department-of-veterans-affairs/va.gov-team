@@ -1,16 +1,12 @@
-<br>**This is a template, PLEASE MAKE A COPY**
+# 2025-02 Dependent Verification MVP Research Findings 
 
----
+**Office of the CTO - Digital Experience (OCTO-DE), Dependent Verification, Dependents Experience**
 
-# [Study] Research Findings 
+Date: 03/13/2025
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+Ajia Wallace ajia.wallace@softrams.com, Ruben Sun ruben@coforma.io
 
-Date: MM/DD/YYYY
-
-[Designer 1] [email], [Designer 2] [email]
-
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Research readout](link here)
 
 **Jump to:**
 
@@ -22,7 +18,13 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
+Veterans are mandated to verify their dependents' status every 8 years with VA Form 21-0538. This MVP is a partial digitization of this form for VA.gov and a call for Veterans to review and update or verify dependents annually to reduce the ~ $250 million per year of debt due to overpayments that Veterans accrue due to out-of-date dependents. This form follows the standard interview-style format on VA.gov and will be familiar to Veterans who use VA.gov to complete forms for their VA benefits. 
+
+The purpose of this research was to 
+1. Understand the Veteran’s mental model of dependent verification on VA.gov and their expectations for finding tools and completing tasks around dependent verification.
+2, Validate the usability of our 0538 email notification and va.gov designs and determine whether they provide a clear path to verify and update dependents and
+3. Understand how the flow, designs, and copy impact the Veteran’s understanding of the task.
+
 _[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
 _Then, describe your goals for this research_
