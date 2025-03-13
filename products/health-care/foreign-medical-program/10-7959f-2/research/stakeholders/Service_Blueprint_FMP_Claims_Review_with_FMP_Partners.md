@@ -1,7 +1,8 @@
 # Service Blueprint FMP Claims Review with FMP Partners
 
 **3/12/25 **
-
+AttendeeS:
+Jamie Fiore, Andrea Merril, Mike Mooney, Rachel Pope, Renata Keck, Andy Szymczak, Richard McKeithan, Leticia Diaz, David Fieselman, Andrea Bingham
 
 ## Intro
 
