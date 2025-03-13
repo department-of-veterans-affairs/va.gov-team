@@ -6,31 +6,8 @@ You can currently reach Ask VA at [ask.va.gov](https://ask.va.gov/). By end of M
 ## Current initiatives
 |Initiatives|Status|Launch date|
 |:---|:---|:---|
-|Prefill topic questions with NLP data model|In-progress|June 30, 2025|
+|[Prefill topic questions with NLP data model](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-NLP%20June%202025/initiative-brief.md)|In-progress|June 30, 2025|
 |[Move frontend to VA.gov (Phase 1)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/move-frontend%20Mar%202025/initiative-brief.md)|In-progress|March 24, 2025|
-
-### Prefill topic questions with NLP data model
-- Dates: July 2024 to June 2025 
-- Launch date: June 30, 2025
-
-#### Objectives and key results (OKRs)
-Objectives and Key results (OKRs) help us measure success of specific targeted objectives for a specific initiative or time period.
-
-This initiative aligns with the following 2025 OCTO OKRs: 
-- Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
-   - Key result 1 (Satisfaction): Improve satisfaction with our web and mobile products by 5 points.
-
-It also includes these OKRs: 
-- Objective: Users complete the form in less time
-   - Key result (Time to submit form): Decrease time to submit form by x
- - Objective: Users successfully complete the form at a higher rate
-    - Key result (Form completion rate): Increase the percentage of successfully sent questions by 5 points
-
-|Key result|Baseline (ask.va.gov)|After X months|
-|:---|:---|:---|
-|Satisfaction|January 2025: 23%|x|
-|Time to submit form|unknown|x|
-|Form completion rate|[May to October (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|x|
 
 ## Where to find us
 - DSVA Slack: [#ask-va-public](https://dsva.slack.com/archives/C05A2F6DEAE)
