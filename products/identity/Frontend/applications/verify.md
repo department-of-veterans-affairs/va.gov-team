@@ -28,6 +28,14 @@ The purpose or goal of the Verify application is to get [VA.gov](http://VA.gov) 
     3. The verify buttons are context-aware for the AuthBroker
         1. Button should know to switch between OAuth and SAML with the AuthBroker dependency (eg `user.profile.session.authBroker`)
 
+```mermaid
+flowchart TD
+    A[Somewhere on VA] -->|User| B(Verify page)
+    B --> C{User signed in?}
+    C -->|Unauthenticated| D[Render both verify buttons forcing OAuth]
+    C -->|Authenticated| E[Render buttons based on AuthBroker and CSP]
+```
+
 ## Terminology
 
 | **Word** | **Definition** | **Reference** |
