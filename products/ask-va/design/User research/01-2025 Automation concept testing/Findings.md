@@ -251,7 +251,7 @@ People also try to sway the tool away from an incorrect suggestion. Editing thei
 - [ ] Determine a technical approach to surfacing category, topic and subtopic options above a certain confidence threshold.
 
 2. Offer helpful links in the form based on information people share.
-- [x] Develop a design strategy to offer helpful information in the form.
+- [x] Develop a [design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-03%20Design%20strategy%3A%20Recommend%20helpful%20links%20in%20Phase%202.md) to offer helpful information in the form.
 - [ ] Determine a technical approach to offering helpful information in the form.
 
 ## Further research needed
