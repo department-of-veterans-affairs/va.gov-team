@@ -26,7 +26,7 @@ Among other insights, we learned that:
 - People prefer choosing from a list of narrow options, rather than the tool jumping to a conclusion right away.
 - While people are good at identifying if a suggestion is wrong, it's difficult to choose the correct category or topic from a list.
 
-We can use this insight to shape the best approach to leveraging this NLP model now and later.
+These insights can shape our approach to leveraging this NLP model now and later.
 
 ## Recommendation
 
