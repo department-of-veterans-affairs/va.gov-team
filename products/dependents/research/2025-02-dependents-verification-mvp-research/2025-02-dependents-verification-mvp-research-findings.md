@@ -58,13 +58,27 @@ Each participant was shown the following:
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+1. Most Veterans will be familiar with VA.gov notifications
+    1. FALSE: Most participants ignored the instructions and were unable to fill out any of the forms without a lot of help from the moderator, and many were unable to succeed even with all the help provided (especially users on mobile devices).
+1. Most Veterans will engage directly with the email notification
+    1. FALSE: Same reasons as above. In addition, the digital signature is not accessible to users of screen readers.
+1. Veterans will have clarity around the request, but may face lack of clarity with understanding the implications of the request
+    1. FALSE: Same reasons as above.
+  
+1. Veterans will use VA.gov’s search or benefits menu to find dependent management tools and information.
+    1. MAYBE TRUE: Instructions at the top were ignored by all participants who saw them.
+  
+1. Most Veteran’s mental models will match the task to verify or update dependents.
+    1. MAYBE TRUE: Instructions repeated were ignored by all except two participants. No one mentioned being annoyed by the repeated text.
+  
+2. Veterans will understand the difference between the tasks to verify and update
+    3. 
+4. Veterans will expect to be able to edit, add, or remove individual dependents quickly
+    5.
+6. Most Veterans will complete the dependency verification task with clarity and in one sitting.
+7. Some Veterans may find the tool unfamiliar or unexpected
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
 
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
 
 ## Key Findings
