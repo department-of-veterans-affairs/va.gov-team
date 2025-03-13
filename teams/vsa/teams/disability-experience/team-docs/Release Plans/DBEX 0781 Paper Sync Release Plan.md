@@ -54,7 +54,9 @@ We'll closely monitor the canary deployment for performance issues, errors, and 
 **Scale Gradually**
 
 Each week the team will be monitoring the progress of disability claims ... reporting the metrics in the # benefits-disability slack channel ... 
+
 If the canary deployment is performing well, we'll gradually increase the percentage of traffic to the new 0781 flow. 
+
 Once we're confident that the canary deployment is stable, we'll fully roll it out to all users by routing all traffic ...  
 
 **Canary rollout plan**
