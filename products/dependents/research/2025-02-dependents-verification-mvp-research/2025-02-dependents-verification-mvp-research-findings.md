@@ -25,31 +25,36 @@ The purpose of this research was to
 2. Validate the usability of our 0538 email notification and va.gov designs and determine whether they provide a clear path to verify and update dependents and
 3. Understand how the flow, designs, and copy impact the Veteran’s understanding of the task.
 
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
-
-_Then, describe your goals for this research_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals)_
-
-
 
 ## Research Questions
 
-_Research questions here_
+- How does the Veteran find dependent management info and tools on VA.gov?
+- What actions and benefits do they associate with dependent management?
+- How do Veterans expect to be able to accomplish tasks they associate with dependent management?
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)_
+- Do directions and other informative language provide clarity or confusion?
+- Do the designs allow most Veterans to verify their dependents in one sitting?
+- Do we see indicators that a Veteran would take action immediately upon receiving the email?
+  - Do they currently receive VA.gov notifications?
+- What content or IA decisions might impede the Veteran from completing the task to verify? Update?
 
+- Is the Veteran familiar with VA Form 0538?
+- Does the Veteran’s mental model match the task they’re completing?
+- Does the Veteran understand the impact of the dependency verification task?
+- Do Veterans answer the yes/no question accurately and with clarity based on their dependents' situation.
 
-* Question 
-* Question
-* Question
 
 ## Methodology 
 
-_Brief description of method chosen_
+We conducted ten hour-long remote moderated research sessions via Zoom on February 10-14, 2025. Participants were asked a series of foundational questions regarding their experiences managing their dependents, specifically on VA.gov. They were then asked to engage with a Figma prototype representing the dependent verification experience on VA.gov: [Prototype](https://www.figma.com/proto/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?page-id=704%3A13185&node-id=2218-77862&viewport=4550%2C30420%2C0.49&t=wyaR11IBNxWEvS5z-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2041%3A15449&show-proto-sidebar=1)
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
+Each participant was shown the following: 
 
+- An email notification from VA.gov that would be sent annually to direct Veterans to review and verify or update their dependents on VA.gov
+- The verification experience, beginning on Your VA Dependents
+  - The verification flow that ends with the Veteran submitting a VA Form 21-0538
+  - The update flow that ends with the introduction page for our online tool, Request to add or remove VA dependents
+- The batch request letter for VA Form 21-0538 that Veterans currently receive on an 8-year cadence
 
 ## Hypotheses and Conclusions
 
