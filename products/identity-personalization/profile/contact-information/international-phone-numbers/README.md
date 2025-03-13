@@ -30,19 +30,15 @@ Which OCTO, Portfolio, Pod/Crew/Team OKRs does this initiative map to?
 - VA Profile
 - VADS
 - MHV
-
-## Reference links:
-- [International Phone Numbers Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74562)
-
  
 ### Form Behavior Needed
 - For phone numbers with a country code of +1, that includes the +1 country code, a 3-digit area code and a 7-digit phone number.
 - For phone numbers with a country code other than +1, there is a county code from 1-3 digits and a phone number up to 12 digits.
 
-#### Pre-work:
+### Pre-work:
 To support international phone numbers VA.gov would need:
 
-### 1. VA Profile International Phone Number Support `DONE they're able to support`
+#### 1. VA Profile International Phone Number Support `DONE they're able to support`
 
 <details><summary>Details</summary>
 <p>
@@ -71,7 +67,7 @@ VA Profile support for International numbers is planned for PI 30 starting in Se
 </p>
 </details> 
 
-### 2. VA Design System International Phone Number Component Work `DONE` 
+#### 2. VA Design System International Phone Number Component Work `DONE` 
 <details><summary>Details</summary>
 <p>
 
@@ -85,5 +81,6 @@ The VADS/DSC is working on creating components that support international Phone 
 </p>
 </details> 
 
-## Important Artifacts 
+## Reference Links / Important Artifacts 
 - Designs 
+- [International Phone Numbers Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74562)
