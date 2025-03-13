@@ -26,7 +26,7 @@ Among other insights, we learned that:
 - People prefer choosing from a list of narrow options, rather than the tool jumping to a conclusion right away.
 - While people are good at identifying if a suggestion is wrong, it's difficult to choose the correct category or topic from a list.
 
-
+This research shapes our recommendation, alongside insights from the data engineers who are currently building the NLP model.
 
 ## Recommendation
 
