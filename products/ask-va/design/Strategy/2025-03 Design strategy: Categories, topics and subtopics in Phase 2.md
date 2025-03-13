@@ -30,15 +30,9 @@ These insights can shape our approach to leveraging an NLP model now and later.
 
 ## Proposed approach
 
-We propose that we use an NLP model to predict category, topic and subtopic options over a certain confidence score. 
+We propose that we use an NLP model to predict category, topic and subtopic options that are over a certain confidence score. We will determine which level of confidence is significant enough, and then anything that falls above this threshold will be surfaced to a submitter, whereas anything below will be hidden.
 
-We could recommend multiple options using a confidence score. Lylybell thinks they could pull this together soon because it's "easy to implement" and already on par with what they're doing.
-A confidence score is how confident the model is that we picked the right option for this question.
-They could extract the fields based on a fixed "top 5" confidence scores approach or an unfixed confidence threshold approach. Either way, it could apply across category, topic and subtopic.
-If we used a fixed "top 5" confidence scores approach, we could end up offering 2 predictions that have a high (say, over 90%) confidence score, and the next 3 predictions only have a low (say, under 60%) confidence score.
-Instead, we agreed we should prioritize showing only the most accurate responses (unfixed confidence threshold approach) as opposed to a fixed set of 5 every time. Jacob and Lylybell will determine what level of confidence is significant enough.
-This means, as far as UI, we need to prepare for the scenario where we only have 1 option (no selection) or more than 1 (selection).
-We'll keep you posted as we work through our next steps design-wise!
+This means, we may surface 1 option or multiple options to submitters, depending on how confident the model is that it picked the correct option(s) for the question.
 
 ### Recommend a shorter list of categories, topics and subtopics based on a question
 
