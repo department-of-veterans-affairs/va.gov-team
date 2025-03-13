@@ -84,6 +84,21 @@ Other considerations:
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
+Incident Response info
+
+Rollback & Fix plan (1-3 days to triage and implement fix)
+
+In the event of a security vulnerability incident, we will:
+Immediately - Turn off feature using feature toggle
+Immediately - Triage incident
+Day 1 - Assess viable solutions
+Day 1-3 - Implement solution
+Day 1-3 - Complete solution testing
+Day 1 - Implement additional monitoring, if applicable
+Day 1-3 - Turn on feature using feature toggle (starting with a small percentage)
+Day 1-30 - Continue to monitor performance
+Day 1-10 - Proceed with Release Plan
+
 ## Launch Dates
 - *Target Launch Date*
   - tbd (dependent on PEGA integration timing)
@@ -91,6 +106,7 @@ Other considerations:
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - tbd
+    
 
 ---
 
