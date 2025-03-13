@@ -1641,7 +1641,7 @@ Majority synthesis done post-its
 - Participants: 3
 - Observation/ formative research with test account
 - Potentially talk to clinicians, MHV coordinators
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/secure-messaging/discovery)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/secure-messaging/vets-secure-messaging/discovery)
 
 #### August 15-19 – 1990 Education Benefits Discovery
 *Research staff: Caitlin, Alex, Laura*
