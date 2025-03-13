@@ -29,7 +29,7 @@ Create a new 0781 online form that will match the newest paper version of the PD
 - Datadog log
 - Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) (pre-production)
 - Product Guide
-- Collboration Cycle Plan
+- Collaboration Cycle Plan
 - [Release calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1739482666003/8c148f924688c05f897075c420034f628d3f0970)
 
 
