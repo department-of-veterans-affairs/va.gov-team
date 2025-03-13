@@ -2,7 +2,7 @@
 
 Office of the CTO - Digital Experience (OCTO-DE), Ask VA, Ask VA VA.gov Team
 
-Last updated by @tygindraux: March 12, 2025
+Last updated by @tygindraux: March 13, 2025
 
 Tyler Gindraux [tyler@bluetiger.digital]
 
@@ -245,9 +245,10 @@ People also try to sway the tool away from an incorrect suggestion. Editing thei
 
 ## Next steps
 
-- Design and agree a now, next and later approach to category and topic determination
+- Design an approach to category and topic determination focused on recommending a shorter list options based on a question
 - Decide when in the form to offer helpful information and determine design and technical approach
-- Add content within the form and/or on the confirmation page that lets people know which team will answer their question
+- Add content that lets people know our suggestions are based on past, similar questions
+- Add content that let peoples know which team will answer their question
 
 ## Further research needed
 
