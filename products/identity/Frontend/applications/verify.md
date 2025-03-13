@@ -34,9 +34,10 @@ flowchart TD
     B --> C{User signed in?}
     C -->|Authenticated| D[Render both verify buttons]
     C -->|Unauthenticated| E[Render buttons based on AuthBroker]
-    D --> F[Identity verification process]
-    E --> F[Identity verification process]
-    F --> G[VA.gov homepage]
+    D --> F[VA.gov API]
+    E --> F[VA.gov API]
+    F --> G[Identity verification process]
+    G --> H[VA.gov homepage]
 ```
 
 ## Engineering
