@@ -1,7 +1,6 @@
 # Ask VA zero silent failures checklist
-Last updated on December 11, 2024 by: @beckyphung
+Last updated on March 13, 2025 by: @arielma-tw
 
-I copied this checklist from [this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-discover-if-your-app-has-silent-failures.md#checklist). 
 
 **Jump to:**
 - [Start](#start)
@@ -12,66 +11,52 @@ I copied this checklist from [this GitHub doc](https://github.com/department-of-
 - [Next steps](#next-steps)
 
 ## Start
-* [ ] Do you know when your application shipped to production?
-  * If not, use Github to determine, roughly, when your application shipped to users.
-  * 💬 **Our application hasn't shipped to production yet. The target launch date is March 17, 2025 ([see Mural timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12)).**
+* [X] Do you know when your application shipped to production?
+  *  **Our application hasn't shipped to production yet. The target launch date is March 17, 2025 ([see Mural timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12)).**
 
-* [ ] Did your application use the same APIs when it shipped as it does today?
-  * If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
-  * 💬 **See message above. Here's a [list of the APIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/silent-failures-and-datadog.md) we'll be using.**
+* [X] Did your application use the same APIs when it shipped as it does today?
+  * **See message above. Here's a [list of the APIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/silent-failures-and-datadog.md) we'll be using.**
 ## Monitoring
 
-* [ ] Do you monitor the API that you submit to via Datadog? 
-  * If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
-  * 💬 **We plan to setup datadog monitoring. For further details [see ticket](https://github.com/department-of-veterans-affairs/ask-va/issues/1491)**
+* [X] Do you monitor the API that you submit to via Datadog? 
+  * **Yes. We have the [Ask VA Datadog dashboard](https://vagov.ddog-gov.com/dashboard/i7e-qkf-zim/ask-va-dashboard-draft?fromUser=false&refresh_mode=sliding&from_ts=1741271403227&to_ts=1741876203227&live=true)**
     
-* [ ] Does your Datadog monitoring use the appropriate tagging?
-  * If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
-  * 💬 **See previous checklist item and ticket. Tagging will be implemented as part of the same Datadog setup effort and will follow the VA platform standards.**
+* [X] Does your Datadog monitoring use the appropriate tagging?
+  *  **See previous checklist item. Tagging will be implemented and will follow the VA platform standards.**
     
-* [ ] Do errors detected by Datadog go into a Slack notifications channel?
-  * If not, start directing errors in Datadog to a dedicated Slack channel. See [#veteran-facing-forms-notifications](https://dsva.slack.com/archives/C063SM22J3H) for an example.
-  * 💬 **A Slack channel called #ask-va-notifications has been created. This channel will be connected to Datadog as part of the setup. [See ticket](https://github.com/department-of-veterans-affairs/ask-va/issues/1491)**
+* [X] Do errors detected by Datadog go into a Slack notifications channel?
+  * **Yes. Errors will be sent to the `#ask-va-notifications` channel**
   
-* [ ] Does more than one person look at the Slack notifications channel containing errors on a daily basis? 
-  * If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
-  * 💬 **Currently, the development team and product manager are members and monitor the Slack channel. Additional processes will be outlined in the team's incident response plan.**
+* [X] Does more than one person look at the Slack notifications channel containing errors on a daily basis? 
+  * **Yes. The development team and Ask VA product manager are members and monitor the Slack channel.**
     
-* [ ] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there? 
-  * If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
-  * 💬 **See reponse to previous checklist item.**
+* [X] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there? 
+  *  **Yes. We have the [Ask VA Monitor Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/ask-va-monitor-playbook.md), and the [Ask VA Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/InfoSec/ask-va-incident-response-plan.md) for more severe errors.**
 
 ⚠️ **Failure to have endpoint monitoring in place is a blocking QA standard at Staging review as of 9/10/24.** If you answered no to any of the questions above, you will be blocked from shipping at the Staging review touchpoint in Collab Cycle.
 
 ## Reporting errors
-* [ ] Have you filed issues for errors that are appearing in Datadog / Slack?
-  * If not, then start filing Github issues for new categories of errors following [this guidance](#file-silent-errors-issues-in-github)
-  * 💬 **No issues have been filed since the application has not launched yet.**
+* [X] Have you filed issues for errors that are appearing in Datadog / Slack?
+  *  **No issues have been filed since the application has not launched and no silent errors have been discovered based on current definition(s).**
     
-* [ ] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
-  * If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
-  * 💬 **There will be alerts for downtime/maintenance. Additionally, we will also be identifying other failure points and determining the method of user communication. [See ticket](https://github.com/department-of-veterans-affairs/ask-va/issues/1495)**
+* [X] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
+  * **Yes. Errors are surfaced if there is an issue preventing the user from submitting their question. There will also be alerts for downtime/maintenance.**
 
 ## Documentation
-* [ ] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record? 
-  * If not, then [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram) that captures this information.
-  * 💬 **A diagram will be created. [See ticket](https://github.com/department-of-veterans-affairs/ask-va/issues/1492)**
+* [X] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record? 
+  * 💬 **Yes. [Ask VA User Data Flow Diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams/ask-va/data-flow-20250106.md)**
      
-* [ ] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
-  * If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
-  * 💬 **This information will be captured in the user data flow diagram. See previous ticket.**
+* [X] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
+  * 💬 **See user data flow diagram linked previously**
     
-* [ ] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
+* [X] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
   * If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
   * Please document the outcome of this conversation in your product's documentation in Github.
-  * 💬 **We identify system of record owners. We'll also get their agreement in writing.** 
-  * ❓ **Plan for starting this conversation? Ticket?**
-  * Only system of record is CRM. Others are services. We can coordinate with CRM on getting this.
+  * **We surface errors returned from the CRM system of record to the user. With that said, we will be obtaining written agreement from the CRM team that fatal errors will be resolved once in their custody.**
 
 ## User experience
-* [ ] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
-  * If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram). That diagram will help us to help you and your team to create this user experience.
-  * 💬 **Please see tickets for [user data flow diagram](https://github.com/department-of-veterans-affairs/ask-va/issues/1492) and [UX messages](https://github.com/department-of-veterans-affairs/ask-va/issues/1495)**
+* [X] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
+  *  **Yes, Please see previous responses regarding the data flow diagram and reporting errors.**
 
 ## Next steps
 
