@@ -2,6 +2,12 @@
 
 This folder contains documentation related our design strategy.
 
+## Phases
+
+|Phase|Description|
+|Phase 1|During Phase 1, we migrated Ask VA from a standalone Microsoft portal to VA.gov.|
+|Phase 2|During Phase 2, we are implementing changes to Ask VA to further improve the experience for submitters and agents.|
+
 ## List of documents
 
 |Document|Description|
