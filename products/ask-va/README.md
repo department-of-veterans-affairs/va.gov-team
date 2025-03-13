@@ -32,7 +32,7 @@ It also includes these OKRs:
 |Time to submit form|unknown|x|
 |Form completion rate|[May to October (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|x|
 
-### Move frontend to VA.gov
+### Move frontend to VA.gov (Phase 1)
 - Dates: June 2023 to March 2025 
 - Launch date: March 24, 2025
 
