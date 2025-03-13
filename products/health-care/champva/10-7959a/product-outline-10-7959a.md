@@ -86,6 +86,8 @@ Other considerations:
 
 Incident Response info
 
+[Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=sliding&from_ts=1739300121041&to_ts=1741892121041&live=true)
+
 Rollback & Fix plan (1-3 days to triage and implement fix)
 
 In the event of a security vulnerability incident, we will:
@@ -98,6 +100,18 @@ Day 1 - Implement additional monitoring, if applicable
 Day 1-3 - Turn on feature using feature toggle (starting with a small percentage)
 Day 1-30 - Continue to monitor performance
 Day 1-10 - Proceed with Release Plan
+
+Points of Contact:
+
+ - DEPO Lead: Premal Shah
+ - PM: Mike Mooney
+ - DM: Andrea Merrill
+ - OCTO Engineering Lead: Adrian Rollet
+ - Engineering: Michael Clement, Kyle Brost, Rachel Eiting, Steve Long
+
+Downstream Dependencies
+- Pega/DOCMP
+  - Contact: Denise (Cindy) Carr
 
 ## Launch Dates
 - *Target Launch Date*
@@ -118,7 +132,9 @@ Key Deliverables:
 - [design](https://www.figma.com/file/Tfhq5h2LwXEeEEtFBAAFOv/10-7959a?type=design&node-id=13-80&mode=design&t=YuafvBbuKozoXYFY-0)
 - research
   - [Stakeholder Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/stakeholders/2024-06-stakeholder-research-plan-and-conversasion-guide.md)
+  - [Stakeholder Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/stakeholders/2024-06-CHAMPVA-Claims-(10-7959a)-Stakeholder-Research-Findings.md)
   - [User Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/user-research/2024-08-Research-Plan-for-Integrated-Veteran-Care-(IVC)-Team%2C-Form-10-7959a%2C-August-1st.md)
+  - [User Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/stakeholders/2024-06-CHAMPVA-Claims-(10-7959a)-Stakeholder-Research-Findings.md)
 - testing plan
 
 ### Key Decisions
