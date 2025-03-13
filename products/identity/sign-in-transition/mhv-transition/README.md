@@ -1,13 +1,69 @@
-# My HealtheVet: Sign in Transition
+# Initiative outline: MHV user ID and password sign-in transition
 
-Last updated: August 16, 2024
+**Last Updated: March 13, 2025 -- Finally created outline**
+     
+## Table of Contents
 
-After **January 31, 2025**, Veterans will no longer have the option to sign in to VA web or mobile properties -- Including VA.gov and the VA: Health and Benefits mobile app -- with their **My HealtheVet** user ID and password.
+- [POCs](#pocs)
+- [Overview](#overview)
+- [User Problem Statement](#user-problem-statement)
+- [Projects](#projects)
+- [Analytics](#analytics)
+- [Backend](#backend)
+- [Frontend](#frontend)
+- [Design and UX](#design-and-ux)
 
-The OCTO Identity Crew will facilitate and support this transition with a strategy that expands well beyond the VA.gov interface. It includes:
 
-* Veteran-facing communication campaign
-* Resources, education, and in-person support
-* Internal change management
-* Incremental UI and technology changes
-* [Data and analytics](./data/README.md)
+## POCs
+- **Slack channel**: [#vsp-identity](https://dsva.slack.com/channels/vsp-identity)
+
+## Overview
+
+In July 2024, VA publicly announced its decision to retire the My HealtheVet user ID and password and use of the DS Logon credential at VA. Instead, VA would only continue to support two modern, NIST-compliant credentials -- Login.gov and ID.me -- going forward.
+
+Between July 2024 and March 2025, VA engaged in an organization-wide campaign to migrate about 1M MHV users to Login.gov and ID.me. As of 3/6/2025, the MHV user ID and password option has been completely removed from VA web and mobile properties. 
+
+## User Problem Statement
+
+- As a Veteran, I need to be able to quickly and easily login to VA web properties to manage my health and benefits.
+- As a Veteran, I need to sign up for a Login.gov or ID.me account, having previously used the MHV or DSL credentials to login to VA web properties.
+
+## Business goals
+
+- Reduce the number of people using the My HealtheVet user ID and password to zero.
+- Improve security and reduce fraud risk by retiring the My HealtheVet user ID and password.
+- Simplify the VA sign-in experience by reducing supported credential service providers from four to two.
+
+
+## Analytics
+
+- [Datadog: Authentication stats](https://vagov.ddog-gov.com/dashboard/e3q-6kp-9r4/vagov-identity-stats-public?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1739303027604&to_ts=1741895027604&live=true)
+- [Domo: Sign-in transition dashboard](https://va-gov.domo.com/page/1862108618?userId=367226722)
+
+(Samara to add metrics)
+
+## Project history
+
+(Samara to complete)
+
+* **November/December 2023**: The determination was made to retire DS Logon and the MHV credential by the end of 2024.
+* **January 2024**: Significant comms planning; Preparation of initial press release (still awaiting approval; Jeanette joins the team
+* **March 2024**: We briefed the sign-in transition plan internally at VA. People support the retirement of the MHV credential across the board. However, Dep. Sec. Bradsher has asked us to brief the DS Logon transition at the ITEC and JEC meetings happening in May and June.
+* **May 2024**: 5/15 ITEC meeting
+* **June 2024**: JEC meeting; DS logon retirement date determined to be 9/30/2025 and MHV user ID and password retirement date cleared to be 1/31/2025.
+* **July 2024**: Formally kickoff transition effort; Press release went out to the public on July 17,2024
+* **August 2024**: Internal OCTO kickoff​; Tons of briefings across VA and with VSOs​; Sign-in transition content added to VA.gov​; Collateral created for veteran-facing staff​; UI updates work begins​; Defining data needs; Risk identification
+* **September 2024**: Comms to ~800K MHV users without modern credentials​; MHV sign in/registration page updates​; In-person sign up day pilots; finalizing protocol and guide for in person support days; Continuing all digital work and broader change management strategy
+* **October 2024**: Sign-in modal updates to downplay MHV and DSL options​; Account creation API​; Scale in-person sign-up days​; Video collateral for veterans and veteran-facing staff​; Email comms to no modern credential and Login.gov groups; Update reports to provide user data weekly instead of monthly
+
+## Backend
+
+(Link relevant backend docs)
+
+## Frontend
+
+(Link relevant frontend docs)
+
+## Design and UX
+
+(Link relevant design docs)
