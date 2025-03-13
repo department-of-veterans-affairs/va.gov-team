@@ -60,19 +60,19 @@ Appointments that Veterans have requested but VA has not booked.
 | Type of care                                               | VA Direct | VA Request | CC Request (1) | VA COVID Vaccine |
 | ---------------------------------------------------------- | --------- | ---------- | ---------- | ---------------- |
 | Amputation care                                            | ✅         | ✅          |            |                  |
-| Audiology and speech: Routine hearing exam (2)                 | ✅         | ✅          | ✅          |                  |
-| Audiology and speech: Hearing aid support (2)                  | ✅         | ✅          | ✅          |                  |
+| Audiology and speech: Routine hearing exam                 | ✅         | ✅          | ✅          |                  |
+| Audiology and speech: Hearing aid support                 | ✅         | ✅          | ✅          |                  |
 | COVID-19 vaccine                                           |           |            |            | ✅                |
-| Eye care: Optometry (2)                                        | ✅         | ✅          | ✅          |                  |
-| Eye care: Ophthalmology (2)                                    | ✅         | ✅          |            |                  |
+| Eye care: Optometry                                       | ✅         | ✅          | ✅          |                  |
+| Eye care: Ophthalmology                                   | ✅         | ✅          |            |                  |
 | Mental health                                              | ✅         | ✅          |            |                  |
 | MOVE! weight management program                            | ✅         | ✅          |            |                  |
 | Nutrition and food                                         | ✅         | ✅          | ✅          |                  |
 | Pharmacy                                                   | ✅         | ✅          |            |                  |
 | Podiatry                                                   |           |            | ✅          |                  |
 | Primary care                                               | ✅         | ✅          |          |                  |
-| Sleep medicine: Continuous Positive Airway Pressure (CPAP) (2) | ✅         | ✅          |            |                  |
-| Sleep medicine: Sleep medicine and home sleep testing (2)      | ✅         | ✅          |            |                  |
+| Sleep medicine: Continuous Positive Airway Pressure (CPAP) | ✅         | ✅          |            |                  |
+| Sleep medicine: Sleep medicine and home sleep testing     | ✅         | ✅          |            |                  |
 | Social work                                                | ✅         | ✅          |            |
 
 ## Determining if a user is eligible to schedule or request into a clinic
