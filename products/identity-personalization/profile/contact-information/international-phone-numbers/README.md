@@ -86,5 +86,5 @@ The VADS/DSC is working on creating components that support international Phone 
 </details> 
 
 ## Reference Links / Important Artifacts 
-- Designs 
 - [International Phone Numbers Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74562)
+- Designs 
