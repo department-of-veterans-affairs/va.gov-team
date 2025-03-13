@@ -15,7 +15,7 @@
 
 
 ## POCs
-- **Slack channel**: [#vsp-identity](https://dsva.slack.com/channels/vsp-identity)
+- **Slack channel**: [Sign-in transition channel](https://dsva.slack.com/channels/secure-sign-in-transition)
 
 ## Overview
 
