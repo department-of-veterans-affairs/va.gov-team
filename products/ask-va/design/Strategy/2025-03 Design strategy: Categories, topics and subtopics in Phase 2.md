@@ -16,9 +16,9 @@ We have an opportunity to improve the start of the form and reduce burden on sub
 
 ## Hypothesis
 
-In 2024, we started an initiative to build and train a natural language processing (NLP) model to accurately predict a category, topic and subtopic based on a question [[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)]. We hypothesized that by pre-filling these selections and letting a submitter review the predictions, we could improve the start of the form and reduce unnecessary burden.
+In 2024, Ask VA started an initiative to build and train a natural language processing (NLP) model to accurately predict a category, topic and subtopic based on a question [[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)]. We hypothesized that by pre-filling these selections and letting a submitter review the predictions, we could improve the start of the form and reduce unnecessary burden.
 
-We recently conducted user research to understand how an NLP model should surface predictions to submitters [[7]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Research%20plan.md))].
+More recently, we conducted user research to understand how an NLP model should surface predictions to submitters [[7]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Research%20plan.md))].
 
 Among other insights, we learned that:
 - Part of a secure support experience is knowing who you're contacting.
