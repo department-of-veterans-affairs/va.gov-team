@@ -110,7 +110,7 @@ Key Deliverables:
 ## Screenshots
 
 ### Before
-[PDF](https://www.va.gov/vaforms/medical/pdf/vha-10-7959a-fill.pdf)
+[PDF](https://www.va.gov/find-forms/about-form-10-7959a/)
 
 ### After
 
@@ -123,7 +123,7 @@ Key Deliverables:
 - Team Name: IVC Forms team
 - GitHub Label: ivc-forms
 - Slack channel: ivc-forms
-- Product POCs: Mary Wang
+- Product POCs: Mike Mooney
 - Stakeholders: Erick Maes
 
 </details>
@@ -133,9 +133,9 @@ Key Deliverables:
 <details>
  
  - DEPO Lead: Premal Shah
- - PM: Mary Wang
- - Engineering: Michael Clement
- - Research/Design: Rachael Penfil, Steven Straily, Brian Wilke
+ - PM: Mike Mooney
+ - Engineering: Michael Clement, Kyle Brost, Rachel Eiting, Steve Long
+ - Research/Design: Rachel Pope, Jamie Fiore
  
 </details>
 
