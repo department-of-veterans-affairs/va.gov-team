@@ -15,7 +15,7 @@
 
 
 ## POCs
-- **Slack channel**: [Sign-in transition channel](https://dsva.slack.com/channels/secure-sign-in-transition)
+- **Slack channel**: [Sign-in transition](https://dsva.slack.com/channels/secure-sign-in-transition)
 
 ## Overview
 
