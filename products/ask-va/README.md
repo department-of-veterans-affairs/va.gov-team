@@ -7,7 +7,7 @@ You can currently reach Ask VA at [ask.va.gov](https://ask.va.gov/). By end of M
 |Initiatives|Status|Launch date|
 |:---|:---|:---|
 |Prefill topic questions with NLP data model|In-progress|June 30, 2025|
-|Move frontend to VA.gov|In-progress|March 24, 2025|
+|[Move frontend to VA.gov (Phase 1)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/move-frontend%20Mar%202025/initiative-brief.md)|In-progress|March 24, 2025|
 
 ### Prefill topic questions with NLP data model
 - Dates: July 2024 to June 2025 
@@ -31,26 +31,6 @@ It also includes these OKRs:
 |Satisfaction|January 2025: 23%|x|
 |Time to submit form|unknown|x|
 |Form completion rate|[May to October (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|x|
-
-### Move frontend to VA.gov (Phase 1)
-- Dates: June 2023 to March 2025 
-- Launch date: March 24, 2025
-
-#### Objectives and key results (OKRs)
-This initiative aligns with the following 2025 OCTO OKRs: 
-- Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.  
-   - Key result 1 (Satisfaction): Improve satisfaction with our web and mobile products by 5 points.
-
-It also includes these OKRs: 
-- Objective: Users complete the form more easily
-   - Key result (Form completion rate): Increase the percentage of successfully sent questions by 5 points
-   - Key result (Accurate routing): Increase percentage of questions that are routed successfully by submitters to 95%
-
-|Key result|Baseline (ask.va.gov)|After X months|
-|:---|:---|:---|
-|Satisfaction|January 2025: 23%|x|
-|Form completion rate|[May to October (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|x|
-|Accurate routing|[2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Determining%20Ask%20VA%20queue%20from%20question%20text.md#submitter-problem-statement-misrouting-and-form-burden): 93%|x|
 
 ## Where to find us
 - DSVA Slack: [#ask-va-public](https://dsva.slack.com/archives/C05A2F6DEAE)
