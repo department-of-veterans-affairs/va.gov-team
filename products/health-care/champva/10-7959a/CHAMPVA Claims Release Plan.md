@@ -46,6 +46,7 @@ PM and PO will monitor analytics. If they see a spike in errors or unexpected be
 - Number of users: 7
 - Number of bugs identified / fixed: 0/0
   - https://github.com/department-of-veterans-affairs/va.gov-team/issues/98798
+  - All copy and UX changes
 - Was any downstream service affected by the change?: yes/no, no
 - Types of errors logged: [FILL_IN]
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
