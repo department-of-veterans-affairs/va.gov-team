@@ -44,17 +44,18 @@ Between July 2024 and March 2025, VA engaged in an organization-wide campaign to
 
 ## Project history
 
-(Samara to complete)
-
 * **November/December 2023**: The determination was made to retire DS Logon and the MHV credential by the end of 2024.
 * **January 2024**: Significant comms planning; Preparation of initial press release (still awaiting approval; Jeanette joins the team
 * **March 2024**: We briefed the sign-in transition plan internally at VA. People support the retirement of the MHV credential across the board. However, Dep. Sec. Bradsher has asked us to brief the DS Logon transition at the ITEC and JEC meetings happening in May and June.
-* **May 2024**: 5/15 ITEC meeting
+* **May 2024**: 5/15 ITEC meeting.
 * **June 2024**: JEC meeting; DS logon retirement date determined to be 9/30/2025 and MHV user ID and password retirement date cleared to be 1/31/2025.
 * **July 2024**: Formally kickoff transition effort; Press release went out to the public on July 17,2024
 * **August 2024**: Internal OCTO kickoff​; Tons of briefings across VA and with VSOs​; Sign-in transition content added to VA.gov​; Collateral created for veteran-facing staff​; UI updates work begins​; Defining data needs; Risk identification
 * **September 2024**: Comms to ~800K MHV users without modern credentials​; MHV sign in/registration page updates​; In-person sign up day pilots; finalizing protocol and guide for in person support days; Continuing all digital work and broader change management strategy
 * **October 2024**: Sign-in modal updates to downplay MHV and DSL options​; Account creation API​; Scale in-person sign-up days​; Video collateral for veterans and veteran-facing staff​; Email comms to no modern credential and Login.gov groups; Update reports to provide user data weekly instead of monthly
+- **December 2024**: Sign-in interstitial went live on VA.gov.
+- **January 2025**: Decision to extend deadline from original 1/31/25 deadline to 3/4/25.
+- **March 2025**: MHV user ID and password option was removed from VA.gov and MHV on 3/5/25; MHV user ID and password option removed from AccessVA on 3/6/25.
 
 ## Backend
 
