@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: February 20, 2024
+Last updated by @tygindraux: March 13, 2025
 
 This document is for our design team to communicate field rules. This list is alphabetical.
 
@@ -130,16 +130,15 @@ If education question, the roles list changes to:
 |Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of school` or `State of residency`|Topic = `Veteran Readiness and Employment (Chapter 31)`|
 |Category = `Education benefits and work study` and relationship to the Veteran = Business|Require `School facility` or `State of facility` depending on role*|Topic = `Veteran Readiness and Employment (Chapter 31)`|
 |Category = `Debt` and topic = `Education benefit overpayments (for school officials)`|Require `School facility`||
-|Category = `Debt` and topic ≠ `Education benefit overpayments (for school officials)`|Don't include any school fields||
+|Category = `Debt` and topic = `Education benefit overpayments (for students)`|Require `School state or residency state`||
+|Category = `Debt` and topic ≠ `Education benefit overpayments (for school officials)` or `Education benefit overpayments (for students)`|Don't include any school fields||
 |All other categories|Don't include any school fields||
 
-*For business inquiries, whether to require `School facility` or `State of facility` depends on which role the submitter chooses.
-
-If: Role = `On-the-job training or apprenticeship supervisor` or `School Certifying Official (SCO)`
-- Then: Require `School facility` (If they choose, 'facility not listed' then ask for 'State of school')
-
-If: Role = `VA employee` or `Work study site supervisor` or `Other`
-- Then: Require `State of facility`
+If Category =`Education benefits and work study` then we use the role to determine whether to require `School facility` or `State of facility`:
+- If: Role = `On-the-job training or apprenticeship supervisor` or `School Certifying Official (SCO)`
+  - Then: Require `School facility` (If they choose, 'facility not listed' then ask for 'State of school')
+- If: Role = `VA employee` or `Work study site supervisor` or `Other`
+  - Then: Require `State of facility`
 
 ## Social security number or Service number
 
