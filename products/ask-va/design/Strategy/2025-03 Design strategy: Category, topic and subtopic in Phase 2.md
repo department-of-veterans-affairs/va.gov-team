@@ -12,7 +12,7 @@ Despite making content changes so these labels are more consistent with content 
 
 In general, Ask VA includes more fields than other support experiences on VA.gov or other websites [[3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#insights), [4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20other%20support%20channels%20on%20VA.gov.md#insights)]. We hypothesize this contributes to a low completion rate, with currently only 30% of people who visit Ask VA (ask.va.gov) completing a support request [[5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md)]. And a satisfaction score that is lower than VA.gov's average [[5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md)].
 
-We have an opportunity to improve the start of the form and reduce burden on submitters.
+We have an opportunity to improve the start of the form and reduce burden on submitters in order to increase form completion and satisfaction.
 
 ### Hypothesis
 
