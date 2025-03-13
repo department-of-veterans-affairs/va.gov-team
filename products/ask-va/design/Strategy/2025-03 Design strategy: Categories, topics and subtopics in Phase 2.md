@@ -34,13 +34,7 @@ We propose that we use an NLP model to predict and surface category, topic and s
 
 This means, we may surface 1 option or multiple options to submitters, depending on how confident the model is that it picked the correct option(s) for the question.
 
-### Recommend a shorter list of categories, topics and subtopics based on a question
-
-Through research with Veterans and desk research, we've learned that:
-
-- Ask VA Determine the right moment(s) to offer helpful links based on information people share
-
-Veterans who are familiar with other VA services expect Ask VA to work similarly – and it may be unclear when to use Ask VA or another service.
+We hypothesize this will make it easier for submitters to make a selection (when given more than 1 option) because they will have a shorter list. By reducing the cognitive load required to read and choose from a long list, we can also add descriptions to the options in the lists.
 
 ## Next steps
 
