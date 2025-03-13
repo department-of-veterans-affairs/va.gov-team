@@ -16,7 +16,7 @@ We have an opportunity to improve the start of the form and reduce burden on sub
 
 ## Hypothesis
 
-In July 2024, we started an initiative to build and train a natural language processing (NLP) model that predicts a category, topic and subtopic based on a question [[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)]. 
+In July 2024, we started an initiative to build and train a natural language processing (NLP) model to predicts a category, topic and subtopic based on a question [[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)]. 
 
 We hypothesized that by pre-filling these selections and letting a submitter review the predictions, we could improve the start of the form and reduce unnecessary burden.
 
