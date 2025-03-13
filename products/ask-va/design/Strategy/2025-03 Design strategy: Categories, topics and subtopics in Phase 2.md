@@ -25,6 +25,7 @@ Among other insights, we learned that:
 - It's reasonable to suggest categories based on other similar questions that Veterans have asked in the past.
 - People prefer choosing from a list of narrow options, rather than the tool jumping to a conclusion right away.
 - While people are good at identifying if a suggestion is wrong, it's difficult to choose the correct category or topic from a list.
+- However, categories and topics often don't match what people expect or they require further description.
 
 These insights can shape our approach to leveraging an NLP model now and later.
 
@@ -34,10 +35,9 @@ We propose that we use an NLP model to predict and surface category, topic and s
 
 This means, we may surface 1 option (no selection) or multiple options (selection required) to submitters, depending on how confident the model is that it picked the correct option(s) for the question.
 
-When submitters are given more than 1 option, our research shows that a shorter list will make it easier for submitters. By reducing the cognitive load required to read and choose from a long list, we can also add descriptions to the options in the lists.
+Research shows that people want to make a selection and the context of multiple options helps them feel more confident in which is correct. However, we don't want to compromise on showing people options that the model is not confident in, just so they're able to make a choice themselves. We believe this approach achieves a balance of providing choice and making it easier to choose. 
 
-We talked about the tension between our recommendation (that people want to make a selection and context of multiple options helps), and not wanting to display more than 1 option if the model is only really confident in one and the scores drop way low after that. So, we think this is a good balance.
-
+When submitters are given more than 1 option to choose from, the list will be shorter which allows us to provide descriptions for each option. 
 
 ## Next steps
 
