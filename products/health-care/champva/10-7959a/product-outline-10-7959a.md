@@ -111,6 +111,7 @@ Key Deliverables:
 
 ### Before
 [PDF](https://www.va.gov/find-forms/about-form-10-7959a/)
+[Image](products/health-care/champva/10-7959a/temp_champva_claim.png)
 
 ### After
 
