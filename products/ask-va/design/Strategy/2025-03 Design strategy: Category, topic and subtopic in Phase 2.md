@@ -14,30 +14,19 @@ In general, Ask VA includes more fields than other support experiences on VA.gov
 
 We have an opportunity to improve the start of the form and reduce burden on submitters in order to increase form completion and satisfaction.
 
-### Hypothesis
+## Hypothesis
 
 In July 2024, we started an initiative to build a natural language processing (NLP) model that predicts a category, topic and subtopic based on a question [[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)]. 
 
-We hypothesized that by pre-filling these selections and letting a submitter review the predictions, we could reduce unnecessary burden. We expect this will improve satisfaction and reduct friction.y.
+We hypothesized that by pre-filling these selections and letting a submitter review the predictions, we could improve the start of the form and reduce unnecessary burden.
 
----
+### Testing our hypothesis
 
-Submitters have to answer many questions in the Ask VA form than the typical contact form. There's opportunity to use an AI/NLP data model to accurate predict queue given question text and other variables that determine queue routing.
-
-As a first step to test, if the model is successful, we could present predicted Category, Topic, and Subtopic answers to the submitter. The submitter can then simply review the prefilled information rather than answer these questions. Answers to these questions currently determine routing of the inquiry.
-
-Originally, we thought this could also improve resolution time. After conducting an analysis on queue and resolution time, we determined that an AI model that returns an Ask VA queue given question text would likely only minimally impacts resolution time.
-
-## NLP Data Model
+To test our hypothesis and better understand how an NLP model should surface predictions to submitters, we conducted user research in February 2025.
 
 
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md#problem-statement
 
-Only 1/3 of Veterans, family members, and other people with questions for VA who visit the current Ask VA landing page (ask.va.gov) end up completing the support request. Ask VA's CSAT score is at 23%, compared to VA.gov's 29% CSAT score. User research has identified form burden as a barrier for Veterans to receiving answers to their inquiries. To expediently get Veterans the healthcare & benefits answers they deserve, VA is simplifying the process.
-
-Solution: We'll reduce unnecessary Veteran inputs by auto-classifying the categories, topics, and subtopics needed to route Veteran inquiries to the right place. This is expected to improve satisfaction and reduce friction in the direct healthcare and benefits process.
-
-## Insights
+## Recommendation
 
 Through research with Veterans and desk research, we've learned that:
 
