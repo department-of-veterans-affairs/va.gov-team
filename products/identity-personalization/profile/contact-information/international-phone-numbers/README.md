@@ -30,10 +30,14 @@ Which OCTO, Portfolio, Pod/Crew/Team OKRs does this initiative map to?
 - VA Profile
 - VADS
 - MHV
+
+## Definition of Done
+We will need to change the Contact Info page to support international phone numbers and the Notification Settings page should also react and lock down text notifications (international phone numbers are not supported for notifications)
  
 ### Form Behavior Needed
 - For phone numbers with a country code of +1, that includes the +1 country code, a 3-digit area code and a 7-digit phone number.
 - For phone numbers with a country code other than +1, there is a county code from 1-3 digits and a phone number up to 12 digits.
+
 
 ### Pre-work:
 To support international phone numbers VA.gov would need:
