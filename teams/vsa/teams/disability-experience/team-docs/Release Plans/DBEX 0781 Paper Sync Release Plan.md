@@ -1,8 +1,8 @@
-# Release Plan: 0781 Paper Sync  
+# Release Plan: 0781 Paper Sync - MVP 
 
 
 ## Purpose
-The purpose of this release plan is to document and align the delivery teams and stakeholders on what will be delivered and when. 
+The purpose of this release plan is to document and align the delivery teams and stakeholders on what will be delivered and when. This release plan is specifically for the 0781 Paper Sync MVP (first release). It is not intended to include the next generation of enhancements to the 0781 product (i.e., supporting documents, in progress forms, etc). 
 
 ## Feature description
 
