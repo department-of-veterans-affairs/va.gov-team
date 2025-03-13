@@ -33,7 +33,10 @@ These insights can shape our approach to leveraging an NLP model now and later.
 
 We propose that we use an NLP model to predict and surface category, topic and subtopic options that are over a certain confidence score. We will determine which level of confidence is significant enough, and then anything that falls above this threshold will be surfaced to a submitter, whereas anything below will be hidden.
 
-This means, we may surface 1 option (no selection) or multiple options (selection required) to submitters, depending on how confident the model is that it picked the correct option(s) for the question. When submitters are given more than 1 option to choose from, the list will be shorter which allows us to provide descriptions for each option. 
+This means, we may surface 1 option (no selection) or multiple options (selection required) to submitters, depending on how confident the model is that it picked the correct option(s) for the question. We also plan to:
+- Add descriptions to categories, topics and subtopics
+- Add an alert that lets people know that our prediction is based on similar questions other Veterans have asked in the past
+- Consider adding an additional information component that lets people know what a category, topic and subtopic determine
 
 Research shows that people want to make a selection and the context of multiple options helps them feel more confident in the correct one. That being said, we also don't want to show people options that the model is not confident in. This approach aims to achieve a balance of providing choice, making it easier to choose and making the decision for you when we're very confident.
 
@@ -43,16 +46,10 @@ These steps focus on design work. We may add to or amend these next steps as we 
 
 |Task|Ticket|
 |:--|:--|
-|Move question to the start of the form and consider any implications||
-|Design updated category, topic and subtopic pages that recommend 1 or more option||
-|Update confirmation page to confirm receiving team based on routing queue||
-|Design and place alert that lets people know that a suggestion is based on other similar questions||
-
-- Include descriptions on category, topic and subtopic radio buttons
-- Include additional information component that lets people know what a category, topic and subtopic determine
-
-|`Links`|Determine the right moment(s) to offer helpful links||
-|`Links`|Design page or component to offer helpful links or continue with form||
+|Move question to the start of the form and consider any implications|[#1667](https://github.com/department-of-veterans-affairs/ask-va/issues/1667)|
+|Design updated category, topic and subtopic pages that predicts 1 or more option|[#1665](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=sprint%3A%22Sprint+47%22+label%3Adesign&pane=issue&itemId=2911941048&issue=department-of-veterans-affairs%7Cask-va%7C1665)|
+|Update confirmation page to confirm which team will receive a question based on routing queue|[#1668](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=sprint%3A%22Sprint+47%22+label%3Adesign&pane=issue&itemId=2918508967&issue=department-of-veterans-affairs%7Cask-va%7C1668)|
+|Create prototype(s) to describe proposed category, topic and subtopic approach|[#1669](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=sprint%3A%22Sprint+47%22+label%3Adesign&pane=issue&itemId=2918509991&issue=department-of-veterans-affairs%7Cask-va%7C1669)|
 
 ## References
 
