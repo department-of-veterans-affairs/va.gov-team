@@ -10,13 +10,13 @@ Ask VA currently requires submitters to choose a category, topic and subtopic [[
 
 Despite making content changes so these labels are more consistent with content on VA.gov, we still find that choosing a category, topic and subtopic is not easy for submitters. We know that people find it easier to choose from shorter lists [[2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form/Findings.md#finding-3-people-seek-a-specific-category-and-topic-and-they-would-find-it-easier-to-choose-from-shorter-lists)]. We also know that similar contact experiences on other websites only ask for a category and sometimes a topic, or neither [[3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#ask-va-is-type-1)].
 
-Quantitatively, currently only 30% of people who visit Ask VA (ask.va.gov) will complete a support request. And the satisfaction score for ask.va.gov is 23%, compared to VA.gov's 29% CSAT score. [[4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md)].
+Overall, Ask VA includes more forms that other support experiences on VA.gov and other websites [3, 4]. Quantitatively, currently only 30% of people who visit Ask VA (ask.va.gov) will complete a support request. And the satisfaction score for ask.va.gov is 23%, compared to VA.gov's 29% CSAT score. [[5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md)].
 
 We have an opportunity to improve the start of the form and reduce burden on submitters.
 
 ### Hypothesis
 
-In July 2024, we started an initiative to build a natural language processing (NLP) model that predicts a category, topic and subtopic based on a question [[5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)]. 
+In July 2024, we started an initiative to build a natural language processing (NLP) model that predicts a category, topic and subtopic based on a question [[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)]. 
 
 We hypothesized that by pre-filling these selections and letting a submitter review the predictions, we could reduce unnecessary burden. We expect this will improve satisfaction and reduct friction.y.
 
@@ -71,6 +71,7 @@ These steps focus on design work. We may add to or amend these next steps as we 
 
 - [1] [Category, topic and subtopic labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Category%2C%20topic%20and%20subtopic%20labels.md)
 - [2] [Findings from user research in August 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form/Findings.md#finding-3-people-seek-a-specific-category-and-topic-and-they-would-find-it-easier-to-choose-from-shorter-lists)
-- [3] [Compare Ask VA to contact experiences on other websites](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#ask-va-is-type-1)
-- [4] [Ask VA KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md) 
-- [5] [Prefill topic questions with NLP data model initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)
+- [3] [Compare Ask VA to contact experiences on other websites](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#insights)
+- [4] [Compare Ask VA to other support channels on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20other%20support%20channels%20on%20VA.gov.md#insights)
+- [5] [Ask VA KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md) 
+- [6] [Prefill topic questions with NLP data model initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)
