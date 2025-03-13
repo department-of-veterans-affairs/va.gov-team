@@ -246,8 +246,13 @@ People also try to sway the tool away from an incorrect suggestion. Editing thei
 
 ## Next steps
 
-- Develop a [design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/2025-03%20Design%20strategy:%20Categories,%20topics%20and%20subtopics%20in%20Phase%202.md) to recommend a shorter list of category, topic and subtopic options based on a question.
-- Develop a design strategy to offer helpful information in the form. And determine a technical approach.
+1. Recommend a shorter list of category, topic and subtopic options based on a question.
+- [x] Develop a [design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/2025-03%20Design%20strategy:%20Categories,%20topics%20and%20subtopics%20in%20Phase%202.md) to recommend a shorter list of category, topic and subtopic options based on a question.
+- [ ] Determine a technical approach to surfacing category, topic and subtopic options above a certain confidence threshold.
+
+2. Offer helpful links in the form based on information people share.
+- [x] Develop a design strategy to offer helpful information in the form.
+- [ ] Determine a technical approach to offering helpful information in the form.
 
 ## Further research needed
 
