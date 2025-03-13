@@ -11,9 +11,9 @@ As part of the Pension and Burial Benefits team taking on the work of updating t
 ## Sources
 
 **Survivor Mailer (*)**  
+**[Link](https://app.enjoyhq.com/sh/doc/eb569d27-cd5f-40d4-b1b1-58fd75cd6d86)**  
 **Date:** Unknown  
 **Conducted by:** Unknown  
-**Link:** https://app.enjoyhq.com/sh/doc/eb569d27-cd5f-40d4-b1b1-58fd75cd6d86  
 **Summary:** A letter sent to the families of Veterans while the Veteran is still alive, informing them about available benefits and encouraging them to begin preparing in advance.  
 **Relevant Findings:**  
 - VA reaches out to Veterans and their families before the Veterans passes:  
@@ -21,83 +21,87 @@ As part of the Pension and Burial Benefits team taking on the work of updating t
   - “Discussing final wishes and preparing for your benefits as a survivor may help with financial stability and ease decision making.”
   <br>
   <br>
-**Office of Survivors Assistance Design Project: Survivors Experience- Overview (*)**
+**Office of Survivors Assistance Design Project: Survivors Experience- Overview (*)**  <br>
+**[Link](https://app.enjoyhq.com/sh/doc/761f7b22-6c81-47fb-9ecd-4046252e80b2)**  
 **Date:** Unknown  
 **Conducted by:** Veteran Experience Office (VEO) and the Office of Survivors Assistance (OSA)  
-**Link:** https://app.enjoyhq.com/sh/doc/761f7b22-6c81-47fb-9ecd-4046252e80b2  
 **Summary:** The Veterans Experience Office (VEO), in collaboration with the Office of Survivors Assistance (OSA), leveraged Human Centered Design (HCD) to explore the experiences of Survivors who have lost a Veteran loved one, and of Veteran families preparing for potential future loss.  
 **Relevant Findings:**  
 Prototypes and user testing for 100% Service Connected Mailer and Quick Eligibility Assessment, does not seem directly relevant
 <br>
 <br>
 **Burial VSOs Research Findings**  
+**[Link to Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/research/2024-09-VSO-Research/research-findings.md)**  
+**[Link to Documents received from VSOs during research](https://dvagov.sharepoint.com/:f:/s/vaabdvro/EnFhapzSd7BCjAnxnNE_BMUBZuC4_FcNBaWQ25YozTxkLA?email=Megan.Graham3%40VA.GOV&e=3M6ajb)**  
+**[Link to Readout Recording](https://dvagov-my.sharepoint.com/:v:/r/personal/anh_platt_va_gov/Documents/Recordings/VSO%20Research%20Study%20Sync-20241203_083533-Meeting%20Recording.mp4?csf=1&web=1&e=C8nWqs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**  
 **Date:** December 2024  
 **Conducted by:** Fiorella Geedi and Non-disability Benefits team  
-**Link to Findings:** https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/research/2024-09-VSO-Research/research-findings.md, https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/research/2024-09-VSO-Research/Burial_VSO_Research%20Findings-Knowledge_Transfer.pdf  
-**Link to Documents received from VSOs during research:** https://dvagov.sharepoint.com/:f:/s/vaabdvro/EnFhapzSd7BCjAnxnNE_BMUBZuC4_FcNBaWQ25YozTxkLA?email=Megan.Graham3%40VA.GOV&e=3M6ajb  
-**Link to Recording:** https://dvagov-my.sharepoint.com/:v:/r/personal/anh_platt_va_gov/Documents/Recordings/VSO%20Research%20Study%20Sync-20241203_083533-Meeting%20Recording.mp4?csf=1&web=1&e=C8nWqs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
 **Summary:** “VA Form 21P-530 (Application for Burial Benefits) enables eligible individuals to apply for compensation to help cover burial, plot, and transportation costs. We know this form is “often the first time a Veteranʼs family interacts directly with VA is during a high-emotional time of a Veteranʼs Death. Our team aimed to better understand the claimantsʼ mental models regarding the Burial Benefits form, primarily through the insights of Veterans Service Officers (VSOs), County Veterans Service Officers (CVSOs), and National Service Officers (NSOs). We aimed to identify which sections of the form need clarification and what factors create obstacles, such as drop-offs and delays in the application process.”  
 **Relevant Findings:**  
 Findings   
-  1. The typical claimants are spouses and children of the deceased Veteran. VSOs rarely work with extended family, friends, caregivers, funeral homes, state cemeteries and executors.  
-  2. Claimants face emotional challenges, including grief and the stress of navigating bureaucratic processes during a time of loss  
-  3. VSOs support Veterans' end-of-life journey by preparing them and their families for burial benefits.  
-  4. VSOs have indicated that application process delays are common, primarily due to the need for supporting documents. These delays can range from 7 days to 90 days and, in rare instances, may extend up to a year.  
-  5. VSOs help obtain supporting evidence during the Burial Benefits application process and reduce delays.  
-  6. Many claimants mistakenly believe Burial Benefits will fully cover funeral expenses, unaware it is a reimbursement for specific costs, not a full payment for services  
-  7. Claimants find some of the terminology used in the form confusing and hard to understand.  
-  8. VSOs offer DIC benefits to surviving spouses and suggest streamlining the process for service-connected Veterans. Requires additional validation.  
-Secondary Findings  
-  1. Some VSOs advise claimants on what to include in their death certificate to max out benefits from VA.  
-  2. VSOs provide support to claimants with language barriers  
-  3. VSOs suggested improvements to the Burial Benefits form, including adding bank information fields for direct reimbursements.  
-  4. VSOs suggest a 30-60-day timeframe to receive the Burial Benefits  
-  5. VSOs suggested improvements to the award letter and the paper form and other additional suggestions.  
-  6. Some claimants are unaware of VA and Burial Benefits, resulting in some missing out on years of benefits they are entitled to.  
-  7. VSO recommendations: contacting claimants, mailing information packets after a Veteran's passing, automatically sending families their presidential letter, and granting VSOs access to VA.gov.  
-  8. VSO tools: Vetraspec, Vetspro, Tyler Veteranʼs Benefits, Quick submit, and VA.gov  
-Further Research Needed  
-  1. Claimants might incur additional fees to obtain supporting documentation.  
-  2. Some claimants might face name change challenges.  
-  3. Some VSOs mentioned that some claimants can face challenges if the Veteran never taps into VA benefits.  
-  4. Some VSOs mentioned funeral homes are proactive in helping claimants complete the Burial benefits form. In contrast, others could take advantage of claimants unfamiliar with it.  
-  5. Claimants might get confused about tribal contributions about related to Q19A, and others might have issues with supplemental claims.  
-Recommendations  
-  1. HMW put less burden to claimants during the Burial Benefits application process  
-  2. Consider automating and auto-populating as much information we can about the deceased Veteran  
-  3. Ensure that we are preparing Veterans and their families for the death of the Veteran  
-  4. HMW leverage ways VSOs prepare Veteranʼs and their families into our digital space?  
-  5. HMW reach out to claimants after the death of a Veteran?  
-  6. Clearly outline the expected time frames for obtaining supporting documents.  
-  7. Review the checklist one of the VSO participants shared that's used to ensure claimants know what supporting documents. HMW provide this service digitally?  
-  8. Identify if the claimant or the deceased Veteran is already receiving VA benefits. We might not need military information for these claimants since the VA has already verified their military history.  
-  9. Ensure claimants have included all the necessary information and supporting documents before they submit the form.  
-  10. Set the expectation that the VA will not cover all expenses but only a small portion.  
-  11. Incorporate additional information about how much reimbursement a claimant can get when they apply for Burial Benefits.  
-  12. Include the maximum and minimum amounts someone might get depending on their eligibility in the paper form.  
-  13. Change “allowance” to “reimbursement” so claimants understand that receipts are needed to claim Burial Benefits and further explain that the person incurring the expenses should be the person claiming the benefit.  
-  14. Explain each type of allowance, specifically transportation allowances, and various scenarios where transportation expenses could be reimbursed  
-  15. Consider using plain language throughout the form.  
-  16. Provide more explanations regarding these terms online and on the paper form: service-connected, not service-connected, file number, and place of interment.  
-  17. Research the connection between DIC and Burial Benefits. Thereʼs an opportunity to bring awareness to the DIC in the Burial Benefits paper form and online form and vice versa. Thereʼs also an opportunity to streamline the process, where we can guide a surviving spouse to apply for DIC first if the Veteran passes away from service-connected implications  
-Next Steps  
-  Pension Burial team can share this deck and report with their VBA partners  
-  Incorporate findings into the following Burial Benefits enhancement  
-  To verify the findings in this research, additional research should be conducted involving spouses, children, extended family, friends, caregivers, funeral homes, state cemeteries, and executors, while ensuring an emotionally sensitive approach to carry out this research.  
-  Research the connection between DIC and Burial Benefits. Thereʼs an opportunity to bring awareness to the DIC in the Burial Benefits paper form and online form and vice versa. Thereʼs also an opportunity to streamline the process, where we can guide a surviving spouse to apply for DIC first if the Veteran passes away from service-connected implications. Include bank information on the paper and online forms so claimants can get reimbursement faster.   
-  Consider using plain language throughout the form.  
-  Explain each type of allowance, specifically transportation allowances, and various scenarios where transportation expenses could be reimbursed.  
-  Provide more explanations regarding these terms online and on the paper form: service-connected, not service-connected, file number, and place of interment.  
-  Clearly outline the expected time frames for obtaining supporting documents and receiving Burial Benefits reimbursement.  
-  Include the maximum and minimum amounts someone might get depending on their eligibility in the paper form.  
-
-
-**Human-Centered Design Findings and Opportunities: Revisiting the Survivor Experience (*)**
-**Date:** February 2024
-**Conducted by:** Veterans Experience Office, in partnership with VBA’s Office of Survivors Assistance
-**Link to Deck:** https://dsva.slack.com/archives/C0NGDDXME/p1709842384580389?thread_ts=1709560815.734969&cid=C0NGDDXME
-**Link to Recording:** https://dvagov-my.sharepoint.com/:v:/r/personal/ariana_adili_va_gov/Documents/Recordings/Veteran%20Digital%20User%20Experience%20Weekly%20Design%20Sync-20240304_191529-Meeting%20Recording.mp4?csf=1&web=1&e=iWNGsf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-**Summary:** “The Veterans Experience Office (VEO) and the Office of Survivors Assistance (OSA) collaborated to understand Survivor experiences with accessing VA benefits and services. Starting in FY 2019, OSA partnered with VEO to explore Survivors' interactions with the VA, leading to prototype solutions in FY20 to enhance Survivor experiences. In October 2023, OSA reengaged with VEO to expand upon the 2019 Survivor research, update journey maps, and develop a survey instrument to measure Survivor sentiment and trust in VA benefits and services. . . . A qualitative study was conducted with Survivors and subject matter experts (SMEs), utilizing one-to-one interviews and document analysis. Data was analyzed thematically to uncover insights and inform the development of strategies for enhancing the Survivor experience.”
+  - The typical claimants are spouses and children of the deceased Veteran. VSOs rarely work with extended family, friends, caregivers, funeral homes, state cemeteries and executors.  
+  - Claimants face emotional challenges, including grief and the stress of navigating bureaucratic processes during a time of loss  
+  - VSOs support Veterans' end-of-life journey by preparing them and their families for burial benefits.  
+  - VSOs have indicated that application process delays are common, primarily due to the need for supporting documents. These delays can range from 7 days to 90 days and, in rare instances, may extend up to a year.  
+  - VSOs help obtain supporting evidence during the Burial Benefits application process and reduce delays.  
+  - Many claimants mistakenly believe Burial Benefits will fully cover funeral expenses, unaware it is a reimbursement for specific costs, not a full payment for services.  
+  - Claimants find some of the terminology used in the form confusing and hard to understand.  
+  - VSOs offer DIC benefits to surviving spouses and suggest streamlining the process for service-connected Veterans. Requires additional validation.
+<br>
+Secondary Findings  <br>
+  - Some VSOs advise claimants on what to include in their death certificate to max out benefits from VA.  <br>
+  - VSOs provide support to claimants with language barriers.  <br>
+  - VSOs suggested improvements to the Burial Benefits form, including adding bank information fields for direct reimbursements.  <br>
+  - VSOs suggest a 30-60-day timeframe to receive the Burial Benefits.  <br>
+  - VSOs suggested improvements to the award letter and the paper form and other additional suggestions.  <br>
+  - Some claimants are unaware of VA and Burial Benefits, resulting in some missing out on years of benefits they are entitled to.  <br>
+  - VSO recommendations: contacting claimants, mailing information packets after a Veteran's passing, automatically sending families their presidential letter, and granting VSOs access to VA.gov.  <br>
+  - VSO tools: Vetraspec, Vetspro, Tyler Veteranʼs Benefits, Quick submit, and VA.gov.  <br>
+<br>
+Further Research Needed<br>  
+  - Claimants might incur additional fees to obtain supporting documentation.  <br>
+  - Some claimants might face name change challenges.  <br>
+  - Some VSOs mentioned that some claimants can face challenges if the Veteran never taps into VA benefits.  <br>
+  - Some VSOs mentioned funeral homes are proactive in helping claimants complete the Burial benefits form. In contrast, others could take advantage of claimants unfamiliar with it.  <br>
+  - Claimants might get confused about tribal contributions about related to Q19A, and others might have issues with supplemental claims.  <br>
+<br>
+Recommendations  <br>
+  - HMW put less burden to claimants during the Burial Benefits application process  <br>
+  - Consider automating and auto-populating as much information we can about the deceased Veteran  <br>
+  - Ensure that we are preparing Veterans and their families for the death of the Veteran  <br>
+  - HMW leverage ways VSOs prepare Veteranʼs and their families into our digital space?  <br>
+  - HMW reach out to claimants after the death of a Veteran?  <br>
+  - Clearly outline the expected time frames for obtaining supporting documents.  <br>
+  - Review the checklist one of the VSO participants shared that's used to ensure claimants know what supporting documents. HMW provide this service digitally?  <br>
+  - Identify if the claimant or the deceased Veteran is already receiving VA benefits. We might not need military information for these claimants since the VA has already verified their military history.  <br>
+  - Ensure claimants have included all the necessary information and supporting documents before they submit the form.  <br>
+  - Set the expectation that the VA will not cover all expenses but only a small portion.  <br>
+  - Incorporate additional information about how much reimbursement a claimant can get when they apply for Burial Benefits.  <br>
+  - Include the maximum and minimum amounts someone might get depending on their eligibility in the paper form.  <br>
+  - Change “allowance” to “reimbursement” so claimants understand that receipts are needed to claim Burial Benefits and further explain that the person incurring the expenses should be the person claiming the benefit.  <br>
+  - Explain each type of allowance, specifically transportation allowances, and various scenarios where transportation expenses could be reimbursed  <br>
+  - Consider using plain language throughout the form.  <br>
+  - Provide more explanations regarding these terms online and on the paper form: service-connected, not service-connected, file number, and place of interment.  <br>
+  - Research the connection between DIC and Burial Benefits. Thereʼs an opportunity to bring awareness to the DIC in the Burial Benefits paper form and online form and vice versa. Thereʼs also an opportunity to streamline the process, where we can guide a surviving spouse to apply for DIC first if the Veteran passes away from service-connected implications  <br>
+<br>
+Next Steps  <br>
+  - Pension Burial team can share this deck and report with their VBA partners  <br>
+  - Incorporate findings into the following Burial Benefits enhancement  <br>
+  - To verify the findings in this research, additional research should be conducted involving spouses, children, extended family, friends, caregivers, funeral homes, state cemeteries, and executors, while ensuring an emotionally sensitive approach to carry out this research.  <br>
+  - Research the connection between DIC and Burial Benefits. Thereʼs an opportunity to bring awareness to the DIC in the Burial Benefits paper form and online form and vice versa. Thereʼs also an opportunity to streamline the process, where we can guide a surviving spouse to apply for DIC first if the Veteran passes away from service-connected implications. Include bank information on the paper and online forms so claimants can get reimbursement faster.   <br>
+  - Consider using plain language throughout the form.  <br>
+  - Explain each type of allowance, specifically transportation allowances, and various scenarios where transportation expenses could be reimbursed.  <br>
+  - Provide more explanations regarding these terms online and on the paper form: service-connected, not service-connected, file number, and place of interment.  <br>
+  - Clearly outline the expected time frames for obtaining supporting documents and receiving Burial Benefits reimbursement.  <br>
+  - Include the maximum and minimum amounts someone might get depending on their eligibility in the paper form.  <br>
+<br>
+<br>
+**Human-Centered Design Findings and Opportunities: Revisiting the Survivor Experience(*)**  <br>
+**Date:** February 2024  <br>
+**Conducted by:** Veterans Experience Office, in partnership with VBA’s Office of Survivors Assistance  <br>
+**[Link to Deck](https://dsva.slack.com/archives/C0NGDDXME/p1709842384580389?thread_ts=1709560815.734969&cid=C0NGDDXME)**  <br>
+**[Link to Readout Recording](https://dvagov-my.sharepoint.com/:v:/r/personal/ariana_adili_va_gov/Documents/Recordings/Veteran%20Digital%20User%20Experience%20Weekly%20Design%20Sync-20240304_191529-Meeting%20Recording.mp4?csf=1&web=1&e=iWNGsf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+**Summary:** “The Veterans Experience Office (VEO) and the Office of Survivors Assistance (OSA) collaborated to understand Survivor experiences with accessing VA benefits and services. Starting in FY 2019, OSA partnered with VEO to explore Survivors' interactions with the VA, leading to prototype solutions in FY20 to enhance Survivor experiences. In October 2023, OSA reengaged with VEO to expand upon the 2019 Survivor research, update journey maps, and develop a survey instrument to measure Survivor sentiment and trust in VA benefits and services. . . . A qualitative study was conducted with Survivors and subject matter experts (SMEs), utilizing one-to-one interviews and document analysis. Data was analyzed thematically to uncover insights and inform the development of strategies for enhancing the Survivor experience.”  <br>
 **Relevant Findings:** 
   **Acknowledging and Honoring the Contributions of Survivors**
   Survivors want to be recognized and acknowledged for the critical role they played supporting their Veteran and want to be honored and respected for their sacrifices in support of their loved one.
