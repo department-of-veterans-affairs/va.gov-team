@@ -30,7 +30,7 @@ These insights can shape our approach to leveraging an NLP model now and later.
 
 ## Proposed approach
 
-We propose that we use an NLP model to predict category, topic and subtopic options that are over a certain confidence score. We will determine which level of confidence is significant enough, and then anything that falls above this threshold will be surfaced to a submitter, whereas anything below will be hidden.
+We propose that we use an NLP model to predict and surface category, topic and subtopic options that are over a certain confidence score. We will determine which level of confidence is significant enough, and then anything that falls above this threshold will be surfaced to a submitter, whereas anything below will be hidden.
 
 This means, we may surface 1 option or multiple options to submitters, depending on how confident the model is that it picked the correct option(s) for the question.
 
