@@ -7,7 +7,7 @@
 - [POCs](#pocs)
 - [Overview](#overview)
 - [User Problem Statement](#user-problem-statement)
-- [Project-history](#project-history)
+- [Project history](#project-history)
 - [Analytics](#analytics)
 - [Backend](#backend)
 - [Frontend](#frontend)
