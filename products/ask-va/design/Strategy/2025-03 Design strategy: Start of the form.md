@@ -10,7 +10,7 @@ Ask VA currently requires submitters to choose a category, topic and subtopic [[
 
 Despite making content changes so these labels are more consistent with content on VA.gov, we still find that choosing a category, topic and subtopic is not easy for submitters. We know that people find it easier to choose from shorter lists [[2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form/Findings.md#finding-3-people-seek-a-specific-category-and-topic-and-they-would-find-it-easier-to-choose-from-shorter-lists)]. We also know that similar contact experiences on other websites only ask for a category and sometimes a topic, or neither [[3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#ask-va-is-type-1)].
 
-Quantitatively, we know that currently only 30% of people who visit Ask VA (ask.va.gov) will complete a support request. And the satisfaction score for ask.va.gov is 23%, compared to VA.gov's 29% CSAT score. [[4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md)].
+Quantitatively, currently only 30% of people who visit Ask VA (ask.va.gov) will complete a support request. And the satisfaction score for ask.va.gov is 23%, compared to VA.gov's 29% CSAT score. [[4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md)].
 
 There's an opportunity to improve a critical 
 
