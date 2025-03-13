@@ -1,15 +1,18 @@
 # Product outline for Ask VA
-Last updated by @beckyphung on March 11, 2025
+Last updated by @beckyphung on March 13, 2025
+This product outline gives an overview of the Ask VA product. Below are our current initiatives:
+
+|Initiatives|Status|Launch date|
+|:---|:---|:---|
+|[Prefill topic questions with NLP data model](link)|In-progress|June 30, 2025|
+|[Move frontend to VA.gov](link)|In-progress|March 24, 2025|
 
 **Jump to:**
 - [Overview](#overview)
 - [Problem statement](#problem-statement)
 - [Outcomes](#outcomes)
 - [Measuring success](#measuring-success)
-- [Solution approach](#solution-approach)
-- [Launch atrategy](#launch-strategy)
-- [Examples of design epdatess](#examples-of-design-updates)
-- [Team and stakeholders](#team-and-stakeholders)
+- [Team and VA partners](#team-and-va-partners)
 
 ## Overview
 Ask VA (AVA) is a digital support channel for Veterans, family members and other submitters. You can use Ask VA to ask a question about education benefits, disability compensation, health care and many other topics. Ask VA should only be used for non-urgent needs.
@@ -17,176 +20,86 @@ Ask VA (AVA) is a digital support channel for Veterans, family members and other
 You can currently reach Ask VA at [ask.va.gov](https://ask.va.gov/). By end of March 2025, you'll be able to reach Ask VA on VA.gov at [va.gov/contact-us/ask-va](https://va.gov/contact-us/ask-va).
 
 ## Problem statement
-**Background**: Veterans and family members can ask a variety of questions to VA because VA offers many different types of benefits. There are multiple VA staff teams who can answer only one or a few types of questions. It can be more convenient and accessible to contact VA online rather than traditional support channels, like phone calls or going in-person to a VA facility. 
+**Background**: Veterans and family members can ask a variety of questions to VA because VA offers many different types of benefits. There are different VA staff teams, each specialized in answering specific types of questions. Reaching out to VA online can be more convenient and accessible than calling or visiting a VA facility in person.
 
-**Ask VA's solution**: Ask VA is frontend application where Veterans, family members, and other submitters can get answers to any VA question without having to understand the internal VA bureaucracy. The frontend integrates with a backend customer relationship management (CRM) application that routes questions to the correct VA team. Multiple VA teams can access the CRM.
+**Ask VA's solution**: Ask VA is frontend application (contact form and inbox) where Veterans, family members, and other submitters can get answers to any VA question. Users don't need to understand VA's internal bureaucracy to ensure they get a correct answer to their question. The frontend integrates with a backend customer relationship management (CRM) application that routes questions to the appropriate VA team. Multiple VA teams can access and use the CRM.
 
 ## Outcomes
-We expect Veterans and other submitters to meet these outcomes after we launch Phase 1: 
+- **User experience outcomes**: Ensure users have an easy and accessible interaction with Ask VA.
+- **Functional outcomes**: Ensure the system operates correctly and efficiently with Ask VA.
+- **Business outcomes**: Ensures increased efficiency for VA customer support. 
+
+### User experience outcomes
+|Outcome|Description|
+|:---|:---|
+|Easy to find|Users can easily locate the Ask VA contact form and inbox on VA.gov to quickly get in touch and check responses.|
+|Quick to complete|The contact form is short, simple, and prefilled with known information for authenticated users, making it quick and easy to fill out.|
+|Clear instructions and information|Users receive clear guidance on what information to provide, what to expect, and how to track their inquiries.|
+|Mobile-friendly|The contact form and inbox are fully functional and user-friendly on mobile devices.|
+|Accessibility|Users can access the form and dashboard using any assistive technology, ensuring all users can easily contact VA.|
+|Easy to track|Authenticated users can view their question history and statuses in their inbox. Unauthenticated users can also check the status of their questions.|
+
+### Functional outcomes
+|Outcome|Description|
+|:---|:---|
+|Form submission (CRM integration)|All form submissions are correctly routed. Users receive confirmation or error messages.|
+|Retrieving questions to display in inbox (CRM integration)|Users can see all their previous questions in their inbox after logging in.|
+|Check question status unauthenticated (CRM integration)|Users can check the status of their questions using a question number on the unauthenticated landing page.|
+|Successful integrations with non-CRM APIs|The system successfully retrieves data from other APIs, such as medical or school facilities.|
+
+### Business outcomes
+|Outcome|Description|
+|:---|:---|
+|Improved customer support efficiency|With fewer resources and a more streamlined process for routing and managing questions, Ask VA: (1) provides a higher quality customer support experience compared to traditional channels, like phone calls, (2) handles a larger volume of questions, and (3) answers a variety of questions in a single system rather than multiple systems.|
+|Improved user satisfaction|Users are more satisfied with Ask VA as compared to traditional customer support experiences.|
+|Improved trust in VA|Users trust VA and VA services more after getting answers through Ask VA.|
+|Improved scalability|Ask VA handles more questions without a proportional increase in resources, due to an efficient CRM integration.|
+|Improved flexibility|Ask VA's flexibility in integrating with other systems and APIs allows for more efficient future enhancements and expanded services.|
 
 ### Desired submitter outcomes
-1. **Better submission experience**: It's easier for Veterans and other submitters to send questions on VA.gov through AVA. (Learn more about [our design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/Strategy))
-2. **Better dashboard experience**: While signed in on VA.gov, it's easier for Veterans and other submitters to view and reply to past AVA questions. (Learn more about [our design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/Strategy).
-3. **More seamless experience**: Veterans’ and other submitters’ AVA experience and data is more consistent and seamless with other VA channels.
-4. **CRM integration**: Veterans and other submitters continue to reliably communicate with VA through AVA.
-
 ### Undesired submitter outcomes
-1. **Worse submission experience**: It's _harder_ for Veterans and other submitters to send questions on VA.gov through AVA.
-2. **Worse dashboard experience**: While signed in on VA.gov, it's _harder_ for Veterans and other submitters to view and reply to past AVA questions.
-3. **More disjointed experience**: Veterans’ and other submitters’ AVA experience and data is _less_ consistent and seamless with other VA channels.
-4. **Unsuccessful CRM integration**: Veterans and other submitters _cannot_ reliably communicate with VA through AVA.
-
-### Desired Business Outcomes
-1. **More internal alignment**: There’s improved internal alignment on OCTO, VES, and MCT goals and improved relationships with stakeholders regarding Ask VA because we’re working closer together.
-2. **More stability**: We create a more stable product that is better supported by existing VA enterprise assets, additional resources (such as the VA.gov Platform team), user testing, and data.
-
 ### Undesired Business Outcomes
-1. **Less internal alignment**: There’s _less_ internal alignment on OCTO, VES, and MCT goals and _worse_ relationships with stakeholders regarding Ask VA because we’re working closer together.
-2. **Less stability**: We create a _less_ stable product that _isn’t_ better supported by existing VA enterprise assets, additional resources (such as the VA.gov Platform team), user testing, and data.
 
-## Measuring Success
-Key Performance Indicators (KPIs) help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. Objectives and Key results (OKRs) help us measure success of specific targeted objectives for a specific initiative or time period.
+## Measuring success
+Key Performance Indicators (KPIs) help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. We'll track these primary KPIs over time.
 
-### Key Performance Indicators (KPIs)
-We'll track these primary KPIs over time.
-
-#### User experience KPIs
-- **Satisfaction** - Increase customer satisfaction score (CSAT) for form and dashboard
-- **Experience** - Increase experience rating for form and dashboard
-- **Form completion rate** - Increase the percentage of questions successfully sent by submitters for form
-- **Time to submit form** - Decrease the average time it takes submitters to send a question for form
-- **Reply rate** - Increase the number of replies to questions for dashboard
-- **Time to reply** - Decrease the average time it takes submitters to reply to a question for dashboard
+### User experience KPIs
+- **Satisfaction**: Increase customer satisfaction score (CSAT) for form and dashboard
+- **Experience**: Increase experience rating for form and dashboard
+- **Form completion rate**: Increase the percentage of questions successfully sent by submitters for form
+- **Time to submit form**: Decrease the average time it takes submitters to send a question for form
+- **Reply rate**: Increase the number of replies to questions for dashboard
+- **Time to reply**: Decrease the average time it takes submitters to reply to a question for dashboard
 
 Note: The satisfaction and experience metrics are different. The satisfaction rating comes from the [Medallia feedback button survey](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data#AccessingandUtilizingVeteranSupportData-FeedbackSurveyQuestions). The experience rating comes from the [Medallia intercept survey](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data#AccessingandUtilizingVeteranSupportData-MedalliaInterceptSurveyQuestions).
 
-#### Performance KPIs
-- **Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions for form and dashboard
+### Performance KPIs
+- **Zero silent failures**: At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions for form and dashboard
+- **Error rates**: Decrease error rates in sending or receiving data from the Ask VA CRM and other APIs
+- **Latency**: Decrease average time to receive data from the Ask VA CRM and other APIs
+- **Throughput**: Increase the number of transactions without impact to latency or error rates
 
-View more details in the [Ask VA KPIs doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md).
+View more details in the [Ask VA KPIs doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md)
 
-### Objectives and key results (OKRs)
-These OKRs measure the success of our Phase 1 launch.
+### Business KPIs
+The Ask VA CRM business team tracks business KPIs, which include metrics like: average resolution time (days to solve), number of authenticated submitters, submissions by category, and more. Learn more in [the AVA Power BI report](https://app.powerbigov.us/groups/me/reports/e895dbed-17f3-45d1-8219-2b3fe27b8b7e?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&pbi_source=linkShare&bookmarkGuid=72bfed1d-0745-4452-a5e8-6a36551cb166). You'll have to request permission to view the report.
 
-####  Objective 1: Bring form and dashboard up to VA.gov design, accessibility, content, and information architecture standards
-- Key result 1.1: Complete VA.gov platform collaboration cycle steps
-- Key result 1.2: **Satisfaction** - Increase customer satisfaction score (CSAT) from the current ask.va.gov benchmark
-- Key result 1.3: **Form completion rate** - Increase the percentage of successfully sent questions from the current ask.va.gov benchmark
-- Key result 1.4: **Routing** - Increase percentage of questions that are routed successfully by submitters from the current ask.va.gov benchmark
+## Team and VA partners
+### Our team
+|Role|Assigned|Contact|
+|:---|:---|:---|
+|Product owner (OCTO), Designer|Becky Phung||
+|Product owner (VES)|Natalie Morales||
+|Program manager|Megan Siddle|megan.siddle@oddball.io|
+|Product manager|Ariel Martinez|ariel.martinez@thoughtworks.com|
+|Lead engineer|Joseph Hall|joe.hall@thoughtworks.com|
+|Frontend engineer|Eddie Otero|eddie.otero@oddball.io|
+|Frontend engineer|Hemesh Patel|hemesh.patel@docme360.com|
+|Backend engineer|Khoa Nguyen|khoa.nguyen@oddball.io|
+|Data engineer (part-time)|Jacob Cheriathundam|jacob@docme360.com|
+|UX designer|Thomas Michaud|thomas.michaud@oddball.io|
+|UX researcher & designer|Tyler Gindraux|tyler@bluetiger.digital|
 
-|Key result|ask.va.gov benchmark|VA.gov metric (X months after launch)|
-|---|---|---|
-|Complete VA.gov platform collaboration cycle steps|n/a|n/a|
-|**Satisfaction** - Increase customer satisfaction score (CSAT)|January 2025: 23%|tbd|
-|**Form completion rate** - Increase the percentage of successfully sent questions|[May to October 2024 (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|tbd|
-|**Routing** - Increase percentage of questions that are routed successfully by submitters|[2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Determining%20Ask%20VA%20queue%20from%20question%20text.md#submitter-problem-statement-misrouting-and-form-burden): 93%|tbd|
-
-#### Objective 2: Integrate with enterprise assets, such as VA Profile, as necessary and possible for Phase 1
-- Key result 2.1: Explore integrations with enterprise assets (VANotify, VA Profile, My VA, Medallia feedback surveys)
-- Key result 2.2: Execute successful integration with VA Profile
-- Key result 2.3: Execute successful integration with Medallia feedback surveys
-
-#### Objective 3: Integrate successfully with the AVA back-end in Dynamics CRM 
-- Key result 3.1: Develop and deploy API endpoints to send and receive data from AVA Dynamics CRM
-- Key result 3.2: There are 0 fatal errors in sending or receiving data needed for VA agents to answer submitter questions
-
-### Assumptions
-Improving the front-end of Ask VA will:
-- Increase user satisfaction of the application
-- Decrease the time it takes to ask a question
-- Increase the percentage of submitters that complete asking a question
-- Decrease the percentage of questions that are rerouted by agents
-- Decrease the resolution time of a question
-
-Transitioning the Ask VA front-end to VA.gov design, content, and accessibility standards will improve user experience and bring more cohesiveness with the other services that the VA offers.
-
-## Solution Approach
-
-### Bring Ask VA up to VA.gov design standards (Front-End Updates)
-- Update topics and categories based on content style guide (without changing form functionality and output)
-- Update form questions based on content style guide (without changing form functionality and output)
-- Update UI to reflect the VA Design System
-- Make it mobile-friendly
-- Do iterative submitter research to test usability of new form design and content updates
-- Make it 508 Compliant
-
-### Implement form on VA.gov
-- Understand current routing rules
-- When submitters complete the Ask VA form on VA.gov, the implementation will send this data to the Dynamics CRM for the agents to process submitter questions
-- Releasing this new form to a new page on VA.gov (va.gov/contact-us/ask-va)
-- Update the Ask VA dashboard  to VA.gov design, content, and accessibiltiy standards
-
-### Potential future features
-- Surface resources using existing knowledge base
-- Inbox/secure messaging
-- Explore use of NLU/free text
-- AVA placement/integrations with chatbot and resources
-- Updated existing routing rules to smart routing
-- Integration with VA Notify
-
-### Our High Level Plan for Phase 1
-1. Discovery Spikes - Conducted quick, timeboxed explorations to determine effort for potential features
-2. **Create Prototype** - Develop coded prototype on staging.va.gov for usability test (in progress)
-3. **Usability Testings/Research** - Conduct usability tests with Veterans and dependents using Figma and Coded Prototype (in progress)
-4. Launch Phase 1 - Launch the Ask VA front-end form and dashboard on VA.gov
-  
-### Additional references
-- See the complete scope of Phase 1 in this GitHub doc, [including Must Have/Nice to have features for Phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%20Must%20Have%20+%20Nice%20to%20Have.md)
-- Download the [Initiative Brief on the overall project here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/AVA%20-%20Initiative%20Brief%20v2.docx)
-
-## Launch Strategy
-- Launch Phase 1 after redesigning and developing form flows for each category, topic, and subtopic combination on VA.gov.
-- Sunset the existing front-end of AVA (ask.va.gov on on the stand alone Microsoft portal) after a sufficient period of time.
-- Tentatively, go live in the second half of 2024.
-
-### Communication Plan
-- How are Veterans and others using this product going to know it exists?
-- What marketing, outreach, or communications are necessary for this product to be successful?*
-- [View a Release Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/maste/platform/product-management/release-plan-template.md)
-
-### Launch Dates
-- *Target Launch Date*
-  - April 2025
-- *Actual Launch Date* 
-  - TBD
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - TBD
-   
-## Examples of Design Updates
-These examples represent our designs as of April 30th, 2024.
-- [Who is Your Question about?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/04-2024-Who-is-your-question-about-design.jpg)
-- [Dashboard with Cards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/04-2024-Dashboard-with-cards.jpg)
-- [Your Question](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/04-2024-Your-question-edu-design.jpg)
-
-## Team and Stakeholders
-### Communications
-
-<details>
-
-- Team Name: Ask VA Integration
-- GitHub Label: https://github.com/department-of-veterans-affairs/ask-va
-- Slack channel: #ask-va-public
-- Product POCs: Becky Phung, Chante Lantos-Swett, Andrea Schneider, Ruchi Shah
-- Stakeholders: Link: https://docs.google.com/spreadsheets/d/1HlKmuuKAwiz6VnJIBNjI2t8Tet1Bc5tm6_fNLscDouw/edit#gid=0 
-
-</details>
-
-### Team Members
-
-<details>
- 
- - DEPO Lead: Chante Lantos-Swett, Andrea Schneider, Becky Phung, Natalie Morales
- - PM: Ruchi Shah
- - Engineering: Joe Hall, Eddie Otero, Jacob Cheriathundam, Khoa Nguyen
- - Research/Design: Tyler Gindraux, Thomas Michaud, Becky Phung
- - Program: Em Allan
- 
-</details>
-
-### Stakeholders
-
-<details>
-
-- [View VA Leadership and Partner Team Stakeholders in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696976895933/4f5410b3e8770441f4101cbabd565aa0cd13dac7?sender=u2d812b371596fee265408413)
-
-</details>
+### VA partners
+We closely work with the Ask VA CRM development team. Learn more about our partnership [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696976895933/4f5410b3e8770441f4101cbabd565aa0cd13dac7).
+![image](https://github.com/user-attachments/assets/0ce385c2-3f47-4ce9-b3c8-deb6e01bbca5)
