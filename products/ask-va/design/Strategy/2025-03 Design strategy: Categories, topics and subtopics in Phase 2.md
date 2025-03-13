@@ -32,9 +32,9 @@ These insights can shape our approach to leveraging an NLP model now and later.
 
 We propose that we use an NLP model to predict and surface category, topic and subtopic options that are over a certain confidence score. We will determine which level of confidence is significant enough, and then anything that falls above this threshold will be surfaced to a submitter, whereas anything below will be hidden.
 
-This means, we may surface 1 option or multiple options to submitters, depending on how confident the model is that it picked the correct option(s) for the question.
+This means, we may surface 1 option or multiple options to submitters, depending on how confident the model is that it picked the correct option(s) for the question. We will design for both scenarios.
 
-We hypothesize this will make it easier for submitters to make a selection (when given more than 1 option) because they will have a shorter list. By reducing the cognitive load required to read and choose from a long list, we can also add descriptions to the options in the lists.
+When submitters are given more than 1 option, our research shows that a shorter list will make it easier for submitters. By reducing the cognitive load required to read and choose from a long list, we can also add descriptions to the options in the lists.
 
 ## Next steps
 
