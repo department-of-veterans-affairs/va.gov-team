@@ -82,7 +82,7 @@ Each participant was shown the following:
 8. Most Veterans will complete the dependency verification task with clarity and in one sitting.
     9. LIKELY TRUE: When following the happy path, most participants completed the task and described it as "quick" and "easy." If participants saw personal information that needed correction or ran into other points of confusion, it would often prompt them to call the VA, risking abandonment of the task.
 10. Some Veterans may find the tool unfamiliar or unexpected
-    11. MAYBE FALSE: Most were familiar with the standard form layout, Your VA Dependents, and the dependents parent page. A couple of participants found it surprising that they were asked to review/confirm personal information as a part of verifying their dependents. 
+    1. MAYBE FALSE: Most were familiar with the standard form layout, Your VA Dependents, and the dependents parent page. A couple of participants found it surprising that they were asked to review/confirm personal information as a part of verifying their dependents. 
 
 
 
