@@ -74,4 +74,5 @@ Between July 2024 and March 2025, VA engaged in an organization-wide campaign to
 
 ### Design
 - [User flow iterations - Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1724333905063/6c6192d24519142a244970b2db83539d4c2b1b2e)
-- [UI design and prototyping - Figma](https://www.figma.com/design/skWgD0gHYGlKSoLdH097OX/Sign-in-changes-for-CSP-deprecation?node-id=0-1&p=f&t=5OteE9M1bWiVehHX-0)
+- [Sign in page and interstitial prototyping and final designs - Figma](https://www.figma.com/design/skWgD0gHYGlKSoLdH097OX/Sign-in-changes-for-CSP-deprecation?node-id=0-1&p=f&t=5OteE9M1bWiVehHX-0)
+- [Sign in page design for final MHV removal - Figma](https://www.figma.com/design/d3fRL81XY4o9tncCOjmRNS/Sign-in-page---MHV-removal?node-id=0-1&p=f&t=1vJHp2KkIyUWeStF-0)
