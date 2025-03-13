@@ -16,17 +16,12 @@ We have an opportunity to improve the start of the form and reduce burden on sub
 
 ## Hypothesis
 
-In July 2024, we started an initiative to build and train a natural language processing (NLP) model to accurately predict a category, topic and subtopic based on a question [[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)].
+In 2024, we started an initiative to build and train a natural language processing (NLP) model to accurately predict a category, topic and subtopic based on a question [[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)]. We hypothesized that by pre-filling these selections and letting a submitter review the predictions, we could improve the start of the form and reduce unnecessary burden.
 
-We hypothesized that by pre-filling these selections and letting a submitter review the predictions, we could improve the start of the form and reduce unnecessary burden.
+We recently conducted user research to understand how an NLP model should surface predictions to submitters [[7]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Research%20plan.md))].
 
-### Testing our hypothesis
-
-We conducted user research in February 2025 to better understand how an NLP model should surface predictions to submitters, among other opportunities for automation [[7]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Research%20plan.md))].
-
-We learned that:
+Among other insights, we learned that:
 - Part of a secure support experience is knowing who you're contacting.
-- People second guess themselves and let the tool take them down the wrong path.
 - It's reasonable to suggest categories based on other similar questions that Veterans have asked in the past.
 - People prefer choosing from a list of narrow options, rather than the tool jumping to a conclusion right away.
 - While people are good at identifying if a suggestion is wrong, it's difficult to choose the correct category or topic from a list.
