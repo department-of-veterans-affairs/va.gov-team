@@ -36,6 +36,9 @@ flowchart TD
     C -->|Authenticated| E[Render buttons based on AuthBroker and CSP]
 ```
 
+## Engineering
+- Main directory: `vets-website/src/applications/verify`
+
 ## Terminology
 
 | **Word** | **Definition** | **Reference** |
