@@ -56,30 +56,33 @@ Each participant was shown the following:
 - An email notification from VA.gov that would be sent annually to direct Veterans to review and verify or update their dependents on VA.gov
 - The verification experience, beginning on Your VA Dependents
   - The verification flow that ends with the Veteran submitting a VA Form 21-0538
-  - The update flow that ends with the introduction page for our online tool, Request to add or remove VA dependents
+  - The update flow that ends with the introduction page for the online tool, Request to add or remove VA dependents (VA Forms 21-686c and/or 21-674)
 - The batch request letter for VA Form 21-0538 that Veterans currently receive on an 8-year cadence
 
 ## Hypotheses and Conclusions
 
 1. Most Veterans will be familiar with VA.gov notifications
-    1. FALSE: Most participants ignored the instructions and were unable to fill out any of the forms without a lot of help from the moderator, and many were unable to succeed even with all the help provided (especially users on mobile devices).
+    1. TRUE: Most participants already received notifications from VA.gov, though most of them were related to healthcare benefits (information about prescription refills, appointments, etc.) or newsletters. Participants were familiar with receiving notifications via text, email, mail, and via the app. 
 1. Most Veterans will engage directly with the email notification
-    1. FALSE: Same reasons as above. In addition, the digital signature is not accessible to users of screen readers.
+    1. TRUE: While some found the language “weak” or only saw the need to take action if one of the reasons to update applied to them, most would click the CTA or go to VA.gov directly “just to see” to review dependents.
 1. Veterans will have clarity around the request, but may face lack of clarity with understanding the implications of the request
-    1. FALSE: Same reasons as above.
+    1. MAYBE TRUE: Though most understood they were asked to review their dependents for accuracy and to update if needed, it’s not clear that participants associate “verification” with a form-related task. Half of participants were familiar with overpayments, hence with the benefit of keeping dependents up-to-date. However, it's unclear whether participants associate verification with fulfilling the 8-year mandate. There was some indication that participants would prefer to complete this task online for convenience. 
   
 1. Veterans will use VA.gov’s search or benefits menu to find dependent management tools and information.
-    1. MAYBE TRUE: Instructions at the top were ignored by all participants who saw them.
+    1. LIKELY TRUE: Some participants would use search or the main menu. Others would look to the authenticated menu, an authenticated hub like MyVA, the top links on VA.gov, or would use the app to manage dependents. 
   
 1. Most Veteran’s mental models will match the task to verify or update dependents.
-    1. MAYBE TRUE: Instructions repeated were ignored by all except two participants. No one mentioned being annoyed by the repeated text.
-  
+    1. MAYBE TRUE: Veterans could complete the task, but it’s unclear whether participants understood the task's connection to the 8-year mandate. There was also some confusion around what "Update" means in regards to updating dependents in the MVP.
+2. Most Veterans will understand that they must still respond to a paper 21-0538 request after completing the update or verify task on VA.gov (won’t disregard future paper requests)
+     1. LIKELY FALSE: When prompted with receiving a paper 0538 after verifying on VA.gov caused confusion. Participants interpreted the 0538 batch letter as confirmation of verification on VA.gov or were confused/upset that they received this, seeing it as redundant. Many would call the VA to gain clarity. 
 2. Veterans will understand the difference between the tasks to verify and update
-    3. 
+    3. LIKELY TRUE: Most participants accurately followed the update/verify paths, with 2 even reading the description below the selection header. 
 4. Veterans will expect to be able to edit, add, or remove individual dependents quickly
-    5.
+    5. DEFINITELY TRUE: Most participants expected to be able to update dependent information on VA.gov.  
 6. Most Veterans will complete the dependency verification task with clarity and in one sitting.
-7. Some Veterans may find the tool unfamiliar or unexpected
+    7. LIKELY TRUE: When following the happy path, most participants completed the task and described it as "quick" and "easy." If participants saw personal information that needed correction or ran into other points of confusion, it would often prompt them to call the VA, risking abandonment of the task. 
+8. Some Veterans may find the tool unfamiliar or unexpected
+    9. MAYBE FALSE: Most were familiar with the standard form layout, Your VA Dependents, and the dependents parent page. A couple of participants found it surprising that they were asked to review/confirm personal information as a part of verifying their dependents. 
 
 
 
