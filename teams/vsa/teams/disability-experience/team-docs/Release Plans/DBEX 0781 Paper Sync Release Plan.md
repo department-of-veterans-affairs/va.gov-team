@@ -11,10 +11,11 @@ For Veterans who have been diagnosed with PTSD (post traumatic stress disorder) 
 Create a new 0781 online form that will match the newest paper version of the PDF form. The data in the online form will used in the generation of the new (2024) 0781 PDF that will be sent to the eFolder after a successful submit.
 
 ## Success criteria
-Deliver a new 0781 form that can capture the same data that is needed as the 2024 PDF form.
-Keep the existing form available for claims already in progress and for piloting the new version.
-Direct users who do not have a claim already in progress to the new online 0781 form.
-Human centered design to help reduce friction and abandonment among Veterans filling out the forms.
+- Deliver a new 0781 form that can capture the same data that is needed as the 2024 PDF form.
+- Keep the existing form available for claims already in progress and for piloting the new version.
+- Direct users who do not have a claim already in progress to the new online 0781 form.
+- Human centered design to help reduce friction and abandonment among Veterans filling out the forms.
+- 
 
 ## Resource materials
 - [0781 Paper Sync Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87438) 
@@ -36,17 +37,37 @@ Human centered design to help reduce friction and abandonment among Veterans fil
 
 
 ## Production release plan
-Canary rollout plan: 
-The rollout plan involves deploying the new 0781 flow version to a small, representative subset of users (the "canary" group) before releasing it to the entire user base, allowing for early detection of issues and a swift rollback if necessary. 
+The production release will include a canary rollout. The rollout plan involves deploying the new 0781 flow version to a small, representative subset of users (the "canary" group) before releasing it to the entire user base, allowing for early detection of issues and a swift rollback if necessary. 
 
-Release date: 
+**Monitoring the Canary Deployment**
+We'll closely monitor the canary deployment for performance issues, errors, and user feedback. We'll be looking at the following ... 
+- Number of claims in progress with new 0781 mental health data/form
+- Number of successful submissions with new 0781 mental health data/form
+- Number of failed submissions with new 0781 mental health data/form
+- Number of submissions with new 0781 mental health data/form down the primary path
+- Number of submissions with new 0781 mental health data/form down the secondary/backup path
+- Number of successful submissions with old 0781/a PTSD data/form
 
-Team members: 
+[Datadog monitors should be included here]
 
-Length of time: 
+**Scale Gradually**
+Each week the team will be monitoring the progress of disability claims ... reporting the metrics in the # benefits-disability slack channel ... 
+If the canary deployment is performing well, we'll gradually increase the percentage of traffic to the new 0781 flow. 
+Once we're confident that the canary deployment is stable, we'll fully roll it out to all users by routing all traffic ...  
 
-Percentage of Users (and roughly how many users do you expect this to be): 1% of users, ~xxx submissions
+**Canary rollout plan**
 
+
+| Percent |Go/No Go Date |Planned release date | Actual release date |Notes            |
+|---------|--------------|---------------------|---------------------|-----------------|
+|1% | 04/29/2025 | 04/30/2025 | | |
+|5% | 05/05/2025 | 05/06/2025 | | |
+|25% | 05/12/2025 | 05/13/2025 | | |
+|50% | 05/19/2025 | 05/20/2025 | | |
+|75% | 05/27/2025 | 05/28/2025 | |Memorial day holiday this week |
+|100%|  06/08/2025 | 06/10/2025 | | |
+
+_These dates do not represent commitment and are subject to change._
 
 
 ## Risks
