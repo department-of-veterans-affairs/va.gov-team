@@ -32,29 +32,29 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 ### Product portfolio
 **VA.gov Decision Reviews**
 - [Staging link](https://staging.va.gov/decision-reviews/)
-- [Product folder]()
-- [Product outline]()
-- [Product Guide/Contact Center Guide]()
-- [Things to know]() 
-- [Stakeholder Meeting Notes]()
-- [PM Resources folder]()
+- [Product folder]
+- [Product outline]
+- [Product Guide/Contact Center Guide]
+- [Things to know]
+- [Stakeholder Meeting Notes]
+- [PM Resources folder]
 
 
 <br>
 
 ### Product artifacts
-- [Content source of truth]()
-- [Page/User flow]()
-- [Figma file]()
+- [Content source of truth]
+- [Page/User flow]
+- [Figma file]
 - [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
-- [Other form info]()
+- [Other form info]
 
 **Analytics**
 - Analytics dashboard: 
-     - [Domo]() 
-     - [Google Analytics]()
-- [Backend Stats on DataDog Dashboard]()
-- [Real User Monitoring (RUM) Dashboard]()
+     - [Domo] 
+     - [Google Analytics]
+- [Backend Stats on DataDog Dashboard]
+- [Real User Monitoring (RUM) Dashboard]
 
 
 **Engineering**
@@ -63,23 +63,18 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 
 **DR Team resources**
 
-<br>
+
 
 # Roadmap
 
-
 **Now**
--
-
 **Next**
-- 
-
 **Future**
-- 
+
 
 ## Features and initiatives we worked on
 
-## Our team 2023 team roster
+## Our team 2025 roster
 
 - Maurice DeBeary | maurice.debeary@va.gov / maurice@coforma.io - Product manager
 - Shaun Burdick | shaun.burdick@va.gov / shaun.burdick@coforma.io - Tech Lead
