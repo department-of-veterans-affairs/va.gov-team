@@ -7,8 +7,8 @@
 - [POCs](#pocs)
 - [Overview](#overview)
 - [User Problem Statement](#user-problem-statement)
-- [Analytics](#analytics)
 - [Project-history](#project-history)
+- [Analytics](#analytics)
 - [Backend](#backend)
 - [Frontend](#frontend)
 - [Design and UX](#design-and-ux)
@@ -34,14 +34,6 @@ Between July 2024 and March 2025, VA engaged in an organization-wide campaign to
 - Improve security and reduce fraud risk by retiring the My HealtheVet user ID and password.
 - Simplify the VA sign-in experience by reducing supported credential service providers from four to two.
 
-
-## Analytics
-
-- [Datadog: Authentication stats](https://vagov.ddog-gov.com/dashboard/e3q-6kp-9r4/vagov-identity-stats-public?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1739303027604&to_ts=1741895027604&live=true)
-- [Domo: Sign-in transition dashboard](https://va-gov.domo.com/page/1862108618?userId=367226722)
-
-(Samara to add metrics)
-
 ## Project history
 
 * **November/December 2023**: The determination was made to retire DS Logon and the MHV credential by the end of 2024.
@@ -56,6 +48,13 @@ Between July 2024 and March 2025, VA engaged in an organization-wide campaign to
 - **December 2024**: Sign-in interstitial went live on VA.gov.
 - **January 2025**: Decision to extend deadline from original 1/31/25 deadline to 3/4/25.
 - **March 2025**: MHV user ID and password option was removed from VA.gov and MHV on 3/5/25; MHV user ID and password option removed from AccessVA on 3/6/25.
+
+## Analytics
+
+- [Datadog: Authentication stats](https://vagov.ddog-gov.com/dashboard/e3q-6kp-9r4/vagov-identity-stats-public?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1739303027604&to_ts=1741895027604&live=true)
+- [Domo: Sign-in transition dashboard](https://va-gov.domo.com/page/1862108618?userId=367226722)
+
+(Samara to add metrics)
 
 ## Backend
 
