@@ -14,31 +14,13 @@ Veterans are asked what type of care they'd like to receive.
 
 - A user must choose a type of care to enter any of the scheduling flows.
 - The type of care they choose, their community care eligibility, and the facility's configuration in CCM determines what methods they may be able to schedule by:
-  - VAOS has preset types of care that may be scheduled by different methods (Direct Schedule, Request, etc.) - see the _Allowable methods of scheduling_ table that follows.
+  - VAOS has preset types of care that may be scheduled by different methods (Direct Schedule, Request, etc.)**
   - Facilities can also configure (in CCM) the methods of scheduling that they allow for each type of care, within the VAOS limits.
   - See the community care requirements that follow for more on how this affects the scheduling methods.
 
-#### Allowable methods of scheduling**
-
-| Type of care                                               | VA Direct | VA Request | CC Request (1) | VA COVID Vaccine |
-| ---------------------------------------------------------- | --------- | ---------- | ---------- | ---------------- |
-| Amputation care                                            | ✅         | ✅          |            |                  |
-| Audiology and speech: Routine hearing exam (2)                 | ✅         | ✅          | ✅          |                  |
-| Audiology and speech: Hearing aid support (2)                  | ✅         | ✅          | ✅          |                  |
-| COVID-19 vaccine                                           |           |            |            | ✅                |
-| Eye care: Optometry (2)                                        | ✅         | ✅          | ✅          |                  |
-| Eye care: Ophthalmology (2)                                    | ✅         | ✅          |            |                  |
-| Mental health                                              | ✅         | ✅          |            |                  |
-| MOVE! weight management program                            | ✅         | ✅          |            |                  |
-| Nutrition and food                                         | ✅         | ✅          | ✅          |                  |
-| Pharmacy                                                   | ✅         | ✅          |            |                  |
-| Podiatry                                                   |           |            | ✅          |                  |
-| Primary care                                               | ✅         | ✅          |          |                  |
-| Sleep medicine: Continuous Positive Airway Pressure (CPAP) (2) | ✅         | ✅          |            |                  |
-| Sleep medicine: Sleep medicine and home sleep testing (2)      | ✅         | ✅          |            |                  |
-| Social work                                                | ✅         | ✅          |            |
-
-See also [determining available types of care for scheduling](../backend-logic.md#determining-available-types-of-care-for-scheduling)
+See also:
+- [Determining available types of care for scheduling](../backend-logic.md#determining-available-types-of-care-for-scheduling)
+- **[Supported methods of scheduling online](../backend-logic.md#supported-methods-of-scheduling-online)
 
 #### (1) Community care requirements
 - A user must be eligible for community care to request community care appointments.
