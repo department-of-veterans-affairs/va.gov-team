@@ -227,3 +227,81 @@ By implementing this architecture, we ensure data consistency, streamline the up
   - [x] Are there any other security concerns about your project that you want to discuss?
     - Yes. If an individual becomes 'inactive' we'd like to 'soft delete' their record for historical purposes, so their record could potentially live indefinitely. Is it okay to store an 'inactive' record as-is (not encrypted) or would you rather us encrypt it?
   - [ ] What [threat modeling](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html) have you done, and how did the results influence your planned architecture?
+
+---
+
+## Diagrams
+
+### Achitecture Diagram
+
+![Image](https://github.com/user-attachments/assets/e3dce52a-7d3b-47b9-a662-0bf1fdf86194)
+
+### Sequence Diagram
+
+![Image](https://github.com/user-attachments/assets/f468424e-33f4-4092-bf3a-6d4b8e757577)
+
+## **Supplemental Explanation of the Achitecture and Sequence Diagrams**
+
+### **Actors Involved**
+
+- **Vets-API Server**: The main application that interacts with external APIs and databases.
+- **Sidekiq Server**: Handles background job processing with two separate jobs:
+  1. **`QueueUpdates` Job**: Fetches accreditation data, compares it to existing records, and queues updates.
+  2. **`Update` Job**: Processes updates, validates addresses, and inserts/updates records in the database.
+- **PostgreSQL Database**: Stores accreditation records.
+- **Accreditation API**: Provides accreditation records.
+- **Lighthouse Address Validation API**: Validates addresses for accreditation records.
+
+---
+
+### **Process Overview**
+
+A **daily scheduled Sidekiq job** (`QueueUpdates`) is triggered to fetch accreditation data, compare it against existing records, and queue updates. A second Sidekiq job (`Update`) is responsible for processing the updates.
+
+#### **1. Fetch Accreditation Data (`QueueUpdates` Job)**
+
+- The **QueueUpdates** Sidekiq job runs daily and calls four Accreditation API endpoints:
+  - `GET /api/v2/accreditations/Agents`
+  - `GET /api/v2/accreditations/Attorneys`
+  - `GET /api/v2/accreditations/Representatives`
+  - `GET /api/v2/accreditations/VeteranServiceOrganizations`
+- Each API response is **paginated**, and the job iterates through all pages to retrieve all records.
+- The fetched data is **temporarily stored in memory**.
+
+#### **2. Compare and Identify New or Changed Records**
+
+- The job processes the fetched records in **chunks**.
+- An **ActiveRecord query** retrieves existing records in bulk using a **unique identifier** (e.g., `registration_number`, though the actual column may differ):
+  ```ruby
+  Representatives.where(unique_identifier: [1, 2, 3])
+  ```
+- Each fetched record is compared against its corresponding record in the **Representatives** or **Organizations** table.
+- If a record is **new** or has **changed**, it is added to an array (e.g., `new_or_changed_records`).
+
+#### **3. Queue Updates for Processing**
+
+- The **QueueUpdates** job processes the `new_or_changed_records` array in **chunks** and enqueues batches for the `Update` Sidekiq job.
+
+#### **4. Validate and Upsert Data (`Update` Job)**
+
+- The `Update` Sidekiq job processes each batch of records by:
+  1. **Validating addresses** for new or changed records using the **Lighthouse Address Validation API**.
+  2. **Transforming data** to match the structure of the database.
+  3. **Performing a bulk upsert** (insert/update operation):
+     ```ruby
+     Representatives.upsert_all(array_of_shaped_data)
+     ```
+  4. **Confirming successful updates** in the PostgreSQL database.
+
+---
+
+### **Key Benefits**
+
+✅ **Efficient API Data Retrieval**: Uses batch processing and in-memory storage.  
+✅ **Optimized Database Queries**: Fetches existing records in bulk to minimize query overhead.  
+✅ **Incremental Updates**: Only new or modified records are updated, reducing unnecessary writes.  
+✅ **Batch Processing**: Minimizes Sidekiq job load by processing updates in chunks.
+
+---
+
+This **clear separation of concerns** between `QueueUpdates` and `Update` ensures that the system remains **scalable, efficient, and easy to debug**. 🚀 Let me know if any refinements are needed!
