@@ -1658,7 +1658,7 @@ Majority synthesis done post-its
 - Research staff: Mary Ann & Laura
 - Participants: 5
 - Location: remote
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/archive/discovery/2016)
 
 #### July 8 - Rx Refills Research II
 *Research staff: Gina, Mary Ann, Laura*
