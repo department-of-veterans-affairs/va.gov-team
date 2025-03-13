@@ -87,6 +87,7 @@ Other considerations:
 Incident Response info
 
 [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=sliding&from_ts=1739300121041&to_ts=1741892121041&live=true)
+[Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/ivc-forms-monitoring-playbook.md)
 
 Rollback & Fix plan (1-3 days to triage and implement fix)
 
