@@ -115,7 +115,7 @@ Downstream Dependencies
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd (dependent on PEGA integration timing)
+  - 4/2/2025
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
