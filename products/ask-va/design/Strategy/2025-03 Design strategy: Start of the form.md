@@ -6,9 +6,13 @@ Last updated by @tygindraux on March 13, 2025
 
 ## Background
 
+Ask VA currently requires submitters to choose a category, topic and subtopic. We use this to determine a routing queue, or in other words, who will be assigned to answer a specific question.
+
 ## Proposed approach
 
 ### Recommend a shorter list of categories, topics and subtopics based on a question
+
+
 
 ## Next steps
 
