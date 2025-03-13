@@ -1,4 +1,4 @@
-# Design strategy: Start of the form [Phase 2]
+# Design strategy: Category, topic and subtopic in Phase 2
 
 Office of the CTO - Digital Experience (OCTO-DE), Ask VA, Ask VA VA.gov Team
 
