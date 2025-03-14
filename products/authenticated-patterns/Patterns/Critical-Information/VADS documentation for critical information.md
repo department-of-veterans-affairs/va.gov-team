@@ -60,7 +60,7 @@ Kristen Faiferlick (Ad Hoc)
 
 ### When to use Critical information
 
-* **When you want to highlight a task that will otherwise block the user from proceeding.** The Critical information component should be used to draw attention to important and time-sensitive tasks that prevent the user from completing a task or goal. For example, they might need to request a refill in order to continue using a specific prescription; or check into an appointment, complete an Intent to File before the deadline, or pay an overdue or soon-to-be overdue debt.. 
+* **When you want to highlight a single task that will otherwise block the user from proceeding.** The Critical information component should be used to draw attention to important and time-sensitive tasks that prevent the user from completing a task or goal. For example, they might need to request a refill in order to continue using a specific prescription; or check into an appointment, complete an Intent to File before the deadline, or pay an overdue or soon-to-be overdue debt.. 
 
 ### When not to use Critical information
 
