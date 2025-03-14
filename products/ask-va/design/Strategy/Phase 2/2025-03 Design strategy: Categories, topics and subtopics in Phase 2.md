@@ -25,7 +25,7 @@ Among other insights, we learned that [[8](https://github.com/department-of-vete
 - It's reasonable to suggest categories based on other similar questions that Veterans have asked in the past.
 - People prefer choosing from a list of narrow options, rather than the tool jumping to a conclusion right away.
 - While people are good at identifying if a suggestion is wrong, it's difficult to choose the correct category or topic from a list.
-- However, categories and topics often don't match what people expect or they require further description.
+- Categories and topics often don't match what people expect or they require further description.
 
 These insights can shape our approach to leveraging an NLP model now and later.
 
@@ -33,12 +33,15 @@ These insights can shape our approach to leveraging an NLP model now and later.
 
 We propose that we use an NLP model to predict and surface category, topic and subtopic options that are over a certain confidence score. We will determine which level of confidence is significant enough, and then anything that falls above this threshold will be surfaced to a submitter, whereas anything below will be hidden.
 
-This means, we may surface 1 option (no selection) or multiple options (selection required) to submitters, depending on how confident the model is that it picked the correct option(s) for the question. We also plan to:
+This means, we may surface 1 option (no selection) or multiple options (selection required) to submitters, depending on how confident the model is that it picked the correct option(s) for the question.
+
+We also plan to:
 - Add descriptions to categories, topics and subtopics
 - Add an alert that lets people know that our prediction is based on similar questions other Veterans have asked in the past
 - Consider adding an additional information component that lets people know what a category, topic and subtopic determine
+- Consider adding a recommended choice when people are given multiple options to select from
 
-Research shows that people want to make a selection and the context of multiple options helps them feel more confident in the correct one. That being said, we also don't want to show people options that the model is not confident in. This approach aims to achieve a balance of providing choice, making it easier to choose and making the decision for you when we're very confident.
+Research shows that people want to make a selection and the context of multiple options helps them feel more confident in which one is correct. That being said, we also don't want to show people options that the model is not confident in. This approach aims to achieve a balance of providing choice, making it easier to choose and making the decision for you when we're very confident.
 
 ## Next steps
 
