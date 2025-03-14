@@ -4,7 +4,7 @@ Date: December 9, 2024
 
 Anne Costello Kennedy, Melissa Stern
 
-\[Research readout\](link here)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5d417b1178c65804d213ac11e79135fa6e36e41c/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2024-11-MR-SM-RX-usability-study/Filter_Readout.pdf)
 
 ## Research Goals
 
