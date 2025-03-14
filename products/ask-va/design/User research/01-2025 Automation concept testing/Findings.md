@@ -256,7 +256,7 @@ People also try to sway the tool away from an incorrect suggestion. Editing thei
 
 ## Further research needed
 
-We need to do further research as we design approaches to category and topic determination, as well as other changes to the form.
+We need to do further research as we develop strategies and technical approaches to category and topic determination and recommending helpful links.
 
 ## Appendix
 
