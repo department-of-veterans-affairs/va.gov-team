@@ -101,6 +101,6 @@ Candidate Address Validation uses the [VA profile address validation API](https:
 
 ## Design and use cases
 
-- [Contact information sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
+- [Contact information sketch files](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=0-1&p=f&t=lEdNqkk7wYZu9pH4-0)
 - [Use case](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md)
-- [User flow](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/AjzYMz/a/L0pm5qL/)
+- [User flow](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=0-1&p=f&t=lEdNqkk7wYZu9pH4-0)
