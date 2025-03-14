@@ -1,6 +1,6 @@
 # IA Design for WEAMS Migration
-**STATUS: [In progress]**
-- 3/14/2025 - MN: Updated to include Yellow Ribbon integration
+**STATUS: [FINAL]**
+- 3/14/2025 - MN: Updated to include Yellow Ribbon integration IA work and finalized based on team's approach
 
 
 **Project info:**
