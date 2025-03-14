@@ -17,3 +17,18 @@ Note: Data will not appear in the following reports until your request for acces
 
 ## Requesting access
 
+- Select https://epas.r02.med.va.gov/submit.cfm?action=select&doc_type=690
+- Select "Create Document" button
+- For Employee Agency, select "OIT"
+- For Employee Type, select "Contractor"
+- For Supervisor, use the Lookup Supervisor function to select Kay Lawyer
+- For Purpose of Use, select "Healthcare Operations"
+- For Data Sources, select VSSC value
+- For Duration of access, select "For the duration of my position"
+- Scroll to the top of the page
+- Select the "VSSC Web Reports" tab
+- Select the checkbox for "National Level Real SSN Access" in relation to VSSC Web Reports
+- Navigate back to the "Request" tab
+- Scroll down and check the Privacy Agreement
+- Select Save and Submit button
+
