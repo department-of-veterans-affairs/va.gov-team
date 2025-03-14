@@ -1688,6 +1688,7 @@ Majority synthesis done post-its
 *Research staff: Courtney and Gina*
 - Participants: 6 to 12
 - Location: Remote?
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/vets-application/research)
 
 #### May 12 and 13 - Vets.gov page template usability testing
 *Research staff: Mary Ann + (Gina?)*
