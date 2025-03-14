@@ -94,5 +94,7 @@ Reach out to ADE accessibility specialists using `@accessibility-de` on [#access
 ### Submit an intake ticket
 To start formally working with ADE accessibility specialists, submit an [intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md) in GitHub.
 
+For research help specifically, submit a [research intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ade-accessibility-research.yaml) in GitHub.
+
 ### Attend ADE office hours
 You can also reach us by attending our weekly office hours on Wednesdays at 3:00 PM Eastern on Zoom. [Sign up for a time slot on Calendly.](https://calendly.com/platform-office-hours/accessibility-office-hours)
