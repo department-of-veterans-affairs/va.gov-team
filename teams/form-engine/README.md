@@ -18,7 +18,7 @@ The VA Digital Form Builder actively contributes toward the following 2025 OCTO 
 - **Supports VA Digitization Modernation** – By leveraging existing VA data and ensuring accessibility compliance, the Form Builder aligns with VA’s goal of improving efficiency and user experience across services.
    -  We have been able to utilize the VA Forms Library components allowing us to maintain accessibility and compliance standards while reducing redundant development efforts.
 
-- **Reduces Costs to Digitize a Form** - By 
+- **Cost Savings ** -  reduces the total cost of digitizing forms by automating tasks, lBy eliminating the need for custom development.
   -  Ou    
 -
 - **Increase Processing Efficiency and Reduce Manual Work** – **Automate** repetitive tasks to decrease administrative burden on VA Staff. VA staff will no longer need to repeatedly enter the same information. This tool will pre-fill known data, reducing errors and saving time.
