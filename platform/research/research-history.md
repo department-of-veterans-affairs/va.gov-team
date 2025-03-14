@@ -1664,7 +1664,7 @@ Majority synthesis done post-its
 *Research staff: Gina, Mary Ann, Laura*
 - Participants: 5
 - Location: Remote
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/research/2016)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/vets-prescriptions/research/vets.gov-prototype)
 
 ### June 2016
 
@@ -1681,7 +1681,7 @@ Majority synthesis done post-its
 *Research staff: Gina*
 - Participants: 2
 - Location: Remote
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/research/2016)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/vets-prescriptions/research/vets.gov-prototype)
 
 
 #### May 25 - HCA Usability testing
