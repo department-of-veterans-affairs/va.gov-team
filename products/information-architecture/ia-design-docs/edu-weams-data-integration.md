@@ -1,4 +1,4 @@
-# IA Design for WEAMS Migration
+# IA Design for WEAMS data integration into GIBCT
 **STATUS: [FINAL]**
 - 3/14/2025 - MN: Updated to include Yellow Ribbon integration IA work and finalized based on team's approach
 
