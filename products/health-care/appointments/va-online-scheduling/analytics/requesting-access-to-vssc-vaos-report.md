@@ -17,6 +17,8 @@ Note: Data will not appear in the following reports until your request for acces
 
 ## Requesting access
 
+Approvals are two rounds: one from Supervisor and another from someone from a work group. It can take about ~3-5 business days to get approved. 
+
 - Select https://epas.r02.med.va.gov/submit.cfm?action=select&doc_type=690
 - Select "Create Document" button
 - For Employee Agency, select "OIT". If that's not an optionl, select "Central Office." 
