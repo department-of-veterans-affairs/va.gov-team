@@ -72,7 +72,7 @@ body:
     description: Please provide the Slack Member ID for the target individual. This is usually in the format of `U12345678` and can be found by right-clicking on the target individual's name in Slack and selecting 'Copy Member ID'.
     placeholder: U12345678
   validations:
-    required: false
+    required: true
 - type: input
   id: team-name
   attributes:
