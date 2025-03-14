@@ -14,14 +14,11 @@ In response to these key usability concerns and anticipating shifting policy nee
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeh_jK71q9rneRc4iTkhpHGb2sxEQq4Zvfl6kHNijVQJZQpfxT5asvMyFbtRcaQrCvckykmyvCc2KvLHA_otvyVgYR61_v567NhYiFUTTO2P6yjoeaB8TquhDs1yg1NLRQzvnybfA?key=ooUGjDJixh3ORSAntFKdCYM_)
 
-Current State: Veterans have to indicate if a condition is new or has gotten worse in the first question of Step 2
+*Current State: Veterans have to indicate if a condition is new or has gotten worse in the first question of Step 2*
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfK4u5-yHFDHguiYvOwH8D5zet2xcEMj7p2xSDM6sY1yHFX63j64A33Td36ntWi3QZkLYbFUki5FcXYeG2R0IGwjdalNw2T7-nkdH2ie6m3J_tXQhwmZjYHcx1e2-R8FYH9aPEHFw?key=ooUGjDJixh3ORSAntFKdCYM_)
 
-Screenshot of PDF 526EZ Form illustrating how paper form does not separate new conditions from CFI
-
-\
-
+*Screenshot of PDF 526EZ Form illustrating how paper form does not separate new conditions from CFI*
 
 
 # Overview
@@ -139,8 +136,7 @@ Currently, when Veterans select "new conditions" or "Claims for Increase" (CFI) 
 One potential solution would be to show Veterans their rated conditions first, and have them submit all CFI, and when done proceed with adding new conditions. To avoid additional clicks, this decision tree suggests the date pages when the user has selected multiple rated conditions are one after another which is a pattern called the “"multi-page aggregate”" pattern found in the current 526EZ cause follow-up questions.
 
 [![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcLvO24QI7ZSObsfl3kbgnIb1n6B2fQZ4Pgu3HLnRhoIRX37jm8LM-nkf63_JI_RoogG5DqB6tKMj-TrPOr8-mtcXjWTGJiR_sUes4Xoq_gLEMhGhd4yDrCvH5X1pH1k-SzvvlOiw?key=ooUGjDJixh3ORSAntFKdCYM_)](https://www.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/\(526ez\)-Condition-information-entry?node-id=2133-18880\&t=NqPPpv7OZgNFaCxG-11)
-
-Path 1 Decision Tree
+*Path 1 Decision Tree*
 
 Pros:
 
@@ -172,8 +168,7 @@ Considerations:
 A second possible solution is to have Veterans view a list of their rated disabilities and indicate if they want to proceed with a CFI, or if none of their conditions have worsened, if they want to proceed with adding a new condition. This pattern would require them to make only one selection at a time. 
 
 [![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjmAK0Jjj2WrH5Q9a61QUzIGCLGZbI6dvLQB_Y_UQBhK-dmLPjDGGKQnsAIjCFfqhtskv2vAUiQnMZSxqrrYlaphEQh-TeArDl5ZixqbHjUD3Zn3__yG9He5uruhOrSiVXcmzp?key=ooUGjDJixh3ORSAntFKdCYM_)](https://www.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/\(526ez\)-Condition-information-entry?node-id=2133-20096\&t=NqPPpv7OZgNFaCxG-11)
-
-Path 2 Decision Tree
+*Path 2 Decision Tree*
 
 Pros:
 
@@ -199,8 +194,7 @@ Considerations:
 A third possible solution is to have Veterans either select from their rated conditions, or enter a new condition to begin with. Veterans could only select one option, so if they select a rated condition they would enter the date worsened and then review. If they selected a new condition, they would add the laterality, then date, then cause, then answer the cause follow-up. They could add conditions in whatever order they decide to (rated, rated, new or new, rated, rated).  Path A considers having users enter new conditions on the same screen as rated, potentially using the autocomplete component, a dropdown or other solution. Path B separates this out onto another screen.
 
 [![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcSqyqxofQLLnTqEjIzm7Awbf00jyAc-XajCiOQwLxLFEPevQZ6QBWsVzPNxoBkTUSGWprOyu_jJSBhzas2vhWBy-754F5uYvu__ic1Rep__b27DtFJUw9hUtIbsz_zThysBs_ABA?key=ooUGjDJixh3ORSAntFKdCYM_)](https://www.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/\(526ez\)-Condition-information-entry?node-id=2133-19617\&t=NqPPpv7OZgNFaCxG-11)
-
-Path 3a Decision Tree
+*Path 3a Decision Tree*
 
 Pros:
 
@@ -234,8 +228,7 @@ Considerations:
 #### Option 3b CFI and New on different pages
 
 [![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd25ura4FOL58VEhdj13ei3v0xAmoQvkniNVwe0EzgYoZQsHWomLVBaLQDKYbk72A4hYn5bTYM5mmQ5ZI0rgGmHzpTIE2UUp6LmwUjoSdnbt8tmYUCmyZQml6RsVTWb7yA51wSt?key=ooUGjDJixh3ORSAntFKdCYM_)](https://www.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/\(526ez\)-Condition-information-entry?node-id=2133-19398\&t=NqPPpv7OZgNFaCxG-11)
-
-Path 3b Decision Tree
+*Path 3b Decision Tree*
 
 Pros:
 
@@ -255,7 +248,7 @@ Pros:
 
   - Provides more flexibility to provide sufficient directions for both the rated disability field and the new conditions field
 
-  - Simplifies required functionality (if decided on a different way to handle the 2 fields on 1 page then the radio with an “Expand Under“ input then the required functionality could be challenging.)
+  - Simplifies required functionality (if decided on a different way to handle the 2 fields on 1 page then the radio with an “Expand Under“ input then the required functionality could be challenging).
 
   - More accessible, because it does not require “Expand Under”, and  because we saw that the Autocomplete alone is complex for Assistive Tech (AT) users.
 
@@ -269,8 +262,7 @@ Considerations:
 A fourth possible solution is to have Veterans begin by entering a condition, then either by manual indication or system detection, the Veteran would select if this was a previously rated or new condition. 
 
 [![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc03GPxx6szJopMXGpJYsPoLhwEruX6YxvUjhm0z-HHphfMmBXfFnXHTUrsc5eSJX7cp_P33-ZJUvbwB1FK7BBdISEp2Y3GowqJZM7UD2mrgQ-Rqx3GHX94MqQZP5SpQxG6kmftzQ?key=ooUGjDJixh3ORSAntFKdCYM_)](https://www.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/\(526ez\)-Condition-information-entry?node-id=2133-20396\&t=NqPPpv7OZgNFaCxG-11)
-
-Path 4 Decision Tree
+*Path 4 Decision Tree*
 
 Pros:
 
