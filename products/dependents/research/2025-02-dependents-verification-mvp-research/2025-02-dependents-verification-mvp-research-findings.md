@@ -181,17 +181,18 @@ _If there are demographics that were not included in this study or you discovere
 
 [Discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-02-dependents-verification-mvp-research/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Dependents%20Management/research/2025%2002%20Dependents%20verification%20MVP%20research?csf=1&web=1&e=tABZyd)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Session notes and synthesis in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738934776556/8d3f69a690a08d5ca1c6fe7b4e0a21c367d52e95?sender=u859fac93c61da901b7914439)
 
+[Task analysis in Slack list](https://dsva.slack.com/lists/T03FECE8V/F08DN1P3J7N)
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[Figma prototype](https://www.figma.com/proto/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?page-id=704%3A13185&node-id=2218-77862&viewport=4550%2C30420%2C0.49&t=wyaR11IBNxWEvS5z-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2041%3A15449&show-proto-sidebar=1)
 
 
 ## Other supporting documents created
@@ -201,7 +202,7 @@ e.g. user flows, personas, etc.
 
 ## Secondary research
 
-Include any secondary research you may have. 
+[Information architecture analysis from CAIA](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717521751866/127cbff63df95bedf011a5463797989197bc069d?sender=u859fac93c61da901b7914439)
 
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
