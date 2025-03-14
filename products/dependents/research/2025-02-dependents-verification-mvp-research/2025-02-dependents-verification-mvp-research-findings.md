@@ -74,7 +74,7 @@ Each participant was shown the following:
 1. Most Veteran’s mental models will match the task to verify or update dependents.
     1. MAYBE TRUE: Veterans could complete the task, but it’s unclear whether participants understood the task's connection to the 8-year mandate. There was also some confusion around what "Update" means in regards to updating dependents in the MVP.
 2. Most Veterans will understand that they must still respond to a paper 21-0538 request after completing the update or verify task on VA.gov (won’t disregard future paper requests)
-    3. LIKELY FALSE: When prompted with receiving a paper 0538 after verifying on VA.gov caused confusion. Participants interpreted the 0538 batch letter as confirmation of verification on VA.gov or were confused/upset that they received this, seeing it as redundant. Many would call the VA to gain clarity.
+     1. LIKELY FALSE: When prompted with receiving a paper 0538 after verifying on VA.gov caused confusion. Participants interpreted the 0538 batch letter as confirmation of verification on VA.gov or were confused/upset that they received this, seeing it as redundant. Many would call the VA to gain clarity.
 4. Veterans will understand the difference between the tasks to verify and update
     1. LIKELY TRUE: Most participants accurately followed the update/verify paths, with 2 even reading the description below the selection header.
 6. Veterans will expect to be able to edit, add, or remove individual dependents quickly
