@@ -197,8 +197,9 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Other supporting documents created
 
-e.g. user flows, personas, etc.
+[Verification MVP proposed flow in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1716382766670)
 
+[Product planning in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1737739381239)
 
 ## Secondary research
 
