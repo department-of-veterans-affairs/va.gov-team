@@ -19,15 +19,17 @@ Note: Data will not appear in the following reports until your request for acces
 
 - Select https://epas.r02.med.va.gov/submit.cfm?action=select&doc_type=690
 - Select "Create Document" button
-- For Employee Agency, select "OIT"
+- For Employee Agency, select "OIT". If that's not an optionl, select "Central Office." 
 - For Employee Type, select "Contractor"
 - For Supervisor, use the Lookup Supervisor function to select Kay Lawyer
 - For Purpose of Use, select "Healthcare Operations"
-- For Data Sources, select VSSC value
+- For Data Sources, select VSSC and CDW values
 - For Duration of access, select "For the duration of my position"
 - Scroll to the top of the page
 - Select the "VSSC Web Reports" tab
 - Select the checkbox for "National Level Real SSN Access" in relation to VSSC Web Reports
+- Navigate to the "CDW Web Reports" tab
+- Selec the checkboxes for CDW_Full, CDW_SPatient, and CDW_SStaff permissions
 - Navigate back to the "Request" tab
 - Scroll down and check the Privacy Agreement
 - Select Save and Submit button
