@@ -1,6 +1,6 @@
 # IA Design for WEAMS Migration
 **STATUS: [In progress]**
-3/14/2025 - MN: Updated to include Yellow Ribbon integration
+- 3/14/2025 - MN: Updated to include Yellow Ribbon integration
 
 
 **Project info:**
@@ -25,7 +25,7 @@ IA support will be focused on the connections between the Comparison Tool and th
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
-- [Launch coordination activities](#launchstuff)
+- [Redirects](#redirects)
 
 
 ## <a name="map"></a>Page structure<br>
@@ -42,55 +42,64 @@ IA support will be focused on the connections between the Comparison Tool and th
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
 
 
-**1) GI Bill Comparison Tool - Existing URL, will hold a different screen**
+**1) GI Bill Comparison Tool landing page - Existing URL, new screen**
 - URL: va.gov/education/gi-bill-comparison-tool
-- Breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool
-- Notes: This URL currently holds the first screen in the Compare Schools search workflow. This same URL should now be used for the new 'landing page' screen. The H1 may be updated to reflect the added information in the tool.
+- Breadcrumb: VA.gov home > Education and training  > [Page H1]
+  - Example breadcrumb: VA.gov home > Education and training > GI Bill Comparison Tool
+- Notes:
+  - This URL currently holds the first screen in the Compare Schools search workflow.
+  - This same URL should now be used for the new 'landing page' screen. The H1 may be updated to reflect the added information in the tool.
 
-**2) School Comparison search - Existing screen at a new URL**
-- URL: va.gov/education/gi-bill-comparison-tool/[TBD by product team]
-- Breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool > [TBD by product team]
-- Notes: This will be the current start screen of the School Comparision tool search flow. It will be moved down one level in the sitemap heirarchy, and will have a new URL and breadcrumb showing it a sub-page of va.gov/education/gi-bill-comparison-tool
+**2) School search - Existing screen, new URL**
+- URL: va.gov/education/gi-bill-comparison-tool/schools-and-employers/
+- Breadcrumb: VA.gov home > Education and training  > [Page H1] > [Page H1]
+  - Example breadcrumb:  VA.gov home > Education and training  > GI Bill Comparison Tool > Search schools and employers
+- Notes:
+  - This will be the start screen of the School Comparision tool search flow.
+  - It will be moved down one level in the heirarchy and will have a new URL and breadcrumb showing it as sub-page of va.gov/education/gi-bill-comparison-tool
 
 **3) Licensing & Certification search - new**
-- URL: va.gov/education/gi-bill-comparison-tool/[TBD by product team]
-- Breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool > [TBD by product team]
-- Notes: New page, for the start of a new search flow. It should be a sub-page of va.gov/education/gi-bill-comparison-tool
+- URL: va.gov/education/gi-bill-comparison-tool/licenses-certifications-and-prep-courses/
+- Breadcrumb: VA.gov home > Education and training  > [Page H1] > [Page H1]
+  - Example breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool > Licenses, certifications and prep courses
+- Notes:
+  - New page, for the start of a new search flow for licenses and certifications data.
+  - It should be a sub-page of va.gov/education/gi-bill-comparison-tool
 
-**4) National Tests data list - new**
-- URL: va.gov/education/gi-bill-comparison-tool/[TBD by product team]
-- Breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool > [TBD by product team]
+**4) National tests data list - new**
+- URL: va.gov/education/gi-bill-comparison-tool/national-exams/
+- Breadcrumb: VA.gov home > Education and training  > [Page H1] > [Page H1]
+  - Example breadcrumb: VA.gov home > Education and training  > GI Bill Comparison Tool > National tests and exams
 - Notes: New page holding list data. It should be a sub-page of va.gov/education/gi-bill-comparison-tool
 
 
 ## <a name="nav"></a>Entry points <br>
 
-### Primary entry point for launch
+### Entry points required for launch
 
-**1) [Education benefit hub page](https://www.va.gov/education/) - Modify**
-- Placement description: Keep the entry point's current placement on the Education hub page. Update the descriptive text to reflect the additional content added into the Comparison Tool.
-- Link label: [TBD by CAIA Content]
-- Link destination: va.gov/education/gi-bill-comparison-tool
-- Who will update (IA, content, product team): CAIA Content
-- When will this entry point go live (after launch? After staged rollout? after some designated time?): After launch
-![weams 2](https://github.com/user-attachments/assets/a48c651f-6459-4a82-8c4e-3307e58026cf)
-
-### Secondary entry points
-_Any additional locations that the page should be navigable from such as the "About a form" page, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc.   These are secondary, and while they are still very important, are not required for launch._
-
-**1. Left Nav - Modifications TBD** - 
-- Placement description: Education left nav, 'More' section
-- Link label: Retain the current location of the left nav item. Text updates TBD if content/meaning of the H1 on va.gov/education/gi-bill-comparison-tool changes significantly. (Updates TBD by CAIA Content). 
-- Link destination: va.gov/education/gi-bill-comparison-tool
-- Who will update (IA, content, product team): CAIA IA
-- When will this entry point go live (after launch? After staged rollout? after some designated time?): After launch
-- Notes: Existing nav item should now link to the Landing page, rather than the School Comparison tool
-![weams 8](https://github.com/user-attachments/assets/b7f236d3-96e8-4465-b0e8-ee7957a5986d)
+**1) [Education benefit hub page](https://www.va.gov/education/)**
+- KEEP the existing "GI Bill Comparison Tool" link label and destination, UPDATE the teaser text to reflect the additional content added into the Comparison Tool.
+- REMOVE the "Find a Yellow Ribbon school" link and teaser text
 
 
-## <a name="launchstuff"></a>Launch coordination activities <br>
+### Post-launch entry points
 
-### Redirects
+**1. Education benefit hub secondary nav** 
+- REMOVE the "Find a Yellow Ribbon school" option from the left nav
+- KEEP the "GI Bill Comparison Tool" link label and placement as is
+
+**2. Benefit hub promo spot**
+- UPDATE the teaser text of the GI Bill Comparison Tool promo spot to reflect the additional content added to the tool
+
+
+### Best bets
+
+**1. GI Bill School Comparison Tool**  
+- UPDATE existing best bet for GIBCT with description and keyword matches that reflect the additional content added into the tool
+- REMOVE the existing best bet in place for the Find a Yellow Ribbon school tool
+
+
+## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. Redirects listed are the responsibility of the product team, please submit a [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=redirect-request.md) at least 2 weeks in advance, so that CAIA IA can verify that the redirects are successful on launch.*  
 
 - Who implements the redirect: EDM team
@@ -98,16 +107,11 @@ _Any additional locations that the page should be navigable from such as the "Ab
 
 Current URL | Redirect to | Notes
 --- | --- | ---
- va.gov/education/gi-bill-comparison-tool/search= | va.gov/education/gi-bill-comparison-tool/[TBD school comparison search] | Set up a redirect that sends former search result URLs to either the new landing page, or the first screen of the School Comparison search flow. This supports users who have previously bookmarked search results.
+www.va.gov/education/gi-bill-comparison-tool/[xxxx] | www.va.gov/education/gi-bill-comparison-tool/[TBD school comparison search] | Team will need to redirects old URLs to new URL structure.  This will ensure that child pages of the tool - which can be indexed in search and bookmarked - redirect visitors to the corrected URL structure and avoid receiving a 404 error. 
+www.va.gov/education/yellow-ribbon-participating-schools/ | www.va.gov/education/gi-bill-comparison-tool/schools-and-employers/| Redirect original yellow ribbon tool URL to the search page of the school comparison tool
 
 
-### Best bets
-*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov.*
 
-**1. GI Bill School Comparison Tool - Modify best bet**  
-CAIA IA will update the current Best Bet, and add description and/or keywords that highlight that National Tests and Licensing & Certification data is now available in the Comparison Tool.
-- Who implements the redirect: CAIA IA
-- When does the Best Bet get updated: After launch
 
 <hr>
 
