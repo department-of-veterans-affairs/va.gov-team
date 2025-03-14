@@ -6,7 +6,7 @@ Last updated by @tygindraux on March 13, 2025
 
 ## Overview
 
-Ask VA currently requires submitters to choose a category, topic and subtopic [[1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Category%2C%20topic%20and%20subtopic%20labels.md)]. This determines which routing queue to assign a question.
+Ask VA currently requires submitters to choose a category, topic and subtopic [[1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Category%2C%20topic%20and%20subtopic%20labels.md)]. These fields determine which conditional questions a submitter needs to answer in the form. And contribute to determining which routing queue to assign a question.
 
 Despite making content changes so these labels are more consistent with content on VA.gov, we still find that choosing a category, topic and subtopic is not easy for submitters. We know that people find it easier to choose from shorter lists [[2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form/Findings.md#finding-3-people-seek-a-specific-category-and-topic-and-they-would-find-it-easier-to-choose-from-shorter-lists)]. We also know that similar contact experiences on other websites only ask for a category and sometimes a topic, or neither [[3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#ask-va-is-type-1)].
 
@@ -21,11 +21,11 @@ In 2024, Ask VA started an initiative to build and train a natural language proc
 To build on this work, we recently conducted user research to understand how an NLP model should surface predictions to submitters [[7](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Research%20plan.md)].
 
 Among other insights, we learned that [[8](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Findings.md#key-findings)]:
-- Part of a secure support experience is knowing who you're contacting.
 - It's reasonable to suggest categories based on other similar questions that Veterans have asked in the past.
 - People prefer choosing from a list of narrow options, rather than the tool jumping to a conclusion right away.
 - While people are good at identifying if a suggestion is wrong, it's difficult to choose the correct category or topic from a list.
 - Categories and topics often don't match what people expect or they require further description.
+- Part of a secure support experience is knowing who you're contacting.
 
 These insights can shape our approach to leveraging an NLP model now and later.
 
