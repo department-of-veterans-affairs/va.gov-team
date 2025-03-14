@@ -1,136 +1,144 @@
 name: AWS Access Request
 description: To request access to AWS
 title: AWS access for [individual]
-labels: ['external-request', 'operations', 'ops-access-request']
+labels: [ 'external-request', 'operations', 'ops-access-request' ]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        :wave: **_Instructions_**
-        1. Before being granted access, the individual for whom access is requested (the 'target individual') must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed as a team member in [Atlas](https://www.va.gov/atlas/product_directory/team_members)
-        2. Change the **Title** to include target individual
-        3. Add the label used by the target individual's team (eg: `BAH-526`)
-        4. Validate that your E-QIP process has been started with your Vendor Onboarding Representative (listed below in a dropdown) and **attach** a screenshot of your E-QIP Transmittal Confirmation. If you have not started your E-QIP process, do NOT put in a request.
-        5. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
-        6. When the issue is closed you will be notified and can continue with on-boarding setup
-  - type: dropdown
-    id: cor-name
-    attributes:
-      label: COR Name
-      description: The name of the Contracting Officer's Representative (COR) covering the target individual.
-      options:
-        - Cecila Lee
-        - Courtney Bethea
-        - Crystal Moultrie
-        - Doris Lin
-        - Vilay Senthep
-        - Eunice Garcia
-        - Delano McVay
-        - Jennifer O'Day
-        - Laurene "Reney" Cook
-        - Rolanda Copeland
-        - Other - please specify in 'Additional Notes'
-    validations:
-      required: true
-  - type: dropdown
-    id: vendor
-    attributes:
-      label: Vendor Onboarding Representative Name
-      description: This is the person from the contracting company responsible for the onboarding process of the target individual.
-      options:
-        - Oddball - Amber Malcolm
-        - Insignia - Kimberly S. Cole
-        - Agile Six - Anthony M. Arashiro
-        - GovernmentCIO - Kimberly O. West
-        - Magnum Opus - Paula G. Mendoza
-        - Liberty IT -  Michael G. Lovejoy
-        - Accenture Federal Services - Alexa Elliot
-        - Coforma - Jeff Langworthy
-        - Other - please specify in 'Additional Notes'
-    validations:
-     required: true
-  - type: input
-    id: requestor-name
-    attributes:
-      label: Your Name
-      description: Please provide the name of the target individual
-      placeholder: Jane Doe
-    validations:
-      required: true
-  - type: input
-    id: email
-    attributes:
-      label: Your Email
-      description: Please provide the work email for the target individual
-      placeholder: jane.doe@company.com
-    validations:
-      required: true
-  - type: input
-    id: team-name
-    attributes:
-      label: Team, Role, and Company of the target individual
-      description: Please provide the name of the team, their role on that team, and the name of the company the target individual works for
-      placeholder: Team Moose, Antler Development, Alces LLC
-    validations:
-      required: true
-  - type: input
-    attributes:
-      label: Product Manager (PM) name and email
-      description: Provide the name and email of the Product Manager working with the target individual
-    validations:
-      required: true
-  - type: input
-    attributes:
-      label: Product Owner (PO) name and email
-      description: Provide the name and email of the Product Owner for the target individual
-    validations:
-      required: true
-  - type: textarea
-    id: aws-access
-    attributes:
-      label: Desired AWS Access
-      description: Please list which resources (bucket names, parameter store paths, EC2 instance name, etc.) and which type of access is requested. Explicitly list which type(s) of access are needed for which resources and keep these scopes as small/tight as possible. If there is a teammate whose permissions should be copied, please list their name.
-      placeholder: I need access to S3 to read uploaded files from the /tools-team/uploads bucket.
-  - type: input
-    id: expiration-date
-    attributes:
-      label: Access Expiration
-      description: The requested access will be revoked at the start of this date. Enter a date (and time if applicable) or 'ongoing' for non-expiring access. If ongoing is selected, add a justification for this to the 'Additional Notes' field.
-      placeholder: timestamp
-    validations:
-      required: true
-  - type: textarea
-    attributes:
-      label: E-QIP Transmittal Confirmation
-      description: |
-        :warning:**NOTE: Do not submit PDF copies of your E-QIP document! These usually contain your social security number and other PII**:warning:
-      placeholder: Drag your transmittal confirmation EMAIL screenshot here. This should contain the words "Transmittal Notice" in the subject. If it doesn't, your E-QIP has not begun processing on the VA side.
-    validations:
-      required: true
-  - type: textarea
-    id: additional-notes
-    attributes:
-      label: Additional Notes
-      description: Use this section to add notes, such as justification for the access request, COR/VOR information when 'Other' was selected, etc.
-      placeholder: I need this access because of <reason>
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: All done! :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
-        For Rails console vets-api ArgoCD terminal access, fill out [this access request form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Cplatform-tech-team-support%2Cops-access-request&projects=&template=vetsapi-argo-terminal-access.yaml&title=Vets-api+terminal+access+for+%5Bindividual%5D).
-        For SOCKS access, open a [SOCKS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=socks-access-request.yml&title=SOCKS+access+for+%5Bindividual%5D).
-        If you need additional infrastructure, please use [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
-        :x: Don't fill out anything below here :x:
-  - type: checkboxes
-    attributes:
-      label: "User must exist in a roster before AWS access can be granted. See [AWS access documentation](https://vfs.atlassian.net/wiki/spaces/OT/pages/1792114735/Onboard+New+Team+Members+Granting+Access+to+Internal+Tools#AWS-Access-Request) for the steps involved."
-      description: Don't fill this part out, please
-      options:
-      - label: "Search for VFS team member in [Atlas](https://www.va.gov/atlas/product_directory/team_members)"
-      - label: "Or search for user on the [Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
-      - label: "If user is on a VFS team but not a team member in Atlas, add the 'NOT YET' label and instruct them to start the [Platform orientation process](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html)"
-      - label: "If a user is on a Platform team but not on the Platform Team Roster in Confluence, add the 'NOT YET' label and instruct them to reach out to their Product Manager to be added."
-      - label: "Comment in this issue saying which roster the user is listed in."
-      - label: |
-          :warning: Is production access being requested or extended? Be sure to communicate to the Tier 1 Team that they need to set a reminder for the access expiration :warning:
+- type: markdown
+  attributes:
+    value: |
+      :wave: **_Instructions_**
+      1. Before being granted access, the individual for whom access is requested (the 'target individual') must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed as a team member in [Atlas](https://www.va.gov/atlas/product_directory/team_members)
+      2. Change the **Title** to include target individual
+      3. Add the label used by the target individual's team (eg: `BAH-526`)
+      4. Validate that your E-QIP process has been started with your Vendor Onboarding Representative (listed below in a dropdown) and **attach** a screenshot of your E-QIP Transmittal Confirmation. If you have not started your E-QIP process, do NOT put in a request.
+      5. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
+      6. When the issue is closed you will be notified and can continue with on-boarding setup
+- type: dropdown
+  id: cor-name
+  attributes:
+    label: COR Name
+    description: The name of the Contracting Officer's Representative (COR) covering the target individual.
+    options:
+    - Cecila Lee
+    - Courtney Bethea
+    - Crystal Moultrie
+    - Doris Lin
+    - Vilay Senthep
+    - Eunice Garcia
+    - Delano McVay
+    - Jennifer O'Day
+    - Laurene "Reney" Cook
+    - Rolanda Copeland
+    - Other - please specify in 'Additional Notes'
+  validations:
+    required: true
+- type: dropdown
+  id: vendor
+  attributes:
+    label: Vendor Onboarding Representative Name
+    description: This is the person from the contracting company responsible for the onboarding process of the target individual.
+    options:
+    - Oddball - Amber Malcolm
+    - Insignia - Kimberly S. Cole
+    - Agile Six - Anthony M. Arashiro
+    - GovernmentCIO - Kimberly O. West
+    - Magnum Opus - Paula G. Mendoza
+    - Liberty IT -  Michael G. Lovejoy
+    - Accenture Federal Services - Alexa Elliot
+    - Coforma - Jeff Langworthy
+    - Other - please specify in 'Additional Notes'
+  validations:
+    required: true
+- type: input
+  id: requestor-name
+  attributes:
+    label: Your Name
+    description: Please provide the name of the target individual
+    placeholder: Jane Doe
+  validations:
+    required: true
+- type: input
+  id: email
+  attributes:
+    label: Your Email
+    description: Please provide the work email for the target individual
+    placeholder: jane.doe@company.com
+  validations:
+    required: true
+- type: input
+  id: slack
+  attributes:
+    label: Your Slack Member ID
+    description: Please provide the Slack Member ID for the target individual. This is usually in the format of `U12345678` and can be found by right-clicking on the target individual's name in Slack and selecting 'Copy Member ID'.
+    placeholder: U12345678
+  validations:
+    required: true
+- type: input
+  id: team-name
+  attributes:
+    label: Team, Role, and Company of the target individual
+    description: Please provide the name of the team, their role on that team, and the name of the company the target individual works for
+    placeholder: Team Moose, Antler Development, Alces LLC
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Product Manager (PM) name and email
+    description: Provide the name and email of the Product Manager working with the target individual
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Product Owner (PO) name and email
+    description: Provide the name and email of the Product Owner for the target individual
+  validations:
+    required: true
+- type: textarea
+  id: aws-access
+  attributes:
+    label: Desired AWS Access
+    description: Please list which resources (bucket names, parameter store paths, EC2 instance name, etc.) and which type of access is requested. Explicitly list which type(s) of access are needed for which resources and keep these scopes as small/tight as possible. If there is a teammate whose permissions should be copied, please list their name.
+    placeholder: I need access to S3 to read uploaded files from the /tools-team/uploads bucket.
+- type: input
+  id: expiration-date
+  attributes:
+    label: Access Expiration
+    description: The requested access will be revoked at the start of this date. Enter a date (and time if applicable) or 'ongoing' for non-expiring access. If ongoing is selected, add a justification for this to the 'Additional Notes' field.
+    placeholder: timestamp
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: E-QIP Transmittal Confirmation
+    description: |
+      :warning:**NOTE: Do not submit PDF copies of your E-QIP document! These usually contain your social security number and other PII**:warning:
+    placeholder: Drag your transmittal confirmation EMAIL screenshot here. This should contain the words "Transmittal Notice" in the subject. If it doesn't, your E-QIP has not begun processing on the VA side.
+  validations:
+    required: true
+- type: textarea
+  id: additional-notes
+  attributes:
+    label: Additional Notes
+    description: Use this section to add notes, such as justification for the access request, COR/VOR information when 'Other' was selected, etc.
+    placeholder: I need this access because of <reason>
+- type: markdown
+  attributes:
+    value: |
+      ---
+      :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: All done! :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
+      For Rails console vets-api ArgoCD terminal access, fill out [this access request form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Cplatform-tech-team-support%2Cops-access-request&projects=&template=vetsapi-argo-terminal-access.yaml&title=Vets-api+terminal+access+for+%5Bindividual%5D).
+      For SOCKS access, open a [SOCKS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=socks-access-request.yml&title=SOCKS+access+for+%5Bindividual%5D).
+      If you need additional infrastructure, please use [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
+      :x: Don't fill out anything below here :x:
+- type: checkboxes
+  attributes:
+    label: "User must exist in a roster before AWS access can be granted. See [AWS access documentation](https://vfs.atlassian.net/wiki/spaces/OT/pages/1792114735/Onboard+New+Team+Members+Granting+Access+to+Internal+Tools#AWS-Access-Request) for the steps involved."
+    description: Don't fill this part out, please
+    options:
+    - label: "Search for VFS team member in [Atlas](https://www.va.gov/atlas/product_directory/team_members)"
+    - label: "Or search for user on the [Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
+    - label: "If user is on a VFS team but not a team member in Atlas, add the 'NOT YET' label and instruct them to start the [Platform orientation process](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html)"
+    - label: "If a user is on a Platform team but not on the Platform Team Roster in Confluence, add the 'NOT YET' label and instruct them to reach out to their Product Manager to be added."
+    - label: "Comment in this issue saying which roster the user is listed in."
+    - label: |
+        :warning: Is production access being requested or extended? Be sure to communicate to the Tier 1 Team that they need to set a reminder for the access expiration :warning:
