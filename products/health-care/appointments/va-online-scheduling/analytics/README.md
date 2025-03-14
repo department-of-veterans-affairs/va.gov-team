@@ -140,6 +140,9 @@ _This information might be out of date:_<br/><br/>
 [VSSC Reports](https://reports.vssc.med.va.gov/ReportServer/Pages/ReportViewer.aspx?/Access/VA+Online+Scheduling&rs:Command=Render)
 - Clinic information: https://app.powerbigov.us/groups/me/apps/741625e9-a049-4f8e-a424-d13c7a723da7/reports/1e199d02-3cc6-4d5c-8caa-9a5a41bb4214/ReportSection4359bd0f5e2440101126?bookmarkGuid=Bookmark1e0e849bfb8edae90d32
 ---
+[Understanding VSSC VAOS Reports in PowerBI
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/analytics/requesting-access-to-vssc-vaos-report.md)
+
 [User Feedback Sharepoint Folder](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FAppointments%2FUser%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac)
 
 **Other Sources:**  Loki, Domo, Continuous research with Veterans, Medallia Feedback, Research equity tracker.
