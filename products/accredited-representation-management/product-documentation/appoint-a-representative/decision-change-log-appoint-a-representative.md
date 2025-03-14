@@ -1,3 +1,4 @@
+
 # Decision and Change Log: Appoint a Representative
 
 This document is actively maintained by Product Manager, Lindsay Li-Smith, and updates are made every Friday.
@@ -70,3 +71,6 @@ _Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https:
   _Decided in the Accredited Reps Crew Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F06H1TS0GBZ?focus_section_id=temp:C:IdV9887da248f544e67a28e669f3))._
 - **3/3/2025**: Decided an email notification is not required, when a POA request is cancelled due to the submission of a new POA request.\
   _Confirmed by Product Manager, Lindsay Li-Smith ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1741039243600519))._
+- **3/11/2025**: Decided not to change our approach, despite the possible PII concern that first name and email address are being passed along. Instead, we'll wait for VA Notify to implement a new model/DB and will update our code to use that when it's ready.\
+  _Decided in the ARM Leadership Sync ([Meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD32b5d621ac8e4f4e97dcd3a7e))._
+
