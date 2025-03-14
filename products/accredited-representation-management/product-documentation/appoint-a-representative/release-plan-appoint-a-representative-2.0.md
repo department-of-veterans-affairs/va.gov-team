@@ -6,8 +6,8 @@ Feature Toggle/flag:
 This feature toggle is setup for authenticated users and we can also enable early access in Production to individual users, via email address.
 
 #### Go/No Go meeting TBD
-- [ ] Test the 2.0 flow in Production
-- [ ] Review the release plan
+- [x] Test the 2.0 flow in Production
+- [x] Review the release plan
 - [ ] Determine a verdict
 
 **Verdict:TBD**
@@ -18,15 +18,15 @@ This feature toggle is setup for authenticated users and we can also enable earl
 - Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed below)
 
 #### Platform Preparation
-- [ ] All "launch blocking" items from Staging Review have been addressed
-- [ ] All "Before release" items have been addressed
+- [x] All "launch blocking" items from Staging Review have been addressed
+- [x] All "Before release" items have been addressed
 - [x] Contact Center Review is submitted 
 - [x] Privacy, Security, IA Readiness Review is complete
 
 #### Technical Preparation
 The following will take place right before Staged Rollout:
 - [x] Enable digital submissions for Connecticut Department of Veterans Affairs in Production [#101542](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101542)
-- [ ] Enable Appoint v2 email notifications in VA Notify Production [#101050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101050)
+- [x] Enable Appoint v2 email notifications in VA Notify Production [#101050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101050)
 - [x] Email notification for POA acceptance is ready in Production (Confirm with Lighthouse)
 
 #### Rollout date: March 18, 2025 @ 1pm ET
