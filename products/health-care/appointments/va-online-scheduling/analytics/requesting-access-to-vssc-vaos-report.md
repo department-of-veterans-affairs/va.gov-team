@@ -21,7 +21,7 @@ Approvals are two rounds: one from Supervisor and another from someone from a wo
 
 - Select https://epas.r02.med.va.gov/submit.cfm?action=select&doc_type=690
 - Select "Create Document" button
-- For Employee Agency, select "OIT". If that's not an optionl, select "Central Office." 
+- For Employee Agency, select "OIT". If that's not an option, select "Central Office." 
 - For Employee Type, select "Contractor"
 - For Supervisor, use the Lookup Supervisor function to select Kay Lawyer
 - For Purpose of Use, select "Healthcare Operations"
