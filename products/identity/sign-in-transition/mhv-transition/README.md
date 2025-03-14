@@ -72,6 +72,7 @@ Between July 2024 and March 2025, VA engaged in an organization-wide campaign to
 - [GH Folder: Sign in transition](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-08%20Sign%20in%20transition)
 - [Research Repo Ticket: Sign in transition](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/2?filterQuery=&pane=issue&itemId=77753830)
 - [Enjoy HQ project: Sign in transition](https://app.enjoyhq.com/projects/QwXlGYvnK/plan)
+- [Edge Case Catalog](https://dvagov.sharepoint.com/:x:/r/sites/identity-mo-team/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Baa308d27-bf17-4f43-850a-12e335fc8fc5%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1735303575172&web=1)
 
 ### Design
 - [User flow iterations - Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1724333905063/6c6192d24519142a244970b2db83539d4c2b1b2e)
