@@ -1,37 +1,41 @@
-# IA Design for WEAMS Migration of National Tests and Licensing & Certification data
+# IA Design for WEAMS Migration
 **STATUS: [In progress]**
+3/14/2025 - MN: Updated to include Yellow Ribbon integration
 
+
+**Project info:**
 - Team: EDM Team - Cassidy Beach (PM), Theresa Simone (PM), Sneha Kulkarni (UX) Jenn Drahota (BA)
 - CAIA IA: Sam Walker
-
-- CAIA Intake ticket: [92369](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92369); IA Tracker: [95208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95208); CC Intake: [90889](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90889); Figma design files: [Desktop](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=72-1228&node-type=canvas&t=etnWBEfJkurm6JoP-0), [Licensing & Certification on mobile](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=1122-38781&node-type=canvas&t=JDAGEOPE8D1fFZwJ-0), [Search results on mobile
+- Tickets:
+  - CAIA Intake ticket: [92369](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92369)
+  - IA Tracker: [95208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95208);
+- [IA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1729183095781/13879f018516bd9dd354f278919b5a9c101a0f1f?wid=136-1729183109815).
+- Figma design files: [Desktop](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=72-1228&node-type=canvas&t=etnWBEfJkurm6JoP-0), [Licensing & Certification on mobile](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=1122-38781&node-type=canvas&t=JDAGEOPE8D1fFZwJ-0), [Search results on mobile
 ](https://www.figma.com/design/xAydfsAlVVmhnFQA9MkeYw/Design-for-WEAMS-Public-in-CT-%26-SOB?node-id=2273-321672&node-type=canvas&t=XqMTcBSnWK9UgZfB-0)
 
 
+IA support will be focused on the connections between the Comparison Tool and the rest of va.gov, but will not be providing feedback on IA within the tool or sub-pages. Please reference the following guidelines for design/content/IA decisions inside the tool:
+- All content, data, new functionality, and child pages holding WEAMS data must be built on, or as sub-pages of, the current Comparison Tool parent url of https://www.va.gov/education/gi-bill-comparison-tool.
+- How sub-pages under that parent URL are structured is up to the product team.
+- Follow VADS standards for all [URLs](https://design.va.gov/components/url-standards/), [breadcrumbs](https://design.va.gov/components/breadcrumbs), [page titles](https://design.va.gov/content-style-guide/page-titles-and-section-titles).
+- Every page created must have a clear entry point - a way for visitors to navigate to the page through links and navigation components. Pages cannot be reachable only via search.
+- Key SEO elements - page titles and intro text - should be differentiated from other pages in the Education hub. For example, do not create a sub-page of the comparison tool named "Education benefits management".
+
 **On this page:**
-- [Guidelines for IA within the Comparison Tool](#guidelines)
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
 - [Launch coordination activities](#launchstuff)
 
 
-## <a name="ruidelines"></a>Guidelines for IA within the Comparison Tool<br>
-On this project, CAIA IA support will be focused on the connections between the Comparison Tool and the rest of va.gov. We are not able to support IA and Content decisions within the tool Landing page or sub-pages. Please reference the following guidelines for design/content/IA decisions inside the tool:
-- All content, data, new functionality, and child pages holding WEAMS data must be built on, or as sub-pages of, the current Comparison Tool parent url of https://www.va.gov/education/gi-bill-comparison-tool.
-- How sub-pages under that parent URL are structured is up to the product team.
-- Follow VADS standards for all [URLs](https://design.va.gov/components/url-standards/), [breadcrumbs](https://design.va.gov/components/breadcrumbs), [page titles](https://design.va.gov/content-style-guide/page-titles-and-section-titles).
-- Every page created must have a clear entry point - a way for visitors to navigate to the page through links and navigation components. Pages cannot be reachable only via search.
-- Key SEO elements - page titles and intro text - should be differentiated from other pages in the Education hub. For example, do not create a sub-page of the comparison tool named "Education benefits management".
-  
-
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map).*
 
-Up-to-date diagrams can be found on [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1729183095781/13879f018516bd9dd354f278919b5a9c101a0f1f?wid=136-1729183109815).
+- The team will maintain the existing URL - https://www.va.gov/education/gi-bill-comparison-tool/ - as the primary landing page for the expanded comparison tool.
+- The existing comparison tool will move down a level in the hieararchy to nest under the landing page
+- New pages to support licensing and certifications and the national test data will also be sub-pages under the landing page
 
-All data and flows migrated into the Comparison Tool must be located at the current https://www.va.gov/education/gi-bill-comparison-tool or on sub-pages of that URL. The new 'Landing page' will be placed at the existing URL, and the School Comparison will be moved to a sub-page. The new Licensing & Certification data and National Test data will also each have a sub-page.
-![weams 5](https://github.com/user-attachments/assets/3610e476-49c1-42ef-b4d6-2ddeeabd2d62)
+![image](https://github.com/user-attachments/assets/ffe219cf-ffc8-45ee-be6e-60a95360c000)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
