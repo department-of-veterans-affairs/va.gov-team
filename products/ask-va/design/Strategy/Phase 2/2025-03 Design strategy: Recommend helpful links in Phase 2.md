@@ -18,7 +18,7 @@ We have an opportunity to improve how quickly we attempt to answer a submitter's
 
 There are two ways we can improve how quickly someone gets help through Ask VA:
 - shorten the amount of time it takes for an agent to reply back
-- and/or offer help in real time.
+- and/or offer automated help in real time.
 
 Reviewing contact experiences on other websites highlighted ways that Ask VA could become a more supportive contact experience through providing help in real time [[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md#insights)]. Rather than focusing on letting someone submit a question to VA, our focus could shift towards guiding someone to an answer. We hypothesize that if we can provide helpful information while someone is filling out the form, they could reach resolution sooner, thereby improving satisfaction with Ask VA overall.
 
