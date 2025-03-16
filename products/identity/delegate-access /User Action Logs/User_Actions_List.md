@@ -30,7 +30,7 @@ A pattern to write and scale event types and event descriptions for user action 
 {{ User action }} {{ Resource accessed or updated }} {{ Specific form, document, or benefit }}
 
 ### Examples
-- Add  direct deposit  for pension and disability
+- Add  direct deposit  for pension
 - Submit VA Form 21-10210 Lay/Witness Statement
 - Sign in on VA.gov
 
