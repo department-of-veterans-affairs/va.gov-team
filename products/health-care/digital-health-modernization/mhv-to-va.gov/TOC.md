@@ -69,14 +69,14 @@
         * [JIRA Epic](https://jira.devops.va.gov/browse/MHV-62179)
     * Collab Cycle Tickets
         * Open
-          - March Milestone! [Landing Page/Navigation Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90137)
-          - March Milestone! [Signature Settings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102012) 
           - [Filter Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90138)
           - [Oracle Health Curated List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102015)
           - [Plain Language Triage Group](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89985)
         * Closed
           - [Secure Messaging Initial Launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51115)
           - [Contact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90850)
+          - [Landing Page/Navigation Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90137)
+          - [Signature Settings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102012) 
     * Documentation
     * Figma
         * Links to Designs
