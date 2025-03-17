@@ -92,15 +92,16 @@ Each participant was shown the following:
 
 2. **Several participants (6 of 10 from the email and 3 of 10 from the VA.gov experience) indicated that they would not need to take action beyond confirming that their dependents are correct** to verify. This poses a risk of abandonment before Veterans complete the verification task and potentially calls for more transparency around the 8-year mandate and other benefits to the Veterand beyond avoiding the risk of overpayments. 
 
-3. **Some particpants were confused by existing language on the Your VA Dependents page**. Of the participants prompted to review the sections "Dependents on your VA Benefits" and "Dependents not on your VA Benefits," 2 of 7 were caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected. 
+3. **There are several points in the designs that showed the potential to hinder participants from completing their verification and update tasks.**
+   1. **Some particpants were confused by existing language on the Your VA Dependents page**. Of the participants prompted to review the sections "Dependents on your VA Benefits" and "Dependents not on your VA Benefits," 2 of 7 were caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected. 
 
-4. Finding four
+5. Finding four
 
-5. Finding five
+6. Finding five
 
-6. Finding six
+7. Finding six
 
-7. Finding seven
+8. Finding seven
 
 
 ## Details of Findings 
