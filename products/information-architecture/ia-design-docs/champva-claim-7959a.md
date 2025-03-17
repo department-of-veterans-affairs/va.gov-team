@@ -1,10 +1,12 @@
 # IA Design for CHAMPVA Claim Form 7959a
 **STATUS: Draft**
+- 3/17/2025 - MN: Updates to structure of content, URLs, breadcrumbs end entry points
 
+  
 **Team:** IVC Forms
 
 **On this page:**
-- [User/page flows](#flows)
+- [Navigation/page flows](#flows)
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
@@ -13,16 +15,19 @@
 - [Staged Rollout](#stagedrollout)
 
 
-## <a name="flows"></a>User/page flows <br>
-See most up-to-date user flow in mural [here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702677961676/13148d7aadd948a857eaa8fe5e04f6a9b09c3f9e?sender=ua67f17f1c416a96ea04d2476). 
-![Screenshot 2024-05-30 at 12 17 39 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/27fa43d5-6e75-47cb-8a53-1d8fcf6c38aa)
+## <a name="flows"></a>Navigation/page flows <br>
+*Illustration and/or description of how users will navigate to and flow through the experience for all impacted visitors typies. This helps identify key entry points and findability requirements, user flow scenarios, and content/messaging needs across various scenarios.*
+
+![image](https://github.com/user-attachments/assets/2b237d4b-05b7-4087-950f-290eaa40da89)
 
 
 ## <a name="map"></a>Page structure<br>
-The CHAMPVA claim form will live under 'healthcare and disability', NOT under CHAMPVA. This is because it's a manage task, rather than a 'get' task, and our V1 of the family member hub will only include get tasks. It will be linked to from content pages (both CHAMPVA general content and the 'Do I need to file a claim' R+S page). 
+*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
-![Screenshot 2024-05-29 at 1 55 17 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/9df3bfb8-810b-4674-8ea1-c53742734ab2)
+- The existing [CHAMPVA benefit page](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/) will serve as the parent page to all information and tasks related to the CHAMPVA program.
+- Child pages of the CHAMPVA benefit page will include the application form, the OHI form, and the claim form.
 
+![image](https://github.com/user-attachments/assets/7c3ac1f4-32e2-441d-8c98-c2bddbb3c80d)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
