@@ -92,7 +92,7 @@ Each participant was shown the following:
 
 2. **Several participants (6 of 10 from the email and 3 of 10 from the VA.gov experience) indicated that they would not need to take action beyond confirming that their dependents are correct** to verify. This poses a risk of abandonment before Veterans complete the verification task and potentially calls for more transparency around the 8-year mandate and other benefits to the Veterand beyond avoiding the risk of overpayments. 
 
-3. Finding three
+3. **Some particpants were confused by existing language on the Your VA Dependents page**. Of the participants prompted to review the sections "Dependents on your VA Benefits" and "Dependents not on your VA Benefits," 2 of 7 were caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected. 
 
 4. Finding four
 
@@ -136,19 +136,21 @@ This poses a risk of abandonment for the verification path. This may be remedied
 
 > _Supporting data: "If nothing has changed, [I would] close everything out." (P3, from Your VA Dependents)_
 
-> _Supporting data: "[I'm looking for] any changes in marriage or dependents' status." (P9)
+> _Supporting data: "[I'm looking for] any changes in marriage or dependents' status." (P9)_
 
-**Finding 3**
+**3. The sectoins "Dependents on your VA beneftis" and "Dependents not on your VA benefits" could be more clear**
 
-Labels: label 1, label 2 
+Labels/Keywords: RESRCH: Comprehension testing; Dependents; PRDT: Content
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+2 of 7 participants who were prompted to review the sections "Dependents on your VA beneftis" and "Dependents not on your VA benefits" were caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. Another was confused about why they were seeing dependents not on their benefits at all or why they were still referred to as "Dependents" if they were not eligible to be on the participant's benefits. One was confused as to why they saw dependents not connected to their benefits listed here at all. 
 
-Brief description
+Participants suggested they'd like more information around what benefits are being referred to in the copy, why the specific dependents listed are on or not on the Veteran's benefits, and what can be done to reconnect dependents who are not on their benefits if eligible. 
 
-> _Supporting data: Quote here_
+If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected. We may also link out to eligibility requirements or other information on what actions can be taken to bring disconnected dependents back onto the Veteran's benefits. 
 
-> _Supporting data: Quote here_
+> _Supporting data: "This...one is throwing me off" (P3)_
+
+> _Supporting data: "There's no way to know why this dependent is not on your benefits." (P6)_
 
 
 ## Additional Insights
