@@ -1,11 +1,11 @@
 # 10-10CG Endpoint Monitoring Playbook
 
-_last updated: 01-07-2025_
+_last updated: 03-17-2025_
 
 ## Overview
 
 - This document outlines the current monitors in effect for the 10-10CG to ensure we capture errors, failures and potential patterns of inconsistent activity. Each monitor has the steps listed to follow in addressing, triaging and implementing a solution, as well as notifying all required stakeholders.
-
+- [ZSF Dashboard](https://vagov.ddog-gov.com/dashboard/w4w-uc4-u6u/10-10-health-apps---zsf?fromUser=true&refresh_mode=paused&from_ts=1741505356000&to_ts=1742244634000&live=false)
 ## Audience
 
 - Team members responding to [Datadog monitor alerts](https://vagov.ddog-gov.com/monitors/manage?q=1010ez&order=desc).
