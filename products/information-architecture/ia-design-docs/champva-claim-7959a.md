@@ -1,5 +1,5 @@
 # IA Design for CHAMPVA Claim Form 7959a
-**STATUS: Draft**
+**STATUS: Final**
 - 3/17/2025 - MN: Updates to structure of content, URLs, breadcrumbs end entry points
 
   
