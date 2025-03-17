@@ -34,7 +34,7 @@ A pattern to write and scale event types and event descriptions for user action 
 - Submit VA Form 21-10210 Lay/Witness Statement
 - Sign in on VA.gov
 
-## How to write identifiers (draft)
+## How to write identifiers 
 ### Guidelines
 - Describe the user action taken and the type of resource accessed or updated.
 - Include enough information to identify the related form, document, or benefit.
@@ -55,7 +55,7 @@ User actions prioritized for the MVP
 
 
 
-|   Event type    |                   Event description                    |       Identifier (draft)    |
+|   Event type    |                   Event description                    |       Identifier    |
 | :-------------- | :----------------------------------------------------- | :------------------- |
 | Sign-in         | Sign in {{ on VA.gov }}                                | sign_in              |
 |                 | Verify identity* {{ on ID.me }}                        | verify_identity      |
