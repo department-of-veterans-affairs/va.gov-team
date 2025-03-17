@@ -4,6 +4,80 @@
  - Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Rachel Pope, Renata Keck, Andrea Merril, Mike Mooney, Amanda Klaumeiser
      - ### Agenda Topics
       	- UX roadmap
+      	- Review the OHI subtask screens for the standalone form
+      	- Review the latest OHI/ 1010 merge changes
+      	- Review FMP direct deposit changes on the Claims forms
+      	- Review the gathered stakeholder research for supporting doc and discuss open questions
+   - ### Notes
+	- UX roadmap
+ 		- Claims Resubmissions
+   			- Are we looking at CHAMPVA Enrollments resubmissions as well?
+      			- Premal has seen Veterans talk about resubmitting the 1010d application in Reddit.
+         		- How often do we see this happening?Want to know the numbers of resubmitted applications (in the past month, 550 people have resubmitted applications online)
+           		- How does this affect the backlog? Let's ask our CHAMPVA partners about this. It might be a simple content change. 
+
+ 		- Action Items:
+   			- Get more numbers on resubmission. Michael has some data on the CHAMPVA duplicate applications.
+      			- Create a ticket for 1010d application resubmission and add to resubmission initiative in UX roadmap \
+
+
+	- CHAMPVA application conversion rates
+ 		- [From numbers from Luis](https://dsva.slack.com/archives/C08EA85SHE2/p1741967208107579): form completion rates are around 30%. What is the industry standard? This sounds low and we could do better (we can ask across OCTO, but healthcare apps is around 50-60%).
+   		- Can we find out which screen they are dropping from? Let's pinpoint where the abandonment is happening so we can determine some quick wins.
+ 
+	- Action Items:
+		- Jina to check DOMO to find top 3-5 exits points
+ 		- Pull work on this issue into next or later column
+- Review the OHI subtask screens for the standalone form
+	-  Jamie had some discussions with CAIA around changes to the static page (follow up meeting 3/18/25) around IA changes
+ 	-  Fast followup is adding subtask logic to make sure users know that this form is for OHI updates and not initial application
+  	-  Content in Figma has not been reviewed by CAIA yet, but a ticket has been opened
+
+	- Action Items:
+ 		- Ask CAIA if we can use an alert for the subtask flow since we want to really make sure that Veterans know they're about to use the wrong form.
+   		- Ask about priorities and how quickly we can get sign off and implement these designs.
+     		- Ask CAIA whether the IA changes are just difficult to implement ASAP
+       		- Map out the screen flow ahead of the CAIA meeting tomorrow, identifying the points of confusion.
+         	- Add a userflow with pain point / points of confusion to help facilitate the conversation
+
+- Review the latest OHI/ 1010 merge changes
+	- Each applicant has to complete the OHI, so it has to fit into a certain place within the form: Need to keep the OHI form in the Applicant stepper
+ 	- Minimal header ([guidance](https://design.va.gov/components/header/header-minimal)) - to update or not update across the entire form?
+  		- The headers are busy with a lot of text, and the H1 can't be changed. Would this be jarring for screen readers?
+    		- A lot of tech/ux debt if we update this, because we would have to update across all of our screens/forms
+      		- Does the user care about the H1/ which form they are filling out?  User research showed that users may not care about this as much.
+        	- H1 area isn't really read by users, as noticed in prior research.
+         	- The Minimal header be consistent within the CHAMPVA application but won’t be consistent across all CHAMPVA forms until we update those.
+          - We should remove the 2nd page in the OHI flow: “Would you like to provide OHI?”
+         	 - It’s not necessary because we aren’t changing the H1 anymore. Also we want users to submit the OHI at the same time as the CHAMPVA application so we shouldn’t present them with the choice at this point.  \
+
+	- Action Items:
+ 		- Check with engineering about the lift to implement the minimal header (for 1010d and OHI) and scope it to see whether it will be part of our initial release or future improvements
+   		- Check PRA guidance on forms labelling. It may require that we need to let users know that they are filling out another form with the form. Consider putting this in the submission page if it makes sense.
+     		- Add feedback on minimal header to research plan
+       		- Create 2 minimals headers versions: 1 for the just the application and 1for the application with OHI
+         	- Remove the 2nd page in the OHI flow “Would you like to provide OHI?”
+
+- Review FMP direct deposit changes on the Claims forms
+	- Reviewed the figma: The Direct Deposit content and experience will show online if logged in.
+ 	- Reviewed an alert pattern that shows with the in-form editing. This alert will clearly let the users know that their bank info will update across all forms.
+  	- Launch date for FMP claims is early May
+  	- Rachel notes that we haven't implemented pushing address updates to VA Profile yet. If we're able to, move in the direction of adding that capability. We confirmed that we can pull the bank info to display in the form \
+
+
+	- Action Items:
+		- Let's make the experience consistent with the 526 and travel pay patterns by adding the prefill alert. If we can't do that immediately, we need a MVP to go out in the initial launch
+ 		- Ask engineers if we can link up to the right API to push that update to all other forms.
+  		- Define MVP design if we can't push out the preferred/optimal version of the alert and update for the initial launch.
+
+- Review the gathered stakeholder research for supporting doc and discuss open questions
+	- Will drop the questions in slack. If we are comfortable with them we can ask stakeholders the open questions in the 3/18 meeting
+
+
+## March 10 2025
+ - Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Rachel Pope, Renata Keck, Andrea Merril, Mike Mooney, Amanda Klaumeiser
+     - ### Agenda Topics
+      	- UX roadmap
       	- Review the UX roadmap
       	- Ongoing discussion: OHI interim solutions (update IA + static/intro pages?)
       	- Rescheduling design sync
