@@ -1,4 +1,7 @@
-# Higher Level Reviewer (HLR) Content Source of Truth
+# Higher Level Reviewer (HLR) Content Source of Truth (Deprecated 2025)
+Our Content Source of Truth now only exists in [Figma](https://www.figma.com/design/OxukHeNtSkCDbdmLxD5k9A/Higher-Level-Review-(VA-0996)?node-id=0-1). This document was last updated January 2024.
+
+---
 **SIGNED OUT**
  
 # Request a Higher-Level Review
