@@ -1,45 +1,3 @@
-| Information type (attachment)               | Notes                                                        | Metadata included                                            | Source                                                       |
-|--------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-| Address Change                 |                                                              |                                                              |                                                              |
-| Appeals                        |                                                              |                                                              |                                                              |
-| Application over 55- Remarried | CHAMPVA 10-10d                                               | businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>| modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb     |
-| Application over 65            | CHAMPVA 10-10d                                               | businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>| modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb     |
-| Application under 65           | CHAMPVA 10-10d                                               | businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>| modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb     |
-| Congressional                  |                                                              |                                                              |                                                              |
-| Correspondence                 |                                                              |                                                              |                                                              |
-| CWVV                           | Children of Women Vietnam Veterans Health Care Benefits Program |                                                              |                                                              |
-| DD 214                         | Certificate of Release or Discharge from Active Duty         |                                                              |                                                              |
-| DEA Rating decision            |                                                              |                                                              |                                                              |
-| Death Certificate              |CHAMPVA 10-10d  <br>(may be collected when applicant relationship to sponsor is 'spouse'|businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>|modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb|
-| Divorce Decree                 |CHAMPVA 10-10d  <br>(may be collected when applicant relationship to sponsor is 'spouse'| businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>|modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb|
-| FMP Enrollment                 | 10-7959f-1                                                   | businessLine<br> country<br> docType<br> fileNumber<br> primaryContactEmail<br> source<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>| modules/ivc_champva/app/models/ivc_champva/vha_10_7959f_1.rb |
-| FMP Dental                     |                                                              |                                                              |                                                              |
-| FMP Rating Decision            |                                                              |                                                              |                                                              |
-| Marriage Document              |CHAMPVA 10-10d  <br>(may be collected when applicant relationship to sponsor is 'spouse'|businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>|modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb|
-| Medicare                       |CHAMPVA 10-10d                                                |businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>|modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb||
-| Miscellaneous Documents        |10-10d, 10-7959c, 10-7959a, 10-7959f-2                        | Refer to the [table below](#general-metadata-for-attachments-per-form) |                                                              |
-| OHI Certificate                | 10-7959c                                                     | applicantEmail<br> businessLine<br> country<br> docType<br> fileNumber<br> primaryContactEmail<br> source<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>| modules/ivc_champva/app/models/ivc_champva/vha_10_7959c.rb   |
-| POA (Power of Attorney)        |                                                              |                                                              |                                                              |
-| ROI (Release of Information)   |                                                              |                                                              |                                                              |
-| School Certificate             |CHAMPVA 10-10d                                                |businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>|modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb|
-| CHAMPVA Claim                  | 10-7959a                                                     | businessLine<br> country<br> docType<br> fileNumber<br> member_number<br> primaryContactEmail<br> source<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> zipCode<br>| modules/ivc_champva/app/models/ivc_champva/vha_10_7959a.rb   |
-| FMP Claim                      | 10-7959f-2                                                   | businessLine<br> country<br> docType<br> fileNumber<br> primaryContactEmail<br> source<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br> | modules/ivc_champva/app/models/ivc_champva/vha_10_7959f_2.rb |
-
-## Metadata JSON file
-
-Each form submission is accompanied by a single Metadata JSON file. The metadata file uses 
-the following naming convention:
-
-`#{@metadata['uuid']}_#{@form_id}_metadata.json`
-
-The metadata included in this JSON file matches those found in the [below table](#general-metadata-for-attachments-per-form). In addition to 
-those values, the metadata JSON file also includes two more properties:
-
-|Property|Notes|
-|-|-|
-|`primaryContactInfo`|This contains a name and email address of the primary contact for a given form submission|
-|`attachment_ids`|An array including all the document types (`attachment_id`s) for the supporting documents sent with this submission. I.e., for a 10-7959c with one supporting document this might look like `['10-7959f-2', 'Schedule of benefits document']`|
-
 ## General Metadata for Attachments (Per Form)
 By default, any attachment included with the following forms (including the forms themselves) receives these metadata properties.
 
@@ -50,6 +8,21 @@ By default, any attachment included with the following forms (including the form
 |10-7959a|businessLine<br> country<br> docType<br> fileNumber<br> member_number<br> primaryContactEmail<br> source<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> zipCode<br>| |
 |10-7959f-1|businessLine<br> country<br> docType<br> fileNumber<br> primaryContactEmail<br> source<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>| |
 |10-7959f-2|businessLine<br> country<br> docType<br> fileNumber<br> primaryContactEmail<br> source<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>| |
+
+### Metadata JSON file
+
+Each form submission is accompanied by a single Metadata JSON file. The metadata file uses 
+the following naming convention:
+
+`#{@metadata['uuid']}_#{@form_id}_metadata.json`
+
+The metadata included in this JSON file matches those found in the [above table](#general-metadata-for-attachments-per-form). In addition to 
+those values, the metadata JSON file also includes two more properties:
+
+|Property|Notes|
+|-|-|
+|`primaryContactInfo`|This contains a name and email address of the primary contact for a given form submission|
+|`attachment_ids`|An array including all the document types (`attachment_id`s) for the supporting documents sent with this submission. I.e., for a 10-7959c with one supporting document this might look like `['10-7959f-2', 'Schedule of benefits document']`|
 
 ### File designations (used by PEGA to perform mappings)
 The following table lists all files collected by IVC forms. Each file's "attachment kind" is displayed. This
@@ -85,5 +58,32 @@ its `documentType` property. This value is directly read and mapped to another v
 |10-7959f-2|Billing statements and supporting documents (Veteran payee)|_unspecified/null_| |
 |10-7959f-2|Billing statements and supporting documents (Provider payee)|_unspecified/null_| |
 
+## Documents and Associated Metadata
+This table shows certain "Information type"s (e.g., the PEGA/DOCMP terms for a particular attachment), along with notes indicating which form it originates within, and the metadata attached to it upon upload to S3. If applicable, a "source" file is listed that shows from where this metadata was retrieved.
 
-
+| Information type (attachment)               | Notes                                                        | Metadata included                                            | Source                                                       |
+|--------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| Address Change                 |                                                              |                                                              |                                                              |
+| Appeals                        |                                                              |                                                              |                                                              |
+| Application over 55- Remarried | CHAMPVA 10-10d                                               | businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>| modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb     |
+| Application over 65            | CHAMPVA 10-10d                                               | businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>| modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb     |
+| Application under 65           | CHAMPVA 10-10d                                               | businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>| modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb     |
+| Congressional                  |                                                              |                                                              |                                                              |
+| Correspondence                 |                                                              |                                                              |                                                              |
+| CWVV                           | Children of Women Vietnam Veterans Health Care Benefits Program |                                                              |                                                              |
+| DD 214                         | Certificate of Release or Discharge from Active Duty         |                                                              |                                                              |
+| DEA Rating decision            |                                                              |                                                              |                                                              |
+| Death Certificate              |CHAMPVA 10-10d  <br>(may be collected when applicant relationship to sponsor is 'spouse'|businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>|modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb|
+| Divorce Decree                 |CHAMPVA 10-10d  <br>(may be collected when applicant relationship to sponsor is 'spouse'| businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>|modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb|
+| FMP Enrollment                 | 10-7959f-1                                                   | businessLine<br> country<br> docType<br> fileNumber<br> primaryContactEmail<br> source<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>| modules/ivc_champva/app/models/ivc_champva/vha_10_7959f_1.rb |
+| FMP Dental                     |                                                              |                                                              |                                                              |
+| FMP Rating Decision            |                                                              |                                                              |                                                              |
+| Marriage Document              |CHAMPVA 10-10d  <br>(may be collected when applicant relationship to sponsor is 'spouse'|businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>|modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb|
+| Medicare                       |CHAMPVA 10-10d                                                |businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>|modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb||
+| Miscellaneous Documents        |10-10d, 10-7959c, 10-7959a, 10-7959f-2                        | Refer to the [table above](#general-metadata-for-attachments-per-form) |                                                              |
+| OHI Certificate                | 10-7959c                                                     | applicantEmail<br> businessLine<br> country<br> docType<br> fileNumber<br> primaryContactEmail<br> source<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>| modules/ivc_champva/app/models/ivc_champva/vha_10_7959c.rb   |
+| POA (Power of Attorney)        |                                                              |                                                              |                                                              |
+| ROI (Release of Information)   |                                                              |                                                              |                                                              |
+| School Certificate             |CHAMPVA 10-10d                                                |businessLine<br> country<br> docType<br> fileNumber<br> hasApplicantOver65<br> primaryContactEmail<br> source<br> sponsorFirstName<br> sponsorLastName<br> sponsorMiddleName<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br>|modules/ivc_champva/app/models/ivc_champva/vha_10_10d.rb|
+| CHAMPVA Claim                  | 10-7959a                                                     | businessLine<br> country<br> docType<br> fileNumber<br> member_number<br> primaryContactEmail<br> source<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> zipCode<br>| modules/ivc_champva/app/models/ivc_champva/vha_10_7959a.rb   |
+| FMP Claim                      | 10-7959f-2                                                   | businessLine<br> country<br> docType<br> fileNumber<br> primaryContactEmail<br> source<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br> | modules/ivc_champva/app/models/ivc_champva/vha_10_7959f_2.rb |
