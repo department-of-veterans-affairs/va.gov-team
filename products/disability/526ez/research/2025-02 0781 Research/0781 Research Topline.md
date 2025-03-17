@@ -52,7 +52,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 * All participants had filed for a mental health condition in the past and did not seem to consider skipping it (whether for personal reasons or by set up of the study).  
 * Facilitator note: In our conversation guide, we decided to flag upcoming content for our participants to allow them to make the informed choice to continue. We knew this could potentially prime participants, but decided to take the risk in the name of a more trauma-informed approach. 
 
-**Finding: When it comes to filing a claim with VA, information is rarely truly optional.** 
+**Finding: When it comes to filing a claim with VA, information rarely feels truly optional.** 
 
 - Based on past filing experience, participants have learned that providing more information to VA is always better.  
 - Most said they wouldn't leave fields blank if they had something to share, but seeing the word "optional" might make those without answers feel more comfortable leaving them blank.
