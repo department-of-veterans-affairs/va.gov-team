@@ -17,7 +17,7 @@
         * Documentation
         * Templates
     * JIRA
-        * [Align]([https://align.devops.va.gov/login](https://veteransaffairs-devops.okta.com/app/UserHome?iss=https%3A%2F%2Fveteransaffairs-devops.okta.com&session_hint=AUTHENTICATED))
+        * [Align](https://align.devops.va.gov/login](https://veteransaffairs-devops.okta.com/app/UserHome?iss=https%3A%2F%2Fveteransaffairs-devops.okta.com&session_hint=AUTHENTICATED)
         * Documentation
         * Templates
     * PIplanning.io
