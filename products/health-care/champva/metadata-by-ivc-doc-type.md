@@ -47,7 +47,7 @@ its `documentType` property. This value is directly read and mapped to another v
 |10-10d|Completed and signed CHAMPVA Other Health Insurance (OHI) Certification |VA form 10-7959c| |
 | | | | |
 |10-7959c|Insurance Schedule of Benefits|Schedule of benefits document| |
-|10-7959c|Health insurance card|Front of insurance card<br>Back of insurance card<b>Other insurance supporting document| |
+|10-7959c|Health insurance card|Front of insurance card<br>Back of insurance card<br>Other insurance supporting document| |
 |10-7959c|Medicare card for hospital and medical coverage|Front of Medicare card<br>Back of Medicare card| |
 |10-7959c|Medicare Pard D card |Front of Medicare Part D card<br>Back of Medicare Part D card| |
 | | | | |
