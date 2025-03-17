@@ -95,8 +95,11 @@ Targeting Launch March 17-24th
 	  - The next day those users already assigned the New AVA experience will continue to have that experience and a new % of users based on the stage (A: 25%, B: 50%, C: 75%, D: 100%) will be routed to the new experience. 
 	  - While this is happening Va.Gov URLs will be redirected to the New AVA experience, until 100% of the list of catalogued URLs have been migrated.
 * What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?
+	- **Note:** We are giving ourselves some wiggle room with our targets since this is would be the first time we're on production.
 	- **Error rate**  - The number of non 2xx codes vs 2xx (successful) codes for Form submissions and Dashboard replies.
+		 - Target: 15% or less.
 	- **Latency** - Average time to receive a successful response (2xx) from CRM for Form submissions and Dashboard replies.
+		 - vets-api ~ 2s, CRM ~ 7s
 	- **Throughput** - Number of requests. Requests = Form submissions
 		- Canary (10%) ~ 140 requests per day
 		- Stage A ~ 350 requests per day
