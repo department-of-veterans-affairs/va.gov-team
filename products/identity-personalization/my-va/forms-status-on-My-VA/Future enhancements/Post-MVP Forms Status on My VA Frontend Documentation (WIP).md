@@ -9,7 +9,7 @@ Also, the 21-0966 form was pulled from MVP due to an inability to consistently l
 The possible future enhancements are as follows (the order of items does not indicate their level of priority), with enhancements we are committed to marked as such:
 
 - (Committed) PDF download support on form status cards (Submission in progress, Received, Action needed)
-- (Committed) Support for 21-0966 (Intent to file)
+- ~(Committed) Support for 21-0966 (Intent to file)~ This is no longer needed, this should show up on the Claim Status Tool Instead 
 - The addition of a page level alert that appears at the top of My VA, indicating when a form submission has had a detectable system-based error
 - Possible addition of a Process List component, mirroring the one shown on the submission confirmation page
 - Possible removal of the 'error' icon on the Draft cards (expiration dates)
