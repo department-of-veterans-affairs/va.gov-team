@@ -1,8 +1,11 @@
+# Supplemental Claim Content Source of Truth (deprecated 2025)
+Our Content Source of Truth now only exists in [Figma](https://www.figma.com/design/2LGebZcUuu5Iqh4QLPII6A/Supplemental-Claims-(VA-0995)?node-id=0-1). This document was last updated November 2023.
+
+---
+
 **Jump to**
 
 [Error Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/design/sourceofcontenttruth.md#error-messaging)
-
-# Supplemental Claim Content Source of Truth
 
 **_SIGNED OUT_**
 
