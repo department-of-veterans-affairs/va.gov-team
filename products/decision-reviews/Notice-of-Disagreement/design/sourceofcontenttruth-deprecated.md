@@ -1,3 +1,8 @@
+# Board Appeals (Notice of Disagreement) Content Source of Truth (Deprecated 2025)
+Our Content Source of Truth now only exists in [Figma](https://www.figma.com/design/BplQkEDZzD8NPPNmLrhvXv/Request-a-Board-Appeal-%2F-Notice-of-Disagreement-(VA-10182)?node-id=0-1). This document was last updated April 2024.
+
+---
+
 **Jump to:**
 
 [Veteran Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#request-a-board-appeal-2)
@@ -15,8 +20,6 @@
 [Errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#current-nod-errors)
 
 [PROPOSED Email](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#proposed--email)
-
-# Board Appeals (Notice of Disagreement) Content Source of Truth
 
 ***SIGNED OUT***
 
