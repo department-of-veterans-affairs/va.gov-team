@@ -98,7 +98,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | ENG: Complete the Debt Resolve Page updates in staging and PR submitted  | N/A |--|--|--|
 | ENG: Research and resolve all bugs that were moved into or discovered in the sprint | N/A |--|--|--|
 | ENG: Establish Silent Failure email communication for failed FSR submissions | N/A |--|--|--|
-| ENG: Align with DMC IDT on technical requirements for Digital Debt Dispute initiative | N/A |--|--|--|
+| ENG: Align with DMC IDT on technical requirements for Digital Debt Dispute initiative | N/A |--|03/12/25|Completed| 
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals
