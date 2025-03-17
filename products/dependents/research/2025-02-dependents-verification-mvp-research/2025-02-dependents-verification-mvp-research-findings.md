@@ -141,19 +141,13 @@ This poses a risk of abandonment for the verification path. This may be remedied
 
 **3. There are several points in the designs that showed the potential to hinder participants from completing their verification and update tasks.**
 
-Labels/Keywords: RESRCH: Comprehension testing; Dependents; PRDT: Content
-
-      1. **The sections "Dependents on your VA beneftis" and "Dependents not on your VA benefits" caused confusion for some participants**
-
-         1. 2 of 7 participants who were prompted to review the sections "Dependents on your VA beneftis" and "Dependents not on your VA benefits" were caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. Another was confused about why they were seeing dependents not on their benefits at all or why they were still referred to as "Dependents" if they were not eligible to be on the participant's benefits. One was confused as to why they saw dependents not connected to their benefits listed here at all. 
-
-Participants suggested they'd like more information around what benefits are being referred to in the copy, why the specific dependents listed are on or not on the Veteran's benefits, and what can be done to reconnect dependents who are not on their benefits if eligible. 
-
-If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected. We may also link out to eligibility requirements or other information on what actions can be taken to bring disconnected dependents back onto the Veteran's benefits. 
+   **1. The sections "Dependents on your VA beneftis" and "Dependents not on your VA benefits" caused confusion for some participants.** 2 of 7 participants who were prompted to review the sections "Dependents on your VA beneftis" and "Dependents not on your VA benefits" were caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. Another was confused about why they were seeing dependents not on their benefits at all or why they were still referred to as "Dependents" if they were not eligible to be on the participant's benefits. One was confused as to why they saw dependents not connected to their benefits listed here at all. If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected. We may also link out to eligibility requirements or other information on what actions can be taken to bring disconnected dependents back onto the Veteran's benefits. 
 
 > _Supporting data: "This...one is throwing me off" (P3)_
 
 > _Supporting data: "There's no way to know why this dependent is not on your benefits." (P6)_
+
+Labels/Keywords: RESRCH: Comprehension testing; Dependents; PRDT: Content
 
 
 ## Additional Insights
