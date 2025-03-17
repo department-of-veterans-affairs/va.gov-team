@@ -105,23 +105,21 @@ Each participant was shown the following:
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work. [Learn how to add labels](https://depo-platform-documentation.scrollhelp.site/research-design/adding-labels-in-the-research-repository) in Platform documentation._
-
-
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
+**1. Most participants did not have an accurate mental model of the dependency verification process**
 
-**Finding 1**
+Labels/Keywords: RESRCH: Comprehension testing; PRDT: 0538 Dependent-verification-letter; Dependents
 
-Labels: label 1, label 2 
+**Most participants (8 of 10) were unfamiliar with the relevant verification process** (the mandated verification of dependents via VA Form 21-0538) when asked to describe their understanding of or experiences with dependent verification. Some described the initial verification of their dependents' identities (confirming documentation, birth certificates, marriage licenses, etc.). 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Others described processes that may be affiliated with other benefits such as healthcare, such as being asked to update identification on file every 2 years. Others described experiences that do not align with the 8-year mandate, such as verifying every 3 to 4 years or verifying online (a feature that isn't available yet for dependent verification). Some described verification as being related to life-events that could lead to needing to update dependents, such as a dependent child turning 18. 
 
-Brief description
+This represents a risk that Veterans won't have context for dependency verification as related to the 8-year mandate and a need to provide that context at key entrypoints on VA.gov and elsewhere. 
 
-> _Supporting data: Quote here_
+> _Supporting data: "Just verifying that he's my legal husband to be on my benefits."_
 
-> _Supporting data: Quote here_
+> _Supporting data: "Probably a birth certificate or something like that."_
 
 
 **Finding 2**
