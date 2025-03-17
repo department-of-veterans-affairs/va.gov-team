@@ -21,7 +21,7 @@ Securely accessing VA online services on behalf of a Veteran that isn’t onesel
 * Explore how caregivers interact with VA.gov or other digital services  
 * Better understand and empathhize with the caregiver journey and uncover any potential pain points as they navigate the VA
 
-**Outcome**  
+### **Outcome**  
 Learn about the process of how caregivers are able to complete various tasks and functions on behalf of Veterans. The focus is anything from the point of being designated by the Veteran all the way through completion of any actions behalf of a Veteran.
 
 ### **Research questions**
@@ -41,7 +41,7 @@ Learn about the process of how caregivers are able to complete various tasks and
 - H3: There is a standardized practice at the VA for granting caregiver access at the VA.
 - H4: State guidelines do not affect caregiver access.  
 - H5: Caregivers do not currently have access to digitally complete actions on behalf of the Veteran they are caring for.
-- 
+  
 ## **Methodology**
 
 Interview caregivers who have completed various actions on behalf of Veterans.
