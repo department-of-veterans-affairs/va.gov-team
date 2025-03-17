@@ -11,6 +11,8 @@ Last Updated: March 2025
 This document contains links to all research conducted related to My VA prior to March 2025. As well as overviews of upcoming and new research.
 
 ### Research Prior to 03/2025
+COMING SOON: Research report highlighting common findings and opportunities from research prior to 03/2025.
+
 1. [05/2020 VA Mobile Navigation Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/2020-03-profile-redesign/mobile-navigation-research.md)
 
 2. [05/2020 Mobile Sub-navigation Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/2020-05-mobile-sub-navigation/Mobile%20Sub-navigation%20MIni%20Session%20Findings.md)
