@@ -83,7 +83,7 @@ Examples:
 
 Targeting Launch March 18-25th 
 * Desired date range: A day minimum per stage to monitor metrics.
-	- Canary Launch: 10% of traffic (Tuesday, March 19)
+	- Canary Launch: 10% of traffic (Tuesday, March 18)
 	- Stage A: 25% of Submitters (Wednesday, March 19)
 	- Stage B: 50% of submitters (Thursday, March 20)
 	- Stage C: 75% of Submitters (Friday, March 21)
