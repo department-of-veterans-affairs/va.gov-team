@@ -1,4 +1,4 @@
-# Prior Research Overview: My VA
+# Research Overview: My VA
 
 Last Updated: March 2025
 
