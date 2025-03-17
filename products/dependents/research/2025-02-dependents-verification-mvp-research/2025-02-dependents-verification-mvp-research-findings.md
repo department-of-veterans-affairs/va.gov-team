@@ -88,7 +88,7 @@ Each participant was shown the following:
 
 ## Key Findings
 
-1. Finding one
+1. **Most participants (8 of 10) were unfamiliar with the relevant verification process** (the mandated verification of dependents via VA Form 21-0538) when asked about their experiences with verification. Instead, they described the initial verification of their dependents' identities (confirming documentation), regular updates of identification (perhaps connected to healthcare benefits), or other experiences that do not align with the 8-year mandate (verifying more frequently online or based on events like their dependents aging out at 18 years old). 
 
 2. Finding two
 
@@ -206,6 +206,8 @@ _If there are demographics that were not included in this study or you discovere
 [Information architecture analysis from CAIA](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717521751866/127cbff63df95bedf011a5463797989197bc069d?sender=u859fac93c61da901b7914439)
 
 [2023-09 Dependents research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research/2023-09-dependents-research)
+
+[2020-11 Dependency verification research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research/2020-11-dependency-verification-research)
 
 ## Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
