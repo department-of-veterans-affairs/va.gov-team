@@ -109,10 +109,10 @@ Targeting Launch March 18-25th
 			- Estimations are based on Google Analytics contact us page click count data for February and March
 	- If Google Analytics for new AVA is setup in time for launch, we can also monitor Form Avg Session Duration and Completion Rate. However, the aforementioned metrics will be the primary items 
 
-Links to the dashboard(s) showing "success criteria" metrics: 
-- [Ask VA Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/i7e-qkf-zim/ask-va-dashboard-draft?fromUser=false&refresh_mode=sliding&from_ts=1739807531939&to_ts=1742223131939&live=true)
-Who is monitoring the dashboard(s)?: 
-- Ask VA development team
+* Links to the dashboard(s) showing "success criteria" metrics: 
+	- [Ask VA Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/i7e-qkf-zim/ask-va-dashboard-draft?fromUser=false&refresh_mode=sliding&from_ts=1739807531939&to_ts=1742223131939&live=true)
+* Who is monitoring the dashboard(s)?: 
+	- Ask VA development team
 
 | Stage              | Throughput | Error Rate: Form Submissions| Error Rate: Dashboard replies| Latency: vet-api| Latency: CRM |
 | ------------------ | ---------- | --------------------------- | ---------------------------- | --------------- | -------------|
