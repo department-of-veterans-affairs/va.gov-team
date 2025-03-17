@@ -20,6 +20,10 @@ The possible future enhancements are as follows (the order of items does not ind
 - Revisit draft card expiration dates
 - Revisit overall card content
  
+
+## List of Forms w/Categories 
+- [Mural list of forms and their categories w/corresponding API ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710506605775/2f8e0b8d2f952dae0b7e8424d44242c827503a36?sender=u9ae4d29a0ed5c3d2753a7824)
+
 Documentation for these points are below:
 
 ## PDF download support on form status cards (Submission in progress, Received, Action needed)
