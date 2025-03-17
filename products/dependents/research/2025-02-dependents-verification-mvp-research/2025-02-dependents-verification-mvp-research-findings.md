@@ -117,23 +117,26 @@ Others described processes that may be affiliated with other benefits such as he
 
 This represents a risk that Veterans won't have context for dependency verification as related to the 8-year mandate and a need to provide that context at key entrypoints on VA.gov and elsewhere. 
 
-> _Supporting data: "Just verifying that he's my legal husband to be on my benefits."_
+> _Supporting data: "Just verifying that he's my legal husband to be on my benefits." (P2)_
 
-> _Supporting data: "Probably a birth certificate or something like that."_
+> _Supporting data: "Probably a birth certificate or something like that." (P3)_
 
 
-**Finding 2**
+**2. Several participants suggested they did not see a need to take action beyond reviewing dependents for accuracy**
 
-Labels: label 1, label 2 
+Labels/Keywords: RESRCH: Comprehension testing; PRDT: 0538 Dependent-verification-letter; Dependents
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+When asked to explain the ask from the email notification, 6 of 10 participants suggested that no further action would need to be taken beyond reviewing dependents for accuracy. Some indicated that if none of the reasons to update dependents in the bulletted list applied to them, they would not explore further. Others suggested that they only would have received this email if the VA knew that a life event had accurred that would necessitate updating their dependents. 
 
-Brief description
+When interacting with the verification experience on VA.gov, 3 of 10 suggested that they would not need to take further action if their dependents looked correct. One participant expressed concerns that the "weak" language in the email and the on-platform alert ("We encourage") leading to Veterans not seeing a need to engage with the ask overall. 
 
-> _Supporting data: Quote here_
+This poses a risk of abandonment for the verification path. This may be remedied by providing more information around what verification means in this scenario, specifically that the ask to verify is connected to the submission of a VA form that the Veteran will eventually be required to complete. 
 
-> _Supporting data: Quote here_
+> _Supporting data: "If any of these [events] happen in my life, I would need to go click on this link" (P3, from email)_
 
+> _Supporting data: "If nothing has changed, [I would] close everything out." (P3, from Your VA Dependents)_
+
+> _Supporting data: "[I'm looking for] any changes in marriage or dependents' status." (P9)
 
 **Finding 3**
 
