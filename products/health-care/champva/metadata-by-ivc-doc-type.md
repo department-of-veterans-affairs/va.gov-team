@@ -25,6 +25,21 @@
 | CHAMPVA Claim                  | 10-7959a                                                     | businessLine<br> country<br> docType<br> fileNumber<br> member_number<br> primaryContactEmail<br> source<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> zipCode<br>| modules/ivc_champva/app/models/ivc_champva/vha_10_7959a.rb   |
 | FMP Claim                      | 10-7959f-2                                                   | businessLine<br> country<br> docType<br> fileNumber<br> primaryContactEmail<br> source<br> ssn_or_tin<br> uuid<br> veteranFirstName<br> veteranLastName<br> veteranMiddleName<br> zipCode<br> | modules/ivc_champva/app/models/ivc_champva/vha_10_7959f_2.rb |
 
+## Metadata JSON file
+
+Each form submission is accompanied by a single Metadata JSON file. The metadata file uses 
+the following naming convention:
+
+`#{@metadata['uuid']}_#{@form_id}_metadata.json`
+
+The metadata included in this JSON file matches those found in the [below table](#general-metadata-for-attachments-per-form). In addition to 
+those values, the metadata JSON file also includes two more properties:
+
+|Property|Notes|
+|-|-|
+|`primaryContactInfo`|This contains a name and email address of the primary contact for a given form submission|
+|`attachment_ids`|An array including all the document types (`attachment_id`s) for the supporting documents sent with this submission. I.e., for a 10-7959c with one supporting document this might look like `['10-7959f-2', 'Schedule of benefits document']`|
+
 ## General Metadata for Attachments (Per Form)
 By default, any attachment included with the following forms (including the forms themselves) receives these metadata properties.
 
