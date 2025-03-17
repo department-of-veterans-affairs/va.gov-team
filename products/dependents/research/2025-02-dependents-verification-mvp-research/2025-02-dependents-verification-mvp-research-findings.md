@@ -93,7 +93,8 @@ Each participant was shown the following:
 2. **Several participants (6 of 10 from the email and 3 of 10 from the VA.gov experience) indicated that they would not need to take action beyond confirming that their dependents are correct** to verify. This poses a risk of abandonment before Veterans complete the verification task and potentially calls for more transparency around the 8-year mandate and other benefits to the Veterand beyond avoiding the risk of overpayments. 
 
 3. **There are several points in the designs that showed the potential to hinder participants from completing their verification and update tasks.**
-   1. **Some particpants were confused by existing language on the Your VA Dependents page**. Of the participants prompted to review the sections "Dependents on your VA Benefits" and "Dependents not on your VA Benefits," 2 of 7 were caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected. 
+   1. **Some particpants were confused by existing language on the Your VA Dependents page.** Of the participants prompted to review the sections "Dependents on your VA Benefits" and "Dependents not on your VA Benefits," 2 of 7 were caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected.
+   1. **All participants expected to be able to correct dependent info from within the form.** All of the 6 participants prompted with the need to correct personal information for their existing dependents chose to do so via the Yes: Update option, causing some confusion who followed that path and saw only language to "add or remove" dependents. None of the prompted partcipants read the note regarding the need  to call the VA. 
 
 5. Finding four
 
@@ -141,14 +142,26 @@ This poses a risk of abandonment for the verification path. This may be remedied
 
 **3. There are several points in the designs that showed the potential to hinder participants from completing their verification and update tasks.**
 
-     1. The sections "Dependents on your VA beneftis" and "Dependents not on your VA benefits" caused confusion for some participants. 2 of 7 participants who were prompted to review the sections "Dependents on your VA beneftis" and "Dependents not on your VA benefits" were caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. Another was confused about why they were seeing dependents not on their benefits at all or why they were still referred to as "Dependents" if they were not eligible to be on the participant's benefits. One was confused as to why they saw dependents not connected to their benefits listed here at all. If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected. We may also link out to eligibility requirements or other information on what actions can be taken to bring disconnected dependents back onto the Veteran's benefits. 
+**3.1 The sections "Dependents on your VA beneftis" and "Dependents not on your VA benefits" caused confusion for some participants.** 
+
+Labels/Keywords: RESRCH: Comprehension testing; Dependents; PRDT: Content
+
+2 of 7 participants who were prompted to review the sections "Dependents on your VA beneftis" and "Dependents not on your VA benefits" were caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. Another was confused about why they were seeing dependents not on their benefits at all or why they were still referred to as "Dependents" if they were not eligible to be on the participant's benefits. One was confused as to why they saw dependents not connected to their benefits listed here at all. 
+
+If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected. We may also link out to eligibility requirements or other information on what actions can be taken to bring disconnected dependents back onto the Veteran's benefits. 
 
 > _Supporting data: "This...one is throwing me off" (P3)_
 
 > _Supporting data: "There's no way to know why this dependent is not on your benefits." (P6)_
 
-Labels/Keywords: RESRCH: Comprehension testing; Dependents; PRDT: Content
 
+**3.2 All participants expected to be able to correct dependent info from within the form, particularly via the "Update" option.** 
+
+Labels/Keywords: RESRCH: Comprehension testing; Dependents; DSP: Help users to check personal information
+
+All of the 6 participants prompted with the need to correct personal information for their existing dependents chose to do so via the "Yes: Update" option. This caused some confusion for participants who followed that path and saw only language to "add or remove" dependents. None of the prompted partcipants read the note regarding the need  to call the VA. This poses a risk that Veterans may grow frustrated with the form or give up on correcting inaccurate dependent information. 
+
+> _Supporting data: ""Update and edit is pretty much the same thing." (P3)_
 
 ## Additional Insights
 
