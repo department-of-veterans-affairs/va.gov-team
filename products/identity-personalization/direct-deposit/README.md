@@ -19,3 +19,5 @@ Currently, VA.gov is home to both **direct deposit for compensation & pension** 
 
 [For a list of current and past projects, please refer to the Profile section outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects).
 
+## Design Figma 
+- [User flow](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=0-1&p=f&t=lrIkMaoLdlIZru8d-0)
