@@ -92,8 +92,15 @@ We will track and measure the success of the "Enrollment Card" pattern using the
 **Staging review will be required for adoption into VADS.**
 - [Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/258)
 - Kickoff ticket
-- Finalized Pattern
-
+- Finalized Pattern:
+    - [Link to the latest Critical Info designs](https://www.figma.com/design/UOx5GSKdZW9GVAjy7078hT/AEDP---Critical-Information?node-id=2-129&p=f&t=JjQggY0N149a8Gkj-0)
+    - [Link to the latest Pattern designs](https://www.figma.com/design/ZIGDfSb8D5YLBdJavzDdqi/AE-Design-Patterns---Service-list?node-id=1-129&p=f&t=JjQggY0N149a8Gkj-0)
+- GitHub PRs:
+    - [Link to relevant Critical Info PR](https://github.com/department-of-veterans-affairs/component-library/pull/1533)
+- VA.gov Design System Guidelines:
+    - [Link to Critical Information guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/Critical-Information/VADS%20documentation%20for%20critical%20information.md)
+    - [Link to Service List Item guidelines](https://design.va.gov/components/service-list-item)
+    - [Link to Pattern guidelines](https://design.va.gov/patterns/help-users-to/manage-benefits-and-tools)
 
 ### Timeline 
 
