@@ -6,19 +6,19 @@
    - [Version 1](https://grok.com/share/bGVnYWN5_a6bd3b2d-b166-452b-ac4e-bf0ca22e1acf)
    - [Version 2](https://grok.com/share/bGVnYWN5_100770c1-7786-43e7-b225-f23df6892605)
 
-| Law or regulation | Description | Forms |
-| --- | --- | --- |
-| 38 C.F.R. § 14.631 | Power of Attorney for VA Benefits, NOT including durable POA for health care and advance directives. Enables veterans to appoint an organization or individual representative to manage their VA benefit claims and appeals. Including how POA is revoked. Also defines claimant and representative | VA 21-22 and 21-22a |
-| 38 C.F.R. § 17.32 | Defines advance directives for veterans usign VA healthcare, including durable power of attorney for health care, but NOT including power of attorney for other VA benefits or claims | VA 10-0137 or Durable Power of Attorney for Health Care or the established line of succession if incapacitated and no POA |
-| 38 U.S. Code § 5901-5905 | Governs the accreditation of veteran service officers, attorneys, and agents who represent veterans in benefits claims before the VA. Also prohibits unauthorized individuals from assisting veterans with claims | 
-| VA Fiduciary Program (38 U.S.C. § 5502, 5506-5510) | covers payments, definition of fiduciary, certification process, and reporting |
-| 38 U.S. Code § 5701(b) | Allows for disclosure of private information to a claimant’s representative for claims concerning only the claimant |
-| 38 U.S. Code § 7331 | Requires all patient care to be carried out with informed consent of the patient, or a representative when necessary |
-| 38 U.S. Code § 7332 | Allows for disclosure of medical records to representatives and surrogates when a practitioner deems it necessary for informed consent |
-| 38 CFR 1.600–1.603 | Establishes policy, assigns responsibilities, and prescribes procedures for how VA delegates access VA IT systems containing veteran information. Notabily this does not establish a right to electronic access | VA Form 21-22a |
+| Law or regulation | Description | Key terms | Forms |
+| --- | --- | --- | --- |
+| 38 C.F.R. § 14.631 | Power of Attorney for VA Benefits, NOT including durable POA for health care and advance directives. Enables veterans to appoint an organization or individual representative to manage their VA benefit claims and appeals. Including how POA is revoked | claimant; representatitve | VA 21-22 and 21-22a |
+| 38 C.F.R. § 17.32 | Defines advance directives for veterans using VA healthcare, including durable power of attorney for health care, but NOT including power of attorney for other VA benefits or claims |  | VA 10-0137, or Durable Power of Attorney for Health Care, or the established line of succession if incapacitated and no POA |
+| 38 U.S. Code § 5901-5905 | Governs the accreditation of veteran service officers, attorneys, and agents who represent veterans in benefits claims before the VA. Also prohibits unauthorized individuals from assisting veterans with claims | agents | |
+| VA Fiduciary Program (38 U.S.C. § 5502, 5506-5510) | covers payments, defines fiduciary, certification process, and reporting | fiduciary | |
+| 38 U.S. Code § 5701(b) | Allows for disclosure of private information to a claimant’s representative for claims concerning only the claimant | claimant; representative |
+| 38 U.S. Code § 7331 | Requires all patient care to be carried out with informed consent of the patient, or a representative when necessary | representatitve; consent |
+| 38 U.S. Code § 7332 | Allows for disclosure of medical records to representatives and surrogates when a practitioner deems it necessary for informed consent | representative, consent |
+| 38 CFR 1.600–1.603 | Establishes policy, assigns responsibilities, and prescribes procedures for how VA delegates access VA IT systems containing veteran information. Notabily this does not establish a right to electronic access | Claimant's representative; agent; accredited attorney | VA Form 21-22a |
 | 45 CFR § 164.308 | Requires risk analysis, authorization and clearance procedures, and safeguards against disclosure of protected health information |
-| Privacy Act of 1974 (5 U.S.C. § 552a) | Establishes code of fair information practices governing the maintenance, use, and dissemination of information. Namely that personal information can only be shared if they (in this case the veteran) has given consent | VA Form 10-5345 |
-| Health Insurance Portability and Accountability Act | National standards to protect sensitive patient health information from being disclosed without consent | VA Form 10-5345 |
+| Privacy Act of 1974 (5 U.S.C. § 552a) | Establishes code of fair information practices governing the maintenance, use, and dissemination of information. Namely that personal information can only be shared if they (in this case the veteran) has given consent | | VA Form 10-5345 |
+| Health Insurance Portability and Accountability Act | National standards to protect sensitive patient health information from being disclosed without consent | HIPPA representatitve | VA Form 10-5345 |
 | Veterans Benefits, Health Care, and Information Technology Act | Modified point in which attorneys or accredited agents could charge fees for services. Changed qualifications and standards for accredited attorneys |
 | Wounded Warriors Access Act (Public Law 118-21) | Requires a secure website or online tool for a claimant, agent, or representative to submit an electronic request for records maintained by the VA. Notibly it does not require online access for managing care |
 | Creating Advanced Streamlined Electronic Services for Constituents (CASES) Act (Public Law 116-50) | Requires agencies to accept electronic forms that allow individuals to consent to the disclosure of their records  |
