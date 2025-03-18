@@ -139,11 +139,11 @@ No experience today, but current experience on MHV National Portal with Shared V
 #### Communications
 - Team Name: MHV Portal 
 - GitHub Label(s): 
-- Slack channel: mhv-health-portal-coordination, mhv-on-vagov-cartography-team
-- Product POCs: Kaitlin Fink, Patrick Bateman, Marci McGuire, Bresha Lipscomb, Robyn Singleton
+- Slack channel: mhv-health-portal-coordination, mhv-on-vagov-cartography-team, mhv-medical-records
+- Product POCs: Kaitlin Fink, Patrick Bateman, Marci McGuire,Robyn Singleton
 
 
 #### Stakeholders
 - Office/Department: Office of Connected Care 
-- Contact(s): Brian Olinger (PM- newly added to project), Dr. Terry Newton, Dr. Nil Shah, Dr. Meredith Josephs, Theresa Hancock, Kim Bielicki
+- Contact(s): Brian Olinger (PM- newly added to project), Dr. Terry Newton, Dr. Nil Shah, Dr. Meredith Josephs, Theresa Hancock, Kim Bielicki, Bresha Lipscomb
  
