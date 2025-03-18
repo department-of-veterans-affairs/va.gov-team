@@ -6,15 +6,15 @@ In March 2025, VA.gov removed the `MANUAL_VAGOV` "flag" from 674-only claims (se
    - School is listed as not accredited.
    - Continuous school term could not be determined as school start date is near 18th birthdate.
    - School term begin date is in future.
-   - Existing dependency decisions exist for this veteran with the same birthdate. Please review to avoid duplicate dependent for veteran. (#61672 could mitigate this issue.)
+   - Existing dependency decisions exist for this veteran with the same birthdate. Please review to avoid duplicate dependent for veteran. ([#61672](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61672) could mitigate this issue.)
    - Prior term start is after current award for prior school child.
    - Child's tuition/allowance is being paid by US government.
    - This is an attorney fee case.
    - A change in the net amount or in the future award line was detected.
    - Veteran has an overseas address.
    - No award exists for Veteran.
-   - Child's name, ssn, dob does not match corporate records. (#61672 could mitigate this issue.)
-   - Child does not exist on award. (#61672 could mitigate this issue.)
+   - Child's name, ssn, dob does not match corporate records. ([#61672](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61672) could mitigate this issue.)
+   - Child does not exist on award. ([#61672](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61672) could mitigate this issue.)
 
 The following claim types still receive the `MANUAL_VAGOV` "flag" and are off-ramped by BIS before they reach RBPS. This logic should be [reviewed as some point with RBPS stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89907) to ensure RBPS has not added logic to process these claims automatically.
 - All 686c claims submitted with a 674
