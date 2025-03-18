@@ -91,7 +91,7 @@ We will track and measure the success of the "Enrollment Card" pattern using the
 ### Collaboration Cycle
 **Staging review will be required for adoption into VADS.**
 - [Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/258)
-- Kickoff ticket
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105516)
 - Finalized Pattern:
     - [Link to the latest Critical Info designs](https://www.figma.com/design/UOx5GSKdZW9GVAjy7078hT/AEDP---Critical-Information?node-id=2-129&p=f&t=JjQggY0N149a8Gkj-0)
     - [Link to the latest Pattern designs](https://www.figma.com/design/ZIGDfSb8D5YLBdJavzDdqi/AE-Design-Patterns---Service-list?node-id=1-129&p=f&t=JjQggY0N149a8Gkj-0)
