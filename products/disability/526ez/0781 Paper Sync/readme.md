@@ -2,25 +2,30 @@
 
 ## Overview
 Previously, Veterans filing for PTSD and other mental health conditions were provided two separate forms to provide additional information to support the claim for these conditions.
-VA Form 21-0781 Statement in Support of Claim for Services Connected for PTSD
-VA Form 21-0781a Statement in Support of Claim for Service Connected for PTSD Secondary to Personal Assault (for those claiming mental health conditions related to personal assault including military sexual trauma — MST)
+
+- VA Form 21-0781 Statement in Support of Claim for Services Connected for PTSD
+- VA Form 21-0781a Statement in Support of Claim for Service Connected for PTSD Secondary to Personal Assault (for those claiming mental health conditions related to personal assault including military sexual trauma — MST)
+
 These forms were replaced with an updated VA Form 21-0781 released in March 2024 which combines and replaces the previous forms.
 
 ### Changes to the form include
 **Conditions for evaluation**
+
 Accommodates a broader set of mental health conditions beyond PTSD, including anxiety, depression, bipolar disorder, and others.
 
-
 **Unified Filing**
+
 Combines questions across both legacy forms. Claimants no longer have to file separate forms for conditions related to combat events, and personal assault (including MST). The new form will also handle conditions stemming from other personal interactions and other event types.
 
 **Streamlined Filing for Combat Event Related Conditions**
+
 The new form reduces complexity with filing combat event related conditions and no longer requires the following information to file:
 - Unit assignment and rank during incident
 - Medals or citations received because of incident
 - Details about persons killed or injured during incident
 
 **Revised Collection of Other Supporting Information**
+
 Other sources of information revised to:
 - Separate treatment information as a dedicated separate section
 - Reframe information gathering from other sources as supporting documents  
@@ -109,6 +114,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Solution Narrative
+Create a new 0781 online form that will match the newest paper version of the PDF form. The data in the online form will be used in the generation of the new (2024) 0781 PDF that will be sent to the eFolder after a successful submit.
+
 
 ### Current Status
 
@@ -128,11 +135,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: DBEX-Carbs
+- GitHub Label: DBEX-Carbs
+- Slack channel: #benefits-disability 
+- Product POCs: Emily Theis
+- Stakeholders: Disability Benefits Crew
 
 </details>
 
@@ -140,36 +147,31 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
- 
+- Prod Manager: Lisa Capaccioli
+- Delivery Lead: Amy Plange
+- Des/Res Lead: Ruben Sun
+- Des/Res: Qian Chen
+- Des/Res: Evelyn Hilbrich Davis
+- Full Stack Eng: Nathan Burgess
+- Full Stack Eng: Alison Jones
+- Full Stack Eng: JR Reed
+- Lead Eng: Kyle Soskin
 </details>
-
-
+ 
 #### Stakeholders
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+Disability Benefits Crew: 
+- Product Owner: Emily Theis
+- Eng Lead: Sam Wiley
+- Design Lead: Shannon Ford 
+- OBA Lead: David Reis
  
 </details>
 
-
-
-For Veterans who have been diagnosed with PTSD (post traumatic stress disorder) or mentalth health disorders and want to apply for related benefits or services, the VA.gov's new online 0781 form provides all the questions related for claiming mental health conditions and in-service traumatic events need to submit a benefits claim. Unlike the previous version of the 0781 form, the new online form will be in compliance by being up to date with the most recent paper form version (_June 2024_). 
-
-**Goal**
-
-Create a new 0781 online form that will match the newest paper version of the PDF form. The data in the online form will used in the generation of the new (2024) 0781 PDF that will be sent to the eFolder after a successful submit. 
-
-**MVP Team Objectives** 
-
-
-
-# Resources
-- [Epic] 0781 Paper Sync 	https://github.com/department-of-veterans-affairs/va.gov-team/issues/87438
+## Resources
+- [Github Epic 0781 Paper Sync 	](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87438)
 - [Story Mapping Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718308823134/02c2c9ea74f16b276692af8f31eb65202acc7928?wid=0-1719930043260)
 - [Figma 0781 redesigns](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=9856-83462&t=us3dJI6ZkhtJ0Wz8-4)
 - [Figma 0781 redesigns-final](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=8144-135894)
