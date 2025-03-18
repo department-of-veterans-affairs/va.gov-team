@@ -94,9 +94,13 @@ Each participant was shown the following:
 
    1. **Several participants (6 of 10 from the email and 3 of 10 from the VA.gov experience) indicated that they would not need to take action beyond confirming that their dependents are correct** to verify. This poses a risk of abandonment before Veterans complete the verification task and potentially calls for more transparency around the 8-year mandate and other benefits to the Veterand beyond avoiding the risk of overpayments.
   
-2. 
+2. **There are opportunities to improve findability of dependent verification specifically and dependent management in general both in the short-term (MVP launch) and long-term.**
 
-3. **There are several points in the designs that showed the potential to hinder participants from completing their verification and update tasks.**
+    1. **Participants would benefit from greater context at verification entry points.** While most participants could navigate back to the verification entry point, Your VA Dependents, within the same session using the back button or breadcrumb links, it's unclear whether Veterans who exit their session would be able to find Your VA Dependents again with the same ease. Our findability explorations prior to the study as well as results prompting participants to locate dependent management rools from the VA.gov homepage suggest they might face difficulty. For MVP launch, we recommend adding content to provide context for our dependent verification experience to key entry points, like the About VA Form 21-0538 page and the dependents parent static page.
+   
+     1. **Most participants, when prompted to locate dependent management tools from VA.gov home, expected to find them under the main menu (4) or a hub like MyVA (3).** We should consider these expectations when planning for how dependents are represented on VA.gov's information architecture in order to ensure the findability of dependent management and dependent verification align with Veteran expectations. 
+
+4. **There are several points in the designs that showed the potential to hinder participants from completing their verification and update tasks.**
    1. **Some particpants were confused by existing language on the Your VA Dependents page.** Of the participants prompted to review the sections "Dependents on your VA Benefits" and "Dependents not on your VA Benefits," 2 of 7 were caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected.
    1. **All participants expected to be able to correct dependent info from within the form.** All of the 6 participants prompted with the need to correct personal information for their existing dependents chose to do so via the Yes: Update option, causing some confusion who followed that path and saw only language to "add or remove" dependents. None of the prompted partcipants read the note regarding the need  to call the VA.
       1. **Most participants (8 of 10) had no trouble interacting with the primary CTA.** Apart from the confusion around what the "Update" option covers, most participants had no trouble selecting a path from the primary CTA. One participant rushed through the prototype without talking through his thought process, so it's not clear whether he chose update because he needed to make changes. Another participant felt that the page with the CTA contained too much information and could be broken down better.
@@ -115,7 +119,9 @@ Each participant was shown the following:
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
-**1. Most participants did not have an accurate mental model of the dependency verification process**
+**1. Most participants were not familiar with the dependent verification process in general, and this lack of familiarity shows a risk of not taking action on the verification ask in our designs.**
+
+**1.1 Most participants did not have an accurate mental model of the dependency verification process**
 
 Labels/Keywords: RESRCH: Comprehension testing; PRDT: 0538 Dependent-verification-letter; Dependents
 
@@ -130,7 +136,7 @@ This represents a risk that Veterans won't have context for dependency verificat
 > _Supporting data: "Probably a birth certificate or something like that." (P3)_
 
 
-**2. Several participants suggested they did not see a need to take action beyond reviewing dependents for accuracy**
+**1.2. Several participants suggested they did not see a need to take action beyond reviewing dependents for accuracy**
 
 Labels/Keywords: RESRCH: Comprehension testing; PRDT: 0538 Dependent-verification-letter; Dependents
 
