@@ -79,18 +79,18 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 - Maurice DeBeary | maurice.debeary@va.gov / maurice@coforma.io - Product manager
 - Shaun Burdick | shaun.burdick@va.gov / shaun.burdick@coforma.io - Tech Lead
 - Robin Garrison | robin.garrison@va.gov / robin.garrison@adhocteam.us - Front End Engineer
-- Molly Trombley-McCann | molly.trombley-mccann@va.gov / molly.trombley-mccann@coforma.io
-- Derek Fong |
-- David Kennedy |
-- Skyler Scain | 
-- Eileen Chi |
-- Silke Dannemann |
+- Molly Trombley-McCann | molly.trombley-mccann@va.gov / molly.trombley-mccann@coforma.io - Back End Engineer
+- Derek Fong | derek.fong@va.gov / derek.fong@adhocteam.us - Back End Engineer
+- David Kennedy | david.kennedy7@va.gov / david.kennedy@adhocteam.us - Accessibility Lead
+- Skyler Scain | skyler.schain@va.gov / skyler@coforma.io - Design Lead
+- Eileen Chi | eileen.chi@va.gov / eileen.chi@coforma.io - Sr. UX Designer
+- Silke Dannemann | silke.dannemann@va.gov / silke.dannemann@coforma.io - Delivery Lead
 
 ## VA enablement team
 
-- Amy Lai |
-- Julie Strothman |
-- Cory Sohrakoff |
+- Amy Lai | amy.lai2@va.gov - Product Owner
+- Julie Strothman | julie.strothman@va.gov - Design & Research Lead
+- Cory Sohrakoff | cory.sohrakoff@va.gov - Engineering Lead
 
 <br>
 
