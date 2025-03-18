@@ -15,7 +15,7 @@
 | 38 U.S. Code § 5701(b) | Allows for disclosure of private information to a claimant’s representative for claims concerning only the claimant |
 | 38 U.S. Code § 7331 | Requires all patient care to be carried out with informed consent of the patient, or a representative when necessary |
 | 38 U.S. Code § 7332 | Allows for disclosure of medical records to representatives and surrogates when a practitioner deems it necessary for informed consent |
-| 38 CFR 1.600–1.603 |  | |
+| 38 CFR 1.600–1.603 | Establishes policy, assigns responsibilities, and prescribes procedures for how VA delegates access VA IT systems containing veteran information. Notabily this does not establish a right to electronic access | VA Form 21-22a |
 | 45 CFR § 164.308 | Requires risk analysis, authorization and clearance procedures, and safeguards against disclosure of protected health information |
 | Privacy Act of 1974 (5 U.S.C. § 552a) | Establishes code of fair information practices governing the maintenance, use, and dissemination of information. Namely that personal information can only be shared if they (in this case the veteran) has given consent | can include POA (generally), which means for VA probably VA 21-22 and 21-22a |
 | Health Insurance Portability and Accountability Act | National standards to protect sensitive patient health information from being disclosed without consent |
