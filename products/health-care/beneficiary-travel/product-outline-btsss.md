@@ -100,7 +100,7 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 - *Actual Launch Date* 
   - January 2025
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - Impact review after actual launch
+  - March 20, 2025
 
 ---
 
