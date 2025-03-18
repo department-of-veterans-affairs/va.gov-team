@@ -13,35 +13,33 @@ This document contains links to all research conducted related to My VA prior to
 ### Research Prior to 03/2025
 COMING SOON: Research report highlighting common findings and opportunities from research prior to 03/2025.
 
-1. [05/2020 VA Mobile Navigation Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/2020-03-profile-redesign/mobile-navigation-research.md)
+1. [10/2020 Background (Find VA Benefits Research Summary)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-mvp/2018-find-va-benefits/Discovery/User%20Research/Research%20Summary.md)
 
-2. [05/2020 Mobile Sub-navigation Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/2020-05-mobile-sub-navigation/Mobile%20Sub-navigation%20MIni%20Session%20Findings.md)
+2. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
 
-3. [10/2020 Background (Find VA Benefits Research Summary)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-mvp/2018-find-va-benefits/Discovery/User%20Research/Research%20Summary.md)
+3. [03/2021 My VA Redesign 2 Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md)
 
-4. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
+4. [05/2021 My VA Usability Internal Research Study Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/MyVA-mini-usability/My%20VA-mini-usability-findings.md)
 
-5. [03/2021 My VA Redesign 2 Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md)
+5. [05/2021 My VA action items: Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/action-items-comparative%20analysis.md)
 
-6. [05/2021 My VA Usability Internal Research Study Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/MyVA-mini-usability/My%20VA-mini-usability-findings.md)
+6. [11/2021 Education benefits discovery synthesis (for My VA)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/education/discovery-and-research/edu-benefits-discovery-synthesis.md)
 
-7. [05/2021 My VA action items: Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/action-items-comparative%20analysis.md)
+7. [11/2021 VA Mobile Comparative Analysis: Personalized App Homescreen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis.md)
 
-8. [11/2021 Education benefits discovery synthesis (for My VA)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/education/discovery-and-research/edu-benefits-discovery-synthesis.md)
+8. [11/2021 VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
 
-9. [11/2021 VA Mobile Comparative Analysis: Personalized App Homescreen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis.md)
+9. [12/2021 Personalization and Profile Competitive Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/personalization-profile-comparative-analytsis.pdf)
 
-10. [11/2021 VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
-
-11. **Summary:** [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
+10. **Summary:** [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
 
     1. Above report summarizes reports also summarized by 04/2023 report.
 
-12. [08/2022 My VA Redirect UAT Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/research-findings.md)
+11. [08/2022 My VA Redirect UAT Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/research-findings.md)
 
-13. [03/2023 My VA 2023 Audit Usability Testing - Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md)
+12. [03/2023 My VA 2023 Audit Usability Testing - Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md)
 
-14. **Summary:** [04/2023 Logged-in IA and Nav Comprehensive Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md)
+13. **Summary:** [04/2023 Logged-in IA and Nav Comprehensive Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md)
 
     1. Above report summarizes the following reports:
 
@@ -99,25 +97,31 @@ COMING SOON: Research report highlighting common findings and opportunities from
 
                 6. [12/2019 Personalization 2.0 Discovery: Content Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/discovery-research/content-analysis)
 
-15. [05/2023 Accessibility Findings (Logged-in Wayfinding Study Research Findings)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/accessibility-findings.md)
+14. [05/2023 Accessibility Findings (Logged-in Wayfinding Study Research Findings)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/accessibility-findings.md)
 
-16. [06/2023 Opportunities to enhance the personalized experience on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization-enhancements/opportunities.md)
+15. [06/2023 Opportunities to enhance the personalized experience on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization-enhancements/opportunities.md)
 
-17. [07/2023 VA Mobile Comparative Analysis: Personalized & contextual Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md)
+16. [07/2023 VA Mobile Comparative Analysis: Personalized & contextual Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md)
 
-18. **Recap:** [08/2023 VA Mobile App - Personalization - UX Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#personalization-2023)
+17. **Recap:** [08/2023 VA Mobile App - Personalization - UX Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#personalization-2023)
 
-19. [02/2024 Findings Summary for Federal Header Authenticated Menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
+      - Above reports includes the following reports:
 
-20. [02/2024 Comparative analysis: Logged-in account models](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/comparative-analysis-logged-in-account.md)
+      - [Personalized Data - Discovery & Classification (Figjam)](https://www.figma.com/file/NHnXpvkhBeqvUQ6LIqMGqd/Personalized-Data---Discovery-%26-Classification--VA-Mobile?type=whiteboard\&node-id=0%3A1\&t=2kSgg4tKMXHSSrVZ-1)
 
-21. [03/2024 Onboarding comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/comparative-analysis.md)
+      - [Personalized homescreen: High-level display logic wireframe explorations](https://balsamiq.cloud/s4uw4la/pa3zodh/rD7BD)
 
-22. [05/2024 Research Findings for 2024-05 VFF and My VA Form Submission Research Study](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/Research/Research%20Findings%20for%202024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research%20Study.md)
+18. [02/2024 Findings Summary for Federal Header Authenticated Menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
 
-23. [07/2024 VA Mobile App - Personalized Home Screen Evaluative Research - Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-04%20evaluative%20research/personalized%20home%20screen%20-%20findings.md)
+19. [02/2024 Comparative analysis: Logged-in account models](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/comparative-analysis-logged-in-account.md)
 
-24. [02/2025 Desk Research Report (Help users to manage benefits and tools)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/understand-current-benefits-eligibility/Desk%20Research%20Report.md)
+20. [03/2024 Onboarding comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/comparative-analysis.md)
+
+21. [05/2024 Research Findings for 2024-05 VFF and My VA Form Submission Research Study](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/Research/Research%20Findings%20for%202024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research%20Study.md)
+
+22. [07/2024 VA Mobile App - Personalized Home Screen Evaluative Research - Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-04%20evaluative%20research/personalized%20home%20screen%20-%20findings.md)
+
+23. [02/2025 Desk Research Report (Help users to manage benefits and tools)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/understand-current-benefits-eligibility/Desk%20Research%20Report.md)
 
 
 ### My VA: Transitioning Service Members
