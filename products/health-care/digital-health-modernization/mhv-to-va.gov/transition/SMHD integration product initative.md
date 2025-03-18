@@ -49,6 +49,9 @@ Data available today:
 - Between 2021-12-17 and 2025-02-19, 12,016 veterans entered 1,045,375 observations into PGHD (Shared vitals) - Data came from Dr. Terry Newton
 - 4000 users of SMHD app as of 2/18 - Data came from Iron Bow program team Balbi Todd
 
+SMHD Analytics Links: 
+- https://app.powerbigov.us/groups/me/reports/ed822b31-b659-40ae-b849-272014a76ea4/ReportSectiona08aa2c96a16e609067a
+- https://staff.apps.va.gov/pulse-analytics/login?preLoginUrl=Lw
 ---
 
 ## Discovery
@@ -142,5 +145,5 @@ No experience today, but current experience on MHV National Portal with Shared V
 
 #### Stakeholders
 - Office/Department: Office of Connected Care 
-- Contact(s): Dr. Terry Newton, Dr. Nil Shah, Dr. Meredith Josephs, Theresa Hancock, Kim Bielicki
+- Contact(s): Brian Olinger (PM- newly added to project), Dr. Terry Newton, Dr. Nil Shah, Dr. Meredith Josephs, Theresa Hancock, Kim Bielicki
  
