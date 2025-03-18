@@ -32,9 +32,15 @@ Other sources of information revised to:
 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+VA Form 21-0781 is an optional form that Veterans with mental health conditions can fill out to provide additional information in support of their disability claim. In June 2024, VA released a new version of the form with critical updates, including adding new questions, removing triggering questions, and expanding the scope of the form to ask about not just PTSD, but also all other mental health conditions. The online version for 526 claims with PTSD, does not include the new questions from the 2024 form. 
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+Some of the key constraints and challenges associated with making this update included:
+
+“Form within a form” - The team needed to build the new VA Form 21-0781 within the broader disability compensation application (VA Form 21-526EZ), which is an already lengthy form itself. There were also some areas where both forms were asking for the same information in slightly different ways, creating some areas of redundancy that needed to be addressed.
+
+Sensitive subject matter - Filling out VA Form 21-0781 is a very emotionally burdensome experience as it asks Veterans about their traumatic experiences from the military and the behavioral changes they experienced as a result.
+
+How might we make it easier for any Veteran with a mental health condition related to a traumatic event answer the questions that apply to the new (2024) form faster and easier? 
  
 ## Desired User Outcomes
 
@@ -99,8 +105,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 --- 
 
 ## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [DBEX 0781 Paper Sync Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%200781%20Paper%20Sync%20Release%20Plan.md)
 
 ## Launch Dates
@@ -108,8 +112,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - tbd
 - *Actual Launch Date* 
   - tbd
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+We'll closely monitor the canary deployment for performance issues, errors, and user feedback. We'll be looking at the following: 
+- Number of claims in progress with new 0781 mental health data/form
+- Number of successful submissions with new 0781 mental health data/form
+- Number of failed submissions with new 0781 mental health data/form
+- Number of submissions with new 0781 mental health data/form down the primary path
+- Number of submissions with new 0781 mental health data/form down the secondary/backup path
+- Number of successful submissions with old 0781/a PTSD data/form
 
 ---
 
