@@ -100,7 +100,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 •	Desired date range: **3/19 in 2 hour increments over a total of 6 hours**
 
-•	**Targeting 7am – 1pm ET**
+•	**Targeting 8am – 2pm ET**
 
 •	How will you make the product available in production while limiting the number of users who can find/access it: 
 
