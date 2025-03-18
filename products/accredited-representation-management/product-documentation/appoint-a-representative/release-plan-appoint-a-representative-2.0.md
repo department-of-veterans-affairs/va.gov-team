@@ -5,10 +5,18 @@ Feature Toggle/flag:
 
 This feature toggle is setup for authenticated users and we can also enable early access in Production to individual users, via email address.
 
-#### Go/No Go meeting TBD
+#### Go/No Go Meeting
 - [x] Test the 2.0 flow in Production
 - [x] Review the release plan
 - [ ] Determine a verdict
+
+On March 14, 2025 we had a Go/No Go call with ARF and Lighthouse to test the flow in Production. The following issues were found:
+1. Limitations on medical authorizations are not apperaing correctly in ARP (https://github.com/department-of-veterans-affairs/va.gov-team/issues/104435). **LAUNCH BLOCKING**
+2. The Confirmation and Decline email notifications are not being sent in Production (https://github.com/department-of-veterans-affairs/va.gov-team/issues/105296).
+3. The Accept email notification was not sent in Production (Lighthouse is working to resolve).
+4. The POA request moved to established, but was still appearing as pending in ARP due to the email failure (Lighthouse is working to resolve).
+
+The team is awaiting the medical authorization fix to deploy to Production before gathering again for another Go/No Go Production test.
 
 **Verdict:TBD**
 
