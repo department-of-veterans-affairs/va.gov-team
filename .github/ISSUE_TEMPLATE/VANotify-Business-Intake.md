@@ -37,18 +37,19 @@ assignees: GitSamJennings, davidconlon, kbelikova-oddball
 7.  **What will trigger the notification?**
     (ex., clicking submit, status updates for claims, appointment reminders, new services available)
   
-8.  **Provide sample content per notification type, if you have it.**
+8.  **Will this notification utilize vets-api?**
+9.  **Provide sample content per notification type, if you have it.**
     Please note we collaborate with all of our users on their content to ensure it meets standards.
 ​
-9.  **Has a Privacy Officer (PO) seen and approved the content? If not, do you know who your PO is?** [Privacy Officer Locator](https://dvagov.sharepoint.com/sites/OITPrivacyHub/SitePages/Privacy-Officer-Locator-Resources.aspx) - must be on VA network to access.
+10.  **Has a Privacy Officer (PO) seen and approved the content? If not, do you know who your PO is?** [Privacy Officer Locator](https://dvagov.sharepoint.com/sites/OITPrivacyHub/SitePages/Privacy-Officer-Locator-Resources.aspx) - must be on VA network to access.
     (ex., PO has seen the content but it is not approved)
 ​
-10.  **Would you prefer to provide contact information for the recipients or would you rather VA Notify look this up for you by Veteran ID? If by ID, please let us know what identifier is used in your system.**
+11.  **Would you prefer to provide contact information for the recipients or would you rather VA Notify look this up for you by Veteran ID? If by ID, please let us know what identifier is used in your system.**
     (ex., VAPROFILEID, PID, BIRLS, ICN, etc.)
 ​
-11.  **Do you currently capture communication preferences related to this notification? If so, please describe.**
+12.  **Do you currently capture communication preferences related to this notification? If so, please describe.**
     (ex., opt in for claim status updates via email or text)
 ​
-12.  **What is the anticipated volume of notifications per day, week, month?**
+13.  **What is the anticipated volume of notifications per day, week, month?**
 ​
-13.  **When does this notification need to be in production?**
+14.  **When does this notification need to be in production?**
