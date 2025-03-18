@@ -20,11 +20,11 @@
 | Privacy Act of 1974 (5 U.S.C. § 552a) | Establishes code of fair information practices governing the maintenance, use, and dissemination of information. Namely that personal information can only be shared if they (in this case the veteran) has given consent | consent | VA Form 10-5345 |
 | Health Insurance Portability and Accountability Act | National standards to protect sensitive patient health information from being disclosed without consent | HIPPA representatitve; consent | VA Form 10-5345 |
 | Veterans Benefits, Health Care, and Information Technology Act | Modified point in which attorneys or accredited agents could charge fees for services. Changed qualifications and standards for accredited attorneys |
-| Wounded Warriors Access Act (Public Law 118-21) | Requires a secure website or online tool for a claimant, agent, or representative to submit an electronic request for records maintained by the VA. Notibly it does not require online access for managing care |
+| Wounded Warriors Access Act (Public Law 118-21) | Requires a secure website or online tool for a claimant, agent, or representative to submit an electronic request for records maintained by the VA. Notably it does not require online access for managing care |
 | Creating Advanced Streamlined Electronic Services for Constituents (CASES) Act (Public Law 116-50) | Requires agencies to accept electronic forms that allow individuals to consent to the disclosure of their records  |
 | Rehabilitation Act of 1973, Section 504 (29 U.S.C. § 794) | A civil rights law that prohibits discrimination including against veterans and their caregivers in accessing benefits and care|
 | Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Pub. L. 116–315) | Requires increased speed, data sharing, and transparency of claim status, including with an acredited representative and including electronic access |
-| Privacy Act of 1974  | protects individuals' personal information from being collected, used, and disclosed by federal agencies. It also gives individuals rights to access and correct their records |
+
 
 More related to caregiver material support and not so much access to data and ability to care for a ward
 - Elizabeth Dole Home and Community Based Services for Veterans and Caregivers Act of 2023 (Public Law No: 118-210) - supports caregivers and makes caregiver support more easily accessible
