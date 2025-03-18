@@ -10,7 +10,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 - To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data  
 - To jump start synthesis by quickly organizing high level themes  
     
-  **Research Goals:**  
+**Research Goals:**  
     
 - **Goal 1:** Form Structure– Validate that the new form flow is clear and intuitive to Veterans.
 
