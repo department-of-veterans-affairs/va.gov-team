@@ -19,14 +19,14 @@
 | 45 CFR § 164 | Requires risk analysis, authorization and clearance procedures, and safeguards against disclosure of protected health information. | access; safeguards; security incident |
 | Privacy Act of 1974 (5 U.S.C. § 552a) | Establishes code of fair information practices governing the maintenance, use, and dissemination of information. Namely that personal information can only be shared if they (in this case the veteran) has given consent | consent | VA Form 10-5345 |
 | Health Insurance Portability and Accountability Act | National standards to protect sensitive patient health information from being disclosed without consent | HIPPA representatitve; consent | VA Form 10-5345 |
-| Veterans Benefits, Health Care, and Information Technology Act | Modified point in which attorneys or accredited agents could charge fees for services. Changed qualifications and standards for accredited attorneys |
-| Wounded Warriors Access Act (Public Law 118-21) | Requires a secure website or online tool for a claimant, agent, or representative to submit an electronic request for records maintained by the VA. Notably it does not require online access for managing care |
-| Creating Advanced Streamlined Electronic Services for Constituents (CASES) Act (Public Law 116-50) | Requires agencies to accept electronic forms that allow individuals to consent to the disclosure of their records  |
+| Veterans Benefits, Health Care, and Information Technology Act | Modified point in which attorneys or accredited agents could charge fees for services. Changed qualifications and standards for accredited attorneys | security | 
+| Wounded Warriors Access Act (Public Law 118-21) | Requires a secure website or online tool for a claimant, agent, or representative to submit an electronic request for records maintained by the VA. Notably it does not require online access for managing care | claimant; agent; representatives |
+| Creating Advanced Streamlined Electronic Services for Constituents (CASES) Act (Public Law 116-50) | Requires agencies to accept electronic forms that allow individuals to consent to the disclosure of their records  | representatives, consent |
 | Rehabilitation Act of 1973, Section 504 (29 U.S.C. § 794) | A civil rights law that prohibits discrimination including against veterans and their caregivers in accessing benefits and care|
-| Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Pub. L. 116–315) | Requires increased speed, data sharing, and transparency of claim status, including with an acredited representative and including electronic access |
+| Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Pub. L. 116–315) | Requires increased speed, data sharing, and transparency of claim status, including with an acredited representative. It specifically requires veterans be able to manage VA medical records online | acredited representative
 
 
-More related to caregiver material support and not so much access to data and ability to care for a ward
+Related to caregiver material support and not so much access to data and ability to care for a ward
 - Elizabeth Dole Home and Community Based Services for Veterans and Caregivers Act of 2023 (Public Law No: 118-210) - supports caregivers and makes caregiver support more easily accessible
 - The VA MISSION Act of 2018 (Public Law No: 115-182) - provides increased access to support services and training to caregivers, and imposes reporting requirements about barriers to caregiver programs
 - The Caregivers and Veterans Omnibus Health Services Act of 2010 (Public Law 111–163) - provides comprehensive support to family caregivers of veterans. This includes training, financial support, and access to counseling services. It also introduced programs like the Family Caregiver Program, which provides resources to those caring for severely injured veterans.
