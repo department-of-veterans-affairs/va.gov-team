@@ -1,6 +1,6 @@
 # Decision Reviews Transition Hub
 
-**Updated 3/13/2025**
+**Updated 3/18/2025**
 
 **Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 
@@ -68,11 +68,23 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 # Roadmap
 
 **Now**
+- Update Supplemental Claim form with new fields to match paper form, and update some fields.
+  
 **Next**
+- Improve Veterans' clarity on decision review pathways with enhanced DR onramp
+- Provide Veterans with post submission status on MyVA Dashboard or CST
+- Upload failure emails to Veteran eFolders
+  
 **Future**
+- Digital support for new CUE decision review form
+- Downloadable copy of submission
+- Display Veteran information on previously contested claims
+- SC/HLR expansion beyond disability compensation
+ 
 
 
 ## Features and initiatives we worked on
+- INsert here
 
 ## Our team 2025 roster
 
