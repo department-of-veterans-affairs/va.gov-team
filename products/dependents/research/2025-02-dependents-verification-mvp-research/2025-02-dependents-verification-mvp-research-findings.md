@@ -96,7 +96,7 @@ Each participant was shown the following:
    1. **Some particpants were confused by existing language on the Your VA Dependents page.** Of the participants prompted to review the sections "Dependents on your VA Benefits" and "Dependents not on your VA Benefits," 2 of 7 were caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected.
    1. **All participants expected to be able to correct dependent info from within the form.** All of the 6 participants prompted with the need to correct personal information for their existing dependents chose to do so via the Yes: Update option, causing some confusion who followed that path and saw only language to "add or remove" dependents. None of the prompted partcipants read the note regarding the need  to call the VA.
       1. **Most participants (8 of 10) had no trouble interacting with the primary CTA.** Apart from the confusion around what the "Update" option covers, most participants had no trouble selecting a path from the primary CTA. One participant rushed through the prototype without talking through his thought process, so it's not clear whether he chose update because he needed to make changes. Another participant felt that the page with the CTA contained too much information and could be broken down better.
-   1. **Most participants were given pause or faced confusion when correcting personal or contact information** Of the 9 participants prompted to make corrections to their contact information, 6 expected changes to the contact information within the form to also apply to their VA profile permanently. While 6 of 9 participants prompted with the need to correct personal information would call Veteran's Services, only 3 of those called because they read the directions to do so. The other three would call because they didn't see any options to update from within the form. 
+   1. **Most participants (6 of 9) were given pause or faced confusion when correcting personal or contact information** Of the 9 participants prompted to make corrections to their contact information, 6 expected changes to the contact information within the form to also apply to their VA profile permanently. While 6 of 9 participants prompted with the need to correct personal information would call Veteran's Services, only 3 of those called because they read the directions to do so. The other three would call because they didn't see any options to update from within the form. 
 
 5. Finding four
 
@@ -172,6 +172,17 @@ Labels/Keywords: RESRCH: Comprehension testing; Dependents; DSC: Form - Radio bu
 8 of 10 participants had no trouble progressing with their update or verify tasks when interacting with the primary CTA. Most participants understood the question "Do you need to update any of the dependents on your VA benefits?" and that a yes answer would take them to options to update dependents and a no answer would take them to options to verify, with two participants clearly reading through the specific forms they were connected to. One participant rushed through the prototype without talking through his thought process, so it's not clear whether he chose update because he needed to make changes. Another participant felt that the page with the CTA contained too much information and could be broken down better. There's an opportunity here to improve clarity by breaking up the asks around update and verify here to avoid risks of Veterans overlooking key information. 
 
 > _Supporting data: "Make things simpler instead of putting everything there...It's a lot of words." (P6)_
+
+**3.3 Most participants were given pause or faced confusion when correcting personal or contact information** 
+
+Labels/Keywords: RESRCH: Comprehension testing; Dependents; DSP: Help users to check personal information
+
+Of the 9 participants prompted to make corrections to their contact information, 6 expected changes to the contact information within the form to also apply to their VA profile permanently. While 6 of 9 participants prompted with the need to correct personal information would call Veteran's Services, only 3 of those called because they read the directions to do so. The other three would call because they didn't see any options to update from within the form. 2 participants were surprised that they needed to confirm personal information at all as a part of verifying their dependents. To avoid risks of abandonment or delay in form completion, we could use the pattern that explicitly gives users the option to have contact changes apply to the profile. We might also break up information so users are less likely to overlook the note on contacting Veteran's Services or (long-term) offer the possibility to update personal information on VA.gov. 
+
+> _Supporting data: "Why do I have two different addresses?" (P6)_
+
+> _Supporting data: "There are some people who will change their phone number as often as they change their underwear." (P8)_
+
 
 ## Additional Insights
 
