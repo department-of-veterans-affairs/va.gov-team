@@ -18,7 +18,7 @@
 | 38 CFR 1.600–1.603 | Establishes policy, assigns responsibilities, and prescribes procedures for how VA delegates access VA IT systems containing veteran information. Notabily this does not establish a right to electronic access | VA Form 21-22a |
 | 45 CFR § 164.308 | Requires risk analysis, authorization and clearance procedures, and safeguards against disclosure of protected health information |
 | Privacy Act of 1974 (5 U.S.C. § 552a) | Establishes code of fair information practices governing the maintenance, use, and dissemination of information. Namely that personal information can only be shared if they (in this case the veteran) has given consent | VA Form 10-5345 |
-| Health Insurance Portability and Accountability Act | National standards to protect sensitive patient health information from being disclosed without consent |
+| Health Insurance Portability and Accountability Act | National standards to protect sensitive patient health information from being disclosed without consent | VA Form 10-5345 |
 | Veterans Benefits, Health Care, and Information Technology Act | Modified point in which attorneys or accredited agents could charge fees for services. Changed qualifications and standards for accredited attorneys |
 | Wounded Warriors Access Act (Public Law 118-21) | Requires a secure website or online tool for a claimant, agent, or representative to submit an electronic request for records maintained by the VA. Notibly it does not require online access for managing care |
 | Creating Advanced Streamlined Electronic Services for Constituents (CASES) Act (Public Law 116-50) | Requires agencies to accept electronic forms that allow individuals to consent to the disclosure of their records  |
