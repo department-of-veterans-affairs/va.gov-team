@@ -228,12 +228,11 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+1. **Provide more context to Veterans around what dependent verification means** within the context of the 8-year-mandate via VA Form 21-0538. This context can be provided at key entry points to the MVP on VA.gov, such as the parent page for dependent management (View or change dependents), Your VA Dependents, the About VA Form 21-0538 page, and a potential future parent page for dependent verification.
+   1. We also need to coordinate with VBA to share information about the option to verify on VA.gov in their communications (such as the 0538 batch letter) once the online experience is ready.
+   2. When planning for the long-term vision of dependent management on VA.gov, the option to verify might be integrated into the existing 686c/674 experience (e.g. asking Veteran to verify after making a change to dependents). This would entail ensuring proper context around what verification means is included in this addition to the 686c/674 experience.
+  
+   3. 
 
 
 ## Next Steps
