@@ -88,9 +88,13 @@ Each participant was shown the following:
 
 ## Key Findings
 
-1. **Most participants (8 of 10) were unfamiliar with the relevant verification process** (the mandated verification of dependents via VA Form 21-0538) when asked about their experiences with verification. Instead, they described the initial verification of their dependents' identities (confirming documentation), regular updates of identification (perhaps connected to healthcare benefits), or other experiences that do not align with the 8-year mandate (verifying more frequently online or based on events like their dependents aging out at 18 years old). 
+1. **Most participants were not familiar with the dependent verification process in general, and this lack of familiarity shows a risk of not taking action on the verification ask in our designs.**
 
-2. **Several participants (6 of 10 from the email and 3 of 10 from the VA.gov experience) indicated that they would not need to take action beyond confirming that their dependents are correct** to verify. This poses a risk of abandonment before Veterans complete the verification task and potentially calls for more transparency around the 8-year mandate and other benefits to the Veterand beyond avoiding the risk of overpayments. 
+   1. **Most participants (8 of 10) were unfamiliar with the relevant verification process** (the mandated verification of dependents via VA Form 21-0538) when asked about their experiences with verification. Instead, they described the initial verification of their dependents' identities (confirming documentation), regular updates of identification (perhaps connected to healthcare benefits), or other experiences that do not align with the 8-year mandate (verifying more frequently online or based on events like their dependents aging out at 18 years old). 
+
+   1. **Several participants (6 of 10 from the email and 3 of 10 from the VA.gov experience) indicated that they would not need to take action beyond confirming that their dependents are correct** to verify. This poses a risk of abandonment before Veterans complete the verification task and potentially calls for more transparency around the 8-year mandate and other benefits to the Veterand beyond avoiding the risk of overpayments.
+  
+2. 
 
 3. **There are several points in the designs that showed the potential to hinder participants from completing their verification and update tasks.**
    1. **Some particpants were confused by existing language on the Your VA Dependents page.** Of the participants prompted to review the sections "Dependents on your VA Benefits" and "Dependents not on your VA Benefits," 2 of 7 were caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected.
