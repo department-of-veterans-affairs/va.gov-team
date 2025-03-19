@@ -88,16 +88,15 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 
 | Feature/Enhancement (Github link)| Status |
 | :--- | :--- |
-| Insert here | Dev in progress |
-| [Customized confirmation page](https://github.com/orgs/department-of-veterans-affairs/projects/1434/views/5?filterQuery=confirmation+page)| Dev completed and Implemented on all forms |
+| [Customized confirmation page](https://github.com/orgs/department-of-veterans-affairs/projects/1434/views/5?filterQuery=confirmation+page)| Design/Dev completed and Implemented on all forms |
 | [Rails Engine implementation](https://github.com/orgs/department-of-veterans-affairs/projects/1434/views/5?filterQuery=engine) | 95% completed |
 | [Tracking of VA notifications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94148) | Dev completed and Implemented|
 | [Tracking of form submissions (including 4142) for ZSF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95001)| Dev completed and Implemented|
-| [Failure notifications to Veterans](https://github.com/orgs/department-of-veterans-affairs/projects/1434/views/5?filterQuery=failure+email&pane=issue&itemId=82258636&issue=department-of-veterans-affairs%7Cva.gov-team%7C84372) | Dev completed and Implemented |
-| [In progress form redirect](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101571) | Dev completed and Implemented|
+| [Failure notifications to Veterans](https://github.com/orgs/department-of-veterans-affairs/projects/1434/views/5?filterQuery=failure+email&pane=issue&itemId=82258636&issue=department-of-veterans-affairs%7Cva.gov-team%7C84372) | Design/Dev completed and Implemented |
+| [In progress form redirect](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101571) | Design/Dev completed and Implemented|
 | [Enhanced DR onramp](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Enhanced-DR-Onramp-Initiative%20Brief.md) | In design of 1st prioritized solution |
 | Failure emails in e-Folders | Investigation underway |
-| VA Notify Callback Integration |Investigation underway|
+| [VA Notify Callback Integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105199) |Investigation underway|
 
 
 ## Our team 2025 roster
