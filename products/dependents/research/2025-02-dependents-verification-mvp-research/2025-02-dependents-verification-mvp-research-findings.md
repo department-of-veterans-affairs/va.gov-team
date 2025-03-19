@@ -309,17 +309,17 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We talked to **10 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 10
+* Caregivers: 0
+* Family members of a Veteran: 0
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 6
+* Female: 4 
 
 
 LGBTQ+:
