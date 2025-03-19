@@ -1,6 +1,6 @@
 # Decision Reviews Transition Hub
 
-**Updated 3/18/2025**
+**Updated 3/19/2025**
 
 **Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 
@@ -107,7 +107,12 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 <br>
 
 ### Recurring stakeholder meetings
+- Product Huddle biweekly Thursdays 2:30pm Est
+- Sprint review biweekly Wednesdays 3pm Est
+- DR/LH sync weekly Tuesdays 4pm Est
 
+### Contract End
+Current DR (Benefits Tools crew) contract ends 3/31
 
 <br>
 
