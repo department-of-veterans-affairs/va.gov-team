@@ -35,9 +35,8 @@ Check Settings -> Meeting -> In Meeting (Basic) > Hide participant profile pictu
 
 ## **Intro - max 5 minutes**
 
-Thanks for joining us today! My name is Cara and I'm a Researcher with the VA. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
-Today, I’d like to ask you some questions about managing your VA claims for travel reimbursement for medical care.
-Before we start, I have a few things that I want to go over with you:
+Thanks for joining us today! My name is Cara and I'm a Researcher with the VA. Today, I’d like to ask you some questions about submitting and managing your VA claims for travel reimbursement for medical care.  Before we start, I have a few things that I want to go over with you:
+
 - This entire session should take about 45 - 60 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. We may also end sooner than that, and if we have covered everything I want to cover, I'd love to give your time back to you.
 - Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 - During the session, I'll ask you to login to VA.gov and test some features using your own account. I'll be asking you to share your screen, which means we'll be seeing parts of your account, and potentially other health information. We will not use your personal health information for the study and will redact it from any notes we take. Are you ok with sharing your screen?
