@@ -24,14 +24,14 @@ Create a new 0781 online form that will match the newest paper version of the PD
 - [Figma 0781 redesigns-final](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=8144-135894)
 - [Final -0781 PS Field Mapping.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/0781%20Paper%20Sync/0781%20PS%20Field%20Mapping.md)
 - [Final - 0781 PS New SubURL.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/0781%20Paper%20Sync/0781%20PS%20New%20SubURL.md)
-
 - Architecture
 - Datadog log
 - Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) (pre-production)
 - Product Guide
-- Collaboration Cycle Plan
+- [Collaboration Cycle Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80848)
+- [0781 Paper Sync Staging Test Plan](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-526EZ-0781-mental-health.md)
 - [Release calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1739482666003/8c148f924688c05f897075c420034f628d3f0970)
-
+- 
 
 ## New capabilities and changes
 
