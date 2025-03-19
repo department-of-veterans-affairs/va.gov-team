@@ -2,7 +2,7 @@
 name: "Internal ADE Accessibility Office Hours Ticket"
 about: Template for ADE members to utilize, when needing to create a ticket to track work done to support office hours. Ex. Prepwork before the call. 
 title: 'Internal ADE Accessibility Office Hours Ticket'
-labels: 'ADE'
+labels: 'ADE, ADE Office Hours'
 assignees: artsymartha68,sara-amanda,lakper
 
 ---
