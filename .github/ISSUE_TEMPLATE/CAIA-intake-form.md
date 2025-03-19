@@ -2,7 +2,7 @@
 name: Content and IA Centralized Team Intake Form
 about: Use this ticket to start collaboration on a new initiative with the centralized content and information architecture team.
 title: "[Content/IA Intake] <Team Name>: <Initiative Name>"
-labels: sitewide CAIA, CAIA Intake
+labels: content-ia-centralized-team
 assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA,mnorthuis
 
 ---
