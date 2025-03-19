@@ -11,8 +11,8 @@ There are a few ways we catch errors that occur on our forms:
 3. View dashboards and/or logs (pinned timeframe will help isolate the event/request that triggered the alert)
     - If there’s any concern around data loss (i.e. evidence that didn’t get submitted), cross-check with queries in the database
       - We usually have a `user_uuid` in the DD log that we can use to look up `AppealSubmission` and `InProgressForm` records
-        - If we suspect there should be evidence uploads (i.e. it’s indicated in the form data sent to Lighthouse, though sometimes Veterans will choose to send in later) and InProgressForm is not available, we’ll want to see if we can find a SavedClaim record where the original form data is stored (which contains references to the evidence uploads)
-      - If they still have an InProgressForm, their form data is still available for the Veteran to resubmit on their own. 
+        - If we suspect there should be evidence uploads (i.e. it’s indicated in the form data sent to Lighthouse, though sometimes Veterans will choose to send in later) and InProgressForm is not available, we’ll want to see if we can find a `SavedClaim` record where the original form data is stored (which contains references to the evidence uploads)
+      - If they still have an `InProgressForm`, their form data is still available for the Veteran to resubmit on their own. 
           - \*\* We usually just leave these alone at this point because the Veteran can take action to try and resubmit, but not sure if that’s how we want to continue to handle this scenario \*\*
     - Can also follow-up by looking for additional logging of the user’s activity and check if they successfully resubmitted later on by filtering logs with the `user_uuid` and seeing if they got a 200 response to the controller for the form they tried to submit
     - Errors related to jobs (e.g. the evidence upload job, 4142 submit job) can be investigated using the @named_tag.jid or @payload.jid as a filter depending on the structure of the job log
