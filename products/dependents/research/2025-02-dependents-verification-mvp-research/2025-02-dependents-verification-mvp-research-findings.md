@@ -28,16 +28,19 @@ The purpose of this research was to
 
 ## Research Questions
 
+#### Mental Model Surrounding Dependent Verification
 - How does the Veteran find dependent management info and tools on VA.gov?
 - What actions and benefits do they associate with dependent management?
 - How do Veterans expect to be able to accomplish tasks they associate with dependent management?
 
+#### Dependent Verification Usability
 - Do directions and other informative language provide clarity or confusion?
 - Do the designs allow most Veterans to verify their dependents in one sitting?
 - Do we see indicators that a Veteran would take action immediately upon receiving the email?
   - Do they currently receive VA.gov notifications?
 - What content or IA decisions might impede the Veteran from completing the task to verify? Update?
 
+#### Dependent Verification Goal and Task Comprehension
 - Is the Veteran familiar with VA Form 0538?
 - Does the Veteran’s mental model match the task they’re completing?
 - Does the Veteran understand the impact of the dependency verification task?
