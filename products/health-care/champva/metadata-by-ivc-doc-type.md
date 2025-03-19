@@ -22,7 +22,7 @@ those values, the metadata JSON file also includes two more properties:
 |Property|Notes|
 |-|-|
 |`primaryContactInfo`|This contains a name and email address of the primary contact for a given form submission|
-|`attachment_ids`|An array including all the document types (`attachment_id`s) for the supporting documents sent with this submission. I.e., for a 10-7959c with one supporting document this might look like `['10-7959f-2', 'Schedule of benefits document']`|
+|`attachment_ids`|An array including all the document types (`attachment_id`s) for the supporting documents sent with this submission. I.e., for a 10-7959c with one supporting document this might look like `['10-7959c', 'Schedule of benefits document']`|
 
 ### File designations (used by PEGA to perform mappings)
 The following table lists all files collected by IVC forms. Each file's "attachment kind" is displayed. This
