@@ -131,7 +131,7 @@ The `directionsLinkAddress` is a variable defined from the below attributes. The
 {{ entity.fieldAddress.addressLine1 }}, {{ entity.fieldAddress.locality }}, {{ entity.fieldAddress.administrativeArea }} {{ entity.fieldAddress.postalCode }}
 ```
 
-Every content-build "Get directions on Google Maps" URL uses `addressLine`, `locality`, `administrativeArea` and `postalCode` retrieved from Drupal to construct the URLs.
+Every content-build "Get directions on Google Maps" URL uses `addressLine1`, `locality`, `administrativeArea` and `postalCode` retrieved from Drupal to construct the URLs.
 
 For most URLs, the constituent parts of `entity.fieldAddress` are straightforward and construct clean URLs. For instance, at https://www.va.gov/new-york-harbor-health-care/, under **Locations** / Margaret Cochran Corbin VA Campus, the address deconstructs into the following parts:
 
