@@ -54,15 +54,25 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
      - [Domo] 
      - [Google Analytics]
 - [Backend Stats on DataDog Dashboards](https://github.com/orgs/department-of-veterans-affairs/projects/1434/views/3?pane=issue&itemId=100169647&issue=department-of-veterans-affairs%7Cva.gov-team%7C104242)
-- [Real User Monitoring (RUM) Dashboard](https://vagov.ddog-gov.com/rum/sessions?query=%40type%3Asession%20%40application.id%3A133801ec-0b13-4a6f-9689-bd937a1ddf27&agg_m=count&agg_m_source=base&agg_t=count&fromUser=false&track=rum&from_ts=1742317166818&to_ts=1742403566818&live=true)
-
+- Real User Monitoring (RUM) Dashboards. Useful for watching recordings of Veterans interacting with the form or pages to determine points of frustration. All PII is masked.
+  - [Supplemental Claim]([https://vagov.ddog-gov.com/rum/sessions?query=%40type%3Asession%20%40application.id%3A133801ec-0b13-4a6f-9689-bd937a1ddf27&agg_m=count&agg_m_source=base&agg_t=count&fromUser=false&track=rum&from_ts=1742317166818&to_ts=1742403566818&live=true](https://vagov.ddog-gov.com/rum/replay/search?query=%40application.id%3A2779ccc3-be87-4b2d-a757-9ff54b58761b&replay_tab=all&from_ts=1741808233730&to_ts=1742413033730&live=true)
+  - [Notice of Disagreement](https://vagov.ddog-gov.com/rum/replay/search?query=%40application.id%3Acabce133-7a68-46ba-ac9b-68c57e8375eb&replay_tab=all&from_ts=1741808233730&to_ts=1742413033730&live=true)
+  - [Higher-Level Review](https://vagov.ddog-gov.com/rum/replay/search?query=%40application.id%3A321995f8-5fed-4b4f-907b-e3f5ec34c28f&replay_tab=all&from_ts=1741808233730&to_ts=1742413033730&live=true)
+  - [Decision Review static pages](https://vagov.ddog-gov.com/rum/replay/search?query=%40application.id%3A133801ec-0b13-4a6f-9689-bd937a1ddf27&replay_tab=all&from_ts=1741808233730&to_ts=1742413033730&live=true).
 
 **Engineering**
+
+- [SC notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/engineering)
+- [NOD notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering)
+- [HLR notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/engineering)
 
 **Latest discovery research**
 
 **DR Team resources**
 
+- [SC flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/supplemental-claims-flow.md)
+- [NOD flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/NOD_flow.md)
+- [HLR flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/HLR_flow.md)
 
 
 # Roadmap
