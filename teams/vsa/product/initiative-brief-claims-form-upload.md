@@ -12,6 +12,8 @@ We forked Simple Forms code as a starting point, rather than re-using it. Liftin
 - We need to do additional checks on the backend for an established Power of Attorney (POA)
 - We will eventually need to add multi-form upload for documents that require supporting evidence
 - Because reps are power users, we wanted to simplify the process by making the digital form one page
+
+Our plan is to start by piloting form upload for the 686c form, then expand to 526, then roll out a number of forms.
  
 </details>
 
