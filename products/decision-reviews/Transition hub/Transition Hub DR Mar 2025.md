@@ -53,7 +53,7 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 - Analytics dashboard: 
      - [Domo] 
      - [Google Analytics]
-- [Backend Stats on DataDog Dashboards](https://github.com/orgs/department-of-veterans-affairs/projects/1434/views/3?pane=issue&itemId=100169647&issue=department-of-veterans-affairs%7Cva.gov-team%7C104242)
+- [Backend DataDog Dashboards](https://github.com/orgs/department-of-veterans-affairs/projects/1434/views/3?pane=issue&itemId=100169647&issue=department-of-veterans-affairs%7Cva.gov-team%7C104242)
 - Real User Monitoring (RUM) Dashboards. Useful for watching recordings of Veterans interacting with the form or pages to determine points of frustration. All PII is masked.
   - [Supplemental Claim](https://vagov.ddog-gov.com/rum/replay/search?query=%40application.id%3A2779ccc3-be87-4b2d-a757-9ff54b58761b&replay_tab=all&from_ts=1741808233730&to_ts=1742413033730&live=true)
   - [Notice of Disagreement](https://vagov.ddog-gov.com/rum/replay/search?query=%40application.id%3Acabce133-7a68-46ba-ac9b-68c57e8375eb&replay_tab=all&from_ts=1741808233730&to_ts=1742413033730&live=true)
