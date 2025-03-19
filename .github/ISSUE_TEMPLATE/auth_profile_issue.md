@@ -1,8 +1,8 @@
 ---
 name: Authenticated Experience Issue Template
 about: Basic template for creating Authenticated Experience team issues
-title: Practice Area | Profile | [Project]| [Issue Name]
-labels: authenticated-experience, needs-refinement, profile
+title: Practice Area | [Product] | [Project]| [Issue Name]
+labels: authenticated-experience, needs-refinement, profile, my-va-dashboard
 assignees: ''
 
 ---
@@ -11,8 +11,9 @@ assignees: ''
 Describe the issue background and scope
 
 
-
-
+## Tasks
+- [ ]
+  
 ## Acceptance Criteria
 - [ ] Tasks
 
