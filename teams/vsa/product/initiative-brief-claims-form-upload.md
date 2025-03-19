@@ -2,7 +2,11 @@
 #### Overview
 
 <details>
-Representatives need a way to submit forms for their claimants. We had a way for veterans to submit forms using Simple Forms. We forked Simple Forms code as a starting point. Lifting and shifting the code saved us a lot of time. In the early design phases, it became clear that forking the code rather than reusing it in-place was the better option:
+Representatives need a way to submit benefits claims forms on the Accredited Representative Portal. VA has asked us to find the quickest path to getting the most forms possible supported on VA.gov. Existing digitized forms are Veteran-centric and use the wizard pattern. Our technical exploration found that reusing Veteran-facing forms is suboptimal design (reps are power users and research shows that they don't want a card/wizard pattern), and the eng lift would create a lot of messy conditional logic and be vulnerable to continued breaking.
+
+Simple Forms is a PDF-only form submission tool that can easily be extended to cover many forms and meets accessibility standards, so our POs directed us to use Simple Forms to stand up the first version of claims submission in ARP. We will iterate from there, and although all claims will initially go through the mail portal, we hope to establish claims directly using structured data in future iterations, and are exploring ways to do that. 
+
+We forked Simple Forms code as a starting point, rather than re-using it. Lifting and shifting the code saved us a lot of time, but in the early design phases, it became clear that forking the code rather than reusing it in-place was the better option:
 
 - We needed to make it an Accredited Representative Portal (ARP) app which required functionality changes
 - We need to do additional checks on the backend for an established Power of Attorney (POA)
