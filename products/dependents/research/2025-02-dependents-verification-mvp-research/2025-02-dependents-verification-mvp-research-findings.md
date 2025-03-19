@@ -53,27 +53,27 @@ We conducted ten hour-long remote moderated research sessions via Zoom from Febr
 Each participant was shown the following: 
 
 - An email notification from VA.gov that would be sent annually to direct Veterans to review and verify or update their dependents on VA.gov
-- The verification experience, beginning on Your VA Dependents
+- The verification experience, beginning with Your VA Dependents
   - The verification flow that ends with the Veteran submitting a VA Form 21-0538
-  - The update flow that ends with the introduction page for the online tool, Request to add or remove VA dependents (VA Forms 21-686c and/or 21-674)
+  - The "update" flow that ends with the introduction page for the online tool Request to add or remove VA dependents (VA Forms 21-686c and/or 21-674)
 - The batch request letter for VA Form 21-0538 that Veterans currently receive on an 8-year cadence
 
 ## Hypotheses and Conclusions
 
 1. Most Veterans will be familiar with VA.gov notifications.
-   1. TRUE: Most participants already received notifications from VA.gov, though most of them were related to healthcare benefits (information about prescription refills, appointments, etc.) or newsletters. Participants were familiar with receiving notifications via text, email, mail, and via the app.
+   1. TRUE: Most participants already received notifications from VA.gov, though most were related to healthcare benefits (information about prescription refills, appointments, etc.) or newsletters. Participants were familiar with receiving notifications via text, email, mail, and via the app.
 
 1. Most Veterans will engage directly with the email notification.
    1. MAYBE TRUE: While some found the language “weak” or only saw the need to take action if one of the reasons to update applied to them, most would click the call-to-action or go to VA.gov directly “just to see” to review dependents.
 
-1. Veterans will have clarity around the request, but may have a lack of clarity with understanding the implications of the request.
+1. Veterans will understand the request clearly, but they may lack clarity about its implications.
    1. MAYBE TRUE: While most participants understood that they were asked to review the accuracy of their dependents and update the information if necessary, it remains unclear whether they associate "verification" with a task related to forms. Half of the participants were familiar with overpayments and recognized the benefit of keeping their dependents up-to-date. However, it's unclear whether participants associate verification with fulfilling the 8-year mandate. Most were unfamiliar with the 8-year mandate. There was some indication that participants would prefer to complete this task online for convenience.
  
 1. Veterans will use VA.gov’s search or benefits menu to find dependent management tools and information.
-   1. MAYBE TRUE: Some participants would use search or the main menu. Others would look to the authenticated menu, an authenticated hub like MyVA, the top links on VA.gov, or would use the app to manage dependents.
+   1. MAYBE TRUE: Some participants would use search or the main menu. Others would look to the authenticated menu, an authenticated hub like MyVA, or the top links on VA.gov, or they would use the app to manage dependents.
 
-1. Most Veteran’s mental models will match the task to verify or update dependents.
-   1. NOT ENOUGH INFORMATION: Veterans could complete the task, but it’s unclear whether participants understood the task's connection to the 8-year mandate. There was also some confusion around what "Update" means in regards to updating dependents in the MVP.
+1. Most Veterans’ mental models will match the task to verify or update dependents.
+   1. NOT ENOUGH INFORMATION: Veterans could complete the task, but it’s unclear whether participants understood the task's connection to the 8-year mandate. There was also some confusion around what "Update" means regarding updating dependents in the MVP.
 
 1. Most Veterans will understand that they must still respond to a paper 21-0538 request after completing the update or verify task on VA.gov (won’t disregard future paper requests)
    1. LIKELY FALSE: When prompted with receiving a paper 0538 after verifying on VA.gov caused confusion. Participants interpreted the 0538 batch letter as confirmation of verification on VA.gov or were confused/upset that they received this, seeing it as redundant. Many would call the VA to gain clarity.
@@ -84,7 +84,7 @@ Each participant was shown the following:
 1. Veterans will expect to be able to edit, add, or remove individual dependents quickly.
    1. DEFINITELY TRUE: Most participants expected to be able to update dependent information on VA.gov. Some participants who expected to be able to change their dependent’s personal information but could not do so in the flow of the form found it frustrating.
 
-1. Most Veterans will complete the dependency verification task with clarity and in one sitting.
+1. Most Veterans will complete the dependency verification task clearly and in one sitting.
    1. LIKELY TRUE: When following the happy path, most participants completed the task and described it as "quick" and "easy." If participants saw personal information that needed correction or ran into other points of confusion, it would often prompt them to call the VA, risking abandonment of the task.
 
 1. Some Veterans may find the tool unfamiliar or unexpected.
@@ -105,11 +105,11 @@ Each participant was shown the following:
 
     1. **Participants would benefit from greater context at verification entry points.** While most participants could navigate back to the verification entry point, Your VA Dependents, within the same session using the back button or breadcrumb links, it's unclear whether Veterans who exit their session would be able to find Your VA Dependents again with the same ease. Our findability explorations prior to the study, as well as results prompting participants to locate dependent management tools from the VA.gov homepage, suggest they might face difficulty. For the MVP launch, we recommend adding content to provide context for our dependent verification experience to key entry points, like the About VA Form 21-0538 page and the dependent's parent static page.
    
-     1. **Most participants, when prompted to locate dependent management tools from VA.gov home, expected to find them under the main menu (4) or a hub like MyVA (3).** We should consider these expectations when planning for how dependents are represented on VA.gov's information architecture in order to ensure the findability of dependent management and dependent verification align with Veteran expectations. 
+     1. **Most participants, when prompted to locate dependent management tools from the VA.gov home, expected to find them under the main menu (4) or a hub like MyVA (3).** We should consider these expectations when planning for how dependents are represented on VA.gov's information architecture in order to ensure the findability of dependent management and dependent verification align with Veteran expectations. 
 
 3. **Several design points showed the potential to hinder participants from completing their verification and update tasks.**
-   1. **Some participants were confused by existing language on the Your VA Dependents page.** Of the participants prompted to review the sections "Dependents on your VA Benefits" and "Dependents not on your VA Benefits," 2 of 7 were caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected.
-   1. **All participants expected to be able to correct identifying dependent information such as SSN, DOB, etc., from within the form.** All 6 participants prompted with the need to correct personal information for their existing dependents chose to do so via selecting the “Yes: Update” option, causing some confusion for those who followed that path and saw only the language to "add or remove" dependents. None of the prompted participants read the note mentioning to call the VA.
+   1. **Some participants were confused by the existing language on the Your VA Dependents page.** Of the participants prompted to review the sections "Dependents on your VA Benefits" and "Dependents not on your VA Benefits," 2 of 7 were significantly confused. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected.
+   1. **All participants expected to be able to correct identifying dependent information, such as SSN, DOB, etc., from within the form.** All 6 participants prompted with the need to correct personal information for their existing dependents chose to do so via selecting the “Yes: Update” option, causing some confusion for those who followed that path and saw only the language to "add or remove" dependents. None of the prompted participants read the note mentioning to call the VA.
       1. **Most participants (8 of 10) had no trouble interacting with the primary CTA.** The primary CTA here is a radio button component where the user is asked if they need to update their dependents and offered the options to answer "Yes" to add or remove dependents via the online tool for 686c/674 or "No" to verify that all dependents are correct with our online MVP for VA Form 21-0538. Apart from the confusion around what the "Update" option covers, most participants had no trouble selecting a path from the primary CTA. One participant rushed through the prototype without talking through his thought process, so it's not clear whether he chose to update because he needed to make changes. Another participant felt that the page with the CTA contained too much information and could be broken down better.
    1. **Most participants (6 of 9) were given pause or faced confusion when correcting personal or contact information** Of the 9 participants prompted to make corrections to their contact information, 6 expected changes to the contact information within the form to also apply to their VA profile permanently. While 6 of 9 participants prompted to correct personal information would call Veteran's Services, only 3 of those called because they read the directions to do so. The other three would call because they didn't see any options to update from within the form. 
 
@@ -132,7 +132,7 @@ When asked to describe their understanding of or experiences with dependent veri
 
 Others described processes that may be affiliated with other benefits such as healthcare, such as being asked to update identification on file every 2 years. Others described experiences that do not align with the 8-year mandate, such as verifying every 3 to 4 years or verifying online (a feature that isn't available yet for dependent verification). Some described verification as being related to life events that could lead to needing to update dependents, such as a dependent child turning 18. 
 
-This represents a risk that Veterans won't have context for dependency verification as related to the 8-year mandate and a need to provide that context at key entrypoints on VA.gov and elsewhere. 
+This represents a risk that Veterans won't have context for dependency verification related to the 8-year mandate, and there is a need to provide that context at key entry points on VA.gov and elsewhere. 
 
 > _Supporting data: "Just verifying that he's my legal husband to be on my benefits." (P2)_
 
@@ -186,7 +186,7 @@ If we continue to show these two sections, there are opportunities to improve cl
 
 Labels/Keywords: RESRCH: Comprehension testing; Dependents; DSP: Help users to check personal information
 
-All of the 6 participants prompted with the need to correct personal information for their existing dependents chose to do so via the "Yes: Update" option. This caused some confusion for participants who followed that path and saw only language to "add or remove" dependents. None of the prompted partcipants read the note regarding the need  to call the VA. This poses a risk that Veterans may grow frustrated with the form or give up on correcting inaccurate dependent information. 
+All of the 6 participants prompted with the need to correct personal information for their existing dependents chose to do so via the "Yes: Update" option. This caused some confusion for participants who followed that path and saw only language to "add or remove" dependents. None of the prompted participants read the note regarding the need  to call the VA. This poses a risk that Veterans may grow frustrated with the form or give up on correcting inaccurate dependent information. 
 
 > _Supporting data: "Update and edit is pretty much the same thing." (P3)_
 
@@ -202,7 +202,7 @@ Labels/Keywords: RESRCH: Comprehension testing; Dependents; DSC: Form - Radio bu
 
 Labels/Keywords: RESRCH: Comprehension testing; Dependents; DSP: Help users to check personal information
 
-Of the 9 participants prompted to make corrections to their contact information, 6 expected changes to the contact information within the form to also apply to their VA profile permanently. While 6 of 9 participants prompted with the need to correct personal information would call Veteran's Services, only 3 of those called because they read the directions to do so. The other three would call because they didn't see any options to update from within the form. 2 participants were surprised that they needed to confirm personal information at all as a part of verifying their dependents. To avoid risks of abandonment or delay in form completion, we could use the pattern that explicitly gives users the option to have contact changes apply to the profile. We might also break up information so users are less likely to overlook the note on contacting Veteran's Services or (long-term) offer the possibility to update personal information on VA.gov. 
+Of the 9 participants prompted to correct their contact information, 6 expected changes to the contact information within the form to also apply to their VA profile permanently. While 6 of 9 participants prompted with the need to correct personal information would call Veteran's Services, only 3 of those called because they read the directions to do so. The other three would call because they didn't see any options to update from within the form. 2 participants were surprised that they needed to confirm personal information at all as a part of verifying their dependents. To avoid risks of abandonment or delay in form completion, we could use the pattern that explicitly gives users the option to have contact changes apply to the profile. We might also break up information so users are less likely to overlook the note when contacting Veteran's Services or (long-term) offer the possibility to update personal information on VA.gov. 
 
 > _Supporting data: "Why do I have two different addresses?" (P6)_
 
@@ -224,13 +224,13 @@ Two of our participants had children automatically age out at 18 before they gra
 
 We prompted participants to receive the 0538 batch letter requesting the 8-year mandated verification after having verified on VA.gov to assess risk if such a thing were to happen post-launch. This is important because, for the initial MVP, updating dependents will not generate a 21-0538, meaning Veterans would still be responsible for the 8-year mandated verification if they only updated through the verification experience on VA.gov. 
 
-Several participants initially interpreted it as a confirmation of their actions to verify on VA.gov. Others were confused or frustrated by why they were receiving the letter, seeing it as redundant, wondering why they verified on VA.gov if they were still going to receive this letter or concerned that there had been some sort of mistake. Most participants who realized the letter was requesting action from the Veteran indicated they would call to confirm what they needed to do. This shows the need to coordinate any outreach directing Veterans to the verification MVP on VA.gov with 0538 batch letters being sent to avoid this confusion. 
+Several participants initially interpreted it as a confirmation of their actions to verify on VA.gov. Others were confused or frustrated by why they were receiving the letter, seeing it as redundant, wondering why they verified on VA.gov if they were still going to receive this letter, or concerned that there had been some mistake. Most participants who realized the letter was requesting action from the Veteran indicated they would call to confirm what they needed to do. This shows the need to coordinate any outreach directing Veterans to the verification MVP on VA.gov with 0538 batch letters being sent to avoid this confusion. 
 
 > _Supporting data: "This should be a confirmation of what I did online. And you already have a receipt of this website. It's very confusing" (P10)_
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study but may be part of one outside this study._
+_Any additional insights that aren't "key findings." These can be powerful comments from users that don't represent a pattern in this study but may be part of one outside this study._
 
 
 ## Recommendations
@@ -241,8 +241,8 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 2. **Implement findability improvements suggested by the CAIA team and validated by research.** Leading up to this study, our team conducted some findability explorations that we shared with the team formerly known as CAIA, who made several [recommendations](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717521751866/127cbff63df95bedf011a5463797989197bc069d?sender=u859fac93c61da901b7914439) both for dependent verification on VA.gov specifically and for dependent management more generally. Our study reinforced some of those recommendations:
    1. Again, provide context for dependent verification on key pages related to dependent management and other cross-link pathways.
-   2. Provide richer information for dependent cards on Your VA Dependents, including what benefits these dependents are (or have been) connected to, information around eligibility for other benefits, and links out to further information and next steps, upcoming changes or life events, and links to quickly remove, re-add, or correct dependents with auto-fill. _Images of card mocks here_
-   3. Improvements to dependent management findability on VA.gov overall, including a more obvious home in the main menu, and enrichment of search keywords.
+   2. Provide richer information for dependent cards on Your VA Dependents, including what benefits these dependents are (or have been) connected to, information around eligibility for other benefits, and links out to further information and next steps, upcoming changes, or life events, and links to quickly remove, re-add, or correct dependents with auto-fill. _Images of card mocks here_
+   3. Improvements to dependent management findability on VA.gov overall, including a more obvious home in the main menu and enrichment of search keywords.
   
 3. **Break down steps in verify or update flow to improve readability and comprehension, especially regarding correction handling.** Rather than asking if the Veteran would like to update or verify on the same page as we're providing directions for how to correct personal information for dependents, we can break up this information in the following way: _Images of new mocks here also_
    1. Do you need to update your dependents?
@@ -254,14 +254,14 @@ _Any additional insights that aren't "key findings." These can be powerful comme
       2. No
          1. Would you like to verify your dependents?
 
-4. While Veterans were more familiar with the process to call to correct personal information for themselves, **breaking down personally identifying information in a similar way could improve readability and avoid risk of confusion,** with an eye toward exploring the possibility of allowing personal information to be updated on VA.gov, which would align with many Veterans' expectations.
+4. While Veterans were more familiar with the process of calling to correct personal information for themselves, **breaking down personally identifying information in a similar way could improve readability and avoid the risk of confusion,** with an eye toward exploring the possibility of allowing personal information to be updated on VA.gov, which would align with many Veterans' expectations.
    
-5. **Give Veterans the option to update profile information when updating contact information within the form,** which already exists in a [VADS pattern](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=4013-14358&t=MC0Edy1AehQfrVg0-1). This will force them to acknowledge that contact information updates do not apply to profile information unless they opt in.
+5. **Give Veterans the option to update profile information when updating contact information within the form,** which already exists in a [VADS pattern](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=4013-14358&t=MC0Edy1AehQfrVg0-1). This will force them to acknowledge that contact information updates do not apply to profile information unless they opt-in.
 
 6. **Move confirmation of Veteran's personal and contact info to the beginning of the form flow to align with other forms.** Also, ensure we're providing context around why we're asking the Veteran to review this information (it's required for VA Form 21-0538 and we'll use it to contact you for further information if needed).
 7. **Work with VBA to align on notifications for dependent verification and dependent management in general**
    1. Share the risks and potential solutions of coordinating a dependent verification notification launch with 8-year mandated batch letters.
-   2. Create a suggested timeline for when specific steps in a dependent verification notification launch should happen (including what's required of the online experience prior to a notification launch, such as generating 21-0538 forms from dependent updates).
+   2. Create a suggested timeline for when specific steps in a dependent verification notification launch should happen (including what's required of the online experience before the notification launch, such as generating 21-0538 forms from dependent updates).
    3. Share other findings that may be relevant to VBA, such as the pattern of pain points around the 18-year-old to school-age transition. 
 
 ## Next Steps
@@ -271,7 +271,7 @@ _Next steps here. Include owners if appropriate._
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+_If there are demographics that were not included in this study or you discovered that more research should be done, make a note of that here._
 
 
 ## Appendix
