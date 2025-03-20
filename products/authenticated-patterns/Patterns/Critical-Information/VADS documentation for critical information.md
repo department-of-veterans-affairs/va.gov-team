@@ -60,15 +60,12 @@ Kristen Faiferlick (Ad Hoc)
 
 ### When to use Critical information
 
-* **When you want to highlight a single task that will otherwise block the user from proceeding.** Use the Critical information component for important and time-sensitive tasks that prevent the user from accessing their VA benefits or VA services. For example, they might need to request a refill to continue using a specific prescription, check into an appointment before their appointment, complete an Intent to File before filing a disability or pension claim, or pay an overdue debt to prevent VA from offsetting VA benefit payments. 
+* **When you want to highlight a single task that will otherwise block the user from proceeding.** Use the Critical information component for important and time-sensitive tasks that prevent the user from accessing their VA benefits or VA services. For example, they might need to request a refill to continue using a specific prescription, check into an appointment, or pay an overdue debt to prevent VA from offsetting VA benefit payments. 
 
 ### When not to use Critical information
 
 * **When an action is not urgent, time-sensitive, or required.** Use the [Alert](https://design.va.gov/components/alert/) component instead.
-* **When the user can't complete an action online.** The Critical information component always has a link. When users can't complete an action online, you shouldn't use this component (ex: user needs to mail paperwork). Actions that require two links must use the Alert component, which can have multiple links (ex: user need to call a VA medical facility and see both the standard phone number and Teletypewriter (TTY) phone number.)
 * **When you need to alert the user about a system error.** Use Alerts to express system errors.
-* **When you need to include long messages.** Keep content concise within the Critical information component. The Critical information component links to another page that can have more information. The page you link to must be the page where the user can take the action. Review [Content considerations](#content-considerations) for more guidance.
-* **When you need to nest another components within each other.** If you want to nest other components inside of a Critical information component, use Alert, [Card](https://design.va.gov/components/card), or [Summary box](https://design.va.gov/components/summary-box) instead. For example, this might include nesting Action links, Buttons, Additional info, or Accordions within your main component.
 * **When you're designing a form.** Use the Alert component to display important messages instead. 
 
 ### Anatomy or layout details
