@@ -25,18 +25,14 @@
 * I'd also love for you to tell us a little about yourself.
    * [PAUSE FOR PARTICIPANT to introduce themself]  
 * Nice to meet you!  
-* We do have a couple other team members in the waiting room who would like to observe and help take notes. But before we invite them, I'd like to tell you more about what we're doing today.  
-* The subject of our research today is to better understand the caregiver experience at the VA on.   
-* Today we're going to talk about how manage VA benefits and health care for the Veteran you care for.  
+---
+* The subject of our research today is to better understand the caregiver experience at the VA.   
 * In this session, we want to hear your honest opinions. The goal is to improve this process to better meet Veterans needs. We will not be offended by any opinions you express, and we welcome your candid feedback.  
 * This entire session will take no more than 30 minutes.  
 * I do want you to be as comfortable as possible, so if for any reason and at any time you want to pause or even stop the session, please let me know.  
 * Any questions so far?
 ---
 
-* Ok, let’s get to the folks we have waiting to join the session. Are you ok that they join us now to take notes and listen in as we chat?
-  * \[If NO\]: Use Slack to kindly ask the observers to leave the Zoom.  
-  * \[If YES\]: Admit observers.  
 * Let’s have each of our observers quickly go around and introduce themselves with cameras on, please.  
   * \[PAUSE for observers to introduce themselves\]  
 * Ok and now I’ll ask our notetakers and observers to mute themselves and turn off their cameras for the remainder of the sessions to save on distractions and to save Zoom bandwidth.  
