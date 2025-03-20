@@ -44,7 +44,7 @@ To ensure a smooth transition, our team is executing a multi-pronged engagement 
 
 ## Key Accomplishments (Last 6 Months)  
 - Organized **150+ nationwide sign-up events** at VA facilities and trained **450+ VA employees** to provide in-person Veteran support.  
-- Integrated **5 data sources** to deliver **weekly reports** quantifying Veterans without modern credentials; insights directly informed VA leadership’s decision to extend the **MHV sunset date from January to March 2025**.  
+- Integrated **5 data sources** to deliver **weekly reports** quantifying Veterans without modern credentials; insights helped to inform VA leadership’s decision to extend the **MHV sunset date from January to March 2025**.  
 - Developed an **Edge Case Catalog** to identify **20+ transition blockers**, align them to solutions, and monitor progress toward resolution.  
 - Escalated **365+ Veteran cases** to direct VA & CSP support.  
 - Designed & deployed **support materials** for VA medical staff and call centers.
