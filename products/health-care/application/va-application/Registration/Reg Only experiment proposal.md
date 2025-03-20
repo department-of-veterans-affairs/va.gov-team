@@ -74,14 +74,13 @@
           - If a Veteran wants to make an appointment online, they must be registered with a facility, which also would mean they are already "in the system".  The Registration path can would allow a Veteran new to VA to "get in the system" and register with a facility, then immediately be directed through the appointment process.  It could be all one step, rather than separate forms and processes.
 
 
-## Next Steps
+## Next Steps - THIS IS NO LONGER APPLICABLE AS OF 3/7/2025.  ADDITIONAL WORK TO IMPLEMENT IN CONJUNCTION WITH APPOINTMENTS OR OTHER SIMILAR WORKFLOWS WOULD BE A FUTURE INITIATIVE
 - Initial thoughts (pre-experiment)
      - If there is enough interest in Registration pathway online after month 1 to indicate a trend, then we will run a research session to gain feedback on a previously designed user flow, content and presentation.
      - If there is enough interest in Registration pathway online, then we will consider how to integrate Registration process in the form as well as with VES to accept the data (not currently set up to receive this from VA.gov).
      - If there is not enough interest in Registration pathway online, we will consider removing the experiment from the form.  
           - We may need to confirm policy/regulation requirements from HEC.  What happens if we have to provide "registration" option?
                - If we have to provide a registration option, possible solutions are to leave experiment in the form, or pose the choice in a different way/place in the form.
-
 Additional research questions
 - Is there a significant increase in calls from service connected Veterans asking about registration?
 - If so, do they end up registering them or does the call center staff encourage the Veteran to enroll instead?
