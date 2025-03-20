@@ -55,6 +55,11 @@ Between July 2024 and March 2025, VA engaged in an organization-wide campaign to
 - [Domo: Sign-in transition dashboard](https://va-gov.domo.com/page/1862108618?userId=367226722)
 - [Datadog: Interstitial metrics](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vagov-identity-monitor-dashboard?fromUser=false&index=*&refresh_mode=paused&from_ts=1737125001775&to_ts=1737139401775&live=false&tile_focus=3815395182095420)
 
+### OCTO 2025 OKRs
+
+#### OKR2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.
+- **O2.1**: 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
+
 ### User data
 
 |Metric|Baseline (July 2024)|Data as of 3/4/25|
