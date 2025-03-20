@@ -315,12 +315,30 @@ _If there are demographics that were not included in this study or you discovere
 [2020-11 Dependency verification research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research/2020-11-dependency-verification-research)
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+**Primary criteria (must-haves):**
+
+- Veterans with disability benefits or Pension benefits
+- Veterans with dependents on their VA benefits (disability or Pension) currently or previously (spouse, child, stepchild, adopted child, school-aged child (18-23 years old), permanently disabled child, parent)
+- Representative of the VA population (with the exception of assistive technology which we will not include in this lightweight prototype-based research but will include in following research in staging or post-launch).
+- Veterans of varying cognitive abilities, with at least 50% with some sort of cognitive impairment
+- Veterans who are comfortable reading English
+- Veterans who have access to a computer or other device that will run Zoom and the prototype
+
+**Screener questions:**
+
+1. Have you ever claimed one or more dependent(s) on your VA benefits (disability or Pension)? Y/N [no would disqualify from the study]
+
+2. If yes, select the relationship of your dependent(s) (Check all that apply) [multi-select check boxes]
+[ ] Spouse (including same-sex and common-law marriages) [ ] Biological child [ ] Stepchild [ ] Adopted child [ ] Child under 18 years old [ ] Child 18-23 years old enrolled in school full time [ ] Child permanently incapable of self-support [ ] Parent
+
+_Another primary criteria is at least 50% (4) with an identified cognitive disability._
+
+3. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? [We ask this question because we want to make sure that our tools work for people who live with challenges like these.]
+
+[Go to recruitment request ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/651)
 
 We talked to **10 participants.**
 
