@@ -51,9 +51,9 @@ its `documentType` property. This value is directly read and mapped to another v
 |10-7959c|Medicare card for hospital and medical coverage|Front of Medicare card<br>Back of Medicare card| |
 |10-7959c|Medicare Pard D card |Front of Medicare Part D card<br>Back of Medicare Part D card| |
 | | | | |
-|10-7959a|Medical claim supporting documents |itemized billing statement|This value is set automatically in the [submit transformer](https://github.com/department-of-veterans-affairs/vets-website/blob/e317910a94978ec2839fd5894e0e1c4e1ef7f334/src/applications/ivc-champva/10-7959a/config/submitTransformer.js#L37)|
-|10-7959a|Explanation of Benefits|Eob|This value is set automatically in the [submit transformer](https://github.com/department-of-veterans-affairs/vets-website/blob/e317910a94978ec2839fd5894e0e1c4e1ef7f334/src/applications/ivc-champva/10-7959a/config/submitTransformer.js#L42)|
-|10-7959a|Prescription claim supporting document|_unspecified/null_| |
+|10-7959a|Medical claim supporting documents |MEDDOCS|This value is set automatically in the [submit transformer](https://github.com/department-of-veterans-affairs/vets-website/blob/8e1a3c11773036d4eea1f749e555885d1efcb407/src/applications/ivc-champva/10-7959a/config/submitTransformer.js#L42)|
+|10-7959a|Explanation of Benefits|EOB|This value is set automatically in the [submit transformer](https://github.com/department-of-veterans-affairs/vets-website/blob/8e1a3c11773036d4eea1f749e555885d1efcb407/src/applications/ivc-champva/10-7959a/config/submitTransformer.js#L47)|
+|10-7959a|Prescription claim supporting document|MEDDOCS|This value is set automatically in the [submit transformer](https://github.com/department-of-veterans-affairs/vets-website/blob/8e1a3c11773036d4eea1f749e555885d1efcb407/src/applications/ivc-champva/10-7959a/config/submitTransformer.js#L37)|
 | | | | |
 |10-7959f-2|Billing statements and supporting documents (Veteran payee)|_unspecified/null_| |
 |10-7959f-2|Billing statements and supporting documents (Provider payee)|_unspecified/null_| |
