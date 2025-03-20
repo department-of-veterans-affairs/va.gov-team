@@ -95,4 +95,4 @@ _Are other features dependent on this one? What do we need from partners? What d
 ### Related links
 - [Vet Center Dashboard Usability Study Read Out](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/vet-center/Vet.Center.Dashboard.Usability.Study.Read.Out.pdf)
 - [Original design mockup](https://xd.adobe.com/view/4837c11c-b5b4-4439-84d7-5867919f9c42-1d64/?fullscreen)
-- [Original Dashboard Tech plan - November 2020](file:///C:/Users/VACOMI~1/AppData/Local/Temp/1/MicrosoftEdgeDownloads/182f421c-2e99-407a-a957-e8e0b103df50/VAMC.Dashboard.tech.plan.pdf)
+- [Original Dashboard Tech plan - November 2020]
