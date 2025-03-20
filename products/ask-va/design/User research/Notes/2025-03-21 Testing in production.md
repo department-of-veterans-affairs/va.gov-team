@@ -163,7 +163,7 @@ Great. Now, we're going to have `Becky or Shelby` reply to your inquiry as an As
 
 ### View reply from VA in the VA.gov dashboard (5 minutes)
 
-[Confirm `Becky or Shelby` has responded and solved the inquiry.]
+And `Becky or Shelby` can you verify that you have responded and solved the inquiry now?
 
 Awesome. Let's check that this worked now.
 
@@ -215,4 +215,4 @@ Thanks again for your time. We really appreciate your help with testing.
 
 Just so you know, this new version of Ask VA is not open to the public yet. You'll continue to use the previous version until we switch over to the new experience.
 
-Have a great day.
+Have a great weekend.
