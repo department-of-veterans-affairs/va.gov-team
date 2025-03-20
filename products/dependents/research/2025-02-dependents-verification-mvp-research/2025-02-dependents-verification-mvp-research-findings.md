@@ -188,7 +188,7 @@ If we continue to display these two sections, we can clarify the benefits associ
 > _Supporting data: "There's no way to know why this dependent is not on your benefits." (P6)_
 
 
-**3.2 All participants expected to be able to correct dependent information from within the form, particularly via the "Update" option.** 
+**3.2 All 6 participants prompted to correct personal information for their existing dependents chose to do so via the "Yes: Update" option.** 
 
 Labels/Keywords: RESRCH: Comprehension testing; Dependents; DSP: Help users to check personal information
 
