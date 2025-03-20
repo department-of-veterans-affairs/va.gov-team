@@ -5,9 +5,9 @@
      - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/form_updates/Initiative-Brief-686-674-Form-Updates.md)
      - Goals:
           - Online form parity with the paper form
-          - Update components from v1 to v3 (latest at this time). [Components breakdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/design/2025%20Components%20breakdown.md) 
-          - Accessibility, IA, and flow enhancements. [Findability assessment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/findability.md)
-          - Conduct user search: [2022 Dependent Management Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/Dependents%20Research%20Readout%202023.pdf)
+          - Update components from v1 to v3 (Latest version at this time): [Components breakdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/design/2025%20Components%20breakdown.md) 
+          - Accessibility, IA, and flow enhancements: [Findability assessment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/findability.md)
+          - Conduct user search: [2022 Dependent Management Research Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/Dependents%20Research%20Readout%202023.pdf)
                - Learn how Veterans understand dependent benefits and risks as they relate to compensation and how they navigate the process today
                - Evaluate the perceived trustworthiness and effectiveness of our proposed notification
                - Learn Veterans’ device and notification preferences 
@@ -20,8 +20,8 @@
      - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md)
      - Goals:
           - Digitize VA Form 21-0538
-          - Enhance IA and findability. ([Findability assessment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/findability.md)) 
-          - Conduct user research: [2025 Dependent Verification MVP Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-02-dependents-verification-mvp-research/2025-02-dependents-verification-mvp-research-findings.md)
+          - Enhance IA and findability: [Findability assessment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/findability.md) 
+          - Conduct user research: [2025 Dependent Verification MVP Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-02-dependents-verification-mvp-research/2025-02-dependents-verification-mvp-research-findings.md)
                - Understand the Veteran’s mental model of dependent verification on VA.gov and their expectations for finding tools and completing tasks around dependent verification.
                - Validate the usability of our 0538 email notification and VA.gov designs and determine whether they provide a clear path to verify and update dependents and
                - Understand how the flow, designs, and copy impact the Veteran’s understanding of the task.
