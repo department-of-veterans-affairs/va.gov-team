@@ -61,6 +61,8 @@
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- **Reduced time on Household section | Baseline | Target | Link to data source (e.g. GA, Domo)**
+- - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
 ---
 
