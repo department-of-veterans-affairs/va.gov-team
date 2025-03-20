@@ -76,18 +76,22 @@
   - Will they take the time to look through all of their information?
 - **Usability Risks** (can people figure out how to use it):
   - Will users understand how to edit information on the page that displays their data?
-  - 
+  - Will they find it easier to use than the previous design (multi-page)?
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
+  - Can the List&Loop pattern handle this?
+  - Can the platform team resolve the bugs in the L&L so that we can launch?
   - Examples:
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+  - Will this increase the time burden on Veterans for the EZR?
   - Examples: 
     - VA stakeholder testing, marketing, compliance requirements 
 
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
+- 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
 
