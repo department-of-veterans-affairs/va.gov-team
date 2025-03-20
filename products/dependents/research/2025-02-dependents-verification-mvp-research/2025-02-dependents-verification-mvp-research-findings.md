@@ -272,8 +272,17 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+**Owners**: The next team to take up dependent management on VA.gov
 
+1. Review existing research
+2. Make a plan of action on how to move forward with the verification MVP (Which recommendations to appy, if any)
+3. Update designs in Figma with selected recommendations
+4. Create or complete launch plan
+5. Conduct phased launch of improved on-platform MVP
+6. Conduct research (refer to "Further research needed" or as determined by new team)
+
+[Go to Dependents roadmap in Mural
+](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692908527043/0da94b7ded52e8a943d798bcb8ae39697c2fb56f?sender=u859fac93c61da901b7914439)
 
 ## Further research needed
 
