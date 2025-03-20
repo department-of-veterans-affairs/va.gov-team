@@ -79,8 +79,8 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 - LAUNCH BLOCKING [Staging Review finding: Invalid URLs for Licenses and National Exams details #105704](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105704#event-16914802090)
 - Should be a priority [Staging Review finding: Improper use of role="application" #105694](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105694#event-16914795852)
 - Should be a priority (may be changed to a launch blocker) [Staging Review finding: Expanded/collapsed state not announced to screen readers for filter accordion #105697](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105697#event-16914797927)
+- Should be somewhat of a priority [Staging Review finding: Reset filters seems to be broken #105686](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105686)
 - [Staging Review finding: Update the filter and search results UI #105685](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105685#event-16914790161)
-- [Staging Review finding: Reset filters seems to be broken #105686](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105686)
 - [Staging Review finding: Alert on school profile page doesn't follow link text guidance #105687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105687#event-16914791289)
 - [Staging Review finding: No path to update search text string on L&C search results page #105689](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105689#event-16914792453)
 - [Staging Review finding: Alert on school profile page doesn't follow link text guidance #105687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105687)
@@ -89,8 +89,6 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 - [Staging Review finding: va-search-input imposter component #105693](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105693#event-16914795217)
 - [Staging Review finding: va-select imposter componets #105691](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105691#event-16914793660)
 - [Staging Review finding: va-text-input imposter component  #105692](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105692#event-16914794616)
-- 
-- 
 - [Staging Review finding: Heading structure doesn't match content #105698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105698#event-16914798436)
 - [Staging Review finding: Tables must have a table-title #105699](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105699#event-16914799002)
 - [Staging Review finding: Vague header for "programs" on school details page #105701](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105701#event-16914800261)
