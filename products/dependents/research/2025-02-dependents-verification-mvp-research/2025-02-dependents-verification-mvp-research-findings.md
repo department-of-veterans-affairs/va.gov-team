@@ -376,25 +376,25 @@ Geographic location:
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 7
+* Black: 2
+* Hispanic: 0
+* Biracial: 1
+* Asian: 1
+* Native: 1
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 4
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
