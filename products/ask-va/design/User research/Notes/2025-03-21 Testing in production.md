@@ -46,7 +46,7 @@ Today, we're going to test the new Ask VA experience on VA.gov.
 
 There are a few other things I want to mention before we start:
 
-- **This session should take about an hour.** I’ll make sure we finish on time, so I may occasionally move us along during the session, so we can cover everything.
+- **We have 1 hour scheduled together.** I’ll make sure we finish on time, so I may occasionally move us along during the session, so we can cover everything.
 - **I want to be clear that we’re not testing your ability.** We're doing this so we can find any issues with the tool before we launch.
 - **We're going to be testing in production today.** This means, we're using the real version of VA.gov, not a test version. You will use your ID.me or Login.gov account to sign in and complete the form.
 - Last thing is about recordings. Do you mind if we record this session for our notes?
