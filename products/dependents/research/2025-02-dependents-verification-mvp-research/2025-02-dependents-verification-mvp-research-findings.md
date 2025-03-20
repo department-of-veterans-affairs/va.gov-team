@@ -286,8 +286,19 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make a note of that here._
+**Assistive technology users**
+Due to the lightweight nature of this research, we did not include assistive technology (AT) users in our plans for this research. However, we do want to be sure our designs are working for Veterans who use AT and should plan for research that includes AT users post launch. 
 
+**LGBTQ+ and non-traditional families**
+Perigean's recruitment survey did not collect data for LGBTQ+ members, so we don't know whether those perspectives were included in our research or not. We want to be sure that designs for dependent management are inclusive of LGBTQ+ perspectives as well as other non-traditional family structures and should explicity recruit for those perspectives in future studies. 
+
+**Specific benefit types**
+As far as we could tell, this study only included participants with depednents on their disability benefits (regarding what's relevant to our work. Participants also had dependents on healthcare benefits and other benefits that do not impact our designs). In future work, consider recruiting for disability and Pension with specific minimums to ensure we're including perspectives of Veterans that have any benefits that might be impacted by the tools we're working on.
+
+**Younger Veterans**
+For this study, 90% of our participants were 45+. While this benefits us by ensuring our research accurately represents Veteran demographics and includes older Veterans who are more at-risk of technological literacy-related challenges, including minimums for younger Veterans could benefit us in a couple of ways: 
+- Including younger Veterans in our research will help ensure our designs match the expectations of more technologically literate groups.
+- Some of the pain points we saw around the transition of dependent children from the 18-year-old cut-off to school-age benefits appear to have occurred prior to 18-year-old dependent children dropping off automatically. Including minimums for younger Veterans will help us determine whether more recent changes to tools have impacted these pain points. 
 
 ## Appendix
 
