@@ -9,7 +9,9 @@ Delegates are responsible for managing the care or finacial affairs of Veterans 
 
 ## Related research and artifacts
 - [VA Delegate Access Current State v0.109](https://drive.google.com/file/d/1ZSwzSNEosANbqH731wsqvu1woyGfpGKv/view?usp=sharing) - note: best viewed by downloading
-- [VA Delegate Access Future State v0.36](https://drive.google.com/file/d/1ygY5Xy8v8KKpuudSIZ0nMq5i-ZPO7x_S/view?usp=sharing)  - note: best viewed by downloading
+- [VA Delegate Access Future State v0.36](https://drive.google.com/file/d/1ygY5Xy8v8KKpuudSIZ0nMq5i-ZPO7x_S/view?usp=sharing)  - note: best viewed by downloading\
+- [Guide for VA fiduciaries](https://www.benefits.va.gov/FIDUCIARY/docs/VA_Fiduciary_Guide_Jun_2021.pdf)
+- [Caregiver Records Management Application (CARMA)](https://department.va.gov/privacy/wp-content/uploads/sites/5/2024/06/FY24SalesforceCaregiverRecordsManagementApplicationCARMAPIA_508.pdf)
 - [2023-11 ARM find a representative user test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2023-11-ARM-findarep-nav-usertest/research-findings.md#key-findings)
    - Fidning 1 - Veterans main goal for getting a representative is to aid in fast, comprehensive, successful filing of their claims. When that goal is not met, Veterans look for alternative support.
    - Finding 4 - Veterans continuously struggled with understanding representative terms and roles.
@@ -26,3 +28,7 @@ Delegates are responsible for managing the care or finacial affairs of Veterans 
    - Terminology - Many participants didn’t know what accredited representative meant and how it relates to VSOs or attorneys. Instead participants tended to focus on terms they knew such as VSO, service officer, or attorney.
 - [2024-08-ARM appoint a rep cross-accredited VSOR](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research/2024-08-ARM-appointarep-crossaccreditedVSOR-usertest)
    - Key Finding 1 - VSOR workflows and policies change state to state and county to county.
+- [2024-10 Health Enrollment Team Caregiver Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/research/2024-09-%20Caregivers%20Study%20-%20form%20content%20and%20user%20interviews)
+   - [caregiver study Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726173728303/0cf8beb343b2e2ed0a84d4afc9732e3bf40d3ad0)
+   - Secondary Finding 4 - Automation/prefill was requested by some users unprompted. "Caregivers mentioned there is usually a preferred facility for the Veteran already or they make their decision based on what is closest to their address."
+   - Secondary Finding 5 - VA forms listed under the Sign as Representative step caused some confusion with participants. "Caregivers expressed some confusion around the documents or process required to sign as representative - and some of those who had a POA stated it might be easier to select the Veteran sign for themselves as they were with them most of the time anyway. Most Veterans stated they would sign for themselves, but two mentioned going through a VSO or that their spouse would need to upload their document when applying."
