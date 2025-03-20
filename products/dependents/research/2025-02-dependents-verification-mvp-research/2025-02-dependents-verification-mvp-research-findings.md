@@ -29,7 +29,7 @@ The purpose of this research was to
 ## Research Questions
 
 #### Mental Model Surrounding Dependent Verification
-- How does the Veteran find dependent management info and tools on VA.gov?
+- How does the Veteran find dependent management information and tools on VA.gov?
 - What actions and benefits do they associate with dependent management?
 - How do Veterans expect to be able to accomplish tasks they associate with dependent management?
 
@@ -188,7 +188,7 @@ If we continue to display these two sections, we can clarify the benefits associ
 > _Supporting data: "There's no way to know why this dependent is not on your benefits." (P6)_
 
 
-**3.2 All participants expected to be able to correct dependent info from within the form, particularly via the "Update" option.** 
+**3.2 All participants expected to be able to correct dependent information from within the form, particularly via the "Update" option.** 
 
 Labels/Keywords: RESRCH: Comprehension testing; Dependents; DSP: Help users to check personal information
 
@@ -255,7 +255,7 @@ _Any additional insights that aren't "key findings." These can be powerful comme
       1. Yes
          1. Add or remove a dependent
             1. 686c/674 online tool
-         2. Correct existing dependent info
+         2. Correct existing dependent information
             1. Call Veteran's Services to correct this information.
       2. No
          1. Would you like to verify your dependents?
@@ -264,7 +264,7 @@ _Any additional insights that aren't "key findings." These can be powerful comme
    
 5. **Give Veterans the option to update profile information when updating contact information within the form,** which already exists in a [VADS pattern](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=4013-14358&t=MC0Edy1AehQfrVg0-1). This will force them to acknowledge that contact information updates do not apply to profile information unless they opt-in.
 
-6. **Move confirmation of Veteran's personal and contact info to the beginning of the form flow to align with other forms.** Also, ensure we're providing context around why we're asking the Veteran to review this information (it's required for VA Form 21-0538 and we'll use it to contact you for further information if needed).
+6. **Move confirmation of Veteran's personal and contact information to the beginning of the form flow to align with other forms.** Also, ensure we're providing context around why we're asking the Veteran to review this information (it's required for VA Form 21-0538 and we'll use it to contact you for further information if needed).
 7. **Work with VBA to align on notifications for dependent verification and dependent management in general**
    1. Share the risks and potential solutions of coordinating a dependent verification notification launch with 8-year mandated batch letters.
    2. Create a suggested timeline for when specific steps in a dependent verification notification launch should happen (including what's required of the online experience before the notification launch, such as generating 21-0538 forms from dependent updates).
