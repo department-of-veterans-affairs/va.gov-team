@@ -83,7 +83,7 @@ Are there moments that matter?</summary>
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
 
-> [!TIP]
+> [!NOTE]
 > Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
 
 ### Goals
@@ -97,17 +97,21 @@ Are there moments that matter?</summary>
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
-[Enter answer here] 
+---
+
+**[Enter outcome here]** 
+
+---
 
 ### Research questions
-*Consider bucketing research questions under research goals and think about:*
+> [!NOTE]
+> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
+
+***Consider bucketing research questions under research goals and think about:***
 	
 `What will I do with what I learn from this question?`
   
 `Does this question serve the goals of my study?`
-
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
 **`1.`[Enter Q1]**
 
@@ -119,31 +123,29 @@ Are there moments that matter?</summary>
 
 **`5.`[Enter Q5]**
 
-***Enter more questions as needed***
-
+> [!TIP]
+>Enter more questions as needed
 
 ### Hypothesis
-> [!TIP]
-> Remember to constrain the hypothesis to the goals of your study!
-
 > [!NOTE]
-> What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
+> Remember to constrain the hypothesis to the goals of your study!
+ 
+**Think through these prompts to develop a strong hypothesis:**
 	
-`What do you already know about this problem space?`
+`What do you intend to learn and measure from this study?` 
 
- **[Enter answer here]** 
+`What do you already know about this problem space?`
  
 `What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-
-**[Enter answer here]** 
   
 `Write a generalized statement that combines what you know + what you think will happen during the study.`
 
-**[Enter answer here]** 
+---
+
+**[Enter hypothesis here]** 
+
+---
   
-
-
-
 ## Methodology  🛠️
 ***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
 
@@ -182,9 +184,10 @@ Where will you be holding the research sessions? Be sure to include whether this
       
 > [!NOTE]
 > If in-person, include:
-> - `Location:` **[Enter text]**
-> - `Point of contact:` **[Enter text]**
-> - `Equipment used for research:` **[Enter text]**
+
+- `Location:` **[Enter text]**
+- `Point of contact:` **[Enter text]**
+- `Equipment used for research:` **[Enter text]**
 
 ## Research materials 📔
 
@@ -212,25 +215,32 @@ Provide a link to any materials you need to run your study, including any materi
 - `[Link to recruitment flyer](url goes here)`
 	
 ## Recruitment 🎯	
-> [!NOTE]
-> OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
+*OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
 
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
+> [!NOTE]
+> Before writing your recruitment criteria, be sure to review the following resources: 
+> - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
+> - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
 *Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
 
-> [!TIP]
-> - For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-> - Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-> - Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-> [!NOTE]
-> Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+> [!NOTE] 
+> - Perigean **CANNOT** recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
+> - Perigean can also support remote, [unmoderated studies](https://depo-platform-documentation.scrollhelp.site/research-design/perigean-recruiting-process-for-unmoderated-studie), however, these studies require strict recruitment requirements. 
+> - Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
+
+> [!NOTE]
+> - **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
+> - Consider providing links to products and/or clear descriptions to ensure participants understand the question.
+  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+
+> [!TIP]
+> - The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
+> - Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
+> - Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
 
 **List the total number and type (Veterans, caregivers, etc.) of participants for this study:**
 
@@ -245,15 +255,7 @@ Before writing your recruitment criteria, be sure to review the following resour
 - `[Place primary criteria here between hash marks when in edit mode]`
 - `primary criteria`
 - `primary criteria`
-- `**Add more criteria as needed**`
-
-> [!NOTE]
-> - **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-> - Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> [!TIP]
-> The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+- **`Add more criteria as needed`**
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
@@ -261,7 +263,7 @@ Before writing your recruitment criteria, be sure to review the following resour
 - `[Place secondary criteria here between hash marks when in edit mode]`
 - `secondary criteria`
 - `secondary criteria`
-- `**Add more criteria as needed**`
+- **`Add more criteria as needed`**
 
 ## Timeline 🗓️
 > [!NOTE]
@@ -310,7 +312,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 > [!NOTE]
 > **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
 >
-> **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Send emails only for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
+> **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
 - `Moderator:` **[Enter full name]**	
 - `Research guide writing and task development (usually but not always same as moderator):` **[Enter full name]**		
