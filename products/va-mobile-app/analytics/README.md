@@ -3,8 +3,6 @@
 [Feb 2025](#februrary-2025)
 
 ## Where to gather the data
-
-### Highlights
  
 - Total downloads since launch
   - iOS, [appstore connect total downloads](https://appstoreconnect.apple.com/analytics/app/ltd/1559609596/overview?iaemeasure=totalDownloads)
