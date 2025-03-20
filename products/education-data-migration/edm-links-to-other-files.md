@@ -79,6 +79,7 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 - **LAUNCH BLOCKING ISSUE** [Staging Review finding: Invalid URLs for Licenses and National Exams details #105704](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105704#event-16914802090)
 - Should be a priority [Staging Review finding: Improper use of role="application" #105694](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105694#event-16914795852)
 - Should be a priority (may be changed to a launch blocker) [Staging Review finding: Expanded/collapsed state not announced to screen readers for filter accordion #105697](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105697#event-16914797927)
+- Should be a priority [Staging Review finding: Complex language in FAQs  #105707](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105707#event-16914818242) look at content guidance
 - Should be somewhat of a priority [Staging Review finding: Reset filters seems to be broken #105686](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105686)
 - [Staging Review finding: Update the filter and search results UI #105685](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105685#event-16914790161)
 - [Staging Review finding: Alert on school profile page doesn't follow link text guidance #105687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105687#event-16914791289)
@@ -96,7 +97,6 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 - [Staging Review finding: Strange search results on National Exams page #105703](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105703#event-16914801278)
 - [Staging Review finding: Potentially outdated link in footer to search VSOs #105702](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105702#event-16914800787)
 - [Staging Review finding: Breadcrumbs on Institution details and programs page should be more specific #105705](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105705#event-16914817115)
-- [Staging Review finding: Complex language in FAQs  #105707](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105707#event-16914818242)
 - [Staging Review finding: Links contain language that assumes ability and user experience #105706](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105706#event-16914817741)
 - [Staging Review finding: Incorrect link text for downloading government forms #105708](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105708#event-16914818729)
 
