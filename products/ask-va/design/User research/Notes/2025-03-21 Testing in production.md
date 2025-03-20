@@ -167,6 +167,8 @@ Great. Now, we're going to have `Becky or Shelby` reply to your inquiry as an As
 
 Awesome. Let's check that this worked now.
 
+> Screen: Question details.
+
 1. Can you refresh this page? [Command R, Control F5, Shift+Command+R or just guide them where to click if it's easier.]
 
 2. Great. So we can see that the status changed to 'Replied.'
@@ -177,15 +179,23 @@ Awesome. Let's check that this worked now.
 
 Okay, great. We're going to do one more thing.
 
+> Screen: Question details.
+
 1. Can you scroll down and let's see whether we can reply back to VA.
 
 2. Please write a reply to VA. You can type anything.
 
 3. Let's send the reply.
 
+> Screen: Reply confirmation.
+
 4. Okay, let's navigate back to Ask VA [dashboard].
 
+> Screen: Ask VA dashboard.
+
 5. Great. Now, let's click on the same inquiry again.
+
+> Screen: Question details.
 
 6. Let's scroll down and check that we can see your new message in the conversation.
 
