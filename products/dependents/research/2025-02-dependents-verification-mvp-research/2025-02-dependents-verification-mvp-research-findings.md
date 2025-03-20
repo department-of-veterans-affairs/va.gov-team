@@ -200,11 +200,11 @@ All of the 6 participants prompted with the need to correct personal information
 
 Labels/Keywords: RESRCH: Comprehension testing; Dependents; DSC: Form - Radio button
 
-8 of 10 participants had no trouble progressing with their update or verify tasks when interacting with the primary CTA. Most participants understood the question "Do you need to update any of the dependents on your VA benefits?" and that a yes answer would take them to options to update dependents and a no answer would take them to options to verify, with two participants clearly reading through the specific forms they were connected to. One participant rushed through the prototype without talking through his thought process, so it's not clear whether he chose to update because he needed to make changes. Another participant felt that the page with the CTA contained too much information and could be broken down better. There's an opportunity here to improve clarity by breaking up the asks around "update" and "verify" here to avoid risks of Veterans overlooking key information. 
+8 of 10 participants had no trouble progressing with their update or verify tasks when interacting with the primary CTA. Most participants understood the question, "Do you need to update any of the dependents on your VA benefits?" and that a "yes" selection would take them to options to update dependents, and a "no" selection would take them to the option to verify. Two of those 8 participants read through the information about which forms each selection was connected to within the radio button component. One participant rushed through the prototype without talking through his thought process, so it's not clear whether he chose to update because he needed to make changes. Another participant felt that the page with the CTA contained too much information and could be broken down better. There's an opportunity here to improve clarity by breaking up the asks around "update" and "verify" here to avoid risks of Veterans overlooking key information. 
 
 > _Supporting data: "Make things simpler instead of putting everything there...It's a lot of words." (P6)_
 
-**3.3 Most participants were given pause or faced confusion when correcting personal or contact information** 
+**3.3 Most participants paused or faced confusion when correcting personal or contact information.** 
 
 Labels/Keywords: RESRCH: Comprehension testing; Dependents; DSP: Help users to check personal information
 
@@ -226,11 +226,11 @@ Two of our participants had children automatically age out at 18 before they gra
 
 > _Supporting data: "From an efficiency standpoint, there's got to be a better way to handle [children aging out while still in high school]." (P12)_
 
-**4.2 Most of our participants misinterpreted or were confused by the 0538 batch letter requesting the 8-year mandated verification** 
+**4.2 Most of our participants misinterpreted or were confused by the 0538 batch letter requesting the 8-year mandated verification.** 
 
-We prompted participants to receive the 0538 batch letter requesting the 8-year mandated verification after having verified on VA.gov to assess risk if such a thing were to happen post-launch. This is important because, for the initial MVP, updating dependents will not generate a 21-0538, meaning Veterans would still be responsible for the 8-year mandated verification if they only updated through the verification experience on VA.gov. 
+We presented the 0538 batch letter after having them go through the online MVP verification process to asses any risks. This was important to asses because, for the initial MVP, updating dependents will not generate a VA form 21-0538, meaning Veterans would still be responsible for the paper 8-year mandated verification regardless if they updated through the online MVP verification on VA.gov.
 
-Several participants initially interpreted it as a confirmation of their actions to verify on VA.gov. Others were confused or frustrated by why they were receiving the letter, seeing it as redundant, wondering why they verified on VA.gov if they were still going to receive this letter, or concerned that there had been some mistake. Most participants who realized the letter was requesting action from the Veteran indicated they would call to confirm what they needed to do. This shows the need to coordinate any outreach directing Veterans to the verification MVP on VA.gov with 0538 batch letters being sent to avoid this confusion. 
+Several participants initially interpreted it as a confirmation of their actions to verify on VA.gov. Others were confused or frustrated by why they were receiving the letter, seeing it as redundant, wondering why they verified on VA.gov if they were still going to receive this letter, or concerned that there had been some mistake. Most participants who realized the letter was requesting action from the Veteran indicated they would call to confirm what they needed to do. This emphasizes the need to coordinate outreach to Veterans about the verification MVP on VA.gov and the 0538 batch letters to avoid confusion.
 
 > _Supporting data: "This should be a confirmation of what I did online. And you already have a receipt of this website. It's very confusing" (P10)_
 
@@ -241,7 +241,7 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 ## Recommendations
 
-1. **Provide more context to Veterans around what dependent verification means** within the context of the 8-year mandate via VA Form 21-0538. This context can be provided at key entry points to the MVP on VA.gov, such as the parent page for dependent management (View or change dependents), Your VA Dependents, the About VA Form 21-0538 page, and a potential future parent page for dependent verification. Specifically, let Veterans know that verification entails submission of a specific form, which would lessen the risk of abandonment due to the possibility of interpreting "verification" as merely confirming existing dependents are correct. 
+1. **Provide more context to Veterans around what dependent verification means.** within the context of the 8-year mandate via VA Form 21-0538. This context can be provided at key entry points to the MVP on VA.gov, such as the parent page for dependent management (View or change dependents), Your VA Dependents, the About VA Form 21-0538 page, and a potential future parent page for dependent verification. Specifically, let Veterans know that verification entails submission of a specific form, which would lessen the risk of abandonment due to the possibility of interpreting "verification" as merely confirming existing dependents are correct. 
    1. We also need to coordinate with VBA to share information about the option to verify on VA.gov in their communications (such as the 0538 batch letter) once the online experience is ready.
    2. When planning for the long-term vision of dependent management on VA.gov, the option to verify might be integrated into the existing 686c/674 experience (e.g., asking the Veteran to verify after making a change to dependents). This would entail ensuring proper context around what verification means is included in this addition to the 686c/674 experience.
 
@@ -265,7 +265,7 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 5. **Give Veterans the option to update profile information when updating contact information within the form,** which already exists in a [VADS pattern](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=4013-14358&t=MC0Edy1AehQfrVg0-1). This will force them to acknowledge that contact information updates do not apply to profile information unless they opt-in.
 
 6. **Move confirmation of Veteran's personal and contact information to the beginning of the form flow to align with other forms.** Also, ensure we're providing context around why we're asking the Veteran to review this information (it's required for VA Form 21-0538 and we'll use it to contact you for further information if needed).
-7. **Work with VBA to align on notifications for dependent verification and dependent management in general**
+7. **Work with VBA to align on notifications for dependent verification and dependent management in general.**
    1. Share the risks and potential solutions of coordinating a dependent verification notification launch with 8-year mandated batch letters.
    2. Create a suggested timeline for when specific steps in a dependent verification notification launch should happen (including what's required of the online experience before the notification launch, such as generating 21-0538 forms from dependent updates).
    3. Share other findings that may be relevant to VBA, such as the pattern of pain points around the 18-year-old to school-age transition. 
