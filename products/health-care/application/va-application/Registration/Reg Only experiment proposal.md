@@ -65,8 +65,8 @@
 - Based on the results, we see that 28% of Veterans have shown interest in the registration pathway, which was right in line with our assumption.  However, we also saw that more than 70% of those Veterans dropped from the Registration page, and subsequently visited other health related and facility pages.
      - This indicates to us that there does seem to be an interest in registering (not enrolling), and that Veterans are seeking more information.
 ### NOTE
-- As of March 7th, the team has descoped the Registration pathway feature work.
-     - Reached out to the HOME team, who manages the Registry Exam questionnaire and registry, and found that they no longer need an online solution to register Veterans into the system for purposes of putting them on the Registry.
+- As of March 7th, 2024, the team has **descoped** the Registration pathway feature work.
+     - Reached out to the HOME team, who manages the [Registry](https://www.publichealth.va.gov/exposures/burnpits/registry.asp) Exam questionnaire and registry, and found that they no longer need an online solution to register Veterans into the system for purposes of putting them on the Registry.
           - Since August 2024, Veterans are automatically added to the Registery and would need to intentionally opt-out
           - The backlog of registry questionnaires have been reduced from 150k to just 53
           - There is no further need to create a registration path online for Veterans to register (AKA "get in the system") to get a registry exam and be added to the registry
