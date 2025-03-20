@@ -68,6 +68,14 @@ Between July 2024 and March 2025, VA engaged in an organization-wide campaign to
 
 ### Usage metrics
 
+|Metric|Baseline (July 2024)|February 2025|
+|------|--------------------|-----------------|
+|% authentications happening through MHV user ID and password|43%|12%|
+|% authentications happening through Login.gov|15%|29%|
+|% authentications happening through ID.me|34%|54%|
+|Number of people using the MHV user ID and password|913,727 (this is for October 2024)|493,775|
+|% of people using the MHV user ID and password|30% (this is for October 2024)|16%|
+
 ## Backend
 
 (Link relevant backend docs)
