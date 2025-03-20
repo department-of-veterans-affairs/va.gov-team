@@ -6,7 +6,7 @@ Last updated by @tygindraux: February 3, 2025
 
 ## Background
 
-We will meet with 2 participants who use Ask VA to submit inquiries in a business, education capacity. We will test in production while 0% of traffic is directed to the new experience on VA.gov.
+We will meet with 2 participants who use Ask VA to submit inquiries in a business, education capacity. We will test in production by guiding participants on how to enable the new experience on VA.gov which is currently hidden to 100% of traffic.
 
 ### Goals
 
@@ -15,8 +15,6 @@ Our goals for testing are to:
 - Validate any known issues in production
 
 ### Methodology
-
-We will guide participants through adding a cookie to enable the new experience on VA.gov which is currently hidden to 100% of traffic.
 
 We will test the following tasks in production:
 - Log into VA.gov and submit an inquiry
