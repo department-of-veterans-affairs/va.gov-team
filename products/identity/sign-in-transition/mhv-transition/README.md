@@ -1,6 +1,6 @@
 # Initiative outline: MHV user ID and password sign-in transition
 
-**Last Updated: March 13, 2025 -- Samara created outline**
+**Last Updated: March 10, 2025 -- Samara added analytics**
      
 ## Table of Contents
 
@@ -55,7 +55,18 @@ Between July 2024 and March 2025, VA engaged in an organization-wide campaign to
 - [Domo: Sign-in transition dashboard](https://va-gov.domo.com/page/1862108618?userId=367226722)
 - [Datadog: Interstitial metrics](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vagov-identity-monitor-dashboard?fromUser=false&index=*&refresh_mode=paused&from_ts=1737125001775&to_ts=1737139401775&live=false&tile_focus=3815395182095420)
 
-(Samara to add metrics)
+### User data
+
+|Metric|Baseline (July 2024)|Data as of 3/4/25|
+|------|--------------------|-----------------|
+|Total active MHV users|4,366,421|5,405,981|
+|Total MHV users without Login.gov or ID.me|1,298,242|966,627|
+|MHV users without Login.gov or ID.me -- Active since 1.1.23|1,084,195|766,449|
+|MHV users without Login.gov or ID.me -- Active since 1.1.24|959,637|594,123|
+|MHV users with Login.gov|834,078|1,751,637|
+|MHV users with ID.me|2,733,679|3,639,673|
+
+### Usage metrics
 
 ## Backend
 
