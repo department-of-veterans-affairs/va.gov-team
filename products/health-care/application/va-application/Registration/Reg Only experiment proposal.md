@@ -1,12 +1,4 @@
 # Registration Only - Experiment
-### NOTE
-- As of March 7th, 2024, the team has **descoped** the Registration pathway feature work.
-     - Reached out to the HOME team, who manages the Registry Exam questionnaire and registry, and found that they no longer need an online solution to register Veterans into the system for purposes of putting them on the Registry.
-          - Since August 2024, Veterans are automatically added to the Registery and would need to intentionally opt-out
-          - The backlog of registry questionnaires have been reduced from 150k to just 53
-          - There is no further need to create a registration path online for Veterans to register (AKA "get in the system") to get a registry exam and be added to the registry
-     - Product Owner (Patrick Bateman) would like the team to put this feature in the backlog, and is reaching out to other VA.gov teams to consider making the Registration path as part of other products (such as making an appointment)
-          - If a Veteran wants to make an appointment online, they must be registered with a facility, which also would mean they are already "in the system".  The Registration path can would allow a Veteran new to VA to "get in the system" and register with a facility, then immediately be directed through the appointment process.  It could be all one step, rather than separate forms and processes.
 
 ## Problem statement
 - Veterans do not have a pathway to register for VA health care online.
