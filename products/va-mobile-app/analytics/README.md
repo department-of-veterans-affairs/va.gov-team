@@ -30,7 +30,7 @@
 
 ## Februrary 2025
 
-- **Total downloads since launch**: ~1.2M (A) + ~2.46M (iOS) = ~3.5M 
+- **Total downloads since launch**: ~1.2M (A) + ~2.46M (iOS) = ~3.6M 
 - **New monthly downloads**: TBD
 - **Monthly active users**: 1.3M
 - **Monthly new users**: 145k
