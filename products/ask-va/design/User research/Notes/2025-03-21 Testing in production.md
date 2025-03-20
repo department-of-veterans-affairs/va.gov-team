@@ -216,3 +216,9 @@ Thanks again for your time. We really appreciate your help with testing.
 Just so you know, this new version of Ask VA is not open to the public yet. You'll continue to use the previous version until we switch over to the new experience.
 
 Have a great weekend.
+
+### After the call
+
+- [ ] Write up a summary of any bugs and add it to the end of your respective session's thread.
+- [ ] Review other session's thread to compare notes.
+- [ ] Ariel will add any new issues to the tracker.
