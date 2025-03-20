@@ -181,7 +181,7 @@ Labels/Keywords: RESRCH: Comprehension testing; Dependents; PRDT: Content
 
 2 of 7 participants who were prompted to review the sections "Dependents on your VA benefits" and "Dependents not on your VA benefits" caused significant confusion. One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made. Another was confused about why they were seeing dependents not on their benefits at all or why they were still referred to as "Dependents" if they were not eligible to be on the participant's benefits. One was confused as to why they saw dependents not connected to their benefits listed here at all. 
 
-If we continue to show these two sections, there are opportunities to improve clarity around what benefits these dependents are connected to and why they may or may not be currently connected. We may also link out to eligibility requirements or other information on what actions can be taken to bring disconnected dependents back onto the Veteran's benefits. 
+If we continue to display these two sections, we can clarify the benefits associated with these dependents and explain why they may or may not currently be part of their benefits. We may also link out to eligibility requirements or other information on what actions can be taken to bring dependents not in the Veteran's benefit back onto them.
 
 > _Supporting data: "This...one is throwing me off" (P3)_
 
