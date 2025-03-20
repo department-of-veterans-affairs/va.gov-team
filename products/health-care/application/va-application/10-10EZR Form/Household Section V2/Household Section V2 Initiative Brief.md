@@ -72,9 +72,11 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Will Veterans find this helpful?
+  - Will they take the time to look through all of their information?
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - Will users understand how to edit information on the page that displays their data?
+  - 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Examples:
     - Upstream/Downstream API/Data availability and reliability
