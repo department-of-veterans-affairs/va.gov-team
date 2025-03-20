@@ -407,5 +407,19 @@ _List all groups in red from the spreadsheet_
 * Group 2
 * Group 3
 
+**Underserved categories not captured in recruitment survey**
+
+- LGBTQ+: This group we definitely want to screen for in future research, as we want to be sure our designs work for non-traditional families, LGBTQ+ and otherwise.
+- Discharge type
+- Immigrant origin
+- Expat living abroad
+
+**Groups to recruit for in future research**
+- LGBTQ+ members
+- AT users
+- Veterans with no degree
+- Veterans of Hispanic, Latino, or Spanish origin
+- Native, American Indian or Alaska Native Veterans
+
 _[insert screenshot of completed recruitment checker]_
 ![VA-recruitment-checker](link - add image to github folder and link here with .png)
