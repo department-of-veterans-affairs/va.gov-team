@@ -74,8 +74,8 @@
 - [Endpoints consumed and owned](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/Endpoints%20Information.md)
 
 **Design and Research**
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research)
 - [CST Design Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/design/resources.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research)
 - [BMT Figma Project](https://www.figma.com/files/team/1278375444205744118/project/175598391/Benefits-Management-Tools?fuid=1046561086805876994)
 - [CST V2: Up-to-date design source of truth](https://www.figma.com/design/F8U4wddaFouUPVd4mGBMDI/CST-V2?node-id=0-1&p=f&t=MJJ6bjDadV4zQPzw-0)
 - [CST Mural Room](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=9e1456d1-4532-434c-b053-f7694afc5795)
