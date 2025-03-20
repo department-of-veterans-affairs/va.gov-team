@@ -75,9 +75,12 @@
 - [Prefill fields engineering research](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/27278)
 - [Endpoints consumed and owned](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/Endpoints%20Information.md)
 
-**Latest discovery research**
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery)
-- [Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery/10-10EZ%20Discovery%20Research%20readout.pdf)
+**Design and Research**
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research)
+- [CST Design Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/design/resources.md)
+- [BMT Figma Project](https://www.figma.com/files/team/1278375444205744118/project/175598391/Benefits-Management-Tools?fuid=1046561086805876994)
+- [CST V2: Up-to-date design source of truth](https://www.figma.com/design/F8U4wddaFouUPVd4mGBMDI/CST-V2?node-id=0-1&p=f&t=MJJ6bjDadV4zQPzw-0)
+- [CST Mural Room](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=9e1456d1-4532-434c-b053-f7694afc5795)
 
 **Team resources**
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/team.charter.md)
