@@ -49,7 +49,7 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 These research sessions will be conducted remotely via Zoom.
 
 ### Research materials
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/adoption-study/conversation-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2024-11-adoption-study/conversation-guide.md)
 - [Mural board for note-taking and synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1729884120702/705733d713250576c10c84b13d541ebe319e13fb)
 	
 ## Recruitment	
