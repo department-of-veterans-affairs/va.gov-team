@@ -58,7 +58,7 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
   - [Supplemental Claim](https://vagov.ddog-gov.com/rum/replay/search?query=%40application.id%3A2779ccc3-be87-4b2d-a757-9ff54b58761b&replay_tab=all&from_ts=1741808233730&to_ts=1742413033730&live=true)
   - [Notice of Disagreement](https://vagov.ddog-gov.com/rum/replay/search?query=%40application.id%3Acabce133-7a68-46ba-ac9b-68c57e8375eb&replay_tab=all&from_ts=1741808233730&to_ts=1742413033730&live=true)
   - [Higher-Level Review](https://vagov.ddog-gov.com/rum/replay/search?query=%40application.id%3A321995f8-5fed-4b4f-907b-e3f5ec34c28f&replay_tab=all&from_ts=1741808233730&to_ts=1742413033730&live=true)
-  - [Decision Review static pages](https://vagov.ddog-gov.com/rum/replay/search?query=%40application.id%3A133801ec-0b13-4a6f-9689-bd937a1ddf27&replay_tab=all&from_ts=1741808233730&to_ts=1742413033730&live=true).
+  - [Decision Review static pages](https://vagov.ddog-gov.com/rum/replay/search?query=%40application.id%3A133801ec-0b13-4a6f-9689-bd937a1ddf27&replay_tab=all&from_ts=1741808233730&to_ts=1742413033730&live=true). Initially started to try and track Veteran interaction with static Decision Review static pages to get insight on the types of information Veterans are looking for to inform the enhanced onramp initiative, but it’s currently tracking unrelated VA.gov static pages, rendering it useless for our initial purpose.
 
 **Engineering**
 
