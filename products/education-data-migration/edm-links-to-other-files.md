@@ -63,9 +63,11 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
   I think option 1 would be the way to alleviate the issue, and that's what I advise. And also, I know that a lot of variables - including go-live timelines and engineering capacity - means that it's not always possible to do everything. Which is why, as part of option 2, I'd advise adding these changes to a future backlog if this isn't the time to implement them. My recommendation is check these two options with decision-makers so that Design has clear guidance on whether the scope can include adjusting the breadcrumb structure (which should solve most of the H1 length issue), or sticking with the current not-aligned approach for now and moving this change to the backlog.
 </details>
 
-### Design Intent Feedback (Closed)
+<details>
+  <summary>### Design Intent Feedback (Closed)</summary>
 - Closed February 2025 [Design Intent - IA Feedback - Education Data Migration, WEAMS Public #98839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98839#event-15607359715)
 - Closed February 2025 [Design Intent - Accessibility Feedback - Education Data Migration, WEAMS Public #98857](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98857#event-15611083835)
+</details>
 
 ### Midpoint Review Feedback (Closed)
 - Closed February 2025 [Midpoint Review - Design Feedback - Education Data Migration, WEAMS Public #101444](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101444#event-16030284079) 
@@ -79,7 +81,7 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 - **LAUNCH BLOCKING ISSUE** [Staging Review finding: Invalid URLs for Licenses and National Exams details #105704](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105704#event-16914802090)
 - Should be a priority [Staging Review finding: Improper use of role="application" #105694](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105694#event-16914795852)
 - Should be a priority (may be changed to a launch blocker) [Staging Review finding: Expanded/collapsed state not announced to screen readers for filter accordion #105697](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105697#event-16914797927)
-- Should be a priority [Staging Review finding: Complex language in FAQs  #105707](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105707#event-16914818242) look at content guidance
+- Should be a priority [Staging Review finding: Complex language in FAQs  #105707](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105707#event-16914818242) look at content guidance. Recommends complete overhaul of the FAQ section. 
 - Should be somewhat of a priority [Staging Review finding: Reset filters seems to be broken #105686](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105686)
 - [Staging Review finding: Update the filter and search results UI #105685](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105685#event-16914790161)
 - [Staging Review finding: Alert on school profile page doesn't follow link text guidance #105687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105687#event-16914791289)
