@@ -33,8 +33,11 @@
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
+- **Veterans are spending too much time filling out the 10-10EZR, particularly the Household section which is time intensive and complex.**
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
+- **Some of this is due to the nature of the section, but we believe allowing the Veterans to view their information and make changes as needed will help speed up the process and improve data integrity within VHA.**
 * How does this initiative help further OCTO-DE's mission and goals?
+- **This helps reduce the time burden on Veterans and improves data integrity within VHA**
 
 <!--
 ## Desired User Outcomes
