@@ -1,4 +1,12 @@
 # 10-10EZ Registration Path - Initiative Brief
+### NOTE
+- As of March 7th, 2024, the team has **descoped** the Registration pathway feature work.
+     - Reached out to the HOME team, who manages the Registry Exam questionnaire and registry, and found that they no longer need an online solution to register Veterans into the system for purposes of putting them on the Registry.
+          - Since August 2024, Veterans are automatically added to the Registery and would need to intentionally opt-out
+          - The backlog of registry questionnaires have been reduced from 150k to just 53
+          - There is no further need to create a registration path online for Veterans to register (AKA "get in the system") to get a registry exam and be added to the registry
+     - Product Owner (Patrick Bateman) would like the team to put this feature in the backlog, and is reaching out to other VA.gov teams to consider making the Registration path as part of other products (such as making an appointment)
+          - If a Veteran wants to make an appointment online, they must be registered with a facility, which also would mean they are already "in the system".  The Registration path can would allow a Veteran new to VA to "get in the system" and register with a facility, then immediately be directed through the appointment process.  It could be all one step, rather than separate forms and processes.
 
 ## Outcome Summary
 Provide guidance for Active Duty Service Members and Veterans who want to register for VA health care, but do not want to or are unable/ineligible to enroll.
@@ -43,6 +51,17 @@ Provide guidance for Active Duty Service Members and Veterans who want to regist
      - UX team will discuss with CAIA on proper content
      - We will not launch Reg Only into production until after these changes are made to the current development (in QA)
 
+### Post Experiment
+- Based on the results, we see that 28% of Veterans have shown interest in the registration pathway, which was right in line with our assumption.  However, we also saw that more than 70% of those Veterans dropped from the Registration page, and subsequently visited other health related and facility pages.
+     - This indicates to us that there does seem to be an interest in registering (not enrolling), and that Veterans are seeking more information.
+**NOTE**
+- As of March 7th, the team has descoped the Registration pathway feature work.
+     - Reached out to the HOME team, who manages the Registry Exam questionnaire and registry, and found that they no longer need an online solution to register Veterans into the system for purposes of putting them on the Registry.
+          - Since August 2024, Veterans are automatically added to the Registery and would need to intentionally opt-out
+          - The backlog of registry questionnaires have been reduced from 150k to just 53
+          - There is no further need to create a registration path online for Veterans to register (AKA "get in the system") to get a registry exam and be added to the registry
+     - Product Owner (Patrick Bateman) would like the team to put this feature in the backlog, and is reaching out to other VA.gov teams to consider making the Registration path as part of other products (such as making an appointment)
+          - If a Veteran wants to make an appointment online, they must be registered with a facility, which also would mean they are already "in the system".  The Registration path can would allow a Veteran new to VA to "get in the system" and register with a facility, then immediately be directed through the appointment process.  It could be all one step, rather than separate forms and processes.
 
 
 ## Problem
@@ -165,10 +184,6 @@ These are the following confirmed use cases for registration over enrollment.
 - Systematic decisions or prompting based on any other criteria other than disability rating (such as having private insurance)
 
 
-
-#### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-
 --- 
 
 ## Launch Planning
@@ -182,11 +197,11 @@ These are the following confirmed use cases for registration over enrollment.
 
 * [TBD - Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
-#### Initiative Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
+#### Experiment Launch Dates
+- *Actual Experiment Launch Date* 
+  - 10/6/2024
+- *Actual Experiment End Date*
+  - 12/31/2024
 
 ---
    
