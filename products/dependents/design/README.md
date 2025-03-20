@@ -5,8 +5,8 @@
      - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/form_updates/Initiative-Brief-686-674-Form-Updates.md)
      - Goals:
           - Online form parity with the paper form
-          - Update components from v1 to v3 (latest at this time)
-          - Accessibility, IA, and flow enhancements. [See Design System components breakdown](#) | [See findability assessment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/findability.md) 
+          - Update components from v1 to v3 (latest at this time). [Components breakdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/design/2025%20Components%20breakdown.md) 
+          - Accessibility, IA, and flow enhancements. [Findability assessment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/findability.md) 
      - Flows (Mural)
           - [Existing](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1687976281975/2a9c6ca9ea6d955afa7977c777bbb72b15280903?wid=143-1731689779797)
           - [Proposed](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1687976281975/2a9c6ca9ea6d955afa7977c777bbb72b15280903?wid=0-1737739883303) 
