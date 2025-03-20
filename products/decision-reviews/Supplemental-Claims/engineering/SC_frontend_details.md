@@ -163,7 +163,7 @@ The Supplemental Claim flow includes 3 opt-in/verify pages:
 
 ### VA Evidence
 
-The original SC form asked for a treatment date range from each facility that is added. The range was expected in `YYYY-MM-DD` format. The newer SC form asks for a optional single treatment in a `YYYY-MM` format. It also includes a checkbox to indicate that no date is to be provided.
+The original SC form asked for a treatment date range from each facility that is added. The range was expected in `YYYY-MM-DD` format. The newer SC form asks for a optional single treatment in a `YYYY-MM` format. It also includes a checkbox to indicate that no date is to be provided. See this [decision on why we're only submitting one date of record](https://github.com/department-of-veterans-affairs/benefits-team-1-docs/discussions/3)
 
 Lighthouse made their API backwards compatible, but still required us to submit a date range with only the start date required (if provided). If the checkbox is checked, or no date is provided (it's optional), then the evidence date object is completely omitted from the submission for that facility - this was a compromise made to get submissions working.
 
