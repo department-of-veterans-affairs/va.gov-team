@@ -95,12 +95,21 @@ Find Forms is integrated with the Lighthouse Forms API.
 ## Incident Response
 As of 8/1/23:
 
-### Team
+### Find a Form search tool & Form detail pages Team
  - Team Name: Sitewide Public Websites
  - GitHub Label: [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/labels/Public%20Websites)
  - Team Slack channel: [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
  - Forms Slack channel: [#va-forms](https://dsva.slack.com/channelss/va-forms)
- 
+
+### Form upload tool
+The Form upload tool is owned by the Veteran Facing Forms team.
+On certain Form detail pages, this react widget appears and allows end users to upload a filled-out form to send to VA, from the form detail page. 
+
+(March 2025) If you receive reports of form upload issues, provide details in the #veteran-facing-forms channel.
+* PM: Tricia Baker 
+* VA PO: Matt Dingee.  
+
+Feature documentation is here: https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/DocumentUpload_FindaForm/readme.md
 
 ### Sitewide Public Websites Team Members
 |Name|Role|
