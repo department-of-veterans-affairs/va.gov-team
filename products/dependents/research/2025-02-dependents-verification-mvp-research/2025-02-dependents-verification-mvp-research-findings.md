@@ -128,8 +128,6 @@ Each participant was shown the following:
 
 ## Details of Findings 
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
 **1. Most participants were not familiar with the dependent verification process in general, and this lack of familiarity shows a risk of not taking action on the verification ask in our designs.**
 
 **1.1 Most participants did not have an accurate mental model of the dependency verification process**
@@ -413,4 +411,4 @@ Disability and Assistive Technology (AT):
 - Veterans of Hispanic, Latino, or Spanish origin
 - Native, American Indian or Alaska Native Veterans
 
-
+![Recruitment checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-02-dependents-verification-mvp-research/recruitment%20checker.png)_
