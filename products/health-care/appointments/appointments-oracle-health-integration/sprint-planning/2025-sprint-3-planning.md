@@ -53,7 +53,7 @@ In Sprint 2 the team provided support for multiple features and initiatives, out
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started; ⚠️ Removed from sprint 
 
 * 🔵 Direct Scheduling
-   * VPG-338 Filter inactive Providers out of relationship results
+   * VPG-338 Filter inactive Providers out of relationship results[(https://issues.mobilehealth.va.gov/browse/VPG-3380)]
 * 🟣 Testing/Admin/Operational Support
    * CES-1605 CES: Spike: Explore migration away from the drools engine
    * CES-1578 Migrate to kustomized mobile-oauth and h2
