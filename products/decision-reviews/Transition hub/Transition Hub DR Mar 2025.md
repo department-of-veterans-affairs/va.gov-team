@@ -39,8 +39,6 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
   - [NOD](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement/product-guide)
 
 
-<br>
-
 ### Product artifacts
 - [Content source of truth - Figma All forms](https://www.figma.com/files/team/1278375444205744118/project/176170255?fuid=1240762209512275545)
 - Page/User flow
