@@ -53,16 +53,17 @@ In Sprint 2 the team provided support for multiple features and initiatives, out
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started; ⚠️ Removed from sprint 
 
 * 🔵 Direct Scheduling
-   * VPG-338 Filter inactive Providers out of relationship results[(https://issues.mobilehealth.va.gov/browse/VPG-3380)]
+   * [VPG-338 Filter inactive Providers out of relationship results(https://issues.mobilehealth.va.gov/browse/VPG-3380)]
+   * [CES-1615 CFA: Filter relationships where Practitioner is inactivehttps://issues.mobilehealth.va.gov/browse/CES-1615)]
 * 🟣 Testing/Admin/Operational Support
-   * CES-1605 CES: Spike: Explore migration away from the drools engine
-   * CES-1578 Migrate to kustomized mobile-oauth and h2
-   * VPG-343 vetsapi-patient-gateway: address log injection issue
-   * VPG-342 vetsapi-patient-gateway: update clients to use AbstractHealthIndicator 
-   * CES-1538 Cerner-Mock: Update to Mobile-Framework v2.3
-   * CES-1535 CLS: Update to Mobile-Framework v2.3
-   * CES-1539 hapi-fhir-commons: Update to Mobile-Framework v2.3
-   * VPG-341 Developer testing for VPG OH workflows - SQA
+   * [CES-1605 CES: Spike: Explore migration away from the drools engine(https://issues.mobilehealth.va.gov/browse/CES-1605)]
+   * [VPG-343 vetsapi-patient-gateway: address log injection issue(https://issues.mobilehealth.va.gov/browse/VPG-343)]
+   * [VPG-342 vetsapi-patient-gateway: update clients to use AbstractHealthIndicator(https://issues.mobilehealth.va.gov/browse/VPG-342)] 
+   * [CES-1538 Cerner-Mock: Update to Mobile-Framework v2.3(https://issues.mobilehealth.va.gov/browse/CES-1538)]
+   * [CES-1535 CLS: Update to Mobile-Framework v2.3(https://issues.mobilehealth.va.gov/browse/CES-1535)]
+   * [CES-1539 hapi-fhir-commons: Update to Mobile-Framework v2.3(https://issues.mobilehealth.va.gov/browse/CES-1539)]
+   * [VPG-341 Developer testing for VPG OH workflows - SQA(https://issues.mobilehealth.va.gov/browse/VPG-341)]
+   * [CES-1607 cerner-mock: update deployment to support local debugging(https://issues.mobilehealth.va.gov/browse/CES-1607)]
 
 
 
