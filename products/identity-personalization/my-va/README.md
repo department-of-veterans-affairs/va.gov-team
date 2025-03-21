@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: November 27, 2024 - updated FE getting started link**
+**Last updated: March 21, 2025 - OKR's and content cleanup**
 
 ### Communications
 
