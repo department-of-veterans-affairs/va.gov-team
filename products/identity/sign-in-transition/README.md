@@ -9,9 +9,6 @@
 - [User Problem Statement](#user-problem-statement)
 - [Projects](#projects)
 - [Analytics](#analytics)
-- [Backend](#backend)
-- [Frontend](#frontend)
-- [Design and UX](#design-and-ux)
 
 
 ## POCs
@@ -38,13 +35,11 @@
 
 ## Projects
 
-TBD
+- [My HealtheVet user ID and password transition](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/sign-in-transition/mhv-transition)
+- [DS Logon retirement at VA transition](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/sign-in-transition/ds-logon-transition)
 
 ## Analytics
 
-## Backend
-
-## Frontend
-
-## Design and UX
-
+- [Datadog: Authentication stats](https://vagov.ddog-gov.com/dashboard/e3q-6kp-9r4/vagov-identity-stats-public?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1739303027604&to_ts=1741895027604&live=true)
+- [Domo: Sign-in transition dashboard](https://va-gov.domo.com/page/1862108618?userId=367226722)
+- [Datadog: Interstitial metrics](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vagov-identity-monitor-dashboard?fromUser=false&index=*&refresh_mode=paused&from_ts=1737125001775&to_ts=1737139401775&live=false&tile_focus=3815395182095420)
