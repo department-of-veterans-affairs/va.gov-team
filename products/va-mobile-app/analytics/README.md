@@ -1,6 +1,6 @@
 # Monthly Mobile Metrics
 
-- [February 2025](#februrary-2025)
+- [February 2025 (2/1-2/28)](#februrary-2025)
 
 ## Where to gather the data
  
@@ -22,7 +22,7 @@
 
 ## Februrary 2025
 
-Date range for metrics: February 1, 2025 - February 28, 2025
+**Date range for metrics**: February 1, 2025 - February 28, 2025
 
 - **Total downloads since launch**: ~1.1M (A) + ~2.05M (iOS) = ~3.15M 
 - **New monthly downloads**: 33k (A) + 142k (iOS) = 175k
