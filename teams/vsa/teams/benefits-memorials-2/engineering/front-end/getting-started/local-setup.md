@@ -24,6 +24,7 @@ First, make sure the most recent version of Node is being used and dependencies 
 * `yarn build` for the initia build of the application and pages.
 * `yarn watch --env api=https://dev-api.va.gov` to run the webpack dev server.
   * To compile specific sections, use the `entry` parameter. For example, `entry=facilities,static-pages`
+* To run our apps, use this command: `yarn watch --env entry=auth,login-page,profile,static-pages,terms-of-use,verify,virtual-agent,combined-debt-portal,request-debt-help-form-5655,dispute-debt,va-profile` 
 
 ### Checking Tests
 
