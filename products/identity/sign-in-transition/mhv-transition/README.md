@@ -42,7 +42,7 @@ The MHV sign-in transition had five major areas of work:
 - Resources, education, and in-person support​
 - Extensive internal change management​
 - Incremental UI and technology changes to both VA.gov and other systems​
-- Analytics and data
+- Data and analytics
 
 ### Veteran-facing communications campaign​
 
@@ -76,7 +76,7 @@ Increasing urgency without alarm:​
 
 #### Completed work
 
-- OCTO supported over 100 in-person sign-in events, offering help to Veterans having trouble making the transition. Many more events were held by VAMCs without OCTO staff.​
+- OCTO supported over 100+ in-person sign-in events, offering help to Veterans having trouble making the transition. Many more events were held by VAMCs without OCTO staff.​
 - Both Login.gov and ID.me offer an in-person option for identity verification.
 - Initiated ID.me verification device pilot at three VAMCs.​
 - Disseminated a robust in-person support guide complete with resources for staff, recommendations for staffing and event structures, and troubleshooting guidance
@@ -94,7 +94,34 @@ Increasing urgency without alarm:​
 - Monthly MHV Coordinator calls, which transitioned to all VA-staff webinars in November.​
 - Outreach to VSOs (awareness, engagement, and training).
 - Set up a sign-in transition inbox for staff to send issues directly to OCTO for escalation and guidance.​
-- Training for facility staff who are helping Veterans 
+- Training for facility staff who are helping Veterans
+
+### UI and technology changes
+
+- **Owners**: Tom Black (backend/infrastructure); Samara Strauss (user-facing changes)​
+- **Teams involved**: OCTO Identity Platform and Sign in experience, My HealtheVet Cartography, CAIA, Mobile app experience; My HealtheVet; IAM​
+- **Description**: Consistent, clear, and coordinated updates to VA's sign in infrastructure and interfaces.
+
+#### Completed work
+
+- [VA.gov] Prioritized modern credentials on VA.gov sign-in page.​
+- [VA.gov] Interstitial reminder to people using the MHV username and password that they need to create a Login.gov or ID.me account, or switch to an existing account.
+- [VA.gov] Account creation API – this is not user-facing but is essential to supporting MHV username and password retirement.
+- [MHV] Allowed people to voluntarily retire their MHV usernames and passwords.​
+- [MHV] Ended the ability to create a new MHV username and password.​
+- [MHV] Redesigned the MHV sign-in page to emphasize VA.gov sign-in path and de-emphasize direct MHV sign-in (Option 2) and AccessVA (Option 3).
+- The MHV user ID and password option was removed from VA.gov and MHV on 3/5/25 and from AccessVA on 3/6/25.
+
+### Data and analytics
+
+- **Owner**: Tom Black (data strategy); Samara Strauss (product)​
+- **Teams involved**: OCTO Identity Platform, sign-in transition team, Contact center support; IAM; Login.gov; ID.me​
+- **Description**: Establish a data-driven transition so that we can rapidly measure and iterate on transition efforts.
+
+#### Completed work
+
+- Extensive work on our [Domo dashboard](https://va-gov.domo.com/page/1862108618?userId=367226722) to make sure we could track the transition, including adding weekly views to key data and adding usage data.
+- Close collaboration with Office of Connected Care partners to reduce discrepancies between OCTO and OCC data. 
 
 ## Project history
 
