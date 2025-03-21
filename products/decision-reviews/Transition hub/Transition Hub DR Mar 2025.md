@@ -32,22 +32,23 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 ### Product portfolio
 **VA.gov Decision Reviews**
 - [Staging link](https://staging.va.gov/decision-reviews/)
-- [Product folder]
-- [Product outline]
-- [Product Guide/Contact Center Guide]
-- [Things to know]
-- [Stakeholder Meeting Notes]
-- [PM Resources folder]
+- [Product(s) outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews)
+- Product Guide/Contact Center Guide
+  - [SC](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Supplemental-Claims/product-guides)
+  - [HLR](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/higher-level-review/product-guide)
+  - [NOD](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement/product-guide)
 
 
 <br>
 
 ### Product artifacts
-- [Content source of truth]
-- [Page/User flow]
-- [Figma files - All forms](https://www.figma.com/files/team/1278375444205744118/project/176170255?fuid=1240762209512275545)
+- [Content source of truth - Figma All forms](https://www.figma.com/files/team/1278375444205744118/project/176170255?fuid=1240762209512275545)
+- Page/User flow
+  - [SC](https://www.figma.com/design/2LGebZcUuu5Iqh4QLPII6A/Supplemental-Claims-(VA-0995)?node-id=0-1&p=f&t=U7MHBB8Ns7JpvYCh-0)
+  - [HLR](https://www.figma.com/design/OxukHeNtSkCDbdmLxD5k9A/Higher-Level-Review-(VA-0996)?node-id=0-1&p=f&t=yACv2Dpvi8j4xYxV-0)
+  - [NOD](https://www.figma.com/design/BplQkEDZzD8NPPNmLrhvXv/Request-a-Board-Appeal-%2F-Notice-of-Disagreement-(VA-10182)?node-id=0-1&p=f&t=fw6AyZJPYqjFBiKf-0)
 - [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
-- [Other form info]
+
 
 **Analytics**
 - Analytics dashboard: 
