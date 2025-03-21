@@ -3,9 +3,9 @@
 - [Regional Benefit Satellite Offices](#regional-benefit-satellite-offices)
 - [IDES Sites](#ides-sites)
 - [Pre-discharge Sites](#pre-discharge-sites)
-- [Veteran Readiness and Employment (VR&E) Offices](#veteran-readiness)
-- [Seamless Transition Integrated Care Clinic (STICC)](#sticc)
-- [VetSuccess on Campus (VSOC)](#vetsuccess-on-campus)
+- [Veteran Readiness and Employment (VR&E) Offices](#veteran-readiness-and-employment-vre-offices)
+- [Seamless Transition Integrated Care Clinic (STICC)](#seamless-transition-integrated-care-clinic-sticc)
+- [VetSuccess on Campus (VSOC)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/outbased-locations.md#vetsuccess-on-campus-vsoc)
   
 ## Regional Benefit Satellite Offices
 
