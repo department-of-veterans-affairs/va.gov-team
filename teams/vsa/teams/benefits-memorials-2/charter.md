@@ -1,5 +1,5 @@
-# **Benefits: Debt Resolution Team Charter** 
-Last Updated: January 5, 2024
+# **Financial Management Team Charter** 
+Last Updated: March 21, 2025
 
 ### **Table of Contents:**
 
