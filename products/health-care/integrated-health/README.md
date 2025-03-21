@@ -41,7 +41,7 @@ OCTO proposed an organization of IVC's requirements that [breaks the work into c
 - Content
 
 ## Digitizing Forms
-In Fall 2023, a CEDAR team was hired to [digitize 15 forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/IVC%20Portal%20Forms%20Work.docx) 
+In Fall 2023, a CEDAR team was hired to [digitize 15 forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/IVC%20Portal%20Forms%20Work.docx). The scope was reduced to the 5 forms below:
 1.	CHAMPVA Application Form – VA Form 1010D
   - Latest PDF: [About VA Form 10-10d](https://www.va.gov/find-forms/about-form-10-10d/)
   - Expiration: 10/31/2024
