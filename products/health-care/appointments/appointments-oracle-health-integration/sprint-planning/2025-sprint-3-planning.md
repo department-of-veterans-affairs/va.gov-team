@@ -43,9 +43,9 @@ In Sprint 2 the team provided support for multiple features and initiatives, out
      * Clinical Encounter Service continued testing in SQA to prepare for the production deployment of Clinical Encounter Service, ensuring functionality and stability.
   * Address MviClient technical debt
      * VetsAPI Patient Gateway addressed multiple technical debt issues in MviClient.java, including:
-          •Updating the log.warn statement to replace log guards with a lambda expression.
-          •Adding tests to ensure AssigningAuthority comparisons are case-insensitive.
-          •Correcting the Javadoc for getApiClient, which previously referenced VAOS packages instead of the correct MVI source.
+        * Updating the log.warn statement to replace log guards with a lambda expression.
+        * Adding tests to ensure AssigningAuthority comparisons are case-insensitive.
+        * Correcting the Javadoc for getApiClient, which previously referenced VAOS packages instead of the correct MVI source.
 
 
    
@@ -53,8 +53,8 @@ In Sprint 2 the team provided support for multiple features and initiatives, out
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started; ⚠️ Removed from sprint 
 
 * 🔵 Direct Scheduling
-   * [VPG-338 Filter inactive Providers out of relationship results(https://issues.mobilehealth.va.gov/browse/VPG-3380)]
-   * [CES-1615 CFA: Filter relationships where Practitioner is inactivehttps://issues.mobilehealth.va.gov/browse/CES-1615)]
+   * [VPG-338 Filter inactive Providers out of relationship results(https://issues.mobilehealth.va.gov/browse/VPG-338)]
+   * [CES-1615 CFA: Filter relationships where Practitioner is inactive(https://issues.mobilehealth.va.gov/browse/CES-1615)]
 * 🟣 Testing/Admin/Operational Support
    * [CES-1605 CES: Spike: Explore migration away from the drools engine(https://issues.mobilehealth.va.gov/browse/CES-1605)]
    * [VPG-343 vetsapi-patient-gateway: address log injection issue(https://issues.mobilehealth.va.gov/browse/VPG-343)]
