@@ -1,6 +1,6 @@
 # Monthly Mobile Metrics
 
-[Feb 2025](#februrary-2025)
+- [February 1, 2025 - February 28, 2025](#februrary-2025)
 
 ## Where to gather the data
  
