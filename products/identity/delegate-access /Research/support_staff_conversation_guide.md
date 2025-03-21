@@ -52,6 +52,8 @@
   * Has one approached you or reached out to you directly for support?
     * Can you tell me more about that interaction? [If they don't mention how they validated they had permissions, probe them on this.]
     * What specific issue or request did they come to you with?
+    * Through what channel/medium did you interact with the caregiver? (Phone, email, VA.gov, forms, etc.?)
+      * [Ask them to elaborate on each channel] 
     * Were you able to assist them?
       * If so, how?
       * If not, how? Did you provide them with additional materials?  Direct them to other resources e.g. other departments, VA.gov website, etc.?
