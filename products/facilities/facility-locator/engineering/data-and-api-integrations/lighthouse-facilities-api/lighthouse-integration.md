@@ -7,7 +7,7 @@ Lighthouse API documentation: https://developer.va.gov/explore/api/va-facilities
 
 
 ### Lighthouse integration
-Facility Locator is integrated with V1 of the facilities API. Epic = https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14507
+2024: Facility Locator is integrated with V1 of the facilities API. Epic = https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14507
 
 Facility Locator calls to Lighthouse via the [vets-api facilities-api](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api) use the `VADOTGOV_FacilityLocator` is 4000/minute API consumer.
 `VADOTGOV_FacilityLocator` 
@@ -58,6 +58,10 @@ Used for searches in which Facility type =
 Used for searches in which Facility type =
 - Urgent care + Service type = Community urgent care (in VA’s network)
 
+## Drupal & how it connects
+Drupal data about Facilities is sent to Lighthouse via a nightly migration. We refer to that data as the "Overlay."
+The VA.gov Facility Locator front-end then queries Lighthouse, and receives LH data which includes Drupal overlay data. 
 
+More information is availble here: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#productsfeatures-integrated-directly-with-lh-facilities-api-data-not-via-facilities-api
 
 Today, in the live Facility Locator product, any VHA data is provided by Lighthouse Facilities API. 
