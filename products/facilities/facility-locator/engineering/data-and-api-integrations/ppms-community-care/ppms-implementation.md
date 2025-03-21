@@ -28,6 +28,16 @@ PPMS team own the PPMS data / endpoints.
 * **MS Team chat** for questions / updates: [Provider Profile Management System (PPMS) Community | General | Microsoft Teams](https://teams.microsoft.com/l/team/19%3A2zu7xoewCffgNQryaIqmG03z9SUhsGoJUPUSWa2vZUE1%40thread.tacv2/conversations?groupId=68e7db21-a328-4d8c-8275-78f4e736b046&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
 
 
+### Notes
+- We cannot pull a number or list of all providers - requires an address or lat/long position -
+- A 2023 report stated they had over 1.3 million providers in their database
+- Their database is not accessible except via their Microsoft Azure application or via the API that has significant limitations
+- Their developer dashboard has not been updated after their move to Microsoft Azure form Bing
+- Most organizations use the Microsoft application and do not access their API
+
+Some Facility Locator searches return BOTH PPMS and Lighthouse results. [More info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/data-and-api-integrations/README.md#ppms-and-lighthouse-mashups)
+
+
 ## Provider Core Training
 PPMS provides trainings to providers. 
 "Department of Veterans Affairs (VA) has created the Provider Core Training so that Veterans can be offered care from the highest quality providers available. Referring Veterans to Providers who have completed the Provider Core Training ensures that Veterans are receiving high-quality care in the community."
