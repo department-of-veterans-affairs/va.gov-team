@@ -19,6 +19,7 @@
 ### What is the sign-in transition?
 
 - After March 4, 2025, Veterans will no longer have the option to sign in to VA web or mobile properties—including VA.gov and the VA: Health and Benefits mobile app—with their My HealtheVet user ID and password.​ (**Note**: Original target date was January 31, 2025)
+  - **This work is complete. The My HealtheVet user ID and password option was removed from VA.gov, MHV, and AccessVA between 3/5/25 and 3/6/25**. 
 - After September 30, 2025, Veterans will no longer have the option to sign in to VA web or mobile properties with their DS Logon username and password.​
 - Instead, Veterans and others can access VA web and mobile properties with a Login.gov or ID.me account.
 
