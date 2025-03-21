@@ -1,10 +1,13 @@
 # Access to Care implementation README
-_ Last updated: 2024-01-02_
+Last updated: 2024-01-02
 
 Access to Care provides information about wait times and satisfaction scores for various services offered by VHA facilities. These scores are also used to understand which services VHA facilities provide. This source is not used to determine Dental services.
 * Accessible via the public internet
 * Satisfaction: https://www.accesstopwt.va.gov/
 * Wait times: https://www.accesstocare.va.gov/
+
+## Owners
+Project Manager: Theresa Baamonde (Theresa.Baamonde@microsoft.com) - this may be out of date
 
 ## Usage in the Facility Locator
 Is specific to Facility Locator Detail pages. 
