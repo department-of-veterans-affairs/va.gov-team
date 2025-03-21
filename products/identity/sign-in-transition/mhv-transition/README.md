@@ -7,7 +7,7 @@
 - [POCs](#pocs)
 - [Overview](#overview)
 - [User Problem Statement](#user-problem-statement)
-- [Areas of focus and completed work](#transition-approach)
+- [Areas of focus and completed work](#areas-of-focus-and-completed-work)
 - [Project timeline](#project-timeline)
 - [Analytics](#analytics)
 - [Backend](#backend)
