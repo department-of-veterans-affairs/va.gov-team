@@ -7,7 +7,7 @@
 - [POCs](#pocs)
 - [Overview](#overview)
 - [User Problem Statement](#user-problem-statement)
-- [Project strategy](project-strategy)
+- [Transition approach](transition-approach)
 - [Project history](#project-history)
 - [Analytics](#analytics)
 - [Backend](#backend)
@@ -35,7 +35,7 @@ Between July 2024 and March 2025, VA engaged in an organization-wide campaign to
 - Improve security and reduce fraud risk by retiring the My HealtheVet user ID and password.
 - Simplify the VA sign-in experience by reducing supported credential service providers from four to two.
 
-## Project strategy
+## Transition approach
 
 The MHV sign-in transition had five major areas of work:
 - A robust Veteran-facing communication campaign​
