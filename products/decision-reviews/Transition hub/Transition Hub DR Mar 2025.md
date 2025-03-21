@@ -37,6 +37,9 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
   - [SC](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Supplemental-Claims/product-guides)
   - [HLR](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/higher-level-review/product-guide)
   - [NOD](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement/product-guide)
+- [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+- [Decision Reviews Sharepoint](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDecision%20Reviews&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72)
+- [Decision Reviews Sprint Board](https://github.com/orgs/department-of-veterans-affairs/projects/1434/views/3) 
 
 
 ### Product artifacts
@@ -45,7 +48,9 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
   - [SC](https://www.figma.com/design/2LGebZcUuu5Iqh4QLPII6A/Supplemental-Claims-(VA-0995)?node-id=0-1&p=f&t=U7MHBB8Ns7JpvYCh-0)
   - [HLR](https://www.figma.com/design/OxukHeNtSkCDbdmLxD5k9A/Higher-Level-Review-(VA-0996)?node-id=0-1&p=f&t=yACv2Dpvi8j4xYxV-0)
   - [NOD](https://www.figma.com/design/BplQkEDZzD8NPPNmLrhvXv/Request-a-Board-Appeal-%2F-Notice-of-Disagreement-(VA-10182)?node-id=0-1&p=f&t=fw6AyZJPYqjFBiKf-0)
-- [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+- [Decision Reviews Mural](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=0583ef8a-a5f7-408c-a7c1-5f14311a73cf)
+  
+
 
 
 **Analytics**
