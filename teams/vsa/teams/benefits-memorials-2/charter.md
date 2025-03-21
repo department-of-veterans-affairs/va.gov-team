@@ -26,17 +26,20 @@ Last Updated: March 21, 2025
 -   O3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.
 -   O4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.
 
-- **Archived:
--  OCTO-DE:** [2021 Mission & Vision](https://dsva.slack.com/archives/CE4304QPK/p1615244948078900)
+- **Archived Section**
+-  OCTO-DE: [2021 Mission & Vision](https://dsva.slack.com/archives/CE4304QPK/p1615244948078900)
 
 - **VSA North Stars:**
   - Increase the use of self-service tools and associated number of conversions
   - Decrease time users spend waiting for an outcome
   - Consistent Customer satisfaction, reliability and secure online UX
+ 
+    
 
 - **Team Mission Statement:** To help Veterans understand why they have debt, what the status of their debt is, and what steps they need to take to resolve their debt.
 - **Our Team Vision:** To make VA.gov  the "go-to" resource for Veterans to review all of their real-time debt information easily and reliably. Work with Veterans to build, maintain, and improve the public-facing experience on VA.gov. Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
-- **Product Line:**  VA Debt Experience
+- **Product Line:**  Account Experience (https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)
+
 
 </br>
 
@@ -46,7 +49,7 @@ Last Updated: March 21, 2025
 
 ## Team Details
 
-### Team Slack Channel:** `#financial-management
+### Team Slack Channel:** #financial-management
 
 |**Financial Management Team Roster**              |**Assigned**                        |
 |-----------------------|------------------------------------|
