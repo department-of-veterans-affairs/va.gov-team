@@ -14,6 +14,11 @@ Facility Locator calls to Lighthouse via the [vets-api facilities-api](https://g
 * As of Dec 2023, the rate limit is set to 4000/minute
 * has a single key (vs. some API consumers may have multiple associated keys, with a single shared rate limit). 
 
+### **Facility Website URLs**
+The Lighthouse Facilities API team provides the URL for any given Facility's website. Those URLs are drawn from a few different sources: 
+* VHA: Drupal VAMC Facility URL is the source of truth.
+* VBA: Drupal VBA Facility URL is the source of truth. If not URL is sent to LH for a given facility, Lighthouse relies on [Sandy's DB](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/data-and-api-integrations/vba/vba-data-consistency-issues.md#2024-notes) instead.
+* NCA: URLs are sourced from an XML provided by NCA, which are then mapped into Lighthouse's Websites CSV. 
 
 ## Performance (issues and solutions)
 * The main performance issues seem to be related to Kong (API Gateway), and may require more servers to be provisioned.
