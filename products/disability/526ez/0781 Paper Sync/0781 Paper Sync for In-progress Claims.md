@@ -1,6 +1,5 @@
 
-# Product Outline 0781 Paper Sync for in progress claims
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
+# 0781 Paper Sync for in progress claims
 
 ---
 
@@ -108,11 +107,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: DBEX-Carbs
+- GitHub Label: DBEX-Carbs
+- Slack channel: #benefits-disability 
+- Product POCs: Emily Theis
+- Stakeholders: Disability Benefits Crew
 
 </details>
 
@@ -120,14 +119,25 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
- 
+- Prod Manager: Lisa Capaccioli
+- Delivery Lead: Amy Plange
+- Des/Res Lead: Ruben Sun
+- Des/Res: Qian Chen
+- Des/Res: Evelyn Hilbrich Davis
+- Full Stack Eng: Nathan Burgess
+- Full Stack Eng: Alison Jones
+- Full Stack Eng: JR Reed
+- Lead Eng: Kyle Soskin
 </details>
-
-
+ 
 #### Stakeholders
 
 <details>
+ 
+Disability Benefits Crew: 
+- Product Owner: Emily Theis
+- Eng Lead: Sam Wiley
+- Design Lead: Shannon Ford 
+- OBA Lead: David Reis
+ 
+</details>
