@@ -20,6 +20,11 @@ Last Updated: March 21, 2025
 
 ## Guideposts
 - **OCTO-DE:** [2021 Mission & Vision](https://dsva.slack.com/archives/CE4304QPK/p1615244948078900)
+- **2025 OCTO Objectives:**
+O1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits. 
+O2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA. 
+O3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.
+O4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.
 
 - **VSA North Stars:**
   - Increase the use of self-service tools and associated number of conversions
