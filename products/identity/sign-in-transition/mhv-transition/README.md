@@ -37,13 +37,6 @@ Between July 2024 and March 2025, VA engaged in an organization-wide campaign to
 
 ## Areas of focus and completed work
 
-The MHV sign-in transition had five major areas of work:
-- A robust Veteran-facing communication campaign​
-- Resources, education, and in-person support​
-- Extensive internal change management​
-- Incremental UI and technology changes to both VA.gov and other systems​
-- Data and analytics
-
 ### Veteran-facing communications campaign​
 
 - **OCTO lead**: Danielle Thierry​
