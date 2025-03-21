@@ -1,15 +1,21 @@
 # Facility Locator - Lighthouse integration technical documentation
-_Last updated: 2024-01-02_
+Last updated: 2025-03-21
 
 Lighthouse API documentation: https://developer.va.gov/explore/api/va-facilities
 
 [Lighthouse API diagram](https://github.com/department-of-veterans-affairs/lighthouse-facilities) for reference
 
+## Owners
+Lighthouse Facilities API team 
+VA PO: Dawn Pruitt
+DSVA Slack channel: #cms-lighthosue
+Contract team is turning over 3/31/25
 
 ### Lighthouse integration
-2024: Facility Locator is integrated with V1 of the facilities API. Epic = https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14507
+The Lighthouse Facilities API is integrated via a [Facilities API in vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api). Versions are off by one. 
+As of 2024: LH Facilities API V1 is integrated into vets-api Facilities API V2. Epic = https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14507
 
-Facility Locator calls to Lighthouse via the [vets-api facilities-api](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api) use the `VADOTGOV_FacilityLocator` is 4000/minute API consumer.
+Facility Locator calls to Lighthouse via the vets-api facilities-api use the `VADOTGOV_FacilityLocator` is 4000/minute API consumer.
 `VADOTGOV_FacilityLocator` 
 * As of Dec 2023, the rate limit is set to 4000/minute
 * has a single key (vs. some API consumers may have multiple associated keys, with a single shared rate limit). 
