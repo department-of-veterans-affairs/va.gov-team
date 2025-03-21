@@ -1,6 +1,6 @@
 # Initiative outline: MHV user ID and password sign-in transition
 
-**Last Updated: March 20, 2025 -- Samara added analytics**
+**Last Updated: March 21, 2025 -- Samara added content around transition approach and completed work**
      
 ## Table of Contents
 
@@ -55,8 +55,8 @@ The MHV sign-in transition had five major areas of work:
 Increasing urgency without alarm:​
 
 - **July to September 2024**: Awareness and encouragement —“You have time. Make the change early.”​
-​- **October to November 2024**: Encouragement and assistance —“You still have time but need to make the change. Get support.”​
-​- **December 2024 to March 2025**: Urgent alert and assistance —“You must make this change now to continue to access and manage our benefits online. Get support now.”​
+- **October to November 2024**: Encouragement and assistance —“You still have time but need to make the change. Get support.”​
+- **December 2024 to March 2025**: Urgent alert and assistance —“You must make this change now to continue to access and manage our benefits online. Get support now.”​
 - **March 2025 and beyond**: Post-transition support — “Use your Login.gov or ID.me account to sign in. If you don’t have one, create one now.”​
 
 #### Completed work
