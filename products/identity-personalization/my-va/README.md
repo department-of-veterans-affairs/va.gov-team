@@ -121,43 +121,8 @@ _Why would your business want this to exist?_
 -	We do not want this page to be co-opted by groups outside of VA.gov.
 -	We do not want this page to be turned into a benefit eligibility engine.
  
-## OKR's 
 
-## CSAT Score
-Q4CY24 - 56.7%
-
-### User Volume
-Total number of sessions
-|Quarter|Volume|
-|:-:|:-:|
-|CY24 Q4|13,913,124|
-|CY24 Q3|14,639,117|
-
-### Latency
-
-TBD defining this
-|Quarter|Volume|
-|:-:|:-:|
-|CY24 Q4||
-|CY24 Q3||
-
-### Throughput
-TBD defining this
-|Quarter|Volume|
-|:-:|:-:|
-|CY24 Q4||
-|CY24 Q3||
-
-### Error Rate
-2% error rate (Overall GET success rate)
-
-TBD defining this
-|Quarter|Volume|
-|:-:|:-:|
-|CY24 Q4||
-|CY24 Q3||
-
-### Analytics
+## Analytics
 
 - [My VA Domo dashboard](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1167851935%3FuserId%3D1322887837)
 - [My VA dashboard in Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20220525&_u.date01=20220531/)
