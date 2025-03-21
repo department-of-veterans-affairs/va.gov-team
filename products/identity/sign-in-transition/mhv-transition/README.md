@@ -7,8 +7,8 @@
 - [POCs](#pocs)
 - [Overview](#overview)
 - [User Problem Statement](#user-problem-statement)
-- [Transition approach](#transition-approach)
-- [Project history](#project-history)
+- [Areas of focus and completed work](#transition-approach)
+- [Project timeline](#project-timeline)
 - [Analytics](#analytics)
 - [Backend](#backend)
 - [Frontend](#frontend)
@@ -35,7 +35,7 @@ Between July 2024 and March 2025, VA engaged in an organization-wide campaign to
 - Improve security and reduce fraud risk by retiring the My HealtheVet user ID and password.
 - Simplify the VA sign-in experience by reducing supported credential service providers from four to two.
 
-## Transition approach
+## Areas of focus and completed work
 
 The MHV sign-in transition had five major areas of work:
 - A robust Veteran-facing communication campaign​
@@ -123,7 +123,7 @@ Increasing urgency without alarm:​
 - Extensive work on our [Domo dashboard](https://va-gov.domo.com/page/1862108618?userId=367226722) to make sure we could track the transition, including adding weekly views to key data and adding usage data.
 - Close collaboration with Office of Connected Care partners to reduce discrepancies between OCTO and OCC data. 
 
-## Project history
+## Project timeline
 
 * **November/December 2023**: The determination was made to retire DS Logon and the MHV credential by the end of 2024.
 * **January 2024**: Significant comms planning; Preparation of initial press release (still awaiting approval; Jeanette joins the team
