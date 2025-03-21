@@ -1,5 +1,5 @@
 
-# Product Outline Template
+# Product Outline 0781 Paper Sync for in progress claims
 *Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
 
 ---
