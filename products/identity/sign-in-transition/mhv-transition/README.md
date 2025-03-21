@@ -7,7 +7,7 @@
 - [POCs](#pocs)
 - [Overview](#overview)
 - [User Problem Statement](#user-problem-statement)
-- [Transition approach](transition-approach)
+- [Transition approach](#transition-approach)
 - [Project history](#project-history)
 - [Analytics](#analytics)
 - [Backend](#backend)
