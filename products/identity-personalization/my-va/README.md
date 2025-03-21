@@ -130,6 +130,30 @@ Total number of sessions
 |CY24 Q4|13,913,124|
 |CY24 Q3|14,639,117|
 
+### Latency
+
+TBD defining this
+|Quarter|Volume|
+|:-:|:-:|
+|CY24 Q4||
+|CY24 Q3||
+
+### Throughput
+TBD defining this
+|Quarter|Volume|
+|:-:|:-:|
+|CY24 Q4||
+|CY24 Q3||
+
+### Error Rate
+2% error rate (Overall GET success rate)
+
+TBD defining this
+|Quarter|Volume|
+|:-:|:-:|
+|CY24 Q4||
+|CY24 Q3||
+
 ### Analytics
 
 - [My VA Domo dashboard](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1167851935%3FuserId%3D1322887837)
