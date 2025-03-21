@@ -20,7 +20,9 @@
 - Average App Store Rating ([App store](https://apps.apple.com/us/app/va-health-and-benefits/id1559609596))
 - Average Play Store Rating ([Play store](https://play.google.com/store/apps/details?id=gov.va.mobileapp&hl=en_US))
 
-## Februrary 2025 (February 1, 2025 - February 28, 2025)
+## Februrary 2025
+
+Date range for metrics: February 1, 2025 - February 28, 2025
 
 - **Total downloads since launch**: ~1.1M (A) + ~2.05M (iOS) = ~3.15M 
 - **New monthly downloads**: 33k (A) + 142k (iOS) = 175k
