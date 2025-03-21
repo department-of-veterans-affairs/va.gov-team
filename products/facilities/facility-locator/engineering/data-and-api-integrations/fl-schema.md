@@ -372,3 +372,69 @@
   }
 }
 ```
+Cemeteries ares slightly different with added information in the operating status
+```json
+{
+  "data": {
+    "id": "nca_898",
+    "type": "facility",
+    "attributes": {
+      "classification": "National Cemetery",
+      "distance": null,
+      "facilityType": "va_cemetery",
+      "id": "nca_898",
+      "lat": 34.0602046,
+      "long": -118.4549435,
+      "mobile": null,
+      "name": "Los Angeles National Cemetery",
+      "operationalHoursSpecialInstructions": null,
+      "uniqueId": "898",
+      "visn": null,
+      "website": "https://www.cem.va.gov/cems/nchp/LosAngeles.asp",
+      "tmpCovidOnlineScheduling": null,
+      "access": {
+        "health": [],
+        "effectiveDate": ""
+      },
+      "address": {
+        "mailing": {
+          "zip": "90049",
+          "city": "Los Angeles",
+          "state": "CA",
+          "address1": "950 S Sepulveda Blvd"
+        },
+        "physical": {
+          "zip": "90049",
+          "city": "Los Angeles",
+          "state": "CA",
+          "address1": "950 S Sepulveda Blvd"
+        }
+      },
+      "feedback": [],
+      "hours": {
+        "monday": "8:00am - 4:30pm",
+        "tuesday": "8:00am - 4:30pm",
+        "wednesday": "8:00am - 4:30pm",
+        "thursday": "8:00am - 4:30pm",
+        "friday": "8:00am - 4:30pm",
+        "saturday": "8:00am - 4:30pm",
+        "sunday": "8:00am - 4:30pm"
+      },
+      "operatingStatus": {
+        "code": "NORMAL",
+        "supplementalStatus": [
+          {
+            "id": "BURIALS_CLOSED",
+            "label": "Burial space not available"
+          }
+        ]
+      },
+      "phone": {
+        "fax": "310-268-3257",
+        "main": "310-268-4675"
+      },
+      "services": []
+    }
+  }
+}
+```
