@@ -44,6 +44,10 @@
 * Ok, that's it for set up\! Do you have any questions on any of this setup stuff before we start?
 
 ## **General Questions | 15-25 minutes**
+> [This guide is not meant to be overly prescriptive. Let the interviewee lead you where they may.  Keep in mind the research goals.]
+> * Discover how caregivers are able to access Veteran services behalf of Veterans
+> * Explore how caregivers interact with VA.gov or other digital services  
+> * Better understand and empathhize with the caregiver journey and uncover any potential pain points as they navigate the VA.
 
 * Can you tell me a little bit about yourself and your role at the VA?
 * Have you worked with caregivers or fiduciaries in the past?  Can you give me your impressions on how that process works at the VA?
