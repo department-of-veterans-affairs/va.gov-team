@@ -123,6 +123,9 @@ _Why would your business want this to exist?_
  
 ## OKR's 
 
+## CSAT Score
+Q4CY24 - 56.7%
+
 ### User Volume
 Total number of sessions
 |Quarter|Volume|
