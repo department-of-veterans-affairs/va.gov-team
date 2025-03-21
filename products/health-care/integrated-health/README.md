@@ -100,7 +100,7 @@ General problems include:
   - Mikki Northuis -Information architecture
   - Kay Lawyer - Product lead for Unified Appointment Experience (including consults, authorizations, etc.) & Medications
   - Denise Coveyduc - Product lead for debt mgmt product 
-  - Beverly Nelson - Product lead for VA Notify
+  - Dave Conlon - Product lead for VA Notify
   - Chante Lantos-Swett - Contact Centers, Helpdesks, etc.
   - Michelle Middaugh - Facility websites, Facility Locator
   - Patrick Bateman - Medical equipment ordering 
