@@ -85,7 +85,7 @@ Will include the following:
 
 ## Decisions 
 
-- [Link to decision log](TBD)
+- [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2025-improve-VAMC-editor-experience/decision-log.md))
 
 ## Measuring success
 
