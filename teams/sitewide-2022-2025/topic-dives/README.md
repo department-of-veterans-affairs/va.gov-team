@@ -28,6 +28,16 @@ Recording from Sitewide demo explains the change, why it was made, and some addi
 
 Related to https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17896
 
+### 3/20/25 - Outreach Events
+Covers: 
+* Event listings
+* Events
+* Drupal differences
+* How Events present on Outreach Events page, vs on VAMCs
+* Summary of upcoming work probably needed to add Events to VBA and Vet Centers
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide-2022-2025/topic-dives/videos/events_topic_dive.m4a
+
 ### 1/16/25 - VAMC Topic dive
 Covers: 
 * VA Services & how they tie to Systems & Facilities
