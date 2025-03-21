@@ -20,18 +20,22 @@ Nearly 40% of all traffic to VA.gov comes from users on their mobile devices. Th
 ### Design
 
 - Jonathan Post - Designer
-- Kira Evsanaa - Designer
+- Kira Evsanaa - Designer/Researcher
+- Maria Kravetz - Designer
 
 ### Engineering
 
 - Tim Wright - Engineering Lead
-- Chris Troiano - Engineer
-- John Marchi - Engineer
 - Jon Bindbeutel - Engineer
+- John Marchi - Engineer
+- Chris Troiano - Engineer
 - Ken Li - Engineer
-- Ryan McNeil - Backend Engineer
 - Tony Doan - Engineer
+- Adryien Hayes - Engineer
+- Ryan McNeil - Backend Engineer
+- Silvio Luthi - Backend Engineer
 - Ken Harrison - Engineer, QA
+- Sam Kaplan - Engineer, QA
 - Josh Bergman - Engineer, Dev Ops
 
 ## Communications
