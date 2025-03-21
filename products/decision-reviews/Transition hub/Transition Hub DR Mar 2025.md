@@ -1,6 +1,6 @@
 # Decision Reviews Transition Hub
 
-**Updated 3/19/2025**
+**Updated 3/21/2025**
 
 **Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 
@@ -45,14 +45,14 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 ### Product artifacts
 - [Content source of truth]
 - [Page/User flow]
-- [Figma file]
+- [Figma files - All forms](https://www.figma.com/files/team/1278375444205744118/project/176170255?fuid=1240762209512275545)
 - [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 - [Other form info]
 
 **Analytics**
 - Analytics dashboard: 
-     - [Domo] 
-     - [Google Analytics]
+     - [Domo](https://va-gov.domo.com/page/447193050). Can filter for DR forms
+     - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/xIW7ShjIT_Sibfti0qGIBw)
 - [Backend DataDog Dashboards](https://github.com/orgs/department-of-veterans-affairs/projects/1434/views/3?pane=issue&itemId=100169647&issue=department-of-veterans-affairs%7Cva.gov-team%7C104242)
 - Real User Monitoring (RUM) Dashboards. Useful for watching recordings of Veterans interacting with the form or pages to determine points of frustration. All PII is masked.
   - [Supplemental Claim](https://vagov.ddog-gov.com/rum/replay/search?query=%40application.id%3A2779ccc3-be87-4b2d-a757-9ff54b58761b&replay_tab=all&from_ts=1741808233730&to_ts=1742413033730&live=true)
@@ -94,7 +94,6 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 
 
 ## Features and initiatives we worked on
-- INsert here
 
 | Feature/Enhancement (Github link)| Status |
 | :--- | :--- |
