@@ -68,7 +68,33 @@ Increasing urgency without alarm:​
 - Jeannette and Danielle participated in a "You Asked, We Answered" session produced by VHA.​
 - The BLUF" (a VHA-produced episodic video show) -- brief interview with ID.me's owner as well as call out about sign-in changes.
 
+### ​Resources, education, and in-person support​
 
+- **Owner**: Jeannette Bruno​
+- **Teams involved**: OCTO Identity sign-in transition team and CAIA; My HealtheVet; OCC; My HealtheVet Coordinators; VHRCs; VSOs​
+- **Description**: Establish resources, education, and in-person support operations so that VA Staff and Veterans have the correct information during the transition.
+
+#### Completed work
+
+- OCTO supported over 100 in-person sign-in events, offering help to Veterans having trouble making the transition. Many more events were held by VAMCs without OCTO staff.​
+- Both Login.gov and ID.me offer an in-person option for identity verification.
+- Initiated ID.me verification device pilot at three VAMCs.​
+- Disseminated a robust in-person support guide complete with resources for staff, recommendations for staffing and event structures, and troubleshooting guidance
+- Created print and video collateral on how to transition to a modern sign-in account.​
+- Held staff monthly staff webinars.
+
+### Internal change management​
+
+- **Owner**: Jeannette Bruno​
+- **Teams involved**: OCTO Identity sign-in transition team; My HealtheVet; OCC; My HealtheVet Coordinators; VHRCs​
+- **Description**: Improve transparency and communication so that all of VA is aligned and informed during the transition; Work with partners to become champions of this effort.
+  
+#### Completed work
+- Memo shared with VISN Directors to request VISN and facility support during the ongoing sign in transition to a new modern sign in credential.​
+- Monthly MHV Coordinator calls, which transitioned to all VA-staff webinars in November.​
+- Outreach to VSOs (awareness, engagement, and training).
+- Set up a sign-in transition inbox for staff to send issues directly to OCTO for escalation and guidance.​
+- Training for facility staff who are helping Veterans 
 
 ## Project history
 
