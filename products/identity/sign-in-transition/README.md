@@ -33,6 +33,9 @@
 
 ## User Problem Statement
 
+- As a Veteran, I need to be able to quickly and easily login to VA web properties to manage my health and benefits.
+- As a Veteran, I need to sign up for a Login.gov or ID.me account, having previously used the MHV or DSL credentials to login to VA web properties.
+
 ## Projects
 
 - [My HealtheVet user ID and password transition](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/sign-in-transition/mhv-transition)
@@ -40,6 +43,12 @@
 
 ## Analytics
 
+### OCTO 2025 OKRs
+
+#### OKR2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.
+- **O2.1**: 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
+
+### Analytics dashboards
 - [Datadog: Authentication stats](https://vagov.ddog-gov.com/dashboard/e3q-6kp-9r4/vagov-identity-stats-public?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1739303027604&to_ts=1741895027604&live=true)
 - [Domo: Sign-in transition dashboard](https://va-gov.domo.com/page/1862108618?userId=367226722)
 - [Datadog: Interstitial metrics](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vagov-identity-monitor-dashboard?fromUser=false&index=*&refresh_mode=paused&from_ts=1737125001775&to_ts=1737139401775&live=false&tile_focus=3815395182095420)
