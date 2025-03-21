@@ -7,6 +7,7 @@
 - [POCs](#pocs)
 - [Overview](#overview)
 - [User Problem Statement](#user-problem-statement)
+- [Project strategy](project-strategy)
 - [Project history](#project-history)
 - [Analytics](#analytics)
 - [Backend](#backend)
@@ -33,6 +34,41 @@ Between July 2024 and March 2025, VA engaged in an organization-wide campaign to
 - Reduce the number of people using the My HealtheVet user ID and password to zero.
 - Improve security and reduce fraud risk by retiring the My HealtheVet user ID and password.
 - Simplify the VA sign-in experience by reducing supported credential service providers from four to two.
+
+## Project strategy
+
+The MHV sign-in transition had five major areas of work:
+- A robust Veteran-facing communication campaign​
+- Resources, education, and in-person support​
+- Extensive internal change management​
+- Incremental UI and technology changes to both VA.gov and other systems​
+- Analytics and data
+
+### Veteran-facing communications campaign​
+
+- **OCTO lead**: Danielle Thierry​
+- **Teams involved**: OCTO CAIA; VEO, OPIA​
+- **Description**: Clear, consistent, targeted, and regular communication across many channels—to reach every Veteran we can.
+
+#### Strategy
+
+Increasing urgency without alarm:​
+
+- **July to September 2024**: Awareness and encouragement —“You have time. Make the change early.”​
+​- **October to November 2024**: Encouragement and assistance —“You still have time but need to make the change. Get support.”​
+​- **December 2024 to March 2025**: Urgent alert and assistance —“You must make this change now to continue to access and manage our benefits online. Get support now.”​
+- **March 2025 and beyond**: Post-transition support — “Use your Login.gov or ID.me account to sign in. If you don’t have one, create one now.”​
+
+#### Completed work
+- Initial comms push, including the [VA press release announcing the transition](https://news.va.gov/press-room/va-begins-transition-to-simpler-online-sign-in-experience-for-veterans-account-access/) (summer 2024)​
+- Sign-in transition campaign page on VA.gov, and robust transition content in Resources & Support, including how-to videos.​
+- Monthly emails to Veterans who do not have Login.gov or ID.me.​
+- Content in VetResources newsletter and MHV newsletter.
+- Social media push​
+- Jeannette and Danielle participated in a "You Asked, We Answered" session produced by VHA.​
+- The BLUF" (a VHA-produced episodic video show) -- brief interview with ID.me's owner as well as call out about sign-in changes.
+
+
 
 ## Project history
 
