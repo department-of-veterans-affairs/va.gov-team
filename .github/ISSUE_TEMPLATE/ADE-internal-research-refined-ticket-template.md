@@ -1,6 +1,6 @@
 ---
 name: "Internal ADE Research Child Ticket"
-about: Template for ADE Research Child Tickets - based on the work requested in the research intake ticket. These will be created as sub-issues, under the parentresearch intake ticket. 
+about: Template for ADE Research Child Tickets - based on the work requested in the research intake ticket. These will be created as sub-issues, under the parent research intake ticket. 
 title: 'Internal ADE Research Child Ticket'
 labels: 'ADE, ADE Research'
 assignees: 'sara-amanda,lakper,cindymerrill'
@@ -36,7 +36,6 @@ The ticket starts here.
 > - [ ] Screening questions for inclusive recruiting
 > - [ ] Conversation guide
 > - [ ] Help building an accessible prototype
-> - [ ] Pilot with an accessibility specialist
 > - [ ] Live technical support during your AT research sessions
 > - [ ] Advise on moderating AT research sessions
 > - [ ] Have an accessibility researcher moderate your AT research sessions
@@ -44,7 +43,7 @@ The ticket starts here.
 > - [ ] Collaborate with an accessibility researcher to research a specific topic
 > - [ ] Request accessibility research on a specific topic
 > 
-> **Source**: Research Support Ticket (ADE) checkboxes found in the section titled: "What kind(s) of research help would you like from ADE?"
+> **Source**: Research Support Ticket (ADE) checkboxes found in the section titled: "What kind(s) of research help would you like from ADE?" Pilot is not included in this list, since it has its own template.
 
 
 ##  Testing Schedule
