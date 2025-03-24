@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Household Section V2 Initiative Brief
 #### Overview
 
 <details>
