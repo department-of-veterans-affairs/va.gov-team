@@ -1,5 +1,5 @@
 ---
-name: "CAIA Internal Content Ticket"
+name: "Internal Content Unauth Request"
 about: Template for new content task, for CAIA internal use.
 title: 'New Content Task Ticket'
 labels: 'sitewide CAIA, sitewide content'
