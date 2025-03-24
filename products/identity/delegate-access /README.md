@@ -39,8 +39,15 @@ The OCTO Login & Identity team has been tasked with validating a user need aroun
 - Determine need for delegate access to VA.gov.
 - Support delegates and caregivers in conducting business with VA on behalf of another person, whether they would like to conduct that business online, over the phone, or in person.
 - Abide by all privacy and security laws and protocols required to protect people's information.
+- Create a delegate infrastructure that is maintainable and scalable. Avoid an overly complex matrix of permissions.
 
 ## Questions and Hypotheses
+
+### What we already know
+
+Based on the [current delegate landscape at VA (on Sharepoint)](https://dvagov.sharepoint.com/:b:/r/sites/IdentityTeam/Shared%20Documents/Delegate%20access/VA%20Delegate%20Access%20Current%20State%20v1.12%20-%2020230314%20(1).pdf?csf=1&web=1&e=FsdeSH) we know that there are multiple types of delegate roles at VA, many of which already have digital systems they can log into to complete a task on behalf of a Veteran. Examples include: QuickSubmit, which allows VSOs and other people/organizations to submit a disability claim on behalf of a Veteran; Fiduciary Accountings Submission Tool (FAST), which allows fiducaries to do business with VA on behalf of Veteran.
+
+The hole that seems to be missing is what we anecdotally heard during the MHV user ID and password sign-in transition -- caregivers that help manage a Veteran's care have no way to do business online with VA since they can't sign up for ID.me or Login.gov and get access to their Veteran's information.
 
 ### Questions
 
@@ -69,7 +76,7 @@ The OCTO Login & Identity team has been tasked with validating a user need aroun
 
 ## Backend
 
-- [Current delegate landscape at VA (on Sharepoint)](https://dvagov.sharepoint.com/:b:/r/sites/IdentityTeam/Shared%20Documents/Delegate%20access/VA%20Delegate%20Access%20Current%20State%20v1.12%20-%2020230314%20(1).pdf?csf=1&web=1&e=FsdeSH)
+(Add background backend documentation and links to other relevant documentation)
 
 ## Frontend
 
