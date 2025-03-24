@@ -6,6 +6,51 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 
 ---
 
+## DRAFT Quarterly Priorities for FY25Q3 (Apr, May, Jun 2025)  
+*Quarter Sprints include 5,6, 7, 8, 9, & 10*
+**Primary Goals (May shift based on stretch goal dependencies)**
+    
+| Priority ID | Description | S.Epic | Relevant Dates |  Notes 
+|-------------|---------------|-----------------|---------------|  ---------------| 
+| QP1 | **Asynchronous Email Pattern:** Implement 3 email templates for all FSR Submission communications|[#105235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105235)   | Implement ASAP | Tied to OCTO Silent Failure Initiative  |
+| QP2 |  **One VA Debt Letter:** Launch in production| [#84175](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84175) | Launch in Prodution Goal: ~~March~~ Early April 2025 | Legislative Requirement: Veterans Benefit Transition​ Act of 2018 ( year 7) |
+| QP3  | **Digital Debt Dispute (VBA):** Target Launch in production| [#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003) | Target Launch in Production May 28, 25 |  |
+| QP4 | **Pay.gov Hosted Collection Page (HCP) for Overpayments:** Discovery & Design Prototyping| [#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)|  | 
+| QP5 | **Mobile App:** Collaborate with IIR team to add overpayment debt information into mobile app experience | coming soon |  |  |
+| QP6 | **VBA Hardship Suspension:** Discovery & Design Prototyping | coming soon |  | 
+| QP7 | **VHA Repayment Plan (10-323)**:  Discovery & Design Prototyping| coming soon |   |   |
+
+
+**Stretch Goals (Known dependencies may impact)**
+| Priority ID | Description | S.Epic | Relevant Dates |  Notes 
+|-------------|---------------|-----------------|---------------|  ---------------| 
+| QP8| **Payment History (VHA):** Progress development efforts and continue align with Lighthouse | [#18859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18859) | Goal to launch June 2025 or sooner | Tremendous User Value! Dependent on Lighthouse team collaboration to build API|
+| QP9 |  **Update 5655 Wizard to new task flow:** Launch updates in production| [#48133](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/6?pane=issue&itemId=88349041&issue=department-of-veterans-affairs%7Cva.gov-team%7C48133)|  |  Dependent on CAIA team collaboration | 
+
+## Sprint Goals - Sprint: 5 [3/26/25 - 4/8/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Complete the March Medallia Report| QPX |--|--|--|
+|UX: Discovery meeting with Domo Dashboard Users| FY25Q3 QP4 |--|--|--|
+|UX: Finalize Medallia analytics data reports to run to inform satisfaction metrics| FY25Q3 QP4 |--| -- | -- |
+|ENG: Address the “must” accessibility feedback for the Once VA Debt Letter | QP2 |--|--|--|
+|ENG: Restart DD work in preparation for Q3 priorities | QP3 |--|--|--|
+|ENG: Updates to FSR based off veteran feedback | QPX |--|--|--|
+|ENG: Initial PR submitted for VA notify callback | QPX |--|--|--|
+|ENG: Continue Josh’s access to critical systems and onboarding tasks | QPX |--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals
+ - [X] VA PO & COR sent the Sprint Goals
+ - [ ] VA PO approved the Sprint Goals
+ - [ ] VA COR approved the Sprint Goals
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
+
+---
+
 ## Quarterly Priorities for FY25Q2 (Jan, Feb, Mar 2025)  
 *Quarter Sprints include 1, 2, 3, & 4*
   
@@ -109,29 +154,3 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
-
-
-
-
-
-
-## DRAFT Quarterly Priorities for FY25Q3 (Apr, May, Jun 2025)  
-*Quarter Sprints include 5,6, 7, 8, 9, & 10*
-**Primary Goals (May shift based on stretch goal dependencies)**
-    
-| Priority ID | Description | S.Epic | Relevant Dates |  Notes 
-|-------------|---------------|-----------------|---------------|  ---------------| 
-| QP1 | **Asynchronous Email Pattern:** Implement 3 email templates for all FSR Submission communications|[#105235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105235)   | Implement ASAP | Tied to OCTO Silent Failure Initiative  |
-| QP2|  **One VA Debt Letter:** Launch in production| [#84175](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84175) | Launch in Prodution Goal: ~~March~~ Early April 2025 | Legislative Requirement: Veterans Benefit Transition​ Act of 2018 ( year 7) |
-| QP3  | **Digital Debt Dispute (VBA):** Target Launch in production| [#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003) | Target Launch in Production May 28, 25 |  |
-| QP4| **Pay.gov Hosted Collection Page (HCP) for Overpayments:** Discovery & Design Prototyping| [#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)|  | 
-|QP5 | **Mobile App:** Collaborate with IIR team to add overpayment debt information into mobile app experience | coming soon |  |  |
-| QP6| **VBA Hardship Suspension:** Discovery & Design Prototyping | coming soon |  | 
-| QP7 | **VHA Repayment Plan (10-323)**:  Discovery & Design Prototyping| coming soon |   |   |
-
-
-**Stretch Goals (Known dependencies may impact)**
-| Priority ID | Description | S.Epic | Relevant Dates |  Notes 
-|-------------|---------------|-----------------|---------------|  ---------------| 
-| QP8| **Payment History (VHA):** Progress development efforts and continue align with Lighthouse | [#18859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18859) | Goal to launch June 2025 or sooner | Tremendous User Value! Dependent on Lighthouse team collaboration to build API|
-| QP9 |  **Update 5655 Wizard to new task flow:** Launch updates in production| [#48133](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/6?pane=issue&itemId=88349041&issue=department-of-veterans-affairs%7Cva.gov-team%7C48133)|  |  Dependent on CAIA team collaboration | 
