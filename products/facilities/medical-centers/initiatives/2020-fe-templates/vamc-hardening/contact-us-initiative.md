@@ -145,19 +145,15 @@ This initiative will address both the Veteran et al, and the editor experiences.
 - **Mitigating risks**: Consider redirecting people somewhere else if they can't find what they're looking for.
 - **Measuring impact**: Clicks to online tools
 
-## Appendix
-- [View research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Research%20plan.md
-)  
-- [View conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md)
-- [View research transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Transcripts)
+## Additional Information from Research
 
-## Tools used for synthesis
+### Tools used for synthesis
 I primarily used [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1725895721652/68ab05d19a3f0d47b575db99e30f66039b553c93?sender=u44efa807e992cacf10cf3697) to synthesize findings.
 
-## Pages and applications used
+### Pages and applications used
 - [Contact us page on VA.gov](https://www.va.gov/contact-us)
 
-## Secondary research
+### Secondary research
 - Input from other teams and reviewed previous research [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719251794794/aa0db9f68c23d8d38f10e49f39cad9f67665c5f5?sender=u44efa807e992cacf10cf3697).
 - Medallia responses [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719593492763/c5c0e79c682911f1e45a9ae966a47a23f297d648).
 - Secure messaging comparative analysis, which includes related notes to Contact us experiences [in this SharePoint folder](https://dvagov.sharepoint.com/:f:/s/AccountExperienceCrew/Eu-ChaaPWPZPpmCo8v3sdLABskX2GvZLdoJQ9T_88A3l3A?e=1NUFo5).
