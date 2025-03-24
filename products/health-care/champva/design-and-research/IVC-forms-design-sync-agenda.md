@@ -1,6 +1,19 @@
 # Running Design and Research Agenda
+## March 24 2025
+ - Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Renata Keck, Andrea Merril, Mike Mooney, Amanda Klaumeiser
+     - ### Agenda Topics
+     	- UX Road Map review
+      	- Review quick win item
+       	- Add design work updated on [roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1703106781604/56e2a5cb39c72e3faad25bcb94496ecdd92ccb35?wid=0-1741640006712)
+       	- Have we asked engineering if we can pull in direct deposit info for FMP claims?
+       	- Review CHAMPVA Claims update plan for combat early claims submissions
+       	- Review OHI/Claims form (How/when to introduce this to CHAMPVA Partners)
+       	- High level review of Supporting Docs
 
-## March 10 2025
+   - ### Notes
+  
+   
+## March 17 2025
  - Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Rachel Pope, Renata Keck, Andrea Merril, Mike Mooney, Amanda Klaumeiser
      - ### Agenda Topics
       	- UX roadmap
