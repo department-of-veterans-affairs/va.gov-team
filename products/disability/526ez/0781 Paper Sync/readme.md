@@ -48,7 +48,7 @@ How might we make it easier for any Veteran with a mental health condition relat
 ## Desired User Outcomes
 - **Improved User Experience**: A streamlined and user-friendly form can make it easier for veterans to apply for benefits, reducing errors and frustration.
 - **Increased Efficiency**: Simplifying the form and its processing can save time for both applicants and VA staff, leading to faster claim resolutions.
-- **Enhanced Accessibility**: Ensuring the form is accessible to individuals with disabilities or those using assistive technologies can broaden its usability.
+- **Improved information**: Users have the most current questions that will help rate their claim more efficiently. 
 
 ## Undesired User Outcomes
 - **Delays in Processing**: If the form is incomplete or contains errors, it may take longer for the VA to process a claim.
