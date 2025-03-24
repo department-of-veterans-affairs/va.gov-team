@@ -124,19 +124,19 @@ This table includes links to the individual feature directory and the latest ite
 | Re-designed Claims Detail Page              | [Improved Evidence Request Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Evidence%20Requests%20Initiative.md)       | Released April 2024                                            |
 | Re-designed Overview Page and Incorporating 8 claim phase paradigm | [Improved Claim Contextualization Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Claims%20Process%20Understanding%20Initiative.md) | Released August 2024                                           |
 | [Improved 5103 Request Experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%205103%20Waiver%20Experience%20Initiative.md)            | N/A                                        | Released November 2024                                         |
-| Silent Failure Notification Emails          | Eliminate Silent Failures Initiative       | Phase 1 (exhaustion handler) released December 2024, Phase 2 (polling solution) released March 2025 |
-| Decision Letter Notifications               | Event Bus Notifications, Event-based Architecture Initiative | In progress, beginning staging testing and validation testing  |
+| Silent Failure Notification Emails          | [Eliminate Silent Failures Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Eliminate%20Silent%20Failures%20Initiative.md)       | Phase 1 (exhaustion handler) released December 2024, Phase 2 (polling solution) released March 2025 |
+| Decision Letter Notifications               | [Event Bus Notifications, Event-based Architecture Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Event-Driven%20Notifications%20Initiative.md) | In progress, beginning staging testing and validation testing  |
 
 
 <br>
 
 ## Enablement Team
 
-- Amy Lai | lauren.alexanderson@va.gov - Product Owner
-- Julie Strothman | patrick.bateman@va.gov - Design Lead
-- Cory Osbourne | katherine.lawyer@va.gov - Engineering Lead
-- Zack Goldfine | mark.dewey@va.gov - Deputy CTO, Benefits Lead
-- Steve Albers |stephen.barrs@va.gov - Engineering Product Owner
+- Amy Lai | amy.lai2@va.gov - Product Owner
+- Julie Strothman | julie.strothman@va.gov - Design Lead
+- Cory Osbourne | cory.osbourne@va.gov - Engineering Lead
+- Zack Goldfine | zackary.goldfine@va.gov - Deputy CTO, Benefits Lead
+- Steve Albers |steve.albers@va.gov - OCTO Engineering Lead
 
 
 
