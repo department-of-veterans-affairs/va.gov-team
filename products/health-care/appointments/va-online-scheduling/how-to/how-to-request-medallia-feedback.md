@@ -144,7 +144,9 @@ Add the `quote` code to any piece of feedback that you want to share with the te
 
 - Filter each sheet by the date range you're analyzing
 - Add a second filter on the codes column for any cell that contains `quote`.
-- Copy the quotes into the [running analysis sheet](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis%20-%20Select%20Quotes.docx?d=w2738630d47d64de68e05cef933b39cea&csf=1&web=1&e=mHnZM7) (2025 example)
+- Copy the quotes into the [Select Quotes sheet](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis%20-%20Select%20Quotes.docx?d=w2738630d47d64de68e05cef933b39cea&csf=1&web=1&e=mHnZM7) (2025 example)
+- Share links to both the updated spreadsheet and Select Quotes document in the `#appointments-fe-meetup channel`. Note the dates of the updated date, and ping Kay, Kristen, and Robyn Singleton. 
+- Add the links to the Medallia ticket and close it.
 
 ### Monthly IVC reports 
 
