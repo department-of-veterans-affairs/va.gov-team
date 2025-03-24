@@ -4,24 +4,17 @@
 
 Janelle Finnerty, <janelle.finnerty@oddball.io>
 
+Jump to
 [Background](#background)
-
 [Research overview](#research-overview)
-
 [Methodology](#methodology)
-
 [Key Findings](#key-findings)
-
 [Details of Findings](#details-of-findings)
-
 [Additional Findings](#additional-findings)
-
 [Appendix](#appendix)
 
-[My VA Reports](#my-va-reports)
 
-
-# **Background**
+# **Background**<a id="background"></a>
 
 The Core Veteran Experience Crew ensures Veterans and beneficiaries have a cohesive logged-in experience across and within the current mobile and web modalities. The crew seeks to do this by developing and curating a personalized view of the Veteran’s and beneficiary’s information so they can easily understand their benefits and take action to manage and update their account and benefits. We aim to aggregate and elevate personalized tasks and information relevant to Veterans on VA.gov and the Flagship Health & Benefits Mobile app so Veterans and beneficiaries can quickly get a snapshot of their existing business with VA.
 
@@ -46,7 +39,7 @@ Any time a Veteran, family members, and caregivers sign into VA.gov they encount
 Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) for reference.
 
 
-# **Research overview**
+# **Research overview**<a id="research-overview"></a>
 
 ## **Goals**
 
@@ -76,12 +69,12 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 - There will be consistent feedback from Veterans on areas of opportunity with the My VA experience.
 
 
-# **Methodology**
+# **Methodology**<a id="methodology"></a>
 
 **Desk research (DR)**/ Review of existing research in the My VA repository. As well as any additional research from other teams found in the VA Research Repository.
 
 
-# **Key Findings**
+# **Key Findings**<a id="key-findings"></a>
 
 **Veteran Expectations**
 
@@ -96,7 +89,7 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 4. There are several instances of feedback on the current experience that the team can learn from to **inform the new experience**. There were also several instances of positive feedback of earlier designs that **show a simpler, more action oriented experience better met Veteran needs** than the experience that is on VA.gov currently.
 
 
-# **Details of Findings**
+# **Details of Findings**<a id="details-of-findings"></a>
 
 ## **Veteran Expectations**
 
@@ -309,7 +302,7 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
     3. [05/2021 My VA Usability Internal Research Study Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/MyVA-mini-usability/My%20VA-mini-usability-findings.md)
 
 
-# **Additional Findings**
+# **Additional Findings**<a id="additional-findings"></a>
 
 21. _Internal use only:_ What is the difference between personalized, contextual, and customized?
 
@@ -359,7 +352,7 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 10. Create different user types to determine what to show when on My VA.
 
 
-# **Appendix**
+# **Appendix**<a id="appendix"></a>
 
 - None
 
