@@ -115,3 +115,4 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 - Closed March 2025 [Midpoint Review - Accessibility Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #102227](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102227#event-16133713720)
 
 ### Staging Review Feedback
+[QA Standards - EDM and VEBT team - GI Bill Comparison Tool #105786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105786#event-16930581450)
