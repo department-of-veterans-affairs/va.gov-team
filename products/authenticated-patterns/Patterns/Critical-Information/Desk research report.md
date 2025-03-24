@@ -14,14 +14,10 @@ Lynn Stahl - Product Manager
 
 **Jump ahead to:**
 
-- [About the pattern](#About-the-pattern)
-- [Pattern components](#Pattern-components)
-- [Conducting the research](#Conducting-the-research)
-- [Supportive findings](#Supportive-findings)
-- [Theme 1](#Theme-1) 
-- [Theme 2](#Theme-2) 
-- [Theme 3](#Theme-3) 
-- [Recommendations](#Recommendations) 
+* [About the pattern](#about-the-pattern)
+* [Conducting the research](#conducting-the-research)
+* [Supportive findings](#supportive-findings)
+* [Recommendations](#recommendations) 
 
 
 ### About the pattern
@@ -38,58 +34,19 @@ The idea for this component was presented to the portfolio during the [Blue Sky 
 
 We wanted to find real use cases for this component in the VA ecosystem. In this [‘In the Wild’ mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1741024323022/18a74ad2ec39d2929bf751d5b3f14e1d314053d3), the team captured examples across VA.gov that told users about some important action they needed to take. Here are a few examples we found:
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/Critical-Information/Images/image.png" width="300"/> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/Critical-Information/Images/image(1).png" width="300"/>
 
+In the **Claims Status Tool**, an alert and link combination lets users know they need to provide more information for their claim.
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/Critical-Information/Images/image(2).png" width="300"/> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/Critical-Information/Images/image(3).png" width="300"/>
 
+In the **Debt portal**, a colored icon and an action link convey that the user owes a balance that needs to be paid by a certain date, with an additional alert on the details page that includes an action link calling the users to make a payment on their debt.
 
-![alt_text](images/image1.png "image_tooltip")
- 	 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/Critical-Information/Images/image(4).png" width="300"/> 
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+The **Prescriptions list** currently lets people know with plain text if they have no refills left, and give them a link that helps them figure out how to renew their prescription.
 
-
-![alt_text](images/image2.png "image_tooltip")
-
-
-In the** Claims Status Tool,** an alert and link combination lets users know they need to provide more information for their claim.
-
-
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-In the** Debt portal,** a colored icon and an action link convey that the user owes a balance that needs to be paid by a certain date, with an additional alert on the details page that includes an action link calling the users to make a payment on their debt.
-
-
-#### 
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
-
-The** Prescriptions list** currently lets people know with plain text if they have no refills left, and give them a link that helps them figure out how to renew their prescription.
-
- 
-
-
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
+ <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/Critical-Information/Images/image(5).png" width="300"/>
 
 For **Appointments**, users see a card component with an action link inside of it telling them to ‘Check in now’. 
 
@@ -174,7 +131,7 @@ Alerts provide critical information to Veterans across VA.gov, and sometimes inc
 While alerts are helpful in getting user attention, the overuse of the component across the site has led to alert fatigue that leads users to skipping over reading the message. 
 
 
-#### Recommendations 
+### Recommendations 
 
 
 
