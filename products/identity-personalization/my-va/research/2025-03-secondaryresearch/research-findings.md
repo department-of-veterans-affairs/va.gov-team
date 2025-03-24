@@ -5,12 +5,19 @@
 Janelle Finnerty, <janelle.finnerty@oddball.io>
 
 Jump to
+
 [Background](#background)
+
 [Research overview](#research-overview)
+
 [Methodology](#methodology)
+
 [Key Findings](#key-findings)
+
 [Details of Findings](#details-of-findings)
+
 [Additional Findings](#additional-findings)
+
 [Appendix](#appendix)
 
 
