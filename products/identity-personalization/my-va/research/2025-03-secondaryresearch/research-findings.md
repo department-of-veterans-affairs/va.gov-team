@@ -143,9 +143,9 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 
       1. **Simple tasks that require only one click**, such as refilling prescriptions, Veterans expect to be inline on My VA, rather than being directed to a separate page.
 
-      1. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
-      2. [11/2021 VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
-      3. [01/2022 My VA Payment Info and Onsite Notifications Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md)
+         1. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
+         2. [11/2021 VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
+         3. [01/2022 My VA Payment Info and Onsite Notifications Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md)
 
    3. **Veterans liked having empty sections on My VA** to inform them of available benefits, or as reassurance of the current state, such as no debts. This can also be helpful for new VA.gov users, such as those transitioning from active military.
 
@@ -190,9 +190,9 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
       1. [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
       2. [07/2023 VA Mobile Comparative Analysis: Personalized & contextual Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md)
 
-      3. Competitors four main categories of action items included: if something is due, missing information, status changes, and things the company wants to know. They also make mention of when there are no actions, to reassure users that no actions were missed.
+      1. Competitors four main categories of action items included: if something is due, missing information, status changes, and things the company wants to know. They also make mention of when there are no actions, to reassure users that no actions were missed.
 
-      4. [05/2021 My VA action items: Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/action-items-comparative%20analysis.md)
+         1. [05/2021 My VA action items: Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/action-items-comparative%20analysis.md)
 
 
 ## **Experience Feedback**
@@ -231,7 +231,6 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 9. **NEW** The badge indicator (a square with a number inside) was the preferred method of communicating updates on My VA, as opposed to dot indicators. This element also is easier to use for colorblind participants.
 
    1. Participants were drawn to the cards first, and indicators second.
-
    2. [04/2024 Research Findings for 2024-03 Dot Indicator and Slim Alert Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/2024-03%20Dot%20Indicator%20and%20Slim%20Alert%20Usability%20Study/Research%20Findings%20for%202024-03%20Dot%20Indicator%20and%20Slim%20Alert%20Research%20Study.md)
 
 ### **Page Sections**
@@ -266,8 +265,8 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
     3. Appointment details including location, medical practice, and doctor’s name.
     4. Preferred facility/hospital, primary care physician, and primary care location.
 
-    1. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
-    2. [09/2021 Action Items Research Findings (On-site Notifications)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md)
+       1. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
+       2. [09/2021 Action Items Research Findings (On-site Notifications)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md)
 
 16. **NEW** The most important piece of information about participants' finances was the most recent amount paid or owed, payment/debt status, and number of outstanding payments/debts. Important secondary information that could live on a details page included:
     1. The reason for a payment/debt.
@@ -276,12 +275,12 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
     3. How to pay a debt.
     4. Someone to contact if they had questions about their finances.
 
-    1. [01/2022 My VA Payment Info and Onsite Notifications Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md)
-    2. [08/2022 My VA Benefit Payments and Debts 2022 Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/research-findings.md)
+       1. [01/2022 My VA Payment Info and Onsite Notifications Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md)
+       2. [08/2022 My VA Benefit Payments and Debts 2022 Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/research-findings.md)
 
        1. Due to technical limitations, the team determined to show the number of outstanding debts and copays, rather than the amount. This is because the system can only show the most recent account balance.
 
-       1. [12/2022 Payment Info v2 UAT Findings Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/v2-UAT-findings-summary.md)
+          1. [12/2022 Payment Info v2 UAT Findings Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/v2-UAT-findings-summary.md)
 
 17. **NEW** Participants prefer to see their debts separate from medical copays.
 
@@ -318,7 +317,7 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
     2. Contextual: Content is specific to the user and is displayed based on specific circumstances/variables (like time, location, status).
     3. Customized: User chooses whether/what info is displayed (may or may not be personalized).
 
-    1. [07/2023 VA Mobile Comparative Analysis: Personalized & contextual Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md)
+       1. [07/2023 VA Mobile Comparative Analysis: Personalized & contextual Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md)
 
 
 # **Recommendations**
