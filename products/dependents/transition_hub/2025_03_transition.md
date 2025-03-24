@@ -118,15 +118,15 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
       - [#103783](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103783): Button imposter component
       - [#103784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103784): File input imposter component
   - Post release, an [accessibility audit needs to be requested from the VA 508 Office](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office#RequestsupportfromtheVA508office-AuditRequest). This is required even if no accessibility issues were found during the Staging Review. Once the audit has been requested, add a comment to the [collab cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74059) with the 508 ticket number and close the collab cycle review ticket.
-- Test pension-related [income questions and API](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1524). This would enable RBPS to process pension-related dependency claims automatically (right now they're off-ramped for manual review).
-- [Prevent multiple EPs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25030). When a 686 and 674 claim are submitted at the same time, VA.gov generates two EPs, which then have to be manually merged downstream. 
-
-### Next
 - Build out [MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md#whatre-you-building) of dependent verification tool to capture “no changes to dependents” and auto-submit a 21-0538 form. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1409)).
 - Add claim submission in-progress email and update confirmation email to align with requirements from Zero Silent Failure initiative. Seperate existing confirmation email into seperate emails for each claim submission type. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1420))
+- [Migrate to RESTful APIs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91282)
+
+### Next
+- Test pension-related [income questions and API](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1524). This would enable RBPS to process pension-related dependency claims automatically (right now they're off-ramped for manual review).
+- [Prevent multiple EPs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25030). When a 686 and 674 claim are submitted at the same time, VA.gov generates two EPs, which then have to be manually merged downstream.
 - Code modularization
 - Auto fill spouse and dependent information ([discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102343))
-- [Migrate to RESTful APIs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91282)
 - Determine why submission and saved dates do not match MyVA. ([submission date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101056) and [saved date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101040))
 - Work with Infrastructure and Arcitecture team to [improve findability of forms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102744) (initial AI work in [GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/verify-dependents.md) and [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689863079145/5b97ba9ea11077f983f3413167f6324f11aa04a8))
 - Create [analytics dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102886) to better understand user and form behavior
