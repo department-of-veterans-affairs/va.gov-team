@@ -46,21 +46,27 @@ Sensitive subject matter - Filling out VA Form 21-0781 is a very emotionally bur
 How might we make it easier for any Veteran with a mental health condition related to a traumatic event answer the questions that apply to the new (2024) form faster and easier? 
  
 ## Desired User Outcomes
-
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- **Improved User Experience**: A streamlined and user-friendly form can make it easier for veterans to apply for benefits, reducing errors and frustration.
+- **Increased Efficiency**: Simplifying the form and its processing can save time for both applicants and VA staff, leading to faster claim resolutions.
+- **Enhanced Accessibility**: Ensuring the form is accessible to individuals with disabilities or those using assistive technologies can broaden its usability.
 
 
 ## Undesired User Outcomes
+- **Delays in Processing**: If the form is incomplete or contains errors, it may take longer for the VA to process a claim.
+- **Reduction in Benefits**: Changes to the claim might result in a reassessment that could lower a Veteran's benefits if new evidence doesn't support the original claim.
+- **Denial of Claims**: If the updated information doesn't meet the VA's criteria, the claim could be denied.
+- **Increased Scrutiny**: Submitting new evidence or making changes
 
-
+  
 ## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- **Compliance and Accuracy**: Updating the form to meet current regulations and standards can reduce legal risks and improve the accuracy of submitted claims.
+- **Cost Savings**: By reducing processing errors and the need for follow-ups, the VA can save on administrative costs.
+- **Data Insights**: A well-designed form can collect better data, enabling the VA to analyze trends and improve services for veterans.
 
 ## Undesired Business Outcomes
-
+- The online 526 and/or 0781 form are more error prone than it was previously
+- Performance is worse than it was previously
+- Veterans express that the UX is worse than it was before
 
 ---
 ## Measuring Success
