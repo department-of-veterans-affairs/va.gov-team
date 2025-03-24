@@ -57,11 +57,11 @@ How might we make it easier for any Veteran with a mental health condition relat
   
 ## Desired Business Outcomes
 - **Compliance and Accuracy**: Updating the form to meet current regulations and standards can reduce legal risks and improve the accuracy of submitted claims.
-- **Cost Savings**: By reducing processing errors and the need for follow-ups, the VA can save on administrative costs.
-- **Data Insights**: A well-designed form can collect better data, enabling the VA to analyze trends and improve services for veterans.
+- **Employee satisfaction**: VA employees who evaluate claims will report a higher satisfaction score for claims received through VA.gov compared to similar claims received via paper.
+- **Reduced manual intervention**: VA employees will perform fewer manual actions on claims submitted via VA.gov, such as combining duplicate claims or adding missing data.
 
 ## Undesired Business Outcomes
-- **Missing information**: If the form is incomplete or contains errors it may lead to inefficiencies for VBA in managing reviewing the forms. 
+- **Missing information**: If the form is incomplete or contains errors it may lead to inefficiencies in managing reviewing the forms and increase in time to process claims. 
 - **Completely expired form**: A Veteran submits an online benefit application that is no longer accepted. 
 - **Silent submission failure**: A Veteran believes an online benefit transaction was successfully sent to VA, but it silently disappeared instead.
 - **Full stoppage:** A Veteran cannot access or apply for a normally-available benefit online because of an obviously-broken and erroring feature.
@@ -76,10 +76,11 @@ How might we make it easier for any Veteran with a mental health condition relat
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 * _**Limit 5-6 KPIs per product**__
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+| KPI                             | Baseline Value | Target Value | Actual Value | Link to Data Source |
+|---------------------------------|----------------|--------------|--------------|---------------------|
+| # of new 0781 |                |              |              |                     |
+| # of in progress 0781                |                |              |              |                     |
+
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
