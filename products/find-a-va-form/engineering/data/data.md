@@ -64,7 +64,8 @@ Alternatively: We could store the IntranetOnly value in Drupal, and Lighthouse c
     * This is working correctly when searching by Form ID. 
     * Some validPDF = false forms show up when searching by title. 
 
-## Docusign only forms
+## Docusign only forms - March 2025 VBA request
+This was recently requested from VBA, to exclude DocuSign forms from VA.gov results, but is not yet handled in VA.gov. Ticketed = [#20947](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20947)
 * **In the FormsDB**: No FormsDB field indicates Docusign only. The examples we have just include Docusign in the PDF link text. (29-10277, 29-0975e, 29-10277) , or it is not indicated anywhere in data we receive (22-10203, was noted in a 2024 email thread with Forms mgrs).
 * **In Drupal**: We don't do any special handling for DocuSign. We look at Deleted or IntranetOnly values only, to determine whether or not to archive. 
 * **In Lighthouse Forms API**: Lighthouse does not do any special handling. 
