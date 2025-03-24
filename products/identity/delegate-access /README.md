@@ -65,6 +65,7 @@ The OCTO Login & Identity team has been tasked with validating a user need aroun
 - VA has a ton of delegate types. Needing to account for multiple delegate types or access nuances on VA.gov could quickly become complex and unwieldy.
 - VA.gov houses both health and benefit information. In order to give a person access to someone else's information, we need to make sure that proper consent is given and meets HIPAA and other privacy laws.
 - IAM has built a delegate tool, but IAM has a full roadmap and might not be able to develop and update that tool on the timeline we need them to.
+- It is unclear whether we can legally give a caregiver access to their Veteran's information if that Veteran isn't able to provide informed consent.
 
 ## Backend
 
