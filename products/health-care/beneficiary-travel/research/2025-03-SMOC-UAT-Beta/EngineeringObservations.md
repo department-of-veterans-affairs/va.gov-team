@@ -45,5 +45,5 @@ This page documents technical issues observed during UAT Beta sessions.  Reach o
 
 - **Status**: Handed off
 
-- **Notes**: API team investigating
+- **Notes**: Failed attaching mileage expense due to missing home address geocodes.
 
