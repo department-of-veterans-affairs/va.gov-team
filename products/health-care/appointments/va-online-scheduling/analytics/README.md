@@ -122,11 +122,15 @@ Questions and notes:
 ## Resources
 
 [Appointments OKRs/KPIS](vaos-kpis.md)
-These haven't been updated in a few years.
+_These haven't been updated in a few years._
 
 [Appointments Analytics Dashboards](vaos-analytics-links.md)
 
-[Appointments Analytics Definitions]([draft]vaos-analytics-definitions.md) - Tracking that's currently set up in the Appointments tool.
+[VAOS OKRs 2025 - GA4 (Source)](https://lookerstudio.google.com/s/qXJSaTU9eOQ) 
+_Temporary until migrated to new Looker Studio account._
+
+[Appointments Analytics Definitions]([draft]vaos-analytics-definitions.md)
+_Tracking that's currently set up in the Appointments tool._
 
 [How to request and process Veteran feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/how-to-request-medallia-feedback.md)
 
