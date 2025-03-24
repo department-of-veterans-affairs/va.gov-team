@@ -50,13 +50,10 @@ How might we make it easier for any Veteran with a mental health condition relat
 - **Increased Efficiency**: Simplifying the form and its processing can save time for both applicants and VA staff, leading to faster claim resolutions.
 - **Enhanced Accessibility**: Ensuring the form is accessible to individuals with disabilities or those using assistive technologies can broaden its usability.
 
-
 ## Undesired User Outcomes
 - **Delays in Processing**: If the form is incomplete or contains errors, it may take longer for the VA to process a claim.
 - **Reduction in Benefits**: Changes to the claim might result in a reassessment that could lower a Veteran's benefits if new evidence doesn't support the original claim.
 - **Denial of Claims**: If the updated information doesn't meet the VA's criteria, the claim could be denied.
-- **Increased Scrutiny**: Submitting new evidence or making changes
-
   
 ## Desired Business Outcomes
 - **Compliance and Accuracy**: Updating the form to meet current regulations and standards can reduce legal risks and improve the accuracy of submitted claims.
@@ -64,9 +61,10 @@ How might we make it easier for any Veteran with a mental health condition relat
 - **Data Insights**: A well-designed form can collect better data, enabling the VA to analyze trends and improve services for veterans.
 
 ## Undesired Business Outcomes
-- The online 526 and/or 0781 form are more error prone than it was previously.
-- Performance is worse than it was previously.
-- Veterans express that the UX is worse than it was before.
+- **Missing information**: If the form is incomplete or contains errors it may lead to inefficiencies for VBA in managing reviewing the forms. 
+- **Completely expired form**: A Veteran submits an online benefit application that is no longer accepted. 
+- **Silent submission failure**: A Veteran believes an online benefit transaction was successfully sent to VA, but it silently disappeared instead.
+- **Full stoppage:** A Veteran cannot access or apply for a normally-available benefit online because of an obviously-broken and erroring feature.
 
 ---
 ## Measuring Success 
