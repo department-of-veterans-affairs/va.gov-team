@@ -27,8 +27,11 @@
 
 ## Portfolio context 
 ### Claim Status Tool
+The Claim Status Tool allows Veterans to check the status of their VA claims, decision reviews, or appeals online. Users can view details such as evidence submitted, additional evidence requested by VA, claim types, and specific issues claimed. Additionally, Veterans can upload supporting documents for initial claims and download decision letters for certain types of claims, decision reviews, and appeals.
 ### VA Benefits Letters
+Through the VA Benefits Letters application, Veterans can access and download various official VA letters and documents, including the Benefit Summary Letter (often referred to as a VA award letter). This tool provides Veterans with immediate access to their benefits information, which can be useful for verifying service history, disability ratings, and other benefits-related detail
 ### Rated Disabilities
+The Rated Disabilities tool enables Veterans to view their combined disability rating as well as individual disability ratings online. These ratings are assigned based on the severity of disabilities related to military service and are crucial in determining the benefits Veterans receive. By accessing this tool, Veterans can stay informed about their disability evaluations and ensure they are receiving appropriate benefits. 
 
 <br>
 
