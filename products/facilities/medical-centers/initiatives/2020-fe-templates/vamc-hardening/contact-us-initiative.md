@@ -43,10 +43,11 @@ This initiative will address both the Veteran et al, and the editor experiences.
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> OBJECTIVE 1: Veterans are more readily able to find information on VAMC Contact Us pages. KEY RESULT: Decreased Veteran complaints regarding lack of readily available information in Contact Us
-> OBJECTIVE 2: Deliver an efficient editorial experience KEY RESULT: Decreased support requests to CMS
+- **OBJECTIVE 1:** Veterans are more readily able to find information on VAMC Contact Us pages.
+  - **KEY RESULT:** Decreased Veteran complaints regarding lack of readily available information in Contact Us
+- **OBJECTIVE 2:** Deliver an efficient editorial experience.
+  - **KEY RESULT:** Decreased support requests to CMS
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
 ---
 
