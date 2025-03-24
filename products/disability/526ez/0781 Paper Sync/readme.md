@@ -8,7 +8,7 @@ Previously, Veterans filing for PTSD and other mental health conditions were pro
 
 These forms were replaced with an updated VA Form 21-0781 released in June 2024 which combines and replaces the previous forms.
 
-For Veterans who have been diagnosed with PTSD (post traumatic stress disorder) or mental health issues, related to a traumatic event during their time of military servic, eand want to apply for related benefits or services, the VA.gov's new online 0781 form provides all the questions related for claiming mental health conditions and in-service traumatic events needed to submit a benefits claim. Unlike the previous version of the 0781 form, the new online form will be in compliance by being up to date with the most recent paper form version (June 2024).
+For Veterans who have been diagnosed with PTSD (post traumatic stress disorder) or mental health issues, related to a traumatic event during their time of military service, eand want to apply for related benefits or services, the VA.gov's new online 0781 form provides all the questions related for claiming mental health conditions and in-service traumatic events needed to submit a benefits claim. Unlike the previous version of the 0781 form, the new online form will be in compliance by being up to date with the most recent paper form version (June 2024).
 
 
 ### Changes to the form include
@@ -23,15 +23,15 @@ Combines questions across both legacy forms. Claimants no longer have to file se
 **Streamlined Filing for Combat Event Related Conditions**
 
 The new form reduces complexity with filing combat event related conditions and no longer requires the following information to file:
-- Unit assignment and rank during incident
-- Medals or citations received because of incident
-- Details about persons killed or injured during incident
+- Unit assignment and rank during incident.
+- Medals or citations received because of incident.
+- Details about persons killed or injured during incident.
 
 **Revised Collection of Other Supporting Information**
 
 Other sources of information revised to:
-- Separate treatment information as a dedicated separate section
-- Reframe information gathering from other sources as supporting documents  
+- Separate treatment information as a dedicated separate section.
+- Reframe information gathering from other sources as supporting documents.  
 
 
 ## Problem Statement
@@ -64,9 +64,9 @@ How might we make it easier for any Veteran with a mental health condition relat
 - **Data Insights**: A well-designed form can collect better data, enabling the VA to analyze trends and improve services for veterans.
 
 ## Undesired Business Outcomes
-- The online 526 and/or 0781 form are more error prone than it was previously
-- Performance is worse than it was previously
-- Veterans express that the UX is worse than it was before
+- The online 526 and/or 0781 form are more error prone than it was previously.
+- Performance is worse than it was previously.
+- Veterans express that the UX is worse than it was before.
 
 ---
 ## Measuring Success 
@@ -122,12 +122,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Actual Launch Date* 
   - tbd
 We'll closely monitor the canary deployment for performance issues, errors, and user feedback. We'll be looking at the following: 
-- Number of claims in progress with new 0781 mental health data/form
-- Number of successful submissions with new 0781 mental health data/form
-- Number of failed submissions with new 0781 mental health data/form
-- Number of submissions with new 0781 mental health data/form down the primary path
-- Number of submissions with new 0781 mental health data/form down the secondary/backup path
-- Number of successful submissions with old 0781/a PTSD data/form
+- Number of claims in progress with new 0781 mental health data/form.
+- Number of successful submissions with new 0781 mental health data/form.
+- Number of failed submissions with new 0781 mental health data/form.
+- Number of submissions with new 0781 mental health data/form down the primary path.
+- Number of submissions with new 0781 mental health data/form down the secondary/backup path.
+- Number of successful submissions with old 0781/a PTSD data/form.
 
 ---
 
