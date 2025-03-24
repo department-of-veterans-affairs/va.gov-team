@@ -104,10 +104,14 @@ This initiative will address both the Veteran et al, and the editor experiences.
 ![image](https://github.com/user-attachments/assets/3c069cab-18f8-4f23-82f8-5cc1a14cfc50)
 
 - [Contact us page](https://www.va.gov/pittsburgh-health-care/contact-us/)
+  - Screenshot for the Contact Us page not added here; click the link above to view.
 - plus ways to get centralized phone numbers, i.e. 
-   - main [VA.gov Contact us page](https://www.va.gov/contact-us/) 
+   - main [VA.gov Contact us page](https://www.va.gov/contact-us/)
+     - - Screenshot for the Main VA.gov Contact Us page not added here; click the link above to view.
    - [Helpful VA phone numbers on R&S](https://www.va.gov/resources/helpful-va-phone-numbers/)
+     - - Screenshot for the Helpful VA phone numbers page not added here; click the link above to view.
    - [Connect to VA care](https://www.va.gov/health/connect-to-va-care/)
+     - - Screenshot for the Connect to VA care page not added here; click the link above to view.
  
 ### Research Recommendations
 * From [Research Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Findings.md)
