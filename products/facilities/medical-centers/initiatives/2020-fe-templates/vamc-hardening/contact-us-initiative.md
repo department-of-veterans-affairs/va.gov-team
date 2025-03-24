@@ -25,26 +25,26 @@ This initiative will address both the Veteran et al, and the editor experiences.
    - This info was sent to VHA DM for remediation
 - Veterans look for mailing addresses
 
-<!--
-## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+## Goal
+- This initial phase will focus on pages characterized by "Joint Editorial Ownership". Pages for consideration have significant national content, minimal need for localized edits and potential for resuability.
 
-## Undesired User Outcomes
-## Desired Business Outcomes
+## Project Scope and Scale
+#### In scope:
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Creation of reusable content
+- Governance
+- Expansion of the existing content model
+- Creation of new content types
+- Editorial experience considerations
 
-## Undesired Business Outcomes
--->
+#### Out of scope:
+- Migration and change management (will be handled by the VAMC upgrade team)
 
----
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+> OBJECTIVE 1: Veterans are more readily able to find information on VAMC Contact Us pages. KEY RESULT: Decreased Veteran complaints regarding lack of readily available information in Contact Us
+> OBJECTIVE 2: Deliver an efficient editorial experience KEY RESULT: Decreased support requests to CMS
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
@@ -74,8 +74,49 @@ This initiative will address both the Veteran et al, and the editor experiences.
    - main [VA.gov Contact us page](https://www.va.gov/contact-us/) 
    - [Helpful VA phone numbers on R&S](https://www.va.gov/resources/helpful-va-phone-numbers/)
    - [Connect to VA care](https://www.va.gov/health/connect-to-va-care/)
+ 
+### Research Recommendations
+* From [Research Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Findings.md)
 
-###Risks
+  ### Add descriptions to phone numbers
+- **Hypothesis**: If we add descriptions to better explain the purpose of each VA phone number, then users will read the descriptions and understand which phone number can help them the most.
+- **Risks**: We know people primarily read headings to scan. Some people don't read body text. The Contact us page will also become longer if we continue added content to it.
+- **Mitigating risks**: Consider the Contact us page as a multi-page experience. Or hide content through accordions, additional info, or other components.
+- **Measuring impact**: Clicks on phone number links 
+
+### Update "Contact us online through Ask VA" heading
+- **Hypothesis**: If we update the heading to better explain what Ask VA is, then users will choose to send an online message to VA more.
+- **Risks**: Any language around "messaging" may get conflated with VA secure messaging.
+- **Mitigating risks**: Consider grouping VA secure messaging and Ask VA under a single "messaging" label
+- **Measuring impact**: Clicks on Ask VA link
+
+### Add VA secure messaging
+- **Hypothesis**: If we add a link to VA secure messaging, then users will know where to send messages to their VA health care team.
+- **Risks**: The Contact us page will become longer if we continue added content to it. People may think they can ask questions that their care team can't answer. People may choose VA secure messaging rather than Ask VA when Ask VA is more appropriate. 
+- **Mitigating risks**: Consider the Contact us page as a multi-page experience. Clarify the distinction between Ask VA and VA secure messaging.
+- **Measuring impact**: Clicks to VA secure messaging
+
+### Update "Helpful online tools" heading
+- **Hypothesis**: If we update the heading to better explain what users can use helpful online tools for, then users will choose to access online tools more. 
+- **Risks**: n/a 
+- **Mitigating risks**: n/a 
+- **Measuring impact**: Clicks to online tools
+
+### Add description to "Helpful online tools" section
+- **Hypothesis**: If we add descriptions to better explain what users can use helpful online tools for, then users will read the description and understand helpful online tools.
+- **Risks**: We know people primarily read headings to scan. Some people don't read body text. The Contact us page will also become longer if we continue added content to it.
+- **Mitigating risks**: Consider the Contact us page as a multi-page experience.
+- **Measuring impact**: Clicks to online tools
+
+ ### Identify top-used online tools and add them to the page (possibly compare with what's in the VA mobile app)
+- **Hypothesis**: If we identify top-used online tools, then users will be more likely find online tools that will help them.
+- **Risks**: People may not find the tool they need in our list of tools. 
+- **Mitigating risks**: Consider redirecting people somewhere else if they can't find what they're looking for.
+- **Measuring impact**: Clicks to online tools
+
+
+
+### Risks
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
