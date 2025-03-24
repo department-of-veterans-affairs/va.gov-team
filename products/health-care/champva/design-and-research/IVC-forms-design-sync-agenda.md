@@ -11,7 +11,39 @@
        	- High level review of Supporting Docs
 
    - ### Notes
-  
+   	- **UX roadmap review, quick win items**
+
+		-   Team to send over OHI/10-10d merge Figma files in Slack for async review (top item in the NOW column)
+		-   Now larger product roadmap has integrated design/research work
+		-   Low effort/high impact work column in now/next/later board is a product of earlier planning with the team, Premal and Lois, coming out of [post-research impact analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1728573604115/353d2bc111ecf4c0e81e8fa30f9bd232d6e8c379) from a user testing [findings report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2024-04-Usability-Accessibility%20Test/1010d-research-report.md)
+		    -   Reminder that these should only be pulled in if there's a "half day" or less effort involved in these tickets, it's important to stay focus on long-term higher priority initiatives
+   	-   **FMP claims**
+		-   Jina asks about engineering pulling in FMP claims direct deposit. We discussed multiple approaches: one option was a content update, but other options we discussed included whether we could pull in that information from VA Profile
+		    -   Team to demo this after daily standup tomorrow discuss with engineers so it's ready for sprint planning on Wednesday
+		    -   Premal reminds the team that this isn't an authenticated experience so the content will be important to the form experience regardless of which approach we take
+		-   Design is wrapping up ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105600)) with [content updates](https://www.figma.com/design/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet-(10-7959f-2)?node-id=5373-35006&t=H0UrFKfcXXpZ2XP1-1), and engineers will pull that in soon
+		-   Direct deposit for FMP claims goes through the Veteran (the Veteran fills out the form and it's their bank account). More straightforward than CHAMPVA claims
+   	-   **CHAMPVA supporting docs**
+		-   Updates: stakeholder research done, documented questions, [prototypes](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA) to be reviewed in sync next week and user research planning to start next sprint
+		-   Premal would like to know what added value we will gain from research with users (reconfirm the "who") so we have the right folks from stakeholders on the call
+		-   Previously we spoke with Luke and Scott and got a lot of flexibility to our approach. Now there's more structure in how they want supporting docs submitted digitally (one format/one way).
+		    -   Keep in mind in research planning: how does this rigidity affect the outcome for the Veteran/user? Is there a poorer outcome for them? Are these stakholder preferences or firm requirements?
+   	-   **10-10d form improvements (contact and address content)**
+		-   Moving forward with CAIA on improving hint text content (what users should expect sharing contact and address, and why it's being asked). [Figma mocks](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA?node-id=4877-110208&t=ZF9MzyNPdWiZytOy-1) 
+   	-   **CHAMPVA claims (standalone) updates**
+
+		-   Context: Based on stakeholder call last week, we know users shouldn't submit claims before they're formally enrolled (but it's possible folks will). Post stakeholder call, UX met to discuss [immediate and short-mid-longterm solutions](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742221275311/1794184f6793a8f3f1a91a54447817403dc39fec) both for submitting before enrollment, and resubmission. 
+		-   Short-term solution for submitting claims prior to enrollment: [same solution as the standalone OHI form](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims-(10-7959a)?node-id=3676-59072): subtask pattern as a gate, plus adding an alert on the static page about when to use this form. Jina/Jamie note that "have you received a CHAMPVA benefits enrollment packet?" question may be a better phrasing than "are you enrolled?" since that's the milestone users need to reach in order to submit claims. Enrollment and 10-10d submission could be misconstrued.
+   		- Feedback to consider:  
+		    -   Consider a reminder to users how long it typically takes before receiving an enrollment packet so we're not directing users to call the the call center
+		    -   Within the mocks, more clearly separate/delineate 1. steps for those who haven't applied and need to, 2. what users who have and are waiting on the enrollment packet should do
+		-   Long-term approaches: use VES to expose an endpoint to confirm enrollment, or using a reporting API from PEGA to match identifying information. The issue with the latter is that they wouldn't have a record of approval, just that someone has submitted an application.
+		    -   FYI: VES isn't going to do this until event bus is complete (ETA November)
+	-   **CHAMPVA claims/OHI merge**
+		-   Premal notes positive feedback from CHAMPVA partners on this initiative, good idea to bring this work in.
+		-   Jamie mocked up an initial user flow [(Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742587704512/2f52651158001ead7e9d44738a1b4a6d14a9cd1b)
+		    -   Plan is to present best bets/options to stakeholders after we've gotten past launch and claims resubmission work in now/next
+
    
 ## March 17 2025
  - Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Rachel Pope, Renata Keck, Andrea Merril, Mike Mooney, Amanda Klaumeiser
