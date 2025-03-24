@@ -121,6 +121,8 @@ Questions and notes:
 
 ## Resources
 
+[UAE Metrics](/products/health-care/appointments/va-online-scheduling/analytics/uae-metrics.md)
+
 [Appointments OKRs/KPIS](vaos-kpis.md)
 <br/>_These haven't been updated in a few years._
 
