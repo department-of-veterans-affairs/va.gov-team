@@ -18,6 +18,8 @@ On March 14, 2025 we had a Go/No Go call with ARF and Lighthouse to test the flo
 
 The team is awaiting the medical authorization fix to deploy to Production before gathering again for another Go/No Go Production test.
 
+On March 24, 2025 we had a second Go/No Go call with ARF and Lighthouse to retest the flow in Production. The issues found above have all been resolved and the team has agreed to "Go", after ARF confirms with the Connecticut Department of Veterans Affiars (the first VSO to accept online submission).
+
 **Verdict:TBD**
 
 # Staged Rollout Details
