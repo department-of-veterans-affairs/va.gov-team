@@ -1,5 +1,5 @@
 # Spike: Merged SSOe & SiS data is resulting in lower user counts
-**Completed:** Feburary 7, 2025  
+**Completed:** February 7, 2025  
 **Contributor:** Steve Dickson  
 **Jira Ticket:** [SIT-502](https://jira.devops.va.gov/browse/SIT-502)
 
