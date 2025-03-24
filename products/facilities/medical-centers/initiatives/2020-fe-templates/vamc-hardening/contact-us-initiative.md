@@ -45,7 +45,7 @@ This initiative will address both the Veteran et al, and the editor experiences.
 
 ## Requirements & Research Recommendations
 
-###  Requirements from Epic
+###  Requirements (high-level) from Epic
  This effort should consider all the places where contact information is displayed. See the following information recommendations & screenshot examples (at a minimum) for the following page examples:
 
 - Location and contact information on facility page, such as [Pittsburgh VA Medical Center-University Drive](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/). Screenshot below:
