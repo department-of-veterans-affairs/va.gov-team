@@ -10,4 +10,4 @@
 
 ## How
 
-- For Appointments metrics, responsible UAE team members will need accesss to specific DataDog reports **and PII** data ([How to request access to VSSC's Appointments scheduling report](/analytics/requesting-access-to-vssc-vaos-report.md))
+- For Appointments metrics, responsible UAE team members will need accesss to specific DataDog reports **and PII** data ([How to request access to VSSC's Appointments scheduling report](/products/health-care/appointments/va-online-scheduling/analytics/requesting-access-to-vssc-vaos-report.md))
