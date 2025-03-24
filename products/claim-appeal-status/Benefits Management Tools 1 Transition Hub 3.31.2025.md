@@ -41,7 +41,7 @@
 - [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/product-guides/VA%20Claim%20Status%20Tool%20Product%20Guide%20v2.1%20SRT%2006262024.docx)
 - [Things to know](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/10-10EZ%20-%20Things%20to%20know.md) 
 - [Stakeholder Meeting Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes)
-- [PM Resources folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/PM%20Resources) for documents used in routines and research
+- [PM Resources folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/CST%20Product) 
 
 
 
@@ -53,15 +53,17 @@
 - [Upstream Service Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Service%20Contacts.md)
 - [Page/User flow](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923531828/474bfdde942c22a0df26ad416a0b23e36b834d4a?sender=u6ad375c1c8425e5bfec67027)
 - [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
-- [Various form info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/10-10EZ%20Form)
 
 
 **Analytics**
 - Analytics dashboard: 
-     - [Domo](https://va-gov.domo.com/page/447193050) (consolidated forms dashboard)
-     - [Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/gSXa5lOYRyuXpauKyXSYug/a50123418w177519031p184624291/_u.date00=20210301&_u.date01=20210524/)
-- [Important Google Analytics Event Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Analytics/Important%20Google%20Analytics%20event%20labels.md)
-- [Backend Stats on DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
+     - [CSAT Domo](https://va-gov.domo.com/page/1545882322) (sort by URL /track-claims)
+     - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/bMzsgzMCT6yazCs5H-3N_g)
+- [Important Google Analytics Event Labels]
+- [DD CST Tracked Item Stats](https://vagov.ddog-gov.com/dashboard/p2a-9ii-9hz/claim-status-tool-statistics?fromUser=false&refresh_mode=sliding&from_ts=1742736772898&to_ts=1742823172898&live=true)
+- [DD CST Error Monitoring](https://vagov.ddog-gov.com/dashboard/8me-h86-qmb/benefits---claim-status-tool-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1740231301942&to_ts=1742823301942&live=true)
+- [DD BMT Silent Failure Monitoring](https://vagov.ddog-gov.com/dashboard/pps-nf7-ppr/cst-zero-silent-failures-document-uploads?fromUser=false&refresh_mode=sliding&from_ts=1742736972052&to_ts=1742823372052&live=true)
+- [DD Letter's app Monitoring](https://vagov.ddog-gov.com/dashboard/86n-b39-hhn/benefits---management-tools---letters?fromUser=false&refresh_mode=sliding&from_ts=1742737025688&to_ts=1742823425688&live=true)
 - [Real User Monitoring (RUM) Dashboard](https://vagov.ddog-gov.com/rum/application/9d5155fd-8623-4bc9-8580-ad8ec2cdd7fa/overview/browser?from_ts=1676217734085&to_ts=1676304134085&live=true)
 
 
