@@ -1,6 +1,6 @@
 ---
 name: Content and IA Centralized Team Product Support Epic 
-about: Use this template to create an epic for new work with the centralized content and information architecture team.
+about: For Content and IA centralized team internal use only.  
 title: "[EPIC] Initiative Name"
 labels: content-ia-centralized-team
 assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA,mnorthuis
