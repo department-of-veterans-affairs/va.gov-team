@@ -53,22 +53,56 @@ This initiative will address both the Veteran et al, and the editor experiences.
 
 ## Discovery
 
- This effort should consider all the places where contact information is displayed. See the following information recommendations (at a minimum) for the following page examples:
+ This effort should consider all the places where contact information is displayed. See the following information recommendations & screenshot examples (at a minimum) for the following page examples:
 
-- Location and contact information on facility page, such as [Pittsburgh VA Medical Center-University Drive](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/)
-- Inside service accordions on facility level pages, such as [Pittsburgh VA Medical Center-University Drive](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/)
+- Location and contact information on facility page, such as [Pittsburgh VA Medical Center-University Drive](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/). Screenshot below:
+![image](https://github.com/user-attachments/assets/2682a16f-38cd-4921-ab04-65df896ac093)
+
+- Inside service accordions on facility level pages, such as [Pittsburgh VA Medical Center-University Drive](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/).
+![image](https://github.com/user-attachments/assets/b1c65a2d-f768-4711-83a0-76de205b2103)
+
 - Locations section on the main system page (at least for the main locations - usually 1 or 2 per system), such as [Pittsburgh health care](https://www.va.gov/pittsburgh-health-care/)
+![image](https://github.com/user-attachments/assets/34ed87e5-56ef-4c69-b741-84ebfd40792b)
+
 - [Locations page](https://www.va.gov/pittsburgh-health-care/locations/)
+  - No screenshot added. Click the Locations link above to see the entire page.
 - Required health service pages - with named care coordinator numbers, at a minimum
    - [Women Veteran care](https://www.va.gov/beckley-health-care/health-services/women-veteran-care/)
+ 
+![image](https://github.com/user-attachments/assets/ae3da0f1-b5eb-40fe-9563-bef70234d201)
+  
    - [Mental health care](https://www.va.gov/beckley-health-care/health-services/mental-health-care/)
+ 
+  ![image](https://github.com/user-attachments/assets/2a27d05d-affe-4ffd-bb5c-385f416b58a5)
+
    - [Suicide prevention](https://www.va.gov/beckley-health-care/health-services/suicide-prevention/)
+
+![image](https://github.com/user-attachments/assets/a5363536-e906-4b75-a84c-6980d34ea870)
+
    - [Caregiver support](https://www.va.gov/beckley-health-care/health-services/caregiver-support/)
+
+![image](https://github.com/user-attachments/assets/75c56da3-769e-4d90-8246-7587173e34f3)
+
    - [Homeless Veteran care](https://www.va.gov/beckley-health-care/health-services/homeless-veteran-care/)
+
+![image](https://github.com/user-attachments/assets/8d276303-0d83-4514-af52-66a2677fa88f)
+
    - [LGBTQ+ Veteran care](https://www.va.gov/beckley-health-care/health-services/lgbtq-veteran-care/)
+
+![image](https://github.com/user-attachments/assets/3f83ab4b-d1d7-4256-8c86-e76f1ea96813)
+
    - [Minority Veteran care](https://www.va.gov/beckley-health-care/health-services/minority-veteran-care/)
+
+![image](https://github.com/user-attachments/assets/539b3c68-9d2b-479f-a4f9-95ef3d8cdde3)
+
    - [Patient advocates](https://www.va.gov/beckley-health-care/health-services/patient-advocates/)
+
+![image](https://github.com/user-attachments/assets/2a9f35da-f065-451b-804f-3f01915009e5)
+
    - [Returning service member care](https://www.va.gov/beckley-health-care/health-services/returning-service-member-care/)
+
+![image](https://github.com/user-attachments/assets/3c069cab-18f8-4f23-82f8-5cc1a14cfc50)
+
 - [Contact us page](https://www.va.gov/pittsburgh-health-care/contact-us/)
 - plus ways to get centralized phone numbers, i.e. 
    - main [VA.gov Contact us page](https://www.va.gov/contact-us/) 
