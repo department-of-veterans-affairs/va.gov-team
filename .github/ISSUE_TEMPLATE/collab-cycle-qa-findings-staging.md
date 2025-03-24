@@ -78,5 +78,6 @@ assignees: ''
 - Add labels:
   - VFS / VA Mobile team label
   - VFS / VA Mobile product label
+  - collaboration-cycle-mobile-app if the product is part of the VA Mobile app
   - QA-standards label
   - launch-blocking label if the product has failed to meet a required QA Standard
