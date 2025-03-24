@@ -1,6 +1,6 @@
 ---
 name: "Internal Content Unauth Request"
-about: Template for new content task, for CAIA internal use.
+about: Template for new content task, for Centralized Content and IA team internal use.
 title: 'New Content Task Ticket'
 labels: 'content-ia-centralized-team'
 assignees: bethpottsVADEPO,RLHecht,jsuarezzabala
