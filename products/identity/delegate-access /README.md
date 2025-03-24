@@ -69,7 +69,7 @@ The OCTO Login & Identity team has been tasked with validating a user need aroun
 
 ## Backend
 
-(Add background backend documentation and links to other relevant documentation)
+- [Current delegate landscape at VA (on Sharepoint)](https://dvagov.sharepoint.com/:b:/r/sites/IdentityTeam/Shared%20Documents/Delegate%20access/VA%20Delegate%20Access%20Current%20State%20v1.12%20-%2020230314%20(1).pdf?csf=1&web=1&e=FsdeSH)
 
 ## Frontend
 
