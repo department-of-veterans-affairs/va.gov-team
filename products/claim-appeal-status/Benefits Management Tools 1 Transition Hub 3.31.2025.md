@@ -101,6 +101,7 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 - CST: Complete VBMS_Connect migration to new LH claim documents service
 - CST: Document status feature
 - CST: Complete initial load time performance improvement discovery
+- CST: Component migration
 
 **Next** (Quarter beginning July 1 2025)
 - Introduce gradual performance improvements to CST that reduce latency and load times
