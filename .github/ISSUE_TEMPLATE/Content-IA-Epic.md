@@ -1,5 +1,5 @@
 ---
-name: Content and IA Centralized Team Epic 
+name: Content and IA Centralized Team Product Support Epic 
 about: Use this template to create an epic for new work with the centralized content and information architecture team.
 title: "[EPIC] Initiative Name"
 labels: content-ia-centralized-team
