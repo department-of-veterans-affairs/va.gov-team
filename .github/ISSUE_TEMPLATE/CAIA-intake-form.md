@@ -6,7 +6,7 @@ labels: content-ia-centralized-team
 assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA,mnorthuis
 
 ---
-# Content and IA Product Support 
+# Content and IA Product Support Request
 
 Use this ticket to request collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) shared services team. Feel free to delete instructions and unselected options from the ticket to make it easier to scan.
 <br>
