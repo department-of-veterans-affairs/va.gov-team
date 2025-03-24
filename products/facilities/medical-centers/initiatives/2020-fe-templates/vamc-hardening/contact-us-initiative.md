@@ -1,26 +1,10 @@
 # Initiative Brief Template
 #### Overview
 
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
+The Contact Us page & information on VAMC pages is a pain-point for Veterans and their caregivers/family. Editors also encounter issues in the lack of reusable content and organization of the form(s) where they enter Contact Us information.
 
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
+This initiative will address both the Veteran et al, and the editor experiences.
+
 ---
 
 ## Outcome Summary
@@ -31,10 +15,15 @@
 - Product | Link to product outline 
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+- It is difficult for Veterans to find and trust the contact information they seek on VAMC Contact pages. 
+   - 5/16/23 Briefing on Foresee data indicated Veterans want accurate and complete information, particularly related to facility and/or individual contact information and phone numbers
+   - Medallia feedback consistently includes frustration related to phone numbers - can't find them, no one answers them, long hold times, etc. 
+   - [Contact us pages for VAMC have some of the lowest experience ratings across all of VA.gov
+   - Veterans repeatedly report they want department extension numbers and cannot find them
+- Creating the contact us page is not intuitive for editors. See #12087
+- Audit for placeholder content (12/22/23) found 67 systems with "Coming soon" still present on the Contact us pages
+   - This info was sent to VHA DM for remediation
+- Veterans look for mailing addresses
 
 <!--
 ## Desired User Outcomes
@@ -62,7 +51,31 @@
 ---
 
 ## Discovery
-### Assumptions/Risks
+### Assumptions
+
+ This effort should consider all the places where contact information is displayed</summary> 
+
+- Location and contact information on facility page, such as [Pittsburgh VA Medical Center-University Drive](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/)
+- Inside service accordions on facility level pages, such as [Pittsburgh VA Medical Center-University Drive](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/)
+- Locations section on the main system page (at least for the main locations - usually 1 or 2 per system), such as [Pittsburgh health care](https://www.va.gov/pittsburgh-health-care/)
+- [Locations page](https://www.va.gov/pittsburgh-health-care/locations/)
+- Required health service pages - with named care coordinator numbers, at a minimum
+   - [Women Veteran care](https://www.va.gov/beckley-health-care/health-services/women-veteran-care/)
+   - [Mental health care](https://www.va.gov/beckley-health-care/health-services/mental-health-care/)
+   - [Suicide prevention](https://www.va.gov/beckley-health-care/health-services/suicide-prevention/)
+   - [Caregiver support](https://www.va.gov/beckley-health-care/health-services/caregiver-support/)
+   - [Homeless Veteran care](https://www.va.gov/beckley-health-care/health-services/homeless-veteran-care/)
+   - [LGBTQ+ Veteran care](https://www.va.gov/beckley-health-care/health-services/lgbtq-veteran-care/)
+   - [Minority Veteran care](https://www.va.gov/beckley-health-care/health-services/minority-veteran-care/)
+   - [Patient advocates](https://www.va.gov/beckley-health-care/health-services/patient-advocates/)
+   - [Returning service member care](https://www.va.gov/beckley-health-care/health-services/returning-service-member-care/)
+- [Contact us page](https://www.va.gov/pittsburgh-health-care/contact-us/)
+- plus ways to get centralized phone numbers, i.e. 
+   - main [VA.gov Contact us page](https://www.va.gov/contact-us/) 
+   - [Helpful VA phone numbers on R&S](https://www.va.gov/resources/helpful-va-phone-numbers/)
+   - [Connect to VA care](https://www.va.gov/health/connect-to-va-care/)
+
+###Risks
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
