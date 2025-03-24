@@ -6,11 +6,9 @@ labels: content-ia-centralized-team
 assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA,mnorthuis
 
 ---
-# Content and IA Product Support Epic
+## Content and IA Product Support Epic
 
-Use this ticket to request collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) shared services team. Feel free to delete instructions and unselected options from the ticket to make it easier to scan.
-
-## Team info
+### Team info
 
 #### Product team
 
@@ -26,7 +24,7 @@ Use this ticket to request collaboration on a new initiative with the sitewide c
 - IA:
 - Content:
  
-## About this initiative
+### About this initiative
 
 #### Type of work expected
 
@@ -46,20 +44,22 @@ Use this ticket to request collaboration on a new initiative with the sitewide c
 - [Name]()
   
 
-## Timeframe and prioritization
+#### Timeframe and prioritization
 
 - Estimated launch or description of timeframe
 - Incremental release plan
 
 
-## Work kick-off action items
+### Work kick-off and closing tasks
+
+#### Work kick-off action items
 - [ ] Assign content and IA specialists
 - [ ] Schedule kickoff with team
 - [ ] Review all supporting artifacts and compile initial questions brief
 - [ ] Gather all known relevant content style guide sections and provide links for team in kickoff
 - [ ] Attend design intent for initiative (if scheduled)
 
-## Work closing action items
+#### Work closing action items
 - [ ] All associated tickets are closed
 - [ ] All IA sitemaps are updated
 - [ ] 
