@@ -4,7 +4,7 @@ about: Template for new content task, for CAIA internal use.
 title: 'New Content Task Ticket'
 labels: 'sitewide CAIA, sitewide content'
 project: 'Sitewide CAIA'
-assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA
+assignees: bethpottsVADEPO,RLHecht,jsuarezzabala
 ---
 
 > [!WARNING]
@@ -31,10 +31,4 @@ _What will be created or happen as a result of this story? Examples:_
 - [ ] Product has launched
 - [ ] Feedback has been shared with requesting team
 
-## Configure this issue
-- [ ] _Attach to an Epic or Intake if this is related to other work_
-- [ ] _Label with Originator/Team (product team or stakeholder requesting support)_
-- [ ] _Label with Open Date_
-- [ ] _Label with Estimate (level of effort expected for this ticket)_
-- [ ] _Add assignee name to each task they will complete (if known)_
-- [ ] _Update the status to reflect where this work is in the pipeline (in progress, backlog, etc.)_
+
