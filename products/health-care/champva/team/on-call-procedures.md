@@ -32,7 +32,7 @@ missing = msc.get_missing_statuses
 With an instance of `MissingStatusCleanup` defined:
 
 ```ruby
-user_subs = msc.get_batches_for_email('test@email.com')
+user_subs = msc.get_batches_for_email(email_addr: 'test@email.com')
 
 ## EXAMPLE OUTPUT (note the "Uploaded at" times, "Form", and number of attachments.
 ## This looks like a successful auto-retry)
@@ -55,7 +55,7 @@ user_subs = msc.get_batches_for_email('test@email.com')
 First, gather a collection of batches
 
 ```ruby
-batches = msc.get_batches_for_email('test@email.com') # OR: batches = msc.get_missing_statuses
+batches = msc.get_batches_for_email(email_addr: 'test@email.com') # OR: batches = msc.get_missing_statuses
 ```
 
 Then, identify the `form_uuid` of the batch you want to manually process and pass it to `manually_process_batch` like so:
