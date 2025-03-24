@@ -121,6 +121,7 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 - Build out [MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md#whatre-you-building) of dependent verification tool to capture “no changes to dependents” and auto-submit a 21-0538 form. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1409)).
 - Add claim submission in-progress email and update confirmation email to align with requirements from Zero Silent Failure initiative. Seperate existing confirmation email into seperate emails for each claim submission type. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1420))
 - [Migrate to RESTful APIs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91282)
+- [Migrate](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83272) off of depreciated document upload API.
 
 ### Next
 - Test pension-related [income questions and API](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1524). This would enable RBPS to process pension-related dependency claims automatically (right now they're off-ramped for manual review).
@@ -135,7 +136,6 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 ### Future
 - Add the ability to [download a pdf of the submitted claim](https://github.com/orgs/department-of-veterans-affairs/projects/1237/views/13?sliceBy%5Bvalue%5D=ND%2FD+ZSF+%7C+Stage+5+%28Confirmation+page+full+update%29) from the confirmation page (as part of the Zero Silent Failure initiative). This work was put on hold until another team implements a solution.
 - Work with MyVA to update the [status card](https://design.va.gov/patterns/help-users-to/stay-informed-of-their-application-status#status-in-myva) shown to claimants as part of the Zero Silent Failure initiative.
-- [Migrate](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83272) off of depreciated document upload API.
 - Integrate dependent management into the MyVA profile experience. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102346))
 - Integrate dependent parent form (21-509) into 686/674 form flow on VA.gov. ([discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102348))
 - Expand functionality of dependency verification tool (21-0538) to capture "yes, I have changes to my dependents)
