@@ -1,8 +1,8 @@
 ---
 name: QA Collab Cycle Findings for Staging
 about: Staging findings template for Collaboration Cycle reviewers to provide QA findings
-  to VFS teams
-title: QA Standards - VFS Team - VFS Product
+  to VFS and VA Mobile teams
+title: QA Standards - VFS / VA Mobile Team - VFS / VA Mobile Product
 labels: collab-cycle-feedback, QA, Staging, qa-standards
 assignees: ''
 
@@ -10,11 +10,11 @@ assignees: ''
 
 ### General Information
 
-#### VFS team name
+#### VFS / VA Mobile team name
 
-#### VFS product name
+#### VFS / VA Mobile product name
 
-#### VFS feature name
+#### VFS / VA Mobile feature name
 
 #### Point of Contact/Reviewers
 
@@ -66,17 +66,17 @@ assignees: ''
 - [ ] **Close the ticket** when your Product Owner determines that you have sufficiently met the QA Standards.
 
 ### Platform directions
-- Update "Issue Title" to be of the form "QA Standards - VFS Team - VFS Product"
-- Add the VFS team, product name, and feature name
+- Update "Issue Title" to be of the form "QA Standards - VFS / VA Mobile Team - VFS / VA Mobile Product"
+- Add the VFS / VA Mobile team, product name, and feature name
 - Add your name, practice area, and GH handle under Point of Contact/Reviewers
 - Complete the QA Standards section, making sure to include an "Explanation of failure to meet standard" for every Standard the product does not meet.
 - Link to the Collaboration Cycle Request epic
 - Add epic's milestone
 - Add assignees: 
-  - VFS PM
+  - VFS / VA Mobile PM
   - Yourself (optional)
 - Add labels:
-  - VFS team label
-  - VFS product label
+  - VFS / VA Mobile team label
+  - VFS / VA Mobile product label
   - QA-standards label
   - launch-blocking label if the product has failed to meet a required QA Standard
