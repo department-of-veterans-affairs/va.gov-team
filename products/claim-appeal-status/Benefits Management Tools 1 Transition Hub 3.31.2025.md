@@ -87,9 +87,8 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 
 **Team resources**
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/team.charter.md)
-- [Team Zenhub board](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/board)
-- [Sprint Planning and Roadmap](https://docs.google.com/presentation/d/1ASalrxCcn-SXoNzz7ueIYQws97O6ROkXZznVch1mF-c/edit#slide=id.p1)
-- [Quarterly planning GitHub board](https://github.com/orgs/department-of-veterans-affairs/projects/847/views/1?layout=board)
+- [Github Projects Board]
+- [Gap-Bet Scoring for Quarterly Planning]
 
 <br>
 
@@ -115,6 +114,9 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 - 5103 silent failure polling solution
 - Evidence request email notifications
 
+### Links
+- Outcome-driven roadmap
+- Decision letter notification feature roadmap
 
 <br>
 
