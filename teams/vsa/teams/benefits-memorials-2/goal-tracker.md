@@ -128,10 +128,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |QP5 | **Mobile App:** Collaborate with IIR team to add overpayment debt information into mobile app experience | coming soon |  |  |
 | QP6| **VBA Hardship Suspension:** Discovery & Design Prototyping | coming soon |  | 
 | QP7 | **VHA Repayment Plan (10-323)**:  Discovery & Design Prototyping| coming soon |   |   |
-| QP8|  **Maintainance + Fixes:** Resolve critical fixes to minimize downtime and user disruptions; improve reliability and enhance user satisfaction | coming soon | |  |
+
 
 **Stretch Goals (Known dependencies may impact)**
 | Priority ID | Description | S.Epic | Relevant Dates |  Notes 
 |-------------|---------------|-----------------|---------------|  ---------------| 
-| QP9 | **Payment History (VHA):** Progress development efforts and continue align with Lighthouse | [#18859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18859) | Goal to launch June 2025 or sooner | Tremendous User Value! Dependent on Lighthouse team collaboration to build API|
-| QP10 |  **Update 5655 Wizard to new task flow:** Launch updates in production| [#48133](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/6?pane=issue&itemId=88349041&issue=department-of-veterans-affairs%7Cva.gov-team%7C48133)|  |  Dependent on CAIA team collaboration | 
+| QP8| **Payment History (VHA):** Progress development efforts and continue align with Lighthouse | [#18859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18859) | Goal to launch June 2025 or sooner | Tremendous User Value! Dependent on Lighthouse team collaboration to build API|
+| QP9 |  **Update 5655 Wizard to new task flow:** Launch updates in production| [#48133](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/6?pane=issue&itemId=88349041&issue=department-of-veterans-affairs%7Cva.gov-team%7C48133)|  |  Dependent on CAIA team collaboration | 
