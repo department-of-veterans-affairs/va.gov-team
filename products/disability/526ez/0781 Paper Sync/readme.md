@@ -8,7 +8,7 @@ Previously, Veterans filing for PTSD and other mental health conditions were pro
 
 These forms were replaced with an updated VA Form 21-0781 released in June 2024 which combines and replaces the previous forms.
 
-For Veterans who have been diagnosed with PTSD (post traumatic stress disorder) or mental health issues, related to a traumatic event during their time of military service, eand want to apply for related benefits or services, the VA.gov's new online 0781 form provides all the questions related for claiming mental health conditions and in-service traumatic events needed to submit a benefits claim. Unlike the previous version of the 0781 form, the new online form will be in compliance by being up to date with the most recent paper form version (June 2024).
+For Veterans who have been diagnosed with PTSD (post traumatic stress disorder) or mental health issues, related to a traumatic event during their time of military service, and want to apply for related benefits or services, the VA.gov's new online 0781 form provides all the questions related for claiming mental health conditions and in-service traumatic events needed to submit a benefits claim. Unlike the previous version of the 0781 form, the new online form will be in compliance by being up to date with the most recent paper form version (June 2024).
 
 
 ### Changes to the form include
