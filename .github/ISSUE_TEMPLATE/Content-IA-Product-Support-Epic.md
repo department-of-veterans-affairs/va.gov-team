@@ -1,11 +1,14 @@
 ---
-name: Content and IA Centralized Team Product Support Epic 
+name: Content and IA Product Support Epic 
 about: For Content and IA centralized team internal use only.  
 title: "[EPIC] Initiative Name"
 labels: content-ia-centralized-team
 assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA,mnorthuis
-
 ---
+
+> [!WARNING]
+> Do not use this ticket unless directed to do so by the Content and IA team.
+
 ## Content and IA Product Support Epic
 
 ### Team info
