@@ -7,13 +7,6 @@ This initiative will address both the Veteran et al, and the editor experiences.
 
 ---
 
-## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
-
-**Related/Associated product(s)**
-- Product | Link to product outline 
-
 ## Problem
 - It is difficult for Veterans to find and trust the contact information they seek on VAMC Contact pages. 
    - 5/16/23 Briefing on Foresee data indicated Veterans want accurate and complete information, particularly related to facility and/or individual contact information and phone numbers
@@ -49,10 +42,10 @@ This initiative will address both the Veteran et al, and the editor experiences.
   - **KEY RESULT:** Decreased support requests to CMS
 
 
----
 
-## Discovery
+## Requirements & Research Recommendations
 
+###  Requirements from Epic
  This effort should consider all the places where contact information is displayed. See the following information recommendations & screenshot examples (at a minimum) for the following page examples:
 
 - Location and contact information on facility page, such as [Pittsburgh VA Medical Center-University Drive](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/). Screenshot below:
