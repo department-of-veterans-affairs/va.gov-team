@@ -109,7 +109,7 @@ This initiative will address both the Veteran et al, and the editor experiences.
 ### Research Recommendations
 * From [Research Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Findings.md)
 
-  ### Add descriptions to phone numbers
+### Add descriptions to phone numbers
 - **Hypothesis**: If we add descriptions to better explain the purpose of each VA phone number, then users will read the descriptions and understand which phone number can help them the most.
 - **Risks**: We know people primarily read headings to scan. Some people don't read body text. The Contact us page will also become longer if we continue added content to it.
 - **Mitigating risks**: Consider the Contact us page as a multi-page experience. Or hide content through accordions, additional info, or other components.
