@@ -40,10 +40,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |ENG: Continue Josh’s access to critical systems and onboarding tasks | QPX |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [X] Ready to be sent for approvals
- - [X] VA PO & COR sent the Sprint Goals
- - [ ] VA PO approved the Sprint Goals
- - [ ] VA COR approved the Sprint Goals
+ - [X] Ready to be sent for approvals (03/24/25)
+ - [X] VA PO & COR sent the Sprint Goals (03/24/25)
+ - [ ] VA PO approved the Sprint Goals (03/xx/25)
+ - [ ] VA COR approved the Sprint Goals (03/xx/25)
  
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
