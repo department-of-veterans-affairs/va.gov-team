@@ -102,21 +102,16 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 
 1. Upon sign in, Veterans expect to see **actionable tasks and notifications, that are relevant to them, in a centralized location**. Failure to surface consistent, personalized information and actions on VA.gov **can lead to Veteran frustration**.
 
-    <details>
-    <summary>References</summary>
-    
-    1. [03/2021 My VA Redesign 2 Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md)
-    2. [05/2021 My VA Usability Internal Research Study Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/MyVA-mini-usability/My%20VA-mini-usability-findings.md)
-    3. [11/2021 VA Mobile Comparative Analysis: Personalized App Homescreen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis.md)
-    4. [11/2021 VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
-    5. [01/2022 My VA Payment Info and Onsite Notifications Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md)
-    6. [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
-    7. [03/2023 My VA 2023 Audit Usability Testing - Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md)
-    8. [04/2023 Logged-in IA and Nav Comprehensive Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md)
-    9. [07/2024 VA Mobile App - Personalized Home Screen Evaluative Research - Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-04%20evaluative%20research/personalized%20home%20screen%20-%20findings.md)
-    10. [02/2025 Desk Research Report (Help users to manage benefits and tools)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/understand-current-benefits-eligibility/Desk%20Research%20Report.md#veterans-liked-seeing-lists-of-relevant-information-in-one-place)
-    
-    </details>
+   1. [03/2021 My VA Redesign 2 Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md)
+   2. [05/2021 My VA Usability Internal Research Study Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/MyVA-mini-usability/My%20VA-mini-usability-findings.md)
+   3. [11/2021 VA Mobile Comparative Analysis: Personalized App Homescreen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis.md)
+   4. [11/2021 VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
+   5. [01/2022 My VA Payment Info and Onsite Notifications Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md)
+   6. [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
+   7. [03/2023 My VA 2023 Audit Usability Testing - Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md)
+   8. [04/2023 Logged-in IA and Nav Comprehensive Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md)
+   9. [07/2024 VA Mobile App - Personalized Home Screen Evaluative Research - Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-04%20evaluative%20research/personalized%20home%20screen%20-%20findings.md)
+   10. [02/2025 Desk Research Report (Help users to manage benefits and tools)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/understand-current-benefits-eligibility/Desk%20Research%20Report.md#veterans-liked-seeing-lists-of-relevant-information-in-one-place)
 
    1) **This expectation matches industry standards**, with many online experiences offering a high-level snapshot of the user’s current status and interactions on their signed in homepages.
 
@@ -124,9 +119,8 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 
    2) Additionally, Veterans feel ‘in the dark’ during their benefits journey, and **frequently lack awareness of benefits available to them**. They’re **looking for guidance from VA.gov**, accredited representatives, and other VA service providers to navigate the VA ecosystem. This lack of awareness, or knowing who to turn to, **can delay a Veteran's ability to obtain benefits**.
 
-      1) [10/2020 Background (Find VA Benefits Research Summary)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-mvp/2018-find-va-benefits/Discovery/User%20Research/Research%20Summary.md)
-
-      2) [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
+        1) [10/2020 Background (Find VA Benefits Research Summary)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-mvp/2018-find-va-benefits/Discovery/User%20Research/Research%20Summary.md)
+        2) [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
 
 2. Veterans expect an experience that is **tailored to their needs, while also being informative, and customizable.**
 
@@ -134,88 +128,66 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 
       1. There were several notable mentions including: home loans, C\&P exams, annual health reminders, travel claims, VSO communications, updates from VA, and dependent information.
 
-    <details>
-    <summary>References</summary>
-      
-      1. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
-      2. [03/2021 My VA Redesign 2 Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md)
-      3. [05/2021 My VA Usability Internal Research Study Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/MyVA-mini-usability/My%20VA-mini-usability-findings.md)
-      4. [11/2021 Education benefits discovery synthesis (for MyVA)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/education/discovery-and-research/edu-benefits-discovery-synthesis.md)
-      5. [11/2021 VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
-      6. [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
-      7. [08/2022 My VA Redirect UAT Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/research-findings.md)
-      8. [03/2023 My VA 2023 Audit Usability Testing - Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md)
-      9. [04/2023 Identifying issues and challenges people have finding tasks when they are signed in to VA.gov: Research Review Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md)
-      10. [07/2024 VA Mobile App - Personalized Home Screen Evaluative Research - Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-04%20evaluative%20research/personalized%20home%20screen%20-%20findings.md)
-
-    </details>
+          1. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
+          2. [03/2021 My VA Redesign 2 Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md)
+          3. [05/2021 My VA Usability Internal Research Study Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/MyVA-mini-usability/My%20VA-mini-usability-findings.md)
+          4. [11/2021 Education benefits discovery synthesis (for MyVA)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/education/discovery-and-research/edu-benefits-discovery-synthesis.md)
+          5. [11/2021 VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
+          6. [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
+          7. [08/2022 My VA Redirect UAT Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/research-findings.md)
+          8. [03/2023 My VA 2023 Audit Usability Testing - Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md)
+          9. [04/2023 Identifying issues and challenges people have finding tasks when they are signed in to VA.gov: Research Review Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md)
+          10. [07/2024 VA Mobile App - Personalized Home Screen Evaluative Research - Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/personalized-homescreen/2024-04%20evaluative%20research/personalized%20home%20screen%20-%20findings.md)
 
    2. **Veterans do not expect to see all their information on My VA** - they want to see any time-sensitive information or action items and all other details can live on a separate page.
 
       1. **Simple tasks that require only one click**, such as refilling prescriptions, Veterans expect to be inline on My VA, rather than being directed to a separate page.
 
-      2. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
+      1. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
+      2. [11/2021 VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
+      3. [01/2022 My VA Payment Info and Onsite Notifications Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md)
 
-      3. [11/2021 VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
-
-      4. [01/2022 My VA Payment Info and Onsite Notifications Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md)
-
-   4. **Veterans liked having empty sections on My VA** to inform them of available benefits, or as reassurance of the current state, such as no debts. This can also be helpful for new VA.gov users, such as those transitioning from active military.
+   3. **Veterans liked having empty sections on My VA** to inform them of available benefits, or as reassurance of the current state, such as no debts. This can also be helpful for new VA.gov users, such as those transitioning from active military.
 
       1. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
-
       2. [03/2021 My VA Redesign 2 Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md)
-
       3. [05/2021 My VA Usability Internal Research Study Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/MyVA-mini-usability/My%20VA-mini-usability-findings.md)
-
       4. [11/2021 VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
-
       5. [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
-
       6. [03/2023 My VA 2023 Audit Usability Testing - Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md)
 
-   5. **There is a frequent request for the ability to reorder, or collapse, sections of My VA** that Veterans do not find relevant to them.
+   4. **There is a frequent request for the ability to reorder, or collapse, sections of My VA** that Veterans do not find relevant to them.
 
       1. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
-
       2. [11/2021 VA Mobile Comparative Analysis: Personalized App Homescreen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis.md)
-
       3. [11/2021 VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
-
       4. [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
-
       5. [03/2023 My VA 2023 Audit Usability Testing - Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md)
 
 3. Throughout several studies the **use of ‘notifications’, ‘alerts’, and ‘action items’ are used interchangeably.** This creates challenges when inferring meaning from the findings, but there is clear direction on how Veterans interpret the terms. **‘Notifications’ and ‘alerts’** are used interchangeably to mean information the Veteran should know, while **‘action items’** are tasks the Veteran has to do.
 
    1. [09/2021 Action Items Research Findings (On-site Notifications)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md)
-
    2. [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
-
    3. [07/2023 VA Mobile Comparative Analysis: Personalized & contextual Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md)
 
-   2) Depending on the study, **Veterans expected the most time-sensitive ‘action items’ at the top of My VA**, or in a central alerts page.
+   1) Depending on the study, **Veterans expected the most time-sensitive ‘action items’ at the top of My VA**, or in a central alerts page.
 
       1. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
-
       2. [09/2021 Action Items Research Findings (On-site Notifications)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md)
-
       3. [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
 
-   3) **Veterans have expectations on ‘action items’ prioritization and content.** Actions that are time-sensitive or are unexpected problems should be prioritized first. The best actions are succinct (brief and action-oriented), personal (applies to me and my life), reassuring (the things I set up to happen on a recurring schedule are happening), timely (shows up when I need the information), and consistent across all channels.
+   2) **Veterans have expectations on ‘action items’ prioritization and content.** Actions that are time-sensitive or are unexpected problems should be prioritized first. The best actions are succinct (brief and action-oriented), personal (applies to me and my life), reassuring (the things I set up to happen on a recurring schedule are happening), timely (shows up when I need the information), and consistent across all channels.
 
       1. [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
-
       2. [04/2024 Research Findings for 2024-03 Dot Indicator and Slim Alert Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/2024-03%20Dot%20Indicator%20and%20Slim%20Alert%20Usability%20Study/Research%20Findings%20for%202024-03%20Dot%20Indicator%20and%20Slim%20Alert%20Research%20Study.md)
 
-   4) **Veterans also expected updates from other sources** such as a phone call, email, or physical mail, because that's what they're used to, or because it's the easiest way to reach them.
+   3) **Veterans also expected updates from other sources** such as a phone call, email, or physical mail, because that's what they're used to, or because it's the easiest way to reach them.
 
       1. [11/2021 VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
 
-   5) **These expectations meet industry standards.** Most competitors place **‘action items’** in permanent feature modules on their signed homepage. While **‘notifications’ or ‘alerts’** are included in a notification center/inbox as a feature in the primary or secondary navigation.
+   4) **These expectations meet industry standards.** Most competitors place **‘action items’** in permanent feature modules on their signed homepage. While **‘notifications’ or ‘alerts’** are included in a notification center/inbox as a feature in the primary or secondary navigation.
 
       1. [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
-
       2. [07/2023 VA Mobile Comparative Analysis: Personalized & contextual Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md)
 
       3. Competitors four main categories of action items included: if something is due, missing information, status changes, and things the company wants to know. They also make mention of when there are no actions, to reassure users that no actions were missed.
@@ -227,7 +199,7 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 
 4. There are several instances of feedback on the current experience that the team can learn from to **inform the new experience**. There were also several instances of positive feedback of earlier designs that **show a simpler, more action oriented experience better met Veteran needs** than the experience that is on VA.gov currently.
 
-**Navigation**
+### **Navigation**
 
 5. There's a lack of understanding about the term My VA, but **Veterans find My VA valuable once they understand what it is.** The name My VA is not enough to clue new users into what it is, or distinguish it from the user profile.
 
@@ -236,25 +208,20 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
    2) Veterans find My VA helpful in navigating VA.gov.
 
       1. [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
-
       2. [04/2023 Logged-in IA and Nav Comprehensive Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md)
-
       3. [06/2023 Opportunities to enhance the personalized experience on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization-enhancements/opportunities.md)
 
-**Alerts**
+### **Alerts**
 
 6. **NEW** Alerts at the top of My VA were effective at drawing participants' attention, but participants expected a headline to provide additional context.
 
    1. [09/2021 Action Items Research Findings (On-site Notifications)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md)
-
    2. [01/2022 My VA Payment Info and Onsite Notifications Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md)
-
    3. [08/2022 My VA Benefit Payments and Debts 2022 Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/research-findings.md)
 
 7. **NEW** Participants expected alerts to be present until they completed the action, at which point they’d auto dismiss.
 
    1. Participants expected to be able to  see old or expired alerts on a dedicated ‘Alerts’ or ‘Notifications’ page.
-
    2. [09/2021 Action Items Research Findings (On-site Notifications)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md)
 
 8. **NEW** Participants wanted the ability to customize what alerts they receive on My VA. Including ability to filter by category or date.
@@ -267,7 +234,7 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 
    2. [04/2024 Research Findings for 2024-03 Dot Indicator and Slim Alert Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/2024-03%20Dot%20Indicator%20and%20Slim%20Alert%20Usability%20Study/Research%20Findings%20for%202024-03%20Dot%20Indicator%20and%20Slim%20Alert%20Research%20Study.md)
 
-**Page Sections**
+### **Page Sections**
 
 10. The mobile team has an IA that could be leveraged for My VA 2.0. [Link to diagram.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/Screen%20Shot%202021-11-22%20at%204.02.11%20PM.png)
 
@@ -276,7 +243,6 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 11. Participants were frustrated that the ‘Claims and appeals’ section was separate from the ‘Benefits applications and forms’ section, and were confused on the difference between the two.
 
     1. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
-
     2. [05/2024 Research Findings for 2024-05 VFF and My VA Form Submission Research Study](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/Research/Research%20Findings%20for%202024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research%20Study.md)
 
 12. **NEW** Participants did not have a set location they’d expect to find Travel Pay. It was either under benefits or healthcare.
@@ -290,75 +256,57 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 14. Participants who have education benefits, would like to see dynamic content on My VA about their remaining benefits.
 
     1. [01/2022 My VA Payment Info and Onsite Notifications Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md)
-
     2. [03/2023 My VA 2023 Audit Usability Testing - Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md)
 
-**Page Content**
+### **Page Content**
 
 15. Users want more information shown about their healthcare, not less, including:
-
     1. Type of healthcare they’re enrolled in (vision, dental, etc.), and if it’s a VA or private provider.
-
     2. The facility and doctor’s name messages are from.
-
     3. Appointment details including location, medical practice, and doctor’s name.
-
     4. Preferred facility/hospital, primary care physician, and primary care location.
 
-    5. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
-
-    6. [09/2021 Action Items Research Findings (On-site Notifications)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md)
+    1. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
+    2. [09/2021 Action Items Research Findings (On-site Notifications)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md)
 
 16. **NEW** The most important piece of information about participants' finances was the most recent amount paid or owed, payment/debt status, and number of outstanding payments/debts. Important secondary information that could live on a details page included:
-
     1. The reason for a payment/debt.
-
     2. The date a payment was deposited into their account, or;
-
        1. the due date for a debt.
-
     3. How to pay a debt.
-
     4. Someone to contact if they had questions about their finances.
 
-    5. [01/2022 My VA Payment Info and Onsite Notifications Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md)
-
-    6. [08/2022 My VA Benefit Payments and Debts 2022 Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/research-findings.md)
+    1. [01/2022 My VA Payment Info and Onsite Notifications Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md)
+    2. [08/2022 My VA Benefit Payments and Debts 2022 Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/research-findings.md)
 
        1. Due to technical limitations, the team determined to show the number of outstanding debts and copays, rather than the amount. This is because the system can only show the most recent account balance.
 
-       2. [12/2022 Payment Info v2 UAT Findings Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/v2-UAT-findings-summary.md)
+       1. [12/2022 Payment Info v2 UAT Findings Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/v2-UAT-findings-summary.md)
 
 17. **NEW** Participants prefer to see their debts separate from medical copays.
 
     1. [08/2022 My VA Benefit Payments and Debts 2022 Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/research-findings.md)
 
 18. Veterans have shown confusion at the use of different terminology across their healthcare and benefits on VA.gov, such as statuses.
-
     1. Errors are particularly an issue, with Veterans believing they did something to cause downstream problems.
 
-    2. [05/2024 Research Findings for 2024-05 VFF and My VA Form Submission Research Study](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/Research/Research%20Findings%20for%202024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research%20Study.md)
+        1. [05/2024 Research Findings for 2024-05 VFF and My VA Form Submission Research Study](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/Research/Research%20Findings%20for%202024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research%20Study.md)
+        2. [02/2025 Desk Research Report (Help users to manage benefits and tools)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/understand-current-benefits-eligibility/Desk%20Research%20Report.md#statuses-were-helpful-for-comprehension-but-could-cause-confusion-if-veterans-did-not-understand-their-meaning)
 
-    3. [02/2025 Desk Research Report (Help users to manage benefits and tools)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/understand-current-benefits-eligibility/Desk%20Research%20Report.md#statuses-were-helpful-for-comprehension-but-could-cause-confusion-if-veterans-did-not-understand-their-meaning)
-
-**User Types**
+### **User Types**
 
 19. The current logged-in experience doesn’t address the needs of different user types, or the needs of users at different points in their journey with VA. Such as those transitioning into civilian life.
 
     1. [11/2021 VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)
-
     2. [05/2022 Review of Related User Research: VA Mobile App Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
-
     3. [04/2023 Logged-in IA and Nav Comprehensive Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md)
 
-**Earlier Positive Feedback**
+### **Earlier Positive Feedback**
 
 20. Veterans easily understood what My VA was for and were able to complete all tasks and sections. Feedback was overall positive, and users commented that My VA met or exceeded their expectations.
 
     1. [12/2020 MyVA Redesign Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
-
     2. [03/2021 My VA Redesign 2 Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md)
-
     3. [05/2021 My VA Usability Internal Research Study Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/MyVA-mini-usability/My%20VA-mini-usability-findings.md)
 
 
@@ -367,12 +315,10 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 21. _Internal use only:_ What is the difference between personalized, contextual, and customized?
 
     1. Personalized: Content that’s specific to the individual user.
-
     2. Contextual: Content is specific to the user and is displayed based on specific circumstances/variables (like time, location, status).
-
     3. Customized: User chooses whether/what info is displayed (may or may not be personalized).
 
-    4. [07/2023 VA Mobile Comparative Analysis: Personalized & contextual Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md)
+    1. [07/2023 VA Mobile Comparative Analysis: Personalized & contextual Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md)
 
 
 # **Recommendations**
@@ -380,25 +326,18 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 1. Refocus My VA by removing generic links and focusing on content that is dynamic and personalized to the user, including:
 
    1. Actionable, time-sensitive tasks (such as due dates, missing information, or status changes).
-
    2. Benefits and account statuses (such as payment history or claim status).
-
-4) Two exceptions to the rule:
-
-   1. (1) provide information on how to get help via phone, in-person locations, or accredited representation;
-
-   2. (2) a link to [Getting started with VA](https://www.va.gov/resources/getting-started-with-va/) to promote understanding of available benefits.
+   3. Two exceptions to the rule:
+       1. (1) provide information on how to get help via phone, in-person locations, or accredited representation;
+       2. (2) a link to [Getting started with VA](https://www.va.gov/resources/getting-started-with-va/) to promote understanding of available benefits.
 
 2. Links that direct to hubs (such as profile or MHV) should be placed in a sub navigation.
 
 3. ‘Action items’ should appear at the top of My VA, and should only reflect actions users have to complete. ‘Notifications’ should be directed to another page, and reflect informational updates.
 
    1. ‘Action items’ should be prioritized with the most time-sensitive action at the top, while ‘Notifications’ should appear in order received.
-
    2. Both should be succinct, personalized, reassuring, timely, and consistent. The My VA team needs to find a good balance between too much and too little information.
-
       1. For healthcare we know Veterans want more information such as facility location, doctors names, and medical practices.
-
    3. Users should be given the option to opt into notifications to text or email for ‘action items’ and ‘notifications’ coming from My VA.
 
 4. Indicators should include numbers, not just a dot, to improve accessibility.
@@ -406,7 +345,6 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 5. Prioritize healthcare tasks, disability compensation benefits, and in progress benefits applications. With document management, education benefits, and finances as secondary information.
 
    1. Sections should include an empty state for Veterans who do not have benefits.
-
    2. As well as a no action required state for when there are no actions required from the Veteran.
 
 6. For complex tasks, provide high level views to information on My VA, with links to hubs to complete tasks.
@@ -444,7 +382,7 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 
 ## **Secondary Research**
 
-## **My VA Reports**
+### **My VA Reports**
 
 1. [10/2020 Background (Find VA Benefits Research Summary)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-mvp/2018-find-va-benefits/Discovery/User%20Research/Research%20Summary.md)
 
