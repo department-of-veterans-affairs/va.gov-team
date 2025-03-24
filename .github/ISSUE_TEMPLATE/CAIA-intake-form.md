@@ -3,7 +3,7 @@ name: Content and IA Centralized Team Product Support Request Form
 about: Use this ticket to request support from the centralized content and information architecture team.
 title: "[INTAKE] Team Name: Initiative Name"
 labels: content-ia-centralized-team
-assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA,mnorthuis
+assignees: DanielleTheirryUSDSVA,mnorthuis
 
 ---
 # Content and IA Product Support Request
