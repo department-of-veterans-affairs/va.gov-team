@@ -16,8 +16,8 @@
 |Chante Lantos-Swett |OCTO Lead|
 |Andrew Pearce| Program Manager |
 |Travis Cahill|Product Manager|
-|Janelle Finnerty | Designer | 
-| Micah Frazier | Full Stack Engineer | 
+|Janelle Finnerty | Design/Research Lead | 
+| Micah Frazier | Engineering Lead | 
 |Ashley Bush|	Designer | 
 |Adam Suharja | FE Engineer| 
 |Emerald Sargent | Full Stack Engineer |
