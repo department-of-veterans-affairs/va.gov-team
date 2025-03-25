@@ -13,6 +13,7 @@
 - For Appointments metrics, responsible UAE team members will need accesss to specific DataDog reports ***and*** PII data ([How to request access to VSSC's Appointments scheduling report](/products/health-care/appointments/va-online-scheduling/analytics/requesting-access-to-vssc-vaos-report.md)) (*Note: Requesting requires VA Network accces.*)
 - Open [VAOS OKRs 2025 - GA4 (Source)](https://lookerstudio.google.com/s/qXJSaTU9eOQ) (which is a temp location)
 - Find and fill out the metrics on the **7th of each month** based on instructions and links in the Source column, if provided, of both tabs in the [UAE Metrics spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/Analytics/UAE%20metrics.xlsx?d=wc95ca18bba4a4913ba210545e72d2cc9&csf=1&web=1&e=40r3WI) (*Note: requires VA Network accces.*)
+- When completed filling out the numbers at EOD on the 7th, reply in the Slack reminder thread that your metrics have been completed. 
 
 ## Slack reminders
 
