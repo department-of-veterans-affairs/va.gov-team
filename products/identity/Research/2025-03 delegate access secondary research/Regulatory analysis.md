@@ -28,7 +28,7 @@ Laws around delegates are especially concerned with licensure and payments of pr
 
 * 38 U.S. Code § 5701(b)  
   * Allows for claims filings and supporting documentations to be released to a veteran’s representative  
-* Privacy Act of 1974, HIPPA, and others  
+* Privacy Act of 1974, HIPAA, and others  
   * Mention personal agent or representative, acknowledging that in some cases someone other than the patient (or veteran) can have access to information after consent is given  
 * 38 U.S. Code § 7332  
   * Allows for disclosure of medical records to representatives when a doctor (or health care provider) deems it necessary for informed consent 
