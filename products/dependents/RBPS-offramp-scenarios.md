@@ -48,3 +48,5 @@ def set_to_manual_vagov(reason_code)
     end
   end
 ```
+
+*NOTE:* Code was added to VA.gov in 2021 that was intended to off-ramp 686c requests to remove a dependent if the claimant was receiving pension, but the code was never turned on (placed behind a flipper) because the BGS Award Service API was not working (see this spike [#76465](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76465)). We believe these claims are still going to RBPS, but RBPS is off-ramping them (rather than VA.gov). Before fixing the API and turning on the flipper, [we need to understand](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89909) if the current logic for off-ramping pension claims is still correct. As part of this process, VA.gov also needs to [send the answers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103842) to two income-related questions to RBPS, so it can automatically process pension-related dependent changes.
