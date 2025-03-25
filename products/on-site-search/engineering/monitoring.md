@@ -1,11 +1,19 @@
 # VA.gov Site Search Monitoring
 
 ## Table of Contents
-1. [DataDog Monitoring](#datadog-monitoring)
+1. [Search.gov health](#Search.gov-health)
+2. [DataDog Monitoring](#datadog-monitoring)
    - [Search.gov is Down](#searchgov-is-down) - Monitors critical errors affecting Search.gov, including forward proxy failures and API issues.
    - [VA.gov Might Be Experiencing Abnormal Usage Patterns](#vagov-might-be-experiencing-abnormal-usage-patterns) - Tracks unusually low usage patterns that may indicate underlying system problems.
    - [VA.gov is Experiencing High Error Rates](#vagov-is-experiencing-high-error-rates) - Ensures the operational status of vets-api and the VA.gov user interface, monitoring for high error rates that might indicate outages.
-2. [Adrian's Triage Video](#adrians-triage-video) - Provides a video walkthrough for triage processes related to these monitors.
+3. [Adrian's Triage Video](#adrians-triage-video) - Provides a video walkthrough for triage processes related to these monitors.
+
+## Search.gov health
+
+Per Search.gov we have 2 ways to check their status: 
+1. https://search.usa.gov/healthcheck - returns `OK` if the API is up
+2. https://search.gov/status.html - Infrequently updated, and not typically updated live during an outage
+
 
 ## DataDog Monitoring
 
