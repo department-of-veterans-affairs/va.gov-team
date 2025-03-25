@@ -36,11 +36,11 @@ We wanted to find real use cases for this component in the VA ecosystem. In this
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/Critical-Information/Images/image.png" width="300"/> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/Critical-Information/Images/image(1).png" width="300"/>
 
-In the **Claims Status Tool**, an alert and link combination lets users know they need to provide more information for their claim.
+In the **Claims Status Tool**, an [Action link](https://design.va.gov/components/link/action) within a [Warning alert](https://design.va.gov/components/alert/#warning-alert) lets users know they need to provide more information for their claim.
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/Critical-Information/Images/image(2).png" width="300"/> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/Critical-Information/Images/image(3).png" width="300"/>
 
-In the **Debt portal**, a colored icon and an action link convey that the user owes a balance that needs to be paid by a certain date, with an additional alert on the details page that includes an action link calling the users to make a payment on their debt.
+In the **Debt portal**, a colored [Feedback icon](https://design.va.gov/foundation/icons#feedback) and an [Active Link](https://design.va.gov/components/link/#when-to-use-an-active-link) convey that the user owes a balance that needs to be paid by a certain date. A [Action link](https://design.va.gov/components/link/action) within a [Warning alert](https://design.va.gov/components/alert/#warning-alert) on the details page tells users to make a payment on their debt.
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/Critical-Information/Images/image(4).png" width="300"/> 
 
@@ -48,7 +48,7 @@ The **Prescriptions list** currently lets people know with plain text if they ha
 
  <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/Critical-Information/Images/image(5).png" width="300"/>
 
-For **Appointments**, users see a card component with an action link inside of it telling them to ‘Check in now’. 
+For **Appointments**, users see a [Card](https://design.va.gov/components/card#default) with an [Action link](https://design.va.gov/components/link/action) inside of it telling them to ‘Check in now’. 
 
 
 #### Relevant Labels in GitHub
@@ -71,10 +71,7 @@ We also reviewed results from the following labels but did not see any relevant 
 
 
 #### Quotes in EnjoyHQ
-
 We also searched EnjoyHQ for relevant insights. While GitHub makes it easy to search for content by relevant label and see a summary of findings when you open the ticket, EnjoyHQ was better for keyword searches that looked at key phrases users have said related to this component. Some of the things we searched for in EHQ included:
-
-
 
 * “Take action”
 * “Alerts”
@@ -82,59 +79,43 @@ We also searched EnjoyHQ for relevant insights. While GitHub makes it easy to se
 * “Time-sensitive actions”
 * “Due date”
 
-
 ### Supportive Findings
-
 Through a detailed review of relevant studies, we found some interesting insights related to alerting users to critical actions needed across a variety of products in our portfolio. The insights fell into a few key themes detailed below. 
 
-
 #### Theme 1 - Veterans want to see the most important information surfaced to them, including due dates and actions needed.
-
 There are many examples of this type of messaging used across VA.gov, and in many different studies we heard Veterans validate the need for this type of information. When the Claims Status Tool team set out to understand pain points of the current experience, one of the findings that surfaced was a general desire to see requests framed as:
-
-
 
 * What is needed?
 * Who is it for?
 * When is it needed?
 
 
-###### “I would want to see if there was something else I needed to do, or if everything I’ve submitted is sufficient for them to make a decision.” - P14[^1] 
+> “I would want to see if there was something else I needed to do, or if everything I’ve submitted is sufficient for them to make a decision.” - P14[^1] 
 
-Travel claims are another area that require time-sensitive notifications for users, letting them know how many days they have left to submit a claim for reimbursement of travel expenses related to a healthcare appointment. Participants of one study specifically asked for more prominent notifications when a claim is blocked by a pending user action[^2].
+Travel reimbursement claims also require time-sensitive notifications for users. Users need to know remaining days to submit a claim for reimbursement of travel expenses related to a healthcare appointment. Participants of one study specifically asked for more prominent notifications when a claim is blocked by a pending user action[^2].
 
+> “...it’s totally on me to have to keep going back every day to check to see if it’s pending and to hope that I happen to see before day 29 that they’re missing information because nothing dings me… I get no notification.” - P4 
 
-###### “...it’s totally on me to have to keep going back every day to check to see if it’s pending and to hope that I happen to see before day 29 that they’re missing information because nothing dings me… I get no notification.” - P4 
+In another study on travel reimbursement claims, users thought the most important information on the card related to their claim was the expiration date for filing a claim and the action link itself that allows them to start the process[^3].
 
-In another study on travel reimbursement claims, users found most important information on the card related to their claim was the expiration date for filing a claim and the action link itself that allows them to start the process[^3].
-
-When it comes to the MyVA homepage, it was easy for users to understand that a claim needed some further information from them through an alert displayed in that card[^4]. The research team recommended that this type of time-sensitive, critical information be surfaced to the top of this page, which aligns with our vision of stacking all CI components together at the top of this page rather than showing them individually inside of the cards on the page.
-
+When it comes to the My VA homepage, it was easy for users to understand that a claim needed some further information from them through an alert displayed in that card[^4]. The research team recommended that this type of time-sensitive, critical information be surfaced to the top of this page, which aligns with our vision of stacking all CI components together at the top of this page rather than showing them individually inside of the cards on the page.
 
 #### Theme 2 - Action links do better when tied to real actions, rather than passive ones.
+A variety of products across the portfolio are using the action link component to navigate users toward either an active or passive task[^5]. Active tasks could be things like paying a bill, checking in for an appointment, or filing a claim. Passive tasks, on the other hand, include going to your inbox, reviewing your information, or checking details. While different content and style choices are used across different products in these instances, one study on the Appointments tool showed the action link working well for active tasks like checking in for an appointment. Same visual treatment was confusing for passive tasks like reviewing information[^6].   
 
-A variety of products across the portfolio are using the action link component to navigate users toward either an active or passive task[^5]. Active tasks could be things like paying a bill, checking in for an appointment, or filing a claim. Passive tasks, on the other hand, include going to your inbox, reviewing your information, or checking details. While different content and style choices are used across different products in these instances, one study on the Appointments tool showed the action link working well for active tasks like checking in for an appointment, but that same visual treatment was confusing for passive tasks like reviewing information[^6].   
+> "[After reviewing passive task content] What to do next isn't super clear. I don't think it's too much information, but maybe just a wording issue. But, with screen readers, sometimes the headings are repetitive and I'm getting repetitive information on the next page." - P5
 
-
-###### "[After reviewing passive task content] What to do next isn't super clear. I don't think it's too much information, but maybe just a wording issue. But, with screen readers, sometimes the headings are repetitive and I'm getting repetitive information on the next page." - P5
-
-There were a few studies on the Medications tool that saw the use of an action link on the intro page of the tool with passive language (‘Go to your medications’)[^7]. Upon arrival to their medications list, users stated they wanted to see which ones they could get refilled right away. The active language (styled in a button) of ‘Request refills’ tested stronger and gave users a clear understanding of how to move forward with what they wanted to do[^8]. 
-
+A few studies on the Medications tool featured an action link on the intro page of the tool with passive language (‘Go to your medications’)[^7]. On the medications list page, users said they wanted to see which ones they could get refilled right away. The active language (styled in a button) of ‘Request refills’ tested stronger and gave users a clear understanding of how to move forward with what they wanted to do[^8]. 
 
 #### Theme 3 - Error messages make Veterans unclear on if there is a system error or something they need to correct.
-
 Alerts provide critical information to Veterans across VA.gov, and sometimes include a nested action link inside of them[^9]. One flaw of this format is that it is used across the site to communicate both system outages as well as user errors. Because of that, especially when visually impaired users arrive on a page with red alerts, users can immediately jump to thinking they made some kind of error due to the previous visual association[^10].
 
-
-###### “Why - what did I do wrong? For me, being visually impaired, trying to find what part of the form is filled out wrong is kind of difficult.” - P10
+> “Why - what did I do wrong? For me, being visually impaired, trying to find what part of the form is filled out wrong is kind of difficult.” - P10
 
 While alerts are helpful in getting user attention, the overuse of the component across the site has led to alert fatigue that leads users to skipping over reading the message. 
 
 
 ### Recommendations 
-
-
-
 1. Create a unique component to notify users of urgent, time-sensitive information will help them to understand what they need to take action on in their account.
 2. The language used in this new component should describe an active task that takes them to a detail page when they click it. 
 3. Ensure that this component always describes actions that the user must take rather than any kind of task that will be resolved by VA or the site itself. 
