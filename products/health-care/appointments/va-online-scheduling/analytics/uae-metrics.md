@@ -19,3 +19,7 @@
 
 - There's a reminder in #unified-appointment-experience in Slack at 9 a.m. ET on the 2nd of every month that the 7th of the month is approaching, which is when metrics are due and should be pulled on (because there's a lag in some data reporting)
 - There's a second reminder in #unified-appointment-experience in Slack at 9 a.m. ET on the 7th of every month letting UAE team members know that metrics are due to be populated in the spreadsheet before EOD
+  
+## Need help?
+
+- There is a Zoom recording for how to fill out the UAE Metrics spreadsheet. It is hosted on Zoom. Send a message to Ben Brasso, Steven Straily, or Alayna Abel to request access.
