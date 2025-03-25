@@ -14,6 +14,9 @@
 ## Endpoints
 - TBD
 
+## Scripts for debugging
+- https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/benefits/scripts/dependents
+
 ## Code Repository
 - [Vets-API](https://github.com/department-of-veterans-affairs/vets-api)
 - [Vets-Website](https://github.com/department-of-veterans-affairs/vets-website)
