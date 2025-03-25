@@ -15,8 +15,8 @@
 | 10-0403b | Medical Record Data Access List | https://www.va.gov/vaforms/medical/pdf/10-0403b.pdf |
 | 10-10GC | Application for Comprehensive Assistance for Family Caregivers Program | https://www.va.gov/find-forms/about-form-10-10cg/ |
 | 10-0137 | VA Advance Directive: Durable Power of Attorney for Health Care and Living Will | https://www.va.gov/find-forms/about-form-10-0137/ |
-| 10-10147a | Request for and Authorization to Release Protected Health Information to a VA Online Health Delegate  |  |
-| 10-10147b | Revocation of VA Online Health Delegate Electronic Access to Protected Health Information (PHI)  |  |
+| 10-10147a | Request for and Authorization to Release Protected Health Information to a VA Online Health Delegate  | currently explired |
+| 10-10147b | Revocation of VA Online Health Delegate Electronic Access to Protected Health Information (PHI)  | currently explired |
 | 10-5345 | Request for and Authorization to Release Health Information | https://www.va.gov/find-forms/about-form-10-5345/ |
 | 21-0972 | Alternate Signer Certification | https://www.va.gov/find-forms/about-form-21-0972/ |
 | 21-0845 | Authorization to Disclose Personal Information to a Third Party | https://www.va.gov/find-forms/about-form-21-0845/ |
