@@ -3,12 +3,8 @@
 **Contributor:** Steve Dickson  
 **Jira Ticket:** [SIT-105](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=12843&projectKey=SIT&view=detail&selectedIssue=SIT-105#)
 
----
-
 ## Situation  
 We’ve identified approximately 134,000 users with MHV credentials that are not correlating between the MHV and MPI datasets. The objective is to investigate these users to determine if they require migration to modern credentials (ID.me, Login.gov). This discrepancy impacts the data presented in the Domo SIT Dashboard and could affect future migration strategies for users.
-
----
 
 ## Findings  
 
