@@ -43,7 +43,6 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 
 
 ### Product artifacts
-- [Content source of truth - Figma All forms](https://www.figma.com/files/team/1278375444205744118/project/176170255?fuid=1240762209512275545)
 - Page/User flow
   - [SC](https://www.figma.com/design/2LGebZcUuu5Iqh4QLPII6A/Supplemental-Claims-(VA-0995)?node-id=0-1&p=f&t=U7MHBB8Ns7JpvYCh-0)
   - [HLR](https://www.figma.com/design/OxukHeNtSkCDbdmLxD5k9A/Higher-Level-Review-(VA-0996)?node-id=0-1&p=f&t=yACv2Dpvi8j4xYxV-0)
@@ -71,7 +70,14 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 - [NOD notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering)
 - [HLR notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/engineering)
 
-**Latest discovery research**
+**Design and Research**
+
+- [Content source of truth - Figma All forms](https://www.figma.com/files/team/1278375444205744118/project/176170255?fuid=1240762209512275545)
+- Research folders
+  - [SC](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Supplemental-Claims/Research)
+  - [HLR](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/higher-level-review/research)
+  - [NOD](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement/Research)
+- **Latest Research:** [Decision Reviews Onramp research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/research/decision-reviews-onramp-2025)
 
 **DR Team resources**
 
