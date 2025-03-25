@@ -85,6 +85,13 @@ body:
       value: |
         Please refer to the guidance on the [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff) page on Platform Website for detailed information and examples regarding these questions (below).
   - type: dropdown
+    id: intended-audience
+    attributes:
+      label: Who is the primary audience for this product?
+      options:
+        - "Individuals (Veterans, their caregivers, families, survivors, or representatives directly supporting a Veteran)"
+        - "Organizations (e.g., VA employees, contractors, representatives working in an organizational capacity, etc.)"
+  - type: dropdown
     id: visible-changes
     attributes:
       label: Will your work result in visible changes to the user experience?
