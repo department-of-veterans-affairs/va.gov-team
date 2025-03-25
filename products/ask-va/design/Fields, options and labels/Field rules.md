@@ -195,11 +195,12 @@ This question asks, 'Who is your question about?' and gives the options:
 - Someone else
 - A general question
 
-This page is hidden for education questions and:
+This question (page) is hidden for education questions and:
 - they are automatically set as a 'general question' in the payload
 - despite this, education questions continue down the 'Someone else' flow
 
 |If|Then|Unless|
 |:--|:--|:--|
-|Category = `Education benefits and work study` and topic ≠ `Veteran Readiness and Employment (Chapter 31)`|Hide 'Who is your question about'||
-|Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Hide 'Who is your question about'||
+|Category = `Education benefits and work study`|Hide 'Who is your question about' question|Topic = `Veteran Readiness and Employment (Chapter 31)`|
+|Category = `Benefits issues outside the U.S.`|Hide 'Who is your question about' question|Topic = `Disability compensation`|
+|All other categories|Ask 'Who is your question about'||
