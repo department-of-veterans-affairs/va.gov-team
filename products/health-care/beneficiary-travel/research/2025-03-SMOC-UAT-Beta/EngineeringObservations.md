@@ -66,7 +66,7 @@ This page documents technical issues observed during UAT Beta sessions.  Reach o
 
 - **Reason**: Missing appointment data from API. Looks to be the same as issue found with Participant 5
 
-- **Status**: Handed off to API team
+- **Status**: Reviewed by VA.gov team
 
 - **Notes**: Tim to talk to Base Team regarding plugin -> VistA authorization error
 
