@@ -29,15 +29,15 @@ This section documents the various UI elements and technical behavior of the Rec
 
 This section documents the user experience for tracking initial disability compensation claims in CST.
 
-### CST App Map (Depracated)
-
-An overview of the CST UI (past and present). This was meant to capture the old version of CST before the creation of CST V2. This can still be a helpful reference for finding older UI states or UIs that have not yet been updated (e.g. appeals). 
-
-[Link](https://www.figma.com/file/y27KDDtZLBDSVZmAjXdbJn/CST-App-Map?type=design&node-id=221-154&mode=design&t=s1fVDfk3xgl0BFe6-0)
-
 ### CST Mural Space 
 
 Mural boards for BMT design work and documentation. (Requires OKTA authentication)
 
 
 [Link](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=9e1456d1-4532-434c-b053-f7694afc5795)
+
+### CST App Map (Depracated)
+
+An overview of the CST UI (past and present). This was meant to capture the old version of CST before the creation of CST V2. This can still be a helpful reference for finding older UI states or UIs that have not yet been updated (e.g. appeals). 
+
+[Link](https://www.figma.com/file/y27KDDtZLBDSVZmAjXdbJn/CST-App-Map?type=design&node-id=221-154&mode=design&t=s1fVDfk3xgl0BFe6-0)
