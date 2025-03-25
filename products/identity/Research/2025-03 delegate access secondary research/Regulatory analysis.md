@@ -15,7 +15,7 @@ Privacy laws are especially concerned with how information can and can’t be sh
 
 * Privacy Act of 1974 (5 U.S.C. § 552a).   
   * requires consent by a veteran before the VA can share their personal information  
-* HIPPA   
+* HIPAA   
   * sets national standards for health related information  
   * requiring explicit consent by the patient in many cases before PHI may be given to anyone else.  
 * 38 U.S. Code § 5701(b)  
