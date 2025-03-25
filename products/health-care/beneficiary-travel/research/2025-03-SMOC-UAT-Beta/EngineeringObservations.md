@@ -64,7 +64,7 @@ This page documents technical issues observed during UAT Beta sessions.  Reach o
 
 - **Issue**: Failed submission
 
-- **Reason**: Missing appointment data from API. Looks to be the same as issue found with Participant 5
+- **Reason**: Missing appointment data from API. Logs show same errors as Participant 5.
 
 - **Status**: Reviewed by VA.gov team
 
