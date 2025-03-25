@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: March 13, 2025
+Last updated by @tygindraux: March 25, 2025
 
 This document is for our design team to communicate field rules. This list is alphabetical.
 
@@ -33,7 +33,13 @@ In the dashboard, TBC.
 
 ## Authentication required
 
-This is pulled from the inquiries endpoint so it's regularly updating. AVA Admins have the ability to change these rules at any point, without being part of a release.
+We require authentication if:
+- category or topic requires it
+- and/or if your question is about yourself or someone else
+
+We pull category and topic rules from the inquiries endpoint so it's regularly updating. Ask VA Admins have the ability to change these rules at any point, without being part of a release. If a user chooses a category or topic that requires sign in, they will be prompted to sign in to continue.
+
+We have fixed rules for who your question is about. If a user chooses 'myself' or 'someone else,' they will be prompted to sign in to continue.
 
 ## Branch of service
 
