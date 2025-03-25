@@ -1,4 +1,4 @@
-# Initiative outline: MHV user ID and password sign-in transition
+# Initiative outline: DS Logon retirement at VA
 
 **Last Updated: March 25, 2025 -- Samara created outline**
      
@@ -23,7 +23,7 @@ In July 2024, VA publicly announced its decision to retire the My HealtheVet use
 
 Between July 2024 and March 2025, VA engaged in an organization-wide campaign to migrate about 1M MHV users to Login.gov and ID.me. As of 3/6/2025, the MHV user ID and password option has been completely removed from VA web and mobile properties. 
 
-VA is now focusing on its effort to deprecate the DS Logon credential at VA after 9/30/2025.
+VA is now focusing on its effort to deprecate the DS Logon credential at VA after 9/30/2025. **DS Logon will remain in use at the Department of Defense**.
 
 ## User Problem Statement
 
