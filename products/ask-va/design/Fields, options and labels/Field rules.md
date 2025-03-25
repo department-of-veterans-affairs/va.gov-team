@@ -24,6 +24,7 @@ This document is for our design team to communicate field rules. This list is al
   - [State of property](#state-of-property)
   - [Subject field](#subject-field)
   - [Veteran Readiness and Employment (VR&E) information](#veteran-readiness-and-employment-vre-information)
+  - [Who is your question about](#who-is-your-question-about)
 
 ## Attachments
 
@@ -186,3 +187,19 @@ On the 'Your question' page, we include a subject field if it's an education-rel
 |Category = `Education benefits and work study` and topic ≠ `Veteran Readiness and Employment (Chapter 31)`|Don't include VR&E pages||
 |All other categories|Don't include VR&E pages||
 |If 'Yes' to `Have you/they ever applied for Veteran Readiness and Employment benefits and services?`|Require `Veteran Readiness and Employment counselor`|
+
+## Who is your question about
+
+This question asks, 'Who is your question about?' and gives the options:
+- Myself
+- Someone else
+- A general question
+
+This page is hidden for education questions and:
+- they are automatically set as a 'general question' in the payload
+- despite this, education questions continue down the 'Someone else' flow
+
+|If|Then|Unless|
+|:--|:--|:--|
+|Category = `Education benefits and work study` and topic ≠ `Veteran Readiness and Employment (Chapter 31)`|Hide 'Who is your question about'||
+|Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Hide 'Who is your question about'||
