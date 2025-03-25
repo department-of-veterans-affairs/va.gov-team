@@ -21,7 +21,7 @@ This page documents technical issues observed during UAT Beta sessions.  Reach o
 
 - **Reason**: Missing appointment data from API
 
-- **Status**: Handed off
+- **Status**: Handed off to API team
 
 - **Notes**: Tim to talk to Base Team regarding plugin -> VistA authorization error
 -----------------------
@@ -32,7 +32,7 @@ This page documents technical issues observed during UAT Beta sessions.  Reach o
 
 - **Reason**: Claim doesn't have a received date
 
-- **Status**: Handed off
+- **Status**: Handed off to API team
 
 - **Notes**: Claim failed a recently added rules engine feature
 -----------------------
@@ -43,7 +43,7 @@ This page documents technical issues observed during UAT Beta sessions.  Reach o
 
 - **Reason**: Failed attaching expense (500 from API)
 
-- **Status**: Handed off
+- **Status**: Handed off to API team
 
 - **Notes**: Failed attaching mileage expense due to missing home address geocodes.
 -----------------------
