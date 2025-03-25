@@ -29,12 +29,14 @@ VA is now focusing on its effort to deprecate the DS Logon credential at VA afte
 
 - As a Veteran, I need to be able to quickly and easily login to VA web properties to manage my health and benefits.
 - As a Veteran, I need to sign up for a Login.gov or ID.me account, having previously used the MHV or DSL credentials to login to VA web properties.
+- As a Veteran, I might need to occassionally sign into DoD websites.
 
 ## Business goals
 
 - Reduce the number of people using the My HealtheVet user ID and password to zero.
 - Improve security and reduce fraud risk by retiring the My HealtheVet user ID and password.
 - Simplify the VA sign-in experience by reducing supported credential service providers from four to two.
+- Maintain interoperability between DoD and VA so shared audiences don't have to maintain separate sign-in credentials.
 
 ## Project timeline
 
