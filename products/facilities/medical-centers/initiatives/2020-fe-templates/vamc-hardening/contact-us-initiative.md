@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# VAMC Contact Us Initiative Brief Template
 #### Overview
 
 The Contact Us page & information on VAMC pages is a pain-point for Veterans and their caregivers/family. Editors also encounter issues in the lack of reusable content and organization of the form(s) where they enter Contact Us information.
@@ -24,11 +24,13 @@ This initiative will address both the Veteran et al, and the editor experiences.
 ## Project Scope and Scale
 #### In scope:
 
+VaMC
 - Creation of reusable content
 - Governance
 - Expansion of the existing content model
 - Creation of new content types
 - Editorial experience considerations
+- Vetern experience considerations
 
 #### Out of scope:
 - Migration and change management (will be handled by the VAMC upgrade team)
