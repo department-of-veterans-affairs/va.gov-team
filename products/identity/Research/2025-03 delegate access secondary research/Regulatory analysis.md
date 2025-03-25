@@ -21,22 +21,22 @@ Privacy laws are especially concerned with how information can and can’t be sh
 * 38 U.S. Code § 5701(b)  
   * Considers a veteran’s claim and all supporting documents as confidential  
 * 45 CFR § 164  
-  * Requires certain safeguards and and information security measures around private and protected information
+  * Requires certain safeguards and information security measures around private and protected information
 
 ### Laws around delegates ###
-Laws around delegates are especially concerned with licensure and payments of professional delegates. Those with a personal relationship to a veteran are mentioned much less and with much less restrictions 
+Laws around delegates are especially concerned with licensure and payments of professional delegates. Those with a personal or informal relationship to a veteran are mentioned much less and with much less restrictions 
 
 * 38 U.S. Code § 5701(b)  
   * Allows for claims filings and supporting documentations to be released to a veteran’s representative  
 * Privacy Act of 1974, HIPPA, and others  
   * Mention personal agent or representative, acknowledging that in some cases someone other than the patient (or veteran) can have access to information after consent is given  
+* 38 U.S. Code § 7332  
+  * Allows for disclosure of medical records to representatives when a doctor (or health care provider) deems it necessary for informed consent 
 * 38 C.F.R   
-  * includes several sections describing how a veteran’s representative can be appointed for various VA benefits and claims  
+  * includes several sections describing how a veteran’s representative can be appointed for various VA benefits and claims actions
 * VA Fiduciary Program (38 U.S.C. § 5502, 5506-5510)  
   * Specifically defines fiduciary  
-  * Sets up some differences between financial representatives and healthcare representatives   
-* 38 U.S. Code § 7332  
-  * Allows for disclosure of medical records to representatives when a practitioner deems it necessary for informed consent  
+  * Sets up some soecific actions and requirements for a financial representatives    
 * 38 CFR 1.600–1.603  
   * Establishes policy and procedure around digital access for a delegate  
   * Notably this does not establish a right to electronic access  
@@ -44,7 +44,7 @@ Laws around delegates are especially concerned with licensure and payments of pr
   * Requires a representative to be able to submit an electronic request for records  
   * Notably, it does not require online access for managing care  
 * Creating Advanced Streamlined Electronic Services for Constituents (CASES) Act (Public Law 116-50)  
-  * Requires agencies to accept electronic forms for records consent
+  * Requires agencies to accept electronic forms for consent and record sharing
 
 States laws largely mirror federal requirements requiring privacy protections, and allowing delegate status. Similarly at the state level, delegate status sometimes requires opt-in consent by a patient, and sometimes doesn’t, like in the case where a legal proxy or guardianship is already established.  
 
