@@ -62,6 +62,8 @@ How might we create a heading structure on pages and forms that help everyone, p
 
 5/14/24
 
+Written by: @davidakennedy 
+
 ***
 
 ## Choose the right element: Buttons vs. links
@@ -138,6 +140,9 @@ Assistive technology users rely on proper semantics to access web content. They 
 
 5/14/24
 
+Written by: @davidakennedy
+Buttons vs. links flow chart by @jrfbz and @davidakennedy
+
 ***
 
 ## When to use ARIA
@@ -210,6 +215,8 @@ Another way to think about this through the lens of our work on VA.gov and assoc
 
 May 20, 2024
 
+Written by @davidakennedy
+
 ***
 
 ## Visually hidden link / button text best practices
@@ -281,6 +288,8 @@ To test, we used these apps:
 
 ### Last updated
 October 15, 2024
+
+Written by @coforma-jamie
 
 ***
 
