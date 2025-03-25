@@ -87,7 +87,7 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 
 **Team resources**
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/team.charter.md)
-- [Github Projects Board]
+- [Github Projects Board](https://github.com/orgs/department-of-veterans-affairs/projects/1549/views/3?filterQuery=design&visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C149737419%2C149737418%2C149737417%2C%22Labels%22%5D)
 - [Gap-Bet Scoring for Quarterly Planning]
 
 <br>
