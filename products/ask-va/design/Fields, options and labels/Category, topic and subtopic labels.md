@@ -2,9 +2,9 @@
 
 Last updated by @tygindraux: April 2, 2024
 
-This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)) and Laura Willwerth, Managing Editor of Sitewide Content (CAIA) for VA.gov.
+This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)) and Managing Editor of sitewide content for VA.gov.
 
-If you're on the Ask VA Integration team or have access, you can also see this [list in Google Sheets](https://docs.google.com/spreadsheets/d/1qRpAwE-OmISFzYsg4w3n8VlBsxJxkBAFZL21AWDXFKc/edit#gid=0) too.
+We pull category, topic and subtopic lists form CRM so it automatically updates if any changes are made.
 
 ## All categories
 
