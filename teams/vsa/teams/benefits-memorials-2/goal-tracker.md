@@ -35,15 +35,15 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Finalize Medallia analytics data reports to run to inform satisfaction metrics| FY25Q2 QP4 |--| -- | -- |
 |ENG: Initial PR submitted for VA notify callback | QP1 |--|--|--|
 |ENG: Address the “must” accessibility feedback for the Once VA Debt Letter | QP2 |--|--|--|
-|ENG: Restart DD work in preparation for Q3 priorities | QP3 |--|--|--|
-|ENG: Updates to FSR based off veteran feedback | QPX |--|--|--|
+|ENG: Restart Digital Dispute work in preparation for Q3 priorities | QP3 |--|--|--|
+|ENG: Updates to FSR based off veteran feedback such as Removal of $70K limit to retirement funds | QPX |--|--|--|
 |ENG: Continue Josh’s access to critical systems and onboarding tasks | QPX |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (03/24/25)
  - [X] VA PO & COR sent the Sprint Goals (03/24/25)
- - [ ] VA PO approved the Sprint Goals (03/xx/25)
- - [ ] VA COR approved the Sprint Goals (03/xx/25)
+ - [X] VA PO approved the Sprint Goals (03/25/25)
+ - [X] VA COR approved the Sprint Goals (03/25/25)
  
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
