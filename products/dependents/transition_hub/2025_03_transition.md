@@ -41,7 +41,7 @@ Make the online dependent experience as easy to complete and cohesive as possibl
 - [Production link](https://www.va.gov/view-change-dependents/add-remove-form-21-686c-v2/introduction)
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/README.md)
-- Product Guide/Contact Center Guide
+- [Product Guide/Contact Center Guide](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Dependents%20Management/Documentation/Dependents.Product.Guide_2025.docx?d=w4f2f8ce3a97240938b1389ae427d14a6&csf=1&web=1&e=1JaSg6) (sharepoint)
 
 #### 21-0538 Mandatory Verification of Dependents Tool
 This tool is in the design stage and the 0538 form currenly only exists as a paper form.
@@ -62,7 +62,6 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 
 ### Design artifacts
 - Design [readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/design/README.md)
-- Content source of truth
 - [Page/User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1687976281975/2a9c6ca9ea6d955afa7977c777bbb72b15280903?sender=u934f98f179a86c76e6ee9592)
 - [Wireframes and page designs](https://www.figma.com/file/7W55oNwdVXvXOTI9SaFzQ7/686c-Add-or-Remove-Dependents?type=design&node-id=8-9&mode=design&t=kcdjZspxOR8ocdvT-0)
 - Staging users
@@ -105,7 +104,7 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 ## Roadmap
 ### Done (recently)
 - Updated form flow to produce Aug 2022 version of pdf on Aug 13, 2024.
-- Send [674-only claims from VA.gov directly to RBPS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97875) rather than flagging them for manual processing.
+- Send [674-only claims from VA.gov directly to RBPS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97875) rather than flagging them for manual processing on March 21, 2025.
 - Completed concept testing for the [MVP prototype](https://www.figma.com/design/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?node-id=59-960&t=yWIz3IUP2uFChYib-0) of dependent verification tool. Intent is to capture “no changes to dependents” through an online tool on VA.gov and submit a 21-0538 (dependent verification) form on the Veteran’s behalf.
 - [Met with CAIA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84170) in January 2025 to discuss [IA of dependent experience](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=91-1737736233308) and [improvement opportunities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=522-1737736233308).
 
