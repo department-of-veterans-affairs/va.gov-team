@@ -1,6 +1,7 @@
 # Active debt deduction & diary codes
 
 ## Current list of deduction codes in the Combined Debt Portal
+These codes are used to determine the type of debt being displayed (or filtered out)
 
 ### Source:
 - Relative vets-website path: `src/applications/combined-debt-portal/debt-letters/const/deduction-codes/index.js`
@@ -40,11 +41,24 @@ export const deductionCodes = Object.freeze({
 ```
 
 ## Current list of diary codes in the Combined Debt Portal
+These are all the values in the switch statement that handle debt summary text
 
 ### Source:
 - Relative vets-website path: `src/applications/combined-debt-portal/debt-letters/const/diary-codes/debtSummaryCardContent.js`
 - [vets-website main branch link](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/combined-debt-portal/debt-letters/const/diary-codes/debtSummaryCardContent.js)
 
 ```
-[ 2, 5, 26, 49, 53, 56, 71, 80, 100, 101, 102, 109, 117, 123, 130, 140, 212, 321, 400, 420, 421, 422, 425, 430, 431, 439, 440, 442, 448, 449, 450, 453, 459, 481, 482, 483, 484, 500, 503, 510, 600, 601, 602, 603, 607, 608, 609, 610, 611, 613, 614, 615, 617, 627, 655, 680, 681, 682, 801, 802, 803, 804, 809, 811, 815, 816, 817, 820, 821, 822, 825, 850, 852, 855, 860]
+[
+  2, 5, 26, 49, 53, 56, 71, 80, 100,
+  101, 102, 109, 117, 123, 130, 140,
+  212, 321, 400, 420, 421, 422, 425,
+  430, 431, 439, 440, 442, 448, 449,
+  450, 453, 459, 481, 482, 483, 484,
+  500, 503, 510, 600, 601, 602, 603,
+  607, 608, 609, 610, 611, 613, 614,
+  615, 617, 627, 655, 680, 681, 682,
+  801, 802, 803, 804, 809, 811, 815,
+  816, 817, 820, 821, 822, 825, 850,
+  852, 855, 860
+]
 ```
