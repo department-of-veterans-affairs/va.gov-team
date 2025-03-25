@@ -1,7 +1,7 @@
 # VA.gov Site Search Monitoring
 
 ## Table of Contents
-1. [Search.gov health](#Search.gov-health)
+1. [Search.gov health](#searchgov-health)
 2. [DataDog Monitoring](#datadog-monitoring)
    - [Search.gov is Down](#searchgov-is-down) - Monitors critical errors affecting Search.gov, including forward proxy failures and API issues.
    - [VA.gov Might Be Experiencing Abnormal Usage Patterns](#vagov-might-be-experiencing-abnormal-usage-patterns) - Tracks unusually low usage patterns that may indicate underlying system problems.
