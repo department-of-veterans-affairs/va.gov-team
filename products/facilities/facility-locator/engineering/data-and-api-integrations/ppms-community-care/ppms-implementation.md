@@ -132,16 +132,11 @@ Alternative
   
 Max suggested if you make changes to vets-api models write down what you're changing and what you need from the data so that you can repeat steps and recover changes.
 
-### PPMS is making a change to their API (when??)
-TODO: 2023-12-28: IS the below still real?  VCR TAPES?? We have not heard anything about this at the present 3/25/25
+### PPMS is making a change to their API (when??) - no news as of 3/25/25
 
 #### How to update the VCR tapes
-  SSH into a staging box, make note of the internal IP Address. As a non root user run the `vcr.rb` script with the `-R` record flag. It will create the vcr tapes and copy them into the `/tmp` directory of the staging box.
-
-  After the script has finished running run the same script with the `-D` download flag, it takes the IP Address as an argument. The script will then download the the vcr tapes into the current directory with the following naming convention: `#{datestamp}-#{offset}-ppms.yml` I found that keeping the tapes so you can compare the results was helpfull when trying to track down a change.
-
-  Once you have the vcr tape downloaded to you machine copy it into the `vets-api` repo and replace the current script. You can then run the `rspec` test suite and fix any issues due to the data changes.
   
+Generally to update the VCR tape it is beneficial to run the rspec for the facilities_api module. You can do this locally with `make rspec` after you have deleted the tape for the module. However, this is difficult because you also need to make sure port forwarding is already running in order to have requests made to PPMS. This is manageable, but not the primary debugging method.
 
 ### Requests to PPMS are Failing
   PPMS Requests are failing, You might notice then when monitoring Datadog. These can be difficult to troubleshoot. You need to recreate the request and run it from a dev/staging box. Remember to get the API keys from `ParameterStore`. You can use the `vcr.rb` script to make some requests to PPMS and the bodies should help point you to the problem.
