@@ -46,4 +46,15 @@ This page documents technical issues observed during UAT Beta sessions.  Reach o
 - **Status**: Handed off
 
 - **Notes**: Failed attaching mileage expense due to missing home address geocodes.
+-----------------------
+
+### Participant 12
+
+- **Issue**: Link to SMOC on appointment more than 30 days old
+
+- **Reason**: Logic around showing the link did not include a 30 days check
+
+- **Status**: Handed off to check in team
+
+- **Notes**: On the Intro page it did show an alert informing the user that they could not file for that appointment.
 
