@@ -58,3 +58,15 @@ This page documents technical issues observed during UAT Beta sessions.  Reach o
 
 - **Notes**: On the Intro page it did show an alert informing the user that they could not file for that appointment.
 
+-----------------------
+
+### Participant 14
+
+- **Issue**: Failed submission
+
+- **Reason**: Missing appointment data from API. Looks to be the same as issue found with Participant 5
+
+- **Status**: Handed off to API team
+
+- **Notes**: Tim to talk to Base Team regarding plugin -> VistA authorization error
+
