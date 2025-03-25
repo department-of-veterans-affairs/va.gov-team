@@ -1,4 +1,4 @@
-# Release Plan: Appoint a Representative 2.0 (digital submission pilot)
+# Release Plan: Appoint a Representative 2.0 (Online Submission)
 
 Feature Toggle/flag:
 `appoint_a_representative_enable_v2_features` will be disabled prior to staged rollout and will be enabled as part of the 2.0 rollout. 
@@ -35,7 +35,7 @@ On March 24, 2025 we had a second Go/No Go call with ARF and Lighthouse to retes
 
 #### Technical Preparation
 The following will take place right before Staged Rollout:
-- [x] Enable digital submissions for Connecticut Department of Veterans Affairs in Production [#101542](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101542)
+- [x] Enable online submissions for Connecticut Department of Veterans Affairs in Production [#101542](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101542)
 - [x] Enable Appoint v2 email notifications in VA Notify Production [#101050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101050)
 - [x] Email notification for POA acceptance is ready in Production (Confirm with Lighthouse)
 
