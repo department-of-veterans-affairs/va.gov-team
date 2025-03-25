@@ -85,7 +85,7 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 - [Dependency Verification Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research/2025-02-dependents-verification-mvp-research)
 
 ### Analytics dashboard:
-- Domo (none)
+- Domo (none), [general forms dashboard](https://va-gov.domo.com/page/447193050)
 - Google Analytics (none)
 - [Backend Stats on DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/vad-969-xqc/benefits-dependents-686674?fromUser=false&refresh_mode=sliding&from_ts=1729703196402&to_ts=1737479196402&live=true)
 - [Backend monitoring](https://vagov.ddog-gov.com/monitors/manage?q=dependent&order=desc)
@@ -126,7 +126,7 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 ### Next
 - Test pension-related [income questions and API](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1524). This would enable RBPS to process pension-related dependency claims automatically (right now they're off-ramped for manual review).
 - [Prevent multiple EPs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25030). When a 686 and 674 claim are submitted at the same time, VA.gov generates two EPs, which then have to be manually merged downstream.
-- Code modularization
+- Code modularization (no tickets yet)
 - Auto fill spouse and dependent information ([discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102343))
 - Determine why submission and saved dates do not match MyVA. ([submission date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101056) and [saved date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101040))
 - Work with Infrastructure and Arcitecture team to [improve findability of forms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102744) (initial AI work in [GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/verify-dependents.md) and [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689863079145/5b97ba9ea11077f983f3413167f6324f11aa04a8))
@@ -138,7 +138,7 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 - Work with MyVA to update the [status card](https://design.va.gov/patterns/help-users-to/stay-informed-of-their-application-status#status-in-myva) shown to claimants as part of the Zero Silent Failure initiative.
 - Integrate dependent management into the MyVA profile experience. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102346))
 - Integrate dependent parent form (21-509) into 686/674 form flow on VA.gov. ([discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102348))
-- Expand functionality of dependency verification tool (21-0538) to capture "yes, I have changes to my dependents)
+- Expand functionality of dependency verification tool (21-0538) to capture "yes, I have changes to my dependents). (No existing tickets, but there is a [general milestone](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1409).)
 - Explore reminders for life events ([discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102351))
 
 
@@ -186,6 +186,8 @@ This table includes links to the individual feature directory and the latest ite
 |Kayce White|Program Analyst|Compensation Services|Kayce.White@va.gov|SME on form pdfs. Manages the pdf forms. Makes updates to the pdfs, fixes fields and formatting.|
 |Linda Ciston|Contractor|RBPS|linda.ciston@va.gov |RBPS expert, retired from VA, but still works limited hours.|
 |Bahaeddin (Baha) Abukhaled|Contractor|RBPS |BahaEddin.AbuKhaled@va.gov | Linda’s replacement. RBPS SME.|
+|I. Tara L.|Program Analyst|OBI|tara.i@va.gov|Project Manager of sorts. Organizes testing with OBI/RBPS resources.|
+|Elizabeth Reeher|Contractor||elizabeth.reeher@va.gov|Project manager|
 |Yvette Allmond|Management Analyst|Office of Mission Support|yvette.allmond@va.gov | Source for providing unlocked pdf files that can be edited by VA.gov.|
 
 #### Reoccuring Stakeholders Meetings
