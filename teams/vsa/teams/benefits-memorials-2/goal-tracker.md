@@ -135,7 +135,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 | UX: Analyze VHA Payment History stakeholder and SME feedback survey and share with Government PO |QP3|--|03/20/25|Completed|
-| UX: Medallia, CSAT, and KPI discovery and alignment (part 2)|QP4|03/25/25|Completed|
+| UX: Medallia, CSAT, and KPI discovery and alignment (part 2)|QP4|--|03/25/25| Completed
 | UX: Create final retrospective report for Custom Survey Medallia feedback|QP4|--|03/25/25|Completed|
 | UX: Improve FSR questions comprehension by providing improvements, based on Veteran feedback (mockups only to share with SMEs)|N/A|--|03/25/25|Completed|
 | ENG: Complete the API integration to populate the Copay and debt data on the one VA Debt Letter | QP1 |--|03/17/25|Completed|
