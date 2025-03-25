@@ -139,7 +139,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | UX: Create final retrospective report for Custom Survey Medallia feedback|QP4|--|03/25/25|Completed|
 | UX: Improve FSR questions comprehension by providing improvements, based on Veteran feedback (mockups only to share with SMEs)|N/A|--|03/25/25|Completed|
 | ENG: Complete the API integration to populate the Copay and debt data on the one VA Debt Letter | QP1 |--|03/17/25|Completed|
-| ENG: Complete the analysis of the One debt letter accessibility and define the approach  | QP1 |--|--|--|
+| ENG: Complete the analysis of the One debt letter accessibility and define the approach  | QP1 |--|03/25/25|Completed|
 | ENG: Complete the Debt Resolve Page updates in staging and PR submitted  | N/A |--|03/24/25|Completed|
 | ENG: Research and resolve all bugs that were moved into or discovered in the sprint | N/A |--|-03/25/25|Completed|
 | ENG: Establish Silent Failure email communication for failed FSR submissions | N/A |--|03/24/25|Completed|
