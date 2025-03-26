@@ -61,4 +61,4 @@ The team is still working on the destruction action experience as they continue 
     - https://github.com/department-of-veterans-affairs/va.gov-team/issues/96761
     - https://github.com/department-of-veterans-affairs/va.gov-team/issues/96760
   - Node Upgrade (Platform wide initiative)	https://github.com/department-of-veterans-affairs/va.gov-team/issues/105975
-  - Frontend CoP will be updating Cypress Axe with the following rules
+  - [A11Y Bugs that need fixing to meet the Frontend CoP Cypress Axe new rules](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106091)
