@@ -106,7 +106,7 @@ Alex Seelig, 3.21.2025
 ## Launch Planning
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
-- We 
+- We are debating either launching at 100%, or doing an A/B testing style launch with the existing flow.
 - Kickoff ticket
 
 ### Timeline 
