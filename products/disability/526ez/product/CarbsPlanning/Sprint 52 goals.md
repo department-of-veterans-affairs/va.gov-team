@@ -22,11 +22,11 @@
 
 - Kyle Soskin
     - 0781 paper sync
-     - QA3 - Traceability Reports
-     - QA4 - E2E Test Participation
-     - QA5- Unit Test Coverage
-     - QA6 - Endpoint Monitoring
-     - QA7 - Logging Silent Failures
+       - QA3 - Traceability Reports
+       - QA4 - E2E Test Participation
+       - QA5- Unit Test Coverage
+       - QA6 - Endpoint Monitoring
+       - QA7 - Logging Silent Failures
        
 - Team TRex support on 0781 
   - Bug - A11Y focus for the Event list message for number of events
