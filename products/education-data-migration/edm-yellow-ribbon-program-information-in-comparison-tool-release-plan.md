@@ -208,13 +208,9 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ***1-week results***
 
-•	Number of unique users: [FILL_IN]
+•	Number of unique users: Per Datadog **
 
-•	Post-launch KPI 1 actual: [FILL_IN]
-
-•	Post-launch KPI 2 actual: [FILL_IN]
-
-•	Post-launch KPI 3 actual: [FILL_IN]
+•	Post-launch KPI 1 actual: **
 
 •	Any issues with VA handling/processing?: [PICK_ONE]: yes | no | N/A
 
