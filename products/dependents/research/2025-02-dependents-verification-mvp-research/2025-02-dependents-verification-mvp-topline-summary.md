@@ -40,11 +40,16 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **Recommendation #1: Provide adequate context around dependent verification's connection to the 8-year Mandatory Verification of Dependents at key touch points on VA.gov and in other VA communications.**
 
-**Finding #2**
+**Finding #2: There are opportunities to improve the findability of dependent verification specifically and dependent management in general, both in the short-term (MVP launch) and long-term.**
 
-- More details on Finding #2
-- These details could be key words, actions, or test outcomes
-> Quote (if relevant)
+- Findability of the the MVP experience was a big concern for us leading up to the study, so we engaged the Content & IA Centralized Team in a findability exploration that resulted in several [recommended improvements](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717521751866/127cbff63df95bedf011a5463797989197bc069d?sender=u859fac93c61da901b7914439) for the dependent verification MVP. 
+- These concerns were validated by our findings, including that most participants expected to find tools to manage their dependents either under the main benefits menu on VA.gov (4) or a hub like MyVA (3).
+  - While you can find a link that leads to the dependent verification MVP under the main benefits menu, only one participant was able to locate that link.
+  - Other participants expected to find dependent management tools via the authenticated menu (2), VA.gov search (1) and the Top Links section on VA.gov home (1).
+
+**Recommendation 2: Implement recommendations from our findability exploration that were validated by the study.**
+- For MVP launch, include context around verification at key touch points and cross-link pathways.
+- Later, re-examine how dependent management is positioned on VA.gov's information architecture. 
 
 **Finding #3**
 - More details on Finding #3
