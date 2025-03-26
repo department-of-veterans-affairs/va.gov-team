@@ -29,11 +29,16 @@
        - QA6 - Endpoint Monitoring
        - QA7 - Logging Silent Failures
        
-- Team TRex support on 0781 
-  - Bug - A11Y focus for the Event list message for number of events
-  - Data transform for data that should be removed
-  - Reporting
-  - Bug - Selecting both claim types does not direct the user down the new flow	
+- Team TRex
+  - 0781 
+    - Bug - A11Y focus for the Event list message for number of events
+    - Data transform for data that should be removed
+    - Reporting
+    - Bug - Selecting both claim types does not direct the user down the new flow
+
+ - Tech debt
+  - A11Y Bugs that need fixing to meet the Frontend CoP Cypress Axe new rules
+    
 
 - Work not planned - _This is work the team will pick up if capacity permits_
   - Review & Submit - Behavior list destructive action modal	
@@ -61,4 +66,4 @@ The team is still working on the destruction action experience as they continue 
     - https://github.com/department-of-veterans-affairs/va.gov-team/issues/96761
     - https://github.com/department-of-veterans-affairs/va.gov-team/issues/96760
   - Node Upgrade (Platform wide initiative)	https://github.com/department-of-veterans-affairs/va.gov-team/issues/105975
-  - [A11Y Bugs that need fixing to meet the Frontend CoP Cypress Axe new rules](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106091)
+
