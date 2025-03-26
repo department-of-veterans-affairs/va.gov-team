@@ -9,39 +9,37 @@
   - Nathan Burgess
     - 0781 Paper Sync
       - Behavior combat intro [3.11] destructive action modal
+      - Review & Submit - Behavior combat intro destructive action modal	
    
   - JR
     - 0781 Paper Sync
-      -  Modal - Opt out of 0781 destructive action modal (for 0781 choice page only)
-
+      - Modal - Opt out of 0781 destructive action modal (for 0781 choice page only)
+      - Modal - Opt out of 0781 file upload destructive modal	
          
  - Scott Regenthal
     - 0781 paper sync
-      - Traumatic events Official Report destructive action modal
-
+      - Traumatic events Official Report destructive action modal 
 
 - Kyle Soskin
     - 0781 paper sync
-     - Test plan	
-   - Watch officer
-     - April benefits-disability-notifications alerts watch - week 3 (14-18th)
-     - April benefits-disability-notifications alerts watch - week 4 (28-30th)	
-
+     - QA3 - Traceability Reports
+     - QA4 - E2E Test Participation
+     - QA5- Unit Test Coverage
+     - QA6 - Endpoint Monitoring
+     - QA7 - Logging Silent Failures
+       
 - Team TRex support on 0781 
-
+  - Bug - A11Y focus for the Event list message for number of events
+  - Data transform for data that should be removed
+  - Reporting
+  - Bug - Selecting both claim types does not direct the user down the new flow	
 
 - Work not planned - _This is work the team will pick up if capacity permits_
-  - Opt out of 0781 file upload destructive modal	
   - Review & Submit - Behavior list destructive action modal	
   - Review and Submit - Traumatic events Official Report destructive action modal	
-  - Review & Submit - Behavior combat intro destructive action modal	
   - Review & Submit - Opt out of 0781 destructive action modals
-  - Review & Submit -  opt out of 0781 file upload destructive modal	
-  - Backup path for new 0781 - TBD if needs to be done	
-  - Bug - A11Y focus for the Event list message for number of events	
-
-These were tasks we asked if Team TRex could help support if they have capacity
-
+  - Review & Submit -  opt out of 0781 file upload destructive modal
+  - Modal - Types of traumatic events destructive action
 
 
 ## Research and Design
@@ -49,13 +47,8 @@ These were tasks we asked if Team TRex could help support if they have capacity
 
 
 ## Sumary
-Our first priority and main goals this sprint is to get the destructive modals done. We have to complete the modals on the main pages first. Then we'll be able to determine if those modals can be used in Review and Sbumit or if we'll have additonal work to do to customize the Review and Submit options. 
-Hopefully once the modals are done there won't be any additional changes. That will conclude the UI work needed for the 0781 paper sync. There may be more schema tweaks that are necessary (a couple that Team TRex is taking on), but testing frontend and backend for end-to-end testing would be next. 
-Production readiness tasks are on their way. We'll have a draft release plan and calendar and hope to have some of our staging review prep work done as well. 
+The team is still working on the destruction action experience as they continue to find compoenent issues that slow the work down. Most of the previous ticket modal and delete dataq pieces are done, it's the confirmation message that the team is trying to solution for next. They are going to do some more discovery and working with VFF leads to help solve the problem with the placement of the confirmation message. The team hopes that if they get unblocked on the confirmation message that they will be able to move on to the destructive action work on Review and Submit. That leaves one destuction action that still needs to be done that is unplanned at this time. 
 
-We are also doing the March benefits-disability-notifications alerts watch. Any new issues may decrease capacity on 0781 depending on the severity. We'll keep the communication going and making sure that OCTO is aware of any impacts this additional work will have on our delivery.
-
-Implement VA Notify callbacks for silent failure emails and update your silent failure logging accordingly was deemed a priority, and Team TRex believes they can plan it. Team Carbs may have to support this effort. We hope that this will be minimal as it would impact completing our work on 0781.
 
 [Roadmap for Disability Benefits (DBEX) Team 2 (Carbs)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?wid=0-1728398176278)
 
