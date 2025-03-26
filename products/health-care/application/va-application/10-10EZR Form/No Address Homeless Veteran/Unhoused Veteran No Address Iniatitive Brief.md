@@ -26,15 +26,18 @@ Alex Seelig, 3/26/2025
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+* Adding the ability for Veterans who do not have a home address to indicate that and have their Preffered Facility address be added to their record.
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
+- Veterans who do not have an address, or do not wish to provide one, cannot currently fill out the 10-10EZR without having to provide an address. 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
+- Veterans need a home address to complete a 1010EZR and in some cases, maintain their healthcare without copays.
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
+- 
 * How does this initiative help further OCTO-DE's mission and goals?
 
 <!--
