@@ -73,6 +73,7 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 **Design and Research**
 
 - [Content source of truth - Figma All forms](https://www.figma.com/files/team/1278375444205744118/project/176170255?fuid=1240762209512275545)
+- [Decision Reviews Mural boards](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=0583ef8a-a5f7-408c-a7c1-5f14311a73cf)
 - Research folders
   - [SC](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Supplemental-Claims/Research)
   - [HLR](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/higher-level-review/research)
