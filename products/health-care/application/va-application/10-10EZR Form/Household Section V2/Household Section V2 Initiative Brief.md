@@ -86,15 +86,17 @@ Alex Seelig, 3.21.2025
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Will this increase the time burden on Veterans for the EZR?
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+  - Will this increase the time burden on Veterans for the EZR and thus go against the stated aim of making things faster for Veterans?
+  - Will this improve data integrity within VHA systems?
+ 
 
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
-- 
+- Change Dependent, Spouse, and Financial sections of the Household section to utilize the List&Loop pattern and allow Veterans to view their information and edit it as needed. Adding prefill to the household section.
 > *What have you explicitly decided to **not** include and why?*
+- Any section outside of the Household section. Anything outside of transitioning to List&Loop. 
 > *How does this solution address your Assumptions & Risks?
+- We believe that fewer screens and presenting information up front will both reduce the time burden for Veterans and improve data integrity for VHA. 
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
