@@ -18,7 +18,8 @@
          
  - Scott Regenthal
     - 0781 paper sync
-      - Traumatic events Official Report destructive action modal 
+      - Traumatic events Official Report destructive action modal
+      - Types of traumatic events destructive action modal
 
 - Kyle Soskin
     - 0781 paper sync
@@ -39,15 +40,15 @@
   - Review and Submit - Traumatic events Official Report destructive action modal	
   - Review & Submit - Opt out of 0781 destructive action modals
   - Review & Submit -  opt out of 0781 file upload destructive modal
-  - Modal - Types of traumatic events destructive action
+
 
 
 ## Research and Design
 [Sprint 52 Goals](https://dsva.slack.com/docs/T03FECE8V/F07N6EH4EUE)
 
 
-## Sumary
-The team is still working on the destruction action experience as they continue to find compoenent issues that slow the work down. Most of the previous ticket modal and delete dataq pieces are done, it's the confirmation message that the team is trying to solution for next. They are going to do some more discovery and working with VFF leads to help solve the problem with the placement of the confirmation message. The team hopes that if they get unblocked on the confirmation message that they will be able to move on to the destructive action work on Review and Submit. That leaves one destuction action that still needs to be done that is unplanned at this time. 
+## Summary
+The team is still working on the destruction action experience as they continue to find compoenent issues that slow the work down. Most of the previous ticket modal and delete data pieces are done, it's the confirmation message that the team is trying to solution for next. They are going to do some more discovery and working with VFF leads to help solve the problem with the placement of the confirmation message. The team hopes that if they get unblocked on the confirmation message that they will be able to move on to the destructive action work on Review and Submit. That leaves one destuction action that still needs to be done that is unplanned at this time. 
 
 
 [Roadmap for Disability Benefits (DBEX) Team 2 (Carbs)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?wid=0-1728398176278)
@@ -55,7 +56,7 @@ The team is still working on the destruction action experience as they continue 
 [DBEX Carbs 2024 VA Disability 526 - Current sprint board](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/9)
 
 ## Notes
-- Tech debt for platform compliance that has not been prioritiezed yet:
+- Tech debt for platform compliance that has not been prioritized yet:
   - Disability apps' compliance with the Front-end deployment pipeline changes for vets-website (Shedule to be due Feb 3, 2025) 
     - https://github.com/department-of-veterans-affairs/va.gov-team/issues/96761
     - https://github.com/department-of-veterans-affairs/va.gov-team/issues/96760
