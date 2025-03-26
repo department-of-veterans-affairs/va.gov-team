@@ -53,15 +53,32 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **Finding #3: Some participants (2 of 7) were caused significant confusion when reviewing the "Dependents on your VA benefits" and "Dependents not on your VA benefits" sections on Your VA Dependents.**
 - Veteran's dependents are displayed in 2 sections on Your VA Dependents with the following headers and descriptions:
-  - <Dependents on your VA benefits: These dependents are on your VA benefits. You can update these dependents any time.>
-  - <Dependents not on your VA benefits: These dependents aren't on your VA benefits. They may not be eligible or we may need to determine their dependent status. You can update these dependents any time.> 
-- These details could be key words, actions, or test outcomes
-> Quote (if relevant)
+  - Dependents on your VA benefits: These dependents are on your VA benefits. You can update these dependents any time.
+  - Dependents not on your VA benefits: These dependents aren't on your VA benefits. They may not be eligible or we may need to determine their dependent status. You can update these dependents any time.
+- One of these two shared that they would stop their progress and call the VA to confirm no mistakes had been made.
+- Another was confused about why they were being shown dependents not on their benefits or why they were still referred to as "Dependents" if they were not eligible to be on the participant's benefits.
 
-**Finding #4**
-- More details on Finding #4
-- These details could be key words, actions, or test outcomes
-> Quote (if relevant)
+> "There's no way to know why this dependent is not on your benefits." (P6)
+
+**Recommendation #3: Enrich dependent cards with clarifying information.**
+- Dependent cards can be enriched with information like why a dependent is not on your benefits, date of removal, type of benefit the dependent is or was on, links out to eligibility information and next steps, etc. 
+
+**Finding #4: All of the participants prompted with the need to correct personal information for their existing dependents (6 of 6) incorrectly chose to do so via the "Yes: Update" option.**
+- For this scenario, we asked participants what they would do if they noticed that the name, date of birth, or social security number of one of their dependents was incorrect.
+  - This is from the first step in the dependent verification MVP form, where Veterans are asked to review their dependents. The screen includes:
+    - The info cards of the dependents on the Veteran's VA benefits
+    - A note instructing Veterans to call the VA if they need to make changes to the personal information for the dependents on their VA benefits
+    - The key decision point for the verification MVP that asks "Do you need to update any of the dependents on your VA benefits?" and the two options for answers:
+      - "Yes: Update dependents with the online tool to add or remove dependents on your VA benefits (VA Forms 21-686c and 21-674)."
+      - "No: Review and certify the information we’re submitting on your behalf for your verification of dependents (VA Form 21-0538)."
+- This caused some confusion for participants who followed that path and saw only language to "add or remove" dependents.
+- None of the prompted participants read the note regarding the need to call the VA.
+- Despite this confusion, participants who were prompted with the happy path (needing to verify or add or remove a dependent) were able to correctly interpret the MVP key decision point. 
+
+> "Update and edit is pretty much the same thing." (P3)
+**Recommendation #4: Break up information on this page to improve readability and comprehension.**
+- [Go to suggested flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1743019561703)
+
 
 **Finding #5**
 - More details on Finding #5
