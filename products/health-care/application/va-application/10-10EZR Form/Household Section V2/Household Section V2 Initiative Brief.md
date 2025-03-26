@@ -100,13 +100,13 @@ Alex Seelig, 3.21.2025
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-
+- Just the 1010 team and our POs Patrick Bateman, Amanda Klausmeier, and Jina Ryu. 
 --- 
 
 ## Launch Planning
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
-
+- We 
 - Kickoff ticket
 
 ### Timeline 
