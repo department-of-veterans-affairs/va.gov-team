@@ -4,7 +4,7 @@
 
 Caregivers are given permission by Veterans to manage the care or personal affairs of Veterans.  In order to understand the digital needs, we are having preliminary conversations with caregivers who we have identified through our immediate team (since they are difficult to get ahold of).
 
-* [product info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/delegate-access)
+* [product info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/delegate-access%20#initiative-outline-delegate-access-mvp)
 
 ### **OCTO Identity Crew Objectives**
 
@@ -26,7 +26,7 @@ Learn about the process of how caregivers are able to complete various tasks and
 
 ### **Research questions**
 
-- How is a guardian currently authorized and designated as a caregiver?    
+- How is a delegate currently authorized and designated as a caregiver?    
 - What forms and processes must a caregiver and Veteran follow in order to start the process?
 - How might a Veteran assign permissions for a caregiver?  For what period of time is the designation active? 
 - Is there an offboarding process as well?  
@@ -44,7 +44,8 @@ Learn about the process of how caregivers are able to complete various tasks and
   
 ## **Methodology**
 
-Interview caregivers who have completed various actions on behalf of Veterans.
+- Interview caregivers who have completed various actions on behalf of Veterans.
+- Interview VA personnel who help establish guardian access
 
 ### **Research materials**
 
