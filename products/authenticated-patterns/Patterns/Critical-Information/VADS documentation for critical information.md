@@ -9,7 +9,7 @@ The Critical information component is used to highlight important and/or time-se
   <tr>
    <td>Open Issues
    </td>
-   <td>Research [Add link soon]
+   <td><a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/Critical-Information/Desk%20research%20report.md">Research</a>  
    </td>
    <td><a href="https://www.figma.com/design/UOx5GSKdZW9GVAjy7078hT/AEDP---Critical-Information?node-id=2-129&t=wkfhJB4eXXQAgeV2-1">Figma</a> [Use our file for now; Design System will adjust it later]
    </td>
