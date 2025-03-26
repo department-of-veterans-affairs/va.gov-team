@@ -22,7 +22,7 @@ Lynn Stahl - Product Manager
 
 ### About the pattern
 
-A variety of products across the VA.gov ecosystem have some kind of important information that needs to be communicated to users regarding time-sensitive tasks. Currently this need is filled by a variety of existing components, such as variations of the action link and alerts. However, many action links do not actually take users to an active task, and alerts are overused across the site, leading to alert fatigue reported across many different studies. This calls for the creation of a new component that is a unique object notifying users that an action is needed in a time-sensitive manner. This will surface the most important information on a page to the users first, making it easier for Veterans to access and maintain their benefits and other services on the site. This aids us in our overall portfolio goal to create products and services that are trauma-informed and to make the process of interacting with VA.gov as seamless and positive as possible for Veterans.
+A variety of products across the VA.gov ecosystem have some kind of important information that needs to be communicated to users regarding time-sensitive tasks. Currently this need is filled by a variety of existing components, such as variations of the action link and alerts. However, many action links do not actually take users to an active task. Furthermore, alerts are overused across the site, leading to alert fatigue reported across many different studies, including a [November 2024 study about prefilled information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design-and-research/2024-09-Research-Initiative-Two-Update-Prefill/Update%20Prefill%20Research%20Report.md). This calls for the creation of a new component that is a unique object notifying users that an action is needed in a time-sensitive manner. This will surface the most important information on a page to the users first, making it easier for Veterans to access and maintain their benefits and other services on the site. This aids us in our overall portfolio goal to create products and services that are trauma-informed and to make the process of interacting with VA.gov as seamless and positive as possible for Veterans.
 
 The idea for this component was presented to the portfolio during the [Blue Sky presentation](https://dsva.slack.com/archives/C07SD9P7XB9/p1734111940363469?thread_ts=1734108245.226369&cid=C07SD9P7XB9) series by Ryan Thurwell in January 2025. 
 
@@ -108,16 +108,16 @@ A variety of products across the portfolio are using the action link component t
 A few studies on the Medications tool featured an action link on the intro page of the tool with passive language (‘Go to your medications’)[^7]. On the medications list page, users said they wanted to see which ones they could get refilled right away. The active language (styled in a button) of ‘Request refills’ tested stronger and gave users a clear understanding of how to move forward with what they wanted to do[^8]. 
 
 #### Theme 3 - Error messages make Veterans unclear on if there is a system error or something they need to correct.
-Alerts provide critical information to Veterans across VA.gov, and sometimes include a nested action link inside of them[^9]. One flaw of this format is that it is used across the site to communicate both system outages as well as user errors. Because of that, especially when visually impaired users arrive on a page with red alerts, users can immediately jump to thinking they made some kind of error due to the previous visual association[^10].
+Alerts provide critical information to Veterans across VA.gov, and sometimes include a nested action link inside of them[^9]. One flaw of this format is that it is used across the site to communicate both system outages as well as user errors. For example, an alert could say something like, “We’re sorry. There was a problem with our system. We couldn’t process this form.” that indicates an issue with the site itself, and an alert could also say something like, “We noticed you didn’t add new evidence.” which is a call for the user to take an action. Because both of these types of messages get utilized in alerts, especially when visually impaired users arrive on a page with red alerts, users can be unclear if they made an error due that needs to be corrected or if there is a system issue they can’t fix[^10].
 
 > “Why - what did I do wrong? For me, being visually impaired, trying to find what part of the form is filled out wrong is kind of difficult.” - P10
 
-While alerts are helpful in getting user attention, the overuse of the component across the site has led to alert fatigue that leads users to skipping over reading the message. 
+While alerts are helpful in getting user attention, the overuse of the component across the site has led to alert fatigue that leads users to skipping over reading the message or jumping to conclusions about its content without fully understanding it. 
 
 
 ### Recommendations 
-1. Create a unique component to notify users of urgent, time-sensitive information will help them to understand what they need to take action on in their account.
-2. The language used in this new component should describe an active task that takes them to a detail page when they click it. 
+1. Create a unique component to notify users of urgent, time-sensitive information to help them to understand what they need to do to take action on their account.
+2. The language used in this new component should describe an active task that takes the user to a detail page when they click it. 
 3. Ensure that this component always describes actions that the user must take rather than any kind of task that will be resolved by VA or the site itself. 
 
 <!-- Footnotes themselves at the bottom. -->
