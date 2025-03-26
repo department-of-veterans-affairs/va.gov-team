@@ -85,6 +85,8 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 - [SC flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/supplemental-claims-flow.md)
 - [NOD flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/NOD_flow.md)
 - [HLR flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/HLR_flow.md)
+- [Accessibility documentation[(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/readme.md)
+- [Accessibility project board](https://github.com/orgs/department-of-veterans-affairs/projects/1255/views/1)
 
 
 # Roadmap
