@@ -86,17 +86,21 @@ Alex Seelig, 3/26/2025
     
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
+  
+  Examples: 
     - VA stakeholder testing, marketing, compliance requirements 
 
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
+> *What's in scope for you to build with this initiative? Describe key features/flows.
+- Add NoK to EZR. Add only one NoK for this round. Allow users to enter name, address, phone. Have address be optional. Have all of NoK be optional. 
 > *What have you explicitly decided to **not** include and why?*
+- 
 > *How does this solution address your Assumptions & Risks?
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-
+- Have HEC notify users about this in their mailers
+- Let Veterans know they can do this online at VA facilities 
 --- 
 
 ## Launch Planning
