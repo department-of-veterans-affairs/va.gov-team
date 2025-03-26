@@ -41,13 +41,13 @@ user_subs = msc.get_batches_for_email(email_addr: 'test@email.com')
 # Form UUID:   7c30a37a-75e8-4314-94ae-da3cb27c5dcf
 # Form:   10-10D
 # Uploaded at: 2025-03-12 14:02:38 UTC
-# S3 Status:   ["S3 UploadFile failure for 52345679-1234-5678-1234-567812345678_vha_10_10d1.pdf: upload failure"]
+# S3 Status:   ["S3 UploadFile failure for 7c30a37a-75e8-4314-94ae-da3cb27c5dcf_vha_10_10d1.pdf: upload failure"]
 # ---
 # Sponsor Surname missing PEGA status on 0/1 attachments - test@email.com
 # Form UUID:   848e3c45-f8db-4bc1-af56-2733b77cc9b8
 # Form:   10-10D
 # Uploaded at: 2025-03-12 14:02:56 UTC
-# S3 Status:   []
+# S3 Status:   ["[200]"]
 ```
 
 ## To clear a missing status:
