@@ -51,8 +51,10 @@ This topline summary is a high level, top of mind summary of trends found in the
 - For MVP launch, include context around verification at key touch points and cross-link pathways.
 - Later, re-examine how dependent management is positioned on VA.gov's information architecture. 
 
-**Finding #3**
-- More details on Finding #3
+**Finding #3: Some participants (2 of 7) were caused significant confusion when reviewing the "Dependents on your VA benefits" and "Dependents not on your VA benefits" sections on Your VA Dependents.**
+- Veteran's dependents are displayed in 2 sections on Your VA Dependents with the following headers and descriptions:
+  - <Dependents on your VA benefits: These dependents are on your VA benefits. You can update these dependents any time.>
+  - <Dependents not on your VA benefits: These dependents aren't on your VA benefits. They may not be eligible or we may need to determine their dependent status. You can update these dependents any time.> 
 - These details could be key words, actions, or test outcomes
 > Quote (if relevant)
 
