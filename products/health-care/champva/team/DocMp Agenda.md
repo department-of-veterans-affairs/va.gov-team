@@ -8,6 +8,7 @@
 - Discuss additional metadata sent for beneficiaries 
 
 <h6>Notes</h6>
+
 - ChampVA Claims resubmission
 
   - Marrying the claims could be done programattically on Pega side if we send a metadata flag stating the submission is a resubmission
