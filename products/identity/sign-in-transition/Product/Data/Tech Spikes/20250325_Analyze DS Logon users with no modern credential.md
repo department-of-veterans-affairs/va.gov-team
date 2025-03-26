@@ -24,7 +24,7 @@ We conducted an initial assessment into 3 areas:
 3. **Frequency of Use Among DSL Users**  
    We examined how many users authenticate consistently versus those who are new each month.  
    - A "frequent user" was defined as someone who authenticated in at least **one-third** of reporting periods (6 of 18 weeks, or 2 of 6 months).  
-   - About **50% of DSL users** qualify as frequent users under this definition.  
+   - About **40% of DSL users** qualify as frequent users under this definition.  
    - Among users requiring modern credentials, **30% are frequent users**.  
 
 4. **Total DSL Users & Modern Credential Needs Over Time**  
