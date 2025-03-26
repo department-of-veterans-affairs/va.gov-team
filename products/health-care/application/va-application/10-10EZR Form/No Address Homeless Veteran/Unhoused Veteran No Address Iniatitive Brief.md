@@ -37,8 +37,9 @@ Alex Seelig, 3/26/2025
 * What is the problem and who is affected? And, what evidence do we have of the problem?
 - Veterans need a home address to complete a 1010EZR and in some cases, maintain their healthcare without copays.
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-- 
+- The 1010EZR was not designed for Veterans without addresses, and thus address was a required field despite not being required in VES. 
 * How does this initiative help further OCTO-DE's mission and goals?
+- This improves the experience for the vulnerable unhoused Veteran population. 
 
 <!--
 ## Desired User Outcomes
