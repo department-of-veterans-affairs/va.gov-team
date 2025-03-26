@@ -69,4 +69,15 @@ This page documents technical issues observed during UAT Beta sessions.  Reach o
 - **Status**: Reviewed by VA.gov team
 
 - **Notes**: Tim to talk to Base Team regarding plugin -> VistA authorization error
+- -----------------------
+
+### Participant 17
+
+- **Issue**: Failed submission
+
+- **Reason**: Missing appointment data from API. Logs show same errors as Participant 5.
+
+- **Status**: Reviewed by VA.gov team and handed off to API team
+
+- **Notes**: 
 
