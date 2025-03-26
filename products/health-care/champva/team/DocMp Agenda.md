@@ -9,15 +9,24 @@
 
 <h6>Notes</h6>
 - ChampVA Claims resubmission
+
   - Marrying the claims could be done programattically on Pega side if we send a metadata flag stating the submission is a resubmission
+    
   - It would also be good to collect the claim number (this is sent to the user on the sendback letter)
+    
     - For right now, we are suggesting to keep this optional, it can be required later on down the road (Angela Pinon confirmed this)
+      
   - The work to store/flag the submissions on Pega's side could be done in May or June
 
+
 - Additional metadata sent for beneficiaries information so it can be queried in later submissions if needed
+
   - Decided to include the following metadata to start
+    
     - DOB
+      
     - SSN
+      
     - Full Name
   
 
