@@ -1,5 +1,10 @@
 # Veterans Benefit Administration (VBA) Facility data integration
 
+## 2025 notes
+
+As of 3/24/25 50% of VBA facilities are on [modernized pages](https://dsva.slack.com/archives/C0FQSS30V/p1742829850426499). Modernized pages are driven by CMS data. The remaining are on facility detail pages driven by Facility Locator and Lighthouse data with links to the teamsites pages for those facilities. When a facility transitions from a FL driven page to a modernized page, revproxy redirects are added to make all remaining links for temasites pages go to the modernized page.
+
+Modernized pages pull most information from Drupal, however the nearby facilities makes 3 requests to facilities-api v2 (3 because we pull 1 VAMC, 1 Vet Center, and 1 Cemetery all requiring different facility type searches from Lighthouse.
 
 ## 2024 notes
 
@@ -11,18 +16,10 @@ LH pulls in some VBA data from Sandy's DB indirectly through BISL. For the Facil
 There is additional VBA data in Sandy's DB that Lighthouse doesn't care about. The Facilities team migrates more of that data into CMS for VBA purposes, and will eventually deprecate Sandy's DB and the CMS will be the source of truth for VBA data. 
 
 
-
-## 2016 notes
-### TODO
-1. Do we need this? Is it covered under Lighthouse integration? 
-
-*Documenting consistency issues with VBA facility data. Accurate as of 10/24/2016. Will attempt to update as issues are resolved but the source of truth should always be the data itself.*
-
-[Query page](https://services3.arcgis.com/aqgBd3l68G8hEFFE/ArcGIS/rest/services/VBA_Facilities/FeatureServer/0/query)
-
-[All data](https://services3.arcgis.com/aqgBd3l68G8hEFFE/ArcGIS/rest/services/VBA_Facilities/FeatureServer/0/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&multipatchOption=&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnDistinctValues=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&quantizationParameters=&sqlFormat=none&f=pjson&token=)
-
 ### Issues
+
+**Note: 3/26/25 As we change to modernized pages this becomes less difficult as there is a standard inputs for hours and status. However, there's still a lot of processing inside Facility Locator detail pages to handle text variances in data from VBA.**
+
 1. Spurious leading/trailing **?** characters in the "Comments" field, e.g. `?Appointment recommended`. This is observed frequently enough that it looks like a data conversion issue, or possibly there was a "?" character in whatever form the offices filled out that was not erased before data entry.
 
 1. Varying formats for hours: `7:30 am - 4:00 pm` vs. `730AM - 4PM` vs. `8 a.m. - 4 p.m.` vs. `8 am to 4:30 pm`. All variations of uppercase/lowercase, periods/no-periods, to/-, spaces/no-spaces are seen across different records. VHA data in contrast is well standardized with a single format `730AM-400PM`. Even if that's not what we want to display we can at least convert it easily since it's uniform.
