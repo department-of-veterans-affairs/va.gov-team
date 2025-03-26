@@ -27,12 +27,15 @@ This topline summary is a high level, top of mind summary of trends found in the
   - When reviewing the email notification
   - When engaging with the dependent verification MVP on VA.gov, either on Your VA Dependents or the first page of the form flow
 - While 2 participants described dependent verification in a way that aligned with the Mandatory Verification of Dependents, the other 8 participants conflated it when providing evidence to initially make their dependency claim or other verification processes affiliated with other benefits.
-- Due to this lack of clarity that dependent verification is connected to a mandatory form submission, there is some perceived risk that the Veteran may not see a need to engage with the MVP experience beyond reviewing dependents if there is no need to make changes to their dependents. 
+- Due to this lack of clarity that dependent verification is connected to a mandatory form submission, **there is some perceived risk that the Veteran may not see a need to engage with the MVP experience beyond reviewing dependents if there is no need to make changes to their dependents.**
 > _When asked "What does verification mean in this context?" when reviewing the email notification:_
+> 
 > “Just verifying that he's my legal husband to be on my benefits." (P2)
+> 
 > "Probably a birth certificate or something like that." (P3)
 
 > _When asked "What action would you take here if you reviewed your dependents and they were correct?" when reviewing Your VA Dependents_
+> 
 > “If nothing has changed, [I would] close everything out." (P3)
 
 **Recommendation #1: Provide adequate context around dependent verification's connection to the 8-year Mandatory Verification of Dependents at key touch points on VA.gov and in other VA communications.**
