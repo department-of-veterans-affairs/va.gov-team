@@ -71,13 +71,19 @@ Alex Seelig, 3/26/2025
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - . Will Veterans take the time to enter/change their Next of Kin?
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - Will Veterans understand how to enter/change their NoK? Can we make it simple enough for them?
+  - Do Veterans understand what a Next of Kin is? Do they know it's the person who gets their stuff if something happens to them? 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Examples:
-    - Upstream/Downstream API/Data availability and reliability
+    - Will the List&Loop bugs be fixed so that we can release?
+    - Will the Associates API from the VES team be released to Prod so we can test and release?
+    - Will we be able to delete using the new Associates API?
+    - How will adding a new API impact the performance and ZSF of the EZR?
+    Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+    
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Examples: 
