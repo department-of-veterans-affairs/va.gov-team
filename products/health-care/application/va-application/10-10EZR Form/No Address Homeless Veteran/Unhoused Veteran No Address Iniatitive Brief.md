@@ -85,11 +85,15 @@ Alex Seelig, 3/26/2025
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Will this make is easier for unhousec Veterans to use VA.gov?
+  - Will this make is easier for unhoused Veterans to use VA.gov?
 
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
+- A FE indicator where a Veteran can indicate that they're unhoused. 
+- Once that is indicated, when the EZR is submitted to VES, VES automatically populates the Veteran's address as their preferred facility and indicates that they're homeless. 
+- Content explaining this.
 > *What have you explicitly decided to **not** include and why?*
+- Anything not listed above, including but not limited to 
 > *How does this solution address your Assumptions & Risks?
 
 #### Go-to-market 
