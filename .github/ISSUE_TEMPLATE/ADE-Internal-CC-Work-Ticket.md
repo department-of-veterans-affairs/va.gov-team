@@ -98,8 +98,7 @@ _Select all that apply._
 ### Ticket Updates
 - [ ] _Connect this ticket to the CC ticket, in the comments, unless directed otherwise, so the CC is aware of the work being done to support this team c/o ADE_
 - [ ] _Connect to an `Epic/Parent` or `Intake` (what body of work is this a part of?) If this is the `Epic/Parent`, connect related tickets as sub-issues._
-- [ ] _If this is the `Epic/Parent` ticket, add label for `ADE CC AN` AN = assistance needed_
-- [ ] _If this ticket is a `Child` ticket aka `sub-issue` please add the appropriate labels for `ADE CC DI SUPPORT`;`ADE CC MP SUPPORT`; `ADE CC STG SUPPORT` or `ADE CC AN`_
+- [ ] _If this ticket is a `Child` ticket aka `sub-issue` please add the appropriate labels for `ADE CC DI`;`ADE CC MP`; `ADE CC STG` or `ADE CC AN`_
 - [ ] _Label with `Originator/Team` (product team or stakeholder requesting support; ADE if internal)_
 - [ ] _Label date in the `Open Date` field_
 - [ ] _Label with `Estimate` (level of effort expected for this ticket)_
