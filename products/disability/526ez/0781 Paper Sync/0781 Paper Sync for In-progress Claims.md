@@ -10,12 +10,15 @@ Notify Veterans with disability claims already in progress (before the 0781 Pape
 Veterans with a 526 disability claim in progress prior to the release of the 0781 paper sync may unknowingly submit their claims without addressing new mental health-related questions included in the updated VA Form 21-0781. This issue also affects Veterans who initiated claims after the release but were not included in the canary rollout. Without awareness of the new online form, these Veterans may submit incomplete claims, leading to potential delays in claim processing. It is critical to notify impacted Veterans about the updated VA Form 21-0781, ensuring they have the necessary information to make informed decisions and avoid disruptions in their claims process. 
 
 ## Desired User Outcomes
-
-- Users will be informed about the new online version
-- Users will know what steps they can take 
+- **Informed Decision-Making**: If notified about the updated form, Veterans will have the opportunity to make well-informed decisions regarding their claims submission.
+- **Improved Claim Success Rate**: Proper notification could increase the likelihood of complete and accurate claims, ultimately reducing potential setbacks and speeding up the resolution process.
+- **Enhanced Trust in the System**: Timely and clear communication about changes in the claims process may foster trust and confidence in the VA’s commitment to supporting Veterans.
 
 ## Undesired User Outcomes
-- 
+- **Delayed Claim Processing**: Without proper notification, Veterans may submit claims without including the necessary mental health-related information, which could result in processing delays.
+- **Incomplete Claims**: Some Veterans might unknowingly submit incomplete claims, as they are unaware of the updated VA Form 21-0781 and its new requirements.
+- **Frustration and Confusion**: Lack of awareness about the updated form might lead to feelings of frustration or confusion among Veterans who are navigating an already complex claims process.
+
 
 ## Desired Business Outcomes
 
