@@ -4,8 +4,12 @@
 These codes are used to determine the type of debt being displayed (or filtered out)
 
 ### Source:
-- Relative vets-website path: `src/applications/combined-debt-portal/debt-letters/const/deduction-codes/index.js`
-- [vets-website main branch link](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/combined-debt-portal/debt-letters/const/deduction-codes/index.js)
+- Financial Status Report (5655)
+  - Relative vets-website path: `src/applications/financial-status-report/constants/deduction-codes/index.js`
+  - [vets-website main branch link](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/financial-status-report/constants/deduction-codes/index.js)
+- Combined Debt Portal
+  - Relative vets-website path: `src/applications/combined-debt-portal/debt-letters/const/deduction-codes/index.js`
+  - [vets-website main branch link](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/combined-debt-portal/debt-letters/const/deduction-codes/index.js)
 
 ```
 export const deductionCodes = Object.freeze({
@@ -44,8 +48,12 @@ export const deductionCodes = Object.freeze({
 These are all the values in the switch statement that handle debt summary text
 
 ### Source:
-- Relative vets-website path: `src/applications/combined-debt-portal/debt-letters/const/diary-codes/debtSummaryCardContent.js`
-- [vets-website main branch link](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/combined-debt-portal/debt-letters/const/diary-codes/debtSummaryCardContent.js)
+- Financial Status Report (5655)
+  - Relative vets-website path: `src/applications/financial-status-report/constants/diary-codes/index.js`
+  - [vets-website main branch link](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/financial-status-report/constants/diary-codes/index.js)
+- Combined Debt Portal
+  - Relative vets-website path: `src/applications/combined-debt-portal/debt-letters/const/diary-codes/debtSummaryCardContent.js`
+  - [vets-website main branch link](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/combined-debt-portal/debt-letters/const/diary-codes/debtSummaryCardContent.js)
 
 ```
 [
