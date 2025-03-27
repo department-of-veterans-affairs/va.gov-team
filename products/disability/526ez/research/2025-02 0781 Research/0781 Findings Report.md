@@ -72,7 +72,7 @@ We conducted 9 semi-structured interviews via Zoom with Veterans who had previou
 
 ## **Trauma-Informed Approach**
 
-- We retooled trauma-informed methods developed by the last round of concept testing in June 2024\. Below is an overview of steps taken to be trauma-informed in research planning, recruitment, and sessions. 
+We retooled trauma-informed methods developed by the last round of concept testing in June 2024\. Below is an overview of steps taken to be trauma-informed in research planning, recruitment, and sessions. 
 
 #### **Extra care in screening questions**
 
