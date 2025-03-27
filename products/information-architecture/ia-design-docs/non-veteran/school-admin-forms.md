@@ -1,5 +1,5 @@
 # IA Design for School Administrator Forms
-**STATUS: ONGOING**
+**STATUS: IN REVIEW**
 
 This spec covers the general approach for digitized SCO forms that will be placed within the /school-administrators/ sub-directory of VA.gov. Information about each form will be added as it is worked on. 
 
@@ -13,8 +13,9 @@ This spec covers the general approach for digitized SCO forms that will be place
   - Form 22-8794 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/103841
 - Design files:
   - [IA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1728420465790/8c90120e504744ecb3db02068818df573ddab93b)
-  - [Figma file](https://www.figma.com/design/9dlTPeLY6kUq19m4YrjyF7/VEBT-Form-22-1919%3A-Conflicting-Interests?node-id=2529-24298&t=14gA2vCBa4YrkuJz-1)
-  - [Team's user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718211888145/62b605a599fa763fd3a91f46fb89b74f0748d1bb)
+  - [VEBT Figma file for 22-1919](https://www.figma.com/design/9dlTPeLY6kUq19m4YrjyF7/VEBT-Form-22-1919%3A-Conflicting-Interests?node-id=2529-24298&t=14gA2vCBa4YrkuJz-1)
+  - [VEBT Figma file for 22-8794](https://www.figma.com/design/SYloiyh5mf1RjjZnkPiJH9/VEBT-Form-22-8794%3A-Certifying-Officials?node-id=170-13869&p=f&t=p4AFgOWqNe89Po3b-0)
+  - [VEBT team's user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718211888145/62b605a599fa763fd3a91f46fb89b74f0748d1bb)
 
 **On this page:**
 - [User/page flows](#user-page-flows)
@@ -29,8 +30,8 @@ This spec covers the general approach for digitized SCO forms that will be place
 ## <a name="flows"></a>User/page flows <br>
 _Illustration of of page flow._
 
-- Visitors will primarily access these forms through the "Resources for schools" page. As the parent page of these forms, the page must contain a link to each of the forms digitized.
-- Each form will also have an "About form" page published within the "Find a VA form" search tool on VA.gov which will include a link to both the PDF and the online form.  These pages are published and maintained by the Content and IA team.
+- Visitors will primarily access these forms through the "Resources for schools" page. As the parent page of these forms, the page must contain a link to each of the forms digitized. This page is maintained by the VEBT team.
+- Each form will also have an "About form" page published within the "Find a VA form" search tool on VA.gov which will include a link to both the PDF and the online form.  These pages are published and maintained by the OCTO Content and IA team.
 - These forms will also be findable via internal and external search engines. 
 
 <img width="608" alt="image" src="https://github.com/user-attachments/assets/827e2732-9383-428e-a1e2-17d4b88be5e4" />
@@ -45,17 +46,17 @@ _Illustration of of page flow._
 
 ## <a name="non-veteran-experience-url"></a>URL, breadcrumb, and title guidance
 
-- Teams should follow the VA Design System guidance for URLs, breadcrumbs, and page titles.  
-  - [URLs](https://design.va.gov/components/url-standards/)
-  - [H1s (Page titles and section titles)](https://design.va.gov/content-style-guide/page-titles-and-section-titles)
-  - [Breadcrumbs](https://design.va.gov/components/breadcrumbs)
-  - [Title tags](https://design.va.gov/content-style-guide/title-tags)*
+Follow the VA Design System guidance for URLs, breadcrumbs, and page titles.  
+- [URLs](https://design.va.gov/components/url-standards/)
+- [H1s (Page titles and section titles)](https://design.va.gov/content-style-guide/page-titles-and-section-titles)
+- [Breadcrumbs](https://design.va.gov/components/breadcrumbs)
+- [Title tags](https://design.va.gov/content-style-guide/title-tags)*
 
-The following suggestions and guidance are provided to help you determine your final URLs and page titles. Only the main page of your experience/feature - typically the top or parent page - is provided. Beyond this top level page, you can create additional supporting pages as needed for your feature.  
+Additional guidance:
+- The following suggestions and guidance are provided to help you determine your final URLs and page titles. Only the main page of your experience/feature - typically the top or parent page - is provided. Beyond this top level page, you can create additional supporting pages as needed for your feature.  
 
 1) [Page name/description] **COPY AS NEEDED**
 - General guidance and rationale
-  - *Example: Although your forms supports the application process, its intended audience is not those that are applying.  For this reason we recommend avoid using forms of the word "apply" and the benefit name when possible to ensure the page does not conflict with the Veteran apply content in search results.  The goal is to focus on the specific task and terminology used for this audience.*
   - *Example: Even though your form title includes the phrase "85% Rule", search data shows that individuals are often searching for the term "85/15 rule". For this reason we suggest using that in your page title, and your URL.  Keep in mind that special characters cannot be used in URLs, so this would translate to "85-15-rule" when included in a URL slug.*
   - *Example: Consider how familiar your audience is with the form number.  For Veterans, we often include the form number in the page titles and URLs to improve findability. An example of this pattern can be seen with this [disability compensation application](https://www.va.gov/disability/file-disability-claim-form-21-526ez/).* 
 
@@ -105,6 +106,23 @@ The standard process for redirects can be found on the Platform website. Please 
 - Report your final URLs back to the IA and team that provided this guidance so they have awareness of overall VA.gov IA.
 - Submit a centralized content and IA ticket for support in implementing the entry points recommended above
 - Submit a redirect request ticket for approval on any redirects at least 2 weeks prior to implementing them
+
+  <hr>
+
+  ## Supporting information
+
+**Search data for: www.va.gov/school-administrators/**
+Summary: These forms are not currently available in a digital format or through search, so data is for related search terms resulting in traffic/clicks to the /school administrators page. 
+- 12 month period
+- Total clicks from Google search results: 7,953
+- Queries and resulting clicks (all queries including the term)
+  - official - 172 clicks, 33.9% CTR
+  - sco - 1k, 12.7% CTR
+  - certify - 172, 33.9% CTR
+  - There were no searches containing variations of the following words resulting in a click to this page
+    - conflict
+    - proprietary
+    - designate
 
 
 
