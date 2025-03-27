@@ -1,7 +1,7 @@
 # IA Design for School Certifying Official Forms
 **STATUS: IN REVIEW**
 
-**Team:** [Team name]
+**Team:** VEBT team
 - Team name: govcio-vebt
 - Slack: #govcio-vebt-team
 
