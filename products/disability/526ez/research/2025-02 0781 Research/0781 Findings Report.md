@@ -14,7 +14,19 @@ Date: 03/27/25
 
 **Jump to:**
 
-**ADD**
+**Jump to:** 
+
+[Research Goals](#research-goals)  
+[Research Questions](#research-questions)  
+[Methodology](#methodology)  
+[Hypotheses and Conclusions](#hypotheses-and-conclusions)  
+[Key Findings](#key-findings)  
+[Details of Findings](#details-of-findings)  
+[Additional Insights](#additional-insights)  
+[Recommendations](#recommendations)  
+[Next Steps](#next-steps)  
+[Further Research Needed](#further-research-needed)  
+[Appendix](#appendix)  
 
 # **Research Goals**
 
