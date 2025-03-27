@@ -1,4 +1,7 @@
-**3/26/25 FMP stakeholder call**
+## FMP stakeholder sync
+Every other Wednesday at 2:35pm ET
+
+**03/26/25**
 --------------------------------
 
 Attendees: Andrea, Rachel, Renata, Jamie, Mike\
