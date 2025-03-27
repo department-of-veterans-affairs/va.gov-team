@@ -28,27 +28,27 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 
 ## **Research Goals**
 
-- Evaluate usability of Appoint a Representative on VA.gov. Usability includes the understandability of content, whether the experience meets user expectations, and identifying system bugs.
-- _Stretch goal:_ Evaluate usability of the Representative Status Widget on VA.gov.
+- Evaluate the usability of Appoint a Representative with Digital Submit on VA.gov. Usability includes the understandability of content, whether the experience meets user expectations, and identifying system bugs.
+- _Stretch goal:_ Evaluate the usability of the Representative Status Widget on VA.gov.
 
 
 ### **Outcome**
 
-- User testing of Appoint a Representative and the Representative Status Widget on VA.gov will help the team to identify and fix any outstanding user pain points and system bugs in the experience.
+- User testing of Appoint a Representative with Digital Submit and the Representative Status Widget on VA.gov will help the team to identify and fix any outstanding user pain points and system bugs in the experience. We are interested in learning more about the AT users and how they experience the product. 
 
 
 ### **Research questions**
 
-1. Are there any usability challenges with the Appoint a Representative feature?
+1. Are there any usability challenges with the Appoint a Representative with Digital Submit feature?
    1. Do users understand the information shown?
       1. Is there any information missing?
    2. Are there any challenges with using the experience?
-      1. Is there any confusion with the ‘Street address line 2’ input?
+      1. Is there any confusion with legal portion of the form?
       2. Do users correctly interpret the "Note: If you submit another request, you'll cancel your current one." content on the confirmation page?
    3. Does the experience meet user expectations?
-   4. Are the steps clear and actionable?
-      1. Are there any reasons why users are not navigating from the Download to the Next Steps pages?
+   4. Are all form steps clear and actionable?
    5. Are assistive technology (AT) users able to successfully use the feature?
+      1. Is there any information out of order or confusing?    
 2. _Stretch goal:_ Are there any usability challenges with the Representative Status Widget?
    1. Same additional questions as above.
 
@@ -58,12 +58,12 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 1. Veterans will be able to successfully navigate Appoint a Representative through tested patterns and informative content.
 2. Veterans will clearly understand whether the process concludes with a PDF or digital submission, as well as the next steps to take upon completion.
 3. Veterans will find value in signing in to see their current representative.
-4. If signed-in, Veterans will expect their information to be pre-filled in the form.
+4. When signed-in, Veterans will expect their information to be pre-filled in the form.
 
 
 ## **Methodology**
 
-- **Warm-up questions /** The moderator will ask the Veteran a short series of questions to understand their current status with finding a representative and VA.gov engagement.
+- **Warm-up questions /** The moderator will ask the veteran a short series of questions to understand their current situation with finding an accredited representative and VA.gov engagement.
 - **Usability testing** / Users will be asked to complete the Appoint a Representative flow on VA.gov and provide feedback along the way.
 
 
@@ -74,22 +74,21 @@ Remote on Zoom
 
 ### **Research materials**
 
-- [Link to conversation guide: Group 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2025-02-ARM-appointarep-live-usertest/conversation-guide.md)
+- [Link to conversation guide: Group 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2025-02-ARM-appointarep-live-usertest/conversation-guide-session02.md)
 
 
 ## **Recruitment**
 
-## **Group 1 recruitment approach**
+## **Group 2 recruitment approach**
 
-Our target audience are 4 Veterans (with expectations of speaking to 3) who are actively searching for, or working with, an attorney or claims agent.
+Our target audience is 4 Veterans (with expectations of speaking to) who are actively searching for or working with an attorney or claims agent.
 
 
 ### **Recruitment criteria**
 
 **Requesting a kick-off call**
 
-- 02/12/2025 anytime 9 - 11 AM, or 1 - 2 PM EST
-
+- Calendar Week of 03/31/2025 anytime 9 - 12 AM
 
 **Participant criteria**
 
@@ -164,19 +163,19 @@ Generated using VA [maximum variation sampling](https://github.com/department-of
 
 ### **Timeline**
 
-- [ ] 02/12 / Perigean kick-off call
-- [ ] 02/12 – 02/19 / Recruitment with Perigean, requires 1 week
+- [ ] 03/31 / Perigean kick-off call
+- [ ] 03/31 – 04/07 / Recruitment with Perigean, requires 1 week
 - [ ] TBD / Complete pilot session
-- [ ] 02/20 – 02/28 / Conduct interviews, requires 2x slots than required
+- [ ] 04/08 – 04/15 / Conduct interviews, requires 2x slots than required
 
-Timeline is an estimation and will be updated as dependencies clear. Some dependencies that can impact this timeline include:
+Please note: The Timeline is an estimation and will be updated as dependencies clear. Some dependencies that can impact this timeline include:
 - Review process both with direct team and collaboration cycle
 - Recruitment
 
 
 ### **Prepare**
 
-When will the thing you are testing be finalized? 01/21/2025
+When will the thing you are testing be finalized? 03/26/2025
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
 - Pilot participant email: TBD
@@ -185,12 +184,12 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### **Research sessions**
 
-- Planned dates of research: 02/20/2025 – 02/28/2025
+- Planned dates of research: 04/08/2025 – 04/15/2025
 
 
 ### **Length of sessions**
 
-- Session length: 60 minutes
+- Session length: 60+ minutes
 - Buffer time between sessions: 1 hour
 - Maximum Sessions per day: 2 per day
 
@@ -198,18 +197,16 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ### **Availability**
 
 - Available all days between 10 AM - 4 PM EST
-- Exceptions are:
-  - 02/25/2025 from 10 AM - 1 PM EST
-  - 02/27/2025 from 12 PM - 4 PM EST
+
 
  ## **Team Roles**
 
 Please list the people who will be serving in each role. Include the **primary phone number for the moderator and the emails for moderator, notetaker, accessibility specialist, and observers**. If you need Perigean to take notes for you, indicate that next to Notetaker
 
-- **\*Moderators:** Marisa Dominguez, <marisa.dominguez@oddball.io>, Michael Tri
-- **Research guide writing and task development:** Janelle Finnerty, Marisa Dominguez
+- **\*Moderators:** Marisa Dominguez, <marisa.dominguez@oddball.io>, Michael Tri, Product Designer
+- **Research guide writing and task development:** Marisa Dominguez, Michael Tri, Janelle Finnerty
 - **Participant recruiting & screening:** Perigean
-- **Project point of contact:** Janelle Finnerty, Marisa Dominguez
+- **Project point of contact:** Marisa Dominguez
 - **Participant(s) for pilot test:** TBD
 - **\*Accessibility specialist (for sessions where support for assistive technology may be needed):** Jennifer Quispe
 - **\*Notetakers:** Moderator will forward invites based on sign-up sheet.
