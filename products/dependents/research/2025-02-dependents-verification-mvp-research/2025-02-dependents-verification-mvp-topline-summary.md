@@ -39,6 +39,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 > “If nothing has changed, [I would] close everything out." (P3)
 
 **Recommendation #1: Provide adequate context around dependent verification's connection to the 8-year Mandatory Verification of Dependents at key touch points on VA.gov and in other VA communications.**
+- In the future, consider building verification into the flow of adding and removing dependents.
 
 **Finding #2: There are opportunities to improve the findability of dependent verification specifically and dependent management in general, both in the short-term (MVP launch) and long-term.**
 
@@ -73,14 +74,46 @@ This topline summary is a high level, top of mind summary of trends found in the
       - "No: Review and certify the information we’re submitting on your behalf for your verification of dependents (VA Form 21-0538)."
 - This caused some confusion for participants who followed that path and saw only language to "add or remove" dependents.
 - None of the prompted participants read the note regarding the need to call the VA.
-- Despite this confusion, participants who were prompted with the happy path (needing to verify or add or remove a dependent) were able to correctly interpret the MVP key decision point. 
+- Despite this confusion, participants who were prompted with the happy path (needing to verify or add or remove a dependent) were able to correctly interpret the MVP key decision point.
+  - All participants propmted with the scenario that their dependents are all correct from this screen chose "No: verify" with confidence. 
 
 > "Update and edit is pretty much the same thing." (P3)
+
 **Recommendation #4: Break up information on this page to improve readability and comprehension.**
+- Alternatively (or in combination with breaking up content), use more specific language in the key decision point (i.e. "add/remove" in place of "update").
 - [Go to suggested flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1743019561703)
 
 
-**Finding #5**
-- More details on Finding #5
-- These details could be key words, actions, or test outcomes
-> Quote (if relevant)
+**Finding #5: Many participants paused or were unclear about how to correct personal or contact information.**
+- Most (6 of 9) participants prompted to correct their contact information expected changes to the form to also apply to their VA profile.
+- Most (6 of 9) participants prompted to correct personal information would call the VA
+  - Only 3 of those called because they read the directions to do so.
+  - Some of those who would call expressed familiarity with that process.
+  - Many participants (including some of those who would ultimately call the VA) looked for a way to update personal information from within the form.
+    
+> “Why do I have two different addresses?" (P6)
+
+> "There are some people who will change their phone number as often as they change their underwear." (P8)
+
+**Recommendation #5: Update designs to improve readability and meet Veteran expectations.**
+- Consider alternative treatment of the note about calling the VA to change personal information (e.g. put into an alert or share directions on a separate page)
+- Give Veterans the option to update profile information when updating contact information within the form, which already exists in a [VADS pattern](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=4013-14358&t=MC0Edy1AehQfrVg0-1). This will force them to acknowledge that changes to contact information will not apply to profile information unless they opt in.
+
+## Secondary Findings
+
+**Secondary Finding #1: Most participants were unclear about how to interpret the mandated 8-year (21-0538) letter requesting verification.**
+- We prompted participants with the scenario that they received the letter after having engaged with the MVP on VA.gov. We wanted to assess the risk of a Veteran ignoring the letter after having updated their dependents via the verification MVP on VA.gov.
+- Several participants initially interpreted it as a confirmation of the actions they took in the verification MVP on VA.gov.
+- Others were confused about why they were receiving the letter, seeing it as redundant, or were concerned that there had been some mistake.
+
+> "This should be a confirmation of what I did online. And you already have a receipt of this [on the] website. It's very confusing." (P10)
+
+**Recommendation: 
+
+**Secondary Finding #2: All participants with dependent children experienced pain points around the 18-year-old to school-age transition.**
+- For participants with dependent children, this was often the first thing they mentioned when asked about their experiences managing dependents, so this pain point is both common and memorable.
+- Two of our participants had children automatically age out at 18 before they graduated high school.
+- One had their application for school-age benefits (VA Form 21-674) denied due to their child already receiving Chapter 35 benefits.
+- Two experienced pain points around having to remove their children at 18 themselves (e.g. long wait times at the VA office or owing overpayments). These experiences occurred before automatic drop-off at 18 was in place. 
+
+> “From an efficiency standpoint, there's got to be a better way to handle [children aging out while still in high school]." (P12)
