@@ -5,21 +5,19 @@
 Date: 03/27/25
 
 \[Evelyn Hilbrich Davis\] \[evelyn@cityfriends.tech\]
-
 \[Qian Chen\] \[qian.chen@coforma.io\]
-
 \[Ruben Sun\] \[ruben.sun@coforma.iol\]
 
 \[Research readout\](link here)
 
 **Jump to:**
 
-[Hypotheses and Conclusions](#hypotheses-and-conclusions)  
-[Key Findings](#key-findings)  
-[Additional Findings](#additional-findings)  
-[Opportunities](#opportunities)  
-[Next Steps](#next-steps)  
-[Appendix](#appendix)  
+- [Hypotheses and Conclusions](#hypotheses-and-conclusions)  
+- [Key Findings](#key-findings)  
+- [Additional Findings](#additional-findings)  
+- [Opportunities](#opportunities)  
+- [Next Steps](#next-steps)  
+- [Appendix](#appendix)  
 
 # **Research Goals**
 
