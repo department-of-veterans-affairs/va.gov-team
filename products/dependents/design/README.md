@@ -47,7 +47,7 @@
   - OCTO leadership
   - VBA leadership
   - Engage Platform Governance to ensure updates are compliant with the VA Design System
-  - Engage Content & IA team to confirm content meeds platform standards
+  - Engage Content & IA team to confirm content meeds platform standards and coordinate addition context for dependent verification to key pages that the Content & IA team owns
   - Engage the sitewide accessibility team to ensure updates are meeting accessibility standards
   - Review with engineers to confirm technical feasibility
 - Create a scenario testing and design match document to test designs once built in staging (see example from [686c/674 V2 updates](https://docs.google.com/spreadsheets/d/1Hd9pWDVzfduV2UsYF7eUqXJ_PShJeo5yLrgwvZJ5Nak/edit?usp=sharing)) 
@@ -59,9 +59,9 @@
 
 ### Future
 - Explore long-term vision recommendations from research
-  - Work with Product and VBA partners to understand how use of the online tool to add or remove dependents (VA Forms 21-686c and/or 21-674) can generate a Mandatory Verification of Dependents (VA Form 21-0538)
+  - Work with Product and VBA partners to understand how use of [the online tool to add or remove dependents](https://www.va.gov/view-change-dependents/add-remove-form-21-686c-v2/introduction) (VA Forms 21-686c and/or 21-674) can generate a Mandatory Verification of Dependents (VA Form 21-0538)
   - Explore integrating the opportunity to verify dependents into the 686c/674 online tool form flow.
-  - Explore quick add/remove/re-add using auto-fill where possible from dependent cards on Your VA Dependents
+  - Explore quick add/remove/re-add using auto-fill where possible from dependent cards on [Your VA Dependents](https://www.va.gov/view-change-dependents/view)
   - Explore information architecture improvements to dependents management on VA.gov
 - [Go to future opportunities on Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692908527043/0da94b7ded52e8a943d798bcb8ae39697c2fb56f?wid=165-1692908552841)
 - [Go to recommendations from Content & IA team](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717521751866/127cbff63df95bedf011a5463797989197bc069d?sender=u859fac93c61da901b7914439) (January 2025)
