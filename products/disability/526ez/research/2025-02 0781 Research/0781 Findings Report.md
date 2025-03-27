@@ -17,8 +17,8 @@ Date: 03/27/25
 **Jump to:** 
 
 [Hypotheses and Conclusions](#hypotheses-and-conclusions)  
-[Key Findings](#details-of-key-findings)  
-[Additional Insights](#details-of-additional-insights)  
+[Key Findings](#key-findings)  
+[Additional Insights](#additional-insights)  
 [Recommendations](#recommendations)  
 [Next Steps](#next-steps)  
 [Appendix](#appendix)  
@@ -128,7 +128,7 @@ We made recording explicitly optional, and limited the number of observers to 1 
 * **Maybe true.** Veterans managed a majority of the multi-response pattern add and edit mode with ease. The main issue with it was a misunderstanding of the interaction model. Veterans assumed the pattern had one page rather than multiple– leading to issues with editing deeper pages in the flow.
 
 
-# **Summary of Key Findings**
+# **Key Findings**
 
 Organizational structure: Findings in this report are organized by goal. In this high level summary of findings, we call out Bright spots and Problem areas at the goal level. We further break down findings into what went well and what didn’t. 
 
@@ -435,7 +435,7 @@ The multi-response pattern appears throughout the flow. Findings are focused on 
 
 * The delete action was intuitive to Veterans. Participants uncheck the checkbox and navigate the destructive action with ease. 
 
-# **Summary of Additional Findings**
+# **Additional Findings**
 
 **Additional Finding \#1:** The conditional page with an option for adding an indicator confused all participants filing for MST. 
 
