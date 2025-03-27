@@ -71,15 +71,7 @@ _Select all that apply._
 - [ ] No
 - [ ] Unsure at this time
 
-## Provide Your Supporting Artifacts 
-
-> [!TIP]
-> **Include artifacts like the product outline, user flows, mockups and prototypes, etc.** 
-> - **Figma/Mural:** Please tell us which screens/board/section to look at so we don't leave comments on old stuff. 
-> - **Staging Audits:** We will need staging user(s) and scenarios provided.
-
-### Links to Artifacts
-Provide links to any supporting artifacts that can help us better understand the initiative and begin collaboration. 
+## Supporting Artifacts 
 
 - [Artifact 1](Placeholder1)
 - [Artifact 2](Placeholder2)
