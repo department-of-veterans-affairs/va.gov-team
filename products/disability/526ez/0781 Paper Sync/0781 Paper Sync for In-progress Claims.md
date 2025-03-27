@@ -4,25 +4,22 @@
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+Notify Veterans with disability claims already in progress (before the 0781 Paper Sync online form release) that there is a new VA Form 21-0781 form for Statement in Support of Claimed Mental Health Disorder(s) Due to an In-Service Traumatic Event(s) that is available and what they can do if they want to answer questions to support their claim processing. 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
-
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+For Veterans who have a 526 disabilty claim in progress before the 0781 paper sync release may submit their claim with missing mental health related questions that are on the new VA Form 21-0781, because they may not know that there is a new online version. This impacts Veterans with claims that are already in progress before the release and claims that were started after the release, but were not in the canary rollout. We need to be able to inform these Veterans that there is a new online VA Form 21-0781. Notifying them will give them the information they need and the opportunity to make an informed decision. If we don't notify these users, they may submit their claim without the necessary information which could hold up their calim processing. 
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Users will be informed about the new online version
+- Users will know what steps they can take 
 
 ## Undesired User Outcomes
-
+- 
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- 
 
 ## Undesired Business Outcomes
 
@@ -135,7 +132,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 <details>
  
 Disability Benefits Crew: 
-- Product Owner: Emily Theis
+- Product Owner: Leah 
 - Eng Lead: Sam Wiley
 - Design Lead: Shannon Ford 
 - OBA Lead: David Reis
