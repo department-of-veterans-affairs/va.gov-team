@@ -6,19 +6,19 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 
 ---
 
-## DRAFT Quarterly Priorities for FY25Q3 (Apr, May, Jun 2025)  
+## Quarterly Priorities for FY25Q3 (Apr, May, Jun 2025)  
 *Quarter Sprints include 5,6, 7, 8, 9, & 10*
 **Primary Goals (May shift based on stretch goal dependencies)**
     
 | Priority ID | Description | S.Epic | Relevant Dates |  Notes |  End of Quarter Status |
 |-------------|---------------|-----------------|---------------|  ---------------|   ---------------| 
-| QP1 | **Asynchronous Email Pattern:** Implement 3 email templates for all FSR Submission communications|[#105235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105235)   | Implement ASAP | Tied to OCTO Silent Failure Initiative  |--|
+| QP1 | **ZSF Alignment:** Implement call back functionality and 3 email templates for asynchronous submission pattern|[#106206](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106206)  | Implement ASAP- before April 22, 2025 | Tied to OCTO Silent Failure Initiative  |--|
 | QP2 |  **One VA Debt Letter:** Launch in production| [#84175](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84175) | Launch in Prodution Goal: ~~March~~ Early April 2025 | Legislative Requirement: Veterans Benefit Transition​ Act of 2018 ( year 7) |--|
 | QP3  | **Digital Debt Dispute (VBA):** Target Launch in production| [#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003) | Target Launch in Production May 28, 25 |  | --|
 | QP4 | **Pay.gov Hosted Collection Page (HCP) for Overpayments:** Discovery & Design Prototyping| [#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |  |  | --|
-| QP5 | **Mobile App:** Collaborate with IIR team to add overpayment debt information into mobile app experience | coming soon |  |  |--|
-| QP6 | **VBA Hardship Suspension:** Discovery & Design Prototyping | coming soon |  |  | --|
-| QP7 | **VHA Repayment Plan (10-323)**:  Discovery & Design Prototyping| coming soon |   |   |--|
+| QP5 | **Mobile App:** Collaborate with IIR team to add overpayment debt information into mobile app experience |  [#106209](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106209) |  |  |--|
+| QP6 | **VBA Hardship Suspension:** Discovery & Design Prototyping | [#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207) |  |  | --|
+| QP7 | **VHA Repayment Plan (10-323)**:  Discovery & Design Prototyping| [#106208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106208)|   |   |--|
 
 
 **Stretch Goals (Known dependencies may impact)**
