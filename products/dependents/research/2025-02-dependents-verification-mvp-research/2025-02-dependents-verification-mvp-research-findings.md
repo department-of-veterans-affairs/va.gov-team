@@ -6,7 +6,7 @@ Date: 03/13/2025
 
 Ajia Wallace ajia.wallace@softrams.com, Ruben Sun ruben@coforma.io
 
-[Research readout](link here)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-02-dependents-verification-mvp-research/research-findings-read-out.md)
 
 **Jump to:**
 
