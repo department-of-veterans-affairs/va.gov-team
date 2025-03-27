@@ -126,7 +126,7 @@ We retooled trauma-informed methods developed by the last round of concept testi
 
 # **Key Findings**
 
-Organizational structure: Findings in this report are organized by goal. In this high level summary of findings, we call out Bright spots and Problem areas at the goal level. We further break down findings into what went well and what didn’t. 
+Organizational structure: Findings in this report are organized by goal. For each detailed finding, we call out Bright spots and Problem areas.
 
 ## **Goal 1 \- Flow Structure**
 
