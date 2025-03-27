@@ -1,4 +1,4 @@
-# Active debt deduction & diary codes
+# A collection of static values
 
 ## Current list of deduction codes in the Combined Debt Portal
 These codes are used to determine the type of debt being displayed (or filtered out)
@@ -61,4 +61,18 @@ These are all the values in the switch statement that handle debt summary text
   816, 817, 820, 821, 822, 825, 850,
   852, 855, 860
 ]
+```
+
+## Current list of GMT calculation figures
+Some of the business defined magic numbers for GMT calculations we use for the streamlined waiver
+
+### Source: 
+- Relative vets-website path for definitions: `src/applications/financial-status-report/constants/gmtCalculationTypes.js`
+- [vets-website main branch link](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/financial-status-report/constants/gmtCalculationTypes.js)
+- Relative vets-website path for implementation: `src/applications/financial-status-report/actions/geographicMeansThreshold.js`
+
+```
+export const INCOME_UPPER_PERCENTAGE = 1.5;
+export const ASSET_PERCENTAGE = 0.065;
+export const DISCRETIONARY_INCOME_PERCENTAGE = 0.0125;
 ```
