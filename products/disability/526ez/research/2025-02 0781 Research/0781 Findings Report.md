@@ -24,7 +24,7 @@ Date: 03/27/25
 
 # **Research Questions**
 
-**Goal 1: Form Structure:** Validate that the new form flow is clear and intuitive to Veterans.
+#### **Goal 1: Form Structure: Validate that the new form flow is clear and intuitive to Veterans.**
 
 * To what extent do intro and review pages help Veterans understand what's behind them and what to expect next?
 
@@ -37,7 +37,7 @@ Date: 03/27/25
 * How do Veterans feel about the location of the supporting evidence in relation to the 0781?
 
 
-  **Goal 2: Informed Choices, Optionality, and Destructive Actions:** Evaluate the clarity and flexibility of decision points to determine if Veterans can make and change their minds with ease.
+#### **Goal 2: Informed Choices, Optionality, and Destructive Actions: Evaluate the clarity and flexibility of decision points to determine if Veterans can make and change their minds with ease.**
 
 * To what extent do Veterans understand that the form is optional? How does their perception of optionality impact what they do or don’t complete?
 
@@ -49,7 +49,7 @@ Date: 03/27/25
 
     
 
-  **Goal 3: Multi-response Pattern: Evaluate the usability of the multi-response pattern.**
+#### **Goal 3: Multi-response Pattern: Evaluate the usability of the multi-response pattern.**
 
 * How do Veterans navigate through the multi-response pattern?
 
@@ -121,45 +121,45 @@ We made recording explicitly optional, and limited the number of observers to 1 
 * **Maybe true.** Veterans managed a majority of the multi-response pattern add and edit mode with ease. The main issue with it was a misunderstanding of the interaction model. Veterans assumed the pattern had one page rather than multiple– leading to issues with editing deeper pages in the flow.
 
 
-# **Summary of Findings**
+# **Summary of Key Findings**
 
 Organizational structure: Findings in this report are organized by goal. In this high level summary of findings, we call out Bright spots and Problem areas at the goal level. We further break down findings into what went well and what didn’t. 
 
 ## **Goal 1 \- Flow Structure**
 
-**Finding \#1:** Improvements to the form flow address structural issues identified by previous research. 
+**Finding 1:** Improvements to the form flow address structural issues identified by previous research. 
 
-**Finding \#2:** Mixed comprehension of 0781 supporting documents complicates overall positive feedback on section placement.
+**Finding 2:** Mixed comprehension of 0781 supporting documents complicates overall positive feedback on section placement.
 
-**Finding \#3:**  While the flow felt logical, Veterans would like more advanced notice about upcoming evidence collection.
+**Finding 3:**  While the flow felt logical, Veterans would like more advanced notice about upcoming evidence collection.
 
 ## **Goal 2 \-  Informed Choices, Optionality, and Destructive Actions**
 
-**Finding \#4:** Veterans shared that it was easy to make changes throughout the form.
+**Finding 4:** Veterans shared that it was easy to make changes throughout the form.
 
-**Finding \#5:** When it comes to filing a claim with VA, providing information does not feel truly optional. 
+**Finding 5:** When it comes to filing a claim with VA, providing information does not feel truly optional. 
 
-**Finding \#6:** Veterans understood the purpose of the 0781 choice page and opted to file online.
+**Finding 6:** Veterans understood the purpose of the 0781 choice page and opted to file online.
 
-**Finding \#7:** Most destructive action modals were clear and reinforced the informed choice Veterans were making. 
+**Finding 7:** Most destructive action modals were clear and reinforced the informed choice Veterans were making. 
 
-**Finding \#8:** Opting out from review and submit proved to be cumbersome and confusing for some participants.
+**Finding 8:** Opting out from review and submit proved to be cumbersome and confusing for some participants.
 
 ## **Goal 3- Multi-response pattern**
 
-**Finding \#9**: Veterans navigated through the multi-response pattern add mode with relative ease. 
+**Finding 9**: Veterans navigated through the multi-response pattern add mode with relative ease. 
 
-**Finding \#10**: When editing, participants struggled to understand the multi-response interaction model.  
+**Finding 10**: When editing, participants struggled to understand the multi-response interaction model.  
 
-**Finding \#11:** The checklist-detail interaction model tripped up Veterans as they added and modified content. 
+**Finding 11:** The checklist-detail interaction model tripped up Veterans as they added and modified content. 
 
-# **Detail of Findings**
+# **Detail of Key Findings**
 
 ## **Goal 1 Findings: Form Structure**
 
 ### **Finding \#1: Improvements to the form flow address structural issues identified by previous research.**  
 
-Labels: 
+**Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
 
 #### **Bright spots (+)**
 
@@ -185,6 +185,8 @@ Labels:
 
 ### **Finding \#2: Mixed comprehension of 0781 supporting documents complicates overall positive feedback on section placement.**  
 
+**Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
+
 #### **Bright spots (+)**
 
 * A majority of those asked directly about the placement of supporting documents thought the placement in supporting evidence made sense.
@@ -201,6 +203,8 @@ Labels:
   
 
 ### **Finding \#3: While the flow felt logical, Veterans would like more advanced notice about upcoming evidence collection.** 
+
+**Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
 
 #### **Bright spots (+)**
 
@@ -219,6 +223,8 @@ Labels:
 ## **Goal 2 Findings: Informed Choices, Optionality, & Destructive Actions**
 
 ### **Finding \#4: Veterans shared that it was easy to make changes throughout the form.** 
+
+**Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
 
 #### **Bright spots (+)**
 
@@ -240,6 +246,8 @@ Labels:
 
 ### **Finding \#5: When it comes to filing a claim with VA, providing information does not feel truly optional.** 
 
+**Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
+
 #### **Problem areas (-)**
 
 * A majority of Veterans can’t imagine how they could skip sections and still receive a favorable rating. 
@@ -259,6 +267,8 @@ Labels:
 ## 
 
 ### **Finding \#6: Veterans understood the purpose of the 0781 choice page and opted to file online.** 
+
+**Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
 
 **Bright spots (+)**
 
@@ -290,6 +300,8 @@ Labels:
 
 ### **Finding \#7: Most destructive action modals were clear and reinforced the informed choice Veterans were making.** 
 
+**Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
+
 #### **Bright spots (+)**
 
 * Destructive action modals interpreted without issue include: 
@@ -309,6 +321,8 @@ Labels:
 ## 
 
 ### **Finding \#8: Opting out from review and submit proved to be cumbersome and confusing for some participants.**
+
+**Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
 
 * Participants completed 2 opt-out tasks:
 
@@ -356,6 +370,8 @@ The multi-response pattern appears throughout the flow. Findings are focused on 
 
 ### **Finding \#9: Veterans navigated through the multi-response pattern add mode with relative ease.** 
 
+**Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
+
 #### **Bright spot (+)**
 
 * Veterans perceived the 20 event cap to be reasonable for the section. 
@@ -367,6 +383,8 @@ The multi-response pattern appears throughout the flow. Findings are focused on 
 ### 
 
 ### **Finding \#10: When editing, participants struggled to understand the interaction model.**  
+
+**Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
 
 #### **Problem space (-)**
 
@@ -389,6 +407,8 @@ The multi-response pattern appears throughout the flow. Findings are focused on 
 ## 
 
 ### **Finding \#11: The checklist-detail interaction model tripped up Veterans as they added and modified content.** 
+
+**Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
 
 #### **Problem space (-)**
 
@@ -420,6 +440,8 @@ The multi-response pattern appears throughout the flow. Findings are focused on 
 
 ### **Additional Finding \#1: The conditional page with an option for adding an indicator confused all participants filing for MST.** 
 
+**Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
+
 #### **Problem space (-)**
 
 * At the end of the mental health statement, Veterans filing for MST see a conditional page, “Option to add indicator of certain upcoming claim and appeal events to your VA medical record.”   
@@ -431,6 +453,8 @@ The multi-response pattern appears throughout the flow. Findings are focused on 
 
 ### **Additional Finding \#2: Certain aspects of the form gave Veterans a greater sense of choice than they had initially realized.**
 
+**Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
+
 #### **Bright spot (+)**
 
 * Summary pages gave participants choices to edit, pause, and review their content. 
@@ -440,6 +464,8 @@ The multi-response pattern appears throughout the flow. Findings are focused on 
 * Additional information fields/uploads were not treated as required, some skipped
 
 ### **Additional Finding \#3: Half of the participants were confused by content in the Evidence step.**
+
+**Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
 
 #### **Problem space (-)**
 
