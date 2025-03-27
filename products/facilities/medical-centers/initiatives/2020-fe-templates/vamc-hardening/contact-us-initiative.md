@@ -31,17 +31,16 @@ VaMC
 - Creation of new content types
 - Editorial experience considerations
 - Vetern experience considerations
+- - Change management in cooperation with VHA Digital Media Team
 
-#### Out of scope:
-- Migration and change management (will be handled by the VAMC upgrade team)
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
 - **OBJECTIVE 1:** Veterans are more readily able to find information on VAMC Contact Us pages.
-  - **KEY RESULT:** Decreased Veteran complaints regarding lack of readily available information in Contact Us
+  - **KEY RESULT:** Decreased Veteran complaints regarding lack of readily available information in Contact Us & 0 placeholder content and all information in accordions are populated & reduce by x% number of accessibilty defects % X% increase in CSAT scores
 - **OBJECTIVE 2:** Deliver an efficient editorial experience.
-  - **KEY RESULT:** Decreased support requests to CMS
+  - **KEY RESULT:** Decreased support requests to CMS & 100% of VAMC systems have adopted the new Contact Us age (add blurb about hardening - less blobby)
 
 
 
