@@ -121,16 +121,27 @@ The product team is responsible for identifying, requesting, and implementing an
 
 Summary: These forms are not currently available in a digital format or through search, so data is for related search terms resulting in traffic/clicks to the /school administrators page. 
 - 12 month period
-- Google total clicks search results: 7,953
+- On-site search clicks: 3,341
+  - Queries and resulting clicks
+    - official - ~105
+    - sco - ~850
+    - certify - ~120
+    - 1919 - 0
+    - 8794 - 0
+    - conflict - 0
+    - designate - 2
+    - interest - 0
+- Google clicks: 7,953
   - Queries and resulting clicks (all queries including the term)
     - official - 172 clicks, 33.9% CTR
     - sco - 1k, 12.7% CTR
     - certify - 172, 33.9% CTR
-    - There were no searches containing variations of the following words resulting in a click to this page
-      - conflict
-      - proprietary
-      - designate
-      - interest
+    - 1919 - 1
+    - 8794 - 0
+    - conflict - 0
+    - proprietary - 0
+    - designate - 0
+    - interest - 0
 
 
 
