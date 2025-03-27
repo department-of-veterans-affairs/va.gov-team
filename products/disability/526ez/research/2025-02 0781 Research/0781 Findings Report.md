@@ -159,6 +159,8 @@ Organizational structure: Findings in this report are organized by goal. In this
 
 ### **Finding \#1: Improvements to the form flow address structural issues identified by previous research.**  
 
+Labels: 
+
 #### **Bright spots (+)**
 
 * The last round of concept testing identified three main issues with the form structure of the last design iteration. These include:
@@ -196,6 +198,8 @@ Organizational structure: Findings in this report are organized by goal. In this
   * Note: The destructive action does not delete uploaded evidence; only a list of supporting documents types Veterans intent to submit with their claim (e.g. “Statement from family members or roommates,” “Personal diaries or journals”)
 
 
+  
+
 ### **Finding \#3: While the flow felt logical, Veterans would like more advanced notice about upcoming evidence collection.** 
 
 #### **Bright spots (+)**
@@ -231,6 +235,8 @@ Organizational structure: Findings in this report are organized by goal. In this
   * I was going to say, \[because it\] hurt too much." \- P7, MST
 
   * I personally wouldn't, but I can see sometimes they might feel ashamed or vulnerable" \- P3, Combat
+
+    
 
 ### **Finding \#5: When it comes to filing a claim with VA, providing information does not feel truly optional.** 
 
@@ -337,13 +343,19 @@ Organizational structure: Findings in this report are organized by goal. In this
 
 ### **Context: Two patterns intended to capture multiple responses confused Veterans: The multi-response and checklist-detail pattern.** 
 
-* The checklist-detail pattern features a checklist followed by a detail page for each selected checkbox. Findings are focused on the behavioral changes context, where Veterans interacted with it most.  
-  * **Behavioral Changes:** Veterans select behavioral changes that impacted them, then give a description of each change on its dedicated page.   
-  * **Supporting Documents:** Veterans select supporting documents they have, then upload them on dedicated pages.   
-* The multi-response pattern appears throughout the flow. Findings are focused on the traumatic events context, where Veterans interacted with it personally.  
-  * **Traumatic events:** Reviewed by Veterans in study  
-  * **VA medical records:** Not reviewed in study  
-  * **Non-VA medical records:** Facilitator flythrough 
+The checklist-detail pattern features a checklist followed by a detail page for each selected checkbox. Findings are focused on the behavioral changes context, where Veterans interacted with it most.
+
+**Behavioral Changes:** Veterans select behavioral changes that impacted them, then give a description of each change on its dedicated page. 
+
+**Supporting Documents:** Veterans select supporting documents they have, then upload them on dedicated pages. 
+
+The multi-response pattern appears throughout the flow. Findings are focused on the traumatic events context, where Veterans interacted with it personally.
+
+**Traumatic events:** Reviewed by Veterans in study
+
+**VA medical records:** Not reviewed in study
+
+**Non-VA medical records:** Facilitator flythrough 
 
 ## 
 
@@ -379,7 +391,7 @@ Organizational structure: Findings in this report are organized by goal. In this
 
   * The task to cancel an edit in progress was straightforward for users.
 
-## **Checklist-detail pattern**
+## 
 
 ### **Finding \#11: The checklist-detail interaction model tripped up Veterans as they added and modified content.** 
 
@@ -401,9 +413,17 @@ Organizational structure: Findings in this report are organized by goal. In this
 
 * The delete action was intuitive to Veterans. Participants uncheck the checkbox and navigate the destructive action with ease. 
 
-# **Additional Findings**
+# **Summary of Additional Findings**
 
-### **Additional Finding: The conditional page with an option for adding an indicator confused all participants filing for MST.** 
+**Additional Finding \#1:** The conditional page with an option for adding an indicator confused all participants filing for MST. 
+
+**Additional Finding \#2:** Certain aspects of the form gave Veterans a greater sense of choice than they had initially realized.
+
+**Additional Finding \#3:** Half of the participants were confused by content in the Evidence step.
+
+# **Detail of Additional Findings**
+
+### **Additional Finding \#1: The conditional page with an option for adding an indicator confused all participants filing for MST.** 
 
 #### **Problem space (-)**
 
@@ -414,7 +434,7 @@ Organizational structure: Findings in this report are organized by goal. In this
   * P12 thought she would get updates on the claim’s progress if she selected yes.  
     * “OK, Yeah, this is, instead of just submitting it, not knowing what's going to happen if I click on yes, then they're going to let me know what the steps are going through.  And then when they've submitted things, which is incredibly helpful.” \-P12
 
-### **Additional Finding: Certain aspects of the form gave Veterans a greater sense of choice than they had initially realized.**
+### **Additional Finding \#2: Certain aspects of the form gave Veterans a greater sense of choice than they had initially realized.**
 
 #### **Bright spot (+)**
 
@@ -424,7 +444,7 @@ Organizational structure: Findings in this report are organized by goal. In this
 
 * Additional information fields/uploads were not treated as required, some skipped
 
-### **Additional Finding: Half of the participants were confused by content in the Evidence step.**
+### **Additional Finding \#3: Half of the participants were confused by content in the Evidence step.**
 
 #### **Problem space (-)**
 
