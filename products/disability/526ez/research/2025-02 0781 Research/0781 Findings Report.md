@@ -14,12 +14,10 @@ Date: 03/27/25
 
 **Jump to:**
 
-**Jump to:** 
-
 [Hypotheses and Conclusions](#hypotheses-and-conclusions)  
 [Key Findings](#key-findings)  
-[Additional Insights](#additional-insights)  
-[Recommendations](#recommendations)  
+[Additional Findings](#additional-findings)  
+[Opportunities](#opportunities)  
 [Next Steps](#next-steps)  
 [Appendix](#appendix)  
 
