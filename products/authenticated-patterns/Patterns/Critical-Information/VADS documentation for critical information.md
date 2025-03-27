@@ -43,18 +43,17 @@ Kristen Faiferlick (Ad Hoc)
 
 (This will eventually transition to Storybook links)
 
-![Service list - desktop](https://github.com/user-attachments/assets/e763c2f6-492f-4717-8b09-0d3dbebb2690)
-
-[Alt text: A list of benefits a Veteran is enrolled in. Several of the benefits in the list have Alert - Critical components, which highlight an action the user needs to take.]
-
-[Caption: In lists of Cards or Service list items, Alert - Critical can highlight important or time-sensitive actions the user needs to take. This page is not currently in production.]
-
 ![My VA](https://github.com/user-attachments/assets/46f768dd-ac0d-424a-bdce-56156c0f92e5)
 
 [Alt text: My VA, with five yellow Alert - Critical components stacked at the top of the page under a header that says “Actions needed.”]
 
 [Caption: On dashboard pages like My VA, Alert - Critical components stack at the top, highlighting the most pressing actions users need to take.]
 
+![Service list - desktop](https://github.com/user-attachments/assets/e763c2f6-492f-4717-8b09-0d3dbebb2690)
+
+[Alt text: A list of benefits a Veteran is enrolled in. Several of the benefits in the list have Alert - Critical components, which highlight an action the user needs to take.]
+
+[Caption: In lists of Cards or Service list items, Alert - Critical can highlight important or time-sensitive actions the user needs to take. This page is not currently in production.]
 
 ## Usage
 
@@ -66,7 +65,7 @@ Kristen Faiferlick (Ad Hoc)
 
 * **When an action is not urgent, time-sensitive, or required.** Use the [Alert](https://design.va.gov/components/alert/) component instead.
 * **When you need to alert the user about a system error.** Use Alerts to express system errors.
-* **When you're designing a form.** Use the Alert component to display important messages instead. 
+* **When you're designing a form.** Use the Alert component to display important messages in forms. 
 
 ### Anatomy or layout details
 
@@ -82,7 +81,7 @@ Kristen Faiferlick (Ad Hoc)
 
 #### Placement details
 
-In most cases, display the Alert - Critical component in a [Card](https://design.va.gov/components/card) or [Service list item](https://design.va.gov/components/service-list-item) component. Place the Alert - Critical component directly below the Status tag and take up the width of the component it is nested within. Include only one Alert - Critical component in a Card or Service list item. Do not include multiple Alert - Critical components in a single Card or Service list item.
+In most cases, display the Alert - Critical component in a [Card](https://design.va.gov/components/card) or [Service list item](https://design.va.gov/components/service-list-item) component. Place the component directly below the Status tag and take up the width of the component it is nested within. Include only one Alert - Critical component in a Card or Service list item. Do not include multiple Alert - Critical components in a single Card or Service list item.
 
 [Insert same image as in the Examples section]
 ![Service list - desktop](https://github.com/user-attachments/assets/742a38d5-dfd3-4339-9db9-49a5ec14ed17)
@@ -102,7 +101,7 @@ On the My VA page, you can stack Alert - Critical components at the top of the p
 * When possible, start Alert - Critical content with verbs.
 * When relevant, include a date by which the user must take the action.
 * Keep the text concise. Work with the Content IA Centralized team (CIAC) to develop clear, short messages that tell the user the required action and deadline (if applicable). 
-* In some cases, display the Alert - Critical component inside a Card or Service list item on My VA or other page that show multiple VA benefits. In these cases, you'll show the component without the context of the Card or Service list item. It's important that the content clearly communicates the action to the user. The examples below show appropriate levels of detail. 
+* You may display the Alert - Critical component inside a Card or Service list item on My VA or other page that show multiple VA benefits. In these cases, the component is shown outside the context of a Card or Service list item. It's important that the content clearly communicates the action to the user. The examples below show appropriate levels of detail. 
 
 ![Annotations 2](https://github.com/user-attachments/assets/10dcd3ef-3957-4a99-a499-1ee1e08ea87b)
 
