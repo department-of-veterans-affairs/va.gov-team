@@ -7,8 +7,8 @@
 Notify Veterans with disability claims already in progress (before the 0781 Paper Sync online form release) that there is a new VA Form 21-0781 form for Statement in Support of Claimed Mental Health Disorder(s) Due to an In-Service Traumatic Event(s) that is available and what they can do if they want to answer questions to support their claim processing. 
 
 ## Problem Statement
-For Veterans who have a 526 disabilty claim in progress before the 0781 paper sync release may submit their claim with missing mental health related questions that are on the new VA Form 21-0781, because they may not know that there is a new online version. This impacts Veterans with claims that are already in progress before the release and claims that were started after the release, but were not in the canary rollout. We need to be able to inform these Veterans that there is a new online VA Form 21-0781. Notifying them will give them the information they need and the opportunity to make an informed decision. If we don't notify these users, they may submit their claim without the necessary information which could hold up their calim processing. 
- 
+Veterans with a 526 disability claim in progress prior to the release of the 0781 paper sync may unknowingly submit their claims without addressing new mental health-related questions included in the updated VA Form 21-0781. This issue also affects Veterans who initiated claims after the release but were not included in the canary rollout. Without awareness of the new online form, these Veterans may submit incomplete claims, leading to potential delays in claim processing. It is critical to notify impacted Veterans about the updated VA Form 21-0781, ensuring they have the necessary information to make informed decisions and avoid disruptions in their claims process. 
+
 ## Desired User Outcomes
 
 - Users will be informed about the new online version
