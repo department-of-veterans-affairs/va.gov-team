@@ -76,7 +76,7 @@ Kristen Faiferlick (Ad Hoc)
 [Caption: Alert - Critical components are always yellow and link to a page where the user can take the action. The link spans all the way from the text to the right-aligned chevron.]
 
 #### General guidance
-* The Alert - Critical component links to a detail page with a link to take the action. 
+* The Alert - Critical component links to a detail page from which the user can complete the call to action. 
 * The Alert - Critical compent is not dismissable. It should be removed when the user completes the call to action.
 
 #### Placement details
