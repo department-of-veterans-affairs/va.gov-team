@@ -1,7 +1,7 @@
-## CHAMPVA stakeholder sync
+## CHAMPVA biweekly stakeholder sync
 Every other Tuesday at 10:35am ET
 
-## **3/18/25 CHAMPVA stakeholder call**
+## **03/18/25**
 
 ### **Agenda**
 
