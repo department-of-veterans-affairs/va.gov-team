@@ -120,3 +120,9 @@ This topline summary is a high level, top of mind summary of trends found in the
 - Two experienced pain points around having to remove their children at 18 themselves (e.g. long wait times at the VA office or owing overpayments). These experiences occurred before automatic drop-off at 18 was in place. 
 
 > “From an efficiency standpoint, there's got to be a better way to handle [children aging out while still in high school]." (P12)
+
+**Recommendation #4: Work with our partners at VBA to align on notifications for dependent verification** and continue to share findings that broadly impact the users of our tools with our VBA partners to improve the dependent management experience in general. 
+- Propose coordinated approach to verification notifications and sending of 8-year mandated batch letters so that we can avoid potential overlap of digital and paper notifications and causing the Veteran undue confusion or frustration. 
+- Suggest a timeline for when specific steps in dependent verification notification launch should happen, including what's required of the online experience before the notification launch (e.g. waiting to launch until Veteran engagement with the online tool to add or remove dependents can generate a 21-0538).
+- Work with VBA partners to find potential solutions to recurring pain points for users of our tools, such as the struggles around the 18-year-old to school-age transition.
+
