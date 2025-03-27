@@ -83,11 +83,11 @@ Examples:
 
 Targeting Launch March 18-25th 
 * Desired date range: A day minimum per stage to monitor metrics.
-	- Canary Launch: 10% of traffic (Tuesday, March 18)
-	- Stage A: 25% of Submitters (Wednesday, March 19)
-	- Stage B: 50% of submitters (Thursday, March 20)
-	- Stage C: 75% of Submitters (Friday, March 21)
-	- Stage D: 100% of Submitters (Monday, March 24)
+	- Canary Launch: 10% of traffic (Thursday, March 27)
+	- Stage A: 25% of Submitters (Friday, March 28)
+	- Stage B: 50% of submitters (Monday, March 31)
+	- Stage C: 75% of Submitters (Tuesday, April 1)
+	- Stage D: 100% of Submitters (Wednesday, April 2)
 	- **Watchout:** End of week and end of month are high volume, a weekend or Monday would be the best approach in early or middle of month.
 
 * How will you make the product available in production while limiting the number of users who can find/access it: 
