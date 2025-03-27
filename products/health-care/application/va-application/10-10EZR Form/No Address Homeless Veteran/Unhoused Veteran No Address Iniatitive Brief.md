@@ -62,7 +62,7 @@ Alex Seelig, 3/26/2025
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) ALEX FILL THIS OUT!!!!!!!!!!!!
 
 ---
 
@@ -72,17 +72,20 @@ Alex Seelig, 3/26/2025
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - How many unhoused Veterans go online to update their healthcare information via the EZR?
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - Will unhoused Veterans know to check the box?
+  - Will unhoused Veterans understand that by checking the box their Preferred Facility's address will be used as their address?
+  - Will unhoused Veterans understand that if they have previously indicated that they're unhoused, that their Preferred Facility address will display? 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
+  - Can we create an indicator to VES that the Veteran is homeless and to make their address their preferred facility?
+  - Can the backend VES system automatically default an unhoused Veteran's address to their preferred facility when a Veteran indicates they are homeless?
   - Examples:
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+  - Will this make is easier for unhousec Veterans to use VA.gov?
 
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
