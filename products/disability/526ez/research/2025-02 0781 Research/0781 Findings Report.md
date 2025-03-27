@@ -71,17 +71,17 @@ We conducted 9 semi-structured interviews via Zoom with Veterans who had previou
 
 We retooled trauma-informed methods developed by the last round of concept testing in June 2024\. Below is an overview of steps taken to be trauma-informed in research planning, recruitment, and sessions. 
 
-### **Extra care in screening questions**
+#### **Extra care in screening questions**
 
 We included a question that explicitly stated the sensitive topics that would be discussed, and the purpose behind the study
 
 We screened out first-time participants, so that we’d only be talking to folks who had experience with the format of OCTO studies
 
-### **More screening phone calls and reminders**
+#### **More screening phone calls and reminders**
 
 We worked with Perigean to ensure phone call and email messaging reiterated the sensitive nature of the study and offered an additional opportunity to opt out or reschedule.
 
-### **Extra care in our conversation guide**
+#### **Extra care in our conversation guide**
 
 We reviewed our conversation guide with the Trauma-Informed Design Community of Practice, spent additional time to explain the study and provided opportunities to opt out and take breaks throughout the interview.
 
@@ -95,7 +95,7 @@ We made recording explicitly optional, and limited the number of observers to 1 
 
 * **Maybe True.** A majority of participants saw the relationship between traumatic events and behavioral changes and met expectations set by the form. As opposed to previous concept testing, Veterans did not voice feelings of form redundancy or confirmation fatigue, suggesting that the new design improved upon previous flow. 
 
-  ### **Goal 2: Informed Choices, Optionality, and Destructive Actions**
+### **Goal 2: Informed Choices, Optionality, and Destructive Actions**
 
 #### **Hypothesis: Veterans understand that they can change their mind/answers at key points throughout the flow.**
 
@@ -110,7 +110,7 @@ We made recording explicitly optional, and limited the number of observers to 1 
 * **Definitely true.** Veterans perceived optional fields as required in order to get a good rating on their claim. 
 
 
-  ### **Goal 3: Multi-response Pattern** 
+### **Goal 3: Multi-response Pattern** 
 
 #### **Hypothesis: The card visual will ease the burden of keeping track of responses.**
 
@@ -341,23 +341,18 @@ Labels:
 
 # **Goal 3 Findings: Multi-response Pattern** 
 
-### **Context: Two patterns intended to capture multiple responses confused Veterans: The multi-response and checklist-detail pattern.** 
+### **Context-setting: Two patterns intended to capture multiple responses confused Veterans: The multi-response and checklist-detail pattern.** 
 
 The checklist-detail pattern features a checklist followed by a detail page for each selected checkbox. Findings are focused on the behavioral changes context, where Veterans interacted with it most.
 
-**Behavioral Changes:** Veterans select behavioral changes that impacted them, then give a description of each change on its dedicated page. 
-
-**Supporting Documents:** Veterans select supporting documents they have, then upload them on dedicated pages. 
+* **Behavioral Changes:** Veterans select behavioral changes that impacted them, then give a description of each change on its dedicated page.   
+* **Supporting Documents:** Veterans select supporting documents they have, then upload them on dedicated pages. 
 
 The multi-response pattern appears throughout the flow. Findings are focused on the traumatic events context, where Veterans interacted with it personally.
 
-**Traumatic events:** Reviewed by Veterans in study
-
-**VA medical records:** Not reviewed in study
-
-**Non-VA medical records:** Facilitator flythrough 
-
-## 
+* **Traumatic events:** Reviewed by Veterans in study  
+* **VA medical records:** Not reviewed in study  
+* **Non-VA medical records:** Facilitator flythrough 
 
 ### **Finding \#9: Veterans navigated through the multi-response pattern add mode with relative ease.** 
 
