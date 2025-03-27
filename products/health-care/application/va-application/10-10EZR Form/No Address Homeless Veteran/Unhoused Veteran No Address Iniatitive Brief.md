@@ -90,14 +90,18 @@ Alex Seelig, 3/26/2025
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 - A FE indicator where a Veteran can indicate that they're unhoused. 
-- Once that is indicated, when the EZR is submitted to VES, VES automatically populates the Veteran's address as their preferred facility and indicates that they're homeless. 
+- Once that is indicated, when the EZR is submitted to VES, VES automatically populates the Veteran's address as their preferred facility and indicates that they're homeless.
+- Making address NOT a required field either on the FE or BE. 
 - Content explaining this.
 > *What have you explicitly decided to **not** include and why?*
-- Anything not listed above, including but not limited to 
+- Anything not listed above, including but not limited to the EZR system automatically populating the Veteran's address.
 > *How does this solution address your Assumptions & Risks?
+- We have checked with VES lead Joshua Faulkner and confirmed that VES has a procedure for handling homeless Veterans. 
+- We will build a FE that makes it clear to Homeless Veterans how they can fill out an EZR without having an address, including content to match that.
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+- Notifying the field would be helpful as they can let homeless Veterans know they can update their information online.
 
 --- 
 
