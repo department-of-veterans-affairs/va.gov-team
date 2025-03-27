@@ -17,9 +17,8 @@ Date: 03/27/25
 **Jump to:** 
 
 [Hypotheses and Conclusions](#hypotheses-and-conclusions)  
-[Key Findings](#key-findings)  
-[Details of Findings](#details-of-findings)  
-[Additional Insights](#additional-insights)  
+[Key Findings](#details-of-key-findings)  
+[Additional Insights](#details-of-additional-insights)  
 [Recommendations](#recommendations)  
 [Next Steps](#next-steps)  
 [Appendix](#appendix)  
