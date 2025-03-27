@@ -40,7 +40,7 @@ Medallia Feedback Requests - Q1 2025
 |   10  | 03-02-2025 | 03-08-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/104210 |
 |   11  | 03-09-2025 | 03-15-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/104212 |
 |   12  | 03-16-2025 | 03-22-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/105787 |
-|   13  | 03-23-2025 | 03-29-2025 |              | https://github.com/department-of-veterans-affairs/va.gov-team/issues/105788 |  
+|   13  | 03-23-2025 | 03-29-2025 | Jenny Wang   | https://github.com/department-of-veterans-affairs/va.gov-team/issues/105788 |  
 |   14  | 03-30-2025 | 04-05-2025 |              | https://github.com/department-of-veterans-affairs/va.gov-team/issues/105789 |  
 
 
