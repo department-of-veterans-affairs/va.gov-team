@@ -63,7 +63,7 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
     - Example basedon H1 in Figma: Update Your Institution's List Of Certifying Officials | Veterans Affairs
 
 **2) Conflicting interests certification 22-1919 form**
-  - URL: wwwva.gov/school-administrators/report-conflicting-interests/
+  - URL: www.va.gov/school-administrators/report-conflicting-interests/
     - This is the canonical URL for the form and what will appear in search results.
     - All referring links should have this URL as the destination.
     - Once this URL renders, form logic should redirect the visitor to the first page within the form flow - per standards this is generally /introduction
