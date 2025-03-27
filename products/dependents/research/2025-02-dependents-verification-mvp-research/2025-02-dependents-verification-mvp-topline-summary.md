@@ -108,8 +108,6 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 > "This should be a confirmation of what I did online. And you already have a receipt of this [on the] website. It's very confusing." (P10)
 
-**Recommendation: 
-
 **Secondary Finding #2: All participants with dependent children experienced pain points around the 18-year-old to school-age transition.**
 - For participants with dependent children, this was often the first thing they mentioned when asked about their experiences managing dependents, so this pain point is both common and memorable.
 - Two of our participants had children automatically age out at 18 before they graduated high school.
