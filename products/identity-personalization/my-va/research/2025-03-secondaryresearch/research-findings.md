@@ -361,7 +361,13 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 
 # **Appendix**<a id="appendix"></a>
 
-- None
+<details>
+
+<summary>03/2025 Screenshot of My VA</summary>
+
+![2025_03_MyVA_Screenshot](https://github.com/user-attachments/assets/f4d5a120-8135-40fe-89cc-573b3ac5a99a)
+
+</details>
 
 
 ## **Tools used for Synthesis**
@@ -381,7 +387,9 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 
 ## **Secondary Research**
 
-### **My VA Reports**
+<details>
+
+<summary>My VA Reports</summary>
 
 1. [10/2020 Background (Find VA Benefits Research Summary)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-mvp/2018-find-va-benefits/Discovery/User%20Research/Research%20Summary.md)
 
@@ -526,3 +534,5 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 - [08/2023 My VA 2023 Notification Documentation Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-documentation-discovery-findings.md)
 
 - [11/2024 MyVA Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases)
+
+</details>
