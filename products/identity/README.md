@@ -4,6 +4,24 @@
 
 The OCTO Identity team manages the authentication integration for VA.gov. We work with identity partners to confirm who’s signing in and provide secure access to VA.gov resources. Our team understands how identity and security works across the entire platform.
 
+## **2025Q2 ROADMAP**
+
+**NOW**
+- Delegate Access MVP
+- OKTA SSOe Pilot
+- Sign-In Transition: DMDC Federation
+  
+**NEXT**
+- Sign-In Transition: DS Logon Deprecation
+- Post-MHV Deprecation Work
+- Improving CSAT Metrics
+- Operational Readiness: Internal Processes
+- MHV & MVH move into VA.gov
+
+**LATER**
+- Fraud Detection -> Prevention
+- Error Reduction on VA.gov
+
 ## **How we can help**
 
 We help teams set up and monitor a secure signed in experience for VA.gov applications and services. Schedule [flexible office hours or engineering pairing sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) with us to collaborate anytime.
