@@ -80,8 +80,13 @@ This topline summary is a high level, top of mind summary of trends found in the
 > "Update and edit is pretty much the same thing." (P3)
 
 **Recommendation #4: Break up information on this page to improve readability and comprehension.**
+- Rather than asking if the Veteran would like to update or verify on the same page as we’re providing directions for how to correct personal information for dependents, we can break up this information to reduce risk of confusion.
+  - Increase clarity by breaking the flow into separate pages: 
+    1. Correct dependent personal information
+    2. Add/remove or verify 
 - Alternatively (or in combination with breaking up content), use more specific language in the key decision point (i.e. "add/remove" in place of "update").
 - [Go to suggested flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1743019561703)
+- [Go to recommendations in Figma](https://www.figma.com/design/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?node-id=2809-74335&t=evfeXfHDOwDraz52-1)
 
 
 **Finding #5: Many participants paused or were unclear about how to correct personal or contact information.**
