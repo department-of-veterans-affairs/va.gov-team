@@ -24,6 +24,7 @@ This document is for our design team to communicate field rules. This list is al
   - [State of property](#state-of-property)
   - [Subject field](#subject-field)
   - [Veteran Readiness and Employment (VR&E) information](#veteran-readiness-and-employment-vre-information)
+  - [What is your relationship to the Veteran](#what-is-your-relationship-to-the-veteran)
   - [Who is your question about](#who-is-your-question-about)
 
 ## Attachments
@@ -187,6 +188,21 @@ On the 'Your question' page, we include a subject field if it's an education-rel
 |Category = `Education benefits and work study` and topic ≠ `Veteran Readiness and Employment (Chapter 31)`|Don't include VR&E pages||
 |All other categories|Don't include VR&E pages||
 |If 'Yes' to `Have you/they ever applied for Veteran Readiness and Employment benefits and services?`|Require `Veteran Readiness and Employment counselor`|
+
+## What is your relationship to the Veteran
+
+This question asks, 'What is your relationship to the Veteran?' and gives the options:
+- I'm the Veteran
+- I'm the family member of a Veteran
+- [I'm connected to the Veteran through work]*
+
+*This 3rd option is only included if the user answers 'Someone else' to 'Who is your question about?' Or, if it's an education question.
+
+|If|Then|Unless|
+|:--|:--|:--|
+|Category = `Education benefits and work study`|Show version of 'What is your relationship to the Veteran?' with 3 options|Topic = `Veteran Readiness and Employment (Chapter 31)`|
+|Category = `Benefits issues outside the U.S.`|Show version of 'What is your relationship to the Veteran?' with 3 options|Topic = `Disability compensation`|
+|All other categories|Which version of 'What is your relationship to the Veteran?' depends on response to 'Who is your question about?'||
 
 ## Who is your question about
 
