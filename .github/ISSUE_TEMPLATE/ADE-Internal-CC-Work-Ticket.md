@@ -1,8 +1,8 @@
 ---
 name: "Internal ADE CC Work Ticket"
-about: Template for ADE members to utilize, when needing to create a ticket oustide the intake process such as a child ticket or an internal ADE work ticket for work being done to support the CC. This ticket can be an epic/parent or child ticket. 
-title: '[ADE CC]:<Team><Product><Requesting>'
-labels: 'ADE'
+about: Template for ADE members to utilize, when needing to create a ticket oustide the intake process such as a child ticket or a parent/epic for work being done to support the CC.
+title: '[ADE CC]:<Team><Product><Requesting><Stage>'
+labels: 'ADE, ADE CC AN'
 assignees: artsymartha68,sara-amanda,lakper
 
 ---
