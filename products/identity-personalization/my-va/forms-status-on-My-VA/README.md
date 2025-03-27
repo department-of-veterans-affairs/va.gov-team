@@ -119,7 +119,8 @@ The primary goal of this MVP is to reduce silent submission failures in the form
 
 ## Key deliverables
 
-- [Technical discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/benefit-application-drafts-forms-submission-status/technical-discovery.md)
+- [Technical discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/technical-discovery.md)
+
 - Usability study artifacts and findings (TK)
 - Figma designs
   
