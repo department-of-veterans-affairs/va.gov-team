@@ -72,23 +72,23 @@ We conducted 9 semi-structured interviews via Zoom with Veterans who had previou
 
 ## **Trauma-Informed Approach**
 
-We retooled trauma-informed methods developed by the last round of concept testing in June 2024\. Below is an overview of steps taken to be trauma-informed in research planning, recruitment, and sessions. 
+- We retooled trauma-informed methods developed by the last round of concept testing in June 2024\. Below is an overview of steps taken to be trauma-informed in research planning, recruitment, and sessions. 
 
 #### **Extra care in screening questions**
 
-We included a question that explicitly stated the sensitive topics that would be discussed, and the purpose behind the study
+- We included a question that explicitly stated the sensitive topics that would be discussed, and the purpose behind the study
 
-We screened out first-time participants, so that we’d only be talking to folks who had experience with the format of OCTO studies
+- We screened out first-time participants, so that we’d only be talking to folks who had experience with the format of OCTO studies
 
 #### **More screening phone calls and reminders**
 
-We worked with Perigean to ensure phone call and email messaging reiterated the sensitive nature of the study and offered an additional opportunity to opt out or reschedule.
+- We worked with Perigean to ensure phone call and email messaging reiterated the sensitive nature of the study and offered an additional opportunity to opt out or reschedule.
 
 #### **Extra care in our conversation guide**
 
-We reviewed our conversation guide with the Trauma-Informed Design Community of Practice, spent additional time to explain the study and provided opportunities to opt out and take breaks throughout the interview.
+- We reviewed our conversation guide with the Trauma-Informed Design Community of Practice, spent additional time to explain the study and provided opportunities to opt out and take breaks throughout the interview.
 
-We made recording explicitly optional, and limited the number of observers to 1 plus notetaker.
+- We made recording explicitly optional, and limited the number of observers to 1 plus notetaker.
 
 # **Hypotheses and Conclusions** 
 
