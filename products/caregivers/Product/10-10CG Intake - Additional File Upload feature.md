@@ -6,7 +6,7 @@
     * Medical records, etc
     * Want to get an idea on risks, tech limits, effort, privacy, capacity
     * **Heather**
-       * We will want to know the "why" and the benefit for the Veteran and Caregiver
+       * We will want to know the "why" and the benefit for the Veteran and Caregiver - What is the problem being solved here?
        * Consider file size limitations
        * Team will discuss on LOE and possible options, will provide to team
     * **Matt L**
