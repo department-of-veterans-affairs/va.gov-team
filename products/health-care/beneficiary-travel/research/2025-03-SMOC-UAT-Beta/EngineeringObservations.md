@@ -57,7 +57,6 @@ This page documents technical issues observed during UAT Beta sessions.  Reach o
 - **Status**: Handed off to check in team
 
 - **Notes**: On the Intro page it did show an alert informing the user that they could not file for that appointment.
-
 -----------------------
 
 ### Participant 14
@@ -69,15 +68,26 @@ This page documents technical issues observed during UAT Beta sessions.  Reach o
 - **Status**: Reviewed by VA.gov team
 
 - **Notes**: Tim to talk to Base Team regarding plugin -> VistA authorization error
-- -----------------------
+-----------------------
 
 ### Participant 17
 
 - **Issue**: Failed submission
 
-- **Reason**: Missing appointment data from API. Logs show same errors as Participant 5.
+- **Reason**: Missing appointment data from API. Datadog logs show same errors as Participant 5.
 
 - **Status**: Reviewed by VA.gov team and handed off to API team
 
-- **Notes**: 
+- **Notes**: Facility did not have a record in BTSSS so the appointment wasn't added to Dynamics.
+-----------------------
+
+### Participant 18
+
+- **Issue**: Unexpected status ==> In Manual Review
+
+- **Reason**: Failed 2 rules: Facility for claim was not listed as the claimant's home facility; appointment not marked as "complete"
+
+- **Status**: As expected for home facility
+
+- **Notes**: Not sure why appointment was not marked as completed/closed, but no control over that.
 
