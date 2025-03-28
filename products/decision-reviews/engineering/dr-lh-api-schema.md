@@ -6,7 +6,7 @@ The form submission process submits API POST requests to Lighthouse APIs as defi
 
 The schemas used in the Decision Review endpoints are from the `vets-json-schema` gem (see https://github.com/department-of-veterans-affairs/vets-json-schema/tree/master/src/schemas).
 
-An issue that has occurred before is schema versions not matching, as Lighthouse API schemas are updated independently of the `vets-json-schema` gem.
+An issue that has occurred before is Lighthouse API schema versions not matching with what the Decision Reviews form submission expects, as Lighthouse API schemas are updated independently of the `vets-json-schema` gem.
 
 ## Proposal
 
