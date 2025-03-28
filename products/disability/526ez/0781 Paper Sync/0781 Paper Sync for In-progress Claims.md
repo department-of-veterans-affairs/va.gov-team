@@ -1,5 +1,5 @@
 
-# 0781 Paper Sync for in progress claims
+# 0781 Paper Sync for in-progress claims
 
 ---
 
