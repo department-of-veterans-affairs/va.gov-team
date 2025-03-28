@@ -4,6 +4,8 @@
 
 Janelle Finnerty, <janelle.finnerty@oddball.io>
 
+[Share-out recording](https://dvagov.sharepoint.com/:f:/s/AuthenticatedExperience2/EvbE46uw8yxEijrDKBqJvmQBr-33GLIFDvkf5G8vLQWIkg?e=XzqHhE)
+
 Jump to
 
 [Background](#background)
