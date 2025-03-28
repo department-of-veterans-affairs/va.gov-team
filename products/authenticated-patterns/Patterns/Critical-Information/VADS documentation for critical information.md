@@ -109,7 +109,11 @@ On the My VA page, you can stack Alert - Critical components at the top of the p
 
 ## Accessibility considerations 
 
-Alert - Critical always contains a link. Follow best practices for the [Link](https://design.va.gov/components/link/) and [Link - Action](https://design.va.gov/components/link/action) components. 
+- Alert - Critical always contains a link. Follow best practices for the [Link](https://design.va.gov/components/link/) and [Link - Action](https://design.va.gov/components/link/action) components. 
+- WCAG [indicates](https://www.w3.org/TR/WCAG22/#use-of-color) that we should not use color alone to convey information or distinguish a visual element. Although Alert - Critical has a yellow background, its critical nature is also signaled by:
+  - Its action-oriented wording and date or deadline
+  - Its position near the top of the card, service list item, or page
+  - Its shaded background (regardless of what color the shading is perceived as) and dark chevron
 
 ## Related
 
