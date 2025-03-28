@@ -41,6 +41,8 @@
    
 </details>
 
+---
+## Questionnaire
 ### Problem statement
 _Is this a new feature? Is this a solution to a pain point?_ 
 * …
@@ -53,7 +55,7 @@ _What do YOU want to happen? (end result)_
 _Who do you expect to use this? How many users would be affected? Who do you expect not to use this? Why is this important for [user] and what does it allow them to do that they cannot do now?_
 * …
 
-## Current process
+### Current process
 _Does the process currently exist? How do users interact with it? How do staff interact with it? What is the flow of information? How is the system currently set up for this data?_
 * …
 
