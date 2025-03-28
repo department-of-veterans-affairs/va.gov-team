@@ -21,6 +21,25 @@
           * CSP to support Veterans to getting docs from nonVA sources.
        * This would be optional, but have not yet decided if this is going to be pursued as an actual feature.
 
+<details>
+   <Summary>Notes from Drew on 3/28/25 meeting</Summary>
+
+>- Gaspare:  Add New Feature
+>   - Adding a feature to upload supporting medical documentation from applicants
+>   - Team is exploring different scenarios and was curious about potential logistics
+>   - Reviewing early stages - exploring only at this point
+>        - Currently allow representative file upload currently
+>        - Other documentation TBD (Heather AI to check)
+>        - 10 MB limit of individual, file upload - no current limit of number of files to be uploaded (total payload size of 150 MB) -
+>             - specs from Salesforce size/number requirements for uploads -->  https://help.salesforce.com/s/articleView?id=experience.collab_files_size_limits.htm&type=5
+>        - Privacy and Security checks already in place - can follow the same/current passthru
+>        - WOULD require an update to PIA & PTA (approx 8+ week turnaround) - would require review with SecRisk
+>        - AI Gaspare: 
+>             - The Why/Benefit for adding this new functionality -->  Duty to Assist requirements (CSP for supporting Vets)
+>             - Level of Effort needed
+>             - Risks
+   
+</details>
 
 ### Problem statement
 _Is this a new feature? Is this a solution to a pain point?_ 
