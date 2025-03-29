@@ -1,4 +1,4 @@
-# Decision Reviews Lighthouse API Schema
+# Handling Lighthouse API Schema Changes
 
 ## Background
 
