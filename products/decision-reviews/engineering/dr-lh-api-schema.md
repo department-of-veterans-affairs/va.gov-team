@@ -15,9 +15,10 @@ See Lighthouse API documentation on the schema endpoints (e.g `/higher_level_rev
 
 By using this endpoint to get the current schema, this would eliminate the need to maintain a separate schema version in `vets-json-schema`.
 
-## Possible Issues and Mitigations
+## Risks
 
-As this proposal requires another API request during the form submission process, the schema can be cached in Redis for e.g. 24 hours.
+As this proposal requires another API request during the form submission process, that will cause the request process to take longer.
+The schema response can be cached in Redis (e.g. 24 hours).
 In the event there is an error with the schema API request and we do not want to require the user to resubmit the form, `vets-json-schema` can also be used as a failover.
 
 ## Additional Information
