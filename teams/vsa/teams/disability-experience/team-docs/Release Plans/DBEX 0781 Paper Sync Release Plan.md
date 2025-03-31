@@ -29,7 +29,7 @@ Create a new 0781 online form that will match the newest paper version of the PD
 - [Figma 0781 redesigns-final](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=8144-135894)
 - [Final -0781 PS Field Mapping.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/0781%20Paper%20Sync/0781%20PS%20Field%20Mapping.md)
 - [Final - 0781 PS New SubURL.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/0781%20Paper%20Sync/0781%20PS%20New%20SubURL.md)
-- Architecture
+- [Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/0781%20Paper%20Sync/Diagrams)
 - Datadog log
 - Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) (pre-production)
 - Product Guide
