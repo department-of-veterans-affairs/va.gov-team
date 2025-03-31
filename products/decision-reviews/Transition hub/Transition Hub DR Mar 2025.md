@@ -118,7 +118,7 @@ The Decision Reviews forms on VA.gov serve as the avenue for Veterans to formall
 | [Failure notifications to Veterans](https://github.com/orgs/department-of-veterans-affairs/projects/1434/views/5?filterQuery=failure+email&pane=issue&itemId=82258636&issue=department-of-veterans-affairs%7Cva.gov-team%7C84372) | Design/Dev completed and Implemented |
 | [In progress form redirect](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101571) | Design/Dev completed and Implemented|
 | [Enhanced DR onramp](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Enhanced-DR-Onramp-Initiative%20Brief.md) | In design of 1st prioritized solution |
-| Failure emails in e-Folders | Investigation underway |
+| [Failure emails in e-Folders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Failure%20Emails%20to%20eFolder%20Initiative%20Brief_draft.docx) | Investigation underway |
 | [VA Notify Callback Integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105199) |Investigation underway|
 
 
