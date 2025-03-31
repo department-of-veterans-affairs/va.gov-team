@@ -122,6 +122,10 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 - [Outcome-driven roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689972542685/b1908130a4ad3abdaf8fc015052540a4e15d752e)
 - Decision letter notification feature roadmap
 
+### Other in-flight priorities
+- [Migrating to new file submission component](https://github.com/orgs/department-of-veterans-affairs/projects/1549/views/3?filterQuery=component&pane=issue&itemId=88731646&issue=department-of-veterans-affairs%7Cva.gov-team%7C87835)
+  
+
 <br>
 
 
