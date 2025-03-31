@@ -1,0 +1,27 @@
+# VA.gov `user_uuid` Refactor
+
+## What is happening?
+
+The OCTO Identity team is refactoring the `User` model `uuid` // `user_uuid` attribute to change the source of the uuid & reduce its usage overall. At present the `user_uuid` is taken from the Credential Service Provider (CSP) uuid of the CSP that the user has authenticated with, and assigned to the `User` Redis-backed instance upon its creation; with this change the `User` instance will instead be assigned the uuid of its `UserAccount` instance, or `user_account_id`. Most vets-api records that use the `user_uuid` have already had their schema updated to also include the `user_account_id`.
+
+## Who made this decision?
+
+<to be completed>
+
+## Where is the code that is affected?
+
+The Identity performed an [initial audit](./vets_api_csp_uuid_reliance.md) in late 2024 that identifies where `user_uuid` is used in the vets-api codebase and the nature of its usage.
+
+## Why is the `user_uuid` being changed?
+
+There are a number of improvements that come with updating the sourcing & usage of `user_uuid`. Decoupling the CSP uuid from its extensive usage via `user_uuid` in the VA.gov codebase will allow for future features that are currently obstructed by the necessity of a CSP interaction. The `UserAccount` is an VA.gov internal record stored in the vets-api database, making it easier to manage and query than the Redis-backed `User` record and CSP-sourced uuids.
+
+## How is this refactor occurring?
+
+The Identity team has several backend engineers working together to make repeated passes of the vets-api codebase, identifying areas that need to be changed and writing PRs for them. We've been starting with the lowest-hanging fruit and places where the `user_uuid` is being used explicitly as a CSP uuid (ie. calling MPI with a `user_uuid` passed in as an ID.me uuid) and coming up with solutions for them.
+
+The main phase of the project is verifying that ActiveRecord tables that include `user_uuid` are properly filled out with `user_account_id` values and backfilling records that are missing `UserAccount` information. After ensuring that 100% of affected records have `user_account_id` values updates will be made to vets-api code to switch record creation & querying to using the new uuid value and drop the duplicate `user_uuid` references.
+
+## What is needed from my team?
+
+The Identity team has identified the areas of code that need changing but we often lack the domain expertise to know the potential ramifications of `user_uuid` changes. We can provide guidance, examples, and in  some cases will be able to construct review-ready PRs ourselves, but will in many instances need individual teams to author PRs to code under their jurisdiction in order to complete the transition without a loss in service.
