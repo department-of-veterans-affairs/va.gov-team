@@ -41,8 +41,7 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 - [Staging link](https://staging.va.gov/claim-or-appeal-status/)
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/CST%20Product)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Product%20Outline.md)
-- [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/product-guides/VA%20Claim%20Status%20Tool%20Product%20Guide%20v2.1%20SRT%2006262024.docx)
-- [Things to know](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/10-10EZ%20-%20Things%20to%20know.md) 
+- [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/product-guides/VA%20Claim%20Status%20Tool%20Product%20Guide%20v2.1%20SRT%2006262024.docx) 
 - [Stakeholder Meeting Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes)
 - [PM Resources folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/CST%20Product) 
 
