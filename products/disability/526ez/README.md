@@ -56,7 +56,7 @@ Government Stakeholders:
  GitHub team label: DBEX-TREX
 - Product manager: Mike Marinos
 - Design and Research: Lauren Dawson, Melissa Schaff, Tashi Islam
-- Engineering: Aurora Hampton, Seth Darr, Christine Cereca, Mark Chae, Tommasina Miller
+- Engineering: Aurora Hampton, Seth Darr, Mark Chae, Tommasina Miller, Ari Perez, Tracy Tran
 - Delivery: Pam Macalintal
  
 
