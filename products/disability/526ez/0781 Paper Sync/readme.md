@@ -169,7 +169,9 @@ See [0781 Mental Health Paper Sync](https://app.mural.co/t/departmentofveteransa
 #### Team Members
 
 <details>
- 
+
+Release: 
+
 - Prod Manager: Lisa Capaccioli
 - Delivery Lead: Amy Plange
 - Des/Res Lead: Ruben Sun
@@ -179,6 +181,13 @@ See [0781 Mental Health Paper Sync](https://app.mural.co/t/departmentofveteransa
 - Full Stack Eng: Alison Jones
 - Full Stack Eng: JR Reed
 - Lead Eng: Kyle Soskin
+
+Previously
+
+- Des/Res: Julie Pedtke
+- Des/Res: Nichole Nicholas
+- Des/Res: Jina Ryu
+- Full Stack Eng: Sam Stuckey
 </details>
  
 #### Stakeholders
