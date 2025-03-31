@@ -13,6 +13,7 @@ What is form 21P-0969 used for? From the [About VA Form 21P-0969 page on VA.gov]
 The 21P-0969 is available to Veterans today through a paper form.  This initiative will bring the form online so that Veterans instructed to complete it can more efficiently populate their income and asset information through a streamlined digital experience.
 Today when the Veteran triggers the need for the Income and Asset statement form from the online pension application, they are presented an alert asking them to fill out and upload or mail the 0969.  They are also messaged at the end of the application about Supporting Documentation that need to be submitted with the application.
 Today the 534 Dependency and Indemnity, Survivors pension form is only available as PDF.  If the applicant answers yes to one of the questions 39B-40E, the instructions prompt them to fill out and upload or mail the 0969.
+
 The 21P-0969 feature was on the Veteran Facing Forms team roadmap through March of 2024 when the decision was made to transition it to the Pension team.  A handoff meeting was held in April.
 The current behavior for a Veteran to populate a 21P-0969:
 Veterans Pension Benefits (527)
@@ -51,12 +52,14 @@ Lack of clarity on when supplemental forms (e.g. 21P-8416, 21P-4185) should be c
 Adding to VSR processing burden for 0969 and claim through forms with missing information.
 
 ##Policy Documents##
-[Policy guidelines on Income and Net Worth development](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000178674/M21-1-Part-IX-Subpart-i-Chapter-3-Section-A-General-Information-on-Income-and-Net-Worth-Development?query=0969)
+
+[Policy guidelines on Income and Net Worth development](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000178674/M21-1-Part-IX-Subpart-i-Chapter-3-Section-A-General-Information-on-Income-and-Net-Worth-Development?query=0969))
 
 ##Discovery Research References##
+
 [va.gov 21P-0969 about page](https://www.va.gov/find-forms/about-form-21p-0969/)
-[Flow diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716990611183/ae454eca4402d95d1d1f82d8a55d901f43bee6e1?sender=ud143866fd5369378295a0267)
-[Figma designs from VFF team](https://www.figma.com/design/tJhSwyQorlgdVPC2UKx1fQ/WIP---21P-0969-Income-and-Asset?node-id=0-1&t=fj1AJefI1lxkTs5h-0)
+[Flow diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716990611183/ae454eca4402d95d1d1f82d8a55d901f43bee6e1?sender=ud143866fd5369378295a0267))
+[Figma designs from VFF team](https://www.figma.com/design/tJhSwyQorlgdVPC2UKx1fQ/WIP---21P-0969-Income-and-Asset?node-id=0-1&t=fj1AJefI1lxkTs5h-0))
 
 
 **Solution Approaches**
