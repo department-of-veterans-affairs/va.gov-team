@@ -29,10 +29,10 @@ Now, Next, Later roadmap by quarter is in a DSVA Slack list: [Sitewide Strategic
 
 Project | Portfolio | Epic | Documentation | Collab Cycle, if any | Status
 --- | --- | --- | --- | --- | ---
- |  |  |  |   |
- |  |  |  |   |
- |  |  |  |   |
- |  |  |  |   |
+VBA Events | Facilities | [17665](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17665) |  |  | Stories in draft
+Vet Center Events | Facilities | [12926](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12926) |  |  | Stories in draft
+Mapbox Cost Savings | Facilities | [20277](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20277) |  |  | Discovery
+Banners for Vet Centers | Facilities | 19891(https://github.com/department-of-veterans-affairs/va.gov-cms/issues/19891) |  |   | Discovery
  |  |  |  |   |
  |  |  |  |   |
  |  |  |  |   |
