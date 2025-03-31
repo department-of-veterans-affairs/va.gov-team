@@ -32,9 +32,9 @@ VBA Events | Facilities | [17665](https://github.com/department-of-veterans-affa
 Vet Center Events | Facilities | [12926](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12926) |  |  | Stories in draft
 Mapbox Cost Savings | Facilities | [20277](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20277) |  |  | Discovery
 Banners for Vet Centers | Facilities | [19891](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/19891) |  |   | Discovery
- |  |  |  |   |
- |  |  |  |   |
- |  |  |  |   |
+Vet Center Outstation Locations | Facilities | [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17693)  | [Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2024-vet-centers-2.0/initiative-brief.md) | N/A | The FE has been completed using mock data. Still need to hook up to CMS data (ticket #21049)  
+Home Page News Promo Block Automation | Public Websites | [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20292) | N/A | N/A | Daniel has expanded the implementation to use the new WP field for teasers. Today / tomorrow he will research using ECA workflow to run the nightly migration. If that does not work, the next step will be to hook up nightly migration from WP via a Jenkins action. 
+Resources & Support: Tagging & Searching | Public Websites | [UX Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/19495); [Main Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/19492) | [Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1) | [Collab Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95014) | Research conducted; readout and synthesis completed; implementation on hold until a search.gov alternative is identified. 
  |  |  |  |   |
  |  |  |  |   |
 
