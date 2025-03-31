@@ -21,10 +21,14 @@ Date: 03/27/25
 
 # **Research Goals**
 
-* **Goal 1: Form Structure:** Validate that the new form flow is clear and intuitive to Veterans.  
-* **Goal 2: Informed Choices, Optionality, and Destructive Actions:** Evaluate the clarity and flexibility of decision points to determine if Veterans can make and change their minds with ease.  
-* **Goal 3: Multi-response Pattern:** Evaluate the usability of the multi-response pattern.
+* **Goal 1: Form Structure:** Validate that the new form flow is clear and intuitive to Veterans.
+![Form flow overview](https://github.com/user-attachments/assets/05b30c66-c0a7-455e-a08e-7bf038be6b91)
 
+* **Goal 2: Informed Choices, Optionality, and Destructive Actions:** Evaluate the clarity and flexibility of decision points to determine if Veterans can make and change their minds with ease.
+![Goal 2_ Optionality to add 0781](https://github.com/user-attachments/assets/f2a6fe30-2f8f-4c3d-9e3d-9c131c7b96fd)  
+
+* **Goal 3: Multi-response Pattern:** Evaluate the usability of the multi-response pattern.
+![Goal 3_ Multi-response pattern  ex](https://github.com/user-attachments/assets/d143963e-1d80-4fa1-b0f4-40a1023daff2)
 # **Research Questions**
 
 #### **Goal 1: Form Structure: Validate that the new form flow is clear and intuitive to Veterans.**
@@ -136,6 +140,7 @@ Organizational structure: Findings in this report are organized by goal. For eac
 
 **Finding 3:**  While the flow felt logical, Veterans would like more advanced notice about upcoming evidence collection.
 
+
 ## **Goal 2 \-  Informed Choices, Optionality, and Destructive Actions**
 
 **Finding 4:** Veterans shared that it was easy to make changes throughout the form.
@@ -143,6 +148,8 @@ Organizational structure: Findings in this report are organized by goal. For eac
 **Finding 5:** When it comes to filing a claim with VA, providing information does not feel truly optional. 
 
 **Finding 6:** Veterans understood the purpose of the 0781 choice page and opted to file online.
+
+
 
 **Finding 7:** Most destructive action modals were clear and reinforced the informed choice Veterans were making. 
 
@@ -176,7 +183,9 @@ Organizational structure: Findings in this report are organized by goal. For eac
 
   * Disjointed Evidence Flow \+ Orphaned 4142
 
-    * Veterans responded well to the overall flow of the consolidated evidence section, including the placement of the 0781 supporting docs.
+![Goal 1 - form flow](https://github.com/user-attachments/assets/fd1db53c-956f-48c4-8c4f-9cbadec44bb9) 
+
+    * Veterans responded well to the overall flow of the consolidated evidence section, including the placement of the 0781 supporting docs.*
 
 #### **Problem areas (-)**
 
@@ -206,6 +215,7 @@ Organizational structure: Findings in this report are organized by goal. For eac
   
 
 ### **Finding \#3: While the flow felt logical, Veterans would like more advanced notice about upcoming evidence collection.** 
+![Goal 1_ Advanced notice for supporting evidence](https://github.com/user-attachments/assets/95d033a6-1540-4bc6-824b-5a331fffd9f2)
 
 **Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
 
@@ -214,6 +224,8 @@ Organizational structure: Findings in this report are organized by goal. For eac
 * The evidence intro page gives Veterans an opportunity to review evidence requirements in a new tab. Half of Veterans shared they would download them to better orient themselves to the task ahead.
 
 #### **Problem areas (-)**
+
+ [Goal 1_ Supporting evidence](https://github.com/user-attachments/assets/36ecfb15-f466-4fde-b6d3-6d8b0e7d2d0f)
 
 * Multiple participants wanted clearer instruction and expectation setting about where to add evidence in the flow– including 2 MST-filers.
 
@@ -233,13 +245,17 @@ Organizational structure: Findings in this report are organized by goal. For eac
 
 * Participants appreciated that summary screens gave them the opportunity to double check and revise answers as needed. 
 
+
   * “I just think \[the event summary page is\] super user-friendly compared to how I've had to fill things out before, because I'd have to find my way back to a page or something where I filled out the event and then it go back to it in order to check to see if anything is there.” \-P12
 
   * “There are several spots within the form I thought was nice that you could-if you did change your mind or if you wanted to–take away an incident. So that was fairly early intuitive.” \-P9
 
 * Veterans comprehended and resolved the conflicting selection validation error on the supporting documents page with ease. 
+![Goal 2_ Resolving the conflicting section validation error](https://github.com/user-attachments/assets/79e11f22-262f-4fd7-ac69-8b159cfb1ccb)
 
 * A couple of participants shared that they could imagine changing their mind about filling out the form– but most didn’t expect to opt out. 
+
+![Goal 2_ Opt-out](https://github.com/user-attachments/assets/33e90313-e989-4261-a1da-f6732b451164)
 
   * I was going to say, \[because it\] hurt too much." \- P7, MST
 
@@ -248,6 +264,8 @@ Organizational structure: Findings in this report are organized by goal. For eac
     
 
 ### **Finding \#5: When it comes to filing a claim with VA, providing information does not feel truly optional.** 
+
+![Goal 2_ optionality about mental health](https://github.com/user-attachments/assets/df957f43-4e54-42f7-99e5-4e75c8e93c05)
 
 **Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
 
@@ -276,8 +294,10 @@ Organizational structure: Findings in this report are organized by goal. For eac
 **Bright spots (+)**
 
 * Participants reviewed their options on the choice page and made an informed choice with ease.  
-
+![Goal 2_ Optionality choice](https://github.com/user-attachments/assets/5ed53a56-da25-41d6-87ab-49644ba8ed4c)
   * 8 out of 9 clearly understood their options and what would happen next. One participant who had never filed online thought the page was asking about the C+P exam, not the 0781\.
+
+![Goal 2_ Optionality filing online](https://github.com/user-attachments/assets/f8815298-42e5-4039-b190-91060f29aff3)
 
   * 6 participants expected to file online, citing that they thought online filing would be faster and easier than using a PDF.
 
@@ -303,6 +323,8 @@ Organizational structure: Findings in this report are organized by goal. For eac
 
 ### **Finding \#7: Most destructive action modals were clear and reinforced the informed choice Veterans were making.** 
 
+![Goal 2_ Destructive action modals](https://github.com/user-attachments/assets/8cf2b4fe-ac73-45a5-85c8-08000f638bf0)
+
 **Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
 
 #### **Bright spots (+)**
@@ -324,6 +346,7 @@ Organizational structure: Findings in this report are organized by goal. For eac
 ## 
 
 ### **Finding \#8: Opting out from review and submit proved to be cumbersome and confusing for some participants.**
+![Goal 2_ Opt opt choice and modal](https://github.com/user-attachments/assets/e4a1dca8-f089-4127-bc75-ee7bfdec2289)
 
 **Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
 
@@ -362,9 +385,13 @@ Organizational structure: Findings in this report are organized by goal. For eac
 
 The checklist-detail pattern features a checklist followed by a detail page for each selected checkbox. Findings are focused on the behavioral changes context, where Veterans interacted with it most.
 
+![Goal 3_ checklist detail examples](https://github.com/user-attachments/assets/38c46e47-5af5-432d-9656-c4df2c6dfa26)
+
 * **Behavioral Changes:** Veterans select behavioral changes that impacted them, then give a description of each change on its dedicated page.   
 * **Supporting Documents:** Veterans select supporting documents they have, then upload them on dedicated pages. 
 
+
+[Goal 3_ Multi-reponse pattern plus](https://github.com/user-attachments/assets/6bec61cd-698d-4a93-93f0-a9e523b521a6)
 The multi-response pattern appears throughout the flow. Findings are focused on the traumatic events context, where Veterans interacted with it personally.
 
 * **Traumatic events:** Reviewed by Veterans in study  
@@ -386,6 +413,8 @@ The multi-response pattern appears throughout the flow. Findings are focused on 
 ### 
 
 ### **Finding \#10: When editing, participants struggled to understand the interaction model.**  
+
+![Goal 3_ Multi-response edit confusion](https://github.com/user-attachments/assets/533adcd6-7cb1-4f34-827c-67edc90c638b)
 
 **Labels:** AUD: Veterans, PRDT: Form 526 EZ, RESRCH: Remote, RESRCH: Usability Testing
 
