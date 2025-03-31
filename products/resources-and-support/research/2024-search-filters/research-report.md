@@ -54,10 +54,66 @@ The goals of this research are to:
 
 ## Methodology 
 
-_Brief description of method chosen_
+Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Resources-support?node-id=834-6977&p=f&t=4Al9acYZgonf0ncD-0&scaling=scale-down&content-scaling=fixed&page-id=504%3A6304&starting-point-node-id=1014%3A7143&show-proto-sidebar=1&hotspot-hints=0&hide-ui=1) created by our Designer, Dave Pickett, we conducted 12 remote moderated usability testing over Zoom. 10 of the 12 participants were able to share their screen and navigate the prototype on their own. Two of the participants were unable to share their screen, but were able to proceed with the moderator sharing his screen.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
+### Features of the prototype
 
+<details>
+   
+1. Universal
+    1. Top Menu
+        1. Official US Gov site banner
+        2. Vet Crisis Line Banner
+        3. VA main nav
+            1. Sign in Link
+            2. Menu Button
+    2. Footer
+        1. Vet Crisis Line Banner
+        2. Expandable Link Section
+        3. VA.gov Links
+2. R&S Landing Page
+    1. Site Breadcrumb Navigation Link
+    2. Page Title & Summary Paragraph
+    3. Search Bar
+    4. Filter Chip(s)
+    5. Clear all Filter Chips Button
+    6. Show Filters Button
+    7. Applied Search Results & Filters Block
+    8. Filters Modal Overlay Block
+        1. Close all (Filters) Link
+        2. Filter Groupings Accordions
+            1. Filter Selection Check Boxes
+        3. Apply Filters Button
+        4. Clear All Button
+        5. Close Modal Icon/Button
+3. R&S Search Results/Article List Page
+    1. Site Breadcrumb Navigation Link
+    2. Page Title & Summary Paragraph
+    3. Search Bar
+    4. Filter Chip(s)
+    5. Clear all Filter Chips Button
+    6. Show Filters Button
+    7. Applied Search Results & Filters Block
+    8. Article Entry Link & Preview Copy
+    9. Filters Modal Overlay Block
+        1. Close all (Filters) Link
+        2. Filter Groupings Accordions
+            1. Filter Selection Check Boxes
+        3. Apply Filters Button
+        4. Clear All Button
+        5. Close Modal Icon/Button
+4. Article Details Page
+    1. Site Breadcrumb Navigation Link
+    2. Language Selector Links
+    3. Page Title
+    4. Tags Block
+    5. Page Summary/Intro Paragraph
+    6. Article Detail Content
+    7. Article Call to Action Link
+    8. Article/Page Survey
+    9. Related Information Links
+
+</details>
 
 ## Hypotheses and Conclusions
 
