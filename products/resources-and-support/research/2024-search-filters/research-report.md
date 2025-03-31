@@ -1,12 +1,10 @@
-# [Study] Research Findings 
+# R&S Search and Filtering - Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
 
 Date: MM/DD/YYYY
 
 [Designer 1] [email], [Designer 2] [email]
-
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
 **Jump to:**
 
