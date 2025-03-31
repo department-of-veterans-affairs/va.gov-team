@@ -55,7 +55,6 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 ### Product artifacts
 - [Claim Status Tool Data Flow Diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1663867462895/b0161ab939bba7d08f6bea07e3663d9d5cea22d4)
 - [Upstream Service Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Service%20Contacts.md)
-- [Page/User flow](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923531828/474bfdde942c22a0df26ad416a0b23e36b834d4a?sender=u6ad375c1c8425e5bfec67027)
 - [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 
 
@@ -87,7 +86,6 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 - [CST Mural Room](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=9e1456d1-4532-434c-b053-f7694afc5795)
 
 **Team resources**
-- [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/team.charter.md)
 - [Github Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1549/views/3?filterQuery=design&visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C149737419%2C149737418%2C149737417%2C%22Labels%22%5D)
 - [Accessibility documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/readme.md)
 - [Accessibility project board](https://github.com/orgs/department-of-veterans-affairs/projects/1255/views/1)
