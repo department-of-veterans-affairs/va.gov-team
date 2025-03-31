@@ -58,6 +58,7 @@ Adding to VSR processing burden for 0969 and claim through forms with missing in
 **Discovery Research References**
 
 [va.gov 21P-0969 about page](https://www.va.gov/find-forms/about-form-21p-0969/)
+
 [Work in progress Figma file](https://www.figma.com/file/tJhSwyQorlgdVPC2UKx1fQ/WIP---21P-0969-Income-and-Asset?type=design&node-id=0-1&mode=design&t=WNEUMmB2kNt706wv-0)
 
 [Flow diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716990611183/ae454eca4402d95d1d1f82d8a55d901f43bee6e1?sender=ud143866fd5369378295a0267)
