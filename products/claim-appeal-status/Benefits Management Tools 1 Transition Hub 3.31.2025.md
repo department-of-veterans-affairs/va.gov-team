@@ -42,7 +42,7 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/CST%20Product)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Product%20Outline.md)
 - [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/product-guides/VA%20Claim%20Status%20Tool%20Product%20Guide%20v2.1%20SRT%2006262024.docx) 
-- [Stakeholder Meeting Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes)
+- [VBA OBA Stakeholder notes](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/BMT%20-%20OBA%20Syncs%20-%20recordings%20and%20notes/BMT+OBA%20syncs.docx?d=w26d8a422385446899056f74d0f528db5&csf=1&web=1&e=1SWbi8)
 - [PM Resources folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/CST%20Product)
 - [Gap-Bet Scoring](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/BMT%201%20Gap-Bet%20Scoring%20Framework.xlsx?d=w06da960cab3b433282a414daaeb8fcff&csf=1&web=1&e=UNJbQB)
 - [Sharepoint files and resources](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST?csf=1&web=1&e=r44Kqn)
