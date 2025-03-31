@@ -296,21 +296,22 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan]  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/research/2024-search-filters/research-plan.md
 
-[Conversation guide](link here)
+[Conversation guide] - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/research/2024-search-filters/conversation-guide.md
 
-[Interview transcripts](link here)
+[Interview transcripts] - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/research/2024-search-filters/transcripts
 
 
 ### Tools used for Synthesis
-
-e.g. mural boards, etc.  
+Mural - https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738793109607/9003012168cc00d3673c9babe90d7435ece613cf
+Excel - https://docs.google.com/spreadsheets/d/1iXNUGTdyNk4QBohCufDsXhxo_fgp5QXl/edit?usp=sharing&ouid=104284908232903288918&rtpof=true&sd=true  
 
 
 ### Pages and applications used
 
 Link to prototypes or pages that were tested
+- https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Resources-support?node-id=1014-7143&p=f&t=V4keptNOHm5ry13X-0&scaling=scale-down&content-scaling=fixed&page-id=504%3A6304&starting-point-node-id=1014%3A7143&hotspot-hints=0
 
 
 ### Other supporting documents created
@@ -328,22 +329,23 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 ### Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
+- https://docs.google.com/spreadsheets/d/1cfZJ7xH-gFoLE2vbA8lZEU0yiiqRcyPX/edit?usp=sharing&ouid=104284908232903288918&rtpof=true&sd=true
 
 **Recruitment criteria**
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We talked to 12 participants.
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 9 
+* Caregivers: 3 
+* Family members of a Veteran: 5  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 7 
+* Female: 12 
 
 
 LGBTQ+:
@@ -354,17 +356,17 @@ LGBTQ+:
 
 Devices used during study: 
 * Desktop: x 
-* Tablet: x 
-* Smart phone: x 
+* Tablet: 2 
+* Smart phone: 10 
 * Assistive Technology: x
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
+* 25-34: 1
+* 35-44: 3
+* 45-54: 2
+* 55-64: 4
+* 65+: 2
 * Unknown: x
 
 
