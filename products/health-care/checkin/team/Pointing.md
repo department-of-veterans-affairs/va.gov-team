@@ -6,7 +6,7 @@ When we estimate with story points, we assign a point value to each item. The ra
 
 ## Pointing Assumptions 
 
-The typical target is for a single person is to deliver around 7 points a sprint of work. However, this may vary due to numerous circumstances and is meant only as a reference to help while pointing.
+The typical target for a single person is to deliver around 7 points a sprint of work. However, this may vary due to numerous circumstances and is meant only as a reference to help while pointing.
 
 ### Engineering
 -
