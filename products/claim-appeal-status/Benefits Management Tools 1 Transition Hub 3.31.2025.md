@@ -73,8 +73,8 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 
 **Engineering**
 - [High level view of systems](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1663867462895/b0161ab939bba7d08f6bea07e3663d9d5cea22d4)
-- [Frontend developer README](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/hca/README.md)
-- [Endpoints consumed and owned](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/Endpoints%20Information.md)
+- [Frontend developer README]
+- [Endpoints consumed and owned]
 
 **Design and Research**
 - [CST Design Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/design/resources.md)
