@@ -51,11 +51,11 @@ Confusing Veterans about the purpose or process for completing the 21P-0969 that
 Lack of clarity on when supplemental forms (e.g. 21P-8416, 21P-4185) should be completed in support of 0969 and claim.
 Adding to VSR processing burden for 0969 and claim through forms with missing information.
 
-##Policy Documents##
+**Policy Documents**
 
 [Policy guidelines on Income and Net Worth development](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000178674/M21-1-Part-IX-Subpart-i-Chapter-3-Section-A-General-Information-on-Income-and-Net-Worth-Development?query=0969))
 
-##Discovery Research References##
+**Discovery Research References**
 
 [va.gov 21P-0969 about page](https://www.va.gov/find-forms/about-form-21p-0969/)
 [Flow diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716990611183/ae454eca4402d95d1d1f82d8a55d901f43bee6e1?sender=ud143866fd5369378295a0267))
@@ -78,7 +78,7 @@ Adjust order of fields
 
 The overall time to implement the form with product, design, CAIA and Collab Cycle input will be less than if no Mock form was implemented.
 
-##Scope##
+**Scope**
 
 **WHAT’S INCLUDED IN V0:**
 Basic UI elements of all 14 sections of 0969 form
@@ -137,7 +137,7 @@ Embedded flow from 527EZ or other supplemental forms (e.g. 21P-8416, 21P-4185)
 Embedded flow from 534 (as it is paper only at this time)
 
 
-**4. External items to prioritize:**
+**External items to prioritize:**
 
 Update DOMO dashboard with Analytics team to include new 21P-0969 related pages.
 Update [0969 About page](https://www.va.gov/find-forms/about-form-21p-0969/)
