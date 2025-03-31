@@ -62,7 +62,6 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 - Analytics dashboard: 
      - [CSAT Domo](https://va-gov.domo.com/page/1545882322) (sort by URL /track-claims)
      - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/bMzsgzMCT6yazCs5H-3N_g)
-- [Important Google Analytics Event Labels]
 - [DD CST Tracked Item Stats](https://vagov.ddog-gov.com/dashboard/p2a-9ii-9hz/claim-status-tool-statistics?fromUser=false&refresh_mode=sliding&from_ts=1742736772898&to_ts=1742823172898&live=true)
 - [DD CST Error Monitoring](https://vagov.ddog-gov.com/dashboard/8me-h86-qmb/benefits---claim-status-tool-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1740231301942&to_ts=1742823301942&live=true)
 - [DD BMT Silent Failure Monitoring](https://vagov.ddog-gov.com/dashboard/pps-nf7-ppr/cst-zero-silent-failures-document-uploads?fromUser=false&refresh_mode=sliding&from_ts=1742736972052&to_ts=1742823372052&live=true)
