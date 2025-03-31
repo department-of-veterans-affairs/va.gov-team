@@ -203,3 +203,4 @@ Disability Benefits Crew:
 - [Final - 0781 PS New SubURL.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/0781%20Paper%20Sync/0781%20PS%20New%20SubURL.md)
 - [0781 Paper Sync Staging Test Plan](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-526EZ-0781-mental-health.md)
 - [0781 Mental Health Paper Sync Screenshots and Flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742838742470/a65aef904518076608009f57241cfa96874485a8?showAddTemplatePopup=true)
+- [Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/0781%20Paper%20Sync/Diagrams)
