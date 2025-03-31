@@ -24,7 +24,6 @@ Additional channels for communication with partner teams are listed below in [Pa
 ## Strategic priorities (Now, Next, Later)
 Now, Next, Later roadmap by quarter is in a DSVA Slack list: [Sitewide Strategic Priorities](https://dsva.slack.com/lists/T03FECE8V/F07JG0HFHBP?view_id=View085PKFEB18)
 
-
 ## Projects in flight
 
 Project | Portfolio | Epic | Documentation | Collab Cycle, if any | Status
@@ -38,7 +37,6 @@ Banners for Vet Centers | Facilities | [19891](https://github.com/department-of-
  |  |  |  |   |
  |  |  |  |   |
  |  |  |  |   |
-
 
 
 ## Product porfolio & maintenance documentation
@@ -57,11 +55,11 @@ Michelle Middaugh (suzanne.middaugh@va.gov) has admin access to provide addition
 
 Broadly, this portfolio is comprised of: 
 * The facility locator (https://va.gov/find-locations) - an API-driven React application
-* VA Services taxonomy - A drupal-driven technical product that describes services available at VA facilities
+* VA Services taxonomy - A drupal-driven technical product that describes services available at VA facilities and is integrated with the Facility locator and facility pages
 * Modernized facility pages for:
     * Veterans Healthcare Administration (VHA) - VA Medical Centers, VA clinics, and Mobile Clinics
         *  Largest Drupal editor base
-    * Rehabilitation Counseling Services (RCS) - Vet Centers, Vet Center Satellite location, Vet Center outstations
+    * Rehabilitation Counseling Services (RCS) - Vet Centers, Vet Center Satellite locations, Vet Center outstations
     * Veterans Benefit Administration (VBA) - Regional benefit offices
 * Legacy "Facility locator detail pages" for facilities that do not yet offer modernized pages, such as: National Cemetery Association (NCA) cemetery locations, and VBA Regional Offices that have not yet completed content entry / publishing for modernized pages
 
@@ -73,7 +71,7 @@ Broadly, Public Websites is the software development team supporting the VA's Co
 * On-site search in the header -  (P1)
 * Benefits content
 * Resources & Support content
-* Design support for the VA.gov header & footer
+* VA.gov header & footer Design support and injection into TeamSites via proxy-rewrite React application
 * A variety of other smaller tools, widgets, wizards, and content resourecs, described in the link above.
 
 P1 products in this portfolio will receive attention from the DSVA watch officer in case of outages, and require timely response to any operational issues.
@@ -81,13 +79,12 @@ P1 products in this portfolio will receive attention from the DSVA watch officer
 ### Monitoring
 Each portfolio doc linked above includes monitoring documentation within the `[product]/engineering/monitoring.md` path for the product. 
 
-Topline on monitoring channels, Datadog information, and escalation response are in the [DSVA Slack #sitewide-program channel canvas](https://dsva.slack.com/canvas/C03LFSPGV16)
-
+[DSVA Slack #sitewide-program channel canvas](https://dsva.slack.com/canvas/C03LFSPGV16) contains topline on monitoring channels, Datadog information, and escalation response 
 
 
 ## Partner team information
 Sitewide products span several repositories where we are contributors and not owners. 
-The [Repo relationship map (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723134921510/3622bf7305d3e10698094aa13525f36617c472d7?sender=u0b235d03cbd64f7f93673243) includes high level information about how these systems connect, and interact in Prod & lower environments.
+The [Repo relationship map (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723134921510/3622bf7305d3e10698094aa13525f36617c472d7?sender=u0b235d03cbd64f7f93673243) includes high level information about how these systems connect, and interact in Prod & lower environments. Sitewide is uniquely positioned to build & test features that span Drupal, vets-api, content-build, and vets-website, and VA's lower environment & test infrastructure has gaps that complicate this expanse of testing -- the Mural will help you know what is and isn't possible.
 
 ### Drupal CMS
 Owners: CMS Platform team, [#sitewide-cms-platform](https://app.slack.com/client/T03FECE8V/CT4GZBM8F)
@@ -114,17 +111,17 @@ We work with 2 separate Lighthouse API teams, both of whom are transitioning con
 - [#cms-lighthouse](https://app.slack.com/client/T03FECE8V/C02BTJTDFTN) - Communication channel with Lighthouse Facilities API team
 
 **Lighthouse Forms API**
-- [#va-forms](https://app.slack.com/client/T03FECE8V/CUB5X5MGF) - Communication channel with Lighthouse Facilities API team
+- [#va-forms](https://app.slack.com/client/T03FECE8V/CUB5X5MGF) - Communication channel with Lighthouse Forms API team
 
 ### Content-build / Next-build
-Also owned by the CMS team. 
+Also owned by the CMS team. Points of contact = Laura Flannery (acting project manager), and Chris Valarida (Technical POC).
 
 These systems provide the templating layer for Drupal content, aka "the backend of the front-end."
 
 Content-build is the legacy system slowly being replaced by next-build. 
 
 ### Vets-website
-Repository / deploy and CI/CD process for React applications on VA.gov, which includes several Public Websites / Facilities apps. 
+Repository that manages React applications on VA.gov, which includes several Public Websites / Facilities apps, and includes deploy and CI/CD process. 
 
 Owners: Platform FE, [#platform-cop-frontend](https://app.slack.com/client/T03FECE8V/C04868KS69L)
 
@@ -145,4 +142,3 @@ IA owners: Content/IA, Mikki Northuis is primary IA POC, [#content-ia-centralize
 Technical Owners of revproxy 301 server-side redirects: Platform Devops, [#platform-cop-devops](https://app.slack.com/client/T03FECE8V/C04CYC4LMU6)
 
 Technical Owners of [Injected header](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/injected-header) / proxy-rewrite client-side redirects: Public Websites (us!) 
-
