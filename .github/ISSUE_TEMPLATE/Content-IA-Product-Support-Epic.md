@@ -38,7 +38,7 @@ assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA,mnorthuis
 - Updating existing unauthenticated content on VA.gov
 
 #### Supporting artifacts
-- [CC Ticket #105105]()
+- [CC Ticket #]()
 - [Product outline]()
 - [Figma]()
 - [Mural]()
