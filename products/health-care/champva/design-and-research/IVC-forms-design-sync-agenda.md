@@ -9,7 +9,7 @@ Attendees:
     		- Service blueprinting followup: registration/Claims pain points
       	- CHAMPVA claims
       		- Resubmission screener question
-      	 - 10-10d
+      	- 10-10d
       	 	- Supporting docs prototypes
       	  	- Minimal header updates
       	   	- OHI integration list&loop discovery
