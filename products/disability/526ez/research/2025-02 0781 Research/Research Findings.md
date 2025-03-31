@@ -362,12 +362,17 @@ Organizational structure: Findings in this report are organized by goal. For eac
 
 The checklist-detail pattern features a checklist followed by a detail page for each selected checkbox. Findings are focused on the behavioral changes context, where Veterans interacted with it most.
 
-* **Behavioral Changes:** Veterans select behavioral changes that impacted them, then give a description of each change on its dedicated page.   
+- **Behavioral Changes:** Veterans select behavioral changes that impacted them, then give a description of each change on its dedicated page.   
+  - Add mode: Reviewed by 9 participants  
+  - Edit mode: Reviewed by 6 participants
+
 * **Supporting Documents:** Veterans select supporting documents they have, then upload them on dedicated pages. 
 
 The multi-response pattern appears throughout the flow. Findings are focused on the traumatic events context, where Veterans interacted with it personally.
 
-* **Traumatic events:** Reviewed by Veterans in study  
+* **Traumatic events**  
+  * Add mode: Reviewed by 9 participants  
+  * Edit mode: Reviewed by 6 participants  
 * **VA medical records:** Not reviewed in study  
 * **Non-VA medical records:** Facilitator flythrough 
 
@@ -391,21 +396,22 @@ The multi-response pattern appears throughout the flow. Findings are focused on 
 
 #### **Problem space (-)**
 
-* When participants clicked “Edit event” and were navigated back to the event detail page, they assumed  it was the only page within the event, forgetting about the official report flow. 
+* All participants clicked 'Edit Event' and assumed the event detail page was the only page for editing, forgetting the initial multi-page flow.
 
-* In a task to delete the police report they added earlier, participants scroll up and down the event detail page, unsure of where to find it. 
+* Due to this misunderstanding of the interaction model, Veteransthey were unable to find the official report on the next page of the flow when tasked with deleting it.
 
-  * None of the participants were able to locate and delete the police report within the flow. 
+* Participants scrolled through the event detail page but none were unable to locate or delete the police report.
+
 
 #### **Bright spot (+)**
 
-* Veterans easily completed the edit tasks that did not require understanding the pattern as multi-paged. 
+* 6 out of 6 Veterans easily completed other  edit tasks that did not require understanding the pattern as multi-paged. 
 
   * The multi-response card format facilitated easy editing from the summary screen. 
 
-    * Edit and delete actions from summary work as expected.
+    * Edit and delete actions from summary work as expected (6 out of 6 participants completed)
 
-  * The task to cancel an edit in progress was straightforward for users.
+  * The task to cancel an edit in progress was straightforward for users (6 out of 6 participants completed; 1 expressed confusion)
 
 ## 
 
@@ -415,21 +421,20 @@ The multi-response pattern appears throughout the flow. Findings are focused on 
 
 #### **Problem space (-)**
 
-* The relationship between the checklist and detail pages confused some users.
+* While adding behavioral changes, 5 out of 9 users had mixed understanding of how the detail pages were generated based on their checklist selections.
 
-  * In behavioral changes, 2 participants did not perceive the detail pages and navigated past them. 
+* In behavioral changes, 2 participants did not perceive the detail pages and navigated past them. 
 
   * In supporting documents, a few Veterans did not understand why they were seeing multiple upload screens after the supporting documents checklist
 
     * Note: There was an additional upload screen after the checklist-detail pattern that contributed to confusion. 
 
-* The "Edit behavioral changes" link from the summary screen unexpectedly directed participants back to the checkbox page instead of the detail pages.
-
-  * Despite initial confusion, a majority of users adjusted to the interaction model and were able to make the edit. 
+* All Veterans expected the "Edit behavioral changes" summary page link to direct them to edit detail pages–  not modify checkbox selections (6 out of 6 participants to complete edit tasks).  
+  * Despite initial confusion, a 4 out of 6 of users adjusted to the interaction model and were able to make the edit. 
 
 #### **Bright spot (+)**
 
-* The delete action was intuitive to Veterans. Participants uncheck the checkbox and navigate the destructive action with ease. 
+* 5 out of 6 participants were able to complete the delete action , unchecking the checkbox and navigating through the destructive action.
 
 # **Additional Findings**
 
