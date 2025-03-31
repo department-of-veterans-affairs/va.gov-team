@@ -137,31 +137,6 @@ Update Pension product guide to inform and educate support teams on 21P-0969  fu
 Update processing team documentation where needed
 
 
-**Questions**
-
-Should applicants know in advance (when using web based form) if they have more than 4 sources of income to report that they will need to submit an 0969?   What happens if they list 4 on the 527EZ (web based form) and then prompted to add rest on the 0969?  How does that affect the VSR work flow?
-Can 527 itself show more fields or is there a need to 'overflow' to the 0969 (and then figure out a non-confusing UX for that)
-V2 - Embedded Experience - Integrate 21P-0969 with 527EZ (TBC)
-Enable applicants filling out the 527EZ to seamlessly transition to the 0969 when they reach the appropriate trigger points
-This initiative will further ease the Veteran’s form filling burden and reduce confusion by eliminating the  need to locate a separate form when they reach the appropriate trigger points in the 527EZ.  It is most relevant to the use case where the applicant is instructed to fill out the 0969 along with their initial pension application. 
-Note that the level of acceptable integration of the 0969 with the 527EZ requires business stakeholder confirmation.  Feedback to date is that applicants must review the entire form rather than populate specific sections relevant to 527EZ trigger points.
-Proposed behavior: Enable Veterans to populate the relevant sections of the 21P-0969 form in a seamless flow within the 527EZ.
-With stakeholder approval, an embedded flow could be approached as follows:
-Applicant reaches  trigger point question, e.g, “Do you and your dependents have over $25,000 in assets?
-Applicant selects the “Yes” option
-Applicant messaged that additional information is required and are presented with the option to move to the  relevant subset of questions from the 0969 or  to remain in the 527EZ and complete the 0969 later.
-If the applicant does not complete the 0969 they are messaged again at application submission that the 0969 is required and presented the option to move to the relevant subset of questions in the 0969.
-If they choose to move to the 0969, relevant data captured in 527EZ and/or user profile is pre-populated to 0969.
-Applicant potentially provided informational messaging for context on 0969 questions based on 527EZ answers.
-Upon completion of the 0969 they continue from the point they left off in the pension application.  They are not returned to the 0969 at subsequent trigger points if 0969 is completed.
-The user inputted values in the online form are mapped to their respective fields in the PDF.
-On the backend the 0969 responses are transmitted to the 0969 API and/or PDF for downstream processing.
-
-
-This embedded workflow is applicable to the following trigger points and the section of the 0969 that applicant is presented shall be customized based on the trigger point.
-Trigger point 1: Do you and your dependents have over $25K in assets?
-Trigger point 2 Did you, your spouse or your dependents transfer any assets in the last 3 calendar years?
-Trigger point 3: Do you or your dependents own your/your family’s private residence + Is the size of the lot on which the primary residence sits over 2 acres?
 
 **Risks:**
 
