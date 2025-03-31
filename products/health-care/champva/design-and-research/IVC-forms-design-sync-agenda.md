@@ -1,6 +1,23 @@
 # Running Design and Research Agenda
+## March 31 2025
+Attendees:
+
+- ### Agenda Topics
+	- UX roadmap review
+ 	- FMP
+  		- Content updates for direct deposit
+    		- Service blueprinting followup: registration/Claims pain points
+      	- CHAMPVA claims
+      		- Resubmission screener question
+      	 - 10-10d
+      	 	- Supporting docs prototypes
+      	  	- Minimal header updates
+      	   	- OHI integration list&loop discovery
+      	   	  
+- ### Notes
+
 ## March 24 2025
- - Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Renata Keck, Andrea Merril, Mike Mooney, Amanda Klaumeiser
+Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Renata Keck, Andrea Merril, Mike Mooney, Amanda Klaumeiser
      - ### Agenda Topics
      	- UX Road Map review
       	- Review quick win items
