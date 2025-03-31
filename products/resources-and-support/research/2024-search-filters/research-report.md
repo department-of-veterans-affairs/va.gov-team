@@ -303,29 +303,29 @@ _If there are demographics that were not included in this study or you discovere
 [Interview transcripts](link here)
 
 
-## Tools used for Synthesis
+### Tools used for Synthesis
 
 e.g. mural boards, etc.  
 
 
-## Pages and applications used
+### Pages and applications used
 
 Link to prototypes or pages that were tested
 
 
-## Other supporting documents created
+### Other supporting documents created
 
 e.g. user flows, personas, etc.
 
 
-## Secondary research
+### Secondary research
 
 Include any secondary research you may have. 
 
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
-## Who we talked to 
+### Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
@@ -406,7 +406,7 @@ Disability and Assistive Technology (AT):
 * Captions: x
 
 
-## Underserved groups we haven’t talked to 
+### Underserved groups we haven’t talked to 
 
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
