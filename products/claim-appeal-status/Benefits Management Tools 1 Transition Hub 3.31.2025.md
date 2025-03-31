@@ -119,7 +119,7 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 - Evidence request email notifications
 
 ### Links
-- Outcome-driven roadmap
+- [Outcome-driven roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689972542685/b1908130a4ad3abdaf8fc015052540a4e15d752e)
 - Decision letter notification feature roadmap
 
 <br>
