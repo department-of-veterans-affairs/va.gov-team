@@ -100,16 +100,20 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- New flow within the 526 disability claim for just the 0781 mental health questions that is available in all claims going forward. Veterans will no longer have to add PTSD as their condition in order to answer mental health questions. 
+- Does not include a new section for requesting medical records speicifically for mental health. The effort was too large of a scope for the MVP. Instead we were able to use the existing supporting evidence questions and added a feature to track if they were related to any mental health conditions. 
+
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product.
-
-
-
+- Toggle switch that will direct users with new claims only down the new 0781 questions path
+- A list and loop section for traumatic events
+- A separate section for behavioral changes
+- Questions regarding supporting documents related to mental health conditions
+- Questions regarding treatment received for traumatic events and behavioral changes
+- Tracking if traumatic events were treated at either or both VA and private medical providers
+- Destruction action notifications 
+  
 --- 
 
 ## Launch Strategy
@@ -143,8 +147,10 @@ Create a new 0781 online form that will match the newest paper version of the PD
 ## Screenshots
 
 ### Before
+See [526 Form Flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686768383603/3f4415dd2ddb71bbd104ebefd92a2c7b553ad792)
 
 ### After
+See [0781 Mental Health Paper Sync](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742838742470/a65aef904518076608009f57241cfa96874485a8) for screen shots and flow diagrams. 
 
 ---
 
