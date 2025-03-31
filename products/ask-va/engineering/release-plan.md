@@ -117,7 +117,7 @@ Targeting Launch March 18-25th
 | Stage              | Throughput | Error Rate: Form Submissions| Error Rate: Dashboard replies| Latency: vet-api| Latency: CRM |
 | ------------------ | ---------- | --------------------------- | ---------------------------- | --------------- | -------------|
 | Canary             |      33    |           0%                |             0%               |                 | ~1.4-4.6s
-| A: 25% of Traffic  |              |                     |                          |         |
+| A: 25% of Traffic  |   193      |            4.1%                  |       0%                      |                 | ~1.8-5.2s
 | B: 50% of Traffic  |            |                   |                        |         |
 | C: 75% of Traffic  |            |                   |                        |         |
 | D: 100% of Traffic |            |                   |                        |         |
