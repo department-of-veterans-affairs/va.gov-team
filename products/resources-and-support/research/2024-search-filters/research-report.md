@@ -18,25 +18,39 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+The Resources & Support (R&S) section of VA.gov provides an unauthenticated, self-service library of targeted information to help Veterans and other beneficiaries understand their VA benefits. This research aims to evaluate how the new filter design and functionality supports discoverability and user understanding, especially with the anticipated growth of R&S content.
 
-_Then, describe your goals for this research_
+The goals of this research are to:
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals)_
-
-
+1. Utilize a Figma prototype to get user feedback on the new filter design and functionality to find information.
+2. Understand which search, filtering, and browsing options users choose and in what order.
+3. Learn if the labels and groupings of filters align with user mental models.
 
 ## Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+1. Goal 1. Get user feedback on the new filter design and functionality to find information
+   - Do users understand how to access the filter overlay modal?
+   - Do users understand the and/or logic between filters across/within filter groups?
+   - Do users understand the Apply filters, Clear all, and X buttons in filter overlay modal?
+   - Do users understand how to dismiss a filter once it's applied?
+   - Do users understand how the filter chips on results/detail pages (w/X) work vs. on the landing page (w/o X)?
+2. Goal 2. Understand which of the search, filtering, and browsing options users choose to interact with and in what order
+    - What do people do first—searching, filtering, or browsing?
+        - Do people ever use filters before searching? Why or why not?
+        - What do people do next?
+3. Goal 3. Learn if the labels and groupings of filters align with user mental models
+    - Do users understand the filter group meanings: Audience, Benefit, Topic?
+    - Do users of each audience type choose the filter that aligns with them?
+    - Do users understand the individual filter labels?
+    - What search terms do users put in the search box?
+    - How do search terms overlap with or differ from filter labels?
+    - Are there other filters that users expect that are missing?
+4. Other questions
+    - Do users find the information they are looking for, regardless of which path they take to get there?
+    - Do different user groups (Veterans, family members and caregivers, service members) have different outcomes?
+    - Are there other factors (e.g., frequency ofVA.gov use, VA benefits received) that affect how easily users are able to find relevant information?
+    - What are user expectations of the scope of R&S search vs. site-wide search?
+    - What are users' previous experiences with searching/browsing for information on VA.gov?
 
 ## Methodology 
 
