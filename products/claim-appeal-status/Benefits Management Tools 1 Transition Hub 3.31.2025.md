@@ -66,7 +66,7 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 - [DD CST Error Monitoring](https://vagov.ddog-gov.com/dashboard/8me-h86-qmb/benefits---claim-status-tool-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1740231301942&to_ts=1742823301942&live=true)
 - [DD BMT Silent Failure Monitoring](https://vagov.ddog-gov.com/dashboard/pps-nf7-ppr/cst-zero-silent-failures-document-uploads?fromUser=false&refresh_mode=sliding&from_ts=1742736972052&to_ts=1742823372052&live=true)
 - [DD Letter's app Monitoring](https://vagov.ddog-gov.com/dashboard/86n-b39-hhn/benefits---management-tools---letters?fromUser=false&refresh_mode=sliding&from_ts=1742737025688&to_ts=1742823425688&live=true)
-- [Real User Monitoring (RUM) Dashboard](https://vagov.ddog-gov.com/rum/application/9d5155fd-8623-4bc9-8580-ad8ec2cdd7fa/overview/browser?from_ts=1676217734085&to_ts=1676304134085&live=true)
+- [Real User Monitoring (RUM) Dashboard](https://vagov.ddog-gov.com/rum/performance-monitoring?query=%40application.id%3A75bb17aa-34f0-4366-b196-eb11eda75425%20%40session.type%3Auser&fromUser=false&tab=overview&from_ts=1742842798052&to_ts=1743447598052&live=true)
 
 
 **Engineering**
