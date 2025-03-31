@@ -27,15 +27,27 @@ _Tell us about your team._
  
 ## About your initiative
 
+### What audiences is your work for
+- [ ] Veterans and/or their family members or caregivers
+- [ ] Other VA.gov audience
+  - Please describe the audience:
+- [ ] Internal designers and product team members (i.e. pattern or standards work)
+
 ### Which of these descriptions best fits the work we’ll partner on?
 _Select all that apply._
+
 - [ ] Digitizing a new form
-- [ ] Creating a new digital tool
+- [ ] Creating a new digital tool for Veterans or their beneficiaries
 - [ ] Updating an existing form or tool
 - [ ] Translating a form or tool into Spanish
 - [ ] Adding new unauthenticated content to VA.gov
 - [ ] Updating existing unauthenticated content on VA.gov
-- [ ] Something else:  
+- [ ] Components, patterns, or general standards
+- [ ] Something else:
+
+### Describe the work effort
+_Provide a brief description of the work_
+
 
 ### Supporting artifacts
 _Add links to all applicable artifacts and issues._
