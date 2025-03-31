@@ -1,11 +1,15 @@
 # Digitizing 21P-0969 - Income and Asset Statement - Product Outline 
 
 **Overview**
+
 What is form 21P-0969 used for? From the [About VA Form 21P-0969 page on VA.gov](https://staging.va.gov/find-forms/about-form-21p-0969/):
+
 "VA Form 21P-0969 should be used to report or verify income and/or net worth.  It is an attachment to other forms, and is used to provide supporting financial evidence. Use VA Form 21P-0969 only if you’re instructed to, when you’re completing VA form 21P-527, 21P-527EZ, 21P-534, or 21P-534EZ."
+
 [Downloadable PDF](https://www.va.gov/find-forms/about-form-21p-0969/#:~:text=Download%20VA%20Form-,21P,-%2D0969%20(PDF)
 
 **Background**
+
 The 21P-0969 is available to Veterans today through a paper form.  This initiative will bring the form online so that Veterans instructed to complete it can more efficiently populate their income and asset information through a streamlined digital experience.
 Today when the Veteran triggers the need for the Income and Asset statement form from the online pension application, they are presented an alert asking them to fill out and upload or mail the 0969.  They are also messaged at the end of the application about Supporting Documentation that need to be submitted with the application.
 Today the 534 Dependency and Indemnity, Survivors pension form is only available as PDF.  If the applicant answers yes to one of the questions 39B-40E, the instructions prompt them to fill out and upload or mail the 0969.
@@ -70,7 +74,9 @@ Adjust order of fields
 **Measuring Success:**
 
 The overall time to implement the form with product, design, CAIA and Collab Cycle input will be less than if no Mock form was implemented.
-Scope
+
+##Scope##
+
 **WHAT’S INCLUDED IN V0:**
 Basic UI elements of all 14 sections of 0969 form
 Initial implementation of Conditional Logic, configurable for future logic updates
