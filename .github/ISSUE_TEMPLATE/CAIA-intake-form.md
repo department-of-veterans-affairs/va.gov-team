@@ -16,13 +16,13 @@ Use this ticket to request collaboration on a new initiative with the sitewide c
 
 ## Team info
 _Tell us about your team._
-- Product name:
-- Team name:
-- OCTO product owner: 
-- Product manager: 
-- Designer(s):
-- Slack channel: 
-- Dedicated content writer on your team (if you have one): 
+- **Product name:**
+- **Team name:**
+- **Slack channel:**
+- **OCTO product owner:** 
+- **Product manager:** 
+- **Designer(s):**
+- **Dedicated content writer on your team (if you have one):** 
 
  
 ## About your initiative
@@ -52,13 +52,13 @@ _Provide a brief description of the work_
 ### Supporting artifacts
 _Add links to all applicable artifacts and issues._
 - Product outline
-- Collaboration Cycle ticket
+- Collaboration Cycle ticket #
 - Content source of truth doc
 - Figma file
 - Mural
   
 ### Timeline
 _Provide information about your expected/planned timeline._
-- Estimated launch timeline?
-- Where are you at in your design/development process?
-- Is a staged launch planned? If so, please provide details.
+- **Estimated launch timeline:**
+- **Where are you at in your design/development process?**
+- **Is a staged launch planned? If so, please provide details.**
