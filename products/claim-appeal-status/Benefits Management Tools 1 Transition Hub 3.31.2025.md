@@ -72,12 +72,12 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 
 
 **Engineering**
-- [High level view of systems](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1663867462895/b0161ab939bba7d08f6bea07e3663d9d5cea22d4
+- [High level view of systems](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1663867462895/b0161ab939bba7d08f6bea07e3663d9d5cea22d4)
 - [Silent Failures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/engineering/testing-silent-failures)
 - [Engineering Onboarding Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/engineering/onboarding)
 - [Datadog README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/DataDog/README.md)
 - [Engineering README - How to run the benefit management tools team services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/README.md)
-- [Endpoints consumed and owned]
+
 
 **Design and Research**
 - [CST Design Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/design/resources.md)
