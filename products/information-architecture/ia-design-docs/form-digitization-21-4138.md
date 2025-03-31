@@ -1,5 +1,6 @@
 # IA Design for Form 21-4138
-**STATUS: In progress** - this draft might change after usability research
+**STATUS:** FINAL
+- 3/31/25 - MN: Marked as final
 
 **Team:** Veteran facing forms team
 
