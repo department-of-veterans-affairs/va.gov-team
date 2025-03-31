@@ -117,13 +117,14 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 
 ## Hypotheses and Conclusions
 
-
-1. Users will understand the search, filtering, and browsing functionality available to them.
+**1. Users will understand the search, filtering, and browsing functionality available to them.**
    - Partially True: While the majority of the participants engaged with all three functions, their understanding was often incomplete. This was especially the case with the relationship between Filter Chips & Tags, as well as a common pattern of the Filters Modal not being initially utilized.
-2. Users will understand the labels of filters and filter groups.
+
+**2. Users will understand the labels of filters and filter groups.**
     - Mostly True: Most participants seemed to understand many individual filter labels they encountered, and understood which ones were relevant to their tasks. 
     - A significant point of confusion was the term "tags" and their similarity to the filter chips. Many participants, including  (P1),  (P12),  (P13),  (P14),  (P4), and  (P8), were unfamiliar with this terminology and unclear about their purpose and function
-3. Users are able to find the information that they're looking for.
+    
+**3. Users are able to find the information that they're looking for.**
     - Mostly True: While participants were able to find the information that they were looking for in most cases. There were some tasks where they ran into confusion, or frustration. These pain points are mostly tied to the tags and filter functionality. In general, when participants ran into a roadblock, they were able to find information that they sought out by using other aspects of the prototype’s navigational features, or mentioned that as they got familiar with the system they would become more successful. 
 
 ## Key Findings
