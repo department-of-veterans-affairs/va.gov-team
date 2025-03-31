@@ -58,11 +58,14 @@ assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA,mnorthuis
 #### Work kick-off action items
 - [ ] Assign content and IA specialists
 - [ ] Schedule kickoff with team
-- [ ] Review all supporting artifacts and compile initial questions brief
-- [ ] Gather all known relevant content style guide sections and provide links for team in kickoff
+- [ ] Review all supporting artifacts and compile initial questions
+- [ ] Gather all known relevant content style guide and standards to provide links to team in kickoff
 - [ ] Attend design intent for initiative (if scheduled)
+- [ ] Solidfy timeline and prioritize appropriatel
 
 #### Work closing action items
+- [ ] All necessary redirects are implemented
+- [ ] All entry points are implemented
+- [ ] All crosslink/URL references are updated across the site
 - [ ] All associated tickets are closed
-- [ ] All IA sitemaps are updated
-- [ ] 
+- [ ] All documentation updates are made (i.e. artifacts are marked final, sitemaps are updated, etc. ( 
