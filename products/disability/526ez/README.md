@@ -45,7 +45,9 @@
 Government Stakeholders:
 - Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
 - Comp Services policy and process partners: Paul Schute (paul.shute@va.gov)
-- Product Owner:  Emily Theis (emily.theis@va.gov)
+- Product Owner:  Emily Theis (emily.theis@va.gov), Leah Keeler (Leah.Keeler@va.gov)
+- Design and Research Lead: Shannon Ford (Shannon.Ford1@va.gov)
+- Engineering Lead: Sam Wiley (samuel.wiley@va.gov)
 - Contact center partner: Chante Lantos-Swett, Kimberly Monroe-Daniels
 - Web comms partner: n/a
 - ITSC (IT Strategic Comms) liaison: n/a
@@ -73,6 +75,7 @@ Government Stakeholders:
 ## Product
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
+|Disability Benefits Folder|Sharepoint documentation|[Link](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72)| 
 |Idea board|List of ideas, scoping and prioritization| [Link ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=0-1680617210045&sender=u1dc3a1dc47390e0b38d61593)|Feb 2023|
 |Stakeholder Map|Stakeholder map for Disability Claim Submission via 526|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1740676248932/c5880a877bbc25cc4e3b0bad0defd3faa336e872)||
 |Zenhub board|Backlog for Disability Experience product started in Feb 2023. Decommissioned end of 2024 |[Link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)|Feb 2023|
