@@ -1,5 +1,6 @@
 
 # External Referral Appointment Scheduling System
+## Better known as the Community Care system or CC
 
 ## Goals
 1. Streamline the process of scheduling external referral appointments for veterans
