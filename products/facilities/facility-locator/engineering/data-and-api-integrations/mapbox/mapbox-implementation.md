@@ -11,7 +11,13 @@ So, we need [two separate keys](https://github.com/department-of-veterans-affair
 
 ## Architecture
 ### Key Storage
-The keys are stored in AWS Parameter Store. Accessing and editing values in the AWS Parameter Store is not a matter that is specific to the Facilities products. Rather, it is available [throughout the VA ecosystem](https://vfs.atlassian.net/wiki/spaces/pilot/pages/1474595172/Store+a+secret+in+Parameter+Store).
+The keys are stored in AWS Parameter Store. 
+* Dev VA.gov token: /dsva-vagov/vets-website/dev/mapbox_token
+* Prod VA.gov token: [/dsva-vagov/vets-website/prod/mapbox_token](https://console.amazonaws-us-gov.com/systems-manager/parameters/%252Fdsva-vagov%252Fvets-website%252Fprod%252Fmapbox_token/description?region=us-gov-west-1&tab=Table#list_parameter_filters=Name:Contains:mapbox_token) 
+* Production CMS token: [/cms/prod/MAPBOX_TOKEN_CMS](https://console.amazonaws-us-gov.com/systems-manager/parameters/%252Fcms%252Fprod%252FMAPBOX_TOKEN_CMS/description?region=us-gov-west-1&tab=Table#list_parameter_filters=Name:Contains:mapbox_token)
+    * There is no token for CMS lower environments
+
+Accessing and editing values in the AWS Parameter Store is not a matter that is specific to the Facilities products. Rather, it is available [throughout the VA ecosystem](https://vfs.atlassian.net/wiki/spaces/pilot/pages/1474595172/Store+a+secret+in+Parameter+Store).
 
 ### Key Retrieval
 ##### ❌ Option 1: Load the keys at run time (not implemented -- also not implemented on any other system) 
