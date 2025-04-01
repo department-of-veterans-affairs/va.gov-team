@@ -249,6 +249,8 @@ Organizational structure: Findings in this report are organized by goal. For eac
 
   * I personally wouldn't, but I can see sometimes they might feel ashamed or vulnerable" \- P3, Combat
 
+![Goal 2_ Resolving the conflicting section validation error](https://github.com/user-attachments/assets/4147959b-47be-4a7a-8af8-3227293d0261)
+
     
 
 ### **Finding \#5: When it comes to filing a claim with VA, providing information does not feel truly optional.** 
