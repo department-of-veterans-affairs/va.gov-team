@@ -41,7 +41,7 @@ Attendees: Andrea, Angela C, Jamie, Amanda, Elizabeth, Angela P, Rachel, Jina, A
             -   **After discussion**: CHAMPVA partners are OK to remove the optional verbiage, BUT, if removing optional verbiage becomes a problem, we'll have a discussion to add back in.
     -   Proof of remarriage - required
 -   AI: make a note of what happens for any document that is required and isn't submitted, to better understand how to separate "nice to haves" vs. "required" supporting documentation. To understand when something that's a nice to have is actually going to stop processing on an application.
-    -   IVC team to send that list over (Angela C requesting to look at the list)
+    -   IVC team to send that list over (Angela C requesting to look at the list) and update the service blueprint to reflect these details
 
 
 ## **03/18/25**
