@@ -127,9 +127,6 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 
 5. Almost all participants understood the filters and filter group labels
 
-
-11. Almost all of the participants (10/12) understood the filter group label meanings: Audience, Benefit, Topic, and chose a filter that aligned with their needs.
-
 ## Details of Findings 
 
 ### Finding 1 - Almost all participants found the desired information via browsing or searching
@@ -224,8 +221,9 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 > “When we don’t see something right away, we don’t want to scroll down any further” - P6
 
 **Finding 7 - Most users wanted to use sitewide navigation features**
-- 7 participants specifically mentioned wanted to sign-in to see personalized content that relevant to them and their task
+- 7 participants specifically mentioned wanted to sign-in to see personalized content that was relevant to them and their task
 - 3 participants mentioned wanting to use the header navigation menu
+- These features were not functional in the prototype
 
 **Finding 7 Participant's previous experiences with searching/browsing for information on VA.gov**
 - 2 participants shared negative experiences trying to obtain information from VA.gov
@@ -264,23 +262,11 @@ _If there are demographics that were not included in this study or you discovere
 Mural - https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738793109607/9003012168cc00d3673c9babe90d7435ece613cf
 Excel - https://docs.google.com/spreadsheets/d/1iXNUGTdyNk4QBohCufDsXhxo_fgp5QXl/edit?usp=sharing&ouid=104284908232903288918&rtpof=true&sd=true  
 
-
 ### Pages and applications used
 
 Link to prototypes or pages that were tested
 - https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Resources-support?node-id=1014-7143&p=f&t=V4keptNOHm5ry13X-0&scaling=scale-down&content-scaling=fixed&page-id=504%3A6304&starting-point-node-id=1014%3A7143&hotspot-hints=0
 
-
-### Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-### Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
 ### Who we talked to 
@@ -312,10 +298,10 @@ LGBTQ+:
 
 
 Devices used during study: 
-* Desktop: x 
+* Desktop: 0 
 * Tablet: 2 
 * Smart phone: 10 
-* Assistive Technology: x
+* Assistive Technology: 0
 
 
 Age:
@@ -324,7 +310,7 @@ Age:
 * 45-54: 2
 * 55-64: 4
 * 65+: 2
-* Unknown: x
+* Unknown: 0
 
 
 Education:
@@ -350,19 +336,6 @@ Race:
 * Biracial: x
 * Asian: x
 * Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
 
 
 ### Underserved groups we haven’t talked to 
