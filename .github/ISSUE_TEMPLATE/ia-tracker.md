@@ -1,45 +1,30 @@
 ---
-name: IA Tracker
-about: For documenting IA work to support CAIA team.
-title: "IA Tracker: [Project Name]"
-labels: sitewide CAIA, Sitewide IA
-assignees: mnorthuis
+name: [Content and IA task]
+about: For sub-tasks related to content and IA support. 
+title: "[TASK:] Task name"
+labels: content-ia-centralized-team
+assignees: 
 
 ---
 
-## Overview
+### Overview
 
-### Description
+#### Task description
 _What details are necessary for understanding the specific work or request tracked by this issue?_
 
-### Links
+#### Parent epic/work effort
 
-- [Intake Ticket #]
+- [Name and issue # of parent epic]()
 
-### Team
+#### Relevant links and artifacts
 
-- Team Name:
-- Designer:
-- Product Manager:
-- Slack (_optional_): 
+- [Link or artifact]()
+- [Link or artifact]()
+- [Link or artifact]()
 
-### Timeline
-_When does IA review need to be completed by? When is Midpoint Review?_
+#### Timeline
+_When does this task need to be completed by?_
 
----
 
-## IA Support
-
-### Work needed
-
-- IA spec: [Needed / Not needed]
-- Feedback for product team: [Needed / Not Needed]
-
-```[tasklist]
-### IA deliverables
-- [ ] IA spec
-- [ ] Feedback
-```
-
-## Acceptance Criteria
-- [ ] Feedback is shared with product team in Intake Ticket.
+### Acceptance Criteria
+- [ ] Criteria 1...
