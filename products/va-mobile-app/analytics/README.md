@@ -25,25 +25,25 @@
 
 **Date range for metrics**: March 1, 2025 - March 31, 2025
 
-- **Total downloads since launch**: ~TBD (A) + ~2.07M (iOS) = TBD 
-- **New monthly downloads**: TBD (A) + TBD (iOS) = TBD
-- **Monthly active users**: TBD
-- **Monthly new users**: TBD
-- **Monthly appointment detail views**: TBD
-- **Monthly Rx Refill**: TBD
-- **Monthly Letter Downloads**: TBD
-- **Monthly Secure Messages Sent**: TBD
-- **Monthly Veteran Status Views**: TBD
+- **Total downloads since launch**: ~1.2M (A) + ~2.07M (iOS) = ~3.17M 
+- **New monthly downloads**: 35.5k (A) + 69.5K (iOS) = 105k
+- **Monthly active users**: 1.4M
+- **Monthly new users**: 169k
+- **Monthly appointment detail views**: ~2M
+- **Monthly Rx Refill**: 581k
+- **Monthly Letter Downloads**: 518k
+- **Monthly Secure Messages Sent**: 607k
+- **Monthly Veteran Status Views**: 479k
 
 ### Android
 
-- **Android installs**: TBD 
-- **Average Play Store Rating**: TBD
+- **Android installs**: 35.5k 
+- **Average Play Store Rating**: 4.7
 
 ### iOS
 
-- **iOS Installs**: TBD
-- **Average App Store Rating**: TBD
+- **iOS Installs**: 69.5K
+- **Average App Store Rating**: 4.8
 
 ## Februrary 2025
 
