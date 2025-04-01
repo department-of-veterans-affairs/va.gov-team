@@ -1,10 +1,10 @@
 # R&S Search and Filtering - Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Resources & Support, Sitewide Public Websites**
 
-Date: MM/DD/YYYY
+Date: 03/31/2025
 
-[Designer 1] [email], [Designer 2] [email]
+Rodney Little, Dave Pickett
 
 **Jump to:**
 
@@ -77,14 +77,14 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
     5. Clear all Filter Chips Button
     6. Show Filters Button
     7. Applied Search Results & Filters Block
-    8. Filters Modal Overlay Block
-        1. Close all (Filters) Link
-        2. Filter Groupings Accordions
-            1. Filter Selection Check Boxes
-        3. Apply Filters Button
-        4. Clear All Button
-        5. Close Modal Icon/Button
-3. R&S Search Results/Article List Page
+3. Filters Modal
+   1. Close all (Filters) Link
+   2. Filter Groupings Accordions
+      1. Filter Selection Check Boxes
+   3. Apply Filters Button
+   4. Clear All Button
+   5. Close Modal Icon/Button
+4. R&S Search Results/Article List Page
     1. Site Breadcrumb Navigation Link
     2. Page Title & Summary Paragraph
     3. Search Bar
@@ -93,14 +93,7 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
     6. Show Filters Button
     7. Applied Search Results & Filters Block
     8. Article Entry Link & Preview Copy
-    9. Filters Modal Overlay Block
-        1. Close all (Filters) Link
-        2. Filter Groupings Accordions
-            1. Filter Selection Check Boxes
-        3. Apply Filters Button
-        4. Clear All Button
-        5. Close Modal Icon/Button
-4. Article Details Page
+5. Article Details Page
     1. Site Breadcrumb Navigation Link
     2. Language Selector Links
     3. Page Title
@@ -116,15 +109,14 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 ## Hypotheses and Conclusions
 
 **1. Users will understand the search, filtering, and browsing functionality available to them.**
-   - Partially True: While the majority of the participants engaged with all three functions, their understanding was often incomplete. This was especially the case with the relationship between Filter Chips & Tags, as well as a common pattern of the Filters Modal not being initially utilized.
+   - Partially True: All participants understood the browsing and search capabilities. Only a few participants engaged with the filter functionaity without prompting. Most participants understood the filters once prompted. One area that caused confusion was the relationship between tags and filters.
 
 **2. Users will understand the labels of filters and filter groups.**
-    - Mostly True: Most participants seemed to understand many individual filter labels they encountered, and understood which ones were relevant to their tasks. 
-    - A significant point of confusion was the term "tags" and their similarity to the filter chips. Many participants, including  (P1),  (P12),  (P13),  (P14),  (P4), and  (P8), were unfamiliar with this terminology and unclear about their purpose and function
+    - Mostly True: Most participants seemed to understand many individual filter labels they encountered, and understood which ones were relevant to their tasks.
     
 **3. Users are able to find the information that they're looking for.**
-    - Mostly True: While participants were able to find the information that they were looking for in most cases. There were some tasks where they ran into confusion, or frustration. These pain points are mostly tied to the tags and filter functionality. In general, when participants ran into a roadblock, they were able to find information that they sought out by using other aspects of the prototype’s navigational features, or mentioned that as they got familiar with the system they would become more successful. 
-
+    - Mostly True: Most participants were able to find the information that they were looking for in most cases. Only 2/12 participants gave up on a task without locating a relevant article. 
+    
 ## Key Findings
 
 1. The majority of the participants (11/12) understood the specifics of the filter modal’s logic between filters across/within filter groups and functionality.
