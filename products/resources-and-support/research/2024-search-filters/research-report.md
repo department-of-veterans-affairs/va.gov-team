@@ -268,7 +268,7 @@ _If there are demographics that were not included in this study or you discovere
 
 
 ### Who we talked to  
-[Participant tracker](https://docs.google.com/spreadsheets/d/1cfZJ7xH-gFoLE2vbA8lZEU0yiiqRcyPX/edit?usp=sharing&ouid=104284908232903288918&rtpof=true&sd=true)
+[Participant tracker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?gid=1460867752#gid=1460867752)
 
 **Recruitment criteria**
 
@@ -279,24 +279,20 @@ Audience segment:
 * Caregivers: 3 
 * Family members of a Veteran: 5  
 
-
 Gender:
 * Male: 7 
 * Female: 12 
-
 
 LGBTQ+:
 * Transgender: x 
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
 * Gay, lesbian, or bisexual: x
 
-
 Devices used during study: 
 * Desktop: 0 
 * Tablet: 2 
 * Smart phone: 10 
 * Assistive Technology: 0
-
 
 Age:
 * 25-34: 1
@@ -306,41 +302,30 @@ Age:
 * 65+: 2
 * Unknown: 0
 
-
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
+* High school degree or equivalent: 0
+* Some college (no degree): 1
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 4
+* Master's degree: 5
+* Doctorate degree: 0
+* Unknown: 0
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
+* Urban: 8
+* Rural: 3
+* Unknown: 1
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
+* White: 8
+* Black: 2
+* Hispanic: 2
+* Biracial: 1
+* Asian: 0
+* Native: 0
 
 ### Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+* Asian
+* Transgender
