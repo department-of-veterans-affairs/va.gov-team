@@ -127,49 +127,31 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 
 ## Details of Findings 
 
-### Finding 1 - The majority of the participants (11/12) understood the specifics of the filter modal’s logic between filters across/within filter groups and functionality.
 
-- 11 participants understood the Apply filters, but the majority did not specifically interact with the Clear all or the X buttons.
-- “I would clear this filter that it's put on the claims and claim status filter so that I could go back to look at the other link.” - P8 - stated when she wanted to go band and try a different approach during her task
-- 6 of 12 participants understood the and/or logic of the filters, while 1 participant was not able to engage with the filters.
-- "I can filter by what applies to me. Like, am I a veteran? I'm an active service member? What benefit I'm looking for. That kind of thing" - P14 
--  This participant did not explicitly state their understanding of the and/or logic. However, when they mentioned how she wanted to filter by, it suggests an intuitive understanding that selecting multiple options within or across categories would refine the results to those matching all selected criteria
--  “I would expect to be able to, you know, click on any of these… and use it to narrow down the information that I'm searching. Just depending on the scenario.” P7 - When asked how they would use the filter. This suggests an understanding of the 'and' logic within and across filter groups. 
+### Finding 1 - Almost all participants found the information they were looking for via browsing or searching
 
+- 10 of 12 participants were able to accomplish all tasks
+- 2 participants gave up on at least one task
+- 7 participants primarily navigated via browsing (with search as secondary)
+- 4 participants primarily navigated via searching (with browsing as secondary)
+- 1 participant primarily navigated via filtering (with browsing as secondary)
 
-### Finding 2 - Almost all of the participants found the information they are looking for, regardless of which path they take to get there.
+### Finding 2 - Only a few participants opened the filter modal without prompting
 
--  10 of 12 participants were able to accomplish this, however all but 2 of them ran into a bit of confusion or frustration
+- Only 3 of 12 participants opened the filter modal without prompting by the moderator.
+> “I see, show filters. So I might go to that... (opens the modal) Okay, so curious about filters. So audience filter by audience veterans, family members, caregivers, active service members...“ - P1
+> “I was curious to see what the filters were for. How I might be able to tailor what I’m looking for.” - P9
+> “I like that. It has a show, filters button. I can filter by what applies to me like, am I a veteran? Am I an active service member?” - P14
 -  8 of 12 participants were able to access the filer modal with some verbal prompting by the moderator
--  “It didn’t seem necessary.” - P10 when asked why he didn’t initially interact with the modal
--  “I like that right away, they have you filter for different populations.. below that, the benefits… this is an excellent idea!” - P10 on his thoughts of the filter modal after using it
--  “Filters can be confusing for me, so I tend to stay away from them.” - P13
--   “Oh, that is good! It narrows the field down dramatically. I think it points you in the right direction unequivocally.” - P13 after using the feature
--  Only 3 of 12 participants opened the filter modal without prompting by the moderator.
--  “I see, show filters. So I might go to that... (opens the modal) Okay, so curious about filters. So audience filter by audience veterans, family members, caregivers, active service members...“ - P1
-- After opening and interacting with the modal at the start of the session “I was curious to see what the filters were for…. How I might be able to tailor what I’m looking for.” - P9
-- “ I like that. It has a show, filters button...That I can filter by what applies to me like, am IA veteran? I'm an active service member.” - Stated after interacting with the modal - P14
--  2 participants were not successful, and gave up on the task they were on 
--  While most participants did not notice the filter modal initially, all, but one expressed appreciation for the feature and the possibilities it enables them to create a customized search filter.
-
-### Finding 3 - Most participants overlooked the Show Filters button and or the modal
-
--  "I noticed it and completely ignored it, cause I felt like I didn't need it". - P12 
--  “Clearly the filters are great because it helps to be more specific… I think these are good choices(options).” - P12 after utilizing the filter modal
-
-What do participants did first—searching, filtering, or browsing...
-- 4 participants search, then browse
-- 3 participants wanted to sign-in, then browse
-- 2 participants wanted to browse, then search
-- 2 participants browsed
-- 1 participant filtered
-  
-Participant’s preference for using filters before searching
-- Only 1 user filtered before searching.
-- Other participants had their objective of searching or browsing the page to scan for keywords of interest
-- What participants did next
-- After the initial task, participants chose to drill down into the site by utilizing other navigation features. 
-- These depended on their mission and comfort level of the navigation options
+   - Some participants noted that they had seen the Show filters button and chose not to open it
+   - These participants expressed appreciation for the filters feature once they did engage with it
+> "I noticed it and completely ignored it, cause I felt like I didn't need it". - P12
+> “Clearly the filters are great because it helps to be more specific… I think these are good choices (options).” - P12 
+> “It didn’t seem necessary.” - P10
+> “I like that right away, they have you filter for different populations.. below that, the benefits… this is an excellent idea!” - P10 
+> “Filters can be confusing for me, so I tend to stay away from them.” - P13 
+> “Oh, that is good! It narrows the field down dramatically. I think it points you in the right direction unequivocally.” - P13
+-  1 participant was not able to succesfully interact with the filter modal
 
 ### Finding 4  - A majority of  participants (7/12) expressed frustration of confusion related to tags
 
@@ -200,13 +182,20 @@ Participant’s preference for using filters before searching
 - 1 participant found the filter label names confusing
 -  “The word ‘management’ is throwing me off” - P11 - stated when looking for info about owing VA money (debt management)
 
+### Finding XX - The majority of the participants (11/12) understood the specifics of the filter modal’s logic between filters across/within filter groups and functionality.
+
+- 11 participants understood the Apply filters buttons, but the majority did not specifically interact with the Clear all or the X buttons.
+> “I would clear this filter that it's put on the claims and claim status filter so that I could go back to look at the other link.” - P8
+- 6 of 12 participants demonstrate a working understanding the and/or logic of the filters, though most did not explicitly state their understanding
+> "I can filter by what applies to me. Like, am I a veteran? I'm an active service member? What benefit I'm looking for. That kind of thing" - P14 
+>  “I would expect to be able to, you know, click on any of these and use it to narrow down the information that I'm searching. Just depending on the scenario.” - P7 
+
 
 ## Additional Insights
 
 1. Scrolling & space taken on screen 
     1. 6 participants made comments about the space taken up on the interfaces
         1. “The phone screen being so limited, I wouldn’t want to scroll down.. I might scroll enough to see filters, but I wouldn’t want to scroll past the search terms." - p13
-
 
 2. What do participants did first—searching, filtering, or browsing...
     1. 4 participants search, then browse
