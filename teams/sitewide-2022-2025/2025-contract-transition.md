@@ -36,6 +36,8 @@ Resources & Support: Tagging & Searching | Public Websites | UX Epic: [#19495](h
 Mapbox Cost Savings | Facilities | [#20277](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20277) |  | N/A | One ticket remaining to stop calling Mapbox for thumbnail images on each page load, and instead develop a method to cache images in Drupal, or identify other solutions to save cost.
 Content-build to Next-build template migrations | Cross-portfolio | [Board](https://github.com/orgs/department-of-veterans-affairs/projects/1464/views/1) |  [Next-build canvas](https://dsva.slack.com/docs/T03FECE8V/F07UG7EAWTE) | N/A | [Details in Strategic priority slack list](https://dsva.slack.com/archives/C07JG0HFHBP/p1743450305024439?thread_ts=1726246504.821119&cid=C07JG0HFHBP)
 Duplicate GA Events Audit | Both FAC & PW | [21066](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/21066) | Audit [spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/SitewidePublicWebsites/Shared%20Documents/Analytics/Duplicate%20Events%20Audit%20-%20PW%20%26%20Facilities%20Products.xlsx?d=w14e04f67f6f147d6a774e9f774cfc153&csf=1&web=1&e=B1aQiV) | N/A | Incomplete
+Google Maps Improvements | Facilities | [20934](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20934) | | | Tickets have been created and refined
+
 
 **Q2 2025**
 Project | Portfolio | Epic | Documentation | Collab Cycle, if any | Status
