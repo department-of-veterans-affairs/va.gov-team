@@ -1,5 +1,5 @@
 ---
-name: [Content and IA task]
+name: [Content and IA Product Support Task]
 about: For sub-tasks related to content and IA support. 
 title: "[TASK:] Task name"
 labels: content-ia-centralized-team
