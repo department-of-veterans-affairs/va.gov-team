@@ -118,13 +118,17 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 ## Key Findings
 
 1. Almost all participants found the desired information via browsing or searching
+
 2. Only a few participants opened the filter modal without prompting
-3. Most participants were able to successfully interact with most aspects of the filters functionality
+ 
+3. Most participants were able to successfully use most aspects of the filter functionality
+
 4. A majority of participants expressed frustration or confusion related to tags
-5. 
-6. Half of the participants (6/12) experienced confusion and frustration with the filter chips functionality.
-7. After initially experiencing some confusion, or not interacting with the feature, and with later questions/prompts from the moderator, the majority of participants understood how the filter chips on results/detail pages (w/X) work vs. on the landing page (w/o X).
-8. Almost all of the participants (10/12) understood the filter group label meanings: Audience, Benefit, Topic, and chose a filter that aligned with their needs.
+
+5. Almost all participants understood the filters and filter group labels
+
+
+11. Almost all of the participants (10/12) understood the filter group label meanings: Audience, Benefit, Topic, and chose a filter that aligned with their needs.
 
 ## Details of Findings 
 
@@ -162,7 +166,7 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 
 -  1 participant was not able to succesfully interact with the filter modal
 
-### Finding 3 - The majority of participants were able to successfully interact with most aspects of the filters functionality
+### Finding 3 - Most participants were able to successfully use most aspects of the filter functionality
 
 - 11 of 12 participants understood the Apply Filters buttons, but the majority did not specifically interact with the Clear All or the X buttons.
 > “I would clear this filter that it's put on the claims and claim status filter so that I could go back to look at the other link.” - P8
@@ -200,51 +204,33 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 > (Clicks "claims & claim status" tag on the Claims FAQ page) “Now I am confused because I was already on the Claims Status FAQ, so something does not make sense to me” - P8 
 
 ### Finding 5 -  Almost all participants understood the filters and filter group labels
-- 10 of 12 participants understood the filter group label meanings: Audience, Benefit, Topic, and chose a filter that aligned with their needs.
-> “So, audience filter by audience, veterans, family members, care givers, active service members. I don’t really understand. I guess the audience would be me. I mean when I think of audience, I think of somebody other than myself. So, I’m not sure where that’s going to go.” - P1
+- 10 of 12 participants understood the filter group label meanings
+> “I don’t really understand. I guess the audience would be me. I mean when I think of audience, I think of somebody other than myself. So, I’m not sure where that’s going to go.” - P1
 
 > “This is a little confusing to me…. I am a vet, I don’t have any family or caregivers, I am not an active service member, I do have a slight disability from the VA, and I am very much involved in healthcare. I don’t know if those 3 out of 5 things pertain to me” - P13
 
-- 1 participant found the filter label names confusing
-> “The word ‘management’ is throwing me off” - P11 - stated when looking for info about owing VA money (debt management)
+- Only 1 participant found the a filter label confusing
+> (Looking at Debt Management) “The word ‘management’ is throwing me off” - P11
+
+- 6 participants had expectations for filters that did not exist
+- P1 hoped for "reimbursement" to be a more obvious option, possibly as a standalone filter or within a travel-related category, when looking for travel compensation
+- P3 expressed a desire to filter information more specifically by benefit type, such as wanting to see information specifically related to Chapter 35 under education benefits or distinguishing Champ VA information more clearly within healthcare resources.
 
 ## Additional Insights
 
-X. Scrolling & space taken on screen 
-    1. 6 participants made comments about the space taken up on the interfaces
-        1. “The phone screen being so limited, I wouldn’t want to scroll down.. I might scroll enough to see filters, but I wouldn’t want to scroll past the search terms." - p13
+**Finding 6 - 6 of 12 participants made comments about limited screen size**
+> “The phone screen being so limited, I wouldn’t want to scroll down. I might scroll enough to see filters, but I wouldn’t want to scroll past the search terms." - P13
 
-X. What search terms the participant put in the search box
-    1. A common theme of search terms was that the participants had a keyword that was related to their task in mind.
-    2. How do search terms overlap with or differ from filter labels?
-        1. Based on the search terms that the participants mentioned they would enter, here is what we observed:
-            1. Some search terms directly match filter labels (e.g., "Pension").
-                1. P4 - the participant initially considered the search box with terms like "pension payments" but then noticed the "payments and debt" link . They navigated to this section and saw relevant options like "direct deposit information" 
-            2. Some  of the participant’s search terms overlap with broader filter categories. For example, looking for "Travel reimbursement" overlapped with the "healthcare" or "payments and debts" filters.
-                1. “Compensation for travel...There you go, reimbursed Va. Travel expenses and mileage rate.” - P10 - suggested the search term "Compensation for travel," which could potentially align with the Topic filer ‘Payments & Debts.’"
-                2. “When we don’t see something right away, we don’t want to scroll down any further” - P6 on frustration felt when the search terms he had in mind are not seen in filter and article labels.
-            3. Some search terms are related to a participant’s task
-    3. Other filters that participants expected that were missing
-        1. 6 participants had expectations for filters that did not exist
-            1. P1 hoped for "reimbursement" to be a more obvious option, possibly as a standalone filter or within a travel-related category, when looking for travel compensation
-            2. P3 expressed a desire to filter information more specifically by benefit type, such as wanting to see information specifically related to Chapter 35 under education benefits or distinguishing Champ VA information more clearly within healthcare resources.
-             3 participants mentioned reluctance to use search due to fears of getting ‘stuck in loops’ or getting lost.
+> “When we don’t see something right away, we don’t want to scroll down any further” - P6
 
-X Participant's previous experiences with searching/browsing for information on VA.gov
-    1. While 2 participants had very negative experiences obtaining information from VA.gov, the other participants had generally good experiences and clear objectives for getting information from VA.gov. 
-    2. 4 participants made comments that the experience has been improving
-    3. Participant sentiment towards the test site search functionality is mixed. While some participants mentioned an appreciation for recent improvements on VA.gov, others remain frustrated and find the search function difficult to use. This may have influenced some statements and views on the search function in the prototype. 
-    4. Search is preferred over browsing for participants with specific information needs, those in a rush, or those unsure where to find information. However, some participants expressed reluctance to use search, fearing they might get stuck in loops.
+**Finding 7 - Most users wanted to use sitewide navigation features**
+- 7 participants specifically mentioned wanted to sign-in to see personalized content that relevant to them and their task
+- 3 participants mentioned wanting to use the header navigation menu
 
-X. General navigation observations
-    1. Tendency to want to sign-in for “personalized” information 
-        1. 7 participants specifically mentioned wanted to sign-in to see personalized content that relevant to them and their task
-    2. Browsing & keywords
-        1. Common topics
-            1. Participants tended to browse to this looking for terms/keywords related to their task or objective
-        2. Browse by benefit
-            1. Participants tended to browse to this looking for for terms/keywords related to specific benefits
-
+**Finding 7 Participant's previous experiences with searching/browsing for information on VA.gov**
+- 2 participants shared negative experiences trying to obtain information from VA.gov
+- Other participants had generally good experiences 
+- 4 participants made comments that the experience has been improving
 
 ## Recommendations
 
@@ -273,7 +259,6 @@ _If there are demographics that were not included in this study or you discovere
 [Conversation guide] - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/research/2024-search-filters/conversation-guide.md
 
 [Interview transcripts] - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/research/2024-search-filters/transcripts
-
 
 ### Tools used for Synthesis
 Mural - https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738793109607/9003012168cc00d3673c9babe90d7435ece613cf
