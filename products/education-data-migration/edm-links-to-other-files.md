@@ -73,6 +73,32 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 - Closed February 2025 [Midpoint Review - Accessibility Feedback - Education Data Migration, WEAMS Public #101873](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101873#event-16084759168)
 
 ### Staging Review Feedback
+- **LAUNCH BLOCKING ISSUE** [QA Standards - Education Data Migration - WEAMS Public #105636](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105636#event-16881428829)
+- **LAUNCH BLOCKING ISSUE** [Staging Review finding: Unexpected keyboard focus behavior #105695](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105695#event-16914796554)
+- **LAUNCH BLOCKING ISSUE** [Staging Review finding: Form inputs not programmatically associated with labeling element #105696](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105696#event-16914797319)
+- **LAUNCH BLOCKING ISSUE** [Staging Review finding: Invalid URLs for Licenses and National Exams details #105704](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105704#event-16914802090)
+- Should be a priority [Staging Review finding: Improper use of role="application" #105694](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105694#event-16914795852)
+- Should be a priority (may be changed to a launch blocker) [Staging Review finding: Expanded/collapsed state not announced to screen readers for filter accordion #105697](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105697#event-16914797927)
+- Should be a priority [Staging Review finding: Complex language in FAQs  #105707](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105707#event-16914818242) look at content guidance. Recommends complete overhaul of the FAQ section. 
+- Should be somewhat of a priority [Staging Review finding: Reset filters seems to be broken #105686](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105686)
+- [Staging Review finding: Update the filter and search results UI #105685](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105685#event-16914790161)
+- [Staging Review finding: Alert on school profile page doesn't follow link text guidance #105687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105687#event-16914791289)
+- [Staging Review finding: No path to update search text string on L&C search results page #105689](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105689#event-16914792453)
+- [Staging Review finding: Alert on school profile page doesn't follow link text guidance #105687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105687)
+- [Staging Review finding: Title tags, h1s, current breadcrumbs must use same text #105688](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105688#event-16914791900)
+- [Staging Review finding: All caps for institution names #105690](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105690#event-16914793004)
+- [Staging Review finding: va-search-input imposter component #105693](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105693#event-16914795217)
+- [Staging Review finding: va-select imposter componets #105691](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105691#event-16914793660)
+- [Staging Review finding: va-text-input imposter component  #105692](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105692#event-16914794616)
+- [Staging Review finding: Heading structure doesn't match content #105698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105698#event-16914798436)
+- [Staging Review finding: Tables must have a table-title #105699](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105699#event-16914799002)
+- [Staging Review finding: Vague header for "programs" on school details page #105701](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105701#event-16914800261)
+- [Staging Review finding: Alert contains instructions to "click" #105700](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105700#event-16914799640)
+- [Staging Review finding: Strange search results on National Exams page #105703](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105703#event-16914801278)
+- [Staging Review finding: Potentially outdated link in footer to search VSOs #105702](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105702#event-16914800787)
+- [Staging Review finding: Breadcrumbs on Institution details and programs page should be more specific #105705](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105705#event-16914817115)
+- [Staging Review finding: Links contain language that assumes ability and user experience #105706](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105706#event-16914817741)
+- [Staging Review finding: Incorrect link text for downloading government forms #105708](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105708#event-16914818729)
 
 ## CT Homepage
 - [Collaboration Cycle EDM and VEBT team, GI Bill Comparison Tool homepage #98557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98557)
@@ -89,3 +115,4 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 - Closed March 2025 [Midpoint Review - Accessibility Feedback - EDM and VEBT team, GI Bill Comparison Tool homepage #102227](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102227#event-16133713720)
 
 ### Staging Review Feedback
+[QA Standards - EDM and VEBT team - GI Bill Comparison Tool #105786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105786#event-16930581450)

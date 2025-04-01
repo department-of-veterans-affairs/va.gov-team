@@ -38,3 +38,37 @@ The Drupal CMS will store:
 
 And the front-end of the Find a Form product will show: 
 * `Form revision date: May 2022`
+
+
+# Forms data that should not appear on VA.gov (March 2025)
+
+## Deleted forms
+* **In the FormsDB**: Forms marked Deleted = true, and DeletedAt = contains a timestamp
+* **In Drupal**: When Drupal imports forms where Deleted = true, Drupal marks the VA Form node as archived, and stores the Deleted = true / DeletedAt timestamp on the node.
+* **In Lighthouse Forms API:**
+    * Lighthouse receives the Deleted and DeletedAt values from Forms DB (via Drupal migration) and stores / returns those values in API responses. 
+    * Forms are marked as validPdf = false. I believe Lighthouse analyzes PDF URLs and sets this value in their API -- it does not come from FormsDB or Drupal. 
+    * Deleted forms are not excluded from the API, and the API does not include an API parameter that allows excluding deleted forms from API responses. 
+* **On VA.gov:** We have application logic in Find a Form that does not display form in search results if form data includes validPdf = false. 
+    * This is working correctly when searching by Form ID. 
+    * It is not working correctly all the time when searching by Form Name. (some forms with validPDF = false appear in search results.) This is a bug.
+
+## IntranetOnly forms
+* **In the FormsDB**: Forms are marked IntranetOnly = 1
+* **In Drupal**: When Drupal imports forms with IntranetOnly = 1, Drupal now marks them archived.
+Drupal does not save the IntranetOnly field value onto the Drupal node, so it cannot currently be passed on to Lighthouse.
+* **In Lighthouse Forms API**: Lighthouse does not see, handle, or store the IntranetOnly value, and does not process any Drupal publishing states. These forms continue to return as valid forms in Lighthouse Forms API search results. However: the PDF link for IntranetOnly forms often 404s from off VA network, which means Lighthouse sets validPDF = false.
+We have suggested (in Slack) that Lighthouse could exclude Drupal publishing status = Archived from their GraphQL query, to exclude these results.
+Alternatively: We could store the IntranetOnly value in Drupal, and Lighthouse could then store it as they do with Deleted / DeletedAt.
+* **On VA.gov**: Forms continue to appear on VA.gov if validPDF = true (if PDF link is reachable); "form not valid" message is returned if validPDF = false. BUT: Same bug is in play for these results:
+    * This is working correctly when searching by Form ID. 
+    * Some validPDF = false forms show up when searching by title. 
+
+## Docusign only forms - March 2025 VBA request
+This was recently requested from VBA, to exclude DocuSign forms from VA.gov results, but is not yet handled in VA.gov. Ticketed = [#20947](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20947)
+* **In the FormsDB**: No FormsDB field indicates Docusign only. The examples we have just include Docusign in the PDF link text. (29-10277, 29-0975e, 29-10277) , or it is not indicated anywhere in data we receive (22-10203, was noted in a 2024 email thread with Forms mgrs).
+* **In Drupal**: We don't do any special handling for DocuSign. We look at Deleted or IntranetOnly values only, to determine whether or not to archive. 
+* **In Lighthouse Forms API**: Lighthouse does not do any special handling. 
+* **On VA.gov**: Forms continue to appear on VA.gov if validPDF = true; "form not valid" message is returned if validPDF = false. BUT: Same bug is in play for these results:
+    * This is working correctly when searching by Form ID. 
+    * Some validPDF = false forms show up when searching by title. 

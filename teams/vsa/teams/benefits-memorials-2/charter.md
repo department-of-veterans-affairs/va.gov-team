@@ -1,5 +1,5 @@
-# **Benefits: Debt Resolution Team Charter** 
-Last Updated: January 5, 2024
+# **Financial Management Team Charter** 
+Last Updated: March 21, 2025
 
 ### **Table of Contents:**
 
@@ -19,16 +19,27 @@ Last Updated: January 5, 2024
 
 
 ## Guideposts
-- **OCTO-DE:** [2021 Mission & Vision](https://dsva.slack.com/archives/CE4304QPK/p1615244948078900)
+
+- **2025 OCTO Objectives:**
+-   O1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits. 
+-   O2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA. 
+-   O3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.
+-   O4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.
+
+- **Archived Section**
+-  OCTO-DE: [2021 Mission & Vision](https://dsva.slack.com/archives/CE4304QPK/p1615244948078900)
 
 - **VSA North Stars:**
   - Increase the use of self-service tools and associated number of conversions
   - Decrease time users spend waiting for an outcome
   - Consistent Customer satisfaction, reliability and secure online UX
+ 
+    
 
 - **Team Mission Statement:** To help Veterans understand why they have debt, what the status of their debt is, and what steps they need to take to resolve their debt.
 - **Our Team Vision:** To make VA.gov  the "go-to" resource for Veterans to review all of their real-time debt information easily and reliably. Work with Veterans to build, maintain, and improve the public-facing experience on VA.gov. Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
-- **Product Line:**  VA Debt Experience
+- **Product Line:**  Account Experience (https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)
+
 
 </br>
 
@@ -38,14 +49,14 @@ Last Updated: January 5, 2024
 
 ## Team Details
 
-### Team Slack Channel:** `#debt-resolution`
+### Team Slack Channel:** #financial-management
 
-|**Debt Team Roster**              |**Assigned**                        |
+|**Financial Management Team Roster**              |**Assigned**                        |
 |-----------------------|------------------------------------|
-|DSVA Product Manager   |Denise Coveyduc                          |
+|DSVA Government Product Manager   |Denise Coveyduc                          |
 |Sr. Product Manager    |Tom Davis                    |
-|Delivery Manager       |Devi Hill                     |
-|Sr. Back End Engineer  |Penny Lischer                         |
+|Sr. Delivery Manager       |Heather Rienks                    |
+|Back End Engineer  |Josh Mills                         |
 |Back End Engineer      |Derek Dyer                                |
 |Lead Front End Engineer |Andrew Rodiek                       |
 |Sr. Front End Engineer |Brandyn Sullins                     |
@@ -65,10 +76,10 @@ Last Updated: January 5, 2024
 ##  Agile Ceremonies 
 |**Agile Ceremonies**         |**When**         |**Duration**                   | **Where**        |**Agenda/Focus** |**Facilitator**  | 
 |-----------------------|------------------------------|------|------------------|-----------------|----------------|
-|*Stand-Up*               |*M,W,F* @ 12:30pm ET/9:30am PT |30 mins         | *M,W,F*: Zoom T,Th: Slack| *3 Question Format*: What I did yesterday? What will I do today? Any Blockers and/or Dependancies?|Devi Hill  | 
+|*Stand-Up*               |*M,W,F* @ 12:30pm ET/9:30am PT |30 mins         | *M,W,F*: Zoom T,Th: Slack| *3 Question Format*: What I did yesterday? What will I do today? Any Blockers and/or Dependancies?|Heather Rienks  | 
 |*Sprint Planning*        |Last Tuesday of every sprint  @ 1:00pm ET/10:00am PT|45 mins | Zoom meeting|Outline team and member focus, goals for upcoming sprint.|Tom Davis  | 
-|*Sprint Retrospective*                  |Last Tuesday of every sprint @ 3pm ET/12pm PT | 60 mins|Zoom meeting| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|Devi Hill    | 
-|*Backlog Refinement* | Bi-Weekly 2nd Wednesday of every sprint, @ 1:30pm ET/10:30am PT|45 mins |Zoom meeting|Assess and update workload for remainder of sprint|Devi Hill    | 
+|*Sprint Retrospective*                  |Last Tuesday of every sprint @ 3pm ET/12pm PT | 60 mins|Zoom meeting| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|Heather Rienks   | 
+|*Backlog Refinement* | Bi-Weekly 2nd Wednesday of every sprint, @ 1:30pm ET/10:30am PT|45 mins |Zoom meeting|Assess and update workload for remainder of sprint|Heather Rienks    | 
 
 </br>
 
@@ -78,10 +89,10 @@ Last Updated: January 5, 2024
 |--------------------------|-----------------|----------------------------------|-------------------|-------------------|
 | *Product Planning*               | Quarterly: once every 3 months        | Matt, Denise, Jill, Devi, Tom |Discuss product roadmap and OKR status |Denise Coveyduc  | 
 | *Quarterly Team Planning*       | Quarterly: once every 3 months    | PM, DM, BE, FE, Design, Research  |Align on upcoming priorities |Denise Coveyduc   | 
-| *FrontEnd Touchpoint*              | Weekly          | PM, DM, FE    |Align on current FrontEnd Engineering Priorities, Challenges, & Blockers    |Devi Hill, Tom Davis  | 
-| *BackEnd Touchpoint*               | Weekly          | PM, DM, BE     |Align on current BackEnd Engineering Priorities, Challenges, & Blockers      |Devi Hill, Tom Davis  | 
-| *Design/Research Touchpoint*   | Weekly          | PM, DM, Design, Research     |Align on current Design + Research Priorities, Challenges, & Blockers         |Devi Hill, Tom Davis  | 
-| *PM + DM Sync*   | Twice Weekly          | PM, DM   |Align on Priorities & Team Needs |Devi Hill, Tom Davis| 
+| *FrontEnd Touchpoint*              | Weekly          | PM, DM, FE    |Align on current FrontEnd Engineering Priorities, Challenges, & Blockers    |Heather Rienks, Tom Davis  | 
+| *BackEnd Touchpoint*               | Weekly          | PM, DM, BE     |Align on current BackEnd Engineering Priorities, Challenges, & Blockers      |Heather Rienks, Tom Davis  | 
+| *Design/Research Touchpoint*   | Weekly          | PM, DM, Design, Research     |Align on current Design + Research Priorities, Challenges, & Blockers         |Heather Rienks, Tom Davis  | 
+| *PM + DM Sync*   | Twice Weekly          | PM, DM   |Align on Priorities & Team Needs |Heather Rienks, Tom Davis| 
 
 
 
@@ -89,14 +100,14 @@ Last Updated: January 5, 2024
 | **Meeting** | **Cadence**      | **Attendees/Groups**   |**Agenda/Focus**    |**Facilitator**  | 
 |-------------|--------|-------------|---------|----------|
 | *Veterans Online Debt Access (VODA) Project Overview* | Monthly      | VA Leadership    |Provide update to leadership monitoring progress and reviewing path forward for VA Debt Portal    |Denise Coveyduc  |   
-| *Debt Team Sprint Demo* | Bi-Weekly (Encompasses previous sprint accomplishments)     | Denise Coveyduc, Debt Team  |Summarize current work & achievements    |Devi Hill  | 
+| *Financial Management Team Sprint Demo* | Bi-Weekly (Encompasses previous sprint accomplishments)     | Denise Coveyduc, Debt Team  |Summarize current work & achievements    |Heather Rienks  | 
 
 
 
 ## Contract Meetings
 | **Meeting** | **Cadence**      |**Attendees**  |**Agenda/Focus**    |**Facilitator**    | 
 |-------------|--------|-------------|---------|----------| 
-| *Contract Status Meeting* | Monthly      | Jennifer O’Day (COR), Denise Coveyduc, Devi Hill, Athena Perez    |TBD    |TBD   |
+| *Contract Status Meeting* | Monthly      | Jennifer O’Day (COR), Denise Coveyduc, Heather Rienks, Matt Levenson    |TBD    |TBD   |
 
 
 </br>
@@ -119,7 +130,7 @@ _[Additional Information](https://github.com/department-of-veterans-affairs/va.g
   * Let’s have fun and do great work!
 
 **Communication Best Practices** 
-  - Slack is the best communication method - Please use DSVA slack channel [**#benefits-debt-resolution**] as much as possible
+  - Slack is the best communication method - Please use DSVA slack channel [**#financial-management**] as much as possible
   - Slack channels allow us to do our work in the open so that others can learn from the questions asked and the answers provided. Please do the same.
   - VFS teams should use public Slack channels as their first method of communication.
   - Keep as much Slack conversation in public channels as possible, to minimize duplicative and extraneous communication.
@@ -157,7 +168,7 @@ Decisions are part of our daily routine, the below questions can help kickstart 
 
 ### GitHub Resources
 - Team Github Label = `vsa-debt`
-- [Team Zenhub Board](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/board?notFullScreen=false&repos=133843125&showPipelineDescriptions=false)
+- [Team GitHub Board](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/13)
 
 ### Popular Labels in ZenHub
 * vsa
@@ -234,7 +245,7 @@ _In an effort to standardize  team estimates the below can act as a reference gu
 
 ## VA + Other Stakeholder Relationships
 - Denise Coveyduc | Denise.Coveyduc@va.gov -- Digital Services Product Owner
-- TBD | TBD -- Debt Management Center (DMC) Stakeholder
+- Robert "Bob" Vitt | Robert.Vitt@va.gov -- Debt Management Center (DMC) Stakeholder
 
 
 </br>

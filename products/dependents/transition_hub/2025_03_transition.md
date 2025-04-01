@@ -1,6 +1,6 @@
 # 686c/674 Transition Hub
 
-**Updated February 2025**
+**Updated March 2025**
 
 > The purpose of this transition document is to outline the current state of 21-686c, 21-674, and 21-0538 forms' product development. It serves as a "front door" to documentation and resources collected during the course of product design and development from March 2023 through March 2025. Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development. These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 
@@ -41,7 +41,7 @@ Make the online dependent experience as easy to complete and cohesive as possibl
 - [Production link](https://www.va.gov/view-change-dependents/add-remove-form-21-686c-v2/introduction)
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/README.md)
-- Product Guide/Contact Center Guide
+- [Product Guide/Contact Center Guide](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Dependents%20Management/Documentation/Dependents.Product.Guide_2025.docx?d=w4f2f8ce3a97240938b1389ae427d14a6&csf=1&web=1&e=1JaSg6) (sharepoint)
 
 #### 21-0538 Mandatory Verification of Dependents Tool
 This tool is in the design stage and the 0538 form currenly only exists as a paper form.
@@ -62,7 +62,6 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 
 ### Design artifacts
 - Design [readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/design/README.md)
-- Content source of truth
 - [Page/User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1687976281975/2a9c6ca9ea6d955afa7977c777bbb72b15280903?sender=u934f98f179a86c76e6ee9592)
 - [Wireframes and page designs](https://www.figma.com/file/7W55oNwdVXvXOTI9SaFzQ7/686c-Add-or-Remove-Dependents?type=design&node-id=8-9&mode=design&t=kcdjZspxOR8ocdvT-0)
 - Staging users
@@ -85,7 +84,7 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 - [Dependency Verification Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research/2025-02-dependents-verification-mvp-research)
 
 ### Analytics dashboard:
-- Domo (none)
+- Domo (none), [general forms dashboard](https://va-gov.domo.com/page/447193050)
 - Google Analytics (none)
 - [Backend Stats on DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/vad-969-xqc/benefits-dependents-686674?fromUser=false&refresh_mode=sliding&from_ts=1729703196402&to_ts=1737479196402&live=true)
 - [Backend monitoring](https://vagov.ddog-gov.com/monitors/manage?q=dependent&order=desc)
@@ -105,26 +104,29 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 ## Roadmap
 ### Done (recently)
 - Updated form flow to produce Aug 2022 version of pdf on Aug 13, 2024.
-- Send [674-only claims from VA.gov directly to RBPS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97875) rather than flagging them for manual processing.
+- Send [674-only claims from VA.gov directly to RBPS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97875) rather than flagging them for manual processing on March 21, 2025.
 - Completed concept testing for the [MVP prototype](https://www.figma.com/design/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?node-id=59-960&t=yWIz3IUP2uFChYib-0) of dependent verification tool. Intent is to capture “no changes to dependents” through an online tool on VA.gov and submit a 21-0538 (dependent verification) form on the Veteran’s behalf.
 - [Met with CAIA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84170) in January 2025 to discuss [IA of dependent experience](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=91-1737736233308) and [improvement opportunities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=522-1737736233308).
 
 ### Now
 - Test and release [updated form flow](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1292) to use v3 design system components, improve user experience, and comply with current accessibility requirements. See general testing guidelines [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/form_updates/general_testing_plan.md).
-   - The form updates have passed the [Collaboration Cycle staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74059) stage gate, so the changes are ready for release after testing is complete. The initial release was postponed due to ongoing issues with some of the new v3 design system components, but workarounds were implmented where needed. Given the time invested in fixing or working around the component limitations, we ran out of runway to complete end-to-end testing with OBI/RBPS stakeholders, so the release was delayed. We have developed workarounds for the following issues, and tickets have been submitted to fix the component-related issues at the Platform level:
+   - The form updates have gone through a final [Collaboration Cycle staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74059) stage gate, and there are a [handful of launch-blocking issues](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1253) that need to be addressed (see launch-blocking label).
+   - The initial release was postponed due to ongoing issues with some of the new v3 design system components, but workarounds were implmented where needed. Given the time invested in fixing or working around the component limitations, we ran out of runway to complete end-to-end testing with OBI/RBPS stakeholders, so the release was delayed. We have developed workarounds for the following issues, and tickets have been submitted to fix the component-related issues at the Platform level:
       - [#103781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103781): Validation error
       - [#103778](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103778): Remove additional info (this workflow needs to be reviewed)
       - [#103783](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103783): Button imposter component
       - [#103784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103784): File input imposter component
   - Post release, an [accessibility audit needs to be requested from the VA 508 Office](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office#RequestsupportfromtheVA508office-AuditRequest). This is required even if no accessibility issues were found during the Staging Review. Once the audit has been requested, add a comment to the [collab cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74059) with the 508 ticket number and close the collab cycle review ticket.
-- Test pension-related [income questions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76468) and [API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76465)
-
-### Next
 - Build out [MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md#whatre-you-building) of dependent verification tool to capture “no changes to dependents” and auto-submit a 21-0538 form. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1409)).
 - Add claim submission in-progress email and update confirmation email to align with requirements from Zero Silent Failure initiative. Seperate existing confirmation email into seperate emails for each claim submission type. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1420))
-- Code modularization
-- Auto fill spouse and dependent information ([discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102343))
 - [Migrate to RESTful APIs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91282)
+- [Migrate](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83272) off of depreciated document upload API.
+
+### Next
+- Test pension-related [income questions and API](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1524). This would enable RBPS to process pension-related dependency claims automatically (right now they're off-ramped for manual review).
+- [Prevent multiple EPs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25030). When a 686 and 674 claim are submitted at the same time, VA.gov generates two EPs, which then have to be manually merged downstream.
+- Code modularization (no tickets yet)
+- Auto fill spouse and dependent information ([discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102343))
 - Determine why submission and saved dates do not match MyVA. ([submission date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101056) and [saved date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101040))
 - Work with Infrastructure and Arcitecture team to [improve findability of forms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102744) (initial AI work in [GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/verify-dependents.md) and [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689863079145/5b97ba9ea11077f983f3413167f6324f11aa04a8))
 - Create [analytics dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102886) to better understand user and form behavior
@@ -135,7 +137,7 @@ This tool is in the design stage and the 0538 form currenly only exists as a pap
 - Work with MyVA to update the [status card](https://design.va.gov/patterns/help-users-to/stay-informed-of-their-application-status#status-in-myva) shown to claimants as part of the Zero Silent Failure initiative.
 - Integrate dependent management into the MyVA profile experience. ([milestone for this project](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102346))
 - Integrate dependent parent form (21-509) into 686/674 form flow on VA.gov. ([discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102348))
-- Expand functionality of dependency verification tool (21-0538) to capture "yes, I have changes to my dependents)
+- Expand functionality of dependency verification tool (21-0538) to capture "yes, I have changes to my dependents). (No existing tickets, but there is a [general milestone](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1409).)
 - Explore reminders for life events ([discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102351))
 
 
@@ -183,6 +185,8 @@ This table includes links to the individual feature directory and the latest ite
 |Kayce White|Program Analyst|Compensation Services|Kayce.White@va.gov|SME on form pdfs. Manages the pdf forms. Makes updates to the pdfs, fixes fields and formatting.|
 |Linda Ciston|Contractor|RBPS|linda.ciston@va.gov |RBPS expert, retired from VA, but still works limited hours.|
 |Bahaeddin (Baha) Abukhaled|Contractor|RBPS |BahaEddin.AbuKhaled@va.gov | Linda’s replacement. RBPS SME.|
+|I. Tara L.|Program Analyst|OBI|tara.i@va.gov|Project Manager of sorts. Organizes testing with OBI/RBPS resources.|
+|Elizabeth Reeher|Contractor||elizabeth.reeher@va.gov|Project manager|
 |Yvette Allmond|Management Analyst|Office of Mission Support|yvette.allmond@va.gov | Source for providing unlocked pdf files that can be edited by VA.gov.|
 
 #### Reoccuring Stakeholders Meetings

@@ -1,7 +1,7 @@
 # Forms Status on My VA Frontend Documentation
-**Last updated: October 29, 2024 - removed "MVP" from title**
+**Last updated: March 18, 2025 - removed "MVP" from title**
 
-_Note: The "Submit an intent to file (VA Form 21-0966)" form has been removed from MVP as of 10/10/24 due to the variability of statuses being displayed (depending on the use of Central Mail vs. VBMS, what a user chooses in the submission (Veteran vs. not). This will be added in the future._
+_Note: The "Submit an intent to file (VA Form 21-0966)" form has been removed from MVP as of 10/10/24 due to the variability of statuses being displayed (depending on the use of Central Mail vs. VBMS, what a user chooses in the submission (Veteran vs. not). This will not be added in the future and is expected to live in the Claim Status Tool._
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
 

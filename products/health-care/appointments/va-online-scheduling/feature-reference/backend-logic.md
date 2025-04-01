@@ -54,6 +54,27 @@ Appointments that Veterans have requested but VA has not booked.
 | Sleep Medicine - Home Sleep Testing | 143 SLEEP STUDY                    |
 | Social Work                         | 125 SOCIAL WORK SERVICE            |
 
+
+### Supported methods of scheduling online
+
+| Type of care                                               | VA Direct | VA Request | CC Request (1) | VA COVID Vaccine |
+| ---------------------------------------------------------- | --------- | ---------- | ---------- | ---------------- |
+| Amputation care                                            | ✅         | ✅          |            |                  |
+| Audiology and speech: Routine hearing exam                 | ✅         | ✅          | ✅          |                  |
+| Audiology and speech: Hearing aid support                 | ✅         | ✅          | ✅          |                  |
+| COVID-19 vaccine                                           |           |            |            | ✅                |
+| Eye care: Optometry                                       | ✅         | ✅          | ✅          |                  |
+| Eye care: Ophthalmology                                   | ✅         | ✅          |            |                  |
+| Mental health                                              | ✅         | ✅          |            |                  |
+| MOVE! weight management program                            | ✅         | ✅          |            |                  |
+| Nutrition and food                                         | ✅         | ✅          | ✅          |                  |
+| Pharmacy                                                   | ✅         | ✅          |            |                  |
+| Podiatry                                                   |           |            | ✅          |                  |
+| Primary care                                               | ✅         | ✅          |          |                  |
+| Sleep medicine: Continuous Positive Airway Pressure (CPAP) | ✅         | ✅          |            |                  |
+| Sleep medicine: Sleep medicine and home sleep testing     | ✅         | ✅          |            |                  |
+| Social work                                                | ✅         | ✅          |            |
+
 ## Determining if a user is eligible to schedule or request into a clinic
 
 Except for Primary Care and COVID, all types of care have CCM Settings:  

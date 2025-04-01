@@ -1,6 +1,6 @@
 # Benefits Management Tools 1 Transition Hub
 
-**Updated X**
+**Updated 3.31.2025**
 
 **Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 
@@ -27,8 +27,11 @@
 
 ## Portfolio context 
 ### Claim Status Tool
+The Claim Status Tool allows Veterans to check the status of their VA claims, decision reviews, or appeals online. Users can view details such as evidence submitted, additional evidence requested by VA, claim types, and specific issues claimed. Additionally, Veterans can upload supporting documents for initial claims and download decision letters for certain types of claims, decision reviews, and appeals.
 ### VA Benefits Letters
+Through the VA Benefits Letters application, Veterans can access and download various official VA letters and documents, including the Benefit Summary Letter (often referred to as a VA award letter). This tool provides Veterans with immediate access to their benefits information, which can be useful for verifying service history, disability ratings, and other benefits-related detail
 ### Rated Disabilities
+The Rated Disabilities tool enables Veterans to view their combined disability rating as well as individual disability ratings online. These ratings are assigned based on the severity of disabilities related to military service and are crucial in determining the benefits Veterans receive. By accessing this tool, Veterans can stay informed about their disability evaluations and ensure they are receiving appropriate benefits. 
 
 <br>
 
@@ -38,10 +41,11 @@
 - [Staging link](https://staging.va.gov/claim-or-appeal-status/)
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/CST%20Product)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Product%20Outline.md)
-- [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/product-guides/VA%20Claim%20Status%20Tool%20Product%20Guide%20v2.1%20SRT%2006262024.docx)
-- [Things to know](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/10-10EZ%20-%20Things%20to%20know.md) 
-- [Stakeholder Meeting Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes)
-- [PM Resources folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/PM%20Resources) for documents used in routines and research
+- [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/product-guides/VA%20Claim%20Status%20Tool%20Product%20Guide%20v2.1%20SRT%2006262024.docx) 
+- [VBA OBA Stakeholder notes](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/BMT%20-%20OBA%20Syncs%20-%20recordings%20and%20notes/BMT+OBA%20syncs.docx?d=w26d8a422385446899056f74d0f528db5&csf=1&web=1&e=1SWbi8)
+- [PM Resources folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/CST%20Product)
+- [Gap-Bet Scoring](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/BMT%201%20Gap-Bet%20Scoring%20Framework.xlsx?d=w06da960cab3b433282a414daaeb8fcff&csf=1&web=1&e=UNJbQB)
+- [Sharepoint files and resources](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST?csf=1&web=1&e=r44Kqn)
 
 
 
@@ -49,41 +53,41 @@
 
 
 ### Product artifacts
-- [Content source of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/10-10EZ-application-copy.md)
 - [Claim Status Tool Data Flow Diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1663867462895/b0161ab939bba7d08f6bea07e3663d9d5cea22d4)
 - [Upstream Service Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Service%20Contacts.md)
-- [Page/User flow](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923531828/474bfdde942c22a0df26ad416a0b23e36b834d4a?sender=u6ad375c1c8425e5bfec67027)
-- [Sketch file](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6) with wireflows and page designs (including proposals and experiments)
 - [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
-- [Various form info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/10-10EZ%20Form)
 
 
 **Analytics**
 - Analytics dashboard: 
-     - [Domo](https://va-gov.domo.com/page/447193050) (consolidated forms dashboard)
-     - [Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/gSXa5lOYRyuXpauKyXSYug/a50123418w177519031p184624291/_u.date00=20210301&_u.date01=20210524/)
-- [Important Google Analytics Event Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Analytics/Important%20Google%20Analytics%20event%20labels.md)
-- [Backend Stats on DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
-- [Real User Monitoring (RUM) Dashboard](https://vagov.ddog-gov.com/rum/application/9d5155fd-8623-4bc9-8580-ad8ec2cdd7fa/overview/browser?from_ts=1676217734085&to_ts=1676304134085&live=true)
+     - [CSAT Domo](https://va-gov.domo.com/page/1545882322) (sort by URL /track-claims)
+     - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/bMzsgzMCT6yazCs5H-3N_g)
+- [DD CST Tracked Item Stats](https://vagov.ddog-gov.com/dashboard/p2a-9ii-9hz/claim-status-tool-statistics?fromUser=false&refresh_mode=sliding&from_ts=1742736772898&to_ts=1742823172898&live=true)
+- [DD CST Error Monitoring](https://vagov.ddog-gov.com/dashboard/8me-h86-qmb/benefits---claim-status-tool-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1740231301942&to_ts=1742823301942&live=true)
+- [DD BMT Silent Failure Monitoring](https://vagov.ddog-gov.com/dashboard/pps-nf7-ppr/cst-zero-silent-failures-document-uploads?fromUser=false&refresh_mode=sliding&from_ts=1742736972052&to_ts=1742823372052&live=true)
+- [DD Letter's app Monitoring](https://vagov.ddog-gov.com/dashboard/86n-b39-hhn/benefits---management-tools---letters?fromUser=false&refresh_mode=sliding&from_ts=1742737025688&to_ts=1742823425688&live=true)
+- [Real User Monitoring (RUM) Dashboard](https://vagov.ddog-gov.com/rum/performance-monitoring?query=%40application.id%3A75bb17aa-34f0-4366-b196-eb11eda75425%20%40session.type%3Auser&fromUser=false&tab=overview&from_ts=1742842798052&to_ts=1743447598052&live=true)
 
 
 **Engineering**
-- [High level view of systems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/10-10EZ%20High-level%20Architecture.png)
-- [Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/sequence-diagram.md)
-- [Application Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/architecture-diagram.md)
-- [Frontend developer README](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/hca/README.md)
-- [Prefill fields engineering research](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/27278)
-- [Endpoints consumed and owned](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/Endpoints%20Information.md)
+- [High level view of systems](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1663867462895/b0161ab939bba7d08f6bea07e3663d9d5cea22d4)
+- [Silent Failures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/engineering/testing-silent-failures)
+- [Engineering Onboarding Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/engineering/onboarding)
+- [Datadog README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/DataDog/README.md)
+- [Engineering README - How to run the benefit management tools team services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/README.md)
 
-**Latest discovery research**
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery)
-- [Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery/10-10EZ%20Discovery%20Research%20readout.pdf)
+
+**Design and Research**
+- [CST Design Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/design/resources.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research)
+- [BMT Figma Project](https://www.figma.com/files/team/1278375444205744118/project/175598391/Benefits-Management-Tools?fuid=1046561086805876994)
+- [CST V2: Up-to-date design source of truth](https://www.figma.com/design/F8U4wddaFouUPVd4mGBMDI/CST-V2?node-id=0-1&p=f&t=MJJ6bjDadV4zQPzw-0)
+- [CST Mural Room](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=9e1456d1-4532-434c-b053-f7694afc5795)
 
 **Team resources**
-- [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/team.charter.md)
-- [Team Zenhub board](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/board)
-- [Sprint Planning and Roadmap](https://docs.google.com/presentation/d/1ASalrxCcn-SXoNzz7ueIYQws97O6ROkXZznVch1mF-c/edit#slide=id.p1)
-- [Quarterly planning GitHub board](https://github.com/orgs/department-of-veterans-affairs/projects/847/views/1?layout=board)
+- [Github Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1549/views/3?filterQuery=design&visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C149737419%2C149737418%2C149737417%2C%22Labels%22%5D)
+- [Accessibility documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/readme.md)
+- [Accessibility project board](https://github.com/orgs/department-of-veterans-affairs/projects/1255/views/1)
 
 <br>
 
@@ -96,6 +100,7 @@
 - CST: Complete VBMS_Connect migration to new LH claim documents service
 - CST: Document status feature
 - CST: Complete initial load time performance improvement discovery
+- CST: Component migration
 
 **Next** (Quarter beginning July 1 2025)
 - Introduce gradual performance improvements to CST that reduce latency and load times
@@ -109,6 +114,13 @@
 - 5103 silent failure polling solution
 - Evidence request email notifications
 
+### Links
+- [Outcome-driven roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689972542685/b1908130a4ad3abdaf8fc015052540a4e15d752e)
+- Decision letter notification feature roadmap
+
+### Other in-flight priorities
+- [Migrating to new file submission component](https://github.com/orgs/department-of-veterans-affairs/projects/1549/views/3?filterQuery=component&pane=issue&itemId=88731646&issue=department-of-veterans-affairs%7Cva.gov-team%7C87835)
+  
 
 <br>
 
@@ -118,22 +130,22 @@ This table includes links to the individual feature directory and the latest ite
 
 | Feature                                      | AKA                                        | Status                                                         |
 |----------------------------------------------|--------------------------------------------|----------------------------------------------------------------|
-| Re-designed Claims Detail Page              | Improved Evidence Request Initiative       | Released April 2024                                            |
-| Re-designed Overview Page and Incorporating 8 claim phase paradigm | Improved Claim Contextualization Initiative | Released August 2024                                           |
-| Improved 5103 Request Experience            | N/A                                        | Released November 2024                                         |
-| Silent Failure Notification Emails          | Eliminate Silent Failures Initiative       | Phase 1 (exhaustion handler) released December 2024, Phase 2 (polling solution) released March 2025 |
-| Decision Letter Notifications               | Event Bus Notifications, Event-based Architecture Initiative | In progress, beginning staging testing and validation testing  |
+| Re-designed Claims Detail Page              | [Improved Evidence Request Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Evidence%20Requests%20Initiative.md)       | Released April 2024                                            |
+| Re-designed Overview Page and Incorporating 8 claim phase paradigm | [Improved Claim Contextualization Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Claims%20Process%20Understanding%20Initiative.md) | Released August 2024                                           |
+| [Improved 5103 Request Experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%205103%20Waiver%20Experience%20Initiative.md)            | N/A                                        | Released November 2024                                         |
+| Silent Failure Notification Emails          | [Eliminate Silent Failures Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Eliminate%20Silent%20Failures%20Initiative.md)       | Phase 1 (exhaustion handler) released December 2024, Phase 2 (polling solution) released March 2025 |
+| Decision Letter Notifications               | [Event Bus Notifications, Event-based Architecture Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Event-Driven%20Notifications%20Initiative.md) | In progress, beginning staging testing and validation testing  |
 
 
 <br>
 
 ## Enablement Team
 
-- Amy Lai | lauren.alexanderson@va.gov - Product Owner
-- Julie Strothman | patrick.bateman@va.gov - Design Lead
-- Cory Osbourne | katherine.lawyer@va.gov - Engineering Lead
-- Zack Goldfine | mark.dewey@va.gov - Deputy CTO, Benefits Lead
-- Steve Albers |stephen.barrs@va.gov - Engineering Product Owner
+- Amy Lai | amy.lai2@va.gov - Product Owner
+- Julie Strothman | julie.strothman@va.gov - Design Lead
+- Cory Sohrakoff | cory.sohrakoff@va.gov - Engineering Lead
+- Zack Goldfine | zackary.goldfine@va.gov - Deputy CTO, Benefits Lead
+- Steve Albers |steve.albers@va.gov - OCTO Engineering Lead
 
 
 

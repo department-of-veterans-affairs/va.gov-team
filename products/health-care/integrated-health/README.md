@@ -41,84 +41,36 @@ OCTO proposed an organization of IVC's requirements that [breaks the work into c
 - Content
 
 ## Digitizing Forms
-In Fall 2023, a CEDAR team was hired to [digitize 15 forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/IVC%20Portal%20Forms%20Work.docx) 
+In Fall 2023, a CEDAR team was hired to [digitize 15 forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/IVC%20Portal%20Forms%20Work.docx). The scope was reduced to the 5 forms below:
 1.	CHAMPVA Application Form – VA Form 1010D
   - Latest PDF: [About VA Form 10-10d](https://www.va.gov/find-forms/about-form-10-10d/)
   - Expiration: 10/31/2024
-  - [Dedicated Github Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/champva) 
+  - [Dedicated Github Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/champva)
+  - [Prodcution Link](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d)
 2.	CHAMPVA Beneficiary Claims Submission – VA Form 10-7959A
-    - Latest PDF: [About VA Form 10-7959A](https://www.va.gov/find-forms/about-form-10-7959a/), download: vha-10-7959a-fill.pdf (va.gov)
-    - Expiration: 10/31/2024
-    - [Dedicated Github Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/champva) 
+  - Latest PDF: [About VA Form 10-7959A](https://www.va.gov/find-forms/about-form-10-7959a/), download: vha-10-7959a-fill.pdf (va.gov)
+  - Expiration: 10/31/2024
+  - [Dedicated Github Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/champva) 
 3.	CHAMP VA OHI Form – VA Form 10-7959C
   - Latest PDF: [About VA Form 10-7959C](https://www.va.gov/find-forms/about-form-10-7959c/), download: VA-10-7959c-fill.pdf
   - Expiration: 10/31/2024
-  - [Dedicated Github Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/champva) 
+  - [Dedicated Github Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/champva)
+  - [Prodcution Link](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c/)
 4.	FMP Registration Form – VA Form 10-7959-1
   - Latest PDF: [Download VA Form 10-7959f-1](https://www.va.gov/vaforms/medical/pdf/vha-10-7959f-1%20(1).pdf) (PDF)
   - Expiration: 01/31/2024
   - [Dedicated Github Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/foreign-medical-program)
+  - [Prodcution Link](https://www.va.gov/health-care/foreign-medical-program/register-form-10-7959f-1)
 5.	Foreign Medical Program Claim Cover Sheet – VA Form 10-7959f-2
   - Latest PDF:  [Download VA Form 10-7959f-2](https://www.va.gov/vaforms/medical/pdf/vha-10-7959f-2.pdf) (PDF)
   - Expiration: 01/31/2024
   - [Dedicated Github Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/foreign-medical-program)
-6.	~*Power of Attorney form – VA Form 10-0137*~ [descoped 4/30/24](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/advance-directive/descoping-decision.md)
-  - Latest PDF: [Download VA Form 10-0137](https://www.va.gov/vaforms/medical/pdf/VA_Form_10-0137_FILL.pdf) (PDF)
-  - Expiration: 04/30/2024
-  - *This one requires special handling because it is a legal document that requires witnesses and notarization, and must be formally filed at a VA Medical Center. Need to work with stakeholder to understand what part we want to have digitized, and how we handle the subsequent steps - likely offline?*
-  - [Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/advance-directive)
-7.	~* Release of Information (ROI) form – VA Form 10-5345 *~ [descoped]
-  - Latest PDF:  [About form 10-5345](https://www.va.gov/find-forms/about-form-10-5345/)
-  - Expiration: Not shown
-  - *this one also requires special handling because we need to understand where it needs to be routed.*
-  - [Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/medical-records/release-of-health-information-form)
-8.	Spina Bifida Claim Form for Miscellaneous Expense – VA Form 10-7959E
-  - Spina Bifida Claims page: [https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/spina_claim.asp](https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/spina_claim.asp) 
-  - Latest PDF:  [Download VA Form 10-7959E](https://www.va.gov/vaforms/medical/pdf/vha-10-7959e-fill.pdf) (PDF)
-  - Expiration: Not shown
-  - *Curious if there are other Spina Bifida appliations we need to digitize*
-  - Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/spina-bifida)
-9. Decision Review Request Board Appeal (Notice of Disagreement)  - VA Form 10182*
-  - [Notice of disagreement on VA.gov](https://www.va.gov/find-forms/about-form-10182/) 
-  - Expiration: 03/31/2025
-  - The IVC appeals team receive board requests through the CMP, an online mailbox that the Board of Veterans Appeals uses to route documents they receive in their mail to appropriate agencies. The 10182 form actually
- goes the board first, then they upload it to the CMP.  We download them and add in the needed documentation to form the board review packet, and then re-upload them there for the board to review. 
-  - [Existing github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews) 
-10.	*Decision Review [Request Higher-Level review](https://www.va.gov/decision-reviews/higher-level-review/) - VA Form 20-0996*
-  - Latest PDF: [VA Form 20-0996 on VA.gov](https://www.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/start)
-  - Expiration: 04/30/2024
-  - THis form exists today on va.gov, but only has a pathway for benefits HLR to be filed. We would propose to update this flow and how/where we submit the data to allow for health care HLR to be filed as well. Deeper discovery needed on this.
-  - [Existing github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews) 
-11.	*Decision Review [Request Supplemental Claim](https://www.va.gov/decision-reviews/supplemental-claim/) VA Form 20-0995*
-  - Supplemental claim on va.gov:  [[Request Supplemental Claim form on VA.gov today](https://www.va.gov/decision-reviews/supplemental-claim/](https://www.va.gov/decision-reviews/supplemental-claim/file-supplemental-claim-form-20-0995/start))
-  - Expiration: 04/30/2024
-  -  THis form exists today on va.gov, but only has a pathway for benefits HLR to be filed. We would propose to update this flow and how/where we submit the data to allow for health care HLR to be filed as well. Deeper discovery needed on this.
-  -  [Existing github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews) 
 
-12.	[Camp Lejeune](https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/) Application Form – VA Form 10-10068
-  - Latest PDF: [VA Form_10-10068-fill.pdf](https://www.va.gov/VA_Form_10-10068.pdf)
-  - Expiration: 8/31/2025
-  - [Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/camp-lejeune)
-13.	Camp Lejeune Treating Physician Report – VA Form 10-10068b
-  - Latest PDF: [VA Form_10-10068b-fill.pdf](https://www.va.gov/VA_Form_10-10068b.pdf)
-  - Expiration: 8/31/2025
-  - *This needs to be completed by a physician. Not sure how to handle this use case.*
-  - [Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/camp-lejeune)
-14.	Camp Lejeune Family Member Program information Update Form – VA Form 10-10068c
-  - Latest PDF: [VA_Form_10-10068c-fill.pdf](https://www.va.gov/vaforms/medical/pdf/VA_Form_10-10068c-fill.pdf)
-  - Expiration: 8/31/2025
-  - [Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/camp-lejeune)
 
-15.	Camp Lejeune Family Member Program Claim Form – VA Form 10-10068a
-  - Latest PDF: [VA Form_10-10068a-fill.pdf](https://www.va.gov/vaforms/medical/pdf/VA%20Form_10-10068a-fill.pdf)
-  - Expiration: 08/31/2025
- - [Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/camp-lejeune)
 
 ## Who are the users and what do we know about them? 
 The users for this work include:
 - Veterans who use community care services: We know a fair bit about Veterans who are users of community care. These are Veterans who either live very far from a VA Medical Center,  require specialty services that their VA Medical Center may not offer (not every VAMC offers all services), or would have to wait too long to get their appointment at the VA. Veterans who use community care also still get care from the VA, and VA is intended to serve as a care coordinator. 
-
-- Veterans eligible for SpinaBifida or Camp Lejeune services: These are Veterans who are eligible for specialty benefits and health programs as a result of where they served. 
 
 - Veterans who live abroad but are eligible for VA Health Care services through the Foreign Medical Program: These are Veterans who may be eligible for VA Health Care but live overseas. VA clinicians are  not legally allowed to provide health care to these Veterans while they are overseas, so VA needs to reimburse Veterans for health care costs incurred.
   
@@ -148,7 +100,7 @@ General problems include:
   - Mikki Northuis -Information architecture
   - Kay Lawyer - Product lead for Unified Appointment Experience (including consults, authorizations, etc.) & Medications
   - Denise Coveyduc - Product lead for debt mgmt product 
-  - Beverly Nelson - Product lead for VA Notify
+  - Dave Conlon - Product lead for VA Notify
   - Chante Lantos-Swett - Contact Centers, Helpdesks, etc.
   - Michelle Middaugh - Facility websites, Facility Locator
   - Patrick Bateman - Medical equipment ordering 

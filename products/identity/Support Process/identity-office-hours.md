@@ -6,7 +6,7 @@ Schedule time to meet with the Identity team for flexible office hours every wee
 
 **Schedule office hours for drop-in questions**
 
-- Authentication, metrics, and security: schedule time with [Joe Niquette](https://calendar.app.google/CEq822Myid5xsxwH9)
+- Authentication, metrics, and security: schedule time with [Joe Niquette](https://calendar.app.google/DmJW8Ptq627Lw8Px9)
 - Product office hours:  reach out to Lainey Trahan or Joelle Wells in Slack
 
 ## 📅 Pairing sessions

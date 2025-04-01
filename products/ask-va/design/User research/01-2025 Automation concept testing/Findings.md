@@ -234,25 +234,29 @@ People also try to sway the tool away from an incorrect suggestion. Editing thei
 
 ## Recommendations
 
-1. Determine the right moment(s) to offer helpful links based on information people share.
-2. Make it clear you can still continue with the form if you don't want to click a link or don't find an answer on your own.
-3. Let people know which team will answer their question.
-4. Help people understand labels by providing descriptions, so there's less guessing involved.
-5. Include content about a suggestion being 'based on other similar questions Veterans have asked' without getting any more technical.
-6. Offer a narrower list of categories to choose from, rather than jumping straight to one suggestion.
-7. Don't add a new, first triage layer that's more broad than categories.
-8. Don't include the option to let people edit their question to generate an updated category.
+1. Recommend a shorter list of category, topic and subtopic options based on a question.
+- Offer a narrower list of categories to choose from, rather than jumping straight to one suggestion.
+- Help people understand labels by providing descriptions, so there's less guessing involved.
+- Include content about a suggestion being 'based on other similar questions Veterans have asked' without getting any more technical.
+- Let people know which team will answer their question.
+  
+2. Offer helpful links in the form based on information people share.
+- Determine the right moment(s) to offer helpful links based on information people share.
+- Make it clear you can still continue with the form if you don't want to click a link or don't find an answer on your own.
 
 ## Next steps
 
-- Design an approach to category and topic determination focused on recommending a shorter list options based on a question
-- Decide when in the form to offer helpful information and determine design and technical approach
-- Add content that lets people know our suggestions are based on past, similar questions
-- Add content that let peoples know which team will answer their question
+1. Recommend a shorter list of category, topic and subtopic options based on a question.
+- [x] Develop a [design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/2025-03%20Design%20strategy:%20Categories,%20topics%20and%20subtopics%20in%20Phase%202.md) to recommend a shorter list of category, topic and subtopic options based on a question.
+- [ ] Determine a technical approach to surfacing category, topic and subtopic options above a certain confidence threshold.
+
+2. Offer helpful links in the form based on information people share.
+- [x] Develop a [design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-03%20Design%20strategy%3A%20Recommend%20helpful%20links%20in%20Phase%202.md) to offer helpful information in the form.
+- [ ] Determine a technical approach to offering helpful information in the form.
 
 ## Further research needed
 
-We need to do further research as we design approaches to category and topic determination, as well as other changes to the form.
+We need to do further research as we develop design and technical approaches to category and topic determination and helpful links.
 
 ## Appendix
 

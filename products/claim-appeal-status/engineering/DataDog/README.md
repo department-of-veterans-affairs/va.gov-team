@@ -52,7 +52,7 @@ TODO
 | #submit5103 | `env:eks-prod resource_name:"V0::BenefitsClaimsController#submit5103"` | [Link](https://vagov.ddog-gov.com/apm/traces?query=%40_top_level%3A1%20env%3Aeks-prod%20resource_name%3A%22V0%3A%3ABenefitsClaimsController%23submit5103%22&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code) |
 
 #### Document Uploads
-TODO
+[DataDog Dashboard Documentation_ [CST] Zero Silent Failures_ Document Uploads.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/testing-silent-failures/DataDog%20Dashboard%20Documentation_%20%5BCST%5D%20Zero%20Silent%20Failures_%20Document%20Uploads.md)
 
 #### STEM Claims
 TODO

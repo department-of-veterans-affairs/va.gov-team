@@ -98,3 +98,12 @@ Changes in the Forms DB will appear immediately in the the Find a Form search re
 **To troubleshoot:**
 - Visit https://github.com/department-of-veterans-affairs/content-build/actions/workflows/content-release.yml to verify if Content Release has deployed successfully. If not, run the workflow to trigger a release. Or,
 - visit #cms-support, and @cms-helpdesk to request a content release.
+
+# Form upload tool
+Form upload tool is owned by the Veteran Facing Forms team.
+On certain Form detail pages, this react widget appears and allows end users to upload a filled-out form to send to VA, from the form detail page. 
+
+If you receive reports of form upload issues, provide details in the #veteran-facing-forms channel, and tag tag Tricia Baker and Matt Dingee.  (March 2025)
+
+Feature documentation is here: https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/DocumentUpload_FindaForm/readme.md
+

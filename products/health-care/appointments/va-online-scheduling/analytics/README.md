@@ -121,12 +121,18 @@ Questions and notes:
 
 ## Resources
 
+[UAE Metrics](/products/health-care/appointments/va-online-scheduling/analytics/uae-metrics.md)
+
 [Appointments OKRs/KPIS](vaos-kpis.md)
-These haven't been updated in a few years.
+<br/>_These haven't been updated in a few years._
 
 [Appointments Analytics Dashboards](vaos-analytics-links.md)
 
-[Appointments Analytics Definitions]([draft]vaos-analytics-definitions.md) - Tracking that's currently set up in the Appointments tool.
+[VAOS OKRs 2025 - GA4 (Source)](https://lookerstudio.google.com/s/qXJSaTU9eOQ) 
+<br/>_Temporary until migrated to new Looker Studio account._
+
+[Appointments Analytics Definitions]([draft]vaos-analytics-definitions.md)
+<br/>_Tracking that's currently set up in the Appointments tool._
 
 [How to request and process Veteran feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/how-to-request-medallia-feedback.md)
 
@@ -135,8 +141,13 @@ These haven't been updated in a few years.
 
 [Google analytics](https://analytics.google.com/analytics/web/#/report-home/a50123418w177519031p176188361)
 
+<!-- ---
+_This information might be out of date:_<br/><br/>
 [VSSC Reports](https://reports.vssc.med.va.gov/ReportServer/Pages/ReportViewer.aspx?/Access/VA+Online+Scheduling&rs:Command=Render)
 - Clinic information: https://app.powerbigov.us/groups/me/apps/741625e9-a049-4f8e-a424-d13c7a723da7/reports/1e199d02-3cc6-4d5c-8caa-9a5a41bb4214/ReportSection4359bd0f5e2440101126?bookmarkGuid=Bookmark1e0e849bfb8edae90d32
+--- -->
+[Understanding VSSC VAOS Reports in PowerBI
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/analytics/requesting-access-to-vssc-vaos-report.md)
 
 [User Feedback Sharepoint Folder](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FAppointments%2FUser%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac)
 

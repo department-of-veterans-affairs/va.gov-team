@@ -1,5 +1,39 @@
 # Design Weekly Sync Agenda
 
+## 2025-03-19
+Attendees: Jessica S, Renata, Hieu, Jessica W, Heather, Luis, Jina, Amanda
+
+EZR - 
+- Hieu presented Mural of EZR timeline and history
+- https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684943221068/4b11f2d1902d05f12f53468263a561c2d5a460a9
+
+PATTERN - 
+- Went over pattern for confirmation page and download PDF functionality
+- Discussed the pros and cons - the main con being how large the open accordion would be with all the information that could potentially be entered into the EZ. 
+
+Need to do secondary research to learn:
+1. Can the accordion portion be omitted? See it can be closed on default, and understand accessibility benefits, but the EZ can be very lengthy in amount of information …
+2. What is the longest form currently using this pattern?
+3. Is there any other options for grouping/hierarchy within the open accordion? Open by step for example?
+
+- [EZ Figma page](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=8542-43880&p=f&t=auRAQz2MW8xf4Bda-0)
+- [CG Figma page](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=4160-7966&p=f&t=BgfBSEZ84ck4PGkJ-0)
+
+
+VES STATUS DISPLAY + FLOWS - 
+
+Went over discovery board and problems to solve:
+1. How can we let Veterans know more about the status of their health care application post submission? Other than enrolled, can we let Veterans know when they have an action to take so the VA can complete the eligibility review (financials)? 
+2. How to let Veteran’s know they have an action to take on a submitted health care application (EZ) and give them an easy path to do so - only completing what they need and not starting a new form over. 
+
+Next steps:
+- Content iterations for the financials and pendingOther statuses. 
+- More discovery on VA profile display options
+- The flow and short form/choose adventure is the more complicated tech explortation needed
+
+
+
+
 ## 2025-03-12
 Attendees: Jessica, Renata, Kat, Alex, Heather, Mitch, Jina, Amanda
 

@@ -117,11 +117,11 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Results
 
-- Number of unique users: N/A
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Number of unique users: 612 submissions (not entirely all using new form)
+- Metrics at this stage (per your "success criteria"): 0 calls from contact center, ~30 submissions on new form
 - Was any downstream service affected by the change?: N/A
-- Types of errors logged: N/A
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? N/A
+- Types of errors logged: 0 form failures, 1 evidence failure due to blank images within file
+- What changes (if any) are necessary based on the logs, feedback on user challenges, or VA challenges? None
 
 ### Phase 2: 25% of users
 

@@ -62,18 +62,25 @@
      - Are they looking for more information on what "Register" means?
 
 ## Conclusion
-- ...
-- EXAMPLE: Based on the results, we see that X% of Veterans have shown interest in the registration pathway.  This proves/disproves our hypothesis
+- Based on the results, we see that 28% of Veterans have shown interest in the registration pathway, which was right in line with our assumption.  However, we also saw that more than 70% of those Veterans dropped from the Registration page, and subsequently visited other health related and facility pages.
+     - This indicates to us that there does seem to be an interest in registering (not enrolling), and that Veterans are seeking more information.
+### NOTE
+- As of March 7th, 2024, the team has **descoped** the Registration pathway feature work.
+     - Reached out to the HOME team, who manages the [Registry](https://www.publichealth.va.gov/exposures/burnpits/registry.asp) Exam questionnaire and registry, and found that they no longer need an online solution to register Veterans into the system for purposes of putting them on the Registry.
+          - Since August 2024, Veterans are automatically added to the Registery and would need to intentionally opt-out
+          - The backlog of registry questionnaires have been reduced from 150k to just 53
+          - There is no further need to create a registration path online for Veterans to register (AKA "get in the system") to get a registry exam and be added to the registry
+     - Product Owner (Patrick Bateman) would like the team to put this feature in the backlog, and is reaching out to other VA.gov teams to consider making the Registration path as part of other products (such as making an appointment)
+          - If a Veteran wants to make an appointment online, they must be registered with a facility, which also would mean they are already "in the system".  The Registration path can would allow a Veteran new to VA to "get in the system" and register with a facility, then immediately be directed through the appointment process.  It could be all one step, rather than separate forms and processes.
 
 
-## Next Steps
+## Next Steps - THIS IS NO LONGER APPLICABLE AS OF 3/7/2025.  ADDITIONAL WORK TO IMPLEMENT IN CONJUNCTION WITH APPOINTMENTS OR OTHER SIMILAR WORKFLOWS WOULD BE A FUTURE INITIATIVE
 - Initial thoughts (pre-experiment)
      - If there is enough interest in Registration pathway online after month 1 to indicate a trend, then we will run a research session to gain feedback on a previously designed user flow, content and presentation.
      - If there is enough interest in Registration pathway online, then we will consider how to integrate Registration process in the form as well as with VES to accept the data (not currently set up to receive this from VA.gov).
      - If there is not enough interest in Registration pathway online, we will consider removing the experiment from the form.  
           - We may need to confirm policy/regulation requirements from HEC.  What happens if we have to provide "registration" option?
                - If we have to provide a registration option, possible solutions are to leave experiment in the form, or pose the choice in a different way/place in the form.
-
 Additional research questions
 - Is there a significant increase in calls from service connected Veterans asking about registration?
 - If so, do they end up registering them or does the call center staff encourage the Veteran to enroll instead?

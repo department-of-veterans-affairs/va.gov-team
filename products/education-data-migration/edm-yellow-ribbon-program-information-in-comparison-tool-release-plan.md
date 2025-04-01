@@ -100,7 +100,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 •	Desired date range: **3/19 in 2 hour increments over a total of 6 hours**
 
-•	**Targeting 7am – 1pm ET**
+•	**Targeting 8am – 2pm ET**
 
 •	How will you make the product available in production while limiting the number of users who can find/access it: 
 
@@ -208,13 +208,9 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ***1-week results***
 
-•	Number of unique users: [FILL_IN]
+•	Number of unique users: Per Datadog **
 
-•	Post-launch KPI 1 actual: [FILL_IN]
-
-•	Post-launch KPI 2 actual: [FILL_IN]
-
-•	Post-launch KPI 3 actual: [FILL_IN]
+•	Post-launch KPI 1 actual: **
 
 •	Any issues with VA handling/processing?: [PICK_ONE]: yes | no | N/A
 

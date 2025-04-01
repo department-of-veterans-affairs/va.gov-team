@@ -35,12 +35,13 @@ Check Settings -> Meeting -> In Meeting (Basic) > Hide participant profile pictu
 
 ## **Intro - max 5 minutes**
 
-Thanks for joining us today! My name is Cara and I'm a Researcher with the VA. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
-Today, I’d like to ask you some questions about managing your VA claims for travel reimbursement for medical care.
-Before we start, I have a few things that I want to go over with you:
+Thanks for joining us today! My name is Cara and I'm a Researcher with the VA. Today, I’d like to ask you some questions about submitting and managing your VA claims for travel reimbursement for medical care.  Before we start, I have a few things that I want to go over with you:
+
 - This entire session should take about 45 - 60 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. We may also end sooner than that, and if we have covered everything I want to cover, I'd love to give your time back to you.
 - Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-- During the session, I'll ask you to login to VA.gov and test some features using your own account. I'll be asking you to share your screen, which means we'll be seeing parts of your account, and potentially other health information. We will not use your personal health information for the study and will redact it from any notes we take. 
+- During the session, I'll ask you to login to VA.gov and test some features using your own account. I'll be asking you to share your screen, which means we'll be seeing parts of your account, and potentially other health information. We will not use your personal health information for the study and will redact it from any notes we take. Are you ok with sharing your screen?
+- I know they asked you this when you signed up, but want to confirm - you have have not submitted for travel reimbursement for your most recent medical visit to a VA facility? What date was it?
+- And is this (check list) the email that you use to login to VA.gov?  If not, what email do you use? 
 - In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
     * Knowing that, are you comfortable if I record my screen and audio as we talk today?

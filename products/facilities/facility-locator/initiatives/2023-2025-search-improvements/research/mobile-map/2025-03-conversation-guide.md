@@ -181,7 +181,7 @@ Please look over this page and tell me about it. I'm interested in your impressi
 
 Please try to talk aloud about what you're thinking and what you want to do BEFORE selecting anything.
 
-Let's imagine that you just moved to Del Mar, California. Your new ZIP code is 92014. Show me how you would find VA facilities in your area.
+Let's imagine that you just moved to Del Mar, California. Your new ZIP code is 92014. Show me how you would find VA facilities in your area providing all VA health services.
 
 - *Step 1: Enter ZIP code 92014*
 - *Step 2: Search for all VA Health facilities providing all VA health services*
@@ -197,7 +197,7 @@ Can you show me how you might look at these results on a map of the area?
 - *Does the participant easily navigate to the map view?*
  
 ## Second Task: Evaluate a facility
-Let's say that you're interested in visiting the Escondido VA Clinic, which is #6 in the search results. How would you find more information about this facility?
+Let's say that you've heard good things about the Escondido VA Clinic, which is #6 in the search results. How would you find more information about this facility?
 
 *Step 1: From map view, select result 6 - Escondido VA Clinic*
 
@@ -245,11 +245,10 @@ Feel free to manipulate the map to select this location.
 - *To what degree are the multiple overlapping locations a barrier to success for the participant?*
 
 ## Fifth Task: Evaluating community providers
-Let's say that person you're helping needs to go to an in-network urgent care facility. Can you show me how you'd find the closest facility for them??
+Let's say that person you're helping needs to go to an in-network community pharmacy. Can you show me how you'd find the closest pharmacy for them?
 
 - *Step 1: Search in 19093*
-- *Step 2: For Urgent care*
-- *Step 3: For All in-network urgent care*
+- *Step 2: For Community pharmacies (in VA's network)*
 
 ***Things to watch for:***
 - *Does the participant use the map view or the list view to select this location?*

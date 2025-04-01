@@ -1,7 +1,7 @@
 ---
 name: Platform Onboarding Checklist
 about: Onboarding checklist for members of the Platform team
-title: Onboarding checklist for <topic>
+title: Onboarding checklist for <name>
 labels:
 assignees:
 ---
@@ -36,10 +36,10 @@ RA - Remote Access_
 - [ ] Ensure you're in Github Teams
   - [vets-gov-write](https://github.com/orgs/department-of-veterans-affairs/teams/vets-gov-write) - Grants access to these repos | [vets-website](https://github.com/department-of-veterans-affairs/vets-website), [content-build](https://github.com/department-of-veterans-affairs/content-build/), [devops](https://github.com/department-of-veterans-affairs/devops), [vets-api](https://github.com/department-of-veterans-affairs/vets-api)
   - [vsp-operations](https://github.com/orgs/department-of-veterans-affairs/teams/vsp-operations) _DevOps Only_
-  - Check with your PM for any specific GH teams you may need to be added to
+  - Check with your PM, Team Lead, and CoP lead for any specific GH teams you may need to be added to
 - [ ] DSVA Slack Workspace
-  - [ ] #platform-cop-(frontend? devops?)
-  - [ ] #platform-team
+  - [ ] #platform-cop-(frontend/devops/backend)
+  - [ ] #platform-team (private)
   - [ ] #vfs-all-teams
   - [ ] #vfs-platform-support
   - [ ] #platform-tech-team-support
@@ -64,16 +64,15 @@ RA - Remote Access_
 
 - [ ] GitHub
   - [ ] Join the ['department-of-veterans-affairs' organization](https://github.com/department-of-veterans-affairs)
-  - [ ] Get access to the [devops repo](https://github.com/department-of-veterans-affairs/devops)
-- [ ] [SOCKS](https://depo-platform-documentation.scrollhelp.site/getting-started/Internal-tools-access-via-SOCKS-proxy.1821081710.html) - _for remote access to the following apps:_
+  - [ ] Make sure you have access to the [devops repo](https://github.com/department-of-veterans-affairs/devops)
+- [ ] [SOCKS](https://depo-platform-documentation.scrollhelp.site/getting-started/accessing-internal-tools-via-socks-proxy) - _for remote access to the following apps:_
   - [ ] [Jenkins](http://jenkins.vfs.va.gov/)
   - [ ] [Sentry](http://sentry.vfs.va.gov/)
   - [ ] [Argo CD](http://argocd.vfs.va.gov/)
-  - [ ] [Prometheus](http://prometheus-prod.vfs.va.gov:9090/prometheus/graph?g0.range_input=1h&g0.expr=&g0.tab=0) - _not used directly but can be useful to understand legacy metrics gathering_
 - [ ] [Pagerduty](https://dsva.pagerduty.com/) - _ask a team member for access_
 - [ ] [Keybase](https://keybase.io/)
-- [ ] [Datadog](https://vfs.atlassian.net/wiki/spaces/OT/pages/2233598117/Get+access+to+Datadog) - _ask your PM or TL to submit a request on your behalf_
-- [ ] [AWS access request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=Access+for+%5Bindividual%5D) - _can be submitted early, but won't be approved until EQIP submission is verified_
+- [ ] [Datadog](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog) - _You may need to ask your PM or TL to submit a request on your behalf_
+- [ ] [AWS access request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=Access+for+%5Bindividual%5D) - _Wait until your EQIP submission is verified_
 
 _Once your PIV card has been obtained:_
 

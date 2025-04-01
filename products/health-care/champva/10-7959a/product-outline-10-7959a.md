@@ -84,13 +84,44 @@ Other considerations:
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
+Incident Response info
+
+[Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=sliding&from_ts=1739300121041&to_ts=1741892121041&live=true)
+[Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/ivc-forms-monitoring-playbook.md)
+
+Rollback & Fix plan (1-3 days to triage and implement fix)
+
+In the event of a security vulnerability incident, we will:
+Immediately - Turn off feature using feature toggle
+Immediately - Triage incident
+Day 1 - Assess viable solutions
+Day 1-3 - Implement solution
+Day 1-3 - Complete solution testing
+Day 1 - Implement additional monitoring, if applicable
+Day 1-3 - Turn on feature using feature toggle (starting with a small percentage)
+Day 1-30 - Continue to monitor performance
+Day 1-10 - Proceed with Release Plan
+
+Points of Contact:
+
+ - DEPO Lead: Premal Shah
+ - PM: Mike Mooney
+ - DM: Andrea Merrill
+ - OCTO Engineering Lead: Adrian Rollet
+ - Engineering: Michael Clement, Kyle Brost, Rachel Eiting, Steve Long
+
+Downstream Dependencies
+- Pega/DOCMP
+  - Contact: Denise (Cindy) Carr
+
 ## Launch Dates
 - *Target Launch Date*
-  - tbd (dependent on PEGA integration timing)
+  - 4/2/2025
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - tbd
+    
 
 ---
 
@@ -101,6 +132,10 @@ Other considerations:
 Key Deliverables:
 - [design](https://www.figma.com/file/Tfhq5h2LwXEeEEtFBAAFOv/10-7959a?type=design&node-id=13-80&mode=design&t=YuafvBbuKozoXYFY-0)
 - research
+  - [Stakeholder Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/stakeholders/2024-06-stakeholder-research-plan-and-conversasion-guide.md)
+  - [Stakeholder Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/stakeholders/2024-06-CHAMPVA-Claims-(10-7959a)-Stakeholder-Research-Findings.md)
+  - [User Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/user-research/2024-08-Research-Plan-for-Integrated-Veteran-Care-(IVC)-Team%2C-Form-10-7959a%2C-August-1st.md)
+  - [User Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/stakeholders/2024-06-CHAMPVA-Claims-(10-7959a)-Stakeholder-Research-Findings.md)
 - testing plan
 
 ### Key Decisions
@@ -110,7 +145,8 @@ Key Deliverables:
 ## Screenshots
 
 ### Before
-[PDF](https://www.va.gov/vaforms/medical/pdf/vha-10-7959a-fill.pdf)
+- [Downloadable PDF](https://www.va.gov/find-forms/about-form-10-7959a/)
+- [Image](products/health-care/champva/10-7959a/temp_champva_claim.png)
 
 ### After
 
@@ -123,7 +159,7 @@ Key Deliverables:
 - Team Name: IVC Forms team
 - GitHub Label: ivc-forms
 - Slack channel: ivc-forms
-- Product POCs: Mary Wang
+- Product POCs: Mike Mooney
 - Stakeholders: Erick Maes
 
 </details>
@@ -133,9 +169,9 @@ Key Deliverables:
 <details>
  
  - DEPO Lead: Premal Shah
- - PM: Mary Wang
- - Engineering: Michael Clement
- - Research/Design: Rachael Penfil, Steven Straily, Brian Wilke
+ - PM: Mike Mooney
+ - Engineering: Michael Clement, Kyle Brost, Rachel Eiting, Steve Long
+ - Research/Design: Rachel Pope, Jamie Fiore
  
 </details>
 

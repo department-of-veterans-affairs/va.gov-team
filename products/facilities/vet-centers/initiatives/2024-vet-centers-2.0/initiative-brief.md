@@ -82,7 +82,9 @@ _Are other features dependent on this one? What do we need from partners? What d
 _Links to requirements documentation, wireframes/mock-ups, research, etc._
 
 - High level [Vet Center Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md)
-- Epic for this work: [Initiative - Vet Center design 2.0 #17661](https://app.zenhub.com/workspaces/sitewide-facilities-639f5253e4b702a32376339e/issues/gh/department-of-veterans-affairs/va.gov-cms/17661) (Github)
+- Main Epic for this work: [[EPIC] Improve discoverability of Vet Center Outstations #17693](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17693)
+- [Content Mode Spec](https://github.com/user-attachments/files/18893599/Vet.Center.-.Outstation.content.spec.xlsx)
+- [Design (No Phased rollout)](https://www.figma.com/design/EVd3q06ukAbVS61Q8MwRAT/Vet-Centers)
 - [Vet Center Analytics folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/analytics)
 
 

@@ -33,27 +33,6 @@ _Which Objective / Key Result does this epic push forward?_
 ## Acceptance Criteria/Definition of Done
 -  _What will be created or happen as a result of this story?_
 
-
----
-
-```[tasklist]
-### Tasks
-- [ ] Research
-- [ ] Design
-- [ ] Team review & signoff
-- [ ] UI update
-- [ ] Team review & signoff
-- [ ] BE update
-- [ ] QA
-- [ ] Team review & signoff
-- [ ] End to end testing
-- [ ] Release Plan
-- [ ] Cypress test suite
-- [ ] Team review & signoff
-- [ ] Launch to Prod
-- [ ] Update Source of Truth
-```
-
 ---
 ## How to configure this issue
 - [ ] **Labeled with Team** (`1010-team`)

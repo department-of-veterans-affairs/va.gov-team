@@ -8,7 +8,7 @@
 **IA Tracker:** 
 
 **On this page:**
-- [Navigation flows](#flows)
+- [Navigation/page flows](#flows)
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
@@ -17,7 +17,7 @@
 - [Launch coordination activities](#launch)
 
 
-## <a name="flows"></a>Navigation flows <br>
+## <a name="flows"></a>Navigation/page flows <br>
 *Illustration and/or description of how users will navigate to and flow through the experience for all impacted visitors typies. This helps identify key entry points and findability requirements, user flow scenarios, and content/messaging needs across various scenarios.*
 
 

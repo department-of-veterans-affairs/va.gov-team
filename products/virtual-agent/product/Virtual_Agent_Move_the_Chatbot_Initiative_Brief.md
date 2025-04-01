@@ -76,7 +76,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
-  - As a first thin slice, we are placing a floating chatbot on the [About VA health benefits](https://www.va.gov/health-care/about-va-health-benefits/) page and its sub-pages. This will enable us to support the veterans who come to this FAQ page and provide quick answers with the Chatbot.
+  - As a first thin slice, we propose placing the floating chatbot on the [About VA health benefits](https://www.va.gov/health-care/about-va-health-benefits/) page and its sub-pages. This will enable us to support the Veterans who come to this FAQ page and provide quick answers with the Chatbot. **NOTE: While we suggest this as initial placement, actual location(s) will be determined in collaboration with the VA.gov Platform team.**
   - The Chatbot to be always sticking on the lower right corner. The Veterans can minimize the Chatbot as needed. The history of the conversation with the Chatbot will be available to be refered only for the current session.
   - The Chatbot will load with the page-loads and wil remain an inactive state until the Veteran activates it by clicking on it.
   - We will support this on desktop, mobile & tablets.

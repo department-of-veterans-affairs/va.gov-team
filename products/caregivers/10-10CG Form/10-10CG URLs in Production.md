@@ -1,11 +1,11 @@
 # 10-10CG URLs in Production
-- Last Updated: 10/15/2024 hdjustice
+- Last Updated: 03/19/2025 hdjustice
 
 ### Notes: 
 - Old Root-URL path (pre-June 26, 2024) - `va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/`
 - New Root-URL path (As of June 26, 2024) - `va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/`
 
-NEW URLs for Facility pages (Release January 2025)
+NEW URLs for Facility pages (Release February 2025)
 - /family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/veteran-information/va-medical-center/locator
 - /family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/veteran-information/va-medical-center/confirm
 
@@ -17,7 +17,8 @@ NEW URLs for Facility pages (Release January 2025)
 |https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/veteran-informaton/identity-information/|
 |https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/veteran-information/home-address/ |
 |https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/veteran-information/contact-information/ |
-|https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/veteran-information/va-medical-center/ |
+|https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/veteran-information/va-medical-center/locator |
+|https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/veteran-information/va-medical-center/confirm |
 |https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/primary-caregiver/apply-for-benefits/ |
 |https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/primary-caregiver/personal-information/ |
 |https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/primary-caregiver/identity-information/ |

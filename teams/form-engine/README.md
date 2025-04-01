@@ -18,6 +18,9 @@ The VA Digital Form Builder actively contributes toward the following 2025 OCTO 
 - **Supports VA Digitization Modernation** – By leveraging existing VA data and ensuring accessibility compliance, the Form Builder aligns with VA’s goal of improving efficiency and user experience across services.
    -  We have been able to utilize the VA Forms Library components allowing us to maintain accessibility and compliance standards while reducing redundant development efforts.
 
+- **Reduces Total Costs to Digitize a Form** - Dramatically reduces the total cost of digitizing forms by automating tasks and eliminating the need for custom development. 
+  -  While traditional methods can take 12 weeks and cost nearly $100K, our USWDS-based solution delivers a fully functional digital form in just 2 weeks for less than half the cost.   
+
 - **Increase Processing Efficiency and Reduce Manual Work** – **Automate** repetitive tasks to decrease administrative burden on VA Staff. VA staff will no longer need to repeatedly enter the same information. This tool will pre-fill known data, reducing errors and saving time.
   
 - **Empowers VA Staff** – Non-technical users can create, update, and manage forms without relying on developers, allowing faster response times to veterans’ needs. Reduces reliance on IT teams, allowing faster form updates and service immprovements.
@@ -56,3 +59,6 @@ Please reach out to us at our DSVA Slack channel: `#tmf-form-builder`
 - Derek Houck, Engineer, Agile 6, derek.houck@agile6.com
 - Brian Wilke, UX/Design, copilot, brian.wilke@copilot.llc
 - Nicole Rodriguez, UX/Design, Ad Hoc, nicole.rodriguez@adhocteam.us
+
+[Link to Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90869)
+

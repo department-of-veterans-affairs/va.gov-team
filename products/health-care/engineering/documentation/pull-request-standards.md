@@ -16,4 +16,5 @@ Great reading: <https://google.github.io/eng-practices/review/reviewer/standard.
   - **Be Blameless** Assume the best in everyone and be nice.
   - **Suggestion: Use Semantics** Communication can be hard, try using semantic review comments to help add context
     - source: <https://www.m31coding.com/blog/semantic-reviews.html>
+  - **Callout the good** If there something that looks cool and awesome, call that out! 
 - **Consider what is really blocking** Code bases are important to keep clean and perfect, but delivery, requirements and development is messy. Be picky about blocking changes, and create tickets for thing to be addressed later.

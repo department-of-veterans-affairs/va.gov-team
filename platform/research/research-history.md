@@ -1658,13 +1658,13 @@ Majority synthesis done post-its
 - Research staff: Mary Ann & Laura
 - Participants: 5
 - Location: remote
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/archive/discovery/2016)
 
 #### July 8 - Rx Refills Research II
 *Research staff: Gina, Mary Ann, Laura*
 - Participants: 5
 - Location: Remote
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/research/2016)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/vets-prescriptions/research/vets.gov-prototype)
 
 ### June 2016
 
@@ -1681,13 +1681,14 @@ Majority synthesis done post-its
 *Research staff: Gina*
 - Participants: 2
 - Location: Remote
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/research/2016)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/vets-prescriptions/research/vets.gov-prototype)
 
 
 #### May 25 - HCA Usability testing
 *Research staff: Courtney and Gina*
 - Participants: 6 to 12
 - Location: Remote?
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/vets-application/research)
 
 #### May 12 and 13 - Vets.gov page template usability testing
 *Research staff: Mary Ann + (Gina?)*

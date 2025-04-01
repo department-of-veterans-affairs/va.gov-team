@@ -49,6 +49,9 @@ Data available today:
 - Between 2021-12-17 and 2025-02-19, 12,016 veterans entered 1,045,375 observations into PGHD (Shared vitals) - Data came from Dr. Terry Newton
 - 4000 users of SMHD app as of 2/18 - Data came from Iron Bow program team Balbi Todd
 
+SMHD Analytics Links: 
+- https://app.powerbigov.us/groups/me/reports/ed822b31-b659-40ae-b849-272014a76ea4/ReportSectiona08aa2c96a16e609067a
+- https://staff.apps.va.gov/pulse-analytics/login?preLoginUrl=Lw
 ---
 
 ## Discovery
@@ -130,17 +133,22 @@ No experience today, but current experience on MHV National Portal with Shared V
 
 
 ### After
+[VAHB Designs](https://www.figma.com/design/5CsD8pjqQJRFTMW9jxjGhW/Health-Chat-%26-SMHD-links)
+[VA.gov Designs](https://www.figma.com/design/SGP1z2LejUWqDZyT61po5J/Medical-Records---Phase-1?node-id=15627-75968&p=f&t=ksQdfU94eSf18MQN-0)
+
+![image](https://github.com/user-attachments/assets/395733f9-3260-46f5-940f-83abd06ba36b)
+![image](https://github.com/user-attachments/assets/9bd76e66-c40e-4260-82b3-ddea2fded7f7)
 
 ---
 
 #### Communications
 - Team Name: MHV Portal 
 - GitHub Label(s): 
-- Slack channel: mhv-health-portal-coordination, mhv-on-vagov-cartography-team
-- Product POCs: Kaitlin Fink, Patrick Bateman, Marci McGuire, Bresha Lipscomb, Robyn Singleton
+- Slack channel: mhv-health-portal-coordination, mhv-on-vagov-cartography-team, mhv-medical-records
+- Product POCs: Kaitlin Fink, Patrick Bateman, Marci McGuire,Robyn Singleton
 
 
 #### Stakeholders
 - Office/Department: Office of Connected Care 
-- Contact(s): Dr. Terry Newton, Dr. Nil Shah, Dr. Meredith Josephs, Theresa Hancock, Kim Bielicki
+- Contact(s): Brian Olinger (PM- newly added to project), Dr. Terry Newton, Dr. Nil Shah, Dr. Meredith Josephs, Theresa Hancock, Kim Bielicki, Bresha Lipscomb
  

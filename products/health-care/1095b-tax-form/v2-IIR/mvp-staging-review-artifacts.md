@@ -50,7 +50,7 @@
 
 
 ### Endpoint Monitoring
-- We are currently in the middle of setting these up. Besides the required monitors we will have additional monitors and alerts for: 1) backend nightly job failures 2) PDF/TXT download failures.
+- Playbook is linked here: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/form-1095b.md
 
 ### Logging Silent Failures
 - Silent Failures are not applicable to this work. A Veteran only signs in and downloads a document.

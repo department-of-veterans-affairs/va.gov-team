@@ -1,5 +1,5 @@
 # Product outline for Ask VA
-Last updated by @beckyphung on March 13, 2025
+Last updated by @beckyphung on March 17, 2025
 This product outline gives an overview of the Ask VA product. Below are our current initiatives:
 
 |Initiatives|Status|Launch date|
@@ -55,10 +55,6 @@ You can currently reach Ask VA at [ask.va.gov](https://ask.va.gov/). By end of M
 |Improved trust in VA|Users trust VA and VA services more after getting answers through Ask VA.|
 |Improved scalability|Ask VA handles more questions without a proportional increase in resources, due to an efficient CRM integration.|
 |Improved flexibility|Ask VA's flexibility in integrating with other systems and APIs allows for more efficient future enhancements and expanded services.|
-
-### Desired submitter outcomes
-### Undesired submitter outcomes
-### Undesired Business Outcomes
 
 ## Measuring success
 Key Performance Indicators (KPIs) help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. We'll track these primary KPIs over time.

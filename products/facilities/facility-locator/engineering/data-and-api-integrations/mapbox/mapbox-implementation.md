@@ -14,7 +14,7 @@ So, we need [two separate keys](https://github.com/department-of-veterans-affair
 The keys are stored in AWS Parameter Store. Accessing and editing values in the AWS Parameter Store is not a matter that is specific to the Facilities products. Rather, it is available [throughout the VA ecosystem](https://vfs.atlassian.net/wiki/spaces/pilot/pages/1474595172/Store+a+secret+in+Parameter+Store).
 
 ### Key Retrieval
-##### ❌ Option 1: Load the keys at run time (not implemented)
+##### ❌ Option 1: Load the keys at run time (not implemented -- also not implemented on any other system) 
 Noting this option here because it was discussed in [at least one place](https://vfs.atlassian.net/wiki/spaces/FTT/pages/2139783260/MapboxToken+Conversion+Guide+Proposal+draft) throughout the discovery process. Ultimately, this did not make sense. The option below was much more feasible.
 
 ##### ✔️ Option 2: Load the keys at build time (implemented)
@@ -37,7 +37,7 @@ Notice that this is loading the _dev_ API key (`/dsva-vagov/vets-website/dev/map
           process.env.MAPBOX_TOKEN || '',
         ),
 ```
-3. In the code where we actually want to reference this value, `process.env.MAPBOX_TOKEN` will be string-replaced by Webpack:
+3. In the code where we actually want to reference this value, `process.env.MAPBOX_TOKEN` will be string-replaced by Webpack (in build):
 ```
 export const mapboxToken =
   process.env.MAPBOX_TOKEN ||
@@ -62,12 +62,13 @@ place_type | Mapbox definition
 `region`| "Top-level sub-national administrative features, such as **states in the United States** or provinces in Canada or China."
 `postcode`| "Postal codes used in country-specific national addressing systems."
 `locality` | "Official sub-city features present in countries where such an additional administrative layer is used in postal addressing, or where such features are commonly referred to in local parlance. Examples include city districts in Brazil and Chile and arrondissements in France."  (Notably does not include LA parishes.)
-`country` | "Generally recognized **countries** or, in some cases like Hong Kong, an area of quasi-national administrative status that has a designated country code under ISO 3166-1."
+`country` | "Generally recognized **countries** or, in some cases like Hong Kong, an area of quasi-national administrative status that has a designated country code under ISO 3166-1." Some territories are considered countries like Guam and Puerto Rico. We support the return of these locations and a few others where the VA has facilities (e.g. Philippines)
 
 
 ### Previous discovery / notes
 - [March 2022: Mapbox Predictive Search Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/discovery/predictive-geolocation-discovery.md)
 - [Questions & Answers about Mapbox (as of February 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/products/facilities/facility-locator/engineering/archive/mapbox-info.md)
+- Recently (3/2025) we added an alternative the the predictive search with an autosuggest field in the map view of the Facility Locator. Though this enables the Mapbox predictive search capacity in a text input, it is constructed differently than the predictive search method that was initially researched. The predictive search method requried that the field go through entire redux state and resolve before returning results. Unfortunately it was unresponsive and not functional to indicate feedback to the users. The alternative Autosuggest field also laid the framework for the Services Autosuggest. 
 
 ## Temporary Geocoding usage/cost (Q1 2025)
 Historically, the Facility Locator uses the Temporary Geocoding API for address lookup but we have not historically used the autosuggest feature. 

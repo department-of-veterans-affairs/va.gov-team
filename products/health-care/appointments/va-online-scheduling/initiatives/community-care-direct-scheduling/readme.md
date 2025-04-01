@@ -2,6 +2,7 @@
 
 - [Artifacts](#artifacts)
     - [Requirements Artifacts](#requirements-artifacts)
+    - [Workflow Artifacts](#workflow-artifacts)
     - [Product Artifacts](#product-artifacts)
     - [Design Artifcats](#design-artifcats)
     - [Engineering Artifacts](#engineering-artifacts)
@@ -28,6 +29,10 @@ This initiative allows Veterans to directly schedule a community care appointmen
 - [EPS-VAOS Integration Vision Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/files/14924023/VAOS.Discovery.Review.with.VAOS.03122024.Edited.1.1.pptx)
 - [CC DVSS Process Flow](https://dvagov-my.sharepoint.com/:u:/g/personal/robert_meehan3_va_gov/EZ8ifg_TwetKmevHKDieolABMkHlo2Ovtt4NOrxB5Fb10Q?e=v4nRRy)
 - [Original EPS-VAOS Schedule Overview](https://dvagov.sharepoint.com/:p:/s/HealthApartment/EaymMOj8IRVLgeceh1kS-OQB1K4Cnr39NJHeSSVmOrZ14g?e=zHH3UW)
+
+#### Workflow Artifacts
+- [Veteran Digital Self-Scheduling Process for staff and VEText (VDSS Process 031725.zip)](https://github.com/user-attachments/files/19322031/VDSS.Process.031725.zip)
+- [Referral Coordination Process for staff (FINAL-RCI-Detailed-Process-Flow--June-11-2024-.pdf)](https://github.com/user-attachments/files/19322023/FINAL-RCI-Detailed-Process-Flow--June-11-2024-.pdf)
 
 #### Product Artifacts
 - [Initiative SharePoint Site](https://dvagov.sharepoint.com/:f:/s/HealthApartment/EsTqWKP_0G1PuMla1iiyr9kBfiuSpcQxUodT9n1WLqIj7g?e=p9TaHh)

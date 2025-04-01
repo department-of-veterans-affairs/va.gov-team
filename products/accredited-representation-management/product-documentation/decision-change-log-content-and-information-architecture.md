@@ -50,3 +50,5 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _Managed by the 10-10 team ([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90206))._
 - **10/22/2024**: Updated the entry point on [VA Form 10-10EZR](https://staging.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction) to point to our landing page (originally pointing to the legacy page [va.gov/vso](https://va.gov/vso/)).\
   _Confirmed by the 10-10 team ([Slack message](https://dsva.slack.com/archives/CMJ2V70UV/p1729556961782609?thread_ts=1723062021.733149&cid=CMJ2V70UV))._
+- **3/13/2025**: Guidance from VA Enablement that we don't need a content expert for small things, like the decline message in the Veteran-facing alert + email notification. We can do the initial leg work, and simply use Jen S for final review.\
+  _Confirmed by Enablement member Lesley Ropp ([Slack message](https://dsva.slack.com/archives/C07QNERTKPB/p1741889213038179))._

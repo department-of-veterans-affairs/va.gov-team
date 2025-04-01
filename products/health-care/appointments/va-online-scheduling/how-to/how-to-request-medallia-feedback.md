@@ -28,8 +28,8 @@ Medallia Feedback Requests - Q1 2025
 
 | Week  | From       | To         | Submitted By | Ticket Link  | 
 |-------|------------|------------|--------------|--------------|
-|   1   | 12-29-2024 | 1-4-2025   | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/100000             |
-|   2   | 1-5-2025   | 1-11-2025  | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/100918             |
+|   1   | 12-29-2024 | 1-4-2025   | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/100000 |
+|   2   | 1-5-2025   | 1-11-2025  | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/100918 |
 |   3   | 1-12-2025  | 1-18-2025  | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/101470 |
 |   4   | 01-19-2025 | 01-25-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/101828 |
 |   5   | 01-26-2025 | 02-01-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/102347 |
@@ -39,7 +39,10 @@ Medallia Feedback Requests - Q1 2025
 |   9   | 02-23-2025 | 03-01-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/103666 |
 |   10  | 03-02-2025 | 03-08-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/104210 |
 |   11  | 03-09-2025 | 03-15-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/104212 |
-|   12  | 03-16-2025 | 03-22-2025 | Peter Russo  |  |
+|   12  | 03-16-2025 | 03-22-2025 | Peter Russo  | https://github.com/department-of-veterans-affairs/va.gov-team/issues/105787 |
+|   13  | 03-23-2025 | 03-29-2025 | Jenny Wang   | https://github.com/department-of-veterans-affairs/va.gov-team/issues/105788 |  
+|   14  | 03-30-2025 | 04-05-2025 |              | https://github.com/department-of-veterans-affairs/va.gov-team/issues/105789 |  
+
 
 **Product Name(s)**
 
@@ -141,7 +144,9 @@ Add the `quote` code to any piece of feedback that you want to share with the te
 
 - Filter each sheet by the date range you're analyzing
 - Add a second filter on the codes column for any cell that contains `quote`.
-- Copy the quotes into the [running analysis sheet](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis%20-%20Select%20Quotes.docx?d=w2738630d47d64de68e05cef933b39cea&csf=1&web=1&e=mHnZM7) (2025 example)
+- Copy the quotes into the [Select Quotes sheet](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis%20-%20Select%20Quotes.docx?d=w2738630d47d64de68e05cef933b39cea&csf=1&web=1&e=mHnZM7) (2025 example)
+- Share links to both the updated spreadsheet and Select Quotes document in the `#appointments-fe-meetup channel`. Note the dates of the updated date, and ping Kay, Kristen, and Robyn Singleton. 
+- Add the links to the Medallia ticket and close it.
 
 ### Monthly IVC reports 
 
