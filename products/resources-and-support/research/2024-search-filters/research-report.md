@@ -210,8 +210,8 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 > (Looking at Debt Management) “The word ‘management’ is throwing me off” - P11
 
 - 6 participants had expectations for filters that did not exist
-- P1 hoped for "reimbursement" to be a more obvious option, possibly as a standalone filter or within a travel-related category, when looking for travel compensation
-- P3 expressed a desire to filter information more specifically by benefit type, such as wanting to see information specifically related to Chapter 35 under education benefits or distinguishing Champ VA information more clearly within healthcare resources.
+  - P1 hoped for "reimbursement" to be a more obvious option, possibly as a standalone filter or within a travel-related category, when looking for travel compensation
+  - P3 expressed a desire to filter information more specifically by benefit type, such as wanting to see information specifically related to Chapter 35 under education benefits or distinguishing Champ VA information more clearly within healthcare resources.
 
 ## Additional Insights
 
