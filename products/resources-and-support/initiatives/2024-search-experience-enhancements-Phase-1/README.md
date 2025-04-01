@@ -114,6 +114,7 @@ Efforts to inform this iteration with Veteran feedback
 - [Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/analytics/Analytics%20-%20Resources%20%26%20Support.md)
 - [Article list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/resources-and-support-article-list.md)
 - [A guide to Resources and support content types](https://prod.cms.va.gov/help/resources-and-support/a-guide-to-resources-and-support-content-types) - requires network connection
+- [R&S Search and Filtering - Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/research/2024-search-filters/research-report.md)
 
 --- 
 
