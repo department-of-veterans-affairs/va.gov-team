@@ -111,8 +111,9 @@ Use case 1 is directly within scope of this work, to informs both placement on V
 Previous researh has outlined the [mental models of Veterans related to military information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md). This research can inform how we move forward with designing content and context that might set up Veterans for more success when accessing their ILER.
 
 ILER was built primarily for environmental researchers and clinicians, making it very difficult for the layman to fully comprehend.
-• The level of detail in ILER is not, in its entirety, relevant to Veterans and yields a very long record.
-• The current level of detail in ILER creates a communication risk and potential for fear mongering; Veterans will struggle to be able to
+
+- The level of detail in ILER is not, in its entirety, relevant to Veterans and yields a very long record.
+- The current level of detail in ILER creates a communication risk and potential for fear mongering; Veterans will struggle to be able to
 identify the salient information.
 
 What does this tell us?
