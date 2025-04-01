@@ -149,17 +149,17 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
    - Some participants noted that they had seen the Show Filters button but chose not to open it
    - These participants expressed appreciation for the filters feature once they did open it
 
-> "I noticed it and completely ignored it, cause I felt like I didn't need it". - P12
+> P12: "I noticed it and completely ignored it, cause I felt like I didn't need it". 
 
-> “Clearly the filters are great because it helps to be more specific… I think these are good choices (options).” - P12 
+> P12: “Clearly the filters are great because it helps to be more specific. I think these are good choices (options).” 
 
-> “It didn’t seem necessary.” - P10
+> P10: “It didn’t seem necessary.”
 
-> “I like that right away, they have you filter for different populations.. below that, the benefits… this is an excellent idea!” - P10 
+> P10: “I like that right away, they have you filter for different populations. Below that, the benefits, this is an excellent idea!”
 
-> “Filters can be confusing for me, so I tend to stay away from them.” - P13 
+> P13: “Filters can be confusing for me, so I tend to stay away from them.”  
 
-> “Oh, that is good! It narrows the field down dramatically. I think it points you in the right direction unequivocally.” - P13
+> P13: “Oh, that is good! It narrows the field down dramatically. I think it points you in the right direction unequivocally.” 
 
 -  1 participant was not able to succesfully interact with the filter modal
 
@@ -177,7 +177,7 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 
 > "I can filter by what applies to me. Like, am I a veteran? I'm an active service member? What benefit I'm looking for. That kind of thing" - P14
 
->  I would expect to be able to, you know, click on any of these and use it to narrow down the information that I'm searching. Just depending on the scenario.” - P7
+> "I would expect to be able to, you know, click on any of these and use it to narrow down the information that I'm searching. Just depending on the scenario.” - P7
 
 ### Finding 4  - A majority of participants expressed frustration or confusion related to tags
 - 7 of 12 participants expressed frustration or confusion related to tags
