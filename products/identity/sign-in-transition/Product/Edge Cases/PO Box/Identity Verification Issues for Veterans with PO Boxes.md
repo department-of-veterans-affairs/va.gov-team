@@ -1,6 +1,7 @@
 # Identity Verification Issues for Veterans with PO Boxes 
 **Edge case:** 1\_3  
-**Completed:** 25 March 2025  
+**Created:** 25 March 2025  
+**Last Updated:** 1 April 2025\
 **Contributors:** Matthew Declercq  
 
 ## Situation
@@ -40,5 +41,23 @@ To address these challenges and improve the identity verification process for Ve
 
 5. **Policy Advocacy**
    - For states that restrict AAMVA data sharing, explore policy discussions or agreements to enable Veterans to use their state IDs for verification, reducing reliance on alternative documents.
+
+## Investigation Updates
+**Date:** 1 April 2025  
+**Contributors:** Matthew Declercq\
+**Source:** Trevor Sinclair, GSA’s Partner Success Manager for the VA
+
+### Summary of Investigation
+
+While PO Boxes are not directly linked to a specific known issue, the lack of participation in the American Association of Motor Vehicle Administrators (AAMVA) database by Alaska, Wisconsin, Delaware, and Nevada affects Veterans using state-issued IDs (not driver’s licenses) in these states. This restriction prevents successful verification through Login.gov’s identity verification flow, which notifies users that their state ID cannot be verified. 
+
+Although this limitation is unrelated to PO Box addresses, Veterans with driver’s licenses listing a PO Box may still face verification issues due to mismatches with authoritative databases requiring a physical address. No resolution timeline has been provided, and it remains unclear whether these states or Login.gov are actively addressing the state ID issue. As a result, Veterans in these scenarios are left without a clear workaround, highlighting the need for better guidance and alternative options.
+
+### Suggestions to Help Veterans
+
+- **Provide Clear Guidance on ID Options:** Inform Veterans that state-issued IDs from Alaska, Wisconsin, Delaware, and Nevada are not accepted by Login.gov. Encourage affected users to use ID.me if their only form of identification is a state-issued ID. Consider adding this information to [account creation support resources](https://www.va.gov/resources/creating-an-account-for-vagov/#:~:text=2025%2C%20keep%20reading.-,Choosing,-your%20account). 
+
+- **Enhance Support Communication:** Distribute FAQs or host webinars to explain verification limitations for affected states and PO Box users, ensuring Veterans know their next steps after a failed verification attempt.
+
 
 
