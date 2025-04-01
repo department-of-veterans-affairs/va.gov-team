@@ -2,7 +2,7 @@
 # Unauthenticated page experience ratings: March 2025
 ## Related overall scores
 - **Total customer satisfaction score:** 56.7% (0% change from last period)
-- **Average resources and support good/bad experience score:** XX% "good" experience rating overall XXXX out of XXXXX total)
+- **Average resources and support good/bad experience score:** 56% "good" experience rating overall 11,031 out of 18,938 total)
 
 ## Experience ratings (1 to 5 scale)
 
@@ -25,12 +25,15 @@ All pages have ratings of 2 or below.
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
-  - XX% (XX of XXX) R&S pages have a 75% or higher "good" score
-  - XX% (XX of XXX) R&S pages have a 51% - 74% "good" score
-  - XX% (XX of XXX) R&S pages have a 50% or lower "good" score
+  - 47% (68 of 146) R&S pages have a 75% or higher "good" score
+  - 21% (31 of 146) R&S pages have a 51% - 74% "good" score
+  - 32% (47 of 146) R&S pages have a 50% or lower "good" score
     
 - **Breakdown of resources and support scores by 10s:*
+  
+<img width="361" alt="image" src="https://github.com/user-attachments/assets/9ce152b5-7d61-4eeb-a024-0ffd967230f9" />
 
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/aac84362-5d1a-48d8-8ec3-fead2afa78f1" />
 
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
@@ -69,7 +72,7 @@ All pages have ratings of 2 or below.
 ## Analysis
 [Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20ratings%20tracking%20March%202025.xlsx?d=wd6adb470e1a14913965a924b49865c0e&csf=1&web=1&e=b3U7q2)
 - - Performance isn't as high when broken down to individual pages:
-  - XX% of pages are scoring at 90% or higher "good"
-  - XX% of pages are meeting our goal of 75% or higher "good," while XX% of pages are scoring 70% or higher
-  - XX% of pages are scoring at less than 50% "good," with X% scoring at less than 10% "good" 
+  - 33% of pages are scoring at 90% or higher "good"
+  - 47% of pages are meeting our goal of 75% or higher "good," while 53% of pages are scoring 70% or higher
+  - 29% of pages are scoring at less than 50% "good," with 7% scoring at less than 10% "good" 
   
