@@ -1,4 +1,4 @@
-# VAMC Contact Us Initiative Brief Template
+# VAMC Contact Us Initiative Brief 
 #### Overview
 
 The Contact Us page & information on VAMC pages is a pain-point for Veterans and their caregivers/family. Editors also encounter issues in the lack of reusable content and organization of the form(s) where they enter Contact Us information.
