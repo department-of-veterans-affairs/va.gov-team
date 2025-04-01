@@ -10,8 +10,8 @@ assignees: ''
 Please fill out the necessary details and list the PRs related to the OHD in the sections below.
 
 ## PRs Related to OHD
-- Please provide the list of PRs related to the need for this OHD:
->PR?????
+Please provide the list of PRs related to this OHD:
+- PR link
 
 ## Justification
 - Please explain the reason or need for this OHD request:
@@ -39,13 +39,6 @@ Please fill out the necessary details and list the PRs related to the OHD in the
 
 ## Potential Support Needed
 - [ ] Backend (BE)
- 
 - [ ] Frontend (FE)
-
 - [ ] DevOps
-
 - [ ] Other:
-
-
-
- CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-product-support
