@@ -215,7 +215,7 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 
 ## Additional Insights
 
-**Finding 6 - 6 of 12 participants made comments about limited screen size**
+**Finding 6 - Many participants (6 of 12) made comments about limited screen size**
 > “The phone screen being so limited, I wouldn’t want to scroll down. I might scroll enough to see filters, but I wouldn’t want to scroll past the search terms." - P13
 
 > “When we don’t see something right away, we don’t want to scroll down any further” - P6
@@ -225,7 +225,7 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 - 3 participants mentioned wanting to use the header navigation menu
 - These features were not functional in the prototype
 
-**Finding 7 Participant's previous experiences with searching/browsing for information on VA.gov**
+**Finding 8 - Participant's previous experiences with searching/browsing for information on VA.gov**
 - 2 participants shared negative experiences trying to obtain information from VA.gov
 - Other participants had generally good experiences 
 - 4 participants made comments that the experience has been improving
