@@ -260,6 +260,7 @@ _If there are demographics that were not included in this study or you discovere
 
 ### Tools used for Synthesis
 [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738793109607/9003012168cc00d3673c9babe90d7435ece613cf)
+[Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/research/2024-search-filters/data_synthesis.xlsx)
 
 ### Pages and applications used
 
