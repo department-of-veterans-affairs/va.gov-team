@@ -1,6 +1,7 @@
 # Monthly Mobile Metrics
 
 - [February 2025 (2/1-2/28)](#februrary-2025)
+- [March 2025 (3/1-3/31)](#march-2025)
 
 ## Where to gather the data
  
@@ -19,6 +20,30 @@
 - Monthly Veteran Status Views (Google Analytics, [pages & screens](https://analytics.google.com/analytics/web/?authuser=2&hl=en#/p265787033/reports/explorer?params=_u..pageSize%3D250%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20250201%26_u.date01%3D20250228%26_u..nav%3Dmaui%26_r.explorerCard..startRow%3D0%26_r.explorerCard..filterTerm%3Dveteran&r=all-pages-and-screens&ruid=85114BBE-2F4B-42D6-AF54-5A24E62195CF&collectionId=3022309925))
 - Average App Store Rating ([App store](https://apps.apple.com/us/app/va-health-and-benefits/id1559609596))
 - Average Play Store Rating ([Play store](https://play.google.com/store/apps/details?id=gov.va.mobileapp&hl=en_US))
+
+## March 2025
+
+**Date range for metrics**: March 1, 2025 - March 31, 2025
+
+- **Total downloads since launch**: ~TBD (A) + ~2.07M (iOS) = TBD 
+- **New monthly downloads**: TBD (A) + TBD (iOS) = TBD
+- **Monthly active users**: TBD
+- **Monthly new users**: TBD
+- **Monthly appointment detail views**: TBD
+- **Monthly Rx Refill**: TBD
+- **Monthly Letter Downloads**: TBD
+- **Monthly Secure Messages Sent**: TBD
+- **Monthly Veteran Status Views**: TBD
+
+### Android
+
+- **Android installs**: TBD 
+- **Average Play Store Rating**: TBD
+
+### iOS
+
+- **iOS Installs**: TBD
+- **Average App Store Rating**: TBD
 
 ## Februrary 2025
 
