@@ -68,4 +68,4 @@ assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA,mnorthuis
 - [ ] All entry points are implemented
 - [ ] All crosslink/URL references are updated across the site
 - [ ] All associated tickets are closed
-- [ ] All documentation updates are made (i.e. artifacts are marked final, sitemaps are updated, etc. ( 
+- [ ] All documentation updates are made (i.e. artifacts are marked final, sitemaps are updated, etc.)
