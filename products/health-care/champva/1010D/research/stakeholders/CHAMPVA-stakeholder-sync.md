@@ -1,6 +1,49 @@
 ## CHAMPVA biweekly stakeholder sync
 Every other Tuesday at 10:35am ET
 
+## **04/01/25**
+Attendees: Andrea, Angela C, Jamie, Amanda, Elizabeth, Angela P, Rachel, Jina, Arleen, Premal, Renata, Mike, Erick, Ballard, Arleen, Alexandria
+
+**Agenda**
+
+-   10-10d/OHI merge
+-   Supporting docs
+
+  
+**10-10d/OHI merge**
+
+-   We heard when we worked on the claims form, that each applicant can have only up to two types of private health insurance. Do you know of any instances where people have submitted more than two, and what has happened?
+    -   Applicants can have as many insurances as they want. 3 or 4 plans, or supplementary plans, are accepted. There's no hard and fast rules. Is it common to have more than dual coverage (2 plans)? No. But it does happen
+    -   Re: when we heard this during earlier CHAMPVA claims calls: There's no limit; the most they've seen is 2 health insurances, that's the standard. Only seen 4 health insurances happen once in 18+ years
+-   Medicare card uploads: the back of the red, white and blue Medicare cards contain the same information as the front. Do you really need both?
+    -   Yes, that's standard in the health care industry. We need front and back for all Medicare cards
+-   If applicants have Part C, do you need both the original Medicare card and the part C?
+    -   Yes. This is to reduce confusion when processing applications/claims and reduce accidental denials.
+
+ 
+**Request from CHAMPVA partners around the CHAMPVA application and OHI cert**
+
+-   Just came from an event and a lot of beneficiaries were confused about needing to have Parts A+B in addition to everything else (required to be CHAMPVA eligible for ages 65 and older). But we want to make sure those 64 and under are not confused that this eligibility applies to them.
+-   If you're under 65, you can have Medicare Part A, but it's not required to have it to be eligible.
+    -   AI: Review content on [VA.gov](http://VA.gov) an ensure we're being super clear about this eligibility.
+    -   AI: For ongoing 10-10d/OHI merge L&L discovery, review logic based on birthdate to add Medicare A+B so applicants under 65 are not being asked that question.
+
+
+**Supporting docs**
+
+-   Currently in the CHAMPVA application, there are some supporting docs that are optional that it may speed up processing to include. Should we make them required, or eliminate? (Rating decision, proof of remarriage, birth certificate for a child of the sponsor).
+    -   Rating decision - not needed, remove
+    -   DD-214 - not needed, remove (if still on the form)
+    -   Birth certificate - optional, and keep optional
+        -   Reasons for keeping optional:
+            -   we'll check VBA if they've added that dependent to the VRO. If they haven't they're sent a letter to add that child as a dependent.
+            -   Only needed for blended families (step-child or adopted). If they're already listed in Share as a dependent, there's just no need for that birth cert, only if they're not.
+            -   **After discussion**: CHAMPVA partners are OK to remove the optional verbiage, BUT, if removing optional verbiage becomes a problem, we'll have a discussion to add back in.
+    -   Proof of remarriage - required
+-   AI: make a note of what happens for any document that is required and isn't submitted, to better understand how to separate "nice to haves" vs. "required" supporting documentation. To understand when something that's a nice to have is actually going to stop processing on an application.
+    -   IVC team to send that list over (Angela C requesting to look at the list)
+
+
 ## **03/18/25**
 
 ### **Agenda**
