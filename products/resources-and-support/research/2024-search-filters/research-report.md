@@ -117,35 +117,36 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
     
 ## Key Findings
 
-1. Almost all participants found the information they were looking for via browsing or searching
+1. Almost all participants found the desired information via browsing or searching
 2. Only a few participants opened the filter modal without prompting
-3. 
-4. A majority of  participants (7/12) expressed frustration of confusion related to tags
-5. Half of the participants (6/12) experienced confusion and frustration with the filter chips functionality.
-6. After initially experiencing some confusion, or not interacting with the feature, and with later questions/prompts from the moderator, the majority of participants understood how the filter chips on results/detail pages (w/X) work vs. on the landing page (w/o X).
-7. Almost all of the participants (10/12) understood the filter group label meanings: Audience, Benefit, Topic, and chose a filter that aligned with their needs.
+3. Most participants were able to successfully interact with most aspects of the filters functionality
+4. A majority of participants expressed frustration or confusion related to tags
+5. 
+6. Half of the participants (6/12) experienced confusion and frustration with the filter chips functionality.
+7. After initially experiencing some confusion, or not interacting with the feature, and with later questions/prompts from the moderator, the majority of participants understood how the filter chips on results/detail pages (w/X) work vs. on the landing page (w/o X).
+8. Almost all of the participants (10/12) understood the filter group label meanings: Audience, Benefit, Topic, and chose a filter that aligned with their needs.
 
 ## Details of Findings 
 
-### Finding 1 - Almost all participants found the information they were looking for via browsing or searching
-
+### Finding 1 - Almost all participants found the desired information via browsing or searching
 - 10 of 12 participants were able to accomplish all tasks
 - 2 participants gave up on at least one task
-- 7 participants primarily navigated via browsing (with search as secondary)
-- 4 participants primarily navigated via searching (with browsing as secondary)
-- 1 participant primarily navigated via filtering (with browsing as secondary)
+- 7 participants navigated primarily via browsing (with search as secondary)
+- 4 participants navigated primarily via searching (with browsing as secondary)
+- 1 participant navigated primarily via filtering (with browsing as secondary)
 
 ### Finding 2 - Only a few participants opened the filter modal without prompting
 
-- Only 3 of 12 participants opened the filter modal without prompting by the moderator.
+- Only 3 of 12 participants opened the filter modal without prompting form the moderator
 > “I see show filters. So I might go to that. (Opens the modal) Okay, so curious about filters. So filter by audience: veterans, family members, caregivers, active service members...“ - P1
 
 > “I was curious to see what the filters were for. How I might be able to tailor what I’m looking for.” - P9
 
 > “I like that. It has a show, filters button. I can filter by what applies to me like, am I a veteran? Am I an active service member?” - P14
+
 -  8 of 12 participants were able to access the filer modal with some verbal prompting by the moderator
-   - Some participants noted that they had seen the Show Filters button and chose not to open it
-   - These participants expressed appreciation for the filters feature once they did engage with it
+   - Some participants noted that they had seen the Show Filters button but chose not to open it
+   - These participants expressed appreciation for the filters feature once they did open it
 
 > "I noticed it and completely ignored it, cause I felt like I didn't need it". - P12
 
@@ -161,59 +162,59 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 
 -  1 participant was not able to succesfully interact with the filter modal
 
-### Finding 3  - A majority of participants expressed frustration or confusion related to tags
-- A majority of participants (7/12) expressed frustration or confusion related to tags
+### Finding 3 - The majority of participants were able to successfully interact with most aspects of the filters functionality
+
+- 11 of 12 participants understood the Apply Filters buttons, but the majority did not specifically interact with the Clear All or the X buttons.
+> “I would clear this filter that it's put on the claims and claim status filter so that I could go back to look at the other link.” - P8
+
+- 8 of 12 participants were able to successfully interact with the filter chips and tags
+> “I would guess it is a filter because it says filter right below it. I don't know if they would be clickable.” - P11
+
+> “I don’t have any idea what those filters are. I don’t know why the x is there. Why you would you x it out” - P13
+
+- 6 of 12 participants demonstrated a working understanding the and/or logic of the filter groups, though most did not explicitly state their understanding
+
+> "I can filter by what applies to me. Like, am I a veteran? I'm an active service member? What benefit I'm looking for. That kind of thing" - P14
+
+>  I would expect to be able to, you know, click on any of these and use it to narrow down the information that I'm searching. Just depending on the scenario.” - P7
+
+### Finding 4  - A majority of participants expressed frustration or confusion related to tags
+- 7 of 12 participants expressed frustration or confusion related to tags
 
 - Frustration caused by expectation of tag functionality
-
 > “This is what I feared. it looks like it took me back to that first page. I wanted to go further out, not back” - P12
  
 > “I’m pissed. it just took me back to the same page that I just came from!” - P14
 
 - Confusion caused by the word “tag” 
-
 > “Tags that means nothing to me.” - P1
 
 > There needs to be an explanation of what a tag is, what a filter is.” - P8
 
 - Frustration about amount of space taken by tags
-
 >  “I'm not sure why it it pops up, and you know, clobbers that space. In other words.” - P4
 
 >  “Oh goodness… it’s got more tags!! - P8
 
 - One participant did not scroll below the tag section to see the content below. 
-
 > (Clicks "claims & claim status" tag on the Claims FAQ page) “Now I am confused because I was already on the Claims Status FAQ, so something does not make sense to me” - P8 
 
+### Finding 5 -  Almost all participants understood the filters and filter group labels
+- 10 of 12 participants understood the filter group label meanings: Audience, Benefit, Topic, and chose a filter that aligned with their needs.
+> “So, audience filter by audience, veterans, family members, care givers, active service members. I don’t really understand. I guess the audience would be me. I mean when I think of audience, I think of somebody other than myself. So, I’m not sure where that’s going to go.” - P1
 
-### Finding 6 - After initially experiencing some confusion, or not interacting with the feature, and with later questions/prompts from the moderator, the majority of participants understood how the filter chips on results/detail pages (w/X) work vs. on the landing page (w/o X).
-- 8 participants understood this, with 2 among them not clear on how filters worked
-- “I would guess it is a filter because it says filter right below it. I don't know if they would be clickable...” - P11
-- 4 participants did not understand this, with one among this group not understanding the tags functionality and it’s correlation to filter chips
-- “I don’t have any idea what those filters are...  I don’t know why the x is there. Why you would you x it out” - P13
+> “This is a little confusing to me…. I am a vet, I don’t have any family or caregivers, I am not an active service member, I do have a slight disability from the VA, and I am very much involved in healthcare. I don’t know if those 3 out of 5 things pertain to me” - P13
 
-### Finding 7 -  Almost all of the participants (10/12) understood the filter group label meanings: Audience, Benefit, Topic, and chose a filter that aligned with their needs.
-- “So, audience filter by audience, veterans, family members, care givers, active service members. I don’t really understand. I guess the audience would be me. I mean when I think of audience, I think of somebody other than myself. So, I’m not sure where that’s going to go.” - P1
-- “This is a little confusing to me…. I am a vet, I don’t have any family or caregivers, I am not an active service member, I do have a slight disability from the VA, and I am very much involved in healthcare…I don’t know if those 3 out of 5 things pertain to me” - P13
 - 1 participant found the filter label names confusing
--  “The word ‘management’ is throwing me off” - P11 - stated when looking for info about owing VA money (debt management)
-
-### Finding XX - The majority of the participants (11/12) understood the specifics of the filter modal’s logic between filters across/within filter groups and functionality.
-- 11 participants understood the Apply filters buttons, but the majority did not specifically interact with the Clear all or the X buttons.
-> “I would clear this filter that it's put on the claims and claim status filter so that I could go back to look at the other link.” - P8
-- 6 of 12 participants demonstrate a working understanding the and/or logic of the filters, though most did not explicitly state their understanding
-> "I can filter by what applies to me. Like, am I a veteran? I'm an active service member? What benefit I'm looking for. That kind of thing" - P14 
->  “I would expect to be able to, you know, click on any of these and use it to narrow down the information that I'm searching. Just depending on the scenario.” - P7 
-
+> “The word ‘management’ is throwing me off” - P11 - stated when looking for info about owing VA money (debt management)
 
 ## Additional Insights
 
-1. Scrolling & space taken on screen 
+X. Scrolling & space taken on screen 
     1. 6 participants made comments about the space taken up on the interfaces
         1. “The phone screen being so limited, I wouldn’t want to scroll down.. I might scroll enough to see filters, but I wouldn’t want to scroll past the search terms." - p13
 
-4. What search terms the participant put in the search box
+X. What search terms the participant put in the search box
     1. A common theme of search terms was that the participants had a keyword that was related to their task in mind.
     2. How do search terms overlap with or differ from filter labels?
         1. Based on the search terms that the participants mentioned they would enter, here is what we observed:
@@ -227,14 +228,15 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
         1. 6 participants had expectations for filters that did not exist
             1. P1 hoped for "reimbursement" to be a more obvious option, possibly as a standalone filter or within a travel-related category, when looking for travel compensation
             2. P3 expressed a desire to filter information more specifically by benefit type, such as wanting to see information specifically related to Chapter 35 under education benefits or distinguishing Champ VA information more clearly within healthcare resources.
+             3 participants mentioned reluctance to use search due to fears of getting ‘stuck in loops’ or getting lost.
 
-8. Participant's previous experiences with searching/browsing for information on VA.gov
+X Participant's previous experiences with searching/browsing for information on VA.gov
     1. While 2 participants had very negative experiences obtaining information from VA.gov, the other participants had generally good experiences and clear objectives for getting information from VA.gov. 
     2. 4 participants made comments that the experience has been improving
     3. Participant sentiment towards the test site search functionality is mixed. While some participants mentioned an appreciation for recent improvements on VA.gov, others remain frustrated and find the search function difficult to use. This may have influenced some statements and views on the search function in the prototype. 
     4. Search is preferred over browsing for participants with specific information needs, those in a rush, or those unsure where to find information. However, some participants expressed reluctance to use search, fearing they might get stuck in loops.
 
-9. General navigation observations
+X. General navigation observations
     1. Tendency to want to sign-in for “personalized” information 
         1. 7 participants specifically mentioned wanted to sign-in to see personalized content that relevant to them and their task
     2. Browsing & keywords
@@ -242,8 +244,7 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
             1. Participants tended to browse to this looking for terms/keywords related to their task or objective
         2. Browse by benefit
             1. Participants tended to browse to this looking for for terms/keywords related to specific benefits
-        3. Search results
-            1. 3 participants mentioned reluctance to use search due to fears of getting ‘stuck in loops’ or getting lost.
+
 
 ## Recommendations
 
