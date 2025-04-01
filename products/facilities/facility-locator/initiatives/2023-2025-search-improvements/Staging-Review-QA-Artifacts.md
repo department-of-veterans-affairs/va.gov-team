@@ -89,7 +89,7 @@ All e2e tests now test interactions of all potential flipper and on/off states.
 
 Total unit test coverage after resolving some redux actions related testing issues
 
-<img width="867" alt="Screenshot 2025-04-01 at 9 10 04 AM" src="https://github.com/user-attachments/assets/bdeb3e37-bb3c-4713-8417-3c90da79e090" />
+<img width="867" alt="Screenshot 2025-04-01 at 3 12 14 PM" src="https://github.com/user-attachments/assets/934535b9-1e78-469d-8474-768bbe78f777" />
 
 
 
