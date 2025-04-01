@@ -1,6 +1,6 @@
 # Running Design and Research Agenda
 ## March 31 2025
-Attendees:
+Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Renata Keck, Andrea Merril, Mike Mooney, Rachel Pope
 
 - ### Agenda Topics
 	- UX roadmap review
@@ -15,6 +15,48 @@ Attendees:
       	   	- OHI integration list&loop discovery
       	   	  
 - ### Notes
+* Agenda Topics
+    * UX roadmap review
+        * No updates
+    * FMP
+        * Content updates for direct deposit
+            * Everyone agreed with using the [option 1](https://www.figma.com/design/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet-(10-7959f-2)?node-id=5489-40502&t=dPmG3rcI15Pbh2aS-4) \
+
+            * Should we state “US Treasury check”, or just “check”?
+We all agree that “cover this claim” is too informal. We updated the text on the confirmation page to “If we approve this claim” from “cover this claim”. We will see if Content + IA has any issues with it.
+            * Would users that are not logged in need to know about Direct Deposit? According to the Service Blueprint, FMP will look for a domestic bank account regardless of log in status.  \
+            * Future state: Premal wants to eventually force log in so FMP can send EOB/ statuses via online/mobile. We are not sure how ID proofing via foreign IDs would work yet.
+         * **Action Items:**
+           * Check to see if the VA profile is what VBA is using for the reimbursements. Jina to send over this.
+           * Look in open slack threads about VBA profile content
+           * We need to add language to unlogged experience about direct deposit but consider that if they log in the middle of the form they will have to start over.
+
+        * Service blueprinting followup: registration/Claims pain points
+            * **Action Item:** Jamie to send the mural to group for async feedback
+
+
+        * CHAMPVA claims
+            * Resubmission screener question
+                * The screener question about receiving the enrollment packet is with CAIA We are trying to get this content back by Wednesday. The screener was meant to be a fast follow after launch until we are ready with the UI and PEGA to handle resubmissions online
+                * We cleared it with PEGA that we can to accept the resubmission and will should be a low lift. PEGA wont be ready until May or June.
+                * Premal wants to push them to CHAMPVA to process resubsmissions online quicker
+                * We may want to understand the orphaned form better. How big of an issue would be from CHAMPVA until we
+         * Action Item
+           * Add language about the resubmits for the form that were already submitted on the paper to discourage duplicates. Go over this with CHAMVPA partners on Wednesday
+        * 10-10d
+            * Supporting docs prototypes
+                * Rachel showed 3 options for handling supporting docs
+                * We will be removing the mail-in option for all
+                * We will need to review with the engineering team for feasibility of the supporting docs upload/summary page and how it would work with the list and loop 
+                * UX team would like to conduct A/B testing on users’ preference to upload their docs throughout the form after each coordinating question is asked or if they would rather like to upload everything at the end of form
+                * Jina may have GA research on supporting docs with dropoffs. We also have some preliminary user research but it’s not extensive.
+        * Action Item:
+          * Check the history of the school certification letter and why we removed it. Premal mentioned that there was an error on the school letter form and CHAMPVA may be adding it back in when it is updated
+          * Review the options with engineers for feasibility
+ * Minimal header updates
+   * Jamie will follow up with Jina async
+* OHI integration list&loop discovery
+  *  Renata to send a video walkthrough of the list and loop exploration user flows to gather feedback
 
 ## March 24 2025
 Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Renata Keck, Andrea Merril, Mike Mooney, Amanda Klaumeiser
@@ -28,7 +70,7 @@ Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Renata Keck, Andrea Merril, Mike 
        	- High level review of Supporting Docs
 
    - ### Notes
-   	- **UX roadmap review, quick win items**
+   - **UX roadmap review, quick win items**
 
 		-   Team to send over OHI/10-10d merge Figma files in Slack for async review (top item in the NOW column)
 		-   Now larger product roadmap has integrated design/research work
