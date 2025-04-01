@@ -41,5 +41,3 @@ Please provide the list of PRs related to the need for this OOB Deploy below:
  - [ ] Notification is posted in the appropriate Slack support and team Channels
  - [ ] Infrastructure/Operations has acknowledge the Requests (This applies to revproxy and fwdproxy, but is not required for Frontend and Backend requests)
  - [ ] Security Team has Reviewed the requests (This is not necessary for requests that are not related to security)
-
- CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-product-support
