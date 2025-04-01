@@ -108,14 +108,12 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 
 ## Hypotheses and Conclusions
 
-**1. Users will understand the search, filtering, and browsing functionality available to them.**
-   - Partially True: All participants understood the browsing and search capabilities. Only a few participants engaged with the filter functionaity without prompting. Most participants understood the filters once prompted. One area that caused confusion was the relationship between tags and filters.
-
-**2. Users will understand the labels of filters and filter groups.**
-    - Mostly True: Most participants seemed to understand many individual filter labels they encountered, and understood which ones were relevant to their tasks.
-    
-**3. Users are able to find the information that they're looking for.**
-    - Mostly True: Most participants were able to find the information that they were looking for in most cases. Only 2/12 participants gave up on a task without locating a relevant article. 
+1. Users will understand the search, filtering, and browsing functionality available to them.
+   - **Partially True:** All participants understood the browsing and search capabilities. Only a few participants engaged with the filter functionality without prompting. Most participants understood the filters once prompted. One area that caused confusion was the relationship between tags and filters.
+2. Users will understand the labels of filters and filter groups.
+   - **Mostly True:** Most participants seemed to understand many individual filter labels they encountered, and understood which ones were relevant to their tasks.
+3. Users are able to find the information that they're looking for.
+   - **Mostly True:** Most participants were able to find the information that they were looking for in most cases. Only 2/12 participants gave up on a task without locating a relevant article. 
     
 ## Key Findings
 
