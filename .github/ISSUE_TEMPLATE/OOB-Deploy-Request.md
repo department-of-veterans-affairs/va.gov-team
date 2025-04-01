@@ -11,8 +11,8 @@ assignees: ''
 Please fill out the necessary details and list the PRs related to the OOB deployment in the sections below.
 
 ## PRs Related to OOB
-- Please provide the list of PRs related to the need for this OOB Deploy below:
-   > PR?????
+Please provide the list of PRs related to the need for this OOB Deploy below:
+- PR link
 
 ## Active Daily Users Impacted
 - How many active users are impacted at this time and day.
