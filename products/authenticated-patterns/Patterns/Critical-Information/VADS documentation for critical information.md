@@ -81,12 +81,15 @@ Kristen Faiferlick (Ad Hoc)
 
 #### Placement details
 
-In most cases, display the Alert - Critical component in a [Card](https://design.va.gov/components/card) or [Service list item](https://design.va.gov/components/service-list-item) component. Place the component directly below the Status tag and take up the width of the component it is nested within. Include only one Alert - Critical component in a Card or Service list item. Do not include multiple Alert - Critical components in a single Card or Service list item.
+In most cases, display the Alert - Critical component in a [Card](https://design.va.gov/components/card) or [Service list item](https://design.va.gov/components/service-list-item) component. 
+* Place the component directly below the Status tag.
+* Include only one Alert - Critical component in a Card or Service list item.
+* Alert - Critical should span the width of the Card or Service list item.
 
 [Insert same image as in the Examples section]
 ![Service list - desktop](https://github.com/user-attachments/assets/742a38d5-dfd3-4339-9db9-49a5ec14ed17)
 
-On the My VA page, you can stack Alert - Critical components at the top of the page. (Do not stack them within Cards or Service list items.) The component should take up 66% of the content width. Eventually, there may be other dashboard UI that will also accommodate the stacked Alert - Critical components. 
+On the My VA page, follow the [guidance for Alert placement](https://design.va.gov/components/alert/#web-4). The component should take up 66% of the content width. Eventually, there may be other dashboard UI that will also accommodate the stacked Alert - Critical components. 
 
 [Insert same image as in the Examples section]
 ![My VA](https://github.com/user-attachments/assets/0a5135e9-a4a2-40a4-99ae-47b6ff57635c)
