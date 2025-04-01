@@ -2,7 +2,14 @@
 
 ## What is happening?
 
-The OCTO Identity team is refactoring the `User` model `uuid` // `user_uuid` attribute to change the source of the uuid & reduce its usage overall. At present the `user_uuid` is taken from the Credential Service Provider (CSP) uuid of the CSP that the user has authenticated with, and assigned to the `User` Redis-backed instance upon its creation; with this change the `User` instance will instead be assigned the uuid of its `UserAccount` instance, or `user_account_id`. Most vets-api records that use the `user_uuid` have already had their schema updated to also include the `user_account_id`.
+The OCTO Identity team is refactoring the `User` model `uuid` // `user_uuid` attribute to change the source of the uuid & reduce its usage overall. At present the `user_uuid` is taken from the Credential Service Provider (CSP) uuid of the CSP that the user has authenticated with, and assigned to the `User` Redis-backed instance upon its creation; with this change the `User` instance will instead be assigned the uuid of its `UserAccount` instance, or `user_account_id`.
+
+The most noticeable aspect of this change is to the many database tables that use the `user_uuid` to save & query records - these tables and the vets-api models they're backing will all need to be updated to 
+1. include the `user_account_id` in their schema
+2. verify that all records possess  a `user_account_id` & source it if it is absent
+3. change the identifying attribute to the `user_account_id` & remove the `user_uuid` attribute.
+
+Most vets-api tables have already been updated to include the `user_account_id`, the Identity team will assist in assessing the status of the records your team manages and getting them fully updated with `user_account_id`s if necessary.
 
 ## Who made this decision?
 
