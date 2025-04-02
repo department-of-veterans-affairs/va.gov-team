@@ -11,10 +11,10 @@ Last Updated: April 2025
 This document contains links to all research conducted related to Prior prior to April 2025. As well as overviews of upcoming and new research.
 
 ### Current Research
-1. [03/2025 Profile Seconday Research Report](): Overview of all research completed about VA.gov Profile prior to 03/2025.
+1. [03/2025 Profile Seconday Research Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2025-03-profile-secondary-research/research-findings.md): Overview of all research completed about VA.gov Profile prior to 03/2025.
 
 ### Research Prior to 03/2025
-**START HERE [03/2025 Profile Seconday Research Report](): Encompasses all findings prior to 03/2025**
+**START HERE [03/2025 Profile Seconday Research Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2025-03-profile-secondary-research/research-findings.md): Encompasses all findings prior to 03/2025**
 
 #### **General Profile Reports**
 
