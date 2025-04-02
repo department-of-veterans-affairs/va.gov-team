@@ -25,7 +25,7 @@ Pages listed below
 
 [h2] Have you applied for VA health care before?
 
-[button primary] Sign in to check your application status 
+[button primary] Sign in now to save time and save your work in progress
 
 [END component blue background alert]
 
