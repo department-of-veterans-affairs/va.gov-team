@@ -8,7 +8,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 
 ## Quarterly Priorities for FY25Q3 (Apr, May, Jun 2025)  
 *Quarter Sprints include 5,6, 7, 8, 9, & 10*
-**Primary Goals (May shift based on stretch goal dependencies)**
+</br> **Primary Goals (May shift based on stretch goal dependencies)**
     
 | Priority ID | Description | S.Epic | Relevant Dates |  Notes |  End of Quarter Status |
 |-------------|---------------|-----------------|---------------|  ---------------|   ---------------| 
@@ -27,7 +27,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | Priority ID | Description | S.Epic | Relevant Dates |  Notes |  End of Quarter Status |
 |-------------|---------------|-----------------|---------------|  ---------------| ---------------| 
 | QP9 | **VHA Repayment Plan (10-323)**:  Discovery & Design Prototyping| [#106208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106208)|   |**[UX]**   ||
-| QP10| **Payment History (VHA):** Progress development efforts and continue align with Lighthouse | [#18859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18859) | Goal to launch June 2025 or sooner | Tremendous User Value! Dependent on Lighthouse team collaboration to build API|   |--|
+| QP10| **Payment History (VHA):** Progress development efforts and continue align with Lighthouse | [#18859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18859) | Goal to launch June 2025 or sooner | **[UX+FE+BE]** Tremendous User Value! Dependent on Lighthouse team collaboration to build API|   ||
 
 ## Sprint Goals - Sprint: 5 [3/26/25 - 4/8/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
