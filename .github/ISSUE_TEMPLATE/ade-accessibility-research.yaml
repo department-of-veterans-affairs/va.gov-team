@@ -174,7 +174,6 @@ body:
     label: Next steps for you now
     description: After submitting this ticket, please complete the following tasks
     options:
-      - label: Post a link to this ticket in the OCTO slack "accessibility-help" channel and tag Lakwi Perera and Cindy Merrill
       - label: Post a link to this ticket in the OCTO slack [accessibility-help channel](https://dsva.slack.com/archives/C8E985R32) and tag Lakwi Perera and Cindy Merrill
       - label: Read Platform guidance on [research with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)
       - label: Review our [assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md)
