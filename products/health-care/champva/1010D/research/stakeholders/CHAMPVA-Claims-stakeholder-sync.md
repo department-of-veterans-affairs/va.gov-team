@@ -3,7 +3,7 @@ Every other Wednesday at 2:35pm ET
 
 ## **04/02/25**
 
-Attendees: Andrea, Richard, Jamie, Melissa, Amanda, Elizabeth L., Angela P, Rachel, Elizabeth S., Mike, Renata
+Attendees: Andrea, Richard, Jamie, Melissa, Amanda, Elizabeth L., Angela P., Rachel, Elizabeth S., Mike, Renata
 
 **Agenda**
 
