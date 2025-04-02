@@ -40,6 +40,10 @@ class FakeUser
     @icn = icn
     @account_uuid = account_uuid
   end
+
+   def flipper_id
+     @account_uuid
+   end
 end
 ```
 
