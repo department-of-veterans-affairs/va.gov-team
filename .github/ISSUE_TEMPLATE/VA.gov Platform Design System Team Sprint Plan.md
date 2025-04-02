@@ -1,3 +1,4 @@
+---
 name: VA.gov Platform Design System Team Sprint Plan
 about: Use this template for creating sprint plans
 title: "Design System Team Sprint [XX] Plan"
