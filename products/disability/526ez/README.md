@@ -92,7 +92,8 @@ Government Stakeholders:
 |526 Flow-Active| Most up to date 526 application flow| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-11-Shadowing-Research)| November 2023|
 |526 Feature briefs | Feature briefs for new initiatives | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/product/feature-briefs)
 |Team Carbs Story Mapping | Team 2's 2024 initiatives | [Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718308823134/02c2c9ea74f16b276692af8f31eb65202acc7928)
-|Disability Release Plans | Disability experience team-docs release plans | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans)
+|Disability Release Plans | Disability experience team-docs release plans | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans)|
+|Collab Cycle Tickets|Records of interactions with the collaboration cycle|[Github Board Link](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/2?filterQuery=disability+experience)|
 
 ## First Read
 |Title|Description|Link|Version|
@@ -105,11 +106,12 @@ Government Stakeholders:
 |Veteran personas|From Veteran Experience Office includes ten personas and additional tools|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)|May 2016, current as of 2022|
 |Veteran personas and 526 use cases|Connects VA veteran personas with 526 use cases and experiences|[Link]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/personausecases.md))|March 2023|
 
-## Research
-[Link to Research in Sharepoint](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?e=5:0f5e8995f1784d9aa59021cdc4776530&sharingv2=true&fromShare=true&CID=d7176fa1-c0b0-7000-6dfa-f91eba2b481a&cidOR=SPO&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&isAscending=true&id=/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/5%20-%20Research%20and%20Design&sortField=LinkFilename&viewid=3fa7a9bb-3d4e-44c2-b93f-629268a08e72)
+## Design & Research
 
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
+|Design Folder in Github|Design Documentation for 526ez|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/design)|
+|Sharepoint Research folder|Research Documentation in Sharepoint|[Link](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?e=5:0f5e8995f1784d9aa59021cdc4776530&sharingv2=true&fromShare=true&CID=d7176fa1-c0b0-7000-6dfa-f91eba2b481a&cidOR=SPO&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&isAscending=true&id=/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/5%20-%20Research%20and%20Design&sortField=LinkFilename&viewid=3fa7a9bb-3d4e-44c2-b93f-629268a08e72)|
 |Summary of past 526ez Research | Includes research from 2016-2021, from VEO 2023, and heuristic evaluation 2022|[Sharepoint Link](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?e=5%3A0f5e8995f1784d9aa59021cdc4776530&sharingv2=true&fromShare=true&CID=d7176fa1%2Dc0b0%2D7000%2D6dfa%2Df91eba2b481a&cidOR=SPO&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&isAscending=true&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience%2F5%20%2D%20Research%20and%20Design%2F2016%2D2021%20Research&sortField=LinkFilename&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72)|Feb 2023|
 |Introduction (Landing) Page Redesign Research | Evaluative research for the Landing Page drop off rates discovery| [SharePoint Link](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?e=5%3A0f5e8995f1784d9aa59021cdc4776530&sharingv2=true&fromShare=true&CID=d7176fa1%2Dc0b0%2D7000%2D6dfa%2Df91eba2b481a&cidOR=SPO&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&isAscending=true&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience%2F5%20%2D%20Research%20and%20Design%2F2023%2D05%20Introduction%20%28Landing%29%20Page%20Redesign%20Research&sortField=LinkFilename&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) | May 2023|
 |Toxic Exposure Usability Testing (Parity) Research | Evaluative research for the new TE feature| [GitHub Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-07-Toxic-Exposure) | July 2023|
