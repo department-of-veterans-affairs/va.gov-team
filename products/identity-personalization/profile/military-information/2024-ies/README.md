@@ -60,13 +60,20 @@ Veterans need a way to access and download their Individual Exposure Summary (IE
 ---
 
 ## Important Artifacts
-- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89309)
-- [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695126310753/6ab8c3953d2eeaa067f666d5a03a754c5ded3d82?wid=0-1723060024022)
-- [LoE spreadsheet](https://docs.google.com/spreadsheets/d/1JdXHdkoFll5ssdHouO0ANbVj1sEkHUFKBsuLImVqOSk/edit?gid=0#gid=0)
-- [Desk Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2024-ies/ILER%20Desk%20Research%202024.md)
-- Backend Documentation
+- [project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2024-ies/README.md)
+- [mural ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695126310753/6ab8c3953d2eeaa067f666d5a03a754c5ded3d82?wid=0-1723060024022)
+- [Readout Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1725050478478/cbc93cb664ebcfabf7312092de9b31784a6a3cda?sender=uaa72d11015d3f7c704a64191)
+- [Process flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1725569346643/fd28cd77f4dc39baa50f3aa752a85e7dc99b03fa?sender=uaa72d11015d3f7c704a64191) 
+- [Stakeholder artifacts ](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/2023-enhanced-military-information/stakeholder-artifacts/Doolin_Andrea_Marty_Complete_Report.pdf) 
+- Research resources
+     - [10/2023 Profile: Enhanced Military Information MVP - Stakeholder Interview Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-09-enhanced-military-info-mvp/stakeholder-interviews/stakeholder-interview-summary.md)
+     - [10/2023 Enhanced military information MVP, desk research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-09-enhanced-military-info-mvp/desk-research-summary.md)
+     - [08/2024 ILER IES Report, Desk Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2024-ies/ILER%20Desk%20Research%202024.md)
+- Backend resources
      - [(new) Individual Longitudinal Exposure Record (ILER) API - Dept of Veterans Affairs-External - Confluence (va.gov)](https://confluence.devops.va.gov/display/VAExternal/%28new%29+Individual+Longitudinal+Exposure+Record+%28ILER%29+API) 
      - [Claims Evidence API (i think?)](https://confluence.devops.va.gov/pages/viewpage.action?pageId=48090012) 
+- [Repo for the ILER ART team](https://github.com/department-of-veterans-affairs/bip-cfapi-iler-api)
+- [Collab Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106583)
 - Release Plan
 
 ## Launch Dates
