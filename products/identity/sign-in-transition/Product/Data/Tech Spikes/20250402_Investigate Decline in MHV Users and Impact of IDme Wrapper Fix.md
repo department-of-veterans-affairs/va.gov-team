@@ -28,7 +28,7 @@ Each week, we are generating the historic trend using only the latest AuthDB sna
 - **MHV CSP Decommissioning (March 5):** Expected to drive an increase in the number of Veterans signing up for modern credentials.  
 - **IAM Data Fix (March):** Deployed to address a data privacy issue, this fix involved unlinking and deactivating ID.me credentials which were being used via the ID.me wrapper, but which weren’t necessarily identity-proofed. These credentials targeted for unlinking are identified by a 200VIDM CSP identifier and with either an “IDME_MHV” or “IDME_DSL” in the CSP Method field.  
 
-From our prior analysis into the anticipated impact from the IAM data fix, we identified approximately 40k Veterans who would shift into the category of needing a modern credential until they logged in again with a modern credential (See [Appendix](#Causes-for-Anticipated-Spike-of-~40k-Users-Needing-Modern-credentials) for details).
+From our prior analysis into the anticipated impact from the IAM data fix, we identified approximately 40k Veterans who would shift into the category of needing a modern credential until they logged in again with a modern credential (see [Appendix](#Causes-for-Anticipated-Spike-of-~40k-Users-Needing-Modern-credentials) for details).
 
 ## Findings & Observations
 1. The expected shift of 40k Veterans into the “needing modern credential” category likely occurred, but concurrent impacts from the IAM datafix and the disabling of MHV Option 2 make it difficult to isolate this effect.
