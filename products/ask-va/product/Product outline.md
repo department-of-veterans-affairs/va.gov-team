@@ -1,5 +1,5 @@
 # Product outline for Ask VA
-Last updated by @beckyphung on March 17, 2025
+Last updated by @beckyphung on April 2, 2025
 This product outline gives an overview of the Ask VA product. Below are our current initiatives:
 
 |Initiatives|Status|Launch date|
@@ -86,6 +86,7 @@ The Ask VA CRM business team tracks business KPIs, which include metrics like: a
 |:---|:---|:---|
 |Product owner (OCTO), Designer|Becky Phung||
 |Product owner (VES)|Natalie Morales||
+|Product owner (VES)|Preetika Celmer||
 |Program manager|Megan Siddle|megan.siddle@oddball.io|
 |Product manager|Ariel Martinez|ariel.martinez@thoughtworks.com|
 |Lead engineer|Joseph Hall|joe.hall@thoughtworks.com|
@@ -98,4 +99,3 @@ The Ask VA CRM business team tracks business KPIs, which include metrics like: a
 
 ### VA partners
 We closely work with the Ask VA CRM development team. Learn more about our partnership [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696976895933/4f5410b3e8770441f4101cbabd565aa0cd13dac7).
-![image](https://github.com/user-attachments/assets/0ce385c2-3f47-4ce9-b3c8-deb6e01bbca5)
