@@ -20,12 +20,13 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | QP6 | **Pay.gov Hosted Collection Page (HCP) for Overpayments:** Discovery & Design Prototyping| [#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |  |**[UX]**  | |
 | QP7 | **Mobile App:** Collaborate with IIR team to add overpayment debt information into mobile app experience |  [#106209](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106209) |  |**[UX]** IIR team responsible for implementation - FM team with expertise in finance space to collaborate closely with IIR |   |
 | QP8 | **VBA Hardship Suspension:** Discovery & Design Prototyping | [#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207) |  | **[UX]** | |
-| QP9 | **VHA Repayment Plan (10-323)**:  Discovery & Design Prototyping| [#106208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106208)|   |**[UX]**   ||
+
 
 
 **Stretch Goals (Known dependencies may impact)**
 | Priority ID | Description | S.Epic | Relevant Dates |  Notes |  End of Quarter Status |
 |-------------|---------------|-----------------|---------------|  ---------------| ---------------| 
+| QP9 | **VHA Repayment Plan (10-323)**:  Discovery & Design Prototyping| [#106208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106208)|   |**[UX]**   ||
 | QP10| **Payment History (VHA):** Progress development efforts and continue align with Lighthouse | [#18859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18859) | Goal to launch June 2025 or sooner | Tremendous User Value! Dependent on Lighthouse team collaboration to build API|   |--|
 
 ## Sprint Goals - Sprint: 5 [3/26/25 - 4/8/25]  
