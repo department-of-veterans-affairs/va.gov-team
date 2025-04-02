@@ -40,7 +40,7 @@ We all agree that “cover this claim” is too informal. We updated the text on
                 * The screener question about receiving the enrollment packet is with CAIA We are trying to get this content back by Wednesday. The screener was meant to be a fast follow after launch until we are ready with the UI and PEGA to handle resubmissions online
                 * We cleared it with PEGA that we can to accept the resubmission and will should be a low lift. PEGA wont be ready until May or June.
                 * Premal wants to push them to CHAMPVA to process resubsmissions online quicker
-                * We may want to understand the orphaned form better. How big of an issue would be from CHAMPVA until we
+                * We may want to understand the orphaned form better. How big of an issue would be from CHAMPVA until we get the full resubmission process online.
          * Action Item
            * Add language about the resubmits for the form that were already submitted on the paper to discourage duplicates. Go over this with CHAMVPA partners on Wednesday
         * 10-10d
