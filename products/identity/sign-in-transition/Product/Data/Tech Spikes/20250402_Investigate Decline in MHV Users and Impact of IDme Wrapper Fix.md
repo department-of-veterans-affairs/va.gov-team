@@ -14,12 +14,12 @@ Due to discrepancies in reported numbers across different weeks, the reports are
 Up to the week beginning 3/2, the historic values dropped by about 6k. This could be due to a number of factors, including accounts becoming inactive. After 3/9, historic values shifted, showing an increase in users needing modern credentials.
 
 ### Historical Reporting Data of Total MHV Users Needing Modern Credentials
-| Week  | Reported on 3/30 | Reported on 3/23  | Reported on 3/16 | Reported on 3/9 |
+| Week Beginning  |  Reported in Current Week (Week of 3/30) | Reported 1 Week Prior (Week of 3/23) | Reported 2 Weeks Prior  (Week of 3/16)  | Reported 3 Weeks Prior (Week of 3/9) |
 | :---- | :---- | :---- | :---- | :---- |
-| 3/2 \- 3/9 | 1,005,048 | 988,680 | 966,627 | 922,653 |
-| 3/9 \- 3/16 | 946,693 | 930,005 | 907,189 | N/A |
-| 3/16 \- 3/23 | 893,542 | 876,821 | N/A | N/A |
-| 3/23 \- 3/30 | 852,151 | N/A | N/A | N/A |
+| 3/2 | 1,005,048 | 988,680 | 966,627 | 922,653 |
+| 3/9 | 946,693 | 930,005 | 907,189 | N/A |
+| 3/16 | 893,542 | 876,821 | N/A | N/A |
+| 3/23 | 852,151 | N/A | N/A | N/A |
 
 ### Context & Contributing Factors
 Each week, we are generating the historic trend using only the latest AuthDB snapshot (see [Appendix](#Approaches-for-Reporting-of-Historic-Credential-Totals) for rationale). Among other reasons, this was done based on the assumption that the record creation dates remain static. While there are benefits to this approach for generating the history, it is susceptible to a changing history week-over-week due to: 1) complexities in the data, data flow and calculations, and 2) modifications to certain data values which were assumed to be static across reporting periods (e.g. record creation date).
