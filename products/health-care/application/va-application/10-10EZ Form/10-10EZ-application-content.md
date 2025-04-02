@@ -134,10 +134,9 @@ Expiration date: 06/30/2024
 
 #### URL: /health-care/apply/application/id-form
 
-[h1] We need some information before you can start your application
+[h1] Before you start your application
+[p] We need some information before you can start your application. This will help us fit your application to your specific needs. Then you can fill out the VA health care application (10-10EZ).
 
-- [p] We need some information before you can start your application. This will help us fit your application to your specific needs.
-- [p] Then you can fill out the VA health care application (10-10EZ).
 
 - [p bold] Sign in and save time
 - [p] You can sign in and confirm that the information we have for you is up to date and then fill out the VA health care application. 
