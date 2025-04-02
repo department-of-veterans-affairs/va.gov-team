@@ -1,4 +1,3 @@
-# Note: This page is in draft
 # Unauthenticated page experience ratings: March 2025
 ## Related overall scores
 - **Total customer satisfaction score:** 56.7% (0% change from last period)
@@ -71,8 +70,9 @@ All pages have ratings of 2 or below.
    
 ## Analysis
 [Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20ratings%20tracking%20March%202025.xlsx?d=wd6adb470e1a14913965a924b49865c0e&csf=1&web=1&e=b3U7q2)
+- This is the seventh month in a row R&S didn't meet our goal of 75% or higher "good" ratings, with a 56% "good" average rating. This can be attributed to large numbers of "bad" ratings for sign-in related pages. This has been the case throughout the sign-in transition process but we will continue to monitor it.
 - - Performance isn't as high when broken down to individual pages:
   - 33% of pages are scoring at 90% or higher "good"
   - 47% of pages are meeting our goal of 75% or higher "good," while 53% of pages are scoring 70% or higher
   - 29% of pages are scoring at less than 50% "good," with 7% scoring at less than 10% "good" 
-  
+- All of the lowest scoring pages were connected to sign-in. While we believe this is more about the process than the content on the pages, we'll continue to monitor Medallia feedback to learn if there are any changes we can make to improve these pages.  
