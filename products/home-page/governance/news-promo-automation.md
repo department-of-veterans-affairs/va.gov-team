@@ -1,4 +1,4 @@
-## Home Page Promo Block Automation 
+## Automated News Promo
 > April 2, 2025
 
 
