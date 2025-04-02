@@ -4,7 +4,7 @@
 [VACMS-20923: Homepage news spotlight block automation](https://github.com/department-of-veterans-affairs/va.gov-cms/pull/20976), related to [#20923](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20923) completes end-to-end automation for homepage news spotlights. It adds a new ECA workflow that automates placing News Spotlight blocks into the home page entityqueue/subqueue, which the FE already pulls from to create the news block on the homepage. No further actions are necessary to automate the process. 
 
 ## Business Case
-The Home Page News Promo spot information becomes stale, which leads to lower engagement with Veterans, their caregivers, family members or survivors. Because this is in a high-visibility location, and is supposed to provide relevant and helpful news to these people, we want to automate pulling in news from the RSS feed mentioned above. 
+The Home Page News Promo spot was designed to provide the most relevant and helpful news in a prominent location on the VA.gov homepage. In reality, the news promo spot was often stagnant and led to lower engagement with Veterans, their caregivers, family members or survivors. To make it easier to feature relevant "homepage-worthy" content, we implemented an ECA flow so that it will automatically display current news from VA News (https://news.va.gov//wp-json/wp/v2/posts?categories=18505). 
 
 ## ECA Workflows
 
