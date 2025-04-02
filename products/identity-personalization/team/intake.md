@@ -22,7 +22,7 @@ If you’re still here after our little explainer we’d like to know more about
 - Link to your collab cycle
 - What do you need our team to support/collaborate on? _What are your specific questions_
 
-### What is the business outcome you're trying to achieve?
+
 
 
 ## Relevant links
