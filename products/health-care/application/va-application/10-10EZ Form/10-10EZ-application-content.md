@@ -57,7 +57,7 @@ Pages listed below
 [end ul]
 
 [p] **Note:** Time spent on active-duty status for training purposes only doesn’t count toward the service requirements. 
-[Get instructions on how to apply for a discharge upgrade or correction](https://www.va.gov/discharge-upgrade-instructions/) 
+[a = https://va.gov/discharge-upgrade-instructions/introduction/ ] Get instructions on how to apply for a discharge upgrade or correction [/a].
 
 [END component additional info]
 
