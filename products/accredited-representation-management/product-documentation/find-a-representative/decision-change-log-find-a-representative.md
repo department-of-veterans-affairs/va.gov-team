@@ -28,4 +28,4 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _Confirmed by Technical Lead Holden Hinkle ([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93229))._
 - **10/29/2024**: Updated address validation logic to handle instances where a representative has a mix of both P.O. Box and street address. In these instances, we will only display one or the other (whichever returns a valid location) and as a result some addresses will only show the P.O. Box or the street address (not both). \
   _Communicated by Product Manager Lindsay Li-Smith ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1730218859270719))._
-- **1/17/2024**: A link to Find a Representative was added to the VA.gov homepage.
+- **1/17/2025**: A link to Find a Representative was added to the VA.gov homepage.
