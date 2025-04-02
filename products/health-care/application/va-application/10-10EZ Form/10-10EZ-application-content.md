@@ -80,30 +80,6 @@ Pages listed below
 [end ul]
 
 
-[component additional info]
-[title] Why does the VA need this information? 
-
-[content] 
-[p] When you apply, we review this information:
-[ul]
-- Your service history
-- Your VA disability rating
-- Your income level (and the income level of your spouse or other qualified dependents)
-- Your eligibility for Medicaid, VA disability compensation, and VA pension benefits
-[end ul]
-
-
-[p] We use this information to help us decide these 3 things:
-[ul]
-- What types of VA health care benefits you're eligible for, **and**
-- How soon we enroll you in VA health care, **and**
-- How much (if anything) you’ll have to pay toward the cost of your care
-[end ul]
-
-
-[p] We give Veterans with service-connected disabilities the highest priority.
-[p] **Note:** We ask about other health insurance for billing only. Having other health insurance doesn’t affect your eligibility for VA health care.
-[END component additional info]
 
 
 [h3 class h4] 3. Start your application
