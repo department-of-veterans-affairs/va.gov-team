@@ -164,7 +164,6 @@ Expiration date: 06/30/2024
 ## Introduction Page Content Variations - ES Status
 ---
 
-[Need to update per 3/5/2024 changes]
 ### Status Codes to FAQ Blocks
 
 | Status                                                              | FAQ Block IDs                           |
@@ -223,16 +222,14 @@ Expiration date: 06/30/2024
 
 #### URL: /health-care/apply/application/veteran-information/profile-information
 
-[component progress bar]
-[h2] Step 1 of 6: Veteran Information
-[end progress bar]
+[h1] Check your personal information
 
 [p] Confirm your information before you continue.
 
-[read only block]
+[read only block - card component with gray background]
 - [p bold] Name
-- Social Security number: xxx-xx-{last 4 of SSN}
 - Date of Birth: Month day, year
+- Social Security number: xxx-xx-{last 4 of SSN}
 
 
 [button pair] [<< Back] [Continue >>]
