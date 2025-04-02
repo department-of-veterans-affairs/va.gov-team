@@ -55,26 +55,26 @@ User actions prioritized for the MVP
 
 
 
-|   Event type    |                   Event description                    |       Identifier    |
-| :-------------- | :----------------------------------------------------- | :------------------- |
-| Sign-in         | Sign in {{ on VA.gov }}                                | sign_in              |
-|                 | Verify identity* {{ on ID.me }}                        | verify_identity      |
-| Profile         | Update mailing address                                 | update_mailing_address |
-|                 | Update phone number                                    | update_phone_number   |
-|                 | Update email address                                   | update_email_address  |
-| Payments        | Add direct deposit for pension          | add_direct_deposit_pension   |
-|                 | Update direct deposit for pension       | update_direct_deposit_pension  |
-|                 | Add direct deposit for disability compensation       | update_direct_deposit_disability  |
-|                 | Update direct deposit for disability compensation       | update_direct_deposit_disability  |
-|                 | Add direct deposit for tuition                         | add_direct_deposit_tuition     |
-|                 | Update direct deposit for tuition                      | update_direct_deposit_tuition  |
-|                 | Add direct deposit for travel pay reimbursement        | add_direct_deposit_travel_pay  |
-|                 | Update direct deposit for travel pay reimbursement     | update_direct_deposit_travel_pay  |
-| Documents       | Download {{ Blue Button report }}                      | download_blue_button_report    |
-|                 | Download {{ VA benefits letter }}                      | download_va_benefits_letter    |
-|                 | Download {{ VA Health summary PDF }}                   | download_va_health_summary  |
-| Forms           | Submit {{ VA Form 21-10210 Lay/Witness Statement }}    | submit_va_form_21-10210 |
-|                 | Submit {{ VA Form 10-10EZ Application for Health Benefits }} | submit_va_form_10-10ez |
+|   Event type    |                   Event description                    |       Identifier    |  Implemented  |
+| :-------------- | :----------------------------------------------------- | :------------------- | :------------------- |
+| Sign-in         | Sign in {{ on VA.gov }}                                | sign_in              | :white_check_mark: |
+|                 | Verify identity* {{ on ID.me }}                        | verify_identity      |  |
+| Profile         | Update mailing address                                 | update_mailing_address |  |
+|                 | Update phone number                                    | update_phone_number   |  |
+|                 | Update email address                                   | update_email_address  |  |
+| Payments        | Add direct deposit for pension          | add_direct_deposit_pension   |  |
+|                 | Update direct deposit for pension       | update_direct_deposit_pension  |  |
+|                 | Add direct deposit for disability compensation       | update_direct_deposit_disability  |  |
+|                 | Update direct deposit for disability compensation       | update_direct_deposit_disability  |  |
+|                 | Add direct deposit for tuition                         | add_direct_deposit_tuition     |  |
+|                 | Update direct deposit for tuition                      | update_direct_deposit_tuition  |  |
+|                 | Add direct deposit for travel pay reimbursement        | add_direct_deposit_travel_pay  |  |
+|                 | Update direct deposit for travel pay reimbursement     | update_direct_deposit_travel_pay  |  |
+| Documents       | Download {{ Blue Button report }}                      | download_blue_button_report    |  |
+|                 | Download {{ VA benefits letter }}                      | download_va_benefits_letter    |  |
+|                 | Download {{ VA Health summary PDF }}                   | download_va_health_summary  |  |
+| Forms           | Submit {{ VA Form 21-10210 Lay/Witness Statement }}    | submit_va_form_21-10210 |  |
+|                 | Submit {{ VA Form 10-10EZ Application for Health Benefits }} | submit_va_form_10-10ez |  |
 
 *Currently we only track identity verification if the user previously signed in with an unverified account.
 
