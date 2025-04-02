@@ -18,6 +18,8 @@ If you’re still here after our little explainer we’d like to know more about
 ### Brief description of the work you'd like to collaborate on
 
 - Can you share a link to a product/project outline, brief, or description
+- Figma Files
+- Research
 - What is the timeline, and what is driving it?
 - Link to your collab cycle
 - What do you need our team to support/collaborate on? _What are your specific questions_
