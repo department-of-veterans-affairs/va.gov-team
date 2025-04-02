@@ -2,7 +2,7 @@
 This doc gives an overview of the **Move frontend to VA.gov (Phase 1)** Ask VA initiative. View Ask VA's product outline [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Product%20outline.md).
 
 - Start date: June 2023
-- Launch date: March 24, 2025
+- Launch date: April 7, 2025
 
 **Jump to:**
 - [Overview](#overview)
