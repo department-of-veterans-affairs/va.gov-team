@@ -117,9 +117,9 @@ The 403 error sends the user to a new page; this error component will only be ex
 </details>
 
 ## 404 Page not found component
-The Cartography team took on designing and building a React 404 error based loosely on the Drupal version for VA.gov. We have not (yet) created a version specific to My HealtheVet, so all My HealtheVet users who change a link under the /my-health namespace to an incorrect / non-existant url will be sent to this same 404. At this point, the React version of the VA.gov 404 is still in experimental design and is therefore subject to changes. [Experimental design ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2912)
+The 404 error sends users to a new page; this error component will only be experienced by users with access to My HealtheVet who change a link under the /my-health namespace to an incorrect / non-existant url will be sent to this same 404. 
 
-[Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=915-33082)
+[Figma file]([https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=915-33082](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=1071-19363&t=rNA4JxDx5GaXwOk9-1))
 
 <details><summary>404 Page not found for VA.gov</summary>
 <img src="https://github.com/user-attachments/assets/f62d1256-f9c9-41ad-9af4-9b62e2baddf1" />
