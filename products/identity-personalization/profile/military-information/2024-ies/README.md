@@ -1,5 +1,7 @@
 # Product Outline: IES Download on VA.gov 
 
+**Revised 4/2/2025** We may not launch this in Military Information (MI) as originally thought, there may be a different treatment worth pursuing. Our initial guess is MI page may be the absoulute fastest lift but there may be a need for a more involved IA resturucturing w/in the Profile to better support the launching of ILER IES Download as a product. 
+
 ## Points of Contact 
 - VA.gov AE Profile Team
 - VEO - Melissa R, Reginald M.
@@ -50,7 +52,8 @@ Veterans need a way to access and download their Individual Exposure Summary (IE
 ## Assumptions/Risks
 - Veterans associate exposure-related information with their health care and may look for the IES in health realted sections of the website. However, in a card sort, veterans expected the first thing the IES would contain was deployment history ([see BAH card sort](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/2023-enhanced-military-information/stakeholder-artifacts/MCT%20ILER%20HCD%20Research%20Findings_20230328%20(1).pdf)).
 - The most significant risk is placing the IES download option in a location that veterans do not intuitively associate with exposure information, potentially leading to usability issues.
-- Because of the complexity of the document and the lack of process available for addressing inaccuracies, Veterans might lose trust in VA for providing a this information without greater support or pathways for fixing issues. This could also lead to increased demand on call centers and support groups. 
+- Because of the complexity of the document and the lack of process available for addressing inaccuracies, Veterans might lose trust in VA for providing a this information without greater support or pathways for fixing issues. This could also lead to increased demand on call centers and support groups.
+- Connecting to Department of Defense's system for PDF download functionality may be difficult, not technically so, but due to security and privacy requirements. 
 
 ## Solution Approach
 - **Initial Build:** The IES download feature will be integrated into the VA.gov profile, with placement starting in the Military Info section, where veterans typically expect to find service-related data.
