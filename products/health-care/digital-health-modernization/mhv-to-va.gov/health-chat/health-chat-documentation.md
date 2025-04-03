@@ -27,26 +27,36 @@ The MVP approach was attempted in August 2024, but teams ran into significant is
 * MHV on VA.gov Cartography Team
 
 ## <a name="faq"></a>About
-**What is VA Health Chat?**
-* The VA Health Chat app is a service that connects Veterans with VA health care professionals through text-based chat messaging. Unlike Secure Messages, it **does not** connect them with their provider, but with a professional assigned to their associated Veteran Integrated Service Network (VISN) (these are the parent networks that each healthcare facility rolls up to geographically). The VA has 18 VISNs across the country, including in U.S. territories. All 18 have VA Health Chat implemented, but it is not yet available in some parts of VISN 16. 
+<details>
+  <summary>What is VA Health Chat?</summary>
+The VA Health Chat app is a service that connects Veterans with VA health care professionals through text-based chat messaging. Unlike Secure Messages, it **does not** connect them with their provider, but with a professional assigned to their associated Veteran Integrated Service Network (VISN) (these are the parent networks that each healthcare facility rolls up to geographically). The VA has 18 VISNs across the country, including in U.S. territories. All 18 have VA Health Chat implemented, but it is not yet available in some parts of VISN 16.
+</details>
 
-**What kinds of topics can VA Health Chat help with?**
-* VA Health Chat is intended to respond to patient questions in the following four categories. **Not** all VISNs support all 4 options as of July 2024: 
+<details>
+ <summary>What kinds of topics can VA Health Chat help with?</summary>
+ VA Health Chat is intended to respond to patient questions in the following four categories. **Not** all VISNs support all 4 options as of July 2024: 
   * Virtual Clinic Visit (Urgent Care)
   * Clinical Triage
   * Scheduling and Administration
   * Pharmacy Support
+</details>
 
-**Is VA Health Chat available 24/7?** 
-* No. Each VISN has its own individual operating hours, and individual chat services that are provided based on topics. The CirrusMD API has the availability logic and it is our understanding that onlyl VISNs that are open for chat during hours will display to users within the VA Health Chat web interface. There is a goal for all VA Health Chat services to be 24/7 but the VA is not there yet. 
+<details>
+ <summary>Is VA Health Chat available 24/7?</summary>
+No. Each VISN has its own individual operating hours, and individual chat services that are provided based on topics. The CirrusMD API has the availability logic and it is our understanding that onlyl VISNs that are open for chat during hours will display to users within the VA Health Chat web interface. There is a goal for all VA Health Chat services to be 24/7 but the VA is not there yet. 
+</details>
 
-**How quick is the response time?** 
-* We do not know the average wait time, but it's quite quick. It's more of a synchronous channel like what you'd expect of a chat. And there are escalation paths for chats that don't get responded to in X amount of time.
+<details>
+ <summary>How quick is the response time?</summary>
+We do not know the average wait time, but it's quite quick. It's more of a synchronous channel like what you'd expect of a chat. And there are escalation paths for chats that don't get responded to in X amount of time.
+</details>
 
-**Is VA Health chat totally independent of EHR?**
-* Yes - All VISNs have at least 1 HealthChat plan available, regardless of whether their EHR system is VistA or OH/Cerner. It is specific support per VISN, not per facility. 
+<details>
+ <summary>Is VA Health chat available for facilities on all EHR systems?</summary>
+Yes - All VISNs have at least 1 Health Chat plan available, regardless of whether their EHR system is VistA or OH/Cerner. It is specific support per VISN, not per facility. 
 
 **NOTE**: Not all channel types are available at all VISN locations. 
+</details>
 
 ## <a name="api-specs"></a>CirrusMD API specifications
 This is the service that supports the VA Health Chat. OCC point of contact is Hugo Padilla. 
