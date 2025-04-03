@@ -4,7 +4,7 @@ Last updated by @tygindraux on April 3, 2025
 
 Jump to:
 - [January to March](#january-to-march)
-- [April to May](#april-and-may)
+- [April and May](#april-and-may)
 
 ## January to March
 
@@ -62,7 +62,7 @@ Deliverables:
 
 ## April and May
 
-In addition to continuing to support a successful launch, here is a list of options for initiatives design can tackle through end of May.
+Here is a list of initiatives design could consider tackling through end of May. These need to be prioritized.
 
 1. Do research to understand and observe agent processes
 2. 
