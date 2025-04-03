@@ -50,15 +50,11 @@ Deliverables:
 - [Expected] Research report
 - [Expected] Strategy or documentation recommending next steps
 
-### Supporting product initiatives
+### Prepare a follow-up email to send after a question is closed
+Status: `In Progress`
 
-In addition, we also said design could support the following initiatives led by product.
-
-- Prepare a follow-up email to send after a question is closed
-- Co-define a product vision with partners
-- Set up a workflow for tracking and prioritizing business line requests
-- Design a Power BI re-routing report
-- Support CRM to re-design the primary Ask VA Power BI report
+Deliverables:
+- [In Progress] [Content for follow-up email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-02%20Follow-up%20email.md)
 
 ## What we could do next
 
