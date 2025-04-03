@@ -51,8 +51,8 @@ Deliverables:
 Status: `Not Started`
 
 Deliverables:
-- `Expected` Research report
-- `Expected` Strategy or documentation recommending next steps
+- `Not Started` Research report
+- `Not Started` Strategy or documentation recommending next steps
 
 ### Prepare a follow-up email to send after a question is closed
 Status: `In Progress`
@@ -64,7 +64,23 @@ Deliverables:
 
 ## April and May
 
-Here is a list of initiatives design could consider tackling through end of May. These need to be prioritized.
+Here is a list of initiatives design could consider tackling through end of May.
 
-1. Do research to understand and observe agent processes
-2. 
+> [!NOTE]
+> This list needs to be prioritized.
+
+|Initiative|Deliverable|
+|:--|:--|
+|Explore how to avoid sign in interruptions|UI designs ready to test|
+|Design a search feature for the dashboard|UI designs ready to test|
+|Re-design saved facility flow|UI designs ready to implement|
+|Design a standalone page for attachments|UI designs ready to implement|
+|Update confirmation page to confirm which team will receive a question based on routing queue|List of FE labels for routing queues, UI designs|
+|Inventory past and current issues with category and topics received from business lines and recommend updates|Updated category and topic labels|
+|Inventory CRM automated response templates and recommend updates|Updated set of templates|
+|Inventory business line response templates and recommend updates|Updated set of templates|
+|Explore whether we can remove SSN from the form|Strategy documentation, updated rules and UI designs ready to implement|
+|Explore whether we can remove Veteran identifying information in some scenarios|Strategy documentation, updated flows, rules and UI designs ready to implement|
+|Do research to understand and observe agent processes|Research report, strategy or documentation recommending next steps|
+|Build a case to remove the subject field from the form|Strategy documentation, updated rules and UI designs ready to implement|
+|Standardize statuses between submitters and agents|Strategy documentation, updated rules and UI designs ready to implement|
