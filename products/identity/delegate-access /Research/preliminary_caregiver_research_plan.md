@@ -57,7 +57,7 @@ We will use Perigean to recruit Veteran representatives who are representatives 
 
 ### Recruitment criteria
 
-15  for at least 12 completed sessions
+12 for at least 8 completed sessions
 
 **Primary criteria (must-haves)**
 All participants:
