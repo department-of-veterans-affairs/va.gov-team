@@ -4,7 +4,7 @@ Last updated by @tygindraux on April 3, 2025
 
 Jump to:
 - [January to March](#january-to-march)
-- [April to June](#april-to-june)
+- [April to May](#april-and-may)
 
 ## January to March
 
@@ -60,7 +60,7 @@ Status: `In Progress`
 Deliverables:
 - [In Progress] [Content for follow-up email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-02%20Follow-up%20email.md)
 
-## April to June
+## April and May
 
 In addition to continuing to support a successful launch, here is a list of options for initiatives design can tackle through end of May.
 
