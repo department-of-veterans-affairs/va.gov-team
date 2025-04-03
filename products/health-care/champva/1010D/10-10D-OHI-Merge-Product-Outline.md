@@ -1,7 +1,5 @@
 # 1010D & OHI Merge Product Outline
 
----
-
 ## Overview
 Applicants seeking CHAMPVA benefits must complete and submit VA Form 10-10d for benefits enrollment and VA Form 10-7959c for Other Health Insurance (OHI) certification separately. To enhance user experience and streamline operations, we propose merging these two forms into a single, cohesive digital application process.​
 
