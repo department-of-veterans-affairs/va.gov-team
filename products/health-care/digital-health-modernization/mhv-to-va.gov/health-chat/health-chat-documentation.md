@@ -9,7 +9,7 @@ The initial request to add this service as a link in the second column of links 
 
 ## On this page: 
 * [Teams & POCs involved](#teams)
-* [FAQs about VA Health Chat](#faq]
+* [FAQs about VA Health Chat](#faq)
 * [CirrusMD API specifications](#api-specs)
 * [MVP implementation of VA Health Chat on My HealtheVet on VA.gov](#mvp)
 * [Post-MVP ideas](#post-mvp)
