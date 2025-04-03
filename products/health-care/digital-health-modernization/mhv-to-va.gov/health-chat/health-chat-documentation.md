@@ -7,7 +7,7 @@ Information about the integration of VA Health Chat via the CirrusMD API onto My
 * [Teams & POCs involved](#teams)
 * [About](#faq)
 * [CirrusMD API specifications](#api-specs)
-* [MVP implementation of VA Health Chat on My HealtheVet on VA.gov](#mvp)
+* [MVP implementation](#mvp)
 * [Post-MVP ideas](#post-mvp)
 * [Notes](#notes)
 
@@ -75,8 +75,7 @@ Users must have:
 * Q: Can't tell from the spec how we specify which patient for which we're looking for VA Chat "plans." Or maybe patient identification is part of the authentication flow?
   * A: Yes, we ID the Veteran and therefore know which plans they should have access to and only present them the plans when they are available to the Veteran.     
 
-## <a name="mvp"></a>MVP implementation of VA Health Chat on My HealtheVet on VA.gov
-
+## <a name="mvp"></a>MVP implementation
 ### Connecting to CirrusMD API: 
 There is SSOe between VA.gov and the VA Health Chat web interface, which relies on a 3rd party API called the Cirrus MD API. The My HealtheVet on VA.gov landing page has a link to VA Health Chat which should deep-link users to the web interface and keep them signed in.
 
