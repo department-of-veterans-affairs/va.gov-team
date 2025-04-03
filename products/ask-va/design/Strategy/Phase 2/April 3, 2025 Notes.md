@@ -2,6 +2,10 @@
 
 Last updated by @tygindraux on April 3, 2025
 
+Jump to:
+- [January to March](#january-to-march)
+- [April to June](#april-to-june)
+
 ## January to March
 
 In January, we prioritized initiatives for design to focus on through end of March, in addition to supporting a successful launch on VA.gov.
