@@ -107,8 +107,8 @@ Fri | 9am - Noon, 1 - 5 pm
 
 Pilot Session | Time (EST)
 --------------|----------
- Aug 10 | 1:30pm
- Aug 11 | 3pm
+ April 10 | 1:30pm
+ April 11 | 3pm
 
 ## **Team Roles**
 
