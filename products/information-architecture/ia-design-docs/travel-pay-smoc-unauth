@@ -1,0 +1,87 @@
+# Unauthenticated entry points for Simple mileage-only claims - Draft
+**STATUS: [In progress]**
+ 
+**Team:** Travel Pay
+ 
+**CAIA Intake ticket:**  Issue 105846 
+ 
+**IA Tracker:** Issue 106183 
+ 
+**On this page:**
+- [Navigation/page flows](#flows)
+- [Page structure](#map)
+- [URLs and breadcrumbs](#url)
+- [Entry points](#nav)
+- [Redirets](#redirects)
+- [Search best bets](#bestbets)
+- [Launch coordination activities](#launch)
+ 
+ 
+## <a name="flows"></a>Navigation/page flows <br>
+*Illustration and/or description of how users will navigate to and flow through the experience for all impacted visitors typies. This helps identify key entry points and findability requirements, user flow scenarios, and content/messaging needs across various scenarios.*
+The Simple Mileage-only Claims feature will live in the authenticated MHV space on VA.gov. Unauthenticated pages will serve as entry points that link to it.
+
+No impact to IA
+
+## <a name="url"></a>Page URLs and breadcrumbs
+*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
+  
+**1) VA travel pay reimbursement - Existing**
+- URL: https://www.va.gov/health-care/file-travel-pay-reimbursement/
+- Desktop breadcrumb: VA.gov home >  Health care > File travel pay reimbursement
+- Notes: No impact
+ 
+**2) Reimbursed VA travel expenses and mileage rate- Existing**
+- URL: https://www.va.gov/resources/reimbursed-va-travel-expenses-and-mileage-rate/
+- Breadcrumb: VA.gov > Resources and Support > [Reimbursed VA Travel Expenses and Mileage Rate
+- Notes: Resources & support page
+ 
+**3) How to set up direct deposit for VA travel pay reimbursement- Existing**
+- URL: https://www.va.gov/resources/how-to-set-up-direct-deposit-for-va-travel-pay-reimbursement/ 
+- Breadcrumb: VA.gov > Resources and Support > How to Set Up Direct Deposit for VA Travel Pay Reimbursement
+- Notes: Resources & support page
+ 
+**4) How to file a VA travel reimbursement claim online- Existing**
+- URL: https://www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/
+- Breadcrumb: VA.gov > Resources and Support >How to File a VA Travel Reimbursement Claim Online
+- Notes: Resources & support page
+ 
+ 
+## <a name="nav"></a>Entry points <br>
+ 
+Teams must launch with at least one entry point that allows site visitors to navigate to the new content or feature. 
+ 
+### Required entry point(s) for launch
+ 
+Content will determine where the tool should be cross-linked from but there's no impact to menus in the Health Care hub.
+This entry point already exists but will need to update the navigation labels in the left nav and universal nav
+
+ ****
+  - Placement description: Breadcrumb
+  - Link details
+    - Link label: File travel pay reimbursement
+    - Link destination: https://www.va.gov/health-care/file-travel-pay-reimbursement/
+  - Notes:
+    - Who will update (IA, content, product team): IA
+    - When will this entry point go live (at launch? After staged rollout? after some designated time?): Can go live now
+ 
+### Additional key entry points
+_Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
+ 
+ 
+##  <a name="redirects"></a>Redirects <br>
+*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience.* 
+ 
+**For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=redirect-request.md) at least 2 weeks in advance.**  
+ 
+None
+ 
+## <a name="bestbets"></a>Search best bets
+*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find key content and features that are not ranking search well or competing with similar pages in search results. Existing best bets must be removed or updated when links/URLs change.*
+
+TBD
+ 
+ 
+<hr>
+<hr>
+
