@@ -23,9 +23,14 @@ You can currently reach Ask VA at [ask.va.gov](https://ask.va.gov/). By end of M
 |Program manager|Megan Siddle|megan.siddle@oddball.io|
 |Product manager|Ariel Martinez|ariel.martinez@thoughtworks.com|
 |Lead engineer|Joseph Hall|joe.hall@thoughtworks.com|
-|Frontned engineer|Eddie Otero|eddie.otero@oddball.io|
-|Frontned engineer|Hemesh Patel|hemesh.patel@docme360.com|
+|Frontend engineer|Eddie Otero|eddie.otero@oddball.io|
+|Frontend engineer|Dev Govindji|dev.govindji@docme360.com|
 |Backend engineer|Khoa Nguyen|khoa.nguyen@oddball.io|
-|Data engineer (part-time)|Jacob Cheriathundam|jacob@docme360.com|
 |UX designer|Thomas Michaud|thomas.michaud@oddball.io|
-|UX researcher & Designer|Tyler Gindraux|tyler@bluetiger.digital|
+|UX researcher & designer|Tyler Gindraux|tyler@bluetiger.digital|
+
+### Previous teammates
+|Role|Assigned|Contact|
+|:---|:---|:---|
+|Data engineer|Jacob Cheriathundam|jacob@docme360.com|
+|Frontend engineer|Hemesh Patel|hemesh.patel@docme360.com|
