@@ -1,4 +1,3 @@
-
 # Release Plan: AVA phase 1
 
 ### Approach 
@@ -114,10 +113,11 @@ Targeting Launch March 18-25th
 * Who is monitoring the dashboard(s)?: 
 	- Ask VA development team
 
-| Stage              | Throughput | Error Rate: Form Submissions| Error Rate: Dashboard replies| Latency: vet-api| Latency: CRM |
-| ------------------ | ---------- | --------------------------- | ---------------------------- | --------------- | -------------|
-| Canary (Mar 27)  |      33    |           0%                |             0%               |                 | AVG 2.8s
-| A: 25% of Traffic (Mar 28- Apr 1st)|   338      |            4.1%                  |       0%                |                 | AVG 3.7s
-| B: 50% of Traffic  |    204       |        3.3%               |       0%                    |   AVG 3.3s      | AVG 3.4s
-| C: 75% of Traffic  |            |                   |                        |         |
-| D: 100% of Traffic |            |                   |                        |         |
+| Stage                                                   | Throughput | Error Rate: Form Submissions | Error Rate: Dashboard replies | Latency: vet-api | Latency: CRM |
+| ------------------------------------------------------- | ---------- | ---------------------------- | ----------------------------- | ---------------- | ------------ |
+| Canary - 10%<br>(Mar 27, 2:34pm - Mar 28, 10:46am)      | 36         | 0%                           | 0%                            |                  | AVG 2.7s     |
+| A: 25% of Traffic <br>(Mar 28, 10:47am - Apr 1, 1:35pm) | 391        | 10.2%                        | 0%                            |                  | AVG 3.8s     |
+| B: 50% of Traffic <br>(Apr 1, 1:36pm - Apr 3, 9:00am)   | 453        | 0%                           | 0%                            |                  | AVG 3.3s     |
+| C: 75% of Traffic                                       |            |                              |                               |                  |              |
+| D: 100% of Traffic                                      |            |                              |                               |                  |              |
+All times are in Eastern.
