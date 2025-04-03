@@ -64,23 +64,22 @@ Deliverables:
 
 ## April and May
 
-Here is a list of initiatives design could consider tackling through end of May.
+Here is a list of potential initiatives design could work on through end of May.
 
 > [!NOTE]
-> This list needs to be prioritized.
+> This list needs to be prioritized. It's in no particular order.
 
-|Initiative|Deliverable|
-|:--|:--|
-|Explore how to avoid sign in interruptions|UI designs ready to test|
-|Design a search feature for the dashboard|UI designs ready to test|
-|Re-design saved facility flow|UI designs ready to implement|
-|Design a standalone page for attachments|UI designs ready to implement|
-|Update confirmation page to confirm which team will receive a question based on routing queue|List of FE labels for routing queues, UI designs|
-|Inventory past and current issues with category and topics received from business lines and recommend updates|Updated category and topic labels|
-|Inventory CRM automated response templates and recommend updates|Updated set of templates|
-|Inventory business line response templates and recommend updates|Updated set of templates|
-|Explore whether we can remove SSN from the form|Strategy documentation, updated rules and UI designs ready to implement|
-|Explore whether we can remove Veteran identifying information in some scenarios|Strategy documentation, updated flows, rules and UI designs ready to implement|
-|Do research to understand and observe agent processes|Research report, strategy or documentation recommending next steps|
-|Build a case to remove the subject field from the form|Strategy documentation, updated rules and UI designs ready to implement|
-|Standardize statuses between submitters and agents|Strategy documentation, updated rules and UI designs ready to implement|
+- Explore how to avoid sign in interruptions
+- Design a search feature for the dashboard
+- Re-design saved facility flow
+- Design a standalone page for attachments
+- Update confirmation page to confirm which team will receive a question based on routing queue
+- Inventory past and current issues with category and topics received from business lines and recommend updates
+- Inventory CRM automated response templates and recommend updates
+- Inventory business line response templates and recommend updates
+- Investigate whether we can remove SSN from the form
+- Investigate whether we can remove Veteran identifying information in some scenarios
+- Do research to understand and observe agent processes
+- Exercise with agents to understand which fields are necessary
+- Build a case to remove the subject field from the form
+- Standardize statuses between submitters and agents
