@@ -53,7 +53,7 @@ Learn about the process of how caregivers are able to complete various tasks and
 
 ### Recruitment approach
 
-We will use Perigean to recruit Veteran representatives who deal with access to healthcare benefits for this moderated study. 
+We will use Perigean to recruit Veteran representatives who are representatives for Veterans that require assistance with accessing their healthcare benefits  for this moderated study. 
 
 ### Recruitment criteria
 
