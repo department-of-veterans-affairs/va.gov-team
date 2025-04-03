@@ -15,6 +15,12 @@ VA Health Chat is intended to respond to patient questions in the following four
 ### Is VA Health Chat available 24/7? 
 No. Each VISN has its own individual operating hours, and individual chat services that are provided based on topics. The CirrusMD API has the availability logic and it is our understanding that onlyl VISNs that are open for chat during hours will display to users within the VA Health Chat web interface. There is a goal for all VA Health Chat services to be 24/7 but the VA is not there yet. 
 
+### How quick is the response time? 
+We do not know the average wait time, but it's quite quick. It's more of a synchronous channel like what you'd expect of a chat. And there are escalation paths for chats that don't get responded to in X amount of time.
+
+### Is VA Health chat totally independent of EHR (is it in place for both OH/Cerner facilities and VistA facilities)?
+Yes - All VISNs have at least 1 HealthChat plan available. It is specific support per VISN, not per facility. 
+
 ## CirrusMD API specificaitons
 This is the service that supports the VA Health Chat. OCC point of contact is Hugo Padilla. 
 
@@ -62,6 +68,8 @@ There is SSOe between VA.gov and the VA Health Chat web interface, which relies 
 * Initially, OCTO was concerned about surfacing the VA Health Chat link to all users, regardless of whether the service was available to them (based on their associated VISN) or the service's operational hours. A suggested compromise at the time was to build out an interstitial page interstitial page on va.gov (i.e. va.gov/my-health/about-va-health-chat or something) that explains what health chat is and that it might not be available at the moment (if after hours) or at all (if not available in VISN/site).
 * We eventually moved away from the interstitial idea, but there is not clear documentation that was saved about why that decision was made. 
 
+**Implications to a user's medical records:**
+* If a chat conversation gets sent to a clinical provider, that conversation will be added to the patient's medical record as a note. We believe it would be a "progress note" specifically, but need to confirm with Hugo. 
 
 
 **Should we conditionally reveal access to VA Health Chat based on availability of service?**
