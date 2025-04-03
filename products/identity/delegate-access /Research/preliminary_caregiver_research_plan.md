@@ -26,24 +26,19 @@ Learn about the process of how caregivers are able to complete various tasks and
 
 ### **Research questions**
   
-- How do caregivers and Veterans learn about the forms and process required to get started?
-  - What in-person interactions were necessary to complete the process?
-- Do caregivers and Veterans know how to offboard or remove the caregiving relationship?
-- How is a delegate currently authorized and designated as a caregiver?  
-- How might a Veteran assign permissions for a caregiver? For what period of time is the designation active? 
 - Through what mechanisms does the caregiver undergo to complete actions on behalf of the Veteran?
   - Is the caregiver given digital access?
-- what actions do caregivers need the most when helping a Veteran?
+- What functions do caregivers do on behalf of the Veteran most frequently?
+- How is a delegate currently authorized and designated as a caregiver?  What actions must the Veteran take?
+- How might a Veteran assign permissions for a caregiver? For what period of time is the designation active?
 
 ### **Hypotheses**
 
-- H1: A Veteran must file form(s) with the VA in order to designate a caregiver to act on their behalf.
-- H2: Veterans can designate specific permissions that caregivers may have.  
-- H3: There is a standardized practice at the VA for granting caregiver access at the VA.
-- H4: Caregivers do not currently have access to digitally complete actions on behalf of the Veteran they are caring for.
-- H5: Caregivers have a desire to leverage digital tools to complete actions on behalf of Veterans.
-- H6: Non-digital mechanisms for accessing healthcare beneifts are difficult to maneuver.
-- H7: With the deprecation of MHV, there is a gap for representatives/caregivers to digitally monitor and complete actions for Veterans in their care.
+- H1: Veterans can designate specific permissions that caregivers may have.
+- H2: Caregivers do not currently have access to digitally complete actions on behalf of the Veteran they are caring for.
+- H3: Caregivers have a desire to leverage digital tools to complete actions on behalf of Veterans.
+- H4: Non-digital mechanisms for accessing healthcare benefits are difficult to maneuver.
+- H5: With the deprecation of MHV, there has been a significant roadblock for representatives/caregivers to digitally monitor and complete actions for Veterans in their care.
   
 ## **Methodology**
 
