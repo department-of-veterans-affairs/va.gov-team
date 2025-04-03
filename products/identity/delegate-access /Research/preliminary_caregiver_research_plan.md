@@ -37,12 +37,13 @@ Learn about the process of how caregivers are able to complete various tasks and
 
 ### **Hypotheses**
 
-- H1: A Veteran must file form(s) with the VA in order to designate a caregive to act on their behalf.
+- H1: A Veteran must file form(s) with the VA in order to designate a caregiver to act on their behalf.
 - H2: Veterans can designate specific permissions that caregivers may have.  
 - H3: There is a standardized practice at the VA for granting caregiver access at the VA.
 - H4: Caregivers do not currently have access to digitally complete actions on behalf of the Veteran they are caring for.
-- H5: Caregivers want access to a Veteran's online account
-- H6: Access to a Veteran's account would make caregiving easier
+- H5: Caregivers have a desire to leverage digital tools to complete actions on behalf of Veterans.
+- H6: Non-digital mechanisms for accessing healthcare beneifts are difficult to maneuver.
+- H7: With the deprecation of MHV, there is a gap for representatives/caregivers to digitally monitor and complete actions for Veterans in their care.
   
 ## **Methodology**
 
@@ -73,7 +74,6 @@ We will be speaking to known caregivers since they have been historically hard t
   * samara.strauss@  (full email not included here)
   * thomas.black2@   (full email not included here)
 
-    
 
 ## Reviewers
 
