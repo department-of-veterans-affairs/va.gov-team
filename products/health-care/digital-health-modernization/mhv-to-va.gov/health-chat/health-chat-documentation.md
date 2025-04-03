@@ -18,7 +18,7 @@ The MVP approach was attempted in August 2024, but teams ran into significant is
 
 ## <a name="resources"></a>Resources
 * [VA Health Chat app website](https://mobile.va.gov/app/va-health-chat)
-* [VA Health Chat - PDF overview](https://mobile.va.gov/sites/default/files/documents/hopat1994-va-health-chat-at-a-glance-508_final-1.pdf)
+* [VA Health Chat "At a glance"](https://mobile.va.gov/sites/default/files/documents/hopat1994-va-health-chat-at-a-glance-508_final-1.pdf)(PDF)
 * API specifications (must be on VA network to view)
 
 ## <a name="teams"></a>Teams & POCs involved
