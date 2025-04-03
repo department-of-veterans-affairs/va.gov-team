@@ -1,5 +1,4 @@
-# Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
+# 1010D & OHI Merge Product Outline
 
 ---
 
