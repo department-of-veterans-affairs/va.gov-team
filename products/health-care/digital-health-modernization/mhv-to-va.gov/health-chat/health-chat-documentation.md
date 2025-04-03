@@ -29,7 +29,7 @@ The initial request to add this service as a link in the second column of links 
   * Virtual Clinic Visit (Urgent Care)
   * Clinical Triage
   * Scheduling and Administration
-  * Pharmacy
+  * Pharmacy Support
 
 **Is VA Health Chat available 24/7?** 
 * No. Each VISN has its own individual operating hours, and individual chat services that are provided based on topics. The CirrusMD API has the availability logic and it is our understanding that onlyl VISNs that are open for chat during hours will display to users within the VA Health Chat web interface. There is a goal for all VA Health Chat services to be 24/7 but the VA is not there yet. 
@@ -39,18 +39,6 @@ The initial request to add this service as a link in the second column of links 
 
 **Is VA Health chat totally independent of EHR?**
 * Yes - All VISNs have at least 1 HealthChat plan available, regardless of whether their EHR system is VistA or OH/Cerner. It is specific support per VISN, not per facility. 
-
-**Changes coming to VA Health Chat in 2024: **
-* Channel name changes that will go into effect: 
-  * Nursing will be known as "Clinical Triage"
-  * Pharmacy will be known as "Pharmacy Support"
-  * Admin/Scheduling will be known as "Scheduling and Administration"
-  * Urgent Care will be known as Virtual Clinic Visit (Urgent Care)"
-
-* Channel name changes that will stay the same: 
-  * Community care
-  * Whole health
-  * Women's health
 
 **NOTE**: Not all channel types are available at all VISN locations. 
 
