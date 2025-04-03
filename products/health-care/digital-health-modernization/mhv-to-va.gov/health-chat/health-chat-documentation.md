@@ -1,13 +1,9 @@
 # VA Health Chat Documentation
 Information about the integration of VA Health Chat via the CirrusMD API onto My HealtheVet on VA.gov. 
 
-The initial request to add this service as a link in the second column of links at the bottom of the My HealtheVet on VA.gov landing page came on June 21, 2024. An MVP was added on __________. 
-
-## Resources
-* [VA Health Chat app website](https://mobile.va.gov/app/va-health-chat)
-* [VA Health Chat - PDF overview](https://mobile.va.gov/sites/default/files/documents/hopat1994-va-health-chat-at-a-glance-508_final-1.pdf)
-
 ## On this page: 
+* [Executive Summary](#es)
+* [Resources](#resources)
 * [Teams & POCs involved](#teams)
 * [About](#faq)
 * [CirrusMD API specifications](#api-specs)
@@ -15,7 +11,15 @@ The initial request to add this service as a link in the second column of links 
 * [Post-MVP ideas](#post-mvp)
 * [Notes](#notes)
 
-## <a name="teams"></a>Teams involved
+## <a name="es"></a>Executive Summary
+The initial request to add this service as a link in the second column of links at the bottom of the My HealtheVet on VA.gov landing page came on June 21, 2024. An MVP approach was attempted in August 2024, but teams ran into significant issues with SSOe from VA.gov to Health Chat via the Cirrus MD API. Analytics were set up to monitor the frequency of failed calls. After some trouble-shooting and an incremental release, the link was made available to 100% of users on November 7, 2024.  
+
+## <a name="resources"></a>Resources
+* [VA Health Chat app website](https://mobile.va.gov/app/va-health-chat)
+* [VA Health Chat - PDF overview](https://mobile.va.gov/sites/default/files/documents/hopat1994-va-health-chat-at-a-glance-508_final-1.pdf)
+* API specifications (must be on VA network to view)
+
+## <a name="teams"></a>Teams & POCs involved
 * OCC - Hugo Padilla
 * OCTO - Kaitlin Fink, Patrick Bateman
 * MHV on VA.gov Cartography Team
