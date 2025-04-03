@@ -76,7 +76,7 @@ Deliverables:
 
 ## April and May
 
-We have prioritized the following initiatives for design to focus on through end of May.
+We have prioritized the following design-led initiatives to focus on through end of May.
 
 > [!NOTE]
 > This list needs to be prioritized. It will be added here.
