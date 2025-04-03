@@ -15,7 +15,7 @@ In January, we prioritized product- and design-led [initiatives](https://github.
 |:--|:--|
 |`High`|`Done`|
 
-Deliverables:
+#### Deliverables
 - [Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2025%20Automation%20concept%20testing/Findings.md)
 - [Strategy: Category and topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-03%20Design%20strategy%3A%20Categories%2C%20topics%20and%20subtopics%20in%20Phase%202.md)
 - [Strategy: Surfacing helpful links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-03%20Design%20strategy%3A%20Recommend%20helpful%20links%20in%20Phase%202.md)
@@ -26,7 +26,7 @@ Deliverables:
 |:--|:--|
 |`High`|`Done`|
 
-Deliverables:
+#### Deliverables
 - [Exploration: Category select menu with descriptions](https://www.figma.com/design/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Phase-II-exploration?node-id=315-10165)
 - [Exploration: Homepage with categories](https://www.figma.com/design/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Phase-II-exploration?node-id=260-81417)
 - [Exploration: Removing topics by adding descriptions to categories](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1741702340480/288cfc4797e474c383fb24421fa7a6588f2d7779?wid=0-1741982819112)
@@ -37,7 +37,7 @@ Deliverables:
 |:--|:--|
 |`High`|`Done`|
 
-Deliverables:
+#### Deliverables
 - [Compare Ask VA to contact experiences on other websites](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20contact%20experiences%20on%20other%20websites.md)
 - [Compare Ask VA to other support channels on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Compare%20Ask%20VA%20to%20other%20support%20channels%20on%20VA.gov.md)
 
@@ -46,7 +46,7 @@ Deliverables:
 |:--|:--|
 |`Mid`|`Done`|
 
-Deliverables:
+#### Deliverables
 - [Update to 'Tell us about yourself'](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=240-49159)
 - [Update to 'Address validation'](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1411-282221&t=ERdw3sy1L0TyH6vV-4)
 - [Update to 'Category, topic and subtopic'](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=7191-80732)
@@ -60,7 +60,7 @@ Deliverables:
 |:--|:--|
 |`Mid`|`Not Started`|
 
-Deliverables:
+#### Deliverables
 - `Not Started` Research report
 - `Not Started` Strategy or documentation recommending next steps
 
@@ -69,9 +69,10 @@ Deliverables:
 |:--|:--|
 |`Mid`|`In Progress`|
 
-Note: This is blocked by a CRM dependency and may not require anymore design support.
+> [!NOTE]
+> This is currently blocked by a CRM dependency and will likely not require any further design support.
 
-Deliverables:
+#### Deliverables
 - `In Progress` [Content for follow-up email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-02%20Follow-up%20email.md)
 
 ## April and May
