@@ -8,7 +8,7 @@ Jump to:
 
 ## January to March
 
-In January, we prioritized [initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Phase%202%3A%20Initiatives.md) to focus on through end of March, in addition to launching successfully on VA.gov. The following is a summary of the design initiatives and their current statuses.
+In January, we prioritized [initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Phase%202%3A%20Initiatives.md) to focus on through end of March, in addition to launching successfully on VA.gov. Here's an update on the status of each design initiative.
 
 ### Test concepts with submitters that involve automation
 Status: `DONE`
