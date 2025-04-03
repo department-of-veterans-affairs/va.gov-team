@@ -68,7 +68,8 @@ There is SSOe between VA.gov and the VA Health Chat web interface, which relies 
 
 **Design plans:**
 * Initially, OCTO was concerned about surfacing the VA Health Chat link to all users, regardless of whether the service was available to them (based on their associated VISN) or the service's operational hours. A suggested compromise at the time was to build out an interstitial page interstitial page on va.gov (i.e. va.gov/my-health/about-va-health-chat or something) that explains what health chat is and that it might not be available at the moment (if after hours) or at all (if not available in VISN/site).
-* We eventually moved away from the interstitial idea, but there is not clear documentation that was saved about why that decision was made. 
+* We eventually moved away from the interstitial idea, but there is not clear documentation that was saved about why that decision was made.
+* Kaitlin Fink shared on 6/21/2024 that other tools will be adding it VA Health Chat in context when it makes sense, starting with appointments. As of April 2025, Cartography is unsure if an integration within appointments happened - we are reaching out to get information about that. 
 
 **Implications to a user's medical records:**
 * If a chat conversation gets sent to a clinical provider, that conversation will be added to the patient's medical record as a note. We believe it would be a "progress note" specifically, but need to confirm with Hugo. 
