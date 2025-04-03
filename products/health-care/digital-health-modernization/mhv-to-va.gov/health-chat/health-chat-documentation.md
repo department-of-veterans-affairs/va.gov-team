@@ -59,7 +59,6 @@ Yes - All VISNs have at least 1 Health Chat plan available, regardless of whethe
 </details>
 
 ## <a name="api-specs"></a>CirrusMD API specifications
-This is the service that supports the VA Health Chat. OCC point of contact is Hugo Padilla. 
 
 ### What are access requirements? 
 Users must have:
