@@ -3,6 +3,11 @@ Information about the integration of VA Health Chat via the CirrusMD API onto My
 
 The initial request to add this service as a link in the second column of links at the bottom of the My HealtheVet on VA.gov landing page came on June 21, 2024. An MVP was added on __________. 
 
+## Resources
+* [VA Health Chat app website](https://mobile.va.gov/app/va-health-chat)
+* [VA Health Chat - PDF overview](https://mobile.va.gov/sites/default/files/documents/hopat1994-va-health-chat-at-a-glance-508_final-1.pdf)
+* 
+
 ## Background
 ### What is VA Health Chat?
 The VA Health Chat app is a service that connects Veterans with VA health care professionals through text-based chat messaging. Unlike Secure Messages, it **does not** connect them with their provider, but with a professional assigned to their associated Veteran Integrated Service Network (VISN) (these are the parent networks that each healthcare facility rolls up to geographically). The VA has 18 VISNs across the country, including in U.S. territories. All 18 have VA Health Chat implemented, but it is not yet available in some parts of VISN 16. 
@@ -22,6 +27,21 @@ We do not know the average wait time, but it's quite quick. It's more of a synch
 
 ### Is VA Health chat totally independent of EHR (is it in place for both OH/Cerner facilities and VistA facilities)?
 Yes - All VISNs have at least 1 HealthChat plan available. It is specific support per VISN, not per facility. 
+
+### Changes coming to VA Health Chat in 2024: 
+Channel name changes that will go into effect: 
+* Nursing will be known as "Clinical Triage"
+* Pharmacy will be known as "Pharmacy Support"
+* Admin/Scheduling will be known as "Scheduling and Administration"
+* Urgent Care will be known as Virtual Clinic Visit (Urgent Care)"
+
+Channel name changes that will stay the same: 
+* Community care
+* Whole health
+* Women's health
+
+NOTE: Not all channel types are available at all VISN locations. 
+
 
 ## CirrusMD API specificaitons
 This is the service that supports the VA Health Chat. OCC point of contact is Hugo Padilla. 
@@ -58,9 +78,18 @@ There is SSOe between VA.gov and the VA Health Chat web interface, which relies 
 ### What information we get from the API to determine eligibility and hours?
 
 ## Post-MVP ideas: 
-* Enhance design beyond just a link on the bottom of the MHV on VA.gov landing page. Instead, a widget somewhere on the page for the VA health chat could provide more context and "smarter" information that shows the user which chat services are available and/or lets users know when it isn’t available.
-* Add in facility conditionality. we know exactly what facilities don't offer health chat. we know what facilities the user is registered. use a hard coded facility disallow list to hide the health chat link for users who won't ever have access.
-* Assuming health chat availability API is not yet ready for us, we do discovery on using our own appointments list integration as a basis for the 36 month eligibility window. (Patrick says - also remember the stakes here: if a patient accidentally gets through to health chat and didn't have an appointment in the last 36 months, is that a real problem?)
+**Improvements to implementation on My HealtheVet on VA.gov landing page:** 
+* **Design**
+  * Instead of only surfacing a hyperlink at the bottom of this page, build a widget that provides more context and "smarter" personaslized information that shows the user which chat services are available for their VISNs and/or lets users know when it isn’t available.
+* **Engineering**
+  * Add in facility conditionality - we know exactly what facilities don't offer health chat. We know what facilities the user is registered. Use a hard coded facility disallow list to hide the health chat link for users who won't ever have access.
+  * Assuming health chat availability API is not yet ready for us, we do discovery on using our own appointments list integration as a basis for the 36 month eligibility window. (Patrick says - also remember the stakes here: if a patient accidentally gets through to health chat and didn't have an appointment in the last 36 months, is that a real problem?)
+
+**Scale to other places:** 
+* Consider links from the Rx Refill & apointments user flows
+* Consider integrating with IVC "How to get care" function
+* Consider how this fits into the "Contact us" landscape on VA.gov
+* Consider integration with VAHB mobile app. 
 
 ## Notes / Conversations about implementation from 2024: 
 **Accessibility notes:**
@@ -72,8 +101,9 @@ There is SSOe between VA.gov and the VA Health Chat web interface, which relies 
 * Kaitlin Fink shared on 6/21/2024 that other tools will be adding it VA Health Chat in context when it makes sense, starting with appointments. As of April 2025, Cartography is unsure if an integration within appointments happened - we are reaching out to get information about that. 
 
 **Implications to a user's medical records:**
-* If a chat conversation gets sent to a clinical provider, that conversation will be added to the patient's medical record as a note. We believe it would be a "progress note" specifically, but need to confirm with Hugo. 
-
+* If a chat conversation gets sent to a clinical provider, that conversation will be added to the patient's medical record as a note. We believe it would be a "progress note" specifically.
+* In Health chat, provide the staff a note template and then copy and paste this into CPRS (part of a veterans medical record)
+* For Pharmacy, a note gets sent to the care team if a Veteran requests a presription renewal (same as if you call in to chat with a triage team).
 
 **Should we conditionally reveal access to VA Health Chat based on availability of service?**
   * We see downfalls to this approach on UX side - there is a risk of confusing users who sign in looking for the link, but sometimes find that it is randomly missing during certain times of the day. We'd need a more robust design to clarify that the service is down (not just exposing vs. taking a way a hyperlink) 
