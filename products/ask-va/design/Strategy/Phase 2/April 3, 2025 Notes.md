@@ -14,6 +14,8 @@ In January, we prioritized initiatives for design to work on through end of Marc
 |Update designs to use new VA Design System patterns|Done|
 |Do research to understand and observe agent processes|Not Started|
 
+### Supporting product initiatives
+
 In addition, we also said design could support the following initiatives led by product.
 
 |Initiative|Status|
@@ -23,3 +25,5 @@ In addition, we also said design could support the following initiatives led by 
 |Set up a workflow for tracking and prioritizing business line requests|Not Started|
 |Design a Power BI re-routing report|Not Started|
 |Support CRM to re-design the primary Ask VA Power BI report|Not Started|
+
+## What we could do next
