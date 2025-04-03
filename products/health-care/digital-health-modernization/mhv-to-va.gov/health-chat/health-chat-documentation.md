@@ -9,7 +9,7 @@ The initial request to add this service as a link in the second column of links 
 
 ## On this page: 
 * [Teams & POCs involved](#teams)
-* [FAQs about VA Health Chat](#faq)
+* [About](#faq)
 * [CirrusMD API specifications](#api-specs)
 * [MVP implementation of VA Health Chat on My HealtheVet on VA.gov](#mvp)
 * [Post-MVP ideas](#post-mvp)
@@ -20,7 +20,7 @@ The initial request to add this service as a link in the second column of links 
 * OCTO - Kaitlin Fink, Patrick Bateman
 * MHV on VA.gov Cartography Team
 
-## <a name="faq"></a>FAQs about VA Health Chat
+## <a name="faq"></a>About
 **What is VA Health Chat?**
 * The VA Health Chat app is a service that connects Veterans with VA health care professionals through text-based chat messaging. Unlike Secure Messages, it **does not** connect them with their provider, but with a professional assigned to their associated Veteran Integrated Service Network (VISN) (these are the parent networks that each healthcare facility rolls up to geographically). The VA has 18 VISNs across the country, including in U.S. territories. All 18 have VA Health Chat implemented, but it is not yet available in some parts of VISN 16. 
 
@@ -40,21 +40,19 @@ I’m * VA Health Chat is intended to respond to patient questions in the follow
 **Is VA Health chat totally independent of EHR?**
 * Yes - All VISNs have at least 1 HealthChat plan available, regardless of whether their EHR system is VistA or OH/Cerner. It is specific support per VISN, not per facility. 
 
-### Changes coming to VA Health Chat in 2024: 
-Channel name changes that will go into effect: 
-* Nursing will be known as "Clinical Triage"
-* Pharmacy will be known as "Pharmacy Support"
-* Admin/Scheduling will be known as "Scheduling and Administration"
-* Urgent Care will be known as Virtual Clinic Visit (Urgent Care)"
+**Changes coming to VA Health Chat in 2024: **
+* Channel name changes that will go into effect: 
+  * Nursing will be known as "Clinical Triage"
+  * Pharmacy will be known as "Pharmacy Support"
+  * Admin/Scheduling will be known as "Scheduling and Administration"
+  * Urgent Care will be known as Virtual Clinic Visit (Urgent Care)"
 
-Channel name changes that will stay the same: 
-* Community care
-* Whole health
-* Women's health
+* Channel name changes that will stay the same: 
+  * Community care
+  * Whole health
+  * Women's health
 
-NOTE: Not all channel types are available at all VISN locations. 
-
-
+**NOTE**: Not all channel types are available at all VISN locations. 
 
 ## <a name="api-specs"></a>CirrusMD API specifications
 This is the service that supports the VA Health Chat. OCC point of contact is Hugo Padilla. 
