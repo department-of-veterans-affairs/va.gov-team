@@ -1,0 +1,78 @@
+# VA Health Chat Documentation
+My HealtheVet on VA.gov information about the integration of VA Health Chat via the CirrusMD API.
+
+## Background
+### What is VA Health Chat?
+The VA Health Chat app is a service that connects Veterans with VA health care professionals through text-based chat messaging. Unlike Secure Messages, it **does not** connect them with their provider, but with a professional assigned to their associated Veteran Integrated Service Network (VISN) (these are the parent networks that each healthcare facility rolls up to geographically). The VA has 18 VISNs across the country, including in U.S. territories. All 18 have VA Health Chat implemented, but it is not yet available in some parts of VISN 16. 
+
+### What kinds of topics can VA Health Chat help with?
+VA Health Chat is intended to respond to patient questions in the following four categories. **Not** all VISNs support all 4 options as of July 2024: 
+* Virtual Clinic Visit (Urgent Care)
+* Clinical Triage
+* Scheduling and Administration
+* Pharmacy
+
+### Is VA Health Chat available 24/7? 
+No. Each VISN has its own individual operating hours, and individual chat services that are provided based on topics. The CirrusMD API has the availability logic and it is our understanding that onlyl VISNs that are open for chat during hours will display to users within the VA Health Chat web interface. There is a goal for all VA Health Chat services to be 24/7 but the VA is not there yet. 
+
+## CirrusMD API specificaitons
+This is the service that supports the VA Health Chat. OCC point of contact is Hugo Padilla. 
+
+### What are access requirements? 
+Users must have:
+* an ID-verified credential
+* have 1+ facilities in their profile that belong to a VISN using the VA Health Chat service
+* Have had an appointment within the last 36 months
+* Be actively enrolled in VA health care via the VES-API
+
+**Q&A about Cirrus MD API with Hugo Padilla, OCC:**
+* Q: The API specifications suggests that with proper authorization and parameters, we can get a list of VA Chat services ("plans") returned that are available to the particular patient. Is this accurate? 
+  * A: Yes
+* Q: The call defined in the spec requires token-based authentication. Any idea if that is a static token or would we need to go through an oauth-style flow of providing a client secret, getting a scoped token/JWT back, and supplying that token with the request?
+  * A: Yes, it's an oauth style flow
+* Q: Can't tell from the spec how we specify which patient for which we're looking for VA Chat "plans." Or maybe patient identification is part of the authentication flow?
+  * A: Yes, we ID the Veteran and therefore know which plans they should have access to and only present them the plans when they are available to the Veteran.     
+
+
+## Integration of service on MHV on VA.gov:
+
+### Connecting to CirrusMD API: 
+There is SSOe between VA.gov and the VA Health Chat web interface, which relies on a 3rd party API called the Cirrus MD API. The My HealtheVet on VA.gov landing page has a link to VA Health Chat which should deep-link users to the web interface and keep them signed in.
+
+
+### Data sources to determine access requirements: 
+* up to date VISN data might be available via the lighthouse facilities API, which is reachable via existing vets-api integration. details in docs.
+* since this data doesn't change super often, if we think we'll migrate soon-ish to just calling health chat to get eligibility directly, could probably just hardcode a mapping of facilities to VISNs in the FE or BE.
+* it's never going to be perfect because inevitably a patient will be registered in multiple VISNs because of moving around, and will want to access health chat in their current VISN, which doesn't have it, but their old VISNs do.
+
+### MVP Design
+
+### What information we get from the API to determine eligibility and hours?
+
+## Post-MVP ideas: 
+* Enhance design beyond just a link on the bottom of the MHV on VA.gov landing page. Instead, a widget somewhere on the page for the VA health chat could provide more context and "smarter" information that shows the user which chat services are available and/or lets users know when it isn’t available.
+* Add in facility conditionality. we know exactly what facilities don't offer health chat. we know what facilities the user is registered. use a hard coded facility disallow list to hide the health chat link for users who won't ever have access.
+* Assuming health chat availability API is not yet ready for us, we do discovery on using our own appointments list integration as a basis for the 36 month eligibility window. (Patrick says - also remember the stakes here: if a patient accidentally gets through to health chat and didn't have an appointment in the last 36 months, is that a real problem?)
+
+## Notes / Conversations about implementation from 2024: 
+Accessibility notes: 
+* on 07/22/2024 -  Martha Wilkes said that Health Chat has not been audited by 508 office yet, and since it's a non-OCTO service, our accessibility specialists can't do much. Kaitlin Fink says it's on the Health Chat teams' radar & once full FedRAMP marketplace designation is achieved they will ask for a full 508 audit.
+
+Design plans: 
+* Initially, OCTO was concerned about surfacing the VA Health Chat link to all users, regardless of whether the service was available to them (based on their associated VISN) or the service's operational hours. A suggested compromise at the time was to build out an interstitial page interstitial page on va.gov (i.e. va.gov/my-health/about-va-health-chat or something) that explains what health chat is and that it might not be available at the moment (if after hours) or at all (if not available in VISN/site).
+* Initial suggested approach included 3 phases. We eventually moved away from the interstitial idea, but there is not clear documentation that was saved about why that decision was made. 
+  * v 0.1: If it is green-lit by a11y specialists, add health chat link on landing page that connects to an interstitial page on va.gov that has info/disclaimer. use feature toggle to incrementally make available to users. keep an eye on things. NOTE: there are some concerns about accessibility of interstitial pages.
+  * v 0.2: add in facility conditionality. we know exactly what facilities don't offer health chat. we know what facilities the user is registered. use a hard coded facility disallow list to hide the health chat link for users who won't ever have access.
+  * v 0.3: assuming health chat availability api is not yet ready for us, do discovery on using out own appointments list integration as a basis for the 36 month eligibility window. also remember the stakes here: if a patient accidentally gets through to health chat and didn't have an appointment in the last 36 months, is that a real problem?
+
+
+**Should we conditionally reveal access to VA Health Chat based on availability of service?**
+  * We see downfalls to this approach on UX side - there is a risk of confusing users who sign in looking for the link, but sometimes find that it is randomly missing during certain times of the day. We'd need a more robust design to clarify that the service is down (not just exposing vs. taking a way a hyperlink) 
+  * Cartography team was concerned that there is a possibility different services have different hours, and/or that a user loads the page at 3:59pm then clicks the chat link at 4:01pm after the service is closed. Also note the existing chat app has a page to show what is available.
+  * On the other hand, exposing the link at all times provides a potential dead-end to users who may go to VA Health Chat and find the service to be unavailable depending on the time they attempt to access it.
+
+**CirrusMD web interface UX questions:**
+* The interface surfaces a user's VISNs instead of the actual facilities they go to, and this could be confusing to Veterans. If they have multiple, how will they know what "VISN 23 (Site ID 983)" versus "VISN 2 (Site ID 984)" are?
+  * Kaitlin says this is okay, most of the questions can probably get covered either way, and a responder can always redirect the to a different VISN chat.
+* Once the service is up and running, could we push them to improve their UX?
+  * Perhaps CirrusMD could look at the user's last appointment location, and automatically send them to that site's chat. and if not available, then the next one on the list, etc... 
