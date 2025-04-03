@@ -12,7 +12,9 @@ Information about the integration of VA Health Chat via the CirrusMD API onto My
 * [Notes](#notes)
 
 ## <a name="es"></a>Executive Summary
-The initial request to add this service as a link in the second column of links at the bottom of the My HealtheVet on VA.gov landing page came on June 21, 2024. An MVP approach was attempted in August 2024, but teams ran into significant issues with SSOe from VA.gov to Health Chat via the Cirrus MD API. Analytics were set up to monitor the frequency of failed calls. After some trouble-shooting and an incremental release, the link was made available to 100% of users on November 7, 2024.  
+In June 2024 it was a major priority for OCC and OCTO for the My HealtheVet on VA.gov portal to surface an MVP point of access to the VA Health Chat. The initial approach was to add a link at the bottom of the My HealtheVet on VA.gov landing page, which would provide direct SSOe access to eligible Veterans to be able to contact staff at their assigned VISN(s) with questions that fall into 4 categories supported by the service. 
+
+The MVP approach was attempted in August 2024, but teams ran into significant issues with SSOe functioning as expected. Analytics were set up to monitor the frequency of failed API calls. After some trouble-shooting and an incremental release, the link was made available to 100% of users on November 7, 2024.  
 
 ## <a name="resources"></a>Resources
 * [VA Health Chat app website](https://mobile.va.gov/app/va-health-chat)
