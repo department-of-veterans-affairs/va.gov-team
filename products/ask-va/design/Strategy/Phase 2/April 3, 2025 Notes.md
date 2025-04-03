@@ -8,7 +8,7 @@ Jump to:
 
 ## January to March
 
-In January, we prioritized initiatives for design to focus on through end of March, in addition to supporting a successful launch on VA.gov.
+In January, we prioritized the following [initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Phase%202%3A%20Initiatives.md) for design to focus on through end of March, in addition to supporting a successful launch on VA.gov. This is a summary of those initiatives and their current statuses.
 
 ### Test concepts with submitters that involve automation
 Status: `DONE`
@@ -64,22 +64,7 @@ Deliverables:
 
 ## April and May
 
-Here is a list of potential initiatives design could work on through end of May.
+We have prioritized the following initiatives for design to focus on through end of May.
 
 > [!NOTE]
-> This list needs to be prioritized. It's in no particular order.
-
-- Explore how to avoid sign in interruptions
-- Design a search feature for the dashboard
-- Re-design saved facility flow
-- Design a standalone page for attachments
-- Update confirmation page to confirm which team will receive a question based on routing queue
-- Inventory past and current issues with category and topics received from business lines and recommend updates
-- Inventory CRM automated response templates and recommend updates
-- Inventory business line response templates and recommend updates
-- Investigate whether we can remove SSN from the form
-- Investigate whether we can remove Veteran identifying information in some scenarios
-- Do research to understand and observe agent processes
-- Exercise with agents to understand which fields are necessary
-- Build a case to remove the subject field from the form
-- Standardize statuses between submitters and agents
+> This list needs to be prioritized. It will be added here.
