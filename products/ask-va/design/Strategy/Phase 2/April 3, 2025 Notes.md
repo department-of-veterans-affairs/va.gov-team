@@ -18,12 +18,11 @@ In January, we prioritized design initiatives through end of March. This was in 
 
 In addition, we also said design could support the following initiatives led by product.
 
-|Initiative|Status|
-|:--|:--|
-|Prepare a follow-up email to send after a question is closed|In Progress|
-|Co-define a product vision with partners|Not Started|
-|Set up a workflow for tracking and prioritizing business line requests|Not Started|
-|Design a Power BI re-routing report|Not Started|
-|Support CRM to re-design the primary Ask VA Power BI report|Not Started|
+- Prepare a follow-up email to send after a question is closed
+- Co-define a product vision with partners
+- Set up a workflow for tracking and prioritizing business line requests
+- Design a Power BI re-routing report
+- Support CRM to re-design the primary Ask VA Power BI report
 
 ## What we could do next
+
