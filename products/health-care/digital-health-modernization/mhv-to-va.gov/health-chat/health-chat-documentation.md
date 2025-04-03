@@ -8,36 +8,37 @@ The initial request to add this service as a link in the second column of links 
 * [VA Health Chat - PDF overview](https://mobile.va.gov/sites/default/files/documents/hopat1994-va-health-chat-at-a-glance-508_final-1.pdf)
 
 ## On this page: 
-* Teams involved
-* FAQs about VA Health Chat
-* CirrusMD API specifications
-* Integration of VA Health Chat on My HealtheVet on VA.gov
-* Notes
+* [Teams & POCs involved](#teams)
+* [FAQs about VA Health Chat](#faq]
+* [CirrusMD API specifications](#api-specs)
+* [MVP implementation of VA Health Chat on My HealtheVet on VA.gov](#mvp)
+* [Post-MVP ideas](#post-mvp)
+* [Notes](#notes)
 
-## Teams involved
+## <a name="teams"></a>Teams involved
 * OCC - Hugo Padilla
 * OCTO - Kaitlin Fink, Patrick Bateman
 * MHV on VA.gov Cartography Team
 
-## FAQs about VA Health Chat
-### What is VA Health Chat?
-The VA Health Chat app is a service that connects Veterans with VA health care professionals through text-based chat messaging. Unlike Secure Messages, it **does not** connect them with their provider, but with a professional assigned to their associated Veteran Integrated Service Network (VISN) (these are the parent networks that each healthcare facility rolls up to geographically). The VA has 18 VISNs across the country, including in U.S. territories. All 18 have VA Health Chat implemented, but it is not yet available in some parts of VISN 16. 
+## <a name="faq"></a>FAQs about VA Health Chat
+**What is VA Health Chat?**
+* The VA Health Chat app is a service that connects Veterans with VA health care professionals through text-based chat messaging. Unlike Secure Messages, it **does not** connect them with their provider, but with a professional assigned to their associated Veteran Integrated Service Network (VISN) (these are the parent networks that each healthcare facility rolls up to geographically). The VA has 18 VISNs across the country, including in U.S. territories. All 18 have VA Health Chat implemented, but it is not yet available in some parts of VISN 16. 
 
-### What kinds of topics can VA Health Chat help with?
-VA Health Chat is intended to respond to patient questions in the following four categories. **Not** all VISNs support all 4 options as of July 2024: 
-* Virtual Clinic Visit (Urgent Care)
-* Clinical Triage
-* Scheduling and Administration
-* Pharmacy
+**What kinds of topics can VA Health Chat help with?**
+I’m * VA Health Chat is intended to respond to patient questions in the following four categories. **Not** all VISNs support all 4 options as of July 2024: 
+  * Virtual Clinic Visit (Urgent Care)
+  * Clinical Triage
+  * Scheduling and Administration
+  * Pharmacy
 
-### Is VA Health Chat available 24/7? 
-No. Each VISN has its own individual operating hours, and individual chat services that are provided based on topics. The CirrusMD API has the availability logic and it is our understanding that onlyl VISNs that are open for chat during hours will display to users within the VA Health Chat web interface. There is a goal for all VA Health Chat services to be 24/7 but the VA is not there yet. 
+**Is VA Health Chat available 24/7?** 
+* No. Each VISN has its own individual operating hours, and individual chat services that are provided based on topics. The CirrusMD API has the availability logic and it is our understanding that onlyl VISNs that are open for chat during hours will display to users within the VA Health Chat web interface. There is a goal for all VA Health Chat services to be 24/7 but the VA is not there yet. 
 
-### How quick is the response time? 
-We do not know the average wait time, but it's quite quick. It's more of a synchronous channel like what you'd expect of a chat. And there are escalation paths for chats that don't get responded to in X amount of time.
+**How quick is the response time?** 
+* We do not know the average wait time, but it's quite quick. It's more of a synchronous channel like what you'd expect of a chat. And there are escalation paths for chats that don't get responded to in X amount of time.
 
-### Is VA Health chat totally independent of EHR (is it in place for both OH/Cerner facilities and VistA facilities)?
-Yes - All VISNs have at least 1 HealthChat plan available. It is specific support per VISN, not per facility. 
+**Is VA Health chat totally independent of EHR?**
+* Yes - All VISNs have at least 1 HealthChat plan available, regardless of whether their EHR system is VistA or OH/Cerner. It is specific support per VISN, not per facility. 
 
 ### Changes coming to VA Health Chat in 2024: 
 Channel name changes that will go into effect: 
@@ -54,7 +55,8 @@ Channel name changes that will stay the same:
 NOTE: Not all channel types are available at all VISN locations. 
 
 
-## CirrusMD API specificaitons
+
+## <a name="api-specs"></a>CirrusMD API specifications
 This is the service that supports the VA Health Chat. OCC point of contact is Hugo Padilla. 
 
 ### What are access requirements? 
@@ -72,12 +74,10 @@ Users must have:
 * Q: Can't tell from the spec how we specify which patient for which we're looking for VA Chat "plans." Or maybe patient identification is part of the authentication flow?
   * A: Yes, we ID the Veteran and therefore know which plans they should have access to and only present them the plans when they are available to the Veteran.     
 
-
-## Integration of service on MHV on VA.gov:
+## <a name="mvp"></a>MVP implementation of VA Health Chat on My HealtheVet on VA.gov
 
 ### Connecting to CirrusMD API: 
 There is SSOe between VA.gov and the VA Health Chat web interface, which relies on a 3rd party API called the Cirrus MD API. The My HealtheVet on VA.gov landing page has a link to VA Health Chat which should deep-link users to the web interface and keep them signed in.
-
 
 ### Data sources to determine access requirements: 
 * up to date VISN data might be available via the lighthouse facilities API, which is reachable via existing vets-api integration. details in docs.
@@ -88,7 +88,7 @@ There is SSOe between VA.gov and the VA Health Chat web interface, which relies 
 
 ### What information we get from the API to determine eligibility and hours?
 
-## Post-MVP ideas: 
+## <a name="post-mvp"></a>Post-MVP ideas
 **Improvements to implementation on My HealtheVet on VA.gov landing page:** 
 * **Design**
   * Instead of only surfacing a hyperlink at the bottom of this page, build a widget that provides more context and "smarter" personaslized information that shows the user which chat services are available for their VISNs and/or lets users know when it isn’t available.
@@ -102,7 +102,9 @@ There is SSOe between VA.gov and the VA Health Chat web interface, which relies 
 * Consider how this fits into the "Contact us" landscape on VA.gov
 * Consider integration with VAHB mobile app. 
 
-## Notes / Conversations about implementation from 2024: 
+## <a name="notes"></a>Notes
+Notes and conversation details from initial implementation timeline in Summer 2024 for historical context:
+
 **Accessibility notes:**
 * on 07/22/2024 -  Martha Wilkes said that Health Chat has not been audited by 508 office yet, and since it's a non-OCTO service, our accessibility specialists can't do much. Kaitlin Fink says it's on the Health Chat teams' radar & once full FedRAMP marketplace designation is achieved they will ask for a full 508 audit.
 
