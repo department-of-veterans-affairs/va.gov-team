@@ -1,5 +1,5 @@
 # VA Health Chat Documentation
-My HealtheVet on VA.gov information about the integration of VA Health Chat via the CirrusMD API.
+Information about the integration of VA Health Chat via the CirrusMD API onto My HealtheVet on VA.gov.
 
 ## Background
 ### What is VA Health Chat?
