@@ -6,9 +6,14 @@ The initial request to add this service as a link in the second column of links 
 ## Resources
 * [VA Health Chat app website](https://mobile.va.gov/app/va-health-chat)
 * [VA Health Chat - PDF overview](https://mobile.va.gov/sites/default/files/documents/hopat1994-va-health-chat-at-a-glance-508_final-1.pdf)
-* 
 
-## Background
+On this page: 
+* FAQs about VA Health Chat
+* CirrusMD API specifications
+* Integration of VA Health Chat on My HealtheVet on VA.gov
+* Notes
+
+## FAQs about VA Health Chat
 ### What is VA Health Chat?
 The VA Health Chat app is a service that connects Veterans with VA health care professionals through text-based chat messaging. Unlike Secure Messages, it **does not** connect them with their provider, but with a professional assigned to their associated Veteran Integrated Service Network (VISN) (these are the parent networks that each healthcare facility rolls up to geographically). The VA has 18 VISNs across the country, including in U.S. territories. All 18 have VA Health Chat implemented, but it is not yet available in some parts of VISN 16. 
 
