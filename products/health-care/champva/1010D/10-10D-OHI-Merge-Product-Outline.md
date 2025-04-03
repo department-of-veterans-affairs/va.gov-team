@@ -3,50 +3,49 @@
 ## Overview
 Applicants seeking CHAMPVA benefits must complete and submit VA Form 10-10d for benefits enrollment and VA Form 10-7959c for Other Health Insurance (OHI) certification separately. To enhance user experience and streamline operations, we propose merging these two forms into a single, cohesive digital application process.​
 
+
 ## Problem Statement
 Applicants are required to submit VA Form 10-10d and VA Form 10-7959c separately, leading to potential redundancy and increased processing times. This dual-submission process can be burdensome for users and may delay the overall application process. Our goal is to merge the submission processes to reduce the load on both the time it takes a veteran to submit, and the time it takes the approval team to process and approve applications.
 
-How might we simplify the CHAMPVA application and OHI supporting docs process to allow applicants to submit both benefits enrollment and OHI certification seamlessly in a single digital experience?
+- How might we simplify the CHAMPVA application and OHI supporting docs process to allow applicants to submit both benefits enrollment and OHI certification seamlessly in a single digital experience?
 
-How can we reduce processing times by merging the CHAMPVA and OHI forms?
+- How can we reduce processing times by merging the CHAMPVA and OHI forms?
  
+
 ## Desired User Outcomes
 
-Veterans can complete and submit both the CHAMPVA benefits application and OHI certification through a unified digital interface.​
-Veterans spend less time and effort filling out the forms.
-Veterans spend less time waiting to hear back on the status of their application.
-Veteran satisfaction increased with application experience.
+- Veterans can complete and submit both the CHAMPVA benefits application and OHI certification through a unified digital interface.​
+- Veterans spend less time and effort filling out the forms.
+- Veterans spend less time waiting to hear back on the status of their application.
+- Veteran satisfaction increased with application experience.
 
 ## Undesired User Outcomes
-Veterans encounter errors during the online process.
-Veterans have low confidence in the online process or have concerns around online security.
-Veterans spend more time filling out the online forms than the printed PDF forms.
+- Veterans encounter errors during the online process.
+- Veterans have low confidence in the online process or have concerns around online security.
+- Veterans spend more time filling out the online forms than the printed PDF forms.
 
 ## Desired Business Outcomes
 
-Reduce the amount of time spent processing paper forms.
-Expedite the application process for these two forms by reducing multitasking needed by the approval team.
-Reduce error rates or rejections by removing the dependence on handwritten forms.
-
+- Reduce the amount of time spent processing paper forms.
+- Expedite the application process for these two forms by reducing multitasking needed by the approval team.
+- Reduce error rates or rejections by removing the dependence on handwritten forms.
 
 ## Undesired Business Outcomes
-Increased number of incomplete or incorrect submissions due to the complexity of merging two forms
-Increased processing time for the approval team.
-Online information not being transferred successfully for processing.
-Veterans opting out of using the online form due to the length of the merged solution.
+- Increased number of incomplete or incorrect submissions due to the complexity of merging two forms
+- Increased processing time for the approval team.
+- Online information not being transferred successfully for processing.
+- Veterans opting out of using the online form due to the length of the merged solution.
 
 
 ---
 ## Measuring Success
 
-
 ### Key Performance Indicators (KPIs)
 
-
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-Number of PDF downloads
-Processing time for paper forms
+_Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+- Number of PDF downloads
+- Processing time for paper forms
 
 ### Objectives and Key results (OKRs)
 
@@ -69,9 +68,9 @@ Processing time for paper forms
 ---
 
 ## Assumptions
-**Applicants prefer a consolidated application process over separate submissions.​**
-Integrating the two forms will not compromise the integrity or accuracy of the information collected.​
-The merged application will be compliant with all relevant legal and regulatory requirements
+- **Applicants prefer a consolidated application process over separate submissions.​**
+- Integrating the two forms will not compromise the integrity or accuracy of the information collected.​
+- The merged application will be compliant with all relevant legal and regulatory requirements
 
 ## Solution Approach
 
@@ -90,20 +89,20 @@ Provide CHAMPVA Benefits Application and OHI submission as a merged form.
 
 Incident Response info
 
-Datadog Dashboard Monitoring Playbook
+[Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=sliding&from_ts=1739300121041&to_ts=1741892121041&live=true) [Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/ivc-forms-monitoring-playbook.md)
 
 Rollback & Fix plan (1-3 days to triage and implement fix)
 
 In the event of a security vulnerability incident, we will: 
-Immediately - Turn off feature using feature toggle 
-Immediately - Triage incident 
-Day 1 - Assess viable solutions 
-Day 1-3 - Implement solution 
-Day 1-3 - Complete solution testing 
-Day 1 - Implement additional monitoring, if applicable 
-Day 1-3 - Turn on feature using feature toggle (starting with a small percentage) 
-Day 1-30 - Continue to monitor performance 
-Day 1-10 - Proceed with Release Plan
+- Immediately - Turn off feature using feature toggle
+- Immediately - Triage incident
+- Day 1 - Assess viable solutions
+- Day 1-3 - Implement solutions
+- Day 1-3 - Complete solution testing
+- Day 1 - Implement additional monitoring, if applicable
+- Day 1-3 - Turn on feature using feature toggle (starting with a small percentage)
+- Day 1-30 - Continue to monitor performance
+- Day 1-10 - Proceed with Release Plan
 
 ## Launch Dates
 - *Target Launch Date*
@@ -118,9 +117,8 @@ Day 1-10 - Proceed with Release Plan
 ## Solution Narrative
 
 ### Current Status
-Research mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1734537770114/c43159bce476eaee8e52f597201223934411963b
-Design Figma:
-https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA?node-id=5194-37072&t=oTNtlONmioBYVyQp-4
+- Research mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1734537770114/c43159bce476eaee8e52f597201223934411963b
+- Design Figma: https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA?node-id=5194-37072&t=oTNtlONmioBYVyQp-4
 
 
 ### Key Decisions
@@ -140,11 +138,11 @@ A combined submission is the best approach.
 
 <details>
 
-Team Name:  IVC Forms team
-GitHub Label: ivc-forms
-Slack channel: ivc-forms
-Product POCs: Mike Mooney
-Stakeholders: 
+- Team Name:  IVC Forms team
+- GitHub Label: ivc-forms
+- Slack channel: ivc-forms
+- Product POCs: Mike Mooney
+- Stakeholders: 
 
 </details>
 
@@ -152,10 +150,10 @@ Stakeholders:
 
 <details>
  
-DEPO Lead: Premal Shah
-PM: Mike Mooney
-Engineering: Michael Clement, Kyle Brost, Rachel Eiting, Steve Long
-Research/Design: Rachel Pope, Jamie Fiore, Renata Keck
+- DEPO Lead: Premal Shah
+- PM: Mike Mooney
+- Engineering: Michael Clement, Kyle Brost, Rachel Eiting, Steve Long
+- Research/Design: Rachel Pope, Jamie Fiore, Renata Keck
  
 </details>
 
@@ -163,8 +161,8 @@ Research/Design: Rachel Pope, Jamie Fiore, Renata Keck
 #### Stakeholders
 
 <details>
- 
-OIT
-CHAMPVA
+
+- OIT
+- CHAMPVA
  
 </details>
