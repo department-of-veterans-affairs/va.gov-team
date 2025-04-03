@@ -27,7 +27,6 @@ Before enabling your feature toggle in production, you'll need to:
 
 ## Step 3: Production rollout
 
-
 ### Define the Rollback process
 
 Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics both on Google Analytics and DataDog. If they see a spike in errors or unexpected behavior, they will flag to the engineering team that there is a problem. The engineering team will do the following:
@@ -46,7 +45,6 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 1. The toggle will remain enabled with no reduction in availability
 2. A fix will be prioritized and worked on
 3. The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
-
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
@@ -69,6 +67,20 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 - Types of errors logged: [FILL_IN]
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
 - If yes, what: [FILL_IN] with ticket numbers
+
+### Phase Ib: Production short rollout to understand error rates (added 4/2/25)
+
+On 4/3/25, To help us better understand if the appointment API problems are really near 25% or closer to check-in's error rate, which is 1.5-2%,  we are looking to gather additional error rate data by allowing 50 Veterans to file simple mileage-only claims on VA.gov in production.
+
+5% for 30 minutes, followed by 100% until we hit 50 submissions.
+
+The idea will be after this test, we should have more insight into the error rate. If it is still close to 25%, then launch will be blocked until the API fix is complete. If it is lower, then we might be able to rollout. An official Go-No Go meeting will have to occur for rollout. 
+
+Results:
+-Total submissions:
+-Total unique users:
+-Total errors and error rate:
+-Submission error types:
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
