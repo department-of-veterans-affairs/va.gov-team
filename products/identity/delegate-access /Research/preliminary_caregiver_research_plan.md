@@ -43,21 +43,77 @@ Learn about the process of how caregivers are able to complete various tasks and
 ## **Methodology**
 
 - Interview caregivers who have completed various actions on behalf of Veterans
-- Interview Veterans who currently or previously have had a caregiver
-- Interview VA personnel who help establish guardian access
+- Interview VA personnel who interact with Veteran healthcare benefits.
 
 ### **Research materials**
 
-- Conversation guide  
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/delegate-access%20/Research/caregiver_conversation_guide.md) 
 
-## **Recruitment**
-We will be speaking to known caregivers since they have been historically hard to get in touch with.
+## Recruitment	
 
+### Recruitment approach
+
+We will use Perigean to recruit Veteran representatives who deal with access to healthcare benefits for this moderated study. 
+
+### Recruitment criteria
+
+15  for at least 12 completed sessions
+
+**Primary criteria (must-haves)**
+All participants:
+- Must have a computer or mobile phone and be willing to complete the interview remotely
+- Must have a working microphone
+- In addition our primary product criteria includes:
+   - Must be a representative for a Veteran for at least 3 months.
+   - Must have completed a healthcare action on behalf of a Veteran.
+- Use of Zoom or sharing of a screen is not necessary for this study.
+
+Our primary diversity and inclusion criteria:
+- 2 persons cognitive disabilities
+
+### Screener Questions
+
+- Are you currently a representative or delegate for a Veteran?  (Yes)
+- Do you have experience filing for healthcare benefits on behalf of a Veteran?
+- For how long have you been in this role?
+
+## Timeline
+
+### Prepare
+
+- Pilot participant email:
+- Date and time of pilot session:
+
+Screen reader practice session:
+- Accessibility specialist email:
+- Date and time of SR practice session: 
+
+### Length of sessions
+   - Session length: **45-minute** sessions 
+   - Session buffer: **30-minute breaks** in between
+   - Max sessions per day: 4
+  
+### Availability
+- **April 14 - 18**
+- Please hold April 21st/22nd in case of needed make ups sessions, to the extent possible.
+
+Team Availability | Time (EST)
+------------------|--------------
+Mon | 9am - Noon, 1 - 7 pm
+Tue | 9am - Noon, 1 - 7 pm
+Wed | 9am - Noon, 1 - 7 pm
+Thur| 9am - Noon, 1 - 7 pm
+Fri | 9am - Noon, 1 - 5 pm
+
+Pilot Session | Time (EST)
+--------------|----------
+ Aug 10 | 1:30pm
+ Aug 11 | 3pm
 
 ## **Team Roles**
 
-* Moderators: Charlye Tran 
-* Research guide writing and task development: Charlye Tran 
+* Moderators: Charlye Tran, Clayton Zook
+* Research guide writing and task development: Charlye Tran, Clayton Zook 
 * Project point of contact: Charlye Tran 
 * Note-takers: Clayton Zook, Joelle Wells, Megan Driscoll  
 * Observers: Samara Strauss, Tom Black, Joelle Wells, Lainey Trahan  
