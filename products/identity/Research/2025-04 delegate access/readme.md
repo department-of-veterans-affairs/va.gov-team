@@ -1,3 +1,8 @@
+**This work is currently being stored [in a research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/delegate-access%20/Research) under the [folder for delegate access](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/delegate-access%20)**
+
+----------
+
+
 # About this Research
 
 
@@ -14,18 +19,16 @@
 | Stage | Dates |
 | --- | ---|
 | Planning | Mar/Apr |
-| Recrtuiting | tbd |
-| Pilot |  |
-| Sessions |  |
-| Analysis |  |
-| Readout |  |
+| Recrtuiting | Apr |
+| Pilot | Apr |
+| Sessions | Apr |
+| Analysis | Apr |
+| Readout | tbd |
 
 
 ## Background
 
-
-
-- [Product information]() to be linked
+- [Product information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/delegate-access%20)
 
 
   
