@@ -55,15 +55,13 @@ There is SSOe between VA.gov and the VA Health Chat web interface, which relies 
 * Assuming health chat availability API is not yet ready for us, we do discovery on using our own appointments list integration as a basis for the 36 month eligibility window. (Patrick says - also remember the stakes here: if a patient accidentally gets through to health chat and didn't have an appointment in the last 36 months, is that a real problem?)
 
 ## Notes / Conversations about implementation from 2024: 
-Accessibility notes: 
+**Accessibility notes:**
 * on 07/22/2024 -  Martha Wilkes said that Health Chat has not been audited by 508 office yet, and since it's a non-OCTO service, our accessibility specialists can't do much. Kaitlin Fink says it's on the Health Chat teams' radar & once full FedRAMP marketplace designation is achieved they will ask for a full 508 audit.
 
-Design plans: 
+**Design plans:**
 * Initially, OCTO was concerned about surfacing the VA Health Chat link to all users, regardless of whether the service was available to them (based on their associated VISN) or the service's operational hours. A suggested compromise at the time was to build out an interstitial page interstitial page on va.gov (i.e. va.gov/my-health/about-va-health-chat or something) that explains what health chat is and that it might not be available at the moment (if after hours) or at all (if not available in VISN/site).
-* Initial suggested approach included 3 phases. We eventually moved away from the interstitial idea, but there is not clear documentation that was saved about why that decision was made. 
-  * v 0.1: If it is green-lit by a11y specialists, add health chat link on landing page that connects to an interstitial page on va.gov that has info/disclaimer. use feature toggle to incrementally make available to users. keep an eye on things. NOTE: there are some concerns about accessibility of interstitial pages.
-  * v 0.2: add in facility conditionality. we know exactly what facilities don't offer health chat. we know what facilities the user is registered. use a hard coded facility disallow list to hide the health chat link for users who won't ever have access.
-  * v 0.3: assuming health chat availability api is not yet ready for us, do discovery on using out own appointments list integration as a basis for the 36 month eligibility window. also remember the stakes here: if a patient accidentally gets through to health chat and didn't have an appointment in the last 36 months, is that a real problem?
+* We eventually moved away from the interstitial idea, but there is not clear documentation that was saved about why that decision was made. 
+
 
 
 **Should we conditionally reveal access to VA Health Chat based on availability of service?**
