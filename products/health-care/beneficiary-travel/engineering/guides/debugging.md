@@ -62,7 +62,7 @@ auth_manager = TravelPay::AuthManager.new(Settings.travel_pay.client_number, tes
 Then instantiate the service you are wanting to interact with using the new auth_manager, e.g. the ClaimsService would be instantiated using:
 
 ```ruby
-claims_service = TravelPay::ClaimsService.new(auth_manager)
+claims_service = TravelPay::ClaimsService.new(auth_manager, test_user)
 ```
 Finally, test the service with:
 ```ruby
@@ -103,6 +103,10 @@ class FakeUser
     @icn = icn
     @account_uuid = account_uuid
   end
+
+   def flipper_id
+     @account_uuid
+   end
 end
 ```
 
