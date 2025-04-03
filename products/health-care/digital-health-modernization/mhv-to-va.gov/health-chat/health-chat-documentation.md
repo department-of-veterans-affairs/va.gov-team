@@ -7,11 +7,17 @@ The initial request to add this service as a link in the second column of links 
 * [VA Health Chat app website](https://mobile.va.gov/app/va-health-chat)
 * [VA Health Chat - PDF overview](https://mobile.va.gov/sites/default/files/documents/hopat1994-va-health-chat-at-a-glance-508_final-1.pdf)
 
-On this page: 
+## On this page: 
+* Teams involved
 * FAQs about VA Health Chat
 * CirrusMD API specifications
 * Integration of VA Health Chat on My HealtheVet on VA.gov
 * Notes
+
+## Teams involved
+* OCC - Hugo Padilla
+* OCTO - Kaitlin Fink, Patrick Bateman
+* MHV on VA.gov Cartography Team
 
 ## FAQs about VA Health Chat
 ### What is VA Health Chat?
