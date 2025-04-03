@@ -51,14 +51,16 @@ Deliverables:
 Status: `Not Started`
 
 Deliverables:
-- [Expected] Research report
-- [Expected] Strategy or documentation recommending next steps
+- `Expected` Research report
+- `Expected` Strategy or documentation recommending next steps
 
 ### Prepare a follow-up email to send after a question is closed
 Status: `In Progress`
 
+Note: This is blocked by a CRM dependency and may not require anymore design support.
+
 Deliverables:
-- [In Progress] [Content for follow-up email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-02%20Follow-up%20email.md)
+- `In Progress` [Content for follow-up email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-02%20Follow-up%20email.md)
 
 ## April and May
 
