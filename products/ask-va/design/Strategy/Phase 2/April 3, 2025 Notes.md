@@ -4,7 +4,7 @@ Last updated by @tygindraux on April 3, 2025
 
 ## What we've completed since January
 
-In January, we prioritized design initiatives through end of March. This was in addition to any work needed to support a successful launch on VA.gov.
+In January, we prioritized initiatives for design to focus on through end of March, in addition to any work needed to support a successful launch on VA.gov.
 
 |Initiative|Status|
 |:--|:--|
