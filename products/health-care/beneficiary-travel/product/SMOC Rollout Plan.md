@@ -72,15 +72,26 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 On 4/3/25, To help us better understand if the appointment API problems are really near 25% or closer to check-in's error rate, which is 1.5-2%,  we are looking to gather additional error rate data by allowing 50 Veterans to file simple mileage-only claims on VA.gov in production.
 
-5% for 30 minutes, followed by 100% until we hit 50 submissions.
+5% for 30 minutes, followed by 100% until we hit 50 unique users - during business hours only.
 
 The idea will be after this test, we should have more insight into the error rate. If it is still close to 25%, then launch will be blocked until the API fix is complete. If it is lower, then we might be able to rollout. An official Go-No Go meeting will have to occur for rollout. 
 
 Results:
--Total submissions:
--Total unique users:
--Total errors and error rate:
--Submission error types:
+-Total submissions: 70
+-Total unique users: 53
+
+By appointments: of the 67 appointments that people attempted filing for, there were 60 successful attempts and 7 errors (5 errors with appointment mismatches and 2 missing addresses - a 10.4% error rate).
+
+By users:
+53 unique users, with 46 able to submit all appointments successfully (86.7%)
+- 5 had appointment mismatch issues (9.4%)
+- 2 had a missing address when adding an expense (3.8%)
+
+By total submission attempts:
+- 70 submission attempts for 67 appointments
+- 10 errors
+- 8 appt mismatch errors (5 appointments total which had errors; 1 submission attempted 2 times, 1 submission attempted 3 times)
+- 2 missing address when adding an expense
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
