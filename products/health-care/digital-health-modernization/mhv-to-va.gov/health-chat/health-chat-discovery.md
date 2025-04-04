@@ -1,6 +1,4 @@
 # VA Health Chat Discovery
-Documentation of both UX and technical discovery for implementing VA Health Chat onto My HealtheVet on VA.gov. 
-
 ## Executive Summary
 After some initial UX discovery to help the Cartography Team understand where to implement a link to the VA Health Chat, technical discovery took place in order to figure out how we would enable direct SSOe access to the service via the CirrusMD API. Notes about both UX and technical discovery efforts are included herein.
 
