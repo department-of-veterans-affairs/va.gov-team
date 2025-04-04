@@ -14,7 +14,7 @@ Documentation of both UX and technical discovery for implementing VA Health Chat
 * [VA Health Chat website](https://mobile.va.gov/app/va-health-chat)(Not to be confused with the [Virtual Agent Web Chat](https://www.va.gov/contact-us/virtual-agent/))
 * [Health chat training material](https://mobile.va.gov/sites/default/files/documents/hopat1994-va-health-chat-at-a-glance-508_final-1.pdf)
 * [VA Health Chat discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718075410575/0f29fdbccc61d21bbf524d4769de17a2173e37cd)
-* [API Specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/health-chat/health_chat_swagger.json)
+* [CirrusMD API Specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/health-chat/health_chat_swagger.json)
 
 ## UX Discovery
 People: 
