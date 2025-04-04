@@ -93,6 +93,20 @@ Health Chat is available at all VISNs.
 * Health Chat presents the user a list of channels and their availability. We are likely to not have access to channel operating hours data, but Health Chat team to share any information on how we can get this. Potentially we just initially point the user to the chat and the existing chat system shows what is available to the user.
 * Health Chat team to provide us with more documentation, so we can understand more of the chat, how it works, and its API.
 
+### Follow-up with CirrusMD API team
+Information about how ChatBot determines if a user is eligible for Health Chat. Note there is a lot of internal checks for open times and sites. **There is currently no API to get open times.** We will have to recreate the site lookups and appointment checks to get similar results, but **this is a duplication that may not be worth maintaining**. 
+
+* Here is what the Cirrus MD team shared with us:
+  * To know that a Veteran is eligible to navigate to Health chat the CirrusMD API needs a plan type - and **pharmacy** is the only currently supported plan the API filters for.
+
+* After that, the VHC application:
+  * maps site IDs for the patient to channels available in their region
+  * pulls data from the PRVS service to know if a veteran has received care at their site in the last 36 months
+  * checks that the site is currently within its hours of operation
+  * Then the API sends back the available plan(s) via a URL to the chatbot
+
+* **Note**: If a Veteran is active on multiple sites, the URL will not correspond to a single plan, rather they will receive a category link with their active sites. This puts the veteran into VHC on the landing page you see in the video, and lets them choose which site to enter into.
+
 ### Cartography team discovery tickets
 * [Ticket 86753](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86573)
 * [Ticket 86756](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86576)
