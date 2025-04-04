@@ -80,7 +80,7 @@ Users must have:
 ### Important dates: 
 | Date | Type of activity | Notes| 
 |-----|-------------------|------|
-|June 2024| Discovery | Kaitlin Fink began discovery research, including taking several calls with Hugo Padilla (OCC) and documenting questions, notes, and information in [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718075410575/0f29fdbccc61d21bbf524d4769de17a2173e37cd).| 
+|June 2024| UX discovery | Kaitlin Fink began discovery research, including taking several calls with Hugo Padilla (OCC) and documenting questions, notes, and information in [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718075410575/0f29fdbccc61d21bbf524d4769de17a2173e37cd).| 
 |June 21, 2024|Project announced| Cartography team was asked to prioritize technical discovery and implementing a hyperlink to the VA Health Chat on the MHV on VA.gov landing page.| 
 |July 2024| Technical discovery| Engineering working with OCC's Hugo Padilla to get answers to questions, find API specs, and connect with CirrusMD API team.|
 |Aug 3, 2024| Staging| MVP approach engineered in staging | 
