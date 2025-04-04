@@ -25,6 +25,7 @@ Links:
 * [VA Health Chat app website](https://mobile.va.gov/app/va-health-chat)
 * [VA Health Chat "At a glance"](https://mobile.va.gov/sites/default/files/documents/hopat1994-va-health-chat-at-a-glance-508_final-1.pdf)(PDF)
 * [API specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/health-chat/health_chat_swagger.json)
+* [Discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/health-chat/health-chat-discovery.md)
 
 ## <a name="faq"></a>About
 <details>
