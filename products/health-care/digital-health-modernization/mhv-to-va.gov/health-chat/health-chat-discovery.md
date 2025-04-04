@@ -13,13 +13,14 @@
 People: 
 * Kaitlin Fink (OCTO)
 
-Features of VA Health Chat: 
+### Features of VA Health Chat: 
 * Find your closest VA facility
 * Schedule an appointment
 * Refill a VA prescription
 * Send a non-urgent message to your health care team - VA Health Chat does not connect the user directly to their VA care team, instead it is generic help from a staff member at the broader VISN that the facility bubbles up to.
 
-There are 18 VISNs at the VA. As of June 2024, all VISNs support VA Health Chat at some level, but not all have 100% coverage on the 4 support areas. 
+### Support for VA Health Chat across facilities
+VA Health Chat is support based on VISN (not at child facility level). There are 18 VISNs at the VA. As of June 2024, all VISNs support VA Health Chat at some level, but not all have 100% coverage on the 4 support areas. 
 
 
 
