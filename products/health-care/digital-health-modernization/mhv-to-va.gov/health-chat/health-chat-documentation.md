@@ -82,9 +82,12 @@ Users must have:
 |-----|-------------------|------|
 |June 2024| Discovery | Kaitlin Fink began discovery research, including taking several calls with Hugo Padilla (OCC) and documenting questions, notes, and information in [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718075410575/0f29fdbccc61d21bbf524d4769de17a2173e37cd).| 
 |June 21, 2024|Discovery + work assigned| Cartography team was asked to prioritize technical discovery and implementing a hyperlink to the VA Health Chat on the MHV on VA.gov landing page.| 
-|Aug-Sept. 2024| PR Review + Ran into issues |Cartography team was ready with this work, but we ran into SSOe issues with the CirrusMD API not reliably handing users off to VA Health Chat in an authenticated state.|
-|Aug-Sept. 2024| Phased rollout & analytics monitoring| Analytics monitoring was set up to track issues with SSOe in DataDog and a phased rollout (beginning at 25% of users) started in September 2024|
-|Fall 2024| QA / Smoke testing| Ongoing smoke testing with Katilin Fink & Stephen Barrs in production to test SSOe functionality|
+|Aug 8-13, 2024| QA / Smoke testing| Ongoing smoke testing with Katilin Fink & Stephen Barrs in production to test SSOe functionality|
+|Aug 21, 2024| Investigation| Per smoke tests and a meeting held 8/21/24 with Cirrus MD, we found that the chat is not letting users to use SSOe to automatically authenticate into Health Chat. The Cirrus MD team is investigating this issue.|
+|Aug 22, 2024| Blocked| Cartography moved work to Icebox because SSOe errors and the resulting UX gave us all pause, including Hugo Padilla from the VA Health Chat team. Hugo took the next action in a meeting on 8/29 to look at the VAHC UX holistically and determine the path forward. Development is most likely needed by VAHC to provide a decent experience if SSO fails, and to set up analytics so that the frequency of SSO failure can be measured, both on the existing MHV Classic link and the proposed link from MHV landing page on VA.gov.
+|Oct. 7, 2024| | |
+|Oct. 11, 2024| Hugo worked on OCC side and CirrusMD will provide an update on login successes, failures daily to VA Health Chat for any Veteran attempting to use VA Health Chat (vs monthly). We'll receive daily web reports (vs. monthly) that inform us where users are coming from to VA Health Chat (including the new VA Health Chat link on VA.gov); we'll receive daily reports that inform us when users are redirected to the service recovery page. 
+|Oct. 21, 2024| Rolled out to 20% of users analytics monitoring| Analytics monitoring was set up to track issues with SSOe in DataDog and a phased rollout (beginning at 25% of users) started in September 2024|
 |November 7, 2024|Launch| The link to VA Health Chat rolled out to 100% of users on the MHV on VA.gov landing page|
 
 ### Connecting to CirrusMD API: 
