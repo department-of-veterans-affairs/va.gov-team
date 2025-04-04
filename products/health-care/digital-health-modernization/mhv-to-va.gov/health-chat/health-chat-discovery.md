@@ -72,15 +72,15 @@ TBD
 
 ### Sync with CirrusMD API team
 Carlos Felix (Cartography) met with the Health Chat/Cirrus MD team on July 12, 2024.
-[View the Zoom recording](https://us06web.zoom.us/rec/share/tnzPLl2roIbv-wrChbKqDsKkFfMsv6Lbw2wPfDXl4tgWYHcYliIH-wfODCT1SL1t.k1-ctxiaxsj8f6DM) - Passcode: a#qs7vgC
+* [View the Zoom recording](https://us06web.zoom.us/rec/share/tnzPLl2roIbv-wrChbKqDsKkFfMsv6Lbw2wPfDXl4tgWYHcYliIH-wfODCT1SL1t.k1-ctxiaxsj8f6DM) - Passcode: a#qs7vgC
 
 **Attendees:**
-Brody Westcot - VP Cirrus MD
-Ean Hibian - PM Cirrus MD
-Ray - Lead PM
-Dale - Sub contract lead chat bot dev
-Patrick Bateman
-Carlos Felix
+* Brody Westcot - VP Cirrus MD
+* Ean Hibian - PM Cirrus MD
+* Ray - Lead PM
+* Dale - Sub contract lead chat bot dev
+* Patrick Bateman
+* Carlos Felix
 
 **Quick summary:**
 * There is Health Chat and VA Chatbot. These are two different chats. Currently the chatbot is for pharmacy only, but the long term vision is to have the chatbot is to direct users to the correct Heath Chat channel. Currently in the early stages of development.
