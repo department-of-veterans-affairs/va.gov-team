@@ -76,6 +76,12 @@ Users must have:
   * A: Yes, we ID the Veteran and therefore know which plans they should have access to and only present them the plans when they are available to the Veteran.     
 
 ## <a name="mvp"></a>MVP implementation
+
+### Important dates: 
+* June 21, 2024 - Cartography team was asked to work with Hugo Padilla (OCC) and implement a link to the VA Health Chat on the MHV on VA.gov landing page.
+* August 2024 - Cartography team was ready with this work, but we ran into SSOe issues with the CirrusMD API not reliably handing users off to VA Health Chat in an authenticated state. Analytics monitoring was set up to watch issues with SSOe and a phased rollout (beginning at 25% of users) started in September 2024.
+* November 7, 2024 - The link to VA Health Chat rolled out to 100% of users on the MHV on VA.gov landing page. 
+
 ### Connecting to CirrusMD API: 
 There is SSOe between VA.gov and the VA Health Chat web interface, which relies on a 3rd party API called the Cirrus MD API. The My HealtheVet on VA.gov landing page has a link to VA Health Chat which should deep-link users to the web interface and keep them signed in.
 
