@@ -90,11 +90,12 @@ We have prioritized the following design-led initiatives to focus on through end
 |Initiative|Deliverable|Point estimate|
 |:--|:--|:--|
 |Explore how to avoid sign in interruptions|UI designs ready for production|5|
-|Prepare to add static helpful links to a few topics|UI designs ready for production, Metric plan|5|
-|Clean up Figma files|Figma file|2|
+|Design page or component to offer helpful links or continue with form|UI designs ready for production|5|
+|Create plan to test static helpful links on a few topics in production|UI designs with ready for production, Metric plan|5|
+|Clean up Figma files|Figma file ready for handover|2|
 |Update to review and submit from in line editing to jumping back to the page|UI designs ready for production|2|
-|Update saved facility flow content|UI designs|2|
-|Design a standalone page for attachments|UI designs, Updated Mural flow|2|
-|Update confirmation page to confirm which team will receive a question based on routing queue|UI designs, List of names|3|
-|Inventory past and current issues with category and topics received from business lines and recommend updates|Updated category and topic spreadsheet|3|
-|Work with (some) business lines to remove topics based on routing queues|Updated category and topic spreadsheet|5|
+|Update saved facility flow content|UI designs ready for production|2|
+|Design a standalone page for attachments|UI designs ready for production, Updated Mural flow, (4) Updated test scripts|2|
+|Update confirmation page to confirm which team will receive a question based on routing queue|UI designs ready for production, List of names per queue|3|
+|Inventory past and current issues with category and topics received from business lines and recommend updates|Updated category and topic spreadsheet ready for CRM|3|
+|Work with (some) business lines to remove topics based on routing queues|Updated category and topic spreadsheet ready for CRM|5|
