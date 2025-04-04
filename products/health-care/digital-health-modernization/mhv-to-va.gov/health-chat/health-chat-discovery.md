@@ -35,7 +35,7 @@ People:
 * Hugo Padilla (OCC)
 * Patrick Bateman (OCTO)
 
-### Questions to answer:
+### High-level questions & answers: 
 <details><summary>Who is POC for CirrusMD API integration?</summary>
 Hugo Padilla (OCC) who is best reached on Teams or via email. Copy Patrick Bateman on comms.
 </details>
@@ -69,6 +69,25 @@ No, a search of the baseline only shows web chat is available.
 <details><summary>Can we get sample response(s) for the VA Health Chat/CirrusMD API?**</summary>
 TBD
 </details>
+
+### Sync with CirrusMD API team
+Carlos Felix (Cartography) met with the Health Chat/Cirrus MD team on July 12, 2024.
+[View the Zoom recording](https://us06web.zoom.us/rec/share/tnzPLl2roIbv-wrChbKqDsKkFfMsv6Lbw2wPfDXl4tgWYHcYliIH-wfODCT1SL1t.k1-ctxiaxsj8f6DM) - Passcode: a#qs7vgC
+
+**Attendees:**
+Brody Westcot - VP Cirrus MD
+Ean Hibian - PM Cirrus MD
+Ray - Lead PM
+Dale - Sub contract lead chat bot dev
+Patrick Bateman
+Carlos Felix
+
+**Quick summary:**
+* There is Health Chat and VA Chatbot. These are two different chats. Currently the chatbot is for pharmacy only, but the long term vision is to have the chatbot is to direct users to the correct Heath Chat channel. Currently in the early stages of development.
+Health Chat is available at all VISNs.
+* Health Chat uses a filter to look at the appointments in the last 36 months to know if the user is eligible for chat. Health Chat team to share what this filter is. We should be able to look at the user's appointments and use this same filter recipe to determine eligibility.
+* Health Chat presents the user a list of channels and their availability. We are likely to not have access to channel operating hours data, but Health Chat team to share any information on how we can get this. Potentially we just initially point the user to the chat and the existing chat system shows what is available to the user.
+* Health Chat team to provide us with more documentation, so we can understand more of the chat, how it works, and its API.
 
 ### Cartography team discovery tickets
 * [Ticket 86753](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86573)
