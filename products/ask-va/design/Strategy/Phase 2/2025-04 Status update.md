@@ -1,6 +1,6 @@
 # Status update on design initiatives
 
-Last updated by @tygindraux on April 3, 2025
+Last updated by @tygindraux on April 4, 2025
 
 Jump to:
 - [January to March](#january-to-march)
@@ -9,6 +9,14 @@ Jump to:
 ## January to March
 
 In January, we prioritized product- and design-led [initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Phase%202%3A%20Initiatives.md) to focus on through end of March, in addition to launching successfully on VA.gov. This document provides an update on the status of each design-led initiative as of April 3, 2025.
+
+Jump to:
+- [Test concepts with submitters that involve automation](#test-concepts-with-submitters-that-involve-automation)
+- [Design a page to explain the types of questions within a category](#design-a-page-to-explain-the-types-of-questions-within-a-category)
+- [Do a comparative analysis of contact experiences](#do-a-comparative-analysis-of-contact-experiences)
+- [Update designs to use new VA Design System patterns](#update-designs-to-use-new-va-design-system-patterns)
+- [Do research to understand and observe agent processes](#do-research-tounderstand-and-observe-agent-processes)
+- [Prepare a follow-up email to send after a question is closed](#prepare-a-follow-up-email-to-send-after-a-question-is-closed)
 
 ### Test concepts with submitters that involve automation
 |Priority|Status|
@@ -79,5 +87,14 @@ In January, we prioritized product- and design-led [initiatives](https://github.
 
 We have prioritized the following design-led initiatives to focus on through end of May.
 
-> [!NOTE]
-> This list needs to be prioritized. It will be added here.
+|Initiative|Deliverable|Point estimate|
+|:--|:--|:--|
+|Explore how to avoid sign in interruptions|UI designs|5|
+|Prepare to add static helpful links to a few topics|UI designs|5|
+|Clean up Figma files|Figma file|2|
+|Update to review and submit from in line editing to jumping back to the page|2|
+|Update saved facility flow content|UI designs|2|
+|Design a standalone page for attachments|UI designs, Updated Mural flow|2|
+|Update confirmation page to confirm which team will receive a question based on routing queue|UI designs, List of names|3|
+|Inventory past and current issues with category and topics received from business lines and recommend updates|Updated category and topic spreadsheet|3|
+|Work with (some) business lines to remove topics based on routing queues|Updated category and topic spreadsheet|5|
