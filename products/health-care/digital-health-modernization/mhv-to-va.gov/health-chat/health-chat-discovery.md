@@ -107,6 +107,14 @@ Information about how ChatBot determines if a user is eligible for Health Chat. 
 
 * **Note**: If a Veteran is active on multiple sites, the URL will not correspond to a single plan, rather they will receive a category link with their active sites. This puts the veteran into VHC on the landing page you see in the video, and lets them choose which site to enter into.
 
+### Technical Q&A w/ Hugo Padilla (OCC)
+* Q: The API specifications suggests that with proper authorization and parameters, we can get a list of VA Chat services ("plans") returned that are available to the particular patient. Is this accurate? 
+  * A: Yes
+* Q: The call defined in the spec requires token-based authentication. Any idea if that is a static token or would we need to go through an oauth-style flow of providing a client secret, getting a scoped token/JWT back, and supplying that token with the request?
+  * A: Yes, it's an oauth style flow
+* Q: Can't tell from the spec how we specify which patient for which we're looking for VA Chat "plans." Or maybe patient identification is part of the authentication flow?
+  * A: Yes, we ID the Veteran and therefore know which plans they should have access to and only present them the plans when they are available to the Veteran.     
+
 ### Cartography team discovery tickets
 * [Ticket 86753](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86573)
 * [Ticket 86756](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86576)
