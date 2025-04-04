@@ -2,7 +2,7 @@
 Documentation of both UX and technical discovery for implementing VA Health Chat onto My HealtheVet on VA.gov. 
 
 ## Executive Summary
-
+After some initial UX discovery to help the Cartography Team understand where to implement a link to the VA Health Chat, technical discovery took place in order to figure out how we would enable direct SSOe access to the service via the CirrusMD API. Notes about both UX and technical discovery efforts are included herein.
 
 ## On this page
 * Resources
@@ -29,8 +29,8 @@ People:
 ### Support for VA Health Chat across facilities
 VA Health Chat is support based on VISN (not at child facility level). There are 18 VISNs at the VA. As of June 2024, all VISNs support VA Health Chat at some level, but not all have 100% coverage on the 4 support areas. 
 
-
-
+### Design explorations
+Documented in this [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718075410575/0f29fdbccc61d21bbf524d4769de17a2173e37cd).
 
 ## Technical Discovery
 People: 
