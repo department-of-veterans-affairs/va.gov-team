@@ -94,7 +94,7 @@ Screen reader practice session:
    - Max sessions per day: 4
   
 ### Availability
-- **April 14 - 18**
+- **April 14 - 22**
 - Please hold April 21st/22nd in case of needed make ups sessions, to the extent possible.
 
 Team Availability | Time (EST)
