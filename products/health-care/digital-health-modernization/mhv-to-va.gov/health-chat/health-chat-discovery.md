@@ -70,7 +70,7 @@ Link to browser based chat: https://veteran.apps.va.gov/users/v2/login?redirect_
 No, a search of the baseline only shows web chat is available.
 </details>
 
-<details><summary>Can we get sample response(s) for the VA Health Chat/CirrusMD API?**</summary>
+<details><summary>Can we get sample response(s) for the VA Health Chat/CirrusMD API?</summary>
 TBD
 </details>
 
