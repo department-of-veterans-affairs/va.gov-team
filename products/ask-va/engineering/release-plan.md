@@ -128,4 +128,4 @@ Targeting Launch March 18-25th
 
 | Time Range                    | Throughput | Error Rate: Form Submissions (422, 5xx) | Error Rate: Dashboard replies<br>(422, 5xx) | Error Rate:<br>Authorization Related<br>(401) | Error Rate:<br>Other<br>(404) | Latency:<br>vets-api | Latency:<br>CRM |
 | ----------------------------- | ---------- | --------------------------------------- | ------------------------------------------- | --------------------------------------------- | ----------------------------- | -------------------- | --------------- |
-| Mar 27 2:34pm - Apr 3, 9:00am | 1120       | 4.8%                                    | 0%                                          | 0.5%                                          | <0.5%                         |                      | AVG 4s          |
+| Mar 27 2:34pm - Apr 4, 9:00am | 1120       | 4.8%                                    | 0%                                          | 0.5%                                          | <0.5%                         |                      | AVG 4s          |
