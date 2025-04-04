@@ -1,0 +1,118 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "hermes API V1"
+  },
+  "components": {
+    "securitySchemes": {
+      "bearer": {
+        "description": "Token required for Hermes api access",
+        "type": "http",
+        "scheme": "bearer"
+      }
+    },
+    "schemas": {
+      "available_plans": {
+        "type": "object",
+        "required": [
+          "plans",
+          "category"
+        ],
+        "properties": {
+          "plans": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "name",
+                "url"
+              ],
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri"
+                }
+              }
+            }
+          },
+          "category": {
+            "type": "object",
+            "required": [
+              "name",
+              "url"
+            ],
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string",
+                "format": "uri"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "paths": {
+    "/va/api/patient/plans": {
+      "get": {
+        "summary": "Returns the requested plans when they are available and match the specified type.",
+        "tags": [
+          "Hermes"
+        ],
+        "parameters": [
+          {
+            "name": "type",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "Authorization",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Returns available plans of a type",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/available_plans"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Type Parameter is missing in the request"
+          },
+          "401": {
+            "description": "Authentication with the specified type failed during the call to the prvs endpoint"
+          },
+          "422": {
+            "description": "The JSON Web Token fails to validate during the request."
+          }
+        }
+      }
+    }
+  },
+  "servers": [
+    {
+      "url": "{defaultHost}",
+      "variables": {
+        "defaultHost": {
+          "default": "http://va.localhost:3000"
+        }
+      }
+    }
+  ]
+}
