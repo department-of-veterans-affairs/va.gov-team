@@ -89,9 +89,9 @@ Users must have:
 |Aug 22, 2024| Blocked| Cartography moved work to Icebox because SSOe errors and the resulting UX gave us all pause, including Hugo Padilla from the VA Health Chat team. Hugo took the next action in a meeting on 8/29 to look at the VAHC UX holistically and determine the path forward. Development is most likely needed by VAHC to provide a decent experience if SSO fails, and to set up analytics so that the frequency of SSO failure can be measured, both on the existing MHV Classic link and the proposed link from MHV landing page on VA.gov.
 |Oct. 7, 2024| | |
 |Oct. 11, 2024| Unblocked| Hugo worked on OCC side and CirrusMD will provide an update on login successes, failures daily to VA Health Chat for any Veteran attempting to use VA Health Chat (vs monthly). We'll receive daily web reports (vs. monthly) that inform us where users are coming from to VA Health Chat (including the new VA Health Chat link on VA.gov); we'll receive daily reports that inform us when users are redirected to the service recovery page.| 
-|Oct. 21, 2024| Phased launch - 20%| Rolled out to 20% of users, notifying Dr. Meredith Josephs along the way. Analytics monitoring was set up to track issues with SSOe in DataDog and a phased rollout (beginning at 25% of users) started in September 2024|
-|Oct. 28, 2024| Phased launch - 50%}| Increased rollout to 50% of users|
-|November 7, 2024|Phased launch - 100%|Full rollout to 100% of users|
+|Oct. 21, 2024| Launch to 20%| Rolled out to 20% of users, notifying Dr. Meredith Josephs along the way. Analytics monitoring was set up to track issues with SSOe in DataDog and a phased rollout (beginning at 25% of users) started in September 2024|
+|Oct. 28, 2024| Launch to 50%| Increased rollout to 50% of users|
+|November 7, 2024|Launch to 100%|Full rollout to 100% of users|
 
 ### Connecting to CirrusMD API: 
 There is SSOe between VA.gov and the VA Health Chat web interface, which relies on a 3rd party API called the Cirrus MD API. The My HealtheVet on VA.gov landing page has a link to VA Health Chat which should deep-link users to the web interface and keep them signed in.
