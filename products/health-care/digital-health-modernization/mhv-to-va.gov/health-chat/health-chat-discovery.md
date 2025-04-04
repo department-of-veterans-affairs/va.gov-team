@@ -10,7 +10,8 @@
 
 
 ## UX Discovery
-Lead: Kaitlin Fink (OCTO)
+People: 
+* Kaitlin Fink (OCTO)
 
 Features of VA Health Chat: 
 * Find your closest VA facility
@@ -24,9 +25,10 @@ There are 18 VISNs at the VA. As of June 2024, all VISNs support VA Health Chat 
 
 
 ## Technical Discovery
-Lead: Carlos Felix (Cartography Team)
-Hugo Padilla (OCC)
-Patrick Bateman (OCTO)
+People: 
+* Carlos Felix (Cartography Team)
+* Hugo Padilla (OCC)
+* Patrick Bateman (OCTO)
 
 ### Questions to answer:
 **Who is POC for CirrusMD API integration?**
