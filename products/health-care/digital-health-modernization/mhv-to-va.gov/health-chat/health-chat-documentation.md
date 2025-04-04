@@ -105,7 +105,9 @@ There is SSOe between VA.gov and the VA Health Chat web interface, which relies 
 What information we get from the API to determine eligibility and hours?
 
 ### MVP Design
-
+<details><summary>Screenshot of MyHealtheVet on VA.gov landing page with VA Health Chat link implemented</summary>
+<img width="554" alt="Screenshot 2025-04-04 at 10 45 49 AM" src="https://github.com/user-attachments/assets/3cfaec52-713f-46c5-a51c-d168ddf83fcb" />
+</details>
 
 ## <a name="post-mvp"></a>Post-MVP ideas
 **Improvements to implementation on My HealtheVet on VA.gov landing page:** 
@@ -116,7 +118,7 @@ What information we get from the API to determine eligibility and hours?
   * Assuming health chat availability API is not yet ready for us, we do discovery on using our own appointments list integration as a basis for the 36 month eligibility window. (Patrick says - also remember the stakes here: if a patient accidentally gets through to health chat and didn't have an appointment in the last 36 months, is that a real problem?)
 
 **Scale to other places:** 
-* Consider links from the Rx Refill & apointments user flows
+* Consider content + links to VA Health Chat from the Rx refill, messages, & appointments tools
 * Consider integrating with IVC "How to get care" function
 * Consider how this fits into the "Contact us" landscape on VA.gov
 * Consider integration with VAHB mobile app. 
