@@ -18,7 +18,7 @@ This is a look back at all of the responses for the 6 questions on the  FSR cust
 ## Monthly CSAT Score for Debt Portal (FSR & Debt Portal Pages combined)
 
 
-| Survey Question | Financial Management Pages March 2025 CSAT Scores  | Financial Management Pages Baseline Weighted Average CSAT Scores) | All of VA.gov |
+| Survey Question | Financial Management Pages March 2025 CSAT Scores  | Financial Management Pages Baseline Weighted Average CSAT Scores | All of VA.gov |
 |--|--|--| --
 |VA.gov Experience Rating  |  **57.14% ± 13.85%** (95% Confidence Level, N = 49) | **49.01%** | 54.94% |
 |Overall User Satisfaction With the Site  | **20.37% ± 10.74%** (95% Confidence Level, N = 54)| **13.61%** | 26.71% |
