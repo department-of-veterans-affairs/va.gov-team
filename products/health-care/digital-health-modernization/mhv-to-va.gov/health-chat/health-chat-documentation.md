@@ -78,7 +78,8 @@ Users must have:
 ## <a name="mvp"></a>MVP implementation
 
 ### Important dates: 
-* June 21, 2024 - Cartography team was asked to work with Hugo Padilla (OCC) and implement a link to the VA Health Chat on the MHV on VA.gov landing page.
+* June 2024 - Kaitlin Fink did discovery research, including taking several calls with Hugo Padilla (OCC) and documenting questions, notes, and information in [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718075410575/0f29fdbccc61d21bbf524d4769de17a2173e37cd). 
+* June 21, 2024 - Cartography team was asked to prioritize continuing work with Hugo Padilla (OCC) and to implement a hyperlink to the VA Health Chat on the MHV on VA.gov landing page. 
 * August 2024 - Cartography team was ready with this work, but we ran into SSOe issues with the CirrusMD API not reliably handing users off to VA Health Chat in an authenticated state. Analytics monitoring was set up to watch issues with SSOe and a phased rollout (beginning at 25% of users) started in September 2024.
 * November 7, 2024 - The link to VA Health Chat rolled out to 100% of users on the MHV on VA.gov landing page. 
 
@@ -90,9 +91,11 @@ There is SSOe between VA.gov and the VA Health Chat web interface, which relies 
 * since this data doesn't change super often, if we think we'll migrate soon-ish to just calling health chat to get eligibility directly, could probably just hardcode a mapping of facilities to VISNs in the FE or BE.
 * it's never going to be perfect because inevitably a patient will be registered in multiple VISNs because of moving around, and will want to access health chat in their current VISN, which doesn't have it, but their old VISNs do.
 
+### Discovery research
+What information we get from the API to determine eligibility and hours?
+
 ### MVP Design
 
-### What information we get from the API to determine eligibility and hours?
 
 ## <a name="post-mvp"></a>Post-MVP ideas
 **Improvements to implementation on My HealtheVet on VA.gov landing page:** 
