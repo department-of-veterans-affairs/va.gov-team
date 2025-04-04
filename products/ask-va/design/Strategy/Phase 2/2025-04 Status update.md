@@ -87,7 +87,7 @@ Jump to:
 We have prioritized the following design-led initiatives to focus on through end of May.
 
 > [!NOTE]
-> This is based on prioritzation with Ariel (PM) and Megan (Program Lead). Ready for Becky (PO) to review.
+> This is based on prioritization with Ariel (PM) and Megan (Program Lead). Ready for Becky (PO) to review.
 
 |Initiative|Deliverable|Tickets|Sprint|Status|
 |:--|:--|:--|:--|:--|
