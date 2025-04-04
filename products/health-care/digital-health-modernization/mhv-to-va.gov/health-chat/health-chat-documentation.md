@@ -90,6 +90,7 @@ Users must have:
 |Oct. 7, 2024| | |
 |Oct. 11, 2024| Unblocked| Hugo worked on OCC side and CirrusMD will provide an update on login successes, failures daily to VA Health Chat for any Veteran attempting to use VA Health Chat (vs monthly). We'll receive daily web reports (vs. monthly) that inform us where users are coming from to VA Health Chat (including the new VA Health Chat link on VA.gov); we'll receive daily reports that inform us when users are redirected to the service recovery page.| 
 |Oct. 21, 2024| Phased launch - 20%| Rolled out to 20% of users, notifying Dr. Meredith Josephs along the way. Analytics monitoring was set up to track issues with SSOe in DataDog and a phased rollout (beginning at 25% of users) started in September 2024|
+|Oct. 28, 2024| Phased launch - 50%}| Increased rollout to 50% of users|
 |November 7, 2024|Launch| The link to VA Health Chat rolled out to 100% of users on the MHV on VA.gov landing page|
 
 ### Connecting to CirrusMD API: 
