@@ -13,6 +13,9 @@ After some initial UX discovery in June 2024 to help the Cartography Team unders
 * [VA Health Chat discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718075410575/0f29fdbccc61d21bbf524d4769de17a2173e37cd)
 * [CirrusMD API Specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/health-chat/health_chat_swagger.json)
 * [A video on how ChatBot links to Health Chat](https://vimeo.com/manage/videos/957735226/3b9da7b241) -_shows how VA Health Chat is presented to the user_
+* Information on the ChatBot API that provides a list of channels available. [Chatbot __ VHC Integration Overview.docx](https://github.com/user-attachments/files/16239627/Chatbot.__.VHC.Integration.Overview.docx)
+
+
 
 ## UX Discovery
 People: 
