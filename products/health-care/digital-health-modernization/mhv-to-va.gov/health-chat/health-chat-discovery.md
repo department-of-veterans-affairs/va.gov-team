@@ -44,7 +44,7 @@ People:
 * Kaitlin Fink - Unknown what the true definition of a "plan" is. Kaitlin Fink thinks the "plans" are the types a user has access to: Virtual Clinic Visit (Urgent Care), Clinical Triage, Scheduling and Administration, and Pharmacy. The plans are based on what Veterans Integrated Services Network (VISN) they are associated with. The goal is for all VISNs to support all 4 but they aren't there yet. All VISNs have at least one healthchat plan available. It is specific support per VISN not by facility.
 
 **What is the link we will use in the Landing Page to the chat tool?**
-* @carlosfelix2 - Link to browser based chat: https://veteran.apps.va.gov/users/v2/login?redirect_uri=/cirrusmd from public website.
+* Carlos Felix - Link to browser based chat: https://veteran.apps.va.gov/users/v2/login?redirect_uri=/cirrusmd from public website.
 
 **How to determine at what times the chat is supported?**
 * Potentially use the VA Health Chat/CirrusMD API for this.
@@ -53,11 +53,11 @@ People:
 **What is the authentication for the VA Health Chat/CirrusMD API?**
 * Per Hugo Padilla on an email to Patrick June 14, 2024: Believe it is Oauth authentication.
 * Per Hugo Padilla on an email to Patrick June 14, 2024: the authentication IDs the veteran and hence no ID needs to be passed in to the API to get data.
-* @carlosfelix2 - Looks like the browser based chat uses the same VA authentication from a quick try on the public website.
-* @carlosfelix2 - Per the Health Chat training doc: To use VA Health Chat, the user must be enrolled in VA health care in a location that supports VA Health Chat and have Login.gov, ID.me, DS Logon Level 2 (Premium), or My HealtheVet Premium account credentials. There is no mention of LOA1 or LOA3.
+* Carlos Felix - Looks like the browser based chat uses the same VA authentication from a quick try on the public website.
+* Carlos Felix - Per the Health Chat training doc: To use VA Health Chat, the user must be enrolled in VA health care in a location that supports VA Health Chat and have Login.gov, ID.me, DS Logon Level 2 (Premium), or My HealtheVet Premium account credentials. There is no mention of LOA1 or LOA3.
 
 **Is there an existing vets-api service for Health Chat?**
-* @carlosfelix2 - NO! A search of the baseline only shows web chat is available.
+* No, a search of the baseline only shows web chat is available.
 
 **Can we get sample response(s) for the VA Health Chat/CirrusMD API?**
 TBD
