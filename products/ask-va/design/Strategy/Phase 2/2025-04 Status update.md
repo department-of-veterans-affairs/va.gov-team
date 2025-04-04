@@ -91,7 +91,7 @@ We have prioritized the following design-led initiatives to focus on through end
 |:--|:--|:--|:--|
 |Explore how to avoid sign in interruptions|UI designs ready for production|[#1714](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=104087485&issue=department-of-veterans-affairs%7Cask-va%7C1714)|5|
 |Design page or component to offer helpful links or continue with form|UI designs ready for production|[#1671](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=101909853&issue=department-of-veterans-affairs%7Cask-va%7C1671)|5|
-|Create prototype(s) to describe proposed helpful link approach|[#1672](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=101909893&issue=department-of-veterans-affairs%7Cask-va%7C1672)|2|
+|Create prototype(s) to describe proposed helpful link approach|Figma prototype|[#1672](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=101909893&issue=department-of-veterans-affairs%7Cask-va%7C1672)|2|
 |Create plan to test static helpful links on a few topics in production|UI designs with ready for production, Metric plan|[#](add link)|5|
 |Update to review and submit from in line editing to jumping back to the page|UI designs ready for production|[#](add link)|2|
 |Update saved facility flow content|UI designs ready for production|[#1720](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=104582117&issue=department-of-veterans-affairs%7Cask-va%7C1720)|2|
