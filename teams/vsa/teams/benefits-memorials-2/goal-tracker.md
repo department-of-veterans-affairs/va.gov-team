@@ -19,7 +19,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | QP5 | **One Thing Per Page** | [#106610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106610)| | **[UX+FE]** Plan to extract 1TTP from VHA Payment History work to expedite implementation |  |
 | QP6 | **Pay.gov Hosted Collection Page (HCP) for Overpayments:** Discovery & Design Prototyping *| [#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |  |**[UX]**  | |
 | QP7 | **Mobile App:** Collaborate with IIR team to add overpayment debt information into mobile app experience |  [#106209](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106209) |  |**[UX]** IIR team responsible for implementation - FM team with expertise in finance space to collaborate closely with IIR |   |
-| QP8 | **VBA Hardship Suspension:** Discovery & Design Prototyping * | [#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207) |  | **[UX]** | |
+| QP8 | **Veteran Request for Hardship Suspension (VBA):** Discovery & Design Prototyping * | [#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207) |  | **[UX]** | |
 
 
 
