@@ -16,10 +16,12 @@ In June 2024 it was a major priority for OCC and OCTO for the My HealtheVet on V
 The MVP approach was attempted in August 2024, but teams ran into significant issues with SSOe functioning as expected. Analytics were set up to monitor the frequency of failed API calls. After some trouble-shooting and an incremental release, the link was made available to 100% of users on November 7, 2024.  
 
 ## <a name="resources"></a>Resources
-* Key personnel:
-  * OCC - Hugo Padilla
-  * OCTO - Kaitlin Fink, Patrick Bateman
-  * MHV on VA.gov Cartography Team - Carlos Felix, Wes Rowe
+Key personnel:
+* OCC - Hugo Padilla
+* OCTO - Kaitlin Fink, Patrick Bateman
+* MHV on VA.gov Cartography Team - Carlos Felix, Wes Rowe
+  
+Links: 
 * [VA Health Chat app website](https://mobile.va.gov/app/va-health-chat)
 * [VA Health Chat "At a glance"](https://mobile.va.gov/sites/default/files/documents/hopat1994-va-health-chat-at-a-glance-508_final-1.pdf)(PDF)
 * [API specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/health-chat/health_chat_swagger.json)
