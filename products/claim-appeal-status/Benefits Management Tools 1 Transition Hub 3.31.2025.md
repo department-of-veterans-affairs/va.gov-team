@@ -140,12 +140,13 @@ This table includes links to the individual feature directory and the latest ite
 <br>
 
 ## Enablement Team
-
-- Amy Lai | amy.lai2@va.gov - Product Owner
-- Julie Strothman | julie.strothman@va.gov - Design Lead
-- Cory Sohrakoff | cory.sohrakoff@va.gov - Engineering Lead
-- Zack Goldfine | zackary.goldfine@va.gov - Deputy CTO, Benefits Lead
-- Steve Albers |steve.albers@va.gov - OCTO Engineering Lead
+| Name            | Email                   | Role                           |
+|-----------------|-------------------------|--------------------------------|
+| Amy Lai         | amy.lai2@va.gov         | Product Owner                  |
+| Julie Strothman | julie.strothman@va.gov  | Design Lead                    |
+| Cory Sohrakoff  | cory.sohrakoff@va.gov   | Engineering Lead               |
+| Zach Goldfine   | zachary.goldfine@va.gov | Deputy CTO, Benefits Lead      |
+| Steve Albers    | steve.albers@va.gov     | OCTO Platform Engineering Lead |
 
 
 
