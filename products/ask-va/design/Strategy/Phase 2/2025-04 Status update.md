@@ -87,15 +87,19 @@ Jump to:
 
 We have prioritized the following design-led initiatives to focus on through end of May.
 
-|Initiative|Deliverable|Point estimate|
-|:--|:--|:--|
-|Explore how to avoid sign in interruptions|UI designs ready for production|5|
-|Design page or component to offer helpful links or continue with form|UI designs ready for production|5|
-|Create plan to test static helpful links on a few topics in production|UI designs with ready for production, Metric plan|5|
-|Clean up Figma files|Figma file ready for handover|2|
-|Update to review and submit from in line editing to jumping back to the page|UI designs ready for production|2|
-|Update saved facility flow content|UI designs ready for production|2|
+|Initiative|Deliverable|Ticket|Point estimate|
+|:--|:--|:--|:--|
+|Explore how to avoid sign in interruptions|UI designs ready for production|[#1714](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=104087485&issue=department-of-veterans-affairs%7Cask-va%7C1714)|5|
+|Design page or component to offer helpful links or continue with form|UI designs ready for production|[#1671](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=101909853&issue=department-of-veterans-affairs%7Cask-va%7C1671)|5|
+|Create prototype(s) to describe proposed helpful link approach|[#1672](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=101909893&issue=department-of-veterans-affairs%7Cask-va%7C1672)|2|
+|Create plan to test static helpful links on a few topics in production|UI designs with ready for production, Metric plan|[#](add link)|5|
+|Update to review and submit from in line editing to jumping back to the page|UI designs ready for production|[#](add link)|2|
+|Update saved facility flow content|UI designs ready for production|[#1720](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=104582117&issue=department-of-veterans-affairs%7Cask-va%7C1720)|2|
 |Design a standalone page for attachments|UI designs ready for production, Updated Mural flow, (4) Updated test scripts|2|
-|Update confirmation page to confirm which team will receive a question based on routing queue|UI designs ready for production, List of names per queue|3|
+|Update confirmation page to confirm which team will receive a question based on routing queue|UI designs ready for production, List of names per queue|[#1668](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=101905360&issue=department-of-veterans-affairs%7Cask-va%7C1668)|3|
 |Inventory past and current issues with category and topics received from business lines and recommend updates|Updated category and topic spreadsheet ready for CRM|3|
 |Work with (some) business lines to remove topics based on routing queues|Updated category and topic spreadsheet ready for CRM|5|
+
+Other operational tasks we need to complete before end of May:
+- Clean up Figma files: [#](add link)
+- Present research findings at VA Platform design sync: [#1666](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=101411359&issue=department-of-veterans-affairs%7Cask-va%7C1666)
