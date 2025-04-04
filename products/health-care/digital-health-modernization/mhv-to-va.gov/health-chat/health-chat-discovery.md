@@ -1,5 +1,5 @@
 # VA Health Chat Discovery
-After some initial UX discovery to help the Cartography Team understand where to implement a link to the VA Health Chat, technical discovery took place in order to figure out how we would enable direct SSOe access to the service via the CirrusMD API. Notes about both UX and technical discovery efforts are included herein.
+After some initial UX discovery in June 2024 to help the Cartography Team understand where to implement a link to the VA Health Chat, technical discovery took place in July 2024 in order to figure out how we would enable direct SSOe access to the service via the CirrusMD API. Notes about both UX and technical discovery efforts are included herein.
 
 ## On this page
 * Resources
@@ -36,31 +36,39 @@ People:
 * Patrick Bateman (OCTO)
 
 ### Questions to answer:
-**Who is POC for CirrusMD API integration?**
-* Hugo Padilla (OCC) who is best reached on Teams or via email. Copy Patrick Bateman on comms.
+<details><summary>Who is POC for CirrusMD API integration?</summary>
+Hugo Padilla (OCC) who is best reached on Teams or via email. Copy Patrick Bateman on comms.
+</details>
 
-**How to determine a user is eligible for Health Chat?**
+<details><summary>How to determine a user is eligible for Health Chat?</summary>
 * Per Hugo Padilla on an email to Patrick June 14, 2024: The VA Health Chat/CirrusMD API can be used to return a list of VA Chat services/plans that are currently available to a particular patient.
 * Kaitlin Fink - Unknown what the true definition of a "plan" is. Kaitlin Fink thinks the "plans" are the types a user has access to: Virtual Clinic Visit (Urgent Care), Clinical Triage, Scheduling and Administration, and Pharmacy. The plans are based on what Veterans Integrated Services Network (VISN) they are associated with. The goal is for all VISNs to support all 4 but they aren't there yet. All VISNs have at least one healthchat plan available. It is specific support per VISN not by facility.
+</details>
 
-**What is the link we will use in the Landing Page to the chat tool?**
-* Carlos Felix - Link to browser based chat: https://veteran.apps.va.gov/users/v2/login?redirect_uri=/cirrusmd from public website.
+<details><summary>What is the link we will use in the Landing Page to the chat tool?</summary>
+Link to browser based chat: https://veteran.apps.va.gov/users/v2/login?redirect_uri=/cirrusmd from public website.
+</details>
 
-**How to determine at what times the chat is supported?**
+<details><summary>How to determine at what times the chat is supported?</summary>
 * Potentially use the VA Health Chat/CirrusMD API for this.
-* Potentially each service/plan has different hours. Which service/plan are we linking to? @carlosfelix2 - I am thinking the user needs to choose which one as per how the chat works today.
+* Potentially each service/plan has different hours. Which service/plan are we linking to?
+  * Carlos Felix- I am thinking the user needs to choose which one as per how the chat works today.
+</details>
 
-**What is the authentication for the VA Health Chat/CirrusMD API?**
+<details><summary>What is the authentication for the VA Health Chat/CirrusMD API?</summary>
 * Per Hugo Padilla on an email to Patrick June 14, 2024: Believe it is Oauth authentication.
 * Per Hugo Padilla on an email to Patrick June 14, 2024: the authentication IDs the veteran and hence no ID needs to be passed in to the API to get data.
 * Carlos Felix - Looks like the browser based chat uses the same VA authentication from a quick try on the public website.
 * Carlos Felix - Per the Health Chat training doc: To use VA Health Chat, the user must be enrolled in VA health care in a location that supports VA Health Chat and have Login.gov, ID.me, DS Logon Level 2 (Premium), or My HealtheVet Premium account credentials. There is no mention of LOA1 or LOA3.
+</details>
 
-**Is there an existing vets-api service for Health Chat?**
-* No, a search of the baseline only shows web chat is available.
+<details><summary>Is there an existing vets-api service for Health Chat?</summary>
+No, a search of the baseline only shows web chat is available.
+</details>
 
-**Can we get sample response(s) for the VA Health Chat/CirrusMD API?**
+<details><summary>Can we get sample response(s) for the VA Health Chat/CirrusMD API?**</summary>
 TBD
+</details>
 
 ### Cartography team discovery tickets
 * [Ticket 86753](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86573)
