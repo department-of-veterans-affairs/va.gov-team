@@ -25,7 +25,7 @@ Story points completed: [number of points]
 ###  Support Rotation or PTO
 *Note any team member on support or PTO this sprint and note which it is
 
-#### Epics & Issues</span>
+### Epics & Issues</span>
 
 *If you did not plan or complete work under any of the specific sections below, write *N/A* in place of an issue title. If you do not have any standalone epic work, remove that section.*
 
