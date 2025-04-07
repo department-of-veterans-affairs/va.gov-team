@@ -96,14 +96,12 @@ Our target audience is 6 Veterans (with expectations of speaking to 4) who are a
 
 | # of participants | Criteria | Level |
 | --- | --- | --- |
-
 | Primary |
 | All | Must have used, or are willing to use, VA.gov | Primary |
 | Representative Support |
 | All | Actively searching for a representative to support with a claim or benefit OR started receiving support in the last 6 months | Primary |
 | Representative Type |
 | All | Attorney or claims agent | Primary |
-
 | Secondary |
 | 3 or more | Age 55+ yo | Secondary |
 | 2 or more | People of color (black, Hispanic, asian, or Native American) | Secondary |
