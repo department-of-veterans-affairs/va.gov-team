@@ -189,12 +189,12 @@ Please make sure that ALL participants are willing to complete the session on th
    - Other – please specify
 
  4. What device will you use to join the session? 
-   - Desktop/Laptop - Windows
-   - Desktop/Laptop - Mac
-   - Tablet – Android (recruit up to 1)
+   - Desktop/Laptop - Windows (recruit 1-2)
+   - Desktop/Laptop - Mac (recruit 1-2)
+   - Tablet – Android 
    - Tablet – iPad (recruit up to 1)
    - Mobile phone – Android
-   - Mobile phone – iPhone
+   - Mobile phone – iPhone (recruit 1-2)
 
 
 ### **Timeline**
