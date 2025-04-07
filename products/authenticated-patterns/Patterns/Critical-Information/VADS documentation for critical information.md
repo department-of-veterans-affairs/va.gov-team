@@ -1,3 +1,7 @@
+**THIS PAGE IS OUTDATED. See the [Staging site
+](https://dev-design.va.gov/3973/components/critical-action) for the most updated content.**
+
+------
 # Alert - Critical
 
 Use with caution: Available
