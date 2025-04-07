@@ -61,8 +61,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |ENG: Complete the dev work for the Wizard new flow and be prepared for the release, pending CAIA Pages| QP3 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [ ] Ready to be sent for approvals (04/XX/25)
- - [ ] VA PO & COR sent the Sprint Goals (04/XX/25)
+ - [X] Ready to be sent for approvals (04/07/25)
+ - [X] VA PO & COR sent the Sprint Goals (04/07/25)
  - [ ] VA PO approved the Sprint Goals (04/XX/25)
  - [ ] VA COR approved the Sprint Goals (04/XX/25)
  
