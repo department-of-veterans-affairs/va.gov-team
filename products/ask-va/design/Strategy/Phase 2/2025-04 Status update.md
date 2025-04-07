@@ -1,6 +1,6 @@
 # Status update on design initiatives
 
-Last updated by @tygindraux on April 4, 2025
+Last updated by @tygindraux on April 7, 2025
 
 Jump to:
 - [January to March](#january-to-march)
@@ -89,7 +89,7 @@ We have prioritized the following design-led initiatives to focus on through end
 |Initiative|Deliverable|Tickets|Sprint|Status|
 |:--|:--|:--|:--|:--|
 |Prototype category, topic and subtopic prediction|[Prototypes ready for testing](https://www.figma.com/design/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Phase-II-exploration?node-id=468-14582)|[#1665](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=101411290&issue=department-of-veterans-affairs%7Cask-va%7C1665) [#1667](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=101904553&issue=department-of-veterans-affairs%7Cask-va%7C1667) [#1669](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=101905411&issue=department-of-veterans-affairs%7Cask-va%7C1669)|48-49|`Done`|
-|Explore how to avoid sign in interruptions|UI designs ready for production|[#1714](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=104087485&issue=department-of-veterans-affairs%7Cask-va%7C1714)|49|`Not Started`|
+|Explore how to avoid sign in interruptions|UI designs ready for production|[#1714](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=104087485&issue=department-of-veterans-affairs%7Cask-va%7C1714)|49|`In Progress`|
 |Create plan to test static helpful links on a few topics in production|UI designs ready for production, metric plan for future release, (6) updated test scripts|[#1670](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=101909785&issue=department-of-veterans-affairs%7Cask-va%7C1670) [#1671](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=101909853&issue=department-of-veterans-affairs%7Cask-va%7C1671) [#1721](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=105075675&issue=department-of-veterans-affairs%7Cask-va%7C1721)|47, 49-50|`In Progress`|
 |Create and share chatbot integration prototype|Prototypes ready for testing, design approach documentation|[#1728](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=105390623&issue=department-of-veterans-affairs%7Cask-va%7C1728) [#1729](https://github.com/department-of-veterans-affairs/ask-va/issues/1729) [#1730](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=105391395&issue=department-of-veterans-affairs%7Cask-va%7C1730)|50-51|`Not Started`|
 |Update saved facility flow content|UI designs ready for production|[#1720](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=104582117&issue=department-of-veterans-affairs%7Cask-va%7C1720)|50|`Not Started`|
