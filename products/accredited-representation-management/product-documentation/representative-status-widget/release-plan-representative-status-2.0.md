@@ -10,10 +10,12 @@ This feature toggle is setup for authenticated users and we can also enable earl
 - [ ] All "Before release" items have been addressed
 - [ ] Contact Center Review is submitted 
 - [ ] Privacy, Security, IA Readiness Review is complete
+- [ ] Monitoring in Datadog is setup, for Profile
 
 #### Go/No Go Meeting
 - [ ] Test the 2.0 Profile and MyVA experience in Production
-- [ ] Review the release plan and confirm 
+- [ ] Review the release plan
+- [ ] Address any open questions or concerns 
 - [ ] Determine a verdict
 
 **Verdict:TBD**
