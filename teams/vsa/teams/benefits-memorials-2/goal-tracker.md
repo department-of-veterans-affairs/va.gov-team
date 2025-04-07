@@ -34,7 +34,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |--|--|--|--|--|
 |UX: Complete the March Medallia Report| QPX |--|--|--|
 |UX: Discovery meeting with Domo Dashboard Users| FY25Q2 QP4 |--|--|--|
-|UX: Finalize Medallia analytics data reports to run to inform satisfaction metrics| FY25Q2 QP4 |--| -- | -- |
+|UX: Finalize Medallia analytics data reports to run to inform satisfaction metrics| FY25Q2 QP4 |QP5 | 4/2/25 | Completed |
 |ENG: Initial PR submitted for VA notify callback | QP1 |--|03/28/25|Completed|
 |ENG: Address the “must” accessibility feedback for the One VA Debt Letter | QP2 |--|--|--|
 |ENG: Restart Digital Dispute work in preparation for Q3 priorities | QP3 |--|03/28/25|Completed|
