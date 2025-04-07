@@ -36,7 +36,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Discovery meeting with Domo Dashboard Users| FY25Q2 QP4 |--|04/07/25|Completed |
 |UX: Finalize Medallia analytics data reports to run to inform satisfaction metrics| FY25Q2 QP4 |-- | 4/7/25 | Completed |
 |ENG: Initial PR submitted for VA notify callback | QP1 |--|03/28/25|Completed|
-|ENG: Address the “must” accessibility feedback for the One VA Debt Letter | QP2 |--|04/07/2025|--|
+|ENG: Address the “must” accessibility feedback for the One VA Debt Letter | QP2 |--|04/07/2025|Completed|
 |ENG: Restart Digital Dispute work in preparation for Q3 priorities | QP3 |--|03/28/25|Completed|
 |ENG: Updates to FSR based off Veteran feedback such as Removal of $70K limit to retirement funds | QPX |--|03/28/25|Completed|
 |ENG: Continue Josh’s access to critical systems and onboarding tasks | QPX |--|--04/01/25|Completed|
