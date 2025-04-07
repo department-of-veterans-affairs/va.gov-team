@@ -4,11 +4,11 @@
 
 Date: 03/27/25
 
-\[Evelyn Hilbrich Davis\] \[evelyn@cityfriends.tech\]
-\[Qian Chen\] \[qian.chen@coforma.io\]
-\[Ruben Sun\] \[ruben.sun@coforma.iol\]
+- [Evelyn Hilbrich Davis](evelyn@cityfriends.tech)
+- [Qian Chen](qian.chen@coforma.io)
+- [Ruben Sun](ruben.sun@coforma.iol)
 
-\[Research readout\](link here)
+Research Findings [PDF](https://github.com/user-attachments/files/19638877/0781.Research.Report.pdf) | [PPTX](https://github.com/user-attachments/files/19638878/0781.Research.Report.pptx)
 
 **Jump to:**
 
