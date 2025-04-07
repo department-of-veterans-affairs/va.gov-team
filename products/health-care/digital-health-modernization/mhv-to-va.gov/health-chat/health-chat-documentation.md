@@ -113,7 +113,7 @@ What information we get from the API to determine eligibility and hours?
 ## <a name="post-mvp"></a>Post-MVP ideas
 **Improvements to implementation on My HealtheVet on VA.gov landing page:** 
 * **Design**
-  * Instead of only surfacing a hyperlink at the bottom of this page, build a widget that provides more context and "smarter" personaslized information that shows the user which chat services are available for their VISNs and/or lets users know when it isn’t available.
+  * Instead of only surfacing a hyperlink at the bottom of this page, build a widget that provides more context and "smarter" personalized information that shows the user which chat services are available for their VISNs and/or lets users know when it isn’t available.
 * **Engineering**
   * Add in facility conditionality - we know exactly what facilities don't offer health chat. We know what facilities the user is registered. Use a hard coded facility disallow list to hide the health chat link for users who won't ever have access.
   * Assuming health chat availability API is not yet ready for us, we do discovery on using our own appointments list integration as a basis for the 36 month eligibility window. (Patrick says - also remember the stakes here: if a patient accidentally gets through to health chat and didn't have an appointment in the last 36 months, is that a real problem?)
@@ -133,11 +133,11 @@ Notes and conversation details from initial implementation timeline in Summer 20
 **Design plans:**
 * Initially, OCTO was concerned about surfacing the VA Health Chat link to all users, regardless of whether the service was available to them (based on their associated VISN) or the service's operational hours. A suggested compromise at the time was to build out an interstitial page on va.gov (i.e. `va.gov/my-health/about-va-health-chat` or something) that explains what health chat is and that it might not be available at the moment (if after hours) or at all (if not available in VISN/site).
 * In a call between Kaitlin Fink, Robyn Singleton, Patrick Bateman, and Florence McCafferty on 7/26/24, decided to move away from the interstitial page approach and use a static-link approach as the MVP. Rationale: an interstitial page on VA.gov would not be personalized at all, whereas the VAHC experience is personalized/dynamic – e.g., it shows the user what they can do in their VISN and whether those channels are open right now.
-* Kaitlin Fink shared on 6/21/24 that other tools will be adding it VA Health Chat in context when it makes sense, starting with appointments. As of April 2025, Cartography is unsure if an integration within appointments happened - we are reaching out to get information about that. Mock-ups of what this could look like on the appointments and messages pages are included in the [discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718075410575/0f29fdbccc61d21bbf524d4769de17a2173e37cd). 
+* Kaitlin Fink shared on 6/21/24 that other tools will be adding VA Health Chat in context when it makes sense, starting with appointments. As of April 2025, Cartography is unsure if an integration within appointments happened - we are reaching out to get information about that. Mock-ups of what this could look like on the appointments and messages pages are included in the [discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718075410575/0f29fdbccc61d21bbf524d4769de17a2173e37cd). 
 
 **Implications to a user's medical records:**
 * If a chat conversation gets sent to a clinical provider, that conversation will be added to the patient's medical record as a note. We believe it would be a "progress note" specifically.
-* In Health chat, provide the staff a note template and then copy and paste this into CPRS (part of a veterans medical record)
+* In Health chat, provide the staff a note template and then copy and paste this into CPRS (part of a veterans medical record).
 * For Pharmacy, a note gets sent to the care team if a Veteran requests a presription renewal (same as if you call in to chat with a triage team).
 
 **Should we conditionally reveal access to VA Health Chat based on availability of service?**
@@ -149,4 +149,4 @@ Notes and conversation details from initial implementation timeline in Summer 20
 * The interface surfaces a user's VISNs instead of the actual facilities they go to, and this could be confusing to Veterans. If they have multiple, how will they know what "VISN 23 (Site ID 983)" versus "VISN 2 (Site ID 984)" are?
   * Kaitlin says this is okay, most of the questions can probably get covered either way, and a responder can always redirect the to a different VISN chat.
 * Once the service is up and running, could we push them to improve their UX?
-  * Perhaps CirrusMD could look at the user's last appointment location, and automatically send them to that site's chat. and if not available, then the next one on the list, etc... 
+  * Perhaps CirrusMD could look at the user's last appointment location, and automatically send them to that site's chat, and if not available, then the next one on the list, etc... 
