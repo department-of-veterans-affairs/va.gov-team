@@ -55,8 +55,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 |UX: Refine templates for Zero Silent Failure (Email 1 & 2)| QP1 |--|--|--|
-|UX: Create prototypes for Wizard & Digital Dispute Usability Study| QP3 - QP4 |--|--|--|
-|UX: Complete the Research plan step 1 for Wizard & Digital Dispute (Write guides) | QP3 - QP4 |--|--|--|
+|UX: Create prototypes for Wizard & Digital Dispute Usability Study| QP3 QP4 |--|--|--|
+|UX: Complete the Research plan step 1 for Wizard & Digital Dispute (Write guides) | QP3 QP4 |--|--|--|
 |ENG: Complete dev work for One VA debt letter and collaborate with Platform on PR’s| QP2 |--|--|--|
 |ENG: Complete the dev work for the Wizard new flow and be prepared for the release pending CAIA Pages| QP3 |--|--|--|
 
