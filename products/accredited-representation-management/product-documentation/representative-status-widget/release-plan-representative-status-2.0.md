@@ -5,9 +5,15 @@ Feature Toggle/flag:
 
 This feature toggle is setup for authenticated users and we can also enable early access in Production to individual users, via email address.
 
+#### Preparing for Release
+- [ ] All "launch blocking" items from Staging Review have been addressed
+- [ ] All "Before release" items have been addressed
+- [ ] Contact Center Review is submitted 
+- [ ] Privacy, Security, IA Readiness Review is complete
+
 #### Go/No Go Meeting
 - [ ] Test the 2.0 Profile and MyVA experience in Production
-- [ ] Review the release plan
+- [ ] Review the release plan and confirm 
 - [ ] Determine a verdict
 
 **Verdict:TBD**
@@ -16,12 +22,6 @@ This feature toggle is setup for authenticated users and we can also enable earl
 
 - Limited production access to the v2 features of Appoint a Representative will be controlled through the frontend feature toggle `representative_status_enable_v2_features`
 - Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed below)
-
-#### Platform Preparation
-- [ ] All "launch blocking" items from Staging Review have been addressed
-- [ ] All "Before release" items have been addressed
-- [ ] Contact Center Review is submitted 
-- [ ] Privacy, Security, IA Readiness Review is complete
 
 #### Rollout dates: TBD
 _The Profile page typically has ~130k users per week, but it can climb up to ~150k users per week._
