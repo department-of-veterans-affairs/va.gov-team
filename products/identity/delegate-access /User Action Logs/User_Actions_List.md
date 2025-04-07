@@ -57,7 +57,7 @@ User actions prioritized for the MVP
 
 |   Event type    |                   Event description                    |       Identifier    |  Implemented  |
 | :-------------- | :----------------------------------------------------- | :------------------- | :------------------- |
-| Sign-in         | Sign in {{ on VA.gov }}                                | sign_in              | :white_check_mark: |
+| Sign-in         | Sign in on VA.gov                                | sign_in              | :white_check_mark: |
 | Profile         | Update mailing address                                 | update_mailing_address |  |
 |                 | Update phone number                                    | update_phone_number   |  |
 |                 | Update email address                                   | update_email_address  |  |
