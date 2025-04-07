@@ -58,7 +58,6 @@ User actions prioritized for the MVP
 |   Event type    |                   Event description                    |       Identifier    |  Implemented  |
 | :-------------- | :----------------------------------------------------- | :------------------- | :------------------- |
 | Sign-in         | Sign in {{ on VA.gov }}                                | sign_in              | :white_check_mark: |
-|                 | Verify identity* {{ on ID.me }}                        | verify_identity      |  |
 | Profile         | Update mailing address                                 | update_mailing_address |  |
 |                 | Update phone number                                    | update_phone_number   |  |
 |                 | Update email address                                   | update_email_address  |  |
@@ -70,11 +69,11 @@ User actions prioritized for the MVP
 |                 | Update direct deposit for tuition                      | update_direct_deposit_tuition  |  |
 |                 | Add direct deposit for travel pay reimbursement        | add_direct_deposit_travel_pay  |  |
 |                 | Update direct deposit for travel pay reimbursement     | update_direct_deposit_travel_pay  |  |
-| Documents       | Download {{ Blue Button report }}                      | download_blue_button_report    |  |
-|                 | Download {{ VA benefits letter }}                      | download_va_benefits_letter    |  |
-|                 | Download {{ VA Health summary PDF }}                   | download_va_health_summary  |  |
-| Forms           | Submit {{ VA Form 21-10210 Lay/Witness Statement }}    | submit_va_form_21-10210 |  |
-|                 | Submit {{ VA Form 10-10EZ Application for Health Benefits }} | submit_va_form_10-10ez |  |
+| Documents       | Download Blue Button report                      | download_blue_button_report    |  |
+|                 | Download VA benefits letter                      | download_va_benefits_letter    |  |
+|                 | Download VA Health summary PDF                   | download_va_health_summary  |  |
+| Forms           | Submit VA Form 21-10210 Lay/Witness Statement    | submit_va_form_21-10210 |  |
+|                 | Submit VA Form 10-10EZ Application for Health Benefits | submit_va_form_10-10ez |  |
 
 *Currently we only track identity verification if the user previously signed in with an unverified account.
 
