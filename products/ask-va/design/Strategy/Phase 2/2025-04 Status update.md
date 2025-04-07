@@ -86,9 +86,6 @@ Jump to:
 
 We have prioritized the following design-led initiatives to focus on through end of May.
 
-> [!NOTE]
-> This is based on prioritization with Ariel (PM) and Megan (Program Lead). Ready for Becky (PO) to review.
-
 |Initiative|Deliverable|Tickets|Sprint|Status|
 |:--|:--|:--|:--|:--|
 |Prototype category, topic and subtopic prediction|[Prototypes ready for testing](https://www.figma.com/design/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Phase-II-exploration?node-id=468-14582)|[#1665](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=101411290&issue=department-of-veterans-affairs%7Cask-va%7C1665) [#1667](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=101904553&issue=department-of-veterans-affairs%7Cask-va%7C1667) [#1669](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?pane=issue&itemId=101905411&issue=department-of-veterans-affairs%7Cask-va%7C1669)|48-49|`Done`|
