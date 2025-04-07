@@ -166,11 +166,10 @@ Generated using VA [maximum variation sampling](https://github.com/department-of
 **Screener for AT users**
 
 Please make sure that ALL participants are willing to complete the session on the device they specified when recruited and:
-
-    - During the session, are willing to share their screen and audio
-    - Have a working microphone on their device
-    - Depend on screen reader to access ALL digital content
-    - Join the session with the device they specified on their screener
+ - During the session, are willing to share their screen and audio
+ - Have a working microphone on their device
+ - Depend on screen reader to access ALL digital content
+ - Join the session with the device they specified on their screener
 
  1. Do you rely on screen readers to access ALL digital content?  
    - Yes – I need a screen reader to access ALL digital content (recruit 3)
