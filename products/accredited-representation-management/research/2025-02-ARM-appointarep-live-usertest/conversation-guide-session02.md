@@ -230,18 +230,15 @@ _Your next steps_
 - How likely would you use the tool we showed today? Why or why not?
 - Observers, do you have any additional questions?
 
-## Post-Task Interview – Non-AT Users Only  
+## Post-Task Interview - 5 mins  
 
-Prototype Share - 5 minutes
+- Overall, about everything we covered during today's session...
+-   What worked well for you?
+-   What was unclear or didn't work well for you
+-   What would you like to change or add?
 
-At this time, we would like to show you some work that is in development.
+- Observers, do you have any additional questions?
 
-Share the Figma link with prototype
-
-- This prototype represents the next step of the form process that is submitted from VA.GOV. Upon submitting this is the next set of screens.
-    1. Is there anything on this screen that stands out?
-    2. Is there any information missing?
-    3. What do you think the labels represent?
 
 ## Thank-You and Closing - 2 minutes
 
