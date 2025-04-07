@@ -3,7 +3,7 @@
 ---
 
 ## April 2025 – Improved Form Triggers
-- Complete improvements to the **benefits form triggers** on confirmation URLs
+- Complete improvements to the **form triggers** on confirmation URLs
 - Add capture rate / response rate to DOMO dashboard
     - Establish benchmark from current state to track success of new form trigger
 - Monitor post-launch data to assess changes in sample size and quality
