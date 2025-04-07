@@ -1,6 +1,6 @@
 # Initiative outline: Delegate access MVP
 
-**Last Updated: March 24, 2025 -- Updated risks**
+**Last Updated: April 7, 2025 -- Updated timeline**
      
 ## POCs
 **Slack channel**: [#identity](https://dsva.slack.com/channels/identity); [#sign-in-experience](https://dsva.slack.com/channels/sign-in-experience)
