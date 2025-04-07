@@ -24,9 +24,9 @@
 
 ## **Intro - 5 minutes**
 
-**Non-AT participants/** Thanks for joining us today! My name is \[NAME] and I’m a researcher working for VA.gov. \[NAME] will be joining us to take notes.
+**Non-AT participants/** Thanks for joining us today! My name is Marisa, and I’m a researcher working for VA.gov. \[NAME] will be joining us to take notes.
 
-**AT participants/** Thanks for joining us today! My name is \[NAME] and I’m a researcher working for VA.gov. \[NAME] will be joining us to assist with any technology needs today.
+**AT participants/** Thanks for joining us today! My name is Marisa, and I’m a researcher working for VA.gov. \[NAME] will be joining us to assist with any technology needs today.
 
 Before we get started a few things I want to go over:
 
