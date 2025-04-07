@@ -51,6 +51,27 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
+## Sprint Goals - Sprint: 6 [4/9/25 - 4/22/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: | QPX |--|--|--|
+|UX: | QPX |--|--|--|
+|UX: | QPX |--|--|--|
+|ENG: | QPX |--|--|--|
+|ENG: | QPX |--|--|--|
+|ENG: | QPX |--|--|--|
+|ENG: | QPX |--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [ ] Ready to be sent for approvals (04/XX/25)
+ - [ ] VA PO & COR sent the Sprint Goals (04/XX/25)
+ - [ ] VA PO approved the Sprint Goals (04/XX/25)
+ - [ ] VA COR approved the Sprint Goals (04/XX/25)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
+
 ---
 
 ## Quarterly Priorities for FY25Q2 (Jan, Feb, Mar 2025)  
