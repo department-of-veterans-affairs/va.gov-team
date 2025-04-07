@@ -36,6 +36,12 @@ Next steps:
 
 *Please note, the center column are the CSAT baseline scores for Financial Management Pages and should be referenced when capturing monthly and quarterly CSAT scores as a comparison to note progress. The right side column are the CSAT baseline scores for ***all of VA.gov*** to compare to. 
 
+*Also note: I recommend defining a baseline score and tracking Custom Debt Portal Questionnaire CSAT scores for questions that use Likert scale (1-5 range): 
+**I was able to easily complete this form online** and
+**I would recommend completing this form online instead of paper to another Veteran**
+
+These scores are not yet available on the Domo Dashboard and a manual review of excel data sets is necessary to define a baseline score for these (2) questions at this time. 
+
 *** 
 
 How you can replicate this report in [Domo CSAT Dashboard](https://va-gov.domo.com/page/1545882322?userId=402957409) to capture yearly CSAT scores:
