@@ -4,7 +4,7 @@
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| financial_status_report_streamlined_waiver | Enables users to interact with the new SW enhancements and avoid list loops |
+|  |  |
 
 
 ## Step 2: Validation
