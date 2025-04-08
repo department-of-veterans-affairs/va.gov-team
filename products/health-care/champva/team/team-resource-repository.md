@@ -36,7 +36,17 @@ Context and additional information are needed to understand and maintain the inf
 [VA Platform Research Information](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va)
 - This link contains information on how research is carried out at the VA, is maintained by the VA Platform team, and should remain relevant in the future.
 
+## Engineering Information
+[Form Digitization Guide (from Simple Forms team)](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Engineering/Form%20Digitization%20development%20guide.md)
+- This link leads to a guide on digitizing forms put together by the Simple Forms team (from whom IVC inherited much of the backend module). It is very helpful when initially creating a new form and has severall bits of information that are useful when rolling a form out to production.
 
+[Frontend deployment dashboard](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/)
+- This link leads to the frontend deployment dashboard where you can see if a commit to vets-website has made it to production yet
 
+[vets-api deployment status dashboard](https://www.va.gov/atlas/apps/vets-api/deploy_status)
+- This link leasds to the vets-api deployment dashboard where you can see if a commit to vets-api has made it to production yet
+
+[staging test user accounts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+- This link leads to a collection of test user accounts that work in staging/local and are very helpful when testing out authenticated functionality
 
 
