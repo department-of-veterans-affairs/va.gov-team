@@ -139,13 +139,14 @@ TODO: add project features here
 
 ## Engineering
 #### Github Repos
-TODO: add vets-json-schema (Tommasina is working on this.)
-|Title|Description|Link|
-|-----|-----------|----|
-|vets-api|va.gov backend code, and also lighthouse code (in the `modules` folder)|[Github link](https://github.com/department-of-veterans-affairs/vets-api/) |
-|vets-website|va.gov website code|[Github link ](https://github.com/department-of-veterans-affairs/vets-website) |
-|va.gov-team|This repo, this is where all tickets/issues go, and where most documentation should go|[Github link](https://github.com/department-of-veterans-affairs/va.gov-team) |
-|va.gov-team-sensitive|Area for sensitive items such as post-mortems, security things, and other internal or sensitive documentation|[Github link ](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive)|
+
+|Title|Description|Link|Notes|
+|-----|-----------|----|----|
+|vets-api|va.gov backend code, and also lighthouse code (in the `modules` folder)|[Github link](https://github.com/department-of-veterans-affairs/vets-api/) |Run with `puma` after setting `alias puma='bundle exec puma -p 3000 -C ./config/puma.rb'`; can also run Sidekiq locally with `bundle exec sidekiq`|
+|vets-website|va.gov website code|[Github link ](https://github.com/department-of-veterans-affairs/vets-website) |Run with `yarn watch --env entry=auth,526EZ-all-claims,login-page,verify`|
+|vets-json-schema|va.gov JSON data validation schema|[Github link](https://github.com/department-of-veterans-affairs/vets-json-schema)|this is a pain to update but can make data validation more transparent between vets-website and vets-api. you'll need to plan the timing of your merge with the other repos, and update vets-website to point to the new vets-json-schema commit sha.|
+|va.gov-team|This repo, this is where all tickets/issues go, and where most documentation should go|[Github link](https://github.com/department-of-veterans-affairs/va.gov-team) |--|
+|va.gov-team-sensitive|Area for sensitive items such as post-mortems, security things, and other internal or sensitive documentation|[Github link ](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive)|--|
 
 
 #### DataDog Monitoring
