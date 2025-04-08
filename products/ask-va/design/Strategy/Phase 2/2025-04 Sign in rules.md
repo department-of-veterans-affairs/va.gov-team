@@ -8,6 +8,7 @@ Jump to:
 - [What we know about sign in rules for Ask VA](#what-we-know-about-sign-in-rules-for-ask-va)
 - [Start of the form: Sign in scenarios](#start-of-the-form-sign-in-scenarios)
 - [Key issues with sign in](#key-issues-with-sign-in)
+- [Ideas to solve key issues](#ideas-to-solve-key-issues)
 
 ## What we know about sign in rules for Ask VA
 
