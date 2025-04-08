@@ -56,13 +56,9 @@ Tests will be conducted online at the participant’s leisure.
 ### Primary criteria (must-haves)
 
 #### ALL Cohort participants
-- All must have a computer or mobile device and are willing to use it to complete the activity. 
+- All must have a computer or mobile device and are willing to use it to complete the activity.
+- All must have opted in to participate in the Community Care self-scheduling pilot. 
 - All must have used the unique registration form leading from the Community Care self-scheduling feature.
-
-
-**Cohort A: 9 Veterans who opted in to community care scheduling**
-- First set 9 Veterans to register (1-5)
-  - [Link for Cohort A]
 
 ## Timeline
 
