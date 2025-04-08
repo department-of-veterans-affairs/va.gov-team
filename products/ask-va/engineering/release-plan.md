@@ -121,7 +121,7 @@ Targeting Launch March 18-25th
 | Canary - 10%<br>(Mar 27, 2:34pm - Mar 28, 10:46am)      | 36         | 0%                                      | 0%                                          | 2.4%                                          | 0%                            |                  | AVG 2.7s     |
 | A: 25% of Traffic <br>(Mar 28, 10:47am - Apr 1, 1:35pm) | 391        | 10.2%                                   | 0%                                          | 1.0%                                          | 0%                            |                  | AVG 3.8s     |
 | B: 50% of Traffic <br>(Apr 1, 1:36pm - Apr 4, 10:43am)  | 696        | 1.4%                                    | 0%                                          | 0.7%                                          | <0.5%                         |                  | AVG 3.3s     |
-| C: 75% of Traffic<br>(Apr 4, 10:44am - Apr 7, 9:00am)   | 574        | 6.3%                                    | 0%                                          | 0.5%                                          | <0.5%                         |                  | AVG 4.2s     |
+| C: 75% of Traffic<br>(Apr 4, 10:44am - Apr 8, 9:00am)   | 1070       | 5.9%                                    | 0%                                          | <0.5%                                         | <0.5%                         |                  | AVG 4.3s     |
 | D: 100% of Traffic                                      |            |                                         |                                             |                                               |                               |                  |              |
 
 
@@ -129,4 +129,4 @@ Targeting Launch March 18-25th
 
 | Time Range                    | Throughput | Error Rate: Form Submissions (422, 5xx) | Error Rate: Dashboard replies<br>(422, 5xx) | Error Rate:<br>Authorization Related<br>(401) | Error Rate:<br>Other<br>(404) | Latency:<br>vets-api | Latency:<br>CRM |
 | ----------------------------- | ---------- | --------------------------------------- | ------------------------------------------- | --------------------------------------------- | ----------------------------- | -------------------- | --------------- |
-| Mar 27 2:34pm - Apr 7, 9:00am | 1730       | 5.2%                                    | 0%                                          | 0.5%                                          | <0.5%                         |                      | AVG 4.3s        |
+| Mar 27 2:34pm - Apr 8, 9:00am | 2150       | 5.2%                                    | 0%                                          | <0.5%                                         | <0.5%                         |                      | AVG 4.6s        |
