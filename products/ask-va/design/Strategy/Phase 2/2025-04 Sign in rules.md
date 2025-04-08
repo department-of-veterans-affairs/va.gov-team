@@ -52,13 +52,11 @@ VA.gov supports sign in partners (through IAM), which currently includes, ID.me,
 
 ### Why the GI Bill team requires sign in 
 
-For additional context on sign in rules, we asked the GI Bill team why sign in is always required for `Education benefits and work study` inquiries. 
+For additional context on sign in rules, we asked the GI Bill team why sign in is always required for `Education benefits and work study` inquiries. They need to know they're communicating with the person that they say they are because they're exchanging PII. This also applies to SCOs or other business submitters who submit on behalf of Veterans. They they have to provide Veteran SSNs in order for the GI Bill team to answer their questions. 
 
-They need to know they're communicating with the person that they say they are, because they're exchanging PII. This also applies to SCOs or other business submitters who submit on behalf of Veterans. They they have to provide Veteran SSNs in order for the GI Bill team to answer their questions. 
+They don't see sign in rules changing over time, "We’re moving away from any unauthenticated interactions with users." When they get unauthenticated inquiries, because an inquiry is re-routed to them, they ask the submitter to re-submit their question in order for them to answer it.
 
-It's also important to note that `Education benefits and work study` questions are always marked as 'general questions' and this choice happens automatically. This means that `Education benefits and work study` inquiries don't make a distinction between inquiry types, as other categories do.
-
-They don't see this rule changing over time and said, "We’re moving away from any unauthenticated interactions with users." When they get unauthenticated inquiries, because an inquiry is re-routed to them, they ask the submitter to re-submit their question in order for them to answer it. 
+It's important to also note that `Education benefits and work study` questions are always marked as 'general questions' and this choice happens automatically. This means that `Education benefits and work study` inquiries don't make a distinction between inquiry types, as other categories do.
 
 ## Start of the form: Sign in scenarios
 
