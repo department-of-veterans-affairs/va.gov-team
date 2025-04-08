@@ -167,21 +167,11 @@ Findings and recommendations from this research will inform guidance and documen
 </details>
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
+This is remote research over Zoom. 
 
-> [!TIP]
-> Place [X] between brackets in edit mode to leave a checkmark in the correct box.
-
-- [ ] **Remote**
+- [X] **Remote**
 - [ ] **In-person**
       
-> [!NOTE]
-> If in-person, include:
-
-- `Location:` **[Enter text]**
-- `Point of contact:` **[Enter text]**
-- `Equipment used for research:` **[Enter text]**
-
 ## Research materials 📔
 
 > [!NOTE]
@@ -190,22 +180,12 @@ Where will you be holding the research sessions? Be sure to include whether this
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 **For moderated interviews:** 
-	
 - `[Link to conversation guide](url goes here)`
 
 **For moderated usability tests:** 
 - `[Link to conversation guide](url goes here)`
 - `[Link to prototype](url goes here)`
 
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- `[Link to email with instructions](url goes here)`
-- `[Link to prototype or OptimalSort session for group A](url goes here)`
-- `[Link to prototype or OptimalSort session for group B](url goes here)`
-
-
-
-**If recruiting outside of Perigean’s participant database:**
-- `[Link to recruitment flyer](url goes here)`
 	
 ## Recruitment 🎯	
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
@@ -225,15 +205,10 @@ Provide a link to any materials you need to run your study, including any materi
 
 ### Recruitment criteria
 
+We want to recruit both screen reader users and signed users.
+
 > [!NOTE]
 > - **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-> - Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> [!TIP]
-> - The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
-> - Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
-> - Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
 
 **List the total number and type (Veterans, caregivers, etc.) of participants for this study:**
 
