@@ -2,6 +2,9 @@
 
 This guide outlines a reproducible process for analyzing open-ended feedback from VA.gov surveys to identify user experience (UX) issues, performance pain points, and cross-device friction. The approach is designed for teams working with large volumes of user comments and includes metadata fields such as CSAT rating, device type, operating system, and URL path.
 
+This guide is intended to help research and product teams start from raw feedback and move toward structured insights that improve the VA.gov user experience. The methods discussed here are evolving and this guide will change as new / better methods are established. 
+
+
 > **Note:** ChatGPT and other conversational LLMs are not designed for reliable comment-by-comment tagging at scale. To tag large volumes of comments, further external analysis is required using programmatic methods (e.g., local classifiers, batch OpenAI API calls, or dedicated NLP pipelines). A pipeline for this stage is still under development. 
 
 > Similarly, powering dashboards or interactive tools with tagged comment data requires external tooling, such as Python-based scripts, notebooks, or data visualization frameworks Power BI and DOMO.
@@ -156,6 +159,4 @@ Tone:
 ```
 
 ---
-
-This guide is intended to help research and product teams start from raw feedback and move toward structured insights that improve the VA.gov user experience.
 
