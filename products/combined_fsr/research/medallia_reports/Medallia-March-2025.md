@@ -1,5 +1,3 @@
-[IN PROGRESS]
-
 # Monthly Medallia Report: March 2025
 
 With the addition of Custom Survey dataset shares since December 2024, the team is segmenting future monthly reports by survey for additional clarity by survey and by product. 
@@ -165,4 +163,60 @@ Responses included "None" and "N/A".
 >Please make it easier to update the expense portion or put a portion in for child support payments.
 
 >Hard to figure monthly medical expenses  monthly debt if trying to go bankrupt but cannot afford it cannot figure monthly payment
+
+
+# VA.gov VFS Questionnaire
+
+69 responses
+
+What is your overall satisfaction with this site? Average: 2.38 (out of 5)
+
+## What task were you trying to do today?
+
+### Service design issues
+
+>LOVE my VA care...just cant afford. (lost   Salary pension & much more)…
+
+>Cant pay these bills...wife(much cancer)...have $7500.00 annual healthcare "co-pay" for one of my 3 jobs...lost ( salary pension)?  and I cant pee.  please help before me homeless
+
+>VA Form 5655 does not indicate where a veteran must send it.  Furthermore, the form cannot be filed unless establishing an account in va.gov.  Provide an address, fax number, or email address so that a veteran or family member can submit the form easily.  Thank you.
+
+
+### Cross-checking payment records with debt portal
+
+>My records show that my charge for $39.00 was paid by my [Bank] in [place]. on Dec 12, 2024 confirmed by [name] at [Bank].
+
+
+### Bug on FSR:
+
+>fill out online form 5655, it froze on me when filling out "other income"
+
+URL: https://www.va.gov/manage-va-debt/request-debt-help-form-5655/add-other-income?index=1?index=1
+
+>The page for the form for financial help has been down for weeks need help
+
+URL: https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction
+
+
+### Bug on Debt Portal:
+
+>Seek help with bill has not worked in a week
+
+URL: https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction
+
+
+>Request help with co pays for medication. Website is not working and continues to give error messages.
+
+
+
+# VA.gov A11 Questionnaire (intercept survey)
+
+56 responses
+
+Decline percent : 74%
+Submission percent: 4.61%
+
+
+
+
 
