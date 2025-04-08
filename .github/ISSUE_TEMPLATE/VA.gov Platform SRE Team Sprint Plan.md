@@ -26,7 +26,7 @@ Story points planned: [number of points]
 
 Story points completed: [number of points]
 
-###  Support Rotation or PTO
+####  Support Rotation or PTO
 *Note any team member on support or PTO this sprint and note which it is
 
 #### Epics & Issues</span>
