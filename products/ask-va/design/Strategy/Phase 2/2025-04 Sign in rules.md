@@ -143,11 +143,17 @@ This list captures potential user experience issues with the current sign in pro
 
 We currently have 4 ideas to solve some of the potential user experience issues with sign in.
 
-### Sub-task pattern
+### Idea 1: Sub-task pattern
+
+#### Description
 
 An authenticated user lands on the home page. From the home page, they choose whether they have a `personal` or `general` question and click continue. If they choose 'personal', the next page requires them to sign in. If they choose 'general', the next page asks whether their question is about `Education benefits and work study` or `Debt for benefit overpayments and health care copay bills` or `Other`. If they choose `Education` or `Debt`, the next page requires them to sign in. If they choose `Other`, the next page suggests that they sign in and describes the benefits, but they can continue without signing in. 
 
-[Prototype](add link)
+[Review prototype](add link)
+
+#### Problems this solves
+
+We expect this idea to solve some of the current issues but not all of them. We don't foresee this idea introducing new issues.
 
 |Problem to solve|Will this approach solve this problem?|
 |:--|:--|
@@ -158,11 +164,9 @@ An authenticated user lands on the home page. From the home page, they choose wh
 |**You can choose general question incorrectly**|This problem will persist but it is unlikely to get worse.|
 |**Deciding between personal or general**|This problem will persist but it is unlikely to get worse.|
 
-We don't foresee this idea introducing new issues.
+### Idea 2: Sub-task pattern with expedited general questions
 
-### Sub-task pattern with expedited general questions
+### Idea 3: Sign in and technical issues is the only category that doesn't require sign in
 
-### Sign in and technical issues is the only category that doesn't require sign in
-
-### All questions require sign in
+### Idea 4: All questions require sign in
 
