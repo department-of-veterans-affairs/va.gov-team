@@ -137,6 +137,7 @@ This list captures potential user experience issues with the current sign in pro
 3. **Multiple clicks before you learn the rule.** If you start without signing in, it can take 2 to 4 pages before you learn you have to sign in.
 4. **Start over.** You have to start completely over after signing in.
 5. **You can choose general question incorrectly.** You can choose a general question incorrectly and move forward with submitting an unauthenticated inquiry, when you should have authenticated. Then an agent will (or should) require you to resubmit.
+6. **Deciding between personal or general.** We don't have high confidence that people can make consistent decisions on whether their question is 'about myself or someone else' or is general.
 
 ## Ideas to solve key issues
 
@@ -146,11 +147,14 @@ We currently have 4 ideas to solve some of the potential user experience issues 
 
 |Problem to solve|Will this approach solve this problem?|
 |:--|:--|
-|**Some inquiries are not in your dashboard**||
-|**You feel deceived**||
-|**Multiple clicks before you learn the rule**||
-|**Start over**||
-|**You can choose general question incorrectly**||
+|**Some inquiries are not in your dashboard**|This problem will persist but it is unlikely to get worse.|
+|**You feel deceived**|Although you have to go through 2-4 pages in the sub-task pattern as well, you're not answering question that you would need to re-answer and/ or remember the answers to.|
+|**Multiple clicks before you learn the rule**|Although you have to go through 2-4 pages in the sub-task pattern as well, you're not answering question that you would need to re-answer and/ or remember the answers to.|
+|**Start over**|The sub-task pattern would mean you avoid needing to start over.|
+|**You can choose general question incorrectly**|This problem will persist but it is unlikely to get worse.|
+|**Deciding between personal or general**|This problem will persist but it is unlikely to get worse.|
+
+We don't foresee this idea introducing new issues.
 
 ### Sub-task pattern with expedited general questions
 
