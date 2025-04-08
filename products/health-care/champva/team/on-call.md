@@ -1,7 +1,7 @@
 # On-Call Rotation Guidelines for IVC Forms
 
 # DRAFT
-*Updated 10/2/2024*
+*Updated 4/8/2024 to identify @ManOnTheMooney as PM*
 ### Overview
 This document outlines the expectations and responsibilities for team members during their on-call rotation for production support. The goal is to ensure smooth handling of production incidents during business hours while minimizing the impact on sprint deliverables.
 ### On-Call Schedule
@@ -15,7 +15,7 @@ While on call, you are expected to:
 - Respond: 
   - Acknowledge any alert within 1 hour during business hours (9 AM - 5 PM ET).
   - Create incident issues as needed in Zenhub
-  - Notify PM (Bo) and/or DM (Andrea)
+  - Notify PM (Michael Mooney) and/or DM (Andrea)
 - Resolve: Resolve if you can. If you can’t, hand off to another team member and confirm they’ve taken ownership.
 - Communicate: Provide regular updates on the status of incidents in the designated PUBLIC channels. Keep DMs in Slack or Teams to a minimum so that communication is open and transparent
 - Document: Log any incidents, the steps taken to resolve them, and lessons learned in the ticket that was created above
@@ -23,7 +23,7 @@ While on call, you are expected to:
 
 ### Escalation Policy
 * As needed, escalate to
-  * PM (Bo)
+  * PM (Michael Mooney)
   * DM (Andrea)
   * PO (Premal)
 
