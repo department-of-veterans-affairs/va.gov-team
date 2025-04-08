@@ -83,7 +83,7 @@ They don't see sign in rules changing over time, "We’re moving away from any u
 
 #### Land on Ask VA while unauthenticated and ask a question that does not require sign in
 
-![scenario-3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-scenario-3.png)
+![scenario-3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-scenario-3..png)
 
 ### Scenario 4
 
