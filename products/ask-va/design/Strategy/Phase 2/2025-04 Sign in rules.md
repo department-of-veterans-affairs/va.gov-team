@@ -132,8 +132,29 @@ They don't see sign in rules changing over time, "We’re moving away from any u
 
 This list captures potential user experience issues with the current sign in process on VA.gov.
 
-1. If you submit an inquiry while unauthenticated, it will never populate in your 'dashboard' or 'inbox.' If you authenticate in the future, it may not be clear why the inquiry is missing from your 'dashboard.'
-2. You might interpret that you don't't need to sign in and then later feel deceived when you're required to sign in.
-3. If you start without signing in, it can take 2 to 4 pages before you learn you have to sign in.
-4. You have to start completely over after signing in.
-5. You can choose a general question incorrectly. Then an agent will (or should) require you to resubmit while you're signed in.
+1. **Some inquiries are not in your dashboard.** If you submit an inquiry while unauthenticated, it will never populate in your 'dashboard' or 'inbox.' If you authenticate in the future, it may not be clear why the inquiry is missing from your 'dashboard.'
+2. **You feel deceived.** You might interpret that you don't need to sign in and then later feel deceived when you're required to sign in.
+3. **Multiple clicks before you learn the rule.** If you start without signing in, it can take 2 to 4 pages before you learn you have to sign in.
+4. **Start over.** You have to start completely over after signing in.
+5. **You can choose general question incorrectly.** You can choose a general question incorrectly and move forward with submitting an unauthenticated inquiry, when you should have authenticated. Then an agent will (or should) require you to resubmit.
+
+## Ideas to solve key issues
+
+We currently have 4 ideas to solve some of the potential user experience issues with sign in.
+
+### Sub-task pattern
+
+|Problem to solve|Will this approach solve this problem?|
+|:--|:--|
+|**Some inquiries are not in your dashboard**||
+|**You feel deceived**||
+|**Multiple clicks before you learn the rule**||
+|**Start over**||
+|**You can choose general question incorrectly**||
+
+### Sub-task pattern with expedited general questions
+
+### Sign in and technical issues is the only category that doesn't require sign in
+
+### All questions require sign in
+
