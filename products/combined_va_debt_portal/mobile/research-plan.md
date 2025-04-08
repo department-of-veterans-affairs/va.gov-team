@@ -1,5 +1,5 @@
 
-	# Research Plan for [Team, Product, Date]
+	# Research Plan for Mobile Feature Support (MFS), Debt Services, April 2025
 > [!NOTE]
 > *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
 
@@ -81,10 +81,6 @@ Are there moments that matter?</summary>
 > Delete journeys not supported by this research.
 
 ## Research Goals 🥅	
-`What are you trying to learn from this research?` 
-
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
 
 ### Goals
 
@@ -106,26 +102,26 @@ Are there moments that matter?</summary>
 ---
 
 ### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
-
-***Consider bucketing research questions under research goals and think about:***
-	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
 
 
-
-**`1.`[Enter Q1]**
-
-**`2.`[Enter Q2]**
-
-**`3.`[Enter Q3]**
-
-**`4.`[Enter Q4]**
-
-**`5.`[Enter Q5]**
+1. **Understand the situations, behaviors, and triggers involved in managing VA debt:**
+    * In what contexts and situations do Veterans manage VA debt?
+    * What tasks are involved in managing their debt?
+    * What factors influence when and how they manage their debt?
+    * What makes them take action on their debts?
+2. **Understand Veterans’ needs for managing their debt:**
+    * What methods do they use to keep track of and manage their debt?
+    * What challenges and frustrations do they face with managing debt?
+    * What information is most critical for them?
+3. **Determine best organization for debt management:**
+    * How do Veterans conceptualize the different types of debt?
+    * What is the difference between ways they work with the types of debt? What is similar?
+    * How would they want their debt to be organized?
+4. **Understand Veterans’ needs for requesting help with debt:**
+    * What information do Veterans require to understand if their debt might be incorrect?
+    * What sort of support do they need when they believe a debt is incorrect?
+    * How are they learning about options when they are unable to pay their debt?
+    * In what contexts are they exploring options for help with their debt?
 
 > [!TIP]
 >Enter more questions as needed
