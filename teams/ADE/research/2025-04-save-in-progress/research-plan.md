@@ -1,5 +1,5 @@
 
-# Research Plan for ADE, Save in progress, April 2025
+# Research Plan for 2025-04 Save in Progress research study 
 
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
@@ -92,7 +92,7 @@ Are there moments that matter?</summary>
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
 ---
-Findings and recommendations from this research will inform  
+Findings and recommendations from this research will inform guidance and documentation for the "save in progress" feature that is present in most tools and forms on VA.gov. Matt Dingee asked ADE to help with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard thing that doesn't require any new designs.
 
 ---
 
