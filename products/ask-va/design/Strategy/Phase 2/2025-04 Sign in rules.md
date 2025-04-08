@@ -151,22 +151,19 @@ We currently have 4 ideas to solve some of the potential user experience issues 
 
 ### Idea 1: Sub task pattern
 
-#### Description
-
 An authenticated user lands on the home page. From the home page, they choose whether they have a `personal` or `general` question and click continue. If they choose 'personal', the next page requires them to sign in. If they choose 'general', the next page asks whether their question is about `Education benefits and work study` or `Debt for benefit overpayments and health care copay bills` or `Other`. If they choose `Education` or `Debt`, the next page requires them to sign in. If they choose `Other`, the next page suggests that they sign in and describes the benefits, but they can continue without signing in. 
 
-[Review prototype](add link)
-
-#### Problems this solves
+> [!NOTE]
+> This [prototype](add link) illustrates how this idea could work.
 
 We expect this idea to solve some of the current issues but not all of them. We don't foresee this idea introducing new issues.
 
 |Problem to solve|Will this approach solve this problem?|
 |:--|:--|
 |**Some inquiries are not in your dashboard**|This problem will persist but it is unlikely to get worse.|
-|**You feel deceived**|Although you have to go through 2-4 pages in the sub task pattern as well, you're not answering question that you would need to re-answer and/ or remember the answers to.|
-|**Multiple clicks before you learn the rule**|Although you have to go through 2-4 pages in the sub task pattern as well, you're not answering question that you would need to re-answer and/ or remember the answers to.|
-|**Start over**|The sub-task pattern would mean you avoid needing to start over.|
+|**You feel deceived**|This would help solve this problem by making it more clear to users whether they need to sign in or not before they start.|
+|**Multiple clicks before you learn the rule**|Although you still have to go through 2-4 pages, you're not answering questions that are part of your submission. You would not need to re-answer any of these questions and/or remember your answers.|
+|**Start over**|This would help solve this problem because you'd avoid needing to start over.|
 |**You can choose general question incorrectly**|This problem will persist but it is unlikely to get worse.|
 |**Deciding between personal or general**|This problem will persist but it is unlikely to get worse.|
 
