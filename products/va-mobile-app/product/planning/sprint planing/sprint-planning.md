@@ -5,6 +5,7 @@ Scrum ceremony that allows the Team to plan and commit to Sprint Goals.
 When: Bi-weekly Monday (First day of Sprint) 
 
 Who: VA Mobile App Team and POs
+
 Time: 11:05 - 12:00pmET
 
 GitHub project used: [VA Mobile App Team](https://github.com/orgs/department-of-veterans-affairs/projects/1616)
