@@ -6,7 +6,7 @@ This document describes sign in rules and scenarios for Ask VA. We also plan to 
 
 Jump to:
 - [What we know about sign in rules for Ask VA](#what-we-know-about-sign-in-rules-for-ask-va)
-- [Start of the form: Sign in scenarios](#start-of-the-form-sign-in-scenarios)
+- [Sign in scenarios](#sign-in-scenarios)
 - [Key issues with sign in](#key-issues-with-sign-in)
 - [Ideas to solve key issues](#ideas-to-solve-key-issues)
 
@@ -62,10 +62,10 @@ For additional context on sign in rules, we asked the GI Bill team why sign in i
 
 They don't see sign in rules changing over time, "We’re moving away from any unauthenticated interactions with users." When they get unauthenticated inquiries, because an inquiry is re-routed to them, they ask the submitter to re-submit their question in order for them to answer it.
 
-## Start of the form: Sign in scenarios
+## Sign in scenarios
 
 > [!NOTE]
-> This illustrates 10 scenarios but is not comprehensive of all scenarios.
+> This illustrates 10 scenarios but is not comprehensive of all scenarios. It only illustrates the start of the form.
 
 ![key](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-key.png)
 
