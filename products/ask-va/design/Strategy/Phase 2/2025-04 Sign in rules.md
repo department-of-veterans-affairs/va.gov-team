@@ -151,7 +151,7 @@ We currently have 4 ideas to solve some of the potential user experience issues 
 
 ### Idea 1: Sub task pattern
 
-An authenticated user lands on the home page. From the home page, they choose whether they have a `personal` or `general` question and click continue. If they choose 'personal', the next page requires them to sign in. If they choose 'general', the next page asks whether their question is about `Education benefits and work study` or `Debt for benefit overpayments and health care copay bills` or `Other`. If they choose `Education` or `Debt`, the next page requires them to sign in. If they choose `Other`, the next page suggests that they sign in and describes the benefits, but they can continue without signing in. 
+An authenticated user lands on the home page. From the home page, they choose whether they have a `personal` or `general` question and click continue. If they choose `personal`, the next page requires them to sign in. If they choose `general`, the next page asks whether their question is about `Education benefits and work study` or `Debt for benefit overpayments and health care copay bills` or `Other`. If they choose `Education` or `Debt`, the next page requires them to sign in. If they choose `Other`, the next page suggests that they sign in and describes the benefits, but they can continue without signing in. 
 
 > [!NOTE]
 > This [prototype](add link) illustrates how this idea could work.
