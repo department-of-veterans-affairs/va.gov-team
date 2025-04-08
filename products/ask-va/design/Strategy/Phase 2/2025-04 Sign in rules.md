@@ -156,7 +156,7 @@ An authenticated user lands on the home page. From the home page, they choose wh
 > [!NOTE]
 > This [prototype](add link) illustrates this behavior.
 
-We expect this idea to solve some of the current issues but not all of them. We don't foresee this idea introducing new issues. It would not require a business line rule change.
+#### Does this idea solve key issues?
 
 |Problem to solve|Will this approach solve this problem?|
 |:--|:--|
@@ -167,6 +167,14 @@ We expect this idea to solve some of the current issues but not all of them. We 
 |**You can choose general question incorrectly**|This problem will persist but it is unlikely to get worse.|
 |**Deciding between personal or general**|This problem will persist in the form but happen up front and we think it is unlikely to get worse.|
 
+#### Does this idea introduce new issues?
+
+We don't foresee this idea introducing any new issues.
+
+#### Does this idea require approval from business lines?
+
+It would not require business line approval.
+
 ### Idea 2: Sub task pattern simplified for general questions
 
 This idea is very similar to [idea 1](#idea-1-sub-task-pattern), however, it simplifies the path for general questions.
@@ -176,7 +184,7 @@ An authenticated user lands on the home page. From the home page, they choose wh
 > [!NOTE]
 > This [prototype](add link) illustrates this behavior.
 
-We expect this idea to solve some of the current issues but not all of them. We think it could potentially introduce a new issue whereby more people choose a general question and are asked by the agent to resubmit. It would also require a business line rule change for `Education` and `Debt` categories to allow unauthenticated general inquiries.
+#### Does this idea solve key issues?
 
 |Problem to solve|Will this approach solve this problem?|
 |:--|:--|
@@ -187,6 +195,14 @@ We expect this idea to solve some of the current issues but not all of them. We 
 |**You can choose general question incorrectly**|This problem will persist but it is unlikely to get worse.|
 |**Deciding between personal or general**|This problem will persist in the form but happen up front and we think it is unlikely to get worse.|
 
+#### Does this idea introduce new issues?
+
+Potentially, more people will choose a general question and be asked to resubmit their inquiry again.
+
+#### Does this idea require approval from business lines?
+
+It requires business line approval from `Education` and `Debt` to allow unauthenticated general inquiries.
+
 ### Idea 3: Sign in and technical issues is the only category that doesn't require sign in
 
 An authenticated user lands on the home page. From the home page, they need to sign in to ask a question, unless it's about `Sign in and technical issues.` If they choose to ask a question about `Sign in and technical issues`, they start on the topic page and they are not prompted to sign in. The `Who is your question about?` page is hidden from this path. If they choose to sign in, they can still ask a question about `Sign in and technical issues` as well as all other categories.
@@ -194,7 +210,7 @@ An authenticated user lands on the home page. From the home page, they need to s
 > [!NOTE]
 > This [prototype](add link) illustrates this behavior.
 
-We expect this idea to solve some of the current issues but not all of them. It will introduce a new issue whereby you can no longer ask a general question without signing in, unless it's about `Sign in and technical issues`. It also could introduce an issue whereby people submit unauthenticated inquiries about `Sign in and technical issues` that involve sensitive information. And it would require business line rule changes to only allow authenticated inquiries for most business lines, apart from `Sign in and technical issues` which would require a rule change to accept that more unauthenticated questions will come to their queue.
+#### Does this idea solve key issues?
 
 |Problem to solve|Will this approach solve this problem?|
 |:--|:--|
@@ -205,6 +221,14 @@ We expect this idea to solve some of the current issues but not all of them. It 
 |**You can choose general question incorrectly**|Although people could choose to use the Sign in category option to ask about something else, this feels much less likely.|
 |**Deciding between personal or general**|It would be simpler to choose whether your question is about `Sign in and technical issues` or something else, compared to choosing between `personal` or `general`. And this problem will persist in the authenticated version of the form, because we still need to know what information to ask for based on their response, but it is unlikely to get worse.|
 
+#### Does this idea introduce new issues?
+
+You can no longer ask a general question without signing in, unless it's about `Sign in and technical issues`. Also, people may submit unauthenticated inquiries that are about `Sign in and technical issues` but involve sensitive information. 
+
+#### Does this idea require approval from business lines?
+
+It requires business line approval to only allow authenticated inquiries from all business lines, apart from `Sign in and technical issues`.
+
 ### Idea 4: All questions require sign in
 
 An authenticated user lands on the home page. They are prompted to sign in to begin.
@@ -212,7 +236,7 @@ An authenticated user lands on the home page. They are prompted to sign in to be
 > [!NOTE]
 > This [prototype](add link) illustrates this behavior.
 
-We expect this idea to solve some of the current issues but not all of them. It will introduce a new issue whereby you can no longer ask a general question without signing in, unless it's about `Sign in and technical issues`. It also could introduce an issue whereby people submit unauthenticated inquiries about `Sign in and technical issues` that involve sensitive information. And it would require business line rule changes to only allow authenticated inquiries for most business lines, apart from `Sign in and technical issues` which would require a rule change to accept that more unauthenticated questions will come to their queue.
+#### Does this idea solve key issues?
 
 |Problem to solve|Will this approach solve this problem?|
 |:--|:--|
@@ -222,3 +246,11 @@ We expect this idea to solve some of the current issues but not all of them. It 
 |**Start over**|This would solve this problem.|
 |**You can choose general question incorrectly**|This would solve this problem.|
 |**Deciding between personal or general**|This problem will persist in the form, because we still need to know what information to ask for based on their response, but it is unlikely to get worse.|
+
+#### Does this idea introduce new issues?
+
+If you're having trouble signing in and have a question about Sign in and technical issues, you're stuck.
+
+#### Does this idea require approval from business lines?
+
+It requires business line approval from all business lines apart from `Education` and `Debt`.
