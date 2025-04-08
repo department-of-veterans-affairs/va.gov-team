@@ -2,7 +2,7 @@
 
 Last updated by @tygindraux: April 8, 2025
 
-This document describes sign in rules and scenarios for Ask VA. 
+This document describes sign in rules and scenarios for Ask VA. We also plan to include key concerns with the current sign in process and potential remedies.
 
 ## What we know about sign in rules for Ask VA
 
