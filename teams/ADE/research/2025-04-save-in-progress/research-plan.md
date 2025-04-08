@@ -1,14 +1,10 @@
 
-	# Research Plan for [ADE, Save in progress, April 2025]
+# Research Plan for ADE, Save in progress, April 2025
 
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
 	
-`What problem is your product trying to solve?`
-
-**[Enter answer here]**
-  
-`Where is your product situated on VA.gov? (ex: auth vs. unauth)`
+When VA.gov users are logged in (authenticated) and filling out a form, the "save in progress" alert flashes on and off with every field entered. Because the alert displays below the Back and Continue buttons, screen readers never read it, which is an accessibility issue.
 
 **[Enter answer here]**
   
@@ -86,18 +82,17 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-`1.` **[Enter answer here]**
+1. Learn about Veterans' expectations while filling out online forms for saving information before the form is submitted.
 
-`2.` **[Enter answer here]**
+2. Get user feedback on a revised design for "save in progress" messaging.
 
-`3.` **[Enter answer here]** 
+3. TBD--Get user feedback on error messages and the progress bar while filling out online forms.
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
 ---
-
-**[Enter outcome here]** 
+Findings and recommendations from this research will inform  
 
 ---
 
