@@ -1,4 +1,58 @@
 # Running Design and Research Agenda
+
+## April 8 2025
+Attendees: Jamie Fiore, Jina Ryu, Amanda Klausmeier, Renata Keck, Andrea Merril, Mike Mooney, Rachel Pope
+
+- ### Agenda Topics
+	- UX roadmap review
+ 	- Review updates to 10-10d/OHI integration MVP (short-term UX roadmap, current/in-flight work, collab cycle and next steps)
+	- Supporting docs usability testing - plan and conversation guide are nearly done, a few questions to review with folks before those are wrapped up.
+	- School cert analytics
+	- FMP direct deposit
+ - ### Notes
+ - Roadmap Review
+   - Making progress on integration tickets
+   - Engineering team done with discovery work - will be mostly front end work
+   - Minimal headers will be worked on when list & loop updated for integration
+     -- This is captured in a ticket in the Next column
+   - FMP direct deposit content is being reviewed today -- will add another ticket for revisions if needed
+   - For Next column, work needed on Medicare branching
+   - May need to move 1010d work to the later column -- blocked until Content team reviews and responds
+   - May be helpful to include hard deadlines on the design tickets
+   - Additional UX work may be needed for applicant and signer relationship questions because VES doesn't support freeform fields
+   - * VES goes live in August, so this is not urgent
+     * Should discuss in stakeholder meeting
+     * Freeform fields are not on the paper form, so they can probably be removed
+  
+ - CHAMPVA/OHI Integration Mural
+   - Board had been cleaned up and recommended solution is starred
+   - Question on whether we need to prep anything for a research review and when that would be
+   - Should be shown in midpoint review
+   - * generally, designs are shown in midpoint and intention to do research can be shared at that time
+     * Shane can decide if he comes to the collab cycle meeting
+     * He can also review async
+
+ - Supporting docs research
+   - discussion of progress
+   - Jina would like OCTO design review to be on all design tickets for better tracking
+   - Can tag Jina and she will escalate to Amanda if needed
+     
+ - School Cert analytics
+   - Would like to know if people are dropping off at this step or submitting this with theis application so we can determine if we should require it or not
+   - Per Jina, metrics show a 97% exit rate at this upload (# of users exiting vs. # completing step)
+   - Would be good for UX team to see Medallia feedback
+   - * general frustration with uploads
+     * Jina will follow up with Luis on finding a way to share that info with the UX team
+
+ - FMP direct deposit
+   - Jina would like the Figma file to show only the updated screens to make it easier to read/find the updates
+   - For post-launch iteration, the direct deposit info is not presented consistent with other forms
+   - Jina will provide link to a form that has this design in it since there is no component to use
+  
+ - Other topics
+   - It would be good to have Medallia feedback shared in a way that is accessible to everyone rather than having Luis adding people all the time
+   - Partnership ticket between data and UX where Luis provides the data and the UX team writes a report
+
 ## March 31 2025
 Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Renata Keck, Andrea Merril, Mike Mooney, Rachel Pope
 
