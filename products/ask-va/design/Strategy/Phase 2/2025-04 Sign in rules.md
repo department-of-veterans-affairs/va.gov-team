@@ -142,9 +142,14 @@ This list captures potential user experience issues with the current sign in pro
 
 ## Ideas to solve key issues
 
-We currently have 4 ideas to solve some of the potential user experience issues with sign in.
+We currently have 4 ideas to solve some of the potential user experience issues with sign in:
 
-### Idea 1: Sub-task pattern
+- [Idea 1: Sub task pattern](#idea-1-sub-task-pattern)
+- [Idea 2: Sub task pattern simplified for general questions](#idea-2-sub-task-pattern-simplified-for-general-questions)
+- [Idea 3: Sign in and technical issues is the only category that doesn't require sign in](#idea-3-sign-in-and-technical-issues-is-the-only-category-that-doesnt-require-sign-in)
+- [Idea 4: All questions require sign in](#idea-4-all-questions-require-sign-in)
+
+### Idea 1: Sub task pattern
 
 #### Description
 
@@ -159,13 +164,13 @@ We expect this idea to solve some of the current issues but not all of them. We 
 |Problem to solve|Will this approach solve this problem?|
 |:--|:--|
 |**Some inquiries are not in your dashboard**|This problem will persist but it is unlikely to get worse.|
-|**You feel deceived**|Although you have to go through 2-4 pages in the sub-task pattern as well, you're not answering question that you would need to re-answer and/ or remember the answers to.|
-|**Multiple clicks before you learn the rule**|Although you have to go through 2-4 pages in the sub-task pattern as well, you're not answering question that you would need to re-answer and/ or remember the answers to.|
+|**You feel deceived**|Although you have to go through 2-4 pages in the sub task pattern as well, you're not answering question that you would need to re-answer and/ or remember the answers to.|
+|**Multiple clicks before you learn the rule**|Although you have to go through 2-4 pages in the sub task pattern as well, you're not answering question that you would need to re-answer and/ or remember the answers to.|
 |**Start over**|The sub-task pattern would mean you avoid needing to start over.|
 |**You can choose general question incorrectly**|This problem will persist but it is unlikely to get worse.|
 |**Deciding between personal or general**|This problem will persist but it is unlikely to get worse.|
 
-### Idea 2: Sub-task pattern with expedited general questions
+### Idea 2: Sub task pattern simplified for general questions
 
 ### Idea 3: Sign in and technical issues is the only category that doesn't require sign in
 
