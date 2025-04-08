@@ -134,11 +134,11 @@ They don't see sign in rules changing over time, "We’re moving away from any u
 This list captures potential user experience issues with the current sign in process on VA.gov.
 
 1. **Some inquiries are not in your dashboard.** If you submit an inquiry while unauthenticated, it will never populate in your 'dashboard' or 'inbox.' If you authenticate in the future, it may not be clear why the inquiry is missing from your 'dashboard.'
-2. **You feel deceived.** You might interpret that you don't need to sign in and then later feel deceived when you're required to sign in.
-3. **Multiple clicks before you learn the rule.** If you start without signing in, it can take 2 to 4 pages before you learn you have to sign in.
-4. **Start over.** You have to start completely over after signing in.
-5. **You can choose general question incorrectly.** You can choose a general question incorrectly and move forward with submitting an unauthenticated inquiry, when you should have authenticated. Then an agent will (or should) require you to resubmit.
-6. **Deciding between personal or general.** We don't have high confidence that people can make consistent decisions on whether their question is 'about myself or someone else' or is general.
+3. **You feel deceived.** You might interpret that you don't need to sign in and then later feel deceived when you're required to sign in.
+4. **Multiple clicks before you learn the rule.** If you start without signing in, it can take 2 to 4 pages before you learn you have to sign in.
+5. **Start over.** You have to start completely over after signing in.
+6. **You can choose general question incorrectly.** You can choose a general question incorrectly and move forward with submitting an unauthenticated inquiry, when you should have authenticated. Then an agent will (or should) require you to resubmit.
+7. **Deciding between personal or general.** We don't have high confidence that people can make consistent decisions on whether their question is `about myself`, `about someone else` or is `a general question`.
 
 ## Ideas to solve key issues
 
@@ -156,20 +156,69 @@ An authenticated user lands on the home page. From the home page, they choose wh
 > [!NOTE]
 > This [prototype](add link) illustrates this behavior.
 
-We expect this idea to solve some of the current issues but not all of them. We don't foresee this idea introducing new issues.
+We expect this idea to solve some of the current issues but not all of them. We don't foresee this idea introducing new issues. It would not require a business line rule change.
 
 |Problem to solve|Will this approach solve this problem?|
 |:--|:--|
 |**Some inquiries are not in your dashboard**|This problem will persist but it is unlikely to get worse.|
-|**You feel deceived**|This would help solve this problem by making it more clear to users whether they need to sign in or not before they start.|
+|**You feel deceived**|This would solve this problem because they will not be asked to stop and sign in.|
 |**Multiple clicks before you learn the rule**|Although you still have to go through 2-4 pages, you're not answering questions that are part of your submission. You would not need to re-answer any of these questions and/or remember your answers.|
-|**Start over**|This would help solve this problem because you'd avoid needing to start over.|
+|**Start over**|This would solve this problem because you avoid needing to start over.|
 |**You can choose general question incorrectly**|This problem will persist but it is unlikely to get worse.|
-|**Deciding between personal or general**|This problem will persist but it is unlikely to get worse.|
+|**Deciding between personal or general**|This problem will persist in the form but happen up front and we think it is unlikely to get worse.|
 
 ### Idea 2: Sub task pattern simplified for general questions
 
+This idea is very similar to [idea 1](#idea-1-sub-task-pattern), however, it simplifies the path for general questions.
+
+An authenticated user lands on the home page. From the home page, they choose whether they have a `personal` or `general` question and click continue. If they choose `personal`, the next page requires them to sign in. If they choose `general`, they start the form on the `Category` page.
+
+> [!NOTE]
+> This [prototype](add link) illustrates this behavior.
+
+We expect this idea to solve some of the current issues but not all of them. We think it could potentially introduce a new issue whereby more people choose a general question and are asked by the agent to resubmit. It would also require a business line rule change for `Education` and `Debt` categories to allow unauthenticated general inquiries.
+
+|Problem to solve|Will this approach solve this problem?|
+|:--|:--|
+|**Some inquiries are not in your dashboard**|This problem will persist but it is unlikely to get worse.|
+|**You feel deceived**|This would solve this problem because they will not be asked to stop and sign in.|
+|**Multiple clicks before you learn the rule**|You only have to go through 1 page before you learn that you need to sign in or you go straight into asking a general question.|
+|**Start over**|This would solve this problem because you avoid needing to start over.|
+|**You can choose general question incorrectly**|This problem will persist but it is unlikely to get worse.|
+|**Deciding between personal or general**|This problem will persist in the form but happen up front and we think it is unlikely to get worse.|
+
 ### Idea 3: Sign in and technical issues is the only category that doesn't require sign in
+
+An authenticated user lands on the home page. From the home page, they need to sign in to ask a question, unless it's about `Sign in and technical issues.` If they choose to ask a question about `Sign in and technical issues`, they start on the topic page and they are not prompted to sign in. The `Who is your question about?` page is hidden from this path. If they choose to sign in, they can still ask a question about `Sign in and technical issues` as well as all other categories.
+
+> [!NOTE]
+> This [prototype](add link) illustrates this behavior.
+
+We expect this idea to solve some of the current issues but not all of them. It will introduce a new issue whereby you can no longer ask a general question without signing in, unless it's about `Sign in and technical issues`. It also could introduce an issue whereby people submit unauthenticated inquiries about `Sign in and technical issues` that involve sensitive information. And it would require business line rule changes to only allow authenticated inquiries for most business lines, apart from `Sign in and technical issues` which would require a rule change to accept that more unauthenticated questions will come to their queue.
+
+|Problem to solve|Will this approach solve this problem?|
+|:--|:--|
+|**Some inquiries are not in your dashboard**|This problem will persist but it is unlikely to get worse.|
+|**You feel deceived**|This would solve this problem because they will not be asked to stop and sign in.|
+|**Multiple clicks before you learn the rule**|You go straight into asking a question (either after signing in or without).|
+|**Start over**|This would solve this problem because you avoid needing to start over.|
+|**You can choose general question incorrectly**|Although people could choose to use the Sign in category option to ask about something else, this feels much less likely.|
+|**Deciding between personal or general**|It would be simpler to choose whether your question is about `Sign in and technical issues` or something else, compared to choosing between `personal` or `general`. And this problem will persist in the authenticated version of the form, because we still need to know what information to ask for based on their response, but it is unlikely to get worse.|
 
 ### Idea 4: All questions require sign in
 
+An authenticated user lands on the home page. They are prompted to sign in to begin.
+
+> [!NOTE]
+> This [prototype](add link) illustrates this behavior.
+
+We expect this idea to solve some of the current issues but not all of them. It will introduce a new issue whereby you can no longer ask a general question without signing in, unless it's about `Sign in and technical issues`. It also could introduce an issue whereby people submit unauthenticated inquiries about `Sign in and technical issues` that involve sensitive information. And it would require business line rule changes to only allow authenticated inquiries for most business lines, apart from `Sign in and technical issues` which would require a rule change to accept that more unauthenticated questions will come to their queue.
+
+|Problem to solve|Will this approach solve this problem?|
+|:--|:--|
+|**Some inquiries are not in your dashboard**|This would solve this problem.|
+|**You feel deceived**|This would solve this problem.|
+|**Multiple clicks before you learn the rule**|This would solve this problem.|
+|**Start over**|This would solve this problem.|
+|**You can choose general question incorrectly**|This would solve this problem.|
+|**Deciding between personal or general**|This problem will persist in the form, because we still need to know what information to ask for based on their response, but it is unlikely to get worse.|
