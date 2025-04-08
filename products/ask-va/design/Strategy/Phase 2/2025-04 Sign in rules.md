@@ -158,7 +158,7 @@ An authenticated user lands on the home page. From the home page, they choose wh
 
 #### Does this idea solve key issues?
 
-|Problem to solve|Will this approach solve this problem?|
+|Problem to solve|Does this idea solve this problem?|
 |:--|:--|
 |**Some inquiries are not in your dashboard**|This problem will persist but it is unlikely to get worse.|
 |**You feel deceived**|This would solve this problem because they will not be asked to stop and sign in.|
@@ -186,7 +186,7 @@ An authenticated user lands on the home page. From the home page, they choose wh
 
 #### Does this idea solve key issues?
 
-|Problem to solve|Will this approach solve this problem?|
+|Problem to solve|Does this idea solve this problem?|
 |:--|:--|
 |**Some inquiries are not in your dashboard**|This problem will persist but it is unlikely to get worse.|
 |**You feel deceived**|This would solve this problem because they will not be asked to stop and sign in.|
@@ -212,7 +212,7 @@ An authenticated user lands on the home page. From the home page, they need to s
 
 #### Does this idea solve key issues?
 
-|Problem to solve|Will this approach solve this problem?|
+|Problem to solve|Does this idea solve this problem?|
 |:--|:--|
 |**Some inquiries are not in your dashboard**|This problem will persist but it is unlikely to get worse.|
 |**You feel deceived**|This would solve this problem because they will not be asked to stop and sign in.|
@@ -238,7 +238,7 @@ An authenticated user lands on the home page. They are prompted to sign in to be
 
 #### Does this idea solve key issues?
 
-|Problem to solve|Will this approach solve this problem?|
+|Problem to solve|Does this idea solve this problem?|
 |:--|:--|
 |**Some inquiries are not in your dashboard**|This would solve this problem.|
 |**You feel deceived**|This would solve this problem.|
