@@ -7,6 +7,7 @@ This document describes sign in rules and scenarios for Ask VA. We also plan to 
 Jump to:
 - [What we know about sign in rules for Ask VA](#what-we-know-about-sign-in-rules-for-ask-va)
 - [Start of the form: Sign in scenarios](#start-of-the-form-sign-in-scenarios)
+- [Key issues with sign in](#key-issues-with-sign-in)
 
 ## What we know about sign in rules for Ask VA
 
@@ -126,3 +127,13 @@ They don't see sign in rules changing over time, "We’re moving away from any u
 #### Land on Ask VA while authenticated with LOA1 and ask a question that requires sign in because of the category
 
 ![scenario-10](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-scenario-10.png)
+
+## Key issues with sign in
+
+This list captures potential user experience issues with the current sign in process on VA.gov.
+
+1. If you submit an inquiry while unauthenticated, it will never populate in your 'dashboard' or 'inbox.' If you authenticate in the future, it may not be clear why the inquiry is missing from your 'dashboard.'
+2. You might interpret that you don't't need to sign in and then later feel deceived when you're required to sign in.
+3. If you start without signing in, it can take 2 to 4 pages before you learn you have to sign in.
+4. You have to start completely over after signing in.
+5. You can choose a general question incorrectly. Then an agent will (or should) require you to resubmit while you're signed in.
