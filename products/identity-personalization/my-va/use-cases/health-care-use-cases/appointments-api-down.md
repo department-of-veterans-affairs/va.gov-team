@@ -25,3 +25,19 @@ For LOA3 users who have VA health care but sign in when the appointments API is 
 - [See more details about blocking specific network requests here.](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/profile_errors.md#appendix-blocking-specific-network-requests)
 - Verify that you see the appointments error in the Health care section and the four links below it.
 - Verify that if the user has unread messages, you see the messages alert above the appointments error and secondary links appear on the right hand side on desktop.
+
+
+
+### Validation 
+https://github.com/department-of-veterans-affairs/va.gov-team/issues/63401
+1. Log into staging with Cecil Morgan
+2. Scroll to the Healthcare section
+3. See the appointments card
+4. Confirm the "schedule and manage your appointments" link is updated to this url: https://va.gov/my-health/appointments
+5. To trigger an API error, enable network request blocking in browser dev tools, and block staging-api.va.gov/vaos/v2/appointments/*
+6. Confirm the "schedule and manage your appointments" link is updated to this url: https://va.gov/my-health/appointments
+7. Log out
+8. Log into staging with user 226
+9. Scroll to the Healthcare section
+10. See the secondary link for "schedule and manage your appointments"
+11. Confirm the link is updated to this url: https://va.gov/my-health/appointments
