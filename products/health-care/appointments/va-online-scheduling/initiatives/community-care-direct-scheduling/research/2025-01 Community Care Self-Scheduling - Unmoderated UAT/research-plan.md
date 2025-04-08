@@ -1,7 +1,5 @@
 # Research Plan - Community Care Self-Scheduling - Unmoderated UAT
 
-_[DRAFT]_
-
 ## Background
 
 **The Cleland Dole Act** addresses Veteran homelessness, access to care, community care, mental health, research, telehealth, prostate cancer, provider oversight and transparency, long-term care, rural health, benefits, information technology and more. 
