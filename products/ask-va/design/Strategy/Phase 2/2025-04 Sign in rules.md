@@ -56,8 +56,6 @@ For additional context on sign in rules, we asked the GI Bill team why sign in i
 
 They don't see sign in rules changing over time, "We’re moving away from any unauthenticated interactions with users." When they get unauthenticated inquiries, because an inquiry is re-routed to them, they ask the submitter to re-submit their question in order for them to answer it.
 
-It's important to also note that `Education benefits and work study` questions are always marked as 'general questions' and this choice happens automatically. This means that `Education benefits and work study` inquiries don't make a distinction between inquiry types, as other categories do.
-
 ## Start of the form: Sign in scenarios
 
 > [!NOTE]
