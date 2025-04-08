@@ -6,7 +6,7 @@ labels: platform-design-system-team
 assignees: caw310, jwoodman5
 ---
 
-### Design Systm Team 2025 Roadmap
+### Design System Team 2025 Roadmap
 
 * [Roadmap](https://vfs.atlassian.net/wiki/x/BwCS3w?atlOrigin=eyJpIjoiOGMyNDlmNTNjMDg5NDE0ZGFkNWQ5YmNhYTVkMWNkMGYiLCJwIjoiYyJ9p)
 
