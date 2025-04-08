@@ -67,7 +67,7 @@ They don't see sign in rules changing over time, "We’re moving away from any u
 
 #### Land on Ask VA while authenticated with LOA3
 
-![scenario-1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-scenario-1.png)
+![scenario-1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-scenario-1..png)
 
 ### Scenario 2
 
