@@ -13,12 +13,12 @@ As of September 2024, this document outlines the next steps for onboarding team 
 
 **Status**: Semi-blocked (pending [ESECC networking request and Memorandum of Understanding (MOU)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88288) between OCTO and OGC).
 
-**Relevant Epic**: [Digital Form 21a #83627](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/83627)
+**Relevant Epic**: [Digital Form 21a #83627](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83627)
 
 **Next Steps**:
 
 - **Integrate and Test GCLAWS API:**
-  - [Blocked] Follow up with [Sam Raudabaugh](https://github.com/raudabaugh) on the [networking request](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/88288) and MOU.
+  - [Blocked] Follow up with [Sam Raudabaugh](https://github.com/raudabaugh) on the [networking request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88288) and MOU.
   - [Blocked] Once the GCLAWS API is accessible from vets-api, update the endpoint configuration in `vets-api` and perform end-to-end testing. See [key issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85933), which details current errors, TODOs and necessary steps to accomplish this objective.
   - [Not Blocked] Before sending the Form21a JSON object to the [Form21as GCLAWS POST endpoint](https://ogccotst1.dva.va.gov:4501/swagger/index.html), it'll be necessary to align the [vets-website JSON schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87164) and perform [params validation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92770).
 
@@ -30,7 +30,7 @@ As of September 2024, this document outlines the next steps for onboarding team 
 
 **Status**: Unblocked (the digital Form 21a has undergone multiple design iterations, the last update being version 5. The designer, Lesley Ropp, needs to finalize pending design tasks.)
 
-**Relevant Epic**: [Digital Form 21a #83627](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/83627)
+**Relevant Epic**: [Digital Form 21a #83627](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83627)
 
 **Next Steps**:
 
@@ -62,12 +62,12 @@ As of September 2024, this document outlines the next steps for onboarding team 
 
 **Status**: Semi-blocked (pending [ESECC networking request and Memorandum of Understanding (MOU)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88288) between OCTO and OGC as well as GCLAWS endpoint development), though several issues can be started now.
 
-**Relevant Epic**: [ARP Authentication #78472](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/75746)
+**Relevant Epic**: [ARP Authentication #78472](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75746)
 
-**Impact**: Completing this enables progress on [21-22](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/78472) and representative contact information updates (see relevant [mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717433860326/129030147cf419fe9f5deb7004c0fb0a1a4e2350?sender=u2a4240a640b257ce33545495) [ZH epic](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/83633)).
+**Impact**: Completing this enables progress on [21-22](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78472) and representative contact information updates (see relevant [mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717433860326/129030147cf419fe9f5deb7004c0fb0a1a4e2350?sender=u2a4240a640b257ce33545495) [GH epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83633)).
 
 **Next Steps**:
-  - Review, add details to, and address incomplete issues in [ARP’s Authentication Epic](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/75746) (determining what portions can be completed with the GCLAWS API in its current state).
+  - Review, add details to, and address incomplete issues in [ARP’s Authentication Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75746) (determining what portions can be completed with the GCLAWS API in its current state).
     - Some portions of [this accredited representative user PR](https://github.com/department-of-veterans-affairs/vets-api/pull/18095/files) can be reverted and modified to fit a solution that leverages MPI and GCLAWS for user validation.
     - The [ARP Identity Flow Diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714501321813) will be helpful in this effort.
   - Connect with the Identity Team in [#arp-identity-integration](https://dsva.slack.com/archives/C06NBCMA7LL), as you'll collaborate closely with them!
@@ -78,7 +78,7 @@ As of September 2024, this document outlines the next steps for onboarding team 
 
 **Status**: Blocked (pending implementation of 21-22 request storage).
 
-**Relevant Epic**: [Accept Deny Power of Attorney Requests #78472](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/78472)
+**Relevant Epic**: [Accept Deny Power of Attorney Requests #78472](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78472)
 
 **Next Steps**:
 
@@ -96,7 +96,7 @@ As of September 2024, this document outlines the next steps for onboarding team 
 
 **Objective**: Set up the `representative.va.gov` subdomain for ARP.
 
-**Relevant Epic**: [Representative Subdomain Setup #71723](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/71723)
+**Relevant Epic**: [Representative Subdomain Setup #71723](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71723)
 
 **Status**: Blocked (pending approval of the subdomain ESECC request).
 
