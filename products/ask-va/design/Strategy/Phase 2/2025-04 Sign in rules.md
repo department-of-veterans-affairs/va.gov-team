@@ -89,10 +89,40 @@ They don't see sign in rules changing over time, "We’re moving away from any u
 
 #### Land on Ask VA while unauthenticated and sign in to LOA3 before asking a new question
 
-![scenario-3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-scenario-4.png)
+![scenario-4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-scenario-4.png)
 
 ### Scenario 5
 
 #### Land on Ask VA while unauthenticated and sign in to LOA1 then choose to verify identity before asking a question
 
-![scenario-3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-scenario-5.png)
+![scenario-5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-scenario-5.png)
+
+### Scenario 6
+
+#### Land on Ask VA while unauthenticated and sign in to LOA1 before asking a question that does not require sign in
+
+![scenario-6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-scenario-6.png)
+
+### Scenario 7
+
+#### Land on Ask VA while unauthenticated and ask a question that requires sign in because of the category
+
+![scenario-7](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-scenario-7.png)
+
+### Scenario 8
+
+#### Land on Ask VA while unauthenticated and ask a question that requires sign in because of the topic
+
+![scenario-8](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-scenario-8.png)
+
+### Scenario 9
+
+#### Land on Ask VA while unauthenticated and ask a question that requires sign in because of who your question is about
+
+![scenario-9](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-scenario-9.png)
+
+### Scenario 10
+
+#### Land on Ask VA while authenticated with LOA1 and ask a question that requires sign in because of the category
+
+![scenario-10](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/2025-04-Start-the-form-scenario-10.png)
