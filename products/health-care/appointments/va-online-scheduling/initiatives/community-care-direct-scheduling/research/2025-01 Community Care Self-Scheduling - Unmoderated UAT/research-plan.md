@@ -38,7 +38,7 @@ This study will give us insight into if Veterans from pilot sites were able to s
 
 
 ## Method
-This research will be conducted as an unmoderated survey study using Optimal Workshop. To recruit Veterans from the pilot sites, we will add information and a link on the confirmation page of the Community Care Self-Scheduling flow. This will lead to a tailored Perigean registration form so Perigean can easily identify the participants who are looking to complete our UAT survey for this specific feature.
+This research will be conducted as an unmoderated survey study using Optimal Workshop. To recruit Veterans from the pilot sites, we will add information and a link on the confirmation page of the Community Care Self-Scheduling flow. This will lead to a tailored Perigean registration form so that Perigean can easily identify the participants who are eligible to complete our UAT survey for this product.
 
 **Staff script/interception:**
 When CC scheduling staff contact Veterans and ask them if they would like to opt in to self-scheduling, we’ll have them ask Veterans if they’re interested in providing feedback on the process and, if so, to look out for a link at the end of the scheduling process to register to provide feedback at veteranusability.us. 
@@ -51,7 +51,7 @@ Tests will be conducted online at the participant’s leisure.
 - [Custom recruitment registration]
 
 ## Recruitment
-__ cohorts, 9 participants each, total ___ responses. Minimum threshold of ___ completed responses.
+1 cohort, 5 participants each, total 5 responses. Minimum threshold of 3 completed responses.
 
 ### Primary criteria (must-haves)
 
@@ -60,76 +60,34 @@ __ cohorts, 9 participants each, total ___ responses. Minimum threshold of ___ c
 - All must have used the unique registration form leading from the Community Care self-scheduling feature.
 
 
-**Cohort A: 9 Veterans**
-- First set 9 Veterans to register (1-9)
+**Cohort A: 9 Veterans who opted in to community care scheduling**
+- First set 9 Veterans to register (1-5)
   - [Link for Cohort A]
-
-**Cohort B: 9 Veterans**
-- Second set 9 Veterans to register (10-18)
-  - [Link for Cohort B]
-
-**Cohort C: 9 Veterans**
-- Third set of 9 Veterans to register (19-27)
-  - [Link for Cohort C]
-
-**Cohort D: 9 Veterans**
-- Fourth set of 9 Veterans to register (28-36)
-  - [Link for Cohort D]
-
-etc.
-
-
-### Secondary criteria
-- At least ___ women
-- At least ___ participants with a cognitive disability
-- At least ___ participants who are not Caucasian
-- At least ___ LGBTQ + Veterans
-- At least ___ participants who don't have any degree or vocational training after high school (to include enlisted Veterans)
-- At least ___ people who live in a rural or remote area
-
 
 ## Timeline
 
 ### Pilot session
-- Complete
+- TBD
 
 ### Kickoff with Perigean
-
-Availability:
-- **Date**
-  - Available between ___
- 
-- **Date**
-  - Available between ___
-
-- **Date**
-  - Available between ___ 
-
+- Completed
 
 ### Start date
-Flexible; based on Perigean's schedule to begin email recruitment
+TBD
 
 ## Team Roles
 Steven Straily (steven.straily@agile6.com) will serve as primary researcher and project point of contact for this study.
 Christina Gednalske (christina.gednalske@adhocteam.us) is a secondary point of contact.
 
 ## Appendix
-### Appendix Item A: Email to recruited participants
+### Appendix Item A: Script for MSAs to offer UAT survey
 
-[subject] Start your VA online research activity
+Once you complete your online scheduling, there will be a link where you can provide feedback on the confirmation page.
 
-Hello,
-
-Thank you for agreeing to take part in this VA online research activity.
-
-This activity usually takes about 15-20 minutes to complete. You can start anytime from your smartphone, laptop, or any device with an Internet connection. We'll guide you through each task in the activity.
+Through that link, there will be an initial registration survey, and then a feedback survey for the Community Care pilot you participated in. Each activity usually takes about 10-15 minutes to complete. You can start anytime from your smartphone, laptop, or any device with an Internet connection.
 
 We won't share any information or feedback linked to your name or other personal details.
 
-Here's your participant code: [Add code]
-
-You'll need to enter this at the start of the activity, and after you've completed the last task to receive compensation.
-
-[link] Start the activity now
+After you've completed the second survey providing feedback, you will receive compensation from our recruitment partner.
 
 
