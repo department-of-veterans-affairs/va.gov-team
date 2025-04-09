@@ -123,10 +123,14 @@ Government Stakeholders:
 |Toxic Exposure (New Questions) Research| Evaluative research of confirmation page and post-submission emails | [SharePoint Link](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?isAscending=true&e=5%3A0f5e8995f1784d9aa59021cdc4776530&sharingv2=true&fromShare=true&CID=d7176fa1%2Dc0b0%2D7000%2D6dfa%2Df91eba2b481a&cidOR=SPO&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience%2F5%20%2D%20Research%20and%20Design%2F2024%2D11%20Toxic%20Exposure%20%28New%20Questions%29%20Research&sortField=LinkFilename&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) | Nov 2024|
 |VADS Documentation|VA Design System Guide (Covers content, patterns, components)|[Link](https://design.va.gov/)|
 
-## Google Analytics
-TODO: Ask Evelyn about GA and/or if she could elaborate on the state of this
+## Metrics & Analytics
+In February 2024, there was an effort to update our 526 Domo dashboard to capture updates to the form. Please note that Google Analytics is connected to Domo (Domo is pulling information from Google Analytics.) The second document in the table below entitled "Single Source of truth Domo/Google Analytics" gathers those findings. 
+
 |Title|Description|Link|Version|
+|MVP Metrics for 526ez|Markdown document with overview on metrics like exit rate|[link(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/MVP-Metrics-526.md)|March 3, 2025|
+|Single Source of truth Domo/Google Analytics|Word Document (accessible through CAG only) with details |[link](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/6%20-%20Analytics/Single%20Source%20of%20Truth_%20Domo_%20Analytics%20Resources.docx?d=w6b2b9d82054043ad9e983215ac905c2a&csf=1&web=1&e=hve7KH)|February 6, 2024|
 |-----|-----------|----|-------|
+
 
 ## Features/Initiatives
 TODO: add project features here
