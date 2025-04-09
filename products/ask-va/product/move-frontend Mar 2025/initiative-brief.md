@@ -71,11 +71,11 @@ It also includes these OKRs:
    - Key result: Develop and deploy API endpoints to send and receive data from AVA Dynamics CRM
    - Key result: There are 0 fatal errors in sending or receiving data needed for VA agents to answer submitter questions
 	
-|Key result|Baseline (ask.va.gov)|After X months|
-|:---|:---|:---|
-|Satisfaction|January 2025: 23%|x|
-|Form completion rate|[May to October (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|x|
-|Accurate routing|[2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Determining%20Ask%20VA%20queue%20from%20question%20text.md#submitter-problem-statement-misrouting-and-form-burden): 93%|x|
+|Key result|Baseline (ask.va.gov)|Canary release (3/27/25 to ...) After X months|
+|:---|:---|:---|:---|
+|Satisfaction|12/16/25 to 4/9/25: 23%, 3150 responses|x|x|
+|Form completion rate|[May to October (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|x|x|
+|Accurate routing|[2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Determining%20Ask%20VA%20queue%20from%20question%20text.md#submitter-problem-statement-misrouting-and-form-burden): 93%|x|x|
 
 ## Release plan
 Review our release plan [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/release-plan.md).
