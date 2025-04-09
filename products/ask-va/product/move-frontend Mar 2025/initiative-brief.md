@@ -71,7 +71,7 @@ It also includes these OKRs:
    - Key result: Develop and deploy API endpoints to send and receive data from AVA Dynamics CRM
    - Key result: There are 0 fatal errors in sending or receiving data needed for VA agents to answer submitter questions
 	
-|Key result|Baseline (ask.va.gov)|Canary release (3/27/25 to ...)|After X months|
+|Key result|Baseline (ask.va.gov)|Canary release (3/27/25 to 4/9/2025)|After X months (4/9/2025 to ...)|
 |:---|:---|:---|:---|
 |Satisfaction|12/16/25 to 4/9/25: 23%, 3150 responses|3/27/25 to 4/9/25: 25%, 16 responses|x|
 |Form completion rate|[May to October (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|3/27/25 to 4/9/25: 25%|x|
