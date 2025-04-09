@@ -18,7 +18,7 @@
 ## <a name="flows"></a>Navigation/page flows <br>
 The Simple Mileage-only Claims feature will live in the authenticated MHV space on VA.gov. Unauthenticated pages will serve as entry points that link to it.
 
-No impact to IA
+No impact to IA - on-page content changes only
 
 ## <a name="url"></a>Page URLs and breadcrumbs
 No changes to URLs for launch. There will be a breadcrumb and menu label change for the hub page.
