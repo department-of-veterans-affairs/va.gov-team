@@ -19,6 +19,7 @@ In addition, user feedback collected on "finish this request later", error messa
 Cindy and Jeana proposed this design and want to get feedback from Martha and the accessibility specialists CoP. We want to **find out whether Veterans are confident that their form data is being saved** with this design, which has four components:  
 
 1. **New! NO green alert with every save** (because it flashes on and off, and isn't read by screen readers due to its position below the Back and Continue buttons).
+
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJpmWCXYkGCFLpM6XuS70jIUYlaOZoAdprQSDJnq5xAWw43LNCjYx0I8ejlsnjvyh_npfsUnnyvDPfFVN7ZMCHd1F58nTp6B5UrN5V8eg76TRJvWGDCrI8Z0TWCuwbn1lgsL3aZgEOTu65TvhCgt0?key=pxC-salXAlhTwoo8rKC9-5jc)  
 
 1. **New! Change "Finish this request later" to look like a button** titled "Save and finish later" or "Finish later" (instead of the current look as a link) for material honesty. Including the word "Save" to the button will likely help Veterans understand that their form data is being saved. Put in place of the Back button (which isn't needed because of breadcrumb at the top, per research conducted with the minimal header design) because this is a good place for the user to decide whether to stop working and resume later vs. continue onto the next page. 
