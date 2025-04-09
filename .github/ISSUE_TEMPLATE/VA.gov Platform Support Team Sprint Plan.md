@@ -1,7 +1,7 @@
 ---
 name: Platform Initiative
 about: Top-level epic to track a VSP Initiative
-title: 'Support Team Sprint [XX] Plan'
+title: 'Platform Support Team Sprint [XX] Plan'
 labels: platform-initiative
 assignees: alyssagallion, jwoodman5
 ---
