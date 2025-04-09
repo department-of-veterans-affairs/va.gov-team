@@ -1,6 +1,6 @@
 # IA design for simple mileage-only claims in unauthenticated site
 
-**STATUS: Draft**
+**STATUS: Complete**
  
 **Team:** Travel Pay
  
