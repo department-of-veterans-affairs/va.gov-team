@@ -249,7 +249,7 @@ An authenticated user lands on the home page. They are prompted to sign in to be
 
 #### Does this idea introduce new issues?
 
-If you're having trouble signing in and have a question about Sign in and technical issues, you're stuck.
+If you're having trouble signing in and have a question about `Sign in and technical issues`, you're stuck.
 
 #### Does this idea require approval from business lines?
 
