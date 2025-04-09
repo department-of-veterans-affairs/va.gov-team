@@ -31,7 +31,8 @@ Affected pages:
 - Notes: H1 and menu label change 
  
 **2) How to file a VA travel reimbursement claim online- Existing**
-- Notes: this page will need to be revisited in the future since it's very similar to the page above. We'll leave as is for launch to avoid issues with redirecting.
+- URL: https://www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/
+- Notes: this page will need to be revisited in the future since it's very similar in H1 and URL to the page above. We'll leave as is for launch to avoid issues with redirecting.
  
  
 ## <a name="nav"></a>Entry points <br>
