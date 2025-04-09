@@ -44,7 +44,6 @@
 ## August 2025 – Implement Design + Content Improvements
 - Launch updated survey question set and UI changes (if any)
 - Monitor response rates and open-text quality after changes
-- Prepare summary of Qualtrics vs Medallia findings
 - Assess effectiveness of trigger parameters
 
 ---
