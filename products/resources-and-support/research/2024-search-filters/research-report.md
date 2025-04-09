@@ -245,11 +245,6 @@ _Potential recommendations based on the research findings are listed below._
 After design revisions to address recommendations and launching to production, monitor Medallia for additional Veteran feedback on usability of tags. The Figma prototype used in this study was limiting in available filters and a significant number of Veteran feedback quotes above were caused by lack of complex logic only available in production. 
 
 
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
-
 ## Appendix
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/research/2024-search-filters/research-plan.md)
