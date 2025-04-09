@@ -3,7 +3,7 @@ name: Platform Initiative
 about: Top-level epic to track a VSP Initiative
 title: 'Support Team Sprint [XX] Plan'
 labels: platform-initiative
-assignees: '@alyssagallion'
+assignees: '@alyssagallion' '@jwoodman5'
 
 ---
 ### Sprint Goals
