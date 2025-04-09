@@ -1,79 +1,77 @@
-
-    [WORK IN PROGRESS]
-
 # Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
-
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+Establish a "hosted collection page" from pay.gov to the va.gov debt portal to streamline the Veteran experience by enabling them to make payments for benefit overpayment debts without navigating away from the va.gov financial management experience. 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+Currently Veterans managing their debts on our platform must navigate to an external website (pay.gov) to complete payments. This context switching leads to drop-off, confusing and an inconsistent user experience. There is a little visibility into how Veterans interact with the payment process once they leave our platform, making it difficult to optimize performance or troubleshoot issues. 
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
- 
+In addition, the VA Debt Management Center (DMC) will be deprecating the pay.va.gov site and would like to process payments through a pay.gov integration. While this solution will greatly improve the Veteran experience as described above, it will also provide a means for DMC to shift payments from the pay.va.gov process and ultimately eliminate that functionality. 
+
 ## Desired User Outcomes
-
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Veterans can initiate and complete debt payments directly from va.gov debt portal site without being redirected to pay.gov
+- Veterans feel secure and confident in the payment process.
+- The flow feels intuitive, quick, and personalized to the type of debt they are managing.
 
 ## Undesired User Outcomes
-
+- Veterans get confused or drop off mid-process due to unclear interfaces or payment errors. 
+- Veterans feel insecure about entering payment details due to lack of branding or visual consistency.
+- Veterans encounter technical issues without clear paths to resolution.
 
 ## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Overpayment Debt Payments are successful being processed via new pay.gov hosted collection page
+- Reduced call center calls related to payment questions or issues. 
+- Enhanced data visibility and reporting on Veteran payment behavior. 
+- Improved Veteran satisfaction and retention for the debt management portal.
 
 ## Undesired Business Outcomes
-
+- Low adoption of the hosted payment solution due to poor UX or technical issues.
+- Increased support costs due to unclear flows or errors.   
+- Failure to meet compliance/security standards in integration.
+- Failed payment processing due to errors or poor implementation. 
 
 ---
 ## Measuring Success
 
-
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+- Payment Completion Rate (PCR) – target: 98%+  (Service Completion)
+- Drop-off Rate during Payment – target: < 15% (Service Completion)
+- Average Time to Complete Payment – target: < 3 minutes (Ease of Use)
+- Number of Support Tickets related to Payment – target: 20% decrease (Trust/Satisfaction)
+- CSAT scores related to experience - target 80%+ (Trust/Satisfaction)
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+- Current payment completion rate via pay.va.gov
+- Average number of call centers per month related to payment of overpayment debt
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:
-  - Key result: 
-  - Key result: 
-
+Objective 1: Improve payment experience and reduce friction 
+-   KR1: Achieve a 25% increase in payment completion within 60 days post-launch  
+-   KR2: Reduce average payment completion time by 20%
+-   KR3: Maintain 99% uptime and availability of hosted page during first 90 days
+ 
+Objective 2: Strengthen Veteran trust in the debt payment experience
+-   KR1: Achieve a Veteran satisfaction score of ??? from post-payment surveys
+-   KR2: Ensure at least 90% of Veterans successfully load the embedded payment page on first attempt
+-   KR3: Limit payment-related errors to <2% of total payment attempts
 
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Pay.gov's hosted page is customizable and can be embedded in an iframe or modal.
+- The hosted solution meets all required VA.gov platform, design and accessibility standards.
+- Veterans will receive confirmation number and ability to download a payment receipt for their records 
+- Our front-end team can support UI adjustments to make the experience visually cohesive. 
+- Backend support is available for API integrations, logging, and tracking.
+- We will have access to analytics from the hosted page (via API or reporting dashboard).
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- Building a hosted collection page that will process payments from the va.gov debt portal experience for Veterans
 
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
-- Initiative | [Link to Initiative Brief](#)
 
---- 
 
 ## Launch Strategy
 - *How are Veterans and others using this product going to know it exists?*
@@ -110,11 +108,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: Financial Management
+- GitHub Label: vsa-debt
+- Slack channel: #financial-management 
+- Product POCs: Denise Coveyduc
+- Stakeholders: Robert Vitt
 
 </details>
 
@@ -122,11 +120,15 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
- 
+ - DEPO Lead: Denise Coveyduc
+ - PM: Tom Davis
+ - DM: Heather Rienks
+ - Engineering: Andrew Rodiek, Brandyn Sullins, Aaron Ponce, Derek Dyer, Josh Mills
+ - Research/Design: Charlotte Cesana, Megan Gayle, Marsela 
+
+
+
+
 </details>
 
 
@@ -134,7 +136,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+VA CIO/OCTO Development Team - Financial Management : Primary Contact Denise Coveyduc
+VA Debt Management Center - Pay.va.gov Deprecation Team : Primary Contact Robert Vitt
+Pay.gov Team : Primary Contact (Finances: Tammy Sams) (Engineering: Danielle Eagleeye)
  
 </details>
-
