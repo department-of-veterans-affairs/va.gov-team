@@ -10,21 +10,23 @@ Cindy Merrill (ADE) and Jeana Clark (Forms team), April 2025
 
 ## Outcome of the user research
 
-Findings and recommendations from this research will inform guidance and documentation for the "save in progress" feature that is present for authenticated users filling out forms on VA.gov. Matt Dingee asked ADE to help with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard pattern used by all teams that shouldn't need new designs. 
+Findings and recommendations from this research will **inform guidance and documentation for the "save in progress" feature** that is present for authenticated users filling out forms on VA.gov. Matt Dingee asked ADE to help with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard pattern used by all teams that shouldn't need new designs. 
 
 In addition, user feedback collected on "finish this request later", error messages, and the progress bar will be helpful for accessibility specialists advising VFS teams.
 
 ## Proposed design for user research (usability testing)
 
-Cindy and Jeana proposed this design and want to get feedback from Martha and the accessibility specialists CoP. We want to find out whether Veterans are confident that their form data is being saved with this design, which has four components:  
+Cindy and Jeana proposed this design and want to get feedback from Martha and the accessibility specialists CoP. We want to **find out whether Veterans are confident that their form data is being saved** with this design, which has four components:  
 
-1. New! NO green alert with every save (because it flashes on and off, and isn't read by screen readers due to its position below the Back and Continue buttons).![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJpmWCXYkGCFLpM6XuS70jIUYlaOZoAdprQSDJnq5xAWw43LNCjYx0I8ejlsnjvyh_npfsUnnyvDPfFVN7ZMCHd1F58nTp6B5UrN5V8eg76TRJvWGDCrI8Z0TWCuwbn1lgsL3aZgEOTu65TvhCgt0?key=pxC-salXAlhTwoo8rKC9-5jc)  
+1. **New! NO green alert with every save** (because it flashes on and off, and isn't read by screen readers due to its position below the Back and Continue buttons).![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJpmWCXYkGCFLpM6XuS70jIUYlaOZoAdprQSDJnq5xAWw43LNCjYx0I8ejlsnjvyh_npfsUnnyvDPfFVN7ZMCHd1F58nTp6B5UrN5V8eg76TRJvWGDCrI8Z0TWCuwbn1lgsL3aZgEOTu65TvhCgt0?key=pxC-salXAlhTwoo8rKC9-5jc)  
 
-1. New!Change "Finish this request later" to look like a button titled "Save and finish later" or "Finish later" (instead of the current look as a link) for material honesty. Including the word "Save" to the button will likely help Veterans understand that their form data is being saved. Put in place of the Back button (which isn't needed because of breadcrumb at the top, per research conducted with the minimal header design) because this is a good place for the user to decide whether to stop working and resume later vs. continue onto the next page. ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdJS3A_7gQ2VL3VLSU8ccc0Qrltgb7IAyPEPr3kWg4O7corQd8Ys7tv1p5RmWLQwbxAweJ7r3tz6Zi3HCLqhqOBZ2fNmtv2gC1wyfcFqtYhlW1PGNwG4mXpToIiGP5LHMpsY-_e351GCwTrZgh17uk?key=pxC-salXAlhTwoo8rKC9-5jc)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeiGetfUlVyZ48_llUMNw6HvMaLSvmX3eKDVhMAG2OZ_vtRNosiwuJfNC5Fb3KXBgu16XEcM3Ch_X0iZkfa66IKldcnADOtuhyI9Bpwz8boztDGWE09uR6ToFVE7C0NCMuzHr4LSQlBWhvHzRxw3Lw?key=pxC-salXAlhTwoo8rKC9-5jc)
-2. Alert on form intro page for unauthenticated users (currently exists on some forms) ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcpjhfyOaKmCctLp1g5B44WNj3T_18Q6jayaKoWbNhV9-DxUJGt63gfVuWBB66pFeXynNeNheF7bsK9nK4tCbqaXTtbD0eZCDMyf8HtBgyttzjD6DhT_RJsAXQO8IHCecfDsrdK0s9jv6BIOSWBHLM?key=pxC-salXAlhTwoo8rKC9-5jc)
-3. Alert on the form intro page for authenticated users  (currently exists on all forms when signed in)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfITKGyybhNFcqWVX33Bsmwppm-JNUwOfiIy5BE3M0o40FgmFTlUnPBR4DcB16ETZBemmWTxbVYAgIoHAnQnTn9zZMt8yxbKkaX6IQ9lJQlv2RS3RyAyXGXXdm3ojylgnXPTWAkKStc2U7TaheQMvY?key=pxC-salXAlhTwoo8rKC9-5jc)
+1. **New! Change "Finish this request later" to look like a button** titled "Save and finish later" or "Finish later" (instead of the current look as a link) for material honesty. Including the word "Save" to the button will likely help Veterans understand that their form data is being saved. Put in place of the Back button (which isn't needed because of breadcrumb at the top, per research conducted with the minimal header design) because this is a good place for the user to decide whether to stop working and resume later vs. continue onto the next page. 
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdJS3A_7gQ2VL3VLSU8ccc0Qrltgb7IAyPEPr3kWg4O7corQd8Ys7tv1p5RmWLQwbxAweJ7r3tz6Zi3HCLqhqOBZ2fNmtv2gC1wyfcFqtYhlW1PGNwG4mXpToIiGP5LHMpsY-_e351GCwTrZgh17uk?key=pxC-salXAlhTwoo8rKC9-5jc)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeiGetfUlVyZ48_llUMNw6HvMaLSvmX3eKDVhMAG2OZ_vtRNosiwuJfNC5Fb3KXBgu16XEcM3Ch_X0iZkfa66IKldcnADOtuhyI9Bpwz8boztDGWE09uR6ToFVE7C0NCMuzHr4LSQlBWhvHzRxw3Lw?key=pxC-salXAlhTwoo8rKC9-5jc)
 
-## 
+2. **Alert on form intro page for unauthenticated users** (currently exists on some forms) ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcpjhfyOaKmCctLp1g5B44WNj3T_18Q6jayaKoWbNhV9-DxUJGt63gfVuWBB66pFeXynNeNheF7bsK9nK4tCbqaXTtbD0eZCDMyf8HtBgyttzjD6DhT_RJsAXQO8IHCecfDsrdK0s9jv6BIOSWBHLM?key=pxC-salXAlhTwoo8rKC9-5jc)
+
+3. **Alert on the form intro page for authenticated users** (currently exists on all forms when signed in)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfITKGyybhNFcqWVX33Bsmwppm-JNUwOfiIy5BE3M0o40FgmFTlUnPBR4DcB16ETZBemmWTxbVYAgIoHAnQnTn9zZMt8yxbKkaX6IQ9lJQlv2RS3RyAyXGXXdm3ojylgnXPTWAkKStc2U7TaheQMvY?key=pxC-salXAlhTwoo8rKC9-5jc)
 
 ## How to implement this design for usability testing
 
