@@ -23,6 +23,7 @@ Cindy and Jeana proposed this design and want to get feedback from Martha and th
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJpmWCXYkGCFLpM6XuS70jIUYlaOZoAdprQSDJnq5xAWw43LNCjYx0I8ejlsnjvyh_npfsUnnyvDPfFVN7ZMCHd1F58nTp6B5UrN5V8eg76TRJvWGDCrI8Z0TWCuwbn1lgsL3aZgEOTu65TvhCgt0?key=pxC-salXAlhTwoo8rKC9-5jc)  
 
 1. **New! Change "Finish this request later" to look like a button** titled "Save and finish later" or "Finish later" (instead of the current look as a link) for material honesty. Including the word "Save" to the button will likely help Veterans understand that their form data is being saved. Put in place of the Back button (which isn't needed because of breadcrumb at the top, per research conducted with the minimal header design) because this is a good place for the user to decide whether to stop working and resume later vs. continue onto the next page. 
+
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdJS3A_7gQ2VL3VLSU8ccc0Qrltgb7IAyPEPr3kWg4O7corQd8Ys7tv1p5RmWLQwbxAweJ7r3tz6Zi3HCLqhqOBZ2fNmtv2gC1wyfcFqtYhlW1PGNwG4mXpToIiGP5LHMpsY-_e351GCwTrZgh17uk?key=pxC-salXAlhTwoo8rKC9-5jc)
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeiGetfUlVyZ48_llUMNw6HvMaLSvmX3eKDVhMAG2OZ_vtRNosiwuJfNC5Fb3KXBgu16XEcM3Ch_X0iZkfa66IKldcnADOtuhyI9Bpwz8boztDGWE09uR6ToFVE7C0NCMuzHr4LSQlBWhvHzRxw3Lw?key=pxC-salXAlhTwoo8rKC9-5jc)
 
