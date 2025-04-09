@@ -23,7 +23,8 @@
 
 - Kyle Soskin
     - 0781 paper sync
-      - Reporting 
+      - Reporting
+      - Staging review prep
  
 
 - Work not planned - _This is work the team will pick up if capacity permits_
