@@ -19,9 +19,8 @@
 ---
 
 ## June 2025 – Launch Intercepts on Non-Form Pages, Qualtrics Pilot
-- Implement new intercepts on 2-3 **non-form experiences**
+- Implement new intercepts on **non-form experiences**
     - Track **initial performance** (capture rate, response rate)
-- Roll out improved trigger to remaining non-form A11 products 
 
 #### Pilot Qualtrics on 1-2 products as an A/B comparison
 - Run side-by-side comparison with Medallia:
