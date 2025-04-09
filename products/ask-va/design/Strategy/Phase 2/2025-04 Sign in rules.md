@@ -197,7 +197,7 @@ An authenticated user lands on the home page. From the home page, they choose wh
 
 #### Does this idea introduce new issues?
 
-Potentially, more people will choose a general question and be asked to resubmit their inquiry again.
+Potentially, more people will choose a general question and be asked to resubmit their inquiry again. You also won't be able to submit general questions while authenticated.
 
 #### Does this idea require approval from business lines?
 
