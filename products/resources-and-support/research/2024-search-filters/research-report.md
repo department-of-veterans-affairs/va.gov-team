@@ -232,17 +232,17 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+_Potential recommendations based on the research findings are listed below._
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* **Increase visibility of filters on the landing page** since only a few participants clicked on the filter button without being prompted to do so. While some may choose to browse via search over filters, this could increase engagement of filters and fundability of content.
+* **Consider changing the word “tag” to something more plain-language** like “Topic” since this is how it is described in the filter options. 
+* **Consider revising how tags are shown on mobile** to reduce amount of screen it takes up.
+* In a future state, consider an authenticated version that **surfaced content specific to the Veteran as most expected to see a personalized experience that only showed content that was relevant to them.** 
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+After design revisions to address recommendations and launching to production, monitor Medallia for additional Veteran feedback on usability of tags. The Figma prototype used in this study was limiting in available filters and a significant number of Veteran feedback quotes above were caused by lack of complex logic only available in production. 
 
 
 ## Further research needed
