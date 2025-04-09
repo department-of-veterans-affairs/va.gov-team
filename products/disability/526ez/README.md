@@ -129,7 +129,7 @@ In February 2024, there was an effort to update our 526 Domo dashboard to captur
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
 |MVP Metrics for 526ez|Markdown document with overview on metrics like exit rate|[link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/MVP-Metrics-526.md)|March 3, 2025|
-|Single Source of truth Domo/Google Analytics|Word Document (accessible through CAG only) with details |[link](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/6%20-%20Analytics/Single%20Source%20of%20Truth_%20Domo_%20Analytics%20Resources.docx?d=w6b2b9d82054043ad9e983215ac905c2a&csf=1&web=1&e=hve7KH)|February 6, 2024|
+|Single Source of truth Domo/Google Analytics|Word Document (accessible through CAG only) with detailed questions and answers from DBEX investigation into Analytics |[link](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/6%20-%20Analytics/Single%20Source%20of%20Truth_%20Domo_%20Analytics%20Resources.docx?d=w6b2b9d82054043ad9e983215ac905c2a&csf=1&web=1&e=hve7KH)|February 6, 2024|
 |526 Analytics - Calculating Drop-off Rates|Overview of drop-off rates|[link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/526Analytics.md)|March 25, 2024|
 
 
