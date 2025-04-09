@@ -5,18 +5,20 @@ Cindy Merrill (ADE) and Jeana Clark (Forms team), April 2025
 ## User research goals
 
 1. (primary) Learn about Veterans' expectations for saving information while filling out an online form before the form is submitted.
-2. (primary) Get user feedback on a revised design for "save in progress" and "finish this request later".
+2. (primary) Get user feedback on a proposed design revision for "save in progress" and "finish this request later".
 3. (secondary) Get user feedback on error messages and the progress bar while filling out online forms.
 
 ## Outcome of the user research
 
-Findings and recommendations from this research will **inform guidance and documentation for the "save in progress" feature** that is present for authenticated users filling out forms on VA.gov. Matt Dingee asked ADE to help with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard pattern used by all teams that shouldn't need new designs. 
+Findings and recommendations from this research will **inform guidance and documentation for the "save in progress" feature** that is present for authenticated users filling out forms on VA.gov. Matt Dingee asked ADE to help with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard pattern used by all teams. 
 
 In addition, user feedback collected on "finish this request later", error messages, and the progress bar will be helpful for accessibility specialists advising VFS teams.
 
 ## Proposed design for user research (usability testing)
 
-Cindy and Jeana proposed this design and want to get feedback from Martha and the accessibility specialists CoP. We want to **find out whether Veterans are confident that their form data is being saved** with this design, which has four components:  
+Cindy and Jeana proposed this design and want to get feedback from Martha and the accessibility specialists CoP. 
+
+We want to **find out whether Veterans are confident that their form data is being saved** with this design, which has four components:  
 
 1. **New! NO green alert with every save** (because it flashes on and off, and isn't read by screen readers due to its position below the Back and Continue buttons).
 
