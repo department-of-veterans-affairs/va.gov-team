@@ -6,6 +6,14 @@ labels: accredited-representation-management-team
 type: Epic
 
 ---
+## Epic Overview
+**Goal**: _What is the intended outcome of this project?_
+
+**Deliverable / Acceptance criteria**: _How will we know that this work is complete?_
+
+**Estimated time**: _How much time do you anticipate this project taking?_
+
+---
 
 #### How to configure this issue
 1. Label with practice area (`ux`, `research`, `design`, `backend`, `frontend`)
