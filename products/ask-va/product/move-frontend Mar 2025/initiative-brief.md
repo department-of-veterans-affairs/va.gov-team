@@ -75,7 +75,7 @@ It also includes these OKRs:
 |:---|:---|:---|:---|
 |Satisfaction|12/16/25 to 4/9/25: 23%, 3150 responses|3/27/25 to 4/9/25: 25%, 16 responses|x|
 |Form completion rate|[May to October (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|3/27/25 to 4/9/25: 25%|x|
-|Accurate routing|[2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Determining%20Ask%20VA%20queue%20from%20question%20text.md#submitter-problem-statement-misrouting-and-form-burden): 93%|x|x|
+|Accurate routing|2024: 93%|x|x|
 
 
 
