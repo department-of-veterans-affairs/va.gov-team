@@ -32,62 +32,13 @@ Cindy and Jeana proposed this design and want to get feedback from Martha and th
 
 Below is a list of what we might need to implement the design for usability testing.
 
-What we need
-
-Rationale
-
-How to do 
-
-Coded prototype with a working form
-
-So can test with screen reader users (as well as sighted users), and can save the form data entered by participants (vs. telling them that it's saved when it's not)
-
-Need help from an engineer
-
-(ideally) Simplified login process
-
-So research participants don't get bogged down with logging in and don't share their PII
-
-Work with Adam Whitlock (Authenticated Experience Design Pattern team) to make a github codespace with user task links that go directly to authenticated pages
-
-(backup plan) New test user account
-
-Want to be able to save data, and don't want anything to change 
-
-Use [these instructions](https://dsva.slack.com/archives/C05M78LBUQM/p1740515066036939) to create test user, and plan to erase data entered at end of each research session
-
-Start from a form using the minimal header 
-
-It's in the VA design system and has room for a second CTA button
-
-Use the [Request Personal Records (VA Form 20-10206)](https://staging.va.gov/records/request-personal-records-form-20-10206/introduction) that's already in the minimal header format
-
-Turn off display of green alert on form after every field entry
-
-Want to test this
-
-Need help from an engineer
-
-Change "Finish this later" button/link to a button to the left of the Continue button
-
-Want to test this
-
-Need help from an engineer
-
-Add alert on intro page (if not already there)
-
-Want to test this
-
-Need help from an engineer if it's not already there
-
-Add alert on first page of form (if not already there)
-
-Want to test this
-
-Need help from an engineer if it's not already there
-
-Get content feedback on "Save and finish later" button wording
-
-Get approval for the button wording
-
-Reach out to the Content and IA team via slack
+What we need | Rationale | How to do 
+------------------|--------------|------
+Coded prototype with a working form | So can test with screen reader users (as well as sighted users), and can save the form data entered by participants (vs. telling them that it's saved when it's not) | Need help from an engineer
+(ideally) Simplified login process | So research participants don't get bogged down with logging in and don't share their PII | Work with Adam Whitlock (Authenticated Experience Design Pattern team) to make a github codespace with user task links that go directly to authenticated pages
+Start from a form using the minimal header|It's in the VA design system and has room for a second CTA button|Use the [Request Personal Records (VA Form 20-10206)](https://staging.va.gov/records/request-personal-records-form-20-10206/introduction) that's already in the minimal header format
+Turn off display of green alert on form after every field entry|Want to test this|Need help from an engineer
+Change "Finish this later" button/link to a button to the left of the Continue button|Want to test this|Need help from an engineer
+Add alert on intro page (if not already there)|Want to test this|Need help from an engineer if it's not already there
+Add alert on first page of form (if not already there)|Want to test this|Need help from an engineer if it's not already there
+Get content feedback on "Save and finish later" button wording|Get approval for the button wording|Reach out to the Content and IA team via slack
