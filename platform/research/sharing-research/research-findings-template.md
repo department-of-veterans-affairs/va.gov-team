@@ -91,9 +91,6 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 **Finding 1**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
 
@@ -104,10 +101,6 @@ Brief description
 
 **Finding 2**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 Brief description
 
 > _Supporting data: Quote here_
@@ -117,9 +110,6 @@ Brief description
 
 **Finding 3**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
 
@@ -143,6 +133,25 @@ _Put together initial recommendations here based on your findings along with sup
     * _Supporting evidence_
 
 
+## Product User & Business Outcomes
+> [!NOTE] 
+> Refer back to your Product Outline. How does this research and its recommendations support your product's desired user and business outcomes?
+
+- **Desired User Outcome**
+  - This research supports our desired user outcome by....
+ 
+- **Deisred Business Outcome**
+  - This research supports our desired business outcome by....
+
+
+## Key Performance Indicators
+> [!NOTE]
+> Refer back to your Product Outline. How does this research support measurment of your product's KPIs?
+
+- **KPI 1**
+  -  This research supports measurement of this KPI by....
+
+
 ## Next Steps
 
 _Next steps here. Include owners if appropriate._
@@ -154,6 +163,7 @@ _If there are demographics that were not included in this study or you discovere
 
 
 ## Appendix
+[Product Outline](link here)
 
 [Research plan](link here)
 
