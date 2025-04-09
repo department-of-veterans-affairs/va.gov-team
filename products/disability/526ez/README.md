@@ -128,20 +128,20 @@ In February 2024, there was an effort to update our 526 Domo dashboard to captur
 
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
-|MVP Metrics for 526ez|Markdown document with overview on metrics like exit rate|[link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/MVP-Metrics-526.md)|March 3, 2025|
+|MVP Metrics for 526ez|Github document with overview on metrics like exit rate|[link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/MVP-Metrics-526.md)|March 3, 2025|
 |Single Source of truth Domo/Google Analytics|Word Document (accessible through CAG only) with detailed questions and answers from DBEX investigation into Analytics |[link](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/6%20-%20Analytics/Single%20Source%20of%20Truth_%20Domo_%20Analytics%20Resources.docx?d=w6b2b9d82054043ad9e983215ac905c2a&csf=1&web=1&e=hve7KH)|February 6, 2024|
-|526 Analytics - Calculating Drop-off Rates|Overview of drop-off rates|[link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/526Analytics.md)|March 25, 2024|
+|526 Analytics - Calculating Drop-off Rates|Github document with deep-dive into drop-off rates|[link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/526Analytics.md)|March 25, 2024|
 
 
 
 ## Features/Initiatives
-TODO: add project features here
 
  - [Toxic Exposure Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Toxic%20Exposure%20Brief.md)
  - [5103 Equivalent Language Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/5103%20Equivalent%20Language%20Brief.md)
  - [Signature Component Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Signature%20Component%20Brief.md)
  - [Provide a Copy of Submission Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/provide-a-copy-pdf.md)
  - [Submission Experience Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md)
+ - [Update PTSD 0781 to be aligned with new form version](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Update%20PTSD%200781%20to%20be%20aligned%20with%20new%20form%20version.md)
 
 ## Engineering
 #### Github Repos
