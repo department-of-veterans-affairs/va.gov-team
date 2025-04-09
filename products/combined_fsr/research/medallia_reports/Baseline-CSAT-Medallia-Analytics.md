@@ -1,7 +1,25 @@
 ## CSAT Baseline Calculations for Financial Management VA Pages (Manage-VA-Debt)
 
+## Introduction
 
 Defining a meaningful baseline for a Customer Satisfaction (CSAT) score requires analyzing historical trends and identifying a stable reference point that accounts for natural fluctuations. 
+
+### It is also important to define what CSAT tells us:
+
+**CSAT Score (as a percentage)**
+
+*The proportion of users who are happy (usually those who rated 4 or 5 on a 5-point scale).*
+
+It is also important to track average scores (mean)
+
+**Average Score (mean)**
+
+*The overall intensity or central tendency of satisfaction across all users, including the nuance of how satisfied or dissatisfied they were.*
+
+
+
+## Methodology for CSAT calculations
+
 1. Analyze Historical Data
 
 - Calculated the average CSAT for each year and the overall baseline weighted average.
@@ -36,9 +54,18 @@ Next steps:
 
 *Please note, the center column are the CSAT baseline scores for Financial Management Pages and should be referenced when capturing monthly and quarterly CSAT scores as a comparison to note progress. The right side column are the CSAT baseline scores for ***all of VA.gov*** to compare to. 
 
-*Also note: I recommend defining a baseline score and tracking Custom Debt Portal Questionnaire CSAT scores for questions that use Likert scale (1-5 range): 
+
+
+
+## Recommendations 
+
+I recommend defining a baseline score and tracking **Custom Debt Portal Questionnaire** satisfaction measures for questions that use Likert scale (1-5 range): 
+
 **I was able to easily complete this form online** and
 **I would recommend completing this form online instead of paper to another Veteran**
+
+- For perceived ease of use (I was able to easily complete this form online) we will calculate an average. 
+- For the question asking Veterans to compare filling out the form online vs on paper we will calculate a CSAT score. 
 
 These scores are not yet available on the Domo Dashboard and a manual review of excel data sets is necessary to define a baseline score for these (2) questions at this time. 
 
