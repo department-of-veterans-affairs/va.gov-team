@@ -1,6 +1,50 @@
 ## FMP stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+
+**04/9/25**
+--------------------------------
+
+Attendees: Andrea, Rachel, Jamie, Mike\
+Leticia, Richard, Angela, Jennifer, Andrew
+
+## **Agenda**
+
+-   FMP Claims launch update
+-   Demo of the single document submission
+-   Direct deposit touch base
+-   Future opportunities – claims resubmissions, notice of enrollment/rejection via email
+
+## **Notes**
+### FMP Claims launch update
+* Touched based on the launch Stages release. Tentative Launch date 4/20. Will adjust depending on the volume.
+* From FMP: Can we share that we are launching with the VSOs? We suggested we announce it to them after 100%. Probably let them know it’s a mid may launch. 
+
+
+### Demo of the single document submission
+  * FMP was concerned about the file naming convention with PEGA. IVC will use the same naming convention that we used for all forms. IVC came up with the convention. 
+  * Good feedback from FMP on the single file format \
+
+### Direct deposit touch base
+  * Go live will be with a small test batch on April 15th
+  * May 18/19th will be the larger release
+  * Mid June will be 100% released for EFT to Veterans with domestic Banks accounts. Foreign accounts will follow that but there is no set timeline as of now.
+  * FMP will track how many payment EFT will going out to Veterans
+  * We don’t have to update the content to match the staged release. We can keep the EFT info on it through the launch.
+  * VBA vs VHA
+            * VBA is what is on VA.gov
+            * VHA is FSC (Financial Services Center)
+            * IVC needs to confirm where they are pulling the banking info from
+            *  On a Monthly basis FSC (VHA) will extract the database from VBA 
+            * VBA is the Source of truth for back account
+
+
+## Future opportunities – claims resubmissions, notice of enrollment/rejection via email
+* Presented a high-level ideas for
+    * Building UI and backend to handle Claims resubmissions: FMP will demo what the process looks like from their end and what is on the Sendback letter when we are ready to pursue that. 
+    * Combining Reg and Claim in one form experience: No push back on that. FMP current process is built for it but we can enhance the UI for the users to send both at the same time. This is possible a lower impact one. 
+    * Communicating Claims/Reg decisions via email: This would be very high impact and FMP is very interested. We will need to talk to Premal about coordinating with the other contractors that are working on their systems. 
+  
 **03/26/25**
 --------------------------------
 
