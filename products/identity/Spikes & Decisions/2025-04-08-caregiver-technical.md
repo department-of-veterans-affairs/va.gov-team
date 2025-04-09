@@ -75,7 +75,7 @@ The tool guides a user to fill out an Authorization form.
 ## Recommendations
 - Either
   - We create a new “Caregiver” mapping to PersonType in MPI OR
-  - We use the Guardian or Associated Individual PersonTypes
+  - We use the **"Guardian"** or **"Associated Individual"** PersonTypes
     - Create a new “Caregiver” subtype
 
 More questions / miscellaneous information
