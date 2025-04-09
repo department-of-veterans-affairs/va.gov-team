@@ -28,7 +28,7 @@ Cindy and Jeana proposed this design and want to get feedback from Martha and th
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeiGetfUlVyZ48_llUMNw6HvMaLSvmX3eKDVhMAG2OZ_vtRNosiwuJfNC5Fb3KXBgu16XEcM3Ch_X0iZkfa66IKldcnADOtuhyI9Bpwz8boztDGWE09uR6ToFVE7C0NCMuzHr4LSQlBWhvHzRxw3Lw?key=pxC-salXAlhTwoo8rKC9-5jc)
 
-2. **Alert on form intro page for unauthenticated users** (currently exists on some forms) ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcpjhfyOaKmCctLp1g5B44WNj3T_18Q6jayaKoWbNhV9-DxUJGt63gfVuWBB66pFeXynNeNheF7bsK9nK4tCbqaXTtbD0eZCDMyf8HtBgyttzjD6DhT_RJsAXQO8IHCecfDsrdK0s9jv6BIOSWBHLM?key=pxC-salXAlhTwoo8rKC9-5jc)
+2. **Alert on the form intro page for authenticated users** (currently exists on some forms) ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcpjhfyOaKmCctLp1g5B44WNj3T_18Q6jayaKoWbNhV9-DxUJGt63gfVuWBB66pFeXynNeNheF7bsK9nK4tCbqaXTtbD0eZCDMyf8HtBgyttzjD6DhT_RJsAXQO8IHCecfDsrdK0s9jv6BIOSWBHLM?key=pxC-salXAlhTwoo8rKC9-5jc)
 
 3. **Alert on the form intro page for authenticated users** (currently exists on all forms when signed in)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfITKGyybhNFcqWVX33Bsmwppm-JNUwOfiIy5BE3M0o40FgmFTlUnPBR4DcB16ETZBemmWTxbVYAgIoHAnQnTn9zZMt8yxbKkaX6IQ9lJQlv2RS3RyAyXGXXdm3ojylgnXPTWAkKStc2U7TaheQMvY?key=pxC-salXAlhTwoo8rKC9-5jc)
 
