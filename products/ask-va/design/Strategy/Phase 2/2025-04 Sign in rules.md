@@ -263,7 +263,7 @@ It requires business line approval from all business lines apart from `Education
 We recommend implementing [Idea 3: Sign in and technical issues is the only category that doesn't require sign in](#idea-3-sign-in-and-technical-issues-is-the-only-category-that-doesnt-require-sign-in), because:
 
 - It doesn't take multiple clicks to learn whether or not you need to sign in.
-- You don't need to start over at any point and therefore you don't have any repeating questions such as 'Who is your question about?' or 'Category' after sign in.
+- You don't need to start over at any point, so you don't have any repeating questions.
 - It's simpler to explain the difference between a sign in related question or otherwise; compared to the difference between personal or general questions.
 - People will are less likely to feel deceived or confused about when they should sign in or not.
 - Although people could choose to use the `Sign in and technical issues` category option to ask about something else, this workaround feels much less likely.
