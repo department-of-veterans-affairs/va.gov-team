@@ -19,7 +19,6 @@ _What background/context has led to this work?  What problem are we trying to so
 ---
 #### How to configure this issue
 1. Label with practice area (`backend`, `frontend`, `ux`)
-2. Label for MVP work? (`mvp`)
-3. Add an estimate
-4. Associate with the proper product
-5. Attach a parent ticket (what body of work is this a part of?)
+2. Add an estimate
+3. Associate with the proper product
+4. Attach a parent ticket (what body of work is this a part of?)
