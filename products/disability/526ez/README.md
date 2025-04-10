@@ -192,7 +192,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/issues/106879
 - [Tech Discovery- add in destructive modals for TE flow - could be done concurrently with Christine's story](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107285)
 - App Isolation:
 https://github.com/department-of-veterans-affairs/va.gov-team/issues/96761
-- Next steps for Submission Experience emails
+- Next steps for Submission Experience emails: https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?pane=issue&itemId=80582244&issue=department-of-veterans-affairs%7Cva.gov-team%7C93365
 - Miscellaneous Items
    - [Remove legacy EVSS/LH branching in submission service + additional refactorings
 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100089)
