@@ -1,5 +1,5 @@
 ---
-name: Platform Initiative
+name: VA.gov Platform Support Team Sprint Plan
 about: Top-level epic to track a VSP Initiative
 title: 'Platform Support Team Sprint [XX] Plan'
 labels: platform-initiative
