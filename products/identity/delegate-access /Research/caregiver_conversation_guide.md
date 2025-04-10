@@ -27,7 +27,7 @@
 * We do have a couple other team members in the waiting room who would like to observe and help take notes. But before we invite them, I'd like to tell you more about what we're doing today.  
 * The subject of our research today is to better understand the caregiver experience at the VA on.   
 * Today we're going to talk about how manage VA benefits and health care for the Veteran you care for.  
-* In this session, we want to hear your honest opinions. The goal is to improve this process to better meet Veterans needs. We will not be offended by any opinions you express, and we welcome your candid feedback.  
+* In this session, we want to hear your honest opinions. The goal is to improve this process to better meet Veterans needs. There are no wrong answers, and we will not be offended by any opinions you express, and we welcome your candid feedback.  
 * This entire session will take no more than 30 minutes.  
 * I do want you to be as comfortable as possible, so if for any reason and at any time you want to pause or even stop the session, please let me know.  
 * Any questions so far?
@@ -53,17 +53,21 @@
   * [If they are a Veteran] Thank you for your service.  Do you manage your own benefits or do you have someone help you with that?
   * [If they say they help ______ with accessing their services, continue below].
 * Can you tell me a little more about how that came to be?  
-  * How would you describe the relationship between you and the veteran you help?  
+  * How would you describe the relationship between you and the veteran you help?
+  * How do you normally contact/interact with the VA on their behalf?
+  * Do they ever log in and use online services?
 * What would you call your role with the Veteran to someone else, in your own words?
+  * How did you come up that word?  Did you hear that somewhere or at the VA?
 
   
 * I’m interested to learn about how you first started working with this Veteran  
-  * How did this arrangement come to pass?
+  * How did this arrangement come to pass?  [If you feel uncomfortable, please feel free to skip this question.]
   * Do you recall how you and the Veteran were able to set-up the relationship at the VA?
     *  For example, did you have to file any paperwork, speak to anyone?
-    *  Did you need to go in person to a VA location?   
+    *  How long did it take to establish the formal relationship at the VA?
+    *  Did you need to go in person to a VA location at all?   
     *  Can you describe any hurdles in the process?
-    *  Can you recall if there were any additional steps?
+    *  Can you recall if there were any additional steps needed to be taken?
 
   * What kind of tasks are you doing most often when working on behalf of this Veteran?  
     * Do you request prescriptions?  
@@ -84,4 +88,4 @@
     *  If so, can you describe that experience for me?  How is that similar or different to your experience at the VA?  
 * Is there anything else that you would like us to know about your interactions with the VA as your advocate on behalf of a Veteran or how you access VA benefits for a Veteran?
 
-* Thank you so much for your time and for answering our questions today!  I'll make sure to thank _______ for the referral.  Have a great day!
+* Thank you so much for your time and for answering our questions today! You should be hearing from Perigean who coordinated this call, and they should be sending your thank you stipend.  Have a great day!
