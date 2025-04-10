@@ -1,5 +1,5 @@
 # Ask VA KPIs
-Last updated by @beckyphung on January 16, 2025
+Last updated by @beckyphung on April 10, 2025
 
 🚧 10/24 Update: We don't have all targets currently. Also, we're currently working on updating the **Performance KPIs** section.
 
@@ -12,13 +12,15 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 - [Performance KPIs](#performance-kpis)
 
 ## Monthly KPIs
-<details>
+<details open>
 <summary>April 2025</summary>   
 
-**Date:** [start date] to [end date]
+**Date:** April 10, 2025 to [end date]
+
+Last updated by @beckyphung on April 10, 2025
 
 **Performance**
-- Error rate: 
+- Error rate:
 - Latency: 
 - Throughput:
 
