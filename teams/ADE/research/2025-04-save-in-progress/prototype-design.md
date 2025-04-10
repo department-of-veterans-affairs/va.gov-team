@@ -18,7 +18,7 @@ In addition, user feedback collected on "finish this request later", error messa
 
 Cindy and Jeana proposed this design and want to get feedback from Martha and the accessibility specialists CoP. 
 
-We want to **find out whether Veterans are confident that their form data is being saved** with this design, which has four components:  
+We want to **find out whether Veterans are confident that their form data is being saved** with the following two design changes:  
 
 1. **NEW! Remove the green alert that currently displays after every save** (because it flashes on and off, and isn't read by screen readers due to its position below the Back and Continue buttons).
 
@@ -28,11 +28,17 @@ We want to **find out whether Veterans are confident that their form data is bei
 
 ![newCTAs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/newCTAs.png)
 
-2. Show an **alert on the form intro page for unauthenticated users** (currently exists on some forms) 
+### Other messaging already in forms that use the forms library
+Forms that use the forms library already have 3 messages about saving, which are listed below. No design changes are needed for user research, as long as we use a form that has them.
+
+1. **Alert on the form intro page for unauthenticated users**  
 ![unauth-alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/unauth-alert.png)
 
-3. Show an **alert on the intro page for authenticated users** (currently exists on all forms when signed in)
+1. **Alert on the intro page for authenticated users** 
 ![auth-alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/auth-alert.png)
+
+1. **Text below the progress stepper for authenticated users**
+![auth-top-of-form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/auth-top-of-form.png)
 
 
 ## How to implement this design for usability testing
@@ -46,6 +52,4 @@ Coded prototype with a working form | So can test with screen reader users (as w
 A form using the minimal header|It's in the VA design system and has space to add a second CTA button|Use the [Request Personal Records (VA Form 20-10206)](https://staging.va.gov/records/request-personal-records-form-20-10206/introduction) that's already in the minimal header format
 Turn off display of green alert on form after every field entry|Want to test this|Need help from an engineer
 Change "Finish this later" button/link to a button to the left of the Continue button|Want to test this|Need help from an engineer
-Add alert on intro page when unauthenticated (if not already there)|Want to test this|Need help from an engineer if it's not already there
-Add alert on intro page when authenticated (if not already there)|Want to test this|Need help from an engineer if it's not already there
 Get content feedback on "Save and finish later" button wording|Get approval for the button wording|Reach out to the Content and IA team via slack
