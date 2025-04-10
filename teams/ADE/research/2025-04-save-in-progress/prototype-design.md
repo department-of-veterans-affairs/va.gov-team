@@ -29,17 +29,17 @@ We want to **find out whether Veterans are confident that their form data is bei
 ![newCTAs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/newCTAs.png)
 
 ### Other messaging already in forms that use the forms library
-Forms that use the forms library already have 3 messages about saving, which are listed below. No design changes are needed for user research, as long as we use a form that has them.
+Forms that use the forms library already have 3 messages about saving, which are listed below. No design changes are needed for user research, as long as we use a form that already has them.
 
 1. **Alert on the form intro page for unauthenticated users**  
 
 ![unauth-alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/unauth-alert.png)
 
-1. **Alert on the intro page for authenticated users** 
+2. **Alert on the intro page for authenticated users** 
 
 ![auth-alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/auth-alert.png)
 
-1. **Text below the progress stepper for authenticated users**
+3. **Text below the progress stepper for authenticated users**
 
 ![auth-top-of-form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/auth-top-of-form.png)
 
