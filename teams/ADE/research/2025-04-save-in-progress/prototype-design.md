@@ -20,18 +20,18 @@ Cindy and Jeana proposed this design and want to get feedback from Martha and th
 
 We want to **find out whether Veterans are confident that their form data is being saved** with this design, which has four components:  
 
-1. **New! NO green alert with every save** (because it flashes on and off, and isn't read by screen readers due to its position below the Back and Continue buttons).
+1. **NEW! Remove the green alert that currently displays after every save** (because it flashes on and off, and isn't read by screen readers due to its position below the Back and Continue buttons).
 
 ![green-save-alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/green-save-alert.png)
 
-1. **New! Change "Finish this request later" to look like a button** titled "Save and finish later" or "Finish later" (instead of the current look as a link) for material honesty. Including the word "Save" to the button will likely help Veterans understand that their form data is being saved. Put in place of the Back button (which isn't needed because of breadcrumb at the top, per research conducted with the minimal header design) because this is a good place for the user to decide whether to stop working and resume later vs. continue onto the next page. 
+1. **NEW! Change "Finish this request later" to look like a button** titled "Save and finish later" or "Finish later" (instead of the current look as a link) for material honesty. Including the word "Save" to the button will likely help Veterans understand that their form data is being saved. Put in place of the Back button (which isn't needed because of breadcrumb at the top, per research conducted with the minimal header design) because this is a good place for the user to decide whether to stop working and resume later vs. continue onto the next page. 
 
 ![newCTAs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/newCTAs.png)
 
 2. **Alert on the form intro page for unauthenticated users** (currently exists on some forms) 
 ![unauth-alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/unauth-alert.png)
 
-3. **Alert on the form intro page for authenticated users** (currently exists on all forms when signed in)
+3. **Alert at the top of the form for authenticated users** (currently exists on all forms when signed in)
 ![auth-alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/auth-alert.png)
 
 
