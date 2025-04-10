@@ -1,6 +1,6 @@
 # Sign in rules
 
-Last updated by @tygindraux: April 8, 2025
+Last updated by @tygindraux: April 10, 2025
 
 This document describes sign in rules and scenarios for Ask VA. We also plan to include key concerns with the current sign in process and potential remedies.
 
@@ -169,7 +169,7 @@ An authenticated user lands on the home page. From the home page, they choose wh
 
 #### Does this idea introduce new issues?
 
-We don't foresee this idea introducing any new issues.
+Sometimes a submitter would have to re-answer 'Who is your question about?' and/or their category after they sign in.
 
 #### Does this idea require approval from business lines?
 
@@ -196,6 +196,8 @@ An authenticated user lands on the home page. From the home page, they choose wh
 |**Deciding between personal or general**|This problem will persist in the form but happen up front and we think it is unlikely to get worse.|
 
 #### Does this idea introduce new issues?
+
+Sometimes a submitter would have to re-answer 'Who is your question about?' after they sign in.
 
 You won't be able to submit general questions while authenticated. We would also expect a slight increase in unauthenticated inquiries, because we'd be allowing for unauthenticated `Education` and `Debt` now.
 
@@ -254,3 +256,17 @@ If you're having trouble signing in and have a question about `Sign in and techn
 #### Does this idea require approval from business lines?
 
 It requires business line approval from all business lines apart from `Education` and `Debt`.
+
+## Recommendation
+
+We recommend implementing [Idea 3: Sign in and technical issues is the only category that doesn't require sign in](#idea-3) because:
+
+- It doesn't take multiple clicks to learn whether or not you need to sign in.
+- Avoids the need to start over and therefore you don't have any repeating questions such as 'Who is your question about?' or 'Category' after sign in.
+- It's simpler to explain the difference between a sign in related question or otherwise; compared to the difference between personal or general questions.
+- We hypothesize people will no longer feel deceived or be confused as to when they should sign in or not.
+- Although people could choose to use the Sign in category option to ask about something else, this workaround feels much less likely.
+
+This would require business line approval to only allow authenticated inquiries from all business lines, apart from `Sign in and technical issues`.
+
+If it doesn't seem feasible for us to receive business line approval for any rules changes right now, then we recommend [Idea 1: Sub task pattern](#idea-1) as it's the only option that does not have this constraint.
