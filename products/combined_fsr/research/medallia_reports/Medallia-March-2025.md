@@ -230,6 +230,49 @@ Date: 3/3/2025  5:01:00 PM
 Decline percent : 74%
 Submission percent: 4.61%
 
+## Why did you select that rating?
+
+### Service Design Challenges
+
+> It's not the website just the services. It took me nearly a year to have my son removed as a dependent. Because it took the VA so long to process, I now have a debt. Very frustrating!
+
+> I received a letter in the mail stating i have an outstanding debt. I went to va.gov/manage-va-debt I then logged in and the site says i have no outstanding debt.
+
+> When they give you a debt letter it should be simultaneously uploaded to the website and mailed.  Why only mail?
+
+> I paid my copay before the due date and it is not noted on my myhealthevet data/info/notice.
+
+**Understanding copays**
+> I got a bill saying I owe money with no explanation of for what . I do not remember seeing a dr. or anything in December. Takes way to long to get a bill
+
+### Navigation and Wayfinding
+
+> I still can get a touch confused making my way around in here.  I mean, am I supposed to be at My VA or at Healthy vet??  And why do they look so different??
+
+> couldnt get to my acct to make a co payment
+
+> The site is still somewhat confusing and sometimes youâ€™ll can click a link and not have any means to return to the page you came from, I believe terms and conditions on one of the pages is an example
+
+> Getting to this site was a extremely hard for me
+
+### Login Challenges
+
+> getting confused with all the different logins
+
+> since you left myhealthevet.com, it took a while to get set up on ID.me, and now, I have to signe in twice to get through Every Time.
+
+### Positive Feedback
+
+> Whether phone or this site always have helped me.
+
+> speedy feedback on my claim and an understanding of my condition.
+
+> whether phone or this site always have helped me.
+
+> Everyone is compassionate and extremely helpful
+
+> Very easy app to navigate, and Iâ€™m 73 years old. Good work my fellow Veterans.
+
 
 
 
