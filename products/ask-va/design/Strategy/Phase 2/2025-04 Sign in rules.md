@@ -265,8 +265,8 @@ We recommend implementing [idea 3](#idea-3), because:
 - It doesn't take multiple clicks to learn whether or not you need to sign in.
 - You don't need to start over at any point and therefore you don't have any repeating questions such as 'Who is your question about?' or 'Category' after sign in.
 - It's simpler to explain the difference between a sign in related question or otherwise; compared to the difference between personal or general questions.
-- We expect people will feel less deceived and less confused about they should sign in or not.
-- Although people could choose to use the Sign in category option to ask about something else, this workaround feels much less likely.
+- People will are less likely to feel deceived or confused about when they should sign in or not.
+- Although people could choose to use the `Sign in and technical issues` category option to ask about something else, this workaround feels much less likely.
 
 This requires business line approval to only allow authenticated inquiries from all business lines except `Sign in and technical issues`.
 
