@@ -80,7 +80,7 @@ The hole that seems to be missing is what we anecdotally heard during the MHV us
 - September and October 2024: Oddball team conducted discovery and connected the guardian use case to the production user test case; IAM demo'd the delegate tool they built to OCTO and MHV.
 - November 2024: OCC seems onboard with extending the MHV username and password for guardians, giving us a short-term path to support these users before we have proper delegate access.
 - March 2025: Discovery resumes; Activity log work
-- April 2025: User research with caregivers
+- April 2025: Discover interviews with caregivers
 
 ## Backend
 
@@ -93,3 +93,4 @@ The hole that seems to be missing is what we anecdotally heard during the MHV us
 ## Design and UX
 
 (Add background design documentation and links to other relevant documentation, like Figma files, UX research, etc)
+- [discovery interviews research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/delegate-access%20/Research/preliminary_caregiver_research_plan.md)
