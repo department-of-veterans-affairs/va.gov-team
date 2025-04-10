@@ -28,4 +28,4 @@ Veterans living in the Philippines and other countries outside the US actively f
 
 1. **Meet with Stephanie from Manila VA Medical Facility** - Gather frontline feedback and deepen understanding of the current identity verification challenges.
 2. **Establish a Feedback Loop from the Field** - Create a recurring channel with Manila clinic staff (e.g. recurring sync, shared doc) to capture and escalate emerging issues. 
-3. **Collaborate with ID.me on SMS Reliability** - Work with ID.me to identify a list of all countries where SMS delivery is unreliable. Assess whether delivery can be improved, explore deprioritizing SMS MFA in those regions, and develop guidance for staff and Vetearns accordingly.
+3. **Collaborate with ID.me on SMS Reliability** - Work with ID.me to identify a list of all countries where SMS delivery is unreliable. Assess whether delivery can be improved, explore deprioritizing SMS MFA in those regions, and develop guidance for staff and Veterans accordingly.
