@@ -272,4 +272,4 @@ This requires business line approval to only allow authenticated inquiries from 
 
 ### Back up strategy
 
-If it doesn't seem feasible for us to receive business line approval for any rules changes right now, then we recommend [Idea 1: Sub task pattern](#idea-1) as it's the only option that does not have this constraint. We also think it's worth exploring the technical feasibility of temporarily storing responses so that a submitter doesn't have to repeat steps after sign in. We also recommend analyzing production data to understand whether people are consistently choosing the right option for 'Who is your question about?'
+If it's not feasible to pursue business line approval right now, then we recommend [Idea 1: Sub task pattern](#idea-1) as it's the only option that does not have this constraint. We also think it's worth exploring the technical feasibility of temporarily storing responses so that a submitter doesn't have to repeat steps after sign in. We also recommend analyzing production data to understand whether people are consistently choosing the right option for 'Who is your question about?'
