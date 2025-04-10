@@ -30,8 +30,8 @@ Before enabling your feature toggle in production, you'll need to:
 ### Define the Rollback process
 
 - PM and Data Analyst will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to disable the toggle and begin triage.
-- We have a content widget for the static page that can be disabled with the feature toggle, in comjunction with the EZR form.
-- Have Content Team (Aliyah Blackmore) revert the Static Page to previous version, removing mention of online EZR
+- We will build out separate monitoring for EC/NoK as it is part of a different API
+- Reversing the toggle would simply remove EC/NoK from the EZR, pressumably eliminating the issue. The team would triage from there.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
