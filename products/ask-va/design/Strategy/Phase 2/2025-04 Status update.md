@@ -1,6 +1,6 @@
 # Status update on design initiatives
 
-Last updated by @tygindraux on April 8, 2025
+Last updated by @tygindraux on April 10, 2025
 
 Jump to:
 - [January to March](#january-to-march)
@@ -15,7 +15,7 @@ Jump to:
 - [Design a page to explain the types of questions within a category](#design-a-page-to-explain-the-types-of-questions-within-a-category)
 - [Do a comparative analysis of contact experiences](#do-a-comparative-analysis-of-contact-experiences)
 - [Update designs to use new VA Design System patterns](#update-designs-to-use-new-va-design-system-patterns)
-- [Do research to understand and observe agent processes](#do-research-tounderstand-and-observe-agent-processes)
+- [Do research to understand and observe agent processes](#do-research-to-understand-and-observe-agent-processes)
 - [Prepare a follow-up email to send after a question is closed](#prepare-a-follow-up-email-to-send-after-a-question-is-closed)
 
 ### Test concepts with submitters that involve automation
