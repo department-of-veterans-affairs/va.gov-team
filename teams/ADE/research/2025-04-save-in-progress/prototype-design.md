@@ -55,4 +55,5 @@ Coded prototype with a working form | So can test with screen reader users (as w
 A form using the minimal header|It's in the VA design system and has space to add a second CTA button|Use the [Request Personal Records (VA Form 20-10206)](https://staging.va.gov/records/request-personal-records-form-20-10206/introduction) that's already in the minimal header format
 Turn off display of green alert on form after every field entry|Want to test this|Need help from an engineer
 Change "Finish this later" button/link to a button to the left of the Continue button|Want to test this|Need help from an engineer
-Get content feedback on "Save and finish later" button wording|Get approval for the button wording|Reach out to the Content and IA team via slack
+Content feedback on "Save and finish later" button wording|Get approval for the button wording|Reach out to the Content and IA team via slack
+Matt Dingee's feedback on adding a second button to every form page|Material honesty--so the "Finish this later" button that looks like a link would look like a button|Jeana shares this with Matt Dingee
