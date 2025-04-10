@@ -51,34 +51,45 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+> [!NOTE]
+> List hypotheses or tasks for this research along with the conclusions you found if you conducted a usability test.
+> 
+> If applicable, list the success or task completion rate.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
+[**See an example**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
 
 _Hypothesis statement_
 
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+> [!TIP]
+> Place true or false statements in bold for easier scanability
+
+_(**"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**) Explain Why?_
 
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+> [!TIP]
+> The 5-10 top findings from your study should be listed here.
+> 
+> ***Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile.***
+> 
+> Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form".
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
+[**See an example**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-1. Finding one
+**1.** Finding one
 
-2. Finding two
+**2.** Finding two
 
-3. Finding three
+**3.** Finding three
 
-4. Finding four
+**4.** Finding four
 
-5. Finding five
+**5.** Finding five
 
-6. Finding six
+**6.** Finding six
 
-7. Finding seven
+**7.** Finding seven
 
 
 ## Details of Findings 
