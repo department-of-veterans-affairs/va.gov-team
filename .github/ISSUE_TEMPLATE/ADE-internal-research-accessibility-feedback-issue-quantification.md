@@ -5,7 +5,7 @@ about: Template to utilize following ADE research support for AT, in order to do
   parent research intake ticket.
 title: "[ADE Research - Feedback] - Team Name: Study (Type of accessibility issue
   encountered)"
-labels: ADE Research Feedback
+labels: ADE Research Feedback, ADE, ADE Research
 assignees: lakper, sara-amanda
 
 ---
