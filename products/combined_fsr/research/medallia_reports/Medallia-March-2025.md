@@ -271,7 +271,7 @@ Submission percent: 4.61%
 
 > Everyone is compassionate and extremely helpful
 
-> Very easy app to navigate, and Iâ€™m 73 years old. Good work my fellow Veterans.
+> Very easy app to navigate, and Iâ€™m 73 years old. Good work my fellow Veterans. 
 
 
 
