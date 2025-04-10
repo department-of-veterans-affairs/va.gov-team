@@ -10,6 +10,8 @@ Feature toggle
 | Toggle name | Description |
 | ----------- | ----------- |
 | ezr_prod_??? | Toggle to enable users to see EC on 10-10EZR form |
+| ezr_prod_??? | Toggle to enable users to see NoK on 10-10EZR form |
+
 
 ## Step 2: Validation
 
