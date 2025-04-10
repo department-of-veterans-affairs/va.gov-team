@@ -38,24 +38,22 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Desired date range or test duration:
-     - 1.5 weeks - 11/13/23 - 11/21/23
+     - 1 weeks - DATE RANGE
 - Desired number of users:
-     - 5 participants
+     - ~1-2 participants
 - How you'll recruit the right production test users:
-     - Perigean recruiting
+     - OCTO and "friends and family" recruiting
 - How you'll conduct the testing:
-     - Moderated
+     - Give participants instructions
 - How you'll give the test participants access to the product in production w/o making it live on VA.gov:
-     - Feature Toggle 
+     - Feature Toggle enablement and direct link
 
 #### Results
 
-- Number of users: 10 Participants
-- Number of bugs identified / fixed: 2 bugs found, related to Forms Library. Will address in future iteration.
-  - [#70261](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70261)
-  - [#70258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70258) 
-- Was any downstream service affected by the change?: NO
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? NO
+- Number of users: X Participants
+- Number of bugs identified / fixed: X bugs found
+- Was any downstream service affected by the change?: TBD
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? TBD
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
