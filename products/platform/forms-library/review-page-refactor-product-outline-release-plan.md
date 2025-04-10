@@ -16,6 +16,8 @@ As part of the VSP FE Tools’ team’s work to [improve the developer experienc
 
 The forms library is brittle and hard to change, and includes many features that were implemented in a way that is not scalable or sustainable (in other words, it is full of tech debt). How might we refactor the review page to eliminate tech debt and therefore improve the developer experience?
 
+### Hypothesis
+
 ### Desired & Undesired Outcomes
 
 #### Desired Outcomes
