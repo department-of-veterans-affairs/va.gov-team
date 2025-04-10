@@ -18,6 +18,7 @@ assignees: lakper, sara-amanda
 > 
 > ## When to use this template
 > - **Create** a child ticket for each issue identified.
+>     - **Type of ticket** should be **bug** for technical issue and **enhancement** for UX feedback.   
 >     - **Each issue will be a sub-issue**, using this template from the parent ticket.
 >         - This guarantees connectivity to the parent ticket.
 >         - Within this sub-issue ticket, we will record the number of times this single issue shows up, in the table. 
@@ -39,7 +40,7 @@ The ticket starts here.
 - **Description of issue encountered:** `Write a short description of the issue encountered.`
 - **Images or Links:** `Add any images for reference and/or links here.`
 
-### Number of Issue Occurances
+### Number of Issue Occurrences
 > [!TIP]
 > **Each issue should have its own ticket to track our impact.** 
 > Use this table, below, to track the number of times this issue was found during this research study.
