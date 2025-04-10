@@ -194,11 +194,13 @@ https://github.com/department-of-veterans-affairs/va.gov-team/issues/106879
 https://github.com/department-of-veterans-affairs/va.gov-team/issues/96761
 - Next steps for Submission Experience emails: https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?pane=issue&itemId=80582244&issue=department-of-veterans-affairs%7Cva.gov-team%7C93365
 - Miscellaneous Items
-   - [Remove legacy EVSS/LH branching in submission service + additional refactorings
+   - [User submissions failed due to empty disabilities array - frontend investigation & fix #96290](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96290)
+   - [Fix primary path success scope to include polling #93593](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93593)
+   - [Remove legacy EVSS/LH branching in submission service + additional refactorings #100089
 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100089)
-   - [Expand test coverage on TE Lighthouse submit requests
+   - [Expand test coverage on TE Lighthouse submit requests #88843
 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88843)
-   - [Remove hard-coded text from Q16, Column 3
+   - [Remove hard-coded text from Q16, Column 3 #88269
 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88269)
 
 #### Zero Silent Failures
