@@ -155,7 +155,7 @@ We currently have 4 ideas to solve some of the potential user experience issues 
 An authenticated user lands on the home page. From the home page, they choose whether they have a `personal` or `general` question and click continue. If they choose `personal`, the next page requires them to sign in. If they choose `general`, the next page asks whether their question is about `Education benefits and work study` or `Debt for benefit overpayments and health care copay bills` or `Other`. If they choose `Education` or `Debt`, the next page requires them to sign in. If they choose `Other`, the next page suggests that they sign in and describes the benefits, but they can continue without signing in. 
 
 > [!NOTE]
-> This [prototype](add link) illustrates this behavior.
+> This [prototype](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Phase-II-exploration?node-id=590-11102&t=hW7qcyMKpPVw4dG5-9&scaling=min-zoom&content-scaling=fixed&page-id=335%3A15380&starting-point-node-id=590%3A11102&show-proto-sidebar=1) illustrates this behavior.
 
 #### Does this idea solve key issues?
 
@@ -183,7 +183,7 @@ This idea is very similar to [idea 1](#idea-1-sub-task-pattern), however, it sim
 An authenticated user lands on the home page. From the home page, they choose whether they have a `personal` or `general` question and click continue. If they choose `personal`, the next page requires them to sign in. If they choose `general`, they start the form on the `Category` page.
 
 > [!NOTE]
-> This [prototype](add link) illustrates this behavior.
+> This [prototype](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Phase-II-exploration?node-id=591-12291&t=pfHHzpjdyZdD9c89-9&scaling=min-zoom&content-scaling=fixed&page-id=335%3A15380&starting-point-node-id=591%3A12291&show-proto-sidebar=1) illustrates this behavior.
 
 #### Does this idea solve key issues?
 
@@ -211,7 +211,7 @@ It requires business line approval from `Education` and `Debt` to allow unauthen
 An authenticated user lands on the home page. From the home page, they need to sign in to ask a question, unless it's about `Sign in and technical issues.` If they choose to ask a question about `Sign in and technical issues`, they start on the topic page and they are not prompted to sign in. The `Who is your question about?` page is hidden from this path. If they choose to sign in, they can still ask a question about `Sign in and technical issues` as well as all other categories.
 
 > [!NOTE]
-> This [prototype](add link) illustrates this behavior.
+> This [prototype](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Phase-II-exploration?node-id=597-17332&t=pfHHzpjdyZdD9c89-9&scaling=min-zoom&content-scaling=fixed&page-id=335%3A15380&starting-point-node-id=597%3A17332&show-proto-sidebar=1) illustrates this behavior.
 
 #### Does this idea solve key issues?
 
@@ -237,7 +237,7 @@ It requires business line approval to only allow authenticated inquiries from al
 An authenticated user lands on the home page. They are prompted to sign in to begin.
 
 > [!NOTE]
-> This [prototype](add link) illustrates this behavior.
+> This [prototype](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Phase-II-exploration?node-id=597-15844&t=Dv9q7gqeTeBTbMLP-9&scaling=min-zoom&content-scaling=fixed&page-id=335%3A15380&starting-point-node-id=597%3A15844&show-proto-sidebar=1) illustrates this behavior.
 
 #### Does this idea solve key issues?
 
@@ -260,7 +260,7 @@ It requires business line approval from all business lines apart from `Education
 
 ## Recommendation
 
-We recommend implementing [Idea 3: Sign in and technical issues is the only category that doesn't require sign in](#idea-3), because:
+We recommend implementing [idea 3](#idea-3), because:
 
 - It doesn't take multiple clicks to learn whether or not you need to sign in.
 - You don't need to start over at any point and therefore you don't have any repeating questions such as 'Who is your question about?' or 'Category' after sign in.
@@ -268,6 +268,8 @@ We recommend implementing [Idea 3: Sign in and technical issues is the only cate
 - We expect people will feel less deceived and less confused about they should sign in or not.
 - Although people could choose to use the Sign in category option to ask about something else, this workaround feels much less likely.
 
-This would require business line approval to only allow authenticated inquiries from all business lines except `Sign in and technical issues`. If it doesn't seem feasible for us to receive business line approval for any rules changes right now, then we recommend [Idea 1: Sub task pattern](#idea-1) as it's the only option that does not have this constraint.
+This requires business line approval to only allow authenticated inquiries from all business lines except `Sign in and technical issues`.
 
-We also think it's worth exploring the technical feasibility of temporarily storing responses so that a submitter doesn't have to repeat steps after sign in. And after we've been in production for a period of time, we should do some data analysis to understand whether people are choosing correctly between 'myself', 'someone else' and a 'general question.'
+### Back up strategy
+
+If it doesn't seem feasible for us to receive business line approval for any rules changes right now, then we recommend [Idea 1: Sub task pattern](#idea-1) as it's the only option that does not have this constraint. We also think it's worth exploring the technical feasibility of temporarily storing responses so that a submitter doesn't have to repeat steps after sign in. We also recommend analyzing production data to understand whether people are consistently choosing the right option for 'Who is your question about?'
