@@ -193,12 +193,14 @@ What is your overall satisfaction with this site? Average: 2.38 (out of 5)
 
 URL: https://www.va.gov/manage-va-debt/request-debt-help-form-5655/add-other-income?index=1?index=1
 
+Date: 3/27/2025  11:58:00 AM
+
 >The page for the form for financial help has been down for weeks need help
+
 
 URL: https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction
 
-
-### Bug on Debt Portal:
+Date: 3/26/2025  8:37:00 PM
 
 >Seek help with bill has not worked in a week
 
@@ -207,6 +209,18 @@ URL: https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction
 
 >Request help with co pays for medication. Website is not working and continues to give error messages.
 
+
+> For the last month of 2025 I haven 't been able to navigate your website
+
+URL: https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction#content
+
+Date: 3/6/2025  1:00:00 PM
+
+> You website is broken and keeps refreshing to a "sorry we can't find that page" screen as I continue to try over and over and over again to file my form 5655
+
+URL: https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction
+
+Date: 3/3/2025  5:01:00 PM
 
 
 # VA.gov A11 Questionnaire (intercept survey)
