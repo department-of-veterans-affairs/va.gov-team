@@ -2,7 +2,7 @@
 name: VSA Shared Support
 about: For tracking weekly Accessibility and QA needs for VSA product teams
 title: VSA Shared Support Week of yy-mm-dd
-labels: 508/Accessibility, vsa
+labels: vsa
 assignees: MickinSahni
 
 ---

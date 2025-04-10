@@ -2,7 +2,7 @@
 name: Design System Request
 about: Use this template to report a bug or to request a change to the Design System.
 title: ''
-labels: vsp-design-system-team
+labels: ''
 assignees: caw310
 
 ---

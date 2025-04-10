@@ -2,10 +2,11 @@
 name: ARM Bug Report
 about: Reporting bugs as they relate to the ARM team
 title: ''
-labels: 'accredited-representation-management-team, bug'
+labels: accredited-representation-management-team, bug
 assignees: ''
 
 ---
+
 ## Expected vs. Actual
 **Expected**: _What did you expect to happen?_
 

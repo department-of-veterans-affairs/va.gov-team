@@ -2,7 +2,7 @@
 name: Authenticated Experience Issue Template
 about: Basic template for creating Authenticated Experience team issues
 title: Practice Area | [Product] | [Project]| [Issue Name]
-labels: authenticated-experience, needs-refinement, profile, my-va-dashboard
+labels: authenticated-experience, my-va-dashboard, needs-refinement, profile
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: VAOS Epic Template
 about: For VAOS product epic
 title: "[Epic]"
-labels: epic, appointments-product-design, appointments-pm 
+labels: appointments-pm, appointments-product-design
 assignees: ''
 
 ---
@@ -19,4 +19,4 @@ _List out the initiatives and planned release date for tracking purposes_
 | Initiative [Link to feature epic]() | Month Year  |   | 
 
 
---- 
+---

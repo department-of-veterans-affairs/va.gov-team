@@ -1,11 +1,12 @@
 ---
-name: Carbs-Epic 
+name: Carbs-Epic
 about: For Disability 526EZ - Team Carbs Epic
 title: "[EPIC] "
-labels: DBEX-Carbs, disability-experience, epic
+labels: DBEX-Carbs, disability-experience
 assignees: ''
 
 ---
+
 # Description
 _Try to include some of the following to help clarify the purpose of the Epic_
 
@@ -55,4 +56,3 @@ _Identify any pieces that will not be done or done later that someone might assu
 - bullet
 
 ## Additional Notes ##
-

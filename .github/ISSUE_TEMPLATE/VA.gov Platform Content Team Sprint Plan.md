@@ -1,9 +1,10 @@
 ---
 name: VA.gov Platform Content Team Sprint Plan
 about: Use this template for creating sprint plans.
-title: "Content Team Sprint [XX] Plan"
+title: Content Team Sprint [XX] Plan
 labels: platform-content-team
 assignees: jknipes, jwoodman5
+
 ---
 
 ### Platform Content Team 2025 Vision Roadmap

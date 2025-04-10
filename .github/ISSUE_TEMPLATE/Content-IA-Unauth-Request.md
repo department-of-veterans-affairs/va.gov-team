@@ -1,9 +1,10 @@
 ---
-name: "Content and IA Unauth Support Request"
+name: Content and IA Unauth Support Request
 about: For Content and IA centralized team internal use only.
-title: 'New Unauth Content Request Ticket'
-labels: 'content-ia-centralized-team'
-assignees: bethpottsVADEPO,RLHecht,jsuarezzabala
+title: New Unauth Content Request Ticket
+labels: content-ia-centralized-team
+assignees: bethpottsVADEPO, jsuarezzabala, RLHecht
+
 ---
 
 > [!WARNING]
@@ -31,5 +32,3 @@ _What will be created or happen as a result of this story? Examples:_
 - [ ] Updated content is live on the site
 - [ ] Product has launched
 - [ ] Feedback has been shared with requesting team
-
-

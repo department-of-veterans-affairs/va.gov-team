@@ -1,10 +1,13 @@
 ---
 name: Fed. engineer PR approver checklist
-about: Checklist to ensure you are prepared to become a PR approver for your team's code
-title: 'PR approver checklist for [name of federal engineer]'
-labels: ['']
+about: Checklist to ensure you are prepared to become a PR approver for your team's
+  code
+title: PR approver checklist for [name of federal engineer]
+labels: ''
 assignees: ''
+
 ---
+
 # PR Approver Preparation Checklist
 
 Certain federal engineers can get approval to review their team's code and bypass a Platform PR review. Use this checklist to ensure you are prepared to become a PR approver for your team's code.

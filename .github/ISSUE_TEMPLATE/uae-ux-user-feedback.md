@@ -1,10 +1,9 @@
 ---
 name: UAE UX User Feedback Synthesis Template
 about: User Feedback Synthesis for the Unified Appointments Experience Team
-title: '[Team] User Feedback Synthesis - Week # 2025'
-labels: 
+title: "[Team] User Feedback Synthesis - Week # 2025"
+labels: ''
 assignees: ''
-projects: ["department-of-veterans-affairs/1214"]
 
 ---
 

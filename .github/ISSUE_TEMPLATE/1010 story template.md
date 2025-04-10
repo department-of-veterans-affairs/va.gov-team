@@ -3,7 +3,7 @@ name: 1010 Story Template
 about: For the 10-10 Health Enrollment team
 title: "[discipline] formID - initiative: story title"
 labels: 1010-team
-assignees:
+assignees: ''
 
 ---
 
@@ -36,4 +36,3 @@ As a Veteran, I want [ ], so that [ ].
 - [ ] **Labeled with Discipline** (`backend`, `frontend`,  `design`, `QA`, `research`, etc.)
 - [ ] **Project selected** (`1010 Health Apps team`)
 - [ ] **Epic Reationship (parent) identified**
-

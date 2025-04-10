@@ -1,10 +1,10 @@
 ---
-name: Google Analytics Implementation Request 
+name: Google Analytics Implementation Request
 about: To request Google Analytics implementation for product launches or iterations
 title: Analytics Implementation or QA Support for [Team Name - Feature Name]
-labels: analytics-insights, analytics-request, collab-cycle-review, collaboration-cycle,
-  gtm
-assignees: johnny-jesensky-adhoc
+labels: analytics-insights, analytics-request, collaboration-cycle, gtm
+assignees: ''
+
 ---
 
 # Google Analytics Implementation Request

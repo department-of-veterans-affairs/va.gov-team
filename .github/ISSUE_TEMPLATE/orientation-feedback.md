@@ -1,9 +1,11 @@
 ---
 name: Platform Orientation feedback template
-about: "Template for Platform team to provide feedback to Governance re: Platform Orientation"
+about: 'Template for Platform team to provide feedback to Governance re: Platform
+  Orientation'
 title: Platform Orientation feedback ticket from XX team
 labels: governance-team
 assignees: ''
+
 ---
 
 This ticket is for reporting to Governance the state of all materials referenced in the Platform Orientation process. If you have any questions or concerns, please contact Governance team on Slack using the @platform-governance-team-members group on the #platform-team channel. Thank you. 

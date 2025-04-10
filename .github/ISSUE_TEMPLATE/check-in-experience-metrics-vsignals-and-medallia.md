@@ -1,7 +1,7 @@
 ---
 name: Check In Experience VSignals & Medallia Analysis
 about: Task to analyze VSignals & Medallia data
-title: "Analyze VSignals & Medallia Data"
+title: Analyze VSignals & Medallia Data
 labels: HCE-Checkin, product
 assignees: ''
 

@@ -28,4 +28,4 @@ As a _____, I _____, so that _____.
 
 ---
 ## How to configure this issue
-- [ ] **Attached to an Epic** 
+- [ ] **Attached to an Epic**

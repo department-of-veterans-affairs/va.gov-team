@@ -1,9 +1,11 @@
 ---
 name: 526EZ Incoming Issues
-about: Issues for 526EZ application changes that are requested directly by stakeholders, outside of the regular product backlog 
+about: Issues for 526EZ application changes that are requested directly by stakeholders,
+  outside of the regular product backlog
 title: 526EZ Incoming Issues
-labels: disability-experience, DBEX-Trex, DBEX-Carbs, Incoming
-assignees: RakshindaAslam, tblackwe, 
+labels: DBEX-Carbs, disability-experience, Incoming
+assignees: tblackwe
+
 ---
 
 ## Issue Description
@@ -31,4 +33,3 @@ Relevant Dates/Timeline: Is there a time constraint for this request?
 - [ ] Attached relevant links/slack threads
 - [ ] Labeled with Type (`bug`, `request`, `discovery`, `documentation`, etc.)
 - [ ] Labeled with Urgency** (`urgent`, `high priority`, etc.)
-

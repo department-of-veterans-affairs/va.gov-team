@@ -1,8 +1,8 @@
 ---
 name: VAOS Feature Template
-about: For VAOS product feature (part of an Epic) 
+about: For VAOS product feature (part of an Epic)
 title: "[Feature]"
-labels: appointments-feature, appointments-product-design, appointments-pm 
+labels: appointments-feature, appointments-pm, appointments-product-design
 assignees: ''
 
 ---

@@ -2,9 +2,8 @@
 name: UAE UX Task Template
 about: Tasks for the Unified Appointments Experience Team
 title: ''
-labels: 
+labels: ''
 assignees: ''
-projects: ["department-of-veterans-affairs/1214"]
 
 ---
 
@@ -28,4 +27,3 @@ projects: ["department-of-veterans-affairs/1214"]
 
 - [ ] AC 1
 - [ ] Review [accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/accessibility-testing-checklist.md)
-

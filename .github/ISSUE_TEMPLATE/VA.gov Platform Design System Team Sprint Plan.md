@@ -1,9 +1,10 @@
 ---
 name: VA.gov Platform Design System Team Sprint Plan
 about: Use this template for creating sprint plans
-title: "Design System Team Sprint [XX] Plan"
+title: Design System Team Sprint [XX] Plan
 labels: platform-design-system-team
 assignees: caw310, jwoodman5
+
 ---
 
 ### Design System Team 2025 Roadmap

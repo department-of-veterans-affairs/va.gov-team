@@ -1,8 +1,9 @@
 ---
 name: Travel Pay Backend
-about: For implementing business logic, translation, serialization, integration, and va.gov-facing endpoints
-title: 'Travel Pay Backend'
-labels: Travel Pay, TravelPayBackend, backend
+about: For implementing business logic, translation, serialization, integration, and
+  va.gov-facing endpoints
+title: Travel Pay Backend
+labels: backend, Travel Pay, TravelPayBackend
 assignees: ''
 
 ---
@@ -67,4 +68,3 @@ _e.g._
 ## Acceptance Criteria
 - [ ] Backend tasks complete
 - [ ] I can hit the endpoint defined above using postman or another testing tool and see the response defined above
-

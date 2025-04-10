@@ -4,7 +4,6 @@ about: To request a Contact Center Review for your product
 title: Contact Center Review for [Team Name - Feature Name]
 labels: VSP-contact-center
 assignees: ATMiddleton, Kimberley2023-CSM, starlow00
-projects: ["department-of-veterans-affairs/1403"]
 
 ---
 

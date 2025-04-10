@@ -1,7 +1,7 @@
 ---
 name: Check In Experience Submit Translations Task
 about: For Submitting Check In Experience Translations to the State Department
-title: "Submit Translations to the State Department"
+title: Submit Translations to the State Department
 labels: product
 assignees: ''
 

@@ -3,7 +3,7 @@ name: QA Collab Cycle Findings for Staging
 about: Staging findings template for Collaboration Cycle reviewers to provide QA findings
   to VFS and VA Mobile teams
 title: QA Standards - VFS / VA Mobile Team - VFS / VA Mobile Product
-labels: collab-cycle-feedback, QA, Staging, qa-standards
+labels: collab-cycle-feedback, QA, qa-standards, Staging
 assignees: ''
 
 ---

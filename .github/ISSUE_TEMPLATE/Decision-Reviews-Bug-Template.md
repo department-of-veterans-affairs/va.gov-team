@@ -1,9 +1,10 @@
 ---
 name: Decision Reviews Bug Issue
 about: Bug issues for the Decision Reviews team
-title: ""
-labels: ["Decision-Reviews-Team", "needs-grooming", "needs-refinement", "bug"]
-assignees: ""
+title: ''
+labels: bug, Decision-Reviews-Team, needs-grooming, needs-refinement
+assignees: ''
+
 ---
 
 ## What happened?

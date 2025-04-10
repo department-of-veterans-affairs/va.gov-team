@@ -1,9 +1,12 @@
 ---
 name: 526EZ Production Readiness Checklist
-about: Checklist for production readiness for 526EZ application (Application for Disability Compensation and Related Compensation Benefits) changes that do not engage collab cycle 
-title: '<Production Checklist> - <Feature>'
+about: Checklist for production readiness for 526EZ application (Application for Disability
+  Compensation and Related Compensation Benefits) changes that do not engage collab
+  cycle
+title: "<Production Checklist> - <Feature>"
 labels: disability-experience
 assignees: ''
+
 ---
 
 ## Issue Description

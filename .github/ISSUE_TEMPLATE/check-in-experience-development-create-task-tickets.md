@@ -2,7 +2,7 @@
 name: Check In Experience Create Task Tickets
 about: Task for FE & BE to create task tickets for an  Epic
 title: "[FE][BE] Create Task Tickets for Implementing Epic"
-labels: frontend, backend, HCE-Checkin
+labels: backend, frontend, HCE-Checkin
 assignees: ''
 
 ---

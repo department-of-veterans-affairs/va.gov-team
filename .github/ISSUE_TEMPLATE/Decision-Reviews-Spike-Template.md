@@ -1,13 +1,10 @@
 ---
 name: Decision Reviews Spike Template
 about: Spike template for the Decision Reviews team
-title: ""
-labels:
-  [
-    "Decision-Reviews-Team",
-    "needs-refinement"
-  ]
-assignees: ""
+title: ''
+labels: Decision-Reviews-Team, needs-refinement
+assignees: ''
+
 ---
 
 ## Background

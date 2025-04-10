@@ -1,9 +1,11 @@
 ---
-name: "Internal ADE Research Child Ticket"
-about: Template for ADE Research Child Tickets - based on the work requested in the research intake ticket. These will be created as sub-issues, under the parent research intake ticket. 
-title: 'Internal ADE Research Child Ticket'
-labels: 'ADE, ADE Research'
-assignees: 'sara-amanda,lakper,cindymerrill'
+name: Internal ADE Research Child Ticket
+about: Template for ADE Research Child Tickets - based on the work requested in the
+  research intake ticket. These will be created as sub-issues, under the parent research
+  intake ticket.
+title: Internal ADE Research Child Ticket
+labels: ADE Research
+assignees: cindymerrill, lakper, sara-amanda
 
 ---
 
@@ -80,7 +82,4 @@ The ticket ends here.
 
 > [!CAUTION]
 > ## Delete
-> **Delete any tips in this template, or unneccessary information, including this alert, prior to saving  your ticket.** 
-
-
-
+> **Delete any tips in this template, or unneccessary information, including this alert, prior to saving  your ticket.**

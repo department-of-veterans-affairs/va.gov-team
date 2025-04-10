@@ -2,7 +2,7 @@
 name: Check-in Experience Team's SNOW Ticket
 about: Template for tracking ServiceNow (SNOW) tickets
 title: "[SNOW]: INCIDENT NUMBER <SNOW Incident number>"
-labels: backend, bug, SNOW, HCE-Checkin
+labels: backend, bug, HCE-Checkin
 assignees: ''
 
 ---

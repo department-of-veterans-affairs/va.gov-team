@@ -1,7 +1,7 @@
 ---
-name: 'Forms 4.  Generate the back end form model and mapping'
+name: Forms 4.  Generate the back end form model and mapping
 about: Describe this issue template's purpose here.
-title: '[form number] Generate the back end form model and mapping'
+title: "[form number] Generate the back end form model and mapping"
 labels: forms-audit-digitize
 assignees: ''
 

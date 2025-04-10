@@ -1,5 +1,5 @@
 ---
-name: (Cartographers) User story template
+name: "(Cartographers) User story template"
 about: Use this template for user stories for the Cartographers team (MHV-on-VAgov).
 title: ''
 labels: Cartographers, needs-refinement

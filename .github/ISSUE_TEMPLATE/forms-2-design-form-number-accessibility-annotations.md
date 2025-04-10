@@ -1,7 +1,7 @@
 ---
-name: 'Forms 2. Design - Accessibility Annotations'
+name: Forms 2. Design - Accessibility Annotations
 about: Accessibility Annotations
-title: '[Form Number] Design - Accessibility Annotations'
+title: "[Form Number] Design - Accessibility Annotations"
 labels: ''
 assignees: ''
 

@@ -3,7 +3,7 @@ name: Forms Library Request
 about: Use this template to request a change to the forms library, including new features,
   enhancements, or bugs.
 title: ''
-labels: needs-grooming, triage, vsp-design-system-team
+labels: needs-grooming, triage
 assignees: caw310
 
 ---

@@ -1,5 +1,5 @@
 ---
-name: Forms Product 1. Form Epic - Form # and Name"
+name: Forms Product 1. Form Epic - Form
 about: Describe this issue template's purpose here.
 title: Form [form number] - Epic
 labels: ''

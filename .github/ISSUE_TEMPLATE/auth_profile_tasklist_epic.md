@@ -2,8 +2,7 @@
 name: Authenticated Experience Epic Template
 about: Epic template for creating Authenticated Experience team issues
 title: EPIC | [Project]
-labels: authenticated-experience, needs-refinement, epic
-type: Epic
+labels: authenticated-experience, needs-refinement
 assignees: ''
 
 ---
@@ -30,6 +29,3 @@ _The outcomes, improvements, or key metrics.- What do we expect to happen and ho
 - Designs
      - Desktop
      - Mobile
-
-
-

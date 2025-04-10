@@ -1,9 +1,9 @@
 ---
 name: Content and IA Product Support Task
-about: For sub-tasks related to content and IA support. 
+about: For sub-tasks related to content and IA support.
 title: "[TASK:] Task name"
 labels: content-ia-centralized-team
-assignees: 
+assignees: ''
 
 ---
 

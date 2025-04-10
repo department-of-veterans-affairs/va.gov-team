@@ -2,7 +2,7 @@
 name: Check In Experience Test in Production
 about: For Check In Experience to test in a production environment
 title: "[FE] Test in Production"
-labels: HCE-Checkin, frontend, backend
+labels: backend, frontend, HCE-Checkin
 assignees: ''
 
 ---

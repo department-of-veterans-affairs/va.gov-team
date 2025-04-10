@@ -1,11 +1,13 @@
 ---
 name: Content and IA Centralized Team Product Support Request Form
-about: Use this ticket to request support from the centralized content and information architecture team.
+about: Use this ticket to request support from the centralized content and information
+  architecture team.
 title: "[INTAKE] Team Name: Initiative Name"
 labels: content-ia-centralized-team
-assignees: 
+assignees: ''
 
 ---
+
 # Content and IA Product Support Request
 
 Use this ticket to request collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) shared services team. Feel free to delete instructions and unselected options from the ticket to make it easier to scan.

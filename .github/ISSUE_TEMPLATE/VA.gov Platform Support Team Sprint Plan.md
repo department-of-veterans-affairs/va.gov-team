@@ -1,10 +1,12 @@
 ---
 name: VA.gov Platform Support Team Sprint Plan
 about: Top-level epic to track a VSP Initiative
-title: 'Platform Support Team Sprint [XX] Plan'
+title: Platform Support Team Sprint [XX] Plan
 labels: platform-initiative
 assignees: alyssagallion, jwoodman5
+
 ---
+
 ### Sprint Goals
 TBD
 

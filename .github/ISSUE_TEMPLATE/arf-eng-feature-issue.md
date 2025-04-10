@@ -2,9 +2,8 @@
 name: ARF Engineering Feature Issue
 about: Feature issue template for the ARF Engineering team
 title: ''
-labels: ['accredited-rep-facing', 'engineering', 'backend']
+labels: accredited-rep-facing, backend, engineering
 assignees: ''
-type: 'Task'
 
 ---
 
@@ -23,4 +22,3 @@ type: 'Task'
 
 #### Automated Testing
 <!-- Indicate the requirement for automated testing beyond unit tests -->
-

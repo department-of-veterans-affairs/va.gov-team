@@ -2,10 +2,11 @@
 name: Platform Reliability Issue Template
 about: For filing standard issues
 title: ''
-labels: ['platform-reliability-team', 'needs-refinement']
+labels: needs-refinement, platform-reliability-team
 assignees: ''
-projects: ["department-of-veterans-affairs/927"]
+
 ---
+
 What details are necessary for understanding the specific work or request tracked by this issue?
 
 ## Tasks

@@ -1,11 +1,11 @@
 ---
 name: VA Financial Management Standard Issue Template
 about: Standard ticket template for the VA Financial Management Team
+title: ''
 labels: vsa-debt
-type: 'Task'
 assignees: ''
+
 ---
-      
 
 ## Issue Description
 _Provide a simple description of the task_

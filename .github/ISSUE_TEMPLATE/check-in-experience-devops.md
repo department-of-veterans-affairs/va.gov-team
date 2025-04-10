@@ -2,7 +2,9 @@
 name: Check In Experience DevOps Task
 about: Task for DevOps
 title: "[DevOps] Untitled"
-labels: devops, HCE-Checkin, cie-do-add-to-epic
+labels: devops, HCE-Checkin
+assignees: ''
+
 ---
 
 ## Description

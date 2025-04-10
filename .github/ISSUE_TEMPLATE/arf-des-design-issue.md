@@ -2,9 +2,8 @@
 name: ARF Design Design Issue
 about: Design issue for the ARF Design Team
 title: ''
-labels: ['accredited-rep-facing', 'design']
+labels: accredited-rep-facing, design
 assignees: ''
-type: Task
 
 ---
 
@@ -14,4 +13,3 @@ type: Task
 <!-- What's the problem statement. Include user stories -->
 
 ### Design Notes to Consider
-

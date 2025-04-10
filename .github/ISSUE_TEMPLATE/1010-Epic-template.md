@@ -1,9 +1,9 @@
 ---
 name: 1010 Epic Template
 about: For the 10-10 Health Enrollment team
-title: "formID - initiative"
+title: formID - initiative
 labels: 1010-team
-assignees: 
+assignees: ''
 
 ---
 

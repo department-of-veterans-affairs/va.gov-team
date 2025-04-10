@@ -2,7 +2,7 @@
 name: ARM Standard Issue
 about: General issues for the ARM team
 title: ''
-labels: 'accredited-representation-management-team'
+labels: accredited-representation-management-team
 assignees: ''
 
 ---

@@ -1,9 +1,10 @@
 ---
-name: Content and IA Product Support Epic 
-about: For Content and IA centralized team internal use only.  
+name: Content and IA Product Support Epic
+about: For Content and IA centralized team internal use only.
 title: "[EPIC] Initiative Name"
 labels: content-ia-centralized-team
-assignees: 
+assignees: ''
+
 ---
 
 > [!WARNING]

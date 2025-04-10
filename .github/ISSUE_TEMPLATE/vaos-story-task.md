@@ -2,7 +2,7 @@
 name: VAOS Developer Task Template
 about: For filing standard VAOS issues.
 title: ''
-labels: needs-grooming, appointments
+labels: appointments, needs-grooming
 assignees: ''
 
 ---

@@ -1,9 +1,10 @@
 ---
 name: Analytics Product KPI Dashboard - Request and Update Template
-about: To request a new standardized KPI dashboard on Domo for your product or an Update to an existing KPI dashboard
+about: To request a new standardized KPI dashboard on Domo for your product or an
+  Update to an existing KPI dashboard
 title: Analytics New KPI dashboard request & KPI dashboard update request for [Team]
 labels: analytics-insights, analytics-request, kpi-dashboard
-assignees: johnny-jesensky-adhoc
+assignees: ''
 
 ---
 

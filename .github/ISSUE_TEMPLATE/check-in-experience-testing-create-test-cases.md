@@ -1,8 +1,8 @@
 ---
 name: Check In Experience Create Test Cases
 about: For Check In Experience Create Test Cases
-title: "Create TestRail Test Cases"
-labels: HCE-Checkin, ux, design
+title: Create TestRail Test Cases
+labels: design, HCE-Checkin, ux
 assignees: ''
 
 ---

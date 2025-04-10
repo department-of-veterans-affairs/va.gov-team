@@ -4,7 +4,6 @@ about: Template to create a feature check list or epic
 title: TBD
 labels: product
 assignees: ''
-type: Epic
 
 ---
 

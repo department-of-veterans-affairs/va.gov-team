@@ -1,9 +1,10 @@
 ---
-name: "Internal ADE Accessibility Office Hours Ticket"
-about: Template for ADE members to utilize, when needing to create a ticket to track work done to support office hours. Ex. Prepwork before the call. 
-title: 'Internal ADE Accessibility Office Hours Ticket'
-labels: 'ADE, ADE Office Hours'
-assignees: sara-amanda,lakper
+name: Internal ADE Accessibility Office Hours Ticket
+about: Template for ADE members to utilize, when needing to create a ticket to track
+  work done to support office hours. Ex. Prepwork before the call.
+title: Internal ADE Accessibility Office Hours Ticket
+labels: ADE Office Hours
+assignees: lakper, sara-amanda
 
 ---
 
@@ -81,4 +82,3 @@ Insert any available or gathered background info.
 - [ ] _Label with `Actual` (level of effort it took to complete this ticket)_
 - [ ] _Update date in_ `Closed Date`
 - [ ] _Open an intake if needed, for work to continue and tie this ticket as a child ticket aka existing sub-issue._
-

@@ -1,9 +1,10 @@
 ---
-name: "Accessibility Digital Experience (ADE) Intake Form"
-about: Use this ticket to request collaboration on a new initiative with the Accessibility Digital Experience (ADE) team (pronounced /ād/). 
-title: '[ADE Intake]:<Team Name><Product><Requesting>'
-labels: 'ADE, ADE Intake'
-assignees: artsymartha68,sara-amanda,lakper
+name: Accessibility Digital Experience (ADE) Intake Form
+about: Use this ticket to request collaboration on a new initiative with the Accessibility
+  Digital Experience (ADE) team (pronounced /ād/).
+title: "[ADE Intake]:<Team Name><Product><Requesting>"
+labels: ADE Intake
+assignees: artsymartha68, lakper, sara-amanda
 
 ---
 
@@ -128,5 +129,4 @@ _Select all that apply._
 > - Instead, related tickets will be connected to tickets via sub-issues.
 > ##### Connecting Tickets
 > - **To connect an existing ticket**, choose the drop-down from "create sub-issue" and select "add existing issue"
-> - **To connect a new issue,** choose the drop-down from "create sub-issue" and select "create sub-issue," and select the respective template. 
-
+> - **To connect a new issue,** choose the drop-down from "create sub-issue" and select "create sub-issue," and select the respective template.

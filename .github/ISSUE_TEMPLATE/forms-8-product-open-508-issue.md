@@ -1,7 +1,7 @@
 ---
 name: Forms 8. Product - Open 508 Issue
 about: Describe this issue template's purpose here.
-title: '[form number] 508 Issue'
+title: "[form number] 508 Issue"
 labels: ''
 assignees: ''
 

@@ -2,9 +2,8 @@
 name: ARF Engineering Feature Issue - Front End
 about: Feature issue template for the ARF Engineering team
 title: ''
-labels: ['accredited-rep-facing', 'engineering', 'frontend']
+labels: accredited-rep-facing, engineering, frontend
 assignees: ''
-type: 'Task'
 
 ---
 

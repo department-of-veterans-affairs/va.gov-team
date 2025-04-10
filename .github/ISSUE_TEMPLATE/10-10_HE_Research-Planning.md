@@ -2,7 +2,7 @@
 name: 10-10 HE - Research Planning
 about: For 10-10 Healthcare Experience - Research Planning
 title: "[Research] 10-10 Research Planning"
-labels: 1010-team, research,
+labels: 1010-team, research
 assignees: ''
 
 ---

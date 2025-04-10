@@ -1,9 +1,12 @@
 ---
-name: "Internal ADE Research Accessibility Feedback Issue Quantification Ticket"
-about: Template to utilize following ADE research support for AT, in order to document and quantify the issues identified. These will be created as sub-issues, under the parent research intake ticket. 
-title: '[ADE Research - Feedback] - Team Name: Study (Type of accessibility issue encountered)'
-labels: 'ADE, ADE Research, ADE Research Feedback'
-assignees: 'sara-amanda,lakper'
+name: Internal ADE Research Accessibility Feedback Issue Quantification Ticket
+about: Template to utilize following ADE research support for AT, in order to document
+  and quantify the issues identified. These will be created as sub-issues, under the
+  parent research intake ticket.
+title: "[ADE Research - Feedback] - Team Name: Study (Type of accessibility issue
+  encountered)"
+labels: ADE Research Feedback
+assignees: lakper, sara-amanda
 
 ---
 
@@ -93,7 +96,4 @@ The ticket ends here.
 
 > [!CAUTION]
 > ## Delete
-> **Delete any tips in this template, or unneccessary information, including this alert, prior to saving  your ticket.** 
-
-
-
+> **Delete any tips in this template, or unneccessary information, including this alert, prior to saving  your ticket.**

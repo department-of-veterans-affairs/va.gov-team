@@ -1,11 +1,13 @@
 ---
-name: "Analytics - VFS Custom Event Audit Form" 
-about: "This for is for VFS teams to audit the list of custom events for each of their products." 
-title: "VFS Custom Events for [Team Name] & [Product(s)]"
-labels: "analytics-insights, analytics-request, ga4-migration, analytics-insights-form"
-assignees: adamoye
-projects: "Platform Analytics & Insights" 
+name: Analytics - VFS Custom Event Audit Form
+about: This for is for VFS teams to audit the list of custom events for each of their
+  products.
+title: VFS Custom Events for [Team Name] & [Product(s)]
+labels: analytics-insights, analytics-request
+assignees: AdamOye
+
 ---
+
 # VFS Custom Event Audit Form
 
 ### What this form is for.
@@ -32,4 +34,3 @@ _Our team will follow up with you for next steps._
 
  > [!NOTE]
 > If your team manages more than one product, you can submit this form multiple times, or alternatively, include multiple copies of the spreadsheet to the same Github form. Whichever option is easiest.
-

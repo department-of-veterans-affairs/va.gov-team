@@ -2,7 +2,7 @@
 name: Identity Backend
 about: For writing backend tickets
 title: ''
-labels: Identity, Identity-Backend
+labels: Identity
 assignees: ''
 
 ---

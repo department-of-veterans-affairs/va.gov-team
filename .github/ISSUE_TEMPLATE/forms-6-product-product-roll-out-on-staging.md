@@ -1,7 +1,7 @@
 ---
 name: Forms 6. Product roll out on Staging
 about: Suggest an idea for this project
-title: '[form number] Product roll out on Staging'
+title: "[form number] Product roll out on Staging"
 labels: ''
 assignees: ''
 

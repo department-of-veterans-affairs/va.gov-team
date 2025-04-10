@@ -2,11 +2,11 @@
 name: BTSSS Team Epic Template
 about: For BTSSS on VA.gov epics
 title: "[Epic]"
-labels: epic, beneficiary-travel 
+labels: beneficiary-travel
 assignees: ''
 
+---
 
---- 
 **[Note:]** _Use below for standard epic. Delete if initiative._ 
 
 ## Description
@@ -63,9 +63,3 @@ _List out the epics in this initiative and planned release date for tracking pur
 ---
 ## How to configure this issue
 - [ ] **Attached to an Initiative**
-
-
-
-
-
-

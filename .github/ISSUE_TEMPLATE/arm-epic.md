@@ -3,9 +3,10 @@ name: ARM Epic
 about: Epics for the ARM team
 title: 'ARM Research/Design/Development:'
 labels: accredited-representation-management-team
-type: Epic
+assignees: ''
 
 ---
+
 ## Epic Overview
 **Goal**: _What is the intended outcome of this project?_
 

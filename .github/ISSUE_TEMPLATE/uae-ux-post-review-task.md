@@ -2,9 +2,8 @@
 name: UAE UX Post-Review Task Template
 about: Feedback/Review for the Unified Appointments Experience Team
 title: ''
-labels: 
+labels: ''
 assignees: ''
-projects: ["department-of-veterans-affairs/1214"]
 
 ---
 
@@ -34,4 +33,3 @@ projects: ["department-of-veterans-affairs/1214"]
 - [ ] Designs/content/etc. updated in ____ (Latest Designs, MVP scope, design specs, etc.)
 - [ ] Follow-up tickets created
 - [ ] Review [accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/accessibility-testing-checklist.md)
-
