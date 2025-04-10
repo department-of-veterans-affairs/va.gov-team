@@ -270,4 +270,7 @@ We recommend implementing [Idea 3: Sign in and technical issues is the only cate
 
 This would require business line approval to only allow authenticated inquiries from all business lines, apart from `Sign in and technical issues`.
 
-If it doesn't seem feasible for us to receive business line approval for any rules changes right now, then we recommend [Idea 1: Sub task pattern](#idea-1) as it's the only option that does not have this constraint.
+Other thoughts:
+- If it doesn't seem feasible for us to receive business line approval for any rules changes right now, then we recommend [Idea 1: Sub task pattern](#idea-1) as it's the only option that does not have this constraint.
+- We also think it's worth exploring the technical feasibility of temporarily storing responses so that a submitter doesn't have to repeat steps after sign in.
+- We also think having data on whether general questions
