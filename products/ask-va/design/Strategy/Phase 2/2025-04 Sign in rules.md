@@ -268,11 +268,6 @@ We recommend implementing [Idea 3: Sign in and technical issues is the only cate
 - We expect people will feel less deceived and less confused about they should sign in or not.
 - Although people could choose to use the Sign in category option to ask about something else, this workaround feels much less likely.
 
-This would require business line approval to only allow authenticated inquiries from all business lines, apart from `Sign in and technical issues`.
+This would require business line approval to only allow authenticated inquiries from all business lines except `Sign in and technical issues`. If it doesn't seem feasible for us to receive business line approval for any rules changes right now, then we recommend [Idea 1: Sub task pattern](#idea-1) as it's the only option that does not have this constraint.
 
-### Final thoughts
-
-- We recommend implementing [Idea 3: Sign in and technical issues is the only category that doesn't require sign in](#idea-3) which requires business line approval.
-- If it doesn't seem feasible for us to receive business line approval for any rules changes right now, then we recommend [Idea 1: Sub task pattern](#idea-1) as it's the only option that does not have this constraint.
-- We also think it's worth exploring the technical feasibility of temporarily storing responses so that a submitter doesn't have to repeat steps after sign in.
-- And after we've been in production for a period of time, we should do some data analysis to understand whether people are choosing correctly between 'myself', 'someone else' and a 'general question.'
+We also think it's worth exploring the technical feasibility of temporarily storing responses so that a submitter doesn't have to repeat steps after sign in. And after we've been in production for a period of time, we should do some data analysis to understand whether people are choosing correctly between 'myself', 'someone else' and a 'general question.'
