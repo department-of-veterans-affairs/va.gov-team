@@ -140,7 +140,7 @@ Even when people have a good sense for when a suggestion is wrong, they  convinc
 
 Many people choose to continue, even if they clearly don't agree with the suggestion. Mostly because they want to see what happens next.
 
-This makes the tool feel like a loop, where you're continuing forward to see what happens. And returning back if you don't receive the information you're looking for.
+This makes the tool feel like a loop, where people expect to continue forward to see what happens. And turn back if they don’t receive the information they’re looking for.
 
 > "I think sometimes AI knows what it's talking about, and I'm the one that's confused." P2
 
