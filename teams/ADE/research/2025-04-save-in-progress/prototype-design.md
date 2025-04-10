@@ -24,7 +24,7 @@ We want to **find out whether Veterans are confident that their form data is bei
 
 ![green-save-alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/green-save-alert.png)
 
-2. **NEW! Change "Finish this request later" to look like a button** titled "Save and finish later" or "Finish later" (instead of the current look as a link) for material honesty. Including the word "Save" will help Veterans understand that their form data is being saved. This new button can be put in place of the Back button (which isn't needed because of breadcrumb at the top, per research conducted with the minimal header design) because this is a good place for the user to decide whether to stop working and resume later *vs.* continue onto the next page. We might also consider adding the word "save" to the "Continue" button.
+2. **NEW! Change "Finish this request later" to look like a button** titled "Save and finish later" or "Finish later" (instead of the current look as a link) for material honesty. Including the word "Save" will help Veterans understand that their form data is being saved. This new button can be put in place of the Back button (which isn't needed because of breadcrumb at the top, per research conducted with the minimal header design) because this is a good place for the user to decide whether to stop working and resume later *vs.* continue onto the next page. We might also consider adding the word "save" to the "Continue" button, too.
 
 ![newCTAoptions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/newCTAoptions.png)
 
