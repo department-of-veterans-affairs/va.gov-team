@@ -13,11 +13,15 @@
  | 	 /health-care/income-limits/review 	 | 	 38,827 	 | 	 1.59 	 | 	99%	 | 	 227 	 | 	 507 	 | 	 12,251 	 | 	 21,574 	 | 
  | 	 /health-care/income-limits/zip 	 | 	 35,845	 | 	 1.39 	 | 	99%	 | 	 265 	 | 	 636 	 | 	 13,108 	 | 	 23,028 	 | 
  | 	 /health-care/income-limits/dependents 	 | 	 36,157	 | 	 1.46 	 | 	99%	 | 	 57 	 | 	 321 	 | 	 12,456 	 | 	 21,965 	 | 
- | 	 /health-care/income-limits/results 	 | 	 31,272 | 	 1.26 	 | 	99%	 | 	 806 	 | 	 9,144 	 | 	 12,232 	 | 	 21,630 	 | 
+ | 	 /health-care/income-limits/results 	 | 	 31,272 | 	 1.26 	 | 	99%	 | 	 806 	 | 	 9,144^	 | 	 12,232 	 | 	 21,630 	 | 
  | 	 /health-care/income-limits/ 	 | 	 8,380 	 | 	 1.05 	 | 	98%	 | 	 2,951 	 | 	 95 	 | 	 4,531 	 | 	 7,384 	 | 
  | 	 /health-care/income-limits/year 	 | 	 5,911	 | 	 1.76 	 | 	100%	 | 	 114 	 | 	 56 	 | 	 1,715 	 | 	 3,114 	 | 
- | 	 /health-care/income-limits/introduction. 	 | 	 19	 | 	 1.00 	 | 	100%	 | 	 19 	 | 	 -   	 | 	 19 	 | 	 19 	 | 
+ | 	 /health-care/income-limits/introduction 	 | 	 19	 | 	 1.00 	 | 	100%	 | 	 19 	 | 	 -   	 | 	 19 	 | 	 19 	 | 
 
+^ This is the number provided by GA4 but it does not make sense based on the number of entrances and is out of line with other data
+
+Summary: The application has a very strong engagement across all pages. 64% of those who viewed the intro also view results with a low drop-off rate across other the pages.
+ 
 ### February 2025
 
 |  Month	 | 	 Views 	 | 	 Views per session 	 | 	Engagement rate	 | 	 Entrances 	 | 	 Exits 	 | 	 Returning users 	 | 	 Total users 	 | 
@@ -29,6 +33,8 @@
  | 	 /health-care/income-limits/results 	 | 	 17,719 	 | 	 1.19 	 | 	99%	 | 	 378 	 | 	 5,097 	 | 	 6,806 	 | 	 13,369 	 | 
  | 	 /health-care/income-limits/ 	 | 	 5,210 	 | 	 1.04 	 | 	99%	 | 	 2,130 	 | 	 57 	 | 	 2,927 	 | 	 4,736 	 | 
  | 	 /health-care/income-limits/year 	 | 	 2,989 	 | 	 1.56 	 | 	99%	 | 	 -   	 | 	 76 	 | 	 895 	 | 	 1,865 	 | 
+
+Summary: Total user counts are lower than January, which might be expected given nmany will access the new limits at the start of the year. 58% of those who viewed the intro also view results with a low drop-off rate across other the pages. 51% of users viewing the intorudction are return users.
 
 ### March 2025
 
@@ -42,3 +48,4 @@
  | 	 /health-care/income-limits/ 	 | 	 5,491 	 | 	 1.07 	 | 	98%	 | 	 2,167 	 | 	 19 	 | 	 2,704 	 | 	 4,829 	 | 
  | 	 /health-care/income-limits/year 	 | 	 3,343 	 | 	 1.61 	 | 	99%	 | 	 -   	 | 	 152 	 | 	 914 	 | 	 2,032 	 | 
 
+Summary: Total user counts are similar to January. 56% of those who viewed the intro also view results with a low drop-off rate across other the pages. 51% of users viewing the intorudction are return users.
