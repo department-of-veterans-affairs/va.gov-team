@@ -9,6 +9,7 @@ Jump to:
 - [Sign in scenarios](#sign-in-scenarios)
 - [Key issues with sign in](#key-issues-with-sign-in)
 - [Ideas to solve key issues](#ideas-to-solve-key-issues)
+- [Recommendation](#recommendation)
 
 ## What we know about sign in rules for Ask VA
 
