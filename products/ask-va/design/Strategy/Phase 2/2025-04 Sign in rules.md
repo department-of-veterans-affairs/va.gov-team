@@ -260,7 +260,7 @@ It requires business line approval from all business lines apart from `Education
 
 ## Recommendation
 
-We recommend implementing [idea 3](#idea-3), because:
+We recommend implementing [idea 3](#idea-3-sign-in-and-technical-issues-is-the-only-category-that-doesnt-require-sign-in), because:
 
 - It doesn't take multiple clicks to learn whether or not you need to sign in.
 - You don't need to start over at any point and therefore you don't have any repeating questions such as 'Who is your question about?' or 'Category' after sign in.
@@ -272,4 +272,4 @@ This requires business line approval to only allow authenticated inquiries from 
 
 ### Back up strategy
 
-If it's not feasible to pursue business line approval right now, then we recommend [Idea 1: Sub task pattern](#idea-1) as it's the only option that does not have this constraint. We also think it's worth exploring the technical feasibility of temporarily storing responses so that a submitter doesn't have to repeat steps after sign in. We also recommend analyzing production data to understand whether people are consistently choosing the right option for 'Who is your question about?'
+If it's not feasible to pursue business line approval right now, then we recommend [Idea 1: Sub task pattern](#idea-1-sub-task-pattern) as it's the only option that does not have this constraint. We also think it's worth exploring the technical feasibility of temporarily storing responses so that a submitter doesn't have to repeat steps after sign in. We also recommend analyzing production data to understand whether people are consistently choosing the right option for 'Who is your question about?'
