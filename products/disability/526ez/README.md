@@ -181,18 +181,25 @@ Engineering research | Discovery and/or technical approach documents from engine
 #### Tech Debt
 
 - Follow-up tickets for 0781 Reporting
-https://github.com/department-of-veterans-affairs/va.gov-team/issues/106931
-https://github.com/department-of-veterans-affairs/va.gov-team/issues/106932
+   - [[0781 PS] add Reporting to cron tasks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106931)
+   - [[0781 PS] add 0781 Reporting metrics to dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106932)
 - Cypress bug next steps:
 https://github.com/department-of-veterans-affairs/va.gov-team/issues/106879
-- Toxic Exposure Date Fix:
-[Add date range validation (different work from changing validations to accept year or year/month)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84305)
-[might not need this one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92713)
-[Release existing frontend Toxic Exposure date branch](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?pane=issue&itemId=105932830&issue=department-of-veterans-affairs%7Cva.gov-team%7C107273)
-[Tech Discovery- add in destructive modals for TE flow - could be done concurrently with Christine's story](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107285)
+- Toxic Exposure Date Fixes:
+   - [Add date range validation (different work from changing validations to accept year or year/month)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84305)
+   - [Toxic Exposure: Partial dates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92713) (might not need this one)
+   - [Release existing frontend Toxic Exposure date branch](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?pane=issue&itemId=105932830&issue=department-of-veterans-affairs%7Cva.gov-team%7C107273)
+- [Tech Discovery- add in destructive modals for TE flow - could be done concurrently with Christine's story](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107285)
 - App Isolation:
 https://github.com/department-of-veterans-affairs/va.gov-team/issues/96761
 - Next steps for Submission Experience emails
+- Miscellaneous Items
+   - [Remove legacy EVSS/LH branching in submission service + additional refactorings
+](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100089)
+   - [Expand test coverage on TE Lighthouse submit requests
+](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88843)
+   - [Remove hard-coded text from Q16, Column 3
+](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88269)
 
 #### Zero Silent Failures
 TODO: Examples of failures before/after (is Kyle/Carbs working on this?)
