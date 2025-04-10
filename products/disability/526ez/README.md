@@ -179,7 +179,19 @@ In February 2024, there was an effort to update our 526 Domo dashboard to captur
 Engineering research | Discovery and/or technical approach documents from engineering reseach | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/engineering_research)
 |Engineering Audit/Inventory|A list of engineering documents and a storehouse for documents saved in a non-standard format|[SharePoint folder](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Engineering/Audit%20and%20Inventory?csf=1&web=1&e=ZCN3CN)|01/31/25|
 #### Tech Debt
-TODO: Highlight important tech debt items (Mike is making a list of important backlog items.)
+
+- Follow-up tickets for 0781 Reporting
+https://github.com/department-of-veterans-affairs/va.gov-team/issues/106931
+https://github.com/department-of-veterans-affairs/va.gov-team/issues/106932
+- Cypress bug next steps:
+https://github.com/department-of-veterans-affairs/va.gov-team/issues/106879
+- Toxic Exposure Date Fix:
+[Add date range validation (different work from changing validations to accept year or year/month)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84305)
+[might not need this one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92713)
+[Release existing frontend Toxic Exposure date branch](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?pane=issue&itemId=105932830&issue=department-of-veterans-affairs%7Cva.gov-team%7C107273)
+[Tech Discovery- add in destructive modals for TE flow - could be done concurrently with Christine's story](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107285)
+- App Isolation:
+https://github.com/department-of-veterans-affairs/va.gov-team/issues/96761
 - Next steps for Submission Experience emails
 
 #### Zero Silent Failures
