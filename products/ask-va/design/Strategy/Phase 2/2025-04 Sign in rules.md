@@ -260,17 +260,19 @@ It requires business line approval from all business lines apart from `Education
 
 ## Recommendation
 
-We recommend implementing [Idea 3: Sign in and technical issues is the only category that doesn't require sign in](#idea-3) because:
+We recommend implementing [Idea 3: Sign in and technical issues is the only category that doesn't require sign in](#idea-3), because:
 
 - It doesn't take multiple clicks to learn whether or not you need to sign in.
-- Avoids the need to start over and therefore you don't have any repeating questions such as 'Who is your question about?' or 'Category' after sign in.
+- You don't need to start over at any point and therefore you don't have any repeating questions such as 'Who is your question about?' or 'Category' after sign in.
 - It's simpler to explain the difference between a sign in related question or otherwise; compared to the difference between personal or general questions.
-- We hypothesize people will no longer feel deceived or be confused as to when they should sign in or not.
+- We expect people will feel less deceived and less confused about they should sign in or not.
 - Although people could choose to use the Sign in category option to ask about something else, this workaround feels much less likely.
 
 This would require business line approval to only allow authenticated inquiries from all business lines, apart from `Sign in and technical issues`.
 
-Other thoughts:
+### Final thoughts
+
+- We recommend implementing [Idea 3: Sign in and technical issues is the only category that doesn't require sign in](#idea-3) which requires business line approval.
 - If it doesn't seem feasible for us to receive business line approval for any rules changes right now, then we recommend [Idea 1: Sub task pattern](#idea-1) as it's the only option that does not have this constraint.
 - We also think it's worth exploring the technical feasibility of temporarily storing responses so that a submitter doesn't have to repeat steps after sign in.
-- We also think having data on whether general questions
+- And after we've been in production for a period of time, we should do some data analysis to understand whether people are choosing correctly between 'myself', 'someone else' and a 'general question.'
