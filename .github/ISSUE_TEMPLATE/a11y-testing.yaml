@@ -159,6 +159,8 @@ body:
     attributes:
       value: |
         All pages and user flows must be navigable using a keyboard, including form controls and inputs, links, buttons, etc. To test keyboard navigation, press [Tab] to move focus to the next element that can receive keyboard focus and [Shift] + [Tab] to move focus to the previous element. Interactive elements should respond to [expected keys for that type of element](https://webaim.org/techniques/keyboard/#testing).
+
+        When building for the VA mobile app, testing for keyboard navigation is still required. Users may connect a Bluetooth or USB keyboard to their device, or they may use alternative input devices that map user actions to certain keystrokes.
         
         We recommend that designers think about [Tab] order while creating prototypes, and that they annotate their prototypes whenever [Tab] order isn't clear. As the product is coded, front-end engineers should do regular keyboard navigation spot checks and complete a comprehensive test prior to staging review.
         
