@@ -2,7 +2,7 @@
 name: VA.gov Platform Governance Sprint Plan
 about: Use this template for creating sprint plans.
 title: Governance Team Sprint [XX] Plan
-labels: ''
+labels: 'governance-team'
 assignees: shiragoodman
 
 ---
