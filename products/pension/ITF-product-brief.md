@@ -13,12 +13,12 @@ Currently the forms affected are the 526ez (Disability compensation); 527ez (Vet
  
 ## Tl;dr recommended pattern 
 For forms that automatically set ITFs, the recommended pattern is as follows: 
-New application/claim 
+### New application/claim 
 1.	When a new form is started, make a synchronous call to check for an existing active ITF (GET). If no ITF exists, make a synchronous call to establish an ITF (POST).  
 a.	Note that a 404 response is an expected response for the initial GET request if the Veteran does not have an active ITF 
 2.	Based on the GET/POST results, communicate the ITF date and its expiration date for the user. 
 3.	If either of these actions fail, notify the user that they can continue with their form, but if they want to check their ITF date or create an ITF, they should call the contact center. If the GET fails because the system is down (versus no ITF found), do not create a new ITF/call for a POST. 
-Return to in progress form 
+### Return to in progress form 
 1.	When a user returns to an in progress form, make a synchronous call to check for an existing ITF (GET). If no ITF exists, DO NOT make a synchronous call to establish an ITF (POST).  
 2.	Based on the GET/POST results, display the ITF date and its expiration date for the user. 
 3.	If either of these actions fail, notify the user that they can continue with their form, but if they want to check their ITF date or create an ITF, they should call the Contact Center. 
@@ -27,23 +27,25 @@ Teams should not try to remedy the failure of GET and/or POST through either a) 
 The endpoint establishes the ITF directly into VBMS if successful, and there is no requirement to also generate a PDF and upload it to the eFolder, as is common for other forms.  
 An updated UX for the recommended sequence is being worked on by the Pensions & Burials team. 
 More details below. 
-Other ITF success factors 
+## Other ITF success factors 
 The ability to successfully create an ITF also depends on a few additional factors:  
 1.	Users must be logged in as LOA3, which is the level at which they have verified their identity and comes with an associated ICN.  
 2.	VA must have a participant ID (PID) on file, which is created with the Veteran’s first claim of any benefit type. 
 3.	ITF retrieval and creation will error out during regular VBMS/Corp DB maintenance windows. 
 Trying to GET or POST an ITF without these IDs will result in failures, so the recommended solution is to check IDs prior to calling ITF services. Forms that do not require LOA3 should not attempt to create an ITF or communicate about an ITF if a user is not logged in as LOA3. In addition, it is recommended that users be prevented from using the form during regular maintenance windows. 
 Lighthouse is creating an endpoint to enable creation of a PID, which may be needed to allow an LOA3 authenticated Veteran doing an original claim to proceed with their claim without having to call the contact center. 
-UX and policy considerations 
+## UX and policy considerations 
 Ideally, the user experience would:  
 •	Be as frictionless as possible.  
 •	Not block users from completing their application when the ITF service is unavailable. 
 •	Provide an alternate way to secure an ITF if the service is unavailable. 
 •	Be transparent and clear about what we are doing, since the ITF is a concept users may know about or hear about out in the real world. 
+
 We know from research that ITF as a concept can be difficult for Veterans to understand, so clear, plain language content is key. We also know that the current implementation of the UX for the recommended path can feel abrupt because it reports the result of an action the system took without the user’s knowledge and users are more intent on filling out the claim than they are with creating or checking an ITF. Work is being done to improve this experience; we’ll link back to this when available. 
+
 From a policy perspective, we do not want to flood the system with duplicate ITFs or confuse users about their ITF date by creating a new ITF when we aren’t sure if one already exists. Therefore, we recommend not creating a new ITF if the GET service is unavailable. 
  
-Decision log 
+## Decision log 
 Multiple solutions were considered before coming to these recommendations, including: 
 •	Synchronous GET/POST calls, non-blocking and with a message to call the Contact Center if the service is down or erroring (the recommended solution). 
 •	Completely asynchronous process, resulting in emails or other communications to the Veteran for success (in certain circumstances) or for asynchronous process failure. 
