@@ -41,7 +41,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Color must not be the only way information is communicated, and all elements must have sufficient contrast against the page background and neighboring elements. Multiple tools exist for testing use of color and color contrast, but we recommend checking color pairings with [WhoCanUse](https://www.whocanuse.com/) and reviewing your product with the [Colorblindly extension for Google Chrome](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg). 
+        Color must not be the only way information is communicated, and all elements must have sufficient contrast against the page background and neighboring elements. Multiple tools exist for testing use of color and color contrast, but we recommend checking color pairings with [WhoCanUse](https://www.whocanuse.com/) and reviewing your product with the [Colorblindly extension for Google Chrome](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg). For teams building on the VA mobile app, you must also ensure proper use of color for all supported dark, contrast, and inverted color modes.
         
         We recommend that designers make accessible color choices before any code is written, and then double-check colors prior to staging review.
 
@@ -62,6 +62,8 @@ body:
         - label: Color is not the only way to distinguish links from other text (eg. links are underlined)
         - label: Any charts, maps, infographics, and tables convey all information without only relying on color
         - label: Content does not refer to color, especially when providing user instructions (eg. "Click the blue button")
+        - label: [Mobile app only] Color contrast ratios are met for all supported dark, contrast, and inverted color modes
+        - label: [Mobile app only] All elements retain their meaning for all supported dark, contrast, and inverted color modes.
   - type: textarea
     id: color-notes
     attributes:
