@@ -76,13 +76,15 @@ body:
   - type: markdown
     attributes:
       value: |
-        [axe by Deque Systems](https://www.deque.com/axe/) is our required automated testing tool, and is available as a [free browser extension for Chrome, Firefox, and Edge](https://www.deque.com/axe/browser-extensions/). Although automated testing can't detect all accessibility issues, axe is very good at detecting certain common problems in your code.
+        [axe by Deque Systems](https://www.deque.com/axe/) is our required automated testing tool. When building for VA.gov, use [axe DevTools as a free browser extension for Chrome, Firefox, and Edge](https://www.deque.com/axe/browser-extensions/). When building for the VA mobile app, use [axe DevTools for Mobile](https://docs.deque.com/devtools-mobile/2024.9.18/en/intro). Although automated testing can't detect all accessibility issues, axe is very good at detecting certain common problems in your code.
         
-        With the axe DevTools browser extension installed:
+        When building for the web with the axe DevTools browser extension installed:
         1. Right click on the page you're testing.
         2. Select "Inspect" to open your browser's developer tools.
         3. Select the "axe DevTools" tab.
         4. Select "Scan all of my page" to run axe.
+
+        When building for the VA mobile app, [follow Deque's documentation to run a test](https://docs.deque.com/devtools-mobile/2024.9.18/en/ios-run-test).
         
         We recommend that front-end engineers test using axe as part of their daily development to catch and resolve issues while coding, and then complete a comprehensive page-by-page scan prior to staging review.
         
@@ -99,13 +101,13 @@ body:
     attributes:
       label: axe checks
       options:
-        - label: Each page has been scanned using axe (results shared below)
+        - label: Each page or screen has been scanned using axe (results shared below)
         - label: axe is integrated into your end-to-end testing
   - type: textarea
     id: axe-issues
     attributes:
       label: axe DevTools scan results
-      description: Share any unresolved issues detected by axe, organized by URL tested. You don't have to tell us about anything that's not part of your product.
+      description: Share any unresolved issues detected by axe, organized by URL or name of screen tested. You don't have to tell us about anything that's not part of your product.
   - type: textarea
     id: axe-notes
     attributes:
