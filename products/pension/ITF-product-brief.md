@@ -5,13 +5,13 @@ VA has the concept of an Intent to File (ITF), which enables Veterans to establi
 
 The ITF is optional; in the event there is no ITF, the date of claim submission or receipt is typically used as the potential start date for benefits payments, although there are exceptions to this rule. However, regulations 38 CFR 5.155b  (excerpted below) allow  certain online, “interview style” forms to automatically file an ITF on behalf of the Veteran if they do not already have one. This function is mainly helpful for those who do not know to separately log an ITF if they’re planning to take time to gather evidence,  Veterans who do not start with a VSO,  or Veterans who take more than one session/one day to complete their online application. 
 
-Currently the forms affected are the 526ez (Disability compensation); 527ez (Veteran’s Pension); 0996 (Supplemental); the stand-alone 0966 (Intent to File); and Intent to File for VSO users (planned). 
-Intent to file is also applicable to Survivor’s Pension/DIC (Form 534) but that is not yet digitized on VA.gov and was not considered in the decisions below.  
-38 CFR 3.155b 
+Currently the forms affected are the 526ez (Disability compensation); 527ez (Veteran’s Pension); 0996 (Supplemental); the stand-alone 0966 (Intent to File); and Intent to File for VSO users (planned). Intent to file is also applicable to Survivor’s Pension/DIC (Form 534) but that is not yet digitized on VA.gov and was not considered in the decisions below.
+
+## [38 CFR 3.155b](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFR7629a1b1e9bf6f8/section-3.155#p-3.155(b)) 
 (1) An intent to file a claim can be submitted in one of the following three ways: 
 (i) Saved electronic application. When an application otherwise meeting the requirements of this paragraph (b) is electronically initiated and saved in a claims-submission tool within a VA web-based electronic claims application system prior to filing of a complete claim, VA will consider that application to be an intent to file a claim. 
  
-Tl;dr recommended pattern 
+## Tl;dr recommended pattern 
 For forms that automatically set ITFs, the recommended pattern is as follows: 
 New application/claim 
 1.	When a new form is started, make a synchronous call to check for an existing active ITF (GET). If no ITF exists, make a synchronous call to establish an ITF (POST).  
