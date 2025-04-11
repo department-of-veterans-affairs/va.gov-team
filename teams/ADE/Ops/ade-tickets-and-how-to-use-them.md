@@ -20,25 +20,41 @@
 | **Sub-Issues**                   | **It is important to show connectivity between tickets. This can be done through sub-issues.** </br></br>It is important to note that related tickets are no longer being tracked in “task lists in markdown,” due to the planned depreciation of GitHub “Task Lists” by GitHub in April 2025. </br></br>Instead, related tickets will be connected to tickets via sub-issues. <li>To connect an existing ticket, choose the drop-down from "create sub-issue" and select "add existing issue" <li>To connect a new issue, choose the drop-down from "create sub-issue" and select "create sub-issue," and select the respective template. |
 | **Supporting Artifacts**                   | Tickets also request supporting artifacts. ADE needs teams to include artifacts like product outlines, user flows, mockups and prototypes with links to screens/boards/sections to look at, in addition to user accounts for the scenarios provided to test. |
 
-</details>
-
 ## Ticket Types
 
-**There are two main types of tickets:**
+**There are three main types of tickets:**
+1. ADE Intake Requests
+2. ADE Work Ticket
+3. ADE Research Ticket
 
+<details><summary>Expand to view descriptions of the three main ticket types.</summary>
+    
 ### ADE Intake Requests
 - [This is the intake for teams to request collaboration with ADE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md).
-- During refinement, ADE will attach new work tickets to capture individual support tasks needed.
+    - During refinement, ADE will attach new work tickets to capture individual support tasks needed.
 - You will use the intake ticket to communicate with the product team/stakeholder and share any deliverables.
 ### ADE Work Ticket
-- This is the issue created by ADE, based on an intake or stakeholder request based on the [services we offer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/readme.md#services-we-offer), that outlines the specific work needed from an individual contributor (we have also called these "child" or "task" tickets).
-- Product teams can see work tickets attached to their intake, but these work tickets are for you to use.
-- You can add notes in comments to help you track your progress and move the ticket wherever in belongs in the status swim lanes described below.
+- These are ticket sub-issues created by ADE.
+    - These are based on an intake or stakeholder request stemming from our "menu" of [services we offer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/readme.md#services-we-offer).
+        - Our menu outlines the specific work needed from an individual contributor (we have also called these "child" or "task" tickets).
+    - Product teams can see work tickets attached to their intake, but these work tickets are for you to use.
+    - You can add notes in comments and checklists to help you track your progress and move the ticket wherever in belongs in the status swim lanes described below.
+### ADE Research Ticket
+- [This is the initial ticket for teams to request collaboration with ADE on research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md)
+    - This ticket can be opened as a standalone ticket, or be opened after or during an intake request
+    - During refinement, ADE will attach new research work tickets to capture individual support tasks needed, based on the selections made in the research ticket.
+        - If a pilot is requested, ADE will attach a pilot ticket to this research ticket.
+        - If AT research support takes place, a research feedback ticket will be opened by ADE for each issue found, and attached to the main research ticket. 
+
+</details>
 
 > [!NOTE]
-> - When a ticket is created, it automatically assigns `Lakwi` ‘Sara’ and `Martha` and adds the `ADE` label.
-> - This label triggers GitHub Projects to pull the ticket into ADE's view, and adds it to the `New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/1597/views/1).
-> - A ticket must have the `ADE` label to exist in GH Projects
+> When an ADE ticket is created it automatically assigns Lakwi, Sara and Martha and applies the `ADE` label.
+> - This label is vital, it triggers GitHub Projects to pull the ticket into ADE's GHP views, adding it to our project.
+> - A ticket must have the `ADE` label and live in the Accessibility DE Project, to become visible to the ADE Team. 
+> 
+> Upon the initial ticket save, the`New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/1597/views/1) is set.
+> - New intake tickets are also part of a Slack/GitHub integration, whereas a message is sent to the ADE team in DSVA Slack, by GitHub, notifying the entire team a new intake has arrived. This increases visibility for the team, and OCTO, for awareness and prioritization, prior to refinement. This is also used as the primary ticket thread for discussions in Slack.
 
 ## Work Ticket Templates
 
