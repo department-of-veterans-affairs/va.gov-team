@@ -1,4 +1,5 @@
 # Medallia feedback - 1Q 2025
+> for analysis of quantitative data via GA4, visit [Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/analytics/income-limits-analytics-2025.md#2025-income-limits-wizard-analytics)
 
 ## Summary
 Total number of responses: 46
