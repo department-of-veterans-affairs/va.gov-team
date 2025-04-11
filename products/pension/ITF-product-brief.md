@@ -37,8 +37,11 @@ Lighthouse is creating an endpoint to enable creation of a PID, which may be nee
 ## UX and policy considerations 
 Ideally, the user experience would:  
 •	Be as frictionless as possible.  
-•	Not block users from completing their application when the ITF service is unavailable. 
-•	Provide an alternate way to secure an ITF if the service is unavailable. 
+
+•	Not block users from completing their application when the ITF service is unavailable.
+
+•	Provide an alternate way to secure an ITF if the service is unavailable.
+
 •	Be transparent and clear about what we are doing, since the ITF is a concept users may know about or hear about out in the real world. 
 
 We know from research that ITF as a concept can be difficult for Veterans to understand, so clear, plain language content is key. We also know that the current implementation of the UX for the recommended path can feel abrupt because it reports the result of an action the system took without the user’s knowledge and users are more intent on filling out the claim than they are with creating or checking an ITF. Work is being done to improve this experience; we’ll link back to this when available. 
@@ -47,22 +50,28 @@ From a policy perspective, we do not want to flood the system with duplicate ITF
  
 ## Decision log 
 Multiple solutions were considered before coming to these recommendations, including: 
+
 •	Synchronous GET/POST calls, non-blocking and with a message to call the Contact Center if the service is down or erroring (the recommended solution). 
+
 •	Completely asynchronous process, resulting in emails or other communications to the Veteran for success (in certain circumstances) or for asynchronous process failure. 
+
 •	Dual synchronous and asynchronous process, where the GET and/or POST is first tried synchronously, then tried asynchronously if there was an error, with emails or other communications on ultimate success or failure.  
+
 The Portfolio has had issues with asynchronous processes in the past in that they can silently fail; to prevent silent failures, asynchronous solutions require additional engineering to ensure that the system knows if they fail (e.g., by polling) and additional pathways (e.g., emails or manual remediation) in the case that they do.  
+
 At the time of this decision, the error rate for synchronous ITFs was less than .1% for forms 526ez and 0995, and about 3.5% for form 527ez (see this ITF Datadog dashboard). The higher rate on the 527ez was found to be the result of a regular weekend system outage for maintenance, during which the 526ez and 0995 prevent users from continuing the form, but the 527ez form does not. In addition, the 526ez and 0995 check for the VA IDs needed for ITF creation prior to the form calling the ITF service, leading to fewer errors based on IDs (527ez allows LOA1 log ins and does not pre-check IDs before calling the service). 
-The decision was made not to take the additional steps to asynchronously correct errors because the additional engineering and maintenance did not seem warranted for such a small error rate, which is also lower than the OCTO standard.  
+The decision was made not to take the additional steps to asynchronously correct errors because the additional engineering and maintenance did not seem warranted for such a small error rate, which is also lower than the OCTO standard.
+
 We also considered the failure backup solution of generating a PDF and sending it to Central Mail Portal. However, we found out that it takes an average of a 12 days to get those PDFs into VBMS. It is much faster for Veterans to call the Contact Center. This solution also incurs potential for silent failure. 
 Here’ a long slack post (locked) about this issue that resulted in this document. 
  
-Potential future work 
+## Potential future work 
 Some options for future discovery and prioritization include the following: 
 •	Display the ITF in multiple places (such as on the confirmation page and in the Claims Status Tool) 
 •	Notify Veterans who have an in-progress form and an upcoming ITF expiration to encourage them to complete their claim. 
 •	We still have the open issue that if someone starts a form when the ITF service is down, does not call the Contact Center to establish their ITF, and then has a totally failed submission, they will miss out on having their submission date online substitute for their ITF. The failure email also tells people to call and establish an Intent to File. 
  
-Resources 
+## Resources 
 Here’s what VA.gov says about ITF (resources, About Form 0966). 
 Current ITF data and error rates are in this ITF Datadog dashboard. 
 ITF GET/POST from Lighthouse endpoint X.  
