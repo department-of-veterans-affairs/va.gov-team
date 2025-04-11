@@ -49,6 +49,7 @@ February 2025
 | Tablet | 18,441 	|	 5,258 	|	 12,109 	|	 137,467 	|	 43,888 	|	65%	|	1.90	|	2m 39s	|
 
 March 2025
+| Device	|	 Total users 	|	 Returning users 	|	 New users 	|	 Event count 	|	 Views 	|	Engagement rate	|	Views per session	|	Average session duration	|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |	Mobile| 646,858 	|	 185,512 	|	 452,859 	|	 4,440,621 	|	 1,317,365 	|	54%	|	1.526	|	2m 22s	|	 
 | Web | 664,628 	|	 275,238 	|	 365,725 	|	 6,035,158 	|	 1,932,871 	|	71%	|	1.88	|	4m 05s	|	
@@ -56,14 +57,14 @@ March 2025
 
  
 ### Health services 
-(based on click interactions on accordions)
+(based on expand interactions on accordions)
 
 <details>
 <summary> System level </summary>
 
-|	Metric	|	January 2025 | February 2025	| March 2025 | April 2025 | May 2025 | June 2025 | July 2025 | August 2025 | September 2025 | October 2025 | November 2025 | December 2025 | 
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:| 
-| Service ||||||||||||||
+|	Service	|	January 2025 | February 2025	| March 2025 | 
+|---|:---:|:---:|:---:|:---:|
+
 
 
 </details>
