@@ -75,49 +75,33 @@ Are there moments that matter?</summary>
 > Delete journeys not supported by this research.
 
 ## Research Goals 🥅	
-`What are you trying to learn from this research?` 
-
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
 
 ### Goals
 
-1. Learn about Veterans' expectations while filling out online forms for saving information before the form is submitted.
-
-2. Get user feedback on a revised design for "save in progress" messaging.
-
-3. TBD--Get user feedback on error messages and the progress bar while filling out online forms.
+1. (primary) Learn about Veterans' expectations for saving information while filling out an online form before the form is submitted.
+1. (primary) Get user feedback on a proposed design revision for "save in progress" and "finish this request later".
+1. (secondary) Get user feedback on error messages and the progress bar while filling out online forms.
   
 ### Outcome
-`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
----
-Findings and recommendations from this research will inform guidance and documentation for the "save in progress" feature that is present in most tools and forms on VA.gov. Matt Dingee asked ADE to help with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard thing that doesn't require any new designs.
+Findings and recommendations from this research will inform guidance and documentation for the "save in progress" feature that is present for authenticated users filling out forms on VA.gov. Matt Dingee asked ADE to help with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard pattern used by all teams.
 
----
+In addition, user feedback collected on "finish this request later", error messages, and the progress bar will be helpful for accessibility specialists advising VFS teams.
+
 
 ### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
-***Consider bucketing research questions under research goals and think about:***
-	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
+Research goal: Learn about Veterans' expectations for saving information while filling out an online form before the form is submitted.
+1. What experiences have Veterans had while filling out VA forms?
+1. Do Veterans expect that information will be saved while filling out an online form? (ask at end of session, not beginning)
 
-**`1.`[Enter Q1]**
+Research goal: Get user feedback on a proposed design revision for "save in progress" and "finish this request later".
+3. Are Veterans confident that their form data is being saved?
+1. Are Veterans able to stop working on a form and then go back to it later?
 
-**`2.`[Enter Q2]**
-
-**`3.`[Enter Q3]**
-
-**`4.`[Enter Q4]**
-
-**`5.`[Enter Q5]**
-
-> [!TIP]
->Enter more questions as needed
+Research goal: Get user feedback on error messages and the progress bar while filling out online forms.
+5. What reactions do Veterans have to error messages?
+1. What reactions do Veterans have to the progress bar? Do they notice it?
 
 ### Hypothesis
 > [!NOTE]
