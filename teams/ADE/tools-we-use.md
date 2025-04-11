@@ -12,9 +12,11 @@ The benefit of tools that integrate into browsers is that they give you the capa
 * [Axe DevTools](https://www.deque.com/axe/devtools/) - an accessibility testing toolkit developed by Deque, that integrates with your browser of choice, to scan entire pages or individual components. This is typically a highly preferred automated tool across the board.
 * *Additional tools* - while we rely on axe DevTools for most automated testing, here are some additional tools to consider:
   * [ArcToolkit](https://www.tpgi.com/) - a set of accessibility tools that aids developers in identifying accessibility problems and features for WCAG 2, EN 301 549, and Section 508
-  * [WAVE](https://wave.webaim.org/) - a web accessibility evaluation tool developed by WebAIM.org. It provides visual feedback about the accessibility of your web content
   * [IBM Equal Access Accessibility Checker](https://www.ibm.com/able/) - an open-source tool for web developers and auditors that utilizes IBM's accessibility rule engine, which detects accessibility issues for web pages and web applications.
   * [Accessibility insights for web](https://accessibilityinsights.io/docs/web/overview/) - a tool, similar to Axe and WAVE, that evaluates a page's semantic elements and styling
+
+> [!CAUTION]
+> [WAVE](https://wave.webaim.org/) - a web accessibility evaluation tool - is known to give false positives for [VA Design System components](https://design.va.gov/components/). **Don't use WAVE to test pages using VADS components.**
 
 ## Manual Testing Tools
 Manually interacting with content can help to fill in the gaps missed by automated testing. Included below is a good grouping of several different tools, so feel free to experiment with different combinations in your testing.
