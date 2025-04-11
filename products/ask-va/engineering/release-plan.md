@@ -123,10 +123,11 @@ Targeting Launch March 18-25th
 | B: 50% of Traffic <br>(Apr 1, 1:36pm - Apr 4, 10:43am)  | 696        | 1.4%                                    | 0%                                          | 0.7%                                          | <0.5%                         |                  | AVG 3.3s     |
 | C: 75% of Traffic<br>(Apr 4, 10:44am - Apr 9, 3:11pm)   | 1600       | 4.2%                                    | 0%                                          | <0.5%                                         | <0.5%                         |                  | AVG 4.7s     |
 | D: 100% of Traffic<br>(Apr 9, 3:12pm - Apr 10, 9:00am)  | 914        | 0%                                      | 0%                                          | <0.5%                                         | <0.5%                         |                  | AVG 4s       |
+| Post-Launch:<br>(Apr 10, 9:01 am – Apr 11, 9:00 am)     | 1,100      | 0%                                      | 0%                                          | 1%                                            | <0.5%                         |                  | AVG 4.1s     |
 
 
 #### Total
 
 | Time Range                     | Throughput | Error Rate: Form Submissions (422, 5xx) | Error Rate: Dashboard replies<br>(422, 5xx) | Error Rate:<br>Authorization Related<br>(401) | Error Rate:<br>Other<br>(404) | Latency:<br>vets-api | Latency:<br>CRM |
 | ------------------------------ | ---------- | --------------------------------------- | ------------------------------------------- | --------------------------------------------- | ----------------------------- | -------------------- | --------------- |
-| Mar 27 2:34pm - Apr 10, 9:00am | 3660       | 3.3%                                    | 0%                                          | <0.5%                                         | <0.5%                         |                      | AVG 4.5s        |
+| Mar 27 2:34pm - Apr 11, 9:00am | 4760       | 2.7%                                    | 0%                                          | 0.7%                                          | <0.5%                         |                      | AVG 4.5s        |
