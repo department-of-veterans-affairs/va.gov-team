@@ -7,7 +7,7 @@ The ITF is optional; in the event there is no ITF, the date of claim submission 
 
 Currently the forms affected are the 526ez (Disability compensation); 527ez (Veteran’s Pension); 0996 (Supplemental); the stand-alone 0966 (Intent to File); and Intent to File for VSO users (planned). Intent to file is also applicable to Survivor’s Pension/DIC (Form 534) but that is not yet digitized on VA.gov and was not considered in the decisions below.
 
-## [38 CFR 3.155b](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFR7629a1b1e9bf6f8/section-3.155#p-3.155(b)) 
+### [38 CFR 3.155b](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFR7629a1b1e9bf6f8/section-3.155#p-3.155(b)) 
 (1) An intent to file a claim can be submitted in one of the following three ways: 
 (i) Saved electronic application. When an application otherwise meeting the requirements of this paragraph (b) is electronically initiated and saved in a claims-submission tool within a VA web-based electronic claims application system prior to filing of a complete claim, VA will consider that application to be an intent to file a claim. 
  
