@@ -1,5 +1,7 @@
 # 2024 Income Limits Wizard Analytics
 
+> for analysis of qualitative feedback via Medallia, visit [1Q Medallia feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/analytics/1q2025-medallia.md#medallia-feedback---1q-2025)
+
 ## User and volume data
 
 ### January 2025
