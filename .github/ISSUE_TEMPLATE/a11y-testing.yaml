@@ -62,8 +62,8 @@ body:
         - label: Color is not the only way to distinguish links from other text (eg. links are underlined)
         - label: Any charts, maps, infographics, and tables convey all information without only relying on color
         - label: Content does not refer to color, especially when providing user instructions (eg. "Click the blue button")
-        - label: [Mobile app only] Color contrast ratios are met for all supported dark, contrast, and inverted color modes
-        - label: [Mobile app only] All elements retain their meaning for all supported dark, contrast, and inverted color modes.
+        - label: (Mobile app only) Color contrast ratios are met for all supported dark, contrast, and inverted color modes
+        - label: (Mobile app only) All elements retain their meaning for all supported dark, contrast, and inverted color modes
   - type: textarea
     id: color-notes
     attributes:
