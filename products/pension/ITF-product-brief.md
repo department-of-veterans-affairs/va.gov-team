@@ -76,7 +76,7 @@ Some options for future discovery and prioritization include the following:
 
  
 ## Resources 
-Here’s what VA.gov says about ITF ([resources](https://www.va.gov/resources/your-intent-to-file-a-va-claim/, About Form 0966). 
+Here’s what VA.gov says about ITF (https://www.va.gov/resources/your-intent-to-file-a-va-claim/, About Form 0966). 
 
 Current ITF data and error rates are in this [ITF Datadog dashboard](https://vagov.ddog-gov.com/account/login?next=%2Fdashboard%2Ftym-cck-5uw%2Fbenefits-itf-disabilitysupplemental%3FfromUser%3Dtrue%26refresh_mode%3Dsliding%26from_ts%3D1738006736048%26to_ts%3D1740685136048%26live%3Dtrue). 
 
