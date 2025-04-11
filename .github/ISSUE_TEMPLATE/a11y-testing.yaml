@@ -126,6 +126,8 @@ body:
         - No horizontal scrolling. (Exceptions: data tables, charts, and images.)
         
         To test content zoom and resizing, set your browser width to 1280 pixels and use `Ctrl +` or `Cmd +` to zoom in to 200%, 300%, and 400%.
+
+        When building for the VA mobile app, all text must remain legible when your device is set to scale text to the maximum possible size.
         
         We recommend that designers think about how content will resize and reflow in high-zoom situations prior to handing off to engineers. High-fidelity prototypes at high zoom aren't required, but designers may want to create low-fi wireframes for complex page layouts. Once coded, content zoom and reflow should be tested prior to staging review.
         
@@ -140,9 +142,10 @@ body:
     attributes:
       label: Content zoom and reflow checks
       options:
-        - label: All page elements are readable and usable at 200% zoom 
-        - label: All page elements are readable and usable at 300% zoom
-        - label: All page elements are readable and usable at 400% zoom
+        - label: (Web only) All page elements are readable and usable at 200% zoom 
+        - label: (Web only) All page elements are readable and usable at 300% zoom
+        - label: (Web only) All page elements are readable and usable at 400% zoom
+        - label: (Mobile app only) All page elements are readable and usable when device text is at the maximum possible size
   - type: textarea
     id: zoom-notes
     attributes:
