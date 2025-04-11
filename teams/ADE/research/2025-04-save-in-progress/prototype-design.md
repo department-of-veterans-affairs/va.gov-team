@@ -16,9 +16,7 @@ In addition, user feedback collected on "finish this request later", error messa
 
 ## Proposed design for user research (usability testing)
 
-Cindy and Jeana proposed this design and want to get feedback from Martha and the accessibility specialists CoP. 
-
-We want to **find out whether Veterans are confident that their form data is being saved** with the following two design changes:  
+Cindy and Jeana want to **learn whether Veterans are confident that their form data is being saved** with the following two design changes:  
 
 1. **NEW! Remove the green alert that currently displays after every save** (because it flashes on and off, and isn't read by screen readers due to its position below the Back and Continue buttons).
 
