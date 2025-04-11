@@ -1,8 +1,5 @@
 # 2024 Income Limits Wizard Analytics
 
-## CSAT Scores
-
-
 ## User and volume data
 
 ### January 2025
