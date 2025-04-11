@@ -15,6 +15,7 @@
 <details>
  <summary> Average combined experience score </summary>
 
+![image](https://github.com/user-attachments/assets/dd807bb7-3807-4662-a0ea-778a6b6007f4)
 
 
 </details>
@@ -33,18 +34,26 @@ via Drupal
 
 ## Summary data
 
-|	Metric	|	January 2025 | February 2025	| March 2025 | April 2025 | May 2025 | June 2025 | July 2025 | August 2025 | September 2025 | October 2025 | November 2025 | December 2025 | 
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:| 
-|	Total users |||||||||||||| 
-| % New users ||||||||||||||
-| % Returning users ||||||||||||||
-|	Total event count |||||||||||||| 		
-|	Total pageviews	|||||||||||||| 	
-| Engagement rate ||||||||||||||
-| Views per sessions ||||||||||||||
-| Average session duration |||||||||||||| 
+January 2025
+| Device	|	 Total users 	|	 Returning users 	|	 New users 	|	 Event count 	|	 Views 	|	Engagement rate	|	Views per session	|	Average session duration	|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Mobile |	 730,170 	|	 215,029 	|	 517,256 	|	 5,098,114 	|	 1,488,440 	|	56%	|	1.560	|	2m 28s	|
+| Web |  1,810,536 	|	 702,872 	|	 1,065,842 	|	 18,375,095 	|	 5,797,568 	|	72%	|	1.93	|	4m 09s	|
+| Tablet | 57,170 	|	 15,700 	|	 39,285 	|	 450,565 	|	 140,237 	|	66%	|	1.90	|	3m 18s	|
 
-</details>
+February 2025
+| Device	|	 Total users 	|	 Returning users 	|	 New users 	|	 Event count 	|	 Views 	|	Engagement rate	|	Views per session	|	Average session duration	|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Mobile	|	 619,840 	|	 179,955 	|	 437,406 	|	 4,138,501 	|	 1,235,230 	|	54%	|	1.559	|	2m 10s	|	 
+| Web | 616,372 	|	 266,213 	|	 327,725 	|	 5,772,659 	|	 1,848,124 	|	71%	|	1.96	|	4m 05s	|	 
+| Tablet | 18,441 	|	 5,258 	|	 12,109 	|	 137,467 	|	 43,888 	|	65%	|	1.90	|	2m 39s	|
+
+March 2025
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|	Mobile| 646,858 	|	 185,512 	|	 452,859 	|	 4,440,621 	|	 1,317,365 	|	54%	|	1.526	|	2m 22s	|	 
+| Web | 664,628 	|	 275,238 	|	 365,725 	|	 6,035,158 	|	 1,932,871 	|	71%	|	1.88	|	4m 05s	|	
+| Tablet | 19,765 	|	 5,650 	|	 12,827 	|	 145,206 	|	 45,660 	|	65%	|	1.87	|	2m 35s	|
+
  
 ### Health services 
 (based on click interactions on accordions)
