@@ -204,8 +204,6 @@ https://github.com/department-of-veterans-affairs/va.gov-team/issues/96761
 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88269)
 
 #### Zero Silent Failures
-TODO: Examples of failures before/after (is Kyle/Carbs working on this?)
-TODO: Policies 
 
 - Policies
    - Platform guidance [README](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/7914951c27729e288d4e3adef6b2c19fe800135b/platform/practices/zero-silent-failures/README.md) and [folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/7914951c27729e288d4e3adef6b2c19fe800135b/platform/practices/zero-silent-failures)
