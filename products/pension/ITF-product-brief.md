@@ -1,6 +1,6 @@
 # Intent to File Approach 
-## March 2025 
-## Introduction 
+### March 2025 
+### Introduction 
 VA has the concept of an Intent to File (ITF), which enables Veterans to establish a potential start date for benefit payments up to a year before they submit their claim. It is especially helpful for Veterans who expect to take some time to gather evidence to complete and submit a benefit claim, and want to maximize their opportunity for back pay. It is a common first step for VSOs to take on behalf of their Veteran clients for this reason.
 
 The ITF is optional; in the event there is no ITF, the date of claim submission or receipt is typically used as the potential start date for benefits payments, although there are exceptions to this rule. However, regulations 38 CFR 5.155b  (excerpted below) allow  certain online, “interview style” forms to automatically file an ITF on behalf of the Veteran if they do not already have one. This function is mainly helpful for those who do not know to separately log an ITF if they’re planning to take time to gather evidence,  Veterans who do not start with a VSO,  or Veterans who take more than one session/one day to complete their online application. 
