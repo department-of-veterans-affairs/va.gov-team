@@ -7,11 +7,11 @@ assignees: shiragoodman
 
 ---
 
-### SRE Team 2025 Vision Roadmap
+### Governance Team 2025 Vision Roadmap
 
 
 
-* [Roadmap]
+* 
 
 
 ### Sprint Goals
@@ -24,15 +24,19 @@ _Write a short description of your goal(s) for the sprint. This could be a sente
 ### Sprint Priorities
 
 Story points planned: [number of points]
+*Note: Collaboration Cycle support work is not included in planned estimate
 
 Story points completed: [number of points]
 
-####  Support Rotation or PTO
-*Note any team member on support or PTO this sprint and note which it is
+#### On-Support Rotation
 
-#### Epics & Issues</span>
+#### PTO
 
-*If you did not plan or complete work under any of the specific sections below, write *N/A* in place of an issue title. If you do not have any standalone epic work, remove that section.*
+#### In Progress Initiatives
+
+#### Tech Debt
+
+#### Collaboration Cycle Support
 
 #### Blockers / Dependencies
 *Document only notable blockers and/or dependencies that impact high priority work.*
@@ -46,33 +50,3 @@ Story points completed: [number of points]
 [Epic title](link)
 - [ ] [Issue title](link)
 
-
-Frontend CoP (*link to list of work with devops cop labels*)
-
-
-
-- [ ] [Issue title](link)
-
-Backend CoP (*link to list of work with devops cop labels*)
-
-
-
-- [ ] [Issue title](link)
-
-Support (link to any tickets that came through the support process originally. This does not include Tier 2 support.)
-
-
-
-- [ ] [Issue title](link)
-
-ATO contributing work (*link to list of work directly supporting our ATO*)
-
-
-
-- [ ] [Issue title](link)
-
-Unplanned work (*link to work brought into the sprint after sprint starts*) 
-
-
-
-- [ ] [Issue title](link)
