@@ -85,9 +85,6 @@ Non-VA patients who visit va.gov/my-health have access to the same information t
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
-
-<details>
 
 - Team Name: MHV Cartography Team, which may need to coordinate with MHV Medical Records team for the information. 
 - GitHub Label(s): 
@@ -98,9 +95,6 @@ Non-VA patients who visit va.gov/my-health have access to the same information t
 
 
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
-
-<details>
   
 - Office/Department: OCC
 - Contact(s): Theresa Hancock, Carnetta Scruggs
@@ -108,5 +102,3 @@ Non-VA patients who visit va.gov/my-health have access to the same information t
 </details>
 
 ---
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-ris
