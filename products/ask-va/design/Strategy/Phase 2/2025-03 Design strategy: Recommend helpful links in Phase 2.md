@@ -49,8 +49,7 @@ These steps focus on design work. We may add to or amend these next steps as we 
 |:--|:--|
 |Move question to the start of the form and consider any implications|[#1667](https://github.com/department-of-veterans-affairs/ask-va/issues/1667)|
 |Determine the right moment(s) to offer helpful links|[#1670](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=sprint%3A%22Sprint+47%22+label%3Adesign&pane=issue&itemId=2918596480&issue=department-of-veterans-affairs%7Cask-va%7C1670)|
-|Design page or component to offer helpful links or continue with form|[#1671](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=sprint%3A%22Sprint+47%22+label%3Adesign&pane=issue&itemId=2918597940&issue=department-of-veterans-affairs%7Cask-va%7C1671)|
-|Create prototype(s) to describe proposed helpful link approach|[#1672](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=sprint%3A%22Sprint+47%22+label%3Adesign&pane=issue&itemId=2918599032&issue=department-of-veterans-affairs%7Cask-va%7C1672)|
+|Create a prototype to describe approach to offering helpful links in the form|[#1671](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=sprint%3A%22Sprint+47%22+label%3Adesign&pane=issue&itemId=2918597940&issue=department-of-veterans-affairs%7Cask-va%7C1671)|
 
 ## References
 
