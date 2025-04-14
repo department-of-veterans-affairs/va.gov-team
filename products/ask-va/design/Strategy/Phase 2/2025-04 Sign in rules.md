@@ -163,7 +163,7 @@ An authenticated user lands on the home page. From the home page, they choose wh
 |:--|:--|
 |**Some inquiries are not in your dashboard**|This problem will persist but it is unlikely to get worse.|
 |**You feel deceived**|This would solve this problem because they will not be asked to stop and sign in.|
-|**Multiple clicks before you learn the rule**|Although you still have to go through 2-4 pages, you're not answering questions that are part of your submission. You would not need to re-answer any of these questions and/or remember your answers.|
+|**Multiple clicks before you learn the rule**|You still need to go through 2-4 pages and, in some cases, you need to re-answer questions after you sign in.|
 |**Start over**|This would solve this problem because you avoid needing to start over.|
 |**You can choose general question incorrectly**|This problem will persist but it is unlikely to get worse.|
 |**Deciding between personal or general**|This problem will persist in the form but happen up front and we think it is unlikely to get worse.|
