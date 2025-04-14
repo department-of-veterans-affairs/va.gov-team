@@ -1,6 +1,6 @@
 # Sign in rules
 
-Last updated by @tygindraux: April 10, 2025
+Last updated by @tygindraux: April 14, 2025
 
 This document describes sign in rules and scenarios for Ask VA. We also plan to include key concerns with the current sign in process and potential remedies.
 
@@ -272,4 +272,7 @@ This requires business line approval to only allow authenticated inquiries from 
 
 ### Back up strategy
 
-If it's not feasible to pursue business line approval right now, then we recommend [Idea 1: Sub task pattern](#idea-1-sub-task-pattern) as it's the only option that does not have this constraint. We also think it's worth exploring the technical feasibility of temporarily storing responses so that a submitter doesn't have to repeat steps after sign in. And analyzing production data to understand whether people are consistently choosing the right option for 'Who is your question about?'
+If it's not feasible to pursue business line approval right now, then we recommend [Idea 1: Sub task pattern](#idea-1-sub-task-pattern) as it's the only option that does not have this constraint. We also think it's worth exploring the technical feasibility of temporarily storing responses so that a submitter doesn't have to repeat steps after sign in. And analyzing production data to understand things like:
+- how often people are landing on a 'you need to sign in' interruption page
+- whether people are consistently choosing the right option for 'Who is your question about?'
+- how many people had to resubmit an inquiry due to choosing 'general' question incorrectly
