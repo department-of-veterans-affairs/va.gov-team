@@ -24,7 +24,7 @@ All background, historical, discovery, and status/maintenance documentation for 
 ## Find Forms Product Brief
 
 ### Overview
-[Forms overview topic dive](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/sitewide/topic-dives#71024---find-a-form)
+[Forms overview topic dive](https://dsva.slack.com/files/U03A58V9CDT/F08LZGYQDUG/va-forms-topic-dive.mp4)
 
 ### Problem Statement
 Search research indicates that the VA forms page consistently gets high organic search traffic. However it has almost no or very little conversion value. Because this page already gets high organic traffic and has high potential to provide better conversion:
