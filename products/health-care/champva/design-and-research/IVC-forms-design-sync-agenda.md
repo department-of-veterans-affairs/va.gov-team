@@ -3,7 +3,7 @@
 ## April 14 2025
 Attendees: Jamie Fiore, Jina Ryu, Amanda Klausmeier, Renata Keck, Andrea Merril, Mike Mooney
 
-- ### Agenda Topics
+### Agenda Topics
    - UX Roadmap Updates
    - Review CHAMPVA Claims progress and add to agenda for partners sync on Wednesday
    - FMP Direct deposit content updates
@@ -13,7 +13,42 @@ Attendees: Jamie Fiore, Jina Ryu, Amanda Klausmeier, Renata Keck, Andrea Merril,
 Medallia platform access?
      - What analysis tools are baked in?
      - Can we request January 2025 data?
- - ### Notes
+
+### Notes
+**CHAMPVA Claims progress**
+
+-   2 more submissions over the weekend, IVC has reached out to the processing team and will be confirming those submits were good before increasing to 50%
+-   A couple of fields in the form may need changes, but we will discuss this with CHAMPVA claims partners in our call later this week
+  
+**FMP direct deposit**
+
+-   Received comments and changes back from CAIA last week, and met with them on Friday. Jamie began making annotated changes to the Figma file last week.
+    -   New content changes are cross-referenced to Jina’s suggestions
+    -   **AI:** slight reword to the payments page, will reach out to the two content specialists who provided content changes to see if our suggested realignment can get approval. (Will check who to reach out to from the calendar invite last week - cc Jina on the thread)
+    -   **AI:** Jamie to update confirmation page language about [VA.gov](http://VA.gov) profile
+-   Unauth page has a note about currency conversion, should this be on the auth page?
+    -   **AI:** Add the currency conversion note to the auth page
+
+**Age-based logic for Medicare (10-10D)**
+
+-   Still need to confirm with engineers around stopping applications 65 and older who don’t add Medicare
+    -   **AI:** Going to noodle on adding a Part A only (and then adding the attestation upload) into the L&L
+-   10-10d medicare status quick fixes: Proposed standalone form changes while the team integrates the two forms. this would change the Medicare status question to “yes, enrolled”/“no, not eligible”/“no, but eligible” and making the upload page open to all cases. This should reduce restrictions to Medicare enrollment in the current standalone form.
+    -   **AI:** When complete, Jamie should tag Jina to dig into the proposed changes and provide async feedback
+-   Jina asks about eligibility requirements and whether we should discourage or remove applicants 65+ who are lacking required Medicare plans. CHAMPVA has asked that the form not boot out individuals who aren't eligible, but Renata mentions Max CFI team’s work as a way to inform applicants they may not be eligible. It creates necessary friction but does not stop the application process (applicant can continue even if they’re not necessarily eligible).
+    -   **AI:** Look at [Max CFI](https://www.figma.com/design/0Nlu5EEOMIyZYNoCCw7UfS/526---Max-CFI?node-id=1-342) approach for a way of notifying to notifying 65 and older applicants that they may not be eligible for CHAMPVA if they’re missing Medicare A+B
+
+**Supporting docs inventory**
+
+-   Jamie walks through the spreadsheet and Mural, sent over to CHAMPVA for review (currently waiting on their feedback)
+    -   **AI:** Added decision and “what happens if they don’t get this doc” columns to spreadsheet. Hitting pause on Mural until we get a response, and will use the spreadsheet as a decision record.
+**IVC team/OCTO process housekeeping**
+
+-   Jina’s review: team wants to clarify process and review steps so we're aligned
+    -   Team should continue to tag Jina in the design sync thread
+    -   **AI:** Tag Jina for AC in GHP tickets (“OCTO review”)
+-   Renata asks if it's possible to be granted Medallia access since the platform has some qualitative tagging features. Also recommends doing a 3 month snapshot of feedback. 
+    -   **AI:** Jina will look into granting Medallia access to Renata to do analysis of feedback. Agreed we will do a 3 month snapshot of user feedback, so whether or not access is granted, will be doing analysis of Jan-Mar 2025 data
   
 ## April 8 2025
 Attendees: Jamie Fiore, Jina Ryu, Amanda Klausmeier, Renata Keck, Andrea Merril, Mike Mooney, Rachel Pope
