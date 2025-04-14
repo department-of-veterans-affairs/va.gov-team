@@ -25,7 +25,7 @@ Slack for real-time feedback from observers.
 
 
 ## **Starting the session | 5 minutes**
-
+[There are 3 sessions where the participant is joining via phone.  If this is the case, you can still follow the same protocol to "allow" people into the Zoom.]
 * [Have your camera on]
 * Thank you for joining this session today! I first want to make sure that we're able to hear each other.  
 * [WAIT FOR RESPONSE]- if you can’t hear, [troubleshoot](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr#Troubleshootingresearchsessions-Problem:Usercannothearyou/youcan'thearthemonZoom) otherwise...]  
