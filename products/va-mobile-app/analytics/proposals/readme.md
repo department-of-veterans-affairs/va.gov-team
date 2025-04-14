@@ -14,12 +14,25 @@ OCTO would like to take this opportunity to recreate the dashboard in the VA-con
 
 ## Proposed plan of action
 
-1. Decide what we want to measure on the homescreen
-2. Make sure that data is in the app, if it isn't, put it in the app
-3. Assign an engineer currently on the team to build the MVP dashboard in PowerBI
+The mobile team took a few days to get access lined up for CXI and to investigate a rough level of effort for setting up a dashboard in PowerBI. While the process isn't wonderfully straightforward we believe we can get an MVP dashboard state up and running with the current engineering team.
+
+1. Decide what we want to measure on the homescreen, likely including data from Google Analytics and DataDog (1 sprint)
+2. Make sure that data is in the app, if it isn't, put it in the app (probably less than 1 sprint - maybe the same sprint as step 1)
+3. After data is beign actively collected in the app (released to production), assign an engineer currently on the team to build the MVP dashboard in PowerBI (1-2 sprints)
+
+## Questions
+
+1. Should Domo also be investigated as an option or are we locked into PowerBI?
+2. Will the Okta setup allow up to pull data into PowerBI from DataDog?
 
 ## Assumptions
 
 - Some of this data will need to come from DataDog, which requires a third party connector. I assume that isn't a problem, but something to note.
-- Post-MVP work might require staffing
+- Post-MVP work might require a person dedicated to data analytics/engineering
+- CXI is out of scope for MVP
+
+## Post MVP
+- Bringing the rest of the [mobile monthly metrics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/analytics#monthly-mobile-metrics) into a dashboard.
+- Data migration from BigQuery into CXI for historical data and custom queries
+
 
