@@ -266,87 +266,107 @@ Response when an appointment is found
   ]
 }
 ```
-### * POST `/vaos/v2/epsApi/draftReferralAppointment` (new?)
+### * POST `/vaos/v2/appointments/create_draft` (new)
 Request:
 ```
 {
-  "referralId": "add2f0f4-a1ea-4dea-a504-a54ab57c6800"
+  "referral_id": "add2f0f4-a1ea-4dea-a504-a54ab57c6800"
 }
 ```
 Response:
 ```
 {
-  "appointment": {
-    "id": "EEKoGzEf",
-    "state": "draft",
-    "patientId": "care-nav-patient-casey"
-  },
-  "provider": {
-    "id": "9mN718pH",
-    "name": "Dr. Bones @ FHA South Melbourne Medical Complex",
-    "isActive": true,
-    "individualProviders": [
+  "data": {
+    "id": "string",
+    "provider": {
+      "id": "string",
+      "name": "string",
+      "isActive": boolean,
+      "individualProviders": ["string"],
+      "providerOrganization": "string",
+      "location": {
+        "address": "string",
+        "latitude": number,
+        "longitude": number
+      },
+      "networkIds": ["string"],
+      "schedulingNotes": "string",
+      "appointmentTypes": [
+        {
+          "id": "string",
+          "name": "string",
+          "isSelfSchedulable": boolean
+        }
+      ],
+      "specialties": [
+        {
+          "id": "string",
+          "name": "string"
+        }
+      ],
+      "visitMode": "string",
+      "features": {
+        "isDigital": boolean
+      }
+    },
+    "slots": [ // Optional - Only included if available
       {
-        "name": "Dr. Bones",
-        "npi": "91560381x"
+        "id": "string",
+        "start": "ISO8601 datetime",
+        "end": "ISO8601 datetime"
       }
     ],
-    "providerOrganization": {
-      "name": "Meridian Health (Sandbox 5vuTac8v)"
-    },
-    "location": {
-      "name": "FHA South Melbourne Medical Complex",
-      "address": "1105 Palmetto Ave, Melbourne, FL, 32901, US",
-      "latitude": 28.08061,
-      "longitude": -80.60322,
-      "timezone": "America/New_York"
-    },
-    "networkIds": ["sandboxnetwork-5vuTac8v"],
-    "schedulingNotes": "New patients need to send their previous records to the office prior to their appt.",
-    "appointmentTypes": [
-      {
-        "id": "ov",
-        "name": "Office Visit",
-        "isSelfSchedulable": true
+    "driveTime": { // Optional - Only included if available
+      "origin": {
+        "latitude": number,
+        "longitude": number
+      },
+      "destination": {
+        "latitude": number,
+        "longitude": number
       }
-    ],
-    "specialties": [
-      {
-        "id": "208800000X",
-        "name": "Urology"
-      }
-    ],
-    "visitMode": "phone",
-    "features": {
-      "isDigital": true,
-      "directBooking": {
-        "isEnabled": true,
-        "requiredFields": ["phone", "address", "name", "birthdate", "gender"]
-      }
-    }
-  },
-  "slots": {
-    "count": 2,
-    "slots": []
-  },
-  "drivetime": {
-    "origin": {
-      "latitude": 40.7128,
-      "longitude": -74.006
-    },
-    "destination": {
-      "distanceInMiles": 313,
-      "driveTimeInSecondsWithoutTraffic": 19096,
-      "driveTimeInSecondsWithTraffic": 19561,
-      "latitude": 44.475883,
-      "longitude": -73.212074
     }
   }
 }
 ```
 ### * GET `/vaos/v2/appointments` (existing)
 ### * GET `/vaos/v2/appointments/{appointmentId}` (existing)
+* NOTE: this existing endpoint will be utilized for retrieving appointment details for an eps appointment through the use of a parameter flag *
+
+Request:
+```
+GET /vaos/v2/appointments/{id}?_include=eps
+```
+
+Response:
+
+```
+{
+  "data": {
+    "id": "string",
+    "type": "appointments",
+    "attributes": {
+      "id": "string",
+      "status": "string", // "booked" or "proposed"
+      "patientIcn": "string",
+      "created": "ISO8601 datetime",
+      "locationId": "string", // Optional
+      "clinic": "string", // Optional
+      "start": "ISO8601 datetime", // Optional
+      "contact": "string", // Optional
+      "referralId": "string", // Optional
+      "referral": { // Optional
+        "referralNumber": "string"
+      },
+      "providerServiceId": "string", // Optional
+      "providerName": "string" // Optional
+    }
+  }
+}
+```
+
 ### * GET `/vaos/v2/eps_appointments/{appointmentId}` (new)
+* NOTE: this endpoint will not be utilized for eps appointment details retrieval for referral appointment creation workflow but will instead use `/vaos/v2/appointments/{appointmentId}` as seen directly above *
 ```
 {
   "data": {
