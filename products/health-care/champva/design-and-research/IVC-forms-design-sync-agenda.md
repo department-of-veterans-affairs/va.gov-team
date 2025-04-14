@@ -1,5 +1,20 @@
 # Running Design and Research Agenda
 
+## April 14 2025
+Attendees: Jamie Fiore, Jina Ryu, Amanda Klausmeier, Renata Keck, Andrea Merril, Mike Mooney
+
+- ### Agenda Topics
+   - UX Roadmap Updates
+   - Review CHAMPVA Claims progress and add to agenda for partners sync on Wednesday
+   - FMP Direct deposit content updates
+   - Supporting Docs Inventory
+   - Age-based logic for Medicare (1010D)
+   - Jina’s review updates in the slack channel prior to the sync or before we close every ticket
+Medallia platform access?
+     - What analysis tools are baked in?
+     - Can we request January 2025 data?
+ - ### Notes
+  
 ## April 8 2025
 Attendees: Jamie Fiore, Jina Ryu, Amanda Klausmeier, Renata Keck, Andrea Merril, Mike Mooney, Rachel Pope
 
