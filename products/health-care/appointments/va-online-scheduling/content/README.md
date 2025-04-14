@@ -1,5 +1,9 @@
 # Appointments Content
 
+Appointments content has moved to the [feature reference in Figma](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=2772-11859&t=3RZ0v3FwABfUjGEI-1)
+
+<!--
+
 Appointments content is in the pages that follow and the [platform scheduling content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/appointments-content-brief.md).
 
 [Shared content across pages](./shared-content.md)
@@ -101,4 +105,6 @@ Appointments content is in the pages that follow and the [platform scheduling co
 | 8 | [Contact information](./schedule-va-covid.md#contact-information) | 
 | 9 | [Review and submit](./schedule-va-covid.md#review-and-submit) | 
 | 10 | [Confirmation details](./schedule-va-covid.md#confirmation-details) | 
+
+-->
 

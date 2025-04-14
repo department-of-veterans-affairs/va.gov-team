@@ -3,7 +3,7 @@ name: VAOS Test Issue Template
 about: For filing issues with VAOS tests or testing infrastructure
 title: ''
 labels: appointments, needs-grooming, testing
-assignees: JRRoof
+assignees: ''
 
 ---
 
