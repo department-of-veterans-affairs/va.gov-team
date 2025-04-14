@@ -22,8 +22,7 @@ The mobile team took a few days to get access lined up for CXI and to investigat
 
 ## Questions
 
-1. Should Domo also be investigated as an option or are we locked into PowerBI?
-2. Will the Okta setup allow up to pull data into PowerBI from DataDog?
+1. Will the cost of integrating DataDog into PowerBI be supported or should we try to avoid it?
 
 ## Assumptions
 
