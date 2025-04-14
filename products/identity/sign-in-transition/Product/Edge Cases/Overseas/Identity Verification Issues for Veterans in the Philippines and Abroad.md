@@ -1,12 +1,14 @@
 # Identity Verification Issues for Veterans in the Philippines and Abroad
 **Edge cases:** 2\_1,  2\_2,  2\_3,  2\_4,  2\_5,  2\_6  
 **Created**: 9 April 2025  
-**Last Updated:** 10 April 2025   
+**Last Updated:** 14 April 2025   
 **Contributors:** Matthew Declercq
 
 ## Situation
 
-Veterans living in the Philippines and other countries outside the US actively face challenges as they attempt to verify their identity and access VA services. Currently, ID.me stands as the sole service that verifies identities outside the US. Veterans actively navigate a specific international verification process, uploading either two primary documents or one primary document alongside two secondary ones, adhering to NIST-defined document standards. Following the upload, Veterans connect with an ID.me trusted referee through a video call. Beyond this demanding verification process, Veterans overseas encounter unusually high issues with SMS-based multi-factor authentication (MFA). Throughout the secure sign-in transition, the VA actively collaborates with staff at the Manila Outpatient Clinic to tackle issues and lower verification barriers for Veterans. As of January 21, 2025, 49.22% of Veterans in Manila still actively need to switch to modern credentials.
+Veterans living in the Philippines and other countries outside the US actively face challenges as they attempt to verify their identity and access VA services. Currently, ID.me stands as the sole service that verifies identities outside the US. Veterans actively navigate a specific international verification process, uploading either two primary documents or one primary document alongside two secondary ones, adhering to NIST-defined document standards. Following the upload, Veterans connect with an ID.me trusted referee through a video call. Beyond this demanding verification process, Veterans overseas encounter unusually high issues with SMS-based multi-factor authentication (MFA). Throughout the secure sign-in transition, the VA actively collaborates with staff at the Manila Outpatient Clinic to tackle issues and lower verification barriers for Veterans. 
+
+As of April 14, 2025, the percentage of Veterans in Manila who still actively need to switch to modern credentials has decreased to 38%, down from 49.22% in January.
 
 ## Summary of Support Efforts to Date
 
