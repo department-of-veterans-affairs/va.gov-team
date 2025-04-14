@@ -15,7 +15,7 @@
 ### Outcomes
 
 Validate whether the following mobile app features will be valuable and usable for Veterans.
-* A unified Debt Portal displaying both VHA and VBA debt details and statements
+* A Debt Portal displaying both VHA and VBA debt details and statements
 * The ability to make payments toward both VHA and VBA debts
 * A form for disputing debts
 * Access to all available debt letters
@@ -24,6 +24,9 @@ Assess user interest in the inclusion of:
 * Financial Status Report: full report
 * Financial Status Report: streamlined
 * One VA Debt Letter
+
+Determine how to organize different types of debt: keep them separate (as VBA and VHA currently are on the web), or introduce a combined portal which shows all types together (including any future types of debt added).
+
 
 
 
