@@ -27,6 +27,7 @@ The mobile team took a few days to get access lined up for CXI and to investigat
 
 ## Assumptions
 
+- Since PowerBI is windows-only and the team is mac-only all this work will have to be done on a virtual machine
 - Some of this data will need to come from DataDog, which requires a third party connector. I assume that isn't a problem, but something to note.
 - Post-MVP work might require a person dedicated to data analytics/engineering
 - CXI is out of scope for MVP
