@@ -12,7 +12,7 @@
 
 `4.` **Understand Veterans’ needs for requesting help with debt.**
   
-### Outcome
+### Outcomes
 
 Validate whether the following mobile app features will be valuable and usable for Veterans.
 * A unified Debt Portal displaying both VHA and VBA debt details and statements
