@@ -9,6 +9,8 @@ This folder contains documentation related our design strategy during Phase 2.
 |2025-02|[Follow-up email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-02%20Follow-up%20email.md)|Outlines our plan to send a follow-up email to every submitter after a question is marked solved.|
 |2025-03|[Design strategy: Categories, topics and subtopics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-03%20Design%20strategy%3A%20Categories%2C%20topics%20and%20subtopics%20in%20Phase%202.md)|Describes our strategy for categories, topics and subtopics in Phase 2.|
 |2025-03|[Design strategy: Recommend helpful links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-03%20Design%20strategy%3A%20Recommend%20helpful%20links%20in%20Phase%202.md)|Describes a new strategy to recommend helpful links while submitters fill out the form.|
+|2025-04|[Sign in rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-04%20Sign%20in%20rules.md)|Describes sign in rules, key issues and potential solutions.|
+|2025-04|[Status update](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-04%20Status%20update.md)|Provides a status update on design initiatives January through May 2025.|
 
 ## Questions?
 
