@@ -2,7 +2,6 @@
 #### Overview
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 Non-VA patients who visit va.gov/my-health have access to the same information they were able to access on MHV Classic - self-entered health information and DOD military service infromation - easily and without having to look around.  They should be informed of their new experience on MHV on VA.gov and how to sign-up for VA healthcare if they choose.
 
 **Related/Associated product(s)**
