@@ -330,8 +330,10 @@ Response:
 }
 ```
 ### * GET `/vaos/v2/appointments` (existing)
+* NOTE: Will include eps appointments unless a vaos appointment for a given referral is already returned in the collection.
+
 ### * GET `/vaos/v2/appointments/{appointmentId}` (existing)
-* NOTE: this existing endpoint will be utilized for retrieving appointment details for an eps appointment through the use of a parameter flag *
+* NOTE: this existing endpoint will be utilized for retrieving appointment details for an eps appointment through the use of a parameter flag
 
 Request:
 ```
@@ -366,7 +368,7 @@ Response:
 ```
 
 ### * GET `/vaos/v2/eps_appointments/{appointmentId}` (new)
-* NOTE: this endpoint will not be utilized for eps appointment details retrieval for referral appointment creation workflow but will instead use `/vaos/v2/appointments/{appointmentId}` as seen directly above *
+* NOTE: this endpoint will not be utilized for eps appointment details retrieval for referral appointment creation workflow but will instead use `/vaos/v2/appointments/{appointmentId}` as seen directly above
 ```
 {
   "data": {
@@ -434,20 +436,87 @@ Response:
   }
 }
 ```
-### * POST `/vaos/v2/epsApi/appointments` (existing)
+### * POST `/vaos/v2/appointments/submit_referral_appointment` (existing)
 Request:
 ```
 {
-  "referralId": "add2f0f4-a1ea-4dea-a504-a54ab57c6800",
-  "slotId": "5vuTac8v-practitioner-1-role-2|e43a19a8-b0cb-4dcf-befa-8cc511c3999b|2025-01-02T15:30:00Z|30m0s|1736636444704|ov1",
-  "draftApppointmentId": "EEKoGzEf"
+  "id": "string", // Required - Draft appointment ID
+  "network_id": "string", // Required
+  "provider_service_id": "string", // Required
+  "slot_ids": ["string"], // Required - Array of slot IDs
+  "referral_number": "string", // Required
+  "birth_date": "string", // Optional
+  "email": "string", // Optional
+  "phone_number": "string", // Optional
+  "gender": "string", // Optional
+  "address": { // Optional
+    "type": "string",
+    "line": ["string"],
+    "city": "string",
+    "state": "string",
+    "postal_code": "string",
+    "country": "string",
+    "text": "string"
+  },
+  "name": { // Optional
+    "family": "string",
+    "given": ["string"]
+  }
 }
 ```
 Response:
 ```
 {
   "data": {
-    "appointmentId": "EEKoGzEf"
+    "id": "string",
+    "provider": {
+      "id": "string",
+      "name": "string",
+      "isActive": boolean,
+      "individualProviders": ["string"],
+      "providerOrganization": "string",
+      "location": {
+        "address": "string",
+        "latitude": number,
+        "longitude": number
+      },
+      "networkIds": ["string"],
+      "schedulingNotes": "string",
+      "appointmentTypes": [
+        {
+          "id": "string",
+          "name": "string",
+          "isSelfSchedulable": boolean
+        }
+      ],
+      "specialties": [
+        {
+          "id": "string",
+          "name": "string"
+        }
+      ],
+      "visitMode": "string",
+      "features": {
+        "isDigital": boolean
+      }
+    },
+    "slots": [ // Optional - Only included if available
+      {
+        "id": "string",
+        "start": "ISO8601 datetime",
+        "end": "ISO8601 datetime"
+      }
+    ],
+    "drivetime": { // Optional - Only included if available
+      "origin": {
+        "latitude": number,
+        "longitude": number
+      },
+      "destination": {
+        "latitude": number,
+        "longitude": number
+      }
+    }
   }
 }
 ```
