@@ -150,3 +150,4 @@
 | 148 | [Support for common Login.gov and ID.me issues](https://www.va.gov/resources/support-for-common-logingov-and-idme-issues/) | VA account and profile | 12/24/24 |
 | 149 | [Getting prescriptions and vaccines at a non-VA pharmacy](https://www.va.gov/resources/getting-prescriptions-and-vaccines-at-a-non-va-pharmacy/) | Health care | 2/27/25 |
 | 150 | [What to do if you haven’t switched to Login.gov or ID.me yet](https://www.va.gov/resources/what-to-do-if-you-havent-switched-to-logingov-or-idme-yet/) | Health care | 3/6/25 |
+| 151 | [Is my type 2 diabetes a presumptive condition?](https://www.va.gov/resources/is-my-type-2-diabetes-a-presumptive-condition/) | Disability | 4/15/25 |
