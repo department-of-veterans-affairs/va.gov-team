@@ -207,6 +207,11 @@ The way we close tickets matters in our reporting. There are multiple steps outl
 
 [^5]: **Anchor links and collapsed sections:** Anchor links will not activate on a collapsed details section, unless it is expanded on the page. In this example, be sure to expand the collapsed details section "Expand to review the detailed ticket-closing process" to activate the anchor links above it. 
 
+> [!TIP]
+> Be sure to move your ticket to `closed` during or by the end of the sprint in which the work was completed.
+> - The sprint should be listed as well in the GHP sprint field.
+> - If you don't end up closing a ticket, you will want to adjust the sprint in the ticket.
+> - Use this [GHP view of open past, current and next sprints](https://github.com/orgs/department-of-veterans-affairs/projects/1597/views/45), to adjust any open tickets to the correct sprint.
 
 ### Closure Process for ADE Team Members
 
@@ -283,9 +288,6 @@ When closing a ticket with a VFS Team, please add a link to our feedback survey 
 </details>
 
 [^6]: **Tickets on Multiple GHP Boards:** For tickets that are shared across multiple GHP boards, there are some automation considerations. When closing the ticket via the "close issue" button (located under the comments) it changes the ticket from open to closed. This closes the ticket on every, board that is attached to the ticket, because it is the official GitHub state. Flipping the status from "in progress" to "closed" for example, within the ADE GitHub project board dropdown, will only impact our GHP views., thus keeping the ticket open for others, and us "technically" in GitHub. When all teams are done on the ticket, someone (from any team) can close out the ticket officially. While open, this ticket will not show on our GitHub API export as closed, it will show as open.
-
-> [!TIP]
-> - Be sure to move your ticket to `closed` during or by the end of the sprint in which the work was completed.
 
 
 
