@@ -44,6 +44,6 @@ Nearly 40% of all traffic to VA.gov comes from users on their mobile devices. Th
 
 
 ## Release Cycle
-VA Mobile App Release Cycle: https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Releases/
+VA Mobile App Release Calendar: https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Releases/
 
 Because VSP's Collaboration Cycle is designed for web features, the VA Mobile App team is going to leverage parts of the process that make sense for mobile and create other quality control processes where it doesn't. For example, the VA Mobile App team is creating its own Accessibility review that is tailored to mobile devices.
