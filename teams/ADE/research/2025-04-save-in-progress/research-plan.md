@@ -1,5 +1,5 @@
 
-# Research Plan for 2025-04 Save in Progress research study 
+# Research Plan for 2025-04 SiP research study 
 
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
@@ -205,7 +205,7 @@ We want to recruit both screen reader users and signed users.
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-AT and non-AT users
+AT (screen readers and screen magnifiers) and non-AT users
 people who have filled out VA forms online before, and those who have not
 
 - `[Place primary criteria here between hash marks when in edit mode]`
