@@ -143,6 +143,17 @@ In February 2024, there was an effort to update our 526 Domo dashboard to captur
  - [Submission Experience Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md)
  - [Update PTSD 0781 to be aligned with new form version](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Update%20PTSD%200781%20to%20be%20aligned%20with%20new%20form%20version.md)
 
+#### Zero Silent Failures
+
+- Policies
+   - Platform guidance [README](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/7914951c27729e288d4e3adef6b2c19fe800135b/platform/practices/zero-silent-failures/README.md) and [folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/7914951c27729e288d4e3adef6b2c19fe800135b/platform/practices/zero-silent-failures)
+   - [526ez SOP (Standard Operating Procedure)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/monitors/%5BZSF%5D%20DBEX%20Teams%20SOP%20(Standard%20Operating%20Procedure)%20for%20monitor%20and%20alert%20response.md)
+   - [ZSF Playbooks for DataDog Monitors ](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/7914951c27729e288d4e3adef6b2c19fe800135b/teams/benefits/playbooks/526/monitors)
+   - [526ez ZSF Maps and Legends](https://github.com/department-of-veterans-affairs/va.gov-team/tree/063028d3460706414e19b66a7aa52dd9b4ec9482/products/disability/526ez/ZSF)
+   - ZSF Email [reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/063028d3460706414e19b66a7aa52dd9b4ec9482/products/disability/526ez/ZSF/ZSF%20Emails.md) and [templates](https://www.figma.com/design/ANLAv8rGhPjGjs1Kxl8M9U/526-%2F-ZSF-%2F-Email-Templates?node-id=250-32880&t=yYChKtK1nMFVJvKX-0)
+- Examples/Miscellaneous
+   - [How State Enabled 'Zero Silent Failures' for the 526 Form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/how_state_enabled_ZSFs_for_526.md) by Samuel T. Stuckey, Esq.
+
 ## Engineering
 #### Github Repos
 
@@ -204,17 +215,6 @@ https://github.com/department-of-veterans-affairs/va.gov-team/issues/96761
 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88843)
    - [Remove hard-coded text from Q16, Column 3 #88269
 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88269)
-
-#### Zero Silent Failures
-
-- Policies
-   - Platform guidance [README](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/7914951c27729e288d4e3adef6b2c19fe800135b/platform/practices/zero-silent-failures/README.md) and [folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/7914951c27729e288d4e3adef6b2c19fe800135b/platform/practices/zero-silent-failures)
-   - [526ez SOP (Standard Operating Procedure)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/monitors/%5BZSF%5D%20DBEX%20Teams%20SOP%20(Standard%20Operating%20Procedure)%20for%20monitor%20and%20alert%20response.md)
-   - [ZSF Playbooks for DataDog Monitors ](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/7914951c27729e288d4e3adef6b2c19fe800135b/teams/benefits/playbooks/526/monitors)
-   - [526ez ZSF Maps and Legends](https://github.com/department-of-veterans-affairs/va.gov-team/tree/063028d3460706414e19b66a7aa52dd9b4ec9482/products/disability/526ez/ZSF)
-   - ZSF Email [reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/063028d3460706414e19b66a7aa52dd9b4ec9482/products/disability/526ez/ZSF/ZSF%20Emails.md) and [templates](https://www.figma.com/design/ANLAv8rGhPjGjs1Kxl8M9U/526-%2F-ZSF-%2F-Email-Templates?node-id=250-32880&t=yYChKtK1nMFVJvKX-0)
-- Examples/Miscellaneous
-   - [How State Enabled 'Zero Silent Failures' for the 526 Form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/how_state_enabled_ZSFs_for_526.md) by Samuel T. Stuckey, Esq.
  
 ## Other Related
 |Title|Description|Link|Version|
