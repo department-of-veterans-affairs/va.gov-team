@@ -102,12 +102,10 @@ Research goal: Get user feedback on a proposed design revision for "save in prog
 
 1. Do Veterans think that their form data is being saved? If so, how do they know?
 1. Are Veterans able to stop working on a form and go back to it later? If so, how do they do it?
-Are Veterans confident that their form data is being saved?
-1. 
 
 Research goal: Get user feedback on error messages and the progress bar while filling out online forms.
 
-5. What reactions do Veterans have to error messages? Do they know what they mean and how to fix the problem?
+5. What reactions do Veterans have to error messages? Do they know what the error messages mean and how to resolve them?
 1. What reactions do Veterans have to the progress bar? Do they notice it?
 
 ### Hypothesis
