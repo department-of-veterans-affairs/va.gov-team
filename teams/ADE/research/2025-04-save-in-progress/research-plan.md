@@ -102,6 +102,8 @@ Research goal: Get user feedback on a proposed design revision for "save in prog
 
 1. Do Veterans think that their form data is being saved? If so, how do they know?
 1. Are Veterans able to stop working on a form and go back to it later? If so, how do they do it?
+1. Do Veterans notice the alert about saving on the form intro page?
+1. Do Veterans notice the text about saving on the first page of the form below the progress stepper>?
 
 Research goal: Get user feedback on error messages and the progress bar while filling out online forms.
 
