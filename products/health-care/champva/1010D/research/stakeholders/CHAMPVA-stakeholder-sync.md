@@ -1,6 +1,63 @@
 ## CHAMPVA biweekly stakeholder sync
 Every other Tuesday at 10:35am ET
 
+## **04/15/25 CHAMPVA biweekly call**
+
+**Attendees:** Andrea, Angela C., Angela P., Jamie, Gina, Elizabeth L., Ballard, Rachel P., Arleen, Renata, Amanda K.
+
+**Agenda**
+
+-   Review supporting docs inventory
+-   Supporting docs questions
+
+
+**Review supporting docs inventory**
+
+-   Walkthrough of the spreadsheet and why we’re asking for this clarification
+-   Updates to the inventory (captured below)
+    -   High level: OHI Cert and Medicare are the most essential documents to provide, but other docs are potentially searchable in other VA programs like DEERS, Share and VBMS. There is always a chance the docs are missing, so we need to direct Veterans to go to their regional office to add dependents to their file to reduce erroneous denials.
+-   Elizabeth notes most Veterans want to add their dependents when their benefits/ratings go up. We may want to add verbiage around adding dependents and spouse **before** applying for CHAMPVA.
+-   Once a Veteran is in the system, their file never goes away — even a denial is established and retained, and updated as eligibility or beneficiaries are added/removed.
+    -   The model is that the Veteran makes the dependent eligible.
+    -   Most of the time it’s written on the paperwork if a dependent is natural-born or adopted.
+
+
+**Supporting docs questions**
+
+-   **School cert:** Required at the time of application.
+    -   Q: Is that form/letter being updated?
+        -   A: Angela P. is working on that but it hasn’t been sent in for updates. The verbiage for the school cert is the only thing being updated. It’s not really a substantial update.
+    -   On the fact sheet/form: incorrect that the school has to submit the letter, the applicant can (and should) submit it, as long as the school cert is on letterhead and signed/dated by a school official.
+-   **OHI Cert:** _every single_ beneficiary needs the OHI cert, it’s not one for the whole family
+-   **Medicare:** Jamie explains the work we’re doing around the new L&L for the integrated 10-10d/OHI form
+    -   Q: How often does someone 65+ eligible for Medicare without it (or only has Part A) who apply?
+        -   A: It’s uncommon - most folks have both, or upload Part A only. They receive a denial if they do not provide evidence of both Parts A+B or the disallowance letter
+    -   NB: At a recent event there’s confusion about not being able to have CHAMPVA if they have Medicare, period (repeat of what was discussed last week, but a good reminder that this is why we’re reviewing the Medicare L&L logic)
+-   **Remarriages:** Remarriage cert required for a new sponsor -
+    -   Q: If an applicant remarries a Veteran who is an eligible sponsor, do they need to send in a new marriage certificate?
+        -   A: It’s very helpful, otherwise it has to be looked up in VBMS to confirm they’re eligible under the program
+    -   Q: What happens if they don’t send it in?
+        -   A: We go look in Share and VBMS, but if there’s no proof in those systems, the applicant isn’t eligible for CHAMPVA and they’re sent a denial. It still has to be verified.
+    -   Q: What happens if an applicant doesn’t file divorce and remarriage papers but just reapplies?
+        -   If those documents are in Share/VBMS and are updated in the system, it’s easy. This does happen all the time.
+        -   Notes this isn’t a brand new app but technically is updating and adding to the existing file.
+-   **Legal separation/divorce:** Form 684 could be in VBMS, but not necessarily.
+-   **Birth cert for step children:** Required. The step-childrens’ address must be the same as the Veteran’s to be eligible. The birth date may or may not be available in VBMS.
+-   **Adopted dependents:** Required. Adoption papers/birth cert (if available) must be verified. If the adoption papers aren’t available VBMS or Share, the dependent is not considered eligible.
+-   **Natural born dependents:** Not needed if the dependent is listed in Share.
+-   **Original marriage cert (if sponsor passed):** Not required, in VBMS
+-   **VBA rating decision letter:** Not required, 99% of the time it’s available in VBMS
+
+**Action items**
+
+-   Finalize Medicare L&L based on updated eligibility information
+-   Update and finalize supporting docs inventory (to live in team GH repo)
+-   Consider content changes to the CHAMPVA application pages to address Medicare confusion (and how to add a dependent via VRO)
+-   Scope/backlog exploration of a single OHI Cert per family rather than one form per person (Note: mocks of a potential solution were already completed [in Figma](https://www.figma.com/design/sSPoS7R9HE6ZlxRESRy2ms/Other-Health-Insurance-Certification--10-7959c--Form?node-id=710-22638&p=f&t=tbU5tkCrfvZwcw4P-0))
+
+**For next meeting:** We'll need to talk about the open field text option for applicant relationship to sponsor. We are hoping to get paper/digital form on same page with VES. VES right now does not allow for free form text, but both paper and digital form do allow for it.
+
+
 ## **04/01/25**
 Attendees: Andrea, Angela C, Jamie, Amanda, Elizabeth, Angela P, Rachel, Jina, Arleen, Premal, Renata, Mike, Erick, Ballard, Arleen, Alexandria
 
