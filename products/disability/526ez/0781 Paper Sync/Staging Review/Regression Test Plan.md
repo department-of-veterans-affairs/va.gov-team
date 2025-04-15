@@ -19,3 +19,8 @@ The results/report can be seen below:
 <TODO add>
 
 In additon to these TestRail tests, we have also introduced multiple end-to-end cypress tests, and many unit tests in both the frontend and backend.
+
+
+# Traceability Reports
+
+According to our testing, 100% of the high-level, critical use-cases are represented in our test plan. In addition to the high-level requirement, many more detailed specifics are covered by unit tests and cypress tests. In addition to TestRail, Unit test, and Cypress tests, manual end-to-end testing has taken place ensuring document flows through all systems as expected. 
