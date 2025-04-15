@@ -31,9 +31,9 @@ The following table covers common terms used by ADE and their definitions. They 
 ## Ticket Types
 
 **There are three main types of tickets:**
-1. ADE Intake Requests
-2. ADE Work Ticket
-3. ADE Research Ticket
+1. [ADE Intake Requests](#ADE-Intake-Requests)
+2. [ADE Work Ticket](#ADE-Work-Ticket)
+3. [ADE Research Ticket](#ADE-Research-Ticket)
 
 <details><summary>Expand to view descriptions of the three main ticket types.</summary>
     
@@ -41,6 +41,7 @@ The following table covers common terms used by ADE and their definitions. They 
 - [This is the intake for teams to request collaboration with ADE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md).
     - During refinement, ADE will attach new work tickets to capture individual support tasks needed.
 - You will use the intake ticket to communicate with the product team/stakeholder and share any deliverables.
+    - This intake ticket becomes the container for all the work that takes place, relating to this request. 
 ### ADE Work Ticket
 - These are ticket sub-issues created by ADE.
     - These are based on an intake or stakeholder request stemming from our "menu" of [services we offer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/readme.md#services-we-offer).
@@ -57,12 +58,16 @@ The following table covers common terms used by ADE and their definitions. They 
 </details>
 
 > [!NOTE]
+> ### Ticket Creation Automation
 > When an ADE ticket is created it automatically assigns Lakwi, Sara and Martha and applies the `ADE` label.
 > - This label is vital, it triggers GitHub Projects to pull the ticket into ADE's GHP views, adding it to our project.
-> - A ticket must have the `ADE` label and live in the Accessibility DE Project, to become visible to the ADE Team. 
-> 
-> Upon the initial ticket save, the`New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/1597/views/1) is set.
-> - New intake tickets are also part of a Slack/GitHub integration, whereas a message is sent to the ADE team in DSVA Slack, by GitHub, notifying the entire team a new intake has arrived. This increases visibility for the team, and OCTO, for awareness and prioritization, prior to refinement. This is also used as the primary ticket thread for discussions in Slack.
+>     - A ticket must have the `ADE` label and live in the Accessibility DE Project, to become visible to the ADE Team.
+>     - The `ADE Intake` label is only present on parent tickets aka intakes aka epics.
+>     - Upon the initial ticket save, the `New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/1597/views/1) is set.
+> #### ADE Notifications
+> - New intake tickets are also part of a Slack/GitHub integration, whereas a message is sent to the ADE team in DSVA Slack, by GitHub, notifying the entire team a new intake has arrived.
+> - This increases visibility for the team, and OCTO, for awareness and prioritization, prior to refinement.
+> - This is also used as the primary ticket thread for discussions in Slack.
 
 
 ## Work Ticket Templates
