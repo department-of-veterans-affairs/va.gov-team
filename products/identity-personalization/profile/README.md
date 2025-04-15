@@ -100,7 +100,7 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 ### Current projects
 
-Current projects are actively managed in the AE Profile Github project, the chart below is not as actively managed. See [this page of the project for the roadmap by phase](https://github.com/orgs/department-of-veterans-affairs/projects/926/views/39), or see [this page for a classic gantt chart roadmap](https://github.com/orgs/department-of-veterans-affairs/projects/926/views/10). 
+Current projects are actively managed in the AE Profile Github project, the chart below is not as actively managed. See [this page for the roadmap priority ranked (profile and MyVA share the same roadmap](https://github.com/orgs/department-of-veterans-affairs/projects/1174/views/57). 
 
 
 
