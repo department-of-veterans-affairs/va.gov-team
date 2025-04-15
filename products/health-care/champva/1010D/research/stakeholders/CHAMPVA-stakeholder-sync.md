@@ -1,7 +1,7 @@
 ## CHAMPVA biweekly stakeholder sync
 Every other Tuesday at 10:35am ET
 
-## **04/15/25 CHAMPVA biweekly call**
+## **04/15/25**
 
 **Attendees:** Andrea, Angela C., Angela P., Jamie, Gina, Elizabeth L., Ballard, Rachel P., Arleen, Renata, Amanda K.
 
