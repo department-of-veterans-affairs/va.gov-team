@@ -2,13 +2,13 @@
 
 ----
 
-# Product Outline: Disability Compensation Application (Form 526)
+# Product Outline: Disability Compensation Application (Form 526) 📘
 
 - GitHub Label: disability-experience
 - Slack channel: #benefits-disability
 - VA.gov link: /disability/file-disability-claim-form-21-526ez/introduction
-- Product Roadmap: [DBEX Roadmap 2024](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?wid=9-1736197249937)
-- Demo video link: n/a
+- ⭐ Product Roadmap: [DBEX Roadmap 2024](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?wid=9-1736197249937) ⭐
+- ⭐ 526ez Walkthrough video link: [526EZ UX 101](https://dvagov.sharepoint.com/sites/vaabdvro/_layouts/15/stream.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience%2F%5F%5FContract%20Transition%20Documentation%2FOnboarding%20Training%20Videos%2F526EZ%20UX%20101%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3ae350a%2D0c47%2D4b0b%2Da84a%2Dfd88920c7f6d) ⭐
 - [Test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-claims.md)
 - Keywords: disability compensation, 21-526EZ, all claims, increase only
 - Product repo: [va.gov-team/tree/master/products/disability/526ez ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
@@ -41,7 +41,7 @@
 - [21-4502 (Auto Allowance & Adaptive Equipment Application)][21-4502]
 
 
-## Team 
+## Team 👥
 Government Stakeholders:
 - Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
 - Comp Services policy and process partners: Paul Schute (paul.shute@va.gov)
@@ -71,17 +71,17 @@ Team 2 🍞
 - Engineering: Kyle Soskin, Nathan Burgess, Scott Regenthal, Alison Jones, JR Reed
 - Delivery: Amy Plange
 
-# Quick links
+# Quick links 🔗
 
-## Product
+## Product 🧭
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
-|Disability Benefits Folder|Sharepoint documentation|[Link](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72)| 
+|⭐️ Disability Benefits Folder ⭐️|Sharepoint documentation|[Link](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72)| 
 |Idea board|List of ideas, scoping and prioritization| [Link ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=0-1680617210045&sender=u1dc3a1dc47390e0b38d61593)|Feb 2023|
 |Stakeholder Map|Stakeholder map for Disability Claim Submission via 526|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1740676248932/c5880a877bbc25cc4e3b0bad0defd3faa336e872)||
 |Zenhub board|Backlog for Disability Experience product started in Feb 2023. Decommissioned end of 2024 |[Link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)|Feb 2023|
-|Github board|Backlog for Disability Experience product. Replaced Zenhub board|[Team 1 Link](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2)|
-|Decision Log|#disability-benefits Slack Canvas which includes product decisions|[Link](https://dsva.slack.com/docs/T03FECE8V/F0592RKEHK4?focus_section_id=temp:C:AWP86339a077348496d8f363acf8)|
+| ⭐️ Github board ⭐️ |Backlog for Disability Experience product. Replaced Zenhub board|[Team 1 Link](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2)|
+| ⭐️ Decision Log ⭐️ |#disability-benefits Slack Canvas which includes product decisions|[Link](https://dsva.slack.com/docs/T03FECE8V/F0592RKEHK4?focus_section_id=temp:C:AWP86339a077348496d8f363acf8)|
 |Staging|Login to Staging site for va.gov|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/staging-login-instructions.md)||
 |526 sitemap|Shows flows and screenshots|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1680211466282/0b44cead253b62f1fde2dbed4a83a1345764b56d?wid=8-1682631266214&sender=u2905941a69b3083a009c9997)||
 |Older 526ez Process Flow Diagram|End to end process flow for core submission created by Lighthouse team|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1663868736153/1040f1c6df6230104917bdff6e5e157264ef9153?sender=u9943b9a042c336e83bb20590)||
@@ -91,13 +91,13 @@ Team 2 🍞
 |Platform Tools|List of each VA tool and how to obtain access|[Link](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools)||
 |Model/Flow Board|Mural board for flow diagrams related to 526ez|[Link](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1683913843847?sender=u1dc3a1dc47390e0b38d61593&key=32140ed2-e82d-492a-b0b0-a77fe6a993ee)||
 |Issue Management Strategy|Defines rubric for assessing issues for severity as well strategy for addressing them|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=1-1683888631128)||
-|526 Flow-Active| Most up to date 526 application flow| [Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686768383603/3f4415dd2ddb71bbd104ebefd92a2c7b553ad792)| November 2023|
+| ⭐️ 526 Flow-Active ⭐️ | Most up to date 526 application flow| [Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686768383603/3f4415dd2ddb71bbd104ebefd92a2c7b553ad792)| November 2023|
 |526 Feature briefs | Feature briefs for new initiatives | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/product/feature-briefs)
 |Team Carbs Story Mapping | Team 2's 2024 initiatives | [Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718308823134/02c2c9ea74f16b276692af8f31eb65202acc7928)
 |Disability Release Plans | Disability experience team-docs release plans | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans)|
 |Collab Cycle Tickets|Records of interactions with the collaboration cycle|[Github Board Link](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/2?filterQuery=disability+experience)|
 
-## First Read
+## First Read 📂
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
 |Humans of VA|Overview of the organizations in which our teams and collaborators sit, as well as an introduction to key stakeholders in benefits service delivery|[Link](https://docs.google.com/presentation/d/1YAFq_Cx82sH_mPFPRbVxFMWp1Vtz6vykROYxrSeka0Q/edit?usp=sharing)|Jan 2023|
@@ -108,13 +108,13 @@ Team 2 🍞
 |Veteran personas|From Veteran Experience Office includes ten personas and additional tools|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)|May 2016, current as of 2022|
 |Veteran personas and 526 use cases|Connects VA veteran personas with 526 use cases and experiences|[Link]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/personausecases.md))|March 2023|
 
-## Design & Research
+## Design & Research 🎨
 
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
 |Design Folder in Github|Design Documentation for 526ez|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/design)|
 |Sharepoint Research folder|Research Documentation in Sharepoint|[Link](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?e=5:0f5e8995f1784d9aa59021cdc4776530&sharingv2=true&fromShare=true&CID=d7176fa1-c0b0-7000-6dfa-f91eba2b481a&cidOR=SPO&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&isAscending=true&id=/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/5%20-%20Research%20and%20Design&sortField=LinkFilename&viewid=3fa7a9bb-3d4e-44c2-b93f-629268a08e72)|
-|Summary of past 526ez Research | Includes research from 2016-2021, from VEO 2023, and heuristic evaluation 2022|[Sharepoint Link](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?e=5%3A0f5e8995f1784d9aa59021cdc4776530&sharingv2=true&fromShare=true&CID=d7176fa1%2Dc0b0%2D7000%2D6dfa%2Df91eba2b481a&cidOR=SPO&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&isAscending=true&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience%2F5%20%2D%20Research%20and%20Design%2F2016%2D2021%20Research&sortField=LinkFilename&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72)|Feb 2023|
+| ⭐️ Summary of past 526ez Research ⭐️ | Includes research from 2016-2021, from VEO 2023, and heuristic evaluation 2022|[Sharepoint Link](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?e=5%3A0f5e8995f1784d9aa59021cdc4776530&sharingv2=true&fromShare=true&CID=d7176fa1%2Dc0b0%2D7000%2D6dfa%2Df91eba2b481a&cidOR=SPO&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&isAscending=true&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience%2F5%20%2D%20Research%20and%20Design%2F2016%2D2021%20Research&sortField=LinkFilename&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72)|Feb 2023|
 |Introduction (Landing) Page Redesign Research | Evaluative research for the Landing Page drop off rates discovery| [SharePoint Link](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?e=5%3A0f5e8995f1784d9aa59021cdc4776530&sharingv2=true&fromShare=true&CID=d7176fa1%2Dc0b0%2D7000%2D6dfa%2Df91eba2b481a&cidOR=SPO&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&isAscending=true&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience%2F5%20%2D%20Research%20and%20Design%2F2023%2D05%20Introduction%20%28Landing%29%20Page%20Redesign%20Research&sortField=LinkFilename&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) | May 2023|
 |Toxic Exposure Usability Testing (Parity) Research | Evaluative research for the new TE feature| [GitHub Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-07-Toxic-Exposure) | July 2023|
 |526ez Form Shadowing Research | Shadowing research for the 526 application| [GitHub Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-11-Shadowing-Research)<br> [SharePoint Link](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?e=5%3A0f5e8995f1784d9aa59021cdc4776530&sharingv2=true&fromShare=true&CID=d7176fa1%2Dc0b0%2D7000%2D6dfa%2Df91eba2b481a&cidOR=SPO&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&isAscending=true&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience%2F5%20%2D%20Research%20and%20Design%2F2023%2D09%20Shadowing%20Veterans%20Research&sortField=LinkFilename&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72)|Nov 2023|
@@ -133,29 +133,31 @@ In February 2024, there was an effort to update our 526 Domo dashboard to captur
 |MVP Metrics for 526ez|Github document with overview on metrics like exit rate|[link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/MVP-Metrics-526.md)|March 3, 2025|
 |526 Analytics - Calculating Drop-off Rates|Github document with deep-dive into drop-off rates|[link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/526Analytics.md)|March 25, 2024|
 
+## Features/Initiatives 🚀
 
-
-## Features/Initiatives
-
- - [Toxic Exposure Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Toxic%20Exposure%20Brief.md)
- - [5103 Equivalent Language Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/5103%20Equivalent%20Language%20Brief.md)
- - [Signature Component Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Signature%20Component%20Brief.md)
- - [Provide a Copy of Submission Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/provide-a-copy-pdf.md)
- - [Submission Experience Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md)
- - [Update PTSD 0781 to be aligned with new form version](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Update%20PTSD%200781%20to%20be%20aligned%20with%20new%20form%20version.md)
+| Feature Brief | Link |
+|-------|------|
+| Toxic Exposure Brief | [View](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Toxic%20Exposure%20Brief.md) |
+| 5103 Equivalent Language Brief | [View](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/5103%20Equivalent%20Language%20Brief.md) |
+| Signature Component Brief | [View](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Signature%20Component%20Brief.md) |
+| Provide a Copy of Submission Brief | [View](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/provide-a-copy-pdf.md) |
+| Submission Experience Brief | [View](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md) |
+| Update PTSD 0781 to be aligned with new form version | [View](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Update%20PTSD%200781%20to%20be%20aligned%20with%20new%20form%20version.md) |
 
 #### Zero Silent Failures 0️⃣
 
-- Policies
-   - Platform guidance [README](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/7914951c27729e288d4e3adef6b2c19fe800135b/platform/practices/zero-silent-failures/README.md) and [folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/7914951c27729e288d4e3adef6b2c19fe800135b/platform/practices/zero-silent-failures)
-   - [526ez SOP (Standard Operating Procedure)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/monitors/%5BZSF%5D%20DBEX%20Teams%20SOP%20(Standard%20Operating%20Procedure)%20for%20monitor%20and%20alert%20response.md)
-   - [ZSF Playbooks for DataDog Monitors ](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/7914951c27729e288d4e3adef6b2c19fe800135b/teams/benefits/playbooks/526/monitors)
-   - [526ez ZSF Maps and Legends](https://github.com/department-of-veterans-affairs/va.gov-team/tree/063028d3460706414e19b66a7aa52dd9b4ec9482/products/disability/526ez/ZSF)
-   - ZSF Email [reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/063028d3460706414e19b66a7aa52dd9b4ec9482/products/disability/526ez/ZSF/ZSF%20Emails.md) and [templates](https://www.figma.com/design/ANLAv8rGhPjGjs1Kxl8M9U/526-%2F-ZSF-%2F-Email-Templates?node-id=250-32880&t=yYChKtK1nMFVJvKX-0)
-- Examples/Miscellaneous
-   - [How State Enabled 'Zero Silent Failures' for the 526 Form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/how_state_enabled_ZSFs_for_526.md) by Samuel T. Stuckey, Esq.
+| Category | Title/Description | Link |
+|----------|--------------------|------|
+| **Policies** | Platform guidance README | [README](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/7914951c27729e288d4e3adef6b2c19fe800135b/platform/practices/zero-silent-failures/README.md) |
+|  | Platform guidance folder | [Folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/7914951c27729e288d4e3adef6b2c19fe800135b/platform/practices/zero-silent-failures) |
+|  | 526ez SOP (Standard Operating Procedure) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/monitors/%5BZSF%5D%20DBEX%20Teams%20SOP%20(Standard%20Operating%20Procedure)%20for%20monitor%20and%20alert%20response.md) |
+|  | ZSF Playbooks for DataDog Monitors | [Link](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/7914951c27729e288d4e3adef6b2c19fe800135b/teams/benefits/playbooks/526/monitors) |
+|  | 526ez ZSF Maps and Legends | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/063028d3460706414e19b66a7aa52dd9b4ec9482/products/disability/526ez/ZSF) |
+|  | ZSF Email reference | [Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/063028d3460706414e19b66a7aa52dd9b4ec9482/products/disability/526ez/ZSF/ZSF%20Emails.md) |
+|  | ZSF Email templates (Figma) | [Templates](https://www.figma.com/design/ANLAv8rGhPjGjs1Kxl8M9U/526-%2F-ZSF-%2F-Email-Templates?node-id=250-32880&t=yYChKtK1nMFVJvKX-0) |
+| **Examples / Miscellaneous** | How State Enabled 'Zero Silent Failures' for the 526 Form (by Samuel T. Stuckey, Esq.) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/how_state_enabled_ZSFs_for_526.md) |
 
-## Engineering
+## Engineering ⚙️
 #### Github Repos 
 
 - 💻= clone locally for local development 
@@ -198,32 +200,27 @@ Engineering research | Discovery and/or technical approach documents from engine
 |Engineering Audit/Inventory|A list of engineering documents and a storehouse for documents saved in a non-standard format|[SharePoint folder](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Engineering/Audit%20and%20Inventory?csf=1&web=1&e=ZCN3CN)|01/31/25|
 #### Tech Debt 💰
 
-➡️ We recommend starting with [this product backlog of tickets](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?sliceBy%5Bvalue%5D=Transition+Tickets+%28recommendations%29). 
+➡️ We recommend starting with [this product backlog of tickets](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?sliceBy%5Bvalue%5D=Transition+Tickets+%28recommendations%29).
 
-- Follow-up tickets for 0781 Reporting
-   - [[0781 PS] add Reporting to cron tasks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106931)
-   - [[0781 PS] add 0781 Reporting metrics to dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106932)
-- Cypress bug next steps:
-https://github.com/department-of-veterans-affairs/va.gov-team/issues/106879
-- Toxic Exposure Date Fixes:
-   - [Add date range validation (different work from changing validations to accept year or year/month)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84305)
-   - [Toxic Exposure: Partial dates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92713) (might not need this one)
-   - [Release existing frontend Toxic Exposure date branch](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?pane=issue&itemId=105932830&issue=department-of-veterans-affairs%7Cva.gov-team%7C107273)
-- [Tech Discovery- add in destructive modals for TE flow - could be done concurrently with Christine's story](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107285)
-- App Isolation:
-https://github.com/department-of-veterans-affairs/va.gov-team/issues/96761
-- Next steps for Submission Experience emails: https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?pane=issue&itemId=80582244&issue=department-of-veterans-affairs%7Cva.gov-team%7C93365
-- Miscellaneous Items
-   - [User submissions failed due to empty disabilities array - frontend investigation & fix #96290](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96290)
-   - [Fix primary path success scope to include polling #93593](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93593)
-   - [Remove legacy EVSS/LH branching in submission service + additional refactorings #100089
-](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100089)
-   - [Expand test coverage on TE Lighthouse submit requests #88843
-](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88843)
-   - [Remove hard-coded text from Q16, Column 3 #88269
-](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88269)
+| Category                  | Description                                                        | Link |
+|---------------------------|--------------------------------------------------------------------|------|
+| **0781 Reporting**        | Add Reporting to cron tasks                                       | [#106931](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106931) |
+|                           | Add 0781 Reporting metrics to dashboard                           | [#106932](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106932) |
+| **Cypress Bugs**          | Next steps for Cypress bugs                                       | [#106879](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106879) |
+| **Toxic Exposure Date Fixes**  | Add date range validation (different work from changing validations to accept year or year/month) | [#84305](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84305) |
+|                           | Toxic Exposure: Partial dates (might not need this one)           | [#92713](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92713) |
+|                           | Release existing frontend Toxic Exposure date branch              | [Link](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?pane=issue&itemId=105932830&issue=department-of-veterans-affairs%7Cva.gov-team%7C107273) |
+| **Tech Discovery**        | add in destructive modals for TE flow - could be done concurrently with Christine's story | [#107285](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107285) |
+| **App Isolation**         | Epic for application isolation                                    | [#96761](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96761) |
+| **Submission Experience** | Next steps for Submission Experience emails                       | [Link](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?pane=issue&itemId=80582244&issue=department-of-veterans-affairs%7Cva.gov-team%7C93365) |
+| **Miscellaneous**         | User submissions failed due to empty disabilities array - frontend investigation & fix | [#96290](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96290) |
+|                           | Fix primary path success scope to include polling                 | [#93593](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93593) |
+|                           | Remove legacy EVSS/LH branching in submission service + additional refactorings | [#100089](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100089) |
+|                           | Expand test coverage on TE Lighthouse submit requests             | [#88843](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88843) |
+|                           | Remove hard-coded text from Q16, Column 3                         | [#88269](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88269) |
+
  
-## Other Related 
+## Other Related 🗂️
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
 |526ez Application|Online and paper version of the disability benefits claim form |[PDF](https://www.vba.va.gov/pubs/forms/vba-21-526ez-are.pdf)<br>[Online](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction)||
