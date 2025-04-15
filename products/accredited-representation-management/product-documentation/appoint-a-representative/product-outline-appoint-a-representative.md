@@ -1,4 +1,4 @@
-# **Product Outline: Appoint a Representative**
+# **Product Outline: Appoint a Representative (VA Forms 21-22 and 21-22a)**
 
 Team: Accredited Representation Management
 
