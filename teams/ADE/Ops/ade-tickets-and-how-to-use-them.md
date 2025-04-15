@@ -8,6 +8,7 @@
 - This document details how to create, update, and close an ADE ticket, ensuring all the custom field data is correctly entered.
 - Use the outline (hamburger menu) in this document to view and navigate the different sections. 
 ## ADE Github Terms and Definitions
+The following table covers common terms used by ADE and their definitions.
 | **Term** | Definition |
 |------------------------|------------------|
 | **Repository**                   |     A place where a project’s files, version history, and resources live. ADE operates in the VA.gov-team repository.| 
