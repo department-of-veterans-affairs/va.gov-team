@@ -5,8 +5,20 @@
 
 ## Overview
 
-- This document details how to create, update, and close an ADE ticket, ensuring all the custom field data is correctly entered.
-- Use the outline (hamburger menu) in this document to view and navigate the different sections. 
+This document details how to create, update, and close an ADE ticket, ensuring all the custom field data is correctly entered.
+
+### Navigating this Page
+- **Option 1:** Use the outline (hamburger menu) in this document to view and navigate the different sections 
+- **Option 2:** Use the anchor links below:
+    - [ADE GitHub Terms and Definitions](##ADE-Github-Terms-and-Definitions)
+    - [Ticket Types](##Ticket-Types)
+    - [Work Ticket Templates](##-Work-Ticket-Templates)
+    - [Ticket Status](##Ticket-Status)
+    - [Closing Tickets](##Closing-Tickets)
+ - **Option 3:** Utilizing assistive technology, use the headlings map. 
+
+<hr> 
+
 ## ADE Github Terms and Definitions
 The following table covers common terms used by ADE and their definitions. They are ordered from high-level information to more granular information. 
 | **Term** | Definition |
@@ -186,58 +198,91 @@ The ticket status shows where work is in the ADE pipeline and provides an overvi
   - **OCTO** - tickets created by OCTO leadership - usually audit work
 </details>
 
-## Closing tickets
-The way we close tickets matters to our reporting, but we have different steps to complete, due to the range of ticket types and discipline setups on our team. 
+## Closing Tickets
+The way we close tickets matters in our reporting. There are multiple steps outlined below, due to the range of ticket types and discipline areas we cover. [^5]
+- [Documentation](#Documentation)
+- [GitHub Project Fields](#GitHub-Project-Fields)
+- [GitHub Labels](#GitHub-Labels)
+- [Feedback Survey](#Feedback-Survey)
 
-### Closure process for team members
+[^5]: **Anchor links and collapsed sections:** Anchor links will not activate on a collapsed details section, unless it is expanded on the page. In this example, be sure to expand the collapsed details section "Expand to review the detailed ticket-closing process" to activate the anchor links above it. 
 
-- Confirm that all work tickets attached to an intake are closed
-- If a ticket is not ready for closure, add a comment explaining why and next steps, and move the ticket to an active status swimlane (such as In Progress or Blocked)
-- Add closed intakes and their attached work tickets to the [ADE Closed Tickets spreadsheet](https://docs.google.com/spreadsheets/d/1IBt-C2nXK9uDMPvFdQ_SEEx6WNJ8ms3gKVkuEVlns0U/edit?gid=860336617#gid=860336617) in the relevant sprint tab. Complete all columns, Martha will complete the applicable OKR column.
-- Fields: We want to make sure that all of the GitHub Projects fields are updated/completed when closing a ticket.
-    - Status: Closed
-    - [Originator/Team](https://github.com/orgs/department-of-veterans-affairs/projects/1597/settings/fields/164855280)
-    - Open Date
-    - Closed Date
-    - Estimate
-    - Actual
-    - Priority (should be set by Martha)
-    - Sprint (you are closing the ticket)
-    - Last checked
-The ticket in GitHub proper should reflect as closed as well, in addition to the status in GHP.
 
-- Labels: When closing we will want to make sure the tickets have the appropriate labels.
-    - **ADE** (required for all ADE tickets)
-    - **ADE Transition** (internal label for transition from CAIA)
+### Closure Process for ADE Team Members
+
+<details><summary>Expand to review the detailed ticket-closing process.</summary>
+    
+#### Documentation
+- [x] **GitHub**: Confirm that all work tickets attached to an intake are closed
+    - [x] If a ticket is not ready for closure, add a comment explaining why and next steps [^6]
+        - [x] Next, move the ticket to an active status swimlane (such as `In Progress` or `Blocked`)
+- [x] **Spreadsheet**: Add closed intakes and their attached work tickets to the [ADE Closed Tickets spreadsheet](https://docs.google.com/spreadsheets/d/1IBt-C2nXK9uDMPvFdQ_SEEx6WNJ8ms3gKVkuEVlns0U/edit?gid=860336617#gid=860336617) in the relevant sprint tab.
+    - [x] Complete all columns [^7]
+    - [x] Martha will complete the applicable OKR column
+
+#### GitHub Project Fields
+We want to make sure that all of the GitHub Project fields are updated/completed when closing a ticket. Those fields currently include (and are subject to change): 
+- **Status**: Closed
+- [**Originator/Team**](https://github.com/orgs/department-of-veterans-affairs/projects/1597/settings/fields/164855280)[^7]
+- **Open Date** (the date the ticket was opened)
+- **Closed Date** (the date the ticket is being closed)
+- **Estimate** (estimated work effort needed to complete this ticket)
+- **Actual** (actual work effort utilized to complete this ticket)
+- **Priority** (should be set by Martha)
+- **Sprint** (you are closing the ticket)
+- **Last checked**(update throughout the ticket's lifespan and upon closing)
+The ticket in GitHub proper should reflect as closed as well, in addition to the status in GHP.[^6]
+
+[^7]: **Missing Team:** If a team is missing from GitHub's `originator/team` field drop-down or from the ADE Closed Tickets Spreadsheet originator/team drop-down field, please let us know, and we can add that team and update our team tracking sheet as well. VFS Teams are constantly changing, so please relay this information as soon as it becomes available. 
+
+#### GitHub Labels 
+
+When closing we will want to make sure the tickets have the appropriate labels for reporting, in addition to filtering, sorting, slicing, grouping, etc. in GitHub. Access the **ADE Label Source of Truth** by [searching for labels with the term: ADE in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/labels?q=ADE). All ADE labels will begin with the acronymn ADE. 
+- **ADE** (**required** for all ADE tickets)
+- **ADE Labels: General**
     - **ADE Intake** (present on all intake tickets)
     - **ADE Office Hours** (to track office hours requests)
     - **ADE MHV** (any ADE support provided to MHV work)
     - **ADE Research** (required for all ADE research tickets)
-    - **ADE Research Feedback** (for tracking feedback/findings provided to VFS teams)
+        - **ADE Research Feedback** (for tracking feedback/findings provided to VFS teams)
+    - **ADE Transition** (internal label for transition from CAIA)
+- **Collaboration Cycle ADE Labels**
     - **ADE CC AN** (assistance needed for collab cycle work)
-        - The stage ADE began work with the VFS team going through the collaboration cycle: 
-            - **ADE CC - PO Sync**
+        - **The stage ADE began work with the VFS team going through the collaboration cycle:**
+            - **ADE CC - PO Sync** (kickoff/po sync)
             - **ADE CC - DI** (design intent)
             - **ADE CC - MP** (midpoint)
             - **ADE CC - STG** (staging)
-            - **ADE CC NAN** (no assistance needed with the collab cycle)
-        - **ADE 508 AUDIT**
-            - **ADE 508 AN**
-            - **ADE 508 FLAG CRITICAL**
-            - **ADE 508 FLAG HIGH**
-            - **ADE 508 FLAG MEDIUM**
-            - **ADE 508 FLAG LOW**
-            - **ADE 508 RECHECK**
-        - **ADE 508 NAN**
+    - **ADE CC NAN** (no assistance needed with the collab cycle)
+- **508 Audit ADE Labels**
+    - **ADE 508 AUDIT** (present on any 508-related tickets)
+        - **ADE 508 AN** (assistance needed for 508 audit work)
+            - **ADE 508 FLAG CRITICAL** (A VA 508 Office Audit item, with a "Critical" flag level, per the 508 Office.)
+            - **ADE 508 FLAG HIGH** (A VA 508 Office Audit item, with a "High" flag level, per the 508 Office.)
+            - **ADE 508 FLAG MEDIUM** (A VA 508 Office Audit item, with a "Medium" flag level, per the 508 Office.)
+            - **ADE 508 FLAG LOW** (A VA 508 Office Audit item, with a "Low" flag level, per the 508 Office.)
+            - **ADE 508 RECHECK** (Flagging the need to revisit a VA 508 Office Audit for updates on the findings and fixes completed by the VFS Team post ADE guidance.)
+    - **ADE 508 NAN** (assistance not needed with 508 audit work)
 
-- Feedback: When closing, add a link to our feedback survey in the comments and/or in the team's Slack channel - [Survey: We would love to know your thoughts! Complete the ADE Feedback Survey.](https://app.optimalworkshop.com/questions/dj540s05/accessibility-digital-experience-feedback-survey/shared-results/9ocp2xepd9zax37no6051olly5nde9f1#/t/results/overview)
+### Feedback Survey
+When closing a ticket with a VFS Team, please add a link to our feedback survey in the comments and/or in the team's Slack channel.
 
-> [!Note]
-> - For tickets that are shared across multiple GHP boards, there are some automation considerations.
-> - When closing the ticket via the "close issue" button (located under the comments) it changes the ticket from open to closed. This closes the ticket on every, board that is attached to the ticket, because it is the official GitHub state.
-> - Flipping the status from "in progress" to "closed" for example, within the ADE GitHub project board dropdown, will only impact our GHP views., thus keeping the ticket open for others, and us "technically" in GitHub.
-> - When all teams are done on the ticket, someone (from any team) can close out the ticket officially.
-> - While open, this ticket will not show on our GitHub API export as closed, it will show as open.
+- **Purpose**: This survey is sent out to teams after we work with them to gather feedback on the accessibility support they received. This will help us track what's working well and what improvements we can make to our processes.
+-** Participant Requirements:** Any team that has worked with a Accessibility Digital Experience (ADE) team specialist through an official ADE ticket.
+
+#### Ticket Comment Example
+
+> **We want to hear how your experience has been, so far, working with us!**
+> - We are working to better understand **_how our accessibility support has helped_** advance your team's accessibility initiatives.
+> - We would also like to know **_what we can do to improve in the future_**.
+> 
+> Your feedback matters, and it will help us to both confirm and shape our processes moving forward.
+>
+> Complete the short [ADE Feedback Survey](https://app.optimalworkshop.com/questions/dj540s05/accessibility-digital-experience-feedback-survey/shared-results/9ocp2xepd9zax37no6051olly5nde9f1#/t/results/overview), at a time that is convenient for you. 
+
+</details>
+
+[^6]: **Tickets on Multiple GHP Boards:** For tickets that are shared across multiple GHP boards, there are some automation considerations. When closing the ticket via the "close issue" button (located under the comments) it changes the ticket from open to closed. This closes the ticket on every, board that is attached to the ticket, because it is the official GitHub state. Flipping the status from "in progress" to "closed" for example, within the ADE GitHub project board dropdown, will only impact our GHP views., thus keeping the ticket open for others, and us "technically" in GitHub. When all teams are done on the ticket, someone (from any team) can close out the ticket officially. While open, this ticket will not show on our GitHub API export as closed, it will show as open.
 
 > [!TIP]
 > - Be sure to move your ticket to `closed` during or by the end of the sprint in which the work was completed.
