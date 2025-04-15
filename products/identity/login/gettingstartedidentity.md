@@ -6,10 +6,10 @@ Updated 6/15/22
 
 **Table of Contents**
 
-1. [Signing in](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#signing-in)
-2. [Connecting to MPI](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#connecting-to-MPI)
-3. [Understanding LOA](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#Understanding-LOA)
-4. [User paths based on Identity](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#User-paths-based-on-Identity)
+1. [Signing in](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity/login/gettingstartedidentity.md#signing-in)
+2. [Connecting to MPI](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity/login/gettingstartedidentity.md#connecting-to-mpi)
+3. [Understanding LOA](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity/login/gettingstartedidentity.md#understanding-loa)
+4. [User paths based on Identity](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity/login/gettingstartedidentity.md#user-paths-based-on-identity)
 
 ## Signing in
 
