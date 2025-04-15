@@ -6,6 +6,9 @@
     - Accessibility audit of the refactored Autocomplete component. The Autocomplete component appears on `disability/file-disability-claim-form-21-526ez/new-disabilities/add`
 - [11_2024 _ Conditions Information Entry Accessibility Audit - WCAG 2.2 Level AAA.xlsx](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Contention%20Classification/Accessibility/11_2024%20_%20Conditions%20Information%20Entry%20Accessibility%20Audit%20-%20WCAG%202.2%20Level%20AAA.xlsx?d=w56719fb3db304253a8caa4857d1c051c&csf=1&web=1&e=SzLlbf)
     - Accessibility audit of the prototype used in the [Conditions Info Entry research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/CC-Team-Research/2024-11%20Conditions%20Info%20Entry).
+ 
+- [4_2025_Conditions CFI Prototype (Mango_Kiwi) Accessibility Audit - WCAG 2.2 Level AAA.xlxs](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FBenefits%20Management%20%2D%20CST&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947)
+  - Accessibility audit of the prototype for the Mango/Kiwi CFI flows
 
 ## Disability Benefits Team 1
 

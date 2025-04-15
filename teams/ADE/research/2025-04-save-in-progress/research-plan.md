@@ -96,11 +96,13 @@ Research goal: Learn about Veterans' expectations for saving information while f
 1. Do Veterans expect that information will be saved while filling out an online form? (ask at end of session, not beginning)
 
 Research goal: Get user feedback on a proposed design revision for "save in progress" and "finish this request later".
+
 3. Are Veterans confident that their form data is being saved?
 1. Are Veterans able to stop working on a form and then go back to it later?
 
 Research goal: Get user feedback on error messages and the progress bar while filling out online forms.
-5. What reactions do Veterans have to error messages?
+
+5. What reactions do Veterans have to error messages? Do they know what they mean and how to fix the problem?
 1. What reactions do Veterans have to the progress bar? Do they notice it?
 
 ### Hypothesis

@@ -1,13 +1,14 @@
 # ADE Tickets and How To Use Them
 > [!CAUTION]
 > - This document is a **WIP**
-> - Last updated: April, 2025
+> - Last updated: April, 15 2025
 
 ## Overview
 
 - This document details how to create, update, and close an ADE ticket, ensuring all the custom field data is correctly entered.
 - Use the outline (hamburger menu) in this document to view and navigate the different sections. 
 ## ADE Github Terms and Definitions
+The following table covers common terms used by ADE and their definitions.
 | **Term** | Definition |
 |------------------------|------------------|
 | **Repository**                   |     A place where a project’s files, version history, and resources live. ADE operates in the VA.gov-team repository.| 
@@ -17,8 +18,12 @@
 | **Issue**                   | In Github, teams are asked to define the nature of their initiative and desired outcomes, in addition to providing background. Ticket(s) are then created based on the defined issue. </br></br>An issue is a well-defined unit of work.| 
 | **Ticket**                   | Ticket(s) are created based on the issue(s) presented by the VFS Team.</br></br>If the work needing to be done to support the intake ticket is elaborate, multiple tickets may be created to support each portion of the work. </br></br>If the work is simple and straightforward, one ticket or possibly more will be generated to support that work. </br></br>Tickets contain the details of the issue and the steps “tasks” (or work) required to meet the acceptance criteria, which is the definition of done. </br></br>Every ticket has a quick summary at the top, for a quick high-level overview of what is enclosed. |
 | **Task**                   |     In Github, a task is an individual work item that can be checked off when completed. <li> Tasks can be used as a simple checklist and/or converted into issues or sub-issues. <li> When a task is unchecked, it is open and when it is checked, it is closed. <li> GHP will show the number of tasks completed in an issue, and the overall progress at the top of the parent ticket. <li>You can also use multiple task lists in one ticket for different parts of your project.  <li>In any given ticket there will always be ADE Internal Tasks; however, the team will also breakout tasks for the VFS Team to complete.  |
-| **Sub-Issues**                   | **It is important to show connectivity between tickets. This can be done through sub-issues.** </br></br>It is important to note that related tickets are no longer being tracked in “task lists in markdown,” due to the planned depreciation of GitHub “Task Lists” by GitHub in April 2025. </br></br>Instead, related tickets will be connected to tickets via sub-issues. <li>To connect an existing ticket, choose the drop-down from "create sub-issue" and select "add existing issue" <li>To connect a new issue, choose the drop-down from "create sub-issue" and select "create sub-issue," and select the respective template. |
+| **Sub-Issues**                   | **It is important to show connectivity between tickets. This can be done through sub-issues.** <li>It is important to note that related tickets are no longer being tracked via “task lists in markdown,” due to GitHub's planned depreciation of “Task Lists” (April 2025). <li>Instead, related tickets will be connected to tickets via **sub-issues**.<br><br> **Connect Sub-Issues (New & Existing)** <li>**To connect an existing ticket, as a sub-issue:** Choose the drop-down from "create sub-issue" and select "add existing issue" <li>**To connect a new issue,as a sub-issue:** Choose the drop-down from "create sub-issue" and select "create sub-issue," and select the respective template. |
 | **Supporting Artifacts**                   | Tickets also request supporting artifacts. ADE needs teams to include artifacts like product outlines, user flows, mockups and prototypes with links to screens/boards/sections to look at, in addition to user accounts for the scenarios provided to test. |
+| **Titles**                   | **The title section will always begin with the following naming convention: `[ADE xyz]`.** <li>This is used to distinguish the ticket type, followed by the team name, product and the service being provided. <li>It is good to keep the title brief (if possible) and include the name of the tool/product for easier scanning. <li>Consistency is also helpful. <li>[See the Work Ticket Template section](#Work-Ticket-Templates), for suggested naming conventions.|
+
+
+
 
 ## Ticket Types
 
@@ -79,13 +84,6 @@ We use templates to make it easier to create tickets for specific kinds of work 
 | [Internal ADE CC Work Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-Internal-CC-Work-Ticket.md) | Template for ADE members to utilize, when needing to create a ticket oustide the intake process such as a child ticket or a parent/epic for work being done to support the CC. | [ADE CC]:[Team][Product][Requesting][Stage] | ADE, <br>ADE CC AN |
 | [Internal ADE Accessibility Office Hours Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-Internal-Office-Hours-Ticket.md) | Template for ADE members to utilize, when needing to create a ticket to track work done to support office hours. Ex. Prepwork before the call. | [ADE Office Hours][Team Name]: [Product] - [Support Requested] | ADE, <br>ADE Office Hours |
 | [Internal ADE Research Accessibility Feedback Issue Quantification Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-accessibility-feedback-issue-quantification.md) |Template to utilize following ADE research support for AT, in order to document and quantify the issues identified. These will be created as sub-issues, under the parent research intake ticket. | [ADE Research - Feedback] - [Team Name]: [Study] (Type of accessibility issue encountered) |ADE, <br>ADE Research, <br>ADE Research Feedback |
-
-
-## Ticket Titles
-The title section contains the name of the ticket with the following naming convention:
-
-- `[ADE intake]` is used to distinguish the ticket type
-- Work tickets can be named in whatever way makes sense, but it's good to keep it brief and include the name of the tool/product for easier scanning. Consistency is also helpful. See above for suggested naming conventions.
 
 ## Custom Ticket Fields
 This section contains field data that is important for filtering and tracking issues within the ADE pipeline. 
