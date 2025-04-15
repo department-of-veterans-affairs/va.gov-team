@@ -35,6 +35,8 @@ Attendees:
 - Screenshot of desired email/call flow
 - ![image](https://github.com/user-attachments/assets/4ab721c4-f1c1-48b1-95cd-95f32bd0e8a7)
 
+* With "Pending MT" and "Pending Other" statuses confirmed to access EZR online, the action now can be to update the script for outbound calling to direct Veterans to the EZR online.
+    * Emails/Texts can come after, will be worked on from HEC side.
 * Pending will be done before Welcome
     * We’ll see how this goes before starting on Welcome
     * Not enough staff to work on outbound calls for Welcome
