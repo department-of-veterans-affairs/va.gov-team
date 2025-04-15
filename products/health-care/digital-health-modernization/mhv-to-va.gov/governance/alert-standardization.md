@@ -126,7 +126,7 @@ The 404 error sends users to a new page; this error component will only be exper
 
 </details>
 
-## 500 Internal service component
+## 500 Internal service error component
 There are two versions of the 500 component copy; one provides basic guidance to users to recover (refresh browser) and can be used in any scenario in which the basic guidance would be the same. The other version is only a template and teams that need to deviate from the basic guidance will need to write their own copy to help users recover from the error. The intention behind creating two versions is to explicitly sanction and encourage teams to write their own copy when specific instructions would be helpful to the user. 
 
 On the question of placement: This error component should appear after the page's H1 and lede text (if applicable) and before any other content on the page.
