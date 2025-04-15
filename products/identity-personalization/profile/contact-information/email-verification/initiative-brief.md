@@ -60,6 +60,12 @@ Some VA.gov users have outdated or incorrect contact email addresses, leading to
 | Increase in successful email deliveries   | X%       | Y%     | VA Notify                 |
 | Improved user trust/satisfaction score    | X        | Y      | VA.gov feedback surveys   |
 
+### OCTO OKRs:
+1.3: 100% of our transactions receive via our digital experience sare either processed correctly or we have notified the user of an error.
+2.2: We have reduced the total error rates in our platforms by 50% compared to Q4 2024 towards a goal of less than 1% per endpoint.
+Portfolio OKRs:
+Team/Crew/Pod OKRs:
+
 
 ---
 
