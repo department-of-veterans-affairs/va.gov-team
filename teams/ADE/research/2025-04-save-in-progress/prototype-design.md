@@ -54,11 +54,11 @@ Below is a list of what we might need to implement the design for usability test
 
 What we need | Rationale | How to do 
 ------------------|--------------|------
-Coded prototype with a working form | So can test with screen reader users (as well as sighted users), and can save the form data entered by participants (vs. telling them that it's saved when it's not) | Need help from an engineer
-(ideally) Simplified login process | So research participants don't get bogged down with logging in and don't share their PII | Work with Adam Whitlock (Authenticated Experience Design Pattern team) to make a github codespace with user task links that go directly to authenticated pages, bypassing the login process
+Coded prototype with a working form | So can test with screen reader users (as well as sighted users), and can save the form data entered by participants (vs. telling them that it's saved when it's not) | OPEN--Need help from an engineer
+(ideally) Simplified login process | So research participants don't get bogged down with logging in and don't share their PII | OPEN--Work with Adam Whitlock (Authenticated Experience Design Pattern team) to make a github codespace with user task links that go directly to authenticated pages, bypassing the login process
 A form using the minimal header|It's in the VA design system and has space to add a second CTA button|Use the [Request Personal Records (VA Form 20-10206)](https://staging.va.gov/records/request-personal-records-form-20-10206/introduction) that's already in the minimal header format
-Turn off display of green alert on form after every field entry|Want to test this|Need help from an engineer
-Change "Finish this later" button/link to a button to the left of the Continue button|Want to test this|Need help from an engineer
+Turn off display of green alert on form after every field entry|Want to test this|OPEN--Need help from an engineer
+Change "Finish this later" button/link to a button to the left of the Continue button|Want to test this|OPEN--Need help from an engineer
 Content feedback on "Save and finish later" button wording|Get approval for the button wording|DONE--5 Content folks during Office Hours preferred the third proposed design: "Save and finish later" and "Save and continue".
 Matt Dingee's feedback on adding a second button to every form page|Material honesty--so the "Finish this later" button that looks like a link would look like a button|DONE--Matt prefers that the new button be in a different place, but we can test this way (no additional approval needed from him). Jeana might do more design exploration.
-Design assist for new button wording|Make sure that the wording fits on buttons in mobile and desktop|Jeana plans to help
+Design assist for new button wording|Make sure that the wording fits on buttons in mobile and desktop|IN PROGRESS--Jeana mocks them up and helps decide which version to test
