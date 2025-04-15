@@ -24,7 +24,7 @@
 [21-8940]: /products/disability/ancillary-forms/21-8940.md
 [intent-to-file]: intent-to-file.md
 
-## Information on Disability compensation forms 
+## Information on Disability Compensation Forms ℹ️
 - [21-526EZ (Application for Disability Compensation and Related Compensation Benefits)][21-526ez]
   - This is the main disability compensation form
 - [21-0966 (Intent To File A Claim For Compensation)][intent-to-file]
@@ -41,7 +41,7 @@
 - [21-4502 (Auto Allowance & Adaptive Equipment Application)][21-4502]
 
 
-## Team
+## Team 
 Government Stakeholders:
 - Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
 - Comp Services policy and process partners: Paul Schute (paul.shute@va.gov)
@@ -53,18 +53,19 @@ Government Stakeholders:
 - ITSC (IT Strategic Comms) liaison: n/a
 - VBA contact: David Reis
   
- Team 1: 
- [Github Project](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2)
- GitHub team label: DBEX-TREX
+Team 1 🦖
+ 
+- Github Project: [DBEX TREX 2024 VA Disability 526](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2)
+- GitHub team label: DBEX-TREX
 - Product manager: Mike Marinos
 - Design and Research: Lauren Dawson, Melissa Schaff, Tashi Islam
 - Engineering: Aurora Hampton, Seth Darr, Mark Chae, Tommasina Miller, Ari Perez, Tracy Tran
 - Delivery: Pam Macalintal
  
-
- Team 2:
- Github Project: [DBEX Carbs 2024 VA Disability 526](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/7)
- GitHub team label: DBEX-CARBS
+Team 2 🍞
+ 
+- Github Project: [DBEX Carbs 2024 VA Disability 526](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/7)
+- GitHub team label: DBEX-CARBS
 - Product manager: Lisa Capaccioli
 - Design and Research: Ruben Sun, Evelyn Hillbrich Davis, Qian Chen
 - Engineering: Kyle Soskin, Nathan Burgess, Scott Regenthal, Alison Jones, JR Reed
@@ -123,13 +124,13 @@ Government Stakeholders:
 |Toxic Exposure (New Questions) Research| Evaluative research of confirmation page and post-submission emails | [SharePoint Link](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?isAscending=true&e=5%3A0f5e8995f1784d9aa59021cdc4776530&sharingv2=true&fromShare=true&CID=d7176fa1%2Dc0b0%2D7000%2D6dfa%2Df91eba2b481a&cidOR=SPO&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience%2F5%20%2D%20Research%20and%20Design%2F2024%2D11%20Toxic%20Exposure%20%28New%20Questions%29%20Research&sortField=LinkFilename&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) | Nov 2024|
 |VADS Documentation|VA Design System Guide (Covers content, patterns, components)|[Link](https://design.va.gov/)|
 
-## Metrics & Analytics
+## Metrics & Analytics 📊
 In February 2024, there was an effort to update our 526 Domo dashboard to capture updates to the form. Please note that Google Analytics is connected to Domo (Domo is pulling information from Google Analytics.) The second document in the table below entitled "Single Source of truth Domo/Google Analytics" gathers those findings. 
 
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
+|⭐ Single Source of truth Domo/Google Analytics ⭐|Word Document (accessible through CAG only) with detailed questions and answers from DBEX investigation into Analytics |[link](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/6%20-%20Analytics/Single%20Source%20of%20Truth_%20Domo_%20Analytics%20Resources.docx?d=w6b2b9d82054043ad9e983215ac905c2a&csf=1&web=1&e=hve7KH)|February 6, 2024|
 |MVP Metrics for 526ez|Github document with overview on metrics like exit rate|[link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/MVP-Metrics-526.md)|March 3, 2025|
-|Single Source of truth Domo/Google Analytics|Word Document (accessible through CAG only) with detailed questions and answers from DBEX investigation into Analytics |[link](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/6%20-%20Analytics/Single%20Source%20of%20Truth_%20Domo_%20Analytics%20Resources.docx?d=w6b2b9d82054043ad9e983215ac905c2a&csf=1&web=1&e=hve7KH)|February 6, 2024|
 |526 Analytics - Calculating Drop-off Rates|Github document with deep-dive into drop-off rates|[link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/526Analytics.md)|March 25, 2024|
 
 
@@ -143,7 +144,7 @@ In February 2024, there was an effort to update our 526 Domo dashboard to captur
  - [Submission Experience Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md)
  - [Update PTSD 0781 to be aligned with new form version](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Update%20PTSD%200781%20to%20be%20aligned%20with%20new%20form%20version.md)
 
-#### Zero Silent Failures
+#### Zero Silent Failures 0️⃣
 
 - Policies
    - Platform guidance [README](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/7914951c27729e288d4e3adef6b2c19fe800135b/platform/practices/zero-silent-failures/README.md) and [folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/7914951c27729e288d4e3adef6b2c19fe800135b/platform/practices/zero-silent-failures)
@@ -155,18 +156,22 @@ In February 2024, there was an effort to update our 526 Domo dashboard to captur
    - [How State Enabled 'Zero Silent Failures' for the 526 Form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/how_state_enabled_ZSFs_for_526.md) by Samuel T. Stuckey, Esq.
 
 ## Engineering
-#### Github Repos
+#### Github Repos 
+
+- 💻= clone locally for local development 
+- 📃= pure documentation (not need to clone locally)
 
 |Title|Description|Link|Notes|
 |-----|-----------|----|----|
-|vets-api|va.gov backend code, and also lighthouse code (in the `modules` folder)|[Github link](https://github.com/department-of-veterans-affairs/vets-api/) |Run with `puma` after setting `alias puma='bundle exec puma -p 3000 -C ./config/puma.rb'`; can also run Sidekiq locally with `bundle exec sidekiq`|
-|vets-website|va.gov website code|[Github link ](https://github.com/department-of-veterans-affairs/vets-website) |Run with `yarn watch --env entry=auth,526EZ-all-claims,login-page,verify`|
-|vets-json-schema|va.gov JSON data validation schema|[Github link](https://github.com/department-of-veterans-affairs/vets-json-schema)|this is a pain to update but can make data validation more transparent between vets-website and vets-api. you'll need to plan the timing of your merge with the other repos, and update vets-website to point to the new vets-json-schema commit sha.|
-|va.gov-team|This repo, this is where all tickets/issues go, and where most documentation should go|[Github link](https://github.com/department-of-veterans-affairs/va.gov-team) |--|
-|va.gov-team-sensitive|Area for sensitive items such as post-mortems, security things, and other internal or sensitive documentation|[Github link ](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive)|--|
+|💻 vets-api|va.gov backend code, and also lighthouse code (in the `modules` folder)|[Github link](https://github.com/department-of-veterans-affairs/vets-api/)  |Run with `puma` after setting `alias puma='bundle exec puma -p 3000 -C ./config/puma.rb'`; can also run Sidekiq locally with `bundle exec sidekiq`|
+|💻 vets-website|va.gov website code|[Github link ](https://github.com/department-of-veterans-affairs/vets-website)|Run with `yarn watch --env entry=auth,526EZ-all-claims,login-page,verify`|
+|💻 vets-json-schema|va.gov JSON data validation schema|[Github link](https://github.com/department-of-veterans-affairs/vets-json-schema)|this is a pain to update but can make data validation more transparent between vets-website and vets-api. you'll need to plan the timing of your merge with the other repos, and update vets-website to point to the new vets-json-schema commit sha.|
+|💻 vets-api-mockdata|Mock data for external services with vets-api integrates with|[Github link](https://github.com/department-of-veterans-affairs/vets-api-mockdata)|Follow setup steps in the README. Navigate to http://localhost:3001/sign-in/mocked-auth locally to authenticate with mockdata|
+|📃 va.gov-team|This repo, this is where all tickets/issues go, and where most documentation should go|[Github link](https://github.com/department-of-veterans-affairs/va.gov-team) |--|
+|📃 va.gov-team-sensitive|Area for sensitive items such as post-mortems, security things, and other internal or sensitive documentation|[Github link ](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive)|--|
 
 
-#### DataDog Monitoring
+#### DataDog Monitoring 🐶
 |Title|Description|Link|Last Updated|
 |-----|-----------|----|-------|
 |526 Overall Dashboard|Overall starting place to view overall 526 health, a good place to start any investigating|[DataDog link](https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/benefits-form-526-disability-compensation?fromUser=false&refresh_mode=sliding&from_ts=1740566518257&to_ts=1740580918257&live=true) ||
@@ -174,9 +179,9 @@ In February 2024, there was an effort to update our 526 Domo dashboard to captur
 |APM Dashboard|This APM (application performance monitoring) application is a curated veiw/offering in datadog, scope specifically to the disability/526 app|[DataDog link](https://vagov.ddog-gov.com/apm/entity/service%3Adisability-application?dependencyMap=qson%3A%28data%3A%28telemetrySelection%3Aall_sources%29%2Cversion%3A%210%29&deployments=qson%3A%28data%3A%28hits%3A%28selected%3Aversion_count%29%2Cerrors%3A%28selected%3Aversion_count%29%2Clatency%3A%28selected%3Ap95%29%2CtopN%3A%215%29%2Cversion%3A%210%29&env=eks-prod&fromUser=false&groupMapByOperation=null&operationName=rack.request&panels=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&resources=qson%3A%28data%3A%28visible%3A%21t%2Chits%3A%28selected%3Atotal%29%2Cerrors%3A%28selected%3Atotal%29%2Clatency%3A%28selected%3Ap95%29%2CtopN%3A%215%29%2Cversion%3A%211%29&summary=qson%3A%28data%3A%28visible%3A%21t%2Cchanges%3A%28%29%2Cerrors%3A%28selected%3Acount%29%2Chits%3A%28selected%3Acount%29%2Clatency%3A%28selected%3Alatency%2Cslot%3A%28agg%3A95%29%2Cdistribution%3A%28isLogScale%3A%21f%29%2CshowTraceOutliers%3A%21t%29%2Csublayer%3A%28slot%3A%28layers%3Aservice%29%2Cselected%3Apercentage%29%2ClagMetrics%3A%28selectedMetric%3A%21s%2CselectedGroupBy%3A%21s%29%29%2Cversion%3A%211%29&start=1740577385458&end=1740580985458&paused=false#resources) |
 |Monitors/Alerts|The list of 526 related datadog alerts/monitors, they alert into the [#benefits-disability-notifications](https://dsva.slack.com/archives/C05URMLM09Z) channel|[DataDog link](https://vagov.ddog-gov.com/monitors/manage?q=service%3Adisability-application&order=desc) ||
 |Playbooks|Various documents around errors that may occur and what to do when encountered|[Github link](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/benefits/playbooks/526) ||
-| Video Recording of a DataDog Dashboard Walk-thru | Aurora and Tommasina walked through the 526 DataDog Dashboard| [Sharepoint](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/4%20-%20Engineering/DataDog%20Dashboard%20Walk-Thru_04_14_2025.mp4?csf=1&web=1&e=4mhjgc)| 4/14/2025 |
+| Video Recording of a DataDog Dashboard Walk-thru 📽️ | Aurora and Tommasina walked through the 526 DataDog Dashboard| [Sharepoint](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/4%20-%20Engineering/DataDog%20Dashboard%20Walk-Thru_04_14_2025.mp4?csf=1&web=1&e=4mhjgc)| 4/14/2025 |
 
-#### Support/Remediation (Production SOP)
+#### Support/Remediation (Production SOP)🔧
 |Title|Description|Link|Last Updated|
 |-----|-----------|----|-------|
 |Troubleshooting on staging|Misc notes for troubleshooting submission failures on staging| [Github link](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/troubleshooting-on-staging.md) |7/31/24
@@ -186,12 +191,12 @@ In February 2024, there was an effort to update our 526 Domo dashboard to captur
 |[ZSF] SOP (Standard Operating Procedure) for Watch Dog of Watch Dogs for DBEX teams (T-REX 🦖 and CARBS 🍞)|Procedural guide for Watch Officer Duty|[Github link](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/monitors/%5BZSF%5D%20DBEX%20Teams%20SOP%20(Standard%20Operating%20Procedure)%20for%20monitor%20and%20alert%20response.md) |11/6/24
 |OCTO Watch Officer|Repository To Provide Actions and Issues Scoping for the Watch Officers Issue Board|[Github link](https://github.com/department-of-veterans-affairs/octo_watchofficer) |2/27/24
 |526 Scripts|A folder of miscellanous script used in 526 support, development and research|[Github link](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/benefits/scripts/526) |1/17/2025
-#### Documentation
+#### Documentation 📝
 |Title|Description|Link|Last Updated|
 |-----|-----------|----|-------|
 Engineering research | Discovery and/or technical approach documents from engineering reseach | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/engineering_research)
 |Engineering Audit/Inventory|A list of engineering documents and a storehouse for documents saved in a non-standard format|[SharePoint folder](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Engineering/Audit%20and%20Inventory?csf=1&web=1&e=ZCN3CN)|01/31/25|
-#### Tech Debt
+#### Tech Debt 💰
 
 - We recommend starting with [this lineup of tickets](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?sliceBy%5Bvalue%5D=Transition+Tickets+%28recommendations%29). 
 
@@ -218,7 +223,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/issues/96761
    - [Remove hard-coded text from Q16, Column 3 #88269
 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88269)
  
-## Other Related
+## Other Related 
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
 |526ez Application|Online and paper version of the disability benefits claim form |[PDF](https://www.vba.va.gov/pubs/forms/vba-21-526ez-are.pdf)<br>[Online](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction)||
