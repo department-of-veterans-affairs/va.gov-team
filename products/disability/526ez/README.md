@@ -90,7 +90,7 @@ Government Stakeholders:
 |Platform Tools|List of each VA tool and how to obtain access|[Link](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools)||
 |Model/Flow Board|Mural board for flow diagrams related to 526ez|[Link](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1683913843847?sender=u1dc3a1dc47390e0b38d61593&key=32140ed2-e82d-492a-b0b0-a77fe6a993ee)||
 |Issue Management Strategy|Defines rubric for assessing issues for severity as well strategy for addressing them|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=1-1683888631128)||
-|526 Flow-Active| Most up to date 526 application flow| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-11-Shadowing-Research)| November 2023|
+|526 Flow-Active| Most up to date 526 application flow| [Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686768383603/3f4415dd2ddb71bbd104ebefd92a2c7b553ad792)| November 2023|
 |526 Feature briefs | Feature briefs for new initiatives | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/product/feature-briefs)
 |Team Carbs Story Mapping | Team 2's 2024 initiatives | [Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718308823134/02c2c9ea74f16b276692af8f31eb65202acc7928)
 |Disability Release Plans | Disability experience team-docs release plans | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans)|
