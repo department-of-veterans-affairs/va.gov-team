@@ -15,4 +15,7 @@ In addition to the existing 526 overall regression test, we made a number of tes
 
 These additions ensure that each high-level user story has a test case ensuring functionality. 
 
+The results/report can be seen below: 
+<TODO add>
+
 In additon to these TestRail tests, we have also introduced multiple end-to-end cypress tests, and many unit tests in both the frontend and backend.
