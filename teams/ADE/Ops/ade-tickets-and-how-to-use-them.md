@@ -1,7 +1,7 @@
 # ADE Tickets and How To Use Them
 > [!CAUTION]
 > - This document is a **WIP**
-> - Last updated: April, 2025
+> - Last updated: April, 15 2025
 
 ## Overview
 
@@ -19,7 +19,7 @@
 | **Task**                   |     In Github, a task is an individual work item that can be checked off when completed. <li> Tasks can be used as a simple checklist and/or converted into issues or sub-issues. <li> When a task is unchecked, it is open and when it is checked, it is closed. <li> GHP will show the number of tasks completed in an issue, and the overall progress at the top of the parent ticket. <li>You can also use multiple task lists in one ticket for different parts of your project.  <li>In any given ticket there will always be ADE Internal Tasks; however, the team will also breakout tasks for the VFS Team to complete.  |
 | **Sub-Issues**                   | **It is important to show connectivity between tickets. This can be done through sub-issues.** </br></br>It is important to note that related tickets are no longer being tracked in “task lists in markdown,” due to the planned depreciation of GitHub “Task Lists” by GitHub in April 2025. </br></br>Instead, related tickets will be connected to tickets via sub-issues. <li>To connect an existing ticket, choose the drop-down from "create sub-issue" and select "add existing issue" <li>To connect a new issue, choose the drop-down from "create sub-issue" and select "create sub-issue," and select the respective template. |
 | **Supporting Artifacts**                   | Tickets also request supporting artifacts. ADE needs teams to include artifacts like product outlines, user flows, mockups and prototypes with links to screens/boards/sections to look at, in addition to user accounts for the scenarios provided to test. |
-| **Title**                   | The title section will always begin with the following naming convention: `[ADE xyz]` which is used to distinguish the ticket type, followed by the team name, product and the service being provided. It is good to keep the title brief (if possible) and include the name of the tool/product for easier scanning. Consistency is also helpful. [See the Work Ticket Template section](#Work-Ticket-Templates), for suggested naming conventions.|
+| **Titles**                   | **The title section will always begin with the following naming convention: `[ADE xyz]`.** <li>This is used to distinguish the ticket type, followed by the team name, product and the service being provided. <li>It is good to keep the title brief (if possible) and include the name of the tool/product for easier scanning. <li>Consistency is also helpful. <li>[See the Work Ticket Template section](#Work-Ticket-Templates), for suggested naming conventions.|
 
 
 
