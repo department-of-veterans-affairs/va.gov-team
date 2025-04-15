@@ -10,7 +10,7 @@ This document details how to create, update, and close an ADE ticket, ensuring a
 ### Navigating this Page
 - **Option 1:** Use the outline (hamburger menu) in this document to view and navigate the different sections 
 - **Option 2:** Use the anchor links below:
-    - [ADE GitHub Terms and Definitions](##ADE-Github-Terms-and-Definitions)
+    - [ADE GitHub Terms and Definitions](#ADE-Github-Terms-and-Definitions)
     - [Ticket Types](##Ticket-Types)
     - [Work Ticket Templates](##Work-Ticket-Templates)
     - [Custom Ticket Fields](##Custom-Ticket-Fields)
