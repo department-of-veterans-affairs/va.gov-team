@@ -219,12 +219,20 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 - Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
 - If yes, what: [FILL_IN]
 
+## 1 year results 
+- Number of users: [107230]
+- Any issues with VA handling/processing?: [No]: yes | no |  N/A
+- Types of errors logged: [502, 503, 500,  401, 404, 422]
+- Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [Yes--V2 confirmation flow]: yes | no |  N/A
+- If yes, what: [Change to a confirmation flow.]
+
+
 ## Post-launch Questions
 
 *To be completed once you have gathered your initial set of data, as outlined above.*
 
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-1. What qualitative feedback have you gathered from users or other stakeholders?
-1. Which assumptions you listed in your product outline were/were not validated?
+1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"? Very successful, we hit our metrics and added TERA to our initial release plan
+1. What qualitative feedback have you gathered from users or other stakeholders? That the application is easy to navigate but long and takes a while.
+1. Which assumptions you listed in your product outline were/were not validated? 
 1. How might your product evolve now or in the future based on these results?
 1. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
