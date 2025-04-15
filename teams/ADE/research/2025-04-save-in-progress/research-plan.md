@@ -79,12 +79,12 @@ Are there moments that matter?</summary>
 ### Goals
 
 1. (primary) Learn about Veterans' expectations for saving information while filling out an online form before the form is submitted.
-1. (primary) Get user feedback on a proposed design revision for "save in progress" and "finish this request later".
+1. (primary) Get user feedback on design revisions for "save in progress" and "finish this request later" that reduce the redundant messaging around saving.
 1. (secondary) Get user feedback on error messages and the progress bar while filling out online forms.
   
 ### Outcome
 
-Findings and recommendations from this research will inform guidance and documentation for the "save in progress" feature that is present for authenticated users filling out forms on VA.gov. Matt Dingee asked ADE to help with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard pattern used by all teams.
+Findings and recommendations from this research will **inform guidance and documentation for the "save in progress" feature** that is present for authenticated users filling out forms on VA.gov. Matt Dingee asked ADE to help with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard pattern used by all teams.
 
 In addition, user feedback collected on "finish this request later", error messages, and the progress bar will be helpful for accessibility specialists advising VFS teams.
 
@@ -93,11 +93,15 @@ In addition, user feedback collected on "finish this request later", error messa
 
 Research goal: Learn about Veterans' expectations for saving information while filling out an online form before the form is submitted.
 1. What experiences have Veterans had while filling out VA forms?
-1. Do Veterans expect that information will be saved while filling out an online form? (ask at end of session, not beginning)
+1. What expectations do Veterans have about whether information will be saved while filling out an online form? (ask at end of session, not beginning)
 
 Research goal: Get user feedback on a proposed design revision for "save in progress" and "finish this request later".
 
-3. Are Veterans confident that their form data is being saved?
+3. What do Veterans expect to happen to their form data when they walk away from filling out their forms?
+1. What do Veterans expect to happen to their form data if they close the form page?
+* How does a user know that their form data is being saved?
+* How does a user expect to re-start a form?
+Are Veterans confident that their form data is being saved?
 1. Are Veterans able to stop working on a form and then go back to it later?
 
 Research goal: Get user feedback on error messages and the progress bar while filling out online forms.
