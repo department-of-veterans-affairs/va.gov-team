@@ -102,5 +102,5 @@ We have prioritized the following design-led initiatives to focus on through end
 
 
 Other operational tasks we need to complete before end of May:
-- Present research findings at VA Platform design sync: [#1666](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=101411359&issue=department-of-veterans-affairs%7Cask-va%7C1666) | Sprint 49
+- Present research findings at VA Platform design sync: [#1666](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=101411359&issue=department-of-veterans-affairs%7Cask-va%7C1666) | Sprint 50
 - Clean up Page Library (Figma): [#1723](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=105077742&issue=department-of-veterans-affairs%7Cask-va%7C1723) | Sprint 51
