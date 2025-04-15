@@ -2,16 +2,18 @@
 
 #### Overview
 
-Veterans who use VA.gov create accounts using ID.me or Login.gov to verify their identity. However, the email address they use to create these accounts may differ from the contact email where they receive important communications from the VA. Currently, there is no verification process to ensure the provided contact email is valid or monitored by the user. This feature introduces a verification process for users' contact emails to ensure secure, reliable communication from VA.gov services.
+Currently, there is no verification process to ensure the provided contact email is valid or monitored by the user. This feature introduces a verification process for users' contact emails to ensure secure, reliable communication from VA.gov services.
 
-Currently, emails are not confirmed, can be stale, and are relied upon heavily by us to communicate with users. We need to be able to communicate with our users in the event of a failure. Accounts with no email address in the VA.gov Profile make this more difficult.
+Veterans who use VA.gov create accounts using ID.me or Login.gov to verify their identity. However, the email address they use to create these accounts may differ from the contact email where they receive important communications from the VA. Verifying an email entails sending the user an email at the address they have entered and having the user click a link to confirm that they have received the email. This is the same process used during the authentication account creation process by [Login.gov](http://login.gov/) and ID.me. We don't use the email users use when creating their account.
 
-There are a number of DE initiatives that are tackling the problem of making sure an account is using the most up to date email address.
+Emails that are not verified can be stale leading to reduced engagement. Contact emails are heavily relied upon by us to communicate with users. We need to be able to communicate with our users in the event of a failure. Accounts with errant email address in the VA.gov Profile make this more difficult. Verification should alleviate this problem. 
+
+There are a number of DE initiatives that are tackling the problem of making sure an account is using the most up to date email address and that we are collecting this as early as possible. 
 
 1. The Auth. Experience Pattern team is working on an update to the pre-fill pattern which should instruct teams on how to update the [VA.gov](http://va.gov/) Profile when a user provides an email address on a form. This will handle both cases where no email exists in Profile and when the email in Profile does not match the email provided on the form. Once that pattern lands in the Design System, we'll require VFS teams to start using it via the Collaboration Cycle.
 2. IIR Profile Completeness: New VA.gov users whose profile information is missing email address, mailing address, or phone number are prompted to fill out this information.
 
-This work will focus on ensuring the accuracy of that contact email being collected. 
+The Email Verification Feature, will focus on ensuring the accuracy of that contact email being collected. 
 
 ## POCs
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
