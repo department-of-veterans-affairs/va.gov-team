@@ -40,6 +40,6 @@ Attendees:
     * Not enough staff to work on outbound calls for Welcome
 
 Action items
-- [ ] Need to get “Pending” statuses allowed on EZR
+- [x] Alex confirmed EZR can accept statuses "Enrolled", "Pending_MT" and "Pending_Other"
 - [ ] Need to revamp “Pending” alerts on EZ and Profile
 - [ ] Need to create CYOA flow on EZR
