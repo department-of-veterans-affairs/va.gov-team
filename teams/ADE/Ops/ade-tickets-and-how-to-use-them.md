@@ -74,7 +74,17 @@ The following table covers common terms used by ADE and their definitions. They 
 
 ## Work Ticket Templates
 
-We use templates to make it easier to create tickets for specific kinds of work we do on a regular basis. [Access all of the templates for the va.gov-team repository](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose).  
+We use templates to make it easier to create tickets for specific kinds of work we do on a regular basis. 
+
+> [!TIP]
+> ### Template Access
+> [Access all of the templates for the va.gov-team repository](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose).
+> - Search on the term `ADE` to locate ADE-specific templates.
+> - ADE templates will include the term `internal` if they are for use by the ADE team only.
+> - All templates for ADE include a brief description.
+> - Refer to this repository, as the source of truth for VA templates.[^3]
+
+[^3]: **Avoiding Stale Templates:** If a template is linked with a relative URL, piping in fields for assignees for example, any changes to the template fields for assignees will not be reflected in this link. Therefore, when linking to the template, it is best to link to the template's name. **Example**: `?template=Accessibility-Digital-Experience-Intake-Ticket.md`
     
 ### ADE Ticket Templates for VFS Teams
 
