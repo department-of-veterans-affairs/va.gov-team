@@ -14,10 +14,10 @@ Emily DeWan, Natasha Huckleberry
 
 
 
-* [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/burials-memorials/pre-need/mobile/research)
-* [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/burials-memorials/pre-need/mobile/research)
-* [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/burials-memorials/pre-need/mobile/research)
-* [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/burials-memorials/pre-need/mobile/research)
+* [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/research/research-report.md#hypotheses-and-conclusions)
+* [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/research/research-report.md#key-findings)
+* [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/research/research-report.md#recommendations)
+* [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/research/research-report.md#who-we-talked-to)
 
 
 ## Background
@@ -307,12 +307,9 @@ Currently, the only feasible mobile app functionality is the submission of pre-n
 
 
 ## Next Steps
-
-
-
-????
-
-
+- Review and share research findings with VA PO and relevant teams. This will ensure alignment on key insights and their implications for the project.
+- Await for work mentioned in technical limitations to be addressed.
+- Document any new or unanswered questions from the research.
 
 
 ## Further research needed
@@ -323,7 +320,6 @@ Currently, the only feasible mobile app functionality is the submission of pre-n
 
 
 ## Appendix
-
 
 
 * [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/research/2025-03_research-plan.md)
