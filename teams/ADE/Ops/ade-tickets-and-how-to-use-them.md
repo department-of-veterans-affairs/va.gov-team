@@ -20,7 +20,9 @@ This document details how to create, update, and close an ADE ticket, ensuring a
 <hr> 
 
 ## ADE Github Terms and Definitions
-The following table covers common terms used by ADE and their definitions. They are ordered from high-level information to more granular information. 
+- **Table content:** The following table covers common terms used by ADE and their definitions. 
+- **Table organization:** They are ordered from high-level information to more granular information.
+  
 | **Term** | Definition |
 |------------------------|------------------|
 | **GHP**                   |    The abbreviation for GitHub Projects.| 
