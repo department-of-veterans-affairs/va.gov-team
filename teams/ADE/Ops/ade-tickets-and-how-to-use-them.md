@@ -23,17 +23,19 @@ The following table covers common terms used by ADE and their definitions. They 
 | **Supporting Artifacts**                   | Tickets also request supporting artifacts. ADE needs teams to include artifacts like product outlines, user flows, mockups and prototypes with links to screens/boards/sections to look at, in addition to user accounts for the scenarios provided to test. |
 | **Titles**                   | **The title section will always begin with the following naming convention: `[ADE xyz]`.** <li>This is used to distinguish the ticket type, followed by the team name, product and the service being provided. <li>It is good to keep the title brief (if possible) and include the name of the tool/product for easier scanning. <li>Consistency is also helpful. <li>[See the Work Ticket Template section](#Work-Ticket-Templates), for suggested naming conventions.|
 
-[^1]: It is important to note that related tickets are no longer being tracked via “task lists in markdown,” due to GitHub's planned depreciation of “Task Lists” (April 2025). Instead, related tickets will be connected to tickets via "sub-issues".
+[^1]: **Discontinued Feature:** It is important to note that related tickets are no longer being tracked via “task lists in markdown,” due to GitHub's planned depreciation of “Task Lists” (April 2025). Instead, related tickets will be connected to tickets via "sub-issues".
 
 
 
 
 ## Ticket Types
 
-**There are three main types of tickets:**
+**There are three main types of tickets.** [^2] 
 1. [ADE Intake Requests](#ADE-Intake-Requests)
 2. [ADE Work Ticket](#ADE-Work-Ticket)
 3. [ADE Research Ticket](#ADE-Research-Ticket)
+
+[^2]: **Anchor links and collapsed sections:** Anchor links will not activate on a collapsed details section, unless it is expanded on the page. In this example, be sure to expand the collapsed details section "Expand to view descriptions of the three main ticket types" to activate the anchor links above it. 
 
 <details><summary>Expand to view descriptions of the three main ticket types.</summary>
     
