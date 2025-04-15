@@ -105,7 +105,9 @@ Research goal: Get user feedback on a proposed design revision for "save in prog
 
 Research goal: Get user feedback on error messages and the progress bar while filling out online forms.
 
-5. What reactions do Veterans have to error messages? Do they know what the error messages mean and how to resolve them?
+5. What reactions do Veterans have to error messages? 
+     1. Do they know what the error messages mean and how to resolve them?
+     1. How do they want to find out about errors?
 1. What reactions do Veterans have to the progress bar? Do they notice it?
 
 ### Hypothesis
