@@ -42,7 +42,7 @@
 
 
 ## Team 👥
-Government Stakeholders:
+**Government Stakeholders:**
 - Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
 - Comp Services policy and process partners: Paul Schute (paul.shute@va.gov)
 - Product Owner:  Emily Theis (emily.theis@va.gov), Leah Keeler (Leah.Keeler@va.gov)
@@ -53,7 +53,7 @@ Government Stakeholders:
 - ITSC (IT Strategic Comms) liaison: n/a
 - VBA contact: David Reis
   
-Team 1 🦖
+**Team 1 🦖**
  
 - Github Project: [DBEX TREX 2024 VA Disability 526](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2)
 - GitHub team label: DBEX-TREX
@@ -62,7 +62,7 @@ Team 1 🦖
 - Engineering: Aurora Hampton, Seth Darr, Mark Chae, Tommasina Miller, Ari Perez, Tracy Tran
 - Delivery: Pam Macalintal
  
-Team 2 🍞
+**Team 2 🍞**
  
 - Github Project: [DBEX Carbs 2024 VA Disability 526](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/7)
 - GitHub team label: DBEX-CARBS
