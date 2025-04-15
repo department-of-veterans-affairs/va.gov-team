@@ -22,7 +22,7 @@ Cindy and Jeana want to **learn whether Veterans are confident that their form d
 
 ![green-save-alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/green-save-alert.png)
 
-2. **NEW! Change "Finish this request later" to look like a button** titled "Save and finish later" or "Finish later" (instead of the current look as a link) for material honesty. Including the word "Save" will help Veterans understand that their form data is being saved. This new button can be put in place of the Back button (which isn't needed because of breadcrumb at the top, per research conducted with the minimal header design) because this is a good place for the user to decide whether to stop working and resume later *vs.* continue onto the next page. We might also consider adding the word "save" to the "Continue" button, too.
+2. **NEW! Change "Finish this request later" to look like a button** titled "Save and finish later" or "Finish later" (instead of the current look as a link) for material honesty. Including the word "Save" will help Veterans understand that their form data is being saved. This new button can be put in place of the Back button (which isn't needed because of breadcrumb at the top, per research conducted with the minimal header design) because this is a good place for the user to decide whether to stop working and resume later *vs.* continue onto the next page. We might also consider adding the word "save" to the "Continue" button, too. We and the Content team prefer the third option below ("**Save and finish later**" and "**Save and continue**"):  
 
 ![newCTAoptions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-04-save-in-progress/images/newCTAoptions.png)
 
@@ -60,5 +60,5 @@ Coded prototype with a working form | So can test with screen reader users (as w
 A form using the minimal header|It's in the VA design system and has space to add a second CTA button|Use the [Request Personal Records (VA Form 20-10206)](https://staging.va.gov/records/request-personal-records-form-20-10206/introduction) that's already in the minimal header format
 Turn off display of green alert on form after every field entry|Want to test this|Need help from an engineer
 Change "Finish this later" button/link to a button to the left of the Continue button|Want to test this|Need help from an engineer
-Content feedback on "Save and finish later" button wording|Get approval for the button wording|Reach out to the Content and IA team via slack
+Content feedback on "Save and finish later" button wording|Get approval for the button wording|DONE--5 Content folks during Office Hours preferred the third proposed design: "Save and finish later" and "Save and continue".
 Matt Dingee's feedback on adding a second button to every form page|Material honesty--so the "Finish this later" button that looks like a link would look like a button|Matt prefers that the new button be in a different place, but we can test this way (no additional approval needed from him). Jeana might do more design exploration.
