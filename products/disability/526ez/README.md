@@ -198,7 +198,7 @@ Engineering research | Discovery and/or technical approach documents from engine
 |Engineering Audit/Inventory|A list of engineering documents and a storehouse for documents saved in a non-standard format|[SharePoint folder](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Engineering/Audit%20and%20Inventory?csf=1&web=1&e=ZCN3CN)|01/31/25|
 #### Tech Debt 💰
 
-- We recommend starting with [this lineup of tickets](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?sliceBy%5Bvalue%5D=Transition+Tickets+%28recommendations%29). 
+➡️ We recommend starting with [this product backlog of tickets](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2?sliceBy%5Bvalue%5D=Transition+Tickets+%28recommendations%29). 
 
 - Follow-up tickets for 0781 Reporting
    - [[0781 PS] add Reporting to cron tasks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106931)
