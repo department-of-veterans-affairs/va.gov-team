@@ -92,17 +92,18 @@ In addition, user feedback collected on "finish this request later", error messa
 ### Research questions
 
 Research goal: Learn about Veterans' expectations for saving information while filling out an online form before the form is submitted.
-1. What experiences have Veterans had while filling out VA forms?
-1. What expectations do Veterans have about whether information will be saved while filling out an online form? (ask at end of session, not beginning)
+1. What experiences have Veterans had around saving while filling out VA forms?
+1. What expectations do Veterans have about whether information will be saved while filling out an online form?
+     1. What do Veterans expect to happen to their form data if they stop in the middle of filling out a form?
+     1. What do Veterans expect to happen to their form data if they close the form page?
+     1. How do Veterans expect to resume working on a form that they previously started filling out?
 
 Research goal: Get user feedback on a proposed design revision for "save in progress" and "finish this request later".
 
-3. What do Veterans expect to happen to their form data when they walk away from filling out their forms?
-1. What do Veterans expect to happen to their form data if they close the form page?
-* How does a user know that their form data is being saved?
-* How does a user expect to re-start a form?
+1. Do Veterans think that their form data is being saved? If so, how do they know?
+1. Are Veterans able to stop working on a form and go back to it later? If so, how do they do it?
 Are Veterans confident that their form data is being saved?
-1. Are Veterans able to stop working on a form and then go back to it later?
+1. 
 
 Research goal: Get user feedback on error messages and the progress bar while filling out online forms.
 
@@ -110,22 +111,16 @@ Research goal: Get user feedback on error messages and the progress bar while fi
 1. What reactions do Veterans have to the progress bar? Do they notice it?
 
 ### Hypothesis
-> [!NOTE]
-> Remember to constrain the hypothesis to the goals of your study!
- 
-**Think through these prompts to develop a strong hypothesis:**
-	
-`What do you intend to learn and measure from this study?` 
 
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
+1. While filling out online forms, Veterans expect that their form data will be saved.
 
----
+1. With the new design, Veterans are confident that their form data will be saved.
 
-**[Enter hypothesis here]** 
+1. With the new design, Veterans will know how to resume filling out a form that they previously started filling out.
+
+1. When Veterans encounter error messages while filling out online forms, they are able to resolve the errors.
+
+1. While filling out an online form, Veterans will notice the progress bar and find it useful.
 
 ---
   
@@ -209,6 +204,9 @@ We want to recruit both screen reader users and signed users.
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
+
+AT and non-AT users
+people who have filled out VA forms online before, and those who have not
 
 - `[Place primary criteria here between hash marks when in edit mode]`
 - `primary criteria`
