@@ -8,7 +8,16 @@ While this runbook is intended to be read from top to bottom, each section is se
 
 ## Creating the VA.gov Application
 
-Every form created using the Form Engine platform requires its own application within the `vets-website` repo. More details on this process to come....
+Every form created using the Form Engine platform requires its own application within the `vets-website` repo & associated entry in `content-build`'s `registry.json`. 
+
+The easiest way to do this is using the yeoman form generator in vets-website, via `yarn new:app`. Answer the prompted questions, keeping in mind these specific things:
+
+- Include the `/simple-forms-form-engine/` directory as part of the app folder!
+- When it asks `Which form template would you like to start with?`, select `FORM_ENGINE: A form from Drupal using the shared Form Engine`
+- The only file you need to overwrite at this time is `../content-build/src/applications/registry.json`. Other overwrite questions should be skipped.
+
+Once the yeoman task has completed, you should have a new Form Engine app scaffolded and ready to deploy.
+  
 
 ## Using the Form Builder
 
