@@ -6,7 +6,7 @@
 ## Problem Statement
 
 At present, Evidence Requests within the Claim Status Tool frequently display "raw" fields -- that is to say, directly from the API -- to the veteran.
-These fields are frequently confusing at worst or not-particularly-legible at best. They can be confusing.
+These fields can frequently be confusing or not particularly legible.
 
 ## Solution Approach
 
