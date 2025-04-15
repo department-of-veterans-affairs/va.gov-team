@@ -23,14 +23,14 @@ Procedure | Usage
 
 
 ### People
-If you need to escalate an issue beyond the immediate team, these are the relevant personnel (effective May 2021):
+If you need to escalate an issue, these are the relevant personnel (effective January 2025):
 Role | Person | Contact Mechanism 
 :-- | :-- | :--
-Product Owner | Leanna Miller | DSVA Slack
-Engineering Lead | Travis Newby | DSVA Slack
+Product Owner | Ryan Thurlwell | DSVA Slack
+Engineering Lead | Tim Wright | DSVA Slack
+Product Lead | Becca Tupaj | DSVA Slack
 Information System Owner (ISO) | Chris Johnston | DSVA Slack
-Information System Security Officer (ISSO) | Griselda Gallegos | VA Email, phone
-Privacy Officer | Rita Grewal | VA Email, phone
+
 
 These contacts (other than mobile product owner) are documented officially in [ATO Incident Response Contact Information](https://github.com/department-of-veterans-affairs/vets.gov-ato/blob/master/2020%20Docs/incident_response.md#40-contact-information).
 
@@ -40,7 +40,6 @@ These contacts (other than mobile product owner) are documented officially in [A
 Many issues can be detected / resolved by monitoring / reaching out to others in DSVA Slack. Some of the important channels are,
 * #va-mobile-app
 * #va-mobile-app-alerts
-* #oncall
 * #vfs-platform-support
 * #vsp-identity
 * #vsp-operations
