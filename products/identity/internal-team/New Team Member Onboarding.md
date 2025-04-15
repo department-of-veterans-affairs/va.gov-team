@@ -62,11 +62,11 @@ The [VA.gov](http://va.gov/) Identity team is responsible for many aspects of ho
 
 ## Onboarding Items (FE Engineer)
 
-- [ ]  Review the Frontend Identity Onboarding document [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/onboarding/fe-identity-onboarding.md)
+- [ ]  Review the Frontend Identity Onboarding document [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/internal-team/fe-identity-onboarding.md)
 
 ## Onboarding Items (BE Engineer)
 
-- [ ]  Review the Backend Identity Onboarding document [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/onboarding/be-identity-onboarding.md)
+- [ ]  Review the Backend Identity Onboarding document [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/internal-team/be-identity-onboarding.md)
 
 ## Onboarding Items (Researcher/Designer)
 
