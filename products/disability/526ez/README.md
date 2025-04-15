@@ -159,7 +159,7 @@ In February 2024, there was an effort to update our 526 Domo dashboard to captur
 #### Github Repos 
 
 - 💻= clone locally for local development 
-- 📃= pure documentation (not need to clone locally)
+- 📃= pure documentation (no need to clone locally)
 
 |Title|Description|Link|Notes|
 |-----|-----------|----|----|
