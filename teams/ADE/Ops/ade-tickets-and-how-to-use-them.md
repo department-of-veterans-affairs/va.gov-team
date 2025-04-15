@@ -11,13 +11,13 @@ This document details how to create, update, and close an ADE ticket, ensuring a
 - **Option 1:** Use the outline (hamburger menu) in this document to view and navigate the different sections 
 - **Option 2:** Use the anchor links below:
     - [ADE GitHub Terms and Definitions](#ADE-Github-Terms-and-Definitions)
-    - [Ticket Types](##Ticket-Types)
-    - [Work Ticket Templates](##Work-Ticket-Templates)
-    - [Custom Ticket Fields](##Custom-Ticket-Fields)
-    - [Labels](##Labels)
-    - [Ticket Status](##Ticket-Status)
-    - [Closing Tickets](##Closing-Tickets)
- - **Option 3:** Utilizing assistive technology, use the headlings map. 
+    - [Ticket Types](#Ticket-Types)
+    - [Work Ticket Templates](#Work-Ticket-Templates)
+    - [Custom Ticket Fields](#Custom-Ticket-Fields)
+    - [Labels](#Labels)
+    - [Ticket Status](#Ticket-Status)
+    - [Closing Tickets](#Closing-Tickets)
+ - **Option 3:** Utilizing assistive technology, use the headings map. 
 
 <hr> 
 
@@ -102,7 +102,7 @@ This document details how to create, update, and close an ADE ticket, ensuring a
 >     - The `ADE Intake` label is only present on parent tickets aka intakes aka epics.
 >     - Upon the initial ticket save, the `New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/1597/views/1) is set.
 > #### ADE Notifications
-> - New intake tickets are also part of a Slack/GitHub integration, whereas a message is sent to the ADE team in DSVA Slack, by GitHub, notifying the entire team a new intake has arrived.
+> - New intake tickets are also part of a Slack/GitHub integration, where a message is sent to the ADE team in DSVA Slack, by GitHub, notifying the entire team a new intake has arrived.
 > - This increases visibility for the team, and OCTO, for awareness and prioritization, prior to refinement.
 > - This is also used as the primary ticket thread for discussions in Slack.
 
@@ -293,7 +293,7 @@ When closing a ticket with a VFS Team, please add a link to our feedback survey 
 > 
 > Your feedback matters, and it will help us to both confirm and shape our processes moving forward.
 >
-> Complete the short [ADE Feedback Survey](https://app.optimalworkshop.com/questions/dj540s05/accessibility-digital-experience-feedback-survey/shared-results/9ocp2xepd9zax37no6051olly5nde9f1#/t/results/overview), at a time that is convenient for you. 
+> Complete the short [ADE Feedback Survey](https://dj540s05.optimalworkshop.com/questions/accessibility-digital-experience-feedback-survey), at a time that is convenient for you. 
 
 </details>
 
