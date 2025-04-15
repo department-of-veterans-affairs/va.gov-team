@@ -92,11 +92,11 @@ We conducted hour-long remote moderated research sessions via Zoom on March 7-14
 1. Many Veterans will not have heard of pre-need burial eligibility
     1. Definitely true. Most had not heard of the eligibility form
 2. Filling out the pre-need burial form will be too cumbersome for the app because of the paperwork that needs to be uploaded.
-    2. Likely false. Most would have no problem uploading paperwork either with searching for existing digital copies or taking photos.
+    1. Likely false. Most would have no problem uploading paperwork either with searching for existing digital copies or taking photos.
 3. Veterans will want to see updates of the application status in the app.
-    3. Definitely true
+    1. Definitely true
 4. Veterans will want to have decision letters available within their VA.gov account instead of relying on physical letters to keep track of.
-    4. Definitely true
+    1. Definitely true
 
 
 ## Key Findings
@@ -105,21 +105,21 @@ Veterans want to plan ahead not for themselves but to make things easier for the
 
 
 
-1. Most participants learn about their benefits through word of mouth, rather than VA.gov
+1. Most participants learn about their benefits through word of mouth, rather than VA.gov.
 2. Awareness of pre-need eligibility is low, and is often confused with more comprehensive funeral planning services.
 3. Existing burial content on VA.gov is generally understandable, but there is desire for clearer and simple communication.
-4. Planning ahead for death is seen as a practical way to care for loved ones
+4. Planning ahead for death is seen as a practical way to care for loved ones.
 5. Personal experiences of loss are a strong prompt for planning, but urgency is often missing.
 6. Everyone wants a digital copy of their pre-needs eligibility letter.
 7. Participants have a strong desire to ensure their loved ones can access important documents after they die.
-8. Participants prefer phones for quick tasks, but turn to computers or tablets for anything more involved
+8. Participants prefer phones for quick tasks, but turn to computers or tablets for anything more involved.
 9. Participants desire transparency from VA, and generally have low expectations for communication.
 
 
 ## Details of Findings
 
 
-### Finding 1 : Most participants learn about their benefits through word of mouth rather than VA.gov.
+### Finding 1: Most participants learn about their benefits through word of mouth rather than VA.gov.
 
 
 
@@ -138,7 +138,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
   > _"Honestly, I don't remember seeing anything. I believe when we go to the clinic or hospital, they should have a poster up or something, anything." – P12_
 
 
-### Finding 2 : Awareness of pre-need eligibility is low, and is usually thought of with more comprehensive funeral planning services.
+### Finding 2: Awareness of pre-need eligibility is low, and is usually thought of with more comprehensive funeral planning services.
 
 
 
@@ -149,6 +149,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
     * End-of-life documentation
     * Reserving a plot
     * Step-by-step guidance on the entire process of preparing for a Veteran burial
+
       <br>
       
   > _"A lot of people see pre-need as being the whole process, because that's what pre-need insurance is. I don't know if people would get confused as to think it's the whole enchilada." – P7_
@@ -159,7 +160,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
 
 
 
-### Finding 3 : Existing burial content on VA.gov is generally understandable, but there is desire for clearer and simple communication.
+### Finding 3: Existing burial content on VA.gov is generally understandable, but there is desire for clearer and simple communication.
 
 
 
@@ -184,7 +185,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
 * Simpler language was desired from 5 of 13.
 
 
-### Finding 4 : Planning ahead for death is seen as a practical way to care for loved ones
+### Finding 4: Planning ahead for death is seen as a practical way to care for loved ones
 
 
 
@@ -196,7 +197,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
     > _“You want to make it easier for the ones that are going to handle stuff. I've seen enough people dying, enough families in grief that the more the deceased does before they die, the easier it is for them. When they're in uncharted territory, they start fighting.” – P9_
 
 
-### Finding 5 : Personal experiences of loss are a strong prompt for planning, but urgency is often missing.
+### Finding 5: Personal experiences of loss are a strong prompt for planning, but urgency is often missing.
 
 
 
@@ -212,7 +213,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
     > _"[For their planning] No planning. I thought about it periodically. But nothing really established. I feel like I'm pretty healthy, and the idea of passing is far from my mind." – P6_
 
 
-### Finding 6 : Everyone wants a digital copy of their pre-needs eligibility letter.
+### Finding 6: Everyone wants a digital copy of their pre-needs eligibility letter.
 
 
 
@@ -227,7 +228,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
     > _"I’m thinking it would probably be in the same place where you go to get your eligibility letters and that kind of stuff — with the other letters." – P6_
 
 
-### Finding 7 : Participants have a strong desire to ensure their loved ones can access important documents after they die.
+### Finding 7: Participants have a strong desire to ensure their loved ones can access important documents after they die.
 
 
 
@@ -244,7 +245,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
     > _"If there was a registry, maybe they could punch in and see 'already qualified.' Some websites ask for a lot before giving access—civilians need easier ways to get in. Maybe it’s public data or something, I don’t know." – P11_
 
 
-### Finding 8 : Participants prefer phones for quick tasks, but turn to computers or tablets for anything more involved
+### Finding 8: Participants prefer phones for quick tasks, but turn to computers or tablets for anything more involved
 
 
 
@@ -260,7 +261,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
 * Most knew how they would upload their DD214 (8 of 13), but a few (4 of 13) didn’t realize they could take a photo of the document and expressed concern about locating digital files on a mobile device.
 
 
-### Finding 9 : Participants desire transparency from the VA and generally have low expectations for communication.
+### Finding 9: Participants desire transparency from the VA and generally have low expectations for communication.
 
 
 
