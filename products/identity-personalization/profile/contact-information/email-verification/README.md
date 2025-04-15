@@ -2,6 +2,9 @@
 
 **Last Updated: March 5, 2025** 
 
+!NOTE! This page will be completed when we launch. Will use the initiative brief until launch
+
+
 ### Table of Contents
 
 - [Communications](#communications)
