@@ -38,9 +38,6 @@
 
 [For a complete list of current and past projects, please refer to the Profile section outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects).
 
-|Project/Inititive|Epic|Status|
-|---|---|---|
-
 ## Backend
 
 ## Design and UX
