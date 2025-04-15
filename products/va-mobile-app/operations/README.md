@@ -32,9 +32,6 @@ Product Lead | Becca Tupaj | DSVA Slack
 Information System Owner (ISO) | Chris Johnston | DSVA Slack
 
 
-These contacts (other than mobile product owner) are documented officially in [ATO Incident Response Contact Information](https://github.com/department-of-veterans-affairs/vets.gov-ato/blob/master/2020%20Docs/incident_response.md#40-contact-information).
-
-
 ### Key Slack Channels
 
 Many issues can be detected / resolved by monitoring / reaching out to others in DSVA Slack. Some of the important channels are,
