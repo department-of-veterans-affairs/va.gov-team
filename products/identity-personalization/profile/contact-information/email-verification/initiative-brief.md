@@ -123,7 +123,8 @@ TK
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104525)
   - [Experience Crew Product/Project Tracking Ticket](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/1252)   
 - [Mural for ideation](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1741604960245/d32c6003ed9134cebe4c30284a1e349177e035f7)
-  
+- [VA profile intake ticket CMDMRP-10107](https://jira.devops.va.gov/servicedesk/customer/portal/12/CMDMRP-10107)
+- [VA Notify Intake](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107572)
    
 ## Screenshots
 
