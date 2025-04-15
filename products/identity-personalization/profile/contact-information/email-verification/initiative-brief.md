@@ -104,7 +104,7 @@ Team/Crew/Pod OKRs:
 ## Launch Planning
 ### Collaboration Cycle
 
-- Kickoff ticket
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107570)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
