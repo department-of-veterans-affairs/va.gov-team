@@ -61,4 +61,4 @@ A form using the minimal header|It's in the VA design system and has space to ad
 Turn off display of green alert on form after every field entry|Want to test this|Need help from an engineer
 Change "Finish this later" button/link to a button to the left of the Continue button|Want to test this|Need help from an engineer
 Content feedback on "Save and finish later" button wording|Get approval for the button wording|Reach out to the Content and IA team via slack
-Matt Dingee's feedback on adding a second button to every form page|Material honesty--so the "Finish this later" button that looks like a link would look like a button|Jeana shares this with Matt Dingee
+Matt Dingee's feedback on adding a second button to every form page|Material honesty--so the "Finish this later" button that looks like a link would look like a button|Matt prefers that the new button be in a different place, but we can test this way (no additional approval needed from him). Jeana may do more design exploration.
