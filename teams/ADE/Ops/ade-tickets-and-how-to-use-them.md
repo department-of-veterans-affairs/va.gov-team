@@ -24,20 +24,39 @@ This document details how to create, update, and close an ADE ticket, ensuring a
 ## ADE Github Terms and Definitions
 - **Table content:** The following table covers common terms used by ADE and their definitions. 
 - **Table organization:** They are ordered from high-level information to more granular information.
-  
+
+
+### Process Terms
 | **Term** | Definition |
 |------------------------|------------------|
-| **GHP**                   |    The abbreviation for GitHub Projects.| 
+| **GHP**                   |    The abbreviation for GitHub Projects, where the ADE team manages their work.| 
 | **Repository**                   |     A place where a project’s files, version history, and resources live. ADE operates in the VA.gov-team repository.| 
 | **Pipeline**                   |     **A pipeline is a collection, or series of workflows, that defines the status of work being done at a given point in the workflow process.** <li>The ADE Pipeline consists of distinct stages that help define the status of work, while it is with our team. <li>The starting point for our pipeline is `New Intakes` and the end point is `Closed`.  |
 | **Refinement**                   |     The process of reviewing and assessing tickets in various stages of the ADE pipeline (New Intakes , Backlog, Blocked, Icebox, etc.) in an effort to progress them through the pipeline to a `Closed` status. | 
+| **Ticket Status** | Dictates the swim lanes for the pipeline. <li>Review the [ticket statuses used by ADE](##Ticket-Status) | 
+| **Swim Lanes** | The grouping of a similar ticket status for pipeline management. | 
+| **Templates** |  Templates have been created for VFS Teams and internal ADE use to organize our work.<li>Refer to [Work Ticket Templates](##Work-Ticket-Templates) for more information | 
+
+
+### Workflow Terms  
+| **Term** | Definition |
+|------------------------|------------------|
 | **Intake**                 | **A request from a VFS product team or stakeholder for ADE support, which will be broken down into individual work tickets.** <li>ADE selects the issue type “Epic” for these intakes, to group the work by issue type. <li>Intakes are also known as “parent tickets.” <li>Every intake has a quick summary at the top, for a quick high-level overview of what is enclosed. |
 | **Issue**                   | **An issue is a well-defined unit of work.** <li>In Github, teams are asked to define the nature of their initiative and desired outcomes, in addition to providing background. <li>Ticket(s) are then created based on the defined issue.| 
 | **Ticket**                   | **Ticket(s) are created based on the issue(s) presented by the VFS Team.** <li>Tickets contain the details of the issue and the steps “tasks” (or work) required to meet the acceptance criteria, which is the definition of done. <li>Every ticket has a quick summary at the top, for a quick high-level overview of what is enclosed.<li>**Multiple Tickets:** If the work needing to be done to support the intake ticket is elaborate, multiple tickets may be created to support each portion of the work. <li>**Single Tickets:** If the work is simple and straightforward,one ticket (or potentially more) will be generated to support that work. |
 | **Task**                   |     **In Github, a task is an individual work item that can be checked off when completed. Tasks can be used as a simple checklist and/or converted into issues or sub-issues.** <li> **Unchecked Task:** When a task is unchecked, it is open. <li>**Checked Task:** When it is checked, it is closed. <li>**Task Progress:** GHP will show the number of tasks completed in an issue, and the overall progress at the top of the parent ticket. <li>**Lists:** You can also use multiple task lists in one ticket for different parts of your project. In any given ticket there will always be at least two task lists, an ADE Internal Task list and a task list for the VFS Team to complete.  |
 | **Sub-Issues**                   | **It is important to show connectivity between tickets.** This can be done through sub-issues.[^1] <li>**Existing Issues:** To connect an existing issue, as a sub-issue, choose the drop-down from "create sub-issue" and select "add existing issue" <li>**New Issues:** To connect a new issue,as a sub-issue, choose the drop-down from "create sub-issue" and select "create sub-issue," and select the respective template. |
+
+
+### Assets & Reporting Terms  
+| **Term** | Definition |
+|------------------------|------------------|
 | **Supporting Artifacts**                   | Tickets also request supporting artifacts. ADE needs teams to include artifacts like product outlines, user flows, mockups and prototypes with links to screens/boards/sections to look at, in addition to user accounts for the scenarios provided to test. |
-| **Titles**                   | **The title section will always begin with the following naming convention: `[ADE xyz]`.** <li>This is used to distinguish the ticket type, followed by the team name, product and the service being provided. <li>It is good to keep the title brief (if possible) and include the name of the tool/product for easier scanning. <li>Consistency is also helpful. <li>[See the Work Ticket Template section](#Work-Ticket-Templates), for suggested naming conventions.|
+| **Titles**                   | **The title section will always begin with the following naming convention: `[ADE xyz]`.** <li>This is used to distinguish the ticket type, followed by the team name, product and the service being provided. <li>It is good to keep the title brief (if possible) and include the name of the tool/product for easier scanning. <li>Consistency is also helpful. <li>Refer to the[ Work Ticket Template section](#Work-Ticket-Templates), for suggested naming conventions.|
+| **Labels**                   | Sometimes refered to as tags. These allow for ADE to 'tag' which discipline needs to be involved with the work. [Current source of truth for labels relating to ADE](https://github.com/department-of-veterans-affairs/va.gov-team/labels?page=1&q=ADE) <li>Refer to the [Labels section](#Labels), for more information.|
+| **Fields** | GHP Data that is important for filtering and tracking issues within the ADE pipeline. <li>Refer to the [Custom Ticket Fields section](##Custom-Ticket-Fields) for more information. | 
+
+
 
 [^1]: **Discontinued Feature:** It is important to note that related tickets are no longer being tracked via “task lists in markdown,” due to GitHub's planned depreciation of “Task Lists” (April 2025). Instead, related tickets will be connected to tickets via "sub-issues".
 
