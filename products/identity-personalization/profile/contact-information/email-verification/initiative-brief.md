@@ -2,6 +2,8 @@
 
 #### Overview
 
+Veterans who use VA.gov create accounts using ID.me or Login.gov to verify their identity. However, the email address they use to create these accounts may differ from the contact email where they receive important communications from the VA. Currently, there is no verification process to ensure the provided contact email is valid or monitored by the user. This feature introduces a verification process for users' contact emails to ensure secure, reliable communication from VA.gov services.
+
 Currently, emails are not confirmed, can be stale, and are relied upon heavily by us to communicate with users. We need to be able to communicate with our users in the event of a failure. Accounts with no email address in the VA.gov Profile make this more difficult.
 
 
@@ -17,6 +19,11 @@ The objective of this initiative is to improve the accuracy and completeness of 
   
 ## Problem
 Some VA.gov users have outdated or incorrect contact email addresses, leading to missed communications regarding benefits, healthcare, and other services. This issue affects veterans who rely on VA services, as well as VA staff who depend on accurate contact information for outreach.
+
+- Users may provide incorrect, inactive, or outdated contact emails.
+- Veterans are not notified if the contact email they've entered is unreachable.
+- There's no clear indicator to show if a contact email is verified or not.
+
 
 ### Key Challenges:
 
