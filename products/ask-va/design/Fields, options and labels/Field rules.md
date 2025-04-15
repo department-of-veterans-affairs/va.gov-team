@@ -100,9 +100,7 @@ Review [location of residence and postal code](https://github.com/department-of-
 
 ## Pronouns
 
-|If|Then|Unless|
-|:--|:--|:--|
-|All categories|Optional field for `Pronouns` of the submitter||
+This field has been removed from Ask VA. In February 2025, after an Executive Order.
 
 ## Reason you contacted us
 
