@@ -123,14 +123,14 @@ We use templates to make it easier to create tickets for specific kinds of work 
     
 ### ADE Ticket Templates for VFS Teams
 
-| **Template** | Description/When to use | Title Format (Suggested) | 
+| **VFS Template** | Description/When to use | Title Format (Suggested) | 
 |------------------|------------------|-------------------------------------|
 | [Accessibility Digital Experience (ADE) Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md) | Use this ticket to request collaboration on a new initiative with the Accessibility Digital Experience (ADE) team | [ADE Intake]:[Team Name][Product] |
 | [Research Support Ticket (ADE)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ade-accessibility-research.yaml) | Request support for user research with Veterans who are using assistive technology (AT)	|[ADE Research]:[Team Name][Product][Researching](Month Year of Research) | 
 
 ### ADE Ticket Templates for ADE Internal Use
 
-| ** Internal Template** | Description/When to use | Title Format (Suggested) | 
+| **Internal Template** | Description/When to use | Title Format (Suggested) | 
 |------------------|------------------|-------------------------------------|
 | [ADE Research Child Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-refined-ticket-template.md) | Template for ADE Research Child Tickets - based on the work requested in the research intake ticket. These will be created as sub-issues, under the parent research intake ticket. | [ADE Research]:[Team Name][Product][Researching] - [Type of Support Requested]   |
 | [ADE Pilot Research Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-Research-Pilot-Ticket.md) | Template for pilots conducted prior to research, created based on requests made to ADE. | [ADE Research - Pilot]:[Team Name][Product][Researching]- [Device Type](Month Year of Research) |
