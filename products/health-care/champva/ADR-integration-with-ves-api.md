@@ -1,71 +1,85 @@
 # Architecture Decision Record (ADR)
 
-## Integration between IVC CHAMPVA forms backend (vets-api) and VES API
+## Integration between IVC CHAMPVA Forms Backend (`vets-api`) and VES API
 
-**Date:** 4/16/2025
+**Date:** 4/16/2025  
 **Status:** Accepted
 
 ### Context
 
-The IVC CHAMPVA team and the Veteran Enrollment System (VES) are collaborating to integrate the 
-online (VA.gov) version of the CHAMPVA application (form 10-10d) with a newly developed VES API
-that can ingest CHAMPVA applications.
+The IVC CHAMPVA team and the Veteran Enrollment System (VES) team are collaborating to integrate the online (VA.gov) version of the CHAMPVA application (Form 10-10d) with a newly developed VES API capable of ingesting CHAMPVA applications.
 
-Currently, a submission of the online CHAMPVA application form produces a populated PDF which is
-sent to the Delivery Operations Claims Management Platform (DOCMP), where it is processed.
+Currently, submission of the online CHAMPVA application generates a populated PDF, which is sent to the Delivery Operations Claims Management Platform (DOCMP) for processing.
 
-The new VES API will allow for the storage (and later retrieval, processing, etc.) of the structured
-data that makes up a particular form submission.
+The new VES API will enable storage (and later retrieval, processing, etc.) of structured data associated with each form submission.
 
-As a result of this integration, CHAMPVA applications submitted on VA.gov will now need to be sent
-to two downstream systems instead of one. With this change come several decisions that must be 
-made to determine implementation and next steps.
+As a result of this integration, CHAMPVA applications submitted on VA.gov will need to be sent to **two** downstream systems instead of one. This change introduces several implementation decisions.
 
-#### What decisions need to be made?
-1. How should VES-specific data be stored/handled? (e.g., separate from existing submission data? Or combined in some way?)
-2. When and how should VES submissions occur during the existing form submission lifecycle?
-3. How should submission errors be handled now that two independent systems will be receiving submissions?
-    - Is there a need for automated, async retries of failed submissions?
+### Key Decisions to Make
+
+1. How should VES-specific data be stored/handled? (e.g., stored separately from existing submission data or combined?)
+2. When and how should submissions to VES occur during the form submission lifecycle?
+3. How should errors be handled now that two independent systems are involved?
+   - Should there be automated, asynchronous retries for failed VES submissions?
 
 ### Decisions
 
-After evaluating the requirements and considering the available avenues, the engineering team has
-decided to address the above questions in the following ways:
+After evaluating the requirements and considering the available options, the engineering team has decided the following:
 
-#### VES-specific data will be stored alongside the existing submission data in the `IvcChampvaForm` database table. 
+#### 1. VES-specific data will be stored alongside existing submission data in the `IvcChampvaForm` database table.
+
 The following new columns will be added:
-- `ves_request_data`: an encrypted column that holds all form data entered by the user. This can be used to resubmit the form at a later date in the event of a service outage or some other non data-related issue.
-- `application_uuid`: a unique identifier used to designate an individual submission
-- `ves_response`: the HTTP response code + any relevant messages returned after submitting to VES
-#### VES submissions should occur immediately following a successful submission to DOCMP
-1. The VES data is validated within vets-api using a custom validator that aligns with the API specification.
-2. The generated PDF is sent to DOCMP. If successful, the user receives a success message on the front end.
-3. If the initial VES validation step succeeded and the PDF successfully reached DOCMP, the form data is sent to the VES API
-#### Depending on which part of the process a failure occurs in, the following actions are taken
-1. If a failure occurs during the initial VES validation step (run within vets-api, prior to sending PDF to DOCMP or the form data to VES), an error is returned to the user and form submission is halted.
-2. If a failure occurs during the submission of the PDF to DOCMP an error is returned to the user and form submission is halted.
-3. If a failure occurs during the submission to VES (after successful data validation and subsequent PDF submission to DOCMP), no error is returned to the user.
-    - In this event, the submission is retried asyncronously via a once-every-hour sidekiq job for up to five hours.
-    - If a subsequent retry is successful, the success is recorded in the `ves_response` field and retries are ceased.
-    - If, after five retries, the submission still fails to reach VES, a `StatsD` counter `ivc_champva.ves_submission_failures` is incremented and an alert is sent to the IVC team slack channel `#ivc-forms-datadog`
-  
+
+- `ves_request_data`: An encrypted column that holds all form data entered by the user. This enables resubmission in case of service outages or non-data-related issues.
+- `application_uuid`: A unique identifier designating each individual submission.
+- `ves_response`: The HTTP response code and any relevant messages returned after submission to VES.
+
+#### 2. VES submissions will occur immediately following a successful submission to DOCMP.
+
+- The VES data is validated within `vets-api` using a custom validator that aligns with the API specification.
+- The generated PDF is submitted to DOCMP. If successful, a success message is returned to the user on the front end.
+- If the VES validation succeeds and the PDF submission to DOCMP is successful, the structured form data is sent to the VES API.
+
+#### 3. Error handling logic based on point of failure:
+
+1. **VES validation failure (within `vets-api`)**
+   - Submission is halted, and an error is returned to the user.
+
+2. **DOCMP submission failure**
+   - Submission is halted, and an error is returned to the user.
+
+3. **VES submission failure (post-successful validation and DOCMP submission)**
+   - The submission appears successful to the user, even if the VES submission fails.
+   - The submission is retried asynchronously using a Sidekiq job that runs once per hour for up to five hours.
+   - If a retry succeeds, the `ves_response` field is updated, and retries stop.
+   - If all retries fail, the `StatsD` counter `ivc_champva.ves_submission_failures` is incremented, and an alert is sent to the IVC team’s Slack channel `#ivc-forms-datadog`.
+
+```mermaid
+flowchart LR
+    A["User submits<br/>CHAMPVA Form"] --> B["Validate VES data<br/>(in vets-api)"]
+    B -- Fail --> C1["Return error to user"]
+    B -- Pass --> C2["Generate PDF"]
+    C2 --> D["Send PDF to DOCMP"]
+    D -- Fail --> E1["Return error to user"]
+    D -- Success --> E2["Send data to VES API"]
+    E2 -- Success --> F1["Record response in<br/>ves_response"]
+    E2 -- Fail --> F2["Retry async via Sidekiq<br/>(once/hour, up to 5x)"]
+    F2 -- "Retry Success" --> G1["Record success"]
+    F2 -- "All Retries Failed" --> G2["Increment StatsD counter<br/>Send alert to Slack (#ivc-forms-datadog)"]
+```
+
 ### Rationale
 
-_User experience_: Performing a VES data validation up-front in vets-api before attempting any submissions to 
-either consuming service (DOCMP/VES) allow us to quickly identify when a form will not be processable. 
-This saves user time by quickly identifying failures, and helps provide a higher degree of confidence in
-a successful submission to VES if the validations do pass.
+**User experience**  
+Performing VES validation up front in `vets-api`, before any submissions to DOCMP or VES, allows us to catch invalid data early. This improves user experience by providing fast feedback and increasing confidence in downstream success.
 
-_Ease of Integration_: The decisions above were made with an eye toward simple integration with our existing
-backend processes. By integrating the VES submission into the existing backend workflow and spinning off a 
-sidekiq job to handle async retries, we were able to simultaneously minimize logic changes to existing submission
-workflows, and keep our concerns separate between the VES and DOCMP submission steps. Additionally, by using the
-existing database table to store VES submission data we avoided the need for additional complexity in the database setup.
+**Ease of integration**  
+These decisions were made to minimize disruption to existing backend workflows. By integrating the VES submission into the existing flow and handling retries with a background job, we reduce complexity and isolate concerns between DOCMP and VES interactions. Reusing the existing database table for VES-related data also avoids unnecessary schema complexity.
 
 ### Consequences
 
-Clearly delineated areas of responsibility: The VES submission logic, while injected in the normal submission flow,
-is very clearly separated from the DOCMP submission logic, lending itself to simpler maintenance in future.
+**Clear separation of concerns**  
+Although VES submission logic is part of the normal submission flow, it remains clearly separated from DOCMP logic, supporting maintainability and easier future updates.
 
-Quick responses: By validating data up front we will be able to provide fast feedback to users in the
-event of failures.
+**Improved responsiveness**  
+Front-end users receive faster error messages due to early validation in the submission process.
