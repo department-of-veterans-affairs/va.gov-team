@@ -4,7 +4,7 @@ about: Issues for 526EZ application changes that are requested directly by stake
   outside of the regular product backlog
 title: 526EZ Incoming Issues
 labels: DBEX-Carbs, disability-experience, Incoming
-assignees: tblackwe
+assignees: kylesoskin
 
 ---
 
