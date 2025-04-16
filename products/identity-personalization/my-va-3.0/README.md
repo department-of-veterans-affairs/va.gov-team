@@ -1,4 +1,4 @@
-## Product Outline: Logged-in Dashboard `3.0 Redesign`
+## Product Outline: Logged-in Dashboard `MyVA v3.0`
 
 Status: `DRAFT`
 Last Update: 4/16/2025
