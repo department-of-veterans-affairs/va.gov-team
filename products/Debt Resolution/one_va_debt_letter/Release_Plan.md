@@ -28,10 +28,10 @@ Before enabling your feature toggle in production, you'll need to:
 
 | Feature type | Possible with feature toggles? |
 | --- | --- |
-| New feature in existing application | Y/N |
-| New application | Y/N |
-| Static content changes | Y/N |
-| URL redirects | Y/N |
+| New feature in existing application | Y |
+| New application | N |
+| Static content changes | Y |
+| URL redirects | N |
 
 DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
@@ -39,7 +39,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 > - Our Dev Team, in conjunction with our business partners will monitor site traffic and Veteran communications that denote submission problems. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle asap.
 
-### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT) N/A
 
 #### Planning
 
