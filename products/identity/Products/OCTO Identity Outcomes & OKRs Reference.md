@@ -2,7 +2,7 @@
 
 This doc outlines the key outcomes and OKRs guiding our identity work. Use the numbered labels to reference specific goals in issues, PRs, and other docs.
 
-### **🎯 OKRs**
+### **OKRs**
 
 **O1**: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 
@@ -17,14 +17,14 @@ This doc outlines the key outcomes and OKRs guiding our identity work. Use the n
 * **KR 2.2 (Identity)**: Authentications through the DS Logon username and password at VA are 0 by 9/30/2025.  
   * *Note: We know that the actual retirement date will be early FY26.*
 
-### **🧑‍💻 User Outcomes**
+### **User Outcomes**
 
 * **UO1**: Signing in to VA web and mobile properties should be so seamless that Veterans and other users barely notice the process, regardless of their location, technical set-up, or level of technical proficiency.  
 * **UO2**: Sign-in and authentication infrastructure should be so performant and reliable that it goes entirely unnoticed by the end user.  
 * **UO3**: Identity verification should be a secure yet manageable process that doesn't require significant time or effort, regardless of users' location, technical setup, or level of technical proficiency.  
 * **UO4**: Resolving sign-in issues should be quick and easy.
 
-### **💼 Business Outcomes**
+### **Business Outcomes**
 
 * **BO1**: Increased ease and reduced friction for Veterans signing in and verifying their identity through supported Credential Service Providers (CSPs).  
 * **BO2**: Increased security through adoption of multi-factor authentication and compliance with NIST 800-63 Digital Identity Guidelines.  
