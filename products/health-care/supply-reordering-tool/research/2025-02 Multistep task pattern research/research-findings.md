@@ -1,14 +1,10 @@
-<br>**This is a template, PLEASE MAKE A COPY**
+# Multistep task pattern Research Findings 
 
----
+**Office of the CTO - MHV Portal, Supply reordering tool**
 
-# [Study] Research Findings 
+Date: 04/15/2025
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
-
-Date: MM/DD/YYYY
-
-[Designer 1] [email], [Designer 2] [email]
+Jina Ryu, jina.ryu@va.gov
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
