@@ -6,7 +6,7 @@ In order to make sure our changes did not affect the overall 526 flow, we perfor
 
 We [initally](https://dsvavsp.testrail.io/index.php?/runs/view/6695&group_by=cases:section_id&group_order=asc) had a failure, due to a bug with not handling `nils` in certain submit states. 
 
-A PR has been put in for that, and the test had been confirmed passing now.
+A [PR](https://github.com/department-of-veterans-affairs/vets-api/pull/21727/files) has been put in for that, and the test had been confirmed passing now.
 
 
 In addition to the existing 526 overall regression test, we made many (24) test cases specifically for this effort, in TestRail, that map to our user stories and functionality described by our testing plan. 
