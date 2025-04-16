@@ -9,7 +9,7 @@ We [initally](https://dsvavsp.testrail.io/index.php?/runs/view/6695&group_by=cas
 A [PR](https://github.com/department-of-veterans-affairs/vets-api/pull/21727/files) has been put in for that, and the test had been confirmed passing now.
 
 
-In addition to the existing 526 overall regression test, we made many (24) test cases specifically for this effort, in TestRail, that map to our user stories and functionality described by our testing plan. 
+In addition to the existing 526 overall regression test, we made many (24) NEW test cases specifically for this effort, in TestRail, that map to our user stories and functionality described by our testing plan. 
 
 ![Screenshot 2025-04-15 at 7 50 50 PM](https://github.com/user-attachments/assets/8c1c7ea2-21ff-4a2e-b9b0-f76c5311b7db)
 
