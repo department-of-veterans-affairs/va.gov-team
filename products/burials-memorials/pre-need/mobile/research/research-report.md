@@ -76,7 +76,7 @@ User Needs
 
 ## Methodology
 
-We conducted hour-long remote moderated research sessions via Zoom on March 7-14, 2025. These sessions were semi-structured and mostly conversational, with some usability on VA.gov (unauthenticated portion) for gauging comprehension and a prototype for. Participants joined from their mobile devices and were asked about their knowledge of VA benefits and experience with funeral planning and wishes and shown the following pages:
+We conducted hour-long remote moderated research sessions via Zoom on March 7-14, 2025. These sessions were semi-structured and mostly conversational, with some usability on VA.gov (unauthenticated portion) for gauging comprehension, along with a prototype for discussing navigation and usability. Participants joined from their mobile devices and were asked about their knowledge of VA benefits and experience with funeral planning and wishes and shown the following pages:
 
 
 
