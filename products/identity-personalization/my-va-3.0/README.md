@@ -17,9 +17,10 @@ Last Update: 4/16/2025
 - [How to Access and Test](#How-to-Access-and-Test)
 
 ## Communications 
-
+- **Github Label:** authenticated-experience, my-va-dashboard
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 ## Roles
-
+[My VA is maintained by the authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team).
 ## Overview
 
 
