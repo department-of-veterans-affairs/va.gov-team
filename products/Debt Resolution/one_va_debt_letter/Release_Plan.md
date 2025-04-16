@@ -13,9 +13,9 @@ Since we use a [continuous delivery](https://depo-platform-documentation.scrollh
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [X] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [X] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [X] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
 - [ ] review the plan with your DEPO/OCTO representative.
 - [ ] review the release plan with your team.
@@ -65,19 +65,19 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Rollout Planning
 
-- Desired date range:  5/21/25 - 5/25/25
+- Desired date range:  4/23/25 - 4/30/25
 - How will you make the product available in production while limiting the number of users who can find/access it: Use of Feature toggles.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Request clicks*
 - Link to the dashboard(s) showing "success criteria" metrics:
 - https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20221201&amp;_u.date01=20230221&amp;explorer-segmentExplorer.segmentId=analytics.eventLabel&amp;explorer-table.plotKeys=%5B%5D&amp;explorer-table.filter=fsr-5655&amp;explorer-table.secSegmentId=analytics.eventAction&amp;explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22RE%22,%22fsr-5655%22,0%5D%5D&amp;_r.drilldown=analytics.eventCategory:Transactions
 - Who is monitoring the dashboard(s)?: BE Developer (Derek Dyer) and PM (Tom Davis), DM (Heather Rienks)
 
-### Stage A: Canary
+### Stage A: 33%
 
 #### Planning
 
-- Length of time: TBD
-- Percentage of Users (and roughly how many users do you expect this to be): 10% 
+- Length of time: Five Days 4/23 - 4/28
+- Percentage of Users (and roughly how many users do you expect this to be): 33% 
 
 #### Results
 
@@ -87,11 +87,11 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 - Types of errors logged:
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None, issue could not be reproduced reliably.
 
-### Stage B: 25% of users
+### Stage B: 66% of users
 
 #### Planning
 
-- Length of time: TBD
+- Length of time: Two Days 4/28 - 4/30
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
@@ -102,27 +102,12 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 - Types of errors logged:
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None, issue could not be reproduced reliably.
 
-### Stage C: 50% of users
+### Stage C: 100% of users
 
 #### Planning
 
-- Length of time: TBD
+- Length of time: Final
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
-
-#### Results
-
-- Number of unique users:
-- Metrics at this stage (per your "success criteria"):
-- Was any downstream service affected by the change?:
-- Types of errors logged:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None, issue could not be reproduced reliably.
-
-### Stage D: 100% of users
-
-#### Planning
-
-- Length of time: N/A
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
 
