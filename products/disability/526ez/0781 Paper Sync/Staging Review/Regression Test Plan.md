@@ -20,7 +20,7 @@ The results/report can be seen below:
 
 https://dsvavsp.testrail.io/index.php?/runs/view/6696&group_by=tests:status_id&group_order=asc&group_id=1
 
-Current level of tests executed at time of writing is pictured below (71%), with additional testing continuing through remaining testing cycles. Release not scheduled for a couple weeks, and intend to do another (complete) round of TestRail test runs, after current/known defieciencies are addressed, prior to release. 
+Current level of tests executed at time of writing is pictured below (71%), with additional testing continuing through remaining testing cycles. Release not scheduled for a couple weeks, and intend to do another (complete) round of TestRail test runs, after current/known deficiencies are addressed, prior to release. 
 
 ![image](https://github.com/user-attachments/assets/da8aa0fb-03f4-46a2-b819-d529ebbd1ffe)
 
