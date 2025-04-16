@@ -2,6 +2,8 @@
 
 **Last updated: April 16, 2025**
 
+`LAUNCHED`
+
 ### Communications
 
 - **Github labels**: vsa-authenticated-exp
