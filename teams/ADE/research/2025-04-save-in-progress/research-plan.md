@@ -4,7 +4,9 @@
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
 	
-When VA.gov users are logged in (authenticated) and filling out a form, the "save in progress" alert flashes on and off with every field entered. Because the alert displays below the Back and Continue buttons, screen readers never read it, which is an accessibility issue.
+When VA.gov users are logged in (authenticated) and filling out a form, the "save in progress" alert flashes on and off with every field entered. Because the alert displays below the Back and Continue buttons, screen readers never announce it, which is an accessibility issue.
+
+We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal) for the design of new web forms. We have removed the "save in progress" alert, and redesigned the existing "Finish this request later" link that functions like a button. The currently existing text about saving will remain on the authenticated version of the form intro page and the first page of the form.
 
 **[Enter answer here]**
   
@@ -103,12 +105,12 @@ Research goal: Get user feedback on a proposed design revision for "save in prog
 1. Do Veterans think that their form data is being saved? If so, how do they know?
 1. Are Veterans able to stop working on a form and go back to it later? If so, how do they do it?
 1. Do Veterans notice the alert about saving on the form intro page?
-1. Do Veterans notice the text about saving on the first page of the form below the progress stepper>?
+1. Do Veterans notice the text about saving on the first page only of the form below the progress stepper>?
 
 Research goal: Get user feedback on error messages and the progress bar while filling out online forms.
 
 5. What reactions do Veterans have to error messages? 
-     1. Do they know what the error messages mean and how to resolve them?
+     1. Do they know what the error messages mean, and how to resolve them?
      1. How do they want to find out about errors?
 1. What reactions do Veterans have to the progress bar? Do they notice it?
 
