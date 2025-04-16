@@ -134,7 +134,6 @@ _Why would your business want this to exist?_
 
 |Project|Epic|Status|
 |----|----|---|
-|My VA explorations| [#50758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758), [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Research & design exploration|
 |[Forms status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/README.md) (in partnership with Veteran Facing Forms) |[#81849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81849) | In development |
 
 ### Completed projects & enhancements
@@ -145,6 +144,7 @@ _Why would your business want this to exist?_
 
 |Project|Epic|Launch/Completion date|
 |----|----|----|
+|My VA explorations| [#50758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758), [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Research & design exploration|
 |Notifications: badge indicator| [#63788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63788)| Paused - Redesign in lieu of this work |
 |[SiP configuration enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/save-in-progress-configuration-enhancement) | [#60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509) | 2024 |
 | [Link to MHV landing page from My VA + Cerner simplification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration#linking-to-mhv-from-my-va--simplifying-the-cerner-experience) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | On hold | 
