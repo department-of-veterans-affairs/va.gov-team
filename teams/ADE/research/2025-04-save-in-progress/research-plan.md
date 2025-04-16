@@ -78,7 +78,6 @@ Sessions will be conducted over Zoom with transcripts.
 
 ### Location
 This is remote research over Zoom. 
-
 - [X] **Remote**
 - [ ] **In-person**
       
@@ -87,45 +86,26 @@ This is remote research over Zoom.
 > [!NOTE]
 > **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-**For moderated interviews:** 
-- `[Link to conversation guide](url goes here)`
-
-**For moderated usability tests:** 
 - `[Link to conversation guide](url goes here)`
 - `[Link to prototype](url goes here)`
 
 	
 ## Recruitment 🎯	
-*OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
-
-> [!NOTE]
-> Before writing your recruitment criteria, be sure to review the following resources: 
-> - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-> - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-*Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
-
-> [!NOTE] 
-> - Perigean **CANNOT** recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-> - Perigean can also support remote, [unmoderated studies](https://depo-platform-documentation.scrollhelp.site/research-design/perigean-recruiting-process-for-unmoderated-studie), however, these studies require strict recruitment requirements. 
-> - Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+We would like Perigean to recruit both AT users and non-AT users who are Veterans, caregivers, and family members.
 
 ### Recruitment criteria
-
-We want to recruit both screen reader users and signed users.
 
 > [!NOTE]
 > - **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
 
 **List the total number and type (Veterans, caregivers, etc.) of participants for this study:**
 
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
+- `Veterans:` **[7]** OR ALL 12??
+- `Caregivers:` **[3]**
+- `Dependents:` **[2]**
+- `Total:` **[12]**
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
