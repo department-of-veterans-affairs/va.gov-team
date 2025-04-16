@@ -135,7 +135,6 @@ _Why would your business want this to exist?_
 |Project|Epic|Status|
 |----|----|---|
 |My VA explorations| [#50758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758), [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Research & design exploration|
-|[SiP configuration enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/save-in-progress-configuration-enhancement) | [#60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509) | In development |
 |[Forms status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/README.md) (in partnership with Veteran Facing Forms) |[#81849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81849) | In development |
 |Notifications: badge indicator| [#63788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63788)| In development |
 
@@ -147,6 +146,7 @@ _Why would your business want this to exist?_
 
 |Project|Epic|Launch/Completion date|
 |----|----|----|
+|[SiP configuration enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/save-in-progress-configuration-enhancement) | [#60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509) | 2024 |
 | [Link to MHV landing page from My VA + Cerner simplification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration#linking-to-mhv-from-my-va--simplifying-the-cerner-experience) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | On hold | 
 |[White card component implementation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-white-card-component) | [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | November 2023 |
 |[Remove "notifications" section](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#project-outline-on-site-notifications-mvp)|[#30611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611) | October 3, 2023|
@@ -164,6 +164,7 @@ _Why would your business want this to exist?_
 |[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#project-outline-action-items-discovery)| [#25886](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25886) | Completed August 2021|
 |[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | [#6326](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6326) | Launch completed July 2021 |
 |[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | | Launch completed Spring 2018 |
+
 
 </details>
 
