@@ -100,7 +100,7 @@ OKRs and KPIs TBD.
 
 ### Retrofitting VA Profile's current structure
 
-- The channel we'll get back from VA Profile is **email** because there are emails associated with this work outside of the confirmation email we need to send. But, instead of relying on our copy structure we have now -- "Send me an email" or "Don't send me an email" -- we're going to have to customize this copy to something like "Mail me a copy of my 1095B" or "Don't mail me a copy of my 1095B. I'll download it digitally (note: you will receive XYZ emails if you choose to download your 1095B digitally)". This would be a departure from [how things are currently coded](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/display-notes.md).
+- The channel we'll get back from VA Profile is **email** because there are emails associated with this work outside of the confirmation email we need to send. But, instead of relying on our copy structure we have now -- "Send me an email" or "Don't send me an email" -- we're going to have to customize this copy to something like "Mail me a copy of my 1095B" or "Don't mail me a copy of my 1095B. I'll download it digitally (note: you will receive XYZ emails if you choose to download your 1095B digitally)". This would be a departure from [how things are currently coded](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/display-notes.md).
 
 ## Design
 
