@@ -33,6 +33,38 @@ When Veterans log into VA.gov, [they expect to be met with an experience that re
 
 ## Design
 
+### Screenshots of legacy versions
+
+<details><summary>Version 1.0</summary> 
+
+![My VA 1.0 all widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/screenshots/Dashboard-Updated-All%20Features.png)
+ 
+ </details>
+
+<details><summary>Version 2.0 -- July 2021</summary> 
+
+![My VA 2.0 All Sections](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/My%20VA%202.0_Desktop_%20All%20sections.jpg)
+
+</details>
+ 
+<details><summary>Addition of Benefit payments and debts -- April 2022</summary>  
+
+![My VA with benefits payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/My%20VA_April%202022.jpeg)
+ 
+</details>
+
+<details><summary>Addition of Onsite Notifications and Payments and debts V2 -- December 2022</summary>
+ 
+ ![My VA w/onsite notifications and payments V2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/19911c5a-6d17-40f2-94a4-7cefed5d7d7f.png)
+ 
+ </details>
+ 
+ <details><summary>Implementation of Audit UX Improvements (reduction of conditional states) -- April 2023</summary>
+ 
+ ![My VA audit UX improvements 2023](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/5ef20fa8-b0cc-4099-b8e3-df9782c71961)
+ 
+ </details>
+
 ## Frontend
 
 ## Backend
