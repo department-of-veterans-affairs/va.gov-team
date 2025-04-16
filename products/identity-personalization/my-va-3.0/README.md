@@ -35,6 +35,8 @@ When Veterans log into VA.gov, [they expect to be met with an experience that re
 
 ### Screenshots of legacy versions
 
+<details><summary>Legacy versions</summary> 
+
 <details><summary>Version 1.0</summary> 
 
 ![My VA 1.0 all widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/screenshots/Dashboard-Updated-All%20Features.png)
@@ -64,6 +66,9 @@ When Veterans log into VA.gov, [they expect to be met with an experience that re
  ![My VA audit UX improvements 2023](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/5ef20fa8-b0cc-4099-b8e3-df9782c71961)
  
  </details>
+
+</details>
+
 
 ## Frontend
 
