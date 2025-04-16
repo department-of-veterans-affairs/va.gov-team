@@ -1,4 +1,4 @@
-    # Conversation Guide for [YYYY-MM Study Name]
+    # Conversation Guide for 10-10EZR Confirmation Flow
 
 # Moderator logistics 📋✅
 ### 2-3 days before the session
@@ -32,7 +32,7 @@
 Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about <mark>**[description of your project]**.</mark>
+Today we're going to talk about making updates to health care information.
 
 
 Before we start, I have a few things that I want to go over with you:
