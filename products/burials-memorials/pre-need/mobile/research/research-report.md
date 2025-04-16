@@ -4,14 +4,16 @@
 
 Date: MM/DD/YYYY
 
-Emily DeWan, Natasha Huckleberry
+Emily DeWan emily.dewan@oddball.io
+
+Natasha Huckleberry natasha.huckleberry@oddbal.io
+
 
 *Once you've presented your research readout to your team, if you have a deck, insert a link to it here *
 
 
 
 **Jump to:**
-
 
 
 * [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/research/research-report.md#hypotheses-and-conclusions)
@@ -122,7 +124,6 @@ Veterans want to plan ahead not for themselves but to make things easier for the
 ### Finding 1: Most participants learn about their benefits through word of mouth rather than VA.gov.
 
 
-
 * Some read through everything to learn, but it’s typically not a source where they discover benefits. 6 of 13 cite VA.gov as a source.
   
     > _"The VA sites are very helpful. I just go to the VA site and I can search there and find all the answers." – P3_
@@ -135,10 +136,10 @@ Veterans want to plan ahead not for themselves but to make things easier for the
   
   > _"No, they kind of tap dance around that stuff. Mortality and the VA: they really don't want you to think about it, I don't think." – P7_
   
-  > _"Honestly, I don't remember seeing anything. I believe when we go to the clinic or hospital, they should have a poster up or something, anything." – P12_
+  > _"Honestly, I don't remember seeing anything. I believe when we go to the clinic or hospital, they should have a poster up or something, anything." – P12_ 
 
 
-### Finding 2: Awareness of pre-need eligibility is low, and is usually thought of with more comprehensive funeral planning services.
+### Finding2: Awareness of pre-need eligibility is low, and is usually thought of with more comprehensive funeral planning services.
 
 
 
@@ -149,7 +150,6 @@ Veterans want to plan ahead not for themselves but to make things easier for the
     * End-of-life documentation
     * Reserving a plot
     * Step-by-step guidance on the entire process of preparing for a Veteran burial
-
       <br>
       
   > _"A lot of people see pre-need as being the whole process, because that's what pre-need insurance is. I don't know if people would get confused as to think it's the whole enchilada." – P7_
@@ -199,8 +199,6 @@ Veterans want to plan ahead not for themselves but to make things easier for the
 
 ### Finding 5: Personal experiences of loss are a strong prompt for planning, but urgency is often missing.
 
-
-
 * 8 of 13 were prompted to start considering their wishes after witnessing first-hand the effects of planning (or lack thereof) before someone dies.
     > _"Besides aging, I had a friend in a relationship with a man who had grown children. They were told that if he died first, she could live in the house—even though she had no ownership. But he died first, and the children booted her out because they weren’t her children." – P9_
 
@@ -215,8 +213,6 @@ Veterans want to plan ahead not for themselves but to make things easier for the
 
 ### Finding 6: Everyone wants a digital copy of their pre-needs eligibility letter.
 
-
-
 * Easier to share with people than a physical copy
 
     > _"Maybe set it up as an attachment—like how I saved my DD-214. Something that could be easily forwarded to family members." – P5_
@@ -230,8 +226,6 @@ Veterans want to plan ahead not for themselves but to make things easier for the
 
 ### Finding 7: Participants have a strong desire to ensure their loved ones can access important documents after they die.
 
-
-
 * Some would not depend on the VA and would make sure the letter is with all other death-related documentation (7 of 13).
 
     > _"If I get a copy [of the decision letter], the first thing I’m going to do is scan it and upload it. I’ll keep it on a flash drive, in the folder where I store my official documents, so I always have a copy I can look at if nothing else." – P10_
@@ -240,6 +234,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
     * They could add next of kin or other points of contact within their account
     * There was a central location the VA provides for survivors of Veterans where they could find guidance for their situation
     * A public registry
+    
     > _"If there were an option to share with next of kin—like how Facebook lets you memorialize a page—that would be great. Just being able to say, 'Okay, I’ve done this, and they get access to it'—that would be helpful. Whether it goes to a funeral home, a lawyer, or whoever needs to handle your final arrangements, it’s useful." – P10_
 
     > _"If there was a registry, maybe they could punch in and see 'already qualified.' Some websites ask for a lot before giving access—civilians need easier ways to get in. Maybe it’s public data or something, I don’t know." – P11_
@@ -286,19 +281,17 @@ Veterans want to plan ahead not for themselves but to make things easier for the
 ## Recommendations
 
 
+**1. Add decision letter to MyVA and the app**
+ * Everyone wants a digital decision letter to make it easier and faster for their loved ones to access crucial information.*
 
-* Add decision letter to MyVA and the app
+**2. Add status updates to My VA and the app**
+* Almost all would want to use their account to check the status of their application, referencing past frustrations with not knowing whether forms had been received or processed.
 
-    > *Everyone wants a digital decision letter to make it easier and faster for their loved ones to access crucial information.*
-* Add status updates to My VA and the app
+**3. Provide timeline for the process of pre-need eligibility determination**
+* Over half wanted to know how long they should expect to wait so that they’re confident the process was working.
 
-    > *Almost all would want to use their account to check the status of their application, referencing past frustrations with not knowing whether forms had been received or processed.*
-* Provide timeline for the process of pre-need eligibility determination
-
-    > *Over half wanted to know how long they should expect to wait so that they’re confident the process was working.*
-* Provide a method for family members and other designated people of Veterans to access pre-need eligibility decision. Possibly allow Next of Kin to be added?
-
-    > *Everyone wanted to ensure their loved ones could access their decision letter after death, especially if they were not familiar with VA systems and procedures.*
+**4. Provide a method for family members and other designated people of Veterans to access pre-need eligibility decision. Possibly allow Next of Kin to be added?**
+* Everyone wanted to ensure their loved ones could access their decision letter after death, especially if they were not familiar with VA systems and procedures.
 
 
 ## Technical Limitations
@@ -307,16 +300,16 @@ Currently, the only feasible mobile app functionality is the submission of pre-n
 
 
 ## Next Steps
-- Review and share research findings with VA PO and relevant teams. This will ensure alignment on key insights and their implications for the project.
-- Await for work mentioned in technical limitations to be addressed.
+- Review and share research findings with VA PO and relevant teams to ensure alignment on insights, recommendations, and their implications for the project.
 - Document any new or unanswered questions from the research.
+- Create and iterate on designs mentioned in the recommendations and conduct usability testing with assistive technology users.
+- Await the work mentioned in technical limitations to be addressed before implementation.
 
 
+<!--
 ## Further research needed
 
-
-
-????
+???? -->
 
 
 ## Appendix
@@ -331,13 +324,11 @@ Currently, the only feasible mobile app functionality is the submission of pre-n
 ## Tools used for Synthesis
 
 
-
 * Google Sheet for tagging
 * Notta to analyze transcripts and pull quotes
 
 
 ## Pages and applications used
-
 
 
 * [VA Burial Benefits And Memorial Items | Veterans Affairs](https://www.va.gov/burials-memorials/)
@@ -348,13 +339,10 @@ Currently, the only feasible mobile app functionality is the submission of pre-n
 ## Other supporting documents created
 
 
-
 * Google Sheet (link Sheet, plus convert to Excel and link that)
 
 
 ## Secondary research
-
-
 
 * [2023-08 Integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/pre-need/research/integration-research-aug23)
 * [2023-05 Pre-integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/pre-need/research/pre-integration-research-may23)
@@ -368,8 +356,6 @@ Currently, the only feasible mobile app functionality is the submission of pre-n
 
 Intended audience
 
-
-
 * Veterans only, using Perigean to recruit
 * Primary requirement
     * 50% Want to be buried in a VA cemetery and have taken steps to plan their burial (i.e. have utilized burial benefits for themselves)
@@ -377,8 +363,6 @@ Intended audience
 * Initially, there will be no participants using assistive technologies. We will test with these users in a later phase if we conduct usability testing.
 
 Primary criteria:
-
-
 
 * Veterans who wish to be buried in a VA National Cemetery or are undecided about their wishes
 * 50/50 those who have taken steps to prepare for their own funeral/burial, and those who have not
@@ -388,22 +372,16 @@ We talked to **13 participants**.
 
 Audience segment:
 
-
-
 * Veterans: 13
 * Caregivers: 0
 * Family members of a Veteran: 0
 
 Gender:
 
-
-
 * Male: 7
 * Female: 6
 
 LGBTQ+: 2
-
-
 
 * No information on further breakdown
 * Transgender: x
@@ -412,16 +390,12 @@ LGBTQ+: 2
 
 Devices used during study:
 
-
-
 * Desktop: 0
 * Tablet: 0
 * Smartphone: 13
 * Assistive Technology: Unknown but at least 2
 
 Age:
-
-
 
 * 25-34: 0
 * 35-44: 0
@@ -431,8 +405,6 @@ Age:
 * Unknown: 0
 
 Education:
-
-
 
 * High school degree or equivalent: 5
 * Some college (no degree): 3
@@ -444,15 +416,11 @@ Education:
 
 Geographic location:
 
-
-
 * Urban: 5
 * Rural: 8
 * Unknown: 0
 
 Race:
-
-
 
 * White: 4
 * Black: 1
@@ -464,8 +432,6 @@ Race:
 
 Disability and Assistive Technology (AT):
 
-
-
 * Cognitive: 9
 * No assistive technology participants requested; one user used magnification
 
@@ -473,8 +439,6 @@ Disability and Assistive Technology (AT):
 ## Underserved groups we haven’t talked to
 
 This research does not include the perspectives of the following marginalized Veteran groups: 
-
-
 
 * Other than an honorable discharge
 * Immigrant origin
