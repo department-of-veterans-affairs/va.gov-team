@@ -1,6 +1,6 @@
 # Initiative Brief - Permission to Include PHI and PII in Appointment Reminders
 
-**Last Update:** 8/29/2024 minor revisions and link updates
+**Last Update:** 4/16/25 - new slack channel added
 
 - **Product:** VA.gov Profile | Notification Settings
 - **Initiative:** Support the MHV to VA.gov Migration by displaying the PHI/PII Appointment Reminder Permission 
@@ -29,14 +29,15 @@
 
 - Team Name: Auth Experience - Profile 
 - GitHub Label(s): profile, authenticated-experience, notification-settings
-- Slack channel: [#accountexp-authexp](https://dsva.slack.com/archives/C909ZG2BB) 
+- Slack channels: [#accountexp-authexp](https://dsva.slack.com/archives/C909ZG2BB); [#appointment-email-reminders](https://dsva.slack.com/archives/C081Y4X4W1L)
 - Product POCs: [Auth Exp Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team)
+
 
 
 
 ## Overview
 
-Historically, the VA was sending generic appointment reminders devoid PHI/PII. Some veterans have multiple appointments at different VA Facilities so it is important they receive specifics around the location and doctor's office they are scheduled to visit. 
+Historically, the VA was sending generic appointment reminders devoid of PHI/PII. Some veterans have multiple appointments at different VA Facilities so it is important they receive specifics around the location and doctor's office they are scheduled to visit. 
 
 Veterans expressed frustration at the legacy reminders and shared the desire to have additional context in their unencrypted text and email appointment reminders. MHV responded to the request by allowing users to grant permission to send PHI/PII in their appointment reminders. As MHV migrates to VA.gov we'll need to support this feature to ensure a consistent user experience for veterans who opt in to have PHI/PII in appointment reminders. 
 
