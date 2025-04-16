@@ -4,7 +4,7 @@
 
 | Toggle name | Description |
 | ----------- | ----------- |
-|  |add here |
+|  add in |add here |
 
 
 ## Step 2: Validation
@@ -76,7 +76,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Planning
 
-- Length of time: Five Days 4/23 - 4/28
+- Length of time: Five Days 4/23/25 - 4/28/25
 - Percentage of Users (and roughly how many users do you expect this to be): 33% 
 
 #### Results
@@ -91,7 +91,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Planning
 
-- Length of time: Two Days 4/28 - 4/30
+- Length of time: Two Days 4/28/25 - 4/30/25
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
