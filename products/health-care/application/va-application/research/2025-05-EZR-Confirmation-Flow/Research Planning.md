@@ -124,9 +124,9 @@ Our findings will indicate if we need to refine the pattern and if we can move f
 - Flows to be mocked up using Figma.
 - The participants will use the think-aloud format
 - It is a semi-structured interview where we will direct the participants to complete [3] tasks.
- - Task 1: updating spouse's address.
- - Task 2: Fill out your previous year’s financial information.
- - Task 3: Edit an error in your spouse’s financial information.
+  - Task 1: updating spouse's address.
+  - Task 2: Fill out your previous year’s financial information.
+  - Task 3: Edit an error in your spouse’s financial information.
 - The first section is a usability test of the Spouse Information.
 - The second section is a fork for A/B testing..
  - Cohort A will see Option A first [Existing version of the Financial Information, moderator provides last year’s financial information]
@@ -146,39 +146,16 @@ Where will you be holding the research sessions? Be sure to include whether this
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-**For moderated interviews:** 
-	
-- `[Link to conversation guide](url goes here)`
-
 **For moderated usability tests:** 
-- `[Link to conversation guide](url goes here)`
-- `[Link to prototype](url goes here)`
-
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- `[Link to email with instructions](url goes here)`
-- `[Link to prototype or OptimalSort session for group A](url goes here)`
-- `[Link to prototype or OptimalSort session for group B](url goes here)`
-
-
-
-**If recruiting outside of Perigean’s participant database:**
-- `[Link to recruitment flyer](url goes here)`
+	
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2025-05-EZR-Confirmation-Flow/Conversation-guide.md)
 	
 ## Recruitment 🎯	
-*OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
-
-> [!NOTE]
-> Before writing your recruitment criteria, be sure to review the following resources: 
-> - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-> - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-*Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
+Our intended audience for this research are Veterans and we will be using and leveraging Perigean to recruit participants.
 
-> [!NOTE] 
-> - Perigean **CANNOT** recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-> - Perigean can also support remote, [unmoderated studies](https://depo-platform-documentation.scrollhelp.site/research-design/perigean-recruiting-process-for-unmoderated-studie), however, these studies require strict recruitment requirements. 
-> - Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+#### Veterans: Requesting 10, need 6 to complete
 
 ### Recruitment criteria
 
@@ -194,26 +171,35 @@ Provide a link to any materials you need to run your study, including any materi
 
 **List the total number and type (Veterans, caregivers, etc.) of participants for this study:**
 
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
+- `Veterans:` **[10]**
+- `Caregivers:` **[0]**
+- `Dependents:` **[0]**
+- `Total:` **[10]**
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
+- All must be currently enrolled in VA health care benefits
+- Diverse mix of age ranges, no more than 2 per age group
+- At least 2 participants with Cognitive disabilities
+- At least 2 participants who are Black
+- At least 2 participants who are Hispanic
 
-#### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
+For all:
+1. Are you currently enrolled in VA health care benefits?
+   	- Yes *(Qualify)*
+   	- No *(Disqualify)*
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
+
+For recruiting 2 mobile users:
+1.  Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet.
+    - Yes *(Qualify)*
+    - No *(Disqualify)*
+
+For recruiting 2 users with cognitive disabilities:
+1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+   	- Yes *(Qualify)*
+   	- No *(Disqualify)*
 
 ## Timeline 🗓️
 > [!NOTE]
