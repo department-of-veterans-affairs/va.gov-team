@@ -49,7 +49,7 @@ We know we need to migrate the existing MHV preferences, but MHV has also mentio
 
 - Health appointment reminders
 - Prescription shipping notifications
-- New secure message notifications
+- ~New secure message notifications~ [These will not be opt out per the decision made here](https://dsva.slack.com/archives/C08J6RU9L14/p1744737590326909)
 - Notifications when medical images you requested are available
 
 [See the relevant Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61102)
