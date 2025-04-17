@@ -4,7 +4,7 @@ about: Template for ADE Research Child Tickets - based on the work requested in 
   research intake ticket. These will be created as sub-issues, under the parent research
   intake ticket.
 title: Internal ADE Research Child Ticket
-labels: ADE Research
+labels: ADE, ADE Research
 assignees: cindymerrill, lakper, sara-amanda
 
 ---
