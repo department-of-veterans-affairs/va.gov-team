@@ -31,7 +31,9 @@ Our goal with 3.0 is to redesign the logged-in landing page to be action-oriente
 ## Problem Statement
 Veterans currently land on a MyVA page that is not optimized for immediate action or visibility into time-sensitive updates. The experience for some sections is static, and Veterans often miss important information or fail to complete important service workflows because these tasks are not highlighted prominently. 
 
-How might we reimagine the logged-in landing experience to surface timely, relevant, and personalized actions so that Veterans can confidently manage their benefits and services? > To start, we plan to remove much of the static links and content that have built up over time. 
+How might we reimagine the logged-in landing experience to surface timely, relevant, and personalized actions so that Veterans can confidently manage their benefits and services? 
+- To start, we plan to remove much of the static links and content that have built up over time.
+- We intend to[ use new components from the design patterns team that emphasize actions](https://www.figma.com/design/UOx5GSKdZW9GVAjy7078hT/AE-Design-Patterns---Critical-Action?node-id=2-129)
 
 
 ## User Outcomes 
