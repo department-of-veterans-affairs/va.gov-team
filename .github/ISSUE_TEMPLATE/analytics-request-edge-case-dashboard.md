@@ -2,7 +2,7 @@
 name: Analytics Edge Case Dashboard - Request Template
 about: To request an edge case KPI dashboard on Domo for your product
 title: Analytics edge case KPI dashboard request for [Team]
-labels: analytics-insights, analytics-request, kpi-dashboard
+labels: analytics-insights, analytics-request, kpi-dashboard, new
 assignees: 'AdamOye'
 
 ---
@@ -23,7 +23,7 @@ The Analytics team will notify you once this ticket has been pulled into a sprin
 
 In order to pull the correct data for your product, we need your help to define what pages and events to include, in addition to basic product info. For edge cases, we also ask for product outlines or other resources that will help us understand success for your product and define metrics: 
 
-- [ ] Make a copy of [this Google Sheet](https://docs.google.com/spreadsheets/d/1TSynjEUrOrm_HfLxb2NAPDXxnn7wyy1bSEb2RruC67Q/edit#gid=0).
+- [ ] Make a copy of [this Google Sheet](https://docs.google.com/spreadsheets/d/1H17CVoYXGx10LIbXkpAL2YVo_u9gLRtI0wRLH7Q0Cog/edit?gid=1023543840#gid=1023543840).
   - [ ] Fill out product information basics.
   - [ ] If a part of your product involves any sort of linear process/funnel for which you want to be able to measure conversions, please include it in the "Forms" tab of the template.
   - [ ] All other pages associated with your product for which you'd want to track visits and engagement should be added to the "Content" tab.
