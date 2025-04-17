@@ -40,7 +40,7 @@ How might we reimagine the logged-in landing experience to surface timely, relev
 ## User Outcomes 
 
 ### Desired 
-- Veterans are able to see what needs their attention right away (e.g., unread messages, pending document uploads, upcoming appointments).
+- Veterans are able to see what needs their attention right away (e.g., unread messages, pending document uploads, important deadlines, upcoming appointments).
 - Veterans can take quick action on priority items navigating quickly to the relevant onsite experience.
 - Veterans feel informed and in control of their benefits and services.
 
