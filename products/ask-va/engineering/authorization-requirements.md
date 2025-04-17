@@ -10,8 +10,8 @@ Jump to:
 - [Glossary](#glossary)
 - [What is an acceptable levelOfAuthentication and Level of Assurance?](#what-is-an-acceptable-levelofauthentication-and-level-of-assurance)
 - [How does an inquiry get associated with an account?](#how-does-an-inquiry-get-associated-with-an-account)
-- [Who has access to a given inquiry?](#who-has-access-to-a-given-inquiry)
 - [When does Ask VA require a user to be authenticated?](#when-does-ask-va-require-a-user-to-be-authenticated)
+- [Who has access to a given inquiry?](#who-has-access-to-a-given-inquiry)
 
 ## Glossary
 
@@ -55,13 +55,16 @@ However, the ICN value is not included for unauthenticated users. // **How does 
 > [!NOTE] 
 > This [sign in documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-04%20Sign%20in%20rules.md#what-we-know-about-sign-in-rules-for-ask-va) explains when sign in is required or not.
 
-// Add more details here...
+// Adding more details here...
 
 ## Who has access to a given inquiry?
 
-The general rule of thumb is that a user should only be able to access inquiries that they submit themselves.
+The general rule of thumb is that a user should only be able to access inquiries that they submit themselves. Using the [Retrieve Inquiries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/crm_api/Dashboard_RetrieveInquiries.md) endpoint, we retrieve inquiries associated with a specific user
 
 For example, if user A submits an inquiry on behalf of user B, then, user B cannot access the inquiry. Even though it's about them.
+
+> [!NOTE] 
+> How do we filter which inquiries are associated with a given user? Using their ICN?
 
 ### Inquiry transfer
 
@@ -76,9 +79,6 @@ For example, if a School Certifying Official (SCO), submits inquiries on behalf 
 ----
 
 Still editing this.
-
-
-### Rule enforcement
 
 Some sign in rules come from CRM. 
 
