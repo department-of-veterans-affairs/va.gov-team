@@ -50,9 +50,9 @@ When an authenticated user submits an inquiry, the ICN allows us to associate th
 
 1. ICN from the user session is extracted in the controller and passed into the payload via Inquiries::Creator.
 2. The payload sent to the CRM has three main sections:
-- Inquiry Information (question, category, topic, attachments, etc.)
-- Submitter Profile (contact info, SSN/EDIPI if available)
-- Veteran Profile (contact info, SSN/EDIPI if available)
+  - Inquiry Information (question, category, topic, attachments, etc.)
+  - Submitter Profile (contact info, SSN/EDIPI if available)
+  - Veteran Profile (contact info, SSN/EDIPI if available)
 3. Crm::Service transmits this structured payload along with an X-VA-ICN header to Microsoft Dynamics.
 
 > [!NOTE]
@@ -65,8 +65,8 @@ When an authenticated user submits an inquiry, the ICN allows us to associate th
 When a user is not authenticated, there is no ICN available. Here's how it works differently:
 
 1. The payload is still structured with the same three sections, but:
-- The X-VA-ICN header is nil.
-- current_user is nil, so fields like EDIPI, ICN, and sometimes SSN are missing from the submitter profile.
+  - The X-VA-ICN header is nil.
+  - current_user is nil, so fields like EDIPI, ICN, and sometimes SSN are missing from the submitter profile.
 2. In Crm::Service, this submission goes through the same endpoint, but without any account identifiers.
 
 > [!NOTE]
