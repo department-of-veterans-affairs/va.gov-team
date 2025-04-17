@@ -55,6 +55,8 @@ However, the ICN value is not included for unauthenticated users. // **How does 
 > [!NOTE] 
 > This [sign in documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-04%20Sign%20in%20rules.md#what-we-know-about-sign-in-rules-for-ask-va) explains when sign in is required or not.
 
+// Add more details here...
+
 ## Who has access to a given inquiry?
 
 The general rule of thumb is that a user should only be able to access inquiries that they submit themselves.
@@ -69,7 +71,6 @@ For example, if a School Certifying Official (SCO), submits inquiries on behalf 
 
 > [!NOTE] 
 > If we use ICN to define authorization for a given inquiry, we need the CRM team to confirm the ICN updates when an inquiry is transferred.
-
 
 
 ----
