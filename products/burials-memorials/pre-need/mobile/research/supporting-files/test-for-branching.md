@@ -6,3 +6,4 @@ Cats
 * long haired
 * medium haired
 * bombay
+* Norwegian Forest Cat
