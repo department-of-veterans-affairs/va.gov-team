@@ -80,23 +80,15 @@ Still editing this.
 
 ### Rule enforcement
 
-Some sign in rules come from CRM. The [Get Topics endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/crm_api/Form_GetTopics.md) (I believe we pull category and topic rules from the inquiries endpoint, which tells us whether authentication is required or not). Some sign in rules don't come from CRM, eg. if you say your question is about 'myself' or 'someone else,' we make you sign in.
+Some sign in rules come from CRM. 
 
-category endpoint
+Ask VA Admins (called, AVA Admins), have the ability to change queue and topic settings at any point, without it being part of a release. This includes:
+- whether or not their queue requires authentication
+- whether or not their queue allows attachments
+- whether or not their queue allows replies and for how long after an inquiry was last solved (reply window)
 
-when we pull categories each one has a flag for attachments telling us if it's allowed or not. We want to talk to CRM about adding a flag for replies when pulling inquiries. We plan to discuss this during our sink tomorrow
+For this reason, we receive some authentication rules from CRM via the [Get Topics endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/crm_api/Form_GetTopics.md).
 
-If we don't already, we need to be able to know whether authentication is required when we pull categories and topics, since Chris said this is also set by the AVA Admins and can be changed at any point.
+## When are attachments allowed?
 
-Let's say a business line changes their authentication rules. We need to change not just dynamic stuff (like, when to require it/trigger a modal, etc.) but also static stuff, like, on this modal we describe the category that requires authentication. If a business line all of a sudden requires authentication, we need to spin up a new modal or the content won't align. :grimacing:
-If we don't have the option of changing this business process right now, we need to check where we have static content that's at risk of being outdated when a change suddenly happens.
-
-I took another look and there is also a flag in each category for requires authentication
-
-the role of AVA Admin has that ability - for all queue and topic settings - and yes, they can set them as the desire. Again, not a common change.   Also, attachments are systematically blocked for any UnAuthenticated submission.
-
-AVA Admins have the ability to make changes to this information at any point, without being part of a release:
-whether or not their queue requires authentication
-whether or not their queue allows attachments
-whether or not their queue allows replies and for how long after an inquiry was last solved
-
+Attachments are blocked for unauthenticated inquiries.
