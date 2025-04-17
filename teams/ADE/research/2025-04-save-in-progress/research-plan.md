@@ -104,28 +104,44 @@ We would like Perigean to recruit both AT users and non-AT users who are Veteran
 
 **List the total number and type (Veterans, caregivers, etc.) of participants for this study:**
 
-- `Veterans:` **[7]** OR ALL 12??
-- `Caregivers:` **[3]**
-- `Dependents:` **[2]**
+- `Veterans:` **[10]** 
+- `Caregivers:` **[2]**
+- `Dependents:` **[0]**
 - `Total:` **[12]**
 
-### Primary criteria (must-haves)
+### Primary criteria (must-haves) in *decreasing* order of priority
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
 AT (screen readers and screen magnifiers) and non-AT users
 people who have filled out VA forms online before, and those who have not
 
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
+- `**4** must use a screen reader every time they access the internet`
+- `**2** must use a screen magnifier every time they access the internet`
+- `**6** must NOT use a screen reader or screen magnifier`
+- `**At least 5** have a computer and are willing to use it for the session`
+- `**At least 5** have a smartphone and are willing to use it for the session`
+- `**ALL** `
+  - `Have Zoom downloaded to their device prior to the session and know how to share their screen` 
+  - `Are willing to share over Zoom a web browser window` 
+  - `Have a working microphone on their device`
+
+
 - **`Add more criteria as needed`**
 
-#### Secondary criteria (nice-to-haves)
+#### Secondary criteria (nice-to-haves) in *decreasing* order of priority
 *What criteria would strengthen your results?* 
 
 - `[Place secondary criteria here between hash marks when in edit mode]`
 - `secondary criteria`
 - `secondary criteria`
+- `At least 2 people are age 55 or older`
+- `At least 2 people 35 or under`
+- `At least 2 people don't have any degree or vocational training after high school` 
+- `At least 2 people live in a rural or remote area` 
+- `At least 4 people have a cognitive disability (e.g., TBI)` 
+- `At least 3 people of color`
+- `At least 2 women`
+- `At least 2 people are LGBTQ+`
 - **`Add more criteria as needed`**
 
 ## Timeline 🗓️
