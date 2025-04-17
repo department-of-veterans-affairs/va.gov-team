@@ -3,7 +3,7 @@ name: Analytics - VFS Custom Event Audit Form
 about: This for is for VFS teams to audit the list of custom events for each of their
   products.
 title: VFS Custom Events for [Team Name] & [Product(s)]
-labels: analytics-insights, analytics-request
+labels: analytics-insights, analytics-request, new
 assignees: AdamOye
 
 ---
