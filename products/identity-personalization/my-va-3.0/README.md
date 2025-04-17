@@ -83,8 +83,8 @@ TBD we need to determine what we want to measure first
 ### Objectives and Key Results (OKRs)
 
 #### OCTO Crew OKR
-FY25 OCTO DE Goal 1: O1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
-1.1 Improve satisfaction with our web and mobile products by 5 points.
+- FY25 OCTO DE Goal 1: O1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
+- 1.1 Improve satisfaction with our web and mobile products by 5 points.
 
 #### Team OKR
 THIS IS JUST AN IDEA WE CAN CONSIDER -  TO OPERATIONALIZE IT A BIT
