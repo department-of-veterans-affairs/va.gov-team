@@ -11,6 +11,7 @@
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Analytics](#analytics)
+- [Important Artifacts](#important-artifacts)
 - [Design](#Design)
 - [Frontend](#FrontEnd)
 - [Backend](#BackEnd)
