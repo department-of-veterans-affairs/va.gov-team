@@ -1,7 +1,7 @@
 name: "Research Support Ticket (ADE)"
 description: "Request support for user research with Veterans who are using assistive technology (AT)"
 title: "[ADE Research]: Team name - product name"
-labels: ["508/Accessibility, ADE, ADE Research"]
+labels: ["ADE, ADE Research"]
 assignees: sara-amanda,lakper,cindymerrill,artsymartha68
 body:
 
