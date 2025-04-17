@@ -38,7 +38,7 @@ In addition, user feedback collected on "finish this request later", error messa
 
 ### Research questions
 
-Research goal: Learn about Veterans' expectations for saving information while filling out an online form before the form is submitted.
+**Research goal: Learn about Veterans' expectations for saving information while filling out an online form before the form is submitted.**
 1. What experiences have Veterans had around saving while filling out VA forms?
 1. What expectations do Veterans have about whether information will be saved while filling out an online form?
      1. What do Veterans expect to happen to their form data if they stop in the middle of filling out a form?
