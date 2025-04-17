@@ -329,7 +329,7 @@ Currently, the only feasible mobile app functionality is the submission of pre-n
 
 * [VA Burial Benefits And Memorial Items | Veterans Affairs](https://www.va.gov/burials-memorials/)
 * [Pre-Need Eligibility For Burial In A VA Cemetery | Veterans Affairs](https://www.va.gov/burials-memorials/pre-need-eligibility/)
-* [Figma prototype](https://www.figma.com/design/XW0MKGL4iuHHRChVFVD6mF/MFS-Pre-need-burials?node-id=24480-23451&t=DhHxDJEemzpcAWAZ-1)
+* [Figma prototype](https://www.figma.com/proto/XW0MKGL4iuHHRChVFVD6mF/MFS-Pre-need-burials?node-id=24480-23451&t=v9R7xQIBvjTDzIfp-1&scaling=min-zoom&content-scaling=fixed&page-id=24480%3A20737&starting-point-node-id=24480%3A23451)
 
 
 ## Other supporting documents created
