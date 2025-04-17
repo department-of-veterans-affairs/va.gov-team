@@ -82,7 +82,12 @@ TBD we need to determine what we want to measure first
 
 ### Objectives and Key Results (OKRs)
 
-THIS IS JUST AN IDEA WE CAN CONSIDER - NEED TO OPERATIONALIZE IT A BIT
+#### OCTO Crew OKR
+FY25 OCTO DE Goal 1: O1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
+1.1 Improve satisfaction with our web and mobile products by 5 points.
+
+#### Team OKR
+THIS IS JUST AN IDEA WE CAN CONSIDER -  TO OPERATIONALIZE IT A BIT
 - Objective: Make the logged-in experience more actionable and Veteran-centered.
   - Key result: Increase first-action completion within 2 minutes of login by x%.
   - Key result: Increase engagement with top-priority actions by x%
