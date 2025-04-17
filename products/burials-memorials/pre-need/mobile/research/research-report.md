@@ -90,13 +90,13 @@ We conducted hour-long remote moderated research sessions via Zoom on March 7-14
 
 
 1. Many Veterans will not have heard of pre-need burial eligibility
-    1. Definitely true. Most had not heard of the eligibility form
+    * Definitely true. Most had not heard of the eligibility form
 2. Filling out the pre-need burial form will be too cumbersome for the app because of the paperwork that needs to be uploaded.
-    1. Likely false. Most would have no problem uploading paperwork either with searching for existing digital copies or taking photos.
+    * Likely false. Most would have no problem uploading paperwork either with searching for existing digital copies or taking photos.
 3. Veterans will want to see updates of the application status in the app.
-    1. Definitely true
+    * Definitely true
 4. Veterans will want to have decision letters available within their VA.gov account instead of relying on physical letters to keep track of.
-    1. Definitely true
+    * Definitely true
 
 
 ## Key Findings
@@ -137,7 +137,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
   > _"Honestly, I don't remember seeing anything. I believe when we go to the clinic or hospital, they should have a poster up or something, anything." – P12_ 
 
 
-### Finding2: Awareness of pre-need eligibility is low, and is usually thought of with more comprehensive funeral planning services.
+### Finding 2: Awareness of pre-need eligibility is low, and is usually thought of with more comprehensive funeral planning services.
 
 
 
@@ -148,13 +148,13 @@ Veterans want to plan ahead not for themselves but to make things easier for the
     * End-of-life documentation
     * Reserving a plot
     * Step-by-step guidance on the entire process of preparing for a Veteran burial
-      <br>
-      
-  > _"A lot of people see pre-need as being the whole process, because that's what pre-need insurance is. I don't know if people would get confused as to think it's the whole enchilada." – P7_
-    
-  > _"I'd like to know about biodegradable options. I'd like to be able to see what their process is going to be." – P10_
-    
-  > _"What to do with my body and where to put me: that's going to be on the form, right? Hopefully those kinds of questions will be there on the form." – P3_
+    <br>
+
+    > _"A lot of people see pre-need as being the whole process, because that's what pre-need insurance is. I don't know if people would get confused as to think it's the whole enchilada." – P7_
+
+    > _"I'd like to know about biodegradable options. I'd like to be able to see what their process is going to be." – P10_
+
+    > _"What to do with my body and where to put me: that's going to be on the form, right? Hopefully those kinds of questions will be there on the form." – P3_
 
 
 
@@ -232,6 +232,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
     * They could add next of kin or other points of contact within their account
     * There was a central location the VA provides for survivors of Veterans where they could find guidance for their situation
     * A public registry
+    <br>
     
     > _"If there were an option to share with next of kin—like how Facebook lets you memorialize a page—that would be great. Just being able to say, 'Okay, I’ve done this, and they get access to it'—that would be helpful. Whether it goes to a funeral home, a lawyer, or whoever needs to handle your final arrangements, it’s useful." – P10_
 
@@ -279,17 +280,14 @@ Veterans want to plan ahead not for themselves but to make things easier for the
 ## Recommendations
 
 
-**1. Add decision letter to MyVA and the app**
- * Everyone wants a digital decision letter to make it easier and faster for their loved ones to access crucial information.*
-
-**2. Add status updates to My VA and the app**
-* Almost all would want to use their account to check the status of their application, referencing past frustrations with not knowing whether forms had been received or processed.
-
-**3. Provide timeline for the process of pre-need eligibility determination**
-* Over half wanted to know how long they should expect to wait so that they’re confident the process was working.
-
-**4. Provide a method for family members and other designated people of Veterans to access pre-need eligibility decision. Possibly allow Next of Kin to be added?**
-* Everyone wanted to ensure their loved ones could access their decision letter after death, especially if they were not familiar with VA systems and procedures.
+* Add decision letter to MyVA and the app
+    * Everyone wants a digital decision letter to make it easier and faster for their loved ones to access crucial information.
+* Add status updates to My VA and the app
+    * Almost all would want to use their account to check the status of their application, referencing past frustrations with not knowing whether forms had been received or processed.
+* Provide timeline for the process of pre-need eligibility determination
+    * Over half wanted to know how long they should expect to wait so that they’re confident the process was working.
+* Provide a method for family members and other designated people of Veterans to access pre-need eligibility decision. Possibly allow Next of Kin to be added?
+    * Everyone wanted to ensure their loved ones could access their decision letter after death, especially if they were not familiar with VA systems and procedures.
 
 
 ## Technical Limitations
@@ -337,7 +335,7 @@ Currently, the only feasible mobile app functionality is the submission of pre-n
 ## Other supporting documents created
 
 
-* Google Sheet (link Sheet, plus convert to Excel and link that)
+* Spreadsheet for tagging [(Excel file for download)](products/burials-memorials/pre-need/mobile/research/supporting-files/Pre-need-interview-notes-for-analysis.xlsx)
 
 
 ## Secondary research
