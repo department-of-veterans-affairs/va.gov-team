@@ -7,6 +7,7 @@ Last Update: 4/16/2025
 - [Communications](#communications)
 - [Roles](#roles)
 - [Overview](#overview)
+- [Problem Statement](#problem-statement)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Analytics](#analytics)
@@ -25,11 +26,60 @@ Last Update: 4/16/2025
 
 When Veterans log into VA.gov, [they expect to be met with an experience that reflects their personal circumstances at the VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-want-a-page-that-is-focused-on-current-information-specific-to-them-rather-than-generalized-information-for-all-veterans). My VA aims to surface actionable Veteran business. 
 
+Our goal with 3.0 is to redesign the logged-in landing page to be action-oriented and notifications-driven, enabling Veterans to quickly understand what needs attention and take relevant next steps.
+
+## Problem Statement
+Veterans currently land on a MyVA page that is not optimized for immediate action or visibility into time-sensitive updates. The experience for some sections is static, and Veterans often miss important information or fail to complete important service workflows because these tasks are not highlighted prominently. 
+
+How might we reimagine the logged-in landing experience to surface timely, relevant, and personalized actions so that Veterans can confidently manage their benefits and services? > To start, we plan to remove much of the static links and content that have built up over time. 
+
+
 ## User Outcomes 
+
+### Desired 
+- Veterans are able to see what needs their attention right away (e.g., unread messages, pending document uploads, upcoming appointments).
+- Veterans can take quick action on priority items navigating quickly to the relevant onsite experience.
+- Veterans feel informed and in control of their benefits and services.
+
+### Undesired 
+- Veterans feel overwhelmed by too many notifications or unclear action prompts.
+- Veterans overlook important items due to poor prioritization or information hierarchy.
+- Veterans encounter irrelevant or redundant alerts that lead to frustration or distrust.
 
 ## Business Outcomes 
 
+### Desired
+- Increase in completion rates for key workflows (e.g., uploading documents, attending appointments).
+- Reduction in call center volume due to improved self-service.
+- Improved Veteran trust and satisfaction with VA.gov as a digital platform.
+
+### Undesired 
+- Increase in support requests due to unclear new design.
+- Drop-off in usage if the redesigned experience feels cluttered or intrusive.
+- Misalignment with existing systems of record or internal data infrastructure.
+
 ## Analytics 
+
+### Key Performance Indicators (KPIs)
+
+NEED TO DISCUSS JUST TOSSED RANDOM THINGS IN HERE 
+| Category         | Ease of use         | Service completion         | Trust/Satisfaction        | Health                     |
+|------------------|---------------------|-----------------------------|----------------------------|----------------------------|
+| KPI              | Task success rate   | Document upload completion | Net Promoter Score (NPS)  | % of users engaging with actionable content |
+| KPI              | Time to first action| Appointment confirmation   | Customer Satisfaction (CSAT)| Bounce rate on MyVA page   |
+
+#### Baseline KPI Values
+
+TBD we need to determine what we want to measure first
+
+### Objectives and Key Results (OKRs)
+
+THIS IS JUST AN IDEA WE CAN CONSIDER - NEED TO OPERATIONALIZE IT A BIT
+- Objective: Make the logged-in experience more actionable and Veteran-centered.
+  - Key result: Increase first-action completion within 2 minutes of login by x%.
+  - Key result: Increase engagement with top-priority actions by x%
+  - Key result: Improve Veteran satisfaction (CSAT) with MyVA page by x%%.
+
 
 ## Design
 
