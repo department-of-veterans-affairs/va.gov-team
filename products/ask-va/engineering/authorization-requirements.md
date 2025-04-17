@@ -91,11 +91,11 @@ We also require sign in based on inquiry type. We determine this by asking a use
 
 ## 4. Who has access to a given inquiry?
 
-The general rule of thumb is that a user should only be able to access inquiries that they submit themselves.
+The general rule of thumb is that a user should only be able to access inquiries that they submit themselves. For example, if user A submits an inquiry on behalf of user B, then, user B cannot access the inquiry. Even though it's about them.
 
-We pass the ICN to the CRM when we issue a request via the [Retrieve Inquiries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/crm_api/Dashboard_RetrieveInquiries.md) endpoint, which lets us retrieve inquiries associated with that user.
+When we issue a request to the [Retrieve Inquiries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/crm_api/Dashboard_RetrieveInquiries.md) endpoint, we pass the ICN to the CRM which lets us retrieve inquiries associated with a particular user entity.
 
-For example, if user A submits an inquiry on behalf of user B, then, user B cannot access the inquiry. Even though it's about them.
+## Transfer inquiry
 
 However, there's an exception to this general rule. From the CRM portal, an agent can transfer a business inquiry to a new user and/or hide a business inquiry from a user’s dashboard. Personal inquiries cannot be transferred or hidden.
  
