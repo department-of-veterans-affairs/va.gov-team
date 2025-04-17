@@ -1,7 +1,7 @@
 ## Product Outline: Logged-in Dashboard `MyVA v3.0`
 
-Status: `DRAFT`
-Last Update: 4/17/2025
+- Status: `DRAFT`
+- Last Update: 4/17/2025
 
 ## Table of Contents 
 - [Communications](#communications)
