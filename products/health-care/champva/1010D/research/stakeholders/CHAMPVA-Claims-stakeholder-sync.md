@@ -1,6 +1,37 @@
 ## CHAMPVA Claims biweekly stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+**Attendees:** Angela C., Elizabeth L., Erick, Angela D., Melissa, Arleen, Joie, Jina, Andrea, Mike C., Mike M., Jamie, Rachel P., Renata
+
+**Agenda**
+
+-   Updates on the CHAMPVA Claims staged launch
+-   Review any questions that have come up from claims submissions
+
+**CHAMPVA Claims updates**
+
+-   Currently holding at 25% in production
+-   So far there’s been 5 claims submissions - identified some concerns and want to address those with everyone on the call, and if able to address, then move to 50% in prod before EOD today
+**Questions to address before increasing to 50%**
+
+-   Q: Right now the health insurance policy number and phone number are optional fields, not required. Is that a problem or should we make that field required?
+    -   **A: Leave as-is policy/phone number, not required**
+-   Q: Signer relationship to patient is optional; if anyone other than sponsor is filling out the form, we’re not asking what that relationship is. Do we want to prefill “Sponsor” or ask more detailed information about the relationship between sponsor-bene? Does that relationship matter?
+    -   A: The relationship to patient field isn’t really used at all on the backend but we’re assuming it’s a sponsor/parent filling out the form for the bene/child. **Leave as optional**
+-   Q (from IVC team): In prior research that a parent can sign for a child for a claim no POA required, but a sponsor can’t sign for another spouse. Do we need that POA established or relationship established?
+    -   This is incorrect, and no information will be released to the sponsor. The EOB will still go to the beneficiary spouse. **Leave as optional**
+ 
+**Discussion about increasing to 50%**
+
+- **Good to increase to 50%**
+-   Q (from CHAMPVA): Is there anyone on the website explaining in detail what information is listed when they fill out the claims form?
+    -   A: We know that 3 claims were submitted that were missing information like DX codes, etc. IVC team did a side-by-side comparison of what information is on the paper form and the digital form, and these errors could have happened equally with either submission type.
+    -   Moving forward: IVC team has identified some subsequent improvements to make to the static/intro pages and pages within the claims form to improve this experience and reduce the likelihood of errors
+        -   Mike C adds in we could add in specific document type drop-downs within the claims form (that would transfer to the BE) to help with granularity around the types of documents required
+-   Q (from CHAMPVA): Are users asked to upload multiple documents (invoices and EOBs separately) or a single, combined PDF (everything together)
+    -   A (from Mike C): We generate a PDF of the form itself and each individual file the user uploaded to support the claim
+
+
 ## **04/02/25**
 
 Attendees: Andrea, Richard, Jamie, Melissa, Amanda, Elizabeth L., Angela P., Rachel, Elizabeth S., Mike, Renata
