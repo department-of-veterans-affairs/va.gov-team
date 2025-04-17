@@ -8,6 +8,8 @@ When VA.gov users are logged in (authenticated) and filling out a form, the "sav
 
 We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal) for the design of new web forms. We have removed the "save in progress" alert, and redesigned the existing "Finish this request later" link that functions like a button. The currently existing text about saving will remain on the authenticated version of the form intro page and the first page of the form.
 
+</details>
+
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
 This research supports the following OCTO priorities:
