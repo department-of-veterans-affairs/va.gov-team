@@ -42,7 +42,6 @@ This document details how to create, update, and close an ADE ticket, ensuring a
 | **Term** | Definition |
 |------------------------|------------------|
 | **Intake**                 | **A request from a VFS product team or stakeholder for ADE support, which will be broken down into individual work tickets.** <li>ADE selects the issue type “Epic” for these intakes, to group the work by issue type. <li>Intakes are also known as “parent tickets.” <li>Every intake has a quick summary at the top, for a quick high-level overview of what is enclosed. |
-| **Issue**                   | **An issue is a well-defined unit of work.** <li>In Github, teams are asked to define the nature of their initiative and desired outcomes, in addition to providing background. <li>Ticket(s) are then created based on the defined issue.| 
 | **Ticket**                   | **Ticket(s) are created based on the issue(s) presented by the VFS Team.** <li>Tickets contain the details of the issue and the steps “tasks” (or work) required to meet the acceptance criteria, which is the definition of done. <li>Every ticket has a quick summary at the top, for a quick high-level overview of what is enclosed.<li>**Multiple Tickets:** If the work needing to be done to support the intake ticket is elaborate, multiple tickets may be created to support each portion of the work. <li>**Single Tickets:** If the work is simple and straightforward,one ticket (or potentially more) will be generated to support that work. |
 | **Task**                   |     **In Github, a task is an individual work item that can be checked off when completed. Tasks can be used as a simple checklist and/or converted into issues or sub-issues.** <li> **Unchecked Task:** When a task is unchecked, it is open. <li>**Checked Task:** When it is checked, it is closed. <li>**Task Progress:** GHP will show the number of tasks completed in an issue, and the overall progress at the top of the parent ticket. <li>**Lists:** You can also use multiple task lists in one ticket for different parts of your project. In any given ticket there will always be at least two task lists, an ADE Internal Task list and a task list for the VFS Team to complete.  |
 | **Sub-Issues**                   | **It is important to show connectivity between tickets.** This can be done through sub-issues.[^1] <li>**Existing Issues:** To connect an existing issue, as a sub-issue, choose the drop-down from "create sub-issue" and select "add existing issue" <li>**New Issues:** To connect a new issue,as a sub-issue, choose the drop-down from "create sub-issue" and select "create sub-issue," and select the respective template. |
@@ -66,9 +65,9 @@ This document details how to create, update, and close an ADE ticket, ensuring a
 ## Ticket Types
 
 **There are three main types of tickets.** [^2] 
-1. [ADE Intake Requests](#ADE-Intake-Requests)
-2. [ADE Work Ticket](#ADE-Work-Ticket)
-3. [ADE Research Ticket](#ADE-Research-Ticket)
+1. ADE Intake Requests
+2. ADE Work Ticket
+3. ADE Research Ticket
 
 [^2]: **Anchor links and collapsed sections:** Anchor links will not activate on a collapsed details section, unless it is expanded on the page. In this example, be sure to expand the collapsed details section "Expand to view xyz." 
 
@@ -142,8 +141,8 @@ We use templates to make it easier to create tickets for specific kinds of work 
 
 ## Custom Ticket Fields
 This section contains field data that is important for filtering and tracking issues within the ADE pipeline. [^2] 
-- [Required Fields](#Required-Fields)
-- [Additional Fields](#Additional-Fields)
+- Required Fields
+- Additional Fields
 
 <details><summary>Expand to view descriptions of the custom ticket fields.</summary>
     
