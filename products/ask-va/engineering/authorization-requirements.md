@@ -56,7 +56,7 @@ When an authenticated user submits an inquiry, the ICN allows us to associate th
 3. Crm::Service transmits this structured payload along with an X-VA-ICN header to Microsoft Dynamics.
 
 > [!NOTE]
-> We can infer that the following happens on the Dyanmics side, but need to confirm with the CRM team:
+> We can infer that the following happens on the Dynamics side, but need to confirm with the CRM team:
 > - The ICN is used as a foreign key to associate the inquiry with an existing Contact or Patient entity (or to de-duplicate an existing record).
 > - If the ICN does not already exist, CRM likely creates a new Contact record using the provided submitter/veteran profile data.
 > - The Inquiry is stored as a custom entity (e.g., Inquiry__c or similar), linked to the associated Contact via a relationship.
@@ -70,7 +70,7 @@ When a user is not authenticated, there is no ICN available. Here's how it works
 2. In Crm::Service, this submission goes through the same endpoint, but without any account identifiers.
 
 > [!NOTE]
-> We can infer that the following happens on the Dyanmics side, but need to confirm with the CRM team:
+> We can infer that the following happens on the Dynamics side, but need to confirm with the CRM team:
 > - Dynamics likely creates a new standalone Contact or Case using just the submitter’s contact info (email, name, etc.).
 > - Since there’s no ICN, it cannot be linked to a persistent identity.
 > - As a result, this inquiry behaves more like a “guest ticket” — it’s isolated and be under "unauthenticated"
