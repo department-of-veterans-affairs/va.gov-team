@@ -32,7 +32,7 @@ The following new columns will be added:
 
 - `ves_request_data`: An encrypted column that holds all form data entered by the user. This enables resubmission in case of service outages or non-data-related issues.
 - `application_uuid`: A unique identifier designating each individual submission.
-- `ves_response`: The HTTP response code and any relevant messages returned after submission to VES.
+- `ves_status`: The HTTP response code and any relevant messages returned after submission to VES.
 
 #### 2. VES submissions will occur immediately following a successful submission to DOCMP.
 
@@ -51,7 +51,8 @@ The following new columns will be added:
 3. **VES submission failure (post-successful validation and DOCMP submission)**
    - The submission appears successful to the user, even if the VES submission fails.
    - The submission is retried asynchronously using a Sidekiq job that runs once per hour for up to five hours.
-   - If a retry succeeds, the `ves_response` field is updated, and retries stop.
+       - `ves_status` is updated with the most recent response from VES
+   - If a retry succeeds, the `ves_status` field is updated to `'ok'`, and retries stop.
    - If all retries fail, the `StatsD` counter `ivc_champva.ves_submission_failures` is incremented, and an alert is sent to the IVC team’s Slack channel `#ivc-forms-datadog`.
 
 ```mermaid
@@ -62,7 +63,7 @@ flowchart LR
     C2 --> D["Send PDF to DOCMP"]
     D -- Fail --> E1["Return error to user"]
     D -- Success --> E2["Send data to VES API"]
-    E2 -- Success --> F1["Record response in<br/>ves_response"]
+    E2 -- Success --> F1["Record response in<br/>ves_status"]
     E2 -- Fail --> F2["Retry async via Sidekiq<br/>(once/hour, up to 5x)"]
     F2 -- "Retry Success" --> G1["Record success"]
     F2 -- "All Retries Failed" --> G2["Increment StatsD counter<br/>Send alert to Slack (#ivc-forms-datadog)"]
