@@ -112,15 +112,14 @@ We would like Perigean to recruit both AT users and non-AT users who are Veteran
 ### Primary criteria (must-haves) in *decreasing* order of priority
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-AT (screen readers and screen magnifiers) and non-AT users
-people who have filled out VA forms online before, and those who have not
-
 - `4 must use a screen reader every time they access the internet`
 - `2 must use a screen magnifier every time they access the internet`
 - `6 must NOT use a screen reader or screen magnifier`
 - `At least 5 have a computer and are willing to use it for the session`
 - `At least 5 have a smartphone and are willing to use it for the session`
 - `At least 4 people have a cognitive disability (e.g., TBI)` 
+- `At least 4 people who have filled out a VA form online before`
+- `At least 4 people who have NOT filled out a VA form online before`
 - `ALL `
   - `Have Zoom downloaded to their device prior to the session and know how to share their screen` 
   - `Are willing to share over Zoom a web browser window` 
@@ -136,6 +135,36 @@ people who have filled out VA forms online before, and those who have not
 - `At least 2 people live in a rural or remote area` 
 - `At least 3 people of color` (anything other than White or Caucasian)
 
+#### Screening Questions
+
+1. Do you use a screen reader or screen magnifier **every time** you use the Internet? We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
+    1. No *(jump to question 5)*
+    2. Yes *(ask next question)*
+
+1. Are you willing to join the Zoom session using your screen reader or screen magnifier? 
+    1. No *(DISQUALIFY)* 
+    1. Yes *(ask next question)*  
+
+1. How long have you been using this screen reader or screen magnifier? 
+    1. Less than 2 years *(DISQUALIFY)* 
+    1. 2-5 years *(ask next question)*
+    1. More than 5 years *(ask next question)* 
+
+1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say AND ask rest of questions)*
+    - *DISQUALIFY if they say something non-digital like "magnifying glass"* 
+    - *Acceptable responses include "ZoomText", "increase font size", "zoom in the browser, "JAWS", "VoiceOver", "Talkback"*
+    - *If unsure whether someone qualifies, please ask Cindy*
+
+1. For this meeting, you'll need a device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using? *(RECORD)*
+    1. Smartphone  
+    1. Computer 
+    1. Tablet 
+
+1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+     1. No
+     2. Yes *(RECRUIT 2 and RECORD as having a cognitive disability)*
+
+
 ## Timeline 🗓️
 > [!NOTE]
 > **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
@@ -147,14 +176,14 @@ people who have filled out VA forms online before, and those who have not
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
-- `Pilot participant name:` **[Enter name]**
+- `Pilot participant name:` **TBD**
 - `Date and time of pilot session:` **[Enter time]** 
 
 ### Research sessions
 - `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
+- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **90 min for AT users, 60 min for non-AT users]**
   
 - `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
   
@@ -185,10 +214,10 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-- `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Enter full name]**		
-- `Participant recruiting & screening:`	**[Enter full name]**	
-- `Project point of contact:` **[Enter full name]**		
+- `Moderator:` **Cindy Merrill**	
+- `Research guide writing and task development (usually but not always same as moderator):` **Cindy Merrill**		
+- `Participant recruiting & screening:`	**Perigean**	
+- `Project point of contact:` **Cindy Merrill**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
 - `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
