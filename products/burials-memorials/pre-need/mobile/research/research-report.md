@@ -4,9 +4,7 @@
 
 Date: MM/DD/YYYY
 
-Emily DeWan emily.dewan@oddball.io
-
-Natasha Huckleberry natasha.huckleberry@oddbal.io
+Emily DeWan, Natasha Huckleberry
 
 
 *Once you've presented your research readout to your team, if you have a deck, insert a link to it here *
