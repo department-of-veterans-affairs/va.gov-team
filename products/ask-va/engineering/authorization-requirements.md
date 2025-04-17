@@ -84,8 +84,6 @@ Ask VA Admins (called, AVA Admins), have the ability to change queue and topic s
 
 We receive these authentication flags using the [Get Topics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/crm_api/Form_GetTopics.md) endpoint.
 
-### Additional sign in rules on VA.gov
-
 We also require sign in based on inquiry type. We determine this by asking a user, 'Who is your question about?' and if they choose 'Myself' or 'Someone else', sign in is required. 
 
 > [!NOTE] 
@@ -93,14 +91,11 @@ We also require sign in based on inquiry type. We determine this by asking a use
 
 ## 4. Who has access to a given inquiry?
 
-The general rule of thumb is that a user should only be able to access inquiries that they submit themselves. Using the [Retrieve Inquiries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/crm_api/Dashboard_RetrieveInquiries.md) endpoint, we retrieve inquiries associated with a specific user
+The general rule of thumb is that a user should only be able to access inquiries that they submit themselves.
+
+We pass the ICN to the CRM when we issue a request via the [Retrieve Inquiries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/crm_api/Dashboard_RetrieveInquiries.md) endpoint, which lets us retrieve inquiries associated with that user.
 
 For example, if user A submits an inquiry on behalf of user B, then, user B cannot access the inquiry. Even though it's about them.
-
-> [!NOTE] 
-> How do we filter which inquiries are associated with a given user? Using their ICN?
-
-### Inquiry transfer
 
 However, there's an exception to this general rule. From the CRM portal, an agent can transfer a business inquiry to a new user and/or hide a business inquiry from a user’s dashboard. Personal inquiries cannot be transferred or hidden.
  
