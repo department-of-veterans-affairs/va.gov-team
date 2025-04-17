@@ -26,7 +26,7 @@ Jump to:
 
 ## What is an acceptable levelOfAuthentication and Level of Assurance?
 
-`levelOfAuthentication` is a required field for the [Submit Inquiry endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/crm_api/Form_SubmitInquiry.md) indicating a user’s authentication status.
+`levelOfAuthentication` is a required field for the [Submit Inquiry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/crm_api/Form_SubmitInquiry.md) endpoint indicating a user’s authentication status.
 
 Acceptable values are `authenticated`, `unauthenticated`, `personal`, or `business`, representing different levels or types of user verification and context.
 
@@ -53,9 +53,20 @@ However, the ICN value is not included for unauthenticated users. // **How does 
 ## When does Ask VA require a user to be authenticated?
 
 > [!NOTE] 
-> This [sign in documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-04%20Sign%20in%20rules.md#what-we-know-about-sign-in-rules-for-ask-va) explains when sign in is required or not.
+> This [sign in documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-04%20Sign%20in%20rules.md#what-we-know-about-sign-in-rules-for-ask-va) describes sign in scenarios from a user experience perspective.
 
-// Adding more details here...
+### CRM authentication rules
+
+Ask VA Admins (called, AVA Admins), have the ability to change queue and topic settings at any point. This includes:
+- whether or not their queue requires authentication
+- whether or not their queue allows attachments
+- whether or not their queue allows replies and for how long after an inquiry was last solved (reply window)
+
+We receive these authentication flags using the [Get Topics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/crm_api/Form_GetTopics.md) endpoint.
+
+### Additional sign in rules on VA.gov
+
+We also require sign in based on inquiry type. We determine this by asking a user, 'Who is your question about?' and if they choose 'Myself' or 'Someone else', sign in is required. 
 
 ## Who has access to a given inquiry?
 
@@ -74,21 +85,3 @@ For example, if a School Certifying Official (SCO), submits inquiries on behalf 
 
 > [!NOTE] 
 > If we use ICN to define authorization for a given inquiry, we need the CRM team to confirm the ICN updates when an inquiry is transferred.
-
-
-----
-
-Still editing this.
-
-Some sign in rules come from CRM. 
-
-Ask VA Admins (called, AVA Admins), have the ability to change queue and topic settings at any point, without it being part of a release. This includes:
-- whether or not their queue requires authentication
-- whether or not their queue allows attachments
-- whether or not their queue allows replies and for how long after an inquiry was last solved (reply window)
-
-For this reason, we receive some authentication rules from CRM via the [Get Topics endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/crm_api/Form_GetTopics.md).
-
-## When are attachments allowed?
-
-Attachments are blocked for unauthenticated inquiries.
