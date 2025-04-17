@@ -13,8 +13,9 @@ assignees: davidconlon, GitSamJennings, kbelikova-oddball
 2.  **Business Line**
     (ex., claims, health, etc.)
     
-3. **VA Product/Business Owner Contact Information**
-4. **Technical Point of Contact Information**  
+3. **VA Product/Business Owner Contact Information** (The Business Contact is the designated owner of a service within VA Notify and is responsible for all notifications sent by that service. Each service must have at least one Business Contact who is a VA employee — typically, this role is filled by the VA Product Owner.)
+   
+4. **Technical Point of Contact Information** (The Technical Contact is responsible for implementing and maintaining the integration between the trigger and VA Notify. They support the Business Contact with technical tasks such as API integration, managing notification functionality, and handling API keys. This is an optional role and does not require the person to be a VA employee.) 
 ​
 ## Notification Details
 1.  **Notification type**
