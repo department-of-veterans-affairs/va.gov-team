@@ -3,7 +3,7 @@ name: Internal ADE Pilot Research Ticket
 about: Template for pilots conducted prior to research, created based on requests
   made to ADE.
 title: Internal Pilot Research Ticket
-labels: ADE Research
+labels: ADE, ADE Research
 assignees: artsymartha68, cindymerrill, lakper, sara-amanda
 
 ---
