@@ -8,10 +8,10 @@ This document outlines Ask VA requirements with regards to users, their inquirie
 
 Jump to:
 - [Glossary](#glossary)
-- [What is an acceptable levelOfAuthentication and Level of Assurance?](#what-is-an-acceptable-levelofauthentication-and-level-of-assurance)
-- [How does an inquiry get associated with an account?](#how-does-an-inquiry-get-associated-with-an-account)
-- [When does Ask VA require a user to be authenticated?](#when-does-ask-va-require-a-user-to-be-authenticated)
-- [Who has access to a given inquiry?](#who-has-access-to-a-given-inquiry)
+- [1. What is an acceptable levelOfAuthentication and Level of Assurance?](#1-what-is-an-acceptable-levelofauthentication-and-level-of-assurance)
+- [2. How does an inquiry get associated with an account?](#2-how-does-an-inquiry-get-associated-with-an-account)
+- [3. When does Ask VA require a user to be authenticated?](#3-when-does-ask-va-require-a-user-to-be-authenticated)
+- [4. Who has access to a given inquiry?](#4-who-has-access-to-a-given-inquiry)
 
 ## Glossary
 
@@ -24,7 +24,7 @@ Jump to:
 |Level of Assurance|LOA|User credentials will have an associated Level of Assurance (LOA) based on whether a user has verified their identity with the credential service provider.|
 |levelOfAuthentication||A required field for the Submit Inquiry endpoint indicating a user’s authentication status. Acceptable values are `authenticated`, `unauthenticated`, `personal`, or `business`, representing different levels or types of user verification and context.|
 
-## What is an acceptable levelOfAuthentication and Level of Assurance?
+## 1. What is an acceptable levelOfAuthentication and Level of Assurance?
 
 `levelOfAuthentication` is a required field for the [Submit Inquiry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/crm_api/Form_SubmitInquiry.md) endpoint indicating a user’s authentication status.
 
@@ -44,18 +44,38 @@ These values are associated with the following Levels of Assurance (LOAs):
 
 Ask VA only accepts LOA3 as authenticated. LOA1 is treated as unauthenticated. A user who is signed in to a CSP with LOA1 will be asked to verify their identity in order to be treated as authenticated.
 
-## How does an inquiry get associated with an account?
+## 2. How does an inquiry get associated with an account?
 
-When an authenticated user submits an inquiry, their inquiry details, including their ICN, are // **sent to some endpoint ??** //. This allows CRM to associate an inquiry with a given account.
+When an authenticated user submits an inquiry, the ICN allows us to associate the inquiry with a user entity. Here's how it works:
 
-However, the ICN value is not included for unauthenticated users. // **How does an unauthenticated inquiry get attached to an account then??** //  Unauthenticated inquiries aren't viewable from Ask VA when you're authenticated. (They don't populate your dashboard.) After they get submitted, any future communication happens via email.
+1. ICN from the user session is extracted in the controller and passed into the payload via Inquiries::Creator.
+2. The payload sent to the CRM has three main sections:
+- Inquiry Information (question, category, topic, attachments, etc.)
+- Submitter Profile (contact info, SSN/EDIPI if available)
+- Veteran Profile (contact info, SSN/EDIPI if available)
+3. Crm::Service transmits this structured payload along with an X-VA-ICN header to Microsoft Dynamics.
 
-## When does Ask VA require a user to be authenticated?
+> [!NOTE]
+> We can infer that the following happens on the Dyanmics side, but need to confirm with the CRM team:
+> - The ICN is used as a foreign key to associate the inquiry with an existing Contact or Patient entity (or to de-duplicate an existing record).
+> - If the ICN does not already exist, CRM likely creates a new Contact record using the provided submitter/veteran profile data.
+> - The Inquiry is stored as a custom entity (e.g., Inquiry__c or similar), linked to the associated Contact via a relationship.
+> This allows CRM to maintain a persistent, deduplicated view of the user across multiple submissions.
 
-> [!NOTE] 
-> This [sign in documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-04%20Sign%20in%20rules.md#what-we-know-about-sign-in-rules-for-ask-va) describes sign in scenarios from a user experience perspective.
+When a user is not authenticated, there is no ICN available. Here's how it works differently:
 
-### CRM authentication rules
+1. The payload is still structured with the same three sections, but:
+- The X-VA-ICN header is nil.
+- current_user is nil, so fields like EDIPI, ICN, and sometimes SSN are missing from the submitter profile.
+2. In Crm::Service, this submission goes through the same endpoint, but without any account identifiers.
+
+> [!NOTE]
+> We can infer that the following happens on the Dyanmics side, but need to confirm with the CRM team:
+> - Dynamics likely creates a new standalone Contact or Case using just the submitter’s contact info (email, name, etc.).
+> - Since there’s no ICN, it cannot be linked to a persistent identity.
+> - As a result, this inquiry behaves more like a “guest ticket” — it’s isolated and be under "unauthenticated"
+
+## 3. When does Ask VA require a user to be authenticated?
 
 Ask VA Admins (called, AVA Admins), have the ability to change queue and topic settings at any point. This includes:
 - whether or not their queue requires authentication
@@ -68,7 +88,10 @@ We receive these authentication flags using the [Get Topics](https://github.com/
 
 We also require sign in based on inquiry type. We determine this by asking a user, 'Who is your question about?' and if they choose 'Myself' or 'Someone else', sign in is required. 
 
-## Who has access to a given inquiry?
+> [!NOTE] 
+> This [sign in documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-04%20Sign%20in%20rules.md#what-we-know-about-sign-in-rules-for-ask-va) describes sign in scenarios from a user experience perspective.
+
+## 4. Who has access to a given inquiry?
 
 The general rule of thumb is that a user should only be able to access inquiries that they submit themselves. Using the [Retrieve Inquiries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/crm_api/Dashboard_RetrieveInquiries.md) endpoint, we retrieve inquiries associated with a specific user
 
