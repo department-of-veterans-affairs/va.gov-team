@@ -4,7 +4,7 @@ about: Template for ADE members to utilize, when needing to create a ticket oust
   the intake process such as a child ticket or a parent/epic for work being done to
   support the CC.
 title: "[ADE CC]:<Team><Product><Requesting><Stage>"
-labels: ADE CC AN
+labels: ADE, ADE CC AN
 assignees: artsymartha68, lakper, sara-amanda
 
 ---
