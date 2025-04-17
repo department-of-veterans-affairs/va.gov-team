@@ -126,11 +126,11 @@ Are there moments that matter?</summary>
 > [!TIP]
 >Enter more questions as needed
 
-### Hypothesis
+### Hypotheses
 > [!NOTE]
-> Remember to constrain the hypothesis to the goals of your study!
+> Remember to constrain the hypotheses to the goals of your study!
  
-**Think through these prompts to develop a strong hypothesis:**
+**Think through these prompts to develop strong hypotheses:**
 	
 `What do you intend to learn and measure from this study?` 
 
@@ -142,7 +142,7 @@ Are there moments that matter?</summary>
 
 ---
 
-**[Enter hypothesis here]** 
+**[Enter hypotheses here]** 
 
 ---
   
