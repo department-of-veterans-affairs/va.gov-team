@@ -63,10 +63,16 @@ How might we reimagine the logged-in landing experience to surface timely, relev
 ### Key Performance Indicators (KPIs)
 
 NEED TO DISCUSS JUST TOSSED RANDOM THINGS IN HERE 
-| Category         | Ease of use         | Service completion         | Trust/Satisfaction        | Health                     |
-|------------------|---------------------|-----------------------------|----------------------------|----------------------------|
-| KPI              | Task success rate   | Document upload completion | Net Promoter Score (NPS)  | % of users engaging with actionable content |
-| KPI              | Time to first action| Appointment confirmation   | Customer Satisfaction (CSAT)| Bounce rate on MyVA page   |
+| Category             | KPI                             |
+|----------------------|-----------------------------------|
+| Ease of use          | Task success rate                 | 
+| Ease of use          | Time to first action          |
+| Service completion   | Document upload completion        | 
+| Service completion   |  Appointment confirmation      |
+| Trust/Satisfaction   | Net Promoter Score (NPS)          | 
+| Trust/Satisfaction   | Customer Satisfaction (CSAT)  |
+| Health               | % of users engaging with actionable content | 
+| Health               |  Bounce rate on MyVA page      |
 
 #### Baseline KPI Values
 
