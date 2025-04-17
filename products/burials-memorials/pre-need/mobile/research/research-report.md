@@ -33,7 +33,7 @@ The VA app currently lacks any features related to pre-need eligibility, such as
 * Application tracking (status updates)
 * Digital decision letters
 
-Key moments from the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) include putting down roots and taking care of my family. This research aims to evaluate which aspects of the pre-need burial eligibility process should be integrated into the VA mobile app to better serve Veterans' needs.
+Key moments from the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) include Putting Down Roots (taking care of my family), Aging, and Dying. This research aims to evaluate which aspects of the pre-need burial eligibility process should be integrated into the VA mobile app to better serve Veterans' needs.
 
 
 ## Research Goals
