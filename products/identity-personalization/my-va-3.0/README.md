@@ -93,6 +93,11 @@ THIS IS JUST AN IDEA WE CAN CONSIDER -  TO OPERATIONALIZE IT A BIT
   - Key result: Increase engagement with top-priority actions by x%
   - Key result: Improve Veteran satisfaction (CSAT) with MyVA page by x%%.
 
+## Important Artifacts
+- [Redesign Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104965)
+- [OCTO-Blue-Sky-2.0-2024-Leave-behind.pdf](https://github.com/user-attachments/files/19196922/OCTO-Blue-Sky-2.0-2024-Leave-behind.pdf)
+- [My Va Reimagined - research vs. current dashboard](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1741893873095/0f0731fe9f8ee4467870e1ef0eb5e374d5b50226)
+- [Governance Sharepoint doc](https://dvagov.sharepoint.com/:f:/s/AuthenticatedExperience2/Ep2R4PocTxdEtUMALnYk-W4BO5237d_jVlhszL-S66Nmog?e=CEWWxR) - Auth Exp > Documents > AE Governance
 
 ## Design
 
