@@ -150,19 +150,21 @@ We would like Perigean to recruit both AT users and non-AT users who are Veteran
     1. 2-5 years *(ask next question)*
     1. More than 5 years *(ask next question)* 
 
-1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say AND ask rest of questions)*
-    - *DISQUALIFY if they say something non-digital like "magnifying glass"* 
-    - *Acceptable responses include "ZoomText", "increase font size", "zoom in the browser, "JAWS", "VoiceOver", "Talkback"*
+1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say AND ask the rest of the questions)*
+    - If they say something non-digital like "magnifying glass, *(DISQUALIFY)* 
+    - If they say "JAWS", "NVDA", "VoiceOver", "TalkBack", or "Narrator", *RECORD as screen reader user, RECRUIT 4 and ask next question*
+    - If they say "Magnifier", "Zoom", "Magnification", "Magnifier", or "ZoomText", *RECORD as screen magnifier user, RECRUIT 2 and ask next question*
+    - If they say "increase font size" or "zoom in the browser", *ask  what percentage they zoom to. If 200% or greater, RECRUIT 2 and ask next question*
     - *If unsure whether someone qualifies, please ask Cindy*
 
 1. For this meeting, you'll need a device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using? *(RECORD)*
-    1. Smartphone  
-    1. Computer 
-    1. Tablet 
+    1. Smartphone  *(RECRUIT 5 and ask next question)*
+    1. Computer *(RECRUIT 5 and ask next question)*
+    1. Tablet *(RECRUIT no more than 2, and ask next question)*
 
 1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
      1. No
-     2. Yes *(RECRUIT 2 and RECORD as having a cognitive disability)*
+     2. Yes *(RECRUIT 4 and RECORD as having a cognitive disability)*
 
 
 ## Timeline 🗓️
