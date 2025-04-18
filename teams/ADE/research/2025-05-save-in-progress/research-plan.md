@@ -115,8 +115,8 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 - `At least 5 have a computer and are willing to use it for the session`
 - `At least 5 have a smartphone and are willing to use it for the session`
 - `At least 4 have a cognitive disability (e.g., TBI)` 
-- `At least 4 who have filled out a VA form online before`
-- `At least 4 who have NOT filled out a VA form online before`
+- `At least 4 have filled out a VA form online before`
+- `At least 4 have NOT filled out a VA form online before`
 - `ALL `
   - `Have Zoom downloaded to their device prior to the session and know how to share their screen` 
   - `Are willing to share over Zoom a web browser window` 
@@ -202,7 +202,7 @@ Cindy is available for a kickoff call during any of these times:
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **90 min for AT users, 60 min for non-AT users**
+- `Session length:` **90 min for AT users, 60 min for non-AT users**
   
 - `Buffer time between sessions:` **30 min**
   
@@ -248,5 +248,5 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Observers:` Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean.
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
-- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
+- `Reviewed by Martha Wilkes, OCTO Accessibility Strategist/Designer on [MM-DD-2025]`
+- `Reviewed by Shane Strassberg on [MM-DD-2025]`
