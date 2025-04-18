@@ -174,6 +174,11 @@ We would like Perigean to recruit both AT users and non-AT users who are Veteran
      1. No
      2. Yes *(RECRUIT 4 and RECORD as having a cognitive disability)*
 
+1. Have you filled out a VA form online before? 
+     1. No *(RECRUIT 4 and RECORD as having NOT filled out VA form online before)*
+     2. Yes *(RECRUIT 4 and RECORD as having filled out VA form online before)*
+     3. Don't know 
+
 
 ## Timeline 🗓️
 > [!NOTE]
