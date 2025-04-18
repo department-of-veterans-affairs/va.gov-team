@@ -173,6 +173,47 @@ async function getItemId(projectId, title) {
   }
 }
 
+async function getItemId2(owner, projectNumber, title) {
+  const query = `
+  query FindItemIdViaSearch($searchQuery: String!) {
+    search(query: $searchQuery, type: ISSUE, first:1) {
+      nodes {
+        ... on Issue {
+          id 
+          number
+          title
+        }
+      }
+    }
+  }`;
+  const searchQuery = `"is:issue project:\"${owner}/${projectNumber}\" in:title \"${title}" sort:created-desc`;
+  try {
+    const { data } = await axiosInstance.post('',
+      {
+        query,
+        variables: {
+          searchQuery
+        }
+      }
+    );
+    [{ id }] = data.data.search.nodes;
+    return id;
+  } catch {
+    return null;
+  }
+}
+
+async function getItemIdWithRetry(owner, projectNumber, title) {
+  for (let i = 0; i < 10; i++) {
+    const id = await getItemId2(owner, projectNumber, title);
+    if (id !== null) {
+      return id;
+    }
+    sleep(20 * 1000 + i * 10 * 1000);
+  }
+  return null;
+}
+
 //update a field value
 async function updateIssue(projectId, itemId, fieldId, optionId, iterationField=false) {
   const mutation = `
@@ -211,6 +252,7 @@ async function updateIssue(projectId, itemId, fieldId, optionId, iterationField=
 module.exports  = {
   getProjectId2,
   getProjectField,
+  getItemIdWithRetry,
   getItemId,
   updateIssue
 }
