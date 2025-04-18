@@ -88,8 +88,8 @@ This is remote research over Zoom.
 > [!NOTE]
 > **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 
-- `[Link to conversation guide](url goes here)`
-- `[Link to prototype](url goes here)`
+- `[Link to conversation guide](url TBD)`
+- `[Link to prototype](url TBD)`
 
 	
 ## Recruitment 🎯	
@@ -155,7 +155,7 @@ We would like Perigean to recruit both AT users and non-AT users who are Veteran
 
 1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say AND ask the rest of the questions)*
 
-    - If they say something non-digital like "magnifying glass, *(DISQUALIFY)* 
+    - If they say something non-digital like "magnifying glass, *DISQUALIFY* 
     - If they say "JAWS", "NVDA", "VoiceOver", "TalkBack", or "Narrator", *RECORD as **screen reader user**, RECRUIT 4 and ask next question*
     - If they say "Magnifier", "Zoom", "Magnification", "Magnifier", or "ZoomText", *RECORD as **screen magnifier user**, RECRUIT 2 and ask next question*
     - If they say "increase font size" or "zoom in the browser", ask  what percentage they zoom to. 
@@ -179,15 +179,20 @@ We would like Perigean to recruit both AT users and non-AT users who are Veteran
      2. Yes *(RECRUIT 4 and RECORD as having filled out VA form online before)*
      3. Don't know 
 
-
 ## Timeline 🗓️
 > [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
+> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior.** 
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
+Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria.  
 
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
+Cindy is available for a kickoff call during any of these times: 
+- **DATE TBD** TIME RANGE TBD pm ET
+- **DATE TBD** TIME RANGE TBD pm ET
+
+**Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study to review beforehand.
+
+
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
@@ -195,7 +200,9 @@ We would like Perigean to recruit both AT users and non-AT users who are Veteran
 - `Date and time of pilot session:` **TBD** 
 
 ### Research sessions
-- `Planned dates of research:` **May 1 - May 9**
+- `Planned dates of research:` **May 8-19**
+
+We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
 ### Length of sessions
 - `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **90 min for AT users, 60 min for non-AT users**
@@ -207,31 +214,31 @@ We would like Perigean to recruit both AT users and non-AT users who are Veteran
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-- `May 1, Thu, 12 - 1 or 1:30 PM ET`
-- `May 1, Thu, 2 - 3 or 3:30 PM ET`
-- `May 1, Thu, 5 - 6 or 6:30 PM ET`
-- `May 1, Thu, 7 - 8 or 8:30 PM ET`
-- `May 2, Fri, 12 - 1 or 1:30 PM ET`
-- `May 2, Fri, 2 - 3 or 3:30 PM ET`
-- `May 2, Fri, 5 - 6 or 6:30 PM ET`
-- `May 2, Fri, 7 - 8 or 8:30 PM ET`
-- `May 5, Mon, 12 - 1 or 1:30 PM ET`
-- `May 5, Mon, 2 - 3 or 3:30 PM ET`
-- `May 5, Mon, 5 - 6 or 6:30 PM ET`
-- `May 5, Mon, 7 - 8 or 8:30 PM ET`
-- `May 6, Tue, 12 - 1 or 1:30 PM ET`
-- `May 6, Tue, 2 - 3 or 3:30 PM ET`
-- `May 6, Tue, 5 - 6 or 6:30 PM ET`
-- `May 6, Tue, 7 - 8 or 8:30 PM ET`
-- `May 7, Wed, 12 - 1 or 1:30 PM ET`
-- `May 7, Wed, 2 - 3 or 3:30 PM ET`
-- `May 7, Wed, 5 - 6 or 6:30 PM ET`
-- `May 7, Wed, 7 - 8 or 8:30 PM ET`
 - `May 8, Thu, 12 - 1 or 1:30 PM ET`
 - `May 8, Thu, 2 - 3 or 3:30 PM ET`
 - `May 8, Thu, 5:30 - 6:30 or 7 PM ET`
 - `May 9, Fri, 3:30 - 4:30 or 5 PM ET`
 - `May 9, Fri, 5:30 - 6:30 or 7 PM ET`
+- `May 12, Mon, 12 - 1 or 1:30 PM ET`
+- `May 12, Mon, 5 - 6 or 6:30 PM ET`
+- `May 12, Mon, 7 - 8 or 8:30 PM ET`
+- `May 13, Tue, 12 - 1 or 1:30 PM ET`
+- `May 13, Tue, 2 - 3 or 3:30 PM ET`
+- `May 14, Wed, 2 - 3 or 3:30 PM ET` 
+- `May 14, Wed, 5 - 6 or 6:30 PM ET`
+- `May 14, Wed, 7 - 8 or 8:30 PM ET`
+- `May 15, Thu, 12 - 1 or 1:30 PM ET`
+- `May 15, Thu, 2 - 3 or 3:30 PM ET`
+- `May 15, Thu, 5 - 6 or 6:30 PM ET`
+- `May 15, Thu, 7 - 8 or 8:30 PM ET`
+- `May 16, Fri, 12 - 1 or 1:30 PM ET`
+- `May 16, Fri, 2 - 3 or 3:30 PM ET`
+- `May 16, Fri, 5 - 6 or 6:30 PM ET`
+- `May 16, Fri, 7 - 8 or 8:30 PM ET`
+- `May 19, Mon, 12 - 1 or 1:30 PM ET`
+- `May 19, Mon, 2 - 3 or 3:30 PM ET`
+- `May 19, Mon, 5 - 6 or 6:30 PM ET`
+- `May 19, Mon, 7 - 8 or 8:30 PM ET`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
@@ -241,11 +248,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Project point of contact:` **Cindy Merrill**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **ADE Team**	
 - `Note-takers:` **Perigean**	
-- `Observers:`
-
-- **[Enter full name]**
-- **[Enter full name]**
-- **[Enter full name]**
+- `Observers:` Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean.
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
