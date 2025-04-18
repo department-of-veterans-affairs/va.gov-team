@@ -168,12 +168,12 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
     1. Tablet *(RECRUIT no more than 2, and ask next question)*
 
 1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
-     1. No
-     2. Yes *(RECRUIT 4 and RECORD as having a cognitive disability)*
+     1. No *(ask next question)*
+     2. Yes *(RECRUIT 4, RECORD as having a cognitive disability, and ask next question)*
 
 1. Have you filled out a VA form online before? 
-     1. No *(RECRUIT 4 and RECORD as having NOT filled out VA form online before)*
-     2. Yes *(RECRUIT 4 and RECORD as having filled out VA form online before)*
+     1. No *(RECRUIT 4 and RECORD as NOT filled out VA form online)*
+     2. Yes *(RECRUIT 4 and RECORD as filled out VA form online)*
      3. Don't know 
 
 ## Timeline 🗓️
