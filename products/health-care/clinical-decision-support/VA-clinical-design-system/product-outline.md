@@ -15,22 +15,21 @@ VACDS create efficiencies for developers and a unified experience across apps fo
 #### Communications
 
 - Team Name: VA clinical design system (VACDS)
-- GitHub Project: link tbd once migrated off [ZenHub](https://app.zenhub.com/workspaces/clinical-design-system-63755854c6c0470010f99e60/board), sharing VA Clinicial design system board with data viz team
+- GitHub Project: [Project](https://github.com/orgs/department-of-veterans-affairs/projects/1556/), sharing VA Clinicial design system board with data viz team
 - GitHub Label: `VACDS-core` 
-- Slack channel: #clinical-design-system-public (shared with data viz patterns team)
-- [VA CDS design system documentation - wiki](https://verbose-goggles-59mgm8y.pages.github.io/)
+- Slack channel: [#clinical-design-system-public](https://dsva.slack.com/archives/C04DMDC3TS8) (shared with data viz patterns team)
+- [VA CDS design system documentation](https://department-of-veterans-affairs.github.io/clinical-design/)
 - VA CDS [Storybook](https://crispy-succotash-9k23jen.pages.github.io/?path=/docs/components-accordion--docs)
 - GitHub [repo](https://github.com/department-of-veterans-affairs/clinical-design-system)
-- Figma: currently on Thoughtworks account, contact Annie Conn
+- Figma: currently on Thoughtworks account, contact Juan Pasten
 
 #### Team Members
 
  - VA Product Owner: Amanda Klausmeier
  - Product Manager: n/a
- - Design/Research: Juan Pasten
+ - Design/Research: Kira Davies
  - Engineering: John Hutchinson
  - Accessibility: n/a
-
 
 #### Stakeholders
 
