@@ -82,7 +82,7 @@ We conducted hour-long remote moderated research sessions via Zoom on March 7-14
 
 * (VA.gov - unauthenticated) [VA Burial Benefits And Memorial Items](https://www.va.gov/burials-memorials/)
 * (VA.gov - unauthenticated) [Pre-Need Eligibility For Burial In A VA Cemetery](https://www.va.gov/burials-memorials/pre-need-eligibility/)
-* (prototype) [Simplified version of the pre-need burial eligibility form, My VA, and the mobile app](https://www.figma.com/design/XW0MKGL4iuHHRChVFVD6mF/MFS-Pre-need-burials?node-id=24480-23451&t=DhHxDJEemzpcAWAZ-1)
+* (prototype) [Simplified version of the pre-need burial eligibility form, My VA, and the mobile app](https://www.figma.com/proto/XW0MKGL4iuHHRChVFVD6mF/MFS-Pre-need-burials?node-id=24480-23451&t=v9R7xQIBvjTDzIfp-1&scaling=min-zoom&content-scaling=fixed&page-id=24480%3A20737&starting-point-node-id=24480%3A23451)
 
 
 ## Hypotheses and Conclusions
@@ -298,14 +298,23 @@ Currently, the only feasible mobile app functionality is the submission of pre-n
 ## Next Steps
 - Review and share research findings with VA PO and relevant teams to ensure alignment on insights, recommendations, and their implications for the project.
 - Document any new or unanswered questions from the research.
-- Create and iterate on designs mentioned in the recommendations and conduct usability testing with assistive technology users.
+- Create and iterate on designs mentioned in the recommendations and conduct usability testing.
 - Await the work mentioned in technical limitations to be addressed before implementation.
 
 
-<!--
+
 ## Further research needed
 
-???? -->
+**Assistive technology users**
+
+Due to stage of our research, we did not include assistive technology (AT) users in our plans. Though we ended up with at least 2 AT users, we want to be sure solutions address the needs for all AT users.
+
+**Younger Veterans and family members**
+
+In this study, all but one participant was 45 years or older, which helped ensure our research reflected the demographics of Veterans and included older individuals who may face more challenges with technology. However, expanding future research to include younger Veterans and family members could be valuable, as it would:
+* Help us design with the expectations of more tech-savvy users in mind
+* Allow us to explore and validate ideas related to next of kin by including family members in our research
+
 
 
 ## Appendix
@@ -322,6 +331,7 @@ Currently, the only feasible mobile app functionality is the submission of pre-n
 
 * Google Sheet for tagging
 * Notta to analyze transcripts and pull quotes
+* Mural for user flows
 
 
 ## Pages and applications used
@@ -336,6 +346,7 @@ Currently, the only feasible mobile app functionality is the submission of pre-n
 
 
 * Spreadsheet for tagging [(Excel file for download)](products/burials-memorials/pre-need/mobile/research/supporting-files/Pre-need-interview-notes-for-analysis.xlsx)
+* [Userflows in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1736881059858/1f3031db9bdae859ddb07912323ea4fbddd6aa48)
 
 
 ## Secondary research
@@ -350,19 +361,53 @@ Currently, the only feasible mobile app functionality is the submission of pre-n
 
 **Recruitment criteria**
 
-Intended audience
-
-* Veterans only, using Perigean to recruit
-* Primary requirement
-    * 50% Want to be buried in a VA cemetery and have taken steps to plan their burial (i.e. have utilized burial benefits for themselves)
-    * 50% Want to be buried in a VA cemetery or are undecided, but have not done any preparation (and ideally are not aware of the pre-need burial benefit)
-* Initially, there will be no participants using assistive technologies. We will test with these users in a later phase if we conduct usability testing.
-
-Primary criteria:
+**Primary criteria (must-haves):**
 
 * Veterans who wish to be buried in a VA National Cemetery or are undecided about their wishes
 * 50/50 those who have taken steps to prepare for their own funeral/burial, and those who have not
 * Ability to participate via their smartphone
+
+No assistive technology participants requested. We will test with these users in a later phase if we conduct usability testing.
+
+
+**Screener questions**
+
+Note included as an introduction:
+This research will explore topics related to death and burials. Discussions may include past experiences or considering future plans that you might not have thought about before. Please participate only if you feel comfortable engaging with these sensitive topics.
+
+1. Do you plan on being buried in a VA National Cemetery?
+    1. Yes, I wish to be buried in a VA National Cemetery
+    2. No, I have no interest in being buried in a VA National Cemetery
+    3. I am undecided regarding being buried in a VA cemetery
+
+	_[Answering Yes to (i) or (iii) would qualify; answering Yes to (ii) would disqualify]_
+
+
+
+2. Have you taken steps to share your funeral or burial wishes with others?
+    1. Yes, I have taken steps to make my funeral or burial wishes known to those close to me
+    2. No, I have not done any planning for my own funeral or burial wishes
+
+	_[50% of participants choose (i), 50% choose (ii)]_
+
+
+3. Has a medical professional ever diagnosed you with a cognitive disorder? Some examples include PTSD, Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, Traumatic brain injury. We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+    1. Yes
+    2. No
+    3. Decline to answer
+
+4. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+    1. Yes
+    2. No
+    3. Decline to answer
+
+5. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
+    1. Yes
+    2. No
+
+	_[Answering Yes to (i) would qualify; answering Yes to (ii) would disqualify]_
+
+[Go to recruitment request ticket](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/2?filterQuery=emily&pane=issue&itemId=98626946&issue=department-of-veterans-affairs%7Cva.gov-research-repository%7C813)
 
 We talked to **13 participants**.
 
@@ -429,21 +474,19 @@ Race:
 Disability and Assistive Technology (AT):
 
 * Cognitive: 9
-* No assistive technology participants requested; one user used magnification
+* No assistive technology participants requested; two users used magnification/zoom
 
 
 ## Underserved groups we haven’t talked to
 
-This research does not include the perspectives of the following marginalized Veteran groups: 
+**Underserved categories not captured in recruitment survey** 
 
 * Other than an honorable discharge
 * Immigrant origin
 * Expat (living abroad)
 * Transgender, Nonbinary, gender fluid, genderqueer, Two-Spirit (Indigenous only), or another gender beyond man or woman
-* Specific AT
-    * Captions
-    * Switch Device
-    * Braille Reader
+* AT users
+
 
 [Screenshot of VA recruitment checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/research/supporting-files/VA-Recruitment-Checker.png)
 
