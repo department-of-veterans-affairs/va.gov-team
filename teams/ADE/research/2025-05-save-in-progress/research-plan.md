@@ -65,7 +65,7 @@ In addition, user feedback collected on "finish this request later", error messa
 
 1. With the new design, Veterans are confident that their form data will be saved.
 
-1. With the new design, Veterans will know how to resume filling out a form that they previously started filling out.
+1. With the new design, Veterans will know how to resume filling out a form that they started previously.
 
 1. When Veterans encounter error messages while filling out online forms, they are able to resolve the errors.
 
@@ -95,12 +95,9 @@ This is remote research over Zoom.
 ## Recruitment 🎯	
 
 ### Recruitment approach
-We would like Perigean to recruit both AT users and non-AT users who are Veterans, caregivers, and family members.
+We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 
 ### Recruitment criteria
-
-> [!NOTE]
-> - **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
 
 **List the total number and type (Veterans, caregivers, etc.) of participants for this study:**
 
@@ -117,9 +114,9 @@ We would like Perigean to recruit both AT users and non-AT users who are Veteran
 - `6 must NOT use a screen reader or screen magnifier`
 - `At least 5 have a computer and are willing to use it for the session`
 - `At least 5 have a smartphone and are willing to use it for the session`
-- `At least 4 people have a cognitive disability (e.g., TBI)` 
-- `At least 4 people who have filled out a VA form online before`
-- `At least 4 people who have NOT filled out a VA form online before`
+- `At least 4 have a cognitive disability (e.g., TBI)` 
+- `At least 4 who have filled out a VA form online before`
+- `At least 4 who have NOT filled out a VA form online before`
 - `ALL `
   - `Have Zoom downloaded to their device prior to the session and know how to share their screen` 
   - `Are willing to share over Zoom a web browser window` 
@@ -128,11 +125,11 @@ We would like Perigean to recruit both AT users and non-AT users who are Veteran
 #### Secondary criteria (nice-to-haves) in *decreasing* order of priority
 *What criteria would strengthen your results?* 
 
-- `At least 4 people are age 55 or older`
+- `At least 4 are age 55 or older`
 - `At least 2 women`
-- `At least 2 people don't have any degree or vocational training after high school` 
-- `At least 2 people 35 or under`
-- `At least 2 people live in a rural or remote area` 
+- `At least 2 don't have any degree or vocational training after high school` 
+- `At least 2 are 35 or under`
+- `At least 2 live in a rural or remote area` 
 - `At least 3 people of color` (anything other than White or Caucasian)
 
 #### Screening Questions
