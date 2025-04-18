@@ -22,7 +22,7 @@ Testing this feature in production using static links on a limited number of top
 
 ### Designs
 
-Designs are ready for review in [Figma](https://www.figma.com/design/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Phase-II-exploration?node-id=690-205858&t=kbttHIbiRuLRt65v-4). We have requested a content review from VA.gov centralized content team ([#107821](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107821)).
+Designs are ready for review in [Figma](https://www.figma.com/design/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Phase-II-exploration?node-id=690-205858&t=kbttHIbiRuLRt65v-4). We have requested a content review from VA.gov centralized content team ([#107821](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107821)). After the content review, we expect these designs to be ready for development.
 
 ## Outcomes
 
