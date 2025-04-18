@@ -47,10 +47,11 @@
 
 ### Key Performance Indicators (KPIs)
 
-Data source - Google Analytics - EZ Dashboard (NEW widget/event)
-Objective: Veterans will find that they want to print and/or save their completed application for future reference
-OKR #1: At least 25% of submissions will show the Veteran selecting to print/save their completed form
-OKR #2: There will be zero errors experienced when Veterans select to print/save their completed form
+- Data source
+     - [Datadog action tracking](https://vagov.ddog-gov.com/notebook/12606?cell_id=b043htjf&tpl_var_action.name=%2A)
+#### Objective: Veterans will find that they want to print and/or save their completed application for future reference
+- Result #1: At least 25% of submissions will show the Veteran selecting to print/save their completed form
+- Result #2: There will be zero errors experienced when Veterans select to print/save their completed form
 
 
 | Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
