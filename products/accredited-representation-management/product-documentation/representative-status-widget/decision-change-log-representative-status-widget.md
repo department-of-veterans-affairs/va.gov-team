@@ -18,5 +18,7 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _Confirmed by Product Manager Lindsay Li-Smith ([Slack message](https://dsva.slack.com/archives/C909ZG2BB/p1727283149165399))._
 - **3/6/2025**: Decided a standard alert + button is acceptable for the unauthenticated state.\
   _Confirmed by Product Manager, Lindsay Li-Smith ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1741295898142749?thread_ts=1741290617.091169&cid=C05L6HSJLHM))._
-- **3/28/2025**: Implemented the frontend helper and Pundit gem, to determine a user's rep status eligibility up front and reduce the 500 and 422 errors we get back from Lighthouse.
+- **3/26/2025**: Implemented the frontend helper and Pundit gem, to determine a user's representative status eligibility up front and reduce the 500 and 422 errors we get back from Lighthouse.
   _Implemented in this ([Github issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85092))._
+- **4/11/2025**: Additional checks for ICN and Participant ID (PID) were added to the frontend helper, to determine a user's representative status eligibility up front and reduce the 500 and 422 errors we get back from Lighthouse.
+  _Implemented in this ([Github issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106509))._
