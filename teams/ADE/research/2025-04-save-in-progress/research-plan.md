@@ -207,32 +207,41 @@ We would like Perigean to recruit both AT users and non-AT users who are Veteran
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
-
-- `[May 1, Thu, 9 AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
+- `May 1, Thu, 12 - 1 or 1:30 PM ET`
+- `May 1, Thu, 2 - 3 or 3:30 PM ET`
+- `May 1, Thu, 5 - 6 or 6:30 PM ET`
+- `May 1, Thu, 7 - 8 or 8:30 PM ET`
+- `May 2, Fri, 12 - 1 or 1:30 PM ET`
+- `May 2, Fri, 2 - 3 or 3:30 PM ET`
+- `May 2, Fri, 5 - 6 or 6:30 PM ET`
+- `May 2, Fri, 7 - 8 or 8:30 PM ET`
+- `May 5, Mon, 12 - 1 or 1:30 PM ET`
+- `May 5, Mon, 2 - 3 or 3:30 PM ET`
+- `May 5, Mon, 5 - 6 or 6:30 PM ET`
+- `May 5, Mon, 7 - 8 or 8:30 PM ET`
+- `May 6, Tue, 12 - 1 or 1:30 PM ET`
+- `May 6, Tue, 2 - 3 or 3:30 PM ET`
+- `May 6, Tue, 5 - 6 or 6:30 PM ET`
+- `May 6, Tue, 7 - 8 or 8:30 PM ET`
+- `May 7, Wed, 12 - 1 or 1:30 PM ET`
+- `May 7, Wed, 2 - 3 or 3:30 PM ET`
+- `May 7, Wed, 5 - 6 or 6:30 PM ET`
+- `May 7, Wed, 7 - 8 or 8:30 PM ET`
+- `May 8, Thu, 12 - 1 or 1:30 PM ET`
+- `May 8, Thu, 2 - 3 or 3:30 PM ET`
+- `May 8, Thu, 5:30 - 6:30 or 7 PM ET`
+- `May 9, Fri, 3:30 - 4:30 or 5 PM ET`
+- `May 9, Fri, 5:30 - 6:30 or 7 PM ET`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
-> [!NOTE]
-> **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
->
-> **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
-
 - `Moderator:` **Cindy Merrill**	
-- `Research guide writing and task development (usually but not always same as moderator):` **Cindy Merrill**		
+- `Research guide writing and task development:` **Cindy Merrill**		
 - `Participant recruiting & screening:`	**Perigean**	
 - `Project point of contact:` **Cindy Merrill**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
-- `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **ADE Team**	
+- `Note-takers:` **Perigean**	
+- `Observers:`
 
 - **[Enter full name]**
 - **[Enter full name]**
