@@ -254,5 +254,6 @@ module.exports  = {
   getProjectField,
   getItemIdWithRetry,
   getItemId,
+  getItemId2,
   updateIssue
 }
