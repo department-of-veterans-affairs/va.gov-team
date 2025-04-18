@@ -173,6 +173,37 @@ async function getItemId(projectId, title) {
   }
 }
 
+async function getItemId2(owner, projectNumber, title) {
+  const query = `
+  query FindItemIdViaSearch($searchQuery: String!) {
+    search(query: $searchQuery, type: ISSUE, first:1) {
+      nodes {
+        ... on Issue {
+          id 
+          number
+          title
+        }
+      }
+    }
+  }`;
+  const searchQuery = `"is:issue project:\"${owner}/${projectNumber}\" in:title \"${title}" sort:created-desc`;
+  try {
+    const { data } = await axiosInstance.post('',
+      {
+        query,
+        variables: {
+          searchQuery
+        }
+      }
+    );
+    [{ id }] = data.data.search.nodes;
+    return id;
+  } catch {
+    return null;
+  }
+  
+}
+
 //update a field value
 async function updateIssue(projectId, itemId, fieldId, optionId, iterationField=false) {
   const mutation = `
@@ -212,5 +243,6 @@ module.exports  = {
   getProjectId2,
   getProjectField,
   getItemId,
+  getItemId2,
   updateIssue
 }
