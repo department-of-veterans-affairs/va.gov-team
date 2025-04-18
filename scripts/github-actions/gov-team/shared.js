@@ -197,6 +197,12 @@ async function getItemId2(owner, projectNumber, title) {
         }
       }
     );
+    if (data.errors && data.errors.length > 0) {
+      data.errors.forEach(error => {
+        console.log(error);
+      });
+      return null;
+    }
     [{ id }] = data.data.search.nodes;
     return id;
   } catch {
@@ -210,6 +216,7 @@ async function getItemIdWithRetry(owner, projectNumber, title) {
     if (id !== null) {
       return id;
     }
+    console.log('sleeping, iteration', i);
     sleep(20 * 1000 + i * 10 * 1000);
   }
   return null;
