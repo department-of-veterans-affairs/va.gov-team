@@ -138,26 +138,34 @@ We would like Perigean to recruit both AT users and non-AT users who are Veteran
 #### Screening Questions
 
 1. Do you use a screen reader or screen magnifier **every time** you use the Internet? We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
+
     1. No *(jump to question 5)*
     2. Yes *(ask next question)*
 
-1. Are you willing to join the Zoom session using your screen reader or screen magnifier? 
+1. Are you willing to join the Zoom session using your screen reader or screen magnifier?
+
     1. No *(DISQUALIFY)* 
     1. Yes *(ask next question)*  
 
 1. How long have you been using this screen reader or screen magnifier? 
+
     1. Less than 2 years *(DISQUALIFY)* 
     1. 2-5 years *(ask next question)*
     1. More than 5 years *(ask next question)* 
 
 1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say AND ask the rest of the questions)*
+
     - If they say something non-digital like "magnifying glass, *(DISQUALIFY)* 
-    - If they say "JAWS", "NVDA", "VoiceOver", "TalkBack", or "Narrator", *RECORD as screen reader user, RECRUIT 4 and ask next question*
-    - If they say "Magnifier", "Zoom", "Magnification", "Magnifier", or "ZoomText", *RECORD as screen magnifier user, RECRUIT 2 and ask next question*
-    - If they say "increase font size" or "zoom in the browser", *ask  what percentage they zoom to. If 200% or greater, RECRUIT 2 and ask next question*
+    - If they say "JAWS", "NVDA", "VoiceOver", "TalkBack", or "Narrator", *RECORD as **screen reader user**, RECRUIT 4 and ask next question*
+    - If they say "Magnifier", "Zoom", "Magnification", "Magnifier", or "ZoomText", *RECORD as **screen magnifier user**, RECRUIT 2 and ask next question*
+    - If they say "increase font size" or "zoom in the browser", ask  what percentage they zoom to. 
+      - If 200% or greater, *RECORD as **screen magnifier user**, RECRUIT 2, and ask next question*
     - *If unsure whether someone qualifies, please ask Cindy*
 
-1. For this meeting, you'll need a device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using? *(RECORD)*
+1. For this meeting, you'll need a device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using?
+*(RECORD)*
+
+
     1. Smartphone  *(RECRUIT 5 and ask next question)*
     1. Computer *(RECRUIT 5 and ask next question)*
     1. Tablet *(RECRUIT no more than 2, and ask next question)*
