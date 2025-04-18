@@ -51,34 +51,45 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+> [!NOTE]
+> List hypotheses or tasks for this research along with the conclusions you found if you conducted a usability test.
+> 
+> If applicable, list the success or task completion rate.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
+[**See an example**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
 
 _Hypothesis statement_
 
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+> [!TIP]
+> Place true or false statements in bold for easier scanability
+
+_(**"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**) Explain Why?_
 
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+> [!TIP]
+> The 5-10 top findings from your study should be listed here.
+> 
+> ***Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile.***
+> 
+> Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form".
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
+[**See an example**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-1. Finding one
+**1.** Finding one
 
-2. Finding two
+**2.** Finding two
 
-3. Finding three
+**3.** Finding three
 
-4. Finding four
+**4.** Finding four
 
-5. Finding five
+**5.** Finding five
 
-6. Finding six
+**6.** Finding six
 
-7. Finding seven
+**7.** Finding seven
 
 
 ## Details of Findings 
@@ -91,9 +102,6 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 **Finding 1**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
 
@@ -104,10 +112,6 @@ Brief description
 
 **Finding 2**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 Brief description
 
 > _Supporting data: Quote here_
@@ -117,9 +121,6 @@ Brief description
 
 **Finding 3**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
 
@@ -143,6 +144,25 @@ _Put together initial recommendations here based on your findings along with sup
     * _Supporting evidence_
 
 
+## Product User & Business Outcomes
+> [!NOTE] 
+> Refer back to your Product Outline. How does this research and its recommendations support your product's desired user and business outcomes?
+
+- **Desired User Outcome**
+  - This research supports our desired user outcome by....
+ 
+- **Deisred Business Outcome**
+  - This research supports our desired business outcome by....
+
+
+## Key Performance Indicators
+> [!NOTE]
+> Refer back to your Product Outline. How does this research support measurment of your product's KPIs?
+
+- **KPI 1**
+  -  This research supports measurement of this KPI by....
+
+
 ## Next Steps
 
 _Next steps here. Include owners if appropriate._
@@ -154,6 +174,7 @@ _If there are demographics that were not included in this study or you discovere
 
 
 ## Appendix
+[Product Outline](link here)
 
 [Research plan](link here)
 
