@@ -11,6 +11,9 @@ This folder contains documentation related our design strategy during Phase 2.
 |2025-03|[Design strategy: Recommend helpful links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-03%20Design%20strategy%3A%20Recommend%20helpful%20links%20in%20Phase%202.md)|Describes a new strategy to recommend helpful links while submitters fill out the form.|
 |2025-04|[Sign in rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-04%20Sign%20in%20rules.md)|Describes sign in rules, key issues and potential solutions.|
 |2025-04|[Status update](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2025-04%20Status%20update.md)|Provides a status update on design initiatives January through May 2025.|
+|2025-04|[Helpful link release proposal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Phase%202/2024-04%20Helpful%20link%20release%20proposal.md)|Proposes releasing a new helpful link feature on Ask VA for specific topics.|
+
+
 
 ## Questions?
 
