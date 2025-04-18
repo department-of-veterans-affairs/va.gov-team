@@ -3,8 +3,6 @@
 ## Outcome Summary  
 The **Marital Status pattern** will help Veterans clearly understand what marital status information VA needs, why it's needed, and how it affects their benefits and claims. This reusable design pattern will improve consistency across VA forms and ensure a supported, accessible, and clear experience when updating or confirming marital status.
 
----
-
 ## Problem Statement  
 Veterans are often asked for marital status during benefits applications, dependency claims, and other workflows. However, the way this question is presented is inconsistent and confusing across forms. Key issues include:
 - Lack of clarity about why the information is needed or how it’s used
@@ -14,23 +12,17 @@ Veterans are often asked for marital status during benefits applications, depend
 
 These issues lead to form abandonment, data errors, and increased support inquiries from Veterans.
 
----
-
 ## Desired User Outcomes  
 - **Clarity and Confidence**: Veterans understand why they’re being asked for this information and how it affects their benefits.
 - **Reduced Errors**: Improved design and content decrease the likelihood of form submission mistakes.
 - **Equity and Inclusion**: Pattern reflects diverse relationship types and family structures.
 - **Ease of Use**: Veterans can easily complete this section with clear, actionable guidance.
 
----
-
 ## Desired Business Outcomes  
 - **Reduced Support Burden**: Fewer calls or support requests related to marital status questions.
 - **Improved Data Quality**: More accurate and complete information submitted on forms.
 - **Streamlined Development**: Designers and developers have a reusable resource for implementing this question.
 - **Policy Alignment**: Supports consistent application of VA eligibility rules and data requirements.
-
----
 
 ## Discovery  
 Our discovery phase will include:
@@ -39,15 +31,11 @@ Our discovery phase will include:
 - Gathering input from VFF, VBA, and policy stakeholders
 - Surfacing usability issues from Veteran feedback and support channels
 
----
-
 ## Assumptions and Risks  
 - **Policy Constraints**: Legal or policy language may limit how options are worded or presented.
 - **Technical Limitations**: Some backend systems may not support more flexible or inclusive data models.
 - **Inconsistent Use Cases**: Not all teams may implement the pattern consistently without strong governance.
 - **Varying Expectations**: Different teams may have conflicting views on the amount of instruction or documentation to include.
-
----
 
 ## Alignment with OCTO 2025 OKRs  
 
@@ -65,8 +53,6 @@ Our discovery phase will include:
 ### O4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.
 - **O4.1:** Adds a reusable pattern that improves delivery practices across forms.
 - **O4.3:** Enables teams delivering dependency or eligibility workflows to build with greater confidence and speed.
-
----
 
 ## What We’re Building  
 
@@ -86,8 +72,6 @@ Our discovery phase will include:
 - Full redesign of existing forms unless partnered with owning teams
 - Building upload functionality or redesigning the documentation process
 - Conducting validation research (product teams will validate pattern usage when they adopt it)
-
----
 
 ## Measuring Success  
 
