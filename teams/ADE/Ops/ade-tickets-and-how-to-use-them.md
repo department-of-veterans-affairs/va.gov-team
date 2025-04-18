@@ -33,9 +33,9 @@ This document details how to create, update, and close an ADE ticket, ensuring a
 | **Repository**                   |     A place where a project’s files, version history, and resources live. ADE operates in the VA.gov-team repository.| 
 | **Pipeline**                   |     **A pipeline is a collection, or series of workflows, that defines the status of work being done at a given point in the workflow process.** <li>The ADE Pipeline consists of distinct stages that help define the status of work, while it is with our team. <li>The starting point for our pipeline is `New Intakes` and the end point is `Closed`.  |
 | **Refinement**                   |     The process of reviewing and assessing tickets in various stages of the ADE pipeline (New Intakes , Backlog, Blocked, Icebox, etc.) in an effort to progress them through the pipeline to a `Closed` status. | 
-| **Ticket Status** | Dictates the swim lanes for the pipeline. <li>Review the [ticket statuses used by ADE](##Ticket-Status) | 
+| **Ticket Status** | Dictates the swim lanes for the pipeline. <li>Review the [ticket statuses used by ADE](#Ticket-Status) | 
 | **Swim Lanes** | The grouping of a similar ticket status for pipeline management. | 
-| **Templates** |  Templates have been created for VFS Teams and internal ADE use to organize our work.<li>Refer to [Work Ticket Templates](##Work-Ticket-Templates) for more information | 
+| **Templates** |  Templates have been created for VFS Teams and internal ADE use to organize our work.<li>Refer to [Work Ticket Templates](#Work-Ticket-Templates) for more information | 
 
 
 ### Workflow Terms  
