@@ -53,7 +53,7 @@ This document details how to create, update, and close an ADE ticket, ensuring a
 | **Supporting Artifacts**                   | Tickets also request supporting artifacts. ADE needs teams to include artifacts like product outlines, user flows, mockups and prototypes with links to screens/boards/sections to look at, in addition to user accounts for the scenarios provided to test. |
 | **Titles**                   | **The title section will always begin with the following naming convention: `[ADE xyz]`.** <li>This is used to distinguish the ticket type, followed by the team name, product and the service being provided. <li>It is good to keep the title brief (if possible) and include the name of the tool/product for easier scanning. <li>Consistency is also helpful. <li>Refer to the[ Work Ticket Template section](#Work-Ticket-Templates), for suggested naming conventions.|
 | **Labels**                   | Sometimes refered to as tags. These allow for ADE to 'tag' which discipline needs to be involved with the work. [Current source of truth for labels relating to ADE](https://github.com/department-of-veterans-affairs/va.gov-team/labels?page=1&q=ADE) <li>Refer to the [Labels section](#Labels), for more information.|
-| **Fields** | GHP Data that is important for filtering and tracking issues within the ADE pipeline. <li>Refer to the [Custom Ticket Fields section](##Custom-Ticket-Fields) for more information. | 
+| **Fields** | GHP Data that is important for filtering and tracking issues within the ADE pipeline. <li>Refer to the [Custom Ticket Fields section](#Custom-Ticket-Fields) for more information. | 
 
 
 
