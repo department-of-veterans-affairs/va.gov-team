@@ -36,12 +36,12 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - Result #1: At least 25% of submissions will show the Veteran selecting to print/save their completed form
-  - Result #2: There will be zero errors experienced when Veterans select to print/save their completed form
-- Links to the dashboard(s) showing "success criteria" metrics: **TBD**
+- Desired date range: 4/29/2025 - 5/2/2025
+- How will you make the product available in production while limiting the number of users who can find/access it: We will use the feature toggle to limit the exposure to a percentage of users
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
+  - Successful link access and actions (printing/saving)
+  - Error rates above zero
+- Links to the dashboard(s) showing "success criteria" metrics: [Datadog action tracking](https://vagov.ddog-gov.com/notebook/12606?cell_id=b043htjf&tpl_var_action.name=%2A)
 - Who is monitoring the dashboard(s)?: Heather Justice - PM, Brandon Cooper - Engineer, Luis Simauchi - Data Analyst
 
 ### Stage A: Canary
@@ -51,8 +51,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
+- Length of time: 4/29/2025 - 1 day
+- Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 1k users)
 
 #### Results
 
@@ -66,8 +66,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 50%
+- Length of time: 4/30/2025-5/1/2025 - 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 2k users)
 
 #### Results
 
@@ -84,8 +84,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
+- Length of time: 5/1/2025
+- Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 4k users)
 
 #### Results
 
