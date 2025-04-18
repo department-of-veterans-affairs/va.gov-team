@@ -38,21 +38,21 @@ In addition, user feedback collected on "finish this request later", error messa
 
 ### Research questions
 
-**Research goal: Learn about Veterans' expectations for saving information while filling out an online form before submitting it.**
+**Research goal 1: Learn about Veterans' expectations for saving information while filling out an online form before submitting it.**
 1. What experiences have Veterans had around saving while filling out VA forms?
 1. What expectations do Veterans have about whether information will be saved while filling out an online form?
      1. What do Veterans expect to happen to their form data if they stop in the middle of filling out a form?
      1. What do Veterans expect to happen to their form data if they close the form page?
      1. How do Veterans expect to resume working on a form that they previously started filling out?
 
-**Research goal: Get user feedback on design revisions for "save in progress" and "finish this request later" that reduce redundant messaging around saving.**
+**Research goal 2: Get user feedback on design revisions for "save in progress" and "finish this request later" that reduce redundant messaging around saving.**
 
 3. Do Veterans think that their form data is being saved? If so, how do they know?
 1. Are Veterans able to stop working on a form and return to it later? If so, how do they do it?
 1. Do Veterans notice the alert about saving on the form intro page?
 1. Do Veterans notice the text about saving on the first page of the form (below the progress stepper)?
 
-**Research goal: Get user feedback on error messages and the progress bar while filling out online forms.**
+**Research goal 3: Get user feedback on error messages and the progress bar while filling out online forms.**
 
 7. What reactions do Veterans have to error messages? 
      1. Do they know what the errors mean, and how to resolve them?
