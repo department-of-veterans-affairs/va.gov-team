@@ -31,7 +31,7 @@ Veterans and others (caregivers, family members, survivors, and service members)
   
 ### Outcome
 
-Findings and recommendations from this research will **inform guidance and documentation for the "save in progress" feature** that is present for authenticated users filling out forms on VA.gov. Matt Dingee asked ADE to help with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard pattern used by all teams.
+Findings and recommendations from this research will **inform guidance and documentation for the "save in progress" feature** for authenticated users filling out forms on VA.gov. Matt Dingee asked ADE to help with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard pattern used by all teams.
 
 In addition, user feedback collected on "finish this request later", error messages, and the progress bar will be helpful for accessibility specialists advising VFS teams.
 
@@ -47,19 +47,19 @@ In addition, user feedback collected on "finish this request later", error messa
 
 **Research goal: Get user feedback on design revisions for "save in progress" and "finish this request later" that reduce redundant messaging around saving.**
 
-1. Do Veterans think that their form data is being saved? If so, how do they know?
-1. Are Veterans able to stop working on a form and go back to it later? If so, how do they do it?
+3. Do Veterans think that their form data is being saved? If so, how do they know?
+1. Are Veterans able to stop working on a form and return to it later? If so, how do they do it?
 1. Do Veterans notice the alert about saving on the form intro page?
-1. Do Veterans notice the text about saving on the first page only of the form below the progress stepper>?
+1. Do Veterans notice the text about saving on the first page of the form (below the progress stepper)?
 
 **Research goal: Get user feedback on error messages and the progress bar while filling out online forms.**
 
-5. What reactions do Veterans have to error messages? 
-     1. Do they know what the error messages mean, and how to resolve them?
+7. What reactions do Veterans have to error messages? 
+     1. Do they know what the errors mean, and how to resolve them?
      1. How do they want to find out about errors?
 1. What reactions do Veterans have to the progress bar? Do they notice it?
 
-### Hypothesis
+### Hypotheses
 
 1. While filling out online forms, Veterans expect that their form data will be saved.
 
