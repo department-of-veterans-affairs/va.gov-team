@@ -5,7 +5,6 @@ const {
   getProjectId2,
   getProjectField,
   getItemIdWithRetry,
-  getItemId2,
   updateIssue,
 } = require("./shared");
 const { sleep } = require('./utils');
