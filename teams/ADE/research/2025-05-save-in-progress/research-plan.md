@@ -4,7 +4,7 @@
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
 	
-When VA.gov users are logged in (authenticated) and filling out a form, the "save in progress" alert flashes on and off with every field entered. Because the alert displays below the Back and Continue buttons, screen readers never announce it, which is an accessibility issue.
+When VA.gov users are logged in (authenticated) and filling out a form, the "save in progress" alert flashes on and off with every field entry or edit. Because this alert displays *below* the Back and Continue buttons, screen readers never announce it, which is an accessibility issue.
 
 We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal) for the design of new web forms. We have removed the "save in progress" alert, and redesigned the existing "Finish this request later" link that functions like a button. The currently existing text about saving will remain on the authenticated version of the form intro page and the first page of the form.
 
