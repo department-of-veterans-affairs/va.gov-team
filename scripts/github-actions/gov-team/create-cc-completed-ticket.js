@@ -4,6 +4,7 @@ const axiosRetry = require('axios-retry');
 const {
   getProjectId2,
   getProjectField,
+  getItemIdWithRetry,
   getItemId2,
   updateIssue,
 } = require("./shared");
@@ -335,7 +336,7 @@ async function main() {
 
     // update sprint and point fields in project board
     const projectId = await getProjectId2(owner, GOV_TEAM_PROJECT_BOARD_NUMBER);
-    const itemId = await getItemId2(owner, GOV_TEAM_PROJECT_BOARD_NUMBER, newTitle);
+    const itemId = await getItemIdWithRetry(owner, GOV_TEAM_PROJECT_BOARD_NUMBER, newTitle);
 
     // only update an item's fields if we have the item's id
     if (itemId) {

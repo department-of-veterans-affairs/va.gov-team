@@ -201,7 +201,17 @@ async function getItemId2(owner, projectNumber, title) {
   } catch {
     return null;
   }
-  
+}
+
+async function getItemIdWithRetry(owner, projectNumber, title) {
+  for (let i = 0; i < 10; i++) {
+    const id = await getItemId2(owner, projectNumber, title);
+    if (id !== null) {
+      return id;
+    }
+    sleep(20 * 1000 + i * 10 * 1000);
+  }
+  return null;
 }
 
 //update a field value
@@ -242,6 +252,7 @@ async function updateIssue(projectId, itemId, fieldId, optionId, iterationField=
 module.exports  = {
   getProjectId2,
   getProjectField,
+  getItemIdWithRetry,
   getItemId,
   getItemId2,
   updateIssue
