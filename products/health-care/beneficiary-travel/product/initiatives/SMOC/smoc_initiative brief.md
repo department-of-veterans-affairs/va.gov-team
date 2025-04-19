@@ -4,7 +4,7 @@
 The goal here is to enable simple, mileage-only claims (SMOC) on VA.gov. The current goal is for SMOC to exist on VA.gov with a low error rate.
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product-outline-btsss.md) 
 
 ## Problem
 * Over 70% of claims are mileage-only claims. To file these claims online, Veterans must be able to authenticate separately into the BTSSS portal. 
