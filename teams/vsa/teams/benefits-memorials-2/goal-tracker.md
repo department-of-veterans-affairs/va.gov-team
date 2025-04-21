@@ -73,15 +73,16 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 7 [4/23/25 - 5/6/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX:  | QP |--|--|--|
-|UX:  | QP |--|--|--|
-|UX:  | QP |--|--|--|
-|ENG: | QP |--|--|--|
-|ENG: | QP |--|--|--|
-|ENG: | QP |--|--|--|
+|UX: Wizard & Digital Dispute Usability Study is submitted for approval by Platform. | QP3 QP4 |--|--|--|
+|UX: Process of recruiting Veterans with Perigean for Wizard & Digital Dispute Usability Study begins. | QP3 QP4 |--|--|--|
+|UX: Begin discovery process to understand Pay.gov ask, business needs, and constraints. | QP6 |--|--|--|
+|ENG: Coordinate with DMC to meet to discuss zero silent failure email next steps. | QP1 |--|--|--|
+|ENG: Coordinate with Huron to meet to discuss zero silent failure email next steps. | QP1 |--|--|--|
+|ENG: Launch One VA Debt Letter into production | QP2 |--|--|--|
+|ENG: Launch Wizard into production | QP3 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [ ] Ready to be sent for approvals (04/XX/25)
+ - [X] Ready to be sent for approvals (04/XX/25)
  - [ ] VA PO & COR sent the Sprint Goals (04/XX/25)
  - [ ] VA PO approved the Sprint Goals (04/XX/25)
  - [ ] VA COR approved the Sprint Goals (04/XX/25)
