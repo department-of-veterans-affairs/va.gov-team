@@ -128,9 +128,9 @@ Assistive technology users rely on proper semantics to access web content. They 
       - **Is the purpose of this control to generate data for a file?**
         - Examples: Creating a PDF from a web page; Creating a PDF from data on the server
         - Yes
-          - _Make it a Button_
-        - No
           - _Make it a Link_
+        - No
+          - _Make it a Button_
 
 ### Further reading
 - [Links (pptx)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/ADE/presentations/Links.pptx)
