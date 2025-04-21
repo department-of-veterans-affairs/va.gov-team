@@ -57,7 +57,7 @@
 
 | Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |------------- |
-|Print/save application button |NEW | 25% of submissions |TBD |TBD |
+|Print/save application button |NEW | 4k monthly (25% of submissions) |TBD |TBD |
 |Errors when print/save|NEW | 0 errors |TBD |TBD |
 ---
 
