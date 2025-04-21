@@ -19,7 +19,7 @@ Objective 1:  VA’s digital experiences are the easiest and most efficient way 
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-Veterans and others (caregivers, family members, survivors, and service members) may use web forms on VA.gov throughout ALL stages of the Veteran Journey--Serving and separation, Living civilian life, and Retiring and aging.
+Veterans may use web forms on VA.gov throughout ALL stages of the Veteran Journey--Serving and separation, Living civilian life, and Retiring and aging.
 
 ## Research Goals 🥅	
 
@@ -101,8 +101,8 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 
 **List the total number and type (Veterans, caregivers, etc.) of participants for this study:**
 
-- `Veterans:` **[10]** 
-- `Caregivers:` **[2]**
+- `Veterans:` **[12]** 
+- `Caregivers:` **[0]**
 - `Dependents:` **[0]**
 - `Total:` **[12]**
 
@@ -161,7 +161,6 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 
 1. For this meeting, you'll need a device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using?
 *(RECORD)*
-
 
     1. Smartphone  *(RECRUIT 5 and ask next question)*
     1. Computer *(RECRUIT 5 and ask next question)*
