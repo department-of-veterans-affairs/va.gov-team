@@ -49,6 +49,7 @@
 
 - Data source
      - [Datadog action tracking](https://vagov.ddog-gov.com/notebook/12606?cell_id=b043htjf&tpl_var_action.name=%2A)
+     - [Datadog Service tracking](https://vagov.ddog-gov.com/apm/resource/healthcare-application/rack.request/fed2018843dbdd46?query=env%3Aeks-staging%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AHealthCareApplicationsController%23download_pdf%22%20service%3Ahealthcare-application&env=eks-prod&fromUser=false&start=1744641831958&end=1745246631958&paused=false)
 #### Objective: Veterans will find that they want to print and/or save their completed application for future reference
 - Result #1: At least 25% of submissions will show the Veteran selecting to print/save their completed form
 - Result #2: There will be zero errors experienced when Veterans select to print/save their completed form
@@ -93,65 +94,35 @@
 --- 
 
 ## Launch Planning
-### Collaboration Cycle
-
-- Collab Cycle ticket [ticket number]
-     - [ ] Design Intent 
-     - [ ] Content and IA
-     - [ ] Research
-     - [ ] Midpoint
-     - [ ] Contact Center guide
-     - [ ] Analytics
-     - [ ] Staging
-     - [ ] Privacy & Security
 
 ### Incident Response info
 - The 1010EZ form is currently in production; we are adding the ability to print and/or save (download) the application, with the Veteran's input, after submission is complete
 - This change applies to the full application flow, as well as the Short Form flow (less than 50% disability rating) ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
-- **NEW API/ENDPOINTS DETAILS**
 - We will use the following 1010EZ monitoring applications for any latency or errors being logged
      - [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
      - [Datadog Real User Monitoring dashboard](https://vagov.ddog-gov.com/rum/performance-monitoring?query=%40application.id%3A9d5155fd-8623-4bc9-8580-ad8ec2cdd7fa&from_ts=1687971959215&to_ts=1688058359215&live=true)
-     - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+     - [Datadog Service tracking](https://vagov.ddog-gov.com/apm/resource/healthcare-application/rack.request/fed2018843dbdd46?query=env%3Aeks-staging%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AHealthCareApplicationsController%23download_pdf%22%20service%3Ahealthcare-application&env=eks-prod&fromUser=false&start=1744641831958&end=1745246631958&paused=false)
 - If there are any errors or issues found as a result of this change, we will disable the code by switching off the feature toggle which will result in the change being reverted to its previous state prior to release.  We will then begin triaging the root cause and determining a solution.
      - Timeline for triage and solution implementation will be fast-tracked to complete within 1-3 days.
 - Main POCs:
      - Heather Justice (heather.justice@adhocteam.us) - Product Manager
-     - TBD - Engineering lead
+     - Brandon Cooper (brandon.cooper@adhocteam.us) - Engineering lead
      - Patrick Bateman (patrick.bateman@adhocteam.us) - Product Owner
 - 
 ### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Printable%20application%20data/Print_save%20PDF%20-%20Release%20Plan.md)
 
 ## Key deliverables
-
-- Design documentation
-   - [Proposed wireflows]
-   - [Sketch Design and User Flow]
-- [Research/Design folder]
-- [UXPin Prototype]
-- [Technical documentation folder]
-- How to access and test
-    - [Staging env](https://staging.va.gov/health-care/apply/application/introduction)
-    - [Testing documentation - TestRail]
-    - [test/use cases & users]
-    - [a11y test case documentation]
-- [Release plan]
-- [Production env](https://www.va.gov/health-care/apply/application/introduction)
+- [Figma Design and User Flow](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=8542-43880&p=f&t=7tGwC8uLqFhra4H1-0)
+- [Production env](https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)
 
 
 ### Key Dates
 
 - June 2023: Initial discovery
-- ???? 2023: Kickoff with outline & begin design
-- ???? 2023: Design work ready
-- ???? 2023: Usability testing kickoff
-- ???? 2023: Finalize designs, development
-- ???? 2023: Complete QA
-- ???? 2023: Complete UAT
-- ???? 2023: Launched to ???% of users
+- March 2025: Finalize designs, development
+- April 2025: Complete QA
+- April 21-25, 2025: Phased launch to 100% of users
 
 ---
    
@@ -176,7 +147,7 @@
 - Team Name: 10-10 Heath Apps Team
 - GitHub Label(s): ez-print-save
 - Slack channel: #1010-health-apps
-- Product POCs: Heather Justice, Alex Seelig, Emily Brown
+- Product POCs: Heather Justice, Alex Seelig
 
 </details>
 
