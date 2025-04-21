@@ -42,6 +42,14 @@ We've prototyped a potential integration MVP.
 
 If the user is signed in, we would not require their first and last name, so they would simply confirm their email address before sending their question to Ask VA.
 
+While the user completes these actions, the system will (at a high-level):
+
+- Determine the category, topic and subtopic (and therefore, routing queue) based on which chatbot skill is triggered.
+- Ask follow up questions to fill in required Ask VA fields, unless they can prefill them from VA Profile.
+- Send an Ask VA inquiry to Ask VA's CRM.
+- Create a new inquiry in CRM and generate an inquiry number.
+- Share an inquiry number back to the user.
+
 ### Key considerations
 
 When designing this example, we did not closely consider CRM integration or constraints. We also intentionally picked a scenario that is simpler: a general question that relates to an existing chatbot skill. And we have pre-determined the category, topic and subtopic in order to pre-determine and link a routing queue to a specific chatbot skill.
@@ -51,3 +59,4 @@ In the future, we need to consider things like:
 - How would this idea scale to different types of sign in questions? For example, if they need to go to a different routing queue?
 - How would this idea scale to different categories and/or business lines in Ask VA?
 - Is it possible to send PPI through chatbot without security concerns? Even if this is possible, how would users feel about doing so?
+- Is it important for a user to be able to review certain and/or any information before they submit their question to Ask VA?
