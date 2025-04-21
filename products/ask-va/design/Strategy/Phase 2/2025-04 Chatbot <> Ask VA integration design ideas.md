@@ -27,14 +27,26 @@ There are additional ways these tools could integrate and/or support seamless tr
 - Show which types of questions chatbot can answer immediately
 - Recommend chatbot for certain categories in Ask VA
 
-## Sign in question example
+## Potential MVP
 
-We've prototyped one example, which could potentially serve as an MVP for a integration between Ask VA and chatbot.
+We've prototyped a potential integration MVP.
 
-1. User opens VA chatbot while unauthenticated on VA.gov.
+> [!NOTE]
+> This [Figma file](https://www.figma.com/design/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Phase-II-exploration?node-id=763-6807) illustrates an authenticated and unauthenticated example.
+
+1. User opens VA chatbot on VA.gov.
 2. User asks a question about sign in issues.
 3. User learns that chatbot is unable to answer their question and is offered the option to send their question to a VA representative instead.
-4. User chooses to continue and, while remaining in the chatbot interface, answers a few follow-up questions before their question is submitted.
+4. User chooses to continue and (remaining in the chatbot interface) answers 1-3 follow-up questions before their question is submitted.
 5. User receive an Ask VA reference number through chatbot.
 
-If the user is authenticated, we would
+If the user is signed in, we would not require their first and last name, so they would simply confirm their email address before sending their question to Ask VA.
+
+### Key considerations
+
+When designing this example, we did not closely consider CRM integration or constraints. We also intentionally picked a scenario that is simpler: a general question that relates to an existing chatbot skill.
+
+In the future, we need to consider things like:
+- How would this idea scale to different types of sign in questions?
+- How would this idea scale to different categories and/or business lines in Ask VA?
+- Is it possible to send PPI through chatbot without security concerns? Even if this is possible, how would users feel about doing so?
