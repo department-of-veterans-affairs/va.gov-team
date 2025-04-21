@@ -8,7 +8,7 @@ This document describes how we plan to review Medallia feedback to improve Ask V
 
 We collect qualitative unmoderated feedback from submitters and staff who use Ask VA.
 
-These different types of feedbacka are often referred to as:
+These different types of feedback are often referred to as:
 
 - VSignals: Feedback from Veterans or other submitters who use Ask VA
 - ESignals: Feedback from staff who answer inquiries and support the delivery of Ask VA
