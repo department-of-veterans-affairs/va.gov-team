@@ -52,7 +52,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 4/22/2025 - 1 day
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 1k users)
+- Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 33 users per day)
 
 #### Results
 
@@ -67,7 +67,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 4/23/2025-4/24/2025 - 2 days
-- Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 2k users)
+- Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 67 users per day)
 
 #### Results
 
@@ -85,7 +85,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 4/25/2025
-- Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 4k users)
+- Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 133 users per day)
 
 #### Results
 
@@ -108,7 +108,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 | Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |------------- |
-|Print/save application button |NEW | 25% of submissions |TBD |TBD |
+|Print/save application button |NEW | 4k monthly (25% of submissions) |TBD |TBD |
 |Errors when print/save|NEW | 0 errors |TBD |TBD |
 
 - Number of unique users: [FILL_IN]
@@ -128,7 +128,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 | Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |------------- |
-|Print/save application button |NEW | 25% of submissions |TBD |TBD |
+|Print/save application button |NEW | 4k monthly (25% of submissions) |TBD |TBD |
 |Errors when print/save|NEW | 0 errors |TBD |TBD |
 
 - Number of unique users: [FILL_IN]
