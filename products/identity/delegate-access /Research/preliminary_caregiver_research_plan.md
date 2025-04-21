@@ -26,7 +26,7 @@ Learn about the process of how caregivers are able to complete various tasks and
 
 ### **Research questions**
   
-- Through what mechanisms does the caregiver undergo to complete actions on behalf of the Veteran?
+- Which methods does the caregiver utilize to complete actions on behalf of the Veteran?
   - Is the caregiver given digital access?
 - What functions do caregivers do on behalf of the Veteran most frequently?
 - How is a delegate currently authorized and designated as a caregiver?  What actions must the Veteran take?
