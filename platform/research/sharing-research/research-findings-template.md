@@ -17,6 +17,8 @@ _Once you've presented your research readout to your team, if you have a deck, i
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
 - [Key findings](#key-findings)
 - [Recommendations](#recommendations)
+- [Product User and Business Outcomes](#product-user-and-business-outcomes)
+- [Key Performance Indicators](#key-performance-indicators)
 - [Further research needed](#further-research-needed)
 - [Who we talked to](#who-we-talked-to)
 
@@ -68,9 +70,9 @@ _(**"Maybe True", “Likely True”, “Definitely True”, “Likely False”, 
 
 ## Key Findings
 
-> [!TIP]
-> The 5-10 top findings from your study should be listed here.
-> 
+`The 5-10 top findings from your study should be listed here.`
+
+> [!TIP] 
 > ***Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile.***
 > 
 > Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form".
@@ -94,10 +96,11 @@ _(**"Maybe True", “Likely True”, “Definitely True”, “Likely False”, 
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work. [Learn how to add labels](https://depo-platform-documentation.scrollhelp.site/research-design/adding-labels-in-the-research-repository) in Platform documentation._
+> [!NOTE]
+> For each finding, list details with supporting quotes and images when possible. 
 
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
+> [!TIP]
+> _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
 **Finding 1**
@@ -144,7 +147,7 @@ _Put together initial recommendations here based on your findings along with sup
     * _Supporting evidence_
 
 
-## Product User & Business Outcomes
+## Product User and Business Outcomes
 > [!NOTE] 
 > Refer back to your Product Outline. How does this research and its recommendations support your product's desired user and business outcomes?
 
