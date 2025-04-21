@@ -39,7 +39,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |ENG: Address the “must” accessibility feedback for the One VA Debt Letter | QP2 |--|04/07/2025|Completed|
 |ENG: Restart Digital Dispute work in preparation for Q3 priorities | QP3 |--|03/28/25|Completed|
 |ENG: Updates to FSR based off Veteran feedback such as Removal of $70K limit to retirement funds | QPX |--|03/28/25|Completed|
-|ENG: Continue Josh’s access to critical systems and onboarding tasks | QPX |--|--04/01/25|Completed|
+|ENG: Continue Josh’s access to critical systems and onboarding tasks | QPX |--|04/01/25|Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (03/24/25)
@@ -57,7 +57,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Refine templates for Zero Silent Failure (Emails 1 & 2)| QP1 |--|--|--|
 |UX: Create prototypes for Wizard & Digital Dispute Usability Study| QP3 QP4 |--|--|--|
 |UX: Complete the Research plan step 1 for Wizard & Digital Dispute (Write guides) | QP3 QP4 |--|--|--|
-|ENG: Complete dev work for One VA debt letter and collaborate with Platform on PR’s| QP2 |--|--|--|
+|ENG: Complete dev work for One VA debt letter and collaborate with Platform on PR’s| QP2 |--|04/21/25|Completed|
 |ENG: Complete the dev work for the Wizard new flow and be prepared for the release, pending CAIA Pages| QP3 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
