@@ -52,7 +52,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 4/22/2025 - 1 day
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 33 users per day)
+- Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 35 users per day)
 
 #### Results
 
@@ -67,7 +67,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 4/23/2025-4/24/2025 - 2 days
-- Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 67 users per day)
+- Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 70 users per day)
 
 #### Results
 
@@ -85,7 +85,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 4/25/2025
-- Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 133 users per day)
+- Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 140 users per day)
 
 #### Results
 
