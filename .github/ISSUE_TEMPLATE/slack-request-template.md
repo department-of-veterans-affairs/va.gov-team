@@ -3,11 +3,16 @@ name: Slack Request template
 about: To request adjustments in dsva.slack.com
 title: Adding [individual] to DSVA Slack
 labels: Slack Request
-assignees: KevinMHoffmanUSDS, LEHigley, lkoenigsberg
+assignees:
 
 ---
 
 # Description
+
+Administration of Slack has now transitioned to AES and is handled in JIRA. The link for the JIRA board is 
+[https://jira.devops.va.gov/servicedesk/customer/portal/1](https://jira.devops.va.gov/servicedesk/customer/portal/1)
+
+You should provide the information below in the request and you do not need to submit this ticket.  This template will remain active while documentation is being updated. 
 
 **new user requests**: please verify that the user does not already exist in dsva.slack.com (it may be the account exists, but is not in a particular channel)
 
