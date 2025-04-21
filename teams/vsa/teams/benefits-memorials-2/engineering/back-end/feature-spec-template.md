@@ -5,7 +5,9 @@
 ## 🧭 Overview
 Brief description of the feature, its purpose, and any relevant background context.
 
----
+
+## Acceptance Criteria
+Requirements, due dates, and any other relevant information for the feature. This should be a bulleted list of items that need to be completed before the feature can be considered done.
 
 ## Go Live Process
 1. Feature development
@@ -16,6 +18,8 @@ Brief description of the feature, its purpose, and any relevant background conte
    * [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/commit/0e27a4d5a95c4d96e30e4f9e4e3c41ef43262606)
    * [Test artifacts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/commit/cc6647dc004af407ba8a9b6f8849ac1897d023e6)
    * TODO:
+
+---
 
 ## ⚙️ Backend Requirements
 
