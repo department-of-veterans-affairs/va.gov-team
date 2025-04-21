@@ -42,7 +42,7 @@ We've prototyped a potential integration MVP.
 
 If the user is signed in, we would pull their first and last name from VA Profile. So, they'd simply confirm their email address before sending their question to Ask VA.
 
-While the user completes these actions, the system will (at a high-level):
+While the user completes these actions, the system(s) will (at a high-level):
 
 - Determine the category, topic and subtopic (and therefore, routing queue) based on which chatbot skill is triggered.
 - Ask follow up questions to fill in required Ask VA fields, unless they can prefill them from VA Profile.
