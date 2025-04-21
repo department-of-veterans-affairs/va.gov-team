@@ -1,5 +1,68 @@
 # Running Design and Research Agenda
 
+## April 21 2025
+Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Amanda Klausmeier, Renata Keck, Rachel Pope, Andrea Merril, Mike Mooney
+
+### Agenda Topics
+* UX Roadmap
+* Medicare and Health insurance List and Loop flow/Figma
+* Supporting doc inventory
+* Spanish translation for CHAMPVA forms
+* View/edit iteration for direct deposit in FMP Claims
+* Usability Research For 1010D/OHI merge
+
+### Notes
+**Roadmap**
+* Amanda mentioned Martha opened an accessibility ticket for the OHI merge
+    * This came out of the PO sync
+    * Some of the people on the call were added to the ticket as assignees
+    * May be able to do an asynchronous review
+    * **AI:** Renata will research what the process should be so that it’s factored into the work/timeline
+
+**Medicare flow**
+* Jamie reviewed the medicare logic/flow in Mural and Figma
+* Premal commented that the Medicare card upload shouldn’t be required
+    * Extra burden on the user to find the card
+    * Renata shared info about user expectations. It’s standard to request cards for healthcare or changing/adding insurance
+        * May decrease trust if we’re not asking for the information
+        * We can ask for permission to look this information up or maybe shift the card collection to the first appointment so they don’t have to upload now
+        * Premal thinks private insurance is standard, but not Medicare
+    * This is not the highest drop off point on the form
+    * We will focus on higher friction areas first
+* Note that the flow has been changed for Part C as part of this re-flow so that it makes more sense logically
+
+**Supporting docs inventory**
+* Currently in a Google sheet. Will be put in a GitHub for everyone to access
+* Premal asked about veterans being able to submit some of these documents (like marriage license or birth certificate) via quick submit to get them into VBMS
+    * **AI:** Jina will look into this
+* If VHA has the information, will it also be in VBMS for lookup?
+    * Need to confirm with stakeholders
+    * **AI:** Jamie to send an email or add to next agenda
+* In chat, Renata mentioned the Medallia data showed that users wanted to see what info the VA had already
+    * Premal would like this to be looked into in the future - what information we can pull in and display
+
+**Spanish translations**
+* This was something Angela asked for
+* Per Jina, there is an interagency agreements with the State Department for them to provide translation. The content team would coordinate with them.
+* Premal asked about other forms in Spanish
+    * No other forms
+    * There is a translation in the check-in flow
+* Andrea commented that the auto-translate feature works fairly well to translate the form
+    * Angela’s question was more about how the contact center can communicate to users how to use auto-translate
+* Premal says translation should be done as part of a platform-wide initiative, not for one specific form
+
+**Direct deposit view/edit**
+* Rachel asked about an empty state where no direct deposit information is on file - what should be displayed?
+    * Jina provided link to Mural that shows how other teams have handles the empty state
+* Renata shared that research showed users expected this would be pushed to the VA profile if they make the edit in a form
+    * We need to tell them it will be updated
+    * Jina shared an example of an alert
+* Premal commented that he would prefer to have the updates made in the VA profile rather than on individual forms, but will go with what the research has shown
+* **AI:** Rachel will add the alert and empty state pages to the Figma
+
+**Other items**
+* Jina’s last day will be 4/28 :(
+
 ## April 14 2025
 Attendees: Jamie Fiore, Jina Ryu, Amanda Klausmeier, Renata Keck, Andrea Merril, Mike Mooney
 
