@@ -44,9 +44,10 @@ If the user is signed in, we would not require their first and last name, so the
 
 ### Key considerations
 
-When designing this example, we did not closely consider CRM integration or constraints. We also intentionally picked a scenario that is simpler: a general question that relates to an existing chatbot skill.
+When designing this example, we did not closely consider CRM integration or constraints. We also intentionally picked a scenario that is simpler: a general question that relates to an existing chatbot skill. And we have pre-determined the category, topic and subtopic in order to pre-determine and link a routing queue to a specific chatbot skill.
 
 In the future, we need to consider things like:
-- How would this idea scale to different types of sign in questions?
+- How does the sign in chatbot skill need to evolve in order to support this MVP?
+- How would this idea scale to different types of sign in questions? For example, if they need to go to a different routing queue?
 - How would this idea scale to different categories and/or business lines in Ask VA?
 - Is it possible to send PPI through chatbot without security concerns? Even if this is possible, how would users feel about doing so?
