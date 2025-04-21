@@ -152,4 +152,3 @@
 | 150 | [What to do if you haven’t switched to Login.gov or ID.me yet](https://www.va.gov/resources/what-to-do-if-you-havent-switched-to-logingov-or-idme-yet/) | Health care | 3/6/25 |
 | 151 | [Is my type 2 diabetes a presumptive condition?](https://www.va.gov/resources/is-my-type-2-diabetes-a-presumptive-condition/) | Disability | 4/15/25 |
 | 152 | [What benefits can I get if I have an other than honorable discharge?](https://www.va.gov/resources/what-benefits-can-i-get-if-i-have-an-other-than-honorable-discharge/) | Health care | 4/16/25 |
-| 153 | [What benefits can I get if I have an other than honorable discharge?](https://www.va.gov/resources/what-benefits-can-i-get-if-i-have-an-other-than-honorable-discharge/) | Health care | 4/16/25 |
