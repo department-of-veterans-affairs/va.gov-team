@@ -29,7 +29,20 @@ The `/keepalive` endpoint itself is a `HEAD` request with no response body. All 
 | `va_eauth_csid` | This is mapped to track which credentials service provider is used for auto-logins (Login.gov, ID.me, and DS Logon) |
 | `va_eauth_csp_method` | This is used to determine which AuthnContextClassRef is to be used with dependents credential service provider. LOA for ID.me and DS Logon. IAL for Login.gov |
 
-## Things to note
+## User flow
+```mermaid
+flowchart TD
+    A[User lands on VA.gov]
+    A -->|HEAD /keepalive request| B{User has an SSOe session?}
+    B -->|Yes| C[Validate request *Headers* and generate inbound SSO requirements]
+    B -->|No| D[Has VA.gov session?]
+    C -->|Create new session request to *api.va.gov*| E[Auto-login to VA.gov]
+    D -->|Yes| F[Is SSOe session expired?]
+    D -->|No| G[User is in expected logged out state]
+    F -->|Yes| I[Perform auto-logout]
+```
+
+## Other things to note
 - Sending an authenticated request to `eauth.va.gov/keepalive` occurs for every authenticated request to an API endpoint `api.va.gov`
   - This automatically renews the session for 15 minutes (2x 15 minute session (IAM) = 30 minute VA API session)
 - Caveats with local development
