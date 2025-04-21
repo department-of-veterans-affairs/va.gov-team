@@ -82,8 +82,9 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 ### Initiatives
 
 - MVP - Status of a Claim: The Travel Pay Status Page, [now viewable](https://staging.va.gov/my-health/travel-pay/claims) to 100% of Veterans
-- Travel Pay Status Page: Simple, Mileage-Only Claims (SMOC) - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/SMOC/smoc_initiative%20brief.md)
-- 
+- Simple, Mileage-Only Claims (SMOC) on VA.gov - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/SMOC/smoc_initiative%20brief.md)
+- Claim Details v2 (Appealing a denied claim) - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/claim_details_v2/claim_details_v2_initiative_brief.md)
+- Complex Claims - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/claim_details_v2/claim_details_v2_initiative_brief.md)
 
 --- 
 
@@ -104,8 +105,7 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 - *Actual Launch Date* 
   - April 2025
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - JUne , 2025
-
+  - June 2025
 
 ---
 
