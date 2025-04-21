@@ -101,7 +101,7 @@ Assistive technology users rely on proper semantics to access web content. They 
 
 ### Implementation notes
 
-![Button or link flow chart](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/ADE/button-or-link.png)
+![Button or link flow chart](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/ADE/bin/button-or-link.png)
 
 #### Should this be a button or link?
 
