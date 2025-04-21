@@ -184,3 +184,36 @@ Does this question serve the goals of my study?
 7.  How understandable is the information on the “Options to request help with VA debt” R&S page? ?
     
 8.  For the corresponding links (appeals), how clear and understandable is the content? *
+
+
+
+## Hypothesis
+
+Note: Remember to constrain the hypothesis to the goals of your study!
+
+What do you intend to learn and measure from this study?
+What do you already know about this problem space?
+What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
+Write a generalized statement that combines what you know + what you think will happen during the study.
+
+----------
+
+**We hypothesize that:**
+
+***[In progress]***
+  
+
+----------
+
+## Methodology 🛠️
+
+### Usability study
+
+***Primary focus:*** on navigation, wayfinding, mental models
+
+***Secondary focus:*** comprehension and mental models
+
+### Location
+
+
+-   Remote only
