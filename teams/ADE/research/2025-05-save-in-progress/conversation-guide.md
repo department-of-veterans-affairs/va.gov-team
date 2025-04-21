@@ -34,42 +34,45 @@ CHECK SLACK for real-time feedback and questions from observers
 
 # Intro - 5 minutes
 
-Thanks for joining us today! My name is **Cindy** and **[NOTETAKER NAME]** is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
+Thanks for joining us today! My name is **Cindy**. How are you doing today?
 
-Today we're going to talk about filling out VA forms online.
+I have a colleague with us in this session who will be taking notes. 
 
-Before we start, I have a few things that I want to go over with you:
+*(if applicable)* [accessibility specialist] is also in this meeting to help with any technical issues that may arise with your use of assistive technology during this session. 
+
+There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
+- *(If participant seems hesitant or unsure or uncomfortable)* Just so you know, my teammates will be muted and off camera and you won't have to interact with them. You also have the option to keep the session just the two of us plus the notetaker.
+- *(If yes, let them in--3-4 MAX. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
+
+- *(OBSERVERS JOIN w/cameras ON )* We have a few people from the team listening in today: there's [NAME] *(wave or say "hi")*, [NAME] *(wave or say "hi")*, etc. *(If I don't know the name of one of the observers, ask them to please turn on their camera and say their name aloud)*
+
+Could the observers please turn their cameras off now to save bandwidth? 
+
+Today we're going to talk about filling out VA forms online. I'm going to ask you a few questions, and then I'll ask you to do some specific tasks using a website that I will share with you.
+
+Before we start, I want to go over a few things:
 
 - **This entire session should take about 60 (or 90) minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
   
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
   
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Just let me know.
-  
-- I know the folks who invited you to participate in this interview asked if it was OK with you to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple additional observers during this session?**
-   - <mark>**If no:** Use Slack to kindly ask the observers to leave the Zoom.</mark>
-   - **If yes:** Admit observers.
-     
-> [!TIP]
-> - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
-> - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-     
-- *(If applicable)* **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
-  
-- I would like to record my screen and audio as we talk today. We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We report findings out in groups (i.e., 5 out of 10 participants said this), or, if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-   - **Knowing that, are you comfortable if I record my screen and audio as we talk today?** Yes / No
-     
-- One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - **Knowing this, would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?** Yes / No
 
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
+- I would like to record my screen and audio to confirm that I’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
+**Knowing this, are you comfortable if I record my screen and audio as we talk today?**
+  - *(If yes:)* Once I start recording, I am going to confirm once more that you are ok with me recording this session.
 
-➡️ **Start recording.**
+➡️ Select **Record**, then **Record to the cloud**.
 
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? Yes/No
+*(If participant asks you to NOT record)* Are you comfortable if I save the transcript of the session? *(If not, take good notes!)*
+
+- I have started recording. I'd like to confirm: 
+  - **Are you comfortable if I record my screen and the audio as we talk today?** Yes/No
  
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?** Yes / No
+
+In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save. (NEED TO DO THIS TO GET TRANSCRIPT)*
+
 
 # Warm-up Questions (Optional) - 5 minutes
 
@@ -79,6 +82,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - If yes: what is your disability rating?
 - If no, skip to question 2.
 2. 
+
+- *(If applicable)* **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
 
 ## First Task: [TASK NAME] - X minutes
 
