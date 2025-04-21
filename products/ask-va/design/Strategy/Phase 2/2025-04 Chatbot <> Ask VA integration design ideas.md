@@ -40,7 +40,7 @@ We've prototyped a potential integration MVP.
 4. User chooses to continue and (remaining in the chatbot interface) answers 1-3 follow-up questions before their question is submitted.
 5. User receive an Ask VA reference number through chatbot.
 
-If the user is signed in, we would not require their first and last name, so they would simply confirm their email address before sending their question to Ask VA.
+If the user is signed in, we would pull their first and last name from VA Profile. So, they'd simply confirm their email address before sending their question to Ask VA.
 
 While the user completes these actions, the system will (at a high-level):
 
