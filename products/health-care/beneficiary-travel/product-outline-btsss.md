@@ -90,6 +90,7 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 
 ## Launch Strategy
 -[Travel Pay Status Page Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+
 -[SMOC Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/SMOC%20Rollout%20Plan.md)
 
 ## Rollout Dates
