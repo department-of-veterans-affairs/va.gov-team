@@ -73,8 +73,58 @@ Before we start, I want to go over a few things:
 
 In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save. (NEED TO DO THIS TO GET TRANSCRIPT)*
 
+*After checking that transcription is working, close the Transcript panel by clicking **Close Full Transcript** in the Show Captions menu.*
 
-# Warm-up Questions (Optional) - 5 minutes
+## Screen sharing instructions (if needed)
+- In the Zoom application on your computer, there's a row of buttons at the bottom. In the center is a button that says **Share** *(on phone, may need to scroll sideways or click **More...**)*
+  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
+
+- Now I'd like you to share your screen with me. Tap on the button that says **Share**. Then there will be options for what to share. Please choose **"Screen"** (phone) or your web browser.
+- Great, now I can see your screen! Thank you for your patience in figuring this out.
+
+- iPad: **Broadcast screen**
+
+
+# Warm-up Questions - 5 minutes
+
+Let’s start with a few questions... 
+
+1. I understand you are a Veteran. Is that right? 
+    - Thanks for confirming that.
+
+1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
+    - *(If not the expected device, ask to rejoin that way)*
+    - What operating system? *(macOS / Windows / iOS / Android / _______)*
+
+1. What web browser do you use? *(Chrome / Firefox / Edge / Safari / _______)*
+
+#### For only assistive tech users
+
+4. What assistive technology are you using right now? *(screen reader / magnifier _______________________)*
+    - *(If **Dolphin** screen reader, won't be able to share screen on Zoom)*
+    - *(if no AT)* Do you sometimes use assistive technology? 
+      - If so, what do you use and when? 
+        - Would you be willing to start using it now in this session? 
+        - *(if not, run session w/o AT, or stop and ask Perigean for a replacement participant)*
+
+1. How would you rate your level of experience with using a screen *(reader / magnifier)*--beginner, intermediate, advanced, or expert?
+
+1. How long have you been using a screen *(reader / magnifier)*?
+
+1. Have you ever shared your screen in Zoom while using a screen *(reader / magnifier)*? *(Yes / No)*
+    - If not, we can help you do that.
+
+1. Is there anything else that we can do to support you during this session? *(RECORD AND DO!)*
+
+#### For everyone
+
+9. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
+
+1. What VA benefits, if any, do you have experience with? 
+    - *RECORD: health care / education / career services / disability / home loan / pension / life insurance / burial benefits / __________*
+
+
 
 Before we look at the website, let’s start with a few warm-up questions.
 
@@ -84,6 +134,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 2. 
 
 - *(If applicable)* **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
+
+
 
 ## First Task: [TASK NAME] - X minutes
 
