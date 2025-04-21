@@ -55,6 +55,7 @@ While the user completes these actions, the system will (at a high-level):
 When designing this example, we did not closely consider CRM integration or constraints. We also intentionally picked a scenario that is simpler: a general question that relates to an existing chatbot skill. And we have pre-determined the category, topic and subtopic in order to pre-determine and link a routing queue to a specific chatbot skill.
 
 In the future, we need to consider things like:
+- Would the Ask VA representative from the sign in team have all the information they need to answer this (type of) question?
 - How does the sign in chatbot skill need to evolve in order to support this MVP?
 - How would this idea scale to different types of general sign in questions? For example, if they need to go to a different routing queue?
 - How would this idea scale to different categories and/or business lines in Ask VA?
