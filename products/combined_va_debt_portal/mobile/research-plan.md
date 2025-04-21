@@ -33,7 +33,7 @@ Determine how to organize different types of debt: keep them separate (as VBA an
 
 ### Research questions
 
-_Understand behavior of Veterans and context with regards to managing their VA debt. Understand the situations, behaviors, and triggers involved in managing VA debt._
+_Understand the situations, behaviors, and triggers involved in managing VA debt._
 <div style="margin-left: 28px;">
 
 `1.` In what contexts and situations do Veterans manage VA debt?
