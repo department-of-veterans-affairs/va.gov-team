@@ -1,6 +1,6 @@
 # Status update on design initiatives
 
-Last updated by @tygindraux on April 17, 2025
+Last updated by @tygindraux on April 21, 2025
 
 Jump to:
 - [January to March](#january-to-march)
@@ -103,4 +103,5 @@ We have prioritized the following design-led initiatives to focus on through end
 
 Other operational tasks we need to complete before end of May:
 - Present research findings at VA Platform design sync: [Presentation](https://github.com/user-attachments/files/19763315/Monday.Design.and.Research.Share.-.Ask.VA.-.April.21.pdf) | [#1666](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=101411359&issue=department-of-veterans-affairs%7Cask-va%7C1666) | Sprint 50
-- Clean up Page Library (Figma): [Figma](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=6938-14384&t=54NB77bHgA6Dq7V2-0) | [#1723](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=105077742&issue=department-of-veterans-affairs%7Cask-va%7C1723) | Sprint 51
+- Clean up Page Library (Figma): [Figma](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=6938-14384&t=54NB77bHgA6Dq7V2-0) | [#1723](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=105077742&issue=department-of-veterans-affairs%7Cask-va%7C1723) | Sprint 50
+- Clean up field rule documentation for accuracy and thoroughness: [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/Fields%2C%20options%20and%20labels) | [#1780](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=107305551&issue=department-of-veterans-affairs%7Cask-va%7C1780) | Sprint 50
