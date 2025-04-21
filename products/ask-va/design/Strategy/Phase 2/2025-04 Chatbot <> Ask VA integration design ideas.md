@@ -59,4 +59,4 @@ In the future, we need to consider things like:
 - How does the sign in chatbot skill need to evolve in order to support this MVP?
 - How would this idea scale to different types of general sign in questions? For example, if they need to go to a different routing queue?
 - How would this idea scale to different categories and/or business lines in Ask VA?
-- How would this idea scale beyond general questions? Most critically, is it possible to send PPI through chatbot without security concerns? Even if this is possible, how would users feel about doing so?
+- How would this idea scale beyond general questions? Most critically, is it possible to send PII through chatbot without security concerns? Even if this is possible, how would users feel about doing so?
