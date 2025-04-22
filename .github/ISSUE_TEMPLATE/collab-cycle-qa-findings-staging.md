@@ -21,7 +21,7 @@ assignees: ''
 
 ---
 ### [QA Standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards) 
-**Note**: all standards are launch-bocking.
+**Note**: all standards are launch-blocking.
 #### Regression Test Plan 
 - [ ] Standard has been met
 - [ ] Standard has not been met
