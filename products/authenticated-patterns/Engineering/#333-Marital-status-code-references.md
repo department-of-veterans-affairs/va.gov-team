@@ -2,7 +2,7 @@
 
 URL of form is included and descriptions about what is asked about marital status for each form.
 
-## 686c-674 
+## 686c-674 (also called 21-686c)
 - /view-change-dependents/add-remove-form-21-686c-v2
 - report-add-a-spouse
 	- current-marriage-information
@@ -26,7 +26,7 @@ URL of form is included and descriptions about what is asked about marital statu
 		- How did the marriage end? - Their former spouse died, They divorced, They got an annulment, Some other way
 		- Briefly describe how the marriage ended - text field when 'other' is selected
 
-## 686c-674 
+## 686c-674 (for purposes of counting forms, we are considering this the same as the above form)
 - /view-change-dependents/add-remove-form-21-686c
 - v1 of the above form. Both appear to be in production by looking at content-build, but would need to verify if v2 is only one used at this point
 
@@ -88,7 +88,7 @@ URL of form is included and descriptions about what is asked about marital statu
 - What’s the sponsor’s marital status? Same options as above
 	- "We require some basic details about the applicant’s sponsor as part of the application. Please know we need to gather the data for statistical purposes."
 
-## 40-10007 pre need burial planning form (a second form that lives in the pre-need-integration folder of vets website)
+## 40-10007 pre need burial planning form (a second form that lives in the pre-need-integration folder of vets website; for purposes of counting forms, we are considering this the same as the above form)
 - /burials-memorials/pre-need/form-10007-apply-for-eligibility
 - slightly different url at /burials-memorials... vs /burials-and-memorials
 - fields look identical to the above form
