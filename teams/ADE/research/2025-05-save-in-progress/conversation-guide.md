@@ -125,7 +125,7 @@ Let’s start with a few questions...
     - *RECORD: health care / education / career services / disability / home loan / pension / life insurance / burial benefits / __________*
 
 1. Have you filled out a VA form online before? 
-- If so, can you tell me about your most recent experience?
+- If so, can you tell me about your most recent experience? How did it go?
 
 
 # User Tasks
@@ -183,7 +183,9 @@ Did you get the link?
 1. Overall, about everything on the website in this session...What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
-1. *(if haven't already talked about saving information while filling out an online form)* What would make it easier for you to fill out online forms? 
+1. *(if haven't already talked about saving)* When do you expect the information you enter into an online form to be saved?
+
+     *1. Before / after submitting?*
 1. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 3 minutes
