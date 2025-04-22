@@ -34,14 +34,14 @@ body:
 - type: textarea
   id: description
   attributes:
-    label: 5.) Please explain which product will be impacted
+    label: 4.) Please explain which product will be impacted
     description: Please explain which product (MyVA/Dashboard, Authenticated Menu, Profile)
   validations:
     required: true
 - type: input
   id: Feature
   attributes:
-    label: 7.) Features Impacted
+    label: 5.) Features Impacted
     description: What features will this change involve (Personal Info, Contact Info, Dashboard (name the section), Direct Deposit, etc.)
     placeholder: If this is a new feature request put NA. 
   validations:
@@ -49,14 +49,14 @@ body:
 - type: textarea
   id: problem
   attributes:
-    label: 4.) Please explain what problem you are trying to solve.  
+    label: 6.) Please explain what problem you are trying to solve.  
     description: Describe the problem and its impact on Veteran experience so we can assess implementation. 
   validations:
     required: true
 - type: textarea
   id: how_it_works
   attributes:
-    label: 4.) Please explain how the change is supposed to work  
+    label: 7.) Please explain how the change is supposed to work  
     description: Describe the how the requested change is intended to work. 
   validations:
     required: true
@@ -94,8 +94,15 @@ body:
 - type: input
   id: duedate
   attributes:
-    label: 12.) Is there a hard deadline associated with this request? If so, can you please explain why this deadline is selected and potential impacts to the app or other services if this deadline is not met?
-    description: 
+    label: 12.) Is there a hard deadline associated with this request? 
+    description: If there isn't a hard deadline put today's date
     placeholder: MM/DD/YYYY 
   validations:
-    required: true    
+    required: true
+  - type: textarea
+    id: duedate_explanation
+    attributes:
+      label: 13.) If a hard due date, can you please explain why this deadline is selected and potential impacts to the product or other services if this deadline is not met?
+    description: Put N/A if there isn't a hard deadline
+  validations:
+    required: true
