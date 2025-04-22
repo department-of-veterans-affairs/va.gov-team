@@ -53,17 +53,9 @@ body:
   validations:
     required: true
 - type: input
-  id: auth_exp_readiness
-  attributes:
-    label: 9.) Does your team have all the necessary materials (documents, designs, processes, analytics, APIs, etc) in place for AuthExp to make these changes right now? 
-    description: AuthExp wants to understand if the necessary integrations and project pre-requesistes are completed now or if AuthExp will be blocked until future work is completed in order to better asses planning, scoping, and prioritization. 
-    placeholder: Yes / No
-  validations:
-    required: true
-- type: input
   id: discussion_VAHB_PO
   attributes:
-    label: 10.) Has this change been discussed with AuthExp POs (Chante)? 
+    label: 10.) Has this change been discussed with AuthExp PO (Chante)? 
     description: 
     placeholder:  Yes / No
   validations:
