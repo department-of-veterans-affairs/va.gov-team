@@ -113,30 +113,32 @@ Health Products
 #### Stand-up
 Check in on people and product progress
 
-- Every day @ 11:30am ET/8:30am PT
-- 15 min
-- 3 Question Format: What did you do yesterday? What will you do today? Any impediments?
-- We use the daily Slack thread to share any links, questions, and notes that come up
+- Combination of calls and slack-ups
+- We meet as a full team on Wednesdays at 12p ET/9a PT
+- We use the #1010-health-apps Slack channel  to share any links, questions, and notes that come up
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
 - Last Tuesday of every sprint week @ 3pm ET/12pm PT
 - 1 hour
+- EZR and EZ/CG teams meet separately
 - We'll use the sprint field to indicate we have committed to what's in each sprint
 
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and generate action items.
 
-- 1st Wednesday of every sprint @ 11:30 ET/8:30 PT
-- 30 min
+- Full team meets with PO
+- 1st Wednesday of every sprint @ 1p ET/10a PT
+- 1 hour
 
 #### Refinement
 Create, review, estimate, and prioritize backlog items.
 
-- 2nd Wednesday of every sprint, 1pm ET/10am PT
+- 2nd Wednesday of every sprint
 - 1 hour
+- EZR and EZ/CG teams meet separately
 
 </p>
 </details>
@@ -155,9 +157,7 @@ Create, review, estimate, and prioritize backlog items.
      - 1010-short-form
      - 10-10ez-notifications
      - household-info-redesign
-     - American-Indian
-     - sigi
-     - facilities-1010
+     - 1010-no-address
 - CG initiative labels (examples)
      - legal-rep
      - MuleSoft
@@ -165,6 +165,7 @@ Create, review, estimate, and prioritize backlog items.
      - facilities-cg
 - EZR initiative labels (examples
      - toxic-exposure
+     - forms-status
 
 - Naming convention for tickets/stories/tasks
     - [area of work] FormID - Epic/Initiative: Brief title of work to be done
@@ -174,16 +175,16 @@ Create, review, estimate, and prioritize backlog items.
    - Clear acceptance criteria
    - Definition of done  
    - A user story that reflects the benefit to a Veteran, Caregiver, or other user
-   - Been broken up into discreet tasks/Github tickets that are attatched to the epic
-   - All components/steps have been accounted for in the epic
+   - All known components/steps have been accounted for in the epic
    - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
 
 **Stories/Tickets** should include:
    - Title that explains the goal in plain language
-   - Linked to another ticket or epic
+   - Linked to another ticket or Parent
    - Includes:
-        - Description (what happened & why we need this ticket), 
-        - General tasks to perform
+        - Benefit to the Veteran
+        - Description (what happened & why we need this ticket)
+        - General scope/tasks to perform
         - Acceptance criteria (expected result)
 
 - If there are new work requests or sudden changes, contact the Product Manager to assist in scheduling into the sprint
@@ -227,14 +228,17 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 #### Slack "#1010-health-apps":
 
 - This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
+- There are other channels where targeted discussions can be held:
+     - #1010-design-team
+     - #1010-dev-team
 
 #### GitHub
-- GitHub is the single source of truth. All work is documented for tracking and planning.
+- GitHub is the single source of truth. All work is documented for tracking and planning within GitHub.
 
 #### PTO
 - We will respect time off and understand that mental, physical, and personal health is the top priority for team members
-- Team members will send calendar invites to the rest of team when they have scheduled time off.
+- Team members will post calendar events on the team calendar when they have scheduled time off.
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-- Extra time? Explore the "Refined & Prioritized" column in [GitHub](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/board).
+- Extra time? Explore the "Ready to work" column in [GitHub Project 10-10 Health Apps Team](https://github.com/orgs/department-of-veterans-affairs/projects/1433).
