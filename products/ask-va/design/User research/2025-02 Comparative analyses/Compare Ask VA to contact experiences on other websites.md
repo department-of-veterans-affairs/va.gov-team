@@ -53,7 +53,7 @@ If Ask VA worked like National Grid, then:
 - After you submit your question, you  receive a reference number. You will receive a response via email.
 - Your contact experience would be the same whether you sign in or not. However, you do need to sign in to complete certain tasks, like paying a bill.
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/NATIONALGRID.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-02%20Comparative%20analyses/Images/NATIONALGRID.png)
 
 ### USAJOBS.gov Help Center
 
@@ -65,7 +65,7 @@ If Ask VA worked like USAJOBS.gov, then:
 - After you submit your question, you don't receive a reference number but it does tell you a ticket has been created. You should receive a response in 1 business day.
 - Your contact experience would be the same whether you sign in or not. However, you do need to sign in to complete certain tasks, like apply for jobs.
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/USAJOBS.GOV.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-02%20Comparative%20analyses/Images/USAJOBS.GOV.png)
 
 ### Con Edison Contact Us
 
@@ -78,7 +78,7 @@ If Ask VA worked like Con Edison, then:
 - After you submit your question, you don't receive a reference number. You should receive an email with the reply.
 - Your contact experience would be the same whether you sign in or not. However, you do need to sign in to complete certain tasks, like pay a bill.
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/CONEDISON.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-02%20Comparative%20analyses/Images/CONEDISON.png)
 
 ### RNID Contact us
 
@@ -90,7 +90,7 @@ If Ask VA worked like RNID, then:
 - You don't receive a reference number if you submit a contact form, this is different to a ticketing system. You will receive an email within 1 to 5 working days.
 - There is no need or option to sign in to contact RNID or use their services.
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/RNID.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-02%20Comparative%20analyses/Images/RNID.png)
 
 ### GOV.UK/Contact
 
@@ -105,7 +105,7 @@ If Ask VA worked like GOV.UK/Contact, then:
 - Some services may have their own contact tool which looks like a form, but it's not something you submit. For example, if NCA had a contact tool, the first question would ask, "How can we help you today?" with around 7 options. Your answer would direct you to a follow-up question or eventually a contact page for NCA that also includes tasks.
 - Your contact experience would be the same whether you sign in or not. However, you do need to sign in to complete certain tasks, like file taxes.
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/GOV.UK.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-02%20Comparative%20analyses/Images/GOV.UK.png)
 
 ### Government of Canada Contact Us
 
@@ -121,7 +121,7 @@ If Ask VA worked like Government of Canada, then:
 - After you submit your question, you receive a reference number. You should receive a phone call within 2 business days.
 - Your contact experience would be the same whether you sign in or not. However, you do need to sign in to complete certain tasks, like booking some appointments.
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/CANADA.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-02%20Comparative%20analyses/Images/CANADA.png)
 
 ### Atlassian Contact Form
 
@@ -135,7 +135,7 @@ If Ask VA worked like Atlassian, then:
 - You could still choose to submit the request if their solution didn't help.
 - If you choose to submit the request, you don't receive a reference number. It's unclear how long it will take to hear back over email.
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/ATLASSIAN.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-02%20Comparative%20analyses/Images/ATLASSIAN.png)
 
 ### Grammarly Contact Form
 
@@ -149,7 +149,7 @@ If Ask VA worked like Grammarly, then:
 - If you choose to submit a form, conditional fields appear based on your responses (category, topic, etc.)
 - You wouldn't receive a reference number if you carry through and submit the form. And it's unclear how long it will take for them to reply back to you via email.
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis/Images/GRAMMARLY.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-02%20Comparative%20analyses/Images/GRAMMARLY.png)
 
 ## Insights
 
