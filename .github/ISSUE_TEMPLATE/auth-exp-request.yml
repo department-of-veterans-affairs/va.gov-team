@@ -80,7 +80,7 @@ body:
   attributes:
     label: 10.) Has this change been discussed with AuthExp POs (Chante)? 
     description: 
-    placeholder:  es / No
+    placeholder:  Yes / No
   validations:
     required: true
 - type: input
