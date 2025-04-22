@@ -58,7 +58,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Create prototypes for Wizard & Digital Dispute Usability Study| QP3 QP4 |--|4/22/25|Completed|
 |UX: Complete the Research plan step 1 for Wizard & Digital Dispute (Write guides) | QP3 QP4 |--|4/22/25|Completed|
 |ENG: Complete dev work for One VA debt letter and collaborate with Platform on PR’s| QP2 |--|04/21/25|Completed|
-|ENG: Complete the dev work for the Wizard new flow and be prepared for the release, pending CAIA Pages| QP3 |--|--|--|
+|ENG: Complete the dev work for the Wizard new flow and be prepared for the release, pending CAIA Pages| QP3 |High priority bug ticket and new feature feedback work |-04/22/25|Incomplete|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (04/07/25)
@@ -69,6 +69,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
+- ENG: Complete the dev work for the Wizard new flow and be prepared for the release, pending CAIA Pages
+  - Work for a high priority bug fix (adding additional items issue #107612) and feedback from staging review for One Debt Letter took priority over this goal
+  - The work is now scheduled to be completed next sprint
 
 ## Sprint Goals - Sprint: 7 [4/23/25 - 5/6/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
