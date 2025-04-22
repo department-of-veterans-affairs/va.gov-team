@@ -82,8 +82,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |ENG: Launch Wizard into production | QP3 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [X] Ready to be sent for approvals (04/XX/25)
- - [ ] VA PO & COR sent the Sprint Goals (04/XX/25)
+ - [X] Ready to be sent for approvals (04/21/25)
+ - [X] VA PO & COR sent the Sprint Goals (04/22/25)
  - [ ] VA PO approved the Sprint Goals (04/XX/25)
  - [ ] VA COR approved the Sprint Goals (04/XX/25)
  
