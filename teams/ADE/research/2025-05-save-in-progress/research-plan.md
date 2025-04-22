@@ -247,5 +247,5 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Observers:` Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean.
 
 ## Approvals ✅
-- `Reviewed by Martha Wilkes, OCTO Accessibility Strategist/Designer, on [MM-DD-2025]`
+- `Reviewed by Martha Wilkes, OCTO Accessibility Strategist/Designer, on 04-22-2025`
 - `Reviewed by Shane Strassberg, Research-Ops Lead, on [MM-DD-2025]`
