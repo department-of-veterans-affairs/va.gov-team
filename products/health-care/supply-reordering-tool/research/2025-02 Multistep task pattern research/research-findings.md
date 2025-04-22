@@ -49,6 +49,12 @@ Both tests contained identical questions but were paired with different prototyp
    1. **DEFINITELY TRUE:** Pre-study questionnaire data shows overwhelming preference for single-session task completion across both prototypes.  
 
 ## Key Findings
+1. Veterans completed tasks faster with new pattern. (Hypothesis 1)
+2. Veterans were more successful using new pattern. (Hypothesis 2)
+3. Veterans found the new pattern more intuitive and satisfying. (Hypothesis 3)
+4. Veterans prefer single-session task completion. (Hypothesis 4)
+5. 
+
 
 1. **Veterans completed tasks faster with the new pattern (Hypothesis 1)**
 Labels: `design-patterns`, `interaction-pattern`
