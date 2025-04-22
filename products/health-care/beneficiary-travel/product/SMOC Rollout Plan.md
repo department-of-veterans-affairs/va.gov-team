@@ -50,23 +50,21 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Desired date range or test duration: TBA, pending VTP approval
-- Desired number of users: 30
+- Desired date range or test duration: 3/17-3/28
+- Desired number of users: 9
 - How you'll recruit the right production test users: Through Perigean, we will identify 9 eligible claimants with appointments in the last 30 days who are able to file a simple, mileage-only claim.
 - How you'll conduct the testing: Cara Frissell, our UX researcher, will conduct UAT
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: We will put them behind the feature flag.
 
 #### Results
 
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
+- Number of users: 9
+- Number of bugs identified / fixed: 1/1
+  - [FILL_IN] : Key issue with the appointments plugin detected
+- Was any downstream service affected by the change?: no]
+- Types of errors logged: API error finding appointments
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: Yes
+- If yes, what: Adding updated entry points
 
 ### Phase Ib: Production short rollout to understand error rates (added 4/2/25)
 
@@ -99,25 +97,22 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: TBA, pending VTP approval
+- Desired date range: 4/21-4/24
 - How will you make the product available in production while limiting the number of users who can find/access it: Using the feature flag
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
+  - User count
+  - Error rate
+  - Links to the dashboard(s) showing "success criteria" metrics: https://vagov.ddog-gov.com/dashboard/27b-m6k-7an/travel-pay-smoc-performance-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1745241465502&to_ts=1745327865502&live=true
+- Who is monitoring the dashboard(s)?: Eng, Product, and UX Leads
 
-*The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
-
-### Stage A: Canary
+### Stage A: 10%
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
 #### Planning
 
-- Length of time: TBA, pending VTP approval - 5 days minimum, 3/24-3/28 (or until all criteria is met and any issues are addressed)
-- Percentage of Users (and roughly how many users do you expect this to be): 5%
+- Length of time: 1 Day
+- Percentage of Users (and roughly how many users do you expect this to be): 10%
 
 | Criteria | Measurement |
 | ----------- | ----------- |
@@ -189,7 +184,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 2 weeks minimum (or until all criteria is met and any issues are addressed)
+- Length of time: 1 day
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 | Criteria | Measurement |
@@ -224,7 +219,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 | All bugs are ticketed and given a severity rating |  |
 | Critical bugs are all addressed |  |
 
-### Stage D: 75% of users
+### Stage D: 100% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
@@ -262,46 +257,6 @@ We recommend that the rollout plan has five stages, each increasing the number o
 | Time to adjust manual claims |  |
 | All bugs are ticketed and given a severity rating |  |
 | Critical bugs are all addressed |  |
-
-### Stage E: 100% of users
-
-#### Planning
-
-- Length of time: TBA, pending VTP approval; 2 weeks minimum (or until all criteria is met and any issues are addressed)
-- Percentage of Users (and roughly how many users do you expect this to be): 75%
-
-| Criteria | Measurement |
-| ----------- | ----------- |
-| Claim submission error rate below 5% | Error rate upon submission on VA.gov |
-| Is total claim volume increasing by more than 10% | Total claim volume increase % |
-| Claims in manual review | % and # of claims in manual review from VA.gov |
-| Claims appearing for Stations | Claims submitted on VA.gov = Claims processed by TCP |
-| Claims in manual review | % and # of claims in manual review |
-| At least 10% of manual review claims adjudicated | % of VA.gov claims  adjudicated manual review |
-| Time to adjust manual claims | Change in time required to adjust manual claims |
-| All bugs are ticketed and given a severity rating | Total # of bugs by severity |
-| Critical bugs are all addressed | % of critical bugs addressed |
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-| Criteria | Measurement |
-| ----------- | ----------- |
-| Claim submission error rate below 5% |  |
-| Is total claim volume increasing by more than 10% |  |
-| Claims in manual review |  |
-| Claims appearing for Stations |  |
-| Claims in manual review |  |
-| At least 10% of manual review claims adjudicated |  |
-| Time to adjust manual claims |  |
-| All bugs are ticketed and given a severity rating |  |
-| Critical bugs are all addressed |  |
-
 
 ## Post Launch metrics
 
