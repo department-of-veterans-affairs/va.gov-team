@@ -100,7 +100,7 @@ body:
   validations:
     required: true
 - type: textarea
-    id: duedate_explanation
+    id: duedateexplanation
     attributes:
       label: 13.) If a hard due date, can you please explain why this deadline is selected and potential impacts to the product or other services if this deadline is not met?
       description: Put NA if there isn't a hard deadline
