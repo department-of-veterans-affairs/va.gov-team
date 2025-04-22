@@ -17,4 +17,4 @@ After launching on VA.gov, we will focus on making quick, responsive improvement
 We worked with Perigean to recruit Veterans for this research.
 
 ## Date
-This research took place from January to March 2025.
+This research took place from January to February 2025.
