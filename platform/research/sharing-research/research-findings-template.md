@@ -6,11 +6,12 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
 
-Date: MM/DD/YYYY
+**Date:** MM/DD/YYYY
 
-[Designer 1] [email], [Designer 2] [email]
+**Contacts:** [Researcher/Designer 1], [Researcher/Designer 2]
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+**[Link to Research Readout](link-here)**  
+*Add a link to your research readout deck, if available.*
 
 **Jump to:**
 
@@ -19,65 +20,67 @@ _Once you've presented your research readout to your team, if you have a deck, i
 - [Recommendations](#recommendations)
 - [Product User and Business Outcomes](#product-user-and-business-outcomes)
 - [Key Performance Indicators](#key-performance-indicators)
+- [Next Steps](#next-steps)
 - [Further research needed](#further-research-needed)
 - [Who we talked to](#who-we-talked-to)
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
+[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
 
-_Then, describe your goals for this research_
+**Guiding Questions:**  
+- What are the key moments this tool supports in the Veteran’s journey?  
+- What outcomes are we aiming to achieve for Veterans and stakeholders?  
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals)_
+[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
 
 
 
 ## Research Questions
 
-_Research questions here_
+*List the research questions that guided this study.*  
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)_
+* Question 1
+* Question 2
+* Question 3
 
-
-* Question 
-* Question
-* Question
+[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
 
 ## Methodology 
 
-_Brief description of method chosen_
+*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
+- Method 1: Description  
+- Method 2: Description  
+
+[Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
 
 
 ## Hypotheses and Conclusions
 
-> [!NOTE]
-> List hypotheses or tasks for this research along with the conclusions you found if you conducted a usability test.
-> 
-> If applicable, list the success or task completion rate.
-
-[**See an example**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
-
-_Hypothesis statement_
+*List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
 
 > [!TIP]
 > Place true or false statements in bold for easier scanability
 
-_(**"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**) Explain Why?_
+- **Hypothesis Statement:** [Insert statement]  
+  - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
+  - Supporting evidence  
+
+[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
 
 
 ## Key Findings
 
-`The 5-10 top findings from your study should be listed here.`
+*Summarize the 5–10 most impactful findings from your study.* 
 
 > [!TIP] 
-> ***Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile.***
-> 
-> Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form".
+> Write findings as stand-alone insights that are easy to scan. For example:  
+> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
+> - "Participants struggled with the secondary caregiver section on the form."  
 
-[**See an example**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
+[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
 **1.** Finding one
 
@@ -96,60 +99,39 @@ _(**"Maybe True", “Likely True”, “Definitely True”, “Likely False”, 
 
 ## Details of Findings 
 
-> [!NOTE]
-> For each finding, list details with supporting quotes and images when possible. 
+*Provide detailed descriptions and supporting evidence for each key finding.*  
 
-> [!TIP]
-> _To add images: ![text](link - add image to github folder and link here with .png)_
+**Finding 1:**  
+Brief description  
+- _Supporting data: Quote [add context]_  
+- _Supporting data: ![text](link - add image to github folder and link here with .png)_  
 
+**Finding 2:**  
+Brief description  
+- _Supporting data: Quote [add context]_  
 
-**Finding 1**
+---
 
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 2**
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 3**
-
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-## Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+## **Additional Insights**
+*Include insights that do not represent patterns but are still valuable.*  
+> **TIP:** These could be powerful user comments or unexpected issues worth noting
 
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+*Summarize actionable recommendations based on findings.*  
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
-
+1. **Recommendation:** [Insert action]  
+   - _Supporting evidence: [Insert data]_  
+2. **Recommendation:** [Insert action]  
+   - _Supporting evidence: [Insert data]_
 
 ## Product User and Business Outcomes
+
+*Explain how findings and recommendations align with the product's goals.*
+
 > [!NOTE] 
-> Refer back to your Product Outline. How does this research and its recommendations support your product's desired user and business outcomes?
+> Refer back to your Product Outline. 
 
 - **Desired User Outcome**
   - This research supports our desired user outcome by....
@@ -159,8 +141,11 @@ _Put together initial recommendations here based on your findings along with sup
 
 
 ## Key Performance Indicators
+
+*Explain how findings will support KPI measurement.*  
+
 > [!NOTE]
-> Refer back to your Product Outline. How does this research support measurment of your product's KPIs?
+> Refer back to your Product Outline. 
 
 - **KPI 1**
   -  This research supports measurement of this KPI by....
@@ -168,12 +153,12 @@ _Put together initial recommendations here based on your findings along with sup
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+*Outline immediate actions based on findings, including owners if applicable.*  
 
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
 
 
 ## Appendix
@@ -188,25 +173,21 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
-
-
+*List tools or techniques used, e.g., Mural, affinity mapping.*  
+  
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+*Link to prototypes or pages tested during the study.*  
 
 
 ## Other supporting documents created
 
-e.g. user flows, personas, etc.
+*Include links to additional materials, e.g., personas, user flows.*  
 
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
+*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
 
 ## Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
