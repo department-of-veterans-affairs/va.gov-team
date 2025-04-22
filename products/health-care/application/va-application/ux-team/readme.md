@@ -106,15 +106,16 @@ Content Sync with CAIA
 ## Who we are
 
 #### EZ/CG Group:
-- Angela Agosto | angela.agosto1@va.gov / angela.agosto@adhocteam.us / GH "aagosto90" - UX Design/Research
-- Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / GH "jessicastump" - UX Design/Research
+- Jessica Stump | GH "jessicastump" - UX Design/Research
+- Liza McRuer | GH "#" - UX Design/Research
+
+
 
 #### EZR Group: 
-- Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "RenataKeck" - UX Design/Research
-- Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo" - UX Design/Research
+- Renata Keck |  GH "RenataKeck" - UX Design/Research
+- Hieu Vo | GH "IMHieuVo" - UX Design/Research
 
 #### OCTO Design Lead:
-- Lois Lewis | lois.lewis2@va.gov - UX Lead, Healthcare Apply Experience
 
 
 ---
