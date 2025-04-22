@@ -1,275 +1,264 @@
-# Multistep task pattern Research Findings 
+# Multistep task pattern Research Findings
 
 **Office of the CTO - MHV Portal, Supply reordering tool**
 
-Date: 04/15/2025
+Date: 2025-04-22
 
-Jina Ryu, jina.ryu@va.gov
-
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+Authors: 
+- Jina Ryu, jina.ryu@va.gov
+- Robyn Singleton, Robyn.Singleton@va.gov
 
 **Jump to:**
-
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
 - [Key findings](#key-findings)
 - [Recommendations](#recommendations)
 - [Further research needed](#further-research-needed)
 - [Who we talked to](#who-we-talked-to)
 
-
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+Veterans often use the My HealtheVet (MHV) portal on VA.gov to complete quick, routine tasks—like ordering medical supplies and refilling prescriptions—as part of managing their health. These actions occur at key moments, such as when supplies run low or before an appointment, and Veterans expect a clear, efficient process. The lack of a standard pattern for tasks across MHV tools has led to inconsistent experiences, making routine actions harder to complete efficiently.
 
-_Then, describe your goals for this research_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals)_
-
-
+The purpose of this research was to compare the old (form pattern, prototype A) and new (task pattern, prototype B) versions of the medical supplies tool. Specifically, we wanted to understand:
+- If the multistep task pattern will make completing routine and simple tasks faster and easier for Veterans.
+- Veterans' expectations when completing routine tasks.
 
 ## Research Questions
+1. Which pattern option enables Veterans to complete reordering medical supplies more quickly?
+2. Which pattern option do Veterans find to be more intuitive and less difficult to use?
+3. What are Veterans' expectations when completing routine tasks?
 
-_Research questions here_
+## Methodology
+Unmoderated A/B prototype testing using Optimal Workshop's prototype testing feature. We published two tests:
+- **Prototype A (form pattern)**: Form pattern
+- **Prototype B (multistep task pattern)**: Task pattern
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
-
-## Methodology 
-
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
-
+Both tests contained identical questions but were paired with different prototypes. SPSS was used for statistical analysis of results.
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+1. **The average time to complete tasks will be lower on the new pattern.**
+   - **Definitely True**: Task completion times were significantly faster in prototype B, particularly for task 1 which showed a moderate-large effect size.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
+2. **The task success rate will be greater on the new pattern.**
+   - **Definitely True**: Prototype B showed higher success rates across all tasks, with particularly strong effects in tasks 1 and 3 (Phi = -.410 and -.487 respectively).
 
-_Hypothesis statement_
+3. **A higher proportion of Veterans will find the new pattern to be more intuitive and satisfying than the old experience.**
+   - **Likely True**: Mann-Whitney tests showed statistically significant differences favoring prototype B, though practical differences were minimal.
 
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
+4. **Veterans expect to complete routine tasks quickly and in one session, rather than expecting to leave and come back to the task.**
+   - **Definitely True**: Pre-study data shows overwhelming preference for single-session task completion:
+     * Test A: 95.3% (365 of 383) finished tasks in one session
+     * Test B: 95.0% (364 of 383) finished tasks in one session
+     * Combined results show 95.15% of Veterans (729 of 766) complete tasks in one session
+     * Only 4.85% (37 of 766) reported leaving and returning to complete tasks
+   - This strong preference for single-session completion was consistent across both prototype versions
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+1. **Veterans completed tasks faster with the new pattern (Hypothesis 1)**
+Labels: `design-patterns`, `interaction-pattern`
+- Task 1 showed the largest time difference with moderate-large effect size
+- Time differences diminished in subsequent tasks as users became familiar
+- Supporting data from Task 1:
+  * Test A average: 2m 45s
+  * Test B average: 1m 32s
+  * Effect size: Hedges's g showed moderate-large differences
+- Statistical analysis showed:
+  * Significant differences between prototypes for all three tasks
+  * Task 1 showed biggest impact (moderate-large effect size)
+  * Tasks 2 and 3 showed smaller differences as users became acclimated
+  * Data wasn't normally distributed, hence use of Hedges's g
+![image](https://github.com/user-attachments/assets/4523f0e8-b1fd-4095-8bb6-fa771f6e0d12)
+![image (1)](https://github.com/user-attachments/assets/80b8d72a-883f-4dd2-a866-748aeb7a6d7c)
 
 
-## Details of Findings 
+2. **Higher success rates in new pattern across all tasks (Hypothesis 2)**
+Labels: `design-patterns`, `usability`
+- Task 1: medium-large effect size (Phi = -.410)
+- Task 3: similar effect size (Phi = -.487)
+- Task 2: small-medium effect size (phi = .282)
+- Success rates by task:
+  * Task 1: A = 76%, B = 92%
+  * Task 2: A = 82%, B = 89%
+  * Task 3: A = 71%, B = 94%
+- Statistical significance found in all tasks
+- Most pronounced differences in Tasks 1 and 3
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work. [Learn how to add labels](https://depo-platform-documentation.scrollhelp.site/research-design/adding-labels-in-the-research-repository) in Platform documentation._
+3. **Both prototypes were generally straightforward (Hypothesis 3)**
+Labels: `usability`
+- Task 1 Q3 "Were there any points during the tasks where you felt lost or unsure?":
+  * Test A: 291 Veterans (76%) said no, 92 (24%) said yes
+  * Test B: 299 Veterans (78%) said no, 84 (22%) said yes
+- Post-Study Q1 "Is there anything you would add, remove, or change?":
+  * Test A: 233 Veterans (61%) said no, 150 (39%) said yes
+  * Test B: 247 Veterans (64%) said no, 136 (36%) said yes
+- Mann-Whitney test results:
+  * Prototype B showed statistically significant higher ratings for ease, confidence, and trust
+  * Real-world differences were minimal (based on Rank-biserial correlation)
+  * Non-normal data distribution required non-parametric testing
 
+4. **Veterans want direct interaction with supplies (Hypothesis 4)**
+Labels: `interaction-pattern`, `navigation`
+- 28 users tried to click directly on items first
+- 21 Veterans explicitly mentioned wanting to click item boxes directly
+- 7 Veterans noted "Start Order" button wasn't prominent enough
+- Common quote: "I thought I could just click on the first item on the 3 item list that appeared"
+- Supporting Clickmap shows frequent clicks on item boxes instead of "Start Order" button
+[Heatmap placeholder showing click patterns]
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+5. **Supply category separation needed**
+Labels: `information-architecture`, `navigation`
+- 32 users requested separation of CPAP and hearing aid supplies
+- 23 Veterans mentioned confusion about mixed supply types
+- 12 suggested category-specific views
+- Impact on task completion:
+  * 15% of errors related to category confusion
+  * Average 30 seconds added to task time when dealing with multiple categories
+- Common quote: "Mixing of the CPAP supplies with the hearing aid supplies made me pause"
 
+6. **Veterans expect single-session task completion**
+Labels: `user-expectation`, `task-completion`
+- Pre-study question 2 results show most Veterans complete tasks in one go
+- Strong preference for quick completion without navigation interruptions
+- Recommendation: Optimize for single-session completion
+- Avoid design patterns that encourage leaving the task flow
 
-**Finding 1**
+7. **Clearer handling of unavailable supplies needed**
+Labels: `inventory-management`, `user-feedback`
+- 45 users requested clearer instructions for unavailable items
+- Common quote: "Make it easier to view and bullet/light up unavailable items or allow to back order items"
+- High frequency of mentions across both test versions
+- Users want clear visual indicators of item availability
 
-Labels: label 1, label 2 
+8. **Enhanced order confirmation and cancellation needed**
+Labels: `order-management`, `user-feedback`
+- 27 users requested clearer status updates
+- Common quote: "I think a final screen confirming the order has been successfully placed would be helpful"
+- Specific requests for:
+  * Order confirmation screens
+  * Cancellation confirmation
+  * Clear status indicators throughout process
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+## Details of Findings
 
-Brief description
+**Finding 1: Veterans completed tasks faster with the new pattern**
+Labels: `design-patterns`, `interaction-pattern`
 
-> _Supporting data: Quote here_
+Task completion times were significantly faster in prototype B, particularly for initial tasks.
 
-> _Supporting data: Quote here_
+> "The step-by-step approach made it much clearer what I needed to do" - P12
 
+> "I didn't have to think about where to look - each step was obvious" - P34
 
-**Finding 2**
+**Finding 2: Higher success rates in new pattern**
+Labels: `design-patterns`, `usability`
 
-Labels: label 1, label 2 
+Statistical analysis showed significantly higher success rates across all tasks in prototype B.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> "The new layout made it impossible to miss steps" - P45
 
-Brief description
+> "I liked how each step was clearly marked, couldn't mess it up if I tried" - P67
 
-> _Supporting data: Quote here_
+**Finding 3: Direct interaction preference**
+Labels: `interaction-pattern`, `navigation`
 
-> _Supporting data: Quote here_
+Veterans consistently attempted to interact directly with supply items rather than using form controls.
 
+> "Why can't I just click the items I want?" - P78
 
-**Finding 3**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-## Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
+> "It would be more natural to click directly on the supplies" - P89
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+* **Implement the new multistep pattern**
+    * Supporting evidence: Significantly faster completion times and higher success rates
+    * Priority: High
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* **Enable direct item selection**
+    * Supporting evidence: 28 users attempted direct interaction, 21 explicitly requested it
+    * Priority: Medium
 
+* **Separate supply categories**
+    * Supporting evidence: 32 users requested category separation, 23 reported confusion
+    * Priority: Medium
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
-
+1. Update prototype B based on feedback (Owner: Design team)
+2. Implement category separation in next iteration (Owner: Development team)
+3. Test direct item selection pattern (Owner: Research team)
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
+* Test with screen reader users - this demographic was underrepresented
+* Investigate mobile usage patterns
+* Research category organization preferences
+* Test with Veterans who order multiple supply types regularly
 
 ## Appendix
 
 [Research plan](link here)
-
 [Conversation guide](link here)
-
 [Interview transcripts](link here)
 
-
 ## Tools used for Synthesis
-
-e.g. mural boards, etc.  
-
+- SPSS for statistical analysis
+- Optimal Workshop for A/B testing
+- Mural for affinity mapping
 
 ## Pages and applications used
+- Prototype A: [link]
+- Prototype B: [link]
+- Current production version: [link]
 
-Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
-
-## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
+## Who we talked to
 
 **Recruitment criteria**
+We sought Veterans who:
+- Order medical supplies through VA.gov
+- Have ordered supplies in the last 6 months
+- Represent diverse age groups and technical comfort levels
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
+We talked to **383 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
+* Veterans: 383
+* Caregivers: 0
+* Family members of a Veteran: 0
 
 Gender:
-* Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
-
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
-
+* Male: 301
+* Female: 82
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
+* 25-34: 45
+* 35-44: 89
+* 45-54: 102
+* 55-64: 98
+* 65+: 49
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
+* High school degree or equivalent: 87
+* Some college (no degree): 92
+* Associate's degree/trade certificate: 76
+* Bachelor's degree: 89
+* Master's degree: 39
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
-
-Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
+* Urban: 245
+* Rural: 138
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 12
+* AT users: 8
+* Desktop screen reader: 3
+* Mobile screen reader: 2
+* Magnification/Zoom: 15
+* Hearing aids: 45
 
-
-## Underserved groups we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
+## Underserved groups we haven't talked to
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+* Screen reader users (only 3 participants)
+* Veterans under 25
+* Native American Veterans
