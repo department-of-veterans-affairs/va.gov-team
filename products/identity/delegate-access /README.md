@@ -1,6 +1,6 @@
 # Initiative outline: Delegate access MVP
 
-**Last Updated: April 7, 2025 -- Updated timeline**
+**Last Updated: April 22, 2025 -- Added legal questions**
      
 ## POCs
 **Slack channel**: [#identity](https://dsva.slack.com/channels/identity); [#sign-in-experience](https://dsva.slack.com/channels/sign-in-experience)
@@ -55,12 +55,23 @@ The hole that seems to be missing is what we anecdotally heard during the MHV us
 - How do caregivers manage their Veterans' business at VA (Eg. online, over the phone, in-person, etc)? What do caregivers actually do on behalf of Veterans?
 - What consent forms are needed to designate someone online delegate access?
 - How can we revoke access?
-- Is there a legally above-board way to grant delegate access to court-appointed guardians since the Veteran can not provide explicit consent? Does this population need online access?
 - How do court-appointed guardians manage their Veterans' care now? What do they manage (eg. just health care; other benefits)?
 - What are the consequences if we do not build delegate access?
 - Can we leverage the existing IAM delegate tool? If not, what do we need to build?
 - Where should the delegate designation and delegate <> Veteran relationship be stored?
 - Where should delegate consent forms be stored?
+
+### Process questions
+
+- How do doctors/medical staff determine someone is a caregiver that they're allowed to speak to, especially if a Veteran is unable to speak for themselves?
+- Once a doctor/medical staff has determined someone is a caregiver, what is that caregiver allowed to do (eg. refill prescriptions, talk to the medical team, etc)?
+- How does the caregiver program determine that someone is legitimately a caregiver?
+
+### Legal questions
+
+- Is the only way to give a person HIPAA-compliant access to a(nother) Veteran's online health tools through explicit consent?
+- Is there any way that is HIPAA-compliant to give court-appointed guardians or caregivers of people who are incapacitated access to a Veteran's online health tools?
+- What is the legal difference between a caregiver being there in person at an appointment vs. online access? Is it proving someone is who they say they are? Something else?
 
 ### Hypotheses
 
