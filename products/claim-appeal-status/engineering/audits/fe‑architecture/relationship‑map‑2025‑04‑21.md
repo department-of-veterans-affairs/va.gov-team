@@ -282,9 +282,6 @@ _No local dependencies_
 | `containers/FilesPage.jsx` | `cst5103UpdateEnabled` |
 | `containers/OverviewPage.jsx` | `cstClaimPhases` |
 | `containers/YourClaimsPageV2.jsx` | `FEATURE_FLAG_NAMES` |
-| `containers/YourClaimsPageV2.jsx` | `FEATURE_FLAG_NAMES` |
 | `selectors/index.js` | `FEATURE_FLAG_NAMES` |
 | `utils/appeals-v2-helpers.jsx` | `cstIncludeDdlBoaLetters` |
-| `utils/appeals-v2-helpers.jsx` | `cstIncludeDdlBoaLetters` |
-
-```
+| `utils/appeals-v2-helpers.jsx` | `cstIncludeDdlBoaLetters` |```
