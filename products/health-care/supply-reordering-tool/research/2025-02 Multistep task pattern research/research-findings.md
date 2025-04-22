@@ -36,22 +36,17 @@ Both tests contained identical questions but were paired with different prototyp
 
 ## Hypotheses and Conclusions
 
-1. **The average time to complete tasks will be lower on the new pattern.**
-   - **Definitely True**: Task completion times were significantly faster in prototype B, particularly for task 1 which showed a moderate-large effect size.
+1. The average time to complete tasks will be lower on the new pattern.
+   1. **DEFINITELY TRUE:** Task completion times were significantly faster in prototype B, particularly for task 1 which showed a moderate-large effect size. 
 
-2. **The task success rate will be greater on the new pattern.**
-   - **Definitely True**: Prototype B showed higher success rates across all tasks, with particularly strong effects in tasks 1 and 3 (Phi = -.410 and -.487 respectively).
+2. The task success rate will be greater on the new pattern. 
+   1. **DEFINITELY TRUE:** Prototype B showed higher success rates across all tasks, with particularly strong effects in tasks 1 and 3 (Phi = -.410 and -.487 respectively). 
 
-3. **A higher proportion of Veterans will find the new pattern to be more intuitive and satisfying than the old experience.**
-   - **Likely True**: Mann-Whitney tests showed statistically significant differences favoring prototype B, though practical differences were minimal.
+3. A higher proportion of Veterans will find the new pattern to be more intuitive and satisfying than the old experience. 
+   1. **LIKELY TRUE:** Mann-Whitney tests showed statistically significant differences favoring prototype B, though practical differences were minimal. 
 
-4. **Veterans expect to complete routine tasks quickly and in one session, rather than expecting to leave and come back to the task.**
-   - **Definitely True**: Pre-study data shows overwhelming preference for single-session task completion:
-     * Test A: 95.3% (365 of 383) finished tasks in one session
-     * Test B: 95.0% (364 of 383) finished tasks in one session
-     * Combined results show 95.15% of Veterans (729 of 766) complete tasks in one session
-     * Only 4.85% (37 of 766) reported leaving and returning to complete tasks
-   - This strong preference for single-session completion was consistent across both prototype versions
+4. Veterans expect to complete routine tasks quickly and in one session, rather than expecting to leave and come back to the task. 
+   1. **DEFINITELY TRUE:** Pre-study questionnaire data shows overwhelming preference for single-session task completion across both prototypes.  
 
 ## Key Findings
 
