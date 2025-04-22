@@ -14,7 +14,7 @@ We need to move AVA to VA.gov. It should be mobile friendly, accessible and easy
 * Review whether submitters are clear on when to use Ask VA and how to start
 
 ## Recruitment
-We will work with Perigean to recruit Veterans for this research.
+We worked with Perigean to recruit Veterans for this research.
 
 ## Date
-This research will take place in April 2024.
+This research took place in April 2024.
