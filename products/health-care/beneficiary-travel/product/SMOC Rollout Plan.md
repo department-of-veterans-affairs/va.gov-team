@@ -124,18 +124,16 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: 2 users, 5 submissions
+- Was any downstream service affected by the change?: [PICK_ONE]: no
+- Types of errors logged: none
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? none
 
 | Criteria | Measurement |
 | ----------- | ----------- |
-| All users are able to successfully submit a claim |   |
-| Error Count |   |
-| Claims appearing for Stations |  |
-| Claims in manual review |   |
+| All users are able to successfully submit a claim | 100%  |
+| Error Count | 0% |
+| Latency | 17.15 sec }
 
 ### Stage B: 25% of users
 
