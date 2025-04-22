@@ -14,7 +14,7 @@ After launching on VA.gov, we will focus on making quick, responsive improvement
 * Understand whether providing recommendations using automation will make it easier to ask a question or receive help
 
 ## Recruitment
-We will work with Perigean to recruit Veterans for this research.
+We worked with Perigean to recruit Veterans for this research.
 
 ## Date
-This research will take place from January to March 2025.
+This research took place from January to March 2025.
