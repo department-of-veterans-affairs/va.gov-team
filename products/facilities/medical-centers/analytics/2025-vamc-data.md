@@ -15,17 +15,6 @@
 ![image](https://github.com/user-attachments/assets/dd807bb7-3807-4662-a0ea-778a6b6007f4)
 
 
-## VAMC editor and facility stats
-> via Drupal
-
-|	Metric| Calendar Q1/2025 | Calendar Q2/2025	| Calendar Q3/2025 | Calendar Q4/2025 |
-|---|:---:|:---:|:---:|:---:|
-| Total # of active editors (active VAMC content creator) |||||
-| Total # of VAMC facilities |||||
-| Total # of VAMC system health services||||| 
-| Total # of VAMC facility health services |||||
-
-
 ## Summary data
 
 |	Month	|	 Total users 	|	 Returning users 	|	 New users 	|	 Event count 	|	 Views 	|	Engagement rate	|	Views per session	|	Average session duration	| Facility pageviews
@@ -33,6 +22,29 @@
 |	1	|	 1,437,733 	|	 518,340 	|	 902,382 	|	 11,836,429 	|	 3,552,731 	|	64%	|	1.767151572	|	3m 25 s	|  1,258,284 	|	  
 |	2	|	 1,251,304 	|	 450,485 	|	 776,380 	|	 10,052,225 	|	 3,124,530 	|	64%	|	1.795134311	|	3m 20s	| 1,095,953 |
 |	3	|	 1,341,031 	|	 466,148 	|	 829,943 	|	 10,618,138 	|	 3,290,082 	|	63%	|	1.707191299	|	3m 11s	| 1,182,134 |
+
+### Page contribution
+
+| Page |	Views | % of total|
+| --- | :---:|:---:|
+| Total views 1/1/2025 - 3/31/2025 	|	 9,908,613 	|	100%|
+|	Main system page	|	 2,121,811 	|	21.4%
+|	System health services and care coordinator pages	|	 241,041 	|	2.4%
+|	Location pages	|	 297,871 	|	3.0%
+|	Facility pages	|	 3,231,228 	|	32.6%
+|	Events and event listings	|	 124,341 	|	1.3%
+|	News release listing	|	 28,812 	|	0.3%
+|	News releases	|	 193,692 	|	2.0%
+|	Stories listing	|	 22,698 	|	0.2%
+|	Individual stories	|	 275,999 	|	2.8%
+|	About us	|	 194,664 	|	2.0%
+|	Policies	|	 20,190 	|	0.2%
+|	VA police	|	 20,574 	|	0.2%
+|	Work with us	|	 709,647 	|	7.2%
+|	Staff profiles	|	 120,840 	|	1.2%
+|	Programs	|	 643,488 	|	6.5%
+|	Contact us	|	 377,612 	|	3.8%
+|	Operating status 	|	 49,264 	|	0.5%
  
 ### Health services 
 >based on expand interactions on accordions
@@ -48,7 +60,7 @@
 |	Pharmacy|	2331	|	2233	|	1968	|
 |	Laboratory and pathology|	2250	|	1723	|	2385	|
 |	Whole health|	2119	|	1781	|	2333	|	
-|	 Caregiver support |	2231	|	1782	|	2219	|
+|	Caregiver support |	2231	|	1782	|	2219	|
 |	Optometry|	1913	|	1836	|	2247	|	
 | Rehabilitation and extended care|	1857	|	1515	|	2573	|	
 |	Emergency care|	1799	|	1754	|	1893	|	
