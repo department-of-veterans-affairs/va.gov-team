@@ -67,8 +67,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals (04/09/25)
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
+- [X] All goals have been updated in the sprint chart
+- [X] Any Additional details about goals **not** completed will be documented here
 - ENG: Complete the dev work for the Wizard new flow and be prepared for the release, pending CAIA Pages
   - Work for a high priority bug fix (adding additional items issue #107612) and feedback from staging review for One Debt Letter took priority over this goal
   - The work is now scheduled to be completed next sprint
