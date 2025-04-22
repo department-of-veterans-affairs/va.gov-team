@@ -24,13 +24,28 @@ body:
   validations:
     required: true
 - type: input
-  id: VA_Team / Slack Channel
+  id: VA_Team_Slack_Channel
   attributes:
     label: 3.) VA Team and Slack Channel 
     description: The VA Team you are with (Health Products, Benefit Tools Crew, Identity, Contact Center, CAIA, etc) and the best Slack channel to communicate with you.
     placeholder: 
   validations:
     required: true    
+- type: textarea
+  id: description
+  attributes:
+    label: 5.) Please explain which product will be impacted
+    description: Please explain which product (MyVA/Dashboard, Authenticated Menu, Profile)
+  validations:
+    required: true
+- type: input
+  id: Feature
+  attributes:
+    label: 7.) Features Impacted
+    description: What features will this change involve (Personal Info, Contact Info, Dashboard (name the section), Direct Deposit, etc.)
+    placeholder: If this is a new feature request put NA. 
+  validations:
+    required: true  
 - type: textarea
   id: problem
   attributes:
@@ -39,20 +54,12 @@ body:
   validations:
     required: true
 - type: textarea
-  id: description
+  id: how_it_works
   attributes:
-    label: 5.) Please explain how this change would work.
-    description: Please explain how this change or feature would solve the problem. 
+    label: 4.) Please explain how the change is supposed to work  
+    description: Describe the how the requested change is intended to work. 
   validations:
     required: true
-- type: input
-  id: Feature
-  attributes:
-    label: 7.) Features Impacted
-    description: What features will this change involve (Appointments, Prescriptions, Secure Messaging, Direct Deposit, Payments, Vaccines, Contact Information, etc.)
-    placeholder: If this is a new feature request put NA. 
-  validations:
-    required: true  
 - type: textarea
   id: existing_documentation
   attributes:
@@ -61,19 +68,19 @@ body:
   validations:
     required: true
 - type: input
-  id: mobile_readiness
+  id: auth_exp_readiness
   attributes:
-    label: 9.) Does your team have all the necessary materials (documents, designs, processes, analytics, APIs, etc) in place for Mobile to make these changes right now? 
-    description: Mobile wants to understand if the necessary integrations and project pre-requesistes are completed now or if Mobile will be blocked until future work is completed in order to better asses planning, scoping, and prioritization. 
+    label: 9.) Does your team have all the necessary materials (documents, designs, processes, analytics, APIs, etc) in place for AuthExp to make these changes right now? 
+    description: AuthExp wants to understand if the necessary integrations and project pre-requesistes are completed now or if AuthExp will be blocked until future work is completed in order to better asses planning, scoping, and prioritization. 
     placeholder: Yes / No
   validations:
     required: true
 - type: input
   id: discussion_VAHB_PO
   attributes:
-    label: 10.) Has this change been discussed with VAHB POs (Ryan or Don)? 
+    label: 10.) Has this change been discussed with AuthExp POs (Chante)? 
     description: 
-    placeholder: VAHB PO Name  - Yes / No
+    placeholder:  es / No
   validations:
     required: true
 - type: input
