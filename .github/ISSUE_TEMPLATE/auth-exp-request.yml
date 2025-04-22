@@ -32,24 +32,16 @@ body:
   validations:
     required: true    
 - type: textarea
-  id: description
+  id: description_feature
   attributes:
-    label: 4.) Please explain which product will be impacted
-    description: Please explain which product (MyVA/Dashboard, Authenticated Menu, Profile)
+    label: 4.) Please explain which product and features will be impacted
+    description: Please explain which product (MyVA/Dashboard, Authenticated Menu, Profile) / Features (Contact Information, Personal Information, Notification Settings etc) 
   validations:
     required: true
-- type: input
-  id: Feature
-  attributes:
-    label: 5.) Features Impacted
-    description: What features will this change involve (Personal Info, Contact Info, Dashboard (name the section), Direct Deposit, etc.)
-    placeholder: If this is a new feature request put NA. 
-  validations:
-    required: true  
 - type: textarea
   id: problem
   attributes:
-    label: 6.) Please explain what problem you are trying to solve.  
+    label: 5.) Please explain what problem you are trying to solve.  
     description: Describe the problem and its impact on Veteran experience so we can assess implementation. 
   validations:
     required: true
