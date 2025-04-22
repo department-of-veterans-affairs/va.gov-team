@@ -99,7 +99,7 @@ Let’s start with a few questions...
 
 1. What web browser do you use? *(Chrome / Firefox / Edge / Safari / _______)*
 
-#### For only assistive tech users
+### For only assistive tech users
 
 4. What assistive technology are you using right now? *(screen reader / magnifier _______________________)*
     - *(If **Dolphin** screen reader, won't be able to share screen on Zoom)*
@@ -117,50 +117,56 @@ Let’s start with a few questions...
 
 1. Is there anything else that we can do to support you during this session? *(RECORD AND DO!)*
 
-#### For everyone
+### For everyone
 
 9. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
 
 1. What VA benefits, if any, do you have experience with? 
     - *RECORD: health care / education / career services / disability / home loan / pension / life insurance / burial benefits / __________*
 
+1. Have you filled out a VA form online before? 
+- If so, can you tell me about your most recent experience?
 
 
-Before we look at the website, let’s start with a few warm-up questions.
+# User Tasks
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+## Task 1: Share screen
 
-- *(If applicable)* **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
+I would like you to share your screen with me so that I can see what you do during this session. Before we start, I want to make sure you know that screen share will show me your own screen, so if you'd like to close any apps or turn off notifications that you don't want me to see, you could do that now.
+
+- *(refer to Screen sharing instructions above, if needed)*
+- *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
+
+We can help guide you through this if you need help. Please say what you're doing out loud so that if there are any issues, we'll know what they are.
+
+1. Make sure that the Zoom application has focus
+
+1. Navigate to the screen share button
+
+1. Check the "share sound" checkbox (so we can hear their screen reader speaking)--may have to tab a LOT to get to this in the right pane
+
+1. Activate the screen share
+
+*(If we can't hear the screen reader)* Since I can't hear your screen reader and don't want to interrupt it, after I ask you to do something, I'll try to not say anything until you say that you're done or need help, OK?
 
 
+## Task 2: Open prototype
+Now I'd like you to open a website that I'm going to share with you. 
 
-## First Task: [TASK NAME] - X minutes
+I will *[email/text/dictate/put into the Zoom chat]* the URL: ***bit.ly/TBD***
+- *(If text or email)* Could the notetaker please text/email the link?
+- *(If asked, reassure that this is a legitimate link to what I want you to test)*
+- *(Might need to hold tablet horizontally so easier to read)*
 
-- [ ] Step 1
-- [ ] Step 2
+Did you get the link? 
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-> - [Etc]
+- *If “unsupported browser” error, ask to try a different browser or device, or share my screen (works for anyone) and mouse control (doesn't work w/iPhones)*
+- *If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
 
-## Second Task: [TASK NAME] - X minutes
+**You'll be interacting with a demo form today.** Since it's a demo, note that none of your actions will affect your VA information or benefits.
 
-- [ ] Step 1
-- [ ] Step 2
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
-
-## Third Task: [TASK NAME] - X minutes
+## Task 3: [TASK NAME] 
 
 - [ ] Step 1
 - [ ] Step 2
@@ -173,33 +179,43 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 # Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+*Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-## Consent to use video clips
+1. Overall, about everything on the website in this session...What worked *well* for you?
+1. What was *unclear or didn't work well* for you?
+1. What would you like to *change or add*?
+1. Is there anything else that we haven't talked about that you think I should know? 
 
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - **If yes:** Is there any part of our discussion you would NOT want shared in a video clip?
- 
-   <mark>**[Record answer here]**</mark>
+## Thank You and Closing - 3 minutes
 
+**Are you still okay if we use any video or audio clips from this session?** 
+- *(yes / no)*
+- *(If participant says yes)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
-## Thank-You and Closing - X minutes
+**We really appreciate you taking the time to share your thoughts with us today**. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+If you know any other Veterans or family members who might be willing to participate in a future research session like this one, you can pass along the web link that you'll receive in your email from our team. 
 
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+Thank you so much again, and I hope that you enjoy the rest of your day!
 
-Thank you so much again, and enjoy the rest of your day!
+*Open the Transcript panel, click **Save Transcript***
+
+*End meeting for all*
+
+## After Session 
+- Click "End" on zoom website
+- Download recording and closed caption (.vtt file)
+- Rename and save transcript file from Finder
+- Download notes
+- Debrief to my spreadsheet
+
+## Approvals
+- Martha Wilkes, OCTO Accessibility Strategist/Designer, on [MM-DD-2025]
+- Shane Strassberg, Research-Ops Lead, on [MM-DD-2025]
 
 
 # Emergency Exit 🚨
 
-In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). <mark>**Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.**</mark>
+We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 
----
 
-### Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
