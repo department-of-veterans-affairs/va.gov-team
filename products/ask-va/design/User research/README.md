@@ -15,7 +15,7 @@ This folder contains our user research documentation.
 |[Assistive technology - Form](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form)|Accessibility testing|August 2024|[#602](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/602)|
 |[Assistive technology - Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Dashboard)|Accessibility testing|September 2024|[#626](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/626)|
 |[Automation concept testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2025-01%20Automation%20concept%20testing)|Concept testing|January-February 2025|[#791](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/791)|
-|[Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/02-2025%20Comparative%20analysis)|Comparative analysis|February 2025||
+|[Comparative analyses](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2025-02%20Comparative%20analyses)|Comparative analysis|February 2025||
 
 ## Questions?
 
