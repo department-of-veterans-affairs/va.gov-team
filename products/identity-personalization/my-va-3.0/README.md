@@ -25,15 +25,16 @@
 [My VA is maintained by the authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team).
 ## Overview
 
-When Veterans log into VA.gov, [they expect to be met with an experience that reflects their personal circumstances at the VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-want-a-page-that-is-focused-on-current-information-specific-to-them-rather-than-generalized-information-for-all-veterans). My VA aims to surface actionable Veteran business. 
+[Upon sign in, Veterans expect to see actionable tasks and notifications, that are relevant to them, in a centralized location](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-want-a-page-that-is-focused-on-current-information-specific-to-them-rather-than-generalized-information-for-all-veterans). My VA aims to surface actionable and dynamic Veteran benefits.
+ 
 
-Our goal with 3.0 is to redesign the logged-in landing page to be action-oriented and notifications-driven, enabling Veterans to quickly understand what needs attention and take relevant next steps.
+Our goal with 3.0 is to redesign the logged-in landing page to be dynamic, action-oriented and notifications-driven, enabling Veterans to quickly understand what needs attention and take relevant next steps.
 
 ## Problem Statement
-Veterans currently land on a MyVA page that is not optimized for immediate action or visibility into time-sensitive updates. The experience for some sections is static, and Veterans often miss important information or fail to complete important service workflows because these tasks are not highlighted prominently. 
+Veterans currently land on a My VA page that is not optimized for immediate action or visibility into time-sensitive updates that are relevant to them. The experience for some sections is static, and Veterans often miss important information or fail to complete important service workflows because these tasks are not highlighted prominently.
 
-How might we reimagine the logged-in landing experience to surface timely, relevant, and personalized actions so that Veterans can confidently manage their benefits and services? 
-- To start, we plan to remove much of the static links and content that have built up over time.
+How might we reimagine the logged-in landing experience to surface timely, relevant, and personalized actions so that Veterans can confidently manage their benefits and services?
+- To start, we plan to remove much of the static links and content that have built up over time, and instead highlight personalized, dynamic information. 
 - We intend to[ use new components from the design patterns team that emphasize actions](https://www.figma.com/design/UOx5GSKdZW9GVAjy7078hT/AE-Design-Patterns---Critical-Action?node-id=2-129)
 
 
@@ -42,12 +43,13 @@ How might we reimagine the logged-in landing experience to surface timely, relev
 ### Desired 
 - Veterans are able to see what needs their attention right away (e.g., unread messages, pending document uploads, important deadlines, upcoming appointments).
 - Veterans can take quick action on priority items navigating quickly to the relevant onsite experience.
-- Veterans feel informed and in control of their benefits and services.
+- Veterans can navigate to centralized hubs when actions are not required, such as claims tracker, recent payments, etc.
 
 ### Undesired 
 - Veterans feel overwhelmed by too many notifications or unclear action prompts.
 - Veterans overlook important items due to poor prioritization or information hierarchy.
 - Veterans encounter irrelevant or redundant alerts that lead to frustration or distrust.
+- Veterans encounter static information that is not relevant to them.
 
 ## Business Outcomes 
 
@@ -70,10 +72,11 @@ NEED TO DISCUSS JUST TOSSED RANDOM THINGS IN HERE
 |----------------------|-----------------------------------|
 | Ease of use          | Task success rate                 | 
 | Ease of use          | Time to first action          |
+| Ease of use          | Reduction in search terms on MyVA     |
 | Service completion   | Document upload completion        | 
 | Service completion   |  Appointment confirmation      |
-| Trust/Satisfaction   | Net Promoter Score (NPS)          | 
-| Trust/Satisfaction   | Customer Satisfaction (CSAT)  |
+| Service completion   |  Increase in actions completed (tbd how to measure)   |
+| Trust/Satisfaction   | Customer Satisfaction (CSAT) Improvements |
 | Health               | % of users engaging with actionable content | 
 | Health               |  Bounce rate on MyVA page      |
 
@@ -99,6 +102,9 @@ THIS IS JUST AN IDEA WE CAN CONSIDER -  TO OPERATIONALIZE IT A BIT
 - [OCTO-Blue-Sky-2.0-2024-Leave-behind.pdf](https://github.com/user-attachments/files/19196922/OCTO-Blue-Sky-2.0-2024-Leave-behind.pdf)
 - [My Va Reimagined - research vs. current dashboard](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1741893873095/0f0731fe9f8ee4467870e1ef0eb5e374d5b50226)
 - [Governance Sharepoint doc](https://dvagov.sharepoint.com/:f:/s/AuthenticatedExperience2/Ep2R4PocTxdEtUMALnYk-W4BO5237d_jVlhszL-S66Nmog?e=CEWWxR) - Auth Exp > Documents > AE Governance
+
+## Research
+- [03/2025 My VA Secondary Research Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/research/2025-03-secondaryresearch/research-findings.md)
 
 ## Design
 
