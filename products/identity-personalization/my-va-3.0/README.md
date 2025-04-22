@@ -12,10 +12,11 @@
 - [Business Outcomes](#business-outcomes)
 - [Analytics](#analytics)
 - [Important Artifacts](#important-artifacts)
-- [Design](#Design)
-- [Frontend](#FrontEnd)
-- [Backend](#BackEnd)
-- [Security](#Security)
+- [Research](#research)
+- [Design](#design)
+- [Frontend](#frontend)
+- [Backend](#backend)
+- [Security](#security)
 - [How to Access and Test](#How-to-Access-and-Test)
 
 ## Communications 
