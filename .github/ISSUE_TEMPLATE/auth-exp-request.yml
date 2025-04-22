@@ -41,21 +41,14 @@ body:
 - type: textarea
   id: problem
   attributes:
-    label: 5.) Please explain what problem you are trying to solve.  
-    description: Describe the problem and its impact on Veteran experience so we can assess implementation. 
-  validations:
-    required: true
-- type: textarea
-  id: how_it_works
-  attributes:
-    label: 7.) Please explain how the change is supposed to work  
-    description: Describe the how the requested change is intended to work. 
+    label: 5.) What is the problem you're trying to solve and the proposed solution?
+    description: Describe the problem and its impact on Veteran experience and describe the how the requested change is intended to work so we can assess implementation. 
   validations:
     required: true
 - type: textarea
   id: existing_documentation
   attributes:
-    label: 8.) Please include all relevant documentation links for this change request.  
+    label: 6.) Please include all relevant documentation links for this change request.  
     description: Giving us access to documentation (product brief, APIs, research, web experience, flows, Github folder, etc) will allow Mobile to research and review existing materials.  
   validations:
     required: true
