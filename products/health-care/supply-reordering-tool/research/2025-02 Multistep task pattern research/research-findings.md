@@ -63,11 +63,10 @@ Labels: `design-patterns`, `interaction-pattern`
   * Task 1 showed biggest impact (moderate-large effect size)
   * Tasks 2 and 3 showed smaller differences as users became acclimated
   * Data wasn't normally distributed, hence use of Hedges's g
-![image](https://github.com/user-attachments/assets/4523f0e8-b1fd-4095-8bb6-fa771f6e0d12)
-![image (1)](https://github.com/user-attachments/assets/80b8d72a-883f-4dd2-a866-748aeb7a6d7c)
 
 
-2. **Higher success rates in new pattern across all tasks (Hypothesis 2)**
+
+2. **Veterans were more successful at completing their tasks with the new pattern (Hypothesis 2)**
 Labels: `design-patterns`, `usability`
 - Task 1: medium-large effect size (Phi = -.410)
 - Task 3: similar effect size (Phi = -.487)
