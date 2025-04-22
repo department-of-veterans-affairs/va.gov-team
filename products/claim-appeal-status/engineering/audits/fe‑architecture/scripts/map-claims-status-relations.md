@@ -1,4 +1,4 @@
-```
+```js
 #!/usr/bin/env node
 
 /**
