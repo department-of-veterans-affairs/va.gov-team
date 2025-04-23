@@ -72,14 +72,14 @@ body:
   id: duedate
   attributes:
     label: 12.) Is there a hard deadline associated with this request? 
-    description: If there isn't a hard deadline put today's date.
+    description: 
     placeholder: MM/DD/YYYY 
   validations:
-    required: true
+    required: false
 - type: textarea
   id: duedateexplanation
   attributes:
     label: 13.) If a hard due date, can you please explain why this deadline is selected and potential impacts to the product or other services if this deadline is not met?
     description: Put NA if there isn't a hard deadline.
   validations:
-    required: true
+    required: false
