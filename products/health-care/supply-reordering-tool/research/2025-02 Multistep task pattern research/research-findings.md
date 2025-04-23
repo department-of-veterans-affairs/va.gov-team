@@ -168,25 +168,27 @@ On the unavailable supply view, 86% of clicks were directed toward links instruc
 ---
 
 ## Recommendations
+1. **Make List View Cards Clickable:** Enable direct task initiation from list view cards to reduce unnecessary navigation steps.
+2. **Enhance Confirmation Alerts:** Include detailed order confirmation information (e.g., item names, quantities, expected delivery dates) and a clear acknowledgment of successful submission.
+3. **Redesign Cancel Functionality:** Remove in-task cancel buttons, improve post-order cancel options, and use exit modals with progress warnings for better clarity.
+4. **Unify Supply Lists:** Combine available and unavailable supplies into a single list view with filtering and sorting options to align with user expectations.
+5. **Streamline Navigation Flows:** Add direct links for unavailable supplies to reduce steps and improve cross-tool linking.
 
-
-## Next Steps
+### Next Steps
+1. Refine [design pattern guidance](https://www.figma.com/design/KFSP8a93vQCIAuOna67qIh/Multistep-task-pattern?node-id=619-25050) based on research findings and recommendations
+2. Share out findings with MHV portal teams as part of portal UX standardization work
 
 
 ## Further research needed
 
-* Test with screen reader users - this demographic was underrepresented
-* Investigate mobile usage patterns
-* Research category organization preferences
-* Test with Veterans who order multiple supply types regularly
+- Test how this pattern will work on other MHV tools
 
 ## Appendix
 
-Research plan
-Task scripts
-Optimal Workshop test A
-Optimal Workshop test B
-Quantitative data spreadsheet 
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/researchplan.md)
+[Task scripts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/taskscript.md)
+[Quantitative data spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/jina_ryu_va_gov/_layouts/15/doc2.aspx?sourcedoc=%7BB4A9C1A7-3BE5-4DB4-A75A-05BC9FE533EE%7D&file=240909_SM%20results%20for%20SPSS%20import%20-%20Copy.xlsx&action=default&mobileredirect=true) 
+[Affinity map mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1745010858431/ac4af6a06b51b80f65a8981d8bb16373eadef4db)
 
 ## Tools used for Synthesis
 - SPSS for statistical analysis
@@ -194,6 +196,6 @@ Quantitative data spreadsheet
 - Mural for affinity mapping
 
 ## Pages and applications used
-- Prototype A: [link]
-- Prototype B: [link]
-- Current production version: [link]
+- [Prototype A](https://www.figma.com/design/KFSP8a93vQCIAuOna67qIh/Multistep-task-pattern?node-id=955-52320&t=LFebsPrx4Q0zW0J5-1)
+- [Prototype B](https://www.figma.com/design/KFSP8a93vQCIAuOna67qIh/Multistep-task-pattern?node-id=951-12529&t=LFebsPrx4Q0zW0J5-1)
+
