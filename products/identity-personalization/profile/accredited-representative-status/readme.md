@@ -16,11 +16,11 @@ The `va.gov/profile/accredited-representative` Profile subpage reflects a user's
 
 The visibility of this Profile subpage follows standard Profile security practices. 
 
-1. This page is available to users with an LOA3 (i.e. identify-verified) account. :white_check_mark: 
+1. This page is **available** to users with an LOA3 (i.e. identify-verified) account. ✔️
     1. LOA3 accounts have an ICN and a corresponding record in the Master Person Index (MPI), formerly known as the Master Veteran Index (MVI).
-2. This page is not available to LOA1 users, these users can only see an "Account security" page with a warning to verify their identity. :red-x: 
-3. This page is not available to users classified as "incompetent", these users can only see an "Account security" page with a warning "We can't show your information". :red-x: 
-4. This page is not available to users with a fiduciary appointed, these users can only see an "Account security" page with a warning "We can't show your information". :red-x:
+2. This page is **not available** to LOA1 users, these users can only see an "Account security" page with a warning to verify their identity.❌ 
+3. This page is **not available** to users classified as "incompetent", these users can only see an "Account security" page with a warning "We can't show your information". ❌
+4. This page is **not available** to users with a fiduciary appointed, these users can only see an "Account security" page with a warning "We can't show your information". ❌
 
 ### Staging experience to verify these use cases
 
