@@ -116,3 +116,11 @@ Statements we know to be true, and endpoints we can use to validate them. These 
 1. We could check the User Profile `isVeteran` is `FALSE` and Letters Beneficiary `militaryService > character of service` is not "HONORABLE". This is a tenuous assumption. I can't find any schema for character of service in [v0/letters/beneficiary](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/operations/benefits_status/getLettersBeneficiary)
 2. Ideally we would use point 1 with the BGS endpoint mentioned in Hypothesis 3 to doubly confirm this person is not a veteran and not a dependent.
 3. If we determined this person was neither a veteran nor a dependent, would we even show the Benefit Summary and Service Verification Letter?
+
+## Next steps
+Quickly summarizing what steps remain before we can move ahead with the development effort
+
+* [] Confirm business logic for user groups. This is currently being undertaken in an async email thread.
+* [] Review API endpoints for relevant data to support business logic
+* [] `IF NECESSARY` Follow up with API team(s) to update data returned from endpoint(s)
+* [] Document relevant API endpoints and data used to translate business logic into UI layout
