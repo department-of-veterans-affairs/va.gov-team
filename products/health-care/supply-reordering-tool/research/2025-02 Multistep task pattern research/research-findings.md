@@ -34,92 +34,144 @@ Unmoderated A/B prototype testing using Optimal Workshop's prototype testing fea
 
 Both tests contained identical questions but were paired with different prototypes. SPSS was used for statistical analysis of results.
 
+---
+
 ## Hypotheses and Conclusions
 
 1. The average time to complete tasks will be lower on the new pattern.
-   1. **DEFINITELY TRUE:** Task completion times were significantly faster in prototype B, particularly for task 1 which showed a moderate-large effect size. 
-
-2. The task success rate will be greater on the new pattern. 
-   1. **DEFINITELY TRUE:** Prototype B showed higher success rates across all tasks, with particularly strong effects in tasks 1 and 3 (Phi = -.410 and -.487 respectively). 
-
-3. A higher proportion of Veterans will find the new pattern to be more intuitive and satisfying than the old experience. 
-   1. **LIKELY TRUE:** Mann-Whitney tests showed statistically significant differences favoring prototype B, though practical differences were minimal. 
-
-4. Veterans expect to complete routine tasks quickly and in one session, rather than expecting to leave and come back to the task. 
-   1. **DEFINITELY TRUE:** Pre-study questionnaire data shows overwhelming preference for single-session task completion across both prototypes.  
-
-## Key Findings
-1. Veterans completed tasks faster with new pattern. (Hypothesis 1)
-2. Veterans were more successful on tasks using the new pattern. (Hypothesis 2)
-3. Veterans found the new pattern more intuitive and satisfying. (Hypothesis 3)
-4. Veterans prefer single-session task completion. (Hypothesis 4)
-5. 
-
-
-## Details of Findings
-
-**Finding 1: Veterans completed tasks faster with the new pattern.**
-
-Labels: 
-
+- **DEFINITELY TRUE:** Task completion times were significantly faster in prototype B, particularly for task 1 which showed a moderate-large effect size.
 - There were statistically significant differences between the two prototypes (prototype 1 = A, 2 = B) in terms of time of task for all three tasks. Participants took consistently more time on prototype A when compared with B. ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/time.png))
 - Task 1 showed the biggest impact, with Hedges's g (used instead of Cohen's d because the data wasn't normally distributed) reflecting a moderate-large differences. Tasks 2 and 3 were smaller differences. ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/time_impact.png))
 - On average, it took participants **nearly double** the time to complete a task on prototype A vs. prototype B. For example, task 1 took group A around 250.68 seconds and group B 143.88 seconds (42.60% increase).
-  
-**Takeaway:** It took participants much longer to complete task 1 on prototype A when compared with prototype B. The difference is both statistically and practically significant. The practical significance of the differences between the two prototypes gets smaller as participants became acclimated and finished subsequent tasks more quickly. 
+- **Takeaway:** It took participants much longer to complete task 1 on prototype A when compared with prototype B. The difference is both statistically and practically significant. The practical significance of the differences between the two prototypes gets smaller as participants became acclimated and finished subsequent tasks more quickly.  
 
-
-**Finding 2: Veterans were more successful on tasks using the new pattern.**
-
-Labels: 
-
-- On task 1, there was a statistically significant difference in task success rates between prototypes A and B. Participants were more successful on prototype B, with a medium-large effect size (Phi = -.410) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/sucess1a.png))
+2. The task success rate will be greater on the new pattern. 
+- **DEFINITELY TRUE:** Prototype B showed higher success rates across all tasks, with particularly strong effects in tasks 1 and 3 (Phi = -.410 and -.487 respectively).
+- - On task 1, there was a statistically significant difference in task success rates between prototypes A and B. Participants were more successful on prototype B, with a medium-large effect size (Phi = -.410) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/sucess1a.png))
 - On task 2, the same, only with a small-medium effect size (phi = .282) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/success2.png))
 - On task 3, the same, but with a medium-large effect size (phi = -.487) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/success3.png))
+- **Takeaway:** Participants on prototype B were directly or indirectly successful more often on all tasks, but it was most pronounced on tasks 1 and 3. The differences were statistically significant and pronounced.
 
-**Takeaway:** Participants on prototype B were directly or indirectly successful more often on all tasks, but it was most pronounced on tasks 1 and 3. The differences were statistically significant and pronounced.
 
-
-**Finding 3: Veterans found the new pattern more intuitive and satisfying.**
-
-Labels: 
-
+3. A higher proportion of Veterans will find the new pattern to be more intuitive and satisfying than the old experience. 
+- **LIKELY TRUE:** Mann-Whitney tests showed statistically significant differences favoring prototype B, though practical differences were minimal.
 - We ran a Mann-Whitney test because the data were non-normal (couldn't use t-tests) to assess the post test questions and questions about ease and confidence. All were significantly different, in that prototype B people reported more ease, confidence, trust, etc. than prototype A. ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/ease.png))
 - However, this difference was pretty small (used Rank-biserial correlation to compute effect size - again, because the data were non-normal and variances weren't equal). ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/ease_mannwhitney.png))
 - When we asked "Were there any points during the tasks where you felt lost or unsure of what to do next?" the majority of participants responded "no" (75.97% for A, 78.06% for B)
 - When we asked "Is there anything you would add, remove, or change about this experience?" the majority of participants responded "no" (60.84% for A, 64.49% for B)
+- **Takeaway:** While there was statistically significant differences in CX metrics, they were minimal in real-world terms. 
 
-**Takeaway:** While there was statistically significant differences in CX metrics, they were minimal in real-world terms. 
-
-
-**Finding 4: Veterans prefer single-session task completion.**
-
-Labels: 
-
+4. Veterans expect to complete routine tasks quickly and in one session, rather than expecting to leave and come back to the task. 
+- **DEFINITELY TRUE:** Pre-study questionnaire data shows overwhelming preference for single-session task completion across both prototypes.
 - Most participants complete MHV tasks in one session (95.3% for A, 95% for B) vs. leaving and coming back to finish the task. 
 
+---
 
+## Key Findings
+1. Veterans frequently clicked on the list view cards to initiate their tasks, rather than using the "Start Order" action link.
+2. Most Veterans (95.3%) felt confident they successfully submitted their supply order, but some felt the confirmation alert lacked necessary details.
+3. Around half of Veterans (55%) successfully canceled their in-progress orders using the cancel button, but many misunderstood the process or missed the button entirely, highlighting a gap between perceived and actual task completion.
+4. While 70% of Veterans successfully located their unavailable supplies using the segmented bar control, only 50% of clicks were directed toward the "Unavailable" tab.
+5. Veterans generally understood when to click out to other tools to complete their tasks, but some requested reducing steps by integrating direct links for smoother navigation.
+   
+---
 
+## Details of Findings
+
+### 1. Veterans frequently clicked on the list view cards to initiate their tasks, rather than using the "Start Order" action link.
+
+When tasked with reordering hearing aid batteries, only 26% of clicks were directed at the "Start Order" link. The majority of clicks were distributed across the list view cards, suggesting that Veterans expected to start the task directly from the list view page. [Clickmap Link]
+
+Veterans provided feedback expressing dissatisfaction with the additional step of navigating to another page to start their order:
+
+> "Why go to a second page to order the supply? Why not just be able to click on it/select it and order from the first page? Skip the step of starting the order. Why else would I be on that page if it wasn’t to order more? Even if I was checking on the list/name of items, I can read those whether they are selectable or not."
+
+> "No, but it is your system and not a user’s way of ordering. Why add an extra layer to the ordering process? Double click on what needs to be ordered and be done."
+
+**Recommendation:** To better align the system with user expectations and reduce unnecessary steps, consider making the list view cards clickable, enabling users to directly initiate their tasks.
+
+---
+
+### 2. Most Veterans (95.3%) felt confident they successfully submitted their supply order, but some felt the confirmation alert lacked necessary details.
+
+The confirmation alert was generally effective in communicating order submission. However, a small subset of Veterans expressed concerns about the clarity and completeness of the alert. Suggestions to improve the confirmation alert included:
+
+**Adding Specific Order Details:**  
+Some Veterans wanted more detailed information in the confirmation alert, such as item names, quantities, and expected delivery dates.
+
+> "No... but I would have felt better if it told me exactly what I ordered rather than listing everything again and saying my order was complete."
+
+> "Your order of xxxxx was accepted and should be shipped on mm/dd/yyyy."
+
+**Providing Clearer Acknowledgment of Completion:**  
+A few Veterans indicated that the alert could more clearly communicate that their order was successfully submitted.
+
+> "Once order has been submitted, it would be nice to have an acknowledgment of receipt of the submission (ie., 'Thank you for your order')."
+
+**Recommendation:** Display the exact details of the items ordered, including names, quantities, and shipping information. Example: "You ordered 2 packs of hearing aid batteries. Expected delivery: 04/30/2025." Use a clear heading in the confirmation alert to indicate task completion and that VA received the Veteran’s order, such as "We got your order."
+
+---
+
+### 3. Around half of Veterans (55%) successfully canceled their in-progress orders using the cancel button, but many misunderstood the process or missed the button entirely, highlighting a gap between perceived and actual task completion.
+
+Several factors contributed to the gap between successful completion and user confidence in canceling orders:
+
+**Misinterpretation of Study Instructions:**  
+5.74% of participants stopped their task after seeing the cancellation modal, possibly misunderstanding the instructions to stop once they saw the modal, rather than clicking the “Confirm Cancellation” button.
+
+**Click Behavior Insights:**  
+The heatmap showed that only 18% of clicks were on the "Cancel" button/link. [Clickmap Link]  
+The majority of the remaining clicks were on the pre-selected item card, suggesting that some Veterans interpreted unchecking the box as canceling the order, potentially due to unclear study instructions.
+
+**Missed Cancel Option and Scrolling Behavior:**  
+Some Veterans did not scroll to the bottom of the page, likely missing the cancel button entirely.
+
+> "There should be a simple cancel button."
+
+**Post-Order Cancellation Expectations:**  
+A few participants attempted to find cancellation options after order submission, highlighting a desire for greater visibility and flexibility in managing orders.
+
+> "The order cancellation task wasn't very clear. I created an order with the expectation that when the order was submitted that I would have an opportunity to cancel... I'd suggest a true means of canceling an order that's been placed, perhaps in the confirmation email or as part of a status tab in the app itself."
+
+**Recommendation:** Remove the in-task cancel button as it tested poorly and incorporate exit modals that warn users about losing progress if they navigate away. Enhance post-order management by introducing options to cancel orders after submission.
+
+---
+
+### 4. While 70% of Veterans successfully located their unavailable supplies using the segmented bar control, only 50% of clicks were directed toward the "Unavailable" tab.
+
+The majority of remaining clicks were directed toward the “Start Order” action link, indicating that some veterans expected unavailable supplies to appear in the main order flow. Feedback also highlighted that the segmented bar control may lack sufficient visual distinction, making it easy to overlook. [Clickmap Link]
+
+> "The unavailable supply order not very evident. Make background bold or a different color."
+
+> "I would choose a different color than gray for the available/unavailable buttons, perhaps green for the available and red for the unavailable."
+
+> "The way that 'Available' and 'Unavailable' were highlighted was initially somewhat confusing. I'd like to have the non-selected item be blurred out or something like that to make it very clear I've selected the right tab. I have some macular degeneration going on and would like more than one indication that I've selected what I intended to select."
+
+Additionally, some Veterans found separating available and unavailable supplies into distinct views counterintuitive. They preferred to search for the item first and determine availability afterward:
+
+> "The 'Available' and 'Unavailable' is counterintuitive. If I am looking for supplies, I want to see the list of items FIRST. Why would I look for unavailable items? Just like shopping online at any merchant, you first find your item and THEN it will tell you availability."
+
+**Recommendation:** Combine available and unavailable supplies into a unified list view with filter and sort options. Use page navigation only when it aligns with veterans’ mental models, such as distinguishing between past and future appointments.
+
+---
+
+### 5. Veterans generally understood when to click out to other tools to complete their tasks, but some requested reducing steps by integrating direct links for smoother navigation.
+
+On the unavailable supply view, 86% of clicks were directed toward links instructing veterans to contact their provider or navigate to their messages using the My HealtheVet (MHV) secondary header. This demonstrates that veterans mostly understood the next step based on the existing content. However, some veterans expressed frustration with the multiple steps required and suggested clearer cross-tool linking to reduce task friction. [Clickmap Link]
+
+> "For those who use cellphones a lot, I found the pages a little difficult to size in order to view all material. I use iPhone 16. Most of us wish to avoid having to call VA for assistance; the long messages are horrible and wait times can be long. Most older vets hate automated answering due to the long explanations of options. Couldn’t there be a button for unavailable supplies that linked to a message platform? Messages are a more appropriate and succinct method of communication and provide a readable record."
+
+> "For unavailable - you shouldn't have to contact your provider. When you hit reorder, it should send a message to your doctor immediately and then they can refill it that way. You should also be able to click on the unavailable supply icon to pre-order it."
+
+**Recommendation:** Standardize cross-tool linking flows by adding direct links for unavailable supplies to streamline messaging and reduce navigation steps.
+
+---
 
 ## Recommendations
 
-* **Implement the new multistep pattern**
-    * Supporting evidence: Significantly faster completion times and higher success rates
-    * Priority: High
-
-* **Enable direct item selection**
-    * Supporting evidence: 28 users attempted direct interaction, 21 explicitly requested it
-    * Priority: Medium
-
-* **Separate supply categories**
-    * Supporting evidence: 32 users requested category separation, 23 reported confusion
-    * Priority: Medium
 
 ## Next Steps
 
-1. Update prototype B based on feedback (Owner: Design team)
-2. Implement category separation in next iteration (Owner: Development team)
-3. Test direct item selection pattern (Owner: Research team)
 
 ## Further research needed
 
@@ -145,55 +197,3 @@ Quantitative data spreadsheet
 - Prototype A: [link]
 - Prototype B: [link]
 - Current production version: [link]
-
-## Who we talked to
-
-**Recruitment criteria**
-We sought Veterans who:
-- Order medical supplies through VA.gov
-- Have ordered supplies in the last 6 months
-- Represent diverse age groups and technical comfort levels
-
-We talked to **383 participants.**
-
-Audience segment:
-* Veterans: 383
-* Caregivers: 0
-* Family members of a Veteran: 0
-
-Gender:
-* Male: 301
-* Female: 82
-
-Age:
-* 25-34: 45
-* 35-44: 89
-* 45-54: 102
-* 55-64: 98
-* 65+: 49
-
-Education:
-* High school degree or equivalent: 87
-* Some college (no degree): 92
-* Associate's degree/trade certificate: 76
-* Bachelor's degree: 89
-* Master's degree: 39
-
-Geographic location:
-* Urban: 245
-* Rural: 138
-
-Disability and Assistive Technology (AT):
-* Cognitive: 12
-* AT users: 8
-* Desktop screen reader: 3
-* Mobile screen reader: 2
-* Magnification/Zoom: 15
-* Hearing aids: 45
-
-## Underserved groups we haven't talked to
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-* Screen reader users (only 3 participants)
-* Veterans under 25
-* Native American Veterans
