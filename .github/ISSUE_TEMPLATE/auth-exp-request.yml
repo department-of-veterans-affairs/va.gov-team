@@ -79,7 +79,7 @@ body:
 - type: textarea
   id: duedateexplanation
   attributes:
-    label: 13.) If a hard due date, can you please explain why this deadline is selected and potential impacts to the product or other services if this deadline is not met?
-    description: Put NA if there isn't a hard deadline.
+    label: 13.) Explain your deadline/target. Are there potential impacts to the product or other services if this deadline is not met?
+    description: 
   validations:
     required: false
