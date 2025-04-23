@@ -136,7 +136,7 @@ Current:
 | VA.gov | 9 | Number who received an error while scheduling | Failed calls to the CC schedulihng API | DataDog StatsD | UAE |
 | VA.gov | 10 | Time to complete the process | Time between clicking "Schedule your appointment" and call to CC sheduling API | DataDog StatsD | UAE |
 
-**Removed 4/23/25:** per decision noted [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97072#issuecomment-2784643713).
+**Removed 4/7/25:** per decision noted [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97072#issuecomment-2784643713).
 | Use Case | Metric No. | Metric | Description | Capture Method | Responsible |
 |----- |----- | ------- | ------- | ----- | ----- | 
 | SMS | 4 | Number who successfully scheduled an appointment | Successful calls to the CC scheduling API | DataDog StatsD | UAE |
@@ -149,4 +149,9 @@ Current:
 #### GitHub Project Filters
 [GitHubProjectFiltersforCC.txt](https://github.com/user-attachments/files/18084585/GitHubProjectFiltersforCC.txt)
 
+## Decision-Log
+| Date | Decision | Notes / Reference |
+|----- |----- | ------- |
+| 3/4/25 | Pilot specialty type of care updated to optometry. | [Slack thread.](https://dsva.slack.com/archives/C06RMRJCLHH/p1741104235840649) |
+| 4/7/25 | Metrics refined in the table above. | [GitHub ticket comment.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97072#issuecomment-2784643713) |
 
