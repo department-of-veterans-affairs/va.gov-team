@@ -1,13 +1,13 @@
-# Analytics summary for the Family and Caregiver Benefits hub
+# Q1 2025 summary for the Family and Caregiver Benefits hub
 
 [Full data is available on Sharepoint](https://dvagov.sharepoint.com/:x:/r/sites/oitcontentiaeditorexp/_layouts/15/Doc.aspx?sourcedoc=%7B0de5ee89-72dd-4480-ac51-46a73d8c886b%7D&action=edit&wdinitialsession=ed6e1c00-ad73-c7e8-ccbe-6e9c48b7056f&wdrldsc=7&wdrldc=1&wdrldr=CanvasRenderingFailure)
 
 ## Page data
 
-Hub | Q4 2024<br>Page view | Q1 2025<br>Page views | Q4 2024<br>Entrance rate | Q1 2025<br>Entrance rate | Q4 2024<br>Bounce rate | Q1 2025<br>Bounce rate | Q4 2024<br>Exit rate | Q1 2025<br>Exit rate
-|---|---|---|---|---|---|---|---| ---
-New hub (equivalent pages) |	740,736	|866,083|	27.14%|	29.21%	|12.99%|	13.51%|	30.34%	|31.09%
-Original hub 	|1,178,240	||	29.90%	||	0.74%	||	33.29%	|
+Hub |Page views | Entrance rate | Bounce rate | Exit rate
+|---|---|---|---|---
+New hub (equivalent pages) |	866,083|	29.21%	|13.51%| 31.09%
+Original hub 	|1,178,240	|	29.90%	|	0.74%	|	33.29%	
 
 
 - Overall, page views are significantly lower, while entrance rate is equivalent and exit rate has slightly improved. Bounce rate is calculated difference in GA4 and can't be compared, however, bounce rates below 30% are considered low.
