@@ -3,7 +3,7 @@ description: Request access to Figma
 title: "Figma access request"
 labels: ['figma-access-request']
 assignees: 
-  - naomimarcussen, andreahewitt-odd, @department-of-veterans-affairs/platform-design
+  - naomimarcussen, andreahewitt-odd, tbaker1026, @department-of-veterans-affairs/platform-design
 body:
   - type: markdown
     attributes:
