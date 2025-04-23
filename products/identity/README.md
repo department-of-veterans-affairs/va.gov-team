@@ -9,7 +9,7 @@ The OCTO Identity team manages the authentication integration for VA.gov. We wor
 **NOW**
 - Delegate Access MVP
 - OKTA SSO Pilot
-_IAM is replacing the ISAM identity broker with an Okta-based solution and has requested our assistance in piloting the integration. _
+_IAM is replacing the ISAM identity broker with an Okta-based solution and has requested our assistance in piloting the integration._
 - Sign-In Transition: DMDC Federation
 _ON HOLD: Awaiting next steps from leadership._
   
