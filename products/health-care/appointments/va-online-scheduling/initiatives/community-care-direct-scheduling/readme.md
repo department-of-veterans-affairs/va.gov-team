@@ -131,7 +131,7 @@ This is TBD.
 | All | 1 | Customer/Veteran Experience | CSAT from Medallia survey on CC confirmation page and CC scheduling workflow pages | Medallia | UAE |
 | All | 2 | Number of approved CC referrals where Veteran has indicated a digital self-schedule preference | same | DataDog StatsD | UAE (we could do this if we are doing the other StatsD work) |
 | SMS | 3 | Number who started the process | User clicked the link sent them via SMS/email | DataDog StatsD | UAE |
-~~| SMS | 4 | Number who successfully scheduled an appointment | Successful calls to the CC scheduling API | DataDog StatsD | UAE |~~
+| SMS | 4 |~~ Number who successfully scheduled an appointment | Successful calls to the CC scheduling API ~~| DataDog StatsD | UAE |
 ~~| SMS | 5 | Number who received an error while scheduling | Failed calls to the CC schedulihng API | DataDog StatsD | UAE |~~
 ~~| SMS | 6 | Time to complete the process | Time between clicking the link and call to CC scheduling API  | DataDog StatsD | UAE |~~
 | VA.gov | 7 | Number who started the process | User clicked the "Schedule your appointment" link for a referral on the Referrals and Requests page | DataDog StatsD | UAE |
