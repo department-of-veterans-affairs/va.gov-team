@@ -19,7 +19,7 @@ There are two approachs for CST to get SC/HLR from Lighthouse API Claim Status e
    - The change from BEP team will affect the Lighthouse API endpoint by returning more claims. We need to make sure this is not going to affect other service calling this endpoint(such as mobile).
    - After we are switching the call to Lighthouse, we would want Caseflow API to allow filtering so they only return appeals without SC/HLR to avoid display duplicate claims.
 
-We are pursuing both approach at the moment because there are a lot of prerquisite from other teams we are not sure which one will be able to achieve sooner. However, the 2nd approach is the more preferable and long term solution.
+We are pursuing both approach at the moment because there are a lot of prerquisite from other teams we are not sure which one will be able to achieve sooner. However, the 2nd approach is the more preferable and long term solution due to less redundant API calls for better performance. In addition, we learned that SC and HLRs have always ended in VBMS, even if they were started in another system, so the risk of losing data with option two is low.
 
 ## Prerequisite effort from other teams
 
@@ -29,7 +29,7 @@ We are pursuing both approach at the moment because there are a lot of prerquisi
 
 ## Current progress
 
-As of 4/17/2025:
+As of 4/23/2025:
 
-1. Started the conversation with BEP team to ask for the datebase change.
-2. Started the conversation to submit request for Caseflow to make the endpoint change
+1. Started the conversation with BEP team to ask for the datebase change, currently working with OBA to confirm the list of EP030 and EP040 claim labels that should be visible to a user in CST.
+2. Submitted a request ticket for Caseflow endpoint changes
