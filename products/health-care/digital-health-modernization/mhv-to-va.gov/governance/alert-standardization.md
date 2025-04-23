@@ -29,7 +29,7 @@ flowchart TD
 ### Checks for ALL applications in the My HealtheVet portal
 1. All `/my-health` application pages should look for an ID-verified credential (IAL2) as the first-order criteria before rendering a page for users. If an ID-verified credential (IAL2) is not detected, the application should **redirect the user to the MHV-on-VA.gov landing page**, where the page will render an ID-verification alert (all other page content, including access to the tools and the secondary nav bar will be suppressed).
 2. If an ID-verified credential (IAL2) is detected, then `/my-health` application pages should check for the presence of a facility in the user's profile.
-3. If there is no facility in the profile, the application should **redirect the user to the MHV-on-VA.gov landing page**, where the page will render a "No access to My HealtheVet" alert (all other page content, including access to all health tools tools and the secondary nav bar will be suppressed).
+3. If there is no facility in the profile, the application should **redirect the user to the MHV-on-VA.gov landing page**, ~~where the page will render a "No access to My HealtheVet" alert (all other page content, including access to all health tools tools and the secondary nav bar will be suppressed)~~ Edit made 4/23/25: For Milestone 2, the landing page will no longer render a "No access to My HealtheVet" alert, but will instead be a modified landing page for non-patient users, which will include links for these users to download their data.
 4. If a facility is in the user's profile, then any health portal applications that do not rely on the MHV-API backend should be rendered. 
 
 ### Checks only for applications that rely on the MHV-API backend
@@ -65,7 +65,7 @@ NOTE: Screenshots below are taken from this [Figma file](https://www.figma.com/d
 
 </details>
 
-### No access to My HealtheVet alert screenshot
+### Non-patient landing page (previously was MHV landing page: No access to MHV
 
 <details><summary>MHV landing page: No access to MHV</summary>
 <img width="972" alt="Screenshot 2024-12-16 at 3 46 42 PM" src="https://github.com/user-attachments/assets/94231bd6-e773-45cb-bd71-5318642f80f3" />
