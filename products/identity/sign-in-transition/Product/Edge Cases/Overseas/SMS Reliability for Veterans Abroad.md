@@ -12,7 +12,7 @@ Per our initial investigation, [Identity Verification Issues for Veterans in the
 ### Key Findings
 
 * **Countries with Poor SMS Reliability:** The Philippines has notable SMS delivery challenges, especially in rural areas, exacerbated by legal restrictions. The Dominican Republic and Panama face inconsistent delivery outside urban centers. Germany, South Korea, Japan, and Italy occasionally experience carrier-level blocking of U.S. short codes. Additional countries with potential issues include India, China, Russia, Vietnam, Nigeria, Pakistan, Iran, Turkey, and Egypt.  
-* **Veteran Populations**: Approximately 55,000 veterans are enrolled in the VA’s overseas medical assistance program, with 6,000 active users. About 80% of VA claims originate from Panama, the Dominican Republic, Costa Rica, the Philippines, and Germany. Veterans also access care at bases in South Korea, Japan, Italy, Spain, and Germany.  
+* **Veteran Populations**: Approximately 55,000 Veterans are enrolled in the VA’s overseas medical assistance program, with 6,000 active users. About 80% of VA claims originate from Panama, the Dominican Republic, Costa Rica, the Philippines, and Germany. Veterans also access care at bases in South Korea, Japan, Italy, Spain, and Germany.  
 * **Impact of SMS Issues**: Despite a 96.2% international pass rate for ID.me identity verification, SMS failures, though relatively low, hinder timely access to VA services.
 
 ## 
