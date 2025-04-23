@@ -16,6 +16,7 @@
     - [Key Performance Indicators](#key-performance-indicators)
     - [Metrics to Capture](#metrics-to-capture)
     - [Metrics Dashboards](#metrics-dashboards)
+- [Decision-Log](#decision-log)
 
 ## Overview
 
