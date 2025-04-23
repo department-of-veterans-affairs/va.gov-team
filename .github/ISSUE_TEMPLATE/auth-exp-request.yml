@@ -18,7 +18,7 @@ body:
 - type: input
   id: PO_name_and_email
   attributes:
-    label: 2.) PO's Name and Email
+    label: 2.) VA PO's Name and Email
     description: PO's name and email address so we can contact them with questions related to feature approval.
     placeholder: Example Name and Email
   validations:
