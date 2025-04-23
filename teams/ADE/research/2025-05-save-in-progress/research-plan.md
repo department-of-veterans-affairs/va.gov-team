@@ -220,9 +220,8 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `May 12, Mon, 7 - 8 or 8:30 PM ET`
 - `May 13, Tue, 12 - 1 or 1:30 PM ET`
 - `May 13, Tue, 2 - 3 or 3:30 PM ET`
+- `May 14, Wed, 12 - 1 or 1:30 PM ET`
 - `May 14, Wed, 2 - 3 or 3:30 PM ET` 
-- `May 14, Wed, 5 - 6 or 6:30 PM ET`
-- `May 14, Wed, 7 - 8 or 8:30 PM ET`
 - `May 15, Thu, 12 - 1 or 1:30 PM ET`
 - `May 15, Thu, 2 - 3 or 3:30 PM ET`
 - `May 15, Thu, 5 - 6 or 6:30 PM ET`
