@@ -55,6 +55,14 @@ Next steps:
 *Please note, the center column are the CSAT baseline scores for Financial Management Pages and should be referenced when capturing monthly and quarterly CSAT scores as a comparison to note progress. The right side column are the CSAT baseline scores for ***all of VA.gov*** to compare to. 
 
 
+| Medallia Survey Question  | Financial Management Pages (MANAGE-VA-DEBT) Baseline CSAT Weighted Average | Fiscal Q2 JAN/FEB/MAR 2025 | Fiscal Q1 OCT/NOV/DEC 2024 | 
+|--|--|--|--|
+| VA.gov Experience Rating  | **49.01%** | **54.17%**, N = 168 | **59.49%**, N = 99 | 
+| Overall User Satisfaction With the Site  | **13.61%** | **20.1%**, N = 194 | **9.52%**, N = 147 |
+| Users Understanding of the VA.gov Website  | **49.64%** | **57.05%**, N = 149 | **51.72%**, N = 87 |
+| Users Trust in the VA's Commitment to Veterans  | **64.01%** | **71.26%**, N = 334| **59.82%**, N = 112 |
+| Users Trust in the VA in General  | **33.33%** | **47.66%**, N = 342 | **39.47%**, N = 114 | 
+
 
 
 ## Recommendations 
