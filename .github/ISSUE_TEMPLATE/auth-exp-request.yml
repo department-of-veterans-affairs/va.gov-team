@@ -55,7 +55,7 @@ body:
 - type: input
   id: discussion_VAHB_PO
   attributes:
-    label: 10.) Has this change been discussed with AuthExp PO (Chante)? 
+    label: 7.) Has this change been discussed with AuthExp PO (Chante)? 
     description: 
     placeholder:  Yes / No
   validations:
@@ -63,7 +63,7 @@ body:
 - type: input
   id: va_stakedholer_alignment
   attributes:
-    label: 11.) Has this change been agreed upon by all impacted VA Stakeholders? 
+    label: 8.) Has this change been agreed upon by all impacted VA Stakeholders? 
     description: 
     placeholder: Yes / No
   validations:
@@ -71,7 +71,7 @@ body:
 - type: input
   id: duedate
   attributes:
-    label: 12.) Is there a hard deadline associated with this request? 
+    label: 9.) Is there a hard deadline associated with this request? 
     description: 
     placeholder: MM/DD/YYYY 
   validations:
@@ -79,7 +79,7 @@ body:
 - type: textarea
   id: duedateexplanation
   attributes:
-    label: 13.) Explain your deadline/target. Are there potential impacts to the product or other services if this deadline is not met?
+    label: 10.) Explain your deadline/target. Are there potential impacts to the product or other services if this deadline is not met?
     description: 
   validations:
     required: false
