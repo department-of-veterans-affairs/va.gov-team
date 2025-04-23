@@ -130,9 +130,11 @@ Labels:
 
 ## Appendix
 
-[Research plan](link here)
-[Conversation guide](link here)
-[Interview transcripts](link here)
+Research plan
+Task scripts
+Optimal Workshop test A
+Optimal Workshop test B
+Quantitative data spreadsheet 
 
 ## Tools used for Synthesis
 - SPSS for statistical analysis
