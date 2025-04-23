@@ -30,21 +30,21 @@ Next steps:
 - Check for seasonality—are there recurring dips or peaks in satisfaction?
 
 2. Determine a Meaningful Baseline
-
+ 
 **The baseline CSAT scores have been defined based on yearly CSAT scores for years 2023, 2024, and 2025 to date (March 2025).**
-
+ 
 ***The formula is:***
-
+ 
 > Baseline CSAT= [(CSAT2023​×N2023​)+(CSAT2024​×N2024​)+(CSAT2025​×N2025​)​] / N2023​+N2024​+N2025​
-
-***Where:*** 
-
+ 
+***Where:***
+ 
 -   CSATyear​  = Customer Satisfaction Score for that year (in percentage)
     
 -   NyearNyear​  = Sample size (number of responses) for that year
-
+ 
 ### Baseline CSAT Scores (weighted averages, calculations based on Y2023, Y2024, YTD-3/2025) for Financial Management Pages only with a comparison across all VA.gov pages
-
+ 
 |  Baseline CSAT Score (calculations based on Y2023, Y2024, YTD-3/2025) | Financial Management Pages Only (MANAGE-VA-DEBT) | All of VA.gov |
 |--|--|--|
 |CSAT weighted average: VA.gov Experience Rating  | **49.01%** | 54.94% |
@@ -52,14 +52,14 @@ Next steps:
 |CSAT weighted average: Users Understanding of the VA.gov Website  | **49.64%** | 58.89% |
 |CSAT weighted average: Users Trust in the VA's Commitment to Veterans  | **64.01%** | 57.76% |
 |CSAT weighted average: Users Trust in the VA in General  | **33.33%** | 34.18% |
-
-
+ 
+ 
 *Please note, the center column are the CSAT baseline scores for Financial Management Pages and should be referenced when capturing monthly and quarterly CSAT scores as a comparison to note progress. The right side column are the CSAT baseline scores for ***all of VA.gov*** to compare to. 
-
+ 
 > 
-
+ 
 ### Baseline CSAT Scores (weighted averages, calculations based on Y2023, Y2024, YTD-3/2025) for Financial Management Pages only with Quarterly CSAT Scores 
-
+ 
 | Medallia Survey Question  | Financial Management Pages (MANAGE-VA-DEBT) Baseline CSAT Weighted Average | Fiscal Q2 JAN/FEB/MAR 2025 | Fiscal Q1 OCT/NOV/DEC 2024 | 
 |--|--|--|--|
 | VA.gov Experience Rating  | **49.01%** | **54.17%**, N = 168 | **59.49%**, N = 99 | 
@@ -67,8 +67,6 @@ Next steps:
 | Users Understanding of the VA.gov Website  | **49.64%** | **57.05%**, N = 149 | **51.72%**, N = 87 |
 | Users Trust in the VA's Commitment to Veterans  | **64.01%** | **71.26%**, N = 334| **59.82%**, N = 112 |
 | Users Trust in the VA in General  | **33.33%** | **47.66%**, N = 342 | **39.47%**, N = 114 | 
-
-
 
 ## Recommendations 
 
