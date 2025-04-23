@@ -166,18 +166,26 @@ Did you get the link?
 **You'll be interacting with a demo form today.** Since it's a demo, note that none of your actions will affect your VA information or benefits.
 
 
-## Task 3: [TASK NAME] 
+## Task 3: Form intro page
+I'd like you to take a look at this page, and then use it to get your military records.
 
-- [ ] Step 1
-- [ ] Step 2
+Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+[Sign in to start your request > Start your request]
 
-# Post-Task Interview - X minutes
+### Things to watch for:
+- [Does participant read the "You can save this request" light blue alert? Y / N]
+- [Does participant read the "We'll save your application on every change" Y / N]
+
+## Task 4: Fill out form
+Please continue filling out this form, but I want you to make up a fake name and other information so you don't share any personal information. 
+
+### Things to watch for:
+- [If participant says anything about saving the info entered, do they think it will be saved? Y / N]
+- [What (if anything) participant says about the progress bar]
+- [What (if anything) participant says about any error messages]
+
+# Post-Task Interview - 5 minutes
 
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 1. Overall, about everything on the website in this session...What worked *well* for you?
