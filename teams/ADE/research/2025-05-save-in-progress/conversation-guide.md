@@ -130,7 +130,7 @@ Let’s start with a few questions...
 
 # User Tasks
 
-## Task 1: Share screen
+## Task 0: Share screen
 
 I would like you to share your screen with me so that I can see what you do during this session. Before we start, I want to make sure you know that screen share will show me your own screen, so if you'd like to close any apps or turn off notifications that you don't want me to see, you could do that now.
 
@@ -150,7 +150,7 @@ We can help guide you through this if you need help. Please say what you're doin
 *(If we can't hear the screen reader)* Since I can't hear your screen reader and don't want to interrupt it, after I ask you to do something, I'll try to not say anything until you say that you're done or need help, OK?
 
 
-## Task 2: Open prototype
+## Task 00: Open prototype
 Now I'd like you to open a website that I'm going to share with you. 
 
 I will *[email/text/dictate/put into the Zoom chat]* the URL: ***bit.ly/TBD***
@@ -166,7 +166,7 @@ Did you get the link?
 **You'll be interacting with a demo form today.** Since it's a demo, note that none of your actions will affect your VA information or benefits.
 
 
-## Task 3: Form intro page
+## Task 1: Form intro page
 I'd like you to take a look at this page, and then use it to get your military records.
 
 Please **talk aloud** about what you're thinking BEFORE clicking on anything.
@@ -179,6 +179,22 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
 ## Task 4: Fill out form
 Please continue filling out this form, but I want you to make up a fake name and other information so you don't share any personal information. 
+
+
+## Stop filling out form for a few minutes
+
+Pretend that your doorbell just rang, and you jump up to answer it. What do you think will happen to the form that you've been filling out?
+
+`TEST THIS--how long do you need to leave in order for the form to reset`
+
+## Stop filling out form for lunch
+Say that you need to take a break from filling out the form and get some lunch. What do you thikn will happen to the form?
+
+## Finish filling out form
+`START FROM WHAT PAGE?`
+
+
+
 
 ### Things to watch for:
 - [If participant says anything about saving the info entered, do they think it will be saved? Y / N]
@@ -214,6 +230,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## After Session 
 - Click "End" on zoom website
+- Return to form to continue form and click **Start a new request** to remove all info entered
 - Download recording and closed caption (.vtt file)
 - Rename and save transcript file from Finder
 - Download notes
