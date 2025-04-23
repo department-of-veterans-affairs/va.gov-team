@@ -43,6 +43,8 @@ Next steps:
     
 -   NyearNyear​  = Sample size (number of responses) for that year
 
+### Baseline CSAT Scores (weighted averages, calculations based on Y2023, Y2024, YTD-3/2025) for Financial Management Pages only with a comparison across all VA.gov pages
+
 |  Baseline CSAT Score (calculations based on Y2023, Y2024, YTD-3/2025) | Financial Management Pages Only (MANAGE-VA-DEBT) | All of VA.gov |
 |--|--|--|
 |CSAT weighted average: VA.gov Experience Rating  | **49.01%** | 54.94% |
@@ -54,6 +56,9 @@ Next steps:
 
 *Please note, the center column are the CSAT baseline scores for Financial Management Pages and should be referenced when capturing monthly and quarterly CSAT scores as a comparison to note progress. The right side column are the CSAT baseline scores for ***all of VA.gov*** to compare to. 
 
+> 
+
+### Baseline CSAT Scores (weighted averages, calculations based on Y2023, Y2024, YTD-3/2025) for Financial Management Pages only with Quarterly CSAT Scores 
 
 | Medallia Survey Question  | Financial Management Pages (MANAGE-VA-DEBT) Baseline CSAT Weighted Average | Fiscal Q2 JAN/FEB/MAR 2025 | Fiscal Q1 OCT/NOV/DEC 2024 | 
 |--|--|--|--|
