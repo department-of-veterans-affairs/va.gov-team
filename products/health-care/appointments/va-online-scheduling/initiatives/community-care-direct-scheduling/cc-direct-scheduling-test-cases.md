@@ -1,4 +1,4 @@
-# Test Cases - Community Care Direct Scheduleing 
+# Test Cases - Community Care Direct Scheduling 
 
 ## [[Epic] Community Care Direct Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62496) 
 Allows Veterans who have indicated their preference to directly schedule their community care appointments to schedule their appointment on VA.gov
