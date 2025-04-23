@@ -66,7 +66,8 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 1. Do you have a service-connected disability at VA?
 - If yes: what is your disability rating?
 - If no, skip to question 2.
-2. When was the last time you visited a VA medical facility?
+2. Have you recently visited VA.gov?
+- If yes, asked if they've accessed it using a phone or tablet?
 
 ## First Task: [TASK NAME] - X minutes
 
