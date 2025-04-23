@@ -80,7 +80,7 @@ Both tests contained identical questions but were paired with different prototyp
 
 ### 1. Veterans frequently clicked on the list view cards to initiate their tasks, rather than using the "Start Order" action link.
 
-When tasked with reordering hearing aid batteries, only 26% of clicks were directed at the "Start Order" link. The majority of clicks were distributed across the list view cards, suggesting that Veterans expected to start the task directly from the list view page. [Clickmap Link]
+When tasked with reordering hearing aid batteries, only 26% of clicks were directed at the "Start Order" link. The majority of clicks were distributed across the list view cards, suggesting that Veterans expected to start the task directly from the list view page. ([clickmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/Clickmaps/Task%201%20B%20_%20Landing%20page%20a%20heatmap.png))
 
 Veterans provided feedback expressing dissatisfaction with the additional step of navigating to another page to start their order:
 
@@ -120,7 +120,7 @@ Several factors contributed to the gap between successful completion and user co
 5.74% of participants stopped their task after seeing the cancellation modal, possibly misunderstanding the instructions to stop once they saw the modal, rather than clicking the “Confirm Cancellation” button.
 
 **Click Behavior Insights:**  
-The heatmap showed that only 18% of clicks were on the "Cancel" button/link. [Clickmap Link]  
+The heatmap showed that only 18% of clicks were on the "Cancel" button/link. ([Clickmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/Clickmaps/Task%204%20B%20_%20Select%20supplies1%20heatmap.png)) 
 The majority of the remaining clicks were on the pre-selected item card, suggesting that some Veterans interpreted unchecking the box as canceling the order, potentially due to unclear study instructions.
 
 **Missed Cancel Option and Scrolling Behavior:**  
@@ -139,7 +139,7 @@ A few participants attempted to find cancellation options after order submission
 
 ### 4. While 70% of Veterans successfully located their unavailable supplies using the segmented bar control, only 50% of clicks were directed toward the "Unavailable" tab.
 
-The majority of remaining clicks were directed toward the “Start Order” action link, indicating that some veterans expected unavailable supplies to appear in the main order flow. Feedback also highlighted that the segmented bar control may lack sufficient visual distinction, making it easy to overlook. [Clickmap Link]
+The majority of remaining clicks were directed toward the “Start Order” action link, indicating that some veterans expected unavailable supplies to appear in the main order flow. Feedback also highlighted that the segmented bar control may lack sufficient visual distinction, making it easy to overlook. ([Clickmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/Clickmaps/Task%203%20B%20_%20Landing%20page%20a%20heatmap.png))
 
 > "The unavailable supply order not very evident. Make background bold or a different color."
 
@@ -157,7 +157,7 @@ Additionally, some Veterans found separating available and unavailable supplies 
 
 ### 5. Veterans generally understood when to click out to other tools to complete their tasks, but some requested reducing steps by integrating direct links for smoother navigation.
 
-On the unavailable supply view, 86% of clicks were directed toward links instructing veterans to contact their provider or navigate to their messages using the My HealtheVet (MHV) secondary header. This demonstrates that veterans mostly understood the next step based on the existing content. However, some veterans expressed frustration with the multiple steps required and suggested clearer cross-tool linking to reduce task friction. [Clickmap Link]
+On the unavailable supply view, 86% of clicks were directed toward links instructing veterans to contact their provider or navigate to their messages using the My HealtheVet (MHV) secondary header. This demonstrates that veterans mostly understood the next step based on the existing content. However, some veterans expressed frustration with the multiple steps required and suggested clearer cross-tool linking to reduce task friction. ([Clickmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/Clickmaps/Task%203%20B%20_%20Landing%20page%20b%20heatmap.png))
 
 > "For those who use cellphones a lot, I found the pages a little difficult to size in order to view all material. I use iPhone 16. Most of us wish to avoid having to call VA for assistance; the long messages are horrible and wait times can be long. Most older vets hate automated answering due to the long explanations of options. Couldn’t there be a button for unavailable supplies that linked to a message platform? Messages are a more appropriate and succinct method of communication and provide a readable record."
 
