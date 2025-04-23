@@ -29,8 +29,8 @@ The purpose of this research was to compare the old (form pattern, prototype A) 
 
 ## Methodology
 Unmoderated A/B prototype testing using Optimal Workshop's prototype testing feature. We published two tests:
-- **Prototype A (form pattern)**: Form pattern
-- **Prototype B (multistep task pattern)**: Task pattern
+- **Prototype A (form pattern)**: Form pattern (n=383)
+- **Prototype B (multistep task pattern)**: Task pattern (n=383)
 
 Both tests contained identical questions but were paired with different prototypes. SPSS was used for statistical analysis of results.
 
@@ -50,123 +50,56 @@ Both tests contained identical questions but were paired with different prototyp
 
 ## Key Findings
 1. Veterans completed tasks faster with new pattern. (Hypothesis 1)
-2. Veterans were more successful using new pattern. (Hypothesis 2)
+2. Veterans were more successful on tasks using the new pattern. (Hypothesis 2)
 3. Veterans found the new pattern more intuitive and satisfying. (Hypothesis 3)
 4. Veterans prefer single-session task completion. (Hypothesis 4)
 5. 
 
 
-1. **Veterans completed tasks faster with the new pattern (Hypothesis 1)**
-Labels: `design-patterns`, `interaction-pattern`
-- Task 1 showed the largest time difference with moderate-large effect size
-- Time differences diminished in subsequent tasks as users became familiar
-- Supporting data from Task 1:
-  * Test A average: 2m 45s
-  * Test B average: 1m 32s
-  * Effect size: Hedges's g showed moderate-large differences
-- Statistical analysis showed:
-  * Significant differences between prototypes for all three tasks
-  * Task 1 showed biggest impact (moderate-large effect size)
-  * Tasks 2 and 3 showed smaller differences as users became acclimated
-  * Data wasn't normally distributed, hence use of Hedges's g
-
-
-
-2. **Veterans were more successful at completing their tasks with the new pattern (Hypothesis 2)**
-Labels: `design-patterns`, `usability`
-- Task 1: medium-large effect size (Phi = -.410)
-- Task 3: similar effect size (Phi = -.487)
-- Task 2: small-medium effect size (phi = .282)
-- Success rates by task:
-  * Task 1: A = 76%, B = 92%
-  * Task 2: A = 82%, B = 89%
-  * Task 3: A = 71%, B = 94%
-- Statistical significance found in all tasks
-- Most pronounced differences in Tasks 1 and 3
-
-3. **Both prototypes were generally straightforward (Hypothesis 3)**
-Labels: `usability`
-- Task 1 Q3 "Were there any points during the tasks where you felt lost or unsure?":
-  * Test A: 291 Veterans (76%) said no, 92 (24%) said yes
-  * Test B: 299 Veterans (78%) said no, 84 (22%) said yes
-- Post-Study Q1 "Is there anything you would add, remove, or change?":
-  * Test A: 233 Veterans (61%) said no, 150 (39%) said yes
-  * Test B: 247 Veterans (64%) said no, 136 (36%) said yes
-- Mann-Whitney test results:
-  * Prototype B showed statistically significant higher ratings for ease, confidence, and trust
-  * Real-world differences were minimal (based on Rank-biserial correlation)
-  * Non-normal data distribution required non-parametric testing
-
-4. **Veterans want direct interaction with supplies (Hypothesis 4)**
-Labels: `interaction-pattern`, `navigation`
-- 28 users tried to click directly on items first
-- 21 Veterans explicitly mentioned wanting to click item boxes directly
-- 7 Veterans noted "Start Order" button wasn't prominent enough
-- Common quote: "I thought I could just click on the first item on the 3 item list that appeared"
-- Supporting Clickmap shows frequent clicks on item boxes instead of "Start Order" button
-[Heatmap placeholder showing click patterns]
-
-5. **Supply category separation needed**
-Labels: `information-architecture`, `navigation`
-- 32 users requested separation of CPAP and hearing aid supplies
-- 23 Veterans mentioned confusion about mixed supply types
-- 12 suggested category-specific views
-- Impact on task completion:
-  * 15% of errors related to category confusion
-  * Average 30 seconds added to task time when dealing with multiple categories
-- Common quote: "Mixing of the CPAP supplies with the hearing aid supplies made me pause"
-
-6. **Veterans expect single-session task completion**
-Labels: `user-expectation`, `task-completion`
-- Pre-study question 2 results show most Veterans complete tasks in one go
-- Strong preference for quick completion without navigation interruptions
-- Recommendation: Optimize for single-session completion
-- Avoid design patterns that encourage leaving the task flow
-
-7. **Clearer handling of unavailable supplies needed**
-Labels: `inventory-management`, `user-feedback`
-- 45 users requested clearer instructions for unavailable items
-- Common quote: "Make it easier to view and bullet/light up unavailable items or allow to back order items"
-- High frequency of mentions across both test versions
-- Users want clear visual indicators of item availability
-
-8. **Enhanced order confirmation and cancellation needed**
-Labels: `order-management`, `user-feedback`
-- 27 users requested clearer status updates
-- Common quote: "I think a final screen confirming the order has been successfully placed would be helpful"
-- Specific requests for:
-  * Order confirmation screens
-  * Cancellation confirmation
-  * Clear status indicators throughout process
-
 ## Details of Findings
 
-**Finding 1: Veterans completed tasks faster with the new pattern**
-Labels: `design-patterns`, `interaction-pattern`
+**Finding 1: Veterans completed tasks faster with the new pattern.**
 
-Task completion times were significantly faster in prototype B, particularly for initial tasks.
+Labels: 
 
-> "The step-by-step approach made it much clearer what I needed to do" - P12
+- There were statistically significant differences between the two prototypes (prototype 1 = A, 2 = B) in terms of time of task for all three tasks. Participants took consistently more time on prototype A when compared with B. ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/time.png))
+- Task 1 showed the biggest impact, with Hedges's g (used instead of Cohen's d because the data wasn't normally distributed) reflecting a moderate-large differences. Tasks 2 and 3 were smaller differences. ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/time_impact.png))
+- On average, it took participants **nearly double** the time to complete a task on prototype A vs. prototype B. For example, task 1 took group A around 250.68 seconds and group B 143.88 seconds (42.60% increase).
+  
+**Takeaway:** It took participants much longer to complete task 1 on prototype A when compared with prototype B. The difference is both statistically and practically significant. The practical significance of the differences between the two prototypes gets smaller as participants became acclimated and finished subsequent tasks more quickly. 
 
-> "I didn't have to think about where to look - each step was obvious" - P34
 
-**Finding 2: Higher success rates in new pattern**
-Labels: `design-patterns`, `usability`
+**Finding 2: Veterans were more successful on tasks using the new pattern.**
 
-Statistical analysis showed significantly higher success rates across all tasks in prototype B.
+Labels: 
 
-> "The new layout made it impossible to miss steps" - P45
+- On task 1, there was a statistically significant difference in task success rates between prototypes A and B. Participants were more successful on prototype B, with a medium-large effect size (Phi = -.410) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/sucess1a.png))
+- On task 2, the same, only with a small-medium effect size (phi = .282) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/success2.png))
+- On task 3, the same, but with a medium-large effect size (phi = -.487) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/success3.png))
 
-> "I liked how each step was clearly marked, couldn't mess it up if I tried" - P67
+**Takeaway:** Participants on prototype B were directly or indirectly successful more often on all tasks, but it was most pronounced on tasks 1 and 3. The differences were statistically significant and pronounced.
 
-**Finding 3: Direct interaction preference**
-Labels: `interaction-pattern`, `navigation`
 
-Veterans consistently attempted to interact directly with supply items rather than using form controls.
+**Finding 3: Veterans found the new pattern more intuitive and satisfying.**
 
-> "Why can't I just click the items I want?" - P78
+Labels: 
 
-> "It would be more natural to click directly on the supplies" - P89
+- We ran a Mann-Whitney test because the data were non-normal (couldn't use t-tests) to assess the post test questions and questions about ease and confidence. All were significantly different, in that prototype B people reported more ease, confidence, trust, etc. than prototype A. ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/ease.png))
+- However, this difference was pretty small (used Rank-biserial correlation to compute effect size - again, because the data were non-normal and variances weren't equal). ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/ease_mannwhitney.png))
+- When we asked "Were there any points during the tasks where you felt lost or unsure of what to do next?" the majority of participants responded "no" (75.97% for A, 78.06% for B)
+- When we asked "Is there anything you would add, remove, or change about this experience?" the majority of participants responded "no" (60.84% for A, 64.49% for B)
+
+**Takeaway:** While there was statistically significant differences in CX metrics, they were minimal in real-world terms. 
+
+
+**Finding 4: Veterans prefer single-session task completion.**
+
+Labels: 
+
+- Most participants complete MHV tasks in one session (95.3% for A, 95% for B) vs. leaving and coming back to finish the task. 
+
+
+
 
 ## Recommendations
 
