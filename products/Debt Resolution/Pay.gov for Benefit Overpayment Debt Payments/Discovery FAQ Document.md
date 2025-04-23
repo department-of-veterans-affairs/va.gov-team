@@ -12,3 +12,7 @@
 
  **3. What will a Veteran see when a payment is in 'pending' state?**
 - TBD
+
+**4. Can we pre-fill data for Veterans that they normally have to type out themselves on pay.va.gov?** 
+- This is a recurring issue that Veterans find frustrating when having to make a payment externally.
+
