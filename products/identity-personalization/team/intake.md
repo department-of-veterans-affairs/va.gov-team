@@ -34,42 +34,5 @@ We also have two smaller products, Nametag and the Authenticated Menu.
 ## Our Intake Process
 1. Review Common Integration Documentation as related to the change you'd like to implement on My VA or Profile.
    - If there is a task that you are attempting to complete but do not see documented let us know.
-3. Complete the intake ticket.
+3. [Complete the intake ticket.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=auth-exp-request.yml)
 4. Reach out to team on the #accountexp-authexp Slack channel for next steps.
-
---- 
-Ticket! :
-
-Add Title: 
-Change Request: [name of change]
-
-Requestor's Name and Email
-
-PO's Name and Email 
-
-VA Team / slack channel
-
-Please explain what problem you are trying to solve 
-
-Which product will be impacted? 
-
-Which Features are Impacted 
-
-Please explain how this change would work?
-
-
-## Link us to all the relevant things: 
-- Can you share a link to a product/project outline, brief, or description
-- Figma Files
-- Research
-- What is the timeline, and what is driving it?
-- Link to your collab cycle
-- What do you need our team to support/collaborate on?
-
-
-Has this change been discussed with Auth Exp PO - Chante? 
-
-Has the change been agreed upon by all impacted VA Stakeholders? 
-
- Is there a hard deadline associated with this request? If so, can you please explain why this deadline is selected and potential impacts to the app or other services if this deadline is not met?
-
