@@ -185,10 +185,10 @@ On the unavailable supply view, 86% of clicks were directed toward links instruc
 
 ## Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/researchplan.md)
-[Task scripts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/taskscript.md)
-[Quantitative data spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/jina_ryu_va_gov/_layouts/15/doc2.aspx?sourcedoc=%7BB4A9C1A7-3BE5-4DB4-A75A-05BC9FE533EE%7D&file=240909_SM%20results%20for%20SPSS%20import%20-%20Copy.xlsx&action=default&mobileredirect=true) 
-[Affinity map mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1745010858431/ac4af6a06b51b80f65a8981d8bb16373eadef4db)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/researchplan.md)
+- [Task scripts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/taskscript.md)
+- [Quantitative data spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/jina_ryu_va_gov/_layouts/15/doc2.aspx?sourcedoc=%7BB4A9C1A7-3BE5-4DB4-A75A-05BC9FE533EE%7D&file=240909_SM%20results%20for%20SPSS%20import%20-%20Copy.xlsx&action=default&mobileredirect=true) 
+- [Affinity map mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1745010858431/ac4af6a06b51b80f65a8981d8bb16373eadef4db)
 
 ## Tools used for Synthesis
 - SPSS for statistical analysis
