@@ -217,3 +217,300 @@ Write a generalized statement that combines what you know + what you think will 
 
 
 -   Remote only
+
+
+
+## Research materials 📔
+
+Note
+
+Your OCTO/VA lead must review and approve all research materials – including this plan – prior to submitting a recruitment request.
+
+Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.
+
+  
+
+For moderated usability tests:
+
+-   [Link to conversation guide]([https://docs.google.com/document/d/1oHGMLj5kTWYpbnnYuWJH_9e234vXKhRCC8z9aQ6nZuM/edit?tab=t.0](https://docs.google.com/document/d/1oHGMLj5kTWYpbnnYuWJH_9e234vXKhRCC8z9aQ6nZuM/edit?tab=t.0))
+    
+-   [Link to prototype]([https://zyc78g.csb.app/manage-va-debt](https://zyc78g.csb.app/manage-va-debt))
+    
+
+## Recruitment 🎯
+
+OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.
+
+Note
+
+Before writing your recruitment criteria, be sure to review the following resources:
+
+-   [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research.
+    
+-   [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
+    
+
+### Recruitment approach
+
+Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?
+
+Note
+
+-   Perigean CANNOT recruit VA employees or VSOs. Work with your VA lead to recruit these groups.
+    
+-   Perigean can also support remote, [unmoderated studies](https://depo-platform-documentation.scrollhelp.site/research-design/perigean-recruiting-process-for-unmoderated-studie), however, these studies require strict recruitment requirements.
+    
+-   Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+    
+
+  
+
+### We will have 3 cohorts: (1) Veterans with any debt or copays (2) Veterans with VBA debt who would dispute (3) AT sessions
+
+## Demographic must-haves for
+
+### Wizard > Digital Dispute (overpayments)
+
+### COHORT 1 total N = 6 (minimum)
+
+ Veterans that have overpayments and copays (most desirable for study) N = 6 (minimum) OR Veterans that have overpayments only
+
+and
+
+### Wizard only
+
+### COHORT 2 total N = 3 (minimum)
+
+Veterans that have copays or overpayments and copays
+
+### COHORT 3 (Veterans that use AT) total N = 2 (minimum)
+
+## Recruitment criteria
+
+Note
+
+-   Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.
+    
+-   Consider providing links to products and/or clear descriptions to ensure participants understand the question. Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+    
+
+Tip
+
+-   The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
+    
+-   Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
+    
+-   Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
+    
+
+List the total number and type (Veterans, caregivers, etc.) of participants for this study:
+
+  
+  
+
+-   Veterans: [10] - please recruit 20 Veterans
+    
+-   Caregivers: [0]
+    
+-   Dependents: [0]
+    
+-   Total: [10]
+    
+
+### Primary criteria (must-haves)
+
+What demographics, experience, and scenarios do you need participants to meet to effectively run your study?
+
+-   [Place primary criteria here between hash marks when in edit mode]
+    
+-   primary criteria
+    
+-   primary criteria
+    
+-   Add more criteria as needed
+    
+
+#### Secondary criteria (nice-to-haves)
+
+What criteria would strengthen your results?
+
+-   [Place secondary criteria here between hash marks when in edit mode]
+    
+-   secondary criteria
+    
+-   secondary criteria
+    
+-   Add more criteria as needed
+   
+### COHORT 1 total N = 6 (minimum)
+
+### Veterans that have overpayments and copays (most desirable for study) N = 6 (minimum) OR Veterans that have overpayments only
+
+### Wizard only
+
+### COHORT 2 total N = 3 (minimum)
+
+### Veterans that have copays or overpayments and copays
+
+
+### COHORT 3 (Veterans that use AT) total N = 2 (minimum)
+
+  
+  
+
+## Timeline 🗓️
+
+Note
+
+Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
+
+### Prepare
+
+When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+
+A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
+
+Note
+
+Send pilot participant email in study Slack channel
+
+  
+  
+
+-   Pilot participant name: [TBD]
+    
+-   Date and time of pilot session: [TBD]
+    
+
+### Research sessions
+
+-   Planned dates of research: [Enter dates MM/DD-MM/DD]
+    
+
+### Length of sessions
+
+-   Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)  60 minutes*
+    
+-   Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) [Enter buffer time]
+    
+
+  
+
+1 hour
+
+  
+
+-   Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?) [Enter NUM per day]
+    
+
+3 sessions per day max
+
+### Availability
+
+When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time.
+
+Note
+
+We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.
+
+Tip
+
+Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+
+Place time slots between hash marks when in edit mode.
+
+-   [MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST
+    
+-   [MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST
+    
+-   [MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST
+    
+-   [MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST
+    
+-   [MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST
+    
+-   Add more slots as needed
+    
+
+  
+
+Begins: Tuesday 5/6
+
+  
+
+Monday: 10am PT - 2pm PT
+
+Tuesday: 10am PT - 2pm PT
+
+Wednesday: 10am PT - 2pm PT
+
+Thursday: 10am PT - 2pm PT
+
+Friday: 10am PT - 2pm PT
+
+  
+
+  
+
+##   
+
+## Team Roles 🕵️👩‍💻👩‍🔬
+
+Note
+
+Please do not include email addresses in this section. We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
+
+Please list the names of people in each role. In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
+
+  
+
+-   ### Moderator: Charlotte Cesana
+    
+-   ### Research guide writing and task development (usually but not always same as moderator): Charlotte Cesana, Megan Gayle
+    
+-   ### Participant recruiting & screening: Charlotte Cesana, Megan Gayle
+    
+-   ### Project point of contact: Charlotte Cesana, Megan Gayle
+    
+-   ### Participant(s) for pilot test: [TBD]
+    
+-   ### Accessibility specialist (for sessions where support for assistive technology may be needed): [TBD]
+    
+-   ### Note-takers: Marcela Rojas, Megan Gayle, Perigean
+    
+
+  
+
+-   ### Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
+    
+-   ### Charlotte Cesana
+    
+-   ### Megan Gayle
+    
+-   ### Marcela Rojas
+    
+-   ### Derek Dyer
+    
+-   ### Heather Rienks
+    
+-   ### Denise Coveyduc
+    
+-   ### Tom Davis
+    
+-   ### Andrew Rodiek
+    
+-   ### Brandyn Sullins
+    
+-   ### Aaron Ponce
+    
+-   ### Josh Mills
+    
+-   ### Joni Chan
+    
+
+
+## Approvals ✅
+
+-   Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]
+    
+-   Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]
