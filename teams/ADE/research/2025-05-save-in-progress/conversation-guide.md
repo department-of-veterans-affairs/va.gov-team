@@ -181,13 +181,13 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 Please continue filling out this form, but I want you to make up a fake name and other information so you don't share any personal information. 
 
 
-## Stop filling out form for a few minutes
+## Short break in filling out form
 
 Pretend that your doorbell just rang, and you jump up to answer it. What do you think will happen to the form that you've been filling out?
 
 `TEST THIS--how long do you need to leave in order for the form to reset`
 
-## Stop filling out form for lunch
+## Long break in filling out form
 Say that you need to take a break from filling out the form and get some lunch. What do you thikn will happen to the form?
 
 ## Finish filling out form
