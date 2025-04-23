@@ -58,4 +58,10 @@ Original hub| 	55.53%|	50	|57.25%|	39|	25.33%	|98
   - Searches related to "dependent" - 2.48% of all queries. Example terms: "add dependent", "dependents", "add dependents", "dependant"
   - Searches related to "survivor benefits" - 1.51% of all queries. Example terms: "survivor benefits", "dic", "burial benefits"
 
+
 ### Page engagement**
+
+
+## Recommendations
+
+- The current family and caregiver benefit hub landing page does not include a link or reference to managing dependents. This was originally not included given it is information that impacts the Veteran's benefits not the family members.  Adding a link to this feature within the hub should be considered. 
