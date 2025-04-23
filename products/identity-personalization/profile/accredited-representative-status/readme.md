@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `va.gov/profile/accredited-representative` Profile subpage reflects a user's (Veteran or claimant) current representative status. This feature is scheduled to release in March 2025 and is managed by the feature `flag representative_status_enable_v2_features`.  
+The `va.gov/profile/accredited-representative` Profile subpage reflects a user's (Veteran or claimant) current representative status. **This feature is scheduled to release in March 2025** and is managed by the feature `flag representative_status_enable_v2_features`.  
 
 ## Possible User States
 
