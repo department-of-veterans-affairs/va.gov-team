@@ -130,7 +130,7 @@ Are there moments that matter?</summary>
 - `ALL / Participants have a VA.gov or MyHealtheVet account`
 - `16 / Very frequent VA.gov users (Daily or Weekly)`
 - `16 / Frequent VA.gov users (Monthly)`
-- `16 / Non frequent VA.gov users (Every few months, Never, but am open to using VA.gov)`
+- `16 / Non frequent VA.gov users (Every few months or Never, but am open to using VA.gov)`
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
@@ -188,9 +188,9 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Project point of contact:` **Janelle Finnerty**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **N/A**	
 - `Note-takers:` **N/A**	
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work.
+- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work.`
 
-- **N/A**
+     - **N/A**
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
