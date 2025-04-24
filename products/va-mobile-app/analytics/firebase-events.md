@@ -1,4 +1,4 @@
-# Firebase Events
+# Data Dictionary: Firebase Events
 
 Last updated: 4/24/2025
 
