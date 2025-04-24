@@ -1,5 +1,5 @@
 # Product outline for Ask VA
-Last updated by @beckyphung on April 2, 2025
+Last updated by @beckyphung on April 24, 2025
 This product outline gives an overview of the Ask VA product. Below are our current initiatives:
 
 |Initiatives|Status|Launch date|
@@ -17,7 +17,7 @@ This product outline gives an overview of the Ask VA product. Below are our curr
 ## Overview
 Ask VA (AVA) is a digital support channel for Veterans, family members and other submitters. You can use Ask VA to ask a question about education benefits, disability compensation, health care and many other topics. Ask VA should only be used for non-urgent needs.
 
-You can currently reach Ask VA at [ask.va.gov](https://ask.va.gov/). By end of March 2025, you'll be able to reach Ask VA on VA.gov at [va.gov/contact-us/ask-va](https://va.gov/contact-us/ask-va).
+You can currently reach Ask VA at [ask.va.gov](https://ask.va.gov/). By end of May 2025, you'll be able to reach Ask VA on VA.gov at [va.gov/contact-us/ask-va](https://va.gov/contact-us/ask-va).
 
 ## Problem statement
 **Background**: Veterans and family members can ask a variety of questions to VA because VA offers many different types of benefits. There are different VA staff teams, each specialized in answering specific types of questions. Reaching out to VA online can be more convenient and accessible than calling or visiting a VA facility in person.
