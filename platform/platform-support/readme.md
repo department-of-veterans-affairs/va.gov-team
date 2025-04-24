@@ -20,18 +20,17 @@ More specifically, Tier 1 triages tickets as they are submitted and ensures they
 
 ### Our Work at a Glance
 
-* [GitHub Support Queue Board (https://github.com/orgs/department-of-veterans-affairs/projects/1408/views/1)]
-* [GitHub Sprint Work Board (https://github.com/orgs/department-of-veterans-affairs/projects/1408/views/1)]
-* [DSVA Slack Support Request Channel (https://dsva.slack.com/archives/CBU0KDSB1)
-]* [DSVA Slack Team Discussions (#platform-tech-team-support https://dsva.slack.com/archives/C02RLAUM2LV)]
-* [DSVA Slack Support Request Channel(https://vfs.atlassian.net/wiki/spaces/PTST/pages/2632286220/Launched+Support+Enhancements+Documentation)]
-* [Support Documentation (https://depo-platform-documentation.scrollhelp.site/support/)]
+* [GitHub Support Queue Board](https://github.com/orgs/department-of-veterans-affairs/projects/1408/views/1)
+* [GitHub Sprint Work Board](https://github.com/orgs/department-of-veterans-affairs/projects/1408/views/1)
+* [DSVA Slack Support Request Channel](https://dsva.slack.com/archives/CBU0KDSB1)
+* [DSVA Slack Platform Support Team Channel](https://dsva.slack.com/archives/C02RLAUM2LV)
+* [Support Documentation](https://depo-platform-documentation.scrollhelp.site/support/)
 
 
 ### DSVA Slack Channels
 
-* DSVA Slack Support Request Channel: #vfs-platform-support 
-* DSVA Slack Team Discussions: #platform-tech-team-support
+* [DSVA Slack Support Request Channel](https://dsva.slack.com/archives/CBU0KDSB1)
+* [DSVA Slack Platform Support Team Channel](https://dsva.slack.com/archives/C02RLAUM2LV)
 
 
 ### Key Stakeholders
