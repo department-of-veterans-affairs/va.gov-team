@@ -160,7 +160,7 @@ Are there moments that matter?</summary>
 - **Not applicable due to being an unmoderated study.**
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
+When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time.** 
 
 > [!NOTE]
 > We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
@@ -180,21 +180,17 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
 > [!NOTE]
-> **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
->
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-- `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Enter full name]**		
-- `Participant recruiting & screening:`	**[Enter full name]**	
-- `Project point of contact:` **[Enter full name]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
-- `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
+- `Moderator:` **Janelle Finnerty**	
+- `Research guide writing and task development (usually but not always same as moderator):` **Janelle Finnerty**		
+- `Participant recruiting & screening:` **Perigean**	
+- `Project point of contact:` **Janelle Finnerty**		
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **N/A**	
+- `Note-takers:` **N/A**	
+- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work.
 
-- **[Enter full name]**
-- **[Enter full name]**
-- **[Enter full name]**
+- **N/A**
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
