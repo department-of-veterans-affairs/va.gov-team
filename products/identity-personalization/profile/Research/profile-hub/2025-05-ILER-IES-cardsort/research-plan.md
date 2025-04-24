@@ -52,9 +52,9 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-`1.` **Validate if incorporating the ILER IES report into a new Letters and documents section in the VA.gov Profile matches Veterans mental models.**
+`1.` Validate if incorporating the ILER IES report into a new Letters and documents section in the VA.gov Profile matches Veterans mental models.
 
-`2.` **Validate if contents of the new Letters and documents section in the VA.gov Profile match Veterans mental models.**
+`2.` Validate if contents of the new Letters and documents section in the VA.gov Profile match Veterans mental models.
 
   
 ### Outcome
@@ -68,9 +68,9 @@ Are there moments that matter?</summary>
 
 ### Research questions
 
-**`1.`What data points, that exist on the VA.gov Profile currently, do Veterans associate with a Letters and documents section?**
+`1.`What data points, that exist on the VA.gov Profile currently, do Veterans associate with a Letters and documents section?
 
-**`2.`Do Veterans associate the ILER IES report with Letters and documents?**
+`2.`Do Veterans associate the ILER IES report with Letters and documents?
 
 
 ### Hypotheses
