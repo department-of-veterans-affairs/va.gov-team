@@ -69,4 +69,10 @@ Allows Veterans who have indicated their preference to directly schedule their c
  ### [Error Case 9 - Alert after 30 seconds of loading](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=6477-13801&t=sQMaNfMSmDTNRp2w-4)
 
  ### [Error Case 10 - Alert if EPS returns an error while loading](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=6477-14056&t=sQMaNfMSmDTNRp2w-4)
+
+ ### [Error Case 11 - Referrals and requests, entire page error](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=6750-7680&t=sQMaNfMSmDTNRp2w-4)
+
+ ### [Error Case 12 - Referrals and requests, Referrals error](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=6750-7699&t=sQMaNfMSmDTNRp2w-4)
+
+ ### [Error Case 13 - Referrals and requests, Requests error](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=6750-7634&t=sQMaNfMSmDTNRp2w-4)
  
