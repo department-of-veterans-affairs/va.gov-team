@@ -6,8 +6,8 @@ Last updated: 4/24/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_allergy_details` | |
-| `vama_allergy_list` | |
+| `vama_allergy_details` | view allergy details |
+| `vama_allergy_list` | view allergies list |
 
 
 ## Appointments
