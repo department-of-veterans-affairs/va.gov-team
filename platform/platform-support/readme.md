@@ -20,12 +20,12 @@ More specifically, Tier 1 triages tickets as they are submitted and ensures they
 
 ### Our Work at a Glance
 
-* [GitHub Support Queue Board](https://vfs.atlassian.net/wiki/spaces/PTST/pages/2632286220/Launched+Support+Enhancements+Documentation](https://github.com/orgs/department-of-veterans-affairs/projects/1408/views/1)
-* [GitHub Sprint Work Board](https://vfs.atlassian.net/wiki/spaces/PTST/pages/2632286220/Launched+Support+Enhancements+Documentation](https://github.com/orgs/department-of-veterans-affairs/projects/1408/views/1)
-* [DSVA Slack Support Request Channel]([https://vfs.atlassian.net/wiki/spaces/PTST/pages/2632286220/Launched+Support+Enhancements+Documentation](https://github.com/orgs/department-of-veterans-affairs/projects/1408/views/1)](https://dsva.slack.com/archives/CBU0KDSB1)
-* [DSVA Slack Team Discussions](#platform-tech-team-support https://dsva.slack.com/archives/C02RLAUM2LV
-* [DSVA Slack Support Request Channel](https://vfs.atlassian.net/wiki/spaces/PTST/pages/2632286220/Launched+Support+Enhancements+Documentation](https://github.com/orgs/department-of-veterans-affairs/projects/1408/views/1](https://depo-platform-documentation.scrollhelp.site/support/))](https://dsva.slack.com/archives/CBU0KDSB1)
-* [Support Documentation](https://vfs.atlassian.net/wiki/spaces/PTST/pages/2632286220/Launched+Support+Enhancements+Documentation](https://github.com/orgs/department-of-veterans-affairs/projects/1408/views/1](https://depo-platform-documentation.scrollhelp.site/support/) 
+* [GitHub Support Queue Board (https://github.com/orgs/department-of-veterans-affairs/projects/1408/views/1)]
+* [GitHub Sprint Work Board (https://github.com/orgs/department-of-veterans-affairs/projects/1408/views/1)]
+* [DSVA Slack Support Request Channel (https://dsva.slack.com/archives/CBU0KDSB1)
+]* [DSVA Slack Team Discussions (#platform-tech-team-support https://dsva.slack.com/archives/C02RLAUM2LV)]
+* [DSVA Slack Support Request Channel(https://vfs.atlassian.net/wiki/spaces/PTST/pages/2632286220/Launched+Support+Enhancements+Documentation)]
+* [Support Documentation (https://depo-platform-documentation.scrollhelp.site/support/)]
 
 
 ### DSVA Slack Channels
