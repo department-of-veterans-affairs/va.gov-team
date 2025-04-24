@@ -20,3 +20,5 @@
 **5. Is there documentation on design guidelines for this hosted page?** 
 - Are there examples available of other hosted pages?
 - How much can we alter on this hosted page?
+
+**6. Will there be still be an unauthenticated way to pay for Veterans who learn about a payment due from a letter in the mail?** 
