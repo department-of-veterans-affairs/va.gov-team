@@ -1,6 +1,6 @@
 # How prefill works
 
-Last updated by @tygindraux: January 2, 2025
+Last updated by @tygindraux: April 24, 2025
 
 **Jump to:**
   - [Initial prefill pattern](#initial-prefill-pattern)
@@ -50,20 +50,22 @@ There's additional prefill that happens within the form when it's available. The
 
 |Page|Field|Prefill source|
 |:--|:--|:--|
-|Branch of service|`Branch of service`|VA Profile|
-|Your contact information|`Phone number`|VA Profile or AVA Profile for business submitters|
-|Your contact information|`Email address`|VA Profile or AVA Profile for business submitters|
-|Your mailing address|`Country`|VA Profile|
-|Your mailing address|`Street address`|VA Profile|
-|Your mailing address|`Apartment or unit number`|VA Profile|
-|Your mailing address|`Street address 2`|VA Profile|
-|Your mailing address|`Street address 3`|VA Profile|
-|Your mailing address|`City`|VA Profile|
-|Your mailing address|`State`|VA Profile|
-|Your mailing address|`Postal code`|VA Profile|
-|Your location of residence|`State/Province/Region`|VA Profile|
-|Your postal code|`Postal code`|VA Profile|
-|School information|`School facility`|AVA Profile for business submitters|
+|Branch of service|`Branch of service`|VA.gov Profile|
+|Your contact information|Personal `Phone number`|Home phone number in VA.gov Profile|
+|Your contact information|Personal `Email address`|Contact email in VA.gov Profile|
+|Your contact information|Business `Phone number`|Work phone number in VA.gov Profile|
+|Your contact information|Business `Email address`|Business email in AVA Profile|
+|Your mailing address|`Country`|Mailing address in VA.gov Profile|
+|Your mailing address|`Street address`|Mailing address in VA.gov Profile|
+|Your mailing address|`Apartment or unit number`|Mailing address in VA.gov Profile|
+|Your mailing address|`Street address 2`|Mailing address in VA.gov Profile|
+|Your mailing address|`Street address 3`|Mailing address in VA.gov Profile|
+|Your mailing address|`City`|Mailing address in VA.gov Profile|
+|Your mailing address|`State`|Mailing address in VA.gov Profile|
+|Your mailing address|`Postal code`|Mailing address in VA.gov Profile|
+|Your location of residence|`State/Province/Region`|Mailing address in VA.gov Profile|
+|Your postal code|`Postal code`|Mailing address in VA.gov Profile|
+|School information|`School facility`|School facility in AVA Profile|
 
 Note: Additional information about how we source from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-profile).
 
