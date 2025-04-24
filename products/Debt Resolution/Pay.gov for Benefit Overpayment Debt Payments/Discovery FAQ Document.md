@@ -18,5 +18,5 @@
 
 
 **5. Is there documentation on design guidelines for this hosted page?** 
-- Are there examples available?
+- Are there examples available of other hosted pages?
 - How much can we alter on this hosted page?
