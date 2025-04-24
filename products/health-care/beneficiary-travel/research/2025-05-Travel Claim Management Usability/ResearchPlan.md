@@ -63,7 +63,7 @@ Video interviews over Zoom.  We will rotate the order in which tasks are asked o
 
 
 * [Link to conversation guide](url goes here)
-* [Link to prototype](https://qr8mnn.csb.app/travel-claim-detail-denied.html)
+* [Link to prototype]( https://qr8mnn.csb.app/travel-claim-listing.html)
 
 
 ## Recruitment
