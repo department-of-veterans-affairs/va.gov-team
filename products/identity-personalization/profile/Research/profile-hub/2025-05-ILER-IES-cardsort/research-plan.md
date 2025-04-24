@@ -5,9 +5,9 @@
 	
 `What problem is your product trying to solve?`
 
-**The Core Veteran Experience Crew ensures Veterans and beneficiaries have a cohesive logged-in experience across and within the current mobile and web modalities. The crew seeks to do this by developing and curating a personalized view of the Veteran’s and beneficiary’s information so they can easily understand their benefits and take action to manage and update their account and benefits. We aim to aggregate and elevate personalized tasks and information relevant to Veterans on VA.gov and the Flagship Health & Benefits Mobile app so Veterans and beneficiaries can quickly get a snapshot of their existing business with VA.**
+The Core Veteran Experience Crew ensures Veterans and beneficiaries have a cohesive logged-in experience across and within the current mobile and web modalities. The crew seeks to do this by developing and curating a personalized view of the Veteran’s and beneficiary’s information so they can easily understand their benefits and take action to manage and update their account and benefits. We aim to aggregate and elevate personalized tasks and information relevant to Veterans on VA.gov and the Flagship Health & Benefits Mobile app so Veterans and beneficiaries can quickly get a snapshot of their existing business with VA.
 
-**[Link to Authenticated Experience team folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization)**
+[Link to Authenticated Experience team folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization)
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
@@ -15,11 +15,11 @@
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**We are iterating on the information architecture of the VA.gov Profile Hub based on previous user feedback and analytics in order to incorporate our new feature, the Individual Longitudinal Exposure Record, Individual Exposure Summary (ILER IES) report. The ILER IES report will be a downloadable PDF that informs Veterans of their toxic exposure information to inform their disability claims and health care treatments. [Implementation is being informed by prior research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2025-03-profile-secondary-research/research-findings.md#military-information)**
+We are iterating on the information architecture of the VA.gov Profile Hub based on previous user feedback and analytics in order to incorporate our new feature, the Individual Longitudinal Exposure Record, Individual Exposure Summary (ILER IES) report. The ILER IES report will be a downloadable PDF that informs Veterans of their toxic exposure information to inform their disability claims and health care treatments. [Implementation is being informed by prior research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2025-03-profile-secondary-research/research-findings.md#military-information)
 
 `Product Brief`
 
-**[Link to product brief.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/2024-ies)**
+[Link to product brief.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/2024-ies)
 
 </details>
 
@@ -77,9 +77,9 @@ Are there moments that matter?</summary>
 
 ---
 
-**1. Based on prior research and analytics, we believe Veterans will want all letters and documents in a single section in the profile.**
+**`1.`Based on prior research and analytics, we believe Veterans will want all letters and documents in a single section in VA.gov Profile.**
 
-**2. Based on prior research, we believe Veterans will associate the ILER IES report with a Letters and documents section.** 
+**`2.`Based on prior research, we believe Veterans will associate the ILER IES report with a Letters and documents section.** 
 
 ---
   
