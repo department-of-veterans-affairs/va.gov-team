@@ -175,7 +175,7 @@ On the unavailable supply view, 86% of clicks were directed toward links instruc
 5. **Streamline Navigation Flows:** Add direct links for unavailable supplies to reduce steps and improve cross-tool linking.
 
 ### Next Steps
-1. Refine [design pattern guidance](https://www.figma.com/design/KFSP8a93vQCIAuOna67qIh/Multistep-task-pattern?node-id=619-25050) based on research findings and recommendations
+1. Refine [design pattern guidance](https://www.figma.com/design/KFSP8a93vQCIAuOna67qIh/Multistep-task-pattern?node-id=619-25050) based on research findings and recommendations (sketched out [v0 prototype](https://kzmgnjsd5whk5jypofvm.lite.vusercontent.net/))
 2. Share out findings with MHV portal teams as part of portal UX standardization work
 
 
