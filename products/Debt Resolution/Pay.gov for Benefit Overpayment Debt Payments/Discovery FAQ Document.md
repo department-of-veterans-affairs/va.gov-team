@@ -23,3 +23,9 @@
 
 **6. Will there be still be an unauthenticated way to pay for Veterans who learn about a payment due from a letter in the mail?** 
 - Logging in to pay a bill may impede a Veteran's ability to resolve a copay or overpayment.
+
+**7. What is the MVP amount of information to collect in order to process a payment?** 
+
+So far, there are 5 steps (pages) to 
+collect payment from Veterans for copays. 
+> Is it possible to consolidate these 5 pages on one hosted page?
