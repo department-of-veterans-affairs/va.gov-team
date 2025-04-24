@@ -177,29 +177,30 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 - [Does participant read the "You can save this request" light blue alert? Y / N]
 - [Does participant read the "We'll save your application on every change" Y / N]
 
-## Task 4: Fill out form
+## Task 2: Fill out form
 Please continue filling out this form, but I want you to make up a fake name and other information so you don't share any personal information. 
-
-
-## Short break in filling out form
-
-Pretend that your doorbell just rang, and you jump up to answer it. What do you think will happen to the form that you've been filling out?
-
-`TEST THIS--how long do you need to leave in order for the form to reset`
-
-## Long break in filling out form
-Say that you need to take a break from filling out the form and get some lunch. What do you thikn will happen to the form?
-
-## Finish filling out form
-`START FROM WHAT PAGE?`
-
-
-
 
 ### Things to watch for:
 - [If participant says anything about saving the info entered, do they think it will be saved? Y / N]
-- [What (if anything) participant says about the progress bar]
-- [What (if anything) participant says about any error messages]
+- [Anything participant says about the progress bar]
+- [Anything participant says about any error messages]
+
+## Task 3: Short break in filling out form
+
+Pretend that your doorbell just rang, and you jump up to answer it. What do you think will happen to the form that you've been filling out?
+
+`TEST THIS or ask Adam--how long do you need to leave in order for the form to reset`
+
+## Take 4: Long break in filling out form
+Say that you need to take a break from filling out the form and get some lunch. What do you think will happen to the form?
+
+`instruct participant to close the form?`
+
+## Take 5: Resume filling out form
+`start participant on what page? where they left off from the previous task?`
+
+
+
 
 # Post-Task Interview - 5 minutes
 
