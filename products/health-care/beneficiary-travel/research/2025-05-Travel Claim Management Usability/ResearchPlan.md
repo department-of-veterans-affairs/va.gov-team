@@ -41,12 +41,12 @@ Veterans want to know why a certain claim decision was reached.  When a travel c
 
 1. Can users find the Status page?
 2. Can users find the Claim Details page?
-    1. Do users expect that a Claim Details page will tell them what has happened to their claim and why?
-3. Once on the Claim Details page, what information do users find most valuable? Least valuable?
-4. Based on the information on the Claim Details page, do users understand what they can take action or when they need to do something to unblock or advance processing or payment of a claim?
+   1. Do users expect that a Claim Details page will tell them what has happened to their claim and why?
+4. Once on the Claim Details page, what information do users find most valuable? Least valuable?
+5. Based on the information on the Claim Details page, do users understand what they can take action or when they need to do something to unblock or advance processing or payment of a claim?
     2. Do users find their decision letter on a Claim Details page?
     3. What information do users expect to find when they see the words “decision letter”?
-5. Can users identify if they need to take action to unblock or advance processing or payment of a claim and if so what that action is and how to take it?
+6. Can users identify if they need to take action to unblock or advance processing or payment of a claim and if so what that action is and how to take it?
     4. If a claim is denied or partially approved, do they understand that they can appeal and how to appeal?
 
 
