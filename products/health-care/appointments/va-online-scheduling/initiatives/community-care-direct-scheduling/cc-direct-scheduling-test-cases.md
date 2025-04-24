@@ -50,7 +50,7 @@ Allows Veterans who have indicated their preference to directly schedule their c
  
  ## Error Cases
 
- ### [Error Case 1 - Already Scheduled Appointment for the Referral]([https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=5565-5969&t=zYW9p1FINcaVJRSF-4](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=8800-17583&t=sQMaNfMSmDTNRp2w-4))
+ ### [Error Case 1 - Already Scheduled Appointment for the Referral](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=8800-17583&t=sQMaNfMSmDTNRp2w-4)
  
  ### [Error Case 2 - Already Have an Appointment at Selected Time](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=3713-15752&t=zYW9p1FINcaVJRSF-4)
  
