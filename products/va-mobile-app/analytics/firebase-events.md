@@ -14,8 +14,8 @@ Last updated: 4/24/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_appt_cancel ` | |
-| `vama_appt_view_details ` | |
+| `vama_appt_cancel ` | User cancels appointment |
+| `vama_appt_view_details ` | User clicks through the appointment details |
 | `vama_appts_page_warning ` | |
 | `vama_apt_add_cal ` | |
 | `vama_apt_cancel_clicks ` | |
@@ -39,16 +39,16 @@ Last updated: 4/24/2025
 | `vama_claim_eval_check ` | |
 | `vama_claim_eval_conf ` | |
 | `vama_claim_eval_submit ` | |
-| `vama_claim_file_request ` | |
+| `vama_claim_file_request ` | User accesses the claim details screen at step 3 & includes a request for file from the VA (so the file upload button is present) |
 | `vama_claim_file_view ` | |
 | `vama_claim_review ` | |
 | `vama_claim_status_tab ` | |
-| `vama_claim_step_three ` | |
+| `vama_claim_step_three ` | User accesses the claim detials screen when their claim is at step 3 in the process |
 | `vama_claim_submit_ev ` | |
 | `vama_claim_submit_tap ` | |
-| `vama_claim_upload_compl ` | |
-| `vama_claim_upload_fail ` | |
-| `vama_claim_upload_start ` | |
+| `vama_claim_upload_compl ` | API call to upload returns a success for the file uploaded. **Note**: While the user can select more than one photo to upload, they are compiled into a single pdf for upload. |
+| `vama_claim_upload_fail ` | API call to upload returns a fail |
+| `vama_claim_upload_start ` | API call to upload is sent |
 | `vama_claim_why_combine ` | |
 | `vama_request_details ` | |
 | `vama_evidence_conf ` | |
@@ -66,7 +66,7 @@ Last updated: 4/24/2025
 | `vama_ddl_landing_click ` | |
 | `vama_ddl_letter_view ` | |
 | `vama_ddl_status_click ` | |
-| `vama_letter_download ` | |
+| `vama_letter_download ` | User clicks to download letter |
 
 ## Global / Platform / Homescreen
 
@@ -74,10 +74,10 @@ Last updated: 4/24/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_login_closed ` | |
-| `vama_login_fail ` | |
-| `vama_login_start ` | |
-| `vama_login_success ` | |
+| `vama_login_closed ` | User closes out of login window |
+| `vama_login_fail ` | Login is unsuccessful |
+| `vama_login_start ` | User starts the login process |
+| `vama_login_success ` | Login is successful |
 | `vama_login_token_fetch ` | |
 | `vama_login_token_get ` | |
 | `vama_login_token_refresh ` | |
@@ -114,10 +114,10 @@ Last updated: 4/24/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_eu_shown ` | |
-| `vama_eu_skipped ` | |
-| `vama_eu_updated ` | |
-| `vama_eu_updated_success ` | |
+| `vama_eu_shown ` | Encouraged update nudge was shown to user |
+| `vama_eu_skipped ` | User clicked to dismiss prompt to update app version |
+| `vama_eu_updated ` | User clicked to update their app version |
+| `vama_eu_updated_success ` | App version was successfully updates at user's click |
 
 ### Feedback Collection
 
@@ -178,41 +178,41 @@ Last updated: 4/24/2025
 | Event Name | Purpose |
 | -------- | ------- |
 | `vama_webview_fail ` | |
-| `vama_whatsnew_alert ` | |
-| `vama_whatsnew_close ` | |
-| `vama_whatsnew_dontshow ` | |
-| `vama_whatsnew_more ` | |
+| `vama_whatsnew_alert ` | What's new alert displayed to user |
+| `vama_whatsnew_close ` | clicked Close button for a release |
+| `vama_whatsnew_dont_show ` | clicked do not show me again |
+| `vama_whatsnew_more ` | clicked the alert to access more information in the accordion expansion |
 
 ## Medical records
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_vaccine_details ` | |
+| `vama_vaccine_details ` | User clicks to see vaccine details |
 
 
 ## Prescriptions
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_rx_filter ` | |
+| `vama_rx_filter ` | User clicks to open up filter options |
 | `vama_rx_filter_cancel ` | |
-| `vama_rx_filter_sel ` | |
+| `vama_rx_filter_sel ` | User makes selection for how to filter prescriptions |
 | `vama_rx_help ` | |
 | `vama_rx_na ` | |
 | `vama_rx_noauth ` | |
-| `vama_rx_pendingtab ` | |
+| `vama_rx_pendingtab ` | User presses the Pending tab in prescription history |
 | `vama_rx_refill_cerner ` | |
-| `vama_rx_refill_fail ` | |
-| `vama_rx_refill_retry ` | |
-| `vama_rx_refill_success ` | |
+| `vama_rx_refill_fail ` | User's refill request failed |
+| `vama_rx_refill_retry ` | User clicked option to retry submission after failed attempt |
+| `vama_rx_refill_success ` | User's refill request went through successfully |
 | `vama_rx_request_confirm ` | |
 | `vama_rx_request_start ` | |
-| `vama_rx_sort` | |
-| `vama_rx_sort_sel` | |
+| `vama_rx_sort` | User clicks to open up sort options |
+| `vama_rx_sort_sel` | User makes selection for how to sort prescriptions |
 | `vama_rx_status` | |
 | `vama_rx_trackdet` | |
 | `vama_rx_trackdet_close ` | |
-| `vama_rx_trackingtab ` | |
+| `vama_rx_trackingtab ` | User clicks to see tracking information |
 | `vama_cerner_alert ` | |
 | `vama_cerner_alert_exp ` | |
 
@@ -220,19 +220,19 @@ Last updated: 4/24/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_pref_name_fail ` | |
+| `vama_pref_name_fail ` | failed attempts to update preferred name |
 | `vama_perf_name_success ` | |
-| `vama_prof_update_address ` | |
-| `vama_prof_update_email ` | |
-| `vama_prof_update_phone ` | |
-| `vama_gender_id_help ` | |
+| `vama_prof_update_address ` | User submits new address information |
+| `vama_prof_update_email ` | User submits new email information |
+| `vama_prof_update_phone ` | User submits new phone information |
+| `vama_gender_id_help ` | users select What to know before you decide to share your gender identity |
 
 ## Payments
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_prof_update_dir_dep ` | |
-| `vama_update_dir_dep ` | |
+| `vama_prof_update_dir_dep ` | User adds or edits direct deposit deposit account - Pre Nav Update |
+| `vama_update_dir_dep ` | User adds or edits direct deposit deposit account - Post Nav Update |
 
 ## Secure Messaging
 
@@ -249,8 +249,8 @@ Last updated: 4/24/2025
 | `vama_sm_nonurgent ` | |
 | `vama_sm_notenrolled ` | |
 | `vama_sm_open ` | |
-| `vama_sm_save_draft ` | |
-| `vama_sm_send_message ` | |
+| `vama_sm_save_draft ` | User saves a message in the portal |
+| `vama_sm_send_message ` | User sends message through portal |
 | `vama_sm_start ` | |
 
 ## Veteran Status
