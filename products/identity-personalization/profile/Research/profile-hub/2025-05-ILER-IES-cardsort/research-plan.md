@@ -68,36 +68,24 @@ Are there moments that matter?</summary>
 
 ### Research questions
 
-`1.`What data points, that exist on the VA.gov Profile currently, do Veterans associate with a Letters and documents section?
+`1.` What data points, that exist on the VA.gov Profile currently, do Veterans associate with a Letters and documents section?
 
-`2.`Do Veterans associate the ILER IES report with Letters and documents?
+`2.` Do Veterans associate the ILER IES report with Letters and documents?
 
 
 ### Hypotheses
 
 ---
 
-**`1.`Based on prior research and analytics, we believe Veterans will want all letters and documents in a single section in VA.gov Profile.**
+**`1.` Based on prior research and analytics, we believe Veterans will want all letters and documents in a single section in VA.gov Profile.**
 
-**`2.`Based on prior research, we believe Veterans will associate the ILER IES report with a Letters and documents section.** 
+**`2.` Based on prior research, we believe Veterans will associate the ILER IES report with a Letters and documents section.** 
 
 ---
   
 ## Methodology  🛠️
-***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
 
-<details><summary>Examples of common research methods include</summary> 
-	
-- `Semi-structured interviews - appropriate for generative research`
-- `Contextual inquiry - appropriate for generative research`
-- `Card sorts - appropriate for generative and evaluative research; depending on the study design` 
-- `Tree tests - appropriate for evaluative research`
-- `Usability testing - appropriate for evaluative research`
-- `User acceptance testing (UAT) - required before product release`
-
-</details>
-
-**[Enter methodology here]**
+**`Tree test: Evaluating updates to an existing experience based on analytics and past research recommendations.`**
 
 <details><summary>Additional resources</summary> 
 	
