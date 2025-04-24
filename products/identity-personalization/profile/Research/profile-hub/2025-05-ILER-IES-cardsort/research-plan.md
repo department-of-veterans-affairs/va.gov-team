@@ -5,77 +5,47 @@
 	
 `What problem is your product trying to solve?`
 
-**[Enter answer here]**
+**The Core Veteran Experience Crew ensures Veterans and beneficiaries have a cohesive logged-in experience across and within the current mobile and web modalities. The crew seeks to do this by developing and curating a personalized view of the Veteran’s and beneficiary’s information so they can easily understand their benefits and take action to manage and update their account and benefits. We aim to aggregate and elevate personalized tasks and information relevant to Veterans on VA.gov and the Flagship Health & Benefits Mobile app so Veterans and beneficiaries can quickly get a snapshot of their existing business with VA.
+
+[Link to Authenticated Experience team folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization)**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
-**[Enter answer here]**
+**Authenticated Experience**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**[Enter answer here]**
+**We are iterating on the information architecture of the VA.gov Profile Hub based on previous user feedback and analytics in order to incorporate our new feature, the ILER IES report. The ILER IES report will be a downloadable PDF that informs Veterans of their toxic exposure information to inform their disability claims and health care treatments. [Implementation is being informed by prior research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2025-03-profile-secondary-research/research-findings.md#military-information)**
 
 `Product Brief`
 
-**[Link to product brief](url goes here).**
+**[Link to product brief.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/2024-ies)**
 
 </details>
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
-<details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
+<details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed.</summary>
 
 
 `Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
-> - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
-> - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
-
-`Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
-
-> - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
-> - **Key Result 2:** We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
-> - **Key Result 3:** 100% of VA employees have access to a valuable Generative AI tool to help with their work.
-> - **Key Result 4:** Each of our platforms* and tools increase the number of non-OCTO built capabilities or non-OCTO users by 50%. (*excluding mobile)
-
-`Objective 3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
-
-> - **Key Result 1:** Team members reporting more than a reasonable amount of stress is 5 points lower for each quarter in 2025 than it was in the corresponding quarter in 2024.
-> - **Key Result 2:** Every OCTO Portfolio identifies 2 or more strategic decisions per quarter that would benefit the larger OCTO team, and documents them publicly in a shared location.
-> - **Key Result 3:** 75% or more team members are confident they have the knowledge needed to make effective decisions.
-
-`Objective 4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.`
-
-> - **Key Result 1:** OCTO has delivered at least 10 impactful artifacts or learning activities (e.g., trainings, guides, COP meetings) focused on improving delivery practices that achieve an NPS score of 30 or higher from the target OIT delivery staff.
-> - **Key Result 2:** OCTO has helped resolve/support at least 10 significant engineering issues or products outside our portfolio.
-> - **Key Result 3:** Five or more non-OCTO teams have used SPRUCE to deliver high quality software.
 
 </details>
-
-> [!TIP]
-> Delete priorities not supported by this research.
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
 <details><summary>Where does your product fit into the Veteran journey?
 Are there moments that matter?</summary>
 	
-- `Joining`
-- `Serving`
-- `Getting Out`
 - `Starting Up`
 - `Taking Care of Myself`
-- `Reinventing Myself`
-- `Putting Down Roots`
 - `Retiring`
 - `Aging`
 - `Dying`
 
 </details>
-
-> [!TIP]
-> Delete journeys not supported by this research.
 
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
