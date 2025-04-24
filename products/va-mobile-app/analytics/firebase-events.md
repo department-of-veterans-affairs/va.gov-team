@@ -148,27 +148,27 @@ Last updated: 4/24/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `notification_dismiss ` | |
-| `notification_forground ` | |
-| `notification_open ` | |
-| `notification_receive ` | |
+| `notification_dismiss`* | when a user dismisses a notification sent by Firebase Cloud Messaging (FCM) (Android only) |
+| `notification_forground`* | when a notification sent by FCM is received while the app is in the foreground |
+| `notification_open`* | when a user opens a notification sent by FCM |
+| `notification_receive`* | when a notification sent by FCM is received by a device when the app is in the background (Android only) |
 
 ### System
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `app_clear_data ` | |
-| `app_exception ` | |
-| `app_remove ` | |
-| `app_update ` | |
-| `first_open ` | |
-| `os_update ` | |
-| `screen_view ` | |
-| `session_start` | |
-| `vama_error ` | |
+| `app_clear_data`* | when the user resets/clears the app data, removing all settings and sign-in data (Android only) |
+| `app_exception`* | when the app crashes or throws an exception |
+| `app_remove`* | when an application package is removed (uninstalled) from an Android device (Android only) |
+| `app_update`* | when the app is updated to a new version and launched again |
+| `dynamic_link_first_open`* | when a user opens the app for the first time via a dynamic link |
+| `first_open`* | the first time a user launches an app after installing or re-installing it |
+| `os_update`* | when the device operating system is updated to a new version. The previous operating system version id is passed as a parameter |
+| `screen_view`* | when a screen transition occurs |
+| `session_start`* | when a user engages the app or website |
+| `vama_error` | |
 | `vama_error_json_resp ` | |
 | `vama_deep_link_fail ` | |
-| `dynamic_link_first_open ` | |
 | `vama_react_query_retry ` | |
 | `vama_fail ` | |
 | `vama_fail_refresh ` | |
@@ -188,7 +188,6 @@ Last updated: 4/24/2025
 | Event Name | Purpose |
 | -------- | ------- |
 | `vama_vaccine_details ` | User clicks to see vaccine details |
-
 
 ## Prescriptions
 
@@ -261,3 +260,5 @@ Last updated: 4/24/2025
 | `vama_vet_status_yStatus ` | |
 | `vama_vet_status_zStatus ` | |
 | `vama_vsc_error_shown ` | |
+
+* [Automatic event](https://support.google.com/analytics/answer/9234069) gathered by the system.
