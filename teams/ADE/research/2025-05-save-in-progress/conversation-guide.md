@@ -173,33 +173,55 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
 [Sign in to start your request > Start your request]
 
-### Things to watch for:
+### Watch for:
 - [Does participant read the "You can save this request" light blue alert? Y / N]
 - [Does participant read the "We'll save your application on every change" Y / N]
 
 ## Task 2: Fill out form
 Please continue filling out this form, but I want you to make up a fake name and other information so you don't share any personal information. 
 
-### Things to watch for:
-- [If participant says anything about saving the info entered, do they think it will be saved? Y / N]
-- [Anything participant says about the progress bar]
-- [Anything participant says about any error messages]
+### Watch for:
+- [Anything about saving info entered]
+- [Anything about the progress bar]
+- [Anything about error messages]
 
 ## Task 3: Short break in filling out form
+Pretend that your doorbell just rang, and you want to jump up to answer it. What will you do about the form that you're filling out?
 
-Pretend that your doorbell just rang, and you jump up to answer it. What do you think will happen to the form that you've been filling out?
+[leave open in browser / close browser / Finish later button / __________________]
 
-`TEST THIS or ask Adam--how long do you need to leave in order for the form to reset`
-
-## Take 4: Long break in filling out form
-Say that you need to take a break from filling out the form and get some lunch. What do you think will happen to the form?
-
-`instruct participant to close the form?`
-
-## Take 5: Resume filling out form
-`start participant on what page? where they left off from the previous task?`
+### Watch for:
+- [Anything about saving info entered]
+- [Anything about the "Finish later" button]
 
 
+## Task 4: Resume filling out form
+OK, now you're back from answering the door. Please continue filling out the form that you were working on. 
+
+[Record how resume: open browser tab / Link on form intro page / Link on My VA]
+
+### Watch for:
+- [Anything about saving info entered]
+- [Anything about the progress bar]
+- [Anything about error messages]
+
+
+## Task 5: Long break in filling out form
+Say that you're really hungry and need to take a long break to make lunch (or dinner). What will you do about the form?
+
+[leave open in browser / close browser / Finish later button / __________________]
+
+*[If "leave open in browser")* What if you were filling out this form in a public place, such as a library?
+
+## Task 6: Resume filling out form (again)
+OK, you made lunch (dinner), ate it, and it was good. Now you want to get back to the form you were filling out. How would you do that?
+
+[Record how resume: open browser tab / Link on form intro page / Link on My VA]
+
+### Watch for:
+- [Anything about saving info entered]
+- [Anything about the progress bar]
+- [Anything about error messages]
 
 
 # Post-Task Interview - 5 minutes
