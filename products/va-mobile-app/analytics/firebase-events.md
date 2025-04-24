@@ -46,6 +46,7 @@ vama_claim_upload_compl
 vama_claim_upload_fail
 vama_claim_upload_start
 vama_claim_why_combine
+vama_request_details
 
 vama_evidence_conf
 vama_evidence_cont_1
@@ -110,6 +111,7 @@ vama_login_token_refresh
 vama_login_token_store
 vama_sso_cookie_received
 vama_auth_completed
+vama_user_call
 
 vama_webview_fail
 vama_whatsnew_alert
@@ -123,12 +125,24 @@ vama_notification_click
 vama_segcontrol_click
 vama_snackbar_null
 vama_toggle
+vama_modalpick_open
+vama_modalpick_sel
 
 vama_click
 vama_link_click
 vama_link_confirm
 vama_find_location
 vama_react_query_retry
+vama_af_shown
+vama_af_updated
+vama_review_prompt
+vama_givefb_close
+vama_givefb_open
+vama_feedback_ask
+vama_feedback_closed
+vama_feedback_submitted
+vama_fail
+vama_fail_refresh
 ```
 
 ## Medical records
@@ -159,6 +173,8 @@ vama_rx_status
 vama_rx_trackdet
 vama_rx_trackdet_close
 vama_rx_trackingtab
+vama_cerner_alert
+vama_cerner_alert_exp
 ```
 
 ## Profile
@@ -204,41 +220,5 @@ vama_sm_start
 vama_vet_status_nStatus
 vama_vet_status_yStatus
 vama_vet_status_zStatus
-```
-
-## To Be Sorted
-
-```
-
-vama_af_shown
-vama_af_updated
-
-vama_cerner_alert
-vama_cerner_alert_exp
-
-vama_covid_links
-
-vama_exchange_failed
-vama_fail
-vama_fail_refresh
-vama_feedback_ask
-vama_feedback_closed
-vama_feedback_submitted
-
-vama_givefb_close
-vama_givefb_open
-
-vama_modalpick_open
-vama_modalpick_sel
-
-vama_request_details
-vama_review_prompt
-
-
-vama_ttv_cap_details
-
-vama_user_call
-
 vama_vsc_error_shown
-
 ```
