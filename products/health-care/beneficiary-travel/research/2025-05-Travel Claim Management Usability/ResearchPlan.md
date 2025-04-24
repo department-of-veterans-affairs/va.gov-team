@@ -256,8 +256,8 @@ Please list the people who will be serving in each role. Include the primary pho
 
 
 
-* Moderator: Cara Frissell
+* Moderator: Cara Frissell (cara.frissell@adhocteam.us)
 * Research guide writing and task development (usually but not always same as moderator): Cara Frissell
 * Participant recruiting & screening: Perigean
-* Project point of contact: Cara Frissell, Micah Taylor, Kristen McConnell
+* Project point of contact: Cara Frissell, Micah Taylor (micah.taylor@adhocteam.us), Kristen McConnell (kristen.mcconnell@va.gov)
 * Participant(s) for pilot test: n/a
