@@ -27,8 +27,8 @@ Affected pages:
   
 **1) File for travel pay reimbursement - Existing hub page**
 - URL: https://www.va.gov/health-care/file-travel-pay-reimbursement/
-- Desktop breadcrumb: VA.gov home >  Health care > File travel pay reimbursement
-- Notes: H1 and menu label change 
+- Desktop breadcrumb: VA.gov home >  [Health care hub H1] > [File travel pay reimbursement page H1]
+- Notes: H1 and menu label change. Menu label is "File travel pay reimbursement"
  
 **2) How to file a VA travel reimbursement claim online- Existing**
 - URL: https://www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/
