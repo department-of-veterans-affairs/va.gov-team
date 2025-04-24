@@ -15,7 +15,7 @@
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**We are iterating on the information architecture of the VA.gov Profile Hub based on previous user feedback and analytics in order to incorporate our new feature, the ILER IES report. The ILER IES report will be a downloadable PDF that informs Veterans of their toxic exposure information to inform their disability claims and health care treatments. [Implementation is being informed by prior research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2025-03-profile-secondary-research/research-findings.md#military-information)**
+**We are iterating on the information architecture of the VA.gov Profile Hub based on previous user feedback and analytics in order to incorporate our new feature, the Individual Longitudinal Exposure Record, Individual Exposure Summary (ILER IES) report. The ILER IES report will be a downloadable PDF that informs Veterans of their toxic exposure information to inform their disability claims and health care treatments. [Implementation is being informed by prior research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2025-03-profile-secondary-research/research-findings.md#military-information)**
 
 `Product Brief`
 
@@ -32,6 +32,7 @@
 
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
 
+
 </details>
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
@@ -43,73 +44,42 @@ Are there moments that matter?</summary>
 - `Taking Care of Myself`
 - `Retiring`
 - `Aging`
-- `Dying`
 
 </details>
 
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
 
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
-
 ### Goals
 
-`1.` **[Enter answer here]**
+`1.` **Validate if incorporating the ILER IES report into a new Letters and documents section in the VA.gov Profile matches Veterans mental models.**
 
-`2.` **[Enter answer here]**
+`2.` **Validate if contents of the new Letters and documents section in the VA.gov Profile match Veterans mental models.**
 
-`3.` **[Enter answer here]** 
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
 ---
 
-**[Enter outcome here]** 
+**Outcome will be a validated IA for incorporating a Letters and documents section and the ILER IES report into VA.gov Profile.** 
 
 ---
 
 ### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
-***Consider bucketing research questions under research goals and think about:***
-	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
+**`1.`What data points, that exist on the VA.gov Profile currently, do Veterans associate with a Letters and documents section?**
 
-**`1.`[Enter Q1]**
+**`2.`Do Veterans associate the ILER IES report with Letters and documents?**
 
-**`2.`[Enter Q2]**
-
-**`3.`[Enter Q3]**
-
-**`4.`[Enter Q4]**
-
-**`5.`[Enter Q5]**
-
-> [!TIP]
->Enter more questions as needed
 
 ### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
- 
-**Think through these prompts to develop strong hypotheses:**
-	
-`What do you intend to learn and measure from this study?` 
-
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
 
 ---
 
-**[Enter hypotheses here]** 
+**1. Based on prior research and analytics, we believe Veterans will want all letters and documents in a single section in the profile.**
+
+**2. Based on prior research, we believe Veterans will associate the ILER IES report with a Letters and documents section.** 
 
 ---
   
