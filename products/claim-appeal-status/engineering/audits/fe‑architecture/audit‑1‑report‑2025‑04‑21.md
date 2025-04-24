@@ -62,7 +62,7 @@
 ## 5. Appendix
 
 * **Script** `scripts/analyze-claims-status.js`   
-* **Full console output** `audit-1-raw-2025-04-21.md`.  
+* **Full console output** [`audit-1-raw-2025-04-21.md`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/engineering/audits/fe%E2%80%91architecture/audit-1-raw-2025-04-21.md)
 * Methodology mirrors code-health tool used in other VA projects.
 
 ---
