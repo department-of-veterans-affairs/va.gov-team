@@ -86,7 +86,7 @@ The relevant S3 bucket is `dsva-vagov-prod-notice-of-disagreement` which contain
 
 ### Google Analytics
 
-We haven’t really used Google analytics for much. VA currently hasn’t updated to use GA4 yet either. Product and research use it more for page views & funnel analysis, but we feel that DataDog is much more useful as a monitoring tool.
+We haven’t really used Google analytics for much. Product and research use it more for page views & funnel analysis, but we feel that DataDog is much more useful as a monitoring tool.
 
 ### Real User Monitoring
 
