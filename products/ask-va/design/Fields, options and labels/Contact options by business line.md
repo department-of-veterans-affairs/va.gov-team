@@ -1,6 +1,6 @@
 # Contact options by business line
 
-Last updated by @tygindraux: February 13, 2025
+Last updated by @tygindraux: April 24, 2025
 
 Jump to:
 - [How this pattern works](#how-this-patterns-works)
@@ -25,7 +25,7 @@ For a complete list, jump to [contact rules by topic](#contact-rules-by-topic).
 |`Benefits issues outside the U.S.`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Burials and memorials`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Center for Minority Veterans`|Email, phone and US Mail are always `ENABLED`|
-|`Center for Women Veterans`|Email and US mail are always `ENABLED`, phone is always `DISABLED`|
+|`Center for Women Veterans`|Email is always `ENABLED`, phone and US mail are always `DISABLED`|
 |`Debt for benefit overpayments and health care copay bills`|Email, phone and US Mail are always `ENABLED`|
 |`Decision reviews and appeals`|Email, phone and US Mail are always `ENABLED`|
 |`Defense Enrollment Eligibility Reporting System (DEERS)`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
