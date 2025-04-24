@@ -60,5 +60,13 @@ Allows Veterans who have indicated their preference to directly schedule their c
  
  ### [Error Case 5 - Referral has Expired](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=3707-8119&t=zYW9p1FINcaVJRSF-4)
  
- ### [Error Case 6 - No Time Slots Available](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=5620-5841&t=zYW9p1FINcaVJRSF-4)
+ ### [Error Case 6 - No time slots available](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=5844-9400&t=sQMaNfMSmDTNRp2w-4)
+
+ ### [Error Case 7 - No online scheduling available](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=5610-51751&t=sQMaNfMSmDTNRp2w-4)
+
+ ### [Error Case 8 - EPS error when booking appointment](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=5616-5716&t=sQMaNfMSmDTNRp2w-4)
+
+ ### [Error Case 9 - Alert after 30 seconds of loading](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=6477-13801&t=sQMaNfMSmDTNRp2w-4)
+
+ ### [Error Case 10 - Alert if EPS returns an error while loading](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=6477-14056&t=sQMaNfMSmDTNRp2w-4)
  
