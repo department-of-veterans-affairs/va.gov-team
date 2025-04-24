@@ -127,42 +127,37 @@ Are there moments that matter?</summary>
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `*ALL* / Participants have a VA.gov or MyHealtheVet account`
-- `*16* / Very frequent VA.gov users (Daily or Weekly)`
-- `*16* / Frequent VA.gov users (Monthly)`
-- `*16* / Non frequent VA.gov users (Every few months, Never, but am open to using VA.gov)`
+- `ALL / Participants have a VA.gov or MyHealtheVet account`
+- `16 / Very frequent VA.gov users (Daily or Weekly)`
+- `16 / Frequent VA.gov users (Monthly)`
+- `16 / Non frequent VA.gov users (Every few months, Never, but am open to using VA.gov)`
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
+- `24+ / age 55+ yo`
+- `24+ / with cognitive disability`
+- `19+ / people of color (Black, Hispanic, Asian, or Native American)`
+- `12+ / rural location`
+- `12+ / with no degree`
+- `5+ / women`
+- `3+ / LGBTQ+`
 
 ## Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
+*When will the thing you are testing be finalized?* 4/24/2025
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **TBD**
+- `Date and time of pilot session:` **TBD** 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **05/05 – 05/16/2025**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
-  
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
-  
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
+- **Not applicable due to being an unmoderated study.**
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
