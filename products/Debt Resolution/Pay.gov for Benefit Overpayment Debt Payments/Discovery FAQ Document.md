@@ -22,3 +22,4 @@
 - How much can we alter on this hosted page?
 
 **6. Will there be still be an unauthenticated way to pay for Veterans who learn about a payment due from a letter in the mail?** 
+- Logging in to pay a bill may impede a Veteran's ability to resolve a copay or overpayment.
