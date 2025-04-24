@@ -16,3 +16,7 @@
 **4. Can we pre-fill data for Veterans that they normally have to type out themselves on pay.va.gov?** 
 - This is a recurring issue that Veterans find frustrating when having to make a payment externally.
 
+
+**5. Is there documentation on design guidelines for this hosted page?** 
+- Are there examples available?
+- How much can we alter on this hosted page?
