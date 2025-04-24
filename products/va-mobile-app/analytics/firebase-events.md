@@ -20,6 +20,7 @@ Last updated: 4/24/2025
 | `vama_apt_add_cal ` | Add appointment to calendar |
 | `vama_apt_cancel_clicks ` | user cancels appointment |
 | `vama_ttv_appt_details ` | not used in the app, but present in the data (legacy event) |
+| `vama_appt_deep_link_fail` | triggers when a deep link from a push notification fails |
 
 ## Claims
 
@@ -142,7 +143,7 @@ Last updated: 4/24/2025
 | `vama_hs_rx_count ` | |
 | `vama_hs_rx_load_time ` | |
 | `vama_hs_sm_count ` | |
-| `vama_hs_sm_load_time ` ||
+| `vama_hs_sm_load_time ` | |
 
 ### Push Notifications
 
@@ -166,12 +167,11 @@ Last updated: 4/24/2025
 | `os_update`* | when the device operating system is updated to a new version. The previous operating system version id is passed as a parameter |
 | `screen_view`* | when a screen transition occurs |
 | `session_start`* | when a user engages the app or website |
-| `vama_error` | |
-| `vama_error_json_resp ` | |
-| `vama_deep_link_fail ` | |
-| `vama_react_query_retry ` | |
-| `vama_fail ` | |
-| `vama_fail_refresh ` | |
+| `vama_error` | generic event for API errors |
+| `vama_error_json_resp ` | generic event for API errors with the response information |
+| `vama_react_query_retry ` | debugging event to see when react query executes a retrie |
+| `vama_fail ` | Call center component failure event |
+| `vama_fail_refresh ` | Call center component failure retry event |
 
 ### What's New
 
@@ -196,7 +196,7 @@ Last updated: 4/24/2025
 | `vama_rx_filter ` | User clicks to open up filter options |
 | `vama_rx_filter_cancel ` | |
 | `vama_rx_filter_sel ` | User makes selection for how to filter prescriptions |
-| `vama_rx_help ` | |
+| `vama_rx_help ` | Prescription refill help button clicks |
 | `vama_rx_na ` | |
 | `vama_rx_noauth ` | |
 | `vama_rx_pendingtab ` | User presses the Pending tab in prescription history |
@@ -205,7 +205,7 @@ Last updated: 4/24/2025
 | `vama_rx_refill_retry ` | User clicked option to retry submission after failed attempt |
 | `vama_rx_refill_success ` | User's refill request went through successfully |
 | `vama_rx_request_confirm ` | |
-| `vama_rx_request_start ` | |
+| `vama_rx_request_start ` | User starts a refill request |
 | `vama_rx_sort` | User clicks to open up sort options |
 | `vama_rx_sort_sel` | User makes selection for how to sort prescriptions |
 | `vama_rx_status` | |
@@ -220,7 +220,7 @@ Last updated: 4/24/2025
 | Event Name | Purpose |
 | -------- | ------- |
 | `vama_pref_name_fail ` | failed attempts to update preferred name |
-| `vama_perf_name_success ` | |
+| `vama_perf_name_success ` | User successfully updates preferred name |
 | `vama_prof_update_address ` | User submits new address information |
 | `vama_prof_update_email ` | User submits new email information |
 | `vama_prof_update_phone ` | User submits new phone information |
@@ -256,9 +256,9 @@ Last updated: 4/24/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_vet_status_nStatus ` | |
-| `vama_vet_status_yStatus ` | |
-| `vama_vet_status_zStatus ` | |
-| `vama_vsc_error_shown ` | |
+| `vama_vet_status_nStatus ` | Debugging event to return a specific veteran status code |
+| `vama_vet_status_yStatus ` | Debugging event to return a specific veteran status code |
+| `vama_vet_status_zStatus ` | Debugging event to return a specific veteran status code |
+| `vama_vsc_error_shown ` | User sees an error related to the veteran status card |
 
 *[Automatic event](https://support.google.com/analytics/answer/9234069) gathered by the system.
