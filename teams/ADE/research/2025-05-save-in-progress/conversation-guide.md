@@ -185,7 +185,7 @@ Please continue filling out this form, but I want you to make up a fake name and
 - [Anything about the progress bar]
 - [Anything about error messages]
 
-## Task 3: Short break in filling out form
+## Task 3: AFTER ENTER SSN--Short break in filling out form
 Pretend that your doorbell just rang, and you want to jump up to answer it. What will you do about the form that you're filling out?
 
 [leave open in browser / close browser / Finish later button / __________________]
@@ -200,26 +200,36 @@ OK, now you're back from answering the door. Please continue filling out the for
 
 [Record how resume: open browser tab / Link on form intro page / Link on My VA]
 
+[If needed, tell letter to click on to go to Unauth/Auth/My VA]
+
+
 ### Watch for:
 - [Anything about saving info entered]
+- [See if they go back to previous page to remember what they were doing]
 - [Anything about the progress bar]
 - [Anything about error messages]
 
 
-## Task 5: Long break in filling out form
+## Task 5: AFTER RECORDS REQUESTED--Long break in filling out form
 Say that you're really hungry and need to take a long break to make lunch (or dinner). What will you do about the form?
 
 [leave open in browser / close browser / Finish later button / __________________]
 
-*[If "leave open in browser")* What if you were filling out this form in a public place, such as a library?
+*[If "leave open in browser")*, ASK:
+ - What if you were filling out this form in a public place, such as a library?
+ - If you leave the browser open and go away, you'll be signed out after 30 minutes. What do you think will happen to the information you entered? 
+
 
 ## Task 6: Resume filling out form (again)
-OK, you made lunch (dinner), ate it, and it was good. Now you want to get back to the form you were filling out. How would you do that?
+OK, pretend that you made lunch (dinner), ate it, and it was good. Now you want to get back to the form you were filling out. How would you do that?
 
 [Record how resume: open browser tab / Link on form intro page / Link on My VA]
 
+[If needed, tell letter to click on to go to Unauth/Auth/My VA]
+
 ### Watch for:
 - [Anything about saving info entered]
+- [See if they go back to previous page to remember what they were doing]
 - [Anything about the progress bar]
 - [Anything about error messages]
 
