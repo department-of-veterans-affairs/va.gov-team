@@ -16,10 +16,10 @@ Last updated: 4/24/2025
 | -------- | ------- |
 | `vama_appt_cancel ` | User cancels appointment |
 | `vama_appt_view_details ` | User clicks through the appointment details |
-| `vama_appts_page_warning ` | |
-| `vama_apt_add_cal ` | |
-| `vama_apt_cancel_clicks ` | |
-| `vama_ttv_appt_details ` | |
+| `vama_appts_page_warning ` | [debugging event](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/2273) |
+| `vama_apt_add_cal ` | Add appointment to calendar |
+| `vama_apt_cancel_clicks ` | user cancels appointment |
+| `vama_ttv_appt_details ` | not used in the app, but present in the data (legacy event) |
 
 ## Claims
 
