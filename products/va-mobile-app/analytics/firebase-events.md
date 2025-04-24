@@ -261,4 +261,4 @@ Last updated: 4/24/2025
 | `vama_vet_status_zStatus ` | |
 | `vama_vsc_error_shown ` | |
 
-* [Automatic event](https://support.google.com/analytics/answer/9234069) gathered by the system.
+*[Automatic event](https://support.google.com/analytics/answer/9234069) gathered by the system.
