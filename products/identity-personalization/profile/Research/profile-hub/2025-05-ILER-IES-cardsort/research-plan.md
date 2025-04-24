@@ -5,9 +5,9 @@
 	
 `What problem is your product trying to solve?`
 
-**The Core Veteran Experience Crew ensures Veterans and beneficiaries have a cohesive logged-in experience across and within the current mobile and web modalities. The crew seeks to do this by developing and curating a personalized view of the Veteran’s and beneficiary’s information so they can easily understand their benefits and take action to manage and update their account and benefits. We aim to aggregate and elevate personalized tasks and information relevant to Veterans on VA.gov and the Flagship Health & Benefits Mobile app so Veterans and beneficiaries can quickly get a snapshot of their existing business with VA.
+**The Core Veteran Experience Crew ensures Veterans and beneficiaries have a cohesive logged-in experience across and within the current mobile and web modalities. The crew seeks to do this by developing and curating a personalized view of the Veteran’s and beneficiary’s information so they can easily understand their benefits and take action to manage and update their account and benefits. We aim to aggregate and elevate personalized tasks and information relevant to Veterans on VA.gov and the Flagship Health & Benefits Mobile app so Veterans and beneficiaries can quickly get a snapshot of their existing business with VA.**
 
-[Link to Authenticated Experience team folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization)**
+**[Link to Authenticated Experience team folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization)**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
