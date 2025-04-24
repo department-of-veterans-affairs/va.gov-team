@@ -60,7 +60,7 @@ How might we reimagine the logged-in landing experience to surface timely, relev
 - Improved Veteran trust and satisfaction with VA.gov as a digital platform.
 
 ### Undesired 
-- Increase in support requests due to unclear new design.
+- Increase in support requests due to unclear new design or highlighted information.
 - Drop-off in usage if the redesigned experience feels cluttered or intrusive.
 - Misalignment with existing systems of record or internal data infrastructure.
 
