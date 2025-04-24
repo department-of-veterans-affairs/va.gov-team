@@ -1,6 +1,6 @@
 # Section Outline: The VA.gov Profile
 
-**Last Updated: 8/30/2024 -- updated GA4 link**
+**Last Updated: 4/24/2025 -- Added the Accredited Rep Tool Links**
 
 ## Table of Contents
 
@@ -43,7 +43,7 @@ The [VA.gov profile](https://staging.va.gov/profile) provides a centralized plac
 |[Military information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)| Shows military branch(es) of service and service period(s)| VA Profile | [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov) |  AE Profile |
 |[Veteran Status Card](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-status/README.md)| The veteran status card is part of the Military Info Page|      | [#veteran-status](https://dsva.slack.com/archives/C061RNJQ6SE/p1711980999826959) |  Veteran Status Card Team |
 |[Direct deposit information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)| Allows comp & pen payment recipients and Ch33 recipients to update their direct deposit information| Lighthouse |  Lighthouse ([#lighthouse-delivery-platform-support](https://dsva.slack.com/channels/lighthouse-delivery-platform-support)) or Nichole Harris (harris_nichole@bah.com) |  AE Profile |
-|Accredited Representative Status Tool | | | | [ARM Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management)|
+|[Accredited Representative Status Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/accredited-representative-status) | | | | [ARM Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management)|
 |[Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)| Allows people to update whether they'd like to receive particular notifications, and in what format| VA Profile| [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov)|  AE Profile |
 |[Account security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/README.md)| Allows people to verify their identity and add 2FA | N/A | If there is an identity-related issue, contact [#vsp-identity](https://dsva.slack.com/channels/vsp-identity)|  AE Profile |
 |[Connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps)| Allows people to disconect third-party apps from their account | Lighthouse | Carey Otto (carey.otto@adhocteam.us)| Lighthouse |
