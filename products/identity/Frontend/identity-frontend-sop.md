@@ -58,8 +58,9 @@ This document outlines the standards and procedures for Frontend Engineering wit
 - Create Draft PRs prior to marking PRs ready for review
 - Before moving a Pull Request from Draft to Ready
 - Unit, integration, and E2E tests must be passing
-- Must be filled out with a linked issue
+- Pull Requests must be filled out with a linked issue
 - Provide screenshots when styles (not functionality) changes
+- A minimum of two Frontend Engineers will review and approve a Pull Request
 
 ## Pair Programming
 - For more in-depth assistance you can reach out to another engineer using the “When to Reach Out” section.
