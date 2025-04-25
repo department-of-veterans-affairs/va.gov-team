@@ -38,9 +38,6 @@ Veterans engaging with form 40-10007 do not have a way to find, track, and get s
 
 O1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 
-## Assumptions
-
-* 
 
 ## Questions
 
