@@ -42,15 +42,18 @@ Both tests contained identical questions but were paired with different prototyp
 - **DEFINITELY TRUE:** Task completion times were significantly faster in prototype B, particularly for task 1 which showed a moderate-large effect size.
 - There were statistically significant differences between the two prototypes (prototype 1 = A, 2 = B) in terms of time of task for all three tasks. Participants took consistently more time on prototype A when compared with B. ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/time.png))
 - Task 1 showed the biggest impact, with Hedges's g (used instead of Cohen's d because the data wasn't normally distributed) reflecting a moderate-large differences. Tasks 2 and 3 were smaller differences. ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/time_impact.png))
-- On average, it took participants **nearly double** the time to complete a task on prototype A vs. prototype B. For example, task 1 took group A around 250.68 seconds and group B 143.88 seconds (42.60% increase).
+   - Group B completed task 1 in an average of 143.88 seconds, which was **43% faster** than Group A’s average time of 250.68 seconds.
 - **Takeaway:** It took participants much longer to complete task 1 on prototype A when compared with prototype B. The difference is both statistically and practically significant. The practical significance of the differences between the two prototypes gets smaller as participants became acclimated and finished subsequent tasks more quickly.  
 
 2. The task success rate will be greater on the new pattern. 
 - **DEFINITELY TRUE:** Prototype B showed higher success rates across all tasks, with particularly strong effects in tasks 1 and 3 (Phi = -.410 and -.487 respectively).
-- - On task 1, there was a statistically significant difference in task success rates between prototypes A and B. Participants were more successful on prototype B, with a medium-large effect size (Phi = -.410) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/sucess1a.png))
-- On task 2, the same, only with a small-medium effect size (phi = .282) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/success2.png))
-- On task 3, the same, but with a medium-large effect size (phi = -.487) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/success3.png))
-- **Takeaway:** Participants on prototype B were directly and indirectly successful more often on all tasks, but it was most pronounced on tasks 1 and 3. The differences were statistically and practically significant.
+- **Task 1:** There was a statistically significant difference in task success rates between prototypes A and B. Participants were more successful on prototype B, with a medium-large effect size (Phi = -.410) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/sucess1a.png))
+   - Group B's success rate (72%) was **140% higher** than Group A's (30%).
+- **Task 2:** the same, only with a small-medium effect size (phi = .282) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/success2.png))
+   - Group B's success rate (64%) was **88% higher** than Group A's (34%).
+- **Task 3:** the same, but with a medium-large effect size (phi = -.487) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/success3.png))
+   - Group B's success rate (70%) was **268% higher** than Group A's (19%).
+- **Takeaway:** Participants on prototype B were directly and indirectly successful more often on all tasks, but it was most pronounced on tasks 1 and 3 (order a supply, find unavailable supplies). The differences were statistically and practically significant.
 
 
 3. A higher proportion of Veterans will find the new pattern to be more intuitive and satisfying than the old experience. 
@@ -63,7 +66,9 @@ Both tests contained identical questions but were paired with different prototyp
 
 4. Veterans expect to complete routine tasks quickly and in one session, rather than expecting to leave and come back to the task. 
 - **DEFINITELY TRUE:** Pre-study questionnaire data shows overwhelming preference for single-session task completion across both prototypes.
-- Most participants complete MHV tasks in one session (95.3% for A, 95% for B) vs. leaving and coming back to finish the task. 
+- Most participants complete MHV tasks in one session (95.3% for A, 95% for B) vs. leaving and coming back to finish the task.
+- Out of the 37 participants who responded that they left and came back, the most common reasons were needing additional information (43.2%) and encountering technical issues (40.5%). Other reasons included interruptions (16.2%) and unclear instructions (18.9%).
+- **Takeaway:** Veterans typically complete MHV tasks in one session, suggesting that components like the MHV secondary navigation and cancel/save later options may not be as relevant within the task flow.
 
 ---
 
