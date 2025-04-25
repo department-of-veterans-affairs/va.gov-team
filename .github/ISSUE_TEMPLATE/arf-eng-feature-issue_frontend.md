@@ -4,6 +4,7 @@ about: Feature issue template for the ARF Engineering team
 title: ''
 labels: accredited-rep-facing, engineering, frontend
 assignees: ''
+type: Task
 
 ---
 
