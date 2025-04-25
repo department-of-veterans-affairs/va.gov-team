@@ -88,7 +88,7 @@ This is remote research over Zoom.
 > [!NOTE]
 > **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 
-- `[Link to conversation guide](url TBD)`
+- `[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/conversation-guide.md)`
 - `[Link to prototype](url TBD)`
 
 	
@@ -146,9 +146,8 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 
 1. How long have you been using this screen reader or screen magnifier? 
 
-    1. Less than 2 years *(DISQUALIFY)* 
-    1. 2-5 years *(ask next question)*
-    1. More than 5 years *(ask next question)* 
+    1. Less than 1 year *(DISQUALIFY)* 
+    1. More than 1 year *(ask next question)* 
 
 1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say AND ask the rest of the questions)*
 
