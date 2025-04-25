@@ -61,3 +61,33 @@ Please view the release notes below for information about our deployments to var
 ## VAHB Mobile App Design System | 02/17/2025
 - The LoadingIndicator was patched in order for the detox/e2e tests to function properly.
 - Updated how Snackbars are handled to prevent them from disappearing unexpectedly during navigation. This makes in-app notifications more reliable and consistent.
+
+## VAHB Mobile App Executive Order - Off-Cycle Release | 02/13/2025
+- In response to an Executive Order, gender identity information was removed from the profile section of the app.
+
+## VAHB Mobile App Bug Fixes | 02/13/2025
+- Fixed a bug where session refresh rates were too short. Users now maintain login session tokens for the full 45 days.
+
+## VAHB Mobile App Bug Fixes | 02/12/2025
+- Fixed a bug where there was a typo in the message that’s created for veterans when they select “share the app” from the settings screen.
+
+## VAHB Mobile App Bug Fixes | 02/11/2025
+- Fixed a bug where users were not able to see the status of claims they had submitted due to receiving error messages.
+
+## VAHB Mobile App Bug Fixes | 02/04/2025
+- Improved the UI for when fields such as date, groupName, type and dosage data comes back empty.
+
+## VAHB Mobile App Unit Tests | 12/13/2024
+- Updated app unit tests to use i18n translations instead of hardcoded strings for Address Summary, Address Validations and Edit Address Screen within the Contact Information Screen.
+
+## VAHB Mobile App Unit Tests | 12/11/2024
+- Updated app unit tests to use i18n translations instead of hardcoded strings for Account Security, In App Recruitment Screen, Notifications Settings Screen and Settings Screen within the Profile Settings Screen.
+- Updated app unit tests to use i18n translations instead of hardcoded strings for Edit Direct Deposit Screen, How To Update Direct Deposit Screen and Direct Deposit Screen within the Payments Screen.
+
+## VAHB Mobile App Unit Tests | 12/04/2024
+- Updated app unit tests to use i18n translations instead of hardcoded strings for Edit Email Screen, Edit Phone Number Screen and How Will You Screen within the Contact Information Screen.
+- Updated app unit tests to use i18n translations instead of hardcoded strings for No Payments Screen, Payment Issue Screen, Payment Missing Screen and Payment History Screen within the Payment History Screen.
+- Updated app unit tests to use i18n translations instead of hardcoded strings for Loa Gate, Login Screen, Onboarding Carousel, Sync Screen and Login Screen within Screens.
+
+
+
