@@ -16,15 +16,12 @@
   - Share brief summary of participant demographic info
   - Mural link for notetaking
 
-**5-10 min before each session:** 
+**5-10 min before each session**: 
 - Sign onto Zoom website as Perigean and start Zoom meeting
 - Wear HEADPHONES to prevent the user's screen reader from echoing back to them
-
 - Open standalone browser window with prototype: **URL TBD**
 - Paste link into Zoom chat (but don't hit enter)
-
 - Do Not Disturb ON so no notifications
-
 - Make sure everyone is muted except me and the participant
 
 When the participant is ready, turn on your camera and begin session with the intro
@@ -41,7 +38,7 @@ I have a colleague with us in this session who will be taking notes.
 *(if applicable)* [accessibility specialist] is also in this meeting to help with any technical issues that may arise with your use of assistive technology during this session. 
 
 There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
-- *(If participant seems hesitant or unsure or uncomfortable)* Just so you know, my teammates will be muted and off camera and you won't have to interact with them. You also have the option to keep the session just the two of us plus the notetaker.
+- *(If participant seems hesitant or unsure or uncomfortable)* Just so you know, my teammates will be muted and off camera and you won't have to interact with them. You also have the option to keep the session just the two of us plus the notetaker (and the technical support person).
 - *(If yes, let them in--3-4 MAX. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
 
 - *(OBSERVERS JOIN w/cameras ON )* We have a few people from the team listening in today: there's [NAME] *(wave or say "hi")*, [NAME] *(wave or say "hi")*, etc. *(If I don't know the name of one of the observers, ask them to please turn on their camera and say their name aloud)*
@@ -67,11 +64,11 @@ Before we start, I want to go over a few things:
 *(If participant asks you to NOT record)* Are you comfortable if I save the transcript of the session? *(If not, take good notes!)*
 
 - I have started recording. I'd like to confirm: 
-  - **Are you comfortable if I record my screen and the audio as we talk today?** Yes/No
+  - **Are you comfortable if I record my screen and the audio as we talk today?** Yes / No
  
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?** Yes / No
 
-In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save. (NEED TO DO THIS TO GET TRANSCRIPT)*
+In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save (NEED TO DO THIS TO GET TRANSCRIPT)
 
 *After checking that transcription is working, close the Transcript panel by clicking **Close Full Transcript** in the Show Captions menu.*
 
