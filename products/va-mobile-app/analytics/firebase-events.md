@@ -177,7 +177,7 @@ Last updated: 4/24/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_webview_fail ` | |
+| `vama_webview_fail ` | generic error, webview failed to load |
 | `vama_whatsnew_alert ` | What's new alert displayed to user |
 | `vama_whatsnew_close ` | clicked Close button for a release |
 | `vama_whatsnew_dont_show ` | clicked do not show me again |
@@ -194,23 +194,23 @@ Last updated: 4/24/2025
 | Event Name | Purpose |
 | -------- | ------- |
 | `vama_rx_filter ` | User clicks to open up filter options |
-| `vama_rx_filter_cancel ` | |
+| `vama_rx_filter_cancel ` | cancel button was clicked inside the filter dialog box |
 | `vama_rx_filter_sel ` | User makes selection for how to filter prescriptions |
 | `vama_rx_help ` | Prescription refill help button clicks |
-| `vama_rx_na ` | |
-| `vama_rx_noauth ` | |
+| `vama_rx_na ` | Prescription history, no prescriptions |
+| `vama_rx_noauth ` | user is not authorized to view prescriptions |
 | `vama_rx_pendingtab ` | User presses the Pending tab in prescription history |
-| `vama_rx_refill_cerner ` | |
+| `vama_rx_refill_cerner ` | not present in the app |
 | `vama_rx_refill_fail ` | User's refill request failed |
 | `vama_rx_refill_retry ` | User clicked option to retry submission after failed attempt |
 | `vama_rx_refill_success ` | User's refill request went through successfully |
-| `vama_rx_request_confirm ` | |
+| `vama_rx_request_confirm ` | confirm refill request |
 | `vama_rx_request_start ` | User starts a refill request |
 | `vama_rx_sort` | User clicks to open up sort options |
 | `vama_rx_sort_sel` | User makes selection for how to sort prescriptions |
-| `vama_rx_status` | |
-| `vama_rx_trackdet` | |
-| `vama_rx_trackdet_close ` | |
+| `vama_rx_status` | view refill status |
+| `vama_rx_trackdet` | user taps "get presciption tracking" option |
+| `vama_rx_trackdet_close ` | user closes the presciption tracking dialog box |
 | `vama_rx_trackingtab ` | User clicks to see tracking information |
 | `vama_cerner_alert ` | |
 | `vama_cerner_alert_exp ` | |
