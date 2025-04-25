@@ -110,6 +110,7 @@ Last updated: 4/24/2025
 | `vama_link_click ` | |
 | `vama_link_confirm ` | |
 | `vama_find_location ` | |
+| `vama_select_all ` | user chooses the select all option in a selection list |
 
 ### Encouraged Update
 
@@ -237,20 +238,19 @@ Last updated: 4/24/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_select_all ` | |
-| `vama_sm_attach ` | |
-| `vama_sm_attach_outcome ` | |
-| `vama_sm_change_category ` | |
-| `vama_sm_folder_open ` | |
-| `vama_sm_folders ` | |
-| `vama_sm_move ` | |
-| `vama_sm_move_outcome ` | |
-| `vama_sm_nonurgent ` | |
-| `vama_sm_notenrolled ` | |
-| `vama_sm_open ` | |
+| `vama_sm_attach ` | User selectes "Add files" |
+| `vama_sm_attach_outcome ` | Successful file selection |
+| `vama_sm_change_category ` | User changes message category |
+| `vama_sm_folder_open ` | User opens a folder |
+| `vama_sm_folders ` | User views folders list |
+| `vama_sm_move ` | User initiates a message move |
+| `vama_sm_move_outcome ` | User has moved a message |
+| `vama_sm_nonurgent ` | User opens "Reply Help" panel |
+| `vama_sm_notenrolled ` | Error message displayed if a user does not have access to secure messaging |
+| `vama_sm_open ` | User opens a message |
 | `vama_sm_save_draft ` | User saves a message in the portal |
 | `vama_sm_send_message ` | User sends message through portal |
-| `vama_sm_start ` | |
+| `vama_sm_start ` | User starts a new message |
 
 ## Veteran Status
 
