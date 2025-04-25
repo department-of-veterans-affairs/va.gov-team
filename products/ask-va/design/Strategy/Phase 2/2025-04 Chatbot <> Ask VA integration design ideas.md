@@ -18,12 +18,12 @@ There are currently two ways that Ask VA and chatbot connect:
 
 There are additional ways these tools could integrate and/or support seamless transitions between one another, with varying levels of complexity.
 
-#### Start from chatbot
+#### A user starting from chatbot
 - Automatically populate Ask VA forms with a user's conversation history from chatbot
 - Allow users to complete Ask VA forms directly within the chatbot interface
 - Enable users to check the status of their Ask VA inquiry through either Ask VA or chatbot
 
-#### Start from Ask VA
+#### A user starting from Ask VA
 - Detect a simpler question and suggest someone uses chatbot instead
 - Show which types of questions chatbot can answer immediately
 - Recommend chatbot for certain categories in Ask VA
