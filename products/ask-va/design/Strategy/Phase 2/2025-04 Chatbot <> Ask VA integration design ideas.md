@@ -33,20 +33,20 @@ There are additional ways these tools could integrate and/or support seamless tr
 We've prototyped a potential integration MVP.
 
 > [!NOTE]
-> This [Figma file](https://www.figma.com/design/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Phase-II-exploration?node-id=763-6807) illustrates an authenticated and unauthenticated example.
+> This [Figma file](https://www.figma.com/design/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Phase-II-exploration?node-id=763-6807) illustrates this potential MVP we're proposing.
 
-1. User opens VA chatbot on VA.gov.
+1. Authenticated user opens VA chatbot on VA.gov.
 2. User asks a question about sign in issues.
 3. User learns that chatbot is unable to answer their question and is offered the option to send their question to a VA representative instead.
-4. User chooses to continue and (remaining in the chatbot interface) answers 1-3 follow-up questions before their question is submitted.
+4. User chooses to continue and (remaining in the chatbot interface) and reviews their question it's submitted.
 5. User receive an Ask VA reference number through chatbot.
 
-If the user is signed in, we would pull their first and last name from VA Profile. So, they'd simply confirm their email address before sending their question to Ask VA.
+This MVP requires a user to be authenticated, so we can pull their first and last name and contact email from VA Profile.
 
 While the user completes these actions, the system(s) will (at a high-level):
 
 - Determine the category, topic and subtopic (and therefore, routing queue) based on which chatbot skill is triggered.
-- Ask follow up questions to fill in required Ask VA fields, unless they can prefill them from VA Profile.
+- Prefill required fields from VA Profile.
 - Send an Ask VA inquiry to Ask VA's CRM.
 - Create a new inquiry in CRM and generate an inquiry number.
 - Share an inquiry number back to the user.
@@ -61,4 +61,5 @@ In the future, we need to consider things like:
 - How would this idea scale to different types of general sign in questions? For example, if they need to go to a different routing queue?
 - How would this idea scale to different categories and/or business lines in Ask VA?
 - How would this idea scale beyond general questions?
-- Is it possible to require user's to send PII through chatbot without security concerns? And how would users feel about doing so?
+- How would this idea scale to unauthenticated users?
+- Is it safe to require user's to send PII through chatbot? And how would users feel about doing so?
