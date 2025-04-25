@@ -92,3 +92,32 @@ URL of form is included and descriptions about what is asked about marital statu
 - /burials-memorials/pre-need/form-10007-apply-for-eligibility
 - slightly different url at /burials-memorials... vs /burials-and-memorials
 - fields look identical to the above form
+
+## Fry/DEA — VA Education Benefits For Survivors And Dependents
+- /fry-dea
+- relationship to veteran question includes spouse option
+- when the applicant is spouse of veteran, then marriage date, marriage status
+- if marriage status is divorced, widowed, or annulled, then 'Have you been remarried since your {annulment}?'
+- When did you get remarried? - depends on if remarried is true
+
+## 10-10D Application for CHAMPVA benefits
+- /family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d
+- Date of marriage to the sponsor
+- Upload proof of marriage or legal union. Marriage cert, doc showing proof of civil union, common law affidavit. These are optional but are noted to help process the form faster if provided.
+- If the beneficiary remarried, collect proof of that remarriage with an upload of proof of marriage
+
+## View Dependents
+- /view-change-dependents/view
+- Can report changes in dependents, BUT this was never pushed to production. App is 4+ years, so seems like something that isn't being developed currently
+
+## Survivor and Dependent Benefits 22-5490
+- /family-and-caregiver-benefits/education-and-careers/apply-for-dea-fry-form-22-5490
+- Relationship to Veteran - Child or Spouse
+- Spouse will be asked marriage status
+	- 'Married'
+	- 'Divorce (or divorce in progress)'
+	- 'Marriage was annulled (or an annullment in progress)'
+	- 'Widowed'
+- Marriage date
+- have you been remarried since your divorce?
+- Remarriage date
