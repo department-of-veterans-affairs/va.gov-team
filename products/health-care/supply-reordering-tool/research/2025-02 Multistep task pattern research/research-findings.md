@@ -50,7 +50,7 @@ Both tests contained identical questions but were paired with different prototyp
 - - On task 1, there was a statistically significant difference in task success rates between prototypes A and B. Participants were more successful on prototype B, with a medium-large effect size (Phi = -.410) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/sucess1a.png))
 - On task 2, the same, only with a small-medium effect size (phi = .282) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/success2.png))
 - On task 3, the same, but with a medium-large effect size (phi = -.487) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/success3.png))
-- **Takeaway:** Participants on prototype B were directly or indirectly successful more often on all tasks, but it was most pronounced on tasks 1 and 3. The differences were statistically significant and pronounced.
+- **Takeaway:** Participants on prototype B were directly and indirectly successful more often on all tasks, but it was most pronounced on tasks 1 and 3. The differences were statistically and practically significant.
 
 
 3. A higher proportion of Veterans will find the new pattern to be more intuitive and satisfying than the old experience. 
@@ -139,7 +139,7 @@ A few participants attempted to find cancellation options after order submission
 
 ### 4. While 70% of Veterans successfully located their unavailable supplies using the segmented bar control, only 50% of clicks were directed toward the "Unavailable" tab.
 
-The majority of remaining clicks were directed toward the “Start Order” action link, indicating that some veterans expected unavailable supplies to appear in the main order flow. Feedback also highlighted that the segmented bar control may lack sufficient visual distinction, making it easy to overlook. ([Clickmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/Clickmaps/Task%203%20B%20_%20Landing%20page%20a%20heatmap.png))
+The majority of remaining clicks were directed toward the “Start Order” action link, indicating that some Veterans expected unavailable supplies to appear in the main order flow. Feedback also highlighted that the segmented bar control may lack sufficient visual distinction, making it easy to overlook. ([Clickmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/Clickmaps/Task%203%20B%20_%20Landing%20page%20a%20heatmap.png))
 
 > "The unavailable supply order not very evident. Make background bold or a different color."
 
@@ -157,7 +157,7 @@ Additionally, some Veterans found separating available and unavailable supplies 
 
 ### 5. Veterans generally understood when to click out to other tools to complete their tasks, but some requested reducing steps by integrating direct links for smoother navigation.
 
-On the unavailable supply view, 86% of clicks were directed toward links instructing veterans to contact their provider or navigate to their messages using the My HealtheVet (MHV) secondary header. This demonstrates that veterans mostly understood the next step based on the existing content. However, some veterans expressed frustration with the multiple steps required and suggested clearer cross-tool linking to reduce task friction. ([Clickmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/Clickmaps/Task%203%20B%20_%20Landing%20page%20b%20heatmap.png))
+On the unavailable supply view, 86% of clicks were directed toward links instructing Veterans to contact their provider or navigate to their messages using the My HealtheVet (MHV) secondary header. This demonstrates that veterans mostly understood the next step based on the existing content. However, some veterans expressed frustration with the multiple steps required and suggested clearer cross-tool linking to reduce task friction. ([Clickmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/Clickmaps/Task%203%20B%20_%20Landing%20page%20b%20heatmap.png))
 
 > "For those who use cellphones a lot, I found the pages a little difficult to size in order to view all material. I use iPhone 16. Most of us wish to avoid having to call VA for assistance; the long messages are horrible and wait times can be long. Most older vets hate automated answering due to the long explanations of options. Couldn’t there be a button for unavailable supplies that linked to a message platform? Messages are a more appropriate and succinct method of communication and provide a readable record."
 
