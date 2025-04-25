@@ -91,8 +91,8 @@ Last updated: 4/24/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_af_shown ` | |
-| `vama_af_updated ` | |
+| `vama_af_shown ` | Availability framework alert is viewed by the user |
+| `vama_af_updated ` | User asked to update the app and does after a critical bug fix release |
 
 ### Components & UI
 
@@ -107,9 +107,9 @@ Last updated: 4/24/2025
 | `vama_modalpick_open ` | |
 | `vama_modalpick_sel ` | |
 | `vama_click ` | |
-| `vama_link_click ` | |
-| `vama_link_confirm ` | |
-| `vama_find_location ` | |
+| `vama_link_click ` | A link in the app was clicked, reports URL data |
+| `vama_link_confirm ` | A link to leave the app was clicked (not a webview) |
+| `vama_find_location ` | The find a location link was clicked |
 | `vama_select_all ` | user chooses the select all option in a selection list |
 
 ### Encouraged Update
@@ -213,8 +213,8 @@ Last updated: 4/24/2025
 | `vama_rx_trackdet` | user taps "get presciption tracking" option |
 | `vama_rx_trackdet_close ` | user closes the presciption tracking dialog box |
 | `vama_rx_trackingtab ` | User clicks to see tracking information |
-| `vama_cerner_alert ` | |
-| `vama_cerner_alert_exp ` | |
+| `vama_cerner_alert ` | App alert related to the cerner transition |
+| `vama_cerner_alert_exp ` | Cerner alert expanded |
 
 ## Profile
 
