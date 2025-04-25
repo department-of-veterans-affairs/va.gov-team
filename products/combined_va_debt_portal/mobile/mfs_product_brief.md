@@ -43,12 +43,6 @@ Mobile app users cannot access any information about their debts or have the abi
 ### Supporting OCTO OKRs:
 
 O1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.  
-KR1.1: Improve satisfaction with our web and mobile products by 5 points.
-
-## Assumptions
-
-
-## Questions
 
 
 ## Important Notes/Decisions/Background
