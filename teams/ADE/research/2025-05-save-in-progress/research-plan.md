@@ -88,8 +88,8 @@ This is remote research over Zoom.
 > [!NOTE]
 > **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 
-- `[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/conversation-guide.md)`
-- `[Link to prototype](url TBD)`
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/conversation-guide.md)
+- [Link to prototype]`(url TBD)`
 
 	
 ## Recruitment 🎯	
