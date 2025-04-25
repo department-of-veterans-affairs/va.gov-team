@@ -1,8 +1,8 @@
-# **Product Outline: Representative Status Widget**
+# **Product Outline: Representative Status**
 
 Team: Accredited Representation Management
 
-This widget/product is available on the following pages:
+The Representative Status widget is available on the following pages:
 
 1. [Find a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/find-rep)
 2. [Get help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/)
@@ -10,7 +10,7 @@ This widget/product is available on the following pages:
 
 ## **Overview**
 
-Create a user-friendly, accessible widget on VA.gov that reflects a user's (Veteran or claimant) current representative status.
+Create a user-friendly, accessible service on VA.gov that reflects a user's (Veteran or claimant) current representative status.
 
 
 ## **Problem Statement**
@@ -40,7 +40,7 @@ There is not currently an experience on VA.gov for users to understand their cur
 
 ## **Solution Approach**
 
-Our immediate goal for the Representative Status Widget is to provide Veterans and claimants with insight into any existing representation, by way of a widget that can easily be implemented to any page on VA.gov.
+Our immediate goal for the Representative Status is to provide Veterans and claimants with insight into any existing representation, by way of a widget that can easily be implemented to any page on VA.gov.
 
 
 ## **Measuring Success**
@@ -62,9 +62,9 @@ We are actively working with the Platform Analytics team to visualize our[ ARM O
 
 ### Version 1.0 (MVP) ([Demo](https://dsva.slack.com/archives/C05L6HSJLHM/p1716406611746829))
 
-The Representative Status Widget 1.0 (MVP) was **released to 100% of users on May 20, 2024** ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status-widget/release-plan-representative-status-widget-1.0.md)), which involved adding the Representative Status Widget to the[ accredited representative landing page](https://www.va.gov/get-help-from-accredited-representative/) and the live[ Find a Representative page](https://www.va.gov/get-help-from-accredited-representative/find-rep/). 
+The Representative Status widget 1.0 (MVP) was **released to 100% of users on May 20, 2024** ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status-widget/release-plan-representative-status-widget-1.0.md)), which involved adding the Representative Status widget to the[ accredited representative landing page](https://www.va.gov/get-help-from-accredited-representative/) and the live[ Find a Representative page](https://www.va.gov/get-help-from-accredited-representative/find-rep/). 
 
-The following Widget states are displayed, based on the status code returned from the Benefits Claims API’s Power of Attorney Services ([Swagger documentation](https://developer.va.gov/explore/api/benefits-claims/docs?version=current)):
+The following widget states are displayed, based on the status code returned from the Benefits Claims API’s Power of Attorney Services ([Swagger documentation](https://developer.va.gov/explore/api/benefits-claims/docs?version=current)):
 
 1. Unauthenticated
    1. User is not signed into VA.gov
@@ -84,11 +84,11 @@ The following Widget states are displayed, based on the status code returned fro
 
 ## **Future Plans and Ideas**
 
-When the [Appoint a Representative product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) is released, the Representative Status Widget will be included in the user flow to help users understand if they have existing representation, and that any requests for new representation will replace their current appointed representative.
+When the [Appoint a Representative product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) is released, the Representative Status widget will be included in the user flow to help users understand if they have existing representation, and that any requests for new representation will replace their current appointed representative.
 
 We are also partnering with the Profile and MyVA teams to include a version of the representative status information that better matches existing design patterns.
 
-While timeline is TBD, ideas for the next version are stored in our [Representative Status Widget v2](https://dsva.slack.com/docs/T03FECE8V/F07UPV3TKUM) Slack canvas. Longer term ideas for Find a Representative are stored in our[ ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
+While timeline is TBD, ideas for the next version are stored in our [Representative Status v2](https://dsva.slack.com/docs/T03FECE8V/F07UPV3TKUM) Slack canvas. Longer term ideas for Find a Representative are stored in our[ ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
 
 
 ## **Communications**
