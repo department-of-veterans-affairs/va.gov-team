@@ -30,7 +30,7 @@ Story points injected: [number of points]
 
 Story points removed: [number of points]
 
-###  Support Rotation
+####  Support Rotation
 *Note any team member on support or PTO this sprint and note which it is*
 
 #### Epics & Issues</span>
