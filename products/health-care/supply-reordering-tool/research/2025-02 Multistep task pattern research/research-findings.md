@@ -40,34 +40,34 @@ Both tests contained identical questions but were paired with different prototyp
 
 1. The average time to complete tasks will be lower on the new pattern.
 - **DEFINITELY TRUE:** Task completion times were significantly faster in prototype B, particularly for task 1 which showed a moderate-large effect size.
-- There were statistically significant differences between the two prototypes (prototype 1 = A, 2 = B) in terms of time of task for all three tasks. Participants took consistently more time on prototype A when compared with B. ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/time.png))
+- There were statistically significant differences between the two prototypes (prototype 1 = A, 2 = B) in terms of time of task for all three tasks. Veterans took consistently more time on prototype A when compared with B. ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/time.png))
 - Task 1 showed the biggest impact, with Hedges's g (used instead of Cohen's d because the data wasn't normally distributed) reflecting a moderate-large differences. Tasks 2 and 3 were smaller differences. ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/time_impact.png))
    - Group B completed task 1 in an average of 143.88 seconds, which was **43% faster** than Group A’s average time of 250.68 seconds.
-- **Takeaway:** It took participants much longer to complete task 1 on prototype A when compared with prototype B. The difference is both statistically and practically significant. The practical significance of the differences between the two prototypes gets smaller as participants became acclimated and finished subsequent tasks more quickly.  
+- **Takeaway:** It took veterans much longer to complete task 1 on prototype A when compared with prototype B. The difference is both statistically and practically significant. The practical significance of the differences between the two prototypes gets smaller as veterans became acclimated and finished subsequent tasks more quickly.  
 
 2. The task success rate will be greater on the new pattern. 
 - **DEFINITELY TRUE:** Prototype B showed higher success rates across all tasks, with particularly strong effects in tasks 1 and 3 (Phi = -.410 and -.487 respectively).
-- **Task 1:** There was a statistically significant difference in task success rates between prototypes A and B. Participants were more successful on prototype B, with a medium-large effect size (Phi = -.410) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/sucess1a.png))
+- **Task 1:** There was a statistically significant difference in task success rates between prototypes A and B. Veterans were more successful on prototype B, with a medium-large effect size (Phi = -.410) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/sucess1a.png))
    - Group B's success rate (72%) was **140% higher** than Group A's (30%).
 - **Task 2:** the same, only with a small-medium effect size (phi = .282) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/success2.png))
    - Group B's success rate (64%) was **88% higher** than Group A's (34%).
 - **Task 3:** the same, but with a medium-large effect size (phi = -.487) ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/success3.png))
    - Group B's success rate (70%) was **268% higher** than Group A's (19%).
-- **Takeaway:** Participants on prototype B were directly and indirectly successful more often on all tasks, but it was most pronounced on tasks 1 and 3 (order a supply, find unavailable supplies). The differences were statistically and practically significant.
+- **Takeaway:** Veterans on prototype B were directly and indirectly successful more often on all tasks, but it was most pronounced on tasks 1 and 3 (order a supply, find unavailable supplies). The differences were statistically and practically significant.
 
 
 3. A higher proportion of Veterans will find the new pattern to be more intuitive and satisfying than the old experience. 
 - **LIKELY TRUE:** Mann-Whitney tests showed statistically significant differences favoring prototype B, though practical differences were minimal.
 - We ran a Mann-Whitney test because the data were non-normal (couldn't use t-tests) to assess the post test questions and questions about ease and confidence. All were significantly different, in that prototype B people reported more ease, confidence, trust, etc. than prototype A. ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/ease.png))
 - However, this difference was pretty small (used Rank-biserial correlation to compute effect size - again, because the data were non-normal and variances weren't equal). ([analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/SPSS%20analysis/ease_mannwhitney.png))
-- When we asked "Were there any points during the tasks where you felt lost or unsure of what to do next?" the majority of participants responded "no" (75.97% for A, 78.06% for B)
-- When we asked "Is there anything you would add, remove, or change about this experience?" the majority of participants responded "no" (60.84% for A, 64.49% for B)
+- When we asked "Were there any points during the tasks where you felt lost or unsure of what to do next?" the majority of veterans responded "no" (75.97% for A, 78.06% for B)
+- When we asked "Is there anything you would add, remove, or change about this experience?" the majority of veterans responded "no" (60.84% for A, 64.49% for B)
 - **Takeaway:** While there was statistically significant differences in CX metrics, they were minimal in real-world terms. 
 
 4. Veterans expect to complete routine tasks quickly and in one session, rather than expecting to leave and come back to the task. 
 - **DEFINITELY TRUE:** Pre-study questionnaire data shows overwhelming preference for single-session task completion across both prototypes.
-- Most participants complete MHV tasks in one session (95.3% for A, 95% for B) vs. leaving and coming back to finish the task.
-- Out of the 37 participants who responded that they left and came back, the most common reasons were needing additional information (43.2%) and encountering technical issues (40.5%). Other reasons included interruptions (16.2%) and unclear instructions (18.9%).
+- Most veterans complete MHV tasks in one session (95.3% for A, 95% for B) vs. leaving and coming back to finish the task.
+- Out of the 37 veterans who responded that they left and came back, the most common reasons were needing additional information (43.2%) and encountering technical issues (40.5%). Other reasons included interruptions (16.2%) and unclear instructions (18.9%).
 - **Takeaway:** Veterans typically complete MHV tasks in one session, suggesting that components like the MHV secondary navigation and cancel/save later options may not be as relevant within the task flow.
 
 ---
@@ -93,7 +93,7 @@ Veterans provided feedback expressing dissatisfaction with the additional step o
 
 > "No, but it is your system and not a user’s way of ordering. Why add an extra layer to the ordering process? Double click on what needs to be ordered and be done."
 
-**Recommendation:** To better align the system with user expectations and reduce unnecessary steps, consider making the list view cards clickable, enabling users to directly initiate their tasks.
+**Recommendation:** To better align the system with user expectations and reduce unnecessary steps, consider making the list view cards clickable, enabling veterans to directly initiate their tasks.
 
 ---
 
@@ -122,7 +122,7 @@ A few Veterans indicated that the alert could more clearly communicate that thei
 Several factors contributed to the gap between successful completion and user confidence in canceling orders:
 
 **Misinterpretation of Study Instructions:**  
-5.74% of participants stopped their task after seeing the cancellation modal, possibly misunderstanding the instructions to stop once they saw the modal, rather than clicking the “Confirm Cancellation” button.
+5.74% of veterans stopped their task after seeing the cancellation modal, possibly misunderstanding the instructions to stop once they saw the modal, rather than clicking the “Confirm Cancellation” button.
 
 **Click Behavior Insights:**  
 The heatmap showed that only 18% of clicks were on the "Cancel" button/link. ([Clickmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research/Clickmaps/Task%204%20B%20_%20Select%20supplies1%20heatmap.png)) 
@@ -134,11 +134,11 @@ Some Veterans did not scroll to the bottom of the page, likely missing the cance
 > "There should be a simple cancel button."
 
 **Post-Order Cancellation Expectations:**  
-A few participants attempted to find cancellation options after order submission, highlighting a desire for greater visibility and flexibility in managing orders.
+A few veterans attempted to find cancellation options after order submission, highlighting a desire for greater visibility and flexibility in managing orders.
 
 > "The order cancellation task wasn't very clear. I created an order with the expectation that when the order was submitted that I would have an opportunity to cancel... I'd suggest a true means of canceling an order that's been placed, perhaps in the confirmation email or as part of a status tab in the app itself."
 
-**Recommendation:** Remove the in-task cancel button as it tested poorly and incorporate exit modals that warn users about losing progress if they navigate away. Enhance post-order management by introducing options to cancel orders after submission.
+**Recommendation:** Remove the in-task cancel button as it tested poorly and incorporate exit modals that warn veterans about losing progress if they navigate away. Enhance post-order management by introducing options to cancel orders after submission.
 
 ---
 
@@ -175,9 +175,10 @@ On the unavailable supply view, 86% of clicks were directed toward links instruc
 ## Recommendations
 1. **Make List View Cards Clickable:** Enable direct task initiation from list view cards to reduce unnecessary navigation steps.
 2. **Enhance Confirmation Alerts:** Include detailed order confirmation information (e.g., item names, quantities, expected delivery dates) and a clear acknowledgment of successful submission.
-3. **Redesign Cancel Functionality:** Remove in-task cancel buttons, improve post-order cancel options, and use exit modals with progress warnings for better clarity.
-4. **Unify Supply Lists:** Combine available and unavailable supplies into a single list view with filtering and sorting options to align with user expectations.
-5. **Streamline Navigation Flows:** Add direct links for unavailable supplies to reduce steps and improve cross-tool linking.
+3. **Remove Cancel Button:** Remove in-task cancel buttons, improve post-order cancel options, and use exit modals to warn user when they attempt to navigate away from a task
+4. **Remove MHV secondary nav during at ask flow:** Knowing most veterans finish a task in one session, consider removing this component during a task flow
+5. **Unify Supply Lists:** Combine available and unavailable supplies into a single list view with filtering and sorting options to align with user expectations.
+6. **Streamline Navigation Flows:** Add direct links for unavailable supplies to reduce steps and improve cross-tool linking.
 
 ### Next Steps
 1. Refine [design pattern guidance](https://www.figma.com/design/KFSP8a93vQCIAuOna67qIh/Multistep-task-pattern?node-id=619-25050) based on research findings and recommendations (sketched out [v0 prototype](https://kzmgnjsd5whk5jypofvm.lite.vusercontent.net/))
