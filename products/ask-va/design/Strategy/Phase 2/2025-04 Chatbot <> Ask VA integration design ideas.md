@@ -1,6 +1,6 @@
 # Chatbot <> Ask VA integration design ideas
 
-Last updated by @tygindraux: April 21, 2025
+Last updated by @tygindraux: April 25, 2025
 
 We've started to discuss the potential for integrating Ask VA with VA chatbot. This document describes initial design ideas and includes an example of one approach.
 
@@ -10,8 +10,9 @@ We've started to discuss the potential for integrating Ask VA with VA chatbot. T
 
 There are currently two ways that Ask VA and chatbot connect:
 
-- Ask VA suggests using VA chatbot if you have a general question in order to get help more quickly
-- VA chatbot suggests using Ask VA if you can't get help through chatbot
+- The Ask VA landing page suggests using VA chatbot for general questions in order to get help more quickly.
+- The VA chatbot landing page suggests using Ask VA for questions about VA benefits and services that the chatbot can’t answer itself.
+- The VA chatbot suggests using Ask VA, at the end of a conversation, if it can't help answer your question itself.
 
 ### Potential integrations between Ask VA and chatbot
 
