@@ -7,7 +7,6 @@ The information below is constructed to help a future team onboard and come up t
 
 # Projects (Prior, Now, Next)
 
-
 ## Projects Completed
 
 Project | Portfolio | Epic | Documentation | Collab Cycle, if any | Status
@@ -44,12 +43,12 @@ Project | Portfolio | Epic | Documentation | Collab Cycle, if any | Status
 
 # AEDP Artifacts
 
-Sharepoint documents
-GitHub Name: AEDP Team
-GitHub board
-Figma designs (see links in tables above)
-Mural boards (see links in tables above)
-Slack channel
+- Sharepoint documents link
+- GitHub Name: AEDP Team
+- GitHub board link
+- Figma designs (see links in tables above)
+- Mural boards (see links in tables above)
+- Slack channel
 
 
 # VA Product Owners:
