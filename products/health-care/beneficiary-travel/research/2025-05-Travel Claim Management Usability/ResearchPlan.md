@@ -130,7 +130,8 @@ Similar to previous studies, we want Veteran users who have VA health care, trav
     * I have never submitted a claim for travel reimbursement
     * Yes, I have followed up on / amended / contested a claim for travel reimbursement
     * No, I have not followed up on / amended / contested a claim for travel reimbursement
-4. Have you ever been diagnosed with a traumatic brain injury, PTSD or memory loss?
+4. Have you ever been diagnosed with a traumatic brain injury, PTSD or memory loss? We ask this question because we want to make sure that our tools work for 
+   people who live with challenges like these.
     * Yes
     * No
 5.  Do you use a screenreader such as JAWS of VoiceOver?
@@ -256,8 +257,8 @@ Please list the people who will be serving in each role. Include the primary pho
 
 
 
-* Moderator: Cara Frissell (cara.frissell@adhocteam.us)
+* Moderator: Cara Frissell 
 * Research guide writing and task development (usually but not always same as moderator): Cara Frissell
 * Participant recruiting & screening: Perigean
-* Project point of contact: Cara Frissell, Micah Taylor (micah.taylor@adhocteam.us), Kristen McConnell (kristen.mcconnell@va.gov)
+* Project point of contact: Cara Frissell, Micah Taylor, Kristen McConnell 
 * Participant(s) for pilot test: n/a
