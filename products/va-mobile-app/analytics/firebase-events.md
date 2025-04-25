@@ -63,10 +63,10 @@ Last updated: 4/24/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_ddl_button_shown ` | |
-| `vama_ddl_landing_click ` | |
-| `vama_ddl_letter_view ` | |
-| `vama_ddl_status_click ` | |
+| `vama_ddl_button_shown ` | not used in the app, but present in the data (legacy event) |
+| `vama_ddl_landing_click ` | User selects "Claim Letters" from the Claims landing screen |
+| `vama_ddl_letter_view ` | User views a letter |
+| `vama_ddl_status_click ` | User selects "Get Claim Letters" from the claim details screen |
 | `vama_letter_download ` | User clicks to download letter |
 
 ## Global / Platform / Homescreen
