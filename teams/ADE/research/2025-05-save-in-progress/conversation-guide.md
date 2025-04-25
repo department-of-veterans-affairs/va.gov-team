@@ -174,54 +174,54 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 [Sign in to start your request > Start your request]
 
 ### Watch for:
-- [Does participant read the "You can save this request" light blue alert? Y / N]
-- [Does participant read the "We'll save your application on every change" Y / N]
+- [Anything re "You can save this request" light blue alert? Y / N]
+- [Anything re "We'll save your application on every change" Y / N]
 
 ## Task 2: Fill out form
-Please continue filling out this form, but I want you to make up a fake name and other information so you don't share any personal information. 
+Please continue filling out this form, but I want you to use a fake name and other information so you don't share any of your personal information. 
 
 ### Watch for:
-- [Anything about saving info entered]
-- [Anything about the progress bar]
-- [Anything about error messages]
+- [Anything re saving info entered]
+- [Anything re the progress bar]
+- [Anything re error messages]
 
 ## Task 3: > SSN--Short break in filling out form
-Pretend that your doorbell just rang, and you want to jump up to answer it. What will you do about the form that you're filling out?
+Pretend that your doorbell just rang, and you want to jump up to answer it. What will you do with the form that you're filling out?
 
-[leave open in browser / close browser / Finish later button / __________________]
+- [leave open in browser / close browser / Finish later button / __________________]
 
 ### Watch for:
-- [Anything about saving info entered]
-- [Anything about the "Finish later" button]
+- [Anything re saving info entered]
+- [Anything re the "Finish later" button]
 
 
 ## Task 4: Resume filling out form
-OK, now you're back from answering the door. Please continue filling out the form that you were working on. 
+OK, now let's say that you're back from answering the door. Please continue filling out the form that you were working on. 
 
-[Record how resume: open browser tab / Link on form intro page / Link on My VA]
+- [Record how resume: open browser tab / Link on form intro page / Link on My VA]
 
-[If needed, tell letter to click on to go to Unauth/Auth/My VA]
+- [If needed, tell what to click on to go to Unauth/Auth/My VA]
 
 
 ### Watch for:
-- [Anything about saving info entered]
-- [See if they go back to previous page to remember what they were doing]
-- [Anything about the progress bar]
-- [Anything about error messages]
+- [Anything re saving info entered]
+- [See if go back to previous page to remember what they were doing]
+- [Anything re the progress bar]
+- [Anything re error messages]
 
 
 ## Task 5: > RECORDS REQUESTED--Long break in filling out form
-Say that you're really hungry and need to take a long break to make lunch (or dinner). What will you do about the form?
+Say that you're really hungry and need to take a longer break to make lunch (or dinner). What will you do with the form that you're filling out?
 
-[leave open in browser / close browser / Finish later button / __________________]
+- [leave open in browser / close browser / Finish later button / __________________]
 
-*[If "leave open in browser")*, ASK:
- - What if you were filling out this form in a public place, such as a library?
- - If you leave the browser open and go away, you'll be signed out after 30 minutes. What do you think will happen to the information you entered? 
+- *[If "leave open in browser")*, ASK:
+     - What if you were filling out this form in a public place, such as a library?
+     - If you leave the browser open and go away, you'll be signed out after 30 minutes. What do you think will happen to the information you entered? 
 
 ### Watch for:
-- [Anything about saving info entered]
-- [Anything about the "Finish later" button]
+- [Anything re saving info entered]
+- [Anything re the "Finish later" button]
 
 
 ## Task 6: Resume filling out form (again)
@@ -229,13 +229,13 @@ OK, pretend that you made lunch (dinner), ate it, and it was good. Now you want 
 
 [Record how resume: open browser tab / Link on form intro page / Link on My VA]
 
-[If needed, tell letter to click on to go to Unauth/Auth/My VA]
+- [If needed, tell letter to click on to go to Unauth/Auth/My VA]
 
 ### Watch for:
-- [Anything about saving info entered]
-- [See if they go back to previous page to remember what they were doing]
-- [Anything about the progress bar]
-- [Anything about error messages]
+- [Anything re saving info entered]
+- [See if go back to previous page to remember what they were doing]
+- [Anything re the progress bar]
+- [Anything re error messages]
 
 
 # Post-Task Interview - 5 minutes
