@@ -266,7 +266,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## After Session 
 - Click "End" on zoom website
-- Return to form to continue form and click **Start a new request** to remove all info entered
+- Return to form and click **Start a new request** to remove all info entered
 - Download recording and closed caption (.vtt file)
 - Rename and save transcript file from Finder
 - Download notes
