@@ -1,16 +1,24 @@
 # List of category, topic and subtopic labels
 
-Last updated by @tygindraux: April 2, 2024
+Last updated by @tygindraux: April 25, 2024
 
-This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)) and Managing Editor of sitewide content for VA.gov.
+**Note:** In Ask VA, we pull category, topic and subtopic lists from CRM so labels automatically update if any changes are made. Please note that this list in Github can become out-of-date periodically.
 
-We pull category, topic and subtopic lists from CRM so it automatically updates if any changes are made.
+Jump to:
+- [List order](#list-order)
+- [Categories](#categories)
+- [Topics and subtopics](#topics-and-subtopics)
 
-## All categories
+## List order
 
-Categories are listed in order of `rank field`. This means that the most used category will show first, following in sequential order of most to least used.
+Categories are listed in order of rank field, meaning sequential order from most to least used.
 
-|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+Topics and subtopics are listed alphabetically, except `Other` which is last in the list when present.
+
+
+## Categories
+
+|Label type|Previous name (ask.va.gov)|Updated name (VA.gov)|
 |:--|:--|:--|
 |`Category`|Education (Ch.30, 33, 35, 1606, etc. & Work Study)|[Education benefits and work study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#education-benefits-and-work-study)|
 |`Category`|Compensation (Service-Connected Bens)|[Disability compensation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#disability-compensation)|
@@ -26,18 +34,16 @@ Categories are listed in order of `rank field`. This means that the most used ca
 |`Category`|Veteran Identification Card (VIC)|[Veteran ID Card (VIC)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category%2C%20topic%20and%20subtopic%20names.md#veteran-id-card-vic)|
 |`Category`|Benefits Issues Outside the US|[Benefits issues outside the U.S.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#benefits-issues-outside-the-us)|
 |`Category`|Life Insurance|[Life insurance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#life-insurance)|
-|`Category`|Defense Enrollment Eligibility Reporting System (DEERS)|[DEERS (Defense Enrollment Eligibility Reporting System)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#deers-defense-enrollment-eligibility-reporting-system)|
+|`Category`|Defense Enrollment Eligibility Reporting System (DEERS)|[Defense Enrollment Eligibility Reporting System (DEERS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#deers-defense-enrollment-eligibility-reporting-system)|
 |`Category`|Fiduciary Program (Guardians/Custodians)|[Guardianship, custodianship, or fiduciary issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#guardianship-custodianship-or-fiduciary-issues)|
 |`Category`|Women Veterans' Issues|[Center for Women Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#center-for-women-veterans)|
 |`Category`|VA Center for Minority Veterans|[Center for Minority Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#center-for-minority-veterans)|
 
-## Education benefits and work study
+## Topics and subtopics
 
-Topics are listed in `alphabetical` order which is how they will appear for submitters.
+### Category: Education benefits and work study
 
-`Category`: Education benefits and work study
-
-|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|Label type|Previous name (ask.va.gov)|Updated name (VA.gov)|
 |:--|:--|:--|
 |`Topic`|Survivors & Dependents|Benefits for survivors and dependents|
 |`Topic`|(New)|Request Certificate of Eligibility (COE) or Statement of Benefits|
@@ -50,20 +56,19 @@ Topics are listed in `alphabetical` order which is how they will appear for subm
 |`Topic`|Post-9/11 GI Bill|Post-9/11 GI Bill (Chapter 33)|
 |`Topic`|Reserve Ed Asst Prog (Ch 1607) (REAP)|Reserve Educational Assistance Program (Chapter 1607)|
 |`Topic`|School Officials ONLY|School Certifying Officials (SCOs)|
-|`Topic`|Colmery Section 110|Transferring benefits after a death|
-|`Topic`|Transfer of Benefits to Dependents (TEB)|Transferring education benefits for family members|
+|`Topic`|(New)|Transfer of benefits|
 |`Topic`|Tuition Assistance Top-Up|Tuition Assistance Top-Up|
-|`Topic`|(New)|Verify school enrollment|
+|`Topic`|(New)|Verifying school enrollment|
 |`Topic`|(New)|Veteran Readiness and Employment (Chapter 31)|
 |`Topic`|VEAP (Ch 32)|Veterans’ Educational Assistance Program (Chapter 32)|
 |`Topic`|WAVE|Web Automated Verification of Enrollment (WAVE)|
 |`Topic`|Work Study|Work study|
+|`Topic`|Licensing and Certification Tests|(Removed)|
+|`Topic`|National Testing Programs|(Removed)|
 
-Subtopics are listed in `alphabetical` order which is how they will appear for submitters.
+#### Topic: Work study
 
-`Topic`: Work study
-
-|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|Label type|Previous name (ask.va.gov)|Updated name (VA.gov)|
 |:--|:--|:--|
 |`Subtopic`|Application|Application|
 |`Subtopic`|Inquiries (VAI)|General question|
@@ -71,11 +76,14 @@ Subtopics are listed in `alphabetical` order which is how they will appear for s
 |`Subtopic`|Signed Contracts|Signed contract|
 |`Subtopic`|Time Cards|Time card|
 
-## Disability compensation
+#### Topic: Transfer of benefits
 
-Topics are listed in `alphabetical` order.
+|Label type|Previous name (ask.va.gov)|Updated name (VA.gov)|
+|:--|:--|:--|
+|`Subtopic`|(New)|Transferring benefits after death of Veteran or dependent (Section 110)|
+|`Subtopic`|(New)|Transferring benefits to dependents|
 
-`Category`: Disability compensation
+### Category: Disability compensation
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
