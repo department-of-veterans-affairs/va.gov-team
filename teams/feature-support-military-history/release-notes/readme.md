@@ -89,5 +89,16 @@ Please view the release notes below for information about our deployments to var
 - Updated app unit tests to use i18n translations instead of hardcoded strings for No Payments Screen, Payment Issue Screen, Payment Missing Screen and Payment History Screen within the Payment History Screen.
 - Updated app unit tests to use i18n translations instead of hardcoded strings for Loa Gate, Login Screen, Onboarding Carousel, Sync Screen and Login Screen within Screens.
 
+## VAHB Mobile App Unit Tests | 11/15/2024
+- Updated app unit tests to use i18n translations instead of hardcoded strings for Personal Information Screen, Gender Identity Screen, How Do I Update Screen and Preferred Name Screen within the Personal Information Screen.
+
+## VAHB Mobile App Unit Tests | 11/14/2024
+- Updated app unit tests to use i18n translations instead of hardcoded strings for Incorrect Service Info, Military Information Screen and No Military Information Access within the Profile Screen.
+
+## VAHB Mobile App Unit Tests | 11/12/2024
+- Updated app unit tests to use i18n translations instead of hardcoded strings for Contact VA Screen, Veterans Crisis Line Screen and Profile Screen within the Home Screen.
+
+## VAHB Mobile App Unit Tests | 11/6/2024
+- Updated app unit tests to use i18n translations instead of hardcoded strings for Home Screen.
 
 
