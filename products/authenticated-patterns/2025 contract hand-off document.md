@@ -45,7 +45,7 @@ Project | Portfolio | Epic | Documentation | Collab Cycle, if any | Status
 
 - Sharepoint documents link
 - GitHub Name: AEDP Team
-- GitHub board link
+- GitHub board [link](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=_noValue)
 - Figma designs (see links in tables above)
 - Mural boards (see links in tables above)
 - Slack channel
