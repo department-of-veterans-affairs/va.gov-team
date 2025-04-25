@@ -38,3 +38,26 @@ Please view the release notes below for information about our deployments to var
 - Fixed a bug where deeplinking from a specific push notification was happening more than once for a given push notification. Users will now only be deeplinked once for a given push notification.
 - Resolved an issue where macOS label was resolving to a machine that doesn’t exist.
 
+## VAHB Mobile App Bug Fixes | 02/25/2025
+- Fixed a bug where phone number, SSN and Email were not properly recognized if they ended in punctuation.
+- Fixed a bug where the notification onboarding screen did not appear in the onboarding flow after hitting reset.
+- Improved error handling for messaging outages. When /v0/messaging/health/folders/0/messages is down, the VA Mobile app now provides clearer error messaging and improved navigation, preventing users from getting stuck in the inbox.
+- Fixed a bug where some assistive tech tech could not get ‘into’/’onto’ screens where the only actionable items are initially offscreen.
+
+## VAHB Mobile App Design System | 02/25/2025
+- Incorporated the Icon Component into the app so that the app is compliant with the Design System requirements.
+
+## VAHB Mobile App Design System | 02/19/2025
+- Fixed a bug where the Alert Icon was misaligned and not displaying properly. The first line of the description text is now vertically centered with the Alert Icon.
+
+## VAHB Mobile App Bug Fixes | 02/18/2025
+- Fixed a bug where rows in a simple list component were too tall.
+- Fixed a bug where the Alert component heading was not announced with VoiceOver.
+
+## VAHB Mobile App Bug Fixes | 02/17/2025
+- Fixed a bug where VoiceOver was not announcing the role of the SegmentedControl component.
+- Resolved an issue where some tests were failing due to how heading roles were set in alert messages. This update ensures tests run smoothly and helps maintain the app’s quality and reliability.
+
+## VAHB Mobile App Design System | 02/17/2025
+- The LoadingIndicator was patched in order for the detox/e2e tests to function properly.
+- Updated how Snackbars are handled to prevent them from disappearing unexpectedly during navigation. This makes in-app notifications more reliable and consistent.
