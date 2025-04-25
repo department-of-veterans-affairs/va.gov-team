@@ -121,7 +121,7 @@ Let’s start with a few questions...
 1. What VA benefits, if any, do you have experience with? 
     - *RECORD: health care / education / career services / disability / home loan / pension / life insurance / burial benefits / __________*
 
-1. Have you filled out a VA form online before? 
+1. Have you ever filled out a VA form online before? 
    - If so, can you tell me about your most recent experience? How did it go?
 
 
@@ -130,18 +130,13 @@ Let’s start with a few questions...
 ## Task 0: Share screen
 
 I would like you to share your screen with me so that I can see what you do during this session. Before we start, I want to make sure you know that screen share will show me your own screen, so if you'd like to close any apps or turn off notifications that you don't want me to see, you could do that now.
-
 - *(refer to Screen sharing instructions above, if needed)*
-- *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
+- *STOP TECH TROUBLESHOOTING **< 15 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
 We can help guide you through this if you need help. Please say what you're doing out loud so that if there are any issues, we'll know what they are.
-
 1. Make sure that the Zoom application has focus
-
 1. Navigate to the screen share button
-
 1. Check the "share sound" checkbox (so we can hear their screen reader speaking)--may have to tab a LOT to get to this in the right pane
-
 1. Activate the screen share
 
 *(If we can't hear the screen reader)* Since I can't hear your screen reader and don't want to interrupt it, after I ask you to do something, I'll try to not say anything until you say that you're done or need help, OK?
@@ -160,10 +155,12 @@ Did you get the link?
 - *If “unsupported browser” error, ask to try a different browser or device, or share my screen (works for anyone) and mouse control (doesn't work w/iPhones)*
 - *If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
 
-**You'll be interacting with a demo form today.** Since it's a demo, note that none of your actions will affect your VA information or benefits.
+**You'll be interacting with a demo form today.** Since it's a demo, note that none of your actions will affect your VA own information or benefits.
 
 
 ## Task 1: Form intro page
+[start on unauthenticated form intro page]
+
 I'd like you to take a look at this page, and then use it to get your military records.
 
 Please **talk aloud** about what you're thinking BEFORE clicking on anything.
@@ -175,7 +172,7 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 - [Anything re "We'll save your application on every change" Y / N]
 
 ## Task 2: Fill out form
-Please fill out this form for yourself, but I want you to use fake details so you don't share your personal information with me. 
+Please fill out this form to request your own military records, but I want you to use fake details so you don't share your personal information with me. 
 
 ### Watch for:
 - [Anything re saving info entered]
@@ -185,7 +182,7 @@ Please fill out this form for yourself, but I want you to use fake details so yo
   - Do they know how to resolve the error?
   - How do they want to find out about errors?] 
 
-## Task 3: > SSN--Short break in filling out form
+## Task 3: (After enter SSN) Short break in filling out form
 Pretend that your doorbell just rang, and you want to jump up to answer it. What will you do with the form that you're filling out?
 
 - [leave open in browser / close browser / Finish later button / __________________]
@@ -212,7 +209,7 @@ OK, now let's say that you're back from answering the door. Please continue fill
   - Do they know how to resolve the error?
   - How do they want to find out about errors?] 
 
-## Task 5: > RECORDS REQUESTED--Long break in filling out form
+## Task 5: (After specify records) Long break in filling out form
 Say that you're really hungry and need to take a longer break to make lunch (or dinner). What will you do with the form that you're filling out?
 
 - [leave open in browser / close browser / Finish later button / __________________]
@@ -227,7 +224,7 @@ Say that you're really hungry and need to take a longer break to make lunch (or 
 
 
 ## Task 6: Resume filling out form (again)
-OK, pretend that you made lunch (dinner), ate it, and it was good. Now you want to get back to the form you were filling out. How would you do that?
+OK, pretend that you just finished your lunch (dinner). Now you want to get back to the form you were filling out. How would you do that?
 
 [Record how resume: open browser tab / Link on form intro page / Link on My VA]
 
