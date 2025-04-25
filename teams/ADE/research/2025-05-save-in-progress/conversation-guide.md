@@ -125,7 +125,7 @@ Let’s start with a few questions...
     - *RECORD: health care / education / career services / disability / home loan / pension / life insurance / burial benefits / __________*
 
 1. Have you filled out a VA form online before? 
-- If so, can you tell me about your most recent experience? How did it go?
+   - If so, can you tell me about your most recent experience? How did it go?
 
 
 # User Tasks
@@ -183,7 +183,10 @@ Please fill out this form for yourself, but I want you to use fake details so yo
 ### Watch for:
 - [Anything re saving info entered]
 - [Anything re the progress bar]
-- [Anything re error messages]
+- [Anything re error messages? If so:
+  - Do they know what the error means?
+  - Do they know how to resolve the error?
+  - How do they want to find out about errors?] 
 
 ## Task 3: > SSN--Short break in filling out form
 Pretend that your doorbell just rang, and you want to jump up to answer it. What will you do with the form that you're filling out?
@@ -207,8 +210,10 @@ OK, now let's say that you're back from answering the door. Please continue fill
 - [Anything re saving info entered]
 - [See if go back to previous page to remember what they were doing]
 - [Anything re the progress bar]
-- [Anything re error messages]
-
+- [Anything re error messages? If so:
+  - Do they know what the error means?
+  - Do they know how to resolve the error?
+  - How do they want to find out about errors?] 
 
 ## Task 5: > RECORDS REQUESTED--Long break in filling out form
 Say that you're really hungry and need to take a longer break to make lunch (or dinner). What will you do with the form that you're filling out?
