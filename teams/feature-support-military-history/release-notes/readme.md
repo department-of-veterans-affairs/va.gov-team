@@ -1,6 +1,6 @@
 # VAHB Mobile App - Mobile Feature Support Team Release Notes
 
-Please view the release notes below for information about our deployments to various VA.gov products. For additional information, please visit the following links:
+Please view the release notes below for information about our deployments to various VAHB mobile app products. For additional information, please visit the following links:
 
 - [Who is the Mobile Feature Support team?](https://github.com/department-of-veterans-affairs/va-mobile-feature-support)
 - [What products do we work on, and why?](https://github.com/department-of-veterans-affairs/va-mobile-feature-support)
