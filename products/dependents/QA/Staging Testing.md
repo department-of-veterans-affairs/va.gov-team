@@ -35,7 +35,7 @@
 
 ### Instructions for testing:
 
-1.Start a new thread in the [OBI+VA.gov Teams testing channel](https://teams.microsoft.com/l/channel/19%3A7Dew_Vfcs2z_BJK7XVhgWbaSQfJej2UO13Kq51sebX81%40thread.tacv2/General?groupId=954a8eef-0c1f-4129-8eea-94149c3fef97&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
+1. Start a new thread in the [OBI+VA.gov Teams testing channel](https://teams.microsoft.com/l/channel/19%3A7Dew_Vfcs2z_BJK7XVhgWbaSQfJej2UO13Kq51sebX81%40thread.tacv2/General?groupId=954a8eef-0c1f-4129-8eea-94149c3fef97&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
    - Example:
      > VA.gov is preparing to launch an updated version of the 21-686/674 interview-style form that will include [list types of updates here]. We anticipate starting testing in **about a week** and we'll be providing pdf+json files for review and submitting testing claims using test data in VA.gov's staging environment. From there, **we'll need support** to validation that the test submissions passed through BGS, VBMS, and RBPS as expected. (Reminder: VA.gov does not have a pre-prod testing environment with prod data similar to ProdTest.)
 2. Test assigned front end [scenario](https://docs.google.com/spreadsheets/d/1Hd9pWDVzfduV2UsYF7eUqXJ_PShJeo5yLrgwvZJ5Nak/edit?gid=1908961305#gid=1908961305).
