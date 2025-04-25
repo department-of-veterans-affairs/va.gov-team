@@ -4,6 +4,7 @@ about: Epic template for the ARF team
 title: "[ ARF ] Project title v# (Discipline)"
 labels: accredited-rep-facing
 assignees: ''
+type: Epic
 
 ---
 
