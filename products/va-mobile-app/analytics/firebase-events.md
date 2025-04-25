@@ -26,16 +26,15 @@ Last updated: 4/24/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_claim_call ` | |
+| `vama_claim_call ` | not used in the app, but present in the data (legacy event) |
 | `vama_claim_cancel_1 ` | |
 | `vama_claim_cancel_2 ` | |
-| `vama_claim_count ` | |
+| `vama_claim_count ` | not used in the app, but present in the data (legacy event) |
 | `vama_claim_details_exp ` | |
 | `vama_claim_details_open ` | |
 | `vama_claim_details_tab ` | |
 | `vama_claim_details_ttv ` | |
-| `vama_claim_disag ` | |
-| `vama_claim_disag ` | |
+| `vama_claim_disag ` | User selects "What to do if you disagree" from a claim detail screen |
 | `vama_claim_eval_cancel ` | |
 | `vama_claim_eval_check ` | |
 | `vama_claim_eval_conf ` | |
