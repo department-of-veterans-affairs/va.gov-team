@@ -1,4 +1,4 @@
-# Decision and Change Log: Representative Status Widget
+# Decision and Change Log: Representative Status
 
 This document is actively maintained by Product Manager, Lindsay Li-Smith, and updates are made every Friday.
 
