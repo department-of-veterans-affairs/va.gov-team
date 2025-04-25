@@ -5,13 +5,13 @@
 ## Outcome Summary
 - Enabling Veterans to complete multiple forms using the same data input.
 - This could be achieved through several iterations:
-     - MVP: Prompting for 10-10CG upon completion of 10-10EZ and receipt of "enrolled" determination for Veterans with 70% or higher disability rating and prefilling with previously entered data/MPI
+     - MVP: Prompting for 10-10CG and/or 10-10D upon completion of 10-10EZ and receipt of "enrolled" determination for Veterans with 70% or higher disability rating and prefilling with previously entered data/MPI
      - Prompting for additional forms that may be logical next steps for Veterans
      - Work with form owners to prefill with previously entered data/MPI
      - Working with form owners to create a selection list and simultaneous submission of multiple forms
 - This will streamline the application process, reduce redundancy, and enhance the overall Veteran experience.
 
-- **MVP Scope**: Prompting for 10-10CG upon completion of 10-10EZ and receipt of "enrolled" determination for Veterans with 70% or higher disability rating
+- **MVP Scope**: Prompting for 10-10CG and/or 10-10D upon completion of 10-10EZ and receipt of "enrolled" determination for Veterans with 70% or higher disability rating
 
 **Related/Associated product(s)**
 - Product | [10-10EZ product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
