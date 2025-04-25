@@ -193,3 +193,11 @@ body:
     attributes:
       label: Do you have any other results to share?
       description: If you've tested using screen readers, mobile devices, or any other tools, tell us about any issues that you've identified. See the information about [advanced accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Advancedaccessibilitytests(recommended)advanced-testing) on Platform website.
+  - type: markdown
+    attributes:
+      value: |
+        ## 8. Next steps
+  - type: markdown
+    attributes:
+      value: |
+        Add a link to your completed accessibility testing ticket to the staging review artifacts section of your Collaboration Cycle ticket. You can close this ticket after you complete your staging review.
