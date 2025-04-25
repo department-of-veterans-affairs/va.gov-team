@@ -178,7 +178,7 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 - [Anything re "We'll save your application on every change" Y / N]
 
 ## Task 2: Fill out form
-Please continue filling out this form, but I want you to use a fake name and other information so you don't share any of your personal information. 
+Please fill out this form for yourself, but I want you to use fake details so you don't share your personal information with me. 
 
 ### Watch for:
 - [Anything re saving info entered]
@@ -200,7 +200,7 @@ OK, now let's say that you're back from answering the door. Please continue fill
 
 - [Record how resume: open browser tab / Link on form intro page / Link on My VA]
 
-- [If needed, tell what to click on to go to Unauth/Auth/My VA]
+- [If needed, tell what to click to go to Unauth (Lemon) / Auth (Apple) / My VA (Mango)]
 
 
 ### Watch for:
@@ -229,7 +229,7 @@ OK, pretend that you made lunch (dinner), ate it, and it was good. Now you want 
 
 [Record how resume: open browser tab / Link on form intro page / Link on My VA]
 
-- [If needed, tell letter to click on to go to Unauth/Auth/My VA]
+- [If needed, tell what to click to go to Unauth (Lemon) / Auth (Apple) / My VA (Mango)]
 
 ### Watch for:
 - [Anything re saving info entered]
