@@ -22,3 +22,5 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _Implemented in this ([Github issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85092))._
 - **4/11/2025**: Additional checks for ICN and Participant ID (PID) were added to the frontend helper, to determine a user's representative status eligibility up front and reduce the 500 and 422 errors we get back from Lighthouse.
   _Implemented in this ([Github issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106509))._
+- **4/21/2025**: Chose to keep links in Rep Status widget the same for the Profile experience, to maintain consistency for users as well as development.
+  _Confirmed by Product Manager Lindsay Li-Smith ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1745262466946299))._
