@@ -4,6 +4,7 @@ about: Research issue for the ARF Design Team
 title: ''
 labels: accredited-rep-facing, research
 assignees: ''
+type: Task
 
 ---
 
