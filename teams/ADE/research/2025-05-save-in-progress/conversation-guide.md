@@ -176,7 +176,7 @@ Please fill out this form to request your own military records, but I want you t
 
 ### Watch for:
 - [Anything re saving info entered]
-- [Anything re the progress bar]
+- [Anything re the progress bar? Steps vs. screens?]
 - [Anything re error messages? If so:
   - Do they know what the error means?
   - Do they know how to resolve the error?
@@ -203,7 +203,7 @@ OK, now let's say that you're back from answering the door. Please continue fill
 ### Watch for:
 - [Anything re saving info entered]
 - [See if go back to previous page to remember what they were doing]
-- [Anything re the progress bar]
+- [Anything re the progress bar? Steps vs. screens?]
 - [Anything re error messages? If so:
   - Do they know what the error means?
   - Do they know how to resolve the error?
@@ -233,7 +233,7 @@ OK, pretend that you just finished your lunch (dinner). Now you want to get back
 ### Watch for:
 - [Anything re saving info entered]
 - [See if go back to previous page to remember what they were doing]
-- [Anything re the progress bar]
+- [Anything re the progress bar? Steps vs. screens?]
 - [Anything re error messages]
 
 
