@@ -69,7 +69,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 2. Have you recently visited VA.gov?
 - If yes, asked if they've accessed it using a phone or tablet?
 
-## GREEN FIRST
+## GREEN FIRST - 15 minutes
 
 - Today you’ll go through two different prototypes - option green and option red.
 
@@ -176,6 +176,8 @@ In this scenario, you realized that one of your expense is incorrect. You had a 
 
 - [Instruct them to click ‘End Demo” button to back back to the Start Form screen]
 
+## RED Second - 7 minutes
+
 **[Start Form]**
 
 **[Personal Information]**
@@ -213,7 +215,7 @@ In this scenario, you realized that one of your expense is incorrect. You had a 
 
 **[Review]**
 
-# Post-Task Interview - X minutes
+# Post-Task Interview - 5 minutes
 
 Thank you so much for going through the form with me. I have a couple of last questions before we wrap up.
 
@@ -229,7 +231,7 @@ Thank you so much for going through the form with me. I have a couple of last qu
    <mark>**[Record answer here]**</mark>
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 1 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
