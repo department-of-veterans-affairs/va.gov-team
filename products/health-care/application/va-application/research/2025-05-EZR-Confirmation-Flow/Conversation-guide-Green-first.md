@@ -227,8 +227,6 @@ Thank you so much for going through the form with me. I have a couple of last qu
 
 - I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
    - **If yes:** Is there any part of our discussion you would NOT want shared in a video clip?
- 
-   <mark>**[Record answer here]**</mark>
 
 
 ## Thank-You and Closing - 1 minutes
