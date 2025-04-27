@@ -69,45 +69,157 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 2. Have you recently visited VA.gov?
 - If yes, asked if they've accessed it using a phone or tablet?
 
-## First Task: [TASK NAME] - X minutes
+## GREEN FIRST
 
-- [ ] Step 1
-- [ ] Step 2
+- Today you’ll go through two different prototypes - option green and option red.
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-> - [Etc]
+- Imagine you have a spouse and one dependent. You may have filled out a similar form before and now, they’re asking you to update your financial information. 
 
-## Second Task: [TASK NAME] - X minutes
+- For this scenario, are you comfortable with sharing your screen and talk through your process?
 
-- [ ] Step 1
-- [ ] Step 2
+- I will now share a link to the prototype with you. [Share link to (https://www.figma.com/proto/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=8332-144952&t=WtgdBTqnbTbbPSPi-1&scaling=min-zoom&content-scaling=fixed&page-id=8109%3A122152&starting-point-node-id=8332%3A144952) in zoom chat]. Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.  
+ 
+- [If participant is unable to share  screen] I can share my screen for you
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+**[Start Form]**
 
-## Third Task: [TASK NAME] - X minutes
+- Let's start with the GREEN option.
 
-- [ ] Step 1
-- [ ] Step 2
+**[Personal Information]**
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+- Please take a few moments to go through this page, I'd like you to think out loud as much as possible, noting if anything is confusing  
+[Direct them through the form, inform them that they can click on continue when ready]
+ 
+### Things to watch for:
+- Do participants express any confusion about the verbiage used on this page? Especially around “Review your information before you continue”.
+- Do express any confusion or frustration with the direction and continue around updating their personal information? 
+
+**[Mailing Address]**
+
+- As I have mentioned before, in this scenario, this information came from previous information you’ve provide. For the research proposes, you would be going through this form to make sure the fill in are accurate and makes sense.
+
+**[Home Adddress]**
+
+**[Contact Info]**
+
+**[Marital Status]**
+
+- Okay, lets pause right here.  If you are no longer married, what do you expect to happen when you choose one of the other status?
+
+**[Spouse Information]**
+
+**[Spouse Additional Info]**
+
+**[Spouse Financial Support]**
+
+**[Spouse Adddress]**
+
+**[Dependent Review]**
+
+**[Veteran Income]**
+
+- For this section, I will give you a the financial information that you’ll need.
+
+- For this scenario, you and your spouse’s work and salary has not changed from 2023 to 2024.
+
+Information to be provided to participant, via chat: 
+
+> For this scenario, you and your spouse’s work and salary has not changed from 2023 to 2024.
+>
+> 
+> Here is your financial information:
+> 
+> Numbers from your 2024 W2:
+> 
+> Your gross income: $62,400
+> 
+> Your net income: $47,798
+> 
+> Your other income: $0
+>
+> Number from your spouse’s 2024 W2:
+> 
+> Your spouse’s gross income: $50,895
+> 
+> Your spouse’s net income: $45,925
+> 
+> Your other income: $0
+> 
+> 
+> Your 2024 expenses and deductibles:
+>  
+> Non-reimbursable medical expense: $3000
+> 
+> Education expense: $430
+> 
+> Funeral and Burial expense: $0 
+
+### things to watch for:
+- Observe how the participant uses this information
+- Does the amount of information slow them down?
+- Do they check the numbers more than once?
+
+**[Spouse Income]**
+
+**[Deductible Expenses]**
+
+- [After they get to the bottom of the page] Okay lets pause here for a few questions:
+
+- Was there any part that was confusing to you?
+- On a scale of 1-5 (1 being very easy and 5 being very hard) - how difficult would it be for you to complete this financial information if you were doing this with your real information?
+- Why did you give it that rating?
+- Do you have any suggestions or feedback for making the page and update process better?
+
+**[Review]**
+- [Did they catch the error?]
+In this scenario, you realized that one of your expense is incorrect. You had a big out-of-pocket dental operation last year of $3000. How would you fix that error?
+
+- [Instruct them to click ‘End Demo” button to back back to the Start Form screen]
+
+**[Start Form]**
+
+**[Personal Information]**
+
+**[Contact Info]**
+- Do you prefer this overview option or the detailed one in the Option Green prototype?
+
+**[Marital Status]**
+
+**[Spouse - Review]**
+
+**[Depedent V2 Intro]**
+
+**[Depedent Review]**
+
+**[Financial Intro]**
+- You can use the previous financial information that I gave you.  And it will be the same exact scenario, you and your spouse’s work and salary has not changed from 2023 to 2024.
+
+**[Depedent Review]**
+
+**[Veteran Income]**
+
+**[Spouse Income]**
+
+**[Deductible Expenses]**
+- Okay lets pause here for a few questions:
+
+- Was there any part that was confusing to you?
+- How was this financial section compared to the previous one?
+- On a scale of 1-5 (1 being very easy and 5 being very hard) - how hard would it be for you to complete this financial information if you were doing this with your real information?
+- Why did you give it that rating? 
+
+- Did you find the gray box referencing the previous financial informational helpful?
+- In this scenario, the expense is also incorrect. Would this screen make it easier to catch?
+
+**[Review]**
 
 # Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+Thank you so much for going through the form with me. I have a couple of last questions before we wrap up.
+
+- What were your overall thoughts about the two prototype we went over? Did you have a preference for one versus the other?
+- Is there anything you'd change about the whole form if you could?
+- Do you have any questions for me?
 
 ## Consent to use video clips
 
