@@ -50,6 +50,7 @@ Some routing is based on category, topic (and when available) a subtopic, **plus
 |And state of property|**Category**: Housing assistance and home loans<br>**Topic**: Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants<br>**State of property**:...<br>**Queue**: VBA-LGY-Specially Adapted Housing|
 |And medical facility|**Category**: Health care<br>**Topic**: Getting care at a local VA medical center<br>**Medical facility**:...<br>**Queue**: PATSR*|
 |And postal code|**Category**: Veteran Readiness and Employment<br>**Topic**: Financial issues<br>**Postal code**:...<br>**Queue**: VBA Anchorage RO-VR&E|
-|And location of residence|**Category**: Guardianship, custodianship, or fiduciary issues<br>**Topic**: Accounting issues<br>**Location of residence**...<br>**Queue**: VBA Louisville Fid Hub|
+|And location of residence|**Category**: Guardianship, custodianship, or fiduciary issues<br>**Topic**: Accounting issues<br>**Location of residence:**...<br>**Queue**: VBA Louisville Fid Hub|
 
-*PATSR uses Medical facility to create the case for the proper facility queues in the PATSR application.
+> [!NOTE]
+> *PATSR uses Medical facility to create the case for the proper facility queues in the PATSR application.
