@@ -5,8 +5,8 @@
 - Other claims can go to BTSSS
 
 ## Entry points
-- All unauthenticated entry points
-- All authenticated entry points (on the last one, pick an appointment from the appointments list and go through the successful flow)
+- Key unauthenticated entry points
+- Key authenticated entry points (on the last one, pick an appointment from the appointments list and go through the successful flow)
 
 ## SMOC Flow
 - Go through the three questions
