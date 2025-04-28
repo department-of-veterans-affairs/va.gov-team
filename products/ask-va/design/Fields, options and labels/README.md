@@ -23,4 +23,4 @@ This folder contains documentation related to fields, options and labels.
 
 ## Questions?
 
-You can join [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) or reach out to Tyler Gindraux: tyler@bluetiger.digital | tyler.gindraux@va.gov
+You can join [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) or reach out to Tyler Gindraux: tyler@bluetiger.digital
