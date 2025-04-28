@@ -21,7 +21,7 @@ Before enabling your feature toggle in production, you'll need to:
 - [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+  - [x] review the release plan with your team.
 
 ## Step 3: Production rollout
 
