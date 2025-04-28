@@ -21,7 +21,6 @@ A Veteran is able to directly schedule their comunity care appointments for **op
 ### Rollout Strategy
 [Feature toggles](https://staging-api.va.gov/flipper/features) will be enabled:
 - va_online_scheduling_cc_direct_scheduling
-- va_online_scheduling_community_care
 
 #### Metrics to Monitor
 
