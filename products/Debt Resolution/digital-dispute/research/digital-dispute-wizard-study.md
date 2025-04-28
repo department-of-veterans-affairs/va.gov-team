@@ -1,4 +1,4 @@
-#  Research  Plan  for  [Financial Management Team,  Wizard (intro pages) and Digital Dispute Form,  May 2025]
+#  Research  Plan  for  [Financial Management Team,  R&S page (and intro pages) and Digital Dispute Form,  May 2025]
 
 
 ## Background 🏗️ Briefly describe the background of your product.
