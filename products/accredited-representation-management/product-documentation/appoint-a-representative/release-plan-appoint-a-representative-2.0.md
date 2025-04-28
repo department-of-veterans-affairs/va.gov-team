@@ -78,15 +78,11 @@ Google Analytics traffic to Appoint a Representative ([VA.gov Forms KPIs Domo Da
 
 ### 1-Month Results Post Launch (March 25 - April 25, 2025)
 
-1. Errors in Datadog:
-2. Google Analytics traffic to Appoint a Representative
-12. Contact Center calls (MyVA411): 
-13. Feedback survey submmissions (Medallia): 
+1. Online submissions: 5 
+2. Errors in Datadog:0
+3. 11 users have seen the `/submission-method page`, a new page that was introduced as part of this 2.0 release.
 
-**What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?**  
-
-**OKRs:**
-
+**What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?**  The team is thinking about how to open up online submission to more organizations/representatives, to increase the online submission activity.
 
 ## Post-Launch Questions
 
