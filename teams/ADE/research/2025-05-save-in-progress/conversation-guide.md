@@ -251,7 +251,7 @@ OK, pretend that you just finished your lunch (dinner). Now you want to get back
      1.  online purchase / patient form / _________________? 
 1. *(if haven't already talked about saving)* When do you expect the information you enter into an online form to be saved?
 
-     *1. Before / after submitting?*
+     1. Before / after submitting?
 1. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 3 minutes
@@ -279,7 +279,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Debrief to my spreadsheet
 
 ## Approvals
-- Martha Wilkes, OCTO Accessibility Strategist/Designer, on [4-28-2025]
+- Martha Wilkes, OCTO Accessibility Strategist/Designer, on 4-28-2025
 - Shane Strassberg, Research-Ops Lead, on [MM-DD-2025]
 
 
