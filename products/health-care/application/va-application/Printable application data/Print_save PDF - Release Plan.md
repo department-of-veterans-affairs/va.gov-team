@@ -40,7 +40,7 @@ Before enabling your feature toggle in production, you'll need to:
 - How will you make the product available in production while limiting the number of users who can find/access it: We will use the feature toggle to limit the exposure to a percentage of users
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
   - Successful link access and actions (printing/saving)
-  - Error rates above zero
+  - Error rates (should not be above zero)
 - Links to the dashboard(s) showing "success criteria" metrics: [Datadog action tracking](https://vagov.ddog-gov.com/notebook/12606?cell_id=b043htjf&tpl_var_action.name=%2A) and [Datadog Service tracking](https://vagov.ddog-gov.com/apm/resource/healthcare-application/rack.request/fed2018843dbdd46?query=env%3Aeks-staging%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AHealthCareApplicationsController%23download_pdf%22%20service%3Ahealthcare-application&env=eks-prod&fromUser=false&start=1744641831958&end=1745246631958&paused=false)
 - Who is monitoring the dashboard(s)?: Heather Justice - PM, Brandon Cooper - Engineer, Luis Simauchi - Data Analyst
 
@@ -57,7 +57,9 @@ Before enabling your feature toggle in production, you'll need to:
 #### Results
 
 - Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Metrics at this stage (per your "success criteria"):
+  - Successful link access and actions (printing/saving)
+  - Error rates (should not be above zero)
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
@@ -72,7 +74,9 @@ Before enabling your feature toggle in production, you'll need to:
 #### Results
 
 - Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Metrics at this stage (per your "success criteria"): 
+  - Successful link access and actions (printing/saving)
+  - Error rates (should not be above zero)
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
@@ -90,7 +94,9 @@ Before enabling your feature toggle in production, you'll need to:
 #### Results
 
 - Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Metrics at this stage (per your "success criteria"): 
+  - Successful link access and actions (printing/saving)
+  - Error rates (should not be above zero)
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
