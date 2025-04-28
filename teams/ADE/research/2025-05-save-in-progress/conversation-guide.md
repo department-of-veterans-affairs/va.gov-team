@@ -96,11 +96,15 @@ Let’s start with a few questions...
 
 1. What web browser do you use? *(Chrome / Firefox / Edge / Safari / _______)*
 
+1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
+
+   - *(If text or email)* Could the notetaker please text/email the link now?
+
 ### For only assistive tech users
 
-4. What assistive technology are you using right now? *(screen reader / magnifier _______________________)*
+5. What assistive technology are you using right now? *(screen reader / magnifier _______________________)*
     - *(If **Dolphin** screen reader, won't be able to share screen on Zoom)*
-    - *(if no AT)* Do you sometimes use assistive technology? 
+    - *(if no AT)* Do you sometimes use assistive technology while using VA.gov or filling out a form online? 
       - If so, what do you use and when? 
         - Would you be willing to start using it now in this session? 
         - *(if not, run session w/o AT, or stop and ask Perigean for a replacement participant)*
@@ -116,9 +120,7 @@ Let’s start with a few questions...
 
 ### For everyone
 
-9. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
-
-1. What VA benefits, if any, do you have experience with? 
+10. What VA benefits, if any, do you have experience with? 
     - *RECORD: health care / education / career services / disability / home loan / pension / life insurance / burial benefits / __________*
 
 1. Have you ever filled out a VA form online before? 
@@ -146,7 +148,6 @@ We can help guide you through this if you need help. Please say what you're doin
 Now I'd like you to open a website that I'm going to share with you. 
 
 I will *[email/text/dictate/put into the Zoom chat]* the URL: ***bit.ly/TBD***
-- *(If text or email)* Could the notetaker please text/email the link?
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 - *(Might need to hold tablet horizontally so easier to read)*
 
@@ -166,6 +167,8 @@ I'd like you to take a look at this page, and then use it to get your military r
 Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
 [Sign in to start your request > Start your request]
+
+[When they get to the form:] Please stop here so I can give you the next instruction.
 
 ### Watch for:
 - [Anything re "You can save this request" light blue alert? Y / N]
