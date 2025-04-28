@@ -8,8 +8,8 @@ This document lists the fields we have removed or are removing from Ask VA.
 Jump to:
 - [Reason you're contacting us](#reason-youre-contacting-us)
 - [Gender](#gender)
-- [VA employee](#va-employee)
 - [Pronouns](#pronouns)
+- [VA employee](#va-employee)
 - [Veteran's Service Start Date](#veterans-service-start-date)
 - [Veteran's Service End Date](#veterans-service-end-date)
 - [Veteran's Claim Number](#veterans-claim-number)
@@ -57,6 +57,20 @@ This field was removed from Ask VA in June 2024. The Change Control Board voted 
 - The AVA CRM already gets data from the Master Person Index (MPI) when there's a match with Veteran data. MPI is the authoritative identity service within VA for establishing, maintaining, and synchronizing identities for VA persons. When an analyst generates a report using the Advanced Find tool in CRM, it contains gender data from MPI.
 - Gender for Veteran dependents are also not in MPI. However, in early March, we confirmed that we only need to know the Veteran's gender to meet the CWV's needs. So we don't need gender data for dependents.
 - [Read more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Gender.md).
+
+## Pronouns
+
+This field was optional and allowed a one-character free-text response. The form asked for the submitter's pronouns.
+
+### Current status
+
+This field was removed from Ask VA in February 2025 in response to an [Executive Order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/).
+
+### Why we removed this field
+
+- This [Executive Order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/) required us to remove this field.
+- However, we had previously recommended this field be removed, namely because Ask VA was one of few online VA forms that asked for pronouns and Veterans had negative reactions to this field.
+- [Read more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Pronouns.md).
 
 ## VA employee
 
