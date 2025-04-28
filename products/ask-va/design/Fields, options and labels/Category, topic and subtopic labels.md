@@ -15,7 +15,6 @@ Categories are listed in order of rank field, meaning sequential order from most
 
 Topics and subtopics are listed alphabetically, except `Other` which is last in the list when present.
 
-
 ## Categories
 
 |Label type|Previous name (ask.va.gov)|Updated name (VA.gov)|
@@ -94,11 +93,7 @@ Topics and subtopics are listed alphabetically, except `Other` which is last in 
 |`Topic`|Issues/Questions about compensation received|Issue with compensation received|
 |`Topic`|Status of a pending claim|Checking claim status|
 
-## Health care
-
-Topics are listed in `alphabetical` order.
-
-`Category`: Health care
+### Category: Health care
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -113,9 +108,7 @@ Topics are listed in `alphabetical` order.
 |`Topic`|Vet Center / Readjustment Counseling Service (RCS)|Vet Centers and readjustment counseling|
 |`Topic`|Women Veterans Health Care|Women's health services|
 
-Subtopics are listed in `alphabetical` order.
-
-`Topic`: Family health benefits
+#### Topic: Family health benefits
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -123,23 +116,21 @@ Subtopics are listed in `alphabetical` order.
 |`Subtopic`|CHAMPVA CITI (Family Member VA Care)|CHAMPVA In-House Treatment Initiative (CITI)|
 |`Subtopic`|Spina Bifida Program for Children of Vet|Spina Bifida Health Care Benefits Program|
 
-`Topic`: Caregiver support program
+#### Topic: Caregiver support program
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
 |`Subtopic`|Program of Comprehensive Assistance for Family Caregiver|Program of Comprehensive Assistance for Family Caregivers (PCAFC)|
 |`Subtopic`|Program of General Caregiver Support Services|Program of General Caregiver Support Services (PGCSS)|
 
-`Topic`: Prosthetics
+#### Topic: Prosthetics
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
 |`Subtopic`|(New)|Eligibility for special benefits related to prosthetics|
 |`Subtopic`|(New)|Special benefits application status|
 
-## Veteran Readiness and Employment
-
-`Category`: Veteran Readiness and Employment
+### Category: Veteran Readiness and Employment
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -148,9 +139,7 @@ Subtopics are listed in `alphabetical` order.
 |`Topic`|Requesting Follow Up / Contact|Follow up on application or contact counselor|
 |`Topic`|General Information|Other|
 
-## Pension
-
-`Category`: Pension
+### Category: Pension
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -160,9 +149,7 @@ Subtopics are listed in `alphabetical` order.
 |`Topic`|Guardianship or Custodianship Issues|Guardianship, custodianship, or fiduciary issues|
 |`Topic`|Issues/Questions about pension received|Issue with payment|
 
-## Housing assistance and home loans
-
-`Category`: Housing assistance and home loans
+### Category: Housing assistance and home loans
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -176,9 +163,7 @@ Subtopics are listed in `alphabetical` order.
 |`Topic`|VA Property Management - Homes for Sale/VA Real Estate Owned Properties|Homes for sale by VA|
 |`Topic`|VA Property Management Oversight Unit - Title and Tax Issues|Property titles and taxes for homes sold by VA|
 
-## Life insurance
-
-`Category`: Life insurance
+### Category: Life insurance
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -195,9 +180,7 @@ Subtopics are listed in `alphabetical` order.
 |`Topic`|(New)|Veterans Affairs Life Insurance (VALife)|
 |`Topic`|Other Issue|Other|
 
-## Burials and memorials
-
-`Category`: Burials and memorials
+### Category: Burials and memorials
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -209,16 +192,14 @@ Subtopics are listed in `alphabetical` order.
 |`Topic`|Memorial Products – Headstones, Markers, and Medallions <br> for non-national cemeteries, Urns and Plaque|Memorial items|
 |`Topic`|National Cemetery Administration - General|Other|
 
-`Topic`: Memorial items
+#### Topic: Memorial items
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
 |`Subtopic`|(New)|Headstones, markers, medallions, and Presidential Memorial Certificates|
 |`Subtopic`|(New)|Burial flags|
 
-## Survivor benefits
-
-`Category`: Survivor benefits
+### Category: Survivor benefits
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -229,11 +210,7 @@ Subtopics are listed in `alphabetical` order.
 |`Topic`|Issues/Questions about Benefits received|Issue with benefit payment|
 |`Topic`|Status of a Pending Claim|Checking claim status|
 
-## Sign in and technical issues
-
-**THIS IS STILL PENDING APPROVAL**
-
-`Category`: Sign in and technical issues
+### Category: Sign in and technical issues
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -242,7 +219,7 @@ Subtopics are listed in `alphabetical` order.
 |`Topic`|VA.gov Account Technical Issue|Signing in to VA.gov|
 |`Topic`|(New)|igning in to other websites (like milConnect, AccessVA, or My HealtheVet)|
 
-`Topic`: Technical issues on VA.gov
+#### Topic: Technical issues on VA.gov
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -256,7 +233,7 @@ Subtopics are listed in `alphabetical` order.
 |`Subtopic`|Use of VA logo or VA seal|Use of VA logo or VA seal|
 |`Subtopic`|All other Web related technical issues|Other|
 
-`Topic`: Signing in to VA.gov
+#### Topic: Signing in to VA.gov
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -265,25 +242,21 @@ Subtopics are listed in `alphabetical` order.
 |`Subtopic`|Claim Access Issue|Checking claim status or accessing saved claim|
 |`Subtopic`|Other Technical Issue|Other|
 
-## Decision reviews and appeals
-
-`Category`: Decision reviews and appeals
+### Category: Decision reviews and appeals
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
 |`Topic`|Appeal located at a regional office|Higher-Level Reviews or Supplemental Claims|
 |`Topic`|Appeal located specifically at BVA (DC)|Board Appeals|
 
-`Topic`: Board Appeals
+#### Topic: Board Appeals
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
 |`Subtopic`|Question about My Hearing|Questions about my hearing|
 |`Subtopic`|All other Questions|Other|
 
-## Debt for benefit overpayments and copay bills
-
-`Category`: Debt for benefit overpayments and copay bills
+### Category: Debt for benefit overpayments and copay bills
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -300,16 +273,14 @@ Subtopics are listed in `alphabetical` order.
 |`Topic`|Severance Pay Debt|Severance pay debt|
 |`Topic`|Veteran Readiness and Employment Debt|Veteran Readiness and Employment debt|
 
-## Benefits issues outside the U.S.
-
-`Category`: Benefits issues outside the U.S.
+### Category: Benefits issues outside the U.S.
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
 |`Topic`|Compensation|Disability compensation|
 |`Topic`|Education (Ch.30, 33, 35, 1606, etc. & Work Study)|Education benefits and work study|
 
-`Topic`: Education benefits and work study
+#### Topic: Education benefits and work study
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -317,9 +288,7 @@ Subtopics are listed in `alphabetical` order.
 |`Subtopic`|Work Study|Work study|
 |`Subtopic`|All Other|Other|
 
-## Guardianship, custodianship, or fiduciary issues
-
-`Category`: Guardianship, custodianship, or fiduciary issues
+### Category: Guardianship, custodianship, or fiduciary issues
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -327,42 +296,34 @@ Subtopics are listed in `alphabetical` order.
 |`Topic`|Field Examination (Investigations)|Investigations and field examinations|
 |`Topic`|General Fiduciary Program Information|About the program|
 
-## DEERS (Defense Enrollment Eligibility Reporting System)
-
-`Category`: DEERS (Defense Enrollment Eligibility Reporting System)
+### Category: DEERS (Defense Enrollment Eligibility Reporting System)
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
 |`Topic`|Add requests|Adding requests|
 |`Topic`|Update DEERS|Updating DEERS records|
 
-## Center for Women Veterans
-
-`Category`: Center for Women Veterans
+### Category: Center for Women Veterans
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
 |`Topic`|(New)|Programs and policies|
 |`Topic`|(New)|General question|
 
-## Center for Minority Veterans
-
-`Category`: Center for Minority Veterans
+### Category: Center for Minority Veterans
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
 |`Topic`|(New)|Programs and policies|
 
-## Veteran ID Card (VIC)
-
-`Category`: Veteran ID Card (VIC)
+### Category: Veteran ID Card (VIC)
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
 |`Topic`|Veteran ID (Retailer Discount)|Veteran ID Card (VIC) for discounts|
 |`Topic`|Veteran Health ID (VHIC – Facility Access/Check-In)|Veteran Health Identification Card (VHIC) for health appointments|
 
-`Topic`: Veteran ID Card (VIC) for discounts
+#### Topic: Veteran ID Card (VIC) for discounts
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
@@ -375,7 +336,7 @@ Subtopics are listed in `alphabetical` order.
 |`Subtopic`|Unable to upload picture/service documents|Trouble uploading photos or documents|
 |`Subtopic`|Other|Other|
 
-`Topic`: Veteran Health Identification Card (VHIC) for health appointments
+#### Topic: Veteran Health Identification Card (VHIC) for health appointments
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
