@@ -2,7 +2,7 @@
 
 _Ask VA VA.gov Team_
 
-Last updated by @tygindraux: February 18, 2025
+Last updated by @tygindraux: April 28, 2025
 
 This documents describes different Ask VA inquiry statuses and when they are assigned.
 
@@ -13,7 +13,7 @@ This documents describes different Ask VA inquiry statuses and when they are ass
 
 ## Statuses and when they are displayed
 
-For Phase 1 on VA.gov, we'll display these statuses and descriptions. We revised the [legacy descriptions](#legacy-statuses-for-reference) using the [VA.gov content style guide](https://design.va.gov/content-style-guide/plain-language/use-active-voice). Due to the complexity of updating the status names without revisiting the trigger events, our VEO partners and our team agreed to keep the statuses as is in the CRM, but they are 'manipulated' on the submitter front-end.
+We currently display these statuses and descriptions on VA.gov. However, the CRM still displays [legacy status names](#legacy-statuses-for-reference).
 
 |CRM status|VA.gov status|Descriptive text|Trigger event|
 |:--|:--|:--|:--|
@@ -26,7 +26,7 @@ For Phase 1 on VA.gov, we'll display these statuses and descriptions. We revised
 
 ## Legacy statuses for reference
 
-This is the text that is currently displayed on ask.va.gov. This descriptive text will be retired when we move to VA.gov, but the triggers and statuses will remain the same.
+These labels were displayed on ask.va.gov.
 
 |Status|Descriptive text|Trigger event|
 |:--|:--|:--|
