@@ -22,7 +22,7 @@ Routing is either:
 
 Most routing is based on a category, topic (and when available) a subtopic.
 
-|Questions that determine routing|Examples| 
+|Fields that determine routing|Example| 
 |:--|:--| 
 |Category and topic|**Category**: Disability compensation<br>**Topic**: Any topic within this category<br>**Queue**: VBA ART| 
 |Category, topic, and subtopic|**Category**: Health care<br>**Topic**: Family member health benefits<br>**Subtopic**: CHAMPVA benefits<br>**Queue**: VHA HAC CHAMPVA (Civilian Hlth&Med Prog)| 
@@ -34,19 +34,22 @@ Some routing is based on category, topic (and when available) a subtopic, **plus
 - school facility
 - state of school facility
 - state of residence
-- health facility
-- postal code
 - state of property
+- health facility
+- location of residence
+- postal code
 
-|Questions that determine routing|Examples| 
+> [!NOTE]
+> This table provides examples but is not comprehensive of all categories that route based on an additional field.
+
+|Fields that determine routing|Example| 
 |:--|:--| 
-|Category, topic, and School facility code|**Category**: Education benefits and work study<br>**Topic**: Benefits for survivors and dependents<br>**School facility code**:...<br>**Queue**: Buffalo CSR|
-|Category, topic, subtopic, and School facility code|**Category**: Education benefits and work study<br>**Topic**: Work study<br>**Subtopic**: Application<br>**School facility code**:...<br>**Queue**: Buffalo CSR|
-|Category, topic, and State of school|**Category**: Education benefits and work study<br>**Topic**: Educational and career counseling<br>**State of school**: ...<br>**Queue**: Muskogee CSR|
-|Category, topic, subtopic, and State of school|**Category**: Education benefits and work study<br>**Topic**: Transfer of benefits<br>**Subtopic**: Transferring benefits after death of Veteran or dependent (Section 110)<br>**State of school**: ...<br>**Queue**: Buffalo Colmery Section 110| 
-|Category, topic, and State of residence|**Category**: Education benefits and work study<br>**Topic**: School Certifying Officials (SCOs)<br>**State of residence**:...<br>**Queue**: Muskogee Schools| 
-|Category, topic, subtopic, and State of residence|**Category**: Education benefits and work study<br>**Topic**: Work study<br>**Subtopic**: Position description<br>**State of residence**:...<br>**Queue**: Buffalo Work Study| 
-|Category, topic, and medical facility|**Category**: Health care<br>**Topic**: Getting care at a local VA medical center<br>**Medical facility**:...<br>**Queue**: PATSR|PATSR uses Medical facility to create the case for the proper facility queues in the PATSR application.|
-|Category, topic, and postal code|**Category**: Veteran Readiness and Employment<br>**Topic**: Financial issues<br>**Postal code**:...<br>**Queue**: VBA Anchorage RO-VR&E|❓Does Postal code or State of residence determine routing for VR&E? Noticed there could be multiple regional offices within a single state.|
-|Category, topic, and State of Property|**Category**: Housing assistance and home loans<br>**Topic**: Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants<br>**State of property**:...<br>**Queue**: VBA-LGY-Specially Adapted Housing|❓How does State of property determine the queue?|
-|Category, topic, and State of residence|**Category**: Guardianship, custodianship, or fiduciary issues<br>**Topic**: Accounting issues<br>**State of residence**:...<br>**Queue**: VBA Indy Fid Hub|Questions go to VBA ART or VBA Columbia Fid Hub? if conditional rules fail.|
+|And school facility code|**Category**: Education benefits and work study<br>**Topic**: Benefits for survivors and dependents<br>**School facility code**:...<br>**Queue**: Buffalo CSR|
+|And state of school|**Category**: Education benefits and work study<br>**Topic**: Educational and career counseling<br>**State of school**: ...<br>**Queue**: Muskogee CSR|
+|And state of residence|**Category**: Education benefits and work study<br>**Topic**: School Certifying Officials (SCOs)<br>**State of residence**:...<br>**Queue**: Muskogee Schools| 
+|And state of property|**Category**: Housing assistance and home loans<br>**Topic**: Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants<br>**State of property**:...<br>**Queue**: VBA-LGY-Specially Adapted Housing|
+|And medical facility|**Category**: Health care<br>**Topic**: Getting care at a local VA medical center<br>**Medical facility**:...<br>**Queue**: PATSR*|
+|And postal code|**Category**: Veteran Readiness and Employment<br>**Topic**: Financial issues<br>**Postal code**:...<br>**Queue**: VBA Anchorage RO-VR&E|
+|And location of residence|**Category**: Guardianship, custodianship, or fiduciary issues<br>**Topic**: Accounting issues<br>**Location of residence**...<br>**Queue**: VBA Louisville Fid Hub|
+
+*PATSR uses Medical facility to create the case for the proper facility queues in the PATSR application.
