@@ -1,4 +1,4 @@
-    # Conversation Guide for [YYYY-MM Study Name]
+# Conversation Guide for 2025-05 10-10EZR Confirmation Flow
 
 # Moderator logistics 📋✅
 ### 2-3 days before the session
@@ -176,9 +176,10 @@ In this scenario, you realized that one of your expense is incorrect. You had a 
 
 - [Instruct them to click ‘End Demo” button to back back to the Start Form screen]
 
-## RED Second - 7 minutes
+## RED SECOND - 7 minutes
 
 **[Start Form]**
+- Now that we've completed the GREEN option,  we will move onto the RED option. In this option, some screens will be the same and some will be different.
 
 **[Personal Information]**
 
