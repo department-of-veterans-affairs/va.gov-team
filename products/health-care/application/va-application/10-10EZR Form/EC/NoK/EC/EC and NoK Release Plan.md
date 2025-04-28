@@ -1,5 +1,5 @@
 # 10-10EZR Emeregency Contact (EC) and Next of Kin (NoK) - Release Plan 
-- Last updated: 4/10/2025
+- Last updated: 4/28/2025
 
 
 ## Step 1: Development
@@ -18,14 +18,14 @@ Feature toggle
 Before enabling your feature toggle in production, you'll need to:
 
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-  - [x] [Link to Test cases/Test Rail](https://dsvavsp.testrail.io/index.php?/suites/view/11&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
-- [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
-   - [x] Confirm with Joshua Faulkner and team on End to End testing
-   - [x] Link to confirmation of successful transmission/processing
-- [x] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [x] review the plan with your DEPO/OCTO representative.
-  - [x] review the release plan with your team.
+  - [x] [Link to Test cases/Test Rail]
+- [] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+   - [] Confirm with Joshua Faulkner and team on End to End testing
+   - [] Link to confirmation of successful transmission/processing
+- [] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
+  - [] review the plan with your DEPO/OCTO representative.
+  - [] review the release plan with your team.
 
 ## Step 3: Production rollout
 
