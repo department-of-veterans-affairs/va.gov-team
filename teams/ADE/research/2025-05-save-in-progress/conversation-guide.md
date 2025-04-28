@@ -246,6 +246,9 @@ OK, pretend that you just finished your lunch (dinner). Now you want to get back
 1. Overall, about everything on the website in this session...What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
+1. What kinds of online forms have you filled out before? 
+
+     1.  online purchase / patient form / _________________? 
 1. *(if haven't already talked about saving)* When do you expect the information you enter into an online form to be saved?
 
      *1. Before / after submitting?*
@@ -276,7 +279,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Debrief to my spreadsheet
 
 ## Approvals
-- Martha Wilkes, OCTO Accessibility Strategist/Designer, on [MM-DD-2025]
+- Martha Wilkes, OCTO Accessibility Strategist/Designer, on [4-28-2025]
 - Shane Strassberg, Research-Ops Lead, on [MM-DD-2025]
 
 
