@@ -19,14 +19,14 @@ Requirements, due dates, and any other relevant information for the feature. Thi
 
 
 ## Go Live Process
-1. Feature development
-2. Architecture Intent
-   * [Diagram of user flow and system interactions in sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams)
-   *  TODO:
-2. Staging review
-   * [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/commit/0e27a4d5a95c4d96e30e4f9e4e3c41ef43262606)
-   * [Test artifacts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/commit/cc6647dc004af407ba8a9b6f8849ac1897d023e6)
-   * TODO:
+- [ ] Feature development
+- [ ] Architecture Intent
+   - [ ] [Diagram of user flow and system interactions in sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams)
+   - [ ] TODO: Can't remember other things to add here
+- [ ] Staging review
+   - [ ] [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/commit/0e27a4d5a95c4d96e30e4f9e4e3c41ef43262606)
+   - [ ] [Test artifacts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/commit/cc6647dc004af407ba8a9b6f8849ac1897d023e6)
+   - [ ] TODO: Can't remember other things to add here
 
 ---
 
