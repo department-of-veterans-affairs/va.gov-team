@@ -1,7 +1,7 @@
 # Release Plan - Community Care Direct Scheduling
 
 **Important Dates:**
- - [ ] Staging Review -  TBD
+ - [ ] Staging Review -  05/09/2025
  - [ ] Go/no go Meeting - TBD
  - [ ] Prod Release Pilot - TBD
 
