@@ -199,7 +199,6 @@ Last updated: 4/24/2025
 | `vama_rx_help ` | Prescription refill help button clicks |
 | `vama_rx_na ` | Prescription history, no prescriptions |
 | `vama_rx_noauth ` | user is not authorized to view prescriptions |
-| `vama_rx_pendingtab ` | User presses the Pending tab in prescription history |
 | `vama_rx_refill_cerner ` | not present in the app |
 | `vama_rx_refill_fail ` | User's refill request failed |
 | `vama_rx_refill_retry ` | User clicked option to retry submission after failed attempt |
@@ -207,7 +206,6 @@ Last updated: 4/24/2025
 | `vama_rx_request_confirm ` | confirm refill request |
 | `vama_rx_request_start ` | User starts a refill request |
 | `vama_rx_sort` | User clicks to open up sort options |
-| `vama_rx_sort_sel` | User makes selection for how to sort prescriptions |
 | `vama_rx_status` | view refill status |
 | `vama_rx_trackdet` | user taps "get presciption tracking" option |
 | `vama_rx_trackdet_close ` | user closes the presciption tracking dialog box |
