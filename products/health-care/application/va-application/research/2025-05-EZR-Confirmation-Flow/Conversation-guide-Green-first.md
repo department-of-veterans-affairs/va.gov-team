@@ -1,4 +1,4 @@
-# Conversation Guide for 2025-05 10-10EZR Confirmation Flow
+# Conversation Guide for 2025-05 10-10EZR Confirmation Flow [GREEN FIRST]
 
 # Moderator logistics 📋✅
 ### 2-3 days before the session
@@ -204,6 +204,9 @@ In this scenario, you realized that one of your expense is incorrect. You had a 
 **[Spouse Income]**
 
 **[Deductible Expenses]**
+
+**[Financial Review]**
+
 - Okay lets pause here for a few questions:
 
 - Was there any part that was confusing to you?
