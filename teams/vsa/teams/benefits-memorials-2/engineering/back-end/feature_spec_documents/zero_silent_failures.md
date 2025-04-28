@@ -1,0 +1,152 @@
+# Feature Specification Document
+
+## Zero Silent Failures Emails
+
+## Documentation
+* [Async email submission requirements](https://design.va.gov/patterns/help-users-to/stay-informed-of-their-application-status#for-asynchronous-submissions)
+
+## 🧭 Overview
+We need to send 2, possibly 3 emails to users through out the lifecycle of the **ASYNC** submission process. 
+
+## Questions
+* Polling?
+* Webhook?
+* Possibly small change to rely on the response?
+
+## Notes
+* Huron is VHA/copay related
+* Check Kevin's docs about Huron
+
+## Acceptance Criteria
+
+### FSR
+#### Email 1 "Submission in progress"
+> The notification we send immediately after someone selects the Submit button on an online form.`
+
+**VBA submissions:**
+modules/debts_api/lib/debts_api/v0/financial_status_report_service.rb:130
+`send_confirmation_email(VBA_CONFIRMATION_TEMPLATE)`
+
+**VHA submissions:**
+modules/debts_api/lib/debts_api/v0/financial_status_report_service.rb:172
+`send_vha_confirmation_email(_status, options)`
+
+#### Email 2 "Received"
+> The notification we send when we’ve received a submitted form in the system of record. This means the form is ready for processing. **Only send this status notification when we have confirmation that the request has reached the system of record.**
+
+Not implemented
+
+#### Email 3 "Action needed"
+> The error notification we send if a form submission fails to reach the system of record. This means we need the person to resubmit or take another action before we can process their form. This notification must include instructions for the person to recover from the error. There are different templates available based on the remediation steps specific to the form.
+
+Not implemented
+
+### Digital Dispute (May not need)
+#### Email 1 "Submission in progress
+> The notification we send immediately after someone selects the Submit button on an online form.`
+
+Not implemented
+
+#### Email 2 "Received"
+> The notification we send when we’ve received a submitted form in the system of record. This means the form is ready for processing. **Only send this status notification when we have confirmation that the request has reached the system of record.**
+
+Not implemented
+
+#### Email 3 "Action needed"
+> The error notification we send if a form submission fails to reach the system of record. This means we need the person to resubmit or take another action before we can process their form. This notification must include instructions for the person to recover from the error. There are different templates available based on the remediation steps specific to the form.
+
+Not implemented
+
+## Notes
+* We may not need this for Digital Dispute, we should ask about keeping the submission syncronous.
+
+## Gotchas/Unknowns
+
+## Go Live Process
+1. Feature development
+2. Architecture Intent
+   * [Diagram of user flow and system interactions in sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams)
+   *  TODO:
+2. Staging review
+   * [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/commit/0e27a4d5a95c4d96e30e4f9e4e3c41ef43262606)
+   * [Test artifacts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/commit/cc6647dc004af407ba8a9b6f8849ac1897d023e6)
+   * TODO:
+
+---
+
+## ⚙️ Backend Requirements
+
+### 📊 Datadog Metrics
+Metrics to be emitted:
+- `your_app.feature_name.submission_started`
+- `your_app.feature_name.submission_received`
+- `your_app.feature_name.error_occurred`
+- Add any custom `distribution` metrics for performance timing
+
+### 🔔 Datadog Monitors
+Monitors to be created:
+
+### 📧 Email Notifications
+1. Staging template created
+2. Staging temaplate ID added to AWS parameter store
+3. Staging copy, tempalte id, and screenshot sent to security team
+4. Template pushed to production
+5. Production template ID added to AWS parameter store
+
+Emails that will be triggered:
+- **Submission In Progress** – User receives confirmation that submission has started
+- **Submission Received** – User receives final confirmation
+- **Action Needed** – User is alerted to resolve a validation issue or failure
+
+### 🌐 Third-Party Integrations
+External systems used:
+- [ ] VBA
+- [ ] VBS
+- [ ] DMC
+- [ ] Any other services
+
+### 🔁 Internal Endpoints
+Expected Rails controller actions:
+- `POST /api/v1/submissions`
+- `GET /api/v1/submissions/:id`
+- `PUT /api/v1/submissions/:id`
+- `POST /api/v1/submissions/:id/validate`
+
+### 🛠 Internal Services
+Expected service objects used:
+
+### 🧾 PDF Requirements
+Details for PDF generation:
+- Required fields and formatting
+- Font and accessibility compliance
+- Merge with static legal PDFs if needed
+- Headers/footers
+- Naming convention: `submission_{{id}}.pdf`
+
+### 💾 Database Changes
+Schema and migration needs:
+- New table: `submissions`
+- Fields: `user_id`, `status`, `pdf_url`, `metadata`, `timestamps`
+- Indexes and constraints
+
+### 🧪 Testing Requirements
+1. Manual testing in staging
+2. Verification of data submission to 3rd party teams
+3. Test with Veteran in production
+
+### 🧱 Feature Flags / Rollout Strategy
+- Flag name: `enable_submission_v2`
+- Gradual rollout (dev → staging → prod)
+
+### 📁 Logging & Error Handling
+What to log:
+- Non-sensitive data like submission id
+- Error messages
+
+### 🧵 Background Jobs
+Jobs considerations:
+- Job name: `ProcessSubmissionJob`
+- Retry logic (e.g., max 5 retries)
+- Exhaustion block added
+- Alert on exhausted retries
+- Logging in exhaustion block

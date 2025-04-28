@@ -2,12 +2,21 @@
 
 ## Feature name
 
+## Due Date
+
+## Documentation
+
 ## 🧭 Overview
 Brief description of the feature, its purpose, and any relevant background context.
 
+## Questions
 
 ## Acceptance Criteria
 Requirements, due dates, and any other relevant information for the feature. This should be a bulleted list of items that need to be completed before the feature can be considered done.
+
+
+## Gotchas/Unknowns
+
 
 ## Go Live Process
 1. Feature development
@@ -41,9 +50,12 @@ Monitors to be created:
 5. Production template ID added to AWS parameter store
 
 Emails that will be triggered:
-- **Submission In Progress** – User receives confirmation that submission has started
+- **Submission In Progress**
+> The notification we send immediately after someone selects the Submit button on an online form.`
 - **Submission Received** – User receives final confirmation
+> The notification we send when we’ve received a submitted form in the system of record. This means the form is ready for processing. **Only send this status notification when we have confirmation that the request has reached the system of record.**
 - **Action Needed** – User is alerted to resolve a validation issue or failure
+> The error notification we send if a form submission fails to reach the system of record. This means we need the person to resubmit or take another action before we can process their form. This notification must include instructions for the person to recover from the error. There are different templates available based on the remediation steps specific to the form.
 
 ### 🌐 Third-Party Integrations
 External systems used:
