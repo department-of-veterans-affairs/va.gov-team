@@ -6,7 +6,7 @@ Jump to:
 - [How this pattern works](#how-this-patterns-works)
 - [When to enable or disable contact options](#when-to-enable-or-disable-contact-options)
 - [Contact rules by topic](#contact-rules-by-topic)
-- [Reason for keeping US mail](#why-us-mail-is-an-option-sometimes)
+- [Why U.S. mail is an option sometimes](#why-us-mail-is-an-option-sometimes)
 
 ## How this pattern works
 
