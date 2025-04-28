@@ -1,6 +1,6 @@
 # Contact options by business line
 
-Last updated by @tygindraux: April 24, 2025
+Last updated by @tygindraux: April 28, 2025
 
 Jump to:
 - [How this pattern works](#how-this-patterns-works)
@@ -12,7 +12,7 @@ Jump to:
 
 If a business line supports 2 or more contact options, the form includes a question that asks for a submitter's contact preference. If a business line only supports 1 contact option (email), the form omits this question. This is determined based on category and topic.
 
-The confirmation page lets a submitter know how they will be contacted, either by phone, email or U.S. mail. Even if a business line only supports 1 contact option (email) so the form omits the question, the confirmation page should still state how they will be contacted (by email).
+The confirmation page always lets a submitter know how they will be contacted, either by phone, email or U.S. mail.
 
 ## When to enable or disable contact options
 
@@ -157,7 +157,8 @@ Subtopics are not listed here, because they follow the same contact rules as the
 |`Veteran Readiness and Employment`|How to apply|✅|✅|✖️|
 |`Veteran Readiness and Employment`|Other|✅|✅|✖️|
 
-### Why we sometimes offer U.S. mail as an option
+### We U.S. mail is an option sometimes
+
 In March 2024, we documented some reasons why the following business lines wanted to keep the US mail option for their category and/or topic.
 
 #### Decision reviews and appeals
@@ -182,4 +183,5 @@ The business line stakeholder provided the following reason for keeping US mail:
 
 #### Debt for benefit overpayments and health care copay bills
 The business line stakeholder provided the following reason for keeping US mail:
+
 > We are required by 38USC to keep physical mail as our primary notification so therefore we need to keep it.  
