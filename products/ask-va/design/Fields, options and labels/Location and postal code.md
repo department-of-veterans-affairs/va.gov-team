@@ -1,18 +1,15 @@
 # Location of residence and postal code
 
-Last updated by @tygindraux: December 5, 2024
+Last updated by @tygindraux: April 28, 2025
 
-**In this document:**
+Jump to:
 - [1. General rules](#1-general-rules)
 - [2. Guardianship and VR&E rules](#2-guardianship-and-vre)
 - [3. Education > VR&E rules](#3-education--vre)
 - [4. Health care rules](#4-health-care)
-- [5. Pages in Figma](#5-pages-in-figma)
+- [5. Figma](#5-figma)
 
--------
--------
-
-# 1. General rules
+## 1. General rules
 
 **Most categories and topics do not require a location of residence or a postal code, unless someone chooses to be contacted by mail.**
 
@@ -26,10 +23,9 @@ However, there are a few scenarios where we collect location of residence and/or
 
 In general, when we require a location of residence and/or a postal code for the **submitter**, we **first** check which contact preference they choose. If their contact preference is phone or email, then we carry on asking for their location of residence and/or postal code. **But**, if their contact preference is U.S. mail, then we skip collecting their location of residence and/or postal code separately. They're collected on the mailing address page instead.
 
--------
--------
+-----
 
-# 2. Guardianship and VR&E
+## 2. Guardianship and VR&E
 
 `IF CATEGORY =`
 - Guardianship, custodianship or fiduciary issues
@@ -167,10 +163,9 @@ In general, when we require a location of residence and/or a postal code for the
 
 We require location of residence and postal code so we can route to the correct queue.
 
--------
--------
+-----
 
-# 3. Education > VR&E
+## 3. Education > VR&E
 
 **This works the same as above, because the VR&E topic should be treated just like the VR&E category.**
 
@@ -308,10 +303,9 @@ We require location of residence and postal code so we can route to the correct 
 
 We require location of residence and postal code so we can route to the correct queue.
 
--------
--------
+-----
 
-# 4. Health care
+## 4. Health care
 
 `IF CATEGORY`
 - Health care
@@ -435,11 +429,9 @@ We require postal code because these VHA offices are national but they may need 
 
 We don't require postal code when we collect VA medical center in order to reduce submitter burden. Also, medical facility is more specific and if it's still necessary, an agent can get their postal code through MPI.
 
--------
--------
+-----
 
-
-# 5. Pages in Figma
+## 5. Figma
 
 ### Submitter
 - If they choose contact by mail: [Your mailing address](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1224-120750)
