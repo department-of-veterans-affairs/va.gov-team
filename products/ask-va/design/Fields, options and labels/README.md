@@ -17,6 +17,9 @@ This folder contains documentation related to fields, options and labels.
 |[Location and postal code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md)|Describes location and postal code rules.|
 |[Pronouns](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Pronouns.md)|Describes our path to remove pronouns.|
 |[Statuses and triggers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields,%20options%20and%20labels/Statuses%20and%20triggers.md)|Describes inquiry statuses and when they are assigned.|
+|[Which fields determine routing queue](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields,%20options%20and%20labels/Which%20fields%20determine%20routing%20queue.md)|Explains which fields are used to route an Ask VA inquiry to the correct queue.|
+
+
 
 ## Questions?
 
