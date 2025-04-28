@@ -1,5 +1,16 @@
 # Running Design and Research Agenda
 
+## April 28 2025
+Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Amanda Klausmeier, Renata Keck, Rachel Pope, Andrea Merril
+
+### Agenda Topics
+* UX Roadmap
+* ChampVA Claims supporting docs
+  * content changes
+  * birth/marriage certificate removal
+* 1010d/OHI merge mocks
+* FMP Claims direct deposit view/edit content
+
 ## April 21 2025
 Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Amanda Klausmeier, Renata Keck, Rachel Pope, Andrea Merril, Mike Mooney
 
