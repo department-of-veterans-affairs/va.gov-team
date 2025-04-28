@@ -6,7 +6,7 @@ Jump to:
 - [How this pattern works](#how-this-patterns-works)
 - [When to enable or disable contact options](#when-to-enable-or-disable-contact-options)
 - [Contact rules by topic](#contact-rules-by-topic)
-- [Reason for keeping US mail](#reason-for-keeping-US-mail)
+- [Reason for keeping US mail](#why-us-mail-is-an-option-sometimes)
 
 ## How this pattern works
 
@@ -157,7 +157,7 @@ Subtopics are not listed here, because they follow the same contact rules as the
 |`Veteran Readiness and Employment`|How to apply|✅|✅|✖️|
 |`Veteran Readiness and Employment`|Other|✅|✅|✖️|
 
-### We U.S. mail is an option sometimes
+### Why U.S. mail is an option sometimes
 
 In March 2024, we documented some reasons why the following business lines wanted to keep the US mail option for their category and/or topic.
 
