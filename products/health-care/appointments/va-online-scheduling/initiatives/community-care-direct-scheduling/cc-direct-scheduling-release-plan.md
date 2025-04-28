@@ -19,13 +19,17 @@ A Veteran is able to directly schedule their comunity care appointments for **op
 - Log in to va.gov and access requests and referrals.
 
 ### Rollout Strategy
-[Feature toggles](https://staging-api.va.gov/flipper/features) will be enabled:
+[Feature toggle](https://staging-api.va.gov/flipper/features) will be enabled:
 - va_online_scheduling_cc_direct_scheduling
 
-#### Metrics to Monitor
+Selection criteria:
+- Veterans with active, non-expired Community Care referrals
+- Specialty: optometry
 
+#### Metrics to Monitor
+TBD
 
 ### Rollback Strategy
-Disable feature toggles.
+Disable feature toggle.
 
 ## Phase II: TBD
