@@ -12,7 +12,7 @@
 
 ## Problem
 - The current 10-10EZ form is lengthy and can be time-consuming for Veterans to complete, even when much of their information is already known by the VA. This can lead to frustration, abandonment of the application, and a barrier to access for care. 
-- The form is designed to collect all possible information from all applicants, rather than being tailored to authenticated Veterans with pre-existing data. Other costraints may include legacy system limitations and policy requirements.
+- The form is designed to collect all possible information from all applicants, rather than being tailored to authenticated Veterans with pre-existing data. Other constraints may include legacy system limitations and policy requirements.
 - This initiative furthers OCTO-DE's mission by streamlining processes through digital solutions, thereby increasing access to health care and improving the Veteran experience.
 
 ## Desired User Outcomes
