@@ -32,32 +32,29 @@ Before enabling your feature toggle in production, you'll need to:
 ### Define the Rollback process
 
 - PM and Data Analyst will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to disable the toggle and begin triage.
-- We have a content widget for the static page that can be disabled with the feature toggle, in comjunction with the EZR form.
-- Have Content Team (Aliyah Blackmore) revert the Static Page to previous version, removing mention of online EZR
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
 
 - Desired date range or test duration:
-     - 1.5 weeks - 11/13/23 - 11/21/23
+     - 3 days - 5/X/25-5/X/25
 - Desired number of users:
-     - 5 participants
+     - 1-2 participants
 - How you'll recruit the right production test users:
-     - Perigean recruiting
+     - OCTO members who are Veterans
 - How you'll conduct the testing:
-     - Moderated
+     - Guided
 - How you'll give the test participants access to the product in production w/o making it live on VA.gov:
-     - Feature Toggle 
+     - Feature Toggle for specific users 
 
 #### Results
 
-- Number of users: 10 Participants
-- Number of bugs identified / fixed: 2 bugs found, related to Forms Library. Will address in future iteration.
-  - [#70261](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70261)
-  - [#70258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70258) 
-- Was any downstream service affected by the change?: NO
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? NO
+- Number of users:  Participants
+- Number of bugs identified / fixed: 
+  - Link to any bugs identified 
+- Was any downstream service affected by the change?: 
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? 
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
@@ -66,7 +63,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Rollout Planning
 
 - Desired date range:
-     - 12/20/23 - 01/11/23
+     - 5/6/25-
      - Take two date range: 1/10/24-1/24/24
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - Feature Toggle limiting % of traffic to the application
