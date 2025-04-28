@@ -11,6 +11,56 @@ Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Amanda Klausmeier, Renata Keck, R
 * 1010d/OHI merge mocks
 * FMP Claims direct deposit view/edit content
 
+ ### Notes
+* UX Roadmap
+  * No questions or updates needed
+* ChampVA Claims supporting docs
+  * content changes
+     * Reviewed updates to the upload page content
+     * From CHAMVPA Partners: SSN is needed on the claims form not on the billing statement. We will remove it from the upload page
+     * We reformatted the content on the upload page with bulleted sections for the requirement and bolded the document that is being asked for.
+     * Updated intro page to call out specifically what we need to ask for
+     * Can we make it clearer that we need all of the code and not just one? Show the content example of the bolded word “and’ on the Medicare card uploads
+     * Should we spell out diagnostic code and procedure code> We don't think it’s necessary
+     * Are we being too restrictive? Can we accept diagnosis and procedure descriptions rather than code?
+     * Jina suggested to move DX higher on the list
+     * Should we move the statement about missing info to the top?
+     * Action items:
+       * Move DX higher on the list
+       * Reformat or add content to make it clearer that DX and CPT codes are both required
+       * Jina to find out what other teams use as requirements on their reimbursements.
+       * Add the term “superbill” to the upload itemized billing statement
+
+  * birth/marriage certificate removal
+     * Do supporting docs eventually get to VBA from the application?
+     * Future state: we may be able to show them a list of dependents that they have in VBA
+     * Premal is leaning towards leaving the docs in the 1010d until we learn more about VBA. Can we (IVC) send it to VBA directly?
+     * Can we add content about why we are asking for it or ask them to add a dependent prior to completing the form?
+     * We should get more understanding about the VBA and what users are expecting. Users expect to upload these docs. It gains trust.
+     * Action items:
+        * Leave the Marriage docs for stepchildren and birth certs for all dependents in as required to eliminate the risk of sendbacks.
+        * Add content to the Marriage doc that informs applicants why we need this doc.   
+
+* 1010d/OHI merge mocks
+   * Jamie did a high level review of the completed Figma file (placement of supporting docs TBD)
+   * Action items:
+      * We need to update the Applicant question in the Medicare loop to radios instead of check boxes. 
+
+* FMP Claims direct deposit view/edit content
+  * Should we require users to add a bank account if they don't have one set up in VA Profile? Premal doesn't want to require it yet because we need to confirm if we are pulling from the VA profile fields.
+  * We need to confirm if the other groups that are using VA profiles are ok with adding/editing the bank accounts.
+  * Which products will be affected by this? There’s a chat in slack channel that includes which products share the bank account info
+  * Premal is ok on this for the next iteration but need to know if we want to force a direct deposit with no opt out.
+  * We will need content updates. Rachel can make sure suggestions on that.
+  * FMP is already forcing direct deposit now for users that already have it set up for other programs but need to ask the business if this is the right move to link everything to one bank account?
+  * We don't want to allow the use of a Mastercard for payments.
+  * Action items:
+     * Ask the business if this is the right move to link everything to one bank account.
+     * Confirm if we are pulling from the VA profile fields.
+     * Confirm if the other groups that are using VA profiles are ok with adding/editing the bank accounts.
+
+
+
 ## April 21 2025
 Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Amanda Klausmeier, Renata Keck, Rachel Pope, Andrea Merril, Mike Mooney
 
