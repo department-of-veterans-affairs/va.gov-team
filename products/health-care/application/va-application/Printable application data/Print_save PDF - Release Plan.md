@@ -41,7 +41,10 @@ Before enabling your feature toggle in production, you'll need to:
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
   - Successful link access and actions (printing/saving)
   - Error rates (should not be above zero)
-- Links to the dashboard(s) showing "success criteria" metrics: [Datadog action tracking](https://vagov.ddog-gov.com/notebook/12606?cell_id=b043htjf&tpl_var_action.name=%2A) and [Datadog Service tracking](https://vagov.ddog-gov.com/apm/resource/healthcare-application/rack.request/fed2018843dbdd46?query=env%3Aeks-staging%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AHealthCareApplicationsController%23download_pdf%22%20service%3Ahealthcare-application&env=eks-prod&fromUser=false&start=1744641831958&end=1745246631958&paused=false)
+- Links to the dashboard(s) showing "success criteria" metrics:
+  - [Datadog action tracking](https://vagov.ddog-gov.com/notebook/12606?cell_id=b043htjf&tpl_var_action.name=%2A)
+  - [Datadog Service tracking](https://vagov.ddog-gov.com/apm/resource/healthcare-application/rack.request/fed2018843dbdd46?query=env%3Aeks-staging%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AHealthCareApplicationsController%23download_pdf%22%20service%3Ahealthcare-application&env=eks-prod&fromUser=false&start=1744641831958&end=1745246631958&paused=false)
+  - [Datadog monitor](https://vagov.ddog-gov.com/monitors/355136)
 - Who is monitoring the dashboard(s)?: Heather Justice - PM, Brandon Cooper - Engineer, Luis Simauchi - Data Analyst
 
 ### Stage A: Canary
