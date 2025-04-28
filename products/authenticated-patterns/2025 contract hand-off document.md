@@ -13,7 +13,7 @@ The information below is constructed to help a future team onboard and come up t
 
 Project | Portfolio | Epic | Documentation | Collab Cycle, if any | Status
 --- | --- | --- | --- | --- | ---
-  |  |  |  |  |
+ Critical Action Component |  | [Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/302) |  |  |
   |  |  |  |  |
   |  |  |  |  |
   |  |  |  |  |
