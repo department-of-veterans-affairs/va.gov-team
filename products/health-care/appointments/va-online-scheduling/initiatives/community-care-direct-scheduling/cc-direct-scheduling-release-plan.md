@@ -23,6 +23,8 @@ A Veteran is able to directly schedule their comunity care appointments for **op
 - va_online_scheduling_cc_direct_scheduling
 - va_online_scheduling_community_care
 
+#### Metrics to Monitor
+
 
 ### Rollback Strategy
 Disable feature toggles.
