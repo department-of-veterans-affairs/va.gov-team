@@ -76,15 +76,15 @@ Last updated: 4/24/2025
 | -------- | ------- |
 | `vama_login_closed ` | User closes out of login window |
 | `vama_login_fail ` | Login is unsuccessful |
+| `vama_user_call ` | Failed login attempt with error message |
 | `vama_login_start ` | User starts the login process |
 | `vama_login_success ` | Login is successful |
-| `vama_login_token_fetch ` | |
-| `vama_login_token_get ` | |
-| `vama_login_token_refresh ` | |
-| `vama_login_token_store ` | |
-| `vama_sso_cookie_received ` | |
-| `vama_auth_completed ` | |
-| `vama_user_call ` | |
+| `vama_login_token_fetch ` | Debug event, error fetching the login token |
+| `vama_login_token_get ` | Success or failure of getting a refresh token |
+| `vama_login_token_refresh ` | Debug error attempting to initialize authentication with a refresh token |
+| `vama_login_token_store ` | The success or failure of storing a refresh token |
+| `vama_sso_cookie_received ` | Successful fetching of SSO cookies |
+| `vama_auth_completed ` | User successfully signed into the app |
 
 ### Availability Framework
 
@@ -128,7 +128,7 @@ Last updated: 4/24/2025
 | `vama_givefb_close ` | User is leaving the webview for in app recruitment |
 | `vama_givefb_open ` | "Learn more about the Veteran Usability Project" link click & webview launch for loading feedback form |
 | `vama_feedback_ask ` | Runs on cancel and OK for in app feedback |
-| `vama_feedback_closed ` | ??? |
+| `vama_feedback_closed ` | User get the feedback screen, but closes without submitting |
 | `vama_feedback_submitted ` | In app feedback submitted with screen, task, satisfaction |
 
 ### Homescreen
