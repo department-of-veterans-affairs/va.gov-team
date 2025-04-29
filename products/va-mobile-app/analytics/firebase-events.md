@@ -49,14 +49,14 @@ Last updated: 4/24/2025
 | `vama_claim_upload_compl ` | API call to upload returns a success for the file uploaded. **Note**: While the user can select more than one photo to upload, they are compiled into a single pdf for upload. |
 | `vama_claim_upload_fail ` | API call to upload returns a fail |
 | `vama_claim_upload_start ` | API call to upload is sent |
-| `vama_claim_why_combine ` | |
+| `vama_claim_why_combine ` | User triggers the "Find out why we sometimes combine claims" sheet |
 | `vama_request_details ` | |
 | `vama_evidence_conf ` | |
 | `vama_evidence_cont_1 ` | |
-| `vama_evidence_cont_2 ` | |
-| `vama_evidence_cont_3 ` | |
-| `vama_evidence_start ` | |
-| `vama_evidence_type ` | |
+| `vama_evidence_cont_2 ` | Information about a claim attachment |
+| `vama_evidence_cont_3 ` | File / Photo upload confirmation |
+| `vama_evidence_start ` | Select a file / take a photo button is selected |
+| `vama_evidence_type ` | Logging evidence types photo and/or file |
 
 ## Letters
 
