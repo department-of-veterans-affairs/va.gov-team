@@ -108,6 +108,10 @@ Are there moments that matter?</summary>
 
 **For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
 - `[Link to email with instructions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/profile/Research/profile-hub/2025-05-profile-hub-tree-test/research-plan.md#instruction-email)`
+
+> [!NOTE]
+> **Please do not use this link to recruit.** Optimal Workshop no longer provides a way to generate a link until the study is launched. After we pilot I will launch the study and provide the link for Perigean.
+
 - `[Link to OptimalSort session](https://dj540s05.optimalworkshop.com/treejack/profile-hub)`
 
 	
