@@ -2,7 +2,7 @@
 name: DMT bug
 about: Use this ticket to track bugs.
 title: "Bug: [issue title]"
-labels: bug, dependent-benefits
+labels: dependent-benefits, bug
 assignees: ''
 type: bug
 project: Life Stages - Benefits Dependents Experience+LSS Team
