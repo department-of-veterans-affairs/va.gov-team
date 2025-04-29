@@ -35,10 +35,10 @@ Last updated: 4/24/2025
 | `vama_claim_details_tab ` | segmented control tab change for claim details (status / files) |
 | `vama_claim_details_ttv ` | tracking how much time a user spends on a claim detail screen |
 | `vama_claim_disag ` | User selects "What to do if you disagree" from a claim detail screen |
-| `vama_claim_eval_cancel ` | |
-| `vama_claim_eval_check ` | |
-| `vama_claim_eval_conf ` | |
-| `vama_claim_eval_submit ` | |
+| `vama_claim_eval_cancel ` | @todo |
+| `vama_claim_eval_check ` | Required checkbox for the user to confirm the have uploaded all evidence |
+| `vama_claim_eval_conf ` | On claim submission, possibly duplicative with `vama_claim_eval_submit` |
+| `vama_claim_eval_submit ` | Requesting a claim evaluation on submit of a claim |
 | `vama_claim_file_request ` | User accesses the claim details screen at step 3 & includes a request for file from the VA (so the file upload button is present) |
 | `vama_claim_file_view ` | |
 | `vama_claim_review ` | |
@@ -50,9 +50,9 @@ Last updated: 4/24/2025
 | `vama_claim_upload_fail ` | API call to upload returns a fail |
 | `vama_claim_upload_start ` | API call to upload is sent |
 | `vama_claim_why_combine ` | User triggers the "Find out why we sometimes combine claims" sheet |
-| `vama_request_details ` | |
-| `vama_evidence_conf ` | |
-| `vama_evidence_cont_1 ` | |
+| `vama_request_details ` | Viewing file details |
+| `vama_evidence_conf ` | Required checkbox for user confirmation that evidence is related to the active claim |
+| `vama_evidence_cont_1 ` | Open image library on the user's device|
 | `vama_evidence_cont_2 ` | Information about a claim attachment |
 | `vama_evidence_cont_3 ` | File / Photo upload confirmation |
 | `vama_evidence_start ` | Select a file / take a photo button is selected |
