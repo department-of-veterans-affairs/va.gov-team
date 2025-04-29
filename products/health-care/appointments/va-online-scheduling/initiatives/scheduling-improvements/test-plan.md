@@ -5,27 +5,31 @@
 
 ## Access Scenarios
 
-- User is logged in and registered at OH locations: allow access to scheduling flow  
-- User is not logged in or lacks access: prevent access, display error message  
+- User is logged in and registered at VA locations: allow access to scheduling flow  
 
 ## Page: What type of care do you need?
 
-- Fetch address on file residentialAddress API call GET /v0/user:  
+- Fetch address on file `residentialAddress` API call `GET /v0/user`:  
   - User does not have a home address on file: display alert “To use some of the tool’s features, you need a home address on file”  
   - User does have a home address on file: display page without alert  
-
 - User selects Nutrition and Food (supported MVP care type): continue to next check (past appointment history)  
-- User selects a non-supported care type: display message “Please call to schedule”  
+
+
+Note: may need to add community care and sub-types of care here
 
 ## Page: Which VA location would you like to go to?
 
+- System attempts to fetch facility registrations and configurations.
+  - Fetch fails: Display 500 error   
 - User selects a facility that supports direct scheduling for selected care type: continue to provider selection  
-- User selects a facility that supports requests only: direct user to request flow  
+- User selects a facility that supports requests only: direct user to request flow
+   - Note: this will change once we sort out requesting with a specific provider
 - User is directed to the request flow but has hit limit of allowed requests: show message “Please call to schedule”  
 - User selects a facility that supports neither direct schedule nor requests: show message “Please call to schedule”  
-- User has never had an appointment for selected care type at facility: show message, direct to call  
-- User selects “current location” from drop-down and has blocked browser location: display alert  
-- Appointment for care type at facility is outside allowed timeframe: block with error  
+- User has never had an appointment for selected care type at facility: : show message “Please call to schedule”  
+- User selects “current location” from drop-down and has blocked browser location: display alert
+- If user hasn't been seen at a facility in the last 36 months, facility doesn't display in list
+- Appointment for care type at facility is outside allowed timeframe: block with Dead End: You can't schedule this appointment online 
 - User is not registered at any OH facility: display error  
 
 ## Page: Which provider do you want to schedule with?
@@ -84,3 +88,4 @@
 
 ## Cancelation scenarios
 
+Note: waiting on Spike on cancelation logic to write up testing plan
