@@ -124,26 +124,26 @@ Last updated: 4/24/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_review_prompt ` | |
-| `vama_givefb_close ` | |
-| `vama_givefb_open ` | |
-| `vama_feedback_ask ` | |
-| `vama_feedback_closed ` | |
-| `vama_feedback_submitted ` | |
+| `vama_review_prompt ` | Requests user to review the app |
+| `vama_givefb_close ` | User is leaving the webview for in app recruitment |
+| `vama_givefb_open ` | "Learn more about the Veteran Usability Project" link click & webview launch for loading feedback form |
+| `vama_feedback_ask ` | Runs on cancel and OK for in app feedback |
+| `vama_feedback_closed ` | ??? |
+| `vama_feedback_submitted ` | In app feedback submitted with screen, task, satisfaction |
 
 ### Homescreen
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_hs_appts_count ` | |
-| `vama_hs_appts_load_time ` | |
-| `vama_hs_claims_count ` | |
-| `vama_hs_claims_load_time ` | |
-| `vama_hs_load_time ` | |
-| `vama_hs_rx_count ` | |
-| `vama_hs_rx_load_time ` | |
-| `vama_hs_sm_count ` | |
-| `vama_hs_sm_load_time ` | |
+| `vama_hs_appts_count ` | Upcoming appointments count for the current authenticated user  |
+| `vama_hs_appts_load_time ` | Time from login to loading appointments on the homescreen |
+| `vama_hs_claims_count ` | Active claims count for the current authenticated user |
+| `vama_hs_claims_load_time ` | Time from login to loading active claims on the homescreen |
+| `vama_hs_load_time ` | Time from login to all completed API calls on the homescreen |
+| `vama_hs_rx_count ` | Refillable prescription count for the current authenticated user |
+| `vama_hs_rx_load_time ` | Time from login to loading refillable prescriptions on the homescreen |
+| `vama_hs_sm_count ` | Unread message count for an authenticated user |
+| `vama_hs_sm_load_time ` | Time from login to loading unread messages on the homescreen |
 
 ### Push Notifications
 
