@@ -213,7 +213,19 @@ Profile
 - Account security
 - Connected apps
 
-### Tree Test Questions
+
+### Study Flow
+
+**Welcome**
+
+Thank you for participating in this VA research study to help us improve the VA.gov profile experience. Your thoughtful participation will help ensure that Veterans are able to successfully find all information in their profiles.
+
+This activity usually takes about 10 to 15 minutes to complete. It is not timed.
+
+We'll guide you through each task in the activity. Select ‘Continue’ to get started.
+
+
+**Tree Test Questions**
 
 All questions other than Q1 will be randomized to reduce bias.
 
@@ -227,16 +239,6 @@ All questions other than Q1 will be randomized to reduce bias.
 8. **Veteran Status Card/** Where would you expect to find a digital version of your Veteran ID Card?
 9. **Paperless delivery/** Where would you expect to opt into digital delivery of VA documents?
 10. **MHV signatures/** Where would you expect to manage your health care signature, which would appear on messages to your VA doctor?
-
-### Study Flow
-
-**Welcome**
-
-Thank you for participating in this VA research study to help us improve the VA.gov profile experience. Your thoughtful participation will help ensure that Veterans are able to successfully find all information in their profiles.
-
-This activity usually takes about 10 to 15 minutes to complete. It is not timed.
-
-We'll guide you through each task in the activity. Select ‘Continue’ to get started.
 
 
 **Post-Study Questions**
