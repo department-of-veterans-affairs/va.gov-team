@@ -27,7 +27,11 @@ Selection criteria:
 - Specialty: optometry
 
 #### Metrics to Monitor
-TBD
+**How we will know we were successful**:
+- TBD
+
+**How we will know to roll back**:
+- TBD
 
 ### Rollback Strategy
 Disable feature toggle.
