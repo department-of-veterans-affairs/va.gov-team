@@ -207,7 +207,7 @@ We won't share any information or feedback linked to your name or other personal
 
 You'll need to enter the code at the start of the activity to receive compensation.
 
-[Link: https://dj540s05.optimalworkshop.com/treejack/profile-hub] Start the activity now
+[Start the activity now](https://dj540s05.optimalworkshop.com/treejack/profile-hub)
 
 
 ### Tree Test Structure
