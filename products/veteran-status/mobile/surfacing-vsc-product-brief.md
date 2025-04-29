@@ -20,7 +20,7 @@ Mobile app users do not know the Veteran Status Card exists in the mobile app if
 
 Adoption is our key performance indicator. We’ll track Veteran engagement and interaction as follows:
 
-* Total number of views of the Proof of Veteran Status Card. We expect this to increase over the baseline, which will be updated once numbers are provided by Alex, per quarter.   
+* Total number of views of the Proof of Veteran Status Card. We expect this to increase over the baseline, which will be updated once numbers are provided by Alex, per month.   
 * Views of each error message. We expect this to be a non-zero amount across all error messages and will track the number of times each error message is surfaced to determine whether additional granularity could be helpful in the future.
 
 ### Supporting OCTO OKRs:
