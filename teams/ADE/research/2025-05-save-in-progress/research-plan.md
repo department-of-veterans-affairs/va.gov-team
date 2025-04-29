@@ -74,7 +74,7 @@ In addition, user feedback collected on "finish this request later", error messa
 ---
   
 ## Methodology  🛠️
-We will conduct **remote moderated usability testing** to observe research participants filling out an online form while authenticated so that the information entered will be automatically saved before the form is submitted.   
+We will conduct **remote moderated usability testing** to observe research participants filling out an online form. The participants will be logged in so that the information they enter will be automatically saved before the form is submitted. We will be using a **GitHub Codespace** that is accessible to screen readers and screen magnifiers. 
 
 Sessions will be conducted over Zoom with transcripts. 
 
@@ -179,8 +179,8 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria.  
 
 Cindy is available for a kickoff call during any of these times: 
-- **May 1** 2-5 pm ET
-- **May 2** 12-5 pm ET
+- **May 1**: 2-5 pm ET
+- **May 2**: 12-5 pm ET
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study to review beforehand.
 
