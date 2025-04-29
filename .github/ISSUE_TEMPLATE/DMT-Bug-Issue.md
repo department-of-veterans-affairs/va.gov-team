@@ -5,7 +5,7 @@ title: "Bug: [issue title]"
 labels: dependents-benefits, bug
 assignees: ''
 type: bug
-project: Life Stages - Benefits Dependents Experience+LSS Team
+projects: Life Stages - Benefits Dependents Experience+LSS Team
 
 ---
 
