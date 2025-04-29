@@ -185,6 +185,8 @@ Please fill out this form to request your own military records, but I want you t
   - Do they know how to resolve the error?
   - How do they want to find out about errors?] 
 
+[Note: If click on anything that goes outside the codespace (e.g., VA logo), you'll see spinning and get stuck. To fix, go back in your browser.]
+
 ## Task 3: (After enter SSN) Short break in filling out form
 Pretend that your doorbell just rang, and you want to jump up to answer it. What will you do with the form that you're filling out?
 
@@ -198,10 +200,11 @@ Pretend that your doorbell just rang, and you want to jump up to answer it. What
 ## Task 4: Resume filling out form
 OK, now let's say that you're back from answering the door. Please continue filling out the form that you were working on. 
 
-- [Record how resume: open browser tab / Link on form intro page / Link on My VA]
+- [Record how resume: open browser tab / "Continue your request" link on form intro page / Link on My VA]
 
-- [If needed, tell what to click to go to Unauth (Lemon) / Auth (Apple) / My VA (Mango)]
+- [If needed, tell what to click to go to **Unauth (Lemon) / Auth (Apple) / My VA (Mango)**]
 
+- [Can also get to My VA from header link and from Chris dropdown menu]
 
 ### Watch for:
 - [Anything re saving info entered]
@@ -229,7 +232,7 @@ Say that you're really hungry and need to take a longer break to make lunch (or 
 ## Task 6: Resume filling out form (again)
 OK, pretend that you just finished your lunch (dinner). Now you want to get back to the form you were filling out. How would you do that?
 
-[Record how resume: open browser tab / Link on form intro page / Link on My VA]
+[Record how resume: open browser tab / "Continue your request" link on form intro page / Link on My VA]
 
 - [If needed, tell what to click to go to Unauth (Lemon) / Auth (Apple) / My VA (Mango)]
 
@@ -239,6 +242,7 @@ OK, pretend that you just finished your lunch (dinner). Now you want to get back
 - [Anything re the progress bar? Steps vs. screens?]
 - [Anything re error messages]
 
+[If see "can't submit your request" alert, say:] Don't worry! It's not working because this is a prototype, not a real form.
 
 # Post-Task Interview - 5 minutes
 
@@ -252,6 +256,7 @@ OK, pretend that you just finished your lunch (dinner). Now you want to get back
 1. *(if haven't already talked about saving)* When do you expect the information you enter into an online form to be saved?
 
      1. Before / after submitting?
+1. If you had a magic wand and could change *anything* about how we save your data before you submit a form, what would you want?
 1. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 3 minutes
