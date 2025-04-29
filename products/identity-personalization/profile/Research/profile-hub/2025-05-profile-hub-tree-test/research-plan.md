@@ -15,7 +15,7 @@ The Core Veteran Experience Crew ensures Veterans and beneficiaries have a cohes
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-We are iterating on the information architecture of the VA.gov Profile Hub based on previous user feedback and analytics in order to incorporate our new feature, the Individual Longitudinal Exposure Record, Individual Exposure Summary (ILER IES) report. The ILER IES report will be a downloadable PDF that informs Veterans of their toxic exposure information to inform their disability claims and health care treatments. [Implementation is being informed by prior research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2025-03-profile-secondary-research/research-findings.md#military-information)
+We are iterating on the information architecture of the VA.gov Profile Hub based on previous user feedback and analytics in order to incorporate new features, including the Individual Longitudinal Exposure Record, Individual Exposure Summary (ILER IES) report. The ILER IES report will be a downloadable PDF that informs Veterans of their toxic exposure information to inform their disability claims and health care treatments. [Implementation is being informed by prior research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2025-03-profile-secondary-research/research-findings.md#military-information)
 
 `Product Brief`
 
@@ -50,32 +50,34 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-`1.` Validate if incorporating the ILER IES report into a new Letters and documents section in the VA.gov Profile matches Veterans mental models.
+`1.` Validate if incorporating the ILER IES report into a new Letters and documents section in VA.gov Profile matches Veterans mental models.
 
-`2.` Validate if contents of the new Letters and documents section in the VA.gov Profile match Veterans mental models.
+`2.` Validate if updating VA.gov Profile Hub to reflect recommendations from prior research and analytics match Veteran mental models.
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
 ---
 
-**Outcome will be a validated IA for incorporating a Letters and documents section and the ILER IES report into VA.gov Profile.** 
+**Outcome will be a validated IA for incorporating new sections into VA.gov Profile Hub, including a Letters and documents section to house the downloadable ILER IES report.** 
 
 ---
 
 ### Research questions
 
-`1.` What data points, that exist on the VA.gov Profile currently, do Veterans associate with a Letters and documents section?
+`1.` Do Veterans associate the ILER IES report with Letters and documents?
 
-`2.` Do Veterans associate the ILER IES report with Letters and documents?
+`2.` Do recommendations to VA.gov Profile Hub, based on prior research and analytics, match Veterans mental models?
 
 ### Hypotheses
 
 ---
 
-**`1.` Based on prior research and analytics, we believe Veterans will want all letters and documents in a single section in VA.gov Profile.**
+**`1.` Based on prior research, we believe Veterans will associate the ILER IES report with a Letters and documents section.**
 
-**`2.` Based on prior research, we believe Veterans will associate the ILER IES report with a Letters and documents section.** 
+**`2.` Based on prior research and analytics, we believe Veterans will want to manage all their letters and documents in a single section in VA.gov Profile.** 
+
+**`3.` Based on prior research, we believe Veterans will want all of their contacts in a single section in VA.gov Profile.** 
 
 ---
   
@@ -106,7 +108,7 @@ Are there moments that matter?</summary>
 
 **For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
 - `[Link to email with instructions](url goes here)`
-- `[Link to prototype or OptimalSort session for group A](url goes here)`
+- `[Link to OptimalSort session](https://dj540s05.optimalworkshop.com/treejack/profile-hub)`
 
 	
 ## Recruitment 🎯
@@ -189,9 +191,78 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **N/A**	
 - `Note-takers:` **N/A**	
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work.`
-
      - **N/A**
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by [Chante, OCTO Product Owner] on [MM-DD-YYYY]`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
+
+
+## Appendix
+
+### Tree Test Structure
+
+Profile
+- Personal information
+- Contact information
+- Dependents and contacts
+- Financial information
+- Service history information
+- Letters and documents
+- Communication preferences
+- Account security
+- Connected apps
+
+### Tree Test Questions
+
+All questions other than Q1 will be randomized to reduce bias.
+
+1. **Disability rating/** For all tasks we're going to ask you to imagine you've signed into VA.gov and have navigated to your profile. For the first task, where would you expect to find your disability rating?
+2. **Dependents/** Where would you expect to update information about your marriage or spouse?
+3. **Heath care contacts/** Where would you expect to find your health care next of kin information?
+4. **Accredited representative/** If you were currently working with a VSO, where would you expect to find information about them?
+5. **Period of service/** Where would you expect to find information about what military branch you served in?
+6. **DD 214/** Where would you expect to access a copy of your DD 214?
+7. **ILER IES/** Where would you expect to download a PDF copy of your toxic exposure information?
+8. **Veteran Status Card/** Where would you expect to find a digital version of your Veteran ID Card?
+9. **Paperless delivery/** Where would you expect to opt into digital delivery of VA documents?
+10. **MHV signatures/** Where would you expect to manage your health care signature, which would appear on messages to your VA doctor?
+
+### Study Flow
+
+**Welcome**
+
+Thank you for participating in this VA research study to help us improve the VA.gov profile experience. Your thoughtful participation will help ensure that Veterans are able to successfully find all information in their profiles.
+
+This activity usually takes about 10 to 15 minutes to complete. It is not timed.
+
+We'll guide you through each task in the activity. Select ‘Continue’ to get started.
+
+
+**Post-Study Questions**
+
+1. \[Open input] Of the sections listed below, are there any missing that you’d expect to see in the VA.gov profile?
+   - Personal information
+   - Contact information
+   - Dependents and contacts
+   - Financial information
+   - Service history information
+   - Letters and documents
+   - Communication preferences
+   - Account security
+   - Connected apps
+
+2. \[Radio] What would you call a section of the profile that includes your dependents, health care contacts, and VSO information?
+   1. Dependents and contacts
+   2. Dependents and personal contacts
+   3. Beneficiaries and contacts
+   4. Other
+
+3. \[Open input] Any other feedback you’d like to provide about your experience today?
+
+
+**Thanks**
+
+Thank you for your participation in this activity to help us improve benefits for Veterans like you.
+
+You may now close this window or navigate to another web page.
