@@ -97,15 +97,15 @@ Last updated: 4/24/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_accordion_click ` | |
-| `vama_pagination ` | |
-| `vama_notification_click ` | |
-| `vama_segcontrol_click ` | |
-| `vama_snackbar_null ` | |
-| `vama_toggle ` | |
-| `vama_modalpick_open ` | |
-| `vama_modalpick_sel ` | |
-| `vama_click ` | |
+| `vama_accordion_click ` | Accordion component action with state information (open / close) |
+| `vama_pagination ` | Using pagination next / previous actions |
+| `vama_notification_click ` | Logging the registered app URL from a push notification |
+| `vama_segcontrol_click ` | Tab change on a segmented control |
+| `vama_snackbar_null ` | not used in the app, but present in the data (legacy event) |
+| `vama_toggle ` | Toggle options on the notification screen after allowing device notifications |
+| `vama_modalpick_open ` | Modal is shown to the user |
+| `vama_modalpick_sel ` | User selects an option in a modal |
+| `vama_click ` | Generic event to capture clicks, text, and screen information |
 | `vama_link_click ` | A link in the app was clicked, reports URL data |
 | `vama_link_confirm ` | A link to leave the app was clicked (not a webview) |
 | `vama_find_location ` | The find a location link was clicked |
