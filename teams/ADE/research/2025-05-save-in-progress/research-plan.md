@@ -179,20 +179,19 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria.  
 
 Cindy is available for a kickoff call during any of these times: 
-- **DATE TBD** TIME RANGE TBD pm ET
-- **DATE TBD** TIME RANGE TBD pm ET
+- **May 1** 2-5 pm ET
+- **May 2** 12-5 pm ET
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study to review beforehand.
-
 
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
 - `Pilot participant name:` **TBD**
-- `Date and time of pilot session:` **TBD** 
+- `Date and time of pilot session:` **TBD** during May 5-8
 
 ### Research sessions
-- `Planned dates of research:` **May 8-19**
+- `Planned dates of research:` **May 12-21**
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
@@ -206,11 +205,6 @@ We would like to request that **Perigean calls each participant** to remind them
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-- `May 8, Thu, 12 - 1 or 1:30 PM ET`
-- `May 8, Thu, 2 - 3 or 3:30 PM ET`
-- `May 8, Thu, 5:30 - 6:30 or 7 PM ET`
-- `May 9, Fri, 3:30 - 4:30 or 5 PM ET`
-- `May 9, Fri, 5:30 - 6:30 or 7 PM ET`
 - `May 12, Mon, 12 - 1 or 1:30 PM ET`
 - `May 12, Mon, 5 - 6 or 6:30 PM ET`
 - `May 12, Mon, 7 - 8 or 8:30 PM ET`
@@ -230,7 +224,14 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `May 19, Mon, 2 - 3 or 3:30 PM ET`
 - `May 19, Mon, 5 - 6 or 6:30 PM ET`
 - `May 19, Mon, 7 - 8 or 8:30 PM ET`
-  
+- `May 20, Mon, 12 - 1 or 1:30 PM ET`
+- `May 20, Mon, 2 - 3 or 3:30 PM ET`
+- `May 20, Mon, 5 - 6 or 6:30 PM ET`
+- `May 20, Mon, 7 - 8 or 8:30 PM ET`
+- `May 21, Mon, 12 - 1 or 1:30 PM ET`
+- `May 21, Mon, 2 - 3 or 3:30 PM ET`
+- `May 21, Mon, 5 - 6 or 6:30 PM ET`
+
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
 - `Moderator:` **Cindy Merrill**	
