@@ -77,6 +77,9 @@ Please view the release notes below for information about our deployments to var
 ## VAHB Mobile App Bug Fixes | 02/04/2025
 - Improved the UI for when fields such as date, groupName, type and dosage data comes back empty.
 
+## Mobile Code Freeze 12/17/2024-1/28/2025
+- Due to a [holiday mobile code freeze](https://dsva.slack.com/archives/C018V2JCWRJ/p1734372001524819), no mobile features were released during this period.
+
 ## VAHB Mobile App Unit Tests | 12/13/2024
 - Updated app unit tests to use i18n translations instead of hardcoded strings for Address Summary, Address Validations and Edit Address Screen within the Contact Information Screen.
 
