@@ -107,7 +107,7 @@ Are there moments that matter?</summary>
 ## Research materials 📔
 
 **For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- `[Link to email with instructions](url goes here)`
+- `[Link to email with instructions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/profile/Research/profile-hub/2025-05-profile-hub-tree-test/research-plan.md#instruction-email)`
 - `[Link to OptimalSort session](https://dj540s05.optimalworkshop.com/treejack/profile-hub)`
 
 	
@@ -159,25 +159,13 @@ Are there moments that matter?</summary>
 - `Planned dates of research:` **05/05 – 05/16/2025**
 
 ### Length of sessions
-- **Not applicable due to being an unmoderated study.**
+- Not applicable due to being an unmoderated study.
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time.** 
 
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
+- Not applicable due to being an unmoderated study.
 
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
-
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
@@ -199,6 +187,24 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 
 ## Appendix
+
+### Instruction Email
+[Subject] Start your VA online research activity
+
+Hello,
+
+Thank you for agreeing to take part in this VA online research activity.
+
+This activity usually takes about 10 to 15 minutes to complete. You can start anytime from your smartphone, laptop, or any device with an Internet connection. We'll guide you through each task in the activity.
+
+We won't share any information or feedback linked to your name or other personal details.
+
+**Here's your participant code: [Add code]**
+
+You'll need to enter the code at the start of the activity to receive compensation.
+
+[Link: https://dj540s05.optimalworkshop.com/treejack/profile-hub] Start the activity now
+
 
 ### Tree Test Structure
 
