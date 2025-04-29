@@ -35,7 +35,7 @@ Last updated: 4/24/2025
 | `vama_claim_details_tab ` | segmented control tab change for claim details (status / files) |
 | `vama_claim_details_ttv ` | tracking how much time a user spends on a claim detail screen |
 | `vama_claim_disag ` | User selects "What to do if you disagree" from a claim detail screen |
-| `vama_claim_eval_cancel ` | **@todo** |
+| `vama_claim_eval_cancel ` | Logged when clicked back on the claim evaluation page. |
 | `vama_claim_eval_check ` | Required checkbox for the user to confirm the have uploaded all evidence |
 | `vama_claim_eval_conf ` | On claim submission, possibly duplicative with `vama_claim_eval_submit` |
 | `vama_claim_eval_submit ` | Requesting a claim evaluation on submit of a claim |
@@ -44,7 +44,7 @@ Last updated: 4/24/2025
 | `vama_claim_review ` | User selects "Review file requests" option |
 | `vama_claim_status_tab ` | User toggles the control from details screen |
 | `vama_claim_step_three ` | User accesses the claim detials screen when their claim is at step 3 in the process |
-| `vama_claim_submit_ev ` | **@todo** |
+| `vama_claim_submit_ev ` | Logged when a user accesses a claim details page with the submit evidence button available. |
 | `vama_claim_submit_tap ` | Navigte to submit evidence subtask screen |
 | `vama_claim_upload_compl ` | API call to upload returns a success for the file uploaded. **Note**: While the user can select more than one photo to upload, they are compiled into a single pdf for upload. |
 | `vama_claim_upload_fail ` | API call to upload returns a fail |
