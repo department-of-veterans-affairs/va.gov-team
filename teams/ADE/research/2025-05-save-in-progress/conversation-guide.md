@@ -19,8 +19,8 @@
 **5-10 min before each session**: 
 - Sign onto Zoom website as Perigean and start Zoom meeting
 - Wear HEADPHONES to prevent the user's screen reader from echoing back to them
-- Open standalone browser window with prototype: **URL TBD**
-- Paste link into Zoom chat (but don't hit enter)
+- Open standalone browser window with prototype: **https://bit.ly/42BBgou** (https://symmetrical-barnacle-gjxjrxqxvrc9wg4-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction)
+- Paste prototype link into Zoom chat (but don't hit enter)
 - Do Not Disturb ON so no notifications
 - Make sure everyone is muted except me and the participant
 
@@ -98,7 +98,7 @@ Let’s start with a few questions...
 
 1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
 
-   - *(If text or email)* Could the notetaker please text/email the link now?
+   - *(If text or email)* Could the notetaker please text/email the link now? (https://bit.ly/42BBgou)
 
 ### For only assistive tech users
 
@@ -147,7 +147,7 @@ We can help guide you through this if you need help. Please say what you're doin
 ## Task 00: Open prototype
 Now I'd like you to open a website that I'm going to share with you. 
 
-I will *[email/text/dictate/put into the Zoom chat]* the URL: ***bit.ly/TBD***
+I will *[email/text/dictate/put into the Zoom chat]* the URL: **https://bit.ly/42BBgou**
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 - *(Might need to hold tablet horizontally so easier to read)*
 
