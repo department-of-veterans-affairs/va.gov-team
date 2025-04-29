@@ -29,7 +29,9 @@ This document is for our design team to communicate field rules. This list is al
 
 ## Attachments
 
-In the form, this is pulled from the categories endpoint so it's regularly updating. AVA Admins have the ability to change these rules at any point, without being part of a release. Attachments are not allowed for unauthenticated submissions.
+Attachments are not allowed for unauthenticated submissions. Depending on the routing queue associated with their question, authenticated users can add attachments. 
+
+We pull these rules from the categories endpoint in the form. AVA Admins have the ability to change these rules at any point, without being part of a release.
 
 ## Authentication required
 
