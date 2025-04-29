@@ -156,7 +156,9 @@ Did you get the link?
 - *If “unsupported browser” error, ask to try a different browser or device, or share my screen (works for anyone) and mouse control (doesn't work w/iPhones)*
 - *If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
 
-**You'll be interacting with a demo form today.** Since it's a demo, note that none of your actions will affect your VA own information or benefits.
+Please click the (green) "Continue" button.
+
+**You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your VA own information or benefits.
 
 
 ## Task 1: Form intro page
