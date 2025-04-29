@@ -9,10 +9,9 @@ assignees: caw310, tbaker1026
 
 ### Design System Team 2025 Roadmap
 
-* [Roadmap](https://vfs.atlassian.net/wiki/x/BwCS3w?atlOrigin=eyJpIjoiOGMyNDlmNTNjMDg5NDE0ZGFkNWQ5YmNhYTVkMWNkMGYiLCJwIjoiYyJ9p)
+* [Roadmap]([https://vfs.atlassian.net/wiki/x/BwCS3w?atlOrigin=eyJpIjoiOGMyNDlmNTNjMDg5NDE0ZGFkNWQ5YmNhYTVkMWNkMGYiLCJwIjoiYyJ9p](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1744756079064/f395596f338008068408bd51cf98271c3395f392?sender=u7c8da41343d9b0d1e3162007))
 
 ### Sprint Goals
-
 
 _Write a short description of your goal(s) for the sprint. This could be a sentence or a short paragraph and should include any high priority work, but does not need to include <span style="text-decoration:underline;">all</span> planned work._
 
@@ -36,7 +35,15 @@ Story points completed: [number of points]
 #### OKRs:
 *If your epics or issues support any of the OCTO OKRs, note the OKRs above the epic title like this; **OKRs:** O2/KR1 - Add 100 more security controls to our AWS Cloud Environment*
 
-O2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA
+O1.3: 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
+[Improve Address Pattern](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/issues/1547)
+
+Objective 2.2:We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
+[Epic: International Phone Number](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/issues/2134)
+
+
+Objective 4.2: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality. OCTO has helped resolve/support at least 10 significant engineering issues or products outside our portfolio.
+
 [Epic: Fix the build to use dart-sass (unblock node upgrade)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72830 "https://github.com/department-of-veterans-affairs/va.gov-team/issues/72830")
 - [ ] [Issue title](link)
     
@@ -66,6 +73,11 @@ O4: OCTO positively influences VA's ability to deliver software products and ser
 
 [Communication of Design System updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98313 "https://github.com/department-of-veterans-affairs/va.gov-team/issues/98313")
 - [ ] [Issue title](link) 
+
+[Use an agentic AI tool to develop two forms for review by governance to assess quality of tools](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/1378)
+
+
+[Define a repeatable component, pattern, and template pipeline process](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103391)
 
 
 Unplanned work (*link to work brought into the sprint after sprint starts*) 
