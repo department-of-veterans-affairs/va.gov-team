@@ -3,7 +3,8 @@
 **Important Dates:**
  - [ ] Staging Review -  05/09/2025
  - [ ] Go/no go Meeting - TBD
- - [ ] Prod Release Pilot - TBD
+ - [ ] Prod Release Pilot (Phase 1) - TBD
+ - [ ] Prod Release Remaining Specialties (Phase 2) - TBD
 
 **Important Links:**
 - [Collaboration Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80703)
