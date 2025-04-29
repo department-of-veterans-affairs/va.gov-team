@@ -180,7 +180,7 @@ Provide a link to any materials you need to run your study, including any materi
 
 **For moderated interviews:** 
 	
-- `[Link to conversation guide](url goes here)`
+- `[Link to conversation guide]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2025-05-1010d-supportingdocs-usability-test/conversation-guide.md))`
 
 **For moderated usability tests:** 
 - `[Link to conversation guide](url goes here)`
