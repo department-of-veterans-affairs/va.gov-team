@@ -1,6 +1,50 @@
 ## CHAMPVA biweekly stakeholder sync
 Every other Tuesday at 10:35am ET
 
+## **04/29/25s**
+
+**Attendees:** Angela C., Angela P., Arleen, Ballard, Joie, Premal, Misty, Amanda, Jamie, Rachel P., Andrea, Renata
+
+**Agenda**
+
+* Discuss 180 day claims backdate rule
+* Review Medicare Part C data collection
+
+
+**Updates from Premal**
+
+* We’ve paused CHAMPVA Claims because of the send back rate
+* Confirm with Joie that send back rate with paper forms is around 50%
+* Currently the UX team is looking at ways to improve the process, will discuss more during tomorrow’s claims call
+
+
+**180-day claims backdate rule**
+
+* Jamie shares the Figma mocks for the CHAMPVA Claims for, explains the screener questions for reducing duplicate submissions and claims resubmissions, as well as claims for individuals who are enrolled but waiting for their packet. 
+* What is the effective date? From the service blueprint, we understand that step is late in the application process. 
+    * **Eligibility date** the date VBA determines a Veteran is TNP and eligible to enroll in CHAMPVA (note that there is often a gap between this eligibility date and when a user is enrolled)
+    * If married or had children, the **qualifying event date (QED)** is whenever the bene became eligible (AFTER sponsor's eligibility date)
+    * The **date on the A card** is the date CHAMPVA confirmed eligibility when reviewing the 10-10d
+    * Users have 180 days from the date on the card to submit any claims for service from the eligibility or qualifying event when they were technically eligible but not enrolled in CHAMPVA
+* For claims after enrollment date on the A card, users have 1 year from the date of service in which to file a claim
+* What goes out to new enrollees?
+    * Authorization card
+    * Pamphlet with guidance around Medicare B
+    * VA letter
+    * A guidebook can be requested, but they do not mail that out automatically
+        * Guidebook is online and the letter contains the link to access it
+        * Currently in the process of updating the guidebook
+* Angela to provide a dummy A card for reference
+
+
+**Medicare Part C**
+
+* Right now, we only ask them to provide their Part C insurance carrier and effective date, and upload both original Medicare and Part C cards. 
+* Does the user need to provide separate information for each plan?
+    * Yes, sometimes Part A and B can have split effective dates. We need that information for each Part.
+
+
+
 ## **04/15/25**
 
 **Attendees:** Andrea, Angela C., Angela P., Jamie, Gina, Elizabeth L., Ballard, Rachel P., Arleen, Renata, Amanda K.
