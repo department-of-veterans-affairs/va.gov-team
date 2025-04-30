@@ -14,8 +14,8 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
  
 ## Desired User Outcomes
 
-- Able to interact with travel reimbursement functionality directly on VA.gov and VA Flagship mobile app
-- Able to interact travel reimbursement functionality where it is needed by leveraging an API-first approach
+- Able to interact with travel reimbursement functionality directly on VA.gov and VAHB mobile app
+- Able to interact with travel reimbursement functionality where it is needed by leveraging an API-first approach
 - Enjoy a simple, intuitive experience that meets all VA.gov accessibility, design standards, and performance standards
 - Positive feedback through Medallia
  
@@ -102,7 +102,7 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
   - March 20, 2025
  
 - *Target Launch Date - SMOC*
-  - December 2024
+  - March 2025
 - *Actual Launch Date* 
   - April 2025
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
