@@ -1,6 +1,6 @@
 # Centralizing VA forms
 
-## Background
+## Background/Problem statement
 
 OCTO continues to digitize critical and supplemental forms that Veterans and their beneficiaries utilize to apply for and manage their benefits.  In addition, OCTO and other teams across VA, are looking to digitize forms that are not related to any benefit, are related to multiple benefits, are for non-Veteran or non-beneficiary audiences, etc.  The modernized VA.gov benefit experience was built with a benefit-centric organization structure - visitors first select a benefit, then find tasks and information related to that benefit.  This creates a challenge when determining where in the IA to place these digitized forms that don't map to a single benefit that ensures the visitors that need them can find them.
 
@@ -37,13 +37,12 @@ OCTO continues to digitize critical and supplemental forms that Veterans and the
 
 ## Goals
 
-The goal of this initiative is to establish a scalable IA for forms and form-related tools and corresponding guidance and governance.  This will will help us achieve
+The goal of this initiative is to establish a scalable IA for forms and form-related tools and corresponding guidance and governance.  This will help us achieve
 - improved findability of forms and form-related tools
-- morer contribution to the digital forms space in terms of teams and audiences
-- less IA design time through self-service eliminate the need to categorize by benefit or create unique spaces (i.e. /supporting-forms-for-claims/) for each new type of form or form audience
-- eliminate the duplication of content that exists for benefit applications between the form detail page (about pg), the how to apply page, and the introduction pages of the online forms
-- reduce the number of similar pages appearing in search results and make it easier for visitors to find the right page for their needs
-- 
+- easier contribution to the digital forms space for teams across the department
+- an IA that supports more audiences 
+- less duplication of content across similar pages
+- reduced number of similar pages appearing in search results 
 
 
 ## Proposed solution
@@ -56,42 +55,47 @@ The goal of this initiative is to establish a scalable IA for forms and form-rel
   - upload a completed pdf form
   - see related forms or other ways to complete a form (i.e. as part of a compound form flow)
 
-
 ### Hypotheses
 
-- Centralizing all digitized forms will make it easier for Veterans and their beneficiaries, as well as other audiences, to find forms and applications.
+- Centralizing all digitized forms will make it easier for all site visitors to find forms and applications.
 - Centralizing all form-related tools and information will make it easier for visitors to understand all the ways they can complete a form (paper or online) as well as how to submit a completed form (mail or upload).
 - Centralizing all form-related information will reduce duplicative information across multiple pages resulting in simplified search results and easier findability of key pages, as well as reduce content maintenance.
-- 
 
-## Challenges/things to solve for
 
-**Hard-coded IA on existing digitized forms**
-- There is no easy way to "move" existing digitized forms within the IA of the site.  Changing the URLs to move a page/form flow to a new location in the IA requires engineering resources to change the URL in the code, test the changes, and implement redirects.  As well as follow-on content and IA work to update entry points in navigation as well as referring links across the site.
--
-
-**Compound forms - form flows that include more than 1 VA form**
-- A main form with a supplemental form included - i.e. the Pension application also includes the intent to file
-- Two forms merged into a single flow - i.e. the dependents forms 686 and 674, or the non-VA medical info release forms 21-4142 and 21-4142a
-- Forms that can be completed independently or as part of a larger form/application - i.e. the intent file form 21-0966
-- Forms that are a part of multiple larger forms/applications - i.e. the intent to file form 21-0966 is part of the disability and pension applications
-
-**-Approval flows**
--  forms that require reviews
-
-**Form upload feature**
-- placement and navigation structure
-
-**Placement of key benefit forms**
-- Do core benefit applications remain in the benefit hubs and only additional/stand-alone forms move?
-- 
-
-## Impacted products/experiences
+### Impacted products/experiences
 
 - Individual form flows aross the modernized experience
 - Find a form search and about form pages
 - Upload completed forms tool
 - Content strategy for the how to apply, about form, and form introduction pages
+
+
+### Challenges/things to solve for
+
+**Hard-coded IA on digitized forms and tools**
+- There is no easy way to "move" existing online forms or tools within the IA of the site.  Changing the URLs to move a page/form flow to a new location in the IA requires engineering resources to change the URL in the code, test the changes, and implement redirects.  As well as follow-on content and IA work to update entry points in navigation as well as referring links across the site. 
+
+**Compound forms - form flows that include more than 1 VA form**
+- Some online form flows include more than 1 VA form in the flow.  This creates a challenge around where to place that digitized form within this centralized forms space and how to create a relationship between more than 1 information page about the form.  There are different types of compound forms:
+  - Additional form is included as a distinct form/flow in the experience via messaging, content, or navigation
+    - [Supplemental claim form](https://www.va.gov/decision-reviews/supplemental-claim/file-supplemental-claim-form-20-0995/) includes the authorization to disclose information to VA form (21-4142, 21/4142a)
+    - [Disability claim form](https://www.va.gov/disability/file-disability-claim-form-21-526ez/) - this forms simply provides a message indicating that the intent to file (form 21-0966) was submitted automatically, but for other sub-forms it presents a card display indicating which forms are needed, the status, and helps the user to walk through each sub-form
+    - [Disability claim form](https://www.va.gov/disability/file-disability-claim-form-21-526ez/) - this form also 
+  - Additional forms is not represented as a distinct form/flow in the experience, the forms appear as a "merged" experience 
+    - [Dependents forms 686 and 674](https://www.va.gov/view-change-dependents/add-remove-form-21-686c/) - this form asks questions initially and serves up the proper form questions based on answers
+    - [Non-VA medical info release forms 21-4142 and 21-4142a](https://www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142/) - this form does not indentify which form you are completing
+  - Forms that are available as a stand-alone form or compound form
+    - [Non-VA medical info release forms 21-4142 and 21-4142a](https://www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142/) - this form is available on its own or as part of the disability claim form
+
+**Secondary form flows for different audiences**
+-  Some forms trigger a second form flow once they are submitted.  An example would be a request/application form flow that once submitted sends a notification/email to a reviewer or approval who then needs to complete a form flow.  This creates a challenge around how to provide entry points to different forms, especially when they are for different audiences.  This also creates a challenge in determining if the approver form should be in the centralized forms experience or if it should be part of an admin experience for that office.
+
+**Form upload feature**
+- Currently the form upload feature requires knowledge of the specific form that is being uploaded.  It acquires that information by only allowing access to it from a specific form detail page.  The navigational structure of this feature has been challenging due to the need to dynamically generate a URL based on the unique form.  Ideally there would not be a need to generate a unique URL, and instead use a form number passed via a parameter based on navigation path or from a user selection would. 
+
+**Placement of key benefit forms**
+- There may be some benefit to keep core benefit applications within their specific benefit hubs.  These forms are oftent compound forms and benefit from the close connection to the benefit hub structure.  
+
 
 ## Measuring Success
 
