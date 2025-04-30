@@ -97,11 +97,12 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Results
 
-- Number of unique users:
-- Metrics at this stage (per your "success criteria"):
-- Was any downstream service affected by the change?:
-- Types of errors logged:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None, issue could not be reproduced reliably.
+- Number of unique users: 340
+- Metrics at this stage (per your "success criteria"): 100% success
+- Was any downstream service affected by the change?: N/A
+- Types of errors logged: N/A
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
+  - No changes needed at this time.
 
 ### Stage C: 100% of users
 
