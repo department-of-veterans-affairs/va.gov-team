@@ -1,13 +1,19 @@
 #  Research  Plan  for  [Financial Management Team,  R&S page (and intro pages) and Digital Dispute Form,  May 2025]
 
 
-## Background 🏗️ Briefly describe the background of your product.
+## Background 🏗️ <summary></summary>
 
 ### ‘Wizard’ (formerly Wizard, now intro pages that orient the Veteran: Manage VA Debt page, “Options to request help with VA debt” R&S page (“Wizard”), FSR intro page)
 
-As of most recently, OCTO Content Team have opted for a static R&S page describing different financial help option within content nested in an accordion. This new approach reduces the need for Veterans to click through different pages and reduces cognitive load. 
+
+<Details>
+
+As of most recently, OCTO Content Team have opted for a static R&S page describing different financial help option within content nested in an accordion. This new approach reduces the need for Veterans to click through different pages and reduces cognitive load. </Details>
 
 ### Digital Dispute Form
+
+
+<Details>
 
 If a Veteran has a VA debt that they would like to dispute there is currently no formalized process for them to follow. Disputes can currently be submitted in a variety of formats (verbal, written, etc.) and the information required is not clearly defined. This experience can be confusing for Veterans and inefficient as additional information may need to be collected from the Veteran for the VA to process the dispute effectively.
 
@@ -20,7 +26,7 @@ If a Veteran has a VA debt that they would like to dispute there is currently no
 -   Ability to submit a written statement to present their individual situation and reasoning for disputing the debt.
     
 -   Receives an email confirmation of their debt dispute submission.
-     
+     </details>
 
 ## [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md)
 
@@ -42,6 +48,8 @@ This research supports these main [OCTO objectives and goals](https://github.com
 
 #### This research supports increasing these measures:
 
+
+<Details>
 Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 
 -   Key Result 1: Improve satisfaction with our web and mobile products by 5 points.
@@ -52,9 +60,7 @@ Objective 1: VA’s digital experiences are the easiest and most efficient way t
 Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.
 
 -   Key Result 4: Each of our platforms* and tools increase the number of non-OCTO built capabilities or non-OCTO users by 50%. (*excluding mobile)
-    
-
-  
+     
 
 -   Usage of digital, self- service tools
     
@@ -75,9 +81,15 @@ Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure
 -   Benefit value (in $) delivered from online applications or transactions
     
 
+</Details>
+
   
 
 #### This research supports decreasing these measures:
+
+
+<Details>
+
 
 -   Call center volume, wait time, and time to resolution
     
@@ -87,6 +99,8 @@ Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure
     
 -   Time to process online applications (vs. paper)
     
+
+</Details>
 
   
 
@@ -144,7 +158,7 @@ What are you trying to learn from this research?
 
 #### Digital Dispute
 
-  [in progress]
+
 
 ### 3. Mental Models: How helpful is the information provided based on their prior knowledge and experiences, if any?
 
@@ -153,7 +167,8 @@ What are you trying to learn from this research?
 
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
-   [in progress]
+- This research will help us evaluate and validate the new R&S page and associated links to the page stemming from the introductory pages of the debt portal
+- This research will help us evaluate and validate the Digital Dispute form the team designed recently and it will be ready for frontend implementation 
 
 
 ## Research questions
@@ -200,7 +215,14 @@ Write a generalized statement that combines what you know + what you think will 
 
 **We hypothesize that:**
 
-***[In progress]***
+1. Veterans (users in this study) may struggle to find the new “Options to request help with VA debt” R&S page (“Wizard”) and may have difficulty understanding the difference between this new page and other help/intro pages such as: Manage VA Debt page and FSR intro page
+2. Veterans will find the information on the 3 help/intro pages including the R&S page to be helpful
+3. Veterans will be able to find the Digital Dispute form easily so long as they are able to find the R&S page
+4. Veterans will view the experience of introductory pages to Digital Dispute form as part of one experience
+5. Veterans will be able to understand the Digital Dispute Form easily and without significant cognitive load demands
+6. Veterans (users in this study) may find an option to resolve or address their debt on the “Options to request help with VA debt” R&S page (“Wizard”) that is relevant to them
+7. It may take them time to find an option that is relevant to them
+
   
 
 ----------
