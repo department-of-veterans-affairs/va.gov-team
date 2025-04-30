@@ -63,10 +63,9 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Rollout Planning
 
 - Desired date range:
-     - 5/6/25-
-     - Take two date range: 1/10/24-1/24/24
+     - 5/27/25-?????
 - How will you make the product available in production while limiting the number of users who can find/access it:
-     - Feature Toggle limiting % of traffic to the application
+     - Feature Toggle limiting 10% of traffic to the application
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
 
 ### Objective: Provide an effortless online experience for Veterans to update their information for health care benefits
