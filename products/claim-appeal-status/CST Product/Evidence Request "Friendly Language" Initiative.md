@@ -11,10 +11,9 @@ These fields can frequently be confusing or not particularly legible.
 ## Solution Approach
 
 From a **backend** perspective, we are building a mapping of API fields-to-legible-strings and using that mapping to override data received from Lighthouse
-before sending it out to the client. This behavior is managed by two feature flippers:
+before sending it out to the client. This behavior is managed by a feature flipper:
 
-1. `cst_friendly_evidence_requests_first_party`, when enabled, turns on the override behavior for first-party evidence requests. These requests have a status of `NEEDED_FROM_YOU`.
-2. `cst_friendly_evidence_requests_third_party`, when enabled, turns on the override behavior for third-party evidence requests. These requests have a status of `NEEDED_FROM_OTHERS`.
+1. `cst_friendly_evidence_requests`, when enabled, turns on the override behavior.
 
 - [The mapping lives here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/lighthouse/benefits_claims/constants.rb).
 - [The service overrides live here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/lighthouse/benefits_claims/service.rb#L43).
