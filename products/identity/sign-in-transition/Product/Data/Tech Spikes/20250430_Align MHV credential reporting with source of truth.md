@@ -4,7 +4,7 @@
 **Jira Ticket:** [SIT-202](https://jira.devops.va.gov/browse/SIT-202)
 
 ## Situation
-Currently, six graphs in the *Credential Segments* section of the SSiT Domo dashboard use **AuthDB** as the primary data source. While AuthDB accurately reflects DSL, ID.me, and LiG credential counts, it significantly **overstates MHV credential usage** — reporting over 2.1 million users with MHV credentials.
+Currently, six graphs in the *Credential Segments* section of the SSiT Domo dashboard use **AuthDB** as the primary data source. While AuthDB accurately reflects DSL, ID.me, and LiG credential counts, it significantly **overstates MHV credential usage** — reporting over 2.1 million users with MHV credentials, 500k of which do not have modern credentials.
 
 In contrast, the actual **MHV data source**, which we consider the system of record, reports only ~2,000 active MHV users. This discrepancy results in **inflated totals** and **misleading views of credential distribution**.
 
