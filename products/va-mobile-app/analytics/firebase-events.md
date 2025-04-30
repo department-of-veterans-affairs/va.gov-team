@@ -27,9 +27,8 @@ Last updated: 4/29/2025
 | Event Name | Purpose |
 | -------- | ------- |
 | `vama_claim_call ` | not used in the app, but present in the data (legacy event) |
-| `vama_claim_cancel_1 ` | not used in the app, but present in the data (legacy event) |
-| `vama_claim_cancel_2 ` | not used in the app, but present in the data (legacy event) |
-| `vama_claim_count ` | not used in the app, but present in the data (legacy event) |
+| `vama_claim_cancel_1 ` | callback event associated with vama_evidence_cancel_1 |
+| `vama_claim_cancel_2 ` | callback event associated with vama_evidence_cancel_2 |
 | `vama_claim_details_exp ` | user expands accordion during a claim phase change |
 | `vama_claim_details_open ` | user views a claim details |
 | `vama_claim_details_tab ` | segmented control tab change for claim details (status / files) |
@@ -43,7 +42,6 @@ Last updated: 4/29/2025
 | `vama_claim_file_view ` | User selects to view a file |
 | `vama_claim_review ` | User selects "Review file requests" option |
 | `vama_claim_status_tab ` | User toggles the control from details screen |
-| `vama_claim_step_three ` | User accesses the claim detials screen when their claim is at step 3 in the process |
 | `vama_claim_submit_ev ` | Logged when a user accesses a claim details page with the submit evidence button available. |
 | `vama_claim_submit_tap ` | Navigte to submit evidence subtask screen |
 | `vama_claim_upload_compl ` | API call to upload returns a success for the file uploaded. **Note**: While the user can select more than one photo to upload, they are compiled into a single pdf for upload. |
@@ -101,7 +99,6 @@ Last updated: 4/29/2025
 | `vama_pagination ` | Using pagination next / previous actions |
 | `vama_notification_click ` | Logging the registered app URL from a push notification |
 | `vama_segcontrol_click ` | Tab change on a segmented control |
-| `vama_snackbar_null ` | not used in the app, but present in the data (legacy event) |
 | `vama_toggle ` | Toggle options on the notification screen after allowing device notifications |
 | `vama_modalpick_open ` | Modal is shown to the user |
 | `vama_modalpick_sel ` | User selects an option in a modal |
@@ -118,7 +115,6 @@ Last updated: 4/29/2025
 | `vama_eu_shown ` | Encouraged update nudge was shown to user |
 | `vama_eu_skipped ` | User clicked to dismiss prompt to update app version |
 | `vama_eu_updated ` | User clicked to update their app version |
-| `vama_eu_updated_success ` | App version was successfully updates at user's click |
 
 ### Feedback Collection
 
@@ -199,7 +195,6 @@ Last updated: 4/29/2025
 | `vama_rx_help ` | Prescription refill help button clicks |
 | `vama_rx_na ` | Prescription history, no prescriptions |
 | `vama_rx_noauth ` | user is not authorized to view prescriptions |
-| `vama_rx_refill_cerner ` | not present in the app |
 | `vama_rx_refill_fail ` | User's refill request failed |
 | `vama_rx_refill_retry ` | User clicked option to retry submission after failed attempt |
 | `vama_rx_refill_success ` | User's refill request went through successfully |
@@ -209,7 +204,6 @@ Last updated: 4/29/2025
 | `vama_rx_status` | view refill status |
 | `vama_rx_trackdet` | user taps "get presciption tracking" option |
 | `vama_rx_trackdet_close ` | user closes the presciption tracking dialog box |
-| `vama_rx_trackingtab ` | User clicks to see tracking information |
 | `vama_cerner_alert ` | App alert related to the cerner transition |
 | `vama_cerner_alert_exp ` | Cerner alert expanded |
 
@@ -218,18 +212,15 @@ Last updated: 4/29/2025
 | Event Name | Purpose |
 | -------- | ------- |
 | `vama_pref_name_fail ` | failed attempts to update preferred name |
-| `vama_perf_name_success ` | User successfully updates preferred name |
 | `vama_prof_update_address ` | User submits new address information |
 | `vama_prof_update_email ` | User submits new email information |
 | `vama_prof_update_phone ` | User submits new phone information |
-| `vama_gender_id_help ` | users select What to know before you decide to share your gender identity |
 
 ## Payments
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_prof_update_dir_dep ` | User adds or edits direct deposit deposit account - Pre Nav Update |
-| `vama_update_dir_dep ` | User adds or edits direct deposit deposit account - Post Nav Update |
+| `vama_update_dir_dep ` | User adds or edits direct deposit deposit account |
 
 ## Secure Messaging
 
