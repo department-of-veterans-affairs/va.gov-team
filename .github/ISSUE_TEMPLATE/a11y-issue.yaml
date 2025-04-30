@@ -79,6 +79,7 @@ body:
       - label: Axe-core
       - label: Screenreader | assistive tech & device support
       - label: Keyboard
+      - label: Voice command
       - label: Zoom
       - label: Color, typography, & visual elements
       - label: Components and pattern standards
