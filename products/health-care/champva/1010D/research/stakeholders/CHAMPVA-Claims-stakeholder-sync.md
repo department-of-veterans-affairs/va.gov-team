@@ -1,6 +1,62 @@
 ## CHAMPVA Claims biweekly stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+## 04/30/25
+**Attendees:** Premal, Amanda, Arleen, Angela C., Angela P., Melissa, Joie, Andrea, Jamie, Rachel P., Renata
+
+**Agenda**
+
+* Content changes for the CHAMPVA claims supporting docs (Rachel P. demo)
+* Review mockups of example EOB and itemized bills (Jamie)
+* Processing time of resubmissions
+
+
+**CHAMPVA claims supporting docs content changes**
+
+* CHAMPVA feedback:
+    * We don’t need both office and billing address for the provider, just the address where the services were rendered (that is specific language to follow)
+    * Add NPI (national provider identifier) above Tax ID for the provider. This is a unique 10-digit number that they may need to request specifically (it’s not necessarily automatically listed on the EOB or itemized billing statement)
+        * Note: TIN/EIN is for the healthcare company or corporate entity, and the NPI is for the provider as an individual
+    * To EOB upload: add HCPCs to the CPT code line
+    * Asks for “date of service/care” to be consistent across all pages (DOS = date of service)
+* CHAMPVA notes that DX/CPT, TIN and NPI codes are very frequently missing and result in sendbacks.
+* Jamie notes that CPT codes are from EOBs missing and there will be a description of the procedure. 
+    * CHAMPVA does need the CPT codes
+    * As long as either superbill OR EOB has the CPT codes, that’s fine
+        * Note: CHAMPVA cannot process a claim based on EOB alone (we need to require both the itemized/superbill and the EOB together)
+* CHAMPVA notes that sendback rates are quite high under normal circumstances because specific pharmacies or providers will provide documents missing required information
+    * Fill date is often missing from pharmacy claims (this is brand new information for the team, and it’s a required piece of information that CHAMPVA needs)
+    * Melissa asks if there’s a way to add a checkbox acknowledging the list of items we’re asking them to upload. Team explains how that button won't really ensure any compliance with reading and acknowledging the material.
+
+
+**Review mockups of example EOB and itemized bills**
+
+* The goal of these pages is to educate users before they touch the form and submit the claim. This should be reinforced through the content that Rachel demoed.
+* CHAMPVA feedback:
+    * We can also include a sample pharmacy receipt, will need to do research into what those look like
+    * Will be meeting with accessibility and content to confirm whether this design will work
+* CHAMPVA feedback
+    * EOB tends not to include the NPI, just the itemized bill/superbill
+
+
+**Processing time of resubmissions**
+
+* What are the timeframes around resubmissions, from initially receiving the claim to when the resub is sent back?
+* Draft letter going into Box for leads review - timeline unclear
+    * Angela has requested that timeline from initial claims leads and supervisors and will get back to us.
+    * Note about process: currently these letters are being printed onsite, but soon they will be printed and mailed out by a vendor, which will speed up processing times
+        * Also, Box (a cloud-based storage system) is a temporary solution but no timeline on replacement
+* Is CHAMPVA considering email or digital versions of the sendback letter?
+    * Angela P. says that they currently use emails through Box on appeals, but there’s urgency to digitize notifications at this time
+* When someone receives a sendback letter for their claim and they want to send the superbill, when it is mailed to and received by VA, how does CHAMPVA know it’s a resub? Is it mailed to the same address as initial claims?
+    * It gets scanned in by review & resolution team (R&R) and then walked through
+    * Resubmissions are sent to the same address as initial claims, but sent to the R&R team to find the initial submission and marry the two together, using the PDI. 
+    * The sendback letter asks users to submit the sendback letter with the additional supporting docs
+    * If the claim is still missing documents, R&R team will draft another sendback
+    * 30 days to process the resub from the date it's scanned is the goal for reopening and reprocessing claims (closer to 45 days right now).
+        * As of today: working through January resubs
+
+## 04/16/25
 **Attendees:** Angela C., Elizabeth L., Erick, Angela D., Melissa, Arleen, Joie, Jina, Andrea, Mike C., Mike M., Jamie, Rachel P., Renata
 
 **Agenda**
