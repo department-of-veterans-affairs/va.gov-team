@@ -5,6 +5,10 @@
 In the long term, the VA.gov Chatbot will be the front door for Veterans and their loved ones in accessing asynchronous support from Ask VA routing queues.
 To prove out this vision, we propose a limited Proof of Concept, allowing Ask VA users to ask questions in the "Sign in and technical issues" category (see below) on the VA.gov Chatbot and route them to the appropriate routing queue for response from a VA agent.
 
+![image](https://github.com/user-attachments/assets/21a67d77-3054-44ea-85ff-5531ae1cc5f6)
+From [this document of routing queues](https://dvagov.sharepoint.com/:x:/s/AskVA/EVG8tw_PczpMqOSzRe76ZVIBzIWubkOb_faxOnCfA1YPvA?e=5E4lYX)
+
+
 
 ---
 
