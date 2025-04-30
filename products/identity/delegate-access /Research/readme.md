@@ -13,9 +13,9 @@
 | Stage | Dates |
 | --- | ---|
 | Planning | Mar/Apr |
-| Recrtuiting | Apr |
-| Pilot | Apr |
-| Sessions | Apr |
+| Recrtuiting | Apr 7-11 |
+| Pilot | Apr 10 |
+| Sessions | Apr 14-18 |
 | Analysis | Apr |
 | Readout | tbd |
 
