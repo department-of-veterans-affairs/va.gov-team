@@ -2,18 +2,14 @@
 
 ## Background
 
-OCTO continues to digitize critical and supplemental forms that Veterans and their beneficiaries utilize to apply for and manage their benefits.  In addition, OCTO and other teams across VA, are looking to digitize forms that are not related to any benefit, are related to multiple benefits, are for non-Veteran or beneficiary audiences, etc.  The modernized VA.gov benefit experience was built with a benefit-centric organization structure - visitors first select a benefit, then find tasks and information related to that benefit.  This creates a challenge when determining where in the IA to place these digitized forms that ensures the visitors that need them can find them. 
-- reporting harassment
-- forms for school certifying officials
-- forms for approvers such as cemetery memorial requests
-- forms for non-benefit applications or certifications such as accredited representatives
+OCTO continues to digitize critical and supplemental forms that Veterans and their beneficiaries utilize to apply for and manage their benefits.  In addition, OCTO and other teams across VA, are looking to digitize forms that are not related to any benefit, are related to multiple benefits, are for non-Veteran or non-beneficiary audiences, etc.  The modernized VA.gov benefit experience was built with a benefit-centric organization structure - visitors first select a benefit, then find tasks and information related to that benefit.  This creates a challenge when determining where in the IA to place these digitized forms that don't map to a single benefit that ensures the visitors that need them can find them.
 
 
-### Current approach to organizing forms that are not related to a single benefit
+### Current approach to organizing forms that are not related to a specific benefit
 
 **1) Place the form at the root level of the site as a stand-alone feature.**
   - Examples:
-    - The forms related to managing dependents lives at the root level of the site - https://www.va.gov/view-change-dependents - because it is related to multiple benefit categories.
+    - The forms related to managing dependents lives at the root level of the site - https://www.va.gov/view-change-dependents/ - because it is related to multiple benefit categories.
     - The harassment reporting form was built at the top level in the IA of VA.gov at https://www.va.gov/report-harassment/ (actual digitized form on hold) because it does not relate to any benefit categories.
   - This approach is not scalable over time and creates a number of issues for findability of the form.
     - Continuing to place individual items at the root level of the site creates a very broad Information Architecture that can increase cognitive load as visitors try to sort through numerous menu options to find something specific.  Imagine a navigation menu with a list of 30 items - some are benefit categories, some are specific tasks, and some are general items.
@@ -41,16 +37,18 @@ OCTO continues to digitize critical and supplemental forms that Veterans and the
 
 ## Goals
 
-The goals of this iteration are
-- to create a centralized place for all digitized forms and form-related tasks (i.e. form search, pdf download, pdf upload, online completion)
-- to eliminate the need to categorize by benefit or create unique spaces (i.e. /supporting-forms-for-claims/) for each new group of forms
-- to eliminate the duplication of content that exists for benefit applications between the form detail page (about pg), the how to apply page, and the introduction pages of the online forms
-- to reduce the number of pages fighting for search ranking 
-- to allow for growth of and wider contribution to the digital forms space
+The goal of this initiative is to establish a scalable IA for forms and form-related tools and corresponding guidance and governance.  This will will help us achieve
+- improved findability of forms and form-related tools
+- morer contribution to the digital forms space in terms of teams and audiences
+- less IA design time through self-service eliminate the need to categorize by benefit or create unique spaces (i.e. /supporting-forms-for-claims/) for each new type of form or form audience
+- eliminate the duplication of content that exists for benefit applications between the form detail page (about pg), the how to apply page, and the introduction pages of the online forms
+- reduce the number of similar pages appearing in search results and make it easier for visitors to find the right page for their needs
+- 
+
 
 ## Proposed solution
 
-- Create a single space in the IA for placement of all online forms and applications, as well as all form and application related tools.
+- Create a single space in the IA of VA.gov to house all online forms and applications, as well as all form and application related tool (i.e. form search, pdf download, pdf upload, online completion)
 - This space would allow visitors to 
   - search for a specific form
   - download the most recent PDF of a form
@@ -59,7 +57,7 @@ The goals of this iteration are
   - see related forms or other ways to complete a form (i.e. as part of a compound form flow)
 
 
-## Hypotheses
+### Hypotheses
 
 - Centralizing all digitized forms will make it easier for Veterans and their beneficiaries, as well as other audiences, to find forms and applications.
 - Centralizing all form-related tools and information will make it easier for visitors to understand all the ways they can complete a form (paper or online) as well as how to submit a completed form (mail or upload).
