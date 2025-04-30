@@ -21,8 +21,7 @@
 - [ ] Kristen: Ask the 1010ez to let us know if they get comments on placement of the 'deceased spouse' checkbox / language.
 - [X] Christine scheduled the meeting with Renata (1010EZ research) for Monday, 4/5 at 1100PT.
 - [X] Second set of eyes in Mural to see if all financial separate living situation questions are in Figma.
-- [ ] Ticket in our sprint (Fran): update marital status pattern based on Renata's team's research.
-- [ ] Fran: Create Tickets -  One [ticket](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/386) to incorporate content team's feedback into mockups,  and another [ticket](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/387) to incorporate product teams' feedback into mockups. (we already have finalize mockup tickets)
+- [X] Fran: Create Tickets -  One [ticket](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/386) to incorporate content team's feedback into mockups,  and another [ticket](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/387) to incorporate product teams' feedback into mockups. (we already have finalize mockup tickets)
 
 
 ### Decisions
