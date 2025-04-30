@@ -14,7 +14,7 @@ _IAM is replacing the ISAM identity broker with an Okta-based solution and has r
 _ON HOLD: Awaiting next steps from leadership._
   
 **NEXT**
-- [Sign-In Transition: DS Logon Deprecation](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/2)
+- [[Sign-In Transition: DS Logon Deprecation](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/2)](https://github.com/department-of-veterans-affairs/identity-documentation/issues/15)
 _Veterans will have a more streamlined and secure sign in experience via id.me and login.gov._
 - [Post-MHV Deprecation Work](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/4)
 - [Improving CSAT Metrics](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/5)
