@@ -32,7 +32,7 @@ These graphs are most affected by the inflated counts from AuthDB and require up
 |--------------------------------------|---------------------------------------------|-----------------------------|
 | **Summary**: Remove MHV credential data from the four graphs, keep AuthDB for other CSPs. | **Summary**: Use MHV as the source of truth for MHV credentials, and keep AuthDB for all others. | **Summary**: Leave everything as-is with AuthDB providing all credential data, including MHV. |
 | **Pros**:<br>- Simple to implement (½ sprint)<br>- Minimal dashboard change | **Pros**:<br>- Accurate representation of MHV<br>- Maintains full credential view<br>- Preserves recent (6-month) MHV history | **Pros**:<br>- No engineering effort<br>- No disruption to existing dashboards |
-| **Cons**:<br>- Creates different reporting pattern (MHV missing from some charts) <br>- Partial view of credential usage in 4 graphs<br>- Loses all MHV history in charts | **Cons**:<br>- Slightly more complex pipeline (1 sprint)<br>- MHV history limited to 6 months | **Cons**:<br>- Continues to show inflated MHV counts<br>- Undermines confidence in reporting |
+| **Cons**:<br>- Creates different reporting pattern (MHV missing from some charts) <br>- Partial view of credential usage in 4 graphs<br>- Loses all MHV history in charts | **Cons**:<br>- Slightly more complex pipeline (1 sprint)<br>- MHV history limited to 6 months | **Cons**:<br>- Continues to show inflated MHV counts<br>- Potentially undermines confidence in reporting |
 | **Verdict**: Quick fix, but not ideal for long-term accuracy. | **Verdict**: Best balance of accuracy and visibility. **Chosen path forward.** | **Verdict**: Not recommended due to ongoing inaccuracy. |
 
 ---
