@@ -32,7 +32,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 5 [3/26/25 - 4/8/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Complete the March Medallia Report| QPX |--|--|--|
+|UX: Complete the March Medallia Report| QPX |--|04/08/2025|Completed|
 |UX: Discovery meeting with Domo Dashboard Users| FY25Q2 QP4 |--|04/07/25|Completed |
 |UX: Finalize Medallia analytics data reports to run to inform satisfaction metrics| FY25Q2 QP4 |-- | 04/07/25 | Completed |
 |ENG: Initial PR submitted for VA notify callback | QP1 |--|03/28/25|Completed|
