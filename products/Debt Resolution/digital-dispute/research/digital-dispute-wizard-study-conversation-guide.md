@@ -75,48 +75,87 @@ Before we start, I have a few things that I want to go over with you:
 
  <mark>**[Record answer here]**</mark>
 
-# Warm-up Questions (Optional) - 5 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+-----------------------
 
-## First Task: [TASK NAME] - X minutes
+# Intro (5-7 minutes)
 
-- [ ] Step 1
-- [ ] Step 2
+Welcome! 
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-> - [Etc]
+Thank you so much for your time today. My name is Charlotte and I work at VA.gov - it’s nice to meet you!
 
-## Second Task: [TASK NAME] - X minutes
+How are you today? 
 
-- [ ] Step 1
-- [ ] Step 2
+I work at VA.gov to help improve access to benefits and services for Veterans like you. This work is meaningful to me because I believe that those who have served have a right to these services. [meaning]
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+You’ll notice there are a few people on the call already. They’re my colleagues and they’re here to listen and to learn. Is that ok with you? [permission]
 
-## Third Task: [TASK NAME] - X minutes
+My goal today is to learn how easy or difficult it is to use a digital portal we are working on to help you understand and resolve your copay bills. 
 
-- [ ] Step 1
-- [ ] Step 2
+In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+Next, I want to explain my role better. 
+
+I am a consultant for the VA and my role is to talk to Veterans like you to understand the challenges you face in the space of VA medical copay billing. I am gathering information to help improve the experience of managing or resolving your VA copay bills. 
+
+The limits of my role are that I am not the final decision maker on the experience nor am I a financial expert, but I can surface issues and challenges that come up in research to the VA.
+
+Your comfort and wellbeing are very important to us. 
+
+Sensitive topics might come up, and if at any point you want to take a break, please let me know. If you want or need to stop the interview at any point, just let me know. [comfort and consent]
+
+Your identity will be kept confidential, and any information we take away from the interview will be stored securely. [confidentiality]
+
+Are you comfortable if I record my screen and audio as we talk today?
+
+We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly.
+
+Once I start recording, I am going to confirm that you are okay with me recording this session once more.
+
+Optional:
+
+Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences? 
+
+One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your on screen image. 
+
+[Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA.] 
+
+At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
+
+Knowing this, would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences? 
+
+Do you have any questions for me? 
+
+Just want to ensure the next 60 minutes are still good for you today?
+
+# Warm-up
+
+[Rapport building]
+
+- We like to start off with a lighthearted question to get to know you better.
+
+- What's your favorite thing about Spring?
+
+Thank you for sharing! (personalize response)
+
+**Begin usability study**
+
+# Intro
+
+## Baseline 
+
+ 
+*Manage your VA debt for benefit overpayments and copay bills [page]* 
+
+- Given your current or recent situation, what are you most interested in on this page? [Mental Models]
+
+- I’d like to bring you attention to the ‘Request financial help’ section. 
+Before you click, what do you understand to be the difference between the first link <Request help with overpayments and copay bills online> and the second <Learn about other ways to request help with VA debt> [Mental Models]
+
+- Any information missing that you’d like to see?
+
+
 
 # Post-Task Interview - X minutes
 
