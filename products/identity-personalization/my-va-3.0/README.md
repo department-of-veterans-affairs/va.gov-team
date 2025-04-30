@@ -60,7 +60,7 @@ How might we reimagine the logged-in landing experience to surface timely, relev
 - Veterans overlook important items due to poor prioritization or information hierarchy.
 - Veterans encounter irrelevant or redundant alerts that lead to frustration or distrust.
 - Veterans encounter static information that is not relevant to them.
-- The new design removes reliable paths to information causing confusion for users. 
+- The new design removes reliable paths to information and tools causing confusion for users. (eg. "the website changes too often," is a refrain we've heard)
 
 ## Business Outcomes 
 
