@@ -11,8 +11,8 @@ The online 686c form allows Veterans to add or remove dependents from their VA d
 
 ## Incident Response
 - Points of Contact
-   - Laura Steele (Product Manager) | laura.steele1@va.gov / laura.steele@coforma.io | steele-lm (github)
-   - Matthew Knight (Engineering Lead) | matthew.knight3@va.gov / matt.knight@coforma.io | mjknight50 (github)
+   - Jacob Worrell (Product Manager) | jacob.worrell@va.gov / jacob.worrell@adhocteam.us | jacobworrell (github)
+   - Wayne Weibel (Engineering Lead) | ? / wayne.weibel@adhocteam.us | wayne-weibel (github)
    - Sanja Bajovic (OCTO Product Owner) | sanja.bajovic2@va.gov | sanjabaj2 (github)
 - [Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/engineering/686-674_Monitoring_Playbook.md)
 - [Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/engineering/686-674_Playbook_Security.md)
