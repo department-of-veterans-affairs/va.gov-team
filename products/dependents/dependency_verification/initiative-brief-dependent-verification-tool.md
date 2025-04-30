@@ -113,7 +113,7 @@ MVP
 
 Post-MVP
 - Work with VBA to update existing paper verification letter to notify Veterans they can now verify on VA.gov. This letter is sent to Veterans every 8-years asking them to verify the dependents on their benefits. If Veterans fail to respond, their benefits will be revoked and they may have to pay the VA back.
-- Email that will be sent annually to Veterans with dependents on their benefits reminding them to verify their dependents on VA.gov. It still needs to be determind how this email will be sent given that VBMS does not have a notification management system and it's not typically in scope for VA.gov to send notification emails.
+- Email that will be sent annually to Veterans with dependents on their benefits reminding them to verify their dependents on VA.gov. It still needs to be determind how this email will be sent given that VBMS does not have a notification management system and it's not typically in scope for VA.gov to send benefit notification emails.
 
 We are not:
   - Digitizing the 21-0538 form into a complete form flow
