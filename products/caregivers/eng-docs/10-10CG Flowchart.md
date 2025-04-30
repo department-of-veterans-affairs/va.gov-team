@@ -1,10 +1,13 @@
 ```mermaid
 flowchart TD
-    A((Start: Veteran or Caregiver submits form on vets-website)) --> B[Validate with MVI]
-    B -->|Email included| E[Submit to Mulesoft background job]
-    E -->|Job fails no retries| F[Send failure email VANotify]
-    E -->|Job succeeds| G((Successful submission))
-    B -->|Email blank| H[Submit to Mulesoft synchronously]
-    H -->|Success| I((Display success message))
-    H -->|Error| J[Display error page]
+    A((Start: Veteran or Caregiver submits form)) --> B[Validate with MVI]
+
+    B -->|Validation Fails| H[Return error to browser]
+    B -->|Validation Succeeds| C[Submit to Mulesoft - background job]
+
+    C -->|Job Succeeds| D((Success))
+
+    C -->|Job Fails| E{Email provided?}
+    E -->|Yes| F[Send failure email via VANotify]
+    E -->|No| G[Trigger silent failure notification]
 ```
