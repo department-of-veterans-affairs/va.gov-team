@@ -21,7 +21,7 @@ These graphs are most affected by the inflated counts from AuthDB and require up
 ## Challenges
 - **Inaccurate MHV Data**: AuthDB includes outdated or unmodernized credentials, creating a distorted picture of MHV usage.
 - **Skewed Totals**: Dashboards combining all credential types reflect inflated numbers due to the AuthDB MHV data.
-- **Data Trustworthiness**: Confidence in Domo dashboards may suffer when inconsistencies between sources become apparent.
+- **Data Trustworthiness**: Confidence in reports may suffer when inconsistencies between sources become apparent.
 - **Historical Data Tradeoffs**: The MHV source only retains approximately 6 months of data, whereas AuthDB provides a longer history.
 
 ---
