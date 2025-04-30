@@ -12,7 +12,9 @@ Saving in-progress work while filling out an online form is an interaction for w
 
 2. There's a "Finish this request later" button that looks like a link, which is another accessibility issue. Links that take you to another page should look like links, and buttons that do actions should look like buttons. 
 
-We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal) for the design of new web forms. We have removed the "save in progress" alert, and redesigned the existing "Finish this request later" link that functions like a button. The currently existing line of text about saving will remain on the authenticated version of the form intro page and the first page of the form.
+We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we have removed the "save in progress" alert, as well as changed the existing "Finish this request later" button that looks like a link into looking like a button. We believe that removing the "save in progress" alert will be OK because there is already text about saving on the authenticated version of the form intro page and the first page of the form.
+
+Previous research has validated the minimal header component, including its lack of "Back" button (research participants successfully used the "Back to previous page" breadcrumb link at the top of each page). Other research studies have tried various locations for the "Save in progress" alert, and subsequent research studies have documented usability and accessibility issues with those locations. This current study proposes new design revisions that will hopefully work better for Veterans than earlier designs. 
 
 </details>
 
