@@ -7,8 +7,8 @@
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 * Enable Veterans to appeal claims that have been denied on VA.gov (and determine next steps)
 
-**Related/Associated product(s)**
-- Product | Link to product outline 
+**Product Overview**
+- [Travel Pay Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product-outline-btsss.md) 
 
 ## Problem
 * Veterans often have denied travel pay claims, and research has shown that while they may know that they can appeal, they do not know _how_ they may be able to appeal on VA.gov
