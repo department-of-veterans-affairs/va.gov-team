@@ -1,9 +1,9 @@
+
 ### ADR: 001- Country code field and phone field will not interact
 
-Status: Proposed
-Date Raised: 2025-04-21
-Decision Date: [To be filled when finalized]
-
+#### Status: Accepted
+- Date Raised: 2025-04-21
+- Decision Date: 2025-04-29
 #### Context
 - During a Slack channel discussion, a design and development question was raised about how the country code selector should behave in relation to the phone number input field:
 Should selecting a country code automatically insert it into the phone number field?
