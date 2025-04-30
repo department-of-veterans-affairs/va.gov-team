@@ -35,11 +35,19 @@ Our goal with 3.0 is to redesign the logged-in landing page to be dynamic, actio
 Veterans currently land on a My VA page that is not optimized for immediate action or visibility into time-sensitive updates that are relevant to them. The experience for some sections is static, and Veterans often miss important information or fail to complete important service workflows because these tasks are not highlighted prominently.
 
 How might we reimagine the logged-in landing experience to surface timely, relevant, and personalized actions so that Veterans can confidently manage their benefits and services?
-- To start, we plan to remove much of the static links and content that have built up over time, and instead highlight personalized, dynamic information. 
+- To start, we plan to remove many of the static links and content that have built up over time, and instead highlight personalized, dynamic information. 
 - We intend to[ use new components from the design patterns team that emphasize actions](https://www.figma.com/design/UOx5GSKdZW9GVAjy7078hT/AE-Design-Patterns---Critical-Action?node-id=2-129)
 
+### We’re envisioning this work will be completed in 4 stages: 
 
-## User Outcomes 
+- [Phase 1 - Cleanup and overhaul](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108656)   
+  - Remove static links and sections   
+  - Reorganize / restructured IA   
+- [Phase 2 - Refocus using Notifications Center Build and Authenticated Menu Revamp](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108657)   
+- [Phase 3 - Enhance card components with dynamic contextual alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108658)   
+- [Phase 4 - Incorporate new dynamic components (eg. GI benefits)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108659)
+
+ ## User Outcomes 
 
 ### Desired 
 - Veterans are able to see what needs their attention right away (e.g., unread messages, pending document uploads, important deadlines, upcoming appointments).
