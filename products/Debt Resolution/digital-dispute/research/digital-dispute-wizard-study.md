@@ -159,6 +159,13 @@ What are you trying to learn from this research?
 #### Digital Dispute
 
 
+-   How easily can Veterans understand the option of digital dispute based on how it is explained on R&S page and in the form?
+
+
+-   How easily can Veterans navigate the form?
+
+  
+-   What, if any concerns are there? 
 
 ### 3. Mental Models: How helpful is the information provided based on their prior knowledge and experiences, if any?
 
@@ -183,22 +190,20 @@ Does this question serve the goals of my study?
 
 1.  Understand baseline: What experience, if any, do Veterans have with seeking debt relief and contesting VBA/VHA charges? What channels have they used to understand what they need to do?
     
-2.  How easy is it for them to understand what they need to do through the information supplied in the Wizard in contrast to what they have done previously?
+2.  How easy is it for them to understand what they need to do through the information supplied in the 'Wizard' in contrast to what they have done previously?
     
 3.  How easy is it for Veterans to navigate the Manage VA Debt page, “Options to request help with VA debt” R&S page (“Wizard”), FSR intro page, Digital Dispute form debt portal, from the intro pages all the way to finding the information they need?
     
 4.  How easy is it for Veterans to find the digital dispute form? (findability)
     
-
-1.  Given that there are 2 paths Veterans can take to find the dispute form, which one do most Veterans take to find the dispute form? (this will be a task, and we will measure time on task)
-    
-
-6.  How easy is it for Veterans using screen readers to navigate through the debt portal?
+5.  Given that there are 2 paths Veterans can take to find the dispute form, which one do most Veterans take to find the dispute form? (this will be a task, and we will measure time on task)
    
-
-7.  How understandable is the information on the “Options to request help with VA debt” R&S page? ?
+7.  How understandable is the information on the “Options to request help with VA debt” R&S page? 
     
-8.  For the corresponding links (appeals), how clear and understandable is the content? *
+7. How is navigation and understanding of the Digital Dispute form itself?
+
+8. How easy is it for Veterans using screen readers to navigate through the pages from intro pages to Digital Dispute form??
+
 
 
 
@@ -287,7 +292,7 @@ Note
 
   
 
-### We will have 3 cohorts: (1) Veterans with any debt or copays (2) Veterans with VBA debt who would dispute (3) AT sessions
+### We will have 2 cohorts: (1) Veterans with VBA debt (2) AT sessions
 
 ## Demographic must-haves for
 
@@ -295,17 +300,14 @@ Note
 
 ### COHORT 1 total N = 6 (minimum)
 
- Veterans that have overpayments and copays (most desirable for study) N = 6 (minimum) OR Veterans that have overpayments only
+ Veterans that have VBA overpayments (most desirable for study) N = 6 (minimum) 
 
-and
+### COHORT 2 (Veterans that use AT) total N = 2 (minimum)
 
-### Wizard only
 
-### COHORT 2 total N = 3 (minimum)
+### COHORT 3 Veterans that have copays total N = 3 [time allowing only]
 
-Veterans that have copays or overpayments and copays
-
-### COHORT 3 (Veterans that use AT) total N = 2 (minimum)
+Veterans that have copays 
 
 ## Recruitment criteria
 
@@ -328,7 +330,7 @@ Tip
 List the total number and type (Veterans, caregivers, etc.) of participants for this study:
 
   
-  
+
 
 -   Veterans: [10] - please recruit 20 Veterans
     
@@ -339,46 +341,133 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 -   Total: [10]
     
 
-### Primary criteria (must-haves)
 
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study?
+ -   #### All participants must be Veterans
+ -   #### All participants must have had an experience of a VBA overpayment debt in the last 3 years (resolved or not resolved is ok)
+-    #### Inclusive, diverse sample with respect to race/ethnicity, age, gender, educational attainment, financial status    
+ -   #### All must be on a computer or mobile device.
+ -   #### During the session, be willing to share a web browser window on their device
+ -   #### Have a working microphone on their device
+ -   #### Have Zoom downloaded to their device prior to the session and know how to share their screen
+    
+ -  **50%** of participants should complete the session on a **smartphone**.
+    
+ - **50%** of participants should complete the session on a **desktop computer**.
 
--   [Place primary criteria here between hash marks when in edit mode]
+- Mix of income levels
+- Most participants must say they are currently experiencing financial hardship or have in the past. 
+- While the Digital Dispute asks for financial information, we won't be asking our participants to provide exact financial information. However, we want to simulate a real experience as much as we can to ensure the experience is intuitive for Veterans. 
+**Please confirm participants are comfortable talking about their finances.**
+
+
+Demographic must-haves
+
+Note: The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants with VA debt.
+
+-   At least 4 of 10 people must identify as Black, Hispanic/Latina/Latinx, or Native American
     
--   primary criteria
+-   At least 4 of 10 people must identify as having a cognitive consideration
     
--   primary criteria
+-   At least 5 of 10 people must identify as other than male
     
--   Add more criteria as needed
+-   At least 2 of 10 people are without a degree or professional certificate
+    
+-   At least 2 of 10 people are under 35
+    
+-   At least 4 of 10 people are over 55
+    
+-   At least 3 of 10 people who identify as gay, lesbian, bisexual, or transgender
     
 
 #### Secondary criteria (nice-to-haves)
 
-What criteria would strengthen your results?
+-   At least 1 of 10 people who live in a rural or remote area
+    
+-   At least 1 of 10 people who live in a major metropolitan area
+    
+-   At least 2 of 10 non-native English speakers
 
--   [Place secondary criteria here between hash marks when in edit mode]
-    
--   secondary criteria
-    
--   secondary criteria
-    
--   Add more criteria as needed
+Inclusive research strategy
    
-### COHORT 1 total N = 6 (minimum)
-
-### Veterans that have overpayments and copays (most desirable for study) N = 6 (minimum) OR Veterans that have overpayments only
-
-### Wizard only
-
-### COHORT 2 total N = 3 (minimum)
-
-### Veterans that have copays or overpayments and copays
-
-
-### COHORT 3 (Veterans that use AT) total N = 2 (minimum)
-
   
+### Screener for COHORT 1
+
+  1. VA debt 
+ 
+Please select what applies to you (Check all that apply) 
+ 
+I currently have a fully unpaid or partially unpaid VA benefits overpayment debt 
+(disability compensation, education or pension benefits overpayments) 
+I had a VA benefits overpayment debt in the last 4 years (disability compensation, 
+education or pension benefits overpayments) and it has been fully repaid 
+I have not had a VA benefits overpayment debt in the last 4 years (does not 
+qualify) 
+ 
+2. Amount of debt 
+ 
+Please select the amount of the debt for the highest VA debt you have had in 
+the last 4 years 
+ The debt I had or currently have is in the range of $1 - $99 
+ The debt I had or currently have is in the range of $100 - $500 
+ The debt I had or currently have is in the range of $501 - $1,000 
+ The debt I had or currently have is over $1,000 
+ 
+ 
+3. What is your perspective on this VA debt 
+ 
+What is your perspective on this VA benefits overpayment debt?  
+ 
+Please select what applies to you (Check all that apply) 
+ I don’t think I owe this debt to VA 
+ I don’t think the amount is correct on this debt 
+ I can’t afford this debt 
+ None of these apply to me 
+ Decline to answer this question 
+ 
+4. Experiences of financial hardship 
+Please select the statement(s) that apply to you: (Check all that apply) 
   
+I am currently experiencing financial hardship. 
+I have experienced financial hardship in the past. 
+I have never experienced financial hardship.   
+ 
+5. LGBTQ+ 
+Do you identify as a member of the LGBTQ+ community ? 
+We ask this question because we want to make sure the feedback we get from these 
+sessions represents all the people we serve. 
+ 
+ Yes 
+ No 
+ Decline to answer 
+  
+6. Cognitive consideration 
+Has a medical professional ever diagnosed you with a cognitive disorder? Some examples 
+include PTSD, Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, 
+Traumatic brain injury 
+ 
+ Yes 
+ No 
+ Decline to answer 
+  
+7. What is your annual household income level? 
+$0 - $25K 
+$25K - 49.9K 
+$50K - 74.9K 
+$75K - 99.9K 
+$100K - 149.9K 
+$150K - $199.9K 
+Over $200K 
+ 
+  
+8. Attitudinal question - trust 
+Please indicate how much you agree or disagree with the following statement:  
+"I trust VA to fulfill our country’s commitment to Veterans.” 
+• Strongly agree 
+• Agree 
+ ●  Neutral 
+ ●  Disagree 
+ ●  Strongly disagree 
+ 
 
 ## Timeline 🗓️
 
