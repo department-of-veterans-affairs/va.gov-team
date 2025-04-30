@@ -28,6 +28,8 @@
 ### Decisions
 - Becky: Re the Living situation section, (form 686conly question) The value of leaving the question about "did yor spouse have an income in the last 365 days...) in Figma will provide a good example of having a one-off question and how that's handled. (Kristen: maybe there's a middle ground of showing teams how and where to add questions e.g. if you have to add additional household financial info, this is how you do it.
 - Leave the questions (that are specific to certain forms) in Figma so others will know why they are there and that they can be removed/altered.
+  - Form 686c - Did your spouse have any income last year? If you did not live with them, follow-up question: Why do you not?
+  - Form 527PDF and 1010EZ: How much did you contribute to their support? (Dependent on them not living together)
 
 ### Notes
 - Kristen: 1010ez is doing research. Will do parts of marital status during their research sessions. We should get a meeting on the books to see what questions we could ask that we want to know (see action items; meeting scheduled)
