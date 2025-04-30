@@ -2,8 +2,8 @@
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 * Enable Veterans to file more complex claims on VA.gov outside of simple, mileage-only claims.
 
-**Related/Associated product(s)**
-- Product | Link to product outline 
+**Product Overview**
+- [Travel Pay Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product-outline-btsss.md) 
 
 ## Problem
 * Up to 30% of Veterans filing for claims have additional expenses, a non-standard route for which to file for appointments, or attended a community care appointment for which they need reimbursement and can only file through the BTSSS portal.
