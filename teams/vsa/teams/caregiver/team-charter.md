@@ -37,7 +37,7 @@ Health Products
 - Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com / GH "alexseelig" - Product manager
 - Alexandria "Alex" Parker | alexandria.parker@va.gov / alexandria.parker@agile6.com / GH "ACParker89" - Delivery Lead
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / "jessicastump" - Sr UX Design/Research
-- Liza McRuer | TBD / liza.mcruer@adhocteam.us / GH "emcruer" - UX Design
+- Liza McRuer | elizabeth.mcruer@va.gov / liza.mcruer@adhocteam.us / GH "emcruer" - UX Design
 - Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck" - UX Design
 - Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo" - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us / GH "longmd" - Sr Frontend Engineer
@@ -56,7 +56,6 @@ Health Products
 - Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
 - Patrick Bateman | patrick.bateman@va.gov - Product Owner
 - Amanda Klausmeier | amanda.klausmeier@va.gov - Design Lead
-- Jinu Ryu | jina.ryu@va.gov - Design
 - Danielle Thierry | danielle.thierry@va.gov - Content writer
 
 **HEC (Health Eligibility Center) Program Team**
