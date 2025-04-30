@@ -14,11 +14,11 @@
 
 
 ### Action Items
-- [Done] Kristen: reach out to content today [Slack message](https://dsva.slack.com/archives/C01K37HRUAH/p1746044072123249)
+- [X] Kristen: reach out to content today [Slack message](https://dsva.slack.com/archives/C01K37HRUAH/p1746044072123249)
 - [ ] Kristen: express to 1010ez that we think there is something on the page Marital status page around 'Why we ask for this'. We don't have the option(s) yet but we will shortly.
 - [ ] Kristen: Ask the 1010ez to let us know if they get comments on placement of the 'deceased spouse' checkbox / language.
-- [Done] Christine scheduled the meeting with Renata (1010EZ research) for Monday, 4/5 at 1100PT.
-- [Done] Second set of eyes in Mural to see if all financial separate living situation questions are in Figma.
+- [X] Christine scheduled the meeting with Renata (1010EZ research) for Monday, 4/5 at 1100PT.
+- [X] Second set of eyes in Mural to see if all financial separate living situation questions are in Figma.
 - [ ] Ticket in our sprint (Fran): update marital status pattern based on Renata's team's research.
 
 
