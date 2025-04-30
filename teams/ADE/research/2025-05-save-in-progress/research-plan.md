@@ -4,6 +4,8 @@
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
 	
+OCTO works to improve VA.gov's digital services for all Veterans. Assessibility specialists at OCTO focus on making these digital services accessible for all, especially those with visual and/or cognitive disabilities. Getting user feedback from Veterans who use assistive technologies helps OCTO understand what digital interactions work well and which need improvements so that we can design better.
+
 When VA.gov users are logged in (authenticated) and filling out a form, the "save in progress" alert flashes on and off with every field entry or edit. Because this alert displays *below* the Back and Continue buttons, screen readers never announce it, which is an accessibility issue.
 
 We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal) for the design of new web forms. We have removed the "save in progress" alert, and redesigned the existing "Finish this request later" link that functions like a button. The currently existing line of text about saving will remain on the authenticated version of the form intro page and the first page of the form.
