@@ -42,7 +42,7 @@ How might we reimagine the logged-in landing experience to surface timely, relev
 
 - [Phase 1 - Cleanup and overhaul](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108656)   
   - Remove static links and sections   
-  - Reorganize / restructured IA   
+  - Reorganize / restructured IA 
 - [Phase 2 - Refocus using Notifications Center Build and Authenticated Menu Revamp](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108657)   
 - [Phase 3 - Enhance card components with dynamic contextual alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108658)   
 - [Phase 4 - Incorporate new dynamic components (eg. GI benefits)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108659)
@@ -59,6 +59,7 @@ How might we reimagine the logged-in landing experience to surface timely, relev
 - Veterans overlook important items due to poor prioritization or information hierarchy.
 - Veterans encounter irrelevant or redundant alerts that lead to frustration or distrust.
 - Veterans encounter static information that is not relevant to them.
+- The new design removes reliable paths to information causing confusion for users. 
 
 ## Business Outcomes 
 
