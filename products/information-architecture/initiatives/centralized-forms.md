@@ -9,22 +9,33 @@ OCTO continues to digitize critical and supplemental forms that Veterans and the
 - forms for non-benefit applications or certifications such as accredited representatives
 
 
-Some approaches utilized to accomodate forms that do not have a 1:1 relationship to a benefit category:
+Current approach to organizing forms that are not related to a single benefit
 
-- Place the form at the root level of the site.
-  - The harassment reporting form was built at the top level in the IA of VA.gov at https://www.va.gov/report-harassment/  (actual digitized form on hold).
-  - This approach is not scalable over time, and creates a number of issues for findability of the form.
-  - Forms not part of a benefit hub mean they are generallly not part of the main navigation of the site.  Visitors would either need to access these forms via a direct link in a prominent place, or via search. This makes it difficult to determine where to even start looking.  For a form related to harassment, this adds cognitive load on top of an already very sensitive topic. 
+- Place the form at the root level of the site as a stand-alone feature.
+  - Examples:
+    - The forms related to managing dependents lives at the root level of the site - https://www.va.gov/view-change-dependents - because it is related to multiple benefit categories.
+    - The harassment reporting form was built at the top level in the IA of VA.gov at https://www.va.gov/report-harassment/ (actual digitized form on hold) because it does not relate to any benefit categories.
+  - This approach is not scalable over time and creates a number of issues for findability of the form.
+    - Continuing to place individual items at the root level of the site creates a very broad Information Architecture that can increase cognitive load as visitors try to sort through numerous menu options to find something specific.  Imagine a navigation menu with a list of 30 items - some are benefit categories, some are specific tasks, and some are general items.
+    - The existing primary navigation structure does not account for items outside of the benefit categories, so there is no place to include navigational links to these top level features.  Visitors  either need to access these forms via a crosslink in related benefit categories, a direct link placed in the header, home page or footer, or via search.
+    - The benefit-centric navigation model makes it difficult to determine where to even start looking.  For a form used for something like harassment reporting, this adds cognitive load on top of an already very sensitive topic. 
 
 - Create a section for a group of forms.
-  - The "Supporting forms for claims" section was created to house a number of forms being digitized that were related to multiple benefit types at https://www.va.gov/supporting-forms-for-claims/.
-  - While this approach has worked by providing a landing page with visibility and access to all of the different forms, it has quickly outgrown its space.
-  - There are 9 forms now live in this space, and as more launch, there is a need to organize them in a way that helps visitors find the specific form they need. In addition, these forms are often part of larger form flows.
+  - Examples:
+    - The "Supporting forms for claims" section was created to house a number of forms being digitized that were related to multiple benefit types at https://www.va.gov/supporting-forms-for-claims/.
+    - The Records hub - https://www.va.gov/records/ - houses a few forms and links off to others.
+    - The school administrators section of the site - https://www.va.gov/school-administrators/ - was created to house information related to school certifying officials as well as digitized forms they use. 
+- While this approach provides a landing page with visibility and access to all of the different forms, it does not help findability of these forms.
+    - The concept of "supporting forms for claims" does not have any search value.  Visitors are searching for specific forms or looking for informaiton on all the forms for specific use cases - i.e how do I apply for disability with PTSD.
+    - Organizing the forms in these areas has challenges.  The Records hub is governed by the same hub/spoke structure as other benefit hubs (i.e. Get, Manage, Resources) which creates a confusing structure between what is getting records and what is managing records.
+    - There are 9 forms now available from the supporting forms for claims page, and as more launch, there is a need to organize them in a way that helps visitors find the specific form they need. Given many of these forms are for different benefits or different scenarios, organizing them all on one page is challenging. In addition, these forms are often part of larger form flows and the current content and length of the page makes it challenging to detail out this information.
+    - There could be benefits to having pages that bring together links to related forms for various scenarios (i.e. additional forms needed for your disability claim vs forms related to requesting your medical records), but organzing the forms themselves in this way is not scalable given forms can live in multiple scenarios.
 
 
-- aligning the page with the VA.gov look and feel
-- driving traffic to top tasks and to the top digital versions of form applications with new content (because the page already had consistently high organic search traffic and the potential to provide better conversion)
-- adding analytics tracking to all links and downloads
+Build a non-Veteran/beneficiary form flow in the Veteran experience
+  - Example:  A new form for requesting a medallion at a private cemetery can be submitted by a Veteran's family member but as part of that request, a cemetery representative must review and approve that request. The plan is to build that review form flow within the Burials and memorials hub.
+  - This is not a pattern we want to continue - the Veteran and beneficiary space of the site is intended to house only those features supporting the Veterans and their family or caregivers.
+  - This flow will also live within this area of the IA but will not have any entry points to it, meaning that the cemetery officials can only access the approval form via a link in an email.  This IA approach does not provide any room for future growth of a landing page that allows a cemetery representative to access this review form at any time, see any requests in process, or access any other related information or forms.
 
                     
 
