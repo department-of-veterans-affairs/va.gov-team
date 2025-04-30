@@ -187,7 +187,7 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria.  
 
 Cindy is available for a kickoff call during any of these times: 
-- **May 1**: 2-5 pm ET
+- **May 1**: 4-5 pm ET
 - **May 2**: 12-5 pm ET
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study to review beforehand.
