@@ -1,3 +1,13 @@
+Last updated: 4/30/2025
+
+## In Scope:
+- Usage of a flag icon to represent country code
+- Default country code to United states
+
+## Out of scope
+- Country code field and phone field interaction
+- Geolocation
+
 
 ### ADR: 001- Country code field and phone field will not interact
 
@@ -75,9 +85,33 @@ Status  [Proposed/Accepted/Deprecated/Superseded]
 - Or should we allow individual teams to customize which countries appear first based on their needs?
 
 #### Decision
-- A final decision is still pending, but the current preference is to default to the United States at the top of the country code dropdown.
+- A final decision is still pending, but the current preference is to default to the United States at the top of the country code dropdown. The majority of mailing addresses are US addresses.
+- 
+USA	United States	46536849	99.86%
+PHL	Philippines	       16830	0.04%
+DEU	Germany	           11686	0.03%
+CAN	Canada	            5366	0.01%
+JPN	Japan	            3929	0.01%
+GBR	United Kingdom	    3912	0.01%
+
 
 #### Consequences
 - If a global decision is made, it simplifies implementation and ensures a consistent user experience across applications.
 - Allowing customization could offer flexibility but may increase complexity in managing variations and support.
+
+### ADR: 007 -  One field for both international and domestic phone number for home, mobile & work
+
+Date: 4/17/2025
+
+#### Status  Accepted
+
+#### Context
+- There were discussions about storing international phone numbers in a separate field within the profile. However, due to the current structure of prefill and profile handling, phone numbers are managed as a single field in the API.
+#### Decision
+- We will create a single phone field in the profile that accepts both domestic and international phone numbers for Home, Mobile, and Work contact types.
+#### Consequences
+- If a form is prefilled with an international phone number but does not support international formats, users may encounter an error upon submission indicating that the phone number must be 10 characters long.
+- This is a temporary solution for the initial release of the component.
+- In the future, when a new pattern is established, there may be an opportunity to provide user-facing messaging that clarifies when international phone numbers are not accepted.
+
 
