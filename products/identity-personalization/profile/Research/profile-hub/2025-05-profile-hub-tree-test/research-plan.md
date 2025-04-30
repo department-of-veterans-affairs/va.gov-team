@@ -281,50 +281,35 @@ You may now close this window or navigate to another web page.
 **Complete, participated** 
 
 - Participants entered a code at the beginning ~~and end~~ of the activity and participated in >0% of the test (i.e., provided at least 1 piece of data).
-
 - The team determines if data is usable or unusable in results (use data scrubbing guidance, the team will document the reason for exclusion).
-
   - Recruits are not replaced if the team decides data is unusable.
-
 - For additional recruits needed to reach goal numbers, requests can be made to Shane Strassberg near the end of the study for the number needed. Be sure to account for the time needed to gain approvals and recruit within your timelines. 
-
 - Participants will be compensated regardless of whether their data is used in the results. 
 
 **Complete, non-participatory** 
 
 - Participants entered a code at the beginning ~~and end~~ of the activity but skipped 100% of tasks/questions or provided no feedback or data.
-
 - Perigean will encourage participants to try again and will be given 1 business day to complete. 
-
 - A participant is not compensated unless they repeat the test and move to Complete, participated status.
-
 - Perigean will determine if this should be noted in their database entry, but won’t impact future recruiting at this time.
 
 **Incomplete/abandoned, not usable** 
 
 - **Participants entered a code at the beginning but not at the end of the activity due to abandoning before completion.** Data is deemed unusable by the team because of a lack of data or invalid data provided (use data scrubbing guidance, the team will document the reason for exclusion). 
-
 - Perigean will encourage participants to try again, and they'll be given 1 business day to complete.
-
 - If, after follow-up, they do not attempt again or are incomplete and unusable again, Perigean will replace the recruit. 
-
 - Participants will be compensated regardless if they try again.
 
 **Incomplete/abandoned, usable** 
 
 - **Participants entered the code at the beginning but not at the end of the activity due to abandoning before completion.** Data is deemed usable by the team because enough partial/valid data was collected (use data scrubbing guidance, the team will document the reason for exclusion).
-
 - No replacement recruits.
-
 - Participant is compensated.
 
 
 ### [Laws related to this work](<https://depo-platform-documentation.scrollhelp.site/research-design/laws-related-to-the-work-of-octo-and-the-veteran-d>)
 
 - [Elizabeth Dole Act (2024)](https://www.congress.gov/bill/118th-congress/house-bill/8371/text/rds)/ Requires VA to maintain a centralized, publicly accessible website for Veteran resources.
-
 - [21st Century IDEA (2018)](https://www.congress.gov/bill/115th-congress/house-bill/5759)/ Requires VA.gov to be modern, mobile-friendly, consistent, and secure while digitizing paper-based processes and improving the customer experience.
-
 - [Plain Writing Act (2010)](https://www.govinfo.gov/app/details/PLAW-111publ274)/ Ensures clear, understandable content across VA.gov (supported by the VA Content Style Guide).
-
 - [E-Government Act (2002)](https://www.congress.gov/107/plaws/publ347/PLAW-107publ347.pdf)/ Enhances federal IT efficiency, cybersecurity, public access, and digital service delivery.
