@@ -3,23 +3,21 @@
 Status: Proposed
 Date Raised: 2025-04-21
 Decision Date: [To be filled when finalized]
+
 #### Context
 - During a Slack channel discussion, a design and development question was raised about how the country code selector should behave in relation to the phone number input field:
 Should selecting a country code automatically insert it into the phone number field?
+- If a user manually enters a country code into the phone number field, should the country code combo box update to reflect it?
+- The Auth Exp team raised these as feature requests stating that this is what the users expect.
+- These questions surfaced usability and accessibility concerns, especially regarding user expectations and assistive technology compatibility. Introducing context changes without notifying the user is a violation of WCAG 3.2.2 A
 
-
-If a user manually enters a country code into the phone number field, should the country code combo box update to reflect it?
-
-
-The Auth Exp team raised these as feature requests stating that this is what the users expect.
-These questions surfaced usability and accessibility concerns, especially regarding user expectations and assistive technology compatibility. Introducing context changes without notifying the user is a violation of WCAG 3.2.2 A
 #### Decision
 - The country code selector and the phone number input field will remain independent (i.e., they will not automatically interact or modify each other). This decision avoids introducing complexity that could negatively impact accessibility, particularly for screen reader users and keyboard navigation.
 - To maintain appropriate validation and user feedback:
 - A validation library—potentially the one used by Login.gov—may be leveraged.
 - This library would validate phone numbers in the context of the selected country code, enabling custom validation messages and enforcing correct formatting.
 
-### Consequences
+#### Consequences
 - Without the validation library, phone number inputs would fall back to a generic validation pattern (e.g., allowing up to 10 or 15 characters). This could result in users submitting phone numbers with invalid formats for the selected country, reducing data quality.
 - With the validation library, user inputs can be matched against country-specific patterns, improving form accuracy and the user experience while maintaining accessibility standards.
 
@@ -27,19 +25,19 @@ These questions surfaced usability and accessibility concerns, especially regard
 ### ADR: 002 - Geolocation on country code
 
 Date: 2025-04-21
- Status: Accepted
+Status: Accepted
 #### Context
-The initial idea was to automatically detect and update the user's country code based on their geolocation to streamline the user experience.
+- The initial idea was to automatically detect and update the user's country code based on their geolocation to streamline the user experience.
 #### Decision
-For the MVP (Minimum Viable Product), we will not implement geolocation-based detection of the user's country code.
+- For the MVP (Minimum Viable Product), we will not implement geolocation-based detection of the user's country code.
 #### Consequences
-Users will need to manually select their country code during the relevant process.
+- Users will need to manually select their country code during the relevant process.
 
 
 #### Open Questions
-Does this go into the component or into the forms library implementation??  
-Build in a prop for the country code, some of the other libraries were built into a component, it would need to hit another service
-Other teams can use the country code prop and do this outside of the component. 
+- Does this go into the component or into the forms library implementation??  
+- Build in a prop for the country code, some of the other libraries were built into a component, it would need to hit another service
+- Other teams can use the country code prop and do this outside of the component. 
 
 
 ### ADR: 003 - Usage of flag icon in the country code
