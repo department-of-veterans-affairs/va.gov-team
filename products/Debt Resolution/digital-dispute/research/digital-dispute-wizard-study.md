@@ -188,22 +188,19 @@ What will I do with what I learn from this question?
 Does this question serve the goals of my study?
 
 
-1.  Understand baseline: What experience, if any, do Veterans have with seeking debt relief and contesting VBA/VHA charges? What channels have they used to understand what they need to do?
+1.  **Understand baseline & mental models**: What experience, if any, do Veterans have with seeking debt relief and contesting VBA/VHA charges? What channels have they used to understand what they need to do? How easy is it for them to understand what they need to do through the information supplied in the 'Wizard' in contrast to what they have done previously?
     
-2.  How easy is it for them to understand what they need to do through the information supplied in the 'Wizard' in contrast to what they have done previously?
+3.  **Understand Navigation & Wayfinding**: How easy is it for Veterans to navigate the Manage VA Debt page, “Options to request help with VA debt” R&S page (“Wizard”), FSR intro page, Digital Dispute form debt portal, from the intro pages all the way to finding the information they need?
     
-3.  How easy is it for Veterans to navigate the Manage VA Debt page, “Options to request help with VA debt” R&S page (“Wizard”), FSR intro page, Digital Dispute form debt portal, from the intro pages all the way to finding the information they need?
+4. **Understand Findability & Wayfinding**: How easy is it for Veterans to find the digital dispute form? (findability)
     
-4.  How easy is it for Veterans to find the digital dispute form? (findability)
-    
-5.  Given that there are 2 paths Veterans can take to find the dispute form, which one do most Veterans take to find the dispute form? (this will be a task, and we will measure time on task)
+5. **Understand Findability & Wayfinding**: Given that there are 2 paths Veterans can take to find the dispute form, which one do most Veterans take to find the dispute form? (this will be a task, and we will measure time on task)
    
-7.  How understandable is the information on the “Options to request help with VA debt” R&S page? 
+7. **Understand Comprehension**: How understandable is the information on the “Options to request help with VA debt” R&S page? 
     
-7. How is navigation and understanding of the Digital Dispute form itself?
+7. **Understand Usability & Comprehension**: How is navigation and understanding of the Digital Dispute form itself?
 
-8. How easy is it for Veterans using screen readers to navigate through the pages from intro pages to Digital Dispute form??
-
+8. **Understand Navigation & Accessibility** How easy is it for Veterans using screen readers to navigate through the pages from intro pages to Digital Dispute form??
 
 
 
@@ -220,13 +217,13 @@ Write a generalized statement that combines what you know + what you think will 
 
 **We hypothesize that:**
 
-1. Veterans (users in this study) may struggle to find the new “Options to request help with VA debt” R&S page (“Wizard”) and may have difficulty understanding the difference between this new page and other help/intro pages such as: Manage VA Debt page and FSR intro page
-2. Veterans will find the information on the 3 help/intro pages including the R&S page to be helpful
+1. Veterans (users in this study) may struggle to find the new “Options to request help with VA debt” R&S page (“Wizard”) and **may** have difficulty noticing the difference between this new page and other help/intro pages such as: Manage VA Debt page and FSR intro page
+2. Veterans will find the information on the 3 help/intro pages (Manage VA Debt page and FSR intro page) including the R&S page to be helpful
 3. Veterans will be able to find the Digital Dispute form easily so long as they are able to find the R&S page
 4. Veterans will view the experience of introductory pages to Digital Dispute form as part of one experience
 5. Veterans will be able to understand the Digital Dispute Form easily and without significant cognitive load demands
-6. Veterans (users in this study) may find an option to resolve or address their debt on the “Options to request help with VA debt” R&S page (“Wizard”) that is relevant to them
-7. It may take them time to find an option that is relevant to them
+6. Veterans will be able to navigate through the Digital Dispute Form easily 
+7. Veterans (users in this study) may find an option to resolve or address their debt on the “Options to request help with VA debt” R&S page (“Wizard”) that is relevant to them and it may take them time to understand and find the option that is most relevant to them
 
   
 
@@ -396,11 +393,11 @@ Inclusive research strategy
  
 Please select what applies to you (Check all that apply) 
  
-I currently have a fully unpaid or partially unpaid VA benefits overpayment debt 
-(disability compensation, education or pension benefits overpayments) 
-I had a VA benefits overpayment debt in the last 4 years (disability compensation, 
+ - I currently have a fully unpaid or partially unpaid VA benefits overpayment debt 
+(disability compensation, education or pension benefits overpayments)
+- I had a VA benefits overpayment debt in the last 4 years (disability compensation, 
 education or pension benefits overpayments) and it has been fully repaid 
-I have not had a VA benefits overpayment debt in the last 4 years (does not 
+- I have not had a VA benefits overpayment debt in the last 4 years (does not 
 qualify) 
  
 2. Amount of debt 
