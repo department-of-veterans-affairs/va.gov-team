@@ -63,7 +63,7 @@ Video interviews over Zoom.  We will rotate the order in which tasks are asked o
 
 
 * [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a27ded9bd6d29236599fc9a86bbc12fd0ac96782/products/health-care/beneficiary-travel/research/2025-05-Travel%20Claim%20Management%20Usability/ConversationGuide.md)
-* [Link to prototype]( https://qr8mnn.csb.app/travel-claim-listing.html)
+* [Link to prototype](https://qr8mnn.csb.app/my-va.html)
 
 
 ## Recruitment
