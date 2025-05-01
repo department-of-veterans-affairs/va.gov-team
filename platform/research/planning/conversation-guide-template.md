@@ -67,6 +67,9 @@ Before we start, I have a few things that I want to go over with you:
 
 ➡️ **Start recording.**
 
+> [!TIP]
+> After you start the recording, click the Show captions (CC) button to enable transcription for the recording.
+
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
  <mark>**[Record answer here]**</mark>
