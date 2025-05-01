@@ -144,3 +144,21 @@ https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaff
 
 - [Upload a VA form](https://www.va.gov/find-forms/upload/)
 
+## Next steps
+
+Compile existing data and feedback
+- Review Medallia data and past research for feedback related to
+    - findability of forms, the supporting forms pages, and the find a form pages
+    - understanding of how to submit a form and what formats the forms are available in
+    - usability/usefulness of the supporting forms for claims experience
+    - usability of the find a forms experience
+    - clarity of what's next after submitting or uploading a form
+- Review analytics for
+  - how frequently are visitors searching for forms and what specific forms are searched for the most
+  - what are navigation paths within the supporting forms and find a forms experiences
+  - how well utilized is the supporting forms for claims page
+  - how often are visitors existing the site from the find a forms or supporting claims pages
+ 
+Questions
+- What forms receive the most feedback on being difficult to find?
+- What tasks related to forms are the most difficult to complete?
