@@ -7,29 +7,21 @@ Use with caution: Available
 
 Follow this pattern to ask a user for their marital status. 
 
-
 ### Resources
 
 [Research](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=state%3Aopen%20label%3A%22DSP%3A%20Help%20users%20to%20manage%20benefits%20and%20tools%22) | [Figma](https://www.figma.com/design/ZIGDfSb8D5YLBdJavzDdqi/AE-Design-Patterns---Benefits-Card?node-id=1-129&p=f&t=FYZaidBZC5z1Xnts-0) | Code
 
-
 ### Contributors
-
 
 Lynn Stahl (Agile Six)
 
-
 Adam Whitlock (Ad Hoc)
-
 
 Belle Poopongpanit (Agile Six)
 
-
 Christine Rose Steiffer (Agile Six)
 
-
 Kristen Faiferlick (Ad Hoc)
-
 
 ### On this page
 
@@ -50,26 +42,18 @@ Research findings
 
 ### **Usage**
 
-
 #### **When to use this pattern**
-
-
 
 * **When you need to collect a person’s marital status.** This applies to a  Veteran, spouse, or dependent who may be applying for benefits.
 
-
 #### **Design principles**
-
-
 
 * **Take a trauma-informed approach.** Although commonly asked, this question can bring up complex feelings and memories in respondents. Explain why we ask the question with an [Additional Info](https://design.va.gov/components/additional-info) component. Limit data collection to necessary data only for your form. 
 
 
 ### **How to design and build**
 
-
 #### **How this pattern works**
-
 
 ##### “What is your marital status?” question
 
@@ -109,7 +93,6 @@ This optional section asks if the user lives with their spouse. If not, it also 
 
 This optional section features the [Multiple Responses](https://design.va.gov/patterns/ask-users-for/multiple-responses) (also known as: List & Loop) pattern to ask questions about previous marriages, including:
 
-
 * Names of former spouse(s)
 * Veteran status of former spouse(s)
 * Date and place of marriage(s)
@@ -119,12 +102,13 @@ This optional section features the [Multiple Responses](https://design.va.gov/pa
 
 #### **Patterns and components used in this pattern**
 
-
-
 * [Radio Button](https://design.va.gov/components/form/radio-button)
 * [Select](https://design.va.gov/components/form/select)
 * [Multiple Responses](https://design.va.gov/patterns/ask-users-for/multiple-responses)
 * [Additional Info](https://design.va.gov/components/additional-info)
+
+#### **Additional considerations**
+* If you are asking only one question on a page, the question label should be an h3, as shown in the [Ask Users for... a Single Response](https://design.va.gov/patterns/ask-users-for/a-single-response#annotated) pattern. However, if you are asking multiple questions per page, give the page a descriptive page title as an h3 and use standard (non-header) labels for questions.
 
 
 ### **Examples**
