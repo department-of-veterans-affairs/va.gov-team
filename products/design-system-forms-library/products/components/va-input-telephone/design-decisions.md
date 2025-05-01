@@ -35,8 +35,8 @@ Should selecting a country code automatically insert it into the phone number fi
 
 ### ADR: 002 - Geolocation on country code
 
-Date: 2025-04-21
-Status: Accepted
+#### Date: 2025-04-21
+#### Status:  NOT FOR MVP
 #### Context
 - The initial idea was to automatically detect and update the user's country code based on their geolocation to streamline the user experience.
 #### Decision
@@ -53,9 +53,9 @@ Status: Accepted
 
 ### ADR: 003 - Usage of flag icon in the country code
 
-Date:
+#### Date: 4/30/2025
 
-Status [Proposed/Accepted/Deprecated/Superseded]
+#### Status Accepted
 
 #### Context
 Other platforms, such as Login.gov and ID.me, display a country flag alongside the country code within the combo box dropdown. We are exploring the option to use a similar approach to enhance the user experience.
@@ -74,10 +74,10 @@ The decision is still under consideration pending resolution of the open questio
 
 ### ADR: 004 - Country order and initial country selection
 
-Date proposed: 4/29/2025
-Decision Date: 
+#### Date proposed: 4/29/2025
+#### Decision Date: 4/30/2025
 
-Status  [Proposed/Accepted/Deprecated/Superseded]
+#### Status  Accepted
 
 #### Context
 - A library is available that supports configuration through props to prioritize certain country codes at the top of the dropdown or to default to a specific country.
@@ -102,9 +102,9 @@ GBR	United Kingdom	    3912	0.01%
 
 ### ADR: 005 - Props allowed for International Phone
 
-Date:
+#### Date: 4/30/2025
 
-Status  [Proposed/Accepted/Deprecated/Superseded]
+#### Status  [Proposed/Accepted/Deprecated/Superseded]
 
 #### Context
 https://intl-tel-input.com/storybook/?path=/docs/intltelinput--vanilla, do we allow these props?
@@ -147,7 +147,7 @@ I18n
 
 ### ADR: 006 -  One field for both international and domestic phone number
 
-Date: 4/17/2025
+#### Date: 4/17/2025
 
 #### Status  Accepted
 
