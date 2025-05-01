@@ -45,7 +45,6 @@ The Form Builder, in its current state, will not publish directly to the VA.gov 
 
 Currently, the Form Builder does not support a real-time preview. The adjustments made to the draft of the form will be visible at an interval of the next day or the immediately following day, depending on when the edits to the form were committed to the draft.
 
-===
 
 
 
