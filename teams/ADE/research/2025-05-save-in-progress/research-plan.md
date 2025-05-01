@@ -156,7 +156,7 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 1. How long have you been using this screen reader or screen magnifier? 
 
     1. Less than 1 year *(DISQUALIFY)* 
-    1. More than 1 year *(ask next question)* 
+    1. At least 1 year *(ask next question)* 
 
 1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say AND ask the rest of the questions)*
 
