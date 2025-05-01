@@ -60,7 +60,8 @@ Should selecting a country code automatically insert it into the phone number fi
 #### Context
 Other platforms, such as Login.gov and ID.me, display a country flag alongside the country code within the combo box dropdown. We are exploring the option to use a similar approach to enhance the user experience.
 #### Decision
-The decision is still under consideration pending resolution of the open questions.
+The decision was made to use the country flag
+
 #### Open Questions
 - Should the flag be treated as an icon or a separate asset?
 - Where will the flag images be stored (e.g., in Figma, in the codebase, or retrieved via an external asset library)?
@@ -104,7 +105,7 @@ GBR	United Kingdom	    3912	0.01%
 
 #### Date: 4/30/2025
 
-#### Status  [Proposed/Accepted/Deprecated/Superseded]
+#### Status  Proposed
 
 #### Context
 https://intl-tel-input.com/storybook/?path=/docs/intltelinput--vanilla, do we allow these props?
