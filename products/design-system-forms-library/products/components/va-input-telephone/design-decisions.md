@@ -1,6 +1,6 @@
 Last updated: 4/30/2025
 
-- [ADR: 001- Country code field and phone field will not interact](###ADR-001-Country-code-field-and-phone-field-will-not-interact)
+- [ADR: 001- Country code field and phone field will not interact](#ADR1)
 - [ADR: 002 - Geolocation on country code](#ADR-002-Geolocation-on-country-code)
 - [ADR: 003 - Usage of flag icon in the country code](#ADR-003-Usage-of-flag-icon-in-the-country-code)
 - [ADR: 004 - Country order and initial country selection](#ADR-004-Country-order-and-initial-country-selection)
@@ -10,7 +10,7 @@ Last updated: 4/30/2025
 
 
 
-### ADR: 001- Country code field and phone field will not interact
+### ADR: 001- Country code field and phone field will not interact <a name="ADR1"></a>
 
 #### Status: Accepted
 - Date Raised: 2025-04-21
