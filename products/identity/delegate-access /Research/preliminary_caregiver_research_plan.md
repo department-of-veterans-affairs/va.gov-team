@@ -2,7 +2,7 @@
 
 ## **Background**
 
-Caregivers are given permission by Veterans to manage the care or personal affairs of Veterans.  In order to understand the digital needs, we are having preliminary conversations with caregivers who we have identified through our immediate team (since they are difficult to get ahold of).
+Caregivers are given permission by Veterans to manage the care or personal affairs of Veterans.  In order to understand their digital needs and uncover any potential pain points as they navigate the VA, we are having preliminary conversations with caregivers.
 
 * [product info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/delegate-access%20#initiative-outline-delegate-access-mvp)
 
