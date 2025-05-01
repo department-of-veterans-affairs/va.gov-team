@@ -43,7 +43,7 @@ Additionally, the Form Builder will likely exceed this role by becoming a test v
 
 The Form Builder, in its current state, will not publish directly to the VA.gov platform in a Veteran Facing manner, i.e. it does not circumvent the current governance model. The output of Form Builder (a digital form) is reviewable in a staging environment based on a certain set of dependencies, more on this in the [sharing for review](?tab=t.g5is9yrnddxm) section.
 
-Currently, the Form Builder does not support a real-time preview. The adjustments made to the draft of the form will be visible at an interval of the next day or the immediately following day, depending on when the edits to the form were committed to the draft. 
+Currently, the Form Builder does not support a real-time preview. The adjustments made to the draft of the form will be visible at an interval of the next day or the immediately following day, depending on when the edits to the form were committed to the draft. ===
 
 
 
