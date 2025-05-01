@@ -1,12 +1,7 @@
 Last updated: 4/30/2025
 
-## In Scope:
-- Usage of a flag icon to represent country code
-- Default country code to United states
-
-## Out of scope
-- Country code field and phone field interaction
-- Geolocation
+[ADR: 001- Country code field and phone field will not interact](### ADR: 001- Country code field and phone field will not interact
+)
 
 
 ### ADR: 001- Country code field and phone field will not interact
@@ -99,6 +94,51 @@ GBR	United Kingdom	    3912	0.01%
 - If a global decision is made, it simplifies implementation and ensures a consistent user experience across applications.
 - Allowing customization could offer flexibility but may increase complexity in managing variations and support.
 
+### ADR: 006 - Props allowed for International Phone
+
+Date:
+
+Status  [Proposed/Accepted/Deprecated/Superseded]
+
+#### Context
+https://intl-tel-input.com/storybook/?path=/docs/intltelinput--vanilla, do we allow these props?
+#### allow dropdown - works the same but without a dropdown, forces users to type country code
+- No
+#### Country order 
+- No - default order with US at top, alpha order the others
+- disabled 
+- No
+#### exclude countries -
+- No. Not until we have a use case
+- fixDropDownWidth 
+- No
+- i18n - 
+- Maybe - but not for mVP
+#### initialCountry -
+- No - because we’re making US the initial country
+- If we were to add this as a prop, we would need to add validation so that “select country” is not an allowed response
+#### initialValue -
+- Yes would need this for prefill
+#### onlyCountries 
+- No. Not until we have a use case
+#### placeholderNubmerType - 
+- No We don't use placeholders in our fields)
+#### separateDialCode - 
+- No
+#### showFlags 
+- We will show flags on default
+#### strictMode
+- No - We will allow any character, and throw error messages on validation
+#### useFullscreenProp - 
+- No
+
+#### MVP Props
+- Initial Value (country code + Phone number)
+
+#### Props to consider later
+I18n
+- Show flags
+
 ### ADR: 007 -  One field for both international and domestic phone number for home, mobile & work
 
 Date: 4/17/2025
@@ -113,5 +153,25 @@ Date: 4/17/2025
 - If a form is prefilled with an international phone number but does not support international formats, users may encounter an error upon submission indicating that the phone number must be 10 characters long.
 - This is a temporary solution for the initial release of the component.
 - In the future, when a new pattern is established, there may be an opportunity to provide user-facing messaging that clarifies when international phone numbers are not accepted.
+
+### ADR: 008 -  When the combo box is smaller than 216px, country names may be truncated
+
+#### Date: 4/29/2025
+
+#### Status: Accepted
+
+#### Context
+The longest country name in our list is 33 characters long, average length is 17 characters. If we design for the outliers, this could be a quite annoying design.  We may need to truncate country names in certain cases
+
+#### Decision
+We will truncate country names in the combo box selector. In the drop down that shows the country names, country names will not be truncated as we will be able to wrap and display country names on two lines.
+
+#### Consequences
+The design of the component will work for a majority of country names. But outliers may be truncated in the combo box display. 
+Users will be able to see the full country name when activating the combo box drop down
+We need to consider accessibility implications of truncation. 
+
+#### Open questions
+Can we still have a screen reader announce the full country name, and ignore the truncation 
 
 
