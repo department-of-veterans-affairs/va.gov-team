@@ -62,7 +62,7 @@ A form is a good fit if the information needed to complete the form is something
 
 A form is NOT a good fit if it requires additional information to be uploaded such as receipts, images or additional documentation. These forms need more advanced engineering efforts and support from other parts of the form library.
 
-## Working with the Collaboration Cycle
+### Working with the Collaboration Cycle
 
 The Collaboration Cycle (insert link) helps to foster consistency in experience across all form digitization. 
 
@@ -72,7 +72,7 @@ There are areas that will need to be created and then reviewed as part of this d
 
 (More information / chart to add here to diagram collab cycle flow)
 
-## Overview of the Form Builder User Interface
+### Overview of the Form Builder User Interface
 
 Working within the Form Builder, you will use the user interface. 
 
@@ -88,7 +88,7 @@ When you want to return to this screen, select “Home” from the breadcrumbs a
 
 You will also see a list of the most recent forms that have been worked on in this tool, should you need to edit a previously started form. 
 
-## Working with Stakeholders
+### Working with Stakeholders
 
 It is helpful to discuss the form with the form owner in advance of the conversion.
 
@@ -100,7 +100,7 @@ Keep in mind, several patterns are already established to create consistency, so
 
 Currently this tool is focused for use with the simplest of forms, but even in those sometimes there are tricky sections or questions that need to be reworded for clarity or understanding. 
 
-## Setting up an App for reviewing the form
+### Setting up an App for reviewing the form
 
 A necessary part of this conversion is to have an application setup in advance in order to see the changes to content and steps for a converted form. 
 
@@ -114,7 +114,7 @@ This can be done in advance of your form creation, and will allow you to view yo
 
 When you are ready to begin providing the content for a new form conversion, there are a few steps to go through in order to begin with a draft of that form. 
 
-## First inputs for a new form
+### First inputs for a new form
 
 After selecting the Build a new form option, you will need to provide from the existing form the information contained on it. This begins with the form name and number. 
 
@@ -128,7 +128,7 @@ Importantly, you will also need to add the Header for the form to use on each of
 
 ![][image4]
 
-## The structure of a form in Form Builder
+### The structure of a form in Form Builder
 
 The next screen will show all of the default steps in the new form.   
 This is also the screen you will go to when selecting an existing form to edit.  
@@ -149,7 +149,7 @@ The final section is the submission of the form steps that a user would interact
 
 You can see that this is also complete and requires no configuration within this tool.
 
-## Next steps with your new form
+### Next steps with your new form
 
 The “Incomplete” label next to the Introduction page indicates it is not configured completely for use in this form. 
 
@@ -173,23 +173,23 @@ The Form Builder will automatically add the default steps (and parts) of a form 
 
 Any added steps can be deleted, re-ordered, edited or added to. 
 
-## Adding a step
+### Adding a step
 
 *(Screen shots and overview instructions to be added for this area)*
 
-## Pre-defined v. Custom
+### Pre-defined v. Custom
 
 *(Screen shots and overview instructions to be added for this area)*
 
-## Question and Response choices 
+### Question and Response choices 
 
 *(Screen shots and overview instructions to be added for this area)*
 
-Single v. Repeated sets of questions
+### Single v. Repeated sets of questions
 
 *(Screen shots and overview instructions to be added for this area)*
 
-Organizing added steps
+### Organizing added steps
 
 *(Screen shots and overview instructions to be added for this area)*
 
@@ -197,11 +197,11 @@ Organizing added steps
 
 *(Section overview)*
 
-## Viewing the form on staging
+### Viewing the form on staging
 
 *(Screen shots and overview instructions to be added for this area)*
 
-## Sharing for feedback and review
+### Sharing for feedback and review
 
 *(Screen shots and overview instructions to be added for this area)*
 
@@ -209,31 +209,31 @@ Organizing added steps
 
 *(Section overview)*
 
-## Accessing a previously started form
+### Accessing a previously started form
 
 *(Screen shots and overview instructions to be added for this area)*
 
-## Reviewing the updates
+### Reviewing the updates
 
 *(Screen shots and overview instructions to be added for this area)*
 
-Handing off the form 
+## Handing off the form 
 
 *(Section overview)*
 
-## Items to consider
+### Items to consider
 
 *(Screen shots and overview instructions to be added for this area)*
 
-## Notifications and Alerts
+### Notifications and Alerts
 
 *(Screen shots and overview instructions to be added for this area)*
 
-## PDF mapping
+### PDF mapping
 
 *(Screen shots and overview instructions to be added for this area)*
 
-## Next steps
+### Next steps
 
 *(Screen shots and overview instructions to be added for this area)*  
 
