@@ -159,7 +159,7 @@ Please remember to think aloud and describe what you are looking for.
 
 **From:** Denied Claim Details page
 
-**Task:** Now, imagine that several months ago you submitted another claim to be reimbursed for traveling for a visit.  You expected to be reimbursed around $50 for this trip.  However, when you checked your account, you noticed that you were only paid $30.  Now you want to learn more about why you did not receive that $20 gap.  From here, show me where you would look for this information.  
+**Task:** Now, imagine that several months ago you submitted another claim to be reimbursed for traveling for a visit.  You expected to be reimbursed around around $50 for this trip.  However, when you checked your account, you noticed that you were only paid around $20.  Now you want to learn more about why you did not receive that around $30 gap.  From here, show me where you would look for this information.  
 
 Please remember to think aloud and describe what you are looking for.
 
