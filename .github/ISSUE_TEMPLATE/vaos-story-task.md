@@ -29,6 +29,8 @@ Background: the `toggle` toggle is on (remove if not needed)
 ## Definition of Done
 - [ ] All tasks criteria are met
 - [ ] [Technical Documentation]() is updated (must confirm if needed/or remove) 
+- [ ] [Feature Reference (GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/feature-reference) is updated
+- [ ] UX - [Feature Reference (Figma)](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1150-105402&t=zRNPBqgPDVU0dDP8-1) is updated
 
 ---
 
