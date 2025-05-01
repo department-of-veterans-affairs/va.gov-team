@@ -2,7 +2,7 @@ Last updated: 4/30/2025
 
 - [ADR: 001- Country code field and phone field will not interact](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/design-system-forms-library/products/components/va-input-telephone/design-decisions.md#adr-001--country-code-field-and-phone-field-will-not-interact-)
 - [ADR: 002 - Geolocation on country code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-input-telephone/design-decisions.md#adr-002---geolocation-on-country-code)
-- [ADR: 003 - Usage of flag icon in the country code][(#ADR-003-Usage-of-flag-icon-in-the-country-code)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-input-telephone/design-decisions.md#adr-003---usage-of-flag-icon-in-the-country-code)
+- [ADR: 003 - Usage of flag icon in the country code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-input-telephone/design-decisions.md#adr-003---usage-of-flag-icon-in-the-country-code)
 - [ADR: 004 - Country order and initial country selection](#ADR-004-Country-order-and-initial-country-selection)
 - [ADR: 005 - Props allowed for International Phone](#ADR-005-Props-allowed-for-International-Phone)
 - [ADR: 006 -  One field for both international and domestic phone number](#ADR-006-One-field-for-both-international-and-domestic-phone-number)
