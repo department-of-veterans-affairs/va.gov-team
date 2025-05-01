@@ -1,12 +1,12 @@
 Last updated: 4/30/2025
 
-[ADR: 001- Country code field and phone field will not interact](#ADR-001-Country-code-field-and-phone-field-will-not-interact)
-[ADR: 002 - Geolocation on country code](#ADR-002-Geolocation-on-country-code)
-[ADR: 003 - Usage of flag icon in the country code](#ADR-003-Usage-of-flag-icon-in-the-country-code)
-ADR: 004 - Country order and initial country selection(#ADR-004-Country-order-and-initial-country-selection)
-ADR: 005 - Props allowed for International Phone(#ADR-005-Props-allowed-for-International-Phone)
-ADR: 006 -  One field for both international and domestic phone number for home, mobile & work(#ADR-006-One-field-for-both-international-and-domestic-phone-number)
-ADR: 007 -  When the combo box is smaller than 216px, country names may be truncated(#ADR-007-When-the-combo-box-is-smaller-than-216px-country-names-may-be-truncated)
+- [ADR: 001- Country code field and phone field will not interact](#ADR-001-Country-code-field-and-phone-field-will-not-interact)
+- [ADR: 002 - Geolocation on country code](#ADR-002-Geolocation-on-country-code)
+- [ADR: 003 - Usage of flag icon in the country code](#ADR-003-Usage-of-flag-icon-in-the-country-code)
+- [ADR: 004 - Country order and initial country selection](#ADR-004-Country-order-and-initial-country-selection)
+- [ADR: 005 - Props allowed for International Phone](#ADR-005-Props-allowed-for-International-Phone)
+- [ADR: 006 -  One field for both international and domestic phone number](#ADR-006-One-field-for-both-international-and-domestic-phone-number)
+- [ADR: 007 -  When the combo box is smaller than 216px, country names may be truncated](#ADR-007-When-the-combo-box-is-smaller-than-216px-country-names-may-be-truncated)
 
 
 
