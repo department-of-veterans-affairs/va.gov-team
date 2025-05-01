@@ -1,7 +1,20 @@
-# Travel Claim Management Usability Study Conversation Guide
+# **Participant #, Date and time**
 
 
-**Moderator note: Alternate task order**
+## **Instructions**
+
+We will be able to get ok transcripts from EnjoyHQ, so focus notes on observations, clearly defined interpretations, and impactful utterances.
+
+
+* Focus on observations of user behavior.
+    * Example of observation: “Participants clicks on My VA tab, hovers over X header, then back buttons to landing page.”
+    * Example of observation: “Participant says ‘this is annoying, that makes no sense.’ when looking to login to BTSSS.”
+* Be clear where notetaker is interpreting or making inferences of what participant is thinking/feeling
+    * Example of interpretation: “Based on facial expressions, participant seems to be confused. Going back and forth between X and Y pages seems like they are looking for something.”
+    * Example of interpretation: “Participant easily found link no frustration.”
+
+
+**Task order used: **
 
 
 ## **Task 1: Find Claim Details(from My VA)**
