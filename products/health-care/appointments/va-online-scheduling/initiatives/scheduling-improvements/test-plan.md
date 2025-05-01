@@ -1,6 +1,11 @@
 
 # Oracle Health Scheduling Test Plan
 
+
+## Test users
+
+- TBD
+
 ## Scheduling scenarios
 
 ## Access Scenarios
