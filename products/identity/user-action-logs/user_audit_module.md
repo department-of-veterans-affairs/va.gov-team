@@ -42,7 +42,8 @@ Once the appropriate `UserActionEvent`s have been created, the `UserAudit` modul
 ```ruby
 UserAudit.logger.success(event: 'some-identifier', user_verification: @current_user.user_verification)
 => true
-UserAudit.logger.error(event: 'some-other-identifier', )
+
+UserAudit.logger.error(event: 'some-other-identifier', user_verification: @current_user.user_verification)
 => true
 ```
 
