@@ -1,6 +1,13 @@
 Last updated: 4/30/2025
 
 [ADR: 001- Country code field and phone field will not interact](#ADR-001-Country-code-field-and-phone-field-will-not-interact)
+[ADR: 002 - Geolocation on country code](#ADR-002-Geolocation-on-country-code)
+[ADR: 003 - Usage of flag icon in the country code](#ADR-003-Usage-of-flag-icon-in-the-country-code)
+ADR: 004 - Country order and initial country selection(#ADR-004-Country-order-and-initial-country-selection)
+ADR: 005 - Props allowed for International Phone(#ADR-005-Props-allowed-for-International-Phone)
+ADR: 006 -  One field for both international and domestic phone number for home, mobile & work(#ADR-006-One-field-for-both-international-and-domestic-phone-number)
+ADR: 007 -  When the combo box is smaller than 216px, country names may be truncated(#ADR-007-When-the-combo-box-is-smaller-than-216px-country-names-may-be-truncated)
+
 
 
 ### ADR: 001- Country code field and phone field will not interact
@@ -65,7 +72,7 @@ The decision is still under consideration pending resolution of the open questio
 - Potential impact on page load performance if not handled efficiently.
 
 
-### ADR: 004 - Country order (options to favor certain countries at the top of the list) & initial country selection
+### ADR: 004 - Country order and initial country selection
 
 Date proposed: 4/29/2025
 Decision Date: 
@@ -93,7 +100,7 @@ GBR	United Kingdom	    3912	0.01%
 - If a global decision is made, it simplifies implementation and ensures a consistent user experience across applications.
 - Allowing customization could offer flexibility but may increase complexity in managing variations and support.
 
-### ADR: 006 - Props allowed for International Phone
+### ADR: 005 - Props allowed for International Phone
 
 Date:
 
@@ -138,7 +145,7 @@ https://intl-tel-input.com/storybook/?path=/docs/intltelinput--vanilla, do we al
 I18n
 - Show flags
 
-### ADR: 007 -  One field for both international and domestic phone number for home, mobile & work
+### ADR: 006 -  One field for both international and domestic phone number
 
 Date: 4/17/2025
 
@@ -153,7 +160,7 @@ Date: 4/17/2025
 - This is a temporary solution for the initial release of the component.
 - In the future, when a new pattern is established, there may be an opportunity to provide user-facing messaging that clarifies when international phone numbers are not accepted.
 
-### ADR: 008 -  When the combo box is smaller than 216px, country names may be truncated
+### ADR: 007 -  When the combo box is smaller than 216px, country names may be truncated
 
 #### Date: 4/29/2025
 
