@@ -121,7 +121,7 @@ As we go through this prototype to accomplish the task I'll give you, I'd like y
 
 **From:** My VA landing page
 
-**Task:** Imagine that last week you went to see your PCP at the Cheyenne VA.  After that visit, you submitted a claim request to be reimbursed for the cost of the gas and tolls you incurred going to that visit.  Now, you want to find out what has happened to that claim.  From here, show me where you would look for that information.
+**Task:** Imagine that on May 1 you went to see your PCP at the Cheyenne VA.  After that visit, you submitted a claim request to be reimbursed for the cost of the gas and tolls you incurred going to that visit.  Now, you want to find out what has happened to that claim.  From here, show me where you would look for that information.
 
 Please remember to think aloud and describe what you are looking for.  What are you looking for? 
 
