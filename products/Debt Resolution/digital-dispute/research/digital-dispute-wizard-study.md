@@ -472,6 +472,10 @@ Note
 
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
+Desired start date for study: 
+
+Monday, May 12th 2025 - Monday, May 19th 2025
+
 ### Prepare
 
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
@@ -492,26 +496,27 @@ Send pilot participant email in study Slack channel
 
 ### Research sessions
 
--   Planned dates of research: [Enter dates MM/DD-MM/DD]
+-   Planned dates of research: [Enter dates 05/12-05/19]
     
 
 ### Length of sessions
 
--   Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)  60 minutes*
+-   Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)  **60 minutes**
     
 -   Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) [Enter buffer time]
     
 
   
 
-1 hour
+**Buffer time: 1 hour**
 
   
 
 -   Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?) [Enter NUM per day]
     
 
-3 sessions per day max
+**2 sessions per day max**
+
 
 ### Availability
 
@@ -527,22 +532,48 @@ Please request enough dates and at least double the amount of time slots for the
 
 Place time slots between hash marks when in edit mode.
 
--   [MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST
+**Recurring timeslots:**
+
+12pm - 1pm EST 
+
+and
+
+2pm - 3pm ESt
+
+
+OR
+
+1pm - 2pm EST
+
+and
+
+3pm - 4pm EST
+
+-   [05/12, Day, 12PM-1PM AM/PM] EST
     
--   [MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST
+-   [05/12, Day, 2PM-3PM] EST
     
--   [MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST
+-   [05/13, Day, 12PM-1PMT AM/PM] EST
     
--   [MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST
+-   [05/13, Day, 2PM-3PM] EST
     
--   [MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST
+-   [05/14, Day, 12PM-1PM AM/PM] EST
+-   
+-   [05/14, Day, 2PM-3PM] EST
+-   
+-   [05/15, Day, 12PM-1PM AM/PM] EST
+-   
+-   [05/15, Day, 2PM-3PM] EST
+-   
+-   [05/16, Day, 12PM-1PM AM/PM] EST
     
--   Add more slots as needed
+-   [05/16, Day, 2PM-3PM] EST
     
+-   [05/19, Day, 12PM-1PM AM/PM] EST
 
   
 
-Begins: Tuesday 5/6
+Begins: Monday 5/12
 
   
 
