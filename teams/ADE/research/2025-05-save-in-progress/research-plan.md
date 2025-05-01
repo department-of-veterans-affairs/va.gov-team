@@ -251,4 +251,4 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 ## Approvals ✅
 - `Reviewed by Martha Wilkes, OCTO Accessibility Strategist/Designer, on 04-22-2025`
-- `Reviewed by Shane Strassberg, Research-Ops Lead, on [MM-DD-2025]`
+- `Reviewed by Shane Strassberg, Research-Ops Lead, on 04-30-2025`
