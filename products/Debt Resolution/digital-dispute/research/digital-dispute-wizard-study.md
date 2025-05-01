@@ -200,7 +200,7 @@ Does this question serve the goals of my study?
     
 7. **Understand Usability & Comprehension**: How is navigation and understanding of the Digital Dispute form itself?
 
-8. **Understand Navigation & Accessibility** How easy is it for Veterans using screen readers to navigate through the pages from intro pages to Digital Dispute form??
+8. **Understand Navigation & Accessibility** How easy is it for Veterans using screen readers to navigate through the pages from intro pages to Digital Dispute form?
 
 
 
