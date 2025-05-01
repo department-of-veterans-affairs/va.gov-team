@@ -1,5 +1,14 @@
 ## va-input-telepone: Support international phone number 
 
+## In Scope:
+- Usage of a flag icon to represent country code
+- Default country code to United states
+- On screens smaller than 360px we will stack the country code and phone number.
+
+## Out of scope
+- Country code field and phone field interaction
+- Geolocation
+
 ### Context:
 As part of the migration of My HealtheVet (MHV) to VA.gov, it was identified that the current My VA Profile does not support international phone numbers. This limitation is a blocker for the migration effort, as users with international contact information must be accommodated.
 Enabling international phone numbers has broader implications across the VA.gov ecosystem, particularly for:
