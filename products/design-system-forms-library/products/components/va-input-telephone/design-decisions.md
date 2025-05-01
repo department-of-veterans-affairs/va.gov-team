@@ -1,6 +1,6 @@
 Last updated: 4/30/2025
 
-[ADR: 001- Country code field and phone field will not interact](#ADR:-001-Country-code-field-and-phone-field-will-not-interact)
+[ADR: 001- Country code field and phone field will not interact](#ADR-001-Country-code-field-and-phone-field-will-not-interact)
 
 
 ### ADR: 001- Country code field and phone field will not interact
