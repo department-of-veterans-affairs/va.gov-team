@@ -2,7 +2,7 @@
 
 ## **Background**
 
-Caregivers are given permission by Veterans to manage the care or personal affairs of Veterans.  In order to understand their digital needs and uncover any potential pain points as they navigate the VA, we are having preliminary conversations with caregivers.
+Caregivers are given permission by Veterans to manage the care or personal affairs of Veterans. We are having preliminary conversations with caregivers, in order to understand their digital needs and uncover any potential pain points as they navigate the VA.
 
 * [product info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/delegate-access%20#initiative-outline-delegate-access-mvp)
 
@@ -128,6 +128,7 @@ Pilot Session | Time (EST)
 
 ## Reviewers
 
-This plan has been reviewed by: Joelle Wells, Clayton Zook
-
-* VA PO for Identity Experience team - Samara Strauss
+This plan has been reviewed by: 
+* Identity Experience team members: Joelle Wells, Clayton Zook
+* VA PO for Identity Experience team: Samara Strauss
+* Research review: Shane Strassberg
