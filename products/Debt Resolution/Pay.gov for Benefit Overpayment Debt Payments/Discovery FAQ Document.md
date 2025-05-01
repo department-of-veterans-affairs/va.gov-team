@@ -39,5 +39,8 @@ So far, there are 5 steps (pages) to
 collect payment from Veterans for copays. 
 > Is it possible to consolidate these 5 pages on one hosted page?
 
+**8. From a UI/UX perspective, will we need two different interfaces, one for pay.va.gov experience and one for pay.gov?** 
+
+
 
 [See notes from meeting on 4/24](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107630#issuecomment-2828988071)
