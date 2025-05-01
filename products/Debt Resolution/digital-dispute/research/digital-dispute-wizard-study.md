@@ -256,9 +256,9 @@ Provide a link to any materials you need to run your study, including any materi
 
 For moderated usability tests:
 
--   [Link to conversation guide]([https://docs.google.com/document/d/1oHGMLj5kTWYpbnnYuWJH_9e234vXKhRCC8z9aQ6nZuM/edit?tab=t.0](https://docs.google.com/document/d/1oHGMLj5kTWYpbnnYuWJH_9e234vXKhRCC8z9aQ6nZuM/edit?tab=t.0))
+-   [Link to conversation guide](https://docs.google.com/document/d/1oHGMLj5kTWYpbnnYuWJH_9e234vXKhRCC8z9aQ6nZuM/edit?tab=t.0)
     
--   [Link to prototype]([https://zyc78g.csb.app/manage-va-debt](https://zyc78g.csb.app/manage-va-debt))
+-   [Link to prototype](https://zyc78g.csb.app/manage-va-debt)
     
 
 ## Recruitment 🎯
