@@ -1,8 +1,4 @@
-# Rollout Monitoring for Travel Pay Status Page MVP on VA.gov
-
-
-Synopsis of first 30 days of feedback, January 13 - February 9, 2025: 
-[Status page_ first 30 days (1).pdf](https://github.com/user-attachments/files/18788064/Status.page_.first.30.days.1.pdf)
+# Medallia Monitoring for Simple Mileage-Only Claim submission on VA.gov
 
 
 ## Overall Trends
