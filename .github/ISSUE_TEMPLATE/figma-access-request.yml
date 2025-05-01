@@ -20,8 +20,8 @@ body:
     id: email
     attributes:
       label: Email
-      description: Please provide the work email for the person requesting access
-      placeholder: jane.doe@company.com
+      description: Please provide a va.gov email for the person requesting access
+      placeholder: jane.doe@va.gov
     validations:
       required: true
   - type: input
