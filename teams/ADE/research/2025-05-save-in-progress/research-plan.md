@@ -18,6 +18,8 @@ We are testing a modification of the VA Design System [Header - Minimal componen
 
 ![green-save-alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/images/2-a11y-issues-fix.png)
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/images/2-a11y-issues-fix.png" width="40%" height="40%">
+
 Previous research has validated the minimal header component, including its lack of "Back" button (research participants successfully used the "Back to previous page" breadcrumb link at the top of each page). Other research studies have tried various locations for the "Save in progress" alert, and subsequent research studies have documented usability and accessibility issues with those locations. This current study proposes new design revisions that will hopefully work better for Veterans than earlier designs. 
 
 </details>
