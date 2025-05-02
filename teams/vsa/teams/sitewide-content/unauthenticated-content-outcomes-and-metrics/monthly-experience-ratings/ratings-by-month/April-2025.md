@@ -1,7 +1,7 @@
 # Unauthenticated page experience ratings: April 2025
 ## Related overall scores
 - **Total customer satisfaction score:** 59.9% (0% change from last period)
-- **Average resources and support good/bad experience score:** XX% "good" experience rating overall XXXXX out of XXXXX total)
+- **Average resources and support good/bad experience score:** 67% "good" experience rating overall 10,789 out of 16,005 total)
 
 ## Experience ratings (1 to 5 scale)
 
