@@ -77,7 +77,7 @@ There are areas that will need to be created and then reviewed as part of this d
 
 Working within the Form Builder, you will use the user interface. 
 
-![][image1]
+![][teams/form-engine/runbook/guide-images/FB-Home.jpg]
 
 The above page is representative of what you can expect when you log into the Form Builder tool. 
 
