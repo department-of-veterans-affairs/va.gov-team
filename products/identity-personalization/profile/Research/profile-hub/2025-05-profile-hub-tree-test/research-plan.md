@@ -121,28 +121,45 @@ Are there moments that matter?</summary>
 
 **List the total number and type (Veterans, caregivers, etc.) of participants for this study:**
 
-- `Veterans:` **[48]**
+- `Veterans:` **[75]**
 - `Caregivers:` **[0]**
 - `Dependents:` **[0]**
-- `Total:` **[48]**
+- `Total:` **[75]**
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
 - `ALL / Participants have a VA.gov or MyHealtheVet account`
-- `16 / Very frequent VA.gov users (Daily or Weekly)`
-- `16 / Frequent VA.gov users (Monthly)`
-- `16 / Non frequent VA.gov users (Every few months or Never, but am open to using VA.gov)`
+- `25 / Very frequent VA.gov users (Daily or Weekly)`
+- `25 / Frequent VA.gov users (Monthly)`
+- `25 / Non frequent VA.gov users (Every few months or Never, but am open to using VA.gov)`
+
+#### Screener questions
+1. Do you have a VA.gov or My HealtheVet account?
+
+   - Yes
+   - No
+   - I’m not sure
+
+2. How often do you use VA.gov? Your best guess is okay.
+
+   - Daily
+   - Weekly
+   - Monthly
+   - Every few months
+   - Never, but am open to using VA.gov
+   - Never, and would prefer not to use VA.gov
+   - I’m not sure
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
 
-- `24+ / age 55+ yo`
-- `24+ / with cognitive disability`
-- `19+ / people of color (Black, Hispanic, Asian, or Native American)`
-- `12+ / rural location`
-- `12+ / with no degree`
-- `5+ / women`
+- `38+ / age 55+ yo`
+- `38+ / with cognitive disability`
+- `28+ / people of color (Black, Hispanic, Asian, or Native American)`
+- `19+ / rural location`
+- `19+ / with no degree`
+- `8+ / women`
 - `3+ / LGBTQ+`
 
 ## Timeline 🗓️
@@ -152,11 +169,11 @@ Are there moments that matter?</summary>
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 
-- `Pilot participant name:` **TBD**
-- `Date and time of pilot session:` **TBD** 
+- `Pilot participant name:` **Piloting with multiple individuals async. No meeting needed.**
+- `Date and time of pilot session:` **05/02 - 05/05** 
 
 ### Research sessions
-- `Planned dates of research:` **05/05 – 05/16/2025**
+- `Planned dates of research:` **05/08 – 05/21/2025**
 
 ### Length of sessions
 - Not applicable due to being an unmoderated study.
@@ -182,28 +199,28 @@ When would you like sessions scheduled? Please list exact dates and times in **E
      - **N/A**
 
 ## Approvals ✅
-- `Reviewed by [Chante, OCTO Product Owner] on [MM-DD-YYYY]`
+- `Reviewed by [Chante, OCTO Product Owner] on [05-01-2025]`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
 
 
 ## Appendix
 
 ### Instruction Email
-[Subject] Start your VA online research activity
+Subject: Veteran User Experience Research Studies - Study Details (VA.gov Profile Feedback)
 
 Hello,
 
-Thank you for agreeing to take part in this VA online research activity.
+Thank you for reaching out! Your feedback is critical in helping us improve the VA.gov experience for Veterans.
 
-This activity usually takes about 10 to 15 minutes to complete. You can start anytime from your smartphone, laptop, or any device with an Internet connection. We'll guide you through each task in the activity.
+This activity usually takes about 10 to 15 minutes to complete. You can start anytime from your smartphone, laptop, or any device with an Internet connection. 
 
-We won't share any information or feedback linked to your name or other personal details.
+To participate:
 
-**Here's your participant code: [Add code]**
+1. Click the link below to complete the activity. We’ll guide you through each task as you go.
+2. Enter your participant code at the start of the activity to receive compensation. If you do not enter your  code, then we will not be able to compensate you. 
+   - **Here's your participant code: [Add code]**
 
-You'll need to enter the code at the start of the activity to receive compensation.
-
-[Start the activity now](https://dj540s05.optimalworkshop.com/treejack/profile-hub)
+**[Start the activity now]**(https://dj540s05.optimalworkshop.com/treejack/profile-hub)
 
 
 ### Tree Test Structure
@@ -211,11 +228,11 @@ You'll need to enter the code at the start of the activity to receive compensati
 Profile
 - Personal information
 - Contact information
-- Dependents and contacts
+- Dependents and personal contacts
 - Financial information
 - Service history information
 - Letters and documents
-- Communication preferences
+- Communication settings
 - Account security
 - Connected apps
 
@@ -235,13 +252,13 @@ We'll guide you through each task in the activity. Select ‘Continue’ to get 
 
 All questions other than Q1 will be randomized to reduce bias.
 
-1. **Disability rating/** For all tasks we're going to ask you to imagine you've signed into VA.gov and have navigated to your profile. For the first task, where would you expect to find your disability rating?
+1. **Disability rating/** For all tasks we're going to ask you to imagine you've signed into VA.gov and have navigated to your profile. For the first task, where would you expect to find your disability rating in the VA.gov profile?
 2. **Dependents/** Where would you expect to update information about your marriage or spouse?
-3. **Heath care contacts/** Where would you expect to find your health care next of kin information?
+3. **Heath care contacts/** Where would you expect to find your VA health care next of kin information?
 4. **Accredited representative/** If you were currently working with a VSO, where would you expect to find information about them?
 5. **Period of service/** Where would you expect to find information about what military branch you served in?
-6. **DD 214/** Where would you expect to access a copy of your DD 214?
-7. **ILER IES/** Where would you expect to download a PDF copy of your toxic exposure information?
+6. **Direct deposit/** Where would you expect to update your VA direct deposit information?
+7. **ILER IES/** Where would you expect to download a PDF copy of your possible military toxic exposure information?
 8. **Veteran Status Card/** Where would you expect to find a digital version of your Veteran ID Card?
 9. **Paperless delivery/** Where would you expect to opt into digital delivery of VA documents?
 10. **MHV signatures/** Where would you expect to manage your health care signature, which would appear on messages to your VA doctor?
@@ -249,24 +266,25 @@ All questions other than Q1 will be randomized to reduce bias.
 
 **Post-Study Questions**
 
-1. \[Open input] Of the sections listed below, are there any missing that you’d expect to see in the VA.gov profile?
+1. \[Open input, optional] Of the sections listed below, are there any missing that you’d expect to see in the VA.gov profile?
    - Personal information
    - Contact information
-   - Dependents and contacts
+   - Dependents and personal contacts
    - Financial information
    - Service history information
    - Letters and documents
-   - Communication preferences
+   - Communication settings
    - Account security
    - Connected apps
 
-2. \[Radio] What would you call a section of the profile that includes your dependents, health care contacts, and VSO information?
-   1. Dependents and contacts
-   2. Dependents and personal contacts
-   3. Beneficiaries and contacts
-   4. Other
+2. \[Radio, required, randomized order] What would you call a section of the profile that includes your dependents, health care contacts, and VSO information?
+   1. Dependents and personal contacts
+   2. Beneficiaries, dependents, and contacts
+   3. My people
+   4. Dependents and contacts
+   5. Other
 
-3. \[Open input] Any other feedback you’d like to provide about your experience today?
+3. \[Open input, optional] Any other feedback you’d like to provide about your experience today?
 
 
 **Thanks**
@@ -278,33 +296,28 @@ You may now close this window or navigate to another web page.
 
 ### Completion Codes
 
-**Complete, participated** 
+**Complete, Usable** 
 
-- Participants entered a code at the beginning ~~and end~~ of the activity and participated in >0% of the test (i.e., provided at least 1 piece of data).
-- The team determines if data is usable or unusable in results (use data scrubbing guidance, the team will document the reason for exclusion).
-  - Recruits are not replaced if the team decides data is unusable.
-- For additional recruits needed to reach goal numbers, requests can be made to Shane Strassberg near the end of the study for the number needed. Be sure to account for the time needed to gain approvals and recruit within your timelines. 
-- Participants will be compensated regardless of whether their data is used in the results. 
+- Participants entered a code at the beginning of the activity and participated in >0% of the test (i.e., provided at least 1 piece of data).
+- Responses were all answered and complete.
+- Next steps: None.
 
-**Complete, non-participatory** 
+**Complete, Incomplete** 
 
-- Participants entered a code at the beginning ~~and end~~ of the activity but skipped 100% of tasks/questions or provided no feedback or data.
-- Perigean will encourage participants to try again and will be given 1 business day to complete. 
-- A participant is not compensated unless they repeat the test and move to Complete, participated status.
-- Perigean will determine if this should be noted in their database entry, but won’t impact future recruiting at this time.
+- Participants entered a code at the beginning of the activity and participated in >0% of the test (i.e., provided at least 1 piece of data).
+- Participant abandoned study, and did not answer all questions.
+- Next steps: Perigean follow-up to prompt completing the study.
 
-**Incomplete/abandoned, not usable** 
+**Complete, Not usable** 
 
-- **Participants entered a code at the beginning but not at the end of the activity due to abandoning before completion.** Data is deemed unusable by the team because of a lack of data or invalid data provided (use data scrubbing guidance, the team will document the reason for exclusion). 
-- Perigean will encourage participants to try again, and they'll be given 1 business day to complete.
-- If, after follow-up, they do not attempt again or are incomplete and unusable again, Perigean will replace the recruit. 
-- Participants will be compensated regardless if they try again.
+- Participants entered a code at the beginning of the activity and participated in >0% of the test (i.e., provided at least 1 piece of data).
+- [Participants feedback deemed unusable using scrubbing guidance.](https://depo-platform-documentation.scrollhelp.site/research-design/conducting-unmoderated-research#Conductingunmoderatedresearch-data-cleaningDatascrubbingguidance) 
+- Next steps: Moderator to remove participants' data from final results.
 
-**Incomplete/abandoned, usable** 
+**Incomplete, Not usable** 
 
-- **Participants entered the code at the beginning but not at the end of the activity due to abandoning before completion.** Data is deemed usable by the team because enough partial/valid data was collected (use data scrubbing guidance, the team will document the reason for exclusion).
-- No replacement recruits.
-- Participant is compensated.
+- Participants entered a code at the beginning of the activity and did not provide at least 1 piece of data.
+- Next steps: Perigean follow-up to prompt completing the study.
 
 
 ### [Laws related to this work](<https://depo-platform-documentation.scrollhelp.site/research-design/laws-related-to-the-work-of-octo-and-the-veteran-d>)
