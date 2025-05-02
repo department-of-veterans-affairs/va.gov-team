@@ -11,7 +11,7 @@ Last updated: 4/30/2025
 
 
 
-## ADR: 001 - Country code field and phone field will not interact <a name="ADR1"></a>
+## ADR: 001 - Country code field and phone field will not interact <a id="ADR1"></a>
 
 ### Status: Accepted
 - Date Raised: 2025-04-21
