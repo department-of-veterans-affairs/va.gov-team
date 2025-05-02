@@ -252,13 +252,13 @@ OK, pretend that you just finished your lunch (dinner). Now you want to get back
 1. Overall, about everything on the website in this session...What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
-1. What kinds of online forms have you filled out before? 
+1. What kinds of online forms have you filled out before, and how does the process compare to the VA form you filled out today? 
 
-     1.  health care / taxes / other government form / online purchase /  _________________? 
+     1.  health care / education / other government form / online purchase /  _________________? 
 1. *(if haven't already talked about saving)* When do you expect the information you enter into an online form to be saved?
 
      1. Before / after submitting?
-1. If you had a magic wand and could change *anything* about how we save your data before you submit a form, what would you want?
+1. If you had a magic wand and could change *anything* about how we save your information before you submit a form, what would you want?
 1. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 3 minutes
