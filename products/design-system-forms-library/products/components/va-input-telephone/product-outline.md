@@ -63,7 +63,7 @@ June
 
 
 ## Success Criteria
-- All prefill forms and applications accept international phone numbers without errors.
+- Prefill forms and applications accept international phone numbers without errors.
 - Reduction in the rejection rate of forms due to invalid phone numbers.
 - Positive feedback from users and stakeholders regarding usability and accessibility.
 
