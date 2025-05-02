@@ -181,7 +181,7 @@ We will use these props for MVP
 
 ---
 
-## ADR: 007 -  On screens smaller than 360px we will stack the country code and phone number
+## ADR: 007 - On screens smaller than 360px we will stack the country code and phone number
 
 ### Status: Accepted
 - Decision Date: 2025-04-29
