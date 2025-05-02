@@ -1,17 +1,17 @@
 # va-input-telephone Design Decisions
 Last updated: 4/30/2025
 
-- [ADR: 001 - Country code field and phone field will not interact](#ADR1)
-- [ADR: 002 - Geolocation on country code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-input-telephone/design-decisions.md#adr-002---geolocation-on-country-code)
-- [ADR: 003 - Usage of flag icon in the country code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-input-telephone/design-decisions.md#adr-003---usage-of-flag-icon-in-the-country-code)
-- [ADR: 004 - Country order and initial country selection](#ADR-004-Country-order-and-initial-country-selection)
-- [ADR: 005 - Props allowed for International Phone](#ADR-005-Props-allowed-for-International-Phone)
-- [ADR: 006 -  One field for both international and domestic phone number](#ADR-006-One-field-for-both-international-and-domestic-phone-number)
-- [ADR: 007 -  When the combo box is smaller than 216px, country names may be truncated](#ADR-007-When-the-combo-box-is-smaller-than-216px-country-names-may-be-truncated)
+- [ADR: 001 - Country code field and phone field will not interact](#ADR-001---Country-code-field-and-phone-field-will-not-interact)
+- [ADR: 002 - Geolocation on country code](#adr-002---geolocation-on-country-code)
+- [ADR: 003 - Usage of flag icon in the country code](#ADR-003---usage-of-flag-icon-in-the-country-code)
+- [ADR: 004 - Country order and initial country selection](#ADR-004---Country-order-and-initial-country-selection)
+- [ADR: 005 - Props allowed for International Phone](#ADR-005---Props-allowed-for-International-Phone)
+- [ADR: 006 -  One field for both international and domestic phone number](#ADR-006---One-field-for-both-international-and-domestic-phone-number)
+- [ADR: 007 -  When the combo box is smaller than 216px, country names may be truncated](#ADR-007---When-the-combo-box-is-smaller-than-216px-country-names-may-be-truncated)
 
 
 
-## ADR: 001 - Country code field and phone field will not interact <a id="ADR1"></a>
+## ADR: 001 - Country code field and phone field will not interact
 
 ### Status: Accepted
 - Date Raised: 2025-04-21
@@ -35,7 +35,7 @@ Should selecting a country code automatically insert it into the phone number fi
 - With the validation library, user inputs can be matched against country-specific patterns, improving form accuracy and the user experience while maintaining accessibility standards.
 
 
-## ADR: 002 - Geolocation on country code <a name="ADR2"></a>
+## ADR: 002 - Geolocation on country code
 
 #### Date: 2025-04-21
 #### Status:  NOT FOR MVP
