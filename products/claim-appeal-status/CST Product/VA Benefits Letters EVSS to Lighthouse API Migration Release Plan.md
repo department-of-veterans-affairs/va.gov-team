@@ -1,5 +1,7 @@
 # Phased rollout
 
+## Helpful Links
+
 - Feature flipper: [`bcas_letters_use_lighthouse`](https://api.va.gov/flipper/features/bcas_letters_use_lighthouse)
 - DataDog Dashboard: [Benefits - Management Tools -  Letters](https://vagov.ddog-gov.com/dashboard/86n-b39-hhn/benefits---management-tools---letters?fromUser=true&refresh_mode=sliding&from_ts=1746109974694&to_ts=1746196374694&live=true)
 
@@ -34,6 +36,8 @@ Desired number of users: 600, 1000, 1400
 
 What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:  
 #### Data Dog
+
+> See "Helpful Links" section above for the dashboard!
 
 - Index error rate: < 2.5%
 - Download error rate: < 0.3%
