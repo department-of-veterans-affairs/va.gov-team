@@ -43,12 +43,14 @@ Before we start, I have a few things that I want to go over with you:
 o	Knowing that, can I record this conversation as we talk today?
 [Record answer here]
 o	If yes: Once I start recording, I am going to confirm that you are okay with me recording this session once more.
+
 ➡️ Start recording.
+
 •	I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 > 
 [Record answer here]
 
-[Question set is warm-up for understanding]
+## [Warm-up questions] - 5 minutes
 1.	Can you tell me about yourself and the role you have with the VA?
 2.	How long have you been in this role?
 
@@ -106,28 +108,31 @@ a.	How are they typically resolved?
 13.	How do you handle deactivation or modification of user access when roles change or users leave the organization?
 14.	What, if any, would you like to change about the process?
 
+## Third Task: [Assistance, support, and Misc.] - 10 minutes
 
-# Post-Task Interview - X minutes
+These are questions to gather as a wrap up/follow up from things arising from the conversation.
 
-- Question 1
-- Question 2
-- Any questions for me? 
-
-## Consent to use video clips
-
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - **If yes:** Is there any part of our discussion you would NOT want shared in a video clip?
- 
-   <mark>**[Record answer here]**</mark>
+1.	What are some of the policies/SOP/protocols that have informed this, if any?
+2.	What devices are you typically using/accessing SSO?
+a.	What devices are these? (GFE, personal)
+b.	(If multiple devices) what is the experience like across different devices?
 
 
-## Thank-You and Closing - X minutes
+# Post-Task Interview - 5 minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+1.	Are there any questions that you have for me?
+2.	Would you be willing to participate in future or other studies?
+3.	What is the best way to reach you?
+4.	Are there any other colleagues you believe could give further insights?
 
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
+
+
+## Thank-You and Closing - 1-2 minutes
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is very helpful.
 Thank you so much again, and enjoy the rest of your day!
+
 
 
 # Emergency Exit 🚨
