@@ -12,6 +12,8 @@
 - Ask our engineers if they can discern the most frequently chosen marital status options, e.g. Married, Divorced or annulled, Separated, Widowed, Never married
 - Search in our mural board to see if any forms use legally separated, or defining questions around separated.
 - Change text: 'My previous spouse is now deceased', to 'My previous spouse is deceased.'
+- Remove the link (to the legacy VA definition of marriage) in the additional informaiton dropdown
+- On the first Marital status screen, just under the sub-heading 'What is your current marital status?' add the following text: If you’re in a civil union or common law marriage that’s recognized by the state you were married in, select Married (including state-recognized unions).
 
 
 ### Notes
@@ -21,7 +23,7 @@
   - **Lauren**: Minor tweaks to the text: If you’re in a civil union or common law marriage that’s recognized by the state you were married in, select Married (including state-recognized unions).
   - **Lauren**: This leads to the radio buttons, the first option, changing to: Married (including state recognized union)
 - **Kristen**: To clarify, I had to do some paraphrasing. The link to the page with VA.gov's definition of married (that we want to include) is wordy. It would be nice to provide the URL instead of including all the text; that way if VA's definition of what is married changes... it would be best to paraphrase and send them to the linked page for more info.
-- **Lauren**: The ULL for the page is a legacy page. The issue is that page, I don't think will be updated. Danielle suggested we could go through that page and transfer to one of our (VA.gov) Resources and support pages so that the information is on our current site, and then we could update that. After we do that we could circle back and add the link.
+- **Lauren**: The URL for the page is a legacy page. The issue is that page, I don't think will be updated. Danielle suggested we could go through that page and transfer to one of our (VA.gov) Resources and support pages so that the information is on our current site, and then we could update that. After we do that we could circle back and add the link.
 - **Kristen**: We can't put links into the text just under the sub heading.
 - **Lauren**: I suggest a possibility for including the link when we are able to transfer it over; include it with the additional component, and we could add another line to the new description above directing them to the additional information component where they can click the link. For right now we definitely want the information more visible. If we didn't have the explanation under the question, we would need to rely on someone going to the site, reading all the info, and then coming back to the form, which could be a big ask.
 - **Kristen**: Summarizing - We don't want folks to do extra clicks, go to a different site and return. We want to show specifically the revised string we can use. It sounds like there is a short term solution (no link), and long term (resources and support).
