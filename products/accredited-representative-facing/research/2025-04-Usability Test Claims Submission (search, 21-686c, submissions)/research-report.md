@@ -15,11 +15,11 @@ Type of Research: User Interview and Usability test
 Jump to:
 
 * [Background](#_kvvd0m5385jp)
-* [Research Goals](#_5rudm017qcgc)
-* [Executive Summary](#_apdyp4wpqh9c)
-* [Participant Sample](#_Participant_sample)
-* [Key Findings and Recommendations](#_Key_Findings)
-  + [Claim submission flow](#_The_21-686_submission_1)
+* [Research Goals](#research-goals)
+* [Executive Summary](#executive-summary)
+* [Participant Sample](#participant-sample)
+* [Key Findings and Recommendations](#key-findings-and-recommendations)
+  + [Claim submission flow](#The-21-686-submission-flow-is-not-intuitive,-but-is-accepted)
     - [Landing page – Find Claimant](#_Landing_page_after)
     - [Submit form intro page](#_Submit_21-686c_Intro)
     - [Step 1/3 Claimant and representative information](#_Step_1/3_Claimant)
@@ -68,9 +68,9 @@ When considering rollout and communication of ARP, this study also suggested tha
 
 Our sample skewed toward more experienced representatives who were mainly state VSOs. The following chart highlights key characteristics of these participants.
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
+
 |  | VSO | Tools used | Supervisory role | Cross/Single accreditation |
+| --- | --- | --- | --- | --- |
 | P1 | Illinois | QuickSubmit | Not a supervisor | Single |
 | P2 | Michigan | VetPro | Supervisor | Cross |
 | P3 | DAV | Propriety software, SEP | Supervisor | Single |
@@ -79,13 +79,11 @@ Our sample skewed toward more experienced representatives who were mainly state 
 
 # Key Findings and Recommendations
 
-## The 21-686 submission flow is not intuitive, but is accepted.
+## The 21-686 submission flow is not intuitive, but is accepted
 
 When submitting a 21-686c from ARP, representatives’ expectations of what would happen from screen to screen were based on current tools they used. The flow tested in this prototype started at Find claimant -> Search result/Submit 21-686c link -> Intro page of 21-686c -> Step 1/3 Claimant information -> Step 2/3 Upload forms -> Step 3/3 Review and Submit -> Success.
 
-![Graphical user interface, application
-
-AI-generated content may be incorrect.](data:image/png;base64...)
+<img width="577" alt="image" src="https://github.com/user-attachments/assets/cb916624-8b6a-4d38-b763-b0252ca6f924" />
 
 ### Landing page after log-in: Find Claimant
 
@@ -111,9 +109,9 @@ Post first release:
 1. Conduct internal research to see if we can only use SSN as the search field.
 2. Improve messaging on homepage and on the “Find Claimant” page to clarify what functionality currently exists in ARP.
 
-![](data:image/png;base64...)
+![image](https://github.com/user-attachments/assets/e3fd0bf6-5ef5-4ab7-94e8-e64fa81c78c9)
 
-![](data:image/png;base64...)
+![image](https://github.com/user-attachments/assets/7e904e41-b068-40fb-9c68-d04ee9f8986d)
 
 ### Submit 21-686c Intro Page
 
@@ -136,6 +134,7 @@ When representatives complete a pdf (versus using SEP), they prefer to have the 
 Overall, participants felt that the instructions on the intro page were “standard” and “straightforward” (P4, P2). They did not feel the content was excessive, and all participants knew what additional evidence they would upload for the 21-686c.
 
 **Recommendations**
+
 Prior to first release: Adding examples of what additional evidence constitutes does not add value for representatives. Representatives receive training and coaching before submitting forms on their own; they have this knowledge. If we considered including examples, recognize that it is low-value information.
 
 Post first release:
@@ -143,7 +142,7 @@ Post first release:
 1. Identify ways for the “Download form” feature to exist on its own, decoupled from this submission flow. We currently have a ticket to explore this through the claimant page designs.
 2. Further investigate needs around signature completion and whether or not this would be a high-value feature to pursue, especially if we continue to request pdf form uploads.
 
-![](data:image/png;base64...)
+![image](https://github.com/user-attachments/assets/a8bb73d9-5237-46d7-8388-c80315edda9d)
 
 ### Step 1/3 Claimant and representative information
 
@@ -168,7 +167,7 @@ Prior to first release:
 1. Change copy of alert to focus on form number rather than whether or not the form is the most up-to-date.
 2. Potentially change alert to red for more prominence.
 
-![](data:image/png;base64...)
+![image](https://github.com/user-attachments/assets/06345740-1d15-4851-82ad-30c65ecd4a26)
 
 ### Step 3/3 Review and Submit
 
@@ -182,6 +181,7 @@ All the participants recognized the value of checking information one last time 
 2. “I wish there was a confirmation number… even with QuickSubmit we get a confirmation number.” — P3
 
 **Recommendations**
+
 Prior to first release: Update the success message to include the confirmation code and information about how this is processed to set expectations on time it takes for the claim to reach VBMS. Suggested content is below.
 
 *Submitted April 9, 2025*
@@ -189,13 +189,13 @@ Prior to first release: Update the success message to include the confirmation c
  *This submission is being processed through Central Mail before reaching VBMS.*
  *The submission is in progress.*
 
-![](data:image/png;base64...)
+![image](https://github.com/user-attachments/assets/af3612f5-a0f8-4909-9fd9-37b241386f6a)
+
 
 ## For ARP’s claims submission solution to have greater value, continue to track and align with long-term goals
 
-|  |  |  |
-| --- | --- | --- |
 |  | Now that you’ve walked through this, how would you compare this approach to the current way you are using to submit 686c. Is it better, worse, or the same? | Does this seem faster, slower, or about the same as your current approach to submitting the 686c? |
+| --- | --- | --- |
 | P1, QuickSubmit | Same | Same |
 | P2, VetPro | Worse | Slower |
 | P3, Proprietary and SEP | Same | Slower |
@@ -215,6 +215,7 @@ In general, participants felt that this process of submitting a 686c was worse o
 1. “There are more steps involved so I guess it would be slower…if SEP wasn’t around I’d continue to use QuickSubmit [over this tool].” — P4
 
 **Recommendations**
+
 We recognize that the solution tested in this study represents one early iteration of a longer product development process. We expect that the following recommendations can be addressed.
 
 Near-term
@@ -261,7 +262,7 @@ At least one representative noted that if this list showed submissions from 60 d
 
 Post first release: Provide a more robust sort, filter and/or search option.
 
-### ![](data:image/png;base64...)
+![image](https://github.com/user-attachments/assets/1692f028-4402-4cee-b54c-c5a67dfd3dbb)
 
 ### Card view
 
@@ -269,9 +270,9 @@ Representatives overall found that the name, type of submission, date of submiss
 
 While they appreciated the information shown, the term “claim submission status” shown on the card confused representatives.[[1]](#footnote-2)
 
-|  |  |  |  |
-| --- | --- | --- | --- |
+
 |  | Is John Snyder's packet submission status clear or unclear? | Is Grayson’s 21-686c packet status clear or unclear? | Is Paula Higashi's packet status clear or unclear? |
+| --- | --- | --- | --- |
 | P1, QuickSubmit | Clear | Clear | Unclear |
 | P2, VetPro | Unclear | Unclear | Unclear |
 | P3, Proprietary and SEP | Clear | Clear | Unclear |
@@ -287,6 +288,7 @@ While they appreciated the information shown, the term “claim submission statu
 3. When the claim submission status was “Action needed,” 5/5 participants believed they needed to supply the claim with additional evidence. This however, refers to a system or processing error.
 
 **Recommendations**
+
 Prior to first release:
 
 1. Clarify the statuses so that “status” refers to status in VBMS or the specific system and phase that the claim is in.
@@ -298,7 +300,8 @@ Post first release:
 
 1. Investigate more fully if a representative can view their submission while also meeting security standards. Being able to preview submissions is a feature in QuickSubmit and from prior research and this research, some representatives would use this feature.
 
-![](data:image/png;base64...)
+![image](https://github.com/user-attachments/assets/dabb692c-5f68-469b-acbd-8e76f60665b6)
+
 
 ### For users of QuickSubmit and SEP, improving the search on this page and content of each card can increase how fast representatives accomplish tasks on this page.
 
@@ -309,6 +312,7 @@ Overall, this approach to referencing a past submission felt slower than their c
 3. 1/5 participants noted that while this felt faster than SEP, it also felt slower than QuickSubmit.
 
 **Recommendations**
+
 Prior to first release: Show the date received by VBMS. This is currently not shown in QuickSubmit, and two representatives noted that this would be helpful information.
 
 Post first release: Include more information about the timeline of the claim (e.g. similar to claim status tool). This change would increase the value of this tool over a tool like QuickSubmit that cannot share this information. Third-party tools like VetraSpec plan to share this information as well.
