@@ -2,6 +2,12 @@
 
 ### [Design Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-input-telephone/design-decisions.md)
 
+## Design System Team
+- Product Managers: Carol Wong, Tricia Baker
+- Designer: Jeana Clark
+- Web Dev: Ian Harrison
+- Mobile Dev: Tim Roettger
+
 ## Summary
 - The va-input-telephone component is being developed to enable support for international phone numbers across the VA.gov ecosystem.
 - This enhancement is critical to improving accessibility and usability for veterans and users residing outside the United States.
