@@ -10,8 +10,9 @@ Keep in mind, this documentation is “living.” and will reflect updates to th
 
 ### In this guide
 
-•[The purpose of Form Builder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/form-engine/runbook/Collaborator-Guide.md#the-purpose-of-form-builder)
-•[Before starting with Form Builder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/form-engine/runbook/Collaborator-Guide.md#before-starting-with-form-builder)
+###•[The purpose of Form Builder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/form-engine/runbook/Collaborator-Guide.md#the-purpose-of-form-builder)
+
+###•[Before starting with Form Builder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/form-engine/runbook/Collaborator-Guide.md#before-starting-with-form-builder)
 
 
 
