@@ -58,7 +58,7 @@ Last updated: 2025-05-02
 ## ADR: 003 - Usage of flag icon in the country code
 
 ### Status: Accepted
-- Decision Date: 4/30/2025
+- Decision Date: 2025-04-30
   
 ### Context
 Other platforms, such as Login.gov and ID.me, display a country flag alongside the country code within the combo box dropdown. We are exploring the option to use a similar approach to enhance the user experience.
