@@ -100,7 +100,7 @@ Qualitative feedback:
 #### DataDog
 | Metric Name | Description |
 | ----------- | ----------- |
-| VA.gov - Endpoint errors | 0 |
+| VA.gov - Endpoint errors | 5 |
 | Travel Pay API - Endpoint error count | 354 |
 | Average latency | 9.97 sec |
 | Unique users | 6,490 |
