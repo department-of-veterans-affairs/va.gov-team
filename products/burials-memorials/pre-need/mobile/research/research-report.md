@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), VA Health and Benefits App, Mobile Feature Support**
 
-Date: MM/DD/YYYY
+Date: 05/05/2025
 
 Emily DeWan, Natasha Huckleberry
 
@@ -104,28 +104,51 @@ We conducted hour-long remote moderated research sessions via Zoom on March 7-14
 Veterans want to plan ahead not for themselves but to make things easier for their families. They’ve seen the stress that comes with loss and want to lift that burden by having their wishes known and documents in place. It’s a practical, caring act that they are ready to take, supported by VA through the right tools, guidance, and communication.
 
 
-
-1. Most participants learn about their benefits through word of mouth, rather than VA.gov.
-2. Awareness of pre-need eligibility is low, and is often confused with more comprehensive funeral planning services.
-3. Existing burial content on VA.gov is generally understandable, but there is desire for clearer and simple communication.
-4. Planning ahead for death is seen as a practical way to care for loved ones.
-5. Personal experiences of loss are a strong prompt for planning, but urgency is often missing.
-6. Everyone wants a digital copy of their pre-needs eligibility letter.
-7. Participants have a strong desire to ensure their loved ones can access important documents after they die.
-8. Participants prefer phones for quick tasks, but turn to computers or tablets for anything more involved.
-9. Participants desire transparency from VA, and generally have low expectations for communication.
+1. Planning ahead for death is seen as a practical way to care for loved ones.
+2. Personal experiences of loss are a strong prompt for planning, but urgency is often missing.
+3. Most participants learn about their benefits through word of mouth, rather than VA.gov.
+4. Awareness of pre-need eligibility is low, and is often confused with more comprehensive funeral planning services.
+5. Existing burial content on VA.gov is generally understandable, but there is desire for clearer and simple communication.
+6. Participants prefer phones for quick tasks, but turn to computers or tablets for anything more involved.
+7. Participants desire transparency from VA, and generally have low expectations for communication.
+8. Everyone wants a digital copy of their pre-needs eligibility letter.
+9. Participants have a strong desire to ensure their loved ones can access important documents after they die.
 
 
 ## Details of Findings
 
 
-### Finding 1: Most participants learn about their benefits through word of mouth rather than VA.gov.
+### Finding 1: Planning ahead for death is seen as a practical way to care for loved ones
+
+
+
+* As most had been involved in some capacity with planning others’ funerals, they’ve seen how planning ahead and communicating wishes lifts an emotional weight during a grieving time.
+
+    > _“We've had loved ones that have passed away. You want to have your affairs in order because you don't want to leave anybody with a mess, because trying to make a decision during the grieving process is almost impossible. You want them to concentrate on getting over the fact that you're gone, not trying to take care of business.” – P2_
+* They all see death planning as a very practical aspect of life, and think that everyone should have things in place for their loved ones.
+
+    > _“You want to make it easier for the ones that are going to handle stuff. I've seen enough people dying, enough families in grief that the more the deceased does before they die, the easier it is for them. When they're in uncharted territory, they start fighting.” – P9_
+
+### Finding 2: Personal experiences of loss are a strong prompt for planning, but urgency is often missing.
+
+* 8 of 13 were prompted to start considering their wishes after witnessing first-hand the effects of planning (or lack thereof) before someone dies.
+    > _"Besides aging, I had a friend in a relationship with a man who had grown children. They were told that if he died first, she could live in the house—even though she had no ownership. But he died first, and the children booted her out because they weren’t her children." – P9_
+
+    > _"It was parents dying and brother and realizing what a pain in the neck this is. So, yeah, mitigate issues for other people." – P1_
+* Those who have not planned anything are aware that it’s important, but don’t seem to have any urgency behind starting the process
+    > _"The only reason I may have considered thinking about my end of life planning would be if I started to have a serious medical condition, and I know that I may not have time left, but I don't have those. I don't have any of those concerns at this time." – P15_
+
+    > _"When you're under stress and you've got to make all these decisions, having it all done is just really nice." – P6_
+
+    > _"[For their planning] No planning. I thought about it periodically. But nothing really established. I feel like I'm pretty healthy, and the idea of passing is far from my mind." – P6_
+
+### Finding 3: Most participants learn about their benefits through word of mouth rather than VA.gov.
 
 
 * Some read through everything to learn, but it’s typically not a source where they discover benefits. 6 of 13 cite VA.gov as a source.
   
     > _"The VA sites are very helpful. I just go to the VA site and I can search there and find all the answers." – P3_
-* Learning about benefits is generally from word of mouth: family, TAPs classes, printed materials, and service organizations.
+* Learning about benefits is generally from word of mouth: family, TAP classes (Transitional Assistance Program), printed materials, and service organizations.
   
     > _"My father is retired from the Air Force 23 years and so this is something that I've always known about." – P2_
     
@@ -137,7 +160,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
   > _"Honestly, I don't remember seeing anything. I believe when we go to the clinic or hospital, they should have a poster up or something, anything." – P12_ 
 
 
-### Finding 2: Awareness of pre-need eligibility is low, and is usually thought of with more comprehensive funeral planning services.
+### Finding 4: Awareness of pre-need eligibility is low, and is usually thought of with more comprehensive funeral planning services.
 
 
 
@@ -158,7 +181,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
 
 
 
-### Finding 3: Existing burial content on VA.gov is generally understandable, but there is desire for clearer and simple communication.
+### Finding 5: Existing burial content on VA.gov is generally understandable, but there is desire for clearer and simple communication.
 
 
 
@@ -183,63 +206,8 @@ Veterans want to plan ahead not for themselves but to make things easier for the
 * Simpler language was desired from 5 of 13.
 
 
-### Finding 4: Planning ahead for death is seen as a practical way to care for loved ones
 
-
-
-* As most had been involved in some capacity with planning others’ funerals, they’ve seen how planning ahead and communicating wishes lifts an emotional weight during a grieving time.
-
-    > _“We've had loved ones that have passed away. You want to have your affairs in order because you don't want to leave anybody with a mess, because trying to make a decision during the grieving process is almost impossible. You want them to concentrate on getting over the fact that you're gone, not trying to take care of business.” – P2_
-* They all see death planning as a very practical aspect of life, and think that everyone should have things in place for their loved ones.
-
-    > _“You want to make it easier for the ones that are going to handle stuff. I've seen enough people dying, enough families in grief that the more the deceased does before they die, the easier it is for them. When they're in uncharted territory, they start fighting.” – P9_
-
-
-### Finding 5: Personal experiences of loss are a strong prompt for planning, but urgency is often missing.
-
-* 8 of 13 were prompted to start considering their wishes after witnessing first-hand the effects of planning (or lack thereof) before someone dies.
-    > _"Besides aging, I had a friend in a relationship with a man who had grown children. They were told that if he died first, she could live in the house—even though she had no ownership. But he died first, and the children booted her out because they weren’t her children." – P9_
-
-    > _"It was parents dying and brother and realizing what a pain in the neck this is. So, yeah, mitigate issues for other people." – P1_
-* Those who have not planned anything are aware that it’s important, but don’t seem to have any urgency behind starting the process
-    > _"The only reason I may have considered thinking about my end of life planning would be if I started to have a serious medical condition, and I know that I may not have time left, but I don't have those. I don't have any of those concerns at this time." – P15_
-
-    > _"When you're under stress and you've got to make all these decisions, having it all done is just really nice." – P6_
-
-    > _"[For their planning] No planning. I thought about it periodically. But nothing really established. I feel like I'm pretty healthy, and the idea of passing is far from my mind." – P6_
-
-
-### Finding 6: Everyone wants a digital copy of their pre-needs eligibility letter.
-
-* Easier to share with people than a physical copy
-
-    > _"Maybe set it up as an attachment—like how I saved my DD-214. Something that could be easily forwarded to family members." – P5_
-
-    > _"Oh, so I can forward it to my family members right from my phone. If we had text or something, there’d be a quicker way to get it out to other people." – P15_
-* Faster to receive than a physical copy
-* Many wanted it together with other decision letters within their account (10 of 13).
-
-    > _"I’m thinking it would probably be in the same place where you go to get your eligibility letters and that kind of stuff — with the other letters." – P6_
-
-
-### Finding 7: Participants have a strong desire to ensure their loved ones can access important documents after they die.
-
-* Some would not depend on the VA and would make sure the letter is with all other death-related documentation (7 of 13).
-
-    > _"If I get a copy [of the decision letter], the first thing I’m going to do is scan it and upload it. I’ll keep it on a flash drive, in the folder where I store my official documents, so I always have a copy I can look at if nothing else." – P10_
-* Everyone would like support from the VA, knowing their relatives may not know what to do if they weren’t also Veterans. A few options:
-    * A relative can log into their account
-    * They could add next of kin or other points of contact within their account
-    * There was a central location the VA provides for survivors of Veterans where they could find guidance for their situation
-    * A public registry
-    <br>
-    
-    > _"If there were an option to share with next of kin—like how Facebook lets you memorialize a page—that would be great. Just being able to say, 'Okay, I’ve done this, and they get access to it'—that would be helpful. Whether it goes to a funeral home, a lawyer, or whoever needs to handle your final arrangements, it’s useful." – P10_
-
-    > _"If there was a registry, maybe they could punch in and see 'already qualified.' Some websites ask for a lot before giving access—civilians need easier ways to get in. Maybe it’s public data or something, I don’t know." – P11_
-
-
-### Finding 8: Participants prefer phones for quick tasks, but turn to computers or tablets for anything more involved
+### Finding 6: Participants prefer phones for quick tasks, but turn to computers or tablets for anything more involved
 
 
 
@@ -255,7 +223,7 @@ Veterans want to plan ahead not for themselves but to make things easier for the
 * Most knew how they would upload their DD214 (8 of 13), but a few (4 of 13) didn’t realize they could take a photo of the document and expressed concern about locating digital files on a mobile device.
 
 
-### Finding 9: Participants desire transparency from the VA and generally have low expectations for communication.
+### Finding 7: Participants desire transparency from the VA and generally have low expectations for communication.
 
 
 
@@ -276,18 +244,61 @@ Veterans want to plan ahead not for themselves but to make things easier for the
 
     > _"I think that's extremely important just to know, just to get it taken care of. I think it's one of the things that can be easily forgotten." – P5_
 
+### Finding 8: Everyone wants a digital copy of their pre-needs eligibility letter.
+
+* Easier to share with people than a physical copy
+
+    > _"Maybe set it up as an attachment—like how I saved my DD-214. Something that could be easily forwarded to family members." – P5_
+
+    > _"Oh, so I can forward it to my family members right from my phone. If we had text or something, there’d be a quicker way to get it out to other people." – P15_
+* Faster to receive than a physical copy
+* Many wanted it together with other decision letters within their account (10 of 13).
+
+    > _"I’m thinking it would probably be in the same place where you go to get your eligibility letters and that kind of stuff — with the other letters." – P6_
+
+
+### Finding 9: Participants have a strong desire to ensure their loved ones can access important documents after they die.
+
+* Some would not depend on the VA and would make sure the letter is with all other death-related documentation (7 of 13).
+
+    > _"If I get a copy [of the decision letter], the first thing I’m going to do is scan it and upload it. I’ll keep it on a flash drive, in the folder where I store my official documents, so I always have a copy I can look at if nothing else." – P10_
+* Everyone would like support from the VA, knowing their relatives may not know what to do if they weren’t also Veterans. A few options:
+    * A relative can log into their account
+    * They could add next of kin or other points of contact within their account
+    * There was a central location the VA provides for survivors of Veterans where they could find guidance for their situation
+    * A public registry
+    <br>
+    
+    > _"If there were an option to share with next of kin—like how Facebook lets you memorialize a page—that would be great. Just being able to say, 'Okay, I’ve done this, and they get access to it'—that would be helpful. Whether it goes to a funeral home, a lawyer, or whoever needs to handle your final arrangements, it’s useful." – P10_
+
+    > _"If there was a registry, maybe they could punch in and see 'already qualified.' Some websites ask for a lot before giving access—civilians need easier ways to get in. Maybe it’s public data or something, I don’t know." – P11_
+
+
+
 
 ## Recommendations
 
 
-* Add decision letter to MyVA and the app
-    * Everyone wants a digital decision letter to make it easier and faster for their loved ones to access crucial information.
-* Add status updates to My VA and the app
-    * Almost all would want to use their account to check the status of their application, referencing past frustrations with not knowing whether forms had been received or processed.
 * Provide timeline for the process of pre-need eligibility determination
     * Over half wanted to know how long they should expect to wait so that they’re confident the process was working.
-* Provide a method for family members and other designated people of Veterans to access pre-need eligibility decision. Possibly allow Next of Kin to be added?
+* Add status updates to My VA and the app
+    * Almost all would want to use their account to check the status of their application, referencing past frustrations with not knowing whether forms had been received or processed.
+* Add decision letter to MyVA and the app
+    * Everyone wants a digital decision letter to make it easier and faster for their loved ones to access crucial information.
+* Provide a method for family members and other designated people of Veterans to access their pre-need eligibility decision. Possibly allow Next of Kin to be added?
     * Everyone wanted to ensure their loved ones could access their decision letter after death, especially if they were not familiar with VA systems and procedures.
+
+
+## Recommendations for Other Teams
+
+
+* Develop a strategy to share burial information proactively
+	* Many Veterans have not seen or heard the burial benefits mentioned often or at all
+	* Prompt all Veterans to start burial planning via outreach, not just those with personal loss experience.
+* Clarify purpose of pre-need form
+	* Most assume they would be eligible because of their honorable discharge status, and don’t know why they would want to apply.
+* Revise eligibility copy for clarity
+	* “Veteran who didn’t receive a dishonorable discharge” was read as confusing
 
 
 ## Technical Limitations
@@ -311,7 +322,7 @@ Due to stage of our research, we did not include assistive technology (AT) users
 
 **Younger Veterans and family members**
 
-In this study, all but one participant was 45 years or older, which helped ensure our research reflected the demographics of Veterans and included older individuals who may face more challenges with technology. However, expanding future research to include younger Veterans and family members could be valuable, as it would:
+In this study, all but one participant was 55 years or older, which helped ensure our research reflected the demographics of Veterans and included older individuals who may face more challenges with technology. However, expanding future research to include younger Veterans and family members could be valuable, as it would:
 * Help us design with the expectations of more tech-savvy users in mind
 * Allow us to explore and validate ideas related to next of kin by including family members in our research
 
