@@ -1,23 +1,11 @@
 # Medallia Monitoring for Simple Mileage-Only Claim submission on VA.gov
 
-
-## Overall Trends
-Between X and Y:
-
-* Unique users: 
-* Views per user: 
-* Time Spent on Page: 
-* Average latency: 
-* API Endpoint errors: 
-* VA.gov Endpoint errors: 
-
-
 _Please note: Google Analytics Data is on a 48-hour delay (e.g. data for 1/13 will not be complete until 1/15)_ 
 
-### Date - %
+### Monday 4/28/25 - Thursday 5/1/25 - 100%
 
 #### Medallia feedback 
-x responses, x using the VFS Questionnaire and x using the MHV Form.  
+17 responses, 15 using the VFS Questionnaire and 2 using the MHV Form.  
 
 Task completion:
 
@@ -25,72 +13,72 @@ Task completion:
   <tr>
    <td>Were you able to do your task today? 
    </td>
-   <td>Responses (N = x)
+   <td>Responses (N = 17)
    </td>
   </tr>
   <tr>
    <td>Yes
    </td>
-   <td>a
+   <td>16
    </td>
   </tr>
   <tr>
    <td>No
    </td>
-   <td>b
+   <td>1
    </td>
   </tr>
   <tr>
    <td>No response to question
    </td>
-   <td>c
+   <td>0
    </td>
   </tr>
 </table>
 
-CSAT: 
+CSAT (including VFS Questionnaire): 
 
 <table>
   <tr>
    <td>What is your overall satisfaction with this site? (rating)
    </td>
-   <td>Responses (N = x)
+   <td>Responses (N = 17)
    </td>
   </tr>
   <tr>
    <td>1
    </td>
-   <td>a
+   <td>0
    </td>
   </tr>
   <tr>
    <td>2
    </td>
-   <td>b
+   <td>1
    </td>
   </tr>
   <tr>
    <td>3
    </td>
-   <td>c
+   <td>2
    </td>
   </tr>
   <tr>
    <td>4
    </td>
-   <td>d
+   <td>2
    </td>
   </tr>
   <tr>
    <td>5
    </td>
-   <td>e
+   <td>9
    </td>
   </tr>
   <tr>
    <td>No response to question
    </td>
-   <td>f
+   <td>3
    </td>
   </tr>
 </table>
@@ -99,8 +87,15 @@ Qualitative feedback:
 
 *Task trying to complete:*
 
-“quote goes here”
+“Claim filed for a VA medical physical (mileage only)”
 
+“Apply for travel pay”
+
+*Experience:*
+
+"I think so (completed task of apply for travel pay). However, the changes made to the travel claim filing process is frustrating to a non-computer person like me
+
+"I realize this is a new way to file a claim and maybe once one gets used to [typo] become easier, But, is not user friendly."
 
 #### Google Analytics 
 
