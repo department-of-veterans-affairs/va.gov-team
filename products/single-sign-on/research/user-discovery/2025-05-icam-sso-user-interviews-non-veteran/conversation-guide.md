@@ -99,10 +99,12 @@ Before we start, I have a few things that I want to go over with you:
      a.	What did you do to solve that?
 
      b.	How long did it take for this problem to be resolved?
+     
 
 **8.	Have you ever lost access to one of the applications?**
 
      a.	If so, had did you go about resolving that issue?
+     
 
 **9.	Have you ever had to gain access for those under you?**
 
@@ -114,7 +116,9 @@ Before we start, I have a few things that I want to go over with you:
 [Question set is for customer personas however a few questions can be directed at end users depending on the beginning answers.]
 
 **1.	Can you describe your roles and responsibilities in managing user access?**
+
 **2.	What applications do you own or manage?**
+
 **3.	Can you walk me through your experience requesting access for users?**
 
      a.	How about managing that access?
@@ -131,7 +135,9 @@ Before we start, I have a few things that I want to go over with you:
      b.	How long did it take for a resolution?
      
 **7.	What is the process for requesting access to new applications or systems?**
+
 **8.	How do you prioritize and manage access requests during peak times or urgent situations?**
+
 **9.	What common issues do users face with access and authentication?**
 
      a.	How are they typically resolved?
