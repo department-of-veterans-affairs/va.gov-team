@@ -220,7 +220,7 @@ To participate:
 2. Enter your participant code at the start of the activity to receive compensation. If you do not enter your  code, then we will not be able to compensate you. 
    - **Here's your participant code: [Add code]**
 
-**[Start the activity now]**(https://dj540s05.optimalworkshop.com/treejack/profile-hub)
+**[Start the activity now](https://dj540s05.optimalworkshop.com/treejack/profile-hub)**
 
 
 ### Tree Test Structure
