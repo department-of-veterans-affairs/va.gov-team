@@ -1,4 +1,3 @@
-# Note: This is a draft
 # Unauthenticated page experience ratings: April 2025
 ## Related overall scores
 - **Total customer satisfaction score:** 59.9% (0% change from last period)
@@ -69,10 +68,11 @@ All pages have ratings of 2 or below.
 5. [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/) (20% good out of 374 total responses)   
    
 ## Analysis
-[Resources and support ratings spreadsheet]
-- This is the eighth month in a row R&S didn't meet our goal of 75% or higher "good" ratings, with a 56% "good" average rating. This can be attributed to large numbers of "bad" ratings for sign-in related pages. This has been the case throughout the sign-in transition process but we will continue to monitor it.
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/April%202025%20good%20bad%20ratings.xlsx?d=wbdf08c426bb14656ac9821236595eb86&csf=1&web=1&e=nlWQK6)
+- This is the eighth month in a row R&S didn't meet our goal of 75% or higher "good" ratings, with a 67% "good" average rating. This has improved from last month. This can be attributed to large numbers of "bad" ratings for sign-in related pages. While this has been the case throughout the sign-in transition process we'll continue to monitor it.
 - - Performance isn't as high when broken down to individual pages:
-  - 33% of pages are scoring at 90% or higher "good"
-  - 47% of pages are meeting our goal of 75% or higher "good," while 53% of pages are scoring 70% or higher
-  - 29% of pages are scoring at less than 50% "good," with 7% scoring at less than 10% "good" 
-- All of the lowest scoring pages were connected to sign-in. While we believe this is more about the process than the content on the pages, we'll continue to monitor Medallia feedback to learn if there are any changes we can make to improve these pages.  
+  - 26% of pages are scoring at 90% or higher "good"
+  - 45% of pages are meeting our goal of 75% or higher "good," while 49% of pages are scoring 70% or higher
+  - 30% of pages are scoring at less than 50% "good," with 4% scoring at less than 10% "good" 
+- All of the lowest scoring pages were connected to sign-in. While we believe this is more about the process than the content on the pages, we'll continue to monitor Medallia feedback to learn if there are any changes we can make to improve these pages.
+- Four of the five pages with the highest good ratings and the largest number of responses have to do with health care apppointments—scheduling, check-in, reminders, or travel reimbursement.
