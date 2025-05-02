@@ -9,12 +9,12 @@
 - Fran Cross
 
 ### Action items
-- Ask our engineers if they can discern the most frequently chosen marital status options, e.g. Married, Divorced or annulled, Separated, Widowed, Never married
-- Search in our mural board to see if any forms use legally separated, or defining questions around separated.
-- Change text: 'My previous spouse is now deceased', to 'My previous spouse is deceased.'
-- Remove the link (to the legacy VA definition of marriage) in the additional informaiton dropdown
-- On the first Marital status screen, just under the sub-heading 'What is your current marital status?' add the following text: If you’re in a civil union or common law marriage that’s recognized by the state you were married in, select Married (including state-recognized unions).
-- 'Marital status' vs 'Marital status and information' sub-heading: if a team is only using the 'are you married' question, then we can call it marital status; if they are asking follow up questions, they can call it something else (like Marital status & information, Marital information, etc.)
+- [ ] Ask our engineers if they can discern the most frequently chosen marital status options, e.g. Married, Divorced or annulled, Separated, Widowed, Never married
+- [ ] Search in our mural board to see if any forms use legally separated, or defining questions around separated.
+- [ ] Change text: 'My previous spouse is now deceased', to 'My previous spouse is deceased.'
+- [ ] Remove the link (to the legacy VA definition of marriage) in the additional informaiton dropdown
+- [ ] On the first Marital status screen, just under the sub-heading 'What is your current marital status?' add the following text: If you’re in a civil union or common law marriage that’s recognized by the state you were married in, select Married (including state-recognized unions).
+- [ ] 'Marital status' vs 'Marital status and information' sub-heading: if a team is only using the 'are you married' question, then we can call it marital status; if they are asking follow up questions, they can call it something else (like Marital status & information, Marital information, etc.)
 
 
 ### Notes
