@@ -195,11 +195,9 @@ Cindy is available for a kickoff call during any of these times:
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study to review beforehand.
 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
-
-- `Pilot participant name:` **TBD**
-- `Date and time of pilot session:` **TBD** during May 5-8
+- `Dates and times of pilot sessions:` 
+  - **Mon May 5 from 3:30-5 pm ET** with Sarah Koomson
+  - **Tue May 6 from 4-5:30 pm ET** Maria Mutia
 
 ### Research sessions
 - `Planned dates of research:` **May 12-21**
