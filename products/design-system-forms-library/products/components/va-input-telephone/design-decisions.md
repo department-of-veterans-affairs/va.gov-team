@@ -14,7 +14,7 @@ Last updated: 2025-05-02
 
 ## ADR: 001 - Country code field and phone field will not interact
 
-#### Status: Accepted
+### Status: Accepted
 - Date Raised: 2025-04-21
 - Decision Date: 2025-04-29
 
@@ -30,7 +30,7 @@ Last updated: 2025-05-02
   - A [validation library](https://www.npmjs.com/package/libphonenumber-js) will be leveraged.
   - This library would validate phone numbers in the context of the selected country code, enabling custom validation messages and enforcing correct formatting.
 
-#### Consequences
+### Consequences
 - Without the validation library, phone number inputs would fall back to a generic validation pattern (e.g., allowing up to 10 or 15 characters). This could result in users submitting phone numbers with invalid formats for the selected country, reducing data quality.
 - With the validation library, user inputs can be matched against country-specific patterns, improving form accuracy and the user experience while maintaining accessibility standards.
 
@@ -66,15 +66,16 @@ Other platforms, such as Login.gov and ID.me, display a country flag alongside t
 ### Decision
 The decision was made to use the country flag
 
+### Consequences
+- If flags are used, additional work will be required to manage and optimize assets for both design and development environments.
+- Care must be taken to ensure accessibility compliance (e.g., providing alt text or labels for screen readers).
+- Potential impact on page load performance if not handled efficiently.
+
 ### Open Questions
 - Should the flag be treated as an icon or a separate asset?
 - Where will the flag images be stored (e.g., in Figma, in the codebase, or retrieved via an external asset library)?
 - What are the performance and accessibility implications?
 
-### Consequences
-- If flags are used, additional work will be required to manage and optimize assets for both design and development environments.
-- Care must be taken to ensure accessibility compliance (e.g., providing alt text or labels for screen readers).
-- Potential impact on page load performance if not handled efficiently.
 
 ---
 
@@ -87,11 +88,7 @@ The decision was made to use the country flag
 ### Context
 - [A library](https://www.npmjs.com/package/libphonenumber-js) is available that supports configuration through props to prioritize certain country codes at the top of the dropdown or to default to a specific country.
 
-### Open Question
-- Should we make a global decision for all implementations (e.g., always default to a specific country like the United States)?
-- Or should we allow individual teams to customize which countries appear first based on their needs?
-
-#### Decision
+### Decision
 - A final decision is still pending, but the current preference is to default to the United States at the top of the country code dropdown. The majority of mailing addresses are US addresses.
 
 | Country             | Addresses | Percentage of Addresses |
@@ -107,6 +104,11 @@ The decision was made to use the country flag
 ### Consequences
 - If a global decision is made, it simplifies implementation and ensures a consistent user experience across applications.
 - Allowing customization could offer flexibility but may increase complexity in managing variations and support.
+
+
+### Open Question
+- Should we make a global decision for all implementations (e.g., always default to a specific country like the United States)?
+- Or should we allow individual teams to customize which countries appear first based on their needs?
 
 ---
 
@@ -148,10 +150,14 @@ Exploring [another library](https://intl-tel-input.com/storybook/?path=/docs/int
 #### useFullscreenProp - 
 - No
 
-### MVP Props
+### Decision 
+We will use these props for MVP
 - Initial Value (country code + Phone number)
 
-#### Props to consider later
+### Consequences
+- Teams will be limited on how they can modify the component, but any future modifications will be made available universally through the component.
+
+### Props to consider later
 - I18n
 - Show/Hide flags
 
@@ -159,7 +165,7 @@ Exploring [another library](https://intl-tel-input.com/storybook/?path=/docs/int
 
 ## ADR: 006 - One field for both international and domestic phone number
 
-### Status  Accepted
+### Status: Accepted
 - Decision Date: 2025-04-17
 
 ### Context
