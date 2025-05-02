@@ -98,7 +98,7 @@ This is remote research over Zoom.
 ## Research materials 📔
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/conversation-guide.md)
-- [Link to prototype](https://bit.ly/42BBgou)
+- [Link to prototype](https://bit.ly/4lXVLTV) -- after 4 is the lower case letter "L"
 
 	
 ## Recruitment 🎯	
