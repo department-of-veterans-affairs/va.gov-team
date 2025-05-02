@@ -14,10 +14,10 @@ Last updated: 2025-05-02
 
 ## ADR: 001 - Country code field and phone field will not interact
 
-### Status: Accepted
+#### Status: Accepted
 - Date Raised: 2025-04-21
 - Decision Date: 2025-04-29
- 
+
 ### Context
 - During a Slack channel discussion, a design and development question was raised about how the country code selector should behave in relation to the phone number input field: Should selecting a country code automatically insert it into the phone number field?
   - If a user manually enters a country code into the phone number field, should the country code combo box update to reflect it?
@@ -30,7 +30,7 @@ Last updated: 2025-05-02
   - A [validation library](https://www.npmjs.com/package/libphonenumber-js) will be leveraged.
   - This library would validate phone numbers in the context of the selected country code, enabling custom validation messages and enforcing correct formatting.
 
-### Consequences
+#### Consequences
 - Without the validation library, phone number inputs would fall back to a generic validation pattern (e.g., allowing up to 10 or 15 characters). This could result in users submitting phone numbers with invalid formats for the selected country, reducing data quality.
 - With the validation library, user inputs can be matched against country-specific patterns, improving form accuracy and the user experience while maintaining accessibility standards.
 
