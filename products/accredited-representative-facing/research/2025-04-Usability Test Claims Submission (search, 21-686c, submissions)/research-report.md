@@ -268,7 +268,7 @@ Post first release: Provide a more robust sort, filter and/or search option.
 
 Representatives overall found that the name, type of submission, date of submission, claim status and confirmation were all must-have pieces of information, with confirmation number being the least important of these if they had the number on the prior page and by email. Also, they did not perceive “Print confirmation” as a must-have feature, especially because they would receive an email with the confirmation.
 
-While they appreciated the information shown, the term “claim submission status” shown on the card confused representatives.[[1]](#footnote-2)
+While they appreciated the information shown, the term “claim submission status” shown on the card confused representatives. (The term “claim submission status” was tested as that language is what is reflected on MyVA dashboard for Veterans, that leverages the Benefits Intake API. We do have future plans to reflect what is in the Claim Status Tool, but not on this Recent Submissions page that shows 60 days of submissions.)
 
 
 |  | Is John Snyder's packet submission status clear or unclear? | Is Grayson’s 21-686c packet status clear or unclear? | Is Paula Higashi's packet status clear or unclear? |
@@ -329,9 +329,9 @@ Post first release: Continue to ask questions about cross-accreditation impact o
 
 ### Recommendations listed prior to first release and post first release
 
-|  |  |
-| --- | --- |
+
 | Page | Recommendation for prior to first release |
+| --- | --- |
 | Find claimant page | Move the descriptor text and increase size to highlight “Find claimants who have designated you as their representative…” to increase visibility. |
 | Find claimant page | Emphasize the value of showing only those they have POA with, to differentiate this tool from QuickSubmit. |
 | Find claimant page | Change “Submit” to “Start” 21-686c as “Submit” indicates that the next screen will be the 21-686c form. |
@@ -345,9 +345,8 @@ Post first release: Continue to ask questions about cross-accreditation impact o
 
 List of changes to make post first release and long-term, to discuss and prioritize with the team.
 
-|  |  |
-| --- | --- |
 | Page | Recommendation for prior to first release |
+| --- | --- |
 | Find claimant page | Conduct internal research to see if we can only use SSN as the search field. |
 | Find claimant page | Improve messaging on homepage and on the “Find Claimant” page to clarify what functionality currently exists in ARP. |
 | Intro page | Identify ways for the “Download form” feature to exist on its own, decoupled from this submission flow. We currently have a ticket to explore this through the claimant page designs. |
@@ -367,4 +366,3 @@ List of changes to make post first release and long-term, to discuss and priorit
 
 [**Mural board notes and synthesis**](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1744125696428/1bba2379bdb4d1f1016b3eb271ac8eafe5338c95)
 
-1. The term “claim submission status” was tested as that language is what is reflected on MyVA dashboard for Veterans, that leverages the Benefits Intake API. We do have future plans to reflect what is in the Claim Status Tool, but not on this Recent Submissions page that shows 60 days of submissions. [↑](#footnote-ref-2)
