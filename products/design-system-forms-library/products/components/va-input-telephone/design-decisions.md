@@ -8,7 +8,7 @@ Last updated: 2025-05-02
 - [ADR: 005 - Props allowed for International Phone](#ADR-005---Props-allowed-for-International-Phone)
 - [ADR: 006 -  One field for both international and domestic phone number](#ADR-006---One-field-for-both-international-and-domestic-phone-number)
 - [ADR: 007 -  On screens smaller than 360px we will stack the country code and phone number](#ADR-007---On-screens-smaller-than-360px-we-will-stack-the-country-code-and-phone-number)
-- [ADR: 008 -  When the combo box is smaller than 216px, country names may be truncated](#ADR-007---When-the-combo-box-is-smaller-than-216px-country-names-may-be-truncated)
+- [ADR: 008 -  When the combo box is smaller than 216px, country names may be truncated](#ADR-008---When-the-combo-box-is-smaller-than-216px-country-names-may-be-truncated)
 
 
 
