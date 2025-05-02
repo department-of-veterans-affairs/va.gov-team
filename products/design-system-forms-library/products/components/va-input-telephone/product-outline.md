@@ -30,3 +30,8 @@ Enabling international phone numbers has broader implications across the VA.gov 
 - A unified component improves consistency, testability, and accessibility across platforms.
 - The target deadline for full adoption is August 2025, but early development and delivery of the shared component are critical to allow other teams (My VA Profile, mobile team) to integrate it in advance.
 
+### Integration Details:
+- My VA Profile: Integrate the shared component to replace the existing domestic-only phone input field.
+- VA.gov Forms: Ensure all forms using prefill or standalone fields adopt the component.
+- Mobile Apps: Provide a React Native-compatible version of the component for seamless adoption.
+
