@@ -41,7 +41,7 @@ As the Form Builder continues to improve and iterate with enhancements and addit
 
 Additionally, the Form Builder will likely exceed this role by becoming a test vehicle for user testing of new flows or more challenging forms to convert. As it will continue to “consume” the components available in the Forms Library, the functionality of Form Builder will expand to be able to tackle more and more forms. 
 
-The Form Builder, in its current state, will not publish directly to the VA.gov platform in a Veteran Facing manner, i.e. it does not circumvent the current governance model. The output of Form Builder (a digital form) is reviewable in a staging environment based on a certain set of dependencies, more on this in the [sharing for review](?tab=t.g5is9yrnddxm) section.
+The Form Builder, in its current state, will not publish directly to the VA.gov platform in a Veteran Facing manner, i.e. it does not circumvent the current governance model. The output of Form Builder (a digital form) is reviewable in a staging environment based on a certain set of dependencies, more on this in the [sharing for review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/form-engine/runbook/Collaborator-Guide.md#viewing-the-form-on-staging) section.
 
 Currently, the Form Builder does not support a real-time preview. The adjustments made to the draft of the form will be visible at an interval of the next day or the immediately following day, depending on when the edits to the form were committed to the draft.
 
