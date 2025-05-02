@@ -9,9 +9,9 @@
   
 ## Context
 - As part of the migration of My HealtheVet (MHV) to VA.gov, it was identified that the current My VA Profile does not support international phone numbers.
-- This limitation presents a significant blocker for the migration and negatively impacts several aspects of the VA.gov ecosystem:
-- Prefill-enabled online forms: Many forms rely on user profile data and currently cannot accept international phone numbers.
-- PDF-based forms: Many forms do not accept international phone formats, causing usability issues.
+- This limitation presents a significant blocker for the migration of My HealtheVet
+  - Prefill-enabled online forms: Many forms rely on user profile data and currently cannot accept international phone numbers. This will be handled in a new pattern coming out later, but for the interim the user will receive an error message that the phone number can only be 10 digits before they can continue
+  - PDF-based forms: Many forms do not accept international phone formats, will need to work with form owners to update the PDF.
 
 ## Objectives
 - Create a Shared Component: A single, reusable va-input-telephone component will support international phone numbers and be integrated across all VA.gov platforms.
