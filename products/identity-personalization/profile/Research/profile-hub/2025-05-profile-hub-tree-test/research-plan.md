@@ -114,9 +114,6 @@ Are there moments that matter?</summary>
 ## Recruitment 🎯
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
 
-### Requesting a kick-off call
-- 05/07/2025 11 - 12 PM or 3 - 4 PM EST, or 05/08/2025 9 - 11 AM or 3 - 4 PM EST.
-
 ### Recruitment approach
 *Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
 
@@ -185,6 +182,9 @@ Are there moments that matter?</summary>
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time.** 
 
 - Not applicable due to being an unmoderated study.
+
+### Requesting a kick-off call
+- 05/07/2025 11 - 12 PM or 3 - 4 PM EST, or 05/08/2025 9 - 11 AM or 3 - 4 PM EST.
 
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
