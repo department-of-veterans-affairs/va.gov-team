@@ -1,5 +1,5 @@
 
-# Research Plan for 2025-05 SiP research study 
+# Research Plan for 2025-05 Save in Progress research study 
 
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
