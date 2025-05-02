@@ -5,23 +5,22 @@
 
 Last Udpated: May 2025
 
-<h3>**Problem Definition**</h3>
+<h3>Overview</h3>
 
+
+
+<h3>Problem Statement</h3>
 
 There is currently no pattern in the Mobile App that exists for Veterans to be able to see their form or form status in the app.  
 
-<h3>**Background & History**</h3>
+
+<h3>Open Questions</h3>
 
 
-<h3>**Solution & Value**</h3>
+<h3>Closed Questions</h3>
 
-Enable Veterans to view their submitted forms and the status of those forms in the app.
 
-<h3>**Opportunity and Impact**</h3>
-
-The Veteran should not need to know they are filling out a form. They need access to a service, and historically filling out a form is the method for getting access to that service. HMW provide access to those services in a mobile forward way? 
-
-<h3>**Definition of Done**</h3>
+<h3>Desired Outcomes</h3>
 
 - A Veteran can view their submitted form in the app - Where in the app should this live?
 - A Veteran can view the status of their submitted form in the app and status are consistent across all forms
@@ -30,23 +29,17 @@ The Veteran should not need to know they are filling out a form. They need acces
 - (NOT part of the MVP: A Veteran can edit their form in the app)
 - (NOT part of the MVP: A Veteran receives a notification of the status of their form updating)
 
-<h3>**Possible Product Feature(s) and Attributes**</h3>
+<h3>Measuring Success</h3>
+
+**Key Performance Indicators (KIPs)**
+
+**Supporting OCTO OKRs**
+
+<h3>Assumptions</h3>
 
 
-<h3>**Product Risks **</h3>
+<h3>Important Notes/Decisions/Background</h3>
 
 
-<h3>**Assumptions**</h3>
-
-
-<h3>**Closed questions**</h3>
-
-
-<h3>**Open questions**</h3>
-
-
-<h3>**Success Metrics**</h3>
-
-
-<h3>**Documentation:**</h3>
+<h3>Solution Approach</h3>
 
