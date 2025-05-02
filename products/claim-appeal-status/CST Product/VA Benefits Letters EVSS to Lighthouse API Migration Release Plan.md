@@ -17,6 +17,8 @@ How will you make the product available in production while limiting the number 
 What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:  
 
 #### DataDog:
+
+> See "Helpful Links" section above for the dashboard!
      
 - Index error rate: < 2.5%
 - Download error rate: < 0.3%
@@ -44,11 +46,11 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 
 ### Anticipated timeline
 
-- [ ] **2025/05/05** - Lighthouse team plans to deploy required change to production
-- [ ] **2025/05/06** - BMT2 to increase to 25%; monitor DataDog as described above
-- [ ] **2025/05/07** - BMT2 to increase to 50%; continue to monitor DataDog
-- [ ] **2025/05/08** - BMT2 to increase to 75%; continue to monitor DataDog
-- [ ] **2025/05/12** - BMT2 to increase to 100%; continue to monitor DataDog through the remainder of the week
+- [ ] **2025/05/06** - Lighthouse team plans to deploy required change to production
+- [ ] **2025/05/07** - BMT2 to increase to 25%; monitor DataDog as described above
+- [ ] **2025/05/08** - BMT2 to increase to 50%; continue to monitor DataDog
+- [ ] **2025/05/12** - BMT2 to increase to 75%; continue to monitor DataDog
+- [ ] **2025/05/13** - BMT2 to increase to 100%; continue to monitor DataDog through the remainder of the week
 
 ### Results:
 
