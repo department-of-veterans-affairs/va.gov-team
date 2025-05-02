@@ -29,10 +29,31 @@
 - Mobile Apps: Provide a React Native-compatible version of the component for seamless integration.
 
 ## Timeline (TBD)
-- April: Conduct an audit of all prefill-enabled and PDF-based forms to identify necessary updates.
-- May/June:  Develop and test the shared component.
-- June:  Begin integration across My VA Profile, VA.gov forms, and mobile applications.
-- June: Complete full integration. Target deadline for adoption is August 2025.
+April 
+- Sprint 1 (April 14 to 27)
+	- Conduct an audit of all prefill-enabled and PDF-based forms to identify necessary updates.
+	- Component design initiated 
+
+May
+- Sprint 2 (April 28 to May 11)
+	- Document design decision log 
+	- Design: created designs in Figma,  reviewed with PO, designers and developers and finalized designs for web and mobile
+	- Development initiated: Properties and architecture documented  
+- Sprint 3 (May 12 to 25)
+	- Web component development 
+	- Mobile component development
+
+June
+- Sprint 4 (May 26 to June 8)
+	- Accessibility review
+	- Documentation: Guidance written up, reviewed, finalized
+- Sprint 5 (June 9 to 22) (if needed)
+	- Accessibility issues addressed
+	- Component library, guidance and Figma are published. 
+- Staging review scheduled 
+- Begin integration across My VA Profile, VA.gov forms, and mobile applications
+- Complete full integration.  
+- Target deadline for adoption is August 2025.
 
 
 ## Success Criteria
