@@ -73,7 +73,7 @@ Before we start, I want to go over a few things:
 - I have started recording. I'd like to confirm: 
   - **Are you comfortable if I record my screen and the audio as we talk today?** Yes / No
  
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?** Yes / No
+  - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?** Yes / No
 
 In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save (NEED TO DO THIS TO GET TRANSCRIPT)
 
@@ -306,6 +306,6 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 # Emergency Exit 🚨
 
-We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+We have covered all the questions I have for you today. Thank you so much for your time and feedback!
 
 
