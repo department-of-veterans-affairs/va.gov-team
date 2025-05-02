@@ -17,8 +17,8 @@
   1. In the Codespaces tab, click on the ellipsis (...) next to your Codespace (va-public-musical space goggles)
   1. Select "Open in browser".
   1. See "Setting up your codespace", and a browser tab w/command window
-  1. Ctrl-shift-P > view > see in terminal window at bottom
-  1. check for all green text, and "Setup complete" (if anything red, slack Alex Taker)
+  1. Ctrl-Shift-P > view > View Creation Log > see in terminal window at bottom
+  1. Check for all green text, and "Setup complete" (if anything red, slack Alex Taker)
   1. Open standalone browser window with prototype: **https://bit.ly/4lXVLTV** (https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false) and test it
 - Sign onto Zoom website as Perigean and start Zoom meeting
 - Slack Perigean notetaker the notes doc in Word
@@ -294,8 +294,8 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - **STOP the Codespace**:
   1. Open the stop/start URL in github
   1. Click on green "<> Code" button
-  1. In the Codespaces tab, see green dot and "active" next to the name of your codespace
-  1. Click on the ellipsis (...) next to your Codespace (va-public-musical space goggles)
+  1. In the Codespaces tab, see green dot and "active" next to the name of your codespace (va-public-musical space goggles)
+  1. Click on the ellipsis (...) next to your codespace 
   1. Select "Stop codespace"
 
 
