@@ -104,11 +104,11 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Collaborate with Mobile Feature Support (MFS) Team | QP7 |--|--|--|
 |ENG: Coordinate kickoff call with Pay.gov team to understand scope | QP7|--|--|--|
 |ENG: Continue efforts on Digital Dispute. | QP4 |--|--|--|
-|ENG: Define remaining work on One thing per page effort |--|--|--|--|
+|ENG: Define remaining work on One thing per page effort |QP5|--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals (05/xx/25)
- - [ ] VA PO & COR sent the Sprint Goals (05/2xx/25)
+ - [ ] VA PO & COR sent the Sprint Goals (05/xx/25)
  - [ ] VA PO approved the Sprint Goals (05/xx/25)
  - [ ] VA COR approved the Sprint Goals (05/xx/25)
  
