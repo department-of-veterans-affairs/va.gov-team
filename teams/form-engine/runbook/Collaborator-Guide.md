@@ -342,7 +342,7 @@ Further publishing the form, with all of the collaboration cycle sign-offs compl
 
 The Form Engine is specific to simple forms that do not need addition content to be successfully submited. 
 
-The confirmation screen and additional 
+The confirmation screen is generated automatically and is not configurable by the Form Engine or Form Builder UI.
 
 ### Notifications and Alerts
 
