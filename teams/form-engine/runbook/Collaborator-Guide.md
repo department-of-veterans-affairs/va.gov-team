@@ -148,15 +148,17 @@ When you are ready to begin providing the content for a new form conversion, the
 
 After selecting the Build a new form option, you will need to provide from the existing form the information contained on it. This begins with the form name and number. 
 
-![][image2]
+![Form Info start]( ./guide-images/Form%20Info%20-%20filled%20in.jpg)
 
 Additionally, you will need to add in the OMB information. 
 
-![][image3]
+![Form Info OMB Info]( ./guide-images/FormInfo-OMBInfo.jpeg)
 
 Importantly, you will also need to add the Header for the form to use on each of the pages that faces the user.  This is referred to as the Plain Language Header. This is general purpose of the form 
 
-![][image4]
+![Form Info OMB Info]( ./guide-images/FormInfo-PlainLanguageHeader.jpeg)
+
+
 
 ### The structure of a form in Form Builder
 
