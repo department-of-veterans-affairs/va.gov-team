@@ -163,25 +163,25 @@ https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaff
   - how often are visitors existing the site from the find a forms or supporting claims pages
 
 Other questions...
-
 - What forms receive the most feedback on being difficult to find?
 - What tasks related to forms are the most difficult to complete?
 
-**Usability research**
-- Gather feedback on the design approach
- - navigation/wayfinding
- - content
- - 
+**Usability research (TBD)**
+- Gather feedback on prototype related to 
+ - Navigation/wayfinding
+   - Can visitors find both online and PDF forms?
+   - Can visitors navigate from the benefit hubs to the forms space and is that navigation clear?
+   - Is linking from a benefit hub to the centralized forms space jarring and are visitors able to navigate back when needed?
+ - Content
+   - Do visitors clearly understand the ways they can apply?
+   - Do visitors understand everything they need to complete an online form?
+   - Are form instructions clear?
 
 
 ### Design & IA
 
-- Experience design and IA needed to build out centralized forms experience and solve for various use cases
-  - New landing page and search design
-  - About form page design based on new content structure
-  - Navigational flows
-  - Solutions for handling compound forms, approver flows, placement of key benefit forms
-  - Form upload feature integration
+- IA and navigational design for the centralized forms structure, including solving for challenging use cases such as compound forms, approver flows, and placement of key benefit forms
+- Experience design for the centralized forms landig page, search, about pages, and form upload
 
 ### Content 
 
@@ -196,7 +196,9 @@ Other questions...
 
 ### Engineering
 
-- Approach to moving forms into space - handling of URL changes, breadcrumb updates, redirects, referral link updates (Drupal)
-- Drupal template work
-- Work related to any changes in the search feature
-- Integration of form upload tool
+- Modifications to drupal template and front-end experience for the "About form" page 
+- Implementation of new content for the form introduction pages across product teams
+- Move online forms into centralized forms space (URL changes, breadcrumb updates, redirects, referral link updates, etc)
+- Work related to any changes in the forms search feature
+- Work related to any changes in the form upload tool
+- Integration of the forms search a nd form upload features into the centralized experience (URLs, breadrumbs, redirects, referral links, etc)
