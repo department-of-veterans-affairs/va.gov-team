@@ -167,29 +167,36 @@ Other questions...
 - What forms receive the most feedback on being difficult to find?
 - What tasks related to forms are the most difficult to complete?
 
-
-**Identify additional research needs** 
-
-- What additional research is needed to feel confident in the approach?
+**Usability research**
+- Gather feedback on the design approach
+ - navigation/wayfinding
+ - content
+ - 
 
 
 ### Design & IA
 
-- Experience design and IA needed to build out experience and solve for various use cases
+- Experience design and IA needed to build out centralized forms experience and solve for various use cases
   - New landing page and search design
-  - About form page design
+  - About form page design based on new content structure
   - Navigational flows
   - Solutions for handling compound forms, approver flows, placement of key benefit forms
   - Form upload feature integration
 
 ### Content 
 
-- Review existing content across the How to Apply, About Form, and form introduction pages
-- Map out revised templates for the About form and form introduction pages
-- Rewriting pages
-- Retiring how to apply pages
+- Create audit of existing content across the "How to apply", "About form", and form introduction pages
+- Map out content structure for a revised template for the "About form" and form introduction pages that consolidates all needed information
+- Create new content for the revised "About form" and form introduction pages
+- Populate applicable "About form" pages in Drupal
+- Work with product teams to implement revised content for form introduction pages
+- Archive and redirect "How to apply" pages
+- Additional work related to new centralized forms experience
+- Updates to design system to reflect new standards, patterns and templates
 
 ### Engineering
 
-- Approach to moving forms into space - handling of URL changes, breadcrumb updates, redirects, referral link updates
+- Approach to moving forms into space - handling of URL changes, breadcrumb updates, redirects, referral link updates (Drupal)
+- Drupal template work
+- Work related to any changes in the search feature
 - Integration of form upload tool
