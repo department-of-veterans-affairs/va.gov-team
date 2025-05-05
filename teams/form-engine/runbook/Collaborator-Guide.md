@@ -136,9 +136,10 @@ A necessary part of this conversion is to have an application setup in advance i
 
 This is an engineering dependent task and will need support from an engineer familiar with… 
 
-(insert app setup information here)
+[Engineering Runbook for app setup](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/form-engine/runbook#creating-the-vagov-application)
 
-This can be done in advance of your form creation, and will allow you to view your content in place, after a build picks up your edits. More on viewing a form and sharing for review in this section (link to sharing for review)
+This can be done in advance of your form creation, and will allow you to view your content in place, after a build picks up your edits. 
+More on viewing a form and sharing for review in this section (link to sharing for review)
 
 
 
