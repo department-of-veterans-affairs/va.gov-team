@@ -198,21 +198,21 @@ Provide a link to any materials you need to run your study, including any materi
 
 **For moderated interviews:** 
 	
-- `[Link to conversation guide](url goes here)`
+- [Link to conversation guide](url goes here)
 
 **For moderated usability tests:** 
-- `[Link to conversation guide](url goes here)`
-- `[Link to prototype](url goes here)`
+- [Link to conversation guide](url goes here)
+- [Link to prototype](url goes here)
 
 **For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- `[Link to email with instructions](url goes here)`
-- `[Link to prototype or OptimalSort session for group A](url goes here)`
-- `[Link to prototype or OptimalSort session for group B](url goes here)`
+- [Link to email with instructions](url goes here)
+- [Link to prototype or OptimalSort session for group A](url goes here)
+- [Link to prototype or OptimalSort session for group B](url goes here)
 
 
 
 **If recruiting outside of Perigean’s participant database:**
-- `[Link to recruitment flyer](url goes here)`
+- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment 🎯	
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
