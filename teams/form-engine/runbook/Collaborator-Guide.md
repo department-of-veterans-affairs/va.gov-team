@@ -92,7 +92,7 @@ A form is NOT a good fit if it requires additional information to be uploaded su
 
 ### Working with the Collaboration Cycle
 
-The Collaboration Cycle (insert link) helps to foster consistency in experience across all form digitization. 
+The [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff), administered by the Governance team, helps to foster consistency in experience across all form digitization. 
 
 Every effort has been made to control the output of this process so that the Collaboration Cycle goes smoothly when the digitized form (the output of this process) is reviewed by that team. 
 
