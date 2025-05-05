@@ -284,21 +284,27 @@ Both date and date range responses are grouped together as a kind of response. T
 **Text input**
 For questions that you expect the user to fill in, you will need to choose between a single line, set of single lines (text group) or a longer "paragraph-style" (text area) style response. If a question will require several single line responses, such as *name*, *title* and *division*... use the text group version, labeling each field as the item you want the user to provide.
 
+![Kind]( ./guide-images/ResponseKind.jpg)
+
 
 The first part of your question and response for your added step will be to provide a "Page Title". This page title is the question or item you are trying to gather from the user. 
 
 You may also add more explanation for the Page where the responses will be present to be selected or filled in, this is called the **Body**
+![Kind]( ./guide-images/ResponseKind.jpg)
+
 
 After you have completed adding the Page title and optional body, you will then configure the responses available to the user. 
-
+![Kind]( ./guide-images/pagetitle.jpg)
 
 At saving and continuing past the completed responses, you will brought to a summary screen of that step, including a link back to the newly-created question and repsonse. If you are through with adding questions to this step, you can return to the form layout page or "steps".
+![Page Added]( ./guide-images/PageSummary.png)
 
+### Organizing steps and questions
 
+Available once more than one question is added, you can arrange the order in which questions are presented within a step. You can also add addition questions, delete questions or edit them. You must have at least one question for the step to be presented as *Complete*. If you need to delete the step, reorder the step in relation to other added steps (2 or more) you must do this at the layout level.
 
-### Organizing added steps
+![Multiple Steps]( ./guide-images/MultipleStepsAdded.png)
 
-*(Screen shots and overview instructions to be added for this area)*
 
 ## Sharing for review and approval
 
