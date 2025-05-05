@@ -128,7 +128,7 @@ Let’s start with a few questions...
 ### For everyone
 
 10. What VA benefits, if any, do you have experience with? 
-    - *RECORD: health care / education / career services / disability / home loan / pension / life insurance / burial benefits / __________*
+    - *RECORD: health care / education / career services / disability / home loan / pension / life insurance / burial benefits / none / __________*
 
 1. Have you ever filled out a VA form online before? 
    - If so, can you tell me about your most recent experience? How did it go?
@@ -157,6 +157,7 @@ Now I'd like you to open a website that I'm going to share with you.
 I will *[email/text/dictate/put into the Zoom chat]* the URL: **https://bit.ly/4lXVLTV** -- after 4 is the lower case letter "L"
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 - *(Might need to hold tablet horizontally so easier to read)*
+- Alex’s backup codespace: https://bit.ly/3Z3Xc9j
 
 Did you get the link? 
 
@@ -165,7 +166,7 @@ Did you get the link?
 
 Please click the (green) "Continue" button.
 
-**You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your VA own information or benefits.
+**You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
 
 ## Task 1: Form intro page
@@ -175,7 +176,7 @@ I'd like you to take a look at this page, and then use it to get your military r
 
 Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
-[Sign in to start your request > Start your request]
+[Sign in to start your request > Start your request; *must use enter, not space*]
 
 [When they get to the form:] Please stop here so I can give you the next instruction.
 
@@ -183,7 +184,7 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 - [Anything re "You can save this request" light blue alert? Y / N]
 - [Anything re "We'll save your application on every change" Y / N]
 
-## Task 2: Fill out form
+## Task 2: Fill out form [never reload the page]
 Please fill out this form to request your own military records, but I want you to use fake details so you don't share your personal information with me. 
 
 ### Watch for:
@@ -193,10 +194,11 @@ Please fill out this form to request your own military records, but I want you t
   - Do they know what the error means?
   - Do they know how to resolve the error?
   - How do they want to find out about errors?] 
+- [Any issues w/field validation on VA file number?]
 
 [Note: If click on anything that goes outside the codespace (e.g., VA logo), you'll see spinning and get stuck. To fix, go back in your browser.]
 
-## Task 3: (After enter SSN) Short break in filling out form
+## Task 3: (After enter SSN, before Continue) Short break in filling out form
 Pretend that your doorbell just rang, and you want to jump up to answer it. What will you do with the form that you're filling out?
 
 - [leave open in browser / close browser / Finish later button / __________________]
@@ -224,7 +226,7 @@ OK, now let's say that you're back from answering the door. Please continue fill
   - Do they know how to resolve the error?
   - How do they want to find out about errors?] 
 
-## Task 5: (After specify records) Long break in filling out form
+## Task 5: (After specify records, after Continue) Long break in filling out form
 Say that you're really hungry and need to take a longer break to make lunch (or dinner). What will you do with the form that you're filling out?
 
 - [leave open in browser / close browser / Finish later button / __________________]
@@ -262,9 +264,12 @@ OK, pretend that you just finished your lunch (dinner). Now you want to get back
 1. What kinds of online forms have you filled out before, and how does the process compare to the VA form you filled out today? 
 
      1.  health care / education / other government form / online purchase /  _________________? 
-1. *(if haven't already talked about saving)* When do you expect the information you enter into an online form to be saved?
+1. When do you expect the information you enter into an online form to be saved?
 
-     1. Before / after submitting?
+     1. [Before / after submitting? Finish later button?]
+     1. If you walk away from the web page without clicking anything, what do you think will happen to the information you entered?
+     1. [Do they recognize that their information is being saved all the time? Y / N]
+
 1. If you had a magic wand and could change *anything* about how we save your information before you submit a form, what would you want?
 1. Is there anything else that we haven't talked about that you think I should know? 
 
