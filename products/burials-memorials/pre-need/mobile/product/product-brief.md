@@ -52,11 +52,17 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 * Significant work was done in this in the past (see links in old MFS product brief) but it’s old (ex. [this from 2017](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/jun-2017-mvp/vets.gov-pre-need-burial-charter-6.23.17.pdf)) and seems to be focused on web, not mobile  
 * Looks like there’s a more recent product outline from a newer team [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/README-2023.md#user-problem-statement) (last updated Jan 2025\)
 
-## Research Outcomes
+## Research Outcomes and Recommendations
 
 The research outcomes were posted in OCTO Slack on May 5th, 2025 are linked below: 
 * [Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/research/research-report.md): This provides details of the research goals, background, methodology, key findings, and recommendations. 
 * [Slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/research/pre-need-findings.pdf): This is a presentation of the research report.  
+
+The recommendations that were discovered during research for the mobile app include:
+* Provide a timeline for the process of pre-need eligibility determination
+* Add status updates to My VA and the app
+* Add decision letter to MY VA and the app
+* Provide a method for family members and other designated people of Veterans to access their pre-need eligibility decision. Possibly allow Next of Kin to be added?
 
 ## Technical Limitations
 
