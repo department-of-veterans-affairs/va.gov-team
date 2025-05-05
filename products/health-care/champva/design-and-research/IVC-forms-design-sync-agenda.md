@@ -1,16 +1,56 @@
 # Running Design and Research Agenda
 
 ## May 5 2025
-Attendees: Jamie Fiore, Premal Shah, Amanda Klausmeier, Renata Keck, Rachel Pope, Andrea Merril
+Attendees: Jamie Fiore, Premal Shah, Amanda Klausmeier, Renata Keck, Andrea Merril
 ### Agenda Topics
 * UX Roadmap
 * Discuss Amanda's role and how we can potentially lean on peer reviews for most items and pull her in on larger initiatives or escalations
 * Quick overview of the research goals and prototype strategy for the 1010d Supporting Docs Research
 * Review the claims supporting doc page mockups for C/IA
 * Get final feedback for 1010d/OHI flows
-* (If time permits) Roadmapping New PDF form flow for OHI standalone
+* (If time permits) Roadmapping New PDF form flow for OHI standalone [**not covered in meeting, shift to 5/12 agenda**]
 
  ### Notes
+ **UX roadmap**
+* Claims backlog
+    * How are we getting backlog numbers? Premal has provided backlog, we'll be doing the quick math and providing that to eng to add to the page. 
+    * **AI**: IVC team will wait for green light from Premal for adding backlog numbers to claims pages until the backlog improves a bit
+
+**Amanda's role and IVC UX processes**
+* Amanda will attend the weekly design syncs so we can surface what's in flight, ping Amanda for any escalations and/or tag Amanda for review on UX docs
+	* Amanda to review any artifacts coming out of escalations or for large-scale work, like the 10-10d/OHI merge.
+ 	* For research, make sure we've discussed prototypes, strategy and research methods. Confirm with research ops about what level of review of research plan docs is required
+* **AI**: IVC team to add peer review AC to UX tickets, only tag Amanda for review if work fits the criteria above ^
+
+**Supporting docs vs. 1010d/OHI merge research**
+* Looking at high impact for the remainder of the contract. Supporting doc vs 1010d/merge user research. Should we concentrate on testing the merge and hope that we get insights on supporting docs during the tests?
+	* Are we asking for the right docs that fulfill business requirements? We did that when we did the supporting doc inventory.
+ 		* Main research question on the 1010d/OHI merge: is it helpful or harmful to the users?
+ 		* Main research question on the supporting docs: where do users expect to upload their supporting docs
+* Trying to answer both of these questions in one study may muddy the research/feedback.
+* If time and budget wasn’t a factor how would we run both studies perfectly?
+	* We would do the supporting docs research through Optimal Workshop and then use a full user study to answer is “it helpful or harmful to the users to merge the 2 forms”
+ 	* Might be able to use V0 to create a testable prototype faster for the 1010d/OHI merged form
+  	* For 1010d/OHI merge MVP, we may be able to use some best guesses from past research to support supporting docs
+  		* V3 file upload has been blocked by a bug. No other teams are using V3. It’s not launch blocking at staging review.
+* Amanda prefers doing the 2 studies (optimal workshop / V0 prototyping for the merger)
+	* We feel like the merge research is higher priority than the supporting docs. We already have insights and desk research to lean on the supporting docs.
+ 	* UX can spin up a card sort pretty quickly
+  	* For 10-10d/OHI, UX can run data analysis while still running usability tests for the merge to help analysis go quicker
+* **AI**: UX to look into this for supporting docs
+* **AI**: UX to look into creating the research plan for merge
+
+**Claims supporting docs page (for C/IA review)**
+* Supporting docs alert will use dynamic name/pronouns so the user knows which individual's provider to request a superbill from. 
+    * Should this be a fast-follow, or part of CHAMPVA claims relaunch? Worst case this would delay the redeploy until the end of the week
+* **AI:** turn back on the form today, to 75%, and make this a fast-follow. Monitor sendback rates closely. 
+
+**10-10d/OHI merge mocks**
+* Medicare loop: 
+    * Multi-select to radio buttons on applicant screen for OHI
+    * Updated effective dates for A/B screen (if applicant has Part C) and added context to explain to the user
+* **AI:** Complete internal UX team review of mocks, then ping Amanda for review once completed. 
+
 
 ## April 28 2025
 Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Amanda Klausmeier, Renata Keck, Rachel Pope, Andrea Merril
