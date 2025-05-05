@@ -233,7 +233,7 @@ After step or steps have been added to the form, you may edit, delete, reorder o
 To begin adding a step, you will need to begin from the layout page of the form, which has the form name in the breadcrumbs at the top. You should be able to see the "Add step" button listed after the default steps provided by the Form Builder.
 
 
-![Add a step]( ./guide-images/IntroPage-incomplete.jpg)
+![Add a step]( ./guide-images/AddStep-StartButton.jpeg)
 
 
 ### Pre-defined v. Custom
