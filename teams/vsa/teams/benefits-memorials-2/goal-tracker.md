@@ -76,10 +76,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 7 [4/23/25 - 5/6/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Wizard & Digital Dispute Usability Study is submitted for approval by Platform. | QP3 QP4 |--|--|--|
+|UX: Wizard & Digital Dispute Usability Study is submitted for approval by Platform. | QP3 QP4 |--|05/05/25|Completed|
 |UX: Process of recruiting Veterans with Perigean for Wizard & Digital Dispute Usability Study begins. | QP3 QP4 |--|--|--|
-|UX: Begin discovery process to understand Pay.gov ask, business needs, and constraints. | QP6 |--|--|--|
-|ENG: Coordinate with DMC to meet to discuss zero silent failure email next steps. | QP1 |--|--|--|
+|UX: Begin discovery process to understand Pay.gov ask, business needs, and constraints. | QP6 |--|05/5/25|Completed|
+|ENG: Coordinate with DMC to meet to discuss zero silent failure email next steps. | QP1 |Blocked|--|Incomplete|
 |ENG: Coordinate with Huron to meet to discuss zero silent failure email next steps. | QP1 |--|04/22/2025|Completed|
 |ENG: Launch One VA Debt Letter into production | QP2 |--|04/28/2025|Completed|
 |ENG: Launch Wizard into production | QP3 |--|--|--|
@@ -94,6 +94,27 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
+## Sprint Goals - Sprint: 8 [5/7/25 - 5/20/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Complete the monthly Medallia report. | QP4 |--|--|--|
+|UX: Finish recruiting Veterans with Perigean for Wizard & Digital Dispute Usability Study and for internal pilot sessions. | QP3 QP4 |--|--|--|
+|UX: Determine UX limitations on pay.gov. | QP6 |--|--|--|
+|UX:  Launch Wizard & Digital Dispute Usability Study. | QP3 QP4 |--|--|--|
+|UX: Collaborate with Mobile Feature Support (MFS) Team | QP7 |--|--|--|
+|ENG: Coordinate kickoff call with Pay.gov team to understand scope | QP7|--|--|--|
+|ENG: Continue efforts on Digital Dispute. | QP4 |--|--|--|
+|ENG: Define remaining work on One thing per page effort |--|--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [ ] Ready to be sent for approvals (05/xx/25)
+ - [ ] VA PO & COR sent the Sprint Goals (05/2xx/25)
+ - [ ] VA PO approved the Sprint Goals (05/xx/25)
+ - [ ] VA COR approved the Sprint Goals (05/xx/25)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
 ---
 
 ## Quarterly Priorities for FY25Q2 (Jan, Feb, Mar 2025)  
