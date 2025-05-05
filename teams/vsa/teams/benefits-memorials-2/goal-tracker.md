@@ -79,7 +79,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Wizard & Digital Dispute Usability Study is submitted for approval by Platform. | QP3 QP4 |--|05/05/25|Completed|
 |UX: Process of recruiting Veterans with Perigean for Wizard & Digital Dispute Usability Study begins. | QP3 QP4 |--|--|--|
 |UX: Begin discovery process to understand Pay.gov ask, business needs, and constraints. | QP6 |--|05/5/25|Completed|
-|ENG: Coordinate with DMC to meet to discuss zero silent failure email next steps. | QP1 |Blocked|--|Incomplete|
+|ENG: Coordinate with DMC to meet to discuss zero silent failure email next steps. | QP1 |Blocked by DMC|--|Incomplete|
 |ENG: Coordinate with Huron to meet to discuss zero silent failure email next steps. | QP1 |--|04/22/2025|Completed|
 |ENG: Launch One VA Debt Letter into production | QP2 |--|04/28/2025|Completed|
 |ENG: Launch Wizard into production | QP3 |--|--|--|
@@ -93,6 +93,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
+- **ENG:Coordinate with DMC to meet to discuss zero silent failure email next steps.**
+     - The DMC IDT team does not have the capacity to assist the team with this effort.
+     - The Government PO is working with DMC IDT management to determine prioritization of this effort and others.
 
 ## Sprint Goals - Sprint: 8 [5/7/25 - 5/20/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
