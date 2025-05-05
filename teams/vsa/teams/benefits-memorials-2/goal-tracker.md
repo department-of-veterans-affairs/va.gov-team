@@ -92,8 +92,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
-- **ENG:Coordinate with DMC to meet to discuss zero silent failure email next steps.**
+- [X] Any Additional details about goals **not** completed will be documented here
+- **ENG: Coordinate with DMC to meet to discuss zero silent failure email next steps.**
      - The DMC IDT team does not have the capacity to assist the team with this effort.
      - The Government PO is working with DMC IDT management to determine prioritization of this effort and others.
 
