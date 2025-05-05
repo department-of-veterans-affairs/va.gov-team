@@ -309,13 +309,26 @@ If the instructions [here for establishing an app](https://github.com/department
 
 ## Editing the content of a form
 
-Editing an existing form's content can be done from within the Form Builder. There are some elements, such as custom list and loop (repeating sets of questions) that will need to be handled by an admin. This section will assist with locating an existing form, and accessing the content that is available for editing. 
+Editing an existing form's content can be done from within the Form Builder. There are some elements, such as custom list and loop (repeating sets of questions) that will need to be handled by an admin. This part of the guide will assist with locating an existing form, and accessing the content that is available for editing. 
 
 ### Accessing a previously started form
 
 Once logged into the home page (shown below), the list of most recent forms that have been started are presented. In the future, we expect to be able to show which forms are in progress (as drafts), in review, or are published ... which would serve as templates for similar forms. 
 
+![landing page]( ./guide-images/FB-Home.jpg)
+
 Click on the form name (link) to access the layout screen for that form. 
+The layout screen may look something like this example (below). This will list all of the steps of the form as links and allow you to go directly to that area by clicking on the link.
+**Note** you can not change step types... from single to repeated sets, or from radio to text input response for example. **You can edit any entered text** but the function of the step and/or page will remain the same. 
+
+**To replace a step or to change it's functionality... you must delete and add a new step.** 
+
+![Layout Page]( ./guide-images/LayoutPage-start.jpg)
+
+
+
+
+
 
 ### Reviewing the updates
 
