@@ -107,8 +107,8 @@ Are there moments that matter?</summary>
 ## Research materials 📔
 
 **For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/profile/Research/profile-hub/2025-05-profile-hub-tree-test/research-plan.md#instruction-email)
-- [Link to OptimalSort session](https://dj540s05.optimalworkshop.com/treejack/profile-hub)
+- `[Link to email with instructions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/profile/Research/profile-hub/2025-05-profile-hub-tree-test/research-plan.md#instruction-email)`
+- `[Link to OptimalSort session](https://dj540s05.optimalworkshop.com/treejack/profile-hub)`
 
 	
 ## Recruitment 🎯
@@ -183,7 +183,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 - Not applicable due to being an unmoderated study.
 
-### Requesting a kick-off call
+#### Requesting a kick-off call
 - 05/07/2025 11 - 12 PM or 3 - 4 PM EST, or 05/08/2025 9 - 11 AM or 3 - 4 PM EST.
 
   
@@ -208,7 +208,22 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 ## Appendix
 
-### Instruction Email
+Jump to:
+
+[Instruction email](#instructionemail)
+
+[Tree test structure](#treeteststructure)
+
+[Study flow](#studyflow)
+
+[Perigean completion codes](#completioncodes)
+
+[Success metrics](#successmetrics)
+
+[Laws related to this work](#laws)
+
+
+### Instruction email<a id=”instructionemail”></a>
 Subject: Veteran User Experience Research Studies - Study Details (VA.gov Profile Feedback)
 
 Hello,
@@ -220,13 +235,13 @@ This activity usually takes about 10 to 15 minutes to complete. You can start an
 To participate:
 
 1. Click the link below to complete the activity. We’ll guide you through each task as you go.
-2. Enter your participant code at the start of the activity to receive compensation. If you do not enter your  code, then we will not be able to compensate you. 
+2. Enter your participant code at the start of the activity to receive compensation. If you do not enter your code, we will not be able to compensate you. 
    - **Here's your participant code: [Add code]**
 
 **[Start the activity now](https://dj540s05.optimalworkshop.com/treejack/profile-hub)**
 
 
-### Tree Test Structure
+### Tree test structure<a id=”treeteststructure”></a>
 
 Profile
 - Personal information
@@ -240,7 +255,7 @@ Profile
 - Connected apps
 
 
-### Study Flow
+### Study flow<a id=”studyflow”></a>
 
 **Welcome**
 
@@ -297,7 +312,7 @@ Thank you for your participation in this activity to help us improve benefits fo
 You may now close this window or navigate to another web page.
 
 
-### Completion Codes
+### Completion Codes<a id=”completioncodes”></a>
 
 **Complete, Usable** 
 
@@ -323,7 +338,11 @@ You may now close this window or navigate to another web page.
 - Next steps: Perigean follow-up to prompt completing the study.
 
 
-### [Laws related to this work](<https://depo-platform-documentation.scrollhelp.site/research-design/laws-related-to-the-work-of-octo-and-the-veteran-d>)
+### Success metrics<a id=”successmetrics”></a>
+
+
+
+### [Laws related to this work](<https://depo-platform-documentation.scrollhelp.site/research-design/laws-related-to-the-work-of-octo-and-the-veteran-d>)<a id=”laws”></a>
 
 - [Elizabeth Dole Act (2024)](https://www.congress.gov/bill/118th-congress/house-bill/8371/text/rds)/ Requires VA to maintain a centralized, publicly accessible website for Veteran resources.
 - [21st Century IDEA (2018)](https://www.congress.gov/bill/115th-congress/house-bill/5759)/ Requires VA.gov to be modern, mobile-friendly, consistent, and secure while digitizing paper-based processes and improving the customer experience.
