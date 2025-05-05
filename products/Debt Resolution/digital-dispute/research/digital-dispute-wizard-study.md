@@ -474,7 +474,7 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 
 Desired start date for study: 
 
-Monday, May 12th 2025 - Monday, May 19th 2025
+Wednesday, May 14th 2025 - Wednesday, May 21st 2025
 
 ### Prepare
 
@@ -549,13 +549,6 @@ and
 
 3pm - 4pm EST
 
--   [05/12, Day, 12PM-1PM AM/PM] EST
-    
--   [05/12, Day, 2PM-3PM] EST
-    
--   [05/13, Day, 12PM-1PMT AM/PM] EST
-    
--   [05/13, Day, 2PM-3PM] EST
     
 -   [05/14, Day, 12PM-1PM AM/PM] EST
 -   
@@ -571,6 +564,15 @@ and
     
 -   [05/19, Day, 12PM-1PM AM/PM] EST
 
+-   [05/19, Day, 2PM-3PM] EST
+
+-   [05/20, Day, 12PM-1PM AM/PM] EST
+    
+-   [05/20, Day, 2PM-3PM] EST
+    
+-   [05/21, Day, 12PM-1PMT AM/PM] EST
+    
+-   [05/21, Day, 2PM-3PM] EST
   
 
 Begins: Monday 5/12
