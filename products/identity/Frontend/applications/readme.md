@@ -8,6 +8,7 @@ Documentation of Identity-owned applications
 ### [Login `/sign-in`](./login.md)
 ### [Sign-in-changes `/sign-in-change-reminder`](./sign-in-changes.md)
 ### [Terms-of-use `/terms-of-use`](./terms-of-use.md)
+### [Verify `/verify`](./verify.md)
 ### [Static-pages/CTA](./ctas.md)
 
 ## Creating a new application
