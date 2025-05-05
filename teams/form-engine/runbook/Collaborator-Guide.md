@@ -254,12 +254,23 @@ Most questions on a form are single response. Examples of single response are ch
 
 A repeated set of questions are a group or set of questions that ask a user to input the same information in a series if they have more than one example. Examples of this might include employment histories, or training sessions, etc. This would collect more than one part, but have a repeatable format. 
 
+![Style]( ./guide-images/Single-v-Repeat.jpg)
+
 Once you are sure which type of response you need to collect, select from the buttons at the bottom of this screen and you will proceed to the choice in setting up your step.
 
 
 ### Pre-defined v. Custom
 
-*(Screen shots and overview instructions to be added for this area)*
+To support consistency through all digital experiences, you will be brought to a choice of using a pre-defined question and response pattern, or the option to create your own. 
+
+If there is an existing question and response that fits what the target form is attempting to collect, we encourage you to use the pre-defined version. This will simplify both the inputs that are needed from you and make sure that you are in compliance with the most up to date guidance. 
+
+If on the otherhand, an existing pre-defined question does not match what you need the user to provide, you can use this page to launch the custom setup for a single response. 
+
+![Custom Choice]( ./guide-images/NoPredefinedVersion.jpg)
+
+
+Additionally, if you need to create a custom list and loop, or repeated set of questions... this will be handled at the admin level for the time being. Please seek advice from your form admin for this functionality.
 
 
 ### Question and Response choices 
