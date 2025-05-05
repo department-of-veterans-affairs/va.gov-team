@@ -299,21 +299,23 @@ Available once more than one question is added, you can arrange the order in whi
 
 ## Sharing for review and approval
 
-Reviewing the output of this process is critical to making sure that the content is consistent with the other interactions and communications that a Veteran or their beneficiaries may experience. When you are ready to share your progress on a form conversion, there will likely be a touchpoint within the collaboration cycle that aligns to where you are in the process. You may also want to share early with other collaborating teams such as ADE and Content and IA. 
+Reviewing the output of this process is critical to making sure that the content is consistent with the other interactions and communications that a Veteran or their beneficiaries may experience. When you are ready to share your progress on a form conversion, there will likely be a touchpoint within the collaboration cycle that aligns to where you are in the process. You may also want to share early with other collaborating teams such as ADE and Content and IA. Each of these teams may have specific tickets to start to engage their resources. Using this time to set up these appointments will usually mean that your content is available to review when the other collaborative team is ready to engage
 
 ### Viewing the form on staging
 
-If the instructions here for establishing an app to host the content of the form have been followed, you should be able to share the output from the tool after 24 hours. The normal pickup time for new content is daily. There may be occasions where this is delayed slightly, however planning ahead for at least one day to populate your newest content to a readable form is likely sufficient. 
+If the instructions [here for establishing an app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/form-engine/runbook/README.md#creating-the-vagov-application) to host the content of the form have been followed, you should be able to share the output from the tool after 24 hours. The normal pickup time for new content is daily. There may be occasions where this is delayed slightly, however planning ahead for at least one day to populate your newest content to a readable form is likely sufficient. 
 
  
 
 ## Editing the content of a form
 
-*(Section overview)*
+Editing an existing form's content can be done from within the Form Builder. There are some elements, such as custom list and loop (repeating sets of questions) that will need to be handled by an admin. This section will assist with locating an existing form, and accessing the content that is available for editing. 
 
 ### Accessing a previously started form
 
-*(Screen shots and overview instructions to be added for this area)*
+Once logged into the home page (shown below), the list of most recent forms that have been started are presented. In the future, we expect to be able to show which forms are in progress (as drafts), in review, or are published ... which would serve as templates for similar forms. 
+
+Click on the form name (link) to access the layout screen for that form. 
 
 ### Reviewing the updates
 
