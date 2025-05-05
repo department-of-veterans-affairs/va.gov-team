@@ -113,6 +113,7 @@ Just a reminder, we will be using what we call a prototype to accomplish a task 
 
 As we go through this prototype to accomplish the task I'll give you, I'd like you to think aloud. That inner narrative we all have? I'd like to hear it! Again, you are not being tested in any way - the design is being tested. And we want your honest feedback about your experience.
 
+Prototype: https://qr8mnn.csb.app/my-va.html
 
 **Moderator note: Alternate task order**
 
