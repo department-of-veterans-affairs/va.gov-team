@@ -155,9 +155,9 @@ To accelerate the creation of accessible, consistent, and Veteran-centered digit
     
 - Engineer: Ian Harrison
     
-- Engineer: Kerry Powell (May 5th)
+- Engineer: Kerry Powell 
     
-- Engineer: Amy Leadem (May 5th)
+- Engineer: Amy Leadem 
     
 - Engineer: Ryan Munsch (May 12th)
     
@@ -172,18 +172,16 @@ To accelerate the creation of accessible, consistent, and Veteran-centered digit
 
 Check in on people and product progress
 
-- Daily (Mon, Wed-Fri) Noon ET
+- Monday at 11:45am ET. Wed/Thurs at Noon ET, Tues/Fri async
     
 - 15 min
     
-- 3 Question Format: What I did yesterday? What will I do today? Any impediments?
-    
-- Tues async stand up starting at 10am ET
-    
+- Review issues in progress or review/QA to discuss what has been done and if there are any blockers 
 
-#### Demos + Retro + Sprint Planning
 
-Members of the team demo to the DST PO, work they did during the sprint. During rero, the team review saccomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action items. During planning we outline work to be done this sprint in order to accomplish the team's goals
+#### Retro + Sprint Planning/Grooming
+
+During rero, the team review saccomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action items. During planning we outline work to be done this sprint in order to accomplish the team's goals
 
 - Retro: Monday after the sprint ends
     
@@ -200,7 +198,9 @@ Members of the team demo to the DST PO, work they did during the sprint. During 
     - 2nd Momday of every sprint at noon ET
         
     - 60 mins
-        
+
+#### Demos to OCTO PO
+- Every other Friday on the last day of the sprint at 2:30pm ET
 
 #### Issue Etiquette
 
@@ -212,7 +212,7 @@ For an issue to go into the Current Sprint column, it must have the following (c
     
 - Description with Background and Acceptance Criteria (optional)
     
-- Labels: vsp-design-system-team (add appropriate corresponding labels to the ticket for example: “va-textinput”, “dst-engineering” or “dst-design”)
+- Labels: platform-design-system-team (add appropriate corresponding labels to the ticket for example: “va-textinput”, “dst-engineering” or “dst-design”)
     
 - User Story (if applicable), Goal, and Acceptance Criteria
     
