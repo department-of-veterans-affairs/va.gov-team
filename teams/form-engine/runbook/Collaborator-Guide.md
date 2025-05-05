@@ -191,8 +191,8 @@ When a new form is started, this section is created along with the other section
 After the default steps, the opportunity to add a step is listed. 
 This is how you can add functionality (and additional questions) as steps into a form. More on this in “Working with steps”
 
-The final section contains the review and successful submission page of the form. 
-This section is also complete and requires no configuration within this tool.
+**Submission and next steps** is the final section contains the review and successful submission page of the form. 
+This section is also added in a *complete* state, and requires no configuration to work for the user.
 
 ### Next steps with your new form
 
