@@ -148,7 +148,7 @@ When you are ready to begin providing the content for a new form conversion, the
 
 After selecting the Build a new form option, you will need to provide from the existing form the information contained on it. This begins with the form name and number. 
 
-![Form Info start]( ./guide-images/Form%20Info%20-%20filled%20in.jpg)
+![Form Info start]( ./guide-images/FormInfo-name-and-number.jpeg)
 
 Additionally, you will need to add in the OMB information. 
 
