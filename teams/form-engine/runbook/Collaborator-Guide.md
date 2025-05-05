@@ -92,13 +92,15 @@ A form is NOT a good fit if it requires additional information to be uploaded su
 
 ### Working with the Collaboration Cycle
 
-The [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff), administered by the Governance team, helps to foster consistency in experience across all form digitization. 
+The [Collaboration cycle,](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/overview) administered by the Governance team, helps to foster consistency in experience across all form digitization. 
 
 Every effort has been made to control the output of this process so that the Collaboration Cycle goes smoothly when the digitized form (the output of this process) is reviewed by that team. 
 
 There are areas that will need to be created and then reviewed as part of this digitization effort, and that is where it makes sense to get Content and IA involved at the start so that a form uses the right amount of and style of content to label sections, interactions, and elements that ask for information from the user. 
 
-(More information / chart to add here to diagram collab cycle flow)
+For more information about touchpoints and this process you can [follow this link](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/overview)
+
+
 
 ### Overview of the Form Builder User Interface
 
