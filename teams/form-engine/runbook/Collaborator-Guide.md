@@ -296,7 +296,7 @@ You may also add more explanation for the Page where the responses will be prese
 After you have completed adding the Page title and optional body, you will then configure the responses available to the user. 
 ![Kind]( ./guide-images/ConfigureResponse.jpg)
 
-**Note** Configuration for Radio items shown above. 
+**Note** Configuration for Checkbox list items shown above. 
 
 At saving and continuing past the completed responses, you will brought to a summary screen of that step, including a link back to the newly-created question and repsonse. If you are through with adding questions to this step, you can return to the form layout page or "steps".
 ![Page Added]( ./guide-images/PageSummary.png)
