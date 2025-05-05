@@ -330,31 +330,25 @@ The layout screen may look something like this example (below). This will list a
 ![Layout Page]( ./guide-images/ManySteps.jpg)
 
 
-
-
-
-
 ### Reviewing the updates
 
-*(Screen shots and overview instructions to be added for this area)*
+After the content has been updated, you can review the changes within Form Builder. To view the updated content in the context of the form, the content will need to be picked up in a build, which happens daily. It is possible that it may take longer for a day to populate the previously set up app that shows the content. If you are scheduling, a review please allow time for the app to populate with your content. 
 
 ## Handing off the form 
 
-*(Section overview)*
+Further publishing the form, with all of the collaboration cycle sign-offs complete, will need to be handled by an engineering effort. 
 
 ### Items to consider
 
-*(Screen shots and overview instructions to be added for this area)*
+The Form Engine is specific to simple forms that do not need addition content to be successfully submited. 
+
+The confirmation screen and additional 
 
 ### Notifications and Alerts
 
-*(Screen shots and overview instructions to be added for this area)*
+TBD Added by the engineering team. Referencing what alerts need to be sent and how they will be delivered.
 
 ### PDF mapping
 
-*(Screen shots and overview instructions to be added for this area)*
-
-### Next steps
-
-*(Screen shots and overview instructions to be added for this area)*  
+PDF mapping is a manual process at this time, handled by an engineering effort. The Form Builder is not equipped to handle PDF mapping at this time.
 
