@@ -179,9 +179,7 @@ This is also the screen you will go to when selecting an existing form to edit.
 
 ![Layout Page]( ./guide-images/LayoutPage-start.jpg)
 
-Breadcrumbs at the top should show your location within this form. 
-
-Note that the name of the form is how you will get back to this location. 
+Breadcrumbs at the top should show your location within this form. **Note** that the name of the form is how you will get back to this location. 
 
 Also note that the parts of this form are separated into three general areas.
 
