@@ -268,14 +268,33 @@ If there is an existing question and response that fits what the target form is 
 If on the otherhand, an existing pre-defined question does not match what you need the user to provide, you can use this page to launch the custom setup for a single response. 
 
 ![Custom Choice]( ./guide-images/NoPredefinedVersion.jpg)
-
-
 Additionally, if you need to create a custom list and loop, or repeated set of questions... this will be handled at the admin level for the time being. Please seek advice from your form admin for this functionality.
 
 
 ### Question and Response choices 
 
-*(Screen shots and overview instructions to be added for this area)*
+The Form Builder UI separates the single response questions into three main types. 
+
+**Choice**
+This type of question and response will allow the user to select from a list of provided choices. In this type of response, the user can select one (Radio Button style) or several (Checklist style). For both of these styles, you will need to provide the labels for the choices. If you decide to provide more detail, or information, as a description for the choice, the list will be presented in a tile style presentation.
+
+**Date**
+Both date and date range responses are grouped together as a kind of response. The opportunity to make this a range is a later choice, once you decide to work with date as a response pattern. If you work with a single date (instead of a range) you can further select to make the response less specific by choosing only to ask the user for the month and year of the occurance. 
+
+**Text input**
+For questions that you expect the user to fill in, you will need to choose between a single line, set of single lines (text group) or a longer "paragraph-style" (text area) style response. If a question will require several single line responses, such as *name*, *title* and *division*... use the text group version, labeling each field as the item you want the user to provide.
+
+
+The first part of your question and response for your added step will be to provide a "Page Title". This page title is the question or item you are trying to gather from the user. 
+
+You may also add more explanation for the Page where the responses will be present to be selected or filled in, this is called the **Body**
+
+After you have completed adding the Page title and optional body, you will then configure the responses available to the user. 
+
+
+At saving and continuing past the completed responses, you will brought to a summary screen of that step, including a link back to the newly-created question and repsonse. If you are through with adding questions to this step, you can return to the form layout page or "steps".
+
+
 
 ### Organizing added steps
 
