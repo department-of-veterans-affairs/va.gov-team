@@ -148,7 +148,7 @@ What are you trying to learn from this research?
 
 -   How easily can Veterans navigate and find information that pertains to their debt or copay situation?
     
--   How helpful is the information shared which describes options for their situation?
+-   To what extent does the provided information regarding options for their situation prove helpful?
     
 
 -   Do they understand the paths available to them and the actions they need to take based on the information provided in the wizard?
