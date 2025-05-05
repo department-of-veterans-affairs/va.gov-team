@@ -204,7 +204,7 @@ One of the first steps you can complete on this form is to fill in the content t
 
 Access the Introduction page by clicking on the page title. You will then be able to add the content a user will want to know in advance of interacting with the form. This might be specific to the information that will be collected, or things to keep in mind while using the form. 
 
-Note that the Content team will want to review or assist with area, so collaborating with them is very helpful. 
+Note that the Content team will want to review or assist with the content in this area, so collaborating with them is very helpful. 
 
 ![Incomplete Intro page]( ./guide-images/IntroPage-incomplete.jpg)
 
