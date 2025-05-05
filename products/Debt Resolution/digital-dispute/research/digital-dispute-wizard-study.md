@@ -652,6 +652,6 @@ Please list the names of people in each role. In the Slack study channel, send a
 
 ## Approvals ✅
 
--   Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]
+-   Reviewed by [OCTO Product Owner: Denise, Team Lead] on [05/05/2025]
     
 -   Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]
