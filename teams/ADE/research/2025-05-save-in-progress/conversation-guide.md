@@ -1,4 +1,4 @@
-# Conversation Guide for 2025-05 SiP research study 
+# Conversation Guide for 2025-05 Save in Progress research study 
 
 # Moderator logistics 📋✅
 **Before all sessions**:
@@ -10,16 +10,23 @@
 - Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON
 
 **10-15 min before each session**: 
-- Slack Perigean notetaker the link to notes doc in github
+- **START the Codespace**:
+
+  1. Open the stop/start URL in github
+  1. Click on green "<> Code" button
+  1. In the Codespaces tab, click on the ellipsis (...) next to your Codespace (va-public-musical space goggles)
+  1. Select "Open in browser".
+  1. See "Setting up your codespace", and a browser tab w/command window
+  1. Ctrl-Shift-P > view > View Creation Log > see in terminal window at bottom
+  1. Check for all green text, and "Setup complete" (if anything red, slack Alex Taker)
+  1. Open standalone browser window with prototype: **https://bit.ly/4lXVLTV** (https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false) and test it
+- Sign onto Zoom website as Perigean and start Zoom meeting
+- Slack Perigean notetaker the notes doc in Word
 - Post p# and "observer instructions" in #feedback-backchannel
   - @mention observers
   - Share brief summary of participant demographic info
   - Mural link for notetaking
-
-**5-10 min before each session**: 
-- Sign onto Zoom website as Perigean and start Zoom meeting
 - Wear HEADPHONES to prevent the user's screen reader from echoing back to them
-- Open standalone browser window with prototype: **https://bit.ly/42BBgou** (https://symmetrical-barnacle-gjxjrxqxvrc9wg4-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction)
 - Paste prototype link into Zoom chat (but don't hit enter)
 - Do Not Disturb ON so no notifications
 - Make sure everyone is muted except me and the participant
@@ -66,7 +73,7 @@ Before we start, I want to go over a few things:
 - I have started recording. I'd like to confirm: 
   - **Are you comfortable if I record my screen and the audio as we talk today?** Yes / No
  
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?** Yes / No
+  - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?** Yes / No
 
 In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save (NEED TO DO THIS TO GET TRANSCRIPT)
 
@@ -98,7 +105,7 @@ Let’s start with a few questions...
 
 1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
 
-   - *(If text or email)* Could the notetaker please text/email the link now? (https://bit.ly/42BBgou)
+   - *(If text or email)* Could the notetaker please text/email the link now? (https://bit.ly/4lXVLTV)
 
 ### For only assistive tech users
 
@@ -147,7 +154,7 @@ We can help guide you through this if you need help. Please say what you're doin
 ## Task 00: Open prototype
 Now I'd like you to open a website that I'm going to share with you. 
 
-I will *[email/text/dictate/put into the Zoom chat]* the URL: **https://bit.ly/42BBgou**
+I will *[email/text/dictate/put into the Zoom chat]* the URL: **https://bit.ly/4lXVLTV** -- after 4 is the lower case letter "L"
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 - *(Might need to hold tablet horizontally so easier to read)*
 
@@ -252,13 +259,13 @@ OK, pretend that you just finished your lunch (dinner). Now you want to get back
 1. Overall, about everything on the website in this session...What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
-1. What kinds of online forms have you filled out before? 
+1. What kinds of online forms have you filled out before, and how does the process compare to the VA form you filled out today? 
 
-     1.  online purchase / patient form / _________________? 
+     1.  health care / education / other government form / online purchase /  _________________? 
 1. *(if haven't already talked about saving)* When do you expect the information you enter into an online form to be saved?
 
      1. Before / after submitting?
-1. If you had a magic wand and could change *anything* about how we save your data before you submit a form, what would you want?
+1. If you had a magic wand and could change *anything* about how we save your information before you submit a form, what would you want?
 1. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 3 minutes
@@ -284,6 +291,13 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Rename and save transcript file from Finder
 - Download notes
 - Debrief to my spreadsheet
+- **STOP the Codespace**:
+  1. Open the stop/start URL in github
+  1. Click on green "<> Code" button
+  1. In the Codespaces tab, see green dot and "active" next to the name of your codespace (va-public-musical space goggles)
+  1. Click on the ellipsis (...) next to your codespace 
+  1. Select "Stop codespace"
+
 
 ## Approvals
 - Martha Wilkes, OCTO Accessibility Strategist/Designer, on 4-28-2025
@@ -292,6 +306,6 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 # Emergency Exit 🚨
 
-We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+We have covered all the questions I have for you today. Thank you so much for your time and feedback!
 
 

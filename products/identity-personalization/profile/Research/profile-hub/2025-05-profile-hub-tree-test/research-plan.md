@@ -126,7 +126,7 @@ Are there moments that matter?</summary>
 - `Dependents:` **[0]**
 - `Total:` **[75]**
 
-### Primary criteria (must-haves)
+#### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
 - `ALL / Participants have a VA.gov or MyHealtheVet account`
@@ -134,7 +134,7 @@ Are there moments that matter?</summary>
 - `25 / Frequent VA.gov users (Monthly)`
 - `25 / Non frequent VA.gov users (Every few months or Never, but am open to using VA.gov)`
 
-#### Screener questions
+##### Screener questions
 1. Do you have a VA.gov or My HealtheVet account?
 
    - Yes
@@ -173,7 +173,7 @@ Are there moments that matter?</summary>
 - `Date and time of pilot session:` **05/02 - 05/05** 
 
 ### Research sessions
-- `Planned dates of research:` **05/08 – 05/21/2025**
+- `Planned dates of research:` **05/09 – 05/23/2025**
 
 ### Length of sessions
 - Not applicable due to being an unmoderated study.
@@ -182,6 +182,9 @@ Are there moments that matter?</summary>
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time.** 
 
 - Not applicable due to being an unmoderated study.
+
+### Requesting a kick-off call
+- 05/07/2025 11 - 12 PM or 3 - 4 PM EST, or 05/08/2025 9 - 11 AM or 3 - 4 PM EST.
 
   
 ## Team Roles  🕵️👩‍💻👩‍🔬

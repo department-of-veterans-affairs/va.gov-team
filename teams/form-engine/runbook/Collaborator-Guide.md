@@ -92,13 +92,15 @@ A form is NOT a good fit if it requires additional information to be uploaded su
 
 ### Working with the Collaboration Cycle
 
-The Collaboration Cycle (insert link) helps to foster consistency in experience across all form digitization. 
+The [Collaboration cycle,](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/overview) administered by the Governance team, helps to foster consistency in experience across all form digitization. 
 
 Every effort has been made to control the output of this process so that the Collaboration Cycle goes smoothly when the digitized form (the output of this process) is reviewed by that team. 
 
 There are areas that will need to be created and then reviewed as part of this digitization effort, and that is where it makes sense to get Content and IA involved at the start so that a form uses the right amount of and style of content to label sections, interactions, and elements that ask for information from the user. 
 
-(More information / chart to add here to diagram collab cycle flow)
+For more information about touchpoints and this process you can [follow this link](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/overview)
+
+
 
 ### Overview of the Form Builder User Interface
 
@@ -134,9 +136,11 @@ A necessary part of this conversion is to have an application setup in advance i
 
 This is an engineering dependent task and will need support from an engineer familiar with… 
 
-(insert app setup information here)
+[Engineering Runbook for app setup](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/form-engine/runbook#creating-the-vagov-application)
 
-This can be done in advance of your form creation, and will allow you to view your content in place, after a build picks up your edits. More on viewing a form and sharing for review in this section (link to sharing for review)
+This can be done in advance of your form creation, and will allow you to view your content in place, after a build picks up your edits. 
+More on viewing a form and sharing for review in this [section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/form-engine/runbook/Collaborator-Guide.md#sharing-for-review-and-approval)
+
 
 
 
@@ -146,38 +150,49 @@ When you are ready to begin providing the content for a new form conversion, the
 
 ### First inputs for a new form
 
-After selecting the Build a new form option, you will need to provide from the existing form the information contained on it. This begins with the form name and number. 
+After selecting the Build a new form option, you will need to provide from the existing form the information contained on it. 
+This begins with the form name and number. 
 
-![][image2]
+
+![Form Info start]( ./guide-images/FormInfo-name-and-number.jpeg)
+
+
 
 Additionally, you will need to add in the OMB information. 
 
-![][image3]
 
-Importantly, you will also need to add the Header for the form to use on each of the pages that faces the user.  This is referred to as the Plain Language Header. This is general purpose of the form 
 
-![][image4]
+![Form Info OMB Info]( ./guide-images/FormInfo-OMBInfo.jpeg)
+
+Importantly, you will also need to add the Header for the form to use on each of the pages that faces the user.  
+This is referred to as the Plain Language Header. 
+It is easy to think of this as the general purpose of the form for the user.
+
+![Form Info OMB Info]( ./guide-images/FormInfo-PlainLanguageHeader.jpeg)
+
+
 
 ### The structure of a form in Form Builder
 
 The next screen will show all of the default steps in the new form.   
 This is also the screen you will go to when selecting an existing form to edit.  
 
-![][image5]
+![Layout Page]( ./guide-images/LayoutPage-start.jpg)
 
-Breadcrumbs at the top should show your location within this form. 
+Breadcrumbs at the top should show your location within this form. **Note** that the name of the form is how you will get back to this location. 
 
-Note that the parts of this form are separated into three general areas.
+Also note that the parts of this form are separated into three general areas.
 
-Form overview has the first page you worked on with information about the form and will also contain the Introduction page.
+**Form overview** has the first page you worked on with information about the form and will also contain the Introduction page.
+When a new form is started, this section is created along with the other sections. 
 
-Form steps are the sections that the user will go through in completing the form. The default steps are added for personal information, Address information, and Contact information.  These are not editable and included automationally.
+**Form steps** are the sections that the user will go through in completing the form. The default steps are added for personal information, Address information, and Contact information.  These are not editable and included automationally.
 
-After the default steps, the opportunity to add a step is listed. This is how you can add functionality (and additional questions) as steps into a form. More on this in “Working with steps”
+After the default steps, the opportunity to add a step is listed. 
+This is how you can add functionality (and additional questions) as steps into a form. More on this in “Working with steps”
 
-The final section is the submission of the form steps that a user would interact with. 
-
-You can see that this is also complete and requires no configuration within this tool.
+**Submission and next steps** is the final section contains the review and successful submission page of the form. 
+This section is also added in a *complete* state, and requires no configuration to work for the user.
 
 ### Next steps with your new form
 
@@ -187,9 +202,9 @@ One of the first steps you can complete on this form is to fill in the content t
 
 Access the Introduction page by clicking on the page title. You will then be able to add the content a user will want to know in advance of interacting with the form. This might be specific to the information that will be collected, or things to keep in mind while using the form. 
 
-Note that the Content team will want to review or assist with area, so collaborating with them is very helpful. 
+Note that the Content team will want to review or assist with the content in this area, so collaborating with them is very helpful. 
 
-![][image6]
+![Incomplete Intro page]( ./guide-images/IntroPage-incomplete.jpg)
 
 You do not have to complete this section first.
 

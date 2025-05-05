@@ -1,5 +1,17 @@
 # Running Design and Research Agenda
 
+## May 5 2025
+Attendees: Jamie Fiore, Premal Shah, Amanda Klausmeier, Renata Keck, Rachel Pope, Andrea Merril
+### Agenda Topics
+* UX Roadmap
+* Discuss Amanda's role and how we can potentially lean on peer reviews for most items and pull her in on larger initiatives or escalations
+* Quick overview of the research goals and prototype strategy for the 1010d Supporting Docs Research
+* Review the claims supporting doc page mockups for C/IA
+* Get final feedback for 1010d/OHI flows
+* (If time permits) Roadmapping New PDF form flow for OHI standalone
+
+ ### Notes
+
 ## April 28 2025
 Attendees: Jamie Fiore, Premal Shah, Jina Ryu, Amanda Klausmeier, Renata Keck, Rachel Pope, Andrea Merril
 

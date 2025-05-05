@@ -97,18 +97,11 @@ Qualitative feedback:
 
 "I realize this is a new way to file a claim and maybe once one gets used to [typo] become easier, But, is not user friendly."
 
-#### Google Analytics 
-
-| Metric Name | Description |
-| ----------- | ----------- |
-| Unique page views | x |
-| Views per user | x |
-| # of interactions | x |
-
 #### DataDog
 | Metric Name | Description |
 | ----------- | ----------- |
-| VA.gov - Endpoint errors | x |
-| Travel Pay API - Endpoint error count | x |
-| Average latency | x sec |
-| Unique users accessing the API | x |
+| VA.gov - Endpoint errors | 5 |
+| Travel Pay API - Endpoint error count | 354 |
+| Average latency | 9.97 sec |
+| Unique users | 6,490 |
+| Submissions | 9,171 |

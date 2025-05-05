@@ -7,7 +7,7 @@ Date: 05/05/2025
 Emily DeWan, Natasha Huckleberry
 
 
-*Once you've presented your research readout to your team, if you have a deck, insert a link to it here *
+[Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/mobile/research/pre-need-findings.pdf)
 
 
 

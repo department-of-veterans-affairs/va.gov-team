@@ -115,8 +115,7 @@ This optional section features the [Multiple Responses](https://design.va.gov/pa
 
 [Will add examples once designs are complete]
 
-
-#### *[Alt text: A form asking for the marital status of the user.]*
+*[Alt text: A form asking for the marital status of the user.]*
 
 
 ### **Code usage**
@@ -126,14 +125,12 @@ This optional section features the [Multiple Responses](https://design.va.gov/pa
 
 ### **Content considerations**
 
-
 #### **Respondent role**
 
 Veterans, their spouse, or a dependent can complete forms. Depending on who is completing the form, some slight alterations to the text content may need to shift. Update content as needed. For example…
 
 
 ### **Accessibility considerations**
-
 
 #### Radio button accessibility considerations
 
@@ -142,4 +139,4 @@ Veterans, their spouse, or a dependent can complete forms. Depending on who is c
 
 ### **Research findings**
 
-Learn more about how current forms ask marital status questions in this [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742843561511/4f5e5e77a91df7e061628888f10dfb7b10309183). [Add research report]
+A [secondary research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Discovery%20Research%20Report.md) from April 2025 explores which VA forms ask questions related to an applicant's marital status and how they phrase these quesitons. It also provides recommendations that influenced the creation of this pattern. 

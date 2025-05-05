@@ -1,5 +1,5 @@
 
-# Research Plan for 2025-05 SiP research study 
+# Research Plan for 2025-05 Save in Progress research study 
 
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
@@ -98,7 +98,7 @@ This is remote research over Zoom.
 ## Research materials 📔
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/conversation-guide.md)
-- [Link to prototype](https://bit.ly/42BBgou)
+- [Link to prototype](https://bit.ly/4lXVLTV)
 
 	
 ## Recruitment 🎯	
@@ -195,11 +195,9 @@ Cindy is available for a kickoff call during any of these times:
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study to review beforehand.
 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
-
-- `Pilot participant name:` **TBD**
-- `Date and time of pilot session:` **TBD** during May 5-8
+- `Dates and times of pilot sessions:` 
+  - **Mon May 5 from 3:30-5 pm ET** with Sarah Koomson
+  - **Tue May 6 from 4-5:30 pm ET** Maria Mutia
 
 ### Research sessions
 - `Planned dates of research:` **May 12-21**
