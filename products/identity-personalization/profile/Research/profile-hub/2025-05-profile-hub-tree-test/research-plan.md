@@ -218,7 +218,7 @@ Jump to:
 
 [Perigean completion codes](#completioncodes)
 
-[Success metrics](#successmetrics)
+[Analysis](#analysis)
 
 [Laws related to this work](#laws)
 
@@ -312,7 +312,7 @@ Thank you for your participation in this activity to help us improve benefits fo
 You may now close this window or navigate to another web page.
 
 
-### Completion Codes<a id=”completioncodes”></a>
+### Perigean completion codes<a id=”completioncodes”></a>
 
 **Complete, Usable** 
 
@@ -338,8 +338,19 @@ You may now close this window or navigate to another web page.
 - Next steps: Perigean follow-up to prompt completing the study.
 
 
-### Success metrics<a id=”successmetrics”></a>
+### Analysis<a id=”analysis”></a>
 
+#### Task success metrics
+To determine success we’ll be evaluating the following metrics:
+1. Success rate: The percentage of participants who completed a task. Goal is 80%+ success rate to confirm success, which is considered Very Good per Neilson Norman Group and Optimal Workshop. If the success rate is low we will evaluate Path.
+2. Path: Routes the participants took to understand their navigation choices. If participants looked for a feature in another section, the team will re evaluate feature location.
+
+[Optimal workshop analysis direction](https://support.optimalworkshop.com/en/collections/1524581-tree-testing?_gl=1*sd3k48*_gcl_au*ODU4MDMzMDEwLjE3NDU1ODY5MzY.)
+
+[Neilson Normal Group recommendations on analysis](https://www.nngroup.com/articles/interpreting-tree-test-results/) 
+
+#### Open-ended questions
+Open-ended questions will be analyzed by the moderator. Answers will be evaluated for themes and presented as options to the team for future feature sets.
 
 
 ### [Laws related to this work](<https://depo-platform-documentation.scrollhelp.site/research-design/laws-related-to-the-work-of-octo-and-the-veteran-d>)<a id=”laws”></a>
