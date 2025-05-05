@@ -236,15 +236,33 @@ To begin adding a step, you will need to begin from the layout page of the form,
 ![Add a step]( ./guide-images/AddStep-StartButton.jpeg)
 
 
+Once clicked, you will be given the opportunity to name this step. 
+
+We label the step to help the user understand what the subject matter of the questions contained within this step will be about. This is typically a two to five word label that is suitably high-level enough to hold the question or questions underneath. 
+
+![Add a step]( ./guide-images/AddStep-label.jpg)
+
+Insert the step label and click **Save and Continue**. This will bring you to the first configuration choice of the question and response you would like to ask of the user. 
+
+
+
+### Single v. Repeated sets of questions
+
+The first decision you will need to weigh is the choice between creating a single response (one input from the user) or a repeated set of questions (the user can provide several sets of information about a topic). 
+
+Most questions on a form are single response. Examples of single response are choices from lists, singluar things like addresses, or phone numbers, names, etc. 
+
+A repeated set of questions are a group or set of questions that ask a user to input the same information in a series if they have more than one example. Examples of this might include employment histories, or training sessions, etc. This would collect more than one part, but have a repeatable format. 
+
+Once you are sure which type of response you need to collect, select from the buttons at the bottom of this screen and you will proceed to the choice in setting up your step.
+
+
 ### Pre-defined v. Custom
 
 *(Screen shots and overview instructions to be added for this area)*
 
+
 ### Question and Response choices 
-
-*(Screen shots and overview instructions to be added for this area)*
-
-### Single v. Repeated sets of questions
 
 *(Screen shots and overview instructions to be added for this area)*
 
