@@ -14,28 +14,28 @@ Type of Research: User Interview and Usability test
 
 Jump to:
 
-* [Background](#_kvvd0m5385jp)
+* [Background](#background)
 * [Research Goals](#research-goals)
 * [Executive Summary](#executive-summary)
 * [Participant Sample](#participant-sample)
 * [Key Findings and Recommendations](#key-findings-and-recommendations)
-  + [Claim submission flow](#The-21-686-submission-flow-is-not-intuitive,-but-is-accepted)
-    - [Landing page – Find Claimant](#_Landing_page_after)
-    - [Submit form intro page](#_Submit_21-686c_Intro)
-    - [Step 1/3 Claimant and representative information](#_Step_1/3_Claimant)
-    - [Step 2/3 Upload files](#_Step_2/3_Upload)
-    - [Step 2/3 Upload files – Form mismatch](#_Step_2/3_Upload_1)
-    - [Step 3/3 Review and Submit](#_Step_3/3_Review)
-    - [Success](#_Success)
-    - [Perceived overall value of claim submission solution](#_For_ARP’s_claims)
-  + [Submissions page](#_3._The_Submissions)
-    - [Individual versus organizational view](#_Individual_versus_organization)
-    - [60-day limit](#_60-day_limit)
-    - [Sort options](#_Sort_options)
-    - [Card view](#_Card_view)
-    - [Perceived speed in using submission page](#_For_users_of)
-  + [Cross-accreditation](#_Cross-accreditation_did_not)
-* [Appendix](#_5ux8m5wemo7a)
+  + [Claim submission flow](##the-21-686-submission-flow-is-not-intuitive,-but-is-accepted)
+    - [Landing page – Find Claimant](#landing-page-after-log-in:-find-claimant)
+    - [Submit form intro page](#submit-21-686c-intro-page)
+    - [Step 1/3 Claimant and representative information](#step-1/3-claimant-and-representative-information)
+    - [Step 2/3 Upload files](#step-2/3-upload-files)
+    - [Step 2/3 Upload files – Form mismatch](#step-2/3-upload-files-form-mismatch-message)
+    - [Step 3/3 Review and Submit](#step-3/3-review-and-submit)
+    - [Success](#success)
+    - [Perceived overall value of claim submission solution](#for-ARP’s-claims-submission-solution-to-have-greater-value,-continue-to-track-and-align-with-long-term-goals)
+  + [Submissions page](#the-submissions-page-can-fulfill-its-goal-as-a-quick-reference-after-applying-content-improvements.)
+    - [Individual versus organizational view](#individual-versus-organization-level-views)
+    - [60-day limit](###60-day-limit)
+    - [Sort options](###sort-options)
+    - [Card view](###card-view)
+    - [Perceived speed in using submission page](###for-users-of-QuickSubmit-and-SEP,-improving-the-search-on-this-page-and-content-of-each-card-can-increase-how-fast-representatives-accomplish-tasks-on-this-page.)
+  + [Cross-accreditation](##cross-accreditation-did-not-change-the-claim-submission-process)
+* [Appendix](#appendix)
 
 # Background
 
@@ -228,7 +228,7 @@ Long-term
 1. Continue to aim for a solution where pdf information is pre-filled; the current solution does not make it easy enough for representatives to efficiently complete tasks. Several participants valued pre-filled pdfs and from prior research we know that some VSO orgs who do not use third-party tools copy and paste claimant information into pdfs.
 2. Utilize the RBPS API for auto-establishing the 21-686c.
 
-## 2. The Submissions page can fulfill its goal as a quick reference after applying content improvements.
+## The Submissions page can fulfill its goal as a quick reference after applying content improvements.
 
 The Submissions page provides a way for a representative to quickly view their submitted claims and see if claims are in VBMS. The purpose of this page is to provide a quick reference, not as a way to track the claims journey from ARP to decision letter.
 
@@ -317,7 +317,7 @@ Prior to first release: Show the date received by VBMS. This is currently not sh
 
 Post first release: Include more information about the timeline of the claim (e.g. similar to claim status tool). This change would increase the value of this tool over a tool like QuickSubmit that cannot share this information. Third-party tools like VetraSpec plan to share this information as well.
 
-## 3. Cross-accreditation did not change the claim submission process
+## Cross-accreditation did not change the claim submission process
 
 We spoke with only two representatives who were cross-accredited, and they noted that their cross accreditations did not impact how they submitted claims. One of them stated that they were cross-accredited so they could more likely access the Veteran’s information in VBMS and view the Veteran’s history early on when they were having their first meeting with the Veteran.
 
