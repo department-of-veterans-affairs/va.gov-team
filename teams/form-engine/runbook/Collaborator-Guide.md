@@ -185,15 +185,16 @@ Note that the name of the form is how you will get back to this location.
 
 Also note that the parts of this form are separated into three general areas.
 
-Form overview has the first page you worked on with information about the form and will also contain the Introduction page.
+**Form overview** has the first page you worked on with information about the form and will also contain the Introduction page.
+When a new form is started, this section is created along with the other sections. 
 
-Form steps are the sections that the user will go through in completing the form. The default steps are added for personal information, Address information, and Contact information.  These are not editable and included automationally.
+**Form steps** are the sections that the user will go through in completing the form. The default steps are added for personal information, Address information, and Contact information.  These are not editable and included automationally.
 
-After the default steps, the opportunity to add a step is listed. This is how you can add functionality (and additional questions) as steps into a form. More on this in “Working with steps”
+After the default steps, the opportunity to add a step is listed. 
+This is how you can add functionality (and additional questions) as steps into a form. More on this in “Working with steps”
 
-The final section is the submission of the form steps that a user would interact with. 
-
-You can see that this is also complete and requires no configuration within this tool.
+The final section contains the review and successful submission page of the form. 
+This section is also complete and requires no configuration within this tool.
 
 ### Next steps with your new form
 
