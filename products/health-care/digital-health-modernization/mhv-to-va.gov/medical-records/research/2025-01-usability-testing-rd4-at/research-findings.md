@@ -207,6 +207,12 @@ Of the 3 users who were asked whether they would like to know the total number o
 
 When all 6 screen reader users were asked if it would be helpful to hear “record _ of \_” while navigating through each blood pressure result, 2 participants felt negatively, 3 participants felt neutral, and 1 participant said it would be helpful.”
 
+**Additional Finding 3: Participants would like more clarity on abbreviations and medical terms.** 
+
+When faced with unknown medical terms, participants said they would turn to outside sources to look up definitions. 4 of 9 participants said they would use Google to look up unknown terms, and 1 of 9 participants said they use Perplexity AI for medical questions. 
+
+4 of 9 participants also stated they would message their provider about unknown terminology or confusing results in their records.  
+
 ## Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
