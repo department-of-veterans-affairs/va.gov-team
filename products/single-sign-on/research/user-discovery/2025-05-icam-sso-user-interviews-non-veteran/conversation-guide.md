@@ -1,32 +1,5 @@
 # ICAM(SSO) User Interviews - Customers and End-users
 
-# Moderator logistics 📋✅
-### 2-3 days before the session
-
-> [!NOTE]
-> Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
-
-`List and complete any project-specific setup tasks for this study below:`
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
-### Day of the session
-
-> [!TIP]
-> - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
-> - Mute your Slack notifications.
-> - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-
-### Starting the session
-
-> [!TIP]
-> - In the Attendees section, make sure everyone except the participant is on mute.
-> - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-> - Check your [screensharing setup] and share permissions for participants.
-> - When the participant is ready, begin the session with the following intro*
-
 # Purpose
 The VA is modernizing how users such as employees and contractors access various services they need to do their jobs. This includes gaining access for applications, requesting access for team members, and provisioning for other users. This interview is to help us understand where your role fits into this spectrum of users.
 
@@ -43,21 +16,16 @@ Before we start, I have a few things that I want to go over with you:
 
 •	I want to check with you before we get going. Are you okay with a couple of additional observers during this session?
 
-     
-> [!TIP]
+
 •	Are you comfortable if I record as we talk today? We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
 
-     o	Knowing that, can I record this conversation as we talk today?
+o	Knowing that, can I record this conversation as we talk today?
 
-[Record answer here]
-
-     o	If yes: Once I start recording, I am going to confirm that you are okay with me recording this session once more.
+o	If yes: Once I start recording, I am going to confirm that you are okay with me recording this session once more.
 
 ➡️ Start recording.
 
 •	I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-> 
-[Record answer here]
 
 ## [Warm-up questions] - 5 minutes
 **1.	Can you tell me about yourself and the role you have with the VA?**
