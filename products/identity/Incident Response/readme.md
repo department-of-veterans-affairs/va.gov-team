@@ -40,3 +40,5 @@ When the service is restored and the incident is resolved:
 - Generate a Post Mortem report of the incident.
 - Reference [system recovery procedure documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Incident%20Response/System%20Recovery%20Procedures) for the relevant service to determine proper testing and communication.
 - After all fields in Datadog are complete and accurate, the [incident commander](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/IR%20Roles.md) sets the incident to Completed and provides a link to the incident to [OCTO Identity team leadership](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md).
+
+![Screenshot 2025-05-05 at 9 00 46 AM](https://github.com/user-attachments/assets/263712a3-8c44-4f9c-bc3f-64c9201091b8)
