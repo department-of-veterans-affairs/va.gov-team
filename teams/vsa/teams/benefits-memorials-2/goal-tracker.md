@@ -110,8 +110,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |ENG: Define remaining work on One thing per page effort |QP5|--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [ ] Ready to be sent for approvals (05/xx/25)
- - [ ] VA PO & COR sent the Sprint Goals (05/xx/25)
+ - [X] Ready to be sent for approvals (05/05/25)
+ - [X] VA PO & COR sent the Sprint Goals (05/05/25)
  - [ ] VA PO approved the Sprint Goals (05/xx/25)
  - [ ] VA COR approved the Sprint Goals (05/xx/25)
  
