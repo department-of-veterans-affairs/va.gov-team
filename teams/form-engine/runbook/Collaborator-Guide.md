@@ -150,15 +150,23 @@ When you are ready to begin providing the content for a new form conversion, the
 
 ### First inputs for a new form
 
-After selecting the Build a new form option, you will need to provide from the existing form the information contained on it. This begins with the form name and number. 
+After selecting the Build a new form option, you will need to provide from the existing form the information contained on it. 
+This begins with the form name and number. 
+
 
 ![Form Info start]( ./guide-images/FormInfo-name-and-number.jpeg)
 
+
+
 Additionally, you will need to add in the OMB information. 
+
+
 
 ![Form Info OMB Info]( ./guide-images/FormInfo-OMBInfo.jpeg)
 
-Importantly, you will also need to add the Header for the form to use on each of the pages that faces the user.  This is referred to as the Plain Language Header. This is general purpose of the form 
+Importantly, you will also need to add the Header for the form to use on each of the pages that faces the user.  
+This is referred to as the Plain Language Header. 
+It is easy to think of this as the general purpose of the form for the user.
 
 ![Form Info OMB Info]( ./guide-images/FormInfo-PlainLanguageHeader.jpeg)
 
@@ -169,11 +177,13 @@ Importantly, you will also need to add the Header for the form to use on each of
 The next screen will show all of the default steps in the new form.   
 This is also the screen you will go to when selecting an existing form to edit.  
 
-![][image5]
+![Layout Page]( ./guide-images/LayoutPage-start.jpg)
 
 Breadcrumbs at the top should show your location within this form. 
 
-Note that the parts of this form are separated into three general areas.
+Note that the name of the form is how you will get back to this location. 
+
+Also note that the parts of this form are separated into three general areas.
 
 Form overview has the first page you worked on with information about the form and will also contain the Introduction page.
 
@@ -195,7 +205,7 @@ Access the Introduction page by clicking on the page title. You will then be abl
 
 Note that the Content team will want to review or assist with area, so collaborating with them is very helpful. 
 
-![][image6]
+![Incomplete Intro page]( ./guide-images/IntroPage-incomplete.jpg)
 
 You do not have to complete this section first.
 
