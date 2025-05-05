@@ -1,4 +1,4 @@
-## va-search: Search and Filter
+## Search and Filter Product Outline [DRAFT]
 
 ### [Design Decisions] TBD
 
@@ -14,7 +14,7 @@
 - [Guidance](https://design.va.gov/templates/search-results) 
 
 ## Summary
-- The va-search component is being developed to  help users filter a large volume of search results. Typically, in large libraries of content or articles.
+- The Search Filter component is being developed to  help users filter a large volume of search results. Typically, in large libraries of content or articles.
 - 
   
 ## Objectives
