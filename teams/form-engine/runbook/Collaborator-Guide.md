@@ -25,16 +25,6 @@ Keep in mind, this documentation is “living.” and will reflect updates to th
 #### • [Handing off the form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/form-engine/runbook/Collaborator-Guide.md#handing-off-the-form)
 
 
-
-
-
-
-
-
-
-
-
-
 ### The purpose of Form Builder
 
 Form Builder was created to simplify the digitization of existing forms available to the Veteran.   
@@ -99,7 +89,6 @@ Every effort has been made to control the output of this process so that the Col
 There are areas that will need to be created and then reviewed as part of this digitization effort, and that is where it makes sense to get Content and IA involved at the start so that a form uses the right amount of and style of content to label sections, interactions, and elements that ask for information from the user. 
 
 For more information about touchpoints and this process you can [follow this link](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/overview)
-
 
 
 ### Overview of the Form Builder User Interface
@@ -310,15 +299,13 @@ Available once more than one question is added, you can arrange the order in whi
 
 ## Sharing for review and approval
 
-*(Section overview)*
+Reviewing the output of this process is critical to making sure that the content is consistent with the other interactions and communications that a Veteran or their beneficiaries may experience. When you are ready to share your progress on a form conversion, there will likely be a touchpoint within the collaboration cycle that aligns to where you are in the process. You may also want to share early with other collaborating teams such as ADE and Content and IA. 
 
 ### Viewing the form on staging
 
-*(Screen shots and overview instructions to be added for this area)*
+If the instructions here for establishing an app to host the content of the form have been followed, you should be able to share the output from the tool after 24 hours. The normal pickup time for new content is daily. There may be occasions where this is delayed slightly, however planning ahead for at least one day to populate your newest content to a readable form is likely sufficient. 
 
-### Sharing for feedback and review
-
-*(Screen shots and overview instructions to be added for this area)*
+ 
 
 ## Editing the content of a form
 
