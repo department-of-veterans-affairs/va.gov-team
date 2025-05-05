@@ -100,13 +100,13 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 8 [5/7/25 - 5/20/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Complete the monthly Medallia report. | QP4 |--|--|--|
-|UX: Finish recruiting Veterans with Perigean for Wizard & Digital Dispute Usability Study and for internal pilot sessions. | QP3 QP4 |--|--|--|
-|UX: Determine UX limitations on pay.gov. | QP6 |--|--|--|
-|UX:  Launch Wizard & Digital Dispute Usability Study. | QP3 QP4 |--|--|--|
+|UX: Complete the monthly Medallia report | QP4 |--|--|--|
+|UX: Finish recruiting Veterans with Perigean for Wizard & Digital Dispute Usability Study and for internal pilot sessions | QP3 QP4 |--|--|--|
+|UX: Determine UX limitations on pay.gov | QP6 |--|--|--|
+|UX:  Launch Wizard & Digital Dispute Usability Study | QP3 QP4 |--|--|--|
 |UX: Collaborate with Mobile Feature Support (MFS) Team | QP7 |--|--|--|
 |ENG: Coordinate kickoff call with Pay.gov team to understand scope | QP7|--|--|--|
-|ENG: Continue efforts on Digital Dispute. | QP4 |--|--|--|
+|ENG: Continue efforts on Digital Dispute | QP4 |--|--|--|
 |ENG: Define remaining work on One thing per page effort |QP5|--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
