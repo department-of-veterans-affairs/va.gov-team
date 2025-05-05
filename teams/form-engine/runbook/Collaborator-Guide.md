@@ -214,15 +214,27 @@ This tool supports “non-linear” editing, so you may proceed with adding step
 
 ## Working with steps in Form Builder
 
-Most forms will have at least three “sections”  which contain several numbered questions. Although these are similar from form to form, there are variances and differences that reflect considerations to physical space or other important choices that were made when the physical form was designed for use. 
+Most existing (paper or PDF) forms will have at least three “sections”  which contain several numbered questions. Although these are similar from form to form, there are variances and differences that reflect considerations to physical space or other important choices that were made when the physical form was designed for use. 
 
-The Form Builder will automatically add the default steps (and parts) of a form including an Introduction, Personal information, Review and Confirmation areas. The remaining questions outside of these will need to be added as steps to the digital form.
+The Form Builder will automatically add the default steps (and parts) of a form including an Introduction, Personal information, Review and Confirmation areas. Typically, these are the first section of the paper or PDF form. The remaining questions outside of these will need to be added as steps to the digital form. The final section of each form is where the signature is collected. This is also automatically handled with the Form Engine, and you will not need to configure it within the Form Builder UI. 
 
-Any added steps can be deleted, re-ordered, edited or added to. 
+This leaves only the unique questions and information to be gathered per the paper or PDF form. 
+
+To collect these inputs from the user, you will need to craft each question as either a single question within a step, or a repeated set of questions within a step. 
+
+If you think a series of questions work best together as a step, and they aren't repeated, they can be kept together. Please keep in mind the design principle of one thought per page and realize that each question and response will be on its own page, even if kept in the same step. 
+
+After step or steps have been added to the form, you may edit, delete, reorder or add additional steps to the form. 
+
+
 
 ### Adding a step
 
-*(Screen shots and overview instructions to be added for this area)*
+To begin adding a step, you will need to begin from the layout page of the form, which has the form name in the breadcrumbs at the top. You should be able to see the "Add step" button listed after the default steps provided by the Form Builder.
+
+
+![Add a step]( ./guide-images/IntroPage-incomplete.jpg)
+
 
 ### Pre-defined v. Custom
 
