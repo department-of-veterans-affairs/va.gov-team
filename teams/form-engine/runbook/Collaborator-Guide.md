@@ -305,6 +305,8 @@ Reviewing the output of this process is critical to making sure that the content
 
 If the instructions [here for establishing an app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/form-engine/runbook/README.md#creating-the-vagov-application) to host the content of the form have been followed, you should be able to share the output from the tool after 24 hours. The normal pickup time for new content is daily. There may be occasions where this is delayed slightly, however planning ahead for at least one day to populate your newest content to a readable form is likely sufficient. 
 
+![viewing form]( ./guide-images/ViewForm.jpeg)
+
  
 
 ## Editing the content of a form
@@ -325,7 +327,7 @@ The layout screen may look something like this example (below). This will list a
 
 **To replace a step or to change it's functionality... you must delete and add a new step.** 
 
-![Layout Page]( ./guide-images/LayoutPage-start.jpg)
+![Layout Page]( ./guide-images/ManySteps.jpg)
 
 
 
