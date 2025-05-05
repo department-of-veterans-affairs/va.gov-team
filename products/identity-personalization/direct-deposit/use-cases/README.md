@@ -71,7 +71,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
   - [Link to code for messaging](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4af4e2e0fed33ea05835acd63566fd02970abd/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx)
 - [Flagged: BGS has flagged the routing number for fraud](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4af4e2e0fed33ea05835acd63566fd02970abd/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx)
 
-### Blockecd users 
+### Blocked users 
 - [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
 
 ### Validation
