@@ -313,7 +313,9 @@ Editing an existing form's content can be done from within the Form Builder. The
 
 ### Accessing a previously started form
 
-Once logged into the home page (shown below), the list of most recent forms that have been started are presented. In the future, we expect to be able to show which forms are in progress (as drafts), in review, or are published ... which would serve as templates for similar forms. 
+Once logged into the home page (shown below), the list of most recent forms that have been started are presented below the opportunity to build a new form. 
+
+In the future, we expect to be able to show which forms are in progress (as drafts), in review, or are published ... which would serve as templates for similar forms. 
 
 ![landing page]( ./guide-images/FB-Home.jpg)
 
