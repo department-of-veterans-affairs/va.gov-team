@@ -40,8 +40,6 @@
 
 </details>
 
-> [!TIP]
-> Delete priorities not supported by this research.
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
@@ -101,8 +99,6 @@ Are there moments that matter?</summary>
 
 **`5.`[Enter Q5]**
 
-> [!TIP]
->Enter more questions as needed
 
 ### Hypotheses
 > [!NOTE]
