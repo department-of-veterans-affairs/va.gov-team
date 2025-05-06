@@ -158,6 +158,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - We will now provide a prototype for you to interact with. This prototype has limited functionality so do not expect all buttons to work. As you navigate through the prototype please share any thoughts, frustrations, or points of confusion.
 
+[Link to Mobile prototype](https://www.figma.com/proto/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?page-id=639%3A217763&node-id=639-256763&p=f&viewport=3132%2C12765%2C0.44&t=EKzVANrDrYUsm8KA-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=639%3A256763)
+
+[Link to Desktop prototype](https://www.figma.com/proto/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?page-id=639%3A269369&node-id=639-269431&p=f&viewport=288%2C179%2C0.07&t=lvddPVVrS8SYhrX0-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=639%3A269431)
+
 - Navigate to where you would expect to update your delivery preferences.
 
 - How would you describe what “paperless” means? (expected response: they will not receive mail but instead will access documents on VA.gov)
