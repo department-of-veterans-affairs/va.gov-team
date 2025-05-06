@@ -19,7 +19,7 @@ Prefill  | [Original Epic](https://github.com/department-of-veterans-affairs/tmf
 ## Projects in Flight
 Project | Epic | Documentation | Collab Cycle, if any | Status
 --- | --- | --- | --- | ---
-Marital Status | Original [Epic](TBD) | Documentation TBD | Staging Collab TBD | Designs are finalized, pending feedback from Content Team's review and 1010EZ Team's research 
+Marital Status | Original [Epic](TBD) | [Marital Status Pattern Design Decisions](https://docs.google.com/spreadsheets/d/1QF-FHZAW3fTNByj-2RWhnDAL7_qcLR_AjVrgA0-ubqM/edit?gid=0#gid=0); [Content Team Review Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108767); [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742843561511/4f5e5e77a91df7e061628888f10dfb7b10309183); [Figma Designs](https://www.figma.com/design/Ie3VE755qGlK7ONjKGQpNd/AE-Design-Patterns---Marital-Status?node-id=1-128&p=f&t=PqLxgVJITaSqINah-0) | Staging Collab TBD | Designs are finalized, pending feedback from Content Team's review and 1010EZ Team's research 
   |  |  |  |  |
   |  |  |  |  |
   |  |  |  |  |
