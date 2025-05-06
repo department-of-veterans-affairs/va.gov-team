@@ -78,7 +78,7 @@ How might we reimagine the logged-in landing experience to surface timely, relev
 
 ### Key Performance Indicators (KPIs)
 
-NEED TO DISCUSS JUST TOSSED RANDOM THINGS IN HERE 
+NEED TO DISCUSS JUST TOSSED IDEAS IN HERE 
 | Category             | KPI                             |
 |----------------------|-----------------------------------|
 | Ease of use          | Task success rate                 | 
