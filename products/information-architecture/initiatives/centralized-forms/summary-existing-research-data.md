@@ -3,7 +3,6 @@
 **Question we want to answer**
 - How well can visitors find forms - both the online and the PDF versions - as well as form-related tools such as the form upload tool or their form status?
 
-"Need a central list of Forms"
 
 ## Find a VA form experience
 
@@ -35,7 +34,8 @@
   - "There's no link to upload a form, once completed on this page, as instructions state."
   - "Upload the 21-509 form, as it says I can do on the 21-509 form download page (https://www.va.gov/find-forms/about-form-21p-509/), 'Download this PDF form and fill it out. Then submit your completed form on this page....' I saw no link to upload the form, and no link that might take me to a form upload page."
   
-
+**Other related comments:**
+- "Need a central list of Forms"
 
 ### Analytics
 
