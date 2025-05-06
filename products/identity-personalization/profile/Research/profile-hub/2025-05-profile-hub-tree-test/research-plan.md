@@ -203,27 +203,27 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 ## Approvals ✅
 - `Reviewed by [Chante, OCTO Product Owner] on [05-01-2025]`
-- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
+- `Reviewed by OCTO Research-Ops Lead on [05-05-2025]`
 
 
 ## Appendix
 
 Jump to:
 
-[Instruction email](#instructionemail)
+[Instruction email](#instruction-email)
 
-[Tree test structure](#treeteststructure)
+[Tree test structure](#tree-test-structure)
 
-[Study flow](#studyflow)
+[Study flow](#study-flow)
 
-[Perigean completion codes](#completioncodes)
+[Perigean completion codes](#perigean-completion-codes)
 
 [Analysis](#analysis)
 
-[Laws related to this work](#laws)
+[Laws related to this work](#laws-related-to-this-work)
 
 
-### Instruction email<a id=”instructionemail”></a>
+### Instruction email<a id=”instruction-email”></a>
 Subject: Veteran User Experience Research Studies - Study Details (VA.gov Profile Feedback)
 
 Hello,
@@ -241,7 +241,7 @@ To participate:
 **[Start the activity now](https://dj540s05.optimalworkshop.com/treejack/profile-hub)**
 
 
-### Tree test structure<a id=”treeteststructure”></a>
+### Tree test structure<a id=”tree-test-structure”></a>
 
 Profile
 - Personal information
@@ -255,7 +255,7 @@ Profile
 - Connected apps
 
 
-### Study flow<a id=”studyflow”></a>
+### Study flow<a id=”study-flow”></a>
 
 **Welcome**
 
@@ -271,20 +271,20 @@ We'll guide you through each task in the activity. Select ‘Continue’ to get 
 All questions other than Q1 will be randomized to reduce bias.
 
 1. **Disability rating/** For all tasks we're going to ask you to imagine you've signed into VA.gov and have navigated to your profile. For the first task, where would you expect to find your disability rating in the VA.gov profile?
-2. **Dependents/** Where would you expect to update information about your marriage or spouse?
+2. **Dependents/** If you were recently married and needed to update your spouse's information with the VA for benefits, where would you expect to do that?
 3. **Heath care contacts/** Where would you expect to find your VA health care next of kin information?
-4. **Accredited representative/** If you were currently working with a VSO, where would you expect to find information about them?
+4. **Accredited representative/** If you were working with a Veteran Service Organization (VSO) representative or attorney to file a VA claim, where would you expect to find their contact information?
 5. **Period of service/** Where would you expect to find information about what military branch you served in?
 6. **Direct deposit/** Where would you expect to update your VA direct deposit information?
 7. **ILER IES/** Where would you expect to download a PDF copy of your possible military toxic exposure information?
 8. **Veteran Status Card/** Where would you expect to find a digital version of your Veteran ID Card?
-9. **Paperless delivery/** Where would you expect to opt into digital delivery of VA documents?
-10. **MHV signatures/** Where would you expect to manage your health care signature, which would appear on messages to your VA doctor?
+9. **Paperless delivery/** If you wanted to opt out of getting a mailed paper copy of your 1095-B Proof of Health Care tax form from the VA, where would you expect to do that?
+10. **MHV signatures/** Where would you expect to go to manage or update the signature that appears on messages you send to your VA doctor?
 
 
 **Post-Study Questions**
 
-1. \[Open input, optional] Of the sections listed below, are there any missing that you’d expect to see in the VA.gov profile?
+1. \[Open input, optional] Other than the sections below, are there any sections you’d expect to see in the VA.gov profile?
    - Personal information
    - Contact information
    - Dependents and personal contacts
@@ -302,7 +302,9 @@ All questions other than Q1 will be randomized to reduce bias.
    4. Dependents and contacts
    5. Other
 
-3. \[Open input, optional] Any other feedback you’d like to provide about your experience today?
+3. \[Scaled response 1 - 5, required] How would you rate your satisfaction with the VA.gov profile structure presented today?
+
+4. \[Open input, optional] Any other feedback you’d like to provide about your experience today?
 
 
 **Thanks**
@@ -312,7 +314,7 @@ Thank you for your participation in this activity to help us improve benefits fo
 You may now close this window or navigate to another web page.
 
 
-### Perigean completion codes<a id=”completioncodes”></a>
+### Perigean completion codes<a id=”perigean-completion-codes”></a>
 
 **Complete, Usable** 
 
@@ -353,7 +355,7 @@ To determine success we’ll be evaluating the following metrics:
 Open-ended questions will be analyzed by the moderator. Answers will be evaluated for themes and presented as options to the team for future feature sets.
 
 
-### [Laws related to this work](<https://depo-platform-documentation.scrollhelp.site/research-design/laws-related-to-the-work-of-octo-and-the-veteran-d>)<a id=”laws”></a>
+### [Laws related to this work](<https://depo-platform-documentation.scrollhelp.site/research-design/laws-related-to-the-work-of-octo-and-the-veteran-d>)<a id=”laws-related-to-this-work”></a>
 
 - [Elizabeth Dole Act (2024)](https://www.congress.gov/bill/118th-congress/house-bill/8371/text/rds)/ Requires VA to maintain a centralized, publicly accessible website for Veteran resources.
 - [21st Century IDEA (2018)](https://www.congress.gov/bill/115th-congress/house-bill/5759)/ Requires VA.gov to be modern, mobile-friendly, consistent, and secure while digitizing paper-based processes and improving the customer experience.
