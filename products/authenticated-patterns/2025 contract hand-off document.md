@@ -30,8 +30,8 @@ Marital Status | Original [Epic](TBD) | [Marital Status Pattern Design Decisions
 
 Project | Epic | Documentation | Collab Cycle, if any | Status
 --- | --- | --- | --- | ---
-  |  |  |  |  |
-  |  |  |  |  |
+VADX ideas for discovery | [Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/192) | Documentation TBD | N/A | Epic created; ideas added |
+[Personal Notification] [Pattern] Help users to... Know when there's a personal notification | [Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/19) | Documentation TBD | Collab Cycle TBD | Epic and tasks created |
   |  |  |  |  |
   |  |  |  |  |
   |  |  |  |  |
