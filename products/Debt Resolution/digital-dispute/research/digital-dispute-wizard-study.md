@@ -445,7 +445,7 @@ Traumatic brain injury
   
 7. What is your annual household income level?
 
-**For reviewers understanding only (please do not include in recruitment screener) - why we ask this:** This criteria is essential because it is a primary indicator of financial wellbeing and a possible indicator of financial hardship and/or poverty. We want to speak to Veterans in a range of financial situations, from high financial need to low financial need, because it is our hope that the debt portal can be accessed and the resources understood and acted upon regardless of financial situation. Combined with question 4, this also gives us a good indication as to what situation a Veteran might be in for the purpose of recruitment and for preparation before interviews. 
+**For reviewers understanding only (please do not include in recruitment screener) - why we ask this:** This criteria is essential because it is a primary indicator of financial wellbeing and a possible indicator of financial hardship and/or poverty. We want to speak to Veterans in a range of financial situations, from high financial need to low financial need, because it is our hope that the debt portal can be accessed and the resources understood and acted upon regardless of financial situation. Stress and financial stress can affect comprehension, and understanding comprehension is a primary goal of this study. Combined with question 4, this also gives us a good indication as to what situation a Veteran might be in for the purpose of diverse recruitment and for preparation before interviews. 
  
 $0 - $25K 
 $25K - 49.9K 
