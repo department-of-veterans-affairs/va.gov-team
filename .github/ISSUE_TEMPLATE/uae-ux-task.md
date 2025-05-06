@@ -7,15 +7,13 @@ assignees: ''
 
 ---
 
-## How to configure this issue
-* Add title and task description
-* Update the Acceptance Critera list
-* Attach to an Epic. [List of Epics](https://github.com/orgs/department-of-veterans-affairs/projects/1214/views/13)
-* **Delete this section**
----
-
 ## Background
 [//]: # (Include any information needed to complete this ticket. Information should be enough for someone with little to no knowledge of the ticket to complete the work.)
+
+## Deliverables
+[//]: # (Link to any design files needed to understand the work.)
+
+- Deliverable 1
 
 ## Tasks
 [//]: # (Include any tasks for this work. Consider breaking subtasks into additional tickets)
