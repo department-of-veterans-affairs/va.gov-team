@@ -42,15 +42,19 @@
 Q1 2025 (Jan 1 - Mar 31)
 
 **Top 5 related pages clicked in search**
+- In the top 1000 URLs clicked in search, 223,098 of 1,542,293 (14.5%) clicks were pages within the Find a VA form sub-directory
 
 Page | Clicks from search results
 --- | ---
-Find a VA form landing page | 24463
-Form 21-0966 | 14988
-Form 20-0955 | 12105
-Form 21-4138 | 11109
-Form 22-1990e | 9087
+Find a VA form landing page | 24,463
+About form 21-0966 | 14,988
+About form 22-5490 | 13,114
+About form 20-0955 | 12,105
+About form 21-4138 | 11,109
+About form 22-1990e | 9087
 
+Page | Pave views | Entrance rate | Bounce rate | Exit rate
+--- | --- | --- | --- | ---
 
 
 
@@ -95,7 +99,43 @@ Form 22-1990e | 9087
 
 Q1 2025 (Jan 1 - Mar 31)
 
+
+**Summary**
+- The landing page receives 2.6% of all page views in the section
+
+
+**Page performance**
+
+Page | Pave views | Entrance rate | Bounce rate | Exit rate
+--- | --- | --- | --- | ---
+All pages in section | 841,494 | 3.8% | 9.54% | 6042%
+Supporting forms landing page | 22,188 | 13.87% | 5.24% | 12.44%
+
+
+**Supporting forms landing page - top next pages**
+
+Page | %
+--- | --- 
+Home page | 14.14%
+Find form > About form 21-10210 | 11.46%
+Disability > Additional forms | 8.98%
+Search | 5.68% 
+
+
+**Supporting forms landing page - top referring pages**
+
+Page | %
+--- | --- 
+Disability > How to file | 18.72%
+Disability > Additional forms | 15.1%
+Google | 14.78%
+Search | 5.43%
+Lay witness form 21-10210 | 4.95%
+
+
+
 **Top 5 related pages clicked in search**
+- In the top 1000 URLs clicked in search, 7,960 of 1,542,293 (.5%) clicks were pages within the supporting forms for claims form sub-directory
 
 Page | Clicks from search results
 --- | ---
