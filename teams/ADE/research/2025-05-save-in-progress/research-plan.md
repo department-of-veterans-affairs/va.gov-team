@@ -197,7 +197,8 @@ Cindy is available for a kickoff call during any of these times:
 
 - `Dates and times of pilot sessions:` 
   - **Mon May 5 from 3:30-5 pm ET** with Sarah Koomson
-  - **Tue May 6 from 4-5:30 pm ET** Maria Mutia
+  - **Tue May 6 from 4-5:30 pm ET** with Maria Mutia
+  - **Wed May 7 from 4-5:30 pm ET** with Evan Burnett
 
 ### Research sessions
 - `Planned dates of research:` **May 12-21**
