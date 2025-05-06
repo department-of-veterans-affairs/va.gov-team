@@ -29,7 +29,8 @@ Veterans submitting online 21-686c and 21-674 claims can trust that their submis
 
 ## Core Bet
 
-- By modernizing the 686c/674 online forms to match current business rules and streamline inputs we believe we will reduce downstream errors and manual interventions while improving Veteran trust in the digital experience.
+By modernizing the 686c/674 online forms to match current business rules and streamline inputs we believe we will reduce downstream errors and manual interventions while improving Veteran trust in the digital experience.
+
 ---
 ## Measuring Success
 
