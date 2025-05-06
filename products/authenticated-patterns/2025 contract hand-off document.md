@@ -1,5 +1,5 @@
 # Authenticated Experience Design Patterns Team Hand-off Document
-### Last updated: 4-25-2025
+### Last updated: 5-6-2025
 
 The Authenticated Experience Design Patterns team works on research and design of experimental designs, in collaboration with the Design System Team. Engineering teams are then able to adopt the patterns into their applications and forms, either as-is, or when available, with allowed adjustments to the designs.
 
