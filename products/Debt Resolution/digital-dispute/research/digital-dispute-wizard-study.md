@@ -515,7 +515,7 @@ Send pilot participant email in study Slack channel
 -   Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?) [Enter NUM per day]
     
 
-**2 sessions per day max**
+**3 sessions per day max**
 
 
 ### Availability
@@ -532,62 +532,51 @@ Please request enough dates and at least double the amount of time slots for the
 
 Place time slots between hash marks when in edit mode.
 
+
 **Recurring timeslots:**
 
-12pm - 1pm EST 
+*Early afternoon ET timeslots with 1 hour between interviews*
 
-and
 
-2pm - 3pm ESt
+12pm - 1pm EST and
 
+2pm - 3pm EST 
 
 OR
 
-1pm - 2pm EST
-
-and
+1pm - 2pm EST and
 
 3pm - 4pm EST
 
+*Late afternoon ET timeslot*
+
+
+3 - 5pm EST
+
     
 -   [05/14, Day, 12PM-1PM AM/PM] EST
--   
 -   [05/14, Day, 2PM-3PM] EST
--   
+-   [05/14, Day, 3-5PM] EST
 -   [05/15, Day, 12PM-1PM AM/PM] EST
--   
 -   [05/15, Day, 2PM-3PM] EST
--   
+-   [05/15, Day, 3-5PM] EST
 -   [05/16, Day, 12PM-1PM AM/PM] EST
-    
 -   [05/16, Day, 2PM-3PM] EST
-    
+-   [05/16, Day, 3-5PM] EST
 -   [05/19, Day, 12PM-1PM AM/PM] EST
-
 -   [05/19, Day, 2PM-3PM] EST
-
+-   [05/19, Day, 3-5PM] EST
 -   [05/20, Day, 12PM-1PM AM/PM] EST
-    
 -   [05/20, Day, 2PM-3PM] EST
-    
--   [05/21, Day, 12PM-1PMT AM/PM] EST
-    
+-   [05/20, Day, 3-5PM] EST
+-   [05/21, Day, 12PM-1PM AM/PM] EST
 -   [05/21, Day, 2PM-3PM] EST
+-   [05/21, Day, 3-5PM] EST
+-     [5/22, Day, 12PM-1PMT AM/PM] EST
+-   [05/22, Day, 2PM-3PM] EST
+-   [05/22, Day, 3-5PM] EST
+-   [05/22, Day, 2PM-3PM] EST
   
-
-Begins: Monday 5/12
-
-  
-
-Monday: 10am PT - 2pm PT
-
-Tuesday: 10am PT - 2pm PT
-
-Wednesday: 10am PT - 2pm PT
-
-Thursday: 10am PT - 2pm PT
-
-Friday: 10am PT - 2pm PT
 
   
 
