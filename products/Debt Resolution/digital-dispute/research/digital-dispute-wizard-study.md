@@ -554,28 +554,28 @@ OR
 3 - 5pm EST
 
     
--   [05/14, Day, 12PM-1PM AM/PM] EST
--   [05/14, Day, 2PM-3PM] EST
--   [05/14, Day, 3-5PM] EST
--   [05/15, Day, 12PM-1PM AM/PM] EST
--   [05/15, Day, 2PM-3PM] EST
--   [05/15, Day, 3-5PM] EST
--   [05/16, Day, 12PM-1PM AM/PM] EST
--   [05/16, Day, 2PM-3PM] EST
--   [05/16, Day, 3-5PM] EST
--   [05/19, Day, 12PM-1PM AM/PM] EST
--   [05/19, Day, 2PM-3PM] EST
--   [05/19, Day, 3-5PM] EST
--   [05/20, Day, 12PM-1PM AM/PM] EST
--   [05/20, Day, 2PM-3PM] EST
--   [05/20, Day, 3-5PM] EST
--   [05/21, Day, 12PM-1PM AM/PM] EST
--   [05/21, Day, 2PM-3PM] EST
--   [05/21, Day, 3-5PM] EST
+-       [05/14, Day, 12PM-1PM AM/PM] EST
+-       [05/14, Day, 2PM-3PM] EST
+-       [05/14, Day, 3-5PM] EST
+-       [05/15, Day, 12PM-1PM AM/PM] EST
+-       [05/15, Day, 2PM-3PM] EST
+-       [05/15, Day, 3-5PM] EST
+-       [05/16, Day, 12PM-1PM AM/PM] EST
+-       [05/16, Day, 2PM-3PM] EST
+-       [05/16, Day, 3-5PM] EST
+-       [05/19, Day, 12PM-1PM AM/PM] EST
+-       [05/19, Day, 2PM-3PM] EST
+-       [05/19, Day, 3-5PM] EST
+-       [05/20, Day, 12PM-1PM AM/PM] EST
+-       [05/20, Day, 2PM-3PM] EST
+-       [05/20, Day, 3-5PM] EST
+-       [05/21, Day, 12PM-1PM AM/PM] EST
+-       [05/21, Day, 2PM-3PM] EST
+-       [05/21, Day, 3-5PM] EST
 -     [5/22, Day, 12PM-1PMT AM/PM] EST
--   [05/22, Day, 2PM-3PM] EST
--   [05/22, Day, 3-5PM] EST
--   [05/22, Day, 2PM-3PM] EST
+-       [05/22, Day, 2PM-3PM] EST
+-       [05/22, Day, 3-5PM] EST
+-       [05/22, Day, 2PM-3PM] EST
   
 
   
