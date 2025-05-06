@@ -327,7 +327,7 @@ The layout screen may look something like this example (below). This will list a
 
 **To replace a step or to change it's functionality... you must delete and add a new step.** 
 
-![Layout Page]( ./guide-images/ManySteps.jpg)
+![Layout Page]( ./guide-images/MultipleStepsAdded.png)
 
 
 ### Reviewing the updates
