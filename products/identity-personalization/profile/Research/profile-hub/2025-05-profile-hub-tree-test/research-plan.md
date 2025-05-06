@@ -79,6 +79,10 @@ Are there moments that matter?</summary>
 
 **`3.` Based on prior research, we believe Veterans will want all of their contacts in a single section in VA.gov Profile.** 
 
+*Note: We acknowledge the limitations of this study, in that informed recommendations are based on multiple studies. For that purpose we added in additional questions to ensure there are no categories missed in VA.gov profile. While also planning to evaluate post launch search terms to see if users are finding the information they’re looking for in their profile.* 
+
+**`4.` Post launch hypothesis: We believe we will see a decrease in top search terms as users will be able to find what they’re looking for within the profile.**
+
 ---
   
 
@@ -259,7 +263,7 @@ Profile
 
 **Welcome**
 
-Thank you for participating in this VA research study to help us improve the VA.gov profile experience. Your thoughtful participation will help ensure that Veterans are able to successfully find all information in their profiles.
+Thank you for participating in this VA research study to help us improve the VA.gov profile experience. Your thoughtful participation will help ensure that Veterans are able to successfully find information in their profiles.
 
 This activity usually takes about 10 to 15 minutes to complete. It is not timed.
 
@@ -279,7 +283,7 @@ All questions other than Q1 will be randomized to reduce bias.
 7. **ILER IES/** Where would you expect to download a PDF copy of your possible military toxic exposure information?
 8. **Veteran Status Card/** Where would you expect to find a digital version of your Veteran ID Card?
 9. **Paperless delivery/** If you wanted to opt out of getting a mailed paper copy of your 1095-B Proof of Health Care tax form from the VA, where would you expect to do that?
-10. **MHV signatures/** Where would you expect to go to manage or update the signature that appears on messages you send to your VA doctor?
+10. **MHV signatures/** Where would you expect to go to manage the signature that appears on messages you send to your VA doctor?
 
 
 **Post-Study Questions**
@@ -295,7 +299,7 @@ All questions other than Q1 will be randomized to reduce bias.
    - Account security
    - Connected apps
 
-2. \[Radio, required, randomized order] What would you call a section of the profile that includes your dependents, health care contacts, and VSO information?
+2. \[Radio, required, randomized order] What would you call a section of the profile that includes your dependents, health care contacts, and Veteran Service Organization (VSO) information?
    1. Dependents and personal contacts
    2. Beneficiaries, dependents, and contacts
    3. My people
