@@ -6,34 +6,30 @@ The Authenticated Experience Design Patterns team works on research and design o
 The information below is constructed to help a future team onboard and come up to speed quickly on work that needs to be accomplished.
 
 
-
 # Projects (Prior, Now, Next)
 
 ## Projects Completed
 
-Project | Portfolio | Epic | Documentation | Collab Cycle, if any | Status
---- | --- | --- | --- | --- | ---
- Critical Action Component |  | [Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/302) |  |  |
-  |  |  |  |  |
-  |  |  |  |  |
-  |  |  |  |  |
-  |  |  |  |  |
+Project | Epic | Documentation | Collab Cycle, if any | Status
+--- | --- | --- | --- | --- 
+Prefill  | [Original Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/17), & [2nd Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/282) | Documentation TBD | Collab [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90181) | Straggler tickets being completed 
+   Critical Action (Information) Component | [Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/302) | Documentation TBD | Collab [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105516) | Finished |
+   Service List | [Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/258) | Documentation TBD | Collab [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105516) | Finished |
 
 ## Projects in Flight
-Project | Portfolio | Epic | Documentation | Collab Cycle, if any | Status
---- | --- | --- | --- | --- | ---
+Project | Epic | Documentation | Collab Cycle, if any | Status
+--- | --- | --- | --- | ---
+Marital Status | Original [Epic](TBD) | Documentation TBD | Staging Collab TBD | Designs are finalized, pending feedback from Content Team's review and 1010EZ Team's research 
   |  |  |  |  |
   |  |  |  |  |
   |  |  |  |  |
   |  |  |  |  |
-  |  |  |  |  |
-
 
 
  ## Projects Next
 
-Project | Portfolio | Epic | Documentation | Collab Cycle, if any | Status
---- | --- | --- | --- | --- | ---
+Project | Epic | Documentation | Collab Cycle, if any | Status
+--- | --- | --- | --- | ---
   |  |  |  |  |
   |  |  |  |  |
   |  |  |  |  |
