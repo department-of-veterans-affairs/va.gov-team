@@ -32,12 +32,14 @@ The purpose or goal of the Verify application is to get [VA.gov](http://VA.gov) 
 flowchart TD
     A[Somewhere on VA] -->|User| B(Verify page)
     B --> C{User signed in?}
-    C -->|Authenticated| D[Render both verify buttons]
     C -->|Unauthenticated| E[Render buttons based on AuthBroker]
+    C -->|Authenticated unverified| D[Render both verify buttons]
+    C -->|Authenticated verified| I[Render va-alert success]
     D --> F[VA.gov API]
     E --> F[VA.gov API]
     F --> G[Identity verification process]
-    G --> H[VA.gov homepage]
+    G --> H[VA.gov /my-va page]
+    I --> H[VA.gov /my-va page]
 ```
 
 ## Engineering
