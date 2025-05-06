@@ -1,6 +1,6 @@
 # Chatbot <> Ask VA integration design ideas
 
-Last updated by @tygindraux: April 25, 2025
+Last updated by @tygindraux: May 6, 2025
 
 We've started to discuss the potential for integrating Ask VA with VA chatbot. This document describes initial design ideas and includes an example of one approach.
 
@@ -55,7 +55,15 @@ While the user completes these actions, the system(s) will (at a high-level):
 
 When designing this example, we did not closely consider CRM integration or constraints. We also intentionally picked a scenario that is simpler: a general question that relates to an existing chatbot skill. And we have pre-determined the category, topic and subtopic in order to pre-determine and link a routing queue to a specific chatbot skill.
 
-In the future, we need to consider things like:
+#### On pause as of May 2025
+
+This initiative is in on pause as of May 2025, due to competing priorities.
+
+In the future, we will:
+
+- **Regroup on scope.** Chante and Chris mentioned concerns that there will be less sign in related inquiries through chatbot if MVP is only available to authenticated users. And because many sign in issues need to be re-routed to credential service providers (CSPs), this would be a circuitous user flow. We think it's worth re-grouping on the MVP focus: either focus on unauthenticated sign in questions, or authenticated questions about another topic.
+
+We also plan to consider things like:
 - Would the Ask VA representative from the sign in team have all the information they need to answer this (type of) question?
 - How does the sign in chatbot skill need to evolve in order to support this MVP?
 - How would this idea scale to different types of general sign in questions? For example, if they need to go to a different routing queue?
