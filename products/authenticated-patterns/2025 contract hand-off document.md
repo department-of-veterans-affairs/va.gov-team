@@ -41,12 +41,13 @@ VADX ideas for discovery | [Epic](https://github.com/department-of-veterans-affa
 
 # AEDP Artifacts
 
-- Sharepoint documents link
+- Sharepoint Notebook: TBD 
 - GitHub Name: AEDP Team
-- GitHub board [link](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=_noValue)
-- Figma designs (see links in tables above)
-- Mural boards (see links in tables above)
-- Slack channel
+- GitHub board: [link](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=_noValue)
+- Figma designs: (see links in tables above)
+- Mural boards: (see links in tables above)
+- Slack channel (A6): #proj-va-design-patterns
+- Slack channel (DSVA): #tmf-auth-exp-design-patterns
 
 
 # VA Product Owners:
