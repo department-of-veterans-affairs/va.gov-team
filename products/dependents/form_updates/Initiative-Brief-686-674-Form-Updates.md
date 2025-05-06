@@ -35,9 +35,7 @@ Veterans submitting online 21-686c and 21-674 claims can trust that their submis
 | Form start-to-submit rate                                                  | Signals usability of updated flow             | ≥85%                        |
 | Average time to complete form                                              | Should drop if deprecated fields are removed  | Down 10% from baseline      |
 | % of staging submissions that trigger no PDF generation errors             | Sanity check that output is clean before prod | ≥95%                        |
-| % of staging submissions that include all required fields for RBPS         | Data completeness before launch               | ≥90%                        |
-| # of support tickets or user feedback tied to form confusion (post-launch) | UX validation                                 | Low volume or trending down |
-| # of critical accessibility violations (axe or pa11y)                      | Should trend toward zero                      | 0                           |
+| % of staging submissions that include all required fields for RBPS         | Data completeness before launch               | ≥90%              
 
 
 ---
