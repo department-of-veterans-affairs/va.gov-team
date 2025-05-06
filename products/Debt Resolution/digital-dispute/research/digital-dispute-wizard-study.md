@@ -495,7 +495,7 @@ Send pilot participant email in study Slack channel
 
 ### Research sessions
 
--   Planned dates of research: [Enter dates 05/12-05/19]
+-   Planned dates of research: [Enter dates 05/14-05/21]
     
 
 ### Length of sessions
