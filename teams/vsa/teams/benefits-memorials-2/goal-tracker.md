@@ -78,7 +78,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |--|--|--|--|--|
 |UX: Wizard & Digital Dispute Usability Study is submitted for approval by Platform. | QP3 QP4 |--|05/05/25|Completed|
 |UX: Process of recruiting Veterans with Perigean for Wizard & Digital Dispute Usability Study begins. | QP3 QP4 |--|05/06/25|Completed|
-|UX: Begin discovery process to understand Pay.gov ask, business needs, and constraints. | QP6 |--|05/5/25|Completed|
+|UX: Begin discovery process to understand Pay.gov ask, business needs, and constraints. | QP6 |--|05/05/25|Completed|
 |ENG: Coordinate with DMC to meet to discuss zero silent failure email next steps. | QP1 |Blocked by DMC|--|Incomplete|
 |ENG: Coordinate with Huron to meet to discuss zero silent failure email next steps. | QP1 |--|04/22/2025|Completed|
 |ENG: Launch One VA Debt Letter into production | QP2 |--|04/28/2025|Completed|
@@ -112,7 +112,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (05/05/25)
  - [X] VA PO & COR sent the Sprint Goals (05/05/25)
- - [ ] VA PO approved the Sprint Goals (05/xx/25)
+ - [X] VA PO approved the Sprint Goals (05//06/25)
  - [ ] VA COR approved the Sprint Goals (05/xx/25)
  
 **_Delivery + Notes:_**
