@@ -109,22 +109,22 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 3) Can you tell me a little about how you typically receive important forms or communications? (e.g. through physical mail, email, etc.)
 
-4) How comfortable are you using digital platforms to access information or manage settings?
+4) How comfortable are you using digital platforms to access information?
 
 
 ## **First Task: Feelings toward Digital Communication - 5 minutes**
 
 - Interest in Digital Communications
 
-  - Are you interested in receiving all or some of your documents like the 1095-B tax document, decision letters, or other communications digitally on VA.gov instead of by mail? Why or why not?
+  - Are you interested in receiving all or some of your documents like the 1095-B tax document, decision letters, or other communications only digitally on VA.gov and not recieve paper copies by mail? Why or why not?
 
-  - What would make you more likely to choose digital communication over paper mail?
+  - What would make you more likely to choose digital communication only and not receive paper mail?
 
 - Hesitation to Digital Forms
 
-  - Are there any VA forms or other communication you would prefer to receive by physical mail vs digitally on your VA.gov account? Why?
+  - Are there any VA documents or other communication you would prefer to receive by physical mail vs only digitally on your VA.gov account? Why?
 
-  - Are there any specific concerns you would have about receiving certain forms or communications digitally? (e.g. privacy, reliability, easy of access)
+  - Are there any specific concerns you would have about receiving certain documents or communications digitally? (e.g. privacy, reliability, easy of access)
 
 
 ### **Things to watch for:**
@@ -145,11 +145,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### **Things to watch for:**
 
-- Did the participant’s expectations match our designs, how did they differ?
+- Note the paths the participants took to update their delivery preferences.
+
+- Note what words the participants were looking for (e.g. notifications/paperless/mail)
 
 - Did the participant seem confused when navigating to where they would imagine they would update their delivery preferences?
 
-- Note the different paths participants took to update their delivery preferences.
+- Did the participant’s expectations match our designs, how did they differ?
 
 
 ## **Third Task: Usability and Navigation \[Prototype] - 10 minutes**
@@ -158,7 +160,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Navigate to where you would expect to update your delivery preferences.
 
-- How would you describe what “paperless” means? (e.g. they will not receive mail but instead will access documents on VA.gov)
+- How would you describe what “paperless” means? (expected response: they will not receive mail but instead will access documents on VA.gov)
 
 - Is there a different word you would prefer to use?
 
