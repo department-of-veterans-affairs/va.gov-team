@@ -9,7 +9,9 @@ This prompt is designed to help researchers and team members effectively navigat
 - After running this prompt, you can ask Copilot more questions to gather further insights or extrapolate on specifics from its initial response.
 
 ## Prompt
+```
 I am working on a project related to [insert VA.gov product/service/feature here]. I need you to:
+
 1. Find relevant research findings, insights, or artifacts in this repository related to the topic, product, service or feature reference above.
 2. Understand the key outcomes, challenges, or gaps from past research.
 3. Identify any relevant standards, guidelines, or practices documented here that should inform my work.
@@ -21,3 +23,4 @@ Help me navigate this repository to locate relevant information and provide an o
 
 If the research findings are unclear or incomplete, suggest areas where further exploration is needed."
 "If there are no findings on the specified topic, direct me to related resources or areas of the repository that might help."
+```
