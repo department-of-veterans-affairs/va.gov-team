@@ -215,22 +215,21 @@ Before we move on to this next section, I have some questions about the pages yo
 
 ## ‘Wizard’ Post Task Questions (5 minutes)
 
--   What was your overall experience with the pages you reviewed today?
-    
+-   What was your overall experience with the pages you reviewed until this point?
+
+-   How did you feel while finding this form? Were there any moments where you felt frustrated or overwhelmed? If so, why?
+  
 -   What would you change, if anything? What can be improved? Was anything unclear?
     
 
-  
-
--   We want to know your thoughts on how clear the experience you reviewed is. When you answer this question, think about how easily you would find information you are most interested in
+-   We want to know your thoughts on how easy or difficult the experience you reviewed is. When you answer this question, think about how easily you would find information you are most interested in
     
--   On a scale from 1 to 5 with 1 being not clear at all, and 5 being very clear, how clear were the pages you reviewed?
+-   On a scale from 1 to 5 with 1 being not easy at all, and 5 being very easy, how easy were the pages you reviewed?
     
 -   Why did you rate it a (rating)?
     
 ### Intro page
 
-  
 
 -   What are your thoughts on this page?
     
@@ -256,25 +255,22 @@ Before we move on to this next section, I have some questions about the pages yo
   
 
 -   Did you know this option to resolve your debt existed?
-    
+  
+-   Have you encountered something similar to this process before?
+  
+-   How does this compare?
+  
+-   What did  you expect to see on this form that wasn’t there?
 
 ## Digital Dispute Post Task Questions (5 minutes)
 
--   What was your overall experience with the pages you reviewed today?
-    
--   Was there any information missing?
     
 -   What would you change, if anything? What can be improved? Was anything unclear?
-    
 
-  
 
--   We want to know your thoughts on how clear the experience you reviewed is.
+-   We want to know your thoughts on how clear the form you just  reviewed is.
     
 -   When you answer this question, think about how easily you would be able to fill out this form
-    
-
-  
 
 -   On a scale from 1 to 5 with 1 being not easy at all, and 5 being very very easy, how easy to understand fill out was this form?
     
